@@ -1,0 +1,280 @@
+수목원
+	수목원/ncn
+
+사거리에
+	사거리/ncn+에/jca
+
+위치하고
+	위치/ncn+하고/jct
+
+있는
+	있/px+는/etm
+
+연우네
+	연우네/ncn
+
+조미료를
+	조미료/ncn+를/jco
+
+거의
+	거의/mag
+
+쓰지
+	쓰/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+아는
+	알/pvg+는/etm
+
+분이
+	분/nbu+이/jcc
+
+그렇게
+	그렇/pad+게/ecs
+
+이야기
+	이야기/ncpa
+
+했음
+	하/px+었/ep+음/etn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+차는
+	차/ncn+는/jxc
+
+셀프다
+	셀프다/ncn
+
+손님
+	손님/ncn
+
+없을때는
+	없/paa+을/etm+때/nbn+는/jxc
+
+직접
+	직접/mag
+
+갖다
+	갖/pvg+다/ef
+
+주시기도
+	주/px+시/ep+기/etn+도/jxc
+
+하지만
+	하지만/maj
+
+많을때는
+	많/paa+을/etm+때/nbn+는/jxc
+
+차
+	차/ncn
+
+보온통에
+	보온통/ncn+에/jca
+
+있으니
+	있/px+으니/ecs
+
+가서
+	가/pvg+서/ecs
+
+마음껏
+	마음껏/mag
+
+마실수
+	마시/pvg+ㄹ/etm+수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+반찬은
+	반찬/ncn+은/jxc
+
+너무
+	너무/mag
+
+깔끔하게
+	깔끔/ncps+하/xsms+게/ecs
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+정말
+	정말/mag
+
+맛있는
+	맛있/paa+는/etm
+
+반찬
+	반찬/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+맛있겠죠
+	맛있/paa+겠/ep+죠/ef
+
+제가
+	저/npp+가/jcs
+
+두부를
+	두/nnc+부/nbu+를/jco
+
+좀
+	좀/mag
+
+좋아해서
+	좋/paa+아/ecx+하/px+어서/ecs
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+난
+	나/px+ㄴ/etm
+
+비빔밥
+	비빔밥/ncn
+
+맛있다
+	맛있/paa+다/ef
+
+.
+	./sf
+
+
+양도
+	양/ncn+도/jxc
+
+많지
+	많/paa+지/ecx
+
+않고
+	않/px+고/ecc
+
+딱
+	딱/mag
+
+적당하다
+	적당/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+녹차
+	녹차/ncn
+
+수제비국
+	수제비/ncn+국/ncn
+
+정말
+	정말/mag
+
+맛있다
+	맛있/paa+다/ef
+
+원래
+	원래/mag
+
+수제비를
+	수제비/ncn+를/jco
+
+싫어했는데
+	싫/paa+어/ecx+하/px+었/ep+는데/ecs
+
+여기와서는맛있게
+	여기와서는맛있/ncn+게/jca
+
+먹네요
+	먹/pvg+네/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+맛있게
+	맛있/paa+게/ecs
+
+비벼진
+	비비/pvg+어/ecx+지/px+ㄴ/etm
+
+비빔밥
+	비빔밥/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+차림표이다
+	차림표/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+맛있게
+	맛있/paa+게/ecs
+
+먹고
+	먹/pvg+고/ecc
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찰칵
+	찰칵/mag
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+자주
+	자주/mag
+
+가는
+	가/pvg+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+제주포유여행사
+	제주/ncn+포유/ncpa+여행사/ncn
+
+바로가기
+	바로가/ncn+이/jp+기/etn

@@ -1,0 +1,635 @@
+삼청동
+	삼청동/ncn
+
+한정식만
+	한정/ncpa+식/ncn+만/jxc
+
+한정식이
+	한정/ncpa+식/ncn+이/jcc
+
+아니다
+	아니/paa+다/ef+./sf
+
+?
+	?/sf
+
+
+그렇지요
+	그렇/pad+지/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+부산에서
+	부산/ncps+에서/jca
+
+코엑스로
+	코엑스/ncn+로/jca
+
+학회
+	학회/ncn
+
+간김에
+	가/px+ㄴ/etm+김/nbn+에/jca
+
+시간이
+	시간/ncn+이/jcc
+
+나서
+	나/px+서/ecs
+
+잠시
+	잠시/mag
+
+분당에
+	분당/ncpa+에/jca
+
+들렀답니다
+	들르/pvg+었/ep+답니다/ef
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+한정식
+	한정/ncpa+식/ncn
+
+집
+	집/ncn
+
+'두마레'로
+	'/sr+두마/ncn+레/ncn+'/sr+로/jca
+
+향했지요
+	향하/pvg+었/ep+지/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+음식들은
+	음식/ncn+들/ncn+은/jxc
+
+대부분
+	대부분/ncn
+
+정갈하고
+	정갈/ncps+하고/jct
+
+맛깔스럽웠어요
+	맛깔스럽웠어요/ncn
+
+..
+	./sf+./sf
+
+
+꼭
+	꼭/mag
+
+경주의
+	경주/ncpa+의/jcm
+
+이조한정식을
+	이조/ncn+한정/ncpa+식/ncn+을/jco
+
+보는
+	보/px+는/etm
+
+느낌이라고
+	느낌/ncn+이/jp+라/ef+고/jcr
+
+해야할까
+	하/pvg+어야/ecx+하/px+ㄹ까/ef
+
+..
+	./sf+./sf
+
+
+분당이라
+	분당/ncpa+이/jp+라/ecs
+
+다시
+	다시/mag
+
+가보기는
+	가/pvg+아/ecx+보/px+기/etn+는/jxc
+
+힘들겠지만
+	힘들/pvg+겠/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+좋은
+	좋/paa+은/etm
+
+한국음식과
+	한국음식/ncn+과/jcj
+
+퓨전을
+	퓨전/ncn+을/jco
+
+접목한
+	접목/ncpa+하/xsva+ㄴ/etm
+
+한정식집이
+	한정식집/ncn+이/jcc
+
+부산에도
+	부산/ncps+에/jca+도/jxc
+
+서울에도
+	서울/ncn+에/jca+도/jxc
+
+많이
+	많/paa+이/xsa
+
+생겼음
+	생기/pvg+었/ep+음/etn
+
+좋겠어요
+	좋/paa+겠/ep+어/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+깔끔한
+	깔끔/ncn+한/ncn
+
+주방의
+	주방/ncn+의/jcm
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+기본이져
+	기본이져/ncn
+
+..
+	./sf+./sf
+
+
+동치미
+	동치미/ncn
+
+국물로
+	국물/ncn+로/jca
+
+마른
+	마르/pvg+ㄴ/etm
+
+목을
+	목/ncn+을/jco
+
+적십니다
+	적시/pvg+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+세가지
+	세/nnc+가지/nbu
+
+전과
+	전/nbn+과/jcj
+
+봄
+	보/px+ㅁ/etn
+
+돈냉이
+	돈냉/ncn+이/jcc
+
+무침이
+	무침/ncn+이/jcc
+
+상큼하더군요
+	상큼/ncps+하/xsms+더군/ef+요/jxf
+
+.
+	./sf
+
+
+여섯가지의
+	여섯/nnc+가지/nbu+의/jcm
+
+나물
+	나물/ncn
+
+.
+	./sf
+
+
+야채를
+	야채/ncn+를/jco
+
+밀가루
+	밀가루/ncn
+
+전병에
+	전병/ncn+에/jca
+
+고이
+	고/ncn+이/jcc
+
+싸서
+	쓰/pvg+어서/ecs
+
+맛있게
+	맛있/paa+게/ecs
+
+냠냠
+	냠냠/ncn
+
+..
+	./sf+./sf
+
+
+새콤하니
+	새콤하/ncn+이/jp+니/ecs
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+무우
+	무우/ncn
+
+..
+	./sf+./sf
+
+
+양배추
+	양배추/ncn
+
+.
+	./sf
+
+
+우뭇가사리를
+	우뭇가사리/ncn+를/jco
+
+이용한
+	이용/ncpa+하/xsva+ㄴ/etm
+
+건데
+	것/nbn+이/jp+ㄴ데/ecs
+
+이곳도
+	이곳/npd+도/jxc
+
+저칼로리로
+	저칼로리/ncn+로/jca
+
+상큼하니
+	상큼/ncps+하/xsms+니/ecs
+
+좋네여
+	좋네/ncn+이/jp+어/ecs
+
+..
+	./sf+./sf
+
+
+음~
+	음/ncn+~/sd
+
+
+퓨전이
+	퓨전/ncn+이/jcc
+
+접목된
+	접목/ncpa+되/xsvn+ㄴ/etm
+
+새우와
+	새우/ncn+와/jcj
+
+야채
+	야채/ncn
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+해파리
+	해파리/ncn
+
+..
+	./sf+./sf
+
+
+더군요
+	더군요/ncn
+
+.
+	./sf
+
+
+해파리냉채라고
+	해파리냉채/ncn+이/jp+라/ef+고/jcr
+
+해야하나요
+	하/pvg+어야/ecx+하/px+나/ef+요/jxf
+
+?
+	?/sf
+
+
+한정식집
+	한정식집/ncn
+
+치곤
+	치/pvg+곤/ecs
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+광어지느러미와
+	광어/ncn+지느러미/ncn+와/jcj
+
+도미
+	도미/ncn
+
+세점씩
+	세/nnc+점/nbu+씩/xsnu
+
+..
+	./sf+./sf
+
+
+새우를
+	새우/ncn+를/jco
+
+독특하게
+	독특/ncps+하/xsms+게/ecs
+
+구웠더군요
+	굽/pvg+었/ep+더군/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+낙지볶음
+	낙지볶음/ncn
+
+...
+	.../se
+
+
+워낙
+	워낙/mag
+
+낙지를
+	낙지/ncn+를/jco
+
+좋아라하는
+	좋아라하는/ncn
+
+저.
+	저/mmd+./sf
+
+.
+	./sf
+
+
+오리고기도
+	오리고기/ncn+도/jxc
+
+나오구요
+	나오구요/ncn
+
+..
+	./sf+./sf
+
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+탕국
+	탕국/ncn
+
+...
+	.../se
+
+
+생선과
+	생선/ncn+과/jcj
+
+새우를
+	새우/ncn+를/jco
+
+이용한
+	이용/ncpa+하/xsva+ㄴ/etm
+
+조림
+	조림/ncn
+
+..
+	./sf+./sf
+
+
+소주
+	소주/ncn
+
+생각나는군요
+	생각나/pvg+는군/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+여기까지만
+	여기/npd+까지/jxc+만/jxc
+
+먹어도
+	먹/pvg+어도/ecs
+
+배는
+	배/pvg+는/etm
+
+부른데요
+	부른데요/ncn
+
+..
+	./sf+./sf
+
+
+식사가
+	식사/ncpa+가/jcc
+
+남았더라구요
+	남/pvg+아/ep+라구/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+맛있는
+	맛있/paa+는/etm
+
+된장과
+	된장/ncn+과/jct
+
+..
+	./sf+./sf
+
+
+조기조기조기~
+	조기/ncn+조기/ncn+조기/ncn+~/sd
+
+
+집반찬같은
+	집반찬같/ncn+은/jxc
+
+반찬들
+	반찬/ncn+들/ncn
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+부글부글
+	부글부글/mag
+
+가마솥이
+	가마솥/ncn+이/jcc
+
+준비됩니다
+	준비/ncpa+되/xsvn+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+고슬고슬한
+	고슬고슬한/ncn
+
+밥을
+	밥/ncn+을/jco
+
+한공기
+	한/nnc+공기/nbu
+
+먹고
+	먹/pvg+고/ecc
+
+나면
+	나/px+면/ecs
+
+..
+	./sf+./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+물을
+	물/ncn+을/jco
+
+부어
+	붓/pvg+어/ecx
+
+뜨거운
+	뜨겁/paa+은/etm
+
+숭늉
+	숭늉/ncn
+
+한사발을
+	한/nnc+사발/nbu+을/jco
+
+들이킵니다
+	들이키/pvg+ㅂ니다/ef
+
+....
+	.../se+./sf
+
+
+참
+	참/mag
+
+괜찮은
+	괜찮/paa+은/etm
+
+한정식
+	한정/ncpa+식/ncn
+
+집인거
+	집인거/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+..
+	./sf+./sf
+
+
+삼청동
+	삼청동/ncn
+
+한정식집들과
+	한정식집들/ncn+과/jcj
+
+비교해도
+	비교/ncpa+해/ncn+도/jxc
+
+전혀
+	전혀/mag
+
+손색이
+	손색/ncn+이/jcc
+
+없고
+	없/paa+고/ecc
+
+가격또한
+	가격또한/ncn
+
+착한
+	착하/paa+ㄴ/etm
+
+....
+	.../se+./sf
+
+
+무엇보다
+	무엇/npd+보다/jca
+
+맛이져
+	맛이져/ncn
+
+..
+	./sf+./sf
+
+
+정감가는
+	정감/ncn+가/jcs+는/jxc
+
+맛.
+	맛/ncn+./sf
+
+.
+	./sf
+
+
+두마레
+	두마/ncn+레/ncn
+
+..
+	./sf+./sf

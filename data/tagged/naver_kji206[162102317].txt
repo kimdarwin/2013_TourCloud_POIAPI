@@ -1,0 +1,948 @@
+전북,순창여행
+	전북,순창여행/ncn
+
+순창군청,순창객사
+	순창군청,순창객사/ncn
+
+
+순창가볼만한곳/순창추천여행지/순창여행추천
+	순창가볼만한곳/순창추천여행지/순창여행추천/ncn
+
+
+가을하늘처럼
+	가을/ncn+하늘/ncn+처럼/jca
+
+높고
+	높/paa+고/ecc
+
+푸른
+	푸르/paa+ㄴ/etm
+
+날,
+	날/nbu+,/sp
+
+
+순창여행IC에서
+	순창여행IC/ncn+에서/jca
+
+가깝기도
+	가깝/paa+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+고려시대때부터
+	고려시대/ncn+때/ncn+부터/jxc
+
+관아가
+	관아/ncn+가/jcs
+
+있던
+	있/px+던/etm
+
+순창군청과
+	순창군청/ncn+과/jcj
+
+순청객사를
+	순청객사/ncn+를/jco
+
+구경하면서
+	구경/ncpa+하/xsva+면서/ecc
+
+순창여행을
+	순창여행/ncn+을/jco
+
+시작하였다
+	시작/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+순청군청앞은
+	순청군청앞/ncn+은/jxc
+
+호남의
+	호남/ncn+의/jcm
+
+소금강이라
+	소금/ncn+강/ncn+이/jp+라/ecs
+
+부르는
+	부르/pvg+는/etm
+
+강천산에서
+	강천산/ncn+에서/jca
+
+발원한
+	발원/ncpa+하/xsva+ㄴ/etm
+
+물줄기
+	물줄기/ncn
+
+경천이
+	경천/ncn+이/jcc
+
+흐르고
+	흐르/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+"장하다
+	"/sl+장하/paa+다/ef
+
+순창"
+	순창"/ncn
+
+이라는
+	이르/paa+어/ef+는/etm
+
+피날레를
+	피날레/ncn+를/jco
+
+보니
+	보/px+니/ecs
+
+저절로
+	저절로/mag
+
+힘이
+	힘/ncn+이/jcc
+
+쏟는듯한
+	쏟/pvg+는/etm+듯/nbs+하/xsms+ㄴ/etm
+
+군심이
+	군심/ncn+이/jcc
+
+느껴진다
+	느끼/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+군청앞에는
+	군청/ncn+앞/ncn+에/jca+는/jxc
+
+"옥천"
+	"옥천"/ncn
+
+이
+	이/mmd
+
+있으며
+	있/px+으며/ecc
+
+연못으로
+	연못/ncn+으로/jca
+
+조성되어있는데
+	조성/ncpa+되/xsvn+어/ecx+있/px+는데/ecs
+
+
+주변이
+	주변/ncn+이/jcc
+
+옥천골
+	옥천골/ncn
+
+..
+	./sf+./sf
+
+
+명칭으로
+	명칭/ncn+으로/jca
+
+식당과
+	식당/ncn+과/jcj
+
+초등학교등이
+	초등학교/ncn+등/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+보아
+	보아/ncn
+
+
+순창의
+	순창/ncn+의/jcm
+
+물맛을
+	물맛/ncn+을/jco
+
+느낄수있는
+	느끼/pvg+ㄹ/etm+수/nbn+있/xsmn+는/etm
+
+의미가
+	의미/ncpa+가/jcc
+
+있는
+	있/px+는/etm
+
+비석인지도
+	비석/ncn+이/jp+ㄴ지/ecs+도/jxc
+
+모른다는
+	모르/pvg+ㄴ다/ef+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+해본다
+	하/pvg+어/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+순창군청내에는
+	순창군청내/ncn+에/jca+는/jxc
+
+수령
+	수령/ncpa
+
+35년에서
+	35/nnc+년/nbu+에서/jca
+
+400여년
+	400/nnc+여/xsnu+년/nbu
+
+된
+	되/pvg+ㄴ/etm
+
+나무까지
+	나무/ncn+까지/jxc
+
+6그루가
+	6/nnc+그루/nbu+가/jcc
+
+멋스럽게
+	멋/ncn+스럽/xsmn+게/ecs
+
+군청주변을
+	군청/ncn+주변/ncn+을/jco
+
+감싸고
+	감싸/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+세월의
+	세/nnc+월/nbu+의/jcm
+
+시간을
+	시간/ncn+을/jco
+
+안고
+	안/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+나무는
+	나무/ncn+는/jxc
+
+세월만큼
+	세/nnc+월/nbu+만큼/jxc
+
+의연한
+	의연/ncps+하/xsms+ㄴ/etm
+
+모습으로
+	모습/ncn+으로/jca
+
+순창을
+	순창/ncn+을/jco
+
+지키고
+	지키/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+큰
+	크/paa+ㄴ/etm
+
+나무
+	나무/ncn
+
+사이에
+	사이/ncn+에/jca
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+모습이
+	모습/ncn+이/jcc
+
+아주
+	아주/mag
+
+작게
+	작/paa+게/ecs
+
+느껴진다
+	느끼/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+일상에서
+	일상/ncn+에서/jca
+
+산책을
+	산책/ncpa+을/jco
+
+즐길수있는
+	즐기/pvg+ㄹ/etm+수/nbn+있/xsmn+는/etm
+
+환경을
+	환경/ncn+을/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+근무처를
+	근무/ncpa+처/ncn+를/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+부러워진다
+	부럽/paa+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+통합기준점
+	통합/ncpa+기준점/ncn
+
+
+돌다보니
+	돌다보니/ncn
+
+국토해앙부
+	국토해앙부/ncn
+
+국토지리정보원에서
+	국토/ncn+지리/ncn+정보/ncn+원/ncn+에서/jca
+
+세워둔
+	세우/pvg+어/ecx+두/px+ㄴ/etm
+
+통합기준점
+	통합/ncpa+기준점/ncn
+
+표식이
+	표식/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+위도35도
+	위도35/ncn+도/jxc
+
+22분
+	22/nnc+분/nbu
+
+27초
+	27/nnc+초/nbu
+
+,
+	,/sp
+
+경도
+	경도/ncn
+
+127도
+	127/nnc+도/jxc
+
+08분
+	08/nnc+분/nbu
+
+18초
+	18/nnc+초/nbu
+
+....
+	.../se+./sf
+
+
+라도
+	라/ncn+도/jxc
+
+적혀있다
+	적히/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+군청과
+	군청/ncn+과/jcj
+
+순창초등학교
+	순창초등학교/ncn
+
+주변은
+	주변/ncn+은/jxc
+
+담이
+	담/ncn+이/jcc
+
+없어서
+	없/paa+어서/ecs
+
+어디던
+	어디/npd+이/jp+던/etm
+
+왕래가
+	왕래/ncpa+가/jcc
+
+가능하다
+	가능/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+순창초등학교
+	순창초등학교/ncn
+
+앞에
+	앞/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+순창객사가
+	순창객사/ncn+가/jcs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+우측에는
+	우측/ncn+에/jca+는/jxc
+
+해방목이라고
+	해방/ncpa+목/ncn+이/jp+라/ef+고/jcr
+
+적혀있는
+	적히/pvg+어/ecx+있/px+는/etm
+
+나무와
+	나무/ncn+와/jcj
+
+비석등이
+	비석/ncn+등/ncn+이/jcc
+
+서있다
+	서/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+순창초등학교는
+	순창초등학교/ncn+는/jxc
+
+100여년의
+	100/nnc+여/xsnu+년/nbu+의/jcm
+
+역사를
+	역사/ncn+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+순창객사는
+	순창객사/ncn+는/jxc
+
+조선시대
+	조선시대/ncn
+
+관청의
+	관청/ncn+의/jcm
+
+손님이나
+	손님/ncn+이나/jcj
+
+사진이
+	사진/ncn+이/jcc
+
+머물던
+	머물/pvg+던/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+국상을
+	국상/ncn+을/jco
+
+당할때에도
+	당하/pvg+ㄹ/etm+때/nbn+에/jca+도/jxc
+
+관패에
+	관패/ncn+에/jca
+
+망배를
+	망배/ncn+를/jco
+
+하는
+	하/pvg+는/etm
+
+장소이다
+	장소/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+원래
+	원래/mag
+
+정당을
+	정당/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+좌우에
+	좌우/ncpa+에/jca
+
+동대청과
+	동대청/ncn+과/jcj
+
+서대청을
+	서대청/ncn+을/jco
+
+비롯하여
+	비롯/ncpa+하/xsva+어/ecx
+
+중문과
+	중문/ncn+과/jcj
+
+외문등이
+	외문등/ncn+이/jcc
+
+있었는데
+	있/px+었/ep+는데/ecs
+
+현재는
+	현재/ncn+는/jxc
+
+정당과
+	정당/ncn+과/jcj
+
+동대청만
+	동대청만/ncn
+
+남아있다
+	남/pvg+아/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+1759년
+	1759/nnc+년/nbu
+
+건립연대를
+	건립/ncpa+연대/ncn+를/jco
+
+추정하며
+	추정/ncpa+하/xsva+며/ecc
+
+한만
+	한/nnc+만/jxc
+
+무성서원에서
+	무성/ncn+서원/ncn+에서/jca
+
+의병을
+	의병/ncn+을/jco
+
+일으킨
+	일으키/pvg+ㄴ/etm
+
+임병찬
+	임병찬/ncn
+
+의병장이
+	의병장/ncn+이/jcc
+
+의병을
+	의병/ncn+을/jco
+
+이끌고
+	이끌/pvg+고/ecc
+
+이
+	이/mmd
+
+객사에서
+	객사/ncn+에서/jca
+
+진을
+	진/ncn+을/jco
+
+치고
+	치/nbn+고/jcj
+
+
+일본군과
+	일본군/ncn+과/jcj
+
+전주에서
+	전주/ncn+에서/jca
+
+파견된
+	파견/ncpa+되/xsvn+ㄴ/etm
+
+시위대에
+	시위대/ncn+에/jca
+
+맞서
+	맞서/pvg+어/ecx
+
+격전을
+	격전/ncpa+을/jco
+
+벌렸던
+	벌리/pvg+었/ep+던/etm
+
+곳이며
+	곳/ncn+이/jp+며/ecc
+
+면암
+	면암/ncn
+
+최익현선생이
+	최익현선생/ncn+이/jcc
+
+항일
+	항/ncn+이/jp+ㄹ/etm
+
+의병본부로
+	의병/ncn+본부/ncn+로/jca
+
+사용하다
+	사용/ncpa+하/xsva+어다/ecs
+
+일본군에게
+	일본군/ncn+에게/jca
+
+붙잡힌
+	붙잡히/pvg+ㄴ/etm
+
+역사의
+	역사/ncn+의/jcm
+
+현장이다
+	현장/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+예전에는
+	예전/ncn+에/jca+는/jxc
+
+객사는
+	객사/ncn+는/jxc
+
+순창초등학교
+	순창초등학교/ncn
+
+교실과
+	교실/ncn+과/jcj
+
+강당으로
+	강당/ncn+으로/jca
+
+사용되기도
+	사용/ncpa+되/xsvn+기/etn+도/jxc
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+하늘이
+	하늘/ncn+이/jcc
+
+너무
+	너무/mag
+
+예뻐
+	예쁘/paa+어/ecx
+
+좀더
+	좀더/mag
+
+좋은
+	좋/paa+은/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+담으려
+	담/pvg+으려/ecx
+
+경천이
+	경천/ncn+이/jcc
+
+흐르는
+	흐르/pvg+는/etm
+
+다리쪽으로
+	다리/ncn+쪽/ncn+으로/jca
+
+가다보니
+	가/pvg+아/ecx+보/px+니/ecs
+
+"순창교"라고
+	"순창교"라/ncn+이/jp+고/ecc
+
+적힌
+	적히/pvg+ㄴ/etm
+
+다리
+	다리/ncn
+
+글씨가
+	글씨/ncn+가/jcs
+
+눈에
+	눈/ncn+에/jca
+
+들어왔다
+	들/pvg+어/ecx+오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+왼쪽에는
+	왼쪽/ncn+에/jca+는/jxc
+
+건립연대가
+	건립/ncpa+연대/ncn+가/jcs
+
+희미가
+	희미/ncps+가/jcc
+
+적혀있는데
+	적히/pvg+어/ecx+있/px+는데/ecs
+
+워낙오래되었는지
+	워낙오래되/ncn+이/jp+었/ep+는지/ecs
+
+어렴풋이
+	어렴풋이/mag
+
+알수는
+	알/pvg+ㄹ/etm+수/nbn+는/jxc
+
+없었다
+	없/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+경천교
+	경천교/ncn
+
+를
+	를/ncn
+
+지나가는
+	지나/pvg+아/ecx+가/px+는/etm
+
+아이의
+	아이/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+햇살만큼의
+	햇살/ncn+만큼/jca+의/jcm
+
+땀방울이
+	땀방울/ncn+이/jcc
+
+느껴진다
+	느끼/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이곳도
+	이곳/npd+도/jxc
+
+요즘은
+	요즘/mag+은/jxc
+
+공사중인모양이다
+	공사/ncn+중인/ncn+모양/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+경천
+	경천/ncn
+
+양쪽으로는
+	양쪽/ncn+으로/jca+는/jxc
+
+벗꽃이
+	벗꽃/ncn+이/jcc
+
+나무가
+	나무/ncn+가/jcs
+
+심어져
+	심/pvg+어/ecx+지/px+어/ecx
+
+봄이면
+	보/px+ㅁ/etn+이/jp+면/ecs
+
+벗꽃으로
+	벗꽃/ncn+으로/jca
+
+장관을
+	장관/ncr+을/jco
+
+이룰것
+	이루/pvg+ㄹ/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+경천을
+	경천/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+걷는
+	걷/pvg+는/etm
+
+소녀의
+	소녀/ncn+의/jcm
+
+모습이
+	모습/ncn+이/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+보는
+	보/px+는/etm
+
+풍경이
+	풍경/ncn+이/jcc
+
+아름답다는걸
+	아름답다는걸/ncn
+
+새삼
+	새삼/ncn
+
+느끼는
+	느끼/pvg+는/etm
+
+여행이다
+	여행/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+순청군청(063-650-1648)
+	순청군청(063-650-1648)/ncn
+
+순창군
+	순창군/ncn
+
+순창읍
+	순창읍/ncn
+
+경천로
+	경천/ncn+로/jca
+
+33순창객사
+	33순창객사/ncn
+
+전북
+	전/xp+북/ncn
+
+순창군순창읍
+	순창군순창읍/ncn
+
+순화리
+	순화/ncpa+이/jp+리/ef
+
+313
+	313/nnc

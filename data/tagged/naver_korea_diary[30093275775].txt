@@ -1,0 +1,956 @@
+제철
+	제철/ncn
+
+정보
+	정보/ncn
+
+:
+	:/sp
+
+제철
+	제철/ncn
+
+없음
+	없/paa+음/etn
+
+
+군산시
+	군산시/ncn
+
+
+군산시는
+	군산시/ncn+는/jxc
+
+선유도,
+	선유/ncn+도/jxc+,/sp
+
+어청도,
+	어청도,/ncn
+
+개야도
+	개/pvg+어야/ecs+도/jxc
+
+등
+	등/nbu
+
+16개의
+	16/nnc+개/nbu+의/jcm
+
+유인도를
+	유인/ncpa+도/ncn+를/jco
+
+포함한
+	포함/ncpa+하/xsva+ㄴ/etm
+
+63개의
+	63/nnc+개/nbu+의/jcm
+
+섬을
+	서/pvg+ㅁ/etn+을/jco
+
+간직한
+	간직/ncpa+하/xsva+ㄴ/etm
+
+해양관광도시이다
+	해양/ncn+관광도시/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+세계에서
+	세계/ncn+에서/jca
+
+가장
+	가장/mag
+
+긴
+	길/paa+ㄴ/etm
+
+새만금방조제,
+	새만금방조제,/ncn
+
+천혜의
+	천혜/ncn+의/jcm
+
+비경을
+	비경/ncn+을/jco
+
+간직한
+	간직/ncpa+하/xsva+ㄴ/etm
+
+고군산군도
+	고군산군/ncn+도/jxc
+
+해양관광지로
+	해양/ncn+관광지/ncn+로/jca
+
+유명하다
+	유명/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+뿐만
+	뿐/nbn+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+금강의
+	금강/ncn+의/jcm
+
+철새
+	철새/ncn
+
+도래지로
+	도래/ncn+지로/ncn
+
+매년
+	매년/mag
+
+50만
+	50/nnc+만/jxc
+
+마리가
+	마리/nbu+가/jcc
+
+날아올라
+	날아올라/ncn
+
+장관을
+	장관/ncr+을/jco
+
+이루는
+	이루/pvg+는/etm
+
+가창오리
+	가창/ncpa+오리/ncn
+
+군무도
+	군무/ncn+도/jxc
+
+감상할
+	감상/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+인구는
+	인구/ncn+는/jxc
+
+26만
+	26/nnc+만/jxc
+
+명.
+	명/nbu+./sf
+
+
+군산시청
+	군산시청/ncn
+
+:
+	:/sp
+
+063-450-6598URL
+	063-450-6598URL/ncn
+
+:
+	:/sp
+
+tour.
+	tour/f+./sy
+
+gunsan.
+	gunsan/f+./sy
+
+go.
+	go/f+./sy
+
+kr
+	kr/f
+
+
+가녀린
+	가녀리/paa+ㄴ/etm
+
+여성도
+	여성/ncn+도/jxc
+
+밥
+	밥/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+공기는
+	공기/nbu+는/jxc
+
+우습게
+	우습/paa+게/ecs
+
+비워
+	비우/pvg+어/ecx
+
+내게
+	내/pvg+게/ecs
+
+한다는
+	하/px+ㄴ다/ef+는/etm
+
+밥도둑,
+	밥도둑,/ncn
+
+꽃게장
+	꽃게/ncn+장/ncn
+
+.
+	./sf
+
+
+서해안
+	서해안/ncn
+
+어민들이
+	어민/ncn+들/ncn+이/jcc
+
+꽃게를
+	꽃게/ncn+를/jco
+
+오랫동안
+	오랫동안/ncn
+
+보관할
+	보관/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+방법을
+	방법/ncn+을/jco
+
+생각하다가
+	생각/ncpa+하/xsva+다가/ecs
+
+개발한
+	개발/ncpa+하/xsva+ㄴ/etm
+
+음식이다
+	음식/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+꽃게장은
+	꽃게/ncn+장/ncn+은/jxc
+
+게가
+	게/npp+가/jcs
+
+많이
+	많/paa+이/xsa
+
+잡히는
+	잡히/pvg+는/etm
+
+서해
+	서/pvg+어/ecx+하/px+어/ecx
+
+연안에서
+	연안/ncn+에서/jca
+
+쉽게
+	쉽/paa+게/ecs
+
+맛볼
+	맛보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있지만,
+	있/px+지/ecx+말/px+ㄴ/etm+,/sp
+
+최고로
+	최고/ncn+로/jca
+
+치는
+	치/pvg+는/etm
+
+것은
+	것/nbn+은/jxc
+
+단연
+	단연/mag
+
+'군산
+	'군산/ncn
+
+꽃게장'이다
+	꽃게/ncn+장/ncn+'/sr+이/jp+다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+모든
+	모든/mma
+
+음식이
+	음식/ncn+이/jcc
+
+그렇듯,
+	그렇/pad+듯/ecs+,/sp
+
+군산
+	군산/ncn
+
+꽃게장
+	꽃게/ncn+장/ncn
+
+역시
+	역시/mag
+
+하루아침에
+	하루/ncn+아침/ncn+에/jca
+
+뚝딱
+	뚝딱/ncn
+
+만들어진
+	만들/pvg+어/ecx+지/px+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+아니었다
+	아니/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+처음에는
+	처음/ncn+에/jca+는/jxc
+
+꽃게의
+	꽃/ncn+게/jca+의/jcm
+
+내장을
+	내장/ncn+을/jco
+
+제거하고
+	제거/ncpa+하고/jct
+
+소금에
+	소금/ncn+에/jca
+
+절인
+	절/ncn+이/jp+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+전부였다
+	전부/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+꽃게를
+	꽃게/ncn+를/jco
+
+오래
+	오래/mag
+
+보관해야
+	보관/ncpa+하/xsva+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+는
+	늘/pvg+ㄴ/etm
+
+본연의
+	본연/ncn+의/jcm
+
+목적에
+	목적/ncn+에/jca
+
+충실한
+	충실/ncps+하/xsms+ㄴ/etm
+
+셈.
+	세/paa+ㅁ/etn+./sy
+
+이렇게
+	이렇/pad+게/ecs
+
+장을
+	장/nbu+을/jco
+
+담구면
+	담구/pvg+면/ecs
+
+살이
+	살/nbu+이/jcc
+
+단단해지고
+	단단/ncps+하/xsms+어/ecx+지/px+고/ecc
+
+며칠
+	며칠/ncn
+
+동안
+	동안/ncn
+
+두어도
+	두어/nnc+도/jxc
+
+상하지
+	상하/pvg+지/ecx
+
+않아
+	않/px+아/ecx
+
+장시간
+	장시간/ncn
+
+보관할
+	보관/ncpa+하/xsva+ㄹ/etm
+
+수는
+	수/nbn+는/jxc
+
+있었지만,
+	있/px+었/ep+지만/ecs+,/sp
+
+너무
+	너무/mag
+
+짜서
+	짜/pvg+아/ecx
+
+꽃게살의
+	꽃게/ncn+살/ncn+의/jcm
+
+담백한
+	담백/ncn+한/ncn
+
+맛을
+	맛/ncn+을/jco
+
+제대로
+	제대로/mag
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없었다
+	없/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+오래
+	오래/mag
+
+보관하면서도
+	보관/ncpa+하/xsva+면서/ecs+도/jxc
+
+꽃게
+	꽃/ncn+게/jca
+
+본연의
+	본연/ncn+의/jcm
+
+맛을
+	맛/ncn+을/jco
+
+살릴
+	살리/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+방법이
+	방법/ncn+이/jcc
+
+없을까
+	없/paa+을까/ef
+
+?
+	?/sf
+
+
+하는
+	하/pvg+는/etm
+
+궁리
+	궁리/ncpa
+
+끝에
+	끝/ncn+에/jca
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+바로
+	바로/mag
+
+간장게장
+	간장/ncn+게장/ncn
+
+.
+	./sf
+
+
+간장양념에
+	간장/ncn+양념/ncn+에/jca
+
+꽃게를
+	꽃게/ncn+를/jco
+
+절여보니
+	절이/pvg+어/ecx+보/px+니/ecs
+
+짭조름한
+	짭조름한/ncn
+
+간장과
+	간장/ncn+과/jcj
+
+꽃게살의
+	꽃게/ncn+살/ncn+의/jcm
+
+특유의
+	특유/ncps+의/jcm
+
+담백한
+	담백/ncn+한/ncn
+
+맛이
+	맛/ncn+이/jcc
+
+어우러져
+	어우러지/pvg+어/ecx
+
+맛이
+	맛/ncn+이/jcc
+
+일품이었고
+	일품/ncn+이/jp+었/ep+고/ecc
+
+단순히
+	단순히/mag
+
+소금에
+	소금/ncn+에/jca
+
+절이는
+	절/ncn+이/jp+는/etm
+
+것보다
+	것/nbn+보다/jca
+
+보존기간
+	보존기간/ncn
+
+또한
+	또한/maj
+
+늘어났다
+	늘/pvg+어/ecx+나/px+아/ep+다/ef
+
+.
+	./sf
+
+
+군산
+	군산/ncn
+
+꽃게장의
+	꽃게/ncn+장/ncn+의/jcm
+
+특별함은
+	특별/ncps+하/xsms+ㅁ/etn+은/jxc
+
+삼벌장
+	삼벌장/ncn
+
+이라는
+	이르/paa+어/ef+는/etm
+
+방식에
+	방식/ncn+에/jca
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+먼저
+	먼저/mag
+
+파,
+	파/ncn+,/sp
+
+마늘,
+	마늘/ncn+,/sp
+
+생강
+	생강/ncn
+
+등을
+	등/nbu+을/jco
+
+넣고
+	넣/pvg+고/ecc
+
+간장을
+	간장/ncn+을/jco
+
+끓인
+	끓이/pvg+ㄴ/etm
+
+다음
+	다음/ncn
+
+꽃게가
+	꽃게/ncn+가/jcs
+
+완전히
+	완전히/mag
+
+잠길
+	잠기/pvg+ㄹ/etm
+
+때까지
+	때/ncn+까지/jxc
+
+부어
+	붓/pvg+어/ecx
+
+고루
+	고루/mag
+
+양념이
+	양념/ncn+이/jcc
+
+배게
+	배/ncn+이/jp+게/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+양념이
+	양념/ncn+이/jcc
+
+어느
+	어느/mmd
+
+정도
+	정도/ncn
+
+꽃게의
+	꽃/ncn+게/jca+의/jcm
+
+속살에
+	속살/ncn+에/jca
+
+배면
+	배/ncn+이/jp+면/ecs
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+간장을
+	간장/ncn+을/jco
+
+따라내서
+	따르/pvg+아/ecx+내/px+어서/ecs
+
+다시
+	다시/mag
+
+끓이고
+	끓이/pvg+고/ecc
+
+꽃게를
+	꽃게/ncn+를/jco
+
+담그는
+	담그/pvg+는/etm
+
+것을
+	것/nbn+을/jco
+
+세
+	세/nnc
+
+번
+	번/nbu
+
+반복한다
+	반복/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+이때
+	이때/ncn
+
+간장에
+	간장/ncn+에/jca
+
+당귀,
+	당귀/ncn+,/sp
+
+대추
+	대추/ncn
+
+등의
+	등/nbu+의/jcm
+
+한약재를
+	한약재/ncn+를/jco
+
+넣으면
+	넣/pvg+으면/ecs
+
+몸에
+	몸/ncn+에/jca
+
+좋은
+	좋/paa+은/etm
+
+것은
+	것/nbn+은/jxc
+
+물론
+	물론/mag
+
+꽃게의
+	꽃/ncn+게/jca+의/jcm
+
+비린내를
+	비린내/ncn+를/jco
+
+없애준다
+	없애/pvg+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+적당히
+	적당히/mag
+
+단단한
+	달/paa+ㄴ단/etm+한/nbn
+
+꽃게
+	꽃/ncn+게/jca
+
+살과
+	살/nbu+과/jcj
+
+꽃게
+	꽃/ncn+게/jca
+
+알은
+	알/pvg+ㄴ/etm
+
+차갑지도,
+	차갑/paa+지/ecs+도/jxc+,/sp
+
+따뜻하지도
+	따뜻/ncps+하/xsms+지/ecs+도/jxc
+
+않은
+	않/px+은/etm
+
+군산
+	군산/ncn
+
+앞바다에서
+	앞바다/ncn+에서/jca
+
+자란
+	자라/pvg+ㄴ/etm
+
+꽃게에서만
+	꽃게/ncn+에서/jca+만/jxc
+
+맛볼
+	맛보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+별미
+	별미/ncn
+
+.
+	./sf
+
+
+달짝지근한
+	달짝지근하/paa+ㄴ/etm
+
+간장
+	간장/ncn
+
+양념과
+	양념/ncn+과/jct
+
+노란
+	노랗/paa+은/etm
+
+알로
+	알/ncn+로/jca
+
+가득
+	가득/mag
+
+찬
+	차/pvg+ㄴ/etm
+
+게딱지에
+	게딱지/ncn+에/jca
+
+김이
+	김/nbn+이/jcc
+
+모락모락
+	모락모락/mag
+
+나는
+	나/npp+는/jxc
+
+밥을
+	밥/ncn+을/jco
+
+비벼
+	비비/pvg+어/ecx
+
+먹으면
+	먹/pvg+으면/ecs
+
+밥
+	밥/ncn
+
+두세
+	두/nnc+세/nnc
+
+공기쯤은
+	공기/ncn+쯤/xsnx+은/jxc
+
+눈
+	눈/ncn
+
+깜짝할
+	깜짝하/pvg+ㄹ/etm
+
+사이에
+	사이/ncn+에/jca
+
+없어진다
+	없/paa+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그야말로
+	그야말로/mag
+
+내
+	내/pvg+어/ecx
+
+밥이
+	밥/ncn+이/jcc
+
+어디
+	어디/mad
+
+갔지
+	가/px+아/ep+지/ef
+
+?
+	?/sf
+
+
+라는
+	라/ncn+는/jxc
+
+말이
+	말/ncn+이/jcc
+
+절로
+	절/ncn+로/jca
+
+나오도록
+	나/pvg+아/ecx+오/px+도록/ecs
+
+만드는
+	만들/pvg+는/etm
+
+게
+	것/nbn+이/jcs
+
+바로
+	바로/mag
+
+군산
+	군산/ncn
+
+꽃게장이다
+	꽃게/ncn+장/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+기사내용
+	기사내용/ncn
+
+전체보기
+	전체/ncn+보기/ncn

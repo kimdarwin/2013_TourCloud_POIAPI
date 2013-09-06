@@ -1,0 +1,1705 @@
+피아노치는
+	피아노/ncn+치/ncn+는/jxc
+
+디바
+	디바/ncn
+
+..
+	./sf+./sf
+
+
+앨리샤키스(Alicia
+	앨리샤키스(Alicia/ncn
+
+Keys)
+	Keys/f+)/sr
+
+..
+	./sf+./sf
+
+
+이탈리아계
+	이탈리아계/ncn
+
+어머니와
+	어머니/ncn+와/jcj
+
+흑인
+	흑/ncn+이/jp+ㄴ/etm
+
+아버지
+	아버지/ncn
+
+사이에서
+	사이/ncn+에서/jca
+
+태어나
+	태어나/pvg+아/ecx
+
+(1981.
+	(/sl+1981./nnc
+
+01.
+	01./nnc
+
+25)
+	25/nnc+)/sr
+
+미국뉴욕
+	미국뉴욕/ncn
+
+할램에서
+	할램/ncn+에서/jca
+
+자랐다
+	자르/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+앨리샤
+	앨리샤/ncn
+
+키스는
+	키스/ncpa+는/jxc
+
+2001년
+	2001/nnc+년/nbu
+
+첫
+	첫/nno
+
+앨범
+	앨범/ncn
+
+'Songs
+	'/sr+Songs/f
+
+In
+	In/f
+
+A
+	A/f
+
+Minor'로화려하게
+	Minor'로화려하/ncn+이/jp+게/ecs
+
+데뷰하여세계적인
+	데뷰하여세계적/ncn+이/jp+ㄴ/etm
+
+뮤지션으로
+	뮤지션/ncn+으로/jca
+
+자리했다
+	자리했다/ncn
+
+.
+	./sf
+
+
+앨리샤키스(Alicia
+	앨리샤키스(Alicia/ncn
+
+Keys)-Doesn't
+	Keys/f+)/sr+-/sd+Doesn/f+'/sr+t/f
+
+Mean
+	Mean/f
+
+Anything
+	Anything/f
+
+은
+	은/ncn
+
+
+앨리샤키스의
+	앨리샤키스/ncn+의/jcm
+
+새로운
+	새롭/paa+은/etm
+
+앨범
+	앨범/ncn
+
+..
+	./sf+./sf
+
+
+The
+	The/f
+
+Element
+	Element/f
+
+Of
+	Of/f
+
+Freedom(2010.
+	Freedom/f+(/sl+2010./nnc
+
+02.
+	02./nnc
+
+01
+	01/nnc
+
+발매)에
+	발매/ncpa+)/sr+에/jca
+
+수록된
+	수록/ncpa+되/xsvn+ㄴ/etm
+
+곡이며
+	곡/nbu+이며/jcj
+
+
+Doesn`t
+	Doesn/f+`/sl+t/f
+
+Mean
+	Mean/f
+
+Anything
+	Anything/f
+
+Try
+	Try/f
+
+Sleeping
+	Sleeping/f
+
+With
+	With/f
+
+A
+	A/f
+
+Broken
+	Broken/f
+
+Heart
+	Heart/f
+
+비욘세와
+	비욘세/ncn+와/jcj
+
+듀엣
+	듀엣/ncn
+
+곡
+	곡/ncn
+
+Put
+	Put/f
+
+It
+	It/f
+
+In
+	In/f
+
+A
+	A/f
+
+Love
+	Love/f
+
+Song
+	Song/f
+
+
+Empire
+	Empire/f
+
+State
+	State/f
+
+Of
+	Of/f
+
+Mind
+	Mind/f
+
+의솔로
+	의솔/ncn+로/jca
+
+버전
+	버전/ncn
+
+(Part
+	(/sl+Part/f
+
+II)등
+	II/f+)/sr+등/nbu
+
+총
+	총/mma
+
+14곡과
+	14/nnc+곡/nbu+과/jcj
+
+함께수록된
+	함께수록된/ncn
+
+새
+	새/mma
+
+앨범이다
+	앨범/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+앨리샤
+	앨리샤/ncn
+
+키스(Alicia
+	키스(Alicia/ncn
+
+Keys)~Doesn't
+	Keys/f+)/sr+~/sd+Doesn/f+'/sr+t/f
+
+Mean
+	Mean/f
+
+Anything
+	Anything/f
+
+(
+	(/sl
+
+Live동영상)
+	Live/f+동영상/ncn+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc16/2010/02/19/1204/031002136A0E431B7E035B56539B78D3942_ya3542_logo.
+	net/blogucc16/2010/02/19/1204/031002136A0E431B7E035B56539B78D3942_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'255.
+	'/sr+255./nnc
+
+46';
+	46/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'16CEC0ED84F9152E087D5B6D9C178BE30775';
+	'16CEC0ED84F9152E087D5B6D9C178BE30775/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12110033806e947a5d654304ca058cc3ad52e702c448888bf67cc38ad6bed96960034304ca058cc3ad52';
+	'V12110033806e947a5d654304ca058cc3ad52e702c448888bf67cc38ad6bed96960034304ca058cc3ad52/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_06874
+	ugcPlayer_06874/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_06874'
+	VideoInfraUGCPlayer('ugcPlayer_06874'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_06874
+	ugcPlayer_06874/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+앨리샤
+	앨리샤/ncn
+
+키스는미국빌보드지가뽑은
+	키스는미국빌보드지가뽑/ncn+은/jxc
+
+지난
+	지나/pvg+ㄴ/etm
+
+10년간
+	10/nnc+년/nbu+간/xsnu
+
+최고의
+	최고/ncn+의/jcm
+
+RB
+	RB/f
+
+부문
+	부문/ncn
+
+아티스트로
+	아티스트/ncn+로/jca
+
+선정되기도
+	선정/ncpa+되/xsvn+기/etn+도/jxc
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+앨리샤
+	앨리샤/ncn
+
+키스(Alicia
+	키스(Alicia/ncn
+
+Keys)~Doesn't
+	Keys/f+)/sr+~/sd+Doesn/f+'/sr+t/f
+
+Mean
+	Mean/f
+
+Anything
+	Anything/f
+
+(뮤직비디오)
+	(/sl+뮤직비디오/ncn+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc16/2010/02/19/1355/031002136A0E431B7E03FB63531B0DD3541_ya3542_logo.
+	net/blogucc16/2010/02/19/1355/031002136A0E431B7E03FB63531B0DD3541_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'313.
+	'/sr+313./nnc
+
+42';
+	42/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'F5717E9F5D933C8F9E86986C6D86D5CBD916';
+	'F5717E9F5D933C8F9E86986C6D86D5CBD916/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1245a91072e790287c3b4942abb4ce7e033614a554ad8d05256f65f54e1154a2b4ed4942abb4ce7e0336';
+	'V1245a91072e790287c3b4942abb4ce7e033614a554ad8d05256f65f54e1154a2b4ed4942abb4ce7e0336/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_05869
+	ugcPlayer_05869/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_05869'
+	VideoInfraUGCPlayer('ugcPlayer_05869'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_05869
+	ugcPlayer_05869/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+가사
+	가사/ncn
+
+
+Doesn't
+	Doesn/f+'/sr+t/f
+
+Mean
+	Mean/f
+
+Anything
+	Anything/f
+
+-
+	-/sd
+
+Alicia
+	Alicia/f
+
+Keys
+	Keys/f
+
+
+Used
+	Used/f
+
+to
+	to/f
+
+dream
+	dream/f
+
+of
+	of/f
+
+being
+	being/f
+
+a
+	a/f
+
+millionaire,
+	millionaire/f+,/sp
+
+without
+	without/f
+
+a
+	a/f
+
+care
+	care/f
+
+but
+	but/f
+
+if
+	if/f
+
+I
+	I/f
+
+m
+	m/f
+
+seeing
+	seeing/f
+
+my
+	my/f
+
+dreams
+	dreams/f
+
+and
+	and/f
+
+you
+	you/f
+
+aren
+	aren/f
+
+t
+	t/f
+
+there
+	there/f
+
+cause
+	cause/f
+
+it
+	it/f
+
+s
+	s/f
+
+over
+	over/f
+
+that
+	that/f
+
+just
+	just/f
+
+wont
+	wont/f
+
+be
+	be/f
+
+fair,
+	fair/f+,/sp
+
+darling.
+	darling/f+./sf
+
+
+I
+	I/f
+
+d
+	d/f
+
+rather
+	rather/f
+
+be
+	be/f
+
+a
+	a/f
+
+poor
+	poor/f
+
+woman
+	woman/f
+
+living
+	living/f
+
+on
+	on/f
+
+the
+	the/f
+
+street,
+	street/f+,/sp
+
+no
+	no/f
+
+food
+	food/f
+
+to
+	to/f
+
+eat
+	eat/f
+
+cause
+	cause/f
+
+I
+	I/f
+
+don
+	don/f
+
+t
+	t/f
+
+want
+	want/f
+
+no
+	no/f
+
+pie
+	pie/f
+
+if
+	if/f
+
+I
+	I/f
+
+have
+	have/f
+
+to
+	to/f
+
+cry
+	cry/f
+
+cause
+	cause/f
+
+it
+	it/f
+
+s
+	s/f
+
+over
+	over/f
+
+when
+	when/f
+
+you
+	you/f
+
+said
+	said/f
+
+goodbye
+	goodbye/f
+
+
+All
+	All/f
+
+at
+	at/f
+
+once
+	once/f
+
+I
+	I/f
+
+had
+	had/f
+
+it
+	it/f
+
+all
+	all/f
+
+but
+	but/f
+
+it
+	it/f
+
+doesn
+	doesn/f
+
+t
+	t/f
+
+mean
+	mean/f
+
+anything
+	anything/f
+
+now
+	now/f
+
+that
+	that/f
+
+you
+	you/f
+
+re
+	re/f
+
+gone
+	gone/f
+
+from
+	from/f
+
+above,
+	above/f+,/sp
+
+seems
+	seems/f
+
+I
+	I/f
+
+had
+	had/f
+
+it
+	it/f
+
+allbut
+	allbut/f
+
+it
+	it/f
+
+doesn
+	doesn/f
+
+t
+	t/f
+
+mean
+	mean/f
+
+anything
+	anything/f
+
+since
+	since/f
+
+you
+	you/f
+
+re
+	re/f
+
+gone
+	gone/f
+
+
+Now
+	Now/f
+
+I
+	I/f
+
+see
+	see/f
+
+myself
+	myself/f
+
+through
+	through/f
+
+different
+	different/f
+
+eyes
+	eyes/f
+
+it
+	it/f
+
+s
+	s/f
+
+no
+	no/f
+
+surprise
+	surprise/f
+
+but
+	but/f
+
+being
+	being/f
+
+alone
+	alone/f
+
+would
+	would/f
+
+make
+	make/f
+
+you
+	you/f
+
+realize,
+	realize/f+,/sp
+
+when
+	when/f
+
+it
+	it/f
+
+s
+	s/f
+
+over
+	over/f
+
+all
+	all/f
+
+in
+	in/f
+
+love
+	love/f
+
+is
+	is/f
+
+fairI
+	fairI/f
+
+shoulda
+	shoulda/f
+
+been
+	been/f
+
+there,
+	there/f+,/sp
+
+I
+	I/f
+
+shoulda
+	shoulda/f
+
+been
+	been/f
+
+there,
+	there/f+,/sp
+
+I
+	I/f
+
+shoulda
+	shoulda/f
+
+shoulda
+	shoulda/f
+
+
+All
+	All/f
+
+at
+	at/f
+
+onceI
+	onceI/f
+
+had
+	had/f
+
+it
+	it/f
+
+allbut
+	allbut/f
+
+it
+	it/f
+
+doesn
+	doesn/f
+
+t
+	t/f
+
+mean
+	mean/f
+
+anythingnow
+	anythingnow/f
+
+that
+	that/f
+
+you
+	you/f
+
+re
+	re/f
+
+gone
+	gone/f
+
+from
+	from/f
+
+above,seems
+	above/f+,/sp+seems/f
+
+I
+	I/f
+
+had
+	had/f
+
+it
+	it/f
+
+all
+	all/f
+
+but
+	but/f
+
+it
+	it/f
+
+doesn
+	doesn/f
+
+t
+	t/f
+
+mean
+	mean/f
+
+anything
+	anything/f
+
+since
+	since/f
+
+you
+	you/f
+
+re
+	re/f
+
+gone
+	gone/f
+
+
+I
+	I/f
+
+know
+	know/f
+
+I
+	I/f
+
+pushed
+	pushed/f
+
+you
+	you/f
+
+away
+	away/f
+
+what
+	what/f
+
+can
+	can/f
+
+I
+	I/f
+
+do
+	do/f
+
+that
+	that/f
+
+would
+	would/f
+
+save
+	save/f
+
+our
+	our/f
+
+love
+	love/f
+
+take
+	take/f
+
+these
+	these/f
+
+material
+	material/f
+
+things
+	things/f
+
+they
+	they/f
+
+don
+	don/f
+
+t
+	t/f
+
+mean
+	mean/f
+
+nothingits
+	nothingits/f
+
+you
+	you/f
+
+that
+	that/f
+
+I
+	I/f
+
+want
+	want/f
+
+
+All
+	All/f
+
+at
+	at/f
+
+once
+	once/f
+
+I
+	I/f
+
+had
+	had/f
+
+it
+	it/f
+
+all
+	all/f
+
+but
+	but/f
+
+it
+	it/f
+
+doesn
+	doesn/f
+
+t
+	t/f
+
+mean
+	mean/f
+
+anything
+	anything/f
+
+now
+	now/f
+
+that
+	that/f
+
+you
+	you/f
+
+re
+	re/f
+
+gone
+	gone/f
+
+from
+	from/f
+
+above,
+	above/f+,/sp
+
+seems
+	seems/f
+
+I
+	I/f
+
+had
+	had/f
+
+it
+	it/f
+
+all
+	all/f
+
+but
+	but/f
+
+it
+	it/f
+
+doesn
+	doesn/f
+
+t
+	t/f
+
+mean
+	mean/f
+
+anything
+	anything/f
+
+since
+	since/f
+
+you
+	you/f
+
+re
+	re/f
+
+gone
+	gone/f
+
+
+앨리샤
+	앨리샤/ncn
+
+키스(Alicia
+	키스(Alicia/ncn
+
+Keys)
+	Keys/f+)/sr
+
+
+Doesn't
+	Doesn/f+'/sr+t/f
+
+Mean
+	Mean/f
+
+Anything
+	Anything/f
+
+
+민초호야의
+	민초호야/ncn+의/jcm
+
+음악공간
+	음악/ncn+공간/ncn

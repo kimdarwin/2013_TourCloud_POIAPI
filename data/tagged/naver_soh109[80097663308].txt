@@ -1,0 +1,334 @@
+FONT
+	FONT/f
+
+style="LINE-HEIGHT:
+	style/f+=/sy+"/sl+LINE/f+-/sd+HEIGHT/f+:/sp
+
+17px"
+	17px"/ncn
+
+color=#fff6dd
+	color=#fff6dd/ncn
+
+
+김장하러
+	김장/ncpa+하/xsva+러/ecs
+
+부모님이
+	부모님/ncn+이/jcc
+
+계신
+	계시/paa+ㄴ/etm
+
+고흥
+	고흥/ncn
+
+시골집에
+	시골/ncn+집/ncn+에/jca
+
+7-8개월만에
+	7/nnc+-8/nnc+개월/nbu+만에/jca
+
+갔다
+	가/px+아/ep+다/ef
+
+..
+	./sf+./sf
+
+
+하필
+	하필/mag
+
+바로
+	바로/mag
+
+집앞으로
+	집앞/ncn+으로/jca
+
+도로가
+	도로/ncn+가/jcs
+
+생긴다해서
+	생긴다해서/ncn
+
+..
+	./sf+./sf
+
+
+공사중이다
+	공사/ncn+중이/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+어릴적엔
+	어리/paa+ㄹ/etm+적/nbn+엔/jca
+
+마구마구
+	마구/ncn+마구/ncn
+
+뛰어놀던
+	뛰어놀던/ncn
+
+작은
+	작/paa+은/etm
+
+길이었는데
+	길/ncn+이/jp+었/ep+는데/ecs
+
+.....
+	./sy+.../se+./sy
+
+..
+	./sf+./sf
+
+
+집이
+	집/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+변했다
+	변하/pvg+었/ep+다/ef
+
+...
+	.../se
+
+
+더군다나
+	더군다나/mag
+
+올만에
+	올/ncn+만에/jca
+
+갔더니
+	가/px+아/ep+니/ecs
+
+감나무를
+	감나무/ncn+를/jco
+
+싹둑
+	싹둑/mag
+
+싹둑
+	싹둑/mag
+
+몽땅
+	몽땅/mag
+
+잘라버렸다
+	자르/pvg+아/ecx+버리/px+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+내년엔
+	내년/ncn+엔/jca
+
+감먹기
+	감먹기/ncn
+
+힘들겠당
+	힘들겠당/ncn
+
+..
+	./sf+./sf
+
+
+단감~~~
+	달/paa+ㄴ/etm+감/nbn+~/sd+~/sd+~/sd
+
+@.@
+	@/sy+./sf+@/sy
+
+
+저렇게
+	저렇/pad+게/ecs
+
+한번
+	한/nnc+번/nbu
+
+싹뚝
+	싹뚝/ncn
+
+잘라줘야
+	자르/pvg+아/ecx+주/px+어야/ecs
+
+더
+	더/mag
+
+많이
+	많/paa+이/xsa
+
+열린다면서
+	열린다/ncn+이/jp+면서/ecc
+
+..
+	./sf+./sf
+
+
+너무
+	너무/mag
+
+심하게
+	심하/paa+게/ecs
+
+잘라버렸다는거
+	잘라버렸다는거/ncn
+
+...
+	.../se
+
+
+녹색
+	녹색/ncn
+
+대문은
+	대문/ncn+은/jxc
+
+너무
+	너무/mag
+
+오래되서
+	오래되/ncn+서/jca
+
+삐걱거리고
+	삐걱거리/pvg+고/ecc
+
+녹슬었구
+	녹슬었구/ncn
+
+...
+	.../se
+
+
+대나무
+	대나무/ncn
+
+기둥을
+	기둥/ncn+을/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있던
+	있/px+던/etm
+
+빨래
+	빨래/ncpa
+
+기둥대도
+	기둥/ncn+대/ncn+도/jxc
+
+어느새
+	어느새/mag
+
+쇠파이프다
+	쇠파이프/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+어릴적엔
+	어리/paa+ㄹ/etm+적/nbn+엔/jca
+
+마당도
+	마당/ncn+도/jxc
+
+넓어보였는데
+	넓/paa+어/ecx+보이/px+었/ep+는데/ecs
+
+...
+	.../se
+
+
+이젠
+	이젠/ncn
+
+좁아보인다
+	좁/paa+어/ecx+보이/px+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+바루
+	바루/mag
+
+집앞
+	집앞/ncn
+
+..
+	./sf+./sf
+
+
+도로공사중이다
+	도로/ncn+공사/ncn+중이/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+이제
+	이제/mag
+
+버스가
+	버스/ncn+가/jcs
+
+다닌단다
+	다니/pvg+ㄴ단다/ef
+
+...
+	.../se
+
+
+항상
+	항상/mag
+
+집앞에
+	집앞/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+동산에서
+	동산/ncn+에서/jca
+
+뛰어놀았는데
+	뛰어놀았는데/ncn
+
+..
+	./sf+./sf
+
+
+그
+	그/mmd
+
+동산도
+	동산/ncn+도/jxc
+
+몽땅
+	몽땅/mag
+
+밀어버렸다
+	밀/pvg+어/ecx+버리/px+었/ep+다/ef
+
+...
+	.../se
+
+
+Canon
+	Canon/f
+
+PowerShot
+	PowerShot/f
+
+G10
+	G10/ncn
+
+/FONT
+	//sp+FONT/f

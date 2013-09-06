@@ -1,0 +1,79 @@
+Title:
+소리산[양평]가는길 
+
+Date:
+2011.09.05 11:16
+
+Content:
+
+위 치:경기도 양평군 단월면 산음리.[양평 문화관광과 전화031/770~2471]
+가는 길:서울 용산출발~용문까지는 중앙선 전철을 이용하고 용문버스터미널에서
+석산리행 버스를이용한다 용문~석산리.08:50. 14:00. 18:10.소요시간45/50분
+양평에서가는길:양평까지는 전철이나[동서울버스터미널]버스를 이용하고
+양평에서 석산리 행 버스를이용한다 [용문 시외버스터미널031/338~4444]
+양평버스터미널 전화031/772~2341~3
+
+소리산 정상은 그리높지않으나 주위 경관이 확 트여 파노라마처럼 산들이 한눈에 들어온다
+멀리 동쪽에는 대명스키장의 슬로프가 보이고 남쪽으로는 도일봉 중원봉 그리고 저멀리에는
+통신철탑이 희미하계 보이는 곳이 1157m의 용문산이다
+
+소리산 등산코스는 대략 몇군데 있으나 가장많이 이용하는 코스는 소리산 소금강 이정표석이
+있는곳을 들머리로 잡는다 맑고 투명한 개울을 건너가면 작은개울을따라 오르다보면
+대낮에도 어둡게 느껴질 만큼 울창한 숲 으로 둘러싸여 있는 계곡에는 신선도 쉬어갔을 법한
+절경도 한 눈에보인다
+
+숲길을따라 150m정도 오르다보면 등산로는 왼쪽으로 꺽이고 여기부터 등산로가 급해지기
+시작한다 군데군데 밧줄이 설치되어있으며 삼형제바위가 자리잡고있는 소리산의 동쪽암벽
+등반코스를 만나게된다
+
+소리산은 양평군 단월면과 강원도 홍천군의 접경을 이루는 경기도의 산촌이라한다
+주변의 산에 비해큰 산은 아니나 깍아지른 절벽과 맑은 계곡이 어울려 예로부테 
+경기도의 소금강이라 불릴만큼 경치가 아름답다
+
+소리산 등산코스
+소리산2교[소리산소금강]바위 푯말 출발점~개울건너~수리바위~출세봉~바람굴~수리산[정상]하산
+하산삼거리~고로쇠마을[소리산유원지] 소요시간 약2시간30분
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2011/09/05/780/031003232113539E21C3C96B53353FF3846_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '600.0';
+	var qsParam = {};
+	qsParam.vid = 'F3E22B875178796950ECB22CB5CB13FDEB12';
+	qsParam.inKey = 'V1262a0a7205e75fe6e0b4304ca058cc3ad52e702c448888bf67c1e4874b9ee0b395b4304ca058cc3ad52';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_07355 = new VideoInfraUGCPlayer('ugcPlayer_07355' ,bean); 
+ugcPlayer_07355.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+	

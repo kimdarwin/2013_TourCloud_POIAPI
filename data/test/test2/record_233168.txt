@@ -1,0 +1,51 @@
+Title:
+7/7 분주령 야생화 트레킹 후기
+
+Date:
+2012.07.08
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(692924,'files/attach/images/64/168/233/ac45fc7404abd45fc8a29937fe27b431.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/13a64c53d10e3aa60dbf2dcd7b140f61.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/13e294af7ba088a7d20dbe320a0bfa8b.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/1d4710bf6215f227fc240743f8e98ab1.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/e96165029b4a94fe31b7043582de1782.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/fe36f208c6f00cdb0b45158c49a2f7ba.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/8cbe20ad06071f3c4b6176177ba7d4c4.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/a7efae5bb937d7e9908c57875fdb2ff3.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/53d310ed70f1ab4c7024627dff57da76.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/41615cc644899df23e4310363bd160d1.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/fcda9c8c2127b03e1f24197759a381ff.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/16b32cdc6167353eb9d74d09de7a7b96.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/5e1daf8b348f17d580b5672112837240.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/80a360e70b2d5f9b245d8dada99a3a23.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/14106cea3b76db10b181e690c7599c96.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/78a47f428bcba057c306c79a9fb214db.jpg');
+list_gallery_add_image(692924,'files/attach/images/64/168/233/5ed7de323d3275492d6a3bc86b8e9efd.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+7월 7일(토), 아름다운 여행으로 태백 분주령 야생화 트레킹에 다녀왔습니다.
+전날까지 폭우 수준의 장맛비가 쏟아진 탓에 분주령 능선길은 어떤 상태일지 걱정과 염려가 앞서는 여행길이었습니다.
+출발할 때만해도 서울은 햇볕이 쨍쨍 내리쬐기 시작하였는데 태백 가까이 갈수록 날이 흐리며 조금씩 안개비가 흩뿌리기도 하더군요.
+두문동재에 도착해, 걷기 시작을 할 때에는 가는 안개비와 함께 사방이 안개로 뿌옇게 둘러 싸인 풍경이었습니다.
+다행히 시간이 지날수록 안개도 게이고 걷는 내내 ,간간히 햇볕이 비치기도 하고 가끔 흐린 하늘이기도 한 다양한 날씨의 분주령 길을 걸었습니다.
+많은 비를 맞은 탓인지 여름 야생화들은 아직 제대로 피지 않은 상태이고 2주전 만개였던 범의 꼬리는 거의 끝물인 듯 했습니다.
+고목나무샘 가까이의 숲길에 이르러 내리막길을 걷기 시작할 때부터는 길이 많이 미끄러워 한발한발 내리막을 걷는 발걸음이 조심스럽기만 했습니다.
+그래서인지 분주령까지 가는데도 다른 때보다 시간이 좀 더 길어지는 듯 하더군요.
+분주령 그늘에서 간단한 간식을 먹고 대덕산 정상을 향해 올랐습니다.
+하늘말나리, 하늘나리, 땅나리, 등 붉은 색의 나리꽃들이 간간히 핀 것도 볼 수 있었고 아직 피지 않은 봉오리는 수도 없이 많이 올라와 있었습니다.
+오는 길 내내 흔히 보았던 비비추도 얼마 지나지 않아 화사한 얼굴을 내밀 기세입니다.
+1~2주 후쯤은 대덕산 정상으로 가는 길엔 나리꽃들과 비비추, 물봉선이들이 울긋불긋 만개하지 않을까 싶네요.
+대덕산 정상에 오르자 날씨가 많이 맑아져 저 멀리 풍력기가 돌아가는 능선도 볼 수 있었고, 시원하게 확 트인 전망을 볼 수 있었습니다.
+대덕산 정상에는 여전히 수많은 나비들은 꽃들을 오가며 세상 아무런 걱정 없는 듯 춤추고 있습니다. 
+꽃에 나비의 춤에 취해 한참을 시간가는 줄 모르고 머무르고 있었네요~^^
+대덕산에서 내려가는 길은 예상대로 좀 많이 미끄러웠지만 검룡소까지 부지런히 걸었습니다.
+검룡소 가까이에 오자 힘차게 흐르는 물소리가 예사롭지 않더군요.
+검룡소의 물줄기는 그야말로 용이 하늘로 승천하는 듯한 모습으로 힘찬 물줄기가 쏟아져 내리고 있었습니다.
+시원한 물줄기 가까이에 있어 그런지 그곳의 공기는 더없이 맑고 시원했습니다.
+이번 분주령 트레킹에는 많은 분들이 대덕산 정상까지 다녀왔습니다. 아마 야생화 보다 대덕산 정상의 탁 트인 시원한 풍경을 보고 싶으셨던 모양입니다.
+비가 많이 내린 후라 더더욱 대덕산 정상까지 다녀오는 길이 좀더 힘들었을 텐데 모든 분들이 어찌나 잘 걸으시는지 전혀 힘들어하는 기색없이 즐겁고 빠르게 걸으시더군요~^^ 
+분주령과 대덕산 가는 길에 많은 꽃들이 울긋불긋 피어 있을 다음 분주령 트레킹이 벌써부터 기다려지고 기대가 됩니다.
+함께 하신 모든 분들, 일요일 하루 동안 여행에 피로 잘 푸시고 다음주도 건강하고 활기차게 시작하시길 바라겠습니다~
+이 게시물을...

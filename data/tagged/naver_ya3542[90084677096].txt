@@ -1,0 +1,720 @@
+선덕여왕
+	선덕/ncn+여왕/ncr
+
+OST
+	OST/f
+
+'
+	'/sr
+
+아라로
+	아라/ncn+로/jca
+
+
+아라로
+	아라/ncn+로/jca
+
+..
+	./sf+./sf
+
+
+"아라"
+	"아라"/ncn
+
+는
+	늘/pvg+ㄴ/etm
+
+바다의
+	바다/ncn+의/jcm
+
+고어
+	고/ncn+이/jp+어/ef
+
+..
+	./sf+./sf
+
+
+아이유가
+	아이/ncn+유/ncn+가/jcs
+
+부른
+	부르/pvg+ㄴ/etm
+
+선덕여왕
+	선덕/ncn+여왕/ncr
+
+OST
+	OST/f
+
+..
+	./sf+./sf
+
+
+아라로'는
+	아라로'/ncn+는/jxc
+
+현대음악과
+	현대/ncn+음악/ncn+과/jcj
+
+가야금이
+	가야금/ncn+이/jcc
+
+절묘하게
+	절묘/ncps+하/xsms+게/ecs
+
+이루어진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+곡이다
+	곡/nbu+이/jp+다/ef
+
+
+선덕여왕
+	선덕/ncn+여왕/ncr
+
+OST
+	OST/f
+
+-
+	-/sd
+
+아라로
+	아라로/ncn
+
+(아이유)
+	(/sl+아이/ncn+유/ncn+)/sr
+
+
+아이유
+	아이/ncn+유/ncn
+
+(IU)
+	(/sl+IU/f+)/sr
+
+-아라로
+	-아라로/ncn
+
+(
+	(/sl
+
+선덕여왕
+	선덕/ncn+여왕/ncr
+
+OST
+	OST/f
+
+)
+	)/sr
+
+뮤직비디오
+	뮤직비디오/ncn
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc18/2010/04/08/542/03100223710D539E76C3E97B735530537C2_ya3542_logo.
+	net/blogucc18/2010/04/08/542/03100223710D539E76C3E97B735530537C2_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'222.
+	'/sr+222./nnc
+
+33';
+	33/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'CEB0927FD3089F6A2D2C1A9C7C39BD1FD446';
+	'CEB0927FD3089F6A2D2C1A9C7C39BD1FD446/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12210086a5ad7033663a0539daa49e8c88fca83cd068924082d651f50c607cbddc170539daa49e8c88fc';
+	'V12210086a5ad7033663a0539daa49e8c88fca83cd068924082d651f50c607cbddc170539daa49e8c88fc/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_07529
+	ugcPlayer_07529/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_07529'
+	VideoInfraUGCPlayer('ugcPlayer_07529'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_07529
+	ugcPlayer_07529/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+선덕여왕
+	선덕/ncn+여왕/ncr
+
+OST
+	OST/f
+
+'아라로'
+	'아라로'/ncn
+
+-
+	-/sd
+
+아이유
+	아이/ncn+유/ncn
+
+(IU)
+	(/sl+IU/f+)/sr
+
+가사
+	가사/ncn
+
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라에
+	다닿을까아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라에
+	다닿을까아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라에
+	다닿을까아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+
+바람길
+	바람/ncn+길/ncn
+
+가차가차
+	가차가차/ncn
+
+바람길
+	바람/ncn+길/ncn
+
+가차가차마음길
+	가차가차마음길/ncn
+
+아라로
+	아라/ncn+로/jca
+
+가니바람길
+	가니바람길/ncn
+
+물결
+	물결/ncn
+
+건너
+	건너/pvg+어/ecx
+
+바람길
+	바람/ncn+길/ncn
+
+하늘
+	하늘/ncn
+
+지나마음길
+	지나마음길/ncn
+
+숨결
+	숨결/ncn
+
+따라아라에
+	따라아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라에
+	다닿을까아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라에
+	다닿을까아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라로
+	다닿을까아라/ncn+로/jca
+
+
+바람길
+	바람/ncn+길/ncn
+
+가차가차
+	가차가차/ncn
+
+바람길
+	바람/ncn+길/ncn
+
+가차가차마음길
+	가차가차마음길/ncn
+
+아라로
+	아라/ncn+로/jca
+
+가니바람길
+	가니바람길/ncn
+
+물결
+	물결/ncn
+
+건너
+	건너/pvg+어/ecx
+
+바람길
+	바람/ncn+길/ncn
+
+하늘
+	하늘/ncn
+
+지나마음길
+	지나마음길/ncn
+
+숨결
+	숨결/ncn
+
+따라아라에
+	따라아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라에
+	다닿을까아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라에
+	다닿을까아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라로
+	다닿을까아라/ncn+로/jca
+
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라에
+	다닿을까아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라에
+	다닿을까아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라에
+	다닿을까아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라에
+	다닿을까아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라에
+	다닿을까아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라에
+	다닿을까아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까아라에
+	다닿을까아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+아라에
+	아라/ncn+에/jca
+
+다닿을까
+	다닿을까/ncn
+
+
+민초호야의
+	민초호야/ncn+의/jcm
+
+음악여행
+	음악/ncn+여행/ncpa
+
+
+선덕여왕
+	선덕/ncn+여왕/ncr
+
+OST
+	OST/f
+
+-
+	-/sd
+
+아라로
+	아라로/ncn
+
+/
+	//sp
+
+아이유
+	아이/ncn+유/ncn

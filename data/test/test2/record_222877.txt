@@ -1,0 +1,30 @@
+Title:
+6/1~2 소매물도와 통영 무박2일 여행 후기
+
+Date:
+2012.06.03
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(402442,'files/attach/images/64/877/222/1c09da62c3566d973c063ae71fa55102.jpg');
+list_gallery_add_image(402442,'files/attach/images/64/877/222/59de95daa83a8f09fc8129ed8f084151.jpg');
+list_gallery_add_image(402442,'files/attach/images/64/877/222/537f243793454036f33270c9629ac033.jpg');
+list_gallery_add_image(402442,'files/attach/images/64/877/222/b0f53749ddc70821adb1c22a3e3480e9.jpg');
+list_gallery_add_image(402442,'files/attach/images/64/877/222/e7148cc93fce70fe8fb55d517a2eed11.jpg');
+list_gallery_add_image(402442,'files/attach/images/64/877/222/0c9ab9f67cb136dffc0ecbd6d623eb54.jpg');
+list_gallery_add_image(402442,'files/attach/images/64/877/222/29e20da9f844a2ae3464e3a12c8efe96.jpg');
+list_gallery_add_image(402442,'files/attach/images/64/877/222/c1bfe7e8cdd2385939b613c0ccfb001b.jpg');
+list_gallery_add_image(402442,'files/attach/images/64/877/222/9abf8acea3648e9ebbd02bc9aaa40cd0.jpg');
+list_gallery_add_image(402442,'files/attach/images/64/877/222/27e107168a3a9e4db8245c02ee03e1c6.jpg');
+list_gallery_add_image(402442,'files/attach/images/64/877/222/7918b63014399f2d869e99c78c3bec70.jpg');
+list_gallery_add_image(402442,'files/attach/images/64/877/222/d155729973d420f951494414d1e7a00a.jpg');
+list_gallery_add_image(402442,'files/attach/images/64/877/222/b6538873d6b81f3aa5dc0e755cb85e24.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 6월 1일(금)-2일(토), 무박2일의 일정으로 소매물도와 통영 여행을 다녀왔습니다.
+6월의 첫째날 밤에 서울을 출발하여 밤새 고속도로를 달려 거제도로 접어든 시각, 사위가 점점 밝아오며 드러나는 여행지의 아침이 매우 신선하였습니다. 이런 느낌이 처음은 아닌데도 다른 여행지에서 맞이하는 새벽과 아침 사이의 시간은 매번 살아있는 듯한 생동감이 저는 참 좋더라구요.
+학동몽돌해변의 아침은 무척 고요하고 하얗게 거품을 일으키며 부서지는 파도 소리와 그 파도에 휩쓸려 뒹구는 몽돌 소리에 상쾌하더군요. 쏴~ 똑또구르르…. 밤새 묵직했던 몸은 몽돌해변 산책으로 풀어내고 해물된장찌개로 아침식사를 한 후 저구항으로 이동하였습니다.
+소매물도는 통영에 속해 있는 섬이지만 거제도 저구항에서 들어가는 배를 타면 약 3-40분만 타기 때문에 통영보다 훨씬 시간이 짧게 소요됩니다. 소매물도는 아름다운 여행으로도 꽤 오랜만에 다시 찾은 곳입니다. 때문인지 저도 꽤 설레더군요. 적잖은 설레임으로 약 40분 가량 유람선을 타고 도착한 소매물도는 예전보다 펜션도 더 많아지고 여기저기 개발된 곳도 많지만 그래도 여전히 소매물도를 찾는 사람들이 많은 걸 보면 자연풍경의 아름다움은 시간이 흘러도 쉬이 싫증 나지 않은 매력의 섬임에 틀림 없는 듯합니다.
+마을길을 따라 올라 전망대에 도착하니 탁 트인 풍경이 맨 먼저 눈에 들어옵니다. 이웃한 등대섬은 썰물 때라 길이 훤히 드러나 자신의 체력에 맞게 등대섬까지 다녀오기로 했습니다. 저도 그 길을 따라 등대섬까지 오른 후 다시 소매물도로 돌아오는데 가파른 오름길 계단이 꽤 힘들더라구요. 하지만 오랜만에 본 등대섬과 주변 풍경, 소매물도로 오가던 길은 다시 깊은 여운으로 남습니다.
+오후는 통영으로 이동해서 중앙시장, 동피랑마을, 남망산조각공원 등을 돌아보며 자유롭게 점심식사를 하였습니다. 식사를 마치고 여기저기 돌아보는데 소매물도에서는 날씨가 좀 쌀랑하여 몰랐는데 통영에서는 한여름과 같은 떙볕 때문에 걸어 다니기가 좀 지치셨을 거예요. 
+무박여행이 약간의 피곤함은 동반하지만 낯선 여행지에서 맞이한 새벽시간과 그 신선한 풍경 등은 기억에 오래 남기시길 바라며 남은 휴일에 푹 쉬면서 피로 떨치시고 멋진 풍경과 함께 시작한 6월도 잘 보내시기 바랍니다~이 게시물을...

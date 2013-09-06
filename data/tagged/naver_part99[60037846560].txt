@@ -1,0 +1,87 @@
+2학년컴퓨터문제-pygmalion999
+	2학년컴퓨터문제-pygmalion999/ncn
+
+.
+	./sf
+
+
+hwp
+	hwp/f
+
+3학년컴퓨터인증-pygmalion999
+	3학년컴퓨터인증-pygmalion999/ncn
+
+.
+	./sf
+
+
+hwp
+	hwp/f
+
+4학년컴퓨터활용능력필기-pygmalion999
+	4학년컴퓨터활용능력필기-pygmalion999/ncn
+
+.
+	./sf
+
+
+hwp
+	hwp/f
+
+5학년컴퓨터문제-pygmalion999
+	5학년컴퓨터문제-pygmalion999/ncn
+
+.
+	./sf
+
+
+hwp
+	hwp/f
+
+6학년컴퓨터인증문제-pygmalion999
+	6학년컴퓨터인증문제-pygmalion999/ncn
+
+.
+	./sf
+
+
+hwp
+	hwp/f
+
+
+학년별
+	학년별/ncn
+
+컴퓨터
+	컴퓨터/ncn
+
+활용능력
+	활용/ncpa+능력/ncn
+
+시험문제
+	시험문제/ncn
+
+..
+	./sf+./sf
+
+
+근데
+	근데/ncn
+
+답지
+	답지/ncpa
+
+없습니다^^
+	없습니다^^/ncn
+
+문제
+	문제/ncn
+
+유형
+	유형/ncn
+
+확인해
+	확인/ncpa+해/ncn
+
+보세요
+	보세/ncn+요/ncn

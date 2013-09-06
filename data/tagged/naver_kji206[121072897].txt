@@ -1,0 +1,814 @@
+전주한옥마을,
+	전주/ncn+한옥/ncn+마을/ncn+,/sp
+
+경기전
+	경기/ncn+전/ncn
+
+정문
+	정문/ncn
+
+좌측으로
+	좌측/ncn+으로/jca
+
+자리
+	자리/ncn
+
+하고
+	하/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+전주목판서화체험관
+	전주/ncn+목판/ncn+서화/ncn+체험/ncpa+관/ncn
+
+
+한국의
+	한국의/ncn
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+고인쇄문화를
+	고인쇄문화/ncn+를/jco
+
+감상하고
+	감상/ncn+하고/jct
+
+다양하게
+	다양/ncps+하/xsms+게/ecs
+
+체험할수
+	체험/ncpa+하/xsva+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+열린
+	열리/pvg+ㄴ/etm
+
+공간이다
+	공간/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+특히,
+	특히/ncn+,/sp
+
+
+한국
+	한국/ncn
+
+최초의
+	최초/ncn+의/jcm
+
+한글
+	한글/ncn
+
+문화유산인
+	문화/ncn+유산/ncn+이/jp+ㄴ/etm
+
+[용비어천가]를
+	[용비어천가]/ncn+를/jco
+
+한글
+	한글/ncn
+
+문화유산
+	문화/ncn+유산/ncn
+
+복원
+	복원/ncpa
+
+사업으로
+	사업/ncn+으로/jca
+
+진행가고
+	진행가/ncn+이/jp+고/ecc
+
+있으며
+	있/paa+으며/ecc
+
+
+완판본
+	완판본/ncn
+
+소설의
+	소설/ncn+의/jcm
+
+목판을
+	목판/ncn+을/jco
+
+복원하고
+	복원/ncpa+하고/jct
+
+출판한
+	출판/ncpa+하/xsva+ㄴ/etm
+
+하는
+	하/pvg+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이산
+	이산/ncpa
+
+안준영
+	안준영/ncn
+
+선생이
+	선생/ncr+이/jcc
+
+복원한
+	복원/ncpa+하/xsva+ㄴ/etm
+
+한국을
+	한국/ncn+을/jco
+
+대표하는
+	대표/ncpa+하/xsva+는/etm
+
+문화재급
+	문화재/ncn+급/ncn
+
+고목판,
+	고목/ncn+판/ncn+,/sp
+
+고판화,
+	고판/ncn+화/ncn+,/sp
+
+창작목판화등이
+	창작/ncpa+목판/ncn+화/ncn+등/xsnx+이/jcc
+
+전시
+	전시/ncn
+
+되어
+	되/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+전주
+	전주/ncn
+
+목판서화
+	목판/ncn+서화/ncn
+
+체험관은
+	체험/ncpa+관/ncn+은/jxc
+
+세계
+	세계/ncn
+
+최고의
+	최고/ncn+의/jcm
+
+질을
+	질/nbu+을/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+전주
+	전주/ncn
+
+한지와
+	하/pvg+ㄴ/etm+지/nbn+와/jcj
+
+목판서화
+	목판/ncn+서화/ncn
+
+문화가
+	문화/ncn+가/jcs
+
+만나
+	만나/ncn
+
+
+우리
+	우리/npp
+
+전통의
+	전통/ncn+의/jcm
+
+인쇄
+	인쇄/ncpa
+
+문화의
+	문화/ncn+의/jcm
+
+가치와
+	가치/ncn+와/jcj
+
+우수성을
+	우수성/ncn+을/jco
+
+재
+	재/pvg+어/ecx
+
+발견하는
+	발견/ncpa+하/xsva+는/etm
+
+체험공간이다
+	체험/ncpa+공간/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+체험내용은
+	체험내용/ncn+은/jxc
+
+
+목판서
+	목판/ncn+서/jca
+
+엽서,
+	엽서/ncn+,/sp
+
+봉투만들기,
+	봉투/ncn+만들기/ncn+,/sp
+
+고인쇄
+	고인쇄/ncn
+
+목판화
+	목판/ncn+화/ncn
+
+한지벽걸이
+	한지/ncn+벽걸이/ncn
+
+만들기
+	만들/pvg+기/etn
+
+체험,
+	체험/ncpa+,/sp
+
+
+옛책만들기
+	옛책만들기/ncn
+
+체험으로
+	체험/ncpa+으로/jca
+
+전통
+	전통/ncn
+
+오침법으로
+	오침법/ncn+으로/jca
+
+옛
+	옛/mma
+
+책(삼국의
+	책(삼국/ncn+의/jcm
+
+와당,
+	와당/ncn+,/sp
+
+훈민정음
+	훈민정음/ncn
+
+언해본,
+	언해/ncpa+본/ncn+,/sp
+
+부모은중경,창작판화법)을
+	부모은중경,창작판화법)/ncn+을/jco
+
+제본해
+	제본/ncpa+하/xsva+어/ecx
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+체험한
+	체험/ncpa+하/xsva+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+목판화
+	목판/ncn+화/ncn
+
+엽서,
+	엽서/ncn+,/sp
+
+봉투만들기
+	봉투/ncn+만들기/ncn
+
+체험
+	체험/ncpa
+
+이었다
+	이/npd+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+간단한
+	가/px+ㄴ단/etm+한/nbn
+
+체험이다
+	체험/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+인쇄된
+	인쇄/ncpa+되/xsvn+ㄴ/etm
+
+엽서에
+	엽서/ncn+에/jca
+
+본인이
+	본인/ncn+이/jcc
+
+원하는데로
+	원하/pvg+는/etm+데/nbn+로/jca
+
+물감
+	물/pvg+ㄹ/etm+감/nbn
+
+색만
+	색/ncn+만/jxc
+
+살짝
+	살짝/mag
+
+넣는것이다
+	넣/pvg+는/etm+것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+기존의
+	기존/ncpa+의/jcm
+
+그림이
+	그림/ncn+이/jcc
+
+주는
+	주/px+는/etm
+
+잔잔한
+	잔잔/ncn+한/ncn
+
+분위기에
+	분위기/ncn+에/jca
+
+너무
+	너무/mag
+
+많은
+	많/paa+은/etm
+
+색은
+	색/ncn+은/jxc
+
+오히려
+	오히려/mag
+
+역효과가
+	역효과/ncn+가/jcs
+
+날것
+	나/px+ㄹ/etm+것/nbn
+
+같아
+	같/paa+아/ecx
+
+아주
+	아주/mag
+
+..
+	./sf+./sf
+
+
+조금
+	조금/mag
+
+색은
+	색/ncn+은/jxc
+
+넣고
+	넣/pvg+고/ecc
+
+인주까지
+	인주/ncn+까지/jxc
+
+받는다
+	받/pvg+는다/ef
+
+.
+	./sf
+
+
+봉투만들기
+	봉투/ncn+만들기/ncn
+
+전
+	전/nbn
+
+딱지모양으로
+	딱지/ncn+모양/ncn+으로/jca
+
+하나
+	하/pvg+나/ecs
+
+접는다
+	접/pvg+는다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+봉투
+	봉투/ncn
+
+양쪽을
+	양쪽/ncn+을/jco
+
+먼저
+	먼저/mag
+
+접고는
+	접/pvg+고/ecs+는/jxc
+
+.....
+	.../se+./sf+./sf
+
+
+다시
+	다시/mag
+
+반을접어
+	반을접어/ncn
+
+아래위로
+	아래/ncn+위/ncn+로/jca
+
+각각
+	각각/mag
+
+접은후
+	접/pvg+은후/ef
+
+양쪽을
+	양쪽/ncn+을/jco
+
+세모
+	세/nnc+모/nbu
+
+모양으로
+	모양/ncn+으로/jca
+
+접어주면
+	접/pvg+어/ecx+주/px+면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+그리고,
+	그리/pvg+고/ecc+,/sp
+
+만들어
+	만들/pvg+어/ecx
+
+둔
+	두/pvg+ㄴ/etm
+
+딱지를
+	딱지/ncn+를/jco
+
+중간에
+	중간/ncn+에/jca
+
+끼워주면
+	끼우/pvg+어/ecx+주/px+면/ecs
+
+봉투
+	봉투/ncn
+
+완성~~
+	완성/ncpa+~/sd+~/sd
+
+
+요즘은
+	요즘/ncn+은/jxc
+
+글로
+	글/ncn+로/jca
+
+전하는
+	전하/pvg+는/etm
+
+손편지
+	손편지/ncn
+
+를
+	를/ncn
+
+주고
+	주/px+고/ecc
+
+받는
+	받/pvg+는/etm
+
+일이
+	일/ncn+이/jcc
+
+거의
+	거의/mag
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+쪽지나
+	쪽지/ncn+나/jcj
+
+이메일로
+	이메일로/ncn
+
+...
+	.../se
+
+
+간혹,
+	간혹,/ncn
+
+이런
+	이런/mmd
+
+엽서에
+	엽서/ncn+에/jca
+
+적힌
+	적히/pvg+ㄴ/etm
+
+편지를
+	펴/pvg+ㄴ/etm+지/nbn+를/jco
+
+받는다면
+	받/pvg+는다면/ecs
+
+어떨까
+	어떨까/ncn
+
+....
+	.../se+./sf
+
+
+얼마전까지
+	얼마/ncn+전/ncn+까지/jxc
+
+일상적이었던
+	일상/ncn+적/ncn+이/jp+었/ep+던/etm
+
+일이
+	일/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+격세지감이
+	격세지감/ncn+이/jcc
+
+느껴진다
+	느끼/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+목판화
+	목판/ncn+화/ncn
+
+한지벽걸이
+	한지/ncn+벽걸이/ncn
+
+체험
+	체험/ncpa
+
+
+두번째로
+	두/nnc+번/nbu+째/xsnu+로/jca
+
+체험한것은
+	체험/ncpa+하/xsva+ㄴ/etm+것/nbn+은/jxc
+
+탁본이다
+	탁본/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+몇가지
+	몇/nnc+가지/nbu
+
+그림이
+	그림/ncn+이/jcc
+
+있는데
+	있/px+는데/ecs
+
+개인적으로
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+택한건
+	택한건/ncn
+
+나쁜기운과
+	나쁜기운/ncn+과/jcj
+
+학업성취,
+	학업성취/ncpa+,/sp
+
+과거급제의
+	과거급제/ncpa+의/jcm
+
+의미가
+	의미/ncpa+가/jcc
+
+있는
+	있/px+는/etm
+
+호랑이민화를
+	호랑이/ncn+민화/ncn+를/jco
+
+택하였다
+	택하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+도움을
+	도움/ncn+을/jco
+
+받으며
+	받/pvg+으며/ecc
+
+문질러서
+	문지르/pvg+어서/ecs
+
+한지를
+	하/pvg+ㄴ/etm+지/nbn+를/jco
+
+바른후
+	바르/pvg+ㄴ후/ef
+
+다시
+	다시/mag
+
+꼼꼼하게
+	꼼꼼하/paa+게/ecs
+
+밀어준다
+	밀/pvg+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+찍어낸
+	찍/pvg+어/ecx+내/px+ㄴ/etm
+
+호랑이민화
+	호랑이/ncn+민화/ncn
+
+
+한지색을
+	한지/ncn+색/ncn+을/jco
+
+선택하여
+	선택/ncpa+하/xsva+어/ecx
+
+두꺼운
+	두껍/paa+은/etm
+
+마분지에
+	마분지/ncn+에/jca
+
+바른후
+	바르/pvg+ㄴ후/ef
+
+탁본한
+	탁본/ncn+한/ncn
+
+민화를
+	민화/ncn+를/jco
+
+붙이면
+	붙이/pvg+면/ecs
+
+벽걸이가
+	벽걸이/ncn+가/jcs
+
+완성된다
+	완성/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+전주여행
+	전주/ncn+여행/ncpa
+
+계획이
+	계획/ncpa+이/jcc
+
+있다면
+	있/px+다면/ecs
+
+겨울방학을
+	겨울방학/ncn+을/jco
+
+맞은
+	맞/pvg+은/etm
+
+아이들의
+	아이/ncn+들/ncn+의/jcm
+
+눈높이에
+	눈높이/ncn+에/jca
+
+맡는
+	맡/pvg+는/etm
+
+우리것에
+	우리것/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+문화를
+	문화/ncn+를/jco
+
+접하는
+	접하/pvg+는/etm
+
+이색적인
+	이색/ncn+적/ncn+이/jp+ㄴ/etm
+
+체험도
+	체험/ncpa+도/jxc
+
+좋을것
+	좋/paa+을/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+목판서화전시체험관
+	목판/ncn+서화/ncn+전시/ncn+체험/ncpa+관/ncn
+
+http://cafe.
+	http/f+:/sp+//sp+//sp+cafe/f+./sy
+
+daum.
+	daum/f+./sy
+
+net/gcs0080
+	net/gcs0080/ncn

@@ -1,0 +1,741 @@
+사찰여행
+	사찰/ncn+여행/ncpa
+
+통도사
+	통도사/ncn
+
+안양암[사찰여행/한국의절/TEMPLE
+	안양암[사찰여행/한국의절/TEMPLE/ncn
+
+STAY]머물고
+	STAY]머물고/ncn
+
+있는
+	있/px+는/etm
+
+암자에서
+	암자/ncn+에서/jca
+
+바깥
+	바깥/ncn
+
+공기를
+	공기/ncn+를/jco
+
+쐬로
+	쐬/ncn+로/jca
+
+나오거나
+	나/pvg+아/ecx+오/px+거나/ecc
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+길에
+	길/ncn+에/jca
+
+마주치는
+	마주치/pvg+는/etm
+
+암자가
+	암자/ncn+가/jcs
+
+하나
+	하/pvg+나/ecs
+
+있었는데,
+	있/px+었/ep+는데/ecs+,/sp
+
+간판에
+	간판/ncn+에/jca
+
+시선이
+	시선/ncn+이/jcc
+
+머물고
+	머물/pvg+고/ecc
+
+생각이
+	생각/ncpa+이/jcc
+
+또
+	또/maj
+
+한
+	하/pvg+ㄴ/etm
+
+번
+	번/nbu
+
+머문다
+	머물/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+이름은
+	이름/ncn+은/jxc
+
+서울시
+	서울시/ncn
+
+부근
+	부근/ncn
+
+안양시를
+	안양시/ncn+를/jco
+
+닮은
+	닮/pvg+은/etm
+
+안양암
+	안양암/ncn
+
+.
+	./sf
+
+
+안양에
+	알/pvg+ㄴ/etm+양/nbn+에/jca
+
+있어야
+	있/px+어야/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+것이
+	것/nbn+이/jcc
+
+
+자리를
+	자리/ncn+를/jco
+
+잘
+	잘/mag
+
+못
+	못/mag
+
+잡은
+	잡/pvg+은/etm
+
+듯하지만,
+	듯하/paa+지/ecx+말/px+ㄴ/etm+,/sp
+
+오늘
+	오늘/ncn
+
+절에
+	절/ncn+에/jca
+
+가보니
+	가/pvg+아/ecx+보/px+니/ecs
+
+연두빛
+	연두빛/ncn
+
+통도사
+	통도사/ncn
+
+계곡이
+	계곡/ncn+이/jcc
+
+시원스럽게
+	시원/ncps+스럽/xsmn+게/ecs
+
+내려다
+	내리/pvg+어다/ecs
+
+보이는
+	보이/pvg+는/etm
+
+곳에
+	곳/nbn+에/jca
+
+건물들이
+	건물/ncn+들/ncn+이/jcc
+
+옹기종기
+	옹기종기/mag
+
+자리한다
+	자리한다/ncn
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+절터가
+	절터/ncn+가/jcs
+
+넉넉치
+	넉넉/ncps+치/ncn
+
+않아서
+	않/px+아/ecx
+
+건물
+	건물/ncn
+
+처마들
+	처마/ncn+들/ncn
+
+끝이
+	끝/ncn+이/jcc
+
+닿을랑
+	닿을랑/ncn
+
+말랑거린다
+	말랑거린다/ncn
+
+.
+	./sf
+
+
+검은색
+	검은색/ncn
+
+기와지붕에
+	기와지붕/ncn+에/jca
+
+
+둘러싸인
+	둘러싸이/pvg+ㄴ/etm
+
+황토빛
+	황토/ncn+빛/ncn
+
+마당은
+	마당/ncn+은/jxc
+
+어머니의
+	어머니/ncn+의/jcm
+
+품처럼
+	풀/pvg+ㅁ/etn+처럼/jca
+
+아늑하고
+	아늑/ncps+하고/jct
+
+포근해
+	포근/ncn+해/ncn
+
+보였고,
+	보이/pvg+었/ep+고/ecc+,/sp
+
+발
+	발/ncn
+
+끝에
+	끝/ncn+에/jca
+
+스치는
+	스치/pvg+는/etm
+
+자갈
+	자/pvg+아/ecx+가/px+ㄹ/etm
+
+소리가
+	소리/ncn+가/jcs
+
+불경
+	불경/ncn
+
+소리
+	소리/ncn
+
+사이사이를
+	사이/ncn+사이/ncn+를/jco
+
+채운다
+	채우/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+문틈으로
+	문틈/ncn+으로/jca
+
+새어나오는
+	새/pvg+어/ecx+나/px+아/ecx+오/px+는/etm
+
+스님의
+	스님/ncn+의/jcm
+
+불경
+	불경/ncn
+
+읊는
+	읊/pvg+는/etm
+
+소리가
+	소리/ncn+가/jcs
+
+마치봄노래처럼
+	마치봄노래처럼/ncn
+
+들리기도
+	들리/pvg+기/etn+도/jxc
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+어떤
+	어떤/mmd
+
+분이
+	분/nbu+이/jcc
+
+앉아
+	앉/pvg+아/ecx
+
+계실까
+	계시/paa+ㄹ까/ecs
+
+법당
+	법당/ncn
+
+문을
+	문/ncn+을/jco
+
+열어보자
+	열/pvg+어/ecx+보/px+자/ecc
+
+연세가
+	연세/ncn+가/jcs
+
+지긋하신
+	지긋/ncps+하/xsms+시/ep+ㄴ/etm
+
+스님이
+	스님/ncn+이/jcc
+
+혼자
+	혼자/mag
+
+앉아서
+	앉/pvg+아/ecx
+
+그
+	그/mmd
+
+넓은
+	넓/paa+은/etm
+
+법당을
+	법당/ncn+을/jco
+
+불경
+	불경/ncn
+
+소리로
+	소리/ncn+로/jca
+
+채우고
+	채우/pvg+고/ecc
+
+계셨는데
+	계시/paa+었/ep+는데/ecs
+
+그만의
+	그/npp+만의/jcm
+
+공간에
+	공간/ncn+에/jca
+
+발
+	발/ncn
+
+들여놓을까
+	들이/pvg+어/ecx+놓/px+을까/ef
+
+말까
+	말/px+ㄹ까/ecs
+
+망설이다
+	망설이/pvg+다/ef
+
+
+살포시
+	살포시/mag
+
+문을
+	문/ncn+을/jco
+
+닫는다
+	닫/pvg+는다/ef
+
+.
+	./sf
+
+
+연두빛이
+	연두빛/ncn+이/jcc
+
+유난히
+	유난히/mag
+
+아름다웠던
+	아름답/paa+었/ep+던/etm
+
+안양암을
+	안양암/ncn+을/jco
+
+호젓하게
+	호젓/ncps+하/xsms+게/ecs
+
+걸어봅시다
+	걷/pvg+어/ecx+보/px+ㅂ시다/ef
+
+.
+	./sf
+
+
+***
+	*/sy+*/sy+*/sy
+
+안양(
+	안양(/ncn
+
+)은
+	)/sr+은/jxc
+
+극락세계를
+	극락세계/ncn+를/jco
+
+뜻한다
+	뜻/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+북적거리는
+	북적거리/pvg+는/etm
+
+서운암과
+	서운/ncn+암/ncn+과/jcj
+
+대조적인
+	대조/ncpa+적/ncn+이/jp+ㄴ/etm
+
+분위기,
+	분위기/ncn+,/sp
+
+저
+	저/mmd
+
+바위에
+	바위/ncn+에/jca
+
+앉으면
+	앉/pvg+으면/ecs
+
+자갈
+	자/pvg+아/ecx+가/px+ㄹ/etm
+
+소리,
+	소리/ncn+,/sp
+
+연두빛
+	연두빛/ncn
+
+내음이
+	내/pvg+ㅁ/etn+이/jcs
+
+모두
+	모두/mag
+
+당신의
+	당신/npp+의/jcm
+
+것절에서
+	것절/ncn+에서/jca
+
+담배를
+	담배/ncn+를/jco
+
+피우는
+	피우/pvg+는/etm
+
+분들
+	불/pvg+ㄴ/etm+들/nbn
+
+계시던데
+	계시/paa+던/etm+데/nbn
+
+장소
+	장소/ncn
+
+분별력을
+	분별력/ncn+을/jco
+
+키우시길
+	키우시길/ncn
+
+...
+	.../se
+
+
+좁은
+	좁/paa+은/etm
+
+땅에
+	땅/ncn+에/jca
+
+처마가
+	처마/ncn+가/jcs
+
+서로의
+	서로/ncn+의/jcm
+
+높이를
+	높이/ncn+를/jco
+
+맞추려고
+	맞추/pvg+려고/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+연두빛
+	연두빛/ncn
+
+바다로
+	바다/ncn+로/jca
+
+잠시
+	잠시/mag
+
+떠난
+	떠나/pvg+ㄴ/etm
+
+풍경
+	풍경/ncn
+
+
+꺼진
+	끄/pvg+어/ecx+지/px+ㄴ/etm
+
+불도
+	불/ncn+도/jxc
+
+다시
+	다시/mag
+
+보자
+	보/px+자/ecc
+
+.
+	./sf
+
+
+자나
+	자/pvg+아/ecx+나/px+아/ecx
+
+깨나
+	깨/pvg+어/ecx+나/px+아/ecx
+
+불
+	불/pvg+ㄹ/etm
+
+조심안양암에서
+	조심안양암/ncn+에서/jca
+
+유일하게
+	유일/ncps+하/xsms+게/ecs
+
+안내판이
+	안내판/ncn+이/jcc
+
+서있는
+	서/pvg+어/ecx+있/px+는/etm
+
+북극전통도사로
+	북극/ncn+전통/ncn+도사/ncn+로/jca
+
+내려가는
+	내리/pvg+어/ecx+가/px+는/etm
+
+길연두빛
+	길연두빛/ncn
+
+바다에
+	바다/ncn+에/jca
+
+빠져봅시다지금도
+	빠져봅시다지금/ncn+도/jxc
+
+예쁘지만
+	예쁘/paa+지/ecx+말/px+ㄴ/etm
+
+세월의
+	세/nnc+월/nbu+의/jcm
+
+때를
+	때/ncn+를/jco
+
+입을
+	입/ncn+을/jco
+
+때까지
+	때/ncn+까지/jxc
+
+조금
+	조금/mag
+
+기다려야겠다
+	기다리/pvg+어야겠/ep+다/ef
+
+.
+	./sf
+
+
+절
+	절/ncn
+
+입구에
+	입구/ncn+에/jca
+
+특이하게
+	특이/ncps+하/xsms+게/ecs
+
+휜
+	휘/pvg+ㄴ/etm
+
+대나무연두가
+	대나무연두/ncn+가/jcs
+
+많아서
+	많/paa+아/ecx
+
+봄이
+	보/px+ㅁ/etn+이/jcs
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+주말이라
+	주말/ncn+이/jp+라/ecs
+
+통도사
+	통도사/ncn
+
+주차장이
+	주차장/ncn+이/jcc
+
+형형색색
+	형형색색/ncn
+
+차들로
+	차/ncn+들/xsncc+로/jca
+
+꽉
+	꽉/mag
+
+들어차고도
+	들어차/paa+아/ef+고/jcr+도/jxc
+
+모자라
+	모자라/pvg+아/ecx
+
+도로까지
+	도/ncn+로/jca+까지/jxc
+
+삐져나왔다
+	삐져나왔다/ncn
+
+.
+	./sf
+
+
+마침
+	마침/mag
+
+서운암에서는
+	서운/ncn+암/ncn+에서/jca+는/jxc
+
+들꽃
+	들꽃/ncn
+
+축제를
+	축제/ncn+를/jco
+
+보러
+	보/px+러/ecs
+
+온
+	오/px+ㄴ/etm
+
+차량이
+	차량/ncn+이/jcc
+
+한
+	하/pvg+ㄴ/etm
+
+몫
+	몫/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+듯.주말을
+	듯.주말/ncn+을/jco
+
+반납하고
+	반납/ncpa+하고/jct
+
+서운암
+	서운/ncn+암/ncn
+
+삼거리에서
+	삼거리/ncn+에서/jca
+
+교통
+	교통/ncn
+
+통제
+	통제/ncpa
+
+하시는
+	하/px+시/ep+는/etm
+
+경찰관
+	경찰/ncn+관/ncn
+
+아저씨들
+	아저씨/ncn+들/ncn
+
+고생이
+	고생/ncpa+이/jcc
+
+많습니다
+	많/paa+습니다/ef
+
+.
+	./sf

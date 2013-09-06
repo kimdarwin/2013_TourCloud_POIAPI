@@ -1,0 +1,811 @@
+슈퍼스타K2,
+	슈퍼스타K2,/ncn
+
+김지수와
+	김지수/ncn+와/jcj
+
+박보람이
+	박보람/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+OCN
+	OCN/f
+
+드라마
+	드라마/ncn
+
+"야차"OST에
+	"야차"OST/ncn+에/jca
+
+참여했다
+	참여/ncpa+하/xsva+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+"같이살자"는
+	"/sl+같이살/pvg+자/ecc+"/sr+는/jxc
+
+극중의
+	극중/ncn+의/jcm
+
+조동혁(백록)과
+	조동혁(백록)/ncn+과/jcj
+
+전혜빈(정연)의
+	전혜빈(정연)/ncn+의/jcm
+
+러브
+	러브/ncn
+
+테마곡이며
+	테마/ncn+곡/ncn+이/jp+며/ecc
+
+..
+	./sf+./sf
+
+
+김지수,
+	김지수,/ncn
+
+박보람의환상하모니와
+	박보람의환상하모니/ncn+와/jcj
+
+애절함이극중에잘
+	애절함이극중에잘/ncn
+
+녹아
+	녹/pvg+아/ecx
+
+내린것
+	내리/pvg+ㄴ/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+김지수,박보람(슈퍼스타K2)~
+	김지수,박보람(슈퍼스타K2)~/ncn
+
+같이살자(드라마,
+	같이살자(드라마,/ncn
+
+야차
+	야차/ncn
+
+OST)
+	OST/f+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc23/2010/12/26/1268/03100223D13153FE04C3294973DB5923904_ya3542_logo.
+	net/blogucc23/2010/12/26/1268/03100223D13153FE04C3294973DB5923904_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'238.
+	'/sr+238./nnc
+
+419';
+	419/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'88CC7DB216FC9D57D392141B435665847E88';
+	'88CC7DB216FC9D57D392141B435665847E88/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1223b0e1edab8e68271a08ba95d58f5a04af448964489d7fb17d6e6d593a5c5facbf08ba95d58f5a04af';
+	'V1223b0e1edab8e68271a08ba95d58f5a04af448964489d7fb17d6e6d593a5c5facbf08ba95d58f5a04af/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_02853
+	ugcPlayer_02853/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_02853'
+	VideoInfraUGCPlayer('ugcPlayer_02853'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_02853
+	ugcPlayer_02853/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+김지수,박보람(슈퍼스타K2)~
+	김지수,박보람(슈퍼스타K2)~/ncn
+
+같이살자
+	같이살/pvg+자/ecc
+
+(가사)
+	(/sl+가사/ncn+)/sr
+
+
+불러본다
+	부르/pvg+어/ecx+보/px+ㄴ다/ef
+
+너의
+	너/npp+의/jcm
+
+그
+	그/mmd
+
+이름
+	이름/ncn
+
+내가
+	나/npp+가/jcs
+
+평생
+	평생/ncn
+
+애태운
+	애태우/pvg+ㄴ/etm
+
+사람너에
+	사람너/ncn+에/jca
+
+두
+	두/nnc
+
+손을
+	손/ncn+을/jco
+
+잡아줄
+	잡/pvg+어/ecx+주/px+ㄹ/etm
+
+수
+	수/nbn
+
+없기에
+	없/paa+기/etn+에/jca
+
+그저
+	그저/mag
+
+멀리서나마
+	멀/paa+ㄹ/etm+리/nbn+서/jca+나마/jxc
+
+널
+	널/pvg+ㄹ/etm
+
+부른다
+	부르/pvg+ㄴ다/ef
+
+새겨본다
+	새기/pvg+어/ecx+보/px+ㄴ다/ef
+
+너의
+	너/npp+의/jcm
+
+그
+	그/mmd
+
+이름
+	이름/ncn
+
+내가
+	나/npp+가/jcs
+
+평생
+	평생/ncn
+
+아파할
+	아프/paa+아/ecx+하/px+ㄹ/etm
+
+사랑가슴속
+	사랑/ncn+가슴/ncn+속/ncn
+
+깊이
+	깊이/mag
+
+묻어둔
+	묻/pvg+어/ecx+두/px+ㄴ/etm
+
+나의
+	나/npp+의/jcm
+
+사람쓰라려
+	사람쓰라려/ncn
+
+아픈
+	아프/paa+ㄴ/etm
+
+상처
+	상처/ncpa
+
+되려
+	되려/mag
+
+견디게
+	견디/pvg+게/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+같이
+	같/paa+이/xsa
+
+살자
+	살/pvg+자/ecc
+
+하지
+	하/pvg+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+그말
+	그말/ncn
+
+.
+	./sf
+
+
+너
+	너/npp
+
+같이
+	같/paa+이/xsa
+
+살자
+	살/pvg+자/ecc
+
+맴돌기만
+	맴돌/pvg+기/etn+만/jxc
+
+했던
+	하/px+었/ep+던/etm
+
+그말
+	그말/ncn
+
+부서질
+	부서지/pvg+ㄹ/etm
+
+듯
+	듯/nbn
+
+위험한
+	위험/ncn+한/ncn
+
+우린
+	우/ncn+이/jp+리/ep+ㄴ/etm
+
+운명
+	운명/ncn
+
+일까
+	일/pvg+ㄹ까/ecs
+
+이젠
+	이젠/ncn
+
+견딜
+	견디/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+나영원히
+	나영원히/ncn
+
+사랑해지켜준다
+	사랑해지켜준다/ncn
+
+너의
+	너/npp+의/jcm
+
+모든걸
+	모든걸/ncn
+
+너는
+	너/npp+는/jxc
+
+절대
+	절대/mag
+
+아파선
+	아프/paa+아/ecs
+
+안돼
+	안되/paa+어/ecx
+
+파르르
+	파르르/mag
+
+떠는
+	떨/pvg+는/etm
+
+꽃잎을
+	꽃잎/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+때마다
+	때/ncn+마다/jxc
+
+모진
+	모질/paa+ㄴ/etm
+
+시간을
+	시간/ncn+을/jco
+
+견딘
+	견디/pvg+ㄴ/etm
+
+너를
+	너/npp+를/jco
+
+깊게
+	깊/paa+게/ecs
+
+심을께같이
+	심을께같/ncn+이/jcc
+
+살자
+	살/pvg+자/ecc
+
+하지
+	하/pvg+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+그말
+	그말/ncn
+
+.
+	./sf
+
+
+너
+	너/npp
+
+같이
+	같/paa+이/xsa
+
+살자
+	살/pvg+자/ecc
+
+맴돌기만
+	맴돌/pvg+기/etn+만/jxc
+
+했던
+	하/px+었/ep+던/etm
+
+그말
+	그말/ncn
+
+부서질
+	부서지/pvg+ㄹ/etm
+
+듯
+	듯/nbn
+
+위험한
+	위험/ncn+한/ncn
+
+우린
+	우/ncn+이/jp+리/ep+ㄴ/etm
+
+운명
+	운명/ncn
+
+일까
+	일/pvg+ㄹ까/ecs
+
+이젠
+	이젠/ncn
+
+견딜
+	견디/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+나헤어짐이
+	나헤어짐/ncn+이/jcc
+
+아쉬워서
+	아쉽/paa+어서/ecs
+
+놓지
+	놓/px+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+손
+	손/ncn
+
+그
+	그/mmd
+
+추억만으로
+	추억/ncpa+만/ncn+으로/jca
+
+충분해요같이
+	충분해요같/ncn+이/jcc
+
+살자
+	살/pvg+자/ecc
+
+하지
+	하/pvg+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+그말사라진다
+	그말사라진다/ncn
+
+점점
+	점점/mag
+
+멀어
+	멀/paa+어/ecx
+
+져가
+	지/px+어/ecx+가/px+아/ecx
+
+뒤돌아
+	뒤돌/pvg+아/ecx
+
+서며
+	서/pvg+며/ecc
+
+잡을
+	잡/pvg+을/etm
+
+수
+	수/nbn
+
+없던
+	없/paa+던/etm
+
+네
+	네/npp
+
+얼굴보일
+	얼굴/ncn+보/ncn+이/jp+ㄹ/etm
+
+듯이
+	듯/nbn+이/jcs
+
+사라진
+	사라지/pvg+ㄴ/etm
+
+이건
+	이/npd+이/jp+건/ecc
+
+운명일까
+	운명/ncn+이/jp+ㄹ까/ecs
+
+살아서
+	살/pvg+아/ecx
+
+함께해
+	함께하/pvg+어/ecx
+
+.
+	./sf
+
+
+같이살자
+	같이살/pvg+자/ecc
+
+..
+	./sf+./sf
+
+
+야차
+	야차/ncn
+
+meets
+	meets/f
+
+슈퍼스타K2
+	슈퍼스타K2/ncn
+
+'
+	'/sr
+
+김지수,박보람
+	김지수,박보람/ncn

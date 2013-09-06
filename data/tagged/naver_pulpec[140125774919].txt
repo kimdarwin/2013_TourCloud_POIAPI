@@ -1,0 +1,4920 @@
+싱가포르
+	싱가포르/ncn
+
+가시면
+	가/px+시/ep+면/ecs
+
+꼭
+	꼭/mag
+
+센토사
+	센토사/ncn
+
+섬
+	서/pvg+ㅁ/etn
+
+아빠
+	아빠/ncn
+
+멀라이언을
+	멀라이언/ncn+을/jco
+
+만나고
+	만나/pvg+고/ecc
+
+오세여
+	오/nnc+세/nbu+이/jp+어/ecs
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+마리나
+	마리/nbu+나/jcj
+
+베이의
+	베이/ncn+의/jcm
+
+엄마
+	엄마/ncn
+
+.
+	./sf
+
+
+애기
+	애/ncn+이/jp+기/etn
+
+멀라이언도
+	멀라이언/ncn+도/jxc
+
+먼저
+	먼저/mag
+
+만나고요
+	만나/pvg+고요/ef
+
+.
+	./sf
+
+
+싱가포르의
+	싱가포르/ncn+의/jcm
+
+최대의
+	최대/ncn+의/jcm
+
+휴양지
+	휴양지/ncn
+
+센토사섬
+	센토사섬/ncn
+
+케이블카
+	케이블카/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+아빠
+	아빠/ncn
+
+멀라이언
+	멀라이언/ncn
+
+.
+	./sf
+
+
+일정:
+	일정/ncps+:/sp
+
+2/3(목)
+	2/3(목)/ncn
+
+설날
+	설날/ncn
+
+부산출발
+	부산/ncps+출발/ncpa
+
+-
+	-/sd
+
+베트남
+	베트남/ncn
+
+호치민
+	호치민/ncn
+
+경유
+	경유/ncn
+
+-
+	-/sd
+
+싱가폴
+	싱가폴/ncn
+
+도착
+	도착/ncpa
+
+.
+	./sf
+
+
+마리나
+	마리/nbu+나/jcj
+
+베이샌즈
+	베이샌즈/ncn
+
+호텔
+	호텔/ncn
+
+1박
+	1/nnc+박/nbu
+
+.
+	./sf
+
+
+2/4(금)
+	2/4(금)/ncn
+
+싱가포르관광마리나
+	싱가포르관광마리/ncn+나/jcj
+
+베이샌즈
+	베이샌즈/ncn
+
+호텔
+	호텔/ncn
+
+2박
+	2/nnc+박/nbu
+
+.
+	./sf
+
+
+2/5(토)
+	2/5(토)/ncn
+
+싱가포르관광
+	싱가포르관광/ncn
+
+플러톤
+	플러톤/ncn
+
+호텔
+	호텔/ncn
+
+3박
+	3/nnc+박/nbu
+
+.
+	./sf
+
+
+2/6(일)플러톤
+	2/6(일)플러톤/ncn
+
+호텔수영장에서
+	호텔/ncn+수영장/ncn+에서/jca
+
+놀기
+	놀/pvg+기/etn
+
+-
+	-/sd
+
+센토사
+	센토사/ncn
+
+섬
+	서/pvg+ㅁ/etn
+
+케이블카
+	케이블카/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+멀라이언
+	멀라이언/ncn
+
+만나기
+	만나/pvg+기/etn
+
+.
+	./sf
+
+
+싱가포르
+	싱가포르/ncn
+
+출발
+	출발/ncpa
+
+
+2/7(월)
+	2/7(월)/ncn
+
+베트남
+	베트남/ncn
+
+호치민
+	호치민/ncn
+
+경유
+	경유/ncn
+
+부산도착
+	부산/ncps+도착/ncpa
+
+.
+	./sf
+
+
+도움:
+	도움/ncn+:/sp
+
+1.
+	1./nnc
+
+센토사
+	센토사/ncn
+
+섬
+	서/pvg+ㅁ/etn
+
+가는
+	가/pvg+는/etm
+
+방법은
+	방법/ncn+은/jxc
+
+총
+	총/mma
+
+4가지
+	4/nnc+가지/nbu
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+--케이블카
+	-/sd+-/sd+케이블카/ncn
+
+/
+	//sp
+
+모노레일
+	모노/ncn+레일/ncn
+
+/
+	//sp
+
+자동차
+	자동차/ncn
+
+/
+	//sp
+
+배타고
+	배/pvg+어/ecx+타/px+고/ecc
+
+..
+	./sf+./sf
+
+
+^^*
+	^/sy+^/sy+*/sy
+
+(처음
+	(/sl+처음/mag
+
+가시는
+	가/px+시/ep+는/etm
+
+분은
+	분/nbu+은/jxc
+
+케이블카)
+	케이블카/ncn+)/sr
+
+
+2.
+	2./nnc
+
+케이블카
+	케이블카/ncn
+
+타는
+	타/pvg+는/etm
+
+지점이
+	지점/ncn+이/jcc
+
+2군데
+	2군데/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+--쥬얼리
+	--쥬얼리/ncn
+
+박스
+	박스/ncn
+
+지점을
+	지점/ncn+을/jco
+
+추천해드립니다
+	추천/ncpa+하/xsva+어/ecx+드리/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+(레스토랑
+	(/sl+레스토랑/ncn
+
+.
+	./sf
+
+
+분위기
+	분위기/ncn
+
+.
+	./sf
+
+
+전망짱~
+	전망짱~/ncn
+
+!)
+	!/sf+)/sr
+
+
+3.
+	3./nnc
+
+센토사섬을
+	센토사섬/ncn+을/jco
+
+제대로
+	제대로/mag
+
+보실려면
+	보실려/ncn+이/jp+면/ecs
+
+24시간
+	24/nnc+시간/nbu
+
+투자하고
+	투/nbn+이/jp+자/ef+하고/jcr
+
+가세여
+	가세/ncn+이/jp+어/ecs
+
+.
+	./sf
+
+
+:최고의
+	:/sp+최고/ncn+의/jcm
+
+놀이/휴양시설자랑
+	놀/ncn+이/jcc+//sp+휴양시설/ncn+자랑/ncn
+
+.
+	./sf
+
+
+--만약
+	-/sd+-/sd+만약/ncn
+
+싱가포르
+	싱가포르/ncn
+
+경유시
+	경유/ncn+시/ncn
+
+시간여유가
+	시간/ncn+여유/ncn+가/jcs
+
+없으면
+	없/paa+으면/ecs
+
+티티카카처럼
+	티티카카처럼/ncn
+
+멀라이언만보고
+	멀라이언만보/ncn+이/jp+고/ecc
+
+오세요
+	오/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+4.
+	4./nnc
+
+센토사섬엔
+	센토사섬엔/ncn
+
+휴일에
+	휴일/ncn+에/jca
+
+사람이
+	사람/ncn+이/jcc
+
+엄청
+	엄청/mag
+
+많습니다
+	많/paa+습니다/ef
+
+.
+	./sf
+
+
+잘못하면
+	잘못/ncpa+하/xsva+면/ecs
+
+밟혀죽습니다
+	밟혀죽습니/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+--;;
+	-/sd+-/sd+;/sy+;/sy
+
+
+5.
+	5./nnc
+
+마리나
+	마리/nbu+나/jcj
+
+베이
+	베/ncn+이/jcc
+
+-
+	-/sd
+
+쥬얼리박스
+	쥬얼리박스/ncn
+
+케이블카
+	케이블카/ncn
+
+정류장까지
+	정류장/ncn+까지/jxc
+
+택시로
+	택시/ncn+로/jca
+
+20분
+	20/nnc+분/nbu
+
+.
+	./sf
+
+
+요금은
+	요금/ncn+은/jxc
+
+14싱달러정도
+	14싱달러정/ncn+도/jxc
+
+.
+	./sf
+
+
+자꾸
+	자꾸/mag
+
+여행기의
+	여행기/ncn+의/jcm
+
+폴더를
+	폴더/ncn+를/jco
+
+정리하면
+	정리/ncpa+하/xsva+면/ecs
+
+할수록
+	하/pvg+ㄹ수록/ecs
+
+슬퍼집니다
+	슬프/paa+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아
+	아/ii
+
+싱가포르
+	싱가포르/ncn
+
+여행기가
+	여행기/ncn+가/jcs
+
+이제
+	이제/mag
+
+끝이구나
+	끝/ncn+이/jp+구나/ef
+
+하면
+	하/pvg+면/ecs
+
+
+한편으론
+	한/nnc+편/nbu+으론/jca
+
+속이
+	속/ncn+이/jcc
+
+시원하기도
+	시원/ncps+하/xsms+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+
+한편으론
+	한/nnc+편/nbu+으론/jca
+
+서운하기도
+	서운/ncps+하/xsms+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+그래요
+	그래요/ii
+
+
+혹시
+	혹시/mag
+
+서운하신
+	서운/ncps+하/xsms+시/ep+ㄴ/etm
+
+분들도
+	불/pvg+ㄴ/etm+들/nbn+도/jxc
+
+계신가여
+	계신가/ncn+이/jp+어/ecs
+
+?
+	?/sf
+
+
+저만
+	저/npp+만/jxc
+
+서운한거겠지요
+	서운한거/ncn+이/jp+겠/ep+지/ef+요/jxf
+
+?
+	?/sf
+
+
+--;;;
+	-/sd+-/sd+;/sy+;/sy+;/sy
+
+
+싱가포르
+	싱가포르/ncn
+
+이야기
+	이야기/ncpa
+
+이제
+	이제/mag
+
+딱
+	딱/mag
+
+3편
+	3/nnc+편/nbu
+
+남았습니다
+	남/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+오늘은
+	오늘/ncn+은/jxc
+
+싱가포르
+	싱가포르/ncn
+
+하면
+	하/pvg+면/ecs
+
+
+꼭
+	꼭/mag
+
+이야기해야
+	이야기/ncpa+하/xsva+어야/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+곳은
+	곳/ncn+은/jxc
+
+시간이
+	시간/ncn+이/jcc
+
+세월이
+	세/nnc+월/nbu+이/jcc
+
+아무리
+	아무리/mag
+
+흘러도
+	흐르/pvg+어도/ecs
+
+
+꼭
+	꼭/mag
+
+가봐야
+	가/pvg+아/ecx+보/px+아/ecx
+
+할
+	하/pvg+ㄹ/etm
+
+곳이라
+	곳/ncn+이/jp+라/ecs
+
+저도
+	저/npp+도/jxc
+
+과감히
+	과감히/mag
+
+갔습니다
+	가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+이곳을
+	이곳/npd+을/jco
+
+가는
+	가/pvg+는/etm
+
+바람에
+	바람/ncn+에/jca
+
+
+창이공항에서
+	창이공항/ncn+에서/jca
+
+베트남가는
+	베트남가/ncn+는/jxc
+
+비행기
+	비행기/ncn
+
+찾으러
+	찾/pvg+으러/ecs
+
+무려
+	무려/mag
+
+30분이나
+	30/nnc+분/nbu+이나/jcj
+
+뛰었습니다
+	뛰/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+(베트남은
+	(베트남/ncn+은/jxc
+
+싱가포르와
+	싱가포르/ncn+와/jct
+
+가까워서
+	가깝/paa+어서/ecs
+
+제일
+	제일/mag
+
+얄궂은
+	얄궂/paa+은/etm
+
+게이트를
+	게이트/ncn+를/jco
+
+주더군여
+	주더군여/ncn
+
+--;;;)
+	-/sd+-/sd+;/sy+;/sy+;/sy+)/sr
+
+
+솔직히
+	솔직히/mag
+
+시간계산을
+	시간/ncn+계산/ncpa+을/jco
+
+잘못
+	잘못/mag
+
+한거지요
+	한거/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+플러톤
+	플러톤/ncn
+
+호텔에서
+	호텔/ncn+에서/jca
+
+너무
+	너무/mag
+
+수영장에서
+	수영장/ncn+에서/jca
+
+늦장을
+	늦장/ncn+을/jco
+
+부린
+	부리/pvg+ㄴ/etm
+
+탓도
+	탓/ncpa+도/jxc
+
+있고
+	있/paa+고/ecc
+
+
+예전에
+	예전/ncn+에/jca
+
+한번
+	한/nnc+번/nbu
+
+가본
+	가/pvg+아/ecx+보/px+ㄴ/etm
+
+곳이라
+	곳/ncn+이/jp+라/ecs
+
+쉽게
+	쉽/paa+게/ecs
+
+생각한
+	생각/ncpa+하/xsva+ㄴ/etm
+
+것도
+	것/nbn+도/jxc
+
+있고
+	있/px+고/ecc
+
+.
+	./sf
+
+
+멀라이언
+	멀라이언/ncn
+
+기념샷만
+	기념/ncpa+샷/ncn+만/jxc
+
+찍고
+	찍/pvg+고/ecc
+
+올랬는데
+	올랬는데/ncn
+
+그렇게
+	그렇/pad+게/ecs
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+많을줄
+	많/paa+을/etm+줄/nbn
+
+몰랐고
+	모르/pvg+아/ep+고/ecc
+
+..
+	./sf+./sf
+
+
+자
+	자/ii
+
+티티카카
+	티티카카/ncn
+
+이야기
+	이야기/ncpa
+
+.
+	./sf
+
+
+싱가포르
+	싱가포르/ncn
+
+가면
+	가/px+면/ecs
+
+꼭
+	꼭/mag
+
+가봐야
+	가/pvg+아/ecx+보/px+아/ecx
+
+할
+	하/pvg+ㄹ/etm
+
+곳중
+	곳/ncn+중/xsnx
+
+하나
+	하나/nnc
+
+!
+	!/sf
+
+
+오늘
+	오늘/ncn
+
+그곳을
+	그곳/ncn+을/jco
+
+소개합니다
+	소개/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+아빠
+	아빠/ncn
+
+멀라이언이
+	멀라이언/ncn+이/jcc
+
+사는
+	사/pvg+는/etm
+
+섬.
+	섬/nbu+./sf
+
+
+센토사
+	센토사/ncn
+
+섬
+	서/pvg+ㅁ/etn
+
+이야기
+	이야기/ncpa
+
+..
+	./sf+./sf
+
+
+이
+	이/mmd
+
+아저씨
+	아저씨/ncn
+
+아시져
+	아시져/ncn
+
+?
+	?/sf
+
+
+저기
+	저기/mad
+
+서있는
+	서/pvg+어/ecx+있/px+는/etm
+
+사람크기와
+	사람/ncn+크기/ncn+와/jct
+
+비교해보시면
+	비교/ncpa+하/xsva+어/ecx+보/px+시/ep+면/ecs
+
+대략
+	대략/mag
+
+크기가
+	크/paa+기/etn+가/jcs
+
+..
+	./sf+./sf
+
+
+아빠
+	아빠/ncn
+
+멀라이언
+	멀라이언/ncn
+
+.
+	./sf
+
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+센토사
+	센토사/ncn
+
+섬에
+	서/pvg+ㅁ/etn+에/jca
+
+사시는
+	사/pvg+시/ep+는/etm
+
+.
+	./sf
+
+
+엄마
+	엄마/ncn
+
+멀라이언은
+	멀라이언/ncn+은/jxc
+
+물을
+	물/ncn+을/jco
+
+뿜습니다
+	뿜/pvg+습니다/ef
+
+.
+	./sf
+
+
+퉤퉤퉤~
+	퉤퉤퉤/ncn+~/sd
+
+
+칙칙칙~
+	칙칙칙/ncn+~/sd
+
+
+캬아악
+	캬아악/ncn
+
+..
+	./sf+./sf
+
+
+캬아악
+	캬아악/ncn
+
+..
+	./sf+./sf
+
+
+(압
+	(압/ncn
+
+죄송합니다
+	죄송/ncps+하/xsms+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+식사중이시라면
+	식사/ncpa+중/xsnx+이/jp+시/ep+라면/ecs
+
+..)
+	./sf+./sf+)/sr
+
+
+이곳은
+	이곳/npd+은/jxc
+
+마리나
+	마리/nbu+나/jcj
+
+베이의
+	베이/ncn+의/jcm
+
+멀라이언
+	멀라이언/ncn
+
+파크
+	파크/ncn
+
+.
+	./sf
+
+
+참
+	참/mag
+
+두곳이
+	두/nnc+곳/nbu+이/jcc
+
+거리도
+	거리/ncn+도/jxc
+
+있는데
+	있/paa+는데/ecs
+
+
+하늘을
+	하늘/ncn+을/jco
+
+봐야
+	보/pvg+아/ecx
+
+별을
+	별/ncn+을/jco
+
+따는데
+	따/pvg+ㄴ데/ecs
+
+
+아기
+	아기/ncn
+
+멀라이언은
+	멀라이언/ncn+은/jxc
+
+어떻게
+	어떻/pad+게/ecs
+
+태어났는지
+	태어나/pvg+아/ep+는지/ecs
+
+..
+	./sf+./sf
+
+
+--;;
+	-/sd+-/sd+;/sy+;/sy
+
+
+싱가포르는
+	싱가포르/ncn+는/jxc
+
+63개의
+	63/nnc+개/nbu+의/jcm
+
+섬으로
+	서/pvg+ㅁ/etn+으로/jca
+
+구성된
+	구성/ncn+되/xsvn+ㄴ/etm
+
+도시국가
+	도시국가/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+본섬인
+	본섬/ncn+이/jp+ㄴ/etm
+
+싱가포르와
+	싱가포르/ncn+와/jcj
+
+센토사가
+	센토사/ncn+가/jcs
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+섬이구여
+	섬이구/ncn+이/jp+어/ef
+
+.
+	./sf
+
+
+그럼
+	그렇/pad+ㅁ/etn
+
+아빠
+	아빠/ncn
+
+멀라이언이
+	멀라이언/ncn+이/jcc
+
+사는
+	사/pvg+는/etm
+
+센토사는
+	센토사/ncn+는/jxc
+
+섬인데
+	서/pvg+ㅁ/etn+이/jp+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+접근
+	접근/ncpa
+
+하는
+	하/pvg+는/etm
+
+방법은
+	방법/ncn+은/jxc
+
+..
+	./sf+./sf
+
+
+1번
+	1/nnc+번/nbu
+
+.
+	./sf
+
+
+위의
+	위/ncn+의/jcm
+
+사진처럼
+	사진/ncn+처럼/jca
+
+케이블카를
+	케이블카/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+가는
+	가/pvg+는/etm
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그게
+	그/npd+이/jp+게/ecs
+
+최고지요
+	최고/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+좀
+	좀/mag
+
+비쌉니다
+	비싸/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+티티카카는
+	티티카카/ncn+는/jxc
+
+시간문제상
+	시간/ncn+문제상/ncn
+
+케이블카를
+	케이블카/ncn+를/jco
+
+탑니다
+	타/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+아니
+	아니/ii
+
+타보고
+	타/pvg+아/ecx+보/px+고/ecc
+
+싶어서지요
+	싶/px+어서/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+2번
+	2/nnc+번/nbu
+
+.
+	./sf
+
+
+모노레일을
+	모노/ncn+레일/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+넘어갑니다
+	넘/pvg+어/ecx+가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+3번
+	3/nnc+번/nbu
+
+.
+	./sf
+
+
+차타고
+	차/pvg+아/ecx+타/px+고/ecc
+
+갑니다
+	가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+택시든
+	택시/ncn+이/jp+든/ecs
+
+버스든
+	버스/ncn+이/jp+든/ecs
+
+.
+	./sf
+
+
+센토사
+	센토사/ncn
+
+섬과
+	서/pvg+ㅁ/etn+과/jcj
+
+싱가포르
+	싱가포르/ncn
+
+본섬을
+	본섬/ncn+을/jco
+
+연결하는
+	연결/ncpa+하/xsva+는/etm
+
+케이블카의
+	케이블카/ncn+의/jcm
+
+역사를
+	역사/ncn+를/jco
+
+표시해뒀습니다
+	표시/ncpa+하/xsva+어/ecx+두/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+회사가
+	회사/ncn+가/jcs
+
+바뀌어서
+	바뀌/pvg+어서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+
+역사도
+	역사/ncn+도/jxc
+
+다양하군여
+	다양하군여/ncn
+
+.
+	./sf
+
+
+그렇습니다
+	그렇/pad+습니다/ef
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+센토사
+	센토사/ncn
+
+섬
+	서/pvg+ㅁ/etn
+
+가보는
+	가/pvg+아/ecx+보/px+는/etm
+
+건
+	거/nbn+은/jxc
+
+두번째인데
+	두/nnc+번/nbu+째/xsnu+이/jp+ㄴ데/ecs
+
+
+그땐
+	그땐/ncn
+
+쥬얼리박스
+	쥬얼리박스/ncn
+
+케이블카가
+	케이블카/ncn+가/jcs
+
+아니었거든요
+	아니/paa+었/ep+거든/ef+요/jxf
+
+.
+	./sf
+
+
+막힌
+	막히/pvg+ㄴ/etm
+
+케이블카면
+	케이블카/ncn+이/jp+면/ecs
+
+좀
+	좀/mag
+
+싸고
+	쓰/pvg+어/ef+고/jcr
+
+.
+	./sf
+
+
+유리로
+	유리/ncn+로/jca
+
+바닥까지
+	바닥/ncn+까지/jxc
+
+되어있으면
+	되/pvg+어/ecx+있/px+으면/ecs
+
+열라비싸고
+	열라비싸/ncn+이/jp+고/ecc
+
+.
+	./sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+기억만
+	기억/nnc+만/jxc
+
+남아있는데
+	남/pvg+아/ecx+있/px+는데/ecs
+
+.
+	./sf
+
+
+쥬얼리
+	쥬얼리/ncn
+
+박스라고
+	박스/ncn+이/jp+라/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+첨엔
+	첨/ncn+엔/jca
+
+좀
+	좀/mag
+
+의아했답니다
+	의아/ncps+하/xsms+었/ep+답니다/ef
+
+.
+	./sf
+
+
+현재
+	현재/mag
+
+요금은
+	요금/ncn+은/jxc
+
+왕복
+	왕복/ncpa
+
+26
+	26/nnc
+
+싱달러
+	싱달러/ncn
+
+.
+	./sf
+
+
+편도
+	편/nbn+도/jxc
+
+24
+	24/nnc
+
+싱달러
+	싱달러/ncn
+
+.
+	./sf
+
+
+선택은
+	선택/ncpa+은/jxc
+
+당신에게
+	당신/npp+에게/jca
+
+...
+	.../se
+
+
+^^*
+	^/sy+^/sy+*/sy
+
+
+플러톤
+	플러톤/ncn
+
+호텔에서
+	호텔/ncn+에서/jca
+
+택시를
+	택시/ncn+를/jco
+
+탔을때
+	트/pvg+었/ep+을/etm+때/nbn
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+케이블카를
+	케이블카/ncn+를/jco
+
+타는
+	타/pvg+는/etm
+
+지점이
+	지점/ncn+이/jcc
+
+두군데
+	두군데/ncn
+
+있길래
+	있/px+길래/ecs
+
+플러톤호텔이
+	플러톤호텔/ncn+이/jcc
+
+제일
+	제일/mag
+
+가까운
+	가깝/paa+은/etm
+
+곳을
+	곳/ncn+을/jco
+
+골랐습니다
+	고르/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+쥬크박스
+	쥬크박스/ncn
+
+.
+	./sf
+
+
+아
+	아/ii
+
+근데
+	근데/ncn
+
+이곳은
+	이곳/npd+은/jxc
+
+레스토랑으로
+	레스토랑/ncn+으로/jca
+
+출발점이었습니다
+	출발점/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+2000년대
+	2000/nnc+년대/nbu
+
+중반의
+	중반/ncn+의/jcm
+
+그
+	그/mmd
+
+원래의
+	원래/ncn+의/jcm
+
+케이블카의
+	케이블카/ncn+의/jcm
+
+출발지점은
+	출발지점/ncn+은/jxc
+
+
+바뀌었더군여
+	바뀌었더군여/ncn
+
+.
+	./sf
+
+
+중간
+	중간/ncn
+
+기착지로
+	기착지/ncn+로/jca
+
+.
+	./sf
+
+
+거기서
+	거기/npd+서/jca
+
+중간기착점에서
+	중간/ncn+기착/ncpa+점/ncn+에서/jca
+
+출발하는
+	출발/ncpa+하/xsva+는/etm
+
+케이블카는
+	케이블카/ncn+는/jxc
+
+가격이
+	가격/ncn+이/jcc
+
+더
+	더/mag
+
+쌉니당
+	쌉니당/ncn
+
+.
+	./sf
+
+
+참
+	참/mag
+
+케이블카에
+	케이블카/ncn+에/jca
+
+별
+	별/mma
+
+신기한
+	신기/ncn+한/ncn
+
+일을
+	일/ncn+을/jco
+
+다
+	다/mag
+
+벌여
+	벌이/pvg+어/ecx
+
+놓았습니다
+	놓/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+쥬크박스
+	쥬크박스/ncn
+
+출발점은
+	출발점/ncn+은/jxc
+
+레스토랑인
+	레스토랑/ncn+이/jp+ㄴ/etm
+
+동시에
+	동시에/mag
+
+
+이벤트를
+	이벤트/ncn+를/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이랍니다
+	곳/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+센토사
+	센토사/ncn
+
+섬으로
+	서/pvg+ㅁ/etn+으로/jca
+
+왕복하면서
+	왕복/ncpa+하/xsva+면서/ecc
+
+안에서
+	안/ncn+에서/jca
+
+멋진
+	멋지/paa+ㄴ/etm
+
+디너와
+	디너/ncn+와/jct
+
+함께
+	함께/mag
+
+
+멋진
+	멋지/paa+ㄴ/etm
+
+샴페인
+	샴페인/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+싱가포르의
+	싱가포르/ncn+의/jcm
+
+야경을
+	야경/ncn+을/jco
+
+보는
+	보/px+는/etm
+
+.
+	./sf
+
+
+괜찮은
+	괜찮/paa+은/etm
+
+아이템인듯
+	아이템/ncn+이/jp+ㄴ/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+전
+	전/nbn
+
+그냥
+	그냥/mag
+
+왕복으로
+	왕복/ncpa+으로/jca
+
+케이블카를
+	케이블카/ncn+를/jco
+
+탑니다
+	타/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+문이
+	문/ncn+이/jcc
+
+열리면
+	열/nnc+리/nbu+이/jp+면/ecs
+
+한팀끼리만
+	한팀끼리/ncn+만/jxc
+
+탑니다
+	타/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+생각보다
+	생각/ncpa+보다/jca
+
+케이블카
+	케이블카/ncn
+
+이용객이
+	이용객/ncn+이/jcc
+
+적어서
+	적어/ncn+서/jca
+
+
+오.
+	오/nnc+./sf
+
+센토사섬에도
+	센토사섬/ncn+에/jca+도/jxc
+
+이용객들이
+	이용객/ncn+들/ncn+이/jcc
+
+적겠구나
+	적/paa+겠/ep+구나/ef
+
+라고
+	라/ncn+이/jp+고/ecc
+
+생각했는데
+	생각/ncpa+하/xsva+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+오산이었습니다
+	오산/ncpa+이/jp+었/ep+습니다/ef
+
+..
+	./sf+./sf
+
+
+--;;
+	-/sd+-/sd+;/sy+;/sy
+
+
+센토사
+	센토사/ncn
+
+섬으로
+	서/pvg+ㅁ/etn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길은
+	길/ncn+은/jxc
+
+케이블카
+	케이블카/ncn
+
+.
+	./sf
+
+
+차.
+	차/ncn+./sf
+
+모노레일
+	모노/ncn+레/ncn+이/jp+ㄹ/etm
+
+.
+	./sf
+
+
+총
+	총/mma
+
+3가지
+	3/nnc+가지/nbu
+
+방법이
+	방법/ncn+이/jcc
+
+있으니
+	있/paa+으니/ecc
+
+
+싱가포르
+	싱가포르/ncn
+
+현지인들은
+	현지/ncn+이/jp+ㄴ들/ecs+은/jxc
+
+아무래도
+	아무렇/pad+어도/ecs
+
+차를
+	차/ncn+를/jco
+
+많이
+	많/paa+이/xsa
+
+이용하겠지요
+	이용/ncpa+하/xsva+겠/ep+지/ef+요/jxf
+
+?
+	?/sf
+
+
+출발
+	출발/ncpa
+
+출발합니다~
+	출발/ncpa+하/xsva+ㅂ니다/ef+~/sd
+
+
+중간에
+	중간/ncn+에/jca
+
+보이는
+	보이/pvg+는/etm
+
+시꺼먼
+	시꺼먼/ncn
+
+건물
+	건물/ncn
+
+2곳이
+	2/nnc+곳/nbu+이/jcc
+
+중간
+	중간/ncn
+
+기착지이자
+	기착지/ncn+이/jp+자/ecc
+
+또다른
+	또다른/mma
+
+출발점입니다
+	출발점/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+저곳에서
+	저곳/npd+에서/jca
+
+탔어도
+	트/pvg+었/ep+어도/ecs
+
+괜찮았을
+	괜찮/paa+아/ep+ㄹ/etm
+
+법한데
+	법/nbs+하/xsms+ㄴ데/ecs
+
+
+쥬크박스의
+	쥬크박스/ncn+의/jcm
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+레스토랑들을
+	레스토랑/ncn+들/ncn+을/jco
+
+발견했으니
+	발견/ncpa+하/xsva+었/ep+으니/ecs
+
+.
+	./sf
+
+
+(조금
+	(/sl+조금/mag
+
+있다가
+	있/px+다가/ecs
+
+사진나옵니다)
+	사진나옵니/ncn+이/jp+다/ef+)/sr
+
+
+행복해합니다
+	행복/ncps+하/xsms+어/ecx+하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+푸른바다
+	푸르/paa+ㄴ/etm+바/nbn+이/jp+다/ef
+
+저멀리~
+	저멀리~/ncn
+
+새
+	새/mma
+
+희망이
+	희망/ncn+이/jcc
+
+넘쳐흐른다~
+	넘쳐흐른다/ncn+~/sd
+
+
+하늘
+	하늘/ncn
+
+높이
+	높이/ncn
+
+하늘
+	하늘/ncn
+
+높이
+	높이/ncn
+
+뭉게구름
+	뭉게구름/ncn
+
+피어난다~
+	피/ncn+이/jp+어/ecx+나/px+ㄴ다/ef+~/sd
+
+
+(이노래
+	(이노래/ncn
+
+아시는
+	알/pvg+시/ep+는/etm
+
+분.
+	분/nbu+./sf
+
+음.
+	음/ncn+./sf
+
+.
+	./sf
+
+
+맞추시는
+	맞추/pvg+시/ep+는/etm
+
+분.
+	분/nbu+./sf
+
+.
+	./sf
+
+
+음
+	음/ncn
+
+드릴께
+	드릴/ncn+께/jca
+
+없지만
+	없/paa+지/ecx+말/px+ㄴ/etm
+
+맞춰주세여~)
+	맞춰주세/ncn+이/jp+어/ecs+~/sd+)/sr
+
+
+그리고
+	그리고/maj
+
+함께
+	함께/mag
+
+불러주세여~)
+	불러주세여~)/ncn
+
+^^*
+	^/sy+^/sy+*/sy
+
+
+아주
+	아주/mag
+
+멋진
+	멋지/paa+ㄴ/etm
+
+크루즈
+	크루즈/ncn
+
+선과
+	선/ncn+과/jct
+
+멀리
+	멀리/mag
+
+말래카
+	말래카/ncn
+
+해협의
+	해협/ncn+의/jcm
+
+웅장한
+	웅장/ncn+한/ncn
+
+배들이
+	배/ncn+들/xsncc+이/jcc
+
+
+이곳이
+	이곳/npd+이/jcc
+
+싱가포르의
+	싱가포르/ncn+의/jcm
+
+케이블카임을
+	케이블카/ncn+이/jp+ㅁ/etn+을/jco
+
+보여줍니다
+	보이/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+여기서
+	여기/npd+서/jca
+
+잠깐
+	잠깐/mag
+
+!
+	!/sf
+
+
+뭔가
+	뭔가/ncn
+
+다른거
+	다른거/ncn
+
+보여드릴까여
+	보여드릴까/ncn+이/jp+어/ef
+
+?
+	?/sf
+
+
+한국에도
+	한국/ncn+에/jca+도/jxc
+
+.
+	./sf
+
+
+일본에도
+	일/nnc+본/nbu+에/jca+도/jxc
+
+.
+	./sf
+
+
+케이블카는
+	케이블카/ncn+는/jxc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+이거
+	이거/npd
+
+이거
+	이거/npd
+
+..
+	./sf+./sf
+
+
+익숙한
+	익숙/ncps+하/xsms+ㄴ/etm
+
+듯
+	듯/nbn
+
+하면서도
+	하/pvg+면서도/ecs
+
+
+왠지
+	왠지/mag
+
+싱가포르
+	싱가포르/ncn
+
+쥬얼리박스
+	쥬얼리박스/ncn
+
+케이블카
+	케이블카/ncn
+
+분위기
+	분위기/ncn
+
+나면서도
+	나/px+면서/ecs+도/jxc
+
+..
+	./sf+./sf
+
+
+여긴
+	여기/pvg+ㄴ/etm
+
+대한민국
+	대한/ncn+민국/ncn
+
+.
+	./sf
+
+
+한려해상국립공원
+	한려해상국립공원/ncn
+
+.
+	./sf
+
+
+통영
+	통영/ncn
+
+케이블카
+	케이블카/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+(2010년
+	(/sl+2010/nnc+년/nbu
+
+봄.)
+	봄/ncn+./sf+)/sr
+
+
+이거
+	이거/npd
+
+이거
+	이거/npd
+
+..
+	./sf+./sf
+
+
+엄청나
+	엄청나/paa+아/ecx
+
+보이지
+	보이/pvg+지/ecx
+
+않나여
+	않나/ncn+이/jp+어/ecs
+
+?
+	?/sf
+
+
+중간에
+	중간/ncn+에/jca
+
+철탑도
+	철탑/ncn+도/jxc
+
+없고
+	없/paa+고/ecc
+
+저
+	저/mmd
+
+경사도
+	경사도/ncn
+
+좀
+	좀/mag
+
+보세여
+	보세/ncn+이/jp+어/ecs
+
+.
+	./sf
+
+
+해발
+	해발/ncn
+
+2500미터-3000미터
+	2500/nnc+미터/nbu+-/sd+3000/nnc+미터/nbu
+
+근처에서부터
+	근처/ncn+에서/jca+부터/jxc
+
+내려가는
+	내려가/pvg+는/etm
+
+
+일본의
+	일/nnc+본/nbu+의/jcm
+
+북알프스
+	북알프스/ncn
+
+.
+	./sf
+
+
+다테야마에서
+	다테야마/ncn+에서/jca
+
+찍은
+	찍/pvg+은/etm
+
+하산길의
+	하산/ncpa+길/ncn+의/jcm
+
+케이블카
+	케이블카/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+아찔해보이져
+	아찔해보이져/ncn
+
+?
+	?/sf
+
+
+실제로
+	실제로/mag
+
+보면
+	보/px+면/ecs
+
+정말
+	정말/mag
+
+후덜덜
+	후덜덜/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+우측에
+	우측/ncn+에/jca
+
+보이는
+	보이/pvg+는/etm
+
+하얀건
+	하얀/ncn+건/ncn
+
+
+한여름
+	한여름/ncn
+
+8월임에도
+	8/nnc+월/nbu+이/jp+ㅁ/etn+에/jca+도/jxc
+
+불구하고
+	불구/ncps+하고/jct
+
+있는
+	있/px+는/etm
+
+만년설
+	만년설/ncn
+
+.
+	./sf
+
+
+눈이
+	눈/ncn+이/jcc
+
+쌓인
+	쌓이/pvg+ㄴ/etm
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+-(2008년
+	-/sd+(/sl+2008/nnc+년/nbu
+
+일본
+	일/nnc+본/nbu
+
+북알프스
+	북알프스/ncn
+
+관광길에서)
+	관광/ncpa+길/ncn+에서/jca+)/sr
+
+
+여기
+	여기/mad
+
+남쪽나라
+	남쪽/ncn+나라/ncn
+
+부산을
+	부산/ncps+을/jco
+
+아시나여~
+	아시/ncn+나/ncn+이/jp+어/ecs+~/sd
+
+
+금정산
+	금정산/ncn
+
+케이블카
+	케이블카/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+온천장에서
+	온천장/ncn+에서/jca
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+그래도
+	그래도/maj
+
+부산에
+	부산/ncps+에/jca
+
+있어서
+	있/px+어서/ecs
+
+오랜
+	오래/paa+ㄴ/etm
+
+역사와
+	역사/ncn+와/jcj
+
+전통을
+	전통/ncn+을/jco
+
+자랑하지만
+	자랑/ncpa+하/xsva+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+좀
+	좀/mag
+
+삐걱대서
+	삐걱대서/ncn
+
+무섭긴
+	무섭긴/ncn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^*
+	^/sy+^/sy+*/sy
+
+
+한국에도
+	한국/ncn+에/jca+도/jxc
+
+케이블카는
+	케이블카/ncn+는/jxc
+
+많으니
+	많/paa+으니/ecc
+
+
+많이들
+	많이들/ncn
+
+타보세여
+	타/xp+보세/ncn+이/jp+어/ef
+
+.
+	./sf
+
+
+가는
+	가/pvg+는/etm
+
+위치
+	위치/ncn
+
+.
+	./sf
+
+
+지역에
+	지역/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+다르니
+	다르/paa+니/ecs
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+제가
+	저/npp+가/jcs
+
+감히
+	감히/mag
+
+추천해드린다면
+	추천/ncpa+하/xsva+어/ecx+드리/px+ㄴ다면/ecs
+
+일본의
+	일/nnc+본/nbu+의/jcm
+
+북알프스
+	북알프스/ncn
+
+다테야마
+	다테야마/ncn
+
+하산길에서
+	하산/ncpa+길/ncn+에서/jca
+
+
+타는
+	타/pvg+는/etm
+
+저
+	저/npp
+
+케이블카는
+	케이블카/ncn+는/jxc
+
+참
+	참/mag
+
+기억이
+	기억/ncpa+이/jcc
+
+새록새록
+	새록새록/ncn
+
+하군여
+	하군여/ncn
+
+.
+	./sf
+
+
+고소공포증
+	고소/ncn+공포증/ncn
+
+없는
+	없/paa+는/etm
+
+티티카카에게도
+	티티카카에/ncn+이/jp+게/ecs+도/jxc
+
+무서운
+	무섭/paa+은/etm
+
+곳이었으니깐여
+	곳이었으니깐여/ncn
+
+.
+	./sf
+
+
+자
+	자/ii
+
+목적지
+	목적지/ncn
+
+센토사
+	센토사/ncn
+
+섬입니다
+	서/pvg+ㅁ/etn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+역시나
+	역시/mag+나/jxc
+
+조용합니다
+	조용/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+기분이
+	기분/ncn+이/jcc
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+아빠
+	아빠/ncn
+
+멀라이언을
+	멀라이언/ncn+을/jco
+
+만난다고
+	만나/pvg+ㄴ다/ef+고/jcr
+
+생각하니
+	생각/ncpa+하/xsva+니/ecs
+
+설레입니다
+	설레이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+.
+	./sf
+
+
+으악
+	으악/ii
+
+.
+	./sf
+
+
+왠
+	왠/ii
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+이리
+	이리/mad
+
+많어
+	많/paa+아/ecx
+
+.
+	./sf
+
+
+온통
+	온통/mag
+
+싱가포르
+	싱가포르/ncn
+
+.
+	./sf
+
+
+중국계
+	중국계/ncn
+
+사람들
+	사람들/ncn
+
+가족단위입니다
+	가족단위/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+고로
+	고/ncn+로/jca
+
+.
+	./sf
+
+
+열라게
+	열라/ncn+이/jp+게/ecs
+
+시끄럽습니다
+	시끄럽/paa+습니다/ef
+
+.
+	./sf
+
+
+더군다나
+	더군다나/mag
+
+중국
+	중국/ncn
+
+본토
+	본토/ncn
+
+사람들
+	사람들/ncn
+
+단체
+	단체/ncn
+
+패키지
+	패키지/ncn
+
+사람들도
+	사람들/ncn+도/jxc
+
+열라게
+	열라/ncn+이/jp+게/ecs
+
+많습니다
+	많/paa+습니다/ef
+
+.
+	./sf
+
+
+으아악~
+	으아악/ncn+~/sd
+
+
+전
+	전/nbn
+
+저
+	저/mmd
+
+깃발따라
+	깃발/ncn+따라/jxc
+
+가고
+	가/px+고/ecc
+
+싶지
+	싶/px+지/ecx
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+--;;;
+	-/sd+-/sd+;/sy+;/sy+;/sy
+
+
+멀라이언을
+	멀라이언/ncn+을/jco
+
+걸어서
+	걷/pvg+어서/ecs
+
+올라갈
+	오르/pvg+아/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/paa+는/etm
+
+
+돈내고
+	돌/pvg+ㄴ/etm+내/nbn+이/jp+고/ecc
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+입으로(
+	입으로(/ncn
+
+?)
+	?/sf+)/sr
+
+
+전망대가
+	전망대/ncn+가/jcs
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+멀라이언
+	멀라이언/ncn
+
+워크입니다
+	워크/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+전
+	전/nbn
+
+그런
+	그러/pvd+ㄴ/etm
+
+시간적
+	시간/ncn+적/ncn
+
+여유가
+	여유/ncn+가/jcs
+
+없습니다
+	없/paa+습니다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+제일
+	제일/mag
+
+좋은
+	좋/paa+은/etm
+
+뷰
+	뷰/ncn
+
+포인트만
+	포인트/nbu+만/jxc
+
+찾습니다
+	찾/pvg+습니다/ef
+
+.
+	./sf
+
+
+머리는
+	머리/ncn+는/jxc
+
+사자
+	사/pvg+자/ecc
+
+.
+	./sf
+
+
+몸은
+	몸/ncn+은/jxc
+
+물고기
+	물고기/ncn
+
+.
+	./sf
+
+
+형상의
+	형상/ncpa+의/jcm
+
+일종의
+	일종/ncn+의/jcm
+
+상상의
+	상상/ncn+의/jcm
+
+동물
+	동물/ncn
+
+.
+	./sf
+
+
+싱가포르
+	싱가포르/ncn
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+제일
+	제일/mag
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+싱가포르의
+	싱가포르/ncn+의/jcm
+
+수호신
+	수호신/ncn
+
+.
+	./sf
+
+
+싱가포르라는
+	싱가포르라/ncn+는/jxc
+
+도시국가가
+	도시국가/ncn+가/jcs
+
+시작된
+	시작/ncpa+되/xsvn+ㄴ/etm
+
+인도네시아의
+	인도네시아/ncn+의/jcm
+
+왕자가
+	왕자/ncr+가/jcc
+
+죽인
+	죽이/pvg+ㄴ/etm
+
+사자를
+	사자/ncn+를/jco
+
+
+기념하기
+	기념/ncpa+하/xsva+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+만든
+	만들/pvg+ㄴ/etm
+
+멀라이언
+	멀라이언/ncn
+
+.
+	./sf
+
+
+무시무시하게
+	무시무시하/paa+게/ecs
+
+생겼습니다
+	생기/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+밤에
+	밤/ncn+에/jca
+
+불이
+	불/ncn+이/jcc
+
+들어오면
+	들/pvg+어/ecx+오/px+면/ecs
+
+더
+	더/mag
+
+멋지고
+	멋지/paa+고/ecc
+
+무섭습니다
+	무섭/paa+습니다/ef
+
+.
+	./sf
+
+
+밤에
+	밤/ncn+에/jca
+
+가시는
+	가/px+시/ep+는/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+강추합니다
+	강추합니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(티티카카는
+	(티티카카/ncn+는/jxc
+
+비행기타고
+	비행기/ncn+타/ncn+이/jp+고/ecc
+
+부산
+	부산/ncps
+
+가야합니다
+	가/pvg+아/ecx+하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+밤에
+	밤/ncn+에/jca
+
+..)
+	./sf+./sf+)/sr
+
+
+사람들
+	사람들/ncn
+
+많지여
+	많지/ncn+이/jp+어/ef
+
+?
+	?/sf
+
+
+전부
+	전부/mag
+
+가족단위
+	가족단위/ncn
+
+.
+	./sf
+
+
+아
+	아/ii
+
+저기
+	저기/mad
+
+멀리
+	멀리/mag
+
+우리
+	우리/npp
+
+그녀님이
+	그녀님/ncn+이/jcc
+
+보이십니다
+	보이/pvg+시/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+윌리찾기
+	윌리찾기/ncn
+
+2
+	2/nnc
+
+
+그녀님을
+	그녀님/ncn+을/jco
+
+찾아주세여
+	찾아주세/ncn+이/jp+어/ecs
+
+.
+	./sf
+
+
+어딨을까여~
+	어딨을까여~/ncn
+
+!
+	!/sf
+
+
+멀라이언
+	멀라이언/ncn
+
+찍기
+	찍/pvg+기/etn
+
+제일
+	제일/mag
+
+좋은
+	좋/paa+은/etm
+
+포인트
+	포인트/nbu
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+역시나
+	역시/mag+나/jxc
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+이곳으로
+	이곳/npd+으로/jca
+
+잔뜩
+	잔뜩/mag
+
+몰려있습니다
+	몰리/pvg+어/ecx+있/px+습니다/ef
+
+.
+	./sf
+
+
+그러다보니
+	그러/pvd+어다/ecx+보/px+니/ecs
+
+목이
+	목/ncn+이/jcc
+
+마르고
+	마르/ncn+고/jcj
+
+
+사람들에
+	사람들/ncn+에/jca
+
+치입니다
+	치/nbu+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+바로옆의
+	바로옆/ncn+의/jcm
+
+편의점으로
+	편의점/ncn+으로/jca
+
+들어갑니다
+	들/pvg+어/ecx+가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+헉.
+	헉./ncn
+
+소주인줄
+	소주/ncn+이/jp+ㄴ/etm+줄/nbn
+
+알았는데
+	알/pvg+아/ep+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+물이더군여
+	물이더군여/ncn
+
+.
+	./sf
+
+
+근데
+	근데/ncn
+
+
+굉장히
+	굉장히/mag
+
+비쌉니다
+	비싸/paa+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+물이
+	물/ncn+이/jcc
+
+.
+	./sf
+
+
+신기해서
+	신기/ncn+해/ncn+서/jca
+
+먹어봤는데
+	먹/pvg+어/ecx+보/px+아/ep+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+그냥
+	그냥/mag
+
+물이더군여
+	물이더군여/ncn
+
+..
+	./sf+./sf
+
+
+--;;
+	-/sd+-/sd+;/sy+;/sy
+
+
+토깽이와
+	토깽이/ncn+와/jct
+
+.
+	./sf
+
+
+그녀님
+	그녀님/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+멀라이언
+	멀라이언/ncn
+
+..
+	./sf+./sf
+
+
+올해
+	올해/ncn
+
+모두
+	모두/mag
+
+건강하기를
+	건강/ncps+하/xsms+기/etn+를/jco
+
+기원합니다
+	기원/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+의미를
+	의미/ncpa+를/jco
+
+아시는
+	알/pvg+시/ep+는/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+많으시겠지요
+	많/paa+으시/ep+겠/ep+지/ef+요/jxf
+
+?
+	?/sf
+
+
+^^
+	^/sy+^/sy
+
+
+자
+	자/pvg+아/ecx
+
+돌아
+	돌/pvg+아/ecx
+
+가는길
+	가는길/ncn
+
+.
+	./sf
+
+
+에스컬레이터가
+	에스컬레이터/ncn+가/jcs
+
+있기는
+	있/px+기/etn+는/jxc
+
+하지만
+	하/pvg+지만/ecs
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+오르는
+	오르/pvg+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+많아서
+	많/paa+아/ecx
+
+참
+	참/mag
+
+비좁습니다
+	비좁/paa+습니다/ef
+
+.
+	./sf
+
+
+헉.
+	헉./ncn
+
+이런
+	이런/mmd
+
+걸
+	거/nbn+ㄹ/jco
+
+좋다고
+	좋/paa+다/ef+고/jcr
+
+같이
+	같/paa+이/xsa
+
+기념사진
+	기념사진/ncn
+
+찍고
+	찍/pvg+고/ecc
+
+있는
+	있/paa+는/etm
+
+
+그걸
+	그걸/ncn
+
+찍어주는
+	찍/pvg+어/ecx+주/px+는/etm
+
+저
+	저/npp
+
+아저씨의
+	아저씨/ncn+의/jcm
+
+애인분은
+	애/ncn+이/jp+ㄴ/etm+분/nbn+은/jxc
+
+..
+	./sf+./sf
+
+
+참.
+	차/pvg+ㅁ/etn+./sy
+
+.
+	./sf
+
+
+그녀님은
+	그녀님/ncn+은/jxc
+
+이미
+	이미/mag
+
+100미터
+	100/nnc+미터/nbu
+
+멀리
+	멀리/mag
+
+도망가셨습니다
+	도망가/pvg+셨/ep+습니다/ef
+
+..
+	./sf+./sf
+
+
+--;;;;;
+	-/sd+-/sd+;/sy+;/sy+;/sy+;/sy+;/sy
+
+
+우리는
+	우리/npp+는/jxc
+
+지금
+	지금/mag
+
+말래카
+	말래카/ncn
+
+해협에
+	해협/ncn+에/jca
+
+있습니다
+	있/px+습니다/ef
+
+..
+	./sf+./sf
+
+
+신나셨습니다
+	신나/pvg+셨/ep+습니다/ef
+
+.
+	./sf
+
+
+셀카
+	셀카/ncn
+
+찍으시느라
+	찍/pvg+으시/ep+느라/ecs
+
+..
+	./sf+./sf
+
+
+저긴
+	저긴/ncn
+
+꼭
+	꼭/mag
+
+누군가
+	누군가/npp
+
+타고
+	타/pvg+고/ecc
+
+있을것만
+	있/px+을/etm+것/nbn+만/jxc
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+과연
+	과연/mag
+
+빙글빙글
+	빙글빙글/mag
+
+돌면서
+	돌/ncn+면/xsncc+서/jca
+
+
+와인과
+	와인/ncn+과/jct
+
+.
+	./sf
+
+
+음식만
+	음식/ncn+만/jxc
+
+먹고
+	먹/pvg+고/ecc
+
+있을까여
+	있을까/ncn+이/jp+어/ecs
+
+...
+	.../se
+
+
+^^;;;
+	^/sy+^/sy+;/sy+;/sy+;/sy
+
+
+(음흉하기는
+	(/sl+음흉/ncps+하/xsms+기/etn+는/jxc
+
+...)
+	.../se+)/sr
+
+
+센토사
+	센토사/ncn
+
+인근에
+	인근/ncn+에/jca
+
+부산의
+	부산/ncps+의/jcm
+
+마린시티
+	마린시티/ncn
+
+.
+	./sf
+
+
+아이파크
+	아이/ncn+파크/ncn
+
+비슷한
+	비슷/ncps+하/xsms+ㄴ/etm
+
+건물도
+	건물/ncn+도/jxc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+짓고
+	짓/pvg+고/ecc
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+이름붙입니다
+	이름붙이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+'싱가파크'
+	'싱가파크'/ncn
+
+(초원
+	(/sl+초원/ncn
+
+선생님
+	선생님/ncr
+
+.....
+	./sy+.../se+./sy
+
+..
+	./sf+./sf
+
+
+^^;;;
+	^/sy+^/sy+;/sy+;/sy+;/sy
+
+만
+	말/px+ㄴ/etm
+
+이해해주실
+	이해/ncpa+하/xsva+어/ecx+주/px+시/ep+ㄹ/etm
+
+유머
+	유머/ncn
+
+?)
+	?/sf+)/sr
+
+
+아이파크
+	아이/ncn+파크/ncn
+
+.
+	./sf
+
+
+해운대
+	해운/ncn+대/ncn
+
+.
+	./sf
+
+
+참으로
+	차/pvg+ㅁ/etn+으로/jca
+
+거대하고도
+	거대/ncps+하고/jct+도/jxc
+
+거대한
+	거대/ncps+하/xsms+ㄴ/etm
+
+항만입니다
+	항만/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+싱가포르는
+	싱가포르/ncn+는/jxc
+
+.
+	./sf
+
+
+오잉
+	오잉/ncn
+
+?
+	?/sf
+
+
+이건
+	이/npd+이/jp+건/ecc
+
+뭐
+	뭐/npd
+
+크루즈
+	크루즈/ncn
+
+선에
+	선/ncn+에/jca
+
+수영장
+	수영장/ncn
+
+.
+	./sf
+
+
+골프연습장
+	골프연습장/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+바디
+	바/nbn+이/jp+디/ecs
+
+슬라이드
+	슬라이드/ncn
+
+까지
+	까/pvg+지/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+히야
+	히/ncn+야/jcv
+
+..
+	./sf+./sf
+
+
+특히
+	특히/mag
+
+저
+	저/mmd
+
+바디
+	바/nbn+이/jp+디/ecs
+
+슬라이드의
+	슬라이드/ncn+의/jcm
+
+투명한
+	투명/ncps+하/xsms+ㄴ/etm
+
+부분
+	부분/ncn
+
+.
+	./sf
+
+
+분명히
+	분명히/mag
+
+바다로
+	바다/ncn+로/jca
+
+뛰어드는
+	뛰어들/pvg+는/etm
+
+기분이
+	기분/ncn+이/jcc
+
+들듯
+	들/pvg+듯/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+저
+	저/mmd
+
+배는
+	배/ncn+는/jxc
+
+아마도
+	아마/mag+도/jxc
+
+싱가포르
+	싱가포르/ncn
+
+출발
+	출발/ncpa
+
+.
+	./sf
+
+
+말레이시아
+	말레이시/ncn+아/jcv
+
+페낭
+	페낭/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+푸켓
+	푸켓/ncn
+
+?
+	?/sf
+
+
+그런식으로
+	그러/pvd+ㄴ/etm+식/nbn+으로/jca
+
+
+이
+	이/mmd
+
+동남아시아의
+	동남아시아/ncn+의/jcm
+
+각종
+	각종/ncn
+
+휴양지를
+	휴양지/ncn+를/jco
+
+도는
+	돌/pvg+는/etm
+
+크루즈선으로
+	크루즈/ncn+선/ncn+으로/jca
+
+알고
+	알/pvg+고/ecx
+
+있는데
+	있/paa+는데/ecs
+
+
+출발은
+	출발/ncpa+은/jxc
+
+싱가포르
+	싱가포르/ncn
+
+.
+	./sf
+
+
+언젠가
+	언젠가/mag
+
+티티카카도
+	티티카카도/ncn
+
+저
+	저/mmd
+
+배를
+	배/ncn+를/jco
+
+꼭
+	꼭/mag
+
+타보고
+	타/pvg+아/ecx+보/px+고/ecc
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+헉
+	헉/mag
+
+
+오토바이
+	오토바이/ncn
+
+주차장이군여
+	주차장/ncn+이군/ncn+여/ncn
+
+.
+	./sf
+
+
+붉은
+	붉/paa+은/etm
+
+태양이
+	태양/ncn+이/jcc
+
+바다를
+	바다/ncn+를/jco
+
+비출때
+	비추/pvg+ㄹ/etm+때/nbn
+
+나는
+	나/npp+는/jxc
+
+너를
+	너/npp+를/jco
+
+생각한다
+	생각/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+밝은
+	밝/paa+은/etm
+
+달빛이
+	달빛/ncn+이/jcc
+
+호수를
+	호수/ncn+를/jco
+
+비출때
+	비추/pvg+ㄹ/etm+때/nbn
+
+나는
+	나/npp+는/jxc
+
+너를
+	너/npp+를/jco
+
+생각한다
+	생각/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+바쁘게
+	바쁘/paa+게/ecs
+
+케이블카들이
+	케이블카/ncn+들/ncn+이/jcc
+
+이동을
+	이/nnc+동/nbu+을/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+저희도
+	저희/npp+도/jxc
+
+바빠지는
+	바쁘/paa+아/ecx+지/px+는/etm
+
+군여
+	군/nbu+여/xsnu
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+싱가포르를
+	싱가포르/ncn+를/jco
+
+떠나는
+	떠나/pvg+는/etm
+
+날이라
+	날/nbu+이라/jca
+
+
+지금
+	지금/mag
+
+바로
+	바로/mag
+
+플러톤
+	플러톤/ncn
+
+호텔로
+	호텔/ncn+로/jca
+
+가서
+	가/pvg+서/ecs
+
+짐을
+	지/px+ㅁ/etn+을/jco
+
+찾고
+	찾/pvg+고/ecc
+
+창이공항으로
+	창이공항/ncn+으로/jca
+
+가야합니다
+	가/pvg+아/ecx+하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+오늘도
+	오늘/ncn+도/jxc
+
+걷는다
+	걷/pvg+는다/ef
+
+마는
+	말/px+는/etm
+
+정처없는
+	정처/ncn+없/xsmn+는/etm
+
+이
+	이/mmd
+
+발~~길~
+	발/nbu+~/sd+~/sd+길/nbu+~/sd
+
+
+(이
+	(/sl+이/mmd
+
+노래는
+	노래/ncn+는/jxc
+
+정말
+	정말/mag
+
+맞추시는
+	맞추/pvg+시/ep+는/etm
+
+분은
+	분/nbu+은/jxc
+
+없으실듯
+	없/paa+으시/ep+ㄹ/etm+듯/nbs
+
+..)
+	./sf+./sf+)/sr
+
+
+그녀님
+	그녀님/ncn
+
+터벅터벅
+	터벅터벅/mag
+
+.
+	./sf
+
+
+아까
+	아까/mag
+
+센토사섬에서
+	센토사섬/ncn+에서/jca
+
+중국인들에게
+	중국인/ncn+들/ncn+에게/jca
+
+너무
+	너무/mag
+
+치이셔서
+	치/nbu+이/jp+시/ep+어서/ecs
+
+피곤합니다
+	피곤/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+잠시
+	잠시/mag
+
+멋진곳
+	멋진곳/ncn
+
+하나
+	하나/nnc
+
+소개할까여
+	소개할까/ncn+이/jp+어/ef
+
+?
+	?/sf
+
+
+저분들은
+	저분들/ncn+은/jxc
+
+아마도
+	아마/mag+도/jxc
+
+이
+	이/mmd
+
+모습을
+	모습/ncn+을/jco
+
+보고
+	보/px+고/ecc
+
+계실겁니다
+	계시/paa+ㄹ/etm+것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+오고가는
+	오/pvg+고/ecx+가/px+는/etm
+
+케이블카
+	케이블카/ncn
+
+.
+	./sf
+
+
+사파이어라는
+	사파/ncn+이/jp+어라/ef+는/etm
+
+센토사
+	센토사/ncn
+
+섬으로
+	서/pvg+ㅁ/etn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+쥬얼리
+	쥬얼리/ncn
+
+박스
+	박스/ncn
+
+
+케이블카
+	케이블카/ncn
+
+출발점에
+	출발점/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+또
+	또/maj
+
+하나의
+	하나/nnc+의/jcm
+
+레스토랑
+	레스토랑/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+일종의
+	일종/ncn+의/jcm
+
+오픈형태인데
+	오픈형/ncn+태/ncn+이/jp+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+참으로
+	차/pvg+ㅁ/etn+으로/jca
+
+전망좋고
+	전망좋/ncn+고/jcj
+
+
+분위기
+	분위기/ncn
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+밤이
+	밤/ncn+이/jcc
+
+되면
+	되/pvg+면/ecs
+
+아주
+	아주/mag
+
+멋질듯
+	멋지/paa+ㄹ/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+하지만
+	하지만/maj
+
+전
+	전/nbn
+
+밤을
+	밤/ncn+을/jco
+
+싱가포르에서
+	싱가포르/ncn+에서/jca
+
+오늘
+	오늘/ncn
+
+볼
+	보/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+없습니다
+	없/paa+습니다/ef
+
+.
+	./sf
+
+
+T.T
+	T/f+./sf+T/f
+
+
+털썩
+	털썩/mag
+
+앉은
+	앉/pvg+은/etm
+
+그녀님
+	그녀님/ncn
+
+.
+	./sf
+
+
+왜일까여
+	왜일까/ncn+이/jp+어/ef
+
+?
+	?/sf
+
+
+바로
+	바로/mag
+
+택시를
+	택시/ncn+를/jco
+
+타기
+	타/pvg+기/etn
+
+위해서지요
+	위하/pvg+어서/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+싱가포르
+	싱가포르/ncn
+
+택시의
+	택시/ncn+의/jcm
+
+70퍼센트
+	70퍼센트/ncn
+
+정도가
+	정도/ncn+가/jcs
+
+한국
+	한국/ncn
+
+택시입니다
+	택시/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+현대
+	현대/ncn
+
+NF소나타
+	NF/f+소나타/ncn
+
+.
+	./sf
+
+
+기아
+	기아/ncn
+
+로체
+	로체/ncn
+
+.
+	./sf
+
+
+오
+	오/nnc
+
+대단합니당~^^*
+	대단합니당/ncn+~/sd+^/sy+^/sy+*/sy
+
+
+아빠
+	아빠/ncn
+
+힘내세여~
+	힘내세/ncn+이/jp+어/ecs+~/sd
+
+
+엄마
+	엄마/ncn
+
+멀라이언
+	멀라이언/ncn
+
+.
+	./sf
+
+
+애기
+	애/ncn+이/jp+기/etn
+
+멀라이언이
+	멀라이언/ncn+이/jcc
+
+
+마리나
+	마리/nbu+나/jcj
+
+베이에
+	베이/ncn+에/jca
+
+있잖아여~
+	있잖아/ncn+이/jp+어/ecs+~/sd
+
+
+전
+	전/nbn
+
+플러톤
+	플러톤/ncn
+
+호텔
+	호텔/ncn
+
+수영장을
+	수영장/ncn+을/jco
+
+너무
+	너무/mag
+
+즐기고
+	즐기/pvg+고/ecc
+
+
+그리고
+	그리고/maj
+
+센토사섬의
+	센토사섬/ncn+의/jcm
+
+휴양지(이곳
+	휴양지(이곳/ncn
+
+한국의
+	한국의/ncn
+
+에버랜드를
+	에버랜드/ncn+를/jco
+
+생각하시면
+	생각/ncpa+하시/ncn+이/jp+면/ecs
+
+됩니다)
+	되/paa+ㅂ니다/ef+)/sr
+
+
+는
+	늘/pvg+ㄴ/etm
+
+제대로
+	제대로/mag
+
+보고
+	보/px+고/ecc
+
+온
+	오/px+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+없습니다
+	없/paa+습니다/ef
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+멀라이언만
+	멀라이언/ncn+만/jxc
+
+만나고
+	만나/pvg+고/ecc
+
+온
+	오/px+ㄴ/etm
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+센토사섬엔
+	센토사섬엔/ncn
+
+다양한
+	다양/ncn+한/ncn
+
+볼거리가
+	볼거리/ncn+가/jcs
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+체험문화까지
+	체험/ncpa+문화/ncn+까지/jxc
+
+.
+	./sf
+
+
+하루
+	하루/ncn
+
+.
+	./sf
+
+
+그것도
+	그것/npd+도/jxc
+
+아침일찍
+	아침일찍/ncn
+
+가서
+	가/pvg+서/ecs
+
+밤늦게까지
+	밤늦/paa+게/ecs+까지/jxc
+
+있어야
+	있/px+어야/ecs
+
+제대로
+	제대로/mag
+
+놀수
+	놀/pvg+ㄹ/etm+수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+싱가포르
+	싱가포르/ncn
+
+여행하시는
+	여행/ncpa+하시/ncn+는/jxc
+
+분.
+	분/nbn+./sf
+
+
+저처럼
+	저/npp+처럼/jca
+
+하시면
+	하/px+시/ep+면/ecs
+
+안됩니다
+	안되/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+전
+	전/nbn
+
+센토사섬
+	센토사섬/ncn
+
+2번째
+	2/nnc+번/nbu+째/xsnu
+
+방문이라
+	방문/ncpa+이라/jca
+
+
+멀라이언에게
+	멀라이언에/ncn+이/jp+게/ecs
+
+인사만
+	인사/ncn+만/jxc
+
+하고
+	하/pvg+고/ecc
+
+온
+	오/px+ㄴ/etm
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+아시겠지요
+	알/pvg+시겠/ep+지/ef+요/jxf
+
+?
+	?/sf
+
+
+^^
+	^/sy+^/sy
+
+
+아빠
+	아빠/ncn
+
+멀라이언을
+	멀라이언/ncn+을/jco
+
+만나고
+	만나/pvg+고/ecc
+
+.
+	./sf
+
+
+진정한
+	진정/ncn+한/ncn
+
+싱가포르의
+	싱가포르/ncn+의/jcm
+
+웅장한
+	웅장/ncn+한/ncn
+
+멀라이언을
+	멀라이언/ncn+을/jco
+
+만나고
+	만나/ncn+고/jcj
+
+
+티티카카는
+	티티카카/ncn+는/jxc
+
+이제
+	이제/mag
+
+플러톤
+	플러톤/ncn
+
+호텔에서
+	호텔/ncn+에서/jca
+
+짐을
+	지/px+ㅁ/etn+을/jco
+
+찾은후
+	찾/pvg+은후/ef
+
+
+창이공항으로
+	창이공항/ncn+으로/jca
+
+향합니다
+	향하/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+택시는
+	택시/ncn+는/jxc
+
+하나도
+	하/pvg+어/ecx+나/px+아/ecs
+
+안막혔고
+	안막혔고/ncn
+
+시간도
+	시간/nbu+도/jxc
+
+얼마
+	얼마/ncn
+
+안걸렸는데
+	안걸렸는데/ncn
+
+
+플러톤호텔에서
+	플러톤호텔/ncn+에서/jca
+
+택시
+	택시/ncn
+
+잡기가
+	잡/pvg+기/etn+가/jcs
+
+어려웠습니다
+	어렵/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+공항에
+	공항/ncn+에/jca
+
+2시간30분전에는
+	2시간30분전/ncn+에/jca+는/jxc
+
+도착했어야
+	도착/ncpa+하/xsva+었/ep+어야/ecs
+
+했는데
+	하/pvg+었/ep+는데/ecs
+
+
+1시간
+	1/nnc+시간/nbu
+
+30분전에
+	30/nnc+분/nbu+전/xsnx+에/jca
+
+도착합니다
+	도착/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+펼쳐지는
+	펼치/pvg+어/ecx+지/px+는/etm
+
+에피소드
+	에피소드/ncn
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+베트남항공
+	베트남항공/ncn
+
+비지니스
+	비지니스/ncn
+
+좌석
+	좌석/ncn
+
+끊어왔다고
+	끊/pvg+어/ecx+오/px+아/ep+다/ef+고/jcr
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+창이공항
+	창이공항/ncn
+
+제1터미날(근거리
+	제1터미날(근거리/ncn
+
+비행기들만
+	비행기/ncn+들/ncn+만/jxc
+
+모이는
+	모이/pvg+는/etm
+
+.
+	./sf
+
+
+한국비행기는
+	한국비행기/ncn+는/jxc
+
+절대
+	절대/mag
+
+올수
+	오/px+ㄹ/etm+수/nbn
+
+없는)
+	없/paa+는/etm+)/sr
+
+
+피피카드
+	피피카드/ncn
+
+라운지
+	라운지/ncn
+
+구경하고
+	구경/ncn+하고/jct
+
+싶다고
+	싶/px+다/ef+고/jcr
+
+했지요
+	하/px+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+구경은
+	구경/ncn+은/jxc
+
+커녕
+	커녕/ncn
+
+.
+	./sf
+
+
+게이트
+	게이트/ncn
+
+클로즈
+	클로즈/ncn
+
+라는
+	라/ncn+는/jxc
+
+베트남항공사의
+	베트남항공사/ncn+의/jcm
+
+엉터리
+	엉터리/ncn
+
+메시지
+	메시지/ncn
+
+때문에
+	때문/nbn+에/jca
+
+
+30분간
+	30/nnc+분/nbu+간/xsnu
+
+열라게
+	열라/ncn+이/jp+게/ecs
+
+뜁니다
+	뛰/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+흑.
+	흑/ncn+./sf
+
+
+그
+	그/mmd
+
+뒷이야기
+	뒷이야기/ncn
+
+싱가포르를
+	싱가포르/ncn+를/jco
+
+떠나는
+	떠나/pvg+는/etm
+
+이야기
+	이야기/ncpa
+
+곧
+	곧/maj
+
+이어집니다
+	잇/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+TO
+	TO/f
+
+BE
+	BE/f
+
+CONTINUDED.
+	CONTINUDED/f+./sy
+
+.....
+	.../se+./sf+./sf

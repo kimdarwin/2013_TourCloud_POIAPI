@@ -1,0 +1,898 @@
+비슬산
+	비슬산/ncn
+
+
+대구광역시
+	대구/ncn+광역시/ncn
+
+
+기간
+	기간/ncn
+
+2009.
+	2009./nnc
+
+9.
+	9./nnc
+
+5~
+	5/nnc+~/sd
+
+2009.
+	2009./nnc
+
+9.
+	9./nnc
+
+6(1박
+	6(1박/ncn
+
+2일)
+	2/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+도시를
+	도시/ncn+를/jco
+
+떠난
+	떠나/pvg+ㄴ/etm
+
+휴양&자연여행
+	휴양&자연여행/ncn
+
+
+경로
+	경로/ncn
+
+
+부산
+	부산/ncps
+
+현풍
+	현풍/ncn
+
+비슬산
+	비슬산/ncn
+
+현풍
+	현풍/ncn
+
+유가사
+	유가사/ncn
+
+부산
+	부산/ncps
+
+
+9월의
+	9/nnc+월/nbu+의/jcm
+
+첫째주
+	첫째/nno+주/nbu
+
+.
+	./sf
+
+
+8월초에
+	8/nnc+월/nbu+초/xsnu+에/jca
+
+예약했던
+	예약/ncpa+하/xsva+었/ep+던/etm
+
+비슬산
+	비슬산/ncn
+
+자연휴양림으로
+	자연/ncn+휴양림/ncn+으로/jca
+
+갔다
+	가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+이번엔
+	이/nnc+번/nbu+엔/jca
+
+예약을
+	예약/ncpa+을/jco
+
+잘해서
+	잘하/pvg+어서/ecs
+
+토요일
+	토요일/ncn
+
+그리고
+	그리고/maj
+
+일요일까지
+	일요일/ncn+까지/jxc
+
+통나무집으로
+	통나무집/ncn+으로/jca
+
+
+예약을
+	예약/ncpa+을/jco
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+총
+	총/mma
+
+2박의
+	2/nnc+박/nbu+의/jcm
+
+일정
+	일정/ncn
+
+.
+	./sf
+
+
+12시가
+	12/nnc+시/nbu+가/jcc
+
+체크아웃이라
+	체크아웃/ncpa+이/jp+라/ecs
+
+토요일만
+	토요일/ncn+만/jxc
+
+1박하면
+	1박하/ncn+이/jp+면/ecs
+
+너무
+	너무/mag
+
+일찍
+	일찍/mag
+
+휴양림을
+	휴양림/ncn+을/jco
+
+나와야한다는
+	나오/pvg+아/ecx+하/px+ㄴ다/ef+는/etm
+
+생각에
+	생각/ncpa+에/jca
+
+일요일의
+	일요일/ncn+의/jcm
+
+느긋함이
+	느긋/ncps+하/xsms+ㅁ/etn+이/jcs
+
+없어지는
+	없/paa+어/ecx+지/px+는/etm
+
+탓에
+	탓/ncpa+에/jca
+
+그냥
+	그냥/mag
+
+
+비용이
+	비용/ncn+이/jcc
+
+좀
+	좀/mag
+
+들어도
+	들/pvg+어도/ecs
+
+2박으로
+	2/nnc+박/nbu+으로/jca
+
+예약을
+	예약/ncpa+을/jco
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+그렇게
+	그렇/pad+게/ecs
+
+비싸진
+	비싸/paa+아/ecx+지/px+ㄴ/etm
+
+않아
+	않/px+아/ecx
+
+...
+	.../se
+
+
+1박에
+	1/nnc+박/nbu+에/jca
+
+7만원
+	7/nnc+만/nnc+원/nbu
+
+.
+	./sf
+
+
+일요일은
+	일요일/ncn+은/jxc
+
+6만원이니깐
+	6만원이니깐/ncn
+
+..
+	./sf+./sf
+
+
+총
+	총/mma
+
+13만원
+	13/nnc+만/nnc+원/nbu
+
+!
+	!/sf
+
+
+토요일이지만
+	토요일/ncn+이/jp+지만/ecs
+
+부산을
+	부산/ncps+을/jco
+
+벗어나니
+	벗/pvg+어/ecx+나/px+니/ecs
+
+남해고속도로는
+	남해고속도로/ncn+는/jxc
+
+뻥
+	뻥/ncn
+
+뚫려있다
+	뚫리/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+남해고속도로를
+	남해고속도로/ncn+를/jco
+
+지나
+	지나/pvg+아/ecx
+
+구마를
+	구/nnc+마/nbu+를/jco
+
+타고
+	타/pvg+고/ecc
+
+함안-창녕-대구
+	함안-창녕-대구/ncn
+
+현풍면으로
+	현풍면/ncn+으로/jca
+
+
+접어드는
+	접어들/pvg+는/etm
+
+길.
+	길/ncn+./sf
+
+..
+	./sf+./sf
+
+
+하늘은
+	하늘/ncn+은/jxc
+
+썬루프
+	썬루프/ncn
+
+너머로
+	너머/ncn+로/jca
+
+맑기만
+	맑/paa+기/etn+만/jxc
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+1시간
+	1/nnc+시간/nbu
+
+40분
+	40/nnc+분/nbu
+
+.
+	./sf
+
+
+출발한지
+	출발/ncpa+한지/ncn
+
+..
+	./sf+./sf
+
+
+비슬산
+	비슬산/ncn
+
+자연휴양림에
+	자연/ncn+휴양림/ncn+에/jca
+
+도착했다
+	도착/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+밤에
+	밤/ncn+에/jca
+
+도착해본적은
+	도착/ncpa+하/xsva+어/ecx+보/px+ㄴ/etm+적/nbn+은/jxc
+
+아마도
+	아마/mag+도/jxc
+
+거의
+	거의/mag
+
+처음인것
+	처음/ncn+이/jp+ㄴ/etm+것/nbn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+..
+	./sf+./sf
+
+
+입구의
+	입구/ncn+의/jcm
+
+표식이
+	표식/ncn+이/jcc
+
+
+약간
+	약간/mag
+
+으스스
+	으스스/mag
+
+하면서도
+	하/pvg+면서/ecs+도/jxc
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+모습을
+	모습/ncn+을/jco
+
+보여준다
+	보이/pvg+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+숙박하는
+	숙박/ncpa+하/xsva+는/etm
+
+통나무집은
+	통나무집/ncn+은/jxc
+
+비교적
+	비교/ncpa+적/ncn
+
+윗쪽에
+	윗쪽/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+통나무
+	통나무/ncn
+
+집
+	집/ncn
+
+9호
+	9/nnc+호/nbu
+
+..
+	./sf+./sf
+
+
+비슬산
+	비슬산/ncn
+
+자연휴양림은
+	자연/ncn+휴양림/ncn+은/jxc
+
+차에서
+	차/ncn+에서/jca
+
+통나무
+	통나무/ncn
+
+집까지
+	집/ncn+까지/jxc
+
+돌계단을
+	돌계단/ncn+을/jco
+
+가파르게
+	가파르/paa+게/ecc
+
+
+올라가야
+	오르/pvg+아/ecx+가/px+아/ecx
+
+해서
+	하/pvg+어서/ecs
+
+짐을
+	지/px+ㅁ/etn+을/jco
+
+싣고
+	싣/pvg+고/ecc
+
+가기가
+	가/px+기/etn+가/jcs
+
+좀
+	좀/mag
+
+힘들다
+	힘들/pvg+다/ef
+
+..
+	./sf+./sf
+
+
+역시
+	역시/mag
+
+이곳도
+	이곳/npd+도/jxc
+
+..
+	./sf+./sf
+
+
+자
+	자/ii
+
+일단
+	일단/mag
+
+배가
+	배/ncn+가/jcs
+
+고프니
+	고프/paa+니/ecs
+
+주린배부터
+	주린배부터/ncn
+
+채우려
+	채우/pvg+려/ecx
+
+...
+	.../se
+
+
+가볍게
+	가볍/paa+게/ecs
+
+내가
+	나/npp+가/jcs
+
+좋아라하는
+	좋아라하/ncn+는/jxc
+
+하이네켄부터
+	하이네켄/ncn+부터/jxc
+
+한잔~
+	한잔/ncpa+~/sd
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+현대백화점
+	현대/ncn+백화점/ncn
+
+부산점에서
+	부산/ncps+점/ncn+에서/jca
+
+파는
+	팔/pvg+는/etm
+
+소고기
+	소고/ncn+이/jp+기/etn
+
+채끝등심
+	채끝등심/ncn
+
+1+++
+	1+++/ncn
+
+야.
+	야/ii+./sf
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+..
+	./sf+./sf
+
+
+빛깔이
+	빛깔/ncn+이/jcc
+
+달라~
+	달라/nbu+~/sd
+
+
+준비해간
+	준비/ncpa+하/xsva+어/ecx+가/px+ㄴ/etm
+
+야채며
+	야채/ncn+이/jp+며/ecc
+
+쌈장
+	쌈장/ncn
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+김치
+	김치/ncn
+
+..
+	./sf+./sf
+
+
+파무침과
+	파무침/ncn+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+..
+	./sf+./sf
+
+
+성찬을
+	성찬/ncn+을/jco
+
+즐기며
+	즐기/pvg+며/ecc
+
+잠에
+	자/pvg+ㅁ/etn+에/jca
+
+빠졌다
+	빠지/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+숲속에서
+	숲속/ncn+에서/jca
+
+..
+	./sf+./sf
+
+
+잠들듯이
+	잠들/pvg+듯이/ecs
+
+.
+	./sf
+
+
+비슬산
+	비슬산/ncn
+
+자연휴양림의
+	자연/ncn+휴양림/ncn+의/jcm
+
+1호에서
+	1/nnc+호/nbu+에서/jca
+
+6호까지는
+	6/nnc+호/nbu+까지/jxc+는/jxc
+
+방이
+	방/ncn+이/jcc
+
+2개고
+	2/nnc+개/nbu+이/jp+고/ecc
+
+7,8,9,10호는
+	7/nnc+,/sp+8/nnc+,/sp+9/nnc+,/sp+10/nnc+호/nbu+는/jxc
+
+방이
+	방/ncn+이/jcc
+
+하나인
+	하나/nnc+이/jp+ㄴ/etm
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+베란다
+	베란다/ncn
+
+데크가
+	데크/ncn+가/jcs
+
+크다
+	크/paa+다/ef
+
+.
+	./sf
+
+
+저번에
+	저번/ncn+에/jca
+
+묵었던
+	묵/pvg+었/ep+던/etm
+
+3호방과는
+	3호방/ncn+과는/jct
+
+
+달라
+	다르/paa+아/ecx
+
+....
+	.../se+./sf
+
+
+가족단위로
+	가족단위/ncn+로/jca
+
+야외
+	야외/ncn
+
+바베큐를
+	바베큐/ncn+를/jco
+
+할경우에
+	할경우/ncn+에/jca
+
+더
+	더/mag
+
+좋을듯한
+	좋/paa+을/etm+듯/nbs+하/xsms+ㄴ/etm
+
+구조
+	구조/ncpa
+
+..
+	./sf+./sf
+
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+잠자기에는
+	잠자/pvg+기/etn+에/jca+는/jxc
+
+좁다
+	좁/paa+다/ef
+
+.
+	./sf
+
+
+방이
+	방/ncn+이/jcc
+
+하나니깐
+	하나니깐/ncn
+
+.
+	./sf
+
+
+아침무렵의
+	아침/ncn+무렵/xsncc+의/jcm
+
+통나무집들
+	통나무집/ncn+들/ncn
+
+.
+	./sf
+
+
+햇살이
+	햇살/ncn+이/jcc
+
+잘
+	잘/mag
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+자연휴양림의
+	자연/ncn+휴양림/ncn+의/jcm
+
+나무들
+	나무/ncn+들/ncn
+
+사이로
+	사이/ncn+로/jca
+
+비춰들고
+	비춰들고/ncn
+
+..
+	./sf+./sf
+
+
+내가
+	나/npp+가/jcs
+
+묵었던
+	묵/pvg+었/ep+던/etm
+
+9호방
+	9호방/ncn
+
+..
+	./sf+./sf
+
+
+돌계단이
+	돌계단/ncn+이/jcc
+
+가파라
+	가파르/paa+아/ecx
+
+보여
+	보이/pvg+어/ecx
+
+..
+	./sf+./sf
+
+
+이른
+	이르/paa+ㄴ/etm
+
+아침
+	아침/ncn
+
+산새소리에
+	산새/ncn+소리/ncn+에/jca
+
+등산객들
+	등산객/ncn+들/ncn
+
+발소리에
+	발소리/ncn+에/jca
+
+눈을
+	눈/ncn+을/jco
+
+깬만큼
+	깨/pvg+ㄴ/etm+만큼/nbn
+
+자연을
+	자연/ncn+을/jco
+
+느끼며
+	느끼/pvg+며/ecc
+
+잠시
+	잠시/mag
+
+산책을
+	산책/ncpa+을/jco
+
+갔다
+	가/px+아/ep+다/ef
+
+..
+	./sf+./sf
+
+
+초가을
+	초가/ncn+이/jp+ㄹ/etm
+
+비슬산
+	비슬산/ncn
+
+자연휴양림의
+	자연/ncn+휴양림/ncn+의/jcm
+
+모습
+	모습/ncn
+
+1편
+	1/nnc+편/nbu
+
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/pulpec/140090272515
+	com/f+//sp+pulpec/f+//sp+140090272515/nnc
+
+
+초가을
+	초가/ncn+이/jp+ㄹ/etm
+
+비슬산
+	비슬산/ncn
+
+자연휴양림
+	자연/ncn+휴양림/ncn
+
+인근의
+	인근/ncn+의/jcm
+
+유가사
+	유가사/ncn
+
+모습
+	모습/ncn
+
+2편
+	2/nnc+편/nbu
+
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/pulpec/140090281551
+	com/f+//sp+pulpec/f+//sp+140090281551/nnc

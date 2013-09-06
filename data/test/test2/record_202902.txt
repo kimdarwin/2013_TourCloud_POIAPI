@@ -1,0 +1,38 @@
+Title:
+3/1 장성 편백숲과 고창읍성 여행 후기
+
+Date:
+2012.03.01
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(328255,'files/attach/images/64/902/202/d889786191aae4b99b2ffa0ab3e1d7af.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/334cb2272278e0b3d41d6a3447d5918c.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/b10ee068ca8006b1f6cc9853bc8cb6fd.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/3131e917ca5f349b445933a5bf075f99.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/77bde3b093b47be60a2428a8062c7830.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/8bcddf5835a7ec03d190479470f38fa8.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/bbd20d9e4e684aba4ff1c88a8983c7b8.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/98b72746221092c4d2642e72dbc0a8f2.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/76a77b79959f227a135aca7411317a41.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/7b69aca91191b76b97478cadb11b75b5.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/f326c46f6373e3b7cd7f4a1bae5108f7.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/dfed0d0b37ace3bfeec8dbd75c20f972.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/26b196157ce47298126abe9f89a0ac98.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/49f137098af2a28c72ec6288de03d376.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/7addfb5f830a8d88b205106d0f69848b.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/2989bc6fb1937cdcc2506bb331532caf.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/436dc655d04d1b1cad21a0a5dec675f4.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/69c22104b9e71b15f76de85a574872ca.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/1f74916568221d75c0bccbbd83706c1a.jpg');
+list_gallery_add_image(328255,'files/attach/images/64/902/202/baec5487d79ed9e7ff6bea4e25b3c704.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+3월 1일(일) 아름다운 여행으로 고창읍성과 장성 편백숲에 다녀왔습니다. 3월의 첫째날인 오늘은 완연한 봄기운으로 가득한 하루였습니다. 차창 밖으로 스치는 들판에서도, 강물에 내려앉은햇살에서도 봄을 느낄 수 있었습니다. 
+고창에 도착하여 조선 초기에 세워진 고창읍성을 돌아보았습니다. 고창읍성은 성곽을 따라 빙 한바퀴 산책을 할 수 있으며 다른 읍성과 달리 약간 산비탈에 있어서 오르막인 구간은 마치 하늘로 날아오를 것만 같은 성곽 구간도 무척 인상적입니다. 그리고 무엇보다 솔숲이 좋아서 성곽을 돌아보는 동안 한쪽에는 고창 읍내를 훤히 내려다보고 또 한쪽으로는 푸른 솔숲 감상을 하며 걷기에 참 좋더군요.
+이곳 고창읍성은 순천의 낙안읍성과 달리 전시와 같은 유사시에만 주민들이 성안에 들어와 살아서 민가는 남아 있지 않고 객사나 동헌과 같은 건물만 남아 있는 점도 특이합니다. 여하튼 이렇게 성곽을 따라 도는 시간은 약 3~40분 정도 소요되지만 오늘은 날씨가 좋아서 오랜만에 느린 걸음으로 돌아보았네요.
+점심식사는 푸짐한 백반으로 먹고 장성 편백숲으로 이동하였습니다. 딱 1년 전 오늘도 편백숲을 왔었는데 그때는 눈이 쌓여있었죠. 한데 오늘은 완연한 봄날이었네요. 추암리를 출발 하여 임종국 추모비까지 오르막을 오르는데 얼마만에 흘려보는 땀인지 반가울 정도였으니까요. 추모비를 지나면 완만한 내리막을 따라 편백숲 산책이 시작됩니다.
+시원시원하게 뻗어오른 편백나무와 삼나무 그리고 구부러진 길까지 편백숲을 올 때마다 마음이 향긋해지는 고마운 숲이죠. 오늘은 임도를 걷다가 편백나무 빼곡한 숲길 구간을 따라 걸어보았습니다. 이곳 축령산 편백숲은 여러 갈래길의 걷기 코스가 있는데 그중 일부 구간이었지만 바로 가까이에서 편백나무를 만지며 걸어보는 구간도 마음에 드셨는지 모르겠습니다. 그렇게 편백숲을 빠져나오면 금세 금곡영화마을 도착합니다. 파릇파릇한 새싹들, 담벼락 틈새에서 피어난 봄까치꽃... 종일 기분 좋은 봄과 함께한 하루였습니다. 
+오늘은 무엇보다 날씨가 참 좋았습니다. 추위 끝에 풀린 날이라 더욱 따스했고 오랜만에 옷차림도 가벼워 걷는 발걸음도 가벼웠구요. 더구나 올 들어 처음 본 봄까치꽃 그리고 겨울잠에서 깨어 돌아다니는 다람쥐도 만나서 더욱 봄을 느낄 수 있었습니다. 아침 저녁으로는 아직 쌀쌀하지만 이제 걷기에 좋은 계절이 시작되었으니 가까운 근교에라도 나가 행복한 걷기도 즐겨보시기 바랍니다.
+이번 여행에 참여하신 분들 모두 수고 많으셨구요. 환절기 감기 조심하시고 오늘을 시작으로 새롭게 시작하는 3월도 힘차게 맞이하시길 바랍니다~
+이 게시물을...

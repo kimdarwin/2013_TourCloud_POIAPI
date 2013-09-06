@@ -1,0 +1,122 @@
+Title:
+장흥여행|2012 장흥 정남진 물축제, 생생 동영상! 
+
+Date:
+2012.07.28 18:27
+
+Content:
+
+2012 장흥 정남진 물축제
+생생 동영상!
+
+
+
+
+
+
+
+
+꺄아아악!
+신나는 물놀이!
+
+
+
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/07/28/604/03100323813C53CE0EC3995173D955F3743_imoha0725_480P_01_16x9_logo.jpg';
+	layout.playtime = '17.48';
+	var qsParam = {};
+	qsParam.vid = '25D2687B529BA33541469B09557FB349DE0B';
+	qsParam.inKey = 'V1277860172019b91b3948e493cb00cd38c1d680019c677a57f7adc42f3ac9bd0a91c8e493cb00cd38c1d';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_04182 = new VideoInfraUGCPlayer('ugcPlayer_04182' ,bean); 
+ugcPlayer_04182.drawPlayLayer(); 
+}
+
+
+▲워터 슬라이드
+
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/07/28/342/E31403138F3C13C30E239D7973A82D43143_imoha0725_480P_01_16x9_logo.jpg';
+	layout.playtime = '30.53';
+	var qsParam = {};
+	qsParam.vid = '949E5EA62115FECE009C3658B5EF8B6914FE';
+	qsParam.inKey = 'V12693fcee078299fd019df761b7235fa8d24aa5d45b67729f3893d052f22d40ad3fcdf761b7235fa8d24';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_00710 = new VideoInfraUGCPlayer('ugcPlayer_00710' ,bean); 
+ugcPlayer_00710.drawPlayLayer(); 
+}
+
+
+▲여유만만 배타기2012 대한민국 정남진 물축제기간. 2012. 7. 27(금)-8.2(목)장소. 전남 장흥군 장흥읍 탐진강과 편백숲 우드랜드 일원전화. 061.860.0380홈페이지. http://www.jhwater.kr
+
+
+
+
+
+
+
+
+
+찾아가기.승용차호남고속도로-문흥IC-29국도-장흥-정남진물축제서해안고속도로-목포광양간 고속도로-장흥IC-정남진물축제대중교통KTX-서울ㅡ광주 혹은 나주에서 하차 후 시외버스 갈아타고 광주 혹은 나주 ㅡ 장흥버스 - 서울ㅡ장흥(일6회), 부산ㅡ장흥(일6회), 광주ㅡ장흥(일32회)
+	
+정남진 물축제
+전라남도 장흥군 장흥읍
+
+
+
+	
+{mapId: "bl011385659", placeId: "", type:"1", title:"정남진 물축제", pointX:299838,pointY:231838}
+
+
+
+
+
+
+
+
+	
+정남진 물축제
+전라남도 장흥군 장흥읍
+
+
+
+	
+{mapId: "bl011385830", placeId: "13116667", type:"1", title:"정남진 물축제", pointX:299837,pointY:231843}
+
+
+
+
+
+
+
+ 
+
+	

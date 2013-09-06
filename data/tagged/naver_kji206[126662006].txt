@@ -1,0 +1,949 @@
+[영천여행]
+	[영천여행]/ncn
+
+시안미술관,
+	시안/ncn+미술관/ncn+,/sp
+
+카페시안에서
+	카페/ncn+시안/ncn+에서/jca
+
+커피한잔의
+	커피/ncn+한잔/ncpa+의/jcm
+
+여유와
+	여유/ncn+와/jcj
+
+영천와인
+	영천와/ncn+이/jp+ㄴ/etm
+
+뱅꼬레와
+	뱅꼬레/ncn+와/jcj
+
+씨엘
+	씨/ncn+엘/jca
+
+
+미술관
+	미술관/ncn
+
+관람을
+	관람/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+난후
+	나/px+ㄴ후/ef
+
+2층
+	2/nnc+층/nbu
+
+테라스에서
+	테라스/ncn+에서/jca
+
+커피한잔을
+	커피/ncn+한잔/ncpa+을/jco
+
+마시기로
+	말/px+시/ep+기/etn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+해의
+	해/nbu+의/jcm
+
+움직임에
+	움직이/pvg+ㅁ/etn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+운동장
+	운동장/ncn
+
+조형물은
+	조형물/ncn+은/jxc
+
+시시각각
+	시시각각/mag
+
+다른
+	다르/paa+ㄴ/etm
+
+그림자를
+	그림자/ncn+를/jco
+
+만들어내어
+	만들/pvg+어/ecx+내/px+어/ecx
+
+작품을
+	작품/ncn+을/jco
+
+색다르게
+	색다르/paa+게/ecs
+
+만든다
+	만들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+오후에
+	오후/ncn+에/jca
+
+햇살을
+	햇살/ncn+을/jco
+
+가득
+	가득/mag
+
+품은
+	풀/pvg+ㅁ/etn+은/jxc
+
+테라스
+	테라스/ncn
+
+...
+	.../se
+
+
+얼굴
+	얼굴/ncn
+
+기미
+	기미/ncn
+
+생길까
+	생기/pvg+ㄹ까/ecs
+
+...
+	.../se
+
+
+아니
+	아니/ii
+
+이미
+	이미/mag
+
+생긴
+	생기/pvg+ㄴ/etm
+
+기미
+	기미/ncn
+
+더
+	더/mag
+
+진해질까
+	진하/pvg+어/ecx+지/px+ㄹ까/ecs
+
+그늘
+	그늘/ncn
+
+찾게되는
+	찾/pvg+게/ecx+되/px+는/etm
+
+오후이다
+	오후/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+등으로
+	등/nbu+으로/jca
+
+따스한
+	따스/ncps+하/xsms+ㄴ/etm
+
+햇살
+	햇살/ncn
+
+받으며
+	받/pvg+으며/ecc
+
+여유롭게
+	여유/ncn+롭/xsmn+게/ecs
+
+마시는
+	마시/pvg+는/etm
+
+커피
+	커피/ncn
+
+한잔의
+	한/nnc+잔/nbu+의/jcm
+
+여유,,,,
+	여유/ncn+,/sp+,/sp+,/sp+,/sp
+
+
+잠깐의
+	잠깐/ncn+의/jcm
+
+여유는
+	여유/ncn+는/jxc
+
+여행의
+	여행/ncpa+의/jcm
+
+피로를
+	피로/ncps+를/jco
+
+잊게
+	잊/pvg+게/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+카페
+	카페/ncn
+
+"시안"
+	"/sl+시안/ncn+"/sr
+
+
+많이
+	많/paa+이/xsa
+
+붐볐던
+	붐비/paa+었/ep+던/etm
+
+걸로
+	걸/ncn+로/jca
+
+기억하는데
+	기억/ncpa+하/xsva+ㄴ데/ecs
+
+...
+	.../se
+
+
+조용한
+	조용/ncn+한/ncn
+
+시간에
+	시간/nbu+에/jca
+
+찾아
+	찾/pvg+아/ecx
+
+온것
+	오/px+ㄴ/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+카페
+	카페/ncn
+
+구경도
+	구경/ncn+도/jxc
+
+재미있다
+	재미있/pvg+다/ef
+
+.
+	./sf
+
+
+다양한
+	다양/ncn+한/ncn
+
+이국적인
+	이국/ncn+적/ncn+이/jp+ㄴ/etm
+
+소재로
+	소재/ncn+로/jca
+
+미술관
+	미술관/ncn
+
+감각이
+	감각/ncpa+이/jcc
+
+돗보이는
+	돗보/ncn+이/jp+는/etm
+
+인테리어로
+	인테리어/ncn+로/jca
+
+가득하다
+	가득/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+룸에서
+	룸/ncn+에서/jca
+
+영천에서
+	영천/ncn+에서/jca
+
+생산되는
+	생산/ncpa+되/xsvn+는/etm
+
+와인을시음할
+	와인을시음할/ncn
+
+기회가~~
+	기회/ncn+가/jcc+~/sd+~/sd
+
+
+별빛
+	별빛/ncn
+
+촌으로
+	촌/ncn+으로/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+영천은
+	영천/ncn+은/jxc
+
+전국
+	전국/ncn
+
+제일의
+	제일/ncn+의/jcm
+
+머루
+	머루/ncn
+
+포도
+	포/ncn+도/jxc
+
+주산지로
+	주산지/ncn+로/jca
+
+보현산
+	보현산/ncn
+
+천문대가
+	천문대/ncn+가/jcs
+
+소재할
+	소재/ncpa+하/xsva+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+맑은
+	맑/paa+은/etm
+
+날이
+	날/ncn+이/jcc
+
+많아
+	많/paa+아/ecx
+
+양질의
+	양질/ncn+의/jcm
+
+포도가
+	포도/ncn+가/jcs
+
+생산되고
+	생산/ncpa+되/xsvn+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+좋은
+	좋/paa+은/etm
+
+기후조건으로
+	기후/ncn+조건/ncn+으로/jca
+
+품질이
+	품질/ncn+이/jcc
+
+우수한
+	우수/ncps+하/xsms+ㄴ/etm
+
+와인을
+	와인/ncn+을/jco
+
+생산하는
+	생산/ncpa+하/xsva+는/etm
+
+영천이다
+	영천/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+영천와인은
+	영천와인/ncn+은/jxc
+
+공장형
+	공장/ncn+형/ncn
+
+뱅꼬레와
+	뱅꼬레/ncn+와/jcj
+
+농가형
+	농가/ncn+형/ncn
+
+씨엘이
+	씨/ncn+엘/jca+이/jcc
+
+생산되고
+	생산/ncpa+되/xsvn+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+영천와인공동
+	영천와인공동/ncn
+
+브랜드인
+	브랜드/ncn+이/jp+ㄴ/etm
+
+씨엘(Ciel)
+	씨엘/ncn+(/sl+Ciel/f+)/sr
+
+
+씨엘은
+	씨/ncn+엘/jca+은/jxc
+
+프랑스어로
+	프랑스어/ncn+로/jca
+
+"하늘"이라는
+	"/sl+하늘/ncn+"/sr+이/jp+라/ef+는/etm
+
+뜻으로
+	뜻/ncn+으로/jca
+
+영천을
+	영천/ncn+을/jco
+
+나타내는
+	나타내/pvg+는/etm
+
+대표성을
+	대표성/ncn+을/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있으며
+	있/paa+으며/ecc
+
+
+밤하늘에
+	밤하늘/ncn+에/jca
+
+별이
+	별/ncn+이/jcc
+
+쏟아지는
+	쏟/pvg+아/ecx+지/px+는/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+비쥬얼로
+	비쥬얼/ncn+로/jca
+
+표현하여
+	표현/ncpa+하/xsva+어/ecx
+
+영천와인의
+	영천와인/ncn+의/jcm
+
+고귀함을
+	고귀/ncps+하/xsms+ㅁ/etn+을/jco
+
+강조한
+	강조/ncpa+하/xsva+ㄴ/etm
+
+뜻이다
+	뜻/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+Confidence(신뢰),
+	Confidence/f+(/sl+신뢰/ncpa+)/sr+,/sp
+
+Innocent(순수),
+	Innocent/f+(/sl+순수/ncps+)/sr+,/sp
+
+Excellent(탁월),
+	Excellent/f+(/sl+탁월/ncps+)/sr+,/sp
+
+Lovely(사랑스러운
+	Lovely/f+(/sl+사랑/ncpa+스럽/xsmn+은/etm
+
+맛)
+	맛/ncn+)/sr
+
+의
+	의/ncn
+
+의미를
+	의미/ncpa+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+씨엘
+	씨/ncn+엘/jca
+
+와인
+	와인/ncn
+
+(www.
+	(/sl+www/f+./sy
+
+ciel.
+	ciel/f+./sy
+
+or.
+	or/f+./sy
+
+kr)
+	kr/f+)/sr
+
+
+경북
+	경북/ncn
+
+영천시
+	영천시/ncn
+
+조교동
+	조교/ncr+동/ncn
+
+267-1
+	267/nnc+-1/nnc
+
+번지
+	벌/pvg+ㄴ지/ecs
+
+영천
+	영천/ncn
+
+조흔와이너리
+	조흔와이너리/ncn
+
+(054-331-3457)
+	(/sl+054/nnc+-331/nnc+-3457/nnc+)/sr
+
+
+개인적으로
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+깔끔한
+	깔끔/ncps+하/xsms+ㄴ/etm
+
+뒷맛이
+	뒷맛/ncn+이/jcc
+
+좋아
+	좋/paa+아/ecx
+
+화이트
+	화이트/ncn
+
+와인을
+	와인/ncn+을/jco
+
+더
+	더/mag
+
+좋아한다
+	좋/paa+아/ecx+하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+좋은
+	좋/paa+은/etm
+
+안주와
+	안주/ncn+와/jct
+
+함께
+	함께/mag
+
+먹는
+	먹/pvg+는/etm
+
+와인맛
+	와인/ncn+맛/ncn
+
+...
+	.../se
+
+
+알콜
+	알콜/ncn
+
+살짝
+	살짝/mag
+
+들어가니
+	들/pvg+어/ecx+가/px+니/ecs
+
+오후의
+	오후/ncn+의/jcm
+
+나른함이
+	나른/ncn+함/ncn+이/jcc
+
+찾아든다
+	찾아들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+두번째로
+	두/nnc+번/nbu+째/xsnu+로/jca
+
+맛을
+	맛/ncn+을/jco
+
+본건~~뱅꼬레
+	본건~~뱅꼬레/ncn
+
+
+뱅꼬레(VinCoree)는
+	뱅꼬레(VinCoree)/ncn+는/jxc
+
+프랑스어로
+	프랑스어/ncn+로/jca
+
+와인이
+	와인/ncn+이/jcc
+
+"뱅"
+	"뱅/ncn+"/sl
+
+
+꼬레는
+	꼬레/ncn+는/jxc
+
+코리아의
+	코리아/ncn+의/jcm
+
+합성어
+	합성어/ncn
+
+
+"한국와인"이라는
+	"한국와인"/ncn+이/jp+라/ef+는/etm
+
+뜻으로
+	뜻/ncn+으로/jca
+
+전국
+	전국/ncn
+
+제일의
+	제일/ncn+의/jcm
+
+영천
+	영천/ncn
+
+포도만을
+	포도/ncn+만/ncn+을/jco
+
+엄선하여
+	엄선/ncpa+하/xsva+어/ecx
+
+20년간
+	20/nnc+년/nbu+간/xsnu
+
+와인제조
+	와인/ncn+제조/ncpa
+
+경험을
+	경험/ncpa+을/jco
+
+바탕으로
+	바탕/ncn+으로/jca
+
+
+새로운
+	새롭/paa+은/etm
+
+양조기술을
+	양조/ncn+기술/ncn+을/jco
+
+이용함으로써
+	이용/ncpa+하/xsva+ㅁ/etn+으로써/jca
+
+수입와인에
+	수입/ncpa+와인/ncn+에/jca
+
+결코
+	결코/mag
+
+뒤지지
+	뒤지/pvg+지/ecx
+
+않는다는
+	않/px+는다/ef+는/etm
+
+자부심과장인정신으로
+	자부심/ncn+과장/ncr+인정/ncpa+신/ncn+으로/jca
+
+우리
+	우리/npp
+
+입맛에
+	입맛/ncn+에/jca
+
+맞는
+	맞/pvg+는/etm
+
+순수
+	순수/ncps
+
+국산와인이다
+	국산/ncn+와인/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+한국와인(뱅꼬레):
+	한국와인(뱅꼬레):/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+vincoree.
+	vincoree/f+./sy
+
+com/
+	com/f+//sp
+
+
+(경북
+	(경북/ncn
+
+영천시
+	영천시/ncn
+
+금호읍
+	금호읍/ncn
+
+원기리
+	원기/ncn+이/jp+리/ef
+
+414-2번지)
+	414-2번지)/ncn
+
+054-333-3010
+	054/nnc+-333/nnc+-3010/nnc
+
+
+샐러드와
+	샐러드/ncn+와/jcj
+
+샌드위치
+	샌드위치/ncn
+
+..
+	./sf+./sf
+
+
+밥
+	밥/ncn
+
+먹은지
+	먹/pvg+은/etm+지/nbn
+
+얼마
+	얼마/ncn
+
+되지도
+	되/pvg+지/ecs+도/jxc
+
+않은데
+	않/px+은/etm+데/nbn
+
+여행다니다
+	여행다니다/ncn
+
+보면
+	보/px+면/ecs
+
+왜
+	왜/mag
+
+그리
+	그리/mad
+
+식탐이
+	식탐/ncn+이/jcc
+
+생기는지
+	생기/pvg+는지/ecs
+
+...
+	.../se
+
+
+올리브향이
+	올리브/ncn+향/ncn+이/jcc
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+샐러드는
+	샐러드/ncn+는/jxc
+
+입안을
+	입안/ncpa+을/jco
+
+즐겁게
+	즐겁/paa+게/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+부딪히는
+	부딪히/pvg+는/etm
+
+잔
+	잔/nbu
+
+속에
+	속/ncn+에/jca
+
+이야기
+	이야기/ncpa
+
+꽃과
+	꽃/ncn+과/jcj
+
+정다움이
+	정답/paa+음/etn+이/jcs
+
+흐른다
+	흐르/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+별의
+	별/ncn+의/jcm
+
+도시
+	도시/ncn
+
+영천~
+	영천/ncn+~/sd
+
+
+영천
+	영천/ncn
+
+여행은
+	여행/ncpa+은/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+마음의
+	마음/ncn+의/jcm
+
+쉼표
+	쉼표/ncn
+
+하나
+	하나/nnc
+
+크게
+	크/paa+게/ecs
+
+찍는다
+	찍/pvg+는다/ef
+
+.
+	./sf
+
+
+시안미술관
+	시안/ncn+미술관/ncn
+
+
+경상북도
+	경상/ncn+북/ncn+도/jxc
+
+영천시
+	영천시/ncn
+
+화산면
+	화산/ncn+면/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01524491",
+	"bl01524491",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11548842",
+	"/sl+11548842/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"시안미술관",
+	title/f+:/sp+"/sl+시안/ncn+미술관/ncn+"/sr+,/sp
+
+pointX:480361,pointY:381733}
+	pointX/f+:/sp+480361/nnc+,/sp+pointY/f+:/sp+381733/nnc+}/sr

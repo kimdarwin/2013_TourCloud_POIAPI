@@ -1,0 +1,1251 @@
+[
+	[/sl
+
+아임
+	아/ncn+이/jp+ㅁ/etn
+
+라임
+	라/ncn+이/jp+ㅁ/etn
+
+라이트
+	라이트/ncn
+
+]
+	]/sr
+
+
+제품사양
+	제품사양/ncpa
+
+
+LED
+	LED/f
+
+수명
+	수명/ncn
+
+:
+	:/sp
+
+약
+	약/ncn
+
+50,000시간
+	50,000/nnc+시간/nbu
+
+
+배터리수명
+	배터리수명/ncn
+
+:
+	:/sp
+
+약
+	약/ncn
+
+500회
+	500/nnc+회/nbu
+
+충전
+	충전/ncpa
+
+
+충전시간
+	충전/ncpa+시간/ncn
+
+:
+	:/sp
+
+3시간30분~4시간
+	3시간30분/ncn+~/sd+4/nnc+시간/nbu
+
+
+사용시간
+	사용시간/ncn
+
+:
+	:/sp
+
+300lx
+	300lx/ncn
+
+20시간,
+	20/nnc+시간/nbu+,/sp
+
+500lx
+	500lx/ncn
+
+10시간
+	10/nnc+시간/nbu
+
+
+크기
+	크/paa+기/etn
+
+:
+	:/sp
+
+94
+	94/nnc
+
+x
+	x/f
+
+42
+	42/nnc
+
+X
+	X/f
+
+23mm
+	23mm/ncn
+
+
+무게
+	무/ncn+이/jp+게/ecs
+
+:
+	:/sp
+
+86g
+	86g/ncn
+
+
+오늘
+	오늘/ncn
+
+소개하는
+	소개/ncpa+하/xsva+는/etm
+
+LED
+	LED/f
+
+등은
+	등/nbu+은/jxc
+
+독서등으로
+	독서/ncpa+등/ncn+으로/jca
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+제품입니다
+	제품/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+일반
+	일반/ncn
+
+랜턴등이
+	랜턴등/ncn+이/jcc
+
+대부분
+	대부분/ncn
+
+360도
+	360/nnc+도/jxc
+
+빛을
+	빛/ncn+을/jco
+
+밝혀
+	밝히/pvg+어/ecx
+
+준다면,
+	줄/pvg+ㄴ다면/ecs+,/sp
+
+
+아이
+	아이/ii
+
+라임
+	라/ncn+이/jp+ㅁ/etn
+
+라이트는
+	라이트/ncn+는/jxc
+
+일면
+	일/pvg+면/ecs
+
+180도만
+	180/nnc+도/jxc+만/jxc
+
+빛을
+	빛/ncn+을/jco
+
+밝혀
+	밝히/pvg+어/ecx
+
+줍니다
+	줍/pvg+니다/ef
+
+
+기본
+	기본/ncn
+
+구성품입니다
+	구성/ncn+품/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+본체와
+	본체/ncn+와/jcj
+
+수납
+	수납/ncpa
+
+파우치
+	파우치/ncn
+
+.
+	./sf
+
+
+made
+	made/f
+
+in
+	in/f
+
+korea
+	korea/f
+
+라
+	라/ncn
+
+믿을
+	믿/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+제품입니다
+	제품/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+저가의
+	저가/ncn+의/jcm
+
+중국산
+	중국산/ncn
+
+제품이
+	제품/ncn+이/jcc
+
+아닙니다
+	아니/paa+ㅂ니다/ef+./sf
+
+.
+	./sf
+
+
+왼쪽의
+	왼쪽/ncn+의/jcm
+
+충전케이블과
+	충전/ncpa+케이블/ncn+과/jcj
+
+오른쪽의
+	오른쪽/ncn+의/jcm
+
+갤럭시
+	갤럭시/ncn
+
+연결
+	연결/ncpa
+
+젠더는
+	젠더/ncn+는/jxc
+
+별도
+	별/ncn+도/jxc
+
+구매품입니다
+	구매/ncpa+품/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+측면의
+	측면/ncn+의/jcm
+
+파워
+	파워/ncn
+
+및
+	및/maj
+
+밝기
+	밝/paa+기/etn
+
+스위치
+	스위치/ncn
+
+.
+	./sf
+
+
+300lx,
+	300lx,/ncn
+
+500lx
+	500lx/ncn
+
+밝기가
+	밝/paa+기/etn+가/jcs
+
+슬라이딩
+	슬라이딩/ncn
+
+타입으로
+	타입/ncn+으로/jca
+
+조절이
+	조절/ncpa+이/jcc
+
+되고
+	되/nbu+고/jcj
+
+
+한단계
+	한단/ncn+계/ncn
+
+더
+	더/mag
+
+밀게
+	밀/pvg+게/ecs
+
+되면
+	되/pvg+면/ecs
+
+전원이
+	전원/ncn+이/jcc
+
+꺼집니다
+	끄/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+LED
+	LED/f
+
+창.
+	창/ncn+./sf
+
+
+눈부심
+	눈부시/paa+ㅁ/etn
+
+방지창을
+	방지/ncpa+창/ncn+을/jco
+
+사용하여
+	사용/ncpa+하/xsva+어/ecx
+
+눈을
+	눈/ncn+을/jco
+
+보호해줍니다
+	보호/ncpa+하/xsva+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+24pin
+	24pin/ncn
+
+연결
+	연결/ncpa
+
+잭을
+	잭/ncn+을/jco
+
+사용해
+	사용/ncpa+하/xsva+어/ecx
+
+충전이
+	충전/ncpa+이/jcc
+
+가능합니다
+	가능/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+충전하시는
+	충전/ncpa+하시/ncn+는/jxc
+
+방법은
+	방법/ncn+은/jxc
+
+가정용
+	가정/ncn+용/ncn
+
+핸드폰
+	핸드폰/ncn
+
+24pin
+	24pin/ncn
+
+충전기와
+	충전/ncpa+기와/ncn
+
+
+USB를
+	USB/f+를/jco
+
+이용하는
+	이용/ncpa+하/xsva+는/etm
+
+두가지의
+	두/nnc+가지/nbu+의/jcm
+
+방법이
+	방법/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+측면에는
+	측면/ncn+에/jca+는/jxc
+
+목에
+	목/ncn+에/jca
+
+걸수
+	것/nbn+이/jp+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+줄을
+	줄/nbn+을/jco
+
+통과
+	통/nbn+과/jcj
+
+시킬수
+	시키/pvg+ㄹ/etm+수/nbn
+
+있도록
+	있/px+도록/ecs
+
+구멍이
+	구멍/ncn+이/jcc
+
+나있습니다
+	나/pvg+아/ecx+있/px+습니다/ef
+
+.
+	./sf
+
+
+폴더
+	폴더/ncn
+
+형식입니다
+	형식/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+최대
+	최대/ncn
+
+130도까지
+	130/nnc+도/jxc+까지/jxc
+
+폴더
+	폴더/ncn
+
+각이
+	각/ncn+이/jcc
+
+조절이
+	조절/ncpa+이/jcc
+
+되며,
+	되/nbu+이/jp+며/ecc+,/sp
+
+
+각의
+	각/ncn+의/jcm
+
+조절은
+	조/nnc+절/nbu+은/jxc
+
+사용용도에
+	사용/ncpa+용도/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+조절하시면
+	조절/ncpa+하시/ncn+이/jp+면/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+개방한
+	개방/ncpa+하/xsva+ㄴ/etm
+
+후
+	후/ncn
+
+측면
+	측면/ncn
+
+모습
+	모습/ncn
+
+.
+	./sf
+
+
+폴더를
+	폴더/ncn+를/jco
+
+닫은
+	닫/pvg+은/etm
+
+후
+	후/ncn
+
+반대쪽
+	반대쪽/ncn
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고,
+	그리/pvg+고/ecc+,/sp
+
+슬라이딩
+	슬라이딩/ncn
+
+방식으로
+	방식/ncn+으로/jca
+
+3cm의
+	3cm/ncn+의/jcm
+
+높이
+	높이/ncn
+
+조절이
+	조절/ncpa+이/jcc
+
+가능합니다
+	가능/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+갤럭시S
+	갤럭시S/ncn
+
+와
+	오/pvg+아/ecx
+
+크기비교
+	크기/ncn+비교/ncpa
+
+.
+	./sf
+
+
+주
+	주/nbu
+
+용도는
+	용도/ncn+는/jxc
+
+독서등이지만,
+	독서/ncpa+등/ncn+이/jp+지만/ecs+,/sp
+
+각종
+	각종/ncn
+
+용도로
+	용도/ncn+로/jca
+
+활용이
+	활용/ncpa+이/jcc
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+LED등입니다
+	LED/f+등/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+핸즈프리
+	핸즈프리/ncn
+
+클립을
+	클립/ncn+을/jco
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+책장
+	책장/ncn
+
+사이에
+	사이/ncn+에/jca
+
+끼우면
+	끼우/pvg+면/ecs
+
+
+독서등으로서의
+	독서/ncpa+등/ncn+으로서/jca+의/jcm
+
+용도가
+	용도/ncn+가/jcs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+점등을
+	점등/ncpa+을/jco
+
+시켜봅니다
+	시키/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+상당히
+	상당히/mag
+
+밝습니다
+	밝/paa+습니다/ef
+
+.
+	./sf
+
+
+최근에
+	최근/ncn+에/jca
+
+포스팅한
+	포스팅한/ncn
+
+질라이트의
+	질라이트/ncn+의/jcm
+
+컨스텔
+	컨스텔/ncn
+
+랜턴보다도
+	랜턴보다/ncn+도/jxc
+
+밝습니다
+	밝/paa+습니다/ef
+
+.
+	./sf
+
+
+LED
+	LED/f
+
+10개를
+	10/nnc+개/nbu+를/jco
+
+사용하여
+	사용/ncpa+하/xsva+어/ecx
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+밝습니다
+	밝/paa+습니다/ef
+
+.
+	./sf
+
+
+순우가
+	순우/ncn+가/jcs
+
+3학년이
+	3/nnc+학년/nbu+이/jcc
+
+되고
+	되/pvg+고/ecc
+
+나서
+	나/px+서/ecs
+
+늘어나는
+	늘/pvg+어/ecx+나/px+는/etm
+
+숙제와
+	숙제/ncn+와/jcj
+
+공부때문에
+	공부때문/ncn+에/jca
+
+
+주말에
+	주말/ncn+에/jca
+
+캠핑을
+	캠핑/ncn+을/jco
+
+즐기질
+	즐기질/ncn
+
+못하고
+	못하/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+나가면
+	나/pvg+아/ecx+가/px+면/ecs
+
+공부는
+	공부/ncpa+는/jxc
+
+안하고,
+	안/ncn+하고/jct+,/sp
+
+놀기만
+	놀/pvg+기/etn+만/jxc
+
+한다고
+	하/px+ㄴ다/ef+고/jcr
+
+순우맘이
+	순우맘/ncn+이/jcc
+
+
+안보내고
+	안보/ncn+내/ncn+이/jp+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+이런
+	이런/mmd
+
+모습으로
+	모습/ncn+으로/jca
+
+돔텐트
+	돔텐트/ncn
+
+내에서
+	내/npp+에서/jca
+
+공부를
+	공부/ncpa+를/jco
+
+시킬거라고
+	시키/pvg+ㄹ/etm+것/nbn+이/jp+라/ef+고/jcr
+
+보내달라
+	보/nbu+내/xsnu+달라/nbu
+
+해야겠습니다
+	하/px+어야겠/ep+습니다/ef
+
+.
+	./sf
+
+
+;;;
+	;/sy+;/sy+;/sy
+
+
+반경
+	반경/ncn
+
+180도로만
+	180/nnc+도/nbu+로/jca+만/jxc
+
+빛이
+	빛/ncn+이/jcc
+
+확산되니,
+	확산/ncpa+되/xsvn+니/ecs+,/sp
+
+등을
+	등/nbu+을/jco
+
+켜논다
+	켜논다/ncn
+
+하여
+	하/pvg+어/ecs
+
+
+빛으로
+	빛/ncn+으로/jca
+
+인해
+	인하/pvg+어/ecx
+
+주변에
+	주변/ncn+에/jca
+
+방해가
+	방해/ncpa+가/jcc
+
+되지는
+	되/pvg+지/ecs+는/jxc
+
+않겠습니다
+	않/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+밝지요
+	밝/paa+지/ef+요/jxf
+
+?
+	?/sf
+
+
+컨스텔보단
+	컨스텔보단/ncn
+
+1.
+	1./nnc
+
+5배-2배정도
+	5배-2배정/ncn+도/jxc
+
+밝은
+	밝/paa+은/etm
+
+느낌입니다
+	느낌/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+USB
+	USB/f
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+주로
+	주로/mag
+
+파워뱅크에
+	파워/ncn+뱅크/ncn+에/jca
+
+충전
+	충전/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+거
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+요즘
+	요즘/mag
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+LED등을
+	LED/f+등/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+충전식과
+	충전/ncpa+식/ncn+과/jcj
+
+비충전식으로
+	비/xp+충전/ncpa+식/ncn+으로/jca
+
+나누게
+	나누/pvg+게/ecs
+
+되는데,
+	되/paa+ㄴ데/ecs+,/sp
+
+
+내년엔
+	내년/ncn+엔/jca
+
+충전식이
+	충전/ncpa+식/ncn+이/jcc
+
+아니면
+	아니/paa+면/ecs
+
+살아남기
+	살아남/pvg+기/etn
+
+힘들지
+	힘들/pvg+지/ecx
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+건전지의
+	건전지/ncn+의/jcm
+
+가격이
+	가격/ncn+이/jcc
+
+만만치
+	만/nnc+만/nnc+치/nbu
+
+않을
+	않/px+을/etm
+
+뿐더러,
+	뿐/nbn+더러/jca+,/sp
+
+별도
+	별/ncn+도/jxc
+
+충전킷의
+	충전킷/ncn+의/jcm
+
+가격
+	가격/ncn
+
+또한
+	또한/maj
+
+
+본체의
+	본체/ncn+의/jcm
+
+가격을
+	가격/ncn+을/jco
+
+뛰어
+	뛰/pvg+어/ecx
+
+넘는
+	넘/pvg+는/etm
+
+제품도
+	제품/ncn+도/jxc
+
+나오기
+	나/pvg+아/ecx+오/px+기/etn
+
+때문입니다
+	때문/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+목걸이
+	목걸이/ncn
+
+줄을
+	줄/nbn+을/jco
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+목에
+	목/ncn+에/jca
+
+걸
+	거/nbn+ㄹ/jco
+
+수도
+	수/nbn+도/jxc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+(목줄
+	(/sl+목줄/ncn
+
+:
+	:/sp
+
+기본
+	기본/ncn
+
+제공)
+	제공/ncpa+)/sr
+
+
+파워뱅크를
+	파워/ncn+뱅크/ncn+를/jco
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+주로
+	주로/mag
+
+충전하겠지만,
+	충전/ncpa+하/xsva+겠/ep+지만/ecs+,/sp
+
+이렇게
+	이렇/pad+게/ecs
+
+
+차량을
+	차량/ncn+을/jco
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+충전이
+	충전/ncpa+이/jcc
+
+가능하니
+	가능/ncps+하/xsms+니/ecs
+
+충전방식은
+	충전/ncpa+방식/ncn+은/jxc
+
+팔방미인입니다
+	팔방미인/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+젠더입니다
+	젠더입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+갤럭시용
+	갤럭시/ncn+용/ncn
+
+젠더
+	젠더/ncn
+
+.
+	./sf
+
+
+24pin
+	24pin/ncn
+
+잭에
+	잭/ncn+에/jca
+
+젠더를
+	젠더/ncn+를/jco
+
+연결하면,
+	연결/ncpa+하/xsva+면/ecs+,/sp
+
+
+핸드폰
+	핸드폰/ncn
+
+충전도
+	충전/ncpa+도/jxc
+
+가능하답니다
+	가능/ncps+하/xsms+답니다/ef
+
+.
+	./sf
+
+
+아임
+	아/ncn+이/jp+ㅁ/etn
+
+라임라이트
+	라임/ncn+라이트/ncn
+
+LED등은
+	LED/f+등/ncn+은/jxc
+
+주용도는
+	주/ncn+용/xsncc+도/jxc+는/jxc
+
+독서등이지만,
+	독서/ncpa+등/ncn+이지만/jxc+,/sp
+
+
+보행중에
+	보행/ncpa+중/ncn+에/jca
+
+목걸이를
+	목걸이/ncn+를/jco
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+전면부로
+	전면부/ncn+로/jca
+
+불을
+	불/ncn+을/jco
+
+밝힐
+	밝히/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+뿐만
+	뿐/nbn+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+
+돔텐트
+	돔텐트/ncn
+
+상부에
+	상부/ncn+에/jca
+
+걸어두면
+	걷/pvg+어/ecx+두/px+면/ecs
+
+아웃도어용
+	아웃도어/ncn+용/ncn
+
+LED등이
+	LED/f+등/ncn+이/jcc
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+꼭,
+	꼭,/ncn
+
+독서등이
+	독서/ncpa+등/ncn+이/jcc
+
+아니더라도
+	아니/paa+더라도/ecs
+
+차량내부에
+	차량/ncn+내부/ncn+에/jca
+
+비치해두면
+	비치/ncpa+하/xsva+어/ecx+두/px+면/ecs
+
+차량내
+	차량/ncn+내/ncn
+
+보조등으로
+	보조/ncpa+등/ncn+으로/jca
+
+(방전방지)
+	(/sl+방전/ncpa+방지/ncpa+)/sr
+
+
+독서시
+	독서/ncpa+시/ncn
+
+스텐드등으로,
+	스텐드/ncn+등/ncn+으로/jca+,/sp
+
+아웃도어시
+	아웃도어/ncn+시/ncn
+
+보조등으로
+	보조/ncpa+등/ncn+으로/jca
+
+활용도가
+	활용도/ncn+가/jcs
+
+많을
+	많/paa+을/etm
+
+거
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf

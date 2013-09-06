@@ -1,0 +1,695 @@
+우포늪
+	우포늪/ncn
+
+-
+	-/sd
+
+생태공원
+	생태/ncn+공원/ncn
+
+
+우포늪은
+	우포늪/ncn+은/jxc
+
+우리나라
+	우리나라/ncn
+
+최대의
+	최대/ncn+의/jcm
+
+자연늪지이다
+	자연/ncn+늪지/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+흔히
+	흔히/mag
+
+늪
+	늪/ncn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+하면
+	하/pvg+면/ecs
+
+가장
+	가장/mag
+
+규모가
+	규모/ncn+가/jcs
+
+큰
+	크/paa+ㄴ/etm
+
+우포늪뿐만
+	우포늪뿐/ncn+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+목포,
+	목포,/ncn
+
+사지포,
+	사지/ncn+포/ncn+,/sp
+
+쪽지벌
+	쪽지/ncn+벌/ncn
+
+등
+	등/nbu
+
+네개의
+	네/nnc+개/nbu+의/jcm
+
+늪을
+	늪/ncn+을/jco
+
+모두
+	모두/mag
+
+아우른다
+	아우르/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+늪지대는
+	늪지대/ncn+는/jxc
+
+경남
+	경남/ncn
+
+창녕군의
+	창녕군/ncn+의/jcm
+
+유어
+	유/ncn+이/jp+어/ecs
+
+이방
+	이/nnc+방/nbu
+
+대합면
+	대합/ncn+면/ncn
+
+등
+	등/nbu
+
+3개
+	3/nnc+개/nbu
+
+면에
+	면/ncn+에/jca
+
+걸쳐
+	걸치/pvg+어/ecx
+
+있는데,
+	있/px+는데/ecs+,/sp
+
+둘레는
+	둘레/ncn+는/jxc
+
+7.5
+	7.5/nnc
+
+에
+	에/pvg+어/ecx
+
+전체면적은
+	전체면적/ncn+은/jxc
+
+2,314,060m
+	2,314,060m/ncn
+
+에
+	에/pvg+어/ecx
+
+이른다
+	이르/paa+ㄴ다/ef
+
+.
+	./sf
+
+
+이곳에
+	이곳/npd+에/jca
+
+늪지가
+	늪지/ncn+가/jcs
+
+처음
+	처음/mag
+
+형성되기
+	형성/ncpa+되/xsvn+기/etn
+
+시작한
+	시작/ncpa+하/xsva+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+1억
+	1/nnc+억/nnc
+
+4,000만년
+	4,000/nnc+만/nnc+년/nbu
+
+전이라고
+	전/nbn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+공룡시대였던
+	공룡시대/ncn+이/jp+었/ep+던/etm
+
+중생기
+	중생/ncn+기/ncn
+
+백악기
+	백악기/ncn
+
+당시에
+	당시/ncn+에/jca
+
+해수면(
+	해수/ncn+면/xsncc+(/sl
+
+)이
+	)/sr+이/jcc
+
+급격히
+	급격히/mag
+
+상승하고
+	상승/ncpa+하고/jct
+
+낙동강
+	낙동강/ncn
+
+유역의
+	유역/ncn+의/jcm
+
+지반이
+	지반/ncn+이/jcc
+
+내려앉았다
+	내려앉/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+그러자
+	그러자/maj
+
+이
+	이/mmd
+
+일대에서
+	일/nnc+대/nbu+에서/jca
+
+낙동강으로
+	낙동강/ncn+으로/jca
+
+흘러들던
+	흘러들/pvg+던/etm
+
+물이
+	물/ncn+이/jcc
+
+고이게
+	고이/pvg+게/ecs
+
+되면서
+	되/pvg+면서/ecc
+
+곳곳에
+	곳곳/ncn+에/jca
+
+늪지와
+	늪지/ncn+와/jcj
+
+자연호수가
+	자연/ncn+호수/ncn+가/jcs
+
+생겨났고,
+	생기/pvg+어/ecx+나/px+아/ep+고/ecc+,/sp
+
+새로
+	새로/mag
+
+생긴
+	생기/pvg+ㄴ/etm
+
+호수와
+	호수/ncn+와/jcj
+
+늪은
+	늪/ncn+은/jxc
+
+당시
+	당시/ncn
+
+지구의
+	지구/ncn+의/jcm
+
+주인이던
+	주인/ncn+이/jp+던/etm
+
+공룡들의
+	공룡/ncn+들/ncn+의/jcm
+
+놀이터가
+	놀이터/ncn+가/jcs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+현재
+	현재/mag
+
+우포늪
+	우포늪/ncn
+
+인근의
+	인근/ncn+의/jcm
+
+유어면
+	유어/ncn+이/jp+면/ecs
+
+세진리에는
+	세/paa+어/ecx+지/px+ㄴ/etm+리/nbn+에/jca+는/jxc
+
+그
+	그/mmd
+
+당시
+	당시/ncn
+
+것으로
+	것/nbn+으로/jca
+
+추정되는
+	추정/ncpa+되/xsvn+는/etm
+
+공룡발자국화석이
+	공룡/ncn+발자국/ncn+화석/ncn+이/jcc
+
+남아있다
+	남/pvg+아/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+일제시대까지만
+	일제시대/ncn+까지/jxc+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+우포늪
+	우포늪/ncn
+
+주변에는
+	주변/ncn+에/jca+는/jxc
+
+가항늪
+	가항늪/ncn
+
+팔락늪
+	팔락늪/ncn
+
+학암벌
+	학암벌/ncn
+
+등
+	등/nbu
+
+10개의
+	10/nnc+개/nbu+의/jcm
+
+늪이
+	늪/ncn+이/jcc
+
+더
+	더/mag
+
+있었다고
+	있/px+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그러나,
+	그러/pvd+어/ecx+나/px+아/ecs+,/sp
+
+무분별한
+	무분별/ncn+한/ncn
+
+개발과
+	개발/ncn+과/jcj
+
+농경지의
+	농경지/ncn+의/jcm
+
+잠식으로
+	잠식/ncpa+으로/jca
+
+인해
+	인하/pvg+어/ecx
+
+모두
+	모두/mag
+
+사라져
+	사라지/pvg+어/ecx
+
+버렸다
+	버리/px+었/ep+다/ef
+
+.
+	./sf
+
+
+우포늪도
+	우포늪/ncn+도/jxc
+
+한때는
+	하/pvg+ㄴ/etm+때/nbn+는/jxc
+
+커다란
+	커다랗/paa+은/etm
+
+위기에
+	위/ncn+이/jp+기/etn+에/jca
+
+빠졌었다
+	빠지/pvg+었었/ep+다/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+1960년대
+	1960/nnc+년대/nbu
+
+초에
+	초/nbu+에/jca
+
+백조도래지(천연기념물
+	백조도래지(천연기념물/ncn
+
+제15호)로
+	제15호)/ncn+로/jca
+
+지정됐다가
+	지정/ncpa+되/xsvn+었/ep+다가/ecs
+
+급격한
+	급격/ncps+하/xsms+ㄴ/etm
+
+개발로
+	개발/ncn+로/jca
+
+인해,
+	인하/pvg+어/ecs+,/sp
+
+백조
+	백/nnc+조/nbu
+
+수가
+	수/nbn+가/jcc
+
+급감하자
+	급감/ncn+하자/ncn
+
+천연기념물
+	천연기념물/ncn
+
+지정이
+	지정/ncpa+이/jcc
+
+취소된
+	취소/ncpa+되/xsvn+ㄴ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+뒤
+	뒤/ncn
+
+이곳에
+	이곳/npd+에/jca
+
+개발의
+	개발/ncn+의/jcm
+
+광풍이
+	광풍/ncn+이/jcc
+
+거세게
+	거세/ncn+이/jp+게/ecs
+
+불기도
+	불/pvg+기/etn+도/jxc
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+다행히도
+	다행히/mag+도/jxc
+
+오늘날의
+	오늘/ncn+날/ncn+의/jcm
+
+우포늪은
+	우포늪/ncn+은/jxc
+
+나날이
+	나날이/mag
+
+안정을
+	안정/ncpa+을/jco
+
+되찾고
+	되찾/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+생태계
+	생태계/ncn
+
+보호지역
+	보호지역/ncn
+
+(1997년)과
+	(/sl+1997/nnc+년/nbu+)/sr+과/jcj
+
+람사조약
+	람사조약/ncn
+
+에
+	에/pvg+어/ecx
+
+의한
+	의하/pvg+ㄴ/etm
+
+국제보호습지(1998년)로
+	국제보호습지(1998년)/ncn+로/jca
+
+지정된
+	지정/ncpa+되/xsvn+ㄴ/etm
+
+이후로는
+	이후/ncn+로/jca+는/jxc
+
+예전의
+	예전/ncn+의/jcm
+
+생태계가
+	생태계/ncn+가/jcs
+
+빠르게
+	빠르/paa+게/ecs
+
+되살아나고
+	되살/pvg+아/ecx+나/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+현재
+	현재/mag
+
+우포늪
+	우포늪/ncn
+
+일대에는
+	일/nnc+대/nbu+에/jca+는/jxc
+
+430여
+	430/nnc+여/xsnu
+
+종의
+	종/ncn+의/jcm
+
+식물이
+	식물/ncn+이/jcc
+
+분포한다
+	분포/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+우리나라
+	우리나라/ncn
+
+전체
+	전체/ncn
+
+식물종류의
+	식물/ncn+종류/ncn+의/jcm
+
+10%에
+	10/nnc+%/su+에/jca
+
+해당된다
+	해당/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+그중에서
+	그/npp+중/xsnx+에서/jca
+
+수생식물의
+	수생식물/ncn+의/jcm
+
+종류는
+	종류/ncn+는/jxc
+
+우리나라
+	우리나라/ncn
+
+전체의
+	전체/ncn+의/jcm
+
+50~60%를
+	50/nnc+~/sd+60/nnc+%/su+를/jco
+
+차지한다
+	차/pvg+지/ecx+하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이곳의
+	이곳/npd+의/jcm
+
+수생
+	수생/ncn
+
+생태계가
+	생태계/ncn+가/jcs
+
+그만큼
+	그/npp+만큼/jxc
+
+건강하다는
+	건강/ncps+하/xsms+다/ef+는/etm
+
+증표이다
+	증표/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+주변관광지
+	주변/ncn+관광지/ncn
+
+
+우포늪생태관,
+	우포늪생태관,/ncn
+
+창녕
+	창녕/ncn
+
+성리
+	성리/ncn
+
+성씨고가,
+	성씨/ncn+이/jp+고/ecx+가/px+아/ecs+,/sp
+
+창녕
+	창녕/ncn
+
+우포가시언꽃마을,
+	우포가시언꽃마을,/ncn
+
+우포마을(농촌체험)등
+	우포마을/ncn+(/sl+농촌/ncn+체험/ncpa+)/sr+등/nbn
+
+
+관광db
+	관광db/ncn
+
+자세히
+	자세히/mag
+
+보기
+	보기/ncn

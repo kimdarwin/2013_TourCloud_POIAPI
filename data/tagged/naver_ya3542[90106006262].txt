@@ -1,0 +1,2937 @@
+페임(Fame)
+	페임(Fame)/ncn
+
+..
+	./sf+./sf
+
+
+뮤지컬로
+	뮤지컬/ncn+로/jca
+
+더
+	더/mag
+
+유명하지만
+	유명/ncps+하/xsms+지/ecx+말/px+ㄴ/etm
+
+1980년도
+	1980/nnc+년/nbu+도/jxc
+
+세계적인
+	세계/ncn+적/ncn+이/jp+ㄴ/etm
+
+히트를
+	히트/ncpa+를/jco
+
+기록한
+	기록/ncpa+하/xsva+ㄴ/etm
+
+영화
+	영화/ncn
+
+
+아이린
+	아이/ncn+이/jp+리/ep+ㄴ/etm
+
+카라(Irene
+	카라(Irene/ncn
+
+Cara)는
+	Cara/f+)/sr+는/jxc
+
+..
+	./sf+./sf
+
+
+1960년
+	1960/nnc+년/nbu
+
+미국
+	미국/ncn
+
+브롱크스에서태어난
+	브롱크스에서태어난/ncn
+
+혼혈가수이다
+	혼혈/ncpa+가수/ncn+이/jp+다/ef
+
+
+'페임(Fame)
+	'페임(Fame)/ncn
+
+~
+	~/sd
+
+아이린
+	아이/ncn+이/jp+리/ep+ㄴ/etm
+
+카라(Irene
+	카라(Irene/ncn
+
+Cara)
+	Cara/f+)/sr
+
+뮤직비디오(1980년)
+	뮤직비디오/ncn+(/sl+1980/nnc+년/nbu+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc24/2011/02/02/1450/03100223D18E533E05C3393373758C531C4_ya3542_logo.
+	net/blogucc24/2011/02/02/1450/03100223D18E533E05C3393373758C531C4_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'194.
+	'/sr+194./nnc
+
+33';
+	33/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'8BFB16D48FE30665E1030DFA6DEBDBCA80B1';
+	'8BFB16D48FE30665E1030DFA6DEBDBCA80B1/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V125dac9f02451be773cf55bd3cfce229866349efb6a85a82bb22560be6540e93cf8755bd3cfce2298663';
+	'V125dac9f02451be773cf55bd3cfce229866349efb6a85a82bb22560be6540e93cf8755bd3cfce2298663/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_04853
+	ugcPlayer_04853/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_04853'
+	VideoInfraUGCPlayer('ugcPlayer_04853'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_04853
+	ugcPlayer_04853/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+'페임(Fame)
+	'페임(Fame)/ncn
+
+~
+	~/sd
+
+아이린
+	아이/ncn+이/jp+리/ep+ㄴ/etm
+
+카라(Irene
+	카라(Irene/ncn
+
+Cara)
+	Cara/f+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc24/2011/02/02/480/03100223D18E533E05C3D92873DA27831C9_ya3542_logo.
+	net/blogucc24/2011/02/02/480/03100223D18E533E05C3D92873DA27831C9_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'308.
+	'/sr+308./nnc
+
+449';
+	449/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'F0AC8404CD779873AD129FBAC37C07F8CBB8';
+	'F0AC8404CD779873AD129FBAC37C07F8CBB8/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1283afb11bc0a1d3e688a0c15e9a2daed946f8c3c4ddb5ab44985c439e14f72afe6ca0c15e9a2daed946';
+	'V1283afb11bc0a1d3e688a0c15e9a2daed946f8c3c4ddb5ab44985c439e14f72afe6ca0c15e9a2daed946/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_00240
+	ugcPlayer_00240/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_00240'
+	VideoInfraUGCPlayer('ugcPlayer_00240'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_00240
+	ugcPlayer_00240/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+댄서이기도
+	댄서/ncn+이/jp+기/etn+도/jxc
+
+한'아이린
+	한/nnc+'/sr+아이/ncn+이/jp+리/ep+ㄴ/etm
+
+카라'는
+	크/paa+어라/ef+'/sr+는/jxc
+
+연극에서
+	연극/ncn+에서/jca
+
+시작해
+	시작/ncpa+하/xsva+어/ecx
+
+TV와
+	TV/f+와/jct
+
+가수,그리고영화배우로
+	가수,그리고영화배우/ncn+로/jca
+
+활동
+	활동/ncpa
+
+영역을
+	영역/ncn+을/jco
+
+성공적으로
+	성공/ncpa+적/ncn+으로/jca
+
+넓혀간
+	넓히/pvg+어/ecx+가/px+ㄴ/etm
+
+만능
+	만능/ncn
+
+엔터테이너
+	엔터테이너/ncn
+
+이다
+	이/ncn+이/jp+다/ef
+
+
+영화
+	영화/ncn
+
+페임(Fame)
+	페임(Fame)/ncn
+
+중에서
+	중/nbn+에서/jca
+
+"Out
+	"/sl+Out/f
+
+here
+	here/f
+
+on
+	on/f
+
+my
+	my/f
+
+own"~
+	own/f+"/sl+~/sd
+
+Irene
+	Irene/f
+
+cara
+	cara/f
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc24/2011/02/02/1870/03100223D17E533E76C3195D73DB3B23D07_ya3542_logo.
+	net/blogucc24/2011/02/02/1870/03100223D17E533E76C3195D73DB3B23D07_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'208.
+	'/sr+208./nnc
+
+08';
+	08/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'2EB1E73E8984FF97F3102E07CFA975ADA3B9';
+	'2EB1E73E8984FF97F3102E07CFA975ADA3B9/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12692a9d7023467d4b8fdee11d67f75bd088097c378597edb79900925cf3a1a1f000dee11d67f75bd088';
+	'V12692a9d7023467d4b8fdee11d67f75bd088097c378597edb79900925cf3a1a1f000dee11d67f75bd088/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_08734
+	ugcPlayer_08734/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_08734'
+	VideoInfraUGCPlayer('ugcPlayer_08734'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_08734
+	ugcPlayer_08734/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+2009
+	2009/nnc
+
+영화
+	영화/ncn
+
+'페임'
+	'페임'/ncn
+
+..
+	./sf+./sf
+
+
+2009년
+	2009/nnc+년/nbu
+
+MTV의
+	MTV/f+의/jcm
+
+감성으로
+	감성/ncn+으로/jca
+
+1980년
+	1980/nnc+년/nbu
+
+알란
+	알/ncn+란/jcm
+
+파커
+	파커/ncn
+
+감독
+	감독/ncpa
+
+원작을
+	원작/ncn+을/jco
+
+재구성하였다
+	재구성/ncpa+하/xsva+었/ep+다/ef
+
+
+2009년,"페임(fame)"~
+	2009년,"페임(fame)"~/ncn
+
+naturi
+	naturi/f
+
+naughtonqn(나투리
+	naughtonqn(나투리/ncn
+
+노튼)
+	노튼)/ncn
+
+리메이크
+	리메이크/ncn
+
+곡.
+	곡/ncn+./sf
+
+.
+	./sf
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc24/2011/02/02/1917/03100223D17E533E76C3898223504F333C7_ya3542_logo.
+	net/blogucc24/2011/02/02/1917/03100223D17E533E76C3898223504F333C7_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'208.
+	'/sr+208./nnc
+
+039';
+	039/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'95669B7761E1E8A7EA0481E760F310062BC7';
+	'95669B7761E1E8A7EA0481E760F310062BC7/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V127a689c440af7f6df1e4bb787e326d1cc698aae2c7530de919ede6b7f3044ec71e24bb787e326d1cc69';
+	'V127a689c440af7f6df1e4bb787e326d1cc698aae2c7530de919ede6b7f3044ec71e24bb787e326d1cc69/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_05360
+	ugcPlayer_05360/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_05360'
+	VideoInfraUGCPlayer('ugcPlayer_05360'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_05360
+	ugcPlayer_05360/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+I
+	I/f
+
+m
+	m/f
+
+gonna
+	gonna/f
+
+live
+	live/f
+
+forever
+	forever/f
+
+난
+	나/px+ㄴ/etm
+
+영원히
+	영원히/mag
+
+살
+	사/pvg+ㄹ/etm
+
+거야I
+	거야I/ncn
+
+m
+	m/f
+
+gonna
+	gonna/f
+
+learn
+	learn/f
+
+how
+	how/f
+
+to
+	to/f
+
+fly
+	fly/f
+
+하늘로
+	하늘/ncn+로/jca
+
+날아오르는
+	날아오르/ncn+는/jxc
+
+방법도
+	방법/ncn+도/jxc
+
+배우고I
+	배우고I/ncn
+
+feel
+	feel/f
+
+it
+	it/f
+
+coming
+	coming/f
+
+together
+	together/f
+
+성공이
+	성공/ncpa+이/jcc
+
+다가오는
+	다가오/pvg+는/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어People
+	있어People/ncn
+
+will
+	will/f
+
+see
+	see/f
+
+me
+	me/f
+
+and
+	and/f
+
+cry
+	cry/f
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+날보고
+	날/ncn+보고/jca
+
+울음을
+	울/pvg+ㅁ/etn+을/jco
+
+터뜨리겠지I
+	터뜨리겠지I/ncn
+
+m
+	m/f
+
+gonna
+	gonna/f
+
+make
+	make/f
+
+it
+	it/f
+
+to
+	to/f
+
+heaven
+	heaven/f
+
+천국을
+	천국/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+줄
+	주/px+ㄹ/etm
+
+거야Light
+	거야Light/ncn
+
+up
+	up/f
+
+the
+	the/f
+
+sky
+	sky/f
+
+like
+	like/f
+
+a
+	a/f
+
+flame타오르는
+	flame타오르/ncn+는/jxc
+
+불꽃처럼
+	불꽃/ncn+처럼/jca
+
+하늘을
+	하늘/ncn+을/jco
+
+밝힐
+	밝히/pvg+ㄹ/etm
+
+거야I
+	거야I/ncn
+
+m
+	m/f
+
+gonna
+	gonna/f
+
+live
+	live/f
+
+forever
+	forever/f
+
+난
+	나/px+ㄴ/etm
+
+영원히
+	영원히/mag
+
+살
+	사/pvg+ㄹ/etm
+
+거야Baby
+	거야Baby/ncn
+
+remember
+	remember/f
+
+my
+	my/f
+
+name
+	name/f
+
+내
+	내/npp
+
+이름을
+	이름/ncn+을/jco
+
+기억해
+	기억/ncpa+해/ncn
+
+
+영화
+	영화/ncn
+
+페임(fame)
+	페임(fame)/ncn
+
+2009
+	2009/nnc
+
+예고편
+	예고편/ncn
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc24/2011/02/02/1370/03100223D17E533E96C3895F73D967F3B49_ya3542_logo.
+	net/blogucc24/2011/02/02/1370/03100223D17E533E96C3895F73D967F3B49_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'91.
+	'/sr+91./nnc
+
+579';
+	579/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'A0F16372C3CA733B358C4A25FD9C3EBB6659';
+	'A0F16372C3CA733B358C4A25FD9C3EBB6659/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V126e798fe0510226b44657aa820458275cd718992fb460c4b8106a14e7ccaae5ab0757aa820458275cd7';
+	'V126e798fe0510226b44657aa820458275cd718992fb460c4b8106a14e7ccaae5ab0757aa820458275cd7/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_04765
+	ugcPlayer_04765/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_04765'
+	VideoInfraUGCPlayer('ugcPlayer_04765'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_04765
+	ugcPlayer_04765/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+영화
+	영화/ncn
+
+Fame
+	Fame/f
+
+중에서
+	중/nbn+에서/jca
+
+"Out
+	"/sl+Out/f
+
+here
+	here/f
+
+on
+	on/f
+
+my
+	my/f
+
+own"~
+	own/f+"/sl+~/sd
+
+naturi
+	naturi/f
+
+naughtonqn(리메이크
+	naughtonqn/f+(/sl+리메이크/ncn
+
+곡)
+	곡/nbu+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc24/2011/02/02/1951/03100223D17E533E99C3E987732A2FF3544_ya3542_logo.
+	net/blogucc24/2011/02/02/1951/03100223D17E533E99C3E987732A2FF3544_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'200.
+	'/sr+200./nnc
+
+83';
+	83/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'0703A9ACD70D358D60ABF5DB5D9CA19B745C';
+	'0703A9ACD70D358D60ABF5DB5D9CA19B745C/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V125b15f70795b07b84ec62d8a833f82499c8499173709519779af72dac2ad96ee4dc62d8a833f82499c8';
+	'V125b15f70795b07b84ec62d8a833f82499c8499173709519779af72dac2ad96ee4dc62d8a833f82499c8/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_03897
+	ugcPlayer_03897/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_03897'
+	VideoInfraUGCPlayer('ugcPlayer_03897'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_03897
+	ugcPlayer_03897/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+시대적
+	시대/ncn+적/ncn
+
+열악한
+	열악/ncps+하/xsms+ㄴ/etm
+
+차이가
+	차이/ncn+가/jcs
+
+있음에도
+	있/px+음/etn+에/jca+도/jxc
+
+원곡,
+	원곡,/ncn
+
+원작페임(Fame)이살짝
+	원작페임(Fame)이살짝/ncn
+
+더좋아
+	더좋아/ncn
+
+보인다
+	보/nbu+이/jp+ㄴ다/ef
+
+
+2009
+	2009/nnc
+
+영화
+	영화/ncn
+
+"페임(Fame)"
+	"페임(Fame)"/ncn
+
+포스터
+	포스터/ncn
+
+
+케링턴
+	케링턴/ncn
+
+페인(앨리스
+	페인(앨리스/ncn
+
+역)는
+	역/ncn+)/sr+는/jxc
+
+미국
+	미국/ncn
+
+인기
+	인기/ncn
+
+댄스
+	댄스/ncn
+
+서바이벌
+	서바이벌/ncn
+
+프로그램에서
+	프로그램/ncn+에서/jca
+
+Top
+	Top/f
+
+10에
+	10/nnc+에/jca
+
+들었던미모의
+	들었던미모/ncn+의/jcm
+
+댄서다
+	댄서/ncn+이/jp+다/ef
+
+
+제일
+	제일/mag
+
+인상에
+	인상/ncn+에/jca
+
+남는
+	남/pvg+는/etm
+
+'케링턴
+	'케링턴/ncn
+
+페인'의
+	페인'/ncn+의/jcm
+
+춤추는
+	춤추/pvg+는/etm
+
+모습은
+	모습/ncn+은/jxc
+
+정말
+	정말/mag
+
+예술이였다
+	예술/ncn+이/ncn+이/jp+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+출연
+	출연/ncpa
+
+분량이
+	분량/ncn+이/jcc
+
+적어아쉽기는
+	적어아쉽기/ncn+는/jxc
+
+하지만
+	하지만/maj
+
+
+1980년알란
+	1980년알란/ncn
+
+파커
+	파커/ncn
+
+감독
+	감독/ncpa
+
+원작
+	원작/ncn
+
+영화
+	영화/ncn
+
+페임(Fame)
+	페임(Fame)/ncn
+
+포스타
+	포스타/ncn
+
+
+'페임(Fame)
+	'페임(Fame)/ncn
+
+~
+	~/sd
+
+아이린
+	아이/ncn+이/jp+리/ep+ㄴ/etm
+
+카라(Irene
+	카라(Irene/ncn
+
+Cara)
+	Cara/f+)/sr
+
+
+Irene
+	Irene/f
+
+Cara(아이린
+	Cara/f+(/sl+아이/ncn+이/jp+리/ep+ㄴ/etm
+
+카라)는1975년
+	카라)는1975년/ncn
+
+'아론은
+	'아론/ncn+은/jxc
+
+안젤라를
+	안젤라/ncn+를/jco
+
+사랑한다'라는
+	사랑/ncpa+하/xsva+ㄴ다/ef+'/sr+라는/jcm
+
+영화로데뷔하였으며
+	영화로데뷔하/ncn+이/jp+었/ep+으며/ecc
+
+
+5년
+	5/nnc+년/nbu
+
+뒤.
+	뒤/ncn+./sf
+
+.
+	./sf
+
+
+1980년"페임(Fame)"의
+	1980년"페임(Fame)"/ncn+의/jcm
+
+출연으로배우와
+	출연으로배우/ncn+와/jcj
+
+가수로서동시에
+	가수로서동시/ncn+에/jca
+
+명성을
+	명성/ncn+을/jco
+
+가져다
+	가/pvg+아/ecx+지/px+어다/ecs
+
+주었다
+	주/px+었/ep+다/ef
+
+
+영화
+	영화/ncn
+
+"페임(Fame)"은스타의
+	"페임(Fame)"은스타/ncn+의/jcm
+
+꿈을
+	꿈/ncn+을/jco
+
+갖고
+	갖/pvg+고/ecc
+
+뉴욕
+	뉴욕/ncn
+
+예술고등학교에
+	예술고등학교/ncn+에/jca
+
+다니는
+	다니/pvg+는/etm
+
+학생들의
+	학생/ncn+들/ncn+의/jcm
+
+성공과
+	성공/ncpa+과/jcj
+
+좌절을
+	좌절/ncpa+을/jco
+
+그린
+	그리/pvg+ㄴ/etm
+
+뮤지컬
+	뮤지컬/ncn
+
+드라마다
+	드라마/ncn+이/jp+다/ef
+
+
+한번
+	한/nnc+번/nbu
+
+들으면
+	들/pvg+면/ecs
+
+잊혀지지
+	잊히/pvg+어/ecx+지/px+지/ecx
+
+않는
+	않/px+는/etm
+
+주제곡,
+	주제/ncn+곡/ncn+,/sp
+
+획기적인
+	획기적/ncn+이/jp+ㄴ/etm
+
+무대
+	무대/ncn
+
+연출과
+	연출/ncpa+과/jcj
+
+춤,
+	춤/ncn+,/sp
+
+노래,
+	노래/ncn+,/sp
+
+연주
+	연주/ncpa
+
+모든
+	모든/mma
+
+것을
+	것/nbn+을/jco
+
+아우르는
+	아우르/pvg+는/etm
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+볼거리의
+	볼거리/ncn+의/jcm
+
+뮤지컬
+	뮤지컬/ncn
+
+영화
+	영화/ncn
+
+페임이
+	페임/ncn+이/jcc
+
+2009년
+	2009/nnc+년/nbu
+
+젊은
+	젊/paa+은/etm
+
+감성으로
+	감성/ncn+으로/jca
+
+새롭게
+	새롭/paa+게/ecs
+
+재탄생
+	재탄생/ncpa
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+1980년
+	1980/nnc+년/nbu
+
+제작된
+	제작/ncpa+되/xsvn+ㄴ/etm
+
+알란
+	알/ncn+란/jcm
+
+파커
+	파커/ncn
+
+감독의
+	감독/ncpa+의/jcm
+
+페임은
+	페/ncn+이/jp+ㅁ/etn+은/jxc
+
+학생들이
+	학생/ncn+들/ncn+이/jcc
+
+거리의
+	거리/ncn+의/jcm
+
+택시
+	택시/ncn
+
+위에서
+	위/ncn+에서/jca
+
+흥겹게
+	흥겹/paa+게/ecs
+
+춤을
+	춤/ncn+을/jco
+
+추는
+	추/pvg+는/etm
+
+장면과
+	장면/ncn+과/jcj
+
+아이린
+	아이/ncn+이/jp+리/ep+ㄴ/etm
+
+카라의
+	카라/ncn+의/jcm
+
+주제곡이
+	주제/ncn+곡/ncn+이/jcc
+
+선풍적인
+	선풍/ncn+적/ncn+이/jp+ㄴ/etm
+
+인기를
+	인기/ncn+를/jco
+
+모으며
+	모으/pvg+며/ecc
+
+흥행에서도
+	흥행/ncpa+에서/jca+도/jxc
+
+큰
+	크/paa+ㄴ/etm
+
+성공을
+	성공/ncpa+을/jco
+
+거뒀다
+	거두/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+해
+	하/pvg+어/ecx
+
+아카데미
+	아카데미/ncn
+
+시상식에서
+	시상식/ncn+에서/jca
+
+주제가상,
+	주제/ncn+가상/ncpa+,/sp
+
+음악상,
+	음악상/ncn+,/sp
+
+편집상,
+	편집/ncpa+상/xsna+,/sp
+
+각본상,
+	각본상/ncn+,/sp
+
+음향효과상
+	음향효과/ncn+상/ncn
+
+등
+	등/nbu
+
+6개
+	6/nnc+개/nbu
+
+부문에
+	부문/ncn+에/jca
+
+노미네이트
+	노미네이트/ncn
+
+된
+	되/pvg+ㄴ/etm
+
+페임은
+	페/ncn+이/jp+ㅁ/etn+은/jxc
+
+주제가상,
+	주제/ncn+가상/ncpa+,/sp
+
+음악상을
+	음악상/ncn+을/jco
+
+수상한
+	수상/ncpa+하/xsva+ㄴ/etm
+
+데
+	데/nbn
+
+이어
+	이/npd+이/jp+어/ecs
+
+골든글로브
+	골든글로브/ncn
+
+주제가상을
+	주제/ncn+가상/ncn+을/jco
+
+수상하고,
+	수상/ncpa+하고/jct+,/sp
+
+작품상(코미디/뮤지컬
+	작품/ncn+상/xsncc+(/sl+코미디/ncn+//sp+뮤지컬/ncn
+
+부문)에
+	부문/ncn+)/sr+에/jca
+
+노미네이트
+	노미네이트/ncn
+
+되는
+	되/pvg+는/etm
+
+영광을
+	영광/ncn+을/jco
+
+안았다
+	안/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+이후
+	이후/ncn
+
+브로드웨이
+	브로드웨/ncn+이/jcc
+
+뮤지컬로
+	뮤지컬/ncn+로/jca
+
+탄생하여
+	탄생/ncpa+하/xsva+어/ecx
+
+북미,
+	북미,/ncn
+
+일본,
+	일/nnc+본/nbu+,/sp
+
+멕시코,
+	멕시코,/ncn
+
+아르헨티나,
+	아르헨티나,/ncn
+
+헝가리,
+	헝가리,/ncn
+
+폴란드,
+	폴란드,/ncn
+
+네델란드,
+	네델란드,/ncn
+
+영국
+	영국/ncn
+
+등
+	등/nbu
+
+전세계
+	전세계/ncn
+
+25개국에서
+	25개국/ncn+에서/jca
+
+공연되어
+	공연/ncps+되/xsvn+어/ecx
+
+센세이션을
+	센세이션/ncn+을/jco
+
+불러일으켰으며
+	불러일으키/pvg+었/ep+으며/ecc
+
+TV시리즈로
+	TV/f+시리즈/ncn+로/jca
+
+제작되어
+	제작/ncpa+되/xsvn+어/ecx
+
+20년에
+	20/nnc+년/nbu+에/jca
+
+걸쳐
+	걸치/pvg+어/ecx
+
+방송되는
+	방송/ncpa+되/xsvn+는/etm
+
+인기를
+	인기/ncn+를/jco
+
+누렸다
+	누리/pvg+었/ep+다/ef
+
+.
+	./sf

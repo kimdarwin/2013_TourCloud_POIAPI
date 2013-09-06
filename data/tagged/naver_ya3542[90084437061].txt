@@ -1,0 +1,468 @@
+하얀
+	하얗/paa+은/etm
+
+명자꽃
+	명자/ncn+꽃/ncn
+
+잎새
+	잎새/ncn
+
+~
+	~/sd
+
+
+봄날이
+	봄날/ncn+이/jcc
+
+오며는
+	오/px+며/ecs+는/jxc
+
+뭐하노
+	뭐하노/ncn
+
+그~쟈
+	그~쟈/ncn
+
+..
+	./sf+./sf
+
+
+우리는
+	우리/npp+는/jxc
+
+너무멀리
+	너무멀리/ncn
+
+떨어져
+	떨어지/pvg+어/ecx
+
+있는데꽃잎이
+	있는데꽃잎/ncn+이/jcc
+
+피며는
+	피/pvg+며/ecs+는/jxc
+
+뭐하노
+	뭐하노/ncn
+
+그~쟈
+	그~쟈/ncn
+
+..
+	./sf+./sf
+
+
+우리는
+	우리/npp+는/jxc
+
+너무멀리
+	너무멀리/ncn
+
+떨어져
+	떨어지/pvg+어/ecx
+
+있는데그래도
+	있는데그래/ncn+도/jxc
+
+우리맘이
+	우리/ncn+맘/ncn+이/jcc
+
+하나가되어
+	하/pvg+어/ecx+나/px+아/ecx+가/px+아/ecx+되/px+어/ecx
+
+..
+	./sf+./sf
+
+
+암만
+	알/pvg+ㅁ/etn+만/jxc
+
+날이가도
+	날/ncn+이가/jcs+도/jxc
+
+변하지
+	변하/pvg+지/ecx
+
+않으면조금은
+	않으면조금/ncn+은/jxc
+
+외로워도
+	외롭/paa+어도/ecs
+
+괜찮다
+	괜찮/paa+다/ef
+
+그~쟈
+	그~쟈/ncn
+
+..
+	./sf+./sf
+
+
+우리는
+	우리/npp+는/jxc
+
+너무너무
+	너무너무/mag
+
+사랑하니까
+	사랑/ncpa+하/xsva+니까/ecs
+
+
+명자나무
+	명자나무/ncn
+
+..
+	./sf+./sf
+
+
+명자꽃
+	명자/ncn+꽃/ncn
+
+
+찰영
+	찰영/ncn
+
+:
+	:/sp
+
+2010.
+	2010./nnc
+
+04.
+	04./nnc
+
+02(금요일)
+	02/ncn+(/sl+금요일/ncn+)/sr
+
+
+그쟈
+	그쟈/ncn
+
+/
+	//sp
+
+최백호
+	최백호/ncn
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc17/2010/04/04/730/03100223713C536E9BC30956739A33A3445_ya3542_logo.
+	net/blogucc17/2010/04/04/730/03100223713C536E9BC30956739A33A3445_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'157.
+	'/sr+157./nnc
+
+67';
+	67/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'AFF3B739E76E4EC04B91FC31F52EC5BC8B9B';
+	'AFF3B739E76E4EC04B91FC31F52EC5BC8B9B/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12617fe4f016ea6d6864aac54c35c101a7311794166ef2ac44670cc711a66f8e4e6aaac54c35c101a731';
+	'V12617fe4f016ea6d6864aac54c35c101a7311794166ef2ac44670cc711a66f8e4e6aaac54c35c101a731/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_08284
+	ugcPlayer_08284/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_08284'
+	VideoInfraUGCPlayer('ugcPlayer_08284'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_08284
+	ugcPlayer_08284/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+민초호야의
+	민초호야/ncn+의/jcm
+
+렌즈속
+	렌즈/ncn+속/ncn
+
+풍경
+	풍경/ncn

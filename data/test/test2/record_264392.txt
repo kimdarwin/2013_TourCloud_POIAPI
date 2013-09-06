@@ -1,0 +1,35 @@
+Title:
+9/8 분주령 대덕산 트레킹 후기
+
+Date:
+2012.09.09
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(614229,'files/attach/images/64/392/264/8a7b2685ec46ec3f7dae986dc1d7c973.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/0edc469af8d801ae89095b4532a32704.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/a3cf9de15b97368f48ae2c108098ec97.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/1faa2f2b0b0a8c649dfb9d6f9cfc3133.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/3b7b81a932342549bce8fa948741847b.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/a0502c48aa04dd9f595693a7ccc81685.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/d6c473f8e663e8bf70b1c07b8f556e56.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/9ddaa6f7226d072efc4138bf5dc1beda.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/2b55d74d44a1b2c3fd179e22fdaea638.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/302493a7a5c3dbe3e6db2311c8301470.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/eea1ed5c03a667da60b2668aa4a347cf.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/520226c446b5a00cff28b5d96430916d.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/8805cf96d9d7d14d925ee0fae71e4f50.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/f32236a46b097bc1483e74ceae8bd1b8.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/16515ab1072dbce7df6e57da98697493.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/96eb94c9dede9a442ca4213dfe471f03.jpg');
+list_gallery_add_image(614229,'files/attach/images/64/392/264/671cc324a0c190b62a11aa7f399c7f42.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+2012년 9월 8일 (토)아름다운 여행으로 태백 분주령에 다녀왔습니다.하루하루 다르게 바뀌는 기상예보로 태백지역에는적지 않은 비가 내린다고 하더군요. 금요일 늦은 밤부터 시작된 비는 밤새 많이도 내렸습니다. 다행히 태백으로 출발하는 이른 아침부터는 비도 말끔히 그치고 간간히 햇살까지 비추기도 했습니다. 
+바람이 좀 거칠게 많이 불긴 했지만 비가 그쳤다는 것만으로도 가벼운 마음일수 있었습니다.
+분주령 걷기의 출발점인 두문동재에 도착하자 스산한 가을 바람과 함께 하늘에 드문드문 구름들이 떠다니더군요.비만 오지 말아 주었으면 하는 간절한 마음으로 걷기를 시작했습니다.지난밤 많은 비가 내렸음에도 불구하고 초입부터 야생화들이 당당한 모습으로 줄지어 피어 있었습니다.투구를 닮았다 하여 이름 붙여진 보랏빛 투구꽃이 길가 양 옆에서 우리 일행을 환영한다는 듯 촉촉하게 바람에 흔들리고 있었습니다. 그 모양이 하나하나 꼭 보랏빛 나비가 춤추며 앉아있는 듯 하더군요.흙 길이 끈적끈적 많이도 질척거려 미끄럽고 걷기에 다소 힘이 들긴 했지만 숲 속으로 깊이 들어가면 갈수록 깊은 숲 내음과 땅 냄새를 맡을 수 있었습니다.숲길을 한참 걷다가 우연치 않게 몇몇 분들과 겁에 질린 듯 한껏 웅크린 고슴도치를 만났습니다.동물원에서만 보았지 실제로는 처음 가까이서 보는 것이라 참 신기하더군요.
+미끄러운 하산길이 염려스럽긴 했지만 조심스레 대덕산 정상에도 올랐습니다. 오르막 반쯤에 만나는 넓은 벌판에는 억새와 벌개미취들이 피어나 가을분위기가 한층 나더군요. 
+정상 가까이에 도착할 즈음에는 갑자기 하늘이 환해지면서 흐리던 날씨가 환한 햇살까지 비추어 멋진 하늘과 구름, 그리고 산 능선들도 또렷하게 볼 수 있었습니다. 정상의 좋은 전망은 전혀 기대를 안하고 간 걸음이라 그런지 갑작스레 펼쳐진 그림 같은 풍경에 큰 선물을 받은 듯 한 기분이었습니다.멋진 정상의 풍경을 뒤로 하고 내려오는 길은 예상만큼이나 미끄럽고 걷기가 좀 힘들더군요. 까딱 잘 못하면 진흙바닥에 엉덩방아를 찧을 수 있어 온 몸에 힘을 주고 내려오는 길이 여간 힘들지 않았습니다. 검룡소에 도착할 즈음에는 비가 조금씩 내리더군요. 그간 내린 비로 검룡소의 물줄기는 힘차다 못해 거세기까지 하였습니다.
+길이 많이 미끄러워 대덕산 오르는 것을 많이 염려했지만 꽤 많은분들이 정상까지 다녀오셨더군요. 미끄러운 길에 가파른 오르막 내리막 다니시기가 쉽지 않았을 텐데 모두들 잘 다녀오셔서 참 다행이었습니다.비가 온 뒤라 야생화들이 상태가 썩 좋지는 않았지만 제 걱정보다는 많고 다양한 꽃들이 남아 있더군요. 지금 분주령 길에는 물방울을 한껏 머금은 보랏빛의 투구꽃, 진범, 색색의 물봉선이, 각시취등 그 외 많은 꽃들이 한창 피어나고 있습니다.
+오며 가며 창 밖으로 누렇게 익어가는 벼들이 보이더군요. 끝나지 않을듯한 더위도 지나고 쏟아 붓는 폭우도 잘 견뎌낸 모든 자연은 가을로 성큼 다가선 듯 합니다.함께 하신 모든 회원 분들 여행의 피로 말끔히 풀어내시고 깊어가는 가을 더욱 건강하고 행복하시길 바라겠습니다.
+이 게시물을...

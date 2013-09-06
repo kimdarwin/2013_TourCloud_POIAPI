@@ -1,0 +1,933 @@
+[울릉도맛집/태양식당]
+	[울릉도맛집/ncn+//sp+태양/ncn+식당/ncn+]/sr
+
+
+울릉도
+	울릉/ncn+도/jxc
+
+별미/따개비칼국수와
+	별미/따개비칼국수/ncn+와/jcj
+
+오삼불고기
+	오삼불고/ncn+이/jp+기/etn
+
+
+울릉도에서
+	울릉도/ncn+에서/jca
+
+꼭
+	꼭/mag
+
+먹어야할
+	먹/pvg+어야/ecx+하/px+ㄹ/etm
+
+울릉도
+	울릉/ncn+도/jxc
+
+별미
+	별미/ncn
+
+중에는
+	중/nbn+에/jca+는/jxc
+
+따개비칼국수와
+	따개비칼국수/ncn+와/jcj
+
+오삼불고기가
+	오삼불고/ncn+이/jp+기/etn+가/jcs
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+오삼불고기는
+	오삼불고기/ncn+는/jxc
+
+육지에서도
+	육지/ncn+에서/jca+도/jxc
+
+흔히
+	흔히/mag
+
+접할
+	접하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+음식이긴
+	음식이긴/ncn
+
+하지만
+	하지만/maj
+
+울릉도산
+	울릉도산/ncn
+
+오징어가
+	오징어/ncn+가/jcs
+
+들어간
+	들/pvg+어/ecx+가/px+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+조금
+	조금/mag
+
+색다르다고
+	색다르/paa+다/ef+고/jcr
+
+하겠습니다
+	하/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+내수전
+	내수/ncn+전/ncn
+
+전망대,
+	전망대/ncn+,/sp
+
+석포옛길
+	석포/ncn+옛길/ncn
+
+트래킹과
+	트래킹/ncn+과/jcj
+
+석포
+	석포/ncn
+
+전망대에서
+	전망대/ncn+에서/jca
+
+울릉도의
+	울릉도/ncn+의/jcm
+
+비경을
+	비경/ncn+을/jco
+
+보고
+	보/px+고/ecc
+
+남양쪽으로
+	남양쪽/ncn+으로/jca
+
+빠지면
+	빠지/pvg+면/ecs
+
+이곳
+	이곳/npd
+
+태양식당을
+	태양/ncn+식당/ncn+을/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+울릉도
+	울릉/ncn+도/jxc
+
+호박과
+	호박/ncn+과/jcj
+
+미역이
+	미역/ncn+이/jcc
+
+거짓말
+	거짓말/ncpa
+
+조금
+	조금/mag
+
+보태
+	보태/pvg+어/ecx
+
+세수대야만한
+	세수대야만한/ncn
+
+큰
+	크/paa+ㄴ/etm
+
+대접에
+	대접/ncn+에/jca
+
+한
+	하/pvg+ㄴ/etm
+
+가득이니
+	가득/ncps+이/jp+니/ecs
+
+칼국수
+	칼국수/ncn
+
+먹고
+	먹/pvg+고/ecc
+
+무슨
+	무슨/mmd
+
+힘을
+	힘/ncn+을/jco
+
+내겠어
+	내/npp+이/jp+겠/ep+어/ecs
+
+...
+	.../se
+
+
+하며
+	하/pvg+며/ecc
+
+투덜대려던
+	투덜대려/ncn+이/jp+던/etm
+
+마음은
+	마음/ncn+은/jxc
+
+금새
+	금새/ncn
+
+사라진답니다
+	사라지/pvg+ㄴ답니다/ef
+
+.
+	./sf
+
+
+요즘
+	요즘/mag
+
+따개비가
+	따개비/ncn+가/jcs
+
+많이
+	많/paa+이/xsa
+
+안잡힌다고
+	안잡힌다/ncn+이/jp+고/ecc
+
+하는군요,
+	하/pvg+는군요/ef+,/sp
+
+
+그래서
+	그래서/maj
+
+따개비칼국수의
+	따개비칼국수/ncn+의/jcm
+
+값도
+	값/ncn+도/jxc
+
+조금
+	조금/mag
+
+인상되었다고
+	인상/ncn+되/xsvn+었/ep+다/ef+고/jcr
+
+하구요,
+	하구/ncn+요/ncn+,/sp
+
+
+칼국수
+	칼국수/ncn
+
+내의
+	내/npp+의/jcm
+
+따개비도
+	따개비/ncn+도/jxc
+
+아주
+	아주/mag
+
+많은
+	많/paa+은/etm
+
+양은
+	양/ncn+은/jxc
+
+아니었지만
+	아니/paa+었/ep+지만/ecs
+
+울릉도에서만
+	울릉도에서/ncn+만/jxc
+
+맛볼
+	맛보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+따개비인만큼
+	따개비인만큼/ncn
+
+아주
+	아주/mag
+
+귀한
+	귀하/paa+ㄴ/etm
+
+몸값을
+	몸값/ncn+을/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+따개비칼국수가
+	따개비칼국수/ncn+가/jcs
+
+되겠습니다
+	되/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+잘
+	잘/mag
+
+못찾아서
+	못찾아/ncn+서/jca
+
+그렇지
+	그렇/pad+지/ecx
+
+따개비는
+	따개비/ncn+는/jxc
+
+대개
+	대개/mag
+
+아래쪽에
+	아래쪽/ncn+에/jca
+
+있었고
+	있/px+었/ep+고/ecc
+
+사진보다
+	사진/ncn+보다/jca
+
+더
+	더/mag
+
+몸집을
+	몸집/ncn+을/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+따개비
+	따개비/ncn
+
+녀석들도
+	녀석/ncn+들/ncn+도/jxc
+
+많았답니다
+	많/paa+아/ep+답니다/ef
+
+.
+	./sf
+
+
+따개비칼국수는
+	따개비칼국수/ncn+는/jxc
+
+일반
+	일반/ncn
+
+칼국수를
+	칼국수/ncn+를/jco
+
+먹는
+	먹/pvg+는/etm
+
+방법과
+	방법/ncn+과/jct
+
+크게
+	크/paa+게/ecs
+
+다르지
+	다르/paa+지/ecx
+
+않아
+	않/px+아/ecx
+
+잘게
+	잘/paa+게/ecs
+
+썬
+	썰/pvg+ㄴ/etm
+
+고추와
+	고추/ncn+와/jcj
+
+양념장을
+	양념장/ncn+을/jco
+
+조금
+	조금/mag
+
+넣거나
+	넣/pvg+거나/ecc
+
+
+김치를
+	김치/ncn+를/jco
+
+척
+	척/mag
+
+얹어서
+	얹/pvg+어서/ecs
+
+먹는
+	먹/pvg+는/etm
+
+것인데요~~
+	것인데요/ncn+~/sd+~/sd
+
+
+칼국수에는
+	칼국수/ncn+에/jca+는/jxc
+
+역시
+	역시/mag
+
+신김치보다는
+	신/xp+김치/ncn+보다/jca+는/jxc
+
+겉절이가
+	겉절이/ncn+가/jcs
+
+가장
+	가장/mag
+
+제격입니다
+	제격/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+귀한
+	귀하/paa+ㄴ/etm
+
+몸값이라고
+	몸값/ncn+이/jp+라/ef+고/jcr
+
+하면
+	하/pvg+면/ecs
+
+절대
+	절대/mag
+
+뒤지지
+	뒤지/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+울릉도
+	울릉/ncn+도/jxc
+
+삼나물이
+	삼나물/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+말린
+	말리/pvg+ㄴ/etm
+
+삼나물
+	삼나물/ncn
+
+400g이
+	400g/ncn+이/jcc
+
+25,000원이라고
+	25,000/nnc+원/nbu+이/jp+라/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+울릉도에
+	울릉도/ncn+에/jca
+
+오면
+	오/px+면/ecs
+
+그
+	그/mmd
+
+귀하신
+	귀하/paa+시/ep+ㄴ/etm
+
+삼나물을
+	삼나물/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+먹어야겠습니다
+	먹/pvg+어야겠/ep+습니다/ef
+
+.
+	./sf
+
+
+태양식당의
+	태양/ncn+식당/ncn+의/jcm
+
+바깥풍경은
+	바깥/ncn+풍경/ncn+은/jxc
+
+울릉도
+	울릉도/ncn
+
+어디서나
+	어디/npd+서/jca+나/jxc
+
+보는
+	보/px+는/etm
+
+풍경이지만
+	풍경/ncn+이/jp+지만/ecs
+
+이곳에서도
+	이곳/npd+에서/jca+도/jxc
+
+오징어
+	오징어/ncn
+
+말리는
+	말/px+ㄹ/etm+리/nbn+는/jxc
+
+풍경이
+	풍경/ncn+이/jcc
+
+연출됩니다
+	연출/ncpa+되/xsvn+ㅂ니다/ef
+
+.
+	./sf
+
+
+부부가
+	부부/ncn+가/jcs
+
+나란히
+	나란히/mag
+
+오징어를
+	오징어/ncn+를/jco
+
+널고
+	널/pvg+고/ecc
+
+있었는데요,
+	있/paa+었/ep+는데요/ef+,/sp
+
+
+부디
+	부디/mag
+
+맛있는
+	맛있/paa+는/etm
+
+울릉도산
+	울릉도산/ncn
+
+오징어로
+	오징어/ncn+로/jca
+
+거듭나
+	거듭/mag+나/jxc
+
+대박나시길
+	대박/ncn+나시/ncn+길/ncn
+
+바래봅니다~~
+	바래/pvg+어/ecx+보/px+ㅂ니다/ef+~/sd+~/sd
+
+!!
+	!/sf+!/sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+저녁이
+	저녁/ncn+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+이곳을
+	이곳/npd+을/jco
+
+다시
+	다시/mag
+
+찾게
+	찾/pvg+게/ecs
+
+되었습니다
+	되/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+울릉도산
+	울릉도산/ncn
+
+오징어와
+	오징어/ncn+와/jcj
+
+삼겹살이
+	삼겹살/ncn+이/jcc
+
+만나
+	만나/pvg+아/ecx
+
+오삼불고기를
+	오삼불고/ncn+이/jp+기/etn+를/jco
+
+먹기
+	먹/pvg+기/etn
+
+위해서였죠~~
+	위해/ncn+서/jca+이/jp+었/ep+죠/ef+~/sd+~/sd
+
+
+곁들임국은
+	곁들임국/ncn+은/jxc
+
+미역국인데요,
+	미역국인데요/ncn+,/sp
+
+
+홍합밥을
+	홍합/ncn+밥/ncn+을/jco
+
+먹을때
+	먹/pvg+을/etm+때/nbn
+
+황태(or
+	황태(or/ncn
+
+북어)가
+	북어/ncn+)/sr+가/jcc
+
+들어간
+	들/pvg+어/ecx+가/px+ㄴ/etm
+
+것을
+	것/nbn+을/jco
+
+보았는데
+	보/px+아/ep+ㄴ데/ecs
+
+이번에는
+	이/nnc+번/nbu+에/jca+는/jxc
+
+홍합과
+	홍합/ncn+과/jcj
+
+새우가
+	새우/ncn+가/jcs
+
+들어간
+	들/pvg+어/ecx+가/px+ㄴ/etm
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+미역국입니다
+	미역국/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+저도
+	저/npp+도/jxc
+
+집에서
+	집/ncn+에서/jca
+
+소고기
+	소고/ncn+이/jp+기/etn
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+새우나
+	새우/pvg+나/ecs
+
+홍합을
+	홍합/ncn+을/jco
+
+넣어서
+	넣/pvg+어서/ecs
+
+끓여봐야겠어요~~
+	끓이/pvg+어/ecx+보/px+아/ep+아/ef+~/sd+~/sd
+
+
+울릉도에서
+	울릉도/ncn+에서/jca
+
+갓잡은
+	갓잡/ncn+은/jxc
+
+오징어이니
+	오징어/ncn+이/jp+니/ecs
+
+그
+	그/mmd
+
+맛이야
+	맛/ncn+이야/jxc
+
+뭍에서
+	뭍/ncn+에서/jca
+
+먹던
+	먹/pvg+던/etm
+
+것과는
+	것/nbn+과/jct+는/jxc
+
+그
+	그/mmd
+
+부드러움과
+	부드럽/paa+음/etn+과/jcj
+
+쫄깃함은
+	쫄깃함/ncn+은/jxc
+
+두말하면
+	두말/ncpa+하/xsva+면/ecs
+
+잔소리구요,
+	잔소리구요/ncn+,/sp
+
+
+그냥
+	그냥/mag
+
+먹어도
+	먹/pvg+어도/ecs
+
+맛있는
+	맛있/paa+는/etm
+
+오삼불고기는
+	오삼불고기/ncn+는/jxc
+
+그
+	그/mmd
+
+귀한
+	귀하/paa+ㄴ/etm
+
+쌈채소와
+	쌈채소/ncn+와/jct
+
+함께
+	함께/mag
+
+먹어도
+	먹/pvg+어도/ecs
+
+좋겠지요~
+	좋/paa+겠/ep+지요/ef+~/sd
+
+
+울릉도에
+	울릉도/ncn+에/jca
+
+왔으니까
+	오/px+아/ep+니까/ecs
+
+황제나물
+	황제/ncn+나물/ncn
+
+명이에
+	명이/ncn+에/jca
+
+싸서
+	쓰/pvg+어서/ecs
+
+먹는
+	먹/pvg+는/etm
+
+것도
+	것/nbn+도/jxc
+
+빠뜨릴
+	빠뜨리/pvg+ㄹ/etm
+
+수는
+	수/nbn+는/jxc
+
+없을
+	없/paa+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+오삼불고기를
+	오삼불고/ncn+이/jp+기/etn+를/jco
+
+어느
+	어느/mmd
+
+정도
+	정도/ncn
+
+먹고
+	먹/pvg+고/ecc
+
+난
+	나/px+ㄴ/etm
+
+후에는
+	후/ncn+에/jca+는/jxc
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+양념과
+	양념/ncn+과/jct
+
+함께
+	함께/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+비벼
+	비비/pvg+어/ecx
+
+먹어도
+	먹/pvg+어도/ecs
+
+되구요,
+	되구요/ncn+,/sp
+
+
+볶아
+	볶/pvg+아/ecx
+
+먹으면
+	먹/pvg+으면/ecs
+
+더
+	더/mag
+
+맛있겠죠~~
+	맛있/paa+겠/ep+죠/ef+~/sd+~/sd
+
+
+태양식당/054-791-5617
+	태양/ncn+식당/ncn+//sp+054/nnc+-791/nnc+-5617/nnc
+
+
+경북
+	경북/ncn
+
+울릉군
+	울릉군/ncn
+
+서면
+	서/pvg+면/ecs
+
+남양1리
+	남양1리/ncn
+
+619-3번지
+	619-3번지/ncn
+
+
+2010.
+	2010./nnc
+
+11.
+	11./nnc
+
+24|지도
+	24|지/ncn+도/jxc
+
+크게
+	크/paa+게/ecs
+
+보기NHN
+	보기NHN/ncn
+
+Corp.
+	Corp/f+./sf
+
+
+쟈스민의
+	쟈스민/ncn+의/jcm
+
+사진여행많이
+	사진여행많/ncn+이/jcc
+
+구독해주세요~~
+	구독/ncpa+하/xsva+어/ecx+주/px+세/ef+요/jxf+~/sd+~/sd
+
+!!
+	!/sf+!/sf

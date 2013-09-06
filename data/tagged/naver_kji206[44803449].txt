@@ -1,0 +1,496 @@
+식물명
+	식물/ncn+명/ncn
+
+:
+	:/sp
+
+금목서단계목
+	금목서단계목/ncn
+
+
+학명
+	학명/ncn
+
+:
+	:/sp
+
+Osmanthus
+	Osmanthus/f
+
+fragrans
+	fragrans/f
+
+var.
+	var/f+./sy
+
+aurantiacus
+	aurantiacus/f
+
+Makino
+	Makino/f
+
+
+분류군
+	분류/ncpa+이/jp+군/ef
+
+:
+	:/sp
+
+용담목
+	용담목/ncn
+
+물푸레나무과
+	물푸레나무/ncn+과/jcj
+
+
+개화기
+	개화기/ncn
+
+:
+	:/sp
+
+9~10월
+	9/nnc+~/sd+10/nnc+월/nbu
+
+
+잎
+	잎/ncn
+
+:
+	:/sp
+
+잎은
+	잎/ncn+은/jxc
+
+대생하며
+	대생하/ncn+이/jp+며/ecc
+
+긴
+	길/paa+ㄴ/etm
+
+타원형
+	타원형/ncn
+
+또는
+	또는/maj
+
+긴
+	길/paa+ㄴ/etm
+
+타원상
+	타원/ncn+상/ncn
+
+넓은
+	넓/paa+은/etm
+
+피침형이고
+	피침형/ncn+이/jp+고/ecc
+
+예첨두
+	예첨두/ncn
+
+예저이며
+	예저/ncn+이/jp+며/ecc
+
+길이
+	길/ncn+이/jcc
+
+7-12cm,
+	7-12cm,/ncn
+
+폭
+	폭/nbu
+
+2.
+	2./nnc
+
+5-4cm로서
+	5-4cm로서/ncn
+
+가장자리에
+	가장/ncn+자리/ncn+에/jca
+
+잔톱니가
+	잔톱니/ncn+가/jcs
+
+있거나
+	있/px+거나/ecc
+
+거의
+	거의/mag
+
+밋밋하고
+	밋밋하/paa+어/ef+고/jcr
+
+표면은
+	표면/ncn+은/jxc
+
+짙은
+	짙/paa+은/etm
+
+녹색이며
+	녹색/ncn+이/jp+며/ecc
+
+중륵이
+	중륵/ncn+이/jcc
+
+요입(
+	요입(/ncn
+
+)되고
+	)/sr+되/nbu+이/jp+고/ecc
+
+털이
+	털/ncn+이/jcc
+
+없으며
+	없/paa+으며/ecc
+
+뒷면은
+	뒷면/ncn+은/jxc
+
+연한
+	열/pvg+ㄴ/etm+한/nbn
+
+녹색이고
+	녹색/ncn+이/jp+고/ecc
+
+측맥이
+	측맥/ncn+이/jcc
+
+어느
+	어느/mmd
+
+정도
+	정도/ncn
+
+뚜렷하게
+	뚜렷/ncps+하/xsms+게/ecs
+
+도드라지며
+	도드라지/pvg+며/ecc
+
+엽병은
+	엽병/ncn+은/jxc
+
+길이
+	길/ncn+이/jcc
+
+7-15mm이다
+	7-15mm/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+열매
+	열/nnc+매/nbu
+
+:
+	:/sp
+
+꽃이
+	꽃/ncn+이/jcc
+
+질
+	지/px+ㄹ/etm
+
+때
+	때/ncn
+
+쯤이면
+	쯤/ncn+이/jp+면/ecs
+
+초록색
+	초록색/ncn
+
+콩만한
+	콩만한/ncn
+
+열매가
+	열매/ncn+가/jcs
+
+맺힌다
+	맺히/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+다다닥
+	다다/ncn+닥/ncn
+
+가지에
+	가지/nbu+에/jca
+
+붙은
+	붙/pvg+은/etm
+
+아름다운
+	아름답/paa+은/etm
+
+열매가
+	열매/ncn+가/jcs
+
+겨울을
+	겨울/ncn+을/jco
+
+나고
+	나/px+고/ecc
+
+다음해
+	다음해/ncn
+
+여름
+	여름/ncn
+
+가을을
+	가을/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+다시
+	다시/mag
+
+서리가
+	서리/ncpa+가/jcc
+
+내리고
+	내리/pvg+고/ecc
+
+꽃이
+	꽃/ncn+이/jcc
+
+필
+	피/pvg+ㄹ/etm
+
+때쯤
+	때쯤/ncn
+
+열매가
+	열매/ncn+가/jcs
+
+익는다
+	익/pvg+는다/ef
+
+.
+	./sf
+
+
+꽃
+	꽃/ncn
+
+:
+	:/sp
+
+꽃은
+	꽃/ncn+은/jxc
+
+이가화이고
+	이가화/ncn+이/jp+고/ecc
+
+지름
+	지르/pvg+ㅁ/etn
+
+5mm정도로서
+	5mm정도로서/ncn
+
+9-10월에
+	9/nnc+-10/nnc+월/nbu+에/jca
+
+산형화서로
+	산형화서/ncn+로/jca
+
+액생하며
+	액생하/ncn+이/jp+며/ecc
+
+두터운
+	두텁/paa+은/etm
+
+육질화로
+	육질화/ncn+로/jca
+
+짙은
+	짙/paa+은/etm
+
+향기가
+	향기/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+꽃은
+	꽃/ncn+은/jxc
+
+등황색이며
+	등황색/ncn+이/jp+며/ecc
+
+길이
+	길/ncn+이/jcc
+
+7-10mm의
+	7-10mm/ncn+의/jcm
+
+소화경이
+	소화/ncn+경/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+꽃받침은
+	꽃받침/ncn+은/jxc
+
+녹색이며
+	녹색/ncn+이/jp+며/ecc
+
+4개로
+	4/nnc+개/nbu+로/jca
+
+갈라지고
+	가르/pvg+아/ecx+지/px+고/ecc
+
+화관도
+	화관/ncn+도/jxc
+
+4개로
+	4/nnc+개/nbu+로/jca
+
+갈라지며
+	가르/pvg+아/ecx+지/px+며/ecc
+
+열편은
+	열/nnc+편/nbu+은/jxc
+
+타원형
+	타원형/ncn
+
+원두이고
+	원두/ncn+이/jp+고/ecc
+
+2개의
+	2/nnc+개/nbu+의/jcm
+
+수술과
+	수술/ncn+과/jcj
+
+1개의
+	1/nnc+개/nbu+의/jcm
+
+암술이
+	암술/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+줄기
+	줄/pvg+기/etn
+
+:
+	:/sp
+
+가지에
+	가지/nbu+에/jca
+
+털이
+	털/ncn+이/jcc
+
+없고
+	없/paa+고/ecc
+
+연한
+	열/pvg+ㄴ/etm+한/nbn
+
+회갈색이다
+	회갈색/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+원산지
+	원산지/ncn
+
+:
+	:/sp
+
+중국
+	중국/ncn
+
+원산
+	원산/ncn
+
+.
+	./sf
+
+
+분포
+	분포/ncpa
+
+:
+	:/sp
+
+경남,
+	경남,/ncn
+
+전남지역의
+	전남지역/ncn+의/jcm
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+곳에
+	곳/nbn+에/jca
+
+식재하고
+	식재/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+형태
+	형태/ncn
+
+:
+	:/sp
+
+상록활엽관목
+	상록활엽관목/ncn
+
+.
+	./sf
+
+
+크기
+	크/paa+기/etn
+
+:
+	:/sp
+
+높이
+	높이/mag
+
+3~4m
+	3~4m/ncn
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf

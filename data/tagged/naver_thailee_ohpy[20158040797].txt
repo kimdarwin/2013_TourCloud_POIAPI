@@ -1,0 +1,1562 @@
+[
+	[/sl
+
+하동여행
+	하동여행/ncn
+
+/
+	//sp
+
+최참판댁
+	최참판댁/ncn
+
+]
+	]/sr
+
+경남하동
+	경남하동/ncn
+
+최참판댁
+	최참판댁/ncn
+
+-
+	-/sd
+
+박경리
+	박경리/ncn
+
+토지
+	토지/ncn
+
+촬영지
+	촬영지/ncn
+
+
+봄비가
+	봄비/ncn+가/jcs
+
+여름
+	여름/ncn
+
+비처럼
+	비/ncn+처럼/jca
+
+겁나게
+	겁나/pvg+게/ecs
+
+퍼
+	푸/pvg+어/ecx
+
+붙는다
+	붙/pvg+는다/ef
+
+..
+	./sf+./sf
+
+
+차
+	차/ncn
+
+안에서
+	안/ncn+에서/jca
+
+무쟈게
+	무쟈/ncn+이/jp+게/ecs
+
+망설인다
+	망설이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+내려~~~
+	내리/pvg+어/ecs+~/sd+~/sd+~/sd
+
+말아~~~
+	말/pvg+아/ecs+~/sd+~/sd+~/sd
+
+
+여행을
+	여행/ncpa+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+비가
+	비/ncn+가/jcs
+
+오면
+	오/px+면/ecs
+
+기운이
+	기운/ncn+이/jcc
+
+팍팍
+	팍팍/mag
+
+빠진다
+	빠지/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+하동여행
+	하동여행/ncn
+
+하는
+	하/pvg+는/etm
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+비가~~~~
+	비가/ncn+~/sd+~/sd+~/sd+~/sd
+
+
+유채꽃이
+	유채/ncn+꽃/ncn+이/jcc
+
+아름답게
+	아름답/paa+게/ecs
+
+피었다고
+	피/ncn+이/jp+었/ep+다/ef+고/jcr
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+
+한손에는
+	한/nnc+손/nbu+에/jca+는/jxc
+
+우산을,
+	우산/ncn+을/jco+,/sp
+
+한
+	하/pvg+ㄴ/etm
+
+손에는
+	손/ncn+에/jca+는/jxc
+
+카메라를
+	카메라/ncn+를/jco
+
+들고
+	들/pvg+고/ecc
+
+박경리
+	박경리/ncn
+
+대하소설
+	대하소설/ncn
+
+토지의
+	토지/ncn+의/jcm
+
+주인공인
+	주인공/ncn+이/jp+ㄴ/etm
+
+서희와
+	서희/ncn+와/jcj
+
+길상의
+	길상/ncn+의/jcm
+
+어린시절의
+	어린/ncn+시절/ncn+의/jcm
+
+배경이
+	배경/ncn+이/jcc
+
+되는
+	되/pvg+는/etm
+
+
+영남의
+	영남/ncn+의/jcm
+
+대지주
+	대지주/ncr
+
+최참판댁은
+	최참판댁/ncn+은/jxc
+
+섬진강이
+	섬진강/ncn+이/jcc
+
+감싸는
+	감싸/pvg+는/etm
+
+하동
+	하동/ncn
+
+평사리의
+	평사리/ncn+의/jcm
+
+전형적인
+	전형/ncn+적/ncn+이/jp+ㄴ/etm
+
+농촌마을을
+	농촌마을/ncn+을/jco
+
+찾는다
+	찾/pvg+는다/ef
+
+
+지리산
+	지리/ncn+산/ncn
+
+거대한
+	거대/ncps+하/xsms+ㄴ/etm
+
+능선이
+	능선/ncn+이/jcc
+
+남으로
+	나/pvg+ㅁ/etn+으로/jca
+
+가지를
+	가지/nbu+를/jco
+
+친
+	치/pvg+ㄴ/etm
+
+남부능선의
+	남부/ncn+능선/ncn+의/jcm
+
+대미에
+	대미/ncn+에/jca
+
+해당되는
+	해당/ncpa+되/xsvn+는/etm
+
+성제봉
+	성제/ncn+봉/ncn
+
+아래
+	아래/ncn
+
+넓은
+	넓/paa+은/etm
+
+평야지대가
+	평야지대/ncn+가/jcs
+
+펼쳐진다
+	펼치/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+대하소설
+	대하소설/ncn
+
+
+토지
+	토지/ncn
+
+의
+	의/ncn
+
+무대로
+	무대/ncn+로/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+악양
+	악양/ncn
+
+평사리는
+	평사리/ncn+는/jxc
+
+섬진강이
+	섬진강/ncn+이/jcc
+
+주는
+	주/px+는/etm
+
+혜택을
+	혜택/ncn+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+몸에
+	몸/ncn+에/jca
+
+받은
+	받/pvg+은/etm
+
+땅이다
+	땅/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+평사리가
+	평사리/ncn+가/jcs
+
+위치한
+	위치/ncn+한/ncn
+
+지명인
+	지명/ncpa+이/jp+ㄴ/etm
+
+악양은
+	악양/ncn+은/jxc
+
+
+중국의
+	중국/ncn+의/jcm
+
+악양과
+	악양/ncn+과/jct
+
+닮았다
+	닮/pvg+아/ep+다/ef
+
+하여
+	하/pvg+어/ecx
+
+지어진
+	지/px+어/ecx+지/px+ㄴ/etm
+
+이름이며
+	이름/ncn+이/jp+며/ecc
+
+중국에
+	중국/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+지명을
+	지명/ncpa+을/jco
+
+따와서
+	뜨/pvg+어/ecx+오/px+아/ecx
+
+평사리
+	평사리/ncn
+
+강변
+	강변/ncn
+
+모래밭을
+	모래밭/ncn+을/jco
+
+금당이라
+	금당/ncn+이/jp+라/ecs
+
+하고
+	하/pvg+고/ecc
+
+모래밭
+	모래밭/ncn
+
+
+안에
+	안/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+호수를
+	호수/ncn+를/jco
+
+동정호라
+	동정/ncn+호/ncn+이/jp+라/ecs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+악양의
+	악양/ncn+의/jcm
+
+아름다움을
+	아름다움/ncn+을/jco
+
+노래한
+	노랗/paa+아/ecx+하/px+ㄴ/etm
+
+것
+	것/nbn
+
+중에
+	중/nbn+에/jca
+
+소상팔경이
+	소상/ncn+팔경/ncn+이/jcc
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+평사리들에
+	평사리들/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+동정호와
+	동정/ncn+호/ncn+와/jcj
+
+악양의
+	악양/ncn+의/jcm
+
+소상팔경은
+	소상/ncn+팔경/ncn+은/jxc
+
+이곳
+	이곳/npd
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+
+자랑거리로
+	자랑/ncn+거리/ncn+로/jca
+
+한국적인
+	한국적/ncn+이/jp+ㄴ/etm
+
+아름다움이
+	아름다움/ncn+이/jcc
+
+가득
+	가득/mag
+
+담긴
+	담기/pvg+ㄴ/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+자아낸다
+	자/pvg+아/ecx+내/px+ㄴ다/ef
+
+.
+	./sf
+
+
+최참판댁으로
+	최참판댁/ncn+으로/jca
+
+가기
+	가/px+기/etn
+
+전
+	전/nbn
+
+초가집과
+	초가집/ncn+과/jcj
+
+유채꽃이
+	유채/ncn+꽃/ncn+이/jcc
+
+환상적으로
+	환상/ncn+적/ncn+으로/jca
+
+조화를
+	조화/ncn+를/jco
+
+이루고
+	이루/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+물레방아가
+	물레방아/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+곳부터
+	곳/ncn+부터/jxc
+
+들려본다
+	들리/pvg+어/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+장대
+	장대/ncn
+
+비가
+	비/ncn+가/jcs
+
+내리는
+	내리/pvg+는/etm
+
+날인대도
+	날인/ncpa+대/ncn+도/jxc
+
+관람객이
+	관람객/ncn+이/jcc
+
+정말
+	정말/mag
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+이곳을
+	이곳/npd+을/jco
+
+둘러
+	두르/pvg+어/ecx
+
+볼때는
+	보/px+ㄹ/etm+때/nbn+는/jxc
+
+좋은
+	좋/paa+은/etm
+
+사진을
+	사진/ncn+을/jco
+
+찍어야지
+	찍/pvg+어야지/ef
+
+하는
+	하/pvg+는/etm
+
+바램보다는
+	바램/ncn+보다/jca+는/jxc
+
+악천우
+	악천우/ncn
+
+때문에
+	때문/nbn+에/jca
+
+대충
+	대충/mag
+
+담아와서
+	담/pvg+아/ecx+오/px+아/ecx
+
+사진을
+	사진/ncn+을/jco
+
+정리하고
+	정리/ncn+하고/jct
+
+포스팅
+	포스팅/ncn
+
+
+하면서
+	하/pvg+면서/ecc
+
+아쉬움이
+	아쉬움/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+남는다
+	남/pvg+는다/ef
+
+.
+	./sf
+
+
+파란하늘
+	파란/ncn+하늘/ncn
+
+이었으면
+	이/npd+이/jp+었/ep+으면/ecs
+
+얼마나
+	얼마나/mag
+
+좋았을까
+	좋/paa+아/ep+ㄹ까/ef
+
+?
+	?/sf
+
+
+하는
+	하/pvg+는/etm
+
+맘도
+	말/px+ㅁ/etn+도/jxc
+
+있었지만
+	있/px+었/ep+지만/ecs
+
+비가
+	비/ncn+가/jcs
+
+와서
+	오/px+아/ecs
+
+묵직한
+	묵직/ncps+하/xsms+ㄴ/etm
+
+분위기도
+	분위기/ncn+도/jxc
+
+나름
+	나름/nbn
+
+괜찮은
+	괜찮/paa+은/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+비
+	비/ncn
+
+내리는
+	내리/pvg+는/etm
+
+오솔길을
+	오솔길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+오르니
+	오르/pvg+니/ecs
+
+최참판댁이
+	최참판댁/ncn+이/jcc
+
+보이기
+	보이/pvg+기/etn
+
+시작한다
+	시작/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+동학혁명에서
+	동학/ncn+혁명/ncpa+에서/jca
+
+근대사까지
+	근대사/ncn+까지/jxc
+
+우리
+	우리/npp
+
+한민족의
+	한민족/ncn+의/jcm
+
+대서사시인
+	대서/ncpa+사시/ncn+이/jp+ㄴ/etm
+
+박경리의
+	박경리/ncn+의/jcm
+
+대하소설
+	대하소설/ncn
+
+토지
+	토지/ncn
+
+의
+	의/ncn
+
+배경인
+	배경/ncn+이/jp+ㄴ/etm
+
+이곳
+	이곳/npd
+
+평사리에
+	평사리/ncn+에/jca
+
+소설속의
+	소설/ncn+속/ncn+의/jcm
+
+
+최참판댁이
+	최참판댁/ncn+이/jcc
+
+한옥
+	한옥/ncn
+
+14동으로
+	14/nnc+동/nbu+으로/jca
+
+구현되었으며,
+	구현/ncpa+되/xsvn+었/ep+으며/ecc+,/sp
+
+조선후기
+	조선후기/ncn
+
+우리민족의
+	우리민족/ncn+의/jcm
+
+생활모습을
+	생활모습/ncn+을/jco
+
+재현해
+	재현/ncpa+하/xsva+어/ecx
+
+놓은
+	놓/px+은/etm
+
+토지세트장이
+	토지/ncn+세트/ncn+장/ncn+이/jcc
+
+잘
+	잘/mag
+
+조성되어
+	조성/ncpa+되/xsvn+어/ecs
+
+
+있고
+	있/px+고/ecc
+
+인근의
+	인근/ncn+의/jcm
+
+평사리
+	평사리/ncn
+
+문학관도
+	문학관/ncn+도/jxc
+
+좋은
+	좋/paa+은/etm
+
+구경거리가
+	구경/ncn+거리/ncn+가/jcs
+
+되고
+	되/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+경남
+	경남/ncn
+
+하동의
+	하동/ncn+의/jcm
+
+평사리를
+	평사리/ncn+를/jco
+
+무대로
+	무대/ncn+로/jca
+
+하여
+	하/pvg+어/ecx
+
+5대째
+	5/nnc+대/nbu+째/xsnu
+
+대지주로
+	대지주/ncr+로/jca
+
+군림하고
+	군림/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+최참판
+	최참판/ncn
+
+댁과
+	댁/npp+과/jct
+
+그
+	그/mmd
+
+소작인들의
+	소작인/ncn+들/ncn+의/jcm
+
+이야기가
+	이야기/ncpa+가/jcc
+
+펼쳐진다
+	펼치/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+동학운동,
+	동학운동/ncpa+,/sp
+
+개항과
+	개항/ncpa+과/jcj
+
+일본의
+	일/nnc+본/nbu+의/jcm
+
+세력강화,
+	세력/ncn+강화/ncpa+,/sp
+
+갑오개혁등이
+	갑오/ncn+개혁/ncpa+등/ncn+이/jcc
+
+토지
+	토지/ncn
+
+전체의
+	전체/ncn+의/jcm
+
+구체적인
+	구체/ncn+적/ncn+이/jp+ㄴ/etm
+
+이야기로
+	이야기/ncpa+로/jca
+
+옯겨진다
+	옯겨진다/ncn
+
+.
+	./sf
+
+
+동학장군
+	동학/ncpa+장군/ncr
+
+김개주와
+	김개주/ncn+와/jcj
+
+
+윤씨부인에
+	윤씨부인/ncn+에/jca
+
+얽힌
+	얽히/pvg+ㄴ/etm
+
+비밀이
+	비밀/ncn+이/jcc
+
+차차
+	차차/mag
+
+풀려
+	풀리/pvg+어/ecx
+
+나가고,
+	나/pvg+아/ecx+가/px+고/ecc+,/sp
+
+신분제도와
+	신분/ncn+제도/ncn+와/jcj
+
+이기적
+	이기/ncn+적/ncn
+
+욕망에
+	욕망/ncn+에/jca
+
+사로잡힌
+	사로잡히/pvg+ㄴ/etm
+
+귀녀와
+	귀녀/ncn+와/jcj
+
+평산등이
+	평산등/ncn+이/jcc
+
+최치수를
+	최치수/ncn+를/jco
+
+죽이게
+	죽이/pvg+게/ecc
+
+
+되고,
+	되/pvg+고/ecc+,/sp
+
+전염병의
+	전염병/ncn+의/jcm
+
+발생과
+	발생/ncpa+과/jcj
+
+대흉년,
+	대흉년,/ncn
+
+조준구의
+	조준/ncpa+구/ncn+의/jcm
+
+계략등으로
+	계략/ncn+등/ncn+으로/jca
+
+결국
+	결국/mag
+
+최참판댁은
+	최참판댁/ncn+은/jxc
+
+목락하게
+	목락하/ncn+이/jp+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+그
+	그/mmd
+
+후
+	후/ncn
+
+최씨
+	최씨/ncn
+
+집안의
+	집안/ncn+의/jcm
+
+유일한
+	유일한/mag
+
+생존자인
+	생존자/ncn+이/jp+ㄴ/etm
+
+최치수의
+	최치수/ncn+의/jcm
+
+외동딸
+	외동딸/ncn
+
+서희는
+	서희/ncn+는/jxc
+
+길상과
+	길상/ncn+과/jcj
+
+조준구의
+	조준/ncpa+구/ncn+의/jcm
+
+세력에
+	세력/ncn+에/jca
+
+맞섰던
+	맞서/pvg+었/ep+던/etm
+
+마을사람들과
+	마을/ncn+사람들/ncn+과/jct
+
+함께
+	함께/mag
+
+
+간주로
+	간주/ncn+로/jca
+
+이주한다
+	이주/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+간도로
+	간도/ncn+로/jca
+
+간
+	가/px+ㄴ/etm
+
+서희는
+	서희/ncn+는/jxc
+
+공노인의
+	공노인/ncn+의/jcm
+
+도움으로
+	도움/ncn+으로/jca
+
+용정에서
+	용정/ncpa+에서/jca
+
+큰
+	크/paa+ㄴ/etm
+
+상인으로
+	상인/ncn+으로/jca
+
+성장하나,
+	성장/ncpa+하/xsva+어/ecx+나/px+아/ecs+,/sp
+
+함께
+	함께/mag
+
+온
+	오/px+ㄴ/etm
+
+농민들은
+	농민/ncn+들/ncn+은/jxc
+
+외지
+	외/pvg+지/ecx
+
+정착에
+	정착/ncpa+에/jca
+
+어려움을
+	어려움/ncn+을/jco
+
+겪는다
+	겪/pvg+는다/ef
+
+.
+	./sf
+
+
+서희와
+	서희/ncn+와/jcj
+
+길상은
+	길상/ncn+은/jxc
+
+혼인을
+	혼인/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+일본의
+	일/nnc+본/nbu+의/jcm
+
+밀정이된
+	밀정/ncpa+이/ncn+되/xsvn+ㄴ/etm
+
+김두수와
+	김두수/ncn+와/jcj
+
+길상을
+	길상/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+한
+	하/pvg+ㄴ/etm
+
+독립운동가들의
+	독립운동가/ncn+들/ncn+의/jcm
+
+대립등이
+	대립/ncpa+등/ncn+이/jcc
+
+펼쳐진다
+	펼치/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+진주에
+	진주/ncpa+에/jca
+
+자리잡은
+	자리잡/pvg+은/etm
+
+서희는
+	서희/ncn+는/jxc
+
+공노인등으로
+	공노인등/ncn+으로/jca
+
+하여금
+	하여금/mag
+
+평사리의
+	평사리/ncn+의/jcm
+
+집과
+	집/ncn+과/jcj
+
+땅을
+	땅/ncn+을/jco
+
+조준구로부터
+	조준/ncpa+구로/ncn+부터/jxc
+
+다시
+	다시/mag
+
+되찾고
+	되찾/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+평사리로
+	평사리/ncn+로/jca
+
+돌아온
+	돌/pvg+아/ecx+오/px+ㄴ/etm
+
+서희가
+	서희/ncn+가/jcs
+
+별당
+	별당/ncn
+
+연못가를
+	연못가/ncn+를/jco
+
+거닐
+	거닐/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+일본이
+	일/nnc+본/nbu+이/jcc
+
+패망했다는
+	패망/ncpa+하/xsva+었/ep+다/ef+는/etm
+
+소식을
+	소식/ncn+을/jco
+
+들으며
+	들/pvg+며/ecc
+
+이
+	이/mmd
+
+위대한
+	위대/ncn+한/ncn
+
+소설은
+	소설/ncn+은/jxc
+
+끝을
+	끝/ncn+을/jco
+
+맺는다는
+	맺/pvg+는다는/etm
+
+
+토지
+	토지/ncn
+
+이야기
+	이야기/ncpa
+
+
+요즘은
+	요즘/ncn+은/jxc
+
+시골에
+	시골/ncn+에/jca
+
+가도
+	가/px+아/ecs
+
+보기
+	보/px+기/etn
+
+힘든
+	힘들/pvg+ㄴ/etm
+
+우물
+	우물/ncn
+
+
+빨래하는
+	빨래/ncpa+하/xsva+는/etm
+
+아낙내의
+	아낙/ncn+내/ncn+의/jcm
+
+모습이
+	모습/ncn+이/jcc
+
+보이는
+	보이/pvg+는/etm
+
+듯하다
+	듯하/paa+다/ef
+
+.
+	./sf
+
+
+최참판댁
+	최참판댁/ncn
+
+우물
+	우물/ncn
+
+
+최참판댁
+	최참판댁/ncn
+
+장독
+	장독/ncn
+
+
+최참판댁
+	최참판댁/ncn
+
+사랑채에
+	사랑채/ncn+에/jca
+
+앉아있으면
+	앉/pvg+아/ecx+있/px+으면/ecs
+
+악양
+	악양/ncn
+
+들녘과
+	들녘/ncn+과/jcj
+
+섬진강이
+	섬진강/ncn+이/jcc
+
+한눈에
+	한눈/ncn+에/jca
+
+들어온다
+	들/pvg+어/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+들판아래로
+	들판/ncn+아래/ncn+로/jca
+
+소나무
+	소나무/ncn
+
+두
+	두/nnc
+
+그루가
+	그루/nbu+가/jcc
+
+부부처럼
+	부부/ncn+처럼/jca
+
+함께
+	함께/mag
+
+있다고
+	있/px+다/ef+고/jcr
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+강쥐는
+	강쥐/ncn+는/jxc
+
+보지
+	보/pvg+지/ecx
+
+못하고
+	못하/px+고/ecc
+
+왔다
+	오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+안개
+	안개/ncn
+
+때문에
+	때문/nbn+에/jca
+
+
+다음에
+	다음/ncn+에/jca
+
+날씨가
+	날씨/ncn+가/jcs
+
+쨍
+	쨍/mag
+
+할때
+	하/pvg+ㄹ/etm+때/nbn
+
+다시
+	다시/mag
+
+찾아오라고
+	찾아오/pvg+라고/ecs
+
+
+최참판댁은
+	최참판댁/ncn+은/jxc
+
+세트장으로
+	세트/ncn+장/ncn+으로/jca
+
+지어진
+	지/px+어/ecx+지/px+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+사람이
+	사람/ncn+이/jcc
+
+살수
+	사/pvg+ㄹ/etm+수/nbn
+
+있도록
+	있/px+도록/ecs
+
+지어져서
+	지/px+어/ecx+지/px+어서/ecs
+
+일반
+	일반/ncn
+
+세트장처럼
+	세트/ncn+장/ncn+처럼/jca
+
+가볍고
+	가볍/paa+고/ecc
+
+날림공사가
+	날림/ncn+공사/ncn+가/jcs
+
+아니고
+	아니/paa+고/ecs
+
+
+한옥의
+	한옥/ncn+의/jcm
+
+고즈넉함이
+	고즈넉/ncps+하/xsms+ㅁ/etn+이/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+매년
+	매년/mag
+
+가을이면
+	가을/ncn+이/jp+면/ecs
+
+전국문인들의
+	전국/ncn+문/ncn+이/jp+ㄴ/etm+들/nbn+의/jcm
+
+문학축제인
+	문학/ncpa+축제/ncn+이/jp+ㄴ/etm
+
+토지문학제가
+	토지/ncn+문학/ncpa+제/ncn+가/jcs
+
+이곳에서
+	이곳/npd+에서/jca
+
+개최되어
+	개최/ncpa+되/xsvn+어/ecx
+
+문학마을로써
+	문학/ncpa+마을/ncn+로써/jca
+
+자리매김
+	자리매김/ncpa
+
+될
+	되/pvg+ㄹ/etm
+
+전망이며
+	전망/ncn+이/jp+며/ecc
+
+또한
+	또한/maj
+
+
+소설
+	소설/ncn
+
+속의
+	속/ncn+의/jcm
+
+두
+	두/nnc
+
+주인공을
+	주인공/ncn+을/jco
+
+캐릭터로
+	캐릭터/ncn+로/jca
+
+개발하여
+	개발/ncpa+하/xsva+어/ecx
+
+관광상품으로
+	관광상품/ncn+으로/jca
+
+판매하고
+	판매/ncpa+하고/jct
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+내년
+	내년/ncn
+
+봄
+	보/px+ㅁ/etn
+
+벗꽃이
+	벗꽃/ncn+이/jcc
+
+하동에
+	하동/ncn+에/jca
+
+만개
+	만/nnc+개/nbu
+
+해서
+	하/pvg+어서/ecs
+
+비처럼
+	비/ncn+처럼/jca
+
+흐트러질때
+	흐트러지/pvg+ㄹ/etm+때/nbn
+
+그리고
+	그리고/maj
+
+날씨가
+	날씨/ncn+가/jcs
+
+좋은
+	좋/paa+은/etm
+
+날
+	나/px+ㄹ/etm
+
+슬로시티
+	슬로시티/ncn
+
+하동에
+	하동/ncn+에/jca
+
+가족들과
+	가족/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+오겠다고
+	오/ncn+이/jp+겠/ep+다고/ecs
+
+
+예약을
+	예약/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+이곳을
+	이곳/npd+을/jco
+
+떠난다
+	뜨/pvg+어/ecx+나/px+ㄴ다/ef
+
+.
+	./sf
+
+
+최
+	최/ncn
+
+참판댁
+	참/xp+판/ncn+댁/xsncc
+
+
+경상남도
+	경상/ncn+남/ncn+도/jxc
+
+하동군
+	하동군/ncn
+
+악양면
+	악양면/ncn
+
+평사리
+	평사리/ncn
+
+498
+	498/nnc
+
+
+055)880-2950
+	055/nnc+)/sr+880/nnc+-2950/nnc
+
+
+하동군청문화관광
+	하동군청문화관광/ncn
+
+http://tour.
+	http/f+:/sp+//sp+//sp+tour/f+./sy
+
+hadong.
+	hadong/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp

@@ -1,0 +1,268 @@
+구름낀
+	구름낀/ncn
+
+별도봉
+	별도/ncn+봉/ncn
+
+풍경
+	풍경/ncn
+
+!!
+	!/sf+!/sf
+
+
+산책길에
+	산책길/ncn+에/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+별도봉
+	별도/ncn+봉/ncn
+
+풍경이다
+	풍경/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+민밋한
+	민밋한/ncn
+
+하늘보단
+	하늘/ncn+보/ncn+이/jp+단/etm
+
+구름이
+	구름/ncn+이/jcc
+
+살짝
+	살짝/mag
+
+낀
+	끼/pvg+ㄴ/etm
+
+하늘이
+	하늘/ncn+이/jcc
+
+아름답다
+	아름답/paa+다/ef
+
+.
+	./sf
+
+
+산책길에서
+	산책길/ncn+에서/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+별도봉
+	별도/ncn+봉/ncn
+
+구름은
+	구름/ncn+은/jxc
+
+사람의
+	사람/ncn+의/jcm
+
+눈을
+	눈/ncn+을/jco
+
+확
+	확/ncn
+
+잡아끄는
+	잡아끄/ncn+는/jxc
+
+아름다운
+	아름답/paa+은/etm
+
+구름은
+	구름/ncn+은/jxc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+그런데로
+	그러/pvd+ㄴ/etm+데/nbn+로/jca
+
+볼만
+	볼/ncn+만/jxc
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+구름은
+	구름/ncn+은/jxc
+
+지구나
+	지구/ncn+나/jcj
+
+행성등의
+	행성/ncn+등/ncn+의/jcm
+
+대기에
+	대/nbu+이/jp+기/etn+에/jca
+
+떠
+	뜨/pvg+어/ecx
+
+다니는
+	다니/pvg+는/etm
+
+작은
+	작/paa+은/etm
+
+물방울이나
+	물방울/ncn+이나/jcj
+
+얼음
+	얼음/ncn
+
+알갱이들이
+	알갱이/ncn+들/ncn+이/jcc
+
+모여서
+	모이/pvg+어서/ecs
+
+만들어진다고
+	만들/pvg+어/ecx+지/px+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+저
+	저/mmd
+
+정도의
+	정도/ncn+의/jcm
+
+구름이
+	구름/ncn+이/jcc
+
+만들어지려면
+	만들/pvg+어/ecx+지/px+려면/ecs
+
+수십억
+	수십억/nnc
+
+개의
+	개/nbu+의/jcm
+
+아주
+	아주/mag
+
+작은
+	작/paa+은/etm
+
+물망울들이
+	물망/ncn+울/ncn+들/xsncc+이/jcc
+
+모여야
+	모이/pvg+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+매일
+	매일/mag
+
+보는
+	보/px+는/etm
+
+구름이지만
+	구름/ncn+이/jp+지만/ecs
+
+만들어지는
+	만들/pvg+어/ecx+지/px+는/etm
+
+과정을
+	과정/ncn+을/jco
+
+살펴보면
+	살피/pvg+어/ecx+보/px+면/ecs
+
+신비롭기
+	신비/ncps+롭/xsmn+기/etn
+
+그지
+	그/npd+이/jp+지/ecs
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+접하는
+	접하/pvg+는/etm
+
+일상
+	일상/ncn
+
+속에는
+	속/ncn+에/jca+는/jxc
+
+신비로운
+	신비/ncps+로운/ncn
+
+자연현상들이
+	자연/ncn+현상/ncn+들/ncn+이/jcc
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+하늘에
+	하늘/ncn+에/jca
+
+떠
+	뜨/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+구름을
+	구름/ncn+을/jco
+
+감상하시면서
+	감상/ncn+하시/ncn+이/jp+면서/ecc
+
+삶의
+	삶/ncn+의/jcm
+
+여유를
+	여유/ncn+를/jco
+
+가져보시기
+	가/pvg+아/ecx+지/px+어/ecx+보/px+시/ep+기/etn
+
+바란다
+	바라/pvg+ㄴ다/ef
+
+.
+	./sf

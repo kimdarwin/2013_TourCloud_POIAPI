@@ -1,0 +1,473 @@
+위치:
+	위치/ncn+:/sp
+
+전북
+	전/xp+북/ncn
+
+무주군
+	무주/ncpa+이/jp+군/ef
+
+적상면
+	적상면/ncn
+
+
+등반일자:
+	등반/ncn+이/jp+ㄹ/etm+자/nbn+:/sp
+
+2006
+	2006/nnc
+
+.
+	./sf
+
+
+5.
+	5./nnc
+
+27
+	27/nnc
+
+
+무주IC에서
+	무주IC/ncn+에서/jca
+
+덕유산방향으로
+	덕유산방향/ncn+으로/jca
+
+10분정도
+	10분정/ncn+도/jxc
+
+달리면
+	달리/pvg+면/ecs
+
+곧
+	곧/maj
+
+적상산이
+	적상산/ncn+이/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+대전-통영고속도로
+	대전-통영고속도/ncn+로/jca
+
+공사가
+	공사/ncn+가/jcs
+
+진행중인
+	진행/ncpa+중/xsnx+이/jp+ㄴ/etm
+
+교각
+	교각/ncn
+
+부근에서
+	부근/ncn+에서/jca
+
+산행
+	산행/ncn
+
+기점인
+	기점/ncn+이/jp+ㄴ/etm
+
+서창마을
+	서창/ncn+마을/ncn
+
+입구(좌회전)
+	입구/ncn+(/sl+좌회전/ncpa+)/sr
+
+
+정상부에
+	정상/ncn+부/ncn+에/jca
+
+돌병풍처럼
+	돌병풍/ncn+처럼/jca
+
+펼쳐진
+	펼치/pvg+어/ecx+지/px+ㄴ/etm
+
+치마바위가
+	치마/ncn+바위/ncn+가/jcs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+8시
+	8/nnc+시/nbu
+
+출발
+	출발/ncpa
+
+
+아주
+	아주/mag
+
+소박한
+	소박/ncps+하/xsms+ㄴ/etm
+
+고객안내센터
+	고객/ncn+안내/ncpa+센터/ncn
+
+...
+	.../se
+
+
+넘
+	널/pvg+ㅁ/etn
+
+일찍도착해서
+	일찍도착해서/ncn
+
+관리직원도
+	관리직/ncn+원/ncn+도/jxc
+
+없구
+	없구/ncn
+
+....
+	.../se+./sf
+
+
+8시
+	8/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+..
+	./sf+./sf
+
+
+샘터에
+	샘터/ncn+에/jca
+
+도착
+	도착/ncpa
+
+.
+	./sf
+
+
+잠시쉬면서
+	잠시/ncn+쉬/ncpa+이/jp+면서/ecc
+
+커피한잔
+	커피/ncn+한잔/ncpa
+
+....
+	.../se+./sf
+
+
+정상까지
+	정상/ncn+까지/jxc
+
+국립공원이라
+	국립공원/ncn+이/jp+라/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+....
+	.../se+./sf
+
+
+탐방로가
+	탐방/ncpa+로/jca+가/jcc
+
+비교적
+	비교/ncpa+적/ncn
+
+잘
+	잘/mag
+
+되어있었다
+	되/pvg+어/ecx+있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+9시
+	9/nnc+시/nbu
+
+10분
+	10/nnc+분/nbu
+
+장도바위:고려말
+	장도/ncn+바위/ncn+:/sp+고려말/ncn
+
+최영장군이
+	최영장군/ncn+이/jcc
+
+민란을
+	민란/ncn+을/jco
+
+평정하고
+	평정/ncpa+하고/jct
+
+개선하던중
+	개선/ncpa+하/xsva+던/etm+중/nbn
+
+이곳에
+	이곳/npd+에/jca
+
+이르러
+	이르/pvg+어/ecx
+
+산
+	사/pvg+ㄴ/etm
+
+전체의
+	전체/ncn+의/jcm
+
+
+붉은
+	붉/paa+은/etm
+
+단풍과
+	단풍/ncn+과/jcj
+
+깍아세운
+	깍아세운/ncn
+
+암벽에
+	암벽/ncn+에/jca
+
+띠를
+	띠/ncn+를/jco
+
+두른듯한
+	두르/pvg+ㄴ/etm+듯/nbs+하/xsms+ㄴ/etm
+
+아름다움에
+	아름다움/ncn+에/jca
+
+이끌려
+	이끌리/pvg+어/ecx
+
+산정상에
+	산정/ncn+상/ncn+에/jca
+
+오르게
+	오르/pvg+게/ecs
+
+되었는데
+	되/pvg+었/ep+는데/ecs
+
+정상이
+	정상/ncn+이/jcc
+
+얼마
+	얼마/ncn
+
+남지
+	남/pvg+지/ecx
+
+않은
+	않/px+은/etm
+
+곳에
+	곳/nbn+에/jca
+
+절벽같은
+	절벽/ncn+같/xsmn+은/etm
+
+바위가
+	바위/ncn+가/jcs
+
+길을
+	길/ncn+을/jco
+
+막고
+	막/pvg+고/ecc
+
+있어
+	있/px+어/ecx
+
+더
+	더/mag
+
+이상
+	이상/ncn
+
+산을
+	산/ncn+을/jco
+
+오르지
+	오르/pvg+지/ecx
+
+못하게
+	못하/px+게/ecs
+
+되자
+	되/pvg+자/ecc
+
+정상을
+	정상/ncn+을/jco
+
+앞에
+	앞/ncn+에/jca
+
+두고
+	두/pvg+고/ecc
+
+발길을
+	발길/ncn+을/jco
+
+돌릴수없었던
+	돌리/pvg+ㄹ/etm+수/nbn+없/xsmn+었/ep+던/etm
+
+최영장군은
+	최영장군/ncn+은/jxc
+
+허리에
+	허리/ncn+에/jca
+
+차고
+	차/ncn+이/jp+고/ecc
+
+있던
+	있/px+던/etm
+
+장도를
+	장도/ncn+를/jco
+
+뽑아
+	뽑/pvg+어/ecx
+
+바위를
+	바위/ncn+를/jco
+
+내리쳤더니
+	내리치/pvg+었/ep+더니/ecs
+
+양쪽으로
+	양쪽/ncn+으로/jca
+
+쪼개지면서
+	쪼개/pvg+어/ecx+지/px+면서/ecc
+
+길이열렸다는
+	길이열렸다/ncn+는/jxc
+
+장도바위
+	장도/ncn+바위/ncn
+
+..
+	./sf+./sf
+
+
+장도바위를
+	장도/ncn+바위/ncn+를/jco
+
+빠져나오니
+	빠지/pvg+어/ecx+나/px+아/ecx+오/px+니/ecs
+
+처녀치마바위를
+	처녀/ncn+치마/ncn+바위/ncn+를/jco
+
+옆에서
+	옆/ncn+에서/jca
+
+감상할수있는
+	감상/ncpa+하/xsva+ㄹ/etm+수/nbn+있/xsmn+는/etm
+
+조망이
+	조망/ncn+이/jcc
+
+나왔다
+	나오/pvg+아/ep+다/ef+./sf
+
+
+9시
+	9/nnc+시/nbu
+
+18분
+	18/nnc+분/nbu
+
+아직도
+	아직/mag+도/jxc
+
+그
+	그/mmd
+
+흔적이
+	흔적/ncn+이/jcc
+
+남아있는
+	남/pvg+아/ecx+있/px+는/etm
+
+적상산성
+	적상산성/ncn
+
+...
+	.../se
+
+
+10시
+	10/nnc+시/nbu
+
+안렴대
+	안렴대/ncn
+
+도착
+	도착/ncpa
+
+
+낡은
+	낡/paa+은/etm
+
+의자가
+	의자/ncn+가/jcs
+
+안내판하나없는
+	안내판하나없/ncn+는/jxc
+
+안렴대의
+	안렴대/ncn+의/jcm
+
+섭섭함을
+	섭섭/ncps+하/xsms+ㅁ/etn+을/jco
+
+달래주는듯이
+	달래/pvg+어/ecx+주/px+는/etm+듯/nbs+이/jcc
+
+우리를
+	우리/npp+를/jco
+
+맞이하였다
+	맞이/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+안렴대에서
+	안렴대/ncn+에서/jca
+
+쳐다본
+	쳐다보/pvg+ㄴ/etm
+
+향로봉
+	향로/ncn+봉/ncn
+
+능선
+	능선/ncn
+
+
+안렴대에서
+	안렴대/ncn+에서/jca
+
+본
+	보/px+ㄴ/etm
+
+덕유산
+	덕유산/ncn

@@ -1,0 +1,26 @@
+Title:
+4/28 보곡산골과 보석사 여행 후기
+
+Date:
+2012.04.28
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(190511,'files/attach/images/64/854/212/8dde81bf5c17a8739fca142337441140.jpg');
+list_gallery_add_image(190511,'files/attach/images/64/854/212/2b4af1d85a9ab843da32c17611886f64.jpg');
+list_gallery_add_image(190511,'files/attach/images/64/854/212/2deca09fedc82689923f8260c32b0743.jpg');
+list_gallery_add_image(190511,'files/attach/images/64/854/212/da5261c6ca70982f93be6a4611f6f719.jpg');
+list_gallery_add_image(190511,'files/attach/images/64/854/212/e5b8474baa2807bb32d3431aa2e4c3dc.jpg');
+list_gallery_add_image(190511,'files/attach/images/64/854/212/ff1e9a9b0183bbc4cbfb04706a110350.jpg');
+list_gallery_add_image(190511,'files/attach/images/64/854/212/dd8025f2a7c547e003706bd7cb922332.jpg');
+list_gallery_add_image(190511,'files/attach/images/64/854/212/32460656a6225b8dac94090f079c450e.jpg');
+list_gallery_add_image(190511,'files/attach/images/64/854/212/fb25c92b500d54e2f2e167276601d36f.jpg');
+list_gallery_add_image(190511,'files/attach/images/64/854/212/f0ccc1ec8bf930fc3e32df962d49f1ed.jpg');
+list_gallery_add_image(190511,'files/attach/images/64/854/212/c5fdc9d62d247f4c4a35aaea1bbfff66.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+4월 28일(토), 아름다운 여행으로 충남 금산의 보곡산골과 보석사에 다녀왔습니다. 보곡산골은 우리나라에서 산벚꽃이 가장 많이 핀다는 마을입니다. 군북면 산안리 주변의 나트막한 산 곳곳에 벚꽃이 피어나는 곳입니다. 이 산에 뚫린 임도를 따라 걸으며 산벚꽃을 즐기는 코스입니다. 약 8.5km의 산길로 오르막이 심하지 않아 그리 힘든 코스는 아닙니다.
+그런데 이날 여행에서는 이 길이 조금 괴로운 길이 되었네요. 산길 초입부터 도로공사를 시작해 산을 파헤쳐 길이 끊겨 있었습니다. 어찌어찌 산길을 찾아 걷긴 했지만 많이 당황하셨으리라 생각됩니다. 산길을 돌아 내려오는 길에 자세히 살펴보니 옛 산길이 조금 바뀌어 남아 있긴 했는데 공사 때문에 제가 그 길을 놓쳤더군요. 길을 제대로 잡지 못해 혼란스럽게 해드려 정말 죄송스럽습니다. 게다가 벚꽃도 거의 다 져서 듬성듬성한 벚꽃만 보게 되어 더 죄송스러웠습니다.
+보곡산골 걷기를 마치고 보석사로 향했습니다. 보석사는 작은 절이지만 입구의 전나무길과 천 년의 은행나무가 유명한 사찰입니다. 보석사의 전나무길은 그리 길진 않지만 아늑한 분위기가 돋보이는 길입니다. 오랜만에 보석사를 찾았는데 전나무길의 운치는 여전하더군요. 보석사를 가볍게 돌아보고 이 날의 여행을 마무리했습니다.
+이번 여행은 제 불찰로 보곡산골에서 매끄럽게 진행이 되지 못했습니다. 이 점 다시 한 번 사과드립니다. 휴일에 여행의 피로 잘 푸시고 활기차게 한 주를 시작하시기 바랍니다.
+이 게시물을...

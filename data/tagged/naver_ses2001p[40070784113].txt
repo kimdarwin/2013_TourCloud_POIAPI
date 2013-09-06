@@ -1,0 +1,38 @@
+담앤루
+	담앤루/ncn
+
+리조트
+	리조트/ncn
+
+너무
+	너무/mag
+
+좋아요
+	좋/paa+아/ef+요/jxf
+
+제주포유여행사
+	제주/ncn+포유/ncpa+여행사/ncn
+
+통해서
+	통하/pvg+어서/ecs
+
+가시면
+	가/px+시/ep+면/ecs
+
+제주도에서
+	제주/ncn+도/ncn+에서/jca
+
+제일
+	제일/mag
+
+저렴한
+	저렴/ncn+한/ncn
+
+가격으로
+	가격/ncn+으로/jca
+
+이용가능하세요
+	이용가능/ncps+하/xsms+세/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy

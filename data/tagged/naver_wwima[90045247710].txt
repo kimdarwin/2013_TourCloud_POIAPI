@@ -1,0 +1,1522 @@
+11
+	11/nnc
+
+.
+	./sf
+
+
+청계산(
+	청계산(/ncn
+
+)
+	)/sr
+
+582.
+	582./nnc
+
+5m
+	5m/ncn
+
+
+*위치
+	*/sy+위치/ncn
+
+:
+	:/sp
+
+서울
+	서울/ncn
+
+서초구
+	서초구/ncn
+
+신원동,
+	신원/ncn+동/ncn+,/sp
+
+경기
+	경기/ncn
+
+과천,
+	과천,/ncn
+
+의왕,
+	의왕,/ncn
+
+성남
+	성나/pvg+ㅁ/etn
+
+
+*산행
+	*/sy+산행/ncn
+
+일자:
+	일/pvg+자/ecc+:/sp
+
+2009
+	2009/nnc
+
+.
+	./sf
+
+
+4.
+	4./nnc
+
+5.(일)
+	5/ncn+./sf+(/sl+일/nbu+)/sr
+
+
+*산행
+	*/sy+산행/ncn
+
+경로:
+	경로/ncpa+:/sp
+
+원터골
+	원터골/ncn
+
+-
+	-/sd
+
+정자
+	정자/ncn
+
+-
+	-/sd
+
+원터골
+	원터골/ncn
+
+약수터
+	약수터/ncn
+
+-
+	-/sd
+
+원터골
+	원터골/ncn
+
+쉼터
+	쉼터/ncn
+
+-
+	-/sd
+
+옥녀봉
+	옥녀/ncn+봉/ncn
+
+-
+	-/sd
+
+돌문바위
+	돌문/ncn+바위/ncn
+
+
+-
+	-/sd
+
+매바위
+	매/xp+바위/ncn
+
+-
+	-/sd
+
+매봉-
+	매봉/ncn+-/sd
+
+돌문바위
+	돌문/ncn+바위/ncn
+
+-
+	-/sd
+
+길마재
+	길마재/ncn
+
+-
+	-/sd
+
+어둔골
+	어둔골/ncn
+
+약수터
+	약수터/ncn
+
+-
+	-/sd
+
+원터골
+	원터골/ncn
+
+
+*산행
+	*/sy+산행/ncn
+
+거리:
+	것/nbn+이/jp+리/ef+:/sp
+
+약
+	약/ncn
+
+6.1km
+	6.1km/ncn
+
+
+*산행
+	*/sy+산행/ncn
+
+시간:
+	시간/nbu+:/sp
+
+약
+	약/ncn
+
+3시간
+	3/nnc+시간/nbu
+
+(휴식시간
+	(/sl+휴식시간/ncn
+
+맟
+	맟/ncn
+
+사진촬영시간
+	사진촬영/ncpa+시간/ncn
+
+포함)
+	포함/ncpa+)/sr
+
+
+일요일
+	일요일/ncn
+
+오후가
+	오후/ncn+가/jcs
+
+되어가면서
+	되/pvg+어/ecx+가/px+면서/ecc
+
+더욱
+	더욱/mag
+
+화창해지는
+	화창/ncps+하/xsms+어/ecx+지/px+는/etm
+
+날씨가
+	날씨/ncn+가/jcc
+
+
+슬슬
+	슬슬/mag
+
+인내심을
+	인내심/ncn+을/jco
+
+자극하는데
+	자극/ncpa+하/xsva+ㄴ데/ecs
+
+
+넘어가지
+	넘/pvg+어/ecx+가/px+지/ecx
+
+않을
+	않/px+을/etm
+
+사람이
+	사람/ncn+이/jcc
+
+어디
+	어디/mad
+
+있을까
+	있/px+을까/ef
+
+?
+	?/sf
+
+
+너무
+	너무/mag
+
+늦어
+	늦/paa+어/ecx
+
+가까운
+	가깝/paa+은/etm
+
+청계산으로
+	청계/ncn+산/ncn+으로/jca
+
+정하고
+	정하/paa+고/ecc
+
+
+또
+	또/maj
+
+다시
+	다시/mag
+
+일월님을
+	일월/ncn+님/ncn+을/jco
+
+pick
+	pick/f
+
+up하여
+	up/f+하/xsms+어/ecx
+
+벙개산행에
+	벙개산행/ncn+에/jca
+
+나섰다
+	나서/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+제일
+	제일/mag
+
+많이
+	많/paa+이/xsa
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+원터골
+	원터골/ncn
+
+입구에서
+	입구/ncn+에서/jca
+
+오르기
+	오르/pvg+기/etn
+
+시작하니
+	시작/ncpa+하/xsva+니/ef
+
+
+시계는
+	시계/ncn+는/jxc
+
+이미
+	이미/mag
+
+3시
+	3/nnc+시/nbu
+
+36분이다
+	36/nnc+분/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+원터골
+	원터골/ncn
+
+입구에
+	입구/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+청계산
+	청계/ncn+산/ncn
+
+등산
+	등산/ncpa
+
+안내도
+	안내도/ncn
+
+.
+	./sf
+
+
+원터
+	원터/ncn
+
+안내석
+	안내석/ncn
+
+.
+	./sf
+
+
+원터골이라고
+	원터골/ncn+이/jp+라/ef+고/jcr
+
+불리우는
+	불리우/pvg+는/etm
+
+이
+	이/mmd
+
+청계산
+	청계/ncn+산/ncn
+
+입구의
+	입구/ncn+의/jcm
+
+행정구역
+	행정구역/ncn
+
+정식
+	정식/ncn
+
+명칭은
+	명칭/ncn+은/jxc
+
+원지동이다
+	원지/ncn+동/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+원터라고
+	원터/ncn+이/jp+라/ef+고/jcr
+
+불리우는
+	불리우/pvg+는/etm
+
+이유를
+	이유/ncn+를/jco
+
+한번에
+	한/nnc+번/nbu+에/jca
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+원터에는
+	원터/ncn+에/jca+는/jxc
+
+오늘
+	오늘/ncn
+
+아직도
+	아직/mag+도/jxc
+
+앙상한
+	앙상/ncps+하/xsms+ㄴ/etm
+
+고목옆에서
+	고목/ncn+옆/ncn+에서/jca
+
+어느
+	어느/mmd
+
+색소폰
+	색소폰/ncn
+
+뮤지션이
+	뮤지션/ncn+이/jcc
+
+멋진
+	멋지/paa+ㄴ/etm
+
+곡들을
+	곡/ncn+들/xsncc+을/jco
+
+연주하면서
+	연주/ncpa+하/xsva+면서/ecc
+
+지나는
+	지나/pvg+는/etm
+
+산객들의
+	산객들/ncn+의/jcm
+
+피로를
+	피로/ncps+를/jco
+
+잠시
+	잠시/mag
+
+잊게
+	잊/pvg+게/ecs
+
+해주고
+	하/pvg+어/ecx+주/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+청계산은
+	청계/ncn+산/ncn+은/jxc
+
+원터골에서
+	원터골/ncn+에서/jca
+
+오를
+	오르/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+코스가
+	코스/ncn+가/jcs
+
+여럿
+	여럿/nnc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+옥녀봉을
+	옥녀/ncn+봉/ncn+을/jco
+
+들르는
+	들르/pvg+는/etm
+
+코스를
+	코스/ncn+를/jco
+
+택했다
+	택하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+진달래가
+	진달래/ncn+가/jcs
+
+한창인
+	한창/ncn+이/jp+ㄴ/etm
+
+정자를
+	정자/ncn+를/jco
+
+지나고
+	지나/pvg+고/ecc
+
+
+일월님이
+	일월/ncn+님/ncn+이/jcc
+
+발견한
+	발견/ncpa+하/xsva+ㄴ/etm
+
+야생화
+	야생/ncpa+화/ncn
+
+.
+	./sf
+
+
+이름을
+	이름/ncn+을/jco
+
+아시는
+	알/pvg+시/ep+는/etm
+
+이웃님은
+	이웃/ncpa+님/ncn+은/jxc
+
+이름
+	이름/ncn
+
+좀
+	좀/mag
+
+가르쳐
+	가르치/pvg+어/ecx
+
+주세요
+	주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+오후
+	오후/ncn
+
+늦은
+	늦/paa+은/etm
+
+시간이라
+	시간/ncn+이/jp+라/ecs
+
+대부분이
+	대부분/ncn+이/jcc
+
+하산하는
+	하산/ncpa+하/xsva+는/etm
+
+산객들이다
+	산객들/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+멀리
+	멀리/mag
+
+약수터
+	약수터/ncn
+
+정자가
+	정자/ncn+가/jcs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+약수터
+	약수터/ncn
+
+.
+	./sf
+
+
+1년여
+	1/nnc+년여/nbu
+
+동안
+	동안/ncn
+
+오지못하는
+	오/pvg+지/ecx+못하/px+는/etm
+
+사이
+	사/nnc+이/jcc
+
+약수터가
+	약수터/ncn+가/jcs
+
+깨끗하게
+	깨끗/ncps+하/xsms+게/ecs
+
+새단장을
+	새단장/ncn+을/jco
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+원터골
+	원터골/ncn
+
+쉼터
+	쉼터/ncn
+
+.
+	./sf
+
+
+약수터와
+	약수터/ncn+와/jct
+
+겸한
+	겸하/pvg+ㄴ/etm
+
+공터다
+	공터/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+개나리골
+	개나리/ncn+골/ncn
+
+갈림길에
+	갈림길/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+이정표
+	이정표/ncn
+
+.
+	./sf
+
+
+옥녀봉
+	옥녀/ncn+봉/ncn
+
+능선길로
+	능선길/ncn+로/jca
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+길.
+	길/nbu+./sf
+
+
+옥녀봉
+	옥녀/ncn+봉/ncn
+
+능선
+	능선/ncn
+
+삼거리에
+	삼거리/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+이정표
+	이정표/ncn
+
+.
+	./sf
+
+
+옥녀봉에
+	옥녀/ncn+봉/ncn+에/jca
+
+이르는
+	이르/paa+는/etm
+
+능선길
+	능선길/ncn
+
+.
+	./sf
+
+
+1년전만
+	1/nnc+년/nbu+전/xsnx+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+좁은
+	좁/paa+은/etm
+
+길이었는데
+	길/ncn+이/jp+었/ep+는데/ecs
+
+...
+	.../se
+
+
+산객들이
+	산객들/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+늘었나
+	늘/pvg+었/ep+나/ef
+
+보다
+	보/px+다/ef
+
+.
+	./sf
+
+
+능선길에
+	능선길/ncn+에/jca
+
+고고한
+	고/pvg+고/ecx+하/px+ㄴ/etm
+
+이름의
+	이름/ncn+의/jcm
+
+쉼터가
+	쉼터/ncn+가/jcs
+
+만들어져
+	만들/pvg+어/ecx+지/px+어/ecx
+
+있고
+	있/paa+고/ecc
+
+
+휴식을
+	휴식/ncpa+을/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+산객이
+	산객/ncn+이/jcc
+
+평화롭다
+	평화/ncn+롭/xsmn+다/ef
+
+.
+	./sf
+
+
+옥녀봉
+	옥녀/ncn+봉/ncn
+
+정상
+	정상/ncn
+
+.
+	./sf
+
+
+옥녀봉
+	옥녀/ncn+봉/ncn
+
+안내판
+	안내판/ncn
+
+.
+	./sf
+
+
+옥녀봉
+	옥녀/ncn+봉/ncn
+
+능선
+	능선/ncn
+
+삼거리에
+	삼거리/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+이정표
+	이정표/ncn
+
+.
+	./sf
+
+
+또
+	또/maj
+
+다시
+	다시/mag
+
+호젓한
+	호젓/ncps+하/xsms+ㄴ/etm
+
+능선길이
+	능선길/ncn+이/jcc
+
+계속되고
+	계속/ncpa+되/xsvn+고/ecc
+
+...
+	.../se
+
+
+능선길이
+	능선길/ncn+이/jcc
+
+끝나면
+	끝나/pvg+면/ecs
+
+오름길이
+	오름/ncn+길/ncn+이/jcc
+
+시작된다
+	시작/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+오름길은
+	오름/ncn+길/ncn+은/jxc
+
+나무계단으로
+	나무계단/ncn+으로/jca
+
+잘
+	잘/mag
+
+단장되어
+	단장/ncpa+되/xsvn+어/ecx
+
+있고
+	있/px+고/ecc
+
+재미있는
+	재미있/pvg+는/etm
+
+것은
+	것/nbn+은/jxc
+
+
+계단
+	계단/ncn
+
+하나하나에
+	하나/nnc+하나/nnc+에/jca
+
+일련번호,
+	일련번호/ncn+,/sp
+
+구호,기증자의
+	구호/ncpa+,/sp+기증자/ncn+의/jcm
+
+이름이적혀있다는
+	이름/ncn+이적/ncn+혀/ncn+있/xsmn+다/ef+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+제법
+	제법/mag
+
+가파른
+	가파르/paa+ㄴ/etm
+
+경사도
+	경사도/ncn
+
+오르고
+	오르/pvg+고/ecc
+
+...
+	.../se
+
+
+돌문바위
+	돌문/ncn+바위/ncn
+
+.
+	./sf
+
+
+바위
+	바위/ncn
+
+사이에
+	사이/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+통로를
+	통로/ncn+를/jco
+
+세바퀴
+	세/nnc+바퀴/nbu
+
+돌면
+	돌/pvg+면/ecs
+
+청계산의
+	청계/ncn+산/ncn+의/jcm
+
+정기를
+	정기/ncn+를/jco
+
+받는다고
+	받/pvg+는다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+청계산의
+	청계/ncn+산/ncn+의/jcm
+
+정기를
+	정기/ncn+를/jco
+
+듬뿍
+	듬뿍/mag
+
+받아
+	받/pvg+아/ecx
+
+가라네요
+	가라네요/ncn
+
+.
+	./sf
+
+
+또
+	또/maj
+
+다시
+	다시/mag
+
+계속되는
+	계속/ncpa+되/xsvn+는/etm
+
+계단
+	계단/ncn
+
+계단
+	계단/ncn
+
+계단
+	계단/ncn
+
+...
+	.../se
+
+
+계단을
+	계단/ncn+을/jco
+
+오르다
+	오르/pvg+다/ef
+
+오르다
+	오르/pvg+다/ef
+
+보면
+	보/px+면/ecs
+
+불쑥
+	불쑥/mag
+
+나타나는
+	나타나/pvg+는/etm
+
+멋있는
+	멋있/paa+는/etm
+
+암봉
+	암봉/ncn
+
+.
+	./sf
+
+
+이름하여
+	이름하/ncn+이/jp+어/ecs
+
+매바위다
+	매/xp+바위/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+청계산
+	청계/ncn+산/ncn
+
+매봉
+	매봉/ncn
+
+정상에
+	정상/ncn+에/jca
+
+이르는
+	이르/paa+는/etm
+
+마지막
+	마지막/ncn
+
+계단
+	계단/ncn
+
+.
+	./sf
+
+
+일련번호
+	일련번호/ncn
+
+1483,
+	1483/nnc+,/sp
+
+"푸른
+	"/sl+푸르/paa+ㄴ/etm
+
+청계산과
+	청계/ncn+산/ncn+과/jcj
+
+영원히"라는
+	영원/ncps+히/xsas+"/sr+라는/jcr
+
+멋진
+	멋지/paa+ㄴ/etm
+
+구호와
+	구호/ncn+와/jct
+
+함께
+	함께/mag
+
+...
+	.../se
+
+
+청계산
+	청계/ncn+산/ncn
+
+정상
+	정상/ncn
+
+.
+	./sf
+
+
+정상에
+	정상/ncn+에/jca
+
+설치된
+	설치/ncpa+되/xsvn+ㄴ/etm
+
+전망대
+	전망대/ncn
+
+.
+	./sf
+
+
+"서울시
+	"서울시/ncn
+
+선정
+	선정/ncpa
+
+우수조망명소"라고
+	우수/ncn+조망/ncn+명소/ncn+"/sr+라고/jxc
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+정상
+	정상/ncn
+
+휴식
+	휴식/ncpa
+
+후
+	후/ncn
+
+매봉을
+	매봉/ncn+을/jco
+
+출발하여
+	출발/ncpa+하/xsva+어/ecx
+
+하산하는
+	하산/ncpa+하/xsva+는/etm
+
+길에
+	길/nbu+에/jca
+
+
+돌문에서
+	돌문/ncn+에서/jca
+
+다시
+	다시/mag
+
+청계산
+	청계/ncn+산/ncn
+
+정기를
+	정기/ncn+를/jco
+
+듬뿍
+	듬뿍/mag
+
+받고
+	받/pvg+고/ecc
+
+...
+	.../se
+
+
+생강나무꽃이
+	생강나무/ncn+꽃/ncn+이/jcc
+
+이제
+	이제/mag
+
+한창이다
+	한창/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+올라온
+	오르/pvg+아/ecx+오/px+ㄴ/etm
+
+원터골은
+	원터골/ncn+은/jxc
+
+그만
+	그/npp+만/jxc
+
+두고
+	두/pvg+고/ecc
+
+청계골
+	청계/ncn+골/ncn
+
+하산길을
+	하산/ncpa+길/ncn+을/jco
+
+택했다
+	택하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+분위기있는
+	분위기/ncn+있/xsmn+는/etm
+
+하산길로
+	하산/ncpa+길/ncn+로/jca
+
+접어들고
+	접어들/pvg+고/ecc
+
+...
+	.../se
+
+
+길마재
+	길마재/ncn
+
+이정목
+	이정목/ncn
+
+.
+	./sf
+
+
+길마재에
+	길마재/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+정자
+	정자/ncn
+
+.
+	./sf
+
+
+정자에서
+	정자/ncn+에서/jca
+
+원터골로
+	원터골/ncn+로/jca
+
+하산하는
+	하산/ncpa+하/xsva+는/etm
+
+길.
+	길/nbu+./sf
+
+
+호젓한
+	호젓/ncps+하/xsms+ㄴ/etm
+
+길에
+	길/ncn+에/jca
+
+핀
+	피/pvg+ㄴ/etm
+
+진달래가
+	진달래/ncn+가/jcs
+
+외롭다
+	외롭/paa+다/ef
+
+.
+	./sf
+
+
+원터골
+	원터골/ncn
+
+약수터
+	약수터/ncn
+
+가는
+	가/pvg+는/etm
+
+길과
+	길/ncn+과/jct
+
+만나는
+	만나/pvg+는/etm
+
+길로
+	길/ncn+로/jca
+
+내려오게
+	내리/pvg+어/ecx+오/px+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+위
+	위/ncn
+
+사진에서
+	사진/ncn+에서/jca
+
+다리
+	다리/ncn
+
+건너면
+	건너/pvg+면/ecs
+
+만나는
+	만나/pvg+는/etm
+
+이정표
+	이정표/ncn
+
+.
+	./sf
+
+
+올라갈
+	오르/pvg+아/ecx+가/px+ㄹ/etm
+
+때에도
+	때/ncn+에/jca+도/jxc
+
+맨
+	맨/mma
+
+처음
+	처음/mag
+
+만난
+	만나/pvg+ㄴ/etm
+
+이정표다
+	이정표/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+출발지인
+	출발지/ncn+이/jp+ㄴ/etm
+
+원터에
+	원터/ncn+에/jca
+
+도달하기
+	도달/ncpa+하/xsva+기/etn
+
+조금
+	조금/mag
+
+전에
+	전/nbn+에/jca
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+에어건
+	에어/ncn+이/jp+건/ecc
+
+먼지털이
+	먼지/ncn+털/ncn+이/jcc
+
+.
+	./sf
+
+
+저렇게
+	저렇/pad+게/ecs
+
+걸려있는
+	걸리/pvg+어/ecx+있/px+는/etm
+
+에어건을
+	에어/ncn+건/ncn+을/jco
+
+뽑아
+	뽑/pvg+어/ecx
+
+...
+	.../se
+
+
+에어건에서
+	에어/ncn+건/ncn+에서/jca
+
+뿜어내는
+	뿜/pvg+어/ecx+내/px+는/etm
+
+센
+	세/paa+ㄴ/etm
+
+공기로
+	공기/ncn+로/jca
+
+옷과
+	옷/ncn+과/jcj
+
+등산화에
+	등산화/ncn+에/jca
+
+묻어있는
+	묻/pvg+어/ecx+있/px+는/etm
+
+먼지를
+	멀/paa+ㄴ/etm+지/nbn+를/jco
+
+털어낸다
+	털/pvg+어/ecx+내/px+ㄴ다/ef
+
+.
+	./sf
+
+
+골프장에서
+	골프장/ncn+에서/jca
+
+흔히
+	흔히/mag
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+시설이지만
+	시설/ncpa+이지만/jxc
+
+
+등산로
+	등산로/ncn
+
+입구에
+	입구/ncn+에/jca
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+이채롭다
+	이채/ncps+롭/xsmn+다/ef
+
+.
+	./sf
+
+
+일렬로
+	일렬/ncn+로/jca
+
+나란히
+	나란히/mag
+
+....
+	.../se+./sf
+
+
+역시
+	역시/mag
+
+강남
+	강남/ncn
+
+서초구답다
+	서초구/ncn+답/xsmn+다/ef
+
+...
+	.../se
+
+
+화창한
+	화창/ncps+하/xsms+ㄴ/etm
+
+날씨의
+	날씨/ncn+의/jcm
+
+식목일기념
+	식목일기념/ncn
+
+벙개산행
+	벙개산행/ncn
+
+.
+	./sf
+
+
+속이
+	속/ncn+이/jcc
+
+다
+	다/mag
+
+후련하다
+	후련/ncps+하/xsms+다/ef
+
+.
+	./sf

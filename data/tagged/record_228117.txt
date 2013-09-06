@@ -1,0 +1,930 @@
+//
+	//sp+//sp
+
+이미지갤러리에
+	이미지갤러리/ncn+에/jca
+
+보여줄
+	보이/pvg+어/ecx+주/px+ㄹ/etm
+
+이미지
+	이미지/ncn
+
+등록
+	등록/ncpa
+
+
+list_gallery_add_image(693733,'files/attach/images/64/117/228/7dfc2ec96a2dab0b163722d83f2ffc64
+	list_gallery_add_image(693733,'files/attach/images/64/117/228/7dfc2ec96a2dab0b163722d83f2ffc64/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(693733,'files/attach/images/64/117/228/85cbb22482ac2ae616351c828260ce08
+	list_gallery_add_image(693733,'files/attach/images/64/117/228/85cbb22482ac2ae616351c828260ce08/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(693733,'files/attach/images/64/117/228/417ac3c876cf20e0a4d9ed9e5b2d75b0
+	list_gallery_add_image(693733,'files/attach/images/64/117/228/417ac3c876cf20e0a4d9ed9e5b2d75b0/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(693733,'files/attach/images/64/117/228/26a54bdf2882b329f930312f0c14136c.
+	list_gallery_add_image(693733,'files/attach/images/64/117/228/26a54bdf2882b329f930312f0c14136c./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(693733,'files/attach/images/64/117/228/f88fe63e8b64cdc97ca6be84542ff346
+	list_gallery_add_image(693733,'files/attach/images/64/117/228/f88fe63e8b64cdc97ca6be84542ff346/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(693733,'files/attach/images/64/117/228/9a2abd047a86d71592bedce2acd0e0ee.
+	list_gallery_add_image(693733,'files/attach/images/64/117/228/9a2abd047a86d71592bedce2acd0e0ee./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(693733,'files/attach/images/64/117/228/3155a2f15fb57dc19466fd51dd5a80e2
+	list_gallery_add_image(693733,'files/attach/images/64/117/228/3155a2f15fb57dc19466fd51dd5a80e2/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(693733,'files/attach/images/64/117/228/6840e40c9a540291f8ede68d82b4c2b5
+	list_gallery_add_image(693733,'files/attach/images/64/117/228/6840e40c9a540291f8ede68d82b4c2b5/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(693733,'files/attach/images/64/117/228/e49585bce1ce077bf76f22c917c49f4e.
+	list_gallery_add_image(693733,'files/attach/images/64/117/228/e49585bce1ce077bf76f22c917c49f4e./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(693733,'files/attach/images/64/117/228/e6fe261299675bb1d9cc94ecba03a560
+	list_gallery_add_image(693733,'files/attach/images/64/117/228/e6fe261299675bb1d9cc94ecba03a560/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(693733,'files/attach/images/64/117/228/9dbe50058ffd0115c219d39898c066f0
+	list_gallery_add_image(693733,'files/attach/images/64/117/228/9dbe50058ffd0115c219d39898c066f0/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(693733,'files/attach/images/64/117/228/413dc1f827d961c2c5f4dd45c24d9b20
+	list_gallery_add_image(693733,'files/attach/images/64/117/228/413dc1f827d961c2c5f4dd45c24d9b20/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(693733,'files/attach/images/64/117/228/40c302fe382048d39292903f8a2ee25f.
+	list_gallery_add_image(693733,'files/attach/images/64/117/228/40c302fe382048d39292903f8a2ee25f./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(693733,'files/attach/images/64/117/228/23066b6869e9a236e80ee8614aaac0bd.
+	list_gallery_add_image(693733,'files/attach/images/64/117/228/23066b6869e9a236e80ee8614aaac0bd./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+//
+	//sp+//sp
+
+window.
+	window/f+./sy
+
+onLoad
+	onLoad/f
+
+이벤트
+	이벤트/ncn
+
+후에
+	후/ncn+에/jca
+
+이미지갤러리
+	이미지갤러리/ncn
+
+시작
+	시작/ncpa
+
+
+xAddEventListener(window,'load',start_list_gallery);
+	xAddEventListener(window,'load',start_list_gallery/ncn+)/sr+;/sy
+
+
+7월
+	7/nnc+월/nbu
+
+1일(일),
+	1일(일),/ncn
+
+아름다운
+	아름답/paa+은/etm
+
+여행으로
+	여행/ncpa+으로/jca
+
+청태산에
+	청태산/ncn+에/jca
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+청태산은
+	청태산/ncn+은/jxc
+
+강원도
+	강원/ncn+도/jxc
+
+횡성과
+	횡성/ncn+과/jcj
+
+평창의
+	평창/ncn+의/jcm
+
+경계가
+	경계/ncn+가/jcs
+
+되는
+	되/pvg+는/etm
+
+산으로,
+	산/ncn+으로/jca+,/sp
+
+유명한
+	유명/ncn+한/ncn
+
+청태산
+	청태산/ncn
+
+자연휴양림이
+	자연/ncn+휴양림/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+산입니다
+	산/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+산림청에서
+	산림/ncn+청/ncn+에서/jca
+
+자연휴양림을
+	자연/ncn+휴양림/ncn+을/jco
+
+조성하고
+	조성/ncpa+하고/jct
+
+숲
+	숲/ncn
+
+관리를
+	관리/ncn+를/jco
+
+잘해,
+	잘하/pvg+어/ecs+,/sp
+
+울창한
+	울창/ncn+한/ncn
+
+숲이
+	숲/ncn+이/jcc
+
+멋진
+	멋지/paa+ㄴ/etm
+
+곳이죠
+	곳/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+청태산
+	청태산/ncn
+
+여행은
+	여행/ncpa+은/jxc
+
+청태산
+	청태산/ncn
+
+자연휴양림에서
+	자연/ncn+휴양림/ncn+에서/jca
+
+자유롭게
+	자유/ncn+롭/xsmn+게/ecs
+
+시간을
+	시간/ncn+을/jco
+
+보내는
+	보내/pvg+는/etm
+
+여행이었습니다
+	여행/ncpa+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+청태산
+	청태산/ncn
+
+정상까지
+	정상/ncn+까지/jxc
+
+산행을
+	산행/ncn+을/jco
+
+하신
+	하/px+시/ep+ㄴ/etm
+
+분들도
+	불/pvg+ㄴ/etm+들/nbn+도/jxc
+
+계셨고,
+	계시/paa+었/ep+고/ecc+,/sp
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+나무데크길을
+	나무/ncn+데크/ncn+길/ncn+을/jco
+
+걷고
+	걷/pvg+고/ecc
+
+숲속에서
+	숲속/ncn+에서/jca
+
+자유롭게
+	자유/ncn+롭/xsmn+게/ecs
+
+시간을
+	시간/ncn+을/jco
+
+보낸
+	보내/pvg+ㄴ/etm
+
+분들도
+	불/pvg+ㄴ/etm+들/nbn+도/jxc
+
+계셨습니다
+	계시/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+본
+	보/px+ㄴ/etm
+
+청태산은
+	청태산/ncn+은/jxc
+
+녹음이
+	녹음/ncn+이/jcc
+
+짙어질
+	짙/paa+어/ecx+지/px+ㄹ/etm
+
+대로
+	대/nbu+로/jca
+
+짙어져
+	짙/paa+어/ecx+지/px+어/ecx
+
+있더군요
+	있/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+마치
+	마치/mag
+
+8월의
+	8/nnc+월/nbu+의/jcm
+
+숲이
+	숲/ncn+이/jcc
+
+연상될
+	연상/ncpa+되/xsvn+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+짙은
+	짙/paa+은/etm
+
+초록의
+	초록/ncn+의/jcm
+
+숲이
+	숲/ncn+이/jcc
+
+펼쳐져
+	펼치/pvg+어/ecx+지/px+어/ecx
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+전날
+	전날/ncn
+
+내린
+	내리/pvg+ㄴ/etm
+
+비로
+	비/ncn+로/jca
+
+숲이
+	숲/ncn+이/jcc
+
+촉촉히
+	촉촉히/mag
+
+젖어
+	젖/pvg+어/ecx
+
+싱그러운
+	싱그럽/paa+은/etm
+
+느낌도
+	느끼/pvg+ㅁ/etn+도/jxc
+
+가득했습니다
+	가득/ncps+하/xsms+었/ep+습니다/ef
+
+.
+	./sf
+
+
+게다가
+	게다가/maj
+
+청태산에
+	청태산/ncn+에/jca
+
+도착했을
+	도착/ncpa+하/xsva+었/ep+을/etm
+
+때는
+	때/ncn+는/jxc
+
+짙은
+	짙/paa+은/etm
+
+안개가
+	안개/ncn+가/jcs
+
+산을
+	산/ncn+을/jco
+
+휘감아
+	휘감/pvg+아/ecx
+
+옅은
+	옅/paa+은/etm
+
+안개비를
+	안개/ncn+비/ncn+를/jco
+
+맞으며
+	맞/pvg+으며/ecc
+
+신비로운
+	신비/ncps+로운/ncn
+
+안개숲을
+	안개/ncn+숲/ncn+을/jco
+
+걷기도
+	걷/pvg+기/etn+도/jxc
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여행에서는
+	여행/ncpa+에서/jca+는/jxc
+
+의외로
+	의외/ncn+로/jca
+
+정상까지
+	정상/ncn+까지/jxc
+
+산행을
+	산행/ncn+을/jco
+
+하신
+	하/px+시/ep+ㄴ/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+많았던
+	많/paa+아/ep+ㄴ/etm
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+참가하신
+	참가/ncpa+하/xsva+시/ep+ㄴ/etm
+
+분의
+	분/nbu+의/jcm
+
+반
+	반/ncn
+
+가까운
+	가깝/paa+은/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+정상에
+	정상/ncn+에/jca
+
+오르신
+	오르/pvg+시/ep+ㄴ/etm
+
+것
+	것/nbn
+
+같더군요
+	같/paa+더군/ef+요/jxf
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여행은
+	여행/ncpa+은/jxc
+
+숲에서의
+	숲/ncn+에서/jca+의/jcm
+
+휴식이
+	휴식/ncpa+이/jcc
+
+주요
+	주요/ncps
+
+테마여서
+	테마/ncn+이/jp+어서/ecs
+
+시간을
+	시간/ncn+을/jco
+
+넉넉하게
+	넉넉/ncps+하/xsms+게/ecs
+
+썼기에,
+	쓰/pvg+었/ep+기/etn+에/jca+,/sp
+
+산행을
+	산행/ncn+을/jco
+
+하기에도
+	하/pvg+기/etn+에/jca+도/jxc
+
+시간은
+	시간/nbu+은/jxc
+
+비교적
+	비교/ncpa+적/ncn
+
+여유로왔습니다
+	여유/ncn+롭/xsmn+었/ep+습니다/ef
+
+.
+	./sf
+
+
+산행을
+	산행/ncn+을/jco
+
+마치고도
+	마치/pvg+고/ecs+도/jxc
+
+숲에서
+	숲/ncn+에서/jca
+
+한가롭게
+	한가/ncps+롭/xsmn+게/ecs
+
+휴식을
+	휴식/ncpa+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+시간이었습니다
+	시간/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+저도
+	저/npp+도/jxc
+
+산행을
+	산행/ncn+을/jco
+
+마치고
+	마치/pvg+고/ecc
+
+한
+	하/pvg+ㄴ/etm
+
+시간
+	시간/nbu
+
+가량을
+	가량/nbu+을/jco
+
+숲
+	숲/ncn
+
+속에서보냈던
+	속에서보냈던/ncn
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여행에서는
+	여행/ncpa+에서/jca+는/jxc
+
+청태산의
+	청태산/ncn+의/jcm
+
+다양한
+	다양/ncn+한/ncn
+
+얼굴을
+	얼굴/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+짙은
+	짙/paa+은/etm
+
+안개가
+	안개/ncn+가/jcs
+
+자욱한
+	자욱/ncn+한/ncn
+
+청태산의
+	청태산/ncn+의/jcm
+
+모습도
+	모습/ncn+도/jxc
+
+또
+	또/maj
+
+햇살
+	햇살/ncn
+
+비추는
+	비추/pvg+는/etm
+
+상큼한
+	상큼/ncps+한/ncn
+
+청태산의
+	청태산/ncn+의/jcm
+
+모습도,
+	모습/ncn+도/jxc+,/sp
+
+비에
+	비/ncn+에/jca
+
+젖은
+	젖/pvg+은/etm
+
+청태산의
+	청태산/ncn+의/jcm
+
+모습도
+	모습/ncn+도/jxc
+
+보았습니다
+	보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+하루에
+	하루/ncn+에/jca
+
+이렇듯
+	이렇/pad+듯/ecs
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+산의
+	산/ncn+의/jcm
+
+풍경을
+	풍경/ncn+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었던
+	있/paa+었/ep+던/etm
+
+것이
+	것/nbn+이/jcc
+
+이번
+	이/nnc+번/nbu
+
+여행의
+	여행/ncpa+의/jcm
+
+즐거움이었던
+	즐거움/ncn+이/jp+었/ep+던/etm
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+청태산의
+	청태산/ncn+의/jcm
+
+청량한
+	청량/ncn+한/ncn
+
+새
+	새/mma
+
+소리도
+	소리/ncn+도/jxc
+
+아주
+	아주/mag
+
+인상적이었습니다
+	인상/ncn+적/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+산에
+	산/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+동안
+	동안/ncn
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+맑고
+	맑/paa+고/ecc
+
+청아한
+	청아/ncn+한/ncn
+
+새
+	새/mma
+
+소리를
+	소리/ncn+를/jco
+
+들을
+	들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+청태산
+	청태산/ncn
+
+여행에
+	여행/ncpa+에/jca
+
+참여하신
+	참여/ncpa+하/xsva+시/ep+ㄴ/etm
+
+분들
+	불/pvg+ㄴ/etm+들/nbn
+
+모두,
+	모두/ncn+,/sp
+
+일요일
+	일요일/ncn
+
+여행이어서
+	여행/ncpa+이/jp+어서/ecs
+
+피로를
+	피로/ncps+를/jco
+
+풀
+	풀/pvg+ㄹ/etm
+
+시간은
+	시간/nbu+은/jxc
+
+모자라지만
+	모자라/pvg+지만/ecs
+
+그래도
+	그래도/maj
+
+여행의
+	여행/ncpa+의/jcm
+
+피로
+	피/ncn+로/jca
+
+빨리
+	빨리/mag
+
+털어내시고
+	털/pvg+어/ecx+내/px+시/ep+고/ecc
+
+활기차게
+	활기차/paa+게/ecs
+
+7월을
+	7/nnc+월/nbu+을/jco
+
+시작하시기
+	시작/ncpa+하시/ncn+이/jp+기/etn
+
+바랍니다~
+	바/nbn+이/jp+랍니다/ef+~/sd
+
+
+이
+	이/mmd
+
+게시물을
+	게시/ncpa+물/ncn+을/jco
+
+...
+	.../se

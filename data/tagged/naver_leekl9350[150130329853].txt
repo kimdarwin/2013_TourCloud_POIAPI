@@ -1,0 +1,498 @@
+리버사이드
+	리버사이드/ncn
+
+호텔앞
+	호텔/ncn+앞/ncn
+
+정자나무는
+	정자나무/ncn+는/jxc
+
+무성한
+	무성/ncn+한/ncn
+
+그늘을
+	그늘/ncn+을/jco
+
+자랑합니다
+	자랑/ncpa+하/xsva+ㅂ니다/ef
+
+
+황토흙길
+	황토흙길/ncn
+
+강변도로를
+	강변도로/ncn+를/jco
+
+자동차
+	자동차/ncn
+
+몇대가
+	몇/nnc+대/nbu+가/jcc
+
+지나가는데
+	지나/pvg+아/ecx+가/px+ㄴ데/ecs
+
+차량
+	차량/ncn
+
+통행이
+	통행/ncpa+이/jcc
+
+많지는
+	많/paa+지/ecs+는/jxc
+
+않습니다
+	않/paa+습니다/ef
+
+
+석양을
+	석양/ncn+을/jco
+
+등지고
+	등지/nbn+이/jp+고/ecc
+
+젊은
+	젊/paa+은/etm
+
+승려가
+	승려/ncn+가/jcs
+
+단아한
+	단아/ncps+하/xsms+ㄴ/etm
+
+모습을
+	모습/ncn+을/jco
+
+보이면서
+	보이/pvg+면서/ecc
+
+메콩강변
+	메콩강/ncn+변/ncn
+
+길을
+	길/ncn+을/jco
+
+따라서
+	따라서/maj
+
+어디론가
+	어디론/ncn+가/jcs
+
+길을
+	길/ncn+을/jco
+
+가고있는
+	가/pvg+고/ecx+있/px+는/etm
+
+모습도
+	모습/ncn+도/jxc
+
+그림입니다
+	그림/ncn+이/jp+ㅂ니다/ef
+
+
+이제
+	이제/mag
+
+메콩강변은
+	메콩강/ncn+변/ncn+은/jxc
+
+완전히
+	완전히/mag
+
+일몰이
+	일/nnc+몰/nbu+이/jcc
+
+끝나서
+	끝나/pvg+아/ecx
+
+잔양이
+	잔양/ncn+이/jcc
+
+서쪽하늘을
+	서쪽/ncn+하늘/ncn+을/jco
+
+붉게
+	붉/paa+게/ecs
+
+물들입니다
+	물/ncn+들/xsncc+이/jp+ㅂ니다/ef
+
+
+저녁식사는
+	저녁식사/ncpa+는/jxc
+
+전통민속
+	전통/ncn+민속/ncn
+
+공연을
+	공연/ncps+을/jco
+
+보여주는호텔의
+	보여주는호텔/ncn+의/jcm
+
+극장식
+	극장/ncn+식/ncn
+
+레스토랑을
+	레스토랑/ncn+을/jco
+
+찾았습니다
+	찾/pvg+아/ep+ㅂ니다/ef
+
+
+식사
+	식사/ncpa
+
+내용은
+	내용/ncn+은/jxc
+
+순수한
+	순수/ncps+하/xsms+ㄴ/etm
+
+오리지널
+	오리지널/ncn
+
+라오스
+	라오스/ncn
+
+식사인데
+	식사/ncpa+이/jp+ㄴ데/ecs
+
+물고기
+	물고기/ncn
+
+젓갈같은거라
+	젓갈/ncn+같/xsmn+은/etm+것/nbn+이/jp+라/ecs
+
+먹기가
+	먹/pvg+기/etn+가/jcs
+
+힘들던
+	힘들/pvg+던/etm
+
+음식이었답니다
+	음식/ncn+이/jp+었/ep+답니다/ef
+
+
+공연장은
+	공연장/ncn+은/jxc
+
+소년티를
+	소년/ncn+티/ncn+를/jco
+
+보여주는
+	보이/pvg+어/ecx+주/px+는/etm
+
+젊은
+	젊/paa+은/etm
+
+악사5명이
+	악사5명/ncn+이/jcc
+
+전부인
+	전부/ncn+이/jp+ㄴ/etm
+
+악단
+	악단/ncn
+
+입니다
+	입/pvg+니다/ef
+
+
+전통공연이라고는
+	전통/ncn+공연/ncpa+이/jp+라/ef+고/jcr+는/jxc
+
+하지만
+	하지만/maj
+
+라오스는
+	라오스/ncn+는/jxc
+
+공연예술이
+	공연예술/ncn+이/jcc
+
+아주
+	아주/mag
+
+낙후된
+	낙후/ncpa+되/xsvn+ㄴ/etm
+
+나라라
+	나라/ncn+이/jp+라/ecs
+
+조명도
+	조/nnc+명/nbu+도/jxc
+
+삼류도
+	삼류/ncn+도/jxc
+
+못되는
+	못되/paa+는/etm
+
+조명을
+	조/nnc+명/nbu+을/jco
+
+사용하고
+	사용/ncpa+하고/jcj
+
+
+공연품질이
+	공연/ncps+품질/ncn+이/jcc
+
+아주
+	아주/mag
+
+열악하답니다
+	열악/ncps+하/xsms+답니다/ef
+
+
+배우라고해도
+	배우/ncn+라/ncn+이/jp+고/ecx+하/px+어도/ecs
+
+7~8명이
+	7/nnc+~/sd+8/nnc+명/nbu+이/jcc
+
+전부인데
+	전부/ncn+이/jp+ㄴ데/ecs
+
+계속
+	계속/mag
+
+옷만
+	옷/ncn+만/jxc
+
+갈아입고
+	갈아입/pvg+고/ecc
+
+다시
+	다시/mag
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+그사람이
+	그사람/ncn+이/jcc
+
+그
+	그/mmd
+
+사람인
+	사람/ncn+이/jp+ㄴ/etm
+
+공연이어서
+	공연/ncps+이/jp+어서/ecs
+
+좀
+	좀/mag
+
+식상하기도
+	식상/ncpa+하/xsva+기/etn+도/jxc
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+아직
+	아직/mag
+
+공연예술이
+	공연예술/ncn+이/jcc
+
+초기라서
+	초/nbu+이/jp+기/etn+이/jp+라서/ecs
+
+몸동작도
+	몸동작/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+어숙하고
+	어숙하/ncn+이/jp+고/ecc
+
+호흡이
+	호흡/ncpa+이/jcc
+
+안맞는
+	안맞/ncn+는/jxc
+
+부분도
+	부분/ncn+도/jxc
+
+가감없이
+	가/pvg+아/ecx+가/px+ㅁ/etn+없이/jca
+
+보여는줍니다만
+	보여는줍니다/ncn+만/jxc
+
+이제
+	이제/mag
+
+라오스의
+	라오스/ncn+의/jcm
+
+민속공연
+	민속공연/ncpa
+
+
+예술이
+	예술/ncn+이/jcc
+
+시작되었기에
+	시작/ncpa+되/xsvn+었/ep+기/etn+에/jca
+
+배우들이
+	배우/ncn+들/ncn+이/jcc
+
+열성하나만은
+	열/pvg+ㄹ/etm+성/nbs+하/xsms+어/ecx+나/px+아/ecs+만은/jxc
+
+대단했습니다
+	대단/ncps+하/xsms+었/ep+습니다/ef
+
+
+그나마
+	그나마/mag
+
+이
+	이/mmd
+
+공연중에
+	공연/ncps+중/ncn+에/jca
+
+제일
+	제일/mag
+
+프로
+	프로/ncn
+
+아저씨인데
+	아저씨/ncn+이/jp+ㄴ데/ecs
+
+새들의
+	새/ncn+들/xsncc+의/jcm
+
+대화소리와
+	대화/ncn+소리/ncn+와/jcj
+
+각종
+	각종/ncn
+
+동물의
+	동물/ncn+의/jcm
+
+소리까지원맨쇼의
+	소리까지원맨쇼/ncn+의/jcm
+
+기네스북감이었답니다
+	기네스북/ncn+감/ncn+이/jp+었/ep+답니다/ef
+
+
+아래공연은
+	아래/ncn+공연/ncpa+은/jxc
+
+대나무를
+	대나무/ncn+를/jco
+
+양쪽에서
+	양쪽/ncn+에서/jca
+
+붙였다
+	붙이/pvg+었/ep+다/ef
+
+떼었다가
+	떼/pvg+었/ep+다가/ecs
+
+하는
+	하/pvg+는/etm
+
+사이에
+	사이/ncn+에/jca
+
+대나무장대
+	대나무/ncn+장대/ncn
+
+안을
+	안/ncn+을/jco
+
+들어왔다
+	들/pvg+어/ecx+오/px+아/ep+다/ef
+
+나갔다
+	나가/pvg+아/ep+다/ef
+
+하는놀이인데
+	하는놀이/ncn+이/jp+ㄴ데/ecs
+
+
+남자
+	남자/ncn
+
+배우가
+	배우/ncn+가/jcs
+
+장대에
+	장대/ncn+에/jca
+
+발이
+	발/ncn+이/jcc
+
+걸려
+	걸리/pvg+어/ecx
+
+넘어지기도
+	넘/pvg+어/ecx+지/px+기/etn+도/jxc
+
+하더라구요
+	하/pvg+더라구/ef+요/jxf
+
+
+아직
+	아직/mag
+
+초보
+	초보/ncn
+
+수준의
+	수준/ncn+의/jcm
+
+공연이지만
+	공연/ncps+이/jp+지만/ecs
+
+순수함과
+	순수함/ncn+과/jcj
+
+열의에
+	열의/ncn+에/jca
+
+박수를
+	박수/ncpa+를/jco
+
+보냈답니다
+	보내/pvg+었/ep+답니다/ef
+
+
+이
+	이/mmd
+
+영국에서
+	영국/ncn+에서/jca
+
+온
+	오/px+ㄴ/etm
+
+꼬마숙녀가
+	꼬마/ncn+숙녀/ncn+가/jcs
+
+수박을
+	수박/ncn+을/jco
+
+맛있게
+	맛있/paa+게/ecs
+
+먹고
+	먹/pvg+고/ecc
+
+있네요
+	있/paa+네요/ef

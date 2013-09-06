@@ -1,0 +1,183 @@
+남아프리카
+	남아/ncn+프리/ncn+카/ncn
+
+공화국
+	공화국/ncn
+
+선시티
+	선시티/ncn
+
+팔래스
+	팔래스/ncn
+
+호텔
+	호텔/ncn
+
+제2탄
+	제2탄/ncn
+
+!
+	!/sf
+
+
+야외
+	야외/ncn
+
+수영장의
+	수영장/ncn+의/jcm
+
+비치체어
+	비치/ncpa+체/ncn+이/jp+어/ef
+
+.
+	./sf
+
+
+투숙객들이
+	투숙객/ncn+들/ncn+이/jcc
+
+한가로이
+	한가로이/mag
+
+쉬고
+	쉬/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+호텔
+	호텔/ncn
+
+내에
+	내/npp+에/jca
+
+있는
+	있/px+는/etm
+
+카지노
+	카지노/ncn
+
+.
+	./sf
+
+
+팔래스
+	팔래스/ncn
+
+호텔
+	호텔/ncn
+
+룸
+	룸/ncn
+
+전경
+	전경/ncn
+
+.
+	./sf
+
+
+룸
+	룸/ncn
+
+안에
+	안/ncn+에/jca
+
+비치되어
+	비치/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+웰컴
+	웰컴/ncn
+
+와인
+	와인/ncn
+
+.
+	./sf
+
+
+궁전같은
+	궁전/ncn+같/xsmn+은/etm
+
+욕실
+	욕실/ncn
+
+.
+	./sf
+
+
+욕실
+	욕실/ncn
+
+용품들
+	용품/ncn+들/ncn
+
+..
+	./sf+./sf
+
+
+*
+	*/sy
+
+Travelphoto
+	Travelphoto/f
+
+bySeo
+	bySeo/f
+
+by
+	by/f
+
+kyoung
+	kyoung/f
+
+/
+	//sp
+
+WritePhoto
+	WritePhoto/f
+
+Edit
+	Edit/f
+
+by
+	by/f
+
+Jang
+	Jang/f
+
+
+*
+	*/sy
+
+담아가실
+	담/pvg+아/ecx+가/px+시/ep+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+반드시
+	반드시/mag
+
+덧글
+	덧글/ncn
+
+달아주세요
+	달/paa+아/ecx+주/px+세/ef+요/jxf
+
+!
+	!/sf
+
+
+*
+	*/sy

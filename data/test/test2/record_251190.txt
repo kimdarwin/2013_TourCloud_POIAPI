@@ -1,0 +1,40 @@
+Title:
+8/8 곰배령 야생화 트레킹 후기
+
+Date:
+2012.08.08
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(360265,'files/attach/images/64/190/251/abda56d5c58d35ec70d7389748557e2b.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/63baf3c8770229cca83b9f081e7eaa3c.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/53d9c0fb6cf05b0509a984564a7cecb7.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/d0bd96e935ac0c3a298dfcb7c83971b3.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/9277c3c71aecb50a4e7713d8d8b6eb95.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/9831e2fd82b42cd3d848a0f9aa38bad1.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/83d9c809a21e0af14a11433c4d706484.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/28e13c5e477f89f55325ada539557042.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/ac8f45f2ceda7c5e2cd58d6bb31c6057.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/0f0f8ea3907d9d9e95bdbf940022eb26.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/c4e739e247ea56e435b604db186647c9.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/5f6b8fcd95333ed7adc5a85e322b0cab.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/a9e6e3635ab1951cf3cebbd223966f0c.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/d99702d9097323599961de81ccb9b958.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/70838e1dc94941b53535b44ce3721f79.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/a3649e6410d9daafb835596279677227.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/d6632900ffdb7a8009a9cbb6678237e1.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/6419d6fac065885475f3fdaa003f9880.jpg');
+list_gallery_add_image(360265,'files/attach/images/64/190/251/9235076c41b42f2deb0a763026b885af.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 8월 8일(수) 곰배령 트레킹을 다녀왔습니다.
+평일 곰배령으로 가는 길은 한산하기만 하였습니다. 입추가 지난 지 하루만이지만 그래서인지 한결 시원해진 느낌이고 실제 곰배령 트레킹 들머리인 진동리 탐방안내소에 도착하니 바람은 기분 좋게 선선하였습니다.
+불어오는 시원한 바람 속을 걸어 강선마을로 가는 길은, 내내 짙은 숲 그늘이며 왼쪽에서는 맑고 투명한 계곡소리가 그 어떤 음악소리보다 감동적이더군요. 요 며칠 더위가 절정에 달해 서울은 불가마 같기만 했는데 딴 세상을 걷는 듯 마음도 발걸음도 시원하기만 합니다.
+8월 곰배령 야생화도 봄만큼 유명하여 이번에는 여름 야생화를 보러 가는 길이었습니다. 대신 곰배령으로 오르는 길목에는 봄처럼 야생화가 많지는 않지만 잔대나 눈빛승마 같은 흔하지 않은 꽃을 드물게 만날 수 있었습니다. 해서 곰배령으로 가는 길목은 꽃보다는 시원함으로 만족을 하며 걷습니다. 그러다 정상에 도착하면 아래 세상과는 너무도 세상을 만납니다.
+마치 하늘에서 내려온 꽃들이 모두 모여 화원을 이루듯 이번 곰배령 정상은 너무도 화사했습니다. 연푸른 긴산꼬리풀, 노랑 곰취꽃, 연분홍 둥근 이질풀 등등등…. 그 외에도 이름을 알 수 없는 수많은 꽃들이 모두 곰배령 천상의 화원에 들어있더군요.
+하늘은 높고 하얀 구름은 더없이 맑았으며 불어오는 바람은 전자제품이 감히 흉내 낼 수 없는 바람의 고품격을 느낄 수 있었습니다. 천상의 화원에 앉아 품격 높은 바람 맞으며 점심으로 먹던 김밥은 최고의 밥상이었습니다.
+그런 곰배령을 뒤로 하고 돌아서기가 얼마나 아쉽던지 아마 오늘 참여하신 회원분들 모두 저와 같은 마음이셨을 거예요. 
+입추가 지났고 이번 주가 지나면 더위는 좀 약해진다고 하니 서울에서도 곰배령의 바람을 조금은 느낄 수 있을까요?^^ 
+이번 여행에 참여하신 회원분들 모두 깔끔하게 여행해주신 덕분에 저도 편안하게 곰배령 탐방을 하였네요. 남은 시간 여행피로 잘 푸시고 남은 주일도 건강하게 잘 보내시기 바랍니다~
+평일 여행으로 다녀온 곰배령의 시원한 바람그리고 야생화들의 꽃 잔치가 아직도 눈에 살갗에 선연하게 남아 있습니다.
+이 게시물을...

@@ -1,0 +1,683 @@
+//
+	//sp+//sp
+
+이미지갤러리에
+	이미지갤러리/ncn+에/jca
+
+보여줄
+	보이/pvg+어/ecx+주/px+ㄹ/etm
+
+이미지
+	이미지/ncn
+
+등록
+	등록/ncpa
+
+
+list_gallery_add_image(722293,'files/attach/images/64/499/221/a86730e828b1d26e379ac92283e4e0df.
+	list_gallery_add_image(722293,'files/attach/images/64/499/221/a86730e828b1d26e379ac92283e4e0df./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(722293,'files/attach/images/64/499/221/17c6d04ff15f782ce812a894405a268c.
+	list_gallery_add_image(722293,'files/attach/images/64/499/221/17c6d04ff15f782ce812a894405a268c./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(722293,'files/attach/images/64/499/221/70e2e3d2d4442d63d4063a1f4a494675
+	list_gallery_add_image(722293,'files/attach/images/64/499/221/70e2e3d2d4442d63d4063a1f4a494675/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(722293,'files/attach/images/64/499/221/7806f4cec7320fc3a2d022be5ea6844d.
+	list_gallery_add_image(722293,'files/attach/images/64/499/221/7806f4cec7320fc3a2d022be5ea6844d./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(722293,'files/attach/images/64/499/221/9cc1b2b65aeefc560c8309d6ebb763df.
+	list_gallery_add_image(722293,'files/attach/images/64/499/221/9cc1b2b65aeefc560c8309d6ebb763df./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(722293,'files/attach/images/64/499/221/1ee438d58dde2aa012b8a0e8be27333a.
+	list_gallery_add_image(722293,'files/attach/images/64/499/221/1ee438d58dde2aa012b8a0e8be27333a./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(722293,'files/attach/images/64/499/221/e1cd26d49539779eab652f1db1f0234f.
+	list_gallery_add_image(722293,'files/attach/images/64/499/221/e1cd26d49539779eab652f1db1f0234f./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(722293,'files/attach/images/64/499/221/3c12030e953d8b39727a2c0425dfdda3
+	list_gallery_add_image(722293,'files/attach/images/64/499/221/3c12030e953d8b39727a2c0425dfdda3/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(722293,'files/attach/images/64/499/221/44331f45fe6ac7a4d53ce3d1866dda88
+	list_gallery_add_image(722293,'files/attach/images/64/499/221/44331f45fe6ac7a4d53ce3d1866dda88/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(722293,'files/attach/images/64/499/221/472d049e53c638d470cd81c4cdb66c43
+	list_gallery_add_image(722293,'files/attach/images/64/499/221/472d049e53c638d470cd81c4cdb66c43/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(722293,'files/attach/images/64/499/221/3f3b1cd211449ecac9611bd5c5b3bb19
+	list_gallery_add_image(722293,'files/attach/images/64/499/221/3f3b1cd211449ecac9611bd5c5b3bb19/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(722293,'files/attach/images/64/499/221/6280eba7a8c3ba12688e0d00f32a145d.
+	list_gallery_add_image(722293,'files/attach/images/64/499/221/6280eba7a8c3ba12688e0d00f32a145d./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(722293,'files/attach/images/64/499/221/6bc3cb7a8183bb6d61dcf8f5b155fb74
+	list_gallery_add_image(722293,'files/attach/images/64/499/221/6bc3cb7a8183bb6d61dcf8f5b155fb74/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+//
+	//sp+//sp
+
+window.
+	window/f+./sy
+
+onLoad
+	onLoad/f
+
+이벤트
+	이벤트/ncn
+
+후에
+	후/ncn+에/jca
+
+이미지갤러리
+	이미지갤러리/ncn
+
+시작
+	시작/ncpa
+
+
+xAddEventListener(window,'load',start_list_gallery);
+	xAddEventListener(window,'load',start_list_gallery/ncn+)/sr+;/sy
+
+
+5월
+	5/nnc+월/nbu
+
+26일(토),
+	26일(토),/ncn
+
+아름다운
+	아름답/paa+은/etm
+
+여행으로
+	여행/ncpa+으로/jca
+
+지리산
+	지리/ncn+산/ncn
+
+노고단과
+	노고/ncn+단/ncn+과/jcj
+
+구례
+	구례/ncn
+
+천은사에
+	천은사/ncn+에/jca
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여행은
+	여행/ncpa+은/jxc
+
+연휴에
+	연휴/ncn+에/jca
+
+날씨도
+	날씨/ncn+도/jxc
+
+좋아서
+	좋/paa+아/ecx
+
+아침부터
+	아침/ncn+부터/jxc
+
+교통정체에
+	교통정체/ncn+에/jca
+
+시달려야
+	시달리/pvg+어야/ecs
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이른
+	이르/paa+ㄴ/etm
+
+아침부터
+	아침/ncn+부터/jxc
+
+고속도로
+	고속도로/ncn
+
+정체가
+	정체/ncn+가/jcs
+
+시작되어
+	시작/ncpa+되/xsvn+어/ecx
+
+수도권을
+	수도권/ncn+을/jco
+
+빠져나가는데
+	빠지/pvg+어/ecx+나/px+아/ecx+가/px+ㄴ데/ecs
+
+애를
+	애/ncn+를/jco
+
+먹었습니다
+	먹/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+첫
+	첫/nno
+
+여행지인
+	여행지/ncn+이/jp+ㄴ/etm
+
+노고단은
+	노고/ncn+단/ncn+은/jxc
+
+지리산의
+	지리/ncn+산/ncn+의/jcm
+
+서쪽
+	서쪽/ncn
+
+봉우리로,
+	봉우리/ncn+로/jca+,/sp
+
+지리산의
+	지리/ncn+산/ncn+의/jcm
+
+산신령인
+	산신령/ncn+이/jp+ㄴ/etm
+
+노고할매에게
+	노고할매에/ncn+이/jp+게/ecs
+
+제사를
+	제사/ncn+를/jco
+
+올리던
+	올리/pvg+던/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+성삼재
+	성삼재/ncn
+
+주차장에서
+	주차장/ncn+에서/jca
+
+약
+	약/ncn
+
+3km를
+	3km/ncn+를/jco
+
+걸어
+	걷/pvg+어/ecx
+
+올라가야
+	오르/pvg+아/ecx+가/px+아/ecx
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+노고단
+	노고/ncn+이/jp+단/etm
+
+정상에서
+	정상/ncn+에서/jca
+
+사방을
+	사방/ncn+을/jco
+
+굽어보는
+	굽/pvg+어/ecx+보/px+는/etm
+
+전망이
+	전망/ncn+이/jcc
+
+빼어난
+	빼/pvg+어/ecx+나/px+ㄴ/etm
+
+곳이죠
+	곳/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+날은
+	날/ncn+은/jxc
+
+날이
+	날/ncn+이/jcc
+
+좋아서
+	좋/paa+아/ecx
+
+비교적
+	비교/ncpa+적/ncn
+
+깨끗한
+	깨끗/ncps+하/xsms+ㄴ/etm
+
+노고단의
+	노고/ncn+단/ncn+의/jcm
+
+조망을
+	조망/ncn+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+날이
+	날/ncn+이/jcc
+
+더워서
+	덥/paa+어서/ecs
+
+걷기
+	걷/pvg+기/etn
+
+힘들지
+	힘들/pvg+지/ecx
+
+않을까
+	않/px+을까/ef
+
+걱정했는데
+	걱정/ncpa+하/xsva+었/ep+는데/ecs
+
+워낙
+	워낙/mag
+
+고지대여서인지
+	고지대/ncn+여서/ncn+이/jp+ㄴ지/ecs
+
+그리
+	그리/mad
+
+덥지도
+	덥/paa+지/ecs+도/jxc
+
+않더군요
+	않/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+노고단의
+	노고/ncn+단/ncn+의/jcm
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+즐기고
+	즐기/pvg+고/ecc
+
+다음
+	다음/ncn
+
+여행지인
+	여행지/ncn+이/jp+ㄴ/etm
+
+천은사를
+	천은사/ncn+를/jco
+
+찾았습니다
+	찾/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+천은사는
+	천은사/ncn+는/jxc
+
+샘이
+	샘/ncn+이/jcc
+
+숨은
+	숨/pvg+은/etm
+
+절이라는
+	절/ncn+이/jp+라/ef+는/etm
+
+독특한
+	독특/ncps+하/xsms+ㄴ/etm
+
+이름을
+	이름/ncn+을/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+절입니다
+	절/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그래서인지
+	그래서/ncn+이/jp+ㄴ지/ecs
+
+물맛이
+	물맛/ncn+이/jcc
+
+좋다고
+	좋/paa+다/ef+고/jcr
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+절이죠
+	절/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+저는
+	저/npp+는/jxc
+
+물맛보다
+	물맛/ncn+보다/jca
+
+절의
+	절/ncn+의/jcm
+
+차분한
+	차분/ncn+한/ncn
+
+분위기가
+	분위기/ncn+가/jcs
+
+더
+	더/mag
+
+좋더군요
+	좋/paa+더군/ef+요/jxf
+
+.
+	./sf
+
+
+언제
+	언제/mag
+
+가도
+	가/px+아/ecs
+
+차분하고
+	차분/ncn+하고/jct
+
+호젓한
+	호젓/ncps+하/xsms+ㄴ/etm
+
+절이죠
+	절/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+천은사를
+	천은사/ncn+를/jco
+
+가볍게
+	가볍/paa+게/ecs
+
+돌아보는
+	돌/pvg+아/ecx+보/px+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+여행을
+	여행/ncpa+을/jco
+
+마무리했습니다
+	마무리/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여행은
+	여행/ncpa+은/jxc
+
+아침에
+	아침/ncn+에/jca
+
+도로
+	도/ncn+로/jca
+
+정체가
+	정체/ncn+가/jcs
+
+심해서
+	심하/paa+어서/ecs
+
+시간이
+	시간/ncn+이/jcc
+
+좀
+	좀/mag
+
+늦어졌습니다
+	늦/paa+어/ecx+지/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+하지만
+	하지만/maj
+
+노고단의
+	노고/ncn+단/ncn+의/jcm
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+풍경과
+	풍경/ncn+과/jcj
+
+천은사의
+	천은/ncn+사의/ncn
+
+차분한
+	차분/ncn+한/ncn
+
+분위기를
+	분위기/ncn+를/jco
+
+잘
+	잘/mag
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었던
+	있/paa+었/ep+던/etm
+
+여행이었습니다
+	여행/ncpa+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여행에
+	여행/ncpa+에/jca
+
+참가하신
+	참가/ncpa+하/xsva+시/ep+ㄴ/etm
+
+분들
+	불/pvg+ㄴ들/ecs
+
+모두
+	모두/mag
+
+여행의
+	여행/ncpa+의/jcm
+
+피로
+	피/ncn+로/jca
+
+잘
+	잘/mag
+
+푸시고,
+	풀/pvg+시/ep+고/ecc+,/sp
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+연휴
+	연휴/ncn
+
+알차게
+	알차/paa+게/ecs
+
+보내시기
+	보내/pvg+시/ep+기/etn
+
+바랍니다~
+	바/nbn+이/jp+랍니다/ef+~/sd
+
+
+이
+	이/mmd
+
+게시물을
+	게시/ncpa+물/ncn+을/jco
+
+...
+	.../se

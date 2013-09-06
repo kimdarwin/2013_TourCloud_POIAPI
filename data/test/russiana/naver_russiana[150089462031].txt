@@ -1,0 +1,74 @@
+Title:
+이병률 끌림 
+
+Date:
+2010.07.06 00:22
+
+Content:
+
+
+
+
+
+ 
+5년만에 새 옷을 갈아입은 이병률의 산문집 '끌림'이 나왔다. 내용은 이미 서너번 읽어서 잘 알지만, 새로 나왔다니 또 한번 읽어보게 된다. 간간이 바뀐 사진들이 보이고 14꼭지-15꼭지의 가슴 뭉클해지는 이야기가 추가되었다.
+
+겉표지가 기름종이로 되어 있어서 손이 지저분하면 책에 고스란히 묻는다.책을 더 아껴 보라는 저자의 마음인가... 여자분들은 기름종이 떨어지면 슬쩍 사용해도 괜찮을 듯 싶다.
+
+
+
+
+
+
+그는프로필에 '술 마시지 않는 사람과는 쉽게 친해지지 않는다'라고 썼는데,
+며칠전 그와 코도 아니고 목이 삐뚫어져라 마셨더니 요즘 한의원 신세다.
+
+
+==============================
+
+
+이번 끌림 개정판과 함께 두 장짜리 끌림 CD가 나왔는데, 아주 주옥같은 곡들이 들어있습니다.입니다.
+아쉽게도 책하고 따로 구입해야 합니다. 7월말 발매예정...
+
+그리고 SONY에서 만든 끌림 영상도 미리 접해보세요!~
+플레이 아이콘을 누르기 전에 ESC키를 먼저 누르세요
+음악이 너무 좋습니다.
+
+이 동영상은 저자의 허락을 받았습니다. 
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc19/2010/07/02/142/031002239119531E10C32971737B9333EC3_russiana_logo.jpg';
+	layout.playtime = '331.506';
+	var qsParam = {};
+	qsParam.vid = '997890D7F7E065109CBD20B7933A170CBA14';
+	qsParam.inKey = 'V12546a050cabf492c31d1860a04f00b73e411cf2105505cbb6e6e69d98152794dfed1860a04f00b73e41';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_09254 = new VideoInfraUGCPlayer('ugcPlayer_09254' ,bean); 
+ugcPlayer_09254.drawPlayLayer(); 
+}
+
+
+
+
+
+ 
+
+
+
+	

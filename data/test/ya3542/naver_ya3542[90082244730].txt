@@ -1,0 +1,89 @@
+Title:
+죽어도 못보내 . 2AM . Live 
+
+Date:
+2010.02.28 16:54
+
+Content:
+
+죽어도 못보내 내가 어떻게 널 보내
+가려거든 떠나려거든 내 가슴 고쳐내
+아프지 않게 나 살아갈 수 라도 있게
+죽어도 못보내.. 요즘 이 노래에 푹 빠졌다.
+듣고또 들어봐도 가슴 저미는 곡..
+'죽어도 못보내' 라이브 영상으로 들어본다. 
+
+죽어도 못보내 - 2AM ( Live 영상 )
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc17/2010/02/28/1692/031002137A11433B7803FB63536B6ED3443_ya3542_logo.jpg';
+	layout.playtime = '191.38';
+	var qsParam = {};
+	qsParam.vid = '479AB89F0EBD3DEA7D33788E63201F8D332E';
+	qsParam.inKey = 'V128819b1c530ad43d42648c7048e97df8b79c0688d08875cd4a9ab339233624b1eb648c7048e97df8b79';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_00286 = new VideoInfraUGCPlayer('ugcPlayer_00286' ,bean); 
+ugcPlayer_00286.drawPlayLayer(); 
+}
+
+
+
+죽어도 못보내 가사
+
+어려도 아픈 건 똑같아
+세상을 잘 모른다고 아픈걸 모르진 않아
+
+괜찮아 질 거라고 왜 거짓말을 해
+이렇게 아픈 가슴이 어떻게 쉽게 낫겠어
+너 없이 어떻게 살겠어 그래서 난
+
+죽어도 못 보내 내가 어떻게 널 보내
+가려거든 떠나려거든 내 가슴 고쳐내
+아프지 않게 나 살아갈 수 라도 있게
+안 된다면 어차피 못살 거
+죽어도 못 보내
+
+아무리 니가 날 밀쳐도 끝까지 붙잡을 거야
+어디로 가지 못하게
+
+정말 갈 거라면 거짓말을 해
+내일 다시 만나자고 웃으면서 보자고
+헤어지잔 말은 농담이라고 아니면 난
+
+죽어도 못 보내 내가 어떻게 널 보내
+가려거든 떠나가려든 내 가슴 고쳐내
+아프지 않게 나 살아갈 수 라도 있게
+안 된다면 어차피 못살 거
+죽어도 못 보내
+
+그 많은 시간을 함께 겪었는데
+이제와 어떻게 혼자 살란 거야
+그렇겐 못해 난 못해
+
+죽어도 못 보내 정말로 못 보내
+내가 어떻게 널 보내
+가려거든 떠나가려든 내 가슴 곡쳐내
+아프지 않게 나 살아갈 수 라도 있게
+안 된다면 어차피 못살 거
+죽어도 못 보내
+
+
+민초호야의 음악공간
+죽어도 못보내
+
+
+	

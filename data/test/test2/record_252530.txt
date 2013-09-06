@@ -1,0 +1,30 @@
+Title:
+8/12 선자령 트레킹 후기
+
+Date:
+2012.08.13
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(221784,'files/attach/images/64/530/252/519fe0934f1c43ed2f0067669275b273.jpg');
+list_gallery_add_image(221784,'files/attach/images/64/530/252/a5e949253f83c355c149d2f27b905a78.jpg');
+list_gallery_add_image(221784,'files/attach/images/64/530/252/ee8bc73a137a7af36ca4a9f32abf72ea.jpg');
+list_gallery_add_image(221784,'files/attach/images/64/530/252/107c49a795f1631f999d81a3b104fbb5.jpg');
+list_gallery_add_image(221784,'files/attach/images/64/530/252/cab487f286250bc6e88d9edb4c062a51.jpg');
+list_gallery_add_image(221784,'files/attach/images/64/530/252/1a931d9a1c499e5d4433fb5125bdeae1.jpg');
+list_gallery_add_image(221784,'files/attach/images/64/530/252/10e5e9d959b015c3c7de5efdb3b069fc.jpg');
+list_gallery_add_image(221784,'files/attach/images/64/530/252/02bead92350d698bf034c3028e7c838a.jpg');
+list_gallery_add_image(221784,'files/attach/images/64/530/252/819c7d9af54b4978d6cf1bf3f238eddf.jpg');
+list_gallery_add_image(221784,'files/attach/images/64/530/252/766fa26d25672f15a04c187e4587661e.jpg');
+list_gallery_add_image(221784,'files/attach/images/64/530/252/78eb036a1bb66c9bd15fd29aaffd19ae.jpg');
+list_gallery_add_image(221784,'files/attach/images/64/530/252/eb8fbe123c397b60acd5400b0a5c40b6.jpg');
+list_gallery_add_image(221784,'files/attach/images/64/530/252/ee58efa422d03e1b1237b85d1303ab25.jpg');
+list_gallery_add_image(221784,'files/attach/images/64/530/252/65d2fef842bd8a9d9e3201082091cf0b.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 12일(일), 아름다운 여행으로 선자령에 다녀왔습니다. 선자령은 대관령 북쪽의 고개로 대관령에서 약 5km 정도 떨어져 있습니다. 오래 전부터 겨울 눈꽃 트레킹의 명소로 유명한 곳이지만, 봄부터 가을까지 번갈아 피어나는 야생화가 많기로도 유명합니다. 그리고 시원한 능선길과 풍발전기가 솟아 있는 들판길, 숲이 울창한 오솔길 등 다양한 풍경을 품고 있어 트레킹을 즐기기에도 더없이 좋은 곳이죠.
+8월의 선자령도 여름꽃이 한가득 피어 있더군요. 불봉선과 모싯대가 가장 많이 눈에 띠었고, 그외에도 이름을 알 수 없는 여름꽃들이 등산로 곳곳에 얼굴을 내밀고 있었습니다. 또 풀이 무성하게 자라서 등산로가 꽤 좁아져 있었습니다. 저는 올봄에 선자령을 다녀오고 세 달만에 선자령을 다시 찾았는데, 어떤 곳은 낯설게 느껴지기까지 하더군요.
+이번 선자령 여행에서는 날씨 덕에 선자령의 여러 얼굴을 볼 수 있었습니다. 대관령에서 트레킹을 시작할 때만 해도 날이 후텁지근하더니, 선자령에 올라서자 한두 방울씩 비가 떨어지더군요. 정상에서 대관령으로 돌아오는 숲길을 걸을 때는 비가 제법 내리기도 해서 비에 젖은 싱그러운 숲속을 걷기도 했습니다. 하지만 비가 내리면 걷기에 좀 불편하기도 합니다. 아마 비 때문에 불편을 겪으신 분도 계실 테고 또 비 때문에 즐거움을 느끼신 분도 계셨을 것 같습니다.
+이번 여행에서는 트레킹은 잘 마쳤는데 돌아오는 길의 도로 상황이 아주 좋지 않았습니다. 마지막 휴가철을 즐겼던 인파가 귀경길에 몰려 영동고속도로가 마치 명절 때를 방불케 할 정도로 막혔습니다. 이런 심한 도로 정체로 서울로 돌아오는 시간이 많이 늦어졌습니다.
+이번 여행에 참여하신 분들은 선자령을 걸으시고 또 도로 정체로 상당히 피곤하셨으리라 생각됩니다. 여행의 피로 잘 푸시고 남은 여름 활기차게 보내시기 바랍니다.
+이 게시물을...

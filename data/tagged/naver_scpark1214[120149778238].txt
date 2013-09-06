@@ -1,0 +1,1033 @@
+-
+	-/sd
+
+연꽃의
+	연꽃/ncn+의/jcm
+
+제주산물
+	제주/ncn+산물/ncn
+
+이야기
+	이야기/ncpa
+
+-
+	-/sd
+
+
+제주시
+	제주/ncn+시/ncn
+
+조천읍
+	조천읍/ncn
+
+신흥리
+	신흥리/ncn
+
+큰물과
+	큰물/ncn+과/jcj
+
+새물깍
+	새물깍/ncn
+
+!!
+	!/sf+!/sf
+
+
+제주시
+	제주/ncn+시/ncn
+
+조천읍
+	조천읍/ncn
+
+조천리와
+	조/nnc+천/nnc+리/nbu+와/jcj
+
+함덕리
+	함덕리/ncn
+
+사이에
+	사이/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+
+바닷가에
+	바닷가/ncn+에/jca
+
+방사탑이
+	방사/ncn+탑/ncn+이/jcc
+
+아름다운
+	아름답/paa+은/etm
+
+제주의
+	제주/ncn+의/jcm
+
+어촌마을이
+	어촌/ncn+마을/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이곳이
+	이곳/npd+이/jcc
+
+바로
+	바로/mag
+
+제주시
+	제주/ncn+시/ncn
+
+조천읍
+	조천읍/ncn
+
+신흥리이다
+	신흥리/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+솟아나는
+	솟/pvg+아/ecx+나/px+는/etm
+
+제주산물이
+	제주/ncn+산물/ncn+이/jcc
+
+있으니
+	있/px+으니/ecs
+
+큰물과
+	큰물/ncn+과/jcj
+
+새물깍이다
+	새물깍/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+조천~함덕간
+	조천~함덕간/ncn
+
+일주도로에서
+	일주도로/ncn+에서/jca
+
+
+바닷가
+	바닷가/ncn
+
+해안도로로
+	해안/ncn+도로/ncn+로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+길을
+	길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecs
+
+
+내려오다
+	내리/pvg+어/ecx+오/px+다/ef
+
+보면
+	보/px+면/ecs
+
+신흥리
+	신흥리/ncn
+
+마을
+	마을/ncn
+
+입구에
+	입구/ncn+에/jca
+
+오랜
+	오랜/mma
+
+세월
+	세/nnc+월/nbu
+
+동안
+	동안/ncn
+
+
+마을
+	마을/ncn
+
+주민들과
+	주민/ncn+들/ncn+과/jcj
+
+동고동락을
+	동고동락/ncpa+을/jco
+
+함께하는
+	함께하/pvg+는/etm
+
+수령이
+	수령/ncpa+이/jcc
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+팽나무
+	팽나무/ncn
+
+두
+	두/nnc
+
+그루가
+	그루/nbu+가/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+이곳에
+	이곳/npd+에/jca
+
+있는
+	있/px+는/etm
+
+물이
+	물/ncn+이/jcc
+
+큰물과
+	큰물/ncn+과/jcj
+
+새물깍이다
+	새물깍/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+큰물과
+	큰물/ncn+과/jcj
+
+새물깍을
+	새물깍/ncn+을/jco
+
+가보실
+	가/pvg+아/ecx+보/px+시/ep+ㄹ/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+아래지도를
+	아래/ncn+지도/ncn+를/jco
+
+참고하세요
+	참/pvg+고/ecx+하/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+새물깍
+	새물깍/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+조천읍
+	조천읍/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01891811",
+	"bl01891811",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"17035846",
+	"/sl+17035846/nnc+"/sr+,/sp
+
+type:"2",
+	type/f+:/sp+"/sl+2/nnc+"/sr+,/sp
+
+title:"새물깍",
+	title:"새물깍",/ncn
+
+pointX:274989,pointY:106587}
+	pointX/f+:/sp+274989/nnc+,/sp+pointY/f+:/sp+106587/nnc+}/sr
+
+
+원래
+	원래/mag
+
+큰물과
+	큰물/ncn+과/jcj
+
+새물깍은
+	새물깍/ncn+은/jxc
+
+물줄기가
+	물줄기/ncn+가/jcs
+
+하나로
+	하나/nnc+로/jca
+
+이어져
+	잇/pvg+어/ecx+지/px+어/ecx
+
+있었는데,
+	있/paa+었/ep+는데/ecs+,/sp
+
+
+마을
+	마을/ncn
+
+안길을
+	안길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+신작로가
+	신작로/ncn+가/jcs
+
+생기면서
+	생기/pvg+면서/ecc
+
+두
+	두/nnc
+
+물은
+	물/ncn+은/jxc
+
+갈라져
+	갈라지/pvg+어/ecx
+
+겨우
+	겨우/mag
+
+명백만
+	명백/ncn+만/jxc
+
+
+유지하고
+	유지/ncn+하고/jct
+
+있을
+	있/px+을/etm
+
+정도이다
+	정도/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+큰물
+	큰물/ncn
+
+앞에는
+	앞/ncn+에/jca+는/jxc
+
+향수를
+	향수/ncn+를/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+하는
+	하/pvg+는/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+모아놓은
+	모으/pvg+아/ecx+놓/px+은/etm
+
+모습도
+	모습/ncn+도/jxc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+신작로를
+	신작로/ncn+를/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+서쪽에
+	서쪽/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+큰물을
+	큰물/ncn+을/jco
+
+먼저
+	먼저/mag
+
+살펴보기로
+	살피/pvg+어/ecx+보/px+기/etn+로/jca
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+큰물은
+	큰물/ncn+은/jxc
+
+비교적
+	비교/ncpa+적/ncn
+
+용출되는
+	용출되/ncn+는/jxc
+
+양이
+	양/ncn+이/jcc
+
+풍부해
+	풍부/ncps+하/xsms+어/ecx
+
+지금도
+	지금/ncn+도/jxc
+
+마을
+	마을/ncn
+
+주민들이
+	주민/ncn+들/ncn+이/jcc
+
+생활용수로
+	생활용수/ncn+로/jca
+
+
+이용을
+	이용/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+예전만
+	예전/ncn+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+노천에서
+	노천/ncn+에서/jca
+
+솟아나는
+	솟/pvg+아/ecx+나/px+는/etm
+
+물을
+	물/ncn+을/jco
+
+그대로
+	그대로/mag
+
+이용했었는데,
+	이용/ncpa+하/xsva+었었/ep+는데/ecs+,/sp
+
+
+물
+	물/pvg+ㄹ/etm
+
+정비를
+	정비/ncpa+를/jco
+
+하면서
+	하/pvg+면서/ecc
+
+햇빛을
+	햇빛/ncn+을/jco
+
+가리는
+	가리/pvg+는/etm
+
+지붕을
+	지붕/ncn+을/jco
+
+덮어
+	덮/pvg+어/ecx
+
+바닥이
+	바닥/ncn+이/jcc
+
+아주
+	아주/mag
+
+미끄러워
+	미끄럽/paa+어/ecs
+
+
+넘어져
+	넘/pvg+어/ecx+지/px+어/ecx
+
+사고가
+	사/pvg+고/ecx+가/px+아/ecx
+
+날
+	나/px+ㄹ/etm
+
+우려가
+	우려/ncpa+가/jcc
+
+매우
+	매우/mag
+
+높다
+	높/paa+다/ef
+
+.
+	./sf
+
+
+아주
+	아주/mag
+
+조심해야
+	조심/ncpa+하/xsva+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+물은
+	물/pvg+ㄴ/etm
+
+동네
+	동네/ncn
+
+아낙네들이
+	아낙네/ncn+들/ncn+이/jcc
+
+모여드는
+	모여들/pvg+는/etm
+
+공간이자
+	공간/ncn+이/jp+자/ecc
+
+사랑방이다
+	사랑/ncn+방/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+제주산물이
+	제주/ncn+산물/ncn+이/jcc
+
+솟아나는
+	솟/pvg+아/ecx+나/px+는/etm
+
+곳은
+	곳/ncn+은/jxc
+
+자연스레
+	자연스레/mag
+
+동네
+	동네/ncn
+
+소식을
+	소식/ncn+을/jco
+
+전하고
+	전하/pvg+고/ecc
+
+듣는
+	듣/pvg+는/etm
+
+공간이
+	공간/ncn+이/jcc
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+동네
+	동네/ncn
+
+아낙네들은
+	아낙네/ncn+들/ncn+은/jxc
+
+빨래를
+	빨래/ncpa+를/jco
+
+하면서
+	하/pvg+면서/ecc
+
+누구네
+	누구/npp+이/jp+네/ef
+
+집은
+	집/ncn+은/jxc
+
+어떻고
+	어떻/pad+고/ecc
+
+어느
+	어느/mmd
+
+집
+	집/ncn
+
+자식은
+	자식/ncn+은/jxc
+
+어떠니
+	어떠/ncn+이/jp+니/ecs
+
+하면서
+	하/pvg+면서/ecc
+
+
+소식을
+	소식/ncn+을/jco
+
+주고받는
+	주/px+고/ecx+받/px+는/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+공간이자
+	공간/ncn+이/jp+자/ecc
+
+삶의
+	삶/ncn+의/jcm
+
+공간이었다
+	공간/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+오늘도
+	오늘/ncn+도/jxc
+
+보니까
+	보/px+니까/ecs
+
+.
+	./sf
+
+
+큰물에서
+	큰물/ncn+에서/jca
+
+솟아나는
+	솟/pvg+아/ecx+나/px+는/etm
+
+제주산물이
+	제주/ncn+산물/ncn+이/jcc
+
+아주
+	아주/mag
+
+시원하고
+	시원/ncn+하고/jcj
+
+
+양도
+	양/ncn+도/jxc
+
+풍부하다
+	풍부/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+제주산물은
+	제주/ncn+산물/ncn+은/jxc
+
+여름에
+	여름/ncn+에/jca
+
+그
+	그/mmd
+
+진가를
+	진가/ncn+를/jco
+
+발휘한다
+	발휘/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+목욕을
+	목욕/ncpa+을/jco
+
+하러
+	하/pvg+러/ecs
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+주민들과
+	주민/ncn+들/ncn+과/jct
+
+심지어
+	심지어/mag
+
+인근
+	인근/ncn
+
+마을에서
+	마을/ncn+에서/jca
+
+몰려든
+	몰/pvg+려/ecs+든/jxc
+
+
+사람들로
+	사람들/ncn+로/jca
+
+하루종일
+	하루종일/ncn
+
+북새통을
+	북새통/ncn+을/jco
+
+이룰
+	이루/pvg+ㄹ/etm
+
+정도이다
+	정도/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+제주산물이
+	제주/ncn+산물/ncn+이/jcc
+
+솟아나는
+	솟/pvg+아/ecx+나/px+는/etm
+
+큰물
+	큰물/ncn
+
+위에
+	위/ncn+에/jca
+
+
+지붕을
+	지붕/ncn+을/jco
+
+얹어
+	얹/pvg+어/ecx
+
+한
+	하/pvg+ㄴ/etm
+
+여름에는
+	여름/ncn+에/jca+는/jxc
+
+햇빛을
+	햇빛/ncn+을/jco
+
+차단하도록
+	차단/ncpa+하/xsva+도록/ecs
+
+만든
+	만들/pvg+ㄴ/etm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+대도로를
+	대도로/ncn+를/jco
+
+건너
+	건너/pvg+어/ecx
+
+새물깍에
+	새물깍/ncn+에/jca
+
+도착했다
+	도착/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+예전만
+	예전/ncn+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+서쪽에서
+	서쪽/ncn+에서/jca
+
+솟아나는
+	솟/pvg+아/ecx+나/px+는/etm
+
+큰물보다도
+	큰물/ncn+보다도/jca
+
+
+더
+	더/mag
+
+유명했던
+	유명/ncps+하/xsms+었/ep+던/etm
+
+새물깍이
+	새물깍/ncn+이/jcc
+
+도로가
+	도로/ncn+가/jcs
+
+생기면서
+	생기/pvg+면서/ecc
+
+그
+	그/mmd
+
+원형을
+	원형/ncn+을/jco
+
+잃어
+	잃/pvg+어/ecs
+
+
+겨우
+	겨우/mag
+
+명맥만
+	명맥/ncn+만/jxc
+
+유지하고
+	유지/ncn+하고/jct
+
+있어
+	있/px+어/ecx
+
+매우
+	매우/mag
+
+안타까웠다
+	안타깝/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+바다와
+	바다/ncn+와/jcj
+
+연접한
+	연접한/ncn
+
+새물깍에는
+	새물깍/ncn+에/jca+는/jxc
+
+이팝나무
+	이팝나무/ncn
+
+자생지도
+	자생지/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+새물깍은
+	새물깍/ncn+은/jxc
+
+신흥리
+	신흥리/ncn
+
+발상지이며
+	발상지/ncn+이/jp+며/ecc
+
+바위구멍에서
+	바위/ncn+구멍/ncn+에서/jca
+
+
+물이
+	물/ncn+이/jcc
+
+솟아
+	솟/pvg+아/ecx
+
+바다로
+	바다/ncn+로/jca
+
+흐르는
+	흐르/pvg+는/etm
+
+제주산물로
+	제주/ncn+산물/ncn+로/jca
+
+상수도가
+	상수도/ncn+가/jcs
+
+보급되기
+	보급/ncpa+되/xsvn+기/etn
+
+전
+	전/nbn
+
+만해도
+	만/nbs+하/xsms+어도/ecs
+
+
+이
+	이/mmd
+
+동네
+	동네/ncn
+
+주민들의
+	주민/ncn+들/ncn+의/jcm
+
+음용수로
+	음용수/ncn+로/jca
+
+사용되어
+	사용/ncpa+되/xsvn+어/ecx
+
+왔을뿐만
+	오/px+아/ep+ㄹ/etm+뿐/nbn+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+가뭄이
+	가뭄/ncn+이/jcc
+
+들어
+	들/pvg+어/ecx
+
+해안변
+	해안/ncn+변/ncn
+
+용천수가
+	용천수/ncn+가/jcc
+
+
+거의
+	거의/mag
+
+다
+	다/mag
+
+메말랐을
+	메마르/pvg+아/ep+ㄹ/etm
+
+경우에도
+	경우/ncn+에/jca+도/jxc
+
+이곳
+	이곳/npd
+
+새물깍
+	새물깍/ncn
+
+용수량은
+	용수량/ncn+은/jxc
+
+변함이
+	변하/pvg+ㅁ/etn+이/jcs
+
+없어
+	없/paa+어/ecx
+
+인근
+	인근/ncn
+
+함덕,
+	함덕,/ncn
+
+조천
+	조/nnc+천/nnc
+
+일대에서
+	일대/ncn+에서/jca
+
+
+농경지
+	농경지/ncn
+
+농업용수로
+	농업용수/ncpa+로/jca
+
+사용되어
+	사용/ncpa+되/xsvn+어/ecx
+
+온
+	오/px+ㄴ/etm
+
+물로
+	물/ncn+로/jca
+
+신흥리민의
+	신흥리/ncn+민/ncn+의/jcm
+
+삶의
+	삶/ncn+의/jcm
+
+터전인
+	터전/ncn+이/jp+ㄴ/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf

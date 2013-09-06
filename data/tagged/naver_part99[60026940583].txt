@@ -1,0 +1,77 @@
+석굴암
+	석굴암/ncn
+
+정상까지
+	정상/ncn+까지/jxc
+
+가는게
+	가/px+는게/ecs
+
+너무
+	너무/mag
+
+힘들었다
+	힘들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+날씨도
+	날씨/ncn+도/jxc
+
+무지
+	무/ncn+이/jp+지/ecs
+
+덥고,
+	덥/paa+고/ecc+,/sp
+
+노을인
+	노을/ncn+이/jp+ㄴ/etm
+
+안아달라고
+	안아달라/ncn+이/jp+고/ecc
+
+하고
+	하/pvg+고/ecc
+
+.....
+	./sy+.../se+./sy
+
+...
+	.../se
+
+
+아빠가
+	아빠/ncn+가/jcs
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+업고
+	업/pvg+고/ecc
+
+간다고
+	가/px+ㄴ다/ef+고/jcr
+
+고생했다
+	고생/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+더워
+	덥/paa+어/ecx
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍기도
+	찍/pvg+기/etn+도/jxc
+
+어렵다
+	어렵/paa+다/ef
+
+.
+	./sf

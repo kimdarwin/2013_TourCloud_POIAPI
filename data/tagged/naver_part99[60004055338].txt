@@ -1,0 +1,534 @@
+출처
+	출처/ncn
+
+astel's
+	astel/f+'/sr+s/f
+
+ouse+
+	ouse+/ncn
+
+|파스텔짱
+	|파스텔짱/ncn
+
+
+아삭한
+	아삭한/ncn
+
+채소의
+	채소/ncn+의/jcm
+
+맛이
+	맛/ncn+이/jcc
+
+자장소스와
+	자장/ncn+소스/ncn+와/jct
+
+잘
+	잘/mag
+
+어울리는
+	어울리/pvg+는/etm
+
+요리
+	요리/mag
+
+
+용량
+	용량/ncn
+
+:
+	:/sp
+
+4인분|
+	4인분|/ncn
+
+칼로리
+	칼로리/nbu
+
+:
+	:/sp
+
+0Kcal|
+	0Kcal|/ncn
+
+조리시간
+	조리/ncn+시간/ncn
+
+:
+	:/sp
+
+40분|
+	40분|/ncn
+
+난이도
+	난이도/ncn
+
+:
+	:/sp
+
+중
+	중/nbn
+
+
+주재료
+	주재료/ncn
+
+:
+	:/sp
+
+
+우동면
+	우동/ncn+면/ncn
+
+4개,
+	4/nnc+개/nbu+,/sp
+
+다진
+	다지/pvg+ㄴ/etm
+
+돼지고기
+	돼지고기/ncn
+
+100g,
+	100g,/ncn
+
+양상추
+	양상추/ncn
+
+100g,
+	100g,/ncn
+
+깻잎
+	깻잎/ncn
+
+10장,
+	10/nnc+장/nbu+,/sp
+
+치커리
+	치커리/ncn
+
+50g,
+	50g,/ncn
+
+방울
+	방울/ncn
+
+토마토
+	토마토/ncn
+
+50g,
+	50g,/ncn
+
+통조림
+	통조림/ncn
+
+옥수수
+	옥수수/ncn
+
+50g,
+	50g,/ncn
+
+양파
+	양파/ncn
+
+1개,
+	1/nnc+개/nbu+,/sp
+
+다진
+	다지/pvg+ㄴ/etm
+
+마늘
+	마늘/ncn
+
+1큰술,
+	1큰술,/ncn
+
+다진
+	다지/pvg+ㄴ/etm
+
+생강
+	생강/ncn
+
+2작은술,
+	2작은술,/ncn
+
+설탕
+	설탕/ncn
+
+2작은술,
+	2작은술,/ncn
+
+식용유,
+	식용유/ncn+,/sp
+
+물
+	물/pvg+ㄹ/etm
+
+2C,
+	2C,/ncn
+
+녹말물
+	녹말/ncn+물/ncn
+
+2큰술,
+	2큰술,/ncn
+
+춘장
+	춘장/ncn
+
+4큰술,
+	4큰술,/ncn
+
+식용유
+	식용유/ncn
+
+4큰술
+	4큰술/ncn
+
+
+1.
+	1./nnc
+
+돼지고기는
+	돼지고기/ncn+는/jxc
+
+살로
+	살/nbu+로/jca
+
+준비하여
+	준비/ncpa+하/xsva+어/ecx
+
+곱게
+	곱/paa+게/ecs
+
+다지고
+	다지/pvg+고/ecc
+
+양파는
+	양파/ncn+는/jxc
+
+사방
+	사방/ncn
+
+1cm크기로
+	1cm크/ncn+이/jp+기/etn+로/jca
+
+네모나게
+	네모나/pvg+게/ecs
+
+썬다.2
+	썬다.2/ncn
+
+.
+	./sf
+
+
+깨끗이
+	깨끗/ncps+이/jcc
+
+씻은
+	씻/pvg+은/etm
+
+야채는
+	야채/ncn+는/jxc
+
+0.5cm
+	0.5cm/ncn
+
+폭으로
+	폭/nbu+으로/jca
+
+채썰고
+	채썰고/ncn
+
+방울
+	방울/ncn
+
+토마토는
+	토마토/ncn+는/jxc
+
+꼭지를
+	꼭지/ncn+를/jco
+
+떼낸다.3
+	떼낸다.3/ncn
+
+.
+	./sf
+
+
+팬에
+	팬/ncn+에/jca
+
+춘장
+	춘장/ncn
+
+4T와
+	4T/ncn+와/jcj
+
+식용유
+	식용유/ncn
+
+4T를
+	4T/ncn+를/jco
+
+넣고
+	넣/pvg+고/ecc
+
+약한불에서
+	약한불/ncn+에서/jca
+
+볶아
+	볶/pvg+아/ecx
+
+체에
+	체/ncn+에/jca
+
+건져
+	건지/pvg+어/ecx
+
+기름을
+	기르/pvg+ㅁ/etn+을/jco
+
+뺀다.4
+	뺀다.4/ncn
+
+.
+	./sf
+
+
+마늘과
+	마늘/ncn+과/jcj
+
+생강은
+	생강/ncn+은/jxc
+
+편으로
+	편/nbn+으로/jca
+
+썬다.5
+	썬다.5/ncn
+
+.
+	./sf
+
+
+팬에
+	팬/ncn+에/jca
+
+기름을
+	기르/pvg+ㅁ/etn+을/jco
+
+넉넉히
+	넉넉히/mag
+
+두르고
+	두르/pvg+고/ecc
+
+마늘과
+	마늘/ncn+과/jcj
+
+생강을
+	생강/ncn+을/jco
+
+넣어
+	넣/pvg+어/ecx
+
+향을
+	향/ncn+을/jco
+
+낸
+	내/pvg+ㄴ/etm
+
+후
+	후/ncn
+
+다진
+	다지/pvg+ㄴ/etm
+
+돼지고기와
+	돼지고기/ncn+와/jcj
+
+양파를
+	양파/ncn+를/jco
+
+넣고
+	넣/pvg+고/ecc
+
+볶다가
+	볶/pvg+다가/ecs
+
+양파가
+	양파/ncn+가/jcs
+
+투명해지면
+	투명/ncps+하/xsms+어/ecx+지/px+면/ecs
+
+볶은
+	볶/pvg+은/etm
+
+춘장을
+	춘장/ncn+을/jco
+
+넣고
+	넣/pvg+고/ecc
+
+다시
+	다시/mag
+
+한번
+	한/nnc+번/nbu
+
+볶아준다.
+	볶/pvg+아/ecx+주/px+ㄴ다/ef+./sf
+
+6
+	6/nnc
+
+.
+	./sf
+
+
+5의
+	5/nnc+의/jcm
+
+팬에
+	팬/ncn+에/jca
+
+물을
+	물/ncn+을/jco
+
+붓고
+	붓/pvg+고/ecc
+
+설탕으로
+	설탕/ncn+으로/jca
+
+맛을
+	맛/ncn+을/jco
+
+낸다.7
+	낸다.7/ncn
+
+.
+	./sf
+
+
+팔팔
+	팔팔/mag
+
+끓으면
+	끓/pvg+으면/ecs
+
+녹말물을
+	녹말/ncn+물/ncn+을/jco
+
+넣어
+	넣/pvg+어/ecx
+
+걸죽하게
+	걸죽/ncps+하/xsms+게/ecs
+
+농도를
+	농도/ncn+를/jco
+
+내어
+	내/pvg+어/ecx
+
+소스를
+	소스/ncn+를/jco
+
+완성한다.
+	완성/ncpa+하/xsva+ㄴ다/ef+./sf
+
+8
+	8/nnc
+
+.
+	./sf
+
+
+우동면은
+	우동/ncn+면/ncn+은/jxc
+
+넉넉한
+	넉넉/ncps+하/xsms+ㄴ/etm
+
+끓는
+	끓/pvg+는/etm
+
+물에
+	물/ncn+에/jca
+
+삶아낸다.
+	삶/pvg+아/ecx+내/px+ㄴ다/ef+./sf
+
+9
+	9/nnc
+
+.
+	./sf
+
+
+야채를
+	야채/ncn+를/jco
+
+아래에
+	아래/ncn+에/jca
+
+깔고
+	깔/pvg+고/ecc
+
+면을
+	면/ncn+을/jco
+
+올린
+	올리/pvg+ㄴ/etm
+
+후
+	후/ncn
+
+자장소스를
+	자장/ncn+소스/ncn+를/jco
+
+부어낸다
+	붓/pvg+어/ecx+내/px+ㄴ다/ef
+
+.
+	./sf
+
+
+요리
+	요리/ncn
+
+Tip
+	Tip/f
+
+
+-
+	-/sd
+
+
+오이채,
+	오/nnc+이/nnc+채/nbu+,/sp
+
+무순
+	무/ncn+순/xsncc
+
+등
+	등/nbu
+
+다양한
+	다양/ncn+한/ncn
+
+채소를
+	채소/ncn+를/jco
+
+곁들여
+	곁들이/pvg+어/ecx
+
+보세요
+	보/px+세/ef+요/jxf
+
+.
+	./sf

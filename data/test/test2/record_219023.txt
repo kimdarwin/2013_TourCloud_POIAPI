@@ -1,0 +1,37 @@
+Title:
+5/19 구천동계곡 트레킹 후기
+
+Date:
+2012.05.19
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(180279,'files/attach/images/64/023/219/47fe4b0b75823205018b558ab3730585.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/4dca34ea6d60daecab270b070d0906a6.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/0f060a95dd9f82147ecfe422bf8d536f.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/0ee29939f157d81ff333245f78e35e40.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/46d74e701fe5f0d07fb2808c4ba4a6e5.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/3a237ed313fc4353ed958335a3b77343.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/ce6200fa0b048a0a0e77e731cfe96507.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/1775b862b50988f8368ac47a12457f86.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/d78a5a3d5dd40aba7703014d767d8d09.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/ca82567dd530390314c4b605fd2d99a9.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/fb4d74116fe641ce92150f90819691e1.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/1e73e42f3022e21ea15033b3b5e297f6.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/7d7cafcd677cdf9ecd9f519cdfaf45d3.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/74d94ab5f80ac40eb611e28b4da42722.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/b3ae05f6e2a0a37bd68acb8c68671814.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/1c459d77534a7afce36e411785b9b2d1.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/b02f2c47c429b6d39cf07ecab8f68e24.jpg');
+list_gallery_add_image(180279,'files/attach/images/64/023/219/0eaa2b27aaa14c2254b5d111eccc504e.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 5월 19일(토) 무주 구천동계곡 트레킹을 다녀왔습니다. 
+이번 여행은 원래 덕유산 트레킹을 계획하고 떠난 여행이었습니다. 무주리조트에 도착하여 곤돌라를 타고 향적봉에 오른후 중봉까지 다녀온 후 지전돌담마을을 돌아볼 계획이었습니다.
+하여 무주리조트 곤돌라 탑승장에 도착하였는데 설천봉부터 향적봉까지 ‘탐방금지’라는 안내문이 붙어 있었습니다. 관리소에 물어보니 어제부터 일주일간 자연생태계와 자연경관 등 자연공원의 보호 기간으로 지정되어 통제를 하게 되었다고 하더군요. 그래서 곤돌라를 타고 설천봉까지만 돌아보고 무주구천동으로 이동해 구천동 계곡 트레킹으로 일정 변경하여 여행을 하게 되었습니다. 사전에 변경된 사항을 점검하지 못하여 일정이 변경 진행되었음에도 불구하고 흔쾌히 양해를 해주신 참여 회원분들 덕분에 구천동계곡으로 이동하였습니다.
+구천동계곡은 무주에서뿐 아니라 이름만 대면 다들 잘 아시는 유명 계곡입니다. 이 계곡을 사이에 두고 백련사까지 임도와 옛길을 걸을 수 있죠. 백련사까지는 왕복 13km로 걷는 시간이 만만치 않아 자유롭게 구간을 정해 걷기로 하였습니다. 구천동계곡은 처음부터 끝까지 걷기에 전혀 어려움이 없고 울창한 숲과 우렁찬 계곡을 감상하며 걷기에 훌륭한 계곡입니다.
+탐방로 초입에는 철쭉이 피었고 숲은 연둣빛으로 화사하여 걷기에 참 좋았습니다. 
+옛길은 자연탐방로로 계곡을 가로지르며 복원된 흙길인데 특히 이 옛길 걷는 구간이 좋았습니다. 옛길은 왕복 약 6.2km 구간이며 지루함이 없어 시간가는 줄 모르고 걸었네요.
+이번 여행은 덕유산 향적봉과 중봉 구간 트레킹을 계획대로 걷지 못한 아쉬움이 크셨을 테지만 변경된 일정도 모두 이해해주시고 구천동계곡의 탐방도 좋아해주셔서 정말 고마웠습니다. 하지만 깔끔하게진행되지 못한 점은 다시 한번 사과 말씀 드리며 다음 여행 진행 전 꼼꼼하게 준비하도록 하겠습니다.
+그리고 무주에 계시는 명예작가 눌산님께서 구천동계곡 트레킹 소식을 듣고 부러 가져다 주신 싱싱한 오이도 모두 고맙게 잘 먹었습니다.^^
+이번 여행에 참여하신 회원분들 모두 수고 많으셨구요, 내일 하루 푹 쉬면서 피로 덜어내시고 즐거운 휴일도 잘 보내시기 바랍니다~이 게시물을...

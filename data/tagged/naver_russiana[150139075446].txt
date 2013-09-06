@@ -1,0 +1,1369 @@
+통도사
+	통도사/ncn
+
+서축암
+	서축암/ncn
+
+절살이
+	절살이/ncn
+
+...
+	.../se
+
+
+새벽의
+	새벽/ncn+의/jcm
+
+어둠,
+	어둠/ncn+,/sp
+
+내
+	내/npp
+
+방의
+	방/ncn+의/jcm
+
+어둠을
+	어둠/ncn+을/jco
+
+파고
+	파/pvg+고/ecc
+
+드는
+	들/pvg+는/etm
+
+목탁
+	목탁/ncn
+
+소리로
+	소리/ncn+로/jca
+
+하루가
+	하루/ncn+가/jcs
+
+시작
+	시작/ncpa
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+새벽
+	새벽/ncn
+
+4시,
+	4/nnc+시/nbu+,/sp
+
+스님의
+	스님/ncn+의/jcm
+
+맑은
+	맑/paa+은/etm
+
+목탁
+	목탁/ncn
+
+소리는
+	소리/ncn+는/jxc
+
+맑고
+	맑/paa+고/ecc
+
+투명한
+	투명/ncps+하/xsms+ㄴ/etm
+
+알람
+	알람/ncn
+
+소리다
+	소리/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+절에
+	절/ncn+에/jca
+
+머물면서
+	머물/pvg+면서/ecc
+
+새벽
+	새벽/ncn
+
+예불하고
+	예불/ncpa+하고/jct
+
+아침
+	아침/ncn
+
+공양(식사)은
+	공양(식사)/ncn+은/jxc
+
+꼭
+	꼭/mag
+
+참석할
+	참석/ncpa+하/xsva+ㄹ/etm
+
+것이라
+	것/nbn+이/jp+라/ecs
+
+자신과
+	자신/ncn+과/jct
+
+약속했다.
+	약속/ncpa+하/xsva+었/ep+다/ef+./sf
+
+4시
+	4/nnc+시/nbu
+
+15분
+	15/nnc+분/nbu
+
+대웅전에서
+	대웅전/ncn+에서/jca
+
+예불이
+	예불/ncpa+이/jcc
+
+시작된다
+	시작/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+시간
+	시간/nbu
+
+만큼은
+	만큼/nbn+은/jxc
+
+잠을
+	잠/ncn+을/jco
+
+늦게
+	늦/paa+게/ecs
+
+잤어도
+	자/pvg+아/ep+아/ecs
+
+정신이
+	정신/ncn+이/jcc
+
+말똥말똥하다
+	말똥말똥하/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+원칙은
+	원칙/ncn+은/jxc
+
+아침
+	아침/ncn
+
+공양(식사)까지
+	공양(식사)까지/ncn
+
+예불을
+	예불/ncpa+을/jco
+
+해야
+	하/pvg+어야/ecs
+
+하지만,
+	하/pvg+지/ecx+말/px+ㄴ/etm+,/sp
+
+간단히
+	간단히/mag
+
+새벽
+	새벽/ncn
+
+예불을
+	예불/ncpa+을/jco
+
+마치고
+	마치/pvg+고/ecc
+
+방으로
+	방/ncn+으로/jca
+
+발길을
+	발길/ncn+을/jco
+
+돌린다
+	돌리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+이때부터
+	이때/ncn+부터/jxc
+
+졸음과
+	졸/pvg+ㅁ/etn+과/jcj
+
+싸움이다
+	싸우/pvg+ㅁ/etn+이/jp+다/ef
+
+.
+	./sf
+
+
+잠을
+	잠/ncn+을/jco
+
+자버리면
+	자/pvg+아/ecx+버리/px+면/ecs
+
+아침
+	아침/ncn
+
+공양을
+	공양/ncpa+을/jco
+
+놓칠
+	놓치/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+있고,
+	있/px+고/ecc+,/sp
+
+버티려니
+	버티/pvg+려니/ecs
+
+정신이
+	정신/ncn+이/jcc
+
+몽롱하다
+	몽롱/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+아침
+	아침/ncn
+
+공양까지는
+	공양/ncpa+까지/jxc+는/jxc
+
+새우
+	새우/ncn
+
+잠을
+	잠/ncn+을/jco
+
+잔다
+	자/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+깊게
+	깊/paa+게/ecs
+
+안
+	알/pvg+ㄴ/etm
+
+자려고
+	자/nbn+이/jp+려고/ecs
+
+이불
+	이/nnc+불/nbu
+
+안
+	안/mag
+
+덮고
+	덮/pvg+고/ecc
+
+불을
+	불/ncn+을/jco
+
+켜
+	크/paa+어/ecx
+
+놓는다
+	놓/px+는다/ef
+
+.
+	./sf
+
+
+가끔
+	가끔/mag
+
+공양
+	공양/ncpa
+
+시간을
+	시간/ncn+을/jco
+
+넘기기도
+	넘/pvg+기/etn+이/jp+기/etn+도/jxc
+
+하는데,
+	하/pvg+ㄴ데/ecs+,/sp
+
+그럴
+	그렇/pad+을/etm
+
+때면
+	때/nbn+이/jp+면/ecs
+
+문
+	문/ncn
+
+바로
+	바로/mag
+
+앞에서
+	앞/ncn+에서/jca
+
+공양하러
+	공양/ncpa+하/xsva+러/ecs
+
+오라는
+	오/px+라/ef+는/etm
+
+목탁
+	목탁/ncn
+
+소리
+	소리/ncn
+
+우렁차다
+	우렁차/paa+다/ef
+
+.
+	./sf
+
+
+오전에는
+	오전/ncn+에/jca+는/jxc
+
+방에
+	방/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+러시아
+	러시아/ncn
+
+여행을
+	여행/ncpa+을/jco
+
+다시
+	다시/mag
+
+하는
+	하/pvg+는/etm
+
+기분으로
+	기분/ncn+으로/jca
+
+글을
+	글/ncn+을/jco
+
+쓰고오후에는
+	쓰고오후/ncn+에/jca+는/jxc
+
+근처
+	근처/ncn
+
+암자
+	암자/ncn
+
+소풍을
+	소풍/ncpa+을/jco
+
+가든가
+	가/px+든가/ecc
+
+절집
+	절집/ncn
+
+일을
+	일/ncn+을/jco
+
+돕기도
+	돕/pvg+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+전생에
+	전생/ncn+에/jca
+
+절과
+	절/ncn+과/jcj
+
+무슨
+	무슨/mmd
+
+인연이
+	인연/ncn+이/jcc
+
+있길래
+	있/px+길래/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+절집
+	절집/ncn
+
+생활을
+	생활/ncpa+을/jco
+
+하게
+	하/pvg+게/ecs
+
+됐을까요
+	되/pvg+었/ep+을까/ef+요/jxf
+
+.
+	./sf
+
+
+쉽게
+	쉽/paa+게/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+경험이라
+	경험/ncpa+이/jp+라/ecs
+
+머무는
+	머물/pvg+는/etm
+
+시간
+	시간/nbu
+
+만큼은
+	만큼/nbn+은/jxc
+
+내
+	내/npp
+
+자신에게
+	자신/ncn+에게/jca
+
+최선을
+	최선/ncn+을/jco
+
+다하려고
+	다하/pvg+려고/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+다시
+	다시/mag
+
+한
+	하/pvg+ㄴ/etm
+
+번
+	번/nbu
+
+절집에
+	절집/ncn+에/jca
+
+머물게
+	머물/pvg+게/ecs
+
+해준
+	하/pvg+어/ecx+주/px+ㄴ/etm
+
+여러
+	여러/mma
+
+스님들께
+	스님/ncn+들/ncn+께/jca
+
+감사의
+	감사/ncpa+의/jcm
+
+말씀
+	말씀/ncpa
+
+올립니다
+	올리/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+동안
+	동안/ncn
+
+절집
+	절집/ncn
+
+이야기
+	이야기/ncpa
+
+들어주신
+	들/pvg+어/ecx+주/px+시/ep+ㄴ/etm
+
+이웃께도
+	이웃/ncpa+께/jca+도/jxc
+
+감사드립니다
+	감사드리/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+머무는
+	머물/pvg+는/etm
+
+요사채입니다
+	요사/ncpa+채/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+새벽
+	새벽/ncn
+
+예불
+	예불/ncpa
+
+후에는
+	후/ncn+에/jca+는/jxc
+
+관광객들이
+	관광객/ncn+들/ncn+이/jcc
+
+사용한
+	사용/ncpa+하/xsva+ㄴ/etm
+
+빨간
+	빨갛/paa+은/etm
+
+바가지를
+	바가지/ncn+를/jco
+
+씻어서
+	씻/pvg+어서/ecs
+
+걸어두지요
+	걷/pvg+어/ecx+두/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+아침마다
+	아침/ncn+마다/jxc
+
+소일이
+	소일/ncn+이/jcc
+
+생긴
+	생기/pvg+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+얼마나
+	얼마나/mag
+
+반갑던지
+	반갑/paa+더/ep+ㄴ지/ecs
+
+...
+	.../se
+
+
+제가
+	저/npp+가/jcs
+
+머무는
+	머물/pvg+는/etm
+
+방을
+	방/ncn+을/jco
+
+공개합니다
+	공개/ncpa+하/xsva+ㅂ니다/ef
+
+!
+	!/sf
+
+
+짜잔
+	짜잔/ncn
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+아주
+	아주/mag
+
+단촐하지요
+	단촐하/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+석가탄신일날
+	석가탄신일날/ncn
+
+오셔서
+	오/px+시/ep+어서/ecs
+
+원목
+	원목/ncn
+
+냄새
+	냄새/ncn
+
+가득한
+	가득/ncps+한/ncn
+
+이
+	이/mmd
+
+방에서
+	방/ncn+에서/jca
+
+하루
+	하루/ncn
+
+주무셔요
+	주무시/pvg+어/ef+요/jxf
+
+^^최근에
+	^/sy+^/sy+최근/ncn+에/jca
+
+내부를
+	내부/ncn+를/jco
+
+바꿔봤습니다
+	바꾸/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+벽을
+	벽/ncn+을/jco
+
+보며
+	보/px+며/ecc
+
+있으면
+	있/px+으면/ecs
+
+잡생각이
+	잡생각/ncn+이/jcc
+
+줄어드는데
+	줄어들/pvg+ㄴ데/ecs
+
+등은
+	등/nbu+은/jxc
+
+아프고,벽에
+	아프/paa+고/ecc+,/sp+벽/ncn+에/jca
+
+기대면
+	기대/pvg+면/ecs
+
+몸은
+	몸/ncn+은/jxc
+
+편안한데
+	편안/ncps+한데/ncn
+
+잡생각이
+	잡생각/ncn+이/jcc
+
+많아집니다
+	많/paa+아/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+절에서는
+	절/ncn+에서/jca+는/jxc
+
+고기를
+	고/ncn+이/jp+기/etn+를/jco
+
+먹지
+	먹/pvg+지/ecx
+
+않기
+	않/px+기/etn
+
+때문에단백질은
+	때문에단백질/ncn+은/jxc
+
+주로
+	주로/mag
+
+두부와
+	두/nnc+부/nbu+와/jcj
+
+버섯으로
+	버섯/ncn+으로/jca
+
+대신한답니다
+	대/nbu+이/jp+시/ep+ㄴ/etm+한/nbn+답/xsmn+니다/ef
+
+.
+	./sf
+
+
+채식을
+	채식/ncpa+을/jco
+
+한다고는
+	하/px+ㄴ다/ef+고/jcr+는/jxc
+
+하지만
+	하/pvg+지만/ecs
+
+모든
+	모든/mma
+
+채소를
+	채소/ncn+를/jco
+
+먹는
+	먹/pvg+는/etm
+
+것도
+	것/nbn+도/jxc
+
+아닙니다
+	아니/paa+ㅂ니다/ef+./sf
+
+.
+	./sf
+
+
+매운
+	맵/paa+은/etm
+
+맛을
+	맛/ncn+을/jco
+
+내는
+	내/npp+는/jxc
+
+오신채(마늘,
+	오신채(마늘,/ncn
+
+파,
+	파/ncn+,/sp
+
+부추,
+	부추/ncn+,/sp
+
+달래,
+	달래/pvg+어/ecs+,/sp
+
+흥거)도
+	흥거)/ncn+도/jxc
+
+먹지
+	먹/pvg+지/ecx
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+매운
+	맵/paa+은/etm
+
+맛은
+	맛/ncn+은/jxc
+
+방앗잎,
+	방앗잎,/ncn
+
+들깨,
+	들깨/ncn+,/sp
+
+제피로
+	제/xp+피/ncn+로/jca
+
+대신합니다
+	대신/ncpa+하/xsva+ㅂ니다/ef
+
+.!!!
+	./sf+!/sf+!/sf+!/sf
+
+
+(제피
+	(/sl+제/xp+피/ncn
+
+국수
+	국수/ncn
+
+이야기
+	이야기/ncpa
+
+클릭
+	클릭/ncpa
+
+-http://quantastic.
+	-/sd+http/f+:/sp+//sp+//sp+quantastic/f+./sy
+
+kr/150138514991생선도
+	kr/150138514991생선/ncn+도/jxc
+
+먹지
+	먹/pvg+지/ecx
+
+않으니
+	않/px+으니/ecs
+
+멸치
+	멸치/ncn
+
+국수는
+	국수/ncn+는/jxc
+
+먹어볼
+	먹/pvg+어/ecx+보/px+ㄹ/etm
+
+일이
+	일/ncn+이/jcc
+
+없고,
+	없/paa+고/ecc+,/sp
+
+다시다로만
+	다시다로만/ncn
+
+육수를
+	육수/ncn+를/jco
+
+낸
+	내/pvg+ㄴ/etm
+
+국수를
+	국수/ncn+를/jco
+
+먹습니다
+	먹/pvg+습니다/ef
+
+.
+	./sf
+
+
+사찰에서
+	사찰/ncn+에서/jca
+
+머물면서
+	머물/pvg+면서/ecc
+
+가장
+	가장/mag
+
+힘든
+	힘들/pvg+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+채식이라고
+	채식/ncpa+이/jp+라/ef+고/jcr
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있겠습니다
+	있/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+평소에
+	평소/ncn+에/jca
+
+채식을
+	채식/ncpa+을/jco
+
+주로
+	주로/mag
+
+했지만,
+	하/px+었/ep+지만/ecs+,/sp
+
+오신채까지
+	오/px+시/ep+ㄴ/etm+채/nbn+까지/jxc
+
+못
+	못/mag
+
+먹으니
+	먹/pvg+으니/ecs
+
+여간
+	여간/mag
+
+힘든
+	힘들/pvg+ㄴ/etm
+
+게
+	것/nbn+이/jcs
+
+아닙니다
+	아니/paa+ㅂ니다/ef+./sf
+
+.
+	./sf
+
+
+공양(식사)
+	공양(식사)/ncn
+
+시간
+	시간/nbu
+
+6:30,
+	6/nnc+:/sp+30/nnc+,/sp
+
+11:30,
+	11/nnc+:/sp+30/nnc+,/sp
+
+17:30저는
+	17:30저/ncn+는/jxc
+
+공양이
+	공양/ncpa+이/jcc
+
+끝나고
+	끝나/pvg+고/ecc
+
+설겆이를
+	설겆이/ncpa+를/jco
+
+주로
+	주로/mag
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+식사는
+	식사/ncpa+는/jxc
+
+스님이
+	스님/ncn+이/jcc
+
+먼저
+	먼저/mag
+
+...
+	.../se
+
+
+공양미를
+	공양미/ncn+를/jco
+
+자루에
+	자루/ncn+에/jca
+
+담는
+	담/pvg+는/etm
+
+아이들소만
+	아이/ncn+들소/ncn+만/jxc
+
+아침
+	아침/ncn
+
+내
+	내/npp
+
+문지방에
+	문지방/ncn+에/jca
+
+살포시
+	살포시/mag
+
+내려
+	내리/pvg+어/ecx
+
+앉은
+	앉/pvg+은/etm
+
+나비
+	나비/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+마리석가탄신일을
+	마리석가탄신일/ncn+을/jco
+
+맞이하여
+	맞이/ncpa+하/xsva+어/ecx
+
+주변
+	주변/ncn
+
+화단
+	화단/ncn
+
+정리에
+	정리/ncn+에/jca
+
+여념이
+	여념/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+우진
+	우진/ncn
+
+스님과
+	스님/ncn+과/jcj
+
+임곡
+	임곡/ncn
+
+스님우진
+	스님우진/ncn
+
+스님,
+	스님/ncn+,/sp
+
+임곡
+	임곡/ncn
+
+스님,
+	스님/ncn+,/sp
+
+성오
+	성오/ncn
+
+스님,
+	스님/ncn+,/sp
+
+명운
+	명운/ncn
+
+스님석가탄신일
+	스님석가탄신/ncn+이/jp+ㄹ/etm
+
+며칠
+	며칠/ncn
+
+전
+	전/nbn
+
+마당에
+	마당/ncn+에/jca
+
+달
+	달/nbu
+
+연등입니다
+	열/pvg+ㄴ/etm+등/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+서축암
+	서축암/ncn
+
+입구에는
+	입구/ncn+에/jca+는/jxc
+
+벌써
+	벌써/mag
+
+한지
+	하/pvg+ㄴ지/ecs
+
+팔각등이
+	팔각/ncn+등/ncn+이/jcc
+
+달렸습니다
+	달리/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+한지로
+	하/pvg+ㄴ/etm+지/nbn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+등이라
+	등/nbn+이/jp+라/ecs
+
+색이
+	색/ncn+이/jcc
+
+곱습니다
+	곱/paa+습니다/ef
+
+.
+	./sf
+
+
+서축암
+	서축암/ncn
+
+절살이
+	절살이/ncn
+
+(TEMPLE
+	(/sl+TEMPLE/f
+
+STAY)
+	STAY/f+)/sr
+
+하고픈
+	하고픈/ncn
+
+이웃
+	이웃/ncpa
+
+손들어
+	손들/pvg+어/ecx
+
+보소
+	보소/ncn
+
+!
+	!/sf
+
+
+5월
+	5/nnc+월/nbu
+
+25일부터
+	25/nnc+일/nbu+부터/jxc
+
+28일까지
+	28/nnc+일/nbu+까지/jxc
+
+가능합니다
+	가능/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+원하시는
+	원하/pvg+시/ep+는/etm
+
+분은
+	분/nbu+은/jxc
+
+머물
+	머물/pvg+ㄹ/etm
+
+날짜하고
+	날짜/ncn+하고/jct
+
+인원
+	인원/ncn
+
+알려주세요
+	알리/pvg+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+시간이
+	시간/ncn+이/jcc
+
+되면
+	되/pvg+면/ecs
+
+통도사
+	통도사/ncn
+
+버스터미널로
+	버스터미널/ncn+로/jca
+
+픽업갈게요
+	픽업갈게요/ncn
+
+^^절집에
+	^^절집/ncn+에/jca
+
+머물며,
+	머물/pvg+며/ecc+,/sp
+
+절밥을
+	절밥/ncn+을/jco
+
+먹고,
+	먹/pvg+고/ecc+,/sp
+
+울력을
+	울력/ncn+을/jco
+
+하며,
+	하/pvg+며/ecc+,/sp
+
+이웃
+	이웃/ncpa
+
+암자
+	암자/ncn
+
+소풍
+	소풍/ncpa
+
+다닙시다
+	다니/pvg+ㅂ시다/ef
+
+.
+	./sf
+
+
+덧,1
+	덧,1/ncn
+
+.
+	./sf
+
+
+담배를
+	담배/ncn+를/jco
+
+꼭
+	꼭/mag
+
+피워야
+	피우/pvg+어야/ecs
+
+한다.2
+	한다.2/ncn
+
+.
+	./sf
+
+
+고기를
+	고/ncn+이/jp+기/etn+를/jco
+
+꼭
+	꼭/mag
+
+먹어야
+	먹/pvg+어야/ecs
+
+한다.3
+	한다.3/ncn
+
+.
+	./sf
+
+
+아침잠은
+	아침/ncn+잠/ncn+은/jxc
+
+꼭
+	꼭/mag
+
+자야
+	자/pvg+아/ecx
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+는
+	늘/pvg+ㄴ/etm
+
+분은
+	분/nbu+은/jxc
+
+다시
+	다시/mag
+
+한
+	하/pvg+ㄴ/etm
+
+번
+	번/nbu
+
+생각
+	생각/ncpa
+
+해보시구요
+	해보시구요/ncn
+
+^^
+	^/sy+^/sy

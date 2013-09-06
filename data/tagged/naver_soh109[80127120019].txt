@@ -1,0 +1,804 @@
+`
+	`/sl
+
+원할머니
+	원할머니/ncn
+
+보쌈전라남도
+	보쌈/ncn+전라/ncn+남/ncn+도/jxc
+
+순천시
+	순천시/ncn
+
+연향동
+	연향동/ncn
+
+1318-3
+	1318/nnc+-3/nnc
+
+보임빌딩
+	보임빌딩/ncn
+
+1층
+	1/nnc+층/nbu
+
+tel
+	tel/f
+
+061.
+	061./nnc
+
+721.
+	721./nnc
+
+6070
+	6070/nnc
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+bossam.
+	bossam/f+./sy
+
+co.
+	co/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+어머니
+	어머니/ncn
+
+생신을
+	생신/ncn+을/jco
+
+맞아서~
+	맞/pvg+아서/ecs+~/sd
+
+벌써
+	벌써/mag
+
+일주일이
+	일/nnc+주일/nbu+이/jcc
+
+되어가지만
+	되/pvg+어/ecx+가/px+지만/ecs
+
+..
+	./sf+./sf
+
+
+순천에
+	순천/ncn+에/jca
+
+내려갔을적에
+	내리/pvg+어/ecx+가/px+아/ep+ㄹ/etm+적/nbn+에/jca
+
+엄마
+	엄마/ncn
+
+아빠가
+	아빠/ncn+가/jcs
+
+옷사러
+	옷사/ncn+이/jp+러/ecs
+
+상경하셔서
+	상경/ncpa+하/xsva+시/ep+어서/ecs
+
+함께
+	함께/mag
+
+점심을
+	점심/ncn+을/jco
+
+먹게
+	먹/pvg+게/ecs
+
+되었답니다
+	되/nbu+이/jp+었/ep+답니다/ef
+
+
+뭘
+	뭐/npd+을/jco
+
+먹을까
+	먹/pvg+을까/ef
+
+고민고민
+	고민/ncpa+고민/ncpa
+
+하다가~
+	하/pvg+다가/ecs+~/sd
+
+보쌈을
+	보쌈/ncn+을/jco
+
+먹으러
+	먹/pvg+으러/ecs
+
+왔어욤
+	왔어욤/ncn
+
+꺄햐~~
+	꺄햐/ncn+~/sd+~/sd
+
+
+순천에서
+	순천/ncn+에서/jca
+
+놀부보쌈은
+	놀부보쌈/ncn+은/jxc
+
+가봤는데~
+	가/pvg+아/ecx+보/px+아/ep+ㄴ데/ecs+~/sd
+
+원할머니보쌈은
+	원할머니보쌈/ncn+은/jxc
+
+보기만
+	보/px+기/etn+만/jxc
+
+하고
+	하/pvg+고/ecc
+
+요로코롬
+	요로코롬/ncn
+
+찾아온건
+	찾아온건/ncn
+
+처음이라지요
+	처음/ncn+이라/jca+이/jp+지요/ef
+
+
+메뉴판을
+	메뉴판/ncn+을/jco
+
+쏭쏭
+	쏭쏭/ncn
+
+보면서
+	보/px+면서/ecc
+
+주문을
+	주문/ncn+을/jco
+
+하였어욤
+	하였어욤/ncn
+
+..
+	./sf+./sf
+
+
+남동생은
+	남동생/ncn+은/jxc
+
+일요일인데도
+	일요일/ncn+이/jp+ㄴ데/ecs+도/jxc
+
+일을
+	일/ncn+을/jco
+
+한다고
+	하/px+ㄴ다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+남동생만
+	남동생/ncn+만/jxc
+
+빠지고
+	빠지/pvg+고/ecc
+
+6명이
+	6/nnc+명/nbu+이/jcc
+
+모였군요
+	모/nbu+이/jp+었/ep+군요/ef
+
+
+물론
+	물론/mag
+
+조카
+	조카/ncn
+
+혜원냥이랑
+	혜원냥이랑/ncn
+
+함께
+	함께/mag
+
+
+첫번째로
+	첫/nno+번/nbu+째/xsnu+로/jca
+
+시킨것은
+	시키/pvg+ㄴ/etm+것/nbn+은/jxc
+
+보쌈이랍니다~
+	보쌈/ncn+이/jp+랍니다/ef+~/sd
+
+!!
+	!/sf+!/sf
+
+
+정말
+	정말/mag
+
+푸짐하게
+	푸짐/ncps+하/xsms+게/ecs
+
+보쌈이
+	보쌈/ncn+이/jcc
+
+나와용
+	나와/ncn+용/ncn
+
+더군다나~
+	더군다나~/ncn
+
+가스렌지
+	가스렌지/ncn
+
+위에
+	위/ncn+에/jca
+
+올려져서
+	올리/pvg+어/ecx+지/px+어서/ecs
+
+약한불로
+	약한불/ncn+로/jca
+
+켜주더라구요
+	크/paa+어/ecx+주/px+더라구/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+아무래도
+	아무렇/pad+어도/ecs
+
+뜨끈뜨끈하게
+	뜨끈뜨끈하/paa+게/ecs
+
+먹는게
+	먹/pvg+는게/ecs
+
+좋다고
+	좋/paa+다/ef+고/jcr
+
+요로코롬
+	요로코롬/ncn
+
+해주더라구요
+	하/pvg+어/ecx+주/px+더라구/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+촌티
+	촌티/ncn
+
+팍팍
+	팍팍/mag
+
+나게
+	나/npp+이/jp+게/ecs
+
+사실
+	사실/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+보쌈집에서
+	보쌈/ncn+집/ncn+에서/jca
+
+가스렌지
+	가스렌지/ncn
+
+위에
+	위/ncn+에/jca
+
+올려주면서
+	올리/pvg+어/ecx+주/px+면서/ecc
+
+열로
+	열/nnc+로/jca
+
+가열해주는건
+	가열해주는건/ncn
+
+처음
+	처음/mag
+
+본다지요
+	본다/ncn+이/jp+지/ef+요/jxf
+
+;;;
+	;/sy+;/sy+;/sy
+
+
+이런
+	이런/mmd
+
+사소한거에
+	사소한거/ncn+에/jca
+
+감동아닌
+	감동아닌/ncn
+
+감동을
+	감동/ncpa+을/jco
+
+그래서
+	그래서/maj
+
+한접시
+	한접시/ncn
+
+다
+	다/mag
+
+먹도록
+	먹/pvg+도록/ecs
+
+뜨끈하게
+	뜨끈하/ncn+이/jp+게/ecs
+
+먹었다지요
+	먹었다/ncn+이/jp+지요/ef
+
+
+보쌈을
+	보쌈/ncn+을/jco
+
+싸먹을
+	싸먹/ncn+을/jco
+
+것들이
+	것들/ncn+이/jcc
+
+필요하겠지요
+	필요/ncps+하/xsms+겠/ep+지/ef+요/jxf
+
+?!
+	?/sf+!/sf
+
+
+이게
+	이/npd+이/jp+게/ecs
+
+뭔가
+	뭔가/ncn
+
+싶었는데~
+	싶/px+었/ep+는데/ecs+~/sd
+
+떡이더라구요
+	떡/ncn+이/jp+더라구/ef+요/jxf
+
+떡으로도
+	떡/ncn+으로/jca+도/jxc
+
+싸먹을수
+	싸먹을수/ncn
+
+있게
+	있/px+게/ecs
+
+나오더라구요
+	나/pvg+아/ecx+오/px+더라구/ef+요/jxf
+
+물론
+	물론/mag
+
+배추도
+	배추/ncn+도/jxc
+
+나오고
+	나/pvg+아/ecx+오/px+고/ecc
+
+고추도
+	고추/ncn+도/jxc
+
+나오고
+	나/pvg+아/ecx+오/px+고/ecc
+
+무절임도
+	무절/ncn+이/jp+ㅁ/etn+도/jxc
+
+나오고
+	나오/pvg+고/ecc
+
+
+같이
+	같/paa+이/xsa
+
+쌈
+	싸/paa+ㅁ/etn
+
+싸먹을수
+	싸먹을수/ncn
+
+있게
+	있/px+게/ecs
+
+샐러드처럼
+	샐러드/ncn+처럼/jca
+
+요로코롬
+	요로코롬/ncn
+
+수많은
+	수많/paa+은/etm
+
+야채들도
+	야채/ncn+들/ncn+도/jxc
+
+함께
+	함께/mag
+
+나왔어욤
+	나왔어욤/ncn
+
+
+새콤하니
+	새콤하/ncn+이/jp+니/ecs
+
+어찌나
+	어찌/mag+나/jxc
+
+맛나던지
+	맛나/paa+던/etm+지/nbn
+
+
+보쌈하면
+	보쌈하/ncn+이/jp+면/ecs
+
+무절임은
+	무절/ncn+이/jp+ㅁ/etn+은/jxc
+
+빼놓을
+	빼/pvg+어/ecx+놓/px+을/etm
+
+수
+	수/nbn
+
+없는거라지요
+	없는거라/ncn+이/jp+지요/ef
+
+
+매콤하니
+	매콤하/ncn+이/jp+니/ecs
+
+정말
+	정말/mag
+
+잘
+	잘/mag
+
+담궈졌더라구요
+	담구/pvg+어/ecx+지/px+었더/ep+라구/ef+요/jxf
+
+
+고기랑
+	고/ncn+이/jp+기/etn+랑/jxc
+
+먹으니깐
+	먹으니깐/ncn
+
+아삭거리고
+	아삭거리/pvg+고/ecc
+
+너무
+	너무/mag
+
+좋았어욤
+	좋았어욤/ncn
+
+물론
+	물론/mag
+
+옆에
+	옆/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+샐러드와
+	샐러드/ncn+와/jct
+
+함께
+	함께/mag
+
+꺄효~~~
+	꺄효/ncn+~/sd+~/sd+~/sd
+
+
+맛도
+	맛/ncn+도/jxc
+
+깔끔하고
+	깔끔/ncn+하고/jct
+
+지금
+	지금/mag
+
+보면서도
+	보/px+면서/ecs+도/jxc
+
+마구마구
+	마구/ncn+마구/ncn
+
+또
+	또/maj
+
+먹고파욤
+	먹고파욤/ncn
+
+
+요건
+	요건/ncn
+
+두번째로
+	두/nnc+번/nbu+째/xsnu+로/jca
+
+시킨
+	시키/pvg+ㄴ/etm
+
+새싹쟁반냉면무침이랍니다~
+	새싹/ncn+쟁반/ncn+냉면/ncn+무침/ncn+이/jp+랍니다/ef+~/sd
+
+!!
+	!/sf+!/sf
+
+
+사이즈로
+	사이즈/ncn+로/jca
+
+시켰는데
+	시키/pvg+었/ep+는데/ecs
+
+양이
+	양/ncn+이/jcc
+
+엄청나게
+	엄청나/paa+게/ecs
+
+많더라구요
+	많/paa+더라구/ef+요/jxf
+
+
+수많은
+	수많/paa+은/etm
+
+새싹들과
+	새싹/ncn+들/ncn+과/jcj
+
+야채랑
+	야채/ncn+랑/jxc
+
+..
+	./sf+./sf
+
+
+해서
+	하/pvg+어서/ecs
+
+냉면을
+	냉면/ncn+을/jco
+
+싹싹
+	싹싹/mag
+
+비벼서
+	비/xp+벼/ncn+서/jca
+
+
+아주머니가
+	아주머니/ncn+가/jcs
+
+위생장갑을
+	위생/ncn+장갑/ncn+을/jco
+
+끼고서는
+	끼/pvg+고서/ecs+는/jxc
+
+직접
+	직접/mag
+
+비벼주더라구요
+	비비/pvg+어/ecx+주/px+더라구/ef+요/jxf
+
+비빔냉면보다는
+	비빔/ncn+냉면/ncn+보다/jca+는/jxc
+
+야채들도
+	야채/ncn+들/ncn+도/jxc
+
+많아서
+	많/paa+아/ecx
+
+..
+	./sf+./sf
+
+
+푸짐해서
+	푸짐/ncn+해서/ncn
+
+좋았어욤
+	좋았어욤/ncn
+
+
+먹으면서
+	먹/pvg+으면서/ecc
+
+건포도랑
+	건포도/ncn+랑/jxc
+
+땅콩도
+	땅콩/ncn+도/jxc
+
+있고
+	있/paa+고/ecc
+
+
+본래
+	본래/ncn
+
+매콤한게
+	매콤한게/ncn
+
+식욕을
+	식욕/ncn+을/jco
+
+돋구워주잖아욤
+	돋구워주잖아욤/ncn
+
+
+상추쌈에
+	상추/ncn+쌈/ncn+에/jca
+
+보쌈고기랑
+	보쌈/ncn+고/ncn+이/jp+기/etn+랑/jxc
+
+비빔냉면이랑
+	비빔/ncn+냉면/ncn+이/jcs+랑/jxc
+
+넣어서
+	넣/pvg+어서/ecs
+
+무말랭이
+	무말랭이/ncn
+
+김치랑
+	김치/ncn+랑/jxc
+
+넣어서
+	넣/pvg+어서/ecs
+
+먹으면
+	먹/pvg+으면/ecs
+
+..
+	./sf+./sf
+
+
+꺄햐~~
+	꺄햐~~/ncn
+
+그
+	그/mmd
+
+맛은
+	맛/ncn+은/jxc
+
+정말
+	정말/mag
+
+끝내줍니다요
+	끝내/pvg+어/ecx+줄/px+ㅂ니다/ef+요/jxf
+
+
+므하하
+	므하하/ncn
+
+...
+	.../se
+
+
+매콤한
+	매콤한/ncn
+
+것도
+	것/nbn+도/jxc
+
+마구마구
+	마구/ncn+마구/ncn
+
+땡기는걸요
+	땡기는걸요/ncn
+
+
+스트레스를
+	스트레스/ncn+를/jco
+
+받으면
+	받/pvg+으면/ecs
+
+왜케
+	왜케/ncn
+
+요런
+	요런/ii
+
+매콤한
+	매콤한/ncn
+
+맛이
+	맛/ncn+이/jcc
+
+생각이
+	생각/ncpa+이/jcc
+
+나는건지
+	나/pvg+는/etm+것/nbn+이/jp+ㄴ지/ecs
+
+
+여튼
+	여튼/ncn
+
+..
+	./sf+./sf
+
+
+역시나
+	역시/mag+나/jxc
+
+가족들을
+	가족/ncn+들/ncn+을/jco
+
+만나니깐
+	만나니깐/ncn
+
+..
+	./sf+./sf
+
+
+맛난것도
+	맛나/paa+ㄴ/etm+것/nbn+도/jxc
+
+먹게
+	먹/pvg+게/ecs
+
+되는군요
+	되/paa+는군요/ef
+
+
+엄마랑
+	엄마/ncn+랑/jxc
+
+아빠랑
+	아빠/ncn+랑/jxc
+
+먹으니깐
+	먹으니깐/ncn
+
+더더욱
+	더더욱/mag
+
+맛나기도
+	맛나/paa+기/etn+도/jxc
+
+했어욤
+	했어욤/ncn
+
+^^
+	^/sy+^/sy

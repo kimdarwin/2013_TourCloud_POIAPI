@@ -1,0 +1,1123 @@
+격포항횟집
+	격포항횟집/ncn
+
+
+[부안맛집/변산반도맛집/격포항맛집/대명리조트근처맛집]
+	[부안맛집/변산반도맛집/격포항맛집/대명리조트근처맛집/ncn+]/sr
+
+
+바야흐로
+	바야흐로/mag
+
+여름
+	여름/ncn
+
+휴가철이
+	휴가철/ncn+이/jcc
+
+다가오고
+	다가오/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+아직
+	아직/mag
+
+6월
+	6/nnc+월/nbu
+
+중순이라
+	중순/ncn+이/jp+라/ecs
+
+이르다고
+	이르/paa+다/ef+고/jcr
+
+생각되지만
+	생각/ncpa+되/xsvn+지/ecx+말/px+ㄴ/etm
+
+6월
+	6/nnc+월/nbu
+
+초
+	초/nbu
+
+연휴부터
+	연휴/ncn+부터/jxc
+
+바닷가는
+	바닷가/ncn+는/jxc
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+얼마나
+	얼마나/mag
+
+붐비던지요~
+	붐비던지요/ncn+~/sd
+
+
+더군다나
+	더군다나/mag
+
+요즈음
+	요즈음/mag
+
+같이
+	같/paa+이/xsa
+
+30도를
+	30/nnc+도/nbu+를/jco
+
+육박하는
+	육박/ncpa+하/xsva+는/etm
+
+더위에는
+	더위/ncn+에/jca+는/jxc
+
+바닷가
+	바닷가/ncn
+
+만한
+	만/nnc+한/nnc
+
+곳이
+	곳/ncn+이/jcc
+
+없을텐데요,
+	없/paa+을텐데요/ef+,/sp
+
+
+바닷가
+	바닷가/ncn
+
+하면
+	하/pvg+면/ecs
+
+꼭
+	꼭/mag
+
+또
+	또/maj
+
+횟집을
+	횟집/ncn+을/jco
+
+지나칠
+	지나치/pvg+ㄹ/etm
+
+수는
+	수/nbn+는/jxc
+
+없을
+	없/paa+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+변산반도까지
+	변산반도까지/ncn
+
+여행까지
+	여행/ncpa+까지/jxc
+
+와서
+	오/px+아/ecs
+
+회를
+	회/ncn+를/jco
+
+안
+	안/mag
+
+먹고
+	먹/pvg+고/ecc
+
+갈
+	가/pvg+ㄹ/etm
+
+수는
+	수/nbn+는/jxc
+
+없지요~
+	없/paa+지요/ef+~/sd
+
+
+숙소인
+	숙소/ncn+이/jp+ㄴ/etm
+
+대명리조트와도
+	대명/ncn+리조트/ncn+와/jct+도/jxc
+
+근처이고
+	근처/ncn+이/jp+고/ecc
+
+격포항
+	격포항/ncn
+
+바로
+	바로/mag
+
+앞이니
+	앞/ncn+이/jp+니/ecs
+
+격포항횟집을
+	격포항횟집/ncn+을/jco
+
+누구나
+	누구/npp+나/jcj
+
+한번쯤
+	한번쯤/ncn
+
+들려봄직할
+	들려봄직할/ncn
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+일정을
+	일정/ncn+을/jco
+
+마치고
+	마치/pvg+고/ecc
+
+부랴부랴
+	부랴부랴/mag
+
+격포항횟집에
+	격포항횟집/ncn+에/jca
+
+앉아봅니다
+	앉/pvg+아/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+변산반도맛집은
+	변산반도맛집/ncn+은/jxc
+
+바지락죽이나
+	바지락/ncn+죽/ncn+이나/jcj
+
+백합죽
+	백합/ncn+죽/ncn
+
+한번쯤
+	한번쯤/ncn
+
+안
+	안/mag
+
+먹으면
+	먹/pvg+으면/ecs
+
+안되는
+	안되/paa+는/etm
+
+거잖아요~
+	거/ncn+이/jp+잖아요/ef+~/sd
+
+
+제일
+	제일/mag
+
+먼저
+	먼저/mag
+
+등장한
+	등장/ncpa+하/xsva+ㄴ/etm
+
+바지락죽입니다
+	바지락/ncn+죽/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+많은
+	많/paa+은/etm
+
+양은
+	양/ncn+은/jxc
+
+아니었지만
+	아니/paa+었/ep+지만/ecs
+
+녹두와
+	녹두/ncn+와/jcj
+
+바지락이
+	바지락/ncn+이/jcc
+
+적절히
+	적절히/mag
+
+배합돼
+	배합/ncpa+되/xsvn+어/ecx
+
+고소한
+	고소/ncn+한/ncn
+
+맛이
+	맛/ncn+이/jcc
+
+일품입니다
+	일품/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+곳에
+	곳/nbn+에/jca
+
+와서
+	오/px+아/ecs
+
+산낙지도
+	산낙지/ncn+도/jxc
+
+빼놓을
+	빼/pvg+어/ecx+놓/px+을/etm
+
+수는
+	수/nbn+는/jxc
+
+없을
+	없/paa+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+부안맛집으로
+	부안맛집/ncn+으로/jca
+
+갑오징어무침
+	갑오징어무침/ncn
+
+또한
+	또한/maj
+
+둘째가라면
+	둘째/nno+가/jcs+라면/jxc
+
+서러운
+	서럽/paa+은/etm
+
+메뉴이지요~
+	메뉴/ncn+이지/ncn+요/ncn+~/sd
+
+
+매콤새콤한
+	매콤새콤한/ncn
+
+갑오징어무침은
+	갑오징어무침/ncn+은/jxc
+
+인기가
+	인기/ncn+가/jcs
+
+많아
+	많/paa+아/ecx
+
+리필대상이었어요~
+	리필대상/ncn+이/jp+었/ep+어요/ef+~/sd
+
+
+생선초밥
+	생선초밥/ncn
+
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+미역국
+	미역국/ncn
+
+
+멍게,
+	멍게/ncn+,/sp
+
+해삼,
+	해삼/ncn+,/sp
+
+전복을
+	전복/ncn+을/jco
+
+비롯한
+	비롯/ncpa+하/xsva+ㄴ/etm
+
+각종
+	각종/ncn
+
+해산물
+	해산물/ncn
+
+회모듬
+	회모듬/ncn
+
+
+메인인
+	메인/ncn+이/jp+ㄴ/etm
+
+회가
+	회/ncn+가/jcs
+
+등장을
+	등장/ncpa+을/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+회가
+	회/ncn+가/jcs
+
+좀
+	좀/mag
+
+두껍게
+	두껍/paa+게/ecs
+
+썰려서
+	썰리/pvg+어서/ecs
+
+식감은
+	식감/ncn+은/jxc
+
+다소
+	다소/mag
+
+덜했지만
+	덜하/paa+었/ep+지만/ecs
+
+아낌없이
+	아낌없이/mag
+
+회를
+	회/ncn+를/jco
+
+먹어주었더랬죠~
+	먹어주었더랬죠/ncn+~/sd
+
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+회들은
+	회/ncn+들/xsncc+은/jxc
+
+해물탕에
+	해물탕/ncn+에/jca
+
+샤브샤브
+	샤브샤브/ncn
+
+형태로
+	형태/ncn+로/jca
+
+먹기도
+	먹/pvg+기/etn+도/jxc
+
+했구요~
+	했구요/ncn+~/sd
+
+
+막장에
+	막장/ncn+에/jca
+
+싸서
+	쓰/pvg+어서/ecs
+
+쌈을
+	싸/paa+ㅁ/etn+을/jco
+
+싸먹어
+	싸먹어/ncn
+
+보기도
+	보/px+기/etn+도/jxc
+
+하구요~
+	하구/ncn+요/ncn+~/sd
+
+
+부안맛집까지
+	부안맛집/ncn+까지/jxc
+
+와서
+	오/px+아/ecs
+
+부안특산품인
+	부안특산품/ncn+이/jp+ㄴ/etm
+
+참뽕으로
+	참/xp+뽕/ncn+으로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+뽕주도
+	뽕주/ncn+도/jxc
+
+마셔주어야지요~
+	마/nbu+이/jp+시/ep+어/ecx+주/px+어야지요/ef+~/sd
+
+
+여자
+	여자/ncn
+
+넷이
+	넷/nnc+이/jcc
+
+뭉쳤습니다
+	뭉치/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+건배도
+	건배/ncn+도/jxc
+
+여러번~
+	여러번/ncn+~/sd
+
+
+달달한
+	달달한/ncn
+
+뽕주라서
+	뽕주라/ncn+서/jca
+
+취하는
+	취하/pvg+는/etm
+
+줄도
+	줄/nbn+도/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+몇
+	몇/nnc
+
+잔
+	잔/nbu
+
+들이켰네요~
+	들이키/pvg+었/ep+네요/ef+~/sd
+
+
+기분
+	기분/ncn
+
+좋은
+	좋/paa+은/etm
+
+알딸딸함
+	알딸딸함/ncn
+
+...
+	.../se
+
+
+여행의
+	여행/ncpa+의/jcm
+
+피로가
+	피로/ncps+가/jcc
+
+풀리는
+	풀리/pvg+는/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+전라도에서
+	전라/ncn+도/ncn+에서/jca
+
+많이
+	많/paa+이/xsa
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+고노리젓도
+	고노리젓/ncn+도/jxc
+
+등장을
+	등장/ncpa+을/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+김무침
+	김무침/ncn
+
+
+해물탕이
+	해물탕/ncn+이/jcc
+
+마련되었어요~
+	마련/ncpa+되/xsvn+었/ep+어요/ef+~/sd
+
+
+살
+	살/nbu
+
+많은
+	많/paa+은/etm
+
+놈으로
+	놈/nbn+으로/jca
+
+제
+	저/npp+의/jcm
+
+할당량을
+	할당량/ncn+을/jco
+
+담아봅니다
+	담/pvg+아/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+일행
+	일/nnc+행/nbu
+
+중
+	중/nbn
+
+누군가가
+	누군가/npp+가/jcs
+
+밥
+	밥/ncn
+
+공기를
+	공기/ncn+를/jco
+
+이렇게
+	이렇/pad+게/ecs
+
+앙증맞게
+	앙증맞/pvg+게/ecs
+
+꾸몄네요~
+	꾸미/pvg+었/ep+네요/ef+~/sd
+
+
+인증샷
+	인증/ncpa+샷/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+번
+	번/nbu
+
+담아보구요~
+	담아보구요/ncn+~/sd
+
+
+우리는
+	우리/npp+는/jxc
+
+밥보다는
+	밥/ncn+보다/jca+는/jxc
+
+라면사리를
+	라면/ncn+사리/ncn+를/jco
+
+추가하기로
+	추가/ncpa+하/xsva+기/etn+로/jca
+
+했어요~
+	하/pvg+었/ep+어요/ef+~/sd
+
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+매운탕에
+	매운탕/ncn+에/jca
+
+라면사리
+	라면/ncn+사리/ncn
+
+추가는
+	추/ncn+가/jcs+는/jxc
+
+참
+	참/mag
+
+오랜만이었어요~
+	오랜만/ncn+이/jp+었/ep+어요/ef+~/sd
+
+
+라면사리
+	라면/ncn+사리/ncn
+
+1개가
+	1/nnc+개/nbu+가/jcc
+
+부족한
+	부족/ncn+한/ncn
+
+듯나중에는
+	듯나중/ncn+에/jca+는/jxc
+
+조금
+	조금/mag
+
+아쉬울
+	아쉽/paa+을/etm
+
+정도였더랍니다
+	정도/ncn+이/jp+었/ep+더/ep+랍니다/ef
+
+.
+	./sf
+
+
+식사를
+	식사/ncpa+를/jco
+
+마치고
+	마치/pvg+고/ecc
+
+나오니
+	나/pvg+아/ecx+오/px+니/ecs
+
+이제
+	이제/mag
+
+어둠이
+	어둠/ncn+이/jcc
+
+조금
+	조금/mag
+
+깔렸습니다
+	깔리/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+격포항횟집의
+	격포항횟집/ncn+의/jcm
+
+식사는
+	식사/ncpa+는/jxc
+
+다소
+	다소/mag
+
+번잡한
+	번잡/ncps+하/xsms+ㄴ/etm
+
+감이
+	가/px+ㅁ/etn+이/jcs
+
+없지
+	없/paa+지/ecx
+
+않아
+	않/px+아/ecx
+
+있었어요~
+	있/paa+었/ep+어요/ef+~/sd
+
+
+이날
+	이/nnc+날/nbu
+
+저녁
+	저녁/ncn
+
+중국인
+	중국인/ncn
+
+단체관광객이
+	단체관광객/ncn+이/jcc
+
+먼저
+	먼저/mag
+
+자리를
+	자리/ncn+를/jco
+
+잡고
+	잡/pvg+고/ecc
+
+있었더랬는데
+	있었더랬는데/ncn
+
+
+술
+	술/ncn
+
+마시면
+	마시/pvg+면/ecs
+
+우리나라
+	우리나라/ncn
+
+사람이
+	사람/ncn+이/jcc
+
+제일
+	제일/mag
+
+시끄러운
+	시끄럽/paa+은/etm
+
+줄
+	줄/nbn
+
+알았더니
+	알/pvg+아/ep+니/ef
+
+
+중국인에
+	중국인/ncn+에/jca
+
+비하면
+	비하/pvg+면/ecs
+
+우리나라
+	우리나라/ncn
+
+사람은
+	사람/ncn+은/jxc
+
+역시
+	역시/mag
+
+동방예의지국이었습니다
+	동방예의지국/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+우리나라를
+	우리나라/ncn+를/jco
+
+찾아준
+	찾/pvg+아/ecx+주/px+ㄴ/etm
+
+관광객이었고우리
+	관광객이었고우리/ncn
+
+일행도흥에
+	일행도흥/ncn+에/jca
+
+겨운
+	겨운/ncn
+
+상태라
+	상태/ncn+이/jp+라/ecs
+
+그냥
+	그냥/mag
+
+넘어가긴
+	넘어가긴/ncn
+
+했지만
+	하/pvg+었/ep+지만/ecs
+
+
+이
+	이/mmd
+
+날
+	나/px+ㄹ/etm
+
+시끄러운
+	시끄럽/paa+은/etm
+
+중국인
+	중국인/ncn
+
+관광객들을
+	관광객/ncn+들/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+우리나라
+	우리나라/ncn
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+외국
+	외국/ncn
+
+가서
+	가/pvg+서/ecs
+
+흥청망청
+	흥청망청/mag
+
+놀아날때
+	놀/paa+아/ecx+나/px+ㄹ/etm+때/nbn
+
+
+얼마나
+	얼마나/mag
+
+많은
+	많/paa+은/etm
+
+외국인들이
+	외국/ncn+이/jp+ㄴ/etm+들/nbn+이/jcc
+
+우리나라를
+	우리나라/ncn+를/jco
+
+욕했을까
+	욕/ncpa+하/xsva+었/ep+을까/ef
+
+...
+	.../se
+
+
+라는
+	라/ncn+는/jxc
+
+부끄러운
+	부끄럽/paa+은/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들
+	들/pvg+ㄹ/etm
+
+정도였어요~
+	정도/ncn+이/jp+었/ep+어요/ef+~/sd
+
+
+여행지에선
+	여행지/ncn+에선/jca
+
+다른
+	다르/paa+ㄴ/etm
+
+여행자들을
+	여행자/ncn+들/ncn+을/jco
+
+배려하는
+	배/pvg+려/ecx+하/px+는/etm
+
+정신이
+	정신/ncn+이/jcc
+
+있었으면
+	있/px+었/ep+으면/ecs
+
+좋겠더라구요~
+	좋/paa+겠/ep+더라구/ef+요/jxf+~/sd
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+아울러
+	아우르/pvg+어/ecx
+
+격포항횟집은
+	격포항횟집/ncn+은/jxc
+
+손님의
+	손님/ncn+의/jcm
+
+회전율도
+	회전율/ncn+도/jxc
+
+빠르고
+	빠르/paa+고/ecc
+
+우아하게
+	우아/ncps+하/xsms+게/ecs
+
+먹는다는
+	먹/pvg+는다/ef+는/etm
+
+생각보단
+	생각/ncpa+보/ncn+이/jp+단/etm
+
+
+조금
+	조금/mag
+
+저렴하게
+	저렴/ncps+하/xsms+게/ecs
+
+많이
+	많/paa+이/xsa
+
+먹겠다는
+	먹/pvg+겠/ep+다/ef+는/etm
+
+생각으로
+	생각/ncpa+으로/jca
+
+오셔야
+	오/px+시/ep+어야/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+직원분들도
+	직원/ncn+분/ncn+들/xsncc+도/jxc
+
+바쁘기에
+	바쁘/paa+기/etn+에/jca
+
+대체적으로
+	대체/ncn+적/ncn+으로/jca
+
+잘
+	잘/mag
+
+해주시지만
+	하/pvg+어/ecx+줄/px+시/ep+지만/ecs
+
+
+아주
+	아주/mag
+
+친절함을
+	친절/ncps+하/xsms+ㅁ/etn+을/jco
+
+기대하기는
+	기대/pvg+어/ecx+하/px+기/etn+는/jxc
+
+힘들어요~
+	힘들/pvg+어요/ef+~/sd
+
+
+[부안맛집/변산반도맛집/격포항맛집/대명리조트근처맛집]
+	[부안맛집/변산반도맛집/격포항맛집/대명리조트근처맛집/ncn+]/sr
+
+
+격포항횟집/063-584-8833
+	격포항횟집/063-584-8833/ncn
+
+전라북도
+	전라/ncn+북/ncn+도/jxc
+
+부안군
+	부안군/ncn
+
+변산면
+	변산면/ncn
+
+격포리
+	격포리/ncn
+
+788-12
+	788/nnc+-12/nnc
+
+
+(대명리조트에서
+	(/sl+대명/ncn+리조트/ncn+에서/jca
+
+자동차로
+	자동차/ncn+로/jca
+
+5분여,
+	5/nnc+분/nbu+여/xsnu+,/sp
+
+격포항에서
+	격포항/ncn+에서/jca
+
+자동차로
+	자동차/ncn+로/jca
+
+1분여
+	1/nnc+분/nbu+여/xsnu
+
+거리)
+	거리/nbn+)/sr
+
+
+2011.
+	2011./nnc
+
+6.
+	6./nnc
+
+17|지도
+	17|지/ncn+도/jxc
+
+크게
+	크/paa+게/ecs
+
+보기
+	보/px+기/etn
+
+NHN
+	NHN/f
+
+Corp.
+	Corp/f+./sf

@@ -1,0 +1,1456 @@
+아침
+	아침/ncn
+
+기온이
+	기온/ncn+이/jcc
+
+갑자기
+	갑자기/mag
+
+뚝
+	뚝/mag
+
+떨어진다는
+	떨/pvg+어/ecx+지/px+ㄴ다/ef+는/etm
+
+일기예보에
+	일기예보/ncpa+에/jca
+
+잔뜩
+	잔뜩/mag
+
+옷을
+	옷/ncn+을/jco
+
+챙겨
+	챙기/pvg+어/ecx
+
+입고
+	입/pvg+고/ecc
+
+나섰는데
+	나서/pvg+었/ep+는데/ecs
+
+생각만큼
+	생각/ncpa+만큼/jxc
+
+날씨가
+	날씨/ncn+가/jcs
+
+춥지
+	춥/paa+지/ecx
+
+않아
+	않/px+아/ecx
+
+다행이었습니다
+	다행/ncps+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+화천
+	화천/ncn
+
+오지마을
+	오지/ncn+이/jp+마/ef+ㄹ/etm
+
+비수구미는
+	비수/ncn+구미/ncn+는/jxc
+
+저도
+	저/npp+도/jxc
+
+꽤
+	꽤/mag
+
+오랜만에
+	오랜만/ncn+에/jca
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+올봄
+	올봄/ncn
+
+초록숲이
+	초록/ncn+숲/ncn+이/jcc
+
+싱그러울
+	싱그럽/paa+을/etm
+
+때
+	때/ncn
+
+다녀왔는데
+	다니/pvg+어/ecx+오/px+아/ep+ㄴ데/ecs
+
+어느새
+	어느새/mag
+
+단풍이
+	단풍/ncn+이/jcc
+
+물들기
+	물들/pvg+기/etn
+
+시작했습니다
+	시작/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+오지마을
+	오지/ncn+이/jp+마/ef+ㄹ/etm
+
+비수구미
+	비수/ncn+구미/ncn
+
+트레킹은
+	트레킹/ncn+은/jxc
+
+평화의
+	평화/ncn+의/jcm
+
+댐으로
+	대/px+ㅁ/etn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길목에
+	길목/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+해산터널부터
+	해산/ncpa+터널/ncn+부터/jxc
+
+시작됩니다
+	시작/ncpa+되/xsvn+ㅂ니다/ef
+
+.
+	./sf
+
+
+터널
+	터널/ncn
+
+입구에
+	입구/ncn+에/jca
+
+내려
+	내리/pvg+어/ecx
+
+비수구미
+	비수/ncn+구미/ncn
+
+마을로
+	마을/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+길은
+	길/ncn+은/jxc
+
+어느
+	어느/mmd
+
+정도
+	정도/ncn
+
+내리막을
+	내리막/ncn+을/jco
+
+걷다가
+	걷/pvg+다가/ecs
+
+평탄한
+	평탄/ncn+한/ncn
+
+길을
+	길/ncn+을/jco
+
+만나는데
+	만나/pvg+ㄴ데/ecs
+
+온전히
+	온전히/mag
+
+우리만
+	우리/npp+만/jxc
+
+걷는
+	걷/pvg+는/etm
+
+길이어서
+	길/ncn+이/jp+어서/ecs
+
+더욱
+	더욱/mag
+
+여유롭고
+	여유/ncn+롭/xsmn+고/ecc
+
+호젓하더군요
+	호젓/ncps+하/xsms+더군/ef+요/jxf
+
+.
+	./sf
+
+
+오늘
+	오늘/ncn
+
+강원도
+	강원/ncn+도/jxc
+
+산간쪽은
+	산간/ncn+쪽/ncn+은/jxc
+
+꽤
+	꽤/mag
+
+추울거라더니
+	추울거라더니/ncn
+
+한낮엔
+	한낮/ncn+엔/jca
+
+더워서
+	덥/paa+어서/ecs
+
+계곡
+	계곡/ncn
+
+소리가
+	소리/ncn+가/jcs
+
+오히려
+	오히려/mag
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+들렸답니다
+	들리/pvg+었/ep+답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+걷다가
+	걷/pvg+다가/ecs
+
+뒤돌아보면
+	뒤돌/pvg+아/ecx+보/px+면/ecs
+
+울긋불긋
+	울긋불긋/mag
+
+단풍이
+	단풍/ncn+이/jcc
+
+아름답고
+	아름답/paa+고/ecc
+
+가을로
+	가을/ncn+로/jca
+
+향하는
+	향하/pvg+는/etm
+
+비수구미의
+	비수/ncn+구미/ncn+의/jcm
+
+풍경을
+	풍경/ncn+을/jco
+
+마음껏
+	마음껏/mag
+
+느끼며
+	느끼/pvg+며/ecc
+
+걷기를
+	걷/pvg+기/etn+를/jco
+
+마치고
+	마치/pvg+고/ecc
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+마을
+	마을/ncn
+
+민박집에는
+	민박집/ncn+에/jca+는/jxc
+
+점심식사가
+	점심식사/ncpa+가/jcc
+
+한창
+	한창/mag
+
+준비
+	준비/ncn
+
+중이었습니다
+	중/nbn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+비수구미
+	비수/ncn+구미/ncn
+
+트레킹을
+	트레킹/ncn+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+때면
+	때/nbn+이/jp+면/ecs
+
+점심을
+	점심/ncn+을/jco
+
+먹는
+	먹/pvg+는/etm
+
+민박집인데
+	민박집/ncn+이/jp+ㄴ데/ecs
+
+야외에
+	야외/ncn+에/jca
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+파라솔도
+	파라솔/ncn+도/jxc
+
+펼치고
+	펼치/pvg+고/ecc
+
+나무
+	나무/ncn
+
+의자에
+	의자/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+멀리
+	멀리/mag
+
+풍경을
+	풍경/ncn+을/jco
+
+감상하며
+	감상/ncpa+하/xsva+며/ecc
+
+먹던
+	먹/pvg+던/etm
+
+점심은
+	점심/ncn+은/jxc
+
+꿀맛
+	꿀맛/ncn
+
+그
+	그/mmd
+
+이상이었습니다
+	이상/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+지금도
+	지금/ncn+도/jxc
+
+군침이
+	군침/ncn+이/jcc
+
+도네요
+	돌/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+맛있는
+	맛있/paa+는/etm
+
+식사를
+	식사/ncpa+를/jco
+
+마치고
+	마치/pvg+고/ecc
+
+다음
+	다음/ncn
+
+여행지로
+	여행지/ncn+로/jca
+
+이동하기
+	이동/ncn+하기/ncn
+
+위해
+	위하/pvg+어/ecx
+
+선착장으로
+	선착장/ncn+으로/jca
+
+나갔습니다
+	나/pvg+아/ecx+가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+요즘
+	요즘/mag
+
+비수구미
+	비수/ncn+구미/ncn
+
+마을
+	마을/ncn
+
+앞은
+	앞/ncn+은/jxc
+
+물
+	물/pvg+ㄹ/etm
+
+수위가
+	수위/ncr+가/jcc
+
+높아
+	높/paa+아/ecx
+
+모두
+	모두/mag
+
+보트를
+	보트/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+버스가
+	버스/ncn+가/jcs
+
+대기하고
+	대/nbu+이/jp+기/etn+하고/jct
+
+있는
+	있/px+는/etm
+
+선착장으로
+	선착장/ncn+으로/jca
+
+나갔습니다
+	나/pvg+아/ecx+가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+물살을
+	물살/ncn+을/jco
+
+가르며
+	가르/pvg+며/ecc
+
+보트를
+	보트/ncn+를/jco
+
+타보는
+	타/pvg+아/ecx+보/px+는/etm
+
+시간도
+	시간/nbu+도/jxc
+
+즐거운
+	즐겁/paa+은/etm
+
+시간이
+	시간/ncn+이/jcc
+
+되셨죠
+	되/pvg+셨/ep+죠/ef
+
+?
+	?/sf
+
+
+^^
+	^/sy+^/sy
+
+
+다음
+	다음/ncn
+
+여행지는
+	여행지/ncn+는/jxc
+
+비수구미
+	비수/ncn+구미/ncn
+
+마을
+	마을/ncn
+
+바로
+	바로/mag
+
+위에
+	위/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+평화의
+	평화/ncn+의/jcm
+
+댐입니다
+	대/px+ㅁ/etn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+평화의
+	평화/ncn+의/jcm
+
+댐은
+	대/px+ㅁ/etn+은/jxc
+
+오래
+	오래/mag
+
+전에
+	전/nbn+에/jca
+
+온
+	오/px+ㄴ/etm
+
+국민들의
+	국민/ncn+들/ncn+의/jcm
+
+성금으로
+	성금/ncn+으로/jca
+
+만들어진
+	만들/pvg+어/ecx+지/px+ㄴ/etm
+
+댐인데
+	대/px+ㅁ/etn+이/jp+ㄴ데/ecs
+
+올
+	오/px+ㄹ/etm
+
+여름에
+	여름/ncn+에/jca
+
+비가
+	비/ncn+가/jcs
+
+많이
+	많/paa+이/xsa
+
+내려서
+	내리/pvg+어서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+수위가
+	수위/ncr+가/jcc
+
+꽤
+	꽤/mag
+
+높더군요
+	높/paa+더군/ef+요/jxf
+
+.
+	./sf
+
+
+평화의
+	평화/ncn+의/jcm
+
+댐에는
+	대/px+ㅁ/etn+에/jca+는/jxc
+
+세계평화의
+	세계평화/ncn+의/jcm
+
+종
+	종/nbu
+
+이
+	이/mmd
+
+있는데
+	있/px+는데/ecs
+
+상주하는
+	상주/ncpa+하/xsva+는/etm
+
+해설사님의
+	해설사님/ncn+의/jcm
+
+친절한
+	친절/ncps+하/xsms+ㄴ/etm
+
+설명도
+	설명/ncpa+도/jxc
+
+들어보고
+	들/pvg+어/ecx+보/px+고/ecc
+
+비목공원도
+	비/xp+목공/ncn+원/ncn+도/jxc
+
+잠깐
+	잠깐/mag
+
+돌아보았습니다
+	돌/pvg+아/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+평화의
+	평화/ncn+의/jcm
+
+댐에서
+	대/px+ㅁ/etn+에서/jca
+
+잠깐
+	잠깐/mag
+
+시간을
+	시간/ncn+을/jco
+
+보낸
+	보내/pvg+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+화천
+	화천/ncn
+
+읍내에
+	읍내/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+산소(O2)길
+	산소(O2)길/ncn
+
+걷기를
+	걷/pvg+기/etn+를/jco
+
+하였습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+화천
+	화천/ncn
+
+산소길은
+	산소/ncn+길/ncn+은/jxc
+
+100리가
+	100/nnc+리/nbu+가/jcc
+
+되는데
+	되/pvg+ㄴ데/ecs
+
+그중
+	그중/mag
+
+일부로
+	일/nnc+부/nbu+로/jca
+
+걷기에
+	걷/pvg+기/etn+에/jca
+
+가장
+	가장/mag
+
+좋은
+	좋/paa+은/etm
+
+구간만
+	구간/ncn+만/jxc
+
+걸었습니다
+	걷/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+북한강변에
+	북한강변/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+미륵바위에서
+	미륵바위/ncn+에서/jca
+
+내린
+	내리/pvg+ㄴ/etm
+
+후
+	후/ncn
+
+강변을
+	강변/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+걷다가
+	걷/pvg+다가/ecs
+
+북한강을
+	북한강/ncn+을/jco
+
+가로지르는
+	가로지르/pvg+는/etm
+
+나무다리를
+	나무/ncn+다리/ncn+를/jco
+
+건넙니다
+	건너/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+강물이
+	강물/ncn+이/jcc
+
+출렁거려
+	출렁거리/pvg+어/ecx
+
+나무다리를
+	나무/ncn+다리/ncn+를/jco
+
+건널
+	건너/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+꽤나
+	끄/pvg+어/ecx+나/px+아/ecx
+
+스릴이
+	스릴/ncn+이/jcc
+
+느껴집니다
+	느끼/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+나무다리를
+	나무/ncn+다리/ncn+를/jco
+
+건너면
+	건너/pvg+면/ecs
+
+마치
+	마치/mag
+
+강위에
+	강/ncn+위/xsnx+에/jca
+
+떠있는
+	뜨/pvg+어/ecx+있/px+는/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+푼툰다리(일명
+	푼툰다리(일명/ncn
+
+통통다리)도
+	통통다리)/ncn+도/jxc
+
+건넙니다
+	건너/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+푼툰다리는
+	푼툰다리/ncn+는/jxc
+
+약
+	약/ncn
+
+15분
+	15/nnc+분/nbu
+
+정도
+	정도/ncn
+
+걷게
+	걷/pvg+게/ecs
+
+되는데
+	되/pvg+ㄴ데/ecs
+
+물
+	물/pvg+ㄹ/etm
+
+위를
+	위/ncn+를/jco
+
+걷는
+	걷/pvg+는/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+무척
+	무척/mag
+
+이색적입니다
+	이색/ncn+적/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+푼툰다리가
+	푼툰다리/ncn+가/jcs
+
+끝나면
+	끝나/pvg+면/ecs
+
+야트막한
+	야트막/ncps+하/xsms+ㄴ/etm
+
+오솔길로
+	오솔길/ncn+로/jca
+
+이어집니다
+	잇/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+오솔길은
+	오솔길/ncn+은/jxc
+
+원시림의
+	원시림/ncn+의/jcm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+강하지만
+	강하/paa+지/ecx+말/px+ㄴ/etm
+
+걷기에
+	걷/pvg+기/etn+에/jca
+
+안전하게
+	안전/ncps+하/xsms+게/ecs
+
+길을
+	길/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+누구나
+	누구/npp+나/jcj
+
+걸어볼
+	걷/pvg+어/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+숲입니다
+	숲/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+숲속에는
+	숲속/ncn+에/jca+는/jxc
+
+이
+	이/mmd
+
+길의
+	길/ncn+의/jcm
+
+이름처럼
+	이름/ncn+처럼/jca
+
+산소(O2)
+	산소(O2)/ncn
+
+같은
+	같/paa+은/etm
+
+맑은
+	맑/paa+은/etm
+
+공기와
+	공기/ncn+와/jcj
+
+북한강을
+	북한강/ncn+을/jco
+
+마주하며
+	마주/ncps+하/xsms+며/ecc
+
+걷습니다
+	걷/pvg+습니다/ef
+
+.
+	./sf
+
+
+오솔길은
+	오솔길/ncn+은/jxc
+
+아쉬움이
+	아쉬움/ncn+이/jcc
+
+남을
+	남/ncn+을/jco
+
+정도로
+	정도/ncn+로/jca
+
+짧습니다
+	짧/paa+습니다/ef
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+길은
+	길/ncn+은/jxc
+
+더
+	더/mag
+
+오래
+	오래/mag
+
+걷고
+	걷/pvg+고/ecc
+
+싶지만
+	싶/px+지만/ecs
+
+이제
+	이제/mag
+
+오솔길을
+	오솔길/ncn+을/jco
+
+내려서야
+	내려서/pvg+어야/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+시간입니다
+	시간/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+오솔길이
+	오솔길/ncn+이/jcc
+
+끝나면
+	끝나/pvg+면/ecs
+
+위라리마을로
+	위라리마을/ncn+로/jca
+
+들어섭니다
+	들/pvg+어서/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+마을로
+	마을/ncn+로/jca
+
+들어서는
+	들/pvg+어서/ecs+는/jxc
+
+길에서
+	길/ncn+에서/jca
+
+아주
+	아주/mag
+
+귀여운
+	귀엽/paa+은/etm
+
+강아지
+	강아지/ncn
+
+식구를
+	식구/ncn+를/jco
+
+만났습니다
+	만나/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+새끼
+	새끼/ncn
+
+강아지들은
+	강아지/ncn+들/ncn+은/jxc
+
+눈도
+	눈/ncn+도/jxc
+
+채
+	채/nbn
+
+뜨지
+	뜨/pvg+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+녀석들인데
+	녀석/ncn+들/ncn+이/jp+ㄴ데/ecs
+
+어미젖을
+	어미/ncn+젖/ncn+을/jco
+
+먹느라
+	먹/pvg+느라/ecs
+
+정신이
+	정신/ncn+이/jcc
+
+없더군요
+	없/paa+더군/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+모습이
+	모습/ncn+이/jcc
+
+얼마나
+	얼마나/mag
+
+귀엽던지요
+	귀엽던지요/ncn
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+위라리마을의
+	위라리마을/ncn+의/jcm
+
+풍경도
+	풍경/ncn+도/jxc
+
+기억에
+	기억/nnc+에/jca
+
+오래
+	오래/mag
+
+남을
+	남/ncn+을/jco
+
+듯합니다
+	듯하/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+강원도
+	강원/ncn+도/jxc
+
+화천에서
+	화천/ncn+에서/jca
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+체험으로
+	체험/ncpa+으로/jca
+
+하루
+	하루/ncn
+
+여행을
+	여행/ncpa+을/jco
+
+한
+	한/nnc
+
+듯합니다
+	듯하/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+한적하던
+	한적/ncps+하/xsms+던/etm
+
+오지마을
+	오지/ncn+이/jp+마/ef+ㄹ/etm
+
+비수구미
+	비수/ncn+구미/ncn
+
+트레킹도
+	트레킹/ncn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+맛
+	맛/ncn
+
+좋은
+	좋/paa+은/etm
+
+점심식사
+	점심식사/ncpa
+
+그리고
+	그리고/maj
+
+모터보트도
+	모터보트/ncn+도/jxc
+
+타보고
+	타/pvg+아/ecx+보/px+고/ecc
+
+평화의댐,
+	평화의댐/ncn+,/sp
+
+산소처럼
+	산소/ncn+처럼/jca
+
+맑은
+	맑/paa+은/etm
+
+산소길
+	산소/ncn+길/ncn
+
+트레킹
+	트레킹/ncn
+
+날씨가
+	날씨/ncn+가/jcs
+
+좋아서
+	좋/paa+아/ecx
+
+더욱
+	더욱/mag
+
+기분
+	기분/ncn
+
+좋은
+	좋/paa+은/etm
+
+여행이
+	여행/ncpa+이/jcc
+
+되셨죠
+	되/pvg+셨/ep+죠/ef
+
+?
+	?/sf
+
+
+^^
+	^/sy+^/sy
+
+이번
+	이/nnc+번/nbu
+
+여행에
+	여행/ncpa+에/jca
+
+참여하신
+	참여/ncpa+하/xsva+시/ep+ㄴ/etm
+
+회원분들
+	회원/ncn+분/ncn+들/xsncc
+
+모두
+	모두/mag
+
+산소처럼
+	산소/ncn+처럼/jca
+
+맑은
+	맑/paa+은/etm
+
+기운으로
+	기운/ncn+으로/jca
+
+다가오는
+	다가오/pvg+는/etm
+
+한주도
+	한/nnc+주/nbu+도/jxc
+
+잘
+	잘/mag
+
+보내시기
+	보내/pvg+시/ep+기/etn
+
+바랍니다~
+	바/nbn+이/jp+랍니다/ef+~/sd
+
+
+모란
+	모란/ncn
+
+님,
+	님/ncn+,/sp
+
+김명옥
+	김명옥/ncn
+
+님,
+	님/ncn+,/sp
+
+로즈마리
+	로즈마리/ncn
+
+님,
+	님/ncn+,/sp
+
+카네이션
+	카네이션/ncn
+
+님,
+	님/ncn+,/sp
+
+이주향
+	이주/ncpa+향/ncn
+
+님,
+	님/ncn+,/sp
+
+모모야
+	모모/npp+이/jp+야/ef
+
+님,
+	님/ncn+,/sp
+
+백합
+	백합/ncn
+
+님,
+	님/ncn+,/sp
+
+홍똘
+	홍똘/ncn
+
+님,
+	님/ncn+,/sp
+
+
+우헌자
+	우헌자/ncn
+
+님,
+	님/ncn+,/sp
+
+여정
+	여정/ncn
+
+님,
+	님/ncn+,/sp
+
+히나
+	히/ncn+나/jcj
+
+님,
+	님/ncn+,/sp
+
+즐거움
+	즐거움/ncn
+
+님,
+	님/ncn+,/sp
+
+로미
+	로미/ncn
+
+님,
+	님/ncn+,/sp
+
+여행친구
+	여행/ncpa+친구/ncn
+
+님,
+	님/ncn+,/sp
+
+은빛여울
+	은빛/ncn+여울/ncn
+
+님,
+	님/ncn+,/sp
+
+이뽀이뽀
+	이뽀이뽀/ncn
+
+님,
+	님/ncn+,/sp
+
+
+김영순
+	김영순/ncn
+
+님,
+	님/ncn+,/sp
+
+심화숙
+	심화숙/ncn
+
+님,
+	님/ncn+,/sp
+
+쭈운
+	쭈운/ncn
+
+님,
+	님/ncn+,/sp
+
+나영민
+	나영민/ncn
+
+님,
+	님/ncn+,/sp
+
+Jayen
+	Jayen/f
+
+님,
+	님/ncn+,/sp
+
+천년연가
+	천년/ncn+연/ncn+가/jcs
+
+님,
+	님/ncn+,/sp
+
+가은
+	가/px+ㄴ/etm
+
+님,
+	님/ncn+,/sp
+
+겨자씨
+	겨자씨/ncn
+
+님,
+	님/ncn+,/sp
+
+이지
+	이/npd+이/jp+지/ecs
+
+님.이
+	님./ncn+이/jcc
+
+게시물을
+	게시/ncpa+물/ncn+을/jco
+
+...
+	.../se

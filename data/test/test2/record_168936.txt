@@ -1,0 +1,34 @@
+Date:
+2011.08.11
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/1ade1477225691bcf6160169f9e5f184.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/5e67f3122d39f01af9a6e23b268b9a00.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/523d09b1b24b5a6b8bcf03d50dcb8fe1.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/06fa23ed257e836dffc72fdafb89b431.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/122d6d78c88ffe4dc047ad350b8ae15e.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/b27c116a6c02da3b75d6eada71870b8b.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/fca4893c4c05e964482e80a6d3dc3d89.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/6e208eba3df94eadccef0c88215c7e53.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/1f6b1a3780196054a13fb780e6362631.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/03d484751b7f10db6507a1daa5e91544.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/d55e30513e87482049dc178580c3adf8.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/7174c904c0841c473b0caab712dff5cc.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/e26e2c12eae9c746dddaf29a772ef488.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/01cc3814afdbc89c6d310dc75b9cbe4b.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/9260a594826a2b2fc248a55631ac5a51.jpg');
+list_gallery_add_image(788876,'files/attach/images/228818/936/168/bbb05ef4576983ba86cd018d3967d37d.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 11일(목) 아름다운 여행으로 인제 곰배령에 다녀왔습니다.
+인제로 향하는 길에 만난 소양강은 요즘 자주 내렸던 비로 더없이 폭이 넓어졌습니다. 마치 저 물길을 돌아서면 바다로 이어질 것처럼 거대한 강으로 변해있었습니다.
+하늘은 약간 흐렸지만 비가 내릴 것 같지는 않은 날씨였고 평일인 덕분에 점봉산 생태탐방센테에 도착한 시간도 딱 적당하였습니다. 탐방안내소에서 접수 확인을 마친 후 탐방이 시작되었고 계곡으로 들어서는 순간 바람소리와 계곡소리의 힘찬 합주가 들려왔습니다. 바람이 얼마나 시원하고 청량하던지 이대로 가을이 올 것만 같더군요. 바람에 마구 흔들리는 야생화를 사진에 담기 어려운 점은 있었지만 말이죠.
+푸른 댓잎 싱그러운 산죽 군락을 지날 때에도 계곡 소리만 무성할 뿐 이렇다할 야생화는 눈에 잘 띄지 않았습니다. 어수리보다 작은 흰 꽃들 그리고 참취꽃과 여로가 있었고 독특한 애기앉은부채꽃을 보려면 땅에 납작 엎드려야 했습니다.
+8월 곰배령은 그 어느 때보다 야생화가 많다더니 이대로 끝나는가 싶어 조금 실망하고 있을 때 하산을 하던 분들의 말씀이 정상이 너무도 아름답다고 자랑입니다. 도대체 얼마나 아름답길래 그럴까 싶어 득달같이 달려 정상에 도착하였습니다. 파란 하늘이 열리고 흰구름이 두둥실 떠있는 곰배령 정상은 거짓없이 천상의 화원이었습니다. 
+연푸른 긴산꼬리풀이 나풀거리고 천진스러운 동자꽃, 연분홍 둥근이질풀, 깔끔한 참취꽃, 노란 물양지꽃, 곰취꽃 등등 한데 어울려 피어 있는 모습은 그야말로 탄성을 자아내게 하더군요. 어쩜 그리도 예쁠 수가 있을까요? 누군가 부러 심어놓은 꽃밭처럼 곱고 고와서 쉬이 눈을 뗄 수가 없었답니다.
+그리고 한여름에는 있을 수도 없는 추위를 곰배령 정상에서 느꼈습니다. 어찌나 바람이 차갑던지 덧옷까지 껴입는 분들이 부러울 정도였으니까요. 오늘 곰배령 정상은 분명 여름이 아니었습니다.^^
+천상의 화원 곰배령… 그 꽃밭을 뒤로 하고 내려서는 발걸음은 자꾸만 더뎌지고 있었습니다. 간신히 발길을 돌려 내려오는 내내 그 꽃들이 선연하여 시간이 아쉽기만 하더군요.
+서울로 돌아온 지금 믿기지 않을 정도로 차갑던 바람 그리고 천상의 화원이 잊혀지지 않습니다. 
+아마 오늘 참여하신 분들 모두 저와 같은 생각이셨을 거예요.^^ 가끔씩 더위에 지칠 때 오늘 곰배령을 떠올리면 그 시간들이 고스란히 기억될 것입니다. 
+이번 여행에 참여하신 분들 모두 수고 많으셨구요, 남은 시간 피로 잘 푸시길 바랍니다~이 게시물을...

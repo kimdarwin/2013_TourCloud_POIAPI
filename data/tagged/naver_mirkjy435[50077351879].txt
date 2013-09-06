@@ -1,0 +1,1032 @@
+통영시
+	통영시/ncn
+
+
+경상남도
+	경상/ncn+남도/ncn
+
+
+기간
+	기간/ncn
+
+2009.
+	2009./nnc
+
+8.
+	8./nnc
+
+22~
+	22/nnc+~/sd
+
+2009.
+	2009./nnc
+
+8.
+	8./nnc
+
+22(1일)
+	22/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+친구와
+	친구/ncn+와/jct
+
+떠나는
+	떠나/pvg+는/etm
+
+여행
+	여행/ncpa
+
+
+지인들과
+	지/nbn+이/jp+ㄴ/etm+들/nbn+과/jct
+
+함께
+	함께/mag
+
+한
+	하/pvg+ㄴ/etm
+
+통영
+	통영/ncn
+
+나들이
+	나들이/ncpa
+
+
+정말
+	정말/mag
+
+아무것도
+	아무것/npd+도/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+한
+	하/pvg+ㄴ/etm
+
+선배만
+	선배/ncn+만/jxc
+
+믿고
+	믿/pvg+고/ecc
+
+길을
+	길/ncn+을/jco
+
+나섰다
+	나서/pvg+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+과연
+	과연/mag
+
+통영은
+	통영은/ncn
+
+어떤
+	어떤/mmd
+
+곳
+	곳/ncn
+
+일까
+	일/pvg+ㄹ까/ef
+
+??
+	?/sf+?/sf
+
+
+새벽
+	새벽/ncn
+
+6시
+	6/nnc+시/nbu
+
+기상
+	기상/ncn
+
+차를
+	차/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+마산에서
+	마산/ncn+에서/jca
+
+통영으로
+	통영/ncn+으로/jca
+
+향하였다
+	향하/pvg+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+빨리
+	빨리/mag
+
+가야할
+	가/pvg+아/ecx+하/px+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+통영이
+	통영/ncn+이/jcc
+
+먼
+	멀/paa+ㄴ/etm
+
+곳
+	곳/ncn
+
+인지
+	일/pvg+ㄴ지/ecs
+
+.....
+	.../se+./sf+./sf
+
+
+통영
+	통영/ncn
+
+여행
+	여행/ncpa
+
+코스
+	코스/ncn
+
+
+통영의
+	통영/ncn+의/jcm
+
+시작
+	시작/ncpa
+
+학섬휴계소
+	학섬휴계소/ncn
+
+-
+	-/sd
+
+통영의
+	통영/ncn+의/jcm
+
+맛
+	맛/ncn
+
+오미사
+	오미사/ncn
+
+꿀빵
+	꿀빵/ncn
+
+-
+	-/sd
+
+통영
+	통영/ncn
+
+미륵산
+	미륵산/ncn
+
+한려수도
+	한려수/ncn+도/jxc
+
+케이블
+	케이블/ncn
+
+카
+	크/paa+어/ecx
+
+-
+	-/sd
+
+홈플러스
+	홈플러스/ncn
+
+-(이름모를
+	-/sd+(/sl+이름/ncn+모/ncn+를/jco
+
+공원)
+	공원/ncn+)/sr
+
+-
+	-/sd
+
+달아
+	달/paa+아/ecx
+
+공원
+	공원/ncn
+
+
+2시간정도
+	2/nnc+시/nbu+간/xsnu+정/nbu+도/jxc
+
+차를
+	차/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+가다가
+	가/pvg+아/ecx+가/px+아/ecx
+
+선배가
+	선배/ncn+가/jcs
+
+선
+	서/pvg+ㄴ/etm
+
+곳.
+	곳/ncn+./sf
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+학섬
+	학섬/ncn
+
+휴게소
+	휴게소/ncn
+
+였다
+	였다/ncn
+
+..
+	./sf+./sf
+
+
+통영의
+	통영/ncn+의/jcm
+
+입구라는
+	입구/ncn+라는/jxc
+
+이
+	이/mmd
+
+휴게소
+	휴게소/ncn
+
+..
+	./sf+./sf
+
+
+바로
+	바로/mag
+
+이런
+	이렇/pad+은/etm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+학섬
+	학섬/ncn
+
+휴게소에서
+	휴게소/ncn+에서/jca
+
+간단히
+	간단히/mag
+
+아침을
+	아침/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+배도
+	배/ncn+도/jxc
+
+식힐
+	식히/pvg+ㄹ/etm
+
+겸
+	겸/nbn
+
+주변을
+	주변/ncn+을/jco
+
+겸사
+	겸사/ncpa
+
+겸사
+	겸사/ncpa
+
+찍었는데
+	찍/pvg+었/ep+는데/ecs
+
+...
+	.../se
+
+
+주변이라고
+	주변/ncn+이/jp+라/ef+고/jcr
+
+말하면
+	말/ncpa+하/xsva+면/ecs
+
+안
+	안/mag
+
+될
+	되/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같았다
+	같/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+너무
+	너무/mag
+
+아름다웠기
+	아름답/paa+었/ep+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+위
+	위/ncn
+
+사진은
+	사진/ncn+은/jxc
+
+그
+	그/mmd
+
+중
+	중/nbn
+
+한
+	하/pvg+ㄴ/etm
+
+사진이다
+	사진/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+통영시내로
+	통영시내/ncn+로/jca
+
+도착
+	도착/ncpa
+
+...
+	.../se
+
+
+통영시
+	통영시/ncn
+
+좋기는
+	좋/paa+기/etn+는/jxc
+
+한데
+	하/pvg+ㄴ데/ecs
+
+개인적인
+	개/nbu+이/jp+ㄴ/etm+적/nbn+이/jp+ㄴ/etm
+
+생각으로는
+	생각/ncpa+으로/jca+는/jxc
+
+차도가
+	차도/ncn+가/jcs
+
+너무
+	너무/mag
+
+작다
+	작/paa+다/ef
+
+..
+	./sf+./sf
+
+
+관광도시로
+	관광도시/ncn+로/jca
+
+유명한데
+	유명/ncn+한데/ncn
+
+..
+	./sf+./sf
+
+
+왜
+	왜/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+도로에는
+	도로/ncn+에/jca+는/jxc
+
+신경을
+	신경/ncn+을/jco
+
+안쓰는지
+	안쓰는지/ncn
+
+...
+	.../se
+
+
+학섬휴게소에서
+	학섬휴게소/ncn+에서/jca
+
+다음으로
+	다음/ncn+으로/jca
+
+간
+	가/px+ㄴ/etm
+
+곳은
+	곳/ncn+은/jxc
+
+오미사꿀빵
+	오미사꿀빵/ncn
+
+..
+	./sf+./sf
+
+
+판매
+	판매/ncpa
+
+시간이
+	시간/ncn+이/jcc
+
+정해져있다
+	정하/pvg+어/ecx+지/px+어/ecx+있/px+다/ef
+
+..
+	./sf+./sf
+
+
+24년
+	24/nnc+년/nbu
+
+살아오면서
+	살/pvg+아/ecx+오/px+면서/ecc
+
+무언가를
+	무언가/npd+를/jco
+
+먹기위해
+	먹기/ncn+위해/ncn
+
+처음으로
+	처음/ncn+으로/jca
+
+기다려보았다
+	기다리/pvg+어/ecx+보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+그만큼
+	그/npp+만큼/jxc
+
+가치가
+	가치/ncn+가/jcs
+
+있다고
+	있/px+다/ef+고/jcr
+
+선배께서
+	선배/ncn+께서/jcs
+
+말씀을
+	말씀/ncpa+을/jco
+
+하셨다
+	하/px+셨/ep+다/ef
+
+.
+	./sf
+
+
+주변
+	주변/ncn
+
+관광객
+	관광객/ncn
+
+분들도
+	불/pvg+ㄴ/etm+들/nbn+도/jxc
+
+하나
+	하나/nnc
+
+둘
+	둘/nnc
+
+모여들고
+	모여들/pvg+고/ecc
+
+판매
+	판매/ncpa
+
+시간이
+	시간/ncn+이/jcc
+
+되자
+	되/pvg+자/ecc
+
+우르르
+	우르르/mag
+
+줄을
+	줄/nbn+을/jco
+
+선
+	서/pvg+ㄴ/etm
+
+후
+	후/ncn
+
+구입한다
+	구입/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+수량을
+	수량/ncn+을/jco
+
+정해서
+	정하/pvg+어서/ecs
+
+팔기
+	팔/pvg+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+빨리
+	빨리/mag
+
+가지
+	가지/nbu
+
+않으면
+	않/px+으면/ecs
+
+못
+	못/mag
+
+먹는다고
+	먹/pvg+는다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+말은
+	말/ncn+은/jxc
+
+듣고
+	듣/pvg+고/ecc
+
+기다려보길
+	기다려보길/ncn
+
+잘했다는
+	잘하/pvg+었/ep+다/ef+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들었다
+	들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+오미사
+	오미사/ncn
+
+꿀빵
+	꿀빵/ncn
+
+...
+	.../se
+
+
+말이
+	말/ncn+이/jcc
+
+필요없다
+	필요/ncps+없/xsmn+다/ef
+
+..
+	./sf+./sf
+
+
+강추~
+	강추~/ncn
+
+!!
+	!/sf+!/sf
+
+
+한려수도
+	한려수/ncn+도/jxc
+
+케이블카
+	케이블카/ncn
+
+타는
+	타/pvg+는/etm
+
+곳.
+	곳/ncn+./sf
+
+.
+	./sf
+
+
+이른
+	이르/paa+ㄴ/etm
+
+시간임에도
+	시간/ncn+이/jp+ㅁ/etn+에/jca+도/jxc
+
+사람이
+	사람/ncn+이/jcc
+
+붐빈다
+	붐비/paa+ㄴ다/ef
+
+...
+	.../se
+
+
+저
+	저/mmd
+
+곤돌라를
+	곤돌라/ncpa+를/jco
+
+타고
+	타/pvg+고/ecc
+
+미륵산
+	미륵산/ncn
+
+정상
+	정상/ncn
+
+부근까지
+	부근/ncn+까지/jxc
+
+올라가서
+	오르/pvg+아/ecx+가/px+아/ecx
+
+..
+	./sf+./sf
+
+
+한려수도의
+	한려수도/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+마음
+	마음/ncn
+
+껏
+	껏/ncn
+
+구경할
+	구경/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+케이블카에서
+	케이블카/ncn+에서/jca
+
+내려서
+	내리/pvg+어서/ecs
+
+전망대에서
+	전망대/ncn+에서/jca
+
+찍은
+	찍/pvg+은/etm
+
+한려수도의
+	한려수도/ncn+의/jcm
+
+모습,
+	모습/ncn+,/sp
+
+...
+	.../se
+
+
+말로
+	말/ncn+로/jca
+
+설명
+	설명/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+없다
+	없/paa+다/ef
+
+..
+	./sf+./sf
+
+
+가만히
+	가만히/mag
+
+셔터만
+	셔터/ncn+만/jxc
+
+눌렀다
+	누르/pvg+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+케이블카
+	케이블카/ncn
+
+전망대에서
+	전망대/ncn+에서/jca
+
+밑을
+	밑/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+..
+	./sf+./sf
+
+
+더
+	더/mag
+
+높은
+	높/paa+은/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+갈
+	가/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+길이
+	길/ncn+이/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+더
+	더/mag
+
+놓은
+	놓/px+은/etm
+
+곳에서
+	곳/ncn+에서/jca
+
+한려수도를
+	한려수도/ncn+를/jco
+
+보기
+	보/px+기/etn
+
+위하여
+	위하/pvg+어/ecx
+
+발길을
+	발길/ncn+을/jco
+
+옮긴다
+	옮기/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+미륵산
+	미륵산/ncn
+
+정상에서
+	정상/ncn+에서/jca
+
+담은
+	달/paa+ㅁ/etn+은/jxc
+
+한려수도
+	한려수도/ncn
+
+...
+	.../se
+
+
+날씨도
+	날씨/ncn+도/jxc
+
+푸르고
+	푸르/paa+고/ecc
+
+나의
+	나/npp+의/jcm
+
+마음도
+	마음/ncn+도/jxc
+
+덩달아
+	덩달/pvg+아/ecx
+
+푸르다
+	푸르/paa+다/ef
+
+.
+	./sf
+
+
+(클릭하셔서
+	(/sl+클릭/ncpa+하/xsva+시/ep+어서/ecs
+
+원본으로
+	원본/ncn+으로/jca
+
+보시면
+	보/px+시/ep+면/ecs
+
+자세히
+	자세히/mag
+
+보실
+	보/px+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+클릭
+	클릭/ncpa
+
+클릭)
+	클릭/ncpa+)/sr
+
+
+마지막으로
+	마지막/ncn+으로/jca
+
+통영시내의
+	통영시내/ncn+의/jcm
+
+모습
+	모습/ncn
+
+사진이다
+	사진/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+글을
+	글/ncn+을/jco
+
+읽으셨으면
+	읽/pvg+으셨/ep+으면/ecs
+
+아래에
+	아래/ncn+에/jca
+
+손을
+	손/ncn+을/jco
+
+클릭해주시는
+	클릭/ncpa+하/xsva+어/ecx+주/px+시/ep+는/etm
+
+센스
+	센스/ncn
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+로그인안해도
+	로그인/ncpa+안해/ncn+도/jxc
+
+되니깐
+	되니깐/ncn
+
+클릭해
+	클릭/ncpa+하/xsva+어/ecx
+
+주세요
+	주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+다음
+	다음/ncn
+
+후기에서
+	후/ncn+이/jp+기/etn+에서/jca
+
+봐요^___^;
+	봐요^___/ncn+^/sy+;/sy

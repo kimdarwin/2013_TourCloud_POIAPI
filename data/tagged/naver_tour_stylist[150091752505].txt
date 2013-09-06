@@ -1,0 +1,731 @@
+여행을
+	여행/ncpa+을/jco
+
+하다
+	하/pvg+어다/ecs
+
+보면
+	보/px+면/ecs
+
+문득
+	문득/mag
+
+친구들이나
+	친구/ncn+들/ncn+이나/jcj
+
+가족에게
+	가족/ncn+에게/jca
+
+짤막한
+	짤막/ncps+하/xsms+ㄴ/etm
+
+엽서를
+	엽서/ncn+를/jco
+
+보내고
+	보내/pvg+고/ecc
+
+싶을
+	싶/px+을/etm
+
+때가
+	때/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+별로
+	별로/mag
+
+어렵지
+	어렵/paa+지/ecx
+
+않지만
+	않/px+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+막상
+	막상/mag
+
+쓰려고
+	쓰/pvg+려고/ecs
+
+하면
+	하/pvg+면/ecs
+
+왠지
+	왠지/mag
+
+헷갈리는
+	헷갈리/pvg+는/etm
+
+..
+	./sf+./sf
+
+
+항공엽서
+	항공/ncn+엽서/ncn
+
+쓰는
+	쓰/pvg+는/etm
+
+법에
+	법/ncn+에/jca
+
+대해서
+	대하/pvg+어서/ecso
+
+소개한다
+	소개/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+먼저
+	먼저/mag
+
+한국으로
+	한국/ncn+으로/jca
+
+보낼
+	보내/pvg+ㄹ/etm
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+엽서를
+	엽서/ncn+를/jco
+
+선택
+	선택/ncpa
+
+한
+	하/pvg+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+
+뒷면을
+	뒷면/ncn+을/jco
+
+중앙으로
+	중앙/ncn+으로/jca
+
+갈라서
+	갈/ncn+라서/jxc
+
+
+뒷면
+	뒷면/ncn
+
+좌측
+	좌측/ncn
+
+상단에는
+	상단/ncn+에/jca+는/jxc
+
+보내는
+	보내/pvg+는/etm
+
+사람의
+	사람/ncn+의/jcm
+
+이름과
+	이름/ncn+과/jcj
+
+주소를
+	주소/ncn+를/jco
+
+쓰고
+	쓰/pvg+고/ecc
+
+아래는
+	아래/ncn+는/jxc
+
+엽서의
+	엽서/ncn+의/jcm
+
+내용을
+	내용/ncn+을/jco
+
+기재한다
+	기재/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+우측에는
+	우측/ncn+에/jca+는/jxc
+
+AIR
+	AIR/f
+
+MAIL
+	MAIL/f
+
+과
+	고/pvg+아/ecx
+
+받는
+	받/pvg+는/etm
+
+사람의
+	사람/ncn+의/jcm
+
+주소를
+	주소/ncn+를/jco
+
+쓰면
+	쓰/pvg+면/ecs
+
+끝
+	끝/ncn
+
+!
+	!/sf
+
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+자세히
+	자세히/mag
+
+알아보자
+	알/pvg+아/ecx+보/px+자/ecc
+
+.
+	./sf
+
+
+1)
+	1/nnc+)/sr
+
+보내는
+	보내/pvg+는/etm
+
+사람
+	사람/nbu
+
+
+:
+	:/sp
+
+보내는
+	보내/pvg+는/etm
+
+사람의
+	사람/ncn+의/jcm
+
+이름
+	이름/ncn
+
+/
+	//sp
+
+발신하는
+	발신/ncpa+하/xsva+는/etm
+
+국명
+	국명/ncn
+
+/
+	//sp
+
+주소
+	주소/ncn
+
+기재
+	기재/ncn
+
+(
+	(/sl
+
+한국으로
+	한국/ncn+으로/jca
+
+보낼
+	보내/pvg+ㄹ/etm
+
+경우,
+	경우/ncn+,/sp
+
+한국어로
+	한국어/ncn+로/jca
+
+쓰면
+	쓰/pvg+면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+)
+	)/sr
+
+
+2)
+	2/nnc+)/sr
+
+AIR
+	AIR/f
+
+MAIL
+	MAIL/f
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+붉은
+	붉/paa+은/etm
+
+글씨로
+	글씨/ncn+로/jca
+
+쓴다
+	쓰/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+(안쓰더라도
+	(안쓰더라/ncn+도/jxc
+
+우체국에
+	우체국/ncn+에/jca
+
+가면
+	가/px+면/ecs
+
+'Air
+	'/sr+Air/f
+
+MAil'
+	MAil/f+'/sr
+
+이라는
+	이르/paa+어/ef+는/etm
+
+스티커를
+	스티커/ncn+를/jco
+
+붙여
+	붙이/pvg+어/ecx
+
+주는
+	주/px+는/etm
+
+경우도
+	경우/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+)
+	)/sr
+
+
+3)
+	3/nnc+)/sr
+
+받을
+	받/pvg+을/etm
+
+사람
+	사람/nbu
+
+
+:
+	:/sp
+
+받을
+	받/pvg+을/etm
+
+사람의
+	사람/ncn+의/jcm
+
+이름
+	이름/ncn
+
+/
+	//sp
+
+주소
+	주소/ncn
+
+기재
+	기재/ncn
+
+
+이
+	이/mmd
+
+때는
+	때/ncn+는/jxc
+
+영문과
+	영문/ncn+과/jcj
+
+한글
+	한글/ncn
+
+양쪽
+	양쪽/ncn
+
+다
+	다/mag
+
+쓰는
+	쓰/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+한국으로
+	한국/ncn+으로/jca
+
+보낼
+	보내/pvg+ㄹ/etm
+
+경우에는
+	경우/ncn+에/jca+는/jxc
+
+주소는
+	주소/ncn+는/jxc
+
+한글로
+	한글/ncn+로/jca
+
+쓰고
+	쓰/pvg+어/ef+고/jcr
+
+맨
+	맨/mma
+
+마지막에
+	마지막/ncn+에/jca
+
+SEOUL,
+	SEOUL/f+,/sp
+
+KOREA
+	KOREA/f
+
+만
+	말/px+ㄴ/etm
+
+영어로
+	영어/ncn+로/jca
+
+써도
+	쓰/pvg+어도/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+(
+	(/sl
+
+항공우편은
+	항공/ncn+우편/ncn+은/jxc
+
+모두
+	모두/mag
+
+서울로
+	서울/ncn+로/jca
+
+와서
+	오/px+아/ecs
+
+다시
+	다시/mag
+
+지방으로
+	지방/ncn+으로/jca
+
+내려가기
+	내리/pvg+어/ecx+가/px+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+일단
+	일단/mag
+
+서울로만
+	서울로/ncn+만/jxc
+
+도착하면
+	도착/ncpa+하/xsva+면/ecs
+
+우체부
+	우체부/ncn
+
+아저씨가
+	아저씨/ncn+가/jcs
+
+알아서
+	알/pvg+아/ecx
+
+배송해
+	배송/ncn+해/ncn
+
+주시니
+	주/px+시/ep+니/ecs
+
+한글만
+	한글/ncn+만/jxc
+
+써도
+	쓰/pvg+어도/ecs
+
+크게
+	크/paa+게/ecs
+
+무방하다
+	무방/ncps+하/xsms+다/ef
+
+.)
+	./sf+)/sr
+
+
+*
+	*/sy
+
+나라
+	나/npp+이/jp+라/ecs
+
+이름
+	이름/ncn
+
+아래는
+	아래/ncn+는/jxc
+
+붉은
+	붉/paa+은/etm
+
+선을
+	선/ncn+을/jco
+
+그어
+	그/npd+이/jp+어/ecs
+
+눈에
+	눈/ncn+에/jca
+
+잘
+	잘/mag
+
+띄게
+	띄/pvg+게/ecs
+
+하는
+	하/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+*
+	*/sy
+
+지방
+	지방/ncn
+
+주소라고
+	주소/ncn+이/jp+라/ef+고/jcr
+
+해도
+	하/pvg+어도/ecs
+
+SEOUL
+	SEOUL/f
+
+KOREA
+	KOREA/f
+
+를
+	를/ncn
+
+넣어줘야
+	넣/pvg+어/ecx+주/px+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+*
+	*/sy
+
+남북한
+	남북한/ncn
+
+상황을
+	상황/ncn+을/jco
+
+고려하여
+	고/pvg+려/ecx+하/px+어/ecx
+
+SOUTH
+	SOUTH/f
+
+KOREA
+	KOREA/f
+
+라고
+	라/ncn+이/jp+고/ecc
+
+쓸
+	쓰/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+우체국에서
+	우체국/ncn+에서/jca
+
+항공
+	항공/ncn
+
+우편
+	우편/ncn
+
+붙이기
+	붙이/pvg+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+영어회화
+	영어회화/ncn
+
+한마디
+	한/nnc+마디/nbu
+
+!
+	!/sf
+
+
+I'd
+	I/f+'/sr+d/f
+
+like
+	like/f
+
+to
+	to/f
+
+send
+	send/f
+
+this
+	this/f
+
+letter
+	letter/f
+
+by
+	by/f
+
+airmail.
+	airmail/f+./sy
+
+(이
+	(/sl+이/mmd
+
+편지를
+	펴/pvg+ㄴ/etm+지/nbn+를/jco
+
+항공우편으로
+	항공/ncn+우편/ncn+으로/jca
+
+붙이고
+	붙이/pvg+고/ecc
+
+싶습니다
+	싶/px+습니다/ef
+
+.)
+	./sf+)/sr
+
+
+*
+	*/sy
+
+담아가실
+	담/pvg+아/ecx+가/px+시/ep+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+덧글
+	덧글/ncn
+
+부탁드립니다
+	부탁드리/pvg+ㅂ니다/ef
+
+.!!
+	./sf+!/sf+!/sf
+
+
+^^*
+	^/sy+^/sy+*/sy

@@ -1,0 +1,636 @@
+전주한옥마을
+	전주/ncn+한옥/ncn+마을/ncn
+
+둘레길
+	둘레/ncn+길/ncn
+
+이름은
+	이름/ncn+은/jxc
+
+숨길이다
+	숨길/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+전주한옥마을
+	전주/ncn+한옥/ncn+마을/ncn
+
+전망을
+	전망/ncn+을/jco
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+오목대에
+	오목대/ncn+에/jca
+
+올랐다가
+	오르/pvg+아/ep+다가/ecc
+
+
+좌측길로
+	좌측/ncn+길/ncn+로/jca
+
+내려서면
+	내/nbn+이/jp+리/ep+어서/ep+면/ecs
+
+
+(한옥마을
+	(/sl+한옥/ncn+마을/ncn
+
+집중지역은
+	집중지/ncn+역/ncn+은/jxc
+
+우측)
+	우측/ncn+)/sr
+
+
+숨길을
+	숨길/ncn+을/jco
+
+알리는
+	알리/pvg+는/etm
+
+이정표가
+	이정표/ncn+가/jcs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+전주한옥마을
+	전주/ncn+한옥/ncn+마을/ncn
+
+'숨길"은
+	'/sl+숨길/ncn+"/sr+은/jxc
+
+
+전주
+	전주/ncn
+
+천변으로
+	천변/ncpa+으로/jca
+
+이어진
+	잇/pvg+어/ecx+지/px+ㄴ/etm
+
+전주
+	전주/ncn
+
+한옥마을
+	한옥/ncn+마을/ncn
+
+
+분위기와
+	분위기/ncn+와/jcj
+
+또다른
+	또다른/mma
+
+느낌으로
+	느낌/ncn+으로/jca
+
+
+다가오는
+	다가오/pvg+는/etm
+
+소박한
+	소박/ncn+한/ncn
+
+둘레길이다
+	둘레/ncn+길/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+숨길
+	숨기/pvg+ㄹ/etm
+
+이정표를
+	이정표/ncn+를/jco
+
+보고
+	보/px+고/ecc
+
+잠시
+	잠시/mag
+
+걷다보면
+	걷다보/ncn+이/jp+면/ecs
+
+나즈막한
+	나즈막한/ncn
+
+언덕으로난
+	언덕으로난/ncn
+
+계단길을
+	계단/ncn+길/ncn+을/jco
+
+만난다
+	만나/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+한옥마을과
+	한옥/ncn+마을/ncn+과/jcj
+
+또다른
+	또다른/mma
+
+느낌으로
+	느끼/pvg+ㅁ/etn+으로/jca
+
+다가오는
+	다가오/pvg+는/etm
+
+전주천변
+	전주/ncn+천변/ncpa
+
+마을
+	마을/ncn
+
+
+서있는곳에서
+	서있는곳/ncn+에서/jca
+
+우측으로는
+	우측/ncn+으로/jca+는/jxc
+
+오목대가
+	오목대/ncn+가/jcs
+
+있고
+	있/px+고/ecc
+
+.
+	./sf
+
+
+,.
+	,/sp+./sy
+
+..
+	./sf+./sf
+
+
+잠시
+	잠시/mag
+
+전망
+	전망/ncn
+
+구경하다
+	구경/ncpa+하/xsva+어다/ecs
+
+숨길로
+	숨길/ncn+로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+공원을
+	공원/ncn+을/jco
+
+벗어나면
+	벗/pvg+어/ecx+나/px+면/ecs
+
+전주
+	전주/ncn
+
+향교를
+	향교/ncn+를/jco
+
+만날수
+	만나/pvg+ㄹ/etm+수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+전주향교
+	전주/ncn+향교/ncn
+
+
+(전주시
+	(/sl+전주/ncn+시/ncn
+
+완산구
+	완산구/ncn
+
+교동
+	교동/ncn
+
+26-3)
+	26/nnc+-3/nnc+)/sr
+
+
+(사적
+	(/sl+사적/ncn
+
+제379호)
+	제379호/ncn+)/sr
+
+
+현재
+	현재/mag
+
+kbs에서
+	kbs/f+에서/jca
+
+인기리에
+	인기리에/mag
+
+방영중인
+	방영중/ncn+이/jp+ㄴ/etm
+
+성균관
+	성균관/ncn
+
+스캔들
+	스캔들/ncn
+
+촬영
+	촬영/ncpa
+
+장소
+	장소/ncn
+
+이기도
+	이/npd+이/jp+기/etn+도/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+전주향교
+	전주/ncn+향교/ncn
+
+
+향교는
+	향교/ncn+는/jxc
+
+대성전,
+	대성/ncn+전/ncn+,/sp
+
+명륜당
+	명륜당/ncn
+
+등
+	등/nbu
+
+16동의
+	16/nnc+동/nbu+의/jcm
+
+건물이
+	건물/ncn+이/jcc
+
+있으며
+	있/paa+으며/ecc
+
+
+전국
+	전국/ncn
+
+향교중
+	향교/ncn+중/ncn
+
+유일하게
+	유일/ncps+하/xsms+게/ecs
+
+공자,맹자,
+	공자/ncn+,/sp+맹자/ncn+,/sp
+
+증자,
+	증자/ncpa+,/sp
+
+안자의
+	알/pvg+ㄴ/etm+자/nbn+의/jcm
+
+아버지
+	아버지/ncn
+
+위패를
+	위패/ncn+를/jco
+
+봉안하
+	봉안/ncpa+하/xsva+어/ecx
+
+계성사가
+	계성사/ncn+가/jcs
+
+있고
+	있/paa+고/ecc
+
+
+대성전,
+	대성/ncn+전/ncn+,/sp
+
+동무,
+	동무/ncn+,/sp
+
+서무에
+	서무/ncn+에/jca
+
+51선현의
+	51선현/ncn+의/jcm
+
+위패가
+	위패/ncn+가/jcs
+
+봉안되어있다
+	봉안/ncpa+되/xsvn+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+장판각에은
+	장판/ncn+각/ncn+에/jca+은/jxc
+
+주자대전,
+	주자/ncn+대전/ncn+,/sp
+
+성리대전,
+	성리대전,/ncn
+
+사기평림
+	사기평림/ncn
+
+등
+	등/nbu
+
+9600여
+	9600/nnc+여/xsnu
+
+점의
+	점/nbu+의/jcm
+
+목판이
+	목판/ncn+이/jcc
+
+소장되어
+	소장/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+촬영소품인가
+	촬영소/ncn+품/ncn+이/jp+ㄴ가/ef
+
+...
+	.../se
+
+
+명륜당
+	명륜당/ncn
+
+
+명륜당
+	명륜당/ncn
+
+내부
+	내부/ncn
+
+교실
+	교실/ncn
+
+
+노랗게
+	노랗/paa+게/ecs
+
+물든
+	물/pvg+든/ecs
+
+은행나무
+	은행/ncn+나무/ncn
+
+아래
+	아래/ncn
+
+고풍스런
+	고풍/ncn+스런/jcm
+
+명륜당을
+	명륜당/ncn+을/jco
+
+다시
+	다시/mag
+
+담아보고싶다
+	담/pvg+아/ecx+보/px+고/ecx+싶/px+다/ef
+
+.
+	./sf
+
+
+바로옆
+	바로옆/ncn
+
+부속건물
+	부속건물/ncn
+
+
+명륜당
+	명륜당/ncn
+
+앞마당에
+	앞마당/ncn+에/jca
+
+묵은
+	묵/pvg+은/etm
+
+은행나무가
+	은행/ncn+나무/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+노랗게
+	노랗/paa+게/ecs
+
+물이
+	물/ncn+이/jcc
+
+든
+	들/pvg+ㄴ/etm
+
+모습은
+	모습/ncn+은/jxc
+
+얼마나
+	얼마나/mag
+
+아름다울까
+	아름답/paa+을까/ef
+
+..
+	./sf+./sf
+
+
+행사가
+	행사/ncpa+가/jcc
+
+있었는지
+	있/px+었/ep+는지/ecs
+
+어르신들께서
+	어르/pvg+시/ep+ㄴ/etm+들/nbn+께서/jcs
+
+한복이랑
+	한복/ncn+이/jcs+랑/jxc
+
+여러가지
+	여러/nnc+가지/nbu
+
+물건들을
+	물/pvg+ㄹ/etm+것/nbn+이/jp+ㄴ/etm+들/nbn+을/jco
+
+정성드려
+	정성/ncn+드/ncn+이/jp+려/ecs
+
+곱게
+	곱/paa+게/ecs
+
+챙기시는
+	챙기/pvg+시/ep+는/etm
+
+모습에서
+	모습/ncn+에서/jca
+
+
+선비의
+	선비/ncn+의/jcm
+
+기품이
+	기품/ncn+이/jcc
+
+느껴졌다
+	느끼/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+향교에서는
+	향교/ncn+에서/jca+는/jxc
+
+매주
+	매주/mag
+
+일요일
+	일요일/ncn
+
+전주시민을
+	전주/ncn+시민/ncn+을/jco
+
+대상으로
+	대상/ncn+으로/jca
+
+무료한문교실이
+	무료/ncn+한문/ncn+교실/ncn+이/jcc
+
+있다고한다
+	있/paa+다고/ecx+하/px+ㄴ다/ef
+
+
+학교종이
+	학교/ncn+종이/ncn
+
+땡땡땡~~~하고픈
+	땡땡땡~~~하고픈/ncn
+
+..
+	./sf+./sf
+
+
+멋스러운
+	멋/ncn+스럽/xsmn+은/etm
+
+은행나무
+	은행나무/ncn
+
+
+대성전
+	대성/ncn+전/ncn
+
+
+향교에
+	향교/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+은행나무
+	은행/ncn+나무/ncn
+
+3그루가
+	3/nnc+그루/nbu+가/jcc
+
+오랜
+	오래/paa+ㄴ/etm
+
+세월만큼
+	세/nnc+월/nbu+만큼/jxc
+
+멋지고
+	멋지/paa+고/ecc
+
+아름답다
+	아름답/paa+다/ef
+
+.
+	./sf
+
+
+만화루
+	만화루/ncn
+
+
+현재
+	현재/mag
+
+전국에
+	전국/ncn+에/jca
+
+남아있는
+	남/pvg+아/ecx+있/px+는/etm
+
+339향교중
+	339향교중/ncn
+
+가장
+	가장/mag
+
+아름다운
+	아름답/paa+은/etm
+
+향교라고
+	향교/ncn+이/jp+라/ef+고/jcr
+
+하는
+	하/pvg+는/etm
+
+전주향교
+	전주/ncn+향교/ncn

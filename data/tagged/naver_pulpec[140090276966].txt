@@ -1,0 +1,862 @@
+비슬산
+	비슬산/ncn
+
+
+대구광역시
+	대구/ncn+광역시/ncn
+
+
+기간
+	기간/ncn
+
+2009.
+	2009./nnc
+
+9.
+	9./nnc
+
+5~
+	5/nnc+~/sd
+
+2009.
+	2009./nnc
+
+9.
+	9./nnc
+
+6(1박
+	6(1박/ncn
+
+2일)
+	2/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+도시를
+	도시/ncn+를/jco
+
+떠난
+	떠나/pvg+ㄴ/etm
+
+휴양&자연여행
+	휴양&자연여행/ncn
+
+
+경로
+	경로/ncn
+
+
+부산
+	부산/ncps
+
+비슬산자연휴양림
+	비슬산자연휴양림/ncn
+
+유가사
+	유가사/ncn
+
+부산
+	부산/ncps
+
+
+아직
+	아직/mag
+
+이른
+	이르/paa+ㄴ/etm
+
+시간이라
+	시간/ncn+이/jp+라/ecs
+
+사람이
+	사람/ncn+이/jcc
+
+없어서
+	없/paa+어서/ecs
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+아침햇살을
+	아침/ncn+햇살/ncn+을/jco
+
+밝게
+	밝/paa+게/ecs
+
+비친
+	비치/pvg+ㄴ/etm
+
+비슬산
+	비슬산/ncn
+
+자연휴양림
+	자연/ncn+휴양림/ncn
+
+..
+	./sf+./sf
+
+
+다른
+	다른/mma
+
+통나무집에서도
+	통나무집/ncn+에서/jca+도/jxc
+
+아직
+	아직/mag
+
+인기척은
+	인기척/ncn+은/jxc
+
+없고
+	없/paa+고/ecc
+
+..
+	./sf+./sf
+
+
+나무사이로
+	나무/ncn+사이/ncn+로/jca
+
+드문드문
+	드문드문/mag
+
+햇살만이
+	햇살/ncn+만/ncn+이/jcc
+
+노크를
+	노크/ncpa+를/jco
+
+한다
+	하/pvg+ㄴ다/ef
+
+
+오늘도
+	오늘/ncn+도/jxc
+
+하늘은
+	하늘/ncn+은/jxc
+
+아주
+	아주/mag
+
+맑네
+	맑/paa+네/ef
+
+..
+	./sf+./sf
+
+
+아
+	아/ii
+
+관리사무실
+	관리/ncn+사무실/ncn
+
+아래에
+	아래/ncn+에/jca
+
+단풍나무가
+	단풍나무/ncn+가/jcs
+
+벌써
+	벌써/mag
+
+피고
+	피/pvg+고/ecc
+
+있다
+	있/paa+다/ef
+
+
+비슬산
+	비슬산/ncn
+
+자연휴양림의
+	자연/ncn+휴양림/ncn+의/jcm
+
+최고의
+	최고/ncn+의/jcm
+
+자랑
+	자랑/ncn
+
+.
+	./sf
+
+
+잘
+	잘/mag
+
+조경된
+	조경/ncpa+되/xsvn+ㄴ/etm
+
+화단
+	화단/ncn
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+아름다운
+	아름답/paa+은/etm
+
+각종
+	각종/ncn
+
+꽃들
+	꽃/ncn+들/xsncc
+
+.
+	./sf
+
+
+이건
+	이/npd+이/jp+건/ecc
+
+초딩시절에
+	초딩시절/ncn+에/jca
+
+꽃잎을
+	꽃잎/ncn+을/jco
+
+쭉
+	쭉/mag
+
+뽑아
+	뽑/pvg+어/ecx
+
+먹으면
+	먹/pvg+으면/ecs
+
+꿀물이
+	꿀물/ncn+이/jcc
+
+나오던
+	나/pvg+아/ecx+오/px+던/etm
+
+그
+	그/mmd
+
+꽃인데
+	꽃/ncn+이/jp+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+그래서
+	그래서/maj
+
+몰래
+	몰래/mag
+
+하나
+	하나/nnc
+
+살짝
+	살짝/mag
+
+.
+	./sf
+
+
+어릴적
+	어리/paa+ㄹ/etm+적/nbn
+
+그맛은
+	그맛/ncn+은/jxc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+달짝지근
+	달짝지근/ncn
+
+..
+	./sf+./sf
+
+
+여름이
+	여름/ncn+이/jcc
+
+지난지라
+	지나/pvg+ㄴ/etm+지/nbn+이/jp+라/ecs
+
+계곡의
+	계곡/ncn+의/jcm
+
+물은
+	물/ncn+은/jxc
+
+이제
+	이제/mag
+
+제법
+	제법/mag
+
+말라있다
+	마르/pvg+아/ecx+있/px+다/ef
+
+
+그래도
+	그래도/maj
+
+계곡물에
+	계곡/ncn+물/ncn+에/jca
+
+발
+	발/ncn
+
+담궈보고
+	담구/pvg+어/ecx+보/px+고/ecc
+
+..
+	./sf+./sf
+
+
+아직은
+	아직/mag+은/jxc
+
+계곡을
+	계곡/ncn+을/jco
+
+흘러
+	흐르/pvg+어/ecx
+
+흘러
+	흐르/pvg+어/ecx
+
+물은
+	물/pvg+ㄴ/etm
+
+흘러간다
+	흐르/pvg+어/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+늦여름이라
+	늦여름/ncn+이/jp+라/ecs
+
+초가을이라
+	초가을/ncn+이/jp+라/ecs
+
+낮이면
+	낮/ncn+이/jp+면/ecs
+
+더운
+	덥/paa+은/etm
+
+날씨
+	날씨/ncn
+
+.
+	./sf
+
+
+비슬산의
+	비슬산/ncn+의/jcm
+
+자연은
+	자연/ncn+은/jxc
+
+초여름이든
+	초여름/ncn+이/jp+든/ecs
+
+초가을이든
+	초가을/ncn+이/jp+든/ecs
+
+아직은
+	아직/mag+은/jxc
+
+푸르고
+	푸르/paa+고/ecc
+
+녹음이
+	녹음/ncn+이/jcc
+
+이쁘다
+	이쁘/paa+다/ef
+
+
+간밤의
+	간밤/ncn+의/jcm
+
+텐트촌에도
+	텐트/ncn+촌/ncn+에/jca+도/jxc
+
+아침이
+	아침/ncn+이/jcc
+
+찾아오고
+	찾/pvg+아/ecx+오/px+고/ecc
+
+..
+	./sf+./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+아침산책이니만큼
+	아침/ncn+산책/ncpa+이/jp+니/ecs+만큼/jxc
+
+위로
+	위/ncn+로/jca
+
+가지않고
+	가/pvg+지/ecx+않/px+고/ecc
+
+입구쪽으로
+	입구/ncn+쪽/ncn+으로/jca
+
+해서
+	하/pvg+어서/ecs
+
+산책길을
+	산책길/ncn+을/jco
+
+걸어보기로
+	걷/pvg+어/ecx+보/px+기/etn+로/jca
+
+했다
+	하/pvg+었/ep+다/ef
+
+
+소재사
+	소재사/ncn
+
+입구의
+	입구/ncn+의/jcm
+
+다리가
+	다리/ncn+가/jcs
+
+나오고
+	나/pvg+아/ecx+오/px+고/ecc
+
+..
+	./sf+./sf
+
+
+대견사지를
+	대견/ncn+사지/ncn+를/jco
+
+나타내는
+	나타내/pvg+는/etm
+
+돌탑과
+	돌탑/ncn+과/jcj
+
+계곡이
+	계곡/ncn+이/jcc
+
+보인다
+	보/nbu+이/jp+ㄴ다/ef
+
+
+아직
+	아직/mag
+
+피진
+	피진/ncn
+
+않았지만
+	않/px+아/ep+지만/ecs
+
+야호~
+	야호/ii+~/sd
+
+도토리
+	도토리/ncn
+
+발견
+	발견/ncpa
+
+..
+	./sf+./sf
+
+
+자전거로
+	자전거/ncn+로/jca
+
+이
+	이/mmd
+
+비탈진
+	비탈지/paa+ㄴ/etm
+
+길을
+	길/ncn+을/jco
+
+오르는
+	오르/pvg+는/etm
+
+팀들도
+	팀/ncn+들/xsncc+도/jxc
+
+있고
+	있/px+고/ecc
+
+..
+	./sf+./sf
+
+
+늘
+	늘/mag
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+모습을
+	모습/ncn+을/jco
+
+보이는
+	보이/pvg+는/etm
+
+소재사
+	소재사/ncn
+
+입구
+	입구/ncn
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+이길을
+	이/nnc+길/nbu+을/jco
+
+훌쩍
+	훌쩍/mag
+
+넘어
+	넘/pvg+어/ecx
+
+입구까지
+	입구/ncn+까지/jxc
+
+간다
+	가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+어젯밤
+	어젯밤/ncn
+
+내가
+	나/npp+가/jcs
+
+들어왔던길
+	들어왔던길/ncn
+
+.
+	./sf
+
+
+사진을
+	사진/ncn+을/jco
+
+보기에도
+	보/px+기/etn+에/jca+도/jxc
+
+그러하지만
+	그러/pvd+어/ecx+하/px+지/ecx+말/px+ㄴ/etm
+
+휴양림까지
+	휴양림/ncn+까지/jxc
+
+들어가기까지의
+	들/pvg+어/ecx+가/px+기/etn+까지/jca+의/jcm
+
+길은
+	길/ncn+은/jxc
+
+좁다
+	좁/paa+다/ef
+
+.
+	./sf
+
+
+차한대
+	차한대/ncn
+
+간신히
+	간신히/mag
+
+지나다닐정도
+	지나다닐정/ncn+도/jxc
+
+..
+	./sf+./sf
+
+
+근데
+	근데/ncn
+
+편도다
+	편도/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+중간에
+	중간/ncn+에/jca
+
+차를
+	차/ncn+를/jco
+
+만나는
+	만나/pvg+는/etm
+
+교차점이
+	교차점/ncn+이/jcc
+
+있긴
+	있긴/ncn
+
+하지만
+	하/pvg+지만/ecs
+
+..
+	./sf+./sf
+
+
+늘
+	늘/mag
+
+아슬아슬
+	아슬아슬/mag
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+자연을
+	자연/ncn+을/jco
+
+보호하기위해선
+	보호/ncpa+하기/ncn+위해/ncn+선/ncn
+
+어쩔수
+	어쩌/paa+ㄹ/etm+수/nbn
+
+없지
+	없/paa+지/ecx
+
+.
+	./sf
+
+
+도로를
+	도로/ncn+를/jco
+
+넓힐순
+	넓힐순/ncn
+
+없으니
+	없/paa+으니/ecs
+
+..
+	./sf+./sf
+
+
+소재사에서
+	소재사/ncn+에서/jca
+
+입구까지
+	입구/ncn+까지/jxc
+
+.
+	./sf
+
+
+가장
+	가장/mag
+
+아름다운길
+	아름다운/ncn+길/ncn
+
+.
+	./sf
+
+
+보통은
+	보통/ncn+은/jxc
+
+여기에
+	여기/npd+에/jca
+
+주차를
+	주차/ncn+를/jco
+
+하고
+	하/pvg+고/ecc
+
+짐을
+	지/px+ㅁ/etn+을/jco
+
+수레로
+	수레/ncn+로/jca
+
+혹은
+	혹은/maj
+
+손으로
+	손/ncn+으로/jca
+
+들고선
+	들/pvg+고선/ecs
+
+들어가게
+	들/pvg+어/ecx+가/px+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+통나무집은
+	통나무집/ncn+은/jxc
+
+예외
+	예외/ncn
+
+.
+	./sf
+
+
+한대만
+	한/nnc+대/nbu+만/jxc
+
+통행가능
+	통행/ncpa+가능/ncpa
+
+.
+	./sf
+
+
+아.
+	아/ii+./sf
+
+저옆에
+	저옆/ncn+에/jca
+
+수레가
+	수레/ncn+가/jcs
+
+보이네
+	보이/pvg+네/ef
+
+.
+	./sf
+
+
+아름다운
+	아름답/paa+은/etm
+
+길.
+	길/ncn+./sf
+
+.
+	./sf
+
+
+차가
+	차/ncn+가/jcs
+
+다니기엔
+	다니/pvg+기/etn+엔/jca
+
+조금은
+	조금/mag+은/jxc
+
+위험한
+	위험/ncn+한/ncn
+
+길.
+	길/paa+ㄹ/etm+./sf
+
+.
+	./sf
+
+
+초가을
+	초가/ncn+이/jp+ㄹ/etm
+
+비슬산
+	비슬산/ncn
+
+자연휴양림의
+	자연/ncn+휴양림/ncn+의/jcm
+
+모습
+	모습/ncn
+
+1편
+	1/nnc+편/nbu
+
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/pulpec/140090272515
+	com/f+//sp+pulpec/f+//sp+140090272515/nnc
+
+
+초가을
+	초가/ncn+이/jp+ㄹ/etm
+
+비슬산
+	비슬산/ncn
+
+자연휴양림
+	자연/ncn+휴양림/ncn
+
+인근의
+	인근/ncn+의/jcm
+
+유가사의
+	유가/ncn+사의/ncn
+
+모습
+	모습/ncn
+
+2편
+	2/nnc+편/nbu
+
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/pulpec/140090281551
+	com/f+//sp+pulpec/f+//sp+140090281551/nnc

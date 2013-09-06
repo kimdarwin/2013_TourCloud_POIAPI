@@ -1,0 +1,40 @@
+Date:
+2011.09.05
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/07d5fb0d28215f2bd6cb7abab665dc08.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/ff141aead764fba82de5362b6bdc76ef.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/87d0e2fbdfafc265b76514e7cb2d538c.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/6173d790aaf2529f77a6575667d8ed3b.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/6b70d0be60dea27202cc78d51e1fbab2.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/0eb57fa04c57ee38a33fd40b1d2c6612.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/c05e10845897d6a21c8f961090cef872.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/dd60ab254a6fc9dfd424088c3de5d4e2.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/ccf5038bca9ebe6780569fce09c6426b.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/733ff1617519fda994abee33b51b3252.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/49fa4b11b295ec23c2407f72454c4796.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/948ef17e01687b98dc10843d11acb046.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/b5c70c8336d52380018ab4d715b4342a.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/ece855ace0cffe25443fe42babb03107.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/78b578c7e5d3933d6c317b956d45f0ac.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/18d6d19854b1f45f735aaefabbcf5ad4.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/64dad76b62917a1714dd79e57fcdc922.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/1beea86c51d16ed79cf192fd599d3a5e.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/f432318ae90cd0dc43c891c668ea9e33.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/180f9cd51bed74304627cfb71520ec7d.jpg');
+list_gallery_add_image(699930,'files/attach/images/228818/633/173/8202b58ab8c63200fc0d1e4c44f722d5.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+9월 4일(일) 봉평 메밀꽃밭과 벌개미취꽃 핀 한국자생식물원 여행을 다녀왔습니다.
+매년 요맘때면 평창 봉평면에서는 효석문화재가 열립니다. 하얀 메밀꽃이 피는 시기에 맞춰 열리는 지역 축제입니다. 이달 9일부터 축제가 열릴 예정인데 저희가 약간 이르게 봉평 메밀꽃을 본 셈입니다.
+어제도평창은 태풍의 영향으로 오락가락한 날씨였습니다. 봉평면에 도착하였을 때 비는 내리지 않았지만 금세라도 비가 내릴 것 같은 흐린 하늘 그리고 써늘한 바람이 겉옷을 챙겨 입어야 할 정도더군요.
+올 여름에 비가 많이 내렸던 터라 봉평 메밀밭중 일부는 메밀을 다시 파종을 하여 예년만큼 마을 전체가 하얀 꽃구름 같은 모습은 좀 어렵지 않을까 싶습니다.
+봉평면 이효석 문화 마을에 도착하여 섶다리를 건너 약 2만평 부지의 메밀밭은 현재 온통 하얀 소금을 흩뿌려놓은 듯한 황홀한 모습입니다. 하지만 바로 건너편 메밀밭은 나중에 다시 파종을 하여 현재는 아직 꽃이 피지 않은 상태입니다.
+하늘만 파랗다면 더 바랄게 없겠지만 어제는 잔뜩 흐린 하늘이었고 그래도 하얀 메밀꽃이 활짝 핀 모습이 너무도 고마웠습니다. 더구나 축제 전이어서 시끄러운 음악소리도 없고 한가롭게 메밀밭을 돌아볼 수 있었던 점이 참 다행스러웠습니다. 그렇지 않았다면 메밀밭 데크에는 사람들이 넘쳐났을 테니까요.
+하얀 메밀꽃밭을 쉬이 떠나기 어려울 정도로 예쁜 꽃들이 발길을 붙잡았지만 효석문학관도 둘러보고 이효석 생가까지 짧은 걷기도 해보았습니다. 메밀꽃밭 여행을 끝내고 이 고장의 특산물인 메밀로 만든 음식으로 점심식사를 하고 이웃한 진부면 한국자생식물원으로 이동하였습니다.
+진부면으로 접어드는 국도를 들어섰을 때에는 조금씩 비가 내리고 있었지만 보슬비처럼 흩뿌리는 정도여서 식물원을 돌아보는 데 큰 어려움은 없었습니다. 
+한국자생식물원은 요즘 보랏빛 벌개미취가 군락을 이뤄 피어나 더없이 아름다운 모습입니다. 빗물 촉촉히 머금은 꽃들은 덕분에 싱싱해 보였고 드넓은 벌판은 그림처럼 곱더군요. 아기자기한 야생화가 핀 정원을 돌아보고 연분홍 부처꽃이 핀 들녘을 지나 조금씩 모습을 드러내는 벌개미취꽃에 취해 비가 내리는 것도 전혀 방해가 되지 않았습니다. 이외에도 자생식물원에는 수많은 꽃들이 피어 있습니다. 이곳 역시 사람들의 발길이 뜸한 곳이라 식물원은 온통 우리들 차지였네요.^^
+늦여름 꽃인 벌개미취가 지고 나면 강원도는 빠르게 가을이 진행될 것입니다. 가까운 오대산에는 울긋불긋 단풍이 물들어 또다시 우리를 가을 속으로 맞이할 것입니다.
+오늘은 하루종일 예쁜 꽃과 함께 한 하루였습니다. 예상보다 활짝 핀 하얀 메밀꽃 그리고 꽃 시기를 맞추기 어려운 벌개미취꽃 군락까지 보았으니 행운이 가득한 날이었죠. 저도 오랜만에 메밀꽃과 벌개미취꽃을 실컷 보아서 즐거운 마음이었습니다.
+서울로 돌아오는 길은 막히는 구간이 많아서 차안에서 지루하셨을 텐데 여행 끝까지 차분하게 마무리할 수 있도록 도와주신 참여 회원분들께 고맙다는 말씀드립니다. 새롭게 시작되는 한 주도 잘 보내시고 추석 명절도 즐겁게 보내시기 바랍니다~이 게시물을...

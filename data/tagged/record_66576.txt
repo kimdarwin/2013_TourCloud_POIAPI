@@ -1,0 +1,143 @@
+봉정사
+	봉정사/ncn
+
+입구
+	입구/ncn
+
+
+봉정사의
+	봉정/ncpa+사의/ncn
+
+영산암
+	영산암/ncn
+
+
+부용대에서
+	부용대/ncn+에서/jca
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+하회마을
+	하회마을/ncn
+
+
+부용대에서
+	부용대/ncn+에서/jca
+
+내려와
+	내리/pvg+어/ecx+오/px+아/ecx
+
+나룻배를
+	나룻배/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+낙동강을
+	낙동강/ncn+을/jco
+
+건너
+	건너/pvg+어/ecx
+
+하회마을로
+	하회마을/ncn+로/jca
+
+들어갔습니다
+	들/pvg+어/ecx+가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+병산서원의
+	병산서원/ncn+의/jcm
+
+만대루에서
+	만/nnc+대/xsnu+루/nbu+에서/jca
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+낙동강의
+	낙동강/ncn+의/jcm
+
+멋스러운
+	멋/ncn+스럽/xsmn+은/etm
+
+풍강
+	풍강/ncn
+
+
+병산서원
+	병산서원/ncn
+
+주위의
+	주위/ncn+의/jcm
+
+목백일홍
+	목백일홍/ncn
+
+---
+	-/sd+-/sd+-/sd
+
+목백일홍이
+	목백일홍/ncn+이/jcc
+
+피면
+	피/pvg+면/ecs
+
+다시
+	다시/mag
+
+찾고
+	찾/pvg+고/ecc
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+8
+	8/nnc
+
+
+홍매화가
+	홍매/ncn+화/ncn+가/jcs
+
+피었다면
+	피/pvg+었/ep+다면/ecs
+
+얼마나
+	얼마나/mag
+
+아름다웠을까요
+	아름답/paa+었/ep+을까/ef+요/jxf
+
+?
+	?/sf
+
+
+배경음악Beethoven
+	배경음악Beethoven/ncn
+
+Violin
+	Violin/f
+
+Sonata
+	Sonata/f
+
+spring
+	spring/f
+
+
+이
+	이/mmd
+
+게시물을
+	게시/ncpa+물/ncn+을/jco
+
+...
+	.../se

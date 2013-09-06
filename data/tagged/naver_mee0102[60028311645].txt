@@ -1,0 +1,363 @@
+요즘
+	요즘/mag
+
+한창
+	한창/mag
+
+방영중인
+	방영중/ncn+이/jp+ㄴ/etm
+
+서울
+	서울/ncn
+
+1945
+	1945/nnc
+
+촬영지
+	촬영지/ncn
+
+.
+	./sf
+
+
+정확한
+	정확/ncps+하/xsms+ㄴ/etm
+
+명칭은
+	명칭/ncn+은/jxc
+
+합천
+	합천/ncn
+
+영상
+	영상/ncn
+
+테마파크
+	테마/ncn+파크/ncn
+
+란다
+	란다/ncn
+
+.
+	./sf
+
+
+태풍도
+	태풍/ncn+도/jxc
+
+이곳에서
+	이곳/npd+에서/jca
+
+촬영을
+	촬영/ncpa+을/jco
+
+했나
+	하/px+었/ep+나/ef
+
+??
+	?/sf+?/sf
+
+
+촬영장을
+	촬영장/ncn+을/jco
+
+들어서자
+	들어서/pvg+자/ecc
+
+젤
+	젤/ncn
+
+먼저
+	먼저/mag
+
+반기는
+	반기/pvg+는/etm
+
+것은
+	것/nbn+은/jxc
+
+이정재다
+	이정재/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+앞
+	앞/ncn
+
+부분은
+	부분/ncn+은/jxc
+
+태극기
+	태극/ncn+기/ncn
+
+휘날리며
+	휘날리/pvg+며/ecc
+
+모습이
+	모습/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+똑같은
+	똑같/paa+은/etm
+
+사진찍기하던미카도
+	사진찍기하던미카/ncn+도/jxc
+
+그대로이고
+	그/npp+대로/jca+이/jp+고/ecc
+
+...
+	.../se
+
+
+내부에는
+	내부/ncn+에/jca+는/jxc
+
+태극기
+	태극/ncn+기/ncn
+
+휘날리며의
+	휘날리며/ncn+의/jcm
+
+흔적이
+	흔적/ncn+이/jcc
+
+아직
+	아직/mag
+
+남아
+	남/pvg+아/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+기차안에서
+	기차/ncn+안/ncn+에서/jca
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+책
+	책/ncn
+
+읽는척,
+	읽/pvg+는/etm+척/nbs+,/sp
+
+차
+	차/ncn
+
+마시는
+	마시/pvg+는/etm
+
+척
+	척/mag
+
+하며
+	하/pvg+며/ecc
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+사진도
+	사진/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+찍었다
+	찍/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+기차
+	기차/paa+아/ecx
+
+내부에서사진을
+	내부에서사진/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+찍다보니
+	찍다보니/ncn
+
+뒤편으로
+	뒤편/ncn+으로/jca
+
+1945의
+	1945/nnc+의/jcm
+
+더
+	더/mag
+
+많은
+	많/paa+은/etm
+
+건물이
+	건물/ncn+이/jcc
+
+있었다는
+	있/px+었/ep+다/ef+는/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+몰랐다
+	모르/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+진정한
+	진정/ncn+한/ncn
+
+1945의
+	1945/nnc+의/jcm
+
+세트장은
+	세트/ncn+장/ncn+은/jxc
+
+그
+	그/mmd
+
+곳인거
+	곳인거/ncn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+..
+	./sf+./sf
+
+
+아쉽다
+	아쉽/paa+다/ef
+
+.
+	./sf
+
+
+다시
+	다시/mag
+
+오기도
+	오/px+기/etn+도/jxc
+
+쉽지
+	쉽/paa+지/ecx
+
+않은데
+	않/px+은/etm+데/nbn
+
+..
+	./sf+./sf
+
+
+.
+	./sf
+
+
+**
+	*/sy+*/sy
+
+입장료
+	입장료/ncn
+
+-
+	-/sd
+
+2000원
+	2000/nnc+원/nbu
+
+
+2006.
+	2006./nnc
+
+9.
+	9./nnc
+
+3
+	3/nnc
+
+.
+	./sf
+
+
+일
+	일/nbu
+
+
+Photo
+	Photo/f
+
+by
+	by/f
+
+JasMine
+	JasMine/f
+
+
+합천영상테마파크
+	합천영상테마파크/ncn
+
+
+경상남도
+	경상/ncn+남/ncn+도/jxc
+
+합천군
+	합천군/ncn
+
+용주면
+	용주/ncn+면/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl0112890",
+	"bl0112890",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"합천영상테마파크",
+	title:"합천영상테마파크",/ncn
+
+pointX:406733,pointY:327610}
+	pointX/f+:/sp+406733/nnc+,/sp+pointY/f+:/sp+327610/nnc+}/sr

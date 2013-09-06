@@ -1,0 +1,2090 @@
+이번
+	이/nnc+번/nbu
+
+갤럭시
+	갤럭시/ncn
+
+펌업(SL28)은
+	펌업(SL28)/ncn+은/jxc
+
+좀
+	좀/mag
+
+까다롭군요
+	까다롭/paa+군/ef+요/jxf
+
+.
+	./sf
+
+
+루팅절차도
+	루팅/ncn+절차/ncn+도/jxc
+
+예전보다
+	예전/ncn+보다/jca
+
+복잡해졌고,
+	복잡/ncps+하/xsms+어/ecx+지/px+었/ep+고/ecc+,/sp
+
+메모리패치도
+	메모리패치/ncn+도/jxc
+
+테크라크
+	테크라크/ncn
+
+원낸드를
+	원낸드/ncn+를/jco
+
+제외하고는예전처럼
+	제외하고는예전/ncn+처럼/jca
+
+신속하게
+	신속/ncps+하/xsms+게/ecs
+
+나오지
+	나오/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+있네요
+	있/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+현재
+	현재/mag
+
+유일하게
+	유일/ncps+하/xsms+게/ecs
+
+나와있는
+	나오/pvg+아/ecx+있/px+는/etm
+
+테그라크
+	테그라크/ncn
+
+원낸드
+	원낸드/ncn
+
+패치는
+	패치/ncn+는/jxc
+
+파일포맷을
+	파일/ncn+포맷/ncpa+을/jco
+
+RFS에서
+	RFS/f+에서/jca
+
+EXT4로
+	EXT4/ncn+로/jca
+
+변경하는
+	변경/ncpa+하/xsva+는/etm
+
+이외에
+	이외/ncn+에/jca
+
+순정에서
+	순정/ncn+에서/jca
+
+시스템용도로
+	시스템/ncn+용도/ncn+로/jca
+
+쓰이는
+	쓰이/pvg+는/etm
+
+메모리위치와
+	메모리/ncn+위치/ncn+와/jcj
+
+어플설치용으로
+	어플설치용/ncn+으로/jca
+
+쓰이는
+	쓰이/pvg+는/etm
+
+메모리위치를
+	메모리/ncn+위치/ncn+를/jco
+
+서로
+	서로/mag
+
+바꾸는
+	바꾸/pvg+는/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+이유는
+	이유/ncn+는/jxc
+
+순정에서
+	순정/ncn+에서/jca
+
+시스템이
+	시스템/ncn+이/jcc
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+부분이
+	부분/ncn+이/jcc
+
+원낸드메모리로
+	원낸드메모리/ncn+로/jca
+
+모비낸드메모리보다
+	모비낸드메모리보다/ncn
+
+10배
+	10/nnc+배/nbu
+
+정도
+	정도/ncn
+
+I/O
+	I/f+//sp+O/f
+
+속도가
+	속도/ncn+가/jcs
+
+빠르기
+	빠르/paa+기/etn
+
+때문
+	때문/nbn
+
+.
+	./sf
+
+
+즉
+	즉/mag
+
+빠른
+	빠르/paa+ㄴ/etm
+
+메모리에
+	메모리/ncn+에/jca
+
+어플을
+	어플/ncn+을/jco
+
+설치해서구동속도를
+	설치/ncpa+해서/ncn+구동/ncpa+속도/ncn+를/jco
+
+높이자는
+	높이/pvg+자/ef+는/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+없지
+	없/paa+지/ecx
+
+않아
+	않/px+아/ecx
+
+단점이
+	단점/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+시스템용도로
+	시스템/ncn+용도/ncn+로/jca
+
+쓰이던
+	쓰이/pvg+던/etm
+
+원낸드
+	원낸드/ncn
+
+메모리의
+	메모리/ncn+의/jcm
+
+크기가
+	크/paa+기/etn+가/jcs
+
+작기
+	작/paa+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+어플
+	어플/ncn
+
+설치공간이
+	설치공간/ncn+이/jcc
+
+대폭
+	대폭/mag
+
+줄어든다는
+	줄어들/pvg+ㄴ다/ef+는/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+(1.
+	(/sl+1./nnc
+
+87G
+	87G/ncn
+
+-
+	-/sd
+
+292M)
+	292M)/ncn
+
+물론
+	물론/mag
+
+이
+	이/mmd
+
+문제는자주
+	문제는자주/ncn
+
+쓰지
+	쓰/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+어플을
+	어플/ncn+을/jco
+
+외장sd카드에
+	외장sd카드/ncn+에/jca
+
+설치함으로써
+	설치/ncpa+하/xsva+ㅁ/etn+으로써/jca
+
+어느
+	어느/mmd
+
+정도
+	정도/ncn
+
+극복이
+	극복/ncpa+이/jcc
+
+가능합니다
+	가능/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+예전의OCLF나
+	예전의OCLF/ncn+나/jcj
+
+Z4mod를
+	Z4mod/ncn+를/jco
+
+사용할
+	사용/ncpa+하/xsva+ㄹ/etm
+
+때보다
+	때/ncn+보다/jca
+
+살짝
+	살짝/mag
+
+더
+	더/mag
+
+복잡합니다
+	복잡/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+별도로
+	별도/ncn+로/jca
+
+Odin을
+	Odin/f+을/jco
+
+이용해서
+	이용/ncpa+하/xsva+어서/ecs
+
+커널을
+	커널/ncn+을/jco
+
+바꿔주어야
+	바꾸/pvg+어/ecx+주/px+어야/ecs
+
+하지요
+	하/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+앞으로도
+	앞/ncn+으로/jca+도/jxc
+
+갤럭시s
+	갤럭시s/ncn
+
+펌업은
+	펌업/ncn+은/jxc
+
+계속될
+	계속/ncpa+되/xsvn+ㄹ/etm
+
+것으로
+	것/nbn+으로/jca
+
+예상됩니다
+	예상/ncpa+되/xsvn+ㅂ니다/ef
+
+.
+	./sf
+
+
+잘하면진저브레드(안드로이드
+	잘하면진저브레드(안드로이드/ncn
+
+2.3)로
+	2.3/nnc+)/sr+로/jca
+
+업도
+	업/ncn+도/jxc
+
+될
+	되/pvg+ㄹ/etm
+
+거
+	것/nbn
+
+같구요
+	같구요/ncn
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+때문에
+	때문/nbn+에/jca
+
+Odin을
+	Odin/f+을/jco
+
+사용한
+	사용/ncpa+하/xsva+ㄴ/etm
+
+패치방법은
+	패치방법/ncn+은/jxc
+
+선호하지
+	선호/ncpa+하/xsva+지/ecx
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+귀챠니즘
+	귀챠니즘/ncn
+
+때문이죠
+	때문/nbn+이/jp+죠/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+그
+	그/mmd
+
+동안
+	동안/ncn
+
+OCLF(One
+	OCLF/f+(/sl+One/f
+
+Click
+	Click/f
+
+Lag
+	Lag/f
+
+Fix)라는
+	Fix/f+)/sr+라는/jcm
+
+어플을
+	어플/ncn+을/jco
+
+이용한
+	이용/ncpa+하/xsva+ㄴ/etm
+
+패치를
+	패치/ncn+를/jco
+
+사용해
+	사용/ncpa+하/xsva+어/ecx
+
+왔는데
+	오/px+아/ep+ㄴ데/ecs
+
+SL28
+	SL28/ncn
+
+이후론
+	이후/ncn+론/ncn
+
+제대로
+	제대로/mag
+
+적용이
+	적용/ncpa+이/jcc
+
+안되어
+	안되/paa+어/ecx
+
+아쉽습니다
+	아쉽/paa+습니다/ef
+
+.
+	./sf
+
+
+현재로서는맘에
+	현재로서는맘/ncn+에/jca
+
+끌리는
+	끌리/pvg+는/etm
+
+패치가
+	패치/ncn+가/jcs
+
+없고,
+	없/paa+고/ecc+,/sp
+
+그럼
+	그렇/pad+ㅁ/etn
+
+뭐
+	뭐/npd
+
+좀
+	좀/mag
+
+갤럭시s의
+	갤럭시s/ncn+의/jcm
+
+버벅거림을
+	버벅거림/ncn+을/jco
+
+보완해줄
+	보완/ncpa+하/xsva+어/ecx+주/px+ㄹ/etm
+
+만한
+	만/nnc+한/nnc
+
+다른
+	다른/mma
+
+방법은
+	방법/ncn+은/jxc
+
+없을까
+	없/paa+을까/ef
+
+?
+	?/sf
+
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+I/O
+	I/f+//sp+O/f
+
+스케줄
+	스케줄/ncn
+
+방식을
+	방식/ncn+을/jco
+
+바꾸는
+	바꾸/pvg+는/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+I/O
+	I/f+//sp+O/f
+
+스케쥴링이란
+	스케쥴링/ncn+이란/jxc
+
+쉽게
+	쉽/paa+게/ecs
+
+생각해서
+	생각/ncpa+하/xsva+어서/ecs
+
+Read/Write
+	Read/f+//sp+Write/f
+
+작업순서를
+	작업/ncpa+순서/ncn+를/jco
+
+정하는
+	정하/pvg+는/etm
+
+거라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+이해하면
+	이해/ncpa+하/xsva+면/ecs
+
+되겠습니다
+	되/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+리눅스
+	리눅스/ncn
+
+OS(안드로이드는
+	OS(안드로이드/ncn+는/jxc
+
+리눅스계열입니다
+	리눅스계열입니/ncn+이/jp+다/ef
+
+.)
+	./sf+)/sr
+
+
+에서
+	에/pvg+어서/ecs
+
+사용되는
+	사용/ncpa+되/xsvn+는/etm
+
+I/O
+	I/f+//sp+O/f
+
+스케쥴링
+	스케쥴링/ncn
+
+방식엔
+	방식/ncn+엔/jca
+
+다음과
+	다음/ncn+과/jct
+
+같은
+	같/paa+은/etm
+
+것들이
+	것들/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+Anticipatory
+	Anticipatory/f
+
+scheduler
+	scheduler/f
+
+
+어떤
+	어떤/mmd
+
+프로세스의읽기가끝날
+	프로세스의읽기가끝날/ncn
+
+때쯤(아직
+	때/ncn+쯤/xsnx+(/sl+아직/mag
+
+안끝났음)
+	안끝났음)/ncn
+
+미리
+	미리/mag
+
+다음
+	다음/ncn
+
+데이터를
+	데이터/ncn+를/jco
+
+가져오려
+	가/pvg+아/ecx+지/px+어/ecx+오/px+려/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+문제는
+	문제/ncn+는/jxc
+
+동시에
+	동시에/mag
+
+여러
+	여러/mma
+
+개의읽기요청이존재하는
+	개의읽기요청이존재하/ncn+는/jxc
+
+경우자료검색으로
+	경우/ncn+자료검색/ncn+으로/jca
+
+인해
+	인하/pvg+어/ecx
+
+작업부하가
+	작업/ncpa+부하/ncn+가/jcs
+
+크게
+	크/paa+게/ecs
+
+늘어나고
+	늘/pvg+어/ecx+나/px+고/ecc
+
+전체적인
+	전체/ncn+적/ncn+이/jp+ㄴ/etm
+
+performance가
+	performance/f+가/jcc
+
+떨어지게
+	떨어지/pvg+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+이것을
+	이것/npd+을/jco
+
+Deceptive
+	Deceptive/f
+
+Idleness라고
+	Idleness/f+라고/jxc
+
+하는데,이를
+	하/pvg+ㄴ데/ecs+,/sp+이/npd+를/jco
+
+방지하기위해
+	방지/ncpa+하기/ncn+위해/ncn
+
+가져올
+	가/pvg+아/ecx+지/px+어/ecx+오/px+ㄹ/etm
+
+데이터가
+	데이터/ncn+가/jcs
+
+없는
+	없/paa+는/etm
+
+것처럼I/O
+	것처럼I/O/ncn
+
+휴식시간을
+	휴식시간/ncn+을/jco
+
+강제로
+	강제/ncpa+로/jca
+
+잠깐
+	잠깐/mag
+
+부여합니다
+	부/ncn+이/jp+어/ecx+하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+하드디스크의
+	하드디스크/ncn+의/jcm
+
+I/O
+	I/f+//sp+O/f
+
+스케쥴링에
+	스케쥴링/ncn+에/jca
+
+사용되던
+	사용/ncpa+되/xsvn+던/etm
+
+방식으로
+	방식/ncn+으로/jca
+
+현재는
+	현재/ncn+는/jxc
+
+CFQ로
+	CFQ/f+로/jca
+
+대체되어
+	대체/ncn+되/xsvn+어/ecx
+
+거의
+	거의/mag
+
+사용되지
+	사용/ncpa+되/xsvn+지/ecx
+
+않고
+	않/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+CFQ(Completely
+	CFQ/f+(/sl+Completely/f
+
+Fair
+	Fair/f
+
+Queuing)
+	Queuing/f+)/sr
+
+
+많은
+	많/paa+은/etm
+
+리눅스
+	리눅스/ncn
+
+OS
+	OS/f
+
+--
+	-/sd+-/sd
+
+리눅스도
+	리눅스/ncn+도/jxc
+
+버전이
+	버전/ncn+이/jcc
+
+여러가지입니다
+	여러/nnc+가지/nbu+이/jp+ㅂ니다/ef
+
+--
+	-/sd+-/sd
+
+에서
+	에/pvg+어서/ecs
+
+디폴트(기본값)로
+	디폴트(기본값)/ncn+로/jca
+
+사용되고
+	사용/ncpa+되/xsvn+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+자세한
+	자세/ncn+한/ncn
+
+내용은
+	내용/ncn+은/jxc
+
+복잡합니다
+	복잡/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+그냥프로세스
+	그냥프로세스/ncn
+
+실행시
+	실행/ncpa+시/ncn
+
+CPU
+	CPU/f
+
+자원할당을
+	자원/ncn+할당/ncpa+을/jco
+
+조절함으로써
+	조절/ncpa+하/xsva+ㅁ/etn+으로써/jca
+
+전반적인작업처리
+	전반적인작업처리/ncn
+
+효율을높이고자
+	효율을높이고/ncn+이/jp+자/ecc
+
+하는
+	하/pvg+는/etm
+
+방식이라고
+	방식/ncn+이/jp+라/ef+고/jcr
+
+이해하면
+	이해/ncpa+하/xsva+면/ecs
+
+되겠습니다
+	되/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+갤럭시s에서도
+	갤럭시s에서/ncn+도/jxc
+
+기본값으로
+	기본값/ncn+으로/jca
+
+사용되고
+	사용/ncpa+되/xsvn+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+Noop
+	Noop/f
+
+scheduler
+	scheduler/f
+
+
+가장
+	가장/mag
+
+간단한
+	가/px+ㄴ단/etm+한/nbn
+
+방식으로
+	방식/ncn+으로/jca
+
+선입선출(First
+	선입선출(First/ncn
+
+In,
+	In/f+,/sp
+
+First
+	First/f
+
+Out)원칙에
+	Out/f+)/sr+원칙/ncn+에/jca
+
+의해I/O를
+	의해I/O/ncn+를/jco
+
+처리합니다
+	처리/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+하드디스크보다는
+	하드디스크/ncn+보다/jca+는/jxc
+
+플래시
+	플래시/ncn
+
+메모리처럼
+	메모리/ncn+처럼/jca
+
+물리적인
+	물리/ncn+적/ncn+이/jp+ㄴ/etm
+
+데이터
+	데이터/ncn
+
+접근절차(예:
+	접근절차(예:/ncn
+
+디스크의
+	디스크/ncn+의/jcm
+
+회전)가
+	회전/ncpa+)/sr+가/jcc
+
+필요없는
+	필요/ncps+없/xsmn+는/etm
+
+기록장치에서
+	기록/ncpa+장치/ncpa+에서/jca
+
+흔히
+	흔히/mag
+
+사용됩니다
+	사용/ncpa+되/xsvn+ㅂ니다/ef
+
+.
+	./sf
+
+
+Deadline
+	Deadline/f
+
+scheduler
+	scheduler/f
+
+
+이
+	이/mmd
+
+방식에선
+	방식/ncn+에/jca+선/jxc
+
+일반적인
+	일반/ncn+적/ncn+이/jp+ㄴ/etm
+
+I/O
+	I/f+//sp+O/f
+
+que(처리순서
+	que/f+(/sl+처리/ncpa+순서/ncn
+
+목록)이외에
+	목록/ncn+)/sr+이외/ncn+에/jca
+
+읽기와
+	읽/pvg+기/etn+와/jct
+
+쓰기별로
+	쓰기/ncn+별/ncn+로/jca
+
+2개의
+	2/nnc+개/nbu+의/jcm
+
+추가적인
+	추가/ncpa+적/ncn+이/jp+ㄴ/etm
+
+deadline(처리시한)que를
+	deadline/f+(/sl+처리/ncpa+시한/ncn+)/sr+que/f+를/jco
+
+사용합니다
+	사용/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+I/O
+	I/f+//sp+O/f
+
+que에
+	que/f+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+다음
+	다음/ncn
+
+요청을
+	요청/ncpa+을/jco
+
+처리하기
+	처리/ncpa+하/xsva+기/etn
+
+전에deadline
+	전에deadline/ncn
+
+que를먼저
+	que를먼저/ncn
+
+살펴보고
+	살피/pvg+어/ecx+보/px+고/ecc
+
+거기에
+	거기/npd+에/jca
+
+처리시한이
+	처리/ncpa+시한/ncn+이/jcc
+
+지난
+	지나/pvg+ㄴ/etm
+
+요청사항이
+	요청사항/ncn+이/jcc
+
+있으면그걸서둘러
+	있으면그걸서둘러/ncn
+
+수행하게
+	수행/ncpa+하/xsva+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+없으며
+	없/paa+으며/ecc
+
+I/O
+	I/f+//sp+O/f
+
+que의
+	que/f+의/jcm
+
+처리목록을
+	처리/ncpa+목록/ncn+을/jco
+
+실행하구요
+	실행/ncpa+하구/ncn+요/ncn
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+읽기
+	읽/pvg+기/etn
+
+deadline
+	deadline/f
+
+que의
+	que/f+의/jcm
+
+요청사항에
+	요청사항/ncn+에/jca
+
+대해선
+	대/pvg+어/ecx+하/px+어서/ep+ㄴ/etm
+
+500ms라는
+	500ms라/ncn+는/jxc
+
+굉장히
+	굉장히/mag
+
+짧은
+	짧/paa+은/etm
+
+처리시한이
+	처리/ncpa+시한/ncn+이/jcc
+
+부여됩니다
+	부/ncn+이/jp+어/ecx+되/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+(반면
+	(/sl+반면/ncn
+
+쓰기의
+	쓰/pvg+기/etn+의/jcm
+
+처리시한은
+	처리/ncpa+시한/ncn+은/jxc
+
+5초)
+	5/nnc+초/nbu+)/sr
+
+따라서
+	따라서/maj
+
+금방
+	금방/mag
+
+시한을
+	시한/ncn+을/jco
+
+어기게될테니
+	어기/pvg+게/ecx+되/px+ㄹ테니/ecs
+
+주로
+	주로/mag
+
+읽기
+	읽/pvg+기/etn
+
+deadline
+	deadline/f
+
+que에
+	que/f+에/jca
+
+있는사항을
+	있는사항/ncn+을/jco
+
+우선
+	우선/mag
+
+처리하게
+	처리/ncpa+하/xsva+게/ecs
+
+되겠죠
+	되/pvg+겠/ep+죠/ef
+
+.
+	./sf
+
+
+좀
+	좀/mag
+
+복잡하죠
+	복잡/ncps+하/xsms+죠/ef
+
+?
+	?/sf
+
+
+저도
+	저/npp+도/jxc
+
+대강이나마
+	대강/ncn+이/jcs+나마/jxc
+
+이해하느라
+	이해/ncpa+하/xsva+느라/ecs
+
+힘들었습니다
+	힘들/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+이제
+	이제/mag
+
+갤럭시s의
+	갤럭시s/ncn+의/jcm
+
+문제로
+	문제/ncn+로/jca
+
+돌아가
+	돌/pvg+아/ecx+가/px+아/ecx
+
+보죠
+	보/px+죠/ef
+
+.
+	./sf
+
+
+갤럭시s의
+	갤럭시s/ncn+의/jcm
+
+버벅거림은
+	버벅거림/ncn+은/jxc
+
+RFS라는
+	RFS/f+라는/jcm
+
+파일포맷시스템,
+	파일/ncn+포맷/ncpa+시스템/ncn+,/sp
+
+모비낸드라는
+	모비낸드라/ncn+는/jxc
+
+느린
+	느리/paa+ㄴ/etm
+
+메모리에
+	메모리/ncn+에/jca
+
+기인하는
+	기인/ncpa+하/xsva+는/etm
+
+것이었습니다
+	것/nbn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+다시
+	다시/mag
+
+말해서
+	말/ncpa+하/xsva+어서/ecs
+
+I/O
+	I/f+//sp+O/f
+
+처리
+	처리/ncpa
+
+중
+	중/nbn
+
+지연현상이
+	지연/ncpa+현상/ncn+이/jcc
+
+발생한다는
+	발생/ncpa+하/xsva+ㄴ다/ef+는/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+(http://tomtomkor.
+	(/sl+http/f+:/sp+//sp+//sp+tomtomkor/f+./sy
+
+blog.
+	blog/f+./sy
+
+me/60119729008)
+	me/f+//sp+60119729008/nnc+)/sr
+
+
+그
+	그/mmd
+
+점을
+	점/nbu+을/jco
+
+염두에
+	염두/ncn+에/jca
+
+두고
+	두/pvg+고/ecc
+
+위에
+	위/ncn+에/jca
+
+언급된
+	언급/ncpa+되/xsvn+ㄴ/etm
+
+스케쥴
+	스케쥴/ncn
+
+방식들을
+	방식/ncn+들/ncn+을/jco
+
+살펴본다면
+	살피/pvg+어/ecx+보/px+ㄴ다면/ecs
+
+어떤
+	어떤/mmd
+
+방식이
+	방식/ncn+이/jcc
+
+가장
+	가장/mag
+
+유리할까요
+	유리/ncpa+하/xsva+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+Anticipatory와
+	Anticipatory/f+와/jcj
+
+CFQ
+	CFQ/f
+
+방식은전체적인
+	방식/ncn+은전/ncn+체적/ncn+이/jp+ㄴ/etm
+
+작업처리량,
+	작업/ncpa+처리량/ncn+,/sp
+
+즉
+	즉/mag
+
+throughput을
+	throughput/f+을/jco
+
+높이는데
+	높이/pvg+ㄴ데/ecs
+
+중점을두고
+	중점을두/ncn+이/jp+고/ecc
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+Noop의
+	Noop/f+의/jcm
+
+FiFo
+	FiFo/f
+
+방식은너무
+	방식은너무/ncn
+
+단순합니다
+	단순/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+이에
+	이/npd+에/jca
+
+비해서
+	비하/pvg+어서/ecs
+
+Deadlin은
+	Deadlin/f+은/jxc
+
+I/O,
+	I/f+//sp+O/f+,/sp
+
+그중에서도
+	그/npp+중/xsnx+에서/jca+도/jxc
+
+읽기에
+	읽/pvg+기/etn+에/jca
+
+우선을
+	우선/ncpa+을/jco
+
+두는
+	두/pvg+는/etm
+
+방식입니다
+	방식/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+새로운
+	새롭/paa+은/etm
+
+입력이
+	입력/ncpa+이/jcc
+
+있을
+	있/px+을/etm
+
+경우
+	경우/ncn
+
+그에
+	그/npp+에/jca
+
+대한반응
+	대한/ncn+반응/ncpa
+
+면에서다른
+	면에서다른/ncn
+
+방식보다
+	방식/ncn+보다/jca
+
+효과적일
+	효과/ncn+적/ncn+이/jp+ㄹ/etm
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+말하자면
+	말하자면/mag
+
+화면을
+	화면/ncn+을/jco
+
+터치(Input)했을
+	터치(Input)했/ncn+을/jco
+
+때의
+	때/ncn+의/jcm
+
+버벅거림
+	버벅거림/ncn
+
+또는
+	또는/maj
+
+멈칫거림,
+	멈칫거리/pvg+ㅁ/etn+,/sp
+
+즉
+	즉/mag
+
+지연현상(delay,
+	지연/ncpa+현/ncn+상/xsncc+(/sl+delay/f+,/sp
+
+lag)을
+	lag/f+)/sr+을/jco
+
+줄여줄
+	줄이/pvg+어/ecx+주/px+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+(수치로
+	(/sl+수치/ncn+로/jca
+
+된
+	되/pvg+ㄴ/etm
+
+객관적
+	객관/ncn+적/ncn
+
+실증자료는
+	실증/ncpa+자료/ncn+는/jxc
+
+없습니다
+	없/paa+습니다/ef
+
+.
+	./sf
+
+
+^^)
+	^/sy+^/sy+)/sr
+
+
+단,Deadline
+	단/mma+,/sp+Deadline/f
+
+적용은
+	적용/ncpa+은/jxc
+
+I/O
+	I/f+//sp+O/f
+
+빈도를
+	빈도/ncn+를/jco
+
+늘려서
+	늘리/pvg+어서/ecs
+
+메모리
+	메모리/ncn
+
+수명에
+	수명/ncn+에/jca
+
+영향을
+	영향/ncn+을/jco
+
+줄
+	주/px+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+하지만약정
+	하지만약정/ncn
+
+끝나면
+	끝나/pvg+면/ecs
+
+폰을
+	폰/ncn+을/jco
+
+바꿀거니까
+	바꾸/pvg+ㄹ/etm+것/nbn+이/jp+니까/ecs
+
+그렇게
+	그렇/pad+게/ecs
+
+신경쓸
+	신경쓰/pvg+ㄹ/etm
+
+사항은
+	사항/ncn+은/jxc
+
+아니라고
+	아니/paa+라/ef+고/jcr
+
+생각합니다
+	생각/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+초기엔
+	초/nbu+이/jp+기/etn+엔/jca
+
+몰라도
+	모르/pvg+아/ecs
+
+하루
+	하루/ncn
+
+종일
+	종/ncn+이/jp+ㄹ/etm
+
+폰
+	폰/ncn
+
+만지작거릴사람도
+	만지작거릴사람/ncn+도/jxc
+
+없을
+	없/paa+을/etm
+
+거구요
+	거구/ncn+요/ncn
+
+.
+	./sf
+
+
+그러면
+	그러면/maj
+
+변경방법은
+	변경/ncpa+방법/ncn+은/jxc
+
+?
+	?/sf
+
+
+쉽습니다
+	쉽/paa+습니다/ef
+
+.
+	./sf
+
+
+마켓에서Galaxy
+	마켓에서Galaxy/ncn
+
+Tuner라는
+	Tuner/f+라는/jcm
+
+어플을
+	어플/ncn+을/jco
+
+찾아서
+	찾/pvg+아/ecx
+
+설치하세요
+	설치/ncpa+하/xsva+세/ef+요/jxf
+
+.
+	./sf
+
+
+단,
+	단/mma+,/sp
+
+루팅이
+	루팅/ncn+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+있어야
+	있/px+어야/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아래
+	아래/ncn
+
+사진에서처럼
+	사진/ncn+에서/jca+처럼/jxc
+
+세팅하고
+	세팅/ncn+하고/jct
+
+Apply
+	Apply/f
+
+단추를
+	단추/ncn+를/jco
+
+누르면
+	누르/pvg+면/ecs
+
+끝입니다
+	끝/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+다음부팅
+	다음/ncn+부팅/ncpa
+
+이후에는
+	이후/ncn+에/jca+는/jxc
+
+Deadline
+	Deadline/f
+
+Scheduler가
+	Scheduler/f+가/jcc
+
+적용됩니다
+	적용/ncpa+되/xsvn+ㅂ니다/ef
+
+.
+	./sf
+
+
+마켓에
+	마켓/ncn+에/jca
+
+올라와
+	오르/pvg+아/ecx+오/px+아/ecx
+
+있는
+	있/px+는/etm
+
+IO
+	IO/f
+
+Sched라는,
+	Sched/f+라는/jcm+,/sp
+
+같은
+	같/paa+은/etm
+
+분이
+	분/nbu+이/jcc
+
+만든
+	만들/pvg+ㄴ/etm
+
+어플도
+	어플/ncn+도/jxc
+
+마찬가지
+	마찬가지/ncn
+
+기능을
+	기능/ncn+을/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+OCLF
+	OCLF/f
+
+--
+	-/sd+-/sd
+
+마켓에선
+	마켓/ncn+에/jca+선/jxc
+
+사라졌죠
+	사라지/pvg+었/ep+죠/ef
+
+--
+	-/sd+-/sd
+
+에도
+	에/pvg+어도/ecs
+
+동일한
+	동/nbu+이/jp+ㄹ/etm+한/nbn
+
+기능이
+	기능/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+CFQ로의
+	CFQ/f+로/jca+의/jcm
+
+복원도
+	복원/ncpa+도/jxc
+
+간단합니다
+	간단/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+프로요
+	프로/ncn+요/ncn
+
+업데이트
+	업데이트/ncn
+
+이후로
+	이후/ncn+로/jca
+
+갤럭시s의
+	갤럭시s/ncn+의/jcm
+
+버벅거림
+	버벅거림/ncn
+
+현상은눈에
+	현상은눈/ncn+에/jca
+
+띄게개선되었더군요
+	띄게개선되었더군요/ncn
+
+.
+	./sf
+
+
+최근
+	최근/mag
+
+SL28로의
+	SL28로/ncn+의/jcm
+
+펌업
+	펌업/ncn
+
+이후
+	이후/ncn
+
+더욱
+	더욱/mag
+
+그런
+	그러/pvd+ㄴ/etm
+
+것
+	것/nbn
+
+같기도
+	같/paa+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+...
+	.../se
+
+
+어쨌든
+	어쨌든/mag
+
+메모리
+	메모리/ncn
+
+패치를
+	패치/ncn+를/jco
+
+하지
+	하/pvg+지/ecx
+
+않아도
+	않/px+아/ecs
+
+체감상
+	체감/ncn+상/ncn
+
+큰
+	크/paa+ㄴ/etm
+
+불편이
+	불편/ncn+이/jcc
+
+없을
+	없/paa+을/etm
+
+정도까지
+	정도/ncn+까지/jxc
+
+된
+	되/pvg+ㄴ/etm
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+앞으로
+	앞/ncn+으로/jca
+
+메모리패치
+	메모리패치/ncn
+
+굳이
+	굳이/mag
+
+안해도무방할것
+	안해도무방할것/ncn
+
+같다는
+	같/paa+다/ef+는/etm
+
+생각마저
+	생각/ncpa+마저/jxc
+
+듭니다
+	들/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+거기에
+	거기/npd+에/jca
+
+IO
+	IO/f
+
+스케쥴러를
+	스케쥴러/ncn+를/jco
+
+변경하면
+	변경/ncpa+하/xsva+면/ecs
+
+더욱
+	더욱/mag
+
+부드럽고
+	부드럽/paa+고/ecc
+
+반응이
+	반응/ncpa+이/jcc
+
+빠르다는느낌을
+	빠르다는느낌/ncn+을/jco
+
+받을
+	받/pvg+을/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+(제
+	(/sl+제/npp
+
+경우엔
+	경우/ncn+엔/jca
+
+그렇습니다
+	그렇/pad+습니다/ef
+
+.)
+	./sf+)/sr
+
+
+참,
+	참/ii+,/sp
+
+이거
+	이거/npd
+
+했다고
+	하/px+었/ep+다/ef+고/jcr
+
+Quadrant나
+	Quadrant/f+나/jcj
+
+RL
+	RL/f
+
+Benchmark
+	Benchmark/f
+
+결과가
+	결과/ncn+가/jcs
+
+크게
+	크/paa+게/ecs
+
+좋아지거나
+	좋/paa+아/ecx+지/px+거나/ecc
+
+하진
+	하/pvg+어/ecx+지/px+ㄴ/etm
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+Input에
+	Input/f+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+반응속도를
+	반응속도/ncn+를/jco
+
+높여주는
+	높이/pvg+어/ecx+주/px+는/etm
+
+것
+	것/nbn
+
+뿐이니까요
+	뿐/nbn+이/jp+니까/ef+요/jxf
+
+.
+	./sf
+
+
+참고
+	참/pvg+고/ecc
+
+-
+	-/sd
+
+갤럭시s
+	갤럭시s/ncn
+
+SL28
+	SL28/ncn
+
+루팅법:
+	루팅/ncn+법/ncn+:/sp
+
+http://tomtomkor.
+	http/f+:/sp+//sp+//sp+tomtomkor/f+./sy
+
+blog.
+	blog/f+./sy
+
+me/60121461448
+	me/f+//sp+60121461448/nnc

@@ -1,0 +1,43 @@
+Title:
+8/25 장성 편백숲 산림욕 트레킹 후기
+
+Date:
+2012.08.25
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(494944,'files/attach/images/64/007/258/04a4017ab83a368f63ac84dbe1f559a6.jpg');
+list_gallery_add_image(494944,'files/attach/images/64/007/258/e4e15f0cbc2a0e171d20b3e2bcd4c908.jpg');
+list_gallery_add_image(494944,'files/attach/images/64/007/258/d0967faa038fefddfc15e6c6e6dddd9e.jpg');
+list_gallery_add_image(494944,'files/attach/images/64/007/258/5f252a9b26c3aaa05fd5144c3a12d4c8.jpg');
+list_gallery_add_image(494944,'files/attach/images/64/007/258/acb247bb15e9c0622eaa9675c81dd5a4.jpg');
+list_gallery_add_image(494944,'files/attach/images/64/007/258/4a60e0770a543b94ac9d73072045df55.jpg');
+list_gallery_add_image(494944,'files/attach/images/64/007/258/cf54fe86a397422ad43f787dc3b68750.jpg');
+list_gallery_add_image(494944,'files/attach/images/64/007/258/f867cecb7b5a91f125b944d8acd144df.jpg');
+list_gallery_add_image(494944,'files/attach/images/64/007/258/2cba0162a14818906510f6c1edbeeb97.jpg');
+list_gallery_add_image(494944,'files/attach/images/64/007/258/0ebb160d789b2fddfa96a6e5ceb64ec9.jpg');
+list_gallery_add_image(494944,'files/attach/images/64/007/258/aa55170415ed2b4906da5b6c0192dcfc.jpg');
+list_gallery_add_image(494944,'files/attach/images/64/007/258/60cbb7aedf841503759a33a161273e5f.jpg');
+list_gallery_add_image(494944,'files/attach/images/64/007/258/7d215da98201d7dba8c145f00fca5573.jpg');
+list_gallery_add_image(494944,'files/attach/images/64/007/258/6bd9e80fa9d4a4062bb8e47bfa7e285b.jpg');
+list_gallery_add_image(494944,'files/attach/images/64/007/258/0ada1a1d3806ed9589ccf2dc9f5c25a9.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 24일(토), 아름다운 여행으로 장성 편백숲 산림욕 트레킹에 다녀왔습니다.
+이번 코스는 추암마을부터 편백숲길을 지나 금곡 영화마을까지 트레킹과 함께 편백숲에서 많은 시간을 보내며 산림욕을 즐기는 쉼의 여행으로 진행되었습니다.
+편백숲을 만들고 가꾸신 임종국 선생의 추모비가 있는 안내소까지는 오르막에 임도 길이라 좀 힘이 듭니다. 
+아침까지 비가 내렸는지 땅이 촉촉하게 젖어 있었음에도 모두들 많은 땀을 흘리며 힘들어 하시더군요. 
+하지만 추모비만 지나면 이제 본격적인 편백나무와 삼나무가 빼곡한 숲길로 접어 듭니다.
+그늘진 숲 속에서 잠시 앉아 있자니, 언제 그리 땀을 흘렸냐는 듯, 시원함이 느껴집니다.
+숲내음 숲길을 따라 산림욕을 즐기고 다시 이어지는 산소숲길을 걷습니다.
+숲길 여기저기에서는 평상에 누워 눈을 감고 쉬는 분들, 평평한 바위에 자리잡고 앉아 무언가 깊은 명상을 하시는 분, 흐르는 계곡물에 시원한 여유를 즐기시는 분등 각자 여러 모습으로 쉼의 시간을 즐기고 있습니다. 
+맘과 몸이 모두 편안해지는 공간과 시간입니다.
+숲길을 다 걷고도 시간의 여유가 있어 그냥 지나쳐 온 임도 길을 반대로 다시 한번 걸어갔다 와 보기도 했습니다.
+숲내음숲길과 산소숲길은 편백 숲속으로 직접 들어가 시간을 보내는 공간이라면, 임도 길은 쭉쭉 뻗어 병풍처럼 둘러싼 편백나무와 삼나무 길을 벗삼아 걸을 수 있는 공간입니다.
+두길 모두 절대 놓치기 아깝고 몸과 마음 모두가 건강해지는 길이지요.
+최근 비가 많이 내려 곳곳에 맑은 물들이 흘러 작은 물길을 만들기도 하고, 계곡 가에는 어느 때보다 시원스레 많은물이 흐르고 있었습니다. 
+금곡 영화 마을을 둘러보고 주차장까지 내려오는 길은 한여름 타는 듯한 더위를 방불케 하더군요.
+숲 속에서 시원하게 불어오던 바람이 벌써부터 그리워 지는 듯 합니다.
+태풍 북상 전이라 그런지 숲길 이외엔 날씨가 많이 더워 좀 힘드셨을지도 모르겠습니다.
+땀도 많이 흘리고 좀 힘들기도 했지만 편백숲에서 시간을 보내는 내내 그곳의 좋은 기운과 에너지가 몸과 마음에 가득 채워지셨을 거라 생각합니다.
+좋은 활력이 되셨기를 바라며, 남은 휴일도 잘 쉬시고 다음주 초 태풍이 북상한다고 하니 피해 없으시도록 각별히 주의 하시길 바라겠습니다.이 게시물을...

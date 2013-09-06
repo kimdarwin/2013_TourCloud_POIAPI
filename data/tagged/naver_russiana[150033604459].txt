@@ -1,0 +1,36 @@
+아침
+	아침/ncn
+
+6시
+	6/nnc+시/nbu
+
+기상해서
+	기상/ncn+해서/ncn
+
+아파트
+	아파트/ncn
+
+옥상으로
+	옥상/ncn+으로/jca
+
+올라갔다
+	오르/pvg+아/ecx+가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+Cloud
+	Cloud/f
+
+scape
+	scape/f
+
+was
+	was/f
+
+overwhelming
+	overwhelming/f
+
+!!!
+	!/sf+!/sf+!/sf

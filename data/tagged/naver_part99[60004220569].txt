@@ -1,0 +1,166 @@
+어제
+	어제/ncn
+
+대구에서
+	대구/ncn+에서/jca
+
+친할아버지,친할머니께서
+	친할아버지/ncn+,/sp+친할머니/ncn+께서/jcs
+
+오셨다
+	오/px+셨/ep+다/ef
+
+.
+	./sf
+
+
+노을이
+	노을/ncn+이/jcc
+
+보러
+	보/px+러/ecs
+
+오셨는데
+	오/px+셨/ep+는데/ecs
+
+조금전에
+	조금/ncn+전/ncn+에/jca
+
+가셨다
+	가/px+셨/ep+다/ef
+
+.
+	./sf
+
+
+내일
+	내/npp+이/jp+ㄹ/etm
+
+아버님
+	아버님/ncn
+
+출근해야
+	출근/ncpa+하/xsva+어야/ecs
+
+해서
+	하/pvg+어서/ecs
+
+....
+	.../se+./sf
+
+
+그런데
+	그런데/maj
+
+가을이가
+	가을/ncn+이가/jcc
+
+따라가버렸다
+	따르/pvg+아/ecx+가/px+아/ecx+버리/px+었/ep+다/ef
+
+.
+	./sf
+
+
+지금
+	지금/mag
+
+집이
+	집/ncn+이/jcc
+
+절간
+	절간/ncn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+너무너무
+	너무너무/mag
+
+이상하다
+	이상/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+할머니
+	할머니/ncn
+
+따라
+	따르/pvg+아/ecx
+
+나서는
+	나서/pvg+는/etm
+
+가을이도
+	가을/ncn+이/jcs+도/jxc
+
+얄미웠지만,
+	얄밉/paa+었/ep+지만/ecs+,/sp
+
+
+금쪽같은
+	금쪽/ncn+같/xsmn+은/etm
+
+내새끼
+	내새끼/ncn
+
+굳이
+	굳이/mag
+
+데려갈려고
+	데려갈려/ncn+이/jp+고/ecc
+
+하시는
+	하/px+시/ep+는/etm
+
+어머님게도
+	어머님/ncn+게/jca+도/jxc
+
+서운한
+	서운/ncps+하/xsms+ㄴ/etm
+
+마음이
+	마음/ncn+이/jcc
+
+들었다
+	들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+떠난지
+	떠나/pvg+ㄴ지/ecs
+
+1시간도
+	1/nnc+시간/nbu+도/jxc
+
+안
+	안/mag
+
+됐는데,
+	되/pvg+었/ep+는데/ecs+,/sp
+
+엄만
+	얼/pvg+ㅁ/etn+만/jxc
+
+우리
+	우리/npp
+
+가을이가
+	가을/ncn+이가/jcc
+
+너무
+	너무/mag
+
+보고싶다
+	보/pvg+고/ecx+싶/px+다/ef
+
+.
+	./sf

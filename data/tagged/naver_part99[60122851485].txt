@@ -1,0 +1,287 @@
+남성
+	남성/ncn
+
+전용
+	전용/ncpa
+
+화장품
+	화장품/ncn
+
+브랜드
+	브랜드/ncn
+
+라네즈
+	라네즈/ncn
+
+옴므가
+	옴므/ncn+가/jcs
+
+200억
+	200/nnc+억/nnc
+
+판매를
+	판매/ncpa+를/jco
+
+기념하여
+	기념/ncpa+하/xsva+어/ecx
+
+1월
+	1/nnc+월/nbu
+
+22일
+	22/nnc+일/nbu
+
+명동
+	명동/ncn
+
+롯데
+	롯데/ncn
+
+백화점에서
+	백화점/ncn+에서/jca
+
+라네즈
+	라네즈/ncn
+
+옴므
+	옴므/ncn
+
+모델인
+	모델/ncn+이/jp+ㄴ/etm
+
+현빈의
+	현빈/ncn+의/jcm
+
+팬사인회를
+	팬사인회/ncn+를/jco
+
+진행했다
+	진행/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+행사는
+	행사/ncpa+는/jxc
+
+특히
+	특히/mag
+
+최근
+	최근/mag
+
+종영한
+	종영한/ncn
+
+SBS
+	SBS/f
+
+드라마
+	드라마/ncn
+
+시크릿가든
+	시크릿가든/ncn
+
+으로
+	으/ncn+로/jca
+
+인기를
+	인기/ncn+를/jco
+
+넘어서
+	넘/pvg+어서/ecs
+
+신드롬을
+	신드롬/ncn+을/jco
+
+몰고있는
+	몰/pvg+고/ecx+있/px+는/etm
+
+라네즈
+	라네즈/ncn
+
+옴므
+	옴므/ncn
+
+모델
+	모델/ncn
+
+현빈의
+	현빈/ncn+의/jcm
+
+군
+	굴/pvg+ㄴ/etm
+
+입대
+	입대/ncpa
+
+전
+	전/nbn
+
+마지막
+	마지막/ncn
+
+팬
+	패/pvg+ㄴ/etm
+
+사인회여서
+	사인/ncn+회/ncn+이/jp+어서/ecs
+
+시작
+	시작/ncpa
+
+전부터
+	전/nbn+부터/jxc
+
+그
+	그/mmd
+
+열기가
+	열/pvg+기/etn+가/jcs
+
+뜨거웠다
+	뜨겁/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+팬
+	패/pvg+ㄴ/etm
+
+사인회
+	사인/ncn+회/ncn
+
+전날
+	전날/ncn
+
+오후부터
+	오후/ncn+부터/jxc
+
+사인회
+	사인/ncn+회/ncn
+
+줄을
+	줄/nbn+을/jco
+
+서기
+	서/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+명동
+	명동/ncn
+
+롯데
+	롯데/ncn
+
+백화점으로
+	백화점/ncn+으로/jca
+
+인파가
+	인파/ncn+가/jcs
+
+몰리기
+	몰리/pvg+기/etn
+
+시작,
+	시작/ncpa+,/sp
+
+사인회
+	사인/ncn+회/ncn
+
+당일에는
+	당일/ncn+에/jca+는/jxc
+
+백화점
+	백화점/ncn
+
+앞이
+	앞/ncn+이/jcc
+
+인산인해를
+	인산인해/ncn+를/jco
+
+이루었다
+	이루/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+롯데
+	롯데/ncn
+
+백화점
+	백화점/ncn
+
+관계자
+	관계/ncn+이/jp+자/ecc
+
+말에
+	말/ncn+에/jca
+
+의하면
+	의하/pvg+면/ecs
+
+백화점
+	백화점/ncn
+
+팬
+	패/pvg+ㄴ/etm
+
+사인회
+	사인/ncn+회/ncn
+
+사상
+	사상/ncn
+
+최고의
+	최고/ncn+의/jcm
+
+인파라고
+	인파/ncn+이/jp+라/ef+고/jcr
+
+했을
+	하/px+었/ep+을/etm
+
+정도이니
+	정도/ncn+이/jp+니/ecs
+
+라네즈
+	라네즈/ncn
+
+옴므
+	옴므/ncn
+
+사인회
+	사인/ncn+회/ncn
+
+장의
+	장/nbu+의/jcm
+
+열기를
+	열/pvg+기/etn+를/jco
+
+짐작해
+	짐작/ncpa+하/xsva+어/ecx
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf

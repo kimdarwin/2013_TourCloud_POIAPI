@@ -1,0 +1,36 @@
+Title:
+5/26 분주령 야생화 트레킹 후기
+
+Date:
+2012.05.27
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(900689,'files/attach/images/64/524/221/740f37fe34acedd9128b3d1937c31551.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/83ee3c46b8b55b16eba84a6f14ff7e69.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/2042a191db4f826930f523b70c68d81a.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/29f32f70697546bf3f9594d53d2fcb34.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/38a61c78581757e3f88925ce5b1f94eb.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/c228f61ce46db48de2c88777e5c48a30.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/0c7286b7aedad2f4940bd9f9f6ee72a9.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/5244fd605d6562ef349d0c70d1c0af47.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/483ae682d13e31fae9ca08e2e04fc18b.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/7c6e0a96df72319bc46342c3513011d9.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/b7bc84541dde4508d0f7c88bf555406f.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/3a2ac266ecc5690fc02005245c31b908.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/5bf16838e818966fd2ad675d572e2e29.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/907b1b97baa6d457968694784d2d26bf.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/742d0ab6a9a6f95da5f48013bd04a621.jpg');
+list_gallery_add_image(900689,'files/attach/images/64/524/221/34f332ee3eeb9b8110d7886c4c09b623.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+5월 26일(토), 아름다운 여행으로 태백 분주령 야생화 트레킹에 다녀왔습니다.
+주말과 석가탄신일 연휴로 인해 태백으로 가는 고속도로는 긴 구간을 정체상태로 일정보다 조금 늦게 트레킹이 시작되었습니다.
+두문동재(1,268m)를 시작으로 고목나무샘을 지나고 분주령을 거쳐 마지막으로 검룡소까지 돌아보는 코스로 총 7km정도를 걸었습니다.
+시작부터 끝까지 걷는 구간 내내 벌깨덩굴, 광대수염, 쥐오줌풀, 은방울꽃, 감자난초, 애기나리, 지칭개, 제비꽃, 삿갓나물, 괴불주머니, 둥굴레, 천남성, 털쥐손이풀, 등 수도 없이 많은 야생화들을 어렵지 않게 만날 수 있더군요.
+제가 이름을 기억하는 게 이 정도이니 이름을 모르는 꽃들과 보지 못하고 지나친 꽃까지 더한다면 그 꽃들의 종류가 얼마나 대단할지 상상이 가실지 모르겠네요~^^
+고목나무샘을 만날 수 있는 원시림에 가까운 숲길은 쭉쭉 뻗은 나무와 연초록의 푸르름으로 걷는 내내 깊은 눈과 가슴이 시원해지는 길입니다. 걷는 내내 폭신폭신한 감촉의 땅을 밟으며 끝도 없이 걸어도 좋을 것 같은 기분이 들기도 했습니다.
+한강의 발원지인 검룡소에는 최근 비가 많이 오지 않은 탓인지 전보다는 물줄기가 약한 모습이었습니다. 하지만 흐르는 물소리와 맑은 새소리가 분주령 능선을 걸으며 느낀 더위를 잠시나마 식히기엔 충분하지 않았나 싶습니다.
+트레킹을 마치고 태백시내에 있는 너와집에서 늦은 점심식사를 하고 서울로 돌아왔습니다.
+분주령은 많은 사람들에게 알려진트레킹 코스이긴 하지만, 아직까지는 자연 그대로의 모습이 많이 남아있는 곳이 아닌가 싶습니다. 다음 분주령을 찾을 때에는 어떤 꽃들이 또다른 꽃잔치를 벌이고 있을지 벌써부터 궁금해집니다.
+함께 트레킹 하신 모든 분들, 여행의 피로 잘 푸시고 남은 연휴도 잘 보내시길 바라겠습니다~이 게시물을...

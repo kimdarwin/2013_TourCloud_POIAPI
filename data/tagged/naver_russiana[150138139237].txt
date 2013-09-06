@@ -1,0 +1,689 @@
+통도사
+	통도사/ncn
+
+극락암
+	극락/ncn+암/ncn
+
+[통도사암자/한국의절]눈으로
+	[/sl+통도사/ncn+암자/ncn+//sp+한국의/ncn+절/ncn+]/sr+눈/ncn+으로/jca
+
+먹는
+	먹/pvg+는/etm
+
+아이스크림
+	아이스크림/ncn
+
+맛.
+	맛/ncn+./sf
+
+..
+	./sf+./sf
+
+
+서축암에서
+	서축암/ncn+에서/jca
+
+잠깐
+	잠깐/mag
+
+걸었을
+	걷/pvg+었/ep+을/etm
+
+뿐인데
+	뿐/nbn+이/jp+ㄴ데/ecs
+
+등골에
+	등골/ncn+에/jca
+
+땀이
+	땀/ncn+이/jcc
+
+송글송글
+	송글송글/ncn
+
+맺힐
+	맺히/pvg+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+제법
+	제법/mag
+
+날씨가
+	날씨/ncn+가/jcs
+
+더워졌다
+	덥/paa+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+산사라서
+	산사/ncn+이/jp+라서/ecs
+
+그늘에
+	그늘/ncn+에/jca
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+앉으면
+	앉/pvg+으면/ecs
+
+맺힌
+	맺히/pvg+ㄴ/etm
+
+땀방울이
+	땀방울/ncn+이/jcc
+
+금세
+	금세/mag
+
+씻겨
+	씻기/pvg+어/ecx
+
+나갈
+	나/pvg+아/ecx+가/px+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+바람이
+	바람/ncn+이/jcc
+
+분다
+	불/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+요즘
+	요즘/mag
+
+윤달을
+	윤달/ncn+을/jco
+
+맞아
+	맞/pvg+아/ecx
+
+극락암으로
+	극락/ncn+암/ncn+으로/jca
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+발걸음이
+	발걸음/ncn+이/jcc
+
+분주한데
+	분주/ncn+한데/ncn
+
+덩달아
+	덩달/pvg+아/ecx
+
+'극락암'에서
+	'/sr+극락/ncn+암/ncn+'/sr+에서/jca
+
+땀
+	따/pvg+ㅁ/etn
+
+좀
+	좀/mag
+
+식히고
+	식히/pvg+고/ecc
+
+가야겠다
+	가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+나름
+	나름/nbn
+
+암자에서
+	암자/ncn+에서/jca
+
+수행을
+	수행/ncpa+을/jco
+
+한다고
+	하/px+ㄴ다/ef+고/jcr
+
+느낀
+	느끼/pvg+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+극락암에서
+	극락/ncn+암/ncn+에서/jca
+
+음료수
+	음료수/ncn
+
+자판기를
+	자판기/ncn+를/jco
+
+보았을
+	보/px+아/ep+ㄹ/etm
+
+때다
+	때/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+마치
+	마치/mag
+
+군대에서
+	군대/ncn+에서/jca
+
+초코파이를
+	초코파이/ncn+를/jco
+
+손에
+	손/ncn+에/jca
+
+쥐었을
+	쥐/pvg+었/ep+을/etm
+
+때
+	때/ncn
+
+그
+	그/mmd
+
+기분이랑
+	기분/ncn+이/jcs+랑/jxc
+
+많이
+	많/paa+이/xsa
+
+비슷했다
+	비슷/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+청량한
+	청량/ncn+한/ncn
+
+하늘을
+	하늘/ncn+을/jco
+
+닮은
+	닮/pvg+은/etm
+
+청량
+	청량/ncn
+
+음료수
+	음료수/ncn
+
+하나
+	하나/nnc
+
+뽑아
+	뽑/pvg+어/ecx
+
+손에
+	손/ncn+에/jca
+
+드니
+	들/pvg+니/ecs
+
+므흣한
+	므흣한/ncn
+
+표정이
+	표정/ncn+이/jcc
+
+절로
+	절/ncn+로/jca
+
+나오는데
+	나/pvg+아/ecx+오/px+ㄴ데/ecs
+
+남들은
+	남/ncn+들/xsncc+은/jxc
+
+내가
+	나/npp+가/jcs
+
+왜
+	왜/mag
+
+이런
+	이런/mmd
+
+표정을
+	표정/ncn+을/jco
+
+짓고
+	짓/pvg+고/ecc
+
+있나
+	있/px+나/ef
+
+싶었겠지
+	싶/px+었겠/ep+지/ecs
+
+^^영취산이
+	^^영취산/ncn+이/jcc
+
+비친다는
+	비치/pvg+ㄴ다/ef+는/etm
+
+작은
+	작/paa+은/etm
+
+연못
+	연못/ncn
+
+'극락영지',
+	'/sr+극락/ncn+영지/ncn+'/sr+,/sp
+
+그곳에
+	그곳/ncn+에/jca
+
+놓인
+	놓이/pvg+ㄴ/etm
+
+홍교를
+	홍교/ncn+를/jco
+
+둥글게
+	둥글/pvg+게/ecs
+
+건너
+	건너/pvg+어/ecx
+
+가면
+	가/px+면/ecs
+
+극락의
+	극락/ncn+의/jcm
+
+세계로
+	세계/ncn+로/jca
+
+들어서는
+	들/pvg+어서/ecs+는/jxc
+
+기분이다
+	기분/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+청량
+	청량/ncn
+
+음료수의
+	음료수/ncn+의/jcm
+
+톡
+	톡/mag
+
+쏘는
+	쓰/pvg+어/ef+는/etm
+
+맛도
+	맛/ncn+도/jxc
+
+영월루의
+	영월루/ncn+의/jcm
+
+알록달록한
+	알록달록한/ncn
+
+색채도
+	색채/ncn+도/jxc
+
+극락의
+	극락/ncn+의/jcm
+
+소소한
+	소소한/ncn
+
+일부가
+	일/nnc+부/nbu+가/jcc
+
+아닐지
+	아니/paa+ㄹ지/ecs
+
+.
+	./sf
+
+
+이미
+	이미/mag
+
+어르신
+	어르/pvg+시/ep+ㄴ/etm
+
+두
+	두/nnc
+
+분이
+	분/nbu+이/jcc
+
+노래
+	노래/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+곡
+	곡/ncn
+
+뽑을
+	뽑/pvg+을/etm
+
+기세로
+	기세/ncn+로/jca
+
+앉아서
+	앉/pvg+아/ecx
+
+흐르는
+	흐르/pvg+는/etm
+
+바람으로
+	바라/pvg+ㅁ/etn+으로/jca
+
+땀을
+	땀/ncn+을/jco
+
+식히고
+	식히/pvg+고/ecc
+
+있고,
+	있/px+고/ecc+,/sp
+
+나는
+	나/npp+는/jxc
+
+그
+	그/mmd
+
+옆에
+	옆/ncn+에/jca
+
+자리를
+	자리/ncn+를/jco
+
+틀고
+	틀/pvg+고/ecc
+
+책을
+	책/ncn+을/jco
+
+펼쳐
+	펼치/pvg+어/ecx
+
+들었다
+	들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+누각은
+	누각/ncn+은/jxc
+
+신을
+	신/ncn+을/jco
+
+신은
+	신/ncn+은/jxc
+
+상태로
+	상태/ncn+로/jca
+
+벽에
+	벽/ncn+에/jca
+
+기대기
+	기대/pvg+기/etn
+
+좋고
+	좋/paa+고/ecc
+
+땅바닥에
+	땅바닥/ncn+에/jca
+
+꺾인
+	꺾이/pvg+ㄴ/etm
+
+햇살이
+	햇살/ncn+이/jcc
+
+비추는
+	비추/pvg+는/etm
+
+누각은
+	누각/ncn+은/jxc
+
+색이
+	색/ncn+이/jcc
+
+고운데
+	곱/paa+은/etm+데/nbn
+
+그
+	그/mmd
+
+색이
+	색/ncn+이/jcc
+
+마치
+	마치/mag
+
+골라먹는
+	골라먹/ncn+는/jxc
+
+아이스크림을
+	아이스크림/ncn+을/jco
+
+천장에
+	천/nnc+장/nbu+에/jca
+
+발라놓은
+	바르/pvg+아/ecx+놓/px+은/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+바람은
+	바라/pvg+ㅁ/etn+은/jxc
+
+청량음료를
+	청량음료/ncn+를/jco
+
+닮아
+	닮/pvg+아/ecx
+
+시원하고
+	시원/ncps+하고/jct
+
+여행
+	여행/ncpa
+
+에세이를
+	에세이/ncn+를/jco
+
+읽고
+	읽/pvg+고/ecc
+
+있으니
+	있/px+으니/ecs
+
+내
+	내/npp
+
+마음은
+	마음/ncn+은/jxc
+
+어디론가
+	어디론/ncn+가/jcs
+
+여행
+	여행/ncpa
+
+떠난
+	떠나/pvg+ㄴ/etm
+
+기분이고
+	기분/ncn+이/jp+고/ecc
+
+마치
+	마치/mag
+
+나는
+	나/npp+는/jxc
+
+오늘
+	오늘/ncn
+
+극락암에서
+	극락/ncn+암/ncn+에서/jca
+
+작은
+	작/paa+은/etm
+
+극락을
+	극락/ncn+을/jco
+
+만난
+	만나/pvg+ㄴ/etm
+
+것만
+	것/nbn+만/jxc
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+설법전이라
+	설법/ncpa+전/ncn+이/jp+라/ecs
+
+읽어야
+	읽/pvg+어야/ecs
+
+할는지
+	하/pvg+ㄹ는지/ecs
+
+...
+	.../se
+
+
+후보정으로
+	후보/ncr+정/ncn+으로/jca
+
+색감을
+	색감/ncn+을/jco
+
+좀
+	좀/mag
+
+살렸어야
+	살리/pvg+었/ep+어야/ecs
+
+했는데,
+	하/px+었/ep+는데/ecs+,/sp
+
+절집에서
+	절집에서/ncn
+
+넷북으로
+	넷북/ncn+으로/jca
+
+작업하기엔
+	작업/ncpa+하/xsva+기/etn+엔/jca
+
+좀
+	좀/mag
+
+역부족
+	역부족/ncn
+
+...
+	.../se
+
+
+피스타치오
+	피스타치오/ncn
+
+아몬드,
+	아몬드,/ncn
+
+엄마는
+	엄마/ncn+는/jxc
+
+외계인,
+	외계/ncn+이/jp+ㄴ/etm+,/sp
+
+체리쥬빌레,,,
+	체리쥬빌레,,,/ncn
+
+아이고
+	아이/ncn+이/jp+고/ecc
+
+못
+	못/mag
+
+참겠네요
+	참/pvg+겠/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+자라를
+	자라/ncn+를/jco
+
+찾아보세요
+	찾/pvg+아/ecx+보/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+힌트는
+	힌트/ncn+는/jxc
+
+물고기
+	물고기/ncn
+
+근처에
+	근처/ncn+에/jca
+
+...
+	.../se

@@ -1,0 +1,64 @@
+쌍떡잎식물
+	쌍떡잎식물/ncn
+
+산형화목
+	산형/ncn+화목/ncn
+
+두릅나무과의
+	두릅/ncn+나무/ncn+과의/jcm
+
+상록
+	상록/ncn
+
+덩굴식물
+	덩굴식물/ncn
+
+.
+	./sf
+
+
+학명
+	학명/ncn
+
+
+Hedera
+	Hedera/f
+
+rhombea
+	rhombea/f
+
+
+분류
+	분류/ncpa
+
+
+두릅나무과
+	두릅/ncn+나무/ncn+과/jcj
+
+
+분포지역
+	분포/ncpa+지역/ncn
+
+
+한국
+	한국/ncn
+
+일본
+	일/nnc+본/nbu
+
+타이완
+	타/xp+이완/ncpa
+
+
+자생지
+	자생지/ncn
+
+
+해안과
+	해안/ncn+과/jcj
+
+도서지방의
+	도서지방/ncn+의/jcm
+
+숲속
+	숲속/ncn

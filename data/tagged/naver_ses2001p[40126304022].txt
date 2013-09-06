@@ -1,0 +1,811 @@
+"동백공원"
+	"/sl+동백/ncn+공원/ncn+"/sr
+
+-
+	-/sd
+
+부산여행
+	부산/ncps+여행/ncpa
+
+
+[부산여행의
+	[/sl+부산/ncps+여행/ncpa+의/jcm
+
+추천
+	추천/ncpa
+
+명소
+	명소/ncn
+
+!
+	!/sf
+
+
+동백공원
+	동백/ncn+공원/ncn
+
+여행
+	여행/ncpa
+
+!]
+	!/sf+]/sr
+
+
+동백공원에서의
+	동백/ncn+공원/ncn+에서/jca+의/jcm
+
+하루
+	하루/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+동백공원에
+	동백/ncn+공원/ncn+에/jca
+
+대해서
+	대하/pvg+어서/ecso
+
+올려보려고
+	올리/pvg+어/ecx+보/px+려고/ecs
+
+해요
+	하/px+어/ef+요/jxf
+
+부산해운대해수욕장에
+	부산해운대해수욕장/ncn+에/jca
+
+
+이어서
+	이/npd+이/jp+어서/ecs
+
+동백공원
+	동백/ncn+공원/ncn
+
+.
+	./sf
+
+
+해운대해수욕장바로
+	해운대해수욕장바로/ncn
+
+옆에
+	옆/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+공원인데
+	공원/ncn+이/jp+ㄴ데/ecs
+
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+찾는
+	찾/pvg+는/etm
+
+곳이에요
+	곳/nbu+이/jp+에요/ef
+
+
+그래도
+	그래도/maj
+
+같이
+	같/paa+이/xsa
+
+갔던
+	가/px+아/ep+ㄴ/etm
+
+친구가
+	친구/ncn+가/jcs
+
+부산을
+	부산/ncps+을/jco
+
+잘
+	잘/mag
+
+알기에
+	알/pvg+기/etn+에/jca
+
+동백공원도
+	동백/ncn+공원/ncn+도/jxc
+
+구경하고
+	구경/ncn+하고/jct
+
+왔네요
+	오/pvg+아/ep+네요/ef
+
+
+잠깐
+	잠깐/mag
+
+설명을
+	설명/ncpa+을/jco
+
+하자면
+	하/pvg+자면/ecs
+
+넓이는
+	넓이/ncn+는/jxc
+
+약
+	약/ncn
+
+14만
+	14/nnc+만/jxc
+
+이고요
+	이/npd+이/jp+고요/ef
+
+1966년
+	1966/nnc+년/nbu
+
+9월
+	9/nnc+월/nbu
+
+1일
+	1/nnc+일/nbu
+
+공원대지로
+	공원/ncn+대지/ncn+로/jca
+
+지정되어서
+	지정/ncpa+되/xsvn+어서/ecs
+
+
+1990년대에
+	1990/nnc+년대/nbu+에/jca
+
+본격적으로
+	본격/ncn+적/ncn+으로/jca
+
+개발
+	개발/ncpa
+
+되었다고
+	되/pvg+었/ep+다/ef+고/jcr
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+해운대해수욕장
+	해운대해수욕장/ncn
+
+남쪽
+	남쪽/ncn
+
+끝에
+	끝/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+동백섬의
+	동백/ncn+섬/ncn+의/jcm
+
+
+자연을
+	자연/ncn+을/jco
+
+그대로
+	그대로/mag
+
+공원으로
+	공원/ncn+으로/jca
+
+조성하였다고
+	조성/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+대단하죠
+	대단/ncps+하/xsms+죠/ef
+
+그럼
+	그렇/pad+ㅁ/etn
+
+출발할까요
+	출발/ncpa+하/xsva+ㄹ까/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+동백공원에
+	동백/ncn+공원/ncn+에/jca
+
+접어들자
+	접어들/pvg+자/ecc
+
+바로
+	바로/mag
+
+눈에
+	눈/ncn+에/jca
+
+들어오는
+	들/pvg+어/ecx+오/px+는/etm
+
+인어공주
+	인어공주/ncn
+
+
+왜
+	왜/mag
+
+여기
+	여기/mad
+
+인어공주가
+	인어공주/ncn+가/jcs
+
+있는지는
+	있/px+는지/ecs+는/jxc
+
+나도
+	나/npp+도/jxc
+
+모르겠다
+	모르/pvg+겠/ep+다/ef
+
+.
+	./sf
+
+
+아시는
+	알/pvg+시/ep+는/etm
+
+분은
+	분/nbu+은/jxc
+
+밑에
+	밑/ncn+에/jca
+
+댓글
+	댓글/ncn
+
+남겨
+	남기/pvg+어/ecx
+
+주세요
+	주/px+세/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+동백공원에서
+	동백/ncn+공원/ncn+에서/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+부산해운대해수욕장
+	부산해운대해수욕장/ncn
+
+전경
+	전경/ncn
+
+이각도에서
+	이각도/ncn+에서/jca
+
+보니
+	보/px+니/ecs
+
+더
+	더/mag
+
+멋지네요
+	멋지/paa+네/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+동백공원으로
+	동백/ncn+공원/ncn+으로/jca
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+구름다리
+	구름/ncn+다리/ncn
+
+얼마나
+	얼마나/mag
+
+흔드시던지
+	흔들/pvg+시/ep+던/etm+지/nbn
+
+간신히
+	간신히/mag
+
+
+찍었네요
+	찍/pvg+었/ep+네/ef+요/jxf
+
+울
+	울/pvg+ㄹ/etm
+
+친구왈
+	친구왈/ncn
+
+내려서
+	내리/pvg+어서/ecs
+
+찍으면
+	찍/pvg+으면/ecs
+
+돼지
+	돼지/ncn
+
+이궁
+	이궁/ncn
+
+그래서
+	그래서/maj
+
+제가
+	저/npp+가/jcs
+
+
+한말
+	한/nnc+말/nbu
+
+진즉에
+	진즉/ncn+에/jca
+
+알려주지
+	알리/pvg+어/ecx+주/px+지/ecx
+
+푸하하하
+	푸하하하/ncn
+
+재미
+	재미/ncn
+
+없나요
+	없/paa+나/ef+요/jxf
+
+패스
+	패스/ncpa
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+동백공원으로
+	동백/ncn+공원/ncn+으로/jca
+
+가면서도
+	가/px+면서/ecs+도/jxc
+
+아쉬움이
+	아쉬움/ncn+이/jcc
+
+뒤를
+	뒤/ncn+를/jco
+
+돌아보니
+	돌/pvg+아/ecx+보/px+니/ecs
+
+와
+	오/pvg+아/ecx
+
+이렇게
+	이렇/pad+게/ecs
+
+멋진
+	멋지/paa+ㄴ/etm
+
+풍경이
+	풍경/ncn+이/jcc
+
+그래서
+	그래서/maj
+
+담아봅니다
+	담/pvg+아/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+어디를
+	어디/npd+를/jco
+
+가도
+	가/px+아/ecs
+
+전국방방곡곡에
+	전국/ncn+방방곡곡/ncn+에/jca
+
+강태공들은
+	강태공들/ncn+은/jxc
+
+여지
+	여/ncn+이/jp+지/ecs
+
+없이
+	없이/mag
+
+있네요
+	있/paa+네요/ef
+
+
+그래도
+	그래도/maj
+
+동백공원에서의
+	동백/ncn+공원/ncn+에서/jca+의/jcm
+
+낚시는
+	낚시/ncpa+는/jxc
+
+정말
+	정말/mag
+
+멋진거
+	멋진거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+이분들은
+	이분/ncpa+들/ncn+은/jxc
+
+더
+	더/mag
+
+낮은
+	낮/ncn+은/jxc
+
+곳에서의
+	곳/ncn+에서/jca+의/jcm
+
+낚시
+	낚시/ncpa
+
+삼매경
+	삼매경/ncn
+
+그런데
+	그런데/maj
+
+더
+	더/mag
+
+활동적이시라
+	활동/ncpa+적/ncn+이/jp+시/ep+라/ecs
+
+멋지네요
+	멋지/paa+네요/ef
+
+
+잡을때
+	잡/pvg+을/etm+때/nbn
+
+찍고
+	찍/pvg+고/ecc
+
+싶었는데
+	싶/px+었/ep+는데/ecs
+
+일행이이
+	일행/ncn+이/ncn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+패스
+	패스/ncpa
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+다음에
+	다음/ncn+에/jca
+
+동백공원에
+	동백/ncn+공원/ncn+에/jca
+
+오면
+	오/px+면/ecs
+
+꼬옥
+	꼬옥/mag
+
+계시겠죠
+	계시/ncn+이/jp+겠/ep+죠/ef
+
+
+밑에
+	밑/ncn+에/jca
+
+보이시나요
+	보이/pvg+시/ep+나/ef+요/jxf
+
+오늘
+	오늘/ncn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+정리
+	정리/ncpa
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+두분의
+	두/nnc+분/nbu+의/jcm
+
+과감한
+	과감/ncps+하/xsms+ㄴ/etm
+
+강태공분들
+	강태공분들/ncn
+
+
+위험해요
+	위험/ncps+하/xsms+어/ef+요/jxf
+
+너울파도
+	너울/ncn+파/ncn+도/jxc
+
+오심
+	오/px+시/ep+ㅁ/etn
+
+큰일인데
+	큰일/ncn+이/jp+ㄴ데/ecs
+
+울
+	울/pvg+ㄹ/etm
+
+이웃님들은
+	이웃/ncpa+님/ncn+들/xsncc+은/jxc
+
+절대
+	절대/mag
+
+따라
+	따르/pvg+아/ecx
+
+하지
+	하/pvg+지/ecx
+
+마세요
+	말/px+세/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+동백공원에서의
+	동백/ncn+공원/ncn+에서/jca+의/jcm
+
+해운대해수욕장
+	해운대해수욕장/ncn
+
+풍경은
+	풍경/ncn+은/jxc
+
+볼수록
+	보/px+ㄹ수록/ecs
+
+여러가지
+	여러/nnc+가지/nbu
+
+풍경이
+	풍경/ncn+이/jcc
+
+나오네요
+	나/pvg+아/ecx+오/px+네/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+이곳이
+	이곳/npd+이/jcc
+
+동백공원에
+	동백/ncn+공원/ncn+에/jca
+
+핵심인
+	핵심/ncn+이/jp+ㄴ/etm
+
+등대
+	등대/ncn
+
+바다를
+	바다/ncn+를/jco
+
+바라보시는
+	바라/pvg+아/ecx+보/px+시/ep+는/etm
+
+분이
+	분/nbu+이/jcc
+
+참
+	참/mag
+
+인상적이라서
+	인상/ncn+적/ncn+이/jp+라서/ecs
+
+찍어보았습니다
+	찍/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+등대다
+	등대/pvg+어다/ecs
+
+멋진
+	멋지/paa+ㄴ/etm
+
+곳인거는
+	곳/ncn+이/jp+ㄴ/etm+것/nbn+이/jp+는/etm
+
+확실하다
+	확실/ncps+하/xsms+어다/ecs
+
+풍경도
+	풍경/ncn+도/jxc
+
+좋고
+	좋/paa+고/ecc
+
+동백공원에
+	동백/ncn+공원/ncn+에/jca
+
+참
+	참/mag
+
+잘
+	잘/mag
+
+왔다는
+	오/pvg+아/ep+다는/etm
+
+
+생각을
+	생각/ncpa+을/jco
+
+다시금
+	다시금/mag
+
+하네요
+	하/px+네/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+등대에서
+	등대/ncn+에서/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+풍경
+	풍경/ncn
+
+유람선으로
+	유람선/ncn+으로/jca
+
+보이는
+	보이/pvg+는/etm
+
+배도
+	배/ncn+도/jxc
+
+보이네요
+	보이/pvg+네/ef+요/jxf
+
+언제고
+	언제/npd+이/jp+고/ecc
+
+시간
+	시간/nbu
+
+내면
+	내면/ncn
+
+
+해운대해수욕장이랑
+	해운대해수욕장이랑/ncn
+
+동백공원
+	동백/ncn+공원/ncn
+
+다시
+	다시/mag
+
+와야겠어요
+	오/px+아/ep+아/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+이
+	이/mmd
+
+건물은
+	건물/ncn+은/jxc
+
+알려주셨는데
+	알리/pvg+어/ecx+주/px+셨/ep+는데/ecs
+
+제가
+	저/npp+가/jcs
+
+깜빡
+	깜빡/mag
+
+하는
+	하/pvg+는/etm
+
+버릇이
+	버릇/ncn+이/jcc
+
+있어서요
+	있/paa+어서/ef+요/jxf
+
+
+아시는
+	알/pvg+시/ep+는/etm
+
+분은
+	분/nbu+은/jxc
+
+알려주세요
+	알/pvg+려/ecx+주/px+세요/ef
+
+
+동백공원에서의
+	동백/ncn+공원/ncn+에서/jca+의/jcm
+
+즐거운
+	즐겁/paa+은/etm
+
+여행이
+	여행/ncpa+이/jcc
+
+되었습니다
+	되/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy

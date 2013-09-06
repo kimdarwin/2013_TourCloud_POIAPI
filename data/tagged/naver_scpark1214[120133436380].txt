@@ -1,0 +1,460 @@
+가수
+	가수/ncn
+
+JYJ가
+	JYJ/f+가/jcc
+
+제주특별자치도
+	제주/ncn+특별/ncps+자치/ncn+도/jxc
+
+세계7대자연경관
+	세계7대자연경관/ncn
+
+홍보대사로
+	홍보/ncpa+대사/ncn+로/jca
+
+위촉됐습니다
+	위촉/ncpa+되/xsvn+었/ep+습니다/ef
+
+.
+	./sf
+
+
+제주도는
+	제주/ncn+도/jxc+는/jxc
+
+부진한
+	부진/ncpa+하/xsva+ㄴ/etm
+
+외국인
+	외국/ncn+이/jp+ㄴ/etm
+
+투표
+	투표/ncpa
+
+증가를
+	증가/ncpa+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+JYJ를
+	JYJ/f+를/jco
+
+홍보대사로
+	홍보/ncpa+대사/ncn+로/jca
+
+위촉,
+	위촉/ncpa+,/sp
+
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+기간
+	기간/ncn
+
+동안
+	동안/ncn
+
+해외
+	해외/ncn
+
+홍보활동을
+	홍보활동/ncpa+을/jco
+
+펼치게
+	펼치/pvg+게/ecs
+
+될
+	되/pvg+ㄹ/etm
+
+예정이라고
+	예정/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+JYJ
+	JYJ/f
+
+김재중,박유천,김준수는
+	김재중,박유천,김준수/ncn+는/jxc
+
+
+현재
+	현재/mag
+
+월드투어
+	월드/ncn+투어/ncn
+
+콘서트를
+	콘서트/ncn+를/jco
+
+진행하고
+	진행/ncpa+하고/jct
+
+있어
+	있/px+어/ecx
+
+제주도
+	제주/ncn+도/jxc
+
+해외
+	해외/ncn
+
+홍보활동에
+	홍보활동/ncpa+에/jca
+
+큰
+	크/paa+ㄴ/etm
+
+기대가
+	기대/ncpa+가/jcc
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+JYJ가
+	JYJ/f+가/jcc
+
+세계7대자연경관
+	세계7대자연경관/ncn
+
+선정
+	선정/ncpa
+
+투표하는
+	투표/ncpa+하/xsva+는/etm
+
+사진과
+	사진/ncn+과/jcj
+
+영상을
+	영상/ncn+을/jco
+
+보실까요
+	보/px+시/ep+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2011/07/01/295/03101323016E534E39C3496C73290963E01_scpark1214_PC_DEFAULT_logo.
+	net/blogucc28/2011/07/01/295/03101323016E534E39C3496C73290963E01_scpark1214_PC_DEFAULT_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'30.
+	'/sr+30./nnc
+
+579';
+	579/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'649EBB5F419DAE110A65AE38511E53E490E9';
+	'649EBB5F419DAE110A65AE38511E53E490E9/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V121404d768318e614eab81b4662284f9a19b019da8fd04c5673a789c0c2fd96da10181b4662284f9a19b';
+	'V121404d768318e614eab81b4662284f9a19b019da8fd04c5673a789c0c2fd96da10181b4662284f9a19b/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_01027
+	ugcPlayer_01027/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_01027'
+	VideoInfraUGCPlayer('ugcPlayer_01027'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_01027
+	ugcPlayer_01027/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr

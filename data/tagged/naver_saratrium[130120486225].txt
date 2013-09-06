@@ -1,0 +1,1117 @@
+JR
+	JR/f
+
+오사카역
+	오사카역/ncn
+
+남쪽으로
+	남쪽/ncn+으로/jca
+
+나와보면
+	나오/pvg+아/ecx+보/px+면/ecs
+
+고층빌딩들이
+	고층빌딩/ncn+들/ncn+이/jcc
+
+많은데팬시해
+	많은데팬시해/ncn
+
+보이는
+	보이/pvg+는/etm
+
+빌딩들이
+	빌딩/ncn+들/ncn+이/jcc
+
+꽤
+	끄/pvg+어/ecx
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+오사카역,
+	오사카역,/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+우체국,
+	우체국/ncn+,/sp
+
+힐튼호텔,
+	힐튼호텔/ncn+,/sp
+
+리츠칼튼호텔,
+	리츠칼튼호텔,/ncn
+
+하비스
+	하비스/ncn
+
+플라자,
+	플라자/ncn+,/sp
+
+힐튼
+	힐튼/ncn
+
+플라자,다이마루
+	플라자/ncn+,/sp+다이/ncn+마루/ncn
+
+백화점,
+	백화점/ncn+,/sp
+
+마이니치신문사
+	마이니치/ncn+신문사/ncn
+
+등등
+	등등/nbn
+
+고층빌딩들이
+	고층빌딩/ncn+들/ncn+이/jcc
+
+밀집해
+	밀집/ncps+하/xsms+어/ecx
+
+있는
+	있/px+는/etm
+
+숙박,
+	숙박/ncpa+,/sp
+
+문화,
+	문화/ncn+,/sp
+
+비지니스의
+	비지니스/ncn+의/jcm
+
+복합공간
+	복합공간/ncn
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+전면
+	전면/ncn
+
+유리로된
+	유리로된/ncn
+
+빌딩들은
+	빌딩/ncn+들/ncn+은/jxc
+
+보기에
+	보/px+기/etn+에/jca
+
+참
+	참/mag
+
+좋지만지진이
+	좋지만지진/ncn+이/jcc
+
+자주
+	자주/mag
+
+발생하는
+	발생/ncpa+하/xsva+는/etm
+
+일본이라서
+	일/nnc+본/nbu+이/jp+라서/ecs
+
+언젠가
+	언젠가/mag
+
+부터는
+	부터/ncn+는/jxc
+
+걱정이
+	걱정/ncpa+이/jcc
+
+되기
+	되/pvg+기/etn
+
+시작했다하지만
+	시작했다하/ncn+이/jp+지만/ecs
+
+...
+	.../se
+
+
+최근에
+	최근/ncn+에/jca
+
+건축된
+	건축/ncpa+되/xsvn+ㄴ/etm
+
+건물들은
+	건물/ncn+들/ncn+은/jxc
+
+진도
+	진도/ncn
+
+7에도
+	7/nnc+에/jca+도/jxc
+
+유리가
+	유리/ncn+가/jcs
+
+깨지지
+	깨/pvg+어/ecx+지/px+지/ecx
+
+않는다고
+	않/px+는다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+다행
+	다행/ncps
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+생각해서안심
+	생각/ncpa+해서/ncn+안심/ncn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+생각하니
+	생각/ncpa+하/xsva+니/ecs
+
+살짝
+	살짝/mag
+
+씁쓸하다
+	씁쓸/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+힐튼
+	힐튼/ncn
+
+플라자
+	플라자/ncn
+
+웨스트와
+	웨스트/ncn+와/jcj
+
+이스트에르메스,
+	이스트에르메스,/ncn
+
+샤넬,
+	샤넬,/ncn
+
+루이비통
+	루이비통/ncn
+
+등등
+	등등/nbn
+
+고급
+	고급/ncn
+
+명품점들이
+	명품/ncn+점/ncn+들/xsncc+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+화색건물인
+	화색/ncn+건물/ncn+이/jp+ㄴ/etm
+
+힐튼
+	힐튼/ncn
+
+플라자
+	플라자/ncn
+
+이스트의
+	이스트/ncn+의/jcm
+
+로비에는
+	로비/ncn+에/jca+는/jxc
+
+대형
+	대형/ncn
+
+에르메스의
+	에르메스/ncn+의/jcm
+
+켈리백이
+	켈리/ncn+백/ncn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+인상적였다
+	인상적였다/ncn
+
+.
+	./sf
+
+
+힐튼플라자
+	힐튼/ncn+플라자/ncn
+
+웨스트와
+	웨스트/ncn+와/jcj
+
+사계극장의
+	사계/ncn+극장/ncn+의/jcm
+
+중간에
+	중간/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+광장
+	광장/ncn
+
+Cascade
+	Cascade/f
+
+of
+	of/f
+
+Green위에서
+	Green/f+위/ncn+에서/jca
+
+보기에는
+	보/px+기/etn+에/jca+는/jxc
+
+인상적인데
+	인상/ncn+적/ncn+이/jp+ㄴ데/ecs
+
+아래까지
+	아래/ncn+까지/jxc
+
+내려가지
+	내리/pvg+어/ecx+가/px+지/ecx
+
+않았던게
+	않/px+아/ep+ㄴ게/ecs
+
+지금와서
+	지금와/ncn+서/jca
+
+살짝
+	살짝/mag
+
+후회가
+	후회/ncpa+가/jcc
+
+...
+	.../se
+
+
+루이비통은
+	루이비통/ncn+은/jxc
+
+어디를
+	어디/npd+를/jco
+
+가도
+	가/px+아/ecs
+
+있으니
+	있/px+으니/ecs
+
+새롭지
+	새롭/paa+지/ecx
+
+않으나
+	않/px+으나/ecs
+
+..
+	./sf+./sf
+
+
+근사하게
+	근사/ncps+하/xsms+게/ecs
+
+생긴
+	생기/pvg+ㄴ/etm
+
+애프터
+	애프터/ncn
+
+세일즈
+	세일즈/ncn
+
+서비스를
+	서비스/ncpa+를/jco
+
+보니
+	보/px+니/ecs
+
+도쿄에도
+	도쿄/ncn+에/jca+도/jxc
+
+있나
+	있/px+나/ef
+
+하는
+	하/pvg+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+...
+	.../se
+
+
+힐튼
+	힐튼/ncn
+
+플라자
+	플라자/ncn
+
+웨스트
+	웨스트/ncn
+
+안에서
+	안/ncn+에서/jca
+
+밖을
+	밖/ncn+을/jco
+
+내다
+	내/pvg+어다/ecs
+
+보니
+	보/px+니/ecs
+
+방송촬영을
+	방송/ncpa+촬영/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있는것
+	있/px+는/etm+것/nbn
+
+같아
+	같/paa+아/ecx
+
+보였다
+	보이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+사진에는
+	사진/ncn+에/jca+는/jxc
+
+잘
+	잘/mag
+
+안나왔지만
+	안나왔지만/ncn
+
+...
+	.../se
+
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+봐서
+	보/pvg+아/ecx
+
+누군지
+	누군지/ncn
+
+알겠다
+	알/pvg+겠/ep+다/ef
+
+.
+	./sf
+
+
+일주일
+	일/nnc+주일/nbu
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+텔레비젼에서
+	텔레비젼/ncn+에서/jca
+
+얼굴을
+	얼굴/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+유명한
+	유명/ncn+한/ncn
+
+여자
+	여자/ncn
+
+코메디언겸
+	코메디언겸/ncn
+
+사회자,
+	사회/ncn+이/jp+자/ecc+,/sp
+
+히사모토마사미
+	히사모토마사미/ncn
+
+줌을
+	주/px+ㅁ/etn+을/jco
+
+해봤지만
+	하/pvg+어/ecx+보/px+아/ep+지만/ecs
+
+너무
+	너무/mag
+
+멀어서
+	멀/paa+어서/ecs
+
+건물
+	건물/ncn
+
+밖으로
+	밖/ncn+으로/jca
+
+나가봤다
+	나가/pvg+아/ecx+보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+히사모토
+	히사모토/ncn
+
+마사미는
+	마사/ncn+미/ncn+는/jxc
+
+넘
+	널/pvg+ㅁ/etn
+
+작아서
+	작/paa+아/ecx
+
+사람들에
+	사람들/ncn+에/jca
+
+가려서
+	가리/pvg+어서/ecs
+
+잘
+	잘/mag
+
+안보였으나키가
+	안보였으나키/ncn+가/jcs
+
+큰
+	크/paa+ㄴ/etm
+
+남성은
+	남성/ncn+은/jxc
+
+아주
+	아주/mag
+
+잘
+	잘/mag
+
+보였는데1980-90년대
+	보였는데1980-90년대/ncn
+
+일본
+	일/nnc+본/nbu
+
+국가대표
+	국가대표/ncn
+
+배구선수
+	배구/ncn+선수/ncn
+
+였다가
+	였다/ncn+가/jcs
+
+지금은
+	지금/mag+은/jxc
+
+방송인으로
+	방송인/ncn+으로/jca
+
+텔레비젼에
+	텔레비젼/ncn+에/jca
+
+자주
+	자주/mag
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+신장195cm의
+	신장195cm/ncn+의/jcm
+
+가와이
+	가와/ncn+이/jcc
+
+슌이치
+	슌이치/ncn
+
+(
+	(/sl
+
+)사람들이
+	)/sr+사람들/ncn+이/jcc
+
+다들
+	다들/ncn
+
+카메라로
+	카메라/ncn+로/jca
+
+사진을
+	사진/ncn+을/jco
+
+찍길래
+	찍/pvg+길래/ecs
+
+나도
+	나/npp+도/jxc
+
+찍었는데갑자기
+	찍었는데갑자/ncn+이/jp+기/etn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍으면
+	찍/pvg+으면/ecs
+
+안된다고
+	안되/paa+ㄴ다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+히사모토마사미는
+	히사모토마사미/ncn+는/jxc
+
+더이상
+	더이상/mag
+
+못찍었다
+	못찍었다/ncn
+
+.
+	./sf
+
+
+촬영지
+	촬영지/ncn
+
+옮겨
+	옮기/pvg+어/ecx
+
+가면서
+	가/px+면서/ecc
+
+내앞으로
+	내/ncn+앞/xsncc+으로/jca
+
+지나가길래
+	지나/pvg+아/ecx+가/px+길래/ecs
+
+자세히
+	자세히/mag
+
+봤는데
+	보/px+아/ep+ㄴ데/ecs
+
+53세인데
+	53/nnc+세/nbu+이/jp+ㄴ데/ecs
+
+피부도
+	피부/ncn+도/jxc
+
+좋고
+	좋/paa+고/ecc
+
+텔레비젼
+	텔레비젼/ncn
+
+보다
+	보다/mag
+
+더
+	더/mag
+
+젊어
+	젊/paa+어/ecx
+
+보이고
+	보이/pvg+고/ecc
+
+이뻐
+	이쁘/paa+어/ecx
+
+보였다
+	보이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+구경
+	구경/ncn
+
+잘
+	잘/mag
+
+했으니
+	하/px+었/ep+으니/ecs
+
+다시
+	다시/mag
+
+건물안으로
+	건물/ncn+안/ncn+으로/jca
+
+들어가서
+	들/pvg+어/ecx+가/px+아/ecx
+
+이런
+	이런/mmd
+
+저런
+	저런/mmd
+
+샵들
+	샵들/ncn
+
+구경
+	구경/ncn
+
+하다가카페에서
+	하다가카페/ncn+에서/jca
+
+잠시
+	잠시/mag
+
+휴식을
+	휴식/ncpa+을/jco
+
+취하기
+	취하/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+들어간
+	들/pvg+어/ecx+가/px+ㄴ/etm
+
+곳,
+	곳/ncn+,/sp
+
+i
+	i/f
+
+g
+	g/f
+
+cafe여러가지
+	cafe여러가지/ncn
+
+종류가
+	종류/ncn+가/jcs
+
+원
+	원/nbu
+
+플레이트에
+	플레이트/ncn+에/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+런치
+	런치/ncn
+
+플레이트가
+	플레이트/ncn+가/jcs
+
+아주
+	아주/mag
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+들었다
+	들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+솔트앤페퍼병들도
+	솔트앤페퍼병들/ncn+도/jxc
+
+넘
+	널/pvg+ㅁ/etn
+
+귀엽고
+	귀엽/paa+고/ecc
+
+...
+	.../se
+
+
+호텔에서
+	호텔/ncn+에서/jca
+
+아침을
+	아침/ncn+을/jco
+
+너무
+	너무/mag
+
+많이
+	많/paa+이/xsa
+
+먹기도
+	먹/pvg+기/etn+도/jxc
+
+했지만
+	하/px+었/ep+지만/ecs
+
+살짝
+	살짝/mag
+
+이른
+	이르/paa+ㄴ/etm
+
+런치
+	런치/ncn
+
+시간
+	시간/nbu
+
+이라서라테
+	이라서라테/ncn
+
+한잔만
+	한/nnc+잔/nbu+만/jxc
+
+...
+	.../se
+
+
+맛있기는
+	맛있/paa+기/etn+는/jxc
+
+했지만
+	하/px+었/ep+지만/ecs
+
+힐튼호텔에서
+	힐튼호텔/ncn+에서/jca
+
+하는
+	하/pvg+는/etm
+
+카페라서
+	카페/ncn+이/jp+라서/ecs
+
+그런지런치는
+	그런지런치/ncn+는/jxc
+
+가격이
+	가격/ncn+이/jcc
+
+괜찮던데
+	괜찮/paa+던/etm+데/nbn
+
+드링크
+	드링크/ncn
+
+가격은
+	가격/ncn+은/jxc
+
+생김새에
+	생김새/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+살짝
+	살짝/mag
+
+있어서
+	있/px+어서/ecs
+
+아쉬웠던
+	아쉽/paa+었/ep+던/etm
+
+...
+	.../se
+
+
+힐튼플라자
+	힐튼/ncn+플라자/ncn
+
+웨스트와
+	웨스트/ncn+와/jct
+
+연결된
+	연결/ncpa+되/xsvn+ㄴ/etm
+
+건물인
+	건물/ncn+이/jp+ㄴ/etm
+
+하비스
+	하비스/ncn
+
+플라자오사카
+	플라자/ncn+오사/ncn+카/ncn
+
+사계
+	사계/ncn
+
+극장이
+	극장/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+멋있는
+	멋있/paa+는/etm
+
+엘리베이터와높은
+	엘리베이터와높/ncn+은/jxc
+
+천장과
+	천/nnc+장/nbu+과/jcj
+
+발코니커튼
+	발코니/ncn+커튼/ncn
+
+안쪽으로
+	알/pvg+ㄴ/etm+쪽/nbn+으로/jca
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+공연을
+	공연/ncps+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을꺼
+	있을꺼/ncn
+
+같은
+	같/paa+은/etm
+
+...
+	.../se
+
+
+앉아서
+	앉/pvg+아/ecx
+
+휴식을
+	휴식/ncpa+을/jco
+
+취할
+	취하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+장소도
+	장소/ncn+도/jxc
+
+넘
+	널/pvg+ㅁ/etn
+
+세련되고빌딩
+	세련되고빌딩/ncn
+
+산보하는
+	산보/ncpa+하/xsva+는/etm
+
+즐거움을
+	즐거움/ncn+을/jco
+
+줬던
+	주/px+었/ep+던/etm
+
+하비스플라자하비스
+	하비스플라자하비스/ncn
+
+플라자는
+	플라자/ncn+는/jxc
+
+대규모
+	대규모/ncn
+
+복합빌딩으로
+	복합빌딩/ncn+으로/jca
+
+불가리,
+	불가/ncn+이/jp+리/ef+,/sp
+
+티파니,
+	티파니,/ncn
+
+구찌
+	구찌/ncn
+
+등등
+	등등/nbn
+
+명품점,
+	명품/ncn+점/ncn+,/sp
+
+명품
+	명품/ncn
+
+의류
+	의류/ncn
+
+셀렉트샵,
+	셀렉트샵,/ncn
+
+레스토랑,
+	레스토랑/ncn+,/sp
+
+리츠칼튼
+	리츠칼튼/ncn
+
+호텔
+	호텔/ncn
+
+등으로
+	등/nbu+으로/jca
+
+구성되어
+	구성/ncn+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+극단
+	극단/ncn
+
+시키,
+	시키,/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+시키극장,
+	시키극장,/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+블루노트,
+	블루/ncn+노트/ncpa+,/sp
+
+빌보드
+	빌보드/ncn
+
+라이브
+	라이브/ncn
+
+극장,식도락
+	극장,식도락/ncn
+
+공간
+	공간/ncn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+하는
+	하/pvg+는/etm
+
+하비스
+	하비스/ncn
+
+PLAZA
+	PLAZA/f
+
+ENT
+	ENT/f
+
+등이
+	등/nbu+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+힐튼
+	힐튼/ncn
+
+플라자
+	플라자/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+hiltonplaza.
+	hiltonplaza/f+./sy
+
+com하비스
+	com하비스/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+herbis.
+	herbis/f+./sy
+
+jp/
+	jp/f+//sp

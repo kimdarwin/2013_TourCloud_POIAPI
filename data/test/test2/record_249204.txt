@@ -1,0 +1,28 @@
+Title:
+8/4 함백산 만항재 여행 후기
+
+Date:
+2012.08.05
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(744636,'files/attach/images/64/204/249/a1739db11c7e0a5aab957257c7322df0.jpg');
+list_gallery_add_image(744636,'files/attach/images/64/204/249/61233cdb5255cfd0a6f841aa936e83db.jpg');
+list_gallery_add_image(744636,'files/attach/images/64/204/249/e7e655033483b3dc6ee85f5c129a7393.jpg');
+list_gallery_add_image(744636,'files/attach/images/64/204/249/8781c7c09d36528cfb0b03606fed37d9.jpg');
+list_gallery_add_image(744636,'files/attach/images/64/204/249/e61aded52ddf7402ffd1459b9dbe3a27.jpg');
+list_gallery_add_image(744636,'files/attach/images/64/204/249/604a447aaa70f4245ba22a4de4c7cc9c.jpg');
+list_gallery_add_image(744636,'files/attach/images/64/204/249/96b0fa26a84c7b5263e75eb0d405b115.jpg');
+list_gallery_add_image(744636,'files/attach/images/64/204/249/e4628295618baeda950c916654b4e31b.jpg');
+list_gallery_add_image(744636,'files/attach/images/64/204/249/925f96e4fe3fe990e513a17fc12aa441.jpg');
+list_gallery_add_image(744636,'files/attach/images/64/204/249/364329006d719988904b48cda3670cd3.jpg');
+list_gallery_add_image(744636,'files/attach/images/64/204/249/80baed0993a5287f1a398baccc29f22a.jpg');
+list_gallery_add_image(744636,'files/attach/images/64/204/249/f264eed269ad8ef37372b8840be8f679.jpg');
+list_gallery_add_image(744636,'files/attach/images/64/204/249/4d7ba7ff5860880f3cd0daf92826ac88.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 4일(토), 아름다운 여행으로 함백산과 만항재에 다녀왔습니다. 함백산 아래 만항재는 해발 1100m가 넘는 고개로 우리나라에서 차가 올라갈 수 있는 가장 높은 도로로 알려진 곳이죠. 여름이면 온갖 야생화가 지천으로 피어, 야생화 축제가 열리는 곳이기도 합니다. 
+만항재에 도착해 먼저 함백산을 올랐습니다. 함백산은 1500m가 넘는 높은 산이지만 출발지인 만항재도 높은 곳이어서 그렇게 힘들지 않은 산입니다. 그런데 이 날은 날이 더워서 그랬는지 꽤 힘들게 느껴지더군요. 한겨울에 아이젠을 차고 눈길을 걸어 올랐을 때보다 더 힘들게 느껴졌던 것 같습니다. 그래도 함백산 정상에서의 조망은 훌륭했습니다. 동쪽에서 바람이 불어 시원하기도 했고, 그 바람이 구름을 몰고 와 산 정상이 구름에 가렸다 다시 열리는 신비로운 광경을 보기도 했습니다.
+그리고 함백산 산길 주변에도 여름 야생화가 잔뜩 피었더군요. 제가 야생화 이름을 몰라 꽃 이름을 하나하나 열거할 순 없지만, 눈 닿는 곳마다 형형색색의 꽃들이 예쁘게 피어 있었습니다. 본래 여행 일정은 함백산 산행을 마친 뒤 만항재의 야생화를 돌아보는 일정이었는데 저는 함백산 야생화에 발길을 잡혀 만항재는 돌아보지도 못했습니다. 함백산에 여름 야생화가 많이 핀다는 말은 들었어도 이렇게 많이 필 줄은 몰랐습니다.
+이번 여행은 날씨도 꽃도 모두 좋았는데 도로 사정이 아주 좋지 않았습니다. 휴가 절정기여서 이른 아침부터 고속도로가 정체되어 정체를 피해 국도로 가야 했습니다. 그 덕에 예정보다 한 시간이나 늦게 만항재에 도착했고, 여행을 마치고 서울로 돌아온 시간도 예정보다 늦었습니다. 오고 갈 때 정체 때문에 좀 답답했지만 그래도 함백산의 시원한 조망과 예쁜 꽃들은 아주 좋았던 여행이었습니다. 이번 여행에 참여하신 분들 모두 여행의 피로 잘 푸시고 연일 계속되는 폭염에 건강 관리 잘하시기 바랍니다.
+이 게시물을...

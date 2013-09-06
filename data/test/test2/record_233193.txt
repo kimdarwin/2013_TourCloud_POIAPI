@@ -1,0 +1,28 @@
+Title:
+7/7오대산 옛길 걷기 후기
+
+Date:
+2012.07.08
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(726380,'files/attach/images/64/193/233/0248ccc79963bab8e0c9a0e2a5294aca.jpg');
+list_gallery_add_image(726380,'files/attach/images/64/193/233/3daeb56ea394f0267fa87ab1cdc788ed.jpg');
+list_gallery_add_image(726380,'files/attach/images/64/193/233/c85fe672834a31ee6320fc74eb277d82.jpg');
+list_gallery_add_image(726380,'files/attach/images/64/193/233/041a9fad254e1cecf18c8680b53af589.jpg');
+list_gallery_add_image(726380,'files/attach/images/64/193/233/5ca748ad3647fed54b2a47d82e972d8b.jpg');
+list_gallery_add_image(726380,'files/attach/images/64/193/233/28ce39eab1e4b5c0bf9968e11215d352.jpg');
+list_gallery_add_image(726380,'files/attach/images/64/193/233/e080a4d7c84fc70d849220079a2736b0.jpg');
+list_gallery_add_image(726380,'files/attach/images/64/193/233/69a6dab9e5a661f34cc56eb3ec5f1b85.jpg');
+list_gallery_add_image(726380,'files/attach/images/64/193/233/16c8cfc6b57961b2e0739d7a434173ea.jpg');
+list_gallery_add_image(726380,'files/attach/images/64/193/233/a13bcde2efda173159dac2d39e8c95fb.jpg');
+list_gallery_add_image(726380,'files/attach/images/64/193/233/e0bc538b77605ad6da03c341b034f9bb.jpg');
+list_gallery_add_image(726380,'files/attach/images/64/193/233/44d5818892d628ab26d4422f8a9ea3d6.jpg');
+list_gallery_add_image(726380,'files/attach/images/64/193/233/7c9dcc044b16332e9b7220263f09cea0.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+7월 7일(토), 아름다운 여행으로 오대산 옛길 걷기를 하고 왔습니다. 오대산 옛길은 오대산의 상원사와 월정사를 잇는 숲길입니다. 약 9km에 이르는 길로 오대산에서 흘러내리는 계곡을 따라 걷는 길입니다. 계곡을 따라 걸으며 몇 차례 징검다리를 건너는 길이죠. 울창한 숲과 계곡을 따라 걷는 자연스러운 오솔길이 인상적인 길입니다.
+그런데 이번 여행에서는 아쉽게도 오대산 옛길을 걷지 못했습니다. 여행 전 이틀간 내린 폭우로 국립공원 관리공단에서 옛길을 통제하고 있더군요. 이동중에 확인할 때는 옛길로 들어가지 않는 것이 좋겠다,라는 대답을 들었는데, 막상 도착해 보니 옛길 진입로마다 줄을 쳐서 옛길 진입을 차단하고 있었습니다. 많은 비로 계곡물이 불어나 옛길의 징검다리들을 삼켜 버쳤더군요. 어쩔 수 없이 옛길을 포기하고 상원사와 월정사를 잇는 도로를 걸어야 했습니다.
+상원사와 월정사를 잇는 도로도 걷기에 괜찮은 길입니다. 거의 대부분의 구간이 비포장이고 계곡 옆으로 이어지는 숲길입니다. 이 날 이 길을 걸으며 옛길 구간을 아주 잠깐씩 돌아보았습니다. 그리고 계곡 옆을 걷는 길이고 또 이틀간 많은 비가 와서 걷는 내내 우렁찬 계곡의 물소리를 들을 수 있었습니다. 하지만 오대산 옛길에 비하면 아무래도 걷는 즐거움은 떨어지는 길이었습니다. 특히 이 날 상원사로 드나드는 차들이 많아 걷는데 신경이 꽤 쓰이더군요.
+이번 여행은 오대산 옛길을 걷지 못해 많이 아쉬웠던 여행이었습니다. 상원사와 월정사를 돌아보고 계곡 옆길을 걷긴 했지만, 옛길을 걷지 못한 아쉬움을 지우긴 힘든 여행이었습니다. 그래도 하루종일 계곡의 물소리, 새소리와 함께 했던 여행이어서 상쾌한 기분은 넉넉히 느끼셨으리라 생각됩니다. 이번 여행에 참여하신 분들 모두 옛길의 아쉬움은 접어두시고 다시 활기차게 한 주를 시작하시기 바랍니다.
+이 게시물을...

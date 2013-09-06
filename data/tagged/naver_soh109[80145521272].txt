@@ -1,0 +1,8374 @@
+구례군
+	구례군/ncn
+
+문화관광
+	문화/ncn+관광/ncpa
+
+http://culture.
+	http/f+:/sp+//sp+//sp+culture/f+./sy
+
+gurye.
+	gurye/f+./sy
+
+go.
+	go/f+./sy
+
+kr/culture/main_page/main_page.
+	kr/culture/main_page/main_page./ncn
+
+html
+	html/f
+
+
+화엄사
+	화엄사/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+hwaeomsa.
+	hwaeomsa/f+./sy
+
+org/
+	org/f+//sp
+
+연기암
+	연기/ncn+암/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+yeongiam.
+	yeongiam/f+./sy
+
+org/전남
+	org/전남/ncn
+
+구례군
+	구례군/ncn
+
+마산면
+	마산면/ncn
+
+황전리
+	황전리/ncn
+
+12
+	12/nnc
+
+지리산화엄사
+	지리산화엄사/ncn
+
+tel.
+	tel/f+./sy
+
+061-783-7600
+	061/nnc+-783/nnc+-7600/nnc
+
+입장료
+	입장료/ncn
+
+:
+	:/sp
+
+3,500냥
+	3,500/nnc+냥/nbu
+
+
+화엄사-연기암
+	화엄사/ncn+-/sd+연기/ncn+암/ncn
+
+:
+	:/sp
+
+4-5시간정도
+	4/nnc+-5/nnc+시/nbu+간/xsnu+정/nbu+도/jxc
+
+소요됩니다
+	소요/ncpa+되/xsvn+ㅂ니다/ef
+
+.
+	./sf
+
+
+2012
+	2012/nnc
+
+여수세계박람회
+	여수/ncn+세계박람회/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+expo2012
+	expo2012/ncn
+
+.
+	./sf
+
+
+or.kr
+	or/f+./sf+kr/f
+
+여수엑스포여행
+	여수/ncn+엑스포/ncn+여행/ncpa
+
+http://cafe.
+	http/f+:/sp+//sp+//sp+cafe/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/expotour
+	com/f+//sp+expotour/f
+
+
+광주광천터미널-화엄사터미널(8000냥
+	광주광천터미널-화엄사터미널(8000냥/ncn
+
+.
+	./sf
+
+
+1시간
+	1/nnc+시간/nbu
+
+40분
+	40/nnc+분/nbu
+
+소요
+	소요/ncpa
+
+/
+	//sp
+
+광주문화동터미널
+	광주문화동터미널/ncn
+
+7200냥)
+	7200/nnc+냥/nbu+)/sr
+
+:
+	:/sp
+
+0820,
+	0820/nnc+,/sp
+
+1045,
+	1045/nnc+,/sp
+
+1230,
+	1230/nnc+,/sp
+
+1330,
+	1330/nnc+,/sp
+
+1635화엄사터미널-광주광천터미널(8000냥
+	1635화엄사터미널-광주광천터미널(8000냥/ncn
+
+.
+	./sf
+
+
+1시간
+	1/nnc+시간/nbu
+
+40분
+	40/nnc+분/nbu
+
+소요
+	소요/ncpa
+
+/
+	//sp
+
+광주문화동터미널
+	광주문화동터미널/ncn
+
+7200냥)
+	7200/nnc+냥/nbu+)/sr
+
+:
+	:/sp
+
+1010,
+	1010/nnc+,/sp
+
+1245,
+	1245/nnc+,/sp
+
+1435,
+	1435/nnc+,/sp
+
+1535,
+	1535/nnc+,/sp
+
+1855
+	1855/nnc
+
+
+구례터미널-화엄사터미널(1500냥
+	구례터미널-화엄사터미널(1500냥/ncn
+
+.
+	./sf
+
+
+20여분정도
+	20여분정/ncn+도/jxc
+
+소요)
+	소요/ncpa+)/sr
+
+
+0640,
+	0640/nnc+,/sp
+
+0700,
+	0700/nnc+,/sp
+
+0830,
+	0830/nnc+,/sp
+
+0930,
+	0930/nnc+,/sp
+
+1000,
+	1000/nnc+,/sp
+
+1130,
+	1130/nnc+,/sp
+
+1230,
+	1230/nnc+,/sp
+
+1300,
+	1300/nnc+,/sp
+
+1420,
+	1420/nnc+,/sp
+
+1430,
+	1430/nnc+,/sp
+
+1530,
+	1530/nnc+,/sp
+
+1630,
+	1630/nnc+,/sp
+
+1730,
+	1730/nnc+,/sp
+
+1830,
+	1830/nnc+,/sp
+
+1930,
+	1930/nnc+,/sp
+
+2030
+	2030/nnc
+
+
+고속버스
+	고속버스/ncn
+
+예매
+	예매/ncpa
+
+및
+	및/maj
+
+시간
+	시간/nbu
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+kobus.
+	kobus/f+./sy
+
+co.
+	co/f+./sy
+
+kr/web/index.
+	kr/f+//sp+web/f+//sp+index/f+./sy
+
+jsp
+	jsp/f
+
+시외버스
+	시외버스/ncn
+
+예매
+	예매/ncpa
+
+및
+	및/maj
+
+시간
+	시간/nbu
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+bustago.
+	bustago/f+./sy
+
+or.
+	or/f+./sy
+
+kr
+	kr/f
+
+
+2011.
+	2011./nnc
+
+11.
+	11./nnc
+
+12
+	12/nnc
+
+.
+	./sf
+
+
+토요일am
+	토요일am/ncn
+
+0800
+	0800/nnc
+
+야옹이네집
+	야옹이네집/ncn
+
+출발
+	출발/ncpa
+
+0840-0955
+	0840/nnc+-0955/nnc
+
+광주문화동터미널-화엄사터미널(7200냥)
+	광주문화동터미널-화엄사터미널(7200냥)/ncn
+
+지리산
+	지리/ncn+산/ncn
+
+화엄사+구층암(3500냥)
+	화엄사+구층암/ncn+(/sl+3500/nnc+냥/nbu+)/sr
+
+
+1245-0300
+	1245/nnc+-0300/nnc
+
+지리산
+	지리/ncn+산/ncn
+
+연기암
+	연기/ncn+암/ncn
+
+0335
+	0335/nnc
+
+화엄사터미널-구례터미널(1200냥)
+	화엄사터미널-구례터미널(1200냥)/ncn
+
+선미옥다슬기(다슬기비빔밥
+	선미옥다슬기(다슬기비빔밥/ncn
+
+10000냥)
+	10000/nnc+냥/nbu+)/sr
+
+
+0515-0630
+	0515/nnc+-0630/nnc
+
+구례터미널-광주문화동터미널(6600냥)
+	구례터미널-광주문화동터미널(6600냥)/ncn
+
+0710
+	0710/nnc
+
+야옹이네집
+	야옹이네집/ncn
+
+도착
+	도착/ncpa
+
+
+여행경비
+	여행경비/ncn
+
+광주
+	광주/ncn
+
+시내버스
+	시내/ncn+버스/ncn
+
+1200
+	1200/nnc
+
++
+	+/ncn
+
+광주-화엄사
+	광주-화엄사/ncn
+
+7200
+	7200/nnc
+
++
+	+/ncn
+
+화엄사
+	화엄사/ncn
+
+입장료
+	입장료/ncn
+
+3500
+	3500/nnc
+
++
+	+/ncn
+
+음료수
+	음료수/ncn
+
+1300
+	1300/nnc
+
++
+	+/ncn
+
+화엄사-구례
+	화엄사-구례/ncn
+
+1200
+	1200/nnc
+
++
+	+/ncn
+
+택시비
+	택시/ncn+비/ncn
+
+3000
+	3000/nnc
+
++
+	+/ncn
+
+다슬기비빔밥
+	다슬기비빔밥/ncn
+
+10000
+	10000/nnc
+
++
+	+/ncn
+
+구례-광주
+	구례-광주/ncn
+
+6600
+	6600/nnc
+
++
+	+/ncn
+
+광주
+	광주/ncn
+
+시내버스
+	시내/ncn+버스/ncn
+
+1200
+	1200/nnc
+
+=
+	=/sy
+
+35,200냥
+	35,200/nnc+냥/nbu
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+주말에
+	주말/ncn+에/jca
+
+올해
+	올해/ncn
+
+2011년의
+	2011/nnc+년/nbu+의/jcm
+
+마지막
+	마지막/ncn
+
+가을여행이
+	가을여행/ncpa+이/jcc
+
+될지도
+	되/pvg+ㄹ지/ecs+도/jxc
+
+모르는
+	모르/pvg+는/etm
+
+마지막
+	마지막/ncn
+
+단풍을
+	단풍/ncn+을/jco
+
+만나보고자
+	만나/pvg+아/ecx+보/px+고자/ecs
+
+피곤한
+	피곤/ncps+하/xsms+ㄴ/etm
+
+몸을
+	몸/ncn+을/jco
+
+이끌고
+	이끌/pvg+고/ecc
+
+'구례
+	'구례/ncn
+
+화엄사'로
+	화엄사/ncn+'/sr+로/jca
+
+향하였답니다
+	향하/pvg+었/ep+답니다/ef
+
+.
+	./sf
+
+
+본래
+	본래/ncn
+
+11월
+	11/nnc+월/nbu
+
+둘째주에
+	둘째/nno+주/nbu+에/jca
+
+가려고
+	가/px+려고/ecs
+
+계획하였었는데
+	계획하/ncn+이/jp+었었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+버스를
+	버스/ncn+를/jco
+
+놓쳐버려서
+	놓치/pvg+어/ecx+버리/px+어서/ecs
+
+못갔다가
+	못갔다/ncn+가/jcs
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+다녀왔답니다
+	다니/pvg+어/ecx+오/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+전날
+	전날/ncn
+
+금요일에
+	금요일/ncn+에/jca
+
+비가
+	비/ncn+가/jcs
+
+주룩주룩
+	주룩주룩/mag
+
+내렸던지라
+	내리/pvg+었/ep+던/etm+지/nbn+이/jp+라/ecs
+
+일기예보에서는
+	일기예보/ncpa+에서/jca+는/jxc
+
+토요일에
+	토요일/ncn+에/jca
+
+비소식이
+	비소/ncpa+식/ncn+이/jcc
+
+없었음에도
+	없/paa+었/ep+음/etn+에/jca+도/jxc
+
+비가
+	비/ncn+가/jcs
+
+오길
+	오/nnc+길/nbu
+
+바랬었는지도
+	바래/pvg+었었/ep+는지/ecs+도/jxc
+
+모르겠습니다
+	모르/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+아침에
+	아침/ncn+에/jca
+
+일어나서
+	일어나/pvg+아/ecx
+
+창문을
+	창문/ncn+을/jco
+
+열었는데
+	열/pvg+었/ep+는데/ecs
+
+회색빛이
+	회색빛/ncn+이/jcc
+
+감도는
+	가/px+ㅁ/etn+도/jxc+는/jxc
+
+어두컴컴한
+	어두컴컴하/paa+ㄴ/etm
+
+하늘빛
+	하늘빛/ncn
+
+...
+	.../se
+
+
+도저히
+	도저히/mag
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+뜰것처럼
+	뜨/pvg+ㄹ/etm+것/nbn+처럼/jca
+
+보이지
+	보이/pvg+지/ecx
+
+않았는데
+	않/px+아/ep+ㄴ데/ecs
+
+자꾸
+	자꾸/mag
+
+인터넷
+	인터넷/ncn
+
+날씨는~
+	날씨/ncn+는/jxc+~/sd
+
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+뜰꺼라고
+	뜰꺼/ncn+이/jp+라/ef+고/jcr
+
+되어있어서
+	되/pvg+어/ecx+있/px+어서/ecs
+
+고민고민
+	고민/ncpa+고민/ncpa
+
+또
+	또/maj
+
+고민하다가
+	고민/ncpa+하/xsva+다가/ecs
+
+결국
+	결국/mag
+
+무거운
+	무겁/paa+은/etm
+
+몸을
+	몸/ncn+을/jco
+
+이끌고
+	이끌/pvg+고/ecc
+
+카메라를
+	카메라/ncn+를/jco
+
+챙겨들고
+	챙겨들고/ncn
+
+터미널로
+	터미널/ncn+로/jca
+
+향하였지요
+	향하/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+2-3년전부터
+	2/nnc+-3/nnc+년/nbu+전/xsnx+부터/jxc
+
+구례
+	구례/ncn
+
+화엄사를
+	화엄사/ncn+를/jco
+
+가봐야지
+	가/pvg+아/ecx+보/px+아/ecs
+
+하면서도
+	하/pvg+면서/ecs+도/jxc
+
+늘
+	늘/mag
+
+미루고
+	미루/pvg+고/ecc
+
+미루다가
+	미루/pvg+다가/ecs
+
+못갔었는데
+	못갔었는데/ncn
+
+..
+	./sf+./sf
+
+
+올해도
+	올해/ncn+도/jxc
+
+미룰수
+	미루/pvg+ㄹ/etm+수/nbn
+
+없다는
+	없/paa+다/ef+는/etm
+
+생각도
+	생각/ncpa+도/jxc
+
+있었지요
+	있/px+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+더군다나
+	더군다나/mag
+
+내년에는
+	내년/ncn+에/jca+는/jxc
+
+전라도의
+	전라/ncn+도/ncn+의/jcm
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+행사라
+	행사/ncpa+이/jp+라/ecs
+
+할수
+	하/pvg+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+'2012
+	'/sr+2012/nnc
+
+여수엑스포'가
+	여수/ncn+엑스포/ncn+'/sr+가/jcc
+
+개최되잖아요
+	개최/ncpa+되/xsvn+잖아/ef+요/jxf
+
+.
+	./sf
+
+
+여수랑도
+	여수/ncn+랑/jca+도/jxc
+
+가까운
+	가깝/paa+은/etm
+
+곳이라서
+	곳/ncn+이/jp+라서/ecs
+
+구례와
+	구례/ncn+와/jct
+
+함께
+	함께/mag
+
+여행하기에도
+	여행/ncpa+하/xsva+기/etn+에/jca+도/jxc
+
+너무
+	너무/mag
+
+좋을거
+	좋을거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+여수엑스포를
+	여수/ncn+엑스포/ncn+를/jco
+
+핑계삼아
+	핑계삼/pvg+아/ecx
+
+전라도
+	전/nbn+라도/jxc
+
+여행을
+	여행/ncpa+을/jco
+
+해보는거지요
+	해보는거/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+광주에서
+	광주/ncn+에서/jca
+
+마침
+	마침/mag
+
+구례
+	구례/ncn
+
+화엄사로
+	화엄사/ncn+로/jca
+
+바로
+	바로/mag
+
+향하는
+	향하/pvg+는/etm
+
+버스가
+	버스/ncn+가/jcs
+
+하루에
+	하루/ncn+에/jca
+
+5대정도
+	5/nnc+대/xsnu+정/nbu+도/jxc
+
+운행되어서
+	운행/ncpa+되/xsvn+어서/ecs
+
+편안하게
+	편안/ncps+하/xsms+게/ecs
+
+버스만
+	버스/ncn+만/jxc
+
+타고
+	타/pvg+고/ecc
+
+갔답니다
+	가/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+개인적으로
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+광주에
+	광주/ncn+에/jca
+
+살아서가
+	살/pvg+아/ecx+가/px+아/ecx
+
+아니라
+	아니/paa+라/ecs
+
+광주터미널이
+	광주터미널/ncn+이/jcc
+
+깨끗하고
+	깨끗/ncps+하고/jct
+
+넓어서
+	넓/paa+어서/ecs
+
+참으로
+	차/pvg+ㅁ/etn+으로/jca
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+들기도
+	들/pvg+기/etn+도/jxc
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+그만큼
+	그/npp+만큼/jxc
+
+터미널주변이
+	터미널/ncn+주변/ncn+이/jcc
+
+너무
+	너무/mag
+
+복잡해서
+	복잡/ncn+해서/ncn
+
+싫기도
+	싫/paa+기/etn+도/jxc
+
+하지만요
+	하/pvg+지/ecs+만요/jxc
+
+.
+	./sf
+
+
+광주터미널이
+	광주터미널/ncn+이/jcc
+
+또
+	또/maj
+
+좋은건
+	좋은건/ncn
+
+전라도
+	전/nbn+라도/jxc
+
+가까운곳들은
+	가까운곳들/ncn+은/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+사찰들로
+	사찰/ncn+들/ncn+로/jca
+
+바로
+	바로/mag
+
+가는
+	가/pvg+는/etm
+
+버스들이
+	버스/ncn+들이/ncn
+
+
+많지는
+	많/paa+지/ecs+는/jxc
+
+않지만
+	않/px+지만/ecs
+
+운행되고
+	운행/ncpa+되/xsvn+고/ecc
+
+있어서
+	있/px+어서/ecs
+
+편리하다는겁니다
+	편리/ncps+하/xsms+다/ef+는/etm+것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그래서그동안
+	그래서그동안/ncn
+
+여행한것중에
+	여행/ncpa+하/xsva+ㄴ/etm+것/nbn+중/xsnx+에/jca
+
+고창
+	고창/ncn
+
+선운사,
+	선운사,/ncn
+
+순창
+	순창/ncn
+
+강천사,
+	강천사,/ncn
+
+장성
+	장성/ncn
+
+백양사,
+	백양사,/ncn
+
+순천
+	순천/ncn
+
+송광사,
+	송광사,/ncn
+
+정읍
+	정읍/ncn
+
+내장사,
+	내장사,/ncn
+
+그리고
+	그리고/maj
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+구례
+	구례/ncn
+
+화엄사까지
+	화엄사/ncn+까지/jxc
+
+...
+	.../se
+
+
+나름
+	나름/nbn
+
+편하게
+	편하/paa+게/ecs
+
+갈수
+	가/px+ㄹ/etm+수/nbn
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+1시간
+	1/nnc+시간/nbu
+
+40분정도
+	40분정/ncn+도/jxc
+
+달려서
+	달리/pvg+어서/ecs
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+'화엄사터미널'
+	'/sl+화엄사/ncn+터미널/ncn+'/sr
+
+
+가을
+	가/px+ㄹ/etm
+
+단풍여행의
+	단풍/ncn+여행/ncpa+의/jcm
+
+북적임이라고는
+	북/ncn+적/xsncc+이/jp+ㅁ/etn+이/jp+라/ef+고/jcr+는/jxc
+
+전혀
+	전혀/mag
+
+찾아볼수
+	찾/pvg+아/ecx+보/px+ㄹ/etm+수/nbn
+
+없을정도로
+	없을정도/ncn+로/jca
+
+엄청
+	엄청/mag
+
+한가로웠습니다
+	한가/ncps+롭/xsmn+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+전주에
+	전주/ncn+에/jca
+
+순창
+	순창/ncn
+
+강천사에
+	강천사/ncn+에/jca
+
+다녀왔었는데
+	다니/pvg+어/ecx+오/px+아/ep+ㄴ데/ecs
+
+그땐
+	그땐/ncn
+
+기대
+	기대/ncpa
+
+이상으로
+	이상/ncn+으로/jca
+
+사람이
+	사람/ncn+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+놀랬다면
+	놀래/pvg+었/ep+다면/ecs
+
+이번
+	이/nnc+번/nbu
+
+구례
+	구례/ncn
+
+화엄사는
+	화엄사/ncn+는/jxc
+
+평일에~
+	평일/ncn+에/jca+~/sd
+
+여행하는
+	여행/ncpa+하/xsva+는/etm
+
+기분일정도로
+	기분/ncn+일정/ncn+도로/ncn
+
+
+사람이
+	사람/ncn+이/jcc
+
+없었답니다
+	없/paa+었/ep+답니다/ef
+
+.
+	./sf
+
+
+더군다나
+	더군다나/mag
+
+단풍이
+	단풍/ncn+이/jcc
+
+꽤
+	꽤/mag
+
+많이
+	많/paa+이/xsa
+
+떨어져서
+	떨어지/pvg+어서/ecs
+
+가녀린
+	가녀리/paa+ㄴ/etm
+
+나뭇가지만
+	나뭇가지/ncn+만/jxc
+
+남아있는
+	남/pvg+아/ecx+있/px+는/etm
+
+나무들이
+	나무/ncn+들/ncn+이/jcc
+
+아주
+	아주/mag
+
+많았어요
+	많/paa+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+파란
+	파랗/paa+은/etm
+
+하늘이
+	하늘/ncn+이/jcc
+
+방긋
+	방긋/mag
+
+인사를
+	인사/ncn+를/jco
+
+건네주고~
+	건네/pvg+어/ecx+주/px+고/ecc+~/sd
+
+화엄사
+	화엄사/ncn
+
+터미널에서
+	터미널/ncn+에서/jca
+
+화엄사로
+	화엄사/ncn+로/jca
+
+향하는
+	향하/pvg+는/etm
+
+길목에
+	길목/ncn+에/jca
+
+온통
+	온통/mag
+
+나뭇잎이라
+	나뭇잎/ncn+이/jp+라/ecs
+
+밟을적마다
+	밟/pvg+을/etm+적/nbn+마다/jxc
+
+보스락
+	보스락/ncn
+
+거리는
+	것/nbn+이/jp+리/ef+는/etm
+
+그
+	그/mmd
+
+소리가
+	소리/ncn+가/jcc
+
+
+너무나도
+	너무나/mag+도/jxc
+
+좋았어요
+	좋/paa+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+종종
+	종종/mag
+
+차들이
+	차/ncn+들/xsncc+이/jcc
+
+지나가지만
+	지나/pvg+아/ecx+가/px+지만/ecs
+
+혼자
+	혼자/mag
+
+이
+	이/mmd
+
+길을
+	길/paa+ㄹ/etm
+
+걷는것만
+	걷/pvg+는/etm+것/nbn+만/jxc
+
+같아서
+	같/paa+아/ecx
+
+'야옹이만의
+	'/sr+야옹/ncn+이/ncn+만의/jcm
+
+세상'이
+	세상/ncn+'/sr+이/jcc
+
+다가온것만
+	다가오/pvg+ㄴ/etm+것/nbn+만/jxc
+
+같던걸요
+	같던걸요/ncn
+
+.
+	./sf
+
+
+서울,
+	서울,/ncn
+
+부산
+	부산/ncps
+
+사상,
+	사상/ncpa+,/sp
+
+광주에서
+	광주/ncn+에서/jca
+
+화엄사
+	화엄사/ncn
+
+터미널로
+	터미널/ncn+로/jca
+
+바로
+	바로/mag
+
+올수
+	오/px+ㄹ/etm+수/nbn
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+구례에서
+	구례/ncn+에서/jca
+
+오던지
+	오/px+더/ep+ㄴ지/ecs
+
+터미널은
+	터미널/ncn+은/jxc
+
+한곳인데
+	한곳/ncn+이/jp+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+제가
+	저/npp+가/jcs
+
+늘
+	늘/mag
+
+포스팅이
+	포스팅/ncn+이/jcc
+
+꼼꼼하다는
+	꼼꼼하/paa+다/ef+는/etm
+
+이야기를
+	이야기/ncpa+를/jco
+
+듣곤하는데
+	듣곤하는데/ncn
+
+포스팅을하다보면서
+	포스팅을하다보/ncn+이/jp+면서/ecc
+
+그때
+	그때/npd
+
+겪은
+	겪/pvg+은/etm
+
+팁을
+	팁/ncn+을/jco
+
+하나씩
+	하나씩/ncn
+
+빼먹고
+	빼먹고/ncn
+
+소개하는
+	소개/ncpa+하/xsva+는/etm
+
+경우도
+	경우/ncn+도/jxc
+
+있거든요
+	있/px+거든/ef+요/jxf
+
+.
+	./sf
+
+
+구례
+	구례/ncn
+
+화엄사
+	화엄사/ncn
+
+소개를
+	소개/ncpa+를/jco
+
+하면서
+	하/pvg+면서/ecc
+
+알려드리겠습니다
+	알리/pvg+어/ecx+드리/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+전국적으로
+	전국/ncn+적/ncn+으로/jca
+
+많이
+	많/paa+이/xsa
+
+다녀본건
+	다녀본건/ncn
+
+아니라서
+	아니/paa+라서/ecs
+
+어디어디가
+	어디어디/ncn+가/jcs
+
+그렇다는건
+	그렇다는건/ncn
+
+잘
+	잘/mag
+
+모르겠지만
+	모르/pvg+겠/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+보통
+	보통/mag
+
+사찰로
+	사찰/ncn+로/jca
+
+바로
+	바로/mag
+
+가는
+	가/pvg+는/etm
+
+직행버스들이
+	직행/ncn+버스/ncn+들/ncn+이/jcc
+
+존재하지요
+	존재/ncpa+하/xsva+지/ef+요/jxf
+
+.
+	./sf
+
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+제가
+	저/npp+가/jcs
+
+광주에서
+	광주/ncn+에서/jca
+
+타고간
+	타/pvg+고/ecx+가/px+ㄴ/etm
+
+화엄사
+	화엄사/ncn
+
+버스처럼
+	버스/ncn+처럼/jca
+
+말이지요
+	말/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+시내버스야
+	시내/ncn+버스/ncn+이/jp+야/ef
+
+버스를
+	버스/ncn+를/jco
+
+타면서
+	타/pvg+면서/ecc
+
+요금을
+	요금/ncn+을/jco
+
+내면
+	내/npp+이/jp+면/ecs
+
+되는거지만
+	되는거/ncn+이/jp+지만/ecs
+
+..
+	./sf+./sf
+
+
+직행은
+	직행/ncn+은/jxc
+
+표를
+	표/ncn+를/jco
+
+끊는곳이
+	끊는곳/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+종종
+	종종/mag
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+경우에는
+	경우/ncn+에/jca+는/jxc
+
+직행타고
+	직행/ncn+타/ncn+이/jp+고/ecc
+
+내리면서
+	내리/pvg+면서/ecc
+
+돈으로
+	돈/ncn+으로/jca
+
+내는
+	내/npp+는/jxc
+
+경우가
+	경우/ncn+가/jcs
+
+종종
+	종종/mag
+
+있으니
+	있/px+으니/ecs
+
+여행시에는
+	여행/ncpa+시/ncn+에/jca+는/jxc
+
+필히
+	필히/mag
+
+카드말고
+	카드/ncn+말고/jxc
+
+돈도
+	돈/ncn+도/jxc
+
+들고
+	들/pvg+고/ecc
+
+다녀야
+	다니/pvg+어야/ecs
+
+하다는거지요
+	하다는거/ncn+이/jp+지/ef+요/jxf
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+제가
+	저/npp+가/jcs
+
+여행해본
+	여행/ncpa+하/xsva+어/ecx+보/px+ㄴ/etm
+
+전라도
+	전/nbn+라도/jxc
+
+여행지에서
+	여행지/ncn+에서/jca
+
+본다면
+	보/px+ㄴ다면/ecs
+
+고창
+	고창/ncn
+
+선운사에서
+	선운사/ncn+에서/jca
+
+광주로
+	광주/ncn+로/jca
+
+바로
+	바로/mag
+
+가는
+	가/pvg+는/etm
+
+버스는
+	버스/ncn+는/jxc
+
+표
+	표/nbu
+
+끊는곳이
+	끊는곳/ncn+이/jcc
+
+없어서
+	없/paa+어서/ecs
+
+돈으로
+	돈/ncn+으로/jca
+
+지불하게
+	지불/ncpa+하/xsva+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+이곳
+	이곳/npd
+
+구례
+	구례/ncn
+
+화엄사에서는
+	화엄사/ncn+에서/jca+는/jxc
+
+우선
+	우선/mag
+
+타고나서
+	타/pvg+고/ecx+나/px+아/ecx
+
+구례터미널에서
+	구례터미널/ncn+에서/jca
+
+하차했을시에
+	하차했을시/ncn+에/jca
+
+그곳에서
+	그곳/ncn+에서/jca
+
+내려서
+	내리/pvg+어서/ecs
+
+'화엄사에서
+	'/sr+화엄사/ncn+에서/jca
+
+탑승했다고
+	탑승/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+광주가는
+	광주가/ncn+는/jxc
+
+표
+	표/nbu
+
+주세요'라고
+	주/px+세/ef+요/jxf+'/sr+라고/jxc
+
+하며
+	하/pvg+며/ecc
+
+
+구례터미널에서
+	구례터미널/ncn+에서/jca
+
+표를
+	표/ncn+를/jco
+
+끊으면
+	끊/pvg+으면/ecs
+
+된답니다
+	되/pvg+ㄴ답니다/ef
+
+^^
+	^/sy+^/sy
+
+왠지
+	왠지/mag
+
+특이하긴
+	특이하긴/ncn
+
+하여요
+	하/px+어/ef+요/jxf
+
+;;;
+	;/sy+;/sy+;/sy
+
+
+참고로
+	참고/ncpa+로/jca
+
+구례
+	구례/ncn
+
+쌍계사를
+	쌍계사/ncn+를/jco
+
+봄마다
+	보/px+ㅁ/etn+마다/jxc
+
+벚꽃을
+	벚꽃/ncn+을/jco
+
+보러
+	보/px+러/ecs
+
+다니며
+	다니/pvg+며/ecc
+
+알았던
+	알/pvg+아/ep+ㄴ/etm
+
+팁이라면
+	팁/ncn+이/jp+라면/ecs
+
+..
+	./sf+./sf
+
+
+우리나라에도
+	우리나라/ncn+에/jca+도/jxc
+
+일본처럼
+	일/nnc+본/nbu+처럼/jca
+
+뒤로
+	뒤/ncn+로/jca
+
+탑승하고
+	탑승/ncpa+하고/jct
+
+앞으로
+	앞/ncn+으로/jca
+
+내리면서
+	내리/pvg+면서/ecc
+
+요금을
+	요금/ncn+을/jco
+
+내리는
+	내리/pvg+는/etm
+
+곳들이
+	곳/ncn+들/xsncc+이/jcc
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+다녀본
+	다니/pvg+어/ecx+보/px+ㄴ/etm
+
+곳중에서는
+	곳/ncn+중/xsnx+에서/jca+는/jxc
+
+'구례'와
+	'구례'/ncn+와/jcj
+
+'정읍'이
+	'정읍'/ncn+이/jcc
+
+있었답니다
+	있/px+었/ep+답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+그러니
+	그러/pvd+니/ecs
+
+혹시나
+	혹시/mag+나/jxc
+
+버스아저씨가
+	버스/ncn+아저씨/ncn+가/jcs
+
+안계실때는
+	안계/ncn+이/jp+시/ep+ㄹ/etm+때/nbn+는/jxc
+
+요금을
+	요금/ncn+을/jco
+
+안내는게
+	안내는게/ncn
+
+좋을거
+	좋을거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+지리산
+	지리/ncn+산/ncn
+
+구례
+	구례/ncn
+
+화엄사
+	화엄사/ncn
+
+
+화엄사
+	화엄사/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+hwaeomsa.
+	hwaeomsa/f+./sy
+
+org/
+	org/f+//sp
+
+연기암
+	연기/ncn+암/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+yeongiam.
+	yeongiam/f+./sy
+
+org/전남
+	org/전남/ncn
+
+구례군
+	구례군/ncn
+
+마산면
+	마산면/ncn
+
+황전리
+	황전리/ncn
+
+12
+	12/nnc
+
+지리산화엄사
+	지리산화엄사/ncn
+
+tel.
+	tel/f+./sy
+
+061-783-7600
+	061/nnc+-783/nnc+-7600/nnc
+
+입장료
+	입장료/ncn
+
+:
+	:/sp
+
+3,500냥
+	3,500/nnc+냥/nbu
+
+
+화엄사-연기암
+	화엄사/ncn+-/sd+연기/ncn+암/ncn
+
+:
+	:/sp
+
+4-5시간정도
+	4/nnc+-5/nnc+시/nbu+간/xsnu+정/nbu+도/jxc
+
+소요됩니다
+	소요/ncpa+되/xsvn+ㅂ니다/ef
+
+.
+	./sf
+
+
+다소
+	다소/mag
+
+비쌀지도
+	비싸/paa+ㄹ지/ecs+도/jxc
+
+모르는
+	모르/pvg+는/etm
+
+3500냥
+	3500/nnc+냥/nbu
+
+표를
+	표/ncn+를/jco
+
+끊고
+	끊/pvg+고/ecc
+
+화엄사로
+	화엄사/ncn+로/jca
+
+향하였답니다
+	향하/pvg+었/ep+답니다/ef
+
+.
+	./sf
+
+
+지리산
+	지리/ncn+산/ncn
+
+등산이
+	등산/ncpa+이/jcc
+
+워낙에
+	워낙/ncn+에/jca
+
+힘들다고
+	힘들/pvg+다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+절대
+	절대/mag
+
+등반하지
+	등반하지/ncn
+
+않아야지라는
+	않/px+아/ecx+지/px+라/ef+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+사실
+	사실/mag
+
+조금
+	조금/mag
+
+갖고
+	갖/pvg+고/ecc
+
+살고
+	살/pvg+고/ecc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+구례
+	구례/ncn
+
+화엄사
+	화엄사/ncn
+
+여행을
+	여행/ncpa+을/jco
+
+해보니
+	하/pvg+어/ecx+보/px+니/ecs
+
+이곳
+	이곳/npd
+
+화엄사로
+	화엄사/ncn+로/jca
+
+들어가서
+	들/pvg+어/ecx+가/px+아/ecx
+
+지리산
+	지리/ncn+산/ncn
+
+노고단을
+	노고/ncn+단/ncn+을/jco
+
+올라갈수
+	오르/pvg+아/ecx+가/px+ㄹ/etm+수/nbn
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+다소
+	다소/mag
+
+힘겨운
+	힘겹/paa+은/etm
+
+산행이
+	산행/ncn+이/jcc
+
+되고
+	되/pvg+고/ecc
+
+오르는
+	오르/pvg+는/etm
+
+길만해도
+	길/paa+ㄹ/etm+만/nbs+하/xsms+어도/ecs
+
+몇시간이
+	몇/nnc+시간/nbu+이/jcc
+
+소요되는거
+	소요되는거/ncn
+
+같지만
+	같/paa+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+노고단을
+	노고/ncn+단/ncn+을/jco
+
+간다는
+	가/px+ㄴ다/ef+는/etm
+
+가정하에
+	가정하/ncn+에/jca
+
+본다면
+	보/px+ㄴ다면/ecs
+
+3500냥이
+	3500/nnc+냥/nbu+이/jcc
+
+저렴할지도
+	저렴/ncps+하/xsms+ㄹ지/ecs+도/jxc
+
+모르겠어요
+	모르/pvg+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+더군다나
+	더군다나/mag
+
+살짝쿵
+	살짝쿵/ncn
+
+올라가니
+	오르/pvg+아/ecx+가/px+니/ecs
+
+리조트도
+	리조트/ncn+도/jxc
+
+하나
+	하나/nnc
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있고,
+	있/px+고/ecc+,/sp
+
+캠핑장도
+	캠핑/ncn+장/ncn+도/jxc
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+올
+	오/px+ㄹ/etm
+
+한해의
+	한/nnc+해/nbu+의/jcm
+
+마지막
+	마지막/ncn
+
+가을
+	가/px+ㄹ/etm
+
+단풍여행이
+	단풍/ncn+여행/ncpa+이/jcc
+
+도지
+	도/ncn+이/jp+지/ecs
+
+않을까
+	않/px+을까/ef
+
+라는
+	라/ncn+는/jxc
+
+생각으로
+	생각/ncpa+으로/jca
+
+구례로
+	구례/ncn+로/jca
+
+찾았는데
+	찾/pvg+아/ep+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+나뭇가지에는
+	나뭇가지/ncn+에/jca+는/jxc
+
+가득하고
+	가득/ncps+하고/jct
+
+붉은
+	붉/paa+은/etm
+
+단풍잎을
+	단풍잎/ncn+을/jco
+
+만나보기
+	만나/pvg+아/ecx+보/px+기/etn
+
+힘들었지만
+	힘들/pvg+었/ep+지만/ecs
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+바닥에
+	바닥/ncn+에/jca
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+단풍잎들이
+	단풍잎/ncn+들/ncn+이/jcc
+
+우수수
+	우수수/mag
+
+떨어져
+	떨어지/pvg+어/ecx
+
+있어서
+	있/paa+어서/ecs
+
+
+한껏
+	한껏/mag
+
+떠나가는
+	떠나/pvg+아/ecx+가/px+는/etm
+
+가을을
+	가을/ncn+을/jco
+
+만끽하는
+	만끽/ncpa+하/xsva+는/etm
+
+느낌이었어요
+	느낌/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+화엄사로
+	화엄사/ncn+로/jca
+
+오르는
+	오르/pvg+는/etm
+
+길목에
+	길목/ncn+에/jca
+
+오른편에는
+	오르/pvg+ㄴ/etm+편/nbn+에/jca+는/jxc
+
+그
+	그/mmd
+
+유명한
+	유명/ncn+한/ncn
+
+지리산
+	지리/ncn+산/ncn
+
+계곡들이
+	계곡/ncn+들/ncn+이/jcc
+
+힘차게
+	힘차/paa+게/ecs
+
+흘러내리고
+	흐르/pvg+어/ecx+내리/px+고/ecc
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+왠지
+	왠지/mag
+
+쌀쌀한
+	쌀쌀하/paa+ㄴ/etm
+
+날에
+	날/ncn+에/jca
+
+보기만
+	보/px+기/etn+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+추워질거
+	추워질거/ncn
+
+같기도
+	같/paa+기/etn+도/jxc
+
+하였지만
+	하/px+었/ep+지/ecx+말/px+ㄴ/etm
+
+걷다보니
+	걷다보/ncn+이/jp+니/ecs
+
+역시나
+	역시/mag+나/jxc
+
+약간
+	약간/mag
+
+더워지는거
+	더워지는거/ncn
+
+같기도
+	같/paa+기/etn+도/jxc
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+더군다나
+	더군다나/mag
+
+가을
+	가/px+ㄹ/etm
+
+햇살이
+	햇살/ncn+이/jcc
+
+너무나도
+	너무나/mag+도/jxc
+
+따사롭고
+	따사/ncps+롭/xsmn+고/ecc
+
+사람도
+	사람/ncn+도/jxc
+
+없는듯한
+	없/paa+는/etm+듯/nbs+하/xsms+ㄴ/etm
+
+이
+	이/mmd
+
+한가로움이
+	한가/ncps+롭/xsmn+음/etn+이/jcs
+
+너무나도
+	너무나/mag+도/jxc
+
+좋았어요
+	좋/paa+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+왠지
+	왠지/mag
+
+이런
+	이런/mmd
+
+한가로움이~
+	한가/ncps+롭/xsmn+음/etn+이/jcc+~/sd
+
+
+지친
+	지치/pvg+ㄴ/etm
+
+몸을
+	몸/ncn+을/jco
+
+이끌고
+	이끌/pvg+고/ecc
+
+갔어도
+	가/px+아/ep+아/ecs
+
+여행온
+	여행온/ncn
+
+기분을
+	기분/ncn+을/jco
+
+한껏
+	한껏/mag
+
+살리게
+	사/pvg+ㄹ/etm+리/nbn+이/jp+게/ecs
+
+해주나봅니다
+	해주나봅니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+화엄사
+	화엄사/ncn
+
+터미널에서
+	터미널/ncn+에서/jca
+
+20여분정도
+	20여분정/ncn+도/jxc
+
+걸어오면
+	걷/pvg+어/ecx+오/px+면/ecs
+
+화엄사를
+	화엄사/ncn+를/jco
+
+만나볼수
+	만나/pvg+아/ecx+보/px+ㄹ/etm+수/nbn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+입구에서부터
+	입구/ncn+에서/jca+부터/jxc
+
+큰
+	크/paa+ㄴ/etm
+
+공사를
+	공사/ncn+를/jco
+
+하나
+	하나/nnc
+
+진행하고
+	진행/ncpa+하고/jct
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+주변에
+	주변/ncn+에/jca
+
+지나가는
+	지나/pvg+아/ecx+가/px+는/etm
+
+행인들의
+	행인/ncn+들/ncn+의/jcm
+
+말을
+	말/ncn+을/jco
+
+들어보니~
+	들어보/pvg+니/ef+~/sd
+
+
+화엄사에
+	화엄사/ncn+에/jca
+
+올적마다
+	오/px+ㄹ/etm+적/nbn+마다/jxc
+
+전각이
+	전각/ncn+이/jcc
+
+하나씩
+	하나씩/ncn
+
+늘어나있다는
+	늘/pvg+어/ecx+나/px+아/ecx+있/px+다/ef+는/etm
+
+말씀을
+	말씀/ncpa+을/jco
+
+얼핏
+	얼핏/mag
+
+하시더라구요
+	하/px+시/ep+더라구/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+뭔가가
+	뭔가/ncn+가/jcs
+
+자꾸
+	자꾸/mag
+
+새로운게
+	새롭/paa+은게/ecs
+
+생기나
+	생기/pvg+나/ecs
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+왼편에도
+	왼편/ncn+에/jca+도/jxc
+
+공사중인데
+	공사/ncn+중/ncn+이/jp+ㄴ데/ecs
+
+지분쪽에서
+	지분/ncn+쪽/ncn+에서/jca
+
+문양을
+	문양/ncn+을/jco
+
+그리시고
+	그리/pvg+시/ep+고/ecc
+
+있는분도
+	있/px+는/etm+분/nbn+도/jxc
+
+계시더라구요
+	계시/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+완성된
+	완성/ncpa+되/xsvn+ㄴ/etm
+
+모습이
+	모습/ncn+이/jcc
+
+어떨지
+	어떨지/ncn
+
+살짝
+	살짝/mag
+
+궁금해지기도
+	궁금해지/pvg+기/etn+도/jxc
+
+하여요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+화엄사로
+	화엄사/ncn+로/jca
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+입구가
+	입구/ncn+가/jcs
+
+2개가
+	2/nnc+개/nbu+가/jcc
+
+있었는데요
+	있/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+한마디로
+	한/nnc+마디/nbu+로/jca
+
+위에
+	위/ncn+에/jca
+
+보여진
+	보이/pvg+어/ecx+지/px+ㄴ/etm
+
+사진은
+	사진/ncn+은/jxc
+
+사람이
+	사람/ncn+이/jcc
+
+걸어들어가는곳이며,
+	걸어들어가는곳이며,/ncn
+
+바로
+	바로/mag
+
+이
+	이/mmd
+
+사진은
+	사진/ncn+은/jxc
+
+차가
+	차/ncn+가/jcs
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+곳이랍니다
+	곳/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+관계자만
+	관계자/ncn+만/jxc
+
+^^
+	^/sy+^/sy
+
+
+철문이
+	철문/ncn+이/jcc
+
+특이해서
+	특이/ncn+해/ncn+서/jca
+
+담아보았어요
+	담/pvg+아/ecx+보/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+옥색빛이
+	옥색/ncn+빛/ncn+이/jcc
+
+나는
+	나/npp+는/jxc
+
+용이
+	용/ncn+이/jcc
+
+승천하듯이
+	승천/ncpa+하/xsva+듯이/ecs
+
+만들어진
+	만들/pvg+어/ecx+지/px+ㄴ/etm
+
+대문이
+	대문/ncn+이/jcc
+
+왠지
+	왠지/mag
+
+신비스러워요
+	신비/ncps+스럽/xsmn+어/ef+요/jxf
+
+.
+	./sf
+
+
+천년의
+	천/nnc+년/nbu+의/jcm
+
+화엄성지인
+	화엄성지/ncn+이/jp+ㄴ/etm
+
+화엄사에
+	화엄사/ncn+에/jca
+
+들어섰답니다
+	들어서/pvg+었/ep+답니다/ef
+
+.
+	./sf
+
+
+나름
+	나름/nbn
+
+여러곳의
+	여러/nnc+곳/nbu+의/jcm
+
+사찰을
+	사찰/ncn+을/jco
+
+다녀봤지만
+	다니/pvg+어/ecx+보/px+아/ep+지만/ecs
+
+들어서는
+	들/pvg+어서/ecs+는/jxc
+
+순간
+	순간/ncn
+
+계단
+	계단/ncn
+
+형식으로
+	형식/ncn+으로/jca
+
+입구를
+	입구/ncn+를/jco
+
+들어서면
+	들어서/pvg+면/ecs
+
+또
+	또/maj
+
+다른
+	다르/paa+ㄴ/etm
+
+입구가
+	입구/ncn+가/jcs
+
+반기고
+	반기/ncn+고/jcj
+
+
+또
+	또/maj
+
+들어서면
+	들어서/pvg+면/ecs
+
+계단위에
+	계단/ncn+위/ncn+에/jca
+
+또
+	또/maj
+
+다른
+	다르/paa+ㄴ/etm
+
+전각이
+	전각/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+보며
+	보/px+며/ecc
+
+..
+	./sf+./sf
+
+
+사찰보다는
+	사찰/ncn+보다/jca+는/jxc
+
+드라마
+	드라마/ncn
+
+세트장에
+	세트/ncn+장/ncn+에/jca
+
+온것만
+	오/px+ㄴ/etm+것/nbn+만/jxc
+
+같았어요
+	같/paa+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+작년에
+	작년/ncn+에/jca
+
+'나주
+	'나주/ncn
+
+영상테마파크'를
+	영상/ncn+테마/ncn+파크/ncn+'/sr+를/jco
+
+갔었는데요
+	가/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+그곳에서
+	그곳/ncn+에서/jca
+
+드라마
+	드라마/ncn
+
+'주몽'을
+	'주몽'/ncn+을/jco
+
+찍어서
+	찍/pvg+어서/ecs
+
+더
+	더/mag
+
+많이
+	많/paa+이/xsa
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+곳인데
+	곳/ncn+이/jp+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+그곳이
+	그곳/ncn+이/jcc
+
+약간
+	약간/mag
+
+오르막길이면서
+	오르막길/ncn+이/jp+면서/ecc
+
+큰
+	크/paa+ㄴ/etm
+
+문을
+	문/ncn+을/jco
+
+하나
+	하/pvg+나/ecs
+
+지나면
+	지나/pvg+면/ecs
+
+새로운곳이
+	새로운곳/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+또
+	또/maj
+
+큰
+	크/paa+ㄴ/etm
+
+문을
+	문/ncn+을/jco
+
+지나면
+	지나/pvg+면/ecs
+
+또
+	또/maj
+
+새로운곳이
+	새로운곳/ncn+이/jcc
+
+보이고
+	보이/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+계단위에
+	계단/ncn+위/ncn+에/jca
+
+궁궐이
+	궁궐/ncn+이/jcc
+
+있곤
+	있/px+곤/ecs
+
+하였거든요
+	하/px+었/ep+거든/ef+요/jxf
+
+.
+	./sf
+
+
+왠지
+	왠지/mag
+
+화엄사에
+	화엄사/ncn+에/jca
+
+들어서는데
+	들/pvg+어서/ef+는/etm+데/nbn
+
+그곳
+	그곳/ncn
+
+생각이
+	생각/ncpa+이/jcc
+
+절로
+	절/ncn+로/jca
+
+날정도로
+	날정도/ncn+로/jca
+
+왠지
+	왠지/mag
+
+비슷한
+	비슷/ncps+하/xsms+ㄴ/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+살짝
+	살짝/mag
+
+들었답니다
+	들/pvg+었/ep+답니다/ef
+
+.
+	./sf
+
+
+내년에
+	내년/ncn+에/jca
+
+2012
+	2012/nnc
+
+여수
+	여수/ncn
+
+엑스포가
+	엑스포/ncn+가/jcs
+
+개최되어서
+	개최/ncpa+되/xsvn+어서/ecs
+
+가까준
+	가까준/ncn
+
+전라도와
+	전라/ncn+도/ncn+와/jcj
+
+경남지역쪽에
+	경남지역/ncn+쪽/ncn+에/jca
+
+엑스포
+	엑스포/ncn
+
+지정업소,
+	지정/ncpa+업소/ncn+,/sp
+
+지정숙박업소
+	지정/ncpa+숙박업소/ncn
+
+등등
+	등등/nbn
+
+많은
+	많/paa+은/etm
+
+곳들이
+	곳/ncn+들/xsncc+이/jcc
+
+소개되고
+	소개/ncpa+되/xsvn+고/ecc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+사찰마다
+	사찰/ncn+마다/jxc
+
+템플스테이가
+	템플스테이/ncn+가/jcs
+
+있는데~
+	있/px+는데/ecs+~/sd
+
+화엄사
+	화엄사/ncn
+
+템플스테이가
+	템플스테이/ncn+가/jcs
+
+엑스포
+	엑스포/ncn
+
+지정업소네요
+	지정/ncpa+업소/ncn+이/jp+네/ef+요/jxf
+
+.
+	./sf
+
+
+왠지
+	왠지/mag
+
+사찰내에
+	사찰/ncn+내/ncn+에/jca
+
+있어서
+	있/px+어서/ecs
+
+신기하게
+	신기/ncps+하/xsms+게/ecs
+
+다가왔어요
+	다가오/pvg+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+몰랐던
+	모르/pvg+아/ep+ㄴ/etm
+
+정보였는데
+	정보/ncn+이/jp+었/ep+는데/ecs
+
+보게
+	보/px+게/ecs
+
+되어서
+	되/pvg+어서/ecs
+
+더
+	더/mag
+
+그런지도
+	그러/pvd+ㄴ지/ecs+도/jxc
+
+모르겠습니다
+	모르/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+살짝쿵
+	살짝쿵/ncn
+
+안으로
+	안/ncn+으로/jca
+
+들어서니
+	들어서/pvg+니/ecs
+
+정말
+	정말/mag
+
+크게
+	크/paa+게/ecs
+
+자리잡았더라구요
+	자리잡/pvg+었/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+다른
+	다른/mma
+
+사찰에서도
+	사찰/ncn+에서/jca+도/jxc
+
+템플스테이가
+	템플스테이/ncn+가/jcs
+
+있다는
+	있/px+다/ef+는/etm
+
+곳을
+	곳/ncn+을/jco
+
+얼핏
+	얼핏/mag
+
+보면
+	보/px+면/ecs
+
+아기자기한맛이
+	아기자기한맛/ncn+이/jcc
+
+있었는데
+	있/px+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+이곳
+	이곳/npd
+
+화엄사의
+	화엄사/ncn+의/jcm
+
+템플스테이는
+	템플스테이/ncn+는/jxc
+
+꽤
+	꽤/mag
+
+넓어
+	넓/paa+어/ecx
+
+보였어요
+	보이/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+어느
+	어느/mmd
+
+사찰마다
+	사찰/ncn+마다/jxc
+
+템플스테이를
+	템플스테이/ncn+를/jco
+
+체험해보는
+	체험/ncpa+하/xsva+어/ecx+보/px+는/etm
+
+가격이
+	가격/ncn+이/jcc
+
+천차만별이라고
+	천차만별/ncn+이/jp+라/ef+고/jcr
+
+들었는데
+	들/pvg+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+기회가
+	기회/ncn+가/jcs
+
+되면
+	되/pvg+면/ecs
+
+언제
+	언제/mag
+
+한번
+	한/nnc+번/nbu
+
+해보고
+	하/pvg+어/ecx+보/px+고/ecc
+
+싶어지기도
+	싶/px+어/ecx+지/px+기/etn+도/jxc
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+눈이
+	눈/ncn+이/jcc
+
+소복히
+	소복/ncpa+히/xsas
+
+쌓인
+	쌓이/pvg+ㄴ/etm
+
+겨울도
+	겨울/ncn+도/jxc
+
+왠지
+	왠지/mag
+
+매력적일거
+	매력적일거/ncn
+
+같기도
+	같/paa+기/etn+도/jxc
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+그땐
+	그땐/ncn
+
+혼자서
+	혼자/ncn+서/jca
+
+할수
+	하/pvg+ㄹ/etm+수/nbn
+
+없지요
+	없/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+구례
+	구례/ncn
+
+화엄사는
+	화엄사/ncn+는/jxc
+
+백제
+	백제/ncn
+
+성왕
+	성왕/ncn
+
+22년(544)에
+	22년(544)/ncn+에/jca
+
+인도
+	인도/ncpa
+
+스님이신
+	스님/ncn+이/jp+시/ep+ㄴ/etm
+
+연기조사께서
+	연기/ncn+조사/ncn+께서/jcs
+
+대웅상적광전과
+	대웅상적광전/ncn+과/jcj
+
+해회당을
+	해회당/ncn+을/jco
+
+짓고
+	짓/pvg+고/ecc
+
+화엄사를
+	화엄사/ncn+를/jco
+
+창건
+	창건/ncpa
+
+후,
+	후/ii+,/sp
+
+
+백제법왕(599)때
+	백제법왕(599)때/ncn
+
+3천여
+	3/nnc+천여/nnc
+
+명의
+	명/nbu+의/jcm
+
+스님들이
+	스님/ncn+들/ncn+이/jcc
+
+계시면서
+	계시/paa+면서/ecc
+
+화엄사상을
+	화엄사/ncn+상/ncn+을/jco
+
+백제
+	백제/ncn
+
+땅에
+	땅/ncn+에/jca
+
+꽃피웠다고
+	꽃피우/pvg+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고신라
+	그리고신라/ncn
+
+선덕여왕
+	선덕/ncn+여왕/ncr
+
+14년(645)에
+	14년(645)/ncn+에/jca
+
+자장율사가
+	자장율사/ncn+가/jcs
+
+부처님
+	부처님/ncn
+
+진신사리
+	진신사리/ncn
+
+73과를
+	73과/ncn+를/jco
+
+모시고
+	모시/pvg+고/ecc
+
+4사자
+	4/nnc+사/nnc+이/jp+자/ecc
+
+3층
+	3/nnc+층/nbu
+
+사리석탑과
+	사리/ncn+석탑/ncn+과/jcj
+
+공양탑을
+	공양/ncpa+탑/ncn+을/jco
+
+세우셨고
+	세우/ncn+이/jp+셨/ep+고/ecc
+
+
+원효성사는
+	원효성사/ncn+는/jxc
+
+해회당에서
+	해회당/ncn+에서/jca
+
+화랑도들에게
+	화랑도/ncn+들/ncn+에게/jca
+
+화엄사상을
+	화엄사/ncn+상/ncn+을/jco
+
+가르쳐
+	가르치/pvg+어/ecx
+
+삼국통일을
+	삼국통일/ncpa+을/jco
+
+이루었다고
+	이루/pvg+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+문무왕
+	문무/ncn+왕/ncr
+
+17년(677)에
+	17년(677)/ncn+에/jca
+
+의상조사는
+	의상조사/ncn+는/jxc
+
+2층
+	2/nnc+층/nbu
+
+4면
+	4/nnc+면/nbu
+
+7칸의
+	7/nnc+칸/nbu+의/jcm
+
+사상벽에
+	사상/ncn+벽/ncn+에/jca
+
+화엄경을
+	화엄경/ncn+을/jco
+
+돌에
+	돌/ncn+에/jca
+
+새기고
+	새기/pvg+고/ecc
+
+황금장육불상을
+	황금장육불상/ncn+을/jco
+
+모신
+	모/nbu+이/jp+시/ep+ㄴ/etm
+
+
+장육전
+	장육전/ncn
+
+법당(지금의
+	법당(지금/ncn+의/jcm
+
+각황전)과
+	각황전)/ncn+과/jcj
+
+석등을
+	석등/ncn+을/jco
+
+조성하였으며
+	조성/ncpa+하/xsva+었/ep+으며/ecc
+
+경덕왕(742~764)때
+	경덕왕(742~764)때/ncn
+
+이르러
+	이르/pvg+어/ecx
+
+8원
+	8/nnc+원/nbu
+
+81암자로
+	81암자/ncn+로/jca
+
+화엄불국
+	화엄불국/ncn
+
+연화장세계의
+	연화장세계/ncn+의/jcm
+
+면모를
+	면모/ncn+를/jco
+
+갖추고,
+	갖추/pvg+고/ecc+,/sp
+
+
+신라말기
+	신라말기/ncn
+
+헌강왕(875)때
+	헌강왕(875)때/ncn
+
+도선국사는
+	도선국사/ncn+는/jxc
+
+동오층석탑과
+	동오층석탑/ncn+과/jcj
+
+서오층석탑
+	서오층석탑/ncn
+
+조성과
+	조성/ncpa+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+화엄사
+	화엄사/ncn
+
+중흥조가
+	중흥조/ncn+가/jcs
+
+되시면서
+	되/pvg+시/ep+면서/ecc
+
+화엄사가
+	화엄사/ncn+가/jcs
+
+대총림으로
+	대총림/ncn+으로/jca
+
+승격되었답니다
+	승격/ncpa+되/xsvn+었/ep+답니다/ef
+
+.
+	./sf
+
+
+이곳
+	이곳/npd
+
+화엄사는
+	화엄사/ncn+는/jxc
+
+고려
+	고려/ncpa
+
+태조
+	태조/ncn
+
+26년(943)에
+	26년(943)/ncn+에/jca
+
+왕명으로
+	왕명/ncn+으로/jca
+
+고려
+	고려/ncpa
+
+최초로
+	최초/ncn+로/jca
+
+화엄사를
+	화엄사/ncn+를/jco
+
+중수하였고,
+	중수/ncpa+하/xsva+었/ep+고/ecc+,/sp
+
+홍경선사가
+	홍경선사/ncn+가/jcs
+
+퇴락한
+	퇴락/ncpa+하/xsva+ㄴ/etm
+
+당우와
+	당우/ncn+와/jcj
+
+암자를
+	암자/ncn+를/jco
+
+중수하였답니다
+	중수/ncpa+하/xsva+었/ep+답니다/ef
+
+.
+	./sf
+
+
+문종(1047~1083)때
+	문종(1047~1083)때/ncn
+
+대각국사
+	대각/ncn+국사/ncn
+
+의천에
+	의천/ncn+에/jca
+
+의하여
+	의하/pvg+어/ecx
+
+중수,
+	중수/ncpa+,/sp
+
+인종(1126~1146)때
+	인종(1126~1146)때/ncn
+
+정인왕사가
+	정인왕사/ncn+가/jcs
+
+중수,
+	중수/ncpa+,/sp
+
+명종
+	명종/ncn
+
+2년(1172)에
+	2년(1172)/ncn+에/jca
+
+도선국사비
+	도선국사비/ncn
+
+건립,
+	건립/ncpa+,/sp
+
+
+충렬왕(1236~1308)때
+	충렬왕(1236~1308)때/ncn
+
+원소암
+	원소/ncn+암/ncn
+
+중건,
+	중건/ncpa+,/sp
+
+충숙왕(1313~1330)때
+	충숙왕(1313~1330)때/ncn
+
+조형왕사에
+	조형/ncpa+왕사/ncn+에/jca
+
+의한
+	의하/pvg+ㄴ/etm
+
+전면적인
+	전면/ncn+적/ncn+이/jp+ㄴ/etm
+
+보수를
+	보수/ncn+를/jco
+
+하였지요
+	하/px+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+하지만
+	하지만/maj
+
+임진왜란(1592~1598)때
+	임진왜란(1592~1598)때/ncn
+
+호남의
+	호남/ncn+의/jcm
+
+관문
+	관문/ncn
+
+구례
+	구례/ncn
+
+석주관에서
+	석주/ncn+관/ncn+에서/jca
+
+승병
+	승병/ncn
+
+300여
+	300/nnc+여/xsnu
+
+명을
+	명/nbu+을/jco
+
+조직하여
+	조직/ncpa+하/xsva+어/ecx
+
+왜군에
+	왜군/ncn+에/jca
+
+맞서
+	맞서/pvg+어/ecx
+
+싸웠으나
+	싸우/pvg+었/ep+으나/ecc
+
+
+이
+	이/mmd
+
+앙갚음으로
+	앙갚음/ncpa+으로/jca
+
+왜장
+	왜장/ncn
+
+가등청정은
+	가등/ncpa+청정/ncps+은/jxc
+
+화엄사를
+	화엄사/ncn+를/jco
+
+전소시키기에
+	전소/ncpa+시키/xsva+기/etn+에/jca
+
+이르렀답니다
+	이르/pvg+었/ep+답니다/ef
+
+.
+	./sf
+
+
+인조(1630~1636)때
+	인조(1630~1636)때/ncn
+
+벽암선사와
+	벽암선사/ncn+와/jcj
+
+문도들이
+	문도/ncn+들/ncn+이/jcc
+
+대웅전
+	대웅전/ncn
+
+등
+	등/nbu
+
+몇몇
+	몇/nnc+몇/nnc
+
+건물을
+	건물/ncn+을/jco
+
+중건하고,
+	중건/ncpa+하고/jct+,/sp
+
+숙종(1699~1703)때
+	숙종(1699~1703)때/ncn
+
+계파선사와
+	계파/ncn+선사/ncn+와/jcj
+
+문도에
+	문도/ncn+에/jca
+
+의하여
+	의하/pvg+어/ecs
+
+
+장육전
+	장육전/ncn
+
+자리에
+	자리/ncn+에/jca
+
+현존하는
+	현존/ncpa+하/xsva+는/etm
+
+목조건물로는
+	목조건물/ncn+로/jca+는/jxc
+
+국내
+	국내/ncn
+
+최대규모로
+	최대규모/ncn+로/jca
+
+웅장한
+	웅장/ncn+한/ncn
+
+각황전
+	각황전/ncn
+
+건립과
+	건립/ncpa+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+선교
+	선교/ncn
+
+양종대가람이
+	양/xp+종대/ncn+가람/ncn+이/jcc
+
+되었고,
+	되/nbu+이/jp+었/ep+고/ecc+,/sp
+
+
+근세에
+	근세/ncn+에/jca
+
+이르러
+	이르/pvg+어/ecx
+
+도광대종사의
+	도광대종사/ncn+의/jcm
+
+전면적인
+	전면/ncn+적/ncn+이/jp+ㄴ/etm
+
+중수에
+	중수/ncn+에/jca
+
+힘입어
+	힘입/pvg+어/ecx
+
+지금의
+	지금/ncn+의/jcm
+
+화엄사로
+	화엄사/ncn+로/jca
+
+중흥할
+	중흥/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있었답니다
+	있/px+었/ep+답니다/ef
+
+.
+	./sf
+
+
+화엄사를
+	화엄사/ncn+를/jco
+
+들어서는
+	들/pvg+어서/ecs+는/jxc
+
+입구에서부터
+	입구/ncn+에서/jca+부터/jxc
+
+2-3개의
+	2/nnc+-3/nnc+개/nbu+의/jcm
+
+문을
+	문/ncn+을/jco
+
+통과해야
+	통과/ncpa+하/xsva+어야/ecs
+
+대웅전이
+	대웅전/ncn+이/jcc
+
+나오는데요
+	나/pvg+아/ecx+오/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+중간에
+	중간/ncn+에/jca
+
+만월당이
+	만월/ncn+당/ncn+이/jcc
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+약간의
+	약간/ncn+의/jcm
+
+광활한듯한
+	광활/ncps+하/xsms+ㄴ/etm+듯/nbs+하/xsms+ㄴ/etm
+
+곳에
+	곳/nbn+에/jca
+
+자리잡은
+	자리잡/pvg+은/etm
+
+곳인데요
+	곳인데요/ncn
+
+.
+	./sf
+
+
+출입을
+	출입/ncpa+을/jco
+
+금한다고
+	금하/pvg+ㄴ다/ef+고/jcr
+
+자그만한
+	자그만한/ncn
+
+표찰로
+	표찰/ncn+로/jca
+
+앞에
+	앞/ncn+에/jca
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있는데
+	있/px+는데/ecs
+
+..
+	./sf+./sf
+
+
+멋모르고
+	멋모르/pvg+고/ecc
+
+들어섰지만
+	들어서/pvg+었/ep+지만/ecs
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+막거나
+	막/pvg+거나/ecc
+
+그러는
+	그러/pvd+는/etm
+
+사람이
+	사람/ncn+이/jcc
+
+따로
+	따로/mag
+
+있는건
+	있는건/ncn
+
+아니라서
+	아니/paa+라서/ecs
+
+조용히
+	조용히/mag
+
+거닐며
+	거닐/pvg+며/ecc
+
+햇살과
+	햇살/ncn+과/jcj
+
+화엄사
+	화엄사/ncn
+
+그
+	그/mmd
+
+자체만을
+	자체/ncn+만/ncn+을/jco
+
+바라보는것만해도
+	바라보는것만해/ncn+도/jxc
+
+
+즐거워지는
+	즐겁/paa+어/ecx+지/px+는/etm
+
+여유를
+	여유/ncn+를/jco
+
+부려보았습니다
+	부리/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+스님들이
+	스님/ncn+들/ncn+이/jcc
+
+사용하시는
+	사용/ncpa+하/xsva+시/ep+는/etm
+
+방
+	방/ncn
+
+같다는
+	같/paa+다/ef+는/etm
+
+생각도
+	생각/ncpa+도/jxc
+
+하였습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+조금은
+	조금/mag+은/jxc
+
+미흡한
+	미흡/ncps+하/xsms+ㄴ/etm
+
+지식이라
+	지식/ncn+이/jp+라/ecs
+
+잘은
+	잘/mag+은/jxc
+
+모르겠지만
+	모르/pvg+겠/ep+지만/ecs
+
+여튼
+	여튼/ncn
+
+스님들이
+	스님/ncn+들/ncn+이/jcc
+
+들어가셔서
+	들/pvg+어/ecx+가/px+시/ep+어서/ecs
+
+옷갈아입고
+	옷갈아입고/ncn
+
+나오는걸
+	나오는걸/ncn
+
+봐서
+	보/pvg+아/ecx
+
+;;;
+	;/sy+;/sy+;/sy
+
+
+만월당에
+	만월/ncn+당/ncn+에/jca
+
+서서
+	서/pvg+어서/ecs
+
+바라보다
+	바라/pvg+아/ecx+보/px+다/ef
+
+멋진
+	멋지/paa+ㄴ/etm
+
+소나무
+	소나무/ncn
+
+한그루와
+	한/nnc+그루/nbu+와/jcj
+
+석등뒤로
+	석등/ncn+뒤/ncn+로/jca
+
+보제루와
+	보제루/ncn+와/jcj
+
+종각이
+	종각/ncn+이/jcc
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있음이
+	있/px+음/etn+이/jcs
+
+한눈에
+	한눈/ncn+에/jca
+
+보여요
+	보이/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+화엄사
+	화엄사/ncn
+
+입구에서부터
+	입구/ncn+에서/jca+부터/jxc
+
+계단을
+	계단/ncn+을/jco
+
+올라
+	오르/pvg+아/ecx
+
+문을
+	문/ncn+을/jco
+
+들어서면
+	들어서/pvg+면/ecs
+
+또
+	또/maj
+
+계단이
+	계단/ncn+이/jcc
+
+나오고
+	나/pvg+아/ecx+오/px+고/ecc
+
+거닐다가
+	거닐/pvg+다가/ecs
+
+또
+	또/maj
+
+문을
+	문/ncn+을/jco
+
+만나서
+	만나/pvg+아/ecx
+
+문을
+	문/ncn+을/jco
+
+들어서면
+	들어서/pvg+면/ecs
+
+계단이
+	계단/ncn+이/jcc
+
+나오고
+	나/pvg+아/ecx+오/px+고/ecc
+
+..
+	./sf+./sf
+
+
+그러한
+	그러하/pad+ㄴ/etm
+
+형태로
+	형태/ncn+로/jca
+
+되어있는데요
+	되/pvg+어/ecx+있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+이곳
+	이곳/npd
+
+만월당에서도
+	만월/ncn+당/ncn+에서/jca+도/jxc
+
+계단을
+	계단/ncn+을/jco
+
+오르면
+	오르/pvg+면/ecs
+
+보제루와
+	보제루/ncn+와/jcj
+
+종각이
+	종각/ncn+이/jcc
+
+보이고
+	보이/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+대웅전도
+	대웅전/ncn+도/jxc
+
+보이지만
+	보이/pvg+지/ecx+말/px+ㄴ/etm
+
+계단을
+	계단/ncn+을/jco
+
+또
+	또/maj
+
+올라야
+	오르/pvg+아/ecx
+
+대웅전을
+	대웅전/ncn+을/jco
+
+바로
+	바로/mag
+
+앞에서
+	앞/ncn+에서/jca
+
+만나볼수
+	만나/pvg+아/ecx+보/px+ㄹ/etm+수/nbn
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+파란하늘이
+	파란/ncn+하늘/ncn+이/jcc
+
+절로
+	절/ncn+로/jca
+
+기분좋게
+	기분좋/paa+게/ecs
+
+만들어
+	만들/pvg+어/ecx
+
+주어요
+	주/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+혼자인
+	혼자/ncn+이/jp+ㄴ/etm
+
+여행이
+	여행/ncpa+이/jcc
+
+쓸쓸하다고
+	쓸쓸/ncps+하/xsms+다/ef+고/jcr
+
+생각도
+	생각/ncpa+도/jxc
+
+하지만
+	하지만/maj
+
+간혹
+	간혹/mag
+
+어느새
+	어느새/mag
+
+저도
+	저/npp+도/jxc
+
+모르게
+	모르/pvg+게/ecs
+
+익숙해진듯이
+	익숙해지/pvg+ㄴ/etm+듯/nbs+이/jcc
+
+편안함을
+	편안/ncps+하/xsms+ㅁ/etn+을/jco
+
+느끼기도
+	느끼/pvg+기/etn+도/jxc
+
+한답니다
+	하/px+ㄴ답니다/ef
+
+.
+	./sf
+
+
+컨디션이
+	컨디션/ncn+이/jcc
+
+엉망이어도
+	엉망/ncn+이/jp+어도/ecs
+
+혼자
+	혼자/mag
+
+여행하면서
+	여행/ncpa+하/xsva+면서/ecc
+
+시간을
+	시간/ncn+을/jco
+
+내
+	내/pvg+어/ecx
+
+맘대로
+	말/px+ㅁ/etn+대로/jca
+
+즐겨볼수
+	즐기/pvg+어/ecx+보/px+ㄹ/etm+수/nbn
+
+있다는게
+	있다는/ncn+게/jca
+
+더
+	더/mag
+
+없이
+	없이/mag
+
+좋은가봅니다
+	좋은가봅니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+더군다나
+	더군다나/mag
+
+요즘은
+	요즘/ncn+은/jxc
+
+미흡한
+	미흡/ncps+하/xsms+ㄴ/etm
+
+실력이지만
+	실력/ncn+이/jp+지만/ecs
+
+사진찍는게
+	사진찍/pvg+는게/ecs
+
+너무
+	너무/mag
+
+좋아서
+	좋/paa+아/ecx
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍느라
+	찍/pvg+느라/ecs
+
+시간이
+	시간/ncn+이/jcc
+
+모두
+	모두/mag
+
+소요될
+	소요/ncpa+되/xsvn+ㄹ/etm
+
+정도이기도
+	정도/ncn+이/jp+기/etn+도/jxc
+
+하지요
+	하/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+화엄사에서도
+	화엄사/ncn+에서/jca+도/jxc
+
+생각외로
+	생각/ncpa+외/xsnx+로/jca
+
+시간을
+	시간/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+보내게
+	보내/pvg+게/ecs
+
+되었답니다
+	되/pvg+었/ep+답니다/ef
+
+.
+	./sf
+
+
+만월당에서
+	만월/ncn+당/ncn+에서/jca
+
+계단을
+	계단/ncn+을/jco
+
+오르니
+	오르/pvg+니/ecs
+
+정면으로
+	정면/ncn+으로/jca
+
+마주하는
+	마주/ncps+하/xsms+는/etm
+
+것이
+	것/nbn+이/jcc
+
+지방유형문화제
+	지방/ncn+유형/ncn+문화제/ncn
+
+제49호로
+	제49호/ncn+로/jca
+
+지정된
+	지정/ncpa+되/xsvn+ㄴ/etm
+
+보제루를
+	보제루/ncn+를/jco
+
+만날수
+	만나/pvg+ㄹ/etm+수/nbn
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+1636년에
+	1636/nnc+년/nbu+에/jca
+
+건립된
+	건립/ncpa+되/xsvn+ㄴ/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+특별함이
+	특별/ncps+하/xsms+ㅁ/etn+이/jcs
+
+숨어있는데요~
+	숨/pvg+어/ecx+있/px+는데/ef+요/jxf+~/sd
+
+자세히
+	자세히/mag
+
+훑어보니
+	훑/pvg+어/ecx+보/px+니/ecs
+
+옆기둥쪽에
+	옆/xp+기둥/ncn+쪽/ncn+에/jca
+
+왼쪽사진처럼
+	왼쪽/ncn+사진/ncn+처럼/jca
+
+이름이
+	이름/ncn+이/jcc
+
+새겨져
+	새기/pvg+어/ecx+지/px+어/ecx
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+왠지
+	왠지/mag
+
+신기했어요
+	신기/ncps+하/xsms+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+화엄사
+	화엄사/ncn
+
+내에
+	내/npp+에/jca
+
+자리잡은
+	자리잡/pvg+은/etm
+
+보제루는
+	보제루/ncn+는/jxc
+
+승려나
+	승려/ncn+나/jcj
+
+신도들의
+	신도/ncn+들/ncn+의/jcm
+
+집회용인
+	집회/ncpa+용/xsna+이/jp+ㄴ/etm
+
+2층
+	2/nnc+층/nbu
+
+누각
+	누각/ncn
+
+건물로
+	건물/ncn+로/jca
+
+대개는
+	대개/mag+는/jxc
+
+그
+	그/mmd
+
+밑을
+	밑/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+대웅전으로
+	대웅전/ncn+으로/jca
+
+들어서게
+	들어서/pvg+게/ecs
+
+되지만,
+	되/nbu+지만/jxc+,/sp
+
+
+화엄사의
+	화엄사/ncn+의/jcm
+
+보제루는
+	보제루/ncn+는/jxc
+
+1층
+	1/nnc+층/nbu
+
+기둥
+	기둥/ncn
+
+높이를
+	높이/ncn+를/jco
+
+낮게
+	낮/paa+게/ecs
+
+만들어
+	만들/pvg+어/ecx
+
+옆으로
+	옆/ncn+으로/jca
+
+돌아가게
+	돌/pvg+아/ecx+가/px+게/ecs
+
+되어있답니다
+	되/pvg+어/ecx+있/px+답니다/ef
+
+.
+	./sf
+
+
+각황전,
+	각황전,/ncn
+
+대웅전,
+	대웅전/ncn+,/sp
+
+대석단
+	대석단/ncn
+
+등이
+	등/nbu+이/jcc
+
+장엄하게
+	장엄/ncps+하/xsms+게/ecs
+
+펼쳐지는
+	펼치/pvg+어/ecx+지/px+는/etm
+
+중심
+	중심/ncn
+
+영역의
+	영역/ncn+의/jcm
+
+경관을
+	경관/ncn+을/jco
+
+강조하기
+	강조/ncpa+하/xsva+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+배려로
+	배려/ncpa+로/jca
+
+보이지요
+	보이/pvg+지/ef+요/jxf
+
+.
+	./sf
+
+
+장식을
+	장식/ncpa+을/jco
+
+배제하고
+	배제/ncpa+하고/jct
+
+단청도
+	단청/ncn+도/jxc
+
+하지
+	하/pvg+지/ecx
+
+않아
+	않/px+아/ecx
+
+절제된
+	절제/ncpa+되/xsvn+ㄴ/etm
+
+아름다움을
+	아름다움/ncn+을/jco
+
+느낄수
+	느끼/pvg+ㄹ/etm+수/nbn
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+보제루를
+	보제루/ncn+를/jco
+
+옆으로
+	옆/ncn+으로/jca
+
+돌아서면
+	돌아서/pvg+면/ecs
+
+정면으로
+	정면/ncn+으로/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+보물
+	보물/ncn
+
+제299호로
+	제299호/ncn+로/jca
+
+지정된
+	지정/ncpa+되/xsvn+ㄴ/etm
+
+'대웅전'이
+	'/sr+대웅전/ncn+'/sr+이/jcc
+
+보인답니다
+	보이/pvg+ㄴ답니다/ef
+
+.
+	./sf
+
+
+역시나
+	역시/mag+나/jxc
+
+계단을
+	계단/ncn+을/jco
+
+올라야
+	오르/pvg+아/ecx
+
+만날수
+	만나/pvg+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+대웅전이기도
+	대웅전/ncn+이/jp+기/etn+도/jxc
+
+하지요
+	하/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+이곳
+	이곳/npd
+
+구례
+	구례/ncn
+
+화엄사에는
+	화엄사/ncn+에/jca+는/jxc
+
+다양한
+	다양/ncn+한/ncn
+
+국보급
+	국보급/ncn
+
+문화재들이
+	문화재/ncn+들/ncn+이/jcc
+
+가득한데요
+	가득/ncps+한데/ncn+요/ncn
+
+.
+	./sf
+
+
+대웅전
+	대웅전/ncn
+
+앞에도
+	앞/ncn+에/jca+도/jxc
+
+자리잡은
+	자리잡/pvg+은/etm
+
+석탑이
+	석탑/ncn+이/jcc
+
+하나
+	하/pvg+나/ecs
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+대웅전을
+	대웅전/ncn+을/jco
+
+바라보고
+	바라/pvg+아/ecx+보/px+고/ecc
+
+서있는
+	서/pvg+어/ecx+있/px+는/etm
+
+석탑은
+	석탑/ncn+은/jxc
+
+동오층석탑인데요
+	동오층석탑인데요/ncn
+
+.
+	./sf
+
+
+보물
+	보물/ncn
+
+제
+	저/npp+의/jcm
+
+132호로
+	132/nnc+호/nbu+로/jca
+
+통일신라
+	통일신라/ncn
+
+9세기
+	9/nnc+세/nbu+이/jp+기/etn
+
+말부터
+	말/ncn+부터/jxc
+
+10세기
+	10/nnc+세/nbu+이/jp+기/etn
+
+초쯤에
+	초/nbu+쯤/xsnx+에/jca
+
+생긴걸로
+	생긴걸/ncn+로/jca
+
+추정되다고
+	추정/ncpa+되/xsvn+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+탑은
+	탑/ncn+은/jxc
+
+표면에
+	표면/ncn+에/jca
+
+아무런
+	아무런/mma
+
+조각장식이
+	조각장/ncn+식/ncn+이/jcc
+
+없어
+	없/paa+어/ecx
+
+기단도
+	기단/ncn+도/jxc
+
+단층으로
+	단층/ncn+으로/jca
+
+이뤄져
+	이루/pvg+어/ecx+지/px+어/ecx
+
+있으며
+	있/px+으며/ecc
+
+1999년에
+	1999/nnc+년/nbu+에/jca
+
+사리
+	사/nnc+리/nbu
+
+장엄구를
+	장엄/ncn+구/ncn+를/jco
+
+비롯한
+	비롯/ncpa+하/xsva+ㄴ/etm
+
+다양한
+	다양/ncn+한/ncn
+
+유물이
+	유물/ncn+이/jcc
+
+탑
+	탑/ncn
+
+속에서
+	속/ncn+에서/jca
+
+발견되었다고
+	발견/ncpa+되/xsvn+었/ep+다/ef+고/jcr
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+보제루를
+	보제루/ncn+를/jco
+
+지나면
+	지나/pvg+면/ecs
+
+넓은
+	넓/paa+은/etm
+
+터가
+	터/nbn+가/jcc
+
+나오는데
+	나/pvg+아/ecx+오/px+ㄴ데/ecs
+
+말그대로
+	말그대/ncn+로/jca
+
+정면에
+	정면/ncn+에/jca
+
+보이는것이
+	보이/pvg+는/etm+것/nbn+이/jcc
+
+대웅전이라면
+	대웅전/ncn+이/jp+라면/ecs
+
+그곳에서
+	그곳/ncn+에서/jca
+
+왼쪽으로
+	왼쪽/ncn+으로/jca
+
+고개를
+	고개/ncn+를/jco
+
+돌려서
+	돌리/pvg+어서/ecs
+
+보면
+	보/px+면/ecs
+
+'각황전'을
+	'각황전'/ncn+을/jco
+
+만나볼수
+	만나/pvg+아/ecx+보/px+ㄹ/etm+수/nbn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+각황전을
+	각황전/ncn+을/jco
+
+뒷배경으로
+	뒷배경/ncn+으로/jca
+
+하고
+	하/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+이
+	이/mmd
+
+석탑은
+	석탑/ncn+은/jxc
+
+보물
+	보물/ncn
+
+제133호로
+	제133호/ncn+로/jca
+
+지정된
+	지정/ncpa+되/xsvn+ㄴ/etm
+
+서오층석탑으로
+	서오층석탑/ncn+으로/jca
+
+
+12지신과
+	12지/ncn+신/ncn+과/jcj
+
+여덟
+	여덟/nnc
+
+무리의
+	무리/ncn+의/jcm
+
+신들,
+	신/ncn+들/xsncc+,/sp
+
+사천왕이
+	사천왕/ncn+이/jcc
+
+함께
+	함께/mag
+
+새겨진
+	새기/pvg+어/ecx+지/px+ㄴ/etm
+
+드문
+	드물/paa+ㄴ/etm
+
+예로서
+	예/ncn+로서/jca
+
+1995년
+	1995/nnc+년/nbu
+
+'무구정광대다라니경'을
+	'무구정광대다라니경'/ncn+을/jco
+
+비롯한
+	비롯/ncpa+하/xsva+ㄴ/etm
+
+유물
+	유물/ncn
+
+47점이
+	47/nnc+점/nbu+이/jcc
+
+탑
+	탑/ncn
+
+속에서
+	속/ncn+에서/jca
+
+발견되었다고
+	발견/ncpa+되/xsvn+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+계단을
+	계단/ncn+을/jco
+
+올라
+	오르/pvg+아/ecx
+
+목조건물로
+	목조건물/ncn+로/jca
+
+이뤄진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+각황전으로
+	각황전/ncn+으로/jca
+
+들어섰는데요
+	들어서/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+국보
+	국보/ncn
+
+67호로
+	67/nnc+호/nbu+로/jca
+
+지정된
+	지정/ncpa+되/xsvn+ㄴ/etm
+
+'각황전(
+	'각황전(/ncn
+
+)'은
+	)/sr+'/sr+은/jxc
+
+우리나라
+	우리나라/ncn
+
+최대의
+	최대/ncn+의/jcm
+
+목조건물로써본래
+	목조건물로써본래/ncn
+
+이름은
+	이름/ncn+은/jxc
+
+장육전(
+	장육전(/ncn
+
+)으로
+	)/sr+으로/jca
+
+지리산의
+	지리/ncn+산/ncn+의/jcm
+
+
+억센
+	억세/paa+ㄴ/etm
+
+맥을
+	맥/ncn+을/jco
+
+누그러뜨리려
+	누그러뜨리/pvg+려/ecx
+
+세웠다는
+	세우/pvg+었/ep+다/ef+는/etm
+
+말이
+	말/ncn+이/jcc
+
+전해지는
+	전하/pvg+어/ecx+지/px+는/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+부처님의
+	부처님/ncn+의/jcm
+
+몸을
+	몸/ncn+을/jco
+
+가리켜
+	가리키/pvg+어/ecx
+
+장육금신(
+	장육금신(/ncn
+
+)이라고
+	)/sr+이/jp+라/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+본래
+	본래/ncn
+
+장육전에는
+	장육전/ncn+에는/jca
+
+
+석가여래의
+	석가여래/ncn+의/jcm
+
+모습만한
+	모습만한/ncn
+
+금색의
+	금색/ncn+의/jcm
+
+불상을
+	불상/ncn+을/jco
+
+모셔놓았던
+	모시/pvg+어/ecx+놓/px+아/ep+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+추정되고
+	추정/ncpa+되/xsvn+고/ecc
+
+있으나
+	있/px+으나/ecs
+
+애석하게도
+	애석/ncps+하/xsms+게/ecs+도/jxc
+
+장육전은
+	장육전/ncn+은/jxc
+
+
+임진왜란때
+	임진/ncn+왜란/ncn+때/ncn
+
+불타버려
+	불타/pvg+아/ecx+버리/px+어/ecx
+
+당시의
+	당시/ncn+의/jcm
+
+모습이나
+	모습/ncn+이나/jcj
+
+불상은
+	불상/ncn+은/jxc
+
+찾아
+	찾/pvg+아/ecx
+
+볼수가
+	보/px+ㄹ/etm+수/nbn+가/jcc
+
+없답니다
+	없/paa+답니다/ef
+
+.
+	./sf
+
+
+본래
+	본래/ncn
+
+이
+	이/mmd
+
+건물은
+	건물/ncn+은/jxc
+
+670년(신라
+	670년(신라/ncn
+
+문무왕
+	문무/ncn+왕/ncr
+
+10년)에
+	10/nnc+년/nbu+)/sr+에/jca
+
+의상대사가
+	의상/ncn+대사/ncn+가/jcs
+
+3층,
+	3/nnc+층/nbu+,/sp
+
+사면
+	사/pvg+면/ecs
+
+7칸의
+	7/nnc+칸/nbu+의/jcm
+
+장육전을
+	장육전/ncn+을/jco
+
+건립하고
+	건립/ncpa+하고/jct
+
+사방벽에
+	사방/ncn+벽/ncn+에/jca
+
+화엄석경을
+	화엄석경/ncn+을/jco
+
+새겨졌었다고
+	새기/pvg+어/ecx+지/px+었었/ep+다/ef+고/jcr
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+임진왜란때
+	임진/ncn+왜란/ncn+때/ncn
+
+소실된후
+	소실/ncpa+되/xsvn+ㄴ후/ef
+
+30년만인
+	30년만/ncn+이/jp+ㄴ/etm
+
+1636년(조선
+	1636년(조선/ncn
+
+인조
+	인조/ncn
+
+14년)
+	14/nnc+년/nbu+)/sr
+
+벽암선사에
+	벽암선사/ncn+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+화엄사는
+	화엄사/ncn+는/jxc
+
+복구되었으나
+	복구/ncpa+되/xsvn+었/ep+으나/ecc
+
+
+각황전만은
+	각황전만/ncn+은/jxc
+
+복구되지
+	복구/ncpa+되/xsvn+지/ecx
+
+못하다
+	못하/px+어다/ecs
+
+1699년(조선
+	1699년(조선/ncn
+
+숙종
+	숙종/ncn
+
+25년)
+	25/nnc+년/nbu+)/sr
+
+계파대사에
+	계파/ncn+대사/ncn+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+중건되었답니다
+	중건/ncpa+되/xsvn+었/ep+답니다/ef
+
+.
+	./sf
+
+
+정면
+	정면/ncn
+
+7칸
+	7/nnc+칸/nbu
+
+(26.
+	(/sl+26./nnc
+
+8m),
+	8m),/ncn
+
+측면
+	측면/ncn
+
+5칸
+	5/nnc+칸/nbu
+
+(18.
+	(/sl+18./nnc
+
+3m),
+	3m),/ncn
+
+높이
+	높이/ncn
+
+15m로
+	15m/ncn+로/jca
+
+내부
+	내부/ncn
+
+전체가
+	전체/ncn+가/jcs
+
+한칸의
+	한/nnc+칸/nbu+의/jcm
+
+방으로
+	방/ncn+으로/jca
+
+만들어졌으며
+	만들/pvg+어/ecx+지/px+었/ep+으며/ecc
+
+이안에
+	이/npd+안/xsnx+에/jca
+
+세워져
+	세우/pvg+어/ecx+지/px+어/ecx
+
+있는
+	있/paa+는/etm
+
+
+기둥
+	기둥/ncn
+
+하나
+	하나/nnc
+
+하나는
+	하/pvg+어/ecx+나/px+는/etm
+
+한그루의
+	한/nnc+그루/nbu+의/jcm
+
+나무로만
+	나무/ncn+로/jca+만/jxc
+
+만들어져
+	만들/pvg+어/ecx+지/px+어/ecx
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+중앙에
+	중앙/ncn+에/jca
+
+불단을
+	불단/ncn+을/jco
+
+설치하여
+	설치/ncpa+하/xsva+어/ecx
+
+거대한
+	거대/ncps+하/xsms+ㄴ/etm
+
+불상을
+	불상/ncn+을/jco
+
+안치하고
+	알/pvg+ㄴ/etm+치/nbn+하고/jct
+
+천장을
+	천/nnc+장/nbu+을/jco
+
+우물정자
+	우물/ncn+정자/ncn
+
+모양으로
+	모양/ncn+으로/jca
+
+주변이
+	주변/ncn+이/jcc
+
+경사지게
+	경사지/pvg+게/ecs
+
+한
+	하/pvg+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+우리
+	우리/npp
+
+나라에서
+	나라/ncn+에서/jca
+
+그
+	그/mmd
+
+예가
+	예/npp+가/jcs
+
+드물다고
+	드물/paa+다/ef+고/jcr
+
+하더군요
+	하/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+각황전
+	각황전/ncn
+
+앞에는
+	앞/ncn+에/jca+는/jxc
+
+2개의
+	2/nnc+개/nbu+의/jcm
+
+탑이
+	탑/ncn+이/jcc
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그중
+	그중/mag
+
+오른편에(대웅전
+	오른편에(대웅전/ncn
+
+방면)
+	방면/ncn+)/sr
+
+자리잡은
+	자리잡/pvg+은/etm
+
+이
+	이/mmd
+
+탑은
+	탑/ncn+은/jxc
+
+화엄사
+	화엄사/ncn
+
+원통전전사자라고
+	원통/ncn+전전/ncpa+사자/ncn+이/jp+라/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+아래
+	아래/ncn
+
+기단의
+	기단/ncn+의/jcm
+
+면석에
+	면석/ncn+에/jca
+
+갓
+	갓/mag
+
+기둥과
+	기둥/ncn+과/jcj
+
+버팀기둥이
+	버팀/ncn+기둥/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+불단형식으로
+	불단/ncn+형식/ncn+으로/jca
+
+몸돌은
+	몸돌/ncn+은/jxc
+
+네모난
+	네모나/pvg+ㄴ/etm
+
+기둥처럼
+	기둥/ncn+처럼/jca
+
+우뚝하게
+	우뚝하/ncn+이/jp+게/ecs
+
+길며,
+	길/paa+며/ecc+,/sp
+
+
+각
+	각/mma
+
+면에는
+	면/ncn+에/jca+는/jxc
+
+사천왕상이
+	사천왕/ncn+상/ncn+이/jcc
+
+얕게
+	얕/paa+게/ecs
+
+새겨져
+	새기/pvg+어/ecx+지/px+어/ecx
+
+있으며
+	있/px+으며/ecc
+
+보물
+	보물/ncn
+
+제
+	저/npp+의/jcm
+
+300호로
+	300/nnc+호/nbu+로/jca
+
+지정되어
+	지정/ncpa+되/xsvn+어/ecx
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+또
+	또/maj
+
+다른
+	다른/mma
+
+각황전
+	각황전/ncn
+
+앞으로
+	앞/ncn+으로/jca
+
+자리잡은
+	자리잡/pvg+은/etm
+
+이
+	이/mmd
+
+석탑은
+	석탑/ncn+은/jxc
+
+화엄사
+	화엄사/ncn
+
+각황전
+	각황전/ncn
+
+앞
+	앞/ncn
+
+석등이라고
+	석등/ncn+이/jp+라/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+화엄사
+	화엄사/ncn
+
+각황전
+	각황전/ncn
+
+앞에
+	앞/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+이
+	이/mmd
+
+석등은
+	석등/ncn+은/jxc
+
+국보
+	국보/ncn
+
+12호로
+	12/nnc+호/nbu+로/jca
+
+670년(신라
+	670년(신라/ncn
+
+문무왕
+	문무/ncn+왕/ncr
+
+10년)에
+	10/nnc+년/nbu+)/sr+에/jca
+
+의상대사가
+	의상/ncn+대사/ncn+가/jcs
+
+창건한
+	창건/ncpa+하/xsva+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+높이
+	높이/mag
+
+6.
+	6./nnc
+
+36m로
+	36m/ncn+로/jca
+
+현존하는
+	현존/ncpa+하/xsva+는/etm
+
+석등중
+	석등/ncn+중/ncn
+
+가장
+	가장/mag
+
+크답니다
+	크/paa+답니다/ef
+
+.
+	./sf
+
+
+전체의
+	전체/ncn+의/jcm
+
+모습은
+	모습/ncn+은/jxc
+
+인도의
+	인도/ncn+의/jcm
+
+우단바라
+	우단/ncn+바/ncn+이/jp+라/ecs
+
+꽃모양이며
+	꽃모양/ncn+이/jp+며/ecc
+
+지대석은
+	지대/ncn+석/ncn+은/jxc
+
+팔각형이며
+	팔각형/ncn+이/jp+며/ecc
+
+간석(
+	간석(/ncn
+
+)의
+	)/sr+의/jcm
+
+형태가
+	형태/ncn+가/jcs
+
+통일신라
+	통일신라/ncn
+
+석등의
+	석등/ncn+의/jcm
+
+팔각기둥과는
+	팔각/ncn+기둥/ncn+과/jct+는/jxc
+
+달리
+	달리/mag
+
+북처럼
+	북/ncn+처럼/jca
+
+배가
+	배/ncn+가/jcs
+
+부른
+	부르/pvg+ㄴ/etm
+
+형태이지요
+	형태/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+뒷편으로
+	뒷편/ncn+으로/jca
+
+보이는
+	보이/pvg+는/etm
+
+나무로
+	나무/ncn+로/jca
+
+이뤄진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+각황전이
+	각황전/ncn+이/jcc
+
+너무
+	너무/mag
+
+매력적이면서
+	매력/ncn+적/ncn+이/jp+면서/ecc
+
+오랜세월을
+	오랜세월/ncn+을/jco
+
+버텨온것만
+	버티/pvg+어/ecx+오/px+ㄴ/etm+것/nbn+만/jxc
+
+같은
+	같/paa+은/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+들어서
+	들/pvg+어서/ecs
+
+포근해지지요
+	포근/ncps+하/xsms+어/ecx+지/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+왠지
+	왠지/mag
+
+나무라는게
+	나무라/pvg+는게/ecs
+
+친근하면서도
+	친근/ncps+하/xsms+면서/ecs+도/jxc
+
+편안하게
+	편안/ncps+하/xsms+게/ecs
+
+해주는듯
+	하/pvg+어/ecx+주/px+는/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+각황전과
+	각황전/ncn+과/jcj
+
+원통전
+	원통/ncn+전/ncn
+
+사이에는
+	사이/ncn+에/jca+는/jxc
+
+나한전이라고
+	나/pvg+아/ecx+하/px+ㄴ/etm+전/nbn+이/jp+라/ef+고/jcr
+
+자그만한
+	자그만한/ncn
+
+전각이
+	전각/ncn+이/jcc
+
+자라집고
+	자라/ncn+집/ncn+고/jcj
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+앞으로는커다란
+	앞으로는커다란/ncn
+
+'홍매화'가
+	'/sr+홍매/ncn+화/ncn+'/sr+가/jcc
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+이곳
+	이곳/npd
+
+구례
+	구례/ncn
+
+화엄사의
+	화엄사/ncn+의/jcm
+
+봄의
+	봄/ncn+의/jcm
+
+모습이
+	모습/ncn+이/jcc
+
+궁금할정도로
+	궁금할정도/ncn+로/jca
+
+멋진
+	멋지/paa+ㄴ/etm
+
+나뭇가지를
+	나뭇가지/ncn+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+장륙전이
+	장륙전/ncn+이/jcc
+
+있던
+	있/px+던/etm
+
+자리에
+	자리/ncn+에/jca
+
+조선
+	조선/ncpa
+
+숙종
+	숙종/ncn
+
+때
+	때/ncn
+
+각화전을
+	각/ncn+화/xsnca+전/xsnx+을/jco
+
+중건하고
+	중건/ncpa+하고/jct
+
+이를
+	이르/paa+ㄹ/etm
+
+기념하기
+	기념/ncpa+하/xsva+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+계파선사가
+	계파/ncn+선사/ncn+가/jcs
+
+심었다고
+	심/pvg+었/ep+다/ef+고/jcr
+
+전해진답니다
+	전하/pvg+어/ecx+지/px+ㄴ답니다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+장륙화라고
+	장륙화/ncn+이/jp+라/ef+고/jcr
+
+하며,
+	하/pvg+며/ecc+,/sp
+
+다른
+	다른/mma
+
+홍매화보다
+	홍매/ncn+화/ncn+보다/jca
+
+꽃이
+	꽃/ncn+이/jcc
+
+검붉어
+	검붉/paa+어/ecx
+
+흑매화라
+	흑매화라/ncn
+
+불리기도
+	불리/pvg+기/etn+도/jxc
+
+한다고
+	하/px+ㄴ다/ef+고/jcr
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+왠지
+	왠지/mag
+
+봄에
+	보/px+ㅁ/etn+에/jca
+
+다시
+	다시/mag
+
+찾아야만
+	찾/pvg+아/ecx+말/px+ㄴ/etm
+
+할거
+	할거/ncpa
+
+같아져요
+	같/paa+아/ecx+지/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+구례
+	구례/ncn
+
+화엄사의
+	화엄사/ncn+의/jcm
+
+홍매화도
+	홍매/ncn+화/ncn+도/jxc
+
+유명하다고
+	유명/ncps+하/xsms+다/ef+고/jcr
+
+한다면
+	하/pvg+ㄴ다면/ecs
+
+..
+	./sf+./sf
+
+
+전라도
+	전/nbn+라도/jxc
+
+순천에
+	순천/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+선암사에도
+	선암사/ncn+에/jca+도/jxc
+
+600여년이나
+	600/nnc+여/xsnu+년/nbu+이나/jcj
+
+되는
+	되/pvg+는/etm
+
+홍매화가
+	홍매/ncn+화/ncn+가/jcs
+
+있어서
+	있/px+어서/ecs
+
+꽤
+	꽤/mag
+
+유명한데요
+	유명/ncn+한데/ncn+요/ncn
+
+.
+	./sf
+
+
+나무가
+	나무/ncn+가/jcs
+
+큰만큼
+	크/paa+ㄴ/etm+만큼/nbn
+
+꽃이
+	꽃/ncn+이/jcc
+
+늦게
+	늦/paa+게/ecs
+
+피는건지
+	피/pvg+는/etm+것/nbn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+올봄에
+	올봄/ncn+에/jca
+
+선암사
+	선암사/ncn
+
+매화가
+	매화/ncn+가/jcs
+
+유명해서
+	유명/ncps+하/xsms+어서/ecs
+
+찾았었는데
+	찾/pvg+았었/ep+는데/ecs
+
+매화꽃이
+	매화꽃/ncn+이/jcc
+
+피어도
+	피/pvg+어도/ecs
+
+홍매화는
+	홍매/ncn+화/ncn+는/jxc
+
+봉우리조차도
+	봉우리/ncn+조차/jxc+도/jxc
+
+맺지
+	맺/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+상황이더라구요
+	상황/ncn+이/jp+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+이곳
+	이곳/npd
+
+화엄사나
+	화엄사/ncn+나/jcj
+
+선암사의
+	선암사/ncn+의/jcm
+
+유명한
+	유명/ncn+한/ncn
+
+홍매화를
+	홍매/ncn+화/ncn+를/jco
+
+꼭
+	꼭/mag
+
+직접
+	직접/mag
+
+보고
+	보/px+고/ecc
+
+담아볼수
+	담/pvg+아/ecx+보/px+ㄹ/etm+수/nbn
+
+있으면
+	있/px+으면/ecs
+
+좋겠다는
+	좋/paa+겠/ep+다/ef+는/etm
+
+소망을
+	소망/ncpa+을/jco
+
+담아보았어요
+	담/pvg+아/ecx+보/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+어느
+	어느/mmd
+
+사찰이건
+	사찰/ncn+이/jp+건/ecc
+
+내부사진을
+	내부/ncn+사진/ncn+을/jco
+
+찍는건
+	찍는건/ncn
+
+안된다고
+	안되/paa+ㄴ다/ef+고/jcr
+
+표기가
+	표/ncn+이/jp+기/etn+가/jcs
+
+되어있곤
+	되/pvg+어/ecx+있/px+곤/ecs
+
+하지요
+	하/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+찍고
+	찍/pvg+고/ecc
+
+내부만
+	내부/ncn+만/jxc
+
+잘라서
+	자르/pvg+아/ecx
+
+요로코롬
+	요로코롬/ncn
+
+포스팅
+	포스팅/ncn
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+이건
+	이/npd+이/jp+건/ecc
+
+괜찮겠지요
+	괜찮/paa+겠/ep+지/ef+요/jxf
+
+?!
+	?/sf+!/sf
+
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+대웅전
+	대웅전/ncn
+
+내에는
+	내/npp+에/jca+는/jxc
+
+3개의
+	3/nnc+개/nbu+의/jcm
+
+큰
+	크/paa+ㄴ/etm
+
+부처님상이
+	부처님/ncn+상/ncn+이/jcc
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+보물
+	보물/ncn
+
+제1548로
+	제1548/ncn+로/jca
+
+지정된
+	지정/ncpa+되/xsvn+ㄴ/etm
+
+화엄사목조비로자나삼신불좌상이
+	화엄사목조비로자나삼신불좌상/ncn+이/jcc
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+모두들
+	모두/ncn+들/ncn
+
+다양한
+	다양/ncn+한/ncn
+
+표정과
+	표정/ncn+과/jcj
+
+자세를
+	자세/ncn+를/jco
+
+지니고
+	지/nbn+이/jp+니/ef+고/jcr
+
+있어서
+	있/px+어서/ecs
+
+신기했어요
+	신기/ncps+하/xsms+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+더군다나
+	더군다나/mag
+
+사진으로
+	사진/ncn+으로/jca
+
+보여드릴수는
+	보이/pvg+어/ecx+드리/px+ㄹ/etm+수/nbn+는/jxc
+
+없지만
+	없/paa+지만/ecs
+
+또
+	또/maj
+
+하나의
+	하나/nnc+의/jcm
+
+불상은
+	불상/ncn+은/jxc
+
+머리에
+	머리/ncn+에/jca
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+장식을
+	장식/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있어서
+	있/paa+어서/ecs
+
+
+왠지
+	왠지/mag
+
+더
+	더/mag
+
+인상깊게
+	인상깊/ncn+게/jca
+
+들여다
+	들이/px+어다/ecs
+
+보았지요
+	보/px+아/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+그러면서
+	그러/pvd+면서/ecc
+
+고개를
+	고개/ncn+를/jco
+
+빼꼼히
+	빼꼼히/ncn
+
+넣고서는
+	넣/pvg+고서/ecs+는/jxc
+
+개인적으로
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+사찰을
+	사찰/ncn+을/jco
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+이유인
+	이유/ncn+이/jp+ㄴ/etm
+
+그
+	그/mmd
+
+향내음을
+	향내/ncn+음/ncn+을/jco
+
+킁킁
+	킁킁/ncn
+
+거렸지요
+	것/nbn+이/jp+리/ep+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+보제루를
+	보제루/ncn+를/jco
+
+뒤돌아서면
+	뒤돌/pvg+아/ep+면/ecs
+
+큰
+	크/paa+ㄴ/etm
+
+터가
+	터/nbn+가/jcc
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있고
+	있/px+고/ecc
+
+그
+	그/mmd
+
+터에서
+	터/nbn+에서/jca
+
+계단을
+	계단/ncn+을/jco
+
+오르면
+	오르/pvg+면/ecs
+
+대웅전과
+	대웅전/ncn+과/jcj
+
+각황전이
+	각황전/ncn+이/jcc
+
+보인다고
+	보이/pvg+ㄴ다/ef+고/jcr
+
+하였잖아요
+	하/px+었/ep+잖아/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+보제루에서
+	보제루/ncn+에서/jca
+
+돌아서
+	돌/pvg+아/ecx
+
+올라온
+	오르/pvg+아/ecx+오/px+ㄴ/etm
+
+그
+	그/mmd
+
+터에는
+	터/nbn+에/jca+는/jxc
+
+약수터도
+	약수터/ncn+도/jxc
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+단풍나무가
+	단풍나무/ncn+가/jcs
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있어서
+	있/px+어서/ecs
+
+우수수수
+	우수/ncn+수수/ncn
+
+바닥에
+	바닥/ncn+에/jca
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+단풍잎이
+	단풍잎/ncn+이/jcc
+
+그래도
+	그래도/maj
+
+가을이라는것을
+	가을/ncn+이/jp+라/ef+는/etm+것/nbn+을/jco
+
+보여주는군요
+	보이/pvg+어/ecx+주/px+는군/ef+요/jxf
+
+.
+	./sf
+
+
+이곳
+	이곳/npd
+
+구례
+	구례/ncn
+
+화엄사에는
+	화엄사/ncn+에/jca+는/jxc
+
+모과나무도
+	모과/ncn+나무/ncn+도/jxc
+
+유명하다고
+	유명/ncps+하/xsms+다/ef+고/jcr
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+모과나무가
+	모과/ncn+나무/ncn+가/jcs
+
+주렁주렁
+	주렁주렁/mag
+
+열려있는
+	열리/pvg+어/ecx+있/px+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+심심찮게
+	심심찮게/ncn
+
+만나볼수
+	만나/pvg+아/ecx+보/px+ㄹ/etm+수/nbn
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+어느
+	어느/mmd
+
+사찰에서나
+	사찰/ncn+에서/jca+나/jxc
+
+만나볼수
+	만나/pvg+아/ecx+보/px+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+종각~
+	종각/ncn+~/sd
+
+!!
+	!/sf+!/sf
+
+
+몇달전
+	몇달/ncn+전/ncn
+
+순천
+	순천/ncn
+
+송광사를
+	송광사/ncn+를/jco
+
+찾으며
+	찾/pvg+으며/ecc
+
+처음
+	처음/mag
+
+알았던건데
+	알/pvg+아/ep+ㄴ/etm+것/nbn+이/jp+ㄴ데/ecs
+
+이미
+	이미/mag
+
+아실분도
+	알/pvg+시/ep+ㄹ/etm+분/nbn+도/jxc
+
+많으시겠지만
+	많/paa+으시/ep+겠/ep+지만/ecs
+
+사찰은
+	사찰/ncn+은/jxc
+
+하루에
+	하루/ncn+에/jca
+
+딱
+	딱/mag
+
+한번
+	한/nnc+번/nbu
+
+종각에서
+	종각/ncn+에서/jca
+
+종이
+	종이/ncn
+
+울린답니다
+	울리/pvg+ㄴ답니다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+정오
+	정오/ncn
+
+12시에
+	12/nnc+시/nbu+에/jca
+
+12번
+	12/nnc+번/nbu
+
+종이
+	종이/ncn
+
+울리는데요
+	울리/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+조금
+	조금/mag
+
+서두르던지
+	서두르/pvg+더/ep+ㄴ지/ecs
+
+아니면
+	아니/paa+면/ecs
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+머물면서
+	머물/pvg+면서/ecc
+
+그
+	그/mmd
+
+종소리를
+	종소리/ncn+를/jco
+
+들어보는건
+	들어보는건/ncn
+
+어떨런지요
+	어떨런지요/ncn
+
+^^
+	^/sy+^/sy
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2011/11/14/854/03102323317A531E7EC3792F23F01933BC5_soh109_PC_DEFAULT_logo.
+	net/blogucc28/2011/11/14/854/03102323317A531E7EC3792F23F01933BC5_soh109_PC_DEFAULT_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'36.
+	'/sr+36./nnc
+
+409';
+	409/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'5DCFFCCFC83C10AC8D5E693FC12A4E395EB3';
+	'5DCFFCCFC83C10AC8D5E693FC12A4E395EB3/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V127e476cad087cf2c7a55caa732847ba922e7868faba41f4913829b46be83654ffc15caa732847ba922e';
+	'V127e476cad087cf2c7a55caa732847ba922e7868faba41f4913829b46be83654ffc15caa732847ba922e/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_06859
+	ugcPlayer_06859/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_06859'
+	VideoInfraUGCPlayer('ugcPlayer_06859'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_06859
+	ugcPlayer_06859/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+12시가
+	12/nnc+시/nbu+가/jcc
+
+되면
+	되/pvg+면/ecs
+
+종이
+	종이/ncn
+
+울린다는것을
+	울리/pvg+ㄴ다/ef+는/etm+것/nbn+을/jco
+
+까맣게
+	까맣/paa+게/ecs
+
+잊고
+	잊/pvg+고/ecc
+
+있었는데
+	있/px+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+마침
+	마침/mag
+
+여기저기
+	여기저기/mad
+
+둘러보고
+	두르/pvg+어/ecx+보/px+고/ecc
+
+화엄사를
+	화엄사/ncn+를/jco
+
+모두
+	모두/mag
+
+둘러보고나니
+	두르/pvg+어/ecx+보/px+고/ecx+나/px+니/ecs
+
+종소리가
+	종소리/ncn+가/jcs
+
+들리더라구요
+	들리/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+얼릉
+	얼릉/ncn
+
+담아보았지요
+	담/pvg+아/ecx+보/px+아/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+역시나
+	역시/mag+나/jxc
+
+종을
+	종/ncn+을/jco
+
+치면
+	치/pvg+면/ecs
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+모두들
+	모두/ncn+들/ncn
+
+모여드는거
+	모여드는거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+깊은
+	깊/paa+은/etm
+
+산속에
+	산속/ncn+에/jca
+
+큰
+	크/paa+ㄴ/etm
+
+종소리가
+	종소리/ncn+가/jcs
+
+울러퍼지는거
+	울러퍼지는거/ncn
+
+같아서
+	같/paa+아/ecx
+
+좋더라구요
+	좋/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+보제루
+	보제루/ncn
+
+바로
+	바로/mag
+
+옆으로
+	옆/ncn+으로/jca
+
+종각이
+	종각/ncn+이/jcc
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있는건데요
+	있는건데요/ncn
+
+.
+	./sf
+
+
+종각과
+	종각/ncn+과/jcj
+
+약수터
+	약수터/ncn
+
+사이에
+	사이/ncn+에/jca
+
+커다란
+	커다랗/paa+은/etm
+
+단풍나무가
+	단풍나무/ncn+가/jcs
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+꽤
+	꽤/mag
+
+단풍잎들이
+	단풍잎/ncn+들/ncn+이/jcc
+
+남아있어서
+	남/pvg+아/ecx+있/px+어서/ecs
+
+..
+	./sf+./sf
+
+
+그나마
+	그/npp+나마/jxc
+
+화엄사에
+	화엄사/ncn+에/jca
+
+발길을
+	발길/ncn+을/jco
+
+해서
+	하/pvg+어서/ecs
+
+가을이다~
+	가을/ncn+이/jp+다/ef+~/sd
+
+!!
+	!/sf+!/sf
+
+
+라는
+	라/ncn+는/jxc
+
+생각에
+	생각/ncpa+에/jca
+
+잠겼답니다
+	잠기/pvg+었/ep+답니다/ef
+
+.
+	./sf
+
+
+단풍나무
+	단풍나무/ncn
+
+앞으로
+	앞/ncn+으로/jca
+
+그리고
+	그리고/maj
+
+약수터
+	약수터/ncn
+
+바로
+	바로/mag
+
+옆으로
+	옆/ncn+으로/jca
+
+아름다운
+	아름답/paa+은/etm
+
+곡선을
+	곡선/ncn+을/jco
+
+자아낸
+	자/pvg+아/ecx+내/px+ㄴ/etm
+
+소나무가
+	소나무/ncn+가/jcs
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있었는데
+	있/px+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+설정이
+	설정/ncpa+이/jcc
+
+아님에도
+	아니/paa+ㅁ/etn+에/jca+도/jxc
+
+불구하고
+	불구/ncps+하고/jct
+
+붉은
+	붉/paa+은/etm
+
+단풍잎이
+	단풍잎/ncn+이/jcc
+
+햇빛을
+	햇빛/ncn+을/jco
+
+받고
+	받/pvg+고/ecc
+
+한잎이
+	한잎/ncn+이/jcc
+
+떨어져
+	떨어지/pvg+어/ecx
+
+있는데
+	있/px+는데/ecs
+
+..
+	./sf+./sf
+
+
+그
+	그/mmd
+
+색감이
+	색감/ncn+이/jcc
+
+너무
+	너무/mag
+
+이뻤어요
+	이쁘/paa+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+햇빛에
+	햇빛/ncn+에/jca
+
+투과되는듯한
+	투과/ncpa+되/xsvn+는/etm+듯/nbs+하/xsms+ㄴ/etm
+
+그
+	그/mmd
+
+빛이
+	빛/ncn+이/jcc
+
+너무
+	너무/mag
+
+아름답더라구요
+	아름답/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+다른
+	다른/mma
+
+사찰에
+	사찰/ncn+에/jca
+
+가면
+	가/px+면/ecs
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+스님들
+	스님/ncn+들/ncn
+
+만나뵙기
+	만나뵙기/ncn
+
+힘들었는데
+	힘들/pvg+었/ep+는데/ecs
+
+.
+	./sf
+
+
+화엄사는
+	화엄사/ncn+는/jxc
+
+큰
+	크/paa+ㄴ/etm
+
+사찰인만큼
+	사찰/ncn+이/jp+ㄴ/etm+만큼/nbn
+
+곳곳에서
+	곳곳/ncn+에서/jca
+
+스님들이
+	스님/ncn+들/ncn+이/jcc
+
+자주
+	자주/mag
+
+보여지더라구요
+	보이/pvg+어/ecx+지/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+광각렌즈로
+	광각렌즈/ncn+로/jca
+
+계속
+	계속/mag
+
+사진찍다가
+	사진찍/pvg+다가/ecs
+
+얼릉
+	얼릉/ncn
+
+렌즈를
+	렌즈/ncn+를/jco
+
+교체할
+	교체/ncpa+하/xsva+ㄹ/etm
+
+시간이
+	시간/ncn+이/jcc
+
+없어서
+	없/paa+어서/ecs
+
+후다닥
+	후다닥/ncn
+
+담긴하였는데
+	담긴하/ncn+이/jp+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+스님의
+	스님/ncn+의/jcm
+
+옷자락이
+	옷자락/ncn+이/jcc
+
+바람이
+	바람/ncn+이/jcc
+
+솔솔
+	솔솔/mag
+
+휘날리는
+	휘날리/pvg+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+멋져요
+	멋지/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+산속에
+	산속/ncn+에/jca
+
+자리잡은
+	자리잡/pvg+은/etm
+
+사찰이면서
+	사찰/ncn+이/jp+면서/ecc
+
+가을이어서인지
+	가을이어서/ncn+이/jp+ㄴ지/ecs
+
+꽤
+	꽤/mag
+
+바람이
+	바람/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+불어오는
+	불/pvg+어/ecx+오/px+는/etm
+
+하루였거든요
+	하루/ncn+이/jp+었/ep+거든/ef+요/jxf
+
+.
+	./sf
+
+
+종각에서도
+	종각/ncn+에서/jca+도/jxc
+
+12시의
+	12/nnc+시/nbu+의/jcm
+
+알림종을
+	알림종/ncn+을/jco
+
+올리고
+	올리/pvg+고/ecc
+
+스님이
+	스님/ncn+이/jcc
+
+유유히
+	유유히/mag
+
+사라지더군요
+	사라지/pvg+더군/ef+요/jxf
+
+.
+	./sf
+
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+그렇게
+	그렇/pad+게/ecs
+
+흩어지기도
+	흩/pvg+어/ecx+지/px+기/etn+도/jxc
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+사진속
+	사진/ncn+속/ncn
+
+오른쪽이
+	오르/pvg+ㄴ/etm+쪽/nbn+이/jcc
+
+윗쪽에서
+	윗쪽/ncn+에서/jca
+
+설명해드린
+	설명/ncpa+하/xsva+어/ecx+드리/px+ㄴ/etm
+
+보제루랍니다
+	보제루랍니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+쉬어가고
+	쉬/pvg+어/ecx+가/px+고/ecc
+
+싶다고
+	싶/px+다/ef+고/jcr
+
+한다면
+	하/pvg+ㄴ다면/ecs
+
+이곳
+	이곳/npd
+
+마루에서
+	마루/ncn+에서/jca
+
+앉아서
+	앉/pvg+아/ecx
+
+쉬어가셔도
+	쉬/pvg+어/ecx+가/px+시/ep+어도/ecs
+
+좋아요
+	좋/paa+아/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2011/11/14/218/03102323317A531E7FC32918735460D3004_soh109_PC_DEFAULT_logo.
+	net/blogucc28/2011/11/14/218/03102323317A531E7FC32918735460D3004_soh109_PC_DEFAULT_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'46.
+	'/sr+46./nnc
+
+119';
+	119/ncn+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'6F593D3F45F527C34782B9F35E9BB7398AFC';
+	'6F593D3F45F527C34782B9F35E9BB7398AFC/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1229a0982654994127de18d00d22679809a4e0bb9a76af125d363ef7e2571d1d78a118d00d22679809a4';
+	'V1229a0982654994127de18d00d22679809a4e0bb9a76af125d363ef7e2571d1d78a118d00d22679809a4/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_09872
+	ugcPlayer_09872/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_09872'
+	VideoInfraUGCPlayer('ugcPlayer_09872'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_09872
+	ugcPlayer_09872/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+광각렌즈로
+	광각렌즈/ncn+로/jca
+
+동영상을
+	동영상/ncn+을/jco
+
+찍었더니
+	찍/pvg+었/ep+더니/ecs
+
+사진을
+	사진/ncn+을/jco
+
+흐물흐물
+	흐물흐물/ncn
+
+움직인것만
+	움직이/pvg+ㄴ/etm+것/nbn+만/jxc
+
+같아져요
+	같/paa+아/ecx+지/px+어요/ef
+
+
+그래도
+	그래도/maj
+
+나름
+	나름/nbn
+
+화엄사의
+	화엄사/ncn+의/jcm
+
+모습이
+	모습/ncn+이/jcc
+
+보인답니다
+	보이/pvg+ㄴ답니다/ef
+
+^^
+	^/sy+^/sy
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+많지도
+	많/paa+지/ecs+도/jxc
+
+않고
+	않/px+고/ecc
+
+적당히
+	적당히/mag
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있어서
+	있/px+어서/ecs
+
+오히려
+	오히려/mag
+
+더
+	더/mag
+
+발걸음이
+	발걸음/ncn+이/jcc
+
+가볍기도
+	가볍/paa+기/etn+도/jxc
+
+하였답니다
+	하/px+었/ep+답니다/ef
+
+.
+	./sf
+
+
+대웅전
+	대웅전/ncn
+
+뒷편으로
+	뒷편/ncn+으로/jca
+
+돌아서
+	돌/pvg+아/ecx
+
+가보니
+	가/pvg+아/ecx+보/px+니/ecs
+
+자그만한
+	자그만한/ncn
+
+문이
+	문/ncn+이/jcc
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+지리산에는
+	지리/ncn+산/ncn+에/jca+는/jxc
+
+암자들이
+	암자/ncn+들/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있다고
+	있/px+다/ef+고/jcr
+
+하잖아요
+	하/px+잖아/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+모든
+	모든/mma
+
+암자를
+	암자/ncn+를/jco
+
+어찌
+	어찌/mag
+
+다
+	다/mag
+
+보겠냐마는
+	보/px+겠/ep+냐/ef+마는/jxf
+
+..
+	./sf+./sf
+
+
+그래도
+	그래도/maj
+
+가까운곳을
+	가까운곳/ncn+을/jco
+
+볼까
+	보/px+ㄹ까/ecs
+
+하는
+	하/pvg+는/etm
+
+마음에
+	마음/ncn+에/jca
+
+뒷문으로
+	뒷문/ncn+으로/jca
+
+살짝
+	살짝/mag
+
+나가보기도
+	나가/pvg+아/ecx+보/px+기/etn+도/jxc
+
+하였답니다
+	하/px+었/ep+답니다/ef
+
+.
+	./sf
+
+
+화엄사
+	화엄사/ncn
+
+이야기가
+	이야기/ncpa+가/jcc
+
+너무
+	너무/mag
+
+많아서
+	많/paa+아/ecx
+
+..
+	./sf+./sf
+
+
+워낙에
+	워낙/ncn+에/jca
+
+큰
+	크/paa+ㄴ/etm
+
+사찰이라
+	사찰/ncn+이/jp+라/ecs
+
+보여드릴것도
+	보이/pvg+어/ecx+드리/px+ㄹ/etm+것/nbn+도/jxc
+
+소개해드릴것도
+	소개/ncpa+하/xsva+어/ecx+드리/px+ㄹ/etm+것/nbn+도/jxc
+
+많아서
+	많/paa+아/ecx
+
+따로
+	따로/mag
+
+나눴는데요
+	나누/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+뒷문으로
+	뒷문/ncn+으로/jca
+
+나가면
+	나/pvg+아/ecx+가/px+면/ecs
+
+멋진
+	멋지/paa+ㄴ/etm
+
+단풍길고
+	단풍/ncn+길고/ncn
+
+'구층암'으로
+	'구층암'/ncn+으로/jca
+
+향해볼수
+	향하/pvg+어/ecx+보/px+ㄹ/etm+수/nbn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+각황전
+	각황전/ncn
+
+뒷편으로도
+	뒷편으로/ncn+도/jxc
+
+살짝
+	살짝/mag
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+'적멸보궁'이라고
+	'적멸보궁'/ncn+이/jp+라/ef+고/jcr
+
+만나볼수
+	만나/pvg+아/ecx+보/px+ㄹ/etm+수/nbn
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+더군다나
+	더군다나/mag
+
+화엄사터미널에서
+	화엄사/ncn+터미널/ncn+에서/jca
+
+화엄사로
+	화엄사/ncn+로/jca
+
+거닐어
+	거닐/pvg+어/ecx
+
+올라오다보니
+	올라오다보니/ncn
+
+'연기암'으로
+	'/sr+연기/ncn+암/ncn+'/sr+으로/jca
+
+오르는
+	오르/pvg+는/etm
+
+길목도
+	길목/ncn+도/jxc
+
+있었고
+	있/px+었/ep+고/ecc
+
+..
+	./sf+./sf
+
+
+연기암에
+	연기/ncn+암/ncn+에/jca
+
+오르니
+	오르/pvg+니/ecs
+
+지리산
+	지리/ncn+산/ncn
+
+노고단으로
+	노고/ncn+단/ncn+으로/jca
+
+향하는
+	향하/pvg+는/etm
+
+길이
+	길/ncn+이/jcc
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+그렇게
+	그렇/pad+게/ecs
+
+지리산은
+	지리/ncn+산/ncn+은/jxc
+
+미로와
+	미로/ncn+와/jcj
+
+미로사이로
+	미로/ncn+사이/ncn+로/jca
+
+이뤄진듯이
+	이루/pvg+어/ecx+지/px+ㄴ/etm+듯/nbs+이/jcc
+
+끝이
+	끝/ncn+이/jcc
+
+없이
+	없이/mag
+
+한걸음만
+	한/nnc+걸음/nbu+만/jxc
+
+가면
+	가/px+면/ecs
+
+뭔가
+	뭔가/ncn
+
+있고
+	있/px+고/ecc
+
+또
+	또/maj
+
+조금만
+	조금/ncn+만/jxc
+
+옆으로
+	옆/ncn+으로/jca
+
+가면
+	가/px+면/ecs
+
+또
+	또/maj
+
+다른게
+	다르/paa+ㄴ게/ecs
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+모든걸
+	모든걸/ncn
+
+몇일동안
+	몇/nnc+일/nbu+동안/xsnu
+
+봐도
+	보/px+아/ecs
+
+지리산을
+	지리/ncn+산/ncn+을/jco
+
+모두
+	모두/mag
+
+탐방해봤다고
+	탐방/ncpa+하/xsva+어/ecx+보/px+아/ep+다/ef+고/jcr
+
+하기
+	하/pvg+기/etn
+
+힘들거
+	힘들거/ncn
+
+같다는
+	같/paa+다/ef+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+문득
+	문득/mag
+
+들었습니다
+	들/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+혼자
+	혼자/mag
+
+여행할적마다
+	여행/ncpa+하/xsva+ㄹ/etm+적/nbn+마다/jxc
+
+늘
+	늘/mag
+
+데리고
+	데리/pvg+고/ecc
+
+다니는
+	다니/pvg+는/etm
+
+'토토군'인데요
+	'토토군'인데요/ncn
+
+.
+	./sf
+
+
+구례
+	구례/ncn
+
+여행도~
+	여행/ncpa+도/jxc+~/sd
+
+아주
+	아주/mag
+
+제대로
+	제대로/mag
+
+하였지요
+	하/px+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+그러고
+	그러/pvd+어/ef+고/jcr
+
+보니
+	보/px+니/ecs
+
+올
+	오/px+ㄹ/etm
+
+한해
+	한/nnc+해/nbu
+
+단풍여행은
+	단풍/ncn+여행/ncpa+은/jxc
+
+늘
+	늘/mag
+
+이녀석과
+	이녀석/npp+과/jcj
+
+함께였네요
+	하/pvg+ㅁ/etn+께/jca+이/jp+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+주인
+	주인/ncn
+
+잘
+	잘/mag
+
+만나서
+	만나/pvg+아/ecx
+
+아침형
+	아침/ncn+형/ncn
+
+인간되듯이
+	인간/ncn+되/xsvn+듯이/ecs
+
+새벽에
+	새벽/ncn+에/jca
+
+일어나서
+	일어나/pvg+아/ecx
+
+..
+	./sf+./sf
+
+
+좋은
+	좋/paa+은/etm
+
+여행지는
+	여행지/ncn+는/jxc
+
+모조리
+	모조리/mag
+
+따라
+	따르/pvg+아/ecx
+
+다니며
+	다니/pvg+며/ecc
+
+..
+	./sf+./sf
+
+
+사진도
+	사진/ncn+도/jxc
+
+찍고~
+	찍/pvg+고/ecc+~/sd
+
+복받은
+	복받/pvg+은/etm
+
+곰탱이예요
+	곰탱/ncn+이/jp+예요/ef

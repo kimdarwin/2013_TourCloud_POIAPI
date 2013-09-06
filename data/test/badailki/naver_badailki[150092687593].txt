@@ -1,0 +1,39 @@
+Title:
+PD수첩 4대강 수심 6m의 비밀의 진실_4대강살리기 사업이 대운하 사업이 아닌 이유 
+
+Date:
+2010.08.25 01:51
+
+Content:
+
+PD수첩 4대강 수심 6m의 비밀의 진실_4대강살리기 사업이 대운하 사업이 아닌 이유
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc21/2010/08/25/1437/E3140213AF0A135340232D4973382E43840_badailki_logo.jpg';
+	layout.playtime = '84.92';
+	var qsParam = {};
+	qsParam.vid = '8CD4EAED6C114CFD9F7F305A440167CD0802';
+	qsParam.inKey = 'V127e81a23f01a7a25bc2eaeefb71a5bd30bfd5c2510c4472dda6aeef25dd56bbe7d0eaeefb71a5bd30bf';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_09311 = new VideoInfraUGCPlayer('ugcPlayer_09311' ,bean); 
+ugcPlayer_09311.drawPlayLayer(); 
+}
+
+
+
+	

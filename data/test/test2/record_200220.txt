@@ -1,0 +1,37 @@
+Title:
+2/4 동해 바닷길과 묵호 등대오름길 여행 후기
+
+Date:
+2012.02.04
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(457363,'files/attach/images/64/220/200/b735193f1c129dd4fef3576238774cc9.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/1e00fe63eb1fc9f5b8e74967bc7ea7a6.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/6dcc1093c2fad17ae3d0d2224d4fd1d9.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/6d206e3caddc0b7fa9807f83bf97aa33.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/72438e2969b3e25e35b4cf5e6bea8a40.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/3d027aa442265b21c424f54fa6cc7dba.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/23b15ab7ee3811a48ffc132eeb0c74b9.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/1944767922d7b1dd597897d60820208c.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/94901b706362f9ac8e68a17bdf3bd0a0.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/1a0df9110d587f5952bd4f4d6ed0cc4d.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/f9a4e7d81e621de6c5c8bb2ea5c83a51.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/da8af30abda3eb2f4483abacb164e095.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/b64e50a10f08e3ec77397e35ce973df3.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/26829362f359c56a4e1c79ac3f897d80.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/8348522df0567bb3d16782ac8973ca61.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/205a4cd34942164a16b8f6e40d05d25b.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/383881e803d9a2326e3d4608a2bf378f.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/9ae54eab8f4a1a79736f8d40f4048698.jpg');
+list_gallery_add_image(457363,'files/attach/images/64/220/200/9f1bdba5aeaedf01ab94046bb8fcf0cd.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 2월 4일(토) 동해 바닷길과 묵호 등대오름길 그리고 추암해변을 돌아보는 여행을 다녀왔습니다. 매서운 한파 끝에 입춘인 오늘은 그야말로 봄 날씨 같은 하루였습니다. 강원도로 이동하는 길에는 아직 흰 눈이 그대로 남아있지만 그래도 확 풀린 날씨가 기분까지 가볍게 해주더군요.
+먼저 동해 대진항에 도착하여 바다를 따라 걷기가 시작되었습니다. 파란 하늘과 파란 바다 그리고 너무도 투명한 물빛과 갈매기… 바다에도 봄이 찾아온 듯 하더군요. 어느 정도 걷다 보니 싱그러운 바다내음이 바람을 타고 날아옵니다. 잠깐 바닷가로 내려서니 파도에 떠밀려온 미역을 채취하는 아저씨의 손길이 분주하더군요. 자연산 바다 미역이라며 일일이 낚싯대 같은 도구로 하나하나 건져올립니다. 해초류 냄새와 그리고 파릇한 색상만으로도 봄이 성큼 다가온듯합니다.
+곧 모래가 고운 어달리해수욕장을 지나고 아늑한 어달항을 지나면 까막바위에 도착합니다. 약 한 시간 정도 바닷길 걷기를 하고 묵호 등대오름길을 돌아볼 차례입니다. 비탈진 마을에 출렁다리를 놓고 예쁜 벽화를 그려 삭막한 어촌마을은 요즘 찾아오는 사람들로 활력이 돌기 시작한 곳입니다.
+등대오름길 정상에 있는 묵호등대를 돌아보고 벽화마을로 내려섭니다. 아기자기한 그림들 그리고 구구절절한 사연 담긴 시들이 눈에 들어옵니다. 등대오름길은 짧지만 아기자기한 볼거리와 굴곡진 삶과 언제나 눈 돌리면 넘실거리는 푸른 바다가 함께하는 멋진 어촌마을입니다.
+등대오름길을 내려와 인근에서 자유롭게 점심식사를 한 후 묵호어시장도 돌아보았습니다. 싱싱한 대게며 복어처럼 뚱뚱한 도치 등 보는 것만으로도 즐거운 어시장입니다. 그리고 막 배가 들어왔는지 먹 잡은 생선을 부려놓고 바로 경매를 하는 모습도 너무 신기하기만 하더군요. 
+묵호어시장까지 돌아본 후 추암해변도 잠깐 들렀습니다. 추암해변 전망대에 올라 촛대바위와 형제바위가 우뚝 솟아오른 해안 경치와 독특한 바위군을 돌아보며 이번 여행을 마무리하였습니다.
+오늘은 그야말로 봄맞이 여행을 다녀온 듯합니다. 요즘 맹추위 때문에 잔뜩 움츠렸던몸과 마음도 한결 가벼워진 느낌이네요. 입춘이라는 절기에 딱 맞게 날씨도 따뜻하였고 푸른 파도 넘실거리는 바다를 온종일 함께할 수 있었던 시간들로 다시 시작되는 한 주도 건강하고 활기차게 보내시기 바랍니다~
+이 게시물을...

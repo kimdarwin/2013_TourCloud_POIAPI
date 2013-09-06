@@ -1,0 +1,1108 @@
+[
+	[/sl
+
+제주여행
+	제주/ncn+여행/ncpa
+
+/
+	//sp
+
+우도
+	우/ncn+도/jxc
+
+비양도
+	비/xp+양/ncn+도/jxc
+
+]
+	]/sr
+
+제주
+	제주/ncn
+
+섬
+	서/pvg+ㅁ/etn
+
+속의
+	속/ncn+의/jcm
+
+섬
+	서/pvg+ㅁ/etn
+
+우도,
+	우/ncn+도/jxc+,/sp
+
+우도
+	우/ncn+도/jxc
+
+섬
+	서/pvg+ㅁ/etn
+
+속의
+	속/ncn+의/jcm
+
+비양도
+	비/xp+양도/ncn
+
+
+제주에는
+	제주/ncn+에/jca+는/jxc
+
+비양도가
+	비/xp+양도/ncn+가/jcs
+
+두
+	두/nnc
+
+군데
+	군데/nbn
+
+있다는
+	있/px+다/ef+는/etm
+
+거
+	것/nbn
+
+아시나요
+	알/pvg+시/ep+나/ef+요/jxf
+
+?
+	?/sf
+
+
+보통
+	보통/mag
+
+비양도
+	비/xp+양/ncn+도/jxc
+
+하면
+	하/pvg+면/ecs
+
+제주
+	제주/ncn
+
+서쪽
+	서쪽/ncn
+
+한림읍의
+	한림읍/ncn+의/jcm
+
+비양도를
+	비/xp+양도/ncn+를/jco
+
+떠
+	뜨/pvg+어/ecx
+
+올리곤
+	올리/pvg+곤/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+제주도는
+	제주/ncn+도/jxc+는/jxc
+
+음[
+	음[/ncn
+
+]과
+	]/sr+과/jcj
+
+양[
+	양[/ncn
+
+]의
+	]/sr+의/jcm
+
+균형에
+	균형/ncn+에/jca
+
+맞게
+	맞/pvg+게/ecs
+
+양쪽
+	양쪽/ncn
+
+날개가
+	날개/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+학으로
+	학/ncn+으로/jca
+
+생각했다고
+	생각/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+동쪽날개는
+	동쪽/ncn+날개/ncn+는/jxc
+
+우도면
+	우도/ncn+이/jp+면/ecs
+
+비양도,
+	비/xp+양/ncn+도/jxc+,/sp
+
+서쪽날개는
+	서쪽/ncn+날개/ncn+는/jxc
+
+제주도
+	제주/ncn+도/jxc
+
+한림읍
+	한림읍/ncn
+
+협재해수욕장
+	협재해수욕장/ncn
+
+비양도
+	비/xp+양도/ncn
+
+
+동비양은
+	동비양/ncn+은/jxc
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+떠오르는
+	떠오르/pvg+는/etm
+
+곳
+	곳/ncn
+
+,서비양은
+	,서비양/ncn+은/jxc
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+지는
+	지/px+는/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+동서균형을
+	동서/ncn+균형/ncn+을/jco
+
+이룬다고
+	이루/pvg+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+우도
+	우/ncn+도/jxc
+
+비양도는
+	비/xp+양/ncn+도/jxc+는/jxc
+
+조선시대
+	조선시대/ncn
+
+효종
+	효종/ncn
+
+4년1653년[358전]
+	4년1653년[358전]/ncn
+
+이원진
+	이원/ncn+진/ncn
+
+목사
+	목사/ncr
+
+당시
+	당시/ncn
+
+탐라기록에
+	탐라기록/ncn+에/jca
+
+의하면
+	의하/pvg+면/ecs
+
+
+염소사육을
+	염소/ncn+사육/ncpa+을/jco
+
+하였던
+	하/px+었/ep+던/etm
+
+곳이라고
+	곳/ncn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+제주
+	제주/ncn
+
+섬
+	서/pvg+ㅁ/etn
+
+속의
+	속/ncn+의/jcm
+
+섬
+	서/pvg+ㅁ/etn
+
+우도,
+	우/ncn+도/jxc+,/sp
+
+우도
+	우/ncn+도/jxc
+
+섬
+	서/pvg+ㅁ/etn
+
+속의
+	속/ncn+의/jcm
+
+비양도를
+	비/xp+양도/ncn+를/jco
+
+찾아본다
+	찾/pvg+아/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+우도봉에
+	우도봉/ncn+에/jca
+
+올라
+	오르/pvg+아/ecx
+
+오른쪽
+	오르/pvg+ㄴ/etm+쪽/nbn
+
+파란
+	파랗/paa+은/etm
+
+바다
+	바/nbn+이/jp+다/ef
+
+위에
+	위/ncn+에/jca
+
+등대가
+	등대/pvg+어/ecx+가/px+아/ecx
+
+있는
+	있/px+는/etm
+
+비양도
+	비/xp+양도/ncn
+
+
+들어가기
+	들/pvg+어/ecx+가/px+기/etn
+
+전에
+	전/nbn+에/jca
+
+만나는
+	만나/pvg+는/etm
+
+비양도
+	비/xp+양/ncn+도/jxc
+
+소라탑
+	소라/ncn+탑/ncn
+
+
+우도에
+	우도/ncn+에/jca
+
+딸린
+	딸리/pvg+ㄴ/etm
+
+비양도는
+	비/xp+양/ncn+도/jxc+는/jxc
+
+육로로
+	육로/ncn+로/jca
+
+연결되어
+	연결/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+등대로
+	등/nbu+대로/jca
+
+가는
+	가/pvg+는/etm
+
+길
+	길/paa+ㄹ/etm
+
+비양도안내석과
+	비/xp+양도/ncn+안내석/ncn+과/jct
+
+기원하면서
+	기원/ncpa+하/xsva+면서/ecc
+
+하나
+	하나/nnc
+
+둘
+	둘/nnc
+
+올린
+	올리/pvg+ㄴ/etm
+
+돌탑들이
+	돌탑/ncn+들/ncn+이/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+현무암으로
+	현무암/ncn+으로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+돌탑
+	돌탑/ncn
+
+소원성취
+	소원성취/ncpa
+
+의자가
+	의자/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이곳에
+	이곳/npd+에/jca
+
+앉으면
+	앉/pvg+으면/ecs
+
+좋은
+	좋/paa+은/etm
+
+기를
+	기/ncn+를/jco
+
+받고
+	받/pvg+고/ecc
+
+나쁜
+	나쁘/paa+ㄴ/etm
+
+기를
+	기/ncn+를/jco
+
+날려버린다고
+	날리/pvg+어/ecx+버리/px+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+솔직하게
+	솔직/ncps+하/xsms+게/ecs
+
+조금은
+	조금/mag+은/jxc
+
+거슬리는
+	거슬리/pvg+는/etm
+
+콘크리트
+	콘크리트/ncn
+
+길
+	길/nbu
+
+
+구지
+	구/pvg+지/ecx
+
+만들어
+	만들/pvg+어/ecx
+
+놓을
+	놓/px+을/etm
+
+이유가
+	이유/ncn+가/jcs
+
+있었을까
+	있/px+었/ep+을까/ef
+
+하는
+	하/pvg+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+해본다
+	하/pvg+어/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+썰물때면
+	썰물/ncn+때/ncn+이/jp+면/ecs
+
+그냥
+	그냥/mag
+
+건널
+	건너/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있을텐데
+	있/paa+을텐데/ecs
+
+
+저
+	저/mmd
+
+콘크리트길이
+	콘크리트/ncn+길/ncn+이/jcc
+
+밀물이
+	밀물/ncn+이/jcc
+
+들어오면
+	들/pvg+어/ecx+오/px+면/ecs
+
+잠긴다
+	잠기/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+콘크리트길이
+	콘크리트/ncn+길/ncn+이/jcc
+
+없었다면
+	없/paa+었/ep+다면/ecs
+
+우도
+	우/ncn+도/jxc
+
+비양도가
+	비/xp+양도/ncn+가/jcs
+
+더
+	더/mag
+
+멋졌을
+	멋지/paa+었/ep+을/etm
+
+것
+	것/nbn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+하는
+	하/pvg+는/etm
+
+아쉬움이
+	아쉬움/ncn+이/jcc
+
+남는다
+	남/pvg+는다/ef
+
+.
+	./sf
+
+
+비양도의
+	비/xp+양도/ncn+의/jcm
+
+등대는
+	등대/ncn+는/jxc
+
+특이하다
+	특이/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+노랑색과
+	노랑색/ncn+과/jcj
+
+검은색
+	검은색/ncn
+
+어디서
+	어디/npd+서/jca
+
+많이
+	많/paa+이/xsa
+
+본
+	보/px+ㄴ/etm
+
+칼라
+	칼라/ncn
+
+
+꿀벌캐릭터를
+	꿀벌/ncn+캐릭터/ncn+를/jco
+
+그리면
+	그리/pvg+면/ecs
+
+나타나는
+	나타나/pvg+는/etm
+
+노랑색과
+	노랑색/ncn+과/jcj
+
+검은색
+	검은색/ncn
+
+
+왜
+	왜/mag
+
+비양도
+	비/xp+양/ncn+도/jxc
+
+무인등대를
+	무인/ncn+등대/ncn+를/jco
+
+보고
+	보/px+고/ecc
+
+꿀벌이
+	꿀벌/ncn+이/jcc
+
+생각나는
+	생각나/pvg+는/etm
+
+것일까
+	것/nbn+이/jp+ㄹ까/ef
+
+
+비양도에는
+	비/xp+양도/ncn+에/jca+는/jxc
+
+해녀들이
+	해녀/ncn+들/ncn+이/jcc
+
+직접
+	직접/mag
+
+따
+	뜨/pvg+어/ecx
+
+온
+	오/px+ㄴ/etm
+
+소라와
+	소라/ncn+와/jcj
+
+해삼,
+	해삼/ncn+,/sp
+
+문어를
+	문어/ncn+를/jco
+
+직접
+	직접/mag
+
+손질해서
+	손질/ncpa+하/xsva+어서/ecs
+
+판매한다
+	판매/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+소박하면서도
+	소박/ncps+하/xsms+면서/ecs+도/jxc
+
+어느
+	어느/mmd
+
+맛집
+	맛집/ncn
+
+보다
+	보다/mag
+
+싱싱한
+	싱싱/ncps+하/xsms+ㄴ/etm
+
+최고의
+	최고/ncn+의/jcm
+
+맛이다
+	맛/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+먹느라
+	먹/pvg+느라/ecs
+
+정신이
+	정신/ncn+이/jcc
+
+없어서
+	없/paa+어서/ecs
+
+인증사진도
+	인증/ncpa+사진/ncn+도/jxc
+
+못
+	못/mag
+
+찍고
+	찍/pvg+고/ecc
+
+
+톳과
+	톳/ncn+과/jcj
+
+미역이
+	미역/ncn+이/jcc
+
+함께
+	함께/mag
+
+나오고
+	나오/pvg+고/ecc
+
+
+생각은
+	생각/ncpa+은/jxc
+
+가물가물하지만
+	가물가물하/pvg+지/ecx+말/px+ㄴ/etm
+
+소라구이
+	소라/ncn+구/ncn+이/jcc
+
+만원,
+	만/nnc+원/nbu+,/sp
+
+소라회
+	소라/ncn+회/ncn
+
+2만원,
+	2/nnc+만/nnc+원/nbu+,/sp
+
+해삼2만원으로
+	해삼2만원/ncn+으로/jca
+
+기억이
+	기억/ncpa+이/jcc
+
+난다
+	나/px+ㄴ다/ef
+
+.
+	./sf
+
+
+우도
+	우/mag+도/jxc
+
+다른
+	다른/mma
+
+맛집에서
+	맛집/ncn+에서/jca
+
+먹은
+	먹/pvg+은/etm
+
+사진으로
+	사진/ncn+으로/jca
+
+대체한다
+	대체/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+뿔소라
+	뿔소라/ncn
+
+몇
+	몇/nnc
+
+개를
+	개/nbu+를/jco
+
+얻어서
+	얻/pvg+어서/ecs
+
+비양도의
+	비/xp+양도/ncn+의/jcm
+
+등대와
+	등대/ncn+와/jcj
+
+주변
+	주변/ncn
+
+경관과
+	경관/ncn+과/jct
+
+함께
+	함께/mag
+
+담아본다
+	담/pvg+아/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+크로스
+	크로스/ncpa
+
+필터를
+	피/pvg+ㄹ/etm+터/nbn+를/jco
+
+이용
+	이용/ncpa
+
+빛
+	빛/ncn
+
+갈라짐까지
+	갈라짐/ncn+까지/jca
+
+
+멋지지요
+	멋지/paa+지요/ef
+
+
+작은
+	작/paa+은/etm
+
+언덕에
+	언덕/ncn+에/jca
+
+오르니
+	오르/pvg+니/ecs
+
+망대가
+	망대/ncn+가/jcs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+우도에는
+	우도/ncn+에/jca+는/jxc
+
+두개의
+	두/nnc+개/nbu+의/jcm
+
+망대가
+	망대/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+모두
+	모두/mag
+
+우도의
+	우도/ncn+의/jcm
+
+북쪽에
+	북쪽/ncn+에/jca
+
+있어서
+	있/px+어서/ecs
+
+우리나라
+	우리나라/ncn
+
+남해안쪽을
+	남해안/ncn+쪽/ncn+을/jco
+
+관찰하게되어
+	관찰/ncpa+하/xsva+게/ecx+되/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+망대를
+	망대/ncn+를/jco
+
+쌓은
+	쌓/pvg+은/etm
+
+시기는
+	시기/ncn+는/jxc
+
+1948년
+	1948/nnc+년/nbu
+
+제주도
+	제주/ncn+도/jxc
+
+4.3사건
+	4.3/nnc+사/nnc+이/jp+건/ecc
+
+당시
+	당시/ncn
+
+우도
+	우/ncn+도/jxc
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+의해
+	의하/pvg+어/ecs
+
+만들어
+	만들/pvg+어/ecx
+
+졌다
+	지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+푸른바다와
+	푸르/paa+ㄴ/etm+바/nbn+답/xsmn+어/ecx
+
+푸른하늘이
+	푸른하늘/ncn+이/jcc
+
+이쁘다
+	이쁘/paa+다/ef
+
+못해
+	못하/pvg+어/ecx
+
+매력적이다
+	매력/ncn+적/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+거기에
+	거기/npd+에/jca
+
+검은
+	걸/pvg+ㅁ/etn+은/jxc
+
+현무암까지
+	현무암/ncn+까지/jxc
+
+가세하니
+	가세/ncpa+하/xsva+니/ecs
+
+더
+	더/mag
+
+멋지다는
+	멋지/paa+다는/etm
+
+
+이쪽방향은
+	이쪽/ncn+방향/ncn+은/jxc
+
+하고수동해수욕장으로
+	하고수동해수욕장/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+방향
+	방향/ncn
+
+
+검벌개
+	검벌개/ncn
+
+동안경굴로
+	동안경굴/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+길에
+	길/ncn+에/jca
+
+담은
+	담/pvg+은/etm
+
+비양도
+	비/xp+양/ncn+도/jxc
+
+갈매기들이
+	갈매기/ncn+들/ncn+이/jcc
+
+한바탕
+	한바탕/mag
+
+몰려와서
+	몰리/pvg+어/ecx+오/px+아/ecx
+
+250mm
+	250mm/ncn
+
+망원으로
+	망원/ncn+으로/jca
+
+당겨보지만
+	당기/pvg+어/ecx+보/px+지만/ecs
+
+
+바다
+	바다/ncn
+
+색깔
+	색깔/ncn
+
+정말
+	정말/mag
+
+죽인다
+	죽/ncn+이/jp+ㄴ다/ef
+
+.
+	./sf
+
+
+우도에
+	우도/ncn+에/jca
+
+가시면
+	가/px+시/ep+면/ecs
+
+비양도에
+	비/xp+양도/ncn+에/jca
+
+꼭
+	꼭/mag
+
+들려서
+	들리/pvg+어서/ecs
+
+소원성취의자에
+	소원성취/ncpa+의자/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+좋은
+	좋/paa+은/etm
+
+기도
+	기/ncn+도/jxc
+
+받고,
+	받/pvg+고/ecc+,/sp
+
+
+맛있는
+	맛있/paa+는/etm
+
+소라도
+	소/ncn+이/jp+라도/ecs
+
+드시고
+	드/ncn+이/jp+시/ep+고/ecc
+
+
+멋진
+	멋지/paa+ㄴ/etm
+
+절경에
+	절경/ncn+에/jca
+
+취해
+	취하/pvg+어/ecx
+
+보시기를
+	보/px+시/ep+기/etn+를/jco
+
+~~~
+	~/sd+~/sd+~/sd

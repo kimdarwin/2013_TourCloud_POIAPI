@@ -1,0 +1,381 @@
+푸르른
+	푸르른/ncn
+
+하늘아래
+	하늘/ncn+아래/ncn
+
+경복궁을
+	경복궁/ncn+을/jco
+
+찾은
+	찾/pvg+은/etm
+
+오늘
+	오늘/ncn
+
+하루는
+	하루/ncn+는/jxc
+
+너무나도
+	너무나/mag+도/jxc
+
+설레였다~
+	설레이/pvg+었/ep+다/ef+~/sd
+
+!!
+	!/sf+!/sf
+
+
+3,000원으로
+	3,000/nnc+원/nbu+으로/jca
+
+즐길수
+	즐기/pvg+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+최고의
+	최고/ncn+의/jcm
+
+여행지라
+	여행지/ncn+이/jp+라/ecs
+
+해도
+	하/pvg+어도/ecs
+
+과언이
+	과언/ncn+이/jcc
+
+아닐듯
+	아니/paa+ㄹ/etm+듯/nbs
+
+함
+	하/pvg+ㅁ/etn
+
+]
+	]/sr
+
+
+후문은
+	후문/ncn+은/jxc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+나가는
+	나/pvg+아/ecx+가/px+는/etm
+
+문이기도
+	문/ncn+이/jp+기/etn+도/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+이곳은
+	이곳/npd+은/jxc
+
+텅
+	텅/mag
+
+비어있으면서도
+	비/paa+어/ecx+있/px+으면/ecs+서도/jxc
+
+너무나도
+	너무나/mag+도/jxc
+
+깔끔하게
+	깔끔/ncps+하/xsms+게/ecs
+
+이쁘다
+	이쁘/paa+다/ef
+
+..
+	./sf+./sf
+
+
+큰
+	크/paa+ㄴ/etm
+
+나무
+	나무/ncn
+
+아래
+	아래/ncn
+
+있는
+	있/px+는/etm
+
+커다란
+	커다랗/paa+은/etm
+
+벤츠에서
+	벤츠/ncn+에서/jca
+
+얼마나
+	얼마나/mag
+
+쉬고
+	쉬/pvg+고/ecc
+
+싶던지
+	싶/px+더/ep+ㄴ지/ecs
+
+.....
+	./sy+.../se+./sy
+
+....
+	.../se+./sf
+
+
+다리가
+	다리/ncn+가/jcs
+
+너무
+	너무/mag
+
+아파서인지
+	아파서인지/ncn
+
+쉬기엔
+	쉬/pvg+기/etn+엔/jca
+
+너무
+	너무/mag
+
+행복했다지
+	행복했다/ncn+이/jp+지/ecs
+
+
+미묘하게
+	미묘/ncps+하/xsms+게/ecs
+
+작은
+	작/paa+은/etm
+
+궁들
+	궁/ncn+들/xsncc
+
+..
+	./sf+./sf
+
+
+안채들이
+	안채/ncn+들/ncn+이/jcc
+
+한가득이다
+	한가/ncps+득/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+그
+	그/mmd
+
+옛날엔
+	옛날/ncn+엔/jca
+
+..
+	./sf+./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+넓은곳을
+	넓은곳/ncn+을/jco
+
+어찌
+	어찌/mag
+
+왔다
+	오/px+아/ep+다/ef
+
+갔다
+	가/px+아/ep+다/ef
+
+했을까
+	하/px+었/ep+을까/ef
+
+..
+	./sf+./sf
+
+
+더군다나
+	더군다나/mag
+
+중전이
+	중전/ncn+이/jcc
+
+직무
+	직무/ncn
+
+보능곳은
+	보능곳/ncn+은/jxc
+
+창덕궁에
+	창덕궁/ncn+에/jca
+
+있거늘
+	있/px+거늘/ecs
+
+..
+	./sf+./sf
+
+
+그
+	그/mmd
+
+거리를
+	거리/ncn+를/jco
+
+어찌
+	어찌/mag
+
+..
+	./sf+./sf
+
+
+왕은
+	왕/ncr+은/jxc
+
+직접
+	직접/mag
+
+갔을가나
+	갔을가나/ncn
+
+..
+	./sf+./sf
+
+
+물론
+	물론/mag
+
+가마타고
+	가마타/pvg+고/ecc
+
+가야만
+	가/pvg+아/ecx+말/px+ㄴ/etm
+
+했을거
+	했을거/ncn
+
+같당
+	같당/ncn
+
+
+고작
+	고작/mag
+
+..
+	./sf+./sf
+
+
+뒷뜰이지만
+	뒷뜰/ncn+이/jp+지만/ecs
+
+..
+	./sf+./sf
+
+
+담벼락이며
+	담벼락/ncn+이/jp+며/ecc
+
+..
+	./sf+./sf
+
+
+가왓장이며
+	가왓장/ncn+이/jp+며/ecc
+
+..
+	./sf+./sf
+
+
+푸르른
+	푸르른/ncn
+
+나무이며
+	나무/ncn+이/jp+며/ecc
+
+..
+	./sf+./sf
+
+
+너무나도
+	너무나/mag+도/jxc
+
+아름답다
+	아름답/paa+다/ef
+
+..
+	./sf+./sf
+
+
+뒷뜰이지만
+	뒷뜰/ncn+이/jp+지만/ecs
+
+..
+	./sf+./sf
+
+
+옹기종기
+	옹기종기/mag
+
+있는것이
+	있/px+는/etm+것/nbn+이/jcc
+
+너무
+	너무/mag
+
+예쁘당
+	예쁘당/ncn
+
+..
+	./sf+./sf
+
+
+저곳에서라도
+	저곳/npd+에서/jca+라도/jxc
+
+살수
+	사/pvg+ㄹ/etm+수/nbn
+
+있다면
+	있/paa+다면/ecs
+
+
+곳곳에
+	곳곳/ncn+에/jca
+
+피어나있는
+	피/pvg+어/ecx+나/px+아/ecx+있/px+는/etm
+
+벚꽃
+	벚꽃/ncn
+
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/soh109/80067118199
+	com/soh109/ncn+//sp+80067118199/nnc
+
+
+Canon
+	Canon/f
+
+PowerShot
+	PowerShot/f
+
+G10
+	G10/ncn

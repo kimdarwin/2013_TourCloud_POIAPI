@@ -1,0 +1,919 @@
+강천산군립공원
+	강천산군립공원/ncn
+
+
+전라북도
+	전라/ncn+북도/ncn
+
+>
+	>/sr
+
+순창군
+	순창군/ncn
+
+>
+	>/sr
+
+팔덕면
+	팔덕면/ncn
+
+
+기간
+	기간/ncn
+
+2010.
+	2010./nnc
+
+5.
+	5./nnc
+
+17~
+	17/nnc+~/sd
+
+2010.
+	2010./nnc
+
+5.
+	5./nnc
+
+17(1일)
+	17/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+나
+	나/npp
+
+홀로
+	홀로/mag
+
+떠나는
+	떠나/pvg+는/etm
+
+여행
+	여행/ncpa
+
+
+경로
+	경로/ncn
+
+
+광주광천터미널
+	광주광천터미널/ncn
+
+순창강천산군립공원
+	순창강천산군립공원/ncn
+
+병풍폭포
+	병풍/ncn+폭포/ncn
+
+강천사
+	강천사/ncn
+
+현수교
+	현수교/ncn
+
+구장군폭포
+	구장군폭포/ncn
+
+성테마공원
+	성테마공원/ncn
+
+광주광역시
+	광주광역시/ncn
+
+
+특별히
+	특별히/mag
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+곳
+	곳/nbu
+
+
+강천사를가고자한것이기도하였다
+	강천사를가고자한것이기도하/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+아주아주자그마한사찰이다
+	아주아주자그마한사찰/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+조용하고평화롭고
+	조용하고평화롭고/ncn
+
+.....
+	./sy+.../se+./sy
+
+.
+	./sf
+
+
+병풍폭포를지날때면보기만해도너무시원하고그밑으로는송어들이가득하다
+	병풍폭포를지날때면보기만해도너무시원하고그밑으로는송어들이가득하/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+강천산에서는곳곳에송어떼들이있다
+	강천산에서는곳곳에송어떼들이있다/ncn
+
+.
+	./sf
+
+
+여행팁
+	여행/ncpa+팁/ncn
+
+
+전라북도순창군문화관광http://tour.
+	전라북도순창군문화관광http://tour./ncn
+
+sunchang.
+	sunchang/f+./sy
+
+go.
+	go/f+./sy
+
+kr
+	kr/f
+
+
+광주-순창강천사
+	광주-순창강천사/ncn
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+usquare.
+	usquare/f+./sy
+
+co.
+	co/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+광주-순창강천사(1시간30분,4800냥)
+	광주-순창강천사(1시간30분,4800냥)/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+usquare.
+	usquare/f+./sy
+
+co.
+	co/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+0810,0850,0950,1030,1125,0130,0210,0250,0330,0410
+	0810/nnc+,/sp+0850/nnc+,/sp+0950/nnc+,/sp+1030/nnc+,/sp+1125/nnc+,/sp+0130/nnc+,/sp+0210/nnc+,/sp+0250/nnc+,/sp+0330/nnc+,/sp+0410/nnc
+
+
+순창강천사-광주(1시간30분,4800냥)
+	순창강천사-광주(1시간30분/ncn+,/sp+4800/nnc+냥/nbu+)/sr
+
+
+1000,1105,1210,0110,0220,0320,0350,0420,0500,0600
+	1000/nnc+,/sp+1105/nnc+,/sp+1210/nnc+,/sp+0110/nnc+,/sp+0220/nnc+,/sp+0320/nnc+,/sp+0350/nnc+,/sp+0420/nnc+,/sp+0500/nnc+,/sp+0600/nnc
+
+
+강천산군립공원입장료\1,000냥
+	강천산군립공원입장료\1/ncn+,/sp+000/nnc+냥/nbu
+
+
+입구에서병풍폭포-강천사-현수교-구장군폭포-성테마공원코스로천천히산책하면서거닐면3-4시간정도소요된다
+	입구에서병풍폭포-강천사-현수교-구장군폭포-성테마공원코스로천천히산책하면서거닐면3-4시간정도소요된다/ncn
+
+.
+	./sf
+
+
+강천산에
+	강천산/ncn+에/jca
+
+도착해서
+	도착/ncpa+하/xsva+어서/ecs
+
+거닐다
+	거닐/pvg+다/ef
+
+보면
+	보/px+면/ecs
+
+..
+	./sf+./sf
+
+
+첫번째로
+	첫/nno+번/nbu+째/xsnu+로/jca
+
+반겨주는것은
+	반기/pvg+어/ecx+주/px+는/etm+것/nbn+은/jxc
+
+병풍폭포이다
+	병풍/ncn+폭포/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+보기만
+	보/px+기/etn+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+너무
+	너무/mag
+
+시원해서
+	시원/ncn+해서/ncn
+
+한동안
+	한동안/ncn
+
+이자리에
+	이/nnc+자리/nbu+에/jca
+
+그대로
+	그대로/mag
+
+머물러
+	머무르/pvg+어/ecx
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+병풍폭포비단처럼
+	병풍/ncn+폭포/ncn+비단/ncn+처럼/jca
+
+휘감고
+	휘감/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+폭포로
+	폭포/ncn+로/jca
+
+높이
+	높이/mag
+
+40m,
+	40m,/ncn
+
+물폭
+	물/pvg+ㄹ/etm+폭/nbn
+
+15m,
+	15m,/ncn
+
+낙수량이
+	낙수량/ncn+이/jcc
+
+분당
+	분당/ncpa
+
+5t이며,
+	5t/ncn+이며/jcj+,/sp
+
+
+작은
+	작/paa+은/etm
+
+폭포는
+	폭포/ncn+는/jxc
+
+높이
+	높이/mag
+
+30m,
+	30m,/ncn
+
+물폭
+	물/pvg+ㄹ/etm+폭/nbn
+
+5m로
+	5m/ncn+로/jca
+
+전설에
+	전설/ncn+에/jca
+
+의하면
+	의하/pvg+면/ecs
+
+병풍
+	병풍/ncn
+
+바위밑을
+	바위/ncn+밑/ncn+을/jco
+
+지나온
+	지나/pvg+아/ecx+오/px+ㄴ/etm
+
+사람은
+	사람/ncn+은/jxc
+
+죄진
+	죄진/ncn
+
+사람도
+	사람/ncn+도/jxc
+
+깨끗해진다는
+	깨끗해지/pvg+ㄴ다/ef+는/etm
+
+얘끼가
+	얘끼/ncn+가/jcs
+
+전해
+	전하/pvg+어/ecx
+
+내려오고
+	내리/pvg+어/ecx+오/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+송어
+	송어/ncn
+
+서식지라
+	서식지/ncn+이/jp+라/ecs
+
+할정도로
+	할정도/ncn+로/jca
+
+송어들이
+	송어/ncn+들/ncn+이/jcc
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+곳곳에
+	곳곳/ncn+에/jca
+
+계곡
+	계곡/ncn
+
+물
+	물/pvg+ㄹ/etm
+
+속에도
+	속/ncn+에/jca+도/jxc
+
+송어들이
+	송어/ncn+들/ncn+이/jcc
+
+살고
+	살/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+정말
+	정말/mag
+
+조용하기
+	조용/ncn+하기/ncn
+
+그지
+	그/npd+이/jp+지/ecs
+
+없는
+	없/paa+는/etm
+
+사찰이다
+	사찰/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+스님들도
+	스님/ncn+들/ncn+도/jxc
+
+안보이고
+	안보/ncn+이/jp+고/ecc
+
+..
+	./sf+./sf
+
+
+연등은
+	열/pvg+ㄴ/etm+등/nbn+은/jxc
+
+달려고
+	달리/pvg+어/ef+고/jcr
+
+깃대는
+	깃대/ncn+는/jxc
+
+달아놓았는데
+	달/paa+아/ecx+놓/px+아/ep+ㄴ데/ecs
+
+아직
+	아직/mag
+
+연등은
+	열/pvg+ㄴ/etm+등/nbn+은/jxc
+
+안달았다
+	안달았다/ncn
+
+.
+	./sf
+
+
+순창
+	순창/ncn
+
+삼인대(
+	삼/nnc+인/nbu+대/xsnu+(/sl
+
+)
+	)/sr
+
+:
+	:/sp
+
+전라북도
+	전라/ncn+북/ncn+도/jxc
+
+유형문화재
+	유형문화재/ncn
+
+제27호조선
+	제27호조선/ncn
+
+중종
+	중종/ncn
+
+10년(1515년)에
+	10년(1515년)/ncn+에/jca
+
+폐비
+	폐비/ncpa
+
+신씨의
+	신/xp+씨/ncn+의/jcm
+
+복위를
+	복위/ncpa+를/jco
+
+주청하는
+	주청하/ncn+는/jxc
+
+상소를
+	상소/ncpa+를/jco
+
+올린
+	올리/pvg+ㄴ/etm
+
+순창군수
+	순창군수/ncn
+
+김정,
+	김정,/ncn
+
+담양부사
+	담양부사/ncn
+
+박상,
+	박/ncn+상/xsncc+,/sp
+
+무안현감
+	무안/ncps+현감/ncr
+
+류옥의
+	류옥/ncn+의/jcm
+
+
+행적을
+	행적/ncn+을/jco
+
+기념하기
+	기념/ncpa+하/xsva+기/etn
+
+위한곳이다
+	위한/ncn+곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+폐위된
+	폐위/ncpa+되/xsvn+ㄴ/etm
+
+연산군의
+	연산/ncn+군/ncn+의/jcm
+
+처남으로
+	처남/ncn+으로/jca
+
+중종반정때
+	중종반정/ncn+때/ncn
+
+피살된
+	피살/ncpa+되/xsvn+ㄴ/etm
+
+좌의정
+	좌의정/ncn
+
+신수근의
+	신수/ncn+근/ncn+의/jcm
+
+딸인
+	딸/ncn+이/jp+ㄴ/etm
+
+폐비신씨는
+	폐비신씨/ncn+는/jxc
+
+후환을
+	후환/ncn+을/jco
+
+염려한
+	염려/ncpa+하/xsva+ㄴ/etm
+
+반정공신
+	반정/ncpa+공신/ncn
+
+박원종등에
+	박원종등/ncn+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+폐출되었다
+	폐출되/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+후
+	후/ncn
+
+새
+	새/mma
+
+왕비가
+	왕비/ncn+가/jcs
+
+된
+	되/pvg+ㄴ/etm
+
+장경왕후
+	장경/ncn+왕후/ncr
+
+윤씨가
+	윤씨/ncn+가/jcs
+
+사망하자,
+	사망/ncpa+하/xsva+자/ecc+,/sp
+
+이
+	이/mmd
+
+세
+	세/nnc
+
+사람은
+	사람/ncn+은/jxc
+
+각자의
+	각자/ncn+의/jcm
+
+직인을
+	직인/ncn+을/jco
+
+소나무
+	소나무/ncn
+
+가지에
+	가지/nbu+에/jca
+
+걸고,
+	걸/pvg+고/ecc+,/sp
+
+관직에서
+	관직/ncn+에서/jca
+
+물러남은
+	무르/pvg+어/ecx+나/px+ㅁ/etn+은/jxc
+
+물론
+	물론/mag
+
+죽음을
+	죽음/ncn+을/jco
+
+
+각오하고
+	각오/ncpa+하고/jct
+
+신씨의
+	신/xp+씨/ncn+의/jcm
+
+복위
+	복위/ncpa
+
+상소를
+	상소/ncpa+를/jco
+
+올렸다
+	올리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+후에
+	후/ncn+에/jca
+
+유림들은
+	유림/ncn+들/ncn+은/jxc
+
+이들을
+	이/ncn+들/xsncc+을/jco
+
+추모하기
+	추모/ncpa+하/xsva+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+비와
+	비/ncn+와/jct
+
+함께
+	함께/mag
+
+비각을
+	비각/ncn+을/jco
+
+세우고
+	세우/pvg+고/ecc
+
+삼인대라고
+	삼/nnc+인/nbu+대/xsnu+이/jp+라/ef+고/jcr
+
+불렀다
+	부르/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+삼인이란
+	삼/nnc+인/nbu+이란/jxc
+
+세개의
+	세/nnc+개/nbu+의/jcm
+
+인장이라는
+	인장/ncpa+이/jp+라/ef+는/etm
+
+뜻이다
+	뜻/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+강천사
+	강천사/ncn
+
+석탑
+	석탑/ncn
+
+:
+	:/sp
+
+전라북도
+	전라/ncn+북/ncn+도/jxc
+
+유형문화재
+	유형문화재/ncn
+
+제92호이
+	제92호/ncn+이/jcc
+
+탑은
+	탑/ncn+은/jxc
+
+고려
+	고려/ncpa
+
+충숙왕
+	충숙왕/ncn
+
+3년(1316)에
+	3년(1316)/ncn+에/jca
+
+덕현스님이
+	덕현스님/ncn+이/jcc
+
+강천사를
+	강천사/ncn+를/jco
+
+다시
+	다시/mag
+
+지을
+	지/px+ㄹ/etm
+
+때
+	때/ncn
+
+세운것이다
+	세우/pvg+ㄴ/etm+것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+화강암으로
+	화강암/ncn+으로/jca
+
+정교하게
+	정교/ncps+하/xsms+게/ecs
+
+만든
+	만들/pvg+ㄴ/etm
+
+오층탑으로
+	오층탑/ncn+으로/jca
+
+다보탑이라고도
+	다보탑/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+부른다.
+	부르/pvg+ㄴ다/ef+./sf
+
+2,
+	2/nnc+,/sp
+
+3,
+	3/nnc+,/sp
+
+4층의
+	4/nnc+층/nbu+의/jcm
+
+덮개돌에는
+	덮개/ncn+돌/ncn+에/jca+는/jxc
+
+625때
+	625/nnc+때/xsnx
+
+총탄을
+	총탄/ncn+을/jco
+
+맞은
+	맞/pvg+은/etm
+
+흔적이
+	흔적/ncn+이/jcc
+
+남아있다
+	남/pvg+아/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+강천사는
+	강천사/ncn+는/jxc
+
+풍수지리설을
+	풍수지리/ncn+설/ncn+을/jco
+
+체계화한
+	체계화/ncpa+하/xsva+ㄴ/etm
+
+도선
+	도서/pvg+ㄴ/etm
+
+국사가
+	국사/ncn+가/jcs
+
+신라
+	신/xp+라/ncn
+
+진성여왕
+	진성여왕/ncn
+
+1년(887)에
+	1년(887)/ncn+에/jca
+
+지은
+	지/px+ㄴ/etm
+
+절이다
+	절/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+임진왜란(1592)과
+	임진왜란(1592)/ncn+과/jcj
+
+한국전쟁(1950-1953)때
+	한국전쟁(1950-1953)때/ncn
+
+이
+	이/mmd
+
+탑을
+	탑/ncn+을/jco
+
+제외한
+	제외/ncpa+하/xsva+ㄴ/etm
+
+경내의
+	경내/ncn+의/jcm
+
+모든
+	모든/mma
+
+건물이
+	건물/ncn+이/jcc
+
+불에
+	불/ncn+에/jca
+
+탄
+	타/pvg+ㄴ/etm
+
+바가
+	바/nbn+가/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+지금의
+	지금/ncn+의/jcm
+
+건물은
+	건물/ncn+은/jxc
+
+1961년도에
+	1961/nnc+년도/nbu+에/jca
+
+지은
+	지/px+ㄴ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf

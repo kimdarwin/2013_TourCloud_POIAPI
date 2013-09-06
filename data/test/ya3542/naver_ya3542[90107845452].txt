@@ -1,0 +1,91 @@
+Title:
+순애보 사랑이야기..수채화 풍경 
+
+Date:
+2011.02.25 16:23
+
+Content:
+
+
+수채화 풍경..와니와 준하 중에서..
+
+
+
+
+수채화 같은 와니와 준하의 사랑 이야기.. 벌써 10년 세월이 흘러갔어도 겨울 끝자락에 불어오는봄의 따스한 입김이 느켜지면
+아주 가끔 와니와 준하의 아주 잔잔한 순정영화~수채와 같은 영상이 떠오르고수채화같은 그들의 사랑이야기가 그리워 진다
+
+
+만화 캐릭터와싱크되는 아름다운영상~ 한 컷..한 컷은 한 폭의 수채화 감동이다
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc25/2011/02/25/1874/03100223E11553BE4AC3293A739A18833C5_ya3542_logo.jpg';
+	layout.playtime = '412.18';
+	var qsParam = {};
+	qsParam.vid = '24FC4DA9E1F7CE55E66056C6A3282113CD28';
+	qsParam.inKey = 'V1297adf41f830ac087456d152daa9b5f309032a764a830f25c5724021f1d792310976d152daa9b5f3090';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = 'MUSIC';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_02596 = new VideoInfraUGCPlayer('ugcPlayer_02596' ,bean); 
+ugcPlayer_02596.drawPlayLayer(); 
+}
+
+
+
+
+
+
+
+와니와 준하는 바보스럽게도참 착하고.. 동화 속 얘기처럼그들 사랑도 예쁘고 착하다
+
+요즘~ 사랑방식= 사랑도 인스탄트 같은..이기적인 사랑보다야.. 바보같은 사랑이 좋다
+
+I Wish You Love~ Lisa Ono (와니와 준하 OST)
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc25/2011/02/25/84/03100223E11553BE4BC3093B73FB3223103_ya3542_logo.jpg';
+	layout.playtime = '246.219';
+	var qsParam = {};
+	qsParam.vid = '13BE739F6E89C6B1E2FBAA262A48BDA140C5';
+	qsParam.inKey = 'V128c99b2d000ed34ec21e7aaad8a72f2b5fcfe946fdab2ffdfc58dcca3eeb381a601e7aaad8a72f2b5fc';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = 'MUSIC';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_07754 = new VideoInfraUGCPlayer('ugcPlayer_07754' ,bean); 
+ugcPlayer_07754.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+
+
+	

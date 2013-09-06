@@ -1,0 +1,26 @@
+Title:
+1/15 태안 솔모랫길 걷기 후기
+
+Date:
+2012.01.16
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(924241,'files/attach/images/64/090/198/1378985b49d19cb71aea395cc7738725.jpg');
+list_gallery_add_image(924241,'files/attach/images/64/090/198/62c070223e1ceab033f81ac70315f00a.jpg');
+list_gallery_add_image(924241,'files/attach/images/64/090/198/68203fb7fc7ce4dc78763c14aec7d8d0.jpg');
+list_gallery_add_image(924241,'files/attach/images/64/090/198/f75ecb0be8a623009dc76dd97190d5e7.jpg');
+list_gallery_add_image(924241,'files/attach/images/64/090/198/24be1f338bfffb1d56f4ec3b25088ade.jpg');
+list_gallery_add_image(924241,'files/attach/images/64/090/198/87d9179038f053b94b9e1ab320ffd261.jpg');
+list_gallery_add_image(924241,'files/attach/images/64/090/198/c2ef2f2aba1f1de2a62ba9d767a59bd9.jpg');
+list_gallery_add_image(924241,'files/attach/images/64/090/198/34fe845e0fd6aef9e372398cfa3bf8ea.jpg');
+list_gallery_add_image(924241,'files/attach/images/64/090/198/5ef671bc2a6fba81451c1328248d4edd.jpg');
+list_gallery_add_image(924241,'files/attach/images/64/090/198/a8bfa37aae53b6666afc8f56af3285e0.jpg');
+list_gallery_add_image(924241,'files/attach/images/64/090/198/7b4d10006a4757b685c7f791763784c4.jpg');
+list_gallery_add_image(924241,'files/attach/images/64/090/198/d8a90bded43274a2098abe225d9ccaf2.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+1월 15일(일) 아름다운 여행으로 태안 솔모랫길과 간월암에 다녀왔습니다. 태안 솔모랫길은 태안해안국립공원 관리공단에서 조성한 해변길입니다. 태안반도의 몽산포해수욕장에서 드르니항까지 약 12.5km의 길입니다. 출발지인 몽산포에서 달산포 청포대까지는 해수욕장과 소나무 숲길을 걷다가 바다를 벗어나 마을길을 걸으며 호수와 염전 지대를 지나 다시 바닷가로 나가는 코스입니다. 거리는 꽤 되지만 오르막이 없이 그리 힘들지 않게 걸을 수 있는 길이죠.
+이 날 솔모랫길은 쓸쓸한 겨울 풍경을 보여 주더군요. 백사장 뒤 풀밭도 허옇게 메말랐고, 소나무숲도 겨우 초록빛을 유지하고 있었습니다. 호숫가의 갈대도 야윌 대로 야위어 곧 바스러져 사라질 것 같더군요. 긴 염전 지대도 버려진 채로 황량했고 염전의 동맥인 수로도 물이 빠져 검은 뻘을 드러내고 있었습니다. 솔모랫길은 이제 버릴 것은 다 버린 빈 풍경으로 남아 있었습니다. 그런 솔모랫길을 걸으며 겨울이 깊어졌음을 느낄 수 있었습니다. 겨울이 깊어진 뒤에는 곧 봄을 준비하겠죠. 땅이 녹으면 그 땅에서 새 생명이 꿈틀대고 겨울을 피해 동면에 들어갔던 생명들도 꽃샘추위 속에서 기지개를 켜겠지요. 어제 솔모랫길을 걸으며 요즘이 겨울의 절정이 아닌가 하는 생각을 했습니다. 솔모랫길을 걸은 뒤 간월도로 이동해서 늦은 점심을 먹고 간월암을 살짝 돌아보고 여행을 마무리했습니다.
+이 날 여행은 날이 춥지 않아 다행이었습니다. 걷기에는 무난한 날씨였습니다. 다만 제가 진행을 매끄럽게 하지 못해 좀더 넉넉한 여행을 만들지 못했던 것 같습니다. 이 점 다시 사과 드리며 너그러운 이해를 부탁 드립니다. 이번 여행에 참여하신 분들 모두 여행의 피로 빨리 푸시고 활기차게 한 주를 맞으시기 바랍니다~
+이 게시물을...

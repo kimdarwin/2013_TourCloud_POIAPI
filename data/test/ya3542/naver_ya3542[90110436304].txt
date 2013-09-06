@@ -1,0 +1,57 @@
+Title:
+파랑새 (Feat.전제덕) ~ 바비 킴
+
+Date:
+2011.03.31 23:12
+
+Content:
+
+파랑새.. 신비하지만 잡을수 없는 신비의 존재
+누구나 가슴속깊은곳에 한마리 파랑새가 있다세상 어디에서도 느낄수도 볼수도 없는 나만의 파랑새~
+세상 힘들고 지칠때.. 파랑새는나에게 희망을안겨준다
+
+
+파랑새 (Feat.전제덕) ~ 바비 킴
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc26/2011/03/31/1755/03100223F12053CE23C3893D73D913F3641_ya3542_logo.jpg';
+	layout.playtime = '296.079';
+	var qsParam = {};
+	qsParam.vid = 'ACBE6B665E9003533C318BA8164ADAA7183A';
+	qsParam.inKey = 'V1240f890334bc2724a82eaeefb71a5bd30bfd5c2510c4472dda6d5c907cfa9d091c9eaeefb71a5bd30bf';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_07806 = new VideoInfraUGCPlayer('ugcPlayer_07806' ,bean); 
+ugcPlayer_07806.drawPlayLayer(); 
+}
+
+
+
+일상은 지나가고 변화해도 나의 파랑새는 이세상 끝까지 내 곁에 있다그리움으로 가슴 텅 빈채 있다하여도파랑새는사랑 노래를 들려 준다
+
+
+
+파랑새 (Feat.전제덕) ~ 바비 킴
+
+그댄 너무 나빠요 그대는 착해서 나빠요가느다란 하얀 손으로 눈물 닦으면 사랑도 미안해지네요* 나를 사랑하면 더 할수록 그대의 가슴엔 멍이 늘어서조금만 건드려도 아팠을텐데 그댄 언제나 내 걱정에 우네요난 끝까지 나빠요 끝까지 내 걱정만 해요그대 없이 그대와 사는 나의 하루는 문 열린 감옥과 같겠죠그댈 사랑하면 더 할수록 그대의 눈물이 늘어만 가서오늘만 단 하루만 착하려 해요 보내줄께요 내 품에서 떠나요우리가 사랑한 날이 돌아보면 그림 같네요그대 추억엔 우린 어땠었나요 행복했던 날도 있나요 미안해* Repeat내게 넘칠만큼 잘했어요 그대의 행복을 찾아가야죠오늘만 단 하루만 착하지 마요 나를 버려요 내 품에서 떠나요보내줄께요 내 품에서 떠나요
+
+파랑새 (Feat.전제덕) ~ 바비 킴
+
+
+민초호야의 음악산책 .. 
+파랑새 (Feat.전제덕) ~ 바비 킴 
+
+	

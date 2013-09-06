@@ -1,0 +1,571 @@
+매일
+	매일/mag
+
+워터폴
+	워터/ncn+폴/ncn
+
+레스토랑에서
+	레스토랑/ncn+에서/jca
+
+식사가
+	식사/ncpa+가/jcc
+
+바뀌어도
+	바뀌/pvg+어도/ecs
+
+같은
+	같/paa+은/etm
+
+곳에서의
+	곳/ncn+에서/jca+의/jcm
+
+식사는
+	식사/ncpa+는/jxc
+
+지겨울만도
+	지겹/paa+을/etm+만/nbs+도/jxc
+
+하니
+	하/pvg+니/ecs
+
+나가서
+	나가/pvg+아/ecx
+
+먹자니
+	먹/pvg+자니/ecs
+
+또
+	또/maj
+
+글코
+	글코/ncn
+
+..
+	./sf+./sf
+
+
+그런걸
+	그런걸/ncn
+
+대비해서만들어진건가
+	대비/ncpa+하/xsva+어서/ecx+만들/px+어/ecx+지/px+ㄴ/etm+것/nbn+이/jp+ㄴ가/ef
+
+?
+	?/sf
+
+
+빈탄
+	빈탄/ncn
+
+클럽메드엔
+	클럽메드엔/ncn
+
+색다른
+	색다르/paa+ㄴ/etm
+
+장소가
+	장소/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+여느
+	여느/mma
+
+곳이랑은
+	곳/ncn+이/jcs+랑/jxc+은/jxc
+
+다른
+	다른/mma
+
+..
+	./sf+./sf
+
+
+바로
+	바로/mag
+
+'테라스'
+	'/sr+테라스/ncn+'/sr
+
+레스토랑
+	레스토랑/ncn
+
+.
+	./sf
+
+
+저녁시간에
+	저녁/ncn+시간/ncn+에/jca
+
+예약한
+	예약/ncpa+하/xsva+ㄴ/etm
+
+사람들만
+	사람들/ncn+만/jxc
+
+손님으로
+	손님/ncn+으로/jca
+
+받고
+	받/pvg+고/ecc
+
+음식은
+	음식/ncn+은/jxc
+
+그릴
+	그리/pvg+ㄹ/etm
+
+전문이다
+	전문/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+이곳도
+	이곳/npd+도/jxc
+
+프리다
+	프리/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+단
+	단/mma
+
+예약은
+	예약/ncpa+은/jxc
+
+아침
+	아침/ncn
+
+8시부터
+	8/nnc+시/nbu+부터/jxc
+
+로비에서
+	로비/ncn+에서/jca
+
+받는데
+	받/pvg+는데/ecs
+
+
+예약이
+	예약/ncpa+이/jcc
+
+좀
+	좀/mag
+
+힘들다는점이
+	힘들다는점/ncn+이/jcc
+
+단점이고
+	단점/ncn+이/jp+고/ecc
+
+..
+	./sf+./sf
+
+
+한번
+	한/nnc+번/nbu
+
+가볼까
+	가/pvg+아/ecx+보/px+ㄹ까/ecs
+
+해서
+	하/pvg+어서/ecs
+
+비오고
+	비/paa+오/ef+고/jcr
+
+난
+	나/px+ㄴ/etm
+
+낮에
+	낮/ncn+에/jca
+
+잠시
+	잠시/mag
+
+들러봤다
+	들르/pvg+어/ecx+보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+디너
+	디너/ncn
+
+말고도
+	말/px+고/ecs+도/jxc
+
+이곳에선
+	이곳/npd+에/jca+선/jxc
+
+늦은점심과
+	늦은점심/ncn+과/jcj
+
+늦은아침도
+	늦은아침/ncn+도/jxc
+
+한다~
+	하/pvg+ㄴ다/ef+~/sd
+
+
+실내는
+	실내/ncn+는/jxc
+
+없고
+	없/paa+고/ecc
+
+모든곳이
+	모든곳/ncn+이/jcc
+
+오픈
+	오픈/ncpa
+
+된
+	되/pvg+ㄴ/etm
+
+레스토랑
+	레스토랑/ncn
+
+..
+	./sf+./sf
+
+
+풀속의
+	풀/ncn+속/xsnx+의/jcm
+
+.
+	./sf
+
+
+샐러드
+	샐러드/ncn
+
+류가
+	류/ncn+가/jcs
+
+더
+	더/mag
+
+많은점이
+	많은/ncn+점/ncn+이/jcc
+
+눈에
+	눈/ncn+에/jca
+
+띈다
+	띄/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+밤이다
+	밤/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+마지막날까지
+	마지막/ncn+날/ncn+까지/jxc
+
+예약
+	예약/ncpa
+
+실패했다
+	실패/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이유는
+	이유/ncn+는/jxc
+
+게을러서
+	게으르/paa+어서/ecs
+
+아침에
+	아침/ncn+에/jca
+
+일찍
+	일찍/mag
+
+못가서
+	못가서/ncn
+
+예약을
+	예약/ncpa+을/jco
+
+못했다
+	못하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+흑흑
+	흑흑/ncn
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+구경은
+	구경/ncn+은/jxc
+
+하고파
+	하고파/ncn
+
+..
+	./sf+./sf
+
+
+테라스
+	테라스/ncn
+
+레스토랑은
+	레스토랑/ncn+은/jxc
+
+오픈시간이
+	오픈/ncpa+시간/ncn+이/jcc
+
+7시30분이다
+	7시30분/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+워터폴은
+	워터/ncn+폴/ncn+은/jxc
+
+7시구
+	7시구/ncn
+
+.
+	./sf
+
+
+구미를
+	구미/ncn+를/jco
+
+당기는
+	당기/pvg+는/etm
+
+음식들이
+	음식/ncn+들/ncn+이/jcc
+
+좁은
+	좁/paa+은/etm
+
+틀속에
+	틀속/ncn+에/jca
+
+모여져
+	모이/pvg+어/ecx+지/px+어/ecx
+
+있어
+	있/px+어/ecx
+
+초이스하기가
+	초이스하/ncn+이/jp+기/etn+가/jcs
+
+수월하다
+	수월/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+워터폴의
+	워터/ncn+폴/ncn+의/jcm
+
+그
+	그/mmd
+
+단품요리들이
+	단품/ncpa+요리/ncn+들/ncn+이/jcc
+
+좀더
+	좀더/mag
+
+가깝게
+	가깝/paa+게/ecs
+
+그릴로
+	그릴/ncn+로/jca
+
+만들어지는
+	만들/pvg+어/ecx+지/px+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+갔을때는
+	가/px+아/ep+ㄹ/etm+때/nbn+는/jxc
+
+좀
+	좀/mag
+
+이른
+	이르/paa+ㄴ/etm
+
+시간이라
+	시간/ncn+이/jp+라/ecs
+
+단지
+	단지/mag
+
+구경만
+	구경/ncn+만/jxc
+
+할수있을뿐
+	하/pvg+ㄹ/etm+수/nbn+있/xsmn+을/etm+뿐/nbn
+
+.
+	./sf
+
+
+주문은
+	주문/ncn+은/jxc
+
+할수
+	하/pvg+ㄹ/etm+수/nbn
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+다시
+	다시/mag
+
+이
+	이/mmd
+
+곳을
+	곳/ncn+을/jco
+
+찾을수
+	찾/pvg+을/etm+수/nbn
+
+있을진
+	있을진/ncn
+
+모르겠으나
+	모르/pvg+겠/ep+으나/ecs
+
+이번여행에서
+	이번/ncn+여행/ncpa+에서/jca
+
+제일로
+	제일/ncn+로/jca
+
+아쉬운
+	아쉽/paa+은/etm
+
+점.
+	점/nbu+./sf
+
+..
+	./sf+./sf
+
+
+떠나는
+	떠나/pvg+는/etm
+
+날
+	나/px+ㄹ/etm
+
+아쉬움에
+	아쉬움/ncn+에/jca
+
+늦은
+	늦/paa+은/etm
+
+아침을
+	아침/ncn+을/jco
+
+이곳
+	이곳/npd
+
+테라스에서
+	테라스/ncn+에서/jca
+
+먹었다
+	먹/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+종류는
+	종류/ncn+는/jxc
+
+워터폴보다는
+	워터/ncn+폴/ncn+보다/jca+는/jxc
+
+적지만
+	적/pvg+지/ecx+말/px+ㄴ/etm
+
+먹을꺼는
+	먹을꺼/ncn+는/jxc
+
+거의
+	거의/mag
+
+다
+	다/mag
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+야외에서
+	야외/ncn+에서/jca
+
+먹는
+	먹/pvg+는/etm
+
+이맛
+	이맛/ncn
+
+..
+	./sf+./sf
+
+
+쏠쏠한걸
+	쏠쏠한걸/ncn
+
+?
+	?/sf

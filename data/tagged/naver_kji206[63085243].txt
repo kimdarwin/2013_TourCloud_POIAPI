@@ -1,0 +1,53 @@
+구미
+	구미/ncn
+
+보천사
+	보천사/ncn
+
+대웅전앞
+	대웅전/ncn+앞/ncn
+
+
+돈이
+	돈/ncn+이/jcc
+
+많지않아도
+	많/paa+지/ecx+않/px+아/ecs
+
+최신유행에
+	최신/ncn+유행/ncpa+에/jca
+
+따르지
+	따르/pvg+지/ecx
+
+않아도
+	않/px+아/ecs
+
+...
+	.../se
+
+
+그리고
+	그리/pvg+고/ecs
+
+
+돈쓰는
+	돈쓰/ncn+는/jxc
+
+일에
+	일/ncn+에/jca
+
+취해
+	취하/pvg+어/ecx
+
+잇지않아도
+	잇/pvg+지/ecx+않/px+아/ecs
+
+잘살수있는
+	잘살/pvg+ㄹ/etm+수/nbn+있/xsmn+는/etm
+
+길은
+	길/ncn+은/jxc
+
+....
+	.../se+./sf

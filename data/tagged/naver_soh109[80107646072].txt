@@ -1,0 +1,1183 @@
+강천산군립공원
+	강천산군립공원/ncn
+
+
+전라북도
+	전라/ncn+북도/ncn
+
+>
+	>/sr
+
+순창군
+	순창군/ncn
+
+>
+	>/sr
+
+팔덕면
+	팔덕면/ncn
+
+
+기간
+	기간/ncn
+
+2010.
+	2010./nnc
+
+5.
+	5./nnc
+
+17~
+	17/nnc+~/sd
+
+2010.
+	2010./nnc
+
+5.
+	5./nnc
+
+17(1일)
+	17/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+나
+	나/npp
+
+홀로
+	홀로/mag
+
+떠나는
+	떠나/pvg+는/etm
+
+여행
+	여행/ncpa
+
+
+경로
+	경로/ncn
+
+
+광주광천터미널
+	광주광천터미널/ncn
+
+순창강천산군립공원
+	순창강천산군립공원/ncn
+
+병풍폭포
+	병풍/ncn+폭포/ncn
+
+강천사
+	강천사/ncn
+
+현수교
+	현수교/ncn
+
+구장군폭포
+	구장군폭포/ncn
+
+성테마공원
+	성테마공원/ncn
+
+광주광역시
+	광주광역시/ncn
+
+
+특별히
+	특별히/mag
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+곳
+	곳/nbu
+
+
+그래도강천산까지왔는데구장군폭포까지는가보는게좋다
+	그래도강천산까지왔는데구장군폭포까지는가보는게좋다/ncn
+
+.
+	./sf
+
+
+정말확트인공원에절벽아래정자가있어서더욱멋스러움을더한다
+	정말확트인공원에절벽아래정자가있어서더욱멋스러움을더한다/ncn
+
+.
+	./sf
+
+
+현수교위에올라가서아래를내려다보는모습은아주짜릿하다
+	현수교위에올라가서아래를내려다보는모습은아주짜릿하/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+별로흔들리지않는편임에도어찌나무서운지
+	별로흔들리지않는편임에도어찌나무서운지/ncn
+
+..
+	./sf+./sf
+
+
+-.-;;
+	-/sd+./sf+-/sd+;/sy+;/sy
+
+
+여행팁
+	여행/ncpa+팁/ncn
+
+
+전라북도순창군문화관광http://tour.
+	전라북도순창군문화관광http://tour./ncn
+
+sunchang.
+	sunchang/f+./sy
+
+go.
+	go/f+./sy
+
+kr
+	kr/f
+
+
+광주-순창강천사
+	광주-순창강천사/ncn
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+usquare.
+	usquare/f+./sy
+
+co.
+	co/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+광주-순창강천사(1시간30분,4800냥)
+	광주-순창강천사(1시간30분,4800냥)/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+usquare.
+	usquare/f+./sy
+
+co.
+	co/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+0810,0850,0950,1030,1125,0130,0210,0250,0330,0410
+	0810/nnc+,/sp+0850/nnc+,/sp+0950/nnc+,/sp+1030/nnc+,/sp+1125/nnc+,/sp+0130/nnc+,/sp+0210/nnc+,/sp+0250/nnc+,/sp+0330/nnc+,/sp+0410/nnc
+
+
+순창강천사-광주(1시간30분,4800냥)
+	순창강천사-광주(1시간30분/ncn+,/sp+4800/nnc+냥/nbu+)/sr
+
+
+1000,1105,1210,0110,0220,0320,0350,0420,0500,0600
+	1000/nnc+,/sp+1105/nnc+,/sp+1210/nnc+,/sp+0110/nnc+,/sp+0220/nnc+,/sp+0320/nnc+,/sp+0350/nnc+,/sp+0420/nnc+,/sp+0500/nnc+,/sp+0600/nnc
+
+
+강천산군립공원입장료\1,000냥
+	강천산군립공원입장료\1/ncn+,/sp+000/nnc+냥/nbu
+
+
+입구에서병풍폭포-강천사-현수교-구장군폭포-성테마공원코스로천천히산책하면서거닐면3-4시간정도소요된다
+	입구에서병풍폭포-강천사-현수교-구장군폭포-성테마공원코스로천천히산책하면서거닐면3-4시간정도소요된다/ncn
+
+.
+	./sf
+
+
+상천사에서
+	상천사/ncn+에서/jca
+
+내려오면
+	내리/pvg+어/ecx+오/px+면/ecs
+
+조금만
+	조금/mag+만/jxc
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+오른쪽으로
+	오르/pvg+ㄴ/etm+쪽/nbn+으로/jca
+
+현수교를
+	현수교/ncn+를/jco
+
+올라갈수
+	오르/pvg+아/ecx+가/px+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+길이
+	길/ncn+이/jcc
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+현수교(1980.
+	현수교(1980./ncn
+
+08.
+	08./nnc
+
+02)
+	02/nnc+)/sr
+
+
+팔덕면
+	팔덕면/ncn
+
+청계리
+	청계/ncn+이/jp+리/ef
+
+강천산
+	강천산/ncn
+
+공원내,
+	공원/ncn+내/ncn+,/sp
+
+연장
+	연장/ncpa
+
+75m,
+	75m,/ncn
+
+높이
+	높이/ncn
+
+50m,
+	50m,/ncn
+
+폭
+	폭/nbu
+
+1m
+	1m/ncn
+
+
+보는것만
+	보/px+는/etm+것/nbn+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+짜릿짜릿해지넹
+	짜릿짜릿해지넹/ncn
+
+..
+	./sf+./sf
+
+
+얼마나
+	얼마나/mag
+
+후덜덜했는지
+	후덜덜했는지/ncn
+
+앞이
+	앞/ncn+이/jcc
+
+캄캄하고
+	캄캄하/paa+어/ef+고/jcr
+
+어질어질하다
+	어질어질하/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+이렇게
+	이렇/pad+게/ecs
+
+전망대
+	전망대/ncn
+
+위에
+	위/ncn+에/jca
+
+올라가서
+	오르/pvg+아/ecx+가/px+아/ecx
+
+내려다보는
+	내려다보/pvg+는/etm
+
+그
+	그/mmd
+
+느낌은
+	느끼/pvg+ㅁ/etn+은/jxc
+
+너무
+	너무/mag
+
+멋지다
+	멋지/paa+다/ef
+
+.....
+	./sy+.../se+./sy
+
+...
+	.../se
+
+
+현수교를
+	현수교/ncn+를/jco
+
+오르고
+	오르/pvg+고/ecc
+
+내려오는길은
+	내려오는길/ncn+은/jxc
+
+대부분
+	대부분/ncn
+
+이렇게
+	이렇/pad+게/ecs
+
+방부목으로
+	방부목/ncn+으로/jca
+
+되어있어서
+	되/pvg+어/ecx+있/px+어서/ecs
+
+..
+	./sf+./sf
+
+
+자연과
+	자연/ncn+과/jct
+
+더
+	더/mag
+
+한껏
+	한껏/mag
+
+어울림을
+	어울리/pvg+ㅁ/etn+을/jco
+
+더한다
+	더하/paa+ㄴ다/ef
+
+.
+	./sf
+
+
+구장군폭포옛날
+	구장군폭포옛날/ncn
+
+마한시대
+	마한시대/ncn
+
+혈맹을
+	혈맹/ncpa+을/jco
+
+맺은
+	맺/pvg+은/etm
+
+아홉명의
+	아홉/nnc+명/nbu+의/jcm
+
+장수가
+	장수/ncpa+가/jcc
+
+전장에서
+	전장/ncn+에서/jca
+
+패한
+	패/pvg+어/ecx+하/px+ㄴ/etm
+
+후
+	후/ncn
+
+이곳에
+	이곳/npd+에/jca
+
+이르러
+	이르/pvg+어/ecx
+
+자결하려는
+	자결/ncpa+하/xsva+려는/etm
+
+순간
+	순간/ncn
+
+차라리
+	차라리/mag
+
+자결할
+	자결/ncpa+하/xsva+ㄹ/etm
+
+바에는
+	바/nbn+에는/jca
+
+
+전장에서
+	전장/ncn+에서/jca
+
+적과
+	적/nbn+과/jct
+
+싸우다
+	싸우/pvg+다/ef
+
+죽자는
+	죽/pvg+자/ef+는/etm
+
+비장한
+	비장/ncps+한/ncn
+
+각오로
+	각오/ncpa+로/jca
+
+마음을
+	마음/ncn+을/jco
+
+다지고
+	다지/pvg+고/ecc
+
+전쟁에
+	전쟁/ncpa+에/jca
+
+나가
+	나/npp+가/jcs
+
+승리를
+	승리/ncpa+를/jco
+
+거두었다는
+	거두/pvg+었/ep+다/ef+는/etm
+
+아홉장군의
+	아홉장군/ncn+의/jcm
+
+전설이
+	전설/ncn+이/jcc
+
+서린
+	서리/pvg+ㄴ/etm
+
+곳으로기암괴석
+	곳으로기암괴석/ncn
+
+사이로
+	사이/ncn+로/jca
+
+굽이쳐
+	굽이치/pvg+어/ecx
+
+흘러
+	흐르/pvg+어/ecx
+
+내리는
+	내리/pvg+는/etm
+
+두줄기의
+	두/nnc+줄기/nbu+의/jcm
+
+폭포는
+	폭포/ncn+는/jxc
+
+높이가
+	높이/ncn+가/jcs
+
+120m로
+	120m/ncn+로/jca
+
+신의
+	신/ncn+의/jcm
+
+조화로써
+	조화/ncn+로써/jca
+
+이뤄진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+아름다움과
+	아름다움/ncn+과/jcj
+
+신비로움을
+	신비/ncps+롭/xsmn+음/etn+을/jco
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있으며
+	있/paa+으며/ecc
+
+
+남근석과
+	남근/ncn+석/ncn+과/jcj
+
+여근석의
+	여근석/ncn+의/jcm
+
+조화로운
+	조화/ncn+로운/ncn
+
+형상을
+	형상/ncpa+을/jco
+
+찾아볼
+	찾/pvg+아/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+물줄기가
+	물줄기/ncn+가/jcs
+
+너무너무
+	너무너무/mag
+
+멋지다
+	멋지/paa+다/ef
+
+.....
+	./sy+.../se+./sy
+
+.
+	./sf
+
+
+어찌
+	어찌/mag
+
+자연이
+	자연/ncn+이/jcc
+
+이런
+	이런/mmd
+
+아름다운
+	아름답/paa+은/etm
+
+모습을
+	모습/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+낸건지
+	내/pvg+ㄴ/etm+것/nbn+이/jp+ㄴ지/ecs
+
+신기할
+	신기/ncps+하/xsms+ㄹ/etm
+
+따름이고
+	따르/pvg+ㅁ/etn+이/jp+고/ecc
+
+..
+	./sf+./sf
+
+
+요
+	요/mmd
+
+밑에는
+	밑/ncn+에/jca+는/jxc
+
+온통
+	온통/mag
+
+송어들이
+	송어/ncn+들/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+바위
+	바위/ncn
+
+사이사이에
+	사이/ncn+사이/ncn+에/jca
+
+꽃들이
+	꽃/ncn+들/xsncc+이/jcc
+
+피어서
+	피/pvg+어서/ecs
+
+정자와
+	정자/ncn+와/jct
+
+더
+	더/mag
+
+어울리고
+	어울리/pvg+고/ecc
+
+.....
+	./sy+.../se+./sy
+
+....
+	.../se+./sf
+
+
+절벽아래
+	절벽/ncn+아래/ncn
+
+있음이
+	있/px+음/etn+이/jcs
+
+더
+	더/mag
+
+멋지게
+	멋지/paa+게/ecs
+
+느껴진다
+	느끼/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+정말
+	정말/mag
+
+멋지구낭
+	멋지구낭/ncn
+
+.....
+	./sy+.../se+./sy
+
+.
+	./sf
+
+
+약수물이다
+	약수/ncn+물/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+시원하다~~~
+	시원/ncps+하/xsms+다/ef+~/sd+~/sd+~/sd
+
+아무리
+	아무리/mag
+
+오르막길이
+	오르막길/ncn+이/jcc
+
+없어도
+	없/paa+어도/ecs
+
+올라오면서
+	오르/pvg+아/ecx+오/px+면서/ecc
+
+목마르니까
+	목마르/paa+니까/ecs
+
+..
+	./sf+./sf
+
+
+곳곳에
+	곳곳/ncn+에/jca
+
+물
+	물/pvg+ㄹ/etm
+
+마실곳도
+	마실/ncn+곳/ncn+도/jxc
+
+있고
+	있/px+고/ecc
+
+화장실도
+	화장실/ncn+도/jxc
+
+자주
+	자주/mag
+
+있어서
+	있/px+어서/ecs
+
+...
+	.../se
+
+
+참
+	참/mag
+
+잘되어있는
+	잘되/pvg+어/ecx+있/px+는/etm
+
+공원이나
+	공원/ncn+이나/jcj
+
+다름이
+	다르/paa+ㅁ/etn+이/jcs
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+강천산
+	강천산/ncn
+
+성(
+	성(/ncn
+
+)테마공원이곳
+	)테마공원이곳/ncn
+
+'강천산구장군폭포'는
+	'강천산구장군폭포'/ncn+는/jxc
+
+'음'과
+	'/sr+음/ncn+'/sr+과/jcj
+
+'양'이
+	'/sr+양/ncn+'/sr+이/jcc
+
+서려있는
+	서리/pvg+어/ecx+있/px+는/etm
+
+재미있는
+	재미있/pvg+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+폭포
+	폭포/ncn
+
+중간부분이
+	중간/ncn+부분/ncn+이/jcc
+
+낙수와
+	낙수/ncn+와/jcj
+
+풍화로
+	풍화/ncpa+로/jca
+
+자연스럽게
+	자연/ncn+스럽/xsmn+게/ecs
+
+여성(음)의
+	여성(음)/ncn+의/jcm
+
+형태를
+	형태/ncn+를/jco
+
+띠고
+	뜨/pvg+어/ef+고/jcr
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+왼쪽에
+	왼쪽/ncn+에/jca
+
+수직으로
+	수직/ncn+으로/jca
+
+형성된
+	형성/ncpa+되/xsvn+ㄴ/etm
+
+바위산은
+	바위산/ncn+은/jxc
+
+
+남성(양)
+	남성(양)/ncn
+
+형태를
+	형태/ncn+를/jco
+
+닮아
+	닮/pvg+아/ecx
+
+음과
+	음/ncn+과/jcj
+
+양이
+	양/ncn+이/jcc
+
+절묘한
+	절묘/ncps+하/xsms+ㄴ/etm
+
+조화를
+	조화/ncn+를/jco
+
+이루고
+	이루/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+오늘날
+	오늘/ncn+날/ncn
+
+현대인들은
+	현대/ncn+이/jp+ㄴ들/ecs+은/jxc
+
+급속한
+	급속/ncps+하/xsms+ㄴ/etm
+
+산업화로
+	산업/ncn+화/ncn+로/jca
+
+인한
+	인하/pvg+ㄴ/etm
+
+도시화,
+	도시/ncn+화/ncn+,/sp
+
+환경오염,
+	환경오염/ncpa+,/sp
+
+각종
+	각종/ncn
+
+질병,
+	질병/ncn+,/sp
+
+삶의
+	삶/ncn+의/jcm
+
+경쟁에
+	경쟁/ncpa+에/jca
+
+의한
+	의하/pvg+ㄴ/etm
+
+스트레스를
+	스트레스/ncn+를/jco
+
+안고
+	안/pvg+고/ecc
+
+살아가고
+	살/pvg+아/ecx+가/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+따라서
+	따라서/maj
+
+이곳
+	이곳/npd
+
+신성한
+	신성/ncn+한/ncn
+
+성(
+	성(/ncn
+
+)테마공원의
+	)/sr+테마/ncn+공원/ncn+의/jcm
+
+자연
+	자연/ncn
+
+속에서
+	속/ncn+에서/jca
+
+휴식을
+	휴식/ncpa+을/jco
+
+취하고
+	취하/pvg+고/ecc
+
+마음을
+	마음/ncn+을/jco
+
+정화하여
+	정화/ncpa+하/xsva+어/ecx
+
+자연의
+	자연/ncn+의/jcm
+
+'음'과
+	'/sr+음/ncn+'/sr+과/jcj
+
+'양'의
+	'/sr+양/ncn+'/sr+의/jcm
+
+기운을
+	기운/ncn+을/jco
+
+받아
+	받/pvg+아/ecs
+
+
+생활의
+	생활/ncpa+의/jcm
+
+활력과
+	활력/ncn+과/jcj
+
+삶의
+	삶/ncn+의/jcm
+
+재충전을
+	재충전/ncn+을/jco
+
+할수있는
+	하/pvg+ㄹ/etm+수/nbn+있/xsmn+는/etm
+
+문화공간으로
+	문화공간/ncn+으로/jca
+
+조성하였다
+	조성/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+자그마하게
+	자그마하/paa+게/ecs
+
+구장군폭포
+	구장군폭포/ncn
+
+맞은편에
+	맞은편/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+성테마공원이다
+	성테마공원/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+편안하게
+	편안/ncps+하/xsms+게/ecs
+
+쉴수있는
+	쉬/pvg+ㄹ/etm+수/nbn+있/xsmn+는/etm
+
+공원일
+	공원/ncn+이/jp+ㄹ/etm
+
+뿐이다
+	뿐/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+구장군폭포가
+	구장군폭포/ncn+가/jcs
+
+정말
+	정말/mag
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+물줄기를
+	물줄기/ncn+를/jco
+
+내뿜으며
+	내뿜/pvg+으며/ecc
+
+그
+	그/mmd
+
+앞으로
+	앞/ncn+으로/jca
+
+넓은
+	넓/paa+은/etm
+
+공원과
+	공원/ncn+과/jcj
+
+정자들이
+	정자/ncn+들/ncn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+..
+	./sf+./sf
+
+
+정말
+	정말/mag
+
+너무너무
+	너무너무/mag
+
+멋진곳이다
+	멋진곳/ncn+이/jp+다/ef
+
+^^
+	^/sy+^/sy
+
+
+한번쯤은
+	한번쯤/ncn+은/jxc
+
+천천히
+	천천히/mag
+
+산책하며
+	산책/ncpa+하/xsva+며/ecc
+
+가보는것도
+	가/pvg+아/ecx+보/px+는/etm+것/nbn+도/jxc
+
+너무너무
+	너무너무/mag
+
+좋은곳이다
+	좋은곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+등산
+	등산/ncpa
+
+싫어하시는
+	싫/paa+어/ecx+하/px+시/ep+는/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+적극적으로
+	적극/ncn+적/ncn+으로/jca
+
+추천할만한
+	추천/ncpa+하/xsva+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+코스이다
+	코스/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+평지처럼
+	평지/ncn+처럼/jca
+
+완만해서
+	완만/ncps+하/xsms+어서/ecs
+
+그냥
+	그냥/mag
+
+산책로처럼
+	산책로/ncn+처럼/jca
+
+되어있는데다가
+	되/pvg+어/ecx+있/px+는/etm+데/nbn+이/jp+다가/ecs
+
+...
+	.../se
+
+
+푸르른
+	푸르른/ncn
+
+나무들도
+	나무/ncn+들/ncn+도/jxc
+
+가득하고
+	가득/ncps+하고/jct
+
+옆으로는
+	옆/ncn+으로/jca+는/jxc
+
+계곡물이
+	계곡/ncn+물/ncn+이/jcc
+
+줄줄
+	줄줄/mag
+
+흐르고
+	흐르/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+갑자기
+	갑자기/mag
+
+나타나주는
+	나타나/pvg+아/ecx+주/px+는/etm
+
+다람쥐들이랑
+	다람쥐/ncn+들이/ncn+랑/jca

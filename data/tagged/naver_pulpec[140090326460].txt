@@ -1,0 +1,599 @@
+대구
+	대구/ncn
+
+비슬산
+	비슬산/ncn
+
+자연휴양림을
+	자연/ncn+휴양림/ncn+을/jco
+
+조금
+	조금/mag
+
+못가서
+	못가/ncn+서/jca
+
+있는
+	있/px+는/etm
+
+음식점
+	음식/ncn+점/ncn
+
+'큰바위가든'
+	'/sl+크/paa+ㄴ/etm+바/nbn+위/xsnx+가/jcs+든/jxc+'/sr
+
+예전에내가
+	예전에내/ncn+가/jcs
+
+이근처에
+	이근처/ncn+에/jca
+
+살때
+	사/pvg+ㄹ/etm+때/nbn
+
+직원들이랑가끔
+	직원들이랑가끔/ncn
+
+점심식사를
+	점심식사/ncpa+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+들르던
+	들르/pvg+던/etm
+
+곳
+	곳/nbu
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+이곳에
+	이곳/npd+에/jca
+
+온김에
+	오/px+ㄴ/etm+김/nbn+에/jca
+
+생각나
+	생각나/pvg+아/ecx
+
+들렀다
+	들르/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+여전히
+	여전히/mag
+
+자리를
+	자리/ncn+를/jco
+
+지키고
+	지키/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+변함없는
+	변함/ncn+없/xsmn+는/etm
+
+큰바위
+	크/paa+ㄴ/etm+바/nbn+위/xsnx
+
+가든의
+	가든/ncn+의/jcm
+
+자랑
+	자랑/ncn
+
+큰바위
+	크/paa+ㄴ/etm+바/nbn+위/xsnx
+
+...
+	.../se
+
+
+실내도
+	실내/ncn+도/jxc
+
+훌륭하지만
+	훌륭/ncps+하/xsms+지/ecx+말/px+ㄴ/etm
+
+비슬산
+	비슬산/ncn
+
+자락에
+	자락/ncn+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+이렇게
+	이렇/pad+게/ecs
+
+야외에서도
+	야외/ncn+에서/jca+도/jxc
+
+식사를
+	식사/ncpa+를/jco
+
+즐길수
+	즐기/pvg+ㄹ/etm+수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+야외에
+	야외/ncn+에/jca
+
+자리를
+	자리/ncn+를/jco
+
+잡고선
+	잡/pvg+고선/ecs
+
+.
+	./sf
+
+
+자리에
+	자리/ncn+에/jca
+
+앉자마자
+	앉/pvg+자마자/ecs
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+숭늉
+	숭늉/ncn
+
+..
+	./sf+./sf
+
+
+동동주처럼
+	동동주/ncn+처럼/jca
+
+떠서
+	뜨/pvg+어서/ecs
+
+먹는다
+	먹/pvg+는다/ef
+
+
+짜잔
+	짜잔/ncn
+
+.
+	./sf
+
+
+먼저
+	먼저/mag
+
+주문한
+	주문/ncn+한/ncn
+
+손두부가
+	손두부/ncn+가/jcs
+
+나왔다
+	나오/pvg+아/ep+다/ef+./sf
+
+.
+	./sf
+
+
+이집에서
+	이집/ncpa+에서/jca
+
+직접
+	직접/mag
+
+만드는
+	만들/pvg+는/etm
+
+..
+	./sf+./sf
+
+
+그래서
+	그래서/maj
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+더
+	더/mag
+
+식감나는
+	식감나/ncn+는/jxc
+
+그리고
+	그리고/maj
+
+탱글탱글한
+	탱글탱글한/ncn
+
+맛.
+	맛/ncn+./sf
+
+
+그림으로
+	그리/pvg+ㅁ/etn+으로/jca
+
+봐도
+	보/px+아/ecs
+
+탱글탱글하다
+	탱글탱글하/ncn+이/jp+다/ef
+
+
+보리밥을
+	보리밥/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+나물들이
+	나물/ncn+들/ncn+이/jcc
+
+나오고
+	나/pvg+아/ecx+오/px+고/ecc
+
+..
+	./sf+./sf
+
+
+맛있는
+	맛있/paa+는/etm
+
+대구
+	대구/ncn
+
+김치
+	김치/ncn
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+콩비지
+	콩비/ncn+이/jp+지/ef
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+제일
+	제일/mag
+
+좋아라했던
+	좋아라했던/ncn
+
+이집의
+	이집/ncpa+의/jcm
+
+된장찌게
+	된장찌게/ncn
+
+.
+	./sf
+
+
+보리밥에
+	보리밥/ncn+에/jca
+
+넣어서
+	넣/pvg+어서/ecs
+
+먹어도
+	먹/pvg+어도/ecs
+
+맛있지만
+	맛있/paa+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+생으로
+	생/ncn+으로/jca
+
+슥삭슥삭
+	슥삭슥삭/ncn
+
+먹어도
+	먹/pvg+어도/ecs
+
+맛나다
+	맛나/paa+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+통째로
+	통째로/mag
+
+들어있던
+	들/pvg+어/ecx+있/px+던/etm
+
+콩이랑
+	콩/ncn+이/jcs+랑/jxc
+
+두부가
+	두/nnc+부/nbu+가/jcc
+
+맛나
+	맛/ncn+나/jcj
+
+..
+	./sf+./sf
+
+
+약간은
+	약간/mag+은/jxc
+
+많은
+	많/paa+은/etm
+
+보리밥
+	보리밥/ncn
+
+..
+	./sf+./sf
+
+
+한그릇
+	한/nnc+그릇/nbu
+
+.
+	./sf
+
+
+으아
+	으아/ii
+
+콩이
+	콩/ncn+이/jcc
+
+그냥
+	그냥/mag
+
+콩이
+	콩/ncn+이/jcc
+
+아니고
+	아니/paa+고/ecc
+
+마치
+	마치/mag
+
+고기같은
+	고기/ncn+같/xsmn+은/etm
+
+된장찌게
+	된장찌게/ncn
+
+..
+	./sf+./sf
+
+
+봄에
+	보/px+ㅁ/etn+에/jca
+
+오면
+	오/px+면/ecs
+
+더욱
+	더욱/mag
+
+맛나던
+	맛나/paa+던/etm
+
+톳나물
+	톳나물/ncn
+
+..
+	./sf+./sf
+
+
+이건
+	이/npd+이/jp+건/ecc
+
+겨울초
+	겨울/ncn+초/ncn
+
+?
+	?/sf
+
+
+상추
+	상추/ncn
+
+?
+	?/sf
+
+
+참기름을
+	참기름/ncn+을/jco
+
+병째로
+	병째/ncn+로/jca
+
+주기
+	주/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+참기름을
+	참기름/ncn+을/jco
+
+듬뿍
+	듬뿍/mag
+
+넣고
+	넣/pvg+고/ecc
+
+슥삭슥삭
+	슥삭슥삭/ncn
+
+비비면
+	비비/pvg+면/ecs
+
+맛있는
+	맛있/paa+는/etm
+
+보리밥이
+	보리밥/ncn+이/jcc
+
+완성된다
+	완성/ncpa+되/xsvn+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+하.
+	하/px+어/ef+./sf
+
+.
+	./sf
+
+
+큰바위
+	크/paa+ㄴ/etm+바/nbn+위/xsnx
+
+가든의
+	가든/ncn+의/jcm
+
+메뉴판
+	메뉴판/ncn
+
+..
+	./sf+./sf
+
+
+담에
+	달/paa+ㅁ/etn+에/jca
+
+오면
+	오/px+면/ecs
+
+꼭
+	꼭/mag
+
+닭백숙이나
+	닭백숙/ncn+이나/jcj
+
+오리불고기를
+	오리/ncn+불고기/ncn+를/jco
+
+먹어봐야겠다
+	먹/pvg+어/ecx+보/px+아/ep+다/ef
+
+..
+	./sf+./sf
+
+
+전에도
+	전/nbn+에/jca+도/jxc
+
+이
+	이/mmd
+
+다짐을
+	다지/pvg+ㅁ/etn+을/jco
+
+몇번
+	몇/nnc+번/nbu
+
+했었는데
+	하/px+었었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+결국
+	결국/mag
+
+실행은
+	실행/ncpa+은/jxc
+
+못했군
+	못하/px+었/ep+군/ef
+
+..
+	./sf+./sf
+
+
+예전에(2001년도)보리밥이
+	예전에(2001년도)보리밥/ncn+이/jcc
+
+4000원
+	4000/nnc+원/nbu
+
+이었는데
+	이/npd+이/jp+었/ep+는데/ecs
+
+8년새
+	8년새/ncn
+
+6000원으로
+	6000/nnc+원/nbu+으로/jca
+
+올랐네
+	오르/pvg+아/ep+네/ef
+
+...
+	.../se
+
+
+차이점
+	차이/ncn+점/ncn
+
+..
+	./sf+./sf
+
+
+맛은
+	맛/ncn+은/jxc
+
+예나
+	예/ncn+나/jcj
+
+지금이나
+	지금/ncn+이나/jcj
+
+그대로
+	그대로/mag
+
+맛있다
+	맛있/paa+다/ef
+
+.
+	./sf

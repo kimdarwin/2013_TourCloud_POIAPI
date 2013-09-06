@@ -1,0 +1,2363 @@
+6코스
+	6코스/ncn
+
+-
+	-/sd
+
+쇠소깍
+	쇠소깍/ncn
+
+~외돌개
+	~외돌개/ncn
+
+올레
+	올레/ncn
+
+
+쇠소깍을
+	쇠소깍/ncn+을/jco
+
+출발하여
+	출발/ncpa+하/xsva+어/ecx
+
+서귀포
+	서귀포/ncn
+
+시내를
+	시내/ncn+를/jco
+
+통과
+	통/nbn+과/jcj
+
+이중섭
+	이중섭/ncn
+
+거리와
+	거리/ncn+와/jcj
+
+천지연
+	천지/ncn+연/ncn
+
+폭포
+	폭포/ncn
+
+위
+	위/ncn
+
+산책로를
+	산책로/ncn+를/jco
+
+
+거쳐
+	거치/pvg+어/ecx
+
+외돌개까지
+	외돌개/ncn+까지/jxc
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+해안,
+	해안/ncn+,/sp
+
+도심
+	돌/pvg+시/ep+ㅁ/etn
+
+올레다
+	올레/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+해안가의
+	해안가/ncn+의/jcm
+
+정취를
+	정취/ncn+를/jco
+
+느낄수
+	느끼/pvg+ㄹ/etm+수/nbn
+
+있는
+	있/paa+는/etm
+
+
+소금막과
+	소금/ncn+막/ncn+과/jcj
+
+삶과
+	삶/ncn+과/jcj
+
+문화가
+	문화/ncn+가/jcs
+
+숨쉬는
+	숨쉬/pvg+는/etm
+
+서귀포시내,
+	서귀포시내,/ncn
+
+난대림과
+	난대림/ncn+과/jcj
+
+천연기념물
+	천연기념물/ncn
+
+및
+	및/maj
+
+5종이
+	5/nnc+종/nbu+이/jcc
+
+
+서식하는
+	서식/ncpa+하/xsva+는/etm
+
+천지연
+	천지/ncn+연/ncn
+
+폭포
+	폭포/ncn
+
+위
+	위/ncn
+
+산책로를
+	산책로/ncn+를/jco
+
+걸으며
+	걸/pvg+며/ecc
+
+서귀포의
+	서귀포/ncn+의/jcm
+
+문화와
+	문화/ncn+와/jcj
+
+생태를
+	생태/ncn+를/jco
+
+접할수
+	접하/pvg+ㄹ/etm+수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+누구나
+	누구/npp+나/jcj
+
+힘
+	힘/ncn
+
+들이지
+	들이/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+걸을수
+	걸/pvg+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+길이다
+	길/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+코스경로
+	코스/ncn+경로/ncn
+
+총
+	총/mma
+
+14.
+	14./nnc
+
+4km,
+	4km,/ncn
+
+4-5
+	4/nnc+-5/nnc
+
+시간
+	시간/nbu
+
+소요
+	소요/ncpa
+
+
+쇠소깍
+	쇠소깍/ncn
+
+-
+	-/sd
+
+소금막
+	소금/ncn+막/ncn
+
+0,4km
+	0,4km/ncn
+
+-
+	-/sd
+
+제지기오름
+	제/xp+지기/ncn+오름/ncn
+
+정상
+	정상/ncn
+
+2.6km
+	2.6km/ncn
+
+-
+	-/sd
+
+보목포구
+	보목포구/ncn
+
+3.2km
+	3.2km/ncn
+
+-
+	-/sd
+
+문필봉
+	문필/ncn+봉/ncn
+
+입구
+	입구/ncn
+
+3.7km
+	3.7km/ncn
+
+
+-
+	-/sd
+
+구두미포구
+	구두/ncn+미포/ncn+구/ncn
+
+4.4km
+	4.4km/ncn
+
+-
+	-/sd
+
+보목하수처리장
+	보목하수처리장/ncn
+
+5.4km
+	5.4km/ncn
+
+-
+	-/sd
+
+검은여
+	검은여/ncn
+
+6.5km
+	6.5km/ncn
+
+-
+	-/sd
+
+제주올레사무국
+	제주올레사무국/ncn
+
+7.9km
+	7.9km/ncn
+
+
+-
+	-/sd
+
+정방폭포
+	정방폭포/ncn
+
+8.3km
+	8.3km/ncn
+
+-
+	-/sd
+
+서귀포초등학교
+	서귀포초등학교/ncn
+
+9.1km
+	9.1km/ncn
+
+-
+	-/sd
+
+이중섭거주지
+	이중섭거주지/ncn
+
+9.5km
+	9.5km/ncn
+
+-
+	-/sd
+
+서귀포항
+	서귀포항/ncn
+
+10.
+	10./nnc
+
+1km
+	1km/ncn
+
+
+-
+	-/sd
+
+천지연기정길
+	천지연기정길/ncn
+
+10.
+	10./nnc
+
+5km
+	5km/ncn
+
+-
+	-/sd
+
+시공원입구
+	시공원입구/ncn
+
+11.
+	11./nnc
+
+7km
+	7km/ncn
+
+-
+	-/sd
+
+삼매봉입구
+	삼매봉입구/ncn
+
+13.
+	13./nnc
+
+1km
+	1km/ncn
+
+-
+	-/sd
+
+외돌개
+	외돌개/ncn
+
+14.
+	14./nnc
+
+4km
+	4km/ncn
+
+
+볼거리
+	볼거리/ncn
+
+
+쇠소깍
+	쇠소깍/ncn
+
+바닷물과
+	바닷물/ncn+과/jcj
+
+민물이
+	민물/ncn+이/jcc
+
+합수하면서
+	합수하/ncn+이/jp+면서/ecc
+
+절경을
+	절경/ncn+을/jco
+
+빚어낸
+	빚/pvg+어/ecx+내/px+ㄴ/etm
+
+관광
+	관광/ncpa
+
+명소다
+	명소/ncn+이/jp+다/ef
+
+쇠는
+	쇠/ncn+는/jxc
+
+소,
+	소/ncn+,/sp
+
+소는
+	소/ncn+는/jxc
+
+웅덩이,
+	웅덩이/ncn+,/sp
+
+
+깍은
+	깍/mag+은/jxc
+
+끝이라는
+	끝/ncn+이/jp+라/ef+는/etm
+
+의미를
+	의미/ncpa+를/jco
+
+담고
+	담/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+원래는
+	원래/mag+는/jxc
+
+소가
+	소/ncn+가/jcs
+
+누워
+	눕/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+형태라고
+	형태/ncn+이/jp+라/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+쇠둔이라고
+	쇠둔/ncn+이/jp+라/ef+고/jcr
+
+불렀다
+	부르/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+민물과
+	민물/ncn+과/jcj
+
+바닷물이
+	바닷물/ncn+이/jcc
+
+만나
+	만나/pvg+아/ecx
+
+만들어낸
+	만들/pvg+어/ecx+내/px+ㄴ/etm
+
+쇠소깍의
+	쇠소깍/ncn+의/jcm
+
+깊은
+	깊/paa+은/etm
+
+물에는
+	물/ncn+에/jca+는/jxc
+
+손으로
+	손/ncn+으로/jca
+
+줄을
+	줄/nbn+을/jco
+
+당겨
+	당기/pvg+어/ecx
+
+이동하는
+	이동/ncpa+하/xsva+는/etm
+
+
+세상에서
+	세상/ncn+에서/jca
+
+가장
+	가장/mag
+
+느린
+	느리/paa+ㄴ/etm
+
+교통수단인
+	교통수단/ncn+이/jp+ㄴ/etm
+
+태우가
+	태우/ncn+가/jcs
+
+떠다닌다
+	떠다니/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+40-50분
+	40/nnc+-50/nnc+분/nbu
+
+계곡을
+	계곡/ncn+을/jco
+
+거슬러
+	거스르/pvg+어/ecx
+
+오르며
+	오르/pvg+며/ecc
+
+
+천천히
+	천천히/mag
+
+유람하는
+	유람/ncpa+하/xsva+는/etm
+
+태우의
+	태우/ncn+의/jcm
+
+이용요금은
+	이용요금/ncn+은/jxc
+
+5천원,
+	5/nnc+천/nnc+원/nbu+,/sp
+
+마을
+	마을/ncn
+
+청년회에서
+	청년회/ncn+에서/jca
+
+운영한다네요
+	운영한다네요/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+오늘
+	오늘/ncn
+
+올레
+	올레/ncn
+
+6코스를
+	6코스/ncn+를/jco
+
+동행하게된
+	동행/ncpa+하/xsva+게/ecx+되/px+ㄴ/etm
+
+블랙
+	블랙/ncn
+
+(닉네임)
+	(/sl+닉네임/ncn+)/sr
+
+멋진
+	멋지/paa+ㄴ/etm
+
+모습
+	모습/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+두번째
+	두/nnc+번/nbu+째/xsnu
+
+후배
+	후배/ncn
+
+석일이
+	석일/ncn+이/jcc
+
+내가
+	나/npp+가/jcs
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+카메라를
+	카메라/ncn+를/jco
+
+보유한
+	보유/ncpa+하/xsva+ㄴ/etm
+
+후배
+	후배/ncn
+
+부러워
+	부럽/paa+어/ecx
+
+죽는줄
+	죽/pvg+는/etm+줄/nbn
+
+알았어요
+	알/pvg+아/ep+아/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+세번째
+	세/nnc+번/nbu+째/xsnu
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+마스코트
+	마스코트/ncn
+
+세인이
+	세/nnc+인/nbu+이/jcc
+
+하늘이의
+	하늘/ncn+이/ncn+의/jcm
+
+조카
+	조카/ncn
+
+다니면서
+	다니/pvg+면서/ecc
+
+모델
+	모델/ncn
+
+너무
+	너무/mag
+
+잘해준
+	잘하/pvg+어/ecx+주/px+ㄴ/etm
+
+귀여운아이
+	귀여운아/ncn+이/jcc
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+우리
+	우리/npp
+
+동호회의
+	동호회/ncn+의/jcm
+
+살림꾼
+	살림꾼/ncn
+
+하늘이
+	하늘/ncn+이/jcc
+
+오늘
+	오늘/ncn
+
+카메라들은
+	카메라/ncn+들/ncn+은/jxc
+
+공교롭게도
+	공교/ncps+롭/xsmn+게/ecs+도/jxc
+
+다
+	다/mag
+
+니콘이다
+	니콘/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+남들이
+	남/ncn+들/xsncc+이/jcc
+
+보면
+	보/px+면/ecs
+
+니콘동호회인줄
+	니콘동호회인줄/ncn
+
+아는데
+	알/pvg+ㄴ데/ecs
+
+우리는
+	우리/npp+는/jxc
+
+오름
+	오르/pvg+ㅁ/etn
+
+동호회랍니다
+	동호회/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+이렇게
+	이렇/pad+게/ecs
+
+정예맴버
+	정예/ncn+맴버/ncn
+
+5명이
+	5/nnc+명/nbu+이/jcc
+
+올레
+	올레/ncn
+
+6코스
+	6코스/ncn
+
+
+를
+	를/ncn
+
+다녀왔답니다
+	다니/pvg+어/ecx+오/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+안내해드릴게요
+	안내해드릴게요/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+6코스
+	6코스/ncn
+
+시작점이에요
+	시작/ncpa+점/ncn+이/jp+에요/ef
+
+날씨가
+	날씨/ncn+가/jcs
+
+안좋네요
+	안좋네요/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+놀멍걸으멍쉬멍이
+	놀멍걸으멍쉬멍/ncn+이/jcc
+
+올레길
+	올레길/ncn
+
+철칙이라잖아요
+	철칙/ncn+이라/jca+이/jp+잖아요/ef
+
+
+자
+	자/ii
+
+출발하자고요
+	출발/ncpa+하자/ncn+이/jp+고요/ef
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+두분이
+	두/nnc+분/nbu+이/jcc
+
+친구분
+	친구/ncn+분/ncn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+너무
+	너무/mag
+
+사이
+	사/nnc+이/jcc
+
+좋아보여서
+	좋/paa+아/ecx+보이/px+어서/ecs
+
+찍어봤습니다
+	찍/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+혹시
+	혹시/mag
+
+제
+	저/npp+의/jcm
+
+블러그
+	블러그/ncn
+
+보시면
+	보/px+시/ep+면/ecs
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+보내드릴게요
+	보내드릴게요/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+싫으시면
+	싫/paa+으시/ep+면/ecs
+
+내리라고
+	내리/pvg+라/ef+고/jcr
+
+이야기
+	이야기/ncpa
+
+해주심
+	하/pvg+어/ecx+주/px+시/ep+ㅁ/etn
+
+되세요
+	되/pvg+세/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+우리제주도에서는
+	우리/ncn+제주/ncn+도/ncn+에서/jca+는/jxc
+
+무지막지한
+	무지막지/ncps+하/xsms+ㄴ/etm
+
+애물단지인
+	애물단지/ncn+이/jp+ㄴ/etm
+
+까치에요
+	까치/ncn+이/jp+에요/ef
+
+원래
+	원래/mag
+
+제주도에는
+	제주/ncn+도/ncn+에/jca+는/jxc
+
+까치가
+	까치/ncn+가/jcs
+
+없었는데
+	없/paa+었/ep+는데/ecs
+
+항공사에서
+	항공사/ncn+에서/jca
+
+
+무슨
+	무슨/mmd
+
+기념으로
+	기념/ncpa+으로/jca
+
+까치를
+	까치/ncn+를/jco
+
+들여와서
+	들이/pvg+어/ecx+오/px+아/ecx
+
+놓아줬는데
+	놓/px+아/ecx+주/px+었/ep+는데/ecs
+
+그
+	그/mmd
+
+까치가
+	까치/ncn+가/jcs
+
+번식을
+	벌/pvg+ㄴ/etm+식/nbn+을/jco
+
+너무
+	너무/mag
+
+잘해서
+	잘하/pvg+어서/ecs
+
+지금은
+	지금/ncn+은/jxc
+
+까치를
+	까치/ncn+를/jco
+
+포획하고
+	포획/ncpa+하고/jct
+
+있다네요
+	있다네요/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+쇠소깍의
+	쇠소깍/ncn+의/jcm
+
+전경모습
+	전경/ncn+모습/ncn
+
+아름다운
+	아름답/paa+은/etm
+
+모습에
+	모습/ncn+에/jca
+
+기분이
+	기분/ncn+이/jcc
+
+좋아진다
+	좋/paa+아/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+보이시나요
+	보이/pvg+시/ep+나/ef+요/jxf
+
+바로
+	바로/mag
+
+태우입니다
+	태우입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+5,000원
+	5,000/nnc+원/nbu
+
+주면
+	주/px+면/ecs
+
+태워주는
+	태우/pvg+어/ecx+주/px+는/etm
+
+인기
+	인기/ncn
+
+캡입니다
+	캡/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+올레리본
+	올레리본/ncn
+
+오늘은
+	오늘/ncn+은/jxc
+
+바람이
+	바람/ncn+이/jcc
+
+안불어서
+	안불어/ncn+서/jca
+
+참
+	참/mag
+
+좋다
+	좋/paa+다/ef
+
+했는데
+	하/px+었/ep+는데/ecs
+
+눈도
+	눈/ncn+도/jxc
+
+내리고
+	내리/pvg+고/ecc
+
+날씨가
+	날씨/ncn+가/jcs
+
+오락가락
+	오락가락/mag
+
+
+올레길은
+	올레길/ncn+은/jxc
+
+이어폰이
+	이어폰/ncn+이/jcc
+
+있다면
+	있/px+다면/ecs
+
+상당히
+	상당히/mag
+
+좋은
+	좋/paa+은/etm
+
+친구가
+	친구/ncn+가/jcs
+
+될듯
+	되/pvg+ㄹ/etm+듯/nbs
+
+블랙동생은
+	블랙/ncn+동생/ncn+은/jxc
+
+음악을
+	음악/ncn+을/jco
+
+들으면서
+	들/pvg+면서/ecc
+
+걷는걸
+	걷는걸/ncn
+
+좋아한다
+	좋/paa+아/ecx+하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍는데
+	찍/pvg+는/etm+데/nbn
+
+밑에
+	밑/ncn+에/jca
+
+배가
+	배/ncn+가/jcs
+
+들어오네요
+	들/pvg+어/ecx+오/px+네/ef+요/jxf
+
+이쁘당
+	이쁘당/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+중간에
+	중간/ncn+에/jca
+
+망원경을
+	망원경/ncn+을/jco
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있는곳도
+	있는곳/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+사이좋은
+	사이좋/paa+은/etm
+
+블래과
+	블래/ncn+과/jcj
+
+세인이
+	세/nnc+인/nbu+이/jcc
+
+6코스
+	6코스/ncn
+
+걷는내내
+	걷는내내/ncn
+
+화기애애
+	화기애애/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+섬을
+	서/pvg+ㅁ/etn+을/jco
+
+찍는
+	찍/pvg+는/etm
+
+하늘이의
+	하늘/ncn+이/ncn+의/jcm
+
+모습
+	모습/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+풍경이
+	풍경/ncn+이/jcc
+
+너무
+	너무/mag
+
+아름답다
+	아름답/paa+다/ef
+
+.
+	./sf
+
+
+날씨가
+	날씨/ncn+가/jcs
+
+오락가락하다보니
+	오락가락하/paa+어다/ecx+보/px+니/ecs
+
+그래도
+	그래도/maj
+
+재미있다
+	재미있/pvg+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+옛날
+	옛날/ncn
+
+제주도에는
+	제주/ncn+도/ncn+에/jca+는/jxc
+
+물이
+	물/ncn+이/jcc
+
+귀하다
+	귀하/paa+어다/ecs
+
+보니
+	보/px+니/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+물받이를
+	물받이/ncn+를/jco
+
+해서
+	하/pvg+어서/ecs
+
+빗물로
+	빗물/ncn+로/jca
+
+식수를
+	식수/ncn+를/jco
+
+사용했다고
+	사용/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+해요
+	하/pvg+어요/ef
+
+
+지금은
+	지금/ncn+은/jxc
+
+물이
+	물/ncn+이/jcc
+
+아주
+	아주/mag
+
+많죠
+	많/paa+죠/ef
+
+생수도
+	생수/ncn+도/jxc
+
+팔
+	팔/pvg+ㄹ/etm
+
+정도이니
+	정도/ncn+이/jp+니/ecs
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+투윅스
+	투윅스/ncn
+
+커피하우스
+	커피하우스/ncn
+
+이곳이
+	이곳/npd+이/jcc
+
+바로
+	바로/mag
+
+이주일
+	이/nnc+주일/nbu
+
+별장이었다네요
+	별장이었다네요/ncn
+
+지금은
+	지금/ncn+은/jxc
+
+서울에서
+	서울/ncn+에서/jca
+
+내려오신
+	내리/pvg+어/ecx+오/px+시/ep+ㄴ/etm
+
+사장님이
+	사장님/ncn+이/jcc
+
+운영중이시라니
+	운영/ncpa+중이/ncn+시/ncn+이/jp+라니/ecs
+
+
+분위기
+	분위기/ncn
+
+카페에
+	카페/ncn+에/jca
+
+올려드릴게요
+	올려드릴게요/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+패스
+	패스/ncpa
+
+
+제지기오름이다
+	제/xp+지기/ncn+오름/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+섶섬을
+	섶섬/ncn+을/jco
+
+가장
+	가장/mag
+
+가깝게
+	가깝/paa+게/ecs
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+오름이다
+	오르/pvg+ㅁ/etn+이/jp+다/ef
+
+.
+	./sf
+
+
+옛날
+	옛날/ncn
+
+굴사가
+	굴사/ncn+가/jcs
+
+있고
+	있/px+고/ecc
+
+이를
+	이/npd+를/jco
+
+지키는
+	지키/pvg+는/etm
+
+절지기가
+	절/pvg+ㄹ/etm+지/nbn+이/jp+기/etn+가/jcs
+
+살았다항
+	살았다항/ncn
+
+절오름,
+	절오름,/ncn
+
+절지기오름
+	절지기오름/ncn
+
+
+이라고도
+	이/npd+이/jp+라/ef+고/jcr+도/jxc
+
+불렀다네요
+	불렀다네요/ncn
+
+보목리에
+	보목리/ncn+에/jca
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있어요
+	있/px+어/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+제지기오름정상에서
+	제/xp+지기/ncn+오름/ncn+정상/ncn+에서/jca
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+섶섬과
+	섶섬/ncn+과/jcj
+
+보목항구다
+	보목항구다/ncn
+
+아름답다
+	아름답/paa+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+제지기
+	제지/ncn+이/jp+기/etn
+
+오름을
+	오르/pvg+ㅁ/etn+을/jco
+
+내려왔는데
+	내리/pvg+어/ecx+오/px+아/ep+ㄴ데/ecs
+
+호박이
+	호박/ncn+이/jcc
+
+매달려
+	매달리/pvg+어/ecx
+
+있는게
+	있/px+는게/ecs
+
+눈에
+	눈/ncn+에/jca
+
+띄네요
+	띄/pvg+네/ef+요/jxf
+
+그래서
+	그래서/maj
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찰칵
+	찰칵/mag
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+보목포구다
+	보목포구다/ncn
+
+이룬
+	이루/pvg+ㄴ/etm
+
+눈
+	눈/ncn
+
+오는거
+	오는거/ncn
+
+보이시나요
+	보이/pvg+시/ep+나/ef+요/jxf
+
+날씨가
+	날씨/ncn+가/jcs
+
+정말
+	정말/mag
+
+변덕입니다
+	변덕/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+블랙
+	블랙/ncn
+
+너무
+	너무/mag
+
+멋진거
+	멋진거/ncn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+가서
+	가/pvg+서/ecs
+
+미리
+	미리/mag
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이러다
+	이르/pvg+어다/ecs
+
+허브비치
+	허브비치/ncn
+
+블러그
+	블러그/ncn
+
+전속모델이
+	전속모델/ncn+이/jcc
+
+될거
+	될거/ncn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+세인이의
+	세인/ncn+이/ncn+의/jcm
+
+어색한
+	어색/ncn+한/ncn
+
+인증샷
+	인증/ncpa+샷/ncn
+
+물에도
+	물/ncn+에/jca+도/jxc
+
+있네
+	있/px+네/ef
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+배가
+	배/ncn+가/jcs
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+달려간다
+	달리/pvg+어/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+바다에
+	바다/ncn+에/jca
+
+오니
+	오/px+니/ecs
+
+배도
+	배/ncn+도/jxc
+
+가까이
+	가까이/mag
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있어
+	있/px+어/ecx
+
+좋네요
+	좋/paa+네/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+저
+	저/mmd
+
+나무가
+	나무/ncn+가/jcs
+
+귤나무다
+	귤나무/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+땔감으로
+	때/pvg+ㄹ/etm+감/nbn+으로/jca
+
+많이
+	많/paa+이/xsa
+
+사용한다
+	사용/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+흑백으로
+	흑백/ncn+으로/jca
+
+찍어보았다
+	찍/pvg+어/ecx+보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+중간에
+	중간/ncn+에/jca
+
+귤을
+	귤/ncn+을/jco
+
+샀다
+	사/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+1,000원
+	1,000/nnc+원/nbu
+
+싸다
+	싸/paa+다/ef
+
+.
+	./sf
+
+
+어떤곳은
+	어떤곳/ncn+은/jxc
+
+2,000원
+	2,000/nnc+원/nbu
+
+받는데
+	받/pvg+는데/ecs
+
+그런데
+	그런데/maj
+
+먹어보니
+	먹/pvg+어/ecx+보/px+니/ecs
+
+정말
+	정말/mag
+
+맛있다
+	맛있/paa+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+다들
+	다들/ncn
+
+사진작가
+	사/pvg+아/ecx+지/px+ㄴ/etm+작/nbn+가/jcc
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+그럼
+	그렇/pad+ㅁ/etn
+
+나는
+	나/npp+는/jxc
+
+난
+	나/px+ㄴ/etm
+
+사진이
+	사진/ncn+이/jcc
+
+좋아서
+	좋/paa+아/ecx
+
+찍는
+	찍/pvg+는/etm
+
+허브비치
+	허브비치/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+중간에
+	중간/ncn+에/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+아이들
+	아이/ncn+들/ncn
+
+그래도
+	그래도/maj
+
+자식
+	자식/ncn
+
+생각하는건
+	생각하는건/ncn
+
+동물도
+	동물/ncn+도/jxc
+
+마찬가지
+	마찬가지/ncn
+
+이쁘다
+	이쁘/paa+다/ef
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+바다를
+	바다/ncn+를/jco
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+마음
+	마음/ncn
+
+이해한다
+	이해/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+아름다운
+	아름답/paa+은/etm
+
+바다를
+	바다/ncn+를/jco
+
+보면서
+	보/px+면서/ecc
+
+행복해
+	행복/ncps+하/xsms+어/ecx
+
+한다는
+	하/px+ㄴ다/ef+는/etm
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+찍어놓고
+	찍/pvg+어/ecx+놓/px+고/ecc
+
+보니
+	보/px+니/ecs
+
+애착이
+	애착/ncpa+이/jcc
+
+가는
+	가/pvg+는/etm
+
+사진이다
+	사진/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+다들
+	다들/ncn
+
+이제
+	이제/mag
+
+한포즈들
+	한포즈들/ncn
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+덕분에
+	덕분/ncn+에/jca
+
+올레코스가
+	올레코스/ncn+가/jcs
+
+심심하지
+	심심/ncps+하/xsms+지/ecx
+
+않아
+	않/px+아/ecx
+
+좋았다
+	좋/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+올레길은
+	올레길/ncn+은/jxc
+
+숲길,도로,돌담길,오솔길등
+	숲길/ncn+,/sp+도/ncn+로/jca+,/sp+돌담/ncn+길/ncn+,/sp+오솔길/ncn+등/ncn
+
+사람의
+	사람/ncn+의/jcm
+
+인생도
+	인생/ncn+도/jxc
+
+다
+	다/mag
+
+다르지
+	다르/paa+지/ecx
+
+않을까
+	않/paa+을까/ecs
+
+
+갑자기
+	갑자기/mag
+
+이생각이
+	이생/ncn+각/ncn+이/jcc
+
+든다
+	들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+오늘
+	오늘/ncn
+
+같이
+	같/paa+이/xsa
+
+걸은
+	걸/pvg+ㄴ/etm
+
+세인이
+	세/nnc+인/nbu+이/jcc
+
+밝은
+	밝/paa+은/etm
+
+성격과
+	성격/ncn+과/jct
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍는거걸
+	찍는거걸/ncn
+
+좋아해서
+	좋/paa+아/ecx+하/px+어서/ecs
+
+
+나랑
+	나/npp+랑/jxc
+
+아예
+	아예/mag
+
+붙어
+	붙/pvg+어/ecx
+
+다녔다
+	다니/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+빛이
+	빛/ncn+이/jcc
+
+이쁘게
+	이쁘/paa+게/ecs
+
+잘
+	잘/mag
+
+들어왔다
+	들/pvg+어/ecx+오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+이쁜길이다
+	이쁜길/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+오늘
+	오늘/ncn
+
+나의
+	나/npp+의/jcm
+
+전속모델들
+	전속모델/ncn+들/ncn
+
+재미있게
+	재미있/pvg+게/ecs
+
+올레길
+	올레길/ncn
+
+걷게
+	걷/pvg+게/ecs
+
+해줘서
+	하/pvg+어/ecx+주/px+어서/ecs
+
+너무
+	너무/mag
+
+고마워
+	고맙/paa+어/ecx
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+눈
+	눈/ncn
+
+보이시나요
+	보이/pvg+시/ep+나/ef+요/jxf
+
+중간중간
+	중간/ncn+중간/ncn
+
+운동기구만
+	운동기구/ncn+만/jxc
+
+있으면
+	있/px+으면/ecs
+
+일단
+	일단/mag
+
+해보는
+	하/pvg+어/ecx+보/px+는/etm
+
+세인이
+	세인/ncn+이/jcc
+
+
+눈이
+	눈/ncn+이/jcc
+
+온다
+	오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이거
+	이거/npd
+
+또
+	또/maj
+
+올레
+	올레/ncn
+
+8코스같이
+	8코스같/ncn+이/jcc
+
+중간에
+	중간/ncn+에/jca
+
+그렇지
+	그렇/pad+지/ecx
+
+않을거야
+	않을거/ncn+야/jcv
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+국궁장이다
+	국궁/ncn+장/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+올레
+	올레/ncn
+
+6코스에
+	6코스/ncn+에/jca
+
+있는데
+	있/px+는데/ecs
+
+눈이
+	눈/ncn+이/jcc
+
+내려서
+	내리/pvg+어서/ecs
+
+더
+	더/mag
+
+멋드러진다
+	멋드러진다/ncn
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+마침
+	마침/mag
+
+활을
+	활/ncn+을/jco
+
+쏘신다
+	쏘/pvg+시/ep+ㄴ다/ef
+
+.
+	./sf
+
+
+양해를
+	양해/ncpa+를/jco
+
+구하고
+	구하/pvg+고/ecc
+
+뒤에서
+	뒤/ncn+에서/jca
+
+화살
+	화살/ncn
+
+날아가는걸
+	날아가는걸/ncn
+
+찍을려고
+	찍을려/ncn+이/jp+고/ecc
+
+준비
+	준비/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+화살
+	화살/ncn
+
+날아가는거
+	날아가는거/ncn
+
+보이시죠
+	보이/pvg+시/ep+죠/ef
+
+이거
+	이거/npd
+
+찍을려고
+	찍을려/ncn+이/jp+고/ecc
+
+20번은
+	20/nnc+번/nbu+은/jxc
+
+쏘셨나봐요
+	쏘셨나봐요/ncn
+
+워낙
+	워낙/mag
+
+빨라서
+	빠르/paa+아/ecx
+
+잘
+	잘/mag
+
+안찍혔어요
+	안찍혔어요/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+활만
+	활/ncn+만/jxc
+
+잡아당겨보시란다
+	잡아당겨보시란다/ncn
+
+.
+	./sf
+
+
+와우
+	와우/ncn
+
+그래도
+	그래도/maj
+
+힘들다
+	힘들/pvg+다/ef
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+잡아당긴
+	잡아당기/pvg+ㄴ/etm
+
+활은
+	활/ncn+은/jxc
+
+초보자용이라니
+	초보자/ncn+용이/ncn+라/ncn+이/jp+니/ef
+
+
+와우
+	와우/ncn
+
+그런데
+	그런데/maj
+
+날아갈때
+	날/pvg+아/ecx+가/px+ㄹ/etm+때/nbn
+
+보니
+	보/px+니/ecs
+
+정말
+	정말/mag
+
+매력적이다
+	매력/ncn+적/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+올레길을
+	올레길/ncn+을/jco
+
+걷다가
+	걷/pvg+다가/ecs
+
+잠시
+	잠시/mag
+
+쉬어가는
+	쉬/pvg+어/ecx+가/px+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋은
+	좋/paa+은/etm
+
+방법
+	방법/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+세인이도
+	세인/ncn+이/jcs+도/jxc
+
+쉰다
+	쉬/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+나도
+	나/npp+도/jxc
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍는거
+	찍는거/ncn
+
+잠시
+	잠시/mag
+
+휴식
+	휴식/ncpa
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+바다를
+	바다/ncn+를/jco
+
+보면서
+	보/px+면서/ecc
+
+쉬는건
+	쉬는건/ncn
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+로망이지
+	로망/ncn+이/jp+지/ecs
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+올레길에
+	올레길/ncn+에/jca
+
+오시면
+	오/px+시/ep+면/ecs
+
+할수
+	하/pvg+ㄹ/etm+수/nbn
+
+있으세요
+	있으세요/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+동백꽃이
+	동백/ncn+꽃/ncn+이/jcc
+
+정말
+	정말/mag
+
+이쁘게
+	이쁘/paa+게/ecs
+
+피어있다
+	피/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+어느순간
+	어느순간/ncn
+
+동백꽃이
+	동백/ncn+꽃/ncn+이/jcc
+
+좋아지기
+	좋/paa+아/ecx+지/px+기/etn
+
+시작하네요
+	시작/ncpa+하/xsva+네/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+올레길중
+	올레길중/ncn
+
+돌담길
+	돌담/ncn+길/ncn
+
+멋스럽다
+	멋/ncn+스럽/xsmn+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+인증샷
+	인증/ncpa+샷/ncn
+
+2부로
+	2/nnc+부/nbu+로/jca
+
+이어질게요
+	이어질게요/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy

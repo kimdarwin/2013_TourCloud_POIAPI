@@ -1,0 +1,71 @@
+Title:
+그남자 그 여자 / 바이브 (feat 장혜진) 
+
+Date:
+2010.01.29 21:56
+
+Content:
+
+사랑.. 그리고 가슴 아픈 이별, 그 그리움에 대한 한 남자와 한 여자의아픈 이야기..
+
+ '그남자 그여자 '..
+ 2006 에 발표된바이브의 3집 앨범에 수록된 곡,′그 남자 그 여자′ 는장혜진이 피쳐링 하였다.
+듣기만 해도 눈물이 날 듯 가슴을 파고드는 애절한 선율과 가사...
+ 마음속에 잊고 지냈던 ′사랑′의 소중함을 일깨워 주는 보석과도 같은 음악이다.
+
+
+바이브(feat 장혜진) ' 그남자 그여자' 뮤직비디오 
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc16/2010/01/29/1342/031002136A1743AB12D34B4013C90533703_ya3542_logo.jpg';
+	layout.playtime = '317.33';
+	var qsParam = {};
+	qsParam.vid = 'F10A217C79409644FC4D6B9438F8028AAF5E';
+	qsParam.inKey = 'V12190647c35358d561f8ded0b06bbc892e14fc01c1b813873fd657bec88401606ededed0b06bbc892e14';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_06077 = new VideoInfraUGCPlayer('ugcPlayer_06077' ,bean); 
+ugcPlayer_06077.drawPlayLayer(); 
+}
+
+
+
+
+그남자 그여자 (가사) / 바이브
+
+
+혹시 니가 다시 돌아올까봐 다른 사랑 절대 못해남잘 울렸으면 책임져야지니가 뭘 알아 남자의 마음을모든걸 다주니까 떠난다는 그 여자내 전부를 다 가져간 그 여자한때는 내가 정말 사랑했던 그 여자다 믿었었어 바보같이여자는 다 똑같나봐
+
+혹시 니가 다시 돌아올까봐 다른 사랑 절대 못해여잘 울렸으면 책임져야지 니가 뭘 알아 여자의 마음을모든걸 다주니까 떠난다는 그 남자내 전부를 다 가져간 그 남잔한때는 내가 정말 사랑했던 그 남자다 믿었었어 바보같이남자는 다 똑같나봐
+우린 미치도록 사랑했었지우린 미치도록 사랑했었지~ (I'm gonna cra~~)
+모든걸 다주니까 떠난다는 그 남자
+
+(~zy thinking about you babe~)내 맘 하나 몰라주는 그 남자
+(Oh~ I'll go crazy, I'll go crazy)한때는 내가 정말 사랑했던 그 남자(Oh oh~ I don't make me cry~)
+다 믿었었어 바보같이
+(어어어으우우우~(?)ㅡㅡㅋ)
+
+그땐 사랑이 이별인줄 모르고 (그런 줄도 모르고)다 믿었었어 우리 둘이
+
+
+그남자 그여자 (바이브)
+
+민초호야의 음악공간
+
+
+
+	

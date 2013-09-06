@@ -1,0 +1,718 @@
+아버지의
+	아버지/ncn+의/jcm
+
+마음은
+	마음/ncn+은/jxc
+
+먹칠한
+	먹칠/ncpa+하/xsva+ㄴ/etm
+
+유리와
+	유리/ncn+와/jct
+
+같다
+	같/paa+다/ef
+
+..
+	./sf+./sf
+
+
+그래서
+	그래서/maj
+
+잘
+	잘/mag
+
+깨지지만
+	깨/pvg+어/ecx+지/px+지/ecx+말/px+ㄴ/etm
+
+속은
+	속/ncn+은/jxc
+
+잘
+	잘/mag
+
+보이지
+	보이/pvg+지/ecx
+
+않는다
+	않/px+는다/ef
+
+.
+	./sf
+
+
+아버지란
+	아버지/ncn+란/jcm
+
+울
+	울/pvg+ㄹ/etm
+
+장소가
+	장소/ncn+가/jcs
+
+없기에
+	없/paa+기/etn+에/jca
+
+더
+	더/mag
+
+슬프다
+	슬프/paa+다/ef
+
+..
+	./sf+./sf
+
+
+아버지는
+	아버지/ncn+는/jxc
+
+돌아가신
+	돌/pvg+아/ecx+가/px+시/ep+ㄴ/etm
+
+후에야
+	후/ncn+에야/jca
+
+보고싶어
+	보/pvg+고/ecx+싶/px+어/ecx
+
+진다
+	지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+아버지는
+	아버지/ncn+는/jxc
+
+무관심한
+	무관심/ncps+하/xsms+ㄴ/etm
+
+사람이
+	사람/ncn+이/jcc
+
+아니다
+	아니/paa+다/ef+./sf
+
+..
+	./sf+./sf
+
+
+체면과
+	체면/ncn+과/jcj
+
+자존심,
+	자존심/ncn+,/sp
+
+미안함에
+	미안/ncps+하/xsms+ㅁ/etn+에/jca
+
+마음을
+	마음/ncn+을/jco
+
+나타내지
+	나타내/pvg+지/ecx
+
+못한다
+	못하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+아버지의
+	아버지/ncn+의/jcm
+
+웃음은
+	웃음/ncn+은/jxc
+
+어머니
+	어머니/ncn
+
+웃음의
+	웃음/ncn+의/jcm
+
+두배는
+	두/nnc+배/nbu+는/jxc
+
+크지만
+	크/paa+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+아버지의
+	아버지/ncn+의/jcm
+
+울음은
+	울/pvg+ㅁ/etn+은/jxc
+
+그
+	그/mmd
+
+열배쯤은
+	열/nnc+배/nbu+쯤/xsnx+은/jxc
+
+진하다
+	진하/paa+다/ef
+
+.
+	./sf
+
+
+어머니의
+	어머니/ncn+의/jcm
+
+가슴은
+	가슴/ncn+은/jxc
+
+봄과
+	보/px+ㅁ/etn+과/jcj
+
+여름을
+	여름/ncn+을/jco
+
+왔다갔다
+	왔다갔다/mag
+
+하지만
+	하/pvg+지만/ecs
+
+..
+	./sf+./sf
+
+
+아버지
+	아버지/ncn
+
+가슴은
+	가슴/ncn+은/jxc
+
+가을과
+	가을/ncn+과/jcj
+
+겨울을
+	겨울/ncn+을/jco
+
+오간다
+	오가/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+민초호야
+	민초/ncn+호/ncn+이/jp+야/ef
+
+
+애비
+	애비/ncn
+
+by
+	by/f
+
+최백호
+	최백호/ncn
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc17/2010/03/22/769/031002237148531E1CC3B96C73F591535C5_ya3542_logo.
+	net/blogucc17/2010/03/22/769/031002237148531E1CC3B96C73F591535C5_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'190.
+	'/sr+190./nnc
+
+79';
+	79/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'073C225965D4BFEA389F6AC265F0176E6ECC';
+	'073C225965D4BFEA389F6AC265F0176E6ECC/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V127adbbace0de8e908cbcd5a541b1b123cc60d504e8a5edcef22f8a3b45d6c0a0cb0cd5a541b1b123cc6';
+	'V127adbbace0de8e908cbcd5a541b1b123cc60d504e8a5edcef22f8a3b45d6c0a0cb0cd5a541b1b123cc6/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_06183
+	ugcPlayer_06183/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_06183'
+	VideoInfraUGCPlayer('ugcPlayer_06183'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_06183
+	ugcPlayer_06183/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+애비
+	애비/ncn
+
+(최백호)
+	(최백호)/ncn
+
+가사
+	가사/ncn
+
+
+가뭄으로
+	가뭄/ncn+으로/jca
+
+말라터진
+	말라터진/ncn
+
+논바닥
+	논바닥/ncn
+
+같은가슴이라면
+	같은가슴이라/ncn+이/jp+면/ecs
+
+너는
+	너/npp+는/jxc
+
+알겠니비바람
+	알겠니비바람/ncn
+
+몰아치는
+	몰아치/pvg+는/etm
+
+텅빈
+	텅비/pvg+ㄴ/etm
+
+벌판에홀로선
+	벌판에홀로선/ncn
+
+솔나무
+	솔나무/ncn
+
+같은
+	같/paa+은/etm
+
+마음이구나그래
+	마음이구나그래/ncn
+
+그래
+	그래/ii
+
+그래
+	그래/ii
+
+너무
+	너무/mag
+
+예쁘다새하얀
+	예쁘다새하얀/ncn
+
+드레스에
+	드레스/ncn+에/jca
+
+내
+	내/npp
+
+딸모습이잘
+	딸모습이잘/ncn
+
+살아야
+	살/pvg+아/ecx
+
+한다
+	하/px+ㄴ다/ef
+
+행복해야한다
+	행복/ncps+하/xsms+어야/ecx+하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+애비
+	애비/ncn
+
+소원은
+	소원/ncn+은/jxc
+
+그것뿐이다아장
+	그것뿐이다아장/ncn
+
+아장
+	아장/ncn
+
+걸음마가
+	걸음마/ncn+가/jcs
+
+엊그제
+	엊그제/ncn
+
+같은데어느새
+	같은데어느새/ncn
+
+자라
+	자/nbn+이/jp+라/ecs
+
+내곁을
+	내곁/ncn+을/jco
+
+떠난다니강처럼
+	떠난다니강/ncn+처럼/jca
+
+흘러버린
+	흐르/pvg+어/ecx+버리/px+ㄴ/etm
+
+그
+	그/mmd
+
+세월들이이
+	세월/ncn+들이/ncn+이/jcc
+
+애비
+	애비/ncn
+
+가슴속엔
+	가슴/ncn+속/ncn+엔/jca
+
+남아
+	남/pvg+아/ecx
+
+있구나그래
+	있구나그래/ncn
+
+그래
+	그래/ii
+
+그래
+	그래/ii
+
+울지마라고운
+	울지마라고운/ncn
+
+드레스에
+	드레스/ncn+에/jca
+
+얼굴이
+	얼굴/ncn+이/jcc
+
+질라참아야
+	질라참아야/ncn
+
+한다
+	하/px+ㄴ다/ef
+
+참아야
+	참/pvg+아/ecx
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+애비
+	애비/ncn
+
+부탁은
+	부탁/ncpa+은/jxc
+
+그것
+	그것/npd
+
+뿐이다
+	뿐/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+민초호야
+	민초/ncn+호/ncn+이/jp+야/ef
+
+..
+	./sf+./sf
+
+
+음악essay
+	음악essay/ncn

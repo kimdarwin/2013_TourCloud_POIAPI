@@ -1,0 +1,423 @@
+위치:
+	위치/ncn+:/sp
+
+전남
+	전/xp+남/ncn
+
+여수시
+	여수/ncn+시/ncn
+
+시전동
+	시전/ncn+동/ncn
+
+
+여천선소유적
+	여천선소유적/ncn
+
+
+고려시대부터
+	고려시대/ncn+부터/jxc
+
+배를
+	배/ncn+를/jco
+
+만드는
+	만들/pvg+는/etm
+
+조선소가
+	조선소/ncn+가/jcs
+
+있던
+	있/px+던/etm
+
+자리에요
+	자리/ncn+이/jp+에요/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+임진왜란
+	임진/ncn+왜란/ncn
+
+때
+	때/ncn
+
+이순신
+	이순신/ncn
+
+장군이
+	장군/ncr+이/jcc
+
+전쟁을
+	전쟁/ncpa+을/jco
+
+승리로
+	승리/ncpa+로/jca
+
+이끌게
+	이끌/pvg+게/ecs
+
+한
+	하/pvg+ㄴ/etm
+
+거북선을
+	거북/ncn+선/ncn+을/jco
+
+만들었던
+	만들/pvg+었/ep+던/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+잘
+	잘/mag
+
+알려져
+	알리/pvg+어/ecx+지/px+어/ecx
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+지도상으로
+	지도상/ncn+으로/jca
+
+보면
+	보/px+면/ecs
+
+가막만의
+	가막만/ncn+의/jcm
+
+가장
+	가장/mag
+
+북쪽에
+	북쪽/ncn+에/jca
+
+조선소가
+	조선소/ncn+가/jcs
+
+있으며
+	있/px+으며/ecc
+
+조선소의
+	조선소/ncn+의/jcm
+
+바다
+	바다/ncn
+
+입구에는
+	입구/ncn+에는/jca
+
+
+가덕도와
+	가덕/ncn+도/ncn+와/jcj
+
+장도가
+	장도/ncn+가/jcs
+
+조선소의
+	조선소/ncn+의/jcm
+
+방패
+	방패/ncn
+
+구실을
+	구실/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+먼
+	멀/paa+ㄴ/etm
+
+바다에서
+	바다/ncn+에서/jca
+
+보면
+	보/px+면/ecs
+
+육지처럼
+	육지/ncn+처럼/jca
+
+보이고,
+	보이/pvg+고/ecc+,/sp
+
+가까이
+	가까이/mag
+
+봐도
+	보/px+아/ecs
+
+바다인지
+	바다/ncn+이/jp+ㄴ지/ecs
+
+호수인지
+	호수/ncn+이/jp+ㄴ지/ecs
+
+알아보기
+	알아보/pvg+기/etn
+
+
+어려워
+	어렵/paa+어/ecx
+
+중요한
+	중요/ncps+하/xsms+ㄴ/etm
+
+해군
+	해/nbu+이/jp+군/ef
+
+군사
+	군사/ncn
+
+방어
+	방어/ncpa
+
+지역이었음을
+	지역/ncn+이/jp+었/ep+음/etn+을/jco
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+현재
+	현재/mag
+
+이곳에는
+	이곳/npd+에/jca+는/jxc
+
+거북선을
+	거북/ncn+선/ncn+을/jco
+
+만들고
+	만들/pvg+고/ecc
+
+수리했던
+	수리/ncpa+하/xsva+었/ep+던/etm
+
+굴강
+	굴강/ncn
+
+,
+	,/sp
+
+칼과
+	칼/ncn+과/jcj
+
+창을
+	창/ncn+을/jco
+
+갈고
+	갈/pvg+고/ecc
+
+닦았던
+	닦/pvg+아/ep+ㄴ/etm
+
+세검정
+	세검정/ncn
+
+,
+	,/sp
+
+수군
+	수/nbn+이/jp+군/ef
+
+지휘소였던
+	지휘소/ncn+이/jp+었/ep+던/etm
+
+
+선소창
+	선소창/ncn
+
+,
+	,/sp
+
+수군들이
+	수군/ncn+들/ncn+이/jcc
+
+머물렀던
+	머무르/pvg+었/ep+던/etm
+
+병영막사
+	병영/ncn+막사/ncn
+
+,
+	,/sp
+
+거북선을
+	거북/ncn+선/ncn+을/jco
+
+매어
+	매/pvg+어/ecx
+
+두었던
+	두/pvg+었/ep+던/etm
+
+계선주
+	계선/ncn+주/ncn
+
+,
+	,/sp
+
+칼과
+	칼/ncn+과/jcj
+
+창을
+	창/ncn+을/jco
+
+만들던
+	만들/pvg+던/etm
+
+
+풀뭇간
+	풀뭇간/ncn
+
+,
+	,/sp
+
+왜군들의
+	왜군/ncn+들/ncn+의/jcm
+
+활동을
+	활동/ncpa+을/jco
+
+살피던
+	살피/pvg+던/etm
+
+망해루
+	망해루/ncn
+
+,
+	,/sp
+
+말과
+	말/ncn+과/jcj
+
+수군이
+	수군/ncn+이/jcc
+
+훈련하던
+	훈련/ncpa+하/xsva+던/etm
+
+망마기마대
+	망마기마대/ncn
+
+,
+	,/sp
+
+창을
+	창/ncn+을/jco
+
+던지고
+	던지/pvg+고/ecc
+
+
+활을
+	활/ncn+을/jco
+
+쏘는
+	쓰/pvg+어/ef+는/etm
+
+연습장인
+	연습장/ncn+이/jp+ㄴ/etm
+
+궁장사
+	궁장사/ncn
+
+,
+	,/sp
+
+일반인의
+	일반인/ncn+의/jcm
+
+통행금지를
+	통행금지/ncn+를/jco
+
+표시했던
+	표시/ncpa+하/xsva+었/ep+던/etm
+
+벅수(석인)
+	벅수(석인)/ncn
+
+등
+	등/nbu
+
+다양한
+	다양/ncn+한/ncn
+
+관련
+	관련/ncn
+
+유물들이
+	유물/ncn+들이/ncn
+
+
+남아
+	남/pvg+아/ecx
+
+있으며
+	있/px+으며/ecc
+
+이순신
+	이순신/ncn
+
+장군의
+	장군/ncr+의/jcm
+
+어머니
+	어머니/ncn
+
+하씨부인을
+	하씨부인/ncn+을/jco
+
+모셨던
+	모시/pvg+었/ep+던/etm
+
+곳인
+	곳/ncn+이/jp+ㄴ/etm
+
+자당기거지
+	자당/ncn+기거/ncpa+이/jp+지/ef
+
+가
+	가/jcs
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+여천선소유적
+	여천선소유적/ncn
+
+자세히보기
+	자세히보/ncn+이/jp+기/etn

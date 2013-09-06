@@ -1,0 +1,1410 @@
+제주시
+	제주/ncn+시/ncn
+
+구좌읍
+	구좌/ncn+읍/ncn
+
+하도리
+	하도리/ncn
+
+토끼섬
+	토끼/ncn+섬/ncn
+
+!!
+	!/sf+!/sf
+
+
+문주란
+	문주란/ncn
+
+자생지
+	자생지/ncn
+
+제주의
+	제주/ncn+의/jcm
+
+섬,
+	서/pvg+ㅁ/etn+,/sp
+
+토끼섬
+	토끼/ncn+섬/ncn
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+제주시
+	제주/ncn+시/ncn
+
+동부지역에
+	동부지역/ncn+에/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+일이
+	일/ncn+이/jcc
+
+있어
+	있/paa+어/ecs
+
+
+나들이를
+	나들이/ncpa+를/jco
+
+나섰다가
+	나서/pvg+었/ep+다가/ecs
+
+잠시
+	잠시/mag
+
+시간을
+	시간/ncn+을/jco
+
+내어
+	내/pvg+어/ecx
+
+우리나라에서
+	우리나라/ncn+에서/jca
+
+유일한
+	유일한/mag
+
+문주란
+	문주란/ncn
+
+자생지
+	자생지/ncn
+
+
+천연기념물
+	천연기념물/ncn
+
+제19호로
+	제19호/ncn+로/jca
+
+지정된
+	지정/ncpa+되/xsvn+ㄴ/etm
+
+토끼섬을
+	토끼/ncn+섬/ncn+을/jco
+
+찾았다
+	찾/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+해안도로에
+	해안/ncn+도로/ncn+에/jca
+
+주차하고
+	주차/ncn+하고/jct
+
+문주란
+	문주란/ncn
+
+자생지
+	자생지/ncn
+
+토끼섬을
+	토끼/ncn+섬/ncn+을/jco
+
+
+둘러보기
+	두르/pvg+어/ecx+보/px+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+바닷가로
+	바닷가/ncn+로/jca
+
+들어서며
+	들어서/pvg+며/ecc
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+제주시
+	제주/ncn+시/ncn
+
+동부지역이다
+	동부지역/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+토끼섬
+	토끼/ncn+섬/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+구좌읍
+	구좌/ncn+읍/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011366851",
+	"bl011366851",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"13491625",
+	"/sl+13491625/nnc+"/sr+,/sp
+
+type:"2",
+	type/f+:/sp+"/sl+2/nnc+"/sr+,/sp
+
+title:"토끼섬",
+	title/f+:/sp+"/sl+토끼/ncn+섬/ncn+"/sr+,/sp
+
+pointX:298283,pointY:103643}
+	pointX/f+:/sp+298283/nnc+,/sp+pointY/f+:/sp+103643/nnc+}/sr
+
+
+가는
+	가/pvg+는/etm
+
+날이
+	날/ncn+이/jcc
+
+장날이라고
+	장날/ncn+이/jp+라/ef+고/jcr
+
+하던가요
+	하/px+더/ep+ㄴ가/ef+요/jxf
+
+?
+	?/sf
+
+
+아니,
+	아니/ii+,/sp
+
+밀물
+	밀물/ncn
+
+때라
+	때/nbn+이/jp+라/ecs
+
+토끼섬으로
+	토끼/ncn+섬/ncn+으로/jca
+
+건너갈
+	건너/pvg+어/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+가
+	가/jcs
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+토끼섬은
+	토끼/ncn+섬/ncn+은/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+구좌읍
+	구좌/ncn+읍/ncn
+
+하도리
+	하도리/ncn
+
+해안에서
+	해안/ncn+에서/jca
+
+동쪽으로
+	동쪽/ncn+으로/jca
+
+
+약
+	약/ncn
+
+50m
+	50m/ncn
+
+해상에
+	해상/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+무인도로
+	무인도/ncn+로/jca
+
+면적이
+	면적/ncn+이/jcc
+
+채
+	채/nbn
+
+1,000평도
+	1,000/nnc+평/nbu+도/jxc
+
+안
+	안/mag
+
+되는
+	되/pvg+는/etm
+
+아주
+	아주/mag
+
+작은
+	작/paa+은/etm
+
+섬이다
+	서/pvg+ㅁ/etn+이/jp+다/ef
+
+.
+	./sf
+
+
+토끼섬이
+	토끼/ncn+섬/ncn+이/jcc
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+천연기념물
+	천연기념물/ncn
+
+제19호로
+	제19호/ncn+로/jca
+
+지정된
+	지정/ncpa+되/xsvn+ㄴ/etm
+
+문주란
+	문주란/ncn
+
+자생지이기
+	자생지/ncn+이/jp+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+작은
+	작/paa+은/etm
+
+무인도에
+	무인도/ncn+에/jca
+
+문주란이
+	문주란/ncn+이/jcc
+
+어떻게
+	어떻/pad+게/ecs
+
+자생할
+	자생/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있었을까
+	있/px+었/ep+을까/ef
+
+?
+	?/sf
+
+
+그것은
+	그것/npd+은/jxc
+
+해류를
+	해류/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+흘러온
+	흐르/pvg+어/ecx+오/px+ㄴ/etm
+
+씨앗이
+	씨앗/ncn+이/jcc
+
+이곳에
+	이곳/npd+에/jca
+
+뿌리를
+	뿌리/ncn+를/jco
+
+내린
+	내리/pvg+ㄴ/etm
+
+것이라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+토끼섬으로
+	토끼/ncn+섬/ncn+으로/jca
+
+건너가는
+	건너/pvg+어/ecx+가/px+는/etm
+
+길은
+	길/ncn+은/jxc
+
+바닷물이
+	바닷물/ncn+이/jcc
+
+완전
+	완전/ncps
+
+봉봉
+	봉봉/ncn
+
+들었다
+	들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+썰물
+	썰물/ncn
+
+때에는
+	때/ncn+에/jca+는/jxc
+
+이
+	이/mmd
+
+길을
+	길/ncn+을/jco
+
+건너
+	건너/pvg+어/ecx
+
+저
+	저/mmd
+
+작은
+	작/paa+은/etm
+
+무인도인
+	무인도/ncn+이/jp+ㄴ/etm
+
+문주란
+	문주란/ncn
+
+자생지
+	자생지/ncn
+
+토끼섬을
+	토끼/ncn+섬/ncn+을/jco
+
+구경할
+	구경/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없이
+	없이/mag
+
+갯바위
+	갯바위/ncn
+
+위에서
+	위/ncn+에서/jca
+
+문주란
+	문주란/ncn
+
+자생지
+	자생지/ncn
+
+토끼섬을
+	토끼/ncn+섬/ncn+을/jco
+
+담았다
+	담/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+토끼섬은
+	토끼/ncn+섬/ncn+은/jxc
+
+원래
+	원래/mag
+
+바깥쪽의
+	바깥쪽/ncn+의/jcm
+
+여라는
+	여/ncn+라는/jxc
+
+뜻의
+	뜻/ncn+의/jcm
+
+"난들여"라고도
+	"난들여"라고/ncn+도/jxc
+
+부르고,
+	부르/pvg+고/ecc+,/sp
+
+문주란의
+	문주란/ncn+의/jcm
+
+"난"자에서
+	"/sl+나/pvg+ㄴ/etm+"/sr+자/nbn+에서/jca
+
+따온
+	뜨/pvg+어/ecx+오/px+ㄴ/etm
+
+"난"자와
+	"/sl+난/ncn+"/sr+자/nbn+와/jcj
+
+
+섬
+	서/pvg+ㅁ/etn
+
+도자를
+	도자/ncn+를/jco
+
+붙여
+	붙이/pvg+어/ecx
+
+난도라고도
+	난도/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+부른다
+	부르/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+토끼섬이라고
+	토끼/ncn+섬/ncn+이/jp+라/ef+고/jcr
+
+부르게
+	부르/pvg+게/ecs
+
+된
+	되/pvg+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+1927년
+	1927/nnc+년/nbu
+
+이
+	이/mmd
+
+동내
+	동/nbu+내/xsnu
+
+주민이
+	주민/ncn+이/jcc
+
+토끼를
+	토끼/ncn+를/jco
+
+
+이
+	이/mmd
+
+섬에
+	서/pvg+ㅁ/etn+에/jca
+
+방사한
+	방사/ncn+한/ncn
+
+뒤로
+	뒤/ncn+로/jca
+
+토끼가
+	토끼/ncn+가/jcs
+
+서식하게
+	서식/ncpa+하/xsva+게/ecs
+
+되면서
+	되/pvg+면서/ecc
+
+그
+	그/mmd
+
+후로는
+	후/ncn+로/jca+는/jxc
+
+토끼섬이라고
+	토끼/ncn+섬/ncn+이/jp+라/ef+고/jcr
+
+부르고
+	부르/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+토끼섬
+	토끼/ncn+섬/ncn
+
+입구
+	입구/ncn
+
+갯바위에서
+	갯바위/ncn+에서/jca
+
+담은
+	담/pvg+은/etm
+
+해녀콩이다
+	해녀/ncn+콩/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+바야흐로
+	바야흐로/mag
+
+해녀콩
+	해녀/ncn+콩/ncn
+
+계절이다
+	계절/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+갯바위
+	갯바위/ncn
+
+주변엔
+	주변/ncn+엔/jca
+
+만개한
+	만개/ncpa+하/xsva+ㄴ/etm
+
+해녀콩이
+	해녀/ncn+콩/ncn+이/jcc
+
+바다를
+	바다/ncn+를/jco
+
+향해
+	향하/pvg+어/ecs
+
+
+무한구애를
+	무한/ncps+구애/ncpa+를/jco
+
+보내는
+	보내/pvg+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+참
+	참/mag
+
+아름답다
+	아름답/paa+다/ef
+
+.
+	./sf
+
+
+토끼섬에는
+	토끼/ncn+섬/ncn+에/jca+는/jxc
+
+천연기념물
+	천연기념물/ncn
+
+제19호인
+	제19호/ncn+이/jp+ㄴ/etm
+
+문주란을
+	문주란/ncn+을/jco
+
+비롯해
+	비롯/ncpa+하/xsva+어/ecx
+
+해녀콩,
+	해녀/ncn+콩/ncn+,/sp
+
+
+갯까치수영,
+	갯까치수영,/ncn
+
+갯메꽃,
+	갯메꽃,/ncn
+
+갯금불초,
+	갯금불초,/ncn
+
+갯방풍,
+	갯방풍,/ncn
+
+모래지치등
+	모래지치등/ncn
+
+해안사구
+	해안/ncn+사구/ncn
+
+식물들이
+	식물/ncn+들/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+자라고
+	자/nbn+이/jp+라/ef+고/jcr
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+꽃이
+	꽃/ncn+이/jcc
+
+바로
+	바로/mag
+
+토끼섬
+	토끼/ncn+섬/ncn
+
+입구
+	입구/ncn
+
+갯바위에서
+	갯바위/ncn+에서/jca
+
+담은
+	담/pvg+은/etm
+
+문주란이다
+	문주란/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+문주란은
+	문주란/ncn+은/jxc
+
+난과의
+	난/ncn+과의/jcm
+
+식물로
+	식물/ncn+로/jca
+
+오해를
+	오/nnc+해/nbu+를/jco
+
+하는데,
+	하/pvg+ㄴ데/ecs+,/sp
+
+원래
+	원래/mag
+
+열대지방에서
+	열대지방/ncn+에서/jca
+
+자라는
+	자라/pvg+는/etm
+
+수선화과의
+	수선화/ncn+과의/jcm
+
+다년생
+	다년생/ncn
+
+화초이다
+	화초/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+키는
+	크/paa+어/ef+는/etm
+
+약
+	약/ncn
+
+1m까지
+	1m까지/ncn
+
+자라고
+	자/nbn+이/jp+라/ef+고/jcr
+
+겨울철에는
+	겨울철/ncn+에/jca+는/jxc
+
+잎이
+	잎/ncn+이/jcc
+
+말라버렸다가
+	마르/pvg+아/ecx+버리/px+었/ep+다가/ecs
+
+봄이
+	보/px+ㅁ/etn+이/jcs
+
+되면
+	되/pvg+면/ecs
+
+다시
+	다시/mag
+
+잎과
+	잎/ncn+과/jcj
+
+꽃대가
+	꽃대/ncn+가/jcs
+
+올라와
+	오르/pvg+아/ecx+오/px+아/ecx
+
+7~9월
+	7/nnc+~/sd+9/nnc+월/nbu
+
+사이에
+	사이/ncn+에/jca
+
+
+하얀
+	하얗/paa+은/etm
+
+꽃을
+	꽃/ncn+을/jco
+
+피운다
+	피우/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+한
+	하/pvg+ㄴ/etm
+
+여름에
+	여름/ncn+에/jca
+
+꽃을
+	꽃/ncn+을/jco
+
+피우는
+	피우/pvg+는/etm
+
+문주란은
+	문주란은/ncn
+
+그
+	그/mmd
+
+향기가
+	향기/ncn+가/jcs
+
+천리까지
+	천/nnc+리/nbu+까지/jxc
+
+펴져
+	피/pvg+어/ecx+지/px+어/ecx
+
+나간다고
+	나/pvg+아/ecx+가/px+ㄴ다/ef+고/jcr
+
+하여
+	하/pvg+어/ecx
+
+천리향이라고도
+	천리/ncn+향/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+부른다
+	부르/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+문주란
+	문주란/ncn
+
+자생지인
+	자생지/ncn+이/jp+ㄴ/etm
+
+토끼섬이
+	토끼/ncn+섬/ncn+이/jcc
+
+가장
+	가장/mag
+
+아름다운
+	아름답/paa+은/etm
+
+때가
+	때/ncn+가/jcs
+
+요즘이다
+	요즘/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+하얗게
+	하얗/paa+게/ecs
+
+핀
+	피/pvg+ㄴ/etm
+
+문주란
+	문주란/ncn
+
+꽃이
+	꽃/ncn+이/jcc
+
+토끼섬을
+	토끼/ncn+섬/ncn+을/jco
+
+하얗게
+	하얗/paa+게/ecs
+
+물들여
+	물들이/pvg+어/ecs
+
+
+환상적인
+	환상/ncn+적/ncn+이/jp+ㄴ/etm
+
+분위기를
+	분위기/ncn+를/jco
+
+연출하기
+	연출/ncpa+하/xsva+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+토끼섬은
+	토끼/ncn+섬/ncn+은/jxc
+
+
+야트막한
+	야트막/ncps+하/xsms+ㄴ/etm
+
+동산과
+	동산/ncn+과/jct
+
+작은
+	작/paa+은/etm
+
+모래밭으로
+	모래밭/ncn+으로/jca
+
+이뤄진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+아주
+	아주/mag
+
+작은
+	작/paa+은/etm
+
+섬이다
+	서/pvg+ㅁ/etn+이/jp+다/ef
+
+.
+	./sf
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/07/22/1376/03100323813A53CE6FC3B97C738A42F3346_scpark1214_480P_01_16x9_logo.
+	net/blogucc28/2012/07/22/1376/03100323813A53CE6FC3B97C738A42F3346_scpark1214_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'16.
+	'/sr+16./nnc
+
+0';
+	0/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'52659179B0846EFDC2B5D78175486810FE8B';
+	'52659179B0846EFDC2B5D78175486810FE8B/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V121c060009876bc6062f8880c6dfa2b1982a0f8460f618003776c22b55534a62d39f8880c6dfa2b1982a';
+	'V121c060009876bc6062f8880c6dfa2b1982a0f8460f618003776c22b55534a62d39f8880c6dfa2b1982a/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_08079
+	ugcPlayer_08079/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_08079'
+	VideoInfraUGCPlayer('ugcPlayer_08079'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_08079
+	ugcPlayer_08079/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+문주란
+	문주란/ncn
+
+꽃이
+	꽃/ncn+이/jcc
+
+환상적인
+	환상/ncn+적/ncn+이/jp+ㄴ/etm
+
+분위기를
+	분위기/ncn+를/jco
+
+연출하는
+	연출/ncpa+하/xsva+는/etm
+
+
+토끼섬
+	토끼/ncn+섬/ncn
+
+풍광을
+	풍광/ncn+을/jco
+
+담을
+	담/ncn+을/jco
+
+수
+	수/nbn
+
+없어
+	없/paa+어/ecx
+
+안타깝지만
+	안타깝/paa+지/ecx+말/px+ㄴ/etm
+
+오늘은
+	오늘/ncn+은/jxc
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없이
+	없이/mag
+
+발길을
+	발길/ncn+을/jco
+
+돌린다
+	돌리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+찾아가는
+	찾/pvg+아/ecx+가/px+는/etm
+
+길은
+	길/ncn+은/jxc
+
+제주시외버스터미널에서
+	제주/ncn+시외버스터미널/ncn+에서/jca
+
+동회선
+	동회/ncn+선/ncn
+
+일주도로
+	일주도로/ncn
+
+
+시외버스를
+	시외버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+하도마을
+	하도마/ncn+이/jp+ㄹ/etm
+
+입구에
+	입구/ncn+에/jca
+
+하차해
+	하차/ncn+해/ncn
+
+도보로
+	도보/ncpa+로/jca
+
+약
+	약/ncn
+
+30여분
+	30/nnc+여/xsnu+분/nbu
+
+바닷가로
+	바닷가/ncn+로/jca
+
+이동하면
+	이동/ncpa+하/xsva+면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf

@@ -1,0 +1,963 @@
+[
+	[/sl
+
+나주여행
+	나주여행/ncn
+
+]
+	]/sr
+
+나주
+	나주/ncn
+
+메타세퀘이아길
+	메타세퀘이아길/ncn
+
+-
+	-/sd
+
+전남산림자원연구소
+	전남산림자원연구소/ncn
+
+
+은행나무와
+	은행/ncn+나무/ncn+와/jct
+
+함께
+	함께/mag
+
+공룡이
+	공룡/ncn+이/jcc
+
+지구를
+	지구/ncn+를/jco
+
+지배하던
+	지배하/ncn+이/jp+던/etm
+
+백악기에도
+	백악기/ncn+에/jca+도/jxc
+
+존재했던
+	존재/ncpa+하/xsva+었/ep+던/etm
+
+나무,
+	나무/ncn+,/sp
+
+
+마지막
+	마지막/ncn
+
+빙하기
+	빙하/ncn+이/jp+기/etn
+
+이후
+	이후/ncn
+
+사라졌다고
+	사라지/pvg+었/ep+다/ef+고/jcr
+
+알려졌던
+	알리/pvg+어/ecx+지/px+었/ep+던/etm
+
+신생대의
+	신생대/ncn+의/jcm
+
+나무로
+	나무/ncn+로/jca
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+수삼나무,
+	수삼/ncn+나무/ncn+,/sp
+
+메타세퀘이아라고도
+	메타세퀘이아/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+부른다
+	부르/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+살아
+	살/pvg+아/ecx
+
+있는
+	있/px+는/etm
+
+화석식물로
+	화석/ncn+식물/ncn+로/jca
+
+중국
+	중국/ncn
+
+쓰촨성
+	쓰촨성/ncn
+
+허베이성에
+	허베이성/ncn+에/jca
+
+남아
+	남/pvg+아/ecx
+
+있으며
+	있/paa+으며/ecc
+
+
+우리나라포항에서도
+	우리나라포항에서/ncn+도/jxc
+
+이것의
+	이것/npd+의/jcm
+
+화석이
+	화석/ncn+이/jcc
+
+발견되었다고
+	발견/ncpa+되/xsvn+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+메타세쿼이아길
+	메타세쿼이아/ncn+길/ncn
+
+하면
+	하/pvg+면/ecs
+
+떠오르는
+	떠오르/pvg+는/etm
+
+곳
+	곳/ncn
+
+담양,
+	담양,/ncn
+
+순창,
+	순창,/ncn
+
+남이섬,
+	남이/ncn+섬/ncn+,/sp
+
+
+KBS
+	KBS/f
+
+해피선데이
+	해피/ncpa+선데이/ncn
+
+1박2일팀
+	1박2일팀/ncn
+
+이
+	이/mmd
+
+다녀가면서
+	다니/pvg+어/ecx+가/px+면서/ecc
+
+알려지기
+	알리/pvg+어/ecx+지/px+기/etn
+
+시작한
+	시작/ncpa+하/xsva+ㄴ/etm
+
+나주의
+	나주/ncn+의/jcm
+
+산포수목원
+	산포/ncpa+수목원/ncn
+
+
+산포수목원(전남
+	산포수목원(전남/ncn
+
+산림자원연구소)이라는
+	산림자원/ncn+연구소/ncn+)/sr+이/jp+라/ef+는/etm
+
+이름보다
+	이름/ncn+보다/jca
+
+1박2일
+	1박2/ncn+이/jp+ㄹ/etm
+
+메타세쿼이아
+	메타세쿼이아/ncn
+
+가로수길로
+	가로수/ncn+길/ncn+로/jca
+
+더
+	더/mag
+
+유명해진
+	유명해지/pvg+ㄴ/etm
+
+곳을
+	곳/ncn+을/jco
+
+찾아본다
+	찾/pvg+아/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+[
+	[/sl
+
+나주여행
+	나주여행/ncn
+
+]
+	]/sr
+
+나주
+	나주/ncn
+
+메타세퀘이아길
+	메타세퀘이아길/ncn
+
+
+하늘
+	하늘/ncn
+
+높은
+	높/paa+은/etm
+
+줄
+	줄/nbn
+
+모르고
+	모르/pvg+고/ecc
+
+쭉쭉
+	쭉쭉/mag
+
+뻗은
+	뻗/pvg+은/etm
+
+그리고
+	그리고/maj
+
+두팔을
+	두/nnc+팔/nnc+을/jco
+
+벌려
+	벌리/pvg+어/ecx
+
+파란하늘을
+	파란/ncn+하늘/ncn+을/jco
+
+가리고
+	가리/pvg+고/ecc
+
+푸르른
+	푸르른/ncn
+
+숲
+	숲/ncn
+
+터널을
+	터널/ncn+을/jco
+
+만들어내는
+	만들/pvg+어/ecx+내/px+는/etm
+
+
+싱그러움과
+	싱그럽/paa+음/etn+과/jcj
+
+상쾌함이
+	상쾌/ncps+하/xsms+ㅁ/etn+이/jcs
+
+있는
+	있/px+는/etm
+
+메타세쿼이아길
+	메타세쿼이아/ncn+길/ncn
+
+
+다만
+	다만/mag
+
+포장길이
+	포장/ncpa+길/ncn+이/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+흙
+	흙/ncn
+
+길
+	길/paa+ㄹ/etm
+
+이었으면
+	이/npd+이/jp+었/ep+으면/ecs
+
+더
+	더/mag
+
+좋았을
+	좋/paa+아/ep+ㄹ/etm
+
+것
+	것/nbn
+
+같다는
+	같/paa+다/ef+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+해본다
+	하/pvg+어/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+[
+	[/sl
+
+나주여행
+	나주여행/ncn
+
+]
+	]/sr
+
+나주
+	나주/ncn
+
+메타세퀘이아길
+	메타세퀘이아길/ncn
+
+
+담양의
+	담양/ncn+의/jcm
+
+메타세쿼이아길
+	메타세쿼이아/ncn+길/ncn
+
+보다
+	보다/mag
+
+도로
+	도/ncn+로/jca
+
+길이는
+	길/ncn+이/jp+는/etm
+
+짧지만
+	짧/paa+지/ecx+말/px+ㄴ/etm
+
+나무의
+	나무/ncn+의/jcm
+
+높이는
+	높이/pvg+는/etm
+
+높고
+	높/paa+고/ecc
+
+폭이
+	폭/nbu+이/jcc
+
+좁아
+	좁/paa+어/ecx
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+느낌을
+	느끼/pvg+ㅁ/etn+을/jco
+
+더하는
+	더하/paa+는/etm
+
+곳이어서
+	곳/nbu+이/jp+어서/ecs
+
+
+연인들과
+	연인/ncn+들/ncn+과/jcj
+
+사진작자들의
+	사진/ncn+작자/ncn+들/ncn+의/jcm
+
+출사지로
+	출사/ncpa+지로/ncn
+
+사계절
+	사계절/ncn
+
+많이
+	많/paa+이/xsa
+
+찾는
+	찾/pvg+는/etm
+
+나주여행
+	나주여행/ncn
+
+지로
+	지/nbn+로/jca
+
+꼽는다
+	꼽/pvg+는다/ef
+
+..
+	./sf+./sf
+
+
+산포수목원
+	산포/ncpa+수목원/ncn
+
+산림자원연구소는
+	산림자원/ncn+연구소/ncn+는/jxc
+
+48ha의
+	48ha/ncn+의/jcm
+
+산림욕장과
+	산림욕장/ncn+과/jcj
+
+542종의
+	542/nnc+종/nbu+의/jcm
+
+수목으로
+	수목/ncn+으로/jca
+
+울창한
+	울창/ncn+한/ncn
+
+숲을
+	숲/ncn+을/jco
+
+이루고
+	이루/pvg+고/ecc
+
+
+아름다운
+	아름답/paa+은/etm
+
+경관으로
+	경관/ncn+으로/jca
+
+언제나
+	언제나/mag
+
+상쾌한
+	상쾌/ncps+하/xsms+ㄴ/etm
+
+음이온과
+	음이온/ncn+과/jcj
+
+피톤치드로
+	피톤치드/ncn+로/jca
+
+스트레스해소와
+	스트레스해소/ncn+와/jcj
+
+심신치유에
+	심신/ncn+치유/ncpa+에/jca
+
+도움을
+	도움/ncn+을/jco
+
+주고
+	주/px+고/ecc
+
+있는
+	있/px+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+메타세쿼이아
+	메타세쿼이아/ncn
+
+왼쪽으로는
+	왼쪽/ncn+으로/jca+는/jxc
+
+나무그늘이
+	나무/ncn+그늘/ncn+이/jcc
+
+가려진
+	가리/pvg+어/ecx+지/px+ㄴ/etm
+
+산책하기
+	산책/ncpa+하/xsva+기/etn
+
+딱
+	딱/mag
+
+좋은
+	좋/paa+은/etm
+
+산책로가
+	산책로/ncn+가/jcs
+
+곳곳이
+	곳곳/ncn+이/jcc
+
+나있다
+	나/pvg+아/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+작은
+	작/paa+은/etm
+
+정자와
+	정자/ncn+와/jcj
+
+연못이
+	연못/ncn+이/jcc
+
+연못에는
+	연못/ncn+에/jca+는/jxc
+
+수련도
+	수련/ncn+도/jxc
+
+피어있고
+	피/pvg+어/ecx+있/px+고/ecc
+
+잠자리들은
+	잠자리/ncn+들/ncn+은/jxc
+
+짝
+	짝/nbn
+
+직기가
+	직기/ncn+가/jcs
+
+한창이다
+	한창/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+[
+	[/sl
+
+나주여행
+	나주여행/ncn
+
+]
+	]/sr
+
+전남산림자원연구소
+	전남산림자원연구소/ncn
+
+
+노란색
+	노란색/ncn
+
+꽃과
+	꽃/ncn+과/jcj
+
+보라색
+	보라색/ncn
+
+꽃이
+	꽃/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+꽃동산구경도
+	꽃동산/ncn+구경/ncn+도/jxc
+
+하니
+	하/pvg+니/ecs
+
+눈이
+	눈/ncn+이/jcc
+
+호강을
+	호강/ncpa+을/jco
+
+한다
+	하/pvg+ㄴ다/ef
+
+
+[
+	[/sl
+
+나주여행
+	나주여행/ncn
+
+]
+	]/sr
+
+전남산림자원연구소
+	전남산림자원연구소/ncn
+
+
+민들레의
+	민들레/ncn+의/jcm
+
+꽃말은
+	꽃말/ncn+은/jxc
+
+감사하는
+	감사/ncpa+하/xsva+는/etm
+
+마음이라고
+	마음/ncn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이웃님들께
+	이웃/ncpa+님/ncn+들/xsncc+께/jca
+
+감사하는
+	감사/ncpa+하/xsva+는/etm
+
+마음에
+	마음/ncn+에/jca
+
+민들레
+	민들레/ncn
+
+사진도
+	사진/ncn+도/jxc
+
+담아서
+	담/pvg+아/ecx
+
+올려본다
+	올리/pvg+어/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+홀씨가
+	홀씨/ncn+가/jcs
+
+날아간다
+	날/pvg+아/ecx+가/px+ㄴ다/ef
+
+
+또한
+	또한/maj
+
+등산로를
+	등산로/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+팔각전망대,
+	팔각/ncn+전망대/ncn+,/sp
+
+종합놀이대,
+	종합/ncpa+놀이/ncn+대/ncn+,/sp
+
+사각정자
+	사각/ncn+정자/ncn
+
+등
+	등/nbu
+
+29종의
+	29/nnc+종/nbu+의/jcm
+
+다양한
+	다양/ncn+한/ncn
+
+시설이
+	시설/ncpa+이/jcc
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecx
+
+있으며
+	있/paa+으며/ecc
+
+
+황토,
+	황토/ncn+,/sp
+
+검정자갈,
+	검정/ncn+자갈/ncn+,/sp
+
+나무목편
+	나무목편/ncn
+
+등을
+	등/nbu+을/jco
+
+소재로
+	소재/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+치유숲길(2km)은
+	치유숲길(2km)/ncn+은/jxc
+
+방문객들의
+	방문객/ncn+들/ncn+의/jcm
+
+보건증진과
+	보건증/ncn+진/ncn+과/jcj
+
+이용에
+	이용/ncpa+에/jca
+
+편의를
+	편의/ncn+를/jco
+
+제공하고
+	제공/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+숲에서
+	숲/ncn+에서/jca
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+맘껏
+	맘껏/mag
+
+뛰놀고
+	뛰놀/pvg+고/ecc
+
+오감을
+	오가/pvg+ㅁ/etn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+자연과
+	자연/ncn+과/jct
+
+교감하는
+	교감/ncpa+하/xsva+는/etm
+
+등
+	등/nbu
+
+체험활동
+	체험/ncpa+활동/ncpa
+
+위주의
+	위주/ncpa+의/jcm
+
+교육으로
+	교육/ncpa+으로/jca
+
+전인적
+	전/nbn+이/jp+ㄴ/etm+적/nbn
+
+성장
+	성장/ncpa
+
+발달을
+	발달/ncpa+을/jco
+
+
+도모하며
+	도모/ncpa+하/xsva+며/ecc
+
+인공
+	인공/ncn
+
+시설보다는
+	시설/ncpa+보다/jca+는/jxc
+
+자연
+	자연/ncn
+
+체험
+	체험/ncpa
+
+위주의
+	위주/ncpa+의/jcm
+
+시설물을
+	시설물/ncn+을/jco
+
+조성하고
+	조성/ncpa+하고/jct
+
+형식이나
+	형식/ncn+이나/jcj
+
+규칙,
+	규칙/ncn+,/sp
+
+통제와
+	통제/ncpa+와/jcj
+
+제한은
+	제한/ncpa+은/jxc
+
+최소화하는
+	최소/ncn+화/xsnca+하/xsva+는/etm
+
+
+교육
+	교육/ncpa
+
+프로그램도
+	프로그램/ncn+도/jxc
+
+실시하고
+	실시/ncpa+하고/jct
+
+있다고
+	있/px+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+살아있는
+	살/pvg+아/ecx+있/px+는/etm
+
+화석
+	화석/ncn
+
+식물
+	식물/ncn
+
+메타세쿼이아의
+	메타세쿼이아/ncn+의/jcm
+
+푸르른
+	푸르른/ncn
+
+숲을
+	숲/ncn+을/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+작은
+	작/paa+은/etm
+
+오솔길,
+	오솔길/ncn+,/sp
+
+숲속의
+	숲속/ncn+의/jcm
+
+쉼터
+	쉼터/ncn
+
+다양한
+	다양/ncn+한/ncn
+
+테마에
+	테마/ncn+에/jca
+
+따라
+	따르/pvg+아/ecs
+
+
+철
+	철/ncn
+
+따라
+	따르/pvg+아/ecx
+
+피어나는
+	피/pvg+어/ecx+나/px+는/etm
+
+이곳에서
+	이곳/npd+에서/jca
+
+휴식을
+	휴식/ncpa+을/jco
+
+통한
+	통하/pvg+ㄴ/etm
+
+여유로움과
+	여유/ncn+롭/xsmn+음/etn+과/jcj
+
+즐거움을
+	즐거움/ncn+을/jco
+
+함께
+	함께/mag
+
+자연을
+	자연/ncn+을/jco
+
+느껴
+	느끼/pvg+어/ecx
+
+보시길
+	보시/ncpa+길/ncn
+
+바랍니다
+	바라/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+전남산림자원연구소
+	전남산림자원연구소/ncn
+
+
+전남
+	전/xp+남/ncn
+
+나주시
+	나주시/ncn
+
+삼포면
+	삼포/ncn+이/jp+면/ecs
+
+산제리
+	산제/ncn+이/jp+리/ef
+
+산23
+	산23/ncn
+
+
+061)336
+	061/nnc+)/sr+336/nnc
+
+-
+	-/sd
+
+6300
+	6300/nnc

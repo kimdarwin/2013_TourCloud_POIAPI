@@ -1,0 +1,591 @@
+프렌치
+	프렌치/ncn
+
+레스토랑
+	레스토랑/ncn
+
+히라마츠,
+	히라마츠,/ncn
+
+폴보큐즈,
+	폴보큐즈,/ncn
+
+이탈리안
+	이탈리안/ncn
+
+레스토랑
+	레스토랑/ncn
+
+아소
+	아소/ncn
+
+등
+	등/nbu
+
+도쿄의
+	도쿄/ncn+의/jcm
+
+여러
+	여러/mma
+
+인기
+	인기/ncn
+
+레스토랑들을
+	레스토랑/ncn+들/ncn+을/jco
+
+여럿
+	여럿/nnc
+
+운영하고
+	운영/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+히라마츠
+	히라마츠/ncn
+
+(
+	(/sl
+
+)
+	)/sr
+
+그룹
+	그룹/ncn
+
+계열의
+	계열/ncn+의/jcm
+
+카페
+	카페/ncn
+
+Cafe
+	Cafe/f
+
+des
+	des/f
+
+pres
+	pres/f
+
+에
+	에/pvg+어/ecx
+
+가봤다
+	가/pvg+아/ecx+보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+히로오의
+	히로오/ncn+의/jcm
+
+큰길가
+	큰길/ncn+가/jcs
+
+지만
+	지/nbn+만/jxc
+
+골목
+	골목/ncn
+
+안이라서
+	안/ncn+이/jp+라서/ecs
+
+한적한
+	한적/ncps+하/xsms+ㄴ/etm
+
+곳에
+	곳/nbn+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+있는
+	있/px+는/etm
+
+카페
+	카페/ncn
+
+데프레는
+	데프/ncn+레/ncn+는/jxc
+
+파리의
+	파리/ncn+의/jcm
+
+오픈
+	오픈/ncpa
+
+카페
+	카페/ncn
+
+스타일이
+	스타일/ncn+이/jcc
+
+컨셉
+	컨셉/ncn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+한다.
+	하/px+ㄴ다/ef+./sf
+
+6월초
+	6/nnc+월/nbu+초/xsnu
+
+였는데
+	였는데/ncn
+
+그날
+	그날/ncn
+
+날씨가
+	날씨/ncn+가/jcs
+
+살짝
+	살짝/mag
+
+더웠는데
+	덥/paa+었/ep+는데/ecs
+
+테라스석에
+	테라스/ncn+석/ncn+에/jca
+
+앉아도
+	앉/pvg+아/ecs
+
+좋을
+	좋/paa+을/etm
+
+듯
+	듯/nbn
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+인자하게
+	인자/ncps+하/xsms+게/ecs
+
+생기신
+	생기/pvg+시/ep+ㄴ/etm
+
+폴
+	폴/ncn
+
+보큐즈
+	보큐즈/ncn
+
+쉐프전에
+	쉐프전/ncn+에/jca
+
+리용에
+	리/ncn+용/xsncc+에/jca
+
+갔었을때
+	가/px+아/ep+ㄹ/etm+때/nbn
+
+폴
+	폴/ncn
+
+보큐즈
+	보큐즈/ncn
+
+쉐프가
+	쉐프/ncn+가/jcs
+
+프로듀스한
+	프로듀스/ncn+한/ncn
+
+레스토랑에
+	레스토랑/ncn+에/jca
+
+갔었을때도
+	가/px+아/ep+ㄹ/etm+때/nbn+도/jxc
+
+봤던
+	보/px+아/ep+ㄴ/etm
+
+얼굴인데도쿄에도
+	얼굴인데도쿄/ncn+에/jca+도/jxc
+
+폴
+	폴/ncn
+
+보큐즈
+	보큐즈/ncn
+
+레스토랑이
+	레스토랑/ncn+이/jcc
+
+5개나
+	5/nnc+개/nbu+이/jp+나/ecs
+
+있으니
+	있/px+으니/ecs
+
+종종
+	종종/mag
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+얼굴
+	얼굴/ncn
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+Cafe
+	Cafe/f
+
+des
+	des/f
+
+pres
+	pres/f
+
+같은
+	같/paa+은/etm
+
+건물
+	건물/ncn
+
+지하
+	지하/ncn
+
+1층에
+	1/nnc+층/nbu+에/jca
+
+Brasserie
+	Brasserie/f
+
+Paul
+	Paul/f
+
+Bocuse
+	Bocuse/f
+
+la
+	la/f
+
+Cave
+	Cave/f
+
+가
+	가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+실내
+	실내/ncn
+
+인테리어는
+	인테리어/ncn+는/jxc
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+보면
+	보/px+면/ecs
+
+멋지고
+	멋지/paa+고/ecc
+
+가까이서
+	가까이/ncn+서/jca
+
+보면
+	보/px+면/ecs
+
+세월의
+	세/nnc+월/nbu+의/jcm
+
+흔적을
+	흔적/ncn+을/jco
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+hiramatsu.
+	hiramatsu/f+./sy
+
+co.
+	co/f+./sy
+
+jp/cafe/despres/index.
+	jp/f+//sp+cafe/f+//sp+despres/f+//sp+index/f+./sy
+
+html밤에
+	html/f+밤/ncn+에/jca
+
+보면
+	보/px+면/ecs
+
+이런
+	이런/mmd
+
+모습http://www.
+	모습http://www./ncn
+
+hiramatsu.
+	hiramatsu/f+./sy
+
+co.
+	co/f+./sy
+
+jp/cafe/despres/index.
+	jp/f+//sp+cafe/f+//sp+despres/f+//sp+index/f+./sy
+
+html우리는
+	html/f+우리/ncn+는/jxc
+
+살짝
+	살짝/mag
+
+더워서
+	덥/paa+어서/ecs
+
+안에
+	안/ncn+에/jca
+
+앉았다
+	앉/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+디저트를
+	디저트/ncn+를/jco
+
+먹어봐야지
+	먹/pvg+어/ecx+보/px+아/ecs
+
+하고
+	하/pvg+고/ecc
+
+왔는다가
+	왔는다/ncn+가/jcs
+
+런치배가
+	런치배/ncn+가/jcs
+
+꺼지질
+	꺼지질/ncn
+
+않아서커피만
+	않아서커피/ncn+만/jxc
+
+시켰는데
+	시키/pvg+었/ep+는데/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+평범한
+	평범/ncps+하/xsms+ㄴ/etm
+
+맛의
+	맛/ncn+의/jcm
+
+커피는
+	커피/ncn+는/jxc
+
+또
+	또/maj
+
+오랜만에
+	오랜만/ncn+에/jca
+
+마셔봤다
+	마시/pvg+어/ecx+보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+히라마츠
+	히라마츠/ncn
+
+계열의
+	계열/ncn+의/jcm
+
+레스토랑들은
+	레스토랑/ncn+들/ncn+은/jxc
+
+미슐랭
+	미슐랭/ncn
+
+스타
+	스타/ncn
+
+받은
+	받/pvg+은/etm
+
+레스토랑들
+	레스토랑/ncn+들/ncn
+
+이고
+	이/npd+이/jp+고/ecc
+
+그렇지
+	그렇/pad+지/ecx
+
+않은
+	않/px+은/etm
+
+레스토랑들도
+	레스토랑/ncn+들/ncn+도/jxc
+
+인기
+	인기/ncn
+
+많고,
+	많/paa+고/ecc+,/sp
+
+데프레의
+	데프/ncn+레/ncn+의/jcm
+
+타베로그
+	타베로그/ncn
+
+평가
+	평/nbu+가/jcc
+
+점수도
+	점수/ncn+도/jxc
+
+나뿌지
+	나뿌지/ncn
+
+않던데
+	않/px+던/etm+데/nbn
+
+..
+	./sf+./sf
+
+
+커피맛은
+	커피/ncn+맛/ncn+은/jxc
+
+왜
+	왜/mag
+
+없는건지
+	없/paa+는/etm+것/nbn+이/jp+ㄴ지/ecs
+
+살짝
+	살짝/mag
+
+이해
+	이/nnc+해/nbu
+
+안되었던
+	안되/paa+었/ep+던/etm
+
+...
+	.../se
+
+
+브래서리
+	브래서리/ncn
+
+폴
+	폴/ncn
+
+보큐즈
+	보큐즈/ncn
+
+에서
+	에/pvg+어서/ecs
+
+가져온다는
+	가/pvg+아/ecx+지/px+어/ecx+오/px+ㄴ다/ef+는/etm
+
+샌드위치나
+	샌드위치/ncn+나/jcj
+
+디저트를
+	디저트/ncn+를/jco
+
+먹었어야
+	먹/pvg+었/ep+어야/ecs
+
+했나
+	하/px+었/ep+나/ef
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+/Cafe
+	//sp+Cafe/f
+
+des
+	des/f
+
+pres
+	pres/f
+
+-
+	-/sd
+
+-
+	-/sd
+
+1Fhttp://www.
+	1Fhttp://www./ncn
+
+hiramatsu.
+	hiramatsu/f+./sy
+
+co.
+	co/f+./sy
+
+jp/cafe/despres/http://r.
+	jp/f+//sp+cafe/f+//sp+despres/f+//sp+http/f+:/sp+//sp+//sp+r/f+./sy
+
+tabelog.
+	tabelog/f+./sy
+
+com/tokyo/A1307/A130703/13001640/
+	com/tokyo/A1307/A130703/ncn+//sp+13001640/nnc+//sp

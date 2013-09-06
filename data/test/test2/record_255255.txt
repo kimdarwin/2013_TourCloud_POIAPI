@@ -1,0 +1,33 @@
+Title:
+8/19 대관령옛길과 안목항 여행 후기
+
+Date:
+2012.08.20
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(947759,'files/attach/images/64/255/255/9e5927c1bd688894eb247ef5e7e1147f.jpg');
+list_gallery_add_image(947759,'files/attach/images/64/255/255/27add5c80f652107cd57908ad2d22484.jpg');
+list_gallery_add_image(947759,'files/attach/images/64/255/255/bd9a52e40103abce622e66018916a8b7.jpg');
+list_gallery_add_image(947759,'files/attach/images/64/255/255/1064a9a7b5668b26ed295196379c12c4.jpg');
+list_gallery_add_image(947759,'files/attach/images/64/255/255/53054120680d4ad5aaa99ada6c0347a0.jpg');
+list_gallery_add_image(947759,'files/attach/images/64/255/255/ae84606eca7f822e4d7cc94d69a958bf.jpg');
+list_gallery_add_image(947759,'files/attach/images/64/255/255/0fe3c53c0bf2724ccaf7f7f48f849bbd.jpg');
+list_gallery_add_image(947759,'files/attach/images/64/255/255/746e6773ec96e73799523aaeb2fb6749.jpg');
+list_gallery_add_image(947759,'files/attach/images/64/255/255/d011b32d9b0fa458bc17d17aa89742cf.jpg');
+list_gallery_add_image(947759,'files/attach/images/64/255/255/0b9030b49f16dbcf3d479aae877e8a36.jpg');
+list_gallery_add_image(947759,'files/attach/images/64/255/255/72d2e9dd1b9ed583907d306aafa1f6d0.jpg');
+list_gallery_add_image(947759,'files/attach/images/64/255/255/5ab1c395e1c5f556d863aa42530b2ac6.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 8월 19일(일) 대관령옛길 걷기와 안목항 바닷가 여행을 하였습니다.
+대관령옛길 구간은 구 영동고속도로 대관령휴게소에서 강릉 방면 국도를 따라 조금만 내려가다 보면 대관령반정부터 시작됩니다. 거리는 약 7km도 되지 않는 비교적 짧은 코스입니다.
+지금의 반듯한 영동고속도로가 뚫리기 전까지는 강릉으로 가려면 이 구불구불한 대관령 고개를 넘는 일이예사였는데 반정까지 내려가는 국도도 꽤 구불거리게 느껴집니다. 오죽하면 대굴대굴 굴러간다고 대굴령이라고 했을까요.^^ 
+이번에는 날이 약간 흐린 듯 했지만 반정에서 저 아래로 펼쳐 보이는 동해바다를 또렷이 볼 수 있었습니다.
+대관령고개는 날씨 변화가 다양해서 이렇게 시계가 좋은 날을 만나기도 쉽지 않은데 오늘은 운이 좋았네요.
+경사 구간을 어느 정도 내려가면 계곡을 만납니다. 날이 많이 더운 것은 아니지만 이 대관령옛길 구간은 울창하게 숲이 드리워져 뜨거운 날에도 더위를 잘 느끼지 못하는 구간이죠. 하지만 이번에는 구름이 잔뜩 낀 날이어서 걷기에도 그만이었습니다.
+계곡을 만나고부터 길은 좀 완만해집니다. 계곡은 요즘 잦은 소나기 탓인지 물이 불어나 계곡 소리는 무척 우렁차더군요. 시원한 물소리 들으며 걷다 보면 어느새 마을이 보입니다. 그리고 대관령박물관까지 포장도로를 따라 가는데 이 구간은 울창한 솔숲이 참 멋진 곳이죠. 
+대관령 옛길 구간은 전체적으로 거리도, 난이도도 무난한 걷기 코스입니다. 옛길 걷기를 마치고 안목항으로 이동하여 자유롭게 식사도 하고 향긋한 커피 한 잔 마시며 올 여름 마지막 바다 구경까지 하는 시간으로 여행을 마무리하였습니다.
+이번 대관령옛길 걷기는 너무 덥지 않고 약간 흐려서 오히려 걷기에는 좋은 날이었던 것 같습니다. 계곡, 숲길 그리고 바다까지 돌아본 이번 여행이 활력소가 되셨기를 바랍니다.
+그리고 이번 주는 더위가 한풀 꺾이고 비가 자주 내린다고 하는데 모두 건강 관리 잘 하시고 새로운 한 주도 잘 보내시기 바랍니다~
+이 게시물을...

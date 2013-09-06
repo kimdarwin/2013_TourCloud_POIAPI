@@ -1,0 +1,76 @@
+Title:
+웃음만..지아 ( Zia) 
+
+Date:
+2010.08.16 02:36
+
+Content:
+
+
+ 
+
+'지아(Zia)가 돌아왔다 그리고 변화된지아'의 새 미니앨범 "DIFFERENCE"
+
+'웃음만..' 새 앨범의 타이틀 곡이다. 전과는 달르게.. 대중적인 발라드에서하이브리드 발라드로..
+'지아의매력적인 감성적 보이스와곡의 구성이나 사운드의 변화에 지아의 새로운 일면을 보았다.
+‘웃음만..’은'지아'의 애절한감성적인 보이스로이별의 슬픔을 더욱더애달프게 느켜지는 듯하다.
+
+
+웃음만.. 지아 ( Zia) ~ 뮤직비디오
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc20/2010/08/16/744/03100223A187536E3CC3A92873DA69832C1_ya3542_logo.jpg';
+	layout.playtime = '298.519';
+	var qsParam = {};
+	qsParam.vid = 'BCF0292E85E19DD6DA26566F07866A19B918';
+	qsParam.inKey = 'V12530691037f15f83e39bb9ead3d6b3a7a4a26e4ac1197ccbdd6e235166d765a5f78bb9ead3d6b3a7a4a';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_07963 = new VideoInfraUGCPlayer('ugcPlayer_07963' ,bean); 
+ugcPlayer_07963.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+
+
+‘웃음만..’의 뮤직비디오는배우 신하균이 주인공을 맡아..아이를 잃은 한 아버지의 
+가슴 저린 부성애를 담아.. 노래에서 느껴지는 슬픈 감정을 보다 깊게 표현하였다.
+
+웃음만.. 지아 ( Zia)
+
+묻는다 너를 맘에 묻는다 묻는다차마 놓칠 못해 맘에 묻는다빙빙빙 자꾸 맴돌아 빙빙빙 가슴안에서묻는다 내가 내게 묻는다 묻는다 이게 잊는거냐고 물어본다꺼내고 꺼내보면서 뭘 대체 잊는 거냐고그저 웃음만 그저 웃음만 그저 웃음만 나와흔한 눈물도 헤픈 눈물도 다 말라 버렸어이제 어떻게 해야 살아갈수 있겠니이제 어떻게 내가 너를 잊을 수 있니웃음만 웃음만..덮는다 거짓 웃음으로 널 덮는다애써 감춰보려 마음을 덮는다핑핑핑 자꾸 눈물만 윙윙윙 또 자꾸 들려와그저 웃음만 그저 웃음만 그저 웃음만 나와 흔한 눈물도 헤픈 눈물도 다 말라버렸어 이제 어떻게 해야 살아갈수 있겠니이제 어떻게 내가 너를 잊을 수 있니웃음만 웃음만 난 웃음만 웃음만 웃음만 난 웃음만그저 웃음만 그저 웃음만 그저 웃음만 나와흔한 눈물도 헤픈 눈물도 다 말라버렸어 이제 어떻게 해야 살아갈 수 있겠니이제 어떻게 내가 너를 잊을 수 있니웃음만 웃음만 난 웃음만 웃음만 웃음만 난 웃음만
+
+ 웃음만.. 지아 ( Zia)
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+민초호야의 음악여행
+
+	

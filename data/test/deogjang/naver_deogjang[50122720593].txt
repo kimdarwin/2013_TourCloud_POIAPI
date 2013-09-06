@@ -1,0 +1,89 @@
+Title:
+통영 연화도 
+
+Date:
+2011.10.04 23:17
+
+Content:
+
+위 치 : 경남 통영시 욕지면 연화리 연화도 [문의전화]055~650~4582
+가는 길 : 네비게이션입역 경남 통영시 서호동316번지 통영항 여객터미널
+전화번호검색:055~641~6181 055~648~2927
+통영여객터미널에서~연화도까지 약50분소요 자가용42000원왕복
+1인16600원왕복
+
+연화도 선착장 풍경
+통영여객터미널에서 연화도까지는 배를 타고 남쪽으로1시간 정도가면 조그마한 섬 마을이 보이는데
+그곳이유명한 연화도이다.통영여객터미널에서 갈수 있는 주변섬들은 욕지도, 비진도, 사랑도,
+소매몰도, 한산도 등으로 해상 교통의 시발점이 되기도 한다.
+
+불교의 성지 연화도 섬 모양이 연꽃같이 생겼다하여 붙여진 이름이라고 한다
+연산군의 억불정책에 쫓겨 낙도를 찾아 은신한 연화도사가 제자몇명과 합께 연화봉
+암자에서 부처님을 모셔놓고 도를 닦으며 살아왔다 그후 연화도사가 타게하자 
+제자들과 섬 주민들이 도사의.유언에 따라 시신을 앞 바다에 수장하니
+도사의 몸이 한송이 연꽃으로 변해 승화되었다고 하여 연화도 라 이름지었다고 한다
+
+
+연화도 면적3.41평방미터 해안선 길이약12km,연화봉 최고점212m 일명 네바위라고도한다
+최고점을 이루는 연화봉이 솟아있고 산 능선의 평탄한 지역에는 작은 취락마을이 이루어져
+있고 주요 먹거리로는 보리와 고구마가 생산되는데,특히 고구마는 품질이 우수하다
+
+연화도 근해에서는 멸치.민어.참돔.갈치 문어 낙지 등이 어획되고 요즘에는 김 굴 등의 양식도
+활발하다 특히 잎이 좁은 풍란의 자생지이며,동머리 주변과 서쪽의 촛대바위는 남해안의 갯바위
+낚시터로 유명하다 통영시 여객선터미널에서 하루에도 수차례 정기여객선이 왕복운행합니다
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2011/10/05/1201/03101323211D531E52C3891653C520F3042_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '463.519';
+	var qsParam = {};
+	qsParam.vid = '354AD5AD4571CAB0B1D4338657EE98C82B52';
+	qsParam.inKey = 'V12433d801122b8b5cfe962ca05eff9df75e8073e70441c83f54d7ed332e207028eb662ca05eff9df75e8';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_09658 = new VideoInfraUGCPlayer('ugcPlayer_09658' ,bean); 
+ugcPlayer_09658.drawPlayLayer(); 
+}
+
+
+
+
+
+
+
+	

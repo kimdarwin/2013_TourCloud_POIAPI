@@ -1,0 +1,1351 @@
+[완주여행]
+	[/sl+완주/ncpa+여행/ncpa+]/sr
+
+여행중에
+	여행/ncpa+중/ncn+에/jca
+
+만난신토불이,
+	만난신토불이,/ncn
+
+완주로컬푸드
+	완주/ncpa+로컬/ncn+푸드/ncn
+
+직접
+	직접/mag
+
+주문해서
+	주문/ncn+해/ncn+서/jca
+
+먹어보니~
+	먹/pvg+어/ecx+보/px+니/ef+~/sd
+
+
+/완주
+	//sp+완주/ncpa
+
+1박2일여행
+	1박2일여행/ncn
+
+
+완주여행은
+	완주/ncpa+여행/ncpa+은/jxc
+
+지역에서
+	지역/ncn+에서/jca
+
+추진하고
+	추진/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+건강하고
+	건강/ncps+하고/jct
+
+신선한
+	신선/ncn+한/ncn
+
+먹거리를
+	먹거리/ncn+를/jco
+
+많이
+	많/paa+이/xsa
+
+접했던
+	접하/pvg+었/ep+던/etm
+
+시간이었다
+	시간/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+오는
+	오/px+는/etm
+
+9월
+	9/nnc+월/nbu
+
+23일
+	23/nnc+일/nbu
+
+~
+	~/sd
+
+9월25일
+	9월25/ncn+이/jp+ㄹ/etm
+
+완주와일드푸드축제
+	완주와일드푸드축제/ncn
+
+가
+	가/jcs
+
+열리는
+	열리/pvg+는/etm
+
+완주
+	완주/ncpa
+
+
+완주군에서
+	완주/ncpa+군/ncn+에서/jca
+
+폐교를
+	폐교/ncn+를/jco
+
+활용하여
+	활용/ncpa+하/xsva+어/ecx
+
+지역주민의
+	지역주민/ncn+의/jcm
+
+일자리
+	일자리/ncn
+
+창출과
+	창출/ncpa+과/jcj
+
+소득증대
+	소득증대/ncpa
+
+을
+	을/ncn
+
+위하여
+	위하/pvg+어/ecx
+
+운영하고
+	운영/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+완주지역경제순환센터
+	완주/ncpa+지역경제/ncn+순환/ncpa+센터/ncn
+
+를
+	를/ncn
+
+찾아가게
+	찾/pvg+아/ecx+가/px+게/ecs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+완주지역경제순환센터를
+	완주/ncpa+지역경제/ncn+순환/ncpa+센터/ncn+를/jco
+
+알리는
+	알리/pvg+는/etm
+
+글귀가
+	글귀/ncn+가/jcs
+
+속속
+	속속/mag
+
+눈에
+	눈/ncn+에/jca
+
+들어온다
+	들/pvg+어/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+얼굴
+	얼굴/ncn
+
+있는
+	있/px+는/etm
+
+먹을거리를
+	먹/pvg+을/etm+거리/nbn+를/jco
+
+성심껏
+	성심껏/mag
+
+만들고
+	만들/pvg+고/ecc
+
+이를
+	이/npd+를/jco
+
+소비자
+	소비자/ncn
+
+밥상까지
+	밥상/ncn+까지/jxc
+
+이어가는
+	잇/pvg+어/ecx+가/px+아/ecs+는/jxc
+
+..
+	./sf+./sf
+
+
+생산자와
+	생산자/ncn+와/jcj
+
+소비자와의
+	소비자/ncn+와의/jcj
+
+직거래
+	직거래/ncn
+
+..
+	./sf+./sf
+
+
+그
+	그/mmd
+
+중간
+	중간/ncn
+
+역활을
+	역활/ncn+을/jco
+
+하는
+	하/pvg+는/etm
+
+곳이었다
+	곳/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+로컬푸드(지역먹을거리)는
+	로컬푸드(지역먹을거리)/ncn+는/jxc
+
+"건강한
+	"/sl+건강/ncps+한/ncn
+
+밥상"
+	밥상/ncn+"/sr
+
+이라는이름으로
+	이라는이름/ncn+으로/jca
+
+소비자에게는
+	소비자/ncn+에게/jca+는/jxc
+
+"안전한
+	"/sl+안전/ncps+한/ncn
+
+밥상"을
+	밥상/ncn+"/sr+을/jco
+
+
+생산자에게는
+	생산자/ncn+에게/jca+는/jxc
+
+"안전된소득"
+	"안전된소득"/ncn
+
+으로
+	으/ncn+로/jca
+
+생산자와
+	생산자/ncn+와/jcj
+
+소비자가
+	소비자/ncn+가/jcs
+
+공존
+	공존/ncpa
+
+상생하는
+	상생/ncpa+하/xsva+는/etm
+
+새로운
+	새롭/paa+은/etm
+
+음식문화이다
+	음식/ncn+문화/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+소비자는
+	소비자/ncn+는/jxc
+
+밥상이
+	밥상/ncn+이/jcc
+
+늘
+	늘/mag
+
+불안하고,
+	불안/ncps+하고/jcj+,/sp
+
+
+생산자는
+	생산자/ncn+는/jxc
+
+소득에
+	소득/ncn+에/jca
+
+늘
+	늘/mag
+
+목마른
+	목마르/paa+ㄴ/etm
+
+시대
+	시대/ncn
+
+...
+	.../se
+
+
+로컬푸드에
+	로컬/ncn+푸드/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+설명을
+	설명/ncpa+을/jco
+
+들은
+	들/pvg+ㄴ/etm
+
+후
+	후/ncn
+
+"산지집하장"으로
+	"산지집하장"/ncn+으로/jca
+
+가서
+	가/pvg+서/ecs
+
+직접
+	직접/mag
+
+"건강한
+	"/sl+건강/ncps+한/ncn
+
+밥상"의
+	밥상/ncn+"/sr+의/jcm
+
+
+품목선별과정과
+	품목/ncn+선별과정/ncpa+과/jcj
+
+포장까지
+	포장/ncpa+까지/jxc
+
+확인
+	확인/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+완주군의
+	완주/ncpa+군/ncn+의/jcm
+
+100여개의
+	100/nnc+여/xsnu+개/nbu+의/jcm
+
+마을공동체에서
+	마을/ncn+공동체/ncn+에서/jca
+
+직접
+	직접/mag
+
+생산한
+	생산/ncpa+하/xsva+ㄴ/etm
+
+품목을소비자
+	품목을소비/ncn+이/jp+자/ecc
+
+손에
+	손/ncn+에/jca
+
+까지
+	까/pvg+지/ecx
+
+갈수
+	가/px+ㄹ/etm+수/nbn
+
+있도록
+	있/px+도록/ecs
+
+선별,
+	선별/ncpa+,/sp
+
+포장까지
+	포장/ncpa+까지/jxc
+
+하는
+	하/pvg+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+기본1회
+	기본1회/ncn
+
+배송품목은
+	배송/ncn+품목/ncn+은/jxc
+
+유정란10알,
+	유정란10알,/ncn
+
+두부,
+	두/nnc+부/nbu+,/sp
+
+콩나물(건나물),
+	콩나물(건나물),/ncn
+
+채소,
+	채소/ncn+,/sp
+
+곡류,
+	곡류/ncn+,/sp
+
+반찬류
+	반찬/ncn+류/xsncc
+
+등
+	등/nbu
+
+제철
+	제철/ncn
+
+식재료
+	식재료/ncn
+
+8~12가지
+	8/nnc+~/sd+12/nnc+가지/nbu
+
+가
+	가/jcs
+
+배송이
+	배송/ncn+이/jcc
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+매주
+	매주/mag
+
+1번씩
+	1/nnc+번/nbu+씩/xsnu
+
+4번은
+	4/nnc+번/nbu+은/jxc
+
+10만원~~
+	10/nnc+만/nnc+원/nbu+~/sd+~/sd
+
+
+로컬푸드의
+	로컬/ncn+푸드/ncn+의/jcm
+
+장점은~
+	장점/ncn+은/jxc+~/sd
+
+
+생산자는
+	생산자/ncn+는/jxc
+
+소득
+	소득/ncn
+
+증대와
+	증대/ncpa+와/jcj
+
+소비자와
+	소비자/ncn+와/jcj
+
+거래가
+	거래/ncpa+가/jcc
+
+활발하여
+	활발/ncps+하/xsms+어/ecx
+
+지속적인
+	지속/ncpa+적/ncn+이/jp+ㄴ/etm
+
+영농이
+	영농/ncn+이/jcc
+
+가능하며
+	가능/ncps+하/xsms+며/ecc
+
+농경지의
+	농경지/ncn+의/jcm
+
+효율적인
+	효율/ncn+적/ncn+이/jp+ㄴ/etm
+
+활용이다
+	활용/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+소비자는
+	소비자/ncn+는/jxc
+
+신선하고
+	신선/ncn+하고/jct
+
+안전한
+	안전/ncps+하/xsms+ㄴ/etm
+
+먹거리를
+	먹거리/ncn+를/jco
+
+손쉽게
+	손쉽/paa+게/ecs
+
+얻고
+	얻/pvg+고/ecc
+
+먹거리에
+	먹거리/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+신뢰감이
+	신뢰감/ncn+이/jcc
+
+높다
+	높/paa+다/ef
+
+.
+	./sf
+
+
+완주여행을
+	완주/ncpa+여행/ncpa+을/jco
+
+마치고,
+	마치/pvg+고/ecc+,/sp
+
+집에와서
+	집에와서/ncn
+
+인터넷으로
+	인터넷/ncn+으로/jca
+
+다시
+	다시/mag
+
+들어가서
+	들/pvg+어/ecx+가/px+아/ecx
+
+자세히
+	자세히/mag
+
+살펴
+	살피/pvg+어/ecx
+
+보았다
+	보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+평소
+	평소/ncn
+
+텃밭을
+	텃밭/ncn+을/jco
+
+분양
+	분양/ncpa
+
+받아
+	받/pvg+아/ecx
+
+야채류는
+	야채류/ncn+는/jxc
+
+직접
+	직접/mag
+
+재배하여
+	재배/ncpa+하/xsva+어/ecx
+
+먹을
+	먹/pvg+을/etm
+
+정도로
+	정도/ncn+로/jca
+
+먹거리에
+	먹거리/ncn+에/jca
+
+신경을
+	신경/ncn+을/jco
+
+쓰는
+	쓰/pvg+는/etm
+
+편이다
+	편/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+시중에서
+	시중/ncn+에서/jca
+
+구입하는
+	구입/ncpa+하/xsva+는/etm
+
+것보다
+	것/nbn+보다/jca
+
+안전하고
+	알/pvg+ㄴ/etm+전/nbn+하고/jct
+
+신선,
+	신선/ncps+,/sp
+
+저렴한것
+	저렴/ncps+하/xsms+ㄴ/etm+것/nbn
+
+같아
+	같/paa+아/ecx
+
+일단
+	일단/mag
+
+한달만
+	한/nnc+달/nbu+만/jxc
+
+주문하였다
+	주문/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+매주
+	매주/mag
+
+금요일에
+	금요일/ncn+에/jca
+
+배송된다는
+	배송/ncn+되/xsvn+ㄴ다/ef+는/etm
+
+문자메세지를
+	문자/ncn+메세지/ncn+를/jco
+
+받은후
+	받/pvg+은후/ef
+
+...
+	.../se
+
+
+어떻게
+	어떻/pad+게/ecs
+
+올까
+	오/px+ㄹ까/ecs
+
+궁금하여
+	궁금/ncps+하/xsms+어/ecx
+
+몹시
+	몹시/mag
+
+기다려졌던
+	기다리/pvg+어/ecx+지/px+었/ep+던/etm
+
+시간,
+	시간/nbu+,/sp
+
+
+다행이
+	다행/ncps+이/jcc
+
+택배가
+	택배/ncn+가/jcs
+
+오전
+	오전/ncn
+
+10시경
+	10/nnc+시/nbu+경/xsnu
+
+일찍와서
+	일찍와/ncn+서/jca
+
+더
+	더/mag
+
+좋았다
+	좋/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+식탁의
+	식탁/ncn+의/jcm
+
+푸른
+	푸르/paa+ㄴ/etm
+
+신호등
+	신호등/ncn
+
+건강밥상
+	건강/ncps+밥상/ncn
+
+편지와
+	펴/pvg+ㄴ/etm+지/nbn+와/jct
+
+함께
+	함께/mag
+
+건강밥상
+	건강/ncps+밥상/ncn
+
+새소식과
+	새소식/ncn+과/jcj
+
+금주
+	금주/ncn
+
+메뉴가
+	메뉴/ncn+가/jcs
+
+적혀
+	적히/pvg+어/ecx
+
+있었으며
+	있/px+었/ep+으며/ecc
+
+가지볶음
+	가지볶음/ncn
+
+레시피가
+	레시피/ncn+가/jcs
+
+적혀
+	적히/pvg+어/ecx
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+먹거리는
+	먹거리/ncn+는/jxc
+
+생산자가
+	생산자/ncn+가/jcs
+
+명확히
+	명확히/mag
+
+적혀
+	적히/pvg+어/ecx
+
+있어
+	있/px+어/ecx
+
+더욱
+	더욱/mag
+
+안심이
+	안심/ncn+이/jcc
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+직접
+	직접/mag
+
+밭에서
+	밭/ncn+에서/jca
+
+가꾼
+	가꾸/pvg+ㄴ/etm
+
+식품이
+	식품/ncn+이/jcc
+
+바로
+	바로/mag
+
+우리집
+	우리집/ncn
+
+식탁으로
+	식탁/ncn+으로/jca
+
+날라온
+	나르/pvg+아/ecx+오/px+ㄴ/etm
+
+셈이다
+	셈/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+자~~~그러면
+	자~~~그러/ncn+이/jp+면/ecs
+
+어떤
+	어떤/mmd
+
+식품이
+	식품/ncn+이/jcc
+
+왔는지
+	오/px+아/ep+는지/ecs
+
+살펴보면~~~
+	살피/pvg+어/ecx+보/px+면/ecs+~/sd+~/sd+~/sd
+
+
+상치는
+	상치/ncpa+는/jxc
+
+햇볕에
+	햇볕/ncn+에/jca
+
+건강하게
+	건강/ncps+하/xsms+게/ecs
+
+자란듯
+	자라/pvg+ㄴ/etm+듯/nbs
+
+빠닥
+	빠닥/ncn
+
+빠닥하니
+	빠닥하/ncn+이/jp+니/ecs
+
+좋아보였으며
+	좋/paa+아/ecx+보이/px+었/ep+으며/ecc
+
+
+마늘은
+	마늘/ncn+은/jxc
+
+딱
+	딱/mag
+
+4개~~
+	4/nnc+개/nbu+~/sd+~/sd
+
+하얗고
+	하얗/paa+고/ecc
+
+단단하였다
+	단단/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+좀더
+	좀더/mag
+
+숫자가
+	숫자/ncn+가/jcs
+
+많았으면
+	많/paa+아/ep+면/ecs
+
+좋겠다
+	좋/paa+겠/ep+다/ef
+
+...
+	.../se
+
+
+봉서골
+	봉서골/ncn
+
+누렁지
+	누렁지/ncn
+
+와
+	오/pvg+아/ecx
+
+돈육
+	돈육/ncn
+
+전시
+	전시/ncn
+
+생고기
+	생고/ncn+이/jp+기/etn
+
+
+거봉포도
+	거봉포/ncn+도/jxc
+
+한팩과
+	한팩/ncn+과/jcj
+
+콩나물
+	콩나물/ncn
+
+
+가지
+	가지/nbu
+
+3개와
+	3/nnc+개/nbu+와/jcj
+
+유정란
+	유정/ncps+란/jcm
+
+10개~~
+	10/nnc+개/nbu+~/sd+~/sd
+
+
+전날
+	전날/ncn
+
+큰딸
+	큰딸/ncn
+
+교정중인
+	교정/ncn+중/ncn+이/jp+ㄴ/etm
+
+딸~
+	딸/ncn+~/sd
+
+칫고
+	칫고/ncn
+
+다녀왔는데
+	다니/pvg+어/ecx+오/px+아/ep+ㄴ데/ecs
+
+씹지못하여
+	씹/pvg+지/ecx+못하/px+어/ecx
+
+..
+	./sf+./sf
+
+
+누룽지
+	누룽지/ncn
+
+본
+	보/px+ㄴ/etm
+
+김에
+	김/nbn+에/jca
+
+당장
+	당장/mag
+
+누룽지
+	누룽지/ncn
+
+죽을
+	죽/ncn+을/jco
+
+끓여
+	끓이/pvg+어/ecx
+
+주었다
+	주/px+었/ep+다/ef
+
+.
+	./sf
+
+
+마늘도
+	마늘/ncn+도/jxc
+
+까서
+	끄/pvg+어서/ecs
+
+버터에
+	버터/ncn+에/jca
+
+살짝
+	살짝/mag
+
+구워
+	굽/pvg+어/ecx
+
+허브소금
+	허브소금/ncn
+
+으로
+	으/ncn+로/jca
+
+간을
+	간/ncn+을/jco
+
+하고~~~
+	하/pvg+고/ecc+~/sd+~/sd+~/sd
+
+
+누룽지가
+	누룽지/ncn+가/jcs
+
+구수하여
+	구수/ncpa+하/xsva+어/ecx
+
+마늘과
+	마늘/ncn+과/jct
+
+함께
+	함께/mag
+
+딸~~
+	따/pvg+ㄹ/etm+~/sd+~/sd
+
+잘
+	잘/mag
+
+먹는다
+	먹/pvg+는다/ef
+
+.
+	./sf
+
+
+생각지도
+	생각/ncpa+지도/ncn
+
+못한
+	못하/px+ㄴ/etm
+
+음식이
+	음식/ncn+이/jcc
+
+와서
+	오/px+아/ecs
+
+적절하게
+	적절/ncps+하/xsms+게/ecs
+
+잘
+	잘/mag
+
+먹었다
+	먹/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+돼지고기는
+	돼지고기/ncn+는/jxc
+
+생고기라서
+	생고기라서/ncn
+
+그날
+	그날/ncn
+
+먹는게
+	먹/pvg+는게/ecs
+
+좋을
+	좋/paa+을/etm
+
+것
+	것/nbn
+
+같아
+	같/paa+아/ecx
+
+구워먹기에는
+	구워먹/pvg+기/etn+에/jca+는/jxc
+
+두꺼워
+	두껍/paa+어/ecx
+
+수육으로
+	수육/ncn+으로/jca
+
+해먹기로~~~
+	해먹기/ncn+로/jca+~/sd+~/sd+~/sd
+
+
+밥통에
+	밥통/ncn+에/jca
+
+커피,
+	커피/ncn+,/sp
+
+된장,매실,
+	된장/ncn+,/sp+매/nbu+이/jp+시/ep+ㄹ/etm+,/sp
+
+통후추
+	통후추/ncn
+
+.....
+	.../se+./sf+./sf
+
+
+살이
+	살/nbu+이/jcc
+
+녹을
+	녹/ncn+을/jco
+
+정도로
+	정도/ncn+로/jca
+
+맛나게
+	맛나/paa+게/ecs
+
+삶아졌다
+	삶/pvg+아/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+마늘
+	마늘/ncn
+
+살짝
+	살짝/mag
+
+굽구
+	굽구/ncn
+
+보내온
+	보내/pvg+어/ecx+오/px+ㄴ/etm
+
+상치에
+	상치/ncpa+에/jca
+
+무우쌈과
+	무우/ncn+쌈/ncn+과/jct
+
+함께
+	함께/mag
+
+먹으니~~~
+	먹/pvg+으니/ecs+~/sd+~/sd+~/sd
+
+정말
+	정말/mag
+
+환상이다
+	환상/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+사실,
+	사실/ncn+,/sp
+
+뭐가
+	뭐/npd+가/jcc
+
+올지
+	오/px+ㄹ지/ecs
+
+몰라
+	모르/pvg+아/ecx
+
+어떻게
+	어떻/pad+게/ecs
+
+해
+	하/pvg+어/ecx
+
+먹을까
+	먹/pvg+을까/ef
+
+고민이
+	고민/ncpa+이/jcc
+
+되지
+	되/pvg+지/ecx
+
+않을까
+	않/px+을까/ef
+
+생각했는데
+	생각/ncpa+하/xsva+었/ep+는데/ecs
+
+...
+	.../se
+
+
+역시
+	역시/mag
+
+주부경력
+	주부/ncn+경력/ncpa
+
+20년
+	20/nnc+년/nbu
+
+내공으로
+	내공으로/ncn
+
+...
+	.../se
+
+
+건강한
+	건강/ncps+하/xsms+ㄴ/etm
+
+밥상은
+	밥상/ncn+은/jxc
+
+제철
+	제철/ncn
+
+농산물,
+	농산물/ncn+,/sp
+
+전통먹을거리를
+	전통먹을거리/ncn+를/jco
+
+제공해
+	제공/ncpa+하/xsva+어/ecx
+
+주므로
+	주/px+므로/ecs
+
+충동구매가
+	충동구매/ncpa+가/jcc
+
+없어지고
+	없/paa+어/ecx+지/px+고/ecc
+
+합리적인
+	합리/ncn+적/ncn+이/jp+ㄴ/etm
+
+가격에
+	가격/ncn+에/jca
+
+좋은
+	좋/paa+은/etm
+
+먹을
+	먹/pvg+을/etm
+
+거리를
+	거리/ncn+를/jco
+
+얻을
+	얻/pvg+을/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+벌써
+	벌써/mag
+
+..
+	./sf+./sf
+
+
+다음주에는
+	다음주/ncn+에/jca+는/jxc
+
+어떤
+	어떤/mmd
+
+식품이
+	식품/ncn+이/jcc
+
+올까
+	오/px+ㄹ까/ecs
+
+기다려진다
+	기다리/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+완주로컬푸드
+	완주/ncpa+로컬/ncn+푸드/ncn
+
+(063-714-4989)
+	(/sl+063/nnc+-714/nnc+-4989/nnc+)/sr
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+hilocalfood.
+	hilocalfood/f+./sy
+
+com/
+	com/f+//sp
+
+
+전북
+	전/xp+북/ncn
+
+완주군
+	완주/ncpa+이/jp+군/ef
+
+고산면
+	고산/ncn+면/ncn
+
+소향리
+	소향/ncpa+리/ncn
+
+397-26
+	397/nnc+-26/nnc

@@ -1,0 +1,32 @@
+Title:
+5/19 학원농장과 편백숲 걷기 후기
+
+Date:
+2012.05.20
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(354420,'files/attach/images/64/321/219/bb3c0a1ef97883eb3020aadd43950986.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/5af8ccabfc53d6484bb661a1f175ca45.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/f93d2d325617d930097abd6857246fe4.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/eb8161b47d7e150b114071e298beba0f.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/8f854e25a7e4521de6366de64d10afa5.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/9608dc0380cd214bc483bd8d8bdd1893.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/da8a4b25a0259f1bed5f8980f278a4bd.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/5a3bae912f229a24e66eb8744e7b7f9a.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/44d35f5b1451188d722dc42dfb49884f.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/48040aa20820bb032b441b4dceb23479.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/57d4d4d7aa2603a6f5df6192c6fe80c7.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/7690c50102e48868dd51d5a5c8d34771.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/7d7d517487e2aa43044a8ec193a574f0.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/e9a8c1448c9b5c5449645a1a8412b205.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/2def8aa067f10690b4cbefd06ca45c84.jpg');
+list_gallery_add_image(354420,'files/attach/images/64/321/219/1d954e0f33619c3066d42a25fec643a1.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+5월 19일(토), 아름다운 여행으로 고창의 학원농장과 장성 축령산의 편백숲을 다녀왔습니다.
+고창 학원농장은 이맘때면 보리밭이 장관을 이루고 9월이면 하얀 메밀꽃이 활짝 피어나는 곳이죠. 얼마전까지 푸른 청보리밭을 볼 수 있었지만, 이제 학원농장의 보리는 살짝 누런 빛이 감돌고 있더군요. 아마 얼마 후에는 보리밭이 누런 금빛으로 물들고 그 다음엔 보리 수확이 한창이겠죠. 초록빛 청보리밭은 아니었지만 누런 빛이 감도는 보리밭의 풍경도 좋았던 것 같습니다. 또 꽤 실하게 영근 보리 알갱이를 볼 수도 있었네요. 아쉬웠던 점은 날씨였습니다. 구름 사이로라도 햇살이 좀 비춰주었으면 화사한 보리밭을 볼 수 있었을 텐데 날이 흐려 무채색 톤의 보리밭을 봐야 했습니다. 그리고 큰 바람이 있었는지 중간중간 보리가 쓰려져 있는 풍경도 조금 아쉬웠습니다.
+학원농장 보리밭을 돌아보고 비빔밥으로 점심식사를 한 뒤 편백숲으로 향했습니다. 장성 축령산의 편백숲은 명실공히 우리나라 최고의 편백숲입니다. 편백숲의 규모나 나무의 수령 모두 정성 편백숲이 으뜸이 아닌가 싶습니다. 사계절 언제 가더라도 멋진 풍경과 맑은 공기를 즐길 수 있는 곳이죠.
+이번에도 편백숲은 멋진 풍경을 보여주었습니다. 오전에 흐렸던 날씨가 편백숲을 걷는 동안 화창해져서 구름의 편백숲과 햇살의 편백숲을 모두 볼 수 있었습니다. 한 달쯤 전인가 편백숲을 찾았을 때는 짙은 안개에 뒤덮여 신비로운 분위기의 편백숲을 보았는데, 이번에는 봄이 무르익는 싱그러운 숲을 보았습니다.
+이번 여행은 서울을 벗어날 때 정체가 있었던 걸 제외하면 무난한 여행이었던 것 같습니다. 이번 여행에 참여하신 분들 모두 휴일에 여행의 피로 잘 푸시고 활기차게 한 주를 시작하시기 바랍니다~
+이 게시물을...

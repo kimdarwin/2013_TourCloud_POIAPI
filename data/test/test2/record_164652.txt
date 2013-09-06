@@ -1,0 +1,35 @@
+Date:
+2011.07.24
+
+Content:
+아름다운 여행으로 7월 24일(일) 경북 청송 주왕산과 주산지에 다녀왔습니다.
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/af49ea6be912eec65985e7756b2c372b.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/bfc509ed545bdf5e86c7cb16d0ef3b90.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/4beb130c7a7e6b72de62770782bdd61c.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/abaa910dac1e31ff4c40f55f4acdc812.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/b8261dfeb84e1ac206132a9f0d313043.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/ae4d1cee78b67271933123d35415efb8.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/a7f3a94bd114a03137b04add628d9f0a.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/bd2cde745b3eef27a64fe691d4200e43.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/4e889e6e57826547d131efbbecc35721.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/fedcd134e52321bcd92dd2edfa6a5cba.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/f84c727a1db3efa7f487c1139a3f39d0.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/16be0fa68e70a672942e5e49cbf20609.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/564c731c5f2726ae893148ffb6734b7b.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/8fbf0f9e6e2e4eafe53debf8662debb1.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/bc231743d254458fd3480fa8f0a36cce.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/90a5adba5f4d4464baad0f5158d11b52.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/1f675a5b19acb037b319917957bf5b63.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/f997677101ca4d17ac09ddfc2cb1f9e3.jpg');
+list_gallery_add_image(946757,'files/attach/images/228818/652/164/f7ce023f525ad0bf163fd8727d40f2da.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+사계절 내내 아름다운 주왕산은 산행을 하지 않더라도 탐방로를 따라 가볍게 걷기에 좋아서 아름다운 여행으로 몇 차례 다녀온 곳입니다. 트레킹 구간은 주차장을 출발하여 3개의 폭포를 차례로 지나 제 3폭포까지 자신의 체력에 맞게 걸을 수 있기 때문입니다. 충분한 시간을 갖고 여유롭게 걷기를 원한다면 제 1폭포까지만 왕복으로 걸어도 되는데 특히 이 폭포 주변의 경치가 사실 다른 구간에 비해 가장 멋진 곳입니다.
+주왕산은 그리 높은 산은 아니지만 병풍 같은 기암절벽이 강한 인상을 남깁니다. 이 1폭포 주변은 마치 바위 문을 열고 들어서듯 신비롭기만 합니다. 그 후로 만나게 되는 제2폭포와 3폭포는 각각의 개성을 지니고 있어서 마음에 드는 폭포가 모두 달랐을 것입니다. 3폭포 이후로는 주왕산 등산로가 시작되기 때문에 걷기는 이곳 3폭포까지 왕복으로 걸었습니다.
+다시 원점으로 돌아갈 때에는 주왕암 방면으로 올라 오솔길을 따라 걷고 급수대에 올라 주왕산의 봉우리들을 펼쳐보는 전망도 압권인데 오늘은 하늘이 흐리고 비도 내려 전망이 시원하지는 않았습니다. 오솔길을 걷다 만나는 작은 주왕암을 스치듯 지나면 다시 대전사 앞에 도착하여 왕복 걷기가 끝이 납니다. 
+가을 주왕산은 단풍이 멋진 곳입니다. 오늘은 비도 내리고 날씨가 선선하여 단풍 곱게 물들 가을이 금세 달려올 것만 같더군요.^^
+지난 주까지 장맛비가 많이 내려서 폭포와 계곡의 멋진 모습을 기대하였는데 청송 지역은 비가 많이 내리지 않았던 모양입니다. 계곡도 다른 때와 별반 다르지 않았고 폭포의 수량도 기대만큼은 아니어서 웅장한 모습은 기대에 좀 못 미쳤던 것 같습니다. 하지만 이 주왕산은 어느 계절이고 탐방객이 많아서 조금 번잡한 편인데 오늘은 너무도 한가로워 무엇보다 여유롭게 걷기를 할 수 있었습니다.
+주산지는 약 20분 가량 차를 타고 이동을 하지만 이곳 역시 주왕산국립공원에 속해 있습니다. 조선 숙종 때 만들어진 저수지니까 약 300년이 지난 셈입니다. 허리 반쯤 물에 잠긴 왕버드나무의 가지가 축축 늘어져 물에 비친 반영이 아름다운 주산지는 신비로운 분위기를 연출하는데 나무의 수가 줄어들었는지 조금 휑한 느낌이더군요. 그렇지만 갈수기 때에는 바닥을 훤히 드러냈던 저수지는 물이 많아서 넉넉해 보였습니다. 주산지 역시 단풍 물든 가을이 오면 물안개 피어 오르고 더욱 신비로운 모습일 것입니다. 그때 다시 기회가 된다면 주왕산과 주산지도 다시 찾아보아도 좋을 것입니다.
+주왕산과 주산지가 있는 경북 청송은 당일로 여행을 다녀오기에 조금 먼 곳입니다. 오가는 시간이 다소 길어서 지루함도 있었겠지만 끝까지 차분한 여행 분위기를 이끌어주신 참여 회원분들 덕분에 저 또한 쾌적하고 즐거운 여행을 하였습니다.^^ 먼 길 여행하시느라 모두 수고 많으셨구요, 새롭게 시작되는 한주도 활기차게 보내시기 바랍니다~
+이 게시물을...

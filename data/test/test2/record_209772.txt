@@ -1,0 +1,33 @@
+Title:
+4/10 하동 십리벚꽃길 여행 후기
+
+Date:
+2012.04.11
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(795573,'files/attach/images/64/772/209/2b8fb5daf5335a24041547171adc66d5.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/ac5f8418b829b07457e8e8ad76bcf0a2.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/59088185a363779d5b2471f0d44b6064.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/fc20520ff28fb9145b8bfe39b4fa1334.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/a8803e4a7088a46d43182e68a5a2c37c.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/6597aff97b7f9201918942b8a68e9276.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/d06ff6ed6702662de565fd36e3cdd78f.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/a0d724fec07fd88847816ff657dbd87a.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/de8a886ed3cbeec17891f4b4525b645b.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/c1ac6829eabab353a38183e12479fb30.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/f804f83b71e9f8b2d232c94eb5b6daa9.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/f86a60a07a95aac3f40799064a0744ae.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/3228f44fb42b8964d30a62c2ee9b8bde.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/721ba4356c6d933ad54038e1a8ad45a4.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/db96a6e5fc8dd25ab200ff3e4bfe2663.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/2c4aaa3e8cc611ff1e203a475dea0373.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/e7c962bdc821ab6c80fe3f8ee599d6ea.jpg');
+list_gallery_add_image(795573,'files/attach/images/64/772/209/198b1fe31b0afa860561cd41ccbfc090.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+4월 10일(화), 아름다운 여행으로 하동 화개천의 십리벚꽃길에 다녀왔습니다. 올 봄 계속되는 꽃샘추위 때문에 봄꽃 개화시기가 많이 헝클어졌죠. 지난 토요일 무박 여행으로 화개천을 찾았을 땐 벚꽃이 거의 피지 않아 많은 분들이 아쉬워하셨습니다. 그런데 이번 여행에서는 활짝 만개한 벚꽃을 볼 수 있었습니다. 고작 3일 차이인데 이렇게 큰 차이가 나더군요. 토요일엔 꽃망울만 잔뜩 매달고 있던 벚나무들이 마치 아우성을 치듯 주렁주렁 벚꽃을 피워 올렸습니다.
+사실 만개한 화개천의 벚꽃을 보기는 쉽지 않습니다. 만개 기간이 3~4일밖에 되지 않고 그나마도 꽃이 좋지 않은 해가 있어, 만개한 화개천의 벚꽃을 보려면 행운이 따라야 합니다. 다행이 이번 여행에 날이 딱 맞아서 좋은 벚꽃을 볼 수 있었네요.
+그래도 날씨는 좀 아쉬웠습니다. 아침부터 잔뜩 흐리더니 화개천을 걸을 때는 비가 내렸습니다. 비가 내리며 바람까지 불기 시작해 막 피어난 벚꽃들이 벌써 분분히 낙화를 시작하더군요. 꽃샘추위 때문에 뒤늦게 꽃망울을 터뜨린 꽃들이 피자마자 떨어지는 걸 보니 야속한 느낌이 들기도 하더군요.
+아무튼 이번 화개천 여행은 좋은 벚꽃을 볼 수 있어서 다행이었습니다. 지난 토요일에는 꽃이 피지 않아 어찌나 죄송스러웠는지 모릅니다. 여행편지에서 매년 이맘때면 한두 번씩 꼭 화개천 벚꽃을 찾는데 이렇게 만개한 꽃을 본 게 아마 3년만인 것 같습니다. 이번 화개천 여행에 참여하신 분들 모두 투표일에 투표 잘하시고 여행의 피로도 잘 푸시기 바랍니다~
+이 게시물을...

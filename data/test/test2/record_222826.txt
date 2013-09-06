@@ -1,0 +1,37 @@
+Title:
+6/2 학원농장과 편백숲 걷기 후기
+
+Date:
+2012.06.03
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(996572,'files/attach/images/64/826/222/29e2a4023d2d62474d6b3da5ec1b1bec.jpg');
+list_gallery_add_image(996572,'files/attach/images/64/826/222/f91013d26df842e006fc08871f224927.jpg');
+list_gallery_add_image(996572,'files/attach/images/64/826/222/5f5278877cce4d0be30ad5d27b1d8c22.jpg');
+list_gallery_add_image(996572,'files/attach/images/64/826/222/874f56b293b306f2f7fd4d343225e879.jpg');
+list_gallery_add_image(996572,'files/attach/images/64/826/222/b3001a7ae5fb8ca3d70fda275b026e7a.jpg');
+list_gallery_add_image(996572,'files/attach/images/64/826/222/8b5101bf1e8fab376f16678d3d580196.jpg');
+list_gallery_add_image(996572,'files/attach/images/64/826/222/e45e1cf9496e744f75ed443ca1e79a01.jpg');
+list_gallery_add_image(996572,'files/attach/images/64/826/222/f0ac4699b2d5d22914d16634ce0d231f.jpg');
+list_gallery_add_image(996572,'files/attach/images/64/826/222/f5dd9dd61b3cba33cf57404abec182ed.jpg');
+list_gallery_add_image(996572,'files/attach/images/64/826/222/a175e2f3f2819e4a2d4f8fbfa6ab2b79.jpg');
+list_gallery_add_image(996572,'files/attach/images/64/826/222/96209e565a6f79d9d9d854239a900c8a.jpg');
+list_gallery_add_image(996572,'files/attach/images/64/826/222/ba44be98ef1256a72dec7326341a107f.jpg');
+list_gallery_add_image(996572,'files/attach/images/64/826/222/884a3e9c8f65ae951e55efb3f76f9205.jpg');
+list_gallery_add_image(996572,'files/attach/images/64/826/222/d4be4247146c21fc62168606aa7021c1.jpg');
+list_gallery_add_image(996572,'files/attach/images/64/826/222/f8bedef14aacaf1f3817bfdd256e2bc0.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+6월 2일 토요일, 아름다운 여행으로 고창의 학원농장과 장성 축령산 편백숲 걷기 여행에 다녀왔습니다.
+고창 학원농장에 도착하자 강렬한 햇볕이 뜨겁게 내리쬐더군요. 
+보리는 더없이 누렇게 익어 그야말로 끝도 없는 황금벌판을 이루고 있었습니다. 이제 다음주쯤에는 보리밭을 베어 버린다고 합니다. 보리수확을 마친 학원농장엔 가을에 하얗게 장관을 이루게 될 메밀을 심게 됩니다. 이번 여행으로 보리의 수확 전, 마지막 모습을 본 셈이 되었네요~
+학원농장을 둘러본 후, 소고기 비빔밥으로 점심식사를 하고 장성의 축령산으로 이동을 했습니다.
+본격적인 편백숲으로 들어서기 전, 초입 부분은 임도와 숲길 두 길을 선택해서 약간의 오르막을 걸어야 합니다. 이번에는 숲길을 따라 걷기 시작하였습니다. 
+편백숲을 걷는 동안, 약간 흐린 하늘에 중간중간 기분 좋게 맞을 정도의 소나기를 만났습니다.
+편백나무가 울창한 숲길을 지날 때라 비 맞을 염려도 없이 비 내리는 소리만 들으며 시원하게 걸을 수 있었네요. 게다가 촉촉하게 내려준 비 덕에 편백나무 향은 더욱 진하게 뿜어 내는 듯 했습니다.
+편백숲에서 소나기를 만난 것은 이번 여행의 또 다른 행운이 아니었나 싶습니다.
+시원하고 상쾌한 그 곳의 공기가 너무도 기분 좋아 오래도록 머물고 싶은 마음뿐이더군요.
+무더워 지는 날씨에 편백숲의 시원한 공기와 기운이 항상 그리울 것 같습니다.
+이번 여행에 함께 하신 분들 모두 편백숲에서 얻어 온 좋은 에너지로 활기차고 건강한 여름 보내시길 바라겠습니다~
+이 게시물을...

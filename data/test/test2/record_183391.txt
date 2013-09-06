@@ -1,0 +1,23 @@
+Date:
+2011.10.09
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(861118,'files/attach/images/228818/391/183/d848b8571d58453440ab8d14464b79d5.jpg');
+list_gallery_add_image(861118,'files/attach/images/228818/391/183/0a8e517232d8795f8bc2c96002839544.jpg');
+list_gallery_add_image(861118,'files/attach/images/228818/391/183/bdc8bdfa1e94243b618f5d45fcd16c2a.jpg');
+list_gallery_add_image(861118,'files/attach/images/228818/391/183/91466c1e2523c8d61ced4c8a4c67a1bc.jpg');
+list_gallery_add_image(861118,'files/attach/images/228818/391/183/5931854a4bb1ee8c9620980bc7894a90.jpg');
+list_gallery_add_image(861118,'files/attach/images/228818/391/183/0b9272c97e10c914ceaed08c165abce8.jpg');
+list_gallery_add_image(861118,'files/attach/images/228818/391/183/3c3031e70ed1d0819525e696032e521a.jpg');
+list_gallery_add_image(861118,'files/attach/images/228818/391/183/01b43d2cc41e6274dcf40329ae8d1ebf.jpg');
+list_gallery_add_image(861118,'files/attach/images/228818/391/183/c4d15c27f625760ccf3bd50a294d4acd.jpg');
+list_gallery_add_image(861118,'files/attach/images/228818/391/183/3fd43f0c220f6ca736929edd94c07a8f.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+10월 8일(토) 아름다운 여행으로 남설악의 흘림골과 주전골 트레킹을 다녀왔습니다. 흘림골계곡을 타고 등선대까지 오른 뒤 십이폭계곡과 주전골계곡을 따라 오색약수로 내려가는 코스입니다. 총 6.5km의 거리로 등선대까지의 오르막 구간이 힘들지만 다른 구간은 그리 힘들지 않은 코스입니다.
+흘림골과 주전골을 품고 있는 남설악은 가을 단풍으로 유명합니다. 이번 트레킹도 남설악의 단풍을 보기 위해 기획되었습니다. 하지만 올해는 단풍이 늦어져서 이번 트레킹에서는 남설악의 아름다운 단풍을 제대로 보지 못했네요. 아주 살짝 가을이 내려앉아 설익은 가을 분위기만 보고 왔습니다. 올해 남설악 단풍의 절정은 아마 다음 주쯤이 될 것 같습니다. 올 가을 단풍은 지역적인 시기 차가 느껴지지 않을 정도로 예년과 차이가 있는 것 같습니다.
+단풍 외에도 아쉬웠던 건 사람이 너무 많아 좀 번거로웠습니다. 단풍철로 접어들었으니 단풍 명소에 사람 많은 건 어쩔 수 없지만, 개중에는 지나치게 소란스러운 사람들이 있어 눈살을 찌푸리게 하더군요. 
+화려한 단풍은 보지 못했지만 그래도 날이 좋아 트레킹을 즐기기엔 좋았습니다. 맑은 하늘에 적당한 기온과 상쾌한 공기가 걷는 내내 기분을 신선하게 해주었습니다. 아마 요즘이 일년 중 가장 기후가 좋을 때가 아닌가 싶네요.
+이번 흘림골 주전골 트레킹에 참가하신 분들 모두 휴일에 피로 잘 푸시고 활기차게 월요일을 맞으시기 바랍니다~
+이 게시물을...

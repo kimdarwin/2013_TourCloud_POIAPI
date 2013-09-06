@@ -1,0 +1,27 @@
+Title:
+2/18 선자령 눈꽃 트레킹 후기
+
+Date:
+2012.02.18
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(750245,'files/attach/images/64/552/201/4355b671b8f8994bb291c1ebb68b6099.jpg');
+list_gallery_add_image(750245,'files/attach/images/64/552/201/32719eb32837268e8c0a6828edf8986e.jpg');
+list_gallery_add_image(750245,'files/attach/images/64/552/201/83bf91fe48574dc439baf0cb7db0fd43.jpg');
+list_gallery_add_image(750245,'files/attach/images/64/552/201/b5aecd68871f783592908c63156d6700.jpg');
+list_gallery_add_image(750245,'files/attach/images/64/552/201/35a9deb8316c3bc4d82e4d6f44e860b7.jpg');
+list_gallery_add_image(750245,'files/attach/images/64/552/201/8cb51f2561ae65ab2a4506e7433cd79e.jpg');
+list_gallery_add_image(750245,'files/attach/images/64/552/201/e2c37a4f1f94478100ffddc4c048fa1c.jpg');
+list_gallery_add_image(750245,'files/attach/images/64/552/201/45b41e3157067f03dc94e727c96e331f.jpg');
+list_gallery_add_image(750245,'files/attach/images/64/552/201/181781b27c247bdf45317882cf73c457.jpg');
+list_gallery_add_image(750245,'files/attach/images/64/552/201/f1ba2894e57af89113bebd15fd7679af.jpg');
+list_gallery_add_image(750245,'files/attach/images/64/552/201/eb978a3f49a6f39ecf512eab3651c375.jpg');
+list_gallery_add_image(750245,'files/attach/images/64/552/201/5c539ac193a432dc4ca760c7c5d778a1.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+2월 18일(토) 아름다운 여행으로 선자령 눈꽃 트레킹을 다녀왔습니다. 대관령에서 시작해 능선을 따라 선자령까지 왕복 약 10km 정도의 트레킹 코스입니다. 심한 경사가 없어 거리나 난이도 면에서 무난한 코스입니다.
+이번 선자령 트레킹은 올 겨울 두 번째 선자령 트레킹이었는데 이번에도 눈꽃을 보진 못했습니다. 선자령은 워낙 바람이 거센 곳이어서 나뭇가지에 소담하게 내려앉은 눈꽃을 보긴 쉽지 않습니다. 하지만 바닥에는 눈이 쌓여 있어 흰 겨울 산의 자태도 볼 수 있었고, 뽀드득 뽀드득 눈을 밟으며 눈길을 걷는 즐거움도 좋았습니다. 하늘도 깨끗해서 시리도록 파란 하늘도 원없이 보았습니다. 
+또 걱정했던 것보다 날도 그리 춥진 않았습니다. 며칠 전부터 이 날이 막바지 추위의 절정이라는 예보가 있었죠. 예보대로 이 날 대관령의 아침 기온이 영하 18도까지 떨어졌다는데 실제 체감 추위는 그 정도로 춥지는 않았습니다. 아마 바람이 심하지 않아서 그랬던 것 같습니다. 지난 번 선자령 트레킹 때는 매운 칼바람이 몰아쳐 몸을 가누기도 힘들 정도였는데, 이 날은 별 부담없이 걸었던 것 같습니다. 추운 날씨에도 이번 선자령 트레킹에 참여하신 분들에게도 좋은 겨울 추억이 되셨으리라 생각됩니다.
+아마 이번 선자령 트레킹이 이번 겨울의 마지막 겨울 산 트레킹인 것 같습니다. 이제 봄이 멀지 않았습니다. 여러분 모두 얼마 남지 않은 겨울 활기차게 보내시고 봄맞이 준비도 시작하시기 바랍니다~
+이 게시물을...

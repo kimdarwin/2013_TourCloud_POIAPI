@@ -1,0 +1,67 @@
+Title:
+양평사나사계곡 가는길 
+
+Date:
+2011.08.17 16:00
+
+Content:
+
+위 치 : 경기도 양평군 용천리[사나사]계곡 
+가는 길 : [용산에서~용문]행 중앙선 타시고 양평역하차
+1번출구 앞에서 택시이용 약9km 15분소요 요금약9000원
+
+[옥수동산악회
+
+옥수산악회는 매월2째일요일에 옥수동과 그외 분들이모여 정기산행을 하는 날입니다
+오늘은 피서의 막바지에 서있는 경기도 양평군 용천리 용문봉과사나사 계곡으로 정 하였습니다
+
+
+[사모님 항상 건강하세요]
+사나사계곡은 양평용문산 남서쪽 계곡을 흐르고 있으며 계곡폭이 넓고 물이 맑으며 
+수량이풍부해무더운 여름 철에는 피서지로 잘 알려져있는 곳이다 
+
+사나사 계곡입구까지 길이 잘 포장되어있어 매우찾기가 쉬우며 계곡 주변에는 
+민박 야영 등이가능하며 백운봉 백운산 산행 등도 가능하다
+
+
+계곡을 따라 약150m오르면 함왕의 전설이 전해지는 함왕혈과 사나사[사찰]을 만날수있다
+사나사는923년 창건한 사찰로 고려시대 유적이 많이 남아있는 곳이다
+사나사 뒤편으로는 백운봉으로 올라 갈수있는 등산로가 잘 정돈되어있다
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2011/08/17/1933/03103323112D536E6CC3396753C53CF3740_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '372.31';
+	var qsParam = {};
+	qsParam.vid = '3E12E715772B75B4A0A00446A547F4689570';
+	qsParam.inKey = 'V129dcd0b277c04a4276f7e91189ba25446810c09e9df7bda958dc772b2446bf8f03c7e91189ba2544681';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_00602 = new VideoInfraUGCPlayer('ugcPlayer_00602' ,bean); 
+ugcPlayer_00602.drawPlayLayer(); 
+}
+
+ 
+
+
+
+ 
+
+	

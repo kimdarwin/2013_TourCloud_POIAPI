@@ -1,0 +1,104 @@
+Title:
+앨리샤 키스(Alicia Keys)~Doesn't Mean Anything (Live & MV 동영상) 
+
+Date:
+2010.02.19 01:52
+
+Content:
+
+
+피아노치는 디바..앨리샤키스(Alicia Keys) ..
+ 이탈리아계 어머니와 흑인 아버지 사이에서 태어나 (1981.01.25) 미국뉴욕 할램에서 자랐다.
+앨리샤 키스는 2001년 첫 앨범 'Songs In A Minor'로화려하게 데뷰하여세계적인 뮤지션으로 자리했다.
+
+앨리샤키스(Alicia Keys)-Doesn't Mean Anything 은
+앨리샤키스의 새로운 앨범..The Element Of Freedom(2010.02.01 발매)에 수록된 곡이며
+‘Doesn`t Mean Anything’‘Try Sleeping With A Broken Heart’ 비욘세와 듀엣 곡‘Put It In A Love Song’ 
+ ‘Empire State Of Mind’의솔로 버전 (Part II)등 총 14곡과 함께수록된 새 앨범이다.
+
+
+앨리샤 키스(Alicia Keys)~Doesn't Mean Anything ( Live동영상) 
+ 
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc16/2010/02/19/1204/031002136A0E431B7E035B56539B78D3942_ya3542_logo.jpg';
+	layout.playtime = '255.46';
+	var qsParam = {};
+	qsParam.vid = '16CEC0ED84F9152E087D5B6D9C178BE30775';
+	qsParam.inKey = 'V12110033806e947a5d654304ca058cc3ad52e702c448888bf67cc38ad6bed96960034304ca058cc3ad52';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_06874 = new VideoInfraUGCPlayer('ugcPlayer_06874' ,bean); 
+ugcPlayer_06874.drawPlayLayer(); 
+}
+
+
+
+앨리샤 키스는미국빌보드지가뽑은 지난 10년간 최고의 RB 부문 아티스트로 선정되기도 했다.
+ 
+
+앨리샤 키스(Alicia Keys)~Doesn't Mean Anything (뮤직비디오)
+ 
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc16/2010/02/19/1355/031002136A0E431B7E03FB63531B0DD3541_ya3542_logo.jpg';
+	layout.playtime = '313.42';
+	var qsParam = {};
+	qsParam.vid = 'F5717E9F5D933C8F9E86986C6D86D5CBD916';
+	qsParam.inKey = 'V1245a91072e790287c3b4942abb4ce7e033614a554ad8d05256f65f54e1154a2b4ed4942abb4ce7e0336';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_05869 = new VideoInfraUGCPlayer('ugcPlayer_05869' ,bean); 
+ugcPlayer_05869.drawPlayLayer(); 
+}
+
+
+
+ 가사 
+ Doesn't Mean Anything - Alicia Keys
+
+ Used to dream of being a millionaire, without a care but if I’m seeing my dreams and you aren’t there ’cause it’s over that just wont be fair, darling.
+I’d rather be a poor woman living on the street, no food to eat ’cause I don’t want no pie if I have to cry’cause it’s over when you said goodbye
+ All at once I had it all but it doesn’t mean anything now that you’re gone from above, seems I had it allbut it doesn’t mean anything since you’re gone
+ Now I see myself through different eyes it’s no surprise but being alone would make you realize, when it’s over all in love is fairI shoulda been there, I shoulda been there, I shoulda shoulda
+All at onceI had it allbut it doesn’t mean anythingnow that you’re gone from above,seems I had it all but it doesn’t mean anything since you’re gone
+ I know I pushed you away what can I do that would save our love take these material things they don’t mean nothingits you that I want
+ All at once I had it all but it doesn’t mean anything now that you’re gone from above, seems I had it all but it doesn’t mean anything since you’re gone
+
+
+ 앨리샤 키스(Alicia Keys)
+Doesn't Mean Anything 
+
+ 
+ 
+
+
+
+민초호야의 음악공간
+
+	

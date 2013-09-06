@@ -1,0 +1,729 @@
+해피하우스
+	해피/ncpa+하우스/ncn
+
+
+경기도화성시
+	경기도화성시/ncn
+
+
+기간
+	기간/ncn
+
+:
+	:/sp
+
+2007.
+	2007./nnc
+
+10.
+	10./nnc
+
+8
+	8/nnc
+
+~
+	~/sd
+
+2007.
+	2007./nnc
+
+10.
+	10./nnc
+
+9
+	9/nnc
+
+(1박
+	(/sl+1/nnc+박/nbu
+
+2일)
+	2/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+:
+	:/sp
+
+연인과
+	연인/ncn+과/jcj
+
+커플여행
+	커플/ncn+여행/ncpa
+
+
+경로
+	경로/ncn
+
+:
+	:/sp
+
+
+여행팁
+	여행/ncpa+팁/ncn
+
+
+입실이오후3시이후이므로근처다른곳구경을하고가는것이좋은데제부도일몰을본후오면딱이다
+	입실이오후3시이후이므로근처다른곳구경을하고가는것이좋은데제부도일몰을본후오면딱/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이곳에는펜션마을이라고해도과언이아닐정도로많이있는데펜션입구를들어선후부턴시장,은행,마트도없고
+	이곳에는펜션마을이라고해도과언이아닐정도로많이있는데펜션입구를들어선후부턴시장,은행,마트도없고/ncn
+
+해가떨어진이후엔네비가있다고하더라도길찾기가애매하므로송산어시장에서횟감이나왕새우와조개구이거리와
+	해가떨어진이후엔네비가있다고하더라도길찾기가애매하므로송산어시장에서횟감이나왕새우와조개구이거리/ncn+와/jcj
+
+마트에서다른먹을거리를사오면값도싸고푸짐하게먹을수있을거같다
+	마트에서다른먹을거리를사오면값도싸고푸짐하게먹을수있을거같다/ncn
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+묵을
+	묵/pvg+을/etm
+
+버섯집
+	버섯/ncn+집/ncn
+
+바이올렛은
+	바이올렛/ncn+은/jxc
+
+5평짜리
+	5/nnc+평/nbu+짜리/xsnu
+
+복층구조로
+	복층구조/ncn+로/jca
+
+되어
+	되/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+정말
+	정말/mag
+
+스머프들이
+	스머프들/ncn+이/jcc
+
+사는
+	사/pvg+는/etm
+
+집같이
+	집/ncn+같이/jca
+
+아기자기하게
+	아기자기/ncps+하/xsms+게/ecs
+
+꾸며져
+	꾸미/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+바깥이
+	바깥/ncn+이/jcc
+
+추울
+	춥/paa+을/etm
+
+땐,
+	때/pvg+ㄴ/etm+,/sp
+
+실내에서
+	실내/ncn+에서/jca
+
+숯불
+	숯불/ncn
+
+구이를
+	구이/ncn+를/jco
+
+해
+	하/pvg+어/ecx
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+실내
+	실내/ncn
+
+바베큐
+	바베큐/ncn
+
+장이다
+	장/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+짐을
+	지/px+ㅁ/etn+을/jco
+
+풀고
+	풀/pvg+고/ecc
+
+조개구이를
+	조개/ncn+구이/ncn+를/jco
+
+먹어
+	먹/pvg+어/ecx
+
+볼까나~~
+	보/pvg+ㄹ까/ecs+나/jxc+~/sd+~/sd
+
+
+지글지글
+	지글지글/mag
+
+키조개~~
+	키조개/ncn+~/sd+~/sd
+
+
+다음날,
+	다음날/ncn+,/sp
+
+아침
+	아침/ncn
+
+풍경
+	풍경/ncn
+
+
+바다를
+	바다/ncn+를/jco
+
+바라보며
+	바라/pvg+아/ecx+보/px+며/ecc
+
+그네도
+	그네/ncn+도/jxc
+
+타고~~
+	타고/ncpa+~/sd+~/sd
+
+
+내가
+	나/npp+가/jcs
+
+묵은
+	묵/pvg+은/etm
+
+버섯집
+	버섯/ncn+집/ncn
+
+
+수도마저
+	수/nbn+도/jxc+마저/jxc
+
+버섯모양으로~~
+	버섯모양/ncn+으로/jca+~/sd+~/sd
+
+
+꼬깔집
+	꼬깔집/ncn
+
+
+나무집
+	나무/ncn+집/ncn
+
+
+"더
+	"/sl+더/mag
+
+많이
+	많/paa+이/xsa
+
+사랑하세요
+	사랑/ncpa+하/xsva+세/ef+요/jxf
+
+."
+	./sf+"/sl
+
+
+가슴에
+	가슴/ncn+에/jca
+
+와
+	오/pvg+아/ecx
+
+닿는
+	닿/pvg+는/etm
+
+말이다
+	말/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+너무
+	너무/mag
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+요정들의
+	요정/ncn+들/ncn+의/jcm
+
+마을
+	마을/ncn
+
+속에
+	속/ncn+에/jca
+
+온
+	오/px+ㄴ/etm
+
+것
+	것/nbn
+
+같은
+	같/paa+은/etm
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+펜션이다
+	펜션/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+펜션을
+	펜션/ncn+을/jco
+
+알고난
+	알/pvg+고/ecx+나/px+ㄴ/etm
+
+이후부터
+	이후/ncn+부터/jxc
+
+휴가가
+	휴가/ncn+가/jcs
+
+되면
+	되/pvg+면/ecs
+
+한
+	하/pvg+ㄴ/etm
+
+번
+	번/nbu
+
+가보려고
+	가/pvg+아/ecx+보/px+려고/ecs
+
+했었는데
+	하/px+었었/ep+는데/ecs
+
+정말
+	정말/mag
+
+오게
+	오/px+게/ecs
+
+될
+	되/pvg+ㄹ/etm
+
+줄이야
+	줄/nbn+이/jp+야/ef
+
+.
+	./sf
+
+
+커플
+	커플/ncn
+
+컨셉으로
+	컨셉/ncn+으로/jca
+
+만들어진
+	만들/pvg+어/ecx+지/px+ㄴ/etm
+
+펜션이라
+	펜션/ncn+이/jp+라/ecs
+
+나무집을
+	나무/ncn+집/ncn+을/jco
+
+제외하곤
+	제외/ncpa+하/xsva+곤/ecs
+
+버섯집과
+	버섯/ncn+집/ncn+과/jcj
+
+꼬깔집은
+	꼬깔집/ncn+은/jxc
+
+2인
+	2/nnc+이/jp+ㄴ/etm
+
+커플룸이다
+	커플/ncn+룸/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+거기다
+	거기/npd+이/jp+다/ef
+
+천장이
+	천/nnc+장/nbu+이/jcc
+
+낮은
+	낮/paa+은/etm
+
+복층
+	복/ncpa+층/xsncc
+
+구조가
+	구조/ncpa+가/jcc
+
+많아
+	많/paa+아/ecx
+
+키가
+	크/paa+어/ecx+가/px+아/ecx
+
+큰
+	크/paa+ㄴ/etm
+
+사람에게는
+	사람/ncn+에게/jca+는/jxc
+
+다소
+	다소/mag
+
+불편한
+	불편/ncn+한/ncn
+
+감도
+	가/px+ㅁ/etn+도/jxc
+
+있지만
+	있/paa+지만/ecs
+
+
+여자들은
+	여자/ncn+들/ncn+은/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+번
+	번/nbu
+
+쯤은
+	쯤은/ncn
+
+이런
+	이런/mmd
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+펜션에
+	펜션/ncn+에/jca
+
+묵고
+	묵/pvg+고/ecc
+
+낭만을
+	낭만/ncn+을/jco
+
+느끼고
+	느끼/pvg+고/ecc
+
+싶어들
+	싶어들/ncn
+
+하니까~~~
+	하/pvg+니까/ecs+~/sd+~/sd+~/sd
+
+
+그래서
+	그래서/maj
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+젊은
+	젊/paa+은/etm
+
+연인이나
+	연인/ncn+이나/jcj
+
+신혼부부가
+	신혼/ncn+부부/ncn+가/jcs
+
+많았다
+	많/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+비수기에다
+	비수/ncn+이/jp+기/etn+에다/jca
+
+평일에
+	평일/ncn+에/jca
+
+간
+	가/px+ㄴ/etm
+
+것이라
+	것/nbn+이/jp+라/ecs
+
+한산했지만
+	한산했지/ncn+만/jxc
+
+그랬기에
+	그렇/pad+었/ep+기/etn+에/jca
+
+더욱
+	더욱/mag
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+밤에는
+	밤/ncn+에/jca+는/jxc
+
+송산어시장에서
+	송산어시장/ncn+에서/jca
+
+사온
+	사/pvg+아/ecx+오/px+ㄴ/etm
+
+싱싱한
+	싱싱/ncps+하/xsms+ㄴ/etm
+
+새우와
+	새우/ncn+와/jcj
+
+조개구이도
+	조개/ncn+구이/ncn+도/jxc
+
+해먹고
+	해먹고/ncn
+
+가볍게
+	가볍/paa+게/ecs
+
+맥주
+	맥주/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+잔도
+	잔/nbu+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+펜션풍경도
+	펜션풍경/ncn+도/jxc
+
+찍고
+	찍/pvg+고/ecc
+
+
+연인에게
+	연인/ncn+에게/jca
+
+사랑고백을
+	사랑/ncn+고백/ncpa+을/jco
+
+준비하고
+	준비/ncn+하고/jct
+
+계시다거나
+	계시/paa+다거나/ecc
+
+사랑을
+	사랑/ncn+을/jco
+
+재확인하고
+	재확인/ncpa+하고/jct
+
+싶은
+	싶/px+은/etm
+
+분들에게
+	불/pvg+ㄴ/etm+들/nbn+에게/jca
+
+추천합니다
+	추천/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^*
+	^/sy+^/sy+*/sy
+
+
+경기도
+	경기/ncn+도/jxc
+
+화성시
+	화성/ncn+시/ncn
+
+송산면
+	송산면/ncn
+
+고포리
+	고포리/ncn
+
+828-21번지해피하우스
+	828-21번지해피하우스/ncn
+
+T
+	T/f
+
+:
+	:/sp
+
+031-357-3908
+	031/nnc+-357/nnc+-3908/nnc
+
+
+더
+	더/mag
+
+자세한
+	자세/ncn+한/ncn
+
+정보는
+	정보/ncn+는/jxc
+
+=해피하우스
+	=/sy+해피/ncpa+하우스/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+ehappyhouse.
+	ehappyhouse/f+./sy
+
+com
+	com/f
+
+
+**공감하시면
+	*/sy+*/sy+공감/ncpa+하시/ncn+이/jp+면/ecs
+
+공감
+	공감/ncpa
+
+꾸욱~~~
+	꾸욱/ncn+~/sd+~/sd+~/sd
+
+
+스크랩하실땐
+	스크랩하실땐/ncn
+
+한
+	한/nnc
+
+줄
+	주/px+ㄹ/etm
+
+덧글의
+	덧글/ncn+의/jcm
+
+센스를~~~
+	센스/ncn+를/jco+~/sd+~/sd+~/sd
+
+
+무단
+	무단/ncn
+
+도용은
+	도용/ncpa+은/jxc
+
+아시죠~~~**
+	아시/ncn+이/jp+죠/ef+~/sd+~/sd+~/sd+*/sy+*/sy
+
+
+2007.
+	2007./nnc
+
+10.
+	10./nnc
+
+08
+	08/nnc
+
+.
+	./sf
+
+
+월10.
+	월10./ncn
+
+09
+	09/nnc
+
+.
+	./sf
+
+
+화
+	화/ncn
+
+
+PhotographedWritten
+	PhotographedWritten/f
+
+by
+	by/f
+
+JasMine
+	JasMine/f

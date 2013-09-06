@@ -1,0 +1,94 @@
+백암산
+	백암산/ncn
+
+백학봉에서
+	백학봉/ncn+에서/jca
+
+..
+	./sf+./sf
+
+
+외떡잎식물
+	외떡잎식물/ncn
+
+화본목
+	화본목/ncn
+
+화본과의
+	화본과/ncn+의/jcm
+
+여러해살이풀
+	여러해살이/ncn+풀/ncn
+
+.
+	./sf
+
+
+학명
+	학명/ncn
+
+
+Phragmites
+	Phragmites/f
+
+communis
+	communis/f
+
+
+분류
+	분류/ncpa
+
+
+외떡잎식물
+	외떡잎식물/ncn
+
+화본목
+	화본목/ncn
+
+화본과
+	화본/ncn+과/jcj
+
+
+분포지역
+	분포/ncpa+지역/ncn
+
+
+온대와
+	온대/ncn+와/jcj
+
+한대
+	한대/ncn
+
+
+서식장소
+	서식/ncpa+장소/ncn
+
+
+습지나
+	습지/ncn+나/jcj
+
+갯가,
+	갯가/ncn+,/sp
+
+호수
+	호수/ncn
+
+주변
+	주변/ncn
+
+모래땅
+	모래/ncn+땅/ncn
+
+
+크기
+	크기/ncn
+
+
+높이
+	높이/mag
+
+3m
+	3m/ncn
+
+정도
+	정도/ncn

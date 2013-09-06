@@ -1,0 +1,834 @@
+최함월
+	최함월/ncn
+
+고택은
+	고택은/ncn
+
+충정북도
+	충정/ncpa+북/ncn+도/jxc
+
+충주시
+	충주시/ncn
+
+살미면
+	살미/ncn+이/jp+면/ecs
+
+용천리에
+	용천리/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+조선시대
+	조선시대/ncn
+
+고가로
+	고가/ncn+로/jca
+
+
+충북유형문화재
+	충북유형문화재/ncn
+
+제87호로
+	제87호/ncn+로/jca
+
+지정되었다
+	지정/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+^_^
+	^_/ncn+^/sy
+
+
+조선
+	조선/ncpa
+
+숙종
+	숙종/ncn
+
+때
+	때/ncn
+
+문장가인
+	문장가/ncn+이/jp+ㄴ/etm
+
+최응성의
+	최응성/ncn+의/jcm
+
+생가이며
+	생가/ncn+이/jp+며/ecc
+
+원래
+	원래/mag
+
+살미면
+	살미/ncn+이/jp+면/ecs
+
+무릉리에
+	무릉리/ncn+에/jca
+
+있었으나
+	있/paa+었/ep+으나/ecc
+
+
+충주댐
+	충주댐/ncn
+
+건설로
+	건설/ncpa+로/jca
+
+수몰위기에
+	수몰/ncpa+위/ncn+이/jp+기/etn+에/jca
+
+놓이게
+	놓이/pvg+게/ecs
+
+되자
+	되/pvg+자/ecc
+
+지금의
+	지금/ncn+의/jcm
+
+용천리로
+	용천리/ncn+로/jca
+
+이전을
+	이전/ncn+을/jco
+
+하게
+	하/pvg+게/ecs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+건물
+	건물/ncn
+
+배치는
+	배치/ncpa+는/jxc
+
+기억자형의
+	기억/ncpa+자형/ncn+의/jcm
+
+안채를
+	알/pvg+ㄴ/etm+채/nbn+를/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+전면에
+	전면/ncn+에/jca
+
+일자형의
+	일자형/ncn+의/jcm
+
+행랑채가
+	행랑채/ncn+가/jcs
+
+있고,
+	있/paa+고/ecc+,/sp
+
+
+좌측으로는
+	좌측/ncn+으로/jca+는/jxc
+
+함월이
+	함월/ncn+이/jcc
+
+서재로
+	서재/ncn+로/jca
+
+사용하던
+	사용/ncpa+하/xsva+던/etm
+
+염선재가
+	염선재/ncn+가/jcs
+
+있으며
+	있/px+으며/ecc
+
+우측으로는
+	우측/ncn+으로는/jca
+
+
+기억자형의
+	기억/ncpa+자형/ncn+의/jcm
+
+창고가사괴석
+	창고/ncn+가사/ncn+괴석/ncn
+
+담장으로
+	담장/ncn+으로/jca
+
+일곽을
+	일곽/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+함께
+	함께/mag
+
+배치되어
+	배치/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+황토와
+	황토/ncn+와/jcj
+
+막돌로
+	막돌/ncn+로/jca
+
+쌓은
+	쌓/pvg+은/etm
+
+담벼락을
+	담벼락/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+안으로
+	안/ncn+으로/jca
+
+들어서면
+	들어서/pvg+면/ecs
+
+본채
+	보/px+ㄴ/etm+채/nbn
+
+건물을
+	건물/ncn+을/jco
+
+만나게
+	만나/pvg+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+고택
+	고택/ncn
+
+앞에는
+	앞/ncn+에/jca+는/jxc
+
+작은
+	작/paa+은/etm
+
+연못이
+	연못/ncn+이/jcc
+
+만들어져
+	만들/pvg+어/ecx+지/px+어/ecx
+
+있어
+	있/px+어/ecx
+
+상류층
+	상류층/ncn
+
+양반가의
+	양반가/ncn+의/jcm
+
+전형을
+	전형/ncn+을/jco
+
+보여
+	보이/pvg+어/ecx
+
+주고
+	주/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+연못가에
+	연못가/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+조그만
+	조그맣/paa+은/etm
+
+정자
+	정자/ncn
+
+함월정과
+	함월정/ncn+과/jcj
+
+가운데의
+	가운데/ncn+의/jcm
+
+화단은
+	화단/ncn+은/jxc
+
+
+중후한
+	중후/ncps+하/xsms+ㄴ/etm
+
+멋을
+	멋/ncn+을/jco
+
+풍기는
+	풍기/pvg+는/etm
+
+고택과
+	고택/ncn+과/jct
+
+잘
+	잘/mag
+
+어울린다
+	어울리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+연꽃과
+	연꽃/ncn+과/jcj
+
+수련
+	수련/ncn
+
+등의
+	등/nbu+의/jcm
+
+수생식물들이
+	수생식물들/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+감상하는
+	감상/ncpa+하/xsva+는/etm
+
+재미가
+	재미/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+건물
+	건물/ncn
+
+뒤쪽
+	뒤쪽/ncn
+
+사당은
+	사당/ncn+은/jxc
+
+울창한
+	울창/ncn+한/ncn
+
+숲에
+	숲/ncn+에/jca
+
+있어
+	있/px+어/ecx
+
+조용함과
+	조용/ncn+함/ncn+과/jcj
+
+엄숙함을
+	엄숙/ncps+하/xsms+ㅁ/etn+을/jco
+
+동시에
+	동시에/mag
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있고
+	있/paa+고/ecc
+
+
+본채
+	보/px+ㄴ/etm+채/nbn
+
+건물은
+	건물/ncn+은/jxc
+
+자연석으로
+	자연석/ncn+으로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+기단
+	기단/ncn
+
+위에
+	위/ncn+에/jca
+
+건물을
+	건물/ncn+을/jco
+
+지어
+	지/px+어/ecx
+
+안정감이
+	안정감/ncn+이/jcc
+
+넘친다
+	넘치/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+본채
+	보/px+ㄴ/etm+채/nbn
+
+앞의
+	앞/ncn+의/jcm
+
+마당에는
+	마당/ncn+에/jca+는/jxc
+
+수십년을
+	수십/nnc+년/nbu+을/jco
+
+사용해온
+	사용/ncpa+하/xsva+어/ecx+오/px+ㄴ/etm
+
+우물이
+	우물/ncn+이/jcc
+
+여태까지
+	여태/mag+까지/jxc
+
+물을
+	물/ncn+을/jco
+
+쏟아내고
+	쏟/pvg+아/ecx+내/px+어/ef+고/jcr
+
+있으며
+	있/paa+으며/ecc
+
+
+작은
+	작/paa+은/etm
+
+생활박물관에
+	생활/ncpa+박물관/ncn+에/jca
+
+온듯한
+	오/px+ㄴ/etm+듯/nbs+하/xsms+ㄴ/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+들
+	들/pvg+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+많은
+	많/paa+은/etm
+
+농기구들이
+	농기구/ncn+들/ncn+이/jcc
+
+놓여
+	놓이/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+최함월
+	최함월/ncn
+
+고택의
+	고택/ncn+의/jcm
+
+돌담을
+	돌담/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+야산과
+	야산/ncn+과/jcj
+
+밭이
+	밭/ncn+이/jcc
+
+이어져
+	잇/pvg+어/ecx+지/px+어/ecx
+
+있어
+	있/paa+어/ecs
+
+
+정겨운
+	정겹/paa+은/etm
+
+시골모습을
+	시골/ncn+모습/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+고풍스러움을
+	고풍/ncn+스럽/xsmn+음/etn+을/jco
+
+뽐내고
+	뽐내/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+이곳은
+	이곳/npd+은/jxc
+
+고택을
+	고택/ncn+을/jco
+
+연구하는
+	연구/ncpa+하/xsva+는/etm
+
+학자들에게
+	학자/ncn+들/ncn+에게/jca
+
+
+중요한
+	중요/ncps+하/xsms+ㄴ/etm
+
+자료로
+	자료/ncn+로/jca
+
+인정
+	인정/ncpa
+
+받고
+	받/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+고택으로
+	고택/ncn+으로/jca
+
+중부권의
+	중부권/ncn+의/jcm
+
+고택
+	고택/ncn
+
+연구자료로서도
+	연구자료/ncn+로서/jca+도/jxc
+
+중요한
+	중요/ncps+하/xsms+ㄴ/etm
+
+위치에
+	위치/ncn+에/jca
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+충북
+	충북/ncn
+
+최함월고택
+	최함월고택/ncn
+
+가는
+	가/pvg+는/etm
+
+길
+	길/nbu
+
+
+충북
+	충북/ncn
+
+최함월고택
+	최함월고택/ncn
+
+숙박정보
+	숙박/ncpa+정보/ncn
+
+바로가기
+	바로가/ncn+이/jp+기/etn
+
+
+구석구석
+	구석/ncn+구석/ncn
+
+여행지기의
+	여행지/ncn+기/ncn+의/jcm
+
+한마디
+	한마디/ncn
+
+
+정말
+	정말/mag
+
+정겹고
+	정겹/paa+고/ecc
+
+푸근한
+	푸근/ncps+하/xsms+ㄴ/etm
+
+시골의
+	시골/ncn+의/jcm
+
+모습이네요,^_^
+	모습이네요,^_/ncn+^/sy
+
+
+저는
+	저/npp+는/jxc
+
+최함월고택의
+	최함월고택/ncn+의/jcm
+
+돌담이
+	돌담/ncn+이/jcc
+
+참
+	참/mag
+
+마음에
+	마음/ncn+에/jca
+
+드네요
+	들/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+너무
+	너무/mag
+
+예쁜것
+	예쁘/paa+ㄴ/etm+것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+곡선이
+	곡선/ncn+이/jcc
+
+살아있는
+	살/pvg+아/ecx+있/px+는/etm
+
+지붕
+	지붕/ncn
+
+.
+	./sf
+
+
+아
+	아/ii
+
+보면
+	보/px+면/ecs
+
+볼수록
+	보/px+ㄹ수록/ecs
+
+고택의
+	고택/ncn+의/jcm
+
+아기자기함과
+	아기자기/ncn+함/ncn+과/jcj
+
+그
+	그/mmd
+
+것을
+	것/nbn+을/jco
+
+
+더욱더
+	더욱더/mag
+
+운치있게
+	운치/ncn+있/xsmn+게/ecs
+
+만드는
+	만들/pvg+는/etm
+
+풍경들에
+	풍경/ncn+들/ncn+에/jca
+
+눈을
+	눈/ncn+을/jco
+
+뗄
+	떼/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+없네요
+	없/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+사진으로만
+	사진/ncn+으로/jca+만/jxc
+
+보시기엔
+	보/px+시/ep+기/etn+엔/jca
+
+아쉽지
+	아쉽/paa+지/ecx
+
+않으세요
+	않으세요/ncn
+
+?
+	?/sf
+
+
+전통한옥
+	전통/ncn+한옥/ncn
+
+숙박체험에
+	숙박/ncpa+체험/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+더
+	더/mag
+
+많은
+	많/paa+은/etm
+
+여행
+	여행/ncpa
+
+정보를
+	정보/ncn+를/jco
+
+보시려면
+	보/px+시/ep+려면/ecs
+
+아래
+	아래/ncn
+
+'한옥에서의
+	'/sr+한옥/ncn+에서/jca+의/jcm
+
+하루'
+	하루/ncn+'/sr
+
+사이트를
+	사이트/ncn+를/jco
+
+방문해
+	방문/ncpa+하/xsva+어/ecx
+
+주세요
+	주/px+세/ef+요/jxf
+
+!!
+	!/sf+!/sf
+
+
+우리나라의
+	우리나라/ncn+의/jcm
+
+전통문화가
+	전통문화/ncn+가/jcs
+
+깃들어
+	깃들/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+아름다운
+	아름답/paa+은/etm
+
+한옥
+	한옥/ncn
+
+!!
+	!/sf+!/sf
+
+
+한옥을
+	한옥/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+사랑해
+	사랑/ncn+해/ncn
+
+주세요^-^
+	주세요/ncn+^/sy+-/sd+^/sy

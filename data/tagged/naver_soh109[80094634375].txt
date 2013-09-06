@@ -1,0 +1,525 @@
+장성군
+	장성/ncn+군/ncn
+
+
+전라남도
+	전라/ncn+남도/ncn
+
+
+기간
+	기간/ncn
+
+2009.
+	2009./nnc
+
+11.
+	11./nnc
+
+7~
+	7/nnc+~/sd
+
+2009.
+	2009./nnc
+
+11.
+	11./nnc
+
+7(1일)
+	7/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+나
+	나/npp
+
+홀로
+	홀로/mag
+
+떠나는
+	떠나/pvg+는/etm
+
+여행
+	여행/ncpa
+
+
+경로
+	경로/ncn
+
+
+광주광역시
+	광주광역시/ncn
+
+광천터미널
+	광천터미널/ncn
+
+장성군
+	장성/ncn+군/ncn
+
+백양사
+	백양사/ncn
+
+대웅전
+	대웅전/ncn
+
+약사암
+	약사/ncr+암/ncn
+
+영천굴
+	영천굴/ncn
+
+
+특별히
+	특별히/mag
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+곳
+	곳/nbu
+
+
+전체적으로아기단풍잎들이한가득해서참으로볼만한곳이다-
+	전체적으로아기단풍잎들이한가득해서참으로볼만한곳/ncn+이/jp+다/ef+-/sd
+
+
+온통붉은색노란색~~대웅전까지올라가는그길이너무아름답다-
+	온통붉은색노란색~~대웅전까지올라가는그길이너무아름답다/ncn+-/sd
+
+
+여행팁
+	여행/ncpa+팁/ncn
+
+
+대중교통이용하는게쉬운듯하다-
+	대중교통이용하는게쉬운듯하/ncn+이/jp+다/ef+-/sd
+
+
+광주광역시광천터미널에서백양사행버스만타면바로도착하니
+	광주광역시광천터미널에서백양사행버스만타면바로도착하/ncn+이/jp+니/ecs
+
+..
+	./sf+./sf
+
+
+한번에해결된다^O^
+	한번에해결된다/ncn+^/sy+O/f+^/sy
+
+
+백양사를
+	백양사/ncn+를/jco
+
+지나
+	지나/pvg+아/ecx
+
+열심히
+	열심히/mag
+
+걷다보면
+	걷다보/ncn+이/jp+면/ecs
+
+..
+	./sf+./sf
+
+
+대웅전이
+	대웅전/ncn+이/jcc
+
+나온다~~
+	나/pvg+아/ecx+오/px+ㄴ다/ef+~/sd+~/sd
+
+
+입구쪽에
+	입구/ncn+쪽/ncn+에/jca
+
+그려진
+	그리/pvg+어/ecx+지/px+ㄴ/etm
+
+그림인데
+	그림/ncn+이/jp+ㄴ데/ecs
+
+...
+	.../se
+
+
+이런그림
+	이런그림/ncn
+
+그려놓은거
+	그려놓은거/ncn
+
+보면
+	보/px+면/ecs
+
+..
+	./sf+./sf
+
+
+참.
+	차/pvg+ㅁ/etn+./sy
+
+.
+	./sf
+
+
+신기하고
+	신/pvg+기/etn+하고/jct
+
+이쁘다
+	이쁘/paa+다/ef
+
+..
+	./sf+./sf
+
+
+^-^
+	^/sy+-/sd+^/sy
+
+
+수행중이라고
+	수행/ncpa+중/xsnx+이/jp+라/ef+고/jcr
+
+..
+	./sf+./sf
+
+
+출입금지였는데
+	출입/ncpa+금지/ncn+이/jp+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+문이
+	문/ncn+이/jcc
+
+살포시
+	살포시/mag
+
+열려있어서
+	열리/pvg+어/ecx+있/px+어서/ecs
+
+사진만
+	사진/ncn+만/jxc
+
+찍고
+	찍/pvg+고/ecc
+
+나왔다쥐
+	나왔다쥐/ncn
+
+
+꺄햐~~~
+	꺄햐/ncn+~/sd+~/sd+~/sd
+
+
+왠지
+	왠지/mag
+
+이사진이
+	이사진/ncn+이/jcc
+
+젤루
+	젤루/ncn
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+든다
+	들/pvg+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+기왓장에
+	기왓장/ncn+에/jca
+
+끼어있는
+	끼/pvg+어/ecx+있/px+는/etm
+
+이끼이며
+	이/nnc+끼/nbu+이/jp+며/ecc
+
+..
+	./sf+./sf
+
+
+그
+	그/mmd
+
+옆으로
+	옆/ncn+으로/jca
+
+보이는
+	보이/pvg+는/etm
+
+붉은
+	붉/paa+은/etm
+
+단풍나무
+	단풍나무/ncn
+
+.....
+	./sy+.../se+./sy
+
+.....
+	./sy+.../se+./sy
+
+.....
+	./sy+.../se+./sy
+
+..
+	./sf+./sf
+
+
+너무
+	너무/mag
+
+멋스러워서
+	멋/ncn+스럽/xsmn+어서/ecs
+
+내가
+	나/npp+가/jcs
+
+찍었음에도
+	찍/pvg+었/ep+음/etn+에/jca+도/jxc
+
+..
+	./sf+./sf
+
+
+너무
+	너무/mag
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+든다
+	들/pvg+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+대웅전
+	대웅전/ncn
+
+안에서
+	안/ncn+에서/jca
+
+분재작품
+	분재/ncn+작품/ncn
+
+전시회를
+	전시회/ncn+를/jco
+
+하고
+	하/pvg+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+^-^
+	^/sy+-/sd+^/sy
+
+
+대웅전
+	대웅전/ncn
+
+분재
+	분재/ncn
+
+작품~~~
+	작품/ncn+~/sd+~/sd+~/sd
+
+
+대웅전
+	대웅전/ncn
+
+안에서
+	안/ncn+에서/jca
+
+분재작품
+	분재/ncn+작품/ncn
+
+전시회를
+	전시회/ncn+를/jco
+
+하고
+	하/pvg+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+그중
+	그중/mag
+
+국화가
+	국화/ncn+가/jcs
+
+있어서
+	있/px+어서/ecs
+
+...
+	.../se
+
+
+함.
+	하/pvg+ㅁ/etn+./sy
+
+.
+	./sf
+
+
+찍어보시기~~
+	찍/pvg+어/ecx+보/px+시/ep+기/etn+~/sd+~/sd
+
+
+국화
+	국화/ncn
+
+축제
+	축제/ncn
+
+기간들이
+	기간/ncn+들/ncn+이/jcc
+
+가득한데
+	가득/ncps+하/xsms+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+꼭
+	꼭/mag
+
+가보고
+	가/pvg+아/ecx+보/px+고/ecc
+
+싶긴하다
+	싶긴하/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+작은
+	작/paa+은/etm
+
+국화가
+	국화/ncn+가/jcs
+
+봤지만
+	보/px+아/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+"백양사
+	"백양사/ncn
+
+오르는
+	오르/pvg+는/etm
+
+매표소
+	매표소/ncn
+
+가는길"
+	가는길/ncn+"/sr
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/soh109/80094628909
+	com/soh109/ncn+//sp+80094628909/nnc
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+"백양사"
+	"백양사"/ncn
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/soh109/80094632578
+	com/soh109/ncn+//sp+80094632578/nnc
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+"백양사-대웅전"
+	"백양사-대웅전"/ncn
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/soh109/80094634375
+	com/soh109/ncn+//sp+80094634375/nnc
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+"백양사-약사암+영천굴"
+	"백양사-약사암+영천굴"/ncn
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/soh109/80094636594
+	com/soh109/ncn+//sp+80094636594/nnc
+
+
+Canon
+	Canon/f
+
+PowerShot
+	PowerShot/f
+
+G10
+	G10/ncn

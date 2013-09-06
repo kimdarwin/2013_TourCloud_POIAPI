@@ -1,0 +1,1489 @@
+아버지
+	아버지/ncn
+
+..
+	./sf+./sf
+
+
+한
+	하/pvg+ㄴ/etm
+
+소절
+	소절/ncpa
+
+한소절
+	한소절/ncn
+
+가슴에진한
+	가슴에진한/ncn
+
+감동으로
+	감동/ncpa+으로/jca
+
+다가오는
+	다가오/pvg+는/etm
+
+'싸이'의
+	'/sl+싸/paa+이/xsam+'/sr+의/jcm
+
+"아버지"아버지'는
+	"/sl+아버지/ncn+"/sr+아버지/ncn+'/sr+는/jxc
+
+싸이'가
+	싸/paa+이/xsam+'/sr+가/jcc
+
+직접
+	직접/mag
+
+가사를
+	가사/ncn+를/jco
+
+쓰고
+	쓰/pvg+고/ecc
+
+언타이틀
+	언타이틀/ncn
+
+출신
+	출신/ncn
+
+'유건형'이
+	'/sr+유건/ncn+형/ncn+'/sr+이/jcc
+
+작곡에
+	작곡/ncpa+에/jca
+
+참여
+	참여/ncpa
+
+하였으며
+	하/px+었/ep+으며/ecc
+
+뮤직비디오는인기
+	뮤직비디오는인기/ncn
+
+만화가김광호
+	만화가김광호/ncn
+
+씨가
+	쓰/pvg+어/ecx+가/px+아/ecx
+
+아버지의
+	아버지/ncn+의/jcm
+
+고단한
+	고단/ncn+한/ncn
+
+일상을
+	일상/ncn+을/jco
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+느낌으로
+	느끼/pvg+ㅁ/etn+으로/jca
+
+그려낸
+	그리/pvg+어/ecx+내/px+ㄴ/etm
+
+곡이다아버지
+	곡이다아버/ncn+이/jp+지/ecs
+
+~
+	~/sd
+
+싸이
+	싸/paa+이/xsam
+
+(뮤비)
+	(뮤비)/ncn
+
+/
+	//sp
+
+2005년
+	2005/nnc+년/nbu
+
+발매)
+	발매/ncpa+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/07/11/222/031013238157536E08C3D91373B93463900_ya3542_480P_01_16x9_logo.
+	net/blogucc28/2012/07/11/222/031013238157536E08C3D91373B93463900_ya3542_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'212.
+	'/sr+212./nnc
+
+349';
+	349/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'9BDC072CEFE81A670C7EC6EB1E142537C524';
+	'9BDC072CEFE81A670C7EC6EB1E142537C524/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V127fc845650f8e86d3b70a6dd4ad13278429f4a2124f36dd72a36740007ce55ac4b50a6dd4ad13278429';
+	'V127fc845650f8e86d3b70a6dd4ad13278429f4a2124f36dd72a36740007ce55ac4b50a6dd4ad13278429/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'MUSIC';
+	'/sl+MUSIC/f+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_00582
+	ugcPlayer_00582/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_00582'
+	VideoInfraUGCPlayer('ugcPlayer_00582'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_00582
+	ugcPlayer_00582/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+싸이는
+	싸이/pvg+는/etm
+
+자신의
+	자신/ncn+의/jcm
+
+히트곡
+	히트곡/ncn
+
+아버지
+	아버지/ncn
+
+라이브
+	라이브/ncn
+
+음원을
+	음원/ncn+을/jco
+
+어버이
+	어버이/ncn
+
+날
+	나/px+ㄹ/etm
+
+5월
+	5/nnc+월/nbu
+
+8일부터
+	8/nnc+일/nbu+부터/jxc
+
+한달
+	한/nnc+달/nbu
+
+동안
+	동안/ncn
+
+무료
+	무료/ncn
+
+서비스하기도
+	서비스/ncpa+하/xsva+기/etn+도/jxc
+
+했었으며강렬한원곡과
+	했었으며강렬한원곡/ncn+과/jct
+
+달리
+	달리/mag
+
+통기타
+	통기타/ncn
+
+위주의
+	위주/ncpa+의/jcm
+
+어쿠스틱
+	어쿠스틱/ncn
+
+편곡으로
+	편곡/ncn+으로/jca
+
+애잔함을
+	애잔/ncps+하/xsms+ㅁ/etn+을/jco
+
+더했으며,
+	더하/paa+었/ep+으며/ecc+,/sp
+
+특히관객과의
+	특히관객과/ncn+의/jcm
+
+합창이
+	합창/ncpa+이/jcc
+
+감동을
+	감동/ncpa+을/jco
+
+더했었다아버지
+	더했었다아버/ncn+이/jp+지/ecs
+
+(at
+	(/sl+at/f
+
+썸머스탠드)
+	썸머스탠드)/ncn
+
+/
+	//sp
+
+2012년
+	2012/nnc+년/nbu
+
+5월
+	5/nnc+월/nbu
+
+발매
+	발매/ncpa
+
+..
+	./sf+./sf
+
+
+이
+	이/mmd
+
+음원은
+	음원/ncn+은/jxc
+
+썸머스탠드
+	썸머스탠드/ncn
+
+흠뻑쇼
+	흠뻑쇼/ncn
+
+실황
+	실황/ncn
+
+음원이다
+	음원/ncn+이/jp+다/ef
+
+
+{
+	{/sl
+
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+errorBean
+	errorBean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+code
+	code/f
+
+=
+	=/sy
+
+-18;
+	-18/ncn+;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+message
+	message/f
+
+=
+	=/sy
+
+'본
+	'/sl+보/pvg+ㄴ/etm
+
+동영상은
+	동영상/ncn+은/jxc
+
+저작권자의
+	저작권자/ncn+의/jcm
+
+요청으로
+	요청/ncpa+으로/jca
+
+재생이
+	재생/ncpa+이/jcc
+
+중지되었습니다
+	중지/ncpa+되/xsvn+었/ep+습니다/ef
+
+.'
+	./sf+'/sl
+
+
+;
+	;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+'false';
+	'/sl+false/f+'/sl+;/sy
+
+
+var
+	var/f
+
+flashVar
+	flashVar/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+errorBean
+	errorBean/f
+
+=
+	=/sy
+
+errorBean;
+	errorBean/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+flashVar
+	flashVar/f
+
+=
+	=/sy
+
+flashVar;
+	flashVar/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_01449
+	ugcPlayer_01449/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_01449'
+	VideoInfraUGCPlayer('ugcPlayer_01449'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_01449
+	ugcPlayer_01449/ncn
+
+.
+	./sf
+
+
+drawPlayLayerError();
+	drawPlayLayerError/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+아버지
+	아버지/ncn
+
+~
+	~/sd
+
+싸이
+	싸/paa+이/xsam
+
+(
+	(/sl
+
+가사)너무
+	가사)너무/ncn
+
+앞만
+	앞/ncn+만/jxc
+
+보며
+	보/px+며/ecc
+
+살아오셨네
+	살/pvg+아/ecx+오/px+셨/ep+네/ef
+
+어느새
+	어느새/mag
+
+자식들
+	자식/ncn+들/ncn
+
+머리커서
+	머리/ncn+커서/ncn
+
+말도
+	말/ncn+도/jxc
+
+안
+	안/mag
+
+듣네
+	듣/pvg+네/ef
+
+한평생
+	한평생/ncn
+
+처
+	처/ncn
+
+자식
+	자식/ncn
+
+밥그릇에
+	밥그릇/ncn+에/jca
+
+청춘
+	청춘/ncn
+
+걸고
+	걸/pvg+고/ecc
+
+새끼들
+	새끼/ncn+들/ncn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+보며
+	보/px+며/ecc
+
+한
+	하/pvg+ㄴ/etm
+
+푼이라도
+	푼/nbu+이라도/jxc
+
+더
+	더/mag
+
+벌고
+	벌/pvg+고/ecc
+
+눈물
+	눈물/ncn
+
+먹고
+	먹/pvg+고/ecc
+
+목숨
+	목숨/ncn
+
+걸고
+	걸/pvg+고/ecc
+
+힘들어도
+	힘들/pvg+어도/ecs
+
+털고
+	털/pvg+고/ecc
+
+일어나
+	일어나/pvg+아/ecx
+
+이러다
+	이르/pvg+어다/ecs
+
+쓰러지면
+	쓰러지/pvg+면/ecs
+
+어쩌나
+	어쩌/paa+어/ecx+나/px+아/ecx
+
+아빠는
+	아빠/ncn+는/jxc
+
+슈퍼맨이야
+	슈퍼맨이/ncn+야/jcv
+
+얘들아
+	얘들/ncn+아/jcv
+
+걱정
+	걱정/ncpa
+
+마
+	마/nbu
+
+위에서
+	위/ncn+에서/jca
+
+짓눌러도
+	짓누르/pvg+어도/ecs
+
+티
+	트/pvg+어/ecx
+
+낼
+	내/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+없고
+	없/paa+고/ecc
+
+아래에서
+	아래/ncn+에서/jca
+
+치고
+	치/pvg+고/ecc
+
+올라와도
+	오르/pvg+아/ecx+오/px+아/ecs
+
+피할
+	피하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없네
+	없/paa+네/ef
+
+무섭네
+	무섭/paa+네/ef
+
+세상
+	세상/ncn
+
+도망가고
+	도망가/pvg+고/ecc
+
+싶네
+	싶/px+네/ef
+
+젠장
+	젠장/ii
+
+그래도
+	그래도/maj
+
+참고
+	참/pvg+고/ecc
+
+있네
+	있/px+네/ef
+
+맨날
+	맨날/ncn
+
+아무것도
+	아무것/npd+도/jxc
+
+모른
+	모르/pvg+ㄴ/etm
+
+채
+	채/nbn
+
+내
+	내/npp
+
+품에서
+	풀/pvg+ㅁ/etn+에서/jca
+
+뒹굴거리는
+	뒹굴/pvg+ㄹ/etm+것/nbn+이/jp+리/ef+는/etm
+
+새끼들의
+	새끼/ncn+들/ncn+의/jcm
+
+장난
+	장난/ncn
+
+때문에
+	때문/nbn+에/jca
+
+나는
+	나/npp+는/jxc
+
+산다
+	사/pvg+ㄴ다/ef
+
+힘들어도
+	힘들/pvg+어도/ecs
+
+간다
+	가/px+ㄴ다/ef
+
+여보
+	여보/ii
+
+얘들아
+	얘들/ncn+아/jcv
+
+아빠
+	아빠/ncn
+
+출근한다
+	출근/ncpa+하/xsva+ㄴ다/ef
+
+아버지
+	아버지/ncn
+
+이제야
+	이제야/mag
+
+깨달아요
+	깨닫/pvg+아요/ef
+
+어찌
+	어찌/mag
+
+그렇게
+	그렇/pad+게/ecs
+
+사셨나요
+	사/pvg+셨/ep+나/ef+요/jxf
+
+더
+	더/mag
+
+이상
+	이상/ncn
+
+쓸쓸해
+	쓸쓸/ncps+하/xsms+어/ecx
+
+하지
+	하/pvg+지/ecx
+
+마요
+	마요/ncn
+
+이제
+	이제/mag
+
+나와
+	나/npp+와/jct
+
+같이
+	같/paa+이/xsa
+
+가요
+	가/px+아/ef+요/jxf
+
+어느새
+	어느새/mag
+
+학생이
+	학생/ncn+이/jcc
+
+된
+	되/pvg+ㄴ/etm
+
+아이들에게
+	아이/ncn+들/ncn+에게/jca
+
+아빠는
+	아빠/ncn+는/jxc
+
+바라는
+	바라/pvg+는/etm
+
+거
+	것/nbn
+
+딱
+	딱/mag
+
+하나
+	하나/nnc
+
+정직하고
+	정직/ncps+하고/jct
+
+건강한
+	건강/ncps+하/xsms+ㄴ/etm
+
+착한
+	착하/paa+ㄴ/etm
+
+아이
+	아이/ncn
+
+바른
+	바르/pvg+ㄴ/etm
+
+아이
+	아이/ncn
+
+다른
+	다른/mma
+
+아빠보단
+	아빠/ncn+보/ncn+이/jp+단/etm
+
+잘
+	잘/mag
+
+할
+	하/pvg+ㄹ/etm
+
+테니
+	테/ncn+이/jp+니/ecs
+
+학교
+	학교/ncn
+
+외에
+	외/nbn+에/jca
+
+학원
+	학원/ncn
+
+과외
+	과외/ncn
+
+다른
+	다른/mma
+
+아빠들과의
+	아빠/ncn+들/ncn+과의/jcm
+
+경쟁에서
+	경쟁/ncpa+에서/jca
+
+이기고자
+	이/npd+이/jp+기/etn+이/jp+고자/ecs
+
+무엇이든지
+	무엇/npd+이/jp+든지/ecc
+
+다
+	다/mag
+
+해줘야
+	하/pvg+어/ecx+주/px+어야/ecs
+
+해
+	하/pvg+어/ecx
+
+고로
+	고/ncn+로/jca
+
+많이
+	많/paa+이/xsa
+
+벌어야
+	벌/pvg+어야/ecs
+
+해
+	하/pvg+어/ecx
+
+너네
+	너/npp+이/jp+네/ef
+
+아빠한테
+	아빠/ncn+한테/jca
+
+잘해
+	잘하/pvg+어/ecx
+
+아이들은
+	아이/ncn+들/ncn+은/jxc
+
+친구들을
+	친구/ncn+들/ncn+을/jco
+
+사귀고
+	사귀/pvg+고/ecc
+
+많은
+	많/paa+은/etm
+
+얘기
+	얘/ncn+이/jp+기/etn
+
+나누고
+	나누/pvg+고/ecc
+
+보고
+	보/px+고/ecc
+
+듣고
+	듣/pvg+고/ecc
+
+더
+	더/mag
+
+많은
+	많/paa+은/etm
+
+것을
+	것/nbn+을/jco
+
+해주는
+	하/pvg+어/ecx+주/px+는/etm
+
+남의
+	남/ncn+의/jcm
+
+아빠와
+	아빠/ncn+와/jcj
+
+비교
+	비교/ncpa
+
+더
+	더/mag
+
+좋은
+	좋/paa+은/etm
+
+것을
+	것/nbn+을/jco
+
+사주는
+	사/pvg+아/ecx+주/px+는/etm
+
+남의
+	남/ncn+의/jcm
+
+아빠와
+	아빠/ncn+와/jcj
+
+나를
+	나/npp+를/jco
+
+비교
+	비교/ncpa
+
+갈수록
+	가/px+ㄹ수록/ecs
+
+싸가지
+	쓰/pvg+어/ecx+가/px+지/ecx
+
+없어지는
+	없/paa+어/ecx+지/px+는/etm
+
+아이들과
+	아이/ncn+들/ncn+과/jcj
+
+바가지만
+	바/nbn+가/jcs+지만/jxc
+
+긁는
+	긁/pvg+는/etm
+
+안사람의
+	안사람/ncn+의/jcm
+
+등살에
+	등살/ncn+에/jca
+
+외로워도
+	외롭/paa+어도/ecs
+
+간다
+	가/px+ㄴ다/ef
+
+여보
+	여보/ii
+
+얘들아
+	얘들/ncn+아/jcv
+
+(얘들아)
+	(얘들아)/ncn
+
+아빠
+	아빠/ncn
+
+출근한다
+	출근/ncpa+하/xsva+ㄴ다/ef
+
+아버지
+	아버지/ncn
+
+이제야
+	이제야/mag
+
+깨달아요
+	깨닫/pvg+아요/ef
+
+어찌
+	어찌/mag
+
+그렇게
+	그렇/pad+게/ecs
+
+사셨나요
+	사/pvg+셨/ep+나/ef+요/jxf
+
+더
+	더/mag
+
+이상
+	이상/ncn
+
+쓸쓸해
+	쓸쓸/ncps+하/xsms+어/ecx
+
+하지
+	하/pvg+지/ecx
+
+마요
+	마요/ncn
+
+이제
+	이제/mag
+
+나와
+	나/npp+와/jct
+
+같이
+	같/paa+이/xsa
+
+가요
+	가/px+아/ef+요/jxf
+
+여보
+	여보/ii
+
+어느새
+	어느새/mag
+
+세월이
+	세/nnc+월/nbu+이/jcc
+
+많이
+	많/paa+이/xsa
+
+흘렀소
+	흘렀소/ncn
+
+첫째는
+	첫째/nno+는/jxc
+
+사회로
+	사회/ncn+로/jca
+
+둘째
+	둘째/nno
+
+놈은
+	놈/nbn+은/jxc
+
+대학로
+	대학/ncn+로/jca
+
+이젠
+	이젠/ncn
+
+온
+	오/px+ㄴ/etm
+
+가족이
+	가족/ncn+이/jcc
+
+함께
+	함께/mag
+
+하고
+	하/pvg+고/ecc
+
+싶지만
+	싶/px+지/ecx+말/px+ㄴ/etm
+
+아버지기
+	아버지/ncn+이/jp+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+얘기하기
+	얘기/ncpa+하/xsva+기/etn
+
+어렵구만
+	어렵/paa+구만/ef
+
+세월의
+	세/nnc+월/nbu+의/jcm
+
+무상함에
+	무상/ncn+함/ncn+에/jca
+
+눈물이
+	눈물/ncn+이/jcc
+
+고이고
+	고이/pvg+고/ecc
+
+아이들은
+	아이/ncn+들/ncn+은/jxc
+
+바빠
+	바쁘/paa+아/ecx
+
+보이고
+	보이/pvg+고/ecc
+
+아이고
+	아이/ncn+이/jp+고/ecc
+
+산책이나
+	산책/ncpa+이나/jcj
+
+가야겠소
+	가야겠소/ncn
+
+여보
+	여보/ii
+
+함께
+	함께/mag
+
+가주시오
+	가/pvg+아/ecx+주/px+시/ep+오/ef
+
+아버지
+	아버지/ncn
+
+이제야
+	이제야/mag
+
+깨달아요
+	깨닫/pvg+아요/ef
+
+어찌
+	어찌/mag
+
+그렇게
+	그렇/pad+게/ecs
+
+사셨나요
+	사/pvg+셨/ep+나/ef+요/jxf
+
+더
+	더/mag
+
+이상
+	이상/ncn
+
+쓸쓸해
+	쓸쓸/ncps+하/xsms+어/ecx
+
+하지
+	하/pvg+지/ecx
+
+마요
+	마요/ncn
+
+이제
+	이제/mag
+
+나와
+	나/npp+와/jct
+
+같이
+	같/paa+이/xsa
+
+가요
+	가/px+아/ef+요/jxf
+
+오오~
+	오/px+오/ef+~/sd
+
+당신을
+	당신/npp+을/jco
+
+따라갈래요아버지
+	따라갈래요아버/ncn+이/jp+지/ecs
+
+~
+	~/sd
+
+싸이(Psy)
+	싸이/ncn+(/sl+Psy/f+)/sr

@@ -1,0 +1,213 @@
+객실이름
+	객실/ncn+이름/ncn
+
+.
+	./sf
+
+
+이게
+	이/npd+이/jp+게/ecs
+
+먼
+	멀/paa+ㄴ/etm
+
+말인겨
+	말인겨/ncn
+
+..
+	./sf+./sf
+
+
+웰컴
+	웰컴/ncn
+
+화과자
+	화과/ncn+이/jp+자/ecc
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+재떨이
+	재떨이/ncn
+
+.
+	./sf
+
+
+일본호텔이나
+	일본호텔/ncn+이나/jcj
+
+료칸에
+	료칸/ncn+에/jca
+
+오면
+	오/px+면/ecs
+
+늘
+	늘/mag
+
+반겨주는
+	반기/pvg+어/ecx+주/px+는/etm
+
+과일대신
+	과일/ncn+대/ncn+이/jp+시/ep+ㄴ/etm
+
+화과자
+	화과/ncn+이/jp+자/ecc
+
+.
+	./sf
+
+
+친절한
+	친절/ncps+하/xsms+ㄴ/etm
+
+료칸
+	료칸/ncn
+
+아줌마가
+	아줌마/ncn+가/jcs
+
+녹차도
+	녹차/ncn+도/jxc
+
+금방
+	금방/mag
+
+우려내서
+	우/ncn+이/jp+리/ep+어/ecx+내/px+어서/ecs
+
+화과자와
+	화과자/ncn+와/jct
+
+함께
+	함께/mag
+
+먹게
+	먹/pvg+게/ecs
+
+해줬다
+	하/pvg+어/ecx+주/px+었/ep+다/ef
+
+
+잘정돈된
+	잘정돈된/ncn
+
+유카타와
+	유카타/ncn+와/jcj
+
+수건
+	수/nbn+이/jp+건/ecc
+
+..
+	./sf+./sf
+
+
+료칸의
+	료칸/ncn+의/jcm
+
+냉난방은
+	냉난방/ncn+은/jxc
+
+저
+	저/npp
+
+벽에
+	벽/ncn+에/jca
+
+걸린
+	걸리/pvg+ㄴ/etm
+
+온풍기로
+	온풍기/ncn+로/jca
+
+..
+	./sf+./sf
+
+
+아주
+	아주/mag
+
+적지만
+	적/pvg+지/ecx+말/px+ㄴ/etm
+
+있을건
+	있을건/ncn
+
+다
+	다/mag
+
+있는
+	있/px+는/etm
+
+화장실
+	화장실/ncn
+
+.
+	./sf
+
+
+창가쪽엔
+	창가/ncn+쪽/ncn+엔/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+냉장고가
+	냉장고/ncn+가/jcs
+
+..
+	./sf+./sf
+
+
+맥주한병
+	맥주/ncn+한병/ncn
+
+꺼내먹었는데
+	꺼내먹었는데/ncn
+
+..
+	./sf+./sf
+
+
+만원정도
+	만원/ncn+정도/ncn
+
+나왔다
+	나오/pvg+아/ep+다/ef+./sf
+
+.
+	./sf
+
+
+우씨~
+	우씨~/ncn
+
+비싸
+	비싸/paa+아/ecs
+
+
+밥을
+	밥/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+왔더니
+	오/px+아/ep+니/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+이쁘게
+	이쁘/paa+게/ecs
+
+이불이
+	이불/ncn+이/jcc
+
+.
+	./sf

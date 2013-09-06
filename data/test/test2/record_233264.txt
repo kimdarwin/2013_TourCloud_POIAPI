@@ -1,0 +1,33 @@
+Title:
+7/8 무주 구천동계곡 트레킹 후기
+
+Date:
+2012.07.08
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(729091,'files/attach/images/64/264/233/96720281255e861d6ffc1b8aedd3694c.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/c94d78fa28db413a5fc8695e3d504618.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/a94dc815c5e81c9efdf2590ab22ed4ed.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/7c2877bd069dd1cf132e2248a6169ffd.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/8857363c501c1543651d967e5aaee4d0.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/2395c2ca11a3398e1fd91474a7a95b45.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/097b21ec7bdc691935ee24f88ad15023.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/d3b5f6d44e1fa6fad910b9e4dd0eada1.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/2ecc31be6c81bd3b974703160cf35b7b.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/2fa1d79c1a7f98b15d511266497e84cd.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/ee74541d4cb78cce1f9617ca6d388724.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/979b545dc246b7721a9b43e5db60c96b.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/535d71d76f700c135be8ae25854660a4.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/03ad4a2e8b32127e6b5999269f18512d.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/c88cb1ad7eab3eda3577501cb7b5ccde.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/d2954193dedf50503cf5c51077f3b9d3.jpg');
+list_gallery_add_image(729091,'files/attach/images/64/264/233/890011c05c86cb695d4b537df140426d.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 7월 8일(일) 무주 구천동계곡 트레킹을 하였습니다.
+며칠간의 장마비가 내리고 난 후 불볕 더위가 시작되어 시원한 계곡으로 떠나는 이번 여행이 좀 기다려지더군요. 지역적으로 강수량이 다르긴 하였지만 전북 무주는 적당히 비가 내렸던 모양입니다. 계곡에 물이 너무 불어나 자연관찰로와 옛길이 물에 잠겼으면 어쩌나 싶었는데 아무런 무리 없이 그 구간을 걸을 수 있었습니다.
+구천동계곡 트레킹은 덕유산국립공원 삼공리탐방안내소를 시작으로 자연관찰로로 접어들어 계곡 옆으로 난 오솔길을 따라 걷다가 몇 번의 다리를 오가고 본래 임도와 만나 백련사까지 다녀오는 왕복 약 12km 구간입니다. 
+자연관찰로는무엇보다 혼잡하지 않아 호젓하였고 계곡을 옆에 두고 걷기 때문에, 특히 오늘은 가슴이 뻥 뚫릴 정도로 시원한 물소리를 계속 감상할 수 있었습니다.더구나 물이 뿜어내는 상쾌한 공기와 물바람 덕분인지 숲 속에서는 한기가 느껴질 정도여서 기분이 정말 좋았습니다. 구천동계곡에는 구천동 33경 대부분을 차지하고 있는데 오랜만에 수량이 풍부하여 제대로 된 풍광을 즐길 수 있었습니다. 이번 걷기의 반환점인 백련사는 큰 볼거리는 없는 곳인데 게다가공사를 하고 있어서 부러 사찰까지 간 걸음은 좀 아쉬웠네요.
+왕복 12km는 아무리 걷기에 편하다 해도 더운 날씨에 걷기에 좀 지치기 마련이지만 이번에는 시간이 여유로워서 얼음장 같은 계곡에 잠깐 탁족도 즐길 수 있었고 서늘한 계곡가에 앉아 쉬는 시간도 마음에 드셨기를 바랍니다.다시 일상으로 돌아가면아마도 이번 구천동계곡이 눈에 선하여 날씨가 더워지면 두고두고 떠오를 듯 합니다.
+이번 구천동계곡 트레킹 여행이 깔끔하게 마무리될 수 있도록 진행에 협조해주신 참여 회원분들께 고맙다는 말씀 드리며, 날씨가 많이 더울 때에는 건강을 해치기 쉬우니모두 건강 관리 잘하시기 바랍니다~이 게시물을...

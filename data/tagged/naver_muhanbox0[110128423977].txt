@@ -1,0 +1,213 @@
+[
+	[/sl
+
+두부
+	두/nnc+부/nbu
+
+스테이크
+	스테이크/ncn
+
+]
+	]/sr
+
+
+재료
+	재료/ncn
+
+:
+	:/sp
+
+두부,
+	두/nnc+부/nbu+,/sp
+
+버섯,
+	버섯/ncn+,/sp
+
+가쯔오부시,
+	가쯔오부시,/ncn
+
+파,
+	파/ncn+,/sp
+
+소금,
+	소금/ncn+,/sp
+
+말가루,
+	말가루,/ncn
+
+빵가루
+	빵가루/ncn
+
+
+소스
+	소스/ncn
+
+:
+	:/sp
+
+가쯔오부시육수,
+	가쯔오부시육수,/ncn
+
+미림1,
+	미림1,/ncn
+
+간장2,
+	간장2,/ncn
+
+설탕1,
+	설탕1,/ncn
+
+전분물(전분1,
+	전분물(전분1,/ncn
+
+물1)
+	물1/ncn+)/sr
+
+
+전분을
+	전분/ncn+을/jco
+
+뺀
+	빼/pvg+ㄴ/etm
+
+나머지
+	나머지/ncn
+
+소스재료를
+	소스/ncn+재료/ncn+를/jco
+
+넣고
+	넣/pvg+고/ecc
+
+끓이다가
+	끓이/pvg+다가/ecs
+
+버섯을
+	버섯/ncn+을/jco
+
+넣고
+	넣/pvg+고/ecc
+
+숨이
+	숨/ncn+이/jcc
+
+죽을때
+	죽/pvg+을/etm+때/nbn
+
+까지
+	까/pvg+지/ecx
+
+끓입니다
+	끓이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고,
+	그리/pvg+고/ecc+,/sp
+
+찬물에
+	찬물/ncn+에/jca
+
+전분물을
+	전분/ncn+물/ncn+을/jco
+
+풀어
+	풀/pvg+어/ecx
+
+소스에
+	소스/ncn+에/jca
+
+넣어주면
+	넣/pvg+어/ecx+주/px+면/ecs
+
+걸죽한
+	걸죽/ncps+하/xsms+ㄴ/etm
+
+소스완성
+	소스/ncn+완성/ncpa
+
+.
+	./sf
+
+
+두부는
+	두/nnc+부/nbu+는/jxc
+
+소금으로
+	소금/ncn+으로/jca
+
+밑간을
+	밑/ncn+간/xsncc+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+후
+	후/ii
+
+
+전분을
+	전분/ncn+을/jco
+
+묻히고,
+	묻히/pvg+고/ecc+,/sp
+
+
+빵가루를
+	빵가루/ncn+를/jco
+
+입혀
+	입히/pvg+어/ecx
+
+튀겨냅니다
+	튀기/pvg+어/ecx+내/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+잘
+	잘/mag
+
+익었지요
+	익/pvg+었/ep+지/ef+요/jxf
+
+?
+	?/sf
+
+
+튀긴
+	튀기/pvg+ㄴ/etm
+
+두부를
+	두/nnc+부/nbu+를/jco
+
+접시에
+	접시/ncn+에/jca
+
+담아내고,
+	담/pvg+아/ecx+내/px+고/ecc+,/sp
+
+
+소스를
+	소스/ncn+를/jco
+
+얹고
+	얹/pvg+고/ecc
+
+파와
+	파/ncn+와/jcj
+
+가쯔오부시를
+	가쯔오부시/ncn+를/jco
+
+뿌려
+	뿌리/pvg+어/ecx
+
+완성
+	완성/ncpa
+
+.
+	./sf

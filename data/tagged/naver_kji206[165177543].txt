@@ -1,0 +1,993 @@
+청남대맛집/호수식당,청국장
+	청남대맛집/ncn+//sp+호수/ncn+식당/ncn+,/sp+청국장/ncn
+
+
+청남대맛집/호수식당
+	청남대맛집/ncn+//sp+호수/ncn+식당/ncn
+
+
+처음오는
+	처음/ncn+오/ncn+는/jxc
+
+여행지,
+	여행지/ncn+,/sp
+
+맛집은
+	맛집/ncn+은/jxc
+
+무조건
+	무조건/mag
+
+물어서
+	묻/pvg+어서/ecs
+
+현지인의
+	현지인/ncn+의/jcm
+
+추천맛집으로
+	추천맛집/ncn+으로/jca
+
+가면정확하다
+	가면/ncn+정확/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+아침일찍
+	아침일찍/ncn
+
+서둘러서
+	서두르/pvg+어서/ecs
+
+나와
+	나/npp+와/jcj
+
+청남대를
+	청남대/ncn+를/jco
+
+속속드리
+	속속드리/ncn
+
+구경하고
+	구경/ncn+하고/jct
+
+나니
+	나/px+니/ecs
+
+어느새
+	어느새/mag
+
+점심시간이
+	점심/ncn+시간/ncn+이/jcc
+
+지나
+	지나/pvg+아/ecx
+
+1시를
+	1/nnc+시/nbu+를/jco
+
+가르키고
+	가르키/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+막연히
+	막연히/mag
+
+청남대맛집을
+	청남대맛집/ncn+을/jco
+
+검색하여
+	검색/ncpa+하/xsva+어/ecx
+
+알게된
+	알/pvg+게/ecx+되/px+ㄴ/etm
+
+부부농장과
+	부부/ncn+농장/ncn+과/jcj
+
+아리랑
+	아리랑/ncn
+
+두
+	두/nnc
+
+곳중에
+	곳/ncn+중/xsnx+에/jca
+
+한곳을
+	한곳/ncn+을/jco
+
+갈려고
+	갈/pvg+려고/ecs
+
+생각했는데
+	생각/ncpa+하/xsva+었/ep+는데/ecs
+
+부부농장앞은
+	부부/ncn+농장/ncn+앞/ncn+은/jxc
+
+차가
+	차/ncn+가/jcs
+
+많은
+	많/paa+은/etm
+
+것
+	것/nbn
+
+같아
+	같/paa+아/ecx
+
+아리랑으로
+	아리랑/ncn+으로/jca
+
+
+결정하고
+	결정/ncn+하고/jct
+
+청남대매표소
+	청남대/ncn+매표소/ncn
+
+근처로
+	근처/ncn+로/jca
+
+왔다
+	오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+앞에
+	앞/ncn+에/jca
+
+아리랑
+	아리랑/ncn
+
+식당이
+	식당/ncn+이/jcc
+
+보여서
+	보이/pvg+어서/ecs
+
+그쪽으로
+	그쪽/npd+으로/jca
+
+들어갈까
+	들/pvg+어/ecx+가/px+ㄹ까/ecs
+
+하다가
+	하/pvg+다가/ecs
+
+부동산에
+	부동산/ncn+에/jca
+
+들어가서
+	들/pvg+어/ecx+가/px+아/ecx
+
+근처
+	근처/ncn
+
+맛집을
+	맛집/ncn+을/jco
+
+물어보았다
+	묻/pvg+어/ecx+보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+고기를
+	고/ncn+이/jp+기/etn+를/jco
+
+먹으려면
+	먹/pvg+으려면/ecs
+
+아리랑도
+	아리랑/ncn+도/jxc
+
+좋고
+	좋/paa+고/ecc
+
+청국장은
+	청국장/ncn+은/jxc
+
+호수식당이라면
+	호수/ncn+식당/ncn+이/jp+라면/ecs
+
+가르켜주셨다
+	가르키/pvg+어/ecx+주/px+셨/ep+다/ef
+
+.
+	./sf
+
+
+잠시
+	잠시/mag
+
+망설였다
+	망설이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+땀도
+	따/pvg+ㅁ/etn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+흘러
+	흐르/pvg+어/ecx
+
+남의
+	남/ncn+의/jcm
+
+살.
+	살/nbu+./sf
+
+.
+	./sf
+
+
+을
+	을/ncn
+
+먹을까
+	먹/pvg+을까/ef
+
+생각하다가
+	생각/ncpa+하/xsva+다가/ecs
+
+오랜만에
+	오랜만/ncn+에/jca
+
+청국장이
+	청국장/ncn+이/jcc
+
+먹고
+	먹/pvg+고/ecc
+
+싶어
+	싶/px+어/ecx
+
+호수식당으로
+	호수/ncn+식당/ncn+으로/jca
+
+Go~
+	Go/f+~/sd
+
+
+근처에서
+	근처/ncn+에서/jca
+
+가장
+	가장/mag
+
+청국장맛이
+	청국장/ncn+맛/ncn+이/jcc
+
+가장
+	가장/mag
+
+좋은
+	좋/paa+은/etm
+
+집
+	집/ncn
+
+
+그래도
+	그래도/maj
+
+조금은
+	조금/mag+은/jxc
+
+의심스러워
+	의심/ncpa+스럽/xsmn+어/ecx
+
+막
+	막/mag
+
+식사를
+	식사/ncpa+를/jco
+
+마치고
+	마치/pvg+고/ecc
+
+밖에서
+	밖/ncn+에서/jca
+
+커피를
+	커피/ncn+를/jco
+
+마시고
+	마시/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+사람들에게도
+	사람들/ncn+에게/jca+도/jxc
+
+물어보니
+	묻/pvg+어/ecx+보/px+니/ecs
+
+이
+	이/mmd
+
+근처에서
+	근처/ncn+에서/jca
+
+청국장은
+	청국장/ncn+은/jxc
+
+제일
+	제일/mag
+
+맛이
+	맛/ncn+이/jcc
+
+좋다고
+	좋/paa+다/ef+고/jcr
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+제대로
+	제대로/mag
+
+맛집을
+	맛집/ncn+을/jco
+
+찾기
+	찾/pvg+기/etn
+
+했구나
+	하/px+었/ep+구나/ef
+
+싶어
+	싶/px+어/ecx
+
+안으로
+	안/ncn+으로/jca
+
+들어갔는데
+	들/pvg+어/ecx+가/px+아/ep+ㄴ데/ecs
+
+점심시간을
+	점심/ncn+시간/ncn+을/jco
+
+조금
+	조금/mag
+
+지났기에
+	지나/pvg+아/ep+기/etn+에/jca
+
+홀에는
+	홀/ncn+에/jca+는/jxc
+
+2팀이
+	2팀/ncn+이/jcc
+
+식사를
+	식사/ncpa+를/jco
+
+하고
+	하/pvg+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+식당한컨에
+	식당한컨/ncn+에/jca
+
+놓여있는
+	놓이/pvg+어/ecx+있/px+는/etm
+
+콩가마를
+	콩가마/ncn+를/jco
+
+보니
+	보/px+니/ecs
+
+직접
+	직접/mag
+
+띄우는
+	띄우/pvg+는/etm
+
+집인것
+	집/ncn+이/jp+ㄴ/etm+것/nbn
+
+같아안심이다
+	같아안심/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+돌솥밥(8000원)에
+	돌솥밥(8000원)/ncn+에/jca
+
+청국장,
+	청국장/ncn+,/sp
+
+비지장,
+	비/xp+지장/ncn+,/sp
+
+된장,
+	된장/ncn+,/sp
+
+순두부를
+	순두부/ncn+를/jco
+
+선택할
+	선택/ncpa+하/xsva+ㄹ/etm
+
+수있는데
+	수/nbn+있/xsmn+는데/ecs
+
+가장
+	가장/mag
+
+맛이
+	맛/ncn+이/jcc
+
+좋다는
+	좋/paa+다/ef+는/etm
+
+청국자으로
+	청국자/ncn+으로/jca
+
+주문하였다
+	주문/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+관광지
+	관광지/ncn
+
+같지
+	같/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+정갈한
+	정갈/ncps+하/xsms+ㄴ/etm
+
+상차림이
+	상차림/ncn+이/jcc
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+관광지
+	관광지/ncn
+
+식당이라
+	식당/ncn+이/jp+라/ecs
+
+별로
+	별로/mag
+
+기대를
+	기대/ncpa+를/jco
+
+하지
+	하/pvg+지/ecx
+
+않았는데
+	않/px+아/ep+ㄴ데/ecs
+
+정갈한
+	정갈/ncps+하/xsms+ㄴ/etm
+
+밑반찬
+	밑반찬/ncn
+
+그릇과
+	그릇/nbu+과/jcj
+
+반찬은
+	반찬/ncn+은/jxc
+
+12가지로
+	12/nnc+가지/nbu+로/jca
+
+조기
+	조/ncn+이/jp+기/etn
+
+2마리,
+	2/nnc+마리/nbu+,/sp
+
+가지무침,
+	가지/ncn+무침/ncn+,/sp
+
+콩나물무침,
+	콩나물/ncn+무침/ncn+,/sp
+
+깻잎,
+	깻잎,/ncn
+
+열무김치,
+	열무/ncn+김치/ncn+,/sp
+
+오이장아찌무침,
+	오이/ncn+장아찌/ncn+무침/ncn+,/sp
+
+
+두부조림,
+	두부조림/ncn+,/sp
+
+버섯조림,김치,
+	버섯/ncn+조림/ncn+,/sp+김치/ncn+,/sp
+
+마늘쫑무침
+	마늘쫑무침/ncn
+
+등
+	등/nbu
+
+으로
+	으/ncn+로/jca
+
+맛을
+	맛/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+식당음식같지
+	식당/ncn+음식/ncn+같/xsmn+지/ecx
+
+않게
+	않/px+게/ecs
+
+강하지
+	강하/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+양념으로
+	양념/ncn+으로/jca
+
+맛이
+	맛/ncn+이/jcc
+
+입에
+	입/ncn+에/jca
+
+착
+	착/mag
+
+달라붙는다
+	달라붙는다/ncn
+
+.
+	./sf
+
+
+수식어
+	수식어/ncn
+
+붙이지
+	붙이/pvg+지/ecx
+
+않아도
+	않/px+아/ecs
+
+맛이
+	맛/ncn+이/jcc
+
+좋은
+	좋/paa+은/etm
+
+청국장
+	청국장/ncn
+
+
+돌솥밥이라
+	돌솥/ncn+밥/ncn+이/jp+라/ecs
+
+약
+	약/ncn
+
+20분
+	20/nnc+분/nbu
+
+정도의
+	정도/ncn+의/jcm
+
+시간이
+	시간/ncn+이/jcc
+
+걸렸는데
+	걸리/pvg+었/ep+는데/ecs
+
+청국장
+	청국장/ncn
+
+부터
+	부터/ncn
+
+나왔다
+	나오/pvg+아/ep+다/ef+./sf
+
+.
+	./sf
+
+
+부드러운
+	부드럽/paa+은/etm
+
+두부가
+	두/nnc+부/nbu+가/jcc
+
+푸짐하게
+	푸짐/ncps+하/xsms+게/ecs
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+있으며
+	있/px+으며/ecc
+
+국산콩에
+	국산/ncn+콩/ncn+에/jca
+
+직접
+	직접/mag
+
+띄운
+	띄우/pvg+ㄴ/etm
+
+청국장은
+	청국장/ncn+은/jxc
+
+냄새도
+	냄새/ncn+도/jxc
+
+별로
+	별로/mag
+
+안난다
+	안난다/ncn
+
+.
+	./sf
+
+
+한숱가락
+	한숱가락/ncn
+
+떠
+	뜨/pvg+어/ecx
+
+먹어보니
+	먹/pvg+어/ecx+보/px+니/ecs
+
+오랜만에
+	오랜만/ncn+에/jca
+
+정말
+	정말/mag
+
+맛난
+	맛나/paa+ㄴ/etm
+
+청국장을
+	청국장/ncn+을/jco
+
+만났다고
+	만나/pvg+아/ep+다/ef+고/jcr
+
+이야기
+	이야기/ncpa
+
+할수
+	하/pvg+ㄹ/etm+수/nbn
+
+있을
+	있/px+을/etm
+
+정도로
+	정도/ncn+로/jca
+
+맛이
+	맛/ncn+이/jcc
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+청국장
+	청국장/ncn
+
+한숟갈
+	한숟갈/ncn
+
+솔솔
+	솔솔/mag
+
+비벼먹다
+	비벼먹다/ncn
+
+.
+	./sf
+
+
+돌솥밥은
+	돌솥/ncn+밥/ncn+은/jxc
+
+검은쌀과
+	검은쌀/ncn+과/jcj
+
+검정콩이
+	검정/ncn+콩/ncn+이/jcc
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+있어
+	있/px+어/ecx
+
+보기에
+	보/px+기/etn+에/jca
+
+먹음직
+	먹음직/ncn
+
+스럽게
+	스럽/px+게/ecs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+얼른
+	얼른/mag
+
+주걱으로
+	주걱/ncn+으로/jca
+
+밥을
+	밥/ncn+을/jco
+
+그릇에
+	그릇/nbu+에/jca
+
+퍼고
+	푸/pvg+어/ef+고/jcr
+
+돌솥에
+	돌솥/ncn+에/jca
+
+물을
+	물/ncn+을/jco
+
+부어
+	붓/pvg+어/ecx
+
+둔다
+	두/px+ㄴ다/ef
+
+.
+	./sf
+
+
+뜨거울때
+	뜨겁/paa+을/etm+때/nbn
+
+호호~
+	호호~/ncn
+
+불어가면
+	불/pvg+어/ecx+가/px+면/ecs
+
+청국장에
+	청국장/ncn+에/jca
+
+솔솔
+	솔솔/mag
+
+비벼먹는
+	비벼먹/ncn+는/jxc
+
+맛은
+	맛/ncn+은/jxc
+
+늦은
+	늦/paa+은/etm
+
+점심이라
+	점심/ncn+이/jp+라/ecs
+
+더욱
+	더욱/mag
+
+맛이
+	맛/ncn+이/jcc
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+돌솥밭에
+	돌솥/ncn+밭/ncn+에/jca
+
+빠질
+	빠지/pvg+ㄹ/etm
+
+수없는
+	수없/paa+는/etm
+
+유혹
+	유혹/ncpa
+
+누렁지,
+	누렁지/ncn+,/sp
+
+
+밥은
+	밥/ncn+은/jxc
+
+덜
+	덜/mag
+
+먹더라도
+	먹/pvg+더라도/ecs
+
+누룽지
+	누룽지/ncn
+
+만큼은
+	만큼/nbn+은/jxc
+
+챙겨먹는데,
+	챙겨먹는데,/ncn
+
+밥먹는
+	밥먹/pvg+는/etm
+
+동안
+	동안/ncn
+
+조금
+	조금/mag
+
+식었을꺼라
+	식었을꺼/ncn+이/jp+라/ecs
+
+생각했는데
+	생각/ncpa+하/xsva+었/ep+는데/ecs
+
+무척
+	무척/mag
+
+뜨거워
+	뜨겁/paa+어/ecx
+
+입으로
+	입/ncn+으로/jca
+
+후~
+	후/ncn+~/sd
+
+불어가며
+	불/pvg+어/ecx+가/px+며/ecc
+
+먹었다
+	먹/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+왜,
+	외/pvg+어/ecs+,/sp
+
+집에서는
+	집/ncn+에서/jca+는/jxc
+
+이런맛이
+	이런맛/ncn+이/jcc
+
+나오지
+	나오/pvg+지/ecx
+
+않을까
+	않/px+을까/ef
+
+...
+	.../se
+
+
+기대하지
+	기대/pvg+어/ecx+하/px+지/ecx
+
+않고
+	않/px+고/ecc
+
+들어왔는데
+	들/pvg+어/ecx+오/px+아/ep+ㄴ데/ecs
+
+완전
+	완전/ncps
+
+만족한
+	만족/ncn+한/ncn
+
+청남대
+	청남대/ncn
+
+맛집으로
+	맛집/ncn+으로/jca
+
+인정하고
+	인정/ncn+하고/jct
+
+싶은
+	싶/px+은/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+호수식당(043-298-7755)
+	호수식당(043-298-7755)/ncn
+
+충북
+	충북/ncn
+
+청원군
+	청원/ncpa+군/ncn
+
+문의면
+	문의/ncn+이/jp+면/ecs
+
+미천리(청남대매표소
+	미천리(청남대매표소/ncn
+
+앞)
+	앞/ncn+)/sr

@@ -1,0 +1,1205 @@
+[영천여행]
+	[영천여행]/ncn
+
+영천
+	영천/ncn
+
+하늘아래
+	하늘/ncn+아래/ncn
+
+첫동네,용계매실마을
+	첫동네,용계매실마/ncn+을/jco
+
+
+영천에서
+	영천/ncn+에서/jca
+
+하늘
+	하늘/ncn
+
+아래
+	아래/ncn
+
+첫동네라고
+	첫/nno+동/nbu+네/xsnx+이/jp+라/ef+고/jcr
+
+불리는
+	불리/pvg+는/etm
+
+용계매실마을
+	용계매실마/ncn+을/jco
+
+가는
+	가/pvg+는/etm
+
+길은
+	길/ncn+은/jxc
+
+오지
+	오/pvg+지/ecx
+
+마을
+	마을/ncn
+
+답게
+	답/ncn+게/jca
+
+길이
+	길/ncn+이/jcc
+
+예사롭지
+	예사/ncps+롭/xsmn+지/ecx
+
+않았다
+	않/px+아/ep+다/ef
+
+.
+	./sf
+
+
+차로
+	차/ncn+로/jca
+
+찾아가는길
+	찾아가는길/ncn
+
+마을
+	마을/ncn
+
+입구에는
+	입구/ncn+에/jca+는/jxc
+
+용계댐이
+	용계댐/ncn+이/jcc
+
+건설
+	건설/ncpa
+
+중이었다
+	중/nbn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+마을
+	마을/ncn
+
+입구에는
+	입구/ncn+에/jca+는/jxc
+
+친환경
+	친환경/ncn
+
+매실마을임을
+	매실/ncn+마을/ncn+이/jp+ㅁ/etn+을/jco
+
+알리고
+	알리/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+용계리는
+	용계리/ncn+는/jxc
+
+옛날
+	옛날/ncn
+
+용이
+	용/ncn+이/jcc
+
+머물다
+	머물/pvg+다/ef
+
+승천한
+	승천/ncpa+하/xsva+ㄴ/etm
+
+곳이라는
+	곳/ncn+이/jp+라/ef+는/etm
+
+전설이
+	전설/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+오지
+	오/pvg+지/ecx
+
+마을인
+	마을/ncn+이/jp+ㄴ/etm
+
+용계
+	용계/ncn
+
+매실마을은
+	매실/ncn+마을/ncn+은/jxc
+
+올해
+	올해/ncn
+
+부터
+	부터/ncn
+
+마을
+	마을/ncn
+
+전체
+	전체/ncn
+
+17농가
+	17농/ncn+가/jcs
+
+12ha
+	12ha/ncn
+
+면적에
+	면적/ncn+에/jca
+
+친환경
+	친환경/ncn
+
+유기농
+	유기/ncn+농/ncn
+
+매실을
+	매실/ncn+을/jco
+
+재배하고
+	재배/ncpa+하고/jct
+
+있다
+	있/paa+다/ef
+
+
+방가산
+	방가산/ncn
+
+해발
+	해발/ncn
+
+800m
+	800m/ncn
+
+정도
+	정도/ncn
+
+위치한
+	위치/ncn+한/ncn
+
+용계마을은
+	용계마/ncn+을/jco+은/jxc
+
+
+전형적인
+	전형/ncn+적/ncn+이/jp+ㄴ/etm
+
+산지마을로
+	산지/ncn+마을/ncn+로/jca
+
+예전에는
+	예전/ncn+에/jca+는/jxc
+
+담배
+	담배/ncn
+
+농사를
+	농사/ncn+를/jco
+
+지었는지집집마다
+	지었는지집집마다/ncn
+
+담배를
+	담배/ncn+를/jco
+
+말린
+	말리/pvg+ㄴ/etm
+
+황토
+	황토/ncn
+
+창고가
+	창고/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+지금은
+	지금/mag+은/jxc
+
+이
+	이/mmd
+
+창고에
+	창고/ncn+에/jca
+
+매실이
+	매실/ncn+이/jcc
+
+익어
+	익/pvg+어/ecx
+
+가고
+	가/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+고도가
+	고도/ncn+가/jcs
+
+높아서
+	높/paa+아/ecx
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+매화꽃이
+	매화꽃/ncn+이/jcc
+
+남도
+	나/pvg+ㅁ/etn+도/jxc
+
+지방에
+	지방/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+시기적으로
+	시기/ncn+적/ncn+으로/jca
+
+꽤
+	꽤/mag
+
+늦게
+	늦/paa+게/ecs
+
+만개한듯
+	만개/ncpa+하/xsva+ㄴ/etm+듯/nbs
+
+...
+	.../se
+
+
+골짜기는
+	골짜기/ncn+는/jxc
+
+매화향기로
+	매화/ncn+향기/ncn+로/jca
+
+가득하다
+	가득/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+끝이
+	끝/ncn+이/jcc
+
+어딜까
+	어딜까/ncn
+
+골짜기
+	골짜기/ncn
+
+끝까지
+	끝/ncn+까지/jxc
+
+올라가보기로
+	오르/pvg+아/ecx+가/px+아/ecx+보/px+기/etn+로/jca
+
+...
+	.../se
+
+
+매화
+	매화/ncn
+
+향기는
+	향기/ncn+는/jxc
+
+소녀의
+	소녀/ncn+의/jcm
+
+마음까지도
+	마음/ncn+까지/jxc+도/jxc
+
+사로
+	사/nnc+로/jca
+
+잡은걸까
+	잡/pvg+은/etm+것/nbn+이/jp+ㄹ까/ecs
+
+...
+	.../se
+
+
+느긋하게
+	느긋/ncps+하/xsms+게/ecs
+
+걷다보니
+	걷다보/ncn+이/jp+니/ecs
+
+그윽한
+	그윽/ncps+하/xsms+ㄴ/etm
+
+향기에
+	향기/ncn+에/jca
+
+마음까지
+	마음/ncn+까지/jxc
+
+맑아
+	맑/paa+아/ecx
+
+진다
+	지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+봄은
+	보/px+ㅁ/etn+은/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+향에
+	향/ncn+에/jca
+
+취하고
+	취하/pvg+고/ecc
+
+색깔에
+	색깔/ncn+에/jca
+
+취해
+	취하/pvg+어/ecx
+
+어질거린다
+	어질/paa+ㄹ/etm+것/nbn+이/jp+리/ep+ㄴ다/ef
+
+.
+	./sf
+
+
+길가에
+	길가/ncn+에/jca
+
+핀
+	피/pvg+ㄴ/etm
+
+괴불주머니,
+	괴불주머니,/ncn
+
+제비꽃,
+	제비꽃/ncn+,/sp
+
+별꽃등
+	별꽃등/ncn
+
+다양한
+	다양/ncn+한/ncn
+
+봄꽃들이
+	봄꽃/ncn+들/ncn+이/jcc
+
+발걸음을
+	발걸음/ncn+을/jco
+
+가볍게
+	가볍/paa+게/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+유달리
+	유달리/mag
+
+씀바귀와
+	씀바귀/ncn+와/jcj
+
+고들빼기가
+	고들빼/ncn+이/jp+기/etn+가/jcs
+
+많이
+	많/paa+이/xsa
+
+피어있다
+	피/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+우리
+	우리/npp
+
+동네라면등으로
+	동네/ncn+라면/ncn+등/ncn+으로/jca
+
+내리
+	내/npp+이/jp+리/ef
+
+쬐는
+	쬐/pvg+는/etm
+
+햇살
+	햇살/ncn
+
+받으며
+	받/pvg+으며/ecc
+
+퍼질고앉아
+	퍼질고앉아/ncn
+
+캐어다가
+	캐/pvg+어다/ecx+가/px+아/ecx
+
+김치라도
+	김치/ncn+이/jp+라/ecs+도/jxc
+
+담고
+	담/pvg+고/ecc
+
+싶어진다
+	싶/px+어/ecx+지/px+ㄴ다/ef
+
+...
+	.../se
+
+
+일부러
+	일부러/mag
+
+매화꽃
+	매화꽃/ncn
+
+터널을
+	터널/ncn+을/jco
+
+느끼고
+	느끼/pvg+고/ecc
+
+싶어
+	싶/px+어/ecx
+
+아래로
+	아래/ncn+로/jca
+
+내려가
+	내리/pvg+어/ecx+가/px+아/ecx
+
+보았다
+	보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+초록과
+	초록/ncn+과/jct
+
+어우러져
+	어우러지/pvg+어/ecx
+
+매화꽃이
+	매화꽃/ncn+이/jcc
+
+더
+	더/mag
+
+뽀얗게
+	뽀얗/paa+게/ecs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+매화에
+	매화/ncn+에/jca
+
+햇살
+	햇살/ncn
+
+한줌
+	한/nnc+줌/nbu
+
+내려
+	내리/pvg+어/ecx
+
+앉으니
+	앉/pvg+으니/ecs
+
+내
+	내/npp
+
+마음
+	마음/ncn
+
+또한
+	또한/maj
+
+꽃향기로
+	꽃향기/ncn+로/jca
+
+가득찬다
+	가득차/paa+ㄴ다/ef
+
+.
+	./sf
+
+
+조금
+	조금/mag
+
+오르니
+	오르/pvg+니/ecs
+
+계단식으로
+	계단식/ncn+으로/jca
+
+매화가
+	매화/ncn+가/jcs
+
+심어져
+	심/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+길가
+	길/ncn+가/jcs
+
+계곡에는
+	계곡/ncn+에/jca+는/jxc
+
+잔잔한
+	잔잔/ncn+한/ncn
+
+물소리가
+	물소리/ncn+가/jcs
+
+들린다
+	들리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+물좋고
+	물좋고/ncn
+
+공기
+	공기/nbu
+
+좋고
+	좋/paa+고/ecc
+
+.....
+	.../se+./sf+./sf
+
+
+이런
+	이런/mmd
+
+곳에서
+	곳/ncn+에서/jca
+
+자라는
+	자라/pvg+는/etm
+
+매실은뭐~~말로안해도
+	매실은뭐~~말로안해/ncn+도/jxc
+
+친환경적일
+	친환경적/ncn+이/jp+ㄹ/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+어라
+	어르/pvg+어/ecx
+
+...
+	.../se
+
+
+이건
+	이/npd+이/jp+건/ecc
+
+매화는
+	매화/ncn+는/jxc
+
+아닌것
+	아니/paa+ㄴ/etm+것/nbn
+
+같고
+	같/paa+고/ecc
+
+...
+	.../se
+
+
+따닥
+	따닥/ncn
+
+따닥
+	따닥/ncn
+
+부케처럼
+	부케/ncn+처럼/jca
+
+피어있는
+	피/pvg+어/ecx+있/px+는/etm
+
+너의
+	너/npp+의/jcm
+
+이름은
+	이름/ncn+은/jxc
+
+뭐니~~
+	뭐/npd+이/jp+니/ef+~/sd+~/sd
+
+
+골짜기를
+	골짜기/ncn+를/jco
+
+가득
+	가득/mag
+
+매워
+	맵/paa+어/ecx
+
+마을
+	마을/ncn
+
+까지
+	까/pvg+지/ecx
+
+길게
+	길/paa+게/ecs
+
+이어진
+	잇/pvg+어/ecx+지/px+ㄴ/etm
+
+매화꽃이
+	매화꽃/ncn+이/jcc
+
+절경이다
+	절경/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+야호
+	야호/ii
+
+!!
+	!/sf+!/sf
+
+
+함성이라도
+	함성/ncn+이/jp+라/ecs+도/jxc
+
+지르고
+	지르/pvg+고/ecc
+
+싶어진다
+	싶/px+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+매화
+	매화/ncn
+
+꽃속에
+	꽃/ncn+속/xsnx+에/jca
+
+눈에
+	눈/ncn+에/jca
+
+띄는
+	띄/pvg+는/etm
+
+나무가
+	나무/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+경상도
+	경상/ncn+도/jxc
+
+음식에
+	음식/ncn+에/jca
+
+많이
+	많/paa+이/xsa
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+산초나무다
+	산초/ncn+나무/ncn+이/jp+다/ef
+
+...
+	.../se
+
+
+제피라고도
+	제/xp+피/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+하는
+	하/pvg+는/etm
+
+..
+	./sf+./sf
+
+
+한잎
+	한잎/ncn
+
+먹어
+	먹/pvg+어/ecx
+
+보니
+	보/px+니/ecs
+
+알싸한
+	알싸하/paa+ㄴ/etm
+
+맛이
+	맛/ncn+이/jcc
+
+그대로
+	그대로/mag
+
+전해진다
+	전하/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+마을로
+	마을/ncn+로/jca
+
+다시
+	다시/mag
+
+내려와
+	내리/pvg+어/ecx+오/px+아/ecx
+
+매실
+	매/pvg+시/ep+ㄹ/etm
+
+보관
+	보관/ncpa
+
+창고
+	창고/ncn
+
+안이
+	안/ncn+이/jcc
+
+궁금하였는데
+	궁금/ncps+하/xsms+었/ep+는데/ecs
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+그곳에는
+	그곳/ncn+에/jca+는/jxc
+
+매실이
+	매실/ncn+이/jcc
+
+가득
+	가득/mag
+
+익어가고
+	익/pvg+어/ecx+가/px+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+달콤한
+	달콤한/ncn
+
+향이
+	향/ncn+이/jcc
+
+미각을
+	미각/ncn+을/jco
+
+자극한다
+	자극/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+마을에서만
+	마을/ncn+에서/jca+만/jxc
+
+보는
+	보/px+는/etm
+
+풍경이
+	풍경/ncn+이/jcc
+
+또
+	또/maj
+
+하나
+	하나/nnc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+예전에는
+	예전/ncn+에/jca+는/jxc
+
+마을
+	마을/ncn
+
+소식을
+	소식/ncn+을/jco
+
+알리는
+	알리/pvg+는/etm
+
+게시판으로
+	게시판/ncn+으로/jca
+
+사용했음직한
+	사용했음직한/ncn
+
+곳에
+	곳/nbn+에/jca
+
+땔감이
+	때/pvg+ㄹ/etm+감/nbn+이/jcc
+
+가지런히
+	가지런히/mag
+
+놓여져
+	놓이/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+스쳐
+	스치/pvg+어/ecx
+
+지나가는
+	지나/pvg+아/ecx+가/px+는/etm
+
+소소한
+	소소한/ncn
+
+일상들도
+	일상/ncn+들/ncn+도/jxc
+
+여행길에는작은
+	여행길에는작은/ncn
+
+풍경으로
+	풍경/ncn+으로/jca
+
+다가온다
+	다가오/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+동네에
+	동네/ncn+에/jca
+
+온
+	오/px+ㄴ/etm
+
+손님이라고
+	손님/ncn+이/jp+라/ef+고/jcr
+
+마을
+	마을/ncn
+
+어르신들께서
+	어르신/ncn+들/ncn+께서/jcs
+
+마련해주신
+	마련/ncpa+하/xsva+어/ecx+주/px+시/ep+ㄴ/etm
+
+음식을
+	음식/ncn+을/jco
+
+먹기위해
+	먹기/ncn+위해/ncn
+
+경로당으로
+	경로당/ncn+으로/jca
+
+갔다
+	가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+와우~~~
+	와우/ncn+~/sd+~/sd+~/sd
+
+
+마치
+	마치/mag
+
+연한
+	열/pvg+ㄴ/etm+한/nbn
+
+고기를
+	고/ncn+이/jp+기/etn+를/jco
+
+먹는듯
+	먹/pvg+는/etm+듯/nbs
+
+...
+	.../se
+
+
+생
+	생/ncn
+
+표고버섯은
+	표고버섯/ncn+은/jxc
+
+기름장에
+	기름/ncn+장/ncn+에/jca
+
+찍어
+	찍/pvg+어/ecx
+
+먹으니
+	먹/pvg+으니/ecs
+
+....
+	.../se+./sf
+
+
+오랫동안
+	오랫동안/ncn
+
+입안에서
+	입안/ncpa+에서/jca
+
+표고향이
+	표고향/ncn+이/jcc
+
+남아
+	남/pvg+아/ecx
+
+행복하였다
+	행복/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+머위무침
+	머위무침/ncn
+
+역시
+	역시/mag
+
+어머님
+	어머님/ncn
+
+손맛을
+	손맛/ncn+을/jco
+
+느끼듯
+	느끼/pvg+듯/ecs
+
+....
+	.../se+./sf
+
+
+몸에
+	몸/ncn+에/jca
+
+좋다는
+	좋/paa+다/ef+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들어
+	들/pvg+어/ecx
+
+마구~~먹었다
+	마구~~먹었다/ncn
+
+.
+	./sf
+
+
+식혜는
+	식혜/ncn+는/jxc
+
+약초를
+	약초/ncn+를/jco
+
+넣어
+	넣/pvg+어/ecx
+
+마시니
+	마시/pvg+니/ecs
+
+달짝
+	달/paa+ㄹ/etm+짝/nbn
+
+지근하니
+	지근하니/ncn
+
+술술~~넘어간다
+	술술~~넘어간다/ncn
+
+.
+	./sf
+
+
+곧
+	곧/maj
+
+매실의
+	매실/ncn+의/jcm
+
+계절이
+	계절/ncn+이/jcc
+
+다가온다
+	다가오/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+올해도
+	올해/ncn+도/jxc
+
+매실
+	매/pvg+시/ep+ㄹ/etm
+
+장아찌와
+	장아찌/ncn+와/jct
+
+매실
+	매/pvg+시/ep+ㄹ/etm
+
+액기스를
+	액기스/ncn+를/jco
+
+만들어야
+	만들/pvg+어야/ecs
+
+겠는데
+	겠는데/ncn
+
+..
+	./sf+./sf
+
+
+이곳
+	이곳/npd
+
+청정지역
+	청정/ncpa+지역/ncn
+
+용계마을을
+	용계마을/ncn+을/jco
+
+알게
+	알/pvg+게/ecs
+
+되어
+	되/pvg+어/ecx
+
+너무
+	너무/mag
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf

@@ -1,0 +1,94 @@
+Title:
+미국 로스앤젤레스 디즈니랜드 불꽃놀이 동영상 
+
+Date:
+2008.09.22 15:10
+
+Content:
+
+
+	
+
+
+디즈니랜드
+
+북아메리카(북미) > 미국 > LA
+
+
+기간 2008.9.7~ 2008.9.7(1일)
+컨셉 사진에 담는 출사여행
+	
+
+
+	
+
+
+
+	
+지난 번에 올린 '디즈니랜드 불꽃놀이 사진 80장의 슬라이드쇼'에 이어서, 이번에는 약속대로 동영상이다.
+딸아이의 맥북(MacBook)에 깔려 있는 비디오편집 프로그램인 iMovieHD를 이용해서, DV에 녹화한 불꽃놀이를 2개로 나누었다.
+(해상도는 500x375로 딱 맞추었는데, 파일 크기 100MB 제한 때문에 프레임을 12f/s로 해서 약간 화면이 부드럽지가 않음)
+
+처음에는 디즈니랜드에서 불꽃놀이 사진만 찍을려고 계획을 했으나, 자리가 너무 좋아서 아내가 비디오도 찍었는데,
+약간 흔들리기는 했지만 그래도 잘 찍혔다. (제일 앞쪽에 앉아서 웅장한 불꽃놀이의 전체 모습이한꺼번에 화면에잘 안나옴...T_T)
+불꽃놀이 내내 아주 큰 소리로 계속 감탄사를 지르는목소리는, 우리 뒤의 VIP석에 앉아 있던 외국인(?) 꼬마의 목소리다.
+총16분 정도 진행이 되는데, 두 개의 동영상으로 나누어 올리니까 시간 여유를 가지고 '즐감'하시기 바란다.
+
+
+
+{
+	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	var errorBean = {};
+	errorBean.code = -602;
+	errorBean.message = '이 단말에서 확인할 수 없는 동영상 형식입니다.';
+	errorBean.owner = 'false';
+	var flashVar = {};
+	var bean = {};
+	bean.layout = layout;
+	bean.errorBean = errorBean;
+	bean.flashVar = flashVar;
+	bean.player = 'oem';
+var ugcPlayer_08310 = new VideoInfraUGCPlayer('ugcPlayer_08310' ,bean); 
+ugcPlayer_08310.drawPlayLayerError(); 
+}
+
+
+LA 디즈니랜드 불꽃놀이 "Remember... Dreams Come True" 1/2 (앞부분)
+
+
+
+{
+	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	var errorBean = {};
+	errorBean.code = -602;
+	errorBean.message = '이 단말에서 확인할 수 없는 동영상 형식입니다.';
+	errorBean.owner = 'false';
+	var flashVar = {};
+	var bean = {};
+	bean.layout = layout;
+	bean.errorBean = errorBean;
+	bean.flashVar = flashVar;
+	bean.player = 'oem';
+var ugcPlayer_03063 = new VideoInfraUGCPlayer('ugcPlayer_03063' ,bean); 
+ugcPlayer_03063.drawPlayLayerError(); 
+}
+
+
+LA 디즈니랜드 불꽃놀이 "Remember... Dreams Come True" 2/2 (뒷부분)
+
+지난 2월에 디즈니랜드에 갔을때, 이 불꽃놀이 시작하기 전에는 우리 옆에서 막 웃고 떠들던 일본 여학생 4명이
+불꽃놀이가 끝나자 서로 부둥켜안고 엉엉 울었다... (도쿄 디즈니랜드의 불꽃놀이는 여기하고는 많이 다른가?)
+여하튼 '마음을 열고' 보면, 나도 직접 볼 때마다제법 감동을 받는다! 나의, 우리 가족의 '꿈'은 정말 이루어 질까? ^^
+
+
+글을 잘 보셨으면 아래 view on 추천을 꼭 눌러주시면 감사하겠습니다~^^
+
+	
+
+
+
+	

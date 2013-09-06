@@ -1,0 +1,197 @@
+전동성당
+	전동/ncn+성당/ncn
+
+
+전라북도
+	전라/ncn+북도/ncn
+
+>
+	>/sr
+
+전주시
+	전주/ncn+시/ncn
+
+
+기간
+	기간/ncn
+
+2009.
+	2009./nnc
+
+10.
+	10./nnc
+
+4~
+	4/nnc+~/sd
+
+2009.
+	2009./nnc
+
+10.
+	10./nnc
+
+4(1일)
+	4/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+부모님을
+	부모님/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+효도여행
+	효도/ncpa+여행/ncpa
+
+
+경로
+	경로/ncn
+
+
+전동성당
+	전동/ncn+성당/ncn
+
+한옥마을
+	한옥/ncn+마을/ncn
+
+
+엄마랑
+	엄마/ncn+랑/jxc
+
+남동생이랑
+	남동생/ncn+이/jcs+랑/jxc
+
+여동생이랑
+	여동생/ncn+이/jcs+랑/jxc
+
+함께한
+	함께하/pvg+ㄴ/etm
+
+여행일기-
+	여행/ncpa+일기/ncn+-/sd
+
+]
+	]/sr
+
+
+영화
+	영화/ncn
+
+"약속"
+	"/sl+약속/ncpa+"/sr
+
+촬영했던
+	촬영/ncpa+하/xsva+었/ep+던/etm
+
+곳~
+	곳/ncn+~/sd
+
+전주
+	전주/ncn
+
+전동성당으로
+	전동/ncn+성당/ncn+으로/jca
+
+와주었다-
+	오/pvg+아/ecx+주/px+었/ep+다/ef+-/sd
+
+
+분위기도
+	분위기/ncn+도/jxc
+
+너무
+	너무/mag
+
+멋지고
+	멋지/paa+고/ecc
+
+..
+	./sf+./sf
+
+
+왠지
+	왠지/mag
+
+차분해졌다
+	차분/ncps+하/xsms+어/ecx+지/px+었/ep+다/ef
+
+...
+	.../se
+
+
+참
+	참/mag
+
+아름다운
+	아름답/paa+은/etm
+
+곳이구나
+	곳/ncn+이/jp+구나/ef
+
+....
+	.../se+./sf
+
+
+나의
+	나/npp+의/jcm
+
+작은키로는
+	작은키로/ncn+는/jxc
+
+도저히
+	도저히/mag
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+없었는데
+	없/paa+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+옆에
+	옆/ncn+에/jca
+
+남동생이
+	남동생/ncn+이/jcc
+
+휴지통이랑
+	휴지통/ncn+이/jcs+랑/jxc
+
+박스들이
+	박스/ncn+들/ncn+이/jcc
+
+있다며
+	있/px+다며/ecs
+
+..
+	./sf+./sf
+
+
+메라냥으로
+	메라냥/ncn+으로/jca
+
+찍어주심~~~
+	찍/pvg+어/ecx+줄/px+시/ep+ㅁ/etn+~/sd+~/sd+~/sd
+
+
+완젼
+	완젼/ncn
+
+반전이얌
+	반전이얌/ncn
+
+
+Canon
+	Canon/f
+
+PowerShot
+	PowerShot/f
+
+G10
+	G10/ncn

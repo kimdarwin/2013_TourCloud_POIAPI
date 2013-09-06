@@ -1,0 +1,30 @@
+Date:
+2011.08.20
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/370ad407bcc90ca2df2374d1aee8ecb0.jpg');
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/3443d8aed7915069ba2f1a41ef59b93a.jpg');
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/f2d1451cc3b177330d460765dd56fb7e.jpg');
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/2525df4905207d726f4368bf2480e94c.jpg');
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/1a7d9f42463b0fdfd82de18ca368211e.jpg');
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/bc9ce94bf3eb62048f27a2ef504d0bed.jpg');
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/e07c62b1c535d6322ce4e040fd18522e.jpg');
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/111061cace7d76903b1bf8b20fc9b0fb.jpg');
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/2675f28accc60c9c21f623f7ccf9153d.jpg');
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/e0725356bf31e6ba097fc13c5b74f49f.jpg');
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/73109ba9c71a30e2b903675723b171ca.jpg');
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/595c1e6044a81144020e8eb572d5a401.jpg');
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/6656e560ff98ac682029ae614a9f6f37.jpg');
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/d8ed2fce5540e328712c503452426328.jpg');
+list_gallery_add_image(146410,'files/attach/images/228818/054/171/0eba184fcd3b175fea811ed93272bead.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 20일(토) 아름다운 여행으로 천년의 숲 트레킹을 하였습니다.
+오랜만에 화창한 주말일 것 같았지만 예상과 달리 흐린 듯한 하늘 그리고 횡성휴게소에 들렀을 때 불어오던 서늘한 바람이 초가을을 느끼게 했습니다. 올해는 이러다가 정말 가을로 접어드는 것은 아닐까 싶을 정도로 말이에요.
+며칠 전 강원도 지역에 비가 많이 내려 불어난 오대천이 어떨까 싶었는데 상원사로 올라가는 길에 보이는 계곡은 의외로 물이 많지는 않았습니다. 계곡을 건너기에는 별로 어려움이 없어 보였지만 흐린 하늘이 개이고 모처럼 햇볕이 들어 그간 촉촉해진 몸을 말리러 나온 야생동물들을 주의해야 한다는 국립공원 측의 이야기에 오늘 걷기는 모두 함께 이동을 하기로 하였습니다.
+걷기에 앞서 천년고찰 상원사를 먼저 돌아보았는데 휴가가 끝난 시기여서 그런지 모처럼 한가롭고 여유로운 시간을 보냈습니다. 이제 곧 저 오대산 자락에 가을 단풍이 물들기 시작하면 다시 사람들로 북적이겠지만 말이에요. 
+천년의 숲 걷기 구간은 상원사 아래에 있는 오대산장부터 옛길을 따라 월정사까지입니다. 오대천을 건너는 징검다리를 건너면 바로 옛길로 접어듭니다. 천년의 숲은 좁은 오솔길을 걷기고 하고 거제수나무 군락을 지나기도 하며 다시 징검다리를 건너 계곡가를 걷기도 합니다. 때문에 천년의 숲은 거리가 짧은 편이지만 길에서 만나는 다양함들로 은근히 시간이 걸리는 길입니다.
+그렇게 이리저리 걷다가 어느 구간에서는 신발을 벗고 계곡을 건너기도 하고 옛길이 끝나는 마지막 징검다리는 건너기에 불편하여 잠깐 되돌아 나오는 구간도 있었지만 크게 위험함은 없었고 모두 함께 걸어서 서로 도와가며 걷기를 잘 마무리 할 수 있었습니다.
+이렇게 걷다 보니 어느새 천년의 숲은 아쉽게 끝이 나고 월정사로 이어지는 찻길을 따라 걸었습니다. 고려시대의 보물인 팔각구층석탑이 있는 월정사와 우리나라 사찰 진입로중 가장 아름다운 전나무숲도 돌아보며 이번 여행을 마쳤습니다.
+천년의 숲길은 자유롭고 편안하게 걷기를 할 수 있는 구간인데 이번에는 함께 걷느라 자유시간이 많지 않아서 조금 아쉬우셨죠? 하지만 안전을 위한 진행이었음을 이해해주셨기를 바랍니다.^^ 진행에 따라주신 참여자들께 다시 한번 고맙다는 말씀 드리며, 오늘 천년의 숲길을 걸을 때 특히 단풍나무가 많음을 아셨을 거예요. 곧 가을이 찾아들면 천년의 숲은 붉은 단풍 터널로 이어집니다. 그때 다시 한번 천년의 숲길을 걷는 기회를 마련해보셔도 좋으실 거예요. 내일 하루 잘 쉬시고 새롭게 시작되는 한 주도 잘 맞이하시기 바랍니다~이 게시물을...

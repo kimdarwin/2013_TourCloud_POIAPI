@@ -1,0 +1,71 @@
+Title:
+[세계7대자연경관 선정/JYJ 제주홍보대사 동영상] JYJ 세계7대자연경관 홍보대사 동영상 
+
+Date:
+2011.07.01 17:02
+
+Content:
+
+
+가수 JYJ가 제주특별자치도 세계7대자연경관 홍보대사로 위촉됐습니다.
+제주도는 부진한 외국인 투표 증가를 위해 JYJ를 홍보대사로 위촉, 
+남은 기간 동안 해외 홍보활동을 펼치게 될 예정이라고 합니다. JYJ 김재중,박유천,김준수는 
+현재 월드투어 콘서트를 진행하고 있어 제주도 해외 홍보활동에 큰 기대가 됩니다.
+JYJ가 세계7대자연경관 선정 투표하는 사진과 영상을 보실까요.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2011/07/01/295/03101323016E534E39C3496C73290963E01_scpark1214_PC_DEFAULT_logo.jpg';
+	layout.playtime = '30.579';
+	var qsParam = {};
+	qsParam.vid = '649EBB5F419DAE110A65AE38511E53E490E9';
+	qsParam.inKey = 'V121404d768318e614eab81b4662284f9a19b019da8fd04c5673a789c0c2fd96da10181b4662284f9a19b';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_01027 = new VideoInfraUGCPlayer('ugcPlayer_01027' ,bean); 
+ugcPlayer_01027.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+
+
+
+	

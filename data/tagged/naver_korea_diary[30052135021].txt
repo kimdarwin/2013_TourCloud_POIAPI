@@ -1,0 +1,309 @@
+죽녹원
+	죽녹원/ncn
+
+
+-
+	-/sd
+
+전남
+	전/xp+남/ncn
+
+담양군
+	담양군/ncn
+
+담양읍
+	담양읍/ncn
+
+-
+	-/sd
+
+
+담양군에서
+	담양군/ncn+에서/jca
+
+조성한
+	조성/ncpa+하/xsva+ㄴ/etm
+
+담양읍
+	담양읍/ncn
+
+향교리의
+	향교/ncn+리/ncn+의/jcm
+
+죽림욕장
+	죽림욕장/ncn
+
+죽녹원은
+	죽녹원/ncn+은/jxc
+
+
+관방제림과
+	관방제림/ncn+과/jcj
+
+영산강의
+	영산강/ncn+의/jcm
+
+시원인
+	시원/ncn+이/jp+ㄴ/etm
+
+담양천을
+	담양천/ncn+을/jco
+
+끼고
+	끼/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+향교를
+	향교/ncn+를/jco
+
+지나면
+	지나/pvg+면/ecs
+
+바로
+	바로/mag
+
+왼편에
+	왼편/ncn+에/jca
+
+보이는
+	보이/pvg+는/etm
+
+대숲이
+	대숲/ncn+이/jcc
+
+죽녹원이다
+	죽녹원/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+죽녹원
+	죽녹원/ncn
+
+입구에서
+	입구/ncn+에서/jca
+
+돌계단을
+	돌계단/ncn+을/jco
+
+하나씩
+	하나씩/ncn
+
+하나씩
+	하나씩/ncn
+
+밟고
+	밟/pvg+고/ecc
+
+오르며
+	오르/pvg+며/ecc
+
+굳어있던
+	굳/paa+어/ecx+있/px+던/etm
+
+몸을
+	몸/ncn+을/jco
+
+풀고나면
+	풀/pvg+고/ecx+나/px+면/ecs
+
+
+대나무
+	대나무/ncn
+
+사이로
+	사이/ncn+로/jca
+
+불어오는
+	불/pvg+어/ecx+오/px+는/etm
+
+대바람이
+	대바람/ncn+이/jcc
+
+일상에
+	일상/ncn+에/jca
+
+지쳐있는
+	지치/pvg+어/ecx+있/px+는/etm
+
+심신에
+	심신/ncn+에/jca
+
+청량감을
+	청량/ncn+감/ncn+을/jco
+
+불어
+	불/pvg+어/ecx
+
+넣어준다
+	넣/pvg+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+댓잎의
+	댓잎/ncn+의/jcm
+
+사각거리는
+	사각거리/ncn+는/jxc
+
+소리를
+	소리/ncn+를/jco
+
+들으며
+	들/pvg+며/ecc
+
+빽빽히
+	빽빽히/ncn
+
+들어서있는
+	들어서/pvg+어/ecx+있/px+는/etm
+
+대나무
+	대나무/ncn
+
+숲길을
+	숲길/ncn+을/jco
+
+걷노라면
+	걷/pvg+노라면/ecs
+
+
+푸른
+	푸르/paa+ㄴ/etm
+
+댓잎을
+	댓잎/ncn+을/jco
+
+통과해
+	통과/ncpa+하/xsva+어/ecx
+
+쏟아지는
+	쏟/pvg+아/ecx+지/px+는/etm
+
+햇살의
+	햇살/ncn+의/jcm
+
+기운을
+	기운/ncn+을/jco
+
+온
+	오/px+ㄴ/etm
+
+몸으로
+	몸/ncn+으로/jca
+
+받아내는
+	받/pvg+아/ecx+내/px+는/etm
+
+기분
+	기분/ncn
+
+또한
+	또한/maj
+
+신선하다
+	신선/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+죽녹원
+	죽녹원/ncn
+
+안에는
+	안/ncn+에/jca+는/jxc
+
+대나무
+	대나무/ncn
+
+잎에서
+	잎/ncn+에서/jca
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+이슬을
+	이슬/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+자란다는
+	자라/pvg+ㄴ다/ef+는/etm
+
+죽로차(
+	죽로차(/ncn
+
+)가
+	)/sr+가/jcc
+
+자생하고
+	자생/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+죽림욕을
+	죽림욕/ncn+을/jco
+
+즐기고
+	즐기/pvg+고/ecc
+
+난
+	나/px+ㄴ/etm
+
+후
+	후/ncn
+
+죽로차
+	죽로차/ncn
+
+한
+	한/nnc
+
+잔으로
+	잔/nbu+으로/jca
+
+마음의
+	마음/ncn+의/jcm
+
+여유까지
+	여유/ncn+까지/jxc
+
+느껴볼
+	느끼/pvg+어/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+관광db
+	관광db/ncn
+
+자세히
+	자세히/mag
+
+보기
+	보기/ncn

@@ -1,0 +1,982 @@
+보석사
+	보석사/ncn
+
+일주문
+	일주문/ncn
+
+앞에
+	앞/ncn+에/jca
+
+비스듬히
+	비스듬히/mag
+
+굽은
+	굽/pvg+은/etm
+
+소나무가
+	소나무/ncn+가/jcs
+
+일품이다
+	일품/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+일주문
+	일주문/ncn
+
+
+부도
+	부도/ncn
+
+
+범종각
+	범종/ncn+각/ncn
+
+
+진악산
+	진악산/ncn
+
+남동쪽
+	남동쪽/ncn
+
+기슭에
+	기슭/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+보석사는
+	보석사/ncn+는/jxc
+
+통일신라
+	통일신라/ncn
+
+헌강왕
+	헌강왕/ncn
+
+12년(886)에
+	12년(886)/ncn+에/jca
+
+조구대사가
+	조구대사/ncn+가/jcs
+
+세웠다
+	세우/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+다른사찰과
+	다른사찰/ncn+과/jct
+
+달리
+	달리/mag
+
+범종각을
+	범종/ncn+각/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+올라오면
+	오르/pvg+아/ecx+오/px+면/ecs
+
+요사채가
+	요사/ncpa+채/ncn+가/jcs
+
+보이고
+	보이/ncn+고/jcj
+
+
+대웅전은
+	대웅전/ncn+은/jxc
+
+좌측으로
+	좌측/ncn+으로/jca
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+범종각
+	범종/ncn+각/ncn
+
+정면
+	정면/ncn
+
+요사채
+	요사/ncpa+채/ncn
+
+
+보석사
+	보석사/ncn
+
+대웅전앞에
+	대웅전/ncn+앞/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+건물로서
+	건물/ncn+로서/jca
+
+승장
+	승장/ncn
+
+영규대사의
+	영규대사/ncn+의/jcm
+
+우거지이며,
+	우거지/ncn+이며/jcj+,/sp
+
+
+영규대사가
+	영규대사/ncn+가/jcs
+
+공주
+	공주/ncr
+
+계룡산
+	계룡/ncn+산/ncn
+
+갑사와
+	갑사/ncn+와/jcj
+
+보석사를
+	보석사/ncn+를/jco
+
+내왕하여
+	내왕/ncpa+하/xsva+어/ecx
+
+수도하였고
+	수도/ncpa+하/xsva+었/ep+고/ecc
+
+
+임진란시에
+	임진란시/ncn+에/jca
+
+승병을
+	승병/ncn+을/jco
+
+모집하여
+	모집/ncpa+하/xsva+어/ecx
+
+중봉조헌과
+	중봉조헌/ncn+과/jcj
+
+합세
+	합세/ncpa
+
+왜적을
+	왜적/ncn+을/jco
+
+격퇴하려다
+	격퇴/ncpa+하/xsva+려다/ecs
+
+칠백의사와
+	칠백의사/ncn+와/jct
+
+함께
+	함께/mag
+
+순절하였다
+	순절하/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+생활하는데는
+	생활/ncpa+하/xsva+ㄴ데/ecs+는/jxc
+
+불편할지
+	불편/ncps+하/xsms+ㄹ지/ecs
+
+모르지만
+	모르/pvg+지만/ecs
+
+
+나의
+	나/npp+의/jcm
+
+이기심인지
+	이/npd+이/jp+기/etn+이/jp+시/ep+ㅁ/etn+이/jp+ㄴ지/ecs
+
+사찰에
+	사찰/ncn+에/jca
+
+오면
+	오/px+면/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+돈맛이
+	돈맛/ncn+이/jcc
+
+나지
+	나/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+건물들이
+	건물/ncn+들이/ncn
+
+
+풍기는
+	풍기/pvg+는/etm
+
+옛맛은
+	옛맛/ncn+은/jxc
+
+발걸음을
+	발걸음/ncn+을/jco
+
+더육
+	더육/ncn
+
+가볍게
+	가볍/paa+게/ecs
+
+만든다
+	만들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+의선각
+	의선각/ncn
+
+문화재자료제29호(금산군)
+	문화재자료제29호/ncn+(/sl+금산/ncn+군/ncn+)/sr
+
+
+기허당
+	기허당/ncn
+
+
+대웅전
+	대웅전/ncn
+
+시도유형문화재
+	시도/ncn+유형문화재/ncn
+
+제143호(금산군)
+	제143호/ncn+(/sl+금산/ncn+군/ncn+)/sr
+
+
+보석사
+	보석사/ncn
+
+대웅전은
+	대웅전/ncn+은/jxc
+
+앞면
+	앞면/ncn
+
+3칸
+	3/nnc+칸/nbu
+
+옆면
+	옆면/ncn
+
+2칸의
+	2/nnc+칸/nbu+의/jcm
+
+규모에
+	규모/ncn+에/jca
+
+지붕은
+	지붕/ncn+은/jxc
+
+옆모습이
+	옆모습/ncn+이/jcc
+
+사람
+	사람/ncn
+
+인(
+	인(/ncn
+
+)자
+	)/sr+자/nbn
+
+모양인
+	모양/ncn+이/jp+ㄴ/etm
+
+맞배지붕집이다
+	맞배지붕집/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+지붕의
+	지붕/ncn+의/jcm
+
+무게를
+	무게/ncn+를/jco
+
+받치기
+	받치/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+장식하여
+	장식/ncpa+하/xsva+어/ecx
+
+만든
+	만들/pvg+ㄴ/etm
+
+공포는
+	공포/ncn+는/jxc
+
+기둥과
+	기둥/ncn+과/jcj
+
+기둥
+	기둥/ncn
+
+사이에도
+	사이/ncn+에/jca+도/jxc
+
+있는
+	있/px+는/etm
+
+다포식이다
+	다포식/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+처음
+	처음/mag
+
+세울
+	세우/pvg+ㄹ/etm
+
+당시
+	당시/ncn
+
+절
+	절/ncn
+
+앞에서
+	앞/ncn+에서/jca
+
+캐낸
+	크/paa+어/ecx+내/px+ㄴ/etm
+
+금으로
+	금/ncn+으로/jca
+
+불상을
+	불상/ncn+을/jco
+
+만들었기
+	만들/pvg+었/ep+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+절
+	절/ncn
+
+이름을
+	이름/ncn+을/jco
+
+보석사라고
+	보석사/ncn+이/jp+라/ef+고/jcr
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+뒤
+	뒤/ncn
+
+임진왜란(1592)
+	임진왜란(1592)/ncn
+
+때
+	때/ncn
+
+불타버린
+	불타/pvg+아/ecx+버리/px+ㄴ/etm
+
+것을
+	것/nbn+을/jco
+
+고종(재위
+	고종(재위/ncn
+
+1863
+	1863/nnc
+
+1907)
+	1907/nnc+)/sr
+
+때
+	때/ncn
+
+명성황후가
+	명성/ncn+황후/ncr+가/jcc
+
+다시
+	다시/mag
+
+세웠다
+	세우/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+내부에는
+	내부/ncn+에/jca+는/jxc
+
+석가모니불
+	석가모니불/ncn
+
+관세음보살
+	관세/ncn+음보/ncn+살/ncn
+
+문수보살을
+	문수보살/ncn+을/jco
+
+모셨는데
+	모시/pvg+었/ep+는데/ecs
+
+조각수법이
+	조각수법/ncn+이/jcc
+
+정교하고
+	정교/ncn+하고/jct
+
+섬세하며
+	섬세/ncps+하/xsms+며/ecc
+
+
+얼굴
+	얼굴/ncn
+
+표정이
+	표정/ncn+이/jcc
+
+자비로워
+	자비/ncpa+롭/xsmn+어/ecx
+
+조선시대
+	조선시대/ncn
+
+불상
+	불상/ncn
+
+중에서
+	중/nbn+에서/jca
+
+가장
+	가장/mag
+
+훌륭한
+	훌륭/ncps+하/xsms+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+평가받고
+	평가/ncpa+받/xsva+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+(문화재청자료)
+	(/sl+문화/ncn+재청/ncpa+자료/ncn+)/sr
+
+
+대웅전앞에는
+	대웅전/ncn+앞/ncn+에/jca+는/jxc
+
+고양이가
+	고양이/ncn+가/jcs
+
+지키고
+	지키/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+산신각에서
+	산신/ncn+각/ncn+에서/jca
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+보석사
+	보석사/ncn
+
+전경
+	전경/ncn
+
+
+산신각
+	산신/ncn+각/ncn
+
+
+금산
+	금산/ncn
+
+보석사
+	보석사/ncn
+
+은행나무
+	은행/ncn+나무/ncn
+
+천연기념물
+	천연기념물/ncn
+
+제365호
+	제365호/ncn
+
+
+금산
+	금산/ncn
+
+보석사
+	보석사/ncn
+
+은행나무는
+	은행/ncn+나무/ncn+는/jxc
+
+나이가
+	나이/ncn+가/jcs
+
+약
+	약/ncn
+
+1,000살
+	1,000/nnc+살/nbu
+
+이상
+	이상/ncn
+
+될
+	되/pvg+ㄹ/etm
+
+것으로
+	것/nbn+으로/jca
+
+추정된다
+	추정/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+높이
+	높이/mag
+
+34m,
+	34m,/ncn
+
+가슴높이의
+	가슴/ncn+높이/ncn+의/jcm
+
+둘레
+	둘레/ncn
+
+10.
+	10./nnc
+
+72m의
+	72m/ncn+의/jcm
+
+크기로
+	크/paa+기/etn+로/jca
+
+뿌리부분에
+	뿌리/ncn+부분/ncn+에/jca
+
+2
+	2/nnc
+
+3m
+	3m/ncn
+
+높이의
+	높이/ncn+의/jcm
+
+새로
+	새/ncn+로/jca
+
+난
+	나/px+ㄴ/etm
+
+싹이
+	싹/ncn+이/jcc
+
+수없이
+	수없이/mag
+
+돋아나
+	돋아나/pvg+아/ecx
+
+신기하게
+	신기/ncps+하/xsms+게/ecs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+나무는
+	나무/ncn+는/jxc
+
+마을에
+	마을/ncn+에/jca
+
+큰
+	크/paa+ㄴ/etm
+
+일이
+	일/ncn+이/jcc
+
+생길
+	생기/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같으면
+	같/paa+으면/ecs
+
+소리를
+	소리/ncn+를/jco
+
+내어
+	내/pvg+어/ecx
+
+미리
+	미리/mag
+
+알려준다는
+	알리/pvg+어/ecx+주/px+ㄴ다/ef+는/etm
+
+이야기가
+	이야기/ncpa+가/jcc
+
+있으며,
+	있/paa+으며/ecc+,/sp
+
+
+마을을
+	마을/ncn+을/jco
+
+지키고
+	지키/pvg+고/ecc
+
+보호해주는
+	보호/ncpa+하/xsva+어/ecx+주/px+는/etm
+
+신성한
+	신성/ncn+한/ncn
+
+나무로
+	나무/ncn+로/jca
+
+여기고
+	여기/npd+이/jp+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+조구대사가
+	조구대사/ncn+가/jcs
+
+보석사
+	보석사/ncn
+
+창건(886년)
+	창/ncn+건/xsnx+(/sl+886/nnc+년/nbu+)/sr
+
+무렵
+	무렵/nbn
+
+제자와
+	제자/ncn+와/jct
+
+함께
+	함께/mag
+
+심었다고
+	심/pvg+었/ep+다/ef+고/jcr
+
+전해지고
+	전하/pvg+어/ecx+지/px+고/ecc
+
+있으며,
+	있/paa+으며/ecc+,/sp
+
+
+1945년
+	1945/nnc+년/nbu
+
+광복
+	광복/ncpa
+
+때와
+	때/ncn+와/jcj
+
+1950년
+	1950/nnc+년/nbu
+
+전란
+	전란/ncn
+
+때,
+	때/ncn+,/sp
+
+1992년
+	1992/nnc+년/nbu
+
+극심한
+	극심/ncn+한/ncn
+
+가뭄
+	가물/pvg+ㅁ/etn
+
+때
+	때/ncn
+
+소리내어
+	소리/ncn+내/ncn+이/jp+어/ecs
+
+울었다고
+	울/pvg+었/ep+다/ef+고/jcr
+
+전해진다
+	전하/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+금산
+	금산/ncn
+
+보석사
+	보석사/ncn
+
+은행나무는
+	은행/ncn+나무/ncn+는/jxc
+
+오랜
+	오랜/mma
+
+세월동안
+	세월/ncn+동안/ncn
+
+조상들의
+	조상/ncn+들/ncn+의/jcm
+
+관심과
+	관심/ncn+과/jcj
+
+보살핌
+	보살피/pvg+ㅁ/etn
+
+가운데
+	가운데/ncn
+
+살아온
+	살/pvg+아/ecx+오/px+ㄴ/etm
+
+나무로
+	나무/ncn+로/jca
+
+
+민속적
+	민속/ncn+적/ncn
+
+생물학적
+	생물학적/ncn
+
+자료로서의
+	자료/ncn+로서/jca+의/jcm
+
+가치가
+	가치/ncn+가/jcs
+
+높아
+	높/paa+아/ecx
+
+천연기념물로
+	천연기념물/ncn+로/jca
+
+지정
+	지정/ncpa
+
+보호하고
+	보호/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+(문화재청자료)
+	(/sl+문화/ncn+재청/ncpa+자료/ncn+)/sr
+
+
+절의
+	절/ncn+의/jcm
+
+입구
+	입구/ncn
+
+1839년에
+	1839/nnc+년/nbu+에/jca
+
+금산군수가
+	금산/ncn+군수/ncn+가/jcs
+
+세운
+	세우/pvg+ㄴ/etm
+
+의병승장비
+	의병/ncn+승장/ncn+비/ncn
+
+가
+	가/jcs
+
+있어
+	있/px+어/ecx
+
+의선각과
+	의선각/ncn+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+영규대사의
+	영규대사/ncn+의/jcm
+
+충혼을
+	충혼/ncn+을/jco
+
+기리고
+	기/ncn+이/jp+리/ef+고/jcr
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+우측으로
+	우측/ncn+으로/jca
+
+전나무숲길이
+	전나무/ncn+숲길/ncn+이/jcc
+
+
+좌측으로
+	좌측/ncn+으로/jca
+
+은행나무
+	은행나무/ncn
+
+
+가을이면
+	가을/ncn+이/jp+면/ecs
+
+노랗게
+	노랗/paa+게/ecs
+
+물들어
+	물들/pvg+어/ecx
+
+아름다운
+	아름답/paa+은/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+낼것
+	내/pvg+ㄹ/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+가을빛이
+	가을/ncn+빛/ncn+이/jcc
+
+그리운날
+	그리운날/ncn
+
+다시한번
+	다시한번/ncn
+
+발걸음
+	발걸음/ncn
+
+하고
+	하/pvg+고/ecc
+
+싶은
+	싶/px+은/etm
+
+보석사
+	보석사/ncn
+
+....
+	.../se+./sf

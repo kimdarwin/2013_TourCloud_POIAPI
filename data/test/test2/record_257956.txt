@@ -1,0 +1,33 @@
+Title:
+8/25 설악산 십이선녀탕계곡 트레킹 후기
+
+Date:
+2012.08.25
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(438661,'files/attach/images/64/956/257/6105fe92813f941df850ca2fe1565ba3.jpg');
+list_gallery_add_image(438661,'files/attach/images/64/956/257/52754c967c9bed21dc3c236081fe3f07.jpg');
+list_gallery_add_image(438661,'files/attach/images/64/956/257/02a99ac877cbfabb680958878b56f7d2.jpg');
+list_gallery_add_image(438661,'files/attach/images/64/956/257/92340860f77e79234a1de52e2669d222.jpg');
+list_gallery_add_image(438661,'files/attach/images/64/956/257/7d7b4bd47a4046b5fdb17e3ef124e797.jpg');
+list_gallery_add_image(438661,'files/attach/images/64/956/257/d6ce50bd6736e2507880462b49ea7ec4.jpg');
+list_gallery_add_image(438661,'files/attach/images/64/956/257/250a511c7b2c22a71e016bc2cfe58bc2.jpg');
+list_gallery_add_image(438661,'files/attach/images/64/956/257/411039bfe7ba209f5690db3dde1d427c.jpg');
+list_gallery_add_image(438661,'files/attach/images/64/956/257/dcd225ecb98b5bf5372777e140ef8ee0.jpg');
+list_gallery_add_image(438661,'files/attach/images/64/956/257/3a1b01838fc182a491cd125f50f8df5a.jpg');
+list_gallery_add_image(438661,'files/attach/images/64/956/257/718d8effcdb75a6402b0ddb70e267f7e.jpg');
+list_gallery_add_image(438661,'files/attach/images/64/956/257/8ba24f006021be948666b4f2622294a7.jpg');
+list_gallery_add_image(438661,'files/attach/images/64/956/257/1a3cdb4dfbc8edd1e908348386cd7fdf.jpg');
+list_gallery_add_image(438661,'files/attach/images/64/956/257/506340cc8249336dfc6ebc9e42a619ec.jpg');
+list_gallery_add_image(438661,'files/attach/images/64/956/257/89fa2130a9712c1dd30b9bc47585dc9f.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 8월 25일(토) 설악산 십이선녀탕계곡 트레킹을 하였습니다.
+요즘 비가 자주 내려서 인제로 가는 동안 만난 계곡이나 앞 강들은 예전보다 폭이 훨씬 더 넓어졌습니다.
+설악산 서쪽에 위치한 십이선녀탕계곡은 이름에서도 알 수 있듯이 열두 개의 소와 담이 멋진 곳으로 지금은 그 중 여덟 개가 남아 있다고 합니다. 하지만 이번에는 그간 잦은 비가 내려서인지 여기저기에 멋진 폭포를 만날 수 있었습니다.
+이번 십이선녀탕계곡 트레킹은 인제 남교리 탐방안내소부터 복숭아탕까지 왕복 약 8.5km를 걸었습니다. 이 구간은 설악산 대청봉으로 가는 본격적인 산행구간이 시작되기 전인 복숭아탕까지만 걷는 것이기 때문에 비교적 걷는 길은 어렵지 않았습니다. 때문에 순탄한 트레킹을 하기에는 제격이죠.
+숲은 울창하고 공기는 촉촉하였으며 계곡 물소리는 그 어느 때보다 우렁찼습니다. 물이 모이는 곳이면 어김없이 폭포 소리가 끊이지 않아 정신이 맑아지는 느낌이더군요.
+이번 걷기의 반환점인 복숭아탕으로 오르는 마지막 코스는 난간을 붙잡고 바위를 올라야 하는데 이 구간만 조심이 오르면 길이가 무척 짧아서 어렵지 않게 복숭아탕에 도착합니다. 복숭아탕 주변은 계곡의 유속이 무척 빨랐고 떨어지는 폭포수 수량도 평소보다 많아서 보이게도 시원하고 무엇보다 폭포소리가 옆 사람의 말소리가 들리지 않을 정도였습니다. 제가 그동안 몇 차례 십이선녀탕을 다녀왔는데 제대로 된 복숭아탕 폭포를 본 것 같습니다.
+다시 남교리로 회귀하는 길에는 낙엽이 하나 둘 떨어지는 걸 보니 십이선녀탕계곡에도 금세 가을이 찾아올 듯 싶더군요. 단풍으로 유명한 설악산 그 언저리에 있는 십이선녀탕 계곡에도 붉은 단풍이 곱게 내려앉을 것입니다. 그리고 계곡 곳곳에 수해의 흔적들이 남아 있던데 북상중인 태풍에도 무탈하길기원해봅니다.
+이번 주말은 여름휴가도 끝나고 고속도로도 한산하여 인제에 예상보다 일찍 도착한 덕분에 여행도 조금 이르게 마쳤습니다. 주말이 지나고 강력한 태풍이 올 것이라 하니 모두 피해 없도록 주변 잘 살피시고 내일 하루 푹 쉬시면서 피로 잘 떨치시기 바랍니다.이 게시물을...

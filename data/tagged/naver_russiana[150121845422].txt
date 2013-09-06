@@ -1,0 +1,671 @@
+괴레메
+	괴레메/ncn
+
+풍경,
+	풍경/ncn+,/sp
+
+카파도키아
+	카파도키아/ncn
+
+사람
+	사람/ncn
+
+사진,
+	사/pvg+아/ecx+지/px+ㄴ/etm+,/sp
+
+터키
+	터키/ncn
+
+여행
+	여행/ncpa
+
+사진카파도키아는
+	사진카파도키아/ncn+는/jxc
+
+터키
+	터키/ncn
+
+최대의
+	최대/ncn+의/jcm
+
+관광지답게
+	관광지/ncn+답/ncn+게/jca
+
+전세계에서
+	전세계/ncn+에서/jca
+
+모인
+	모이/pvg+ㄴ/etm
+
+여행자들만
+	여행자/ncn+들/ncn+만/jxc
+
+볼
+	보/pvg+ㄹ/etm
+
+줄
+	줄/nbn
+
+알았는데,
+	알/pvg+아/ep+ㄴ데/ecs+,/sp
+
+맘씨
+	맘씨/ncn
+
+따뜻하고
+	따뜻/ncn+하고/jcj
+
+미소가
+	미소/ncn+가/jcs
+
+아름다운
+	아름답/paa+은/etm
+
+터키
+	터키/ncn
+
+사람들을
+	사람들/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+매일
+	매일/mag
+
+수많은
+	수많/paa+은/etm
+
+여행자들을
+	여행자/ncn+들/ncn+을/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+텐데도,
+	텐데도,/ncn
+
+외지인들에게
+	외지/ncn+이/jp+ㄴ/etm+들/nbn+에게/jca
+
+끊임
+	끊이/pvg+ㅁ/etn
+
+없는
+	없/paa+는/etm
+
+친절과
+	친절/ncps+과/jcj
+
+미소를
+	미소/ncn+를/jco
+
+베푸는
+	베풀/pvg+는/etm
+
+터키
+	터키/ncn
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+정
+	정/mag
+
+많은
+	많/paa+은/etm
+
+한국인을
+	한국인/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+닮은
+	닮/pvg+은/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+그러고
+	그러/pvd+어/ef+고/jcr
+
+보니
+	보/px+니/ecs
+
+그들과
+	그들/npp+과/jcj
+
+우리는
+	우리/npp+는/jxc
+
+피를
+	피/ncn+를/jco
+
+나눈
+	나누/pvg+ㄴ/etm
+
+형제군요
+	형제/ncr+이/jp+군/ef+요/jxf
+
+^^전에
+	^/sy+^/sy+전/nbn+에/jca
+
+왔을
+	오/px+아/ep+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+카파도키아
+	카파도키아/ncn
+
+자연
+	자연/ncn
+
+풍경에
+	풍경/ncn+에/jca
+
+심취해서
+	심취/ncpa+하/xsva+어서/ecs
+
+동네
+	동네/ncn
+
+풍경을
+	풍경/ncn+을/jco
+
+간과했던
+	간과/ncpa+하/xsva+었/ep+던/etm
+
+이유로
+	이유/ncn+로/jca
+
+이번에는
+	이/nnc+번/nbu+에/jca+는/jxc
+
+시간을
+	시간/ncn+을/jco
+
+내서
+	내/pvg+어서/ecs
+
+동네
+	동네/ncn
+
+탐방을
+	탐방/ncpa+을/jco
+
+다녔지요
+	다니/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+호텔인지
+	호텔/ncn+이/jp+ㄴ지/ecs
+
+민가인지
+	민가/ncn+이/jp+ㄴ지/ecs
+
+잘
+	잘/mag
+
+구분이
+	구/nnc+분/nbu+이/jcc
+
+안
+	안/mag
+
+되는
+	되/pvg+는/etm
+
+건물
+	건물/ncn
+
+사이사이로
+	사이/ncn+사이/ncn+로/jca
+
+터키
+	터키/ncn
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.'
+	./sf+'/sl
+
+
+메르하바,
+	메르하바,/ncn
+
+이이
+	이/npd+이/jcc
+
+균레르~'라는
+	균레르~'라/ncn+는/jxc
+
+말만
+	말/ncn+만/jxc
+
+알아도
+	알/pvg+아/ecs
+
+터키
+	터키/ncn
+
+여행에서
+	여행/ncpa+에서/jca
+
+그들의
+	그/npp+들/xsn+의/jcm
+
+웃음을
+	웃음/ncn+을/jco
+
+선물
+	선물/ncn
+
+받기는
+	받/pvg+기/etn+는/jxc
+
+아주
+	아주/mag
+
+쉽습니다
+	쉽/paa+습니다/ef
+
+.
+	./sf
+
+
+터키를
+	터키/ncn+를/jco
+
+사랑하고
+	사랑/ncn+하고/jct
+
+사진을
+	사진/ncn+을/jco
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+여행자라면
+	여행자/ncn+이/jp+라면/ecs
+
+이
+	이/mmd
+
+인삿말은
+	인삿말/ncn+은/jxc
+
+알고
+	알/pvg+고/ecx
+
+여행해보세요
+	여행/ncpa+하/xsva+어/ecx+보/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+괴레메
+	괴레메/ncn
+
+동네와
+	동네/ncn+와/jcj
+
+주변
+	주변/ncn
+
+작은
+	작/paa+은/etm
+
+마을에서
+	마을/ncn+에서/jca
+
+마주한
+	마주/ncn+한/ncn
+
+따스한
+	따스/ncps+하/xsms+ㄴ/etm
+
+풍경들을
+	풍경/ncn+들/ncn+을/jco
+
+여러분께
+	여러/nnc+분/nbu+께/jca
+
+선물합니다
+	선물/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+여러분,
+	여러/nnc+분/nbu+,/sp
+
+이이
+	이/npd+이/jcc
+
+균레르
+	균레르/ncn
+
+...
+	.../se
+
+
+괴레메에서
+	괴레메/ncn+에서/jca
+
+석류는
+	석류/ncn+는/jxc
+
+사과,
+	사과/ncn+,/sp
+
+포도
+	포/ncn+도/jxc
+
+다음으로
+	다음/ncn+으로/jca
+
+쉽게
+	쉽/paa+게/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+과일이런
+	과일이런/ncn
+
+아날로그
+	아날로그/ncn
+
+적인
+	적/nbn+이/jp+ㄴ/etm
+
+모습
+	모습/ncn
+
+참
+	참/mag
+
+좋아요사진을
+	좋아요사진/ncn+을/jco
+
+찍지
+	찍/pvg+지/ecx
+
+말라고
+	말/px+라/ef+고/jcr
+
+하는
+	하/pvg+는/etm
+
+게
+	것/nbn+이/jcs
+
+아니라
+	아니/paa+라/ecs
+
+손을
+	손/ncn+을/jco
+
+흔드는
+	흔들/pvg+는/etm
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+정말
+	정말/mag
+
+호박도
+	호박/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+호박은
+	호박/ncn+은/jxc
+
+먹지
+	먹/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+것
+	것/nbn
+
+같고
+	같/paa+고/ecc
+
+씨만
+	쓰/pvg+어/ecx+말/px+ㄴ/etm
+
+발라내더군요건축
+	발라내더군요건축/ncn
+
+폐기물을
+	폐기물/ncn+을/jco
+
+트랙터로
+	트랙터/ncn+로/jca
+
+옮기는
+	옮기/pvg+는/etm
+
+터키
+	터키/ncn
+
+청년석류
+	청년/ncn+석류/ncn
+
+팔던
+	팔/pvg+던/etm
+
+꼬마,
+	꼬마/ncn+,/sp
+
+이제는
+	이제/mag+는/jxc
+
+도자기를
+	도자/ncn+이/jp+기/etn+를/jco
+
+팔고
+	팔/pvg+고/ecc
+
+있네요삼양에서
+	있네요삼양/ncn+에서/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+라면,
+	라/ncn+이/jp+면/ecs+,/sp
+
+매운
+	맵/paa+은/etm
+
+라면을
+	라면/ncn+을/jco
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+좋고,
+	좋/paa+고/ecc+,/sp
+
+우리나라
+	우리나라/ncn
+
+것이라니
+	것/nbn+이/jp+라니/ecs
+
+더
+	더/mag
+
+좋네요카파도키아는
+	좋네요카파도키아/ncn+는/jxc
+
+오토바이로
+	오토바이/ncn+로/jca
+
+여행해도
+	여행/ncpa+하/xsva+어도/ecs
+
+좋은
+	좋/paa+은/etm
+
+것
+	것/nbn
+
+같아요카파도키아에
+	같아요카파도키아/ncn+에/jca
+
+오시면
+	오/px+시/ep+면/ecs
+
+호박씨
+	호박씨/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+봉지
+	봉지/nbu
+
+사서
+	사/pvg+아/ecx
+
+까드시면서
+	까드시/ncn+이/jp+면서/ecc
+
+여행하는
+	여행/ncpa+하/xsva+는/etm
+
+것도
+	것/nbn+도/jxc
+
+재미있답니다
+	재미있/pvg+답니다/ef
+
+.
+	./sf
+
+
+터키
+	터키/ncn
+
+형제들의
+	형제/ncr+들/ncn+의/jcm
+
+우애는
+	우애/ncpa+는/jxc
+
+남달라
+	남다르/paa+아/ecx
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+아침
+	아침/ncn
+
+빵을
+	빵/ncn+을/jco
+
+사들고
+	사들고/ncn
+
+집으로
+	집/ncn+으로/jca
+
+가시는
+	가/px+시/ep+는/etm
+
+할머니붉은
+	할머니붉/ncn+은/jxc
+
+하늘에
+	하늘/ncn+에/jca
+
+떠
+	뜨/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+초승들과
+	초승들/ncn+과/jcj
+
+별이
+	별/ncn+이/jcc
+
+좋아진다
+	좋/paa+아/ecx+지/px+ㄴ다/ef
+
+.
+	./sf

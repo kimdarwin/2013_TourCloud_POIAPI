@@ -1,0 +1,656 @@
+장성군
+	장성/ncn+군/ncn
+
+
+전라남도
+	전라/ncn+남도/ncn
+
+
+기간
+	기간/ncn
+
+2009.
+	2009./nnc
+
+11.
+	11./nnc
+
+7~
+	7/nnc+~/sd
+
+2009.
+	2009./nnc
+
+11.
+	11./nnc
+
+7(1일)
+	7/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+나
+	나/npp
+
+홀로
+	홀로/mag
+
+떠나는
+	떠나/pvg+는/etm
+
+여행
+	여행/ncpa
+
+
+경로
+	경로/ncn
+
+
+광주광역시
+	광주광역시/ncn
+
+광천터미널
+	광천터미널/ncn
+
+장성군
+	장성/ncn+군/ncn
+
+백양사
+	백양사/ncn
+
+대웅전
+	대웅전/ncn
+
+약사암
+	약사/ncr+암/ncn
+
+영천굴
+	영천굴/ncn
+
+
+여행비용20,000
+	여행비용20,000/ncn
+
+만원
+	만원/ncn
+
+
+특별히
+	특별히/mag
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+곳
+	곳/nbu
+
+
+전체적으로아기단풍잎들이한가득해서참으로볼만한곳이다-
+	전체적으로아기단풍잎들이한가득해서참으로볼만한곳/ncn+이/jp+다/ef+-/sd
+
+
+온통붉은색노란색~~대웅전까지올라가는그길이너무아름답다-
+	온통붉은색노란색~~대웅전까지올라가는그길이너무아름답다/ncn+-/sd
+
+
+여행팁
+	여행/ncpa+팁/ncn
+
+
+대중교통이용하는게쉬운듯하다-
+	대중교통이용하는게쉬운듯하/ncn+이/jp+다/ef+-/sd
+
+
+광주광역시광천터미널에서백양사행버스만타면바로도착하니
+	광주광역시광천터미널에서백양사행버스만타면바로도착하/ncn+이/jp+니/ecs
+
+..
+	./sf+./sf
+
+
+한번에해결된다^O^
+	한번에해결된다/ncn+^/sy+O/f+^/sy
+
+
+입구에서
+	입구/ncn+에서/jca
+
+백양사로
+	백양사/ncn+로/jca
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+입장료가
+	입장료/ncn+가/jcs
+
+있다~~
+	있/paa+다/ef+~/sd+~/sd
+
+
+\2,500
+	\2/ncn+,/sp+500/nnc
+
+
+입장료
+	입장료/ncn
+
+내고
+	내/npp+이/jp+고/ecc
+
+백양사로
+	백양사/ncn+로/jca
+
+들어서는
+	들/pvg+어서/ecs+는/jxc
+
+길들을
+	길들/pvg+ㄹ/etm
+
+혼자
+	혼자/mag
+
+거닐었지만
+	거닐/pvg+었/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+작년부터
+	작년/ncn+부터/jxc
+
+꼭
+	꼭/mag
+
+가겠다
+	가/px+겠/ep+다/ef
+
+결심한걸
+	결심한걸/ncn
+
+이제서야
+	이제/mag+서야/jxc
+
+이루지만
+	이루/pvg+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+절대
+	절대/mag
+
+후회하지
+	후회/ncpa+하/xsva+지/ecx
+
+않는
+	않/px+는/etm
+
+그런곳이다
+	그런곳/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+많기도
+	많/paa+기/etn+도/jxc
+
+하다
+	하/px+다/ef
+
+..
+	./sf+./sf
+
+
+양쪽으로
+	양쪽/ncn+으로/jca
+
+단풍터널같으다
+	단풍터널같으/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+붉은색
+	붉은색/ncn
+
+..
+	./sf+./sf
+
+
+노랑색
+	노랑색/ncn
+
+..
+	./sf+./sf
+
+
+알록달록하고
+	알록달록하/ncn+이/jp+고/ecc
+
+...
+	.../se
+
+
+단풍색깔
+	단풍/ncn+색깔/ncn
+
+너무너무너무
+	너무너무너무/ncn
+
+이쁘다
+	이쁘/paa+다/ef
+
+...
+	.../se
+
+
+감나무가
+	감나무/ncn+가/jcs
+
+저렇게
+	저렇/pad+게/ecs
+
+대롱대롱
+	대롱대롱/mag
+
+말라가는
+	마르/pvg+아/ecx+가/px+는/etm
+
+그
+	그/mmd
+
+그림
+	그리/pvg+ㅁ/etn
+
+...
+	.../se
+
+
+너무
+	너무/mag
+
+정겹고
+	정겹/paa+고/ecc
+
+좋다
+	좋/paa+다/ef
+
+..
+	./sf+./sf
+
+
+저런
+	저런/mmd
+
+감들을
+	감/ncn+들/xsncc+을/jco
+
+까치가
+	까치/ncn+가/jcs
+
+주워먹는다지
+	주워먹는다/ncn+이/jp+지/ef
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+복이
+	복/ncn+이/jcc
+
+온다지~~
+	온다/ncn+이/jp+지/ecs+~/sd+~/sd
+
+
+돌담에
+	돌담/ncn+에/jca
+
+기와가
+	깁/pvg+어/ecx+가/px+아/ecx
+
+얹혀있는
+	얹히/pvg+어/ecx+있/px+는/etm
+
+그
+	그/mmd
+
+모습들을
+	모습/ncn+들/ncn+을/jco
+
+아주
+	아주/mag
+
+러블리한다
+	러블리한다/ncn
+
+..
+	./sf+./sf
+
+
+어딜가나
+	어딜가/ncn+나/jcj
+
+이런사진
+	이런사진/ncn
+
+꼭
+	꼭/mag
+
+찍어주시고
+	찍/pvg+어/ecx+주/px+시/ep+고/ecc
+
+..
+	./sf+./sf
+
+
+색감도
+	색감/ncn+도/jxc
+
+너무
+	너무/mag
+
+훈훈해서
+	훈훈/ncps+하/xsms+어서/ecs
+
+더욱
+	더욱/mag
+
+좋기만
+	좋/paa+기/etn+만/jxc
+
+하다
+	하/px+다/ef
+
+..
+	./sf+./sf
+
+
+내가
+	나/npp+가/jcs
+
+백양사를
+	백양사/ncn+를/jco
+
+꼭
+	꼭/mag
+
+오고
+	오/px+고/ecc
+
+싶었던것은
+	싶/px+었/ep+던/etm+것/nbn+은/jxc
+
+바로
+	바로/mag
+
+이것때문이라해도
+	이것때문이라해/ncn+도/jxc
+
+과언이
+	과언/ncn+이/jcc
+
+아니다
+	아니/paa+다/ef+./sf
+
+..
+	./sf+./sf
+
+
+물가에
+	물가/ncn+에/jca
+
+비춰지는
+	비추/pvg+어/ecx+지/px+는/etm
+
+그
+	그/mmd
+
+나무들이
+	나무/ncn+들/ncn+이/jcc
+
+너무너무
+	너무너무/mag
+
+멋지기
+	멋지/paa+기/etn
+
+때문
+	때문/nbn
+
+..
+	./sf+./sf
+
+
+지금은
+	지금/ncn+은/jxc
+
+낙엽이
+	낙엽/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+떨어져서
+	떨어지/pvg+어서/ecs
+
+그
+	그/mmd
+
+아름다운
+	아름답/paa+은/etm
+
+모습을
+	모습/ncn+을/jco
+
+보지는
+	보/px+지/ecs+는/jxc
+
+못했지만
+	못하/px+었/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+내년엔
+	내년/ncn+엔/jca
+
+...
+	.../se
+
+
+꼭
+	꼭/mag
+
+봐줘야
+	보/pvg+아/ecx+주/px+어야/ecs
+
+할거
+	할거/ncpa
+
+같다
+	같/paa+다/ef
+
+...
+	.../se
+
+
+알록달록한
+	알록달록한/ncn
+
+단풍이
+	단풍/ncn+이/jcc
+
+물가에
+	물가/ncn+에/jca
+
+고스란히
+	고스란히/mag
+
+거울처럼
+	거울/ncn+처럼/jca
+
+비춰지는
+	비추/pvg+어/ecx+지/px+는/etm
+
+그
+	그/mmd
+
+모습이
+	모습/ncn+이/jcc
+
+얼마나
+	얼마나/mag
+
+아름다운건지
+	아름답/paa+은/etm+것/nbn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+으헝헝~~
+	으헝헝~~/ncn
+
+이뿌다
+	이뿌다/ncn
+
+이뻐~~~
+	이쁘/paa+어/ecs+~/sd+~/sd+~/sd
+
+
+담엔
+	달/paa+ㅁ/etn+엔/jca
+
+혼자
+	혼자/mag
+
+오지
+	오/pvg+지/ecx
+
+않을테얍~~
+	않을테얍~~/ncn
+
+_
+	_/ncn
+
+
+나뭇가지가
+	나뭇가지/ncn+가/jcs
+
+너무
+	너무/mag
+
+이쁘당
+	이쁘당/ncn
+
+..
+	./sf+./sf
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+"백양사
+	"백양사/ncn
+
+오르는
+	오르/pvg+는/etm
+
+매표소
+	매표소/ncn
+
+가는길"
+	가는길/ncn+"/sr
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/soh109/80094628909
+	com/soh109/ncn+//sp+80094628909/nnc
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+"백양사"
+	"백양사"/ncn
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/soh109/80094632578
+	com/soh109/ncn+//sp+80094632578/nnc
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+"백양사-대웅전"
+	"백양사-대웅전"/ncn
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/soh109/80094634375
+	com/soh109/ncn+//sp+80094634375/nnc
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+"백양사-약사암+영천굴"
+	"백양사-약사암+영천굴"/ncn
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/soh109/80094636594
+	com/soh109/ncn+//sp+80094636594/nnc
+
+
+Canon
+	Canon/f
+
+PowerShot
+	PowerShot/f
+
+G10
+	G10/ncn

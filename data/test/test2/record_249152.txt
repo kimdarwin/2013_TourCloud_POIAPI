@@ -1,0 +1,41 @@
+Title:
+8/4 대덕산 분주령 트레킹 후기
+
+Date:
+2012.08.05
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(271221,'files/attach/images/64/152/249/c570abd9e1641a95dc9f96f9b3bd2502.jpg');
+list_gallery_add_image(271221,'files/attach/images/64/152/249/145ee372977d0e14c87d11a4abcfb66a.jpg');
+list_gallery_add_image(271221,'files/attach/images/64/152/249/99854dddf6a3fe28b8d60a00eb611ff1.jpg');
+list_gallery_add_image(271221,'files/attach/images/64/152/249/e38adc475261da9b68d29a2103423b07.jpg');
+list_gallery_add_image(271221,'files/attach/images/64/152/249/6e7754b25086db983b4a4f5d02d58d36.jpg');
+list_gallery_add_image(271221,'files/attach/images/64/152/249/1d8aee06154aee5fc7aba2bf0574e106.jpg');
+list_gallery_add_image(271221,'files/attach/images/64/152/249/2e214aacc4b88f1b794a476b42cc956f.jpg');
+list_gallery_add_image(271221,'files/attach/images/64/152/249/f6653b4434df36ea66d937a7f7de8f42.jpg');
+list_gallery_add_image(271221,'files/attach/images/64/152/249/849a7c4070c2b3814fbb56b353a2bdf6.jpg');
+list_gallery_add_image(271221,'files/attach/images/64/152/249/ddd963b53aa5f166930d0f2d62a83b88.jpg');
+list_gallery_add_image(271221,'files/attach/images/64/152/249/d9127e4fdb06952c7c6236888cb38102.jpg');
+list_gallery_add_image(271221,'files/attach/images/64/152/249/aaa77f0975ed118bbfec8e0b83aca677.jpg');
+list_gallery_add_image(271221,'files/attach/images/64/152/249/f1638b8be35437639a94a0cfb8dc39c8.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 4일(토), 아름다운 여행으로 태백 대덕산,분주령 야생화 트레킹에 다녀왔습니다.
+여름 휴가를 떠나는 많은 사람들로 토요일 아침, 태백으로 향하는 길은 멀기만 했습니다.
+조금이라도 수월한 길을 찾아 국도로 고속도로로 다녔지만 수많은 휴가 행렬의 차량에 밀려 결국, 태백 두문동재에 도착한 것은 다른 때보다도 한시간 반 가까이 늦은 시간이었습니다.
+트레킹 출발이 늦은 탓인지 걷는 내내 다른 일행은 찾아보지 못하고 정말로 조용한 길들을 호젓하게 걸을 수 있는 날이었습니다. 그 점 하나는 길이 막히는 덕을 본 셈이었네요~^^
+계속 되는 폭염으로 지친 상태에서 만난 태백 산자락의 바람은 말로 표현하지 못할 정도의 시원함과 상쾌함 자체 입니다. 어느 깊은 계곡의 얼음골 같은 곳에서나 만난 수 있는 바람이라 할까요~
+2주만에 다시 오른 대덕산 정상의 풍경은 여전히 멋진 풍경이었습니다.
+여름 야생화들이 이제 서서히 끝물에 가까워 지고는 있지만 오이풀, 동자꽃, 마타리, 세잎 쥐손이, 각시나물등 많은 꽃들이 여전히 어우러져 피어있습니다.
+지난번까지는 붉은 색의 하늘말나리를 흔하게 보았는데 이번에는 운 좋게도 연분홍 빛의 귀한 솔나리를 보게 되었네요. 대덕산 정상에서 바람에 여리게 떨리고 있는 모습이 참으로 곱고 예뻤습니다.
+맑은 하늘은 아니었지만 탁 트인 전망과 시원하게 불어오는 바람이 가슴속까지 깨끗하게 씻겨주는 기분이었습니다.
+비가 드물게 온 탓으로 검룡소의 물은 조금 말라있는 듯 했습니다.
+그래도 그 시원한 바람은 여전하더군요. 시원함이 매순간 그리운 요즘 더위에, 너무도 고맙고 반갑지 않을 수 없었습니다.
+트레킹을 마치고 서울로 돌아오는 길 또한 수월치가 않았습니다. 
+최대한 막히는 구간을 피하고자 국도를 오래 이용한 탓에 적당한 휴게소를 찾기가 쉽지 않더군요. 
+변변치 않은 국도변 휴게소 덕에 결국 서울로 들어가기 전 이천 휴게소를 다시 한번 찾게 되었습니다.
+교통체증으로 인해 시간도 많이 늦어지고 간단히 드신 점심으로 많이 시장도 하셨을 텐데, 결국 여러분들께 큰불편을 드리게 되어 죄송하게 생각합니다. 그 점 다시 한번 사과 말씀 드리겠습니다.
+개인적으로는 대덕산 정상의 꽃들이 조금은 아쉬운 듯 했지만, 어쩌면 제 기대가 좀 과했는지도 모르겠습니다.
+하늘아래 어루러져 있는 많은 꽃들과 시원한 바람, 맑고 상쾌한 풍경이 오래도록 그립고 기억에 남을 듯 합니다. 
+함께 하신 모든 분들 여행의 피로 말끔히 털어내시고, 계속되는 더운 날씨에 지치지 않게 건강 관리 잘 하시길 바라겠습니다~이 게시물을...

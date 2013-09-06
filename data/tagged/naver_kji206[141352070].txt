@@ -1,0 +1,1356 @@
+부산~여수
+	부산/ncps+~/sd+여수/ncn
+
+1박2일
+	1박2/ncn+이/jp+ㄹ/etm
+
+남동
+	남동/ncn
+
+팬스타
+	팬스타/ncn
+
+크루즈
+	크루즈/ncn
+
+부산
+	부산/ncps
+
+도착~
+	도착/ncpa+~/sd
+
+월컴연주
+	월컴연주/ncn
+
+들으며
+	들/pvg+며/ecc
+
+수속에서
+	수속/ncpa+에서/jca
+
+승선까지
+	승선/ncn+까지/jca
+
+
+부산
+	부산/ncps
+
+시청과
+	시청/ncn+과/jct
+
+함께
+	함께/mag
+
+남해안
+	남해안/ncn
+
+크루즈
+	크루즈/ncn
+
+활성화를
+	활성화/ncn+를/jco
+
+위하여
+	위하/pvg+어/ecx
+
+남동순환
+	남동순환/ncn
+
+팬스타
+	팬스타/ncn
+
+크루즈부산~
+	크루즈/ncn+부산/ncps+~/sd
+
+여수간
+	여수/ncn+간/ncn
+
+1박
+	1/nnc+박/nbu
+
+2일을
+	2/nnc+일/nbu+을/jco
+
+시범운행
+	시범/ncpa+운행/ncpa
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+부산항을
+	부산/ncps+항/ncn+을/jco
+
+출항하여
+	출항하/ncn+이/jp+어/ecs
+
+태종대을
+	태종대/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+남형제도,
+	남형제도,/ncn
+
+매물도,
+	매물/ncn+도/jxc+,/sp
+
+국도,
+	국도/ncn+,/sp
+
+욕지도,
+	욕지도,/ncn
+
+남해,
+	남해/ncn+,/sp
+
+여수까지
+	여수/ncn+까지/jxc
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+크루즈
+	크루즈/ncn
+
+여행,
+	여행/ncpa+,/sp
+
+
+우리가
+	우리/npp+가/jcs
+
+타고갈
+	타/pvg+고/ecx+가/px+ㄹ/etm
+
+팬스타
+	팬스타/ncn
+
+크루즈
+	크루즈/ncn
+
+~~~
+	~/sd+~/sd+~/sd
+
+
+기차를
+	기차/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+부산역에
+	부산/ncps+역/ncn+에/jca
+
+도착,
+	도착/ncpa+,/sp
+
+
+연거품
+	연거품/ncn
+
+부산역을
+	부산/ncps+역/ncn+을/jco
+
+오다보니
+	오다보/ncn+이/jp+니/ecs
+
+이제는
+	이제/mag+는/jxc
+
+내가
+	나/npp+가/jcs
+
+이곳에
+	이곳/npd+에/jca
+
+살고
+	살/pvg+고/ecc
+
+있는듯
+	있/px+는/etm+듯/nbs
+
+...
+	.../se
+
+
+크루즈
+	크루즈/ncn
+
+승선시간이
+	승선/ncn+시간/ncn+이/jcc
+
+남아
+	남/pvg+아/ecx
+
+부산역
+	부산/ncps+역/ncn
+
+건너편에서
+	건너편/ncn+에서/jca
+
+맛난
+	맛나/paa+ㄴ/etm
+
+추어탕
+	추어탕/ncn
+
+먹은후
+	먹/pvg+은후/ef
+
+부산역에서
+	부산/ncps+역/ncn+에서/jca
+
+대기중인
+	대/nbu+이/jp+기/etn+중/xsnx+이/jp+ㄴ/etm
+
+팬스타
+	팬스타/ncn
+
+크루즈
+	크루즈/ncn
+
+버스를
+	버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+
+중앙동
+	중앙동/ncn
+
+국제여객
+	국제/ncn+여객/ncn
+
+터미널로
+	터미널/ncn+로/jca
+
+향하였다
+	향하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+국제여객터미널
+	국제/ncn+여객/ncn+터미널/ncn
+
+
+이번
+	이/nnc+번/nbu
+
+여행은
+	여행/ncpa+은/jxc
+
+"남동순환
+	"남동순환/ncn
+
+크루즈
+	크루즈/ncn
+
+시범운항"으로
+	시범/ncpa+운항/ncn+"/sr+으로/jca
+
+오후
+	오후/ncn
+
+2시에
+	2/nnc+시/nbu+에/jca
+
+부산항을
+	부산/ncps+항/ncn+을/jco
+
+출항하여
+	출항하/ncn+이/jp+어/ecs
+
+
+태종대-
+	태종대-/ncn
+
+남형제도
+	남형제도/ncn
+
+-
+	-/sd
+
+매물도
+	매물/ncn+도/jxc
+
+-
+	-/sd
+
+국도
+	국도/ncn
+
+-
+	-/sd
+
+욕지도
+	욕지도/ncn
+
+-
+	-/sd
+
+남해
+	남해/ncn
+
+-
+	-/sd
+
+여수에
+	여수/ncn+에/jca
+
+오후7시
+	오후7시/ncn
+
+30분에
+	30/nnc+분/nbu+에/jca
+
+도착하여
+	도착/ncpa+하/xsva+어/ecs
+
+
+다음날
+	다음날/ncn
+
+오전
+	오전/ncn
+
+3시
+	3/nnc+시/nbu
+
+출발하여
+	출발/ncpa+하/xsva+어/ecx
+
+매물도
+	매물/ncn+도/jxc
+
+근처에서
+	근처/ncn+에서/jca
+
+일출을
+	일출/ncpa+을/jco
+
+보고
+	보/px+고/ecc
+
+부산항에
+	부산/ncps+항/ncn+에/jca
+
+10시
+	10/nnc+시/nbu
+
+30분경에
+	30/nnc+분/nbu+경/xsnu+에/jca
+
+도착하는
+	도착/ncpa+하/xsva+는/etm
+
+일정이다
+	일정/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+발권수속을
+	발권/ncpa+수속/ncpa+을/jco
+
+받으니
+	받/pvg+으니/ecs
+
+팬스타
+	팬스타/ncn
+
+크루드
+	크루드/ncn
+
+골드
+	골드/ncn
+
+카드를
+	카드/ncn+를/jco
+
+주었다
+	주/px+었/ep+다/ef
+
+.
+	./sf
+
+
+평소팬스타호는
+	평소팬스타호/ncn+는/jxc
+
+일본
+	일/nnc+본/nbu
+
+오사카를
+	오사/ncn+카/ncn+를/jco
+
+오가는크루즈
+	오가는크루즈/ncn
+
+여행을
+	여행/ncpa+을/jco
+
+운행하며
+	운행/ncpa+하/xsva+며/ecc
+
+
+주말에는
+	주말/ncn+에/jca+는/jxc
+
+원나잇
+	원나잇/ncn
+
+크루즈라
+	크루즈/ncn+이/jp+라/ecs
+
+해서
+	하/pvg+어서/ecs
+
+
+부산지역,
+	부산/ncps+지역/ncn+,/sp
+
+조도,
+	조/nbu+도/jxc+,/sp
+
+태종대,
+	태종대,/ncn
+
+몰운대를
+	몰운대/ncn+를/jco
+
+거쳐
+	거치/pvg+어/ecx
+
+일몰을
+	일/nnc+몰/nbu+을/jco
+
+감상하고
+	감상/ncn+하고/jct
+
+광안대교에서
+	광안대교/ncn+에서/jca
+
+불꽃쇼와
+	불꽃/ncn+쇼/ncpa+와/jct
+
+함께
+	함께/mag
+
+야경을
+	야경/ncn+을/jco
+
+즐기고
+	즐기/pvg+고/ecc
+
+
+이튿날
+	이튿날/ncn
+
+해운대에서
+	해운/ncn+대/ncn+에서/jca
+
+일출을
+	일출/ncpa+을/jco
+
+감상한
+	감상/ncn+한/ncn
+
+후
+	후/ncn
+
+다시
+	다시/mag
+
+부산항으로
+	부산/ncps+항/ncn+으로/jca
+
+들어오는
+	들/pvg+어/ecx+오/px+는/etm
+
+주말
+	주말/ncn
+
+크루즈도
+	크루즈/ncn+도/jxc
+
+운행한다고
+	운행/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+발권
+	발권/ncpa
+
+수속후
+	수속/ncpa+후/ncn
+
+보안
+	보안/ncpa
+
+검색대를
+	검색대/ncn+를/jco
+
+통과
+	통/nbn+과/jct
+
+한후
+	하/px+ㄴ후/ef
+
+승선하기
+	승선/ncn+하기/ncn
+
+위해
+	위하/pvg+어/ecx
+
+다시
+	다시/mag
+
+셔틀
+	셔틀/ncn
+
+버스를
+	버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+배로
+	배/ncn+로/jca
+
+이동하였다
+	이동/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+버스에서
+	버스/ncn+에서/jca
+
+내려
+	내리/pvg+어/ecx
+
+게이트를
+	게이트/ncn+를/jco
+
+통하여
+	통하/pvg+어/ecx
+
+배를
+	배/ncn+를/jco
+
+향한다
+	향하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+창문
+	창문/ncn
+
+너머
+	너머/ncn
+
+타고갈
+	타/pvg+고/ecx+가/px+ㄹ/etm
+
+팬스타
+	팬스타/ncn
+
+크루즈호가
+	크루즈/ncn+호/ncn+가/jcs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+국제여객터미널
+	국제/ncn+여객/ncn+터미널/ncn
+
+모습이
+	모습/ncn+이/jcc
+
+보이고~~
+	보이/ncn+고/jcj+~/sd+~/sd
+
+
+와~~~
+	오/px+아/ecs+~/sd+~/sd+~/sd
+
+드디어
+	드디어/mag
+
+크루즈
+	크루즈/ncn
+
+여행
+	여행/ncpa
+
+시작이다
+	시작/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+1층
+	1/nnc+층/nbu
+
+로비에
+	로비/ncn+에/jca
+
+들어서니
+	들어서/pvg+니/ecs
+
+첼로와
+	첼로/ncn+와/jcj
+
+피아노의
+	피아노/ncn+의/jcm
+
+은은한
+	은은/ncps+하/xsms+ㄴ/etm
+
+환영
+	환영/ncpa
+
+월컴
+	월컴/ncn
+
+연주가
+	연주/ncpa+가/jcc
+
+울려
+	울리/pvg+어/ecx
+
+퍼지고
+	푸/pvg+어/ecx+지/px+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+월컴
+	월컴/ncn
+
+음료,
+	음료/ncn+,/sp
+
+와인과
+	와인/ncn+과/jcj
+
+케익빵
+	케익빵/ncn
+
+과
+	과/ncn
+
+초코렛
+	초코렛/ncn
+
+
+카운트에서
+	카운트/ncpa+에서/jca
+
+바로
+	바로/mag
+
+체크인을
+	체크인/ncn+을/jco
+
+하니
+	하/pvg+니/ecs
+
+방
+	방/ncn
+
+키를
+	키/ncn+를/jco
+
+준다
+	주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+얼른
+	얼른/mag
+
+짐부터
+	지/px+ㅁ/etn+부터/jxc
+
+내려
+	내리/pvg+어/ecx
+
+놓고
+	놓/px+고/ecc
+
+선내와
+	선내/ncn+와/jcj
+
+선상,
+	선상/ncn+,/sp
+
+그리고
+	그리고/maj
+
+월컴
+	월컴/ncn
+
+파티와
+	파티/ncn+와/jcj
+
+이벤트를
+	이벤트/ncn+를/jco
+
+구경하기
+	구경/ncn+하기/ncn
+
+위해
+	위하/pvg+어/ecx
+
+얼른
+	얼른/mag
+
+객실로
+	객실/ncn+로/jca
+
+올라갔다
+	오르/pvg+아/ecx+가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+2층으로
+	2/nnc+층/nbu+으로/jca
+
+오르는
+	오르/pvg+는/etm
+
+계단은
+	계단/ncn+은/jxc
+
+거울로
+	거울/ncn+로/jca
+
+장식
+	장식/ncpa
+
+되어있는
+	되/pvg+어/ecx+있/px+는/etm
+
+인테리어가
+	인테리어/ncn+가/jcs
+
+고급스러워
+	고급/ncn+스럽/xsmn+어/ecx
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+도저히
+	도저히/mag
+
+배
+	배/pvg+어/ecx
+
+안이라고
+	안/ncn+이/jp+라/ef+고/jcr
+
+믿어지지
+	믿/pvg+어/ecx+지/px+지/ecx
+
+않을
+	않/px+을/etm
+
+정도로
+	정도/ncn+로/jca
+
+깔끔한
+	깔끔/ncps+하/xsms+ㄴ/etm
+
+복도,
+	복도/ncpa+,/sp
+
+중앙
+	중앙/ncn
+
+휴게실을
+	휴게실/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+양쪽으로
+	양쪽/ncn+으로/jca
+
+복도가
+	복도/ncn+가/jcs
+
+있으며
+	있/paa+으며/ecc
+
+
+객실은
+	객실/ncn+은/jxc
+
+바깥으로
+	바깥/ncn+으로/jca
+
+향하게
+	향하/pvg+게/ecs
+
+되어
+	되/pvg+어/ecx
+
+있어
+	있/px+어/ecx
+
+어디서나
+	어디/npd+서/jca+나/jxc
+
+바다가
+	바/nbn+이/jp+다가/ecs
+
+잘
+	잘/mag
+
+보일것
+	보이/pvg+ㄹ/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+생각보다
+	생각/ncpa+보다/jca
+
+훨씬
+	훨씬/mag
+
+더깔끔한
+	더깔끔한/ncn
+
+객실,
+	객실/ncn+,/sp
+
+일반
+	일반/ncn
+
+호텔
+	호텔/ncn
+
+같아
+	같/paa+아/ecx
+
+배안이라고
+	배안/ncpa+이/jp+라/ef+고/jcr
+
+생각이
+	생각/ncpa+이/jcc
+
+전혀
+	전혀/mag
+
+안든다
+	안든다/ncn
+
+.
+	./sf
+
+
+객실을
+	객실/ncn+을/jco
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+자세히
+	자세히/mag
+
+둘러볼까~~~
+	두르/pvg+어/ecx+보/px+ㄹ까/ecs+~/sd+~/sd+~/sd
+
+
+구명복,
+	구명/ncn+복/ncn+,/sp
+
+작은
+	작/paa+은/etm
+
+냉장고에는
+	냉장고/ncn+에/jca+는/jxc
+
+물병
+	물병/ncn
+
+2개가
+	2/nnc+개/nbu+가/jcc
+
+비치되어
+	비치/ncpa+되/xsvn+어/ecx
+
+있고
+	있/px+고/ecc
+
+욕실에는
+	욕실/ncn+에/jca+는/jxc
+
+샤워시설과
+	샤워시설/ncn+과/jcj
+
+비데,
+	비데/ncn+,/sp
+
+세면도구
+	세면도구/ncn
+
+,
+	,/sp
+
+드라이기,
+	드라이/ncn+이/jp+기/etn+,/sp
+
+수건,
+	수/nbn+이/jp+건/ecc+,/sp
+
+샴푸까지
+	샴푸/ncn+까지/jxc
+
+빠짐없이
+	빠짐없이/mag
+
+....
+	.../se+./sf
+
+
+사이드
+	사이드/ncn
+
+테이블에는
+	테이블/ncn+에/jca+는/jxc
+
+커피와
+	커피/ncn+와/jcj
+
+커피포트,
+	커피포트/ncn+,/sp
+
+일회용
+	일회용/ncn
+
+치솔과
+	치솔/ncn+과/jcj
+
+빗
+	빗/ncn
+
+등.
+	등/nbu+./sf
+
+.
+	./sf
+
+
+난방장치는
+	난방장치/ncpa+는/jxc
+
+천장에
+	천/nnc+장/nbu+에/jca
+
+..
+	./sf+./sf
+
+
+깔끔한
+	깔끔/ncn+한/ncn
+
+실내
+	실내/ncn
+
+슬리퍼
+	슬리퍼/ncn
+
+또한
+	또한/maj
+
+마음에
+	마음/ncn+에/jca
+
+든다
+	들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+참,
+	참/ii+,/sp
+
+배
+	배/ncn
+
+안에는
+	안/ncn+에/jca+는/jxc
+
+110볼트
+	110볼트/ncn
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+220볼트
+	220볼트/ncn
+
+호환할려면
+	호환할려/ncn+이/jp+면/ecs
+
+카운트에서
+	카운트/ncpa+에서/jca
+
+1000원에
+	1000/nnc+원/nbu+에/jca
+
+사야한다
+	사/pvg+아/ecx+하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+와~~~
+	오/px+아/ecs+~/sd+~/sd+~/sd
+
+TV
+	TV/f
+
+대박이다
+	대박/ncn+이/jp+다/ef
+
+
+그런데
+	그런데/maj
+
+..
+	./sf+./sf
+
+
+일본
+	일/nnc+본/nbu
+
+제품으로
+	제품/ncn+으로/jca
+
+리모콘으로
+	리모콘/ncn+으로/jca
+
+아무리
+	아무리/mag
+
+작동
+	작동/ncpa
+
+해도
+	하/pvg+어도/ecs
+
+안나온다
+	안나온다/ncn
+
+...
+	.../se
+
+
+주파수가
+	주파수/ncn+가/jcs
+
+안맞나
+	안맞나/ncn
+
+????
+	?/sf+?/sf+?/sf+?/sf
+
+
+나중에
+	나중/ncn+에/jca
+
+도저히
+	도저히/mag
+
+안되어
+	안되/paa+어/ecx
+
+카운트
+	카운트/ncpa
+
+연결하여
+	연결/ncpa+하/xsva+어/ecx
+
+문의
+	문/ncn+의/jcm
+
+했더니
+	하/px+었/ep+더니/ecs
+
+담박에
+	담박/ncn+에/jca
+
+직원이
+	직원/ncn+이/jcc
+
+달려왔다
+	달리/pvg+어/ecx+오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+알고
+	알/pvg+고/ecx
+
+봤더니
+	보/px+아/ep+니/ecs
+
+이
+	이/mmd
+
+팬스타
+	팬스타/ncn
+
+호에서
+	호/nbu+에서/jca
+
+가장
+	가장/mag
+
+좋은
+	좋/paa+은/etm
+
+TV로
+	TV/f+로/jca
+
+어제
+	어제/ncn
+
+막
+	막/mag
+
+새로
+	새로/mag
+
+산
+	사/pvg+ㄴ/etm
+
+거라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+.....
+	.../se+./sf+./sf
+
+
+운이
+	운/ncn+이/jcc
+
+좋은건가~~~~
+	좋/paa+은/etm+것/nbn+이/jp+ㄴ가/ef+~/sd+~/sd+~/sd+~/sd
+
+
+방
+	방/ncn
+
+입구
+	입구/ncn
+
+욕실
+	욕실/ncn
+
+맞은편에는
+	맞은편/ncn+에/jca+는/jxc
+
+소파
+	소파/ncn
+
+까지
+	까/pvg+지/ecx
+
+있어
+	있/px+어/ecx
+
+짐도올려놓고
+	짐도올려놓고/ncn
+
+..
+	./sf+./sf
+
+
+창문
+	창문/ncn
+
+너머
+	너머/ncn
+
+부산항
+	부산/ncps+항/ncn
+
+모습이
+	모습/ncn+이/jcc
+
+오늘도
+	오늘/ncn+도/jxc
+
+또
+	또/maj
+
+색다르게
+	색다르/paa+게/ecs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+남동
+	남동/ncn
+
+순환
+	순환/ncpa
+
+팬스타
+	팬스타/ncn
+
+크루즈를
+	크루즈/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+부산~
+	부산/ncps+~/sd
+
+여수간
+	여수/ncn+간/ncn
+
+크루즈
+	크루즈/ncn
+
+여행을
+	여행/ncpa+을/jco
+
+시작한다
+	시작/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+짐을
+	지/px+ㅁ/etn+을/jco
+
+내려
+	내리/pvg+어/ecx
+
+놓고
+	놓/px+고/ecc
+
+카메라만
+	카메라/ncn+만/jxc
+
+들고
+	들/pvg+고/ecc
+
+서둘러
+	서두르/pvg+어/ecx
+
+탑
+	탑/ncn
+
+브릿지에서
+	브릿지/ncn+에서/jca
+
+펼쳐지는웰컴파티를
+	펼쳐지는웰컴파티/ncn+를/jco
+
+구경하기
+	구경/ncn+하기/ncn
+
+위해
+	위하/pvg+어/ecx
+
+서둘렀다
+	서두르/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+2편~~
+	2/nnc+편/nbu+~/sd+~/sd
+
+월컴
+	월컴/ncn
+
+파티
+	파티/ncn
+
+기대하세요~~~
+	기대/ncpa+하세/ncpa+요/ncn+~/sd+~/sd+~/sd
+
+
+팬스타
+	팬스타/ncn
+
+크루즈
+	크루즈/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+panstarcruise.
+	panstarcruise/f+./sy
+
+co.
+	co/f+./sy
+
+kr/
+	kr/f+//sp

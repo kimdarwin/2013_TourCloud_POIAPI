@@ -1,0 +1,770 @@
+수레의산
+	수레의산/ncn
+
+자연휴양림지리산
+	자연/ncn+휴양림/ncn+지리/ncn+산/ncn
+
+자연휴양림
+	자연/ncn+휴양림/ncn
+
+
+수레의산
+	수레의산/ncn
+
+자연휴양림
+	자연/ncn+휴양림/ncn
+
+
+수레의산자연휴양림은
+	수레의산자연휴양림/ncn+은/jxc
+
+산이
+	산/ncn+이/jcc
+
+아름답고
+	아름답/paa+고/ecc
+
+경치가
+	경치/ncn+가/jcs
+
+좋아
+	좋/paa+아/ecx
+
+많은
+	많/paa+은/etm
+
+등산객이
+	등산객/ncn+이/jcc
+
+찾아오는
+	찾/pvg+아/ecx+오/px+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+조선시대
+	조선시대/ncn
+
+정승
+	정승/ncn
+
+양촌권근
+	양촌권근/ncn
+
+묘지의
+	묘지/ncn+의/jcm
+
+전설이
+	전설/ncn+이/jcc
+
+전해오는
+	전하/pvg+어/ecx+오/px+는/etm
+
+전설의
+	전설/ncn+의/jcm
+
+샘과
+	샘/ncn+과/jcj
+
+상여바위,
+	상여/ncn+바위/ncn+,/sp
+
+병풍바위
+	병풍바위/ncn
+
+등
+	등/nbu
+
+특이지형지물이
+	특이/ncn+지형지물/ncn+이/jcc
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+병풍바위에서의
+	병풍바위/ncn+에서/jca+의/jcm
+
+조망은
+	조망/ncn+은/jxc
+
+산
+	사/pvg+ㄴ/etm
+
+앞뒤를
+	앞뒤/ncn+를/jco
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+산
+	사/pvg+ㄴ/etm
+
+능선부의
+	능선/ncn+부/ncn+의/jcm
+
+철쭉과
+	철쭉/ncn+과/jcj
+
+진달래가
+	진달래/ncn+가/jcs
+
+꽃을
+	꽃/ncn+을/jco
+
+피우고
+	피우/pvg+고/ecc
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+참나무숲으로
+	참나무/ncn+숲/ncn+으로/jca
+
+이루어져
+	이루/pvg+어/ecx+지/px+어/ecx
+
+맑은
+	맑/paa+은/etm
+
+공기와
+	공기/ncn+와/jcj
+
+자연의
+	자연/ncn+의/jcm
+
+향기를
+	향기/ncn+를/jco
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+휴양림
+	휴양림/ncn
+
+바로
+	바로/mag
+
+뒤편에
+	뒤편/ncn+에/jca
+
+레인보우힐
+	레인/ncn+보우/ncn+힐/ncn
+
+골프장과
+	골프장/ncn+과/jcj
+
+동요학교가
+	동요/ncn+학교/ncn+가/jcs
+
+있고
+	있/px+고/ecc
+
+인근에
+	인근/ncn+에/jca
+
+큰바위조각공원,
+	큰바위조각공원,/ncn
+
+세연철박물관,
+	세연철박물관,/ncn
+
+권근3대묘소,
+	권근3대묘소,/ncn
+
+심당짚공예연구소,
+	심당짚공예연구소,/ncn
+
+미백복숭아마을
+	미백/ncpa+복숭아/ncn+이/jp+마/ef+ㄹ/etm
+
+등이
+	등/nbu+이/jcc
+
+있어
+	있/px+어/ecx
+
+가족단위로
+	가족단위/ncn+로/jca
+
+즐기기에
+	즐기/pvg+기/etn+에/jca
+
+적합한
+	적합/ncn+한/ncn
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+관광
+	관광/ncpa
+
+db
+	db/f
+
+자세히
+	자세히/mag
+
+보기
+	보기/ncn
+
+
+지리산
+	지리/ncn+산/ncn
+
+자연휴양림
+	자연/ncn+휴양림/ncn
+
+
+지리산
+	지리/ncn+산/ncn
+
+자연휴양림의
+	자연/ncn+휴양림/ncn+의/jcm
+
+위치는
+	위치/ncn+는/jxc
+
+행정구역상
+	행정구역/ncn+상/ncn
+
+경상남도
+	경상/ncn+남/ncn+도/jxc
+
+함양군
+	함양/ncpa+군/ncn
+
+마천면
+	마천/ncn+면/ncn
+
+삼정리
+	삼정/ncn+리/ncn
+
+음정에
+	음정/ncn+에/jca
+
+속하며,
+	속하/pvg+며/ecc+,/sp
+
+마천면은
+	마천/ncn+면/ncn+은/jxc
+
+하동군
+	하동군/ncn
+
+하개면,
+	하개면,/ncn
+
+산청군
+	산청군/ncn
+
+심장면,
+	심장/ncn+면/xsncc+,/sp
+
+함양군의
+	함양/ncpa+군/ncn+의/jcm
+
+함양읍과
+	함양/ncpa+읍/ncn+과/jcj
+
+휴천면,
+	휴천면,/ncn
+
+남원군
+	남원군/ncn
+
+산내면을
+	산내면/ncn+을/jco
+
+경계로
+	경계/ncn+로/jca
+
+하고
+	하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+휴양림의
+	휴양림/ncn+의/jcm
+
+남쪽에는
+	남쪽/ncn+에/jca+는/jxc
+
+지리산의
+	지리/ncn+산/ncn+의/jcm
+
+주능선
+	주능선/ncn
+
+중
+	중/nbn
+
+벽소령(1,392m),
+	벽소령(1,392m),/ncn
+
+형제봉(1,433m),
+	형제봉(1,433m),/ncn
+
+삼각고지가
+	삼각/ncn+고지/ncn+가/jcs
+
+위치하고,
+	위치/ncn+하고/jct+,/sp
+
+동편에는
+	동편/ncn+에/jca+는/jxc
+
+큰
+	크/paa+ㄴ/etm
+
+능선을
+	능선/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+백무동
+	백무/ncn+동/ncn
+
+계곡이
+	계곡/ncn+이/jcc
+
+자리하고,
+	자리/ncn+하고/jct+,/sp
+
+서편에는
+	서편/ncn+에/jca+는/jxc
+
+남원군
+	남원군/ncn
+
+산내면과
+	산내면/ncn+과/jct
+
+접하고
+	접하/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+삼정산(1,413m)이
+	삼정산(1,413m)/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+지리산자연휴양림은
+	지리산자연휴양림/ncn+은/jxc
+
+대전통영간고속도로
+	대전통영간고속도/ncn+로/jca
+
+생초나들목에서
+	생초나들목/ncn+에서/jca
+
+31km,
+	31km,/ncn
+
+88고속도로
+	88고속도/ncn+로/jca
+
+지리산(인월)
+	지리산(인월)/ncn
+
+나들목에서
+	나들목/ncn+에서/jca
+
+20km
+	20km/ncn
+
+지점에
+	지점/ncn+에/jca
+
+위치하여
+	위치/ncpa+하/xsva+어/ecx
+
+고속도로에서
+	고속도로/ncn+에서/jca
+
+30분
+	30/nnc+분/nbu
+
+이내에
+	이내/ncn+에/jca
+
+도달할
+	도달/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+접근성이
+	접근/ncpa+성/ncn+이/jcc
+
+양호한
+	양호/ncn+한/ncn
+
+편이나,
+	편/nbn+이/jp+나/ef+,/sp
+
+대중교통
+	대중교통/ncn
+
+이용은
+	이용/ncpa+은/jxc
+
+다소
+	다소/mag
+
+어려운
+	어렵/paa+은/etm
+
+편이다
+	편/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+지리산자연휴양림의
+	지리산자연휴양림/ncn+의/jcm
+
+특징은
+	특징/ncn+은/jxc
+
+주변
+	주변/ncn
+
+임상이
+	임상/ncpa+이/jcc
+
+노거수에
+	노거수/ncn+에/jca
+
+해당하는
+	해당/ncpa+하/xsva+는/etm
+
+원시림이다
+	원시림/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+원시림
+	원시림/ncn
+
+속에
+	속/ncn+에/jca
+
+휴양림이
+	휴양림/ncn+이/jcc
+
+위치하여
+	위치/ncpa+하/xsva+어/ecx
+
+사계절이
+	사계절/ncn+이/jcc
+
+뚜렷하고,
+	뚜렷/ncps+하고/jct+,/sp
+
+높은
+	높/paa+은/etm
+
+해발고
+	해발/ncn+고/jcj
+
+차이에서
+	차이/ncn+에서/jca
+
+빚어낸
+	빚/pvg+어/ecx+내/px+ㄴ/etm
+
+다양함이
+	다양/ncn+함/ncn+이/jcc
+
+매일
+	매일/mag
+
+매시간
+	매시간/mag
+
+달리
+	달리/mag
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+봄철
+	봄철/ncn
+
+벽소령의
+	벽소령/ncn+의/jcm
+
+잔설
+	잔설/ncn
+
+아래
+	아래/ncn
+
+산벚나무
+	산벚나무/ncn
+
+꽃의
+	꽃/ncn+의/jcm
+
+아름다움과
+	아름다움/ncn+과/jcj
+
+고로쇠나무,
+	고로쇠나무,/ncn
+
+거제수나무
+	거제수나무/ncn
+
+수액을
+	수액/ncn+을/jco
+
+마실
+	마시/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+계곡에
+	계곡/ncn+에/jca
+
+흐르는
+	흐르/pvg+는/etm
+
+맑고
+	맑/paa+고/ecc
+
+차가운
+	차갑/paa+은/etm
+
+물은
+	물/ncn+은/jxc
+
+넉넉하여
+	넉넉/ncps+하/xsms+어/ecx
+
+여름철
+	여름철/ncn
+
+피서의
+	피서/ncn+의/jcm
+
+적지이며,
+	적지/ncn+이/jp+며/ecc+,/sp
+
+가을철
+	가을철/ncn
+
+지리산
+	지리/ncn+산/ncn
+
+계곡의
+	계곡/ncn+의/jcm
+
+단풍놀이와
+	단풍놀이/ncn+와/jcj
+
+지리산
+	지리/ncn+산/ncn
+
+주능선을
+	주능선/ncn+을/jco
+
+오를
+	오르/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+관광을
+	관광/ncpa+을/jco
+
+겸한
+	겸하/pvg+ㄴ/etm
+
+산악등반,
+	산악/ncn+등반/ncn+,/sp
+
+겨울철의
+	겨울철/ncn+의/jcm
+
+지리산
+	지리/ncn+산/ncn
+
+설경은
+	설경/ncn+은/jxc
+
+정서적인
+	정서/ncn+적/ncn+이/jp+ㄴ/etm
+
+안정과
+	안정/ncpa+과/jcj
+
+조용한
+	조용/ncn+한/ncn
+
+휴식공간을
+	휴식공간/ncn+을/jco
+
+제공해준다
+	제공/ncpa+하/xsva+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+지리산
+	지리/ncn+산/ncn
+
+국립공원
+	국립공원/ncn
+
+내
+	내/npp
+
+백무동,
+	백무/ncn+동/ncn+,/sp
+
+칠선계곡,
+	칠선계곡,/ncn
+
+벽소령
+	벽소령/ncn
+
+등산로가
+	등산로/ncn+가/jcs
+
+있으며,산청의
+	있으며,산청/ncn+의/jcm
+
+대원사,
+	대원사,/ncn
+
+하동의
+	하동/ncn+의/jcm
+
+쌍계사,
+	쌍계사/ncn+,/sp
+
+구례의
+	구례/ncn+의/jcm
+
+화엄사
+	화엄사/ncn
+
+및
+	및/maj
+
+온천장이
+	온천장/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+자연휴양림
+	자연/ncn+휴양림/ncn
+
+이용과
+	이용/ncpa+과/jct
+
+연계하여
+	연계/ncpa+하/xsva+어/ecx
+
+관광할
+	관광/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+코스로도
+	코스/ncn+로/jca+도/jxc
+
+제격이다
+	제격/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+관광
+	관광/ncpa
+
+db
+	db/f
+
+자세히
+	자세히/mag
+
+보기
+	보기/ncn

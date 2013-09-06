@@ -1,0 +1,447 @@
+위치:
+	위치/ncn+:/sp
+
+경북
+	경북/ncn
+
+경주시
+	경주시/ncn
+
+인왕동
+	인왕/ncn+동/ncn
+
+
+첨성대(국보31호)
+	첨성대(국보31호/ncn+)/sr
+
+
+신라
+	신/xp+라/ncn
+
+선덕여왕때
+	선덕/ncn+여왕/ncr+때/ncn
+
+세워진
+	세우/pvg+어/ecx+지/px+ㄴ/etm
+
+첨성대는
+	첨성대/ncn+는/jxc
+
+천문관측대로
+	천문/ncn+관측/ncpa+대로/jca
+
+동양에서
+	동양/ncn+에서/jca
+
+가장
+	가장/mag
+
+오래
+	오래/mag
+
+되고
+	되/pvg+고/ecc
+
+유일한
+	유일한/mag
+
+석조
+	석조/ncn
+
+구조물이에요
+	구조물/ncn+이/jp+에요/ef
+
+.
+	./sf
+
+
+화강암으로
+	화강암/ncn+으로/jca
+
+되어
+	되/pvg+어/ecx
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+규모는
+	규모/ncn+는/jxc
+
+높이
+	높이/mag
+
+9.
+	9./nnc
+
+17m,
+	17m,/ncn
+
+윗지름
+	윗지름/ncn
+
+3.
+	3./nnc
+
+1m,아랫지름이
+	1m,아랫지름/ncn+이/jcc
+
+5.
+	5./nnc
+
+17m,
+	17m,/ncn
+
+지대석
+	지대/ncn+석/ncn
+
+한
+	한/nnc
+
+변의
+	변/ncn+의/jcm
+
+길이가
+	길이/ncn+가/jcs
+
+5.
+	5./nnc
+
+35m이에요
+	35m이에요/ncn
+
+.
+	./sf
+
+
+이중으로
+	이중/ncn+으로/jca
+
+지어진
+	지/px+어/ecx+지/px+ㄴ/etm
+
+지대석과
+	지대/ncn+석/ncn+과/jcj
+
+기단은
+	기단/ncn+은/jxc
+
+네모
+	네모/ncn
+
+형태로
+	형태/ncn+로/jca
+
+8매와
+	8/nnc+매/nbu+와/jcj
+
+15매의
+	15/nnc+매/nbu+의/jcm
+
+장대석으로
+	장대/ncn+석/ncn+으로/jca
+
+되어
+	되/pvg+어/ecx
+
+있고,
+	있/px+고/ecc+,/sp
+
+그
+	그/mmd
+
+위에는
+	위/ncn+에/jca+는/jxc
+
+27단으로
+	27/nnc+단/nbu+으로/jca
+
+원통형의
+	원통형/ncn+의/jcm
+
+본체를
+	본체/ncn+를/jco
+
+쌓았는데,
+	쌓/pvg+아/ep+ㄴ데/ecs+,/sp
+
+밑은
+	밑/ncn+은/jxc
+
+넓고
+	넓/paa+고/ecc
+
+위로
+	위/ncn+로/jca
+
+갈수록
+	가/px+ㄹ수록/ecs
+
+좁아지다가
+	좁/paa+어/ecx+지/px+다가/ecs
+
+윗부분은
+	윗부분/ncn+은/jxc
+
+수직으로
+	수직/ncn+으로/jca
+
+되어
+	되/pvg+어/ecx
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+여기에
+	여기/npd+에/jca
+
+사용된
+	사용/ncpa+되/xsvn+ㄴ/etm
+
+석재
+	석재/ncn
+
+수는
+	수/nbn+는/jxc
+
+1년을
+	1/nnc+년/nbu+을/jco
+
+나타내는
+	나타내/pvg+는/etm
+
+365개이며,
+	365/nnc+개/nbu+이/jp+며/ecc+,/sp
+
+1단의
+	1/nnc+단/nbu+의/jcm
+
+높이는
+	높이/pvg+는/etm
+
+약30cm
+	약30cm/ncn
+
+이에요
+	이/npd+이/jp+에요/ef
+
+.
+	./sf
+
+
+정상에는
+	정상/ncn+에/jca+는/jxc
+
+우물
+	우물/ncn
+
+정(
+	정(/ncn
+
+)자
+	)/sr+자/nbn
+
+석이
+	석/ncn+이/jcc
+
+2단으로
+	2/nnc+단/nbu+으로/jca
+
+쌓여있는데
+	쌓이/pvg+어/ecx+있/px+는데/ecs
+
+이
+	이/mmd
+
+위에
+	위/ncn+에/jca
+
+어떤
+	어떤/mmd
+
+관측기를
+	관측/ncpa+기/ncn+를/jco
+
+놓았을
+	놓/px+아/ep+ㄹ/etm
+
+것이라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+추측되요
+	추측되요/ncn
+
+.
+	./sf
+
+
+24절기를
+	24절기/ncn+를/jco
+
+별을
+	별/ncn+을/jco
+
+통하여
+	통하/pvg+어/ecx
+
+측정하였고
+	측정/ncpa+하/xsva+었/ep+고/ecc
+
+이
+	이/mmd
+
+정(
+	정(/ncn
+
+)
+	)/sr
+
+자석이
+	자석/ncn+이/jcc
+
+신라
+	신/xp+라/ncn
+
+자오선의
+	자오선/ncn+의/jcm
+
+표준이
+	표준/ncn+이/jcc
+
+되었으며
+	되/pvg+었/ep+으며/ecc
+
+동서남북의
+	동서남북/ncn+의/jcm
+
+방위
+	방위/ncpa
+
+기준이
+	기준/ncpa+이/jcc
+
+되었다고도
+	되/pvg+었/ep+다/ef+고/jcr+도/jxc
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+현재
+	현재/mag
+
+동북쪽으로
+	동북쪽/ncn+으로/jca
+
+약간
+	약간/mag
+
+기울어져
+	기울/pvg+어/ecx+지/px+어/ecx
+
+보이나
+	보이/pvg+나/ecs
+
+석조부분만은
+	석조/ncn+부분/ncn+만은/jxc
+
+원형을
+	원형/ncn+을/jco
+
+그대로
+	그대로/mag
+
+간직하고
+	간직/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+매우
+	매우/mag
+
+보기
+	보/px+기/etn
+
+드문
+	드물/paa+ㄴ/etm
+
+유적으로,
+	유적/ncn+으로/jca+,/sp
+
+국보
+	국보/ncn
+
+제
+	저/npp+의/jcm
+
+31호로
+	31/nnc+호/nbu+로/jca
+
+지정되어
+	지정/ncpa+되/xsvn+어/ecx
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+동양에서
+	동양/ncn+에서/jca
+
+가장
+	가장/mag
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+천문대로
+	천문대/ncn+로/jca
+
+그
+	그/mmd
+
+가치가
+	가치/ncn+가/jcs
+
+높으며,
+	높/paa+으며/ecc+,/sp
+
+당시의
+	당시/ncn+의/jcm
+
+높은
+	높/paa+은/etm
+
+과학수준을
+	과학수준/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+문화재이에요
+	문화재/ncn+이/jp+에요/ef
+
+.
+	./sf
+
+
+첨성대
+	첨성대/ncn
+
+자세히보기
+	자세히보/ncn+이/jp+기/etn

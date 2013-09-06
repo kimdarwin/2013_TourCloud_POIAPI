@@ -1,0 +1,912 @@
+퇴근길
+	퇴근길/ncn
+
+.
+	./sf
+
+
+소주한잔이
+	소주/ncn+한잔/ncpa+이/jcc
+
+땡겨서
+	땡겨서/ncn
+
+연제예식장
+	연제예식장/ncn
+
+인근에
+	인근/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+어부의
+	어부/ncn+의/jcm
+
+잔치에
+	자/pvg+ㄴ/etm+치/nbn+에/jca
+
+갔었더랩니다
+	갔었더랩니/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+테이블들이
+	테이블/ncn+들/ncn+이/jcc
+
+이렇게
+	이렇/pad+게/ecs
+
+생겼지요
+	생기/pvg+었/ep+지/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+이곳
+	이곳/npd
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+벽면의
+	벽면/ncn+의/jcm
+
+그림들
+	그림/ncn+들/ncn
+
+..
+	./sf+./sf
+
+
+그냥
+	그냥/mag
+
+조용히
+	조용히/mag
+
+한잔씩
+	한잔씩/ncn
+
+하기에
+	하/pvg+기/etn+에/jca
+
+좋은
+	좋/paa+은/etm
+
+곳.
+	곳/ncn+./sf
+
+.
+	./sf
+
+
+결국
+	결국/mag
+
+3병의
+	3/nnc+병/nbu+의/jcm
+
+소주를
+	소주/ncn+를/jco
+
+비워버리는
+	비우/pvg+어/ecx+버리/px+는/etm
+
+.....
+	./sy+.../se+./sy
+
+..
+	./sf+./sf
+
+
+변함없는
+	변함/ncn+없/xsmn+는/etm
+
+기본안주들입니다
+	기본/ncn+안주/ncn+들/ncn+이/jp+ㅂ니다/ef
+
+.....
+	.../se+./sf+./sf
+
+
+그리고
+	그리고/maj
+
+갓
+	갓/mag
+
+튀겨나오는
+	튀기/pvg+어/ecx+나/px+아/ecx+오/px+는/etm
+
+고소한
+	고소/ncn+한/ncn
+
+카레맛이
+	카레/ncn+맛/ncn+이/jcc
+
+나는
+	나/npp+는/jxc
+
+감자고로케
+	감자고로케/ncn
+
+..
+	./sf+./sf
+
+
+제가
+	저/npp+가/jcs
+
+3개
+	3/nnc+개/nbu
+
+다
+	다/mag
+
+먹었군요
+	먹/pvg+었/ep+군/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+오늘도
+	오늘/ncn+도/jxc
+
+주방장
+	주방장/ncn
+
+마음대로
+	마음/ncn+대로/jca
+
+코스를
+	코스/ncn+를/jco
+
+시킵니다
+	시키/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+1인당
+	1인당/ncn
+
+3만원
+	3/nnc+만/nnc+원/nbu
+
+.
+	./sf
+
+
+2인으로
+	2/nnc+인/nbu+으로/jca
+
+시키구요
+	시키구요/ncn
+
+..
+	./sf+./sf
+
+
+사장님께서
+	사장님/ncn+께서/jcs
+
+오늘도
+	오늘/ncn+도/jxc
+
+연어가
+	연어/ncn+가/jcs
+
+좋다고
+	좋/paa+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+며칠전
+	며칠/ncn+전/ncn
+
+고등어가
+	고등어/ncn+가/jcs
+
+좋다고
+	좋/paa+다/ef+고/jcr
+
+할때
+	하/pvg+ㄹ/etm+때/nbn
+
+왔었어야
+	오/px+아/ep+아/ecs
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+연어는
+	연어/ncn+는/jxc
+
+저번에
+	저번/ncn+에/jca
+
+많이
+	많/paa+이/xsa
+
+먹었으므로
+	먹/pvg+었/ep+으므로/ecs
+
+오늘은
+	오늘/ncn+은/jxc
+
+다른
+	다르/paa+ㄴ/etm
+
+부위들을
+	부위/ncn+들/ncn+을/jco
+
+청해봅니다
+	청하/pvg+어/ecx+보/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+먼저
+	먼저/mag
+
+모듬사시미가
+	모듬사시미/ncn+가/jcs
+
+나옵니다
+	나/pvg+아/ecx+오/px+ㅂ니다/ef
+
+...
+	.../se
+
+
+좋은
+	좋/paa+은/etm
+
+관자살
+	관자/ncn+살/ncn
+
+..
+	./sf+./sf
+
+
+돔
+	돌/pvg+ㅁ/etn
+
+같기도
+	같/paa+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+방어같기도
+	방어/ncpa+같/xsmn+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+첫날
+	첫/nno+날/nbu
+
+이곳을
+	이곳/npd+을/jco
+
+방문했을때의
+	방문/ncpa+하/xsva+었/ep+을/etm+때/nbn+의/jcm
+
+그맛은
+	그맛/ncn+은/jxc
+
+안나더군요
+	안나더군요/ncn
+
+.
+	./sf
+
+
+회에서
+	회/ncn+에서/jca
+
+.
+	./sf
+
+
+쌈장이
+	쌈장/ncn+이/jcc
+
+그리웠던
+	그립/paa+었/ep+던/etm
+
+그래도
+	그래도/maj
+
+맛있는
+	맛있/paa+는/etm
+
+봄도다리
+	봄도다리/ncn
+
+세꼬시
+	세꼬시/ncn
+
+..
+	./sf+./sf
+
+
+정말
+	정말/mag
+
+연어가
+	연어/ncn+가/jcs
+
+좋긴
+	좋긴/ncn
+
+좋았나봅니다
+	좋았나봅니다/ncn
+
+...
+	.../se
+
+
+저
+	저/mmd
+
+3점의
+	3/nnc+점/nbu+의/jcm
+
+지방이
+	지방/ncn+이/jcc
+
+사르르
+	사르르/mag
+
+...
+	.../se
+
+
+하던것이
+	하/pvg+던/etm+것/nbn+이/jcc
+
+.
+	./sf
+
+
+그렇게
+	그렇/pad+게/ecs
+
+소주를
+	소주/ncn+를/jco
+
+비우고
+	비우/pvg+고/ecc
+
+있으니
+	있/px+으니/ecs
+
+...
+	.../se
+
+
+짜잔
+	짜잔/ncn
+
+..
+	./sf+./sf
+
+
+오늘의
+	오늘/ncn+의/jcm
+
+감동
+	감동/ncpa
+
+.
+	./sf
+
+
+고노와다+
+	고노와다+/ncn
+
+광어
+	광어/ncn
+
+일명
+	일/nnc+명/nbu
+
+고노와다
+	고노/ncn+와다/ncn
+
+히라메가
+	히라메/ncn+가/jcs
+
+나옵니다
+	나/pvg+아/ecx+오/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+근데
+	근데/ncn
+
+회색깔이
+	회색깔/ncn+이/jcc
+
+붉은것이
+	붉/paa+은/etm+것/nbn+이/jcc
+
+광어가
+	광어/ncn+가/jcs
+
+아닌듯
+	아니/paa+ㄴ/etm+듯/nbs
+
+하기도
+	하/pvg+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+여튼
+	여튼/ncn
+
+...!
+	.../se+!/sf
+
+
+회맛보담
+	회맛보담/ncn
+
+고노와다가
+	고노/ncn+와/jct+다가/jxc
+
+너무
+	너무/mag
+
+신선해서
+	신선/ncn+해/ncn+서/jca
+
+정말
+	정말/mag
+
+최근
+	최근/mag
+
+먹어본
+	먹/pvg+어/ecx+보/px+ㄴ/etm
+
+고노와다중
+	고노/ncn+와다/ncn+중/ncn
+
+최고로
+	최고/ncn+로/jca
+
+꼽을만큼
+	꼽/pvg+을/etm+만큼/nbn
+
+맛있더군요
+	맛있/paa+더군/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+모듬회에서
+	모듬회/ncn+에서/jca
+
+약간
+	약간/mag
+
+실망한
+	실망/ncpa+하/xsva+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+여기에서
+	여기/npd+에서/jca
+
+완전
+	완전/ncps
+
+기분
+	기분/ncn
+
+좋아집니다
+	좋/paa+아/ecx+지/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+생연어
+	생연어/ncn
+
+샐러드
+	샐러드/ncn
+
+...
+	.../se
+
+
+생이라
+	생/ncn+이/jp+라/ecs
+
+신선해서
+	신선/ncn+해서/ncn
+
+좋네요
+	좋/paa+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+직접
+	직접/mag
+
+튀긴듯한
+	튀기/pvg+ㄴ/etm+듯/nbs+하/xsms+ㄴ/etm
+
+치킨~
+	치킨/ncn+~/sd
+
+고소해요
+	고소/ncpa+하/xsva+어/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+근데
+	근데/ncn
+
+약간의
+	약간/ncn+의/jcm
+
+느끼함과
+	느끼함/ncn+과/jct
+
+함께
+	함께/mag
+
+...
+	.../se
+
+
+왠지
+	왠지/mag
+
+김치가
+	김치/ncn+가/jcs
+
+그리워서
+	그립/paa+어서/ecs
+
+부탁드렸더니
+	부탁드리/pvg+었/ep+더니/ecs
+
+.
+	./sf
+
+
+흔쾌히
+	흔쾌히/mag
+
+주시는데
+	주/px+시/ep+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+이거
+	이거/npd
+
+아주
+	아주/mag
+
+맛있네요
+	맛있/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+새콤달콤한것이
+	새콤달콤한것/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+살이
+	살/nbu+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+아구탕~
+	아구/ncn+탕/ncn+~/sd
+
+
+고노와다
+	고노/ncn+와다/ncn
+
+광어에
+	광어/ncn+에/jca
+
+너무
+	너무/mag
+
+열광하여
+	열광/ncpa+하/xsva+어/ecx
+
+소주를
+	소주/ncn+를/jco
+
+막
+	막/mag
+
+비우다보니
+	비우다보니/ncn
+
+순식간에
+	순식간/ncn+에/jca
+
+3병을
+	3/nnc+병/nbu+을/jco
+
+비운
+	비우/pvg+ㄴ/etm
+
+우리를
+	우리/npp+를/jco
+
+걱정하신
+	걱정/ncpa+하/xsva+시/ep+ㄴ/etm
+
+사장님께서
+	사장님/ncn+께서/jcs
+
+식사도
+	식사/ncpa+도/jxc
+
+보충하고
+	보충/ncpa+하고/jct
+
+먹으라고
+	먹/pvg+으라/ef+고/jcr
+
+주시던
+	주/px+시/ep+던/etm
+
+..
+	./sf+./sf
+
+
+김밥
+	김밥/ncn
+
+.
+	./sf
+
+
+근데
+	근데/ncn
+
+그
+	그/mmd
+
+김의
+	김/nbn+의/jcm
+
+고소함이란
+	고소/ncn+함/ncn+이란/jxc
+
+정말
+	정말/mag
+
+좋더라구요
+	좋/paa+더라구/ef+요/jxf
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+그리고
+	그리고/maj
+
+잘구운
+	잘구운/ncn
+
+고등어와
+	고등어/ncn+와/jcj
+
+연어가
+	연어/ncn+가/jcs
+
+나옵니다
+	나/pvg+아/ecx+오/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+정말
+	정말/mag
+
+구이
+	구/ncn+이/jcc
+
+하나는
+	하/pvg+어/ecx+나/px+는/etm
+
+생선의
+	생선/ncn+의/jcm
+
+종류와
+	종류/ncn+와/jct
+
+관계없이
+	관계없이/mag
+
+잘
+	잘/mag
+
+구워주시는
+	굽/pvg+어/ecx+주/px+시/ep+는/etm
+
+군요
+	군요/ncn
+
+..
+	./sf+./sf
+
+
+디저트로
+	디저트/ncn+로/jca
+
+바나나를
+	바나나/ncn+를/jco
+
+...
+	.../se
+
+
+간편하게
+	간편/ncps+하/xsms+게/ecs
+
+단품요리
+	단품/ncpa+요리/ncn
+
+..
+	./sf+./sf
+
+
+구이나
+	구/ncn+이나/jcj
+
+고노와다
+	고노/ncn+와다/ncn
+
+히라메를
+	히라메/ncn+를/jco
+
+다음엔
+	다음/ncn+엔/jca
+
+시켜서
+	시키/pvg+어서/ecs
+
+가볍게
+	가볍/paa+게/ecs
+
+소주한잔을
+	소주/ncn+한잔/ncpa+을/jco
+
+해야겠씁니다
+	해야겠씁니/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+많은것을
+	많/paa+은/etm+것/nbn+을/jco
+
+먹어보고자
+	먹/pvg+어/ecx+보/px+고자/ecs
+
+주방장
+	주방장/ncn
+
+마음대로
+	마음/ncn+대로/jca
+
+코스를
+	코스/ncn+를/jco
+
+시키지만
+	시키/pvg+지/ecx+말/px+ㄴ/etm
+
+다음날
+	다음날/ncn
+
+늘어난
+	늘/pvg+어/ecx+나/px+ㄴ/etm
+
+체중에
+	체중/ncn+에/jca
+
+항상
+	항상/mag
+
+후회를
+	후회/ncpa+를/jco
+
+하니깐요
+	하니깐요/ncn
+
+..
+	./sf+./sf
+
+
+조만간
+	조만간/mag
+
+또
+	또/maj
+
+어부의
+	어부/ncn+의/jcm
+
+잔치를
+	자/pvg+ㄴ/etm+치/nbn+를/jco
+
+들러봐야겠네요
+	들르/pvg+어/ecx+보/px+아/ep+네/ef+요/jxf
+
+..
+	./sf+./sf

@@ -1,0 +1,31 @@
+Title:
+9/15 장성 편백숲 산림욕 트레킹 후기
+
+Date:
+2012.09.16
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(559737,'files/attach/images/64/223/267/b9a1ab2682129ccaad035d6f4167f3ab.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/33b17952f273c3256100efe9a13bace1.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/5fc9daab44cf006ddeefc6683e9ecb30.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/82fed29c38ce1708bde8de35ab2e8a0b.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/c8f905ec839f7e308126d3e0d9d39f4e.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/d4d012f9eb2f5daac88bfd3f5a7a4355.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/23c3e7be6520944c499531edac341b98.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/241f15998342199f25e437c9842a195b.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/4396c92ce1a748ce794af97ef4008c8a.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/b232cc9dd4d736e857871520af864b24.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/239b605d918b7a00e6a33cfc44373a21.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/a7fb5d6f382dea12b094b67e8846b4f6.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/e7bb0b0f8a2490a284e75339b5fbad43.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/62fd9c24758d9b43c5c8b7119f050f66.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/f8de7ee7f618f91484e9ef001d47ded6.jpg');
+list_gallery_add_image(559737,'files/attach/images/64/223/267/c095d1f10193a67f4cabb50a2397c54b.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+9월 15일(토), 아름다운 여행으로 축령산 편백숲 트레킹에 다녀왔습니다.추석을 몇 주 앞두고 벌초를 하러 가는 차량이 많아서인지 고속도로는 이미 명절이 시작된 듯 합니다. 고속버스도 빽빽이 줄지어 가는 것이 벌초 탓도 있긴 하지만 슬슬 단풍 시즌이 돌아온 듯 하더군요. 
+그 탓에 평소보다 조금 늦게 장성 추암마을에 도착하였습니다. 요즈음 워낙 오락가락 하는 기상청 예보와 예측불허의 날씨 탓에 큰 비라도 내리면 어쩌나 걱정을 많이 했으나 다행히 비는 내리지 않고 걷기 좋을 만큼의 구름 낀 흐린 날씨였습니다.그리 덥지 않은 날씨 탓에 임종국 추모비가 있는 안내소까지의 오르막도 다른 때보다는 조금 수월하게 걸을 수 있었습니다.안내소를 지나서 부터는 모두들 각자 걷고 싶은 길을 선택하여 걷기도 하고 쉬기도 하는 자유로운 쉼의 시간을 보냈습니다. 숲길 안쪽으로 나무들이 쓰러져 짧게 통제된 길이 있기도 하였지만 깊은 편백숲의 기운을 느끼기엔 부족함이 없는 듯 했습니다. 금곡 영화마을 까지 오는 동안 곳곳에 부러지고 쓰러진 나무들이 가끔 눈에 뛰더군요. 긴 세월 큰 노고와 정성스러움으로 가꿔진 나무와 숲이 한 순간의 큰바람과 비로 무너졌다는 게 참 안타깝고 무섭다는 생각마저 들게 했습니다. 다시 한번 자연의 큰 힘을 생각하게 됩니다.
+숲을 걷는 사람들은 좀 많은 편이었지만 편백 숲속은 고요하고 한적한 모습 그대로였습니다. 자연은 항상 그대로인데 그곳을 의지하고 이용하는 사람들이 자연을 변화하게 하는 게 아닌가 하는 생각이 들더군요.장성 편백숲에서는 16일)일요일 하루 산악 자전거 대회가 열린다고 합니다. 걷기에 호젓하고 조용한, 치유의 숲이 자전거와 함께 하기엔 좀 위험스럽고 소란스럽지 않을까 하는 괜한 염려가 들기도 하네요.^^
+강력한 태풍이 한반도를 지난다고 합니다. 다음 편백숲을 찾았을 때 변치 않는 건강한 숲, 그대로의 모습을 볼 수 있길 기도해 봅니다.함께 하신 모든 회원 분들, 여행의 피로 잘 푸시고 태풍에 피해 없도록 각별히 주의하시길 바라겠습니다.
+이 게시물을...

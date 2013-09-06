@@ -1,0 +1,520 @@
+메뉴판
+	메뉴판/ncn
+
+.
+	./sf
+
+
+민트
+	민트/ncn
+
+글라스하우스덕에
+	글라스하우스덕/ncn+에/jca
+
+멋진
+	멋지/paa+ㄴ/etm
+
+풍광과
+	풍광/ncn+과/jct
+
+함께
+	함께/mag
+
+디너를
+	디너/ncn+를/jco
+
+즐길수
+	즐기/pvg+ㄹ/etm+수/nbn
+
+있어
+	있/px+어/ecx
+
+좋긴
+	좋긴/ncn
+
+하지만
+	하지만/maj
+
+위해한(
+	위해한(/ncn
+
+?)
+	?/sf+)/sr
+
+
+대
+	대/nbu
+
+자연이
+	자연/ncn+이/jcc
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+싶은
+	싶/px+은/etm
+
+생각
+	생각/ncpa
+
+.
+	./sf
+
+
+세금제외하고
+	세금/ncn+제외/ncpa+하고/jct
+
+7만원
+	7/nnc+만/nnc+원/nbu
+
+디너세트
+	디너/ncn+세트/ncn
+
+B
+	B/f
+
+
+세금
+	세금/ncn
+
+제외한
+	제외/ncpa+하/xsva+ㄴ/etm
+
+49000원인
+	49000/nnc+원/nbu+이/jp+ㄴ/etm
+
+디너세트
+	디너/ncn+세트/ncn
+
+B
+	B/f
+
+일단
+	일/nnc+단/nbu
+
+우리는
+	우리/npp+는/jxc
+
+디너세트
+	디너/ncn+세트/ncn
+
+B
+	B/f
+
+두개
+	두/nnc+개/nbu
+
+..
+	./sf+./sf
+
+
+와
+	와/ii
+
+
+세트이크
+	세트이크/ncn
+
+세트중
+	세트/ncn+중/ncn
+
+전복스테이크
+	전복스테이크/ncn
+
+세트와
+	세트/ncn+와/jcj
+
+햄버거
+	햄버거/ncn
+
+스테이크
+	스테이크/ncn
+
+세트를
+	세트/ncn+를/jco
+
+각각
+	각각/mag
+
+하나씩
+	하나씩/ncn
+
+시켰다
+	시키/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+점심코스는
+	점심/ncn+코스/ncn+는/jxc
+
+이보다
+	이/npd+보다/jca
+
+가격이
+	가격/ncn+이/jcc
+
+좀더
+	좀더/mag
+
+싸고
+	쓰/pvg+어/ef+고/jcr
+
+회종류도
+	회종류/ncn+도/jxc
+
+있다하여
+	있다하/ncn+이/jp+어/ecs
+
+런치코스
+	런치코스/ncn
+
+이용객이
+	이용객/ncn+이/jcc
+
+더
+	더/mag
+
+많다고
+	많/paa+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+기본세팅
+	기본/ncn+세팅/ncn
+
+.
+	./sf
+
+
+울엄니
+	울엄니/ncn
+
+환갑기념이니
+	환갑/ncn+기념/ncpa+이/jp+니/ecs
+
+이
+	이/mmd
+
+좋은날
+	좋은날/ncn
+
+술이
+	술/ncn+이/jcc
+
+빠질수
+	빠지/pvg+ㄹ/etm+수/nbn
+
+없어
+	없/paa+어/ecx
+
+와인도
+	와인/ncn+도/jxc
+
+한병
+	한/nnc+병/nbu
+
+.
+	./sf
+
+
+무통까데
+	무통까데/ncn
+
+쎙떼밀리옹
+	쎙떼밀리옹/ncn
+
+..
+	./sf+./sf
+
+
+7만7천원
+	7/nnc+만/nnc+7/nnc+천/nnc+원/nbu
+
+.
+	./sf
+
+
+음식을
+	음식/ncn+을/jco
+
+기다리며
+	기다리/pvg+며/ecc
+
+샐러드와
+	샐러드/ncn+와/jct
+
+함께
+	함께/mag
+
+가볍게
+	가볍/paa+게/ecs
+
+와인을
+	와인/ncn+을/jco
+
+한잔하고
+	한/nnc+잔/nbu+하고/jct
+
+있으니
+	있/px+으니/ecs
+
+서서히
+	서서히/mag
+
+민트의
+	민트/ncn+의/jcm
+
+밤이
+	밤/ncn+이/jcc
+
+아름다움이
+	아름다움/ncn+이/jcc
+
+나타나기
+	나타나/pvg+기/etn
+
+시작했다
+	시작/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+시시각각
+	시시각각/mag
+
+달라지는
+	다르/paa+아/ecx+지/px+는/etm
+
+조명들
+	조명/ncpa+들/ncn
+
+
+이젠
+	이젠/ncn
+
+창가쪽은
+	창가/ncn+쪽/ncn+은/jxc
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+다
+	다/mag
+
+채웠따
+	채웠따/ncn
+
+.
+	./sf
+
+
+젤
+	젤/ncn
+
+왼쪽
+	왼쪽/ncn
+
+사람들
+	사람들/ncn
+
+처럼
+	처럼/ncn
+
+창을
+	창/ncn+을/jco
+
+마주보며
+	마주/ncn+보/ncn+이/jp+며/ecc
+
+비오는
+	비/paa+오/ef+는/etm
+
+날
+	나/px+ㄹ/etm
+
+성산
+	성산/ncn
+
+일출봉을
+	일출/ncpa+봉/ncn+을/jco
+
+보며
+	보/px+며/ecc
+
+와인
+	와인/ncn
+
+한잔하면
+	한잔/ncpa+하/xsva+면/ecs
+
+맛날꺼같애
+	맛날꺼같애/ncn
+
+..
+	./sf+./sf
+
+
+우리쪽
+	우리/npp+쪽/xsnx
+
+말고
+	말/px+고/ecc
+
+디귿자로
+	디귿자/ncn+로/jca
+
+꺽인
+	꺽이/pvg+ㄴ/etm
+
+안쪽엔
+	알/pvg+ㄴ/etm+쪽/nbn+엔/jca
+
+좀더
+	좀더/mag
+
+긴
+	길/paa+ㄴ/etm
+
+단체석이
+	단체/ncn+석/ncn+이/jcc
+
+있다
+	있/paa+다/ef
+
+
+여긴
+	여기/pvg+ㄴ/etm
+
+화장실
+	화장실/ncn
+
+가는
+	가/pvg+는/etm
+
+길.
+	길/ncn+./sf
+
+.
+	./sf
+
+
+계산하며
+	계산/ncpa+하/xsva+며/ecc
+
+나오며
+	나/pvg+아/ecx+오/px+며/ecc
+
+한컷
+	한/nnc+컷/nbu
+
+.
+	./sf
+
+
+아
+	아/ii
+
+저옆에
+	저옆/ncn+에/jca
+
+그랜드피아노는
+	그랜드/ncn+피아노/ncn+는/jxc
+
+치는
+	치/pvg+는/etm
+
+사람도
+	사람/ncn+도/jxc
+
+없는데
+	없/paa+는데/ecs
+
+저절로
+	저절로/mag
+
+건반이
+	건반/ncn+이/jcc
+
+움직이는
+	움직이/pvg+는/etm
+
+귀신
+	귀/ncn+이/jp+시/ep+ㄴ/etm
+
+피아노였다~
+	피아노/ncn+이/jp+었/ep+다/ef+~/sd
+
+
+밤의
+	밤/ncn+의/jcm
+
+민트
+	민트/ncn
+
+글라스
+	글라스/ncn
+
+하우스
+	하우스/ncn
+
+...
+	.../se
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+달도
+	달/nbu+도/jxc
+
+떴네~
+	뜨/paa+었/ep+네/ef+~/sd
+
+
+추워서
+	춥/paa+어서/ecs
+
+많은
+	많/paa+은/etm
+
+사진을
+	사진/ncn+을/jco
+
+담진
+	담진/ncn
+
+못했지만
+	못하/px+었/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+밤의
+	밤/ncn+의/jcm
+
+민트
+	민트/ncn
+
+글라스
+	글라스/ncn
+
+하우스는
+	하우스/ncn+는/jxc
+
+또다른
+	또다른/mma
+
+묘미를
+	묘미/ncn+를/jco
+
+보여주었다
+	보여주/pvg+었/ep+다/ef

@@ -1,0 +1,1358 @@
+//
+	//sp+//sp
+
+이미지갤러리에
+	이미지갤러리/ncn+에/jca
+
+보여줄
+	보이/pvg+어/ecx+주/px+ㄹ/etm
+
+이미지
+	이미지/ncn
+
+등록
+	등록/ncpa
+
+
+list_gallery_add_image(398350,'files/attach/images/228818/299/169/9744ef000315c23c8b42ed101a4f6bad.
+	list_gallery_add_image(398350,'files/attach/images/228818/299/169/9744ef000315c23c8b42ed101a4f6bad./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(398350,'files/attach/images/228818/299/169/7e3444fd69429bc8697923bdd7cec34c.
+	list_gallery_add_image(398350,'files/attach/images/228818/299/169/7e3444fd69429bc8697923bdd7cec34c./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(398350,'files/attach/images/228818/299/169/d6afc21da7bf361a63a56c4b89359189
+	list_gallery_add_image(398350,'files/attach/images/228818/299/169/d6afc21da7bf361a63a56c4b89359189/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(398350,'files/attach/images/228818/299/169/4c1b8f2750efcf50faab741975d20ba3
+	list_gallery_add_image(398350,'files/attach/images/228818/299/169/4c1b8f2750efcf50faab741975d20ba3/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(398350,'files/attach/images/228818/299/169/6c50460dd1f0fea5b03b27a37353d98a.
+	list_gallery_add_image(398350,'files/attach/images/228818/299/169/6c50460dd1f0fea5b03b27a37353d98a./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(398350,'files/attach/images/228818/299/169/d64b640defb1d43e9489f6cdb3adda2f.
+	list_gallery_add_image(398350,'files/attach/images/228818/299/169/d64b640defb1d43e9489f6cdb3adda2f./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(398350,'files/attach/images/228818/299/169/f8067bf7846bb0f14806a1c83da4820e.
+	list_gallery_add_image(398350,'files/attach/images/228818/299/169/f8067bf7846bb0f14806a1c83da4820e./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(398350,'files/attach/images/228818/299/169/47ec3176a78cc5f8790f2868d60f3023
+	list_gallery_add_image(398350,'files/attach/images/228818/299/169/47ec3176a78cc5f8790f2868d60f3023/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(398350,'files/attach/images/228818/299/169/1eb4a7189dc0aa9ca00db5d53d771c57
+	list_gallery_add_image(398350,'files/attach/images/228818/299/169/1eb4a7189dc0aa9ca00db5d53d771c57/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(398350,'files/attach/images/228818/299/169/d0191aa7274bcd7a7964f674c6f85ad3
+	list_gallery_add_image(398350,'files/attach/images/228818/299/169/d0191aa7274bcd7a7964f674c6f85ad3/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(398350,'files/attach/images/228818/299/169/c7f93a5d6f14046ec14c9e11fd111999
+	list_gallery_add_image(398350,'files/attach/images/228818/299/169/c7f93a5d6f14046ec14c9e11fd111999/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(398350,'files/attach/images/228818/299/169/cd7626bb6d9ecc4a6137e10c6bfaf5a2
+	list_gallery_add_image(398350,'files/attach/images/228818/299/169/cd7626bb6d9ecc4a6137e10c6bfaf5a2/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(398350,'files/attach/images/228818/299/169/81e86766815003f609d11b43970f7f73
+	list_gallery_add_image(398350,'files/attach/images/228818/299/169/81e86766815003f609d11b43970f7f73/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+//
+	//sp+//sp
+
+window.
+	window/f+./sy
+
+onLoad
+	onLoad/f
+
+이벤트
+	이벤트/ncn
+
+후에
+	후/ncn+에/jca
+
+이미지갤러리
+	이미지갤러리/ncn
+
+시작
+	시작/ncpa
+
+
+xAddEventListener(window,'load',start_list_gallery);
+	xAddEventListener(window,'load',start_list_gallery/ncn+)/sr+;/sy
+
+
+8월
+	8/nnc+월/nbu
+
+13일(토)~14일(일),
+	13일(토)~14일(일),/ncn
+
+아름다운
+	아름답/paa+은/etm
+
+여행으로
+	여행/ncpa+으로/jca
+
+1박2일
+	1박2/ncn+이/jp+ㄹ/etm
+
+덕구계곡과
+	덕구/ncn+계곡/ncn+과/jcj
+
+보경사계곡
+	보경사계곡/ncn
+
+트레킹을
+	트레킹/ncn+을/jco
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+울진의
+	울진/ncn+의/jcm
+
+덕구계곡이나
+	덕구/ncn+계곡/ncn+이나/jcj
+
+포항의
+	포항/ncn+의/jcm
+
+보경사계곡은
+	보경사계곡/ncn+은/jxc
+
+손꼽히는
+	손꼽히/pvg+는/etm
+
+멋진
+	멋지/paa+ㄴ/etm
+
+계곡이지만
+	계곡/ncn+이/jp+지만/ecs
+
+서울에서는
+	서울에서/ncn+는/jxc
+
+쉽게
+	쉽/paa+게/ecs
+
+가기
+	가/px+기/etn
+
+힘든
+	힘들/pvg+ㄴ/etm
+
+계곡입니다
+	계곡/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+여행을
+	여행/ncpa+을/jco
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+사람에게는
+	사람/ncn+에게/jca+는/jxc
+
+놓치기
+	놓치/pvg+기/etn
+
+아까운
+	아깝/paa+은/etm
+
+아름다운
+	아름답/paa+은/etm
+
+계곡들입니다
+	계곡/ncn+들/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+여름
+	여름/ncn
+
+휴가철
+	휴가철/ncn
+
+연휴를
+	연휴/ncn+를/jco
+
+맞아
+	맞/pvg+아/ecx
+
+1박2일로
+	1박2일로/ncn
+
+이
+	이/mmd
+
+두
+	두/nnc
+
+계곡
+	계곡/ncn
+
+트레킹을
+	트레킹/ncn+을/jco
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+출발하던
+	출발/ncpa+하/xsva+던/etm
+
+토요일
+	토요일/ncn
+
+아침은
+	아침/ncn+은/jxc
+
+고속도로가
+	고속도로/ncn+가/jcs
+
+많이
+	많/paa+이/xsa
+
+막혔습니다
+	막히/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+평소보다
+	평소/ncn+보다/jca
+
+1시간
+	1/nnc+시간/nbu
+
+정도
+	정도/ncn
+
+지체되었던
+	지체/ncn+되/xsvn+었/ep+던/etm
+
+것
+	것/nbn
+
+같네요
+	같/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+먼저
+	먼저/mag
+
+삼척으로
+	삼/nnc+척/nbu+으로/jca
+
+이동해
+	이동/ncn+해/ncn
+
+생선모듬찜으로
+	생선모듬찜/ncn+으로/jca
+
+점심을
+	점심/ncn+을/jco
+
+먹고,
+	먹/pvg+고/ecc+,/sp
+
+덕구계곡으로
+	덕구/ncn+계곡/ncn+으로/jca
+
+이동해
+	이동/ncn+해/ncn
+
+트레킹을
+	트레킹/ncn+을/jco
+
+시작했습니다
+	시작/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+덕구계곡은
+	덕구/ncn+계곡/ncn+은/jxc
+
+응봉산의
+	응봉산/ncn+의/jcm
+
+동쪽
+	동쪽/ncn
+
+계곡으로
+	계곡/ncn+으로/jca
+
+아기자기한
+	아기자기/ncn+한/ncn
+
+계곡미가
+	계곡/ncn+미/ncn+가/jcs
+
+돋보이는
+	돋보이/pvg+는/etm
+
+계곡입니다
+	계곡/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+트레킹은
+	트레킹/ncn+은/jxc
+
+덕구온천에서
+	덕구/ncn+온천/ncn+에서/jca
+
+시작해
+	시작/ncpa+하/xsva+어/ecx
+
+덕구계곡을
+	덕구/ncn+계곡/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+원탕까지
+	원탕/ncn+까지/jxc
+
+다녀오는
+	다니/pvg+어/ecx+오/px+는/etm
+
+코스로
+	코스/ncn+로/jca
+
+잡았습니다
+	잡/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+덕구계곡에서
+	덕구/ncn+계곡/ncn+에서/jca
+
+원탕까지는
+	원탕까지/ncn+는/jxc
+
+약
+	약/ncn
+
+4km로
+	4km/ncn+로/jca
+
+왕복
+	왕복/ncpa
+
+8km의
+	8km/ncn+의/jcm
+
+트레킹이지만,
+	트레킹이지만,/ncn
+
+경사
+	경사/ncr
+
+구간이
+	구간/ncn+이/jcc
+
+적어
+	적/pvg+어/ecx
+
+그리
+	그리/mad
+
+힘들지는
+	힘들/pvg+ㄹ지/ecs+는/jxc
+
+않은
+	않/px+은/etm
+
+코스입니다
+	코스/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+계곡의
+	계곡/ncn+의/jcm
+
+중간에는
+	중간/ncn+에/jca+는/jxc
+
+용소폭포라는
+	용소/ncn+폭포/ncn+라는/jcm
+
+비경이
+	비경/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+거대한
+	거대/ncps+하/xsms+ㄴ/etm
+
+바위를
+	바위/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+흐르는
+	흐르/pvg+는/etm
+
+계류가
+	계류/ncpa+가/jcc
+
+바위를
+	바위/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+휘어지며
+	휘/pvg+어/ecx+지/px+며/ecc
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+멋진
+	멋지/paa+ㄴ/etm
+
+풍경입니다
+	풍경/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+용소폭포에서
+	용소/ncn+폭포/ncn+에서/jca
+
+넉넉하게
+	넉넉/ncps+하/xsms+게/ecs
+
+쉬고
+	쉬/pvg+고/ecc
+
+목적지인
+	목적지/ncn+이/jp+ㄴ/etm
+
+원탕으로
+	원탕/ncn+으로/jca
+
+올랐습니다
+	오르/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+원탕은
+	원탕/ncn+은/jxc
+
+덕구온천의
+	덕구/ncn+온천/ncn+의/jcm
+
+온천샘이
+	온천/ncn+샘/ncn+이/jcc
+
+솓아나오는
+	솓아나오/ncn+는/jxc
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+혼천수가
+	혼천수/ncn+가/jcs
+
+힘차게
+	힘차/paa+게/ecs
+
+솟아나오는
+	솟/pvg+아/ecx+나/px+아/ecx+오/px+는/etm
+
+광경을
+	광경/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있고,
+	있/px+고/ecc+,/sp
+
+그
+	그/mmd
+
+온천수로
+	온천수/ncn+로/jca
+
+족욕을
+	족욕/ncn+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있게
+	있/px+게/ecs
+
+족욕탕도
+	족욕탕/ncn+도/jxc
+
+만들어
+	만들/pvg+어/ecx
+
+놓았습니다
+	놓/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+계곡의
+	계곡/ncn+의/jcm
+
+풍경도
+	풍경/ncn+도/jxc
+
+아늑해서
+	아늑/ncps+해서/ncn
+
+계곡에
+	계곡/ncn+에/jca
+
+발을
+	발/ncn+을/jco
+
+담그고
+	담그/pvg+고/ecc
+
+쉬기에도
+	쉬/pvg+기/etn+에/jca+도/jxc
+
+그만이죠
+	그만이/paa+죠/ef
+
+.
+	./sf
+
+
+원탕
+	원탕/ncn
+
+주변에서
+	주변/ncn+에서/jca
+
+여유로운
+	여유/ncn+로운/ncn
+
+시간을
+	시간/ncn+을/jco
+
+보냈던
+	보내/pvg+었/ep+던/etm
+
+것
+	것/nbn
+
+같네요
+	같/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+덕구계곡
+	덕구/ncn+계곡/ncn
+
+트레킹을
+	트레킹/ncn+을/jco
+
+마치고
+	마치/pvg+고/ecc
+
+백암온천의
+	백암온천/ncn+의/jcm
+
+숙소로
+	숙소/ncn+로/jca
+
+이동해
+	이동/ncn+해/ncn
+
+자유롭게
+	자유/ncn+롭/xsmn+게/ecs
+
+저녁식사를
+	저녁식사/ncpa+를/jco
+
+하고
+	하/pvg+고/ecc
+
+첫날
+	첫/nno+날/nbu
+
+일정을
+	일정/ncn+을/jco
+
+마쳤습니다
+	마치/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+둘째날은
+	둘째/nno+날/nbu+은/jxc
+
+숙소에서
+	숙소/ncn+에서/jca
+
+아침을
+	아침/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+울진
+	울진/ncn
+
+후포항
+	후포항/ncn
+
+뒤에
+	뒤/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+갓바위를
+	갓바위/ncn+를/jco
+
+먼저
+	먼저/mag
+
+돌아보았습니다
+	돌/pvg+아/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+갓바위는
+	갓바위/ncn+는/jxc
+
+해안가
+	해안/ncn+가/jcs
+
+바다에
+	바다/ncn+에/jca
+
+솟아
+	솟/pvg+아/ecx
+
+있는
+	있/px+는/etm
+
+바위로,
+	바위/ncn+로/jca+,/sp
+
+갓바위까지
+	갓바위까지/ncn
+
+길을
+	길/ncn+을/jco
+
+연결해
+	연결/ncpa+하/xsva+어/ecx
+
+바위에
+	바위/ncn+에/jca
+
+오를
+	오르/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+바위
+	바위/ncn
+
+맞은편
+	맞은편/ncn
+
+언덕
+	언덕/ncn
+
+위에는
+	위/ncn+에/jca+는/jxc
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+전망대를
+	전망대/ncn+를/jco
+
+만들어,
+	만들/pvg+어/ecs+,/sp
+
+이
+	이/mmd
+
+전망대에서
+	전망대/ncn+에서/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+바다
+	바/nbn+이/jp+다/ef
+
+풍경이
+	풍경/ncn+이/jcc
+
+아주
+	아주/mag
+
+시원합니다
+	시원/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+갓바위
+	갓바위/ncn
+
+전망대를
+	전망대/ncn+를/jco
+
+한
+	하/pvg+ㄴ/etm
+
+바퀴
+	바퀴/nbu
+
+돌아
+	돌/pvg+아/ecx
+
+바다
+	바다/ncn
+
+위의
+	위/ncn+의/jcm
+
+갓바위까지
+	갓바위까/ncn+이/jp+지/ecs
+
+가벼운
+	가볍/paa+은/etm
+
+산책을
+	산책/ncpa+을/jco
+
+즐기고
+	즐기/pvg+고/ecc
+
+보경사계곡으로
+	보경사계곡/ncn+으로/jca
+
+향했습니다
+	향하/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+보경사계곡은
+	보경사계곡/ncn+은/jxc
+
+포항
+	포항/ncn
+
+내연산의
+	내연/ncpa+산/ncn+의/jcm
+
+계곡으로
+	계곡/ncn+으로/jca
+
+폭포가
+	폭포/ncn+가/jcs
+
+많기로
+	많/paa+기/etn+로/jca
+
+유명합니다
+	유명/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+등산로를
+	등산로/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+무려
+	무려/mag
+
+열두
+	열/nnc+두/nnc
+
+개의
+	개/nbu+의/jcm
+
+폭포가
+	폭포/ncn+가/jcs
+
+있다고
+	있/px+다/ef+고/jcr
+
+하는데,
+	하/pvg+ㄴ데/ecs+,/sp
+
+이
+	이/mmd
+
+중에는
+	중/nbn+에/jca+는/jxc
+
+보기
+	보/px+기/etn
+
+힘든
+	힘들/pvg+ㄴ/etm
+
+폭포도
+	폭포/ncn+도/jxc
+
+있고
+	있/px+고/ecc
+
+또
+	또/maj
+
+폭포라기엔
+	폭포/ncn+이/jp+라기/etn+엔/jca
+
+좀
+	좀/mag
+
+간지러운
+	간지러운/ncn
+
+폭포도
+	폭포/ncn+도/jxc
+
+있는
+	있/px+는/etm
+
+것
+	것/nbn
+
+같네요
+	같/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+저희는
+	저희/npp+는/jxc
+
+보경사에서
+	보경사/ncn+에서/jca
+
+출발해
+	출발/ncpa+하/xsva+어/ecx
+
+연산폭포까지
+	연산/ncn+폭포/ncn+까지/jxc
+
+약
+	약/ncn
+
+3km를
+	3km/ncn+를/jco
+
+왕복하는
+	왕복/ncpa+하/xsva+는/etm
+
+코스를
+	코스/ncn+를/jco
+
+잡았습니다
+	잡/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+왕복
+	왕복/ncpa
+
+6km로
+	6km/ncn+로/jca
+
+그리
+	그리/mad
+
+긴
+	길/paa+ㄴ/etm
+
+코스가
+	코스/ncn+가/jcs
+
+아니었지만
+	아니/paa+었/ep+지만/ecs
+
+날이
+	날/ncn+이/jcc
+
+더워서인지
+	더워서/ncn+이/jp+ㄴ지/ecs
+
+좀
+	좀/mag
+
+힘들게
+	힘들/pvg+게/ecs
+
+느껴지더군요
+	느끼/pvg+어/ecx+지/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+코스에는
+	코스/ncn+에/jca+는/jxc
+
+상쾌한
+	상쾌/ncps+하/xsms+ㄴ/etm
+
+쌍폭인
+	쌍폭/ncn+이/jp+ㄴ/etm
+
+상생폭포가
+	상생/ncpa+폭포/ncn+가/jcs
+
+있고,
+	있/px+고/ecc+,/sp
+
+거대한
+	거대/ncps+하/xsms+ㄴ/etm
+
+바위가
+	바위/ncn+가/jcs
+
+일품인
+	일품/ncn+이/jp+ㄴ/etm
+
+관음폭포와
+	관음폭포/ncn+와/jct
+
+장쾌한
+	장쾌/ncps+하/xsms+ㄴ/etm
+
+폭포수가
+	폭포수/ncn+가/jcs
+
+일품인
+	일품/ncn+이/jp+ㄴ/etm
+
+연산폭포도
+	연산/ncn+폭포/ncn+도/jxc
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+폭포마다
+	폭포/ncn+마다/jxc
+
+개성이
+	개성/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+폭포
+	폭포/ncn
+
+앞에서
+	앞/ncn+에서/jca
+
+한참씩을
+	한참씩/ncn+을/jco
+
+머물게
+	머물/pvg+게/ecs
+
+되더군요
+	되/pvg+더군/ef+요/jxf
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+연산폭포와
+	연산/ncn+폭포/ncn+와/jcj
+
+관음폭포는
+	관음폭포는/ncn
+
+다른
+	다른/mma
+
+곳에서
+	곳/ncn+에서/jca
+
+쉽게
+	쉽/paa+게/ecs
+
+보기
+	보/px+기/etn
+
+힘든
+	힘들/pvg+ㄴ/etm
+
+멋진
+	멋지/paa+ㄴ/etm
+
+폭포였습니다
+	폭포/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+보경사계곡
+	보경사계곡/ncn
+
+트레킹을
+	트레킹/ncn+을/jco
+
+마친
+	마치/pvg+ㄴ/etm
+
+후
+	후/ncn
+
+자유롭게
+	자유/ncn+롭/xsmn+게/ecs
+
+점심을
+	점심/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+서울로
+	서울/ncn+로/jca
+
+돌아왔습니다
+	돌/pvg+아/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여행은
+	여행/ncpa+은/jxc
+
+워낙
+	워낙/mag
+
+멀리
+	멀리/mag
+
+떠난
+	떠나/pvg+ㄴ/etm
+
+여행이었고
+	여행/ncpa+이/jp+었/ep+고/ecc
+
+또
+	또/maj
+
+연휴여서
+	연휴/ncn+이/jp+어서/ecs
+
+올라오는데
+	오르/pvg+아/ecx+오/px+ㄴ데/ecs
+
+꽤
+	꽤/mag
+
+시간이
+	시간/ncn+이/jcc
+
+걸렸지만
+	걸리/pvg+었/ep+지만/ecs
+
+다행히
+	다행히/mag
+
+큰
+	크/paa+ㄴ/etm
+
+정체는
+	정체/ncn+는/jxc
+
+피할
+	피하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여행에
+	여행/ncpa+에/jca
+
+참여하신
+	참여/ncpa+하/xsva+시/ep+ㄴ/etm
+
+분들에게
+	불/pvg+ㄴ/etm+들/nbn+에게/jca
+
+아기자기했던
+	아기자기/ncps+하/xsms+었/ep+던/etm
+
+덕구계곡과
+	덕구/ncn+계곡/ncn+과/jct
+
+멋진
+	멋지/paa+ㄴ/etm
+
+보경사계곡
+	보경사계곡/ncn
+
+트레킹은
+	트레킹/ncn+은/jxc
+
+아마
+	아마/mag
+
+오래도록
+	오래도록/mag
+
+기억에
+	기억/nnc+에/jca
+
+남지
+	남/pvg+지/ecx
+
+않을까
+	않/px+을까/ef
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+광복절
+	광복절/ncn
+
+휴일
+	휴일/ncn
+
+잘
+	잘/mag
+
+보내시고
+	보내/pvg+시/ep+고/ecc
+
+활기찬
+	활기차/paa+ㄴ/etm
+
+일상을
+	일상/ncn+을/jco
+
+맞으시기
+	맞/pvg+으시/ep+기/etn
+
+바랍니다
+	바라/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+게시물을
+	게시/ncpa+물/ncn+을/jco
+
+...
+	.../se

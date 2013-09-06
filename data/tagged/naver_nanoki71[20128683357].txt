@@ -1,0 +1,402 @@
+율이
+	율/ncn+이/jcc
+
+가족과
+	가족/ncn+과/jct
+
+함께
+	함께/mag
+
+야외로
+	야외/ncn+로/jca
+
+소풍다녀왔다
+	소풍다녀왔다/ncn
+
+..
+	./sf+./sf
+
+
+미사리의
+	미사리/ncn+의/jcm
+
+'밀빛
+	'밀빛/ncn
+
+본점'
+	본점/ncn+'/sr
+
+
+미사리는
+	미사리/ncn+는/jxc
+
+아주
+	아주/mag
+
+옛날에
+	옛날/ncn+에/jca
+
+한번
+	한/nnc+번/nbu
+
+가보고,
+	가/pvg+아/ecx+보/px+고/ecc+,/sp
+
+정말
+	정말/mag
+
+간만에
+	간만/ncn+에/jca
+
+와본다
+	오/pvg+아/ecx+보/px+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+라이브카페만
+	라이브/ncn+카페/ncn+만/jxc
+
+있는줄
+	있/px+는/etm+줄/nbn
+
+알았더니
+	알/pvg+아/ep+니/ef
+
+..
+	./sf+./sf
+
+
+요런
+	요런/ii
+
+맛있는
+	맛있/paa+는/etm
+
+맛집도
+	맛집/ncn+도/jxc
+
+있었네
+	있/px+었/ep+네/ef
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+닭고기,백김치
+	닭고기,백김치/ncn
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+육수의
+	육수/ncn+의/jcm
+
+초계국수
+	초계/ncpa+국수/ncn
+
+(6,000원)
+	(/sl+6,000/nnc+원/nbu+)/sr
+
+
+닭고기,
+	닭고기/ncn+,/sp
+
+들깨국물과
+	들깨/ncn+국물/ncn+과/jcj
+
+도토리로
+	도토리/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+면발의
+	면발/ncn+의/jcm
+
+닭칼국수
+	닭칼국수/ncn
+
+(6,000원)
+	(/sl+6,000/nnc+원/nbu+)/sr
+
+
+따끈따근
+	따끈따근/ncn
+
+도토리전병
+	도토리/ncn+전병/ncn
+
+8,000원
+	8,000/nnc+원/nbu
+
+
+~~셋이
+	~/sd+~/sd+셋/nnc+이/jcc
+
+먹다
+	먹/pvg+다/ef
+
+양
+	양/ncn
+
+약간
+	약간/mag
+
+부족해서
+	부족/ncn+해서/ncn
+
+초계국수
+	초계/ncpa+국수/ncn
+
+사리
+	사/nnc+리/nbu
+
+추가
+	추/ncn+가/jcs
+
+1,000원
+	1,000/nnc+원/nbu
+
+
+여기
+	여기/mad
+
+초계국수는
+	초계/ncpa+국수/ncn+는/jxc
+
+너무
+	너무/mag
+
+맛있었다
+	맛있/paa+었/ep+다/ef
+
+...
+	.../se
+
+
+닭칼국수는
+	닭칼국수/ncn+는/jxc
+
+들깨국물이어서
+	들깨/ncn+국물/ncn+이/jp+어서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+너무
+	너무/mag
+
+고소하고~~~
+	고소/ncn+하고/jcj+~/sd+~/sd+~/sd
+
+
+먹고나니
+	먹/pvg+고/ecx+나/px+니/ecs
+
+...
+	.../se
+
+
+자꾸만
+	자꾸/mag+만/jxc
+
+생각나는
+	생각나/pvg+는/etm
+
+초계국수
+	초계/ncpa+국수/ncn
+
+..
+	./sf+./sf
+
+
+여기
+	여기/mad
+
+종로지점도
+	종로지점/ncn+도/jxc
+
+있던데
+	있/px+던/etm+데/nbn
+
+..
+	./sf+./sf
+
+
+나중엔
+	나중/ncn+엔/jca
+
+종로가서
+	종로가서/ncn
+
+먹어야지
+	먹/pvg+어야지/ef
+
+...
+	.../se
+
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+또
+	또/maj
+
+먹고싶어~~~~~
+	먹/pvg+고/ecx+싶/px+어/ecs+~/sd+~/sd+~/sd+~/sd+~/sd
+
+
+미사리에서
+	미사리/ncn+에서/jca
+
+날씨도
+	날씨/ncn+도/jxc
+
+너무
+	너무/mag
+
+좋고~이왕나온김에
+	좋고~이왕나온김/ncn+에/jca
+
+여주로
+	여주/ncn+로/jca
+
+고고씽~여주
+	고고씽~여주/ncn
+
+프리미엄아울렛에서
+	프리미엄아울렛/ncn+에서/jca
+
+아이쇼핑~~
+	아이/ncn+쇼핑/ncpa+~/sd+~/sd
+
+
+쇼핑을
+	쇼핑/ncpa+을/jco
+
+하기보다는
+	하/pvg+기/etn+보다/jca+는/jxc
+
+눈이
+	눈/ncn+이/jcc
+
+호강한
+	호강/ncpa+하/xsva+ㄴ/etm
+
+날.
+	날/ncn+./sf
+
+..
+	./sf+./sf
+
+
+20110518
+	20110518/nnc
+
+
+~~LX3로
+	~~LX3/ncn+로/jca
+
+찍은
+	찍/pvg+은/etm
+
+마지막
+	마지막/ncn
+
+사진들
+	사/pvg+아/ecx+지/px+ㄴ들/ecs
+
+....
+	.../se+./sf
+
+
+내일
+	내/npp+이/jp+ㄹ/etm
+
+..
+	./sf+./sf
+
+
+아니
+	아니/ii
+
+오늘이
+	오늘/ncn+이/jcc
+
+되겠구나
+	되/pvg+겠/ep+구나/ef
+
+..
+	./sf+./sf
+
+
+LX3를
+	LX3/ncn+를/jco
+
+오늘
+	오늘/ncn
+
+입양보내기로
+	입양/ncpa+보/ncn+내/xsncc+이/jp+기/etn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+그동안
+	그동안/ncn
+
+2년여의
+	2/nnc+년여/nbu+의/jcm
+
+기간동안
+	기간/ncn+동안/ncn
+
+나와
+	나/npp+와/jct
+
+함께
+	함께/mag
+
+여행을
+	여행/ncpa+을/jco
+
+해온
+	하/pvg+어/ecx+오/px+ㄴ/etm
+
+디카인데
+	디카/ncn+이/jp+ㄴ데/ecs
+
+...
+	.../se
+
+
+헤어지려니
+	헤어지/pvg+려니/ecs
+
+아쉽네~~~^^;
+	아쉽/paa+네/ef+~/sd+~/sd+~/sd+^/sy+^/sy+;/sy

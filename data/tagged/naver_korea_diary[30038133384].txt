@@ -1,0 +1,1321 @@
+식도락
+	식도락/ncn
+
+여행~전국
+	여행/ncpa+~/sd+전국/ncn
+
+비빔밥
+	비빔밥/ncn
+
+편
+	편/nbn
+
+
+집에서
+	집/ncn+에서/jca
+
+밥해먹기
+	밥해먹기/ncn
+
+귀찮을
+	귀찮/paa+을/etm
+
+때
+	때/ncn
+
+있잖아요그럴
+	있잖아요그럴/ncn
+
+땐
+	때/pvg+ㄴ/etm
+
+비빔밥이
+	비빔밥/ncn+이/jcc
+
+최고인거
+	최고인거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+밥
+	밥/ncn
+
+넣고,
+	넣/pvg+고/ecc+,/sp
+
+반찬들
+	반찬/ncn+들/ncn
+
+털어넣고,
+	털어넣고,/ncn
+
+고추장
+	고추장/ncn
+
+넣어
+	넣/pvg+어/ecx
+
+비벼먹으면또
+	비벼먹으면또/ncn
+
+그맛이
+	그맛/ncn+이/jcc
+
+천하일품이죠
+	천하일품/ncn+이/jp+죠/ef
+
+
+이러니
+	이러니/ncn
+
+전국
+	전국/ncn
+
+각지의
+	각지/ncn+의/jcm
+
+유명한
+	유명/ncn+한/ncn
+
+비빔밥
+	비빔밥/ncn
+
+탐방을
+	탐방/ncpa+을/jco
+
+안할
+	안하/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+없네
+	없/paa+네/ef
+
+?
+	?/sf
+
+
+먼저
+	먼저/mag
+
+전주
+	전주/ncn
+
+비빔밥입니다~고고씽~
+	비빔밥입니다~고고씽/ncn+~/sd
+
+
+전주비빔밥은
+	전주/ncn+비빔밥/ncn+은/jxc
+
+평양의
+	평양/ncn+의/jcm
+
+냉면,
+	냉면/ncn+,/sp
+
+개성의
+	개성/ncn+의/jcm
+
+탕반과
+	탕반/ncn+과/jcj
+
+함께조선시대
+	함께조선시대/ncn
+
+3대
+	3/nnc+대/nbu
+
+음식의
+	음식/ncn+의/jcm
+
+하나로
+	하나/nnc+로/jca
+
+꼽히는데,그
+	꼽히/pvg+ㄴ데/ecs+,/sp+그/npp
+
+중에서도
+	중/nbn+에서/jca+도/jxc
+
+으뜸이래요~
+	으뜸/ncn+이/jp+래/ef+요/jxf+~/sd
+
+!
+	!/sf
+
+
+따봉
+	따봉/ncn
+
+
+비빔밥은
+	비빔밥/ncn+은/jxc
+
+유래가
+	유래/ncpa+가/jcc
+
+불분명하지만,그
+	불분명/ncps+하/xsms+지/ecx+말/px+ㄴ/etm+,/sp+그/npp
+
+시작이
+	시작/ncpa+이/jcc
+
+어디부터건
+	어디/npd+부터/jca+이/jp+건/ecc
+
+간에
+	간/ncn+에/jca
+
+여러가지
+	여러/nnc+가지/nbu
+
+나물을
+	나물/ncn+을/jco
+
+비벼먹는
+	비벼먹/ncn+는/jxc
+
+것이
+	것/nbn+이/jcc
+
+상식이죠
+	상식/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+그런데,
+	그러/pvd+ㄴ데/ecs+,/sp
+
+그
+	그/mmd
+
+중에서도
+	중/nbn+에서/jca+도/jxc
+
+전주비빔밥이
+	전주/ncn+비빔밥/ncn+이/jcc
+
+가장
+	가장/mag
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+건천혜의
+	건천/ncn+혜/ncn+의/jcm
+
+지리적
+	지리/ncn+적/ncn
+
+조건에서
+	조건/ncn+에서/jca
+
+생산되는질
+	생산되는질/ncn
+
+좋은
+	좋/paa+은/etm
+
+농산물,
+	농산물/ncn+,/sp
+
+장맛,
+	장맛,/ncn
+
+그리고
+	그리고/maj
+
+정성이
+	정성/ncn+이/jcc
+
+어우러져최고의
+	어우러져최고/ncn+의/jcm
+
+비빔밥
+	비빔밥/ncn
+
+합작품을
+	합작품/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+내기
+	내/npp+이/jp+기/etn
+
+때문이랍니다^^
+	때문이랍니다/ncn+^/sy+^/sy
+
+
+특히,
+	특히,/ncn
+
+전주의
+	전주/ncn+의/jcm
+
+콩나물은
+	콩나물/ncn+은/jxc
+
+전국
+	전국/ncn
+
+제일의
+	제일/ncn+의/jcm
+
+맛을
+	맛/ncn+을/jco
+
+자랑하는데전주콩나물비빔밥이라고까지
+	자랑하는데전주콩나물비빔밥/ncn+이/jp+라/ef+고/jcr+까지/jxc
+
+부른다고
+	부르/pvg+ㄴ다/ef+고/jcr
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+정말
+	정말/mag
+
+맛있겠죠
+	맛있/paa+겠/ep+죠/ef
+
+?
+	?/sf
+
+
+사진만
+	사진/ncn+만/jxc
+
+봐도
+	보/px+아/ecs
+
+군침이
+	군침/ncn+이/jcc
+
+돈다는건
+	돈다는건/ncn
+
+이런걸
+	이런걸/ncn
+
+말하나
+	말/ncpa+하/xsva+어/ecx+나/px+아/ecx
+
+봅니다
+	보/px+ㅂ니다/ef
+
+먹고싶어요~
+	먹/pvg+고/ecx+싶/px+어/ef+요/jxf+~/sd
+
+우아아아아~
+	우아아아/ncn+아/jcv+~/sd
+
+
+임금님의
+	임금님/ncn+의/jcm
+
+수라에
+	수라/ncn+에/jca
+
+올랐던
+	오르/pvg+아/ep+ㄴ/etm
+
+비빔밥을
+	비빔밥/ncn+을/jco
+
+그대로
+	그대로/mag
+
+재현해
+	재현/ncpa+하/xsva+어/ecx
+
+전통
+	전통/ncn
+
+유기
+	유/ncn+이/jp+기/etn
+
+그릇에
+	그릇/nbu+에/jca
+
+담았어요
+	담/pvg+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+(임금과
+	(/sl+임금/ncn+과/jcj
+
+중전
+	중전/ncn
+
+옆에
+	옆/ncn+에/jca
+
+장금이가
+	장금이/ncn+가/jcs
+
+있네요
+	있/px+네/ef+요/jxf
+
+)
+	)/sr
+
+
+전주비빔밥에
+	전주/ncn+비빔밥/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+더
+	더/mag
+
+자세한
+	자세/ncn+한/ncn
+
+정보는
+	정보/ncn+는/jxc
+
+한국관광공사
+	한국관광/ncn+공사/ncn
+
+홈페이지에서
+	홈페이지/ncn+에서/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요~
+	있/paa+어요/ef+~/sd
+
+
+전라도
+	전/nbn+라도/jxc
+
+먹거리
+	먹거리/ncn
+
+하나더~보통
+	하/pvg+어/ecx+나/px+더/ep+어/ef+~/sd+보통/ncn
+
+전라도
+	전/nbn+라도/jxc
+
+하면
+	하/pvg+면/ecs
+
+전주
+	전주/ncn
+
+비빔밥만
+	비빔밥/ncn+만/jxc
+
+말씀을
+	말씀/ncpa+을/jco
+
+하시지만또다른
+	하시지만또다른/ncn
+
+별식
+	별식/ncn
+
+육회비빔밥이
+	육회비빔밥/ncn+이/jcc
+
+있다는
+	있/px+다/ef+는/etm
+
+사실~
+	사실/ncn+~/sd
+
+
+저는
+	저/npp+는/jxc
+
+누가
+	누구/npp+가/jcs
+
+맛있는거
+	맛있는거/ncn
+
+사주겠다고
+	사/pvg+아/ecx+주/px+겠/ep+다/ef+고/jcr
+
+하면대답은
+	하면대답/ncn+은/jxc
+
+하나랍니다
+	하/pvg+어/ecx+나/px+랍니다/ef
+
+.
+	./sf
+
+
+육.
+	육/nnc+./sf
+
+회.
+	회/ncn+./sf
+
+원
+	원/nbu
+
+!
+	!/sf
+
+
+츄
+	츄/ncn
+
+!!
+	!/sf+!/sf
+
+
+그런데
+	그런데/maj
+
+전라도
+	전/nbn+라도/jxc
+
+함평에는
+	함평/ncn+에/jca+는/jxc
+
+육회를
+	육/nnc+회/nbu+를/jco
+
+넣고
+	넣/pvg+고/ecc
+
+비빔
+	비비/pvg+ㅁ/etn
+
+육회비빔밥이
+	육회비빔밥/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+?!!!!
+	?/sf+!/sf+!/sf+!/sf+!/sf
+
+
+@0@
+	@0@/ncn
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+함평에서
+	함평/ncn+에서/jca
+
+나비축제가
+	나비/ncn+축제/ncn+가/jcs
+
+유명한건
+	유명/ncn+한/ncn+건/xsnx
+
+알았는데,육회비빔밥까지이~~~~
+	알았는데,육회비빔밥까지이~~~~/ncn
+
+!!
+	!/sf+!/sf
+
+
+꺅~
+	꺅~/ncn
+
+!
+	!/sf
+
+
+아으~
+	아으~/ncn
+
+저
+	저/mmd
+
+생고기를
+	생고/ncn+이/jp+기/etn+를/jco
+
+와작와작
+	와작와작/ncn
+
+씹어먹고
+	씹어먹고/ncn
+
+싶네요
+	싶/paa+네요/ef
+
+
+함평은
+	함평/ncn+은/jxc
+
+본래
+	본래/ncn
+
+우(
+	우(/ncn
+
+)시장으로
+	)/sr+시장/ncn+으로/jca
+
+유명했고,
+	유명/ncps+하/xsms+었/ep+고/ecc+,/sp
+
+그런
+	그러/pvd+ㄴ/etm
+
+이유로
+	이유/ncn+로/jca
+
+육회비빔밥이라는
+	육회비빔밥/ncn+이/jp+라/ef+는/etm
+
+별미가
+	별미/ncn+가/jcs
+
+탄생한거래요
+	탄생/ncpa+하/xsva+ㄴ/etm+것/nbn+이/jp+래요/ef
+
+
+육회비빔밥
+	육회비빔밥/ncn
+
+정식인
+	정식/ncn+이/jp+ㄴ/etm
+
+모양이네요
+	모양/ncn+이/jp+네/ef+요/jxf
+
+.
+	./sf
+
+
+아으~
+	아으~/ncn
+
+배고파
+	배고프/paa+아/ecs
+
+
+함평
+	함평/ncn
+
+육회비빔밥의
+	육회비빔밥/ncn+의/jcm
+
+맛은
+	맛/ncn+은/jxc
+
+신선한
+	신선/ncn+한/ncn
+
+생고기에서
+	생고/ncn+이/jp+기/etn+에서/jca
+
+비롯된다고
+	비롯/ncpa+되/xsvn+ㄴ다/ef+고/jcr
+
+할수
+	하/pvg+ㄹ/etm+수/nbn
+
+있겠죠
+	있/px+겠/ep+죠/ef
+
+!!
+	!/sf+!/sf
+
+
+주문
+	주문/ncn
+
+했을
+	하/px+었/ep+을/etm
+
+때는큼직한
+	때는큼직한/ncn
+
+스테인레스
+	스테인레스/ncn
+
+그릇에
+	그릇/nbu+에/jca
+
+밥과
+	밥/ncn+과/jcj
+
+나물과
+	나물/ncn+과/jcj
+
+육회
+	육/nnc+회/nbu
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+가
+	가/jcs
+
+나오고,그리고
+	나/pvg+아/ecx+오/px+고/ecc+,/sp+그/npd+이/jp+리/ef+고/jcr
+
+돼지피로
+	돼지/ncn+피/ncn+로/jca
+
+끓인
+	끓이/pvg+ㄴ/etm
+
+선짓국,고춧가루와
+	선짓국,고춧가루/ncn+와/jcj
+
+간장,
+	간장/ncn+,/sp
+
+마늘
+	마늘/ncn
+
+등으로
+	등/nbu+으로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+양념장이
+	양념장/ncn+이/jcc
+
+놓여요
+	놓이/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+비빔밥이라
+	비빔밥/ncn+이/jp+라/ecs
+
+반찬은
+	반찬/ncn+은/jxc
+
+그다지
+	그다지/mag
+
+많이
+	많/paa+이/xsa
+
+나오지는
+	나/pvg+아/ecx+오/px+지/ecs+는/jxc
+
+않는데,
+	않/paa+는데/ecs+,/sp
+
+
+여기서
+	여기/npd+서/jca
+
+특이한
+	특이/ncn+한/ncn
+
+점
+	점/nbu
+
+발견
+	발견/ncpa
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+함께
+	함께/mag
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+바로
+	바로/mag
+
+이것
+	이것/npd
+
+!
+	!/sf
+
+
+돼.지
+	돼.지/ncn
+
+.
+	./sf
+
+
+비.계
+	비.계/ncn
+
+?!!!!
+	?/sf+!/sf+!/sf+!/sf+!/sf
+
+
+얼마전
+	얼마/ncn+전/ncn
+
+KBS
+	KBS/f
+
+스펀지에서
+	스펀지/ncn+에서/jca
+
+전라도의
+	전라/ncn+도/ncn+의/jcm
+
+너무
+	너무/mag
+
+느끼한
+	느끼한/ncn
+
+토핑
+	토핑/ncn
+
+이라는
+	이르/paa+어/ef+는/etm
+
+주제로돼지비계를
+	주제로돼지비계/ncn+를/jco
+
+넣은
+	넣/pvg+은/etm
+
+비빔밥도
+	비빔밥/ncn+도/jxc
+
+소개된
+	소개/ncpa+되/xsvn+ㄴ/etm
+
+적이
+	적/ncn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+동영상
+	동영상/ncn
+
+올려봅니당
+	올려봅니당/ncn
+
+
+너무
+	너무/mag
+
+느끼한
+	느끼한/ncn
+
+토핑이라고
+	토핑/ncn+이/jp+라/ef+고/jcr
+
+하지만양념장과
+	하지만양념장/ncn+과/jcj
+
+돼지비계를
+	돼지/ncn+비계/ncn+를/jco
+
+넣고
+	넣/pvg+고/ecc
+
+비벼
+	비비/pvg+어/ecx
+
+먹어보면,느끼하거나
+	먹어보면,느끼하/ncn+이/jp+거나/ecc
+
+비리지
+	비리/paa+지/ecx
+
+않고,
+	않/px+고/ecc+,/sp
+
+오히려
+	오히려/mag
+
+부드럽고
+	부드럽/paa+고/ecc
+
+쫄깃하대요~
+	쫄깃하/ncn+이/jp+대요/ef+~/sd
+
+
+자자~
+	자자/ncps+~/sd
+
+함평
+	함평/ncn
+
+육회비빔밥이
+	육회비빔밥/ncn+이/jcc
+
+얼마나
+	얼마나/mag
+
+꼬소한지
+	꼬소한지/ncn
+
+궁금하신분들은
+	궁금하신분들/ncn+은/jxc
+
+한국관광공사
+	한국관광/ncn+공사/ncn
+
+홈페이지로
+	홈페이지/ncn+로/jca
+
+고고
+	고/ncn+이/jp+고/ecc
+
+!!
+	!/sf+!/sf
+
+
+이번엔
+	이/nnc+번/nbu+엔/jca
+
+섬의
+	섬/ncn+의/jcm
+
+비빔밥을
+	비빔밥/ncn+을/jco
+
+먹어보러
+	먹/pvg+어/ecx+보/px+러/ecs
+
+갈거에요^^
+	갈거에요/ncn+^/sy+^/sy
+
+
+경상남도의
+	경상/ncn+남도/ncn+의/jcm
+
+거제도를
+	거제도/ncn+를/jco
+
+아시나요오~그렇담
+	아시나요오~그렇담/ncn
+
+거제도의
+	거제도/ncn+의/jcm
+
+명물
+	명물/ncn
+
+멍게비빔밥도
+	멍게/ncn+비빔밥/ncn+도/jxc
+
+아시나요오~
+	아시나요/ncn+이/jp+오/ef+~/sd
+
+
+이
+	이/mmd
+
+못생긴
+	못생기/paa+ㄴ/etm
+
+멍게가
+	멍게/ncn+가/jcs
+
+그렇게
+	그렇/pad+게/ecs
+
+맛있다는게
+	맛있다는게/ncn
+
+신기~
+	신기/ncn+~/sd
+
+
+요거요거
+	요거요거/ncn
+
+멍게(또다른
+	멍게(또다른/ncn
+
+말로는
+	말/ncn+로/jca+는/jxc
+
+우렁쉥이)를
+	우렁쉥이)/ncn+를/jco
+
+넣어
+	넣/pvg+어/ecx
+
+만든
+	만들/pvg+ㄴ/etm
+
+비빔밥이래요^^원래
+	비빔밥이래요^^원래/ncn
+
+잘
+	잘/mag
+
+못먹는
+	못먹/ncn+는/jxc
+
+분들도
+	불/pvg+ㄴ들/ecs+도/jxc
+
+있을
+	있/px+을/etm
+
+것
+	것/nbn
+
+같은데멍게비빔밥은
+	같은데멍게비빔밥/ncn+은/jxc
+
+먹고싶으실
+	먹/pvg+고/ecx+싶/px+으시/ep+ㄹ/etm
+
+걸요
+	걸요/ncn
+
+?
+	?/sf
+
+
+멍게비빔밥과
+	멍게/ncn+비빔밥/ncn+과/jcj
+
+맑은국으로
+	맑은국/ncn+으로/jca
+
+차려진
+	차리/pvg+어/ecx+지/px+ㄴ/etm
+
+밥상~
+	밥상/ncn+~/sd
+
+
+이렇게
+	이렇/pad+게/ecs
+
+멍게비빔밥은윤기가
+	멍게비빔밥은윤기/ncn+가/jcs
+
+좌르르~
+	좌르르~/ncn
+
+흐르는
+	흐르/pvg+는/etm
+
+밑반찬들,텁텁한
+	밑반찬들,텁텁한/ncn
+
+입맛을
+	입맛/ncn+을/jco
+
+씻어줄
+	씻/pvg+어/ecx+주/px+ㄹ/etm
+
+우럭맑은탕
+	우럭맑은탕/ncn
+
+혹은
+	혹은/maj
+
+도다리쑥국
+	도다리쑥국/ncn
+
+등의
+	등/nbu+의/jcm
+
+맑은국,
+	맑은국/ncn+,/sp
+
+
+그리고
+	그리고/maj
+
+!!!!!
+	!/sf+!/sf+!/sf+!/sf+!/sf
+
+!
+	!/sf
+
+
+대망의
+	대망/ncn+의/jcm
+
+멍게~~~~~와
+	멍게~~~~~/ncn+와/jcj
+
+김
+	길/paa+ㅁ/etn
+
+그리고
+	그리고/maj
+
+깨소금,
+	깨소금/ncn+,/sp
+
+참기름,
+	참기름/ncn+,/sp
+
+밥
+	밥/ncn
+
+으로
+	으/ncn+로/jca
+
+일단
+	일단/mag
+
+눈부터
+	눈/ncn+부터/jxc
+
+축여준답니다^^이때
+	축여준답니다^^이때/ncn
+
+멍게는
+	멍게/ncn+는/jxc
+
+양념해서
+	양념/ncn+해/ncn+서/jca
+
+얼려두었던
+	얼리/pvg+어/ecx+두/px+었/ep+던/etm
+
+것으로비벼먹기
+	것으로비벼먹기/ncn
+
+시작하면
+	시작/ncpa+하/xsva+면/ecs
+
+녹아서
+	녹/pvg+아/ecx
+
+향긋한
+	향긋/ncps+하/xsms+ㄴ/etm
+
+맛이
+	맛/ncn+이/jcc
+
+난다고
+	나/px+ㄴ다/ef+고/jcr
+
+해요
+	하/pvg+어요/ef
+
+
+근데
+	근데/ncn
+
+
+난
+	나/px+ㄴ/etm
+
+뭐
+	뭐/npd
+
+그렇다~
+	그렇/pad+다/ef+~/sd
+
+?
+	?/sf
+
+
+뭔가
+	뭔가/ncn
+
+허전하다~
+	허전/ncps+하/xsms+다/ef+~/sd
+
+?
+	?/sf
+
+
+이러시는
+	이러시/ncn+는/jxc
+
+분들도
+	불/pvg+ㄴ들/ecs+도/jxc
+
+있겠지만,먹어보지
+	있겠지만,먹어보지/ncn
+
+않고서는
+	않/px+고서/ecs+는/jxc
+
+멍게비빔밥에
+	멍게/ncn+비빔밥/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+논하지
+	논하/pvg+지/ecx
+
+말라지
+	말라지/ncn
+
+않쏘~
+	않쏘/ncn+~/sd
+
+
+그
+	그/mmd
+
+맛을
+	맛/ncn+을/jco
+
+형용하자면싱싱한
+	형용하자면싱싱한/ncn
+
+멍게의
+	멍게/ncn+의/jcm
+
+날맛
+	날맛/ncn
+
+이
+	이/mmd
+
+살아있으면서도,살짝
+	살아있으면서도,살짝/ncn
+
+간을
+	간/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+삭혔기
+	삭히/pvg+었/ep+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+세련되고
+	세련/ncpa+되/xsvn+고/ecc
+
+둥글게
+	둥글/pvg+게/ecs
+
+다듬은
+	다듬/pvg+은/etm
+
+맛.짜지도
+	맛.짜지/ncn+도/jxc
+
+싱겁지도
+	싱겁/paa+지/ecs+도/jxc
+
+않는다고
+	않/px+는다/ef+고/jcr
+
+.
+	./sf
+
+
+여기에
+	여기/npd+에/jca
+
+뜨겁고
+	뜨겁/paa+고/ecc
+
+맑은
+	맑/paa+은/etm
+
+생선국이
+	생선/ncn+국/ncn+이/jcc
+
+곁들여지면
+	곁들이/pvg+어/ecx+지/px+면/ecs
+
+멍게비빔밥의
+	멍게/ncn+비빔밥/ncn+의/jcm
+
+싱싱함이
+	싱싱/ncps+하/xsms+ㅁ/etn+이/jcs
+
+한층
+	한/nnc+층/nbu
+
+살아난답디다
+	살아난답디/ncn+이/jp+다/ef
+
+
+거제도
+	거제/ncn+도/jxc
+
+멍게
+	멍게/ncn
+
+비빔밥에
+	비빔밥/ncn+에/jca
+
+도전하실분들
+	도전하실분들/ncn
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+한국관광공사
+	한국관광/ncn+공사/ncn
+
+홈페이지로
+	홈페이지/ncn+로/jca
+
+가보이소~아스슷~
+	가보이소~아스슷~/ncn
+
+끌리는데요
+	끌리/pvg+ㄴ데/ef+요/jxf
+
+?
+	?/sf
+
+
+비비고~
+	비비/pvg+고/ecc+~/sd
+
+비비고~
+	비비/pvg+고/ecc+~/sd
+
+돌리고~
+	돌리/pvg+고/ecc+~/sd
+
+돌리고~
+	돌리/pvg+고/ecc+~/sd
+
+비빔밥
+	비빔밥/ncn
+
+먹으러
+	먹/pvg+으러/ecs
+
+안가실래요
+	안가실래요/ncn
+
+?
+	?/sf

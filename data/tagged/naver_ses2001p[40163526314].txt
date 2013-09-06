@@ -1,0 +1,641 @@
+비양도코스
+	비/xp+양도/ncn+코스/ncn
+
+-
+	-/sd
+
+비양도해안도로
+	비/xp+양도/ncn+해안/ncn+도로/ncn
+
+
+비양도에
+	비/xp+양도/ncn+에/jca
+
+도착하자마자
+	도착/ncpa+하/xsva+자마자/ecs
+
+바로
+	바로/mag
+
+왼쪽
+	왼쪽/ncn
+
+비양도해안도로를
+	비/xp+양도/ncn+해안/ncn+도로/ncn+를/jco
+
+걷기
+	걷/pvg+기/etn
+
+시작합니다
+	시작/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+비양봉까지
+	비/xp+양봉/ncn+까지/jxc
+
+올라가려면
+	올라가/pvg+려면/ecs
+
+
+아무래도
+	아무렇/pad+어도/ecs
+
+서둘러야할둣
+	서둘러야할둣/ncn
+
+했는데
+	하/px+었/ep+는데/ecs
+
+나중에
+	나중/ncn+에/jca
+
+시간이
+	시간/ncn+이/jcc
+
+남았답니다
+	남/pvg+아/ep+답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+비양도코스중에
+	비/xp+양도/ncn+코스/ncn+중/ncn+에/jca
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+들어오면
+	들/pvg+어/ecx+오/px+면/ecs
+
+
+가장
+	가장/mag
+
+먼저
+	먼저/mag
+
+하는건
+	하는건/ncn
+
+비양도해안도로를
+	비/xp+양도/ncn+해안/ncn+도로/ncn+를/jco
+
+걷는
+	걷/pvg+는/etm
+
+거랍니다
+	것/nbn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+걸으면서
+	걸/pvg+면서/ecc
+
+사색할수
+	사색/ncpa+하/xsva+ㄹ/etm+수/nbn
+
+있다는
+	있/px+다/ef+는/etm
+
+사실이
+	사실/ncn+이/jcc
+
+비양도해안도로의
+	비/xp+양도/ncn+해안/ncn+도로/ncn+의/jcm
+
+
+매력이
+	매력/ncn+이/jcc
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+싶네요
+	싶/px+네/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+바닷물이
+	바닷물/ncn+이/jcc
+
+빠져서
+	빠지/pvg+어서/ecs
+
+기우뚱하게
+	기우뚱하/ncn+이/jp+게/ecs
+
+기울어진
+	기울/pvg+어/ecx+지/px+ㄴ/etm
+
+어선을
+	어선/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+언젠가
+	언젠가/mag
+
+세월이
+	세/nnc+월/nbu+이/jcc
+
+지나고
+	지/nbn+이/jp+나/ef+고/jcr
+
+나면
+	나/px+면/ecs
+
+페기처분되듯
+	페기처분/ncpa+되/xsvn+듯/ecs
+
+
+우리네
+	우리/npp+이/jp+네/ef
+
+인생도
+	인생/ncn+도/jxc
+
+그럴까
+	그러/pvd+ㄹ까/ecs
+
+싶네요
+	싶/px+네/ef+요/jxf
+
+우리나라에서
+	우리나라/ncn+에서/jca
+
+가장
+	가장/mag
+
+잘
+	잘/mag
+
+모셔야
+	모시/pvg+어야/ecs
+
+할분들
+	할분들/ncn
+
+노인분들이랍니다
+	노인/ncn+분/ncn+들/xsncc+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+그분들이
+	그분들/npp+이/jcc
+
+
+아니었으면
+	아니/paa+었/ep+으면/ecs
+
+지금같이
+	지금/ncn+같이/jca
+
+편하게
+	편하/paa+게/ecs
+
+살수
+	사/pvg+ㄹ/etm+수/nbn
+
+있었을까
+	있/px+었/ep+을까/ef
+
+싶네요
+	싶/px+네/ef+요/jxf
+
+어선의
+	어선/ncn+의/jcm
+
+모습에서
+	모습/ncn+에서/jca
+
+인생이
+	인생/ncn+이/jcc
+
+보이네요
+	보이/ncn+이/jp+네요/ef
+
+
+짙푸른
+	짙푸르/paa+ㄴ/etm
+
+바다
+	바/nbn+이/jp+다/ef
+
+속이
+	속/ncn+이/jcc
+
+다
+	다/mag
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+보이는
+	보이/pvg+는/etm
+
+깨끗함
+	깨끗/ncps+하/xsms+ㅁ/etn
+
+그래서
+	그래서/maj
+
+비양도코스는
+	비/xp+양도/ncn+코스/ncn+는/jxc
+
+사람들
+	사람들/ncn
+
+마음을
+	마음/ncn+을/jco
+
+
+편하게
+	편하/paa+게/ecs
+
+하는게
+	하/pvg+는게/ecs
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+싶네요
+	싶/px+네/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+봄날촬영지였던
+	봄날촬영지/ncn+이/jp+었/ep+던/etm
+
+비양도
+	비/xp+양/ncn+도/jxc
+
+드라마가
+	드라마/ncn+가/jcs
+
+끝나도
+	끝나/pvg+아/ecs
+
+우리가
+	우리/npp+가/jcs
+
+받았던
+	받/pvg+아/ep+ㄴ/etm
+
+감동은
+	감동/ncpa+은/jxc
+
+쉽게
+	쉽/paa+게/ecs
+
+잊혀지지
+	잊히/pvg+어/ecx+지/px+지/ecx
+
+않는데요
+	않/paa+는데요/ef
+
+
+그래서
+	그래서/maj
+
+비양도를
+	비/xp+양도/ncn+를/jco
+
+사랑하는게
+	사랑/ncpa+하/xsva+는게/ecs
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+싶어요
+	싶/px+어/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+비양도해안도로를
+	비/xp+양도/ncn+해안/ncn+도로/ncn+를/jco
+
+걷다가
+	걷/pvg+다가/ecs
+
+만남
+	만나/pvg+ㅁ/etn
+
+돌담
+	돌담/ncn
+
+그리고
+	그리고/maj
+
+너머로
+	너머/ncn+로/jca
+
+보이는
+	보이/pvg+는/etm
+
+비양봉
+	비/xp+양봉/ncn
+
+그곳은
+	그곳/ncn+은/jxc
+
+나중에
+	나중/ncn+에/jca
+
+
+소개해드리도록
+	소개/ncpa+하/xsva+어/ecx+드리/px+도록/ecs
+
+할게요
+	할게요/ncn
+
+^^
+	^/sy+^/sy
+
+
+이제는
+	이제/mag+는/jxc
+
+일을
+	일/ncn+을/jco
+
+다한
+	다하/pvg+ㄴ/etm
+
+배
+	배/ncn
+
+집앞에
+	집앞/ncn+에/jca
+
+덩그러니
+	덩그러/ncn+이/jp+니/ecs
+
+있는
+	있/px+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+왠지
+	왠지/mag
+
+슬퍼보이지
+	슬프/paa+어/ecx+보이/px+지/ecx
+
+않나요
+	않/paa+나요/ef
+
+
+어허라
+	어허/ncn+이/jp+라/ecs
+
+서서히
+	서서히/mag
+
+파고가
+	파/pvg+고/ecx+가/px+아/ecx
+
+높아집니다
+	높/paa+아/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+살짝
+	살짝/mag
+
+당황한
+	당황/ncn+한/ncn
+
+허브비치
+	허브비치/ncn
+
+어
+	어/ncn
+
+이거
+	이거/npd
+
+집에
+	집/ncn+에/jca
+
+못가는거
+	못가는거/ncn
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+하는
+	하/pvg+는/etm
+
+
+무서움
+	무서움/ncn
+
+?
+	?/sf
+
+
+에
+	에/pvg+어/ecx
+
+떨어봅니다
+	떨/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+길을
+	길/ncn+을/jco
+
+걷다가
+	걷/pvg+다가/ecs
+
+비양도에서
+	비/xp+양도/ncn+에서/jca
+
+꼬옥
+	꼬옥/mag
+
+봐야할
+	보/pvg+아/ecx+하/px+ㄹ/etm
+
+돌들을
+	돌/pvg+ㄹ/etm+들/nbn+을/jco
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있는기회가
+	있는기회/ncn+가/jcs
+
+있었답니다
+	있/px+었/ep+답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+일단
+	일단/mag
+
+썰물이
+	썰물/ncn+이/jcc
+
+되어서
+	되/pvg+어서/ecs
+
+빠져버린
+	빠지/pvg+어/ecx+버리/px+ㄴ/etm
+
+바닷물에
+	바닷물/ncn+에/jca
+
+새로운
+	새롭/paa+은/etm
+
+모습을
+	모습/ncn+을/jco
+
+보여주는
+	보이/pvg+어/ecx+주/px+는/etm
+
+비양도해안도로입니다
+	비/xp+양도/ncn+해안/ncn+도로/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+뻗은
+	뻗/pvg+은/etm
+
+비양도해안도로를
+	비/xp+양도/ncn+해안/ncn+도로/ncn+를/jco
+
+걷다보면
+	걷다보/ncn+이/jp+면/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+멋진곳이
+	멋진곳/ncn+이/jcc
+
+있을까
+	있/px+을까/ef
+
+싶을정도로
+	싶을정도/ncn+로/jca
+
+
+감탄을
+	감탄/ncpa+을/jco
+
+해봅니다
+	하/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+비양도에서
+	비/xp+양도/ncn+에서/jca
+
+가장
+	가장/mag
+
+봐야할
+	보/pvg+아/ecx+하/px+ㄹ/etm
+
+바위중
+	바위/ncn+중/ncn
+
+하나인
+	하나/nnc+이/jp+ㄴ/etm
+
+코끼리바위입니다
+	코끼리/ncn+바위/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+슬쩍
+	슬쩍/mag
+
+뒷모습을
+	뒷모습/ncn+을/jco
+
+보여주는데요
+	보여주/pvg+ㄴ데요/ef
+
+
+다음
+	다음/ncn
+
+포스팅에서
+	포스팅/ncn+에서/jca
+
+멋진
+	멋지/paa+ㄴ/etm
+
+자태를
+	자태/ncn+를/jco
+
+보여줄
+	보이/pvg+어/ecx+주/px+ㄹ/etm
+
+비양도의
+	비/xp+양도/ncn+의/jcm
+
+매력덩어리
+	매력/ncn+덩어리/ncn
+
+코끼리바위
+	코끼리/ncn+바위/ncn
+
+보여드릴게요
+	보여드릴게요/ncn
+
+^^
+	^/sy+^/sy

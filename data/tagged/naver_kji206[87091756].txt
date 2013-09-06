@@ -1,0 +1,741 @@
+팔공산
+	팔공산/ncn
+
+갓바위
+	갓바위/ncn
+
+주차장을
+	주차장/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+초입
+	초입/ncpa
+
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+만큼
+	만큼/nbn
+
+길도
+	길/ncn+도/jxc
+
+넉넉합니다
+	넉넉/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+관암사방향으로
+	관암사방향/ncn+으로/jca
+
+올라가다가
+	오르/pvg+아/ecx+가/px+아/ecx+가/px+아/ecx
+
+좌측으로
+	좌측/ncn+으로/jca
+
+보이는
+	보이/pvg+는/etm
+
+아름다운길
+	아름다운/ncn+길/ncn
+
+....
+	.../se+./sf
+
+
+계단과
+	계단/ncn+과/jct
+
+어우러진
+	어우러지/pvg+ㄴ/etm
+
+아름다운
+	아름답/paa+은/etm
+
+숲길은
+	숲길/ncn+은/jxc
+
+묵은
+	묵/pvg+은/etm
+
+옛향기가
+	옛향기/ncn+가/jcs
+
+나는듯
+	나/px+는/etm+듯/nbs
+
+고즉함이
+	고즉함/ncn+이/jcc
+
+흐릅니다
+	흐르/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+참나리의
+	참/xp+나리/ncn+의/jcm
+
+지극한
+	지극/ncps+하/xsms+ㄴ/etm
+
+아름다움은
+	아름다움/ncn+은/jxc
+
+숲을
+	숲/ncn+을/jco
+
+걷는
+	걷/pvg+는/etm
+
+즐거움을한껏
+	즐거움을한껏/ncn
+
+상승시켜줍니다
+	상승/ncpa+시키/xsva+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+관암사
+	관암사/ncn
+
+산신각은
+	산신/ncn+각/ncn+은/jxc
+
+묵은
+	묵/pvg+은/etm
+
+옛맛이
+	옛맛/ncn+이/jcc
+
+흐릅니다
+	흐르/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+무슨
+	무슨/mmd
+
+사연이
+	사연/ncn+이/jcc
+
+있는걸까
+	있/paa+는/etm+것/nbn+이/jp+ㄹ까/ecs
+
+
+산신각엔
+	산신/ncn+각/ncn+엔/jca
+
+비둘기가
+	비둘기/ncn+가/jcs
+
+머리쪼아리며
+	머리쪼아리/ncn+이/jp+며/ecc
+
+지키고
+	지키/pvg+고/ecc
+
+있더군요
+	있/paa+더군/ef+요/jxf
+
+
+절이
+	절/ncn+이/jcc
+
+공사중이면
+	공사/ncn+중이/ncn+이/jp+면/ecs
+
+왜
+	왜/mag
+
+그리
+	그리/mad
+
+거부감이
+	거부감/ncn+이/jcc
+
+일어날까
+	일어나/pvg+ㄹ까/ecs
+
+.....
+	.../se+./sf+./sf
+
+
+관암사를
+	관암사/ncn+를/jco
+
+가로질러
+	가로지르/pvg+어/ecx
+
+산길로
+	산길/ncn+로/jca
+
+접어듭니다
+	접어들/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+관암사를
+	관암사/ncn+를/jco
+
+벗어나자마자
+	벗/pvg+어/ecx+나/px+자마자/ecs
+
+언제부터
+	언제/npd+부터/jxc
+
+소나무에
+	소나무/ncn+에/jca
+
+걸려있었던걸까
+	걸리/pvg+어/ecx+있/px+었/ep+던/etm+것/nbn+이/jp+ㄹ까/ecs
+
+...
+	.../se
+
+
+염주가
+	염주/ncn+가/jcs
+
+소나무와
+	소나무/ncn+와/jcj
+
+부부처럼
+	부부/ncn+처럼/jca
+
+한몸이
+	한몸/ncn+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+습기
+	습기/ncn
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+숲길에
+	숲길/ncn+에/jca
+
+눈길을
+	눈길/ncn+을/jco
+
+잡더군요
+	잡/pvg+더군/ef+요/jxf
+
+.
+	./sf
+
+
+나또한
+	나또한/ncn
+
+정성
+	정성/ncn
+
+한토막
+	한/nnc+토막/nbu
+
+담아
+	담/pvg+아/ecx
+
+돌을
+	돌/pvg+ㄹ/etm
+
+올려봅니다
+	올리/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+안개와
+	안개/ncn+와/jct
+
+비스듬한
+	비스듬하/paa+ㄴ/etm
+
+나무들은
+	나무/ncn+들/ncn+은/jxc
+
+사람의
+	사람/ncn+의/jcm
+
+마음을
+	마음/ncn+을/jco
+
+편안하게
+	편안/ncps+하/xsms+게/ecs
+
+만들어줍니다
+	만들/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+토요일인데도
+	토요일/ncn+이/jp+ㄴ데/ecs+도/jxc
+
+날씨탓인지
+	날씨/ncn+탓/ncpa+이/jp+ㄴ지/ecs
+
+한가하여
+	한가/ncps+하/xsms+어/ecx
+
+발걸음이
+	발걸음/ncn+이/jcc
+
+느긋합니다
+	느긋/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+..
+	./sf+./sf
+
+
+고요함을
+	고요함/ncn+을/jco
+
+저절로
+	저절로/mag
+
+맛봅니다
+	맛보/pvg+ㅂ니다/ef
+
+
+용주암
+	용주/ncn+암/ncn
+
+이정표가
+	이정표/ncn+가/jcs
+
+있고
+	있/px+고/ecc
+
+입구길이
+	입구/ncn+길/ncn+이/jcc
+
+너무
+	너무/mag
+
+아름다워
+	아름답/paa+어/ecx
+
+절로
+	절/ncn+로/jca
+
+발걸음이
+	발걸음/ncn+이/jcc
+
+옮겨집니다
+	옮기/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+많은
+	많/paa+은/etm
+
+불상들,
+	불상/ncn+들/ncn+,/sp
+
+
+온갖번뇌를
+	온갖번뇌/ncn+를/jco
+
+다
+	다/mag
+
+안고
+	안/pvg+고/ecc
+
+계시는듯
+	계시/paa+는/etm+듯/nbs
+
+...
+	.../se
+
+
+다양함에
+	다양/ncn+함/ncn+에/jca
+
+놀랍니다
+	놀라/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+전망은
+	전망/ncn+은/jxc
+
+끝내줄듯한
+	끝내/pvg+어/ecx+주/px+ㄹ/etm+듯/nbs+하/xsms+ㄴ/etm
+
+위치에
+	위치/ncn+에/jca
+
+자리한
+	자리/ncn+한/ncn
+
+암자를
+	암자/ncn+를/jco
+
+이렇게
+	이렇/pad+게/ecs
+
+안개속에
+	안개/ncn+속/ncn+에/jca
+
+가두어둡니다
+	가/pvg+아/ecx+두/px+어/ecx+두/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+용주암지나
+	용주/ncn+암지/ncn+나/jcj
+
+갓바위
+	갓바위/ncn
+
+가는길
+	가는길/ncn
+
+.
+	./sf
+
+
+누군가의
+	누군가/npp+의/jcm
+
+배려로
+	배려/ncpa+로/jca
+
+축축한
+	축축하/paa+ㄴ/etm
+
+산길에
+	산길/ncn+에/jca
+
+미끄러지지않게
+	미끄러지/pvg+지/ecx+않/px+게/ecs
+
+밟을수있는
+	밟/pvg+을/etm+수/nbn+있/xsmn+는/etm
+
+나무토막은
+	나무토막/ncn+은/jxc
+
+또
+	또/maj
+
+다른
+	다르/paa+ㄴ/etm
+
+사명감으로
+	사명감/ncn+으로/jca
+
+자리잡은
+	자리잡/pvg+은/etm
+
+
+나무의
+	나무/ncn+의/jcm
+
+깊은
+	깊/paa+은/etm
+
+마음을
+	마음/ncn+을/jco
+
+읽는듯해서
+	읽/pvg+는/etm+듯/nbs+하/xsms+어서/ecs
+
+감사한
+	감사/ncpa+하/xsva+ㄴ/etm
+
+마음이
+	마음/ncn+이/jcc
+
+저절로
+	저절로/mag
+
+생겨
+	생기/pvg+어/ecx
+
+발걸음이
+	발걸음/ncn+이/jcc
+
+조심스럽습니다
+	조심/ncpa+스럽/xsmn+습니다/ef
+
+.
+	./sf
+
+
+갓바위
+	갓바위/ncn
+
+안내판
+	안내판/ncn
+
+.
+	./sf
+
+
+짙은
+	짙/paa+은/etm
+
+안개가
+	안개/ncn+가/jcs
+
+느껴지나요
+	느끼/pvg+어/ecx+지/px+나/ef+요/jxf
+
+.
+	./sf
+
+
+오늘도
+	오늘/ncn+도/jxc
+
+불심의
+	불심/ncn+의/jcm
+
+열기는
+	열/pvg+기/etn+는/jxc
+
+저절로
+	저절로/mag
+
+고개숙이게
+	고개숙이/pvg+게/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+나역시
+	나역시/ncn
+
+수험생
+	수험생/ncn
+
+엄마로
+	엄마/ncn+로/jca
+
+...
+	.../se
+
+
+깊은
+	깊/paa+은/etm
+
+마음
+	마음/ncn
+
+담아
+	담/pvg+아/ecx
+
+정성을
+	정성/ncn+을/jco
+
+드립니다
+	드리/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+갓바위
+	갓바위/ncn
+
+불상
+	불상/ncn
+
+
+하산길
+	하산/ncpa+길/ncn
+
+
+숨결
+	숨결/ncn
+
+가다듬으며
+	가다듬/pvg+으며/ecc
+
+조심해서
+	조심/ncpa+하/xsva+어서/ecs
+
+젖은
+	젖/pvg+은/etm
+
+계단길을
+	계단/ncn+길/ncn+을/jco
+
+내려갑니다
+	내리/pvg+어/ecx+가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아련할정도로
+	아련할정도/ncn+로/jca
+
+긴
+	길/paa+ㄴ/etm
+
+계단길은
+	계단/ncn+길/ncn+은/jxc
+
+관암사까지
+	관암사까지/ncn
+
+이어집니다
+	잇/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+넉넉하고
+	넉넉/ncps+하고/jct
+
+깊은
+	깊/paa+은/etm
+
+숲길
+	숲길/ncn
+
+만큼이나
+	만큼/nbn+이/jp+나/ecs
+
+갓바위
+	갓바위/ncn
+
+부처를
+	부처/ncn+를/jco
+
+만나고
+	만나/pvg+고/ecc
+
+온
+	오/px+ㄴ/etm
+
+발걸음은
+	발걸음/ncn+은/jxc
+
+그
+	그/mmd
+
+어떤
+	어떤/mmd
+
+산행길보다
+	산행/ncn+길/ncn+보다/jca
+
+가벼웠습니다
+	가볍/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+팔공산
+	팔공산/ncn
+
+은
+	은/ncn
+
+두번째인데
+	두/nnc+번/nbu+째/xsnu+이/jp+ㄴ데/ecs
+
+갈때마다
+	가/px+ㄹ/etm+때/nbn+마다/jxc
+
+전망은
+	전망/ncn+은/jxc
+
+볼수없는
+	보/px+ㄹ/etm+수/nbn+없/xsmn+는/etm
+
+궂은
+	궂/paa+은/etm
+
+?
+	?/sf
+
+
+날씨였지만,
+	날씨/ncn+이/jp+었/ep+지만/ecs+,/sp
+
+
+여름의
+	여름/ncn+의/jcm
+
+찐날
+	찐날/ncn
+
+보다는
+	보/px+다/ef+는/etm
+
+훨씬
+	훨씬/mag
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+시간이었고
+	시간/ncn+이/jp+었/ep+고/ecc
+
+물하나
+	물하/ncn+이/jp+나/ecs
+
+들고
+	들/pvg+고/ecc
+
+맨몸으로
+	맨몸/ncn+으로/jca
+
+오른
+	오르/pvg+ㄴ/etm
+
+가쁜한
+	가쁘/paa+ㄴ/etm+한/nbn
+
+시간이었습니다
+	시간/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf

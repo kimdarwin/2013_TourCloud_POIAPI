@@ -1,0 +1,1162 @@
+전주여행:도심의
+	전주/ncn+여행/ncpa+:/sp+도심/ncn+의/jcm
+
+소음이
+	소음/ncn+이/jcc
+
+정지된
+	정지/ncpa+되/xsvn+ㄴ/etm
+
+풍경
+	풍경/ncn
+
+덕진공원
+	덕진공원/ncn
+
+야경
+	야경/ncn
+
+
+전주에서
+	전주/ncn+에서/jca
+
+저녁에
+	저녁/ncn+에/jca
+
+갈곳이
+	갈곳/ncn+이/jcc
+
+어디
+	어디/mad
+
+있을까
+	있/px+을까/ef
+
+?
+	?/sf
+
+
+지난번여행에서
+	지난번/ncn+여행/ncpa+에서/jca
+
+한옥마을
+	한옥/ncn+마을/ncn
+
+야경을
+	야경/ncn+을/jco
+
+담아보았기에
+	담/pvg+아/ecx+보/px+아/ep+기/etn+에/jca
+
+이번엔
+	이/nnc+번/nbu+엔/jca
+
+여름이면
+	여름/ncn+이/jp+면/ecs
+
+연꽃으로
+	연꽃/ncn+으로/jca
+
+장관을
+	장관/ncr+을/jco
+
+이루는
+	이루/pvg+는/etm
+
+덕진공원
+	덕진공원/ncn
+
+야경이
+	야경/ncn+이/jcc
+
+궁금하여
+	궁금/ncps+하/xsms+어/ecx
+
+찾아가보았다
+	찾/pvg+아/ecx+가/px+아/ecx+보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+공원
+	공원/ncn
+
+정문인
+	정문/ncn+이/jp+ㄴ/etm
+
+연지문
+	연지/ncn+문/ncn
+
+현판은강암
+	현판은강암/ncn
+
+송성용
+	송성용/ncn
+
+글씨로
+	글씨/ncn+로/jca
+
+연향이
+	연향/ncn+이/jcc
+
+가득할
+	가득/ncps+하/xsms+ㄹ/etm
+
+것
+	것/nbn
+
+같은
+	같/paa+은/etm
+
+기대를
+	기대/ncpa+를/jco
+
+안겨
+	안기/pvg+어/ecx
+
+준다
+	주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+공원에
+	공원/ncn+에/jca
+
+불이
+	불/ncn+이/jcc
+
+켜져
+	크/paa+어/ecx+지/px+어/ecx
+
+있을까
+	있/px+을까/ef
+
+반신반의
+	반신반의/ncpa
+
+하면서
+	하/pvg+면서/ecc
+
+찾아갔는데
+	찾/pvg+아/ecx+가/px+아/ep+ㄴ데/ecs
+
+
+입구에는
+	입구/ncn+에/jca+는/jxc
+
+저녁
+	저녁/ncn
+
+산책하는
+	산책/ncpa+하/xsva+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+간간히
+	간간히/mag
+
+다녀서
+	다니/pvg+어서/ecs
+
+그런가
+	그러/pvd+ㄴ가/ef
+
+불이켜져
+	불이켜져/ncn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+어디로
+	어디/npd+로/jca
+
+걸어볼까
+	걷/pvg+어/ecx+보/px+ㄹ까/ef
+
+?
+	?/sf
+
+
+입구와
+	입구/ncn+와/jct
+
+달리
+	달리/mag
+
+공원으로
+	공원/ncn+으로/jca
+
+들어오니
+	들/pvg+어/ecx+오/px+니/ecs
+
+가로등
+	가로등/ncn
+
+불빛
+	불빛/ncn
+
+간격이
+	가/px+ㄴ/etm+격/nbn+이/jcc
+
+너무
+	너무/mag
+
+멀어
+	멀/paa+어/ecx
+
+많이
+	많/paa+이/xsa
+
+어둡다
+	어둡/paa+다/ef
+
+.
+	./sf
+
+
+이정표는
+	이정표/ncn+는/jxc
+
+풍월정,
+	풍월/ncpa+정/ncn+,/sp
+
+취향정을
+	취향/ncn+정/ncn+을/jco
+
+가르키고
+	가르키/pvg+고/ecc
+
+있는데
+	있/px+는데/ecs
+
+...
+	.../se
+
+
+입구에는
+	입구/ncn+에/jca+는/jxc
+
+고려시대의
+	고려시대/ncn+의/jcm
+
+석탑으로
+	석탑/ncn+으로/jca
+
+추정되는
+	추정/ncpa+되/xsvn+는/etm
+
+3층석탑이
+	3층석탑/ncn+이/jcc
+
+서있는데
+	서/ncn+있/xsmn+는데/ecs
+
+
+기단부는
+	기단/ncn+부/ncn+는/jxc
+
+석축으로
+	석축/ncn+으로/jca
+
+다시
+	다시/mag
+
+만들었고
+	만들/pvg+었/ep+고/ecc
+
+탑신과
+	탑신/ncn+과/jcj
+
+노반은
+	노반/ncn+은/jxc
+
+보존되어
+	보존/ncpa+되/xsvn+어/ecx
+
+원형
+	원형/ncn
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+당초
+	당초/ncn
+
+익산
+	익산/ncn
+
+왕궁리에
+	왕궁리/ncn+에/jca
+
+있던
+	있/px+던/etm
+
+것을
+	것/nbn+을/jco
+
+일제시대
+	일제시대/ncn
+
+때
+	때/ncn
+
+전주
+	전주/ncn
+
+객사로
+	객사/ncn+로/jca
+
+옮겨진것을
+	옮기/pvg+어/ecx+지/px+ㄴ/etm+것/nbn+을/jco
+
+1974년에
+	1974/nnc+년/nbu+에/jca
+
+이곳
+	이곳/npd
+
+덕진공원으로
+	덕진공원/ncn+으로/jca
+
+옮겨졌다고
+	옮기/pvg+어/ecx+지/px+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+누워있는
+	눕/pvg+어/ecx+있/px+는/etm
+
+조형물은
+	조형물/ncn+은/jxc
+
+마치
+	마치/mag
+
+숨죽인듯숙면을
+	숨죽인듯숙면/ncn+을/jco
+
+취하고
+	취하/pvg+고/ecc
+
+있는모습이다
+	있는모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+주변으로
+	주변/ncn+으로/jca
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+조형물이
+	조형물/ncn+이/jcc
+
+보이는데
+	보이/pvg+ㄴ데/ecs
+
+낮에
+	낮/ncn+에/jca
+
+오면
+	오/px+면/ecs
+
+설렁
+	설렁/ncn
+
+설렁~~느긋하게
+	설렁~~느긋하/ncn+이/jp+게/ecs
+
+볼거리가
+	볼거리/ncn+가/jcs
+
+많은데
+	많/paa+은/etm+데/nbn
+
+...
+	.../se
+
+
+이름그대로
+	이름그대로/ncn
+
+연꽃향에
+	연꽃/ncn+향/ncn+에/jca
+
+취한다는
+	취하/pvg+ㄴ다/ef+는/etm
+
+취향정은
+	취향/ncn+정/ncn+은/jxc
+
+1917년
+	1917/nnc+년/nbu
+
+전주지역의
+	전주/ncn+지역/ncn+의/jcm
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+친일파
+	친일파/ncn
+
+중의
+	중/nbn+의/jcm
+
+한사람인
+	한/nnc+사람/nbu+이/jp+ㄴ/etm
+
+박기순이
+	박기순/ncn+이/jcc
+
+
+자신의
+	자신/ncn+의/jcm
+
+회갑을
+	회갑/ncn+을/jco
+
+기념하기
+	기념/ncpa+하/xsva+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+세운
+	세우/pvg+ㄴ/etm
+
+정자라고
+	정자/ncn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+박기순은
+	박기순/ncn+은/jxc
+
+일제
+	일제/ncn
+
+강점기에
+	강점기/ncn+에/jca
+
+중추원
+	중추원/ncn
+
+참의,
+	참/ncn+의/jcm+,/sp
+
+여산군수,
+	여산군수,/ncn
+
+전주
+	전주/ncn
+
+농공은행장
+	농공은행/ncn+장/ncn
+
+등을
+	등/nbu+을/jco
+
+지낸
+	지내/pvg+ㄴ/etm
+
+반민족행위로
+	반민족행위/ncn+로/jca
+
+
+덕진연못의
+	덕진연못/ncn+의/jcm
+
+사설공원권을
+	사설/ncn+공원/ncn+권/ncn+을/jco
+
+장악하여
+	장악하/ncn+이/jp+어/ecs
+
+취향정을
+	취향/ncn+정/ncn+을/jco
+
+세우고
+	세우/pvg+고/ecc
+
+사람들을
+	사람들/ncn+을/jco
+
+모아
+	모으/pvg+아/ecx
+
+시회를
+	시회/ncn+를/jco
+
+여는
+	열/pvg+는/etm
+
+등
+	등/nbu
+
+전주
+	전주/ncn
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+휴식공간을
+	휴식공간/ncn+을/jco
+
+사유화
+	사유화/ncn
+
+하였는데
+	하/pvg+었/ep+는데/ecs
+
+
+당시
+	당시/ncn
+
+지은
+	지/px+ㄴ/etm
+
+시의
+	시/nbu+의/jcm
+
+편액을
+	편액/ncn+을/jco
+
+정자에
+	정자/ncn+에/jca
+
+걸어
+	걷/pvg+어/ecx
+
+취향정기
+	취향/ncn+정기/ncn
+
+비석을
+	비석/ncn+을/jco
+
+세우며
+	세우/pvg+며/ecc
+
+자신의
+	자신/ncn+의/jcm
+
+치적을
+	치적/ncn+을/jco
+
+자랑하였다
+	자랑/ncpa+하/xsva+었/ep+다/ef
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+해방이
+	해방/ncpa+이/jcc
+
+되면서
+	되/pvg+면서/ecc
+
+전주시민의
+	전주/ncn+시민/ncn+의/jcm
+
+품으로
+	풀/pvg+ㅁ/etn+으로/jca
+
+돌아온
+	돌/pvg+아/ecx+오/px+ㄴ/etm
+
+아픔이
+	아프/paa+ㅁ/etn+이/jcs
+
+있는
+	있/px+는/etm
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+정자이다
+	정자/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+현수교에
+	현수교/ncn+에/jca
+
+불이
+	불/ncn+이/jcc
+
+켜있을꺼라고
+	켜있을꺼/ncn+이/jp+라/ef+고/jcr
+
+기대하고
+	기대/pvg+어/ecx+하/px+고/ecc
+
+갔는데,
+	가/pvg+아/ep+ㄴ데/ecs+,/sp
+
+
+에너지
+	에너지/ncn
+
+절약차원에서
+	절약/ncpa+차원/ncn+에서/jca
+
+절전한다고
+	절전한다/ncn+이/jp+고/ecc
+
+조명이
+	조/nnc+명/nbu+이/jcc
+
+꺼져있는
+	꺼지/pvg+어/ecx+있/px+는/etm
+
+다리를
+	다리/ncn+를/jco
+
+보면서
+	보/px+면서/ecc
+
+....
+	.../se+./sf
+
+
+에궁~~다리가
+	에궁~~다리/ncn+가/jcs
+
+풀렸다
+	풀리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+어두웠지만
+	어둡/paa+었/ep+지만/ecs
+
+자주
+	자주/mag
+
+올수
+	오/px+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+공원도
+	공원/ncn+도/jxc
+
+아니고
+	아니/paa+고/ecc
+
+건너편까지건너가보기로
+	건너편까지건너가보/ncn+이/jp+기/etn+로/jca
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+현수교를
+	현수교/ncn+를/jco
+
+걸으며
+	걸/pvg+며/ecc
+
+사진을
+	사진/ncn+을/jco
+
+담으려니
+	담/pvg+으려니/ecs
+
+출렁
+	출렁/ncn
+
+출렁~~
+	출렁~~/ncn
+
+기둥에
+	기둥/ncn+에/jca
+
+카메라
+	카메라/ncn
+
+대고
+	대/nbu+이/jp+고/ecc
+
+겨우
+	겨우/mag
+
+한장
+	한/nnc+장/nbu
+
+건진
+	건지/pvg+ㄴ/etm
+
+사진이다
+	사진/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+덕진공원은
+	덕진공원/ncn+은/jxc
+
+전주역
+	전주/ncn+역/ncn
+
+북쪽
+	북쪽/ncn
+
+3km
+	3km/ncn
+
+지점에
+	지점/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+유원지로
+	유원지/ncn+로/jca
+
+지금은
+	지금/ncn+은/jxc
+
+전주시민의
+	전주/ncn+시민/ncn+의/jcm
+
+유원지로
+	유원지/ncn+로/jca
+
+
+동국여지승람에
+	동국여지승람/ncn+에/jca
+
+보면
+	보/px+면/ecs
+
+전주는
+	전주/ncn+는/jxc
+
+산으로
+	산/ncn+으로/jca
+
+둘러싸여
+	둘러싸이/pvg+어/ecx
+
+분지를
+	불/pvg+ㄴ/etm+지/nbn+를/jco
+
+이루고
+	이루/pvg+고/ecc
+
+있으나
+	있/px+으나/ecs
+
+북방
+	북방/ncn
+
+만이
+	만/nnc+이/jcc
+
+공허하여
+	공허/ncps+하/xsms+어/ecx
+
+지기가
+	지/nbn+이/jp+기/etn+가/jcs
+
+얕다는
+	얕/paa+다/ef+는/etm
+
+이유로
+	이유/ncn+로/jca
+
+
+가련산과
+	가련/ncn+산/ncn+과/jcj
+
+건지산
+	건지/ncn+산/ncn
+
+사이를
+	사이/ncn+를/jco
+
+제방으로
+	제방/ncn+으로/jca
+
+막아
+	막/pvg+아/ecx
+
+지맥이
+	지맥/ncn+이/jcc
+
+흐르지
+	흐르/pvg+지/ecx
+
+않도록
+	않/px+도록/ecs
+
+저수한
+	저수/ncpa+하/xsva+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+농사용이
+	농사/ncn+용/ncn+이/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+풍수지리설에
+	풍수지리/ncn+설/ncn+에/jca
+
+연유하여
+	연유/ncpa+하/xsva+어/ecx
+
+축조된
+	축조/ncpa+되/xsvn+ㄴ/etm
+
+호수이다
+	호수/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+공원내에는
+	공원/ncn+내/ncn+에/jca+는/jxc
+
+전주이씨
+	전주이씨/ncn
+
+시조인
+	시조/ncn+이/jp+ㄴ/etm
+
+신라
+	신/xp+라/ncn
+
+사공이한을
+	사공이한/ncn+을/jco
+
+모신
+	모시/pvg+ㄴ/etm
+
+조경단과
+	조경/ncpa+단/ncn+과/jcj
+
+취향정,
+	취향/ncn+정/ncn+,/sp
+
+동물원
+	동물원/ncn
+
+등이
+	등/nbu+이/jcc
+
+있고
+	있/paa+고/ecc
+
+
+각종
+	각종/ncn
+
+위락시설을
+	위락시설/ncn+을/jco
+
+갖추고
+	갖추/pvg+고/ecc
+
+있으며
+	있/px+으며/ecc
+
+덕진호를
+	덕진호/ncn+를/jco
+
+가로지르는
+	가로지르/pvg+는/etm
+
+현수교를
+	현수교/ncn+를/jco
+
+가르지르는
+	가르지르/ncn+는/jxc
+
+연꽃들의
+	연꽃/ncn+들/ncn+의/jcm
+
+장관은
+	장관/ncr+은/jxc
+
+명성이
+	명성/ncn+이/jcc
+
+자자하다
+	자자/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+예전에
+	예전/ncn+에/jca
+
+담았던
+	담/pvg+아/ep+ㄴ/etm
+
+8월의
+	8/nnc+월/nbu+의/jcm
+
+덕진공원
+	덕진공원/ncn
+
+풍경
+	풍경/ncn
+
+
+어두운
+	어둡/paa+은/etm
+
+공원을
+	공원/ncn+을/jco
+
+밝게
+	밝/paa+게/ecs
+
+담으려니
+	담/pvg+으려니/ecs
+
+많은
+	많/paa+은/etm
+
+노력
+	노력/ncpa
+
+?
+	?/sf
+
+
+이
+	이/mmd
+
+필요하다
+	필요/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+덕진호를
+	덕진호/ncn+를/jco
+
+감싸고
+	감싸/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+도심의
+	도심/ncn+의/jcm
+
+불빛은
+	불빛/ncn+은/jxc
+
+아름다운
+	아름답/paa+은/etm
+
+반영을
+	반영/ncn+을/jco
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+여름의
+	여름/ncn+의/jcm
+
+그
+	그/mmd
+
+화려하고
+	화려/ncps+하고/jct
+
+단아했던
+	단아/ncps+하/xsms+었/ep+던/etm
+
+연지는
+	열/pvg+ㄴ/etm+지/nbn+는/jxc
+
+사계절을
+	사계절/ncn+을/jco
+
+다
+	다/mag
+
+보내고
+	보내/pvg+고/ecc
+
+무거운
+	무겁/paa+은/etm
+
+공기를
+	공기/ncn+를/jco
+
+감싸고
+	감싸/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+어둠속에서
+	어둠/ncn+속/ncn+에서/jca
+
+간간히
+	간간히/mag
+
+비쳐진
+	비치/pvg+어/ecx+지/px+ㄴ/etm
+
+불빛
+	불빛/ncn
+
+사이로
+	사이/ncn+로/jca
+
+보이는
+	보이/pvg+는/etm
+
+흔적들을
+	흔적/ncn+들/ncn+을/jco
+
+보면서
+	보/px+면서/ecc
+
+벌써
+	벌써/mag
+
+봄이
+	보/px+ㅁ/etn+이/jcs
+
+그리워진다면
+	그립/paa+어/ecx+지/px+ㄴ다면/ecs
+
+욕심일까
+	욕심/ncn+이/jp+ㄹ까/ef
+
+.
+	./sf
+
+
+덕진공원
+	덕진공원/ncn
+
+(063-239-2607)
+	(/sl+063/nnc+-239/nnc+-2607/nnc+)/sr
+
+
+전북
+	전/xp+북/ncn
+
+전주시
+	전주/ncn+시/ncn
+
+덕진구
+	덕진구/ncn
+
+덕진동
+	덕진동/ncn
+
+2가
+	2/nnc+가/jcs
+
+1314-4
+	1314/nnc+-4/nnc
+
+
+덕진공원
+	덕진공원/ncn
+
+
+전라북도
+	전라/ncn+북/ncn+도/jxc
+
+전주시
+	전주/ncn+시/ncn
+
+덕진구
+	덕진구/ncn
+
+덕진동2가
+	덕진동2/ncn+가/jcc
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01944664",
+	"bl01944664",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11622405",
+	"/sl+11622405/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"덕진공원",
+	title:"덕진공원",/ncn
+
+pointX:320855,pointY:361351}
+	pointX/f+:/sp+320855/nnc+,/sp+pointY/f+:/sp+361351/nnc+}/sr

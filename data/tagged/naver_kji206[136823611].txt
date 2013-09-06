@@ -1,0 +1,1209 @@
+[구례여행]
+	[구례여행]/ncn
+
+섬진강
+	섬진강/ncn
+
+멸종위기
+	멸종위기/ncn
+
+어류종
+	어류/ncn+종/ncn
+
+보존하는
+	보존/ncpa+하/xsva+는/etm
+
+섬진강섬진강어류생태관
+	섬진강섬진강어류생태관/ncn
+
+
+구례
+	구례/ncn
+
+섬진강어류생태관은
+	섬진강어류생태관/ncn+은/jxc
+
+
+섬진강
+	섬진강/ncn
+
+민물고기
+	민물고기/ncn
+
+전시
+	전시/ncn
+
+및
+	및/maj
+
+체험
+	체험/ncpa
+
+학습
+	학습/ncpa
+
+교육과
+	교육과/ncn
+
+북태평양
+	북태평양/ncn
+
+연어
+	연어/ncn
+
+종묘생산
+	종묘/ncn+생산/ncpa
+
+방류
+	방류/ncpa
+
+등
+	등/nbu
+
+자원관리를
+	자원관리/ncpa+를/jco
+
+하며
+	하/pvg+며/ecc
+
+
+섬진강
+	섬진강/ncn
+
+어류자원조성
+	어류/ncn+자원/ncn+조성/ncpa
+
+및
+	및/maj
+
+멸종위기
+	멸종위기/ncn
+
+어류
+	어류/ncn
+
+종
+	종/nbu
+
+보존을
+	보존/ncpa+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+일을
+	일/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+,
+	,/sp
+
+,
+	,/sp
+
+3개관으로
+	3개관/ncn+으로/jca
+
+이루어진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+전시동인
+	전시/ncn+동/ncn+이/jp+ㄴ/etm
+
+본
+	보/px+ㄴ/etm
+
+생태관의
+	생태/ncn+관/ncn+의/jcm
+
+주
+	주/nbu
+
+전시실
+	전시실/ncn
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+로비에
+	로비/ncn+에/jca
+
+환경자전거
+	환경/ncn+자전거/ncn
+
+동력장치가
+	동력장치/ncn+가/jcs
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+대형수족관에서는
+	대형/ncn+수족관/ncn+에서/jca+는/jxc
+
+열대어가
+	열대어/ncn+가/jcs
+
+여행자를
+	여행자/ncn+를/jco
+
+반기고
+	반기/pvg+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+전시장은
+	전시장/ncr+은/jxc
+
+천,
+	천/nnc+,/sp
+
+수,
+	수/nbn+,/sp
+
+지.
+	지/nbn+./sf
+
+..
+	./sf+./sf
+
+
+제1전시실
+	제1전시/ncn+이/jp+시/ep+ㄹ/etm
+
+을
+	을/ncn
+
+향해
+	향하/pvg+어/ecx
+
+올라가는길,
+	올라가는길,/ncn
+
+섬진강
+	섬진강/ncn
+
+이야기가
+	이야기/ncpa+가/jcc
+
+펼쳐졌다
+	펼치/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+섬진강
+	섬진강/ncn
+
+발원은
+	발원/ncpa+은/jxc
+
+노령산맥의
+	노령/ncn+산맥/ncn+의/jcm
+
+동쪽
+	동쪽/ncn
+
+경사면과
+	경사면/ncn+과/jcj
+
+소백산맥의
+	소백산맥/ncn+의/jcm
+
+서쪽
+	서쪽/ncn
+
+경사면인
+	경사면/ncn+이/jp+ㄴ/etm
+
+전북
+	전/xp+북/ncn
+
+진안군
+	진안군/ncn
+
+마이산이라고
+	마이산/ncn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+남해의
+	남해/ncn+의/jcm
+
+광양만에
+	광양만/ncn+에/jca
+
+도달하기까지
+	도달/ncpa+하/xsva+기/etn+까지/jxc
+
+212.3
+	212.3/nnc
+
+를
+	를/ncn
+
+흘러오면서
+	흐르/pvg+어/ecx+오/px+면서/ecc
+
+순창군
+	순창군/ncn
+
+적성면의
+	적성면/ncn+의/jcm
+
+오수천과
+	오/nnc+수천/nnc+과/jct
+
+만나고
+	만나/pvg+고/ecc
+
+남원시의
+	남원시/ncn+의/jcm
+
+요천과
+	요천/ncn+과/jct
+
+합류하는가
+	합류/ncpa+하/xsva+는가/ecs
+
+하면
+	하/pvg+면/ecs
+
+
+보성강과
+	보성강/ncn+과/jcj
+
+물길을
+	물길/ncn+을/jco
+
+섞어
+	섞/pvg+어/ecx
+
+하동군
+	하동군/ncn
+
+화개면
+	화개/ncn+이/jp+면/ecs
+
+탑리에서
+	탑리/ncn+에서/jca
+
+부터
+	부터/ncn
+
+경상도와
+	경상/ncn+도/ncn+와/jcj
+
+전라도의
+	전라/ncn+도/ncn+의/jcm
+
+도
+	도/ncn
+
+경계선을
+	경계선/ncn+을/jco
+
+이룬다
+	이루/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+본디
+	본디/mag
+
+섬진강은
+	섬진강/ncn+은/jxc
+
+모래가람,
+	모래/ncn+가람/ncn+,/sp
+
+다사강,
+	다사/ncps+강/ncn+,/sp
+
+사천,
+	사/nnc+천/nnc+,/sp
+
+기문화,
+	기문화,/ncn
+
+두치강으로
+	두치강/ncn+으로/jca
+
+불릴
+	불리/pvg+ㄹ/etm
+
+만큼
+	만큼/nbn
+
+고운
+	곱/paa+은/etm
+
+모래로
+	모래/ncn+로/jca
+
+유명하다
+	유명/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+섬진강을
+	섬진강/ncn+을/jco
+
+대표하는
+	대표/ncpa+하/xsva+는/etm
+
+물속친구들
+	물속친구들/ncn
+
+..
+	./sf+./sf
+
+
+섬진강에서만
+	섬진강에서만/ncn
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+생소한
+	생소/ncps+하/xsms+ㄴ/etm
+
+물고기를
+	물고기/ncn+를/jco
+
+보면서
+	보/px+면서/ecc
+
+제1
+	제1/ncn
+
+전시장으로
+	전시장/ncr+으로/jca
+
+올라갔다
+	오르/pvg+아/ecx+가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+제1전시장
+	제1전시장/ncn
+
+섬진강의
+	섬진강/ncn+의/jcm
+
+하늘
+	하늘/ncn
+
+
+섬진강의
+	섬진강/ncn+의/jcm
+
+사계,
+	사계/ncn+,/sp
+
+삶의
+	삶/ncn+의/jcm
+
+터전
+	터전/ncn
+
+
+섬진강의
+	섬진강/ncn+의/jcm
+
+사람들,
+	사람들/ncn+,/sp
+
+선사시대,섬진강의
+	선사시대,섬진강/ncn+의/jcm
+
+조선시대에서
+	조선시대/ncn+에서/jca
+
+근대까지
+	근대/ncn+까지/jxc
+
+...
+	.../se
+
+
+우리나라에서
+	우리나라/ncn+에서/jca
+
+유일하게
+	유일/ncps+하/xsms+게/ecs
+
+태고적부터의
+	태고/ncn+적/ncn+부터/jca+의/jcm
+
+환경과
+	환경/ncn+과/jcj
+
+모습을
+	모습/ncn+을/jco
+
+고스란히
+	고스란히/mag
+
+간직하고
+	간직/ncpa+하고/jct
+
+마르지
+	마르/pvg+지/ecx
+
+않은
+	않/px+은/etm
+
+섬진강이
+	섬진강/ncn+이/jcc
+
+흐르는
+	흐르/pvg+는/etm
+
+땅
+	땅/ncn
+
+구례
+	구례/ncn
+
+
+수천년
+	수천/nnc+년/nbu
+
+전부터
+	전/nbn+부터/jxc
+
+사람과
+	사람/ncn+과/jct
+
+수많은
+	수많/paa+은/etm
+
+동식물들이
+	동식물/ncn+들/ncn+이/jcc
+
+서로
+	서로/mag
+
+어우러져
+	어우러지/pvg+어/ecx
+
+삶을
+	삶/ncn+을/jco
+
+영위해
+	영위/ncpa+하/xsva+어/ecx
+
+왔고
+	오/px+아/ep+고/ecc
+
+앞으로
+	앞/ncn+으로/jca
+
+살아갈
+	살/pvg+아/ecx+가/px+ㄹ/etm
+
+곳,
+	곳/ncn+,/sp
+
+삶과
+	삶/ncn+과/jcj
+
+생명의
+	생명/ncn+의/jcm
+
+공간으로서
+	공간/ncn+으로서/jca
+
+
+섬진강의
+	섬진강/ncn+의/jcm
+
+풍요롭고
+	풍요/ncpa+롭/xsmn+고/ecc
+
+조화로운
+	조화/ncn+로운/ncn
+
+삶의
+	삶/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+에니메이션
+	에니메이션/ncn
+
+영상과
+	영상/ncn+과/jcj
+
+디오라마로
+	디오라마/ncn+로/jca
+
+연출하여
+	연출/ncpa+하/xsva+어/ecx
+
+자연의
+	자연/ncn+의/jcm
+
+소중함을
+	소중/ncn+함/ncn+을/jco
+
+일깨워주는
+	일깨우/pvg+어/ecx+주/px+는/etm
+
+공간이다
+	공간/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+다른
+	다른/mma
+
+전시관으로
+	전시관/ncn+으로/jca
+
+이동하는
+	이동/ncpa+하/xsva+는/etm
+
+통로에는
+	통로/ncn+에/jca+는/jxc
+
+어김없이
+	어김없이/mag
+
+궁금증을
+	궁금증/ncn+을/jco
+
+푸는
+	풀/pvg+는/etm
+
+재미있는
+	재미있/pvg+는/etm
+
+이야기가
+	이야기/ncpa+가/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+제2전시장
+	제2전시장/ncn
+
+섬진강의
+	섬진강/ncn+의/jcm
+
+물
+	물/nbu
+
+
+물과
+	물/ncn+과/jcj
+
+생명의
+	생명/ncn+의/jcm
+
+공간
+	공간/ncn
+
+소중한
+	소중/ncps+하/xsms+ㄴ/etm
+
+생명의
+	생명/ncn+의/jcm
+
+근원
+	근원/ncn
+
+
+섬진강을
+	섬진강/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+자연의
+	자연/ncn+의/jcm
+
+소중함과
+	소중/ncn+함/ncn+과/jcj
+
+환경보전의
+	환경보전/ncpa+의/jcm
+
+중요성을
+	중요성/ncn+을/jco
+
+전달하고
+	전달/ncn+하고/jct
+
+오염되지
+	오염/ncpa+되/xsvn+지/ecx
+
+않은
+	않/px+은/etm
+
+섬지강의
+	섬지강/ncn+의/jcm
+
+구기술들을
+	구기/ncn+술/ncn+들/xsncc+을/jco
+
+소개하고
+	소개/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+섬진강의
+	섬진강/ncn+의/jcm
+
+환경적
+	환경/ncn+적/ncn
+
+생태적
+	생태/ncn+적/ncn
+
+생물자원적으로
+	생물자원/ncn+적/ncn+으로/jca
+
+보존가치가
+	보존가치/ncn+가/jcs
+
+높은
+	높/paa+은/etm
+
+섬진강수계별
+	섬진강수계별/ncn
+
+특징적인
+	특징/ncn+적/ncn+이/jp+ㄴ/etm
+
+생태환경을
+	생태환경/ncn+을/jco
+
+
+수족관에
+	수족관/ncn+에/jca
+
+재현하여
+	재현/ncpa+하/xsva+어/ecx
+
+관람객의
+	관람객/ncn+의/jcm
+
+이해를
+	이/nnc+해/nbu+를/jco
+
+돕고
+	돕/pvg+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+황쏘가리,
+	황쏘가리,/ncn
+
+꺽지,
+	꺽지/ncn+,/sp
+
+잉어,
+	잉어/ncn+,/sp
+
+붕어,뱀장어,
+	붕어/ncpa+,/sp+뱀장어/ncn+,/sp
+
+은어,
+	은어/ncn+,/sp
+
+황어,
+	황어,/ncn
+
+누치
+	누치/ncn
+
+등등
+	등등/nbn
+
+..
+	./sf+./sf
+
+
+제3전시장
+	제3전시장/ncn
+
+섬진강의
+	섬진강/ncn+의/jcm
+
+땅
+	땅/mag
+
+
+땅과
+	땅/ncn+과/jcj
+
+환경의
+	환경/ncn+의/jcm
+
+공간
+	공간/ncn
+
+
+섬진강의
+	섬진강/ncn+의/jcm
+
+환경이
+	환경/ncn+이/jcc
+
+파괴되면
+	파괴/ncpa+되/xsvn+면/ecs
+
+어떤
+	어떤/mmd
+
+일들이
+	일/pvg+ㄹ/etm+들/nbn+이/jcc
+
+일어나게
+	일어나/pvg+게/ecs
+
+되는지를
+	되/pvg+는/etm+지/nbn+를/jco
+
+소개하여
+	소개/ncpa+하/xsva+어/ecs
+
+
+관람객에게
+	관람객/ncn+에게/jca
+
+환경
+	환경/ncn
+
+파괴에
+	파괴/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+경각심을
+	경각심/ncn+을/jco
+
+전달하고
+	전달/ncn+하고/jct
+
+섬진강의
+	섬진강/ncn+의/jcm
+
+환경을
+	환경/ncn+을/jco
+
+지키기
+	지키/pvg+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+노력들을
+	노력/ncpa+들/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+지피정원,
+	지피정원,/ncn
+
+거울수반,
+	거울/ncn+수반/ncn+,/sp
+
+생태연목,
+	생태/ncn+연목/ncn+,/sp
+
+야생화산책로,
+	야생/ncpa+화산/ncn+책/ncn+로/jca+,/sp
+
+피크닉정원,
+	피크닉/ncn+정원/ncn+,/sp
+
+민물보존사육시설등
+	민물/ncn+보존/ncpa+사육/ncpa+시설/ncpa+등/ncn
+
+색다른
+	색다르/paa+ㄴ/etm
+
+분위기를
+	분위기/ncn+를/jco
+
+연출하며
+	연출/ncpa+하/xsva+며/ecc
+
+또한
+	또한/maj
+
+학습의
+	학습/ncpa+의/jcm
+
+장이
+	장/nbu+이/jcc
+
+되는
+	되/pvg+는/etm
+
+공간이다
+	공간/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+수달을
+	수달/ncn+을/jco
+
+보호
+	보호/ncpa
+
+서식하고
+	서식/ncpa+하고/jct
+
+있다고
+	있/px+다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+직접
+	직접/mag
+
+보러
+	보/px+러/ecs
+
+가보았다
+	가/pvg+아/ecx+보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+수달은
+	수달/ncn+은/jxc
+
+인위적
+	인위/ncn+적/ncn
+
+방해가
+	방해/ncpa+가/jcc
+
+없고
+	없/paa+고/ecc
+
+오염없이
+	오염/ncpa+없이/jca
+
+깨끗하며
+	깨끗/ncps+하/xsms+며/ecc
+
+먹이가
+	먹이/ncn+가/jcs
+
+충분히
+	충분히/mag
+
+공급될
+	공급/ncpa+되/xsvn+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+해양,
+	해양/ncn+,/sp
+
+강,
+	강/ncn+,/sp
+
+호수,
+	호수/ncn+,/sp
+
+늪지역에
+	늪지/ncn+역/ncn+에/jca
+
+
+주로
+	주로/mag
+
+서식하는
+	서식/ncpa+하/xsva+는/etm
+
+종으로
+	종/ncn+으로/jca
+
+전세계
+	전세계/ncn
+
+많은
+	많/paa+은/etm
+
+지역의
+	지역/ncn+의/jcm
+
+습지와
+	습지/ncn+와/jcj
+
+수로에
+	수로/ncn+에/jca
+
+있어서
+	있/px+어서/ecs
+
+건강한
+	건강/ncps+하/xsms+ㄴ/etm
+
+수환경의
+	수환경/ncn+의/jcm
+
+지표종이라고
+	지표/ncn+종이/ncn+이/jp+라/ef+고/jcr
+
+명시하고
+	명시/ncn+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+수달은
+	수달/ncn+은/jxc
+
+야행성이라
+	야행성/ncn+이/jp+라/ecs
+
+잠을
+	잠/ncn+을/jco
+
+자고있어
+	자/pvg+고/ecx+있/px+어/ecx
+
+움직임은
+	움직이/pvg+ㅁ/etn+은/jxc
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없었지만
+	없/paa+었/ep+지만/ecs
+
+작은
+	작/paa+은/etm
+
+얼굴을
+	얼굴/ncn+을/jco
+
+본것
+	보/px+ㄴ/etm+것/nbn
+
+만으로도
+	만/nnc+으로/jca+도/jxc
+
+만족~~
+	만족/ncn+~/sd+~/sd
+
+
+입
+	입/ncn
+
+주위에
+	주위/ncn+에/jca
+
+고양이의
+	고양이/ncn+의/jcm
+
+것
+	것/nbn
+
+처럼
+	처럼/ncn
+
+뻣뻣하고
+	뻣뻣하/paa+어/ef+고/jcr
+
+긴
+	길/paa+ㄴ/etm
+
+수염이
+	수염/ncn+이/jcc
+
+있어
+	있/paa+어/ecs
+
+
+물속에서
+	물/ncn+속/xsnx+에서/jca
+
+물고기의
+	물고기/ncn+의/jcm
+
+움직임을
+	움직이/pvg+ㅁ/etn+을/jco
+
+감지하며
+	감/pvg+지/ecx+하/px+며/ecc
+
+다리는
+	다리/ncn+는/jxc
+
+짧아
+	짧/paa+아/ecx
+
+물속에서와
+	물/ncn+속/xsnx+에서/jca+와/jcj
+
+달리
+	달리/mag
+
+땅위에서는
+	땅/ncn+위/xsnx+에서/jca+는/jxc
+
+상대적으로
+	상대/ncn+적/ncn+으로/jca
+
+달리는
+	달리/pvg+는/etm
+
+속도가
+	속도/ncn+가/jcs
+
+느리다
+	느리/paa+다/ef
+
+.
+	./sf
+
+
+바로옆
+	바로옆/ncn
+
+섬진강
+	섬진강/ncn
+
+강뚝에는
+	강뚝/ncn+에/jca+는/jxc
+
+원추리가
+	원추리/ncn+가/jcs
+
+가득
+	가득/mag
+
+피어있다
+	피/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+파아란
+	파아란/ncn
+
+하늘과
+	하늘/ncn+과/jct
+
+맑은
+	맑/paa+은/etm
+
+햇살
+	햇살/ncn
+
+....
+	.../se+./sf
+
+
+잠깐씩
+	잠깐씩/ncn
+
+부는
+	불/pvg+는/etm
+
+바람에도
+	바라/pvg+ㅁ/etn+에/jca+도/jxc
+
+마음이
+	마음/ncn+이/jcc
+
+날라간다
+	나르/pvg+아/ecx+가/px+ㄴ다/ef
+
+..
+	./sf+./sf

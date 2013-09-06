@@ -1,0 +1,58 @@
+Title:
+선덕여왕 OST '아라로' - 아이유 (IU) 
+
+Date:
+2010.04.08 02:58
+
+Content:
+
+
+선덕여왕 OST ' 아라로
+아라로 .. "아라" 는 바다의 고어..
+아이유가 부른 선덕여왕 OST .. 아라로'는 현대음악과 가야금이 절묘하게 이루어진 곡이다
+
+선덕여왕 OST - 아라로 (아이유)
+
+
+아이유 (IU) -아라로 ( 선덕여왕 OST ) 뮤직비디오
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc18/2010/04/08/542/03100223710D539E76C3E97B735530537C2_ya3542_logo.jpg';
+	layout.playtime = '222.33';
+	var qsParam = {};
+	qsParam.vid = 'CEB0927FD3089F6A2D2C1A9C7C39BD1FD446';
+	qsParam.inKey = 'V12210086a5ad7033663a0539daa49e8c88fca83cd068924082d651f50c607cbddc170539daa49e8c88fc';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_07529 = new VideoInfraUGCPlayer('ugcPlayer_07529' ,bean); 
+ugcPlayer_07529.drawPlayLayer(); 
+}
+
+
+
+선덕여왕 OST '아라로' - 아이유 (IU) 가사
+
+아라에 다닿을까 아라에 다닿을까아라에 다닿을까 아라에 다닿을까아라에 다닿을까 아라에 다닿을까아라에 다닿을까 아라에 다닿을까
+바람길 가차가차 바람길 가차가차마음길 아라로 가니바람길 물결 건너 바람길 하늘 지나마음길 숨결 따라아라에 다닿을까 아라에 다닿을까아라에 다닿을까 아라에 다닿을까아라에 다닿을까 아라에 다닿을까아라로
+바람길 가차가차 바람길 가차가차마음길 아라로 가니바람길 물결 건너 바람길 하늘 지나마음길 숨결 따라아라에 다닿을까 아라에 다닿을까아라에 다닿을까 아라에 다닿을까아라에 다닿을까 아라에 다닿을까아라로
+아라에 다닿을까 아라에 다닿을까아라에 다닿을까 아라에 다닿을까아라에 다닿을까 아라에 다닿을까아라에 다닿을까 아라에 다닿을까아라에 다닿을까 아라에 다닿을까아라에 다닿을까 아라에 다닿을까아라에 다닿을까 아라에 다닿을까아라에 다닿을까 아라에 다닿을까
+
+
+민초호야의 음악여행 
+선덕여왕 OST - 아라로 / 아이유
+
+
+	

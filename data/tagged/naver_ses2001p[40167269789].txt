@@ -1,0 +1,846 @@
+제주공항근처맛집
+	제주공항근처맛집/ncn
+
+제주도정식
+	제주/ncn+도정/ncn+식/ncn
+
+잘하는집
+	잘하는집/ncn
+
+
+제주도를
+	제주/ncn+도/ncn+를/jco
+
+도착하거나
+	도착/ncpa+하/xsva+거나/ecc
+
+떠날때
+	떠나/pvg+ㄹ/etm+때/nbn
+
+식사를
+	식사/ncpa+를/jco
+
+할수
+	하/pvg+ㄹ/etm+수/nbn
+
+있는곳을
+	있는곳/ncn+을/jco
+
+찾으신다면
+	찾/pvg+으시/ep+ㄴ다면/ecs
+
+제주공항근처맛집을
+	제주공항근처맛집/ncn+을/jco
+
+
+찾으실텐데요
+	찾/pvg+으시/ep+ㄹ텐데/ef+요/jxf
+
+제주도정식잘하는집
+	제주도정식잘하는집/ncn
+
+동도원을
+	동도/ncn+원/ncn+을/jco
+
+소개할게요
+	소개할게요/ncn
+
+^^
+	^/sy+^/sy
+
+허브비치가
+	허브비치/ncn+가/jcs
+
+단골로
+	단골/ncn+로/jca
+
+가는곳이라서
+	가는곳/ncn+이라서/jca
+
+
+잘하면
+	잘하/pvg+면/ecs
+
+저를
+	저/npp+를/jco
+
+볼수도
+	보/px+ㄹ/etm+수/nbn+도/jxc
+
+있는곳
+	있는곳/ncn
+
+특히
+	특히/mag
+
+아는
+	알/pvg+는/etm
+
+지인들이
+	지/nbn+이/jp+ㄴ/etm+들/nbn+이/jcc
+
+제주공항근처맛집을
+	제주공항근처맛집/ncn+을/jco
+
+소개해달라고하면
+	소개해달라고하/ncn+이/jp+면/ecs
+
+바로
+	바로/mag
+
+
+제주도정식잘하는집으로
+	제주도정식잘하는집/ncn+으로/jca
+
+소개한답니다
+	소개/ncpa+하/xsva+ㄴ답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+제주도정식을
+	제주/ncn+도정/ncn+식/ncn+을/jco
+
+소개하는
+	소개/ncpa+하/xsva+는/etm
+
+이유
+	이유/ncn
+
+다른곳보다
+	다른곳/ncn+보다/jca
+
+풍성하게
+	풍성/ncps+하/xsms+게/ecs
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+반찬가지수에
+	반찬/ncn+가지수/ncn+에/jca
+
+일단
+	일단/mag
+
+행복한비명을
+	행복한비명/ncn+을/jco
+
+질러봅니다
+	지르/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+다른곳은
+	다른곳/ncn+은/jxc
+
+반찬
+	반찬/ncn
+
+몇개주고
+	몇개주/ncn+이/jp+고/ecc
+
+주
+	주/nbu
+
+메뉴가
+	메뉴/ncn+가/jcs
+
+나오는데
+	나/pvg+아/ecx+오/px+ㄴ데/ecs
+
+동도원은
+	동도/ncn+원/ncn+은/jxc
+
+사발에다가
+	사발/ncn+에다가/jca
+
+정성있게
+	정성/ncn+있/xsmn+게/ecs
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+식사가
+	식사/ncpa+가/jcc
+
+일품입니다
+	일품/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이제는
+	이제/mag+는/jxc
+
+식사를
+	식사/ncpa+를/jco
+
+하러가면
+	하러가/ncn+이/jp+면/ecs
+
+당연히
+	당연히/mag
+
+제주도정식잘하는집
+	제주도정식잘하는집/ncn
+
+동도원으로
+	동도/ncn+원/ncn+으로/jca
+
+가는걸로
+	가는걸/ncn+로/jca
+
+알고
+	알/pvg+고/ecx
+
+
+있는
+	있/px+는/etm
+
+울
+	울/pvg+ㄹ/etm
+
+아들
+	아들/ncn
+
+제주공항근처맛집으로
+	제주공항근처맛집/ncn+으로/jca
+
+소개할만하지
+	소개/ncpa+하/xsva+ㄹ/etm+만/nbs+하/xsms+지/ecx
+
+하니
+	하/pvg+니/ecs
+
+장난을
+	장난/ncn+을/jco
+
+칩니다
+	치/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+반찬이
+	반찬/ncn+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+하나하나
+	하/pvg+어/ecx+나/px+아/ecx+하/px+어/ecx+나/px+아/ecx
+
+열거하다보면
+	열거/ncpa+하/xsva+어다/ecx+보/px+면/ecs
+
+많아서
+	많/paa+아/ecx
+
+이렇게
+	이렇/pad+게/ecs
+
+모아서
+	모으/pvg+아/ecx
+
+올려봅니다
+	올리/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+1인당
+	1인당/ncn
+
+10,000원에
+	10,000/nnc+원/nbu+에/jca
+
+풍성하게
+	풍성/ncps+하/xsms+게/ecs
+
+먹을수
+	먹/pvg+을/etm+수/nbn
+
+있어서
+	있/px+어서/ecs
+
+좋은데요
+	좋은데요/ncn
+
+지금
+	지금/mag
+
+보시는
+	보/px+시/ep+는/etm
+
+식단은
+	식단/ncn+은/jxc
+
+4인분
+	4/nnc+이/jp+ㄴ/etm+분/nbn
+
+정식이랍니다
+	정식/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+고등어조림과
+	고등/ncn+어조/ncn+이/jp+리/ep+ㅁ/etn+과/jcj
+
+해물뚝배기
+	해물/ncn+뚝배기/ncn
+
+그리고
+	그리고/maj
+
+옥돔까지
+	옥돔/ncn+까지/jxc
+
+나오니
+	나/pvg+아/ecx+오/px+니/ecs
+
+대박이죠
+	대박/ncn+이/jp+죠/ef
+
+^^
+	^/sy+^/sy
+
+
+제주공항근처맛집으로
+	제주공항근처맛집/ncn+으로/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+집들
+	집/ncn+들/xsncc
+
+다가봐도
+	다가봐/ncn+도/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+푸짐하게
+	푸짐/ncps+하/xsms+게/ecs
+
+주는곳은
+	주는곳/ncn+은/jxc
+
+드물답니다
+	드물/paa+답니다/ef
+
+.
+	./sf
+
+
+요즘
+	요즘/mag
+
+건강생각해서인지
+	건강/ncps+생각/ncpa+해서/ncn+이/jp+ㄴ지/ecs
+
+나물반찬을
+	나물/ncn+반찬/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+먹으려고해요
+	먹으려고해요/ncn
+
+특히
+	특히/mag
+
+몸에
+	몸/ncn+에/jca
+
+좋은
+	좋/paa+은/etm
+
+고등어
+	고등어/ncn
+
+^^
+	^/sy+^/sy
+
+
+울식구들은
+	울식구들/ncn+은/jxc
+
+여행사일을
+	여행사/ncn+일/ncn+을/jco
+
+하다보니
+	하/pvg+어다/ecx+보/px+니/ecs
+
+항상
+	항상/mag
+
+외식을
+	외식/ncn+을/jco
+
+많이하게
+	많이하/ncn+이/jp+게/ecs
+
+되는데요
+	되/pvg+ㄴ데/ef+요/jxf
+
+제주공항근처맛집들을
+	제주공항근처맛집들/ncn+을/jco
+
+
+블러그들
+	블러그들/ncn
+
+올린글보고
+	올린글보/ncn+이/jp+고/ecc
+
+갔다가
+	가/px+아/ep+다가/ecs
+
+낭패를
+	낭패/ncpa+를/jco
+
+많이
+	많/paa+이/xsa
+
+봤답니다
+	보/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+본인
+	본인/ncn
+
+입맛에
+	입맛/ncn+에/jca
+
+정말
+	정말/mag
+
+그
+	그/mmd
+
+집이
+	집/ncn+이/jcc
+
+맛있다고
+	맛있/paa+다고/ecs
+
+
+올린건지
+	올리/pvg+ㄴ/etm+것/nbn+이/jp+ㄴ지/ecs
+
+그래서
+	그래서/maj
+
+제주도가
+	제주/ncn+도/ncn+가/jcs
+
+욕을
+	욕/ncn+을/jco
+
+먹는지도
+	먹/pvg+는지/ecs+도/jxc
+
+모르겠어요
+	모르/pvg+겠/ep+어/ef+요/jxf
+
+이제라도
+	이제/mag+라도/jxc
+
+정말
+	정말/mag
+
+맛있는집들
+	맛있는집/ncn+들/ncn
+
+올렸으면
+	올리/pvg+었/ep+으면/ecs
+
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+단
+	단/mma
+
+제가
+	저/npp+가/jcs
+
+올리는집들도
+	올리는집들/ncn+도/jxc
+
+다
+	다/mag
+
+맛있는집은
+	맛있는집/ncn+은/jxc
+
+아니랍니다
+	아니/paa+랍니다/ef
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+올린
+	올리/pvg+ㄴ/etm
+
+식당들은
+	식당/ncn+들/ncn+은/jxc
+
+참고하시면
+	참/pvg+고/ecx+하/px+시/ep+면/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+상다리가
+	상다리/ncn+가/jcs
+
+부러진다는
+	부르/pvg+어/ecx+지/px+ㄴ다/ef+는/etm
+
+말이
+	말/ncn+이/jcc
+
+사실일듯
+	사실/ncn+이/jp+ㄹ/etm+듯/nbs
+
+푸짐한양에
+	푸짐/ncps+하/xsms+ㄴ/etm+양/nbn+에/jca
+
+감탄을
+	감탄/ncpa+을/jco
+
+해봅니다
+	하/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+식사를
+	식사/ncpa+를/jco
+
+하는동안
+	하는동안/ncn
+
+울
+	울/pvg+ㄹ/etm
+
+아들사진찍는것도
+	아들사진찍는것/ncn+도/jxc
+
+재미있고
+	재미있/pvg+고/ecc
+
+식사도
+	식사/ncpa+도/jxc
+
+맛있었고
+	맛있/paa+었/ep+고/ecc
+
+
+항상
+	항상/mag
+
+외식인
+	외식/ncn+이/jp+ㄴ/etm
+
+울
+	울/pvg+ㄹ/etm
+
+식구들에게
+	식구/ncn+들/ncn+에게/jca
+
+기분좋은
+	기분좋/paa+은/etm
+
+식사는
+	식사/ncpa+는/jxc
+
+꿀맛이고
+	꿀맛/ncn+이/jp+고/ecc
+
+에너지입니다
+	에너지/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+지금보시는
+	지금/ncn+보시/ncpa+는/jxc
+
+고기는
+	고/pvg+기/etn+는/jxc
+
+4인정식에만
+	4인정식/ncn+에/jca+만/jxc
+
+나오니
+	나/pvg+아/ecx+오/px+니/ecs
+
+참고하시고요
+	참고/ncpa+하시/ncn+고요/ncps
+
+
+참참참
+	참참참/ncn
+
+나물은
+	나물/ncn+은/jxc
+
+사시사철
+	사시사철/ncn
+
+달리
+	달리/mag
+
+나오기에
+	나/pvg+아/ecx+오/px+기/etn+에/jca
+
+제
+	저/npp+의/jcm
+
+사진에
+	사진/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+나물이
+	나물/ncn+이/jcc
+
+안나온다고
+	안나온다/ncn+이/jp+고/ecc
+
+삐지지마세요
+	삐지/ncn+이/jp+지/ecx+말/px+세요/ef
+
+
+그리고
+	그리고/maj
+
+식사를
+	식사/ncpa+를/jco
+
+하러
+	하/pvg+러/ecs
+
+갔을때는
+	가/px+아/ep+ㄹ/etm+때/nbn+는/jxc
+
+느긋하게
+	느긋/ncps+하/xsms+게/ecs
+
+기다려주는
+	기다리/pvg+어/ecx+주/px+는/etm
+
+센스도
+	센스/ncn+도/jxc
+
+필요해요
+	필요/ncps+하/xsms+어/ef+요/jxf
+
+급하게
+	급하/paa+게/ecs
+
+조리해서
+	조리/ncn+해서/ncn
+
+나오다보면
+	나오다보/ncn+이/jp+면/ecs
+
+
+맛있는
+	맛있/paa+는/etm
+
+음식은
+	음식/ncn+은/jxc
+
+맛볼수가
+	맛보/pvg+ㄹ/etm+수/nbn+가/jcc
+
+없게
+	없/paa+게/ecs
+
+된답니다
+	되/pvg+ㄴ답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+아빠가
+	아빠/ncn+가/jcs
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍을동안
+	찍을동안/ncn
+
+얌전하게
+	얌전/ncps+하/xsms+게/ecs
+
+기다려주는
+	기다리/pvg+어/ecx+주/px+는/etm
+
+이제는
+	이제/mag+는/jxc
+
+사진도
+	사진/ncn+도/jxc
+
+금방금방
+	금방/ncn+금방/ncn
+
+찍어버리니
+	찍/pvg+어/ecx+버리/px+니/ecs
+
+예전에
+	예전/ncn+에/jca
+
+조준하고
+	조준/ncpa+하고/jcj
+
+
+찍던사진이
+	찍던사진/ncn+이/jcc
+
+아니라서
+	아니/paa+라서/ecs
+
+식구들도
+	식구/ncn+들/ncn+도/jxc
+
+좋아한답니다
+	좋/paa+아/ecx+하/px+ㄴ답니다/ef
+
+.
+	./sf
+
+
+블러그하면서
+	블러그하/ncn+이/jp+면서/ecc
+
+음식사진찍는게
+	음식사진찍는/ncn+게/jca
+
+이제는
+	이제/mag+는/jxc
+
+자동이랍니다
+	자동/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+제주공항근처맛집을
+	제주공항근처맛집/ncn+을/jco
+
+찾으신다면
+	찾/pvg+으시/ep+ㄴ다면/ecs
+
+제주도정식잘하는집
+	제주도정식잘하는집/ncn
+
+동도원에서
+	동도/ncn+원/ncn+에서/jca
+
+식사하세요
+	식사/ncpa+하세/ncpa+요/ncn
+
+
+참
+	참/mag
+
+주차장은
+	주차장/ncn+은/jxc
+
+따로
+	따로/mag
+
+없어서
+	없/paa+어서/ecs
+
+개별주차하셔야한답니다
+	개별주차하셔야한답니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+전화번호
+	전화번호/ncn
+
+:
+	:/sp
+
+064)747-9996
+	064/nnc+)/sr+747/nnc+-9996/nnc

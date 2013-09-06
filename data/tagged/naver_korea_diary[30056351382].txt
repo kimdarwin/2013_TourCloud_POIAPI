@@ -1,0 +1,438 @@
+휴애리
+	휴애리/ncn
+
+자연생활공간
+	자연생활/ncn+공간/ncn
+
+
+-
+	-/sd
+
+제주도
+	제주/ncn+도/jxc
+
+서귀포시
+	서귀포시/ncn
+
+남원읍
+	남원읍/ncn
+
+신례리
+	신례리/ncn
+
+-
+	-/sd
+
+
+휴애리는
+	휴애리/ncn+는/jxc
+
+제주
+	제주/ncn
+
+속의
+	속/ncn+의/jcm
+
+제주
+	제주/ncn
+
+라는
+	라/ncn+는/jxc
+
+표현이
+	표현/ncpa+이/jcc
+
+무색할
+	무색/ncps+하/xsms+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+가장
+	가장/mag
+
+제주적이면서도
+	제주/ncn+적/ncn+이/jp+면서/ecs+도/jxc
+
+아름다운
+	아름답/paa+은/etm
+
+공원이다
+	공원/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+한라산
+	한라/ncn+산/ncn
+
+자락이
+	자락/ncn+이/jcc
+
+손끝에
+	손끝/ncn+에/jca
+
+잡힐듯
+	잡히/pvg+ㄹ/etm+듯/nbs
+
+한
+	한/nnc
+
+곳에
+	곳/nbn+에/jca
+
+있는
+	있/px+는/etm
+
+건강한
+	건강/ncps+하/xsms+ㄴ/etm
+
+쉼과
+	쉬/pvg+ㅁ/etn+과/jcj
+
+제주의향기가
+	제주/ncn+의향/ncn+기/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+자연생활
+	자연생활/ncn
+
+체험공원이다
+	체험/ncpa+공원/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+자연의
+	자연/ncn+의/jcm
+
+소중함을
+	소중/ncn+함/ncn+을/jco
+
+느끼고
+	느끼/pvg+고/ecc
+
+체험하면서
+	체험/ncpa+하/xsva+면서/ecc
+
+즐겁고
+	즐겁/paa+고/ecc
+
+재미있는
+	재미있/pvg+는/etm
+
+이야기를
+	이야기/ncpa+를/jco
+
+나누고,
+	나누/pvg+고/ecc+,/sp
+
+하루쯤
+	하루쯤/ncn
+
+동심으로
+	동심/ncn+으로/jca
+
+돌아가
+	돌/pvg+아/ecx+가/px+아/ecx
+
+가족,
+	가족/ncn+,/sp
+
+친구,
+	친구/ncn+,/sp
+
+연인들이
+	연인/ncn+들/ncn+이/jcc
+
+건강한
+	건강/ncps+하/xsms+ㄴ/etm
+
+쉼과
+	쉬/pvg+ㅁ/etn+과/jcj
+
+사랑을
+	사랑/ncn+을/jco
+
+나눌
+	나누/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+쉼
+	쉬/pvg+ㅁ/etn
+
+의
+	의/ncn
+
+문화공간인
+	문화공간/ncn+이/jp+ㄴ/etm
+
+휴애리는
+	휴애리/ncn+는/jxc
+
+계절별로
+	계절/ncn+별/ncn+로/jca
+
+매화축제,
+	매화/ncn+축제/ncn+,/sp
+
+매실따기
+	매실따/ncn+이/jp+기/etn
+
+체험,
+	체험/ncpa+,/sp
+
+감귤체험
+	감귤/ncn+체험/ncpa
+
+등
+	등/nbu
+
+수확체험
+	수확/ncpa+체험/ncpa
+
+프로그램이
+	프로그램/ncn+이/jcc
+
+운영되고,
+	운영/ncpa+되/xsvn+고/ecc+,/sp
+
+옹기,
+	옹기/ncn+,/sp
+
+돗통(제주
+	돗통(제주/ncn
+
+전통
+	전통/ncn
+
+화장실),
+	화장실/ncn+)/sr+,/sp
+
+연자방아
+	연자방아/ncn
+
+등,
+	등/nbu+,/sp
+
+옛
+	옛/mma
+
+중산간
+	중산/ncn+간/ncn
+
+마을의
+	마을/ncn+의/jcm
+
+정겨운
+	정겹/paa+은/etm
+
+생활
+	생활/ncpa
+
+모습과
+	모습/ncn+과/jcj
+
+제주인의
+	제주/ncn+인/ncn+의/jcm
+
+삶을
+	삶/ncn+을/jco
+
+체험할
+	체험/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+체험장도
+	체험/ncpa+장/ncn+도/jxc
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있어
+	있/px+어/ecx
+
+제주
+	제주/ncn
+
+문화를
+	문화/ncn+를/jco
+
+이해하고
+	이/nnc+해/nbu+하고/jct
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+아기돼지,
+	아기/ncn+돼지/ncn+,/sp
+
+산토끼
+	산토끼/ncn
+
+놀이동산,
+	놀이/ncn+동산/ncn+,/sp
+
+다람쥐,
+	다람쥐/ncn+,/sp
+
+흑염소
+	흑염소/ncn
+
+등
+	등/nbu
+
+제주
+	제주/ncn
+
+산간에서
+	산간/ncn+에서/jca
+
+살고
+	살/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+동물들을
+	동물/ncn+들/ncn+을/jco
+
+직접
+	직접/mag
+
+만져보고
+	만지/pvg+어/ecx+보/px+고/ecc
+
+먹이주기
+	먹이/ncn+주/ncn+이/jp+기/etn
+
+체험도
+	체험/ncpa+도/jxc
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+소나무
+	소나무/ncn
+
+숲에는
+	숲/ncn+에/jca+는/jxc
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+모습을
+	모습/ncn+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+자연
+	자연/ncn
+
+화산석탑들이
+	화산/ncn+석탑/ncn+들/ncn+이/jcc
+
+있으며
+	있/px+으며/ecc
+
+공원전체를
+	공원/ncn+전체/ncn+를/jco
+
+송이(화산알갱이)로
+	송이(화산알갱이)/ncn+로/jca
+
+깔아
+	깔/pvg+아/ecx
+
+솔숲
+	솔숲/ncn
+
+사이로
+	사이/ncn+로/jca
+
+이는
+	이/npd+는/jxc
+
+부드러운
+	부드럽/paa+은/etm
+
+바람과
+	바람/ncn+과/jct
+
+함께
+	함께/mag
+
+맨발로
+	맨발/ncn+로/jca
+
+걷기도하며
+	걷기도하/ncn+이/jp+며/ecc
+
+휴식하는
+	휴식/ncpa+하/xsva+는/etm
+
+기분
+	기분/ncn
+
+좋은
+	좋/paa+은/etm
+
+쉼
+	쉬/pvg+ㅁ/etn
+
+의
+	의/ncn
+
+문화공간이다
+	문화공간/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+관광
+	관광/ncpa
+
+db
+	db/f
+
+자세히보기
+	자세히보/ncn+이/jp+기/etn

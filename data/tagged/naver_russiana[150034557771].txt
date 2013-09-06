@@ -1,0 +1,517 @@
+통영시
+	통영시/ncn
+
+
+경상남도
+	경상/ncn+남도/ncn
+
+
+기간
+	기간/ncn
+
+:
+	:/sp
+
+2008.
+	2008./nnc
+
+8.
+	8./nnc
+
+20~
+	20/nnc+~/sd
+
+2008.
+	2008./nnc
+
+8.
+	8./nnc
+
+22(2박
+	22(2박/ncn
+
+3일)
+	3/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+:
+	:/sp
+
+부모님을
+	부모님/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+효도여행
+	효도/ncpa+여행/ncpa
+
+
+경로
+	경로/ncn
+
+:
+	:/sp
+
+서울-무주-통영
+	서울-무주-통영/ncn
+
+
+무주에
+	무주/ncpa+에/jca
+
+점심
+	점심/ncn
+
+먹기
+	먹/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+들리다
+	들리/pvg+다/ef
+
+.
+	./sf
+
+
+다시
+	다시/mag
+
+중부내륙고속도로를
+	중부/ncn+내륙/ncn+고속도로/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+통영까지
+	통영까지/ncn
+
+...
+	.../se
+
+
+7년전
+	7/nnc+년/nbu+전/xsnx
+
+갔었던
+	가/px+아/ep+던/etm
+
+통영
+	통영/ncn
+
+
+그때는
+	그때/ncn+는/jxc
+
+끝까지
+	끝/ncn+까지/jxc
+
+걸었던게
+	걷/pvg+었/ep+더/ep+ㄴ게/ecs
+
+전부였는데,,,
+	전부/ncn+이/jp+었/ep+는데/ecs+,/sp+,/sp+,/sp
+
+
+아시아
+	아시아/ncn
+
+최초의
+	최초/ncn+의/jcm
+
+해저터널을
+	해저터널/ncn+을/jco
+
+왜
+	왜/mag
+
+일본이
+	일/nnc+본/nbu+이/jcc
+
+통영에
+	통영/ncn+에/jca
+
+만들었을까
+	만들/pvg+었/ep+을까/ef
+
+..
+	./sf+./sf
+
+
+물쌀이
+	물쌀/ncn+이/jcc
+
+쎈
+	쎈/ncn
+
+저
+	저/mmd
+
+곳에
+	곳/nbn+에/jca
+
+일본의
+	일/nnc+본/nbu+의/jcm
+
+선조들
+	선조/ncn+들/ncn
+
+왜군들이
+	왜군/ncn+들/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+죽었다고
+	죽/pvg+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+선조들의
+	선조/ncn+들/ncn+의/jcm
+
+혼이
+	혼/ncn+이/jcc
+
+깃든
+	깃들/pvg+ㄴ/etm
+
+곳을
+	곳/ncn+을/jco
+
+조선
+	조선/ncpa
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+다리를
+	다리/ncn+를/jco
+
+놓고
+	놓/px+고/ecc
+
+건너지
+	건너/pvg+지/ecx
+
+못하도록
+	못하/paa+도록/ecs
+
+
+든든한
+	든든/ncps+하/xsms+ㄴ/etm
+
+지하터널을
+	지하터널/ncn+을/jco
+
+만든
+	만들/pvg+ㄴ/etm
+
+것이라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+해저터널을
+	해저터널/ncn+을/jco
+
+보고
+	보/px+고/ecc
+
+미륵도
+	미륵/ncn+도/jxc
+
+통영케이블카를
+	통영케이블카/ncn+를/jco
+
+타러
+	타/pvg+러/ecs
+
+간다
+	가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+경로우대
+	경로우대/ncn
+
+6천원/
+	6/nnc+천/nnc+원/nbu+//sp
+
+일반
+	일반/ncn
+
+7천원
+	7/nnc+천/nnc+원/nbu
+
+
+제일
+	제일/mag
+
+먼저
+	먼저/mag
+
+반기는
+	반기/pvg+는/etm
+
+건
+	거/nbn+은/jxc
+
+컬럼비아
+	컬럼/ncn+비아/ncn
+
+광고다
+	광고/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+광고
+	광고/ncn
+
+안하기로
+	안하/ncn+이/jp+기/etn+로/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+컬럼비아가
+	컬럼/ncn+비아/ncn+가/jcs
+
+저렇게
+	저렇/pad+게/ecs
+
+대대적인
+	대대적/ncn+이/jp+ㄴ/etm
+
+광고를
+	광고/ncn+를/jco
+
+하다니
+	하/pvg+다니/ecs
+
+..
+	./sf+./sf
+
+
+날씨
+	날씨/ncn
+
+좋으면
+	좋/paa+으면/ecs
+
+대마도까지
+	대마/ncn+도/jxc+까지/jxc
+
+보인다고
+	보이/pvg+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+대마도
+	대마/ncn+도/jxc
+
+안
+	안/mag
+
+봐도
+	보/px+아/ecs
+
+우리
+	우리/npp
+
+한려해상
+	한려해상/ncn
+
+공원이면
+	공원/ncn+이/jp+면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+작디작은
+	작디작/paa+은/etm
+
+케이블카
+	케이블카/ncn
+
+공기창으로
+	공기/ncn+창/ncn+으로/jca
+
+렌즈
+	렌즈/ncn
+
+들이밀고
+	들이밀/pvg+고/ecc
+
+찍었다
+	찍/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+컬럼비아여
+	컬럼/ncn+비아/ncn+이/jp+어/ecs
+
+영원하라
+	영원/ncps+하/xsms+라/ef
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+미륵도
+	미륵/ncn+도/jxc
+
+해안도로를
+	해안/ncn+도로/ncn+를/jco
+
+달리다
+	달리/pvg+다/ef
+
+보면
+	보/px+면/ecs
+
+만나게
+	만나/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+달아공원
+	달아공원/ncn
+
+
+10년전
+	10/nnc+년/nbu+전/xsnx
+
+여친과
+	여친/ncn+과/jct
+
+왔었던
+	오/px+아/ep+던/etm
+
+곳인데,,
+	곳/nbu+이/jp+ㄴ데/ecs+,/sp+,/sp
+
+
+지방자치제
+	지방자치제/ncn
+
+되고
+	되/pvg+고/ecc
+
+나서
+	나/px+서/ecs
+
+통영도
+	통영/ncn+도/jxc
+
+도시
+	도시/ncn
+
+구석구석
+	구석/ncn+구석/ncn
+
+손질하고
+	손질/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+노을이
+	노을/ncn+이/jcc
+
+백미인
+	백미/ncn+이/jp+ㄴ/etm
+
+이
+	이/mmd
+
+곳.
+	곳/nbu+./sf
+
+
+반바지
+	반바지/ncn
+
+입고
+	입/pvg+고/ecc
+
+온
+	오/px+ㄴ/etm
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+모기와
+	모/ncn+이/jp+기/etn+와/jct
+
+싸움하느라
+	싸움/ncpa+하/xsva+느라/ecs
+
+집중해서
+	집중/ncpa+하/xsva+어서/ecs
+
+사진도
+	사진/ncn+도/jxc
+
+못찍는구나
+	못찍는구나/ncn
+
+..
+	./sf+./sf
+
+
+내일은
+	내일/ncn+은/jxc
+
+통영에서
+	통영/ncn+에서/jca
+
+남해를
+	남해/ncn+를/jco
+
+거처
+	거처/ncn
+
+순천까지
+	순천까/ncn+이/jp+지/ef
+
+..
+	./sf+./sf

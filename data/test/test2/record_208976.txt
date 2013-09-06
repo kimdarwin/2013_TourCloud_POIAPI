@@ -1,0 +1,36 @@
+Title:
+4/7 선암사와 낙안읍성 여행 후기
+
+Date:
+2012.04.07
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(975371,'files/attach/images/64/976/208/432a98a73ada15eb7d43aa03b50f555e.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/91860ec28dd029dfa27db615adaf63bc.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/94218a740643c31d53fea5ba999f8be2.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/e5ab181f2c1c3d9000a03e3578143894.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/98251da7853ebe50320ac8c1ce1390b8.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/7fe942607a1134befc0ca8322944caba.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/47f2b18a11cb02e389cf2f73cf3f92e6.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/405adf306acb7ce2e95d6fd9a58795ca.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/590b0ea5df8d4289ccf13ab29980c528.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/7e2176a93bc4376dd14699d4251aefac.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/398f565ce64f249b0b323b938ba93e49.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/fc158233251dcaa9b8fee34bf8c1d4fe.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/6f192dd61c795dae34f15329de0ee01e.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/64e95a81bca7797095d21db87555d34a.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/559934c58e77e2ce26153e2f34cfe144.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/19606bff03cd1f7f4ae90fd2c8815b72.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/0ed4419085708db756c153e77655c330.jpg');
+list_gallery_add_image(975371,'files/attach/images/64/976/208/ea42940002f64cee6c3a04784cc19ea3.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 4월 7일(토) 선암사와 낙안읍성에 다녀왔습니다. 며칠째 심한 찬바람이 불고 일교차가 커서 계절이 거꾸로 돌아간 듯한 느낌입니다. 피어야 할 꽃은 자꾸만 시기가 늦춰져 이러다 꽃은 피다 말고 계절만 훌쩍 여름으로 넘어가버리는 것은 아닐까 괜한 걱정도 앞서구요.
+선암사로 들어서는 국도변에는 매화가 지천입니다. 하지만 아직도 만개는 아닌 듯 꽃송이가 탐스럽지는 않았습니다. 선암사 산책로를 따라 만나는 승선교는 요즘 비가 내려서 그런지 말끔한 모습이었고 저 뒤편 강선루도 공사를 마쳐 단정한 모습입니다. 계곡으로 내려가 무지개모양의 승선교를 가까이에서 살피는데 불어난 계곡 물소리는 더없이 활기찹니다.
+하필 오늘이 홍매화 축제날이었는데 경내에는 그다지 사람이 붐비지 않았고 조용하게 울리는 공연 소리가 오히려 운치를 더했습니다. 불어오는 바람에 실려온 향기를 좇아 걸으니 무우전 옆 돌담길 매화꽃밭입니다. 청매, 홍매가 피었지만 여전히 만발하지는 않아서 그만큼 아쉬움도 있었으련만 올봄날씨 상황이 워낙 좋지 않아서인지 아쉬움보다는 따스한 봄볕을 즐기게 되더군요.
+선암사는 봄날이면 이꽃 저꽃이 피어 더없이 아름답습니다. 때문에 봄날 선암사는 시간이 지나감이 아쉬울뿐이죠. 이번에는 사찰 경내를 여기저기 돌아다니다 보니 시간이 훌쩍 지나더군요. 하지만 아쉬운 발걸음을 뒤로하고 선암사와 가까운 낙안읍성으로 향했습니다.
+낙안읍성은 현재도 주민들이 거주하는 형태의 읍성으로 과거와 현재가 공존하는 곳입니다. 읍성으로 들어서면 수 많은 초가지붕이 드리워지고 요즘에는 예쁜 꽃들이 피어 오히려 이곳에서 꽃에 대한 아쉬움을 달랬습니다. 수선화가 만발하고 살구꽃이 흐드러지고 목련에 매화까지….
+낙안읍성 민가를 돌며 소박한 봄을 만났고 성곽에 올라 시원한 풍경으로 여행을 마무리하였습니다.
+다행히 낮부터는 바람도 없었고 날씨가 따듯해서 여행을 하기에는 불편이 없었지만 활짝 핀 선암사 매화는기대치에 미치지 못해 조금은 아쉬움이 남네요. 
+멀리 순천까지 다녀온 여행길, 내일 하루 잘 쉬시면서 말끔히 피로 덜어내시고 새롭게 시작되는 한주도 활기차게 맞이하시기 바랍니다~이 게시물을...

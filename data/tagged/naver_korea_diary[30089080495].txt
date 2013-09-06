@@ -1,0 +1,656 @@
+청계광장
+	청계/ncn+광장/ncn
+
+
+*위치:
+	*/sy+위치/ncn+:/sp
+
+서울
+	서울/ncn
+
+중구
+	중구/ncn
+
+태평로1가
+	태평로1/ncn+가/jcs
+
+31
+	31/nnc
+
+.
+	./sf
+
+
+청계천
+	청계/ncn+천/ncn
+
+세종로
+	세종로/ncn
+
+시작
+	시작/ncpa
+
+지점
+	지점/ncn
+
+
+*문의/안내:
+	*/sy+문/ncn+의/jcm+//sp+안내/ncpa+:/sp
+
+02-2290-7111~3
+	02/nnc+-2290/nnc+-7111/nnc+~/sd+3/nnc
+
+
+청계천이
+	청계/ncn+천/ncn+이/jcc
+
+시작되는
+	시작/ncpa+되/xsvn+는/etm
+
+세종로에
+	세종로/ncn+에/jca
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+청계광장
+	청계/ncn+광장/ncn
+
+.
+	./sf
+
+
+청계천
+	청계/ncn+천/ncn
+
+복원
+	복원/ncpa
+
+시작지점인
+	시작/ncpa+지점/ncn+이/jp+ㄴ/etm
+
+동아일보사
+	동아일보사/ncn
+
+앞에서부터
+	앞/ncn+에서/jca+부터/jxc
+
+신답철교
+	신답철교/ncn
+
+사이로
+	사이/ncn+로/jca
+
+연장160m,
+	연장160m,/ncn
+
+폭50m,
+	폭50m,/ncn
+
+총
+	총/mma
+
+면적
+	면적/ncn
+
+2천
+	2/nnc+천/nnc
+
+106평의
+	106/nnc+평/nbu+의/jcm
+
+규모로
+	규모/ncn+로/jca
+
+조성되었다
+	조성/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+분수와
+	분수/ncn+와/jcj
+
+폭포,
+	폭포/ncn+,/sp
+
+청계천
+	청계/ncn+천/ncn
+
+미니어처,
+	미니어처,/ncn
+
+산책로와
+	산책로/ncn+와/jcj
+
+탐방로
+	탐방/ncpa+로/jca
+
+등으로
+	등/nbu+으로/jca
+
+꾸며져있고,
+	꾸미/pvg+어/ecx+지/px+어/ecx+있/px+고/ecc+,/sp
+
+청계천
+	청계/ncn+천/ncn
+
+복원의
+	복원/ncpa+의/jcm
+
+의미와
+	의미/ncpa+와/jct
+
+함께
+	함께/mag
+
+만남과
+	만나/pvg+ㅁ/etn+과/jcj
+
+화합,
+	화합/ncpa+,/sp
+
+평화와
+	평화/ncn+와/jcj
+
+통일을
+	통일/ncpa+을/jco
+
+염원하는
+	염원/ncpa+하/xsva+는/etm
+
+장소로
+	장소/ncn+로/jca
+
+만들어져
+	만들/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+중
+	중/nbn
+
+광장은
+	광장/ncn+은/jxc
+
+청계천
+	청계/ncn+천/ncn
+
+복원
+	복원/ncpa
+
+시작지점중심에
+	시작/ncpa+지점/ncn+중심/ncn+에/jca
+
+741평
+	741/nnc+평/nbu
+
+규모로
+	규모/ncn+로/jca
+
+조성되었고,
+	조성/ncpa+되/xsvn+었/ep+고/ecc+,/sp
+
+우리나라
+	우리나라/ncn
+
+전통적보자기
+	전통적보자/ncn+이/jp+기/etn
+
+형태의
+	형태/ncn+의/jcm
+
+디자인을
+	디자인/ncpa+을/jco
+
+가져와
+	가/pvg+아/ecx+지/px+어/ecx+오/px+아/ecx
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+색상의
+	색상/ncn+의/jcm
+
+석재포장으로
+	석재/ncn+포장/ncpa+으로/jca
+
+우아한
+	우아/ncn+한/ncn
+
+전통미를
+	전통미/ncn+를/jco
+
+살린다
+	살리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+곳에는
+	곳/ncn+에/jca+는/jxc
+
+청계천
+	청계/ncn+천/ncn
+
+축소모형인
+	축소모형/ncn+이/jp+ㄴ/etm
+
+청계
+	청계/ncn
+
+미니어처가
+	미니어처/ncn+가/jcs
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecx
+
+복원된
+	복원/ncpa+되/xsvn+ㄴ/etm
+
+청계천의
+	청계/ncn+천/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+청계천을
+	청계/ncn+천/ncn+을/jco
+
+가로지르는
+	가로지르/pvg+는/etm
+
+22개
+	22/nnc+개/nbu
+
+다리에
+	다리/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+해설판도
+	하/px+어서/ep+ㄹ/etm+판/nbn+도/jxc
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecx
+
+있고,
+	있/px+고/ecc+,/sp
+
+이외에도
+	이외/ncn+에/jca+도/jxc
+
+다양한
+	다양/ncn+한/ncn
+
+형상의
+	형상/ncpa+의/jcm
+
+분수가
+	불/pvg+ㄴ/etm+수/nbn+가/jcc
+
+만들어져
+	만들/pvg+어/ecx+지/px+어/ecx
+
+아름다운
+	아름답/paa+은/etm
+
+경관을
+	경관/ncn+을/jco
+
+연출한다
+	연출/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+한편,
+	한/nnc+편/nbu+,/sp
+
+광장에서
+	광장/ncn+에서/jca
+
+청계천으로
+	청계/ncn+천/ncn+으로/jca
+
+진입하기
+	진입/ncpa+하/xsva+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+시설로는
+	시설/ncpa+로/jca+는/jxc
+
+왼편에
+	왼편/ncn+에/jca
+
+계단형
+	계단/ncn+형/ncn
+
+진입로,
+	진입로/ncn+,/sp
+
+오른편에
+	오르/pvg+ㄴ/etm+편/nbn+에/jca
+
+청계탐방로가
+	청계/ncn+탐방/ncpa+로/jca+가/jcc
+
+들어
+	들/pvg+어/ecx
+
+서
+	서/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+청계
+	청계/ncn
+
+탐방로
+	탐방/ncpa+로/jca
+
+중
+	중/nbn
+
+18m
+	18m/ncn
+
+구간에는
+	구간/ncn+에/jca+는/jxc
+
+터널이
+	터널/ncn+이/jcc
+
+설치돼
+	설치/ncpa+되/xsvn+어/ecx
+
+광장에서
+	광장/ncn+에서/jca
+
+청계천으로
+	청계/ncn+천/ncn+으로/jca
+
+들어
+	들/pvg+어/ecx
+
+오는
+	오/px+는/etm
+
+시민들에게
+	시민/ncn+들/ncn+에게/jca
+
+색다른
+	색다르/paa+ㄴ/etm
+
+경험을
+	경험/ncpa+을/jco
+
+선사한다
+	선사/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+서울시는
+	서울시/ncn+는/jxc
+
+청계천광장
+	청계천광장/ncn
+
+조성
+	조성/ncpa
+
+후
+	후/ncn
+
+공휴일에는
+	공휴일/ncn+에/jca+는/jxc
+
+이
+	이/mmd
+
+곳을
+	곳/ncn+을/jco
+
+차
+	차/pvg+아/ecx
+
+없는
+	없/paa+는/etm
+
+거리로
+	거리/ncn+로/jca
+
+만들어
+	만들/pvg+어/ecx
+
+광장,
+	광장/ncn+,/sp
+
+수변공간,
+	수변공간/ncn+,/sp
+
+도로가
+	도로/ncn+가/jcs
+
+시민들의
+	시민/ncn+들/ncn+의/jcm
+
+휴식과
+	휴식/ncpa+과/jcj
+
+문화공간으로
+	문화공간/ncn+으로/jca
+
+이용되도록
+	이용/ncpa+되/xsvn+도록/ecs
+
+마련해놓았다
+	마련/ncpa+하/xsva+어/ecx+놓/px+아/ep+다/ef
+
+.
+	./sf
+
+
+삼색
+	삼색/ncn
+
+조명이
+	조/nnc+명/nbu+이/jcc
+
+어우러진
+	어우러지/pvg+ㄴ/etm
+
+캔들
+	캐/pvg+ㄴ/etm+들/nbn
+
+분수와
+	분수/ncn+와/jcj
+
+4m
+	4m/ncn
+
+아래로
+	아래/ncn+로/jca
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+2단
+	2/nnc+단/nbu
+
+폭포가
+	폭포/ncn+가/jcs
+
+장관을
+	장관/ncr+을/jco
+
+연출한다
+	연출/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+폭포
+	폭포/ncn
+
+양
+	양/ncn
+
+옆에는
+	옆/ncn+에/jca+는/jxc
+
+전국에서
+	전국/ncn+에서/jca
+
+돌을
+	돌/pvg+ㄹ/etm
+
+가져온
+	가/pvg+아/ecx+지/px+어/ecx+오/px+ㄴ/etm
+
+8도석으로
+	8도석/ncn+으로/jca
+
+제작된
+	제작/ncpa+되/xsvn+ㄴ/etm
+
+'팔석담'을
+	'팔석담'/ncn+을/jco
+
+깔았다
+	깔/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+밤이면
+	밤/ncn+이/jp+면/ecs
+
+빛과
+	빛/ncn+과/jcj
+
+물이
+	물/ncn+이/jcc
+
+어우러지는
+	어우러지/pvg+는/etm
+
+환상적인
+	환상/ncn+적/ncn+이/jp+ㄴ/etm
+
+모습을
+	모습/ncn+을/jco
+
+연출한다
+	연출/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+또,
+	뜨/pvg+어/ecs+,/sp
+
+청계천
+	청계/ncn+천/ncn
+
+전구간을
+	전구/ncn+간/ncn+을/jco
+
+1/100로
+	1/nnc+//sp+100/nnc+로/jca
+
+축소한
+	축소/ncpa+하/xsva+ㄴ/etm
+
+미니어쳐
+	미니어쳐/ncn
+
+역시
+	역시/mag
+
+멋진
+	멋지/paa+ㄴ/etm
+
+볼거리를
+	볼거리/ncn+를/jco
+
+제공한다
+	제공/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+*
+	*/sy
+
+청계천복원구간
+	청계천복원구간/ncn
+
+1/100의
+	1/nnc+//sp+100/nnc+의/jcm
+
+미니어쳐캔들(촛불)분수,
+	미니어쳐캔들(촛불)분수,/ncn
+
+4m
+	4m/ncn
+
+2단
+	2/nnc+단/nbu
+
+폭포,
+	폭포/ncn+,/sp
+
+팔도석
+	팔도/ncn+석/ncn
+
+
+기사내용
+	기사내용/ncn
+
+전체보기
+	전체/ncn+보기/ncn

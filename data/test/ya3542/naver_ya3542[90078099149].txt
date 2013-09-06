@@ -1,0 +1,68 @@
+Title:
+럼블피쉬 . 스마일어게인Smile Again . 최진이 
+
+Date:
+2010.01.07 12:30
+
+Content:
+
+록그룹 럼블피쉬의 어쿠스틱 감성 락..
+스마일어게인, 으라차차 등의 경쾌한 비트는 들으면 힘이 솟고 
+럼블피쉬의 이러한 노래는 응원가로도 많이 사용 되기도..
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc15/2010/01/07/465/031002136A70436B5C03BB8CD31C1463387_ya3542_logo.jpg';
+	layout.playtime = '235.21';
+	var qsParam = {};
+	qsParam.vid = '113DC4564248101A75A5BB16F34AC9175D92';
+	qsParam.inKey = 'V124a35e0b0aaa9fa3837c527d87220d5f23c3bbcf2339d05813196fe5eba932c54e3c527d87220d5f23c';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_00710 = new VideoInfraUGCPlayer('ugcPlayer_00710' ,bean); 
+ugcPlayer_00710.drawPlayLayer(); 
+}
+
+
+
+럼블피쉬 . 스마일어게인Smile Again . 최진이
+
+화가나도 그랬었지 짜증나도 그랬었고 
+신세탓만 줄줄이 늘어놓기를수백번씩 내사랑엔 답이없고 내미래는 캄캄하지
+체념은 정말 너무 쉽게 잘하지 사는게 그렇지힘든일만 찾아오는것같아 마음먹기 달렸데 입꼬릴 높이 올려봐 기분 좋은 세상이야Smile Again 더 크게 웃어봐시간이 지나고 지나면 아무일도 아닌걸 웃어 넘겨
+신나게 한번더 웃어봐~가끔은 세상을 다 가진 사람처럼 그렇게 웃어봐
+
+
+사랑해도 헤어지고 헤어져도 사랑하지
+이별 한번에 너무 슬퍼하지마 사는게 그렇지주는만큼 받을수는 없는걸넌 혼자가 아니야 니곁엔 내가 있자나아름다운 세상이야 Smile Again 더크게 웃어봐시간이 지나고 지나면 아무일도 아닌걸 웃어넘겨
+신나게 한번더 웃어봐 가끔은 세상을 다 가진 사람처럼그렇게~웃어봐 가끔은 울어도 괜찮아한번씩 내안에 감춰진 모습들이 날 찾아와 줄테니신나게 더 크게 웃을께 언제나 세상을 다 가진 사람처럼 그렇게 .~
+
+
+
+
+
+외부 링크로 첨부된 음악, 동영상은재생이 지원되지 않습니다.
+
+
+럼블피쉬 . 스마일어게인Smile Again . 최진이
+
+
+행복한 공간이야기 민초호야
+
+
+
+
+	

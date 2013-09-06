@@ -1,0 +1,451 @@
+위치:제주
+	위치/ncn+:/sp+제주/ncn
+
+서귀포시
+	서귀포시/ncn
+
+서홍동
+	서홍동/ncn
+
+
+외돌개
+	외돌개/ncn
+
+
+남주의
+	남주/ncn+의/jcm
+
+해금강
+	해금/ncpa+강/ncn
+
+서귀포
+	서귀포/ncn
+
+칠십리
+	칠/nnc+십/nnc+리/nbu
+
+해안가의
+	해안가/ncn+의/jcm
+
+절벽기암
+	절벽/ncn+기암/ncn
+
+중
+	중/nbn
+
+가장
+	가장/mag
+
+눈에
+	눈/ncn+에/jca
+
+띄는
+	띄/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+20m
+	20m/ncn
+
+높이의
+	높이/ncn+의/jcm
+
+기둥바위
+	기둥/ncn+바위/ncn
+
+외돌개이다
+	외돌개/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+서귀포
+	서귀포/ncn
+
+시내에서
+	시내/ncn+에서/jca
+
+약
+	약/ncn
+
+2
+	2/nnc
+
+쯤
+	쯤/ncn
+
+서쪽에
+	서쪽/ncn+에/jca
+
+삼매봉이
+	삼매/ncn+봉/ncn+이/jcc
+
+있고
+	있/px+고/ecc
+
+그
+	그/mmd
+
+산자락의
+	산자락/ncn+의/jcm
+
+수려한
+	수/nbn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+해안가에
+	해안가/ncn+에/jca
+
+우뚝
+	우뚝/mag
+
+서
+	서/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+외돌개는
+	외돌개/ncn+는/jxc
+
+약
+	약/ncn
+
+150만년
+	150/nnc+만/nnc+년/nbu
+
+전
+	전/nbn
+
+화산이
+	화산/ncn+이/jcc
+
+폭발하여
+	폭발/ncpa+하/xsva+어/ecx
+
+용암이
+	용암/ncn+이/jcc
+
+섬의
+	섬/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+바꿔놓을
+	바꾸/pvg+어/ecx+놓/px+을/etm
+
+때
+	때/ncn
+
+생성되었다
+	생성/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+꼭대기에는
+	꼭대기/ncn+에/jca+는/jxc
+
+몇그루
+	몇/nnc+그루/nbu
+
+작은
+	작/paa+은/etm
+
+소나무들이
+	소나무/ncn+들/ncn+이/jcc
+
+자생하고
+	자생/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+물과
+	물/ncn+과/jct
+
+떨어져
+	떨어지/pvg+어/ecx
+
+바다
+	바다/ncn
+
+가운데
+	가운데/ncn
+
+외롭게
+	외롭/paa+게/ecs
+
+서
+	서/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+하여
+	하/pvg+어/ecx
+
+외돌개라
+	외돌개라/ncn
+
+이름지여졌다는데
+	이름지여졌다는데/ncn
+
+여기에는
+	여기/npd+에/jca+는/jxc
+
+한가지
+	한/nnc+가지/nbu
+
+역사와
+	역사/ncn+와/jct
+
+관련된
+	관련/ncpa+되/xsvn+ㄴ/etm
+
+설화가
+	설화/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+전하는
+	전하/pvg+는/etm
+
+바에
+	바/nbn+에/jca
+
+의하면
+	의하/pvg+면/ecs
+
+고려말
+	고려말/ncn
+
+최영장군이
+	최영장군/ncn+이/jcc
+
+제주도를
+	제주/ncn+도/ncn+를/jco
+
+강점했던
+	강점/ncpa+하/xsva+었/ep+던/etm
+
+목호(
+	목호(/ncn
+
+)의
+	)/sr+의/jcm
+
+난을
+	난/ncn+을/jco
+
+토벌할
+	토벌/ncpa+하/xsva+ㄹ/etm
+
+때
+	때/ncn
+
+외돌개
+	외돌개/ncn
+
+뒤에
+	뒤/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+범섬이
+	범섬/ncn+이/jcc
+
+최후의
+	최후/ncn+의/jcm
+
+격전장이었는데
+	격전장/ncn+이/jp+었/ep+는데/ecs
+
+전술상이
+	전술/ncn+상/ncn+이/jcc
+
+외돌개를
+	외돌개/ncn+를/jco
+
+장대한
+	장대/ncn+한/ncn
+
+장소로
+	장소/ncn+로/jca
+
+치장시켜
+	치장/ncpa+시키/xsva+어/ecx
+
+놓았다
+	놓/px+아/ep+다/ef
+
+.
+	./sf
+
+
+그러자
+	그러자/maj
+
+목호들이
+	목호들/ncn+이/jcc
+
+이를
+	이/npd+를/jco
+
+보고
+	보/px+고/ecc
+
+대장군이
+	대장군/ncn+이/jcc
+
+진을
+	진/ncn+을/jco
+
+친
+	치/pvg+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+오인하여
+	오인/ncpa+하/xsva+어/ecx
+
+모두
+	모두/mag
+
+자결하였다
+	자결/ncpa+하/xsva+었/ep+다/ef
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+이
+	이/mmd
+
+외돌개는
+	외돌개/ncn+는/jxc
+
+"장군석"이라는
+	"/sl+장군/ncr+석/ncn+"/sr+이/jp+라/ef+는/etm
+
+이름으로도
+	이름/ncn+으로/jca+도/jxc
+
+불리워진다
+	불리우/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+바위
+	바위/ncn
+
+위에는
+	위/ncn+에/jca+는/jxc
+
+넓은
+	넓/paa+은/etm
+
+잔디밭이
+	잔디밭/ncn+이/jcc
+
+펼쳐지고
+	펼치/pvg+어/ecx+지/px+고/ecc
+
+주변에는
+	주변/ncn+에/jca+는/jxc
+
+천연적인
+	천연/ncn+적/ncn+이/jp+ㄴ/etm
+
+낚시포인트로서
+	낚시/ncpa+포인트/ncn+로서/jca
+
+휴식과
+	휴식/ncpa+과/jcj
+
+레저를
+	레저/ncn+를/jco
+
+겸한
+	겸하/pvg+ㄴ/etm
+
+특이한
+	특이/ncn+한/ncn
+
+유원지가
+	유원지/ncn+가/jcs
+
+되고
+	되/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+외돌개
+	외돌개/ncn
+
+뒤로
+	뒤/ncn+로/jca
+
+보이는
+	보이/pvg+는/etm
+
+범섬에
+	범섬/ncn+에/jca
+
+석양이
+	석양/ncn+이/jcc
+
+어릴때의
+	어리/paa+ㄹ/etm+때/nbn+의/jcm
+
+경관은
+	경관/ncn+은/jxc
+
+더없이
+	더없이/mag
+
+장엄하다
+	장엄/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+기사내용
+	기사내용/ncn
+
+전체보기
+	전체/ncn+보기/ncn

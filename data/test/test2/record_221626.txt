@@ -1,0 +1,31 @@
+Title:
+5/28 오대산옛길 천년의 숲길 걷기 후기
+
+Date:
+2012.05.28
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(747744,'files/attach/images/64/626/221/1252e0f8dbf3c48a275fc27411a614ff.jpg');
+list_gallery_add_image(747744,'files/attach/images/64/626/221/cf77017609aa813d0aaed109dcf0da75.jpg');
+list_gallery_add_image(747744,'files/attach/images/64/626/221/b8b2dfc2548716723235e2052b25cc9b.jpg');
+list_gallery_add_image(747744,'files/attach/images/64/626/221/837bfd55a041b6abedb31105732f448a.jpg');
+list_gallery_add_image(747744,'files/attach/images/64/626/221/298922e15506909a1d3eb3450b49a540.jpg');
+list_gallery_add_image(747744,'files/attach/images/64/626/221/be5277516e3e294d9f7358f8568b3635.jpg');
+list_gallery_add_image(747744,'files/attach/images/64/626/221/6b9502064a5738c719675e457f2e6f0f.jpg');
+list_gallery_add_image(747744,'files/attach/images/64/626/221/3862ad7c4a75b078f600065a2ee7cda5.jpg');
+list_gallery_add_image(747744,'files/attach/images/64/626/221/a83ce6ac2221d32976656c1dfa9e68c0.jpg');
+list_gallery_add_image(747744,'files/attach/images/64/626/221/0faef5f5ecdb236e58a24f367a5210ec.jpg');
+list_gallery_add_image(747744,'files/attach/images/64/626/221/7992d2937d033675e2175459775674e0.jpg');
+list_gallery_add_image(747744,'files/attach/images/64/626/221/316e8fed3db66674b4e4e5cd544b0091.jpg');
+list_gallery_add_image(747744,'files/attach/images/64/626/221/76506420b67a5ca475d442e14d4aac3d.jpg');
+list_gallery_add_image(747744,'files/attach/images/64/626/221/4526303fdfbde5a53457eea360112d68.jpg');
+list_gallery_add_image(747744,'files/attach/images/64/626/221/66fbf1f48acbb87280c3f8b0c0376a14.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+5월 28일(일), 아름다운 여행으로 오대산 옛길인 천년의 숲길 걷기를 다녀왔습니다. 천년의 숲길은 오대산 월정사에서 상원사까지 숲길로 약 8~9km 정도의 거리입니다. 예쁘게 다듬어진 길은 아니지만 오대천 계곡을 따라 이어지는 자연 그대로의 숲길입니다.
+이번 걷기는 상원사 입구에서 시작해 상원사를 돌아보고 천년의 숲길을 걸어 월정사로 내려가는 코스로 진행했습니다. 상원사는 세조의 전설이 얽힌 문수동자상과 통일신라 범종인 상원사 동종이 유명한 곳입니다. 특히 상원사 동종은 우리나라에서 가장 오래된 범종으로 아름답기로도 유명한 종이죠.
+상원사를 돌아보고 천년의 숲길을 걸었습니다. 그런데 그만 예보에 없던 비를 만나고 말았습니다. 정검다리를 세 개쯤 건넜을까. 아마 1/3쯤 걸었을쯤 소나기 같은 비가 내리기 시작하더군요. 잠시 동안만 피하면 되겠지 싶었는데 시간이 지나도 비가 그치질 않더군요. 할 수 없이 주변에 있던 회원분들과 버스를 이용해 월정사로 내려와야 했습니다. 일부 회원분들은 비가 오는 중에도 천년의 숲길을 다 걸으셨습니다.
+비를 피해 먼저 내려온 회원분들은 자유롭게 월정사와 전나무숲길 그리고 부도밭을 돌아보았습니다. 공교롭게도 출발 시간이 가까워지자 거짓말처럼 비가 그치고 하늘이 열리더군요. 좀 야속했지만 천년의 숲길을 모두 걸은 분들도 또 대신 월정사를 여유롭게 돌아보신 분들도 크게 아쉬움을 없었던 여행이었습니다.
+이번 여행은 도중에 예상치 못한 비를 만나 당황스러웠지만 회원분들이 비에 개의치 않고 차분하게 여행을 해주셔서 너무 고마웠던 여행이었습니다. 모두 여행의 피로 잘 푸시고 얼마 남지 않은 5월을 잘 마무리하시기 바랍니다~
+이 게시물을...

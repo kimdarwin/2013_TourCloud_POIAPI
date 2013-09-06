@@ -1,0 +1,781 @@
+[거제도맛집/죽순요리맛집/거제도포로수용소맛집]
+	[거제도맛집/죽순요리맛집/거제도포로수용소맛집/ncn+]/sr
+
+
+[차반]지금은
+	[차반]지금/ncn+은/jxc
+
+거제맹종죽순이
+	거제맹종죽순/ncn+이/jcc
+
+제철
+	제철/ncn
+
+
+거제도
+	거제/ncn+도/jxc
+
+포로수용소
+	포로수용소/ncn
+
+관광을
+	관광/ncpa+을/jco
+
+마친
+	마치/pvg+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+지금이
+	지금/ncn+이/jcc
+
+제철이라는
+	제철/ncn+이/jp+라/ef+는/etm
+
+거제맹종죽순요리를
+	거제맹종죽순요리/ncn+를/jco
+
+먹기
+	먹/pvg+기/etn
+
+위해'차반'에
+	위해'차반'/ncn+에/jca
+
+왔습니다
+	오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+식당이름이
+	식당/ncn+이름/ncn+이/jcc
+
+'차반'이라니
+	'차반'이라/ncn+이/jp+니/ecs
+
+...'
+	.../se+'/sl
+
+
+차반'은
+	차반'/ncn+은/jxc
+
+'맛있게
+	'/sl+맛있/paa+게/ecs
+
+잘
+	잘/mag
+
+차린
+	차리/pvg+ㄴ/etm
+
+음식'을
+	음식/ncn+'/sr+을/jco
+
+일컫는
+	일컫/pvg+는/etm
+
+말인데
+	말/ncn+이/jp+ㄴ데/ecs
+
+왜
+	왜/mag
+
+X차반이
+	X차반/ncn+이/jcc
+
+먼저
+	먼저/mag
+
+떠오르는걸까요
+	떠오르/pvg+는/etm+것/nbn+이/jp+ㄹ까/ef+요/jxf
+
+??
+	?/sf+?/sf
+
+
+차반인지
+	차반/ncn+이/jp+ㄴ지/ecs
+
+X차반인지는
+	X차반인지/ncn+는/jxc
+
+직접
+	직접/mag
+
+먹어보면
+	먹/pvg+어/ecx+보/px+면/ecs
+
+잘
+	잘/mag
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있겠지요~
+	있/paa+겠/ep+지요/ef+~/sd
+
+
+그리고
+	그리고/maj
+
+죽순요리
+	죽순/ncn+요리/ncn
+
+하면
+	하/pvg+면/ecs
+
+담양의
+	담양/ncn+의/jcm
+
+대나무만
+	대나무/ncn+만/jxc
+
+떠오르기
+	떠오르/pvg+기/etn
+
+쉬운데
+	쉽/paa+은/etm+데/nbn
+
+거제도에도
+	거제도/ncn+에/jca+도/jxc
+
+대나무(맹종죽)를
+	대나무(맹종죽)/ncn+를/jco
+
+재배하는
+	재배/ncpa+하/xsva+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+많아
+	많/paa+아/ecx
+
+죽순요리
+	죽순/ncn+요리/ncn
+
+또한
+	또한/maj
+
+유명하더군요,
+	유명/ncps+하/xsms+더군/ef+요/jxf+,/sp
+
+
+죽순의
+	죽순/ncn+의/jcm
+
+채취는
+	채취/ncpa+는/jxc
+
+4월
+	4/nnc+월/nbu
+
+초순에서
+	초순/ncn+에서/jca
+
+5월
+	5/nnc+월/nbu
+
+중순경에
+	중순경/ncn+에/jca
+
+이루어지니
+	이루/pvg+어/ecx+지/px+니/ecs
+
+지금이
+	지금/ncn+이/jcc
+
+가장
+	가장/mag
+
+제철인게지요~
+	제철/ncn+인/ncn+게/jca+이/jp+지요/ef+~/sd
+
+
+거실은
+	거실/ncn+은/jxc
+
+아직
+	아직/mag
+
+비어
+	비/paa+어/ecx
+
+있는
+	있/px+는/etm
+
+상태이고
+	상태/ncn+이/jp+고/ecc
+
+우리
+	우리/npp
+
+일행은
+	일/nnc+행/nbu+은/jxc
+
+방으로
+	방/ncn+으로/jca
+
+예약을
+	예약/ncpa+을/jco
+
+해
+	하/pvg+어/ecx
+
+놓았습니다
+	놓/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+방으로
+	방/ncn+으로/jca
+
+들어오면
+	들/pvg+어/ecx+오/px+면/ecs
+
+미리
+	미리/mag
+
+세팅을
+	세팅/ncn+을/jco
+
+해놓은
+	하/pvg+어/ecx+놓/px+은/etm
+
+죽순정식(12,000원)이
+	죽순/ncn+정/ncn+식/xsncc+(/sl+12,000/nnc+원/nbu+)/sr+이/jcc
+
+기다리고
+	기다리/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+대추와
+	대추/ncn+와/jcj
+
+콩이
+	콩/ncn+이/jcc
+
+들어간
+	들/pvg+어/ecx+가/px+ㄴ/etm
+
+돌솥비빔밥을
+	돌솥/ncn+비빔밥/ncn+을/jco
+
+비롯해
+	비롯/ncpa+하/xsva+어/ecx
+
+대부분의
+	대부분/ncn+의/jcm
+
+요리에
+	요리/ncn+에/jca
+
+죽순이
+	죽순/ncn+이/jcc
+
+포함된
+	포함/ncpa+되/xsvn+ㄴ/etm
+
+다양한
+	다양/ncn+한/ncn
+
+반찬들과
+	반찬/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+정식이
+	정식/ncn+이/jcc
+
+차려져
+	차리/pvg+어/ecx+지/px+어/ecx
+
+있어요~
+	있/paa+어요/ef+~/sd
+
+
+반찬들이
+	반찬/ncn+들/ncn+이/jcc
+
+일단
+	일단/mag
+
+가격에
+	가격/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+정성이
+	정성/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+들어간
+	들/pvg+어/ecx+가/px+ㄴ/etm
+
+반찬들로
+	반찬/ncn+들/ncn+로/jca
+
+구성이
+	구성/ncn+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+있어서
+	있/paa+어서/ecs
+
+
+일단
+	일단/mag
+
+눈이
+	눈/ncn+이/jcc
+
+즐겁고
+	즐겁/paa+고/ecc
+
+다음엔
+	다음/ncn+엔/jca
+
+향긋한
+	향긋/ncps+하/xsms+ㄴ/etm
+
+냄새로
+	냄새/ncn+로/jca
+
+코가
+	크/paa+어/ecx+가/px+아/ecx
+
+즐거워집니다
+	즐겁/paa+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+마지막엔
+	마지막/ncn+엔/jca
+
+즐겁게
+	즐겁/paa+게/ecs
+
+먹어주기만
+	먹/pvg+어/ecx+주/px+기/etn+만/jxc
+
+하면
+	하/pvg+면/ecs
+
+되는거죠~
+	되는거/ncn+이/jp+죠/ef+~/sd
+
+
+죽순요리니까
+	죽순/ncn+요리/ncn+이/jp+니까/ecs
+
+대나무통밥과
+	대나무통밥/ncn+과/jcj
+
+대나무잎에
+	대나무/ncn+잎/ncn+에/jca
+
+싸인
+	싸이/pvg+ㄴ/etm
+
+대나무밥도
+	대나무/ncn+밥/ncn+도/jxc
+
+있는데요,
+	있/paa+는데요/ef+,/sp
+
+
+담양에만
+	담양/ncn+에/jca+만/jxc
+
+대나무만
+	대나무/ncn+만/jxc
+
+있는
+	있/px+는/etm
+
+것은
+	것/nbn+은/jxc
+
+아닐진대
+	아닐진대/ncn
+
+보통
+	보통/mag
+
+담양에만
+	담양/ncn+에/jca+만/jxc
+
+보던
+	보/px+던/etm
+
+죽순요리들이라
+	죽순/ncn+요리/ncn+들이/ncn+라/ncn
+
+
+거제에서
+	거제/ncn+에서/jca
+
+죽순요리를
+	죽순/ncn+요리/ncn+를/jco
+
+맛본다는
+	맛보/pvg+ㄴ다/ef+는/etm
+
+것이여전히
+	것이여전히/ncn
+
+신기하기만
+	신기/ncps+하/xsms+기/etn+만/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+죽순을
+	죽순/ncn+을/jco
+
+비롯한
+	비롯/ncpa+하/xsva+ㄴ/etm
+
+새싹채소를
+	새싹/ncn+채소/ncn+를/jco
+
+쌈무에
+	쌈무/ncn+에/jca
+
+싼
+	싸/paa+ㄴ/etm
+
+쌈채소
+	쌈채소/ncn
+
+
+간장에
+	간장/ncn+에/jca
+
+절인
+	절/ncn+이/jp+ㄴ/etm
+
+죽순
+	죽순/ncn
+
+
+죽순과
+	죽순/ncn+과/jcj
+
+새우,
+	새우/ncn+,/sp
+
+야채볶음
+	야채볶음/ncn
+
+
+매콤한
+	매콤한/ncn
+
+죽순과
+	죽순/ncn+과/jcj
+
+야채볶음
+	야채볶음/ncn
+
+
+들깨에
+	들깨/ncn+에/jca
+
+버무린
+	버무리/pvg+ㄴ/etm
+
+죽순무침
+	죽순/ncn+무침/ncn
+
+
+돼지고기
+	돼지고기/ncn
+
+죽순볶음
+	죽순볶음/ncn
+
+
+돌솥비빔밥을
+	돌솥/ncn+비빔밥/ncn+을/jco
+
+숭늉으로
+	숭늉/ncn+으로/jca
+
+먹는건
+	먹는건/ncn
+
+기본적이지요~
+	기본/ncn+적/ncn+이/jp+지요/ef+~/sd
+
+
+밥만
+	밥/ncn+만/jxc
+
+일단
+	일단/mag
+
+덜어놓구요~
+	덜어놓구요/ncn+~/sd
+
+
+죽순정식에
+	죽순/ncn+정식/ncn+에/jca
+
+제공되는대부분의
+	제공되는대부분/ncn+의/jcm
+
+반찬에는
+	반찬/ncn+에/jca+는/jxc
+
+한번쯤
+	한번쯤/ncn
+
+손이
+	손/ncn+이/jcc
+
+가고
+	가/px+고/ecc
+
+제
+	저/npp+의/jcm
+
+입맛에
+	입맛/ncn+에/jca
+
+맞았지만김치찌개는
+	맞았지만김치찌개/ncn+는/jxc
+
+사실
+	사실/mag
+
+살짝
+	살짝/mag
+
+아쉬운
+	아쉽/paa+은/etm
+
+요리였네요~
+	요리/ncn+이/jp+었/ep+네요/ef+~/sd
+
+
+그래서
+	그래서/maj
+
+거의
+	거의/mag
+
+손을
+	손/ncn+을/jco
+
+안댔는데
+	안댔는데/ncn
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+노하우가
+	노하우/ncn+가/jcs
+
+필요해보입니다
+	필요/ncps+하/xsms+어/ecx+보이/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+자주
+	자주/mag
+
+오시는
+	오/px+시/ep+는/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+'차반'
+	'차반'/ncn
+
+정회원에게는
+	정회원/ncn+에게/jca+는/jxc
+
+전용수저가
+	전용/ncpa+수저/ncn+가/jcs
+
+따로
+	따로/mag
+
+제공되더군요~
+	제공/ncpa+되/xsvn+더군/ef+요/jxf+~/sd
+
+
+얼마나
+	얼마나/mag
+
+많이
+	많/paa+이/xsa
+
+오면
+	오/px+면/ecs
+
+전용수저가
+	전용/ncpa+수저/ncn+가/jcs
+
+생기는걸까요~
+	생기/pvg+는/etm+것/nbn+이/jp+ㄹ까요/ef+~/sd
+
+
+마지막은
+	마지막/ncn+은/jxc
+
+아이스크림으로
+	아이스크림/ncn+으로/jca
+
+디저트를
+	디저트/ncn+를/jco
+
+마무리
+	마무리/ncpa
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+보통
+	보통/mag
+
+거제도
+	거제/ncn+도/jxc
+
+포로수용소
+	포로수용소/ncn
+
+근처
+	근처/ncn
+
+맛집이라고
+	맛집/ncn+이/jp+라/ef+고/jcr
+
+하면
+	하/pvg+면/ecs
+
+멍게비빔밥으로
+	멍게/ncn+비빔밥/ncn+으로/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+'백만석'이
+	'/sr+백/nnc+만/nnc+석/nbu+'/sr+이/jcc
+
+가장
+	가장/mag
+
+알려져
+	알리/pvg+어/ecx+지/px+어/ecx
+
+있는데요,
+	있/paa+는데요/ef+,/sp
+
+
+이제
+	이제/mag
+
+거제도
+	거제/ncn+도/jxc
+
+포로수용소에
+	포로수용소/ncn+에/jca
+
+오면
+	오/px+면/ecs
+
+거제도에도
+	거제도/ncn+에/jca+도/jxc
+
+맹종죽순요리가
+	맹종/ncpa+죽순/ncn+요리/ncn+가/jcs
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+'차반'도
+	'차반'/ncn+도/jxc
+
+기억해둬야겠어요~
+	기억/ncpa+하/xsva+어/ecx+두/px+어야겠/ep+어요/ef+~/sd
+
+
+[차반]거제맹종죽순요리[거제도맛집/죽순요리맛집/거제도포로수용소맛집]
+	[차반]거제맹종죽순요리[거제도맛집/죽순요리맛집/거제도포로수용소맛집/ncn+]/sr
+
+
+055-636-8492
+	055/nnc+-636/nnc+-8492/nnc
+
+
+경남
+	경남/ncn
+
+거제시
+	거제시/ncn
+
+상동동
+	상동동/ncn
+
+476-1번지
+	476-1번지/ncn
+
+
+2011.
+	2011./nnc
+
+6.
+	6./nnc
+
+7|지도
+	7|지/ncn+도/jxc
+
+크게
+	크/paa+게/ecs
+
+보기
+	보/px+기/etn
+
+NHN
+	NHN/f
+
+Corp.
+	Corp/f+./sf

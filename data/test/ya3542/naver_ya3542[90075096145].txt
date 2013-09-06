@@ -1,0 +1,44 @@
+Title:
+♣ 그것만이 내세상 ♬~.. 
+
+Date:
+2009.11.30 16:57
+
+Content:
+
+
+ 
+ ♣ 그것만이 내세상 ♬~
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc14/2009/11/30/574/031002135A24434B6003FB4DD3FC6063483_ya3542_logo.jpg';
+	layout.playtime = '279.17';
+	var qsParam = {};
+	qsParam.vid = '72A63493FFE6C4FA8F937E788E22A210D8B9';
+	qsParam.inKey = 'V1249e510dc9ab052ff9c6a844087f29b77e8916a337fbc9f71be678c5029f48247b66a844087f29b77e8';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_02714 = new VideoInfraUGCPlayer('ugcPlayer_02714' ,bean); 
+ugcPlayer_02714.drawPlayLayer(); 
+}
+
+
+
+
+
+
+	

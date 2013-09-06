@@ -1,0 +1,733 @@
+아버지
+	아버지/ncn
+
+~
+	~/sd
+
+누구보다
+	누구/npp+보다/jca
+
+아껴주던
+	아끼/pvg+어/ecx+주/px+던/etm
+
+그대가
+	그대/npp+가/jcs
+
+보고싶다
+	보/nbu+이/jp+고/ecx+싶/px+다/ef
+
+
+보이스코리아
+	보이스코리아/ncn
+
+'강미진'의
+	'강미진'/ncn+의/jcm
+
+사부곡
+	사부/ncr+곡/ncn
+
+
+아버지
+	아버지/ncn
+
+~
+	~/sd
+
+보이스코리아
+	보이스코리/ncn+아/jcv
+
+'강미진'
+	'강미진'/ncn
+
+(원곡
+	(원곡/ncn
+
+인순이)
+	인/ncn+순/xsncc+이/jcc+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/05/17/813/031003237105536E38C3195A73395DF3840_ya3542_PC_DEFAULT_logo.
+	net/blogucc28/2012/05/17/813/031003237105536E38C3195A73395DF3840_ya3542_PC_DEFAULT_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'198.
+	'/sr+198./nnc
+
+83';
+	83/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'9FBADCEFB7CBD7C7582064BAEDD96BED6A22';
+	'9FBADCEFB7CBD7C7582064BAEDD96BED6A22/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V121807787bc3705b1165ed51fd7a4a9ac4e99332defeb4d3c11816cf6d46ee5f1730ed51fd7a4a9ac4e9';
+	'V121807787bc3705b1165ed51fd7a4a9ac4e99332defeb4d3c11816cf6d46ee5f1730ed51fd7a4a9ac4e9/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_00533
+	ugcPlayer_00533/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_00533'
+	VideoInfraUGCPlayer('ugcPlayer_00533'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_00533
+	ugcPlayer_00533/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+아버지의
+	아버지/ncn+의/jcm
+
+술잔엔
+	술잔/ncn+엔/jca
+
+눈물이
+	눈물/ncn+이/jcc
+
+반이다
+	반/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+누가
+	누구/npp+가/jcs
+
+아버지의
+	아버지/ncn+의/jcm
+
+꿈을
+	꿈/ncn+을/jco
+
+훔쳐
+	훔치/pvg+어/ecx
+
+갔을까
+	가/pvg+아/ep+ㄹ까/ecs
+
+
+보코
+	보코/ncn
+
+'강미진'
+	'강미진'/ncn
+
+-
+	-/sd
+
+아버지
+	아버지/ncn
+
+(원곡
+	(원곡/ncn
+
+인순이)
+	인/ncn+순/xsncc+이/jcc+)/sr
+
+/
+	//sp
+
+가사
+	가사/ncn
+
+
+한
+	하/pvg+ㄴ/etm
+
+걸음도
+	걸/pvg+ㅁ/etn+도/jxc
+
+다가
+	다/ncn+가/jcs
+
+설
+	서/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없었던
+	없/paa+었/ep+던/etm
+
+내
+	내/npp
+
+마음은
+	마음/ncn+은/jxc
+
+알아
+	알/pvg+아/ecx
+
+주기를얼마나
+	주기를얼마/ncn+나/jcj
+
+바라고
+	바/nbn+이/jp+라/ef+고/jcr
+
+바래
+	바/nbn+이/jp+래/ef
+
+왔는지
+	오/px+아/ep+는지/ecs
+
+눈물이
+	눈물/ncn+이/jcc
+
+말해
+	말/ncpa+하/xsva+어/ecx
+
+준다점점
+	준다점점/ncn
+
+멀어져
+	멀/paa+어/ecx+지/px+어/ecx
+
+가버린
+	가/pvg+아/ecx+버리/px+ㄴ/etm
+
+쓸쓸했던
+	쓸쓸/ncps+하/xsms+었/ep+던/etm
+
+뒷모습에
+	뒷모습/ncn+에/jca
+
+
+내
+	내/npp
+
+가슴이
+	가슴/ncn+이/jcc
+
+다시
+	다시/mag
+
+아파온다서로
+	아파온다서/ncn+로/jca
+
+사랑을
+	사랑/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+서로
+	서로/mag
+
+미워도
+	밉/paa+어도/ecs
+
+하고
+	하/pvg+고/ecc
+
+
+누구보다
+	누구/npp+보다/jca
+
+아껴주던
+	아끼/pvg+어/ecx+주/px+던/etm
+
+그대가
+	그대/npp+가/jcs
+
+보고싶다가까이에
+	보고싶다가까이/ncn+에/jca
+
+있어도
+	있/px+어도/ecs
+
+다가서지
+	다가서/pvg+지/ecx
+
+못했던
+	못하/px+었/ep+던/etm
+
+그래
+	그래/ii
+
+내가
+	나/npp+가/jcs
+
+미워
+	밉/paa+어/ecx
+
+했었다제발
+	했었다제발/ncn
+
+내
+	내/npp
+
+얘길
+	얘길/ncn
+
+들어주세요
+	들/pvg+어/ecx+주/px+세/ef+요/jxf
+
+시간이
+	시간/ncn+이/jcc
+
+필요해요서로
+	필요해요서/ncn+로/jca
+
+사랑을
+	사랑/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+서로
+	서로/mag
+
+미워도
+	밉/paa+어도/ecs
+
+하고
+	하/pvg+고/ecc
+
+
+누구보다
+	누구/npp+보다/jca
+
+아껴주던
+	아끼/pvg+어/ecx+주/px+던/etm
+
+그대가
+	그대/npp+가/jcs
+
+보고싶다가슴
+	보고싶다가슴/ncn
+
+속
+	속/ncn
+
+깊은
+	깊/paa+은/etm
+
+곳에
+	곳/nbn+에/jca
+
+담아두기만
+	담/pvg+아/ecx+두/px+기/etn+만/jxc
+
+했던그래
+	했던그래/ncn
+
+내가
+	나/npp+가/jcs
+
+사랑
+	사랑/ncn
+
+했었다긴
+	했었다긴/ncn
+
+시간이
+	시간/ncn+이/jcc
+
+지나도
+	지나/pvg+아/ecs
+
+말하지
+	말/ncpa+하/xsva+지/ecx
+
+못했었던
+	못하/px+었었/ep+던/etm
+
+그래
+	그래/ii
+
+내가
+	나/npp+가/jcs
+
+사랑
+	사랑/ncn
+
+했었다
+	하/pvg+었었/ep+다/ef
+
+
+"아버지"~(보코)
+	"아버지"~(보코)/ncn
+
+강미진
+	강미진/ncn
+
+
+보이스코리아
+	보이스코리/ncn+아/jcv
+
+강미진(1987년
+	강미진(1987년/ncn
+
+10월생)은
+	10월생/ncn+)/sr+은/jxc
+
+
+"요아리"라는
+	"요아리"라/ncn+는/jxc
+
+이름으로
+	이름/ncn+으로/jca
+
+2010년
+	2010/nnc+년/nbu
+
+디지털
+	디지털/ncn
+
+싱글
+	싱글/ncn
+
+"저기요"를
+	"저기요"/ncn+를/jco
+
+통하여
+	통하/pvg+어/ecx
+
+솔로
+	솔/ncn+로/jca
+
+가수로
+	가수/ncn+로/jca
+
+정식
+	정식/ncn
+
+데뷔
+	데뷔/ncpa
+
+했다
+	하/pvg+었/ep+다/ef
+
+
+강미진(요아리)은
+	강미진(요아리)/ncn+은/jxc
+
+데뷔전
+	데뷔전/ncn
+
+브아걸
+	브아걸/ncn
+
+멤버였기도
+	멤버/ncn+이/jp+었/ep+기/etn+도/jxc
+
+하였으며,
+	하/px+었/ep+으며/ecc+,/sp
+
+2007년에는
+	2007/nnc+년/nbu+에/jca+는/jxc
+
+스프링쿨러의
+	스프링쿨러/ncn+의/jcm
+
+맴버
+	맴버/ncn
+
+보컬로
+	보컬/ncn+로/jca
+
+활동하였다
+	활동/ncpa+하/xsva+었/ep+다/ef
+
+
+아버지
+	아버지/ncn
+
+~
+	~/sd
+
+보이스코리아
+	보이스코리/ncn+아/jcv
+
+'강미진'
+	'강미진'/ncn
+
+(원곡
+	(원곡/ncn
+
+인순이)
+	인/ncn+순/xsncc+이/jcc+)/sr

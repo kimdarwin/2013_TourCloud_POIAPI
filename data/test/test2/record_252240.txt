@@ -1,0 +1,27 @@
+Title:
+8/11 해인사와 소리길 걷기 후기
+
+Date:
+2012.08.11
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(280988,'files/attach/images/64/240/252/526c5ccf280d45a615e80b2e1f6a6986.jpg');
+list_gallery_add_image(280988,'files/attach/images/64/240/252/07ea17acac388be54abc38f88a8de630.jpg');
+list_gallery_add_image(280988,'files/attach/images/64/240/252/b28bcf7fdb2cf8eafd43b24915218d6f.jpg');
+list_gallery_add_image(280988,'files/attach/images/64/240/252/50cbb3855c84121aaef0dc3a2d831aa3.jpg');
+list_gallery_add_image(280988,'files/attach/images/64/240/252/ae2ed3f618cbaef42e1e47d64839da98.jpg');
+list_gallery_add_image(280988,'files/attach/images/64/240/252/991b101a19153cd82ee1bf70d0e40c3a.jpg');
+list_gallery_add_image(280988,'files/attach/images/64/240/252/a72a52fc189d9dfb0b2acfff283e7780.jpg');
+list_gallery_add_image(280988,'files/attach/images/64/240/252/7c8709a99ff958d4bc1cc76fc0ca0bda.jpg');
+list_gallery_add_image(280988,'files/attach/images/64/240/252/fb0d9019b9d3b7dd0dfa663d45841db8.jpg');
+list_gallery_add_image(280988,'files/attach/images/64/240/252/3764d16f7d9d1b10c3713ead1cc52fff.jpg');
+list_gallery_add_image(280988,'files/attach/images/64/240/252/e1729fe716882db2b0a8045b8d3c2e93.jpg');
+list_gallery_add_image(280988,'files/attach/images/64/240/252/d11d899871d39eb7119aca67d77e4e22.jpg');
+list_gallery_add_image(280988,'files/attach/images/64/240/252/968af3573df64f554e567fcb969d9c29.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 11일(토), 아름다운 여행으로 해인사와 소리길 걷기 여행을 다녀왔습니다. 해인사는 우리나라를대표하는 거찰로, 팔만대장경을 모시고 있어 삼보사찰 중 법보사찰에 해당하는 곳이죠. 큰 사찰답게 웅장하면서도 한편으로는 섬세한 분위기가 있는 절입니다. 이 날은 날이 더워서인지 해인사를 찾은 사람이 평소보다 적었습니다. 덕분에 아주 오랜만에 한가롭게 해인사를 돌아볼 수 있었습니다. 팔만대장경을 봉안하고 있는 장경각에서도 비록 나무 창틀 사이로 보아야 했지만 편안하게 팔만대장경을 볼 수 있었습니다.
+해인사를 돌아본 뒤 소리길을 걸었습니다. 해인사 아래 상가 건물 밑에서 걷기 시작해 사하촌이 있는 축전주차장까지 약 6km를 걸었습니다. 가야산을 대표하는 계곡인 홍류동계곡을 따라 걷는 길로 큰 오르막이 없는 가벼운 내리막길이어서 크게 힘든 길은 아닙니다. 길의 풍경도 비교적 다양한 편이어서, 계곡 옆을 바싹 붙어서 걷기도 하고 멋진 소나무 숲길을 걷기도 하고 한창 초록빛이 올라오는 논길을 걷기도 했습니다. 비록 날은 더웠지만 한여름의 정취를 느낄 수 있던 길이었습니다.
+이 날 여행은 비교적 날도 좋았고 여행지의 분위기도 좋았습니다.하지만 도로 상황은 그리 좋은 편이 아니었습니다. 아침에 출발할 때 고속도로 정체에 휘말려 애를 먹었습니다. 아마 마지막 피서 인파가 몰렸던 것 같습니다. 예정보다 1시간 가량 늦게 해인사에 도착해 조금 빠듯한 일정을 소화하고 올라와야 했습니다. 서울에 올라온 시간도 좀 늦어졌습니다. 그래도 쉽게 가기 힘든 해인사와 소리길을 돌아보셨기에 오래 기억에 남는 여행이 되지 않을까 싶습니다.해인사와 소리길 여행에 참여하신 분들 모두 긴 여행의 피로 잘 털어내시고 얼마 남지 않은 여름 건강하게 보내시기 바랍니다.
+이 게시물을...

@@ -1,0 +1,30 @@
+Title:
+Titanium Backup (Pro) 3.6.8 
+
+Date:
+2011.02.02 16:47
+
+Content:
+
+
+
+Titanium Backup은정말 유용한어플이긴 한데(http://tomtomkor.blog.me/60121388312) 단점이라면 업데이트가 참 잦다는 거...^^ 그나마 이번엔다른 때보다는인터벌을 두고 나온 편입니다.
+
+
+Titanium Backup Pro v3.6.8 Requirements: Android OS+ROOTOverview: The ONLY tool that can backup, restore, freeze your apps + data + Market links! Even protected apps! 0-click Batch/scheduled backups!
+
+
+
+Recent changes: Added Finnish language. Added ability to sort by app data modification date. Added optional confirmation when un-installing an app manually. By default, it is displayed if no backup exists for that app version. It can be changed in GUI settings. Auto-refresh the apps list, if an app is installed/uninstalled/upgraded/downgraded outside of Titanium Backup. Show the apk path when clicking on "Current version" within an app's properties. Bugfixes. 
+
+
+Download --http://forum.mobilism.org/viewtopic.php?p=698622
+
+
+Cracked Version 다운
+기존에 사용하던 버전을 uninstall 하고 설치
+처음에 root권한 획득 실패 메세지 -- Problems? 버튼을 눌러서 busybox를 새로 설치 (인터넷 연결필요)
+
+
+
+	

@@ -1,0 +1,411 @@
+출처
+	출처/ncn
+
+카페
+	카페/ncn
+
+>
+	>/sr
+
+m&m[행복이
+	m&m[행복/ncn+이/jcc
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+집]|염둥사랑
+	집]|염둥사/ncn+랑/jca
+
+
+1.
+	1./nnc
+
+
+[File]-[Open]을
+	[/sl+File/f+]/sr+-/sd+[/sl+Open/f+]/sr+을/jco
+
+클릭하여,
+	클릭/ncpa+하/xsva+어/ecs+,/sp
+
+적용시킬
+	적용/ncpa+시키/xsva+ㄹ/etm
+
+이미지를
+	이미지/ncn+를/jco
+
+불러와야
+	부르/pvg+어/ecx+오/px+아/ecx
+
+되겠지요
+	되/pvg+겠/ep+지/ef+요/jxf
+
+?
+	?/sf
+
+
+제가
+	저/npp+가/jcs
+
+많이
+	많/paa+이/xsa
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+김현주
+	김현주/ncn
+
+불러왔시요
+	불러왔시요/ncn
+
+.
+	./sf
+
+
+근데
+	근데/ncn
+
+그림이
+	그림/ncn+이/jcc
+
+bmp라,
+	bmp/f+라/ncn+,/sp
+
+색깔이
+	색깔/ncn+이/jcc
+
+이상혀요
+	이상혀요/ncn
+
+.
+	./sf
+
+
+2.
+	2./nnc
+
+
+[Layer]-[Duplicate
+	[/sl+Layer/f+]/sr+-/sd+[/sl+Duplicate/f
+
+Layer]를
+	Layer/f+]/sr+를/jco
+
+하여
+	하/pvg+어/ecx
+
+Background를
+	Background/f+를/jco
+
+복사해주세요
+	복사/ncpa+하/xsva+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+3.
+	3./nnc
+
+
+[Image]-[Adjustment]-[Invert]를
+	[/sl+Image/f+]/sr+-/sd+[/sl+Adjustment/f+]/sr+-/sd+[/sl+Invert/f+]/sr+를/jco
+
+하여
+	하/pvg+어/ecx
+
+이미지를
+	이미지/ncn+를/jco
+
+반전시켜
+	반전/ncpa+시키/xsva+어/ecx
+
+줍니다
+	주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+4.
+	4./nnc
+
+
+[Image]-[Mode]-[Grayscale]해주세요
+	[Image]-[Mode]-[Grayscale]해주세요/ncn
+
+.
+	./sf
+
+
+그러면
+	그러면/maj
+
+아래와
+	아래/ncn+와/jct
+
+같은
+	같/paa+은/etm
+
+창이
+	창/ncn+이/jcc
+
+뜹니다
+	뜨/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+보이시는대로
+	보이/pvg+시/ep+ㄴ대로/ecs
+
+제일
+	제일/mag
+
+오른쪽에
+	오르/pvg+ㄴ/etm+쪽/nbn+에/jca
+
+세
+	세/nnc
+
+번째꺼를
+	번째꺼/ncn+를/jco
+
+클릭해주세요
+	클릭/ncpa+하/xsva+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+영어
+	영어/ncn
+
+읽어보시면
+	읽/pvg+어/ecx+보/px+시/ep+면/ecs
+
+아시죠
+	알/pvg+시/ep+죠/ef
+
+?
+	?/sf
+
+
+레이어
+	레/ncn+이/jp+어/ecs
+
+안합치고
+	안합치/ncn+이/jp+고/ecc
+
+그레이스케일모드로
+	그레이스/ncn+케일/ncn+모드/ncn+로/jca
+
+바꾼다는
+	바꾸/pvg+ㄴ다/ef+는/etm
+
+.
+	./sf
+
+
+(
+	(/sl
+
+_
+	_/ncn
+
+)
+	)/sr
+
+
+5.
+	5./nnc
+
+
+[Filter]-[Blur]-[Gaussian
+	[/sl+Filter/f+]/sr+-/sd+[/sl+Blur/f+]/sr+-/sd+[/sl+Gaussian/f
+
+Blur]로
+	Blur/f+]/sr+로/jca
+
+가서
+	가/pvg+서/ecs
+
+수치를
+	수치/ncn+를/jco
+
+조절해주세요
+	조절/ncpa+하/xsva+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+8~10정도가
+	8~10정도/ncn+가/jcs
+
+적당하며,
+	적당/ncps+하/xsms+며/ecc+,/sp
+
+수치가
+	수치/ncn+가/jcs
+
+높을수록
+	높/paa+을수록/ecs
+
+원본이미지와
+	원본이미지/ncn+와/jct
+
+같아져요
+	같/paa+아/ecx+지/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+수치가
+	수치/ncn+가/jcs
+
+낮아지면
+	낮/paa+아/ecx+지/px+면/ecs
+
+
+그림은
+	그리/pvg+ㅁ/etn+은/jxc
+
+더욱
+	더욱/mag
+
+하얗게
+	하얗/paa+게/ecs
+
+나오구요
+	나오구요/ncn
+
+.
+	./sf
+
+
+6.
+	6./nnc
+
+
+그리고,
+	그리/pvg+고/ecc+,/sp
+
+다시
+	다시/mag
+
+레이어팔레트로
+	레이어팔레트/ncn+로/jca
+
+와서
+	오/px+아/ecs
+
+Background
+	Background/f
+
+Copy가
+	Copy/f+가/jcc
+
+선택된
+	선택/ncpa+되/xsvn+ㄴ/etm
+
+상태에서
+	상태/ncn+에서/jca
+
+
+Color
+	Color/f
+
+Dodge로
+	Dodge/f+로/jca
+
+변경해주세요
+	변경/ncpa+하/xsva+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+7.
+	7./nnc
+
+
+와~너무
+	와~너무/ncn
+
+예쁘죠
+	예쁘/paa+죠/ef
+
+?
+	?/sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+만드셔서
+	만들/pvg+시/ep+어서/ecs
+
+인터넷
+	인터넷/ncn
+
+가서
+	가/pvg+서/ecs
+
+자기가
+	자기/npp+가/jcs
+
+그려봤어요~
+	그/npd+이/jp+려/ecx+보/px+아/ep+아/ef+~/sd
+
+
+저도
+	저/npp+도/jxc
+
+이거하믄서
+	이거하믄서/ncn
+
+인터넷에서
+	인터넷/ncn+에서/jca
+
+본
+	보/px+ㄴ/etm
+
+실제로
+	실제로/mag
+
+그린
+	그리/pvg+ㄴ/etm
+
+그림들이
+	그림/ncn+들/ncn+이/jcc
+
+의심스럽다
+	의심/ncpa+스럽/xsmn+다/ef
+
+는;;;
+	는;;;/ncn
+
+응용해서
+	응용/ncpa+해/ncn+서/jca
+
+예쁘게
+	예쁘/paa+게/ecs
+
+사용하세요~
+	사용/ncpa+하세/ncpa+요/ncn+~/sd
+
+
+출처:
+	출처/ncn+:/sp
+
+네이버
+	네이버/ncn
+
+까페(포토샵
+	까페(포토샵/ncn
+
+완전정복)
+	완전/ncps+정복/ncpa+)/sr

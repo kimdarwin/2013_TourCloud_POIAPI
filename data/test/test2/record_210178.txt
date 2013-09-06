@@ -1,0 +1,35 @@
+Title:
+4/14 지리산 둘레길 12코스 걷기 후기
+
+Date:
+2012.04.15
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(834358,'files/attach/images/64/178/210/50fb74165e4f9d0774f2a54fbc586ecb.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/bf436c77a7ccd0c84ec0b573b33242cc.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/d00dc23a2929a3d93ab0993084eaee2b.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/159a09433b8806c594a52c92b8f71730.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/de0d4b95a7c1fb3b677c44e92c3972e9.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/af867e1f0f5234451174f186229e1626.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/abac14325780604f1da8fcc9744b97cd.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/f11a56773730e244731987f83659ab2d.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/c96d16e901d6f5ae513d29a84b16328a.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/21393c93deb27a5b8bf499459e17308f.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/efb61643da5a2766d1b20294372a91e2.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/e77e92ee0d20ab043380dcefa755933a.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/7d24ff0ae19d164cce12c4948a3c8834.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/72b8d02c331738a1286bb46029274791.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/6385dc86453034c0af6532d2b9443f8e.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/fa173d6f072a2f2a062080fcd377bc5d.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/401551f1b0a55cc099dce62258bd8c66.jpg');
+list_gallery_add_image(834358,'files/attach/images/64/178/210/e13d4b60cdd21cd499836367a6c6ad42.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+4월 14일(토) 아름다운 여행으로 지리산둘레길 12코스 하동구간 걷기를 하였습니다. 하루 사이에 감쪽같이 달라진 날씨 때문인지 고속도로에는 부쩍 늘어난 차량들로 일부 구간은 꽤 혼잡하더군요. 충청도를 지나고 전라도 쪽으로 달리는 창 밖 풍경은 지난 주와 확연히 달리진 모습이고 논밭에도 초록빛이 감돌아 전형적인 봄을 느낄 수 있습니다.
+이번 지리산둘레길 12코스는 하동 삼화실부터 대축마을까지 총 17km인데 그중 신촌마을부터 대축마을까지 약 10km를 걸었습니다.
+신촌마을을 출발하여 신촌재를 넘어 먹점마을까지 구불구불한 임도를 따라 걷습니다. 한낮 날씨는 여름과 같아서 고개를 넘기가 좀 힘겹게 느껴지셨을 거예요. 고개 정상 부근에서 준비해온 도시락으로 점심식사를 하고 힘을 내어 다음 구간인 먹점마을을 출발하여 미동마을과 대축마을 갈림까지 다시 임도를 걷습니다. 이 먹점재도 오르막 임도여서 어제처럼 더운 날씨에는 발걸음이 무겁게 느껴졌네요. 하지만 저멀리 섬진강이 눈앞에 펼쳐지고 벚꽃터널이 내려다보이는 풍경은 그 수고로움을 잊게 합니다. 날씨가 좀더 화창했다면 하얀 벚꽃터널을 또렷이 볼 수 있었을 텐데 약간 안개가 끼어 선명하지는 않았습니다. 벚꽃이 가장 아름다운 섬진강변의 풍경을 멀리 둘레길을 걸으며 조망을 하니 그 또한 색다른 묘미가 있습니다. 
+대축마을로 가는 길은 푹신푹신한 흙길이 좋은 오솔길을 따라 걷습니다. 이번 코스는 대부분 포장된 임도라 오솔길이 여간 반갑지 않습니다. 이 오솔길이 끝나면 대축마을의 명물인 문암송을 만납니다. 수백 년의 기운이 담뿍 담긴 기품있는 소나무가 바로 문암송인데 소나무의 좋은 기운과 저 멀리 펼쳐진 악양 들녘을 바라보며 이번 걷기를 마무리하는 시간을 가졌습니다.
+걷기 여행을 모두 마치고 서울로 향하는 길, 섬진강변 국도에는 흐드러지게 핀 하얀 배꽃과 바람에 흩날리는 벚꽃잎 그리고 푸른 섬진강에게 멋진 배웅 인사를 받았습니다.^^
+이번 지리산둘레길 하동 구간은 포장된 임도가 많고 오솔길 구간이 짧아서 다른 구간에 비해 걷기가 수월한 편은 아닙니다. 하지만 유명 둘레길 코스에 비해 아직 때묻지 않은 코스여서 걷는 내내 한적하고 호젓한 분위기가 참 좋았고 멀리 섬진강과 악양들녘을 굽어보는 시원한 풍경들은 오래 기억에 남을 듯합니다.
+갑자기 날씨가 더워서 걷는데 평소보다 좀더 체력 소모가 많으셨을 거예요. 모두 정말 수고 많으셨구요, 오늘 하루 푹 쉬면서 피로 잘 떨치시고 새로운 한 주도 활기차게 맞이하시기 바랍니다~이 게시물을...

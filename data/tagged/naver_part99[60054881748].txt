@@ -1,0 +1,83 @@
+우리
+	우리/npp
+
+아파트
+	아파트/ncn
+
+뒤에
+	뒤/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+옥현유적전시관이다
+	옥현유적전시관/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+가까이
+	가까이/mag
+
+있으면서도
+	있/px+으면/ecs+서도/jxc
+
+가을인
+	가을/ncn+이/jp+ㄴ/etm
+
+처음
+	처음/mag
+
+가
+	가/jcs
+
+보았다
+	보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+옥현유적지는
+	옥현유적지/ncn+는/jxc
+
+우리나라에서
+	우리나라/ncn+에서/jca
+
+처음으로
+	처음/ncn+으로/jca
+
+청동기
+	청동기/ncn
+
+시대의
+	시대/ncn+의/jcm
+
+논이
+	논/ncn+이/jcc
+
+발견된
+	발견/ncpa+되/xsvn+ㄴ/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+사이트는
+	사이트/ncn+는/jxc
+
+http://okhn.
+	http/f+:/sp+//sp+//sp+okhn/f+./sy
+
+ulsan.
+	ulsan/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp

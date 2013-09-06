@@ -1,0 +1,600 @@
+제주시맛집
+	제주시맛집/ncn
+
+-
+	-/sd
+
+쌍봉냉면
+	쌍봉/ncn+냉면/ncn
+
+
+어제
+	어제/ncn
+
+와이프랑
+	와이/ncn+프랑/ncn
+
+함께제주시맛집
+	함께제주시맛집/ncn
+
+쌍봉냉면으로
+	쌍봉/ncn+냉면/ncn+으로/jca
+
+식사를
+	식사/ncpa+를/jco
+
+하러
+	하/pvg+러/ecs
+
+갔답니다
+	가/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+외식을
+	외식/ncn+을/jco
+
+자주하는데
+	자주하는데/ncn
+
+여름이고해서
+	여름/ncn+이/jp+고/ecx+하/px+어서/ecs
+
+오랫만에
+	오랫만/ncn+에/jca
+
+찾은
+	찾/pvg+은/etm
+
+쌍봉냉면
+	쌍봉/ncn+냉면/ncn
+
+요즘
+	요즘/mag
+
+물가가
+	물가/ncn+가/jcs
+
+많이
+	많/paa+이/xsa
+
+
+올라서
+	오르/pvg+아/ecx
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+예전만큼의
+	예전/ncn+만큼/jca+의/jcm
+
+양은
+	양/ncn+은/jxc
+
+안주더라고요
+	안주/ncn+이/jp+더/ep+라고/ef+요/jxf
+
+그래서
+	그래서/maj
+
+만두하나
+	만/nnc+두/nnc+하나/nnc
+
+추가하니깐
+	추가하니깐/ncn
+
+
+그나마
+	그나마/mag
+
+허기진건
+	허기/ncn+진/ncn+건/xsnx
+
+면할수
+	면하/pvg+ㄹ/etm+수/nbn
+
+있었답니다
+	있/px+었/ep+답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+그래도
+	그래도/maj
+
+예전맛은
+	예전/ncn+맛/ncn+은/jxc
+
+여전했던
+	여전/ncps+하/xsms+었/ep+던/etm
+
+쌍봉냉면
+	쌍봉/ncn+냉면/ncn
+
+
+여름별미로
+	여름/ncn+별미/ncn+로/jca
+
+딱이었답니다
+	딱이었답니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+제주시맛집
+	제주시맛집/ncn
+
+쌍봉냉면으로
+	쌍봉/ncn+냉면/ncn+으로/jca
+
+가보실까요
+	가보/ncn+이/jp+시/ep+ㄹ까요/ef
+
+
+한입
+	한입/ncn
+
+맛있게
+	맛있/paa+게/ecs
+
+먹을수
+	먹/pvg+을/etm+수/nbn
+
+있었던
+	있/paa+었/ep+던/etm
+
+제주시맛집
+	제주시맛집/ncn
+
+쌍봉냉면의
+	쌍봉/ncn+냉면/ncn+의/jcm
+
+특징은
+	특징/ncn+은/jxc
+
+면이
+	면/ncn+이/jcc
+
+정말
+	정말/mag
+
+가늘어요
+	가늘/paa+어요/ef
+
+
+그리고
+	그리고/maj
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+육수가
+	육수/ncn+가/jcs
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+드는곳
+	드는곳/ncn
+
+뜨거운
+	뜨겁/paa+은/etm
+
+육수도
+	육수/ncn+도/jxc
+
+주는데요
+	주/px+ㄴ데/ef+요/jxf
+
+그
+	그/mmd
+
+맛도
+	맛/ncn+도/jxc
+
+아주
+	아주/mag
+
+좋답니다
+	좋/paa+답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+뜨거운
+	뜨겁/paa+은/etm
+
+육수는
+	육수/ncn+는/jxc
+
+주전자에
+	주전자/ncn+에/jca
+
+주는데요
+	주/px+ㄴ데/ef+요/jxf
+
+컴에
+	컴/ncn+에/jca
+
+담아서
+	담/pvg+아/ecx
+
+맛있게만
+	맛있/paa+게/ecs+만/jxc
+
+먹으면
+	먹/pvg+으면/ecs
+
+된답니다
+	되/pvg+ㄴ답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+허브비치는
+	허브비치/ncn+는/jxc
+
+원래
+	원래/mag
+
+비빔냉면을
+	비빔/ncn+냉면/ncn+을/jco
+
+좋아하는데
+	좋/paa+아/ecx+하/px+ㄴ데/ecs
+
+이날은
+	이/nnc+날/nbu+은/jxc
+
+물냉면이
+	물냉면/ncn+이/jcc
+
+먹고
+	먹/pvg+고/ecc
+
+싶었답니다
+	싶/px+었/ep+답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+그래서
+	그래서/maj
+
+시킨
+	시키/pvg+ㄴ/etm
+
+물냉면
+	물냉면/ncn
+
+가는
+	가/pvg+는/etm
+
+면발
+	면발/ncn
+
+보이시나요
+	보이/ncn+시/ncn+이/jp+나요/ef
+
+
+울
+	울/pvg+ㄹ/etm
+
+와이프가
+	와이프/ncn+가/jcs
+
+시킨
+	시키/pvg+ㄴ/etm
+
+비빔냉면
+	비빔/ncn+냉면/ncn
+
+맛있어
+	맛있/paa+어/ecx
+
+보이죠
+	보이/pvg+죠/ef
+
+조금
+	조금/mag
+
+뺏어
+	뺏/pvg+어/ecx
+
+먹었답니다
+	먹/pvg+었/ep+답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+비빔냉면에
+	비빔/ncn+냉면/ncn+에/jca
+
+겨자소스를
+	겨자/ncn+소스/ncn+를/jco
+
+뿌려서
+	뿌리/pvg+어서/ecs
+
+먹는
+	먹/pvg+는/etm
+
+센스쟁이
+	센스/ncn+쟁/ncn+이/jcc
+
+와이프
+	와이프/ncn
+
+
+그리고
+	그리고/maj
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+잘라주는
+	자르/pvg+아/ecx+주/px+는/etm
+
+서비스
+	서비스/ncpa
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+이날
+	이/nnc+날/nbu
+
+냉면이
+	냉면/ncn+이/jcc
+
+먹고
+	먹/pvg+고/ecc
+
+싶다고
+	싶/paa+다고/ecs
+
+
+한건
+	한/nnc+건/nbu
+
+와이프라서
+	와이/ncn+프라/ncn+서/jca
+
+서비스는
+	서비스/ncpa+는/jxc
+
+와이프가
+	와이프/ncn+가/jcs
+
+한답니다
+	하/px+ㄴ답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+벌써부터
+	벌써/mag+부터/jxc
+
+입에
+	입/ncn+에/jca
+
+침이
+	치/pvg+ㅁ/etn+이/jcs
+
+가득
+	가득/mag
+
+고입니다
+	고이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+제주시맛집
+	제주시맛집/ncn
+
+쌍봉냉면집에서
+	쌍봉/ncn+냉면집/ncn+에서/jca
+
+
+즐거운
+	즐겁/paa+은/etm
+
+식사를
+	식사/ncpa+를/jco
+
+하고
+	하/pvg+고/ecc
+
+와서인지
+	와서/ncn+이/jp+ㄴ지/ecs
+
+사진올리고
+	사진올리/ncn+이/jp+고/ecc
+
+있는데도
+	있/px+는데/ecs+도/jxc
+
+배고프답니다
+	배고프/paa+답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+한입
+	한입/ncn
+
+달라고
+	다르/paa+아/ef+고/jcr
+
+하니깐
+	하니깐/ncn
+
+자
+	자/pvg+아/ecx
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+양이
+	양/ncn+이/jcc
+
+부족해서
+	부족/ncn+해/ncn+서/jca
+
+시킨
+	시키/pvg+ㄴ/etm
+
+만두
+	만/nnc+두/nnc
+
+요것도
+	요것/npd+도/jxc
+
+참
+	참/mag
+
+맛있었어요
+	맛있/paa+었/ep+어요/ef
+
+
+참
+	참/mag
+
+저랑
+	저/npp+랑/jxc
+
+입맛
+	입맛/ncn
+
+다르신분은
+	다르/paa+시/ep+ㄴ/etm+분/nbn+은/jxc
+
+안가셔도
+	안가/ncn+이/jp+시/ep+어도/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+제주시맛집
+	제주시맛집/ncn
+
+쌍봉냉면
+	쌍봉/ncn+냉면/ncn
+
+가격표에요
+	가격표/ncn+이/jp+에요/ef
+
+특별메뉴도
+	특별/ncps+메뉴/ncn+도/jxc
+
+있네요
+	있/px+네/ef+요/jxf
+
+일단
+	일단/mag
+
+울
+	울/pvg+ㄹ/etm
+
+부부가
+	부부/ncn+가/jcs
+
+먹은건
+	먹은건/ncn
+
+
+냉면과
+	냉면/ncn+과/jcj
+
+만두이기에
+	만/nnc+두/nnc+이/jp+기/etn+에/jca
+
+올려봅니다
+	올리/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+즐거운
+	즐겁/paa+은/etm
+
+식사를
+	식사/ncpa+를/jco
+
+하는건
+	하는건/ncn
+
+누구랑
+	누구/npp+랑/jxc
+
+하는건지
+	하/pvg+는/etm+것/nbn+이/jp+ㄴ지/ecs
+
+가장
+	가장/mag
+
+중요하답니다
+	중요/ncps+하/xsms+답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy

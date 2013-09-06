@@ -1,0 +1,502 @@
+-
+	-/sd
+
+연꽃의
+	연꽃/ncn+의/jcm
+
+제주
+	제주/ncn
+
+물
+	물/pvg+ㄹ/etm
+
+이야기
+	이야기/ncpa
+
+-
+	-/sd
+
+
+제주시
+	제주/ncn+시/ncn
+
+조천읍
+	조천읍/ncn
+
+선흘리
+	선흘리/ncn
+
+반못
+	반못/ncn
+
+습지
+	습지/ncn
+
+!!
+	!/sf+!/sf
+
+
+성읍민속마을의
+	성읍/ncn+민속/ncn+마을/ncn+의/jcm
+
+원님물과
+	원님/ncn+물/ncn+과/jcj
+
+노더리
+	노/ncn+이/jp+더/ep+리/ef
+
+방죽을
+	방죽/ncn+을/jco
+
+둘러보고
+	둘러보/pvg+고/ecc
+
+
+제주시
+	제주/ncn+시/ncn
+
+조천읍
+	조천읍/ncn
+
+선흘리
+	선흘리/ncn
+
+동백동산으로
+	동백/ncn+동산/ncn+으로/jca
+
+이동을
+	이/nnc+동/nbu+을/jco
+
+하다
+	하/pvg+어다/ecs
+
+반못
+	반못/ncn
+
+습지를
+	습지/ncn+를/jco
+
+찾았다
+	찾/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+이곳이
+	이곳/npd+이/jcc
+
+선흘1리
+	선흘1리/ncn
+
+동백가든
+	동백/ncn+가/jcs+든/jxc
+
+옆에
+	옆/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+반못
+	반못/ncn
+
+습지이다
+	습지/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+반못은
+	반못/ncn+은/jxc
+
+사시사철
+	사시사철/ncn
+
+야생화를
+	야생/ncpa+화/ncn+를/jco
+
+담는
+	담/pvg+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+자주
+	자주/mag
+
+찾는
+	찾/pvg+는/etm
+
+장소이기도
+	장소/ncn+이/jp+기/etn+도/jxc
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+반못
+	반못/ncn
+
+습지에는
+	습지/ncn+에/jca+는/jxc
+
+수련을
+	수련/ncn+을/jco
+
+비롯해
+	비롯/ncpa+하/xsva+어/ecx
+
+세모고랭이,
+	세모고랭이,/ncn
+
+어리연곷,
+	어리연곷,/ncn
+
+마름,
+	마르/pvg+ㅁ/etn+,/sp
+
+고풀,
+	고풀,/ncn
+
+쇠대가리,
+	쇠대가/ncn+이/jp+리/ef+,/sp
+
+
+방동사니
+	방동사/ncn+이/jp+니/ecs
+
+등이
+	등/nbu+이/jcc
+
+있고
+	있/px+고/ecc
+
+주변에는
+	주변/ncn+에/jca+는/jxc
+
+마편초,
+	마편초,/ncn
+
+고슴도치풀
+	고슴도치/ncn+풀/ncn
+
+등이
+	등/nbu+이/jcc
+
+자라고
+	자/nbn+이/jp+라/ef+고/jcr
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+연못에는
+	연못/ncn+에/jca+는/jxc
+
+지금
+	지금/mag
+
+사마귀풀,
+	사마귀/ncn+풀/ncn+,/sp
+
+마편초,
+	마편초,/ncn
+
+수련
+	수련/ncn
+
+등
+	등/nbu
+
+많은
+	많/paa+은/etm
+
+야생화가
+	야생/ncpa+화/ncn+가/jcs
+
+피어
+	피/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+반못은
+	반못/ncn+은/jxc
+
+과거
+	과거/ncn
+
+조상들이
+	조상/ncn+들/ncn+이/jcc
+
+삶의
+	삶/ncn+의/jcm
+
+터전이었던
+	터전/ncn+이/jp+었/ep+던/etm
+
+곳으로
+	곳/nbu+으로/jca
+
+
+제주시
+	제주/ncn+시/ncn
+
+자료에
+	자료/ncn+에/jca
+
+의하면
+	의하/pvg+면/ecs
+
+제주시
+	제주/ncn+시/ncn
+
+지역에는
+	지역/ncn+에/jca+는/jxc
+
+이런
+	이런/mmd
+
+마을
+	마을/ncn
+
+연못이
+	연못/ncn+이/jcc
+
+157개가
+	157/nnc+개/nbu+가/jcc
+
+있다고
+	있/px+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+이
+	이/mmd
+
+연못들은
+	연못/ncn+들/ncn+은/jxc
+
+사용빈도가
+	사용빈도/ncn+가/jcs
+
+줄어들면서
+	줄어들/pvg+면서/ecc
+
+
+형태가
+	형태/ncn+가/jcs
+
+사라지거나
+	사라지/pvg+거나/ecc
+
+도로확장
+	도로확장/ncpa
+
+등
+	등/nbu
+
+각종
+	각종/ncn
+
+공사로
+	공사/ncn+로/jca
+
+매립되어
+	매립/ncn+되/xsvn+어/ecx
+
+안타까운
+	안타깝/paa+은/etm
+
+실정이었다
+	실정/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+이에
+	이/npd+에/jca
+
+제주시는
+	제주/ncn+시/ncn+는/jxc
+
+사업비를
+	사업/ncn+비/ncn+를/jco
+
+투입
+	투입/ncpa
+
+연못준설,
+	연못/ncn+준설/ncn+,/sp
+
+돌담정비,
+	돌담/ncn+정비/ncpa+,/sp
+
+쉼터조성
+	쉼터/ncn+조성/ncpa
+
+등의
+	등/nbu+의/jcm
+
+사업을
+	사업/ncn+을/jco
+
+추진하여
+	추진/ncpa+하/xsva+어/ecs
+
+
+주민쉼터와
+	주민/ncn+쉼터/ncn+와/jcj
+
+자연생태학습장으로
+	자연생태/ncn+학습장/ncn+으로/jca
+
+거듭
+	거듭/mag
+
+태어나고
+	태어나/pvg+고/ecc
+
+있어
+	있/px+어/ecx
+
+다행이다
+	다행/ncps+이/jp+다/ef
+
+.
+	./sf
+
+
+오늘
+	오늘/ncn
+
+체험학습에
+	체험학습/ncn+에/jca
+
+참여한
+	참여/ncpa+한/ncn
+
+
+일행들이
+	일행/ncn+들/ncn+이/jcc
+
+반못
+	반못/ncn
+
+습지를
+	습지/ncn+를/jco
+
+둘러보고
+	두르/pvg+어/ecx+보/px+고/ecc
+
+있는
+	있/px+는/etm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+반못은
+	반못/ncn+은/jxc
+
+돌빌레에
+	돌빌레/ncn+에/jca
+
+물이
+	물/ncn+이/jcc
+
+고여
+	고이/pvg+어/ecx
+
+형성된
+	형성/ncpa+되/xsvn+ㄴ/etm
+
+못이다
+	못/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+반못은
+	반못/ncn+은/jxc
+
+각종
+	각종/ncn
+
+수생동
+	수생동/ncn
+
+.
+	./sf
+
+
+식물이
+	식물/ncn+이/jcc
+
+살아
+	살/pvg+아/ecs
+
+
+숨쉬는
+	숨쉬/pvg+는/etm
+
+자연생태학습장이다
+	자연생태/ncn+학습장/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+앞으로
+	앞/ncn+으로/jca
+
+잘
+	잘/mag
+
+보호
+	보호/ncpa
+
+.
+	./sf
+
+
+관리되기를
+	관리/ncn+되기/ncn+를/jco
+
+바란다
+	바라/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+.
+	./sf

@@ -1,0 +1,100 @@
+Title:
+고양꽃박람회 
+
+Date:
+2012.05.04 18:46
+
+Content:
+
+위 치 : 고양시 호수공원 장미원 주변문의전화.031]908~7750~4
+가 는 길 : 지하철 3호선 [대화]행 정발산역 하차 1번출구 호수공원 방향 도보10분
+버스~일산동구청[정발산역]하차 호수공원 방향 도보10분거리
+3300[인천공항] 33.150[김포공항] 호수공원 하차 도보5분 거리
+기 차 : 지하철1호선승차 종로3가 3호선[대화행]환승 정발산역 하차 1번출구 호수공원방향
+자가용 . 수도권~강변북로~자유로~킨텍스I.C꽃박람회 임시주차장
+고속도로:중부.경부고속도로~88올림픽대로~행주대교~자유로~킨텍스I.C꽃박람회 임시주차장
+주차장 안내
+꽃박람회 임시 주차장에 주차를 하신 후 셔틀버스를 타고 행사장으로 오시면됩니다
+임시 주차장 주차요금 및 셔틀버스 이용요금은 무료입니다[대중교통 이용시 입장료에서1000원]공제
+
+
+2012.고양국제 꽃 박람회 
+행사기간:2012.4.26[목]~5.13[일]18일간
+꽃보다 아름다운 사람들의도시 고양 국제꽃박람회는 호수공원의 서쪽광장과 연결되어 있으며
+우리주변 산책코스중 1위로 성정 될만큼 세계적인 수준의 인공 생태공원으로 산책코스와 자전거 도로
+넑은 호수 꽃과 나무들이 어우러져 아름다운 경관을 연출하고 있으며 이곳에 오면 다양한 문화행사를
+만나 볼수있다
+
+
+
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/05/04/119/031033237191537E09C3B93373B57C53BC4_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '625.59';
+	var qsParam = {};
+	qsParam.vid = '5E38EAA34EDA90E5B7B109A50CB4C302D8F9';
+	qsParam.inKey = 'V129cb65cdf7200da2d9f6f850d20745d59cdd718b645fa9eb66dbb74d273ca42577a6f850d20745d59cd';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = 'MUSIC';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_01973 = new VideoInfraUGCPlayer('ugcPlayer_01973' ,bean); 
+ugcPlayer_01973.drawPlayLayer(); 
+}
+
+ 
+ 
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/05/04/1051/031033237191538E71C3C96753E55FF3247_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '727.57';
+	var qsParam = {};
+	qsParam.vid = 'E1E5F4D54E9311B901FA345B3C40F46EB947';
+	qsParam.inKey = 'V1251f68608e9a401f5bc216fddaa4e7ce478ea3ed39dd7ede2d0d0ed1e9ac241c572216fddaa4e7ce478';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_01242 = new VideoInfraUGCPlayer('ugcPlayer_01242' ,bean); 
+ugcPlayer_01242.drawPlayLayer(); 
+}
+
+
+
+
+
+
+
+
+
+
+	

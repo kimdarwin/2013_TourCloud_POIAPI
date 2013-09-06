@@ -1,0 +1,30 @@
+Title:
+1/14 내장사 눈꽃 트레킹 후기
+
+Date:
+2012.01.14
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(935619,'files/attach/images/64/964/197/f133ea750bbaad1659ef6762f303d272.jpg');
+list_gallery_add_image(935619,'files/attach/images/64/964/197/f7b0057120a666cca8c28b36c2cc5d7d.jpg');
+list_gallery_add_image(935619,'files/attach/images/64/964/197/42dc16486aaa538ad643f9d879dabf00.jpg');
+list_gallery_add_image(935619,'files/attach/images/64/964/197/5f36a1a936f4d8750fdc0d8d269ccbb7.jpg');
+list_gallery_add_image(935619,'files/attach/images/64/964/197/176986f1100807463b9cf9cb8b14f346.jpg');
+list_gallery_add_image(935619,'files/attach/images/64/964/197/3bce1606b6ad7df5e16a46d5dab302c3.jpg');
+list_gallery_add_image(935619,'files/attach/images/64/964/197/e91f208f8dd0f4d73eaa1b9dbcf5d3c1.jpg');
+list_gallery_add_image(935619,'files/attach/images/64/964/197/53612c1630dd6c948d6944f54609e204.jpg');
+list_gallery_add_image(935619,'files/attach/images/64/964/197/bf98876bddce502b519ec7a04443a129.jpg');
+list_gallery_add_image(935619,'files/attach/images/64/964/197/d0c5d1d93643bffedfc0193896b4c4b5.jpg');
+list_gallery_add_image(935619,'files/attach/images/64/964/197/9f3d211cb2380d447cf272af44cd10f4.jpg');
+list_gallery_add_image(935619,'files/attach/images/64/964/197/e82a8fd0647f09a85c40282410596276.jpg');
+list_gallery_add_image(935619,'files/attach/images/64/964/197/757937ee4bbdfa5a05eba03db71ae717.jpg');
+list_gallery_add_image(935619,'files/attach/images/64/964/197/adfa1e39cccb99196b41576778b42440.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+1월 14일(토), 아름다운 여행으로 내장사 눈꽃 트레킹을 다녀왔습니다. 내장사가 있는 정읍은 고창, 담양과 함께 눈이 많은 지역으로 유명하죠. 이 덕에 이곳들은 겨울철 가벼운 눈꽃 트레킹을 즐기기에 좋은 곳입니다.
+이번 내장사 눈꽃 트레킹은 내장사 주차장에서 내장사를 지나 원적암과 벽련암을 돌아나오는 코스로 약 11km 정도의 코스입니다. 원적암에 오르는 길이 오르막이고 벽련암으로 가는 도중 오르막이 좀 있지만, 거리가 길지 않아 그리 힘들지는 않은 코스입니다.
+이 날은 날씨가 겨울 트레킹을 즐기기에 딱 좋았습니다. 그리 춥지도 않고 바람도 없어 상쾌한 겨울이었습니다. 게다가 하늘까지 깨끗해 걷기에 더없이 좋았습니다. 내장사 입구에 도착해 점심식사를 한 뒤 트레킹을 시작했습니다. 올 겨울엔 눈이 적어 트레킹 코스가 너무 황량하지 않을까 걱정했는데 다행히 바닥에는 꽤 눈이 쌓여 있더군요. 또 내장사로 들어가는 길에 새로 계곡길이 조성되어 도로를 걷는 것보다 한결 운치 있게 걸을 수 있었습니다. 그래도 겨울은 겨울이어서 가을철 붉은색으로 화사하게 불타던 단풍나무 가로수길은 썰렁한 느낌이었습니다.
+내장사를 지나면 원적계곡을 따라 걷다가 불출봉 아래 원적암과 벽련암을 잇는 산중턱길을 걷게 됩니다. 이 길이 언제 걸어도 포근하고 청량한 분위기의 길입니다. 이 날도 날씨가 좋아 가벼운 발걸음으로 이 길을 걸었습니다.
+이 날 내장사 트레킹은 눈이 적어 좀 아쉬웠지만 그런대로 상쾌한 여행이었습니다. 사람이 많지 않아 호젓한 여행을 즐길 수 있었고, 날씨로 인한 불편도 없었습니다. 여행에 참여하신 분들도 상쾌한 여행이 되셨으리라 생각됩니다. 이번 트레킹에 참여하신 분들 모두 휴일에 여행의 피로 잘 푸시고 활기차게 새해를 이어가시기 바랍니다~
+이 게시물을...

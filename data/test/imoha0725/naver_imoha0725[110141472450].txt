@@ -1,0 +1,315 @@
+Title:
+[여수 엑스포유랑단]2012 여수세계박람회의 하이라이트, 빅오 쇼Big-O Show 
+
+Date:
+2012.06.27 07:50
+
+Content:
+
+
+여수세계박람회의 하이라이트
+빅오 쇼
+(Big-O Show)
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/06/27/109/031013238132539E9BC3298773DA59836C9_imoha0725_480P_01_16x9_logo.jpg';
+	layout.playtime = '31.149';
+	var qsParam = {};
+	qsParam.vid = '097223C4703D4634705ED17992F61B7A1ADA';
+	qsParam.inKey = 'V12130a6a050ef2a9356cb995449fd9f6019612c81707b3f5a718fd8ee6c3952d8b0db995449fd9f60196';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_04359 = new VideoInfraUGCPlayer('ugcPlayer_04359' ,bean); 
+ugcPlayer_04359.drawPlayLayer(); 
+}
+
+ 
+
+▲여수 세계박람회/ 빅오 쇼Big-O Show - INTRO
+
+
+
+
+
+
+
+
+박람회장 여수 앞바다의 방파제를 육지와 연결해 만든, 해상문화공간 '빅오(Big-O)'
+
+
+
+
+빅오(Big-O)의 'O'는 바다를 뜻하는 영어 '오션(Ocean)'의 이니셜이자 미래로의 시작을 의미하는 영어 'ZERO(0)'의 뜻을 담고 있습니다. 빅오쇼는 레이저, 화염, 안개 등 각종 연출효과를 내는 멀티워터스크린 '디오(The-O)'와 초대형 해상분수 '라군'이 연출하는 광경이 장관을 이룬다죠. 빅오 해상 한가운데 위치한 '디오'는 직경이 41m로 타원형 주축대가 받치고 있어 전체 높이는 47m에 이른다고해요. 디오 안에는 워터스크린 장치가 설치돼 얇은 물 막 위로 마치 영화와도 같은 영상이 투영된다고 하니 상상만으로도 그 규모가 엄청납니다. 
+주변 테두리에는 움직이는 분수, 안개, 화염, 조명, 레이저 등이 설치돼 영상과 함께 각종 멀티미디어 효과를 연출한다고 하는데요. 디오는 세계적인 무대미술가인 영국의 마크피셔가 설계했고, 디오에서 펼쳐지는 각종 멀티미디어쇼의 기획·연출은 프랑스 월드컵 개·폐막식, 에펠탑 뉴밀레니엄 쇼 등을 연출한 ECA2에서 맡았다고 하니 실로 그 내용은 세계적이라 할 만 합니다.
+디오에는 조명 56개, 레이저 5개, 워터젯 24개, 화염 24개, 영상프로젝터 6대가 설치돼 각종 멀티미디어 효과를 연출한다고 하는데요. 디오 전면(관람석)에는 초대형 해상분수가 설치됐는데 총 길이 120m에 최대 70m까지 올라가는 분수 노즐 346개와 빅오 앞바다 전체를 안개로 덮는 연출 시설이 함께 설치됐다고 하니 아름다운 쇼가 보기도 전부터 여행별의 마음을 설레게 합니다.
+해상분수는 라스베이거스의 벨라지오 호텔 분수쇼, 미라지 호텔 화산 분수쇼, 두바이 버즈칼리파 분수쇼 등을 기획·연출·제작한 미국 WET사에서 맡았다고 하는데요. 두바이 버즈칼리파 분수쇼만 보지 못했고 라스베이거스의 벨라지오 호텔 분수쇼, 미라지 호텔 화산 분수쇼를 여러 차례 보아왔던 여행별은 벌써 여수를 가기 전부터 빅오쇼는 무조건 봐야겠다며 각오를 단단히 하였더랬습니다.
+
+ 
+
+이 즘 되면 여수 세계박람회, 빅오 쇼Big-O Show를 안 볼 수 없겠지요^^?! 앞서 인트로 부분을 맛보기로 엮어 두었지만, 본격적인 기승전결이 있는 빅오 쇼Big-O Show는 '자연을 살피고 보호하자'는 주제로 이루어져 있답니다. 
+
+
+여행별은 정중앙에 자리를 잡았습니다. 물론, 반드시 내가 전에 경험한 분수쇼 이상인가를 확인하기 위함이었습니다. 
+
+
+여수 밤바다에서 그 화려한 막을 올린 여수 세계박람회/ 빅오 쇼Big-O Show 우리 함께 감상해 볼까나요^^?!
+실제로 보면 정말 환상이 따로 없겠지만, 아쉬운 분들을 위해 살짝 올려봅니다~
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/06/27/1528/03101323814253BE0CC3599E73EB7A23A03_imoha0725_480P_01_16x9_logo.jpg';
+	layout.playtime = '129.219';
+	var qsParam = {};
+	qsParam.vid = '3AE6DA43AEEE0CDADD72343B1734C0A7D68A';
+	qsParam.inKey = 'V1221c0801e00df92a6f4d006be3ea8d5e1b84bd2dfebb188935784f7cc6d008d9557d006be3ea8d5e1b8';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_03628 = new VideoInfraUGCPlayer('ugcPlayer_03628' ,bean); 
+ugcPlayer_03628.drawPlayLayer(); 
+}
+
+ 
+
+▲여수 세계박람회/ 빅오 쇼Big-O Show - 기
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/06/27/667/03101323814253BE0CC3899A737B9D23D05_imoha0725_480P_01_16x9_logo.jpg';
+	layout.playtime = '239.439';
+	var qsParam = {};
+	qsParam.vid = '8BD1A82AB0007966403E3A9302DE2F91B9AA';
+	qsParam.inKey = 'V1298623d514405b7563a0911b1a8bfa391d4100137530401e748baecf67121d942ff0911b1a8bfa391d4';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_01390 = new VideoInfraUGCPlayer('ugcPlayer_01390' ,bean); 
+ugcPlayer_01390.drawPlayLayer(); 
+}
+
+ 
+
+▲여수 세계박람회/ 빅오 쇼Big-O Show - 승
+
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/06/27/1411/03101323814253BE1CC3B901733B1123D05_imoha0725_480P_01_16x9_logo.jpg';
+	layout.playtime = '166.669';
+	var qsParam = {};
+	qsParam.vid = '75685E57DBE5607727919F990E5B960569CF';
+	qsParam.inKey = 'V122d70aafee78aec730b9d6a553fbf3dd2bfb88d8ad690cf44bdcea7bc7afe56ed269d6a553fbf3dd2bf';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_01298 = new VideoInfraUGCPlayer('ugcPlayer_01298' ,bean); 
+ugcPlayer_01298.drawPlayLayer(); 
+}
+
+
+▲여수 세계박람회/ 빅오 쇼Big-O Show - 전
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/06/27/353/03101323814253BE1CC3E900732B3123401_imoha0725_480P_01_16x9_logo.jpg';
+	layout.playtime = '270.79';
+	var qsParam = {};
+	qsParam.vid = '6BECCACF528DFEEC38848A3F74CCEEB6DF10';
+	qsParam.inKey = 'V124e564062e7b10c7f6c8f87f4746d9591e1a04f77e63de487a96749b1e7fbbb19808f87f4746d9591e1';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_02672 = new VideoInfraUGCPlayer('ugcPlayer_02672' ,bean); 
+ugcPlayer_02672.drawPlayLayer(); 
+}
+
+
+▲여수 세계박람회/ 빅오 쇼Big-O Show - 결
+
+
+
+
+
+불기둥이 나오면서 인류가 저지른 바다의 파괴가 형상화되고, 이어 그래도 희망을 갖고 평화롭고 아름다운 바다를 되찾아야 한다는 메시지는 여수 엑스포 주제를 대변합니다. 
+
+
+즐거운 시간을 모두 보내고, 마지막으로 관람한 빅오쇼는 정말이지 너무나 환상적이고 아름다웠습니다. 미국 라스베이거스의 그 것에 비할 바가 아니더라는..^^! 
+
+
+올 여름 휴가철 여행 계획 있나요? 그렇다면 여수세계박람회는 어떨까요? 하루에 모두 둘러보기엔 정말 역부족이리만큼 볼거리도, 체험거리도 다양한데요. 우리 아이들에게 환경의 중요성도 알려주고, 세계를 보여주며 무럭무럭 큰 사람이 되도록 알찬 여름휴가 일정으로 제격이 될 것 같아요^^!
+
+
+
+
+
+
+
+
+2012 여수 세계박람회
+일정 : 2012. 5. 12. - 8. 12.
+장소 : 전남 여수시 여수 신항 일대
+문의 : 1577 - 2012
+관람시간 : 평일 09.00 - 23.00, 주말 08.00 - 23.00
+빅오쇼 관람시간 : 매일 밤 8.50
+홈페이지 : http://www.expo2012.kr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+여수세계박람회 주제관
+전라남도 여수시 한려동
+
+
+
+	
+{mapId: "bl011297787", placeId: "21529718", type:"1", title:"여수세계박람회 주제관", pointX:377367,pointY:239000}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:: The Travelgrapher, 홍유진의 여행블로그 
+여행, 국내여행, 해외여행, 배낭여행, 캠핑, 초보캠핑 
+맛집, 카페, 브런치, 커피, 홍차 
+여러분의 덧글, 공감에 힘이 나는 여행별이랍니다^^! 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

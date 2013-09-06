@@ -1,0 +1,33 @@
+Date:
+2011.11.26
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/9c6b67f93fb9d03ca252be4ae7328098.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/b340ffb953f982d9c3cccd18ece48e31.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/fdcdacf8e790cb1847c5bc971fb8428a.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/2eda824606ddd81d91a05131071ce765.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/0f52cc9c13f91432cc5401b599e05c42.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/c2399d7770b972432c851444594de023.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/ad9751ff2a92a29ae10a2b304258f590.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/99298a9d58fff795d7e8b031aa05b93b.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/ab8e948226bfd02661b76f3a2cd2f671.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/535b3563c4bb03e2427091d237eb98a7.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/45f56c9f151b3a29d9f96b33462e3158.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/65e1e9e735502dbd29e486bbcb29434a.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/51aa5949f538c48b0c59416ffcff08d1.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/485315882d63600115d4552f602b73a8.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/bdd0ec2b199733f0d12bd3439248156c.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/5576bebb7e494f2a3c0498b00c347c74.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/ade8b7d77c90d78e0b8a51bbfaef0bc9.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/ea4d34ebd9e967d514be6554aed5a7fb.jpg');
+list_gallery_add_image(881259,'files/attach/images/228818/391/193/8141b626f1481a7ab97b7829c2092f87.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+11월 26일(토) 아름다운 여행으로 강릉 주문진 바닷길 걷기를 하였습니다. 며칠간 춥던 날씨가 풀리고 오늘은 걷기에 더없이 좋은 날이었습니다. 강원도라 날씨가 조금은 추울 것이라 생각하였는데 의외로 날이 포근하여 마치 봄바람 같았습니다.
+주문진 바닷길 걷기는 사천항 사천해변을 시작으로 주문진해수욕장까지 약 13km 구간으로 바우길 12코스에 해당합니다. 구간은 좀 긴 편이지만 걷는 내내 가슴 탁 트인 바다 풍경을 감상할 수 있는 것이 바로 바닷길 걷기의 매력일 것입니다.
+사천항을 출발하면 바로 고운 모래 위를 걷다가 소나무숲이 울창한 연곡해변으로 이어집니다. 이 솔숲은 산책로까지 마련되어 산림욕을 즐기기에도 그만이죠. 솔숲을 벗어나서 다리를 건너며 푹신푹신한 산길을 잠깐 걷고 마을로 내려섭니다. 마을회관이 보이는 골목 저 끝에 푸른 바다가 넘실대는 참 예쁜 골목을 지나고 탁 트인 바다를 만납니다. 다시 해안도로를 걷는데 저 앞에 주문진항이 다가옵니다.
+주문진항으로 들어서는 길에는 식사를 할 곳이 많아서 자유롭게 식사도 하고 주문진 어싱장을 돌아보았는데 오늘은 고기잡이 배들이 막 도착하였는지 어부들은 분주히 갓 잡은 생선을 부려놓습니다. 막 배에서 내려진 그물에는 도루묵, 대게, 성게, 문어까지 주렁주렁 달려나오는 모습도 그저 신기하기만 합니다.
+바쁜 어시장을 빠져 나와 다시 해안도로를 따라 걷다가 소돌항에 있는 아들바위공원도 잠깐 돌아보았습니다. 독특한 모양의 바위가 위태롭게 서 있는 풍경이 무척 이색적인 아들바위공원은 정성껏 기도를 올리면 아들을 얻는다는 전설이 서려있는 곳이기도 합니다. 
+이곳을 지나면 넓고 긴 백사장이 아름다운 주문진해수욕장에 도착합니다. 오늘은 유달리 고운 모래와 옥빛 바다가 아름다워 몇 번이고 바다를 바라보게 되더군요. 이번 걷기는 주문진해수욕장까지 걷기를 마치고 서울에도 늦지 않게 돌아왔습니다.
+오늘은 무엇보다 날씨가 좋아서 바닷길 걷기가 더욱 수월했습니다. 무리를 지어 날아오르던 갈매기들의 군무, 하얗게 부서지는 파도 그리고 어시장 풍경들이 이번 바닷길 걷기의 재미를 더해주어 요소들이었죠. 하지만 길이 좀 단순하고 흙길이 아닌 해안도로를 따라 몇 시간 동안 꽤 긴 구간을 걸어서 약간은 피로함도 느끼실 거예요. 내일 하루 푹 쉬면서 피로 잘 푸시고 11월 마지막 한주도 활기차게 맞이하시길 바랍니다~이 게시물을...

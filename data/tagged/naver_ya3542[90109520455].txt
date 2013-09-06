@@ -1,0 +1,1808 @@
+나의
+	나/npp+의/jcm
+
+모든
+	모든/mma
+
+사랑을
+	사랑/ncn+을/jco
+
+..
+	./sf+./sf
+
+
+당신에게
+	당신/npp+에게/jca
+
+드렸어요
+	드/ncn+이/jp+리/ep+었/ep+어요/ef
+
+
+내
+	내/npp
+
+마음을
+	마음/ncn+을/jco
+
+더
+	더/mag
+
+이상
+	이상/ncn
+
+아프게
+	아프/paa+게/ecs
+
+하지
+	하/pvg+지/ecx
+
+말아요
+	말/pvg+아요/ef
+
+
+눈물로지새게
+	눈물로지새/ncn+이/jp+게/ecs
+
+하지
+	하/pvg+지/ecx
+
+마세요
+	말/px+세/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+나의
+	나/npp+의/jcm
+
+가슴
+	가슴/ncn
+
+무너지게
+	무너지/pvg+게/ecs
+
+하지
+	하/pvg+지/ecx
+
+마세요
+	마세/ncn+요/ncn
+
+
+Stop
+	Stop/f
+
+~
+	~/sd
+
+Sam
+	Sam/f
+
+Brown
+	Brown/f
+
+(샘
+	(/sl+샘/ncn
+
+브라운)
+	브라운/ncn+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc25/2011/03/19/27/03100223E19C53EE20C3A93C536543F3F42_ya3542_logo.
+	net/blogucc25/2011/03/19/27/03100223E19C53EE20C3A93C536543F3F42_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'246.
+	'/sr+246./nnc
+
+599';
+	599/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'3AC27EA8B467CF7CB7BD231E17F531B10E29';
+	'3AC27EA8B467CF7CB7BD231E17F531B10E29/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V129687d93de80c2bf491985bf148420be657df29e4e84a3b8d3791ae592707c3d565985bf148420be657';
+	'V129687d93de80c2bf491985bf148420be657df29e4e84a3b8d3791ae592707c3d565985bf148420be657/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_01391
+	ugcPlayer_01391/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_01391'
+	VideoInfraUGCPlayer('ugcPlayer_01391'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_01391
+	ugcPlayer_01391/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+ooh
+	ooh/f
+
+you'd
+	you/f+'/sr+d/f
+
+better
+	better/f
+
+stop
+	stop/f
+
+..
+	./sf+./sf
+
+
+제발
+	제발/mag
+
+멈추어
+	멈추/pvg+어/ecx
+
+주세요
+	주세/ncn+요/ncn
+
+
+Stop
+	Stop/f
+
+~
+	~/sd
+
+Sam
+	Sam/f
+
+Brown
+	Brown/f
+
+..
+	./sf+./sf
+
+
+Live
+	Live/f
+
+동영상
+	동영상/ncn
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc25/2011/03/19/91/03100223E19C53EE00C3D94523202F335C5_ya3542_logo.
+	net/blogucc25/2011/03/19/91/03100223E19C53EE00C3D94523202F335C5_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'169.
+	'/sr+169./nnc
+
+639';
+	639/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'06E0A3F58C5FDFDCCC57BBC72B7A66561CB9';
+	'06E0A3F58C5FDFDCCC57BBC72B7A66561CB9/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1226007ba5d7adde0ceee380119e47283c859ae8158b9443e83a0693c00274906e25e380119e47283c85';
+	'V1226007ba5d7adde0ceee380119e47283c859ae8158b9443e83a0693c00274906e25e380119e47283c85/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_00660
+	ugcPlayer_00660/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_00660'
+	VideoInfraUGCPlayer('ugcPlayer_00660'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_00660
+	ugcPlayer_00660/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+Stop
+	Stop/f
+
+~
+	~/sd
+
+Sam
+	Sam/f
+
+Brown
+	Brown/f
+
+..
+	./sf+./sf
+
+
+All
+	All/f
+
+that
+	that/f
+
+I
+	I/f
+
+have
+	have/f
+
+is
+	is/f
+
+all
+	all/f
+
+that
+	that/f
+
+you've
+	you/f+'/sr+ve/f
+
+given
+	given/f
+
+me내가
+	me/f+내/ncn+가/jcs
+
+가진
+	가지/pvg+ㄴ/etm
+
+모든
+	모든/mma
+
+것은
+	것/nbn+은/jxc
+
+당신
+	당신/npp
+
+것입니다did
+	것입니다did/ncn
+
+you
+	you/f
+
+never
+	never/f
+
+worry
+	worry/f
+
+that
+	that/f
+
+I'd
+	I/f+'/sr+d/f
+
+come
+	come/f
+
+to
+	to/f
+
+depend
+	depend/f
+
+on
+	on/f
+
+you당신에게
+	you당신에/ncn+이/jp+게/ecs
+
+너무
+	너무/mag
+
+기대는
+	기대/pvg+는/etm
+
+것
+	것/nbn
+
+같다고
+	같/paa+다/ef+고/jcr
+
+걱정하지
+	걱정/ncpa+하/xsva+지/ecx
+
+마세요
+	마세/ncn+요/ncn
+
+
+I
+	I/f
+
+gave
+	gave/f
+
+you
+	you/f
+
+all
+	all/f
+
+the
+	the/f
+
+love
+	love/f
+
+I
+	I/f
+
+had
+	had/f
+
+in
+	in/f
+
+me나는
+	me/f+나/jxc+는/jxc
+
+나의
+	나/npp+의/jcm
+
+모든
+	모든/mma
+
+사랑을
+	사랑/ncn+을/jco
+
+당신에게
+	당신/npp+에게/jca
+
+드렸어요
+	드/ncn+이/jp+리/ep+었/ep+어요/ef
+
+
+now
+	now/f
+
+I
+	I/f
+
+find
+	find/f
+
+you've
+	you/f+'/sr+ve/f
+
+lied
+	lied/f
+
+and
+	and/f
+
+I
+	I/f
+
+can't
+	can/f+'/sr+t/f
+
+believe
+	believe/f
+
+it's
+	it/f+'/sr+s/f
+
+true당신이
+	true당신/ncn+이/jcc
+
+나에게
+	나/npp+에게/jca
+
+거짓말을
+	거짓/ncn+말/ncn+을/jco
+
+했다는
+	하/px+었/ep+다/ef+는/etm
+
+것을
+	것/nbn+을/jco
+
+믿을
+	믿/pvg+을/etm
+
+수가
+	수/nbn+가/jcc
+
+없어요
+	없/paa+어요/ef
+
+
+Wrapped
+	Wrapped/f
+
+in
+	in/f
+
+her
+	her/f
+
+arms
+	arms/f
+
+I
+	I/f
+
+see
+	see/f
+
+you
+	you/f
+
+across
+	across/f
+
+the
+	the/f
+
+street길을
+	street/f+길/ncn+을/jco
+
+건너
+	건너/pvg+어/ecx
+
+그녀의
+	그녀/npp+의/jcm
+
+팔을
+	팔/ncn+을/jco
+
+감싸고
+	감싸/pvg+고/ecc
+
+걸어가는
+	걷/pvg+어/ecx+가/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+보이네요
+	보이/ncn+이/jp+네요/ef
+
+
+and
+	and/f
+
+I
+	I/f
+
+can't
+	can/f+'/sr+t/f
+
+help
+	help/f
+
+but
+	but/f
+
+wonder
+	wonder/f
+
+if
+	if/f
+
+she
+	she/f
+
+knows
+	knows/f
+
+what's
+	what/f+'/sr+s/f
+
+going
+	going/f
+
+on어떻게
+	on어떻/ncn+게/jca
+
+된
+	되/pvg+ㄴ/etm
+
+일인지
+	일/ncn+이/jp+ㄴ지/ecs
+
+알고
+	알/pvg+고/ecx
+
+싶지만
+	싶/px+지만/ecs
+
+그럴
+	그렇/pad+을/etm
+
+수가
+	수/nbn+가/jcc
+
+없었어요
+	없/paa+었/ep+어요/ef
+
+
+you
+	you/f
+
+talk
+	talk/f
+
+of
+	of/f
+
+love
+	love/f
+
+but
+	but/f
+
+you
+	you/f
+
+don't
+	don/f+'/sr+t/f
+
+know
+	know/f
+
+how
+	how/f
+
+it
+	it/f
+
+feels당신은
+	feels당신/ncn+은/jxc
+
+사랑을
+	사랑/ncn+을/jco
+
+말하지만
+	말/ncpa+하/xsva+지만/ecs
+
+진실한
+	진실/ncps+하/xsms+ㄴ/etm
+
+사랑은
+	사랑/ncn+은/jxc
+
+알지
+	알/pvg+지/ecx
+
+못합니다
+	못하/paa+ㅂ니다/ef
+
+
+when
+	when/f
+
+you
+	you/f
+
+realize
+	realize/f
+
+that
+	that/f
+
+you're
+	you/f+'/sr+re/f
+
+not
+	not/f
+
+the
+	the/f
+
+only
+	only/f
+
+one때에
+	one/f+때/ncn+에/jca
+
+당신은
+	당신/npp+은/jxc
+
+혼자가
+	혼자/ncn+가/jcs
+
+아니에요그것을
+	아니에요그것/ncn+을/jco
+
+깨닫게
+	깨닫/pvg+게/ecs
+
+되었을
+	되/nbu+이/jp+었/ep+을/etm
+
+
+Oh
+	Oh/f
+
+you'd
+	you/f+'/sr+d/f
+
+better
+	better/f
+
+stop
+	stop/f
+
+before
+	before/f
+
+you
+	you/f
+
+tear
+	tear/f
+
+me
+	me/f
+
+all
+	all/f
+
+apart눈물로
+	apart/f+눈물/ncn+로/jca
+
+나를
+	나/npp+를/jco
+
+지새게
+	지새/pvg+게/ecs
+
+만들지
+	만들/pvg+지/ecx
+
+마세요
+	마세/ncn+요/ncn
+
+
+you'd
+	you/f+'/sr+d/f
+
+better
+	better/f
+
+stop
+	stop/f
+
+before
+	before/f
+
+you
+	you/f
+
+go
+	go/f
+
+and
+	and/f
+
+break
+	break/f
+
+my
+	my/f
+
+heart당신이
+	heart당신/ncn+이/jcc
+
+떠나
+	떠나/pvg+아/ecx
+
+나의
+	나/npp+의/jcm
+
+가슴
+	가슴/ncn
+
+무너지게
+	무너지/pvg+게/ecs
+
+하지
+	하/pvg+지/ecx
+
+마세요
+	마세/ncn+요/ncn
+
+
+ooh
+	ooh/f
+
+you'd
+	you/f+'/sr+d/f
+
+better
+	better/f
+
+stop제발
+	stop제발/ncn
+
+멈추어
+	멈추/pvg+어/ecx
+
+주세요Time
+	주세요Time/ncn
+
+after
+	after/f
+
+time
+	time/f
+
+I've
+	I/f+'/sr+ve/f
+
+tried
+	tried/f
+
+to
+	to/f
+
+walk
+	walk/f
+
+away
+	away/f
+
+
+시간이
+	시간/ncn+이/jcc
+
+지나
+	지나/pvg+아/ecx
+
+나는
+	나/npp+는/jxc
+
+잊으려고
+	잊/pvg+으려고/ecs
+
+애를
+	애/ncn+를/jco
+
+쓰겠죠but
+	쓰겠죠but/ncn
+
+it's
+	it/f+'/sr+s/f
+
+not
+	not/f
+
+that
+	that/f
+
+easy
+	easy/f
+
+when
+	when/f
+
+your
+	your/f
+
+soul
+	soul/f
+
+is
+	is/f
+
+torn
+	torn/f
+
+in
+	in/f
+
+two하지만
+	two/f+하/xsms+지/ecx+말/px+ㄴ/etm
+
+당신을
+	당신/npp+을/jco
+
+잊는건
+	잊는건/ncn
+
+쉬운일이
+	쉬운일/ncn+이/jcc
+
+아니에요
+	아니에요/ii
+
+
+so
+	so/f
+
+I
+	I/f
+
+just
+	just/f
+
+resign
+	resign/f
+
+myself
+	myself/f
+
+to
+	to/f
+
+it
+	it/f
+
+every
+	every/f
+
+day나는
+	day/f+나/jxc+는/jxc
+
+매일
+	매일/mag
+
+나에게
+	나/npp+에게/jca
+
+주문을
+	주문/ncn+을/jco
+
+걸죠now
+	걸죠now/ncn
+
+all
+	all/f
+
+I
+	I/f
+
+can
+	can/f
+
+do
+	do/f
+
+is
+	is/f
+
+to
+	to/f
+
+leave
+	leave/f
+
+it
+	it/f
+
+up
+	up/f
+
+to
+	to/f
+
+you당신을
+	you당신/ncn+을/jco
+
+잊는
+	잊/pvg+는/etm
+
+것만이
+	것/nbn+만이/jcc
+
+내가
+	나/npp+가/jcs
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+전부라는
+	전부/ncn+라는/jcm
+
+걸
+	거/nbn+ㄹ/jco
+
+
+Oh
+	Oh/f
+
+you'd
+	you/f+'/sr+d/f
+
+better
+	better/f
+
+stop
+	stop/f
+
+before
+	before/f
+
+you
+	you/f
+
+tear
+	tear/f
+
+me
+	me/f
+
+all
+	all/f
+
+apart눈물로
+	apart/f+눈물/ncn+로/jca
+
+나를
+	나/npp+를/jco
+
+지새게
+	지새/pvg+게/ecs
+
+만들지
+	만들/pvg+지/ecx
+
+마세요you'd
+	마세요you'd/ncn
+
+better
+	better/f
+
+stop
+	stop/f
+
+before
+	before/f
+
+you
+	you/f
+
+go
+	go/f
+
+and
+	and/f
+
+break
+	break/f
+
+my
+	my/f
+
+heart당신이
+	heart당신/ncn+이/jcc
+
+떠나
+	떠나/pvg+아/ecx
+
+나의
+	나/npp+의/jcm
+
+가슴
+	가슴/ncn
+
+무너지게
+	무너지/pvg+게/ecs
+
+하지
+	하/pvg+지/ecx
+
+마세요
+	마세/ncn+요/ncn
+
+
+ooh
+	ooh/f
+
+you'd
+	you/f+'/sr+d/f
+
+better
+	better/f
+
+stop
+	stop/f
+
+(제발
+	(/sl+제발/mag
+
+멈추어
+	멈추/pvg+어/ecx
+
+주세요)Stop
+	주/px+세/ef+요/jxf+)/sr+Stop/f
+
+if
+	if/f
+
+love
+	love/f
+
+me
+	me/f
+
+(나를
+	(/sl+나/npp+를/jco
+
+사랑한다면
+	사랑/ncpa+하/xsva+ㄴ다면/ecs
+
+멈추세요)(you
+	멈추/pvg+세/ef+요/jxf+)/sr+(/sl+you/f
+
+will
+	will/f
+
+remember)(생각이
+	remember/f+)/sr+(/sl+생각/ncpa+이/jcc
+
+나세요
+	나/px+세/ef+요/jxf
+
+?)
+	?/sf+)/sr
+
+
+now's
+	now/f+'/sr+s/f
+
+the
+	the/f
+
+time
+	time/f
+
+to
+	to/f
+
+be
+	be/f
+
+sorry미안하다고
+	sorry미안하/ncn+이/jp+다/ef+고/jcr
+
+나에게
+	나/npp+에게/jca
+
+말해주세요(that
+	말해주세요(that/ncn
+
+day
+	day/f
+
+forever)(영원히
+	forever/f+)/sr+(/sl+영원히/mag
+
+함께
+	함께/mag
+
+하자던)I
+	하/px+자/ef+던/etm+)/sr+I/f
+
+won't
+	won/f+'/sr+t/f
+
+believe
+	believe/f
+
+that
+	that/f
+
+you'd
+	you/f+'/sr+d/f
+
+walk
+	walk/f
+
+out
+	out/f
+
+on
+	on/f
+
+me당신이
+	me당신/ncn+이/jcc
+
+나를
+	나/npp+를/jco
+
+떠난다는
+	뜨/pvg+어/ecx+나/px+ㄴ다/ef+는/etm
+
+것을
+	것/nbn+을/jco
+
+믿을
+	믿/pvg+을/etm
+
+수가
+	수/nbn+가/jcc
+
+없어요
+	없/paa+어요/ef
+
+
+Oh
+	Oh/f
+
+you'd
+	you/f+'/sr+d/f
+
+better
+	better/f
+
+stop
+	stop/f
+
+before
+	before/f
+
+you
+	you/f
+
+tear
+	tear/f
+
+me
+	me/f
+
+all
+	all/f
+
+apart눈물로
+	apart/f+눈물/ncn+로/jca
+
+나를
+	나/npp+를/jco
+
+지새게
+	지새/pvg+게/ecs
+
+만들지
+	만들/pvg+지/ecx
+
+마세요you'd
+	마세요you'd/ncn
+
+better
+	better/f
+
+stop
+	stop/f
+
+before
+	before/f
+
+you
+	you/f
+
+go
+	go/f
+
+and
+	and/f
+
+break
+	break/f
+
+my
+	my/f
+
+heart당신이
+	heart당신/ncn+이/jcc
+
+떠나
+	떠나/pvg+아/ecx
+
+나의
+	나/npp+의/jcm
+
+가슴
+	가슴/ncn
+
+무너지게
+	무너지/pvg+게/ecs
+
+하지
+	하/pvg+지/ecx
+
+마세요ooh
+	마세요ooh/ncn
+
+you'd
+	you/f+'/sr+d/f
+
+better
+	better/f
+
+stop(제발
+	stop/f+(/sl+제발/mag
+
+멈추어
+	멈추/pvg+어/ecx
+
+주세요)
+	주세/ncn+요/ncn+)/sr
+
+
+Stop
+	Stop/f
+
+~
+	~/sd
+
+Sam
+	Sam/f
+
+Brown(샘
+	Brown/f+(/sl+새/pvg+ㅁ/etn
+
+브라운)
+	브라운/ncn+)/sr

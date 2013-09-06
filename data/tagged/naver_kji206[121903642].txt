@@ -1,0 +1,465 @@
+보석사
+	보석사/ncn
+
+천년세월의
+	천년/ncn+세월/ncn+의/jcm
+
+은행나무를
+	은행/ncn+나무/ncn+를/jco
+
+뒤로
+	뒤/ncn+로/jca
+
+하고
+	하/pvg+고/ecc
+
+영천암으로
+	영천암/ncn+으로/jca
+
+향한다
+	향하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+눈속에
+	눈/ncn+속/xsnx+에/jca
+
+유난히
+	유난히/mag
+
+빨갛게
+	빨갛/paa+게/ecs
+
+보이는
+	보이/pvg+는/etm
+
+우체통은
+	우체통/ncn+은/jxc
+
+산사와
+	산사/ncn+와/jcj
+
+소통의
+	소통/ncpa+의/jcm
+
+공간인것
+	공간/ncn+이/jp+ㄴ/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+보석사에서
+	보석사/ncn+에서/jca
+
+영천암까지
+	영천암까지/ncn
+
+산길이
+	산길/ncn+이/jcc
+
+아름답다는
+	아름답/paa+다/ef+는/etm
+
+글을
+	글/ncn+을/jco
+
+어디선가
+	어디선/ncn+가/jcs
+
+읽은기억이
+	읽은기억/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+꼭
+	꼭/mag
+
+걸어보고
+	걷/pvg+어/ecx+보/px+고/ecc
+
+싶었던
+	싶/px+었/ep+던/etm
+
+길이다
+	길/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+눈길로
+	눈길/ncn+로/jca
+
+이어지는산길은
+	이어지는산길/ncn+은/jxc
+
+진악산
+	진악산/ncn
+
+산림욕장
+	산림욕장/ncn
+
+이며
+	이/npd+이/jp+며/ecc
+
+계곡를
+	계곡/ncn+를/jco
+
+끼고
+	끼/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+등을
+	등/nbu+을/jco
+
+토닥거리는
+	토닥거리/ncn+는/jxc
+
+햇살을
+	햇살/ncn+을/jco
+
+받으며
+	받/pvg+으며/ecc
+
+느긋하게
+	느긋/ncps+하/xsms+게/ecs
+
+걷다보니
+	걷다보니/ncn
+
+나무
+	나무/ncn
+
+그림자속에
+	그림자/ncn+속/ncn+에/jca
+
+묻어있는
+	묻/pvg+어/ecx+있/px+는/etm
+
+마른
+	마르/pvg+ㄴ/etm
+
+가지의
+	가지/nbu+의/jcm
+
+움직임이
+	움직이/pvg+ㅁ/etn+이/jcs
+
+느껴진다
+	느끼/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+소란하지도
+	소란/ncps+하/xsms+지/ecs+도/jxc
+
+요란스럽지도
+	요란/ncps+스럽/xsmn+지/ecs+도/jxc
+
+않은
+	않/px+은/etm
+
+나무
+	나무/ncn
+
+그림자
+	그림자/ncn
+
+속에는
+	속/ncn+에/jca+는/jxc
+
+빛이
+	빛/ncn+이/jcc
+
+가득하다
+	가득/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+영천암
+	영천암/ncn
+
+은
+	은/ncn
+
+보석사
+	보석사/ncn
+
+산내
+	사/pvg+ㄴ/etm+내/nbn
+
+암자로
+	암자/ncn+로/jca
+
+신라
+	신/xp+라/ncn
+
+정강왕
+	정강/ncn+왕/ncr
+
+원년(886년)
+	원년(886년)/ncn
+
+조구대사가
+	조구대사/ncn+가/jcs
+
+창건한
+	창건/ncpa+하/xsva+ㄴ/etm
+
+천년고찰이다
+	천년/ncn+고찰/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+건물
+	건물/ncn
+
+구조는
+	구/nnc+조/nbu+는/jxc
+
+옛모습
+	옛모습/ncn
+
+그대로인
+	그/npp+대로/jca+이/jp+ㄴ/etm
+
+고풍스러움을
+	고풍/ncn+스럽/xsmn+음/etn+을/jco
+
+간직하고
+	간직/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+영천암은
+	영천암/ncn+은/jxc
+
+영원한
+	영원/ncps+하/xsms+ㄴ/etm
+
+샘이
+	샘/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+암자라는
+	암자/ncn+라는/jcm
+
+뜻으로
+	뜻/ncn+으로/jca
+
+지금부터
+	지금/ncn+부터/jxc
+
+1500여년전
+	1500/nnc+여/xsnu+년/nbu+전/xsnx
+
+조구
+	조/nnc+구/nbu
+
+대사가
+	대사/ncn+가/jcs
+
+금산지역에
+	금산/ncn+지역/ncn+에/jca
+
+큰가뭄으로
+	큰가뭄/ncn+으로/jca
+
+백성이
+	백성/ncn+이/jcc
+
+고통받자
+	고통받/pvg+자/ecc
+
+
+샘을
+	샘/ncn+을/jco
+
+찾아
+	찾/pvg+아/ecx
+
+진악산에
+	진악산/ncn+에/jca
+
+올라
+	오르/pvg+아/ecx
+
+백일기도를
+	백일/ncn+기도/ncn+를/jco
+
+드리고
+	드리/pvg+고/ecc
+
+산기슭에커다란
+	산기슭에커다란/ncn
+
+바위굴에서
+	바위/ncn+굴/ncn+에서/jca
+
+석간수가
+	석간수/ncn+가/jcs
+
+끊임
+	끊이/pvg+ㅁ/etn
+
+없이
+	없이/mag
+
+솟는걸
+	솟는걸/ncn
+
+발견하여
+	발견/ncpa+하/xsva+어/ecx
+
+금산지방의
+	금산/ncn+지방/ncn+의/jcm
+
+가뭄을
+	가뭄/ncn+을/jco
+
+이겨
+	이기/pvg+어/ecx
+
+낼수
+	내/pvg+ㄹ/etm+수/nbn
+
+있었다고
+	있/px+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+물은
+	물/pvg+ㄴ/etm
+
+모든병에
+	모든병/ncn+에/jca
+
+특효가
+	특효/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+영험한
+	영험/ncpa+한/ncn
+
+샘이라하여바위옆에
+	샘이라하여바위옆/ncn+에/jca
+
+지은
+	지/px+ㄴ/etm
+
+암자가
+	암자/ncn+가/jcs
+
+영천암이다
+	영천암/ncn+이/jp+다/ef
+
+
+무량수각과
+	무량수각/ncn+과/jcj
+
+칠성각지붕위에
+	칠성각지붕위/ncn+에/jca
+
+고요히
+	고요히/mag
+
+내려앉은
+	내려앉/pvg+은/etm
+
+하얀눈은
+	하얀/ncn+눈/ncn+은/jxc
+
+따스한
+	따스/ncps+하/xsms+ㄴ/etm
+
+이불이라도
+	이불/ncn+이/jp+라/ecs+도/jxc
+
+덮은듯
+	덮/pvg+은/etm+듯/nbs
+
+포근해
+	포근/ncn+해/ncn
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+햇살따라
+	햇살/ncn+따라/jxc
+
+지붕위
+	지붕/ncn+위/ncn
+
+풍경도
+	풍경/ncn+도/jxc
+
+슬슬
+	슬슬/mag
+
+바뀌기
+	바뀌/pvg+기/etn
+
+시작한다
+	시작/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+규칙적인
+	규칙/ncn+적/ncn+이/jp+ㄴ/etm
+
+낙숫물
+	낙숫물/ncn
+
+소리에
+	소리/ncn+에/jca
+
+마음까지
+	마음/ncn+까지/jxc
+
+흘러내린다
+	흐르/pvg+어/ecx+내리/px+ㄴ다/ef
+
+.
+	./sf

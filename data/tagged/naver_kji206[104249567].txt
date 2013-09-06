@@ -1,0 +1,156 @@
+인터넷
+	인터넷/ncn
+
+검색으로도
+	검색/ncpa+으로/jca+도/jxc
+
+무량사에
+	무량사/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+정보가
+	정보/ncn+가/jcs
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+경주
+	경주/ncpa
+
+서출지를
+	서출지/ncn+를/jco
+
+한바퀴
+	한/nnc+바퀴/nbu
+
+돌다보면
+	돌다보/ncn+이/jp+면/ecs
+
+우측으로
+	우측/ncn+으로/jca
+
+심상한
+	심상/ncps+하/xsms+ㄴ/etm
+
+모습으로
+	모습/ncn+으로/jca
+
+서있는
+	서/pvg+어/ecx+있/px+는/etm
+
+사찰이
+	사찰/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+절을
+	절/ncn+을/jco
+
+들어서는
+	들/pvg+어서/ecs+는/jxc
+
+일주문부터
+	일주문/ncn+부터/jxc
+
+특별함이
+	특별/ncps+하/xsms+ㅁ/etn+이/jcs
+
+느껴져
+	느끼/pvg+어/ecx+지/px+어/ecx
+
+호기심에
+	호/nbu+이/jp+기/etn+이/jp+시/ep+ㅁ/etn+에/jca
+
+들어가본
+	들/pvg+어/ecx+가/px+아/ecx+보/px+ㄴ/etm
+
+사찰
+	사찰/ncn
+
+
+일요일
+	일요일/ncn
+
+아침인데도
+	아침/ncn+이/jp+ㄴ데/ecs+도/jxc
+
+인적도
+	일/pvg+ㄴ/etm+적/nbn+도/jxc
+
+없이
+	없이/mag
+
+고요하였다
+	고요/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+조심스런
+	졸/pvg+시/ep+ㅁ/etn+스런/jcm
+
+발걸음으로
+	발걸음/ncn+으로/jca
+
+사찰모습만
+	사찰/ncn+모습/ncn+만/jxc
+
+잠시
+	잠시/mag
+
+담아본다
+	담/pvg+아/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+통일전휴게소
+	통일전휴게소/ncn
+
+
+경상북도
+	경상/ncn+북/ncn+도/jxc
+
+경주시
+	경주시/ncn
+
+남산동
+	남산동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01234596",
+	"bl01234596",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"통일전휴게소
+	title:"통일전휴게소/ncn
+
+",
+	"/sl+,/sp
+
+pointX:512422,pointY:355938}
+	pointX/f+:/sp+512422/nnc+,/sp+pointY/f+:/sp+355938/nnc+}/sr

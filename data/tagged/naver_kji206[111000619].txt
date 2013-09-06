@@ -1,0 +1,816 @@
+면앙정
+	면앙정/ncn
+
+찾아가는길
+	찾아가는길/ncn
+
+
+요즘은
+	요즘/ncn+은/jxc
+
+국도변
+	국도/ncn+변/ncn
+
+달리다보면정미소가
+	달리다보면정미소/ncn+가/jcs
+
+눈길을
+	눈길/ncn+을/jco
+
+잡는다
+	잡/pvg+는다/ef
+
+.
+	./sf
+
+
+색상도
+	색상/ncn+도/jxc
+
+그렇고
+	그렇/pad+고/ecc
+
+아직도
+	아직/mag+도/jxc
+
+남아있는
+	남/pvg+아/ecx+있/px+는/etm
+
+70년대
+	70/nnc+년대/nbu
+
+풍경이라서
+	풍경/ncn+이/jp+라서/ecs
+
+그런가
+	그러/pvd+ㄴ가/ef
+
+...
+	.../se
+
+
+언제
+	언제/mag
+
+정미소
+	정미소/ncn
+
+사진들만
+	사/pvg+아/ecx+지/px+ㄴ들/ecs+만/jxc
+
+한번
+	한/nnc+번/nbu
+
+모아
+	모으/pvg+아/ecx
+
+보아야겠다
+	보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+담양은
+	담양/ncn+은/jxc
+
+여행하기
+	여행/ncpa+하/xsva+기/etn
+
+참
+	참/mag
+
+편하다
+	편하/paa+다/ef
+
+.
+	./sf
+
+
+이정표도
+	이정표/ncn+도/jxc
+
+잘되어있고
+	잘되/pvg+어/ecx+있/px+고/ecc
+
+거리가
+	거리/ncn+가/jcs
+
+짧아바로
+	짧아바/ncn+로/jca
+
+다음관광지로
+	다음/ncn+관광지/ncn+로/jca
+
+쉽게
+	쉽/paa+게/ecs
+
+접근할수있다
+	접근/ncpa+하/xsva+ㄹ/etm+수/nbn+있/xsmn+다/ef
+
+.
+	./sf
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+담양군
+	담양군/ncn
+
+봉산면
+	봉산면/ncn
+
+제월리에
+	제월리/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+정자
+	정자/ncn
+
+.
+	./sf
+
+
+전남기념물
+	전남기념물/ncn
+
+제6호
+	제6호/ncn
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+담양군
+	담양군/ncn
+
+봉산면
+	봉산면/ncn
+
+제월리
+	제월리/ncn
+
+402
+	402/nnc
+
+
+면앙정
+	면앙정/ncn
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+계단길
+	계단/ncn+길/ncn
+
+
+조금만
+	조금/mag+만/jxc
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+나즈막한
+	나즈막한/ncn
+
+야산에
+	야산/ncn+에/jca
+
+자리
+	자리/ncn
+
+잡은
+	잡/pvg+은/etm
+
+정자
+	정자/ncn
+
+..
+	./sf+./sf
+
+
+짙은
+	짙/paa+은/etm
+
+녹음을
+	녹음/ncn+을/jco
+
+이루는
+	이루/pvg+는/etm
+
+노송들은
+	노송/ncn+들/ncn+은/jxc
+
+
+진한
+	지/px+ㄴ/etm+한/nbn
+
+초록
+	초록/ncn
+
+향기를
+	향기/ncn+를/jco
+
+품어내고
+	품/pvg+어/ecx+내/px+어/ef+고/jcr
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+맥문동
+	맥문동/ncn
+
+보랏색
+	보랏색/ncn
+
+꽃
+	꽃/ncn
+
+피기
+	피/ncn+이/jp+기/etn
+
+시작한다
+	시작/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+아무래도
+	아무렇/pad+어도/ecs
+
+화단보다
+	화단/ncn+보다/jca
+
+야생에서
+	야생/ncpa+에서/jca
+
+자라기에
+	자라/pvg+기/etn+에/jca
+
+키가
+	크/paa+어/ecx+가/px+아/ecx
+
+나즈막하다
+	나즈막하/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+여름향기
+	여름/ncn+향기/ncn
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+숲속은
+	숲속/ncn+은/jxc
+
+보는것
+	보/px+는/etm+것/nbn
+
+만으로
+	만/nnc+으로/jca
+
+맑아진다
+	맑/paa+아/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+담양의
+	담양/ncn+의/jcm
+
+정자
+	정자/ncn
+
+문화는
+	문화/ncn+는/jxc
+
+쉽게
+	쉽/paa+게/ecs
+
+접근하고
+	접근/ncpa+하고/jct
+
+친근하여
+	친근/ncps+하/xsms+어/ecx
+
+서민들의
+	서민/ncn+들/ncn+의/jcm
+
+쉼터로
+	쉼터/ncn+로/jca
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+보호수도
+	보호수/ncn+도/jxc
+
+보이고
+	보이/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+1533년(중종
+	1533년(중종/ncn
+
+28)
+	28/nnc+)/sr
+
+송순(
+	송순(/ncn
+
+:1493~1583)이
+	:/sp+1493/nnc+~/sd+1583/nnc+)/sr+이/jcc
+
+건립하였는데,
+	건립/ncpa+하/xsva+었/ep+는데/ecs+,/sp
+
+이황(
+	이황(/ncn
+
+:1501~1570)을
+	:/sp+1501/nnc+~/sd+1570/nnc+)/sr+을/jco
+
+비롯하여
+	비롯/ncpa+하/xsva+어/ecs
+
+
+강호제현들과
+	강호제현들/ncn+과/jcj
+
+학문을
+	학문/ncpa+을/jco
+
+논하며
+	논하/pvg+며/ecc
+
+후학을
+	후학/ncn+을/jco
+
+길러내던
+	기르/pvg+어/ecx+내/px+던/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+내려다보면
+	내려다보/pvg+면/ecs
+
+땅이,
+	땅/ncn+이/jcc+,/sp
+
+우러러보면
+	우러르/pvg+어/ecx+보/px+면/ecs
+
+하늘이,
+	하늘/ncn+이/jcc+,/sp
+
+그
+	그/mmd
+
+가운데
+	가운데/ncn
+
+정자가
+	정자/ncn+가/jcs
+
+있으니
+	있/px+으니/ecs
+
+풍월산천
+	풍월/ncpa+산천/ncn
+
+속에서
+	속/ncn+에서/jca
+
+한백년
+	한/nnc+백/nnc+년/nbu
+
+살고자
+	살/pvg+고자/ecx
+
+한다
+	하/px+ㄴ다/ef
+
+는
+	늘/pvg+ㄴ/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+건물은
+	건물/ncn+은/jxc
+
+정면
+	정면/ncn
+
+3칸,
+	3/nnc+칸/nbu+,/sp
+
+측면
+	측면/ncn
+
+2칸의
+	2/nnc+칸/nbu+의/jcm
+
+팔작지붕이며
+	팔작지붕/ncn+이/jp+며/ecc
+
+추녀
+	추녀/ncn
+
+끝은
+	끝/ncn+은/jxc
+
+4개의
+	4/nnc+개/nbu+의/jcm
+
+활주가
+	활주/ncpa+가/jcc
+
+받치고
+	받치/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+목조
+	목조/ncpa
+
+기와집으로
+	기와집/ncn+으로/jca
+
+측면과
+	측면/ncn+과/jcj
+
+좌우에
+	좌우/ncpa+에/jca
+
+마루를
+	마루/ncn+를/jco
+
+두고,
+	두/pvg+고/ecc+,/sp
+
+중앙에는
+	중앙/ncn+에/jca+는/jxc
+
+방을
+	방/ncn+을/jco
+
+배치하였다
+	배치/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+현재의
+	현재/ncn+의/jcm
+
+건물은
+	건물/ncn+은/jxc
+
+여러
+	여러/mma
+
+차례
+	차례/nbu
+
+보수한
+	보수/ncn+한/ncn
+
+것이며,
+	것/nbn+이/jp+며/ecc+,/sp
+
+1979년에는
+	1979/nnc+년/nbu+에/jca+는/jxc
+
+지붕의
+	지붕/ncn+의/jcm
+
+기와를
+	기와/ncn+를/jco
+
+교체하였다
+	교체/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+최초의
+	최초/ncn+의/jcm
+
+모습은
+	모습/ncn+은/jxc
+
+초라한
+	초라/ncps+하/xsms+ㄴ/etm
+
+초정으로
+	초정/ncn+으로/jca
+
+바람과
+	바람/ncn+과/jcj
+
+비를
+	비/ncn+를/jco
+
+겨우
+	겨우/mag
+
+가릴
+	가리/pvg+ㄹ/etm
+
+정도였다고
+	정도/ncn+이/jp+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+송순은
+	송순/ncn+은/jxc
+
+면앙정에서
+	면앙정/ncn+에서/jca
+
+면앙정가단을
+	면앙정가단/ncn+을/jco
+
+이루어
+	이루/pvg+어/ecx
+
+많은
+	많/paa+은/etm
+
+학자
+	학자/ncn
+
+가객
+	가객/ncn
+
+시인들의
+	시/nbu+이/jp+ㄴ/etm+들/nbn+의/jcm
+
+창작
+	창작/ncpa
+
+산실을
+	산실/ncn+을/jco
+
+만들었다
+	만들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+정자
+	정자/ncn
+
+안에는
+	안/ncn+에/jca+는/jxc
+
+이황
+	이황/ncn
+
+김인후
+	김/nbn+이/jp+ㄴ후/ef
+
+임제
+	임제/ncn
+
+임억령
+	임억령/ncn
+
+등의
+	등/nbu+의/jcm
+
+시편들이
+	시편/ncn+들/ncn+이/jcc
+
+판각되어
+	판각되/ncn+이/jp+어/ecs
+
+걸려
+	걸리/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+다시말해
+	다시말해/mag
+
+이곳은
+	이곳/npd+은/jxc
+
+송순의
+	송순/ncn+의/jcm
+
+시문활동의
+	시문/ncn+활동/ncpa+의/jcm
+
+근거지이며,
+	근거지/ncn+이며/jcj+,/sp
+
+
+당대
+	당대/ncn
+
+시인들의
+	시/nbu+이/jp+ㄴ/etm+들/nbn+의/jcm
+
+교류로
+	교류/ncpa+로/jca
+
+호남제일의
+	호남제일/ncn+의/jcm
+
+가단을
+	가단/ncn+을/jco
+
+이루었던
+	이루/pvg+었/ep+던/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(네이버백과)
+	(네이버백/ncn+과/jcj+)/sr
+
+
+나도
+	나/npp+도/jxc
+
+마루에
+	마루/ncn+에/jca
+
+걸터
+	것/nbn+이/jp+ㄹ/etm+터/nbn
+
+앉아
+	앉/pvg+아/ecx
+
+더위를
+	더위/ncn+를/jco
+
+씻혀본다
+	씻혀본다/ncn
+
+.
+	./sf
+
+
+생각보다
+	생각/ncpa+보다/jca
+
+숲은
+	숲/ncn+은/jxc
+
+우거져
+	우거져/ncn
+
+내려다
+	내리/pvg+어다/ecs
+
+보이는
+	보이/pvg+는/etm
+
+전망은
+	전망/ncn+은/jxc
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+영산강
+	영산강/ncn
+
+줄기라도
+	줄/pvg+기/etn+라도/jxc
+
+보이는가
+	보이/pvg+는가/ecs
+
+싶었는데
+	싶/px+었/ep+는데/ecs
+
+....
+	.../se+./sf
+
+
+그런들
+	그러/pvd+ㄴ들/ecs
+
+어떠하리
+	어떠하/pad+리/ef
+
+
+보이는게
+	보이/pvg+는게/ecs
+
+다가
+	다/ncn+가/jcs
+
+아니라
+	아니/paa+라/ecs
+
+모든건
+	모든건/ncn
+
+내마음에
+	내마음/ncn+에/jca
+
+있는걸
+	있는걸/ncn
+
+.....
+	.../se+./sf+./sf
+
+
+면앙정
+	면앙정/ncn
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+담양군
+	담양군/ncn
+
+봉산면
+	봉산면/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01304378",
+	"bl01304378",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"면앙정",
+	title:"면앙정",/ncn
+
+pointX:305529,pointY:298319}
+	pointX/f+:/sp+305529/nnc+,/sp+pointY/f+:/sp+298319/nnc+}/sr

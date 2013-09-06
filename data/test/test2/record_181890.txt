@@ -1,0 +1,32 @@
+Date:
+2011.10.02
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/9f30557f43be4ddb4b4e96468fc646d4.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/5ef02422e1b49b4a985ea15d96ceb1cc.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/91863d8a01e290a9cface1053dc70606.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/4400cbdf5fd23ccabab1d0da5ac3c567.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/869d3e402e58905b50f96239c84c85a3.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/62b279b1b22ae8457c669f9c75347005.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/579e777ea4b5f7e8b6ae58fd897c75a4.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/76a1247058816cde1ac730296939a6f4.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/77ae710644d84f90d5d7c7c4390ca0c9.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/7184ef112aa2ccba4350498756469a12.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/2b4eb53ed987409a31ab6f30c43df74a.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/80d5b0c05eb657c9733b9ee96c9fadf4.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/86f0dd484deb7eabf678c4e95f241dc1.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/9f7755889a7dcc1c2f207319ecd6936a.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/72c6f6d4c5f4a20ac5dcb022aeca7b65.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/48dfa08218464cadf04e8be897ad1ca9.jpg');
+list_gallery_add_image(960457,'files/attach/images/228818/890/181/4d72aef64b2dcf020f57dd2ef998229f.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+10월 2일(일) 아름다운 여행으로 설악산 십이선녀탕계곡 트레킹을 하였습니다.
+연휴와 함께 시작된 10월은 갑자기 기온이 뚝 떨어져 며칠 전까지만 해도 얇은 옷차림이 금세 두터워졌습니다. 그리고 설악산 대청봉을 시작으로 붉은 단풍이 물들기 시작하여 우리 강산 또한 서서히 고운 옷으로 갈아입고 있습니다. 녹음 짙은 산천이 점점 계절의 변화를 맞이하고 있습니다.
+설악산 십이선녀탕이 있는 강원도 인제로 향하는 길목에서는 아직 단풍을 만나지 못했지만 곧 강원도 지역은 단풍 물결이 일렁일 것입니다.
+설악산 서쪽에 위치한 십이선녀탕계곡은 대승령을 지나 대청봉으로 향하는 산행 들머리입니다. 이번 트레킹은 이 산행 들머리를 시작으로 복숭아탕까지 왕복 약 9km를 다녀오는 코스로 진행되었습니다. 답사를 했던 평일과는 너무도 다르게 휴일인 오늘은 수 많은 사람들이 몰려들었습니다. 걷기 초반에는 사람들의 행렬에 밀리다시피 거의 정신없이 산행이 시작되어 조금 분주하셨죠?^^ 하지만 어느 정도 걷다 보니 조금은 여유를 되찾긴 하였지만 시끌벅적한 소음 때문에 주변을 여유롭게 살피지는 못했던 것 같습니다.
+십이선녀탕계곡은 그 옛날 선녀가 내려와 목욕을 하였다는 탕이 12개로 이름이 십이선녀탕이 되었다지만 현재는 그 숫자에 미치지 못합니다. 그렇지만 깨끗한 바위를 타고 흐르는 맑은 계곡물과 주변의 풍경이 어우러져 계곡 트레킹을 하기에는 제격인 곳이죠. 
+왕복으로 걷는 이 구간은 걷기에도 크게 무리가 없지만 마지막 복숭아탕으로 오르는 구간은 잠깐이지만 비탈진 바위를 타고 올라야 하는데 사람이 많다보니 좀 혼잡하더라구요. 하지만 복숭아탕 전망데크에 올라 바라본 풍경은 그런 수고로움도 잊게 할 정도로 신비로웠습니다. 정말이지 복숭아를 딱 반으로 잘라놓은 단면과도 같은 바위를 타고 흐르는 폭포가 얼마나 신기하던지요.
+다만 설악산 대청봉에 단풍이 물들었으니 이곳 복숭아탕 주변도 붉게 물든 단풍을 볼 수 있지 않을까 내심 기대를 하였는데 기대가 너무 컸던지 단풍을 볼 수 없어 아쉬움으로 남습니다. 오르내리는 길목에 살며시 물든 단풍을 만나기는 하였지만 작년에 비해 올해는 단풍이 조금 늦을 모양입니다. 그리고 날씨만 좀더 따듯했다면 너럭바위에 앉아 여유롭게 쉬는 시간도 즐겨보았을 텐데 바람이 쌀쌀해 점심식사를 하시기에도 조금은 썰렁하지 않았나 싶구요. 이런저런 아쉬운 부분들도 있었지만 높고 푸른 하늘과 맑은 구름 그리고 신선한 바람을 맞으며 하루 즐거운 여행으로 기억해주시길 바랍니다.
+서울로 돌아오는 길은 설악산 단풍 소식으로 몰렸던 차량들 때문인지 막힌 구간도 있었지만 끝까지 차분하게 여행을 마칠 수 있도록 도와주신 참여 회원분들께 고맙다는 말씀 전하며 연휴 마지막 날인 내일 하루도 잘 쉬시고 10월도 활기차게 맞이하시기 바랍니다~이 게시물을...

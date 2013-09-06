@@ -1,0 +1,787 @@
+파랑새
+	파랑새/ncn
+
+..
+	./sf+./sf
+
+
+신비하지만
+	신비/ncps+하/xsms+지/ecx+말/px+ㄴ/etm
+
+잡을수
+	잡/pvg+을/etm+수/nbn
+
+없는
+	없/paa+는/etm
+
+신비의
+	신비/ncps+의/jcm
+
+존재
+	존재/ncn
+
+
+누구나
+	누구/npp+나/jcj
+
+가슴속깊은곳에
+	가슴속깊은곳/ncn+에/jca
+
+한마리
+	한/nnc+마리/nbu
+
+파랑새가
+	파랑새/ncn+가/jcs
+
+있다세상
+	있다세상/ncn
+
+어디에서도
+	어디/npd+에서/jca+도/jxc
+
+느낄수도
+	느끼/pvg+ㄹ/etm+수/nbn+도/jxc
+
+볼수도
+	보/px+ㄹ/etm+수/nbn+도/jxc
+
+없는
+	없/paa+는/etm
+
+나만의
+	나/npp+만의/jcm
+
+파랑새~
+	파랑새/ncn+~/sd
+
+
+세상
+	세상/ncn
+
+힘들고
+	힘들/pvg+고/ecc
+
+지칠때
+	지치/pvg+ㄹ/etm+때/nbn
+
+..
+	./sf+./sf
+
+
+파랑새는나에게
+	파랑새는나에/ncn+이/jp+게/ecs
+
+희망을안겨준다
+	희망을안겨준다/ncn
+
+
+파랑새
+	파랑새/ncn
+
+(Feat.
+	(/sl+Feat/f+./sy
+
+전제덕)
+	전제/ncn+덕/ncn+)/sr
+
+~
+	~/sd
+
+바비
+	바비/ncn
+
+킴
+	키/pvg+ㅁ/etn
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc26/2011/03/31/1755/03100223F12053CE23C3893D73D913F3641_ya3542_logo.
+	net/blogucc26/2011/03/31/1755/03100223F12053CE23C3893D73D913F3641_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'296.
+	'/sr+296./nnc
+
+079';
+	079/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'ACBE6B665E9003533C318BA8164ADAA7183A';
+	'ACBE6B665E9003533C318BA8164ADAA7183A/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1240f890334bc2724a82eaeefb71a5bd30bfd5c2510c4472dda6d5c907cfa9d091c9eaeefb71a5bd30bf';
+	'V1240f890334bc2724a82eaeefb71a5bd30bfd5c2510c4472dda6d5c907cfa9d091c9eaeefb71a5bd30bf/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_07806
+	ugcPlayer_07806/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_07806'
+	VideoInfraUGCPlayer('ugcPlayer_07806'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_07806
+	ugcPlayer_07806/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+일상은
+	일상/ncn+은/jxc
+
+지나가고
+	지나/pvg+아/ecx+가/px+고/ecc
+
+변화해도
+	변화/ncpa+해/ncn+도/jxc
+
+나의
+	나/npp+의/jcm
+
+파랑새는
+	파랑새/ncn+는/jxc
+
+이세상
+	이세상/ncn
+
+끝까지
+	끝/ncn+까지/jxc
+
+내
+	내/npp
+
+곁에
+	곁/ncn+에/jca
+
+있다그리움으로
+	있다그리움/ncn+으로/jca
+
+가슴
+	가슴/ncn
+
+텅
+	텅/mag
+
+빈채
+	비/paa+ㄴ/etm+채/nbn
+
+있다하여도파랑새는사랑
+	있다하여도파랑새는사랑/ncn
+
+노래를
+	노래/ncn+를/jco
+
+들려
+	들리/pvg+어/ecx
+
+준다
+	줄/pvg+ㄴ다/ef
+
+
+파랑새
+	파랑새/ncn
+
+(Feat.
+	(/sl+Feat/f+./sy
+
+전제덕)
+	전제/ncn+덕/ncn+)/sr
+
+~
+	~/sd
+
+바비
+	바비/ncn
+
+킴
+	키/pvg+ㅁ/etn
+
+
+그댄
+	그댄/ncn
+
+너무
+	너무/mag
+
+나빠요
+	나쁘/paa+아/ef+요/jxf
+
+그대는
+	그대/npp+는/jxc
+
+착해서
+	착하/paa+어서/ecs
+
+나빠요가느다란
+	나빠요가느다란/ncn
+
+하얀
+	하얗/paa+은/etm
+
+손으로
+	손/ncn+으로/jca
+
+눈물
+	눈물/ncn
+
+닦으면
+	닦/pvg+으면/ecs
+
+사랑도
+	사랑/ncn+도/jxc
+
+미안해지네요*
+	미안해지네요*/ncn
+
+나를
+	나/npp+를/jco
+
+사랑하면
+	사랑/ncpa+하/xsva+면/ecs
+
+더
+	더/mag
+
+할수록
+	하/pvg+ㄹ수록/ecs
+
+그대의
+	그대/npp+의/jcm
+
+가슴엔
+	가슴/ncn+엔/jca
+
+멍이
+	멍/ncn+이/jcc
+
+늘어서조금만
+	늘어서조금만/ncn
+
+건드려도
+	건드리/pvg+어도/ecs
+
+아팠을텐데
+	아프/paa+아/ep+ㄹ텐데/ecs
+
+그댄
+	그댄/ncn
+
+언제나
+	언제나/mag
+
+내
+	내/npp
+
+걱정에
+	걱정/ncpa+에/jca
+
+우네요난
+	우네요난/ncn
+
+끝까지
+	끝/ncn+까지/jxc
+
+나빠요
+	나쁘/paa+아/ef+요/jxf
+
+끝까지
+	끝/ncn+까지/jxc
+
+내
+	내/pvg+어/ecx
+
+걱정만
+	걱정말/pvg+ㄴ/etm
+
+해요그대
+	해요그대/ncn
+
+없이
+	없이/mag
+
+그대와
+	그대/npp+와/jct
+
+사는
+	사/pvg+는/etm
+
+나의
+	나/npp+의/jcm
+
+하루는
+	하루/ncn+는/jxc
+
+문
+	문/ncn
+
+열린
+	열리/pvg+ㄴ/etm
+
+감옥과
+	감옥/ncn+과/jcj
+
+같겠죠그댈
+	같겠죠그댈/ncn
+
+사랑하면
+	사랑/ncpa+하/xsva+면/ecs
+
+더
+	더/mag
+
+할수록
+	하/pvg+ㄹ수록/ecs
+
+그대의
+	그대/npp+의/jcm
+
+눈물이
+	눈물/ncn+이/jcc
+
+늘어만
+	늘/pvg+어/ecx+말/px+ㄴ/etm
+
+가서오늘만
+	가서/ncpa+오늘/ncn+만/jxc
+
+단
+	달/paa+ㄴ/etm
+
+하루만
+	하루/ncn+만/jxc
+
+착하려
+	착하/paa+려/ecs
+
+해요
+	하/px+어/ef+요/jxf
+
+보내줄께요
+	보내/pvg+어/ecx+주/px+ㄹ께/ef+요/jxf
+
+내
+	내/npp
+
+품에서
+	풀/pvg+ㅁ/etn+에서/jca
+
+떠나요우리가
+	떠나요우리/ncn+가/jcs
+
+사랑한
+	사랑/ncn+한/ncn
+
+날이
+	날/ncn+이/jcc
+
+돌아보면
+	돌/pvg+아/ecx+보/px+면/ecs
+
+그림
+	그리/pvg+ㅁ/etn
+
+같네요그대
+	같네요그대/ncn
+
+추억엔
+	추억/ncpa+엔/jca
+
+우린
+	우/ncn+이/jp+리/ep+ㄴ/etm
+
+어땠었나요
+	어떻/pad+었었/ep+나/ef+요/jxf
+
+행복했던
+	행복/ncps+하/xsms+었/ep+던/etm
+
+날도
+	날/ncn+도/jxc
+
+있나요
+	있/px+나/ef+요/jxf
+
+미안해*
+	미안해*/ncn
+
+Repeat내게
+	Repeat/f+내/ncn+이/jp+게/ecs
+
+넘칠만큼
+	넘치/pvg+ㄹ/etm+만큼/nbn
+
+잘했어요
+	잘하/pvg+었/ep+어/ef+요/jxf
+
+그대의
+	그대/npp+의/jcm
+
+행복을
+	행복/ncps+을/jco
+
+찾아가야죠오늘만
+	찾아가야죠오늘만/ncn
+
+단
+	단/mma
+
+하루만
+	하루/ncn+만/jxc
+
+착하지
+	착하/paa+지/ecx
+
+마요
+	마요/ncn
+
+나를
+	나/npp+를/jco
+
+버려요
+	버리/px+어/ef+요/jxf
+
+내
+	내/npp
+
+품에서
+	풀/pvg+ㅁ/etn+에서/jca
+
+떠나요보내줄께요
+	떠나요보내줄께요/ncn
+
+내
+	내/npp
+
+품에서
+	풀/pvg+ㅁ/etn+에서/jca
+
+떠나요
+	뜨/paa+어/ecx+나/px+아/ef
+
+
+파랑새
+	파랑새/ncn
+
+(Feat.
+	(/sl+Feat/f+./sy
+
+전제덕)
+	전제/ncn+덕/ncn+)/sr
+
+~
+	~/sd
+
+바비
+	바비/ncn
+
+킴
+	키/pvg+ㅁ/etn
+
+
+민초호야의
+	민초호야/ncn+의/jcm
+
+음악산책
+	음악/ncn+산책/ncpa
+
+..
+	./sf+./sf
+
+
+파랑새
+	파랑새/ncn
+
+(Feat.
+	(/sl+Feat/f+./sy
+
+전제덕)
+	전제/ncn+덕/ncn+)/sr
+
+~
+	~/sd
+
+바비
+	바비/ncn
+
+킴
+	키/pvg+ㅁ/etn

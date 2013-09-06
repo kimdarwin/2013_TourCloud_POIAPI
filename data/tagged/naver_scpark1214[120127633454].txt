@@ -1,0 +1,230 @@
+[일상,생각]
+	[/sl+일상/ncn+,/sp+생각/ncpa+]/sr
+
+벚꽃
+	벚꽃/ncn
+
+핀
+	피/pvg+ㄴ/etm
+
+산책길에서
+	산책길/ncn+에서/jca
+
+...
+	.../se
+
+
+매년
+	매년/mag
+
+이맘
+	이맘/ncn
+
+때면
+	때/nbn+이/jp+면/ecs
+
+생각나는
+	생각나/pvg+는/etm
+
+길이
+	길/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+살고
+	살/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+아파트
+	아파트/ncn
+
+단지내
+	단지/ncn+내/ncn
+
+산책길입니다
+	산책길/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+자주
+	자주/mag
+
+걷는
+	걷/pvg+는/etm
+
+길은
+	길/ncn+은/jxc
+
+아니지만,
+	아니/paa+지/ecx+말/px+ㄴ/etm+,/sp
+
+마음이
+	마음/ncn+이/jcc
+
+답답할
+	답답/ncps+하/xsms+ㄹ/etm
+
+때나
+	때/ncn+나/jcj
+
+생각을
+	생각/ncpa+을/jco
+
+정리할
+	정리/ncpa+하/xsva+ㄹ/etm
+
+필요가
+	필요/ncps+가/jcc
+
+있을
+	있/px+을/etm
+
+때마다
+	때/ncn+마다/jxc
+
+들리곤
+	들리/pvg+곤/ecs
+
+하죠
+	하/px+죠/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+작년
+	작년/ncn
+
+이맘때쯤입니다
+	이맘때/ncn+쯤/xsnx+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+답답한
+	답답/ncps+하/xsms+ㄴ/etm
+
+마음을
+	마음/ncn+을/jco
+
+정리하려고
+	정리/ncpa+하/xsva+려고/ecs
+
+산책길을
+	산책길/ncn+을/jco
+
+나섰다가
+	나서/pvg+었/ep+다가/ecs
+
+벚꽃으로
+	벚꽃/ncn+으로/jca
+
+수놓아진
+	수놓/pvg+아/ecx+지/px+ㄴ/etm
+
+길을
+	길/ncn+을/jco
+
+보는
+	보/px+는/etm
+
+순간,
+	순간/ncn+,/sp
+
+
+이미
+	이미/mag
+
+그
+	그/mmd
+
+생각은
+	생각/ncpa+은/jxc
+
+어디론가
+	어디론/ncn+가/jcs
+
+사라졌더랬습니다
+	사라졌더랬습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+답답한
+	답답/ncps+하/xsms+ㄴ/etm
+
+마음을
+	마음/ncn+을/jco
+
+정리하려고
+	정리/ncpa+하/xsva+려고/ecs
+
+나섰던
+	나서/pvg+었/ep+던/etm
+
+길에서
+	길/ncn+에서/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+4월의
+	4/nnc+월/nbu+의/jcm
+
+제주의
+	제주/ncn+의/jcm
+
+벚꽃,
+	벚꽃/ncn+,/sp
+
+지금도
+	지금/ncn+도/jxc
+
+생각납니다
+	생각나/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+하여,
+	하/pvg+어/ecs+,/sp
+
+올해는벚꽃
+	올해는벚꽃/ncn
+
+핀
+	피/pvg+ㄴ/etm
+
+산책길을
+	산책길/ncn+을/jco
+
+카메라을
+	카메라/ncn+을/jco
+
+들고
+	들/pvg+고/ecc
+
+걸어봤습니다
+	걷/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf

@@ -1,0 +1,975 @@
+"점보빌리지"
+	"점보빌리지"/ncn
+
+-
+	-/sd
+
+코끼리랜드
+	코끼리/ncn+랜드/ncn
+
+
+"점보빌리지"보다
+	"점보빌리지"/ncn+보다/jca
+
+어쩌면
+	어쩌면/mag
+
+코끼리랜드로
+	코끼리/ncn+랜드/ncn+로/jca
+
+많이
+	많/paa+이/xsa
+
+기억하실지도
+	기억/ncpa+하/xsva+시/ep+ㄹ지/ecs+도/jxc
+
+모르겠어요
+	모르/pvg+겠/ep+어/ef+요/jxf
+
+동쪽에
+	동쪽/ncn+에/jca
+
+있던
+	있/px+던/etm
+
+코끼리랜드가
+	코끼리/ncn+랜드/ncn+가/jcc
+
+
+"점보빌리지"로
+	"점보빌리지"/ncn+로/jca
+
+이름을
+	이름/ncn+을/jco
+
+바꿔
+	바꾸/pvg+어/ecx
+
+서부로
+	서부/ncn+로/jca
+
+왔답니다
+	오/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+동부에서
+	동부/ncn+에서/jca
+
+코끼리쇼를
+	코끼리/ncn+쇼/ncpa+를/jco
+
+할때는
+	하/pvg+ㄹ/etm+때/nbn+는/jxc
+
+야외였는데
+	야외/ncn+이/jp+었/ep+는데/ecs
+
+이제는
+	이제/mag+는/jxc
+
+비가와도
+	비가/ncn+와/jct+도/jxc
+
+괜찮은
+	괜찮/paa+은/etm
+
+실내로
+	실내/ncn+로/jca
+
+바뀌어서
+	바뀌/pvg+어서/ecs
+
+더욱더
+	더욱더/mag
+
+좋아졌다는
+	좋/paa+아/ecx+지/px+었/ep+다/ef+는/etm
+
+사실
+	사실/ncn
+
+
+아는
+	알/pvg+는/etm
+
+동생들과
+	동생/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+찾은
+	찾/pvg+은/etm
+
+"점보빌리지"
+	"점보빌리/ncn+이/jp+지/ecs+"/sr
+
+
+더욱더
+	더욱더/mag
+
+재미있어져서
+	재미있/pvg+어/ecx+지/px+어서/ecs
+
+행복했답니다
+	행복/ncps+하/xsms+었/ep+답니다/ef
+
+.
+	./sf
+
+
+허브비치와
+	허브비치/ncn+와/jct
+
+함께
+	함께/mag
+
+가보실까요
+	가/pvg+아/ecx+보/px+시/ep+ㄹ까/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+육중한
+	육중/ncps+하/xsms+ㄴ/etm
+
+코끼리가
+	코끼리/ncn+가/jcs
+
+농구를
+	농구/ncn+를/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+기가막히고
+	기가막히/ncn+이/jp+고/ecc
+
+코가
+	크/paa+어/ecx+가/px+아/ecx
+
+막히는
+	막히/pvg+는/etm
+
+상황이죠
+	상황/ncn+이/jp+죠/ef
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+"점보빌리지"에서만
+	"점보빌리지"에서만/ncn
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+멋진공연이랍니다
+	멋진공연이랍니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+처음
+	처음/mag
+
+입장하자마자
+	입장/ncpa+하/xsva+자마자/ecs
+
+로비에
+	로비/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+마릴린먼로가
+	마릴린먼로/ncn+가/jcs
+
+눈에
+	눈/ncn+에/jca
+
+띄네요
+	띄/pvg+네/ef+요/jxf
+
+이
+	이/mmd
+
+장면은
+	장면/ncn+은/jxc
+
+7년만의
+	7/nnc+년/nbu+만의/jcm
+
+외출에서
+	외출/ncpa+에서/jca
+
+나왔던
+	나/pvg+아/ecx+오/px+아/ep+던/etm
+
+
+장면이죠
+	장면/ncn+이/jp+죠/ef
+
+저
+	저/mmd
+
+드레스가
+	드레스/ncn+가/jcs
+
+21억원을
+	21/nnc+억/nnc+원/nbu+을/jco
+
+호가할거라니
+	호가/ncpa+하/xsva+ㄹ/etm+것/nbn+이/jp+라니/ecs
+
+대단하죠
+	대단/ncps+하/xsms+죠/ef
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+"점보빌리지"를
+	"점보빌리지"/ncn+를/jco
+
+찾아간날은
+	찾아간날은/ncn
+
+밖에
+	밖/ncn+에/jca
+
+비가
+	비/ncn+가/jcs
+
+조금
+	조금/mag
+
+내렸던
+	내리/pvg+었/ep+던/etm
+
+날이에요
+	날/nbu+이/jp+에요/ef
+
+
+화창한날
+	화창/ncps+한날/ncn
+
+가서
+	가/pvg+서/ecs
+
+다시
+	다시/mag
+
+촬영을
+	촬영/ncpa+을/jco
+
+해봐야겠어요
+	하/pvg+어/ecx+보/px+아/ep+아/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+공연관람권을
+	공연/ncps+관람/ncpa+권/ncn+을/jco
+
+받았답니다
+	받/pvg+아/ep+답니다/ef
+
+.
+	./sf
+
+
+매표소
+	매표소/ncn
+
+가시면
+	가/px+시/ep+면/ecs
+
+이
+	이/mmd
+
+표를
+	표/ncn+를/jco
+
+주시는데요
+	주/px+시/ep+ㄴ데/ef+요/jxf
+
+절대
+	절대/mag
+
+
+잊어버리시면
+	잊/pvg+어/ecx+버리/px+시/ep+면/ecs
+
+안돼요
+	안되/paa+어/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+벌써
+	벌써/mag
+
+손님들이
+	손님/ncn+들/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+들어와
+	들/pvg+어/ecx+오/px+아/ecx
+
+있어서
+	있/px+어서/ecs
+
+앞에서
+	앞/ncn+에서/jca
+
+찍으려다가
+	찍/pvg+으려/ecs+다가/jxc
+
+일단
+	일단/mag
+
+뒤로
+	뒤/ncn+로/jca
+
+빽했답니다
+	빽/ncpa+하/xsva+었/ep+답니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+다음에
+	다음/ncn+에/jca
+
+가면
+	가/px+면/ecs
+
+앞에서
+	앞/ncn+에서/jca
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍어야겠어요
+	찍/pvg+어야겠/ep+어/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+드디어
+	드디어/mag
+
+입장하는
+	입장/ncpa+하/xsva+는/etm
+
+코끼리랜드에서
+	코끼리/ncn+랜드/ncn+에서/jca
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+귀염둥이
+	귀염둥이/ncn
+
+코끼리들
+	코끼리/ncn+들/ncn
+
+꼬리를
+	꼬리/ncn+를/jco
+
+코로
+	코/ncn+로/jca
+
+잡고
+	잡/pvg+고/ecc
+
+나오는
+	나오/pvg+는/etm
+
+
+모습이
+	모습/ncn+이/jcc
+
+이색적이랍니다
+	이색/ncn+적/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+조련사들은
+	조련사/ncr+들/ncn+은/jxc
+
+제가
+	저/npp+가/jcs
+
+알기로는
+	알/pvg+기/etn+로/jca+는/jxc
+
+라오스에서
+	라오스/ncn+에서/jca
+
+온걸로
+	온걸/ncn+로/jca
+
+아는데
+	알/pvg+ㄴ데/ecs
+
+확실치는
+	확실/ncps+치/ncn+는/jxc
+
+않답니다
+	않/px+답니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+육중한
+	육중/ncps+하/xsms+ㄴ/etm
+
+코끼리가
+	코끼리/ncn+가/jcs
+
+다가오는데
+	다가오/pvg+ㄴ데/ecs
+
+전
+	전/nbn
+
+멀어서
+	멀/paa+어서/ecs
+
+다행이라고
+	다행/ncps+이/jp+라/ef+고/jcr
+
+생각하고
+	생각/ncpa+하고/jct
+
+있었다는
+	있/paa+었/ep+다는/etm
+
+
+오늘
+	오늘/ncn
+
+진행을
+	진행/ncpa+을/jco
+
+맡은
+	맡/pvg+은/etm
+
+멋쟁이
+	멋쟁이/ncn
+
+사회자에요
+	사회/ncn+자/ncn+이/jp+에요/ef
+
+정말
+	정말/mag
+
+재미있게
+	재미있/pvg+게/ecs
+
+진행하더라고요
+	진행/ncpa+하/xsva+더/ep+라고/ef+요/jxf
+
+태국에서는
+	태국/ncn+에서는/jca
+
+
+말을
+	말/ncn+을/jco
+
+당최
+	당최/ncn
+
+알아들을수
+	알아듣/pvg+을/etm+수/nbn
+
+없어서
+	없/paa+어서/ecs
+
+
+옛날
+	옛날/ncn
+
+야외에서
+	야외/ncn+에서/jca
+
+진행한
+	진행/ncpa+하/xsva+ㄴ/etm
+
+코끼리쇼보다
+	코끼리/ncn+쇼/ncpa+보다/jca
+
+실내에서
+	실내/ncn+에서/jca
+
+진행하니깐
+	진행하니깐/ncn
+
+깔끔하고
+	깔끔/ncn+하고/jct
+
+더
+	더/mag
+
+멋집니다
+	멋지/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+"점보빌리지"
+	"점보빌리지"/ncn
+
+코끼리들은
+	코끼리/ncn+들/ncn+은/jxc
+
+다
+	다/mag
+
+숙련된
+	숙련/ncpa+되/xsvn+ㄴ/etm
+
+조련사가
+	조련사/ncr+가/jcc
+
+조련을
+	조련/ncpa+을/jco
+
+해서
+	하/pvg+어서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+
+말도
+	말/ncn+도/jxc
+
+잘듣고
+	잘듣고/ncn
+
+인사도
+	인사/ncn+도/jxc
+
+아주
+	아주/mag
+
+잘한답니다
+	잘하/pvg+ㄴ답니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+중간중간
+	중간/ncn+중간/ncn
+
+코끼리가
+	코끼리/ncn+가/jcs
+
+공연끝나면
+	공연끝나/ncn+이/jp+면/ecs
+
+관객석으로
+	관객석/ncn+으로/jca
+
+오는데요
+	오/px+ㄴ데/ef+요/jxf
+
+바나나를
+	바나나/ncn+를/jco
+
+미리
+	미리/mag
+
+사둔
+	사/pvg+아/ecx+두/px+ㄴ/etm
+
+관광객에게
+	관광객/ncn+에게/jca
+
+
+바나나를
+	바나나/ncn+를/jco
+
+먹기위해서
+	먹기/ncn+위해/ncn+서/jca
+
+온답니다
+	오/px+ㄴ답니다/ef
+
+.
+	./sf
+
+
+참
+	참/mag
+
+바나나는
+	바나나/ncn+는/jxc
+
+코끼리가
+	코끼리/ncn+가/jcs
+
+먹고
+	먹/pvg+고/ecc
+
+돈을
+	돈/ncn+을/jco
+
+주면
+	주/px+면/ecs
+
+조련사에게
+	조련사/ncr+에게/jca
+
+주면서
+	주/nbu+이/jp+면서/ecc
+
+
+인사를
+	인사/ncn+를/jco
+
+한답니다
+	하/px+ㄴ답니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+천원짜리
+	천/nnc+원/nbu+짜리/xsnu
+
+많이
+	많/paa+이/xsa
+
+준비해가심
+	준비/ncpa+하/xsva+어/ecx+가/px+시/ep+ㅁ/etn
+
+좋을듯
+	좋/paa+을/etm+듯/nbs
+
+해요
+	하/px+어/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+그리고
+	그리고/maj
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+코끼리를
+	코끼리/ncn+를/jco
+
+직접
+	직접/mag
+
+만져볼수도
+	만지/pvg+어/ecx+보/px+ㄹ/etm+수/nbn+도/jxc
+
+있고
+	있/px+고/ecc
+
+바나나를
+	바나나/ncn+를/jco
+
+주는거에
+	주는거/ncn+에/jca
+
+정말
+	정말/mag
+
+재미있어
+	재미있/pvg+어/ecx
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+중간중간
+	중간/ncn+중간/ncn
+
+묘기를
+	묘/ncn+이/jp+기/etn+를/jco
+
+부리는
+	부리/pvg+는/etm
+
+귀염둥이
+	귀염둥이/ncn
+
+코끼리
+	코끼리/ncn
+
+
+코끼리랜드에서
+	코끼리/ncn+랜드/ncn+에서/jca
+
+"점보빌리지"로
+	"점보빌리지"/ncn+로/jca
+
+이름만
+	이름/ncn+만/jxc
+
+바뀐게
+	바뀌/pvg+ㄴ게/ecs
+
+아니라
+	아니/paa+라/ecs
+
+멋진
+	멋지/paa+ㄴ/etm
+
+실내에서
+	실내/ncn+에서/jca
+
+
+편안하게
+	편안/ncps+하/xsms+게/ecs
+
+공연을
+	공연/ncps+을/jco
+
+관람할수
+	관람/ncpa+하/xsva+ㄹ/etm+수/nbn
+
+있어
+	있/px+어/ecx
+
+더욱더
+	더욱더/mag
+
+좋았답니다
+	좋/paa+아/ep+답니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+"점보빌리지"에
+	"점보빌리지"/ncn+에/jca
+
+가심
+	가/px+시/ep+ㅁ/etn
+
+실내에
+	실내/ncn+에/jca
+
+따로
+	따로/mag
+
+포토존들을
+	포토존들/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+놓아서
+	놓/px+아/ecx
+
+사진을
+	사진/ncn+을/jco
+
+찍을수
+	찍/pvg+을/etm+수/nbn
+
+있도록
+	있/px+도록/ecs
+
+해
+	하/pvg+어/ecx
+
+놓았답니다
+	놓/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+코끼리
+	코끼리/ncn
+
+재롱보러
+	재롱/ncps+보/ncn+이/jp+러/ecs
+
+가시자고요
+	가시/ncn+자/ncn+이/jp+고요/ef
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+점보빌리지
+	점보빌리/ncn+이/jp+지/ecs
+
+
+제주도
+	제주/ncn+도/jxc
+
+서귀포시
+	서귀포시/ncn
+
+안덕면
+	안덕면/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01746282",
+	"bl01746282",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11607925",
+	"/sl+11607925/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"점보빌리지",
+	title:"점보빌리지",/ncn
+
+pointX:242249,pointY:76855}
+	pointX/f+:/sp+242249/nnc+,/sp+pointY/f+:/sp+76855/nnc+}/sr
+
+
+"점보빌리지"
+	"점보빌리지"/ncn
+
+-
+	-/sd
+
+코끼리랜드
+	코끼리/ncn+랜드/ncn
+
+
+주소
+	주소/ncn
+
+:
+	:/sp
+
+제주특별자치도
+	제주/ncn+특별/ncps+자치/ncn+도/jxc
+
+서귀포시
+	서귀포시/ncn
+
+안덕면
+	안덕면/ncn
+
+서광리
+	서광/ncn+리/ncn
+
+2351번지
+	2351번지/ncn
+
+
+전화번호
+	전화번호/ncn
+
+:
+	:/sp
+
+064)
+	064/nnc+)/sr
+
+792
+	792/nnc
+
+-
+	-/sd
+
+1233
+	1233/nnc
+
+
+할인쿠폰문의
+	할인/ncpa+쿠폰/ncn+문/ncn+의/jcm
+
+:
+	:/sp
+
+제주포유여행사
+	제주/ncn+포유/ncpa+여행사/ncn
+
+064)
+	064/nnc+)/sr
+
+747
+	747/nnc
+
+-3230
+	-3230/nnc

@@ -1,0 +1,305 @@
+후지산
+	후지산/ncn
+
+가와구치코
+	가와구치코/ncn
+
+유람선
+	유람선/ncn
+
+타는
+	타/pvg+는/etm
+
+승차장
+	승차장/ncn
+
+주변에
+	주변/ncn+에/jca
+
+Cheese
+	Cheese/f
+
+cake
+	cake/f
+
+Garden
+	Garden/f
+
+이라는
+	이르/paa+어/ef+는/etm
+
+치즈케익
+	치즈케익/ncn
+
+전문점이
+	전문/ncn+점/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+가와구치코에
+	가와구치코/ncn+에/jca
+
+가면
+	가/px+면/ecs
+
+꼭
+	꼭/mag
+
+들려서
+	들리/pvg+어서/ecs
+
+치즈케익을
+	치즈케익/ncn+을/jco
+
+먹거나
+	먹/pvg+거나/ecc
+
+오미아게로
+	오미아게/ncn+로/jca
+
+사오고는
+	사/pvg+오/ef+고/jcr+는/jxc
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+주변
+	주변/ncn
+
+토산품점과는
+	토산품/ncn+점/ncn+과/jct+는/jxc
+
+살짝
+	살짝/mag
+
+비교가
+	비교/ncpa+가/jcc
+
+되는
+	되/pvg+는/etm
+
+누구나
+	누구/npp+나/jcj
+
+한번쯤은
+	한번쯤/ncn+은/jxc
+
+들려
+	들리/pvg+어/ecx
+
+보고
+	보/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+외관물론
+	외관/ncn+물론/ncn
+
+바로옆
+	바로옆/ncn
+
+토산품점
+	토산품/ncn+점/ncn
+
+코너에
+	코너/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+거봉
+	거봉/ncn
+
+소프트
+	소프트/ncn
+
+아이스크림도
+	아이스크림/ncn+도/jxc
+
+맛있다
+	맛있/paa+다/ef
+
+.
+	./sf
+
+
+프람보와즈
+	프람보와즈/ncn
+
+젤라토
+	젤라토/ncn
+
+/
+	//sp
+
+망고
+	망/ncn+고/jcj
+
+젤라토망고
+	젤라토망고/ncn
+
+젤라토가
+	젤라토/ncn+가/jcs
+
+아래에
+	아래/ncn+에/jca
+
+있는데
+	있/px+는데/ecs
+
+보이질
+	보이/ncn+질/ncn
+
+않네
+	않/px+네/ef
+
+...
+	.../se
+
+
+프람보와즈의
+	프람보와즈/ncn+의/jcm
+
+신맛이
+	신맛/ncn+이/jcc
+
+너무나
+	너무나/mag
+
+맛있다
+	맛있/paa+다/ef
+
+.
+	./sf
+
+
+후르츠
+	후르츠/ncn
+
+롤케익치크케익
+	롤케익치크케익/ncn
+
+가든의
+	가든/ncn+의/jcm
+
+커피는
+	커피/ncn+는/jxc
+
+셀프서비스아주
+	셀프서비스아주/ncn
+
+맛있는
+	맛있/paa+는/etm
+
+커피라고는
+	커피/ncn+이/jp+라/ef+고/jcr+는/jxc
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없지만
+	없/paa+지/ecx+말/px+ㄴ/etm
+
+....
+	.../se+./sf
+
+
+신선한
+	신선/ncn+한/ncn
+
+유기농
+	유기/ncn+농/ncn
+
+커피를
+	커피/ncn+를/jco
+
+마실
+	마시/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어서
+	있/px+어서/ecs
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+케익의
+	케익/ncn+의/jcm
+
+가격들은
+	가격/ncn+들/ncn+은/jxc
+
+300엔
+	300/nnc+엔/nbu
+
+대로
+	대/nbu+로/jca
+
+도쿄에
+	도쿄/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+정말
+	정말/mag
+
+저렴하다
+	저렴/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+카페가
+	카페/ncn+가/jcs
+
+아니라서
+	아니/paa+라서/ecs
+
+테이블은
+	테이블/ncn+은/jxc
+
+딱
+	딱/mag
+
+2개만
+	2/nnc+개/nbu+만/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+http://r.
+	http/f+:/sp+//sp+//sp+r/f+./sy
+
+tabelog.
+	tabelog/f+./sy
+
+com/yamanashi/A1903/A190303/19004050
+	com/yamanashi/A1903/A190303/19004050/ncn
+
+1173-10555-72-3654
+	1173/nnc+-10555/nnc+-72/nnc+-3654/nnc

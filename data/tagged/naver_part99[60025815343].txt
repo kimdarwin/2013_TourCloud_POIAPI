@@ -1,0 +1,569 @@
+출처
+	출처/ncn
+
+봄날이네집~
+	봄날이네집~/ncn
+
+|봄날
+	|봄날/ncn
+
+
+null
+	null/f
+
+
+매일
+	매일/mag
+
+먹는
+	먹/pvg+는/etm
+
+밥반찬~
+	밥반찬/ncn+~/sd
+
+
+뭘
+	뭐/npd+을/jco
+
+만들어서
+	만들/pvg+어서/ecs
+
+드시나요
+	들/pvg+시/ep+나/ef+요/jxf
+
+??
+	?/sf+?/sf
+
+
+저는
+	저/npp+는/jxc
+
+오늘
+	오늘/ncn
+
+계란말이
+	계란/ncn+말/ncn+이/jcc
+
+했어요
+	하/px+었/ep+어/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+다들~잘
+	다들~잘/ncn
+
+만드시겠지만
+	만들/pvg+시겠/ep+지만/ecs
+
+
+계란말이
+	계란/ncn+말/ncn+이/jcc
+
+잘만드는
+	잘만드/ncn+는/jxc
+
+비법을~
+	비법/ncn+을/jco+~/sd
+
+
+제가
+	저/npp+가/jcs
+
+살짝~알려드릴려구요~
+	살짝~알려드릴려구요/ncn+~/sd
+
+
+저번에
+	저번/ncn+에/jca
+
+티비를보는데~
+	티비를보는데/ncn+~/sd
+
+
+계란말이의
+	계란말이/ncn+의/jcm
+
+달인이
+	달인/ncn+이/jcc
+
+나오셨더라구요
+	나/pvg+아/ecx+오/px+셨/ep+더라구/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+계란을
+	계란/ncn+을/jco
+
+풀어줄때
+	풀/pvg+어/ecx+주/px+ㄹ/etm+때/nbn
+
+식초
+	식초/ncn
+
+한방울을
+	한/nnc+방울/nbu+을/jco
+
+넣으면~
+	넣/pvg+으면/ecs+~/sd
+
+
+계란모양이
+	계란/ncn+모양/ncn+이/jcc
+
+이쁘게
+	이쁘/paa+게/ecs
+
+나온다는
+	나/pvg+아/ecx+오/px+ㄴ다/ef+는/etm
+
+얘기를
+	얘/ncn+이/jp+기/etn+를/jco
+
+들었어요
+	들/pvg+었/ep+어/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+계란을
+	계란/ncn+을/jco
+
+말다보면
+	말다보/ncn+이/jp+면/ecs
+
+자주
+	자주/mag
+
+찢어지잖아요
+	찢/pvg+어/ecx+지/px+잖아/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+^^::
+	^/sy+^/sy+:/sp+:/sp
+
+
+이제
+	이제/mag
+
+식초한방울이면
+	식초/ncn+한방/ncn+울/ncn+이/jp+면/ecs
+
+그고민~해결됩니다
+	그고민~해결됩니/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+자~계란말이를
+	자/ii+~/sd+계란/ncn+말/ncn+이를/jco
+
+만들어요
+	만들/pvg+어/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+오늘의비법~
+	오늘의/ncn+비법/ncn+~/sd
+
+
+식초한방울입니다
+	식초/ncn+한방/ncn+울/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+너무
+	너무/mag
+
+많이
+	많/paa+이/xsa
+
+부우면
+	부우/ncn+이/jp+면/ecs
+
+안되니
+	안되/paa+니/ecs
+
+주의
+	주/nbu+의/jcm
+
+!!
+	!/sf+!/sf
+
+
+하세요~
+	하세/ncpa+요/ncn+~/sd
+
+
+딱~한방울만요
+	딱~한방울만요/ncn
+
+..
+	./sf+./sf
+
+
+계란을
+	계란/ncn+을/jco
+
+풀어준뒤~맛소금으로
+	풀어준뒤~맛소금/ncn+으로/jca
+
+간을하세요
+	간을하세요/ncn
+
+..
+	./sf+./sf
+
+
+달군팬에
+	달군팬/ncn+에/jca
+
+식용유를
+	식용유/ncn+를/jco
+
+넣어서~
+	넣/pvg+어서/ecs+~/sd
+
+
+키친타월로
+	키친/ncn+타월/ncn+로/jca
+
+살짝닦아낸다음~
+	살짝닦아낸다음/ncn+~/sd
+
+
+계란을
+	계란/ncn+을/jco
+
+부어주세요
+	붓/pvg+어/ecx+주/px+세/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+(저는
+	(/sl+저/npp+는/jxc
+
+계란을
+	계란/ncn+을/jco
+
+3개사용했는데
+	3개사용했는데/ncn
+
+..
+	./sf+./sf
+
+
+더큰
+	더큰/ncn
+
+계란말이를
+	계란/ncn+말/ncn+이를/jco
+
+드시고싶으면
+	들/pvg+시/ep+고/ecx+싶/px+으면/ecs
+
+계란추가하세요
+	계란/ncn+추가/ncpa+하/xsva+세/ef+요/jxf
+
+..)
+	./sf+./sf+)/sr
+
+
+그위에
+	그/npp+위/xsnx+에/jca
+
+맛살을
+	맛살/ncn+을/jco
+
+넣었어요
+	넣/pvg+었/ep+어/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+사진이
+	사진/ncn+이/jcc
+
+없네요
+	없/paa+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+돌돌~말아주세요
+	돌돌~말아주세요/ncn
+
+..
+	./sf+./sf
+
+
+더큰
+	더큰/ncn
+
+계란말이를
+	계란/ncn+말/ncn+이를/jco
+
+원하신다면~
+	원하/pvg+시/ep+ㄴ다면/ecs+~/sd
+
+
+한꺼번에
+	한꺼번에/mag
+
+계란을
+	계란/ncn+을/jco
+
+다부으면
+	다부/ncn+이/jp+면/ecs
+
+안되고~
+	안되/paa+고/ecc+~/sd
+
+
+지금이상태에서
+	지금/ncn+이상/ncn+태/ncn+에서/jca
+
+나머지
+	나머지/ncn
+
+반을
+	반/ncn+을/jco
+
+부어서
+	부/ncn+이/jp+어서/ecs
+
+합체하시면
+	합체하시/ncn+이/jp+면/ecs
+
+되요
+	되요/ncn
+
+.
+	./sf
+
+
+ok
+	ok/f
+
+??
+	?/sf+?/sf
+
+
+뜨거운계란말이를~
+	뜨거운계란말/ncn+이를/jco+~/sd
+
+
+김발에올려서
+	김발에올려서/ncn
+
+모양을
+	모양/ncn+을/jco
+
+잡아주세요
+	잡/pvg+어/ecx+주/px+세/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+동그랗게말아도되고~
+	동그랗게말아도되고~/ncn
+
+사각으로
+	사각/ncn+으로/jca
+
+말아도되요
+	말아도되요/ncn
+
+..
+	./sf+./sf
+
+
+모양이
+	모양/ncn+이/jcc
+
+잡혔지요
+	잡히/pvg+었/ep+지/ef+요/jxf
+
+?
+	?/sf
+
+
+계란말이안에
+	계란말이안/ncn+에/jca
+
+맛살도
+	맛살/ncn+도/jxc
+
+살짝~보이구요
+	살짝~보이구요/ncn
+
+..
+	./sf+./sf
+
+
+접시에담아서~
+	접시에담아/ncn+서/jca+~/sd
+
+
+맛있게
+	맛있/paa+게/ecs
+
+드시면
+	들/pvg+시/ep+면/ecs
+
+되요
+	되요/ncn
+
+..
+	./sf+./sf
+
+
+저는
+	저/npp+는/jxc
+
+맛살을
+	맛살/ncn+을/jco
+
+넣었는데
+	넣/pvg+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+파를
+	파/ncn+를/jco
+
+넣어도되고~햄,당근,크래미~
+	넣어도되고~햄,당근,크래미/ncn+~/sd
+
+
+응용버전~아시죵
+	응용버전~아시죵/ncn
+
+??
+	?/sf+?/sf
+
+
+소금이
+	소금/ncn+이/jcc
+
+들어가서~
+	들/pvg+어/ecx+가/px+아/ecs+~/sd
+
+
+밥반찬으로
+	밥반찬/ncn+으로/jca
+
+딱~좋아요
+	딱~좋아요/ncn
+
+..
+	./sf+./sf
+
+
+색이
+	색/ncn+이/jcc
+
+심심한것같아서~^^::
+	심심/ncpa+하/xsva+ㄴ/etm+것/nbn+같/xsmn+아서/ecs+~/sd+^/sy+^/sy+:/sp+:/sp
+
+
+붉은색의
+	붉은색/ncn+의/jcm
+
+케첩을
+	케첩/ncn+을/jco
+
+뿌려봤어요
+	뿌리/pvg+어/ecx+보/px+아/ep+아/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+더
+	더/mag
+
+맛있어
+	맛있/paa+어/ecx
+
+보이죠
+	보이/pvg+죠/ef
+
+??
+	?/sf+?/sf
+
+
+너무간단하고~
+	너무간단/ncn+하고/jcj+~/sd
+
+
+맛있고~영양만점인~
+	맛있/paa+고/ecc+~/sd+영양/ncn+만점/ncn+인/ncn+~/sd
+
+
+계란말이~너무
+	계란말이~너무/ncn
+
+좋아요
+	좋/paa+아/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+9월1일입니다
+	9월1일입니/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+새로운달을
+	새로운달/ncn+을/jco
+
+맞이하여
+	맞이/ncpa+하/xsva+어/ecx
+
+..
+	./sf+./sf
+
+
+계획한일들~다
+	계획한일들~다/ncn
+
+이루시길바래요
+	이루시길바래요/ncn
+
+..
+	./sf+./sf
+
+
+이웃님들~
+	이웃/ncpa+님/ncn+들/xsncc+~/sd
+
+
+화이삼~~
+	화이/ncn+삼/ncn+~/sd+~/sd
+
+
+봄날이~
+	봄날/ncn+이/jcc+~/sd

@@ -1,0 +1,1214 @@
+사랑이
+	사랑/ncn+이/jcc
+
+뭐길래~미스에스
+	뭐길래/ncn+~/sd+미스/ncn+에스/ncn
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc21/2010/09/20/326/03100223B17253BE12C3096B739A7683EC6_ya3542_logo.
+	net/blogucc21/2010/09/20/326/03100223B17253BE12C3096B739A7683EC6_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'275.
+	'/sr+275./nnc
+
+67';
+	67/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'F91915A5C0DF1F0C0FE6F9D37289474B4F81';
+	'F91915A5C0DF1F0C0FE6F9D37289474B4F81/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V126db88f7058ab8353fcddac7d8fc29048127e95f79a3165c83a18a4e53a24791d7fddac7d8fc2904812';
+	'V126db88f7058ab8353fcddac7d8fc29048127e95f79a3165c83a18a4e53a24791d7fddac7d8fc2904812/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_07780
+	ugcPlayer_07780/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_07780'
+	VideoInfraUGCPlayer('ugcPlayer_07780'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_07780
+	ugcPlayer_07780/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+미스에스
+	미스/ncn+에스/ncn
+
+~사랑이
+	~/sd+사랑/ncn+이/jcc
+
+뭐길래
+	뭐/npd+이/jp+길래/ecs
+
+(가사)
+	(/sl+가사/ncn+)/sr
+
+
+맨
+	맨/mma
+
+정신으로는
+	정신/ncn+으로/jca+는/jxc
+
+살
+	사/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+없어서술
+	없어서술/ncn
+
+한잔을
+	한/nnc+잔/nbu+을/jco
+
+하고
+	하/pvg+고/ecc
+
+그렇게
+	그렇/pad+게/ecs
+
+널
+	널/pvg+ㄹ/etm
+
+잊으려
+	잊/pvg+으려/ecx
+
+했어맨
+	했어맨/ncn
+
+정신으로는(맨
+	정신으로는(맨/ncn
+
+정신에
+	정신/ncn+에/jca
+
+살
+	사/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없어
+	없/paa+어/ecx
+
+술을
+	술/ncn+을/jco
+
+마시고)(맨
+	마시/pvg+고/ecc+)/sr+(/sl+맨/mma
+
+정신에
+	정신/ncn+에/jca
+
+믿을
+	믿/pvg+을/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+후횔
+	후횔/ncn
+
+누리고)살
+	누리/ncn+이/jp+고/ecc+)/sr+살/nbu
+
+수가
+	수/nbn+가/jcc
+
+없어서(맨
+	없어서(맨/ncn
+
+정신에
+	정신/ncn+에/jca
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+말들을
+	말/px+ㄹ/etm+들/nbn+을/jco
+
+하고)(맨
+	하/pvg+고/ecc+)/sr+(/sl+맨/mma
+
+정신에
+	정신/ncn+에/jca
+
+생각하면
+	생각/ncpa+하/xsva+면/ecs
+
+후회를
+	후회/ncpa+를/jco
+
+하고)끊었던
+	하고)끊었던/ncn
+
+눈물
+	눈물/ncn
+
+흘리고(또
+	흘리고(또/ncn
+
+다시
+	다시/mag
+
+이별앞에
+	이별/ncpa+앞/ncn+에/jca
+
+눈물이
+	눈물/ncn+이/jcc
+
+흐르고)내
+	흐르/pvg+고/ecc+)/sr+내/npp
+
+가슴엔
+	가슴/ncn+엔/jca
+
+비가
+	비/ncn+가/jcs
+
+내리고(아픈
+	내리고(아픈/ncn
+
+가슴엔
+	가슴/ncn+엔/jca
+
+아직도
+	아직/mag+도/jxc
+
+비가내려)(여전히
+	비가/ncn+내/ncn+이/jp+리/ep+어/ef+)/sr+(/sl+여전히/mag
+
+내
+	내/npp
+
+가슴엔
+	가슴/ncn+엔/jca
+
+너란
+	너/npp+란/jcm
+
+슬픈
+	슬프/paa+ㄴ/etm
+
+비가내려)사랑이
+	비가/ncn+내/ncn+이/jp+리/ep+어/ef+)/sr+사랑/ncn+이/jcc
+
+뭐길래(사랑이
+	뭐길래(사랑/ncn+이/jcc
+
+뭐길래
+	뭐/npd+이/jp+길래/ecs
+
+남자가
+	남자/ncn+가/jcs
+
+뭐길래)이렇게
+	뭐길래)이렇/ncn+게/jca
+
+나를
+	나/npp+를/jco
+
+울게
+	울/pvg+게/ecs
+
+만들고(왜
+	만들고(왜/ncn
+
+왜
+	왜/mag
+
+왜
+	왜/mag
+
+너
+	너/npp
+
+왜
+	왜/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+나를
+	나/npp+를/jco
+
+울게
+	울/pvg+게/ecs
+
+만드는데)사랑이
+	만들/pvg+ㄴ데/ecs+)/sr+사랑/ncn+이/jcc
+
+뭐길래(사랑이
+	뭐길래(사랑/ncn+이/jcc
+
+뭐길래
+	뭐/npd+이/jp+길래/ecs
+
+남자가
+	남자/ncn+가/jcs
+
+뭐길래)이렇게
+	뭐길래)이렇/ncn+게/jca
+
+나를
+	나/npp+를/jco
+
+아프게하고(왜
+	아프게하고(왜/ncn
+
+왜
+	왜/mag
+
+왜
+	왜/mag
+
+너
+	너/npp
+
+왜
+	왜/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+내
+	내/pvg+어/ecx
+
+마음을
+	마음/ncn+을/jco
+
+아프게
+	아프/paa+게/ecs
+
+해)남자가
+	하/pvg+어/ecs+)/sr+남자/ncn+가/jcs
+
+뭐길래(남자가
+	뭐길래(남자/ncn+가/jcs
+
+뭐길래
+	뭐/npd+이/jp+길래/ecs
+
+사랑이
+	사랑/ncn+이/jcc
+
+뭐길래)아직
+	뭐길래)아직/ncn
+
+난
+	나/px+ㄴ/etm
+
+다른
+	다른/mma
+
+사랑
+	사랑/ncn
+
+하지못하고(왜
+	하지못하고(왜/ncn
+
+왜
+	왜/mag
+
+왜
+	왜/mag
+
+너
+	너/npp
+
+왜
+	왜/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+돌아오지
+	돌/pvg+아/ecx+오/px+지/ecx
+
+않는건데)난
+	않/px+는/etm+것/nbn+이/jp+ㄴ데/ecs+)/sr+난/ncn
+
+너만
+	너/npp+만/jxc
+
+기다리잖아(아직도
+	기다리잖아(아직/ncn+도/jxc
+
+내
+	내/npp
+
+맘속엔
+	말/px+ㅁ/etn+속/xsnx+엔/jca
+
+너
+	너/npp
+
+뿐인데)사랑이
+	뿐/nbn+이/jp+ㄴ데/ecs+)/sr+사랑/ncn+이/jcc
+
+뭐길래(도대체
+	뭐길래(도대체/ncn
+
+사랑이
+	사랑/ncn+이/jcc
+
+뭐길래)사랑이란건
+	뭐길래)사랑이란건/ncn
+
+알
+	알/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+없어서시작을
+	없어서시작/ncn+을/jco
+
+했다면
+	하/px+었/ep+다면/ecs
+
+이별을
+	이별/ncpa+을/jco
+
+준비해야하고또
+	준비해야하고또/ncn
+
+사랑이란건(사랑이란건
+	사랑이란건(사랑이란건/ncn
+
+원래
+	원래/mag
+
+변해가는거래)(다가설수록
+	변하/pvg+어/ecx+가/px+는/etm+것/nbn+이/jp+래/ef+)/sr+(/sl+다가서/pvg+ㄹ수록/ecs
+
+조금씩
+	조금씩/ncn
+
+멀어지는거래)변할
+	멀/paa+어/ecx+지/px+는/etm+것/nbn+이/jp+래/ef+)/sr+변/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있어서(사랑이란건
+	있어서(사랑이란건/ncn
+
+원래
+	원래/mag
+
+불합리한거래)(더
+	불합리/ncps+하/xsms+ㄴ/etm+것/nbn+이/jp+래/ef+)/sr+(/sl+더/mag
+
+많이
+	많/paa+이/xsa
+
+사랑하는
+	사랑/ncpa+하/xsva+는/etm
+
+사람이
+	사람/ncn+이/jcc
+
+힘이드는거래)그때의
+	힘이드는거래)그때/ncn+의/jcm
+
+우리
+	우리/npp
+
+추억이(그때의
+	추억이(그때/ncn+의/jcm
+
+우리
+	우리/npp
+
+추억들이
+	추억/ncpa+들/xsncc+이/jcc
+
+너무
+	너무/mag
+
+많아)상처로
+	많/paa+아/ecs+)/sr+상처/ncn+로/jca
+
+다
+	다/mag
+
+남게되는걸(너와
+	남게되는걸(너/ncn+와/jcj
+
+나의
+	나/npp+의/jcm
+
+추억들이
+	추억/ncpa+들/xsncc+이/jcc
+
+상처로
+	상처/ncn+로/jca
+
+남아)(나
+	남/pvg+아/ecs+)/sr+(/sl+나/npp
+
+맨정신으로는
+	맨정신으로/ncn+는/jxc
+
+참아
+	참/pvg+아/ecx
+
+눈을
+	눈/ncn+을/jco
+
+못
+	못/mag
+
+감아)사랑이
+	감/pvg+아/ecs+)/sr+사랑/ncn+이/jcc
+
+뭐길래(사랑이
+	뭐길래(사랑/ncn+이/jcc
+
+뭐길래
+	뭐/npd+이/jp+길래/ecs
+
+남자가
+	남자/ncn+가/jcs
+
+뭐길래)이렇게
+	뭐길래)이렇/ncn+게/jca
+
+나를
+	나/npp+를/jco
+
+울게
+	울/pvg+게/ecs
+
+만들고(왜
+	만들고(왜/ncn
+
+왜
+	왜/mag
+
+왜
+	왜/mag
+
+너
+	너/npp
+
+왜
+	왜/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+나를
+	나/npp+를/jco
+
+울게
+	울/pvg+게/ecs
+
+만드는데)사랑이
+	만들/pvg+ㄴ데/ecs+)/sr+사랑/ncn+이/jcc
+
+뭐길래(사랑이
+	뭐길래(사랑/ncn+이/jcc
+
+뭐길래
+	뭐/npd+이/jp+길래/ecs
+
+남자가
+	남자/ncn+가/jcs
+
+뭐길래)이렇게
+	뭐길래)이렇/ncn+게/jca
+
+나를
+	나/npp+를/jco
+
+아프게하고(왜
+	아프게하고(왜/ncn
+
+왜
+	왜/mag
+
+왜
+	왜/mag
+
+너
+	너/npp
+
+왜
+	왜/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+내
+	내/pvg+어/ecx
+
+마음을
+	마음/ncn+을/jco
+
+아프게
+	아프/paa+게/ecs
+
+해)남자가
+	하/pvg+어/ecs+)/sr+남자/ncn+가/jcs
+
+뭐길래(남자가
+	뭐길래(남자/ncn+가/jcs
+
+뭐길래
+	뭐/npd+이/jp+길래/ecs
+
+사랑이
+	사랑/ncn+이/jcc
+
+뭐길래)아직
+	뭐길래)아직/ncn
+
+난
+	나/px+ㄴ/etm
+
+다른
+	다른/mma
+
+사랑
+	사랑/ncn
+
+하지못하고(왜
+	하지못하고(왜/ncn
+
+왜
+	왜/mag
+
+왜
+	왜/mag
+
+너
+	너/npp
+
+왜
+	왜/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+돌아오지
+	돌/pvg+아/ecx+오/px+지/ecx
+
+않는건데)난
+	않/px+는/etm+것/nbn+이/jp+ㄴ데/ecs+)/sr+난/ncn
+
+너만
+	너/npp+만/jxc
+
+기다리잖아(아직도
+	기다리잖아(아직/ncn+도/jxc
+
+내
+	내/npp
+
+맘속엔
+	말/px+ㅁ/etn+속/xsnx+엔/jca
+
+너
+	너/npp
+
+뿐인데)사랑이
+	뿐/nbn+이/jp+ㄴ데/ecs+)/sr+사랑/ncn+이/jcc
+
+뭐길래(도대체
+	뭐길래(도대체/ncn
+
+사랑이
+	사랑/ncn+이/jcc
+
+뭐길래)넌
+	뭐길래)넌/ncn
+
+어디있길래
+	어디있길래/ncn
+
+도대체
+	도대체/mag
+
+어디
+	어디/mad
+
+숨어있길래사랑은
+	숨어있길래사랑/ncn+은/jxc
+
+어디에
+	어디/npd+에/jca
+
+도대체
+	도대체/mag
+
+돌아
+	돌/pvg+아/ecx
+
+오지를
+	오지/ncn+를/jco
+
+않고(니가
+	않고(니/ncn+가/jcs
+
+뭔데
+	뭔데/ncn
+
+내
+	내/npp
+
+마음을
+	마음/ncn+을/jco
+
+아프게해)(도대체
+	아프/paa+게/ecx+하/px+어/ecs+)/sr+(/sl+도대체/mag
+
+니가
+	니/ncn+가/jcs
+
+뭔데
+	뭔데/ncn
+
+이렇게
+	이렇/pad+게/ecs
+
+나를
+	나/npp+를/jco
+
+슬프게해)남자가
+	슬프/paa+게/ecx+하/px+어/ecs+)/sr+남자/ncn+가/jcs
+
+뭐길래(남자가
+	뭐길래(남자/ncn+가/jcs
+
+뭐길래
+	뭐/npd+이/jp+길래/ecs
+
+사랑이
+	사랑/ncn+이/jcc
+
+뭐길래)(너
+	뭐/npd+이/jp+길래/ecs+)/sr+(/sl+너/npp
+
+왜이렇게
+	왜이렇게/ncn
+
+나를
+	나/npp+를/jco
+
+울게
+	울/pvg+게/ecs
+
+만드는데)이렇게
+	만드는데)이렇게/ncn
+
+여잘
+	여잘/ncn
+
+울게
+	울/pvg+게/ecs
+
+만들고(나는
+	만들고(나/ncn+는/jxc
+
+니가
+	니/ncn+가/jcs
+
+없인
+	없/ncn+이/jp+ㄴ/etm
+
+안돼
+	안되/paa+어/ecx
+
+너
+	너/npp
+
+뿐이던
+	뿐/nbn+이/jp+던/etm
+
+난데)(왜
+	나/px+ㄴ데/ecs+)/sr+(/sl+왜/mag
+
+이런
+	이런/mmd
+
+나를
+	나/npp+를/jco
+
+잡아주지
+	잡/pvg+어/ecx+주/px+지/ecx
+
+않는데)남자가
+	않/px+는데/ecs+)/sr+남자/ncn+가/jcs
+
+뭐길래(도대체
+	뭐길래(도대체/ncn
+
+남자가
+	남자/ncn+가/jcs
+
+뭐길래
+	뭐/npd+이/jp+길래/ecs
+
+사랑이
+	사랑/ncn+이/jcc
+
+뭐길래)(너
+	뭐/npd+이/jp+길래/ecs+)/sr+(/sl+너/npp
+
+왜
+	왜/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+내
+	내/pvg+어/ecx
+
+마음을
+	마음/ncn+을/jco
+
+아프게해)이렇게
+	아프게해)이렇게/ncn
+
+여잘
+	여잘/ncn
+
+아프게
+	아프/paa+게/ecs
+
+하고(나는
+	하고(나/ncn+는/jxc
+
+니가
+	니/ncn+가/jcs
+
+없인
+	없/ncn+이/jp+ㄴ/etm
+
+안돼
+	안되/paa+어/ecx
+
+너
+	너/npp
+
+뿐이던
+	뿐/nbn+이/jp+던/etm
+
+난데)(왜
+	나/px+ㄴ데/ecs+)/sr+(/sl+왜/mag
+
+이런
+	이런/mmd
+
+나를
+	나/npp+를/jco
+
+혼자
+	혼자/mag
+
+두고
+	두/pvg+고/ecc
+
+떠나는데)사랑이
+	떠나/pvg+ㄴ데/ecs+)/sr+사랑/ncn+이/jcc
+
+뭐길래(사랑이
+	뭐길래(사랑/ncn+이/jcc
+
+뭐길래
+	뭐/npd+이/jp+길래/ecs
+
+남자가
+	남자/ncn+가/jcs
+
+뭐길래)이렇게
+	뭐길래)이렇/ncn+게/jca
+
+나를
+	나/npp+를/jco
+
+지치게
+	지치/pvg+게/ecs
+
+하고(왜
+	하고(왜/ncn
+
+왜
+	왜/mag
+
+왜
+	왜/mag
+
+너
+	너/npp
+
+왜이렇게
+	왜이렇게/ncn
+
+나를
+	나/npp+를/jco
+
+지치게
+	지치/pvg+게/ecs
+
+하는데)또
+	하는데)또/ncn
+
+다시
+	다시/mag
+
+기다리잖아(난
+	기다리잖아(난/ncn
+
+너만
+	너/npp+만/jxc
+
+기다리고
+	기다리/pvg+고/ecc
+
+기다려)난
+	기다리/pvg+어/ecs+)/sr+난/ncn
+
+너만
+	너/npp+만/jxc
+
+기다리잖아(여전히
+	기다리잖아(여전히/ncn
+
+너
+	너/npp
+
+하나만
+	하/pvg+어/ecx+나/px+아/ecx+말/px+ㄴ/etm
+
+기다려)사랑이
+	기다리/pvg+어/ecs+)/sr+사랑/ncn+이/jcc
+
+뭐길래(도대체
+	뭐길래(도대체/ncn
+
+사랑이
+	사랑/ncn+이/jcc
+
+뭐길래)아직
+	뭐길래)아직/ncn
+
+널
+	널/pvg+ㄹ/etm
+
+기다리잖아사랑이
+	기다리잖아사랑/ncn+이/jcc
+
+뭐길래
+	뭐길래/ncn
+
+
+사랑이
+	사랑/ncn+이/jcc
+
+뭐길래(What
+	뭐길래(What/ncn
+
+is
+	is/f
+
+Love)~미스에스(Miss-S)
+	Love)~미스에스/ncn+(/sl+Miss/f+-/sd+S/f+)/sr

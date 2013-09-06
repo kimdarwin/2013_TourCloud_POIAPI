@@ -1,0 +1,971 @@
+[수원여행]
+	[/sl+수원/ncn+여행/ncpa+]/sr
+
+
+수원KBS
+	수원KBS/ncn
+
+드라마제작센터(야외세트장)
+	드라마제작센터(야외세트장)/ncn
+
+방문기
+	방문/ncpa+기/ncn
+
+
+"
+	"/sl
+
+텔레비젼에
+	텔레비젼/ncn+에/jca
+
+내가
+	나/npp+가/jcs
+
+나왔으면
+	나/pvg+아/ecx+오/px+아/ep+면/ecs
+
+정말
+	정말/mag
+
+좋겠네~
+	좋/paa+겠/ep+네/ef+~/sd
+
+정말
+	정말/mag
+
+좋겠네~
+	좋/paa+겠/ep+네/ef+~/sd
+
+"
+	"/sl
+
+
+어릴
+	어리/paa+ㄹ/etm
+
+적
+	적/nbn
+
+이
+	이/mmd
+
+노래
+	노래/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+번
+	번/nbu
+
+안불러
+	안불러/ncn
+
+본
+	보/px+ㄴ/etm
+
+사람은
+	사람/ncn+은/jxc
+
+아마도
+	아마/mag+도/jxc
+
+없겠지요~
+	없/paa+겠/ep+지요/ef+~/sd
+
+
+이번
+	이/nnc+번/nbu
+
+수원여행을
+	수원/ncn+여행/ncpa+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+수원KBS
+	수원KBS/ncn
+
+드라마
+	드라마/ncn
+
+제작센터(야외세트장)도
+	제작센터(야외세트장)/ncn+도/jxc
+
+방문하게
+	방문/ncpa+하/xsva+게/ecs
+
+되었어요~
+	되/nbu+이/jp+었/ep+어요/ef+~/sd
+
+
+저
+	저/mmd
+
+노래처럼
+	노래/ncn+처럼/jca
+
+실제
+	실제/ncn
+
+텔레비젼에
+	텔레비젼/ncn+에/jca
+
+제가
+	저/npp+가/jcs
+
+출연을
+	출연/ncpa+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+아니구요,
+	아니구요/ncn+,/sp
+
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+배우들을
+	배우/ncn+들/ncn+을/jco
+
+만난
+	만나/pvg+ㄴ/etm
+
+것도
+	것/nbn+도/jxc
+
+아니고
+	아니/paa+고/ecc
+
+사실,
+	사/pvg+시/ep+ㄹ/etm+,/sp
+
+뭐
+	뭐/npd
+
+제
+	저/npp+의/jcm
+
+나이에
+	나이/ncn+에/jca
+
+연예인을
+	연예인/ncn+을/jco
+
+본다고
+	보/px+ㄴ다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+설레이거나하지는
+	설레이거나하지/ncn+는/jxc
+
+않지만요,
+	않/paa+지/ecs+만요/jxc+,/sp
+
+
+방송국이라는데가
+	방송국/ncn+이/jp+라/ef+는/etm+데/nbn+가/jcc
+
+왠지
+	왠지/mag
+
+일반인이
+	일반인/ncn+이/jcc
+
+쉽게
+	쉽/paa+게/ecs
+
+범접하기
+	범접/ncpa+하/xsva+기/etn
+
+어려울
+	어렵/paa+을/etm
+
+것같은
+	것/nbn+같/xsmn+은/etm
+
+공간이잖아요~
+	공간/ncn+이/jp+잖아요/ef+~/sd
+
+
+운이좋아
+	운이좋아/ncn
+
+텔레비젼에서만
+	텔레비젼/ncn+에서/jca+만/jxc
+
+보던
+	보/px+던/etm
+
+배우들을
+	배우/ncn+들/ncn+을/jco
+
+실제로만난다고
+	실제로만난다/ncn+이/jp+고/ecc
+
+생각하면
+	생각/ncpa+하/xsva+면/ecs
+
+그날
+	그날/ncn
+
+하루의
+	하루/ncn+의/jcm
+
+기분이
+	기분/ncn+이/jcc
+
+살짝
+	살짝/mag
+
+좋을
+	좋/paa+을/etm
+
+것
+	것/nbn
+
+같기도
+	같/paa+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그것도
+	그것/npd+도/jxc
+
+누구냐에
+	누구냐/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+다르겠지만요~~
+	다르/paa+겠/ep+지/ecs+만요/jxc+~/sd+~/sd
+
+
+그러고보니
+	그러/pvd+고/ecx+보/px+니/ecs
+
+공식적으로는
+	공식/ncn+적/ncn+으로/jca+는/jxc
+
+방송국이라는데를
+	방송국/ncn+이/jp+라/ef+는/etm+데/nbn+를/jco
+
+난생처음으로
+	난생/ncn+처음/ncn+으로/jca
+
+견학하게
+	견학/ncpa+하/xsva+게/ecs
+
+된
+	되/pvg+ㄴ/etm
+
+셈인데요~
+	셈인데요/ncn+~/sd
+
+
+로비로
+	로비/ncn+로/jca
+
+들어오니
+	들/pvg+어/ecx+오/px+니/ecs
+
+수많은
+	수많/paa+은/etm
+
+KBS
+	KBS/f
+
+드라마를
+	드라마/ncn+를/jco
+
+촬영했을
+	촬영/ncpa+하/xsva+었/ep+을/etm
+
+방송용
+	방송/ncpa+용/ncn
+
+카메라가
+	카메라/ncn+가/jcs
+
+젤
+	젤/ncn
+
+먼저
+	먼저/mag
+
+눈에
+	눈/ncn+에/jca
+
+띄더군요~
+	띄/pvg+더군/ef+요/jxf+~/sd
+
+
+'불멸의
+	'/sr+불멸/ncpa+의/jcm
+
+이순신'에서
+	이순신'/ncn+에서/jca
+
+실제로
+	실제로/mag
+
+사용된
+	사용/ncpa+되/xsvn+ㄴ/etm
+
+거북선도
+	거북/ncn+선/ncn+도/jxc
+
+보이구요~
+	보이구요/ncn+~/sd
+
+
+과거
+	과거/ncn
+
+KBS드라마를
+	KBS/f+드라마/ncn+를/jco
+
+풍미했던
+	풍미/ncpa+하/xsva+었/ep+던/etm
+
+'
+	'/sr
+
+풀하우스'나
+	풀하우스'/ncn+나/jcj
+
+작년
+	작년/ncn
+
+한
+	한/nnc
+
+해
+	하/pvg+어/ecx
+
+가장
+	가장/mag
+
+인기가
+	인기/ncn+가/jcs
+
+많았던
+	많/paa+아/ep+ㄴ/etm
+
+'제빵왕
+	'/sr+제빵/ncpa+왕/ncr
+
+김탁구'까지
+	김탁구'까지/ncn
+
+익숙한
+	익숙/ncps+하/xsms+ㄴ/etm
+
+포스터들도
+	포스터/ncn+들/ncn+도/jxc
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+과거
+	과거/ncn
+
+KBS드라마에서
+	KBS/f+드라마/ncn+에서/jca
+
+대상을
+	대상/ncn+을/jco
+
+받은
+	받/pvg+은/etm
+
+배우들은
+	배우/ncn+들/ncn+은/jxc
+
+대형
+	대형/ncn
+
+브로마이드로
+	브로마이드/ncn+로/jca
+
+명예의
+	명예/ncn+의/jcm
+
+전당에
+	전당/ncn+에/jca
+
+올려져
+	올리/pvg+어/ecx+지/px+어/ecx
+
+있기도
+	있/px+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+'크로마키
+	'크로마키/ncn
+
+체험관'에서는
+	체험/ncpa+관/ncn+'/sr+에서/jca+는/jxc
+
+'오늘의
+	'/sr+오늘/ncn+의/jcm
+
+날씨예보'를
+	날씨예보/ncn+'/sr+를/jco
+
+해보면
+	하/pvg+어/ecx+보/px+면/ecs
+
+어떨까요
+	어떨까요/ncn
+
+??
+	?/sf+?/sf
+
+
+실내
+	실내/ncn
+
+세트장으로
+	세트/ncn+장/ncn+으로/jca
+
+들어오니
+	들/pvg+어/ecx+오/px+니/ecs
+
+천정에
+	천정/ncn+에/jca
+
+얼마나
+	얼마나/mag
+
+많은
+	많/paa+은/etm
+
+조명들이
+	조명/ncpa+들/xsncc+이/jcc
+
+매달려
+	매달리/pvg+어/ecx
+
+있는지요~
+	있/paa+는지요/ef+~/sd
+
+
+아침드라마
+	아침드라마/ncn
+
+'사랑하길
+	'사랑하길/ncn
+
+잘했어'가
+	잘하/pvg+었/ep+어/ef+'/sr+가/jcc
+
+촬영되고
+	촬영/ncpa+되/xsvn+고/ecc
+
+있다고
+	있/px+다/ef+고/jcr
+
+해요~
+	하/pvg+어요/ef+~/sd
+
+
+사진을
+	사진/ncn+을/jco
+
+찍을
+	찍/pvg+을/etm
+
+당시엔
+	당시/ncn+엔/jca
+
+조명이
+	조/nnc+명/nbu+이/jcc
+
+없어서
+	없/paa+어서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+엄청난
+	엄청나/paa+ㄴ/etm
+
+부자집의
+	부자/ncn+집/ncn+의/jcm
+
+세트장도
+	세트/ncn+장/ncn+도/jxc
+
+그저
+	그저/mag
+
+평범해보이더라구요~
+	평범/ncps+하/xsms+어/ecx+보이/px+더라구/ef+요/jxf+~/sd
+
+
+드라마갤러리로
+	드라마/ncn+갤러리/ncn+로/jca
+
+옮기면
+	옮기/pvg+면/ecs
+
+익숙한
+	익숙/ncps+하/xsms+ㄴ/etm
+
+드라마의
+	드라마/ncn+의/jcm
+
+주인공들이
+	주인공/ncn+들/ncn+이/jcc
+
+대형브로마이드나
+	대형브로마이드/ncn+나/jcj
+
+과거
+	과거/ncn
+
+대상의
+	대상/ncn+의/jcm
+
+주인공들은
+	주인공/ncn+들/ncn+은/jxc
+
+두상으로
+	두/ncn+상/xsncc+으로/jca
+
+빚은
+	빚/ncn+은/jxc
+
+조각상들이
+	조각/ncn+상/ncn+들/xsncc+이/jcc
+
+진열되어
+	진열/ncpa+되/xsvn+어/ecx
+
+있어요~
+	있/paa+어요/ef+~/sd
+
+
+실내세트장에서
+	실내/ncn+세트/ncn+장/ncn+에서/jca
+
+빠져나와
+	빠지/pvg+어/ecx+나/px+아/ecx+오/px+아/ecx
+
+드라마야외세트장으로
+	드라마/ncn+야외/ncn+세트/ncn+장/ncn+으로/jca
+
+나가봅니다
+	나가/pvg+아/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+드라마
+	드라마/ncn
+
+야외세트장은
+	야외/ncn+세트/ncn+장/ncn+은/jxc
+
+1890년대부터
+	1890/nnc+년대/nbu+부터/jxc
+
+1960년대까지
+	1960/nnc+년대/nbu+까지/jxc
+
+시대물
+	시대/ncn+물/ncn
+
+드라마의
+	드라마/ncn+의/jcm
+
+주
+	주/nbu
+
+무대가
+	무대/ncn+가/jcs
+
+되는
+	되/pvg+는/etm
+
+주요
+	주요/ncps
+
+거리
+	거리/ncn
+
+모습을
+	모습/ncn+을/jco
+
+재현
+	재현/ncpa
+
+한
+	하/pvg+ㄴ/etm
+
+것인데요,명동
+	것인데요,명동/ncn
+
+진고개,
+	진고개/ncn+,/sp
+
+러시아
+	러시아/ncn
+
+영사관,
+	영사관/ncn+,/sp
+
+일본
+	일/nnc+본/nbu
+
+공사관,
+	공사관/ncn+,/sp
+
+우리나라
+	우리나라/ncn
+
+최초의
+	최초/ncn+의/jcm
+
+극장인
+	극장/ncn+이/jp+ㄴ/etm
+
+동양극장,
+	동양극장/ncn+,/sp
+
+염천교,
+	염천/ncn+교/ncn+,/sp
+
+종로
+	종/ncn+로/jca
+
+전차길,
+	전차/ncn+길/ncn+,/sp
+
+
+그리고
+	그리고/maj
+
+일제
+	일제/ncn
+
+강점기에
+	강점기/ncn+에/jca
+
+많이
+	많/paa+이/xsa
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었던
+	있/paa+었/ep+던/etm
+
+일식
+	일/pvg+ㄹ/etm+식/nbn
+
+건물
+	건물/ncn
+
+등이
+	등/nbu+이/jcc
+
+재현되어있습니다
+	재현/ncpa+되/xsvn+어/ecx+있/px+습니다/ef
+
+.
+	./sf
+
+
+야외세트의
+	야외/ncn+세트/ncn+의/jcm
+
+경우
+	경우/ncn
+
+일반적으로
+	일반/ncn+적/ncn+으로/jca
+
+70~80%로
+	70/nnc+~/sd+80/nnc+%/su+로/jca
+
+실제보다
+	실제/ncn+보다/jca
+
+작게
+	작/paa+게/ecs
+
+제작
+	제작/ncpa
+
+되다보니
+	되다보니/ncn
+
+여기에
+	여기/npd+에/jca
+
+건립된
+	건립/ncpa+되/xsvn+ㄴ/etm
+
+세트들도
+	세트/ncn+들/ncn+도/jxc
+
+실제보다
+	실제/ncn+보다/jca
+
+작은
+	작/paa+은/etm
+
+규모로
+	규모/ncn+로/jca
+
+제작되었다고
+	제작/ncpa+되/xsvn+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+세트장은
+	세트/ncn+장/ncn+은/jxc
+
+약
+	약/ncn
+
+105동으로
+	105/nnc+동/nbu+으로/jca
+
+구성되어
+	구성/ncn+되/xsvn+어/ecx
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+반영구적으로
+	반영구/ncn+적/ncn+으로/jca
+
+사용
+	사용/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+다목적세트도
+	다목적/ncn+세트/ncn+도/jxc
+
+다수
+	다수/ncn
+
+있어
+	있/paa+어/ecs
+
+
+KBS가
+	KBS/f+가/jcc
+
+정밀한
+	정밀/ncps+하/xsms+ㄴ/etm
+
+고증에
+	고증/ncpa+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+건축한
+	건축/ncpa+하/xsva+ㄴ/etm
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+세트장의
+	세트/ncn+장/ncn+의/jcm
+
+하나라고
+	하나/nnc+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+촬영을
+	촬영/ncpa+을/jco
+
+하다보니
+	하/pvg+어다/ecx+보/px+니/ecs
+
+어느덧
+	어느덧/mag
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+저물려고
+	저물/pvg+려고/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+드라마세트장이야
+	드라마/ncn+세트/ncn+장/ncn+이야/jxc
+
+처음도
+	처음/mag+도/jxc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+방송국에
+	방송국/ncn+에/jca
+
+딸린
+	딸리/pvg+ㄴ/etm
+
+야외세트장이라는
+	야외/ncn+세트/ncn+장/ncn+이/jp+라/ef+는/etm
+
+점이
+	점/nbu+이/jcc
+
+조금
+	조금/mag
+
+새로웠네요~
+	새/ncn+롭/xsmn+었/ep+네요/ef+~/sd
+
+
+앞으로도
+	앞/ncn+으로/jca+도/jxc
+
+KBS드라마
+	KBS/f+드라마/ncn
+
+화이팅
+	화이팅/ncn
+
+하시길요~^^
+	하시길요/ncn+~/sd+^/sy+^/sy
+
+
+http://office.
+	http/f+:/sp+//sp+//sp+office/f+./sy
+
+kbs.
+	kbs/f+./sy
+
+co.
+	co/f+./sy
+
+kr/suwon/
+	kr/f+//sp+suwon/f+//sp
+
+
+(방문신청은
+	(/sl+방문/ncpa+신청/ncpa+은/jxc
+
+홈피에서
+	홈피/ncn+에서/jca
+
+가입하고
+	가입/ncpa+하고/jct
+
+신청하시면
+	신청/ncpa+하시/ncn+이/jp+면/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+주로
+	주로/mag
+
+촬영이
+	촬영/ncpa+이/jcc
+
+없는
+	없/paa+는/etm
+
+휴일에
+	휴일/ncn+에/jca
+
+가시면
+	가/px+시/ep+면/ecs
+
+좋겠지요^^)
+	좋겠지요/ncn+^/sy+^/sy+)/sr
+
+
+수원여행/수원KBS
+	수원여행/수원KBS/ncn
+
+드라마
+	드라마/ncn
+
+제작센터
+	제작/ncpa+센터/ncn
+
+(야외세트장)
+	(/sl+야외/ncn+세트/ncn+장/ncn+)/sr
+
+
+경기도
+	경기/ncn+도/jxc
+
+수원시
+	수원/ncn+시/ncn
+
+팔달구
+	팔달구/ncn
+
+인계동
+	인계/ncpa+동/ncn

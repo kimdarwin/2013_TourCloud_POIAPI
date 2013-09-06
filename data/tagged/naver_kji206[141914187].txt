@@ -1,0 +1,1211 @@
+전주여행:전주한옥마을과
+	전주/ncn+여행/ncpa+:/sp+전주/ncn+한옥/ncn+마을/ncn+과/jct
+
+인접한
+	인접/ncps+하/xsms+ㄴ/etm
+
+전통시장
+	전통/ncn+시장/ncn
+
+,남부시장
+	,/sp+남부/ncn+시장/ncn
+
+하늘정원,야시장
+	하늘/ncn+정원/ncn+,/sp+야시장/ncn
+
+
+전주,
+	전주/ncn+,/sp
+
+남부시장
+	남부/ncn+시장/ncn
+
+..
+	./sf+./sf
+
+
+전주한옥마을
+	전주/ncn+한옥/ncn+마을/ncn
+
+구경하며
+	구경/ncpa+하/xsva+며/ecc
+
+쉬엄쉬엄
+	쉬엄쉬엄/mag
+
+...
+	.../se
+
+
+풍남문까지
+	풍남문/ncn+까지/jxc
+
+오면
+	오/px+면/ecs
+
+만나게
+	만나/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+전주
+	전주/ncn
+
+전통시장이다
+	전통/ncn+시장/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+1894년까지
+	1894/nnc+년/nbu+까지/jxc
+
+전주
+	전주/ncn
+
+4대문에
+	4/nnc+대/xsnu+문/nbu+에/jca
+
+장터가
+	장터/ncn+가/jcs
+
+있었는데
+	있/px+었/ep+는데/ecs
+
+그후
+	그후/mag
+
+동,
+	동/nbu+,/sp
+
+북
+	북/mag
+
+장터는
+	장터/ncn+는/jxc
+
+활기를
+	활기/ncn+를/jco
+
+잃고
+	잃/pvg+고/ecc
+
+
+남문시장은
+	남문/ncn+시장/ncn+은/jxc
+
+현대화가
+	현대/ncn+화/ncn+가/jcs
+
+되어
+	되/pvg+어/ecx
+
+옛날의
+	옛날/ncn+의/jcm
+
+면면을
+	면면/ncn+을/jco
+
+이어가고
+	잇/pvg+어/ecx+가/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+남부시장도
+	남부/ncn+시장/ncn+도/jxc
+
+활성화
+	활성화/ncn
+
+바람으로
+	바라/pvg+ㅁ/etn+으로/jca
+
+가장
+	가장/mag
+
+눈에
+	눈/ncn+에/jca
+
+띄는건
+	띄는건/ncn
+
+깔끔한
+	깔끔/ncps+하/xsms+ㄴ/etm
+
+간판이었다
+	가/px+ㄴ/etm+판/nbn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+규격화된
+	규격화/ncn+되/xsvn+ㄴ/etm
+
+간판은
+	간판/ncn+은/jxc
+
+보면
+	보/px+면/ecs
+
+바로
+	바로/mag
+
+어떤
+	어떤/mmd
+
+상점인지
+	상점/ncn+이/jp+ㄴ지/ecs
+
+담박에
+	담박/ncn+에/jca
+
+알수
+	알/pvg+ㄹ/etm+수/nbn
+
+있도록
+	있/px+도록/ecs
+
+특징이
+	특징/ncn+이/jcc
+
+뚜렷하게
+	뚜렷/ncps+하/xsms+게/ecs
+
+만들어져
+	만들/pvg+어/ecx+지/px+어/ecx
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+시장활성화는
+	시장/ncn+활성화/ncn+는/jxc
+
+"문전성시"라는
+	"/sl+문전성시/ncn+"/sr+라는/jcm
+
+주제
+	주제/ncn
+
+아래
+	아래/ncn
+
+다양한
+	다양/ncn+한/ncn
+
+문화로
+	문화/ncn+로/jca
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+발길을
+	발길/ncn+을/jco
+
+머물게
+	머물/pvg+게/ecs
+
+만드는듯
+	만들/pvg+는/etm+듯/nbs
+
+프렌카드에서
+	프렌카드/ncn+에서/jca
+
+알수
+	알/pvg+ㄹ/etm+수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+오.
+	오/ii+./sf
+
+.
+	./sf
+
+
+양귀비
+	양귀비/ncn
+
+분식~~
+	분식/ncpa+~/sd+~/sd
+
+
+왠지
+	왠지/mag
+
+맛이
+	맛/ncn+이/jcc
+
+좋을것
+	좋/paa+을/etm+것/nbn
+
+같이
+	같/paa+이/xsa
+
+...
+	.../se
+
+
+유혹을
+	유혹/ncpa+을/jco
+
+받는다
+	받/pvg+는다/ef
+
+...
+	.../se
+
+
+시장통을
+	시장/ncn+통/ncn+을/jco
+
+빠져나오면
+	빠지/pvg+어/ecx+나/px+아/ecx+오/px+면/ecs
+
+바깥으로
+	바깥/ncn+으로/jca
+
+상가가
+	상가/ncn+가/jcs
+
+있는데
+	있/px+는데/ecs
+
+유심히
+	유심히/mag
+
+살펴보면
+	살피/pvg+어/ecx+보/px+면/ecs
+
+전주
+	전주/ncn
+
+3.1운동
+	3.1운동/ncn
+
+발상지라는
+	발상지/ncn+라는/jcm
+
+표지석을
+	표지석/ncn+을/jco
+
+발견할
+	발견/ncpa+하/xsva+ㄹ/etm
+
+수있다
+	수/nbn+있/xsmn+다/ef
+
+.
+	./sf
+
+
+1919년
+	1919/nnc+년/nbu
+
+3월
+	3/nnc+월/nbu
+
+13일
+	13/nnc+일/nbu
+
+정오
+	정오/ncn
+
+이곳에서
+	이곳/npd+에서/jca
+
+대한민국
+	대한/ncn+민국/ncn
+
+독립만세를
+	독립만세/ncn+를/jco
+
+목이
+	목/ncn+이/jcc
+
+터져라
+	트/pvg+어/ecx+지/px+어라/ef
+
+외쳤다
+	외치/pvg+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+고
+	고/mma
+
+적혀있다
+	적히/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+시장을
+	시장/ncn+을/jco
+
+벗어나
+	벗/pvg+어/ecx+나/px+아/ecx
+
+전주천으로
+	전주/ncn+천/ncn+으로/jca
+
+나오니,
+	나/pvg+아/ecx+오/px+니/ecs+,/sp
+
+생각밖의
+	생각/ncpa+밖/ncn+의/jcm
+
+귀여운
+	귀엽/paa+은/etm
+
+벽화를
+	벽화/ncn+를/jco
+
+만났다
+	만나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+하수구에
+	하수구/ncn+에/jca
+
+그려진
+	그리/pvg+어/ecx+지/px+ㄴ/etm
+
+저
+	저/mmd
+
+그림
+	그리/pvg+ㅁ/etn
+
+...
+	.../se
+
+
+가장
+	가장/mag
+
+"대박"이다
+	"/sl+대박/ncn+"/sr+이/jp+다/ef
+
+.
+	./sf
+
+
+자칫
+	자칫/mag
+
+소홀하고
+	소홀/ncps+하고/jct
+
+어두울수
+	어둡/paa+을/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+곳을
+	곳/ncn+을/jco
+
+아름답게
+	아름답/paa+게/ecs
+
+표현하였다
+	표현/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+징금다리에
+	징금다리/ncn+에/jca
+
+서서
+	서/pvg+어서/ecs
+
+전주향교
+	전주/ncn+향교/ncn
+
+방향으로
+	방향/ncn+으로/jca
+
+전주천을
+	전주/ncn+천/ncn+을/jco
+
+담아보았다
+	담/pvg+아/ecx+보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+파란
+	파랗/paa+은/etm
+
+하늘이
+	하늘/ncn+이/jcc
+
+마치
+	마치/mag
+
+뒤바뀐
+	뒤바뀌/pvg+ㄴ/etm
+
+듯
+	듯/nbn
+
+전주천이
+	전주/ncn+천/ncn+이/jcc
+
+파랗게
+	파랗/paa+게/ecs
+
+물들었다
+	물들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+다시,
+	다시,/ncn
+
+오늘의
+	오늘/ncn+의/jcm
+
+목적지인
+	목적지/ncn+이/jp+ㄴ/etm
+
+하늘정원으로
+	하늘/ncn+정원/ncn+으로/jca
+
+가는길,
+	가는길/ncn+,/sp
+
+
+이
+	이/mmd
+
+닭집
+	닭집/ncn
+
+줄을
+	줄/nbn+을/jco
+
+서서
+	서/pvg+어서/ecs
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+가마솥에서
+	가마솥/ncn+에서/jca
+
+튀겨
+	튀기/pvg+어/ecx
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+닭을
+	닭/ncn+을/jco
+
+기다리고
+	기다리/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+옆에
+	옆/ncn+에/jca
+
+난
+	나/px+ㄴ/etm
+
+길로
+	길/ncn+로/jca
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+하늘정원으로
+	하늘/ncn+정원/ncn+으로/jca
+
+이어진다
+	잇/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+"문화를
+	"/sl+문화/ncn+를/jco
+
+통한
+	통하/pvg+ㄴ/etm
+
+전통시장
+	전통/ncn+시장/ncn
+
+활성화
+	활성화/ncn
+
+시범사업"
+	시범사업/ncn+"/sr
+
+
+문전성시
+	문전성시/ncn
+
+프로젝트는
+	프로젝트/ncn+는/jxc
+
+
+전통시장
+	전통/ncn+시장/ncn
+
+본연의
+	본연/ncn+의/jcm
+
+정취와
+	정취/ncn+와/jcj
+
+소통의
+	소통/ncpa+의/jcm
+
+공간으로서
+	공간/ncn+으로서/jca
+
+특징을
+	특징/ncn+을/jco
+
+살리며
+	살/pvg+ㄹ/etm+리/nbn+이/jp+며/ecc
+
+
+고객과
+	고객/ncn+과/jcj
+
+주민들로
+	주민/ncn+들/ncn+로/jca
+
+전통시장이
+	전통/ncn+시장/ncn+이/jcc
+
+문전성시를
+	문전성시/ncn+를/jco
+
+이루게
+	이루/pvg+게/ecs
+
+하는
+	하/pvg+는/etm
+
+새로운
+	새롭/paa+은/etm
+
+전통시장
+	전통/ncn+시장/ncn
+
+활성화
+	활성화/ncn
+
+정책사업이다
+	정책사업/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+하늘정원은
+	하늘/ncn+정원/ncn+은/jxc
+
+남부시장의
+	남부/ncn+시장/ncn+의/jcm
+
+옥상정원을
+	옥상/ncn+정원/ncn+을/jco
+
+생기
+	생기/ncn
+
+발랄한
+	발랄/ncps+하/xsms+ㄴ/etm
+
+색다른
+	색다르/paa+ㄴ/etm
+
+문화공간으로
+	문화공간/ncn+으로/jca
+
+바꿨다
+	바꾸/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+차가웠던
+	차갑/paa+었/ep+던/etm
+
+낡은
+	낡/paa+은/etm
+
+시멘트
+	시멘트/ncn
+
+벽은
+	벽/ncn+은/jxc
+
+그림을
+	그림/ncn+을/jco
+
+그렸으며
+	그리/pvg+었/ep+으며/ecc
+
+설치작품으로
+	설치작품/ncn+으로/jca
+
+채워져
+	채우/pvg+어/ecx+지/px+어/ecs
+
+
+마치
+	마치/mag
+
+금방이라도
+	금방/mag+이라도/jxc
+
+기적소리를
+	기적소리/ncn+를/jco
+
+내며
+	내/pvg+며/ecc
+
+여행을
+	여행/ncpa+을/jco
+
+떠날듯한
+	뜨/pvg+어/ecx+나/px+ㄹ/etm+듯/nbs+하/xsms+ㄴ/etm
+
+분위기이다
+	분위기/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+에궁,,,
+	에궁/ncn+,/sp+,/sp+,/sp
+
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+그림에
+	그리/pvg+ㅁ/etn+에/jca
+
+누군가
+	누군가/npp
+
+장난으로
+	장난/ncn+으로/jca
+
+낙서를
+	낙서/ncn+를/jco
+
+....
+	.../se+./sf
+
+
+하늘정원에
+	하늘/ncn+정원/ncn+에/jca
+
+서면
+	서/pvg+면/ecs
+
+전주천과
+	전주/ncn+천/ncn+과/jcj
+
+남부시장
+	남부/ncn+시장/ncn
+
+통이
+	통/nbn+이/jcc
+
+내려다보인다
+	내려다보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+전망이
+	전망/ncn+이/jcc
+
+상당히
+	상당히/mag
+
+좋은
+	좋/paa+은/etm
+
+편이다
+	편/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+난간에서
+	난간/ncn+에서/jca
+
+전주천이
+	전주/ncn+천/ncn+이/jcc
+
+한눈에
+	한눈/ncn+에/jca
+
+내려다보인다
+	내려다보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+안쪽
+	알/pvg+ㄴ/etm+쪽/nbn
+
+보다
+	보다/mag
+
+바깥시장이
+	바깥/ncn+시장/ncn+이/jcc
+
+더
+	더/mag
+
+활성화
+	활성화/ncn
+
+된듯
+	되/pvg+ㄴ/etm+듯/nbs
+
+..
+	./sf+./sf
+
+
+활기가
+	활기/ncn+가/jcs
+
+넘친다
+	넘치/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+전주천은
+	전주/ncn+천/ncn+은/jxc
+
+숨길과
+	숨길/ncn+과/jct
+
+연결되어
+	연결/ncpa+되/xsvn+어/ecx
+
+한적하게
+	한적/ncps+하/xsms+게/ecs
+
+걷기
+	걷/pvg+기/etn
+
+좋은
+	좋/paa+은/etm
+
+길이다
+	길/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+하늘정원
+	하늘/ncn+정원/ncn
+
+한쪽에는
+	하/pvg+ㄴ/etm+쪽/nbn+에/jca+는/jxc
+
+남부시장
+	남부/ncn+시장/ncn
+
+리폼센터
+	리폼센터/ncn
+
+심심2
+	심심2/ncn
+
+와
+	오/pvg+아/ecx
+
+할머니
+	할머니/ncn
+
+공방
+	공방/ncn
+
+사무실이
+	사무실/ncn+이/jcc
+
+있으며
+	있/paa+으며/ecc
+
+
+노을
+	노/ncn+이/jp+ㄹ/etm
+
+빛이
+	빛/ncn+이/jcc
+
+비치는
+	비치/pvg+는/etm
+
+한컨에
+	한컨/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+색다른
+	색다르/paa+ㄴ/etm
+
+분위기를
+	분위기/ncn+를/jco
+
+즐길수
+	즐기/pvg+ㄹ/etm+수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+청년야시장
+	청년/ncn+야시장/ncn
+
+???
+	?/sf+?/sf+?/sf
+
+
+뭘까
+	뭘까/ncn
+
+
+문전성시
+	문전성시/ncn
+
+,
+	,/sp
+
+전통시장
+	전통/ncn+시장/ncn
+
+살리기
+	사/pvg+ㄹ/etm+리/nbn+이/jp+기/etn
+
+사업으로
+	사업/ncn+으로/jca
+
+2011년
+	2011/nnc+년/nbu
+
+전주
+	전주/ncn
+
+남부시장에서는
+	남부/ncn+시장/ncn+에서/jca+는/jxc
+
+"청년
+	"/sl+청년/ncn
+
+장사꾼
+	장사꾼/ncn
+
+만들기"
+	만들/pvg+기/etn+"/sl
+
+프로젝트로
+	프로젝트/ncn+로/jca
+
+
+3월~
+	3/nnc+월/nbu+~/sd
+
+12월까지
+	12/nnc+월/nbu+까지/jxc
+
+여러가지
+	여러/nnc+가지/nbu
+
+아이템중
+	아이템/ncn+중/ncn
+
+야시장을
+	야시장/ncn+을/jco
+
+개설하였다
+	개설/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+하늘
+	하늘/ncn
+
+정원
+	정원/ncn
+
+바로
+	바로/mag
+
+옆인데
+	옆/ncn+이/jp+ㄴ데/ecs
+
+
+10월에는
+	10/nnc+월/nbu+에/jca+는/jxc
+
+매주
+	매주/mag
+
+토요일
+	토요일/ncn
+
+마다
+	마다/ncpa
+
+청년
+	청년/ncn
+
+장사꾼들이
+	장사꾼/ncn+들/ncn+이/jcc
+
+직접
+	직접/mag
+
+만든
+	만들/pvg+ㄴ/etm
+
+물품부터
+	물품/ncn+부터/jxc
+
+안쓰는
+	안쓰/ncn+는/jxc
+
+물건까지
+	물건/ncn+까지/jxc
+
+종류를
+	종류/ncn+를/jco
+
+가리지
+	가리/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+나와서
+	나와/ncn+서/jca
+
+
+야시장을
+	야시장/ncn+을/jco
+
+형성하여
+	형성/ncpa+하/xsva+어/ecx
+
+물건을
+	물건/ncn+을/jco
+
+파는
+	팔/pvg+는/etm
+
+장판마켓이다
+	장판/ncn+마켓/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+저녁8시
+	저녁8시/ncn
+
+부터라고
+	부터/ncn+이/jp+라/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+...
+	.../se
+
+
+구경다니다가
+	구경다니다/ncn+가/jcs
+
+..
+	./sf+./sf
+
+
+나중에
+	나중/ncn+에/jca
+
+시장이
+	시장/ncn+이/jcc
+
+형성되면
+	형성/ncpa+되/xsvn+면/ecs
+
+와봐야지~~
+	오/pvg+아/ecx+보/px+아/ecs+~/sd+~/sd
+
+
+야시장이
+	야시장/ncn+이/jcc
+
+개설되는
+	개설/ncpa+되/xsvn+는/etm
+
+이층과
+	이/nnc+층/nbu+과/jcj
+
+일층으로
+	일/nnc+층/nbu+으로/jca
+
+연결
+	연결/ncpa
+
+되는
+	되/pvg+는/etm
+
+계단에는
+	계단/ncn+에/jca+는/jxc
+
+귀여운
+	귀엽/paa+은/etm
+
+벽화가
+	벽화/ncn+가/jcs
+
+있어
+	있/paa+어/ecs
+
+
+자칫
+	자칫/mag
+
+침체되는
+	침체/ncpa+되/xsvn+는/etm
+
+시장의
+	시장/ncn+의/jcm
+
+분위기를
+	분위기/ncn+를/jco
+
+더욱
+	더욱/mag
+
+밝게
+	밝/paa+게/ecs
+
+만들고
+	만들/pvg+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+남부시장
+	남부/ncn+시장/ncn
+
+야시장은
+	야시장/ncn+은/jxc
+
+다음편에~~
+	다음/ncn+편/ncn+에/jca+~/sd+~/sd
+
+
+남부시장
+	남부/ncn+시장/ncn
+
+
+전라북도
+	전라/ncn+북/ncn+도/jxc
+
+전주시
+	전주/ncn+시/ncn
+
+완산구
+	완산구/ncn
+
+전동
+	전동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01776224",
+	"bl01776224",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"13347498",
+	"/sl+13347498/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"남부시장",
+	title/f+:/sp+"/sl+남부/ncn+시장/ncn+"/sr+,/sp
+
+pointX:323096,pointY:357316}
+	pointX/f+:/sp+323096/nnc+,/sp+pointY/f+:/sp+357316/nnc+}/sr

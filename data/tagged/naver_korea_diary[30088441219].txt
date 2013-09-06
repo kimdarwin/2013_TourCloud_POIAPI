@@ -1,0 +1,781 @@
+재한유엔기념공원
+	재한/ncn+유엔/ncn+기념/ncpa+공원/ncn
+
+
+*위치:
+	*/sy+위치/ncn+:/sp
+
+부산
+	부산/ncps
+
+남구
+	남구/ncn
+
+대연4동
+	대연4동/ncn
+
+779번지
+	779번지/ncn
+
+
+*문의/안내:
+	*/sy+문/ncn+의/jcm+//sp+안내/ncpa+:/sp
+
+유엔기념공원
+	유엔/ncn+기념/ncpa+공원/ncn
+
+051-625-0625
+	051/nnc+-625/nnc+-0625/nnc
+
+
+이곳
+	이곳/npd
+
+재한유엔기념공원은
+	재한/ncn+유엔/ncn+기념/ncpa+공원/ncn+은/jxc
+
+한국전에서
+	한국전/ncn+에서/jca
+
+전사한
+	전사/ncn+한/ncn
+
+유엔군
+	유엔군/ncn
+
+전몰장병의
+	전몰/ncpa+장병/ncn+의/jcm
+
+고귀한
+	고귀/ncps+하/xsms+ㄴ/etm
+
+희생을
+	희생/ncpa+을/jco
+
+기리기
+	기리/pvg+기/etn
+
+위하여,
+	위하/pvg+어/ecs+,/sp
+
+1959년
+	1959/nnc+년/nbu
+
+대한민국과
+	대한/ncn+민국/ncn+과/jcj
+
+국제연합
+	국제연합/ncn
+
+간에
+	간/ncn+에/jca
+
+체결한
+	체결/ncpa+하/xsva+ㄴ/etm
+
+"재한국
+	"/sl+재한/ncn+국/ncn
+
+국제연합
+	국제연합/ncn
+
+기념묘지의
+	기념/ncpa+묘지/ncn+의/jcm
+
+설치
+	설치/ncpa
+
+및
+	및/maj
+
+유지를
+	유지/ncn+를/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+대한민국과
+	대한/ncn+민국/ncn+과/jcj
+
+국제연합간의
+	국제연합/ncn+간/ncn+의/jcm
+
+협정"에
+	협정/ncpa+"/sr+에/jca
+
+근거하여
+	근거/ncpa+하/xsva+어/ecx
+
+설치된
+	설치/ncpa+되/xsvn+ㄴ/etm
+
+기념묘지이다
+	기념/ncpa+묘지/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+묘지의
+	묘지/ncn+의/jcm
+
+설치를
+	설치/ncpa+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+한국정부는
+	한국정부/ncn+는/jxc
+
+묘지가
+	묘지/ncn+가/jcs
+
+설치된
+	설치/ncpa+되/xsvn+ㄴ/etm
+
+토지를
+	토지/ncn+를/jco
+
+무상으로
+	무상/ncn+으로/jca
+
+영구히
+	영구히/mag
+
+유엔에
+	유엔/ncn+에/jca
+
+기증하였으며,
+	기증/ncpa+하/xsva+었/ep+으며/ecc+,/sp
+
+협정에는
+	협정/ncpa+에/jca+는/jxc
+
+토지에
+	토지/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+불가침권을
+	불가침권/ncn+을/jco
+
+부여하고
+	부/ncn+이/jp+어/ef+하고/jcr
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+묘지의
+	묘지/ncn+의/jcm
+
+관리는,
+	관리/ncn+는/jxc+,/sp
+
+설치
+	설치/ncpa
+
+당시에는
+	당시/ncn+에/jca+는/jxc
+
+유엔
+	유엔/ncn
+
+사무총장이
+	사무총장/ncr+이/jcc
+
+한국에
+	한국/ncn+에/jca
+
+파견한
+	파견/ncpa+하/xsva+ㄴ/etm
+
+UNCURK
+	UNCURK/f
+
+대표를
+	대표/ncpa+를/jco
+
+통하여
+	통하/pvg+어/ecx
+
+관리를
+	관리/ncn+를/jco
+
+해왔으며,
+	하/pvg+어/ecx+오/px+아/ep+며/ecc+,/sp
+
+UNCURK가
+	UNCURK/f+가/jcc
+
+해체된
+	해체/ncpa+되/xsvn+ㄴ/etm
+
+1974년
+	1974/nnc+년/nbu
+
+2월
+	2/nnc+월/nbu
+
+16일에
+	16/nnc+일/nbu+에/jca
+
+그
+	그/mmd
+
+당시
+	당시/ncn
+
+유해가
+	유해/ncn+가/jcs
+
+안장된
+	안장/ncpa+되/xsvn+ㄴ/etm
+
+나라(한국
+	나라(한국/ncn
+
+포함
+	포함/ncpa
+
+11개국)들로
+	11개국)들/ncn+로/jca
+
+"유엔기념묘지
+	"/sl+유엔/ncn+기념/ncpa+묘지/ncn
+
+관리위원회"가
+	관리위원회/ncn+"/sr+가/jcc
+
+구성되었으며,
+	구성/ncn+되/xsvn+었/ep+으며/ecc+,/sp
+
+동
+	동/nbu
+
+위원회가
+	위원회/ncn+가/jcs
+
+관리
+	관리/ncpa
+
+책임자를
+	책임/ncn+자/ncn+를/jco
+
+임명하고
+	임명/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+한국전
+	한국전/ncn
+
+당시
+	당시/ncn
+
+대한민국의
+	대한/ncn+민국/ncn+의/jcm
+
+자유와
+	자유/ncn+와/jcj
+
+평화를
+	평화/ncn+를/jco
+
+지키기
+	지키/pvg+기/etn
+
+위해서,
+	위하/pvg+어서/ecs+,/sp
+
+군대를
+	군대/ncn+를/jco
+
+파견한
+	파견/ncpa+하/xsva+ㄴ/etm
+
+16개국과
+	16개국/ncn+과/jcj
+
+의료
+	의료/ncn
+
+지원단을
+	지원/ncpa+단/ncn+을/jco
+
+보낸
+	보내/pvg+ㄴ/etm
+
+5개국의
+	5개국/ncn+의/jcm
+
+용사들
+	용사/ncn+들/ncn
+
+중,
+	중/nbn+,/sp
+
+전사한
+	전사/ncn+한/ncn
+
+유엔군
+	유엔군/ncn
+
+전사장병의
+	전사/ncn+장병/ncn+의/jcm
+
+영혼이
+	영혼/ncn+이/jcc
+
+잠들어있는
+	잠들/pvg+어/ecx+있/px+는/etm
+
+성역으로,
+	성역/ncn+으로/jca+,/sp
+
+이
+	이/mmd
+
+곳
+	곳/ncn
+
+기념묘지에는
+	기념/ncpa+묘지/ncn+에/jca+는/jxc
+
+최초
+	최초/ncn
+
+11,000
+	11,000/nnc
+
+여명의
+	여명/ncn+의/jcm
+
+전사자가
+	전사자/ncn+가/jcs
+
+안장되어
+	안장/ncpa+되/xsvn+어/ecx
+
+있었으나,
+	있/px+었/ep+으나/ecs+,/sp
+
+그
+	그/mmd
+
+후
+	후/ncn
+
+유가족이나
+	유가족/ncn+이나/jcj
+
+본국
+	본국/ncn
+
+정부의
+	정부/ncn+의/jcm
+
+요청으로
+	요청/ncpa+으로/jca
+
+이장되어,
+	이장/ncr+되/xsvn+어/ecs+,/sp
+
+현재
+	현재/mag
+
+2,300
+	2,300/nnc
+
+기의
+	기/ncn+의/jcm
+
+유해가
+	유해/ncn+가/jcs
+
+안장되어
+	안장/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+기념묘지의
+	기념/ncpa+묘지/ncn+의/jcm
+
+면적은
+	면적/ncn+은/jxc
+
+14.39
+	14.39/nnc
+
+(약
+	(/sl+약/ncn
+
+45,000평)이며,
+	45,000/nnc+평/nbu+)/sr+이/jp+며/ecc+,/sp
+
+한국정부가
+	한국정부/ncn+가/jcs
+
+1978년에
+	1978/nnc+년/nbu+에/jca
+
+건립한
+	건립/ncpa+하/xsva+ㄴ/etm
+
+12m
+	12m/ncn
+
+높이의
+	높이/ncn+의/jcm
+
+유엔군
+	유엔군/ncn
+
+위령탑에는
+	위령탑/ncn+에/jca+는/jxc
+
+한국전에
+	한국전/ncn+에/jca
+
+파견된
+	파견/ncpa+되/xsvn+ㄴ/etm
+
+전투장비,
+	전투/ncpa+장비/ncpa+,/sp
+
+인원
+	인원/ncn
+
+규모,
+	규모/ncn+,/sp
+
+전사자
+	전사/ncn+이/jp+자/ecc
+
+현황이
+	현황/ncn+이/jcc
+
+동판에
+	동판/ncn+에/jca
+
+한글
+	한글/ncn
+
+및
+	및/maj
+
+영문으로
+	영문/ncn+으로/jca
+
+새겨져
+	새기/pvg+어/ecx+지/px+어/ecx
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+영국
+	영국/ncn
+
+정부가
+	정부/ncn+가/jcs
+
+주체가
+	주체/ncn+가/jcs
+
+되어
+	되/pvg+어/ecx
+
+건립한
+	건립/ncpa+하/xsva+ㄴ/etm
+
+영연방
+	영연방/ncn
+
+위령탑에는
+	위령탑/ncn+에/jca+는/jxc
+
+영연방
+	영연방/ncn
+
+국가의
+	국가/ncn+의/jcm
+
+전사자
+	전사/ncn+이/jp+자/ecc
+
+중
+	중/nbn
+
+시신을
+	시신/ncn+을/jco
+
+찾지
+	찾/pvg+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+그들의
+	그/npp+들/xsn+의/jcm
+
+고귀한
+	고귀/ncps+하/xsms+ㄴ/etm
+
+희생을
+	희생/ncpa+을/jco
+
+기리고
+	기/ncn+이/jp+리/ef+고/jcr
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그외
+	그외/mmd
+
+터어키(2),
+	터어키(2),/ncn
+
+그리스(1),
+	그리스(1),/ncn
+
+호주(1)의
+	호주(1)/ncn+의/jcm
+
+기념비가
+	기념비/ncn+가/jcs
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+*
+	*/sy
+
+6
+	6/nnc
+
+25
+	25/nnc
+
+동란
+	동란/ncn
+
+참전국
+	참전/ncpa+국/ncn
+
+1)
+	1/nnc+)/sr
+
+전투
+	전투/ncpa
+
+지원국(16개국)
+	지원국(16개국)/ncn
+
+-
+	-/sd
+
+미국,
+	미국,/ncn
+
+영국,
+	영국,/ncn
+
+터키,
+	터키,/ncn
+
+캐나다,
+	크/paa+어/ecx+나/px+다/ef+,/sp
+
+호주,
+	호주/ncn+,/sp
+
+프랑스,
+	프랑스,/ncn
+
+네덜란드,
+	네덜란드,/ncn
+
+뉴질랜드,
+	뉴질랜드,/ncn
+
+남아공,
+	남아공/ncn+,/sp
+
+콜롬비아,
+	콜롬비아,/ncn
+
+그리스,
+	그리스,/ncn
+
+태국,
+	태국,/ncn
+
+에티오피아,
+	에티오피아/ncn+,/sp
+
+필리핀,
+	필리핀,/ncn
+
+벨기에,
+	벨기에,/ncn
+
+룩셈부르크
+	룩셈부르크/ncn
+
+2)
+	2/nnc+)/sr
+
+의료
+	의료/ncn
+
+지원국(
+	지원국(/ncn
+
+5개국)
+	5개국)/ncn
+
+-
+	-/sd
+
+노르웨이,
+	노르웨이,/ncn
+
+덴마크,
+	덴마크,/ncn
+
+인도,
+	인도/ncpa+,/sp
+
+이탈리아,
+	이탈리아,/ncn
+
+스웨덴
+	스웨덴/ncn
+
+설치
+	설치/ncpa
+
+-
+	-/sd
+
+1951년
+	1951/nnc+년/nbu
+
+1월
+	1/nnc+월/nbu
+
+18일
+	18/nnc+일/nbu
+
+유엔군
+	유엔군/ncn
+
+사령부에
+	사령부/ncn+에/jca
+
+의거
+	의거/ncpa
+
+개성,
+	개성/ncn+,/sp
+
+인천,
+	인천,/ncn
+
+대전,
+	대전/ncpa+,/sp
+
+대구,
+	대구/ncn+,/sp
+
+밀양,
+	밀/pvg+ㄹ/etm+양/nbn+,/sp
+
+마산의
+	마산/ncn+의/jcm
+
+6개소의
+	6/nnc+개소/nbu+의/jcm
+
+묘지로부터
+	묘지/ncn+로/jca+부터/jxc
+
+유해가
+	유해/ncn+가/jcc
+
+
+이장됨과
+	이장/ncr+되/xsvn+ㅁ/etn+과/jct
+
+동시에
+	동시에/mag
+
+설치
+	설치/ncpa
+
+면적
+	면적/ncn
+
+-
+	-/sd
+
+43,615평
+	43,615/nnc+평/nbu
+
+(14.
+	(/sl+14./nnc
+
+39
+	39/nnc
+
+,
+	,/sp
+
+35.
+	35./nnc
+
+62에이커)
+	62에이커)/ncn
+
+묘지수
+	묘지/ncn+수/ncn
+
+-
+	-/sd
+
+2,300기
+	2,300/nnc+기/nbu
+
+
+기사내용
+	기사내용/ncn
+
+전체보기
+	전체/ncn+보기/ncn

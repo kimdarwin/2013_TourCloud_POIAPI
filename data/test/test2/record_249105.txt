@@ -1,0 +1,35 @@
+Title:
+8/4 근교 트레킹 - 청태산 산림욕 후기
+
+Date:
+2012.08.04
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(780277,'files/attach/images/64/105/249/3c3b65d59d452a044035b45607d8f141.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/16b83faf87d01e73305b4810bfef001f.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/888b2f959fcc130415af8d7aea2e2a3e.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/d638ed6a610cc0cfb09b571abe56e1e6.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/f546ec91bc64b9f9d178727a8618f0e7.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/adbed14d6f923debfe0abc5b35ec90bb.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/dfb2a35253646f43ea13246acae41205.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/45c5dc66efc40ee58c28cf5feef28d4b.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/2e6f5e865bb5ade80af551f46e6499da.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/595e5f4eb65f1cd9e9d35557d0026d7b.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/5810b2a4b9e75a0d67622fdf1eeb1fd8.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/139434e71a26717b706422ee57f20659.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/b50fda5e56e7708daf8989a11ea9ade2.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/195435ea633edf6bd17cf746efbf26b6.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/c8c7f6cae530f7dd992ded39724ccd96.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/f35cdb30a85098babad0247e0c082d0c.jpg');
+list_gallery_add_image(780277,'files/attach/images/64/105/249/f0ad84d1e0dbaa4c1bb2a8b6aad1de30.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 8월 4일(토) 강원도 횡성 청태산자연휴양림에 산림욕을 다녀왔습니다. 
+이번 여행은 근교 트레킹인데 여름휴가와 겹쳐 교통량이 많아 횡성까지 가는 시간이 무척 길었습니다. 여전히 날씨는 무덥고 도로까지 막혀 청태산휴양림에 평소보다 한 시간이 조금 더 넘게 걸려 도착하였습니다.
+청태산에 위치한 청태산자연휴양림은 천연림과 인공림이 울창하고 숲 관리도 잘 되어 있으며 시설이나 탐방로가 매우 훌륭합니다. 휴양림에 들어서면 지그재그로 놓인 나무데크를 따라 걷게 되는데 바깥 공기와는 차원이 다른 상쾌함이 느껴집니다. 며칠간 폭염으로 시달리던 서울 공기와는 차원이 다릅니다.
+이 탐방로가 끝나면 편안히 산책을 즐길 수 있는 임도를 택하여 걸을 수 있고 청태산 정상에 오른 후 능선을 타고 걷다가 정해진 등산로를 따라 다시 원점으로 돌아오는 산행 코스 그리고 숲에 쉬는 산림욕을 겸한 코스들로 본인의 취향에 맞게 선택할 수 있다는 점이 이곳 청태산자연휴양림의 큰 매력이죠.
+이번에는 의외로 많은 분들이 청태산 정상까지 오르셨습니다. 저도 정상까지 올랐는데 가을 하늘처럼 높은 하늘 그리고 맑은 구름과 탁 트인 풍경이 정말 좋았습니다. 답답했던 마음도, 열대야로 피곤했던 정신도 뻥 뚫리는 듯 바람까지 선선해서 오랜만에 기분도 상큼해진 느낌이었습니다.
+정상까지는 많은 분들이 함께 오르고 그 이후로는 능선을 따라 산행을 좀더 하시거나 아니면 숲 속에서 산림욕을 하며 편한 시간을 보냈습니다.
+청태산자연휴양림은 휴양림 내에서 보내는 시간을, 각자의 취향에 맞게 선택하여 코스를 구성할 수 있어 자유로움과 여유로움을 느끼시지 않았을까 싶습니다. 잠시였지만 숲 속에서 불어오던 싱그러운 바람, 졸졸 흐르는 시원한 계곡 소리 그리고 정상에서의 가슴 탁 트였던 풍경들로 폭염이 지속되는 여름 내내 떠올리게 될 듯합니다.
+오가는 동안 막히는 차 안에서 지루하셨을 텐데 참여 회원분들 모두 차분히 여행해 주셔서 고맙다는 말씀 드리며 내일 하루 잘 쉬시고 계속되는 폭염에 건강 유의하시기 바랍니다~이 게시물을...

@@ -1,0 +1,925 @@
+제주시
+	제주/ncn+시/ncn
+
+화북주공아파트
+	화북주공아파트/ncn
+
+어린이소공원
+	어린이소공원/ncn
+
+산책
+	산책/ncpa
+
+!!
+	!/sf+!/sf
+
+
+며칠동안
+	며칠/ncn+동안/ncn
+
+몸상태가
+	몸상태/ncn+가/jcs
+
+안
+	안/mag
+
+좋아
+	좋/paa+아/ecx
+
+집안에만
+	집안/ncn+에/jca+만/jxc
+
+있다가
+	있/paa+다가/ecc
+
+
+내가
+	나/npp+가/jcs
+
+살고
+	살/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+제주시
+	제주/ncn+시/ncn
+
+화북주공아파트
+	화북주공아파트/ncn
+
+어린이소공원으로
+	어린이소공원/ncn+으로/jca
+
+가벼운
+	가볍/paa+은/etm
+
+산책을
+	산책/ncpa+을/jco
+
+나섰다
+	나서/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+어젯까지
+	어젯까지/ncn
+
+하루종일
+	하루종일/ncn
+
+내리던
+	내리/pvg+던/etm
+
+비가
+	비/ncn+가/jcs
+
+그치자
+	그치/pvg+자/ecc
+
+오늘은
+	오늘/ncn+은/jxc
+
+북서쪽에서
+	북서쪽/ncn+에서/jca
+
+불어오는
+	불/pvg+어/ecx+오/px+는/etm
+
+찬
+	차/pvg+ㄴ/etm
+
+대륙성고기압이
+	대륙성고기압/ncn+이/jcc
+
+
+눈을
+	눈/ncn+을/jco
+
+뜰
+	뜨/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없을
+	없/paa+을/etm
+
+정도로
+	정도/ncn+로/jca
+
+세차게
+	세차/paa+게/ecs
+
+불어온다
+	불/pvg+어/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+눈발이
+	눈발/ncn+이/jcc
+
+날리면서
+	날리/pvg+면서/ecc
+
+손발이
+	손발/ncn+이/jcc
+
+시리고
+	시/nbu+이/jp+리/ef+고/jcr
+
+얼굴이
+	얼굴/ncn+이/jcc
+
+얼얼할
+	얼얼하/paa+ㄹ/etm
+
+정도이다
+	정도/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+어린이소공원으로
+	어린이소공원/ncn+으로/jca
+
+들어서자
+	들어서/pvg+자/ecc
+
+
+울창하게
+	울창/ncps+하/xsms+게/ecs
+
+자라는
+	자라/pvg+는/etm
+
+소나무가
+	소나무/ncn+가/jcs
+
+찬
+	차/pvg+ㄴ/etm
+
+바람을
+	바람/ncn+을/jco
+
+막아주어
+	막/pvg+아/ecx+주/px+어/ecx
+
+그나마
+	그나마/mag
+
+산책하기에
+	산책/ncpa+하/xsva+기/etn+에/jca
+
+괜찮을
+	괜찮/paa+을/etm
+
+정도이다
+	정도/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+추운
+	춥/paa+은/etm
+
+날씨에도
+	날씨/ncn+에/jca+도/jxc
+
+두터운
+	두텁/paa+은/etm
+
+외투를
+	외투/ncn+를/jco
+
+입고
+	입/pvg+고/ecc
+
+산책을
+	산책/ncpa+을/jco
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+몇몇
+	몇/nnc+몇/nnc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+집에서
+	집/ncn+에서/jca
+
+어린이소공원으로
+	어린이소공원/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+길은
+	길/nbu+은/jxc
+
+
+봄에는
+	보/px+ㅁ/etn+에/jca+는/jxc
+
+벚꽃이
+	벚꽃/ncn+이/jcc
+
+흐드러지게
+	흐드러지/paa+게/ecs
+
+피어
+	피/pvg+어/ecx
+
+눈을
+	눈/ncn+을/jco
+
+즐겁게
+	즐겁/paa+게/ecs
+
+하는
+	하/pvg+는/etm
+
+길이다
+	길/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+벚나무가
+	벚나무/ncn+가/jcs
+
+심어진
+	심/pvg+어/ecx+지/px+ㄴ/etm
+
+길을
+	길/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+어린이소공원으로
+	어린이소공원/ncn+으로/jca
+
+들어서자
+	들어서/pvg+자/ecc
+
+.
+	./sf
+
+
+어디선가
+	어디선/ncn+가/jcs
+
+지저귀는
+	지저귀/pvg+는/etm
+
+새소리가
+	새소리/ncn+가/jcs
+
+들리고
+	들리/pvg+고/ecc
+
+
+붉은색
+	붉은색/ncn
+
+꽃이
+	꽃/ncn+이/jcc
+
+아주
+	아주/mag
+
+정열적인
+	정열/ncn+적/ncn+이/jp+ㄴ/etm
+
+동백꽃이
+	동백/ncn+꽃/ncn+이/jcc
+
+반갑게
+	반갑/paa+게/ecs
+
+맞이한다
+	맞이/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+소나무가
+	소나무/ncn+가/jcs
+
+울창하게
+	울창/ncps+하/xsms+게/ecs
+
+자라는
+	자라/pvg+는/etm
+
+땅에선
+	땅/ncn+에/jca+선/jxc
+
+봄이
+	보/px+ㅁ/etn+이/jcs
+
+오는
+	오/px+는/etm
+
+소리가
+	소리/ncn+가/jcs
+
+들린다
+	들리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+추운
+	춥/paa+은/etm
+
+날씨에도
+	날씨/ncn+에/jca+도/jxc
+
+파릇파릇
+	파릇파릇/mag
+
+새싹을
+	새싹/ncn+을/jco
+
+피운
+	피우/pvg+ㄴ/etm
+
+생명들이
+	생명/ncn+들/ncn+이/jcc
+
+봄을
+	보/px+ㅁ/etn+을/jco
+
+알리고
+	알리/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+발걸음을
+	발걸음/ncn+을/jco
+
+어린이놀이터로
+	어린이/ncn+놀이터/ncn+로/jca
+
+돌렸다
+	돌리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+날씨가
+	날씨/ncn+가/jcs
+
+추워
+	춥/paa+어/ecx
+
+노는
+	놀/pvg+는/etm
+
+아이들
+	아이/ncn+들/ncn
+
+모습이
+	모습/ncn+이/jcc
+
+보이지
+	보이/pvg+지/ecx
+
+않는다
+	않/px+는다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+어린이소공원
+	어린이소공원/ncn
+
+소나무
+	소나무/ncn
+
+숲
+	숲/ncn
+
+사이사이에는
+	사이사이/ncn+에는/jca
+
+
+지압보도와
+	지압/ncn+보도/ncpa+와/jcj
+
+철봉
+	철봉/ncn
+
+등여러
+	등/nbu+여/xsnu+이/jp+러/ecs
+
+종류의
+	종류/ncn+의/jcm
+
+체력단련시설들이
+	체력단련시설/ncn+들/ncn+이/jcc
+
+들어선
+	들어서/pvg+ㄴ/etm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+어린이소공원
+	어린이소공원/ncn
+
+한쪽에는
+	하/pvg+ㄴ/etm+쪽/nbn+에/jca+는/jxc
+
+제주
+	제주/ncn
+
+근.
+	근/mma+./sf
+
+현대사의
+	현대사/ncn+의/jcm
+
+최대
+	최대/ncn
+
+비극인
+	비극/ncn+인/ncn
+
+
+4.3사건
+	4.3/nnc+사/nnc+이/jp+건/ecc
+
+때
+	때/pvg+어/ecx
+
+순직한
+	순직/ncpa+하/xsva+ㄴ/etm
+
+경찰관
+	경찰/ncn+관/ncn
+
+순직비로
+	순직/ncpa+비/ncn+로/jca
+
+추정되는
+	추정/ncpa+되/xsvn+는/etm
+
+비석
+	비석/ncn
+
+4기가
+	4/nnc+기/nbu+가/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+순직비들은
+	순직/ncpa+비/ncn+들/xsncc+은/jxc
+
+화북주공아파트
+	화북주공아파트/ncn
+
+택지개발시부터
+	택지개발/ncn+시/ncn+부터/jxc
+
+이곳에
+	이곳/npd+에/jca
+
+모셔져
+	모시/pvg+어/ecx+지/px+어/ecx
+
+있는데,
+	있/paa+는데/ecs+,/sp
+
+
+이곳에
+	이곳/npd+에/jca
+
+있는
+	있/px+는/etm
+
+이유가
+	이유/ncn+가/jcs
+
+궁금하다
+	궁금/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+어린이소공원
+	어린이소공원/ncn
+
+둘레를
+	둘레/ncn+를/jco
+
+몇
+	몇/nnc
+
+바퀴
+	바퀴/nbu
+
+돌고
+	돌/nbu+고/jcj
+
+
+잠시
+	잠시/mag
+
+쉬다가
+	쉬/pvg+다가/ecs
+
+산책을
+	산책/ncpa+을/jco
+
+하려고
+	하/pvg+려고/ecs
+
+했는데,
+	하/px+었/ep+는데/ecs+,/sp
+
+눈발이
+	눈발/ncn+이/jcc
+
+거세고
+	걸/pvg+세/ef+고/jcr
+
+찬
+	차/pvg+ㄴ/etm
+
+바람이
+	바람/ncn+이/jcc
+
+불어
+	불어/ncn
+
+
+도저히
+	도저히/mag
+
+앉아
+	앉/pvg+아/ecx
+
+있지를
+	있/px+지를/ecs
+
+못하겠다
+	못하/px+겠/ep+다/ef
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+소나무아래
+	소나무/ncn+아래/ncn
+
+돌무더기들이
+	돌무더기/ncn+들/ncn+이/jcc
+
+쌓아진
+	쌓/pvg+아/ecx+지/px+ㄴ/etm
+
+
+양지바른
+	양지바르/paa+ㄴ/etm
+
+곳에는
+	곳/ncn+에/jca+는/jxc
+
+새봄을
+	새봄/ncn+을/jco
+
+맞아
+	맞/pvg+아/ecx
+
+새생명들이
+	새생명들/ncn+이/jcc
+
+움트며
+	움트/pvg+며/ecc
+
+자라고
+	자/nbn+이/jp+라/ef+고/jcr
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+자세히
+	자세히/mag
+
+보니
+	보/px+니/ecs
+
+고란초과의
+	고란/ncn+초과/ncpa+의/jcm
+
+상록
+	상록/ncn
+
+양치식물인
+	양치식물/ncn+이/jp+ㄴ/etm
+
+콩짜개덩굴과
+	콩짜개덩굴/ncn+과/jcj
+
+미나리아재비과의
+	미나리/ncn+아재/ncn+비/ncn+과의/jcm
+
+
+여러해살이풀인
+	여러해살이/ncn+풀/ncn+이/jp+ㄴ/etm
+
+개구리발톱
+	개구리/ncn+발톱/ncn
+
+등이
+	등/nbu+이/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+눈발이
+	눈발/ncn+이/jcc
+
+날리고
+	날리/pvg+고/ecc
+
+찬
+	차/pvg+ㄴ/etm
+
+바람이
+	바람/ncn+이/jcc
+
+거세게
+	거세/ncn+이/jp+게/ecs
+
+불지만
+	불/nbu+지만/jxc
+
+
+검은
+	걸/pvg+ㅁ/etn+은/jxc
+
+먹구름
+	먹구름/ncn
+
+사이로
+	사이/ncn+로/jca
+
+따스한
+	따스/ncps+하/xsms+ㄴ/etm
+
+겨울
+	겨울/ncn
+
+햇살이
+	햇살/ncn+이/jcc
+
+간간이
+	간간이/mag
+
+비춰
+	비추/pvg+어/ecx
+
+따스하다
+	따스/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+잰
+	재/pvg+ㄴ/etm
+
+걸음으로
+	걸/pvg+ㅁ/etn+으로/jca
+
+어린이소공원
+	어린이소공원/ncn
+
+몇
+	몇/nnc
+
+바퀴
+	바퀴/nbu
+
+돌고
+	돌/nbu+고/jcj
+
+
+정자와
+	정자/ncn+와/jcj
+
+간의의자가
+	간의의자/ncn+가/jcs
+
+놓인
+	놓이/pvg+ㄴ/etm
+
+곳에서
+	곳/ncn+에서/jca
+
+공원
+	공원/ncn
+
+풍경을
+	풍경/ncn+을/jco
+
+담았다
+	담/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+처음
+	처음/mag
+
+집을
+	집/ncn+을/jco
+
+나설
+	나서/pvg+ㄹ/etm
+
+때만해도
+	때만해/ncn+도/jxc
+
+몸이
+	몸/ncn+이/jcc
+
+오그라질
+	오그라질/ncn
+
+정도로
+	정도/ncn+로/jca
+
+춥더니만
+	춥/paa+더니/ecs+만/jxc
+
+
+어린이소공원을
+	어린이소공원/ncn+을/jco
+
+몇
+	몇/nnc
+
+바퀴돌고
+	바퀴/ncn+돌/ncn+고/jcj
+
+나니
+	나/npp+이/jp+니/ecs
+
+발바닥에
+	발바닥/ncn+에/jca
+
+열이
+	열/nnc+이/jcc
+
+날
+	나/px+ㄹ/etm
+
+정도이다
+	정도/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+소나무
+	소나무/ncn
+
+사이를
+	사이/ncn+를/jco
+
+비집고
+	비집/pvg+고/ecc
+
+따스한
+	따스/ncps+하/xsms+ㄴ/etm
+
+겨울
+	겨울/ncn
+
+햇살이
+	햇살/ncn+이/jcc
+
+내리길래
+	내리/pvg+길래/ecs
+
+한
+	하/pvg+ㄴ/etm
+
+장
+	장/nbu
+
+담고
+	담/pvg+고/ecc
+
+집으로
+	집/ncn+으로/jca
+
+...
+	.../se
+
+
+날씨가
+	날씨/ncn+가/jcs
+
+매섭게
+	매섭/paa+게/ecs
+
+춥지만
+	춥/paa+지/ecx+말/px+ㄴ/etm
+
+산책삼아
+	산책삼아/ncn
+
+어린이소공원
+	어린이소공원/ncn
+
+몇
+	몇/nnc
+
+바퀴
+	바퀴/nbu
+
+도니
+	돌/pvg+니/ecs
+
+기분은
+	기분/ncn+은/jxc
+
+아주
+	아주/mag
+
+그만이다
+	그만이/paa+다/ef
+
+.
+	./sf

@@ -1,0 +1,77 @@
+Title:
+돌아올순 없나요 . 디셈버(December) [아이리스OST]
+
+Date:
+2010.02.13 02:12
+
+Content:
+
+
+자꾸만 그대가 많이 그리워져요 사랑이 이렇게 아픈 줄 정말 몰랐었죠 
+.돌아올순 없나요 ...
+
+디셈버의 애절하면서도 가슴을 적시는 하모니와아이리스 영상이함께 어우러진가슴 울리는 곡.. '돌아올순 없나요'
+디셈버(December)의 타이틀 곡 ‘사랑 참…’ 그리고‘돌아올 순 없나요’ 는백지영의 ‘잊지 말아요’와 함께 
+아이리스 OST 대박이란 평가를 받은 곡 들이다
+
+
+돌아올순 없나요 . 디셈버(December) / 아이리스 OST 뮤직비디오
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc16/2010/02/13/986/031002136A0C433B91D3BB6813498B33809_ya3542_logo.jpg';
+	layout.playtime = '219.96';
+	var qsParam = {};
+	qsParam.vid = '47083A4BB17E05A62E51928155487839090E';
+	qsParam.inKey = 'V125850f70121ff8b9f4d8caabb05b377d125aa0faa5065020a459a0bfd4204a60b738caabb05b377d125';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_09395 = new VideoInfraUGCPlayer('ugcPlayer_09395' ,bean); 
+ugcPlayer_09395.drawPlayLayer(); 
+}
+
+
+
+디셈버 . 돌아올순 없나요 (가사)
+
+자꾸만 그대가 많이 그리워져요.사랑이 이렇게 아플줄 정말 몰랐었죠너무 사랑해서 그댈 떠나갔지만나의 가슴은 멈춰 있네요.아직 사랑하는데 많이 보고 싶은데그댄 내게 돌아올순 없나요사랑해 그댄 내겐 올순 없나요그대가 보고파서 죽을 것만 같은데내 가슴이 닳아서 아픔도 느낄 수 없어제발 돌아와줘요 사랑해요다시 올 것 같은데매일 기다리는데차마 내맘 감출수가 없네요.사랑해 그댄 내게 올순 없나요그대가 보고파서 죽을 것만 같은데내 가슴이 닳아서 아픔도 느낄 수 없어제발 돌아와줘요 사랑해요그댈 미친듯이 불러 보지만 (불러 보지만)슬픈 눈물만이 대답하네요미안해 그댈 많이 아프게 해서영원히 그대곁을 지켜주며 살께요내 심장이 다쳐서 사랑도 멈출 수 없죠그대 없이 나는 안되나봐요제발 돌아와줘요 사랑해요
+
+
+디셈버(December)
+
+
+
+아이리스 ost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+민초호야의 음악이야기
+
+
+
+	

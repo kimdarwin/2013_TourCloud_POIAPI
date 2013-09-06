@@ -1,0 +1,1220 @@
+홍콩
+	홍콩/ncn
+
+최대
+	최대/ncn
+
+번화가
+	번화가/ncn
+
+침사추이에
+	침사추이/ncn+에/jca
+
+위치한로얄퍼시픽호텔
+	위치한로얄퍼시픽호텔/ncn
+
+.
+	./sf
+
+
+구룡공원과
+	구룡공원/ncn+과/jct
+
+이어진
+	잇/pvg+어/ecx+지/px+ㄴ/etm
+
+길을
+	길/ncn+을/jco
+
+따라가면
+	따르/pvg+아/ecx+가/px+면/ecs
+
+황금빛의
+	황금빛/ncn+의/jcm
+
+건물이눈에
+	건물이눈/ncn+에/jca
+
+띈다
+	띄/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+로얄퍼시픽
+	로얄퍼시픽/ncn
+
+호텔이다
+	호텔/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+주소
+	주소/ncn
+
+:
+	:/sp
+
+33
+	33/nnc
+
+Canton
+	Canton/f
+
+Road,China
+	Road/f+,/sp+China/f
+
+Hong
+	Hong/f
+
+Kong
+	Kong/f
+
+City,Tsim
+	City/f+,/sp+Tsim/f
+
+Sha
+	Sha/f
+
+Tsui,
+	Tsui/f+,/sp
+
+Kowloon
+	Kowloon/f
+
+
+위치
+	위치/ncn
+
+:
+	:/sp
+
+구룡반도의
+	구룡반도/ncn+의/jcm
+
+침사추이
+	침사추/ncn+이/jcc
+
+쇼핑중심가인
+	쇼핑/ncpa+중심가/ncn+이/jp+ㄴ/etm
+
+캔톤
+	캔톤/ncn
+
+로드에
+	로드/ncn+에/jca
+
+위치
+	위치/ncn
+
+하고
+	하/pvg+고/ecc
+
+있어
+	있/px+어/ecx
+
+쇼핑가
+	쇼핑/ncpa+가/jcc
+
+까지
+	까/pvg+지/ecx
+
+걸어서
+	걷/pvg+어서/ecs
+
+다녀오는
+	다니/pvg+어/ecx+오/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+최고의
+	최고/ncn+의/jcm
+
+위치인
+	위치/ncn+이/jp+ㄴ/etm
+
+듯
+	듯/nbn
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+호텔
+	호텔/ncn
+
+앞에
+	앞/ncn+에/jca
+
+편의점
+	편의점/ncn
+
+등이
+	등/nbu+이/jcc
+
+바로
+	바로/mag
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+밤에
+	밤/ncn+에/jca
+
+출출할
+	출출/ncps+하/xsms+ㄹ/etm
+
+때
+	때/ncn
+
+슬슬
+	슬슬/mag
+
+걸어서
+	걷/pvg+어서/ecs
+
+편의점에서
+	편의점/ncn+에서/jca
+
+
+컵라면과
+	컵라면/ncn+과/jcj
+
+맥주를
+	맥주/ncn+를/jco
+
+사왔던
+	사/pvg+아/ecx+오/px+아/ep+ㄴ/etm
+
+기억이
+	기억/ncpa+이/jcc
+
+난다
+	나/px+ㄴ다/ef
+
+.
+	./sf
+
+
+객실
+	객실/ncn
+
+:28개의
+	:/sp+28/nnc+개/nbu+의/jcm
+
+스위트
+	스위트/ncn
+
+룸을
+	룸/ncn+을/jco
+
+포함한
+	포함/ncpa+하/xsva+ㄴ/etm
+
+674개의
+	674/nnc+개/nbu+의/jcm
+
+객실
+	객실/ncn
+
+보유
+	보유/ncpa
+
+.
+	./sf
+
+
+-
+	-/sd
+
+Hotel
+	Hotel/f
+
+wing(구관)
+	wing/f+(/sl+구관/ncn+)/sr
+
+Room
+	Room/f
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+(
+	(/sl
+
+로얄퍼시픽
+	로얄퍼시픽/ncn
+
+'메인'
+	'/sr+메인/ncn+'/sr
+
+또는
+	또는/maj
+
+'호텔'
+	'/sr+호텔/ncn+'/sr
+
+또는
+	또는/maj
+
+'구관'
+	'/sr+구관/ncn+'/sr
+
+으로
+	으/ncn+로/jca
+
+표현한다
+	표현/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+)
+	)/sr
+
+
+Room
+	Room/f
+
+크기
+	크/paa+기/etn
+
+(트윈)
+	(/sl+트윈/ncn+)/sr
+
+:
+	:/sp
+
+방의
+	방/ncn+의/jcm
+
+규모는
+	규모/ncn+는/jxc
+
+아담하다
+	아담/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+2인
+	2/nnc+이/jp+ㄴ/etm
+
+기준으로
+	기준/ncpa+으로/jca
+
+침대
+	침대/ncn
+
+두개와
+	두/nnc+개/nbu+와/jcj
+
+화장대,
+	화장/ncn+대/ncn+,/sp
+
+TV,
+	TV/f+,/sp
+
+냉장고,
+	냉장고/ncn+,/sp
+
+미니바
+	미니/ncn+바/ncn
+
+보유
+	보유/ncpa
+
+.
+	./sf
+
+
+Roomview
+	Roomview/f
+
+:
+	:/sp
+
+구룡공원을
+	구룡공원/ncn+을/jco
+
+바라
+	바라/pvg+아/ecx
+
+보고
+	보/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+Room
+	Room/f
+
+컨디션
+	컨디션/ncn
+
+:
+	:/sp
+
+전체적으로
+	전체/ncn+적/ncn+으로/jca
+
+3인이
+	3/nnc+인/nbu+이/jcc
+
+묵기에는
+	묵/pvg+기/etn+에/jca+는/jxc
+
+작은
+	작/paa+은/etm
+
+크기이다
+	크/paa+기/etn+이/jp+다/ef
+
+.
+	./sf
+
+
+룸은
+	룸/ncn+은/jxc
+
+깨끗하다
+	깨끗/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+개인적
+	개/nbu+이/jp+ㄴ/etm+적/nbn
+
+생각으로
+	생각/ncpa+으로/jca
+
+1급(
+	1/nnc+급/xsnu+(/sl
+
+)
+	)/sr
+
+정도의
+	정도/ncn+의/jcm
+
+
+수준
+	수준/ncn
+
+.
+	./sf
+
+
+-
+	-/sd
+
+Tower
+	Tower/f
+
+wing(신관)
+	wing/f+(/sl+신관/ncn+)/sr
+
+Room
+	Room/f
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+(
+	(/sl
+
+로얄퍼시픽
+	로얄퍼시픽/ncn
+
+'타워'
+	'/sr+타워/ncn+'/sr
+
+또는
+	또는/maj
+
+'신관'
+	'/sr+신관/ncn+'/sr
+
+으로
+	으/ncn+로/jca
+
+표현한다
+	표현/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+)
+	)/sr
+
+
+Room
+	Room/f
+
+크기
+	크/paa+기/etn
+
+(트윈)
+	(/sl+트윈/ncn+)/sr
+
+:호텔윙
+	:/sp+호텔/ncn+윙/ncn
+
+보다룸의
+	보다룸/ncn+의/jcm
+
+크기가
+	크/paa+기/etn+가/jcs
+
+크다
+	크/paa+다/ef
+
+.
+	./sf
+
+
+2인
+	2/nnc+이/jp+ㄴ/etm
+
+기준으로
+	기준/ncpa+으로/jca
+
+침대
+	침대/ncn
+
+두개와
+	두/nnc+개/nbu+와/jcj
+
+화장대,
+	화장/ncn+대/ncn+,/sp
+
+TV,
+	TV/f+,/sp
+
+냉장고,
+	냉장고/ncn+,/sp
+
+미니바
+	미니/ncn+바/ncn
+
+보유
+	보유/ncpa
+
+.
+	./sf
+
+
+전자금고가
+	전자/ncn+금고/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+(없는
+	(/sl+없/paa+는/etm
+
+방도
+	방/ncn+도/jxc
+
+있으니,
+	있/px+으니/ecs+,/sp
+
+체크인
+	체크인/ncn
+
+시
+	시/nbu
+
+확인)
+	확인/ncpa+)/sr
+
+
+엑스트라베드가
+	엑스트라/ncn+베드/ncn+가/jcs
+
+들어가도
+	들/pvg+어/ecx+가/px+아/ecs
+
+될
+	되/pvg+ㄹ/etm
+
+정도의
+	정도/ncn+의/jcm
+
+크기
+	크/paa+기/etn
+
+.
+	./sf
+
+
+3인이
+	3/nnc+인/nbu+이/jcc
+
+묵어도
+	묵/pvg+어도/ecs
+
+문제
+	문제/ncn
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+'트리플
+	'트리플/ncn
+
+룸(
+	룸(/ncn
+
+싱글베드
+	싱글/ncn+베드/ncn
+
+3개)'
+	3/nnc+개/nbu+)/sr+'/sr
+
+이
+	이/mmd
+
+따로
+	따로/mag
+
+있으니,
+	있/px+으니/ecs+,/sp
+
+3인일
+	3/nnc+인/nbu+이/jp+ㄹ/etm
+
+경우
+	경우/ncn
+
+체크인
+	체크인/ncn
+
+시
+	시/nbu
+
+요청
+	요청/ncpa
+
+.
+	./sf
+
+
+Roomview
+	Roomview/f
+
+:
+	:/sp
+
+Victoria
+	Victoria/f
+
+Hobour
+	Hobour/f
+
+쪽
+	쪽/nbn
+
+뷰.
+	뷰./ncn
+
+하버뷰인
+	하버뷰/ncn+이/jp+ㄴ/etm
+
+방이
+	방/ncn+이/jcc
+
+있고
+	있/px+고/ecc
+
+그렇지
+	그렇/pad+지/ecx
+
+않은
+	않/px+은/etm
+
+방이
+	방/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+Room
+	Room/f
+
+컨디션
+	컨디션/ncn
+
+:
+	:/sp
+
+3인이
+	3/nnc+인/nbu+이/jcc
+
+묵기에도
+	묵/pvg+기/etn+에/jca+도/jxc
+
+적당하다
+	적당/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+룸과
+	룸/ncn+과/jcj
+
+복도가
+	복도/ncn+가/jcs
+
+구관보다
+	구관/ncn+보다/jca
+
+깨끗하다
+	깨끗/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+개인적
+	개/nbu+이/jp+ㄴ/etm+적/nbn
+
+생각으로
+	생각/ncpa+으로/jca
+
+준특급(
+	준특급(/ncn
+
+)
+	)/sr
+
+정도의
+	정도/ncn+의/jcm
+
+수준
+	수준/ncn
+
+.
+	./sf
+
+
+모든
+	모든/mma
+
+컨디션은
+	컨디션/ncn+은/jxc
+
+호텔윙보다
+	호텔/ncn+윙/ncn+보다/jca
+
+타워윙이
+	타워/ncn+윙/ncn+이/jcc
+
+더
+	더/mag
+
+낫다
+	낫/paa+다/ef
+
+.
+	./sf
+
+
+자금
+	자금/ncn
+
+사정이
+	사정/ncn+이/jcc
+
+여유가
+	여유/ncn+가/jcs
+
+있다면
+	있/px+다면/ecs
+
+타워윙으로
+	타워/ncn+윙/ncn+으로/jca
+
+업그레이드
+	업그레이드/ncn
+
+해서
+	하/pvg+어서/ecs
+
+
+사용함이
+	사용/ncpa+하/xsva+ㅁ/etn+이/jcs
+
+좋을
+	좋/paa+을/etm
+
+듯
+	듯/nbn
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+-
+	-/sd
+
+부대시설
+	부대시설/ncpa
+
+사진
+	사진/ncn
+
+
+식당
+	식당/ncn
+
+:
+	:/sp
+
+Cafe
+	Cafe/f
+
+on
+	on/f
+
+the
+	the/f
+
+park
+	park/f
+
+(
+	(/sl
+
+위치:
+	위치/ncn+:/sp
+
+호텔윙
+	호텔/ncn+윙/ncn
+
+2층
+	2/nnc+층/nbu
+
+.
+	./sf
+
+
+월-일
+	월/nbu+-/sd+일/nnc
+
+6:30
+	6/nnc+:/sp+30/nnc
+
+am-10:00am
+	am-10:00am/ncn
+
+)
+	)/sr
+
+
+Safari
+	Safari/f
+
+bar
+	bar/f
+
+(위치:
+	(/sl+위치/ncn+:/sp
+
+타워윙
+	타워/ncn+윙/ncn
+
+로비
+	로비/ncn
+
+.
+	./sf
+
+
+일-목
+	일/nnc+-/sd+목/ncn
+
+4:00
+	4/nnc+:/sp+00/nnc
+
+pm
+	pm/f
+
+-
+	-/sd
+
+1:00
+	1/nnc+:/sp+00/nnc
+
+am
+	am/f
+
+/
+	//sp
+
+금-토,공휴일
+	금/ncn+-/sd+토/ncn+,/sp+공휴일/ncn
+
+4:00
+	4/nnc+:/sp+00/nnc
+
+pm
+	pm/f
+
+-
+	-/sd
+
+2:00
+	2/nnc+:/sp+00/nnc
+
+am
+	am/f
+
+)
+	)/sr
+
+
+비지니스룸
+	비지니스/ncn+룸/ncn
+
+(사진
+	(/sl+사/pvg+아/ecx+지/px+ㄴ/etm
+
+상단
+	상단/ncn
+
+왼쪽
+	왼쪽/ncn
+
+)
+	)/sr
+
+:
+	:/sp
+
+회의실
+	회의/ncn+이/jp+시/ep+ㄹ/etm
+
+렌탈,
+	렌탈,/ncn
+
+인터넷
+	인터넷/ncn
+
+(
+	(/sl
+
+위치:
+	위치/ncn+:/sp
+
+타워윙
+	타워/ncn+윙/ncn
+
+19층
+	19/nnc+층/nbu
+
+매일
+	매일/mag
+
+7:00
+	7/nnc+:/sp+00/nnc
+
+am
+	am/f
+
+-
+	-/sd
+
+11:00
+	11/nnc+:/sp+00/nnc
+
+pm
+	pm/f
+
+)
+	)/sr
+
+
+헬스클럽사우나
+	헬스클럽/ncn+사우나/ncn
+
+(사진
+	(/sl+사/pvg+아/ecx+지/px+ㄴ/etm
+
+하단
+	하단/ncn
+
+)
+	)/sr
+
+:
+	:/sp
+
+헬스
+	헬스/ncn
+
+장비,
+	장비/ncpa+,/sp
+
+사우나/스팀욕조,
+	사우나/ncn+//sp+스팀/ncn+욕조/ncn+,/sp
+
+자꾸지
+	자꾸지/ncn
+
+(
+	(/sl
+
+위치:
+	위치/ncn+:/sp
+
+타워윙
+	타워/ncn+윙/ncn
+
+11층
+	11/nnc+층/nbu
+
+)
+	)/sr
+
+
+운동기구는
+	운동기구/ncn+는/jxc
+
+24시간
+	24/nnc+시간/nbu
+
+개방
+	개방/ncpa
+
+.
+	./sf
+
+
+사우나스팀욕조는
+	사우나/ncn+스팀/ncn+욕조/ncn+는/jxc
+
+남/여
+	나/pvg+ㅁ/etn+//sp+여/ncn
+
+이용시간이
+	이용시간/ncn+이/jcc
+
+틀리다
+	틀리/pvg+다/ef
+
+.
+	./sf
+
+
+제공서비스
+	제공/ncpa+서비스/ncpa
+
+:
+	:/sp
+
+리무진
+	리무진/ncn
+
+셔틀
+	셔틀/ncn
+
+,
+	,/sp
+
+콘시어지
+	콘시어지/ncn
+
+서비스,
+	서비스/ncpa+,/sp
+
+투어데스크
+	투어/ncn+데스크/ncn
+
+,
+	,/sp
+
+환전,
+	환전/ncn+,/sp
+
+모닝콜,
+	모닝/ncn+콜/ncn+,/sp
+
+세탁,
+	세탁/ncpa+,/sp
+
+룸서비스
+	룸서비스/ncn
+
+등
+	등/nbn
+
+
+중국과
+	중국/ncn+과/jcj
+
+마카오
+	마카오/ncn
+
+페리
+	페리/ncn
+
+터널이
+	터널/ncn+이/jcc
+
+지하와
+	지하/ncn+와/jct
+
+연결되어
+	연결/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+공항에서
+	공항/ncn+에서/jca
+
+찾아가는
+	찾/pvg+아/ecx+가/px+는/etm
+
+길
+	길/ncn
+
+:
+	:/sp
+
+공항에서
+	공항/ncn+에서/jca
+
+A21
+	A21/ncn
+
+버스를
+	버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+침사추이
+	침사추/ncn+이/jcc
+
+역에서
+	역/ncn+에서/jca
+
+내린다
+	내리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+*
+	*/sy
+
+Travelphoto
+	Travelphoto/f
+
+byJang
+	byJang/f
+
+/
+	//sp
+
+WritePhoto
+	WritePhoto/f
+
+Edit
+	Edit/f
+
+by
+	by/f
+
+Jang
+	Jang/f
+
+
+*
+	*/sy
+
+자료출처:
+	자료/ncn+출처/ncn+:/sp
+
+로얄퍼시픽
+	로얄퍼시픽/ncn
+
+호텔
+	호텔/ncn
+
+홈페이지
+	홈페이지/ncn
+
+/
+	//sp
+
+롯데관광
+	롯데관광/ncn
+
+홈페이지
+	홈페이지/ncn
+
+
+담아가실
+	담/pvg+아/ecx+가/px+시/ep+ㄹ/etm
+
+때
+	때/ncn
+
+반드시
+	반드시/mag
+
+덧글
+	덧글/ncn
+
+남겨주세요
+	남기/pvg+어/ecx+주/px+세/ef+요/jxf
+
+!
+	!/sf

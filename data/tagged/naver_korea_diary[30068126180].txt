@@ -1,0 +1,447 @@
+울릉도
+	울릉/ncn+도/jxc
+
+유람선
+	유람선/ncn
+
+
+울릉도는
+	울릉도/ncn+는/jxc
+
+포항에서
+	포항/ncn+에서/jca
+
+세시간
+	세/nnc+시간/nbu
+
+반이면
+	반/ncn+이/jp+면/ecs
+
+닿는
+	닿/pvg+는/etm
+
+거리에
+	거리/ncn+에/jca
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+울릉도
+	울릉/ncn+도/jxc
+
+관광은
+	관광/ncpa+은/jxc
+
+육상관광과
+	육상/ncn+관광/ncpa+과/jcj
+
+해상관광
+	해상/ncn+관광/ncpa
+
+주변
+	주변/ncn
+
+섬관광으로
+	섬관광/ncn+으로/jca
+
+나누어
+	나누/pvg+어/ecx
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+강원도
+	강원/ncn+도/jxc
+
+동해시에서는
+	동해/ncn+시/ncn+에서/jca+는/jxc
+
+161Km,
+	161Km,/ncn
+
+경북
+	경북/ncn
+
+포항에서
+	포항/ncn+에서/jca
+
+217Km,
+	217Km,/ncn
+
+경북
+	경북/ncn
+
+후포에서
+	후포/ncn+에서/jca
+
+159Km
+	159Km/ncn
+
+떨어져
+	떨어지/pvg+어/ecx
+
+있는
+	있/paa+는/etm
+
+
+넓이
+	넓이/ncn
+
+73평방Km의
+	73평방Km/ncn+의/jcm
+
+화산섬으로,
+	화산섬/ncn+으로/jca+,/sp
+
+섬의
+	섬/ncn+의/jcm
+
+한가운데
+	한가운데/ncn
+
+우뚝
+	우뚝/mag
+
+솟은
+	솟/pvg+은/etm
+
+성인봉(984m)을
+	성인봉(984m)/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+
+해안선을
+	해안선/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+부락이
+	부락/ncn+이/jcc
+
+이루어져
+	이루/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+울릉도
+	울릉/ncn+도/jxc
+
+해안은
+	해안/ncn+은/jxc
+
+길이가
+	길이/ncn+가/jcs
+
+56.
+	56./nnc
+
+5Km
+	5Km/ncn
+
+정도로
+	정도/ncn+로/jca
+
+관광유람선으로
+	관광유람선/ncn+으로/jca
+
+한바퀴
+	한/nnc+바퀴/nbu
+
+돌아보는데
+	돌/pvg+아/ecx+보/px+ㄴ데/ecs
+
+2~3시간
+	2/nnc+~/sd+3/nnc+시간/nbu
+
+정도가
+	정도/ncn+가/jcs
+
+소요된다
+	소요/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+해상관광의
+	해상/ncn+관광/ncpa+의/jcm
+
+주요
+	주요/ncps
+
+포인트는
+	포인트/nbu+는/jxc
+
+서면
+	서/pvg+면/ecs
+
+학포의
+	학포/ncn+의/jcm
+
+만물상,
+	만물/ncn+상/xsncc+,/sp
+
+서면
+	서/pvg+면/ecs
+
+태하의
+	태하/ncn+의/jcm
+
+곰바위,
+	곰바위/ncn+,/sp
+
+
+북면
+	북면/ncpa
+
+현포리~천부리의
+	현포리~천부리/ncn+의/jcm
+
+송곳산이에요
+	송곳/ncn+산/ncn+이/jp+에요/ef
+
+.
+	./sf
+
+
+공암,
+	공암,/ncn
+
+삼선암,
+	삼선/ncpa+암/ncn+,/sp
+
+해식공이
+	해식공/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+관음도
+	관음/ncn+도/jxc
+
+등도
+	등/nbu+도/jxc
+
+해상관광시
+	해상/ncn+관광/ncpa+시/ncn
+
+자세히
+	자세히/mag
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+관광db
+	관광db/ncn
+
+자세히
+	자세히/mag
+
+보기
+	보기/ncn
+
+
+독도
+	독/ncn+도/jxc
+
+유람선
+	유람선/ncn
+
+관광
+	관광/ncpa
+
+
+우리나라
+	우리나라/ncn
+
+가장
+	가장/mag
+
+동쪽
+	동쪽/ncn
+
+끝에
+	끝/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+섬으로,
+	서/pvg+ㅁ/etn+으로/jca+,/sp
+
+동경
+	동경/ncn
+
+131도52,
+	131도52,/ncn
+
+북위
+	북위/ncn
+
+37도14에
+	37도14/ncn+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+비교적
+	비교/ncpa+적/ncn
+
+큰
+	크/paa+ㄴ/etm
+
+두
+	두/nnc
+
+개의
+	개/nbu+의/jcm
+
+섬과
+	서/pvg+ㅁ/etn+과/jct
+
+작은
+	작/paa+은/etm
+
+바위섬으로
+	바위섬/ncn+으로/jca
+
+이루어진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+화산섬이다
+	화산섬/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+바다제비,
+	바다/ncn+제비/ncn+,/sp
+
+슴새,
+	슴새,/ncn
+
+괭이갈매기
+	괭이갈매기/ncn
+
+등
+	등/nbu
+
+희귀한
+	희귀/ncn+한/ncn
+
+해조류들이
+	해조류/ncn+들/ncn+이/jcc
+
+살고
+	살/pvg+고/ecc
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+천연기념물
+	천연기념물/ncn
+
+제
+	저/npp+의/jcm
+
+336호로
+	336/nnc+호/nbu+로/jca
+
+지정
+	지정/ncpa
+
+보호되고
+	보호/ncpa+되/xsvn+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+동해의
+	동해/ncn+의/jcm
+
+맑은
+	맑/paa+은/etm
+
+바다와
+	바다/ncn+와/jcj
+
+외로이
+	외로이/ncn
+
+떠있는
+	뜨/pvg+어/ecx+있/px+는/etm
+
+섬과
+	서/pvg+ㅁ/etn+과/jcj
+
+해조류들이
+	해조류/ncn+들/ncn+이/jcc
+
+어우러져
+	어우러지/pvg+어/ecx
+
+매우
+	매우/mag
+
+아름다운
+	아름답/paa+은/etm
+
+섬이다
+	서/pvg+ㅁ/etn+이/jp+다/ef
+
+.
+	./sf
+
+
+관광db
+	관광db/ncn
+
+자세히
+	자세히/mag
+
+보기
+	보기/ncn

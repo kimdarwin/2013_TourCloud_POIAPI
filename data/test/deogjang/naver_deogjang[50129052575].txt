@@ -1,0 +1,71 @@
+Title:
+금주산 
+
+Date:
+2011.12.15 12:16
+
+Content:
+
+금주산[金珠山]
+위 치: 경기도 포천시 영중면에 있는 나지막한 산
+금주산은 서울에서 약2시간 내외에 있으면서 산 높이568.1m로 가족 등산하기에
+매우 적당한 산 이다 산행은 만세교나 금룡사 입구를 기점으로 하게되는데
+대중교통을 이용할경우는 만세교 승용차를 이용할경우 금룡사주차장을 이용하는것이
+편리합니다
+
+[매달두째 일요일은 옥수산악회 정기산행일]
+
+금주산은 산길이 비교적 짧아 초보자들에게 비교적 각광을 받는 산이다
+그렇다고 해서 다른 산에비해 그 즐거움이 덜한건아니다 정상에 서면 주위의 산들이 시야에 다
+들어오고 산중턱에 금룡사라는 절과 커다란 미륵불상이 자리하고있어 문화적 가치도 높은 산이다
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2011/12/15/916/03100323417353FE9FC3293A73757353AC5_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '153.169';
+	var qsParam = {};
+	qsParam.vid = '8E1214624BA4DA6E7314E3FF6B754702F274';
+	qsParam.inKey = 'V129ec528690c0fe8f72f6adfd10800810e81c7d5550bf05719507ebd1105bd7066626adfd10800810e81';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_06083 = new VideoInfraUGCPlayer('ugcPlayer_06083' ,bean); 
+ugcPlayer_06083.drawPlayLayer(); 
+}
+
+ 
+매달두째 일요일은 옥수산악회 회원님들이 모여 산행을 즐기는 날 입니다 
+올 한해도 무사히 보내게되어 신께 감사드릴뿐 입니다 
+회원여러분 남은시간 모든일 성취하시고 건강들하세요 
+ 
+ 
+
+
+
+
+
+	

@@ -1,0 +1,886 @@
+코펜하겐호텔/덴마크호텔/북유럽호텔
+	코펜하겐호텔/덴마크호텔/북유럽호텔/ncn
+
+
+코펜하겐
+	코펜하겐/ncn
+
+호텔
+	호텔/ncn
+
+중에서
+	중/nbn+에서/jca
+
+괜찮은
+	괜찮/paa+은/etm
+
+호텔
+	호텔/ncn
+
+하나
+	하나/nnc
+
+소개할게요
+	소개할게요/ncn
+
+.
+	./sf
+
+
+코펜하겐
+	코펜하겐/ncn
+
+중앙역에서
+	중앙/ncn+역/ncn+에서/jca
+
+도보로
+	도보/ncpa+로/jca
+
+닿을
+	닿/pvg+을/etm
+
+수
+	수/nbn
+
+있고,
+	있/px+고/ecc+,/sp
+
+친절한
+	친절/ncps+하/xsms+ㄴ/etm
+
+리셉션
+	리셉션/ncn
+
+직원들과
+	직원/ncn+들/ncn+과/jcj
+
+조식과
+	조식/ncpa+과/jcj
+
+석식
+	석/ncn+식/xsncc
+
+부페가
+	부페/ncn+가/jcs
+
+제공되는
+	제공/ncpa+되/xsvn+는/etm
+
+호텔은
+	호텔/ncn+은/jxc
+
+아마도
+	아마/mag+도/jxc
+
+HOTEL
+	HOTEL/f
+
+27
+	27/nnc
+
+하나뿐이지
+	하나/nnc+뿐/xsnx+이/jp+지/ecs
+
+않을까
+	않/px+을까/ef
+
+생각됩니다
+	생각/ncpa+되/xsvn+ㅂ니다/ef
+
+.
+	./sf
+
+
+물가가
+	물가/ncn+가/jcs
+
+워낙
+	워낙/mag
+
+센
+	세/paa+ㄴ/etm
+
+도시라
+	도시/ncn+이/jp+라/ecs
+
+조식과
+	조식/ncpa+과/jcj
+
+석식
+	석/ncn+식/xsncc
+
+제공은
+	제공/ncpa+은/jxc
+
+여행자에게
+	여행자/ncn+에게/jca
+
+굉장한
+	굉장/ncps+하/xsms+ㄴ/etm
+
+메리트일
+	메리트/ncn+이/jp+ㄹ/etm
+
+수밖에
+	수/nbn+밖에/jxc
+
+없는데요
+	없/paa+는데/ef+요/jxf
+
+.
+	./sf
+
+
+석식은
+	석/ncn+식/xsncc+은/jxc
+
+조식만큼
+	조식/ncpa+만큼/jxc
+
+화려하진
+	화/ncn+이/jp+리/ep+어/ecx+하/px+어/ecx+지/px+ㄴ/etm
+
+않지만,
+	않/px+지/ecx+말/px+ㄴ/etm+,/sp
+
+빵과
+	빵/ncn+과/jcj
+
+샐러드
+	샐러드/ncn
+
+과일을
+	과일/ncn+을/jco
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+이
+	이/mmd
+
+호텔에서는1년
+	호텔에서는1년/ncn
+
+365일
+	365/nnc+일/nbu
+
+하루
+	하루/ncn
+
+종일
+	종/ncn+이/jp+ㄹ/etm
+
+커피와
+	커피/ncn+와/jcj
+
+과일을
+	과일/ncn+을/jco
+
+1층
+	1/nnc+층/nbu
+
+식당에서
+	식당/ncn+에서/jca
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+코펜하겐
+	코펜하겐/ncn
+
+시내
+	시내/ncn
+
+어디든
+	어디/npd+든/jxc
+
+정보가
+	정보/ncn+가/jcs
+
+필요하면
+	필요/ncps+하/xsms+면/ecs
+
+리셉션으로
+	리셉션/ncn+으로/jca
+
+가세요,
+	가/px+세/ef+요/jxf+,/sp
+
+친절한
+	친절/ncps+하/xsms+ㄴ/etm
+
+직원들이
+	직원/ncn+들/ncn+이/jcc
+
+웃으며
+	웃/pvg+으며/ecc
+
+반겨주고,
+	반기/pvg+어/ecx+주/px+고/ecc+,/sp
+
+코펜하겐
+	코펜하겐/ncn
+
+지도
+	지/nbn+도/jxc
+
+뜯어서
+	뜯/pvg+어서/ecs
+
+상세하게
+	상세/ncps+하/xsms+게/ecs
+
+설명까지
+	설명/ncpa+까지/jxc
+
+해준답니다
+	하/pvg+어/ecx+주/px+ㄴ답니다/ef
+
+.
+	./sf
+
+
+칼스버그
+	칼스/ncn+버그/ncn
+
+공장
+	공장/ncn
+
+갔다오니까
+	갔다오/pvg+니까/ecs
+
+잘
+	잘/mag
+
+찾아
+	찾/pvg+아/ecx
+
+갔냐고
+	가/px+아/ep+냐/ef+고/jcr
+
+묻기까지
+	묻/pvg+기/etn+까지/jxc
+
+하더군요
+	하/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+참고로,HOTEL
+	참고/ncpa+로/jca+,/sp+HOTEL/f
+
+27에서1박을
+	27에서1박/ncn+을/jco
+
+하면
+	하/pvg+면/ecs
+
+핀에어
+	핀/ncn+에/jca+이/jp+어/ecs
+
+마일리지
+	마/ncn+이/jp+ㄹ/etm+리/nbn+이/jp+지/ecs
+
+500포인트를
+	500/nnc+포인트/nbu+를/jco
+
+얻거나,
+	얻/pvg+거나/ecc+,/sp
+
+70,000포인트로
+	70,000/nnc+포인트/nbu+로/jca
+
+1박을
+	1/nnc+박/nbu+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+*FREE
+	*/sy+FREE/f
+
+WI-FI
+	WI/f+-/sd+FI/f
+
+AVAILABLE
+	AVAILABLE/f
+
+IN
+	IN/f
+
+THE
+	THE/f
+
+ROOM
+	ROOM/f
+
+
+코펜하겐
+	코펜하겐/ncn
+
+아이스바
+	아이스/ncn+바/ncn
+
+바로
+	바로/mag
+
+옆에
+	옆/ncn+에/jca
+
+위치합니다
+	위치/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+문을
+	문/ncn+을/jco
+
+열고
+	열/pvg+고/ecc
+
+들어오니
+	들/pvg+어/ecx+오/px+니/ecs
+
+웰컴
+	웰컴/ncn
+
+초콜렛이
+	초콜렛/ncn+이/jcc
+
+책상에
+	책상/ncn+에/jca
+
+놓여
+	놓이/pvg+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+초콜렛
+	초콜렛/ncn
+
+보다
+	보/px+다/ef
+
+저
+	저/mmd
+
+통에
+	통/nbn+에/jca
+
+더
+	더/mag
+
+관심이
+	관심/ncn+이/jcc
+
+갑니다
+	가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+철통을
+	철통/ncn+을/jco
+
+모으는
+	모으/pvg+는/etm
+
+취미가
+	취미/ncn+가/jcs
+
+있거든요
+	있/px+거든/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+조식을
+	조식/ncpa+을/jco
+
+먹으러
+	먹/pvg+으러/ecs
+
+내려왔습니다
+	내리/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+음식도
+	음식/ncn+도/jxc
+
+음식이지만,
+	음식/ncn+이/jp+지만/ecs+,/sp
+
+아늑한
+	아늑/ncps+하/xsms+ㄴ/etm
+
+조명
+	조/nnc+명/nbu
+
+때문에
+	때문/nbn+에/jca
+
+아침
+	아침/ncn
+
+식사
+	식사/ncpa
+
+소화가
+	소화/ncn+가/jcs
+
+잘
+	잘/mag
+
+될
+	되/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+COFFEE,
+	COFFEE/f+,/sp
+
+HARD
+	HARD/f
+
+BOILED
+	BOILED/f
+
+EGG,
+	EGG/f+,/sp
+
+CORN
+	CORN/f
+
+FRAKE
+	FRAKE/f
+
+WITH
+	WITH/f
+
+YOGURT,
+	YOGURT/f+,/sp
+
+BREAD,
+	BREAD/f+,/sp
+
+CHEESE,
+	CHEESE/f+,/sp
+
+HAM,
+	HAM/f+,/sp
+
+FRUITS
+	FRUITS/f
+
+ECT.
+	ECT/f+./sy
+
+..
+	./sf+./sf
+
+
+후추통과
+	후추/ncn+통과/ncpa
+
+소금통
+	소금/ncn+통/ncn
+
+윗
+	윗/mma
+
+부분에
+	부분/ncn+에/jca
+
+이니셜이
+	이니셜/ncn+이/jcc
+
+아주
+	아주/mag
+
+귀엽습니다
+	귀엽/paa+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+호텔의
+	호텔/ncn+의/jcm
+
+장점
+	장점/ncn
+
+중
+	중/nbn
+
+하나인
+	하나/nnc+이/jp+ㄴ/etm
+
+무료
+	무료/ncn
+
+커피,
+	커피/ncn+,/sp
+
+하루에
+	하루/ncn+에/jca
+
+몇
+	몇/nnc
+
+잔이고
+	잔/nbu+이/jp+고/ecc
+
+마실
+	마시/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있게
+	있/px+게/ecs
+
+돼
+	되/pvg+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+저는
+	저/npp+는/jxc
+
+호텔을
+	호텔/ncn+을/jco
+
+나설
+	나서/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+꼭
+	꼭/mag
+
+한
+	하/pvg+ㄴ/etm
+
+잔
+	잔/nbu
+
+씩들고
+	씩들고/ncn
+
+나갔습니다
+	나/pvg+아/ecx+가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+덴마크의
+	덴마크/ncn+의/jcm
+
+비싼
+	비싸/paa+ㄴ/etm
+
+물가를
+	물가/ncn+를/jco
+
+살짝
+	살짝/mag
+
+비켜갈
+	비키/pvg+어/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+있었지요
+	있/px+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+제
+	저/npp+의/jcm
+
+방에서
+	방/ncn+에서/jca
+
+보이는
+	보이/pvg+는/etm
+
+코펜하겐
+	코펜하겐/ncn
+
+시청사
+	시청사/ncn
+
+건물
+	건물/ncn
+
+
+햇살이
+	햇살/ncn+이/jcc
+
+좋은
+	좋/paa+은/etm
+
+날,
+	날/ncn+,/sp
+
+방
+	방/ncn
+
+깊숙히
+	깊숙/ncps+히/xsas
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+들어왔습니다
+	들/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+검정과
+	검정/ncn+과/jcj
+
+빨강의
+	빨강/ncn+의/jcm
+
+조화가
+	조화/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+호텔
+	호텔/ncn
+
+27
+	27/nnc
+
+
+일하시는
+	일/ncpa+하/xsva+시/ep+는/etm
+
+분들의
+	불/pvg+ㄴ/etm+들/nbn+의/jcm
+
+유니폼이
+	유니폼/ncn+이/jcc
+
+검정색이고,
+	검정색/ncn+이/jp+고/ecc+,/sp
+
+리셉션은
+	리셉션/ncn+은/jxc
+
+빨강색입니다
+	빨강색/ncn+이/jp+ㅂ니다/ef
+
+
+코펜하겐에서
+	코펜하겐/ncn+에서/jca
+
+새벽
+	새벽/ncn
+
+3시면
+	3/nnc+시/nbu+이/jp+면/ecs
+
+여지없이
+	여지없이/mag
+
+일어나
+	일어나/pvg+아/ecx
+
+바라보던
+	바라/pvg+아/ecx+보/px+던/etm
+
+창밖
+	창밖/ncn
+
+풍경입니다
+	풍경/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+와인
+	와인/ncn
+
+카드를
+	카드/ncn+를/jco
+
+구입하면,
+	구입/ncpa+하/xsva+면/ecs+,/sp
+
+호텔에서
+	호텔/ncn+에서/jca
+
+그날그날
+	그날/ncn+그날/ncn
+
+제공되는
+	제공/ncpa+되/xsvn+는/etm
+
+우아한
+	우아/ncn+한/ncn
+
+와인바에서마실
+	와인바에서마/ncn+이/jp+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+HOTEL
+	HOTEL/f
+
+TWENTYSEVEN
+	TWENTYSEVEN/f
+
+
+저는
+	저/npp+는/jxc
+
+버스
+	버스/ncn
+
+기사의
+	기사/ncr+의/jcm
+
+실수로
+	실수/ncn+로/jca
+
+배낭
+	배낭/ncn
+
+메고
+	메/ncn+이/jp+고/ecc
+
+30분을
+	30/nnc+분/nbu+을/jco
+
+넘게
+	넘/pvg+게/ecs
+
+코펜하겐
+	코펜하겐/ncn
+
+골목
+	골목/ncn
+
+유랑을
+	유랑/ncpa+을/jco
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+돌고
+	돌/pvg+고/ecc
+
+보니,
+	보/px+니/ecs+,/sp
+
+코펜하겐
+	코펜하겐/ncn
+
+중앙역에서
+	중앙/ncn+역/ncn+에서/jca
+
+걸어서
+	걷/pvg+어서/ecs
+
+10분
+	10/nnc+분/nbu
+
+걸리더군요
+	것/nbn+이/jp+ㄹ/etm+리/nbn+이/jp+더군/ef+요/jxf
+
+.
+	./sf

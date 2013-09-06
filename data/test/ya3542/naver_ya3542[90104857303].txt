@@ -1,0 +1,84 @@
+Title:
+아름다운 영상.. i love you~포지션 
+
+Date:
+2011.01.19 02:09
+
+Content:
+
+
+i love you.. 아름다운 영상의슬픈이야기..
+
+
+포지션 ~ i love you (뮤직비디오)
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc24/2011/01/19/1610/03100223D18953AE00C3F941131684C3708_ya3542_logo.jpg';
+	layout.playtime = '532.899';
+	var qsParam = {};
+	qsParam.vid = '987F808B0B4A554AAFC946CFCB5B2E0C61AB';
+	qsParam.inKey = 'V12741d21940ea679f46881e760f310062bc7952d5e3ffd648ba1dac0d71f121ff7da81e760f310062bc7';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_04970 = new VideoInfraUGCPlayer('ugcPlayer_04970' ,bean); 
+ugcPlayer_04970.drawPlayLayer(); 
+}
+
+
+
+
+
+일본 여가수가 부른 '포지션' ~i love you ..(듣기)
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc24/2011/01/19/1244/03100223D18953AE01C33951538582F3442_ya3542_logo.jpg';
+	layout.playtime = '283.79';
+	var qsParam = {};
+	qsParam.vid = '99AA49C70850BFC6302C7F0CCCD89C1657BB';
+	qsParam.inKey = 'V125530e30bade9da9fe8b5a49e07bf3d685e6e7fb98ea0bdd02dc41c152c91144212b5a49e07bf3d685e';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_04107 = new VideoInfraUGCPlayer('ugcPlayer_04107' ,bean); 
+ugcPlayer_04107.drawPlayLayer(); 
+}
+
+ 
+
+
+
+포지션 ~ i love you (가사)
+
+I Love You 사랑한다는 이 말 밖에는 해줄 말이 없네요I Love You 의미없는 말이 되었지만 사랑해요이제와서 무슨 소용 있겠어요 다신 볼 순 없는 이별인데돌이킬 수 없는 걸 잘 알고 있지만 어떻게든 그댈 잡아두고 싶은걸..우~
+이 세상 아니라도 언젠가 우리 다시 만날텐데 눈물 한 방울도 보여선 안되겠죠사랑에 빠지게 만들었던 미소로 날 떠나요그 미소 하나로 언제라도 그대를 찾아낼 수 있게I Love You 기억하나요 처음 그대에게 느낀 그 떨림I Love You 오래 후에서야 내게 해준 그대 한 마디우리 사랑 안 될거라 생각했죠 너무나도 아름다웠기에돌아서려 했었던 내 앞에 그대는 꿈만 같은 사랑으로 다가왔었죠.. 후이세상 아니라도 언젠가 우리 다시 만날텐데눈물 한방울도 보여선 안되겟죠 사랑에 빠지게 만들었던 미소로 날 떠나요그 미소 하나로 언제라도 그대를 찾아낼 수 있게 
+언젠가 우리 다시 만나면 약속하나만 해요이렇게 아프게 너무 쉽게 헤어질 사랑하지 마요 
+
+
+포지션~ I Love You
+
+	

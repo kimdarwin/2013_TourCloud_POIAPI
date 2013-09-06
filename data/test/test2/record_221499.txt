@@ -1,0 +1,28 @@
+Title:
+5/26 노고단 트레킹 후기
+
+Date:
+2012.05.26
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(722293,'files/attach/images/64/499/221/a86730e828b1d26e379ac92283e4e0df.jpg');
+list_gallery_add_image(722293,'files/attach/images/64/499/221/17c6d04ff15f782ce812a894405a268c.jpg');
+list_gallery_add_image(722293,'files/attach/images/64/499/221/70e2e3d2d4442d63d4063a1f4a494675.jpg');
+list_gallery_add_image(722293,'files/attach/images/64/499/221/7806f4cec7320fc3a2d022be5ea6844d.jpg');
+list_gallery_add_image(722293,'files/attach/images/64/499/221/9cc1b2b65aeefc560c8309d6ebb763df.jpg');
+list_gallery_add_image(722293,'files/attach/images/64/499/221/1ee438d58dde2aa012b8a0e8be27333a.jpg');
+list_gallery_add_image(722293,'files/attach/images/64/499/221/e1cd26d49539779eab652f1db1f0234f.jpg');
+list_gallery_add_image(722293,'files/attach/images/64/499/221/3c12030e953d8b39727a2c0425dfdda3.jpg');
+list_gallery_add_image(722293,'files/attach/images/64/499/221/44331f45fe6ac7a4d53ce3d1866dda88.jpg');
+list_gallery_add_image(722293,'files/attach/images/64/499/221/472d049e53c638d470cd81c4cdb66c43.jpg');
+list_gallery_add_image(722293,'files/attach/images/64/499/221/3f3b1cd211449ecac9611bd5c5b3bb19.jpg');
+list_gallery_add_image(722293,'files/attach/images/64/499/221/6280eba7a8c3ba12688e0d00f32a145d.jpg');
+list_gallery_add_image(722293,'files/attach/images/64/499/221/6bc3cb7a8183bb6d61dcf8f5b155fb74.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+5월 26일(토), 아름다운 여행으로 지리산 노고단과 구례 천은사에 다녀왔습니다. 이번 여행은 연휴에 날씨도 좋아서 아침부터 교통정체에 시달려야 했습니다. 이른 아침부터 고속도로 정체가 시작되어 수도권을 빠져나가는데 애를 먹었습니다.
+첫 여행지인 노고단은 지리산의 서쪽 봉우리로, 지리산의 산신령인 노고할매에게 제사를 올리던 곳입니다. 성삼재 주차장에서 약 3km를 걸어 올라가야 합니다. 노고단 정상에서 사방을 굽어보는 전망이 빼어난 곳이죠. 이 날은 날이 좋아서 비교적 깨끗한 노고단의 조망을 즐길 수 있었습니다. 날이 더워서 걷기 힘들지 않을까 걱정했는데 워낙 고지대여서인지 그리 덥지도 않더군요.
+노고단의 시원한 풍경을 즐기고 다음 여행지인 천은사를 찾았습니다. 천은사는 샘이 숨은 절이라는 독특한 이름을 가진 절입니다. 그래서인지 물맛이 좋다고 알려진 절이죠. 하지만 저는 물맛보다 절의 차분한 분위기가 더 좋더군요. 언제 가도 차분하고 호젓한 절이죠. 이 천은사를 가볍게 돌아보는 것으로 여행을 마무리했습니다.
+이번 여행은 아침에 도로 정체가 심해서 시간이 좀 늦어졌습니다. 하지만 노고단의 시원한 풍경과 천은사의 차분한 분위기를 잘 즐길 수 있었던 여행이었습니다. 이번 여행에 참가하신 분들 모두 여행의 피로 잘 푸시고, 남은 연휴 알차게 보내시기 바랍니다~
+이 게시물을...

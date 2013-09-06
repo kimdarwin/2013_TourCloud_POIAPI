@@ -1,0 +1,290 @@
+모산목장
+	모산목장/ncn
+
+(낙농체험)
+	(/sl+낙농/ncn+체험/ncpa+)/sr
+
+
+*
+	*/sy
+
+위치:
+	위치/ncn+:/sp
+
+경기
+	경기/ncn
+
+파주시
+	파주시/ncn
+
+탄현면
+	탄현면/ncn
+
+축현리
+	축현리/ncn
+
+347번지
+	347번지/ncn
+
+,문의/안내:031-946-8026
+	,/sp+문의/ncn+//sp+안내/ncpa+:/sp+031/nnc+-946/nnc+-8026/nnc
+
+
+*
+	*/sy
+
+이용시간:
+	이용시간/ncn+:/sp
+
+10시30분
+	10시30분/ncn
+
+~
+	~/sd
+
+18시,
+	18/nnc+시/nbu+,/sp
+
+
+*
+	*/sy
+
+체험시간
+	체험/ncpa+시간/ncn
+
+오전
+	오전/ncn
+
+11시,
+	11/nnc+시/nbu+,/sp
+
+오후
+	오후/ncn
+
+2시
+	2/nnc+시/nbu
+
+시작
+	시작/ncpa
+
+
+일반인들에게
+	일반/ncn+이/jp+ㄴ/etm+들/nbn+에게/jca
+
+낙농가의
+	낙농가/ncn+의/jcm
+
+체험을
+	체험/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+기회가
+	기회/ncn+가/jcs
+
+찾아왔다
+	찾/pvg+아/ecx+오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+녹농진흥회에서
+	녹농진흥회/ncn+에서/jca
+
+전국의
+	전국/ncn+의/jcm
+
+낙농인들과
+	낙농/ncn+이/jp+ㄴ/etm+들/nbn+과/jct
+
+협의하여
+	협의/ncpa+하/xsva+어/ecx
+
+밀크스쿨을
+	밀크/ncn+스쿨/ncn+을/jco
+
+운영하게
+	운영/ncpa+하/xsva+게/ecs
+
+되어
+	되/pvg+어/ecx
+
+가능해졌다
+	가능/ncps+하/xsms+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+식상한
+	식상/ncpa+하/xsva+ㄴ/etm
+
+놀이공원
+	놀이공원/ncn
+
+이외에
+	이외/ncn+에/jca
+
+아이들에게
+	아이/ncn+들/ncn+에게/jca
+
+즐거움을
+	즐거움/ncn+을/jco
+
+줄
+	주/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳을
+	곳/ncn+을/jco
+
+찾는다면
+	찾/pvg+는다면/ecs
+
+이곳만큼
+	이곳/npd+만큼/jxc
+
+좋은
+	좋/paa+은/etm
+
+곳이
+	곳/ncn+이/jcc
+
+없을
+	없/paa+을/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+자유롭게
+	자유/ncn+롭/xsmn+게/ecs
+
+뛰어놀면서
+	뛰어놀면/ncn+서/jca
+
+다칠
+	다치/pvg+ㄹ/etm
+
+위험도
+	위험/ncn+도/jxc
+
+없고,
+	없/paa+고/ecc+,/sp
+
+신기한
+	신기/ncps+하/xsms+ㄴ/etm
+
+체험도
+	체험/ncpa+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+...
+	.../se
+
+
+체험교육의
+	체험/ncpa+교육/ncpa+의/jcm
+
+모든
+	모든/mma
+
+것을
+	것/nbn+을/jco
+
+경험해보자
+	경험/ncpa+하/xsva+어/ecx+보/px+자/ecc
+
+.
+	./sf
+
+
+우유도
+	우유/ncn+도/jxc
+
+직접
+	직접/mag
+
+짜보고,
+	짜/pvg+아/ecx+보/px+고/ecc+,/sp
+
+우유로
+	우유/ncn+로/jca
+
+치즈도
+	치즈/ncn+도/jxc
+
+직접
+	직접/mag
+
+만들어보고,
+	만들/pvg+어/ecx+보/px+고/ecc+,/sp
+
+
+직접
+	직접/mag
+
+짠
+	짜/pvg+ㄴ/etm
+
+우유도
+	우유/ncn+도/jxc
+
+그자리에서
+	그자리/ncn+에서/jca
+
+맛보고
+	맛보/pvg+고/ecc
+
+...
+	.../se
+
+
+우유로
+	우유/ncn+로/jca
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+모든
+	모든/mma
+
+것을
+	것/nbn+을/jco
+
+체험해보자
+	체험/ncpa+하/xsva+어/ecx+보/px+자/ecc
+
+.
+	./sf
+
+
+기사내용
+	기사내용/ncn
+
+전체보기
+	전체/ncn+보기/ncn

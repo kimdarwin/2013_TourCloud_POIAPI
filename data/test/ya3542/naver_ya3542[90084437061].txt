@@ -1,0 +1,66 @@
+Title:
+명자야~봄날이오면 뭐하노..그쟈 [명자나무.그쟈.최백호] 
+
+Date:
+2010.04.04 11:43
+
+Content:
+
+
+하얀 명자꽃 잎새 ~
+봄날이 오며는 뭐하노 그~쟈 .. 우리는 너무멀리 떨어져 있는데꽃잎이 피며는 뭐하노 그~쟈 .. 우리는 너무멀리 떨어져 있는데그래도 우리맘이 하나가되어.. 암만 날이가도 변하지 않으면조금은 외로워도 괜찮다 그~쟈 ..우리는 너무너무 사랑하니까
+
+명자나무 ..명자꽃
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+찰영 : 2010.04.02(금요일)
+
+
+그쟈 / 최백호
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc17/2010/04/04/730/03100223713C536E9BC30956739A33A3445_ya3542_logo.jpg';
+	layout.playtime = '157.67';
+	var qsParam = {};
+	qsParam.vid = 'AFF3B739E76E4EC04B91FC31F52EC5BC8B9B';
+	qsParam.inKey = 'V12617fe4f016ea6d6864aac54c35c101a7311794166ef2ac44670cc711a66f8e4e6aaac54c35c101a731';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_08284 = new VideoInfraUGCPlayer('ugcPlayer_08284' ,bean); 
+ugcPlayer_08284.drawPlayLayer(); 
+}
+
+
+
+
+민초호야의 렌즈속 풍경
+
+
+	

@@ -1,0 +1,861 @@
+//
+	//sp+//sp
+
+이미지갤러리에
+	이미지갤러리/ncn+에/jca
+
+보여줄
+	보이/pvg+어/ecx+주/px+ㄹ/etm
+
+이미지
+	이미지/ncn
+
+등록
+	등록/ncpa
+
+
+list_gallery_add_image(831644,'files/attach/images/64/328/258/ae0523d68800d701139dd1c79c715d62
+	list_gallery_add_image(831644,'files/attach/images/64/328/258/ae0523d68800d701139dd1c79c715d62/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(831644,'files/attach/images/64/328/258/3542bd65e7060f62868689cfdd644576
+	list_gallery_add_image(831644,'files/attach/images/64/328/258/3542bd65e7060f62868689cfdd644576/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(831644,'files/attach/images/64/328/258/32f15d5b3e9bd5703968e73caa1d7b9a.
+	list_gallery_add_image(831644,'files/attach/images/64/328/258/32f15d5b3e9bd5703968e73caa1d7b9a./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(831644,'files/attach/images/64/328/258/c7a521c668f9dabdaa7df3fb1d81ed5b.
+	list_gallery_add_image(831644,'files/attach/images/64/328/258/c7a521c668f9dabdaa7df3fb1d81ed5b./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(831644,'files/attach/images/64/328/258/6dfee1d86b715db7f1fd85deec3a05de.
+	list_gallery_add_image(831644,'files/attach/images/64/328/258/6dfee1d86b715db7f1fd85deec3a05de./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(831644,'files/attach/images/64/328/258/b27fb0d3093b2f4f302ed09c21b10a1d.
+	list_gallery_add_image(831644,'files/attach/images/64/328/258/b27fb0d3093b2f4f302ed09c21b10a1d./ncn
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(831644,'files/attach/images/64/328/258/85f4a27bbcdd019b0614c6fdf0074046
+	list_gallery_add_image(831644,'files/attach/images/64/328/258/85f4a27bbcdd019b0614c6fdf0074046/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(831644,'files/attach/images/64/328/258/3462e4508a51f672d88a1d9d05fa66f2
+	list_gallery_add_image(831644,'files/attach/images/64/328/258/3462e4508a51f672d88a1d9d05fa66f2/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(831644,'files/attach/images/64/328/258/1504d913a2703d5eb4225a4d18de8708
+	list_gallery_add_image(831644,'files/attach/images/64/328/258/1504d913a2703d5eb4225a4d18de8708/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(831644,'files/attach/images/64/328/258/212909b967e6ea05ec7de3dfc1400d74
+	list_gallery_add_image(831644,'files/attach/images/64/328/258/212909b967e6ea05ec7de3dfc1400d74/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+list_gallery_add_image(831644,'files/attach/images/64/328/258/9b6a01a33ad88cdec3b562fb21015480
+	list_gallery_add_image(831644,'files/attach/images/64/328/258/9b6a01a33ad88cdec3b562fb21015480/ncn
+
+.
+	./sf
+
+
+jpg');
+	jpg/f+'/sl+)/sr+;/sy
+
+
+//
+	//sp+//sp
+
+window.
+	window/f+./sy
+
+onLoad
+	onLoad/f
+
+이벤트
+	이벤트/ncn
+
+후에
+	후/ncn+에/jca
+
+이미지갤러리
+	이미지갤러리/ncn
+
+시작
+	시작/ncpa
+
+
+xAddEventListener(window,'load',start_list_gallery);
+	xAddEventListener(window,'load',start_list_gallery/ncn+)/sr+;/sy
+
+
+8월
+	8/nnc+월/nbu
+
+26일(일),
+	26일(일),/ncn
+
+아름다운
+	아름답/paa+은/etm
+
+여행으로
+	여행/ncpa+으로/jca
+
+흘림골
+	흘림골/ncn
+
+트레킹을
+	트레킹/ncn+을/jco
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+트레킹
+	트레킹/ncn
+
+코스는
+	코스/ncn+는/jxc
+
+흘림골에서
+	흘림골/ncn+에서/jca
+
+시작해
+	시작/ncpa+하/xsva+어/ecx
+
+등선대를
+	등선/ncn+대/ncn+를/jco
+
+지나
+	지나/pvg+아/ecx
+
+등선계곡과
+	등선/ncn+계곡/ncn+과/jcj
+
+십이폭계곡
+	십이폭계곡/ncn
+
+그리고
+	그리고/maj
+
+용소폭포와
+	용소/ncn+폭포/ncn+와/jcj
+
+주전골을
+	주전/ncn+골/ncn+을/jco
+
+걷는
+	걷/pvg+는/etm
+
+코스였습니다
+	코스/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+남설악
+	남설악/ncn
+
+최고의
+	최고/ncn+의/jcm
+
+조망처인
+	조망/ncn+처/ncn+이/jp+ㄴ/etm
+
+등선대에
+	등선/ncn+대/ncn+에/jca
+
+올라
+	오르/pvg+아/ecx
+
+설악의
+	설악/ncn+의/jcm
+
+능선과
+	능선/ncn+과/jcj
+
+기암괴석들이
+	기암/ncn+괴석/ncn+들/ncn+이/jcc
+
+펼쳐내는
+	펼치/pvg+어/ecx+내/px+는/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+즐기고,
+	즐기/pvg+고/ecc+,/sp
+
+네
+	네/npp
+
+개의
+	개/nbu+의/jcm
+
+계곡을
+	계곡/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+걷는
+	걷/pvg+는/etm
+
+코스입니다
+	코스/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+거리는
+	것/nbn+이/jp+리/ef+는/etm
+
+약
+	약/ncn
+
+6.
+	6./nnc
+
+5km로
+	5km/ncn+로/jca
+
+그리
+	그리/mad
+
+길지
+	길/paa+지/ecx
+
+않지만,
+	않/px+지/ecx+말/px+ㄴ/etm+,/sp
+
+오르막
+	오르막/ncn
+
+구간과
+	구간/ncn+과/jcj
+
+내리막
+	내리막/ncn
+
+구간이
+	구간/ncn+이/jcc
+
+반복되는
+	반복/ncpa+되/xsvn+는/etm
+
+길이어서
+	길/ncn+이/jp+어서/ecs
+
+쉽지만은
+	쉽/paa+지만/ecs+은/jxc
+
+않은
+	않/px+은/etm
+
+코스입니다
+	코스/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+날
+	나/px+ㄹ/etm
+
+트레킹은
+	트레킹/ncn+은/jxc
+
+날씨가
+	날씨/ncn+가/jcs
+
+좋아서
+	좋/paa+아/ecx
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+잘
+	잘/mag
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+등선대에
+	등선/ncn+대/ncn+에/jca
+
+올라서자
+	올라서/pvg+자/ecc
+
+발
+	발/ncn
+
+아래
+	아래/ncn
+
+구름이
+	구름/ncn+이/jcc
+
+깔리기
+	깔리/pvg+기/etn
+
+시작해
+	시작/ncpa+해/ncn
+
+본래
+	본래/ncn
+
+빼어난
+	빼/pvg+어/ecx+나/px+ㄴ/etm
+
+풍경이
+	풍경/ncn+이/jcc
+
+살짝
+	살짝/mag
+
+신비롭기까지
+	신비/ncps+롭/xsmn+기/etn+까지/jxc
+
+하더군요
+	하/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+설악산
+	설악/ncn+산/ncn
+
+쪽으로는
+	쪽/nbn+으로/jca+는/jxc
+
+하늘이
+	하늘/ncn+이/jcc
+
+맑아
+	맑/paa+아/ecx
+
+길게
+	길/paa+게/ecs
+
+펼쳐진
+	펼치/pvg+어/ecx+지/px+ㄴ/etm
+
+설악의
+	설악/ncn+의/jcm
+
+능선을
+	능선/ncn+을/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+조망할
+	조망/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+등선대에
+	등선/ncn+대/ncn+에/jca
+
+여러
+	여러/mma
+
+번
+	번/nbu
+
+올랐지만,
+	오르/pvg+아/ep+지만/ecs+,/sp
+
+이
+	이/mmd
+
+날
+	나/px+ㄹ/etm
+
+등선대의
+	등선/ncn+대/ncn+의/jcm
+
+풍경이
+	풍경/ncn+이/jcc
+
+가장
+	가장/mag
+
+멋졌던
+	멋지/paa+었/ep+던/etm
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+등선대를
+	등선/ncn+대/ncn+를/jco
+
+내려와
+	내리/pvg+어/ecx+오/px+아/ecx
+
+등선계곡과
+	등선/ncn+계곡/ncn+과/jcj
+
+십이폭계곡
+	십이폭계곡/ncn
+
+그리고
+	그리고/maj
+
+주전골을
+	주전/ncn+골/ncn+을/jco
+
+걸었습니다
+	걷/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+계곡들은
+	계곡/ncn+들/ncn+은/jxc
+
+몇
+	몇/nnc
+
+년
+	년/nbu
+
+전
+	전/nbn
+
+큰
+	크/paa+ㄴ/etm
+
+수해
+	수해/ncn
+
+이후로는
+	이후/ncn+로/jca+는/jxc
+
+수량이
+	수량/ncn+이/jcc
+
+급격히
+	급격히/mag
+
+줄어든
+	줄/pvg+어/ecs+든/jxc
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+느낌입니다
+	느낌/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+아마
+	아마/mag
+
+계곡의
+	계곡/ncn+의/jcm
+
+폭이
+	폭/nbu+이/jcc
+
+예전보다
+	예전/ncn+보다/jca
+
+넓어진
+	넓/paa+어/ecx+지/px+ㄴ/etm
+
+때문이겠죠
+	때문/nbn+이/jp+겠/ep+죠/ef
+
+.
+	./sf
+
+
+그래서인지
+	그래서/ncn+이/jp+ㄴ지/ecs
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+콸콸거리며
+	콸콸거리/ncn+이/jp+며/ecc
+
+물이
+	물/ncn+이/jcc
+
+흐르진
+	흐르진/ncn
+
+않더군요
+	않/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+날은
+	날/ncn+은/jxc
+
+요즘
+	요즘/mag
+
+잦았던
+	잦/pvg+아/ep+ㄴ/etm
+
+비로
+	비/ncn+로/jca
+
+그나마
+	그나마/mag
+
+계곡에
+	계곡/ncn+에/jca
+
+물이
+	물/ncn+이/jcc
+
+좀
+	좀/mag
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+최근
+	최근/mag
+
+몇
+	몇/nnc
+
+년
+	년/nbu
+
+사이
+	사이/ncn
+
+제가
+	저/npp+가/jcs
+
+본
+	보/px+ㄴ/etm
+
+기억으로는
+	기억/nnc+으로/jca+는/jxc
+
+그래도
+	그래도/maj
+
+이
+	이/mmd
+
+날
+	나/px+ㄹ/etm
+
+물이
+	물/ncn+이/jcc
+
+꽤
+	꽤/mag
+
+많았던
+	많/paa+아/ep+ㄴ/etm
+
+편이었습니다
+	편/nbn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+날
+	나/px+ㄹ/etm
+
+트레킹은
+	트레킹/ncn+은/jxc
+
+날씨도
+	날씨/ncn+도/jxc
+
+그리고
+	그리고/maj
+
+계곡도
+	계곡/ncn+도/jxc
+
+좋아
+	좋/paa+아/ecx
+
+비교적
+	비교/ncpa+적/ncn
+
+만족스러운
+	만족/ncpa+스럽/xsmn+은/etm
+
+트레킹이었습니다
+	트레킹이었습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+흘림골
+	흘림골/ncn
+
+트레킹에
+	트레킹/ncn+에/jca
+
+참여하신
+	참여/ncpa+하/xsva+시/ep+ㄴ/etm
+
+분들도
+	불/pvg+ㄴ/etm+들/nbn+도/jxc
+
+좋은
+	좋/paa+은/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+잘
+	잘/mag
+
+즐기셨으리라
+	즐기/pvg+셨/ep+으리라/ef
+
+생각됩니다
+	생각/ncpa+되/xsvn+ㅂ니다/ef
+
+.
+	./sf
+
+
+다만
+	다만/mag
+
+코스가
+	코스/ncn+가/jcs
+
+다소
+	다소/mag
+
+힘들어
+	힘들/pvg+어/ecx
+
+피로를
+	피로/ncps+를/jco
+
+느끼신
+	느끼/pvg+시/ep+ㄴ/etm
+
+분들도
+	불/pvg+ㄴ/etm+들/nbn+도/jxc
+
+계셨던
+	계시/paa+었/ep+던/etm
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+서울로
+	서울/ncn+로/jca
+
+돌아올
+	돌/pvg+아/ecx+오/px+ㄹ/etm
+
+때의
+	때/ncn+의/jcm
+
+극심한
+	극심/ncn+한/ncn
+
+도로정체로
+	도로/ncn+정체/ncn+로/jca
+
+더
+	더/mag
+
+피곤하셨을
+	피곤/ncps+하/xsms+셨/ep+을/etm
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+힘들었던
+	힘들/pvg+었/ep+던/etm
+
+트레킹과
+	트레킹/ncn+과/jcj
+
+정체의
+	정체/ncn+의/jcm
+
+피로
+	피/ncn+로/jca
+
+빨리
+	빨리/mag
+
+털어내시고
+	털/pvg+어/ecx+내/px+시/ep+고/ecc
+
+활기차게
+	활기차/paa+게/ecs
+
+한
+	하/pvg+ㄴ/etm
+
+주를
+	주/nbu+를/jco
+
+시작하시기
+	시작/ncpa+하시/ncn+이/jp+기/etn
+
+바랍니다
+	바라/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+게시물을
+	게시/ncpa+물/ncn+을/jco
+
+...
+	.../se

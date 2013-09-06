@@ -1,0 +1,919 @@
+#
+	#/ncn
+
+1
+	1/nnc
+
+
+충남
+	충남/ncn
+
+부여군
+	부여/ncpa+이/jp+군/ef
+
+부여읍
+	부여/ncpa+읍/ncn
+
+동남리의
+	동남/ncn+리/ncn+의/jcm
+
+사적
+	사적/ncn
+
+제135호
+	제135호/ncn
+
+.
+	./sf
+
+
+궁남지는
+	궁남지/ncn+는/jxc
+
+이름
+	이름/ncn
+
+그대로,
+	그/npp+대로/jca+,/sp
+
+궁(부소산성)의
+	궁(부소산성)/ncn+의/jcm
+
+남쪽에
+	남쪽/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+커다란
+	커다랗/paa+은/etm
+
+연못이다
+	연못/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+연못을
+	연못/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+한적한
+	한적/ncps+하/xsms+ㄴ/etm
+
+시골
+	시골/ncn
+
+풍경에
+	풍경/ncn+에/jca
+
+방대한
+	방대/ncps+하/xsms+ㄴ/etm
+
+연꽃
+	연꽃/ncn
+
+군락이
+	군락/ncn+이/jcc
+
+펼쳐져
+	펼치/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+#
+	#/ncn
+
+2
+	2/nnc
+
+
+역사가
+	역사/ncn+가/jcs
+
+깊은
+	깊/paa+은/etm
+
+연못답게
+	연못/ncn+답/ncn+게/jca
+
+궁남지
+	궁남지/ncn
+
+주변의
+	주변/ncn+의/jcm
+
+연은
+	연/ncn+은/jxc
+
+키가
+	크/paa+어/ecx+가/px+아/ecx
+
+매우
+	매우/mag
+
+컸고,
+	크/paa+었/ep+고/ecc+,/sp
+
+품종이
+	품종/ncn+이/jcc
+
+매우
+	매우/mag
+
+다양했다
+	다양/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+"연꽃이다
+	"/sl+연꽃/ncn+이/jp+다/ef
+
+!"
+	!/sf+"/sl
+
+
+라고
+	라/ncn+이/jp+고/ecc
+
+부르는
+	부르/pvg+는/etm
+
+것
+	것/nbn
+
+중에는
+	중/nbn+에/jca+는/jxc
+
+진짜
+	진짜/ncn
+
+연꽃(Lotus)도
+	연꽃(Lotus)/ncn+도/jxc
+
+있지만,
+	있/px+지/ecx+말/px+ㄴ/etm+,/sp
+
+수련(Water
+	수련(Water/ncn
+
+lily)도
+	lily/f+)/sr+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+연꽃은
+	연꽃/ncn+은/jxc
+
+잎이
+	잎/ncn+이/jcc
+
+40cm
+	40cm/ncn
+
+정도로
+	정도/ncn+로/jca
+
+크다
+	크/paa+다/ef
+
+.
+	./sf
+
+
+목이
+	목/ncn+이/jcc
+
+꺾인
+	꺾이/pvg+ㄴ/etm
+
+연잎을
+	연잎/ncn+을/jco
+
+주워들고
+	주워들고/ncn
+
+있으면
+	있/px+으면/ecs
+
+마치
+	마치/mag
+
+양산처럼
+	양산/ncn+처럼/jca
+
+햇볕을
+	햇볕/ncn+을/jco
+
+가릴
+	가리/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+연잎
+	연잎/ncn
+
+위에
+	위/ncn+에/jca
+
+물방울이
+	물방울/ncn+이/jcc
+
+맺히면
+	맺히/pvg+면/ecs
+
+또르르
+	또르르/ncn
+
+흐르거나
+	흐르/pvg+거나/ecc
+
+그대로
+	그대로/mag
+
+맺혀
+	맺히/pvg+어/ecx
+
+있지만,
+	있/px+지/ecx+말/px+ㄴ/etm+,/sp
+
+수련은
+	수련/ncn+은/jxc
+
+다르다
+	다르/paa+다/ef
+
+.
+	./sf
+
+
+수련은
+	수련/ncn+은/jxc
+
+잎이
+	잎/ncn+이/jcc
+
+10cm
+	10cm/ncn
+
+정도로
+	정도/ncn+로/jca
+
+연잎에
+	연잎/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+작다
+	작/paa+다/ef
+
+.
+	./sf
+
+
+아무리
+	아무리/mag
+
+무럭무럭
+	무럭무럭/mag
+
+자라난
+	자르/pvg+아/ecx+나/px+ㄴ/etm
+
+들
+	들/pvg+ㄹ/etm
+
+연꽃에
+	연꽃/ncn+에/jca
+
+비하자면
+	비하/pvg+자면/ecs
+
+키도
+	크/paa+어도/ecs
+
+훨씬
+	훨씬/mag
+
+작다
+	작/paa+다/ef
+
+.
+	./sf
+
+
+물
+	물/pvg+ㄹ/etm
+
+위에
+	위/ncn+에/jca
+
+잎이
+	잎/ncn+이/jcc
+
+동동
+	동동/mag
+
+떠
+	뜨/pvg+어/ecx
+
+있는데,
+	있/px+는데/ecs+,/sp
+
+매끄러운
+	매끄럽/paa+은/etm
+
+잎이
+	잎/ncn+이/jcc
+
+물에
+	물/ncn+에/jca
+
+촉촉하게
+	촉촉하/paa+게/ecs
+
+적셔져
+	적시/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이른
+	이르/paa+ㄴ/etm
+
+아침
+	아침/ncn
+
+수련은,
+	수련/ncn+은/jxc+,/sp
+
+밥상
+	밥상/ncn
+
+위의
+	위/ncn+의/jcm
+
+조기처럼
+	조/ncn+이/jp+기/etn+처럼/jca
+
+입을
+	입/ncn+을/jco
+
+꾹
+	꾹/mag
+
+다물고
+	다물/pvg+고/ecc
+
+있다가
+	있/px+다가/ecs
+
+오전
+	오전/ncn
+
+10시를
+	10/nnc+시/nbu+를/jco
+
+넘기면
+	넘/pvg+기/etn+이/jp+면/ecs
+
+차츰
+	차츰/mag
+
+꽃을
+	꽃/ncn+을/jco
+
+피우기
+	피우/pvg+기/etn
+
+시작한다
+	시작/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+정오가
+	정오/ncn+가/jcs
+
+가까워지면
+	가깝/paa+어/ecx+지/px+면/ecs
+
+활짝
+	활짝/mag
+
+피어
+	피/pvg+어/ecx
+
+탐스럽다
+	탐스럽다/ncn
+
+.
+	./sf
+
+
+밤에는
+	밤/ncn+에/jca+는/jxc
+
+잠을
+	잠/ncn+을/jco
+
+잔다
+	자/pvg+ㄴ다/ef
+
+하여
+	하/pvg+어/ecx
+
+수련이라
+	수련/ncn+이/jp+라/ecs
+
+칭해지고,
+	칭하/pvg+어/ecx+지/px+고/ecc+,/sp
+
+밤에
+	밤/ncn+에/jca
+
+지고
+	지/px+고/ecc
+
+낮에
+	낮/ncn+에/jca
+
+피어나기를
+	피/pvg+어/ecx+나/px+기/etn+를/jco
+
+반복해서
+	반복/ncpa+하/xsva+어서/ecs
+
+자오련이라고도
+	자오련/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+부른다
+	부르/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+#
+	#/ncn
+
+3
+	3/nnc
+
+
+연꽃은
+	연꽃/ncn+은/jxc
+
+7,
+	7/nnc+,/sp
+
+8월
+	8/nnc+월/nbu
+
+쯤에만
+	쯤/ncn+에/jca+만/jxc
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+벌써
+	벌써/mag
+
+8월,
+	8/nnc+월/nbu+,/sp
+
+하고도
+	하/px+어/ef+고/jcr+도/jxc
+
+중순을
+	중순/ncn+을/jco
+
+넘겼다
+	넘기/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+여름이
+	여름/ncn+이/jcc
+
+다
+	다/mag
+
+가기
+	가/px+기/etn
+
+전에
+	전/nbn+에/jca
+
+연꽃
+	연꽃/ncn
+
+구경들
+	구경/ncn+들/ncn
+
+하시길
+	하시/ncn+길/ncn
+
+!
+	!/sf
+
+
+수도권에
+	수도권/ncn+에/jca
+
+더욱
+	더욱/mag
+
+가까운
+	가깝/paa+은/etm
+
+곳은
+	곳/ncn+은/jxc
+
+경기도
+	경기/ncn+도/jxc
+
+시흥의
+	시흥/ncn+의/jcm
+
+관곡지,
+	관곡지,/ncn
+
+이곳
+	이곳/npd
+
+부여의
+	부여/ncpa+의/jcm
+
+궁남지도
+	궁남지/ncn+도/jxc
+
+당일
+	당/ncn+이/jp+ㄹ/etm
+
+여행으로
+	여행/ncpa+으로/jca
+
+만만하게
+	만만/ncpa+하/xsva+게/ecs
+
+다녀올
+	다니/pvg+어/ecx+오/px+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+#
+	#/ncn
+
+4
+	4/nnc
+
+
+둘은
+	둘/nnc+은/jxc
+
+진흙의
+	진흙/ncn+의/jcm
+
+연못에
+	연못/ncn+에/jca
+
+살지만,
+	살/pvg+지/ecx+말/px+ㄴ/etm+,/sp
+
+그
+	그/mmd
+
+아름다움을
+	아름다움/ncn+을/jco
+
+잃지
+	잃/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+꽃이라는
+	꽃/ncn+이/jp+라/ef+는/etm
+
+점이
+	점/nbu+이/jcc
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+연꽃은
+	연꽃/ncn+은/jxc
+
+세상
+	세상/ncn
+
+속에
+	속/ncn+에/jca
+
+어울려
+	어울리/pvg+어/ecx
+
+살고
+	살/pvg+고/ecc
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+더러움에
+	더럽/paa+음/etn+에/jca
+
+물들지
+	물들/pvg+지/ecx
+
+아니하고,
+	알/pvg+니/ef+하고/jcr+,/sp
+
+아름다움을
+	아름다움/ncn+을/jco
+
+유지하며
+	유/ncn+이/jp+지/ecx+하/px+며/ecc
+
+살기
+	살/pvg+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+불교를
+	불교/ncn+를/jco
+
+상징하는
+	상징/ncpa+하/xsva+는/etm
+
+꽃이기도
+	꽃/ncn+이/jp+기/etn+도/jxc
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+#
+	#/ncn
+
+5
+	5/nnc
+
+
+몇
+	몇/nnc
+
+년
+	년/nbu
+
+전
+	전/nbn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+속
+	속/ncn
+
+오리들은
+	오리/ncn+들/ncn+은/jxc
+
+보이지
+	보이/pvg+지/ecx
+
+않았다
+	않/px+아/ep+다/ef
+
+.
+	./sf
+
+
+추측건대
+	추측건대/ncn
+
+지난
+	지나/pvg+ㄴ/etm
+
+조류인플루엔자
+	조류/ncn+인플루엔자/ncn
+
+때
+	때/ncn
+
+흔적도
+	흔적/ncn+도/jxc
+
+없이
+	없이/mag
+
+사라진
+	사라지/pvg+ㄴ/etm
+
+듯.
+	듯/nbs+./sf
+
+
+오리들이
+	오리/ncn+들/ncn+이/jcc
+
+어찌나
+	어찌/mag+나/jxc
+
+바삐
+	바삐/mag
+
+달려가는지
+	달리/pvg+어/ecx+가/px+는지/ecs
+
+꼭
+	꼭/mag
+
+달리기
+	달리/pvg+기/etn
+
+경주를
+	경주/ncpa+를/jco
+
+하는
+	하/pvg+는/etm
+
+것
+	것/nbn
+
+같았다
+	같/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+걔
+	걔/npp
+
+중
+	중/nbn
+
+좀
+	좀/mag
+
+치사한
+	치사/ncps+하/xsms+ㄴ/etm
+
+오리가
+	오/nnc+리/nbu+가/jcc
+
+레일을
+	레일/ncn+을/jco
+
+벗어나
+	벗/pvg+어/ecx+나/px+아/ecx
+
+풀밭
+	풀밭/ncn
+
+지름길로기를
+	지름길/ncn+로/jca+이/jp+기/etn+를/jco
+
+쓰고
+	쓰/pvg+고/ecc
+
+달려가는
+	달리/pvg+어/ecx+가/px+는/etm
+
+것
+	것/nbn
+
+같은
+	같/paa+은/etm
+
+모양새라
+	모양/ncn+새/ncn+이/jp+라/ecs
+
+재미있어서
+	재미있/pvg+어서/ecs
+
+담아두었던
+	담/pvg+아/ecx+두/px+었/ep+던/etm
+
+컷.
+	컷/nbu+./sf
+
+
++대관령
+	+대관령/ncn
+
+양떼목장'
+	양떼/ncn+목장/ncn+'/sr
+
+강원도
+	강원/ncn+도/jxc
+
+평창'
+	평창'/ncn
+
+강원도
+	강원/ncn+도/jxc
+
+여행
+	여행/ncpa
+
+흐린
+	흐리/paa+ㄴ/etm
+
+날의
+	날/ncn+의/jcm
+
+대관령
+	대관/ncn+령/ncn
+
+양떼
+	양떼/ncn
+
+travelindia.
+	travelindia/f+./sy
+
+kr/70115942978
+	kr/f+//sp+70115942978/nnc
+
+
+꾸욱,
+	꾸욱,/ncn
+
+눌러주세요
+	누르/pvg+어/ecx+주/px+세/ef+요/jxf
+
+!
+	!/sf
+
+
+Posted
+	Posted/f
+
+by대한민국을
+	by/f+대한/ncn+민국/ncn+을/jco
+
+여행하는깔깔씨
+	여행하는깔깔씨/ncn
+
+l
+	l/f

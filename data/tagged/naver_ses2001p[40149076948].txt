@@ -1,0 +1,962 @@
+대마도여행
+	대마도여행/ncn
+
+-
+	-/sd
+
+김성일선생시비
+	김성일/ncn+선생/ncr+시비/ncn
+
+
+대마도여행
+	대마도여행/ncn
+
+-
+	-/sd
+
+김성일선생시비
+	김성일/ncn+선생/ncr+시비/ncn
+
+
+학봉
+	학봉/ncn
+
+김성일
+	김성일/ncn
+
+(
+	(/sl
+
+1538
+	1538/nnc
+
+-
+	-/sd
+
+1593)
+	1593/nnc+)/sr
+
+선생은
+	선생/ncr+은/jxc
+
+조선
+	조선/ncpa
+
+선조때의
+	선조/ncn+때/ncn+의/jcm
+
+유학자로
+	유학자/ncn+로/jca
+
+본관은
+	본관/npp+은/jxc
+
+의성이다
+	의성/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+조선
+	조선/ncpa
+
+선조임금이
+	선조/ncn+임금/ncn+이/jcc
+
+왜국의
+	왜국/ncn+의/jcm
+
+동태를
+	동태/ncn+를/jco
+
+파악하기
+	파악/ncpa+하/xsva+기/etn
+
+위하여
+	위하/pvg+어/ecx
+
+황윤길과
+	황윤길/ncn+과/jct
+
+함께
+	함께/mag
+
+통신사로
+	통신사/ncn+로/jca
+
+파견하였답니다
+	파견/ncpa+하/xsva+었/ep+답니다/ef
+
+.
+	./sf
+
+
+당시
+	당시/ncn
+
+동인
+	동/nbu+이/jp+ㄴ/etm
+
+서인으로
+	서인/ncn+으로/jca
+
+나누어져서
+	나누/pvg+어/ecx+지/px+어서/ecs
+
+당파싸움을
+	당파싸움/ncpa+을/jco
+
+하던때라
+	하/pvg+던/etm+때/nbn+이/jp+라/ecs
+
+황윤길선생이
+	황윤길선생/ncn+이/jcc
+
+왜국이
+	왜국/ncn+이/jcc
+
+침략할거라
+	침략/ncpa+하/xsva+ㄹ/etm+것/nbn+이/jp+라/ecs
+
+했는데
+	하/pvg+었/ep+는데/ecs
+
+
+김성일선생은
+	김성일선생/ncn+은/jxc
+
+침략을
+	침략/ncpa+을/jco
+
+안할거라해서
+	안할거라해/ncn+서/jca
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+임진왜란때
+	임진/ncn+왜란/ncn+때/ncn
+
+죽음을
+	죽음/ncn+을/jco
+
+당하게
+	당하/pvg+게/ecs
+
+되었답니다
+	되/pvg+었/ep+답니다/ef
+
+.
+	./sf
+
+
+대마도
+	대마/ncn+도/jxc
+
+길들은
+	길들/pvg+ㄴ/etm
+
+좁다
+	좁/paa+다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+한줄로
+	하/pvg+ㄴ/etm+줄/nbn+로/jca
+
+가야한답니다
+	가/pvg+아/ecx+하/px+ㄴ답니다/ef
+
+.
+	./sf
+
+
+모든
+	모든/mma
+
+돈들을
+	돌/pvg+ㄴ/etm+들/nbn+을/jco
+
+아껴쓰는
+	아껴쓰/ncn+는/jxc
+
+일본
+	일/nnc+본/nbu
+
+정말
+	정말/mag
+
+배워야할거
+	배워야할거/ncn
+
+같기도하고
+	같기도/ncn+하고/jcj
+
+
+너무
+	너무/mag
+
+절약하는
+	절약/ncpa+하/xsva+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+이건
+	이/npd+이/jp+건/ecc
+
+아니다는
+	아니/paa+다/ef+는/etm
+
+생각도
+	생각/ncpa+도/jxc
+
+해보고
+	하/pvg+어/ecx+보/px+고/ecc
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+쓸때가서는
+	쓰/pvg+ㄹ/etm+때/nbn+가/jcs+서는/jxc
+
+쓰면서
+	쓰/pvg+면서/ecc
+
+살아야지
+	살/pvg+아/ecs
+
+하는
+	하/pvg+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+해봅니다
+	하/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+이즈하라
+	이즈하라/ncn
+
+시청입니다
+	시청/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+다니다보니
+	다니다보/ncn+이/jp+니/ecs
+
+이즈하라시내길들을
+	이즈하라/ncn+시내/ncn+길/ncn+들/xsncc+을/jco
+
+어느정도는
+	어느정도/ncn+는/jxc
+
+알겠더라고요
+	알/pvg+겠/ep+더/ep+라고/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+빨간색우체통이
+	빨간색/ncn+우체통/ncn+이/jcc
+
+대마도여행중에
+	대마도여행중/ncn+에/jca
+
+눈에
+	눈/ncn+에/jca
+
+확
+	확/ncn
+
+들어오는
+	들/pvg+어/ecx+오/px+는/etm
+
+이유
+	이유/ncn
+
+
+빨간색이기때문에
+	빨간색이기때문/ncn+에/jca
+
+그런거
+	그런거/ncn
+
+아닐까요
+	아니/paa+ㄹ까/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+차들이
+	차/ncn+들/xsncc+이/jcc
+
+경차가
+	경차/ncn+가/jcs
+
+대다수인
+	대다수/ncn+이/jp+ㄴ/etm
+
+대마도
+	대마/ncn+도/jxc
+
+일본은
+	일/nnc+본/nbu+은/jxc
+
+안가봤지만
+	안가봤지만/ncn
+
+일본도
+	일/nnc+본/nbu+도/jxc
+
+경차가
+	경차/ncn+가/jcs
+
+대세일거
+	대세/ncn+일거/ncn
+
+같다는
+	같/paa+다/ef+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+
+해봅니다
+	하/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+저도
+	저/npp+도/jxc
+
+경차로
+	경차/ncn+로/jca
+
+바꾸고
+	바꾸/pvg+고/ecc
+
+싶어지는
+	싶/px+어/ecx+지/px+는/etm
+
+충동을
+	충동/ncpa+을/jco
+
+느꼈던
+	느끼/pvg+었/ep+던/etm
+
+대마도
+	대마/ncn+도/jxc
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+먼지하나
+	먼지하/ncn+나/jcj
+
+떨어져
+	떨어지/pvg+어/ecx
+
+있지
+	있/px+지/ecx
+
+않은
+	않/px+은/etm
+
+대마도
+	대마/ncn+도/jxc
+
+골목길들과
+	골목길/ncn+들/ncn+과/jcj
+
+길들
+	길/ncn+들/xsncc
+
+
+깨끗한게
+	깨끗/ncps+한/ncn+게/jca
+
+무엇보다
+	무엇/npd+보다/jca
+
+좋았던곳이었습니다
+	좋았던곳이었습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+대마도
+	대마/ncn+도/jxc
+
+고양이
+	고양이/ncn
+
+첨
+	첨/ncn
+
+봤습니다
+	보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+가는길로
+	가는길/ncn+로/jca
+
+후딱
+	후딱/mag
+
+가는걸
+	가는걸/ncn
+
+순간
+	순간/ncn
+
+찍어보았는데요
+	찍/pvg+어/ecx+보/px+아/ep+ㄴ데요/ef
+
+
+나름
+	나름/nbn
+
+잘
+	잘/mag
+
+나온거
+	나온거/ncn
+
+같아서
+	같/paa+아/ecx
+
+올려봅니다
+	올리/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+신사들이
+	신사/ncr+들/ncn+이/jcc
+
+정말
+	정말/mag
+
+많은
+	많/paa+은/etm
+
+나라
+	나/npp+이/jp+라/ecs
+
+일본
+	일/nnc+본/nbu
+
+대마도
+	대마/ncn+도/jxc
+
+
+대마도여행중에
+	대마도여행중/ncn+에/jca
+
+아마도
+	아마/mag+도/jxc
+
+앞으로도
+	앞/ncn+으로/jca+도/jxc
+
+소개할곳들도
+	소개할곳들/ncn+도/jxc
+
+신사들이
+	신사/ncr+들/ncn+이/jcc
+
+포함되어
+	포함/ncpa+되/xsvn+어/ecx
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+길에서
+	길/ncn+에서/jca
+
+마주친
+	마주치/pvg+ㄴ/etm
+
+길냥이
+	길냥/ncn+이/jcc
+
+빵하나를
+	빵하나/ncn+를/jco
+
+먹고
+	먹/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+우리
+	우리/npp
+
+일행들이
+	일행/ncn+들/ncn+이/jcc
+
+찍었는데
+	찍/pvg+었/ep+는데/ecs
+
+
+도망가거나
+	도망가/pvg+거나/ecc
+
+경계를
+	경계/ncn+를/jco
+
+하지
+	하/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+이채로왔습니다
+	이채/ncps+롭/xsmn+었/ep+습니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+드디어
+	드디어/mag
+
+도착했네요
+	도착/ncpa+하/xsva+었/ep+네/ef+요/jxf
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+길에
+	길/ncn+에/jca
+
+단풍이
+	단풍/ncn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+참
+	참/mag
+
+멋진곳이라는
+	멋진곳/ncn+이/jp+라/ef+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+해보았답니다
+	하/pvg+어/ecx+보/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+입구가
+	입구/ncn+가/jcs
+
+참
+	참/mag
+
+이뻤어요
+	이쁘/paa+었/ep+어/ef+요/jxf
+
+그럼
+	그렇/pad+ㅁ/etn
+
+안으로
+	안/ncn+으로/jca
+
+들어가볼까요
+	들/pvg+어/ecx+가/px+아/ecx+보/px+ㄹ까/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+드디어
+	드디어/mag
+
+마주하게된
+	마주/ncps+하/xsms+게/ecx+되/px+ㄴ/etm
+
+김성일선생시비
+	김성일선생시비/ncn
+
+임진왜란때
+	임진/ncn+왜란/ncn+때/ncn
+
+유성룡선생이
+	유성룡선생/ncn+이/jcc
+
+적극
+	적극/ncn
+
+변호하여
+	변호/ncpa+하/xsva+어/ecx
+
+벌을
+	벌/nbu+을/jco
+
+면했다고
+	면하/pvg+었/ep+다/ef+고/jcr
+
+전해지는데요
+	전해지/pvg+ㄴ데요/ef
+
+
+임진왜란당시
+	임진/ncn+왜란/ncn+당시/ncn
+
+초유사로
+	초유사/ncn+로/jca
+
+종군하다
+	종군/ncpa+하/xsva+어다/ecs
+
+병사했답니다
+	병사/ncpa+하/xsva+었/ep+답니다/ef
+
+.
+	./sf
+
+
+당파싸움의
+	당파싸움/ncpa+의/jcm
+
+현실이
+	현실/ncn+이/jcc
+
+제대로
+	제대로/mag
+
+된
+	되/pvg+ㄴ/etm
+
+직언을
+	직언/ncpa+을/jco
+
+하지
+	하/pvg+지/ecx
+
+못하게
+	못하/px+게/ecs
+
+된
+	되/pvg+ㄴ/etm
+
+안타까운
+	안타깝/paa+은/etm
+
+사실이
+	사실/ncn+이/jcc
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+싶어요
+	싶/px+어/ef+요/jxf
+
+조금만
+	조금/mag+만/jxc
+
+이해하고
+	이/nnc+해/nbu+하고/jcj
+
+서로가
+	서로/ncn+가/jcc
+
+
+도와주면
+	돕/pvg+어/ecx+주/px+면/ecs
+
+될일을
+	될일/ncn+을/jco
+
+서로의
+	서로/ncn+의/jcm
+
+이익을
+	이익/ncn+을/jco
+
+위해서
+	위하/pvg+어서/ecs
+
+양보안하는것
+	양/xp+보안/ncpa+하/xsva+는/etm+것/nbn
+
+지금도
+	지금/ncn+도/jxc
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있는거
+	있는거/ncn
+
+같아
+	같/paa+아/ecx
+
+안타까움이
+	안타깝/paa+음/etn+이/jcs
+
+배가
+	배/pvg+어/ecx+가/px+아/ecx
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+김성일선생시비가
+	김성일선생시비/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+이
+	이/mmd
+
+곳은
+	곳/ncn+은/jxc
+
+이떼이안이라고
+	이떼이안/ncn+이/jp+라/ef+고/jcr
+
+옛
+	옛/mma
+
+대조선
+	대조/ncpa+선/ncn
+
+외교기관이라
+	외교/ncn+기관/ncn+이/jp+라/ecs
+
+할수
+	하/pvg+ㄹ/etm+수/nbn
+
+있는곳이에요
+	있는곳/ncn+이/jp+에요/ef
+
+
+이떼이안입구
+	이떼이안입구/ncn
+
+한편에
+	한/nnc+편/nbu+에/jca
+
+서있는
+	서/pvg+어/ecx+있/px+는/etm
+
+현소
+	현소/ncn
+
+스님상이에요
+	스님/ncn+상이/ncn+이/jp+에요/ef
+
+
+현소스님에
+	현소스님/ncn+에/jca
+
+대해서는
+	대/pvg+어/ecx+하/px+어서/ecs+는/jxc
+
+인터넷으로
+	인터넷/ncn+으로/jca
+
+검색해보세요
+	검색/ncpa+하/xsva+어/ecx+보/px+세/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+발길이
+	발길/ncn+이/jcc
+
+참
+	참/mag
+
+무거웠던
+	무겁/paa+었/ep+던/etm
+
+곳이에요
+	곳/nbu+이/jp+에요/ef
+
+
+나중에는
+	나중/ncn+에/jca+는/jxc
+
+또
+	또/maj
+
+다른
+	다르/paa+ㄴ/etm
+
+당파싸움으로
+	당파싸움/ncpa+으로/jca
+
+나라가
+	나라/ncn+가/jcs
+
+위험에
+	위험/ncn+에/jca
+
+빠지지
+	빠지/pvg+지/ecx
+
+않게
+	않/px+게/ecs
+
+잘
+	잘/mag
+
+했으면
+	하/px+었/ep+으면/ecs
+
+싶어요
+	싶/paa+어요/ef
+
+
+당파싸움은
+	당파싸움/ncpa+은/jxc
+
+망국의
+	망국/ncpa+의/jcm
+
+지름길이랍니다
+	지름길/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+여행을
+	여행/ncpa+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+참
+	참/mag
+
+많은걸
+	많은/ncn+걸/ncn
+
+배웁니다
+	배우/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+앞으로도
+	앞/ncn+으로/jca+도/jxc
+
+즐거운
+	즐겁/paa+은/etm
+
+여행을
+	여행/ncpa+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+많이
+	많/paa+이/xsa
+
+배우렵니다
+	배우렵니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+대마도여행
+	대마도여행/ncn
+
+-
+	-/sd
+
+김성일선생시비
+	김성일/ncn+선생/ncr+시비/ncn

@@ -1,0 +1,206 @@
+Title:
+투야 To-Ya .. 봐 가 
+
+Date:
+2010.09.28 00:35
+
+Content:
+
+
+
+제 1세대 걸그룹 전성기..S.E.S. , 핑클, 베이비복스, 쥬얼리, 티티마.. 그리고 "투야" 
+
+투야'는 이색적 느낌이 물씬 풍기는 독특한 색채..레베풍의 댄스곡 "봐"..그리고 "가"
+
+투야'안진경의강렬한 가창력..시원한 외모의 리더 김지혜..신비로운 매력의 류은주..
+
+투야(To-Ya)는한국보다 일본에서 먼저 데뷔를 했던 경험이 있다고한다..
+
+투야(To-Ya).. 그때 기억들이 새롭다.. 참~ 티티마도 무지 좋아했었는데..
+
+
+투야 - 봐 (뮤직비디오) 
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc21/2010/09/28/64/E3141213BF0513331B23DD0C73083443347_ya3542_logo.jpg';
+	layout.playtime = '273.069';
+	var qsParam = {};
+	qsParam.vid = '205F6AB008B82F4E1A048F594DE685B6ED30';
+	qsParam.inKey = 'V126b19d250a1ca26ef19198b8c5f07a0d6fba27310f1c89a8604f59afa89d38d7463198b8c5f07a0d6fb';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_08436 = new VideoInfraUGCPlayer('ugcPlayer_08436' ,bean); 
+ugcPlayer_08436.drawPlayLayer(); 
+}
+
+
+
+투야 - 봐 (라이브) 
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc21/2010/09/28/1698/03101223B105533E0BC3F97C736501538C1_ya3542_logo.jpg';
+	layout.playtime = '188.039';
+	var qsParam = {};
+	qsParam.vid = '0755F70C23E5B1156D7D932AC0846960E420';
+	qsParam.inKey = 'V12695a10a056d4cfef639d63028b3a73a2055db3d2e7f3f1e9ff7fadccf454ce2cce9d63028b3a73a205';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_02180 = new VideoInfraUGCPlayer('ugcPlayer_02180' ,bean); 
+ugcPlayer_02180.drawPlayLayer(); 
+}
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc21/2010/09/28/1224/03101223B105533E0CC3B98673C947E3482_ya3542_logo.jpg';
+	layout.playtime = '201.969';
+	var qsParam = {};
+	qsParam.vid = '1F5DC68106524C309CE1463C2458197E492A';
+	qsParam.inKey = 'V124236504e10b21ee3a66c2fcc054fea7b6e7a1b85a777e332373b8313dd55c9320e6c2fcc054fea7b6e';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_03960 = new VideoInfraUGCPlayer('ugcPlayer_03960' ,bean); 
+ugcPlayer_03960.drawPlayLayer(); 
+}
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc21/2010/09/28/176/E3141213BF0513330C23DD96635759B3443_ya3542_logo.jpg';
+	layout.playtime = '176.539';
+	var qsParam = {};
+	qsParam.vid = 'DBB68EDC050FBF7A0DC88823EB1FCF0FE55E';
+	qsParam.inKey = 'V126604a21023c8ae863bbdbf7e2b27a88b3645ced011084638cf1da003faf13ef9b7bdbf7e2b27a88b36';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_03594 = new VideoInfraUGCPlayer('ugcPlayer_03594' ,bean); 
+ugcPlayer_03594.drawPlayLayer(); 
+}
+
+
+
+
+
+
+투야 - "가" 
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc21/2010/09/28/1497/03101223B105533E1DC3092173E35143C41_ya3542_logo.jpg';
+	layout.playtime = '214.37';
+	var qsParam = {};
+	qsParam.vid = 'FC21AC850F28A4EDB162A26D7F39FD5EFBC1';
+	qsParam.inKey = 'V1283491c0d40a0de7243f85f5da1773731363d12ec4871f20c221803e0bde6be65bdf85f5da177373136';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_09713 = new VideoInfraUGCPlayer('ugcPlayer_09713' ,bean); 
+ugcPlayer_09713.drawPlayLayer(); 
+}
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc21/2010/09/28/1766/03101223B105533E1DC3293873491FF3146_ya3542_logo.jpg';
+	layout.playtime = '210.539';
+	var qsParam = {};
+	qsParam.vid = '21D316B9256E6AAC9451A1F9C4B3F1CB3996';
+	qsParam.inKey = 'V12384b0be39b6200badf1d496879eb567a69c11f3358f58876c579dc42d84a1ce4461d496879eb567a69';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_06242 = new VideoInfraUGCPlayer('ugcPlayer_06242' ,bean); 
+ugcPlayer_06242.drawPlayLayer(); 
+}
+
+
+
+
+투야 To-Ya 
+
+
+
+민초호야의 음악이야기 
+
+	

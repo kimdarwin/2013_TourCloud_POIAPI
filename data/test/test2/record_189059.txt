@@ -1,0 +1,30 @@
+Date:
+2011.10.29
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/cd78f216c4cbfa4b3a9e8fa29ef880ec.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/d085553d5ad6273179c94abeed1a9e09.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/25e40540e566e53dc0e74e318535ccdf.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/12d7ae9f66222a7dd3760f995219a164.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/dd2ed70e9e37e04ceb0dcc1e7519075d.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/60cc422c441ad15f6608e4ea0e64fe7f.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/38307b7184d48dde46f4d06e1bfc8ac7.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/743b6d7cbe12f4a912b0c743becb1007.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/e4c35061513ee84ed04ee8ae416de7ac.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/0fbbea04f3ee2c76073b75a57d936eca.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/841133fab285f6cd5d839b760685e282.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/7288cf41976f7c10c5d09c752475ae97.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/1da081eaaab79fe4b189a86edf4957c3.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/1c93248c02cc0a8f7b3033f1628e3ad3.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/6a083738fe31e31869311334d4689cf5.jpg');
+list_gallery_add_image(604177,'files/attach/images/228818/059/189/b421da94656b55997d3d16ff7e79662c.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+10월 29일(토) 아름다운 여행으로 문경새재 트레킹을 하였습니다. 연이은 주말 가을비 소식이 반갑진 않았지만 문경은 내리는 비의 양도 적고 오후부터 비가 내릴 것이라는 일기예보가 그다지 걱정이 되지는 않았습니다. 하지만 예보와 달리 서울을 출발하여 문경에 도착하는 내내 비가 내렸습니다. 애초 일기예보대로라면 이번 걷기는 별일이 없을 것 같았는데 매번 어긋나는 예보 때문에 저도 거짓말쟁이가 되고 말았네요.^^ 아무튼 오늘 문경새재 트레킹은 우중 산책이었습니다.
+문경새재는 괴산쪽 제 3관문인 조령관을 시작으로 문경쪽 제 1관문인 주흘관 방향으로 전체 길이가 거의 12km 정도입니다. 괴산 고사리마을 주차장에 도착하여 잠깐 도로를 따라 걷고 한적한 조령산자연휴양림 산책로를 따라 걸으면 곧 조령관에 도착합니다. 휴양림은 사람이 많지 않고 더구나 차가 다니지 않기 때문에 호젓하게 걸을 수 있고 무엇보다 단풍이 곱습니다. 한데 그새 단풍잎이 많이 떨어졌더군요. 절정을 약간 지난 것 같고 비가 내리니 이파리가 떨어져 휴양림은 낙엽숲으로 변했습니다.
+휴양림을 통과하여 제 3관문까지는 함께 걷고 그 다음부터는 마음 편히 자유롭게 걸었습니다. 비가 많이 내리지는 않았지만 쉬이 그칠 비는 아니어서 점심식사로 준비해온 도시락을 드시기가 불편하셨을 것 같아 미안한 마음이었습니다. 
+그나마 어떤 구간을 지날 때는 고운 단풍도 남아 있고 계곡 주변으로 떨어진 낙엽은 이제 깊은 가을로 치닫는 풍경이 멋스럽기도 했습니다. 제 2관문을 지나고 교귀정을 차례로 지나 제 1관문 그리고 주차장에 도착하여 이번 문경새재 트레킹을 마쳤습니다.
+오늘 문경새재는 비가 내렸지만 사람들도 꽤 많아서 조금 혼잡함도 있었고 질척이는 흙길도 불편하셨죠?^^ 날씨만 좋았더라면 걷기에도 그리고 가끔씩 쉬기에도 좋았을 텐데 여러모로 피로가 더하셨을 거예요.다행히 서울로 올라오는 길은 전혀 막힘이 없어서 예상보다 일찍 오늘 일정을 마칠 수 있었습니다. 
+올해는 단풍이 예상보다 이르고 시기가 짧아서 이번 문경새재 단풍은 조금 아쉬움으로 남습니다. 그래도 참여하신 분들 모두 문경새재의 단풍이 아쉬움이 크지 않았다고 말씀해주셔서 오히려 위안이 되었네요.^^
+내일 하루 피로 잘 푸시고 다음 기회에는 초록 숲이 예쁜 봄날의 문경새재도 함께 해주시길 바라겠습니다~이 게시물을...

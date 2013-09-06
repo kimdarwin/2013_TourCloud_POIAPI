@@ -1,0 +1,992 @@
+설악산
+	설악/ncn+산/ncn
+
+울산바위리지를
+	울산바위리지/ncn+를/jco
+
+계획
+	계획/ncpa
+
+했는데
+	하/px+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+장마전선의
+	장마전선/ncn+의/jcm
+
+북상으로
+	북상/ncpa+으로/jca
+
+토요일
+	토요일/ncn
+
+새벽부터
+	새벽/ncn+부터/jxc
+
+비소식이라는
+	비소/ncpa+식/ncn+이/jp+라/ef+는/etm
+
+기상청의
+	기상/ncn+청/ncn+의/jcm
+
+예고
+	예고/ncpa
+
+때문에
+	때문/nbn+에/jca
+
+
+금요일
+	금요일/ncn
+
+산행계획이
+	산행/ncn+계획/ncpa+이/jcc
+
+인수봉
+	인수/ncn+봉/ncn
+
+야바위로
+	야바위/ncn+로/jca
+
+변경된다
+	변경/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+산행/등반
+	산행/ncn+//sp+등반/ncn
+
+후
+	후/ncn
+
+뒷풀이
+	뒷풀/ncn+이/jcc
+
+때,
+	때/ncn+,/sp
+
+올해
+	올해/ncn
+
+꼭
+	꼭/mag
+
+인수봉
+	인수/ncn+봉/ncn
+
+야바위,
+	야바위/ncn+,/sp
+
+비박을
+	비/xp+박/ncn+을/jco
+
+해보자고
+	하/pvg+어/ecx+보/px+자/ef+고/jcr
+
+했었는데
+	하/px+었었/ep+는데/ecs
+
+...
+	.../se
+
+
+갑자기
+	갑자기/mag
+
+계획된
+	계획/ncpa+되/xsvn+ㄴ/etm
+
+야간등반이
+	야간/ncn+등반/ncn+이/jcc
+
+기대감보다는
+	기대감/ncn+보다/jca+는/jxc
+
+긴장감으로
+	긴장감/ncn+으로/jca
+
+다가온다
+	다가오/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+산행일자
+	산행/ncn+이/jp+ㄹ/etm+자/nbn
+
+:
+	:/sp
+
+2010년
+	2010/nnc+년/nbu
+
+06년
+	06/nnc+년/nbu
+
+26일
+	26/nnc+일/nbu
+
+토요일
+	토요일/ncn
+
+
+산행코스
+	산행코스/ncn
+
+:
+	:/sp
+
+도선사(20:45)
+	도선사(20:45)/ncn
+
+-
+	-/sd
+
+인수C(22:30)
+	인수C(22:30)/ncn
+
+-
+	-/sd
+
+인수리지
+	일/pvg+ㄴ/etm+수/nbn+이/jp+리/ep+지/ecs
+
+-
+	-/sd
+
+인수봉(23:55)
+	인수봉(23:55)/ncn
+
+-
+	-/sd
+
+비박
+	비/xp+박/ncn
+
+-
+	-/sd
+
+하강(07:00)
+	하강(07:00)/ncn
+
+-
+	-/sd
+
+하드프리
+	하드/ncn+프리/ncn
+
+-
+	-/sd
+
+도선사(12:00)
+	도선사/ncn+(/sl+12/nnc+:/sp+00/nnc+)/sr
+
+
+산행인원
+	산행/ncn+인원/ncn
+
+:
+	:/sp
+
+라이트닝대장님,
+	라이트닝대장님,/ncn
+
+괴짜CEO님,
+	괴짜CEO님,/ncn
+
+갱이님,
+	갱이님,/ncn
+
+JoJo(나)
+	JoJo/f+(/sl+나/ncn+)/sr
+
+
+산행날씨
+	산행/ncn+날씨/ncn
+
+:
+	:/sp
+
+무덥고
+	무덥/paa+고/ecc
+
+흐린날씨,
+	흐린날씨,/ncn
+
+정상에서는
+	정상/ncn+에서/jca+는/jxc
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+바람
+	바람/ncn
+
+
+퇴근
+	퇴근/ncpa
+
+후,
+	후/ncn+,/sp
+
+승용차로
+	승용차/ncn+로/jca
+
+이동하니
+	이동/ncpa+하/xsva+니/ecs
+
+우이동까지
+	우이/ncn+동/ncn+까지/jxc
+
+무려
+	무려/mag
+
+1시간30분이나
+	1시간30분/ncn+이나/jcj
+
+걸린다
+	걸리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+다행이
+	다행/ncps+이/jcc
+
+약속시간에
+	약속시간/ncn+에/jca
+
+정확히
+	정확히/mag
+
+도착한다
+	도착/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+칼국수집에서
+	칼국수/ncn+집/ncn+에서/jca
+
+김밥으로
+	김밥/ncn+으로/jca
+
+간단히
+	간단히/mag
+
+저녁을
+	저녁/ncn+을/jco
+
+해결하고
+	해결/ncpa+하고/jct
+
+도선사에
+	도선사/ncn+에/jca
+
+차를
+	차/ncn+를/jco
+
+추차한다
+	추차한다/ncn
+
+.
+	./sf
+
+
+등산복으로
+	등산복/ncn+으로/jca
+
+갈아입고
+	갈아입/pvg+고/ecc
+
+산행을
+	산행/ncn+을/jco
+
+시작한다
+	시작/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+15분만에
+	15/nnc+분/nbu+만에/jca
+
+하루재에
+	하루/ncn+재/ncn+에/jca
+
+도착하니
+	도착/ncpa+하/xsva+니/ecs
+
+땀범벅,
+	땀범벅,/ncn
+
+다행히
+	다행히/mag
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+산바람이
+	산바람/ncn+이/jcc
+
+느껴진다
+	느끼/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+대슬랩
+	대슬랩/ncn
+
+하단에서
+	하단/ncn+에서/jca
+
+잠시
+	잠시/mag
+
+쉬어가며
+	쉬/pvg+어/ecx+가/px+며/ecc
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+맥주로
+	맥주/ncn+로/jca
+
+갈증을
+	갈증/ncn+을/jco
+
+달래기로
+	달래/pvg+기/etn+로/jca
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+인수봉
+	인수/ncn+봉/ncn
+
+하강지점에
+	하강/ncpa+지점/ncn+에/jca
+
+다다른다
+	다다르/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+여기서
+	여기/npd+서/jca
+
+장비를
+	장비/ncpa+를/jco
+
+갖추고
+	갖추/pvg+고/ecc
+
+...
+	.../se
+
+
+인수C
+	인수C/ncn
+
+시작지점으로
+	시작/ncpa+지점/ncn+으로/jca
+
+이동한다
+	이동/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+이쪽은
+	이쪽/ncn+은/jxc
+
+바람
+	바라/pvg+ㅁ/etn
+
+한점
+	한/nnc+점/nbu
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+오늘
+	오늘/ncn
+
+선등은
+	서/pvg+ㄴ/etm+등/nbn+은/jxc
+
+비록
+	비록/mag
+
+아주
+	아주/mag
+
+쉬운길이지만
+	쉬운길/ncn+이/jp+지만/ecs
+
+초행이고
+	초행/ncn+이/jp+고/ecc
+
+야바위라
+	야바위/ncn+이/jp+라/ecs
+
+라이대장님이
+	라이대장님/ncn+이/jcc
+
+직접하기로
+	직접/ncn+하기/ncn+로/jca
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+1~2피치를
+	1~2피치/ncn+를/jco
+
+1피치로
+	1피치/ncn+로/jca
+
+묶어
+	묶/pvg+어/ecx
+
+끊는다
+	끊/pvg+는다/ef
+
+.
+	./sf
+
+
+배낭이
+	배낭/ncn+이/jcc
+
+장난이
+	장난/ncn+이/jcc
+
+아니다
+	아니/paa+다/ef+./sf
+
+.
+	./sf
+
+
+야바위
+	야바위/ncn
+
+기념사진
+	기념사진/ncn
+
+...
+	.../se
+
+
+5.6
+	5.6/nnc
+
+길이란다
+	길이란다/ncn
+
+.
+	./sf
+
+
+인수C
+	인수C/ncn
+
+2피치가
+	2피치/ncn+가/jcs
+
+조금은
+	조금/mag+은/jxc
+
+더
+	더/mag
+
+어렵다
+	어렵/paa+다/ef
+
+.
+	./sf
+
+
+인수리지길과
+	인수리지길/ncn+과/jct
+
+합류한다
+	합류/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+여기도
+	여기/npd+도/jxc
+
+1~2피치를
+	1~2피치/ncn+를/jco
+
+묶어
+	묶/pvg+어/ecx
+
+한번에
+	한/nnc+번/nbu+에/jca
+
+끊는다
+	끊/pvg+는다/ef
+
+.
+	./sf
+
+
+인수C길이
+	인수C길/ncn+이/jcc
+
+인수봉을
+	인수/ncn+봉/ncn+을/jco
+
+오르는
+	오르/pvg+는/etm
+
+가장
+	가장/mag
+
+빠르고
+	빠르/paa+고/ecc
+
+쉬운길
+	쉬운길/ncn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+워킹으로
+	워킹/ncn+으로/jca
+
+조금만
+	조금/mag+만/jxc
+
+오르면
+	오르/pvg+면/ecs
+
+인수봉
+	인수/ncn+봉/ncn
+
+정상
+	정상/ncn
+
+...
+	.../se
+
+
+인수
+	일/pvg+ㄴ/etm+수/nbn
+
+정상에서
+	정상/ncn+에서/jca
+
+...
+	.../se
+
+
+6번째이다
+	6/nnc+번/nbu+째/xsnu+이/jp+다/ef
+
+.
+	./sf
+
+
+비록
+	비록/mag
+
+너무
+	너무/mag
+
+쉬운길로
+	쉬운길/ncn+로/jca
+
+올랐지만,
+	오르/pvg+아/ep+지만/ecs+,/sp
+
+야바위로
+	야바위/ncn+로/jca
+
+올라
+	오르/pvg+아/ecx
+
+기억에
+	기억/nnc+에/jca
+
+오래
+	오래/mag
+
+동안
+	동안/ncn
+
+남을
+	남/ncn+을/jco
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+서울야경,
+	서울야경,/ncn
+
+만경대,
+	만경/ncn+대/ncn+,/sp
+
+백운대를
+	백운대/ncn+를/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+인수바람을
+	인수/ncn+바람/ncn+을/jco
+
+맞으며
+	맞/pvg+으며/ecc
+
+늦은
+	늦/paa+은/etm
+
+저녁을
+	저녁/ncn+을/jco
+
+먹는다
+	먹/pvg+는다/ef
+
+.
+	./sf
+
+
+삼겹살에
+	삼겹살/ncn+에/jca
+
+신선한
+	신선/ncn+한/ncn
+
+쌈과
+	싸/paa+ㅁ/etn+과/jcj
+
+소주
+	소주/ncn
+
+...
+	.../se
+
+
+허기를
+	허기/ncn+를/jco
+
+다래기에
+	다래/ncn+이/jp+기/etn+에/jca
+
+너무나
+	너무나/mag
+
+작은
+	작/paa+은/etm
+
+불판
+	불/pvg+ㄹ/etm+판/nbn
+
+...
+	.../se
+
+
+맛이
+	맛/ncn+이/jcc
+
+죽음이다
+	죽음/ncn+이/jp+다/ef
+
+...
+	.../se
+
+
+700ml
+	700ml/ncn
+
+소주
+	소주/ncn
+
+두병이
+	두/nnc+병/nbu+이/jcc
+
+금새
+	금새/ncn
+
+동이난다
+	동이난다/ncn
+
+.
+	./sf
+
+
+1차
+	1/nnc+차/nbu
+
+마무리는
+	마무리/ncpa+는/jxc
+
+갱이님/괴짜님표
+	갱이님/괴짜님표/ncn
+
+볶음밥으로
+	볶음밥/ncn+으로/jca
+
+...
+	.../se
+
+
+2차는
+	2/nnc+차/nbu+는/jxc
+
+과일에
+	과일/ncn+에/jca
+
+맥주
+	맥주/ncn
+
+...
+	.../se
+
+
+3시가
+	3/nnc+시/nbu+가/jcc
+
+넘어간다
+	넘/pvg+어/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+침낭
+	침낭/ncn
+
+하나씩으로
+	하나씩/ncn+으로/jca
+
+비박을
+	비/xp+박/ncn+을/jco
+
+준비한다
+	준비/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+덧장바위
+	덧장바위/ncn
+
+아래
+	아래/ncn
+
+맨
+	맨/mma
+
+좌측이
+	좌측/ncn+이/jcc
+
+갱이님/괴짜님
+	갱이님/괴짜님/ncn
+
+...
+	.../se
+
+
+바로
+	바로/mag
+
+우측으로
+	우측/ncn+으로/jca
+
+라이대장님
+	라이대장님/ncn
+
+...
+	.../se
+
+
+맨
+	맨/mma
+
+우측은
+	우측/ncn+은/jxc
+
+나,
+	나/ncn+,/sp
+
+
+길지
+	길/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+설잠으로
+	설잠/ncn+으로/jca
+
+아침을
+	아침/ncn+을/jco
+
+맞는다
+	맞/pvg+는다/ef
+
+.
+	./sf
+
+
+주변을
+	주변/ncn+을/jco
+
+정돈하고
+	정돈/ncpa+하고/jct
+
+하강한다
+	하강/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+하산길에
+	하산/ncpa+길/ncn+에/jca
+
+
+라이대장님이
+	라이대장님/ncn+이/jcc
+
+꾸러기들의
+	꾸러기들/ncn+의/jcm
+
+합창,
+	합창/ncpa+,/sp
+
+학교길B에
+	학교길B/ncn+에/jca
+
+줄을
+	줄/nbn+을/jco
+
+건다
+	것/nbn+이/jp+ㄴ다/ef
+
+.
+	./sf
+
+
+원석이네
+	원석/ncn+이/jp+네/ef
+
+김치찌게로
+	김치찌게/ncn+로/jca
+
+늦은
+	늦/paa+은/etm
+
+아침을
+	아침/ncn+을/jco
+
+해결하고
+	해결/ncpa+하고/jct
+
+오랫동안
+	오랫동안/ncn
+
+기억에
+	기억/nnc+에/jca
+
+남을
+	남/ncn+을/jco
+
+야바위
+	야바위/ncn
+
+산행을
+	산행/ncn+을/jco
+
+마무리한다
+	마무리/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+라이대장님/갱이님/괴짜님
+	라이대장님/갱이님/괴짜님/ncn
+
+수고하셨습니다
+	수/nbn+이/jp+고/ecx+하/px+셨/ep+습니다/ef
+
+.
+	./sf
+
+
+즐거웠습니다
+	즐겁/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+(라이대장님,
+	(라이대장님,/ncn
+
+갱이님이
+	갱이님/ncn+이/jcc
+
+찍으신
+	찍/pvg+으시/ep+ㄴ/etm
+
+사진으로
+	사진/ncn+으로/jca
+
+포스팅을
+	포스팅/ncn+을/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.)
+	./sf+)/sr

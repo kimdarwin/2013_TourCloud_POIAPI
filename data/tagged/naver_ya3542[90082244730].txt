@@ -1,0 +1,965 @@
+죽어도
+	죽/pvg+어도/ecs
+
+못보내
+	못보내/ncn
+
+내가
+	나/npp+가/jcs
+
+어떻게
+	어떻/pad+게/ecs
+
+널
+	널/pvg+ㄹ/etm
+
+보내
+	보/nbu+내/xsnu
+
+
+가려거든
+	가려거든/ncn
+
+떠나려거든
+	떠나려거든/ncn
+
+내
+	내/npp
+
+가슴
+	가슴/ncn
+
+고쳐내
+	고치/pvg+어/ecx+내/px+어/ecs
+
+
+아프지
+	아프/paa+지/ecx
+
+않게
+	않/px+게/ecs
+
+나
+	나/pvg+아/ecx
+
+살아갈
+	살/pvg+아/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+라도
+	라/ncn+도/jxc
+
+있게
+	있/paa+게/ecc
+
+
+죽어도
+	죽/pvg+어도/ecs
+
+못보내
+	못보내/ncn
+
+..
+	./sf+./sf
+
+
+요즘
+	요즘/mag
+
+이
+	이/mmd
+
+노래에
+	노래/ncn+에/jca
+
+푹
+	푹/mag
+
+빠졌다
+	빠지/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+듣고또
+	듣고또/ncn
+
+들어봐도
+	들/pvg+어/ecx+보/px+아/ecs
+
+가슴
+	가슴/ncn
+
+저미는
+	저미/pvg+는/etm
+
+곡.
+	곡/ncn+./sf
+
+.
+	./sf
+
+
+'죽어도
+	'/sl+죽/pvg+어/ecs+도/jxc
+
+못보내'
+	못보내'/ncn
+
+라이브
+	라이브/ncn
+
+영상으로
+	영상/ncn+으로/jca
+
+들어본다
+	들/pvg+어/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+죽어도
+	죽/pvg+어도/ecs
+
+못보내
+	못보내/ncn
+
+-
+	-/sd
+
+2AM
+	2AM/ncn
+
+(
+	(/sl
+
+Live
+	Live/f
+
+영상
+	영상/ncn
+
+)
+	)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc17/2010/02/28/1692/031002137A11433B7803FB63536B6ED3443_ya3542_logo.
+	net/blogucc17/2010/02/28/1692/031002137A11433B7803FB63536B6ED3443_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'191.
+	'/sr+191./nnc
+
+38';
+	38/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'479AB89F0EBD3DEA7D33788E63201F8D332E';
+	'479AB89F0EBD3DEA7D33788E63201F8D332E/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V128819b1c530ad43d42648c7048e97df8b79c0688d08875cd4a9ab339233624b1eb648c7048e97df8b79';
+	'V128819b1c530ad43d42648c7048e97df8b79c0688d08875cd4a9ab339233624b1eb648c7048e97df8b79/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_00286
+	ugcPlayer_00286/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_00286'
+	VideoInfraUGCPlayer('ugcPlayer_00286'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_00286
+	ugcPlayer_00286/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+죽어도
+	죽/pvg+어도/ecs
+
+못보내
+	못보내/ncn
+
+가사
+	가사/ncn
+
+
+어려도
+	어리/paa+어도/ecs
+
+아픈
+	아프/paa+ㄴ/etm
+
+건
+	거/nbn+은/jxc
+
+똑같아
+	똑같/paa+아/ecs
+
+
+세상을
+	세상/ncn+을/jco
+
+잘
+	잘/mag
+
+모른다고
+	모르/pvg+ㄴ다/ef+고/jcr
+
+아픈걸
+	아픈걸/ncn
+
+모르진
+	모르진/ncn
+
+않아
+	않/paa+아/ecs
+
+
+괜찮아
+	괜찮/paa+아/ecx
+
+질
+	지/px+ㄹ/etm
+
+거라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+왜
+	왜/mag
+
+거짓말을
+	거짓/ncn+말/ncn+을/jco
+
+해
+	하/pvg+어/ecx
+
+
+이렇게
+	이렇/pad+게/ecs
+
+아픈
+	아프/paa+ㄴ/etm
+
+가슴이
+	가슴/ncn+이/jcc
+
+어떻게
+	어떻/pad+게/ecs
+
+쉽게
+	쉽/paa+게/ecs
+
+낫겠어
+	낫/paa+겠/ep+어/ecs
+
+
+너
+	너/npp
+
+없이
+	없이/mag
+
+어떻게
+	어떻/pad+게/ecs
+
+살겠어
+	살/pvg+겠/ep+어/ecs
+
+그래서
+	그래서/maj
+
+난
+	난/ncn
+
+
+죽어도
+	죽/pvg+어도/ecs
+
+못
+	못/mag
+
+보내
+	보내/pvg+어/ecx
+
+내가
+	나/npp+가/jcs
+
+어떻게
+	어떻/pad+게/ecs
+
+널
+	널/pvg+ㄹ/etm
+
+보내
+	보/nbu+내/xsnu
+
+
+가려거든
+	가려거든/ncn
+
+떠나려거든
+	떠나려거든/ncn
+
+내
+	내/npp
+
+가슴
+	가슴/ncn
+
+고쳐내
+	고치/pvg+어/ecx+내/px+어/ecs
+
+
+아프지
+	아프/paa+지/ecx
+
+않게
+	않/px+게/ecs
+
+나
+	나/pvg+아/ecx
+
+살아갈
+	살/pvg+아/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+라도
+	라/ncn+도/jxc
+
+있게
+	있/paa+게/ecc
+
+
+안
+	안/mag
+
+된다면
+	되/pvg+ㄴ다면/ecs
+
+어차피
+	어차피/mag
+
+못살
+	못살/pvg+ㄹ/etm
+
+거
+	것/nbn
+
+
+죽어도
+	죽/pvg+어도/ecs
+
+못
+	못/mag
+
+보내
+	보/nbu+내/xsnu
+
+
+아무리
+	아무리/mag
+
+니가
+	니/ncn+가/jcs
+
+날
+	나/px+ㄹ/etm
+
+밀쳐도
+	밀치/pvg+어도/ecs
+
+끝까지
+	끝/ncn+까지/jxc
+
+붙잡을
+	붙잡/pvg+을/etm
+
+거야
+	것/nbn+이/jp+야/ef
+
+
+어디로
+	어디/npd+로/jca
+
+가지
+	가지/nbu
+
+못하게
+	못하/paa+게/ecc
+
+
+정말
+	정말/mag
+
+갈
+	가/pvg+ㄹ/etm
+
+거라면
+	것/nbn+이/jp+라면/ecs
+
+거짓말을
+	거짓/ncn+말/ncn+을/jco
+
+해
+	하/pvg+어/ecx
+
+
+내일
+	내/npp+이/jp+ㄹ/etm
+
+다시
+	다시/mag
+
+만나자고
+	만나/pvg+자/ef+고/jcr
+
+웃으면서
+	웃/pvg+으면서/ecc
+
+보자고
+	보/nbu+이/jp+자고/ecs
+
+
+헤어지잔
+	헤어지잔/ncn
+
+말은
+	말/px+ㄴ/etm
+
+농담이라고
+	농담/ncn+이/jp+라/ef+고/jcr
+
+아니면
+	아니/paa+면/ecs
+
+난
+	난/ncn
+
+
+죽어도
+	죽/pvg+어도/ecs
+
+못
+	못/mag
+
+보내
+	보내/pvg+어/ecx
+
+내가
+	나/npp+가/jcs
+
+어떻게
+	어떻/pad+게/ecs
+
+널
+	널/pvg+ㄹ/etm
+
+보내
+	보/nbu+내/xsnu
+
+
+가려거든
+	가려거든/ncn
+
+떠나가려든
+	떠나/pvg+아/ecx+가/px+려/ecs+든/jxc
+
+내
+	내/npp
+
+가슴
+	가슴/ncn
+
+고쳐내
+	고치/pvg+어/ecx+내/px+어/ecs
+
+
+아프지
+	아프/paa+지/ecx
+
+않게
+	않/px+게/ecs
+
+나
+	나/pvg+아/ecx
+
+살아갈
+	살/pvg+아/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+라도
+	라/ncn+도/jxc
+
+있게
+	있/paa+게/ecc
+
+
+안
+	안/mag
+
+된다면
+	되/pvg+ㄴ다면/ecs
+
+어차피
+	어차피/mag
+
+못살
+	못살/pvg+ㄹ/etm
+
+거
+	것/nbn
+
+
+죽어도
+	죽/pvg+어도/ecs
+
+못
+	못/mag
+
+보내
+	보/nbu+내/xsnu
+
+
+그
+	그/mmd
+
+많은
+	많/paa+은/etm
+
+시간을
+	시간/ncn+을/jco
+
+함께
+	함께/mag
+
+겪었는데
+	겪/pvg+었/ep+는데/ecs
+
+
+이제와
+	이제/ncn+와/jct
+
+어떻게
+	어떻/pad+게/ecs
+
+혼자
+	혼자/mag
+
+살란
+	살/nbu+란/jcm
+
+거야
+	것/nbn+이/jp+야/ef
+
+
+그렇겐
+	그렇겐/ncn
+
+못해
+	못하/pvg+어/ecx
+
+난
+	나/px+ㄴ/etm
+
+못해
+	못하/paa+어/ecs
+
+
+죽어도
+	죽/pvg+어도/ecs
+
+못
+	못/mag
+
+보내
+	보내/pvg+어/ecx
+
+정말로
+	정말/ncn+로/jca
+
+못
+	못/mag
+
+보내
+	보/nbu+내/xsnu
+
+
+내가
+	나/npp+가/jcs
+
+어떻게
+	어떻/pad+게/ecs
+
+널
+	널/pvg+ㄹ/etm
+
+보내
+	보/nbu+내/xsnu
+
+
+가려거든
+	가려거든/ncn
+
+떠나가려든
+	떠나/pvg+아/ecx+가/px+려/ecs+든/jxc
+
+내
+	내/npp
+
+가슴
+	가슴/ncn
+
+곡쳐내
+	곡쳐내/ncn
+
+
+아프지
+	아프/paa+지/ecx
+
+않게
+	않/px+게/ecs
+
+나
+	나/pvg+아/ecx
+
+살아갈
+	살/pvg+아/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+라도
+	라/ncn+도/jxc
+
+있게
+	있/paa+게/ecc
+
+
+안
+	안/mag
+
+된다면
+	되/pvg+ㄴ다면/ecs
+
+어차피
+	어차피/mag
+
+못살
+	못살/pvg+ㄹ/etm
+
+거
+	것/nbn
+
+
+죽어도
+	죽/pvg+어도/ecs
+
+못
+	못/mag
+
+보내
+	보/nbu+내/xsnu
+
+
+민초호야의
+	민초호야/ncn+의/jcm
+
+음악공간
+	음악/ncn+공간/ncn
+
+
+죽어도
+	죽/pvg+어도/ecs
+
+못보내
+	못보내/ncn

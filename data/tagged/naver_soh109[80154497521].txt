@@ -1,0 +1,2861 @@
+경북
+	경북/ncn
+
+경주시
+	경주시/ncn
+
+켄싱턴리조트(경주보문)
+	켄싱턴리조트(경주보문)/ncn
+
+_보문관광단지
+	_보문관광단지/ncn
+
+근처에
+	근처/ncn+에/jca
+
+자리잡은
+	자리잡/pvg+은/etm
+
+곳에서
+	곳/ncn+에서/jca
+
+경주여행의
+	경주/ncpa+여행/ncpa+의/jcm
+
+하룻밤을
+	하룻밤/ncn+을/jco
+
+뜨뜻하게
+	뜨뜻하/paa+게/ecs
+
+보낸
+	보내/pvg+ㄴ/etm
+
+하루
+	하루/ncn
+
+(120218)
+	(/sl+120218/nnc+)/sr
+
+
+가족과
+	가족/ncn+과/jct
+
+함께
+	함께/mag
+
+여행을
+	여행/ncpa+을/jco
+
+하였던
+	하/px+었/ep+던/etm
+
+경상북도
+	경상/ncn+북/ncn+도/jxc
+
+경주시~
+	경주시/ncn+~/sd
+
+!!
+	!/sf+!/sf
+
+
+아무래도
+	아무렇/pad+어도/ecs
+
+전라도에서
+	전라/ncn+도/ncn+에서/jca
+
+여행을
+	여행/ncpa+을/jco
+
+가는거라서
+	가/px+는/etm+것/nbn+이/jp+라서/ecs
+
+당일치기로
+	당일치기/ncn+로/jca
+
+여행도
+	여행/ncpa+도/jxc
+
+어렵고
+	어렵/paa+고/ecc
+
+1박
+	1/nnc+박/nbu
+
+2일로
+	2/nnc+일/nbu+로/jca
+
+향하게
+	향하/pvg+게/ecs
+
+되었지요
+	되/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+가족들이
+	가족/ncn+들/ncn+이/jcc
+
+성인
+	성/ncn+이/jp+ㄴ/etm
+
+6명에
+	6/nnc+명/nbu+에/jca
+
+어린
+	어리/paa+ㄴ/etm
+
+조카
+	조카/ncn
+
+1명이었기에
+	1/nnc+명/nbu+이/jp+었/ep+기/etn+에/jca
+
+어디로
+	어디/npd+로/jca
+
+숙소를
+	숙소/ncn+를/jco
+
+할까
+	하/px+ㄹ까/ef
+
+..
+	./sf+./sf
+
+
+펜션,
+	펜션,/ncn
+
+호텔,
+	호텔/ncn+,/sp
+
+리조트들을
+	리조트/ncn+들/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+알아보고
+	알/pvg+아/ecx+보/px+고/ecc
+
+가격
+	가격/ncn
+
+비교도
+	비교도/ncn
+
+하였지요
+	하/px+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+경주에
+	경주/ncpa+에/jca
+
+확실히
+	확실히/mag
+
+팬션은
+	팬션/ncn+은/jxc
+
+많지만
+	많/paa+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+아파트
+	아파트/ncn
+
+형식처럼
+	형식/ncn+처럼/jca
+
+큰
+	크/paa+ㄴ/etm
+
+방에
+	방/ncn+에/jca
+
+방이
+	방/ncn+이/jcc
+
+따로
+	따로/mag
+
+나뉘어져
+	나뉘/pvg+어/ecx+지/px+어/ecx
+
+있는
+	있/px+는/etm
+
+룸을
+	룸/ncn+을/jco
+
+찾기가
+	찾/pvg+기/etn+가/jcs
+
+어려웠지요
+	어렵/paa+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+여튼
+	여튼/ncn
+
+그러다가
+	그러/pvd+다가/ecs
+
+어차피
+	어차피/mag
+
+하룻밤이니
+	하룻밤/ncn+이/jp+니/ecs
+
+..
+	./sf+./sf
+
+
+라고
+	라/ncn+이/jp+고/ecc
+
+생각하며
+	생각/ncpa+하/xsva+며/ecc
+
+
+경주
+	경주/ncpa
+
+보문관광단지
+	보문관광단지/ncn
+
+근처에
+	근처/ncn+에/jca
+
+자리잡은
+	자리잡/pvg+은/etm
+
+'켄싱턴리조트'로
+	'켄싱턴리조트'/ncn+로/jca
+
+정하였지요
+	정하/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+켄싱턴리조트(경주보문/프린스형)경북
+	켄싱턴리조트(경주보문/프린스형)경북/ncn
+
+경주시
+	경주시/ncn
+
+북군동
+	북군동/ncn
+
+11-1
+	11/nnc+-1/nnc
+
+tel.
+	tel/f+./sy
+
+054-748-8400
+	054/nnc+-748/nnc+-8400/nnc
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+kensingtonresort.
+	kensingtonresort/f+./sy
+
+co.
+	co/f+./sy
+
+kr/resort/index.
+	kr/f+//sp+resort/f+//sp+index/f+./sy
+
+asp
+	asp/f
+
+?
+	?/sf
+
+
+cate=gyeongju
+	cate/f+=/sy+gyeongju/f
+
+
+체크인을
+	체크인/ncn+을/jco
+
+먼저
+	먼저/mag
+
+하고
+	하/pvg+고/ecc
+
+방을
+	방/ncn+을/jco
+
+먼저
+	먼저/mag
+
+선정
+	선정/ncpa
+
+받기
+	받/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+늦은
+	늦/paa+은/etm
+
+점심을
+	점심/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+보문관광단지
+	보문관광단지/ncn
+
+근처에
+	근처/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+켄싱턴리조트로
+	켄싱턴리조트/ncn+로/jca
+
+향하였답니다
+	향하/pvg+었/ep+답니다/ef
+
+.
+	./sf
+
+
+워낙에
+	워낙/ncn+에/jca
+
+경주자체에
+	경주/ncpa+자체/ncn+에/jca
+
+관광객들이
+	관광객/ncn+들/ncn+이/jcc
+
+많으니
+	많/paa+으니/ecs
+
+그만큼
+	그/npp+만큼/jxc
+
+차도
+	차/ncn+도/jxc
+
+많고
+	많/paa+고/ecc
+
+..
+	./sf+./sf
+
+
+더군다나
+	더군다나/mag
+
+보문호
+	보문호/ncn
+
+근처에
+	근처/ncn+에/jca
+
+리조트
+	리조트/ncn
+
+군락지처럼
+	군락지/ncn+처럼/jca
+
+가득하다보니
+	가득/ncps+하/xsms+어다/ecx+보/px+니/ecs
+
+겨울이지만
+	겨울/ncn+이/jp+지만/ecs
+
+여행
+	여행/ncpa
+
+온
+	오/px+ㄴ/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+북적거리더군요
+	북적거리/pvg+더군/ef+요/jxf
+
+.
+	./sf
+
+
+체크인
+	체크인/ncn
+
+하려고
+	하/pvg+려고/ecs
+
+내부로
+	내부/ncn+로/jca
+
+들어서니
+	들어서/pvg+니/ecs
+
+엄청난
+	엄청나/paa+ㄴ/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+대기중이었습니다
+	대/nbu+이/jp+기/etn+중/xsnx+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그러고
+	그러/pvd+어/ef+고/jcr
+
+보면
+	보/px+면/ecs
+
+국내
+	국내/ncn
+
+리조트에
+	리조트/ncn+에/jca
+
+묵어보는건
+	묵어보는건/ncn
+
+처음인데
+	처음/ncn+이/jp+ㄴ데/ecs
+
+은행처럼
+	은행/ncn+처럼/jca
+
+번호표
+	번호/ncn+표/ncn
+
+뽑아서
+	뽑/pvg+어서/ecs
+
+기다려야
+	기다리/pvg+어야/ecs
+
+하는
+	하/pvg+는/etm
+
+경우는
+	경우/ncn+는/jxc
+
+처음이어요
+	처음/ncn+이/jp+어요/ef
+
+
+거즘
+	거즘/ncn
+
+30분
+	30/nnc+분/nbu
+
+넘게
+	넘/pvg+게/ecs
+
+기다렸지요
+	기다리/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+미리
+	미리/mag
+
+예약했음에도
+	예약/ncpa+하/xsva+었/ep+음/etn+에/jca+도/jxc
+
+말입니다
+	말/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+켄싱턴리조트의
+	켄싱턴리조트/ncn+의/jcm
+
+조식이
+	조식/ncpa+이/jcc
+
+제공되는
+	제공/ncpa+되/xsvn+는/etm
+
+곳인데요
+	곳인데요/ncn
+
+.
+	./sf
+
+
+룸을
+	룸/ncn+을/jco
+
+예약하면서
+	예약/ncpa+하/xsva+면서/ecc
+
+기본
+	기본/ncn
+
+2매는
+	2/nnc+매/nbu+는/jxc
+
+제공되나봐요
+	제공되나봐요/ncn
+
+.
+	./sf
+
+
+헌데
+	헐/pvg+ㄴ데/ecs
+
+그곳에서
+	그곳/ncn+에서/jca
+
+추가
+	추/ncn+가/jcs
+
+할적에는
+	하/pvg+ㄹ/etm+적/nbn+에/jca+는/jxc
+
+1인당
+	1인당/ncn
+
+1,2000냥을
+	1,200/nnc+0/nnc+냥/nbu+을/jco
+
+추가해야한다고
+	추가/ncpa+하/xsva+어야/ecx+하/px+ㄴ다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+헌데
+	헐/pvg+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+조식의
+	조식/ncpa+의/jcm
+
+종류가
+	종류/ncn+가/jcs
+
+다양하지도
+	다양/ncps+하/xsms+지/ecs+도/jxc
+
+먹을만한게
+	먹/pvg+을/etm+만/nbs+하/xsms+ㄴ게/ecs
+
+많지도
+	많/paa+지/ecs+도/jxc
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+지금껏
+	지금껏/mag
+
+여행을
+	여행/ncpa+을/jco
+
+하며
+	하/pvg+며/ecc
+
+숙박시설을
+	숙박시설/ncpa+을/jco
+
+이용한것은
+	이용/ncpa+하/xsva+ㄴ/etm+것/nbn+은/jxc
+
+대부분
+	대부분/ncn
+
+일본의
+	일/nnc+본/nbu+의/jcm
+
+호텔들인데요
+	호텔들인데요/ncn
+
+.
+	./sf
+
+
+일본
+	일/nnc+본/nbu
+
+여행하며
+	여행/ncpa+하/xsva+며/ecc
+
+호텔을
+	호텔/ncn+을/jco
+
+묵었어도
+	묵/pvg+었/ep+어도/ecs
+
+제
+	저/npp+의/jcm
+
+돈주고
+	돈주/ncn+이/jp+고/ecc
+
+하는
+	하/pvg+는/etm
+
+여행이기에
+	여행/ncpa+이/jp+기/etn+에/jca
+
+저렴한
+	저렴/ncn+한/ncn
+
+비지니스급으로
+	비지니스/ncn+급/ncn+으로/jca
+
+다니곤
+	다니/pvg+곤/ecs
+
+하였는데
+	하/px+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+조식이
+	조식/ncpa+이/jcc
+
+이렇게
+	이렇/pad+게/ecs
+
+허름한건
+	허름/ncn+한/ncn+건/xsnx
+
+사실
+	사실/mag
+
+처음
+	처음/mag
+
+봅니다
+	보/pvg+ㅂ니다/ef
+
+
+그래도
+	그래도/maj
+
+공짜로
+	공짜/ncn+로/jca
+
+준
+	주/px+ㄴ/etm
+
+조식권으로
+	조식/ncpa+권/ncn+으로/jca
+
+맛이라도
+	맛/ncn+이/jp+라/ecs+도/jxc
+
+보았지만
+	보/px+아/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+다른
+	다른/mma
+
+가족들꺼까지
+	가족들꺼까지/ncn
+
+돈주고
+	돈주/ncn+이/jp+고/ecc
+
+조식권
+	조식/ncpa+권/ncn
+
+구매하지
+	구매/ncpa+하/xsva+지/ecx
+
+않는게
+	않/px+는게/ecs
+
+다행이란
+	다행/ncps+이란/jxc
+
+생각도
+	생각/ncpa+도/jxc
+
+문득
+	문득/mag
+
+하였지요
+	하/px+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+있을껀
+	있을껀/ncn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+밥과
+	밥/ncn+과/jcj
+
+빵이랑
+	빵/ncn+이/jcs+랑/jxc
+
+;;
+	;/sy+;/sy
+
+하지만
+	하지만/maj
+
+뭔가
+	뭔가/ncn
+
+많지
+	많/paa+지/ecx
+
+않지요
+	않/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+^-^
+	^/sy+-/sd+^/sy
+
+
+3층으로
+	3/nnc+층/nbu+으로/jca
+
+방을
+	방/ncn+을/jco
+
+지정받고
+	지정/ncpa+받/xsva+고/ecc
+
+올라서니
+	올라서/pvg+니/ecs
+
+정말
+	정말/mag
+
+리조트가
+	리조트/ncn+가/jcs
+
+왠지
+	왠지/mag
+
+아파트
+	아파트/ncn
+
+같기만
+	같/paa+기/etn+만/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+켄싱턴리조트가
+	켄싱턴리조트/ncn+가/jcs
+
+본관
+	본관/ncn
+
+하나로
+	하나/nnc+로/jca
+
+이뤄진가
+	이루/pvg+어/ecx+지/px+ㄴ가/ef
+
+아니라
+	아니/paa+라/ecs
+
+별관처럼
+	별관/ncn+처럼/jca
+
+바로
+	바로/mag
+
+앞에도
+	앞/ncn+에/jca+도/jxc
+
+켄싱턴
+	켄싱턴/ncn
+
+리조트인데요
+	리조트인데요/ncn
+
+.
+	./sf
+
+
+주차장이
+	주차장/ncn+이/jcc
+
+꼬가
+	끄/pvg+어/ecx+가/px+아/ecx
+
+찰정도로
+	찰정도/ncn+로/jca
+
+차들이
+	차/ncn+들/xsncc+이/jcc
+
+가득하기만
+	가득/ncps+하/xsms+기/etn+만/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+큰
+	크/paa+ㄴ/etm
+
+거실에
+	거실/ncn+에/jca
+
+방
+	방/ncn
+
+2개가
+	2/nnc+개/nbu+가/jcc
+
+달린
+	달리/pvg+ㄴ/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+예약하였는데
+	예약/ncpa+하/xsva+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+방을
+	방/ncn+을/jco
+
+침대가
+	침대/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+방
+	방/ncn
+
+또는
+	또는/maj
+
+온돌방으로
+	온돌방/ncn+으로/jca
+
+고를수가
+	고르/pvg+ㄹ/etm+수/nbn+가/jcc
+
+있었는데
+	있/px+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+저희는
+	저희/npp+는/jxc
+
+온돌방으로
+	온돌방/ncn+으로/jca
+
+하였지요
+	하/px+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+드어서는
+	드/ncn+이/jp+어서/ecs+는/jxc
+
+순간
+	순간/ncn
+
+뭔가
+	뭔가/ncn
+
+제가
+	저/npp+가/jcs
+
+기대가
+	기대/pvg+어/ecx+가/px+아/ecx
+
+컸던건지
+	크/paa+었/ep+던/etm+것/nbn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+방송이라는게
+	방송/ncpa+이/jp+라는게/ecs
+
+화면발이라는걸
+	화면발이라는걸/ncn
+
+알면서도
+	알/pvg+면서/ecs+도/jxc
+
+'리
+	'/sr+리/nbu
+
+..
+	./sf+./sf
+
+
+리조트가
+	리조트/ncn+가/jcs
+
+원래
+	원래/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+생겼어
+	생기/pvg+었/ep+어/ef
+
+?!'
+	?/sf+!/sf+'/sl
+
+
+라는
+	라/ncn+는/jxc
+
+말이
+	말/ncn+이/jcc
+
+첫마디로
+	첫/nno+마디/nbu+로/jca
+
+내뱉게
+	내뱉/pvg+게/ecs
+
+되더라구요
+	되/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+리조트가
+	리조트/ncn+가/jcs
+
+처음이라
+	처음/ncn+이/jp+라/ecs
+
+촌티
+	촌티/ncn
+
+난것일지도
+	나/px+ㄴ/etm+것/nbn+이/jp+ㄹ지/ecs+도/jxc
+
+모르지요
+	모르/pvg+지/ef+요/jxf
+
+.
+	./sf
+
+
+여튼
+	여튼/ncn
+
+본래
+	본래/ncn
+
+국내에는
+	국내/ncn+에/jca+는/jxc
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+리조트들이
+	리조트/ncn+들/ncn+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+허름한
+	허름/ncn+한/ncn
+
+곳들이
+	곳/ncn+들/xsncc+이/jcc
+
+많다고
+	많/paa+다/ef+고/jcr
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+(동생말임
+	(/sl+동생/ncn+말/ncn+이/jp+ㅁ/etn
+
+^^;;)
+	^/sy+^/sy+;/sy+;/sy+)/sr
+
+
+그래서
+	그래서/maj
+
+저야
+	저/npp+이/jp+야/ef
+
+리조트가
+	리조트/ncn+가/jcs
+
+처음이니
+	처음/ncn+이/jp+니/ecs
+
+..
+	./sf+./sf
+
+
+그렇구나
+	그렇/pad+구나/ef
+
+하면서
+	하/pvg+면서/ecc
+
+기대가
+	기대/pvg+어/ecx+가/px+아/ecx
+
+커서인지
+	커서/ncn+이/jp+ㄴ지/ecs
+
+실망도
+	실망/ncpa+도/jxc
+
+살짝
+	살짝/mag
+
+다가왔지요
+	다가오/pvg+아/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+하룻밤이길
+	하룻밤이길/ncn
+
+잘했구나~
+	잘하/pvg+었/ep+구나/ef+~/sd
+
+생각은
+	생각/ncpa+은/jxc
+
+하였습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+뭔가
+	뭔가/ncn
+
+욕실도
+	욕실/ncn+도/jxc
+
+식당도
+	식당/ncn+도/jxc
+
+방도
+	방/ncn+도/jxc
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+가득히
+	가득히/mag
+
+...
+	.../se
+
+
+난방이
+	난방/ncn+이/jcc
+
+조절이
+	조절/ncpa+이/jcc
+
+따로
+	따로/mag
+
+필요한게
+	필요/ncps+한/ncn+게/jca
+
+아니라
+	아니/paa+라/ecs
+
+공동난방인
+	공동/ncn+난방/ncn+이/jp+ㄴ/etm
+
+형식인데요
+	형식인데요/ncn
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+방은
+	방/ncn+은/jxc
+
+따뜻해서
+	따뜻/ncn+해/ncn+서/jca
+
+너무
+	너무/mag
+
+좋았어요
+	좋/paa+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+이곳으로
+	이곳/npd+으로/jca
+
+여행할적에
+	여행/ncpa+하/xsva+ㄹ/etm+적/nbn+에/jca
+
+집에
+	집/ncn+에/jca
+
+보일러가
+	보일러/ncn+가/jcs
+
+일주일
+	일/nnc+주일/nbu
+
+넘게
+	넘/pvg+게/ecs
+
+고장나서
+	고장나/pvg+아/ecx
+
+추위에
+	추위/ncn+에/jca
+
+떨며
+	떨/pvg+며/ecc
+
+지냈었거든요
+	지내/pvg+었었/ep+거든/ef+요/jxf
+
+.
+	./sf
+
+
+@.@
+	@/sy+./sf+@/sy
+
+
+가족들이
+	가족/ncn+들/ncn+이/jcc
+
+많다보니
+	많다보니/ncn
+
+식탁에
+	식탁/ncn+에/jca
+
+앉을일은
+	앉을일/ncn+은/jxc
+
+없었지만
+	없/paa+었/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+본래
+	본래/ncn
+
+리조트
+	리조트/ncn
+
+내에서
+	내/npp+에서/jca
+
+음식을
+	음식/ncn+을/jco
+
+해먹지
+	해먹지/ncn
+
+않을
+	않/px+을/etm
+
+계획으로
+	계획/ncpa+으로/jca
+
+온거였는데
+	온거/ncn+이/jp+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+가족들끼리
+	가족/ncn+들/ncn+끼리/jxc
+
+저녁에
+	저녁/ncn+에/jca
+
+급
+	급/nbu
+
+생각이
+	생각/ncpa+이/jcc
+
+바뀌어서
+	바뀌/pvg+어서/ecs
+
+저녁을
+	저녁/ncn+을/jco
+
+리조트에서
+	리조트/ncn+에서/jca
+
+먹게
+	먹/pvg+게/ecs
+
+되었지요
+	되/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+구입해와서
+	구입/ncpa+하/xsva+어/ecx+오/px+아/ecx
+
+말이지요
+	말/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+짜잔~
+	짜잔~/ncn
+
+!!
+	!/sf+!/sf
+
+
+경주
+	경주/ncpa
+
+바로
+	바로/mag
+
+옆에
+	옆/ncn+에/jca
+
+포항시가
+	포항시/ncn+가/jcs
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+남동생이
+	남동생/ncn+이/jcc
+
+군대를
+	군대/ncn+를/jco
+
+포항에서
+	포항/ncn+에서/jca
+
+근무하였던지라
+	근무/ncpa+하/xsva+었/ep+던/etm+지/nbn+이/jp+라/ef
+
+..
+	./sf+./sf
+
+
+얼떨결에
+	얼떨결에/mag
+
+대게
+	대/nbu+이/jp+게/ecs
+
+이야기가
+	이야기/ncpa+가/jcc
+
+나오고~
+	나오/pvg+고/ecc+~/sd
+
+
+임산부와
+	임산부/ncn+와/jct
+
+어린
+	어리/paa+ㄴ/etm
+
+조카가
+	조카/ncn+가/jcs
+
+있어서
+	있/px+어서/ecs
+
+차마
+	차마/mag
+
+다
+	다/mag
+
+같이
+	같/paa+이/xsa
+
+포항으로
+	포항/ncn+으로/jca
+
+못가고
+	못가/ncn+이/jp+고/ecc
+
+..
+	./sf+./sf
+
+
+저와
+	저/npp+와/jcj
+
+동생들만
+	동생/ncn+들/ncn+만/jxc
+
+운전을
+	울/pvg+ㄴ/etm+전/nbn+을/jco
+
+해서
+	하/pvg+어서/ecs
+
+포항
+	포항/ncn
+
+죽도시장으로
+	죽도시장/ncn+으로/jca
+
+댕겨왔지요
+	댕겨왔지요/ncn
+
+.
+	./sf
+
+
+그곳에서
+	그곳/ncn+에서/jca
+
+후다닥
+	후다닥/ncn
+
+요녀석들이
+	요녀석들/ncn+이/jcc
+
+10만원어치랍니다
+	10/nnc+만/nnc+원/nbu+어치/xsnu+이/jp+랍니다/ef
+
+^^;;;
+	^/sy+^/sy+;/sy+;/sy+;/sy
+
+여튼
+	여튼/ncn
+
+이렇게
+	이렇/pad+게/ecs
+
+대게를
+	대게/ncn+를/jco
+
+구매하고
+	구매/ncpa+하고/jct
+
+..
+	./sf+./sf
+
+
+송어회도
+	송어/ncn+회/ncn+도/jxc
+
+구매하고
+	구매/ncpa+하고/jct
+
+김밥도
+	김밥/ncn+도/jxc
+
+사왔지요
+	사/pvg+아/ecx+오/px+아/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+경주
+	경주/ncpa
+
+보문관광단지에서
+	보문관광단지/ncn+에서/jca
+
+자가용으로
+	자가용/ncn+으로/jca
+
+포항
+	포항/ncn
+
+죽도시장을
+	죽도시장/ncn+을/jco
+
+가니
+	가/px+니/ecs
+
+40분정도
+	40분정/ncn+도/jxc
+
+소요되더라구요
+	소요/ncpa+되/xsvn+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+대게라
+	대/nbu+게/jca+이/jp+라/ecs
+
+한다면
+	하/pvg+ㄴ다면/ecs
+
+처음
+	처음/mag
+
+먹어봤지요
+	먹/pvg+어/ecx+보/px+아/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+엄연히
+	엄연히/mag
+
+말하면
+	말/ncpa+하/xsva+면/ecs
+
+괌
+	괌/ncn
+
+여행에서
+	여행/ncpa+에서/jca
+
+먹어보았지만요
+	먹/pvg+어/ecx+보/px+아/ep+지/ecs+만요/jxc
+
+.
+	./sf
+
+
+국내에서는
+	국내/ncn+에서/jca+는/jxc
+
+처음
+	처음/mag
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+포항
+	포항/ncn
+
+죽도시장에서
+	죽도시장/ncn+에서/jca
+
+직접
+	직접/mag
+
+쪄서
+	찌/pvg+어서/ecs
+
+팔기
+	팔/pvg+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+쪄왔지요
+	찌/pvg+어/ecx+오/px+아/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+하나하나
+	하/pvg+어/ecx+나/px+아/ecx+하/px+어/ecx+나/px+아/ecx
+
+다리를
+	다리/ncn+를/jco
+
+잘라서
+	자르/pvg+아/ecx
+
+어케
+	어케/ncn
+
+먹어야
+	먹/pvg+어야/ecs
+
+할지도
+	하/pvg+ㄹ지/ecs+도/jxc
+
+몰랐지만
+	모르/pvg+아/ep+지만/ecs
+
+그냥
+	그냥/mag
+
+게장처럼
+	게장/ncn+처럼/jca
+
+마구마구
+	마구/ncn+마구/ncn
+
+씹어서
+	씹/pvg+어서/ecs
+
+먹었습니다
+	먹/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+그
+	그/mmd
+
+맛이
+	맛/ncn+이/jcc
+
+어찌나
+	어찌/mag+나/jxc
+
+일품이던지
+	일품/ncn+이/jp+더/ep+ㄴ지/ecs
+
+약간의
+	약간/ncn+의/jcm
+
+짭쪼름한
+	짭쪼름한/ncn
+
+맛과
+	맛/ncn+과/jct
+
+함께
+	함께/mag
+
+그
+	그/mmd
+
+고소함이
+	고소/ncn+함/ncn+이/jcc
+
+한가득
+	한가/ncps+득/ncn
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+의외로
+	의외/ncn+로/jca
+
+많아
+	많/paa+아/ecx
+
+보이지
+	보이/pvg+지/ecx
+
+않아도
+	않/px+아/ecs
+
+가족들
+	가족/ncn+들/ncn
+
+모두
+	모두/mag
+
+배불리
+	배불리/mag
+
+먹었지요
+	먹/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+여행이라는
+	여행/ncpa+이/jp+라/ef+는/etm
+
+핑계로
+	핑계/ncn+로/jca
+
+이런것도
+	이런것/ncn+도/jxc
+
+먹어보는구나
+	먹/pvg+어/ecx+보/px+는구나/ef
+
+하였지요
+	하/px+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+저희
+	저희/npp
+
+엄마도
+	엄마/ncn+도/jxc
+
+지금껏
+	지금껏/mag
+
+50년
+	50/nnc+년/nbu
+
+넘게
+	넘/pvg+게/ecs
+
+사시면서
+	사/pvg+시/ep+면서/ecc
+
+대게는
+	대/nbu+게/jca+는/jxc
+
+처음
+	처음/mag
+
+맛보신다고
+	맛보/pvg+시/ep+ㄴ다고/ecs
+
+
+역시
+	역시/mag
+
+성인이
+	성인/ncn+이/jcc
+
+되고
+	되/pvg+고/ecc
+
+직장도
+	직장/ncn+도/jxc
+
+다니다
+	다니/pvg+다/ef
+
+보면
+	보/px+면/ecs
+
+왠지
+	왠지/mag
+
+효도해드려야
+	효도/ncpa+하/xsva+어/ecx+드리/px+어야/ecs
+
+하는데라는
+	하/px+ㄴ데/ef+라는/jcr
+
+생각도
+	생각/ncpa+도/jxc
+
+하게되고
+	하/pvg+게/ecx+되/px+고/ecc
+
+..
+	./sf+./sf
+
+
+늘
+	늘/mag
+
+농사
+	농사/ncn
+
+지으며
+	지/nbn+이/jp+며/ecc
+
+고생만
+	고생/ncpa+만/jxc
+
+하고
+	하/pvg+고/ecc
+
+지내신
+	지내/pvg+시/ep+ㄴ/etm
+
+부모님께
+	부모님/ncn+께/jca
+
+못
+	못/mag
+
+드셔본것들을
+	드셔본것들/ncn+을/jco
+
+사드리고
+	사/pvg+아/ecx+드리/px+고/ecc
+
+싶어지기도
+	싶/px+어/ecx+지/px+기/etn+도/jxc
+
+하는거
+	하는거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+시골에
+	시골/ncn+에/jca
+
+없는게
+	없/paa+는게/ecs
+
+많아서인지
+	많아서인지/ncn
+
+도시에
+	도시/ncn+에/jca
+
+간혹
+	간혹/mag
+
+나와도
+	나/npp+와/jct+도/jxc
+
+뭐가
+	뭐/npd+가/jcc
+
+드시고
+	들/pvg+시/ep+고/ecc
+
+싶냐고
+	싶/px+냐/ef+고/jcr
+
+하면
+	하/pvg+면/ecs
+
+한때는
+	하/pvg+ㄴ/etm+때/nbn+는/jxc
+
+짜장면과
+	짜장면/ncn+과/jcj
+
+통닭일때도
+	통닭/ncn+이/jp+ㄹ/etm+때/nbn+도/jxc
+
+많았지요
+	많/paa+아/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+요로코롬
+	요로코롬/ncn
+
+식탁에는
+	식탁/ncn+에/jca+는/jxc
+
+앉을수가
+	앉/pvg+을/etm+수/nbn+가/jcc
+
+없으니
+	없/paa+으니/ecs
+
+방바닥에서
+	방바닥/ncn+에서/jca
+
+정말
+	정말/mag
+
+정신없이
+	정신/ncn+없이/jca
+
+먹어대었지요
+	먹/pvg+어/ecx+대/px+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+다들
+	다들/ncn
+
+손이
+	손/ncn+이/jcc
+
+안보일정도로
+	안보/ncn+일정/ncn+도/ncn+로/jca
+
+말입니다
+	말/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+대게를
+	대게/ncn+를/jco
+
+사와서
+	사/pvg+아/ecx+오/px+아/ecx
+
+리조트
+	리조트/ncn
+
+안으로
+	안/ncn+으로/jca
+
+들어서니
+	들어서/pvg+니/ecs
+
+방은
+	방/ncn+은/jxc
+
+후끈후끈
+	후끈후끈/ncn
+
+..
+	./sf+./sf
+
+
+이제
+	이제/mag
+
+저녁
+	저녁/ncn
+
+먹을
+	먹/pvg+을/etm
+
+준비
+	준비/ncn
+
+하자고
+	하/px+자/ef+고/jcr
+
+대게를
+	대게/ncn+를/jco
+
+사온
+	사/pvg+아/ecx+오/px+ㄴ/etm
+
+스티로폼을
+	스티로폼/ncn+을/jco
+
+열었는데
+	열/pvg+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+조카
+	조카/ncn
+
+혜원냥이
+	혜원냥/ncn+이/jcc
+
+처음에는
+	처음/ncn+에/jca+는/jxc
+
+무섭다고
+	무섭/paa+다/ef+고/jcr
+
+피하는거예요
+	피하는거예요/ncn
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+전
+	전/nbn
+
+대게
+	대/nbu+이/jp+게/ecs
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍으려고
+	찍/pvg+으려고/ecs
+
+하였더니
+	하/px+었/ep+더니/ecs
+
+혜원냥이
+	혜원냥/ncn+이/jcc
+
+주변에서
+	주변/ncn+에서/jca
+
+뭔가
+	뭔가/ncn
+
+서성이는
+	서성/ncn+이/jp+는/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+..
+	./sf+./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+또
+	또/maj
+
+카메라를
+	카메라/ncn+를/jco
+
+좋아해서
+	좋/paa+아/ecx+하/px+어서/ecs
+
+꼭
+	꼭/mag
+
+사진찍어달라고
+	사진찍어달라/ncn+이/jp+고/ecc
+
+있는거
+	있는거/ncn
+
+같더라구요
+	같/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+"그래서
+	"/sl+그렇/pad+어서/ecs
+
+대게에
+	대게/ncn+에/jca
+
+손을
+	손/ncn+을/jco
+
+이렇게
+	이렇/pad+게/ecs
+
+콕
+	콕/ncn
+
+누르고
+	누르/pvg+고/ecc
+
+있어
+	있/px+어/ecx
+
+이모가
+	이모/ncn+가/jcs
+
+찍어줄께~~~"라고
+	찍/pvg+어/ecx+주/px+ㄹ께/ef+~/sd+~/sd+~/sd+"/sr+라고/jxc
+
+하였더니
+	하/px+었/ep+더니/ecs
+
+..
+	./sf+./sf
+
+
+무서운건
+	무서운건/ncn
+
+어디
+	어디/mad
+
+간건지
+	가/px+ㄴ/etm+것/nbn+이/jp+ㄴ지/ecs
+
+시키는대로
+	시키/pvg+ㄴ대로/ecs
+
+정말
+	정말/mag
+
+잘합니다
+	잘하/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+뭔가
+	뭔가/ncn
+
+맛난
+	맛나/paa+ㄴ/etm
+
+냄새가
+	냄새/ncn+가/jcs
+
+났는지
+	나/px+아/ep+는지/ecs
+
+들떠
+	들뜨/pvg+어/ecx
+
+있떠니
+	있떠니/ncn
+
+밥
+	밥/ncn
+
+먹을때는
+	먹/pvg+을/etm+때/nbn+는/jxc
+
+대게의
+	대/nbu+게/jca+의/jcm
+
+맛을
+	맛/ncn+을/jco
+
+이
+	이/mmd
+
+꼬맹이도
+	꼬맹이/ncn+도/jxc
+
+안건지
+	알/pvg+ㄴ/etm+것/nbn+이/jp+ㄴ지/ecs
+
+대게만
+	대/nbu+이/jp+게/ecs+만/jxc
+
+달라고
+	다르/paa+아/ef+고/jcr
+
+삼촌이
+	삼촌/ncn+이/jcc
+
+대게를
+	대게/ncn+를/jco
+
+잘
+	잘/mag
+
+까니깐
+	까니깐/ncn
+
+..
+	./sf+./sf
+
+
+삼촌만
+	삼촌/ncn+만/jxc
+
+쳐다보면서
+	쳐다보/pvg+면서/ecc
+
+손을
+	손/ncn+을/jco
+
+내밀더라구요
+	내밀/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+그러다가
+	그러/pvd+다가/ecs
+
+장난
+	장난/ncn
+
+치려고
+	치/pvg+려고/ecs
+
+남동생이
+	남동생/ncn+이/jcc
+
+김밥의
+	김밥/ncn+의/jcm
+
+개맛살을
+	개맛살/ncn+을/jco
+
+묘하게
+	묘하/paa+게/ecs
+
+대게와
+	대/pvg+게/ecx+오/px+아/ecx
+
+함께
+	함께/mag
+
+줬더니
+	주/px+었/ep+더니/ecs
+
+..
+	./sf+./sf
+
+
+개맛살은
+	개맛살/ncn+은/jxc
+
+버리고
+	버리/px+고/ecc
+
+대게만
+	대/nbu+이/jp+게/ecs+만/jxc
+
+먹더라구요
+	먹/pvg+더라구/ef+요/jxf
+
+오호호~~~
+	오호호~~~/ncn
+
+꼬맹이들도
+	꼬맹이/ncn+들/ncn+도/jxc
+
+입맛이
+	입맛/ncn+이/jcc
+
+살아있는것이지요
+	살/pvg+아/ecx+있/px+는/etm+것/nbn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+맛있다고
+	맛있/paa+다/ef+고/jcr
+
+느끼는건
+	느끼는건/ncn
+
+사람들
+	사람들/ncn
+
+입맛이
+	입맛/ncn+이/jcc
+
+다
+	다/mag
+
+똑같나봅니다
+	똑같나봅니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+여튼
+	여튼/ncn
+
+혜원냥의
+	혜원냥/ncn+의/jcm
+
+배도
+	배/ncn+도/jxc
+
+불룩하니
+	불룩하/paa+니/ecs
+
+많이
+	많/paa+이/xsa
+
+먹었지요
+	먹/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+또
+	또/maj
+
+언제
+	언제/mag
+
+가족여행을
+	가족/ncn+여행/ncpa+을/jco
+
+갈까~~~
+	가/px+ㄹ까/ef+~/sd+~/sd+~/sd
+
+라는
+	라/ncn+는/jxc
+
+기다림이
+	기다리/pvg+ㅁ/etn+이/jcs
+
+묘하게
+	묘하/paa+게/ecs
+
+기다려집니다
+	기다리/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이젠
+	이젠/ncn
+
+겨울에
+	겨울/ncn+에/jca
+
+가지
+	가지/nbu
+
+말자고
+	말/px+자/ef+고/jcr
+
+하였는데
+	하/px+었/ep+는데/ecs
+
+그게
+	그/npd+이/jp+게/ecs
+
+잘
+	잘/mag
+
+될런지
+	될런지/ncn
+
+모르겠어요
+	모르/pvg+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+오호호~~~~
+	오호호/ncn+~/sd+~/sd+~/sd+~/sd
+
+
+경북
+	경북/ncn
+
+경주시
+	경주시/ncn
+
+문화관광
+	문화/ncn+관광/ncpa
+
+http://guide.
+	http/f+:/sp+//sp+//sp+guide/f+./sy
+
+gyeongju.
+	gyeongju/f+./sy
+
+go.
+	go/f+./sy
+
+kr/deploy/켄싱턴리조트(경주보문)
+	kr/deploy/켄싱턴리조트(경주보문)/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+kensingtonresort.
+	kensingtonresort/f+./sy
+
+co.
+	co/f+./sy
+
+kr/resort/index.
+	kr/f+//sp+resort/f+//sp+index/f+./sy
+
+asp
+	asp/f
+
+?
+	?/sf
+
+
+cate=gyeongju경주
+	cate/f+=/sy+gyeongju/f+경/xsnu+주/nbu
+
+불국사
+	불국사/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+bulguksa.
+	bulguksa/f+./sy
+
+or.
+	or/f+./sy
+
+kr/경주
+	kr/f+//sp+경주/ncpa
+
+테디베어
+	테디베/ncn+이/jp+어/ecs
+
+박물관
+	박물관/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+teddybearmuseum.
+	teddybearmuseum/f+./sy
+
+com/GYEONGJU/Summary.
+	com/f+//sp+GYEONGJU/f+//sp+Summary/f+./sy
+
+asp대구광역시
+	asp/f+대구/ncn+광역시/ncn
+
+허브힐즈
+	허브힐즈/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+herbhillz.
+	herbhillz/f+./sy
+
+com/
+	com/f+//sp
+
+
+광주광천터미널-경주터미널(24500냥
+	광주광천터미널-경주터미널(24500냥/ncn
+
+.
+	./sf
+
+
+4시간
+	4/nnc+시간/nbu
+
+소요)
+	소요/ncpa+)/sr
+
+:
+	:/sp
+
+0945,
+	0945/nnc+,/sp
+
+1650
+	1650/nnc
+
+고속버스
+	고속버스/ncn
+
+예매
+	예매/ncpa
+
+및
+	및/maj
+
+시간
+	시간/nbu
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+kobus.
+	kobus/f+./sy
+
+co.
+	co/f+./sy
+
+kr/web/index.
+	kr/f+//sp+web/f+//sp+index/f+./sy
+
+jsp
+	jsp/f
+
+시외버스
+	시외버스/ncn
+
+예매
+	예매/ncpa
+
+및
+	및/maj
+
+시간
+	시간/nbu
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+bustago.
+	bustago/f+./sy
+
+or.
+	or/f+./sy
+
+kr
+	kr/f
+
+
+2012.
+	2012./nnc
+
+02.
+	02./nnc
+
+18
+	18/nnc
+
+.
+	./sf
+
+
+토요일am
+	토요일am/ncn
+
+0830
+	0830/nnc
+
+전남
+	전/xp+남/ncn
+
+광양시
+	광양시/ncn
+
+중마동(남동생네집)
+	중마동(남동생네집)/ncn
+
+출발
+	출발/ncpa
+
+아침
+	아침/ncn
+
+.
+	./sf
+
+
+진주휴게소
+	진주/ncpa+휴게소/ncn
+
+1200-0140
+	1200/nnc+-0140/nnc
+
+경북
+	경북/ncn
+
+경주시
+	경주시/ncn
+
+불국사(4000냥)
+	불국사/ncn+(/sl+4000/nnc+냥/nbu+)/sr
+
+
+0200-0300
+	0200/nnc+-0300/nnc
+
+점심
+	점심/ncn
+
+.
+	./sf
+
+
+교동쌈밥
+	교동쌈밥/ncn
+
+0310
+	0310/nnc
+
+켄싱턴리조트
+	켄싱턴리조트/ncn
+
+체크인
+	체크인/ncn
+
+0430-0610
+	0430/nnc+-0610/nnc
+
+테디베어뮤지엄(9000냥)
+	테디베어뮤지엄(9000냥)/ncn
+
+0630-0710
+	0630/nnc+-0710/nnc
+
+안압지(1000냥)
+	안압지/ncn+(/sl+1000/nnc+냥/nbu+)/sr
+
+
+0820-0850
+	0820/nnc+-0850/nnc
+
+경북
+	경북/ncn
+
+포항시
+	포항시/ncn
+
+죽도시장
+	죽도시장/ncn
+
+켄싱턴리조트
+	켄싱턴리조트/ncn
+
+
+2012.
+	2012./nnc
+
+02.
+	02./nnc
+
+19
+	19/nnc
+
+.
+	./sf
+
+
+일요일am
+	일요일am/ncn
+
+0900
+	0900/nnc
+
+켄싱턴리조트
+	켄싱턴리조트/ncn
+
+체크아웃
+	체크아웃/ncpa
+
+0930-1020
+	0930/nnc+-1020/nnc
+
+아침
+	아침/ncn
+
+.
+	./sf
+
+
+시골순두부
+	시골/ncn+순두부/ncn
+
+1220-0300
+	1220/nnc+-0300/nnc
+
+대구광역시
+	대구/ncn+광역시/ncn
+
+허브힐즈
+	허브힐즈/ncn
+
+
+0325-0410
+	0325/nnc+-0410/nnc
+
+점심
+	점심/ncn
+
+.
+	./sf
+
+
+봉산찜갈비
+	봉산찜갈비/ncn
+
+0710
+	0710/nnc
+
+광주광역시
+	광주광역시/ncn
+
+야옹이네집
+	야옹이네집/ncn
+
+도착
+	도착/ncpa
+
+
+**
+	*/sy+*/sy
+
+함께한
+	함께하/pvg+ㄴ/etm
+
+이들
+	이/ncn+들/xsncc
+
+:
+	:/sp
+
+생애
+	생애/ncn
+
+두번째로
+	두/nnc+번/nbu+째/xsnu+로/jca
+
+함께한
+	함께하/pvg+ㄴ/etm
+
+야옹이네
+	야옹/ncn+이/jp+네/ef
+
+가족들과
+	가족/ncn+들/ncn+과/jcj
+
+함께였습니다
+	하/pvg+ㅁ/etn+께/jca+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+(엄마,
+	(/sl+엄마/ncn+,/sp
+
+남동생,
+	남동생/ncn+,/sp
+
+막내
+	막내/ncn
+
+여동생,
+	여동생/ncn+,/sp
+
+결혼한
+	결혼/ncpa+하/xsva+ㄴ/etm
+
+여동생과
+	여동생/ncn+과/jcj
+
+재부,
+	재부/ncn+,/sp
+
+귀염둥이
+	귀염둥이/ncn
+
+조카
+	조카/ncn
+
+혜원냥까지
+	혜원냥까지/ncn
+
+...
+	.../se
+
+
+아빠는
+	아빠/ncn+는/jxc
+
+쏙
+	쏙/mag
+
+빠지시고
+	빠지/pvg+시/ep+고/ecc
+
+)
+	)/sr
+
+
+켄싱턴리조트
+	켄싱턴리조트/ncn
+
+경주보문
+	경주보문/ncn
+
+
+경상북도
+	경상/ncn+북/ncn+도/jxc
+
+경주시
+	경주시/ncn
+
+북군동
+	북군동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011008907",
+	"bl011008907",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11627287",
+	"/sl+11627287/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"켄싱턴리조트
+	title:"켄싱턴리조트/ncn
+
+경주보문",
+	경주보문",/ncn
+
+pointX:514762,pointY:362996}
+	pointX/f+:/sp+514762/nnc+,/sp+pointY/f+:/sp+362996/nnc+}/sr
+
+
+Copyright
+	Copyright/f
+
+2012
+	2012/nnc
+
+야옹이
+	야옹/ncn+이/jcc
+
+All
+	All/f
+
+Rights
+	Rights/f
+
+reserved
+	reserved/f

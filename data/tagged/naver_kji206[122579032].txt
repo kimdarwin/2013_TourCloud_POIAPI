@@ -1,0 +1,2040 @@
+거문오름
+	거문오름/ncn
+
+분화구
+	분화구/ncn
+
+관람후
+	관람/ncpa+후/ncn
+
+유일하게
+	유일/ncps+하/xsms+게/ecs
+
+우리만
+	우리/npp+만/jxc
+
+다시
+	다시/mag
+
+정상
+	정상/ncn
+
+오름
+	오르/pvg+ㅁ/etn
+
+능선
+	능선/ncn
+
+코스로
+	코스/ncn+로/jca
+
+올라간다
+	오르/pvg+아/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+오르막을
+	오르막/ncn+을/jco
+
+오르니
+	오르/pvg+니/ecs
+
+전날
+	전날/ncn
+
+걸은
+	걸/pvg+ㄴ/etm
+
+한라산의
+	한라/ncn+산/ncn+의/jcm
+
+휴우증
+	휴우증/ncn
+
+?
+	?/sf
+
+
+으로
+	으로/ncn
+
+허벅지에
+	허벅지/ncn+에/jca
+
+약간의
+	약간/ncn+의/jcm
+
+압박이
+	압박/ncpa+이/jcc
+
+온다
+	오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+녹색
+	녹색/ncn
+
+코스가
+	코스/ncn+가/jcs
+
+분화구
+	분화구/ncn
+
+코스
+	코스/ncn
+
+
+바깥
+	바깥/ncn
+
+코스가
+	코스/ncn+가/jcs
+
+오름능선을따라
+	오름/ncn+능선/ncn+을/jco+따라/jxc
+
+9개
+	9/nnc+개/nbu
+
+봉우리를
+	봉우리/ncn+를/jco
+
+연결하는
+	연결/ncpa+하/xsva+는/etm
+
+능선코스
+	능선/ncn+코스/ncn
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+(총
+	(/sl+총/mma
+
+8km)
+	8km/ncn+)/sr
+
+
+2개의
+	2/nnc+개/nbu+의/jcm
+
+탐방로는
+	탐방/ncpa+로/jca+는/jxc
+
+그
+	그/mmd
+
+모양이
+	모양/ncn+이/jcc
+
+태극을
+	태극/ncn+을/jco
+
+닮았다고
+	닮/pvg+아/ep+다/ef+고/jcr
+
+하여
+	하/pvg+어/ecx
+
+태극길
+	태극/ncn+길/ncn
+
+
+거문오름은
+	거문오름/ncn+은/jxc
+
+탐방로
+	탐방/ncpa+로/jca
+
+(8km)
+	(8km/ncn+)/sr
+
+
+-
+	-/sd
+
+분화구
+	분화구/ncn
+
+코스
+	코스/ncn
+
+(해설사동행):
+	(/sl+해설/ncpa+사동/ncn+행/ncn+)/sr+:/sp
+
+탐방안내소~
+	탐방/ncpa+안내소/ncn+~/sd
+
+용암협곡
+	용암/ncn+협곡/ncn
+
+~
+	~/sd
+
+알오름전망대
+	알오름전망대/ncn
+
+~
+	~/sd
+
+숯가마터
+	숯가마터/ncn
+
+~
+	~/sd
+
+화산탄
+	화산탄/ncn
+
+~
+	~/sd
+
+선흘수직동굴
+	선흘수직동굴/ncn
+
+~
+	~/sd
+
+탐방안내소
+	탐방/ncpa+안내소/ncn
+
+로~~(2시간가량)
+	로/ncn+~/sd+~/sd+(/sl+2/nnc+시간/nbu+가량/xsnu+)/sr
+
+
+-오름정상코스는
+	-/sd+오름/ncn+정상/ncn+코스/ncn+는/jxc
+
+자율로
+	자율/ncn+로/jca
+
+탐방이
+	탐방/ncpa+이/jcc
+
+가능하다
+	가능/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+선흘
+	선흘/ncn
+
+수직동굴입구
+	수직/ncn+동굴입구/ncn
+
+~
+	~/sd
+
+9개능선
+	9개능선/ncn
+
+~
+	~/sd
+
+탐방안내소
+	탐방/ncpa+안내소/ncn
+
+(1시간
+	(/sl+1/nnc+시간/nbu
+
+30분
+	30/nnc+분/nbu
+
+가량)
+	가량/nbu+)/sr
+
+
+그래도
+	그래도/maj
+
+다행인것은
+	다행/ncps+이/jp+ㄴ/etm+것/nbn+은/jxc
+
+5분
+	5/nnc+분/nbu
+
+정도
+	정도/ncn
+
+오르니
+	오르/pvg+니/ecs
+
+금방
+	금방/mag
+
+능선에
+	능선/ncn+에/jca
+
+올라선다
+	올라서/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+우측으로
+	우측/ncn+으로/jca
+
+바로
+	바로/mag
+
+전망대~
+	전망대/ncn+~/sd
+
+
+9룡
+	9룡/ncn
+
+회룡은산봉
+	회룡은산봉/ncn
+
+(멀리
+	(/sl+멀리/mag
+
+흘러온
+	흐르/pvg+어/ecx+오/px+ㄴ/etm
+
+용이
+	용/ncn+이/jcc
+
+방향을
+	방향/ncn+을/jco
+
+바꾸어
+	바꾸/pvg+어/ecx
+
+산속으로
+	산속/ncn+으로/jca
+
+숨은
+	숨/pvg+은/etm
+
+형국)
+	형국/ncn+)/sr
+
+
+9룡전망대에서
+	9룡전망대/ncn+에서/jca
+
+내려다본
+	내려다보/pvg+ㄴ/etm
+
+거문오름
+	거문오름/ncn
+
+주변
+	주변/ncn
+
+
+아직
+	아직/mag
+
+눈이
+	눈/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+남아
+	남/pvg+아/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+봉우리
+	봉우리/ncn
+
+같지
+	같/paa+지/ecx
+
+않은데
+	않/px+은/etm+데/nbn
+
+산길
+	산길/ncn
+
+중간에
+	중간/ncn+에/jca
+
+8룡
+	8룡/ncn
+
+청룡음수봉
+	청룡/ncn+음수/ncn+봉/ncn
+
+(푸른
+	(/sl+푸르/paa+ㄴ/etm
+
+빛을
+	빛/ncn+을/jco
+
+띤
+	띠/pvg+ㄴ/etm
+
+용이
+	용/ncn+이/jcc
+
+물가를
+	물가/ncn+를/jco
+
+찾아
+	찾/pvg+아/ecx
+
+물을
+	물/ncn+을/jco
+
+마시는
+	마시/pvg+는/etm
+
+형국)
+	형국/ncn+)/sr
+
+
+8룡에서
+	8룡/ncn+에서/jca
+
+5분
+	5/nnc+분/nbu
+
+정도
+	정도/ncn
+
+걸으니
+	걸/pvg+니/ecs
+
+7룡이
+	7룡/ncn+이/jcc
+
+꽂혀있다
+	꽂히/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+제7룡
+	제7룡/ncn
+
+와룡농주봉(누운
+	와룡농주봉(누운/ncn
+
+용이
+	용/ncn+이/jcc
+
+여의주를
+	여의주/ncn+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+희롱하는
+	희롱/ncpa+하/xsva+는/etm
+
+형국)
+	형국/ncn+)/sr
+
+
+은근히
+	은근히/mag
+
+걸으면서
+	걸/pvg+면서/ecc
+
+깃발을
+	깃발/ncn+을/jco
+
+찾는
+	찾/pvg+는/etm
+
+재미가
+	재미/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+7룡에서
+	7룡/ncn+에서/jca
+
+5분
+	5/nnc+분/nbu
+
+정도
+	정도/ncn
+
+걸으니
+	걸/pvg+니/ecs
+
+6룡을
+	6룡/ncn+을/jco
+
+만날수
+	만나/pvg+ㄹ/etm+수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+6룡(해발
+	6룡(해발/ncn
+
+401m)
+	401m)/ncn
+
+은
+	은/ncn
+
+산소
+	산소/ncn
+
+옆에
+	옆/ncn+에/jca
+
+꽂혀있다
+	꽂히/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+제6룡
+	제6룡/ncn
+
+적룡출운봉(붉은
+	적룡출운봉(붉/ncn+은/jxc
+
+빛을
+	빛/ncn+을/jco
+
+띤
+	띠/pvg+ㄴ/etm
+
+용이
+	용/ncn+이/jcc
+
+서기를
+	서/pvg+기/etn+를/jco
+
+머금고
+	머금/pvg+고/ecc
+
+구름속에서
+	구름/ncn+속/ncn+에서/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+형국)
+	형국/ncn+)/sr
+
+
+제5룡은
+	제5룡/ncn+은/jxc
+
+깃발이
+	깃발/ncn+이/jcc
+
+어디로
+	어디/npd+로/jca
+
+달아나
+	달아나/pvg+아/ecx
+
+버렸다
+	버리/px+었/ep+다/ef
+
+....
+	.../se+./sf
+
+
+제5룡
+	제5룡/ncn
+
+자룡고모봉
+	자룡고모봉/ncn
+
+(새끼용이
+	(/sl+새끼/ncn+용/ncn+이/jcc
+
+어미용이
+	어미/ncn+용/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+곳을
+	곳/ncn+을/jco
+
+돌아보는
+	돌/pvg+아/ecx+보/px+는/etm
+
+형국이라고~)
+	형국/ncn+이라고/jcm+~/sd+)/sr
+
+
+어미용형국은
+	어미용형국/ncn+은/jxc
+
+어디쯤~~~
+	어디/npd+쯤/xsnx+~/sd+~/sd+~/sd
+
+
+5룡에서
+	5룡/ncn+에서/jca
+
+4룡까지는
+	4룡까지/ncn+는/jxc
+
+10여분
+	10/nnc+여/xsnu+분/nbu
+
+걸어간다
+	걷/pvg+어/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+제4룡
+	제4룡/ncn
+
+회룡고조봉(종산인
+	회룡고조봉(종산/ncn+이/jp+ㄴ/etm
+
+한라산에서
+	한라/ncn+산/ncn+에서/jca
+
+흘러온
+	흐르/pvg+어/ecx+오/px+ㄴ/etm
+
+용이
+	용/ncn+이/jcc
+
+머리를
+	머리/ncn+를/jco
+
+돌려서
+	돌리/pvg+어서/ecs
+
+시발점인
+	시발점/ncn+이/jp+ㄴ/etm
+
+종산을
+	종산/ncn+을/jco
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+형국)
+	형국/ncn+)/sr
+
+
+3룡
+	3룡/ncn
+
+황룡상천봉
+	황룡상천봉/ncn
+
+(검은
+	(/sl+걸/pvg+ㅁ/etn+은/jxc
+
+빛을
+	빛/ncn+을/jco
+
+띤
+	띠/pvg+ㄴ/etm
+
+용이
+	용/ncn+이/jcc
+
+하늘을
+	하늘/ncn+을/jco
+
+향해
+	향하/pvg+어/ecx
+
+날아오르는
+	날아오르/ncn+는/jxc
+
+형국)
+	형국/ncn+)/sr
+
+
+9룡에서
+	9룡/ncn+에서/jca
+
+3룡까지는
+	3룡까지/ncn+는/jxc
+
+거의5분
+	거의5분/ncn
+
+간격으로
+	가/px+ㄴ/etm+격/nbn+으로/jca
+
+깃발이
+	깃발/ncn+이/jcc
+
+꽂혀있다
+	꽂히/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+9개
+	9/nnc+개/nbu
+
+봉우리라
+	봉우리/ncn+이/jp+라/ecs
+
+생각했는데
+	생각/ncpa+하/xsva+었/ep+는데/ecs
+
+걷다보니
+	걷다보니/ncn
+
+봉우리의
+	봉우리/ncn+의/jcm
+
+개념은
+	개념/ncn+은/jxc
+
+느껴지지
+	느끼/pvg+어/ecx+지/px+지/ecx
+
+않는다
+	않/px+는다/ef
+
+..
+	./sf+./sf
+
+
+3룡을
+	3룡/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+약간
+	약간/mag
+
+내리막을
+	내리막/ncn+을/jco
+
+내려서니
+	내려서/pvg+니/ecs
+
+제법
+	제법/mag
+
+넓은
+	넓/paa+은/etm
+
+쉼터가
+	쉼터/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+쉼터에서
+	쉼터/ncn+에서/jca
+
+바로
+	바로/mag
+
+오르막으로
+	오르막/ncn+으로/jca
+
+연결된다
+	연결/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+적당히
+	적당히/mag
+
+오르막을
+	오르막/ncn+을/jco
+
+오르니
+	오르/pvg+니/ecs
+
+드디어
+	드디어/mag
+
+9룡
+	9룡/ncn
+
+이후로
+	이후/ncn+로/jca
+
+전망을
+	전망/ncn+을/jco
+
+만나지
+	만나/pvg+지/ecx
+
+못하였는데
+	못하/px+었/ep+는데/ecs
+
+....
+	.../se+./sf
+
+
+멀리
+	멀리/mag
+
+1봉
+	1/nnc+봉/nbu
+
+전망대까지
+	전망대/ncn+까지/jxc
+
+조망된다
+	조망/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+걸어온
+	걷/pvg+어/ecx+오/px+ㄴ/etm
+
+길보다
+	길/ncn+보다/jca
+
+걸어갈
+	걷/pvg+어/ecx+가/px+ㄹ/etm
+
+능선길이
+	능선길/ncn+이/jcc
+
+훨씬
+	훨씬/mag
+
+많이
+	많/paa+이/xsa
+
+남은것
+	남/pvg+은/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+능선
+	능선/ncn
+
+걸은지
+	걸/pvg+ㄴ지/ecs
+
+45분
+	45/nnc+분/nbu
+
+정도
+	정도/ncn
+
+경과되었다
+	경과/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+능선
+	능선/ncn
+
+조망후
+	조망/ncn+후/ncn
+
+다시
+	다시/mag
+
+솔
+	솔/ncn
+
+숲으로
+	숲/ncn+으로/jca
+
+들어선다
+	들/pvg+어서/ep+ㄴ다/ef
+
+.
+	./sf
+
+
+3룡에서
+	3룡/ncn+에서/jca
+
+2룡까지
+	2룡까지/ncn
+
+10분정도
+	10분정/ncn+도/jxc
+
+~~
+	~/sd+~/sd
+
+
+2룡
+	2룡/ncn
+
+백룡망해봉
+	백룡/ncn+망해/ncn+봉/ncn
+
+(흰
+	(/sl+희/paa+ㄴ/etm
+
+빛을
+	빛/ncn+을/jco
+
+띤
+	띠/pvg+ㄴ/etm
+
+용이
+	용/ncn+이/jcc
+
+바다를
+	바다/ncn+를/jco
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+형국)
+	형국/ncn+)/sr
+
+
+다시
+	다시/mag
+
+하산코스~
+	하산/ncpa+코스/ncn+~/sd
+
+
+양쪽으로
+	양쪽/ncn+으로/jca
+
+삼나무
+	삼나무/ncn
+
+숲으로
+	숲/ncn+으로/jca
+
+이루어진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+나무데크
+	나무/ncn+데크/ncn
+
+계단길을
+	계단/ncn+길/ncn+을/jco
+
+올라간다
+	오르/pvg+아/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+다
+	다/mag
+
+올라
+	오르/pvg+아/ecx
+
+가니
+	가/px+니/ecs
+
+일본
+	일/nnc+본/nbu
+
+군사시설
+	군사시설/ncn
+
+동굴진지가
+	동굴/ncn+진지/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+거문오름
+	거문오름/ncn
+
+전망대
+	전망대/ncn
+
+
+생소한
+	생소/ncps+하/xsms+ㄴ/etm
+
+오름들이
+	오름/ncn+들/ncn+이/jcc
+
+너무
+	너무/mag
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+민오름,
+	민오름,/ncn
+
+거친오름,바농오름,
+	거친오름,바농오름,/ncn
+
+갯거리오름
+	갯거리오름/ncn
+
+등.
+	등/nbu+./sf
+
+....
+	.../se+./sf
+
+
+전망대에서
+	전망대/ncn+에서/jca
+
+하산
+	하산/ncpa
+
+길
+	길/paa+ㄹ/etm
+
+끝까지
+	끝/ncn+까지/jxc
+
+나무데크로
+	나무/ncn+데크/ncn+로/jca
+
+만들어져
+	만들/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+양지바른곳에
+	양지바른곳/ncn+에/jca
+
+인적은
+	일/pvg+ㄴ/etm+적/nbn+은/jxc
+
+없고
+	없/paa+고/ecc
+
+...
+	.../se
+
+
+등
+	등/nbu
+
+쬐이기
+	쬐/ncn+이/jp+기/etn
+
+안성맞춤인
+	안성맞춤/ncn+이/jp+ㄴ/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+9룡에서
+	9룡/ncn+에서/jca
+
+시작하여
+	시작/ncpa+하/xsva+어/ecx
+
+1시간만에
+	1/nnc+시간/nbu+만에/jca
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+제
+	저/npp+의/jcm
+
+1룡
+	1룡/ncn
+
+흑룡상천봉
+	흑룡상천봉/ncn
+
+(
+	(/sl
+
+검은
+	걸/pvg+ㅁ/etn+은/jxc
+
+빛을
+	빛/ncn+을/jco
+
+띤
+	띠/pvg+ㄴ/etm
+
+용이
+	용/ncn+이/jcc
+
+하늘을
+	하늘/ncn+을/jco
+
+향해
+	향하/pvg+어/ecx
+
+날아오르는
+	날아오르/ncn+는/jxc
+
+형군
+	형군/ncn
+
+)
+	)/sr
+
+
+정상이정표
+	정상이정표/ncn
+
+(456m)가
+	(456m)/ncn+가/jcs
+
+바닥에
+	바닥/ncn+에/jca
+
+표시되어
+	표시/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그리고,
+	그리/pvg+고/ecc+,/sp
+
+
+분화구
+	분화구/ncn
+
+알봉에서도
+	알봉에서/ncn+도/jxc
+
+보였던
+	보이/pvg+었/ep+던/etm
+
+9봉
+	9/nnc+봉/nbu
+
+전망대
+	전망대/ncn
+
+
+전망대에서
+	전망대/ncn+에서/jca
+
+동영상으로
+	동영상/ncn+으로/jca
+
+담아본다
+	담/pvg+아/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc25/2011/02/18/827/E3140213EF1313838C235D4C73282543C48_kji206_logo.
+	net/blogucc25/2011/02/18/827/E3140213EF1313838C235D4C73282543C48_kji206_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'19.
+	'/sr+19./nnc
+
+23';
+	23/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'A4D839105B072FE57636D96732A009E527A9';
+	'A4D839105B072FE57636D96732A009E527A9/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1254e7c00e211b4eb8a2f0bedca0a233ad27ee868e6696494402dcec4c7bf4505e63f0bedca0a233ad27';
+	'V1254e7c00e211b4eb8a2f0bedca0a233ad27ee868e6696494402dcec4c7bf4505e63f0bedca0a233ad27/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_05784
+	ugcPlayer_05784/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_05784'
+	VideoInfraUGCPlayer('ugcPlayer_05784'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_05784
+	ugcPlayer_05784/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+거문오름은~
+	거문오름/ncn+은/jxc+~/sd
+
+
+예로부터
+	예/ncn+로/jca+부터/jxc
+
+방아오름이라
+	방아/ncn+오름/ncn+이/jp+라/ecs
+
+불렀으며
+	부르/pvg+었/ep+으며/ecc
+
+방하악으로
+	방하악/ncn+으로/jca
+
+표기하였다
+	표기/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+오름의
+	오름/ncn+의/jcm
+
+분화구와
+	분화구/ncn+와/jcj
+
+수직굴
+	수직/ncn+굴/ncn
+
+일대의형세가
+	일대의형세/ncn+가/jcs
+
+방하
+	방하/ncn
+
+또는
+	또는/maj
+
+방아와
+	방아/ncn+와/jct
+
+같다는
+	같/paa+다/ef+는/etm
+
+데서
+	데/nbn+서/jca
+
+유래되었다
+	유래/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+그러다가
+	그러/pvd+다가/ecs
+
+검은
+	걸/pvg+ㅁ/etn+은/jxc
+
+오름은
+	오르/pvg+ㅁ/etn+은/jxc
+
+검은이오름이라하여
+	검은이오름이라하/ncn+이/jp+어/ecs
+
+거문악으로
+	거문악/ncn+으로/jca
+
+표기
+	표/ncn+이/jp+기/etn
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+돌과
+	돌/ncn+과/jcj
+
+흙이
+	흙/ncn+이/jcc
+
+유난히
+	유난히/mag
+
+검은색으로
+	검은색/ncn+으로/jca
+
+음산한
+	음산/ncps+하/xsms+ㄴ/etm
+
+기운을
+	기운/ncn+을/jco
+
+띠는
+	뜨/pvg+어/ef+는/etm
+
+데서
+	데/nbn+서/jca
+
+유래되었고
+	유래/ncpa+되/xsvn+었/ep+고/ecc
+
+
+어원적으로는
+	어원/ncn+적/ncn+으로/jca+는/jxc
+
+신령스러운
+	신령/ncpa+스럽/xsmn+은/etm
+
+산이란
+	산/ncn+이란/jxc
+
+뜻을
+	뜻/ncn+을/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+현지
+	현지/ncn
+
+주민들의
+	주민/ncn+들/ncn+의/jcm
+
+삶의
+	삶/ncn+의/jcm
+
+애환을
+	애환/ncn+을/jco
+
+간직한
+	간직/ncpa+하/xsva+ㄴ/etm
+
+숯가마와
+	숯가마/ncn+와/jcj
+
+일제
+	일제/ncn
+
+강점기와
+	강점기/ncn+와/jcj
+
+4.3
+	4.3/nnc
+
+사건에
+	사건/ncn+에/jca
+
+이르는
+	이르/paa+는/etm
+
+제주근대사의
+	제주/ncn+근대사/ncn+의/jcm
+
+고난과
+	고난/ncn+과/jcj
+
+슬픈역사를
+	슬픈역사/ncn+를/jco
+
+간직한
+	간직/ncpa+하/xsva+ㄴ/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+하산길
+	하산/ncpa+길/ncn
+
+좌측
+	좌측/ncn
+
+풍경~~~
+	풍경/ncn+~/sd+~/sd+~/sd
+
+
+무슨
+	무슨/mmd
+
+오름일까
+	오르/pvg+ㅁ/etn+이/jp+ㄹ까/ecs
+
+...
+	.../se
+
+
+상당히
+	상당히/mag
+
+긴
+	길/paa+ㄴ/etm
+
+계단길
+	계단/ncn+길/ncn
+
+....
+	.../se+./sf
+
+
+5분정도는
+	5분정도/ncn+는/jxc
+
+걸은듯
+	걸/pvg+ㄴ/etm+듯/nbs
+
+...
+	.../se
+
+
+만약
+	만약/mag
+
+이곳을
+	이곳/npd+을/jco
+
+올라온다면
+	오르/pvg+아/ecx+오/px+ㄴ다면/ecs
+
+몇번은
+	몇/nnc+번/nbu+은/jxc
+
+쉬어야
+	쉬/pvg+어야/ecs
+
+할듯
+	하/pvg+ㄹ/etm+듯/nbs
+
+.....
+	.../se+./sf+./sf
+
+
+그리고
+	그리고/maj
+
+출발지점이었던
+	출발지점/ncn+이/jp+었/ep+던/etm
+
+삼거리까지
+	삼거리/ncn+까지/jxc
+
+왔다
+	오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+능선
+	능선/ncn
+
+5km
+	5km/ncn
+
+를
+	를/ncn
+
+1시간
+	1/nnc+시간/nbu
+
+10분
+	10/nnc+분/nbu
+
+정도
+	정도/ncn
+
+걸렸다
+	걸리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+거문오름
+	거문오름/ncn
+
+안내소로
+	안내소/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+삼나무길
+	삼나무/ncn+길/ncn
+
+...
+	.../se
+
+
+거문오름
+	거문오름/ncn
+
+탐방을
+	탐방/ncpa+을/jco
+
+제대로
+	제대로/mag
+
+한
+	하/pvg+ㄴ/etm
+
+뿌듯한
+	뿌듯/ncps+하/xsms+ㄴ/etm
+
+마음이
+	마음/ncn+이/jcc
+
+들기에
+	들/pvg+기/etn+에/jca
+
+올때
+	오/px+ㄹ/etm+때/nbn
+
+보다
+	보다/mag
+
+더
+	더/mag
+
+길이
+	길/ncn+이/jcc
+
+풍요로워
+	풍요/ncpa+롭/xsmn+어/ecx
+
+보이는것
+	보이/pvg+는/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+다시
+	다시/mag
+
+돌아온
+	돌/pvg+아/ecx+오/px+ㄴ/etm
+
+탐방
+	탐방/ncpa
+
+안내소
+	안내소/ncn
+
+.
+	./sf
+
+
+탐방출입증을
+	탐방/ncpa+출입/ncpa+증/ncn+을/jco
+
+반환하고
+	반환/ncpa+하고/jct
+
+당처물동굴의
+	당처물동굴/ncn+의/jcm
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+종유석
+	종유석/ncn
+
+군락
+	군락/ncn
+
+사진을
+	사진/ncn+을/jco
+
+감상하며
+	감상/ncpa+하/xsva+며/ecc
+
+여유를
+	여유/ncn+를/jco
+
+부려본다
+	부리/pvg+어/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+오늘
+	오늘/ncn
+
+관람객중
+	관람객/ncn+중/ncn
+
+유일하게
+	유일/ncps+하/xsms+게/ecs
+
+능선을
+	능선/ncn+을/jco
+
+탔다고
+	트/pvg+었/ep+다/ef+고/jcr
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+괜히
+	괜히/mag
+
+어깨가
+	어깨/ncn+가/jcs
+
+들썩거린다
+	들썩거리/pvg+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+안내소
+	안내소/ncn
+
+바로
+	바로/mag
+
+옆
+	옆/ncn
+
+매점에서
+	매점/ncn+에서/jca
+
+햇살
+	햇살/ncn
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+벤치에
+	벤치/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+마음으로
+	마음/ncn+으로/jca
+
+커피한잔
+	커피/ncn+한잔/ncpa
+
+하면서
+	하/pvg+면서/ecc
+
+올레빵
+	올레빵/ncn
+
+먹었다
+	먹/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+걸은
+	걸/pvg+ㄴ/etm
+
+만큼
+	만큼/nbn
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있었던
+	있/paa+었/ep+던/etm
+
+거문
+	거문/ncn
+
+오름
+	오르/pvg+ㅁ/etn
+
+탐방,
+	탐방/ncpa+,/sp
+
+
+태극의
+	태극/ncn+의/jcm
+
+좋은
+	좋/paa+은/etm
+
+기운
+	기울/pvg+ㄴ/etm
+
+가득
+	가득/mag
+
+안고
+	안/pvg+고/ecc
+
+온듯
+	오/px+ㄴ/etm+듯/nbs
+
+마음이
+	마음/ncn+이/jcc
+
+뿌듯하다
+	뿌듯/ncps+하/xsms+다/ef
+
+.
+	./sf

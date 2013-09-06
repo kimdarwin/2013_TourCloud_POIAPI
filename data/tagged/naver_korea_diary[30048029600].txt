@@ -1,0 +1,1246 @@
+이광명
+	이광명/ncn
+
+가옥은
+	가옥/ncn+은/jxc
+
+충청남도
+	충청남/ncn+도/jxc
+
+보령시
+	보령시/ncn
+
+주산면
+	주산/ncpa+면/ncn
+
+삼곡리에
+	삼곡리/ncn+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+있으며
+	있/paa+으며/ecc
+
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+은행나무가
+	은행/ncn+나무/ncn+가/jcs
+
+담벼락
+	담벼락/ncn
+
+옆에
+	옆/ncn+에/jca
+
+자리하고
+	자리/ncn+하고/jct
+
+있어
+	있/paa+어/ecs
+
+
+노랗게
+	노랗/paa+게/ecs
+
+물이
+	물/ncn+이/jcc
+
+드는
+	들/pvg+는/etm
+
+가을이면
+	가을/ncn+이/jp+면/ecs
+
+운치를
+	운치/ncn+를/jco
+
+더해
+	더하/paa+어/ecx
+
+주는
+	주/px+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+집
+	집/ncn
+
+주변으로
+	주변/ncn+으로/jca
+
+울창한
+	울창/ncn+한/ncn
+
+대나무
+	대나무/ncn
+
+숲이
+	숲/ncn+이/jcc
+
+있고
+	있/px+고/ecc
+
+바로
+	바로/mag
+
+옆에
+	옆/ncn+에/jca
+
+논이
+	논/ncn+이/jcc
+
+있는
+	있/paa+는/etm
+
+
+전형적인
+	전형/ncn+적/ncn+이/jp+ㄴ/etm
+
+시골마을에
+	시골/ncn+마을/ncn+에/jca
+
+이광명
+	이광명/ncn
+
+가옥이
+	가옥/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+집은
+	집/ncn+은/jxc
+
+위치부터가
+	위치/ncn+부터/jca+가/jcc
+
+독특하다
+	독특/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+대부분의
+	대부분/ncn+의/jcm
+
+고택들은
+	고택들/ncn+은/jxc
+
+마을에서도
+	마을/ncn+에서/jca+도/jxc
+
+중앙이나
+	중앙/ncn+이나/jcj
+
+높은
+	높/paa+은/etm
+
+곳에
+	곳/nbn+에/jca
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있는데
+	있/paa+는데/ecs
+
+
+이광명고택은
+	이광명고택/ncn+은/jxc
+
+마을
+	마을/ncn
+
+아래쪽
+	아래쪽/ncn
+
+가장
+	가장/mag
+
+낮은
+	낮/ncn+은/jxc
+
+곳에
+	곳/nbn+에/jca
+
+위치하고
+	위치/ncn+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+^^*
+	^/sy+^/sy+*/sy
+
+
+모양자체도
+	모양/ncn+자체/ncn+도/jxc
+
+정사각에
+	정사/ncn+각/ncn+에/jca
+
+가깝고
+	가깝/paa+고/ecc
+
+외양부터가
+	외양/ncn+부터/jca+가/jcc
+
+무척이나
+	무척/mag+이나/jxc
+
+화려하다
+	화/ncn+이/jp+리/ep+어/ecx+하/px+다/ef
+
+.
+	./sf
+
+
+사각의
+	사각/ncn+의/jcm
+
+건물은
+	건물/ncn+은/jxc
+
+빙둘러
+	빙둘러/ncn
+
+복도가
+	복도/ncn+가/jcs
+
+나
+	나/pvg+아/ecx
+
+있고
+	있/px+고/ecc
+
+그
+	그/mmd
+
+옆으로
+	옆/ncn+으로/jca
+
+
+수십개의
+	수십/nnc+개/nbu+의/jcm
+
+방들이
+	방/ncn+들/xsncc+이/jcc
+
+나란히
+	나란히/mag
+
+들어앉아
+	들어앉/pvg+아/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+단일
+	단/nbu+이/jp+ㄹ/etm
+
+건물로서는
+	건물/ncn+로서/jca+는/jxc
+
+남도에서
+	남도/ncn+에서/jca
+
+다섯
+	다섯/nnc
+
+손가락
+	손가락/ncn
+
+안에
+	안/ncn+에/jca
+
+들
+	들/pvg+ㄹ/etm
+
+성
+	성/ncn
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+이광명
+	이광명/ncn
+
+가옥은
+	가옥/ncn+은/jxc
+
+겉
+	겉/ncn
+
+모습
+	모습/ncn
+
+만큼이나
+	만큼/nbn+이/jp+나/ecs
+
+내력
+	내력/ncn
+
+또한
+	또한/maj
+
+화려하다
+	화/ncn+이/jp+리/ep+어/ecx+하/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+집의
+	집/ncn+의/jcm
+
+어른
+	어른/ncn
+
+중
+	중/nbn
+
+한
+	하/pvg+ㄴ/etm
+
+분이
+	분/nbu+이/jcc
+
+구한말
+	구한말/ncn
+
+영친왕과
+	영친왕/ncn+과/jcj
+
+사돈관례를
+	사돈/ncn+관례/ncn+를/jco
+
+맺기
+	맺/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+약혼까지
+	약혼/ncpa+까지/jxc
+
+한바
+	하/pvg+ㄴ/etm+바/nbn
+
+있는데,
+	있/paa+는데/ecs+,/sp
+
+
+이때
+	이때/ncn
+
+왕가에서
+	왕가/ncn+에서/jca
+
+당시
+	당시/ncn
+
+돈으로
+	돈/ncn+으로/jca
+
+3천원이라는
+	3/nnc+천/nnc+원/nbu+이/jp+라/ef+는/etm
+
+거금을
+	거금/ncn+을/jco
+
+내려보내
+	내려보내/ncn
+
+집을
+	집/ncn+을/jco
+
+짓도록
+	짓/pvg+도록/ecs
+
+했단다
+	하/px+었/ep+단다/ef
+
+.
+	./sf
+
+
+왕가의
+	왕가/ncn+의/jcm
+
+딸이
+	딸/ncn+이/jcc
+
+시골에서
+	시골/ncn+에서/jca
+
+고생하는
+	고생/ncpa+하/xsva+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없었던
+	없/paa+었/ep+던/etm
+
+모양이다
+	모양/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+결국
+	결국/mag
+
+일본정부의
+	일본정부/ncn+의/jcm
+
+음해로
+	음해/ncn+로/jca
+
+결혼은
+	결혼/ncpa+은/jxc
+
+성사되지
+	성사/ncpa+되/xsvn+지/ecx
+
+못했다
+	못하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+이후
+	이후/ncn
+
+영친왕이
+	영친왕/ncn+이/jcc
+
+보내준
+	보내/pvg+어/ecx+주/px+ㄴ/etm
+
+돈으로
+	돈/ncn+으로/jca
+
+1940년대
+	1940/nnc+년대/nbu
+
+초반에
+	초반/ncn+에/jca
+
+지금의
+	지금/ncn+의/jcm
+
+집을
+	집/ncn+을/jco
+
+완성했다
+	완성/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+집
+	집/ncn
+
+뒤켠에는
+	뒤켠/ncn+에/jca+는/jxc
+
+대나무숲을
+	대나무숲/ncn+을/jco
+
+만들었고
+	만들/pvg+었/ep+고/ecc
+
+그
+	그/mmd
+
+앞으로
+	앞/ncn+으로/jca
+
+우물과
+	우물/ncn+과/jcj
+
+재래식
+	재래식/ncn
+
+화장실이
+	화장실/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+집이
+	집/ncn+이/jcc
+
+워낙
+	워낙/mag
+
+크고
+	크/paa+어/ef+고/jcr
+
+견고하다
+	견고/ncps+하/xsms+어다/ecs
+
+보니
+	보/px+니/ecs
+
+6.25
+	6.25/nnc
+
+동란
+	동란/ncn
+
+때는
+	때/ncn+는/jxc
+
+
+인민군들이
+	인민군/ncn+들/ncn+이/jcc
+
+이
+	이/mmd
+
+지역의
+	지역/ncn+의/jcm
+
+본부로
+	본부/ncn+로/jca
+
+사용하게
+	사용/ncpa+하/xsva+게/ecs
+
+되었는데,
+	되/nbu+이/jp+었/ep+는데/ecs+,/sp
+
+
+이로
+	이/npd+로/jca
+
+인해
+	인하/pvg+어/ecx
+
+지붕을
+	지붕/ncn+을/jco
+
+비롯한
+	비롯/ncpa+하/xsva+ㄴ/etm
+
+시설들이
+	시설/ncpa+들/xsncc+이/jcc
+
+많이
+	많/paa+이/xsa
+
+망가졌다
+	망가지/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+후
+	후/ncn
+
+67년에
+	67/nnc+년/nbu+에/jca
+
+지금과
+	지금/ncn+과/jct
+
+같이
+	같/paa+이/xsa
+
+보수를
+	보수/ncn+를/jco
+
+해
+	하/pvg+어/ecx
+
+살림집으로
+	살림집/ncn+으로/jca
+
+이용되고
+	이용/ncpa+되/xsvn+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+빛
+	빛/ncn
+
+바랜
+	바래/pvg+ㄴ/etm
+
+대문을
+	대문/ncn+을/jco
+
+열고
+	열/pvg+고/ecc
+
+들어서면
+	들어서/pvg+면/ecs
+
+옛
+	옛/mma
+
+모습이
+	모습/ncn+이/jcc
+
+그대로
+	그대로/mag
+
+남아있는
+	남/pvg+아/ecx+있/px+는/etm
+
+우물터와
+	우물터/ncn+와/jcj
+
+
+장작불을
+	장작/ncn+불/ncn+을/jco
+
+피우던
+	피우/pvg+던/etm
+
+아궁이가
+	아궁이/ncn+가/jcs
+
+눈에
+	눈/ncn+에/jca
+
+들어오고
+	들어오/pvg+고/ecc
+
+
+마당
+	마당/ncn
+
+한
+	한/nnc
+
+켠에
+	켠/nbn+에/jca
+
+가지런히
+	가지런히/mag
+
+쌓여있는
+	쌓이/pvg+어/ecx+있/px+는/etm
+
+장작더미는
+	장작더미/ncn+는/jxc
+
+방문자의
+	방문/ncpa+자/ncn+의/jcm
+
+시선을
+	시선/ncn+을/jco
+
+사로
+	사/nnc+로/jca
+
+잡는다
+	잡/pvg+는다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+빈틈이
+	빈틈/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+미음자
+	미음/ncn+자/ncn
+
+형태로
+	형태/ncn+로/jca
+
+마당이
+	마당/ncn+이/jcc
+
+작지만
+	작/paa+지/ecx+말/px+ㄴ/etm
+
+가운데
+	가운데/ncn
+
+위치한
+	위치/ncn+한/ncn
+
+
+수돗가와
+	수돗가/ncn+와/jcj
+
+화분들이
+	화분/ncn+들/ncn+이/jcc
+
+가지런히
+	가지런히/mag
+
+놓여있어
+	놓이/pvg+어/ecx+있/px+어/ecx
+
+아늑한
+	아늑/ncps+하/xsms+ㄴ/etm
+
+분위기다
+	분위기/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+건물내부는
+	건물/ncn+내부/ncn+는/jxc
+
+문간채
+	문간/ncn+채/ncn
+
+한면만을
+	한/nnc+면/nbu+만을/jco
+
+제외한
+	제외/ncpa+하/xsva+ㄴ/etm
+
+삼면이
+	삼면/ncn+이/jcc
+
+하나의
+	하나/nnc+의/jcm
+
+복도를
+	복도/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+길게
+	길/paa+게/ecs
+
+연결된다
+	연결/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+복도를
+	복도/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+안방과
+	안방/ncn+과/jcj
+
+건넌방,
+	건넌방/ncn+,/sp
+
+손님들에게
+	손님/ncn+들/ncn+에게/jca
+
+내주는
+	내/pvg+어/ecx+주/px+는/etm
+
+행랑채가
+	행랑채/ncn+가/jcs
+
+방향을
+	방향/ncn+을/jco
+
+달리하며
+	달리하/pvg+며/ecc
+
+길게
+	길/paa+게/ecs
+
+나열된다
+	나열/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+중간중간에는
+	중간/ncn+중간/ncn+에/jca+는/jxc
+
+대청마루가
+	대청마루/ncn+가/jcs
+
+큼지막하게
+	큼지막/ncps+하/xsms+게/ecs
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있어
+	있/px+어/ecx
+
+큰
+	크/paa+ㄴ/etm
+
+방들의
+	방/ncn+들/xsncc+의/jcm
+
+경계역할을
+	경계/ncn+역할/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+방안은
+	방안/ncn+은/jxc
+
+옛모습
+	옛모습/ncn
+
+그대로
+	그대로/mag
+
+보존하고
+	보존/ncpa+하고/jct
+
+있는데
+	있/px+는데/ecs
+
+미닫이문과
+	미닫이/ncn+문/ncn+과/jcj
+
+여닫이
+	여닫이/ncn
+
+문이
+	문/nbu+이/jcc
+
+
+함께
+	함께/mag
+
+만들어진
+	만들/pvg+어/ecx+지/px+ㄴ/etm
+
+이중문으로
+	이중/ncn+문/ncn+으로/jca
+
+하여
+	하/pvg+어/ecx
+
+보온이
+	보온/ncpa+이/jcc
+
+잘
+	잘/mag
+
+되도록
+	되/pvg+도록/ecs
+
+하였고
+	하/pvg+었/ep+고/ecc
+
+
+유리로
+	유리/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+출입문이
+	출입문/ncn+이/jcc
+
+대청마루에
+	대청마루/ncn+에/jca
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecx
+
+대청도
+	대청/ncn+도/jxc
+
+실내가
+	실내/ncn+가/jcs
+
+되는
+	되/pvg+는/etm
+
+구조이다
+	구/nnc+조/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+뒷뜰에는
+	뒷뜰/ncn+에/jca+는/jxc
+
+항아리들이
+	항아리/ncn+들/ncn+이/jcc
+
+즐비한
+	즐비/ncps+하/xsms+ㄴ/etm
+
+장독대가
+	장독대/ncn+가/jcs
+
+있고
+	있/px+고/ecc
+
+축대를
+	축대/ncn+를/jco
+
+쌓은
+	쌓/pvg+은/etm
+
+야산은
+	야산/ncn+은/jxc
+
+한옥과
+	한옥/ncn+과/jct
+
+잘
+	잘/mag
+
+어울린다
+	어울리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+이광명
+	이광명/ncn
+
+가옥
+	가옥/ncn
+
+가는
+	가/pvg+는/etm
+
+길
+	길/nbu
+
+
+충남
+	충남/ncn
+
+이광명
+	이광명/ncn
+
+숙박정보
+	숙박/ncpa+정보/ncn
+
+바로가기
+	바로가/ncn+이/jp+기/etn
+
+
+구석구석
+	구석/ncn+구석/ncn
+
+여행지기의
+	여행지/ncn+기/ncn+의/jcm
+
+한마디
+	한마디/ncn
+
+
+붉은
+	붉/paa+은/etm
+
+노을과
+	노을/ncn+과/jct
+
+참
+	참/mag
+
+잘
+	잘/mag
+
+어울리는
+	어울리/pvg+는/etm
+
+이광명
+	이광명/ncn
+
+가옥
+	가옥/ncn
+
+
+저는
+	저/npp+는/jxc
+
+자꾸
+	자꾸/mag
+
+우물이
+	우물/ncn+이/jcc
+
+궁금해지는데요
+	궁금해지/pvg+ㄴ데/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+^^;
+	^/sy+^/sy+;/sy
+
+
+요즘
+	요즘/mag
+
+보기
+	보/px+기/etn
+
+드문
+	드물/paa+ㄴ/etm
+
+우물,우물
+	우물/ncn+,/sp+우물/ncn
+
+안을
+	안/ncn+을/jco
+
+보면서
+	보/nbu+이/jp+면서/ecc
+
+
+소리도
+	소리/ncn+도/jxc
+
+질러보고싶고
+	지르/pvg+어/ecx+보/px+고/ecx+싶/px+고/ecc
+
+..
+	./sf+./sf
+
+
+아늑한
+	아늑/ncps+하/xsms+ㄴ/etm
+
+한옥과
+	한옥/ncn+과/jct
+
+정말
+	정말/mag
+
+아름다운
+	아름답/paa+은/etm
+
+풍경
+	풍경/ncn
+
+.
+	./sf
+
+
+환상의
+	환상/ncn+의/jcm
+
+조화네요
+	조화/ncn+이/jp+네/ef+요/jxf
+
+.
+	./sf
+
+
+진짜
+	진짜/ncn
+
+가고
+	가/px+고/ecc
+
+싶으시죠
+	싶/px+으시/ep+죠/ef
+
+?
+	?/sf
+
+
+^^^^
+	^/sy+^/sy+^/sy+^/sy
+
+
+전통한옥
+	전통/ncn+한옥/ncn
+
+숙박체험에
+	숙박/ncpa+체험/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+더
+	더/mag
+
+많은
+	많/paa+은/etm
+
+여행
+	여행/ncpa
+
+정보를
+	정보/ncn+를/jco
+
+보시려면
+	보시/ncpa+이/jp+려면/ecs
+
+
+아래
+	아래/ncn
+
+'한옥에서의
+	'/sr+한옥/ncn+에서/jca+의/jcm
+
+하루'
+	하루/ncn+'/sr
+
+사이트를
+	사이트/ncn+를/jco
+
+방문해
+	방문/ncpa+하/xsva+어/ecx
+
+주세요
+	주/px+세/ef+요/jxf
+
+!!
+	!/sf+!/sf
+
+
+전통한옥
+	전통/ncn+한옥/ncn
+
+숙박체험
+	숙박/ncpa+체험/ncpa
+
+이벤트는
+	이벤트/ncn+는/jxc
+
+아래
+	아래/ncn
+
+배너를
+	배너/ncn+를/jco
+
+클릭하시면
+	클릭/ncpa+하시/ncn+이/jp+면/ecs
+
+참여
+	참여/ncpa
+
+가능합니다
+	가능/ncps+하/xsms+ㅂ니다/ef
+
+!!
+	!/sf+!/sf
+
+
+우리나라의
+	우리나라/ncn+의/jcm
+
+전통문화가
+	전통문화/ncn+가/jcs
+
+깃들어
+	깃들/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+아름다운
+	아름답/paa+은/etm
+
+한옥
+	한옥/ncn
+
+!!
+	!/sf+!/sf
+
+
+한옥을
+	한옥/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+사랑해
+	사랑/ncn+해/ncn
+
+주세요^-^
+	주세요/ncn+^/sy+-/sd+^/sy

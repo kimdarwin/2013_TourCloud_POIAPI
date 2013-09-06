@@ -1,0 +1,37 @@
+Title:
+3/31~4/1 거제 지심도와 공곶이 여행 후기
+
+Date:
+2012.04.02
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(203054,'files/attach/images/64/844/207/dc64f1c12ab4dc8e143303aa67178c73.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/18644915772726bf7edc178c39419baf.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/665249eae6da4e9505f04a1605e3a7c6.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/02aa37e63568e9045680fcb9f2b2e5f8.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/cf2bd86cff363309e4c0285fa7d86fb0.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/9ad1ba834831a3c6aafb053264f8f616.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/fb0d98c50be42b56a05331f6f96742fc.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/24987f3c1d7e6cf12df8c1285b2e7eca.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/03b5054b764d4f65fb07b6c9d45fb9b3.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/90849e6b53ffedf615f957f6833bb9fd.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/a4a382c580ea5fc114fa0836cb185018.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/449eb736b5d087b9ba2a0da19760e6bd.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/136c838e2fcf62443cbf5983f6ea8df9.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/9fe09f1671050921e641a828324183b1.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/195ddf96d3268b45f17280fd427891f1.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/90170b9b25c5baeffcc76f3b7cccf818.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/d2e5e49a0a5b29b85eb862d42ecb67d3.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/16ced02f6888980379265a46e4d16680.jpg');
+list_gallery_add_image(203054,'files/attach/images/64/844/207/05806da3ead2ee25cc4d84c30f86f5cc.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+3월 31일(토)~4월 1일(일), 1박 2일로 거제와 통영에 다녀왔습니다. 여행 전에 주말 기온이 떨어질 거란 예보에 걱정이 앞섰는데 이번 여행에 날씨는 아주 좋았습니다. 이틀 간 맑은 봄 날씨 속에 가벼운 마음으로 여행을 즐겼습니다.
+첫날 거제로 들어가 점심식사를 한 후 거제포로수용소 유적지를 돌아보았습니다. 거제포로수용소 유적지는 한국전쟁 때 북한군과 중공군 포로를 수용했던 곳입니다. 당시 북한군 포로들이 친공포로와 반공포로로 갈라져 극한 대립을 빚었던 역사의 현장이죠. 
+포로수용소 유적지를 돌아보고 바닷가의 예쁜 수선화 농장인 공곶이로 향했습니다. 공곶이는 예구마을 뒷산의 바닷가 쪽 비탈을 개간한 가파른 층층밭입니다. 이 비탈 밭에 수선화를 가득 심어 봄이면 노란 수선화꽃이 환하게 피어나는 곳이죠. 그리고 비탈 밭을 내려가는 돌계단길이 동백으로 뒤덮여 동백터널을 이루기도 하는 곳입니다. 그런데 올해는 수선화를 많이 심지 않으셨는지 바닷가 쪽 밭에만 수선화가 피었더군요. 좀 아쉬웠지만 바다를 배경으로 피어난 노란 수선화를 보는 것도 좋았습니다. 공곶이를 나와 해안 경승지인 바람의 언덕과 신선대를 돌아보는 것으로 첫날 일정을 마무리했습니다.
+둘째날은 지심도가 첫 일정이었는데 운이 좋게도 숙소 앞에서 멋진 일출을 볼 수 있었습니다. 해금강 사자바위 옆으로 둥실 떠오르는 붉은 해를 보았네요. 
+봄의 지심도는 싱그럽고 상쾌한 동백섬입니다. 올해는 동백이 많이 피질 않아 뭉텅뭉텅 피어난 동백을 볼 순 없었지만 맑은 날씨 덕에 상쾌한 지심도 산책을 할 수 있었습니다. 울창한 숲과 시원한 바다 그리고 소박한 섬 사람들의 살림이 마음을 편안하게 해주었던 것 같습니다.
+지심도를 본 뒤 통영항으로 이동해 자유롭게 점심을 먹고 벽화마을로 유명한 동피랑마을과 수산시장 그리고 통영항 주변을 돌아보았습니다. 통영은 매년 여행객이 증가해 이제는 여행객으로 가득한 고장이 된 것 같습니다.
+이번 여행은 날씨 덕을 크게 본 여행이었습니다. 춥지도 않았고 여행 내내 맑게 하늘이 열려 깨끗한 봄 정취를 마음껏 느낄 수 있었습니다. 봄 여행으로는 보기 드물게 상쾌한 여행이었던 것 같습니다. 이번 거제 통영 여행에 참여하신 분들 모두 활기차게 일상의 봄을 맞으시기 바랍니다~
+이 게시물을...

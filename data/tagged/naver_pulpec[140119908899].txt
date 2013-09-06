@@ -1,0 +1,969 @@
+지난
+	지나/pvg+ㄴ/etm
+
+여름
+	여름/ncn
+
+제주시에서
+	제주/ncn+시/ncn+에서/jca
+
+1박을
+	1/nnc+박/nbu+을/jco
+
+해보고선
+	해보/pvg+고선/ecs
+
+
+느낀점은
+	느낀점/ncn+은/jxc
+
+꼭
+	꼭/mag
+
+제주를
+	제주/ncn+를/jco
+
+왔을때
+	오/px+아/ep+ㄹ/etm+때/nbn
+
+중문
+	중문/ncn
+
+같이
+	같/paa+이/xsa
+
+고급
+	고급/ncn
+
+호텔들이
+	호텔/ncn+들/ncn+이/jcc
+
+몰려있는
+	몰리/pvg+어/ecx+있/px+는/etm
+
+곳까지
+	곳/ncn+까지/jxc
+
+안가도
+	안/ncn+가/jcs+도/jxc
+
+..
+	./sf+./sf
+
+
+공항이랑
+	공항/ncn+이/jcs+랑/jxc
+
+가까운
+	가깝/paa+은/etm
+
+제주시
+	제주/ncn+시/ncn
+
+안에
+	안/ncn+에/jca
+
+좋은
+	좋/paa+은/etm
+
+호텔들이
+	호텔/ncn+들/ncn+이/jcc
+
+많구나를
+	많구나/ncn+를/jco
+
+알게
+	알/pvg+게/ecs
+
+되었다는
+	되/pvg+었/ep+다/ef+는/etm
+
+점입니다
+	점/nbu+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+제주
+	제주/ncn
+
+그랜드호텔
+	그랜드호텔/ncn
+
+.
+	./sf
+
+
+제주
+	제주/ncn
+
+라마다
+	라마/ncn+이/jp+다/ef
+
+호텔
+	호텔/ncn
+
+..
+	./sf+./sf
+
+
+제주
+	제주/ncn
+
+더
+	더/mag
+
+호텔
+	호텔/ncn
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+오늘
+	오늘/ncn
+
+제가
+	저/npp+가/jcs
+
+묵을
+	묵/pvg+을/etm
+
+곳인
+	곳/ncn+이/jp+ㄴ/etm
+
+제주
+	제주/ncn
+
+오션
+	오션/ncn
+
+스위츠호텔
+	스위츠호텔/ncn
+
+..
+	./sf+./sf
+
+
+외관이
+	외관/ncn+이/jcc
+
+이렇게
+	이렇/pad+게/ecs
+
+생겼지요
+	생기/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+좋은
+	좋/paa+은/etm
+
+점은
+	점/nbu+은/jxc
+
+2010년
+	2010/nnc+년/nbu
+
+개관했다는
+	개관/ncpa+하/xsva+었/ep+다/ef+는/etm
+
+점입니다
+	점/nbu+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그럼
+	그렇/pad+ㅁ/etn
+
+호텔이
+	호텔/ncn+이/jcc
+
+새거겠지요
+	새거/ncn+이/jp+겠/ep+지/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+오션스위츠
+	오션스위츠/ncn
+
+제주호텔
+	제주/ncn+호텔/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+삼도2동
+	삼도2동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01402041",
+	"bl01402041",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"13196488",
+	"/sl+13196488/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"오션스위츠
+	title:"오션스위츠/ncn
+
+제주호텔",
+	제주/ncn+호텔/ncn+"/sr+,/sp
+
+pointX:262460,pointY:103115}
+	pointX/f+:/sp+262460/nnc+,/sp+pointY/f+:/sp+103115/nnc+}/sr
+
+
+이렇게
+	이렇/pad+게/ecs
+
+용두암근처
+	용두암근처/ncn
+
+.
+	./sf
+
+
+바닷가에
+	바닷가/ncn+에/jca
+
+위치하고
+	위치/ncn+하고/jct
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+근처에
+	근처/ncn+에/jca
+
+이마트도
+	이마트/ncn+도/jxc
+
+있구여
+	있구/ncn+이/jp+어/ecs
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+횟집들도
+	횟집/ncn+들/ncn+도/jxc
+
+용두암
+	용두암/ncn
+
+근처에
+	근처/ncn+에/jca
+
+즐비하지여
+	즐비하지/ncn+이/jp+어/ecs
+
+..
+	./sf+./sf
+
+
+오늘밤엔
+	오늘/ncn+밤/ncn+엔/jca
+
+그중
+	그중/mag
+
+'파랑도
+	'/sr+파랑/ncn+도/jxc
+
+횟집'을
+	횟집/ncn+'/sr+을/jco
+
+갈꺼구여
+	갈꺼구/ncn+이/jp+어/ecs
+
+..
+	./sf+./sf
+
+
+호텔
+	호텔/ncn
+
+로비의
+	로비/ncn+의/jcm
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+그냥
+	그냥/mag
+
+간단하게
+	간단/ncps+하/xsms+게/ecs
+
+1박하기에
+	1박하/ncn+이/jp+기/etn+에/jca
+
+딱
+	딱/mag
+
+좋은
+	좋/paa+은/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+위치에
+	위치/ncn+에/jca
+
+..
+	./sf+./sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+가격에
+	가격/ncn+에/jca
+
+..
+	./sf+./sf
+
+
+(9만2천원/1박)
+	(/sl+9/nnc+만/nnc+2/nnc+천/nnc+원/nbu+//sp+1/nnc+박/nbu+)/sr
+
+
+만족도를
+	만족도/ncn+를/jco
+
+줍니다
+	주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+로비는
+	로비/ncn+는/jxc
+
+크리스마스
+	크리스마스/ncn
+
+분위기
+	분위기/ncn
+
+살짝
+	살짝/mag
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+..
+	./sf+./sf
+
+
+단체
+	단체/ncn
+
+관광객들로
+	관광객/ncn+들/ncn+로/jca
+
+붐비는
+	붐비/paa+는/etm
+
+군여
+	군/nbu+여/xsnu
+
+..
+	./sf+./sf
+
+
+방을
+	방/ncn+을/jco
+
+배정받고
+	배정/ncpa+받/xsva+고/ecc
+
+객실로
+	객실/ncn+로/jca
+
+올라갑니다
+	오르/pvg+아/ecx+가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+바다
+	바다/ncn
+
+정면뷰
+	정면뷰/ncn
+
+.
+	./sf
+
+
+트윈
+	트윈/ncn
+
+객실로
+	객실/ncn+로/jca
+
+예약했더랍니다
+	예약/ncpa+하/xsva+었/ep+더/ep+랍니다/ef
+
+..
+	./sf+./sf
+
+
+그리
+	그리/mad
+
+넓지도
+	넓/paa+지/ecs+도/jxc
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+그리
+	그리/mad
+
+좁지도
+	좁/paa+지/ecs+도/jxc
+
+않은
+	않/px+은/etm
+
+적당한
+	적당/ncps+하/xsms+ㄴ/etm
+
+구조입니다
+	구/nnc+조/nbu+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+더블베드
+	더블베드/ncn
+
+하나에
+	하나/nnc+에/jca
+
+싱글베드
+	싱글/ncn+베드/ncn
+
+하나
+	하나/nnc
+
+.
+	./sf
+
+
+아이
+	아이/ii
+
+한명
+	한/nnc+명/nbu
+
+데리고
+	데/nbn+이/jp+리/ef+고/jcr
+
+가서
+	가/pvg+서/ecs
+
+자도
+	자/pvg+아/ecs
+
+좋을듯
+	좋/paa+을/etm+듯/nbs
+
+.
+	./sf
+
+
+침구는
+	침구/ncn+는/jxc
+
+포근하고
+	포근/ncn+하고/jct
+
+좋답니다
+	좋/paa+답니다/ef
+
+..
+	./sf+./sf
+
+
+와인잔이
+	와인/ncn+잔/ncn+이/jcc
+
+이뻐서
+	이쁘/paa+어서/ecs
+
+한컷
+	한/nnc+컷/nbu
+
+남깁니다
+	남기/pvg+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+제주도
+	제주/ncn+도/jxc
+
+대부분
+	대부분/ncn
+
+호텔들이
+	호텔/ncn+들/ncn+이/jcc
+
+케이블
+	케이블/ncn
+
+텔레비젼을
+	텔레비젼/ncn+을/jco
+
+잘
+	잘/mag
+
+달아놔서
+	달아놔서/ncn
+
+채널도
+	채널/ncn+도/jxc
+
+많구
+	많구/ncn
+
+해서
+	하/pvg+어서/ecs
+
+좋더군여
+	좋더군여/ncn
+
+..
+	./sf+./sf
+
+
+랜선도
+	랜선/ncn+도/jxc
+
+깔려
+	깔리/pvg+어/ecx
+
+있으니
+	있/px+으니/ecs
+
+..
+	./sf+./sf
+
+
+노트북
+	노트북/ncn
+
+활용도
+	활용도/ncn
+
+좋겠더군여
+	좋겠더군여/ncn
+
+..
+	./sf+./sf
+
+
+냉장고는
+	냉장고/ncn+는/jxc
+
+텅
+	텅/mag
+
+비어
+	비/paa+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+오히려
+	오히려/mag
+
+이런
+	이런/mmd
+
+냉장고가
+	냉장고/ncn+가/jcs
+
+더
+	더/mag
+
+나을때가
+	나/px+ㄹ/etm+때/nbn+가/jcc
+
+많습니다
+	많/paa+습니다/ef
+
+.
+	./sf
+
+
+가까운
+	가깝/paa+은/etm
+
+곳에
+	곳/nbn+에/jca
+
+이마트와
+	이마트/ncn+와/jcj
+
+편의점이
+	편의점/ncn+이/jcc
+
+많으니
+	많/paa+으니/ecs
+
+..
+	./sf+./sf
+
+
+쇼핑해서
+	쇼핑/ncpa+하/xsva+어서/ecs
+
+차곡차곡
+	차곡차곡/mag
+
+채워넣고
+	채워넣고/ncn
+
+먹으면
+	먹/pvg+으면/ecs
+
+되니
+	되/pvg+니/ecs
+
+..
+	./sf+./sf
+
+
+조망은
+	조망/ncn+은/jxc
+
+아직
+	아직/mag
+
+밝으니
+	밝/paa+으니/ecs
+
+그래도
+	그래도/maj
+
+바다
+	바다/ncn
+
+뷰가
+	뷰/ncn+가/jcs
+
+잘
+	잘/mag
+
+나옵니다
+	나/pvg+아/ecx+오/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+여기
+	여기/mad
+
+며칠
+	며칠/ncn
+
+머무를수
+	머무르/pvg+ㄹ/etm+수/nbn
+
+있다면
+	있/px+다면/ecs
+
+이곳에서
+	이곳/npd+에서/jca
+
+아침
+	아침/ncn
+
+저녁으로
+	저녁/ncn+으로/jca
+
+조깅을
+	조깅/ncn+을/jco
+
+한다면
+	하/pvg+ㄴ다면/ecs
+
+또
+	또/maj
+
+멋진
+	멋지/paa+ㄴ/etm
+
+일이겠네요
+	일/ncn+이/jp+겠/ep+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+저기개
+	저기개/ncn
+
+데리고
+	데/nbn+이/jp+리/ef+고/jcr
+
+산책하는
+	산책/ncpa+하/xsva+는/etm
+
+아저씨처럼요
+	아저씨처럼요/ncn
+
+..
+	./sf+./sf
+
+
+짧은
+	짧/paa+은/etm
+
+제주
+	제주/ncn
+
+여행기간이었지만
+	여행기/ncn+간이/ncn+이/jp+었/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+나름
+	나름/nbn
+
+건진게
+	건지/pvg+ㄴ게/ecs
+
+많네요
+	많/paa+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+제주시에
+	제주/ncn+시/ncn+에/jca
+
+제일
+	제일/mag
+
+럭셔리하다는
+	럭셔리하다/ncn+는/jxc
+
+라마다
+	라마/ncn+이/jp+다/ef
+
+호텔을
+	호텔/ncn+을/jco
+
+보면서
+	보/px+면서/ecc
+
+..
+	./sf+./sf
+
+
+용두암
+	용두암/ncn
+
+근처로
+	근처/ncn+로/jca
+
+저녁식사를
+	저녁식사/ncpa+를/jco
+
+하러
+	하/pvg+러/ecs
+
+나섭니다
+	나서/pvg+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+어서
+	어서/mag
+
+이
+	이/mmd
+
+추운
+	춥/paa+은/etm
+
+겨울이
+	겨울/ncn+이/jcc
+
+지나야
+	지나/pvg+아/ecx
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+길어질터인데
+	길/paa+어/ecx+지/px+ㄹ/etm+터/nbn+이/jp+ㄴ데/ecs
+
+말입니다
+	말/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+제주도엔
+	제주/ncn+도/ncn+엔/jca
+
+괜찮은
+	괜찮/paa+은/etm
+
+호텔
+	호텔/ncn
+
+.
+	./sf
+
+
+콘도가
+	콘도/ncn+가/jcs
+
+참
+	참/mag
+
+많아서
+	많/paa+아/ecx
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+그중
+	그중/mag
+
+제주시에
+	제주/ncn+시/ncn+에/jca
+
+호텔들이
+	호텔/ncn+들/ncn+이/jcc
+
+비교적
+	비교/ncpa+적/ncn
+
+저렴하고
+	저/npp+이/jp+렴/ef+하고/jcr
+
+..
+	./sf+./sf
+
+
+시설도
+	시설/ncpa+도/jxc
+
+괜찮고(경주
+	괜찮고(경주/ncn
+
+호텔정도
+	호텔/ncn+정도/ncn
+
+?)
+	?/sf+)/sr
+
+
+무엇보다도
+	무엇/npd+보다/jca+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+안에
+	안/ncn+에/jca
+
+
+맛집들이
+	맛집들/ncn+이/jcc
+
+많으니
+	많/paa+으니/ecs
+
+..
+	./sf+./sf
+
+
+제주
+	제주/ncn
+
+여행시
+	여행/ncpa+시/ncn
+
+1박은
+	1/nnc+박/nbu+은/jxc
+
+꼭
+	꼭/mag
+
+제주시에서
+	제주/ncn+시/ncn+에서/jca
+
+하세여~~~~
+	하세/ncpa+여/ncn+~/sd+~/sd+~/sd+~/sd

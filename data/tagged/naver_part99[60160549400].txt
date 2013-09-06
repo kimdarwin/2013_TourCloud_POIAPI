@@ -1,0 +1,121 @@
+오늘은우리
+	오늘은우리/ncn
+
+노을이가
+	노을/ncn+이가/jcc
+
+현장학습
+	현장학습/ncn
+
+가는
+	가/pvg+는/etm
+
+날이다
+	날/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+새벽
+	새벽/ncn
+
+5시에
+	5/nnc+시/nbu+에/jca
+
+일어나
+	일어나/pvg+아/ecx
+
+김밥
+	김밥/ncn
+
+사고
+	사/pvg+고/ecc
+
+초밥도
+	초밥/ncn+도/jxc
+
+만들었다
+	만들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+원래
+	원래/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+착한
+	착하/paa+ㄴ/etm
+
+엄마가
+	엄마/ncn+가/jcs
+
+아닌데
+	아니/paa+ㄴ데/ecs
+
+....
+	.../se+./sf
+
+
+도시락이
+	도시락/ncn+이/jcc
+
+마음에
+	마음/ncn+에/jca
+
+들었는지,
+	들/pvg+었/ep+는지/ecs+,/sp
+
+포즈를
+	포즈/ncn+를/jco
+
+원하는
+	원하/pvg+는/etm
+
+대로
+	대/nbu+로/jca
+
+다
+	다/mag
+
+취해
+	취하/pvg+어/ecx
+
+준다
+	주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+사고
+	사/pvg+고/ecc
+
+안
+	알/pvg+ㄴ/etm
+
+치고
+	치/nbu+이/jp+고/ecc
+
+무사히
+	무사히/mag
+
+돌아오면
+	돌/pvg+아/ecx+오/px+면/ecs
+
+좋겠다
+	좋/paa+겠/ep+다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy

@@ -1,0 +1,340 @@
+제주시
+	제주/ncn+시/ncn
+
+화북동
+	화북동/ncn
+
+한라산
+	한라/ncn+산/ncn
+
+국청사
+	국청사/ncn
+
+.
+	./sf
+
+
+제주시
+	제주/ncn+시/ncn
+
+화북동에
+	화북동/ncn+에/jca
+
+소재한
+	소재/ncn+한/ncn
+
+한라산
+	한라/ncn+산/ncn
+
+국청사는
+	국청사/ncn+는/jxc
+
+문화도량으로
+	문화/ncn+도량/ncn+으로/jca
+
+잘
+	잘/mag
+
+알려져
+	알리/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+한라산
+	한라/ncn+산/ncn
+
+국청사는
+	국청사/ncn+는/jxc
+
+지난
+	지나/pvg+ㄴ/etm
+
+1990년
+	1990/nnc+년/nbu
+
+불교
+	불교/ncn
+
+유아교육의
+	유아교육/ncpa+의/jcm
+
+불모지였던
+	불모지/ncn+이/jp+었/ep+던/etm
+
+제주에
+	제주/ncn+에/jca
+
+사립유치원인
+	사립유치원/ncn+이/jp+ㄴ/etm
+
+마야유치원을
+	마야유치원/ncn+을/jco
+
+설립하고
+	설립/ncpa+하고/jct
+
+이어
+	이/npd+이/jp+어/ecs
+
+사회복지법인
+	사회복지법/ncn+이/jp+ㄴ/etm
+
+국청사
+	국청사/ncn
+
+어린이집을
+	어린이/ncn+집/ncn+을/jco
+
+세우는
+	세우/pvg+는/etm
+
+등
+	등/nbu
+
+교육기관으로
+	교육기관/ncn+으로/jca
+
+뿌리를
+	뿌리/ncn+를/jco
+
+내리고
+	내리/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+나아가
+	나/pvg+아/ecx+가/px+아/ecx
+
+지난
+	지나/pvg+ㄴ/etm
+
+2004년에는
+	2004/nnc+년/nbu+에/jca+는/jxc
+
+학부모와
+	학부모/ncn+와/jcj
+
+성인을
+	성인/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+국청사
+	국청사/ncn
+
+불교대학을
+	불교/ncn+대학/ncn+을/jco
+
+설립해
+	설립/ncpa+하/xsva+어/ecx
+
+도내
+	도내/ncn
+
+최대의
+	최대/ncn+의/jcm
+
+불교
+	불교/ncn
+
+교육장으로
+	교육장/ncr+으로/jca
+
+변모하고
+	변모/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+마야유치원과
+	마야유치원/ncn+과/jcj
+
+어린이집에서는
+	어린이/ncn+집/ncn+에서/jca+는/jxc
+
+정상적인
+	정상/ncn+적/ncn+이/jp+ㄴ/etm
+
+교육과정을
+	교육과정/ncn+을/jco
+
+운영하면서
+	운영/ncpa+하/xsva+면서/ecc
+
+좌선교육,
+	좌선/ncpa+교육/ncpa+,/sp
+
+명상교육,
+	명상/ncpa+교육/ncpa+,/sp
+
+다도교육,
+	다도/ncn+교육/ncpa+,/sp
+
+사자소학
+	사자/ncn+소학/ncn
+
+등
+	등/nbu
+
+다채로운
+	다채/ncn+로운/ncn
+
+내용으로
+	내용/ncn+으로/jca
+
+인성교육을
+	인성교육/ncpa+을/jco
+
+꾸준히
+	꾸준히/mag
+
+전개해
+	전개/ncpa+하/xsva+어/ecx
+
+교육성과를
+	교육성/ncn+과/ncn+를/jco
+
+독톡히
+	독톡히/ncn
+
+보고
+	보/px+고/ecc
+
+있다고
+	있/px+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+(한라산
+	(/sl+한라/ncn+산/ncn
+
+국청사
+	국청사/ncn
+
+모습)
+	모습/ncn+)/sr
+
+
+(법당으로
+	(/sl+법당/ncn+으로/jca
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+입구)
+	입구/ncn+)/sr
+
+
+(한
+	(/sl+한/nnc
+
+적한
+	적한/ncn
+
+주차장
+	주차장/ncn
+
+모습)
+	모습/ncn+)/sr
+
+
+(마야유치원
+	(마야유치원/ncn
+
+어린이
+	어린이/ncn
+
+놀이터)
+	놀이터/ncn+)/sr
+
+
+(마야유치원
+	(마야유치원/ncn
+
+모습)
+	모습/ncn+)/sr
+
+
+(마야유치원
+	(마야유치원/ncn
+
+입구)
+	입구/ncn+)/sr
+
+
+(돌아보며
+	(/sl+돌/pvg+아/ecx+보/px+며/ecc
+
+...)
+	.../se+)/sr
+
+
+(멀리
+	(/sl+멀리/mag
+
+사라봉과
+	사라봉/ncn+과/jcj
+
+별도봉이
+	별도/ncn+봉/ncn+이/jcc
+
+보인다)
+	보/nbu+이/jp+ㄴ다/ef+)/sr
+
+
+(뒷
+	(/sl+뒷/mma
+
+동산에서
+	동산/ncn+에서/jca
+
+내려다
+	내리/pvg+어다/ecs
+
+본
+	보/px+ㄴ/etm
+
+한라산
+	한라/ncn+산/ncn
+
+국청사
+	국청사/ncn
+
+모습)
+	모습/ncn+)/sr
+
+
+(내려오면서
+	(/sl+내리/pvg+어/ecx+오/px+면서/ecc
+
+한
+	하/pvg+ㄴ/etm
+
+장더
+	장더/ncn
+
+...)
+	.../se+)/sr

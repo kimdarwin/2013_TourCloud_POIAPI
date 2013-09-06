@@ -1,0 +1,34 @@
+Title:
+6/16~17 청산도 여행 후기
+
+Date:
+2012.06.18
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(871418,'files/attach/images/64/857/225/78b9c603616e2eb8ef72c0c41925c339.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/17e7bf8a75a68a9e1c5d47bff8e7a672.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/192ad75b9a6ca69894e5050a520bd4ba.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/16fb8d02f6697f4ef9aa24a9153bb1e2.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/54537863feb3d2a9d0139080aa762c92.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/af5a2793e5fadb2f2d09453db3927113.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/ae1d4942277a34f44ed29fc7219e353c.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/8265f0ecdb4b25bda51330f5386f9e9e.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/8d6373ed2757e9437d17ca87594ca980.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/c333d59f51868da6a71c553fe0c1d385.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/255a5414dde1548a205231612c4bf7e8.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/8f22034fc7d87979537c7d8d45cc9805.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/28dfe74679ac661a1316f8bee25c0ae6.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/75108dffefa2b53ce08cbd7dd6a2402c.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/fe4474f4d2881f0a1c4357ba60d03778.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/e6612a046dba0581499aa583ed9c6ebd.jpg');
+list_gallery_add_image(871418,'files/attach/images/64/857/225/7ad12947534ba57e3b6b43fec97d2a80.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+6월 16일(토)~17일(일)에 걸쳐 이틀간 아름다운 여행으로 청산도에 다녀왔습니다. 청산도는 영화 서편제와 드라마 봄의 왈츠의 촬영지로 유명한 섬입니다. 이 세트장 주변에 봄이면 화사하게 유채꽃이 피어나 많은 사람들의 발길을 끄는 곳이죠. 여행편지에서도 봄이면 청산도를 찾아 유채꽃 핀 세트장을 돌아보곤 했습니다. 
+청산도는 세트장 말고도 슬로길이라는 걷기 코스로도 유명하죠. 섬을 한 바퀴 도는 길로 총 11코스, 42.195km의 길입니다. 이번 청산도 여행은 이 슬로길을 걷는 여행이었습니다. 
+첫날은 청산도로 들어가 3, 4, 5코스의 일부 구간을 걸었습니다. 읍리해변 입구에서 시작해 해변길을 따라 걷다가 바위 해안길인 낭길을 걷고, 내륙으로 들어가 말탄바위를 거쳐 범바위를 넘어 청계리에서 걷기를 마쳤습니다. 약 6km 정도의 길로 거리는 길지 않지만 말타바위와 범바위로 이어지는 오르막 구간이 있어 좀 힘든 길이었습니다. 하지만 바위해안길인 낭길의 독특한 분위기도 좋았고, 말탄바위와 범바위에서 내려다보는 시원한 풍경도 아름다운 길이었습니다. 아마 청산도의 아름다움을 만끽할 수 있는 코스가 아니었나 싶습니다. 첫날은 이 길을 걷고 저녁식사를 한 뒤 하루를 마쳤습니다.
+둘째날은 슬로길 1, 2, 3코스 구간의 일부를 걸었습니다. 이 구간이서 서편제와 봄의왈츠 촬영장이 있는 코스로 사람들이 많이 찾는 곳입니다. 이날 저희가 걸은 구간은 촬영장에서 시작해 화랑포를 지나 또 하나의 낭길을 걸어 촬영장으로 돌아오는 코스였습니다. 전날 걸었던 구간에 비해 길이도 짧고 오르막 구간도 거의 없어 걷기에 거의 부담이 없는 코스였습니다. 하지만 전날에 비해 날이 더워 땀은 더 흘렸던 것 같습니다.
+둘째날은 코스가 짧아 걷기를 마치고 돌담마을로 유명한 상서마을과 솔숲이 예쁜 신흥리해변을 돌아보았습니다. 상서마을을 이리저리 연결하는 돌담길은 제주도를 연상케할 정도로 이색적이었던 같습니다. 신흥리해변의 솔숲도 작은 숲이지만 여행을 마무리하기에 좋은 숲이었습니다. 
+이번 여행은 이틀간 청산도를 돌아보는 여행이었습니다. 청산도를 좀더 가까이 느낄 수 있는 여행이었습니다. 청산도의 밤바다를 보기도 했고 한적한 청산도의 아침 포구 산책을 즐기기도 했습니다. 하지만 청산도가 아직 시설면에서 부족해 불편을 겪기도 했습니다. 특히 숙소 문제가 열악해 불편함을 겪으신 분들도 계셨습니다. 이런 불편 속에서도 즐겁게 여행해주신 분들에게 감사 드립니다. 이번 여행에 참가하신 분들 모두 여행의 피로 빨리 털어내시고 활기차게 일상으로 돌아가시기 바랍니다~
+이 게시물을...

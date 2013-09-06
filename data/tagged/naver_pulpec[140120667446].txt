@@ -1,0 +1,926 @@
+얼마전
+	얼마/ncn+전/ncn
+
+롯데마트
+	롯데마트/ncn
+
+치킨이
+	치킨/ncn+이/jcc
+
+판을
+	판/nbu+을/jco
+
+치던
+	치/pvg+던/etm
+
+때가
+	때/ncn+가/jcs
+
+생각나는군요
+	생각나/pvg+는군/ef+요/jxf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+이마트
+	이마트/ncn
+
+치킨까지
+	치킨/ncn+까지/jxc
+
+...
+	.../se
+
+
+조만간
+	조만간/mag
+
+홈플러스는
+	홈플러스/ncn+는/jxc
+
+치킨+
+	치킨+/ncn
+
+피자를
+	피자/ncn+를/jco
+
+한묶음으로
+	한/nnc+묶음/nbu+으로/jca
+
+판매하는
+	판매/ncpa+하/xsva+는/etm
+
+건
+	거/nbn+은/jxc
+
+아닌지
+	아니/paa+ㄴ지/ecs
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+사실
+	사실/mag
+
+싼
+	싸/paa+ㄴ/etm
+
+피자
+	피/ncn+이/jp+자/ecc
+
+.
+	./sf
+
+
+싼
+	싸/paa+ㄴ/etm
+
+치킨은
+	치킨/ncn+은/jxc
+
+원래부터
+	원래/mag+부터/jxc
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+코스트코
+	코스트/ncn+코/ncn
+
+왕
+	왕/ncr
+
+피자
+	피/ncn+이/jp+자/ecc
+
+.
+	./sf
+
+
+세상에
+	세상/ncn+에/jca
+
+싸고
+	쓰/pvg+어/ef+고/jcr
+
+깔끔하고
+	깔끔/ncn+하고/jct
+
+영양가있으며
+	영양가/ncn+있/xsmn+으며/ecc
+
+맛있는
+	맛있/paa+는/etm
+
+음식은
+	음식/ncn+은/jxc
+
+없습니다
+	없/paa+습니다/ef
+
+...
+	.../se
+
+
+싸면
+	싸/paa+면/ecs
+
+대량
+	대량/ncn
+
+..
+	./sf+./sf
+
+
+영양가
+	영양/ncn+가/jcs
+
+있으면
+	있/px+으면/ecs
+
+고가
+	고/ncn+가/jcs
+
+..
+	./sf+./sf
+
+
+맛은
+	맛/ncn+은/jxc
+
+..
+	./sf+./sf
+
+
+음~
+	음/ncn+~/sd
+
+글쎄요
+	글쎄요/ii
+
+..
+	./sf+./sf
+
+
+그나마
+	그나마/mag
+
+코스트코
+	코스트/ncn+코/ncn
+
+피자는
+	피/pvg+자/ef+는/etm
+
+피자
+	피/ncn+이/jp+자/ecc
+
+맛이
+	맛/ncn+이/jcc
+
+원래
+	원래/mag
+
+다
+	다/mag
+
+그려~
+	그리/pvg+어/ecs+~/sd
+
+라는
+	라/ncn+는/jxc
+
+생각이
+	생각/ncpa+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+그런지는
+	그러/pvd+ㄴ지/ecs+는/jxc
+
+몰라도
+	모르/pvg+아/ecs+도/jxc
+
+..
+	./sf+./sf
+
+
+아니며
+	아니/paa+며/ecc
+
+한국식
+	한국식/ncn
+
+현대판
+	현대판/ncn
+
+피자의
+	피자/ncn+의/jcm
+
+고향
+	고향/ncn
+
+미쿡에서
+	미쿡/ncn+에서/jca
+
+건너와서
+	건너/pvg+어/ecx+오/px+아/ecx
+
+그런지는
+	그러/pvd+ㄴ지/ecs+는/jxc
+
+몰라도
+	모르/pvg+아/ecs+도/jxc
+
+.
+	./sf
+
+
+맛도
+	맛/ncn+도/jxc
+
+좀
+	좀/mag
+
+있으면서
+	있/px+으면서/ecc
+
+가격이
+	가격/ncn+이/jcc
+
+싸고
+	쓰/pvg+어/ef+고/jcr
+
+양도
+	양/ncn+도/jxc
+
+푸짐합니다
+	푸짐/ncps+하/xsms+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+코스트코
+	코스트/ncn+코/ncn
+
+간김에
+	가/px+ㄴ/etm+김/nbn+에/jca
+
+..
+	./sf+./sf
+
+
+콤보
+	콤보/ncn
+
+피자로
+	피자/ncn+로/jca
+
+한판
+	한/nnc+판/nbu
+
+사왔습니다
+	사/pvg+아/ecx+오/px+아/ep+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+12500원
+	12500/nnc+원/nbu
+
+..
+	./sf+./sf
+
+
+괜찮은
+	괜찮/paa+은/etm
+
+가격이지여
+	가격/ncn+이지/ncn+이/jp+어/ef
+
+?
+	?/sf
+
+
+컵으로
+	컵/ncn+으로/jca
+
+사이즈
+	사이즈/ncn
+
+한번
+	한/nnc+번/nbu
+
+재어
+	재/pvg+어/ecx
+
+봅니다
+	보/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+저
+	저/mmd
+
+제법
+	제법/mag
+
+큰
+	크/paa+ㄴ/etm
+
+컵이
+	컵/ncn+이/jcc
+
+아주
+	아주/mag
+
+초라해보이네요
+	초라/ncps+하/xsms+어/ecx+보이/px+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+종이덮개를
+	종이/ncn+덮개/ncn+를/jco
+
+열어선
+	열/pvg+어선/ecs
+
+..
+	./sf+./sf
+
+
+또
+	또/maj
+
+비교
+	비교/ncpa
+
+..
+	./sf+./sf
+
+
+흠~
+	흠/ii+~/sd
+
+
+썰어놓은
+	썰/pvg+어/ecx+놓/px+은/etm
+
+크기가
+	크/paa+기/etn+가/jcs
+
+어느정도인지
+	어느정도/ncn+이/jp+ㄴ지/ecs
+
+아시겠져
+	아시겠져/ncn
+
+?
+	?/sf
+
+
+한쪽당
+	한쪽/ncn+당/ncn
+
+..
+	./sf+./sf
+
+
+성인
+	성/ncn+이/jp+ㄴ/etm
+
+손바닥
+	손바닥/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+2개정도
+	2개정/ncn+도/jxc
+
+.
+	./sf
+
+
+제손으로
+	제손/ncn+으로/jca
+
+대충
+	대충/mag
+
+가려보니
+	가리/pvg+어/ecx+보/px+니/ecs
+
+제
+	저/npp+의/jcm
+
+손바닥
+	손바닥/ncn
+
+2개가
+	2/nnc+개/nbu+가/jcc
+
+다
+	다/mag
+
+못가리네요
+	못가리네요/ncn
+
+.
+	./sf
+
+
+피자
+	피/pvg+자/ecc
+
+한쪽을
+	하/pvg+ㄴ/etm+쪽/nbn+을/jco
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+비쥬얼도
+	비쥬얼/ncn+도/jxc
+
+좋아보이지
+	좋/paa+아/ecx+보이/px+지/ecx
+
+않나여
+	않나/ncn+이/jp+어/ecs
+
+?
+	?/sf
+
+
+이걸
+	이걸/ncn
+
+사오면
+	사/pvg+아/ecx+오/px+면/ecs
+
+다
+	다/mag
+
+못먹어서
+	못먹어서/ncn
+
+..
+	./sf+./sf
+
+
+짤라서
+	짜르/pvg+아/ecx
+
+얼려서
+	얼리/pvg+어서/ecs
+
+주로
+	주로/mag
+
+먹습니다
+	먹/pvg+습니다/ef
+
+.
+	./sf
+
+
+도우에
+	도우/ncn+에/jca
+
+치즈랑
+	치즈/ncn+랑/jxc
+
+버섯좀
+	버섯/ncn+좀/ncn
+
+더
+	더/mag
+
+얹혀서
+	얹히/pvg+어서/ecs
+
+오븐
+	오븐/ncn
+
+돌려서
+	돌리/pvg+어서/ecs
+
+..
+	./sf+./sf
+
+
+그래서
+	그래서/maj
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+새로
+	새로/mag
+
+사온
+	사/pvg+아/ecx+오/px+ㄴ/etm
+
+날의
+	날/ncn+의/jcm
+
+빵맛은
+	빵맛/ncn+은/jxc
+
+유달리
+	유달리/mag
+
+좋네요
+	좋/paa+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+쫄깃한
+	쫄깃한/ncn
+
+것이
+	것/nbn+이/jcc
+
+..
+	./sf+./sf
+
+
+치즈도
+	치즈/ncn+도/jxc
+
+적당해서
+	적당/ncps+하/xsms+어서/ecs
+
+비율이
+	비율/ncn+이/jcc
+
+맞으니
+	맞/pvg+으니/ecs
+
+..
+	./sf+./sf
+
+
+맛이
+	맛/ncn+이/jcc
+
+있을수
+	있/px+을/etm+수/nbn
+
+밖에
+	밖/ncn+에/jca
+
+없나봅니다
+	없나봅니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+이렇게
+	이렇/pad+게/ecs
+
+구워서
+	굽/pvg+어서/ecs
+
+직접
+	직접/mag
+
+파는
+	팔/pvg+는/etm
+
+피자도
+	피자/ncn+도/jxc
+
+있고
+	있/px+고/ecc
+
+..
+	./sf+./sf
+
+
+똑같은
+	똑같/paa+은/etm
+
+피자를
+	피자/ncn+를/jco
+
+
+굽기전
+	굽/pvg+기/etn+전/xsnx
+
+냉동상태로
+	냉동상태/ncn+로/jca
+
+..
+	./sf+./sf
+
+
+팔기도
+	팔/pvg+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+물론사와도
+	물론사/ncn+와/jct+도/jxc
+
+통째로
+	통째로/mag
+
+구울순
+	구울순/ncn
+
+없겠지요
+	없/paa+겠/ep+지/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+집에
+	집/ncn+에/jca
+
+오븐이
+	오븐/ncn+이/jcc
+
+아무리
+	아무리/mag
+
+커도
+	크/paa+어/ecs+도/jxc
+
+..
+	./sf+./sf
+
+
+코스트코
+	코스트/ncn+코/ncn
+
+피자가
+	피자/ncn+가/jcs
+
+다
+	다/mag
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+오븐을
+	오븐/ncn+을/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+집이
+	집/ncn+이/jcc
+
+있을까여
+	있을까/ncn+이/jp+어/ecs
+
+..
+	./sf+./sf
+
+
+^^;;;
+	^/sy+^/sy+;/sy+;/sy+;/sy
+
+
+그리고
+	그리고/maj
+
+보너스
+	보너스/ncn
+
+..
+	./sf+./sf
+
+
+코스트코표
+	코스트코표/ncn
+
+소시지빵입니다
+	소시지/ncn+빵/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+주문하면
+	주문/ncpa+하/xsva+면/ecs
+
+정말
+	정말/mag
+
+소시지랑
+	소/ncn+이/jp+시/ep+지/ecs+랑/jxc
+
+..
+	./sf+./sf
+
+
+빵이랑
+	빵/ncn+이/jcs+랑/jxc
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+소스봉지
+	소스/ncn+봉지/ncn
+
+하나만
+	하/pvg+어/ecx+나/px+아/ecx+말/px+ㄴ/etm
+
+딸랑
+	딸/ncn+랑/jxc
+
+줍니다
+	주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+첨엔
+	첨/ncn+엔/jca
+
+그냥
+	그냥/mag
+
+빵이랑
+	빵/ncn+이/jcs+랑/jxc
+
+소스만
+	소스/ncn+만/jxc
+
+찍어먹으면서
+	찍어먹으/ncn+이/jp+면서/ecc
+
+'왜이래'
+	'왜이래'/ncn
+
+왜
+	왜/mag
+
+일케
+	일케/ncn
+
+맛이
+	맛/ncn+이/jcc
+
+없지
+	없/paa+지/ecx
+
+?
+	?/sf
+
+
+든것도
+	들/pvg+ㄴ/etm+것/nbn+도/jxc
+
+없고
+	없/paa+고/ecc
+
+...
+	.../se
+
+
+하면서
+	하/pvg+면서/ecc
+
+투덜거렸는데
+	투덜거리/pvg+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+양파기계가
+	양파/ncn+기계/ncn+가/jcs
+
+있더군요
+	있/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+집에선
+	집/ncn+에/jca+선/jxc
+
+절대루
+	절/nbu+대/xsnu+루/nbu
+
+갈수
+	가/px+ㄹ/etm+수/nbn
+
+없는
+	없/paa+는/etm
+
+찐득한
+	찐득한/ncn
+
+생양파
+	생양파/ncn
+
+속을
+	속/ncn+을/jco
+
+얹혀서
+	얹히/pvg+어서/ecs
+
+먹으면
+	먹/pvg+으면/ecs
+
+아주
+	아주/mag
+
+맛있습니다
+	맛있/paa+습니다/ef
+
+..
+	./sf+./sf
+
+
+이렇게요
+	이렇/pad+게/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+출출할때
+	출출/ncps+하/xsms+ㄹ/etm+때/nbn
+
+..
+	./sf+./sf
+
+
+고칼로리지만
+	고칼로리/ncn+이/jp+지만/ecs
+
+..
+	./sf+./sf
+
+
+생각나는
+	생각나/pvg+는/etm
+
+코스트코
+	코스트/ncn+코/ncn
+
+피자
+	피/ncn+이/jp+자/ecc
+
+.
+	./sf
+
+
+소시지
+	소/ncn+이/jp+시/ep+지/ecs
+
+빵.
+	빵/ncn+./sf
+
+..
+	./sf+./sf

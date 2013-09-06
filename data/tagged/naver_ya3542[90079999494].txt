@@ -1,0 +1,915 @@
+사랑
+	사랑/ncn
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+가슴
+	가슴/ncn
+
+아픈
+	아프/paa+ㄴ/etm
+
+이별,
+	이별/ncpa+,/sp
+
+그
+	그/mmd
+
+그리움에
+	그리움/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+한
+	한/nnc
+
+남자와
+	남자/ncn+와/jct
+
+한
+	하/pvg+ㄴ/etm
+
+여자의아픈
+	여자의아픈/ncn
+
+이야기
+	이야기/ncpa
+
+..
+	./sf+./sf
+
+
+'그남자
+	'그남자/ncn
+
+그여자
+	그여/ncn+이/jp+자/ecc
+
+'.
+	'/sr+./sy
+
+.
+	./sf
+
+
+2006
+	2006/nnc
+
+에
+	에/pvg+어/ecx
+
+발표된바이브의
+	발표된바이브/ncn+의/jcm
+
+3집
+	3집/ncn
+
+앨범에
+	앨범/ncn+에/jca
+
+수록된
+	수록/ncpa+되/xsvn+ㄴ/etm
+
+곡,
+	곡/ncn+,/sp
+
+그
+	그/mmd
+
+남자
+	남자/ncn
+
+그
+	그/mmd
+
+여자
+	여자/ncn
+
+는장혜진이
+	는장혜진/ncn+이/jcc
+
+피쳐링
+	피쳐/ncn+링/ncn
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+듣기만
+	듣/pvg+기/etn+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+눈물이
+	눈물/ncn+이/jcc
+
+날
+	나/px+ㄹ/etm
+
+듯
+	듯/nbn
+
+가슴을
+	가슴/ncn+을/jco
+
+파고드는
+	파고들/pvg+는/etm
+
+애절한
+	애절/ncps+하/xsms+ㄴ/etm
+
+선율과
+	선율/ncn+과/jcj
+
+가사
+	가사/ncn
+
+...
+	.../se
+
+
+마음속에
+	마음속/ncn+에/jca
+
+잊고
+	잊/pvg+고/ecc
+
+지냈던
+	지내/pvg+었/ep+던/etm
+
+사랑
+	사랑/ncn
+
+의
+	의/ncn
+
+소중함을
+	소중/ncn+함/ncn+을/jco
+
+일깨워
+	일깨우/pvg+어/ecx
+
+주는
+	주/px+는/etm
+
+보석과도
+	보석/ncn+과/jct+도/jxc
+
+같은
+	같/paa+은/etm
+
+음악이다
+	음악/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+바이브(feat
+	바이브(feat/ncn
+
+장혜진)
+	장혜진)/ncn
+
+'
+	'/sr
+
+그남자
+	그남자/ncn
+
+그여자'
+	그여자'/ncn
+
+뮤직비디오
+	뮤직비디오/ncn
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc16/2010/01/29/1342/031002136A1743AB12D34B4013C90533703_ya3542_logo.
+	net/blogucc16/2010/01/29/1342/031002136A1743AB12D34B4013C90533703_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'317.
+	'/sr+317./nnc
+
+33';
+	33/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'F10A217C79409644FC4D6B9438F8028AAF5E';
+	'F10A217C79409644FC4D6B9438F8028AAF5E/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12190647c35358d561f8ded0b06bbc892e14fc01c1b813873fd657bec88401606ededed0b06bbc892e14';
+	'V12190647c35358d561f8ded0b06bbc892e14fc01c1b813873fd657bec88401606ededed0b06bbc892e14/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_06077
+	ugcPlayer_06077/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_06077'
+	VideoInfraUGCPlayer('ugcPlayer_06077'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_06077
+	ugcPlayer_06077/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+그남자
+	그남자/ncn
+
+그여자
+	그여/ncn+이/jp+자/ecc
+
+(가사)
+	(/sl+가사/ncn+)/sr
+
+/
+	//sp
+
+바이브
+	바이브/ncn
+
+
+혹시
+	혹시/mag
+
+니가
+	니/ncn+가/jcs
+
+다시
+	다시/mag
+
+돌아올까봐
+	돌아올까봐/ncn
+
+다른
+	다른/mma
+
+사랑
+	사랑/ncn
+
+절대
+	절대/ncn
+
+못해남잘
+	못해남잘/ncn
+
+울렸으면
+	울리/pvg+었/ep+으면/ecs
+
+책임져야지니가
+	책임져야지니/ncn+가/jcs
+
+뭘
+	뭐/npd+을/jco
+
+알아
+	알/pvg+아/ecx
+
+남자의
+	남자/ncn+의/jcm
+
+마음을모든걸
+	마음을모든걸/ncn
+
+다주니까
+	다주/ncn+이/jp+니까/ecs
+
+떠난다는
+	뜨/pvg+어/ecx+나/px+ㄴ다/ef+는/etm
+
+그
+	그/mmd
+
+여자내
+	여자/ncn+내/ncn
+
+전부를
+	전부/ncn+를/jco
+
+다
+	다/mag
+
+가져간
+	가/pvg+아/ecx+지/px+어/ecx+가/px+ㄴ/etm
+
+그
+	그/mmd
+
+여자한때는
+	여자/ncn+한때/ncn+는/jxc
+
+내가
+	나/npp+가/jcs
+
+정말
+	정말/mag
+
+사랑했던
+	사랑/ncpa+하/xsva+었/ep+던/etm
+
+그
+	그/mmd
+
+여자다
+	여자/ncn+이/jp+다/ef
+
+믿었었어
+	믿/pvg+었었/ep+어/ecs
+
+바보같이여자는
+	바보/ncn+같이/jca+이/jp+어/ef+자는/etm
+
+다
+	다/mag
+
+똑같나봐
+	똑같나봐/ncn
+
+
+혹시
+	혹시/mag
+
+니가
+	니/ncn+가/jcs
+
+다시
+	다시/mag
+
+돌아올까봐
+	돌아올까봐/ncn
+
+다른
+	다른/mma
+
+사랑
+	사랑/ncn
+
+절대
+	절대/ncn
+
+못해여잘
+	못해여잘/ncn
+
+울렸으면
+	울리/pvg+었/ep+으면/ecs
+
+책임져야지
+	책임지/pvg+어야지/ef
+
+니가
+	니/ncn+가/jcs
+
+뭘
+	뭐/npd+을/jco
+
+알아
+	알/pvg+아/ecx
+
+여자의
+	여자/ncn+의/jcm
+
+마음을모든걸
+	마음을모든걸/ncn
+
+다주니까
+	다주/ncn+이/jp+니까/ecs
+
+떠난다는
+	뜨/pvg+어/ecx+나/px+ㄴ다/ef+는/etm
+
+그
+	그/mmd
+
+남자내
+	남자/ncn+내/ncn
+
+전부를
+	전부/ncn+를/jco
+
+다
+	다/mag
+
+가져간
+	가/pvg+아/ecx+지/px+어/ecx+가/px+ㄴ/etm
+
+그
+	그/mmd
+
+남잔한때는
+	남잔한때/ncn+는/jxc
+
+내가
+	나/npp+가/jcs
+
+정말
+	정말/mag
+
+사랑했던
+	사랑/ncpa+하/xsva+었/ep+던/etm
+
+그
+	그/mmd
+
+남자다
+	남자/ncn+이/jp+다/ef
+
+믿었었어
+	믿/pvg+었었/ep+어/ecs
+
+바보같이남자는
+	바보같이남자/ncn+는/jxc
+
+다
+	다/mag
+
+똑같나봐
+	똑같나봐/ncn
+
+
+우린
+	우/ncn+이/jp+리/ep+ㄴ/etm
+
+미치도록
+	미치/pvg+도록/ecs
+
+사랑했었지우린
+	사랑했었지우린/ncn
+
+미치도록
+	미치/pvg+도록/ecs
+
+사랑했었지~
+	사랑/ncpa+하/xsva+었었/ep+지/ef+~/sd
+
+(I'm
+	(/sl+I/f+'/sr+m/f
+
+gonna
+	gonna/f
+
+cra~~)
+	cra/f+~/sd+~/sd+)/sr
+
+
+모든걸
+	모든걸/ncn
+
+다주니까
+	다주/ncn+이/jp+니까/ecs
+
+떠난다는
+	뜨/pvg+어/ecx+나/px+ㄴ다/ef+는/etm
+
+그
+	그/mmd
+
+남자
+	남자/ncn
+
+
+(~zy
+	(/sl+~/sd+zy/f
+
+thinking
+	thinking/f
+
+about
+	about/f
+
+you
+	you/f
+
+babe~)내
+	babe/f+~/sd+)/sr+내/npp
+
+맘
+	말/px+ㅁ/etn
+
+하나
+	하나/nnc
+
+몰라주는
+	모르/pvg+아/ecx+주/px+는/etm
+
+그
+	그/mmd
+
+남자
+	남자/ncn
+
+
+(Oh~
+	(/sl+Oh/f+~/sd
+
+I'll
+	I/f+'/sr+ll/f
+
+go
+	go/f
+
+crazy,
+	crazy/f+,/sp
+
+I'll
+	I/f+'/sr+ll/f
+
+go
+	go/f
+
+crazy)한때는
+	crazy/f+)/sr+한때/ncn+는/jxc
+
+내가
+	나/npp+가/jcs
+
+정말
+	정말/mag
+
+사랑했던
+	사랑/ncpa+하/xsva+었/ep+던/etm
+
+그
+	그/mmd
+
+남자(Oh
+	남자(Oh/ncn
+
+oh~
+	oh/f+~/sd
+
+I
+	I/f
+
+don't
+	don/f+'/sr+t/f
+
+make
+	make/f
+
+me
+	me/f
+
+cry~)
+	cry/f+~/sd+)/sr
+
+
+다
+	다/mag
+
+믿었었어
+	믿/pvg+었었/ep+어/ecs
+
+바보같이
+	바보/ncn+같이/jca
+
+
+(어어어으우우우~(
+	(어어어으우우우~(/ncn
+
+?)
+	?/sf+)/sr
+
+
+)
+	)/sr
+
+
+그땐
+	그땐/ncn
+
+사랑이
+	사랑/ncn+이/jcc
+
+이별인줄
+	이별/ncpa+이/jp+ㄴ/etm+줄/nbn
+
+모르고
+	모르/pvg+고/ecc
+
+(그런
+	(/sl+그러/pvd+ㄴ/etm
+
+줄도
+	줄/nbn+도/jxc
+
+모르고)다
+	모르고)다/ncn
+
+믿었었어
+	믿/pvg+었었/ep+어/ecs
+
+우리
+	우리/npp
+
+둘이
+	둘이/mag
+
+
+그남자
+	그남자/ncn
+
+그여자
+	그여/ncn+이/jp+자/ecc
+
+(바이브)
+	(바이브/ncn+)/sr
+
+
+민초호야의
+	민초호야/ncn+의/jcm
+
+음악공간
+	음악/ncn+공간/ncn

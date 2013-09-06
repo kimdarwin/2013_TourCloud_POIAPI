@@ -1,0 +1,1102 @@
+네버엔딩스토리(내조의여왕OST)
+	네버엔딩스토리(내조의여왕OST/ncn+)/sr
+
+
+윤상현이
+	윤상현/ncn+이/jcc
+
+내조의
+	내조/ncpa+의/jcm
+
+여왕에서
+	여왕/ncr+에서/jca
+
+남편에게
+	남편/ncn+에게/jca
+
+상처를
+	상처/ncn+를/jco
+
+받은
+	받/pvg+은/etm
+
+천지애(김남주)를
+	천지애(김남주)/ncn+를/jco
+
+위로하기
+	위로/ncpa+하/xsva+기/etn
+
+위하여
+	위하/pvg+어/ecx
+
+극중에서
+	극중/ncn+에서/jca
+
+직접
+	직접/mag
+
+부른
+	부르/pvg+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+부활의
+	부활/ncpa+의/jcm
+
+
+'네버엔딩스토리'
+	'네버엔딩스토리'/ncn
+
+..
+	./sf+./sf
+
+
+윤상현의
+	윤상현/ncn+의/jcm
+
+분위기
+	분위기/ncn
+
+있는
+	있/px+는/etm
+
+음색과
+	음색/ncn+과/jct
+
+뛰어난
+	뛰/pvg+어/ecx+나/px+ㄴ/etm
+
+가창력으로
+	가창력/ncn+으로/jca
+
+여성들에게
+	여성/ncn+들/ncn+에게/jca
+
+인기몰이를
+	인기몰이/ncpa+를/jco
+
+하였던
+	하/px+었/ep+던/etm
+
+..
+	./sf+./sf
+
+
+'네버엔딩스토리'
+	'네버엔딩스토/ncn+이/jp+리/ef+'/sr
+
+
+네버엔딩스토리는
+	네버엔딩스토리/ncn+는/jxc
+
+내조의
+	내조/ncpa+의/jcm
+
+여왕
+	여왕/ncr
+
+OST의
+	OST/f+의/jcm
+
+결정판이라고
+	결정판/ncn+이/jp+라/ef+고/jcr
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/paa+다/ef
+
+
+네버엔딩스토리
+	네버엔딩스토리/ncn
+
+(내조의여왕OST)
+	(내조의여왕OST)/ncn
+
+윤상현
+	윤상현/ncn
+
+(뮤비/듣기/가사)
+	(뮤비/ncn+//sp+듣기/ncn+//sp+가사/ncn+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc16/2010/01/24/638/031002136A26430B17033B3653BB00D3644_ya3542_logo.
+	net/blogucc16/2010/01/24/638/031002136A26430B17033B3653BB00D3644_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'254.
+	'/sr+254./nnc
+
+67';
+	67/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'A05E973064382BFAEC4F6ADFD10800810E81';
+	'A05E973064382BFAEC4F6ADFD10800810E81/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12563aa800afe82b137ce300a9b7110b6dd164ede8375b7fc926a5de5c1e41367aabe300a9b7110b6dd1';
+	'V12563aa800afe82b137ce300a9b7110b6dd164ede8375b7fc926a5de5c1e41367aabe300a9b7110b6dd1/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_08981
+	ugcPlayer_08981/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_08981'
+	VideoInfraUGCPlayer('ugcPlayer_08981'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_08981
+	ugcPlayer_08981/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+네버엔딩스토리
+	네버엔딩스토리/ncn
+
+(내조의여왕OST)
+	(내조의여왕OST)/ncn
+
+윤상현
+	윤상현/ncn
+
+
+손
+	손/ncn
+
+닿을
+	닿/pvg+을/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+저기
+	저/npp+이/jp+기/etn
+
+어딘가
+	어딘가/ncn
+
+오늘도
+	오늘/ncn+도/jxc
+
+넌
+	널/pvg+ㄴ/etm
+
+숨쉬고
+	숨쉬/pvg+고/ecc
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+너와
+	너/npp+와/jct
+
+머물던
+	머물/pvg+던/etm
+
+작은
+	작/paa+은/etm
+
+의자위엔
+	의자/ncn+위/ncn+엔/jca
+
+같은
+	같/paa+은/etm
+
+모습의
+	모습/ncn+의/jcm
+
+바람이
+	바람/ncn+이/jcc
+
+지나네
+	지나/pvg+네/ef
+
+..
+	./sf+./sf
+
+
+너는
+	너/npp+는/jxc
+
+떠나며
+	떠나/pvg+며/ecc
+
+마치
+	마치/mag
+
+날
+	나/px+ㄹ/etm
+
+떠나가듯이
+	떠나/pvg+아/ecx+가/px+듯이/ecs
+
+멀리
+	멀리/mag
+
+손을
+	손/ncn+을/jco
+
+흔들며
+	흔들/pvg+며/ecc
+
+언젠간
+	언젠간/ncn
+
+추억에
+	추억/ncpa+에/jca
+
+남겨져
+	남기/pvg+어/ecx+지/px+어/ecx
+
+갈꺼라고
+	갈꺼/ncn+이/jp+라/ef+고/jcr
+
+..
+	./sf+./sf
+
+
+그리워하면
+	그립/paa+어/ecx+하/px+면/ecs
+
+언젠간
+	언젠간/ncn
+
+만나게
+	만나/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+어느
+	어느/mmd
+
+영화와
+	영화/ncn+와/jct
+
+같은
+	같/paa+은/etm
+
+일들이
+	일/pvg+ㄹ/etm+들/nbn+이/jcc
+
+이루어져
+	이루/pvg+어/ecx+지/px+어/ecx
+
+가기를
+	가/px+기/etn+를/jco
+
+힘겨워한
+	힘겹/paa+어/ecx+하/px+ㄴ/etm
+
+날에
+	날/ncn+에/jca
+
+너를
+	너/npp+를/jco
+
+지킬
+	지키/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없었던
+	없/paa+었/ep+던/etm
+
+아름다운
+	아름답/paa+은/etm
+
+시절속에
+	시절/ncn+속/ncn+에/jca
+
+머문
+	머물/pvg+ㄴ/etm
+
+그대이기에
+	그대/npp+이/jp+기/etn+에/jca
+
+..
+	./sf+./sf
+
+
+네버엔딩스토리너는
+	네버엔딩스토리너/ncn+는/jxc
+
+떠나며
+	떠나/pvg+며/ecc
+
+마치
+	마치/mag
+
+날
+	나/px+ㄹ/etm
+
+떠나가듯이
+	떠나/pvg+아/ecx+가/px+듯이/ecs
+
+멀리
+	멀리/mag
+
+손을
+	손/ncn+을/jco
+
+흔들며
+	흔들/pvg+며/ecc
+
+언젠간
+	언젠간/ncn
+
+추억에
+	추억/ncpa+에/jca
+
+남겨져
+	남기/pvg+어/ecx+지/px+어/ecx
+
+갈꺼라고
+	갈꺼/ncn+이/jp+라/ef+고/jcr
+
+-그리워하면
+	-그리워하/ncn+이/jp+면/ecs
+
+언젠간
+	언젠간/ncn
+
+만나게
+	만나/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+어느
+	어느/mmd
+
+영화와
+	영화/ncn+와/jct
+
+같은
+	같/paa+은/etm
+
+일들이
+	일/pvg+ㄹ/etm+들/nbn+이/jcc
+
+이루어져
+	이루/pvg+어/ecx+지/px+어/ecx
+
+가기를
+	가/px+기/etn+를/jco
+
+힘겨워한
+	힘겹/paa+어/ecx+하/px+ㄴ/etm
+
+날에
+	날/ncn+에/jca
+
+너를
+	너/npp+를/jco
+
+지킬
+	지키/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없었던
+	없/paa+었/ep+던/etm
+
+아름다운
+	아름답/paa+은/etm
+
+시절속에
+	시절/ncn+속/ncn+에/jca
+
+머문
+	머물/pvg+ㄴ/etm
+
+그대여
+	그대/npp+이/jp+어/ecs
+
+
+네버엔딩스토리(반복)
+	네버엔딩스토리/ncn+(/sl+반복/ncpa+)/sr
+
+
+그리워하면
+	그립/paa+어/ecx+하/px+면/ecs
+
+언젠간
+	언젠간/ncn
+
+만나게
+	만나/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+어느
+	어느/mmd
+
+영화와
+	영화/ncn+와/jct
+
+같은
+	같/paa+은/etm
+
+일들이
+	일/pvg+ㄹ/etm+들/nbn+이/jcc
+
+이루어져
+	이루/pvg+어/ecx+지/px+어/ecx
+
+가기를
+	가/px+기/etn+를/jco
+
+힘겨워한
+	힘겹/paa+어/ecx+하/px+ㄴ/etm
+
+날에
+	날/ncn+에/jca
+
+너를
+	너/npp+를/jco
+
+지킬
+	지키/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없었던
+	없/paa+었/ep+던/etm
+
+아름다운
+	아름답/paa+은/etm
+
+시절속에
+	시절/ncn+속/ncn+에/jca
+
+머문
+	머물/pvg+ㄴ/etm
+
+그대이기에
+	그대/npp+이/jp+기/etn+에/jca
+
+
+네버엔딩스토리
+	네버엔딩스토리/ncn
+
+(이승철)
+	(/sl+이승/ncn+철/ncn+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc16/2010/01/24/1518/031002136B26730817739B1113AD5B63907_ya3542_logo.
+	net/blogucc16/2010/01/24/1518/031002136B26730817739B1113AD5B63907_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'250.
+	'/sr+250./nnc
+
+42';
+	42/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'6DEF5F594A333D3925D724E10033CB9032CF';
+	'6DEF5F594A333D3925D724E10033CB9032CF/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1286205bc6d0118df5e7f50a90352df3e3d12478c5a30000073157af78f58ec96ca9f50a90352df3e3d1';
+	'V1286205bc6d0118df5e7f50a90352df3e3d12478c5a30000073157af78f58ec96ca9f50a90352df3e3d1/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_01721
+	ugcPlayer_01721/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_01721'
+	VideoInfraUGCPlayer('ugcPlayer_01721'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_01721
+	ugcPlayer_01721/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+네버엔딩스토리
+	네버엔딩스토/ncn+이/jp+리/ef
+
+
+민초호야의
+	민초호야/ncn+의/jcm
+
+음악이야기
+	음악이야기/ncpa

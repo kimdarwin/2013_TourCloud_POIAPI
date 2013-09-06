@@ -1,0 +1,505 @@
+장성군
+	장성/ncn+군/ncn
+
+
+전라남도
+	전라/ncn+남도/ncn
+
+
+기간
+	기간/ncn
+
+2009.
+	2009./nnc
+
+11.
+	11./nnc
+
+7~
+	7/nnc+~/sd
+
+2009.
+	2009./nnc
+
+11.
+	11./nnc
+
+7(1일)
+	7/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+나
+	나/npp
+
+홀로
+	홀로/mag
+
+떠나는
+	떠나/pvg+는/etm
+
+여행
+	여행/ncpa
+
+
+경로
+	경로/ncn
+
+
+광주광역시
+	광주광역시/ncn
+
+광천터미널
+	광천터미널/ncn
+
+장성군
+	장성/ncn+군/ncn
+
+백양사
+	백양사/ncn
+
+대웅전
+	대웅전/ncn
+
+약사암
+	약사/ncr+암/ncn
+
+영천굴
+	영천굴/ncn
+
+
+특별히
+	특별히/mag
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+곳
+	곳/nbu
+
+
+전체적으로아기단풍잎들이한가득해서참으로볼만한곳이다-
+	전체적으로아기단풍잎들이한가득해서참으로볼만한곳/ncn+이/jp+다/ef+-/sd
+
+
+온통붉은색노란색~~대웅전까지올라가는그길이너무아름답다-
+	온통붉은색노란색~~대웅전까지올라가는그길이너무아름답다/ncn+-/sd
+
+
+그리고약사암에서바라보는백양산이너무울긋불긋하니이뻐~~
+	그리고약사암에서바라보는백양산이너무울긋불긋하니이뻐/ncn+~/sd+~/sd
+
+
+여행팁
+	여행/ncpa+팁/ncn
+
+
+대중교통이용하는게쉬운듯하다-
+	대중교통이용하는게쉬운듯하/ncn+이/jp+다/ef+-/sd
+
+
+광주광역시광천터미널에서백양사행버스만타면바로도착하니
+	광주광역시광천터미널에서백양사행버스만타면바로도착하/ncn+이/jp+니/ecs
+
+..
+	./sf+./sf
+
+
+한번에해결된다^O^
+	한번에해결된다/ncn+^/sy+O/f+^/sy
+
+
+대웅전을
+	대웅전/ncn+을/jco
+
+나와~
+	나/npp+와/jct+~/sd
+
+약사암까지
+	약사/ncr+암/ncn+까지/jxc
+
+0.4km
+	0.4km/ncn
+
++
+	+/ncn
+
+영천굴
+	영천굴/ncn
+
+0.1Km
+	0.1Km/ncn
+
+
+등산이란거
+	등산이란거/ncn
+
+마뉘
+	마뉘/ncn
+
+안해봤는데
+	안하/pvg+어/ecx+보/px+아/ep+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+급경사를
+	급경사/ncn+를/jco
+
+오르다보니
+	오르다보/ncn+이/jp+니/ecs
+
+땀도
+	따/pvg+ㅁ/etn+도/jxc
+
+마뉘
+	마뉘/ncn
+
+나고
+	나/npp+이/jp+고/ecc
+
+..
+	./sf+./sf
+
+
+얼마나
+	얼마나/mag
+
+힘들던지
+	힘들/pvg+더/ep+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+_
+	_/ncn
+
+
+대웅전을
+	대웅전/ncn+을/jco
+
+막
+	막/mag
+
+나왔을때
+	나/pvg+아/ecx+오/px+아/ep+ㄹ/etm+때/nbn
+
+...
+	.../se
+
+
+의
+	의/ncn
+
+풍경이다
+	풍경/ncn+이/jp+다/ef
+
+...
+	.../se
+
+
+약사암
+	약사/ncr+암/ncn
+
+.....
+	./sy+.../se+./sy
+
+...
+	.../se
+
+
+으로
+	으/ncn+로/jca
+
+고고싱~
+	고고/ncn+싱/ncn+~/sd
+
+!!
+	!/sf+!/sf
+
+
+나무다리를
+	나무/ncn+다리/ncn+를/jco
+
+걷는
+	걷/pvg+는/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+좋다
+	좋/paa+다/ef
+
+...
+	.../se
+
+
+약사암에
+	약사/ncr+암/ncn+에/jca
+
+도착도착~
+	도착/ncpa+도착/ncpa+~/sd
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+오래
+	오래/mag
+
+걸리진
+	걸리진/ncn
+
+않았지만
+	않/px+아/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+급경사라
+	급경사/ncn+이/jp+라/ecs
+
+오르기
+	오르/pvg+기/etn
+
+벅찼던
+	벅차/paa+아/ep+ㄴ/etm
+
+그곳
+	그곳/ncn
+
+....
+	.../se+./sf
+
+
+뒤로
+	뒤/ncn+로/jca
+
+보이는
+	보이/pvg+는/etm
+
+절벽이
+	절벽/ncn+이/jcc
+
+정말
+	정말/mag
+
+멋있다
+	멋있/paa+다/ef
+
+..
+	./sf+./sf
+
+
+약사암
+	약사/ncr+암/ncn
+
+뒷편에
+	뒷편/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+약수터~~
+	약수터/ncn+~/sd+~/sd
+
+
+대웅전의
+	대웅전/ncn+의/jcm
+
+모습이
+	모습/ncn+이/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+...
+	.../se
+
+
+맞나
+	맞/pvg+나/ef
+
+?!
+	?/sf+!/sf
+
+
+약사암에서
+	약사/ncr+암/ncn+에서/jca
+
+0.
+	0./nnc
+
+1km만
+	1km/ncn+만/jxc
+
+가면
+	가/px+면/ecs
+
+있는
+	있/px+는/etm
+
+영천굴~~
+	영천굴/ncn+~/sd+~/sd
+
+
+그냥
+	그냥/mag
+
+약수터와
+	약수터/ncn+와/jcj
+
+수행터만
+	수행/ncpa+터/ncn+만/jxc
+
+있을뿐이다
+	있/px+을/etm+뿐/nbn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+완젼
+	완젼/ncn
+
+급경사
+	급경사/ncn
+
+..
+	./sf+./sf
+
+
+_
+	_/ncn
+
+
+칸칸이
+	칸칸/ncn+이/jcc
+
+초에
+	초/nbu+에/jca
+
+촛불이
+	촛불/ncn+이/jcc
+
+모두
+	모두/mag
+
+켜져있다
+	크/paa+어/ecx+지/px+어/ecx+있/px+다/ef
+
+..
+	./sf+./sf
+
+
+아침마다
+	아침/ncn+마다/jxc
+
+켜놓는것도
+	크/paa+어/ecx+놓/px+는/etm+것/nbn+도/jxc
+
+일이겠당
+	일이겠당/ncn
+
+..
+	./sf+./sf
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+"백양사
+	"백양사/ncn
+
+오르는
+	오르/pvg+는/etm
+
+매표소
+	매표소/ncn
+
+가는길"
+	가는길/ncn+"/sr
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/soh109/80094628909
+	com/soh109/ncn+//sp+80094628909/nnc
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+"백양사"
+	"백양사"/ncn
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/soh109/80094632578
+	com/soh109/ncn+//sp+80094632578/nnc
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+"백양사-대웅전"
+	"백양사-대웅전"/ncn
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/soh109/80094634375
+	com/soh109/ncn+//sp+80094634375/nnc
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+"백양사-약사암+영천굴"
+	"백양사-약사암+영천굴"/ncn
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/soh109/80094636594
+	com/soh109/ncn+//sp+80094636594/nnc
+
+
+Canon
+	Canon/f
+
+PowerShot
+	PowerShot/f
+
+G10
+	G10/ncn

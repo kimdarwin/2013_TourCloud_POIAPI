@@ -1,0 +1,1517 @@
+영화
+	영화/ncn
+
+"이상한
+	"/sl+이상/ncn+한/ncn
+
+나라의
+	나라/ncn+의/jcm
+
+앨리스"
+	앨리스"/ncn
+
+엔딩곡
+	엔딩/ncn+곡/ncn
+
+
+Alice
+	Alice/f
+
+~
+	~/sd
+
+Avril
+	Avril/f
+
+Lavigne~Alice(에이브릴
+	Lavigne~Alice(에이브릴/ncn
+
+라빈)
+	라빈/ncn+)/sr
+
+
+그래
+	그래/ii
+
+난
+	나/px+ㄴ/etm
+
+추락했어
+	추락/ncpa+하/xsva+었/ep+어/ef
+
+..
+	./sf+./sf
+
+
+Yeah
+	Yeah/f
+
+I
+	I/f
+
+fell
+	fell/f
+
+down
+	down/f
+
+
+미치겠어,
+	미치/pvg+겠/ep+어/ef+,/sp
+
+내가
+	나/npp+가/jcs
+
+지금
+	지금/mag
+
+어디
+	어디/mad
+
+있는거지
+	있는거/ncn+이/jp+지/ef
+
+..
+	./sf+./sf
+
+
+I
+	I/f
+
+m
+	m/f
+
+freaking
+	freaking/f
+
+out,
+	out/f+,/sp
+
+where
+	where/f
+
+am
+	am/f
+
+I
+	I/f
+
+now나는
+	now/f+나/jxc+는/jxc
+
+살아남을거야
+	살아남을거/ncn+야/jcv
+
+..
+	./sf+./sf
+
+
+I,
+	I/f+,/sp
+
+I
+	I/f
+
+ll
+	ll/f
+
+survive
+	survive/f
+
+
+나를
+	나/npp+를/jco
+
+멈추게
+	멈추/pvg+게/ecs
+
+하려
+	하/pvg+려/ecx
+
+하지
+	하/pvg+지/ecx
+
+마.
+	마/ncn+./sf
+
+.
+	./sf
+
+
+Don
+	Don/f
+
+t
+	t/f
+
+you
+	you/f
+
+try
+	try/f
+
+to
+	to/f
+
+stop
+	stop/f
+
+me난
+	me/f+난/ncn
+
+울지
+	울/pvg+지/ecx
+
+않을거야
+	않을거/ncn+야/jcv
+
+..
+	./sf+./sf
+
+
+I,
+	I/f+,/sp
+
+I
+	I/f
+
+won
+	won/f
+
+t
+	t/f
+
+cry
+	cry/f
+
+
+Alice
+	Alice/f
+
+~
+	~/sd
+
+Avril
+	Avril/f
+
+Lavigne~Alice(에이브릴
+	Lavigne~Alice(에이브릴/ncn
+
+라빈)
+	라빈/ncn+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc22/2010/12/01/120/03101223C12A532E55C3D90473498563700_ya3542_logo.
+	net/blogucc22/2010/12/01/120/03101223C12A532E55C3D90473498563700_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'214.
+	'/sr+214./nnc
+
+33';
+	33/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'238831A3417BC520361CE1DB44647E70354A';
+	'238831A3417BC520361CE1DB44647E70354A/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V122fb092679d5a3f862220d7d30b1542827668f44b8e1a7b4fb1b388715fe10b9abe20d7d30b15428276';
+	'V122fb092679d5a3f862220d7d30b1542827668f44b8e1a7b4fb1b388715fe10b9abe20d7d30b15428276/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_08667
+	ugcPlayer_08667/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_08667'
+	VideoInfraUGCPlayer('ugcPlayer_08667'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_08667
+	ugcPlayer_08667/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+작지만
+	작/paa+지만/ecs
+
+강한
+	강하/paa+ㄴ/etm
+
+Rock
+	Rock/f
+
+?!
+	?/sf+!/sf
+
+
+~
+	~/sd
+
+
+캐나다의
+	캐나다/ncn+의/jcm
+
+요정Avril
+	요정Avril/ncn
+
+Lavigne(에이브릴
+	Lavigne(에이브릴/ncn
+
+라빈)
+	라빈)/ncn
+
+..
+	./sf+./sf
+
+
+인생의
+	인생/ncn+의/jcm
+
+복잡함을
+	복잡/ncn+함/ncn+을/jco
+
+외치며
+	외치/pvg+며/ecc
+
+데뷔했던
+	데뷔/ncpa+하/xsva+었/ep+던/etm
+
+
+장난기
+	장난/ncn+기/ncn
+
+가득하고
+	가득/ncps+하고/jct
+
+예쁘장한
+	예쁘장한/ncn
+
+펑키
+	펑키/ncn
+
+틴에이저
+	틴에이저/ncn
+
+
+Avril
+	Avril/f
+
+Lavigne(에이브릴
+	Lavigne(에이브릴/ncn
+
+라빈)
+	라빈)/ncn
+
+..
+	./sf+./sf
+
+
+맑고
+	맑/paa+고/ecc
+
+투명한목소리
+	투명한목소리/ncn
+
+..
+	./sf+./sf
+
+
+그
+	그/mmd
+
+속에는
+	속/ncn+에/jca+는/jxc
+
+힘이
+	힘/ncn+이/jcc
+
+넘쳐
+	넘치/pvg+어/ecx
+
+흐른다
+	흐르/pvg+ㄴ다/ef
+
+
+Alice
+	Alice/f
+
+~
+	~/sd
+
+Avril
+	Avril/f
+
+Lavigne~Alice(에이브릴
+	Lavigne~Alice(에이브릴/ncn
+
+라빈)
+	라빈/ncn+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc22/2010/12/01/1079/03101223C12A532E56C31964138656C3809_ya3542_logo.
+	net/blogucc22/2010/12/01/1079/03101223C12A532E56C31964138656C3809_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'190.
+	'/sr+190./nnc
+
+669';
+	669/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'09A7B2477518FF10C36B4F3D181E67D1BF1E';
+	'09A7B2477518FF10C36B4F3D181E67D1BF1E/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1263af01c0c331bb22d466fb526a2c868b1e87b29da71c650dc3a6ac534e6dd58fe966fb526a2c868b1e';
+	'V1263af01c0c331bb22d466fb526a2c868b1e87b29da71c650dc3a6ac534e6dd58fe966fb526a2c868b1e/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_07936
+	ugcPlayer_07936/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_07936'
+	VideoInfraUGCPlayer('ugcPlayer_07936'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_07936
+	ugcPlayer_07936/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+Avril
+	Avril/f
+
+Lavigne~Alice
+	Lavigne/f+~/sd+Alice/f
+
+(가사)
+	(/sl+가사/ncn+)/sr
+
+
+Trippin
+	Trippin/f
+
+outSpinning
+	outSpinning/f
+
+aroundI
+	aroundI/f
+
+m
+	m/f
+
+undergroundI
+	undergroundI/f
+
+fell
+	fell/f
+
+downYeah
+	downYeah/f
+
+I
+	I/f
+
+fell
+	fell/f
+
+downI
+	downI/f
+
+m
+	m/f
+
+freaking
+	freaking/f
+
+out,
+	out/f+,/sp
+
+where
+	where/f
+
+am
+	am/f
+
+I
+	I/f
+
+now
+	now/f
+
+?
+	?/sf
+
+
+Upside
+	Upside/f
+
+down
+	down/f
+
+and
+	and/f
+
+I
+	I/f
+
+can
+	can/f
+
+t
+	t/f
+
+stop
+	stop/f
+
+it
+	it/f
+
+nowIt
+	nowIt/f
+
+can
+	can/f
+
+t
+	t/f
+
+stop
+	stop/f
+
+me
+	me/f
+
+now,
+	now/f+,/sp
+
+oh
+	oh/f
+
+ohI,
+	ohI/f+,/sp
+
+I
+	I/f
+
+ll
+	ll/f
+
+get
+	get/f
+
+byI,
+	byI/f+,/sp
+
+I
+	I/f
+
+ll
+	ll/f
+
+surviveWhen
+	surviveWhen/f
+
+the
+	the/f
+
+world
+	world/f
+
+s
+	s/f
+
+crashing
+	crashing/f
+
+downWhile
+	downWhile/f
+
+I
+	I/f
+
+fall
+	fall/f
+
+and
+	and/f
+
+hit
+	hit/f
+
+the
+	the/f
+
+groundI
+	groundI/f
+
+will
+	will/f
+
+turn
+	turn/f
+
+myself
+	myself/f
+
+aroundDon
+	aroundDon/f
+
+t
+	t/f
+
+you
+	you/f
+
+try
+	try/f
+
+to
+	to/f
+
+stop
+	stop/f
+
+meI,
+	meI/f+,/sp
+
+I
+	I/f
+
+won`t
+	won/f+`/sl+t/f
+
+cryI
+	cryI/f
+
+found
+	found/f
+
+myself
+	myself/f
+
+in
+	in/f
+
+WonderlandGet
+	WonderlandGet/f
+
+back
+	back/f
+
+on
+	on/f
+
+my
+	my/f
+
+feet,
+	feet/f+,/sp
+
+againIs
+	againIs/f
+
+this
+	this/f
+
+real
+	real/f
+
+?
+	?/sf
+
+
+Is
+	Is/f
+
+this
+	this/f
+
+pretend
+	pretend/f
+
+?
+	?/sf
+
+
+I
+	I/f
+
+ll
+	ll/f
+
+take
+	take/f
+
+a
+	a/f
+
+stand
+	stand/f
+
+until
+	until/f
+
+the
+	the/f
+
+endI,
+	endI/f+,/sp
+
+I
+	I/f
+
+ll
+	ll/f
+
+get
+	get/f
+
+byI,
+	byI/f+,/sp
+
+I
+	I/f
+
+ll
+	ll/f
+
+surviveWhen
+	surviveWhen/f
+
+the
+	the/f
+
+world
+	world/f
+
+s
+	s/f
+
+crashing
+	crashing/f
+
+downWhen
+	downWhen/f
+
+I
+	I/f
+
+fall
+	fall/f
+
+and
+	and/f
+
+hit
+	hit/f
+
+the
+	the/f
+
+groundI
+	groundI/f
+
+will
+	will/f
+
+turn
+	turn/f
+
+myself
+	myself/f
+
+aroundDon
+	aroundDon/f
+
+t
+	t/f
+
+you
+	you/f
+
+try
+	try/f
+
+to
+	to/f
+
+stop
+	stop/f
+
+meI,
+	meI/f+,/sp
+
+I
+	I/f
+
+won
+	won/f
+
+t
+	t/f
+
+cryI,
+	cryI/f+,/sp
+
+I
+	I/f
+
+ll
+	ll/f
+
+get
+	get/f
+
+byI,
+	byI/f+,/sp
+
+I
+	I/f
+
+ll
+	ll/f
+
+surviveWhen
+	surviveWhen/f
+
+the
+	the/f
+
+world
+	world/f
+
+s
+	s/f
+
+crashing
+	crashing/f
+
+downWhen
+	downWhen/f
+
+I
+	I/f
+
+fall
+	fall/f
+
+and
+	and/f
+
+hit
+	hit/f
+
+the
+	the/f
+
+groundI
+	groundI/f
+
+will
+	will/f
+
+turn
+	turn/f
+
+myself
+	myself/f
+
+aroundDon
+	aroundDon/f
+
+t
+	t/f
+
+you
+	you/f
+
+try
+	try/f
+
+to
+	to/f
+
+stop
+	stop/f
+
+meI,
+	meI/f+,/sp
+
+and
+	and/f
+
+I
+	I/f
+
+won
+	won/f
+
+t
+	t/f
+
+cry
+	cry/f
+
+
+조니뎁
+	조니뎁/ncn
+
+주연의
+	주연/ncpa+의/jcm
+
+영화'이상한
+	영화/ncn+'/sr+이상/ncn+한/ncn
+
+나라의
+	나라/ncn+의/jcm
+
+앨리스'OST
+	앨리스/ncn+'/sl+OST/f
+
+
+Alice
+	Alice/f
+
+~
+	~/sd
+
+Avril
+	Avril/f
+
+Lavigne~Alice
+	Lavigne/f+~/sd+Alice/f
+
+(에이브릴
+	(에이브릴/ncn
+
+라빈)
+	라빈/ncn+)/sr
+
+
+Avril
+	Avril/f
+
+Lavigne
+	Lavigne/f
+
+
+'에이브릴
+	'에이브릴/ncn
+
+라빈'이하고
+	라빈'이하/ncn+이/jp+고/ecc
+
+싶은
+	싶/px+은/etm
+
+것은
+	것/nbn+은/jxc
+
+얼터너티브
+	얼터너티브/ncn
+
+록이라고
+	록/ncn+이/jp+라/ef+고/jcr
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+Avril
+	Avril/f
+
+Lavigne(에이브릴
+	Lavigne(에이브릴/ncn
+
+라빈)의
+	라빈)/ncn+의/jcm
+
+곡들은때로는깜짝
+	곡들은때로는깜짝/ncn
+
+놀랄
+	놀라/pvg+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+음울하고
+	음울/ncps+하고/jct
+
+진지하다
+	진지/ncps+하/xsms+다/ef
+
+
+Avril
+	Avril/f
+
+Lavigne~Alice
+	Lavigne/f+~/sd+Alice/f

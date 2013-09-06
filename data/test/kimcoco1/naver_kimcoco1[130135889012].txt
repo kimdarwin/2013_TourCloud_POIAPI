@@ -1,0 +1,212 @@
+Title:
+컬투맞고 (쌩둥맞고) 이제는 光통령 선거판에 뛰어들다. 
+
+Date:
+2012.04.11 09:38
+
+Content:
+
+
+오늘이 국회의원 선거를 하는 선거날이네요. 이번 선거는 유난히 투표를 하기 싫은 국회의원 선거인듯 합니다. 그밥이 그밥 같고 그나물이 그나물 같아서 좀 신물이 난다고 해야 하나요? 살기는 점점 힘들어지는 듯 하고 물가는 오르고 취업 자리는 없고 ㅠ.ㅠ 점점 살기가 각박해지는 사회가 되는 것은 아닌지 하는 생각이 듭니다. 
+
+그럴때는 스트레스를 확~~ 풀수있는 뭔가가 필요한데요. 우리에게 웃음을 주는 컬투 아시죠? ㅎㅎㅎ 그들이 광고하는 컬투맞고 (쌩둥맞고) 라는 온라인 고스톱 게임이 있던데... 그 컬투가光통령으로 선거판에 뛰어 든다고 하여서 소식을 한번 담아 보았습니다. ^^
+
+컬투가 선거판에 뛰어 들면서 상당한 공약을 내세우는데요. 정치판의 지키지도 못할 약속들 보다는 오히려 컬투가 외치는 장난끼 어린 공약이 더욱 눈에 들어오는 것은 왜일까요? ㅠ.ㅠ 
+
+그럼 재빈짱의 " 컬투맞고 (쌩둥맞고) 이제는 光통령 선거판에 뛰어들다. " 편을 시작해 보도록 하겠습니다. ^^
+
+
+
+
+
+현재 온라인 상에서는 수많은 맞고 게임이 등장합니다. 정말 수도 알수 없듯히 각 게임사마다 맞고 게임은 하나씩은 다 가지고 있는 듯 한데요, 이제 맞고 게임도 그냥 일반적인 맞고 게임으로 승부를 하면 안 되는 시점입니다. 뭔가 네티즌들의 눈을 사로잡거나 귀를 사로잡는 일이 있지 않으면 성공하기가 힘든 세상입니다. 그런면에서 이 컬투맞고 (쌩둥맞고)는 아이디어를 잘 내었든데요. 컬투를 온라인 맞고 게임에 등장을 시켜서 중간중간에 재치있는 유머들을 즐길수 있는 조금은 특색있는 맞고 게임이 될 듯 합니다. ^^
+
+
+
+
+
+컬투맞고의 홈페이지입니다. 처음에는 쌩둥맞고로 시작을 하였는데요. 리뉴얼이 되면서 컬투맞고로 리뉴얼 되었다고 합니다. ^^ 그리고 자세히 보면 컬투가 나온다는 걸 보고 아~~~ 그들의 유행어를 게임에 접목 시켰구나.. 하는 걸 알수 있었습니다. 일단 게임을 할려면 온라인 홈페이지를 들어가서 게임을 시작해야 겠죠? 그럼 한번 살펴보겠습니다. 
+
+
+
+컬투맞고 홈페이지 바로가기 = 여기를클릭
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/04/10/797/03101323613953CE97C3595873948AD3900_kimcoco1_PC_DEFAULT_logo.jpg';
+	layout.playtime = '15.71';
+	var qsParam = {};
+	qsParam.vid = 'F458E91D5853838BC8E30A656F41247113E3';
+	qsParam.inKey = 'V1255271b0e1b6d45afd3d0d35e98ea296cc1ee359612992cdf3811e6028bea115098d0d35e98ea296cc1';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_08267 = new VideoInfraUGCPlayer('ugcPlayer_08267' ,bean); 
+ugcPlayer_08267.drawPlayLayer(); 
+}
+
+
+
+
+
+
+
+
+
+
+게임에 들어가기 전에... 서두에서 말씀 드렸던 컬투의 光통령 공약을 한번 보고 이야기를 계속해 볼까요? 그냥 재미삼아 보는 것만도 아주 재미납니다. ㅎㅎㅎ 
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/04/10/1159/03101323613953CE97C3696D734402D3704_kimcoco1_PC_DEFAULT_logo.jpg';
+	layout.playtime = '20.289';
+	var qsParam = {};
+	qsParam.vid = '8410529EAAF6DF03D595B762A888A0005F3A';
+	qsParam.inKey = 'V121f0c51259263977b4208ba95d58f5a04af448964489d7fb17d120a351d1a4c153408ba95d58f5a04af';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_02421 = new VideoInfraUGCPlayer('ugcPlayer_02421' ,bean); 
+ugcPlayer_02421.drawPlayLayer(); 
+}
+
+
+
+
+
+
+
+
+
+
+
+하여튼 이들이 光통령 이 되면 게임 하는데는 전혀 지장이 없겠군요.. ㅎㅎㅎ 하여튼 이런 것은 정말 기발한 아이디어 입니다. ㅎㅎㅎ 광통령...정말 재미있는 아이디어 이지 않습니까? ㅎㅎㅎ 
+
+자 그럼 본격적으로 맞고 게임에 한번 몰입 해 보시죠.. 홈페이지 들어가서 게임을 시작합니다. 웨에 여러가지 방이 있는데.. 선택을 하시면 됩니다. 처음 시작하면 점 5백 정도로 시작하시는 것이 좋습니다. 
+
+
+
+
+게임방식은 여타 다른 밪고 게임과 크게 다르지 않습니다. 방에 입장을 하시고 게임을 시작하시면 됩니다. 입장이라고 되어 있는 방에만 참여가 가능합니다. 그런데 게임 창을 보면 누가 컬투맞고 (쌩둥맞고) 아니랄까봐 곳곳에 컬투가 등장 하는군요.. ㅎㅎㅎ
+
+
+
+
+일단 다른 맞고에 비하여 화면이 큼지막하여서 좋습니다. 그리고 중간중간에 컬투가 등장하여서 고~~~ 스톱 등의 나래이션을 하는 것도 아주 게임중간의 하나의 재미로 작용합니다. ㅎㅎㅎ 
+
+
+
+
+게임은 언제나 질때가 있고 이길때가 있지만 작게 지고 크게 이기는 것이 고스톱에서 살아남는 방법입니다. ㅎㅎㅎ 이 온라인 고스톱은 실력도 중요하겠지만 운도 따라줘야 해서.. ㅎㅎㅎ 하여튼 전 운이 좀 좋은 편이네요 ㅎㅎ
+
+
+
+
+그리고 컬투맞고 (쌩둥맞고) 를 하시다 보면 크게 3가지 이벤트와 만나게 됩니다. 그 첫번째 이벤트가 패싸움 이벤트인데요. 정말 패싸움을 하는게 아니라... 맞고를 컬투와 한판하고 이벤트에 응모를 하면 경품을 주는 그런 이벤트입니다. ㅎㅎㅎ 
+
+
+
+그리고 다가오는 4월 23일이 되면 고스톱 멤버쉽 이라고 하여서 다양한 혜택들이 증장합니다. 한달 혜택이 100% 공짜라고 광고를 하고 있는데.. 그날에 과연 어떠한 이벤트가 등장할지 상당히 기대가 되네요 ㅎㅎ
+
+
+
+
+그리고 맞고 게임에서 찬우와 태균이 자주 등장하는데.. 그 모습을 스샷에 담아서 이벤트 신청을 하면 모든 분에게 고스톰 머니 5천만냥을 주는 획기적인 이벤트도 진행하고 있습니다. 방법은 아주 간단합니다. 모습을 스크린샷에 담아서 스크린샷 등록하기 버튼을 클릭하여서 응모하시면 됩니다. 
+
+
+
+
+
+자 이렇게 컬투와 함께하는 컬투맞고에 대한 이야기를 해 보았습니다. ㅎㅎㅎ 요즘 SNS 투위터나 페이스북 많이 하시죠? 컬투맞고 홈페이지에 가면 페이스묵 이벤트도 있는데.. 링크 공유만 하면 50만냥이 지급되는 아주 간단한 이벤트입니다. 페이스북만 하면 모두 받을 수 있으니 이 이벤트는 꼭 참여 해 보시기 바랍니다. 
+
+
+
+
+
+
+컬투맞고 홈페이지 바로가기 = 여기를클릭
+
+
+마지막으로 컬투가 컬투맞고를 개발자들과 광고를 하는 영상을 하나 만나시겠습니다. 말하는게 아주 재미나서 한번 소개 해 봅니다. ㅎㅎㅎ
+
+
+
+
+
+
+ 
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/04/11/281/03101323613953EE8DC3B90A733B4723C02_kimcoco1_PC_DEFAULT_logo.jpg';
+	layout.playtime = '69.129';
+	var qsParam = {};
+	qsParam.vid = '06E4E63F9212BAF3BD29346FF3FB11FE605A';
+	qsParam.inKey = 'V12614e1c30019d8e961d9bc4a2d466fd15f4fd82cd4d8975796288fad6de4c6dafcb9bc4a2d466fd15f4';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_08311 = new VideoInfraUGCPlayer('ugcPlayer_08311' ,bean); 
+ugcPlayer_08311.drawPlayLayer(); 
+}
+
+
+
+
+
+
+선거날입니다. 국민의 소중한 권리를 행사하시고 앞으로 잘 하라는 의미에서 컬투의 光통령 공약도 재미삼아 한번 보시고 모처럼 쉬는날 비도 오고 해서 어디 나가기는 그렇고 맞고 한판 하시는 것은 어떨까요? ㅎㅎㅎ
+
+원래 11일은 봄꽃 구경 하러 다녀야 하는데.. 비가 와서 어디 가기도 그렇고 참.. 난감합니다. 이럴때 심심풀이 컬투맞고 한판... 즐겨보는 것은 어떨까 싶네요.. ㅎㅎㅎ
+
+그럼 국회의원 선거 잘 하시고... 맑고 화창한 날을 기대하면서 저는 이만 물러가겠습니다. 재빈짱의 " 컬투맞고 (쌩둥맞고) 이제는 光통령 선거판에 뛰어들다." 편을 마치도록 하겠습니다. ^^
+
+끝까지 시청 해 주셔셔 대단히 감사합니다. ^^
+
+
+*** 이 후기는 엠게임 후원으로 작성되었습니다. ***
+
+
+ 
+
+
+ 
+
+	

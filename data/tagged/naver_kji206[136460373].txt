@@ -1,0 +1,2608 @@
+[부산여행]
+	[/sl+부산/ncps+여행/ncpa+]/sr
+
+태종대유람선
+	태종대유람선/ncn
+
+타고
+	타/pvg+고/ecc
+
+즐기는
+	즐기/pvg+는/etm
+
+태종대비경/부산1박2일여행
+	태종대비경/부산1박2일여행/ncn
+
+
+영도
+	영/ncn+도/jxc
+
+끝
+	끝/ncn
+
+자락에
+	자락/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+부산의
+	부산/ncps+의/jcm
+
+명승지
+	명승지/ncn
+
+중
+	중/nbn
+
+단연
+	단연/mag
+
+손
+	손/ncn
+
+꼽히는
+	꼽히/pvg+는/etm
+
+태종대
+	태종대/ncn
+
+
+205년
+	205/nnc+년/nbu
+
+국가지정
+	국가/ncn+지정/ncpa
+
+문화재
+	문화재/ncn
+
+제
+	저/npp+의/jcm
+
+17호로
+	17/nnc+호/nbu+로/jca
+
+이름
+	이름/ncn
+
+올려진
+	올리/pvg+어/ecx+지/px+ㄴ/etm
+
+빼어난
+	빼/pvg+어/ecx+나/px+ㄴ/etm
+
+경관을
+	경관/ncn+을/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+유원지
+	유원지/ncn
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+입장료는
+	입장료/ncn+는/jxc
+
+없으며
+	없/paa+으며/ecc
+
+순환
+	순환/ncpa
+
+열차
+	열/nnc+차/nbu
+
+'다누비"는
+	'다누비"/ncn+는/jxc
+
+승차비를
+	승차/ncpa+비/ncn+를/jco
+
+받는다
+	받/pvg+는다/ef
+
+.
+	./sf
+
+
+우측
+	우측/ncn
+
+주차장이
+	주차장/ncn+이/jcc
+
+있으며
+	있/px+으며/ecc
+
+바로
+	바로/mag
+
+몽돌해변으로
+	몽돌해변/ncn+으로/jca
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+감지해변
+	감지/ncpa+해변/ncn
+
+은하수
+	은하수/ncn
+
+유람선을탈수
+	유람선을탈수/ncn
+
+있는
+	있/px+는/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+이어진다
+	이/ncn+이/jp+어/ecx+지/px+ㄴ다/ef
+
+
+은하수
+	은하수/ncn
+
+유람선
+	유람선/ncn
+
+
+태종대를
+	태종대/ncn+를/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+세가지
+	세/nnc+가지/nbu
+
+TIP
+	TIP/f
+
+
+1.
+	1./nnc
+
+태종대를
+	태종대/ncn+를/jco
+
+한바퀴
+	한/nnc+바퀴/nbu
+
+일주하는
+	일주/ncpa+하/xsva+는/etm
+
+도로
+	도/ncn+로/jca
+
+4Km:
+	4Km:/ncn
+
+걸어서
+	걷/pvg+어서/ecs
+
+걷는
+	걷/pvg+는/etm
+
+방법
+	방법/ncn
+
+(약
+	(/sl+약/ncn
+
+1시간
+	1/nnc+시간/nbu
+
+30분
+	30/nnc+분/nbu
+
+정도
+	정도/ncn
+
+걸린다
+	걸리/pvg+ㄴ다/ef
+
+.)
+	./sf+)/sr
+
+
+2.
+	2./nnc
+
+순환열차
+	순환/ncpa+열차/ncn
+
+"다누비"(요금
+	"다누비"(요금/ncn
+
+1500원)
+	1500/nnc+원/nbu+)/sr
+
+를
+	를/ncn
+
+한번
+	한/nnc+번/nbu
+
+지불하고
+	지불/ncpa+하고/jct
+
+타고
+	타/pvg+고/ecc
+
+내려다
+	내리/pvg+어다/ecs
+
+환승하며
+	환승하/ncn+이/jp+며/ecc
+
+구경할
+	구경/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+방법
+	방법/ncn
+
+(30분간격)
+	(30분간격/ncn+)/sr
+
+
+3.
+	3./nnc
+
+30분
+	30/nnc+분/nbu
+
+간격으로
+	가/px+ㄴ/etm+격/nbn+으로/jca
+
+운행하는
+	운행/ncpa+하/xsva+는/etm
+
+유람선
+	유람선/ncn
+
+승선으로
+	승선/ncn+으로/jca
+
+구경하는
+	구경/ncpa+하/xsva+는/etm
+
+방법
+	방법/ncn
+
+
+감지해변
+	감지/ncpa+해변/ncn
+
+유람선
+	유람선/ncn
+
+선착장
+	선착장/ncn
+
+
+이번
+	이/nnc+번/nbu
+
+태종대
+	태종대/ncn
+
+여행은
+	여행/ncpa+은/jxc
+
+태종대
+	태종대/ncn
+
+감지해변
+	감지/ncpa+해변/ncn
+
+유람선
+	유람선/ncn
+
+선착장에서
+	선착장/ncn+에서/jca
+
+은하수
+	은하수/ncn
+
+유람선을
+	유람선/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+(051-405-0641/요금
+	(/sl+051/nnc+-405/nnc+-0641/nnc+//sp+요금/ncn
+
+12000원)
+	12000/nnc+원/nbu+)/sr
+
+
+병풍바위-
+	병풍바위/ncn+-/sd
+
+전망대
+	전망대/ncn
+
+-
+	-/sd
+
+자살바위
+	자살/ncpa+바위/ncn
+
+-
+	-/sd
+
+거북바위
+	거북바위/ncn
+
+-
+	-/sd
+
+생도(주전자섬)
+	생도/ncn+(주전자/ncn+섬/ncn+)/sr
+
+-
+	-/sd
+
+태종바위
+	태종바위/ncn
+
+-
+	-/sd
+
+신선바위
+	신선/ncn+바위/ncn
+
+-
+	-/sd
+
+망부석
+	망부석/ncn
+
+-
+	-/sd
+
+한국해양대
+	한국해양대/ncn
+
+
+-오륙도
+	-오륙/ncn+도/jxc
+
+(1km
+	(1km/ncn
+
+앞
+	앞/ncn
+
+회항)
+	회항/ncn+)/sr
+
+-
+	-/sd
+
+영도등대
+	영도/ncn+등대/ncn
+
+를
+	를/ncn
+
+도는
+	돌/pvg+는/etm
+
+코스
+	코스/ncn
+
+였다
+	였다/ncn
+
+.
+	./sf
+
+
+출발하면서
+	출발/ncpa+하/xsva+면서/ecc
+
+배에서
+	배/ncn+에서/jca
+
+파는
+	팔/pvg+는/etm
+
+새우깡을
+	새우/ncn+깡/ncn+을/jco
+
+들고
+	들/pvg+고/ecc
+
+던지니
+	던지/pvg+니/ecs
+
+갈매기들이
+	갈매기/ncn+들/ncn+이/jcc
+
+몰려온다
+	몰리/pvg+어/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+역사가
+	역사/ncn+가/jcs
+
+깊은
+	깊/paa+은/etm
+
+태종대는
+	태종대/ncn+는/jxc
+
+삼국을
+	삼국/ncn+을/jco
+
+통일한
+	통/nbn+이/jp+ㄹ/etm+한/nbn
+
+신라
+	신/xp+라/ncn
+
+태종무열왕,
+	태종무열왕/ncn+,/sp
+
+자주
+	자주/mag
+
+이곳에
+	이곳/npd+에/jca
+
+왔으며
+	오/px+아/ep+며/ecc
+
+그
+	그/mmd
+
+왕명을
+	왕명/ncn+을/jco
+
+빌려
+	빌리/pvg+어/ecx
+
+태종대라고
+	태종대/ncn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+오랜
+	오랜/mma
+
+세월
+	세/nnc+월/nbu
+
+침식돼
+	침식/ncpa+되/xsvn+어/ecx
+
+평평해진
+	평평/ncps+하/xsms+어/ecx+지/px+ㄴ/etm
+
+해안
+	해안/ncn
+
+암반에서
+	암반/ncn+에서/jca
+
+왕이
+	왕/ncr+이/jcc
+
+활을
+	활/ncn+을/jco
+
+쏘며
+	쏘/pvg+며/ecc
+
+호연지기를
+	호연지기/ncn+를/jco
+
+길러
+	기르/pvg+어/ecx
+
+태종대라는
+	태종대라/ncn+는/jxc
+
+이름을
+	이름/ncn+을/jco
+
+얻었다고
+	얻/pvg+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+왕이
+	왕/ncr+이/jcc
+
+호연지기를
+	호연지기/ncn+를/jco
+
+기른
+	기르/pvg+ㄴ/etm
+
+암반은
+	암반/ncn+은/jxc
+
+평평하고
+	평평/ncps+하고/jct
+
+넓어
+	넓/paa+어/ecx
+
+접근성이
+	접근/ncpa+성/ncn+이/jcc
+
+좋아
+	좋/paa+아/ecx
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+태종대
+	태종대/ncn
+
+오면
+	오/px+면/ecs
+
+꼭
+	꼭/mag
+
+찾는
+	찾/pvg+는/etm
+
+명소가
+	명소/ncn+가/jcs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+공룡발자국이
+	공룡/ncn+발자국/ncn+이/jcc
+
+선명하며
+	선명/ncps+하/xsms+며/ecc
+
+신선이
+	신선/ncn+이/jcc
+
+살았다
+	살/pvg+아/ep+다/ef
+
+해서
+	하/pvg+어서/ecs
+
+신선대라고
+	신선/ncn+대/ncn+이/jp+라/ef+고/jcr
+
+불리는
+	불리/pvg+는/etm
+
+암반들
+	암반/ncn+들/ncn
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+100년을
+	100/nnc+년/nbu+을/jco
+
+훌쩍
+	훌쩍/mag
+
+넘긴
+	넘기/pvg+ㄴ/etm
+
+역사를
+	역사/ncn+를/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+영도등대이다
+	영도/ncn+등대/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+1906년
+	1906/nnc+년/nbu
+
+우리나라
+	우리나라/ncn
+
+10번째로
+	10/nnc+번/nbu+째/xsnu+로/jca
+
+세운
+	세우/pvg+ㄴ/etm
+
+등대로
+	등/nbu+대로/jca
+
+일주도로에서
+	일주도로/ncn+에서/jca
+
+계단
+	계단/ncn
+
+길을
+	길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+내려
+	내리/pvg+어/ecx
+
+오면
+	오/px+면/ecs
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+참고로
+	참고/ncpa+로/jca
+
+태종5경은
+	태종5경/ncn+은/jxc
+
+남항조망지,
+	남항조망지,/ncn
+
+모자상,
+	모자/ncn+상/xsncc+,/sp
+
+전망대,
+	전망대/ncn+,/sp
+
+신선바위,
+	신선/ncn+바위/ncn+,/sp
+
+영도등대가
+	영도/ncn+등대/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+좌측
+	좌측/ncn
+
+태종대
+	태종대/ncn
+
+전망대와
+	전망대/ncn+와/jct
+
+멀리
+	멀리/mag
+
+영도
+	영/ncn+도/jxc
+
+등대가
+	등대/pvg+어/ecx+가/px+아/ecx
+
+모습을
+	모습/ncn+을/jco
+
+드러낸다
+	드러내/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+태종대
+	태종대/ncn
+
+전망대는
+	전망대/ncn+는/jxc
+
+원래
+	원래/mag
+
+자살바위로
+	자살/ncpa+바위/ncn+로/jca
+
+불리었던
+	불리/pvg+었/ep+던/etm
+
+곳인데
+	곳/ncn+이/jp+ㄴ데/ecs
+
+1970년
+	1970/nnc+년/nbu
+
+한해는
+	한/nnc+해/nbu+는/jxc
+
+30여명이
+	30/nnc+여/xsnu+명/nbu+이/jcc
+
+이곳에서
+	이곳/npd+에서/jca
+
+자살하였다고
+	자살/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그뒤
+	그뒤/ncn
+
+전망대가
+	전망대/ncn+가/jcs
+
+세워지면서
+	세우/pvg+어/ecx+지/px+면서/ecc
+
+전망대
+	전망대/ncn
+
+앞에는
+	앞/ncn+에/jca+는/jxc
+
+한번
+	한/nnc+번/nbu
+
+더
+	더/mag
+
+생각하라는
+	생각/ncpa+하/xsva+라/ef+는/etm
+
+의미로
+	의미/ncpa+로/jca
+
+어머니의
+	어머니/ncn+의/jcm
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+사랑을
+	사랑/ncn+을/jco
+
+상징하는
+	상징/ncpa+하/xsva+는/etm
+
+모자상이
+	모자/ncn+상/ncn+이/jcc
+
+세워졌다
+	세우/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+전망대에서
+	전망대/ncn+에서/jca
+
+맑은
+	맑/paa+은/etm
+
+날은
+	날/ncn+은/jxc
+
+오륙도와
+	오륙도/ncn+와/jcj
+
+대마도까지
+	대마/ncn+도/jxc+까지/jxc
+
+보인다고
+	보이/pvg+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+태종대
+	태종대/ncn
+
+전망대에
+	전망대/ncn+에/jca
+
+이어
+	이/npd+이/jp+어/ecs
+
+신선바위와
+	신선/ncn+바위/ncn+와/jcj
+
+영도등대~~
+	영도/ncn+등대/ncn+~/sd+~/sd
+
+
+이곳은~~2004년
+	이곳/npd+은/jxc+~/sd+~/sd+2004/nnc+년/nbu
+
+부터
+	부터/ncn
+
+해양문화공간으로
+	해양/ncn+문화공간/ncn+으로/jca
+
+활용되어
+	활용/ncpa+되/xsvn+어/ecx
+
+바다
+	바다/ncn
+
+갤러리,
+	갤러리/ncn+,/sp
+
+해양도서관,
+	해양/ncn+도서관/ncn+,/sp
+
+해양영상관,
+	해양/ncn+영상/ncn+관/ncn+,/sp
+
+자연사
+	자연사/ncn
+
+전시실,
+	전시/ncn+이/jp+시/ep+ㄹ/etm+,/sp
+
+카페등이
+	카페/ncn+등/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+유람선이
+	유람선/ncn+이/jcc
+
+오륙도
+	오륙도/ncn
+
+근처까지
+	근처/ncn+까지/jxc
+
+갔다가
+	가/px+아/ep+다가/ecs
+
+다시
+	다시/mag
+
+저곳에
+	저곳/npd+에/jca
+
+정박할
+	정박/ncpa+하/xsva+ㄹ/etm
+
+예정이다
+	예정/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+유람선에서
+	유람선/ncn+에서/jca
+
+본
+	보/px+ㄴ/etm
+
+영도등대
+	영도/ncn+등대/ncn
+
+
+영도
+	영/ncn+도/jxc
+
+등대는
+	등대/pvg+는/etm
+
+"형상,
+	"/sl+형상/ncpa+,/sp
+
+광파,
+	광파,/ncn
+
+음파,
+	음파/ncn+,/sp
+
+전파"
+	전파/ncpa+"/sr
+
+네가지
+	네/nnc+가지/nbu
+
+표지판
+	표지판/ncn
+
+기능을
+	기능/ncn+을/jco
+
+하며
+	하/pvg+며/ecc
+
+광파의
+	광파/ncn+의/jcm
+
+경우
+	경우/ncn
+
+18초마다
+	18/nnc+초/nbu+마다/jxc
+
+3번씩
+	3/nnc+번/nbu+씩/xsnu
+
+불빛을
+	불빛/ncn+을/jco
+
+발사하고
+	발사/ncpa+하고/jcj
+
+
+음파는
+	음파/ncn+는/jxc
+
+45초마다
+	45/nnc+초/nbu+마다/jxc
+
+5초씩
+	5/nnc+초/nbu+씩/xsnu
+
+소리를
+	소리/ncn+를/jco
+
+내는데
+	내/pvg+ㄴ데/ecs
+
+등대는
+	등대/pvg+는/etm
+
+등대마다
+	등대/ncn+마다/jxc
+
+광파,
+	광파,/ncn
+
+음파
+	음파/ncn
+
+등이
+	등/nbu+이/jcc
+
+고유해
+	고유/ncps+하/xsms+어/ecx
+
+운항중인
+	운항/ncn+중/ncn+이/jp+ㄴ/etm
+
+선박
+	선박/ncn
+
+이정표
+	이정표/ncn
+
+역할을
+	역할/ncn+을/jco
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+캠퍼스
+	캠퍼스/ncn
+
+전체가
+	전체/ncn+가/jcs
+
+하나의
+	하나/nnc+의/jcm
+
+섬으로
+	서/pvg+ㅁ/etn+으로/jca
+
+우리나라
+	우리나라/ncn
+
+유일의
+	유일/ncps+의/jcm
+
+해양
+	해양/ncn
+
+전문
+	전문/ncn
+
+종합대학
+	종합대학/ncn
+
+한국해양대가
+	한국해양대/ncn+가/jcs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+태종대는
+	태종대/ncn+는/jxc
+
+대중
+	대중/ncn
+
+교통이
+	교통/ncn+이/jcc
+
+잘
+	잘/mag
+
+되어
+	되/pvg+어/ecx
+
+있으며
+	있/px+으며/ecc
+
+부산역에서
+	부산/ncps+역/ncn+에서/jca
+
+출발하는
+	출발/ncpa+하/xsva+는/etm
+
+시티투어버스를
+	시티/ncn+투어/ncn+버스/ncn+를/jco
+
+이용하여도
+	이용/ncpa+하/xsva+어도/ecs
+
+편리하게
+	편리/ncps+하/xsms+게/ecs
+
+구경할
+	구경/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/paa+다/ef
+
+
+유람선은영도
+	유람선은영/ncn+도/jxc
+
+등대에
+	등대/ncn+에/jca
+
+세우게
+	세우/pvg+게/ecs
+
+되고
+	되/pvg+고/ecc
+
+다음배가
+	다음/ncn+배/ncn+가/jcs
+
+올때
+	오/px+ㄹ/etm+때/nbn
+
+까지
+	까/pvg+지/ecx
+
+..
+	./sf+./sf
+
+
+아님
+	아니/paa+ㅁ/etn
+
+그
+	그/mmd
+
+뒤에
+	뒤/ncn+에/jca
+
+배를
+	배/ncn+를/jco
+
+타도
+	타/pvg+아/ecs
+
+상관없구
+	상관없구/ncn
+
+...
+	.../se
+
+
+그곳에서
+	그곳/ncn+에서/jca
+
+시간을
+	시간/ncn+을/jco
+
+보내다
+	보내/pvg+어다/ecs
+
+다시
+	다시/mag
+
+유람선을
+	유람선/ncn+을/jco
+
+타기로
+	타/pvg+기/etn+로/jca
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+우리를
+	우리/npp+를/jco
+
+내려준
+	내리/pvg+어/ecx+주/px+ㄴ/etm
+
+배는
+	배/ncn+는/jxc
+
+돌아서
+	돌/pvg+아/ecx
+
+떠나고
+	떠나/pvg+고/ecc
+
+....
+	.../se+./sf
+
+
+천막촌을
+	천막/ncn+촌/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+영도
+	영/ncn+도/jxc
+
+등대까지
+	등대/ncn+까지/jxc
+
+관람하며
+	관람/ncpa+하/xsva+며/ecc
+
+시간을
+	시간/ncn+을/jco
+
+보낼
+	보내/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이곳까지
+	이곳/npd+까지/jxc
+
+걸어서와서
+	걷/pvg+어서/ecx+오/px+아/ecx
+
+유람선을
+	유람선/ncn+을/jco
+
+탈
+	타/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+천막으로
+	천막/ncn+으로/jca
+
+된
+	되/pvg+ㄴ/etm
+
+평상에
+	평상/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+해녀들이
+	해녀/ncn+들/ncn+이/jcc
+
+갓
+	갓/mag
+
+잡은
+	잡/pvg+은/etm
+
+해삼이나
+	해삼/ncn+이나/jcj
+
+멍게를
+	멍게/ncn+를/jco
+
+먹으면서
+	먹/pvg+으면서/ecc
+
+바다를
+	바다/ncn+를/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+도
+	도/ncn
+
+있으며
+	있/px+으며/ecc
+
+...
+	.../se
+
+
+등대를
+	등대/ncn+를/jco
+
+지나면
+	지나/pvg+면/ecs
+
+사찰
+	사찰/ncn
+
+태종사
+	태종사/ncn
+
+맞은편
+	맞은편/ncn
+
+300m
+	300m/ncn
+
+탐방로가
+	탐방/ncpa+로/jca+가/jcc
+
+따로
+	따로/mag
+
+있어
+	있/px+어/ecx
+
+여름철
+	여름철/ncn
+
+저녁나절에는
+	저녁나절/ncn+에/jca+는/jxc
+
+반딧불이를
+	반딧불/ncn+이를/jco
+
+구경하는
+	구경/ncpa+하/xsva+는/etm
+
+즐거움이
+	즐거움/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+등대까지
+	등대/ncn+까지/jxc
+
+올라가야
+	오르/pvg+아/ecx+가/px+아/ecx
+
+되는데
+	되/pvg+ㄴ데/ecs
+
+가파른
+	가파르/paa+ㄴ/etm
+
+계단을
+	계단/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+날씨도
+	날씨/ncn+도/jxc
+
+덥고~
+	덥/paa+고/ecc+~/sd
+
+많이
+	많/paa+이/xsa
+
+보겠다는
+	보/px+겠/ep+다/ef+는/etm
+
+욕심을
+	욕심/ncn+을/jco
+
+버리고
+	버리/px+고/ecc
+
+그냥
+	그냥/mag
+
+주변
+	주변/ncn
+
+풍경만
+	풍경/ncn+만/jxc
+
+보기로
+	보/px+기/etn+로/jca
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+바다가
+	바다/ncn+가/jcs
+
+아름답게
+	아름답/paa+게/ecs
+
+보이는
+	보이/pvg+는/etm
+
+카페가
+	카페/ncn+가/jcs
+
+발걸음을
+	발걸음/ncn+을/jco
+
+유혹한다
+	유혹/ncpa+하/xsva+ㄴ다/ef
+
+...
+	.../se
+
+
+영도
+	영/ncn+도/jxc
+
+등대
+	등대/pvg+어/ecx
+
+까지
+	까/pvg+지/ecx
+
+가파른
+	가파르/paa+ㄴ/etm
+
+계단을
+	계단/ncn+을/jco
+
+올라가느니
+	오르/pvg+아/ecx+가/px+느니/ecc
+
+..
+	./sf+./sf
+
+
+잠깐
+	잠깐/mag
+
+바닷바람
+	바닷바람/ncn
+
+쐬며
+	쐬/pvg+며/ecc
+
+여유있는
+	여유/ncn+있/xsmn+는/etm
+
+시간을
+	시간/ncn+을/jco
+
+갖기로
+	갖/pvg+기/etn+로/jca
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+그래
+	그래/ii
+
+..
+	./sf+./sf
+
+
+어쩜
+	어쩌/paa+ㅁ/etn
+
+바쁜
+	바쁘/paa+ㄴ/etm
+
+여행길에
+	여행길/ncn+에/jca
+
+커피
+	커피/ncn
+
+한잔은
+	한/nnc+잔/nbu+은/jxc
+
+여행의
+	여행/ncpa+의/jcm
+
+활기가
+	활기/ncn+가/jcs
+
+되며
+	되/pvg+며/ecc
+
+여유로운
+	여유/ncn+로운/ncn
+
+여행으로
+	여행/ncpa+으로/jca
+
+기억이
+	기억/ncpa+이/jcc
+
+될것이다
+	되/pvg+ㄹ/etm+것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+시럽
+	시럽/ncn
+
+듬뿍
+	듬뿍/mag
+
+넣었더니
+	넣/pvg+었/ep+더니/ecs
+
+달콤함이
+	달콤/ncn+함/ncn+이/jcc
+
+온
+	오/px+ㄴ/etm
+
+몸으로
+	몸/ncn+으로/jca
+
+전해진다
+	전하/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+신선바위
+	신선/ncn+바위/ncn
+
+
+아직도
+	아직/mag+도/jxc
+
+파도에
+	파도/ncn+에/jca
+
+의한
+	의하/pvg+ㄴ/etm
+
+침식작용
+	침식작용/ncpa
+
+계속
+	계속/mag
+
+되고
+	되/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+신선바위는
+	신선/ncn+바위/ncn+는/jxc
+
+망망대해를
+	망망대해/ncn+를/jco
+
+마주하며
+	마주/ncps+하/xsms+며/ecc
+
+빼어난
+	빼/pvg+어/ecx+나/px+ㄴ/etm
+
+경관에
+	경관/ncn+에/jca
+
+자연의
+	자연/ncn+의/jcm
+
+경이로움을
+	경이/ncn+롭/xsmn+음/etn+을/jco
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+신선바위
+	신선/ncn+바위/ncn
+
+외롭게
+	외롭/paa+게/ecs
+
+서
+	서/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+망부석은
+	망부석/ncn+은/jxc
+
+임진왜란때
+	임진/ncn+왜란/ncn+때/ncn
+
+일본에
+	일/nnc+본/nbu+에/jca
+
+끌려간
+	끌리/pvg+어/ecx+가/px+ㄴ/etm
+
+지아비를
+	지아비/ncn+를/jco
+
+기다리다
+	기다리/pvg+다/ef
+
+돌로
+	돌/ncn+로/jca
+
+변한
+	변하/pvg+ㄴ/etm
+
+한
+	한/nnc
+
+여인의
+	여인/ncn+의/jcm
+
+애틋한
+	애틋/ncps+하/xsms+ㄴ/etm
+
+전설이
+	전설/ncn+이/jcc
+
+담겨
+	담기/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+30분
+	30/nnc+분/nbu
+
+정도
+	정도/ncn
+
+영도
+	영/ncn+도/jxc
+
+등대에서
+	등대/ncn+에서/jca
+
+놀다가
+	놀/pvg+다가/ecs
+
+다시
+	다시/mag
+
+배를
+	배/ncn+를/jco
+
+타니
+	타/pvg+니/ecs
+
+...
+	.../se
+
+
+오륙도
+	오륙도/ncn
+
+가
+	가/jcs
+
+어렴풋이
+	어렴풋이/mag
+
+보이는
+	보이/pvg+는/etm
+
+곳
+	곳/ncn
+
+까지
+	까/pvg+지/ecx
+
+다시
+	다시/mag
+
+와서
+	오/px+아/ecs
+
+선회한다
+	선회/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+예전에는
+	예전/ncn+에/jca+는/jxc
+
+오륙도
+	오륙/ncn+도/jxc
+
+가까이
+	가까이/mag
+
+까지
+	까/pvg+지/ecx
+
+돌아서
+	돌/pvg+아/ecx
+
+갔는데
+	가/px+아/ep+ㄴ데/ecs
+
+얼마전
+	얼마/ncn+전/ncn
+
+부터
+	부터/ncn
+
+부산항는
+	부산/ncps+항/ncn+는/jxc
+
+오가는
+	오가/pvg+는/etm
+
+외항
+	외항/ncpa
+
+선박들과
+	선박/ncn+들/ncn+과/jcj
+
+안전상
+	안전/ncn+상/ncn
+
+이유로
+	이유/ncn+로/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+1km지점에서
+	1km지점/ncn+에서/jca
+
+안타깝게
+	안타깝/paa+게/ecs
+
+돌아간다
+	돌/pvg+아/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+가스
+	가스/ncn
+
+때문에
+	때문/nbn+에/jca
+
+오륙도도
+	오륙도/ncn+도/jxc
+
+아스라이
+	아스라이/mag
+
+보이고
+	보이/pvg+고/ecc
+
+그
+	그/mmd
+
+앞에
+	앞/ncn+에/jca
+
+용호동
+	용호동/ncn
+
+아파트를
+	아파트/ncn+를/jco
+
+보면서
+	보/px+면서/ecc
+
+저곳이
+	저곳/npd+이/jcc
+
+오륙도임을
+	오륙도임/ncn+을/jco
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+다시
+	다시/mag
+
+선착장으로
+	선착장/ncn+으로/jca
+
+가는길
+	가는길/ncn
+
+...
+	.../se
+
+
+태종대
+	태종대/ncn
+
+끝자락에
+	끝자락/ncn+에/jca
+
+아슬하게
+	아슬하/ncn+이/jp+게/ecs
+
+서있는
+	서/pvg+어/ecx+있/px+는/etm
+
+영도등대
+	영도/ncn+등대/ncn
+
+모습이
+	모습/ncn+이/jcc
+
+겹쳐서
+	겹치/pvg+어서/ecs
+
+보이면서
+	보이/pvg+면서/ecc
+
+한폭의
+	한/nnc+폭/nbu+의/jcm
+
+수묵화가
+	수묵화/ncn+가/jcs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+태종대
+	태종대/ncn
+
+앞
+	앞/ncn
+
+바다
+	바/nbn+이/jp+다/ef
+
+여러
+	여러/mma
+
+섬중
+	서/pvg+ㅁ/etn+중/xsnx
+
+유독
+	유독/mag
+
+모양과
+	모양/ncn+과/jcj
+
+크기가
+	크/paa+기/etn+가/jcs
+
+주전차
+	주전/ncn+차/ncn
+
+처럼
+	처럼/ncn
+
+생긴
+	생기/pvg+ㄴ/etm
+
+"주전사섬"
+	"주전사섬"/ncn
+
+(생도)
+	(/sl+생/npp+도/jxc+)/sr
+
+가
+	가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+섬에서는
+	서/pvg+ㅁ/etn+에서/jca+는/jxc
+
+용변을
+	용변/ncpa+을/jco
+
+보거나,
+	보/px+거나/ecc+,/sp
+
+불을
+	불/ncn+을/jco
+
+피우거나,
+	피우/pvg+거나/ecc+,/sp
+
+남녀가
+	남녀/ncn+가/jcs
+
+정을
+	정/ncn+을/jco
+
+나누어서는
+	나누/pvg+어서/ecs+는/jxc
+
+안되는
+	안되/paa+는/etm
+
+금기사항
+	금기사항/ncn
+
+전설이
+	전설/ncn+이/jcc
+
+전해지고
+	전하/pvg+어/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+금기사항을
+	금기사항/ncn+을/jco
+
+어기고
+	어기/pvg+고/ecc
+
+큰
+	크/paa+ㄴ/etm
+
+봉변을
+	봉변/ncpa+을/jco
+
+당한
+	당하/pvg+ㄴ/etm
+
+사례가
+	사례/ncn+가/jcs
+
+있어
+	있/px+어/ecx
+
+지금도
+	지금/ncn+도/jxc
+
+낚시꾼들이
+	낚시꾼/ncn+들/ncn+이/jcc
+
+오가면서
+	오가/pvg+면서/ecc
+
+금기사항을
+	금기사항/ncn+을/jco
+
+지켜
+	지키/pvg+어/ecx
+
+섬이
+	서/pvg+ㅁ/etn+이/jcs
+
+깨끗하게
+	깨끗/ncps+하/xsms+게/ecs
+
+보호되고
+	보호/ncpa+되/xsvn+고/ecc
+
+있다고
+	있/px+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+가파른
+	가파르/paa+ㄴ/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+뒤로
+	뒤/ncn+로/jca
+
+하고
+	하/pvg+고/ecc
+
+탓던
+	탓던/ncn
+
+선착장으로
+	선착장/ncn+으로/jca
+
+아쉬움과
+	아쉬움/ncn+과/jcj
+
+풍경
+	풍경/ncn
+
+한조각
+	한조각/ncn
+
+마음속에
+	마음속/ncn+에/jca
+
+담고
+	담/pvg+고/ecc
+
+돌아간다
+	돌/pvg+아/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+태종대
+	태종대/ncn
+
+유원지
+	유원지/ncn
+
+(www.
+	(/sl+www/f+./sy
+
+taejougdae.
+	taejougdae/f+./sy
+
+or.
+	or/f+./sy
+
+kr)
+	kr/f+)/sr
+
+(051-405-2004)
+	(/sl+051/nnc+-405/nnc+-2004/nnc+)/sr
+
+
+부산시
+	부산시/ncn
+
+영도구
+	영도구/ncn
+
+동삼2동
+	동삼2동/ncn
+
+산29-1
+	산29/ncn+-/sd+1/nnc
+
+
+가는길
+	가는길/ncn
+
+:
+	:/sp
+
+도시철도
+	도시/ncn+철/ncn+도/jxc
+
+1호선
+	1호선/ncn
+
+남포역
+	남포/ncn+역/ncn
+
+(6번
+	(/sl+6/nnc+번/nbu
+
+출구)
+	출구/ncn+)/sr
+
+하차
+	하차/ncn
+
+-
+	-/sd
+
+66,
+	66/nnc+,/sp
+
+88,
+	88/ncn+,/sp
+
+101
+	101/nnc
+
+번
+	번/nbu
+
+버스
+	버스/ncn
+
+환승
+	환승/ncn
+
+-
+	-/sd
+
+태종대
+	태종대/ncn
+
+차고지
+	차고/ncn+이/jp+지/ecs
+
+하차
+	하차/ncn
+
+
+부산역
+	부산/ncps+역/ncn
+
+;
+	;/sy
+
+88,
+	88/ncn+,/sp
+
+101번
+	101/nnc+번/nbu
+
+버스
+	버스/ncn
+
+이용
+	이용/ncpa
+
+-
+	-/sd
+
+태종대
+	태종대/ncn
+
+차고지
+	차고/ncn+이/jp+지/ecs
+
+하차
+	하차/ncn
+
+
+태종대
+	태종대/ncn
+
+이용시간
+	이용시간/ncn
+
+:
+	:/sp
+
+04:00~24:00
+	04/nnc+:/sp+00/nnc+~/sd+24/nnc+:/sp+00/nnc
+
+
+다누비
+	다누비/ncn
+
+순환열차
+	순환/ncpa+열차/ncn
+
+이용요금
+	이용요금/ncn
+
+:
+	:/sp
+
+어른
+	어른/ncn
+
+1500원,
+	1500/nnc+원/nbu+,/sp
+
+청소년
+	청소년/ncn
+
+1000원,
+	1000/nnc+원/nbu+,/sp
+
+어린이
+	어린이/ncn
+
+600원(09:30~
+	600원(09:30~/ncn
+
+20:00)
+	20/nnc+:/sp+00/nnc+)/sr
+
+
+부산의
+	부산/ncps+의/jcm
+
+볼거리
+	볼거리/ncn
+
+
+ktx타고
+	ktx/f+타/ncn+이/jp+고/ecc
+
+부산1박2일여행
+	부산1박2일여행/ncn
+
+다이나믹
+	다이나믹/ncpa
+
+레인보우
+	레인/ncn+보우/ncn
+
+부산의
+	부산/ncps+의/jcm
+
+7가지
+	7/nnc+가지/nbu
+
+색깔의
+	색깔/ncn+의/jcm
+
+색다른
+	색다르/paa+ㄴ/etm
+
+여행
+	여행/ncpa
+
+
+일출명소,
+	일출/ncpa+명소/ncn+,/sp
+
+젖병등대를
+	젖병등대/ncn+를/jco
+
+아시나요,
+	알/pvg+시/ep+나/ef+요/jxf+,/sp
+
+장승,닭벼슬,마징가Z,
+	장승,닭벼슬,마징가Z,/ncn
+
+월드컵등대,
+	월드컵/ncn+등대/ncn+,/sp
+
+등대변신은
+	등대/ncn+변신/ncpa+은/jxc
+
+무죄/부산1박2일
+	무죄/부산1박2/ncn+이/jp+ㄹ/etm
+
+
+부산센텀시티
+	부산센텀시티/ncn
+
+근처
+	근처/ncn
+
+맛집,
+	맛집,/ncn
+
+착한
+	착하/paa+ㄴ/etm
+
+가격
+	가격/ncn
+
+생선구이
+	생선/ncn+구/ncn+이/jcc
+
+전문점
+	전문/ncn+점/ncn
+
+"남도"
+	"/sl+남도/ncn+"/sr
+
+
+바다축제
+	바다/ncn+축제/ncn
+
+열리는
+	열/nnc+리/nbu+는/jxc
+
+부산야경을
+	부산/ncps+야경/ncn+을/jco
+
+제대로
+	제대로/mag
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+방법,부산1박2일여행
+	방법,부산1박2일여행/ncn
+
+
+부산영화의
+	부산/ncps+영화/ncn+의/jcm
+
+거리,부산의
+	것/nbn+이/jp+리/ef+,/sp+부산/ncps+의/jcm
+
+명물이라고
+	명물/ncn+이/jp+라/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+가본
+	가/pvg+아/ecx+보/px+ㄴ/etm
+
+18번완당집
+	18번완당집/ncn
+
+그맛은
+	그맛/ncn+은/jxc
+
+?
+	?/sf
+
+
+APEC
+	APEC/f
+
+나루공원에는
+	나루/ncn+공원/ncn+에/jca+는/jxc
+
+부산비엔날레
+	부산비엔날레/ncn
+
+조각
+	조각/ncn
+
+작품으로
+	작품/ncn+으로/jca
+
+노천
+	노천/ncn
+
+미술관이다
+	미술관/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+[부산맛집]콜라겐
+	[부산맛집]콜라겐/ncn
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+냉채족발에
+	냉채족발/ncn+에/jca
+
+반하다/남포동맛집/부산1박2일여행/남포동족발골목
+	반하다/남포동맛집/부산1박2일여행/남포동족발골목/ncn
+
+
+부산의
+	부산/ncps+의/jcm
+
+최고의
+	최고/ncn+의/jcm
+
+전망은역시
+	전망은역시/ncn
+
+용두산공원
+	용두산공원/ncn
+
+부산타워에서
+	부산/ncps+타워/ncn+에서/jca
+
+
+길을
+	길/ncn+을/jco
+
+찾아
+	찾/pvg+아/ecx
+
+떠난
+	떠나/pvg+ㄴ/etm
+
+여행/감천문화마을/한국의
+	여행/ncpa+//sp+감천/ncpa+문화/ncn+이/jp+마/ef+ㄹ/etm+//sp+한국의/ncn
+
+마추픽추/
+	마추픽추/ncn+//sp
+
+
+부산여행
+	부산/ncps+여행/ncpa
+
+저렴하고
+	저/npp+이/jp+렴/ef+하고/jcr
+
+깔끔한
+	깔끔/ncps+하/xsms+ㄴ/etm
+
+토요코인
+	토요코/ncn+이/jp+ㄴ/etm
+
+부산해운대
+	부산/ncps+해운/ncn+대/ncn
+
+호텔
+	호텔/ncn
+
+
+부산
+	부산/ncps
+
+오랑대,
+	오랑대,/ncn
+
+그림같은
+	그림/ncn+같/xsmn+은/etm
+
+일출
+	일출/ncpa
+
+
+[부산여행
+	[/sl+부산/ncps+여행/ncpa
+
+]해운대에서
+	]/sr+해운/ncn+대/ncn+에서/jca
+
+꼭가봐야할
+	꼭가봐야할/ncn
+
+동백섬,APEC누리마루
+	동백/ncn+섬/ncn+,/sp+APEC/f+누리/ncn+마루/ncn
+
+
+[부산여행
+	[/sl+부산/ncps+여행/ncpa
+
+]
+	]/sr
+
+20년전
+	20/nnc+년/nbu+전/xsnx
+
+걸었던
+	걷/pvg+었/ep+던/etm
+
+추억의
+	추억/ncpa+의/jcm
+
+거리
+	거리/ncn
+
+남포동,
+	남포/ncn+동/ncn+,/sp
+
+광복동,
+	광복/ncpa+동/ncn+,/sp
+
+국제시장
+	국제/ncn+시장/ncn
+
+그
+	그/mmd
+
+흔적속으로
+	흔적/ncn+속/ncn+으로/jca
+
+
+[부산여행
+	[/sl+부산/ncps+여행/ncpa
+
+왁작지껄
+	왁작지껄/ncn
+
+정겨운기장시장에서
+	정겨운기장시장/ncn+에서/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+기장대게
+	기장/ncr+대/ncn+이/jp+게/ecs
+
+맛,
+	맛/ncn+,/sp
+
+황홀했던
+	황홀/ncps+하/xsms+었/ep+던/etm
+
+그맛~해운대맛집
+	그맛~해운대맛집/ncn
+
+
+[부산여행]
+	[/sl+부산/ncps+여행/ncpa+]/sr
+
+수영만
+	수영/ncn+만/jxc
+
+요트경기장에서
+	요트경기장/ncn+에서/jca
+
+요트타면서
+	요트/ncn+타/ncn+이/jp+면서/ecc
+
+만난
+	만나/pvg+ㄴ/etm
+
+풍경은
+	풍경/ncn+은/jxc
+
+말이
+	말/ncn+이/jcc
+
+필요없다
+	필요/ncps+없/xsmn+다/ef

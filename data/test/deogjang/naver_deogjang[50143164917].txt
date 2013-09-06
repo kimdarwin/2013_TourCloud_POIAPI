@@ -1,0 +1,72 @@
+Title:
+강원도 인제방태산 
+
+Date:
+2012.06.11 10:08
+
+Content:
+
+위 치 : 방태산은 강원도 인제군 기린면 방동리 [방태산휴양림 문의 033]463~8590]에 
+위치하고 있으며 인제군과 홍천군의 경계를 이루는 산이다.북쪽으로는 설악산,점봉산
+남쪽으로 개인산과 접하고 있다
+국내 최대의 면적을 자랑하는 자연휴양림을 거느린 방태산1444m은 교통이 불편한 관계로 아직도
+오염되지 않은 깨끗한 계곡을 자랑하고 있다
+서울에서 불과 몇시간 거리밖에 떨어져 있지 않다는 사실이 믿어지지 않는다 빼곡한 나무들 사이로
+올려다보면 한줄기 햇살도 허용하지 않는 수림의 깊이가 느껴진다
+
+서울에서 방태산휴양림 가는길
+버스:동서울터미널~[인제]행 첫차6:30:막차19:50:배차간격30~40분 2시간20분 소요, 요금12200원
+[동서울터미널~ARS1688~5979
+인제터미널~[현리]행 1시간간격으로 하루10차례,운행 [인제터미널033~463~2847]
+현리버스터미널~방동리[약수터]하루8차례 버스운행[현리버스터미널033]461~5364]
+
+옥수동산악회
+옥수산악회 정기산행일 매월두째일요일 옥수역[하나은행]앞 아침07시~07시30분
+사이 출발 한 가족처럼 생각하고 참석하실분...총무님010~9000~1915
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/06/11/1026/03101323711D539E36C3792073AA36F3D46_deogjang_PC_DEFAULT_16x9_logo.jpg';
+	layout.playtime = '384.06';
+	var qsParam = {};
+	qsParam.vid = '0076478E1565A6CBC1860212E2D768AC93BF';
+	qsParam.inKey = 'V1285f4dcc7004b1eb9fb5b65962606a862da06e9bf1c7b8000baca28938895c42dbd5b65962606a862da';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = 'MUSIC';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_06892 = new VideoInfraUGCPlayer('ugcPlayer_06892' ,bean); 
+ugcPlayer_06892.drawPlayLayer(); 
+}
+
+ 
+
+
+	

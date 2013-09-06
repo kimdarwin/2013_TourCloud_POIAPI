@@ -1,0 +1,110 @@
+Title:
+이상한 나라의 앨리스 엔딩곡.. Avril Lavigne~Alice 
+
+Date:
+2010.12.01 23:58
+
+Content:
+
+
+
+영화 "이상한 나라의 앨리스" 엔딩곡
+
+Alice ~ Avril Lavigne~Alice(에이브릴 라빈)
+
+그래 난 추락했어..Yeah I fell down
+미치겠어, 내가 지금 어디 있는거지..I’m freaking out, where am I now나는 살아남을거야.. I, I’ll survive
+나를 멈추게 하려 하지 마.. Don’t you try to stop me난 울지 않을거야.. I, I won’t cry
+
+Alice ~ Avril Lavigne~Alice(에이브릴 라빈)
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc22/2010/12/01/120/03101223C12A532E55C3D90473498563700_ya3542_logo.jpg';
+	layout.playtime = '214.33';
+	var qsParam = {};
+	qsParam.vid = '238831A3417BC520361CE1DB44647E70354A';
+	qsParam.inKey = 'V122fb092679d5a3f862220d7d30b1542827668f44b8e1a7b4fb1b388715fe10b9abe20d7d30b15428276';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_08667 = new VideoInfraUGCPlayer('ugcPlayer_08667' ,bean); 
+ugcPlayer_08667.drawPlayLayer(); 
+}
+
+
+
+
+작지만 강한 Rock?!~
+캐나다의 요정Avril Lavigne(에이브릴 라빈)..
+인생의 복잡함을 외치며 데뷔했던
+장난기 가득하고 예쁘장한 펑키 틴에이저
+Avril Lavigne(에이브릴 라빈)..
+맑고 투명한목소리.. 그 속에는 힘이 넘쳐 흐른다
+
+Alice ~ Avril Lavigne~Alice(에이브릴 라빈)
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc22/2010/12/01/1079/03101223C12A532E56C31964138656C3809_ya3542_logo.jpg';
+	layout.playtime = '190.669';
+	var qsParam = {};
+	qsParam.vid = '09A7B2477518FF10C36B4F3D181E67D1BF1E';
+	qsParam.inKey = 'V1263af01c0c331bb22d466fb526a2c868b1e87b29da71c650dc3a6ac534e6dd58fe966fb526a2c868b1e';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_07936 = new VideoInfraUGCPlayer('ugcPlayer_07936' ,bean); 
+ugcPlayer_07936.drawPlayLayer(); 
+}
+
+
+
+
+
+Avril Lavigne~Alice (가사)
+
+Trippin outSpinning aroundI’m undergroundI fell downYeah I fell downI’m freaking out, where am I now?Upside down and I can’t stop it nowIt can’t stop me now, oh ohI, I’ll get byI, I’ll surviveWhen the world’s crashing downWhile I fall and hit the groundI will turn myself aroundDon’t you try to stop meI, I won`t cryI found myself in WonderlandGet back on my feet, againIs this real?Is this pretend?I’ll take a stand until the endI, I’ll get byI, I’ll surviveWhen the world’s crashing downWhen I fall and hit the groundI will turn myself aroundDon’t you try to stop meI, I won’t cryI, I’ll get byI, I’ll surviveWhen the world’s crashing downWhen I fall and hit the groundI will turn myself aroundDon’t you try to stop meI, and I won’t cry
+
+조니뎁 주연의 영화'이상한 나라의 앨리스'OST
+Alice ~ Avril Lavigne~Alice (에이브릴 라빈)
+
+
+
+Avril Lavigne
+
+
+
+
+
+
+'에이브릴 라빈'이하고 싶은 것은 얼터너티브 록이라고 했다. 
+
+Avril Lavigne(에이브릴 라빈)의 곡들은때로는깜짝 놀랄 정도로 음울하고 진지하다
+
+
+Avril Lavigne~Alice
+
+	

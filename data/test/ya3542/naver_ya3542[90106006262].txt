@@ -1,0 +1,255 @@
+Title:
+영화 페임(Fame)~Irene Cara & Naturi Naughton 
+
+Date:
+2011.02.02 08:28
+
+Content:
+
+페임(Fame)..뮤지컬로 더 유명하지만 1980년도 세계적인 히트를 기록한 영화
+아이린 카라(Irene Cara)는.. 1960년 미국 브롱크스에서태어난 혼혈가수이다
+
+
+'페임(Fame) ~ 아이린 카라(Irene Cara) 뮤직비디오(1980년)
+ 
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc24/2011/02/02/1450/03100223D18E533E05C3393373758C531C4_ya3542_logo.jpg';
+	layout.playtime = '194.33';
+	var qsParam = {};
+	qsParam.vid = '8BFB16D48FE30665E1030DFA6DEBDBCA80B1';
+	qsParam.inKey = 'V125dac9f02451be773cf55bd3cfce229866349efb6a85a82bb22560be6540e93cf8755bd3cfce2298663';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_04853 = new VideoInfraUGCPlayer('ugcPlayer_04853' ,bean); 
+ugcPlayer_04853.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+
+
+
+
+'페임(Fame) ~ 아이린 카라(Irene Cara)
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc24/2011/02/02/480/03100223D18E533E05C3D92873DA27831C9_ya3542_logo.jpg';
+	layout.playtime = '308.449';
+	var qsParam = {};
+	qsParam.vid = 'F0AC8404CD779873AD129FBAC37C07F8CBB8';
+	qsParam.inKey = 'V1283afb11bc0a1d3e688a0c15e9a2daed946f8c3c4ddb5ab44985c439e14f72afe6ca0c15e9a2daed946';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_00240 = new VideoInfraUGCPlayer('ugcPlayer_00240' ,bean); 
+ugcPlayer_00240.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+
+
+
+
+댄서이기도 한'아이린 카라'는 연극에서 시작해 TV와 가수,그리고영화배우로 활동 영역을 성공적으로 넓혀간 만능 엔터테이너 이다
+영화 페임(Fame) 중에서 "Out here on my own"~ Irene cara 
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc24/2011/02/02/1870/03100223D17E533E76C3195D73DB3B23D07_ya3542_logo.jpg';
+	layout.playtime = '208.08';
+	var qsParam = {};
+	qsParam.vid = '2EB1E73E8984FF97F3102E07CFA975ADA3B9';
+	qsParam.inKey = 'V12692a9d7023467d4b8fdee11d67f75bd088097c378597edb79900925cf3a1a1f000dee11d67f75bd088';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_08734 = new VideoInfraUGCPlayer('ugcPlayer_08734' ,bean); 
+ugcPlayer_08734.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+
+
+
+
+
+2009 영화 '페임'.. 2009년 MTV의 감성으로 1980년 알란 파커 감독 원작을 재구성하였다
+
+
+2009년,"페임(fame)"~ naturi naughtonqn(나투리 노튼) 리메이크 곡..
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc24/2011/02/02/1917/03100223D17E533E76C3898223504F333C7_ya3542_logo.jpg';
+	layout.playtime = '208.039';
+	var qsParam = {};
+	qsParam.vid = '95669B7761E1E8A7EA0481E760F310062BC7';
+	qsParam.inKey = 'V127a689c440af7f6df1e4bb787e326d1cc698aae2c7530de919ede6b7f3044ec71e24bb787e326d1cc69';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_05360 = new VideoInfraUGCPlayer('ugcPlayer_05360' ,bean); 
+ugcPlayer_05360.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+
+
+
+
+I’m gonna live forever 난 영원히 살 거야I’m gonna learn how to fly 하늘로 날아오르는 방법도 배우고I feel it coming together 성공이 다가오는 걸 느낄 수 있어People will see me and cry 사람들은 날보고 울음을 터뜨리겠지I’m gonna make it to heaven 천국을 만들어 줄 거야Light up the sky like a flame타오르는 불꽃처럼 하늘을 밝힐 거야I’m gonna live forever 난 영원히 살 거야Baby remember my name 내 이름을 기억해
+
+영화 페임(fame) 2009 예고편
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc24/2011/02/02/1370/03100223D17E533E96C3895F73D967F3B49_ya3542_logo.jpg';
+	layout.playtime = '91.579';
+	var qsParam = {};
+	qsParam.vid = 'A0F16372C3CA733B358C4A25FD9C3EBB6659';
+	qsParam.inKey = 'V126e798fe0510226b44657aa820458275cd718992fb460c4b8106a14e7ccaae5ab0757aa820458275cd7';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_04765 = new VideoInfraUGCPlayer('ugcPlayer_04765' ,bean); 
+ugcPlayer_04765.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+
+
+
+
+영화 Fame 중에서 "Out here on my own"~ naturi naughtonqn(리메이크 곡)
+ 
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc24/2011/02/02/1951/03100223D17E533E99C3E987732A2FF3544_ya3542_logo.jpg';
+	layout.playtime = '200.83';
+	var qsParam = {};
+	qsParam.vid = '0703A9ACD70D358D60ABF5DB5D9CA19B745C';
+	qsParam.inKey = 'V125b15f70795b07b84ec62d8a833f82499c8499173709519779af72dac2ad96ee4dc62d8a833f82499c8';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_03897 = new VideoInfraUGCPlayer('ugcPlayer_03897' ,bean); 
+ugcPlayer_03897.drawPlayLayer(); 
+}
+
+
+
+
+
+시대적 열악한 차이가 있음에도 원곡, 원작페임(Fame)이살짝 더좋아 보인다
+
+2009 영화 "페임(Fame)" 포스터
+
+
+
+
+케링턴 페인(앨리스 역)는 미국 인기 댄스 서바이벌 프로그램에서 Top 10에 들었던미모의 댄서다
+제일 인상에 남는 '케링턴 페인'의 춤추는 모습은 정말 예술이였다..출연 분량이 적어아쉽기는 하지만
+
+
+
+
+1980년알란 파커 감독 원작 영화 페임(Fame) 포스타
+
+
+'페임(Fame) ~ 아이린 카라(Irene Cara)
+Irene Cara(아이린 카라)는1975년 '아론은 안젤라를 사랑한다'라는 영화로데뷔하였으며
+5년 뒤.. 1980년"페임(Fame)"의 출연으로배우와 가수로서동시에 명성을 가져다 주었다
+
+영화 "페임(Fame)"은스타의 꿈을 갖고 뉴욕 예술고등학교에 다니는 학생들의 성공과 좌절을 그린 뮤지컬 드라마다
+
+한번 들으면 잊혀지지 않는 주제곡, 획기적인 무대 연출과 춤, 노래, 연주 모든 것을 아우르는 화려한 볼거리의 뮤지컬 영화 페임이 2009년 젊은 감성으로 새롭게 재탄생 되었다. 1980년 제작된 알란 파커 감독의 페임은 학생들이 거리의 택시 위에서 흥겹게 춤을 추는 장면과 아이린 카라의 주제곡이 선풍적인 인기를 모으며 흥행에서도 큰 성공을 거뒀다. 그 해 아카데미 시상식에서 주제가상, 음악상, 편집상, 각본상, 음향효과상 등 6개 부문에 노미네이트 된 페임은 주제가상, 음악상을 수상한 데 이어 골든글로브 주제가상을 수상하고, 작품상(코미디/뮤지컬 부문)에 노미네이트 되는 영광을 안았다. 이후 브로드웨이 뮤지컬로 탄생하여 북미, 일본, 멕시코, 아르헨티나, 헝가리, 폴란드, 네델란드, 영국 등 전세계 25개국에서 공연되어 센세이션을 불러일으켰으며 TV시리즈로 제작되어 20년에 걸쳐 방송되는 인기를 누렸다.
+
+	

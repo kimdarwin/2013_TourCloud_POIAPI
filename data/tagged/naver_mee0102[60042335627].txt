@@ -1,0 +1,1486 @@
+군산시
+	군산시/ncn
+
+
+전라북도
+	전라/ncn+북도/ncn
+
+
+기간
+	기간/ncn
+
+2007.
+	2007./nnc
+
+9.
+	9./nnc
+
+15~
+	15/nnc+~/sd
+
+2007.
+	2007./nnc
+
+9.
+	9./nnc
+
+16(1박
+	16(1박/ncn
+
+2일)
+	2/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+안가본곳/안해본것
+	안가본곳/안해본것/ncn
+
+체험여행
+	체험/ncpa+여행/ncpa
+
+
+경로
+	경로/ncn
+
+
+군산
+	군산/ncn
+
+고창
+	고창/ncn
+
+전주
+	전주/ncn
+
+
+대구
+	대구/ncn
+
+출발
+	출발/ncpa
+
+-
+	-/sd
+
+서대전역
+	서대전/ncn+역/ncn
+
+집결
+	집결/ncpa
+
+-
+	-/sd
+
+군산,
+	군산,/ncn
+
+조식
+	조식/ncpa
+
+-
+	-/sd
+
+간장꽃게장
+	간장/ncn+꽃게/ncn+장/ncn
+
+-
+	-/sd
+
+월명공원
+	월명공원/ncn
+
+
+난
+	나/px+ㄴ/etm
+
+대전
+	대전/ncn
+
+출발이었다
+	출발/ncpa+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+대구에서
+	대구/ncn+에서/jca
+
+대전까지
+	대전/ncn+까지/jxc
+
+시간을
+	시간/ncn+을/jco
+
+맞추기
+	맞추/pvg+기/etn
+
+위해서는
+	위하/pvg+어서/ecs+는/jxc
+
+새벽
+	새벽/ncn
+
+3시에
+	3/nnc+시/nbu+에/jca
+
+기상을
+	기상/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+준비
+	준비/ncn
+
+.
+	./sf
+
+
+출발~~~
+	출발/ncpa+~/sd+~/sd+~/sd
+
+
+매번
+	매번/mag
+
+이러는
+	이르/paa+어/ef+는/etm
+
+것은
+	것/nbn+은/jxc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+한
+	한/nnc
+
+번씩
+	번/nbu+씩/xsnu
+
+멋진
+	멋지/paa+ㄴ/etm
+
+일출을
+	일출/ncpa+을/jco
+
+보기
+	보/px+기/etn
+
+위해서나
+	위하/pvg+어서/ecs+나/jxc
+
+새벽의
+	새벽/ncn+의/jcm
+
+여명과
+	여명/ncn+과/jcj
+
+함께여야만
+	하/pvg+ㅁ/etn+께/jca+이/jp+어야/ecs+만/jxc
+
+멋진
+	멋지/paa+ㄴ/etm
+
+사진과
+	사진/ncn+과/jcj
+
+여행이
+	여행/ncpa+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+경우에는
+	경우/ncn+에는/jca
+
+
+자정이나
+	자정/ncn+이나/jcj
+
+새벽
+	새벽/ncn
+
+기상도
+	기상/ncn+도/jxc
+
+불사하지
+	불사/ncpa+하/xsva+지/ecx
+
+않는
+	않/px+는/etm
+
+덕분에주말인데,휴일인데,
+	덕분에주말인데,휴일인데,/ncn
+
+남들
+	남/ncn+들/xsncc
+
+다
+	다/mag
+
+자는데
+	자/pvg+ㄴ데/ecs
+
+꼭두새벽부터
+	꼭두새벽/ncn+부터/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+부산한
+	부산/ncps+하/xsms+ㄴ/etm
+
+나
+	나/npp
+
+자신을
+	자신/ncn+을/jco
+
+보면
+	보/nbu+이/jp+면/ecs
+
+
+아주
+	아주/mag
+
+가끔은
+	가끔/mag+은/jxc
+
+늘어지게
+	늘/pvg+어/ecx+지/px+게/ecs
+
+잠만
+	자/pvg+ㅁ/etn+만/jxc
+
+자면
+	자/nbn+이/jp+면/ecs
+
+어떨까
+	어떨까/ncn
+
+싶을
+	싶/px+을/etm
+
+때가
+	때/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+오늘은
+	오늘/ncn+은/jxc
+
+특별한
+	특별/ncps+하/xsms+ㄴ/etm
+
+날,
+	날/ncn+,/sp
+
+특별한
+	특별/ncps+하/xsms+ㄴ/etm
+
+여행이다
+	여행/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+ktx를
+	ktx/f+를/jco
+
+선택했다면
+	선택/ncpa+하/xsva+었/ep+다면/ecs
+
+시간을
+	시간/ncn+을/jco
+
+앞당기고
+	앞당기/pvg+고/ecc
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+여유로웠겠지만
+	여유/ncn+롭/xsmn+었겠/ep+지만/ecs
+
+가정
+	가정/ncn
+
+경제의
+	경제/ncn+의/jcm
+
+절약과
+	절약/ncpa+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+오랜만에
+	오랜만/ncn+에/jca
+
+무궁화를
+	무궁화/ncn+를/jco
+
+탄
+	타/pvg+ㄴ/etm
+
+경험도
+	경험/ncpa+도/jxc
+
+색달랐다
+	색다르/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+통근
+	통근/ncpa
+
+열차도
+	열차/ncn+도/jxc
+
+아닌
+	아니/paa+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+5분
+	5/nnc+분/nbu
+
+간격으로
+	가/px+ㄴ/etm+격/nbn+으로/jca
+
+이름도
+	이름/ncn+도/jxc
+
+듣도
+	듣도/ncn
+
+보도
+	보/nbu+도/jxc
+
+못한
+	못하/px+ㄴ/etm
+
+역마다
+	역마/ncn+이/jp+다/ef
+
+서는데
+	서/pvg+ㄴ데/ecs
+
+안그래도
+	안그래/ncn+도/jxc
+
+비몽사몽덜
+	비몽사몽덜/ncn
+
+깬
+	깨/pvg+ㄴ/etm
+
+잠을아주
+	잠을아주/ncn
+
+그냥
+	그냥/mag
+
+확~~
+	확/ncn+~/sd+~/sd
+
+달아나게
+	달아나/pvg+게/ecs
+
+만들었다
+	만들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+거기다
+	거기/npd+이/jp+다/ef
+
+태풍
+	태풍/ncn
+
+나리님이
+	나리/ncn+님/ncn+이/jcc
+
+천둥과
+	천둥/ncn+과/jcj
+
+번개를
+	번개/ncn+를/jco
+
+동반하고
+	동반/ncn+하고/jct
+
+장대비까지
+	장대비/ncn+까지/jxc
+
+이리
+	이리/mad
+
+곱게(
+	곱게(/ncn
+
+??)
+	?/sf+?/sf+)/sr
+
+
+내려주시니
+	내/nbn+이/jp+려/ecx+줄/px+시/ep+니/ef
+
+
+그
+	그/mmd
+
+한량없는
+	한량없/paa+는/etm
+
+마음만
+	마음/ncn+만/jxc
+
+헤아려도
+	헤아리/pvg+어도/ecs
+
+이번
+	이/nnc+번/nbu
+
+여행의
+	여행/ncpa+의/jcm
+
+무게가
+	무게/ncn+가/jcs
+
+어떨지
+	어떨지/ncn
+
+벌써부터
+	벌써/mag+부터/jxc
+
+떨렸다
+	떨리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이름도
+	이름/ncn+도/jxc
+
+듣도
+	듣도/ncn
+
+보도
+	보/nbu+도/jxc
+
+못한
+	못하/px+ㄴ/etm
+
+그
+	그/mmd
+
+역
+	역/mag
+
+중의
+	중/nbn+의/jcm
+
+하나인
+	하나/nnc+이/jp+ㄴ/etm
+
+'이원'역에서
+	'/sr+이/nnc+원/nbu+'/sr+역/ncn+에서/jca
+
+한
+	하/pvg+ㄴ/etm
+
+컷
+	컷/nbu
+
+
+대전
+	대전/ncn
+
+지하철
+	지하철/ncn
+
+내부
+	내부/ncn
+
+
+집결장소인
+	집결/ncpa+장소/ncn+이/jp+ㄴ/etm
+
+서대전역으로
+	서대전/ncn+역/ncn+으로/jca
+
+가기
+	가/px+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+지하철로
+	지하철/ncn+로/jca
+
+이동중
+	이동/ncn+중/ncn
+
+.
+	./sf
+
+
+모든
+	모든/mma
+
+차문이
+	차문/ncpa+이/jcc
+
+개방되어
+	개방/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+예전에
+	예전/ncn+에/jca
+
+유명
+	유명/ncn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+싸이트에서
+	싸이트/ncn+에서/jca
+
+보긴했었는데
+	보긴했었는데/ncn
+
+거기가
+	거기/npd+가/jcc
+
+여기였구나
+	여기/npd+이/jp+었/ep+구나/ef
+
+...
+	.../se
+
+
+홍콩에서
+	홍콩/ncn+에서/jca
+
+처음
+	처음/mag
+
+보았던
+	보/px+아/ep+ㄴ/etm
+
+안전막이문이라
+	안전/ncn+막이/ncn+문/ncn+이/jp+라/ecs
+
+해야하나
+	하/pvg+어야/ecx+하/px+어/ecx+나/px+아/ecx
+
+...
+	.../se
+
+
+(나중에
+	(/sl+나중/ncn+에/jca
+
+안
+	알/pvg+ㄴ/etm
+
+사실-스크린
+	사실/ncn+-/sd+스크린/ncn
+
+도어란다
+	도어란다/ncn
+
+.)
+	./sf+)/sr
+
+
+서울도
+	서울/ncn+도/jxc
+
+아직
+	아직/mag
+
+안되어
+	안되/paa+어/ecx
+
+있는
+	있/px+는/etm
+
+걸로
+	걸/ncn+로/jca
+
+아는데
+	알/pvg+ㄴ데/ecs
+
+...
+	.../se
+
+
+우리
+	우리/npp
+
+대구는
+	대구/ncn+는/jxc
+
+어떤가
+	어떤/ncn+가/jcs
+
+??
+	?/sf+?/sf
+
+
+지하철
+	지하철/ncn
+
+2호선까지
+	2/nnc+호/nbu+선/jxc+까지/jxc
+
+있는데
+	있/px+는데/ecs
+
+아직인데
+	아직/ncn+이/jp+ㄴ데/ecs
+
+...
+	.../se
+
+
+대전은
+	대전/ncn+은/jxc
+
+역시
+	역시/mag
+
+과학도시답다
+	과학/ncn+도시/ncn+답/xsmn+다/ef
+
+.
+	./sf
+
+
+지하철을
+	지하철/ncn+을/jco
+
+처음부터
+	처음/mag+부터/jxc
+
+깊게
+	깊/paa+게/ecs
+
+만들었다
+	만들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+안전막도
+	안전/ncn+막/ncn+도/jxc
+
+잘
+	잘/mag
+
+되어
+	되/pvg+어/ecx
+
+있고
+	있/px+고/ecc
+
+...
+	.../se
+
+
+지하철로
+	지하철/ncn+로/jca
+
+뛰어드는
+	뛰어들/pvg+는/etm
+
+사람은
+	사람/ncn+은/jxc
+
+없겠군
+	없/paa+겠/ep+군/ef
+
+...
+	.../se
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+대전에서의
+	대전/ncn+에서/jca+의/jcm
+
+만남,
+	만나/pvg+ㅁ/etn+,/sp
+
+그리고
+	그리고/maj
+
+군산으로
+	군산/ncn+으로/jca
+
+출발~~~
+	출발/ncpa+~/sd+~/sd+~/sd
+
+!!
+	!/sf+!/sf
+
+
+한량없는
+	한량없/paa+는/etm
+
+마음을
+	마음/ncn+을/jco
+
+잘
+	잘/mag
+
+헤아린
+	헤아리/pvg+ㄴ/etm
+
+덕일까
+	덕/ncn+이/jp+ㄹ까/ef
+
+??
+	?/sf+?/sf
+
+
+비는
+	비/paa+는/etm
+
+잦아들고
+	잦아들고/ncn
+
+첫
+	첫/nno
+
+번째
+	번/nbu+째/xsnu
+
+코스인
+	코스/ncn+이/jp+ㄴ/etm
+
+꽃게장으로
+	꽃게/ncn+장/ncn+으로/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+식당으로
+	식당/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+동안에는
+	동안/ncn+에는/jca
+
+
+숨바꼭질하듯
+	숨바꼭질/ncpa+하/xsva+듯/ecs
+
+파란
+	파랗/paa+은/etm
+
+하늘도
+	하늘/ncn+도/jxc
+
+살짝
+	살짝/mag
+
+살짝
+	살짝/mag
+
+보여주었다가
+	보이/pvg+어/ecx+주/px+었/ep+다가/ecs
+
+말았다가
+	말/px+아/ep+다가/ecs
+
+하는
+	하/pvg+는/etm
+
+태풍
+	태풍/ncn
+
+나리님의
+	나리/ncn+님/ncn+의/jcm
+
+밀고
+	밀/pvg+고/ecc
+
+당기기는
+	당기/pvg+기/etn+는/jxc
+
+사람의
+	사람/ncn+의/jcm
+
+애간장을
+	애간장/ncn+을/jco
+
+녹이기에
+	녹/ncn+이/jp+기/etn+에/jca
+
+충분했다
+	충분/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+간장게장은
+	간장/ncn+게장/ncn+은/jxc
+
+일생
+	일생/ncn
+
+처음이었다
+	처음/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+해산물을
+	해산물/ncn+을/jco
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+나이지만
+	나/npp+이/jp+지만/ecs
+
+양념
+	양념/ncn
+
+게장을
+	게장/ncn+을/jco
+
+먹는게
+	먹/pvg+는게/ecs
+
+낫지,
+	낫/paa+지/ef+,/sp
+
+간장
+	간장/ncn
+
+게장은
+	게장/ncn+은/jxc
+
+잘하는
+	잘하/pvg+는/etm
+
+집이
+	집/ncn+이/jcc
+
+아니면
+	아니/paa+면/ecs
+
+비려서
+	비리/paa+어서/ecs
+
+못
+	못/mag
+
+먹는다
+	먹/pvg+는다/ef
+
+.
+	./sf
+
+
+잘하는
+	잘하/pvg+는/etm
+
+집이어도
+	집/ncn+이/jp+어도/ecs
+
+맛있다는
+	맛있/paa+다/ef+는/etm
+
+보장은
+	보장/ncpa+은/jxc
+
+없다는
+	없/paa+다/ef+는/etm
+
+둥
+	둥/nbn
+
+하는
+	하/pvg+는/etm
+
+워낙
+	워낙/mag
+
+게장에
+	게장/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+흉흉한(
+	흉흉한(/ncn
+
+??)
+	?/sf+?/sf+)/sr
+
+
+소문을
+	소문/ncn+을/jco
+
+익히
+	익히/mag
+
+들어서인지
+	들어서/ncn+이/jp+ㄴ지/ecs
+
+...
+	.../se
+
+
+별
+	별/mma
+
+미련없이
+	미련/ncn+없이/jca
+
+시도
+	시/nbu+도/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+번
+	번/nbu
+
+하지
+	하/pvg+지/ecx
+
+않았던
+	않/px+아/ep+ㄴ/etm
+
+게장
+	게장/ncn
+
+...
+	.../se
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+나도
+	나/npp+도/jxc
+
+드디어
+	드디어/mag
+
+먹어
+	먹/pvg+어/ecx
+
+보았는데
+	보/px+아/ep+ㄴ데/ecs
+
+쫀득쫀득한
+	쫀득쫀득한/ncn
+
+것이입
+	것이입/ncn
+
+안에서
+	안/ncn+에서/jca
+
+살살
+	살살/mag
+
+녹는데
+	녹/pvg+는데/ecs
+
+그야말로
+	그야말로/mag
+
+생전
+	생전/ncn
+
+처음
+	처음/mag
+
+먹어보는
+	먹/pvg+어/ecx+보/px+는/etm
+
+그
+	그/mmd
+
+맛
+	맛/ncn
+
+자체였다
+	자체/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+간장
+	간장/ncn
+
+게장을
+	게장/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+드셔본
+	들/pvg+시/ep+어/ecx+보/px+ㄴ/etm
+
+어르신들도
+	어르신/ncn+들/ncn+도/jxc
+
+이
+	이/mmd
+
+집은
+	집/ncn+은/jxc
+
+정말
+	정말/mag
+
+잘한다고
+	잘하/pvg+ㄴ다/ef+고/jcr
+
+칭찬을
+	칭찬/ncpa+을/jco
+
+아끼지
+	아끼/pvg+지/ecx
+
+않으니
+	않/px+으니/ecs
+
+정말
+	정말/mag
+
+잘하는
+	잘하/pvg+는/etm
+
+집이
+	집/ncn+이/jcc
+
+맞긴
+	맞긴/ncn
+
+맞는
+	맞/pvg+는/etm
+
+모양이다
+	모양/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+월명공원으로
+	월명공원/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길에
+	길/ncn+에/jca
+
+잠시
+	잠시/mag
+
+휴식하면서
+	휴식/ncpa+하/xsva+면서/ecc
+
+만난
+	만나/pvg+ㄴ/etm
+
+군산
+	군산/ncn
+
+바다
+	바/nbn+이/jp+다/ef
+
+...
+	.../se
+
+
+물때가
+	물/pvg+ㄹ/etm+때/nbn+가/jcc
+
+아니어서
+	아니/paa+어서/ecs
+
+많이
+	많/paa+이/xsa
+
+빠진
+	빠지/pvg+ㄴ/etm
+
+상태다
+	상태/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+수시탑
+	수시/ncn+탑/ncn
+
+
+월명공원은
+	월명공원/ncn+은/jxc
+
+군산시
+	군산시/ncn
+
+중심에
+	중심/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+곳으로
+	곳/ncn+으로/jca
+
+봄에는
+	보/px+ㅁ/etn+에/jca+는/jxc
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+벚꽃과
+	벚꽃/ncn+과/jcj
+
+가을에는
+	가을/ncn+에/jca+는/jxc
+
+아름다운
+	아름답/paa+은/etm
+
+단풍이
+	단풍/ncn+이/jcc
+
+시민들을
+	시민/ncn+들/ncn+을/jco
+
+유혹하며,
+	유혹/ncpa+하/xsva+며/ecc+,/sp
+
+
+정상에
+	정상/ncn+에/jca
+
+오르면
+	오르/pvg+면/ecs
+
+서해바다가
+	서해바다/ncn+가/jcs
+
+한
+	하/pvg+ㄴ/etm
+
+눈에
+	눈/ncn+에/jca
+
+들어온다
+	들/pvg+어/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+월명공원에도
+	월명공원/ncn+에/jca+도/jxc
+
+작은
+	작/paa+은/etm
+
+조각상이
+	조각/ncn+상/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있는데
+	있/px+는데/ecs
+
+제주도의
+	제주/ncn+도/ncn+의/jcm
+
+무슨
+	무슨/mmd
+
+유명
+	유명/ncn
+
+조각공원을
+	조각/ncn+공원/ncn+을/jco
+
+기대하지는
+	기대/pvg+어/ecx+하/px+어/ecx+지/px+는/etm
+
+마시라~~
+	마/nbu+이/jp+시/ep+라/ecs+~/sd+~/sd
+
+
+민망한
+	민망/ncps+하/xsms+ㄴ/etm
+
+포즈의
+	포즈/ncn+의/jcm
+
+애기
+	애/ncn+이/jp+기/etn
+
+조각상도
+	조각/ncn+상/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+일제때
+	일제/ncn+때/ncn
+
+남부지방의
+	남부/ncn+지방/ncn+의/jcm
+
+3.
+	3./nnc
+
+1운동의
+	1운동/ncn+의/jcm
+
+도화선이
+	도화선/ncn+이/jcc
+
+되었던
+	되/pvg+었/ep+던/etm
+
+3.1운동
+	3.1운동/ncn
+
+기념비
+	기념비/ncn
+
+
+아침에
+	아침/ncn+에/jca
+
+산책하면
+	산책/ncpa+하/xsva+면/ecs
+
+딱
+	딱/mag
+
+좋을
+	좋/paa+을/etm
+
+월명공원~~
+	월명공원/ncn+~/sd+~/sd
+
+
+공원이라고
+	공원/ncn+이/jp+라/ef+고/jcr
+
+얕잡아
+	얕잡/pvg+어/ecx
+
+봤는데
+	보/px+아/ep+ㄴ데/ecs
+
+우리가
+	우리/npp+가/jcs
+
+본
+	보/px+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+고작
+	고작/mag
+
+1/10
+	1/nnc+//sp+10/nnc
+
+수준이다
+	수준/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+일정이
+	일정/ncn+이/jcc
+
+변경되어
+	변경/ncpa+되/xsvn+어/ecx
+
+철길마을이나
+	철길/ncn+마을/ncn+이나/jcj
+
+선유도를
+	선유/ncn+도/ncn+를/jco
+
+못가서
+	못가/ncn+서/jca
+
+아쉬운
+	아쉽/paa+은/etm
+
+마음을
+	마음/ncn+을/jco
+
+월명공원에서
+	월명공원/ncn+에서/jca
+
+산책하며
+	산책/ncpa+하/xsva+며/ecc
+
+다
+	다/mag
+
+털어
+	털/pvg+어/ecx
+
+버리고
+	버리/px+고/ecc
+
+고창읍성으로
+	고창/ncn+읍성/ncn+으로/jca
+
+이동~~~
+	이동/ncn+~/sd+~/sd+~/sd
+
+
+중요
+	중요/ncps
+
+자료
+	자료/ncn
+
+출처
+	출처/ncn
+
+-
+	-/sd
+
+군산
+	군산/ncn
+
+홍보
+	홍보/ncpa
+
+책자
+	책자/ncn
+
+
+전북
+	전/xp+북/ncn
+
+군산,
+	군산,/ncn
+
+월명공원
+	월명공원/ncn
+
+
+2007.
+	2007./nnc
+
+09.
+	09./nnc
+
+15
+	15/nnc
+
+.
+	./sf
+
+
+토
+	토/ncn
+
+
+PhotographedWritten
+	PhotographedWritten/f
+
+by
+	by/f
+
+JasMine
+	JasMine/f
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf

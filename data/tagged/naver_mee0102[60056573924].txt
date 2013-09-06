@@ -1,0 +1,447 @@
+***
+	*/sy+*/sy+*/sy
+
+버스정보
+	버스/ncn+정보/ncn
+
+***
+	*/sy+*/sy+*/sy
+
+
+-
+	-/sd
+
+연안여객터미널
+	연안/ncn+여객/ncn+터미널/ncn
+
+하차
+	하차/ncn
+
+:
+	:/sp
+
+55(창원
+	55(창원/ncn
+
+소답동),
+	소답동),/ncn
+
+250(내서),
+	250(내서),/ncn
+
+760(진해)-
+	760(진해)-/ncn
+
+그외
+	그외/mmd
+
+:
+	:/sp
+
+마산중부경찰서
+	마산중부경찰서/ncn
+
+하차
+	하차/ncn
+
+=
+	=/sy
+
+바다방향으로
+	바다/ncn+방향/ncn+으로/jca
+
+5분
+	5/nnc+분/nbu
+
+거리
+	거리/nbn
+
+
+마산가고파
+	마산가고파/ncn
+
+국화축제
+	국화/ncn+축제/ncn
+
+http://festival.
+	http/f+:/sp+//sp+//sp+festival/f+./sy
+
+masan.
+	masan/f+./sy
+
+go.
+	go/f+./sy
+
+kr/gagopa/main/index.
+	kr/f+//sp+gagopa/f+//sp+main/f+//sp+index/f+./sy
+
+jsp
+	jsp/f
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+마산
+	마산/ncn
+
+가고파
+	가고파/ncn
+
+국화축제(2008.
+	국화축제(2008./ncn
+
+10.
+	10./nnc
+
+24
+	24/nnc
+
+.
+	./sf
+
+
+금~11.
+	금/ncn+~/sd+11./nnc
+
+2
+	2/nnc
+
+.
+	./sf
+
+
+일)에
+	일/nnc+)/sr+에/jca
+
+다녀왔어요~~
+	다니/pvg+어/ecx+오/px+아/ep+아/ef+~/sd+~/sd
+
+
+축제
+	축제/ncn
+
+첫날인데
+	첫/nno+날/nbu+이/jp+ㄴ데/ecs
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+정말
+	정말/mag
+
+많더군요~~
+	많/paa+더군/ef+요/jxf+~/sd+~/sd
+
+
+작년
+	작년/ncn
+
+대구수목원
+	대구/ncn+수목원/ncn
+
+국화특별전에서
+	국화/ncn+특별전/ncn+에서/jca
+
+이미
+	이미/mag
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+국화는
+	국화/ncn+는/jxc
+
+접했던
+	접하/pvg+었/ep+던/etm
+
+터라
+	터/nbn+이/jp+라/ecs
+
+국화자체보다는
+	국화/ncn+자체/ncn+보다/jca+는/jxc
+
+바다와
+	바다/ncn+와/jcj
+
+국화가
+	국화/ncn+가/jcs
+
+함께
+	함께/mag
+
+한다는
+	하/px+ㄴ다/ef+는/etm
+
+것이
+	것/nbn+이/jcc
+
+더
+	더/mag
+
+흥미로웠어요~~
+	흥미/ncn+롭/xsmn+었/ep+어요/ef+~/sd+~/sd
+
+
+주말부터는
+	주말/ncn+부터/jxc+는/jxc
+
+엄청
+	엄청/mag
+
+붐빌텐데요~~
+	붐비/paa+ㄹ텐데요/ef+~/sd+~/sd
+
+
+즐거운
+	즐겁/paa+은/etm
+
+나들이
+	나들이/ncpa
+
+되세요~~^^
+	되/nbu+이/jp+세요/ef+~/sd+~/sd+^/sy+^/sy
+
+
+더
+	더/mag
+
+자세한
+	자세/ncn+한/ncn
+
+내용은
+	내용/ncn+은/jxc
+
+제가
+	저/npp+가/jcs
+
+구례여행을
+	구례여행/ncn+을/jco
+
+다녀온
+	다니/pvg+어/ecx+오/px+ㄴ/etm
+
+뒤에
+	뒤/ncn+에/jca
+
+.....
+	./sy+.../se+./sy
+
+....
+	.../se+./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+**대구에서
+	*/sy+*/sy+대구/ncn+에서/jca
+
+시외버스터미널을
+	시외버스터미널/ncn+을/jco
+
+타실분들을
+	타실분들/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+조언을
+	조언/ncpa+을/jco
+
+드리자면
+	드리/pvg+자면/ecs
+
+.....
+	./sy+.../se+./sy
+
+.....
+	./sy+.../se+./sy
+
+...
+	.../se
+
+
+서부정류장에서
+	서부/ncn+정류장/ncn+에서/jca
+
+마산행(30분
+	마산행(30분/ncn
+
+간격
+	가/px+ㄴ/etm+격/nbn
+
+5,900원
+	5,900/nnc+원/nbu
+
+1시간
+	1/nnc+시간/nbu
+
+10분소요)을
+	10분소요)/ncn+을/jco
+
+타시구요~~
+	타/xp+시구/ncn+요/ncn+~/sd+~/sd
+
+
+남마산행이
+	남마산행/ncn+이/jcc
+
+마산여객터미널과는
+	마산여객터미널/ncn+과/jct+는/jxc
+
+더
+	더/mag
+
+가깝지만
+	가깝/paa+지/ecx+말/px+ㄴ/etm
+
+시간
+	시간/nbu
+
+텀이
+	털/pvg+ㅁ/etn+이/jcs
+
+너무
+	너무/mag
+
+깁니다
+	길/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+마산시외버스터미널에서
+	마산시외버스터미널/ncn+에서/jca
+
+택시를
+	택시/ncn+를/jco
+
+타셔도
+	타/pvg+시/ep+어도/ecs
+
+되지만
+	되/pvg+지/ecx+말/px+ㄴ/etm
+
+비용이
+	비용/ncn+이/jcc
+
+만만치
+	만/nnc+만/nnc+치/nbu
+
+않으니까
+	않/paa+으니까/ecc
+
+
+지하도
+	지하/ncn+도/jxc
+
+건너서
+	건너/pvg+어서/ecs
+
+경남대
+	경남대/ncn
+
+방향
+	방향/ncn
+
+버스(25분
+	버스(25분/ncn
+
+이상소요)가
+	이상/ncn+소요/ncpa+)/sr+가/jcc
+
+많으니까
+	많/paa+으니까/ecs
+
+그
+	그/mmd
+
+중
+	중/nbn
+
+아무거나
+	아무/npd+이/jp+거나/ecc
+
+타시고
+	타/pvg+시/ep+고/ecc
+
+중부경찰서에서
+	중부경찰서/ncn+에서/jca
+
+하차
+	하차/ncn
+
+하세요~~
+	하세/ncpa+요/ncn+~/sd+~/sd
+
+
+중부경찰서에서
+	중부경찰서/ncn+에서/jca
+
+5분
+	5/nnc+분/nbu
+
+거리인데요,
+	거리인데요,/ncn
+
+내리자마자
+	내리/pvg+자마자/ecs
+
+버스진행방향으로
+	버스/ncn+진행방향/ncn+으로/jca
+
+응시하면
+	응시/ncpa+하/xsva+면/ecs
+
+도미노피자
+	도미노/ncn+피/ncn+이/jp+자/ecc
+
+파란간판이
+	파란/ncn+간판/ncn+이/jcc
+
+보일거예요~~
+	보일거/ncn+이/jp+예요/ef+~/sd+~/sd
+
+
+그
+	그/mmd
+
+골목으로
+	골목/ncn+으로/jca
+
+쭈욱
+	쭈욱/mag
+
+들어가시면
+	들/pvg+어/ecx+가/px+시/ep+면/ecs
+
+분주하게
+	분주/ncps+하/xsms+게/ecs
+
+움직이는
+	움직이/pvg+는/etm
+
+행사요원들이
+	행사/ncpa+요원/ncn+들/ncn+이/jcc
+
+보일겁니다
+	보이/pvg+ㄹ/etm+것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy

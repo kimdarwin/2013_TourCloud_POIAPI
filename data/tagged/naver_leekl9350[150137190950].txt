@@ -1,0 +1,282 @@
+아파트
+	아파트/ncn
+
+10층
+	10/nnc+층/nbu
+
+거실에서
+	거실/ncn+에서/jca
+
+내려다
+	내리/pvg+어다/ecs
+
+보이는
+	보이/pvg+는/etm
+
+산에
+	산/ncn+에/jca
+
+핀
+	피/pvg+ㄴ/etm
+
+벚꽃입니다
+	벚꽃/ncn+이/jp+ㅂ니다/ef
+
+
+비를
+	비/ncn+를/jco
+
+맞으며
+	맞/pvg+으며/ecc
+
+아직은
+	아직/mag+은/jxc
+
+한창
+	한창/mag
+
+피고
+	피/ncn+이/jp+고/ecc
+
+있는꽃이라
+	있는꽃/ncn+이/jp+라/ecs
+
+꽃잎이
+	꽃잎/ncn+이/jcc
+
+쉽게
+	쉽/paa+게/ecs
+
+떨어지지는
+	떨어지/pvg+지/ecs+는/jxc
+
+않는군요
+	않/paa+는군요/ef
+
+
+숲속엔
+	숲속/ncn+엔/jca
+
+벌써
+	벌써/mag
+
+나뭇잎들이
+	나뭇잎/ncn+들/ncn+이/jcc
+
+제법
+	제법/mag
+
+자랐지요
+	자르/pvg+아/ep+지/ef+요/jxf
+
+?
+	?/sf
+
+
+비가
+	비/ncn+가/jcs
+
+많이
+	많/paa+이/xsa
+
+올때는
+	오/px+ㄹ/etm+때/nbn+는/jxc
+
+유리창을
+	유리/ncn+창/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+벚꽃의
+	벚꽃/ncn+의/jcm
+
+또다른
+	또다른/mma
+
+모습도
+	모습/ncn+도/jxc
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있군요
+	있/paa+군요/ef
+
+
+베란다에는
+	베란다/ncn+에/jca+는/jxc
+
+우리집에
+	우리집/ncn+에/jca
+
+들어온지
+	들/pvg+어/ecx+오/px+ㄴ지/ecs
+
+7년쯤
+	7/nnc+년/nbu+쯤/xsnx
+
+된
+	되/pvg+ㄴ/etm
+
+으아리가
+	으아리/ncn+가/jcs
+
+화분에서
+	화분/ncn+에서/jca
+
+꽃을
+	꽃/ncn+을/jco
+
+피웠습니다
+	피우/pvg+었/ep+습니다/ef
+
+
+시골
+	시골/ncn
+
+장독대에
+	장독대/ncn+에/jca
+
+많이
+	많/paa+이/xsa
+
+피는
+	피/pvg+는/etm
+
+꽃이라는데
+	꽃/ncn+이/jp+라는데/ecs
+
+나물로도
+	나물/ncn+로/jca+도/jxc
+
+먹는다고
+	먹/pvg+는다/ef+고/jcr
+
+하더라구요
+	하/pvg+더라구/ef+요/jxf
+
+
+꽃이
+	꽃/ncn+이/jcc
+
+아름다워서
+	아름답/paa+어서/ecs
+
+화원에서
+	화원/ncn+에서/jca
+
+사왔는데
+	사/pvg+아/ecx+오/px+아/ep+ㄴ데/ecs
+
+겨울을
+	겨울/ncn+을/jco
+
+잘
+	잘/mag
+
+지내고
+	지내/pvg+고/ecc
+
+매년
+	매년/mag
+
+봄이되면
+	봄이되/ncn+이/jp+면/ecs
+
+덩굴에서
+	덩굴/ncn+에서/jca
+
+새싹이
+	새싹/ncn+이/jcc
+
+나와서
+	나오/pvg+아/ecx
+
+이렇게
+	이렇/pad+게/ecs
+
+
+꽃을
+	꽃/ncn+을/jco
+
+피워줍니다
+	피우/pvg+어/ecx+줄/px+ㅂ니다/ef
+
+
+이제
+	이제/mag
+
+막
+	막/mag
+
+핀
+	피/pvg+ㄴ/etm
+
+꽃이라
+	꽃/ncn+이/jp+라/ecs
+
+자주빛이
+	자주/ncn+빛/ncn+이/jcc
+
+덜한데요
+	덜한데요/ncn
+
+좀
+	좀/mag
+
+지나면
+	지나/pvg+면/ecs
+
+진한
+	지/px+ㄴ/etm+한/nbn
+
+자줏빛
+	자줏빛/ncn
+
+꽃이
+	꽃/ncn+이/jcc
+
+된답니다
+	되/paa+ㄴ답니다/ef
+
+
+하염없이
+	하염없/paa+이/xsam
+
+비가
+	비/ncn+가/jcs
+
+내리는군요
+	내리/pvg+는군요/ef
+
+
+저녁엔
+	저녁/ncn+엔/jca
+
+창경궁에
+	창경궁/ncn+에/jca
+
+가보려고
+	가/pvg+아/ecx+보/px+려고/ecs
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+.....
+	./sy+.../se+./sy
+
+.....
+	./sy+.../se+./sy
+
+.....
+	./sy+.../se+./sy
+
+....
+	.../se+./sf

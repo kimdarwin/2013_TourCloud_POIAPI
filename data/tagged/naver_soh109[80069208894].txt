@@ -1,0 +1,142 @@
+충장로
+	충장로/ncn
+
+중심가쪽
+	중심가/ncn+쪽/ncn
+
+..
+	./sf+./sf
+
+
+파레스
+	파레스/ncn
+
+호텔
+	호텔/ncn
+
+2층에
+	2/nnc+층/nbu+에/jca
+
+있는
+	있/px+는/etm
+
+..
+	./sf+./sf
+
+
+어부
+	어부/ncn
+
+만복이~
+	만복/ncn+이/jcc+~/sd
+
+!!
+	!/sf+!/sf
+
+
+에서의
+	에/pvg+어/ecs+서의/jxc
+
+회식~
+	회식/ncpa+~/sd
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+^^
+	^/sy+^/sy
+
+
+오징어
+	오징어/ncn
+
+초무침
+	초무침/ncn
+
+
+'복'요리이닷~
+	'복'요리이닷~/ncn
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+통통하뉘~~
+	통통하뉘~~/ncn
+
+쫄깃~
+	쫄깃~/ncn
+
+쫄깃~
+	쫄깃~/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+횟감
+	횟감/ncn
+
+
+어찌나
+	어찌/mag+나/jxc
+
+크던지~~~
+	크/paa+던/etm+지/nbn+~/sd+~/sd+~/sd
+
+
+치킨샐러드
+	치킨/ncn+샐러드/ncn
+
+
+사장뉨
+	사장뉨/ncn
+
+칭구분이
+	칭구분/ncn+이/jcc
+
+하능
+	하능/ncn
+
+곳이라구
+	곳/ncn+이/jp+라구/ef
+
+..
+	./sf+./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+정식으로
+	정식/ncn+으로/jca
+
+..
+	./sf+./sf
+
+
+주문해서
+	주문/ncn+해서/ncn
+
+먹었쥐~~
+	먹었쥐/ncn+~/sd+~/sd
+
+
+마시쪄~~~~~
+	마시쪄~~~~~/ncn
+
+~~~
+	~/sd+~/sd+~/sd
+
+쿄쿄쿄
+	쿄쿄쿄/ncn
+
+
+Canon
+	Canon/f
+
+PowerShot
+	PowerShot/f
+
+G10
+	G10/ncn

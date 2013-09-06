@@ -1,0 +1,33 @@
+Title:
+7/22 문경새재 트레킹 후기
+
+Date:
+2012.07.22
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(267951,'files/attach/images/64/344/235/9e93101438821b7f305cdea143a66faa.jpg');
+list_gallery_add_image(267951,'files/attach/images/64/344/235/a07db15a30313af9309573986c2c27da.jpg');
+list_gallery_add_image(267951,'files/attach/images/64/344/235/46ba5d7a88033185bddc98726ac6ec94.jpg');
+list_gallery_add_image(267951,'files/attach/images/64/344/235/73e7cff38db793c166578be170f7f98b.jpg');
+list_gallery_add_image(267951,'files/attach/images/64/344/235/3835e309fad26a16abe21d86b5f01e34.jpg');
+list_gallery_add_image(267951,'files/attach/images/64/344/235/b93f2a4efb3dd7251aad20a1dd012440.jpg');
+list_gallery_add_image(267951,'files/attach/images/64/344/235/6d7aa48a8494b62280ecb83fb72e35de.jpg');
+list_gallery_add_image(267951,'files/attach/images/64/344/235/73b36b5c9bb89741df9d8658f903ac4f.jpg');
+list_gallery_add_image(267951,'files/attach/images/64/344/235/22d3f0100cdfb904a6ed33f81108c956.jpg');
+list_gallery_add_image(267951,'files/attach/images/64/344/235/9017890585c2687d1accdf2c3686a12b.jpg');
+list_gallery_add_image(267951,'files/attach/images/64/344/235/3853a38b7f32e2ef50544560a523884b.jpg');
+list_gallery_add_image(267951,'files/attach/images/64/344/235/1c762a5f6f4cb4f15640e70e102df3bb.jpg');
+list_gallery_add_image(267951,'files/attach/images/64/344/235/c0a50957449f929b9098466b3b156099.jpg');
+list_gallery_add_image(267951,'files/attach/images/64/344/235/efb8ded2a566229d9d6de5edbeaeb20f.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+7월 22일(일) 아름다운 여행으로 문경새재 트레킹을 다녀왔습니다.
+아침부터 오락가락 비가 내리는 일요일, 경북 문경으로 가는 도중에는 변화무쌍한 날씨와 함께 떠난 여행이었습니다. 어느 곳에서는 비가 내리다가 또 어느 곳에서는 해가 뜨다가…. 일기예보에는 소나기만 한때 내릴 것이라고 했는데 아예 본격적으로 비가 내리고 문경새재 트레킹의 시작점인 괴산 방면 문경새재 3관문이 있는 고사리마을에서는 우산을 쓰고 걷기 시작하였습니다. 그 시각 비는 쉬이 그칠 것 같지 않았습니다. 하지만 요사이 날씨가 워낙 더워서 그런지 내리는 비가 시원하여 싫지는 않더군요.
+문경새재 트레킹은 약 10km 구간으로 제1관문이 있는 경북 문경에서 제3관문이 있는 충북 괴산으로 이어진 고개입니다. 날던 새도 쉬어간다는 새재는 비록 비가 내리는 날이지만 걷기에는 큰 불편함이 없기에 우산을 쓰고 맘 편히 우중 산책을 즐겼습니다.
+일반적으로 이 새재 걷기는 경북 문경에서 시작하여 충북 괴산으로 넘는 길을 택하지만 괴산에서 문경으로 넘어가면 제 3관문까지는 약간의 오르막이지만 그 후로는 평탄한 내리막이라 걷기에도 수월하고 혼잡함도 피할 수 있기 때문이죠.
+어느 정도 걷다 보니 비도 차츰 잦아들어 우산을 접고 걷기 시작하는데 그제서야 거침없는 계곡소리가 들려옵니다. 날이 가물 때에는 거의 계곡소리를 들을 수 없었는데 비가 내리는 날의 덕을 보기도 하네요.
+이곳 문경새재는 걷는 구간에 볼거리도 꽤 다양합니다. 조선시대에 경상감사가 업무 인수인계를 하던 교귀정을 비롯해 제1관문을 벗어나 주차장으로 가는 길에 있는 사극 촬영장, 생태공원 그리고 새재박물관 등이 있어 걷기를 빨리 마친 후에도 시간을 보내기에 지루함은 없는 곳입니다.
+이 문경새재는 가을 단풍도 꽤나 유명한 곳입니다. 화사하지는 않아도 수더분한 붉은 단풍이 좋은 곳이어서 다음에 또 기회가 되신다면 가을 단풍 트레킹도 한번 미리 계획해 보시기 바랍니다.
+걷기 초반에는 비가 내려 내심 걱정이었지만 차츰 비가 잦아들고 걷기에 너무 덥지 않은 알맞은 날씨여서 이번 근교 트레킹 코스도 마음에 드셨으면 싶습니다. 그리고 무엇보다 경상북도 문경만 해도 서울과 그리 멀지 않아서 오가는 이동 시간이 짧아 일요일이지만 부담이 없었던 것 같습니다. 
+이번 문경새재 트레킹에 참여하신 회원분들 모두 우중에 트레킹 하시느라 수고 많으셨구요. 여행 피로 빨리 털어내시고 내일부터 시작되는 한주도 활기차게 맞이하시기 바랍니다~이 게시물을...

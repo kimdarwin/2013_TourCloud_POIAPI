@@ -1,0 +1,124 @@
+다른동
+	다른동/ncn
+
+아파트앞
+	아파트/ncn+앞/ncn
+
+출입구에서
+	출입구/ncn+에서/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+산딸나무
+	산딸나무/ncn
+
+
+우리아파트
+	우리/ncn+아파트/ncn
+
+출입구엔
+	출입구/ncn+엔/jca
+
+감나무만
+	감나무/ncn+만/jxc
+
+심어져있는데
+	심/pvg+어/ecx+지/px+어/ecx+있/px+는데/ecs
+
+
+남의
+	남/ncn+의/jcm
+
+떡이
+	떡/ncn+이/jcc
+
+더
+	더/mag
+
+커보인다고
+	크/paa+어/ecx+보이/px+ㄴ다고/ecs
+
+
+늘
+	늘/mag
+
+차로만
+	차/ncn+로/jca+만/jxc
+
+다니던
+	다니/pvg+던/etm
+
+길을
+	길/ncn+을/jco
+
+오늘은
+	오늘/ncn+은/jxc
+
+산책하며
+	산책/ncpa+하/xsva+며/ecc
+
+돌아오는길
+	돌아오는길/ncn
+
+
+아파트사이로
+	아파트/ncn+사이/ncn+로/jca
+
+걸어오다보니
+	걸어오다보니/ncn
+
+산딸나무,
+	산딸나무,/ncn
+
+오미자,
+	오미자,/ncn
+
+대추나무가
+	대추나무/ncn+가/jcs
+
+아파트출입구마다
+	아파트/ncn+출입구/ncn+마다/jxc
+
+다양하다
+	다양/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+산딸나무의
+	산딸나무/ncn+의/jcm
+
+화려하고
+	화려/ncps+하고/jct
+
+단아한
+	단아/ncps+하/xsms+ㄴ/etm
+
+모양새의
+	모양/ncn+새/ncn+의/jcm
+
+사랑스런
+	사랑/ncn+스런/jcm
+
+꽃을
+	꽃/ncn+을/jco
+
+보고
+	보/px+고/ecc
+
+계절을
+	계절/ncn+을/jco
+
+보냈을
+	보내/pvg+었/ep+을/etm
+
+이웃이
+	이웃/ncpa+이/jcc
+
+부러워진다
+	부럽/paa+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf

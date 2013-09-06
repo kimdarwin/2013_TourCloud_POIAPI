@@ -1,0 +1,181 @@
+Title:
+포천산정호수 
+
+Date:
+2012.08.27 07:23
+
+Content:
+
+위 치:경기도 포천시 영북면 산정호수로402[산정리194] 문의:031]540~6350
+산정호수는 1925년에 농업용수로 이용하기 위해 축조된 저수지이며 1977년에 국민관광지로
+지정되어 연간100만명이 넘은 관광객이 즐겨찾는 관광지로 평풍과 같은 웅장한 명성산을 중심으로
+호수 양 옆에는 망봉산과 망무봉을 끼고있다.
+
+서울에서 멀지안은곳에 가족들과 하루를 즐길수있는 곳산과호수의 정취를 만끽할수 있으며 명성산
+정상부근에는 완만한 경사를 이룬 억새풀밭지대로 10월이되면 호수의 잔잔한 물빛과 정상부근의 드넓은 초원의 억새풀이 어우러져 늦가을의 정취를 한껏 더한다 [억새꽃 축제 매년10월 둘째주]
+
+비당향우회
+
+호수주변에 있는 명성산는 높이923m로 신라 마의태자가 망국의 한을 품고 목놓아 울었고
+궁예가 망국의 슬품을 산기슬에서 터뜨린 통곡이 산천을 울렸다는 전설때문에 울음산으로도
+불린다고 합니다
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/08/27/611/031013239476835182A34B83B3595B83783_deogjang_480P_01_16x9_logo.jpg';
+	layout.playtime = '319.79';
+	var qsParam = {};
+	qsParam.vid = 'B383757825979EF93BE326AE0E820EF3DC32';
+	qsParam.inKey = 'V1242d3f0536aa30e6161548a48d3de81717a84e9fa1f434f6b3735ac6fa051559bb2548a48d3de81717a';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = 'MUSIC';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_03249 = new VideoInfraUGCPlayer('ugcPlayer_03249' ,bean); 
+ugcPlayer_03249.drawPlayLayer(); 
+}
+
+ 
+ 
+ 
+내고향친목회 선 후배님들 노래동영상 입니다 
+오랜만에 매어놓은 몸과 마음을 풀어놓은 하루가 되셨습니까? 
+[노래평은 사양하겠습니다] 
+ 
+
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/08/27/706/031023239166535E88C3C94E73949CD3A01_deogjang_480P_01_16x9_logo.jpg';
+	layout.playtime = '388.56';
+	var qsParam = {};
+	qsParam.vid = 'F0217DCB7D1F82C831A1A26D7F39FD5EFBC1';
+	qsParam.inKey = 'V1215036732edd008ba68c0889b4601893b4fb92d30f8980a6a18cf06aba2d2b9b4bcc0889b4601893b4f';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_01742 = new VideoInfraUGCPlayer('ugcPlayer_01742' ,bean); 
+ugcPlayer_01742.drawPlayLayer(); 
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/08/27/689/03101323948683512AA37B22D37961B33A4_deogjang_480P_01_16x9_logo.jpg';
+	layout.playtime = '494.069';
+	var qsParam = {};
+	qsParam.vid = '3180A351CC5BA3838B03DA0B300A64198F86';
+	qsParam.inKey = 'V125a179d0deb01c2526b06b4eebb6772caa5bbc9624635bce9ea5af5b5575fb37ead06b4eebb6772caa5';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_01011 = new VideoInfraUGCPlayer('ugcPlayer_01011' ,bean); 
+ugcPlayer_01011.drawPlayLayer(); 
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/08/28/1616/03101323948683B189A3FB7DB3796383888_deogjang_480P_01_16x9_logo.jpg';
+	layout.playtime = '312.259';
+	var qsParam = {};
+	qsParam.vid = '1DF2931462EBD3564002909DE1F3D56A1DE7';
+	qsParam.inKey = 'V12309f0af216096f71daf7657ee84d821e33d929f35ce1dba1b39a2fad62f391f20af7657ee84d821e33';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_05195 = new VideoInfraUGCPlayer('ugcPlayer_05195' ,bean); 
+ugcPlayer_05195.drawPlayLayer(); 
+}
+
+ 
+선 후배님들 즐거운하루 보내셨나요 
+항상 건강들 하시고 하고자 하는일 성취하시기 바랍니다 
+회장 총무님 무더운날씨에 수고많이 하셨습니다 
+
+
+
+
+	

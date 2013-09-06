@@ -1,0 +1,31 @@
+Title:
+2/11 무등산 눈꽃 산행 후기
+
+Date:
+2012.02.12
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(583470,'files/attach/images/64/926/200/9eb84e303b89f30aedbcaeb9d799ab64.jpg');
+list_gallery_add_image(583470,'files/attach/images/64/926/200/76118829bf8446a1feeb972fe6864899.jpg');
+list_gallery_add_image(583470,'files/attach/images/64/926/200/09ff7cb8de825dd9137d377016440898.jpg');
+list_gallery_add_image(583470,'files/attach/images/64/926/200/61895ed46d41f66212d1719bb67b0a5e.jpg');
+list_gallery_add_image(583470,'files/attach/images/64/926/200/2bfd1d5c9806ea68192a28012c3bec00.jpg');
+list_gallery_add_image(583470,'files/attach/images/64/926/200/311368ef16cfff8fb2a5cbe12f6cf64d.jpg');
+list_gallery_add_image(583470,'files/attach/images/64/926/200/f921d44e68465612add98e6c410e8ee4.jpg');
+list_gallery_add_image(583470,'files/attach/images/64/926/200/ecb04a772e235ed7b68f7b0da0fdc91f.jpg');
+list_gallery_add_image(583470,'files/attach/images/64/926/200/8b6bebfbdd81799cfe2800bf5c531f76.jpg');
+list_gallery_add_image(583470,'files/attach/images/64/926/200/f6464c4689527339d3dc013868559163.jpg');
+list_gallery_add_image(583470,'files/attach/images/64/926/200/d210807f11d412285de49137853fc2b5.jpg');
+list_gallery_add_image(583470,'files/attach/images/64/926/200/4fce40bd25d664e8be7a0ae73720d0d6.jpg');
+list_gallery_add_image(583470,'files/attach/images/64/926/200/bab7eaaa8121b61da6abb1ce4b30d8f4.jpg');
+list_gallery_add_image(583470,'files/attach/images/64/926/200/1f1e458440149b9817862e1154fa967e.jpg');
+list_gallery_add_image(583470,'files/attach/images/64/926/200/79df2524e7b31fa9b6e45c2b001e5f76.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+2월 11일(토), 거북이 산행으로 무등산에 다녀왔습니다. 무등산은 광주광역시와 담양 화순에 걸쳐 있는 산으로, 전라남도를 대표하는 명산 중의 하나입니다. 산이 커서 산행 코스도 여러 곳이 있습니다. 이번 산행은 원효사 입구에서 출발해 무등산 옛길을 따라 서석대로 오른 뒤 임도를 따라 내려오는 코스로 산행을 했습니다. 총 거리가 대략 10km 정도 되는 거리입니다.
+이번 산행은 코스도 긴 편이지만 코스보다는 추위가 걱정이었습니다. 여행 전 며칠 간 강추위가 몰아쳐서 전국이 꽁꽁 얼어 있었죠. 이런 강추위 속에서의 산행은 이런저런 부담이 따르게 됩니다. 하지만 다행히 이 날 무등산은 그리 춥진 않았습니다.
+원효사에서 무등산 옛길을 따라 서석대로 오르는 길은 자연 그대로의 깊은 숲길입니다. 겨울이어서 조금 썰렁한 느낌도 있었지만, 깊은 숲의 정취가 느껴지더군요. 계속 완만한 오르막이 이어지다가 서석대 아래 약 1km 지점에서부터는 경사가 심해지는 길이어서, 이 코스가 좀 힘들게 느껴지셨던 분들도 계셨으리라 생각됩니다. 
+하지만 서석대 정상에 가까이 다가가자 나뭇가지 위에서 하얗게 빛나는 눈꽃들이 나타나더군요. 그리고 서석대가 가까워질수록 눈꽃들이 더 화사해져서 이 날 산행은 예쁜 눈꽃을 실컷 보고 온 산행이 되었습니다. 날씨가 좋아 하늘도 파랗게 열려서 파란 하늘을 배경으로 곱게 수놓아진 눈꽃이 정말 신비롭더군요. 서석대와 입석대는 특이하게도 산 정상에 있는 주상절리입니다. 눈꽃 길을 걸어 이 두 개의 주상절리를 돌아보고 임도를 따라 산을 내려왔습니다.
+이 날 산행은 기대했던 것보다 훨씬 기분 좋은 산행이었습니다. 날이 춥지도 않았고 하늘은 깨끗했고 화사한 눈꽃을 마음껏 볼 수 있었습니다. 겨울 산행에서 이 정도를 누렸으면 아주 만족스러웠던 산행이 아니었나 싶습니다. 이번 산행에 참가하신 분들에게도 오래 기억에 남을 산행이었으리라 생각됩니다. 이번 산행에 참여하신 분들 모두 휴일에 산행의 피로 잘 푸시고 활기차게 월요일을 맞으시기 바랍니다~
+이 게시물을...

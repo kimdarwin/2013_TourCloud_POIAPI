@@ -1,0 +1,424 @@
+매주
+	매주/mag
+
+화요일
+	화요일/ncn
+
+무슨일이
+	무슨일/ncn+이/jcc
+
+있어도
+	있/paa+어도/ecs
+
+
+가족이
+	가족/ncn+이/jcc
+
+함께
+	함께/mag
+
+모여
+	모이/pvg+어/ecx
+
+저녁식사를
+	저녁식사/ncpa+를/jco
+
+하는
+	하/pvg+는/etm
+
+날
+	날/nbu
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+함박스테이크를만들어
+	함박스테이크를만들어/ncn
+
+먹기로
+	먹/pvg+기/etn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+울
+	울/pvg+ㄹ/etm
+
+딸은
+	딸/ncn+은/jxc
+
+야채를
+	야채/ncn+를/jco
+
+손질하고
+	손질/ncpa+하고/jcj
+
+
+울
+	울/pvg+ㄹ/etm
+
+아들은
+	아들/ncn+은/jxc
+
+감자,
+	감/pvg+자/ecc+,/sp
+
+계란
+	계란/ncn
+
+를
+	를/ncn
+
+삶아
+	삶/pvg+아/ecx
+
+으깨고
+	으깨/ncn+이/jp+고/ecc
+
+계란
+	계란/ncn
+
+후라이를
+	후라이/ncn+를/jco
+
+하고
+	하/pvg+고/ecc
+
+
+울
+	울/pvg+ㄹ/etm
+
+아내는
+	아내/ncn+는/jxc
+
+오븐과
+	오븐/ncn+과/jcj
+
+데코레이션
+	데코레이션/ncn
+
+담당
+	담당/ncpa
+
+
+난
+	나/px+ㄴ/etm
+
+고기
+	고/ncn+이/jp+기/etn
+
+반죽
+	반죽/ncpa
+
+
+만드는
+	만들/pvg+는/etm
+
+방법과
+	방법/ncn+과/jcj
+
+재료
+	재료/ncn
+
+는
+	늘/pvg+ㄴ/etm
+
+?
+	?/sf
+
+
+함박재료는
+	함박/ncn+재료/ncn+는/jxc
+
+
+소고기
+	소고/ncn+이/jp+기/etn
+
+반근,
+	반근,/ncn
+
+돼지고기
+	돼지고기/ncn
+
+반근,
+	반근,/ncn
+
+양파2개
+	양파2개/ncn
+
+다져서
+	다지/pvg+어서/ecs
+
+,
+	,/sp
+
+빵가루(가능하면
+	빵가루(가능하/ncn+이/jp+면/ecs
+
+제과점식빵을
+	제과점/ncn+식빵/ncn+을/jco
+
+사다
+	사/pvg+아/ecx
+
+갈어
+	갈/pvg+아/ecs
+
+
+서
+	서/pvg+어/ecx
+
+사용)마늘도5개
+	사용)마늘도5개/ncn
+
+다지고,
+	다지/pvg+고/ecc+,/sp
+
+후추,소금를
+	후추/ncn+,/sp+소금/ncn+를/jco
+
+사정없이
+	사정없이/mag
+
+넣고
+	넣/pvg+고/ecc
+
+비빈
+	비비/pvg+ㄴ/etm
+
+다음
+	다음/ncn
+
+동그랗게
+	동그랗/paa+게/ecs
+
+만든다
+	만들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+삶은감자에
+	삶은감자/ncn+에/jca
+
+
+계란
+	계란/ncn
+
+삶은것과
+	삶/pvg+은/etm+것/nbn+과/jcj
+
+마요네즈,
+	마요네즈/ncn+,/sp
+
+홍당무,
+	홍당무/ncn+,/sp
+
+소금,
+	소금/ncn+,/sp
+
+후추이것
+	후추이것/ncn
+
+역시
+	역시/mag
+
+사정없이
+	사정없이/mag
+
+비빈
+	비비/pvg+ㄴ/etm
+
+후
+	후/ncn
+
+함박고기와
+	함박/ncn+고/ncn+이/jp+기/etn+와/jcj
+
+동일
+	동일/ncps
+
+
+한
+	하/pvg+ㄴ/etm
+
+사이즈로동그랗게
+	사이즈로동그랗/ncn+게/jca
+
+만든다
+	만들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+(
+	(/sl
+
+맛있게
+	맛있/paa+게/ecs
+
+만들어
+	만들/pvg+어/ecx
+
+볼
+	보/pvg+ㄹ/etm
+
+생각에
+	생각/ncpa+에/jca
+
+울
+	울/pvg+ㄹ/etm
+
+아들
+	아들/ncn
+
+보크라이스를
+	보크라이스/ncn+를/jco
+
+넣어서
+	넣/pvg+어서/ecs
+
+
+맛이~~~
+	맛/ncn+이/jcc+~/sd+~/sd+~/sd
+
+)
+	)/sr
+
+
+소스는
+	소스/ncn+는/jxc
+
+
+스테이크
+	스테이크/ncn
+
+소스와
+	소스/ncn+와/jcj
+
+굴소스를
+	굴소스/ncn+를/jco
+
+1:1로
+	1/nnc+:/sp+1/nnc+로/jca
+
+배합하여
+	배합/ncpa+하/xsva+어/ecx
+
+끓인다
+	끓이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+접시에
+	접시/ncn+에/jca
+
+담을때
+	담/pvg+을/etm+때/nbn
+
+
+1번타자
+	1/nnc+번타자/nbu
+
+감자를
+	감자/ncn+를/jco
+
+그
+	그/mmd
+
+위에2번타자
+	위에2번타자/ncn
+
+함박고기(오븐에
+	함박/ncn+고/ncn+이/jp+기/etn+(/sl+오븐/ncn+에/jca
+
+구워낸)를
+	굽/pvg+어/ecx+내/px+ㄴ/etm+)/sr+를/jco
+
+3번타자
+	3/nnc+번타자/nbu
+
+계란
+	계란/ncn
+
+후라이를
+	후라이/ncn+를/jco
+
+4번
+	4/nnc+번/nbu
+
+
+타자
+	타/pvg+자/ecc
+
+소스를
+	소스/ncn+를/jco
+
+뿌리고
+	뿌리/ncn+이/jp+고/ecc
+
+야채와
+	야채/ncn+와/jct
+
+함께
+	함께/mag
+
+장식한다
+	장식/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+우린
+	우/ncn+이/jp+리/ep+ㄴ/etm
+
+이렇게
+	이렇/pad+게/ecs
+
+맛있는
+	맛있/paa+는/etm
+
+저녁을
+	저녁/ncn+을/jco
+
+온가족이
+	온가족/ncn+이/jcc
+
+함께
+	함께/mag
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+하루
+	하루/ncn
+
+
+우리
+	우리/npp
+
+가족
+	가족/ncn
+
+화이팅
+	화이팅/ncn
+
+~~~~~
+	~/sd+~/sd+~/sd+~/sd+~/sd

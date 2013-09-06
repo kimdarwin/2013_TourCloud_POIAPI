@@ -1,0 +1,40 @@
+Title:
+5/12 학원농장과 편백숲 걷기 여행 후기
+
+Date:
+2012.05.12
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(407178,'files/attach/images/64/485/217/230e1e3a8545f6eabf1ba9cd142d3d39.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/898fd033828097474d0a1eafb4e2b3b6.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/4835f0a433ccbfda3e95711fb223da58.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/8cb37a7ca35c887792ef25a88977a29e.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/b1526490bd9e70a3d3b65e171fabd906.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/087967fa5f0621bc63045a746f361802.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/cae5d18042d5f25bcd67559484391437.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/79f20877e9c54d6edd2a48cbdaef5e45.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/61d5ce3fc9ae89d6a2fecf669fe4cb69.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/3980b183db446f4739b1c9c1ad23cdb9.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/efb0146bab38993c396c2da2ed557a88.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/f295b860f7f67f8f23b14b0ce5062749.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/58901a67ce0f2269e5908cf5c625bcd0.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/69eae464b5d0f78d3fa74a2bbe8617e3.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/acfb7887118bb9abcf45f64592d2ded8.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/e222f2c69787e12ca753985749f01862.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/62ad215b3c8d0d954bd9c2f4ac63494b.jpg');
+list_gallery_add_image(407178,'files/attach/images/64/485/217/84814526dacf568a82a316f53c506ff7.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 5월 12일(토) 고창 학원농장과 장성 편백숲에 다녀왔습니다.
+고창 학원농장은 요맘때 푸른 청보리로 볼거리를 제공합니다. 그 넓은 농장을 가득 메운 청보리를 보는 것만으로도 눈과 마음이 한껏 맑아지는 느낌이죠. 
+4월부터 청보리 축제를 시작하여 이번 주말까지 축제 중이지만 많이 붐비지 않아 풍경 감상을 하기에도 그리고 청보리밭 사잇길을 따라 걷기에도 한적하였습니다. 더구나 오늘은 하늘이 약간 흐려서 너무 덥지 않아서 청보리밭을 돌아보기에 좀더 수월했네요.
+한 6월 중순경이 되면 이 청보리는 모두 베어내고 메밀을 파종할 것입니다. 그러면 9월쯤에는 하얀 메밀꽃이 피어나겠죠. 그때의 풍경도 예뻐서 청보리밭 여행을 놓친 분들은 가을 메밀꽃 여행을 기다리셔도 좋을 거예요.
+점심식사는 무장면소재지에 있는 옥돌식당에서 소고기비빔밥으로 식사를 하고 장성 편백숲으로 향했습니다.
+축령산 자락 임도는 여러 갈래길이 있습니다. 그중 편백숲 걷기는 추암리에서 시작하여 금곡영화마을로 이어지는 약 7km를 걸었습니다.
+4월 편백숲과 확연히 달라진 숲을 볼 수 있었습니다. 푸르게 돋아난 편백잎으로 빼곡한 숲은 더없이 울창하고 향긋한 숲의 기운이 한창이어서 몸에 좋은 기운을 듬뿍 느낄 수 있습니다. 
+추암리를 출발하여 임종국 추모비까지 약 30분 정도 오르막을 오르는데 그 길에는 하얀 꽃가루가 마치 흰 눈처럼 수북이 쌓여 흰 눈을 밟는 듯 묘한 풍경이었습니다.
+추모비에 도착하면 이제 완만한 내리막을 따라 산림욕을 하며 걷습니다. 걷다가 잠깐씩 편백나무 아래에 서서 피톤치드를 들이키며 숲의 기운을 몸 속 구석구석 저장이라도 하듯 두 팔을 활짝 펼쳐보기도 하구요.
+그렇게 걷다보면 어느새 금곡영화마을에 도착합니다.
+5월의 숲은 너무도 싱그러워서 숲 속에서 더 많은 시간을 보내지 못한 아쉬움이 남으셨을 거예요. 향긋한 편백향과 맑고 선선한 바람 그리고 잠깐씩 쉬며 부려보는 달콤한 휴식…. 다음에는 편백숲에서 온종일 하루를 보내며 산림욕도 해보고 자유롭게 산책도 해보는 시간을 마련해보고 싶습니다.
+이번 여행에 참여해주신 회원분들 모두 수고 많으셨구요, 편백숲에서의 숲의 기운과 청보리밭의 푸르른 풍경들로 다음 한 주도 거뜬히 보내실 수 있기를 바랍니다~이 게시물을...

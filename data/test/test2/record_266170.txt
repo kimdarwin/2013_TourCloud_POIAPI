@@ -1,0 +1,29 @@
+Title:
+9/11 산막이옛길과 농다리 여행 후기
+
+Date:
+2012.09.12
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(315900,'files/attach/images/64/170/266/c917d3b05349b4bf8f1f12ecbe5d0aec.jpg');
+list_gallery_add_image(315900,'files/attach/images/64/170/266/ce8155629ffa6797aa167c8714a3d127.jpg');
+list_gallery_add_image(315900,'files/attach/images/64/170/266/465fd49e895b3fc29a09f2a08af7f376.jpg');
+list_gallery_add_image(315900,'files/attach/images/64/170/266/b06c5c774b154512217b91a0d52547cd.jpg');
+list_gallery_add_image(315900,'files/attach/images/64/170/266/2d4cf510ccb87080be4b73507038c841.jpg');
+list_gallery_add_image(315900,'files/attach/images/64/170/266/1e480dd107c6d85f71f05a5569c83254.jpg');
+list_gallery_add_image(315900,'files/attach/images/64/170/266/e28f5755db704a40dca95be7a7812546.jpg');
+list_gallery_add_image(315900,'files/attach/images/64/170/266/aee92bf2b89d22aa8c7c949f2839312a.jpg');
+list_gallery_add_image(315900,'files/attach/images/64/170/266/021080fa0f7c525b164d298f095c81a0.jpg');
+list_gallery_add_image(315900,'files/attach/images/64/170/266/3ca044793fcb99f606c394be63d17e07.jpg');
+list_gallery_add_image(315900,'files/attach/images/64/170/266/cfebbf38137a6db07e2c4b3e58eb408c.jpg');
+list_gallery_add_image(315900,'files/attach/images/64/170/266/d64bac812b06b932b1c3221da3a42334.jpg');
+list_gallery_add_image(315900,'files/attach/images/64/170/266/76af24431db5378f2c7e630aa39a93af.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+9월 11일(화), 아름다운 여행으로 괴산의 산막이옛길과 진천의 농다리를 다녀왔습니다. 이번 여행은 두 곳 모두 걷는 코스가 있었지만 가벼운 코스여서 부담없는 여행이었습니다. 게다가 날씨도 좋아 초가을의 상쾌한 소풍 같은 여행이었습니다.
+첫 여행지인 괴산의 산막이옛길은 괴강변 산비탈에 조성된 걷기 코스입니다. 가파른 비탈에 만들어진 길이지만 나무데크로 길을 잘 조성해 놓아서 전혀 걷기에 부담이 없는 길입니다. 산비탈의 데크길을 따라 걸으며 시원한 괴강의 풍경을 즐길 수 있는 길이죠. 괴강변은 아직 개발의 손길이 닿지 않아 강도 산도 자연스러운 풍경을 잘 간직하고 있더군요. 약 4km 정도의 산막이옛길을 걸어 산막이마을 입구까지 간 다음 배를 타고 돌아나왔습니다. 배에서 보는 풍경은 산길에서 보는 풍경과는 또 다른 느낌이더군요.
+산막이옛길을 돌아본 후 진천의 농다리로 이동해 농다리와 초평저수지의 수변 산책로를 돌아보았습니다. 농다리는 천년이 넘은 다리로 아마 우리나라에서 가장 오래된 다리가 아닌가 싶습니다. 오래되기도 했지만 그 독특한 생김새도 인상적입니다. 우리가 생각하고 있는 다리의 이미지와는 판이한 형태의 투박하고 못생긴 다리죠. 하지만 한발 한발 다리를 디뎌보면 세월을 뛰어넘는 정감 같은 것이 느껴지는 다리입니다. 예전부터 제가 아름다운 여행으로 꼭 함께 가고 싶던 곳이었는데, 이번에 처음으로 다녀왔네요.
+농다리에서 작은 고개를 하나 넘으면 바로 유명한 초평저수지가 있습니다. 넓고 아름다운 저수지로 알려진 곳이죠. 이 초평저수지에 수변 산책로가 조성되어 있어 저수지의 풍경을 즐기며 가볍게 산책을 즐기기에 좋습니다. 이 수변 산책로를 걷고 농다리를 돌아보는 것으로 이 날의 여행을 마무리했습니다.
+이번 여행은 산뜻한 초가을 나들이였던 것 같습니다. 한낮에는 볕이 따갑게 느껴지기도 했지만 선선한 바람과 색이 흐려지는 나뭇잎에서 가을이 가까이 오고 있음을 느낄 수 있었습니다. 이번 여행에 참여하신 분들 모두 여행의 피로 잘 털어내시고 얼마 남지 않은 여름 잘 마무리하시기 바랍니다.
+이 게시물을...

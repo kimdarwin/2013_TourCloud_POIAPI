@@ -1,0 +1,104 @@
+Title:
+군포철쭉축제 
+
+Date:
+2012.04.28 19:21
+
+Content:
+
+위 치 : 경기도 군포시 산본동 1152~14 위치해 있는 군포철쭉동산
+가는길 : 서울지하철4호선 오이도 행 [수리산]역 하차 3번출구도보 약5분거리
+
+2012년 군포시 철쭉축제 기간 : 5월4일부터 5월13일까지
+향긋한 꽃내음이 코끝을 스치는 계절 도시생활에 찌들었던 몸과 마음을 풀고
+꽃과 나비들이 손짓하는 축제 한마당 가정의 달이며 계절의 여왕인 5월 사랑하는 여인
+귀여운 자녀들과 서울 근교에 있으며 지하철로 갈 수 있는 군포 철쭉축제에 한번 가보세요
+
+철쭉꽃이 아직 활짝피지 못했습니다
+축제기간에 가보세요
+
+네비케이션 이용시 경기도 군포시 산본동1152~14[군포철쭉동산]
+
+군포 철쭉동산은 수리산 등산로와 이어져 있는 작은언덕에 인공적으로 조성한 철쭉동산이다
+1999년부터 6년간 면적1만7000평방미터의 언덕에 자산홍 영산홍 산철쭉 백철쭉 등 5만여 구루의
+철쭉과 야생화 2만7000여 본을 심어 시민의 휴식공간으로 꾸몄다
+
+2004년에는 면적1.390평방미터 길이40미터 폭20미터의 인공폭포를 조성하였고
+2005년에는 수리산 능선까지 공원면적을 확장하여 1만여구루의 철쭉을 추가로 심었다고 함
+이곳 철쭉동산에는 올림픽 금메달 스케이트선수 김연아의 탑이 우뚝 서 있다
+
+
+
+
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/04/28/874/03103323612F538E5BC3790B73934643342_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '219.43';
+	var qsParam = {};
+	qsParam.vid = 'DBE3E5474E5129DA0F9F64038139B1DA06D8';
+	qsParam.inKey = 'V1266e1ad704d12b7b1f37e48f7778b839e76fc9f160b8723653b7082e1d074592f5d7e48f7778b839e76';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = 'MUSIC';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_06590 = new VideoInfraUGCPlayer('ugcPlayer_06590' ,bean); 
+ugcPlayer_06590.drawPlayLayer(); 
+}
+
+ 
+ 
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/05/06/259/031033237192531E5EC3D95073898363300_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '225.05';
+	var qsParam = {};
+	qsParam.vid = '2A93F403AFB5A3F14423F50A90352DF3E3D1';
+	qsParam.inKey = 'V127c722f6109f23e5097e300a9b7110b6dd164ede8375b7fc9262affec421cda5777e300a9b7110b6dd1';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = 'MUSIC';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_09237 = new VideoInfraUGCPlayer('ugcPlayer_09237' ,bean); 
+ugcPlayer_09237.drawPlayLayer(); 
+}
+
+
+
+
+
+
+
+ 
+
+
+
+	

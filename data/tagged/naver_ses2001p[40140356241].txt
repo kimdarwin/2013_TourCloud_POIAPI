@@ -1,0 +1,262 @@
+"김포공항"
+	"김포공항"/ncn
+
+-
+	-/sd
+
+노을
+	노을/ncn
+
+
+서울에서
+	서울/ncn+에서/jca
+
+일정을
+	일정/ncn+을/jco
+
+마치고
+	마치/pvg+고/ecc
+
+집으로
+	집/ncn+으로/jca
+
+돌아오는길
+	돌아오는길/ncn
+
+항상
+	항상/mag
+
+무덤덤하게
+	무덤덤하/ncn+이/jp+게/ecs
+
+비행기를
+	비행기/ncn+를/jco
+
+타건만
+	타/nbu+건/xsnx+만/jxc
+
+
+이날을
+	이/nnc+날/nbu+을/jco
+
+나에게
+	나/npp+에게/jca
+
+김포공항이
+	김포공항/ncn+이/jcc
+
+정말
+	정말/mag
+
+이쁘다는
+	이쁘/paa+다/ef+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+하게
+	하/pvg+게/ecs
+
+만든
+	만들/pvg+ㄴ/etm
+
+날이에요
+	날/nbu+이/jp+에요/ef
+
+
+그리고
+	그리고/maj
+
+우연찮게
+	우연찮게/ncn
+
+내가
+	나/npp+가/jcs
+
+타야
+	타/pvg+아/ecx
+
+하는
+	하/pvg+는/etm
+
+6번
+	6/nnc+번/nbu
+
+출구보다
+	출구/ncn+보다/jca
+
+한참
+	한참/mag
+
+먼
+	멀/paa+ㄴ/etm
+
+14번
+	14/nnc+번/nbu
+
+출구에
+	출구/ncn+에/jca
+
+있었다는
+	있/px+었/ep+다/ef+는/etm
+
+그래서
+	그래서/maj
+
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+구도가
+	구도/ncn+가/jcs
+
+더
+	더/mag
+
+낫지
+	낫/paa+지/ecx
+
+않았나
+	않/px+아/ep+나/ef
+
+하는
+	하/pvg+는/etm
+
+생각도
+	생각/ncpa+도/jxc
+
+해봐요
+	하/pvg+어/ecx+보/px+아/ef
+
+
+다시금
+	다시금/mag
+
+가고
+	가/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+서울
+	서울/ncn
+
+또
+	또/maj
+
+시간이
+	시간/ncn+이/jcc
+
+있겠죠
+	있/px+겠/ep+죠/ef
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+유리가
+	유리/ncn+가/jcs
+
+앞에
+	앞/ncn+에/jca
+
+있어서
+	있/px+어서/ecs
+
+먹튀가
+	먹튀/ncn+가/jcs
+
+되었지만
+	되/pvg+었/ep+지만/ecs
+
+그래도
+	그래도/maj
+
+참
+	참/mag
+
+멋진
+	멋지/paa+ㄴ/etm
+
+노을이었어요
+	노을/ncn+이/jp+었/ep+어요/ef
+
+
+오늘도
+	오늘/ncn+도/jxc
+
+제주도
+	제주/ncn+도/jxc
+
+날씨는
+	날씨/ncn+는/jxc
+
+좋아요
+	좋/paa+아/ef+요/jxf
+
+갑자기
+	갑자기/mag
+
+소나기
+	소나기/ncn
+
+한번
+	한/nnc+번/nbu
+
+오더니
+	오/px+더니/ecs
+
+다시
+	다시/mag
+
+쾌청
+	쾌청/ncps
+
+
+목요일도
+	목요일/ncn+도/jxc
+
+즐겁게
+	즐겁/paa+게/ecs
+
+보내세요
+	보내/pvg+세/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+김포국제공항
+	김포국제공항/ncn
+
+
+서울
+	서울/ncn
+
+강서구
+	강서구/ncn
+
+방화2동
+	방화2동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01727964",
+	"bl01727964",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11540232",
+	"/sl+11540232/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"김포국제공항",
+	title:"김포국제공항",/ncn
+
+pointX:294136,pointY:552161}
+	pointX/f+:/sp+294136/nnc+,/sp+pointY/f+:/sp+552161/nnc+}/sr

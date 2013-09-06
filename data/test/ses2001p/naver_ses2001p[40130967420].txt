@@ -1,0 +1,68 @@
+Title:
+[본문스크랩] [에버랜드 덤블링] 완전 폭소 에버랜드 덤블링 동영상★ 웃다 기절한뻔 
+
+Date:
+2011.06.06 15:45
+
+Content:
+
+
+출처	용의주도미스高::행복만들기(이벤트진행中)|MiSs고
+
+
+친구가 에버랜드 동영상 봤냐면서
+정말 배꼽잡는다고 하며 검색해주더라구요.
+친구랑 저랑 동생이랑 셋이 보는데 웃다 기절할뻔했어요.
+
+
+친구가 너무 웃긴다며 의미심장하게 보여주는데
+재밌어도 어느정도겠지 하며 보는데
+그 기대보다 더 빵빵터져서
+
+정말 너무 웃어서 눈물이 줄줄 흐르는거 있죠.
+
+
+저혼자 볼 수 없어서 올려요.
+
+꼭꼭 보세요.
+
+웃다쓰러져요 → 해병대 스타일 성인 남자를 주목하세요.
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2011/06/06/1040/031013230106533E33C3995473EB7023E09_ssamssam48_PC_DEFAULT_logo.jpg';
+	layout.playtime = '284.91';
+	var qsParam = {};
+	qsParam.vid = '55B56735D53CEFE422031D496879EB567A69';
+	qsParam.inKey = 'V1298b506baa10ea4912d57aa820458275cd718992fb460c4b810c3621f35ac4e604457aa820458275cd7';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_02061 = new VideoInfraUGCPlayer('ugcPlayer_02061' ,bean); 
+ugcPlayer_02061.drawPlayLayer(); 
+}
+
+
+
+
+
+아 너무 웃겨요.
+눈물나와
+이거보고웃어보세요대박입니다.*^^*
+
+	

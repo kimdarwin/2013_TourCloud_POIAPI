@@ -1,0 +1,1828 @@
+위치:충남
+	위치:충남/ncn
+
+서산시
+	서산/ncn+시/ncn
+
+부석면
+	부석면/ncn
+
+
+천수만(철새도래지)
+	천수만/ncn+(/sl+철새도래지/ncn+)/sr
+
+
+서울에서
+	서울/ncn+에서/jca
+
+서해안고속도로를
+	서해안고속도로/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+1시간
+	1/nnc+시간/nbu
+
+30분
+	30/nnc+분/nbu
+
+남짓
+	남짓/ncpa
+
+달려가면
+	달리/pvg+어/ecx+가/px+면/ecs
+
+아름다운
+	아름답/paa+은/etm
+
+철새들의
+	철새/ncn+들/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+관찰할
+	관찰/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+세계적인
+	세계/ncn+적/ncn+이/jp+ㄴ/etm
+
+철새도래지가
+	철새도래지/ncn+가/jcs
+
+자리하고
+	자리/ncn+하고/jct
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+안면도를
+	안면/ncn+도/ncn+를/jco
+
+마주하고
+	마주/ncn+하고/jct
+
+있는
+	있/px+는/etm
+
+충남
+	충남/ncn
+
+서산
+	서산/ncn
+
+천수만
+	천수/ncn+만/jxc
+
+일대가
+	일/nnc+대/nbu+가/jcc
+
+바로
+	바로/mag
+
+그곳이에요
+	그곳/ncn+이/jp+에요/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+1984년
+	1984/nnc+년/nbu
+
+간척사업으로
+	간척사업/ncn+으로/jca
+
+천수만
+	천수/ncn+만/jxc
+
+일대에
+	일/nnc+대/nbu+에/jca
+
+방조제가
+	방조제/ncn+가/jcs
+
+만들어지면서
+	만들/pvg+어/ecx+지/px+면서/ecc
+
+두개의
+	두/nnc+개/nbu+의/jcm
+
+인공
+	인공/ncn
+
+담수호인
+	담수호/ncn+이/jp+ㄴ/etm
+
+간월호와
+	간월호/ncn+와/jcj
+
+부남호가
+	부남/ncn+호/ncn+가/jcs
+
+생겨났어요
+	생기/pvg+어/ecx+나/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+간월호(A지구)는
+	간월호(A지구)/ncn+는/jxc
+
+서산시와
+	서산/ncn+시/ncn+와/jcj
+
+홍성군(내륙방면)
+	홍성군(내륙방면)/ncn
+
+사이,
+	사이/ncn+,/sp
+
+부남호(B지구)는
+	부남호(B지구)/ncn+는/jxc
+
+서산시와
+	서산/ncn+시/ncn+와/jcj
+
+태안군(안면도
+	태안군(안면/ncn+도/jxc
+
+방면)
+	방면/ncn+)/sr
+
+사이에
+	사이/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+인공
+	인공/ncn
+
+담수호로
+	담수호/ncn+로/jca
+
+이
+	이/mmd
+
+호수가
+	호수/ncn+가/jcs
+
+생겨나면서
+	생기/pvg+어/ecx+나/px+면서/ecc
+
+과거에
+	과거/ncn+에/jca
+
+갯벌이던
+	갯벌/ncn+이/jp+던/etm
+
+곳에
+	곳/nbn+에/jca
+
+대단위
+	대단위/ncn
+
+농경지(6,400ha)가
+	농경지(6,400ha)/ncn+가/jcs
+
+형성되었어요
+	형성/ncpa+되/xsvn+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이로
+	이/npd+로/jca
+
+인해
+	인하/pvg+어/ecx
+
+천수만
+	천수/ncn+만/jxc
+
+일대는
+	일/nnc+대/nbu+는/jxc
+
+철새들의
+	철새/ncn+들/ncn+의/jcm
+
+주요
+	주요/ncps
+
+이동경로인
+	이동경로/ncn+이/jp+ㄴ/etm
+
+해안가에
+	해안가/ncn+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+있는데다가
+	있/px+는/etm+데/nbn+이/jp+다가/ecs
+
+해양성
+	해양/ncn+성/ncn
+
+기후의
+	기후/ncn+의/jcm
+
+영향으로
+	영향/ncn+으로/jca
+
+내륙지방보다
+	내륙지방/ncn+보다/jca
+
+10월부터
+	10/nnc+월/nbu+부터/jxc
+
+3월까지
+	3/nnc+월/nbu+까지/jxc
+
+월평균
+	월평균/ncn
+
+기온이
+	기온/ncn+이/jcc
+
+1.2
+	1.2/nnc
+
+정도
+	정도/ncn
+
+높고,
+	높/paa+고/ecc+,/sp
+
+또한
+	또한/maj
+
+주변에
+	주변/ncn+에/jca
+
+벼를
+	벼르/pvg+ㄹ/etm
+
+재배하는
+	재배/ncpa+하/xsva+는/etm
+
+대단위
+	대단위/ncn
+
+농경지가
+	농경지/ncn+가/jcs
+
+있어
+	있/px+어/ecx
+
+추수
+	추수/ncpa
+
+후에
+	후/ncn+에/jca
+
+남겨지는
+	남기/pvg+어/ecx+지/px+는/etm
+
+곡식들이
+	곡식/ncn+들/ncn+이/jcc
+
+겨울철새들의
+	겨울/ncn+철새/ncn+들/ncn+의/jcm
+
+주먹이
+	주먹/ncn+이/jcc
+
+원이
+	원/nbu+이/jcc
+
+되는
+	되/pvg+는/etm
+
+등
+	등/nbu
+
+철새서식지로
+	철새서식지/ncn+로/jca
+
+적합한
+	적합/ncn+한/ncn
+
+조건을
+	조건/ncn+을/jco
+
+두루
+	두루/mag
+
+갖추게
+	갖추/pvg+게/ecs
+
+되어
+	되/pvg+어/ecx
+
+세계적인
+	세계/ncn+적/ncn+이/jp+ㄴ/etm
+
+철새도래지로
+	철새도래지/ncn+로/jca
+
+부상하
+	부상/ncpa+하/xsva+어/ecx
+
+게
+	것/nbn+이/jcs
+
+된
+	되/pvg+ㄴ/etm
+
+것이에요
+	것/nbn+이/jp+에요/ef
+
+
+철새들은
+	철새/ncn+들/ncn+은/jxc
+
+보통
+	보통/mag
+
+해안가나
+	해안/ncn+가/jcs+나/jxc
+
+큰
+	크/paa+ㄴ/etm
+
+강,
+	강/ncn+,/sp
+
+호수
+	호수/ncn
+
+또는
+	또는/maj
+
+산맥
+	산맥/ncn
+
+등을
+	등/nbu+을/jco
+
+이정표로
+	이정표/ncn+로/jca
+
+삼아
+	삼/pvg+아/ecx
+
+이동하는데,
+	이동/ncpa+하/xsva+ㄴ데/ecs+,/sp
+
+천수만은
+	천수/ncn+만은/jxc
+
+큰
+	크/paa+ㄴ/etm
+
+호수와
+	호수/ncn+와/jct
+
+넓은
+	넓/paa+은/etm
+
+농지
+	농지/ncn
+
+등
+	등/nbu
+
+철새들의
+	철새/ncn+들/ncn+의/jcm
+
+이정표가
+	이정표/ncn+가/jcs
+
+될만한
+	되/pvg+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+좋은
+	좋/paa+은/etm
+
+조건을
+	조건/ncn+을/jco
+
+갖추고
+	갖추/pvg+고/ecc
+
+있고
+	있/px+고/ecc
+
+북부
+	북부/ncn
+
+시베리아나
+	시베리아/ncn+나/jcj
+
+만주
+	만/nnc+주/nbu
+
+등지에서
+	등지/nbn+에서/jca
+
+동남아시아에
+	동남아시아/ncn+에/jca
+
+이르는
+	이르/paa+는/etm
+
+철새
+	철새/ncn
+
+이동경로의
+	이동경로/ncn+의/jcm
+
+중앙지점에
+	중앙지점/ncn+에/jca
+
+위치하고
+	위치/ncn+하고/jct
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+조건으로
+	조건/ncn+으로/jca
+
+인해
+	인하/pvg+어/ecx
+
+천수만은
+	천수/ncn+만은/jxc
+
+동아시아의
+	동아시아/ncn+의/jcm
+
+철새이동
+	철새/ncn+이동/ncn
+
+중간
+	중간/ncn
+
+기착지로서
+	기착지/ncn+로서/jca
+
+사계절
+	사계절/ncn
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+각종
+	각종/ncn
+
+철새를
+	철새/ncn+를/jco
+
+관찰할
+	관찰/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+뿐만
+	뿐/nbn+만/jxc
+
+아니라,
+	아니/paa+라/ef+,/sp
+
+200여종에
+	200/nnc+여/xsnu+종/nbu+에/jca
+
+가까운
+	가깝/paa+은/etm
+
+많은
+	많/paa+은/etm
+
+종류의
+	종류/ncn+의/jcm
+
+철새를
+	철새/ncn+를/jco
+
+한
+	하/pvg+ㄴ/etm
+
+장소에서
+	장소/ncn+에서/jca
+
+관찰할
+	관찰/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+겨울철에는
+	겨울철/ncn+에/jca+는/jxc
+
+30여만
+	30/nnc+여/xsnu+만/jxc
+
+마리가
+	마리/nbu+가/jcc
+
+넘는
+	넘/pvg+는/etm
+
+오리,
+	오/nnc+리/nbu+,/sp
+
+기러기류가
+	기러기/ncn+류/xsncc+가/jcc
+
+찾아오고
+	찾/pvg+아/ecx+오/px+고/ecc
+
+특히
+	특히/mag
+
+가창오리는
+	가창/ncpa+오리/ncn+는/jxc
+
+전세계
+	전세계/ncn
+
+무리의
+	무리/ncn+의/jcm
+
+90%
+	90/nnc+%/su
+
+이상이
+	이상/ncn+이/jcc
+
+이
+	이/mmd
+
+천수만에서
+	천/nnc+수만/nnc+에서/jca
+
+관찰되며
+	관찰/ncpa+되/xsvn+며/ecc
+
+또한
+	또한/maj
+
+황새,
+	황새/ncn+,/sp
+
+노랑부리저어새,
+	노랑/ncn+부리/ncn+저어새/ncn+,/sp
+
+흑고니,
+	흑고니,/ncn
+
+재두루미
+	재두루미/ncn
+
+등
+	등/nbu
+
+많은
+	많/paa+은/etm
+
+멸종위기종이
+	멸종위기/ncn+종이/ncn
+
+천수만에서
+	천/nnc+수만/nnc+에서/jca
+
+발견되고
+	발견/ncpa+되/xsvn+고/ecc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+천수만을
+	천/nnc+수만/nnc+을/jco
+
+찾아오는
+	찾/pvg+아/ecx+오/px+는/etm
+
+철새들의
+	철새/ncn+들/ncn+의/jcm
+
+많은
+	많/paa+은/etm
+
+수와
+	수/nbn+와/jct
+
+그
+	그/mmd
+
+종류의
+	종류/ncn+의/jcm
+
+다양함으로
+	다양/ncn+함/ncn+으로/jca
+
+인해
+	인하/pvg+어/ecx
+
+이제
+	이제/mag
+
+천수만은
+	천수/ncn+만은/jxc
+
+세계적인
+	세계/ncn+적/ncn+이/jp+ㄴ/etm
+
+탐조관광
+	탐조/ncpa+관광/ncpa
+
+명소로
+	명소/ncn+로/jca
+
+미국,
+	미국,/ncn
+
+일본
+	일/nnc+본/nbu
+
+등
+	등/nbu
+
+세계
+	세계/ncn
+
+탐조
+	탐조/ncpa
+
+관광객
+	관광객/ncn
+
+들의
+	들/ncn+의/jcm
+
+관심을
+	관심/ncn+을/jco
+
+끌고
+	끌/pvg+고/ecc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+우아한
+	우아/ncn+한/ncn
+
+날개짓으로
+	날개짓/ncn+으로/jca
+
+천천히
+	천천히/mag
+
+호수위를
+	호수/ncn+위/ncn+를/jco
+
+날아가는
+	날/pvg+아/ecx+가/px+는/etm
+
+백로
+	백/nnc+로/jca
+
+옆으로
+	옆/ncn+으로/jca
+
+조그만
+	조그맣/paa+은/etm
+
+날개를
+	날개/ncn+를/jco
+
+쉴새없이
+	쉴새없이/mag
+
+파드득
+	파드득/ncn
+
+거리며
+	거리/ncn+이/jp+며/ecc
+
+바쁘게
+	바쁘/paa+게/ecs
+
+날아가는
+	날/pvg+아/ecx+가/px+는/etm
+
+가창오리들,
+	가창/ncpa+오리/ncn+들/xsncc+,/sp
+
+별반
+	별반/mag
+
+소득도
+	소득/ncn+도/jxc
+
+없으면서
+	없/paa+으면서/ecc
+
+열심히
+	열심히/mag
+
+먹이를
+	먹이/ncn+를/jco
+
+찾아
+	찾/pvg+아/ecx
+
+이리저리
+	이리저리/mad
+
+논밭을
+	논밭/ncn+을/jco
+
+뒤적이는
+	뒤적이/pvg+는/etm
+
+저어새
+	저어새/ncn
+
+등
+	등/nbu
+
+종류별로
+	종류/ncn+별/ncn+로/jca
+
+그
+	그/mmd
+
+크기나
+	크/paa+기/etn+나/jcj
+
+색깔,
+	색깔/ncn+,/sp
+
+몸짓,
+	몸짓/ncpa+,/sp
+
+습성
+	습성/ncn
+
+등이
+	등/nbu+이/jcc
+
+제각기에요
+	제/xp+각기/ncn+이/jp+에요/ef
+
+.
+	./sf
+
+
+운이
+	운/ncn+이/jcc
+
+좋으면
+	좋/paa+으면/ecs
+
+수만마리의
+	수만/nnc+마리/nbu+의/jcm
+
+철새들이
+	철새/ncn+들/ncn+이/jcc
+
+떼지어
+	뜨/pvg+어/ecx+지/px+어/ecx
+
+날아가는
+	날/pvg+아/ecx+가/px+는/etm
+
+멋진
+	멋지/paa+ㄴ/etm
+
+장관을
+	장관/ncr+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+탐조관광에
+	탐조/ncpa+관광/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+경험이나
+	경험/ncpa+이나/jcj
+
+지식이
+	지식/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+일반인들이
+	일반/ncn+이/jp+ㄴ/etm+들/nbn+이/jcc
+
+이곳을
+	이곳/npd+을/jco
+
+방문하려면
+	방문/ncpa+하/xsva+려면/ecs
+
+사전에
+	사전/ncn+에/jca
+
+기본적인
+	기본/ncn+적/ncn+이/jp+ㄴ/etm
+
+준비를
+	준비/ncn+를/jco
+
+갖추어야
+	갖추/pvg+어야/ecs
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+일단
+	일단/mag
+
+자연생태관광이니
+	자연/ncn+생태관광/ncn+이/jp+니/ecs
+
+만큼
+	만큼/nbn
+
+환경을
+	환경/ncn+을/jco
+
+보존하고
+	보존/ncpa+하고/jct
+
+새를
+	새/ncn+를/jco
+
+사랑하는
+	사랑/ncpa+하/xsva+는/etm
+
+마음이
+	마음/ncn+이/jcc
+
+있어야
+	있/px+어야/ecs
+
+하고,
+	하/pvg+고/ecc+,/sp
+
+육안으로는
+	육안/ncn+으로/jca+는/jxc
+
+관찰하기
+	관찰/ncpa+하/xsva+기/etn
+
+힘들기
+	힘들/pvg+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+쌍안경이나
+	쌍안경/ncn+이나/jcj
+
+스코프
+	스코프/ncn
+
+같은
+	같/paa+은/etm
+
+관측
+	관측/ncpa
+
+장비,
+	장비/ncpa+,/sp
+
+그리고
+	그리고/maj
+
+어떤
+	어떤/mmd
+
+새들인지
+	새/pvg+어/ecx+들이/px+ㄴ지/ecs
+
+알아보기
+	알/pvg+아/ecx+보/px+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+조류도감이
+	조류/ncn+도감/ncn+이/jcc
+
+필요해요
+	필요/ncps+하/xsms+어/ef+요/jxf
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+사전에
+	사전/ncn+에/jca
+
+관련홈페이지
+	관련/ncn+홈페이지/ncn
+
+를
+	를/ncn
+
+통해
+	통하/pvg+어/ecs
+
+탐조코스나
+	탐조/ncpa+코스/ncn+나/jcj
+
+방법
+	방법/ncn
+
+등에
+	등/nbu+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+안내를
+	알/pvg+ㄴ/etm+내/nbn+를/jco
+
+받는
+	받/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+효과적이에요
+	효과/ncn+적/ncn+이/jp+에요/ef
+
+.
+	./sf
+
+
+서산태안환경운동연합(홈페이지
+	서산태안환경운동연합(홈페이지/ncn
+
+:window.
+	:/sp+window/f+./sy
+
+open(
+	open/f+(/sl
+
+?
+	?/sf
+
+
+http:www.
+	http/f+:/sp+www/f+./sy
+
+ecost.
+	ecost/f+./sy
+
+or.
+	or/f+./sy
+
+kr
+	kr/f
+
+,전화
+	,/sp+전화/ncpa
+
+041-667-3010)에서는
+	041/nnc+-667/nnc+-3010/nnc+)/sr+에서/jca+는/jxc
+
+현재
+	현재/mag
+
+30여
+	30/nnc+여/xsnu
+
+명의
+	명/nbu+의/jcm
+
+탐조
+	탐조/ncpa
+
+관광
+	관광/ncpa
+
+가이드가
+	가이드/ncpa+가/jcc
+
+자원봉사
+	자원봉사/ncpa
+
+활동중이며
+	활동/ncpa+중/xsnx+이/jp+며/ecc
+
+단체관광객들에게
+	단체관광객/ncn+들/ncn+에게/jca
+
+무료로
+	무료/ncn+로/jca
+
+탐조관광
+	탐조/ncpa+관광/ncpa
+
+안내를
+	알/pvg+ㄴ/etm+내/nbn+를/jco
+
+해
+	하/pvg+어/ecx
+
+주고
+	주/px+고/ecc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+서산
+	서산/ncn
+
+부석고교
+	부석고교/ncn
+
+김현태
+	김현태/ncn
+
+선생님이
+	선생님/ncr+이/jcc
+
+운영하는
+	운영/ncpa+하/xsva+는/etm
+
+홈페이지(:window.
+	홈페이지(:window./ncn
+
+open(
+	open/f+(/sl
+
+?
+	?/sf
+
+
+http:
+	http/f+:/sp
+
+www.
+	www/f+./sy
+
+seosanbird.
+	seosanbird/f+./sy
+
+com
+	com/f
+
+?
+	?/sf
+
+
+,
+	,/sp
+
+??
+	?/sf+?/sf
+
+
+,
+	,/sp
+
+?
+	?/sf
+
+
+width="700,height=600"whttp://www.
+	width/f+=/sy+"/sl+700/nnc+,/sp+height/f+=/sy+600/nnc+"/sr+whttp/f+:/sp+//sp+//sp+www/f+./sy
+
+seosanbird.
+	seosanbird/f+./sy
+
+com
+	com/f
+
+)에
+	)/sr+에/jca
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+탐조관광에
+	탐조/ncpa+관광/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+기초부터
+	기초/ncn+부터/jxc
+
+천수만에
+	천/nnc+수만/nnc+에/jca
+
+서식하는
+	서식/ncpa+하/xsva+는/etm
+
+철새들에
+	철새/ncn+들/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+자세한
+	자세/ncn+한/ncn
+
+안내를
+	알/pvg+ㄴ/etm+내/nbn+를/jco
+
+받을
+	받/pvg+을/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+홈페이지는
+	홈페이지/ncn+는/jxc
+
+해마다
+	하/pvg+어/ecs+마다/jxc
+
+10월
+	10/nnc+월/nbu
+
+중순부터
+	중순/ncn+부터/jxc
+
+11월
+	11/nnc+월/nbu
+
+하순까지
+	하순/ncn+까지/jxc
+
+열리는
+	열/nnc+리/nbu+는/jxc
+
+서산
+	서산/ncn
+
+천수만
+	천수/ncn+만/jxc
+
+세계철새기행전의
+	세계/ncn+철새/ncn+기행/ncn+전/ncn+의/jcm
+
+개회를
+	개회/ncpa+를/jco
+
+안내하는
+	안내/ncpa+하/xsva+는/etm
+
+홈페이지
+	홈페이지/ncn
+
+(:window.
+	(/sl+:/sp+window/f+./sy
+
+open(
+	open/f+(/sl
+
+?
+	?/sf
+
+
+http:
+	http/f+:/sp
+
+www.
+	www/f+./sy
+
+seosanbird.
+	seosanbird/f+./sy
+
+com
+	com/f
+
+?
+	?/sf
+
+
+,
+	,/sp
+
+??
+	?/sf+?/sf
+
+
+,
+	,/sp
+
+?
+	?/sf
+
+
+width="700,height=600"www.
+	width/f+=/sy+"/sl+700/nnc+,/sp+height/f+=/sy+600/nnc+"/sr+www/f+./sy
+
+seosanbird.
+	seosanbird/f+./sy
+
+com
+	com/f
+
+)로
+	)/sr+로/jca
+
+이용되기도
+	이용/ncpa+되/xsvn+기/etn+도/jxc
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+탐조시
+	탐조/ncpa+시/ncn
+
+유의사항
+	유의사항/ncn
+
+1)
+	1/nnc+)/sr
+
+새들은
+	새들/pvg+ㄴ/etm
+
+한낮보다는
+	한낮/ncn+보다/jca+는/jxc
+
+새벽녘이나
+	새벽녘/ncn+이나/jcj
+
+해질
+	하/pvg+어/ecx+지/px+ㄹ/etm
+
+무렵
+	무렵/nbn
+
+먹이를
+	먹이/ncn+를/jco
+
+찾아
+	찾/pvg+아/ecx
+
+이동하기
+	이동/ncn+하기/ncn
+
+때문에
+	때문/nbn+에/jca
+
+이
+	이/mmd
+
+시간에
+	시간/nbu+에/jca
+
+관찰을
+	관찰/ncpa+을/jco
+
+해야
+	하/pvg+어야/ecs
+
+하며,
+	하/pvg+며/ecc+,/sp
+
+또한
+	또한/maj
+
+이시간에
+	이/nnc+시간/nbu+에/jca
+
+철새의
+	철새/ncn+의/jcm
+
+소리를
+	소리/ncn+를/jco
+
+제일
+	제일/mag
+
+잘
+	잘/mag
+
+들을
+	들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+2)
+	2/nnc+)/sr
+
+새들은
+	새들/pvg+ㄴ/etm
+
+시력과
+	시력/ncn+과/jcj
+
+청력이
+	청력/ncn+이/jcc
+
+매우
+	매우/mag
+
+발달했기
+	발달/ncpa+하/xsva+었/ep+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+눈에
+	눈/ncn+에/jca
+
+잘띄는
+	잘띄/ncn+는/jxc
+
+색상(빨강,
+	색/ncn+상/xsncc+(/sl+빨강/ncn+,/sp
+
+노랑,
+	노랑/ncn+,/sp
+
+흰색
+	흰색/ncn
+
+등)은
+	등/nbu+)/sr+은/jxc
+
+가급적
+	가급적/mag
+
+피하고
+	피하/pvg+고/ecc
+
+뛰거나
+	뛰/pvg+거나/ecc
+
+큰
+	크/paa+ㄴ/etm
+
+소리를
+	소리/ncn+를/jco
+
+내지
+	내/pvg+지/ecx
+
+말아야
+	말/px+아/ecx
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+3)
+	3/nnc+)/sr
+
+사진을
+	사진/ncn+을/jco
+
+찍기
+	찍/pvg+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+연출(고함,
+	연출(고함,/ncn
+
+자동차
+	자동차/ncn
+
+경적,
+	경적/ncn+,/sp
+
+돌
+	돌/pvg+ㄹ/etm
+
+투척
+	투척/ncn
+
+등)을
+	등/nbu+)/sr+을/jco
+
+삼가해야
+	삼가/pvg+아/ecx+하/px+어야/ecs
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+4)
+	4/nnc+)/sr
+
+버스나
+	버스/ncn+나/jcj
+
+승용차
+	승용차/ncn
+
+안에서
+	안/ncn+에서/jca
+
+내리지
+	내리/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+관찰하면
+	관찰/ncpa+하/xsva+면/ecs
+
+새들을
+	새들/pvg+ㄹ/etm
+
+방해하지
+	방해/ncpa+하/xsva+지/ecx
+
+않고
+	않/px+고/ecc
+
+더욱
+	더욱/mag
+
+가까이에서
+	가까이/ncn+에서/jca
+
+효율적으로
+	효율/ncn+적/ncn+으로/jca
+
+관찰할
+	관찰/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+단체탐조
+	단체/ncn+탐조/ncpa
+
+(문의
+	(/sl+문/ncn+의/jcm
+
+041-669-7744)
+	041/nnc+-669/nnc+-7744/nnc+)/sr
+
+1일
+	1/nnc+일/nbu
+
+7회
+	7/nnc+회/nbu
+
+운영하며
+	운영/ncpa+하/xsva+며/ecc
+
+10:00
+	10/nnc+:/sp+00/nnc
+
+~
+	~/sd
+
+16:00까지
+	16/nnc+:/sp+00/nnc+까지/jxc
+
+각
+	각/mma
+
+시간대별
+	시간대/ncn+별/ncn
+
+1대씩
+	1/nnc+대/nbu+씩/xsnu
+
+예약
+	예약/ncpa
+
+가능
+	가능/ncpa
+
+(단,
+	(/sl+단/mma+,/sp
+
+토.
+	트/pvg+어/ef+./sf
+
+일요일은
+	일요일/ncn+은/jxc
+
+제외
+	제외/ncpa
+
+.)
+	./sf+)/sr
+
+
+단체탐조예약이
+	단체/ncn+탐조/ncpa+예약/ncpa+이/jcc
+
+완료되면
+	완료/ncpa+되/xsvn+면/ecs
+
+예약시간
+	예약시간/ncn
+
+20분전까지
+	20/nnc+분/nbu+전/xsnx+까지/jxc
+
+행사장에
+	행사장/ncn+에/jca
+
+도착하여
+	도착/ncpa+하/xsva+어/ecx
+
+장비와
+	장비/ncpa+와/jcj
+
+안내자
+	안내자/ncn
+
+탑승
+	탑승/ncpa
+
+후
+	후/ncn
+
+예약자
+	예약/ncpa+자/ncn
+
+버스로
+	버스/ncn+로/jca
+
+탐조를
+	탐조/ncpa+를/jco
+
+실시
+	실시/ncpa
+
+.
+	./sf
+
+
+가는길
+	가는길/ncn
+
+
+*
+	*/sy
+
+서해안고속도로
+	서해안고속도로/ncn
+
+서산IC
+	서산IC/ncn
+
+-
+	-/sd
+
+32번
+	32/nnc+번/nbu
+
+국도
+	국도/ncn
+
+-
+	-/sd
+
+서산
+	서산/ncn
+
+-
+	-/sd
+
+649지방도로
+	649지방도로/ncn
+
+-
+	-/sd
+
+부석
+	부석/mag
+
+-
+	-/sd
+
+서산
+	서산/ncn
+
+AB지구
+	AB/f+지구/ncn
+
+방조제
+	방조제/ncn
+
+-
+	-/sd
+
+천수만
+	천/nnc+수만/nnc
+
+*
+	*/sy
+
+경부고속도로
+	경부고속도로/ncn
+
+천안IC
+	천안IC/ncn
+
+-
+	-/sd
+
+아산
+	아산/ncn
+
+-
+	-/sd
+
+예산
+	예산/ncpa
+
+-
+	-/sd
+
+29번국도
+	29번국도/ncn
+
+-
+	-/sd
+
+덕산
+	덕산/ncn
+
+-
+	-/sd
+
+해미
+	해미/ncn
+
+-
+	-/sd
+
+서산
+	서산/ncn
+
+-
+	-/sd
+
+부석
+	부석/mag
+
+-
+	-/sd
+
+서산AB지구
+	서산AB지구/ncn
+
+방조제
+	방조제/ncn
+
+-
+	-/sd
+
+천수만
+	천수/ncn+만/jxc
+
+탐조관광을
+	탐조/ncpa+관광/ncpa+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+대중교통편이
+	대중교통/ncn+편/ncn+이/jcc
+
+없으므로
+	없/paa+으므로/ecs
+
+승용차
+	승용차/ncn
+
+또는
+	또는/maj
+
+단체버스
+	단체/ncn+버스/ncn
+
+등을
+	등/nbu+을/jco
+
+이용해야
+	이용/ncpa+하/xsva+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf

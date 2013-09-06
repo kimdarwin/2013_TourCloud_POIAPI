@@ -1,0 +1,65 @@
+CNN
+	CNN/f
+
+방송에
+	방송/ncpa+에/jca
+
+자주
+	자주/mag
+
+나오던
+	나/pvg+아/ecx+오/px+던/etm
+
+장면
+	장면/ncn
+
+..
+	./sf+./sf
+
+
+워싱턴의
+	워싱턴/ncn+의/jcm
+
+국회의사당앞에서
+	국회의사당/ncn+앞/ncn+에서/jca
+
+리포팅하는
+	리포팅하/ncn+는/jxc
+
+모습
+	모습/ncn
+
+..
+	./sf+./sf
+
+
+미국
+	미국/ncn
+
+국회의
+	국회/ncn+의/jcm
+
+상징
+	상징/ncpa
+
+국회의사당
+	국회의사당/ncn
+
+.
+	./sf
+
+
+여의도에
+	여의/ncn+도/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+우리것이
+	우리것/ncn+이/jcc
+
+더
+	더/mag
+
+낫다~
+	낫/paa+다/ef+~/sd

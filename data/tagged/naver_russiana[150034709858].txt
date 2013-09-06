@@ -1,0 +1,474 @@
+강화도
+	강화/ncpa+도/jxc
+
+
+인천광역시
+	인천광역시/ncn
+
+
+기간
+	기간/ncn
+
+2008.
+	2008./nnc
+
+8.
+	8./nnc
+
+27~
+	27/nnc+~/sd
+
+2008.
+	2008./nnc
+
+8.
+	8./nnc
+
+27(1일)
+	27/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+도시를
+	도시/ncn+를/jco
+
+떠난
+	떠나/pvg+ㄴ/etm
+
+휴양&자연여행
+	휴양&자연여행/ncn
+
+
+경로
+	경로/ncn
+
+
+서울
+	서울/ncn
+
+김포
+	김포/ncn
+
+강화대교
+	강화/ncpa+대교/ncn
+
+강화도
+	강화/ncpa+도/jxc
+
+동검도
+	동검/ncn+도/jxc
+
+초지대교
+	초지/ncn+대교/ncn
+
+서울
+	서울/ncn
+
+
+오늘
+	오늘/ncn
+
+날씨
+	날씨/ncn
+
+참
+	참/mag
+
+좋구나,
+	좋/paa+구나/ef+,/sp
+
+구름도
+	구름/ncn+도/jxc
+
+많고,
+	많/paa+고/ecc+,/sp
+
+하늘도
+	하늘/ncn+도/jxc
+
+높고,,
+	높/paa+고/ecc+,/sp+,/sp
+
+
+카작에서
+	카작/ncn+에서/jca
+
+아침을
+	아침/ncn+을/jco
+
+맞이한
+	맞이/ncpa+하/xsva+ㄴ/etm
+
+기분이
+	기분/ncn+이/jcc
+
+들었다
+	들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+강변을
+	강변/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+달리다보니
+	달리다보니/ncn
+
+간첩의
+	간첩/ncn+의/jcm
+
+침투를
+	침투/ncpa+를/jco
+
+막기위해
+	막기위해/ncn
+
+철조망이
+	철조망/ncn+이/jcc
+
+수킬로에
+	수킬로/ncn+에/jca
+
+걸쳐
+	걸치/pvg+어/ecx
+
+설치돼있다
+	설치/ncpa+되/xsvn+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+(운전중
+	(/sl+운전/ncpa+중/ncn
+
+한컷)
+	한/nnc+컷/nbu+)/sr
+
+
+강화대교를
+	강화/ncpa+대교/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+강화도에
+	강화/ncpa+도/ncn+에/jca
+
+들어왔다
+	들/pvg+어/ecx+오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+수수가
+	수수/ncn+가/jcs
+
+하늘을
+	하늘/ncn+을/jco
+
+찌를
+	찌르/pvg+ㄹ/etm
+
+기세로
+	기세/ncn+로/jca
+
+쭉쭉
+	쭉쭉/mag
+
+뻗어있다
+	뻗/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+광성보
+	광성보/ncn
+
+입구에
+	입구/ncn+에/jca
+
+자리한'끝내주는
+	자리한'끝내주/ncn+는/jxc
+
+동치미국수'
+	동치미/ncn+국수/ncn+'/sr
+
+아니,,
+	아니/ii+,/sp+,/sp
+
+'죽여주는
+	'/sl+죽이/pvg+어/ecx+주/px+는/etm
+
+...'
+	.../se+'/sl
+
+
+이군
+	이/npd+이/jp+군/ef
+
+.
+	./sf
+
+
+맛
+	맛/ncn
+
+아주
+	아주/mag
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+여름
+	여름/ncn
+
+가기전에
+	가/px+기/etn+전/xsnx+에/jca
+
+맛보면
+	맛보/pvg+면/ecs
+
+좋겠다
+	좋/paa+겠/ep+다/ef
+
+.
+	./sf
+
+
+동검도에서는
+	동검/ncn+도/ncn+에서/jca+는/jxc
+
+인천공항대교가
+	인천공항대교/ncn+가/jcs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+여기
+	여기/mad
+
+너무
+	너무/mag
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+아직은
+	아직/mag+은/jxc
+
+잘
+	잘/mag
+
+안알려져서
+	안알려져서/ncn
+
+한적함
+	한적/ncps+하/xsms+ㅁ/etn
+
+.
+	./sf
+
+
+근데
+	근데/ncn
+
+오늘
+	오늘/ncn
+
+가보니까
+	가/pvg+아/ecx+보/px+니까/ecs
+
+동검리
+	동검/ncn+리/ncn
+
+섬을
+	서/pvg+ㅁ/etn+을/jco
+
+한바퀴
+	한/nnc+바퀴/nbu
+
+돌
+	돌/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있게
+	있/px+게/ecs
+
+해안도로를
+	해안/ncn+도로/ncn+를/jco
+
+만들어놨다
+	만들어놨다/ncn
+
+.
+	./sf
+
+
+길이는
+	길/ncn+이/jp+는/etm
+
+짧지만,
+	짧/paa+지/ecx+말/px+ㄴ/etm+,/sp
+
+지나다니는
+	지나/pvg+다니/ef+는/etm
+
+사람들과
+	사람들/ncn+과/jcj
+
+차가
+	차/ncn+가/jcs
+
+많아질
+	많/paa+아/ecx+지/px+ㄹ/etm
+
+듯.
+	듯/nbs+./sf
+
+
+멀리
+	멀리/mag
+
+영종대교
+	영종대교/ncn
+
+
+낼모레면
+	낼모레/ncn+이/jp+면/ecs
+
+저
+	저/mmd
+
+다리를
+	다리/ncn+를/jco
+
+건너
+	건너/pvg+어/ecx
+
+실크로드
+	실크로드/ncn
+
+가는구나,,
+	가/pvg+는구나/ef+,/sp+,/sp
+
+
+얏~호
+	얏/ii+~/sd+호/nbu
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+공사중인
+	공사/ncn+중/ncn+이/jp+ㄴ/etm
+
+어느
+	어느/mmd
+
+집
+	집/ncn
+
+옥상에
+	옥상/ncn+에/jca
+
+올라가
+	오르/pvg+아/ecx+가/px+아/ecx
+
+찍은
+	찍/pvg+은/etm
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+마당
+	마당/ncn
+
+지키던
+	지키/pvg+던/etm
+
+개에게
+	개/nbu+에게/jca
+
+쏘세지
+	쏘세지/ncn
+
+하나
+	하나/nnc
+
+던져주고,,
+	던지/pvg+어/ecx+주/px+고/ecc+,/sp+,/sp
+
+
+동검도에서
+	동검/ncn+도/ncn+에서/jca
+
+그리
+	그리/mad
+
+멀지
+	멀/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+곳에
+	곳/nbn+에/jca
+
+있던
+	있/px+던/etm
+
+어시장,
+	어시장/ncn+,/sp
+
+
+느린
+	느리/paa+ㄴ/etm
+
+경운기를
+	경운기/ncn+를/jco
+
+쫒아가본다
+	쫒아가본다/ncn
+
+.
+	./sf
+
+
+푸른
+	푸르/paa+ㄴ/etm
+
+하늘도
+	하늘/ncn+도/jxc
+
+감상하면서
+	감상/ncpa+하/xsva+면서/ecc
+
+...
+	.../se

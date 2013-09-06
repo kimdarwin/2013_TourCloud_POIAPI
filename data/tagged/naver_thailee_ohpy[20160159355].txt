@@ -1,0 +1,1568 @@
+[창녕여행
+	[창녕여행/ncn
+
+/
+	//sp
+
+레이크힐스
+	레이크/ncn+힐스/ncn
+
+리조트
+	리조트/ncn
+
+]
+	]/sr
+
+우포늪
+	우포늪/ncn
+
+근처
+	근처/ncn
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+쉼터
+	쉼터/ncn
+
+-
+	-/sd
+
+레이크힐스
+	레이크/ncn+힐스/ncn
+
+리조트
+	리조트/ncn
+
+부곡
+	부곡/ncn
+
+
+부곡온천을
+	부곡온천/ncn+을/jco
+
+아시나요
+	알/pvg+시/ep+나/ef+요/jxf
+
+?
+	?/sf
+
+
+땅
+	땅/ncn
+
+모양이
+	모양/ncn+이/jcc
+
+가마솥처럼
+	가마솥/ncn+처럼/jca
+
+생겼다고
+	생기/pvg+었/ep+다/ef+고/jcr
+
+하여
+	하/pvg+어/ecx
+
+지열(
+	지열(/ncn
+
+)과
+	)/sr+과/jct
+
+관계되는
+	관계/ncn+되/xsvn+는/etm
+
+부곡(
+	부곡(/ncn
+
+)이라는
+	)/sr+이/jp+라/ef+는/etm
+
+이름이
+	이름/ncn+이/jcc
+
+붙여졌다고
+	붙이/pvg+어/ecx+지/px+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+마을에는
+	마을/ncn+에/jca+는/jxc
+
+일찍부터
+	일찍/mag+부터/jxc
+
+3개의
+	3/nnc+개/nbu+의/jcm
+
+옹달샘이
+	옹달샘/ncn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+한겨울에도
+	한겨울/ncn+에/jca+도/jxc
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+물이
+	물/ncn+이/jcc
+
+솟아
+	솟/pvg+아/ecx
+
+빨래터로
+	빨래터/ncn+로/jca
+
+이용되었다고
+	이용/ncpa+되/xsvn+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+특히,
+	특히,/ncn
+
+그
+	그/mmd
+
+물은
+	물/pvg+ㄴ/etm
+
+피부병에
+	피부병/ncn+에/jca
+
+특효가
+	특효/ncn+가/jcs
+
+있어
+	있/px+어/ecx
+
+각지에서
+	각지/ncn+에서/jca
+
+나병환자가
+	나병환자/ncn+가/jcs
+
+모여
+	모이/pvg+어/ecx
+
+목욕을
+	목욕/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+간다고
+	갈/pvg+ㄴ다고/ecs
+
+
+하여
+	하/pvg+어/ecx
+
+문둥이샘
+	문둥이/ncn+샘/ncn
+
+이라고도
+	이/npd+이/jp+라/ef+고/jcr+도/jxc
+
+불렀다
+	부르/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+소문이
+	소문/ncn+이/jcc
+
+왕실에까지
+	왕실/ncn+에/jca+까지/jxc
+
+전해져
+	전하/pvg+어/ecx+지/px+어/ecx
+
+조선
+	조선/ncpa
+
+시대에
+	시대/ncn+에/jca
+
+세조는
+	세/nnc+조/nbu+는/jxc
+
+거기에서
+	거기/npd+에서/jca
+
+목욕한
+	목욕/ncpa+하/xsva+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+피부병인
+	피부병/ncn+이/jp+ㄴ/etm
+
+옴을
+	오/px+ㅁ/etn+을/jco
+
+완전히
+	완전히/mag
+
+치료하였다고
+	치료/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그리하여
+	그리하/pvg+어/ecx
+
+이곳을
+	이곳/npd+을/jco
+
+옴샘
+	옴샘/ncn
+
+이라고도
+	이/npd+이/jp+라/ef+고/jcr+도/jxc
+
+불렀다
+	부르/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+동양최고
+	동양/ncn+최고/ncn
+
+수준의
+	수준/ncn+의/jcm
+
+78도
+	78/nnc+도/jxc
+
+유황온천수가
+	유황/ncn+온천수/ncn+가/jcs
+
+꽐꽐
+	꽐꽐/ncn
+
+나오는,
+	나오/pvg+는/etm+,/sp
+
+
+어릴
+	어리/paa+ㄹ/etm
+
+때
+	때/ncn
+
+부모님
+	부모님/ncn
+
+손에
+	손/ncn+에/jca
+
+이끌려
+	이끌리/pvg+어/ecx
+
+찾았던
+	찾/pvg+아/ep+ㄴ/etm
+
+기억과
+	기억/ncpa+과/jcj
+
+골프를
+	골프/ncn+를/jco
+
+배우면서
+	배우/pvg+면서/ecc
+
+찾았던
+	찾/pvg+아/ep+ㄴ/etm
+
+기억이
+	기억/ncpa+이/jcc
+
+있는
+	있/px+는/etm
+
+창녕의
+	창녕/ncn+의/jcm
+
+부곡
+	부곡/ncn
+
+온천
+	온천/ncn
+
+
+이국적인
+	이국/ncn+적/ncn+이/jp+ㄴ/etm
+
+함안둑방에서
+	함안둑방/ncn+에서/jca
+
+아름다운
+	아름답/paa+은/etm
+
+꽃과
+	꽃/ncn+과/jcj
+
+네델란드의
+	네델란드/ncn+의/jcm
+
+풍차구경을
+	풍차/ncn+구경/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+한우별곡에서
+	한우별곡/ncn+에서/jca
+
+저녁식사를
+	저녁식사/ncpa+를/jco
+
+하고
+	하/pvg+고/ecc
+
+
+2월에
+	2/nnc+월/nbu+에/jca
+
+창원,
+	창원,/ncn
+
+함안,
+	하/pvg+ㅁ/etn+안/xsnx+,/sp
+
+창녕여행을
+	창녕여행/ncn+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+너무나도
+	너무나/mag+도/jxc
+
+편하게
+	편하/paa+게/ecs
+
+쉬었던
+	쉬/pvg+었/ep+던/etm
+
+레이크
+	레이크/ncn
+
+힐스
+	힐스/ncn
+
+리조트
+	리조트/ncn
+
+
+예전에는
+	예전/ncn+에/jca+는/jxc
+
+회원제로
+	회원/ncn+제/ncn+로/jca
+
+운영되었다가
+	운영/ncpa+되/xsvn+었/ep+다가/ecs
+
+리뉴얼
+	리뉴얼/ncn
+
+공사를
+	공사/ncn+를/jco
+
+거쳐
+	거치/pvg+어/ecx
+
+리조트로
+	리조트/ncn+로/jca
+
+탈바꿈
+	탈바꿈/ncpa
+
+
+일반인도
+	일반인/ncn+도/jxc
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다고
+	있/px+다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+이곳을
+	이곳/npd+을/jco
+
+다시
+	다시/mag
+
+찾았다
+	찾/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+1층
+	1/nnc+층/nbu
+
+로비에는
+	로비/ncn+에/jca+는/jxc
+
+다른
+	다르/paa+ㄴ/etm
+
+곳과는
+	곳/ncn+과/jct+는/jxc
+
+달리
+	달리/mag
+
+편하게
+	편하/paa+게/ecs
+
+앉아서
+	앉/pvg+아/ecx
+
+쉴
+	쉬/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+공간이
+	공간/ncn+이/jcc
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+골프를
+	골프/ncn+를/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+손님들이
+	손님/ncn+들/ncn+이/jcc
+
+이곳에서
+	이곳/npd+에서/jca
+
+편하게
+	편하/paa+게/ecs
+
+하루를
+	하루/ncn+를/jco
+
+보낼
+	보내/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+휴식공간을
+	휴식공간/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+만들어
+	만들/pvg+어/ecx
+
+논듯
+	놀/pvg+ㄴ/etm+듯/nbs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+묵은
+	묵/pvg+은/etm
+
+객실에는
+	객실/ncn+에/jca+는/jxc
+
+더블침대
+	더블/ncn+침대/ncn
+
+두
+	두/nnc
+
+개에
+	개/nbu+에/jca
+
+뽀송뽀송한
+	뽀송뽀송한/ncn
+
+하얀
+	하얗/paa+은/etm
+
+침구가
+	침구/ncn+가/jcs
+
+보기만
+	보/px+기/etn+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+푹신한
+	푹신/ncps+하/xsms+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+잠이
+	잠/ncn+이/jcc
+
+솔솔
+	솔솔/mag
+
+올
+	오/px+ㄹ/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+
+벽에
+	벽/ncn+에/jca
+
+미닫이문을
+	미닫이/ncn+문/ncn+을/jco
+
+열면
+	열/pvg+면/ecs
+
+가운데
+	가운데/ncn
+
+세면대가
+	세면대/ncn+가/jcs
+
+있고
+	있/px+고/ecc
+
+왼쪽으로는
+	왼쪽/ncn+으로/jca+는/jxc
+
+화장실
+	화장실/ncn
+
+오른쪽으로는
+	오르/pvg+ㄴ/etm+쪽/nbn+으로/jca+는/jxc
+
+샤워시설이
+	샤워시설/ncn+이/jcc
+
+
+너무
+	너무/mag
+
+많이
+	많/paa+이/xsa
+
+걷고
+	걷/pvg+고/ecc
+
+저녁
+	저녁/ncn
+
+먹으면서
+	먹/pvg+으면서/ecc
+
+술도
+	술/ncn+도/jxc
+
+한잔
+	한/nnc+잔/nbu
+
+했더니
+	하/px+었/ep+더니/ecs
+
+많이
+	많/paa+이/xsa
+
+피곤해서
+	피곤/ncps+해서/ncn
+
+유황온천수로
+	유황/ncn+온천수/ncn+로/jca
+
+기운을
+	기운/ncn+을/jco
+
+
+미끌미끌하고
+	미끌미끌하/ncn+이/jp+고/ecc
+
+유황냄새가
+	유황/ncn+냄새/ncn+가/jcs
+
+나는것이
+	나/px+는/etm+것/nbn+이/jcc
+
+온천물이
+	온천/ncn+물/ncn+이/jcc
+
+좋긴
+	좋긴/ncn
+
+좋네요
+	좋/paa+네요/ef
+
+
+옛말에
+	옛말/ncn+에/jca
+
+온천욕이
+	온천욕/ncn+이/jcc
+
+보약
+	보약/ncn
+
+한첩보다
+	한/nnc+첩/nbu+보다/jca
+
+낫다는
+	낫/paa+다/ef+는/etm
+
+말도
+	말/nbu+도/jxc
+
+
+이곳은
+	이곳/npd+은/jxc
+
+78도
+	78/nnc+도/jxc
+
+뜨거운
+	뜨겁/paa+은/etm
+
+온천수가
+	온천수/ncn+가/jcs
+
+공급되는데
+	공급/ncpa+되/xsvn+ㄴ데/ecs
+
+물을
+	물/ncn+을/jco
+
+데우는
+	데우/pvg+는/etm
+
+시설이
+	시설/ncpa+이/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+물을
+	물/ncn+을/jco
+
+식히는
+	식히/pvg+는/etm
+
+시설을
+	시설/ncpa+을/jco
+
+갖추고
+	갖추/pvg+고/ecc
+
+있다고
+	있/px+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+겨울에
+	겨울/ncn+에/jca
+
+전실
+	전실/ncn
+
+난방을
+	난방/ncn+을/jco
+
+전기나
+	전기/ncn+나/jcj
+
+연료를
+	연료/ncn+를/jco
+
+이용하지
+	이용/ncpa+하/xsva+지/ecx
+
+않고
+	않/px+고/ecc
+
+온천물로
+	온천/ncn+물/ncn+로/jca
+
+이용한다고
+	이용/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+샤워를
+	샤워/ncpa+를/jco
+
+하고
+	하/pvg+고/ecc
+
+이웃님들과
+	이웃/ncpa+님/ncn+들/xsncc+과/jct
+
+모여
+	모이/pvg+어/ecx
+
+술
+	술/ncn
+
+한잔
+	한/nnc+잔/nbu
+
+하면서
+	하/pvg+면서/ecc
+
+밤이
+	밤/ncn+이/jcc
+
+새는
+	새/ncn+는/jxc
+
+줄도
+	줄/nbn+도/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+도란도란
+	도란도란/mag
+
+이야기를
+	이야기/ncpa+를/jco
+
+
+우포의
+	우포/ncn+의/jcm
+
+새벽을
+	새벽/ncn+을/jco
+
+담기
+	담/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+모두들
+	모두/ncn+들/ncn
+
+2시간
+	2/nnc+시간/nbu
+
+밖에
+	밖/ncn+에/jca
+
+못
+	못/mag
+
+잤다는
+	자/pvg+아/ep+다는/etm
+
+
+우포
+	우포/ncn
+
+출사를
+	출사/ncpa+를/jco
+
+마치고
+	마치/pvg+고/ecc
+
+다시
+	다시/mag
+
+숙소로
+	숙소/ncn+로/jca
+
+들어와
+	들/pvg+어/ecx+오/px+아/ecx
+
+이웃님들
+	이웃/ncpa+님/ncn+들/xsncc
+
+오래
+	오래/mag
+
+살려고
+	살/pvg+려고/ecs
+
+사우나로
+	사우나/ncn+로/jca
+
+직행
+	직행/ncn
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+
+난
+	나/px+ㄴ/etm
+
+너무도
+	너무/mag+도/jxc
+
+피곤해서
+	피곤/ncps+하/xsms+어서/ecs
+
+객실로
+	객실/ncn+로/jca
+
+들어와서
+	들/pvg+어/ecx+오/px+아/ecx
+
+아침식사를
+	아침식사/ncpa+를/jco
+
+할
+	하/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+까지
+	까/pvg+지/ecx
+
+졸도
+	졸도/ncn
+
+
+잠시
+	잠시/mag
+
+눈을
+	눈/ncn+을/jco
+
+붙인
+	붙이/pvg+ㄴ/etm
+
+것
+	것/nbn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+룸메이트인
+	룸메이트/ncn+이/jp+ㄴ/etm
+
+재빈짱님이
+	재빈짱님/ncn+이/jcc
+
+아침
+	아침/ncn
+
+먹으러
+	먹/pvg+으러/ecs
+
+가자고
+	가/px+자/ef+고/jcr
+
+깨운다
+	깨우/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+재빈짱
+	재빈짱/ncn
+
+젊어서
+	젊/paa+어서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+쌩쌩하다
+	쌩쌩하/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+레이크힐스
+	레이크/ncn+힐스/ncn
+
+부곡은
+	부곡은/ncn
+
+아침뿐만
+	아침/ncn+뿐/jxc+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+점심,
+	점심/ncn+,/sp
+
+저녁도
+	저녁/ncn+도/jxc
+
+다
+	다/mag
+
+해결
+	해결/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/paa+다/ef
+
+
+분위기는
+	분위기/ncn+는/jxc
+
+식당이
+	식당/ncn+이/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+칵테일
+	칵테일/ncn
+
+바
+	바/nbn
+
+
+주문한
+	주문/ncn+한/ncn
+
+요리들이
+	요리/ncn+들/ncn+이/jcc
+
+하나
+	하/pvg+나/ecs
+
+둘
+	두/pvg+ㄹ/etm
+
+등장을
+	등장/ncpa+을/jco
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+제일먼저
+	제일먼저/ncn
+
+레이크힐스
+	레이크/ncn+힐스/ncn
+
+블랙
+	블랙/ncn
+
+
+믹스샐러드와
+	믹스/ncpa+샐러드/ncn+와/jcj
+
+발사믹
+	발사믹/ncn
+
+베이컨,
+	베이컨/ncn+,/sp
+
+포크소세지,
+	포크/ncn+소세지/ncn+,/sp
+
+감자튀김,
+	감자튀김/ncn+,/sp
+
+스크램블,
+	스크램블/ncn+,/sp
+
+치즈와
+	치즈/ncn+와/jcj
+
+오렌지
+	오렌지/ncn
+
+와
+	오/pvg+아/ecx
+
+커피한잔
+	커피/ncn+한잔/ncpa
+
+
+우리가
+	우리/npp+가/jcs
+
+흔히
+	흔히/mag
+
+말하는
+	말/ncpa+하/xsva+는/etm
+
+아메리칸
+	아메리칸/ncn
+
+불렉퍼스트
+	불렉퍼스트/ncn
+
+
+전복살을
+	전복/ncn+살/ncn+을/jco
+
+토핑으로
+	토핑/ncn+으로/jca
+
+올린
+	올리/pvg+ㄴ/etm
+
+정갈하고
+	정갈/ncps+하고/jct
+
+고소한
+	고소/ncn+한/ncn
+
+전복죽
+	전복/ncn+죽/ncn
+
+계란노른자와
+	계란/ncn+노른자/ncn+와/jcj
+
+동치미,
+	동치미/ncn+,/sp
+
+김,
+	김/nbn+,/sp
+
+검은콩
+	검은콩/ncn
+
+이
+	이/mmd
+
+함께
+	함께/mag
+
+
+굴소스
+	굴소스/ncn
+
+팔진회반
+	팔진회반/ncn
+
+해산물을
+	해산물/ncn+을/jco
+
+굴소스로
+	굴소스/ncn+로/jca
+
+볶아
+	볶/pvg+아/ecx
+
+밥에
+	밥/ncn+에/jca
+
+올린
+	올리/pvg+ㄴ/etm
+
+중식식
+	중식식/ncn
+
+덥밥,
+	덥밥,/ncn
+
+계란탕과
+	계란/ncn+탕/ncn+과/jcj
+
+중국전통차가
+	중국전통/ncn+차/ncn+가/jcs
+
+함께
+	함께/mag
+
+제공된다
+	제공/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+구은
+	구/pvg+ㄴ/etm
+
+우포늪
+	우포늪/ncn
+
+마늘과
+	마늘/ncn+과/jcj
+
+새송이
+	새송/ncn+이/jcc
+
+베이컨
+	베이컨/ncn
+
+그리고
+	그리고/maj
+
+로즈마리가
+	로즈마리/ncn+가/jcs
+
+곁들어진
+	곁듣/pvg+어/ecx+지/px+ㄴ/etm
+
+알프레도
+	알프레/ncn+도/jxc
+
+크림스파게티
+	크림/ncn+스파게티/ncn
+
+
+디너코스요리인
+	디너/ncn+코스/ncn+요리/ncn+이/jp+ㄴ/etm
+
+레이크힐스
+	레이크/ncn+힐스/ncn
+
+데일리
+	데/nbn+이/jp+ㄹ/etm+리/nbn
+
+숲
+	숲/ncn
+
+
+해산물
+	해산물/ncn
+
+애피타이져와
+	애피타이져/ncn+와/jct
+
+구운
+	굽/pvg+은/etm
+
+마늘빵,
+	마늘/ncn+빵/ncn+,/sp
+
+그리고
+	그리고/maj
+
+호박죽과
+	호박죽/ncn+과/jcj
+
+안심스테이크
+	안심스테이크/ncn
+
+고기가
+	고/ncn+이/jp+기/etn+가/jcs
+
+정말
+	정말/mag
+
+부드럽고
+	부드럽/paa+고/ecc
+
+고기맛이
+	고기/ncn+맛/ncn+이/jcc
+
+살아
+	살/pvg+아/ecx
+
+있는
+	있/px+는/etm
+
+듯
+	듯/nbn
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+다음은
+	다음/ncn+은/jxc
+
+술안주로
+	술안주/ncn+로/jca
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+송이와
+	송이/ncn+와/jcj
+
+소고기
+	소고/ncn+이/jp+기/etn
+
+그리고
+	그리고/maj
+
+중화야채로
+	중화/ncn+야채/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+중국식
+	중국식/ncn
+
+송이
+	송이/nbu
+
+난자완스
+	난자완스/ncn
+
+
+와
+	오/pvg+아/ecx
+
+후레쉬
+	후레쉬/ncn
+
+파머산치즈를
+	파머산치즈/ncn+를/jco
+
+곁들인
+	곁들이/pvg+ㄴ/etm
+
+스테이크
+	스테이크/ncn
+
+샐러드
+	샐러드/ncn
+
+까지
+	까/pvg+지/ecs
+
+
+조금씩
+	조금씩/ncn
+
+나누어서
+	나누/pvg+어서/ecs
+
+먹어서
+	먹/pvg+어서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+더
+	더/mag
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+것
+	것/nbn
+
+같은
+	같/paa+은/etm
+
+
+마지막
+	마지막/ncn
+
+후식으로
+	후/ncn+식/xsncc+으로/jca
+
+아이스크림까지
+	아이스크림/ncn+까지/jxc
+
+먹고는
+	먹/pvg+고/ecs+는/jxc
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+시간을
+	시간/ncn+을/jco
+
+마무리
+	마무리/ncpa
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+2시간밖에
+	2/nnc+시간/nbu+밖에/jxc
+
+자지
+	자/pvg+지/ecx
+
+못했지만
+	못하/px+었/ep+지만/ecs
+
+편했던
+	편하/paa+었/ep+던/etm
+
+잠자리와
+	잠자리/ncn+와/jcj
+
+몸에
+	몸/ncn+에/jca
+
+기운을
+	기운/ncn+을/jco
+
+넣어주는
+	넣/pvg+어/ecx+주/px+는/etm
+
+유황온천수
+	유황/ncn+온천수/ncn
+
+
+좋은
+	좋/paa+은/etm
+
+곳에
+	곳/nbn+에/jca
+
+오면
+	오/px+면/ecs
+
+꼭
+	꼭/mag
+
+가족들
+	가족/ncn+들/ncn
+
+생각이
+	생각/ncpa+이/jcc
+
+난다
+	나/px+ㄴ다/ef
+
+.
+	./sf
+
+
+다음에
+	다음/ncn+에/jca
+
+가족과
+	가족/ncn+과/jct
+
+함께
+	함께/mag
+
+창원,
+	창원,/ncn
+
+함안,
+	하/pvg+ㅁ/etn+안/xsnx+,/sp
+
+창녕여행을
+	창녕여행/ncn+을/jco
+
+오게
+	오/px+게/ecs
+
+되면
+	되/pvg+면/ecs
+
+꼭
+	꼭/mag
+
+이곳에서
+	이곳/npd+에서/jca
+
+함께하고
+	함께하/pvg+고/ecc
+
+싶은
+	싶/px+은/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이곳을
+	이곳/npd+을/jco
+
+떠나면서
+	떠나/pvg+면서/ecc
+
+창녕
+	창녕/ncn
+
+부곡온천이
+	부곡온천/ncn+이/jcc
+
+옛
+	옛/mma
+
+영화를
+	영화/ncn+를/jco
+
+되찾아
+	되찾/pvg+아/ecx
+
+관광객이
+	관광객/ncn+이/jcc
+
+북적거리는
+	북적거리/pvg+는/etm
+
+도시로
+	도시/ncn+로/jca
+
+다시
+	다시/mag
+
+거듭났으면
+	거듭나/pvg+아/ep+면/ecs
+
+하는
+	하/pvg+는/etm
+
+바램을
+	바램/ncn+을/jco
+
+해본다
+	하/pvg+어/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+레이크힐스
+	레이크/ncn+힐스/ncn
+
+리조트
+	리조트/ncn
+
+부곡(부곡온천)
+	부곡(부곡온천/ncn+)/sr
+
+
+경상남도
+	경상/ncn+남/ncn+도/jxc
+
+창녕군
+	창녕군/ncn
+
+부곡면
+	부곡면/ncn
+
+거문리
+	거문리/ncn
+
+213-19
+	213/nnc+-19/nnc
+
+
+055)536-5181
+	055/nnc+)/sr+536/nnc+-5181/nnc

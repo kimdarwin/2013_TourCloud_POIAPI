@@ -1,0 +1,959 @@
+'지아(Zia)가
+	'지아(Zia)/ncn+가/jcs
+
+돌아왔다
+	돌/pvg+아/ecx+오/px+아/ep+다/ef
+
+그리고
+	그리고/maj
+
+변화된지아'의
+	변화된지아'/ncn+의/jcm
+
+새
+	새/mma
+
+미니앨범
+	미니/ncn+앨범/ncn
+
+"DIFFERENCE"
+	"/sl+DIFFERENCE/f+"/sl
+
+
+'웃음만
+	'/sr+웃음/ncn+만/jxc
+
+..'
+	./sf+./sf+'/sl
+
+
+새
+	새/mma
+
+앨범의
+	앨범/ncn+의/jcm
+
+타이틀
+	타이틀/ncn
+
+곡이다
+	곡/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+전과는
+	전/nbn+과/jct+는/jxc
+
+달르게
+	달르/ncn+이/jp+게/ecs
+
+..
+	./sf+./sf
+
+
+대중적인
+	대중/ncn+적/ncn+이/jp+ㄴ/etm
+
+발라드에서하이브리드
+	발라드에서하이브리드/ncn
+
+발라드로
+	발라드/ncn+로/jca
+
+..
+	./sf+./sf
+
+
+'지아의매력적인
+	'지아의매력적/ncn+이/jp+ㄴ/etm
+
+감성적
+	감성/ncn+적/ncn
+
+보이스와곡의
+	보이스와곡/ncn+의/jcm
+
+구성이나
+	구성/ncn+이나/jcj
+
+사운드의
+	사운드/ncn+의/jcm
+
+변화에
+	변화/ncpa+에/jca
+
+지아의
+	지아/ncn+의/jcm
+
+새로운
+	새롭/paa+은/etm
+
+일면을
+	일/nnc+면/nbu+을/jco
+
+보았다
+	보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+웃음만
+	웃음/ncn+만/jxc
+
+..
+	./sf+./sf
+
+
+은'지아'의
+	은'지아'/ncn+의/jcm
+
+애절한감성적인
+	애절한감성적/ncn+이/jp+ㄴ/etm
+
+보이스로이별의
+	보이스/ncn+로이/ncn+별/ncn+의/jcm
+
+슬픔을
+	슬프/paa+ㅁ/etn+을/jco
+
+더욱더애달프게
+	더욱더애달프/ncn+이/jp+게/ecs
+
+느켜지는
+	느켜지/ncn+는/jxc
+
+듯하다
+	듯하/paa+다/ef
+
+.
+	./sf
+
+
+웃음만
+	웃음/ncn+만/jxc
+
+..
+	./sf+./sf
+
+
+지아
+	지/ncn+아/jcv
+
+(
+	(/sl
+
+Zia)
+	Zia/f+)/sr
+
+~
+	~/sd
+
+뮤직비디오
+	뮤직비디오/ncn
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc20/2010/08/16/744/03100223A187536E3CC3A92873DA69832C1_ya3542_logo.
+	net/blogucc20/2010/08/16/744/03100223A187536E3CC3A92873DA69832C1_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'298.
+	'/sr+298./nnc
+
+519';
+	519/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'BCF0292E85E19DD6DA26566F07866A19B918';
+	'BCF0292E85E19DD6DA26566F07866A19B918/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12530691037f15f83e39bb9ead3d6b3a7a4a26e4ac1197ccbdd6e235166d765a5f78bb9ead3d6b3a7a4a';
+	'V12530691037f15f83e39bb9ead3d6b3a7a4a26e4ac1197ccbdd6e235166d765a5f78bb9ead3d6b3a7a4a/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_07963
+	ugcPlayer_07963/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_07963'
+	VideoInfraUGCPlayer('ugcPlayer_07963'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_07963
+	ugcPlayer_07963/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+웃음만
+	웃음/ncn+만/jxc
+
+..
+	./sf+./sf
+
+
+의
+	의/ncn
+
+뮤직비디오는배우
+	뮤직비디오는배우/ncn
+
+신하균이
+	신하/ncn+균/ncn+이/jcc
+
+주인공을
+	주인공/ncn+을/jco
+
+맡아
+	맡/pvg+아/ecx
+
+..
+	./sf+./sf
+
+
+아이를
+	아이/ncn+를/jco
+
+잃은
+	잃/pvg+은/etm
+
+한
+	한/nnc
+
+아버지의
+	아버지/ncn+의/jcm
+
+
+가슴
+	가슴/ncn
+
+저린
+	저리/pvg+ㄴ/etm
+
+부성애를
+	부성애/ncn+를/jco
+
+담아
+	담/pvg+아/ecx
+
+..
+	./sf+./sf
+
+
+노래에서
+	노래/ncn+에서/jca
+
+느껴지는
+	느끼/pvg+어/ecx+지/px+는/etm
+
+슬픈
+	슬프/paa+ㄴ/etm
+
+감정을
+	감정/ncn+을/jco
+
+보다
+	보다/mag
+
+깊게
+	깊/paa+게/ecs
+
+표현하였다
+	표현/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+웃음만
+	웃음/ncn+만/jxc
+
+..
+	./sf+./sf
+
+
+지아
+	지/ncn+아/jcv
+
+(
+	(/sl
+
+Zia)
+	Zia/f+)/sr
+
+
+묻는다
+	묻/pvg+는다/ef
+
+너를
+	너/npp+를/jco
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+묻는다
+	묻/pvg+는다/ef
+
+묻는다차마
+	묻는다차마/ncn
+
+놓칠
+	놓치/pvg+ㄹ/etm
+
+못해
+	못하/pvg+어/ecx
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+묻는다빙빙빙
+	묻는다빙빙빙/ncn
+
+자꾸
+	자꾸/mag
+
+맴돌아
+	맴돌/pvg+아/ecx
+
+빙빙빙
+	빙빙빙/ncn
+
+가슴안에서묻는다
+	가슴안에서묻는다/ncn
+
+내가
+	나/npp+가/jcs
+
+내게
+	내/pvg+게/ecs
+
+묻는다
+	묻/pvg+는다/ef
+
+묻는다
+	묻/pvg+는다/ef
+
+이게
+	이/npd+이/jp+게/ecs
+
+잊는거냐고
+	잊/pvg+는/etm+것/nbn+이/jp+냐/ef+고/jcr
+
+물어본다꺼내고
+	물어본다꺼내/ncn+이/jp+고/ecc
+
+꺼내보면서
+	꺼내/pvg+어/ecx+보/px+면서/ecc
+
+뭘
+	뭐/npd+을/jco
+
+대체
+	대체/mag
+
+잊는
+	잊/pvg+는/etm
+
+거냐고그저
+	거냐고그저/ncn
+
+웃음만
+	웃음/ncn+만/jxc
+
+그저
+	그저/mag
+
+웃음만
+	웃음/ncn+만/jxc
+
+그저
+	그저/mag
+
+웃음만
+	웃음/ncn+만/jxc
+
+나와흔한
+	나와흔한/ncn
+
+눈물도
+	눈물/ncn+도/jxc
+
+헤픈
+	헤프/paa+ㄴ/etm
+
+눈물도
+	눈물/ncn+도/jxc
+
+다
+	다/mag
+
+말라
+	마르/pvg+아/ecx
+
+버렸어이제
+	버렸어이제/ncn
+
+어떻게
+	어떻/pad+게/ecs
+
+해야
+	하/pvg+어야/ecs
+
+살아갈수
+	살/pvg+아/ecx+가/px+ㄹ/etm+수/nbn
+
+있겠니이제
+	있겠니이제/ncn
+
+어떻게
+	어떻/pad+게/ecs
+
+내가
+	나/npp+가/jcs
+
+너를
+	너/npp+를/jco
+
+잊을
+	잊/pvg+을/etm
+
+수
+	수/nbn
+
+있니웃음만
+	있니웃음만/ncn
+
+웃음만
+	웃음/ncn+만/jxc
+
+..
+	./sf+./sf
+
+
+덮는다
+	덮/pvg+는다/ef
+
+거짓
+	거짓/ncn
+
+웃음으로
+	웃음/ncn+으로/jca
+
+널
+	널/pvg+ㄹ/etm
+
+덮는다애써
+	덮는다애써/ncn
+
+감춰보려
+	감추/pvg+어/ecx+보/px+려/ecs
+
+마음을
+	마음/ncn+을/jco
+
+덮는다핑핑핑
+	덮는다핑핑핑/ncn
+
+자꾸
+	자꾸/mag
+
+눈물만
+	눈물/ncn+만/jxc
+
+윙윙윙
+	윙윙윙/ncn
+
+또
+	또/maj
+
+자꾸
+	자꾸/mag
+
+들려와그저
+	들려와그저/ncn
+
+웃음만
+	웃음/ncn+만/jxc
+
+그저
+	그저/mag
+
+웃음만
+	웃음/ncn+만/jxc
+
+그저
+	그저/mag
+
+웃음만
+	웃음/ncn+만/jxc
+
+나와
+	나/npp+와/jct
+
+흔한
+	흔하/paa+ㄴ/etm
+
+눈물도
+	눈물/ncn+도/jxc
+
+헤픈
+	헤프/paa+ㄴ/etm
+
+눈물도
+	눈물/ncn+도/jxc
+
+다
+	다/mag
+
+말라버렸어
+	마르/pvg+아/ecx+버리/px+었/ep+어/ecs
+
+이제
+	이제/mag
+
+어떻게
+	어떻/pad+게/ecs
+
+해야
+	하/pvg+어야/ecs
+
+살아갈수
+	살/pvg+아/ecx+가/px+ㄹ/etm+수/nbn
+
+있겠니이제
+	있겠니이제/ncn
+
+어떻게
+	어떻/pad+게/ecs
+
+내가
+	나/npp+가/jcs
+
+너를
+	너/npp+를/jco
+
+잊을
+	잊/pvg+을/etm
+
+수
+	수/nbn
+
+있니웃음만
+	있니웃음만/ncn
+
+웃음만
+	웃음/ncn+만/jxc
+
+난
+	나/px+ㄴ/etm
+
+웃음만
+	웃음/ncn+만/jxc
+
+웃음만
+	웃음/ncn+만/jxc
+
+웃음만
+	웃음/ncn+만/jxc
+
+난
+	나/px+ㄴ/etm
+
+웃음만그저
+	웃음만그저/ncn
+
+웃음만
+	웃음/ncn+만/jxc
+
+그저
+	그저/mag
+
+웃음만
+	웃음/ncn+만/jxc
+
+그저
+	그저/mag
+
+웃음만
+	웃음/ncn+만/jxc
+
+나와흔한
+	나와흔한/ncn
+
+눈물도
+	눈물/ncn+도/jxc
+
+헤픈
+	헤프/paa+ㄴ/etm
+
+눈물도
+	눈물/ncn+도/jxc
+
+다
+	다/mag
+
+말라버렸어
+	마르/pvg+아/ecx+버리/px+었/ep+어/ecs
+
+이제
+	이제/mag
+
+어떻게
+	어떻/pad+게/ecs
+
+해야
+	하/pvg+어야/ecs
+
+살아갈
+	살/pvg+아/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+있겠니이제
+	있겠니이제/ncn
+
+어떻게
+	어떻/pad+게/ecs
+
+내가
+	나/npp+가/jcs
+
+너를
+	너/npp+를/jco
+
+잊을
+	잊/pvg+을/etm
+
+수
+	수/nbn
+
+있니웃음만
+	있니웃음만/ncn
+
+웃음만
+	웃음/ncn+만/jxc
+
+난
+	나/px+ㄴ/etm
+
+웃음만
+	웃음/ncn+만/jxc
+
+웃음만
+	웃음/ncn+만/jxc
+
+웃음만
+	웃음/ncn+만/jxc
+
+난
+	나/px+ㄴ/etm
+
+웃음만
+	웃음/ncn+만/jxc
+
+
+웃음만
+	웃음/ncn+만/jxc
+
+..
+	./sf+./sf
+
+
+지아
+	지/ncn+아/jcv
+
+(
+	(/sl
+
+Zia)
+	Zia/f+)/sr
+
+
+민초호야의
+	민초호야/ncn+의/jcm
+
+음악여행
+	음악/ncn+여행/ncpa

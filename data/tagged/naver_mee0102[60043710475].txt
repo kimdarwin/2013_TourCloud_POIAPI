@@ -1,0 +1,454 @@
+동락공원
+	동락/ncpa+공원/ncn
+
+
+경북
+	경북/ncn
+
+>
+	>/sr
+
+구미
+	구미/ncn
+
+
+기간
+	기간/ncn
+
+2007.
+	2007./nnc
+
+10.
+	10./nnc
+
+27
+	27/nnc
+
+~
+	~/sd
+
+2007.
+	2007./nnc
+
+10.
+	10./nnc
+
+27
+	27/nnc
+
+(1일)
+	(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+연인과
+	연인/ncn+과/jcj
+
+커플여행
+	커플/ncn+여행/ncpa
+
+
+야경만
+	야경/ncn+만/jxc
+
+찍으러
+	찍/pvg+으러/ecs
+
+동락공원엘
+	동락/ncpa+공원/ncn+엘/jca
+
+오다가낮
+	오다가낮/ncn
+
+풍경을
+	풍경/ncn+을/jco
+
+보는
+	보/px+는/etm
+
+것은
+	것/nbn+은/jxc
+
+참으로
+	차/pvg+ㅁ/etn+으로/jca
+
+신선했다
+	신선/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+가을로
+	가을/ncn+로/jca
+
+물들어
+	물들/pvg+어/ecx
+
+가는
+	가/pvg+는/etm
+
+동락공원에서
+	동락/ncpa+공원/ncn+에서/jca
+
+김밥이며
+	김밥/ncn+이/jp+며/ecc
+
+먹을
+	먹/pvg+을/etm
+
+거리를
+	거리/ncn+를/jco
+
+싸들고
+	싸들/pvg+고/ecc
+
+와서
+	오/px+아/ecs
+
+즐거운
+	즐겁/paa+은/etm
+
+나들이를
+	나들이/ncpa+를/jco
+
+하는
+	하/pvg+는/etm
+
+가족들이
+	가족/ncn+들/ncn+이/jcc
+
+많았다
+	많/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+밤에만
+	밤/ncn+에/jca+만/jxc
+
+왔으니
+	오/px+아/ep+니/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+아름다운
+	아름답/paa+은/etm
+
+빛깔의
+	빛깔/ncn+의/jcm
+
+물고기들이
+	물고기/ncn+들/ncn+이/jcc
+
+존재하는지도
+	존재/ncpa+하/xsva+는지/ecs+도/jxc
+
+당연히
+	당연히/mag
+
+몰랐었고~~
+	모르/pvg+아/ep+고/ecc+~/sd+~/sd
+
+
+마라도에서도
+	마라도에서/ncn+도/jxc
+
+자장면을
+	자장면/ncn+을/jco
+
+시켜먹는
+	시켜먹/pvg+는/etm
+
+세상이니
+	세상/ncn+이/jp+니/ecs
+
+공원에서
+	공원/ncn+에서/jca
+
+음식배달은
+	음식/ncn+배달/ncpa+은/jxc
+
+당연한
+	당연/ncps+하/xsms+ㄴ/etm
+
+이치인지도
+	이/nnc+치/nbu+이/jp+ㄴ지/ecs+도/jxc
+
+모르겠다
+	모르/pvg+겠/ep+다/ef
+
+.
+	./sf
+
+
+위의
+	위/ncn+의/jcm
+
+음식은
+	음식/ncn+은/jxc
+
+삼선짬뽕이랑
+	삼선짬뽕이랑/ncn
+
+야끼우동인데
+	야끼우동/ncn+이/jp+ㄴ데/ecs
+
+경상도
+	경상/ncn+도/jxc
+
+이외의
+	이외/ncn+의/jcm
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+야끼우동의
+	야끼우동/ncn+의/jcm
+
+존재를
+	존재/ncn+를/jco
+
+아실랑가
+	아실랑/ncn+가/jcs
+
+모르겠다
+	모르/pvg+겠/ep+다/ef
+
+.
+	./sf
+
+
+빨간
+	빨갛/paa+은/etm
+
+자장면이라고
+	자장면/ncn+이/jp+라/ef+고/jcr
+
+하면
+	하/pvg+면/ecs
+
+이해는
+	이/nnc+해/nbu+는/jxc
+
+하겠지만
+	하/px+겠/ep+지만/ecs
+
+빨간
+	빨갛/paa+은/etm
+
+자장면이라는
+	자장면/ncn+이/jp+라/ef+는/etm
+
+아이템이
+	아이템/ncn+이/jcc
+
+생기기
+	생기/pvg+기/etn
+
+훨씬
+	훨씬/mag
+
+이전부터
+	이전/ncn+부터/jxc
+
+경상권에서만
+	경상/ncn+권/ncn+에서/jca+만/jxc
+
+야끼우동의
+	야끼우동/ncn+의/jcm
+
+메뉴가
+	메뉴/ncn+가/jcs
+
+있었던
+	있/paa+었/ep+던/etm
+
+거
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+그것도
+	그것/npd+도/jxc
+
+대구와
+	대구/ncn+와/jcj
+
+경북지역으로만
+	경북지역/ncn+으로/jca+만/jxc
+
+한정된
+	한정/ncpa+되/xsvn+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+싶은데
+	싶/px+은/etm+데/nbn
+
+...
+	.../se
+
+
+다른
+	다른/mma
+
+어느
+	어느/mmd
+
+지역의
+	지역/ncn+의/jcm
+
+반점엘
+	반점/ncn+엘/jca
+
+가도
+	가/px+아/ecs
+
+야끼우동은
+	야끼우동/ncn+은/jxc
+
+메뉴에
+	메뉴/ncn+에/jca
+
+없었으니까~~
+	없/paa+었/ep+으니까/ecc+~/sd+~/sd
+
+
+참고로
+	참고/ncpa+로/jca
+
+경상도에
+	경상/ncn+도/ncn+에/jca
+
+오면
+	오/px+면/ecs
+
+자장면이
+	자장면/ncn+이/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+야끼우동을
+	야끼우동/ncn+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+번
+	번/nbu
+
+먹어보길
+	먹어보길/ncn
+
+권한다
+	권하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+아마
+	아마/mag
+
+앞으로는
+	앞/ncn+으로/jca+는/jxc
+
+야끼우동만
+	야끼우동만/ncn
+
+생각날
+	생각나/pvg+ㄹ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+**공감하시면
+	*/sy+*/sy+공감/ncpa+하시/ncn+이/jp+면/ecs
+
+공감
+	공감/ncpa
+
+꾸욱~~~
+	꾸욱/ncn+~/sd+~/sd+~/sd
+
+
+스크랩하실땐
+	스크랩하실땐/ncn
+
+한
+	한/nnc
+
+줄
+	주/px+ㄹ/etm
+
+덧글의
+	덧글/ncn+의/jcm
+
+센스를~~~
+	센스/ncn+를/jco+~/sd+~/sd+~/sd
+
+
+무단
+	무단/ncn
+
+도용은
+	도용/ncpa+은/jxc
+
+아시죠~~~**
+	아시/ncn+이/jp+죠/ef+~/sd+~/sd+~/sd+*/sy+*/sy
+
+
+경북
+	경북/ncn
+
+구미,
+	구미/ncn+,/sp
+
+동락공원
+	동락/ncpa+공원/ncn
+
+
+2007.
+	2007./nnc
+
+10.
+	10./nnc
+
+27
+	27/nnc
+
+.
+	./sf
+
+
+토
+	토/ncn
+
+
+PhotographedWritten
+	PhotographedWritten/f
+
+by
+	by/f
+
+JasMIne
+	JasMIne/f

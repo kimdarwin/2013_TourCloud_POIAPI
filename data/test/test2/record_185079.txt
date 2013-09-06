@@ -1,0 +1,34 @@
+Date:
+2011.10.15
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/68065df2e99c74030c7e2d26edeb5d78.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/1a936c0fd7b514ec4cb2af58983718f5.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/e9030c0300f13866c4ed3a1fb308f77b.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/c21956385bd21c2457ebd307f6e862d2.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/cbf7c6822b81a2d0ef6aa324dc09f41b.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/2e43f3a6923cc4ec3359e358c342e5db.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/a2d1582797d12724c0852e0618ebbc5e.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/877b96ced8fc5cc4aa75b1fb34c1cdd9.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/c4b2a9a68063bc3262e533198c87cc53.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/dc4a05e035a46917b4b664b63f1db2e7.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/6fdc6bfe194ae65bbb2e4946f489d5f7.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/096a1f70d6ad396d33a1cf074f9c4976.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/f0ba41a8c1ea70170f8c7ad4eae0dde5.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/80a98a8aed8deb7126f52a40e27968f7.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/85e1d129225b72210d31f44f0a7b9075.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/2c84e34bdf6972ecd8745eac8b41ad77.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/1183c1a2de006fc9473efc62292d4c0d.jpg');
+list_gallery_add_image(326375,'files/attach/images/228818/079/185/494b24ad747053b5422bdd35d96c76a5.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+10월 15일(토) 아름다운 여행으로 천년의 숲길 걷기를 하였습니다. 요즘 날이 가물어서 예보에 의한 비 소식은 반갑기도 하지만 여행을 앞두고 조금은 걱정과 함께 떠난 여행이었습니다. 다행히 강원도 평창에는 오후 늦게 비가 내릴 것 같아 조금은 마음이 놓였습니다. 그리고 평창에 도착할 때까지 다행히 비도 내리지 않고 막히는 구간도 없어서 수월하게 도착하였습니다. 더구나 강풍이 불어 날씨도 추울 것이라는 예보와 달리 겹겹이 껴입은 옷이 더울 정도로 오늘 평창 날씨는 너무도 좋았습니다.
+월정사로 들어서는 국도변에서 멀리 보이는 울긋불긋 단풍이 아름다웠고 상원사로 이어지는 비포장도로는 붉은 단풍 터널로 빨려 들어가는 듯하더군요. 다만 오대산은 이번 주가 단풍 절정으로 일찍부터 꽤 많은 차량이 몰려 상원사를 약 1km 남기고 차량 교행이 어려워 그냥 차에서 내려 상원사까지 걸었습니다. 상원사 주변은 오대산에서도 단풍이 참 고운 곳인데 가을 바람에 이파리가 그새 많이 떨어졌네요. 
+상원사에 올라 문수전과 신라 동종 등을 살펴보고 본격적인 옛길 걷기가 시작되었습니다. 상원사 주차장에서부터 옛길이 연장되어 월정사까지 총 8.3km를 걸었습니다. 이 구간을 걸을 때 오대산 옛길이라는 이름표를 자주 만나게 되는데 천년의 숲길은 오대산 옛길의 별칭인 셈이죠.
+차량이 상원사 주차장까지 들어갈 수 없어 원래 예정보도 2km 정도를 더 걸은 셈입니다. 오대산 옛길로 접어들자마자 여기저기에서 탄성이 쏟아집니다. 직접 단풍숲으로 들어오니 밖에서 보는 단풍과는 천양지차더군요. 별천지가 따로 없을 정도로 붉은 단풍은 햇살에 붉게 반짝입니다. 해가 쏟아지는 곳은 환한 조명을 밝힌 듯 눈이 부십니다. 길을 걷다가 자꾸만 발걸음이 느려져 길을 재촉해야만 할 정도로 아름답습니다.
+계곡을 건너는 징검다리에서 바라본 오대산은 울긋불긋 화려하고 바람에 흩날리는 단풍잎은 가을 분위기를 느끼기에 충분합니다. 계곡가에 앉아 도시락으로 점심식사도 하고 다시 길을 나서면 단풍숲이 이어지고 또 징검다리를 건너고 드넓은 배추밭도 독특한 풍경입니다. 
+이렇게 천년의 숲길이 끝나갈 즈음에는 아쉬움이 남더군요. 이 길이 더 길었으면… 시간이 더 넉넉해서 한동안 더 머물 수만 있다면 좋을 텐데… 하는 아쉬움을 느낄 정도로 이번 천년의 숲길은 단풍 절정을 제대로 느낄 수 있었던 하루였습니다. 천년의 숲길이 끝나는 월정사는 오늘 문화축전 행사로 좀 어수선했지만 단풍 고운 천년의 숲길에서 시간을 다 빼앗겨 월정사를 돌아볼 여유가 없었던 것 같습니다.
+이번에는 오대산 단풍 절정으로 인해 차량이 상원사까지 들어가기 어려워 예정보다 걷기 구간이 좀더 길어졌습니다만 힘들진 않으셨죠? ^^ 날씨도 좋았고 붉은 단풍 드리워진 천년의 숲길을 걸었던 그 시간들이 벌써 그리워집니다. 서울로 돌아오는 길에는 원주를 지날 때쯤 강한 바람과 비가 내려 구간구간 막히는 곳도 있었지만 늦게 않게 도착하였습니다.
+이번 천년의 숲길 걷기 여행에 참여하신 분들 모두 수고 많으셨구요, 내일 하루 푹 쉬시고 활기찬 한 주 맞이하시기 바랍니다~
+이 게시물을...

@@ -1,0 +1,34 @@
+태백시고냉지배추단지
+	태백시고냉지배추/ncn+이/jp+단/etm+지/nbn
+
+
+강원도
+	강원/ncn+도/jxc
+
+태백시
+	태백시/ncn
+
+창죽동
+	창죽동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01321923",
+	"bl01321923",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"태백시고냉지배추단지",
+	title:"태백시고냉지배추단지",/ncn
+
+pointX:485943,pointY:513154}
+	pointX/f+:/sp+485943/nnc+,/sp+pointY/f+:/sp+513154/nnc+}/sr

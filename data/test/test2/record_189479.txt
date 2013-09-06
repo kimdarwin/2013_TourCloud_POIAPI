@@ -1,0 +1,27 @@
+Date:
+2011.10.31
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/e6d0750bd9d89ea26c3fdcb325df5419.jpg');
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/3bba5d513a1ea250ff62fa1d8d30c414.jpg');
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/7ddc3c1f214775cb55b4df0a236e263c.jpg');
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/8eeb0c2ff0869b0110f8f5519160e6a7.jpg');
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/967896fb7ac5296b9c4181a7c2604d29.jpg');
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/e4609dcce889c65fb074831af47db2b2.jpg');
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/01462d7ce3dedf661b63784a376e1fbd.jpg');
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/2095522b48b3ac3873ab67044a5edb01.jpg');
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/1355b8dd787c17e209d8f81e18d9cfc9.jpg');
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/160823a2725dfd6342f3b831f0ef9584.jpg');
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/00c9e9870c2d6e1feb67fde4730abf47.jpg');
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/2f68842df29803c174ad1e057bade4dc.jpg');
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/49398c030fbdaa4d845db5e98414bfb0.jpg');
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/9753522f99494cfe857cee5fc742aca6.jpg');
+list_gallery_add_image(503704,'files/attach/images/228818/479/189/ad4150fb82706e39aa21678143bd28cf.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+10월 30일(일) 아름다운 여행으로 창녕 우포늪 둘레길 걷기를 하였습니다. 주말 날씨가 오랜만에 맑아서 기분 상쾌하게 서울을 출발하였습니다. 날씨도 비교적 포근하여 여행을 하기에는 참 좋은 날이었습니다. 경남 창녕이 가까워지면서 하늘은 흐렸고 한두 방울 비가 떨어지기도 하였지만 청국장비빔밥으로 점심식사를 하는 동안 조금은 하늘이 맑아진 듯하더군요.
+식사를 마치고 우포늪 둘레길 걷기를 하기 위해 우만마을로 이동하여 걷기를 시작하였습니다. 오가는 길에도 그랬지만 목포제방으로 들어가는 나무다리 주변에 하얗게 억새가 피었습니다. 지난 주와 너무도 다른 풍경이어서 조금 당황스럽기까지 하더군요. 지난 주에는 비가 내려서 억새가 모두 잠들었던지 억새가 모두 진 것은 아닌가 싶을 정도였는데 날씨가 좋다고 이렇게 부풀어오른 억새가 참 신기하기만 했습니다. 
+목포를 지나 어딜 가든 억새는 지천으로 피었습니다. 소목마을을 지나고 소목나루터에 도착했을 때는 지난 주보다 훨씬 많아진 철새를 볼 수 있었습니다. 먹이를 잡고 동무들과 장난을 치는 철새들의 모습을 보며 습지의 중요성을 사실 잘은 모르겠지만, 철새들에게 무언가 모를 편안함을 제공하는 모양이구나 싶어 거대한 우포늪을 다시 한번 굽어봅니다. 소목제방을 지나면 숲 산책로를 거쳐 사지포제방으로 올라섭니다. 발 아래로 펼쳐지는 억새가 가장 많았던 구간인데 올해는 단풍만큼 억새도 좋지 않은 모양인지 억새가 많지는 않습니다. 그리고 대대제방으로 질러가는 길을 에둘러 조금 먼 길을 돌아보았습니다. 그 길은 조금은 호젓한 길인데 날씨가 좋아서 자전거를 타는 사람들도 보이고 통통하게 꽃을 피운 억새를 눈요기하며 제방으로 올라섰습니다. 지난 번에 개미취가 많던 길인데 이번에는 억새도 꽃을 활짝 피워 너무도 아름다운 길이었습니다. 제방을 모두 걷고 전망대에 올라 광활한 우포늪을 다시 한번 굽어봅니다. 습지의 중요성을 사실 피부로 잘 느끼지는 못하지만 오늘도 건강한 숨을 쉬고 있을 우포늪의 가을 풍경을 감상하며 하루 여행을 마쳤습니다.
+이번에는 날씨가 좋아서 우포늪 둘레길에 핀 눈부신 억새를 감상하며 가을 분위기를 느낄 수 있었습니다. 남쪽 지방이라 그런지 더위가 느껴질 정도로 포근한 날이어서 걷기를 하기에는 더없이 좋은 하루가 아니었나 싶네요. 그렇게 날씨가 좋다보니 나들이를 나온 차량들이 많았던지 서울로 올라오는 길에 막히는 구간이 있어 차안에서 보내는 시간이 길어 다소 지루함이 있었을 텐데 끝까지 차분하게 여행을 마칠 수 있도록 도와주신 참여 회원분들께 고맙다는 말씀드리며 모두 수고 많으셨습니다~
+이 게시물을...

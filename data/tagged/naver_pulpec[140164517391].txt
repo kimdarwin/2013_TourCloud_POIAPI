@@ -1,0 +1,237 @@
+부산에서
+	부산/ncps+에서/jca
+
+일본
+	일/nnc+본/nbu
+
+대마도가
+	대마/ncn+도/ncn+가/jcs
+
+보일정도로
+	보일정도/ncn+로/jca
+
+맑은
+	맑/paa+은/etm
+
+날씨
+	날씨/ncn
+
+..
+	./sf+./sf
+
+
+바다가
+	바/nbn+이/jp+다가/ecs
+
+아무리
+	아무리/mag
+
+시원하다고
+	시원/ncps+하/xsms+다/ef+고/jcr
+
+해도
+	하/pvg+어도/ecs
+
+더운건
+	더운건/ncn
+
+어쩔수
+	어쩌/paa+ㄹ/etm+수/nbn
+
+없습니다
+	없/paa+습니다/ef
+
+..
+	./sf+./sf
+
+
+기저귀만
+	기저귀/ncn+만/jxc
+
+입고
+	입/pvg+고/ecc
+
+이지는
+	이지/ncn+는/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+갖힌채
+	갖힌채/ncn
+
+..
+	./sf+./sf
+
+
+엄마와의
+	엄마/ncn+와의/jcj
+
+떨어져있음에
+	떨어지/pvg+어/ecx+있/px+음/etn+에/jca
+
+슬피
+	슬피/mag
+
+울고
+	울/pvg+고/ecc
+
+있고
+	있/px+고/ecc
+
+.
+	./sf
+
+
+티캬
+	티캬/ncn
+
+아빠는
+	아빠/ncn+는/jxc
+
+..
+	./sf+./sf
+
+
+너무
+	너무/mag
+
+더워서~
+	덥/paa+어서/ecs+~/sd
+
+
+요렇게
+	요렇/pad+게/ecs
+
+요렇게
+	요렇/pad+게/ecs
+
+얼음잔을
+	얼음/ncn+잔/ncn+을/jco
+
+만들어서~
+	만들/pvg+어서/ecs+~/sd
+
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+맥주
+	맥주/ncn
+
+한잔하면서
+	한잔/ncpa+하/xsva+면서/ecc
+
+.
+	./sf
+
+
+피자+
+	피자+/ncn
+
+달구
+	달구/ncn
+
+배달을
+	배달/ncpa+을/jco
+
+기다리고
+	기다리/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+..
+	./sf+./sf
+
+
+^^*
+	^/sy+^/sy+*/sy
+
+
+왜
+	왜/mag
+
+안오는겨
+	안오는겨/ncn
+
+.
+	./sf
+
+
+배달주문한지
+	배달/ncpa+주문/ncn+한지/ncn
+
+30분이
+	30/nnc+분/nbu+이/jcc
+
+지났는데
+	지나/pvg+아/ep+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+--+
+	--+/ncn
+
+
+오늘도
+	오늘/ncn+도/jxc
+
+박태환
+	박태환/ncn
+
+화이팅
+	화이팅/ncn
+
+.
+	./sf
+
+
+대한민국
+	대한/ncn+민국/ncn
+
+대표팀
+	대표팀/ncn
+
+모든
+	모든/mma
+
+선수들
+	선수/ncn+들/ncn
+
+화이팅~~
+	화이팅~~/ncn
+
+!
+	!/sf
+
+
+여러분의
+	여러/nnc+분/nbu+의/jcm
+
+뜨거운
+	뜨겁/paa+은/etm
+
+여름
+	여름/ncn
+
+일요일은
+	일요일/ncn+은/jxc
+
+잘
+	잘/mag
+
+보내시구
+	보내시구/ncn
+
+계신가요
+	계시/paa+ㄴ가/ef+요/jxf
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy

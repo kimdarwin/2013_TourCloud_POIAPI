@@ -1,0 +1,24 @@
+Date:
+2011.10.27
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(371165,'files/attach/images/228818/632/188/28fe326550fca3779e9d3829dba630a5.jpg');
+list_gallery_add_image(371165,'files/attach/images/228818/632/188/54efaa3fa7a2882f94aaf30182c26daf.jpg');
+list_gallery_add_image(371165,'files/attach/images/228818/632/188/1bfc706e098b231e7d6ab4097be298a4.jpg');
+list_gallery_add_image(371165,'files/attach/images/228818/632/188/5f874166ebbaa2ab58a8f88001beaf52.jpg');
+list_gallery_add_image(371165,'files/attach/images/228818/632/188/f9644ab99d34e1fa347fa2209607b7dd.jpg');
+list_gallery_add_image(371165,'files/attach/images/228818/632/188/5c5ab83cc16ea8f7065b314c6e06cacd.jpg');
+list_gallery_add_image(371165,'files/attach/images/228818/632/188/04bce150a7936053a7762a24fb0c000b.jpg');
+list_gallery_add_image(371165,'files/attach/images/228818/632/188/cba8e6dde46d4927f883c818d7f36906.jpg');
+list_gallery_add_image(371165,'files/attach/images/228818/632/188/73204ba4e889f939b4dd5547397f13cf.jpg');
+list_gallery_add_image(371165,'files/attach/images/228818/632/188/09a45155743c8ab77dacc44507a0f630.jpg');
+list_gallery_add_image(371165,'files/attach/images/228818/632/188/1dc073481eb42e84cab84c154b9e22b8.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+10월 26일(수), 아름다운 여행으로 청량산과 무섬마을에 다녀왔습니다. 여행 전날 갑자기 들이닥친 추위로 아침에는 날이 꽤 쌀쌀해 조금은 걱정스런 마음으로 여행을 떠났습니다. 하지만 그 덕에 하늘은 청명했고 청량산에 도착했을 땐 다행히 추위도 누그러져 트레킹을 즐기기엔 딱 좋은 날이었습니다.
+이 날 역시 청량산 아래 선학정에서 트레킹을 시작했습니다. 입석에서 산길로 접어들어 응진전과 어풍대를 거쳐 청량사를 돌아보고 산을 내려왔습니다. 청량산은 가을 단풍으로 유명하죠. 하지만 올해는 청량산 단풍이 그리 좋은 것 같진 않습니다. 지난 토요일에 똑 같은 코스를 여행했었는데, 그때는 단풍이 좀 덜 들었나 싶더니 이 날은 나흘 사이에 단풍이 빛이 바랬더군요. 올해는 화려한 단풍 절정기도 없이 단풍이 들다가 사그러지는 것 같습니다. 
+조금 아쉽기는 했지만 그래도 청량산은 청량산이죠. 기대가 컸던 탓에 아쉬움도 있었지만 그래도 서울에선 보기 힘든 깊고 은은한 가을 분위기를 잘 느끼고 왔습니다. 게다가 날씨가 워낙 좋았고 또 평일이라 번잡하지도 않아서 아주 쾌적한 트레킹을 즐길 수 있었습니다.
+청량산 트레킹을 마치고 영주의 무섬마을로 이동해 무섬마을을 돌아보았습니다. 무섬마을은 언제 가도 고즈넉한 분위기가 사람의 마음을 편하게 해주는 곳입니다. 이 날은 평일이어서 한가로운 마을을 여유롭게 돌아볼 수 있었습니다. 무섬마을의 상징이랄 수 있는 내성천의 외나무다리도 한가해서 이 날은 회원분들의 거의 외나무다리를 건너시더군요. 지난 토요일에는 비가 내려 내성천의 물이 꽤 많았는데 그새 물이 빠져 수심이 얕아져서인지 많은 분들이 외나무다리를 건너셨습니다. 
+이 날 청량산과 무섬마을 여행은 청량산 단풍이 좀 아쉬웠지만 날씨도 좋고 한적해서 여유로운 여행을 즐겼던 것 같습니다. 평일 여행이었는데 어렵게 시간을 내서 참여하신 회원분들 모두 남은 한 주일 잘 보내시기 바랍니다~
+이 게시물을...

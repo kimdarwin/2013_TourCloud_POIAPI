@@ -1,0 +1,936 @@
+`
+	`/sl
+
+평화식당
+	평화/ncn+식당/ncn
+
+`
+	`/sl
+
+
+광주
+	광주/ncn
+
+광역시
+	광역시/ncn
+
+동구
+	동구/ncn
+
+불로동
+	불로/ncpa+동/ncn
+
+9-1번지(충장로
+	9-1번지(충장/ncn+로/jca
+
+콜박스
+	콜박스/ncn
+
+미니스톱
+	미니/ncn+스톱/ncpa
+
+사거리에서
+	사거리/ncn+에서/jca
+
+천변쪽
+	천변/ncpa+쪽/ncn
+
+방면,
+	방면/ncn+,/sp
+
+그랑삐아또
+	그랑삐아또/ncn
+
+충장점
+	충장점/ncn
+
+맞은편)
+	맞은편/ncn+)/sr
+
+tel.
+	tel/f+./sy
+
+062
+	062/nnc
+
+226
+	226/nnc
+
+6226
+	6226/nnc
+
+
+올만에
+	올/ncn+만에/jca
+
+사람들을
+	사람들/ncn+을/jco
+
+만났습니다
+	만나/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+몇번
+	몇/nnc+번/nbu
+
+이야기를
+	이야기/ncpa+를/jco
+
+드렸지만;;
+	드렸지만;;/ncn
+
+야옹이는
+	야옹/ncn+이/jp+는/etm
+
+친구가
+	친구/ncn+가/jcs
+
+없어욤
+	없어욤/ncn
+
+으헝~~~
+	으헝~~~/ncn
+
+손에
+	손/ncn+에/jca
+
+꼽을수
+	꼽/pvg+을/etm+수/nbn
+
+있을정도로
+	있을정도/ncn+로/jca
+
+짧은
+	짧/paa+은/etm
+
+인맥
+	인맥/ncn
+
+?!
+	?/sf+!/sf
+
+
+그래서
+	그래서/maj
+
+여행도
+	여행/ncpa+도/jxc
+
+혼자
+	혼자/mag
+
+다니고
+	다니/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+못가본곳도
+	못가본곳/ncn+도/jxc
+
+못해본곳도
+	못해본곳도/ncn
+
+못먹어본것도
+	못먹어본것/ncn+도/jxc
+
+수두룩~
+	수두룩/ncps+~/sd
+
+하답니다
+	하/px+답니다/ef
+
+;;;
+	;/sy+;/sy+;/sy
+
+
+여튼~
+	여튼~/ncn
+
+올해
+	올해/ncn
+
+들어서
+	들/pvg+어서/ecs
+
+처음으로
+	처음/ncn+으로/jca
+
+사람들과
+	사람들/ncn+과/jcj
+
+밖에서
+	밖/ncn+에서/jca
+
+밥을
+	밥/ncn+을/jco
+
+먹었어요
+	먹/pvg+었/ep+어/ef+요/jxf
+
+꺄햐~~
+	꺄햐~~/ncn
+
+물론
+	물론/mag
+
+사적인
+	사적/ncn+이/jp+ㄴ/etm
+
+만남
+	만나/pvg+ㅁ/etn
+
+?!
+	?/sf+!/sf
+
+
+여튼간에~
+	여튼간에~/ncn
+
+올만에
+	올/ncn+만에/jca
+
+찾은
+	찾/pvg+은/etm
+
+평화식당~
+	평화/ncn+식당/ncn+~/sd
+
+!!
+	!/sf+!/sf
+
+
+전에
+	전/nbn+에/jca
+
+다니던
+	다니/pvg+던/etm
+
+직장에서
+	직장/ncn+에서/jca
+
+평화식당이
+	평화/ncn+식당/ncn+이/jcc
+
+거래처라서
+	거래처/ncn+이/jp+라서/ecs
+
+이곳에서
+	이곳/npd+에서/jca
+
+회식을
+	회식/ncpa+을/jco
+
+몇번
+	몇/nnc+번/nbu
+
+했더랬지요~
+	했더랬지요~/ncn
+
+본래의
+	본래/ncn+의/jcm
+
+목적은
+	목적/ncn+은/jxc
+
+오돌뼈를
+	오돌뼈/ncn+를/jco
+
+먹으려
+	먹/pvg+으려/ecx
+
+하였으나
+	하/px+었/ep+으나/ecs
+
+아기도
+	아기/ncn+도/jxc
+
+한명
+	한/nnc+명/nbu
+
+있어서~
+	있/paa+어서/ecs+~/sd
+
+
+방으로
+	방/ncn+으로/jca
+
+가면
+	가/px+면/ecs
+
+좋겠다
+	좋/paa+겠/ep+다/ef
+
+해서
+	하/pvg+어서/ecs
+
+평화식당으로
+	평화/ncn+식당/ncn+으로/jca
+
+올만에
+	올/ncn+만에/jca
+
+예전
+	예전/ncn
+
+직장사람들을
+	직장/ncn+사람들/ncn+을/jco
+
+만나서
+	만나/pvg+아/ecx
+
+밥한끼를
+	밥한끼/ncn+를/jco
+
+하였답니다~
+	하/px+었/ep+답니다/ef+~/sd
+
+꺄햐~
+	꺄햐/ncn+~/sd
+
+
+삼겹살도
+	삼겹살/ncn+도/jxc
+
+얼마만이얌
+	얼마만이얌/ncn
+
+오호호호~~
+	오호호호~~/ncn
+
+눈이
+	눈/ncn+이/jcc
+
+휘둥구레졌어욤
+	휘둥구레졌어욤/ncn
+
+이맘
+	이맘/ncn
+
+아실라나
+	아실라나/ncn
+
+?!
+	?/sf+!/sf
+
+
+거즘
+	거즘/ncn
+
+3년만에
+	3/nnc+년/nbu+만에/jca
+
+찾은
+	찾/pvg+은/etm
+
+평화식당~
+	평화/ncn+식당/ncn+~/sd
+
+!!
+	!/sf+!/sf
+
+
+반찬도
+	반찬/ncn+도/jxc
+
+거하게
+	거하/pvg+게/ecs
+
+나와주는군요~
+	나오/pvg+아/ecx+주/px+는군/ef+요/jxf+~/sd
+
+삼겹살집에서
+	삼겹살/ncn+집/ncn+에서/jca
+
+대부분
+	대부분/ncn
+
+반찬
+	반찬/ncn
+
+많이
+	많/paa+이/xsa
+
+나오지
+	나오/pvg+지/ecx
+
+않는경우를
+	않는경우/ncn+를/jco
+
+많이
+	많/paa+이/xsa
+
+보았는데
+	보/px+아/ep+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+오뎅무침,
+	오뎅/ncn+무침/ncn+,/sp
+
+오징어무침,
+	오징어/ncn+무침/ncn+,/sp
+
+계란말이,
+	계란/ncn+말/ncn+이/jcc+,/sp
+
+된장국
+	된장국/ncn
+
+등등~~~~
+	등등/nbn+~/sd+~/sd+~/sd+~/sd
+
+여러가지
+	여러가지/mma
+
+
+요놈요놈~
+	요놈요놈~/ncn
+
+맛있어욤
+	맛있어욤/ncn
+
+계란말이
+	계란/ncn+말/ncn+이/jcc
+
+그다지
+	그다지/mag
+
+좋아하는편은
+	좋/paa+아/ecx+하/px+는/etm+편/nbn+은/jxc
+
+아닌데
+	아니/paa+ㄴ데/ecs
+
+부드럽고
+	부드럽/paa+고/ecc
+
+맛나더라구요
+	맛나/paa+더라구/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+제가
+	저/npp+가/jcs
+
+계란말이를
+	계란/ncn+말/ncn+이를/jco
+
+그다지
+	그다지/mag
+
+좋아하지
+	좋/paa+아/ecx+하/px+지/ecx
+
+않는것은
+	않/px+는/etm+것/nbn+은/jxc
+
+노른자를
+	노른자/ncn+를/jco
+
+별루
+	별루/ncn
+
+안좋아라하고
+	안좋아라하/ncn+이/jp+고/ecc
+
+왠지
+	왠지/mag
+
+텁텁한
+	텁텁하/paa+ㄴ/etm
+
+맛때문에
+	맛때문/ncn+에/jca
+
+그다지
+	그다지/mag
+
+좋아하지
+	좋/paa+아/ecx+하/px+지/ecx
+
+않지만
+	않/px+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+요런
+	요런/ii
+
+부드러운
+	부드럽/paa+은/etm
+
+맛은
+	맛/ncn+은/jxc
+
+까무러질
+	까무러질/ncn
+
+지경임
+	지경/nbn+이/jp+ㅁ/etn
+
+
+계란말이
+	계란/ncn+말/ncn+이/jcc
+
+먹구
+	먹구/ncn
+
+아주머니께
+	아주머니/ncn+께/jca
+
+더
+	더/mag
+
+달라고
+	다르/paa+아/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+더주시고
+	더주시/ncn+이/jp+고/ecc
+
+이런
+	이런/mmd
+
+인심~
+	인심/ncn+~/sd
+
+!!
+	!/sf+!/sf
+
+
+전라도의
+	전라/ncn+도/ncn+의/jcm
+
+인심
+	인심/ncn
+
+?!
+	?/sf+!/sf
+
+
+은
+	은/ncn
+
+아니겠지만요
+	아니/paa+겠/ep+지/ecs+만요/jxc
+
+
+짜자잔~
+	짜자잔~/ncn
+
+!!
+	!/sf+!/sf
+
+
+삼겹살이랍니다
+	삼겹살/ncn+이/jp+랍니다/ef
+
+눈이
+	눈/ncn+이/jcc
+
+튀어나올라
+	튀어나올라/ncn
+
+그래욤
+	그래욤/ncn
+
+..
+	./sf+./sf
+
+
+얼마만에
+	얼마/ncn+만/ncn+에/jca
+
+보는건지~
+	보/px+는/etm+것/nbn+이/jp+ㄴ지/ecs+~/sd
+
+정말
+	정말/mag
+
+얼마만인건지
+	얼마/ncn+만/ncn+이/jp+ㄴ/etm+것/nbn+이/jp+ㄴ지/ecs
+
+감격의
+	감격/ncpa+의/jcm
+
+눈물이
+	눈물/ncn+이/jcc
+
+주룩
+	주룩/ncn
+
+주룩
+	주룩/ncn
+
+나더라구요
+	나/ncn+이/jp+더라구/ef+요/jxf
+
+
+사람을
+	사람/ncn+을/jco
+
+만나야
+	만나/pvg+아/ecx
+
+삼겹살을
+	삼겹살/ncn+을/jco
+
+먹지요
+	먹/pvg+지/ef+요/jxf
+
+으헝헝~~~~
+	으헝헝~~~~/ncn
+
+버섯도
+	버섯/ncn+도/jxc
+
+너무
+	너무/mag
+
+좋아욤~
+	좋아욤~/ncn
+
+어릴적엔
+	어리/paa+ㄹ/etm+적/nbn+엔/jca
+
+버섯
+	버섯/ncn
+
+못먹었는데
+	못먹었는데/ncn
+
+..
+	./sf+./sf
+
+
+한살
+	한/nnc+살/nbu
+
+한살
+	한/nnc+살/nbu
+
+먹을수록
+	먹/pvg+을수록/ecs
+
+역시나
+	역시/mag+나/jxc
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+식성은
+	식성/ncn+은/jxc
+
+바뀌는거
+	바뀌는거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+더군다나
+	더군다나/mag
+
+회사생활하면서
+	회사/ncn+생활/ncpa+하/xsva+면서/ecc
+
+입맛이
+	입맛/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+바뀌더라구요~
+	바뀌/pvg+더라구/ef+요/jxf+~/sd
+
+거즘
+	거즘/ncn
+
+반찬을
+	반찬/ncn+을/jco
+
+시켜먹으니깐요
+	시켜먹으니깐요/ncn
+
+
+여튼
+	여튼/ncn
+
+고기
+	고/ncn+이/jp+기/etn
+
+먹을적엔
+	먹/pvg+을/etm+적/nbn+엔/jca
+
+버섯은
+	버섯/ncn+은/jxc
+
+잽싸게
+	잽싸게/mag
+
+야옹이
+	야옹/ncn+이/jcc
+
+입속으로
+	입속/ncn+으로/jca
+
+쏙쏙
+	쏙쏙/mag
+
+들어가곤
+	들/pvg+어/ecx+가/px+곤/ecs
+
+한다지요
+	한다/ncn+이/jp+지요/ef
+
+
+불판에
+	불/pvg+ㄹ/etm+판/nbn+에/jca
+
+떡하니
+	떡하/ncn+이/jp+니/ecs
+
+올려주고~
+	올리/pvg+어/ecx+주/px+고/ecc+~/sd
+
+열심히
+	열심히/mag
+
+구워주면
+	굽/pvg+어/ecx+주/px+면/ecs
+
+바로바로
+	바로바/ncn+로/jca
+
+야옹이
+	야옹/ncn+이/jcc
+
+입속으로
+	입속/ncn+으로/jca
+
+움하하하~~~
+	움하하하/ncn+~/sd+~/sd+~/sd
+
+
+꺄햐햐햐~~~
+	꺄햐햐햐~~~/ncn
+
+묵은지가
+	묵/pvg+은/etm+지/nbn+가/jcc
+
+너무너무
+	너무너무/mag
+
+맛나더라구요~
+	맛나/paa+더라구/ef+요/jxf+~/sd
+
+어쩜
+	어쩌/paa+ㅁ/etn
+
+이렇게
+	이렇/pad+게/ecs
+
+맛나게도
+	맛나/paa+게/ecs+도/jxc
+
+익혀놓으셨는지~
+	익히/pvg+어/ecx+놓/px+으셨/ep+는지/ecc+~/sd
+
+
+저는
+	저/npp+는/jxc
+
+김치
+	김치/ncn
+
+없어도
+	없/paa+어도/ecs
+
+밥을
+	밥/ncn+을/jco
+
+먹을수
+	먹/pvg+을/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+그러한
+	그러하/pad+ㄴ/etm
+
+한국인이라지요
+	한국인/ncn+이라/jca+이/jp+지/ef+요/jxf
+
+;;;
+	;/sy+;/sy+;/sy
+
+
+김치
+	김치/ncn
+
+없이도
+	없이/mag+도/jxc
+
+살수
+	사/pvg+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+그러한
+	그러하/pad+ㄴ/etm
+
+한국인이라지요
+	한국인/ncn+이라/jca+이/jp+지/ef+요/jxf
+
+;;;
+	;/sy+;/sy+;/sy
+
+
+하지만
+	하지만/maj
+
+김치
+	김치/ncn
+
+한번
+	한/nnc+번/nbu
+
+먹고
+	먹/pvg+고/ecc
+
+맛없으면
+	맛없/paa+으면/ecs
+
+그
+	그/mmd
+
+김치에는
+	김치/ncn+에/jca+는/jxc
+
+손도
+	손/ncn+도/jxc
+
+안대는
+	안대/ncn+는/jxc
+
+;;
+	;/sy+;/sy
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+까다로운편은
+	까다롭/paa+은/etm+편/nbn+은/jxc
+
+아니지만요
+	아니/paa+지/ecs+만요/jxc
+
+여튼
+	여튼/ncn
+
+평화식당
+	평화/ncn+식당/ncn
+
+김치
+	김치/ncn
+
+맛은
+	맛/ncn+은/jxc
+
+짱입니다요~
+	짱/ncn+이/jp+ㅂ니다/ef+요/jxf+~/sd
+
+
+아~~
+	아/ii+~/sd+~/sd
+
+몇일전에
+	몇/nnc+이/jp+ㄹ/etm+전/nbn+에/jca
+
+먹었는데
+	먹/pvg+었/ep+는데/ecs
+
+또
+	또/maj
+
+김치랑
+	김치/ncn+랑/jxc
+
+삼겹살이랑
+	삼겹살/ncn+이/jcs+랑/jxc
+
+먹고파욤
+	먹고파욤/ncn
+
+냠냠냠
+	냠냠냠/ncn
+
+
+다음에
+	다음/ncn+에/jca
+
+또
+	또/maj
+
+기회가
+	기회/ncn+가/jcs
+
+있겠지요
+	있/px+겠/ep+지/ef+요/jxf
+
+?!
+	?/sf+!/sf
+
+
+아쉽지만
+	아쉽/paa+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+다음
+	다음/ncn
+
+기회에
+	기회/ncn+에/jca
+
+...
+	.../se
+
+
+쩝~~~~
+	쩝/ii+~/sd+~/sd+~/sd+~/sd
+
+
+충장로에서는
+	충장로/ncn+에서/jca+는/jxc
+
+아주
+	아주/mag
+
+가까운
+	가깝/paa+은/etm
+
+거리랍니다
+	거리/ncn+이/jp+랍니다/ef
+
+^^
+	^/sy+^/sy

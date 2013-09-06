@@ -1,0 +1,41 @@
+Title:
+2/1 덕유산 눈꽃 트레킹 후기
+
+Date:
+2012.02.02
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(115073,'files/attach/images/64/005/200/01a1cfee113637da4bca07ec104b5ca0.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/3ee1548f5c80b308829faa38ecb6710f.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/4d52e90b4be9803d49813eb513f68254.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/54d9d35e8513cd624c722796b82994f4.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/3c3d2f4da7f0514a473955f628875a7e.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/5a40ac4580fedd3819bbea7f56b8d832.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/8b4904c5458dda8953e6d05a1d7f4a7f.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/60639e1ac02abab913e6dfa513dab037.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/a8f7af5b870f0331be2ca9924105525f.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/e29f0a0d322060770283f596ef148881.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/6cb949c9d795570c8a58cfe7960daa6e.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/14a915dfe2d71e49cd886c3162d84afc.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/b7750f348bdac593e63d1b8ec940c48f.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/f1bc6f1a4d32e305b69f941f1b4494f5.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/c395b9bf038a9c0daaa5873e607bea98.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/82b45fe8da7cb1de9e7dc60735fa389f.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/a9e2dae2208b2fa358d2172adc0d8a81.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/871df86081de127419e943cd4102c4d7.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/7324f0c84487caddafb7c552e5431e99.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/4971bc5c209ee3fdb21119f4912d519c.jpg');
+list_gallery_add_image(115073,'files/attach/images/64/005/200/a272dfec3b07da77116cf71579efd907.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 2월 1일(수) 덕유산 눈꽃 트레킹을 다녀왔습니다. 여행 전 강추위와 함께 많은 눈이 내려 이런저런 걱정이 앞섰지만 무주로 이동하는 내내 창 밖으로 예쁜 눈꽃이 스치는 풍경에 덕유산 눈꽃은 더욱 큰 기대감을 가져왔습니다.
+그리고 무주리조트에 도착하니 추위도 서울보다는 약하고 바람도 많지 않아 추위가 별로 느껴지지 않더군요. 
+이번에도 곤돌라를 타고 설천봉에 오른 후 향적봉, 중봉까지 왕복으로 다녀오는 코스로 진행되었습니다.
+곤돌라를 타고 설천봉에 도착할 즈음 흰구름이 이리저리 몰려다니며 파란 하늘을 열었다 닫았다 자유자재로 움직였고 사방은 온통 눈꽃이 만발해 있었습니다. 구름이 확 걷혀 파란 하늘만 볼 수 있다면 더할 나위 없었겠지만 가끔씩 숲속으로 비추는 햇살은 눈꽃을 더욱 눈부시게 하더군요.
+동화의 나라 같은 눈꽃 숲에서 보내는 시간은 발걸음을 더디게 했고 향적봉에 오른 후 주목군락지를 지나 중봉으로 걸었습니다. 죽은 듯 산 듯 주목도 오늘만큼은 너무도 아름다운 꽃을 피워내고 있었습니다. 그리고 다시 구름이 몰려와 모든 풍경을 지워내고 또다시 새로운 그림을 펼쳐주더군요.
+날이 맑았더라면 끝없이 이어진 산자락을 굽어 볼 수 있었을 텐데 그점은 좀 아쉬웠지만 이는 욕심이었겠죠?^^ 이번에는 정말 멋진 눈꽃을 보았으니까요. 이번에는 일정이 변경되어 덕유산에서 보내는 시간이 길어졌음에도 불구하고 너무도 신비롭고 아름다운 눈꽃에 파묻혀 시간이 길게 느껴지지 않을 정도였네요.
+덕유산 눈꽃 트레킹을 끝낸 후에는 금강과 만나는 남대천변에 있는 지전마을을 돌아보았습니다. 지전마을은 옛 돌담이 문화재로 등록되었는데 요즘 돌담 보수를 했는지 너무 말끔해 보이네요.^^ 하지만 고요하고 호젓한 시골마을의 겨울 분위기를 느끼며 여행을 마무리하고 서울로 돌아왔습니다.
+이번 덕유산 눈꽃은 정말 대단했습니다.^^ 지난 번 덕유산에서는파란 하늘과 어우러진 눈꽃 풍경이 아름다웠고 이번에는 변화무쌍한 날씨 때문에 시원한 풍경은 감상할 수 없었지만 신비롭고 포동포동 살이 오른 눈꽃은 두고두고 기억될 듯합니다.
+추운 날씨에도 불구하고 이번 덕유산 눈꽃 트레킹에 참여해주신 모든 분들께 수고 많으셨다는 말씀 드리며 남은 한 주도 감기 조심하시고 건강하게 보내시기 바랍니다~
+이 게시물을...

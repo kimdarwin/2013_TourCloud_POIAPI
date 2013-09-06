@@ -1,0 +1,36 @@
+Title:
+8/18 청송 주왕산 트레킹 후기
+
+Date:
+2012.08.19
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(627276,'files/attach/images/64/051/255/5ad5508dc13512bb4a06455ec6f64b0b.jpg');
+list_gallery_add_image(627276,'files/attach/images/64/051/255/15c55ee16b623d4c45c6f6e0bf9f0a6f.jpg');
+list_gallery_add_image(627276,'files/attach/images/64/051/255/f7d6aee01ac403b02e87d613aa30112a.jpg');
+list_gallery_add_image(627276,'files/attach/images/64/051/255/0b30ce31106ff87f46437823c68ac971.jpg');
+list_gallery_add_image(627276,'files/attach/images/64/051/255/a15591b5f54b8ae0bcd1dbea3f2785ac.jpg');
+list_gallery_add_image(627276,'files/attach/images/64/051/255/358efd7bf0c8eab0a88c34f7babe3224.jpg');
+list_gallery_add_image(627276,'files/attach/images/64/051/255/30d676bbba653071233c97d42c70ec3d.jpg');
+list_gallery_add_image(627276,'files/attach/images/64/051/255/bc63ae0937295c33a518c800714db52d.jpg');
+list_gallery_add_image(627276,'files/attach/images/64/051/255/d98cba938f4c9069e5665252ae844c66.jpg');
+list_gallery_add_image(627276,'files/attach/images/64/051/255/19912221a46124c71b56caffdb302b64.jpg');
+list_gallery_add_image(627276,'files/attach/images/64/051/255/af28284954b87f91bdf411179659bf86.jpg');
+list_gallery_add_image(627276,'files/attach/images/64/051/255/19a32cb2d49d82ef73538fce0bf99842.jpg');
+list_gallery_add_image(627276,'files/attach/images/64/051/255/15ccfcfb716343f330a854b208b2219e.jpg');
+list_gallery_add_image(627276,'files/attach/images/64/051/255/f2ae4fec44a1b97e8a02b27e5b3e78e5.jpg');
+list_gallery_add_image(627276,'files/attach/images/64/051/255/a02e3a6b30ca1bb3ebbe9e928df6aeed.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 18일(토), 아름다운 여행으로 주왕산 트레킹에 다녀왔습니다.
+막바지 휴가객들 탓인지 고속도로는 밀리는 구간이 꽤 있더군요. 
+그 탓에 청송 주왕산 국립공원에는 일정보다 조금 늦게 도착하게 되었습니다.이번 주왕산 코스는 자율적 식사와 함께 탐방로를 이용해 1폭포 2,3폭포까지 둘러보고 돌아오는 길은 급수대로 향하는 길을 통해 주왕암까지 다녀오는 온전히 주왕산 트레킹 코스로만 정해졌습니다.청송의 주왕산 하면 자연스레 따라붙는 게 주산지인데 그곳을 그냥 지나친다는 것이 조금 아쉬운 맘이 들기도 했지만 덕분에 여유로운 주왕산 폭포 트레킹을 즐긴 듯 하네요~^^
+우리나라 많은 국립공원이 그렇지만, 특히 주왕산 탐방로는 크게 흠잡을 곳없이 정비가 잘되어있습니다. 자하교 근처까지 가는 길은 잘 다듬어진 흙길로 맨발로 걸어도 큰 불편함 없을 정도의 고운 길이 이어집니다.
+노래하듯 흐르던 계곡물 소리는 학소대 가까이 갈수록 우렁찬 폭포수의 소리로 변했고 그 소리와 함께 1폭포의 힘찬 물줄기를 볼 수 있었습니다.2폭포 가는 길에는 잠시 사나운 소나기가 내리 치더군요. 
+더운 여름날 숲 속 트레킹 중에 만난 소나기는 시원함을 넘어 행운이라는 생각까지 잠시 하게 되었습니다. 소나기가 그치고 해가 들었다가 잠시 흐렸다 하는 날씨 속에 3코스까지 다녀오는 동안, 
+물가 근처와 나무숲 사이에서 불어오는 바람은 정말로 달콤하고 시원했습니다. 
+그 시원함...이번 주왕산 트레킹을 함께 하신 모든 분들은 공감하지 않을까 싶네요~^^돌아가는 길은 주왕산의 괴암절벽을 전망할 수 있는 급수대에 올라 장엄한 주변풍경을 보고 주왕암과 주왕굴까지 들러 내려왔습니다.
+주왕산 트레킹을 하는 하루 동안 여러 가지 정말 다양한 날씨를 만났습니다. 
+적절히 내려준 소나기 덕분에 시원하게 걸을 수 있었고, 비내린 뒤 반짝이는 햇살에 나뭇가지의 물방울이 더 없이 눈부시게 빛나기도 했습니다.이번 트레킹 함께 하신 모든 분들, 오래도록 시원한 추억으로 남는 여행이 되셨기를 바라며, 여행의 피로 잘 푸시고 남은 여름도 건강하고 활기차게 잘 보내시길 바라겠습니다.
+이 게시물을...

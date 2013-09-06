@@ -1,0 +1,58 @@
+관다발식물
+	관다발식물/ncn
+
+속새목
+	속새/ncn+목/ncn
+
+속새과의
+	속새/ncn+과의/jcm
+
+여러해살이풀
+	여러해살이/ncn+풀/ncn
+
+.
+	./sf
+
+
+학명
+	학명/ncn
+
+
+Equisetum
+	Equisetum/f
+
+arvense
+	arvense/f
+
+
+분류
+	분류/ncpa
+
+
+속새과
+	속새/ncn+과/jcj
+
+
+분포지역
+	분포/ncpa+지역/ncn
+
+
+북반구의
+	북반구/ncn+의/jcm
+
+난대
+	난대/ncn
+
+이북에서
+	이북/ncn+에서/jca
+
+한대
+	한대/ncn
+
+
+서식장소
+	서식/ncpa+장소/ncn
+
+
+풀밭
+	풀밭/ncn

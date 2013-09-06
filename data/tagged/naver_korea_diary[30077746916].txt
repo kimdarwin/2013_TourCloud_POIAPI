@@ -1,0 +1,1348 @@
+위치
+	위치/ncn
+
+:
+	:/sp
+
+강원
+	강원/ncn
+
+영월군
+	영월군/ncn
+
+주천면
+	주천면/ncn
+
+/서면
+	//sp+서면/ncn
+
+
+추
+	추/ncn
+
+천
+	천/nnc
+
+층
+	층/nbu
+
+:
+	:/sp
+
+가족층
+	가족/ncn+층/ncn
+
+
+영월군
+	영월군/ncn
+
+주천면
+	주천면/ncn
+
+.
+	./sf
+
+
+주천강과
+	주천강/ncn+과/jcj
+
+평창강이
+	평창강/ncn+이/jcc
+
+흐르고,
+	흐르/pvg+고/ecc+,/sp
+
+이
+	이/mmd
+
+두
+	두/nnc
+
+물줄기가
+	물줄기/ncn+가/jcs
+
+만나
+	만나/pvg+아/ecx
+
+서강이
+	서강/ncn+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+서면의
+	서면/ncn+의/jcm
+
+선암마을을
+	선암마을/ncn+을/jco
+
+흐
+	흐/ncn
+
+
+른다
+	른다/ncn
+
+.
+	./sf
+
+
+이처럼
+	이/npd+처럼/jca
+
+유난히
+	유난히/mag
+
+강이
+	강/ncn+이/jcc
+
+많아,
+	많/paa+아/ecs+,/sp
+
+겨울
+	겨울/ncn
+
+무렵이면
+	무렵/nbn+이/jp+면/ecs
+
+주천면
+	주천면/ncn
+
+일대와
+	일/nnc+대/nbu+와/jct
+
+서면
+	서/pvg+면/ecs
+
+선암마을에는
+	선암마을/ncn+에/jca+는/jxc
+
+섶다리가
+	섶다리/ncn+가/jcs
+
+놓인다
+	놓이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+겨울에
+	겨울/ncn+에/jca
+
+마을
+	마을/ncn
+
+주민들의
+	주민/ncn+들/ncn+의/jcm
+
+손으로
+	손/ncn+으로/jca
+
+놓아져
+	놓/px+아/ecx+지/px+어/ecx
+
+여름철
+	여름철/ncn
+
+불어난
+	불/pvg+어/ecx+나/px+ㄴ/etm
+
+물에
+	물/ncn+에/jca
+
+떠내려갈
+	뜨/pvg+어/ecx+내리/px+어/ecx+가/px+ㄹ/etm
+
+때까지
+	때/ncn+까지/jxc
+
+주민들의
+	주민/ncn+들/ncn+의/jcm
+
+발과
+	발/ncn+과/jcj
+
+마음을
+	마음/ncn+을/jco
+
+이
+	이/mmd
+
+
+어주는
+	어주/ncn+는/jxc
+
+역할을
+	역할/ncn+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+바로
+	바로/mag
+
+이
+	이/mmd
+
+섶다리이다
+	섶다리/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+섶다리는
+	섶다리/ncn+는/jxc
+
+여울에
+	여울/ncn+에/jca
+
+갈라진
+	가르/pvg+아/ecx+지/px+ㄴ/etm
+
+참나무로
+	참나무/ncn+로/jca
+
+다리목을
+	다리/ncn+목/ncn+을/jco
+
+세우고,
+	세우/pvg+고/ecc+,/sp
+
+낙엽송
+	낙엽송/ncn
+
+장대로
+	장/nbu+대로/jca
+
+이어서
+	이/npd+이/jp+어서/ecs
+
+소나무
+	소나무/ncn
+
+가지를
+	가지/nbu+를/jco
+
+깔고
+	깔/pvg+고/ecc
+
+위에
+	위/ncn+에/jca
+
+
+흙으로
+	흙/ncn+으로/jca
+
+덮어
+	덮/pvg+어/ecx
+
+놓은
+	놓/px+은/etm
+
+임시다리이다
+	임시/ncn+다리/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+최근에는
+	최근/ncn+에/jca+는/jxc
+
+이
+	이/mmd
+
+섶다리가
+	섶다리가/ncn
+
+여러
+	여러/mma
+
+언론
+	언론/ncn
+
+매체를
+	매체/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+많이
+	많/paa+이/xsa
+
+보도되어
+	보도/ncpa+되/xsvn+어/ecx
+
+아주
+	아주/ii
+
+
+생소한
+	생소/ncps+하/xsms+ㄴ/etm
+
+것만은
+	것/nbn+만은/jxc
+
+아니나,
+	아니/paa+나/ef+,/sp
+
+자연
+	자연/ncn
+
+그대로의
+	그/npp+대로/jca+의/jcm
+
+재료,푸른
+	재료,푸른/ncn
+
+솔가지와
+	솔가지/ncn+와/jcj
+
+흙으로
+	흙/ncn+으로/jca
+
+덮힌
+	덮히/pvg+ㄴ/etm
+
+섶다리는
+	섶다리/ncn+는/jxc
+
+아직까지
+	아직/mag+까지/jxc
+
+잊혀져
+	잊히/pvg+어/ecx+지/px+어/ecs
+
+
+가는
+	가/pvg+는/etm
+
+우리네
+	우리/npp+이/jp+네/ef
+
+옛
+	옛/mma
+
+정서를
+	정서/ncn+를/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+해
+	하/pvg+어/ecx
+
+준다
+	주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+섶다리에
+	섶다리/ncn+에/jca
+
+올라서
+	오르/pvg+아/ecx
+
+조심스럽게
+	조심/ncpa+스럽/xsmn+게/ecs
+
+발걸음을
+	발걸음/ncn+을/jco
+
+떼면
+	떼/pvg+면/ecs
+
+부드럽게,
+	부드럽/paa+게/ecs+,/sp
+
+그러
+	그/npd+이/jp+러/ecs
+
+
+나
+	나/npp
+
+불안하지
+	불안/ncps+하/xsms+지/ecx
+
+않게
+	않/px+게/ecs
+
+조금씩
+	조금씩/ncn
+
+출렁거리는
+	출렁거리/pvg+는/etm
+
+감촉이,
+	감촉/ncn+이/jcc+,/sp
+
+견고한
+	견고/ncn+한/ncn
+
+아스팔트
+	아스팔트/ncn
+
+육교와
+	육교/ncn+와/jcj
+
+다리만을
+	다리/ncn+만/ncn+을/jco
+
+밟아왔던
+	밟/pvg+아/ecx+오/px+아/ep+ㄴ/etm
+
+우리
+	우리/npp
+
+발끝
+	발끝/ncn
+
+
+에
+	에/pvg+어/ecx
+
+색다르고
+	색다르/paa+고/ecc
+
+포근한
+	포근/ncn+한/ncn
+
+느낌마저
+	느끼/pvg+ㅁ/etn+마저/jxc
+
+준다
+	주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+주천면
+	주천면/ncn
+
+일대는
+	일/nnc+대/nbu+는/jxc
+
+섶다리의
+	섶다리/ncn+의/jcm
+
+고장이라고
+	고장/ncn+이/jp+라/ef+고/jcr
+
+부르기에도
+	부르/pvg+기/etn+에/jca+도/jxc
+
+손색이
+	손색/ncn+이/jcc
+
+없을
+	없/paa+을/etm
+
+만큼,예전부터
+	만큼/nbn+,/sp+예전/ncn+부터/jxc
+
+마을마다
+	마을/ncn+마다/jxc
+
+왕래를
+	왕래/ncpa+를/jco
+
+위해
+	위하/pvg+어/ecs
+
+
+섶다리를
+	섶다리/ncn+를/jco
+
+많이들
+	많이들/ncn
+
+놓았던
+	놓/px+아/ep+ㄴ/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+현재에도
+	현재/ncn+에/jca+도/jxc
+
+겨울마다
+	겨울/ncn+마다/jxc
+
+주민들이
+	주민/ncn+들/ncn+이/jcc
+
+힘을
+	힘/ncn+을/jco
+
+모아
+	모으/pvg+아/ecx
+
+그
+	그/mmd
+
+명맥을
+	명맥/ncn+을/jco
+
+이어가고
+	잇/pvg+어/ecx+가/px+고/ecc
+
+있으며
+	있/paa+으며/ecc
+
+
+문헌에
+	문헌/ncn+에/jca
+
+기록된
+	기록/ncpa+되/xsvn+ㄴ/etm
+
+쌍섶다리를
+	쌍섶다리/ncn+를/jco
+
+300년만에
+	300/nnc+년/nbu+만에/jca
+
+복원,
+	복원/ncpa+,/sp
+
+재현해
+	재현/ncpa+하/xsva+어/ecx
+
+섶다리마을이라고
+	섶다리마을/ncn+이/jp+라/ef+고/jcr
+
+불리우고
+	불리우/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+옛날
+	옛날/ncn
+
+이곳에
+	이곳/npd+에/jca
+
+새로
+	새로/mag
+
+부임하는
+	부임/ncpa+하/xsva+는/etm
+
+강원
+	강원/ncn
+
+관찰사는
+	관찰사/ncr+는/jxc
+
+반드시
+	반드시/mag
+
+단종의
+	단종/ncn+의/jcm
+
+능인
+	능/ncn+이/jp+ㄴ/etm
+
+장릉을
+	장릉/ncn+을/jco
+
+참배해야
+	참배/ncpa+하/xsva+어야/ecs
+
+했다고
+	하/px+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+러나
+	러/ncn+나/jcj
+
+관찰사
+	관찰사/ncr
+
+일인만의
+	일인/ncn+만/ncn+의/jcm
+
+행차가
+	행차/ncpa+가/jcc
+
+아닌,
+	아니/paa+ㄴ/etm+,/sp
+
+관찰사
+	관찰사/ncr
+
+일행이
+	일/nnc+행/nbu+이/jcc
+
+행차하기
+	행차/ncpa+하/xsva+기/etn
+
+위해서는
+	위하/pvg+어서/ecs+는/jxc
+
+외섶다리로는
+	외섶다리로/ncn+는/jxc
+
+역부족이어서,이웃마을
+	역부족/ncn+이/jp+어서/ecs+,/sp+이웃마을/ncn
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+서로
+	서로/mag
+
+한개씩의
+	한/nnc+개/nbu+씩/xsnu+의/jcm
+
+섶다리를
+	섶다리/ncn+를/jco
+
+놓아
+	놓/px+아/ecx
+
+쌍섶다리가
+	쌍섶다리/ncn+가/jcs
+
+되었다는
+	되/pvg+었/ep+다/ef+는/etm
+
+유래가
+	유래/ncpa+가/jcc
+
+전해져
+	전하/pvg+어/ecx+지/px+어/ecx
+
+내려오고
+	내리/pvg+어/ecx+오/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+주천
+	주천/ncn
+
+2교
+	2교/ncn
+
+끝에서
+	끝/ncn+에서/jca
+
+강변으로
+	강변/ncn+으로/jca
+
+내려와,
+	내리/pvg+어/ecx+오/px+아/ecs+,/sp
+
+한개의
+	한/nnc+개/nbu+의/jcm
+
+긴
+	길/paa+ㄴ/etm
+
+섶다리를
+	섶다리/ncn+를/jco
+
+건너면
+	건너/pvg+면/ecs
+
+부드러운
+	부드럽/paa+은/etm
+
+갈대숲이
+	갈대/ncn+숲/ncn+이/jcc
+
+나타난다
+	나타나/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+겨울바
+	겨울/ncn+바/ncn
+
+람에
+	람/ncn+에/jca
+
+사락이는
+	사락/ncn+이/jp+는/etm
+
+갈대숲
+	갈대/ncn+숲/ncn
+
+길을
+	길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+천천히
+	천천히/mag
+
+걷다
+	걷/pvg+다/ef
+
+보면,
+	보/px+면/ecs+,/sp
+
+앞서
+	앞서/mag
+
+건넌
+	건너/pvg+ㄴ/etm
+
+외섶다리보다
+	외섶다리/ncn+보다/jca
+
+짧고
+	짧/paa+고/ecc
+
+두툼한
+	두툼/ncps+하/xsms+ㄴ/etm
+
+쌍섶다리
+	쌍섶다리/ncn
+
+가
+	가/jcs
+
+나타난다
+	나타나/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+쌍섶다리와
+	쌍섶다리/ncn+와/jcj
+
+갈대숲,
+	갈대/ncn+숲/ncn+,/sp
+
+산과
+	산/ncn+과/jct
+
+굽이쳐
+	굽이치/pvg+어/ecx
+
+흐르는
+	흐르/pvg+는/etm
+
+맑은
+	맑/paa+은/etm
+
+강물은
+	강물/ncn+은/jxc
+
+마음속에
+	마음속/ncn+에/jca
+
+오래오래
+	오래오래/mag
+
+기억될
+	기억/ncpa+되/xsvn+ㄹ/etm
+
+한
+	한/nnc
+
+폭
+	폭/nbu
+
+의
+	의/ncn
+
+그림이
+	그림/ncn+이/jcc
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+쌍섶다리에서
+	쌍섶다리/ncn+에서/jca
+
+주천2교쪽
+	주천2교쪽/ncn
+
+앞
+	앞/ncn
+
+망산을
+	망산/ncn+을/jco
+
+바라보면
+	바라/pvg+아/ecx+보/px+면/ecs
+
+빙허루라는
+	빙허루라/ncn+는/jxc
+
+이름의
+	이름/ncn+의/jcm
+
+그림같은
+	그림/ncn+같/xsmn+은/etm
+
+정자가
+	정자/ncn+가/jcs
+
+보이는데
+	보이/pvg+ㄴ데/ecs
+
+산책코스
+	산책/ncpa+코스/ncn
+
+를
+	를/ncn
+
+따라
+	따르/pvg+아/ecx
+
+이
+	이/mmd
+
+빙허루에
+	빙허루/ncn+에/jca
+
+오르면
+	오르/pvg+면/ecs
+
+주천마을과
+	주천마을/ncn+과/jct
+
+그림같은
+	그림/ncn+같/xsmn+은/etm
+
+풍경이
+	풍경/ncn+이/jcc
+
+시원하니
+	시원/ncps+하/xsms+니/ecs
+
+한눈에
+	한눈/ncn+에/jca
+
+들어온다
+	들/pvg+어/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+시간적
+	시간/ncn+적/ncn
+
+여유가
+	여유/ncn+가/jcs
+
+있다면
+	있/px+다면/ecs
+
+등산로를
+	등산로/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+걷다가
+	걷/pvg+다가/ecs
+
+강변
+	강변/ncn
+
+옆으로
+	옆/ncn+으로/jca
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+코스도
+	코스/ncn+도/jxc
+
+걸어봄직하다
+	걸어봄직하/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+주천면에서
+	주천면/ncn+에서/jca
+
+차로
+	차/ncn+로/jca
+
+10분정도
+	10분정/ncn+도/jxc
+
+거리에
+	거리/ncn+에/jca
+
+한반도
+	한/nnc+반/nbu+도/jxc
+
+지형으로
+	지형/ncn+으로/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+선암마을이
+	선암마을/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+마을
+	마을/ncn
+
+남쪽의
+	남쪽/ncn+의/jcm
+
+숲길을
+	숲길/ncn+을/jco
+
+지
+	지/nbn
+
+나
+	나/npp
+
+전망대에
+	전망대/ncn+에/jca
+
+서면
+	서/pvg+면/ecs
+
+우리나라
+	우리나라/ncn
+
+입체지도와
+	입체/ncn+지도/ncn+와/jct
+
+같은
+	같/paa+은/etm
+
+풍경이
+	풍경/ncn+이/jcc
+
+한눈에
+	한눈/ncn+에/jca
+
+들어온다
+	들/pvg+어/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+선암마을에서
+	선암마을/ncn+에서/jca
+
+시작되는
+	시작/ncpa+되/xsvn+는/etm
+
+서강
+	서강/ncn
+
+이
+	이/mmd
+
+동강을
+	동강/ncn+을/jco
+
+이루기
+	이루/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+굽이쳐
+	굽이치/pvg+어/ecx
+
+내려가면서
+	내리/pvg+어/ecx+가/px+면서/ecc
+
+만들어
+	만들/pvg+어/ecx
+
+놓은,
+	놓/px+은/etm+,/sp
+
+삼면이
+	삼면/ncn+이/jcc
+
+바다인
+	바다/ncn+이/jp+ㄴ/etm
+
+우리
+	우리/npp
+
+땅을
+	땅/ncn+을/jco
+
+그대로
+	그대로/mag
+
+옮겨
+	옮기/pvg+어/ecx
+
+놓은
+	놓/px+은/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+신기한
+	신기/ncn+한/ncn
+
+모습에
+	모습/ncn+에/jca
+
+감탄을
+	감탄/ncpa+을/jco
+
+금할
+	금하/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+선암마을
+	선암마/ncn+이/jp+ㄹ/etm
+
+한반도지형은
+	한반도지형/ncn+은/jxc
+
+자연의
+	자연/ncn+의/jcm
+
+신비로움과
+	신비/ncps+롭/xsmn+음/etn+과/jcj
+
+우리땅의
+	우리땅/ncn+의/jcm
+
+소
+	소/ncn
+
+중함을
+	중하/paa+ㅁ/etn+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+해주는
+	하/pvg+어/ecx+주/px+는/etm
+
+의미있는
+	의미/ncpa+있/xsmn+는/etm
+
+여행지가
+	여행지/ncn+가/jcs
+
+될
+	되/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+깨끗한
+	깨끗/ncps+하/xsms+ㄴ/etm
+
+청정지역
+	청정/ncpa+지역/ncn
+
+섶다리마을에서는
+	섶다리마을에서/ncn+는/jxc
+
+12월초부터
+	12/nnc+월/nbu+초/xsnu+부터/jxc
+
+2월말까지
+	2/nnc+월/nbu+말/xsnu+까지/jxc
+
+친환경
+	친환경/ncn
+
+무농약
+	무농약/ncn
+
+농업으로
+	농업/ncn+으로/jca
+
+재배한
+	재배/ncpa+하/xsva+ㄴ/etm
+
+토종
+	토종/ncn
+
+약콩
+	약콩/ncn
+
+으로
+	으/ncn+로/jca
+
+전통
+	전통/ncn
+
+메주만들기,
+	메주/ncn+만들기/ncn+,/sp
+
+손두부
+	손두부/ncn
+
+만들기
+	만들/pvg+기/etn
+
+등
+	등/nbu
+
+농촌생활
+	농촌생활/ncpa
+
+체험을
+	체험/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+이벤트를
+	이벤트/ncn+를/jco
+
+선보인다
+	선보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+관광객이
+	관광객/ncn+이/jcc
+
+직접
+	직접/mag
+
+콩을
+	콩/ncn+을/jco
+
+씻고,
+	씻/pvg+고/ecc+,/sp
+
+삶고,
+	삶/pvg+고/ecc+,/sp
+
+찧어서
+	찧/pvg+어서/ecs
+
+메주틀에
+	메주/ncn+틀/ncn+에/jca
+
+넣어
+	넣/pvg+어/ecx
+
+메주를
+	메주/ncn+를/jco
+
+만들어
+	만들/pvg+어/ecx
+
+황토방
+	황토/ncn+방/ncn
+
+숙성실에
+	숙성/ncpa+실/ncn+에/jca
+
+메달아
+	메달아/ncn
+
+마무리한다
+	마무리/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+꺼먹토종약콩을
+	꺼먹토종약콩/ncn+을/jco
+
+불리고
+	불리/pvg+고/ecc
+
+갈아
+	갈/pvg+아/ecx
+
+가마솥에
+	가마솥/ncn+에/jca
+
+끓여
+	끓이/pvg+어/ecx
+
+맛있는
+	맛있/paa+는/etm
+
+손두부를
+	손두부/ncn+를/jco
+
+만들어서
+	만들/pvg+어서/ecs
+
+무농약
+	무농약/ncn
+
+배추곁저리
+	배추곁저리/ncn
+
+김
+	길/paa+ㅁ/etn
+
+치를
+	치/nbu+를/jco
+
+곁들이면
+	곁들이/pvg+면/ecs
+
+그야말로
+	그야말로/mag
+
+웰빙
+	웰빙/ncn
+
+식단이
+	식단/ncn+이/jcc
+
+따로
+	따로/mag
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+겨울
+	겨울/ncn
+
+옛날
+	옛날/ncn
+
+민초들의
+	민초/ncn+들/ncn+의/jcm
+
+문화가
+	문화/ncn+가/jcs
+
+서려있는
+	서리/pvg+어/ecx+있/px+는/etm
+
+섶다리마을에서
+	섶다리마을/ncn+에서/jca
+
+향수어린
+	향수/ncn+어린/ncn
+
+향토음식을
+	향토음식/ncn+을/jco
+
+맛보면서
+	맛보/pvg+면서/ecc
+
+과거로의
+	과거/ncn+로/jca+의/jcm
+
+추
+	추/ncn
+
+억여행을
+	억/nnc+여/xsnu+행/nbu+을/jco
+
+떠나보면
+	떠나/pvg+아/ecx+보/px+면/ecs
+
+어떨까
+	어떨까/ncn
+
+?
+	?/sf
+
+
+기사내용
+	기사내용/ncn
+
+전체보기
+	전체/ncn+보기/ncn

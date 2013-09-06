@@ -1,0 +1,979 @@
+전북,남원여행/광한루원
+	전북,남원여행/광한루원/ncn
+
+5분거리에
+	5분거리/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+켄싱턴리조트
+	켄싱턴리조트/ncn
+
+지리산남원점
+	지리산남원점/ncn
+
+
+남원1박2일여행/광한루야경/남원춘향제/전북방문의
+	남원1박2일여행/광한루야경/남원춘향제/전북방문/ncn+의/jcm
+
+해/전북여행
+	해/전북여행/ncn
+
+
+컨싱턴리조트
+	컨싱턴리조트/ncn
+
+지리산남원점은
+	지리산남원점/ncn+은/jxc
+
+남원
+	남원/ncn
+
+광한루원에서
+	광한루원/ncn+에서/jca
+
+승월교
+	승월교/ncn
+
+넘어
+	넘/pvg+어/ecx
+
+맞은편에
+	맞은편/ncn+에/jca
+
+위치하고
+	위치/ncn+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+남원에서
+	남원/ncn+에서/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+큰
+	크/paa+ㄴ/etm
+
+숙박시설이
+	숙박시설/ncpa+이/jcc
+
+있을거라고
+	있/px+을/etm+것/nbn+이/jp+라/ef+고/jcr
+
+생각못했는데
+	생각/ncpa+못하/xsva+었/ep+는데/ecs
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+가깝게
+	가깝/paa+게/ecs
+
+지리산도
+	지리/ncn+산/ncn+도/jxc
+
+있어서
+	있/px+어서/ecs
+
+그런가
+	그러/pvd+ㄴ가/ef
+
+..
+	./sf+./sf
+
+
+로비로
+	로비/ncn+로/jca
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+한식와
+	하/pvg+ㄴ/etm+식/nbn+와/jcj
+
+양식을
+	양식/ncn+을/jco
+
+겸한
+	겸하/pvg+ㄴ/etm
+
+고급스러운
+	고급/ncn+스럽/xsmn+은/etm
+
+인테리어에
+	인테리어/ncn+에/jca
+
+고급스러운
+	고급/ncn+스럽/xsmn+은/etm
+
+호텔에
+	호텔/ncn+에/jca
+
+들어오는
+	들/pvg+어/ecx+오/px+는/etm
+
+느낌이다
+	느낌/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+방금전
+	방금전/ncn
+
+광한루
+	광한루/ncn
+
+야경을
+	야경/ncn+을/jco
+
+담고
+	담/pvg+고/ecc
+
+들어왔기에
+	들/pvg+어/ecx+오/px+아/ep+기/etn+에/jca
+
+출입문
+	출입문/ncn
+
+맞은편
+	맞은편/ncn
+
+춘향가
+	춘향/ncn+가/jcs
+
+귀절이
+	귀절/ncn+이/jcc
+
+더욱
+	더욱/mag
+
+마음으로
+	마음/ncn+으로/jca
+
+와
+	오/pvg+아/ecx
+
+닿는
+	닿/pvg+는/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+"사랑
+	"/sl+사랑/ncn
+
+사랑
+	사랑/ncn
+
+내살이야~
+	내살이야~/ncn
+
+이야허어둥둥
+	이야허어둥둥/ncn
+
+내사랑이야~"
+	내사랑/ncn+이야/jxc+~/sd+"/sl
+
+
+카운터
+	카운터/ncn
+
+뒷편에는
+	뒷편/ncn+에/jca+는/jxc
+
+한옥의
+	한옥/ncn+의/jcm
+
+창호문
+	창호/ncpa+문/ncn
+
+격자
+	격자/ncn
+
+모양의
+	모양/ncn+의/jcm
+
+벽면이
+	벽면/ncn+이/jcc
+
+한국
+	한국/ncn
+
+전통의
+	전통/ncn+의/jcm
+
+미를
+	미/ncn+를/jco
+
+더욱
+	더욱/mag
+
+돗보이게하는것
+	돗보이게하는것/ncn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+컨싱턴리조트
+	컨싱턴리조트/ncn
+
+지리산남원점은
+	지리산남원점/ncn+은/jxc
+
+객실수가
+	객실/ncn+수/ncn+가/jcs
+
+142개로
+	142/nnc+개/nbu+로/jca
+
+25평으로
+	25/nnc+평/nbu+으로/jca
+
+원룸형과
+	원룸형/ncn+과/jcj
+
+투룸형으로
+	투룸형/ncn+으로/jca
+
+구성되어
+	구성/ncn+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+한국
+	한국/ncn
+
+모던
+	모/ncn+이/jp+던/etm
+
+스타일의
+	스타일/ncn+의/jcm
+
+카페라이브러리
+	카페/ncn+라이브러리/ncn
+
+가
+	가/jcs
+
+카운터
+	카운터/ncn
+
+맞은편에
+	맞은편/ncn+에/jca
+
+위치하고
+	위치/ncn+하고/jct
+
+있었는데
+	있/px+었/ep+는데/ecs
+
+비록
+	비록/mag
+
+모형이었지만
+	모형/ncn+이/jp+었/ep+지만/ecs
+
+
+서재를
+	서재/ncn+를/jco
+
+안락함은
+	안락/ncps+하/xsms+ㅁ/etn+은/jxc
+
+느낄수
+	느끼/pvg+ㄹ/etm+수/nbn
+
+있었으며
+	있/px+었/ep+으며/ecc
+
+그
+	그/mmd
+
+밖에
+	밖/ncn+에/jca
+
+뷔페식당으로
+	뷔페/ncn+식당/ncn+으로/jca
+
+루원,
+	루원,/ncn
+
+컨싱턴
+	컨싱턴/ncn
+
+가든누마루,
+	가든/ncn+누마루/ncn+,/sp
+
+프리미움
+	프리/ncn+미움/ncn
+
+라운지,
+	라운지/ncn+,/sp
+
+편의점
+	편의점/ncn
+
+을
+	을/ncn
+
+갖추고
+	갖추/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+묵은
+	묵/pvg+은/etm
+
+방은
+	방/ncn+은/jxc
+
+원룸
+	원룸/ncn
+
+온돌인데
+	온돌/ncn+이/jp+ㄴ데/ecs
+
+.
+	./sf
+
+
+어쩌다
+	어쩌다/ncn
+
+사진을
+	사진/ncn+을/jco
+
+조막조막하게
+	조막조막하/ncn+이/jp+게/ecs
+
+담아버렸다
+	담/pvg+아/ecx+버리/px+었/ep+다/ef
+
+.
+	./sf
+
+
+원룸형이라
+	원룸형이라/ncn
+
+거실과
+	거실/ncn+과/jcj
+
+방이
+	방/ncn+이/jcc
+
+무척
+	무척/mag
+
+넓게
+	넓/paa+게/ecs
+
+느껴졌다
+	느끼/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+방을
+	방/ncn+을/jco
+
+전체를
+	전체/ncn+를/jco
+
+안담았다니
+	안담았다/ncn+이/jp+니/ecs
+
+;;
+	;/sy+;/sy
+
+
+방에서
+	방/ncn+에서/jca
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+부억방향이다
+	부억/ncn+방향/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+사실,
+	사실/ncn+,/sp
+
+건물과
+	건물/ncn+과/jcj
+
+로비에서
+	로비/ncn+에서/jca
+
+받은
+	받/pvg+은/etm
+
+고급스러움은
+	고급/ncn+스럽/xsmn+음/etn+은/jxc
+
+없었지만
+	없/paa+었/ep+지만/ecs
+
+미리
+	미리/mag
+
+예약을
+	예약/ncpa+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+탓일까
+	탓/ncpa+이/jp+ㄹ까/ef
+
+..
+	./sf+./sf
+
+
+광한루
+	광한루/ncn
+
+야경담느랴
+	야경담느랴/ncn
+
+조금
+	조금/mag
+
+으슬으슬
+	으슬으슬/ncn
+
+하였는데
+	하/px+었/ep+는데/ecs
+
+방이
+	방/ncn+이/jcc
+
+따뜻하게
+	따뜻/ncps+하/xsms+게/ecs
+
+데워져
+	데우/pvg+어/ecx+지/px+어/ecx
+
+있어
+	있/px+어/ecx
+
+무척
+	무척/mag
+
+마음에
+	마음/ncn+에/jca
+
+들었다
+	들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+하룻밤
+	하룻밤/ncn
+
+푹
+	푹/mag
+
+자고
+	자/nbn+이/jp+고/ecc
+
+나면
+	나/npp+이/jp+면/ecs
+
+여행의
+	여행/ncpa+의/jcm
+
+피로는
+	피/ncn+로/jca+는/jxc
+
+단숨에
+	단숨에/mag
+
+사라질듯하였다
+	사라지/pvg+ㄹ/etm+듯/nbs+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+거실과
+	거실/ncn+과/jct
+
+나란히
+	나란히/mag
+
+있는
+	있/px+는/etm
+
+부엌은
+	부엌/ncn+은/jxc
+
+기본
+	기본/ncn
+
+그릇과
+	그릇/nbu+과/jcj
+
+솥,
+	솥/ncn+,/sp
+
+조리도구
+	조리/ncn+도구/ncn
+
+냉장고
+	냉장고/ncn
+
+.
+	./sf
+
+
+밥통까지
+	밥통/ncn+까지/jxc
+
+기본적으로
+	기본/ncn+적/ncn+으로/jca
+
+구비되어
+	구비/ncpa+되/xsvn+어/ecx
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+욕실
+	욕실/ncn
+
+
+켄싱턴리조트에서
+	켄싱턴리조트/ncn+에서/jca
+
+하룻밤
+	하룻밤/ncn
+
+편안하고
+	편안/ncps+하고/jct
+
+자고
+	자/pvg+고/ecc
+
+조금
+	조금/mag
+
+이런
+	이런/mmd
+
+시간에
+	시간/nbu+에/jca
+
+산책을
+	산책/ncpa+을/jco
+
+나와보았다
+	나오/pvg+아/ecx+보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+전날
+	전날/ncn
+
+밤
+	밤/ncn
+
+야경으로
+	야경/ncn+으로/jca
+
+만났던
+	만나/pvg+아/ep+ㄴ/etm
+
+승월교가
+	승월교/ncn+가/jcs
+
+보였다
+	보이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+저
+	저/mmd
+
+다리만
+	다리/ncn+만/jxc
+
+건너면
+	건너/pvg+면/ecs
+
+바로
+	바로/mag
+
+남원
+	남원/ncn
+
+광한루가
+	광한루/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+호텔앞
+	호텔/ncn+앞/ncn
+
+산책로는
+	산책로/ncn+는/jxc
+
+다양한
+	다양/ncn+한/ncn
+
+테마로
+	테마/ncn+로/jca
+
+구성되어
+	구성/ncn+되/xsvn+어/ecx
+
+있어
+	있/px+어/ecx
+
+걸으면서
+	걸/pvg+면서/ecc
+
+볼거리를
+	볼거리/ncn+를/jco
+
+제공하였다
+	제공/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+심청마당에서는
+	심청마당에서/ncn+는/jxc
+
+판소리에
+	판소리/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+상식을
+	상식/ncn+을/jco
+
+조형물과
+	조형물/ncn+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+해석이
+	해석/ncpa+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+있었으며
+	있/px+었/ep+으며/ecc
+
+권삼득,
+	권삼득,/ncn
+
+송흥록,
+	송흥록,/ncn
+
+송만갑,
+	송만갑/ncn+,/sp
+
+송광록
+	송광록/ncn
+
+등
+	등/nbu
+
+판소리의
+	판소리/ncn+의/jcm
+
+대가들을
+	대가/ncn+들/ncn+을/jco
+
+읽을수
+	읽/pvg+을/etm+수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+켄싱턴리조트
+	켄싱턴리조트/ncn
+
+지리산
+	지리/ncn+산/ncn
+
+남원점에서
+	남원점/ncn+에서/jca
+
+인근
+	인근/ncn
+
+지리산
+	지리/ncn+산/ncn
+
+둘레길이
+	둘레/ncn+길/ncn+이/jcc
+
+무척
+	무척/mag
+
+가깝다고
+	가깝/paa+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+가까운
+	가깝/paa+은/etm
+
+둘레길은
+	둘레/ncn+길/ncn+은/jxc
+
+지리산
+	지리/ncn+산/ncn
+
+1코스로
+	1코스/ncn+로/jca
+
+주천~
+	주천~/ncn
+
+운봉코스인데
+	운봉코스인데/ncn
+
+1박2일에서
+	1박2일/ncn+에서/jca
+
+김종민이
+	김종민/ncn+이/jcc
+
+걸었던
+	걷/pvg+었/ep+던/etm
+
+길로
+	길/ncn+로/jca
+
+1코스
+	1코스/ncn
+
+입구까지
+	입구/ncn+까지/jxc
+
+6.3km
+	6.3km/ncn
+
+로
+	로/ncn
+
+차로
+	차/ncn+로/jca
+
+8분거리이다
+	8분거리/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이승기가
+	이승/ncn+기/ncn+가/jcs
+
+걸었던
+	걷/pvg+었/ep+던/etm
+
+2코스
+	2코스/ncn
+
+운봉~
+	운봉~/ncn
+
+인월코스는
+	인월코스/ncn+는/jxc
+
+리조트에서
+	리조트/ncn+에서/jca
+
+18km
+	18km/ncn
+
+로
+	로/ncn
+
+25분거리에
+	25분거리/ncn+에/jca
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+리조트에
+	리조트/ncn+에/jca
+
+묵으면서
+	묵/pvg+으면서/ecc
+
+지리산
+	지리/ncn+산/ncn
+
+둘레길도
+	둘레/ncn+길/ncn+도/jxc
+
+쉬엄쉬엄
+	쉬엄쉬엄/mag
+
+걸어보는
+	걷/pvg+어/ecx+보/px+는/etm
+
+것
+	것/nbn
+
+또한
+	또한/maj
+
+좋을
+	좋/paa+을/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+제82회
+	제82회/ncn
+
+얼씨구
+	얼씨구/ii
+
+춘향사랑
+	춘향사랑/ncn
+
+남원
+	남원/ncn
+
+춘향제
+	춘향제/ncn
+
+(2012년
+	(/sl+2012/nnc+년/nbu
+
+4월
+	4/nnc+월/nbu
+
+27일
+	27/nnc+일/nbu
+
+~
+	~/sd
+
+5월1일)
+	5월1/ncn+이/jp+ㄹ/etm+)/sr
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+chunhyang.
+	chunhyang/f+./sy
+
+org/
+	org/f+//sp
+
+
+켄싱턴리조트
+	켄싱턴리조트/ncn
+
+지리산
+	지리/ncn+산/ncn
+
+남원점
+	남원점/ncn
+
+(063-636-7007)
+	(/sl+063/nnc+-636/nnc+-7007/nnc+)/sr
+
+
+전북
+	전/xp+북/ncn
+
+남원시
+	남원시/ncn
+
+어현동
+	어현동/ncn
+
+37-122
+	37/nnc+-122/nnc

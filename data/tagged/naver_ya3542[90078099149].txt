@@ -1,0 +1,767 @@
+록그룹
+	록그룹/ncn
+
+럼블피쉬의
+	럼블피쉬/ncn+의/jcm
+
+어쿠스틱
+	어쿠스틱/ncn
+
+감성
+	감성/ncn
+
+락.
+	락./ncn
+
+.
+	./sf
+
+
+스마일어게인,
+	스마일어게인,/ncn
+
+으라차차
+	으라차차/ncn
+
+등의
+	등/nbu+의/jcm
+
+경쾌한
+	경쾌/ncn+한/ncn
+
+비트는
+	비틀/pvg+는/etm
+
+들으면
+	들/pvg+면/ecs
+
+힘이
+	힘/ncn+이/jcc
+
+솟고
+	솟/pvg+고/ecc
+
+
+럼블피쉬의
+	럼블피쉬/ncn+의/jcm
+
+이러한
+	이러하/pad+ㄴ/etm
+
+노래는
+	노래/ncn+는/jxc
+
+응원가로도
+	응원가/ncn+로/jca+도/jxc
+
+많이
+	많/paa+이/xsa
+
+사용
+	사용/ncpa
+
+되기도
+	되/pvg+기/etn+도/jxc
+
+..
+	./sf+./sf
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc15/2010/01/07/465/031002136A70436B5C03BB8CD31C1463387_ya3542_logo.
+	net/blogucc15/2010/01/07/465/031002136A70436B5C03BB8CD31C1463387_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'235.
+	'/sr+235./nnc
+
+21';
+	21/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'113DC4564248101A75A5BB16F34AC9175D92';
+	'113DC4564248101A75A5BB16F34AC9175D92/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V124a35e0b0aaa9fa3837c527d87220d5f23c3bbcf2339d05813196fe5eba932c54e3c527d87220d5f23c';
+	'V124a35e0b0aaa9fa3837c527d87220d5f23c3bbcf2339d05813196fe5eba932c54e3c527d87220d5f23c/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_00710
+	ugcPlayer_00710/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_00710'
+	VideoInfraUGCPlayer('ugcPlayer_00710'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_00710
+	ugcPlayer_00710/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+럼블피쉬
+	럼블피쉬/ncn
+
+.
+	./sf
+
+
+스마일어게인Smile
+	스마일어게인Smile/ncn
+
+Again
+	Again/f
+
+.
+	./sf
+
+
+최진이
+	최진/ncn+이/jcc
+
+
+화가나도
+	화/ncn+가/jcs+나/jxc+도/jxc
+
+그랬었지
+	그렇/pad+었었/ep+지/ecs
+
+짜증나도
+	짜증/ncn+나/jxc+도/jxc
+
+그랬었고
+	그렇/pad+었었/ep+고/ecc
+
+
+신세탓만
+	신세/ncn+탓/ncpa+만/jxc
+
+줄줄이
+	주/px+ㄹ/etm+줄/nbn+이/jcc
+
+늘어놓기를수백번씩
+	늘어놓기를수백번씩/ncn
+
+내사랑엔
+	내사랑/ncn+엔/jca
+
+답이없고
+	답이없고/ncn
+
+내미래는
+	내미/pvg+래/ef+는/etm
+
+캄캄하지
+	캄캄하/paa+지/ecs
+
+
+체념은
+	체념/ncpa+은/jxc
+
+정말
+	정말/mag
+
+너무
+	너무/mag
+
+쉽게
+	쉽/paa+게/ecs
+
+잘하지
+	잘하/pvg+지/ecx
+
+사는게
+	사/pvg+는게/ecs
+
+그렇지힘든일만
+	그렇지힘든일/ncn+만/jxc
+
+찾아오는것같아
+	찾/pvg+아/ecx+오/px+는/etm+것/nbn+같/xsmn+아/ecx
+
+마음먹기
+	마음먹/pvg+기/etn
+
+달렸데
+	달리/pvg+었/ep+데/ef
+
+입꼬릴
+	입꼬릴/ncn
+
+높이
+	높이/mag
+
+올려봐
+	올리/pvg+어/ecx+보/px+아/ecx
+
+기분
+	기분/ncn
+
+좋은
+	좋/paa+은/etm
+
+세상이야Smile
+	세상이야Smile/ncn
+
+Again
+	Again/f
+
+더
+	더/mag
+
+크게
+	크/paa+게/ecs
+
+웃어봐시간이
+	웃어봐시간/ncn+이/jcc
+
+지나고
+	지/nbn+이/jp+나/ef+고/jcr
+
+지나면
+	지나/pvg+면/ecs
+
+아무일도
+	아무일/ncn+도/jxc
+
+아닌걸
+	아닌걸/ncn
+
+웃어
+	웃/pvg+어/ecx
+
+넘겨
+	넘기/pvg+어/ecs
+
+
+신나게
+	신나/pvg+게/ecs
+
+한번더
+	한번더/ncn
+
+웃어봐~가끔은
+	웃어봐~가끔/ncn+은/jxc
+
+세상을
+	세상/ncn+을/jco
+
+다
+	다/mag
+
+가진
+	가지/pvg+ㄴ/etm
+
+사람처럼
+	사람/ncn+처럼/jca
+
+그렇게
+	그렇/pad+게/ecs
+
+웃어봐
+	웃/pvg+어/ecx+보/px+아/ecs
+
+
+사랑해도
+	사랑/ncn+해/ncn+도/jxc
+
+헤어지고
+	헤어지/pvg+고/ecc
+
+헤어져도
+	헤어지/pvg+어도/ecs
+
+사랑하지
+	사랑/ncpa+하/xsva+지/ecs
+
+
+이별
+	이별/ncpa
+
+한번에
+	한/nnc+번/nbu+에/jca
+
+너무
+	너무/mag
+
+슬퍼하지마
+	슬프/paa+어/ecx+하/px+어/ecx+지/px+마/ef
+
+사는게
+	사/pvg+는게/ecs
+
+그렇지주는만큼
+	그렇/pad+지/ecx+주/px+는/etm+만큼/nbn
+
+받을수는
+	받/pvg+을/etm+수/nbn+는/jxc
+
+없는걸넌
+	없는걸넌/ncn
+
+혼자가
+	혼자/ncn+가/jcs
+
+아니야
+	아니/paa+야/ef
+
+니곁엔
+	니곁엔/ncn
+
+내가
+	나/npp+가/jcs
+
+있자나아름다운
+	있자나아름다운/ncn
+
+세상이야
+	세상/ncn+이야/jxc
+
+Smile
+	Smile/f
+
+Again
+	Again/f
+
+더크게
+	더크/ncn+이/jp+게/ecs
+
+웃어봐시간이
+	웃어봐시간/ncn+이/jcc
+
+지나고
+	지/nbn+이/jp+나/ef+고/jcr
+
+지나면
+	지나/pvg+면/ecs
+
+아무일도
+	아무일/ncn+도/jxc
+
+아닌걸
+	아닌걸/ncn
+
+웃어넘겨
+	웃어넘겨/ncn
+
+
+신나게
+	신나/pvg+게/ecs
+
+한번더
+	한번더/ncn
+
+웃어봐
+	웃/pvg+어/ecx+보/px+아/ecx
+
+가끔은
+	가끔/mag+은/jxc
+
+세상을
+	세상/ncn+을/jco
+
+다
+	다/mag
+
+가진
+	가지/pvg+ㄴ/etm
+
+사람처럼그렇게~웃어봐
+	사람처럼그렇게~웃어봐/ncn
+
+가끔은
+	가끔/mag+은/jxc
+
+울어도
+	울/pvg+어도/ecs
+
+괜찮아한번씩
+	괜찮아한번씩/ncn
+
+내안에
+	내/npp+안/xsnx+에/jca
+
+감춰진
+	감추/pvg+어/ecx+지/px+ㄴ/etm
+
+모습들이
+	모습/ncn+들/ncn+이/jcc
+
+날
+	나/px+ㄹ/etm
+
+찾아와
+	찾/pvg+아/ecx+오/px+아/ecx
+
+줄테니신나게
+	줄테니신나/ncn+이/jp+게/ecs
+
+더
+	더/mag
+
+크게
+	크/paa+게/ecs
+
+웃을께
+	웃/pvg+을께/ef
+
+언제나
+	언제나/mag
+
+세상을
+	세상/ncn+을/jco
+
+다
+	다/mag
+
+가진
+	가지/pvg+ㄴ/etm
+
+사람처럼
+	사람/ncn+처럼/jca
+
+그렇게
+	그렇/pad+게/ecs
+
+.
+	./sf
+
+
+~
+	~/sd
+
+
+외부
+	외부/ncn
+
+링크로
+	링크/ncpa+로/jca
+
+첨부된
+	첨부/ncpa+되/xsvn+ㄴ/etm
+
+음악,
+	음악/ncn+,/sp
+
+동영상은재생이
+	동영상은재생/ncn+이/jcc
+
+지원되지
+	지원/ncpa+되/xsvn+지/ecx
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+럼블피쉬
+	럼블피쉬/ncn
+
+.
+	./sf
+
+
+스마일어게인Smile
+	스마일어게인Smile/ncn
+
+Again
+	Again/f
+
+.
+	./sf
+
+
+최진이
+	최진/ncn+이/jcc
+
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+공간이야기
+	공간/ncn+이야기/ncpa
+
+민초호야
+	민초/ncn+호/ncn+이/jp+야/ef

@@ -1,0 +1,108 @@
+관다발식물
+	관다발식물/ncn
+
+속새목
+	속새/ncn+목/ncn
+
+속새과의
+	속새/ncn+과의/jcm
+
+상록
+	상록/ncn
+
+양치식물
+	양치식물/ncn
+
+.
+	./sf
+
+
+학명
+	학명/ncn
+
+
+Equisetum
+	Equisetum/f
+
+hyemale
+	hyemale/f
+
+
+분류
+	분류/ncpa
+
+
+속새과
+	속새/ncn+과/jcj
+
+
+분포지역
+	분포/ncpa+지역/ncn
+
+
+한국(제주
+	한국(제주/ncn
+
+및
+	및/maj
+
+강원
+	강원/ncn
+
+이북)
+	이북/ncn+)/sr
+
+일본
+	일/nnc+본/nbu
+
+캄차카
+	캄차카/ncn
+
+중국
+	중국/ncn
+
+동북부
+	동북부/ncn
+
+시베리아
+	시베리아/ncn
+
+투르키스탄
+	투르키스탄/ncn
+
+히말라야
+	히말라야/ncn
+
+유럽
+	유럽/ncn
+
+및
+	및/maj
+
+북아메리카
+	북아메리카/ncn
+
+
+서식장소
+	서식/ncpa+장소/ncn
+
+
+습한
+	습하/paa+ㄴ/etm
+
+그늘
+	그늘/ncn
+
+
+크기
+	크기/ncn
+
+
+높이
+	높이/mag
+
+30
+	30/nnc
+
+60cm
+	60cm/ncn

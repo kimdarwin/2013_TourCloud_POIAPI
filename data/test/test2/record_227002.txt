@@ -1,0 +1,30 @@
+Title:
+6/24 대관령 옛길 걷기 후기
+
+Date:
+2012.06.25
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(401134,'files/attach/images/64/002/227/f54deda43b50667e2fbd494256ff6d27.jpg');
+list_gallery_add_image(401134,'files/attach/images/64/002/227/c85d092b37eb12cee27911153705d6de.jpg');
+list_gallery_add_image(401134,'files/attach/images/64/002/227/fe6ae48e6da00fa9660e43b851383f21.jpg');
+list_gallery_add_image(401134,'files/attach/images/64/002/227/3d8c1d99abd73b70db3a99852d9a496c.jpg');
+list_gallery_add_image(401134,'files/attach/images/64/002/227/9754e21a2065a8517f7c2fb29b940aab.jpg');
+list_gallery_add_image(401134,'files/attach/images/64/002/227/abe6fc31425dd675b6f16a28cb8d6f8e.jpg');
+list_gallery_add_image(401134,'files/attach/images/64/002/227/ad25ae7828ab82522b31bbb9ad1a1598.jpg');
+list_gallery_add_image(401134,'files/attach/images/64/002/227/259d2976e5ff01b7906fae7b49a9f83a.jpg');
+list_gallery_add_image(401134,'files/attach/images/64/002/227/8c52647921c58c063d49ba2cb06e32a0.jpg');
+list_gallery_add_image(401134,'files/attach/images/64/002/227/e8b8adaf6cef2d0f642d0fc91ccbbb0c.jpg');
+list_gallery_add_image(401134,'files/attach/images/64/002/227/ff9b2a0358a16653fd5c42fe6a9f95ad.jpg');
+list_gallery_add_image(401134,'files/attach/images/64/002/227/6e273e3e4683dcd38f34a61699b66726.jpg');
+list_gallery_add_image(401134,'files/attach/images/64/002/227/49723807da6c5a8b74c5e3319ba4e720.jpg');
+list_gallery_add_image(401134,'files/attach/images/64/002/227/f20abf1ce724d1032fd2b959c120bcb8.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+6월 24일(일), 아름다운 여행으로 대관령 옛길을 걸었습니다. 대관령 옛길은 대관령에서 강릉까지 이어지는 옛 숲길입니다. 이번 여행에서는 대관령 옛길 중 반정에서 대관령박물관까지 약 6km를 걸었습니다. 거리도 짧고 내리막길과 평지로 이루어진 코스여서 그리 힘들지 않은 코스입니다.
+이 날 여행은 비교적 날씨가 선선해서 좋았습니다. 요즘 계속된 무더위로 지쳤었는데, 이 날 강릉의 날씨는 구름 짙은 선선한 날씨였습니다. 아마 최고 기온이 25도를 넘지 않았을 것 같네요.
+평창을 지날 때만 해도 차창 밖의 무더위가 느껴지는 듯했는데, 대관령으로 접어들자 짙은 안개가 끼어 아주 몽환적인 풍경이 펼쳐졌습니다. 버스에서 내려 대관령 옛길을 걷기 시작때을 때도 안개의 숲을 걷는 듯한 묘한 기분이 들더군요. 옛길을 따라 내려가자 차츰 안개는 걷히고 짙푸른 여름 숲길이 열렸습니다. 그때부터 계속 무덥지 않은 흐린 날의 여름 숲길을 걸었습니다. 걷기에는 아주 좋은 날이었습니다. 하지만 오랜 가뭄으로 수량이 확연히 줄어든 대관령계곡은 좀 아쉬웠습니다. 원래 물이 많은 계곡이었는데 안타까울 정도로 물이 줄었더군요.
+대관령 옛길 걷기를 마치고 강릉의 안목항으로 이동해 자유롭게 식사를 했습니다. 안목항은 대규모 항구 시설이 들어서서 이름까지 강릉항으로 바뀌었습니다. 또 바닷가에 커피숍들이 많이 문을 열어 커피의 거리라는 별칭을 얻기도 했습니다. 이 안목항에서 자유롭게 식사를 하고 커피도 한잔씩 하는 것으로여행을 마무리했습니다.
+이번 여행은 걷기 코스도 수월했고 날씨도 덥지 않아 편안하게 여행을 즐겼습니다. 올라오는 고속도로가 정체되어 시간이 걸린 것을 빼곤 여유로운 여행이었던 것 같습니다. 이번 대관령 옛길 걷기에 참여하신분들 모두 여행의 피로 잘 푸시고 활기찬 한 주를 보내시기 바랍니다~
+이 게시물을...

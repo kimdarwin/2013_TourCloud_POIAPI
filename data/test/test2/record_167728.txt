@@ -1,0 +1,37 @@
+Date:
+2011.08.07
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/df45d098cfac28ecfd6894202ba7141e.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/c710bf4acf936e87eb41b7b84c5170c0.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/b5d16a28070431f9ba8d10fc01f34623.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/a12280f5789cea1f2a801d75a9c03384.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/a660039575d7ee81c598a32214dc154f.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/ec90fab4022ef7fc52ac4dcbd7c8dc3f.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/0f5090658334041a336ed9c2d99c5b6b.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/c2b617238374f8866b11d2eafe0ff7d6.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/83614eea7b55a02e96799ef6d7426fcb.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/7133c50a7dc67d611d9545702af495ee.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/4303c7961ee6d0c65c2121cdb0e8fa9d.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/84b7dedc1f4b0e478226637b42747d92.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/ef763961f58b2aef1beb7f38e1765d2c.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/7ef28c1700bd54a3d696bcb152880aec.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/2114964c6bf94a5523d5de99644bd9e0.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/2c00dea132bc5c042ccf2257c623f231.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/a71c2d8e80516eefa4b6109ca9b4c670.jpg');
+list_gallery_add_image(540604,'files/attach/images/228818/728/167/97b7c8b4c6f062c2a3f12bd63ae82cf8.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 6일(토) 두번째 구와우 해바라기꽃과 만항재 야생화 여행을 다녀왔습니다.
+태백으로 가는 길은 휴가 차량이 늘어 일찍부터 영동고속도로 정체가 시작되었습니다. 더위가 본격적으로 시작되니 하루 피서삼아 떠나는 차량들까지, 고속도로는 더 덥게만 느껴지더군요. 하지만 우리는 여주에서 국도를 갈아 타고 태백까지 시원하게 뚫린 길을 달려 예상 시간에 도착할 수 있었습니다.
+이번에는 태백에 도착하여 먼저 점심식사를 하고 여행을 하기로 하였습니다. 휴가철이라 음식점이 혼잡할 것으로 예상되어 조금 이른 식사를 하였는데 한결 여유롭더군요.
+구와우 해바라기밭으로 이동하는 동안은 갑자기 하늘이 흐릿해지던가 싶더니 빗방울이 하나씩 떨어졌습니다. 내렸다 그치기를 반복했지만 꽃 관람을 하기에 불편함은 없었습니다. 며칠 전에 1차로 이곳을 왔을 때보다 해바라기꽃 개화가 훨씬 더 진행되었지만 아직 만개 상황은 아닙니다.
+중앙광장 해바라기꽃밭 너머 숲속은 지난번에도 그랬지만 서늘한 기운이 마음까지 시원하게 해줍니다. 해바라기꽃밭은 그늘이 전혀 없는 땡볕이어서 요즘 같은 날씨에는 오래 서있기가 어려운데 울창한 나무 숲은 반갑기만 합니다.
+숲 산책로를 따라 걷다가 다시 해바라기꽃밭으로 내려섭니다. 태양을 닮은 해바라기꽃 수만 송이가 마치 나를 보고 웃고 있는 듯하여 잠시나마 보는 이의 마음도 즐겁게 해주는 것이 해바라기의 매력이겠죠? 노란 해바라기꽃과 파란 하늘 그리고 흰 구름이 잘 어울렸던 지난번과 달리 이번에는 흐릿한 하늘이 약간 아쉬웠지만 해바라기꽃은 훨씬 더 많이 피어 아쉬움을 달랠 수 있었습니다. 그리고 초반에 식물원 주차장을 들어서는 입구를 놓치는 바람에 차량을 돌려오는 번거로움이 있었는데 불편함을 드려 죄송하다는 말씀 드립니다.
+조금씩 하늘은 더 흐려지고 금방이라도 비가 떨어질 것만 같아 만항재로 가는 길을 재촉하였습니다. 꼬불꼬불한 길을 올라 도착한 만항재는 요즘 축제기간이고 토요일임에도 불구하고 너무도 한가로웠습니다. 숲속은 좀전에 내린 비 때문에 촉촉히 젖어 꽃들은 생기가 넘쳐났고 공기는 약간 싸늘할 정도로 신선하였습니다.
+야생화 해설사 선생님을 따라 만항재 숲탐방이 시작됩니다. 만항재는 수많은 꽃과 식물이 서식하는 곳이라 해설사 선생님의 설명과 함께 꽃을 보는 시간은 참 유익합니다. 이파리에서 오이 냄새가 나는 오이풀, 멧돼지도 무서워한다는 여로 등, 해설사 선생님의 설명을 곁들이면 몰랐던 꽃도 보이는 듯하거든요. 제법 여러 꽃에 대한 설명을 들었는데 잘 생각나진 않지만 그래도 다음에 야생화를 보면 유심히 관찰을 할 수는 있는 계기가 될 것입니다.
+숲속에 후두둑 비가 떨어지는가 싶더니 세찬 소나기가 내립니다. 구름이 몰려다니더니 금세 만항재로 밀려올라옵니다. 만항재는 금세 안개 속으로 꿈처럼 아스라히 사라졌습니다. 
+이번에는 다양한 날씨의 변화와 함께 한 여행이었습니다. 해바라기 꽃밭에서는 흐린 하늘 그리고 만항재 꽃밭에서 만난 소나기…. 꽃과 함께 한 하루 그리고 만항재의 그 차가운 바람이 벌써 그리워지네요.
+오늘 하루 잘 쉬시고 새롭게 시작되는 한 주도 건강하고 활기차게 보내시기 바랍니다~
+이 게시물을...

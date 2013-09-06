@@ -1,0 +1,31 @@
+Date:
+2011.10.09
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/c1f22e80a914eebba074ebc1f663c836.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/f02395ab06a7611f11910680e8ae11e6.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/73695ca966a87a7e061064a13a7ee2f4.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/a9841026b337164f697c740aaaa9df74.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/a79902d2e736e9820610c52692ae65f0.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/d404fd64547d039a6194567d9ba3b4cd.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/7cf1a1948a19f345f7a92d7da405e374.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/567d607376b885d17bbb928e2c86e016.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/4854057208fc3fd1c489c13198af5ef7.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/2af6cdf8e6b501d7ab2b8fcc04d38413.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/e51d1f892d6d74011929e9d191930f90.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/80baa276be6fc042286df9be1b94beeb.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/e307af1d1806cda84a5730ea714d1001.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/77eb764cbfba8e8deb27c551ee6fef0c.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/da20fe7e222f45fe6731e4e834c713cd.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/9ef5e98077f4224949ffcaddd3d5e41d.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/8ea8b6e3a6576898fc085d34769aac20.jpg');
+list_gallery_add_image(279065,'files/attach/images/228818/455/183/0df6a1e091464d186fa484d7d4d240ba.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+10월 9일(일) 아름다운 여행으로 옥정호 구절초테마공원과 섬진강 구담마을 여행을 다녀왔습니다.안개 드리운 고속도로를 달려 남쪽으로 내려갈수록 주변은 온통 황금 들녘이고 가을 분위기가 물씬 풍깁니다. 요맘때면 창 밖으로 스치는 풍경이 참 예뻐서 여행의 즐거움이 배가 되곤 하죠. 오늘은 날씨도 포근해서 여행을 하는 동안에는 약간 더위가 느껴질 정도였습니다. 
+옥빛처럼 푸른 물빛이 아름다운 옥정호 주변에는 해마다 요맘때면 새하얀 구절초꽃이 만발합니다. 올해는 작년에 비해 꽃의 상태도 더욱 싱싱하고 꽃송이도 탐스러워 꽃밭을 돌아보는 동안 그야말로 하얀 구름 위를 걷는 듯하였습니다. 어제부터 이곳 정읍에서 구절초축제가 시작되어 많이 혼잡할 줄 알았는데 다행히 이른 시간에 도착하여 한가롭게 꽃밭을 거닐었습니다.
+이렇게 구절초꽃을 주제로 축제가 열리는 곳은 공주 영평사와 이곳 정읍인데 정읍은 푸른 소나무와 하얀 구절초가 어우러져 그 모습이 더욱 아름답습니다. 작년과 조금 달라진 것이라면 구절초축제장 입장료를 받더군요. 이 입장권은 농산물교환군으로 사용할 수 있어서 저는 구절초식혜로 바꿔 마셨답니다.^^ 지역 축제장에서 입장료를 받는 것이 처음엔 좀 이해가 되지 않았지만 이런 기회가 아니면 구절초식혜를 마셔볼 일도 없을 것 같아 흥미롭더군요.^^ 구절초축제는 이번주말까지 열릴 모양입니다. 그때까지도 꽃은 괜찮을 것 같아 이번 기회를 놓친 분들은 한번 다녀오셔도 좋을 듯합니다.
+그리고 이웃한 산외면 한우마을로 이동하여 자유롭게 점심식사를 하였습니다. 몇 년 전보다 가격이 점점 높아진 듯하여 서울과 가격차이는 잘 느끼지 못하겠지만 한우로 식사를 하신 분들께서도 맛은 괜찮은 것 같다는 말씀들을 하시더군요.
+식사를 마치고 섬진강이 훤히 내려다보이는 임실 구담마을로 이동하여 잠시 마을 돌아보았습니다. 이곳은 아름다운 여행으로 섬진강 걷기를 할 때 들렀던 곳인데 마을 분위기가 한적하고 섬진강을 건너보는 징검다리의 소소한 즐거움을 느껴보는 곳입니다. 구담마을은 무척 작은 시골 마을로 한가롭기만 합니다. 근래에는 비가 거의 내리지 않아 섬진강 물이 많지는 않지만 그래도 징검다리를 건너며 동심으로 돌아간 듯하더군요.
+구담마을은 사실 볼거리가 많은 곳은 아닙니다. 봄이면 매화가 만발하지만 요맘때 시골마을은 쓸쓸할 정도여서 조금은 썰렁한 느낌이셨을지 모르겠습니다. 그래도그림처럼 펼쳐진섬진강 그리고 주변 풍경들이 잠시나마 피곤한 마음에 여유를 되찾게 했던 시간이 되셨기를 바랍니다~이 게시물을...

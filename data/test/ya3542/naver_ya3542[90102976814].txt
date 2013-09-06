@@ -1,0 +1,57 @@
+Title:
+같이살자.. 야차 meets 슈퍼스타K2 ' 김지수,박보람
+
+Date:
+2010.12.26 05:39
+
+Content:
+
+
+
+
+슈퍼스타K2, 김지수와 박보람이.. OCN 드라마 "야차"OST에 참여했다..
+"같이살자"는 극중의 조동혁(백록)과 전혜빈(정연)의 러브 테마곡이며..
+김지수, 박보람의환상하모니와 애절함이극중에잘 녹아 내린것 같다.
+
+김지수,박보람(슈퍼스타K2)~ 같이살자(드라마, 야차 OST)
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc23/2010/12/26/1268/03100223D13153FE04C3294973DB5923904_ya3542_logo.jpg';
+	layout.playtime = '238.419';
+	var qsParam = {};
+	qsParam.vid = '88CC7DB216FC9D57D392141B435665847E88';
+	qsParam.inKey = 'V1223b0e1edab8e68271a08ba95d58f5a04af448964489d7fb17d6e6d593a5c5facbf08ba95d58f5a04af';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_02853 = new VideoInfraUGCPlayer('ugcPlayer_02853' ,bean); 
+ugcPlayer_02853.drawPlayLayer(); 
+}
+
+
+
+김지수,박보람(슈퍼스타K2)~ 같이살자 (가사)
+
+불러본다 너의 그 이름 내가 평생 애태운 사람너에 두 손을 잡아줄 수 없기에 그저 멀리서나마 널 부른다 새겨본다 너의 그 이름 내가 평생 아파할 사랑가슴속 깊이 묻어둔 나의 사람쓰라려 아픈 상처 되려 견디게 한다. 같이 살자 하지 못한 그말. 너 같이 살자 맴돌기만 했던 그말 부서질 듯 위험한 우린 운명 일까 이젠 견딜 수 없는 나영원히 사랑해지켜준다 너의 모든걸 너는 절대 아파선 안돼 파르르 떠는 꽃잎을 볼 때마다 모진 시간을 견딘 너를 깊게 심을께같이 살자 하지 못한 그말. 너 같이 살자 맴돌기만 했던 그말 부서질 듯 위험한 우린 운명 일까 이젠 견딜 수 없는 나헤어짐이 아쉬워서 놓지 못한 손 그 추억만으로 충분해요같이 살자 하지 못한 그말사라진다 점점 멀어 져가 뒤돌아 서며 잡을 수 없던 네 얼굴보일 듯이 사라진 이건 운명일까 살아서 함께해.
+
+
+같이살자.. 야차 meets 슈퍼스타K2 ' 김지수,박보람
+
+
+
+
+ 
+
+	

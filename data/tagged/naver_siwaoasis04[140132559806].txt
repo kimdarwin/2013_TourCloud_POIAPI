@@ -1,0 +1,748 @@
+호텔로
+	호텔/ncn+로/jca
+
+돌라와서
+	돌라와/ncn+서/jca
+
+씻고
+	씻/pvg+고/ecc
+
+저녁
+	저녁/ncn
+
+먹으러
+	먹/pvg+으러/ecs
+
+오데
+	오/px+데/ef
+
+갈까
+	가/px+ㄹ까/ecs
+
+하다,
+	하/pvg+다/ef+,/sp
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+예서
+	예/ncn+서/jca
+
+먹자
+	먹/pvg+자/ecc
+
+!
+	!/sf
+
+
+로
+	로/ncn
+
+!
+	!/sf
+
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+어차피,
+	어차피,/ncn
+
+여기
+	여기/mad
+
+잘
+	잘/mag
+
+나가는
+	나/pvg+아/ecx+가/px+는/etm
+
+곳이고,
+	곳/ncn+이/jp+고/ecc+,/sp
+
+좀
+	좀/mag
+
+지치고
+	지치/pvg+고/ecc
+
+귀찮은
+	귀찮/paa+은/etm
+
+거도
+	거/ncn+도/jxc
+
+없지
+	없/paa+지/ecx
+
+않아
+	않/px+아/ecx
+
+있고,
+	있/paa+고/ecc+,/sp
+
+
+이
+	이/mmd
+
+호텔서
+	호텔/ncn+서/jca
+
+지내보니
+	지내/pvg+어/ecx+보/px+니/ecs
+
+여기
+	여기/mad
+
+완존
+	완존/ncn
+
+장난
+	장난/ncn
+
+아님을
+	아니/paa+ㅁ/etn+을/jco
+
+확인했던
+	확인/ncpa+하/xsva+었/ep+던/etm
+
+지라
+	지/nbn+이/jp+라/ecs
+
+룰루랄라
+	룰루랄라/ncn
+
+으흐흐
+	으흐흐/ncn
+
+하며
+	하/pvg+며/ecc
+
+~~
+	~/sd+~/sd
+
+
+일단,
+	일/nnc+단/nbu+,/sp
+
+이곳은
+	이곳/npd+은/jxc
+
+훈남훈녀들이
+	훈남훈녀들/ncn+이/jcc
+
+일을
+	일/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+계시고요~
+	계시/paa+고요/ef+~/sd
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+평범해
+	평범/ncps+하/xsms+어/ecx
+
+보이나
+	보이/pvg+나/ecs
+
+결코
+	결코/mag
+
+평범치
+	평범/ncn+치/ncn
+
+않고요~
+	않/paa+고요/ef+~/sd
+
+
+편안함도
+	편안/ncps+하/xsms+ㅁ/etn+도/jxc
+
+추구하는
+	추구/ncpa+하/xsva+는/etm
+
+곳이에요~
+	곳/ncn+이/jp+에요/ef+~/sd
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+그런데,
+	그러/pvd+ㄴ데/ecs+,/sp
+
+빵은
+	빵/ncn+은/jxc
+
+평범한
+	평범/ncps+하/xsms+ㄴ/etm
+
+빵이
+	빵/ncn+이/jcc
+
+나오구요~
+	나오구요~/ncn
+
+^
+	^/sy
+
+^;;;
+	^/sy+;/sy+;/sy+;/sy
+
+
+삼삼오오
+	삼/nnc+삼/nnc+오/nnc+오/nnc
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+각자
+	각자/ncn
+
+편한
+	편하/paa+ㄴ/etm
+
+자리서
+	자리/ncn+서/jca
+
+시간
+	시간/nbu
+
+가는
+	가/pvg+는/etm
+
+줄
+	줄/nbn
+
+모르고
+	모르/pvg+고/ecc
+
+담화
+	담화/ncn
+
+?
+	?/sf
+
+
+를
+	를/ncn
+
+나누기도
+	나누/pvg+기/etn+도/jxc
+
+좋아요~
+	좋/paa+아/ef+요/jxf+~/sd
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+제
+	저/npp+의/jcm
+
+자리에요~
+	자리/ncn+이/jp+에요/ef+~/sd
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+배고픈
+	배고프/paa+ㄴ/etm
+
+커플이
+	커플/ncn+이/jcc
+
+식사
+	식사/ncpa
+
+중이에요~~
+	중/nbn+이/jp+에요/ef+~/sd+~/sd
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+배가
+	배/ncn+가/jcs
+
+많이
+	많/paa+이/xsa
+
+고팠는
+	고프/paa+아/ep+는/etm
+
+데,
+	데/nbn+,/sp
+
+티
+	트/pvg+어/ecx
+
+안
+	알/pvg+ㄴ/etm
+
+낼라고
+	낼라/ncn+이/jp+고/ecc
+
+계속
+	계속/mag
+
+괜한
+	괜하/paa+ㄴ/etm
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍는
+	찍/pvg+는/etm
+
+중이에요~
+	중/nbn+이/jp+에요/ef+~/sd
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+또,
+	뜨/pvg+어/ecs+,/sp
+
+결정적으로다가
+	결정/ncn+적/ncn+으로/jca+다가/jxc
+
+룸에서
+	룸/ncn+에서/jca
+
+내려
+	내리/pvg+어/ecx
+
+온
+	오/px+ㄴ/etm
+
+거라
+	것/nbn+이/jp+라/ecs
+
+배러리도
+	배러리/ncn+도/jxc
+
+바꿔끼고,
+	바꿔끼고,/ncn
+
+메모리도
+	메모리/ncn+도/jxc
+
+바꿔
+	바꾸/pvg+어/ecx
+
+아쉽지
+	아쉽/paa+지/ecx
+
+않았거든요~
+	않/px+아/ep+거든/ef+요/jxf+~/sd
+
+^^;;;
+	^/sy+^/sy+;/sy+;/sy+;/sy
+
+
+블라인더
+	블라인더/ncn
+
+건너편으로도
+	건너편/ncn+으로/jca+도/jxc
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+많죠
+	많/paa+죠/ef
+
+?
+	?/sf
+
+
+저쪽은
+	저쪽/ncn+은/jxc
+
+lounge
+	lounge/f
+
+라
+	라/ncn
+
+식사
+	식사/ncpa
+
+보단
+	보/px+단/etm
+
+커피나
+	커피/ncn+나/jcj
+
+주류~~
+	주류/ncn+~/sd+~/sd
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+2010
+	2010/nnc
+
+월드컵
+	월드컵/ncn
+
+결승전
+	결승전/ncn
+
+저기서
+	저/npp+이/jp+기/etn+서/jca
+
+사람들이랑
+	사람들/ncn+이/jcs+랑/jxc
+
+같이
+	같/paa+이/xsa
+
+봤는
+	보/px+아/ep+는/etm
+
+데,
+	데/nbn+,/sp
+
+완존
+	완존/ncn
+
+기이한
+	기이/ncn+한/ncn
+
+!
+	!/sf
+
+
+^^;;경험이었어요~~
+	^/sy+^/sy+;/sy+;/sy+경험/ncpa+이/jp+었/ep+어요/ef+~/sd+~/sd
+
+
+요
+	요/mmd
+
+얘긴
+	얘긴/ncn
+
+다음에~
+	다음/ncn+에/jca+~/sd
+
+
+식사를
+	식사/ncpa+를/jco
+
+끝내고
+	끝내/pvg+고/ecc
+
+lounge
+	lounge/f
+
+서
+	서/pvg+어/ecx
+
+한
+	한/nnc
+
+잔들
+	자/pvg+ㄴ들/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+즈음에
+	즈음/ncpa+에/jca
+
+갔더니
+	가/pvg+아/ep+니/ef
+
+
+다행히
+	다행히/mag
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+많이
+	많/paa+이/xsa
+
+없네요~~
+	없/paa+네/ef+요/jxf+~/sd+~/sd
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+보통은
+	보통/ncn+은/jxc
+
+이렇거든요~~
+	이렇/pad+거든/ef+요/jxf+~/sd+~/sd
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+다른
+	다른/mma
+
+날,
+	나/px+ㄹ/etm+,/sp
+
+제가
+	저/npp+가/jcs
+
+앉은
+	앉/pvg+은/etm
+
+자리에요~
+	자리/ncn+이/jp+에요/ef+~/sd
+
+
+이게
+	이/npd+이/jp+게/ecs
+
+뭐였더라요
+	뭐/npd+이/jp+었/ep+더라/ef+요/jxf
+
+??
+	?/sf+?/sf
+
+
+^^;;;
+	^/sy+^/sy+;/sy+;/sy+;/sy
+
+
+여기
+	여기/mad
+
+바는
+	바/nbn+는/jxc
+
+길~~~~~고
+	길/ncn+~/sd+~/sd+~/sd+~/sd+~/sd+고/ncn
+
+근사한
+	근사/ncps+하/xsms+ㄴ/etm
+
+듯
+	듯/nbn
+
+편안해서
+	편안/ncps+해/ncn+서/jca
+
+좋아요~
+	좋/paa+아/ef+요/jxf+~/sd
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+주방은
+	주방/ncn+은/jxc
+
+이런
+	이런/mmd
+
+모습이고요~
+	모습/ncn+이/jp+고요/ef+~/sd
+
+
+이날의
+	이/nnc+날/nbu+의/jcm
+
+로비겸
+	로비겸/ncn
+
+라운지는
+	라운지/ncn+는/jxc
+
+이랬어요~~
+	이렇/pad+었/ep+어요/ef+~/sd+~/sd
+
+
+제가
+	저/npp+가/jcs
+
+주문했던
+	주문/ncpa+하/xsva+었/ep+던/etm
+
+건
+	거/nbn+은/jxc
+
+바로
+	바로/mag
+
+이거
+	이거/npd
+
+!
+	!/sf
+
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+먹있게
+	먹/ncn+있/xsmn+게/ecs
+
+잘
+	잘/mag
+
+먹었습니다~~
+	먹/pvg+었/ep+습니다/ef+~/sd+~/sd
+
+꿀~꺽
+	꿀~꺽/ncn
+
+!
+	!/sf
+
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+TGIF
+	TGIF/f
+
+!!
+	!/sf+!/sf
+
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+기분
+	기분/ncn
+
+좋고
+	좋/paa+고/ecc
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+hoxton
+	hoxton/f
+
+hotel
+	hotel/f
+
+
+http://siwaoasis04
+	http://siwaoasis04/ncn
+
+.
+	./sf
+
+
+blog.
+	blog/f+./sy
+
+me/140118280511
+	me/f+//sp+140118280511/nnc
+
+
+이곳의
+	이곳/npd+의/jcm
+
+실제
+	실제/ncn
+
+금요일
+	금요일/ncn
+
+밤의
+	밤/ncn+의/jcm
+
+실체에
+	실체/ncn+에/jca
+
+대하여는
+	대/pvg+어/ecx+하/px+어/ef+는/etm
+
+다음에
+	다음/ncn+에/jca
+
+!
+	!/sf
+
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+비
+	비/ncn
+
+내리지만
+	내리/pvg+지/ecx+말/px+ㄴ/etm
+
+즐거운
+	즐겁/paa+은/etm
+
+금요일
+	금요일/ncn
+
+보내세요~~
+	보내/pvg+세/ef+요/jxf+~/sd+~/sd
+
+^
+	^/sy
+
+^
+	^/sy

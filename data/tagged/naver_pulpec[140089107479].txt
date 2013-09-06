@@ -1,0 +1,1308 @@
+경주시
+	경주시/ncn
+
+
+경상북도
+	경상/ncn+북도/ncn
+
+
+기간
+	기간/ncn
+
+2009.
+	2009./nnc
+
+8.
+	8./nnc
+
+23~
+	23/nnc+~/sd
+
+2009.
+	2009./nnc
+
+8.
+	8./nnc
+
+24(1박
+	24(1박/ncn
+
+2일)
+	2/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+도시를
+	도시/ncn+를/jco
+
+떠난
+	떠나/pvg+ㄴ/etm
+
+휴양&자연여행
+	휴양&자연여행/ncn
+
+
+경로
+	경로/ncn
+
+
+부산
+	부산/ncps
+
+울산
+	울산/ncn
+
+감은사지
+	감은/ncpa+사지/ncn
+
+경주힐튼
+	경주/ncpa+힐튼/ncn
+
+부산
+	부산/ncps
+
+
+8월
+	8/nnc+월/nbu
+
+네째주
+	네째/nno+주/nbu
+
+이제
+	이제/mag
+
+여름이
+	여름/ncn+이/jcc
+
+본격적으로
+	본격/ncn+적/ncn+으로/jca
+
+시작된
+	시작/ncpa+되/xsvn+ㄴ/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+올해
+	올해/ncn
+
+들어
+	들/pvg+어/ecx
+
+가장
+	가장/mag
+
+더웠던
+	덥/paa+었/ep+던/etm
+
+여름
+	여름/ncn
+
+한주였다
+	한/nnc+주/nbu+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+근데
+	근데/ncn
+
+호텔이나
+	호텔/ncn+이나/jcj
+
+해수욕장은
+	해수욕장/ncn+은/jxc
+
+피서객들이
+	피서객/ncn+들/ncn+이/jcc
+
+사라지고
+	사라지/pvg+고/ecc
+
+성수기는
+	성수기/ncn+는/jxc
+
+지난
+	지나/pvg+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+조금은
+	조금/ncn+은/jxc
+
+요상한
+	요상한/ncn
+
+올해의
+	올해/ncn+의/jcm
+
+기온속에
+	기온/ncn+속/ncn+에/jca
+
+운좋게
+	운좋/paa+게/ecs
+
+저번에
+	저번/ncn+에/jca
+
+경주
+	경주/ncpa
+
+힐튼호텔
+	힐튼호텔/ncn
+
+와인디너파티에서
+	와인/ncn+디너/ncn+파티/ncn+에서/jca
+
+
+당첨된
+	당첨/ncn+되/xsvn+ㄴ/etm
+
+경품을
+	경품/ncn+을/jco
+
+사용할
+	사용/ncpa+하/xsva+ㄹ/etm
+
+때가
+	때/ncn+가/jcs
+
+온것이다
+	오/px+ㄴ/etm+것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+그래
+	그래/ii
+
+.
+	./sf
+
+
+경주
+	경주/ncpa
+
+힐튼호텔
+	힐튼호텔/ncn
+
+무료숙박권도
+	무료/ncps+숙박/ncpa+권/ncn+도/jxc
+
+사용하고
+	사용/ncpa+하고/jct
+
+호텔수영장에서
+	호텔/ncn+수영장/ncn+에서/jca
+
+놀아보자
+	놀/pvg+아/ecx+보/px+자/ecc
+
+.
+	./sf
+
+
+부산에서
+	부산/ncps+에서/jca
+
+가까우니
+	가깝/paa+으니/ecs
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+얼마전에
+	얼마/ncn+전/ncn+에/jca
+
+새로
+	새로/mag
+
+뽑은
+	뽑/pvg+은/etm
+
+애마도
+	애마/ncn+도/jxc
+
+길들일겸
+	길들이/pvg+ㄹ/etm+겸/nbn
+
+..
+	./sf+./sf
+
+
+경주로
+	경주/ncpa+로/jca
+
+가자
+	가/px+자/ecc
+
+.
+	./sf
+
+
+부산에서
+	부산/ncps+에서/jca
+
+경주로
+	경주/ncpa+로/jca
+
+가는
+	가/pvg+는/etm
+
+길은
+	길/paa+ㄴ/etm
+
+1시간도
+	1/nnc+시간/nbu+도/jxc
+
+안걸린다
+	안걸린다/ncn
+
+.
+	./sf
+
+
+경부고속도로를
+	경부고속도로/ncn+를/jco
+
+타면
+	타/pvg+면/ecs
+
+..
+	./sf+./sf
+
+
+그치만
+	그치만/ncn
+
+도로도
+	도/ncn+로/jca+도/jxc
+
+좁고
+	좁/paa+고/ecc
+
+바다도
+	바다/ncn+도/jxc
+
+안보이고
+	안보/ncn+이/jp+고/ecc
+
+..
+	./sf+./sf
+
+
+그래서
+	그래서/maj
+
+조금
+	조금/mag
+
+돌아가기는
+	돌/pvg+아/ecx+가/px+기/etn+는/jxc
+
+하지만
+	하지만/maj
+
+
+내가
+	나/npp+가/jcs
+
+택한
+	택하/pvg+ㄴ/etm
+
+길은
+	길/ncn+은/jxc
+
+얼마전
+	얼마/ncn+전/ncn
+
+해운대-울산간
+	해운대-울산간/ncn
+
+개통한
+	개통/ncpa+하/xsva+ㄴ/etm
+
+동해남부고속도로를
+	동해남부/ncn+고속도로/ncn+를/jco
+
+타기로
+	타/pvg+기/etn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+6차선
+	6/nnc+차선/nbu
+
+도로
+	도/ncn+로/jca
+
+..
+	./sf+./sf
+
+
+부산에서
+	부산/ncps+에서/jca
+
+울산
+	울산/ncn
+
+방향은
+	방향/ncn+은/jxc
+
+약간
+	약간/mag
+
+오르막이긴
+	오르막이긴/ncn
+
+하지만
+	하/pvg+지만/ecs
+
+질주본능을
+	질주/ncpa+본능/ncn+을/jco
+
+일으킨다
+	일으키/pvg+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+하늘을
+	하늘/ncn+을/jco
+
+보라
+	보/px+라/ecs
+
+또
+	또/maj
+
+얼마나
+	얼마나/mag
+
+이쁜가
+	이쁘/paa+ㄴ가/ef
+
+..
+	./sf+./sf
+
+
+뚜껑열고
+	뚜껑/ncn+열/ncn+고/jcj
+
+..
+	./sf+./sf
+
+
+헤드
+	헤드/ncn
+
+레스트
+	레스트/ncn
+
+스피커
+	스피커/ncn
+
+빵빵하게
+	빵빵하/ncn+이/jp+게/ecs
+
+들으며
+	들/pvg+며/ecc
+
+달렸다
+	달리/pvg+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+이
+	이/mmd
+
+사진은
+	사진/ncn+은/jxc
+
+꼭
+	꼭/mag
+
+합성같애
+	합성같애/ncn
+
+..
+	./sf+./sf
+
+
+바깥풍경이
+	바깥/ncn+풍경/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+부산-울산간
+	부산-울산간/ncn
+
+도로에서
+	도로/ncn+에서/jca
+
+본
+	보/px+ㄴ/etm
+
+하늘은
+	하늘/ncn+은/jxc
+
+참
+	참/mag
+
+푸르다
+	푸르/paa+다/ef
+
+
+울산을
+	울산/ncn+을/jco
+
+거쳐
+	거치/pvg+어/ecx
+
+정자해수욕장을
+	정자/ncn+해수욕장/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+이른
+	이르/paa+ㄴ/etm
+
+감포가는
+	감포가/ncn+는/jxc
+
+길에
+	길/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+봉길해수욕장에서
+	봉길해수욕장/ncn+에서/jca
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+문무대왕
+	문무/ncn+대왕/ncr
+
+수중릉
+	수중릉/ncn
+
+..
+	./sf+./sf
+
+
+30도가
+	30/nnc+도/nbu+가/jcc
+
+넘는
+	넘/pvg+는/etm
+
+무더운
+	무덥/paa+은/etm
+
+날씨임에도
+	날씨/ncn+이/jp+ㅁ/etn+에/jca+도/jxc
+
+휴가
+	휴가/ncn
+
+시즌이
+	시즌/ncn+이/jcc
+
+지나
+	지나/pvg+아/ecx
+
+해수욕장은
+	해수욕장/ncn+은/jxc
+
+한산해보인다
+	한산해보/ncn+이/jp+ㄴ다/ef
+
+.
+	./sf
+
+
+멀리
+	멀리/mag
+
+바다위의
+	바다/ncn+위/ncn+의/jcm
+
+돌섬이
+	돌섬/ncn+이/jcc
+
+문무대왕
+	문무/ncn+대왕/ncr
+
+수중릉
+	수중릉/ncn
+
+..
+	./sf+./sf
+
+
+이다
+	이/ncn+이/jp+다/ef
+
+
+죽어서도
+	죽/pvg+어서/ecs+도/jxc
+
+용이
+	용/ncn+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+바다를
+	바다/ncn+를/jco
+
+지키겠노라는
+	지키/pvg+겠/ep+노라/ef+는/etm
+
+문무대왕의
+	문무/ncn+대왕/ncr+의/jcm
+
+마음에
+	마음/ncn+에/jca
+
+보은하고자
+	보은하고/ncn+이/jp+자/ecc
+
+신라최고
+	신라최/ncn+이/jp+고/ecc
+
+번성한
+	번성/ncpa+하/xsva+ㄴ/etm
+
+그의
+	그/npp+의/jcm
+
+아들
+	아들/ncn
+
+신문왕이
+	신문왕/ncn+이/jcc
+
+세운
+	세우/pvg+ㄴ/etm
+
+감은사가
+	감은/ncpa+사가/ncn
+
+있던
+	있/px+던/etm
+
+곳.
+	곳/ncn+./sf
+
+.
+	./sf
+
+
+그곳을
+	그곳/ncn+을/jco
+
+쉽게
+	쉽/paa+게/ecs
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있도록
+	있/px+도록/ecs
+
+만든
+	만들/pvg+ㄴ/etm
+
+이견대
+	이견/ncn+대/ncn
+
+.
+	./sf
+
+
+감은사지
+	감은/ncpa+사지/ncn
+
+터에
+	터/nbn+에/jca
+
+왔다
+	오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+올때마다
+	오/px+ㄹ/etm+때/nbn+마다/jxc
+
+느끼지만
+	느끼/pvg+지만/ecs
+
+그냥
+	그냥/mag
+
+여유롭다
+	여유/ncn+롭/xsmn+다/ef
+
+.
+	./sf
+
+
+봄여름가을겨울
+	봄여름가을겨울/ncn
+
+할것없이
+	하/pvg+ㄹ/etm+것/nbn+없이/jca
+
+..
+	./sf+./sf
+
+
+두개의
+	두/nnc+개/nbu+의/jcm
+
+쌍탑이
+	쌍탑/ncn+이/jcc
+
+이제
+	이제/mag
+
+보수를
+	보수/ncn+를/jco
+
+마치고
+	마치/pvg+고/ecc
+
+사람들에게
+	사람들/ncn+에게/jca
+
+모두
+	모두/mag
+
+보여준다
+	보이/pvg+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+최근에
+	최근/ncn+에/jca
+
+이곳을
+	이곳/npd+을/jco
+
+찾았을땐
+	찾았을땐/ncn
+
+좌우
+	좌우/ncpa
+
+번갈아가며
+	번갈/pvg+아/ecx+가/px+며/ecc
+
+가림막에
+	가림/ncn+막/ncn+에/jca
+
+가려
+	가리/pvg+어/ecx
+
+아쉽더니
+	아쉽/paa+더니/ecs
+
+..
+	./sf+./sf
+
+
+큰
+	크/paa+ㄴ/etm
+
+나무
+	나무/ncn
+
+그늘이
+	그늘/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+좋은
+	좋/paa+은/etm
+
+감은사지터
+	감은/ncpa+사지/ncn+터/ncn
+
+..
+	./sf+./sf
+
+
+절의
+	절/ncn+의/jcm
+
+모습은
+	모습/ncn+은/jxc
+
+흔적도
+	흔적/ncn+도/jxc
+
+없으나
+	없/paa+으나/ecs
+
+절아래
+	절아래/ncn
+
+물길이
+	물길/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+문무대왕이
+	문무/ncn+대왕/ncr+이/jcc
+
+용이
+	용/ncn+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+감은사를
+	감은사/ncn+를/jco
+
+드나들었다는
+	드나들/pvg+었/ep+다/ef+는/etm
+
+이야기를
+	이야기/ncpa+를/jco
+
+보완해준다
+	보완/ncpa+하/xsva+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+감포쪽에서
+	감포쪽/ncn+에서/jca
+
+경주로
+	경주/ncpa+로/jca
+
+넘어와
+	넘/pvg+어/ecx+오/px+아/ecx
+
+보문에
+	보문/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+힐튼에
+	힐튼/ncn+에/jca
+
+도착했다
+	도착/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+선덕여왕
+	선덕/ncn+여왕/ncr
+
+드라마의
+	드라마/ncn+의/jcm
+
+인기덕인지
+	인기/ncn+덕/ncn+이/jp+ㄴ지/ecs
+
+일요일임에도
+	일요일/ncn+이/jp+ㅁ/etn+에/jca+도/jxc
+
+호텔엔
+	호텔/ncn+엔/jca
+
+사람들과
+	사람들/ncn+과/jcj
+
+차가
+	차/ncn+가/jcs
+
+많았다
+	많/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+그날
+	그날/ncn
+
+밤이
+	밤/ncn+이/jcc
+
+지나도록
+	지나/pvg+도록/ecs
+
+..
+	./sf+./sf
+
+
+경주
+	경주/ncpa
+
+힐튼호텔
+	힐튼호텔/ncn
+
+수영장에
+	수영장/ncn+에/jca
+
+입수~
+	입수/ncpa+~/sd
+
+호텔투숙객은
+	호텔/ncn+투숙객/ncn+은/jxc
+
+50%
+	50/nnc+%/su
+
+할인을
+	할인/ncpa+을/jco
+
+해줬는데도
+	하/pvg+어/ecx+주/px+었/ep+는데/ecs+도/jxc
+
+두명에
+	두/nnc+명/nbu+에/jca
+
+37000원이었다
+	37000/nnc+원/nbu+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+좀
+	좀/mag
+
+쎄~
+	쓰/paa+어/ecs+~/sd
+
+
+동남아
+	동남아/ncn
+
+리조트에
+	리조트/ncn+에/jca
+
+온마냥
+	온마냥/ncn
+
+수영장에서
+	수영장/ncn+에서/jca
+
+음식
+	음식/ncn
+
+즐기기
+	즐기/pvg+기/etn
+
+..
+	./sf+./sf
+
+
+맥주마시기
+	맥주/ncn+마/ncn+이/jp+시/ep+기/etn
+
+.
+	./sf
+
+
+핫윙이었는데
+	핫윙/ncn+이/jp+었/ep+는데/ecs
+
+17600원
+	17600/nnc+원/nbu
+
+...
+	.../se
+
+
+맛은
+	맛/ncn+은/jxc
+
+정말
+	정말/mag
+
+없었다
+	없/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+수영장
+	수영장/ncn
+
+베드에
+	베드/ncn+에/jca
+
+누워
+	눕/pvg+어/ecx
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+하늘
+	하늘/ncn
+
+...
+	.../se
+
+
+아
+	아/ii
+
+부산
+	부산/ncps
+
+가까이
+	가까이/mag
+
+경주가
+	경주/ncpa+가/jcc
+
+있어
+	있/px+어/ecx
+
+너무
+	너무/mag
+
+행복해
+	행복/ncps+해/ncn
+
+
+그리
+	그리/mad
+
+큰
+	크/paa+ㄴ/etm
+
+수영장이
+	수영장/ncn+이/jcc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+가족단위의
+	가족단위/ncn+의/jcm
+
+사람들끼리는
+	사람들/ncn+끼리/jxc+는/jxc
+
+오기
+	오/px+기/etn
+
+딱
+	딱/mag
+
+적당한
+	적당/ncps+하/xsms+ㄴ/etm
+
+크기인듯싶다
+	크기인듯싶다/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+추운날엔
+	추운날엔/ncn
+
+왼쪽의
+	왼쪽/ncn+의/jcm
+
+작은
+	작/paa+은/etm
+
+자쿠지를
+	자쿠지/ncn+를/jco
+
+이용하면
+	이용/ncpa+하/xsva+면/ecs
+
+몸도
+	몸/ncn+도/jxc
+
+금방
+	금방/mag
+
+풀리고
+	풀리/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+보문호가
+	보문호/ncn+가/jcs
+
+보였음
+	보이/pvg+었/ep+음/etn
+
+더
+	더/mag
+
+좋았겠다
+	좋/paa+았겠/ep+다/ef
+
+싶은
+	싶/px+은/etm
+
+야외
+	야외/ncn
+
+수영장
+	수영장/ncn
+
+전체풍경
+	전체/ncn+풍경/ncn
+
+..
+	./sf+./sf
+
+
+바로
+	바로/mag
+
+옆엔
+	옆/ncn+엔/jca
+
+선재미술관이
+	선재미술관/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+분위기도
+	분위기/ncn+도/jxc
+
+좋고
+	좋/paa+고/ecc
+
+..
+	./sf+./sf
+
+
+6시무렵
+	6/nnc+시/nbu+무렵/xsnu
+
+.
+	./sf
+
+
+오늘의
+	오늘/ncn+의/jcm
+
+경주에서의
+	경주/ncpa+에서/jca+의/jcm
+
+저녁은
+	저녁/ncn+은/jxc
+
+모처럼
+	모처럼/mag
+
+이조한정식을
+	이조/ncn+한정/ncpa+식/ncn+을/jco
+
+찾았다
+	찾/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+아는
+	알/pvg+는/etm
+
+한정식중이만큼
+	한정/ncpa+식/xsncc+중/xsnx+이/jcs+만큼/jxc
+
+좋은
+	좋/paa+은/etm
+
+음식점이
+	음식/ncn+점/ncn+이/jcc
+
+또
+	또/maj
+
+있을까
+	있/px+을까/ef
+
+..
+	./sf+./sf
+
+
+그냥
+	그냥/mag
+
+가격에
+	가격/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+너무
+	너무/mag
+
+고급스럽다는
+	고급/ncn+스럽/xsmn+다/ef+는/etm
+
+느낌
+	느끼/pvg+ㅁ/etn
+
+..
+	./sf+./sf
+
+
+다
+	다/mag
+
+먹고
+	먹/pvg+고/ecc
+
+나오니
+	나/pvg+아/ecx+오/px+니/ecs
+
+어둠이
+	어둠/ncn+이/jcc
+
+깔리고
+	깔리/pvg+고/ecc
+
+.
+	./sf
+
+
+경주의
+	경주/ncpa+의/jcm
+
+한옥에
+	한옥/ncn+에/jca
+
+초승달이
+	초승달/ncn+이/jcc
+
+어울리게
+	어울리/pvg+게/ecs
+
+밝혀준다
+	밝히/pvg+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+일요일밤임에도
+	일요일/ncn+밤/ncn+이/jp+ㅁ/etn+에/jca+도/jxc
+
+힐튼호텔은
+	힐튼호텔/ncn+은/jxc
+
+사람들로
+	사람들/ncn+로/jca
+
+북적댄다
+	북적대/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+아름답지만
+	아름답/paa+지만/ecs
+
+즐기고
+	즐기/pvg+고/ecc
+
+싶지만
+	싶/px+지/ecx+말/px+ㄴ/etm
+
+내일
+	내/npp+이/jp+ㄹ/etm
+
+아침
+	아침/ncn
+
+일찍
+	일찍/mag
+
+부산으로
+	부산/ncps+으로/jca
+
+돌아가
+	돌/pvg+아/ecx+가/px+아/ecx
+
+출근해야
+	출근/ncpa+하/xsva+어야/ecs
+
+하기에
+	하/pvg+기/etn+에/jca
+
+..
+	./sf+./sf
+
+
+일찍
+	일찍/mag
+
+잠자리에
+	잠자리/ncn+에/jca
+
+들었다
+	들/pvg+었/ep+다/ef
+
+..
+	./sf+./sf

@@ -1,0 +1,692 @@
+클락키
+	클락키/ncn
+
+점보레스토랑으로
+	점보/ncn+레스토랑/ncn+으로/jca
+
+갔다
+	가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+근데
+	근데/ncn
+
+정말
+	정말/mag
+
+예약안하면
+	예약/ncpa+안하/ncn+이/jp+면/ecs
+
+자리가
+	자리/ncn+가/jcs
+
+없다는
+	없/paa+다/ef+는/etm
+
+...
+	.../se
+
+
+사실이었다
+	사실/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+1시간
+	1/nnc+시간/nbu
+
+가량
+	가량/nbu
+
+기다리던가
+	기다리/pvg+더/ep+ㄴ가/ef
+
+..
+	./sf+./sf
+
+
+아님
+	아니/paa+ㅁ/etn
+
+보트키
+	보트/ncn+키/ncn
+
+점보로
+	점보/ncn+로/jca
+
+가랜다
+	가랜다/ncn
+
+.
+	./sf
+
+
+잉.
+	잉./ncn
+
+.
+	./sf
+
+
+어쩔수
+	어쩌/paa+ㄹ/etm+수/nbn
+
+없이
+	없이/mag
+
+구경만
+	구경/ncn+만/jxc
+
+하고
+	하/pvg+고/ecc
+
+보트키
+	보트/ncn+키/ncn
+
+점보로
+	점보/ncn+로/jca
+
+갔다
+	가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+클락키가
+	클락키/ncn+가/jcs
+
+훨씬
+	훨씬/mag
+
+넓고
+	넓/paa+고/ecc
+
+크고
+	크/paa+어/ef+고/jcr
+
+분위기
+	분위기/ncn
+
+좋고
+	좋/paa+고/ecc
+
+강변
+	강변/ncn
+
+바로
+	바로/mag
+
+보이고
+	보이/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+사람들도
+	사람들/ncn+도/jxc
+
+왁자지껄
+	왁자지껄/mag
+
+많고
+	많/paa+고/ecc
+
+..
+	./sf+./sf
+
+
+하여간
+	하/pvg+어/ecx+가/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+담엔
+	달/paa+ㅁ/etn+엔/jca
+
+예약을
+	예약/ncpa+을/jco
+
+하자
+	하/pvg+자/ecc
+
+!
+	!/sf
+
+
+꼭.
+	꼭/ncn+./sf
+
+
+그러곤
+	그러/pvd+곤/ecs
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+보트키
+	보트/ncn+키/ncn
+
+..
+	./sf+./sf
+
+
+자리는
+	자리/ncn+는/jxc
+
+듬성듬성
+	듬성듬성/mag
+
+비어있다
+	비/paa+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+음식맛은
+	음식/ncn+맛/ncn+은/jxc
+
+같다고
+	같/paa+다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+..
+	./sf+./sf
+
+
+그냥
+	그냥/mag
+
+시간관계상
+	시간/ncn+관계상/ncn
+
+여기서
+	여기/npd+서/jca
+
+..
+	./sf+./sf
+
+
+메뉴판엔
+	메뉴판/ncn+엔/jca
+
+그림이
+	그림/ncn+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+주문하기는
+	주문/ncn+하기/ncn+는/jxc
+
+수월했다
+	수월/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+칠리크랩하나
+	칠리크랩하/ncn+이/jp+나/ef
+
+..
+	./sf+./sf
+
+
+볶음밥하나
+	볶음밥하/ncn+이/jp+나/ef
+
+..
+	./sf+./sf
+
+
+빵두조각
+	빵두조각/ncn
+
+..
+	./sf+./sf
+
+
+타이거
+	타이거/ncn
+
+생맥주
+	생맥주/ncn
+
+천씨시
+	천씨시/ncn
+
+..
+	./sf+./sf
+
+
+마시는
+	마시/pvg+는/etm
+
+물이
+	물/ncn+이/jcc
+
+아니다
+	아니/paa+다/ef+./sf
+
+손씻는
+	손씻/ncn+는/jxc
+
+물.
+	물/pvg+ㄹ/etm+./sf
+
+.
+	./sf
+
+
+션~한
+	션/ncn+~/sd+한/nnc
+
+타이거
+	타이거/ncn
+
+생맥주
+	생맥주/ncn
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+
+먼저
+	먼저/mag
+
+새우가
+	새우/ncn+가/jcs
+
+들어간
+	들/pvg+어/ecx+가/px+ㄴ/etm
+
+볶음밥
+	볶음밥/ncn
+
+같은게
+	같/paa+은게/ecs
+
+나왔다
+	나오/pvg+아/ep+다/ef+./sf
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+먹어도
+	먹/pvg+어도/ecs
+
+되지만
+	되/pvg+지/ecx+말/px+ㄴ/etm
+
+나중에
+	나중/ncn+에/jca
+
+칠리크랩
+	칠리크랩/ncn
+
+소스에
+	소스/ncn+에/jca
+
+찍어먹으면
+	찍어먹으/ncn+이/jp+면/ecs
+
+더
+	더/mag
+
+맛있으므로
+	맛있/paa+으므로/ecs
+
+
+새우만
+	새우/ncn+만/jxc
+
+맥주안주삼아
+	맥주안주삼아/ncn
+
+건져먹고선
+	건져먹고선/ncn
+
+..
+	./sf+./sf
+
+
+오홍
+	오홍/ncn
+
+..
+	./sf+./sf
+
+
+이것이
+	이것/npd+이/jcc
+
+칠리크랩이란
+	칠리크랩이란/ncn
+
+말인가
+	말/ncn+이/jp+ㄴ가/ef
+
+..
+	./sf+./sf
+
+
+굉장히
+	굉장히/mag
+
+튼실하다
+	튼실하/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+한국에서
+	한국/ncn+에서/jca
+
+보던거와는
+	보던거/ncn+와/jct+는/jxc
+
+다른
+	다른/mma
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+이
+	이/mmd
+
+알수없이
+	알/pvg+ㄹ/etm+수/nbn+없이/jca
+
+너무
+	너무/mag
+
+맛있는
+	맛있/paa+는/etm
+
+소스
+	소스/ncn
+
+..
+	./sf+./sf
+
+
+떡볶이맛도
+	떡볶이/ncn+맛/ncn+도/jxc
+
+아니고
+	아니/paa+고/ecc
+
+.
+	./sf
+
+
+좋은데
+	좋/paa+은/etm+데/nbn
+
+!
+	!/sf
+
+
+~정말
+	~/sd+정말/ncn
+
+..
+	./sf+./sf
+
+
+북적대는
+	북적대/pvg+는/etm
+
+점보레스토랑과는
+	점보/ncn+레스토랑/ncn+과/jct+는/jxc
+
+달리
+	달리/mag
+
+바로옆에
+	바로옆/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+이탈리안
+	이탈리안/ncn
+
+레스토랑엔
+	레스토랑/ncn+엔/jca
+
+사람이
+	사람/ncn+이/jcc
+
+거의
+	거의/mag
+
+없이
+	없이/mag
+
+횡하다
+	횡하/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+자리탓만
+	자리/ncn+탓/ncpa+만/jxc
+
+아니고
+	아니/paa+고/ecc
+
+맛탓도
+	맛탓/ncn+도/jxc
+
+있겠지
+	있/px+겠/ep+지/ef
+
+?
+	?/sf
+
+
+그래도
+	그래도/maj
+
+강변과는
+	강변/ncn+과/jct+는/jxc
+
+약간
+	약간/mag
+
+떨어져
+	떨어지/pvg+어/ecx
+
+있어
+	있/px+어/ecx
+
+아쉬움
+	아쉬움/ncn
+
+..
+	./sf+./sf
+
+
+그냥
+	그냥/mag
+
+갈순
+	갈/ncn+순/xsncc
+
+없고
+	없/paa+고/ecc
+
+우리가
+	우리/npp+가/jcs
+
+먹은
+	먹/pvg+은/etm
+
+애들을
+	애/ncn+들/xsncc+을/jco
+
+찍고
+	찍/pvg+고/ecc
+
+가자
+	가/px+자/ecc
+
+..
+	./sf+./sf
+
+
+앗
+	앗/ii
+
+이
+	이/mmd
+
+아이는
+	아이/ncn+는/jxc
+
+크랩은
+	크랩/ncn+은/jxc
+
+아니고
+	아니/paa+고/ecc
+
+랍스타지
+	랍스타/ncn+이/jp+지/ef
+
+..
+	./sf+./sf
+
+
+크랩은
+	크랩/ncn+은/jxc
+
+어디에
+	어디/npd+에/jca
+
+..
+	./sf+./sf
+
+
+으
+	으/ii
+
+징그러운
+	징그럽/paa+은/etm
+
+새우떼
+	새우/ncn+떼/ncn
+
+..
+	./sf+./sf
+
+
+사진을
+	사진/ncn+을/jco
+
+찍고
+	찍/pvg+고/ecc
+
+있으니
+	있/px+으니/ecs
+
+싱가폴
+	싱가폴/ncn
+
+종업원들이
+	종업원/ncn+들/ncn+이/jcc
+
+날
+	나/px+ㄹ/etm
+
+보며
+	보/px+며/ecc
+
+웃는다
+	웃/pvg+는다/ef
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+이런
+	이런/mmd
+
+사진을
+	사진/ncn+을/jco
+
+찍고
+	찍/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+내가
+	나/npp+가/jcs
+
+신기한가
+	신기/ncn+한/ncn+가/jcs
+
+?
+	?/sf
+
+
+배도
+	배/ncn+도/jxc
+
+부르니
+	부르/pvg+니/ecs
+
+이젠
+	이젠/ncn
+
+공항으로
+	공항/ncn+으로/jca
+
+가자
+	가/px+자/ecc
+
+.
+	./sf
+
+
+집에
+	집/ncn+에/jca
+
+가야지
+	가/px+아/ecs
+
+..
+	./sf+./sf

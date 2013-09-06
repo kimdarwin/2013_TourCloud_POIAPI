@@ -1,0 +1,319 @@
+[울릉도맛집/울릉회타운]
+	[울릉도맛집/울릉회타운/ncn+]/sr
+
+
+다시
+	다시/mag
+
+먹어도
+	먹/pvg+어도/ecs
+
+변함없는
+	변함/ncn+없/xsmn+는/etm
+
+맛,
+	맛/ncn+,/sp
+
+회덮밥~
+	회덮밥/ncn+~/sd
+
+
+울릉도에서
+	울릉도/ncn+에서/jca
+
+꼭
+	꼭/mag
+
+먹어야
+	먹/pvg+어야/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+음식
+	음식/ncn
+
+중엔
+	중/nbn+엔/jca
+
+회덮밥이
+	회덮밥/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+공교롭게도
+	공교/ncps+롭/xsmn+게/ecs+도/jxc
+
+2년전
+	2/nnc+년/nbu+전/xsnx
+
+울릉도에
+	울릉도/ncn+에/jca
+
+처음
+	처음/mag
+
+왔을
+	오/px+아/ep+ㄹ/etm
+
+때도
+	때/ncn+도/jxc
+
+처음
+	처음/mag
+
+식사했던
+	식사/ncpa+하/xsva+었/ep+던/etm
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+해서
+	하/pvg+어서/ecs
+
+참
+	참/mag
+
+반가운
+	반갑/paa+은/etm
+
+식당이더군요~~
+	식당/ncn+이/jp+더군/ef+요/jxf+~/sd+~/sd
+
+
+같은
+	같/paa+은/etm
+
+여행지에서
+	여행지/ncn+에서/jca
+
+같은
+	같/paa+은/etm
+
+맛집을
+	맛집/ncn+을/jco
+
+다시
+	다시/mag
+
+만난다는
+	만나/pvg+ㄴ다/ef+는/etm
+
+것이
+	것/nbn+이/jcc
+
+드물기도
+	드물/paa+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+변함없는
+	변함/ncn+없/xsmn+는/etm
+
+맛인지도
+	맛/ncn+이/jp+ㄴ지/ecs+도/jxc
+
+참
+	참/mag
+
+궁금하더라구요~
+	궁금/ncpa+하/xsva+더라구/ef+요/jxf+~/sd
+
+
+회덮밥은
+	회덮밥/ncn+은/jxc
+
+처음에는
+	처음/ncn+에/jca+는/jxc
+
+날회를
+	날회/ncn+를/jco
+
+그냥
+	그냥/mag
+
+먹고
+	먹/pvg+고/ecc
+
+고추장에
+	고추장/ncn+에/jca
+
+비벼서회덮밥으로
+	비벼서회덮밥/ncn+으로/jca
+
+먹거나
+	먹/pvg+거나/ecc
+
+물을
+	물/ncn+을/jco
+
+부어
+	붓/pvg+어/ecx
+
+물회로
+	물회/ncn+로/jca
+
+먹는
+	먹/pvg+는/etm
+
+3가지
+	3/nnc+가지/nbu
+
+방법이
+	방법/ncn+이/jcc
+
+있는데요,
+	있/paa+는데요/ef+,/sp
+
+
+처음에는
+	처음/ncn+에/jca+는/jxc
+
+저도
+	저/npp+도/jxc
+
+한치와
+	한/nnc+치/nbu+와/jcj
+
+희라스를
+	희라스/ncn+를/jco
+
+회로
+	회/ncn+로/jca
+
+먹다가
+	먹/pvg+다가/ecs
+
+밥과
+	밥/ncn+과/jct
+
+함께
+	함께/mag
+
+고추장에
+	고추장/ncn+에/jca
+
+비벼
+	비비/pvg+어/ecx
+
+회덮밥으로
+	회덮밥/ncn+으로/jca
+
+먹어보았습니다
+	먹/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+워낙
+	워낙/mag
+
+신선한
+	신선/ncn+한/ncn
+
+울릉도산
+	울릉도산/ncn
+
+회이다
+	회/ncn+이/jp+다/ef
+
+보니
+	보/px+니/ecs
+
+고추장과
+	고추장/ncn+과/jcj
+
+고소한
+	고소/ncn+한/ncn
+
+참기름
+	참기름/ncn
+
+맛이
+	맛/ncn+이/jcc
+
+더해
+	더하/paa+어/ecx
+
+그냥
+	그냥/mag
+
+먹어도
+	먹/pvg+어도/ecs
+
+살살
+	살살/mag
+
+녹으며
+	녹/pvg+으며/ecc
+
+밥과
+	밥/ncn+과/jct
+
+먹어도
+	먹/pvg+어도/ecs
+
+참
+	참/mag
+
+별미더군요~~
+	별미/ncn+이/jp+더군/ef+요/jxf+~/sd+~/sd
+
+
+울릉회타운/054-791-4243
+	울릉회타운/ncn+//sp+054/nnc+-791/nnc+-4243/nnc
+
+
+경북
+	경북/ncn
+
+울릉군
+	울릉군/ncn
+
+울릉읍
+	울릉읍/ncn
+
+도동1리
+	도동1리/ncn
+
+131-1번지
+	131-1번지/ncn
+
+
+2010.
+	2010./nnc
+
+11.
+	11./nnc
+
+23|지도
+	23|지/ncn+도/jxc
+
+크게
+	크/paa+게/ecs
+
+보기NHN
+	보기NHN/ncn
+
+Corp.
+	Corp/f+./sf
+
+
+쟈스민의
+	쟈스민/ncn+의/jcm
+
+사진여행많이
+	사진여행많/ncn+이/jcc
+
+구독해주세요~~
+	구독/ncpa+하/xsva+어/ecx+주/px+세/ef+요/jxf+~/sd+~/sd
+
+!!
+	!/sf+!/sf

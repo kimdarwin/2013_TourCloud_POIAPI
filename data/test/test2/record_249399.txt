@@ -1,0 +1,39 @@
+Title:
+8/5 무주 구천동계곡 트레킹 후기
+
+Date:
+2012.08.05
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(301432,'files/attach/images/64/399/249/c7f9081500441397efba58e7fa7576e4.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/505efb9df2157025da6a1eb6789df141.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/0129065ca7846d777437d010da192ac5.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/d9a80a962f98c32cf51d8b770d2d6671.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/d96eb95f41c66c1c11e0ed97d8220e35.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/b0d7bb7cdf1adf6a58fe95457f1ed6d3.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/ed856831740418c7b683b51ccd6ae3f0.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/602222d375bd86de74203d022d09a2d0.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/0936eff6d219c7e84729020a674537eb.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/701facc846115479b70d4fef7a56d9f1.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/28a6ab58cbf14c355bcb58f4f99d6686.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/5c62cc329f5e5deb70e7c364a817d897.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/70e8bfe7004046c2ccec08013258477a.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/0a9ab9a9ff7e11a1a7223da3ffb25be6.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/897419bb223fcafd6af6d5ffb53d997e.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/2498a442f11f231770e13088f440f773.jpg');
+list_gallery_add_image(301432,'files/attach/images/64/399/249/a7c66815213cb3fe61b9c188b23380a4.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 5일(일) 아름다운 여행으로 무주 구천동계곡 트레킹을 하였습니다.
+계속되는 찜통 더위 때문에 구천동계곡으로 떠나는 여행을 은근히 기다렸던 것 같습니다. 지난번에는 장마 끝이어서 물도 많았고 선선한 바람이 너무 좋았는데 그후로 비가 내리는 날은 거의 없었지만 그래도 구천동계곡은 여름휴가 피서지로 여전한 인기를 얻고 있는 곳이기 때문입니다.
+무주로 들어서는 길은 울울창창 초록숲으로 눈이 먼저 시원해지는 풍경을 앞세우고 구천동계곡에 도착했습니다.
+구천동계곡 트레킹 구간은 초입부터 백련사까지 왕복 약 14키로 정도이며 계곡을 중앙에 두고 오른쪽 자연탐방로와 왼쪽의 임도를 걷고 다시 원점으로 돌아오는 일정으로 진행되었습니다.
+걷는 구간은 거의 평지지만 약 14km는 긴 거리여서 자신의 체력에 맞게 다녀오기로 했습니다. 그리고 하루 편히 쉬는 시간을 갖고 싶은 분은 적당한 거리를 걷고 시원한 계곡가에 앉아 자유시간을 보내기도 했구요.
+지난번에 비하면 계곡물이 많이 줄었고 그에 따라 우렁차던 물소리도 다소 작아졌습니다만 투명한 물빛을 바라보며 걷는 길은 참 좋았습니다. 울창한 숲속 그늘에 들어서 잠깐씩 멈춰서며 맑은 초록빛에 눈은 더없이 시원해졌고 가끔씩 계곡가에 앉아 여유로운 시간을 가져보기도 했습니다.
+옛길과 임도를 걷다 보면 어느새 백련사에 도착하는데 대웅전 앞 마당에서 바라보이는 풍경 또한 파란 하늘을 수놓은 뭉게구름 그리고 가을이면 곱게 물들 앞산의 탁 트인 풍경에 잠시 마음을 차분히 하고 다시 원점으로 돌아왔습니다.
+어제와는 달리 고속도로가 전혀 막히지 않아서 예상보다 여행도 일찍 시작되었고 일정도 조금 이르게 마쳤습니다.
+오랜만에 시원한 계곡 물소리를 들으며 숲길에 들었더니 찌뿌둥하던 기분도 개운하게 샤워를 마친 듯합니다. 그리고 얼음처럼 차가웠던 투명한 물빛도 여름내 꺼내어볼 소중한 추억이 되셨으면 하는 바람입니다.
+폭염이 계속되고 있지만 며칠만 지나면 입추이고 그러면 아침 저녁으로도 선선한 바람이 불겠죠?^^ 
+남은 더위에 지치지 않도록 건강 유의하시고 내일부터 시작되는 한 주도 활기차게 보내시기 바랍니다~
+이 게시물을...

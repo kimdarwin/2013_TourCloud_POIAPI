@@ -1,0 +1,997 @@
+제주시맛집추천
+	제주시맛집추천/ncn
+
+-
+	-/sd
+
+제바나횟집
+	제바나횟집/ncn
+
+
+제주도에
+	제주/ncn+도/ncn+에/jca
+
+살다보니
+	살다보/ncn+이/jp+니/ecs
+
+회라면
+	회/ncn+이/jp+라면/ecs
+
+벌떡
+	벌떡/mag
+
+일어나는
+	일어나/pvg+는/etm
+
+허브비치랍니다
+	허브비치랍니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+제주시맛집추천할곳은
+	제주시맛집추천할곳/ncn+은/jxc
+
+
+제바나횟집이에요
+	제바나횟집/ncn+이/jp+에요/ef
+
+.
+	./sf
+
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+먹거리x파일을
+	먹거리x파일/ncn+을/jco
+
+보닌
+	보닌/ncn
+
+활어와
+	활어/ncn+와/jcj
+
+선어에
+	선어/ncpa+에/jca
+
+대해서
+	대하/pvg+어서/ecso
+
+방송이
+	방송이/ncn
+
+나왔는데요
+	나/pvg+아/ecx+오/px+아/ep+ㄴ데요/ef
+
+
+선어가
+	선어/ncpa+가/jcc
+
+월등히
+	월등히/mag
+
+맛있고
+	맛있/paa+고/ecc
+
+안전하다는
+	안전/ncps+하/xsms+다/ef+는/etm
+
+내용
+	내용/ncn
+
+저도
+	저/npp+도/jxc
+
+이제부터는
+	이제/mag+부터/jxc+는/jxc
+
+활어
+	활어/ncn
+
+안먹을래요
+	안먹을래요/ncn
+
+일본에서는
+	일/nnc+본/nbu+에서/jca+는/jxc
+
+아예
+	아예/mag
+
+
+선어가
+	선어/ncpa+가/jcc
+
+유명하다고
+	유명/ncps+하/xsms+다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+우리제주도도
+	우리/ncn+제주/ncn+도/jxc+도/jxc
+
+빨리
+	빨리/mag
+
+선어를
+	선어/ncpa+를/jco
+
+하는곳이
+	하는곳/ncn+이/jcc
+
+생겼으면
+	생기/pvg+었/ep+으면/ecs
+
+좋겠어요
+	좋/paa+겠/ep+어/ef+요/jxf
+
+여수에서는
+	여수/ncn+에서는/jca
+
+
+선어먹는곳이
+	선어먹는곳/ncn+이/jcc
+
+있던데
+	있/px+더/ep+ㄴ데/ecs
+
+시간나면
+	시간나/pvg+면/ecs
+
+여수로
+	여수/ncn+로/jca
+
+원정가야할거
+	원정가야할거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+아무튼
+	아무튼/mag
+
+활어회
+	활어회/ncn
+
+먹은건
+	먹은건/ncn
+
+아니고
+	아니/paa+고/ecc
+
+저는
+	저/npp+는/jxc
+
+제바나횟집에서
+	제바나횟집에서/ncn
+
+회덮밥먹었답니다
+	회덮밥먹었답니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+제바나횟집에
+	제바나횟집/ncn+에/jca
+
+일행들과
+	일행/ncn+들/ncn+과/jct
+
+같이
+	같/paa+이/xsa
+
+도착
+	도착/ncpa
+
+만날때는
+	만나/pvg+ㄹ/etm+때/nbn+는/jxc
+
+너무도
+	너무/mag+도/jxc
+
+반가운데
+	반갑/paa+은/etm+데/nbn
+
+헤어지면
+	헤어지/pvg+면/ecs
+
+다들
+	다들/ncn
+
+먹고살기
+	먹고살기/ncn
+
+
+바뻐서
+	바쁘/paa+아/ecx
+
+연락을
+	연락/ncpa+을/jco
+
+자주
+	자주/mag
+
+못하는
+	못하/px+는/etm
+
+사이
+	사/nnc+이/jcc
+
+아마도
+	아마/mag+도/jxc
+
+그게
+	그/npd+이/jp+게/ecs
+
+만남과
+	만나/pvg+ㅁ/etn+과/jcj
+
+이별
+	이별/ncpa
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+싶네요
+	싶/px+네/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+친했던
+	친하/paa+었/ep+던/etm
+
+동생도
+	동생/ncn+도/jxc
+
+시간이
+	시간/ncn+이/jcc
+
+지나면서
+	지나/pvg+면서/ecc
+
+연락을
+	연락/ncpa+을/jco
+
+안하게
+	안하/pvg+게/ecs
+
+되면
+	되/pvg+면/ecs
+
+또
+	또/maj
+
+잊혀지고
+	잊히/pvg+어/ecx+지/px+고/ecc
+
+또
+	또/maj
+
+챙겨주지
+	챙기/pvg+어/ecx+주/px+지/ecx
+
+못하는
+	못하/paa+는/etm
+
+
+마음에
+	마음/ncn+에/jca
+
+또
+	또/maj
+
+미안하게
+	미안/ncps+하/xsms+게/ecs
+
+되고
+	되/pvg+고/ecc
+
+그래서
+	그래서/maj
+
+허브비치는
+	허브비치/ncn+는/jxc
+
+혼자서
+	혼자/ncn+서/jca
+
+사진찍으러
+	사진찍/pvg+으러/ecs
+
+다니나봐요
+	다니나봐요/ncn
+
+^^
+	^/sy+^/sy
+
+
+식사가
+	식사/ncpa+가/jcc
+
+나오기전
+	나오기/ncn+전/ncn
+
+사진한장
+	사진한장/ncn
+
+찰칵
+	찰칵/mag
+
+^^
+	^/sy+^/sy
+
+
+반찬들은
+	반찬/ncn+들/ncn+은/jxc
+
+깔끔하게
+	깔끔/ncps+하/xsms+게/ecs
+
+나옵니다
+	나/pvg+아/ecx+오/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+이날
+	이/nnc+날/nbu
+
+주문은
+	주문/ncn+은/jxc
+
+섞이다
+	섞이/pvg+다/ef
+
+보니
+	보/px+니/ecs
+
+누가
+	누구/npp+가/jcs
+
+어떤걸
+	어떤걸/ncn
+
+시킨지는
+	시키/pvg+ㄴ지/ecs+는/jxc
+
+잘
+	잘/mag
+
+모르겠고요
+	모르/pvg+겠/ep+고요/ef
+
+
+저는
+	저/npp+는/jxc
+
+회덮밥
+	회덮밥/ncn
+
+시킨거
+	시킨거/ncn
+
+확실합니다
+	확실/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+김치전도
+	김치/ncn+전/ncn+도/jxc
+
+나오고요
+	나/pvg+아/ecx+오/px+고요/ef
+
+예전에
+	예전/ncn+에/jca
+
+어렸을때
+	어리/paa+었/ep+을/etm+때/nbn
+
+김치전
+	김치/ncn+전/ncn
+
+할머니가
+	할머니/ncn+가/jcs
+
+해주던맛이
+	해주던맛/ncn+이/jcc
+
+
+생각납니다
+	생각나/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+지금은
+	지금/ncn+은/jxc
+
+제
+	저/npp+의/jcm
+
+곁에
+	곁/ncn+에/jca
+
+안계시는
+	안계/ncn+시/ncn+는/jxc
+
+할머니지만
+	할머니/ncn+이/jp+지만/ecs
+
+항상
+	항상/mag
+
+사랑하는
+	사랑/ncpa+하/xsva+는/etm
+
+
+할머니가
+	할머니/ncn+가/jcs
+
+보고
+	보/px+고/ecc
+
+싶을때가
+	싶/px+을/etm+때/nbn+가/jcc
+
+한두번이
+	한/nnc+두/nnc+번/nbu+이/jcc
+
+아니랍니다
+	아니/paa+랍니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+제주시맛집추천
+	제주시맛집추천/ncn
+
+제바나횟집에서의
+	제바나횟집에서/ncn+의/jcm
+
+식사는
+	식사/ncpa+는/jxc
+
+일단
+	일단/mag
+
+깔끔해서
+	깔끔/ncn+해/ncn+서/jca
+
+좋다고
+	좋/paa+다고/ecs
+
+
+이야기하고
+	이야기/ncpa+하고/jct
+
+싶어요
+	싶/px+어/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+횟집은
+	횟집/ncn+은/jxc
+
+솔직히
+	솔직히/mag
+
+이야기하자면
+	이야기/ncpa+하자/ncn+이/jp+면/ecs
+
+회
+	회/mag
+
+맛은
+	맛/ncn+은/jxc
+
+사실
+	사실/mag
+
+거의
+	거의/mag
+
+똑같지
+	똑같/paa+지/ecx
+
+않나요
+	않/paa+나요/ef
+
+
+저는
+	저/npp+는/jxc
+
+일단
+	일단/mag
+
+분위기를
+	분위기/ncn+를/jco
+
+많이
+	많/paa+이/xsa
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+드디어
+	드디어/mag
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+회덮밥
+	회덮밥/ncn
+
+
+제주시맛집추천하는데
+	제주시맛집추천하는데/ncn
+
+입맛이
+	입맛/ncn+이/jcc
+
+저랑
+	저/npp+랑/jxc
+
+다
+	다/mag
+
+똑같지
+	똑같/paa+지/ecx
+
+않기에
+	않/px+기/etn+에/jca
+
+제가
+	저/npp+가/jcs
+
+이야기하는
+	이야기/ncpa+하/xsva+는/etm
+
+
+식당
+	식당/ncn
+
+무조건
+	무조건/mag
+
+안가도
+	안/ncn+가/jcs+도/jxc
+
+괜찮아요
+	괜찮/paa+아/ef+요/jxf
+
+지금
+	지금/mag
+
+올리는
+	올리/pvg+는/etm
+
+맛집들은
+	맛집들/ncn+은/jxc
+
+제가
+	저/npp+가/jcs
+
+가서
+	가/pvg+서/ecs
+
+그래도
+	그래도/maj
+
+
+괜찮은곳들만
+	괜찮은곳들/ncn+만/jxc
+
+골라서
+	고르/pvg+아/ecx
+
+올리는데
+	올리/pvg+ㄴ데/ecs
+
+그전에
+	그전/ncn+에/jca
+
+뭐라고
+	뭐/npd+이/jp+라/ef+고/jcr
+
+하시던분
+	하/px+시/ep+던/etm+분/nbn
+
+두분이
+	두/nnc+분/nbu+이/jcc
+
+있었어요
+	있/paa+었/ep+어요/ef
+
+
+블러그
+	블러그/ncn
+
+하시는분들
+	하시는분들/ncn
+
+아시겠지만
+	알/pvg+시겠/ep+지/ecx+말/px+ㄴ/etm
+
+포스팅은
+	포스팅/ncn+은/jxc
+
+제
+	저/npp+의/jcm
+
+개인적인
+	개/nbu+이/jp+ㄴ/etm+적/nbn+이/jp+ㄴ/etm
+
+의견일뿐
+	의견/ncn+이/jp+ㄹ/etm+뿐/nbn
+
+모든
+	모든/mma
+
+사람에게
+	사람/nbu+에게/jca
+
+
+적용되는건
+	적용되는건/ncn
+
+아니랍니다
+	아니/paa+랍니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+살아온
+	살/pvg+아/ecx+오/px+ㄴ/etm
+
+환경이
+	환경/ncn+이/jcc
+
+틀리기에
+	틀리/pvg+기/etn+에/jca
+
+저는
+	저/npp+는/jxc
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+왠만하면
+	왠만하/ncn+이/jp+면/ecs
+
+
+맛있다고해요
+	맛있/paa+다고/ecx+하/px+어/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+허브비치는
+	허브비치/ncn+는/jxc
+
+소주를
+	소주/ncn+를/jco
+
+못합니다
+	못하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+기분좋으면
+	기분좋/paa+으면/ecs
+
+맥주한잔
+	맥주/ncn+한잔/ncpa
+
+^^
+	^/sy+^/sy
+
+
+우리나라
+	우리나라/ncn
+
+술문화
+	술문화/ncn
+
+제발좀
+	제발좀/ncn
+
+바뀌었으면해요
+	바뀌었으면해요/ncn
+
+술
+	술/ncn
+
+못먹는
+	못먹/ncn+는/jxc
+
+사람
+	사람/ncn
+
+잔은
+	잔/nbu+은/jxc
+
+왜
+	왜/mag
+
+받으라고
+	받/pvg+으라/ef+고/jcr
+
+하는지
+	하/pvg+는지/ecc
+
+
+그리고
+	그리고/maj
+
+그
+	그/mmd
+
+잔에
+	잔/nbu+에/jca
+
+있는
+	있/px+는/etm
+
+술은
+	술/ncn+은/jxc
+
+나중에
+	나중/ncn+에/jca
+
+본인들이
+	본인/ncn+들/ncn+이/jcc
+
+마시고
+	마시/pvg+고/ecc
+
+
+사이다
+	사이/ncn+이/jp+다/ef
+
+시켜주면
+	시키/pvg+어/ecx+주/px+면/ecs
+
+안돼겠니
+	안돼/ncn+이/jp+겠/ep+니/ef
+
+
+물론
+	물론/mag
+
+이날
+	이/nnc+날/nbu
+
+만났던
+	만나/pvg+아/ep+ㄴ/etm
+
+일행들은
+	일행/ncn+들/ncn+은/jxc
+
+그렇게
+	그렇/pad+게/ecs
+
+강요하시는분들
+	강요하시는분들/ncn
+
+아니셨어요
+	아니/paa+셨/ep+어/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+그래도
+	그래도/maj
+
+저는
+	저/npp+는/jxc
+
+저보다
+	저/npp+보다/jca
+
+위에분들하고
+	위에분들하/ncn+이/jp+고/ecc
+
+사진을
+	사진/ncn+을/jco
+
+찍으러
+	찍/pvg+으러/ecs
+
+다니는데요
+	다니/pvg+ㄴ데/ef+요/jxf
+
+왜려
+	왜려/ncn
+
+더
+	더/mag
+
+편해요
+	편하/paa+어요/ef
+
+
+잘
+	잘/mag
+
+챙겨주시고
+	챙기/pvg+어/ecx+주/px+시/ep+고/ecc
+
+제가
+	저/npp+가/jcs
+
+또
+	또/maj
+
+막내라서
+	막내/ncn+이/jp+라서/ecs
+
+항상
+	항상/mag
+
+챙겨주시는
+	챙기/pvg+어/ecx+주/px+시/ep+는/etm
+
+센스까지
+	센스/ncn+까지/jxc
+
+^^
+	^/sy+^/sy
+
+
+제주도에
+	제주/ncn+도/ncn+에/jca
+
+살면서
+	살/pvg+면서/ecc
+
+앞으로도
+	앞/ncn+으로/jca+도/jxc
+
+많은
+	많/paa+은/etm
+
+분들을
+	불/pvg+ㄴ/etm+들/nbn+을/jco
+
+만나겠지만
+	만나/pvg+겠/ep+지만/ecs
+
+저랑
+	저/npp+랑/jxc
+
+이웃인분들은
+	이웃인분들/ncn+은/jxc
+
+
+정말
+	정말/mag
+
+좋은분들밖에
+	좋은분들밖/ncn+에/jca
+
+못봤어요
+	못봤어요/ncn
+
+^^
+	^/sy+^/sy
+
+앞으로도
+	앞/ncn+으로/jca+도/jxc
+
+잘
+	잘/mag
+
+지내봐요
+	지내/pvg+어/ecx+보/px+아/ef
+
+
+제바나횟집
+	제바나횟집/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+용담3동
+	용담3동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011234896",
+	"bl011234896",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11619404",
+	"/sl+11619404/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"제바나횟집",
+	title:"제바나횟집",/ncn
+
+pointX:261357,pointY:103147}
+	pointX/f+:/sp+261357/nnc+,/sp+pointY/f+:/sp+103147/nnc+}/sr
+
+
+주소
+	주소/ncn
+
+:
+	:/sp
+
+제주특별자치도
+	제주/ncn+특별/ncps+자치/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+용담
+	용담/ncn
+
+3동
+	3/nnc+동/nbu
+
+1003
+	1003/nnc
+
+-
+	-/sd
+
+1번지
+	1번지/ncn
+
+제바나횟집
+	제바나횟집/ncn

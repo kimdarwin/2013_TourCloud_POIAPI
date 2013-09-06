@@ -1,0 +1,460 @@
+수상
+	수상/ncpa
+
+기념스페셜
+	기념/ncpa+스페셜/ncn
+
+덧글
+	덧글/ncn
+
+이벤트
+	이벤트/ncn
+
+
+한국관광공사가
+	한국관광/ncn+공사/ncn+가/jcs
+
+2010년
+	2010/nnc+년/nbu
+
+12월
+	12/nnc+월/nbu
+
+3일
+	3/nnc+일/nbu
+
+서울
+	서울/ncn
+
+태평로
+	태평로/ncn
+
+프레스센터에서
+	프레스센터/ncn+에서/jca
+
+열린
+	열리/pvg+ㄴ/etm
+
+'2010
+	'/sr+2010/nnc
+
+대한민국
+	대한/ncn+민국/ncn
+
+인터넷소통대상'에서
+	인터넷/ncn+소통/ncpa+대상/ncn+'/sr+에서/jca
+
+
+공기업
+	공기업/ncn
+
+부문
+	부문/ncn
+
+1위를
+	1/nnc+위/nbu+를/jco
+
+수상했습니다
+	수상/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+'대한민국
+	'/sr+대한/ncn+민국/ncn
+
+구석구석'
+	구석/ncn+구석/ncn+'/sr
+
+관광정보사이트,
+	관광정보/ncn+사이트/ncn+,/sp
+
+트위터,
+	트위터,/ncn
+
+국내여행
+	국내여행/ncn
+
+블로그를
+	블로그/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+정보를
+	정보/ncn+를/jco
+
+제공하고
+	제공/ncpa+하고/jct
+
+네티즌들의
+	네티즌/ncn+들/ncn+의/jcm
+
+이야기를
+	이야기/ncpa+를/jco
+
+
+귀담아
+	귀담/pvg+아/ecx
+
+듣는
+	듣/pvg+는/etm
+
+한국관광공사
+	한국관광/ncn+공사/ncn
+
+.
+	./sf
+
+
+앞으로도
+	앞/ncn+으로/jca+도/jxc
+
+다양한
+	다양/ncn+한/ncn
+
+뉴미디어
+	뉴미디어/ncn
+
+소스와
+	소스/ncn+와/jct
+
+알찬
+	알차/paa+ㄴ/etm
+
+정보로
+	정보/ncn+로/jca
+
+네티즌
+	네티즌/ncn
+
+여러분과
+	여러분/npp+과/jct
+
+활발한
+	활발/ncps+하/xsms+ㄴ/etm
+
+소통을
+	소통/ncpa+을/jco
+
+해나가고자
+	하/pvg+어/ecx+나/px+아/ecx+가/px+고자/ecs
+
+4주간의
+	4/nnc+주간/nbu+의/jcm
+
+스페셜
+	스페셜/ncn
+
+덧글
+	덧글/ncn
+
+이벤트를
+	이벤트/ncn+를/jco
+
+
+개최합니다
+	개최/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+첫
+	첫/nno
+
+번째
+	번/nbu+째/xsnu
+
+소통
+	소통/ncpa
+
+주제
+	주제/ncn
+
+-
+	-/sd
+
+"질문해주세요"
+	"/sl+질문/ncpa+하/xsva+어/ecx+주/px+세요/ef+"/sr
+
+
+그
+	그/mmd
+
+동안
+	동안/ncn
+
+한국관광공사에
+	한국관광/ncn+공사/ncn+에/jca
+
+궁금한
+	궁금/ncps+하/xsms+ㄴ/etm
+
+내용이
+	내용/ncn+이/jcc
+
+있으셨나요
+	있/px+으셨/ep+나/ef+요/jxf
+
+?
+	?/sf
+
+
+무엇이든
+	무엇/npd+이/jp+든/ecs
+
+질문해주세요
+	질문/ncpa+하/xsva+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+채택된
+	채택/ncpa+되/xsvn+ㄴ/etm
+
+5개의
+	5/nnc+개/nbu+의/jcm
+
+질문에
+	질문/ncpa+에/jca
+
+대해서
+	대하/pvg+어서/ecso
+
+성심
+	성심/ncn
+
+성의껏
+	성의껏/mag
+
+답변해드립니다
+	답변/ncpa+하/xsva+어/ecx+드리/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이벤트
+	이벤트/ncn
+
+기간
+	기간/ncn
+
+:2010년
+	:/sp+2010/nnc+년/nbu
+
+12월
+	12/nnc+월/nbu
+
+9일(목)~12월
+	9일(목)~12월/ncn
+
+14일(화)
+	14일/ncn+(/sl+화/ncn+)/sr
+
+
+당첨자
+	당첨자/ncn
+
+발표
+	발표/ncpa
+
+:2010년
+	:/sp+2010/nnc+년/nbu
+
+12월
+	12/nnc+월/nbu
+
+15일(수)
+	15일/ncn+(/sl+수/nbn+)/sr
+
+
+이벤트
+	이벤트/ncn
+
+경품
+	경품/ncn
+
+:
+	:/sp
+
+문화상품권
+	문화/ncn+상품권/ncn
+
+1만
+	1/nnc+만/jxc
+
+원권
+	원권/ncn
+
+(5명)
+	(/sl+5/nnc+명/nbu+)/sr
+
+
+응
+	응/ii
+
+모
+	모/ncn
+
+방
+	방/ncn
+
+법
+	법/ncn
+
+:
+	:/sp
+
+덧글에
+	덧글/ncn+에/jca
+
+한국관광공사에
+	한국관광/ncn+공사/ncn+에/jca
+
+궁금한
+	궁금/ncps+하/xsms+ㄴ/etm
+
+점을
+	점/nbu+을/jco
+
+입력하신
+	입력/ncpa+하/xsva+시/ep+ㄴ/etm
+
+후,
+	후/ncn+,/sp
+
+본인의
+	본인/ncn+의/jcm
+
+덧글에
+	덧글/ncn+에/jca
+
+비밀덧글로
+	비밀덧글/ncn+로/jca
+
+실명과
+	실명/ncn+과/jcj
+
+휴대폰
+	휴대폰/ncn
+
+번호를
+	번호/ncn+를/jco
+
+입력해주세요
+	입력/ncpa+하/xsva+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+예)국내여행에
+	예/ii+)/sr+국내여행/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+좋은
+	좋/paa+은/etm
+
+아이디어가
+	아이디어/ncn+가/jcs
+
+있는데요,
+	있/px+는데/ef+요/jxf+,/sp
+
+어디에
+	어디/npd+에/jca
+
+얘기하면
+	얘기/ncpa+하/xsva+면/ecs
+
+되죠
+	되/pvg+죠/ef
+
+?
+	?/sf
+
+
+(비밀덧글)
+	(비밀덧글)/ncn
+
+홍길동,
+	홍길동,/ncn
+
+010-xxxx-xxxx
+	010/nnc+-/sd+xxxx/f+-/sd+xxxx/f
+
+
+국내여행에대한
+	국내여행에대한/ncn
+
+정보를
+	정보/ncn+를/jco
+
+알아보시려면'대한민국
+	알/pvg+아/ecx+보/px+시/ep+려면/ecs+'/sr+대한/ncn+민국/ncn
+
+구석구석'
+	구석/ncn+구석/ncn+'/sr
+
+여행정보
+	여행정보/ncn
+
+사이트를,
+	사이트/ncn+를/jco+,/sp
+
+
+한국관광공사에
+	한국관광/ncn+공사/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+기업정보를
+	기업정보/ncn+를/jco
+
+알아보시려면
+	알/pvg+아/ecx+보/px+시/ep+려면/ecs
+
+홈페이지를
+	홈페이지/ncn+를/jco
+
+방문해주세요
+	방문/ncpa+하/xsva+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+'대한민국
+	'/sr+대한/ncn+민국/ncn
+
+구석구석'
+	구석/ncn+구석/ncn+'/sr
+
+여행정보
+	여행정보/ncn
+
+사이트
+	사이트/ncn
+
+바로가기
+	바로가/ncn+이/jp+기/etn
+
+
+한국관광공사
+	한국관광/ncn+공사/ncn
+
+홈페이지
+	홈페이지/ncn
+
+바로가기
+	바로가/ncn+이/jp+기/etn

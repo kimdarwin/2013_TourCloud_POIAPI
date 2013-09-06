@@ -1,0 +1,59 @@
+Title:
+제주도 신신붉닭집을 가다 *^^* 
+
+Date:
+2010.10.22 23:56
+
+Content:
+
+일 특성상 365일중에 360일 정도가 외식이다 보니 많은 맛집을 소개 할수 있을것 같다. *^^*
+매운거 먹자 해서 간 신신불닭집 정말 많은 사람들이 찾는 대표적인 제주도 맛집이다. *^^*
+
+
+가게는 크지 않은 규모 ㅎㅎㅎ 사람들이 다 차서 밖에서 기다리면서 사진 찰칵 *^^*
+
+밥과 기본 반찬 ㅎㅎ 많은 반찬이 안나오지만 이곳도주가 매운 닭이다. 보니 용서 *^^*
+
+딱봐도 매워 보인다. *^^* 매우면서 맛도 있는 *^^* 식사 시작 
+
+많은 사람들이 적어놓은 흔적들 ㅎㅎ 저마다 하고 싶은이야기가 많았던 모양 *^^*
+
+잠깐 자리 비운사이 가게 전경 찰칵 ㅎㅎㅎ
+
+가격도 많이 비싸지 않고 착한가격같다. *^^* 
+
+계란탕이 나중에 왔다. ㅎㅎㅎ 그래도 같이 먹으면 도움이 되는데 처음에 멋모르고 그릇 잡았다가는 
+낭패를 당한다. 이유는 뜨겁다. *^^*
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc22/2010/10/22/1679/03100223B18D534E16C3E93723A24103300_ses2001p_logo.jpg';
+	layout.playtime = '26.19';
+	var qsParam = {};
+	qsParam.vid = 'FD20DAF433F94A53F04A528E2FCBA8005B17';
+	qsParam.inKey = 'V1250f28f0bde86967fb405037d38be569f5f2a5e31a69920d375a945b9803ea5d46d05037d38be569f5f';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_06540 = new VideoInfraUGCPlayer('ugcPlayer_06540' ,bean); 
+ugcPlayer_06540.drawPlayLayer(); 
+}
+
+밥은 비벼야 맛이제 *^^* 밥은 위생장갑 착용하고 비벼 드시면 최고 *^^* 
+
+
+너무 맛있게 먹은 ㅎㅎㅎ 다음에 또 가야죠 *^^*
+
+	

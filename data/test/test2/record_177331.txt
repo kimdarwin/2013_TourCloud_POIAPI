@@ -1,0 +1,29 @@
+Date:
+2011.09.18
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(297928,'files/attach/images/228818/331/177/e77600fe781e1a76dd548b80052bc91b.jpg');
+list_gallery_add_image(297928,'files/attach/images/228818/331/177/c7a05063f8c9e48bb52ddf7cb0c52d0f.jpg');
+list_gallery_add_image(297928,'files/attach/images/228818/331/177/e5217c7b9e84046160e8c8d2fd9696a6.jpg');
+list_gallery_add_image(297928,'files/attach/images/228818/331/177/6ae72000ede99792cd52c9c1a9f99a44.jpg');
+list_gallery_add_image(297928,'files/attach/images/228818/331/177/bb2385977fa54d8232d5b03177c45fc4.jpg');
+list_gallery_add_image(297928,'files/attach/images/228818/331/177/0c1298947d3f87ed540ca46fa7b21c5c.jpg');
+list_gallery_add_image(297928,'files/attach/images/228818/331/177/7d7304a73f14855b6756fecf43292333.jpg');
+list_gallery_add_image(297928,'files/attach/images/228818/331/177/faa47cf0de822e4d8d5ecfcc58938f1b.jpg');
+list_gallery_add_image(297928,'files/attach/images/228818/331/177/94725374793e53997ff925295425aea9.jpg');
+list_gallery_add_image(297928,'files/attach/images/228818/331/177/8c51a40e7fee9db59c40b0803977ac5a.jpg');
+list_gallery_add_image(297928,'files/attach/images/228818/331/177/60eb2b7ced4edbbaaeb28cfd21f4c6ce.jpg');
+list_gallery_add_image(297928,'files/attach/images/228818/331/177/857abf8ffe9e3f4e14991bffb85aadd3.jpg');
+list_gallery_add_image(297928,'files/attach/images/228818/331/177/9cdec292de841a8c7410500a53a2721a.jpg');
+list_gallery_add_image(297928,'files/attach/images/228818/331/177/6dd8de4e84b95383c92d9109e93668df.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+9월 18일(일) 아름다운 여행으로 고착 학원농장과 장성 편백숲 걷기를 하였습니다.
+어제까지만 해도 늦더위가 풀리지 않을 것 같았는데 밤새 내렸던 비가 그치고 난 후 날씨는 다시 가을을 되찾은 듯합니다. 이번 여행지로 떠나는 시간에도 바람이 차갑고 하늘은 흐려 마치 깊은 가을 여행을 다녀온 듯합니다.
+고창 학원농장은 봄에는 청보리밭 그리고 늦여름에는 하얀 메밀꽃으로 유명한 곳입니다. 올 여름 비가 많이 내려 메밀꽃을 피우기 위해 다시 메밀 파종을 하였다는 소식이 안타까웠지만 그럼에도 불구하고 꽃을 피우기 위해 고생하셨을 학원농장에 그저 고마운 마음입니다. 그런 노력과 수고로움 때문인지 올해 메밀꽃은 그 어느 때보다 더 예뻐 보였습니다. 작년에 비하면 메밀꽃밭의 범위가 많이 줄어 곳곳을 메밀꽃 섬으로 꾸며놓았는데 붉은 황토 흙과 하얀 메밀꽃의 조화도 독특했습니다. 그리고 한쪽 메밀꽃밭은 메밀 대신 해바라기가 자라나 생각지도 못한 해바라기꽃까지 만나는 호사를 누렸습니다.^^ 잠시나마 활짝 핀 노란 해바라기꽃밭을 거닐며 무거웠던 마음도 밝아지는 느낌이었습니다.
+점심식사는 무장면소재지에 있는 옥돌식당에서 맛좋은 육회비빔밥을 먹고 다음 여행지가 있는 장성 편백숲으로 이동하였습니다.
+트레킹 구간은 추암리를 출발하여 금곡리로 넘어가는 약 6.5km의 편백숲을 걷습니다. 이 구간은 축령산의 편백숲을 가장 편리하게 걷고 여유로운 시간을 보낼 수 있는 곳입니다. 초반에 추암리를 출발하여 편백숲을 가꾸신 故 임종국선생 추모비까지 오르막을 올라야 하지만 이곳만 잘 오르고 나면 나머지는 마음껏 피톤치드를 들이키며 건강한 걷기를 할 수 있으니까요.
+오늘 편백숲에서는 살며시 흩뿌리는 안개비를 만났는데 더운 날보다 훨씬 숲의 분위기도 살아나고 덥지 않아서 무엇보다 기분이 상쾌했습니다. 예전에 비하면 편백숲 안에 갈래길이 많이 생겨나고 체험 코스가 늘어서 시간만 더 주워진다면 숲체험도 해보고 싶은 분들도 계셨을 텐데 시간이 좀 아쉬우셨죠?^^ 다음에 기회가 닿으면 개별적으로라도 가까운 분들과 함께 충분한 시간을 갖고 편백숲을 다시 찾아보셔도 좋을 것입니다.
+이제야 비로서 본격적인 가을이 시작되는 듯합니다. 
+환절기에 감기 조심하시고 오늘 여행지에서 만나고 온 시간들이 건강한 활력소가 되셨기를 바랍니다~이 게시물을...

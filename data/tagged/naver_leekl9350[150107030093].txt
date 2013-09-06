@@ -1,0 +1,293 @@
+아파트
+	아파트/ncn
+
+단지내
+	단지/ncn+내/ncn
+
+화단의
+	화단/ncn+의/jcm
+
+양지녁에
+	양지녁/ncn+에/jca
+
+이름모를
+	이름/ncn+모/ncn+를/jco
+
+꽃들이
+	꽃/ncn+들/xsncc+이/jcc
+
+피었습니다
+	피/ncn+이/jp+었/ep+습니다/ef
+
+
+벌도
+	벌/nbu+도/jxc
+
+반갑다고
+	반갑/paa+다/ef+고/jcr
+
+나와서
+	나오/pvg+아/ecx
+
+앉아
+	앉/pvg+아/ecx
+
+있네요~
+	있/paa+네요/ef+~/sd
+
+
+금낭화가
+	금낭화/ncn+가/jcs
+
+양지
+	양지/ncn
+
+쪽이라
+	쪽/nbn+이/jp+라/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+꽃을
+	꽃/ncn+을/jco
+
+피웠습니다
+	피우/pvg+었/ep+습니다/ef
+
+
+앵두나무
+	앵두나무/ncn
+
+가지에
+	가지/nbu+에/jca
+
+꽃이
+	꽃/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+피었으니
+	피/pvg+었/ep+으니/ecs
+
+앵두가
+	앵두/ncn+가/jcs
+
+열리겠는데요
+	열리/pvg+겠/ep+는데/ef+요/jxf
+
+?
+	?/sf
+
+
+이
+	이/mmd
+
+나무도
+	나무/ncn+도/jxc
+
+앵두나무인데
+	앵두나무/ncn+이/jp+ㄴ데/ecs
+
+조금
+	조금/mag
+
+늦게
+	늦/paa+게/ecs
+
+피기
+	피/ncn+이/jp+기/etn
+
+시작하는것
+	시작/ncpa+하/xsva+는/etm+것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+
+바로
+	바로/mag
+
+옆인데도
+	옆/ncn+이/jp+ㄴ데/ecs+도/jxc
+
+양지와
+	양지/ncn+와/jcj
+
+음지의
+	음지/ncn+의/jcm
+
+차이가
+	차이/ncn+가/jcs
+
+심하지요
+	심하/paa+지/ef+요/jxf
+
+?
+	?/sf
+
+
+우물가에
+	우물가/ncn+에/jca
+
+핀
+	피/pvg+ㄴ/etm
+
+앵두나무는
+	앵두나무/ncn+는/jxc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+어쨋거나
+	어쨋거/ncn+나/jcj
+
+화사한
+	화사/ncps+하/xsms+ㄴ/etm
+
+꽃을
+	꽃/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+아가씨들
+	아가씨/ncn+들/ncn
+
+마음에
+	마음/ncn+에/jca
+
+훈풍이
+	훈풍/ncn+이/jcc
+
+스며들겠지요
+	스며들/pvg+겠/ep+지/ef+요/jxf
+
+?
+	?/sf
+
+
+벚꽃은
+	벚꽃/ncn+은/jxc
+
+아파트
+	아파트/ncn
+
+단지에도
+	단지/ncn+에/jca+도/jxc
+
+환하게
+	환/ncps+하/xsms+게/ecs
+
+피었습니다
+	피/ncn+이/jp+었/ep+습니다/ef
+
+
+튜울립꽃도
+	튜울립/ncn+꽃/ncn+도/jxc
+
+지난해
+	지난해/ncn
+
+심었던
+	심/pvg+었/ep+던/etm
+
+구근에서
+	구근/ncn+에서/jca
+
+새싹을
+	새싹/ncn+을/jco
+
+틔워서
+	틔우/pvg+어서/ecs
+
+꽃이
+	꽃/ncn+이/jcc
+
+피었답니다
+	피/ncn+이/jp+었/ep+답니다/ef
+
+
+화단
+	화단/ncn
+
+한켠에
+	하/pvg+ㄴ/etm+켠/nbn+에/jca
+
+노오란
+	노오란/ncn
+
+민들레꽃도
+	민들레꽃/ncn+도/jxc
+
+보이네요~
+	보이/ncn+이/jp+네요/ef+~/sd
+
+
+울타리변엔
+	울타리/ncn+변/ncn+엔/jca
+
+개나리까지
+	개나리/ncn+까지/jxc
+
+?
+	?/sf
+
+
+조팝나무
+	조팝나무/ncn
+
+꽃까지
+	꽃/ncn+까지/jxc
+
+화사하게
+	화사/ncps+하/xsms+게/ecs
+
+피어있는
+	피/pvg+어/ecx+있/px+는/etm
+
+아파트
+	아파트/ncn
+
+단지
+	단지/mag
+
+꽃들이
+	꽃/ncn+들/xsncc+이/jcc
+
+아름답습니다
+	아름답/paa+습니다/ef
+
+
+요즘엔
+	요즘/ncn+엔/jca
+
+어느
+	어느/mmd
+
+단지를
+	단지/ncn+를/jco
+
+가더라도
+	가/px+더라도/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+꽃들이
+	꽃/ncn+들/xsncc+이/jcc
+
+많이
+	많/paa+이/xsa
+
+피어서
+	피/pvg+어서/ecs
+
+참
+	참/mag
+
+보기가
+	보/px+기/etn+가/jcs
+
+좋습니다
+	좋/paa+습니다/ef

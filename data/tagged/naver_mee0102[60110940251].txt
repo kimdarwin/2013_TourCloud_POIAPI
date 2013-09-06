@@ -1,0 +1,253 @@
+양평
+	양/xp+평/ncn
+
+세미원
+	세미/ncn+원/ncn
+
+에
+	에/pvg+어/ecx
+
+다녀왔어요~~
+	다니/pvg+어/ecx+오/px+아/ep+아/ef+~/sd+~/sd
+
+
+얼마전(2010.
+	얼마/ncn+전/xsnx+(/sl+2010./nnc
+
+7.
+	7./nnc
+
+6)부터
+	6/nnc+)/sr+부터/jxc
+
+세미원에서는
+	세미/ncn+원/ncn+에서/jca+는/jxc
+
+농산물교환권과
+	농산물/ncn+교환/ncpa+권/xsna+과/jct
+
+바꿀
+	바꾸/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+입장료(3,000원)을
+	입장료(3,000원)/ncn+을/jco
+
+받고
+	받/pvg+고/ecc
+
+있는데요,
+	있/paa+는데요/ef+,/sp
+
+
+충분히
+	충분히/mag
+
+받을만큼
+	받/pvg+을/etm+만큼/nbn
+
+잘
+	잘/mag
+
+꾸며놓았다는
+	꾸미/pvg+어/ecx+놓/px+아/ep+다/ef+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들더군요~
+	들/pvg+더군/ef+요/jxf+~/sd
+
+
+그리고
+	그리고/maj
+
+농산물교환권으로
+	농산물/ncn+교환/ncpa+권/ncn+으로/jca
+
+
+양평에서
+	양/xp+평/ncn+에서/jca
+
+직접
+	직접/mag
+
+기른
+	기르/pvg+ㄴ/etm
+
+토마토,
+	토마토/ncn+,/sp
+
+감자나
+	감자/ncn+나/jcj
+
+오이로
+	오/nnc+이/nnc+로/jca
+
+바꿔
+	바꾸/pvg+어/ecx
+
+갈
+	가/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있으니
+	있/paa+으니/ecc
+
+
+결국
+	결국/mag
+
+무료인셈이구요~
+	무료인셈이구요/ncn+~/sd
+
+
+현재
+	현재/mag
+
+세미원의
+	세미/ncn+원/ncn+의/jcm
+
+연꽃은
+	연꽃/ncn+은/jxc
+
+만개해
+	만개/ncpa+하/xsva+어/ecx
+
+절정을
+	절정/ncn+을/jco
+
+이루고
+	이루/pvg+고/ecc
+
+있어요~~
+	있/paa+어요/ef+~/sd+~/sd
+
+
+이른
+	이르/paa+ㄴ/etm
+
+새벽에
+	새벽/ncn+에/jca
+
+가면
+	가/px+면/ecs
+
+아침이슬을
+	아침이슬/ncn+을/jco
+
+머금고
+	머금/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+연꽃의
+	연꽃/ncn+의/jcm
+
+수줍은
+	수줍/paa+은/etm
+
+자태도
+	자태/ncn+도/jxc
+
+담을
+	담/ncn+을/jco
+
+수
+	수/nbn
+
+있을텐데요,
+	있/paa+을텐데요/ef+,/sp
+
+
+두물머리와
+	두물머리/ncn+와/jcj
+
+세미원은
+	세미/ncn+원/ncn+은/jxc
+
+오른쪽
+	오르/pvg+ㄴ/etm+쪽/nbn
+
+왼쪽
+	왼쪽/ncn
+
+하는
+	하/pvg+는/etm
+
+위치에
+	위치/ncn+에/jca
+
+있어서
+	있/px+어서/ecs
+
+세미원과
+	세미/ncn+원/ncn+과/jcj
+
+두물머리의
+	두물머리/ncn+의/jcm
+
+연꽃
+	연꽃/ncn
+
+모두
+	모두/mag
+
+보시는
+	보/px+시/ep+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋을
+	좋/paa+을/etm
+
+듯
+	듯/nbn
+
+해요~~
+	하/pvg+어요/ef+~/sd+~/sd
+
+
+세미원
+	세미/ncn+원/ncn
+
+
+경기도
+	경기/ncn+도/jxc
+
+양평군
+	양평군/ncn
+
+양서면
+	양서/ncn+면/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01285812",
+	"bl01285812",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"세미원",
+	title/f+:/sp+"/sl+세미/ncn+원/ncn+"/sr+,/sp
+
+pointX:340604,pointY:549061}
+	pointX/f+:/sp+340604/nnc+,/sp+pointY/f+:/sp+549061/nnc+}/sr

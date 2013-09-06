@@ -1,0 +1,806 @@
+우항리
+	우항리/ncn
+
+공룡박물관
+	공룡/ncn+박물관/ncn
+
+
+천연기념물
+	천연기념물/ncn
+
+제394호로
+	제394호/ncn+로/jca
+
+해남
+	하/pvg+어/ecx+나/px+ㅁ/etn
+
+우항리
+	우항리/ncn
+
+공룡,
+	공룡/ncn+,/sp
+
+익룡
+	익룡/ncn
+
+및
+	및/maj
+
+새발자국
+	새발자국/ncn
+
+화석산지인
+	화석/ncn+산지/ncn+이/jp+ㄴ/etm
+
+이곳은
+	이곳/npd+은/jxc
+
+
+단지
+	단지/mag
+
+화석산지로만의
+	화석/ncn+산지/ncn+로만/jca+의/jcm
+
+가치뿐만
+	가치/ncn+뿐/jxc+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+
+지질사의
+	지질/ncn+사의/ncn
+
+무수한
+	무수/ncn+한/ncn
+
+수수께끼를
+	수수께끼/ncn+를/jco
+
+간직하고
+	간직/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+소중한
+	소중/ncps+하/xsms+ㄴ/etm
+
+자연유산이랍니다
+	자연/ncn+유산/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+트래블아이
+	트래블아/ncn+이/jcc
+
+체험단이
+	체험/ncpa+단/ncn+이/jcc
+
+해남을
+	하/pvg+어/ecx+나/px+ㅁ/etn+을/jco
+
+찾은
+	찾/pvg+은/etm
+
+날,
+	날/nbu+,/sp
+
+
+해남에는
+	하/pvg+어/ecx+나/px+ㅁ/etn+에/jca+는/jxc
+
+첫
+	첫/nno
+
+눈이
+	눈/ncn+이/jcc
+
+내렸습니다
+	내리/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그것도
+	그것/npd+도/jxc
+
+아주
+	아주/mag
+
+펑
+	펑/mag
+
+!
+	!/sf
+
+
+펑
+	펑/mag
+
+!
+	!/sf
+
+
+한
+	하/pvg+ㄴ/etm
+
+해에
+	해/nbu+에/jca
+
+눈이
+	눈/ncn+이/jcc
+
+두세
+	두/nnc+세/nnc
+
+차례
+	차례/nbu
+
+밖에
+	밖/ncn+에/jca
+
+내리지
+	내리/pvg+지/ecx
+
+않는다는해남
+	않는다는해남/ncn
+
+.
+	./sf
+
+
+이때만은
+	이때/ncn+만은/jxc
+
+정말
+	정말/mag
+
+!
+	!/sf
+
+
+별볼
+	별볼/ncn
+
+일
+	일/nnc
+
+많은
+	많/paa+은/etm
+
+눈이었답니다
+	눈/ncn+이/jp+었/ep+답니다/ef
+
+.
+	./sf
+
+
+요
+	요/mmd
+
+눈이
+	눈/ncn+이/jcc
+
+트래블아이
+	트래블아/ncn+이/jcc
+
+체험단의
+	체험/ncpa+단/ncn+의/jcm
+
+1박2일을
+	1박2일/ncn+을/jco
+
+어떻게
+	어떻/pad+게/ecs
+
+따라다니는지가
+	따라다니/pvg+는/etm+지/nbn+가/jcc
+
+
+여행의
+	여행/ncpa+의/jcm
+
+숨은
+	숨/ncn+은/jxc
+
+포인트임을
+	포인트/ncn+이/jp+ㅁ/etn+을/jco
+
+숙지하면서
+	숙지/ncpa+하/xsva+면서/ecc
+
+
+자,
+	자/ii+,/sp
+
+그럼
+	그렇/pad+ㅁ/etn
+
+우항리
+	우항리/ncn
+
+공룡박물관으로
+	공룡/ncn+박물관/ncn+으로/jca
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+볼까요
+	보/px+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+트래블아이
+	트래블아/ncn+이/jcc
+
+체험단
+	체험/ncpa+단/ncn
+
+2호차를
+	2호차/ncn+를/jco
+
+담당하셨던
+	담당/ncpa+하/xsva+셨/ep+던/etm
+
+해설사님이
+	해설사님/ncn+이/jcc
+
+보이네요
+	보이/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+개인적으로는
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca+는/jxc
+
+1호차를
+	1호차/ncn+를/jco
+
+탔던지라
+	트/pvg+었/ep+던/etm+지/nbn+이/jp+라/ecs
+
+
+2호차
+	2호차/ncn
+
+담당
+	담당/ncpa
+
+해설사님의
+	해설사님/ncn+의/jcm
+
+해설은
+	해설/ncpa+은/jxc
+
+듣지못했지만,
+	듣/pvg+지/ecx+못하/px+었/ep+지만/ecs+,/sp
+
+
+해남
+	하/pvg+어/ecx+나/px+ㅁ/etn
+
+토박이로
+	토박이/ncn+로/jca
+
+시원시원한
+	시원시원하/paa+ㄴ/etm
+
+해설을
+	해설/ncpa+을/jco
+
+해주셨다는
+	하/pvg+어/ecx+주/px+셨/ep+다/ef+는/etm
+
+후문이~
+	후문/ncn+이/jcc+~/sd
+
+
+이곳은
+	이곳/npd+은/jxc
+
+공룡과학실입니다
+	공룡/ncn+과학실/ncn+이/jp+ㅂ니다/ef
+
+!
+	!/sf
+
+
+공룡에
+	공룡/ncn+에/jca
+
+관한
+	관하/pvg+ㄴ/etm
+
+발견과정과
+	발견/ncpa+과정/ncn+과/jcj
+
+상식,
+	상식/ncn+,/sp
+
+온혈과
+	온혈/ncn+과/jcj
+
+냉혈에관한
+	냉혈에관한/ncn
+
+연구,
+	연구/ncpa+,/sp
+
+
+초식공룡과
+	초식/ncpa+공룡/ncn+과/jcj
+
+육식공룡의
+	육식/ncn+공룡/ncn+의/jcm
+
+다양성
+	다양성/ncn
+
+비교자료를
+	비교자료/ncn+를/jco
+
+살펴볼
+	살피/pvg+어/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이죠
+	곳/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+우리
+	우리/npp
+
+체험단
+	체험/ncpa+단/ncn
+
+여러분들,
+	여러분들,/ncn
+
+바쁘게
+	바쁘/paa+게/ecs
+
+움직이며
+	움직이/pvg+며/ecc
+
+꼼꼼히
+	꼼꼼히/mag
+
+살펴보고
+	살피/pvg+어/ecx+보/px+고/ecc
+
+계시네요
+	계시/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+흐뭇~
+	흐뭇/ncn+~/sd
+
+
+중생대재현실입니다
+	중생대재현실입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+중생대를
+	중생/ncn+대/ncn+를/jco
+
+지배했던
+	지배/ncpa+하/xsva+었/ep+던/etm
+
+공룡의
+	공룡/ncn+의/jcm
+
+제왕인
+	제왕/ncr+이/jp+ㄴ/etm
+
+티라노사우르스가
+	티라노사우르스/ncn+가/jcs
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+초식동물인
+	초식동물/ncn+이/jp+ㄴ/etm
+
+에드몬토사우르스를
+	에드몬토사우르스/ncn+를/jco
+
+공격하는
+	공격/ncpa+하/xsva+는/etm
+
+
+장면을
+	장면/ncn+을/jco
+
+작동모형으로
+	작동모형/ncn+으로/jca
+
+연출해서
+	연출/ncpa+하/xsva+어서/ecs
+
+당시
+	당시/ncn
+
+공룡의
+	공룡/ncn+의/jcm
+
+생과
+	생/ncn+과/jcj
+
+사를
+	사/nnc+를/jco
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+구현한
+	구현/ncpa+하/xsva+ㄴ/etm
+
+장소였죠
+	장소/ncn+이/jp+었/ep+죠/ef
+
+.
+	./sf
+
+
+위에서
+	위/ncn+에서/jca
+
+내려다보니,
+	내려다보/pvg+니/ecs+,/sp
+
+새삼
+	새삼/ncn
+
+공포스런
+	공포/ncn+스런/jcm
+
+분위기가
+	분위기/ncn+가/jcs
+
+확~
+	확/ncn+~/sd
+
+느껴지네요
+	느끼/pvg+어/ecx+지/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+조각류
+	조각/ncn+류/xsncc
+
+공룡관
+	공룡/ncn+관/ncn
+
+이네요
+	이/npd+이/jp+네/ef+요/jxf
+
+.
+	./sf
+
+
+초식공룡의
+	초식/ncpa+공룡/ncn+의/jcm
+
+긴
+	길/paa+ㄴ/etm
+
+목을
+	목/ncn+을/jco
+
+형상화한
+	형상화/ncn+한/ncn
+
+터널의
+	터널/ncn+의/jcm
+
+개념으로
+	개념/ncn+으로/jca
+
+디자인했다고
+	디자인/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+하는데,
+	하/pvg+ㄴ데/ecs+,/sp
+
+
+조각류
+	조각/ncn+류/xsncc
+
+발자국
+	발자국/ncn
+
+외에도
+	외/nbn+에/jca+도/jxc
+
+중생대
+	중생/ncn+대/ncn
+
+백악기시대에
+	백악기/ncn+시대/ncn+에/jca
+
+형성된
+	형성/ncpa+되/xsvn+ㄴ/etm
+
+퇴적층도
+	퇴적층/ncn+도/jxc
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+물결이
+	물결/ncn+이/jcc
+
+보이냐
+	보이/pvg+냐/ef
+
+며
+	며/ncn
+
+외치시던
+	외치/pvg+시/ep+던/etm
+
+해설사님,
+	해설사님,/ncn
+
+고것이
+	고것/npd+이/jcc
+
+퇴적층이었죠
+	퇴적층/ncn+이/jp+었/ep+죠/ef
+
+.
+	./sf
+
+
+익룡조류관입니다
+	익룡조류관입니/ncn+이/jp+다/ef
+
+!
+	!/sf
+
+
+이곳에선
+	이곳/npd+에/jca+선/jxc
+
+아시아에서
+	아시아/ncn+에서/jca
+
+최초로
+	최초/ncn+로/jca
+
+발견된
+	발견/ncpa+되/xsvn+ㄴ/etm
+
+익룡
+	익룡/ncn
+
+발자국과
+	발자국/ncn+과/jcj
+
+세계에서
+	세계/ncn+에서/jca
+
+가장
+	가장/mag
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+물갈퀴새의
+	물갈퀴/ncn+새/ncn+의/jcm
+
+발자국을
+	발자국/ncn+을/jco
+
+
+확인할
+	확인/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+그런데,
+	그러/pvd+ㄴ데/ecs+,/sp
+
+솔직히그
+	솔직히그/ncn
+
+수가너무
+	수가너무/ncn
+
+많아서인지
+	많아/ncn+서/jca+이/jp+ㄴ지/ecs
+
+
+정말
+	정말/mag
+
+발자국이
+	발자국/ncn+이/jcc
+
+맞는지
+	맞/pvg+는지/ecs
+
+의심스러운
+	의심/ncpa+스럽/xsmn+은/etm
+
+마음이컸답니다
+	마음이컸답니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+열심히
+	열심히/mag
+
+메모하고,열심히
+	메모/ncpa+하고/jct+,/sp+열심/ncn+히/xsas
+
+찍으시는
+	찍/pvg+으시/ep+는/etm
+
+당신
+	당신/npp
+
+!
+	!/sf
+
+
+멋지십니다
+	멋지/paa+시/ep+ㅂ니다/ef
+
+
+(그렇게
+	(/sl+그렇/pad+게/ecs
+
+정신없이
+	정신/ncn+없이/jca
+
+메모하고
+	메모/ncpa+하고/jct
+
+찍어놓고선
+	찍/pvg+어/ecx+놓/px+고선/ecs
+
+후기
+	후/ncn+이/jp+기/etn
+
+안
+	알/pvg+ㄴ/etm
+
+올리시면
+	오/px+ㄹ/etm+리/nbn+이/jp+시/ep+면/ecs
+
+!
+	!/sf
+
+
+섭섭하죠~)
+	섭섭/ncps+하/xsms+죠/ef+~/sd+)/sr
+
+
+너~무
+	너/npp+~/sd+무/ncn
+
+귀엽지
+	귀엽/paa+지/ecx
+
+않나요
+	않/px+나/ef+요/jxf
+
+?
+	?/sf
+
+
+살아있다면
+	살/pvg+아/ecx+있/px+다면/ecs
+
+딱
+	딱/mag
+
+!
+	!/sf
+
+
+애완동물로
+	애완동물/ncn+로/jca
+
+키우고
+	키우/pvg+고/ecc
+
+싶다는
+	싶/px+다/ef+는/etm
+
+!
+	!/sf
+
+
+이
+	이/mmd
+
+말
+	말/ncn
+
+꼭
+	꼭/mag
+
+하고
+	하/pvg+고/ecc
+
+싶었답니다
+	싶/px+었/ep+답니다/ef
+
+.
+	./sf
+
+
+같은
+	같/paa+은/etm
+
+생각이셨던
+	생각/ncpa+이/jp+셨/ep+던/etm
+
+분들
+	불/pvg+ㄴ들/ecs
+
+계신
+	계시/paa+ㄴ/etm
+
+...
+	.../se
+
+
+거죠
+	거/ncn+이/jp+죠/ef
+
+?
+	?/sf

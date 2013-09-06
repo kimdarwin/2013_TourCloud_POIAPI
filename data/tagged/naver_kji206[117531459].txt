@@ -1,0 +1,1270 @@
+태하항목
+	태하항목/ncn
+
+관광모노레일
+	관광/ncpa+모노/ncn+레일/ncn
+
+
+(울릉군
+	(/sl+울릉군/ncn
+
+서면)
+	서면/ncn+)/sr
+
+
+어른
+	어른/ncn
+
+왕복
+	왕복/ncpa
+
+4000원
+	4000/nnc+원/nbu
+
+편도
+	편/nbn+도/jxc
+
+2200원
+	2200/nnc+원/nbu
+
+
+20인승
+	20인승/ncn
+
+카
+	크/paa+어/ecx
+
+2대가
+	2/nnc+대/nbu+가/jcc
+
+동시에
+	동시에/mag
+
+운행하는
+	운행/ncpa+하/xsva+는/etm
+
+모노레일은
+	모노/ncn+레일/ncn+은/jxc
+
+304M에
+	304M/ncn+에/jca
+
+각도가
+	각도/ncn+가/jcs
+
+39
+	39/nnc
+
+도,
+	도/ncn+,/sp
+
+분당
+	분당/ncpa
+
+50M의
+	50M/ncn+의/jcm
+
+속도로
+	속도/ncn+로/jca
+
+6분정도
+	6분정/ncn+도/jxc
+
+걸린다
+	걸리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+탑승하여
+	탑승/ncpa+하/xsva+어/ecx
+
+사진을
+	사진/ncn+을/jco
+
+담으니
+	담/pvg+으니/ecs
+
+아크릴
+	아크릴/ncn
+
+창문
+	창문/ncn
+
+색때문에
+	색때문/ncn+에/jca
+
+사진이
+	사진/ncn+이/jcc
+
+파랗게
+	파랗/paa+게/ecs
+
+나왔다
+	나오/pvg+아/ep+다/ef+./sf
+
+.
+	./sf
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc22/2010/11/30/1465/03101223C11953CE8FC3296973458F53FC6_kji206_logo.
+	net/blogucc22/2010/11/30/1465/03101223C11953CE8FC3296973458F53FC6_kji206_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'17.
+	'/sr+17./nnc
+
+179';
+	179/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'F3AC818C048E6888259B9FBAC37C07F8CBB8';
+	'F3AC818C048E6888259B9FBAC37C07F8CBB8/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V121408ec06465ac561167e48f7778b839e76fc9f160b8723653be355ab53d1a3b0e07e48f7778b839e76';
+	'V121408ec06465ac561167e48f7778b839e76fc9f160b8723653be355ab53d1a3b0e07e48f7778b839e76/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_05082
+	ugcPlayer_05082/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_05082'
+	VideoInfraUGCPlayer('ugcPlayer_05082'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_05082
+	ugcPlayer_05082/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+태하항
+	태하항/ncn
+
+전경을
+	전경/ncn+을/jco
+
+내려다보며
+	내려다보/pvg+며/ecc
+
+아찔한
+	아찔/ncps+하/xsms+ㄴ/etm
+
+각도의
+	각도/ncn+의/jcm
+
+모노레일
+	모노/ncn+레일/ncn
+
+,
+	,/sp
+
+스릴과
+	스릴/ncn+과/jcj
+
+양쪽
+	양쪽/ncn
+
+나무숲사이를
+	나무숲/ncn+사이/ncn+를/jco
+
+아슬하게
+	아슬하/ncn+이/jp+게/ecs
+
+올라간다
+	오르/pvg+아/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+금방
+	금방/mag
+
+올라오니
+	오르/pvg+아/ecx+오/px+니/ecs
+
+나무데크길과
+	나무/ncn+데크/ncn+길/ncn+과/jcj
+
+바닷가
+	바닷가/ncn
+
+전경이
+	전경/ncn+이/jcc
+
+한눈에
+	한눈/ncn+에/jca
+
+펼쳐진다
+	펼치/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+일몰시간은
+	일몰/ncpa+시간/ncn+은/jxc
+
+다가오고
+	다가오/pvg+고/ecc
+
+빛내림이
+	빛내/pvg+리/ep+ㅁ/etn+이/jcs
+
+이루어지는
+	이루/pvg+어/ecx+지/px+는/etm
+
+바다는
+	바다/ncn+는/jxc
+
+그
+	그/mmd
+
+어느때보다
+	어느때보다/ncn
+
+아름답다
+	아름답/paa+다/ef
+
+.
+	./sf
+
+
+멋진
+	멋지/paa+ㄴ/etm
+
+일몰이
+	일/nnc+몰/nbu+이/jcc
+
+기대된다
+	기대/pvg+어/ecx+되/px+ㄴ다/ef
+
+.
+	./sf
+
+
+숲길은
+	숲길/ncn+은/jxc
+
+동백나무로
+	동백나무/ncn+로/jca
+
+가득하고
+	가득/ncps+하고/jct
+
+흙길이
+	흙길/ncn+이/jcc
+
+반질
+	반질/ncn
+
+반질하여
+	반질하/ncn+이/jp+어/ecs
+
+걷기
+	걷/pvg+기/etn
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+길이다
+	길/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+울릉도
+	울릉/ncn+도/jxc
+
+는
+	늘/pvg+ㄴ/etm
+
+비탈진
+	비탈지/paa+ㄴ/etm
+
+지형
+	지형/ncn
+
+때문에
+	때문/nbn+에/jca
+
+어딜가나
+	어딜가/ncn+나/jcj
+
+농가
+	농/ncn+가/jcs
+
+에모노레일
+	에모노레일/ncn
+
+설치되어있다
+	설치/ncpa+되/xsvn+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+을릉도
+	을릉/ncn+도/jxc
+
+태하등대는
+	태하등대/ncn+는/jxc
+
+공사가
+	공사/ncn+가/jcs
+
+진행중이라
+	진행/ncpa+중/xsnx+이/jp+라/ecs
+
+항목전망대
+	항목/ncn+전망대/ncn
+
+데크길로
+	데크/ncn+길/ncn+로/jca
+
+..
+	./sf+./sf
+
+
+전망대
+	전망대/ncn
+
+
+울릉도
+	울릉/ncn+도/jxc
+
+북면
+	북면/ncpa
+
+전망이
+	전망/ncn+이/jcc
+
+한눈에
+	한눈/ncn+에/jca
+
+펼쳐진다
+	펼치/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+울릉도
+	울릉/ncn+도/jxc
+
+여행의
+	여행/ncpa+의/jcm
+
+백미중
+	백미/ncn+중/ncn
+
+하나가
+	하나/nnc+가/jcs
+
+어딜가나
+	어딜가/ncn+이/jp+나/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+절경이
+	절경/ncn+이/jcc
+
+펼쳐진다는거
+	펼쳐진다는거/ncn
+
+...
+	.../se
+
+
+바다가운데
+	바다/ncn+가운데/ncn
+
+코끼리바위와
+	코끼리/ncn+바위/ncn+와/jcj
+
+뽀족한
+	뽀족한/ncn
+
+송곳바위까지
+	송곳/ncn+바위/ncn+까지/jxc
+
+~~
+	~/sd+~/sd
+
+
+대풍감
+	대풍/ncn+감/ncn
+
+해안절벽
+	해안/ncn+절벽/ncn
+
+월간
+	월간/ncn
+
+'산'
+	'/sl+사/pvg+ㄴ/etm+'/sr
+
+지가
+	지/nbn+가/jcc
+
+추천하는한국
+	추천하는한국/ncn
+
+10대
+	10/nnc+대/nbu
+
+비경
+	비경/ncn
+
+중
+	중/nbn
+
+하나이며
+	하나/nnc+이/jp+며/ecc
+
+울릉도의
+	울릉도/ncn+의/jcm
+
+3대
+	3/nnc+대/nbu
+
+절경을
+	절경/ncn+을/jco
+
+제대로
+	제대로/mag
+
+감상할
+	감상/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+울릉
+	울릉/ncn
+
+대풍감
+	대풍/ncn+감/ncn
+
+향나무
+	향나무/ncn
+
+자생지
+	자생지/ncn
+
+(천연기념물
+	(/sl+천연기념물/ncn
+
+제49호)
+	제49호/ncn+)/sr
+
+
+향나무는
+	향나무/ncn+는/jxc
+
+일부
+	일/nnc+부/nbu
+
+지역
+	지역/ncn
+
+절벽지역에만
+	절벽/ncn+지역/ncn+에/jca+만/jxc
+
+남아
+	남/pvg+아/ecx
+
+있어
+	있/px+어/ecx
+
+천연기념물로
+	천연기념물/ncn+로/jca
+
+지정
+	지정/ncpa
+
+되었다
+	되/px+었/ep+다/ef
+
+
+울릉도
+	울릉/ncn+도/jxc
+
+향나무는
+	향나무/ncn+는/jxc
+
+육지와
+	육지/ncn+와/jct
+
+멀리
+	멀리/mag
+
+떨어져
+	떨어지/pvg+어/ecx
+
+자랐기에
+	자르/pvg+아/ep+기/etn+에/jca
+
+원종이그대로
+	원종이그대/ncn+로/jca
+
+남아
+	남/pvg+아/ecx
+
+있어
+	있/px+어/ecx
+
+향나무
+	향나무/ncn
+
+진화연구에
+	진화/ncpa+연구/ncpa+에/jca
+
+귀중한
+	귀중/ncps+하/xsms+ㄴ/etm
+
+학술적
+	학술/ncn+적/ncn
+
+자료가
+	자료/ncn+가/jcs
+
+되고
+	되/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+울릉도
+	울릉/ncn+도/jxc
+
+풍광을
+	풍광/ncn+을/jco
+
+아름답게
+	아름답/paa+게/ecs
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+향나무가
+	향나무/ncn+가/jcs
+
+한몫한다
+	한몫한다/ncn
+
+.
+	./sf
+
+
+일몰의반영을
+	일몰의반영/ncn+을/jco
+
+안은
+	안/mag+은/jxc
+
+구름이
+	구름/ncn+이/jcc
+
+유난히
+	유난히/mag
+
+아름답다
+	아름답/paa+다/ef
+
+.
+	./sf
+
+
+하산은
+	하산/ncpa+은/jxc
+
+모노레일
+	모노/ncn+레/ncn+이/jp+ㄹ/etm
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+일몰을
+	일/nnc+몰/nbu+을/jco
+
+만나기
+	만나/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+바닷가
+	바닷가/ncn
+
+산책로로
+	산책로/ncn+로/jca
+
+내려왔다
+	내리/pvg+어/ecx+오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+태하항
+	태하항/ncn
+
+마을
+	마을/ncn
+
+
+울릉도의가파르고
+	울릉도의가파르/ncn+이/jp+고/ecc
+
+극박한
+	극박한/ncn
+
+지형조건이
+	지형조건/ncn+이/jcc
+
+그대로
+	그대로/mag
+
+느껴진다
+	느끼/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+나선형으로된
+	나선형으로된/ncn
+
+생소한
+	생소/ncps+하/xsms+ㄴ/etm
+
+데크길로
+	데크/ncn+길/ncn+로/jca
+
+하산
+	하산/ncpa
+
+
+향토구미
+	향토/ncn+구미/ncn
+
+
+암반아래
+	암반/ncn+아래/ncn
+
+이렇게
+	이렇/pad+게/ecs
+
+황토층이
+	황토/ncn+층/ncn+이/jcc
+
+있다는게
+	있다는/ncn+게/jca
+
+신기하다
+	신기/ncps+하/xsms+어다/ecs
+
+...
+	.../se
+
+
+조선조
+	조선조/ncn
+
+때
+	때/ncn
+
+이곳
+	이곳/npd
+
+향토가
+	향토/ncn+가/jcs
+
+나라에
+	나라/ncn+에/jca
+
+상납되었으며
+	상납/ncn+되/xsvn+었/ep+으며/ecc
+
+3년에
+	3/nnc+년/nbu+에/jca
+
+한번씩
+	한번씩/ncn
+
+조정에서
+	조정/ncn+에서/jca
+
+삼척연장을
+	삼척연장/ncn+을/jco
+
+이
+	이/mmd
+
+섬에
+	서/pvg+ㅁ/etn+에/jca
+
+순찰을
+	순찰/ncpa+을/jco
+
+보내
+	보내/pvg+어/ecx
+
+이곳
+	이곳/npd
+
+향나무와
+	향나무/ncn+와/jcj
+
+향토를
+	향토/ncn+를/jco
+
+바치게
+	바치/pvg+게/ecs
+
+했다고
+	하/px+었/ep+다/ef+고/jcr
+
+전한다
+	전하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+어제
+	어제/ncn
+
+독도에서
+	독도/ncn+에서/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+멋진
+	멋지/paa+ㄴ/etm
+
+일몰과
+	일/nnc+몰/nbu+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+오늘도
+	오늘/ncn+도/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+아름다운
+	아름답/paa+은/etm
+
+사람들과
+	사람들/ncn+과/jct
+
+함께
+	함께/mag
+
+일몰을
+	일/nnc+몰/nbu+을/jco
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+해변가
+	해변/ncn+가/jcs
+
+암석에
+	암석/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+요리조리
+	요리조리/mag
+
+...
+	.../se
+
+
+웃음소리
+	웃음/ncn+소리/ncn
+
+가득하며
+	가득/ncps+하/xsms+며/ecc
+
+다양하게
+	다양/ncps+하/xsms+게/ecs
+
+담아본다
+	담/pvg+아/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+석양보다
+	석양/ncn+보다/jca
+
+연출하는
+	연출/ncpa+하/xsva+는/etm
+
+재미도
+	재미/ncn+도/jxc
+
+느끼며
+	느끼/pvg+며/ecc
+
+...
+	.../se
+
+
+이
+	이/mmd
+
+사진의원조를
+	사진/ncn+의원/ncr+조/ncn+를/jco
+
+강조하는이웃님
+	강조하는이웃님/ncn
+
+~
+	~/sd
+
+나는
+	나/npp+는/jxc
+
+덤으로
+	덤/ncn+으로/jca
+
+따라해본다
+	따르/pvg+아/ecx+하/px+어/ecx+보/px+ㄴ다/ef
+
+...
+	.../se
+
+
+좋은
+	좋/paa+은/etm
+
+사람들과의
+	사람들/ncn+과의/jcm
+
+일몰의
+	일/nnc+몰/nbu+의/jcm
+
+짧은
+	짧/paa+은/etm
+
+시간은
+	시간/nbu+은/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+좋은
+	좋/paa+은/etm
+
+추억과
+	추억/ncpa+과/jct
+
+긴
+	길/paa+ㄴ/etm
+
+여운으로
+	여운/ncn+으로/jca
+
+오랫동안
+	오랫동안/ncn
+
+기억될것
+	기억/ncpa+되/xsvn+ㄹ/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+어느새
+	어느새/mag
+
+태하항
+	태하항/ncn
+
+가로등
+	가로등/ncn
+
+불이
+	불/ncn+이/jcc
+
+하나
+	하나/nnc
+
+하나
+	하나/nnc
+
+켜지며
+	크/paa+어/ecx+지/px+며/ecc
+
+울릉도의
+	울릉도/ncn+의/jcm
+
+둘째날
+	둘째/nno+날/nbu
+
+밤이
+	밤/ncn+이/jcc
+
+저물어
+	저물/pvg+어/ecx
+
+가고
+	가/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+태하향목관광모노레일
+	태하향목관광모노레/ncn+이/jp+ㄹ/etm
+
+
+경상북도
+	경상/ncn+북/ncn+도/jxc
+
+울릉군
+	울릉군/ncn
+
+서면
+	서면/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01390320",
+	"bl01390320",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"2210462",
+	"/sl+2210462/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"태하향목관광모노레일",
+	title:"태하향목관광모노레일",/ncn
+
+pointX:648158,pointY:549729}
+	pointX/f+:/sp+648158/nnc+,/sp+pointY/f+:/sp+549729/nnc+}/sr

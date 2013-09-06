@@ -1,0 +1,32 @@
+Title:
+5/23 곰배령 트레킹 후기
+
+Date:
+2012.05.23
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(441645,'files/attach/images/64/982/220/f421f99815aceabee91d910636669946.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/c236f938796f92deb52b7285c71dd396.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/977dbbf9db583bfbfb8c251b47acc1f6.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/8419e3897f94d26c99dc65eb66bfcb74.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/e9b3a1ff3428cb3346a72da50dd24702.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/9909509c27a5faadfb053636b5edfcc4.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/bb0749ae29f17c45df351b68b9848c9c.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/d9a2fa7295dbb2269318bc6ec1245955.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/22839bd96c2eac67a5bf60538293662d.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/0dd793bb8b1270b09152e9b1e8ca9d50.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/29d6c102c8977027992007a7b8e95bde.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/0c456b58e2817604815b557cb79bae6b.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/56f58443bbaeca34d7e7b49cb2d1d367.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/3fad4f5b8cbaa020730501b60835f75d.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/5c6ad242320cb7c4832f4fff579731ab.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/0cea01b5bea9b625fcac940a34d34f10.jpg');
+list_gallery_add_image(441645,'files/attach/images/64/982/220/f47943cebdffc8e7c21d0dd78879cbb2.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+5월 23일(수), 아름다운 여행으로 곰배령 트레킹을 다녀왔습니다. 곰배령은 울창한 숲길과 시원한 강선계곡 그리고 다양한 야생화로 유명한 곳이죠. 방송에서 몇 번 소개된 후로 많은 사람들이 가보고 싶어하는 여행지 1순위에 당당히 이름을 올리고 있는 곳입니다.
+이번 곰배령 트레킹은 봄의 숲이 얼마나 싱그러울 수 있는지를 알려준 여행이었습니다. 하늘도 맑고 기온도 적당해서 트레킹을 즐기기에 더없이 좋은 날씨였습니다. 연둣빛 가득한 숲 사이로 투명하게 떨어지는 햇살과 그 숲 사이를 스치는 미풍이 아주 상쾌했습니다. 이런 좋은 계절과 날씨 덕에 힘든 줄도 모르고 곰배령에 올랐던 것 같습니다.
+계곡의 물소리도 활기찼고 여기저기 얼굴을 내밀고 있는 야생화도 봄의 숲에 활기를 더해주고 있었습니다. 이번 곰배령 여행에서는 벌께덩굴을 가장 많이 본 것 같네요. 그리고 조팝나무, 쥐오줌풀, 피나물, 홀아비 바람꽃, 광대수염, 금강애기나리 등도 꽃을 피우고 있었습니다. 꽃이 많진 않았지만 봄 숲의 정취가 좋아서 그리 아쉽지는 않았던 것 같습니다.
+이번 여행은 5월의 봄이 베푸는 싱그러움과 상쾌함을 만끽한 트레킹이었습니다. 그래도 곰배령 정상까지 왕복 8km를 걸으셔서 피곤을 느끼는 분도 계시리라 생각합니다. 빨리 여행의 피로를 털어내시고 남은 봄 활기차게 보내시기 바랍니다~
+이 게시물을...

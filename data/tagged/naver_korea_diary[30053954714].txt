@@ -1,0 +1,737 @@
+장봉도
+	장봉/ncn+도/jxc
+
+갯벌
+	갯벌/ncn
+
+여행
+	여행/ncpa
+
+
+-
+	-/sd
+
+인천
+	인천/ncn
+
+옹진군
+	옹진군/ncn
+
+북도면
+	북도/ncn+이/jp+면/ecs
+
+/
+	//sp
+
+장봉도
+	장봉도/ncn
+
+-
+	-/sd
+
+
+물과
+	물/ncn+과/jcj
+
+산을
+	산/ncn+을/jco
+
+가까이
+	가까이/mag
+
+하는
+	하/pvg+는/etm
+
+6월,
+	6/nnc+월/nbu+,/sp
+
+일상생활을
+	일상생활/ncpa+을/jco
+
+떨쳐버리고
+	떨치/pvg+어/ecx+버리/px+고/ecc
+
+어디론가
+	어디론/ncn+가/jcs
+
+떠나려
+	떠나/pvg+려/ecx
+
+한다면
+	하/pvg+ㄴ다면/ecs
+
+
+소박한
+	소박/ncn+한/ncn
+
+섬
+	서/pvg+ㅁ/etn
+
+장봉도에
+	장봉도/ncn+에/jca
+
+발을
+	발/ncn+을/jco
+
+닿아
+	닿/pvg+아/ecx
+
+보면
+	보/px+면/ecs
+
+좋을
+	좋/paa+을/etm
+
+듯싶다
+	듯싶다/ncn
+
+.
+	./sf
+
+
+일상에서
+	일상/ncn+에서/jca
+
+벗어나
+	벗/pvg+어/ecx+나/px+아/ecx
+
+자유를
+	자유/ncn+를/jco
+
+만끽함이란
+	만끽/ncpa+하/xsva+ㅁ/etn+이란/jxc
+
+생각만
+	생각/ncpa+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+아찔함이
+	아찔/ncps+하/xsms+ㅁ/etn+이/jcs
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+!
+	!/sf
+
+
+산을
+	산/ncn+을/jco
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+이는
+	이/npd+는/jxc
+
+가벼운
+	가볍/paa+은/etm
+
+산행을,
+	산행/ncn+을/jco+,/sp
+
+바다를
+	바다/ncn+를/jco
+
+그리워했던
+	그립/paa+어/ecx+하/px+었/ep+던/etm
+
+이는
+	이/npd+는/jxc
+
+바로
+	바로/mag
+
+물에
+	물/ncn+에/jca
+
+뛰어들
+	뛰어들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+그곳이
+	그곳/ncn+이/jcc
+
+
+바로
+	바로/mag
+
+인천에
+	인천/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+작은
+	작/paa+은/etm
+
+섬
+	서/pvg+ㅁ/etn
+
+장봉도이다
+	장봉도/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+장봉도는
+	장봉도/ncn+는/jxc
+
+인천연안에서
+	인천연안/ncn+에서/jca
+
+약
+	약/ncn
+
+36km
+	36km/ncn
+
+정도
+	정도/ncn
+
+떨어져
+	떨어지/pvg+어/ecx
+
+있으며
+	있/px+으며/ecc
+
+신도를
+	신도/ncn+를/jco
+
+거쳐
+	거치/pvg+어/ecx
+
+40분
+	40/nnc+분/nbu
+
+거리,
+	것/nbn+이/jp+리/ef+,/sp
+
+동서의
+	동서/ncn+의/jcm
+
+길이가
+	길이/ncn+가/jcs
+
+약
+	약/ncn
+
+8-9km,
+	8-9km,/ncn
+
+남북의
+	남북/ncn+의/jcm
+
+폭은
+	폭/nbu+은/jxc
+
+1-1.
+	1/nnc+-1./nnc
+
+5km에
+	5km/ncn+에/jca
+
+면적은
+	면적/ncn+은/jxc
+
+약
+	약/ncn
+
+6.
+	6./nnc
+
+7km이다
+	7km/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+국사봉을
+	국사/ncn+봉/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+해발
+	해발/ncn
+
+149m로
+	149m/ncn+로/jca
+
+동서로
+	동서/ncn+로/jca
+
+뻗어나
+	뻗어나/pvg+아/ecx
+
+높고
+	높/paa+고/ecc
+
+낮은
+	낮/paa+은/etm
+
+외줄기로
+	외줄기/ncn+로/jca
+
+길게
+	길/paa+게/ecs
+
+평형을
+	평형/ncpa+을/jco
+
+이루고
+	이루/pvg+고/ecc
+
+있으면서,
+	있/px+으면서/ecc+,/sp
+
+봉이
+	봉/ncn+이/jcc
+
+많다하여
+	많다하/ncn+이/jp+어/ecs
+
+장봉이라
+	장봉/ncn+이/jp+라/ecs
+
+불리게
+	불리/pvg+게/ecs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+삼목도를
+	삼목/ncn+도/ncn+를/jco
+
+멀리하고
+	멀/paa+ㄹ/etm+리/nbn+하고/jct
+
+신도를
+	신도/ncn+를/jco
+
+지나
+	지나/pvg+아/ecx
+
+멀곶을
+	멀곶/ncn+을/jco
+
+지날때
+	지나/pvg+ㄹ/etm+때/nbn
+
+쯤이면
+	쯤/ncn+이/jp+면/ecs
+
+장봉선착장에
+	장봉선착장/ncn+에/jca
+
+닿는다
+	닿/pvg+는다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+인어상이
+	인어/ncn+상/ncn+이/jcc
+
+있고
+	있/px+고/ecc
+
+옆에는
+	옆/ncn+에/jca+는/jxc
+
+장봉도와
+	장봉도/ncn+와/jcj
+
+민박안내
+	민박/ncn+안내/ncpa
+
+등
+	등/nbu
+
+방향표시가
+	방향/ncn+표시/ncn+가/jcs
+
+있는데
+	있/px+는데/ecs
+
+오른쪽으로는
+	오르/pvg+ㄴ/etm+쪽/nbn+으로/jca+는/jxc
+
+장봉
+	장봉/ncn
+
+1리
+	1/nnc+리/nbu
+
+1km,
+	1km,/ncn
+
+왼쪽으로는
+	왼쪽/ncn+으로/jca+는/jxc
+
+3.
+	3./nnc
+
+5km정도의
+	5km정도/ncn+의/jcm
+
+장봉2,
+	장봉2,/ncn
+
+3,
+	3/nnc+,/sp
+
+4리가
+	4/nnc+리/nbu+가/jcc
+
+위치해
+	위치/ncn+해/ncn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+선착장에서
+	선착장/ncn+에서/jca
+
+가까이
+	가까이/mag
+
+위치한
+	위치/ncn+한/ncn
+
+옹암해수욕장은
+	옹암해수욕장/ncn+은/jxc
+
+갯벌이
+	갯벌/ncn+이/jcc
+
+이루어지면
+	이루/pvg+어/ecx+지/px+면/ecs
+
+조개나
+	조개/ncn+나/jcj
+
+바지락
+	바지락/ncn
+
+등을
+	등/nbu+을/jco
+
+캘
+	캐/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+10분채
+	10분채/ncn
+
+못가서
+	못가서/ncn
+
+왼쪽으로
+	왼쪽/ncn+으로/jca
+
+백사장으로
+	백/nnc+사/nnc+장/nbu+으로/jca
+
+해수욕하기에
+	해수욕/ncn+하기/ncn+에/jca
+
+적합한
+	적합/ncn+한/ncn
+
+한들해수욕장과,
+	한들해수욕장과,/ncn
+
+계속
+	계속/mag
+
+가다
+	가/pvg+아/ecx
+
+300m
+	300m/ncn
+
+정도에
+	정도/ncn+에/jca
+
+이르면
+	이르/pvg+면/ecs
+
+마을이
+	마을/ncn+이/jcc
+
+나오는데
+	나/pvg+아/ecx+오/px+ㄴ데/ecs
+
+이곳에는
+	이곳/npd+에/jca+는/jxc
+
+면출장소,
+	면출장소,/ncn
+
+보건소,
+	보건소/ncn+,/sp
+
+농협
+	농협/ncn
+
+등이
+	등/nbu+이/jcc
+
+위치하여
+	위치/ncpa+하/xsva+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+마을에서
+	마을/ncn+에서/jca
+
+왼쪽으로
+	왼쪽/ncn+으로/jca
+
+가면
+	가/px+면/ecs
+
+해변이
+	해변/ncn+이/jcc
+
+나오며
+	나/pvg+아/ecx+오/px+며/ecc
+
+계속
+	계속/mag
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+야달선착장이다
+	야달선착장/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+무인도로
+	무인도/ncn+로/jca
+
+배낚시나
+	배낚시/ncn+나/jcj
+
+조개류
+	조개류/ncn
+
+등을
+	등/nbu+을/jco
+
+캐러
+	캐/pvg+러/ecs
+
+나갔다가
+	나/pvg+아/ecx+가/px+아/ep+다가/ecs
+
+들어오면서
+	들/pvg+어/ecx+오/px+면서/ecc
+
+주민들은
+	주민/ncn+들/ncn+은/jxc
+
+저울에
+	저울/ncn+에/jca
+
+대고
+	대/nbu+이/jp+고/ecc
+
+해산물을
+	해산물/ncn+을/jco
+
+넘기는
+	넘/pvg+기/etn+는/jxc
+
+것을
+	것/nbn+을/jco
+
+구경할
+	구경/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+야달선착장에서
+	야달선착장/ncn+에서/jca
+
+나와
+	나/npp+와/jct
+
+왼쪽으로
+	왼쪽/ncn+으로/jca
+
+계속
+	계속/mag
+
+가다보면
+	가/pvg+아/ecx+보/px+면/ecs
+
+보건소와
+	보건소/ncn+와/jcj
+
+면출장소가
+	면출장소/ncn+가/jcs
+
+함께
+	함께/mag
+
+위치하고
+	위치/ncn+하고/jct
+
+바로
+	바로/mag
+
+앞에는
+	앞/ncn+에/jca+는/jxc
+
+넓은
+	넓/paa+은/etm
+
+운동장과
+	운동장/ncn+과/jct
+
+함께
+	함께/mag
+
+장봉초등분교가
+	장봉초등분교/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+분교에서
+	분교/ncn+에서/jca
+
+계속
+	계속/mag
+
+가다보면
+	가/pvg+아/ecx+보/px+면/ecs
+
+포도재배
+	포도재배/ncpa
+
+밭을
+	밭/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+진촌교회
+	진촌교회/ncn
+
+앞
+	앞/ncn
+
+삼거리가
+	삼거리/ncn+가/jcs
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+왼쪽
+	왼쪽/ncn
+
+길로
+	길/ncn+로/jca
+
+쭉
+	쭉/mag
+
+300m정도
+	300m정/ncn+도/jxc
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+비포장도로가
+	비/xp+포장도로/ncn+가/jcs
+
+나오면서
+	나/pvg+아/ecx+오/px+면서/ecc
+
+녹음이
+	녹음/ncn+이/jcc
+
+짙은
+	짙/paa+은/etm
+
+숲에
+	숲/ncn+에/jca
+
+이른다
+	이르/paa+ㄴ다/ef
+
+.
+	./sf
+
+
+기사내용
+	기사내용/ncn
+
+전체보기
+	전체/ncn+보기/ncn

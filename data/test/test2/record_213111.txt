@@ -1,0 +1,27 @@
+Title:
+4/29 선자령 트레킹 후기
+
+Date:
+2012.04.30
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(407142,'files/attach/images/64/111/213/66c4565df4dfbdd536af8d6df63883ae.jpg');
+list_gallery_add_image(407142,'files/attach/images/64/111/213/4c2334ea2c87efeff8a959f97c426f06.jpg');
+list_gallery_add_image(407142,'files/attach/images/64/111/213/055235c62a29981326c2b3a61e4dc972.jpg');
+list_gallery_add_image(407142,'files/attach/images/64/111/213/fdc8bf0ae989fdbe29bc241937b10eb3.jpg');
+list_gallery_add_image(407142,'files/attach/images/64/111/213/62ef21e3d99a9bf110a678a6a2dc6977.jpg');
+list_gallery_add_image(407142,'files/attach/images/64/111/213/ccb44e4f5f31d75b6fb8dd94b480987a.jpg');
+list_gallery_add_image(407142,'files/attach/images/64/111/213/41bd1e330ae70d03117a41dfd8a7bed2.jpg');
+list_gallery_add_image(407142,'files/attach/images/64/111/213/1a60f46e560e1da3cd888f27619b6e04.jpg');
+list_gallery_add_image(407142,'files/attach/images/64/111/213/c9528aafa19964728582aa429fde087e.jpg');
+list_gallery_add_image(407142,'files/attach/images/64/111/213/eb0b3c0c42de91c048d3938e2652ca3f.jpg');
+list_gallery_add_image(407142,'files/attach/images/64/111/213/43257e20b0ec836cc9fd5139ba24b7d1.jpg');
+list_gallery_add_image(407142,'files/attach/images/64/111/213/fd49ee56f36139d5f200bfb48d7ace46.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+4월 29일(일), 아름다운 여행으로 선자령에 다녀왔습니다. 선자령은 겨울 눈꽃 트레킹으로 유명하지만 봄부터 가을까지 계절에 따라 수많은 야생화들이 피어나는 곳이기도 합니다. 또 시원한 능선길과 그 능선에 줄지어 서 있는 풍력기의 풍경 그리고 상쾌한 숲길과 계곡 등 다양한 풍경을 즐길 수 있는 길이기도 합니다. 사실 저는 개인적으로 겨울 선자령보다는 봄부터 가을까지의 선자령이 더 아름답더군요.
+선자령은 아직 완연한 봄은 아니었지만 초봄의 빛깔이 선명하게 수놓아져 있었습니다. 곳곳에 얼레지 군락이 펼쳐져 보라색 얼레지꽃이 지천으로 널려 있었습니다. 또 샛노란 꽃잎을 앙증맞게 열고 있는 노랑제비꽃과 여린 하늘색의 현호색도 무진장으로 피었더군요. 거기에 흰색 노루귀와 바람꽃 그리고 계곡가에는 노란 동의나물과 연두빛 괭이눈까지, 초봄의 꽃들이 앞다퉈 피어 있었습니다.
+아직 나무에 연두빛 이파리가 풍성하게 올라오지 않아 조금 썰렁한 느낌도 있었지만, 선자령길은 새 봄의 기운을 느끼기에 충분했던 것 같습니다. 이번 선자령 트레킹은 상큼한 봄 기운을 잘 느낀 트레킹이었습니다. 앞으로 선자령은 더 연두빛을 거쳐 진한 초록으로 바뀌면서 다양한 꽃들이 피고 지겠죠. 올해의 선자령은 어떤 풍경을 보여줄지 기대됩니다.
+이번 선자령 트레킹에 참가하신 분들 모두 여행의 피로 빨리 털어내시고 활기차게 봄을 즐기시기 바랍니다~
+이 게시물을...

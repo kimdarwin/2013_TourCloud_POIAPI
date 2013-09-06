@@ -1,0 +1,844 @@
+소재지
+	소재지/ncn
+
+:
+	:/sp
+
+전북
+	전/xp+북/ncn
+
+군산시
+	군산시/ncn
+
+개정면
+	개정/ncpa+면/ncn
+
+발산리
+	발산/ncpa+리/ncn
+
+45-1
+	45/nnc+-1/nnc
+
+
+(발산초등학교
+	(/sl+발산/ncpa+초등학교/ncn
+
+건물뒷뜰)
+	건물뒷뜰/ncn+)/sr
+
+
+옥구발산리석등
+	옥구발산리석등/ncn
+
+(보물
+	(/sl+보물/ncn
+
+제234호)
+	제234호/ncn+)/sr
+
+
+시대
+	시대/ncn
+
+:
+	:/sp
+
+통일신라
+	통일신라/ncn
+
+
+원래는
+	원래/mag+는/jxc
+
+완주지역에
+	완주/ncpa+지역/ncn+에/jca
+
+세워져
+	세우/pvg+어/ecx+지/px+어/ecx
+
+있던
+	있/px+던/etm
+
+석등으로,
+	석등/ncn+으로/jca+,/sp
+
+일제시대에
+	일제시대/ncn+에/jca
+
+지금의
+	지금/ncn+의/jcm
+
+자리로
+	자리/ncn+로/jca
+
+옮겨
+	옮기/pvg+어/ecx
+
+세웠다
+	세우/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+불을
+	불/ncn+을/jco
+
+켜두는
+	크/paa+어/ecx+두/px+는/etm
+
+곳인
+	곳/ncn+이/jp+ㄴ/etm
+
+화사석을
+	화사/ncps+석/ncn+을/jco
+
+중심으로,
+	중심/ncn+으로/jca+,/sp
+
+아래로는
+	아래/ncn+로/jca+는/jxc
+
+이를
+	이/npd+를/jco
+
+받쳐주는
+	받치/pvg+어/ecx+주/px+는/etm
+
+3단의
+	3/nnc+단/nbu+의/jcm
+
+받침돌을
+	받침/ncn+돌/ncn+을/jco
+
+두고,
+	두/pvg+고/ecc+,/sp
+
+위로는
+	위/ncn+로/jca+는/jxc
+
+지붕돌과
+	지붕/ncn+돌/ncn+과/jcj
+
+머리장식을
+	머리장식/ncpa+을/jco
+
+얹은
+	얹/pvg+은/etm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+받침의
+	받침/ncn+의/jcm
+
+가운데기둥은
+	가운데/ncn+기둥/ncn+은/jxc
+
+사각의
+	사각/ncn+의/jcm
+
+네
+	네/npp
+
+모서리를
+	모서리/ncn+를/jco
+
+둥글게
+	둥글/pvg+게/ecs
+
+깍은
+	깍/pvg+은/etm
+
+모습으로,
+	모습/ncn+으로/jca+,/sp
+
+표면에
+	표면/ncn+에/jca
+
+구름속을
+	구름/ncn+속/ncn+을/jco
+
+요동치는
+	요동/ncn+치/ncn+는/jxc
+
+용의
+	용의/ncn
+
+모습을
+	모습/ncn+을/jco
+
+새겼는데,
+	새기/pvg+었/ep+는데/ecs+,/sp
+
+
+이러한
+	이러하/pad+ㄴ/etm
+
+형태는
+	형태/ncn+는/jxc
+
+우리나라에서는
+	우리나라/ncn+에서/jca+는/jxc
+
+하나밖에
+	하나/nnc+밖에/jxc
+
+없는
+	없/paa+는/etm
+
+독특한
+	독특/ncps+하/xsms+ㄴ/etm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+화사석은
+	화사/ncps+석/ncn+은/jxc
+
+4각의
+	4각/ncn+의/jcm
+
+네
+	네/npp
+
+모서리를
+	모서리/ncn+를/jco
+
+둥글게
+	둥글/pvg+게/ecs
+
+깍아
+	깍/pvg+아/ecx
+
+8각을
+	8각/ncn+을/jco
+
+이루게
+	이루/pvg+게/ecs
+
+하였으며,
+	하/px+었/ep+으며/ecc+,/sp
+
+각
+	각/mma
+
+면에는
+	면/ncn+에/jca+는/jxc
+
+4개의
+	4/nnc+개/nbu+의/jcm
+
+창과
+	창/ncn+과/jcj
+
+사천왕상을
+	사천왕/ncn+상/ncn+을/jco
+
+번갈아
+	번갈아/mag
+
+두었다
+	두/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+사천왕은
+	사천왕/ncn+은/jxc
+
+불교의
+	불교/ncn+의/jcm
+
+법을
+	법/ncn+을/jco
+
+지키는
+	지키/pvg+는/etm
+
+신으로,
+	신/ncn+으로/jca+,/sp
+
+화사석에
+	화사/ncps+석/ncn+에/jca
+
+새겨놓아
+	새기/pvg+어/ecx+놓/px+아/ecx
+
+등불을
+	등불/ncn+을/jco
+
+보호하도록
+	보호/ncpa+하/xsva+도록/ecs
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+지붕돌은
+	지붕/ncn+돌/ncn+은/jxc
+
+8각으로,
+	8각으로,/ncn
+
+각
+	각/mma
+
+모서리선이
+	모서리/ncn+선/ncn+이/jcc
+
+뚜렷하고,
+	뚜렷/ncps+하고/jct+,/sp
+
+밑면의
+	밑면/ncn+의/jcm
+
+받침을
+	받치/pvg+ㅁ/etn+을/jco
+
+1단으로
+	1/nnc+단/nbu+으로/jca
+
+새겼으며,
+	새기/pvg+었/ep+으며/ecc+,/sp
+
+
+곡선을
+	곡선/ncn+을/jco
+
+그리는
+	그리/pvg+는/etm
+
+처마는
+	처마/ncn+는/jxc
+
+여덟
+	여덟/nnc
+
+귀퉁이에서의
+	귀퉁이/ncn+에서/jca+의/jcm
+
+치켜올림이
+	치켜올림/ncn+이/jcc
+
+시원하다
+	시원/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+꼭대기에는
+	꼭대기/ncn+에/jca+는/jxc
+
+연꽃무늬가
+	연꽃/ncn+무늬/ncn+가/jcs
+
+조각된
+	조각/ncn+되/xsvn+ㄴ/etm
+
+머리장식
+	머리장식/ncpa
+
+받침대를
+	받침대/ncn+를/jco
+
+마련해
+	마련/ncpa+하/xsva+어/ecx
+
+놓았으나,
+	놓/px+아/ep+나/ecs+,/sp
+
+머리장식은
+	머리장식/ncpa+은/jxc
+
+남아있지
+	남/pvg+아/ecx+있/px+지/ecx
+
+않다
+	않/px+다/ef
+
+.
+	./sf
+
+
+화사석의
+	화사/ncps+석/ncn+의/jcm
+
+사천왕상,
+	사천왕/ncn+상/xsncc+,/sp
+
+지붕돌의
+	지붕/ncn+돌/ncn+의/jcm
+
+양식
+	양식/ncn
+
+등은
+	등/nbu+은/jxc
+
+모두
+	모두/mag
+
+통일신라의
+	통일신라/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+잘
+	잘/mag
+
+간직하고
+	간직/ncpa+하고/jct
+
+있으나,
+	있/px+으나/ecs+,/sp
+
+받침부분의
+	받침/ncn+부분/ncn+의/jcm
+
+기둥이
+	기둥/ncn+이/jcc
+
+4각으로
+	4각/ncn+으로/jca
+
+옮아가고,
+	옮/pvg+아/ecx+가/px+고/ecc+,/sp
+
+화사석
+	화사/ncps+석/ncn
+
+역시
+	역시/mag
+
+4각을
+	4각/ncn+을/jco
+
+닮은
+	닮/pvg+은/etm
+
+8각으로
+	8각/ncn+으로/jca
+
+이루어져,
+	이루/pvg+어/ecx+지/px+어/ecs+,/sp
+
+8각에서
+	8각에서/ncn
+
+4각으로
+	4각/ncn+으로/jca
+
+변해가는
+	변하/pvg+어/ecx+가/px+는/etm
+
+과도기적
+	과도기/ncn+적/ncn
+
+모습들이
+	모습/ncn+들/ncn+이/jcc
+
+보여지고
+	보이/pvg+어/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+석등을
+	석등/ncn+을/jco
+
+만든
+	만들/pvg+ㄴ/etm
+
+시기도
+	시/nbu+이/jp+기/etn+도/jxc
+
+고려
+	고려/ncpa
+
+전기인
+	전기/ncn+이/jp+ㄴ/etm
+
+10세기경으로
+	10/nnc+세기/nbu+경/xsnu+으로/jca
+
+추측된다
+	추측/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+발산리
+	발산/ncpa+리/ncn
+
+5층석탑
+	5층석탑/ncn
+
+(보물
+	(/sl+보물/ncn
+
+제276호)시
+	제276호)시/ncn
+
+대
+	대/nbu
+
+고려시대
+	고려시대/ncn
+
+
+원래
+	원래/mag
+
+완주군
+	완주/ncpa+이/jp+군/ef
+
+고산면
+	고산/ncn+면/ncn
+
+삼기리
+	삼/pvg+기/etn+이/jp+리/ef
+
+봉림사
+	봉림사/ncn
+
+터에
+	터/nbn+에/jca
+
+있었는데,
+	있/px+었/ep+는데/ecs+,/sp
+
+일제시대에
+	일제시대/ncn+에/jca
+
+일본인
+	일본인/ncn
+
+농장주였던
+	농장주/ncn+이/jp+었/ep+던/etm
+
+시마따니에
+	시마따니/ncn+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+이
+	이/mmd
+
+곳으로
+	곳/ncn+으로/jca
+
+옮겨졌다
+	옮기/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+현재는
+	현재/ncn+는/jxc
+
+석등과
+	석등/ncn+과/jct
+
+함께
+	함께/mag
+
+발산초등학교
+	발산/ncpa+초등학교/ncn
+
+뒷뜰에
+	뒷뜰/ncn+에/jca
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+탑은
+	탑/ncn+은/jxc
+
+고려시대
+	고려시대/ncn
+
+석탑으로
+	석탑/ncn+으로/jca
+
+처음엔
+	처음/ncn+엔/jca
+
+이층
+	이/nnc+층/nbu
+
+기단
+	기단/ncn
+
+위에
+	위/ncn+에/jca
+
+세운
+	세우/pvg+ㄴ/etm
+
+5층
+	5/nnc+층/nbu
+
+석탑이었으나,
+	석탑/ncn+이/jp+었/ep+으나/ecs+,/sp
+
+지금은
+	지금/ncn+은/jxc
+
+탑신의
+	탑신/ncn+의/jcm
+
+한
+	하/pvg+ㄴ/etm
+
+층이
+	층/nbu+이/jcc
+
+없어지고
+	없/paa+어/ecx+지/px+고/ecc
+
+4층까지만
+	4/nnc+층/nbu+까지/jxc+만/jxc
+
+남아있다
+	남/pvg+아/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+아래
+	아래/ncn
+
+위
+	위/ncn
+
+기단
+	기단/ncn
+
+모두
+	모두/mag
+
+모서리와
+	모서리/ncn+와/jcj
+
+가운데에
+	가운데/ncn+에/jca
+
+기둥
+	기둥/ncn
+
+모양의
+	모양/ncn+의/jcm
+
+조각을
+	조각/ncn+을/jco
+
+두었으며,
+	두/nbu+이/jp+었/ep+으며/ecc+,/sp
+
+
+기단
+	기단/ncn
+
+위로
+	위/ncn+로/jca
+
+4층의
+	4/nnc+층/nbu+의/jcm
+
+탑신에는
+	탑신/ncn+에/jca+는/jxc
+
+각
+	각/mma
+
+층의
+	층/nbu+의/jcm
+
+몸돌마다
+	몸돌마다/ncn
+
+네
+	네/npp
+
+모서리에
+	모서리/ncn+에/jca
+
+기둥
+	기둥/ncn
+
+모양을
+	모양/ncn+을/jco
+
+새겨
+	새기/pvg+어/ecx
+
+놓았다
+	놓/px+아/ep+다/ef
+
+.
+	./sf
+
+
+지붕돌은
+	지붕/ncn+돌/ncn+은/jxc
+
+경사가
+	경사/ncr+가/jcc
+
+급하고
+	급하/paa+고/ecc
+
+추녀
+	추녀/ncn
+
+끝이
+	끝/ncn+이/jcc
+
+약간
+	약간/mag
+
+들려
+	들리/pvg+어/ecx
+
+곡선을
+	곡선/ncn+을/jco
+
+이루고
+	이루/pvg+고/ecc
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+밑에는
+	밑/ncn+에/jca+는/jxc
+
+3단의
+	3/nnc+단/nbu+의/jcm
+
+받침을
+	받치/pvg+ㅁ/etn+을/jco
+
+두어
+	두/pvg+어/ecx
+
+고려시대의
+	고려시대/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+탑
+	탑/ncn
+
+머리
+	머리/ncn
+
+부분에는
+	부분/ncn+에/jca+는/jxc
+
+머리
+	머리/ncn
+
+장식이
+	장식/ncpa+이/jcc
+
+일부
+	일/nnc+부/nbu
+
+남아
+	남/pvg+아/ecx
+
+있으나
+	있/px+으나/ecs
+
+훗날
+	훗날/ncn
+
+보충한
+	보충/ncpa+하/xsva+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+탑은
+	탑/ncn+은/jxc
+
+전체적으로
+	전체/ncn+적/ncn+으로/jca
+
+균형미가
+	균형/ncn+미/ncn+가/jcs
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+고려탑의
+	고려/ncpa+탑/ncn+의/jcm
+
+간결한
+	간결/ncn+한/ncn
+
+아름다움이
+	아름다움/ncn+이/jcc
+
+잘
+	잘/mag
+
+나타나
+	나타나/pvg+아/ecx
+
+있다(네이버백과에서
+	있다(네이버백과/ncn+에서/jca
+
+펌)
+	펌/ncn+)/sr

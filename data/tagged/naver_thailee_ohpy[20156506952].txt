@@ -1,0 +1,1222 @@
+[
+	[/sl
+
+하동여행
+	하동여행/ncn
+
+/
+	//sp
+
+수류화개
+	수류화개/ncn
+
+]
+	]/sr
+
+물이
+	물/ncn+이/jcc
+
+흐르고
+	흐르/pvg+고/ecc
+
+꽃이피는
+	꽃이피/ncn+는/jxc
+
+곳
+	곳/ncn
+
+-
+	-/sd
+
+하동
+	하동/ncn
+
+수류화개
+	수류화개/ncn
+
+
+하동
+	하동/ncn
+
+쌍계계곡
+	쌍계계곡/ncn
+
+초입에
+	초입/ncpa+에/jca
+
+못하나
+	못하/pvg+어/ecx+나/px+아/ecx
+
+쓰지
+	쓰/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+소나무
+	소나무/ncn
+
+편백나무,
+	편백/ncn+나무/ncn+,/sp
+
+황토를
+	황토/ncn+를/jco
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+전통방식
+	전통방식/ncn
+
+그대로
+	그대로/mag
+
+지은
+	지/px+ㄴ/etm
+
+자연과
+	자연/ncn+과/jct
+
+어우러진
+	어우러지/pvg+ㄴ/etm
+
+한옥
+	한옥/ncn
+
+
+지음새
+	지음/ncpa+새/ncn
+
+만큼이나
+	만큼/nbn+이/jp+나/ecs
+
+이름도
+	이름/ncn+도/jxc
+
+고운
+	곱/paa+은/etm
+
+매화당,
+	매화/ncn+당/ncn+,/sp
+
+국화당,
+	국화/ncn+당/ncn+,/sp
+
+별당,
+	별당/ncn+,/sp
+
+석류당,
+	석류/ncn+당/ncn+,/sp
+
+편백당,
+	편백/ncn+당/ncn+,/sp
+
+벚꽃당
+	벚꽃/ncn+당/ncn
+
+그리고
+	그리고/maj
+
+주인장
+	주인장/ncn
+
+가족이
+	가족/ncn+이/jcc
+
+사는
+	사/pvg+는/etm
+
+관리당
+	관리/ncn+당/ncn
+
+등
+	등/nbn
+
+
+멋들어진
+	멋들어지/paa+ㄴ/etm
+
+한옥7채를
+	한옥7채/ncn+를/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+수류화개(
+	수류화개(/ncn
+
+)
+	)/sr
+
+/
+	//sp
+
+송나라
+	송나라/ncn
+
+시인
+	시/nbu+이/jp+ㄴ/etm
+
+황산곡
+	황산/ncn+곡/ncn
+
+
+(만리청천)
+	(만리청천)/ncn
+
+구만리
+	구만리/ncn
+
+푸른
+	푸르/paa+ㄴ/etm
+
+하늘
+	하늘/ncn
+
+
+(운기래우)
+	(운기래우)/ncn
+
+구름
+	구름/ncn
+
+일고
+	일/pvg+고/ecc
+
+비
+	비/ncn
+
+내리네
+	내리/pvg+네/ef
+
+
+(공산무인)
+	(/sl+공산/ncn+무/ncn+이/jp+ㄴ/etm+)/sr
+
+사람
+	사람/ncn
+
+없는
+	없/paa+는/etm
+
+빈
+	비/paa+ㄴ/etm
+
+산
+	산/ncn
+
+
+(수류화개)
+	(수류화개)/ncn
+
+물
+	물/ncn
+
+흐르고
+	흐르/pvg+고/ecc
+
+꽃이
+	꽃/ncn+이/jcc
+
+피네
+	피/ncn+네/jcm
+
+
+수류화개(
+	수류화개(/ncn
+
+)
+	)/sr
+
+/
+	//sp
+
+법정스님
+	법정/ncn+스님/ncn
+
+
+사람은
+	사람/ncn+은/jxc
+
+어떤
+	어떤/mmd
+
+묵은데
+	묵/pvg+은/etm+데/nbn
+
+갇혀있으면
+	갇히/pvg+어/ecx+있/px+으면/ecs
+
+안
+	안/mag
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+꽃처럼
+	꽃/ncn+처럼/jca
+
+늘
+	늘/mag
+
+새롭게
+	새롭/paa+게/ecs
+
+피어날
+	피/pvg+어/ecx+나/px+ㄹ/etm
+
+수
+	수/nbn
+
+있어야
+	있/px+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+살아있는
+	살/pvg+아/ecx+있/px+는/etm
+
+꽃이라면
+	꽃/ncn+이라/jca+이/jp+면/ecs
+
+
+어제
+	어제/ncn
+
+핀
+	피/pvg+ㄴ/etm
+
+꽃과
+	꽃/ncn+과/jcj
+
+오늘
+	오늘/ncn
+
+핀
+	피/pvg+ㄴ/etm
+
+꽃은
+	꽃/ncn+은/jxc
+
+다르다
+	다르/paa+다/ef
+
+.
+	./sf
+
+
+새로운
+	새롭/paa+은/etm
+
+향기와
+	향기/ncn+와/jcj
+
+
+새로운
+	새롭/paa+은/etm
+
+빛을
+	빛/ncn+을/jco
+
+발산하기
+	발산/ncpa+하/xsva+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+일단
+	일/nnc+단/nbu
+
+어딘가에
+	어딘가/ncn+에/jca
+
+집착해
+	집착/ncpa+해/ncn
+
+
+그것이
+	그것/npd+이/jcc
+
+전부인
+	전부/ncn+이/jp+ㄴ/etm
+
+것
+	것/nbn
+
+처럼
+	처럼/ncn
+
+안주하면
+	안주/ncpa+하/xsva+면/ecs
+
+
+그
+	그/mmd
+
+웅덩이에
+	웅덩이/ncn+에/jca
+
+갇히고
+	갇히/pvg+고/ecc
+
+만다
+	말/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그러면
+	그러면/maj
+
+마치
+	마치/mag
+
+고여
+	고이/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+물처럼
+	물/ncn+처럼/jca
+
+썩기
+	썩/pvg+기/etn
+
+마련이다
+	마련/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+수류화개
+	수류화개/ncn
+
+석류당
+	석류/ncn+당/ncn
+
+
+이
+	이/mmd
+
+곳
+	곳/ncn
+
+하동한옥펜션의
+	하동한옥펜션/ncn+의/jcm
+
+이름이
+	이름/ncn+이/jcc
+
+수류화개이다
+	수류화개/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+이
+	이/mmd
+
+두
+	두/nnc
+
+시
+	시/nbu
+
+에서
+	에/pvg+어서/ecs
+
+따온
+	뜨/pvg+어/ecx+오/px+ㄴ/etm
+
+듯하다
+	듯하/paa+다/ef
+
+.
+	./sf
+
+
+수류화개
+	수류화개/ncn
+
+한옥
+	한옥/ncn
+
+펜션
+	펜션/ncn
+
+타임머신을
+	타임머신/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+조선시대
+	조선시대/ncn
+
+한
+	한/nnc
+
+마을에
+	마을/ncn+에/jca
+
+온
+	오/px+ㄴ/etm
+
+듯
+	듯/nbn
+
+고풍스럽다
+	고풍/ncn+스럽/xsmn+다/ef
+
+
+한옥도
+	한옥/ncn+도/jxc
+
+아름답지만
+	아름답/paa+지/ecx+말/px+ㄴ/etm
+
+전망도
+	전망/ncn+도/jxc
+
+훌륭하다
+	훌륭/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+어느
+	어느/mmd
+
+동에서든
+	동/nbu+에서/jca+든/jxc
+
+십리벚꽃길로
+	십리벚꽃길/ncn+로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+화개동천이
+	화개동천/ncn+이/jcc
+
+한눈에
+	한눈/ncn+에/jca
+
+들어온다
+	들/pvg+어/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+봄이면
+	보/px+ㅁ/etn+이/jp+면/ecs
+
+매화와
+	매화/ncn+와/jcj
+
+벚꽃이
+	벚꽃/ncn+이/jcc
+
+흐드러지고,
+	흐드러지/paa+고/ecc+,/sp
+
+
+가을이면
+	가을/ncn+이/jp+면/ecs
+
+국화가
+	국화/ncn+가/jcs
+
+만개하니,
+	만개/ncpa+하/xsva+니/ecs+,/sp
+
+물이
+	물/ncn+이/jcc
+
+흐르고
+	흐르/pvg+고/ecc
+
+꽃이
+	꽃/ncn+이/jcc
+
+핀다는
+	피/pvg+ㄴ다/ef+는/etm
+
+'수류화개'란
+	'수류화개'란/ncn
+
+이름이
+	이름/ncn+이/jcc
+
+딱
+	딱/mag
+
+알맞은
+	알맞/paa+은/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+수류화개
+	수류화개/ncn
+
+별당
+	별당/ncn
+
+
+황토흙벽에
+	황토/ncn+흙벽/ncn+에/jca
+
+EXPO
+	EXPO/f
+
+STAY
+	STAY/f
+
+
+2012여수
+	2012/nnc+여/xsnu+수/nbu
+
+세계박람회
+	세계박람회/ncn
+
+지정
+	지정/ncpa
+
+숙박업소로도
+	숙박업소/ncn+로/jca+도/jxc
+
+지정되어
+	지정/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+곳이다
+	곳/nbu+이/jp+다/ef
+
+
+한옥은
+	한옥/ncn+은/jxc
+
+독채로
+	독채/ncn+로/jca
+
+사용하게
+	사용/ncpa+하/xsva+게/ecs
+
+끔
+	끌/pvg+ㅁ/etn
+
+되어
+	되/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+2가족~3가족이
+	2가족~3가족/ncn+이/jcc
+
+함께
+	함께/mag
+
+하면
+	하/pvg+면/ecs
+
+예산도
+	예산/ncpa+도/jxc
+
+줄일
+	줄/nbn+이/jp+ㄹ/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+좋을듯
+	좋/paa+을/etm+듯/nbs
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+소규모
+	소규모/ncn
+
+단체나
+	단체/ncn+나/jcj
+
+회사워크샵
+	회사/ncn+워크샵/ncn
+
+장소로는
+	장소/ncn+로/jca+는/jxc
+
+이
+	이/mmd
+
+곳
+	곳/ncn
+
+만한
+	만/nnc+한/nnc
+
+곳이
+	곳/ncn+이/jcc
+
+없을
+	없/paa+을/etm
+
+듯
+	듯/nbn
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+이곳에
+	이곳/npd+에/jca
+
+들어서면
+	들어서/pvg+면/ecs
+
+마루는
+	마루/ncn+는/jxc
+
+대리석으로
+	대리석/ncn+으로/jca
+
+그리고
+	그리고/maj
+
+방은
+	방/ncn+은/jxc
+
+온돌체험을
+	온돌/ncn+체험/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있게
+	있/px+게/ecs
+
+되어
+	되/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+한옥의장점인
+	한옥/ncn+의장/ncr+점/ncn+이/jp+ㄴ/etm
+
+겨울에는
+	겨울/ncn+에/jca+는/jxc
+
+마루(거실)도
+	마루(거실)도/ncn
+
+방도
+	방/ncn+도/jxc
+
+뜨근뜨끈하고
+	뜨근뜨끈하/ncn+이/jp+고/ecc
+
+여름에는
+	여름/ncn+에/jca+는/jxc
+
+아주
+	아주/mag
+
+시원하다
+	시원/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+수류화개
+	수류화개/ncn
+
+석류당
+	석류/ncn+당/ncn
+
+마루
+	마루/ncn
+
+
+수류화개
+	수류화개/ncn
+
+석류당
+	석류/ncn+당/ncn
+
+마루
+	마루/ncn
+
+
+수류화개
+	수류화개/ncn
+
+석류당
+	석류/ncn+당/ncn
+
+마루
+	마루/ncn
+
+
+외국사람이
+	외국/ncn+사람/ncn+이/jcc
+
+와도
+	오/px+아/ecs
+
+가능하면
+	가능/ncps+하/xsms+면/ecs
+
+온돌체험을
+	온돌/ncn+체험/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+침대를
+	침대/ncn+를/jco
+
+권하지
+	권하/pvg+지/ecx
+
+않지만
+	않/px+지만/ecs
+
+혹
+	혹/mag
+
+불편해
+	불편/ncn+해/ncn
+
+하는
+	하/pvg+는/etm
+
+분들분들
+	분들분들/ncn
+
+때
+	때/ncn
+
+침대도
+	침대/ncn+도/jxc
+
+구비해
+	구비/ncn+해/ncn
+
+
+놓았다고
+	놓/px+아/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+한옥은
+	한옥/ncn+은/jxc
+
+웰빙바람을
+	웰빙바람/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+그
+	그/mmd
+
+우수성을
+	우수성/ncn+을/jco
+
+인정받고
+	인정/ncpa+받/xsva+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+한옥의
+	한옥/ncn+의/jcm
+
+주재료인
+	주재료/ncn+이/jp+ㄴ/etm
+
+편백나무와
+	편백/ncn+나무/ncn+와/jcj
+
+소나무,
+	소나무/ncn+,/sp
+
+황토흙인
+	황토/ncn+흙/ncn+이/jp+ㄴ/etm
+
+친환경적인
+	친환경적/ncn+이/jp+ㄴ/etm
+
+재료를
+	재료/ncn+를/jco
+
+
+이용해서
+	이용/ncpa+해서/ncn
+
+집을
+	집/ncn+을/jco
+
+짓기
+	짓/pvg+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+향기도
+	향기/ncn+도/jxc
+
+좋고
+	좋/paa+고/ecc
+
+원적외선
+	원적외선/ncn
+
+방출
+	방출/ncpa
+
+및
+	및/maj
+
+보온효과
+	보온/ncpa+효과/ncn
+
+습도조절
+	습도/ncn+조절/ncpa
+
+효과등도
+	효과/ncn+등/ncn+도/jxc
+
+탁월하다
+	탁월/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+한옥
+	한옥/ncn
+
+앞
+	앞/ncn
+
+텃밭에는
+	텃밭/ncn+에/jca+는/jxc
+
+제철
+	제철/ncn
+
+야채
+	야채/ncn
+
+들이
+	들/nbn+이/jcc
+
+가득해서
+	가득/ncps+하/xsms+어서/ecs
+
+바베큐
+	바베큐/ncn
+
+시
+	시/nbu
+
+상추등
+	상추/ncn+등/ncn
+
+야채를
+	야채/ncn+를/jco
+
+직접
+	직접/mag
+
+따서
+	따/pvg+아/ecx
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+배려
+	배/ncn+이/jp+려/ecs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+수류화개
+	수류화개/ncn
+
+별당
+	별당/ncn
+
+
+수류화개
+	수류화개/ncn
+
+매화당
+	매화/ncn+당/ncn
+
+
+또한
+	또한/maj
+
+한옥에서가장
+	한옥에서가장/ncn
+
+불편했던
+	불편/ncps+하/xsms+었/ep+던/etm
+
+취사를
+	취사/ncn+를/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+주방공간과
+	주방/ncn+공간/ncn+과/jcj
+
+샤워실
+	샤워실/ncn
+
+및
+	및/maj
+
+화장실은
+	화장실/ncn+은/jxc
+
+현대식으로
+	현대/ncn+식/ncn+으로/jca
+
+잘
+	잘/mag
+
+갖추어져
+	갖추/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+얼마
+	얼마/ncn
+
+전
+	전/nbn
+
+이곳
+	이곳/npd
+
+수류화개에서
+	수류화개/ncn+에서/jca
+
+SBS
+	SBS/f
+
+짝
+	짝/nbn
+
+애정촌을
+	애정/ncn+촌/ncn+을/jco
+
+촬영했다
+	촬영/ncpa+하/xsva+었/ep+다/ef
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+한옥
+	한옥/ncn
+
+어느곳에서든
+	어느곳에서든/ncn
+
+앞이
+	앞/ncn+이/jcc
+
+탁
+	탁/mag
+
+트여
+	트이/pvg+어/ecx
+
+걸림이
+	걸리/pvg+ㅁ/etn+이/jcs
+
+전혀
+	전혀/mag
+
+없어
+	없/paa+어/ecx
+
+하동의
+	하동/ncn+의/jcm
+
+아름다운
+	아름답/paa+은/etm
+
+자연을만날
+	자연을만날/ncn
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+더
+	더/mag
+
+없이
+	없이/mag
+
+좋은
+	좋/paa+은/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+수류화개
+	수류화개/ncn
+
+
+경남
+	경남/ncn
+
+하동군
+	하동군/ncn
+
+화개면
+	화개/ncn+이/jp+면/ecs
+
+탑리
+	탑리/ncn
+
+539-2
+	539/nnc+-2/nnc
+
+
+055)
+	055/nnc+)/sr
+
+882-7706
+	882/nnc+-7706/nnc
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+sooryu.
+	sooryu/f+./sy
+
+co.
+	co/f+./sy
+
+kr/
+	kr/f+//sp

@@ -1,0 +1,379 @@
+6.
+	6./nnc
+
+25
+	25/nnc
+
+전쟁
+	전쟁/ncpa
+
+60주년을
+	60/nnc+주년/nbu+을/jco
+
+맞이하여
+	맞이/ncpa+하/xsva+어/ecx
+
+평화로
+	평화/ncn+로/jca
+
+하나되는
+	하/pvg+어/ecx+나/px+아/ecx+되/px+는/etm
+
+2010
+	2010/nnc
+
+계룡세계
+	계룡/ncn+세계/ncn
+
+군문화축제(www.
+	군문화축제(www./ncn
+
+armyfest.
+	armyfest/f+./sy
+
+or.
+	or/f+./sy
+
+kr)
+	kr/f+)/sr
+
+
+2010
+	2010/nnc
+
+지상군
+	지상군/ncn
+
+페스티벌(2910
+	페스티벌(2910/ncn
+
+.
+	./sf
+
+
+10
+	10/nnc
+
+.
+	./sf
+
+
+1~
+	1/nnc+~/sd
+
+10.5)
+	10.5/nnc+)/sr
+
+충남
+	충남/ncn
+
+계룡시
+	계룡/ncn+시/ncn
+
+계룡대
+	계룡/ncn+대/ncn
+
+일원에서
+	일/nnc+원/nbu+에서/jca
+
+열린다
+	열리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+도심
+	돌/pvg+시/ep+ㅁ/etn
+
+곳곳에는
+	곳곳/ncn+에/jca+는/jxc
+
+축제를
+	축제/ncn+를/jco
+
+알리는
+	알리/pvg+는/etm
+
+플랜카드와
+	플랜/ncn+카드/ncn+와/jcj
+
+만국기
+	만국기/ncn
+
+가
+	가/jcs
+
+걸려있다
+	걸리/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+강한
+	강하/paa+ㄴ/etm
+
+군대,
+	군대/ncn+,/sp
+
+위풍당당
+	위풍/ncn+당당/ncn
+
+강한
+	강하/paa+ㄴ/etm
+
+육군,
+	육군/ncn+,/sp
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+육군을
+	육군/ncn+을/jco
+
+직접
+	직접/mag
+
+체험할수
+	체험/ncpa+하/xsva+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+최대의
+	최대/ncn+의/jcm
+
+기회
+	기회/ncn
+
+
+군악
+	군악/ncn
+
+.
+	./sf
+
+
+의장공연:
+	의장/ncr+공연/ncps+:/sp
+
+국내:
+	국내/ncn+:/sp
+
+육해공군
+	육해공군/ncn
+
+군악,의장대,
+	군악/ncn+,/sp+의장대/ncn+,/sp
+
+국방부
+	국방부/ncn
+
+여군의장대,
+	여군/ncn+의장대/ncn+,/sp
+
+국방부
+	국방부/ncn
+
+전통의장대
+	전통/ncn+의장대/ncn
+
+
+국외:
+	국외/ncn+:/sp
+
+6.25
+	6.25/nnc
+
+전쟁
+	전쟁/ncpa
+
+UN참전국
+	UN참전국/ncn
+
+(7~8객국,
+	(7~8객국,/ncn
+
+400여명)
+	400/nnc+여/xsnu+명/nbu+)/sr
+
+
+일반공연:
+	일반/ncn+공연/ncpa+:/sp
+
+개,
+	개/nbu+,/sp
+
+폐막식
+	폐막식/ncn
+
+퍼포먼스,
+	퍼포먼스/ncn+,/sp
+
+3군
+	3/nnc+군/nbu
+
+창작공연,
+	창작/ncpa+공연/ncps+,/sp
+
+민간마칭
+	민간마칭/ncn
+
+공연,
+	공연/ncps+,/sp
+
+민간의장행사
+	민간/ncn+의장행사/ncpa
+
+
+시범:
+	시범/ncpa+:/sp
+
+전통,
+	전통/ncn+,/sp
+
+특공무술시범,
+	특공/ncn+무술/ncn+시범/ncpa+,/sp
+
+헌벙싸이카
+	헌벙싸이카/ncn
+
+
+"강한
+	"/sl+강하/paa+ㄴ/etm
+
+육군"을
+	육군/ncn+"/sr+을/jco
+
+직접
+	직접/mag
+
+체험할
+	체험/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+최대의
+	최대/ncn+의/jcm
+
+기회
+	기회/ncn
+
+
+체험:
+	체험/ncpa+:/sp
+
+병영훈련체험,
+	병영/ncn+훈련/ncpa+체험/ncpa+,/sp
+
+1박2일
+	1박2/ncn+이/jp+ㄹ/etm
+
+야영체험,
+	야영/ncpa+체험/ncpa+,/sp
+
+장비탐승체험,
+	장비탐승체험,/ncn
+
+병영식사체험,
+	병영/ncn+식사/ncpa+체험/ncpa+,/sp
+
+계룡대
+	계룡/ncn+대/ncn
+
+영내투어,
+	영내/ncn+투어/ncn+,/sp
+
+안보창작대회
+	안보/ncn+창작/ncpa+대회/ncn
+
+등
+	등/nbn
+
+
+시범/이벤트:
+	시범/ncpa+//sp+이벤트/ncn+:/sp
+
+특공무술시범,
+	특공/ncn+무술/ncn+시범/ncpa+,/sp
+
+고공강하시범,
+	고공/ncn+강하/ncpa+시범/ncpa+,/sp
+
+헬기레벨/패스트로프
+	헬기/ncn+레벨/ncn+//sp+패스트/ncn+로프/ncn
+
+시범,
+	시범/ncpa+,/sp
+
+테마페레이드,
+	테마페레이드,/ncn
+
+건강수호천사,
+	건강/ncps+수호천사/ncn+,/sp
+
+연예병사팬사인회
+	연예병사팬사인회/ncn
+
+등
+	등/nbn
+
+
+전시회:
+	전시회/ncn+:/sp
+
+정예육군관,
+	정예/ncn+육군/ncn+관/ncn+,/sp
+
+무기/장비전시/
+	무기/ncn+//sp+장비/ncpa+전시/ncpa+//sp
+
+과학화
+	과학/ncn+화/ncn
+
+훈련관,
+	훈련/ncpa+관/ncn+,/sp
+
+벤처국방마트,
+	벤처국방마트,/ncn
+
+진중창작작품
+	진중/ncps+창작작품/ncn
+
+전시회
+	전시회/ncn
+
+등
+	등/nbn
+
+
+행사일정
+	행사일정/ncn
+
+
+군문화축제
+	군문화축제/ncn
+
+홈페이지
+	홈페이지/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+armyfest.
+	armyfest/f+./sy
+
+or.
+	or/f+./sy
+
+kr
+	kr/f
+
+
+찾아가는길
+	찾아가는길/ncn

@@ -1,0 +1,593 @@
+울릉도여행~
+	울릉도여행/ncn+~/sd
+
+
+석포일출일몰전망대에서
+	석포/ncn+일출/ncpa+일몰/ncpa+전망대/ncn+에서/jca
+
+차로
+	차/ncn+로/jca
+
+이동한곳은
+	이동/ncn+한곳/ncn+은/jxc
+
+삼선암이다
+	삼선/ncpa+암/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+북쪽
+	북쪽/ncn
+
+해안에
+	해안/ncn+에/jca
+
+솟아
+	솟/pvg+아/ecx
+
+있는
+	있/px+는/etm
+
+세개의바위
+	세개의바위/ncn
+
+삼선암
+	삼선/ncpa+암/ncn
+
+.
+	./sf
+
+
+선녀
+	선녀/ncn
+
+세명이
+	세/nnc+명/nbu+이/jcc
+
+내려왔다가
+	내리/pvg+어/ecx+오/px+아/ep+다가/ecs
+
+울릉도의
+	울릉도/ncn+의/jcm
+
+빼어난
+	빼/pvg+어/ecx+나/px+ㄴ/etm
+
+경치에
+	경치/ncn+에/jca
+
+반해
+	반하/pvg+어/ecx
+
+하늘로
+	하늘/ncn+로/jca
+
+올라갈
+	오르/pvg+아/ecx+가/px+ㄹ/etm
+
+시간을
+	시간/ncn+을/jco
+
+놓쳐
+	놓치/pvg+어/ecs
+
+
+옥황상제의
+	옥황상제/ncn+의/jcm
+
+노여움으로
+	노여움/ncn+으로/jca
+
+세개의
+	세/nnc+개/nbu+의/jcm
+
+바위가
+	바위/ncn+가/jcs
+
+되었다는
+	되/pvg+었/ep+다/ef+는/etm
+
+전설이
+	전설/ncn+이/jcc
+
+있는곳이다
+	있는곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+삼선암을
+	삼선/ncpa+암/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+선창포구쪽으로
+	선창/ncn+포구/ncn+쪽/ncn+으로/jca
+
+들어가는길
+	들어가는길/ncn
+
+.
+	./sf
+
+
+기암사이로
+	기암/ncn+사이/ncn+로/jca
+
+도로가
+	도로/ncn+가/jcs
+
+나
+	나/pvg+아/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+버스타고
+	버스/ncn+타/ncn+이/jp+고/ecc
+
+가면서
+	가/px+면서/ecc
+
+도
+	도/ncn
+
+카메라
+	카메라/ncn
+
+셔터를
+	셔터/ncn+를/jco
+
+계속
+	계속/mag
+
+눌러본다
+	누르/pvg+어/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이제야제대로
+	이제야제대/ncn+로/jca
+
+보이는
+	보이/pvg+는/etm
+
+삼선암의
+	삼선/ncpa+암/ncn+의/jcm
+
+모습
+	모습/ncn
+
+
+울릉도의
+	울릉도/ncn+의/jcm
+
+3대
+	3/nnc+대/nbu
+
+해안
+	해안/ncn
+
+절경중에서도
+	절경/ncn+중/ncn+에서/jca+도/jxc
+
+손에
+	손/ncn+에/jca
+
+꼽는
+	꼽/pvg+는/etm
+
+명소이다
+	명소/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+바위
+	바위/ncn
+
+세개중에
+	세/nnc+개/nbu+중/xsnx+에/jca
+
+두개는
+	두/nnc+개/nbu+는/jxc
+
+나란히
+	나란히/mag
+
+붙어있고
+	붙/pvg+어/ecx+있/px+고/ecc
+
+하나는
+	하나/nnc+는/jxc
+
+조금
+	조금/mag
+
+떨어져
+	떨어지/pvg+어/ecx
+
+있는데
+	있/px+는데/ecs
+
+떨어져있는
+	떨어지/pvg+어/ecx+있/px+는/etm
+
+바위의
+	바위/ncn+의/jcm
+
+끝이
+	끝/ncn+이/jcc
+
+갈라진
+	가르/pvg+아/ecx+지/px+ㄴ/etm
+
+형태라서
+	형태/ncn+라서/jxc
+
+
+이
+	이/mmd
+
+바위만
+	바위/ncn+만/jxc
+
+가위바위라고
+	가위/ncn+바위/ncn+이/jp+라/ef+고/jcr
+
+불리는데
+	불리/pvg+ㄴ데/ecs
+
+이
+	이/mmd
+
+가위
+	가위/ncn
+
+바위는
+	바위/ncn+는/jxc
+
+세명의
+	세/nnc+명/nbu+의/jcm
+
+선녀중
+	선녀/ncn+중/ncn
+
+막내라고
+	막내/ncn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+선창포구
+	선창/ncn+포구/ncn
+
+쪽으로
+	쪽/ncn+으로/jca
+
+들어갔더니
+	들/pvg+어/ecx+가/px+아/ep+니/ecs
+
+도로는
+	도/ncn+로/jca+는/jxc
+
+막바지로
+	막바지/ncn+로/jca
+
+끊기고죽도가
+	끊기고죽도/ncn+가/jcs
+
+보였다
+	보이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+근데
+	근데/ncn
+
+가까이
+	가까이/mag
+
+있던
+	있/px+던/etm
+
+관음도는
+	관음도/ncn+는/jxc
+
+안보이고
+	안보/ncn+이/jp+고/ecc
+
+....
+	.../se+./sy
+
+??
+	?/sf+?/sf
+
+
+해안선의
+	해안선/ncn+의/jcm
+
+굴곡으로
+	굴곡/ncn+으로/jca
+
+가깝게
+	가깝/paa+게/ecs
+
+보이던곳도
+	보이던곳/ncn+도/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+금방
+	금방/mag
+
+사라진다
+	사라지/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+인적드문
+	인적드문/ncn
+
+막바지
+	막바지/ncn
+
+포구엔
+	포구/ncn+엔/jca
+
+깍아내린
+	깍/pvg+아/ecx+내리/px+ㄴ/etm
+
+기암위로
+	기암/ncn+위/ncn+로/jca
+
+단풍이
+	단풍/ncn+이/jcc
+
+아름다운
+	아름답/paa+은/etm
+
+색을
+	색/ncn+을/jco
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+파란
+	파랗/paa+은/etm
+
+하늘과
+	하늘/ncn+과/jct
+
+함께
+	함께/mag
+
+한폭의
+	한/nnc+폭/nbu+의/jcm
+
+풍경화
+	풍경/ncn+화/ncn
+
+처럼
+	처럼/ncn
+
+잘
+	잘/mag
+
+어울리는
+	어울리/pvg+는/etm
+
+기암은
+	기암/ncn+은/jxc
+
+태고의
+	태고/ncn+의/jcm
+
+흔적을
+	흔적/ncn+을/jco
+
+간직한듯
+	간직/ncpa+하/xsva+ㄴ/etm+듯/nbs
+
+우람한
+	우람/ncps+하/xsms+ㄴ/etm
+
+모습까지
+	모습/ncn+까지/jxc
+
+갖추고
+	갖추/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+방파제에서
+	방파제/ncn+에서/jca
+
+잠시
+	잠시/mag
+
+파도
+	파/nbu+도/jxc
+
+소리와
+	소리/ncn+와/jcj
+
+바람의
+	바람/ncn+의/jcm
+
+청정한
+	청정/ncpa+하/xsva+ㄴ/etm
+
+소리에
+	소리/ncn+에/jca
+
+젖어
+	젖/pvg+어/ecx
+
+본다
+	보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+나오면서
+	나/pvg+아/ecx+오/px+면서/ecc
+
+기암사이로
+	기암/ncn+사이/ncn+로/jca
+
+난
+	나/px+ㄴ/etm
+
+삼선암
+	삼선/ncpa+암/ncn
+
+풍경이
+	풍경/ncn+이/jcc
+
+절경이라
+	절경/ncn+이/jp+라/ecs
+
+다시
+	다시/mag
+
+담아본다
+	담/pvg+아/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+보는
+	보/px+는/etm
+
+각도에
+	각도/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+시시각각
+	시시각각/mag
+
+모양이
+	모양/ncn+이/jcc
+
+다른
+	다르/paa+ㄴ/etm
+
+삼선암
+	삼선/ncpa+암/ncn
+
+
+가깝게
+	가깝/paa+게/ecs
+
+붙어있는줄
+	붙/pvg+어/ecx+있/px+는/etm+줄/nbn
+
+알았던
+	알/pvg+아/ep+ㄴ/etm
+
+가위바위
+	가위/ncn+바위/ncn
+
+...
+	.../se
+
+
+가까이서
+	가까이/ncn+서/jca
+
+보니
+	보/px+니/ecs
+
+혼자
+	혼자/mag
+
+훌쩍
+	훌쩍/mag
+
+떨어져
+	떨어지/pvg+어/ecx
+
+있는모습이다
+	있는모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+삼선암
+	삼선/ncpa+암/ncn
+
+
+경상북도
+	경상/ncn+북/ncn+도/jxc
+
+울릉군
+	울릉군/ncn
+
+북면
+	북면/ncpa
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01386620",
+	"bl01386620",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"1108921",
+	"/sl+1108921/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"삼선암",
+	title/f+:/sp+"/sl+삼선/ncpa+암/ncn+"/sr+,/sp
+
+pointX:657800,pointY:552948}
+	pointX/f+:/sp+657800/nnc+,/sp+pointY/f+:/sp+552948/nnc+}/sr

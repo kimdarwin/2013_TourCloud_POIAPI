@@ -1,0 +1,39 @@
+Title:
+9/1 지리산 노고단 트레킹 후기
+
+Date:
+2012.09.01
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(634817,'files/attach/images/64/181/261/f0578bc5b147aba9b3cda81089b6730a.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/8801921914107d673b29ea1d1fffde4a.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/845e01a2f8d6725cf8abe85f66fb1469.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/090e46ea1f3ae4b7265756460ec8b1fe.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/ea8667bc44716fddc6a726c054eb340f.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/8d139b1396148b8f547b3331d7bcb58f.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/33fd29c5269fe682f0b5249d7ee8f01a.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/634fc49cc5638e7427841b758fcfba63.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/9c5f7f1c33faec6b84d8de2d767e1ff2.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/25a16fbf40524ccf061a020167a98573.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/810085a70ea65876c46488e0e7384b50.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/269c090a0bc07d0044bc3c2bb452515b.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/4767804a8b5303d4b15187e66da3794e.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/077a37a0e89b6e1b7848709489989eb7.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/116284ca8c2424d98daede13bce27c4b.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/794aaab2f188216a05dd0b7106e5e39a.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/9b3eab975ebddd05b0ddb3eb5212a2fe.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/3b91fd6ad69c88ac468148bc4b4b86bb.jpg');
+list_gallery_add_image(634817,'files/attach/images/64/181/261/fb0db7cfef3239d14a1db3171b5a7274.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 9월 1일(토) 지리산 노고단 트레킹을 하였습니다.
+주중에 요란한 태풍과 많은 비가 내려 이번 주말 여행은 차질 없이 잘 될지 걱정이 많았는데 다행히 오늘은 언제 태풍이 지나갔냐 싶을 정도로 평온한 날씨였습니다.
+충청도를 지나 전라도를 통과하여 뱀사골을 거슬러 지리산 노고단에 도착하였는데 가는 길에 큰 피해는 없어 보여 참 다행이다 싶었습니다. 대신 뱀사골을 지날 때는 계곡물이 불어서 아주 장쾌하더군요. 
+지리산 노고단은 약간 흐려 있었습니다. 비가 내릴 것 같진 않았지만 구름이 몰려와 금세 흐린 하늘이었습니다.
+지리산 노고단 트레킹은 성삼재 주차장을 출발해서 왕복으로 약 6km 정도 걷는 비교적 가벼운 구간입니다. 초반에는 탐방로도 넓고 완만하지만 꾸준히 경사길을 걸어 오르다 한번의 나무계단 그리고 두번의 돌계단 길을 오르면 노고단 고개에 도착하죠.
+노고단 고개에서 우측 정상으로 오르는 길은 깔끔한 나무데크 탐방로입니다. 이 데크를 따라 걷다 보면 형형색색 예쁜 야생화들도 만나게 됩니다.
+요즘은 지리산 노고단에는 산오이풀, 둥근이질풀 그리고 귀한 물매화도 만날 수 있었습니다. 하늘 꽃길을 따라 걷다 보니 이번엔 구름이 몰려 올라오는가 싶다가 금세 파란 하늘도 잠깐 만날 수 있었고 다양한 풍경 다양한 날씨와 함께 노고단 트레킹을 하였습니다.
+그리고 노고단 바로 아래에 있는 천은사도 잠깐 들렀는데 시원한 계곡과 울창한 소나무숲이 참 돋보이더군요. 주말인데도 찾는 이가 없는 천은사에서 차분하게 여행 마무리를 하고 서울로 돌아왔습니다.
+지리산 노고단 정상에서는 윗옷을 입을 정도로 바람이 차가웠고 천상에 앉아 먹던 점심도 오래 잊지 못할 듯합니다. 다시 날씨가 더워진다고 하니 아마도 오늘 노고단이 너무도 그리워질 것만 같습니다.
+9월의 첫째 날도 기분 좋게 시작하셨으니 한달 내내 좋은 일들만 가득하시길 바라겠습니다~이 게시물을...

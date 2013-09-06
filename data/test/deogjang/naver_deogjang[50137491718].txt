@@ -1,0 +1,103 @@
+Title:
+서천 주꾸미축제 
+
+Date:
+2012.03.26 14:37
+
+Content:
+
+위 치 : 충남 서천군 서면 마량리 동백정 일원 문의:041~950~4256]
+가는 길 : 서초.남부터미널~서천 첫차07:40 막차16:45 1일4회운행 2시간30분 소요
+요금12200원 철도펀:용산~서천[장항선]약3시간30분 소요 승용차:서해고속도로.서천I.C
+서천.시외버스터미널~마량[동백정]첫차06:00막차21시 배차간격20~30분 총33회 운행
+
+네비게이션 입력 명칭/주소:마량리동백나무숲/충남 서천군 서면 마량리 275~1번지
+
+제13회 동백꽃.주꾸미축제
+서천군은 충청남도 서남부에 위치하고 동쪽으로는 부여군.서쪽으로는 서해.남쪽으로는 금강을
+경계로 전라북도 군산시와 접하고 있으며 북쪽으로는 보령시와 접하고 있다
+서천군은 예로부터 한산 세모시로 유명했던 곳으로 지금도 모시의 고장으로 그 명맥을 이어오고
+있습니다
+
+서해바다와동백나무
+서천의 마량리에 있는 천연기념물 제169호로 지정된 500년 수령의 동백나무숲이 있다
+이숲은 500년의 세월을 말하듯 나무가지가 굵고 넑게 퍼져있다 동백숲을 나와 동백정에 올라
+바라보는 서해바다와 동백정은 아름답기 그지없다
+
+동백꽃.주꾸미축제기간 [2012년3월24일 토~4월6일 금요일까지
+서천 마량리 앞바다에서 잡는 주꾸미는 소라껍데기를 줄에 메달아 소라방을 이용.산채로 잡기
+때문에 싱싱하고 맛이 좋기로 유명하다 주꾸미는 식이 요법은 물론 다이어트 음식으로 각광을
+받고 있을뿐만 아니라 필수 아미노산이 풍부한 저칼로리 음식으로도 유명하다
+
+보는눈 먹는입
+손님을 초청하려면 준비를 철저히 했어야 되지않을까??
+동백정에 있는 동백꽃이 피어날려면 적어도 4월 초에나 동백꽃이 피어나지 않을까
+생각됩니다 [입장료:성인1000원 단체20명 이상800원
+
+주꾸미 축제에 오신 손님들이 주꾸미 맛을 잊지못하고 
+내년에도 다시 찾아올까요?? [식당에서 판매하는 대자형 냄비50,000원 약1Kg7~8마리]
+
+
+칠갑산 천장호 출렁다리
+공사기간:2007.11.26~2009.4.3 공사개요:연장207m.폭1.5m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/03/26/1432/03101323615453EE46C3493473E98563C02_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '565.309';
+	var qsParam = {};
+	qsParam.vid = 'B6C79EAD23EC7342643B2780974B2E7A6B6B';
+	qsParam.inKey = 'V12703629bf074bd6295bbf363cf532efc595698bb63436f9ffc51ad43e59c23c34febf363cf532efc595';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = 'MUSIC';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_02184 = new VideoInfraUGCPlayer('ugcPlayer_02184' ,bean); 
+ugcPlayer_02184.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
+
+	

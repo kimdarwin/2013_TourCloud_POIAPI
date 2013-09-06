@@ -1,0 +1,40 @@
+Title:
+8/18 배롱꽃 핀 명옥헌과 소쇄원 여행 후기
+
+Date:
+2012.08.18
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(985656,'files/attach/images/64/998/254/a4b86ab0b34fae0110d8e19e0e16106e.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/46e6d073ca42a4ba534a1dc87ad2f4a3.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/26aec3f8573e9f9ee66fa6091f7ea15a.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/b4da3a6879444901cdd902a877487b79.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/b244440fbc75aba0f3ad0f604b1314c4.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/e01c7cb7d738f1d6afc807a13fea8b3f.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/4b825aaf30524fc7568140afc1afffc6.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/19ce837bd56efc32c032a575f0da1e4a.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/5aeff07b396c422ac5a3ea063d2ef1cf.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/e5e521bc647861e46c4b9b988eff7bb0.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/380e9361dfa3068f2dd436b8b459ee57.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/2c0893bfe49c53c962f443f74e394c3d.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/e248d67354d90c28022052107cdb1dc9.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/b66a6ece7d68ff655ec1307f18d191ea.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/ad5d5779fc33c39bd1ae77368b2277b9.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/4336e30e477cbc25621232e794a0567b.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/dac23b3a7fae4e05ae98a4542e9ccbda.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/c9f15fea59c2bef6c8a33ff304c19eeb.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/b53da1637b2935a087b47e8f81117143.jpg');
+list_gallery_add_image(985656,'files/attach/images/64/998/254/c937145b39b7f2a3a1ba220b0788e2cb.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 8월 18일(토) 배롱꽃 핀 명옥헌과 소쇄원 담양 여행을 다녀왔습니다.
+담양은 아름다운 여행으로 일년에 한두 차례가 가는 곳인데 그중 여름날 배롱꽃이 필 때 여행을 가는 곳입니다. 배롱꽃은 목백일홍이라고도 부르며 꽃이 백일 동안 핀다 하여 백일홍이라 합니다.
+담양은 요맘때 배롱꽃을 흔하게 볼 수 있습니다. 첫번째 여행지인 창평 삼지내마을로 가는 길에도 붉은 배롱꽃을 어김없이 볼 수 있었습니다.
+창평은 오래 전부터 5, 10일로 끝나는 날 전통 장이 섭니다. 그리고 꽤 큰 장이어서 시장 주변에 오래된 국밥집도 여럿 있는데 시장에서 자유롭게 점심식사를 한 후 삼지내마을을 돌아보았습니다. 현재 남아있는 가옥은 일제강점기에 지어진 건물들로 몇 채 남아있지만 실제 개방된 곳은 많지 않아서 약간 부족한 감이 있는 곳이죠. 
+돌담에 늘어진 담쟁이와 주인도 없는 빈집 마당을 가득 메운 봉숭아가 옛 사골의 정취를 느끼게 합니다. 슬로시티 창평마을은 느린 걸음으로 거닐며 마을을 돌아보고 싶었지만 오늘 담양은 너무 더워서 더위를 피해 다니느라 여유롭지는 못한 듯합니다.
+다음은 이번 여행의 하이라이트라 할 수 있는 명옥헌을 돌아보았습니다. 명옥헌은 우리나라 전통 정원 형식을 갖추고 있는데 주변 경치와 더불어 자연스러움이 돋보입니다. 명옥헌은 배롱꽃이 아직 만개는 아니지만 아쉬움은 없을 정도로 붉은 배롱꽃이 가득하였습니다. 소박한 정자 명옥헌은 이 배롱꽃들이 필 무렵이면 가장 화려하게 살아납니다. 배롱꽃은 해마다 피고 지는데 명옥헌은 한해 두해 늙어가고 대신 그 기품은 차곡차곡 쌓여 보는 이의 마음을 차분하고 깊이 있는 여유를 느끼게 해주는 듯합니다. 
+마지막으로 가사문학의 산실이었던 소쇄원을 찾아갔습니다. 명옥헌에는 그래도 꽤 많은 배롱꽃이 피었는데 올해는 어찌 소쇄원이 더 늦은 듯합니다. 소쇄원 주변에도 붉은 배롱꽃이 피어 아름다웠을 텐데 올해는 진 것인지 아니면 아직 덜 핀 것인지 잘 모르겠더군요. 한차례 소나기가 막 퍼부었습니다. 오늘 담양은 소나기가 마구 내렸다 그쳤다를 몇 차례 반복하였습니다.
+비를 피해 조선 중기에 만들어진 소쇄원의 광풍각과 제월당 처마 밑에는 비를 피해 모여든 사람들로 북적였고 그 모습 또한 아름다운 풍경이 되었습니다.
+매년 배롱꽃이 필 때면 담양의 더위가 떠오르곤 했는데 이번에도 어김없이 무척 더웠던 하루였습니다. 날씨가 너무 더우면 여행을 하기에도 또 여행을 마치고 나서도 지치기 십상이죠. 내일 하루 푹 쉬시면서 피로 잘 떨치시고 새롭게 시작되는 한주도 잘 맞이하시기 바랍니다. 오늘 더운 날씨에 여행하시느라 참여 회원분들 모두 수고 많으셨습니다~
+이 게시물을...

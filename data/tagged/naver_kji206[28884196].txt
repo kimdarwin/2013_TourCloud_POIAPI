@@ -1,0 +1,77 @@
+경주무열왕릉에서
+	경주/ncpa+무열왕릉/ncn+에서/jca
+
+...
+	.../se
+
+
+외떡잎식물
+	외떡잎식물/ncn
+
+백합목
+	백합/ncn+목/ncn
+
+백합과의
+	백합과/ncn+의/jcm
+
+여러해살이풀
+	여러해살이/ncn+풀/ncn
+
+.
+	./sf
+
+
+학명
+	학명/ncn
+
+
+Scilla
+	Scilla/f
+
+scilloides
+	scilloides/f
+
+
+분류
+	분류/ncpa
+
+
+백합목
+	백합/ncn+목/ncn
+
+백합과
+	백합과/ncn
+
+
+분포지역
+	분포/ncpa+지역/ncn
+
+
+아시아
+	아시아/ncn
+
+동북부의
+	동북부/ncn+의/jcm
+
+온대에서
+	온대/ncn+에서/jca
+
+아열대까지
+	아열대/ncn+까지/jca
+
+
+서식장소
+	서식/ncpa+장소/ncn
+
+
+약간
+	약간/mag
+
+습기가
+	습기/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+들판
+	들판/ncn

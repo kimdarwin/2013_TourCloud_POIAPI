@@ -1,0 +1,26 @@
+Title:
+5/5 부석사와 무섬마을 여행 후기
+
+Date:
+2012.05.06
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(441656,'files/attach/images/64/527/214/e339d25f14dee741bead87b9346a2880.jpg');
+list_gallery_add_image(441656,'files/attach/images/64/527/214/3b8d98f3457700df5367a0bce2535b7f.jpg');
+list_gallery_add_image(441656,'files/attach/images/64/527/214/00e74b816257ae59294b34708ba8cd1b.jpg');
+list_gallery_add_image(441656,'files/attach/images/64/527/214/21d5616f6a64221b66696865b0c5202f.jpg');
+list_gallery_add_image(441656,'files/attach/images/64/527/214/882fb97aed98b491acbfc7cfd7aa596b.jpg');
+list_gallery_add_image(441656,'files/attach/images/64/527/214/113010e677a38f649e16191cd59074ba.jpg');
+list_gallery_add_image(441656,'files/attach/images/64/527/214/9963dd87efda1194af112e6cf1dce7f0.jpg');
+list_gallery_add_image(441656,'files/attach/images/64/527/214/dba8e9936019a95a9a1620a5494a9190.jpg');
+list_gallery_add_image(441656,'files/attach/images/64/527/214/cc17a7590524e8e4b30524e5aa3fc3ee.jpg');
+list_gallery_add_image(441656,'files/attach/images/64/527/214/f4a6305b04fb4e84e1891572691e9760.jpg');
+list_gallery_add_image(441656,'files/attach/images/64/527/214/2888f35ddf72dd22529b8dfa49cddcb7.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+5월 5일(토), 아름다운 여행으로 경북 영주의 부석사와 무섬마을에 다녀왔습니다. 요 며칠 한여름처럼 뜨거운 날이 계속되더니 다행히 이 날은 이른 더위가 좀 누그러지고 하늘도 맑아서 여행하기에 좋은 날이었습니다.
+첫 여행지인 부석사는 봄 기운으로 싱그러운 느낌이 가득했습니다. 단풍나무며 은행나무들에는 연초록 나뭇잎이 뽀얗게 올라오고, 희고 붉은 연산홍이 여기저기 소담스레 피었더군요. 또 일주문 옆의 사과밭에는 하얀 사과꽃도 꽤 피었습니다. 역사가 오랜 고찰에서 느끼는 봄은 서울의 봄보다 훨씬 부드럽고 생동감 넘치는 것 같았습니다. 그리고 가을보다 사람이 적어 비교적 여유있게 부석사를 돌아볼 수 있었습니다. 최근 몇 년 동안 가을에만 부석사를 찾았던 저는 오랜만에 느껴보는 부석사에서의 여유였습니다. 
+부석사를 돌아본 뒤 두번째 여행지인 무섬마을로 향했습니다. 무섬마을은 내성천이 마을과 마을 뒷산을 휘감아도는 물도리동 지형의 전통마을입니다. 마을 앞에 내성천을 건너는 외나무다리가 있어 유명해진 곳이죠. 무섬마을의 외나무다리는 뱀처럼 이리저리 길게 휘어지며 내성천을 건넙니다. 길이가 약 30~40m가량 되어 아마 우리나라에서는 가장 긴 외나무다리가 아닐까 싶습니다. 다리를 건너다 보면 발 아래에 부드럽게 흐르는 내성천 물살에 살짝 어지럼증이 돌기도 합니다. 이 외나무다리를 보고 마을로 들어가 고택들과 이 지역 전통가옥인 까치구멍집 등을 둘러보고 여행을 마무리했습니다.
+이번 여행은 날씨처럼 산뜻한 여행이었습니다. 한낮에는 조금 덥게 느껴지기도 했지만 고찰 부석사와 전통 무섬마을의 봄 분위기를 잘 느끼고 왔습니다. 오전에는 도로가 막혀 걱정을 했는데 올라올 때는 정체도 없어 일찍 서울에 도착하기도 했습니다. 이번 여행에 함께 하신 분들 모두 휴일 잘 보내시고 남은 봄날도 여유롭게 즐기시기 바랍니다~
+이 게시물을...

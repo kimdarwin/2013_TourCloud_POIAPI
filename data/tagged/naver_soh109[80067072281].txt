@@ -1,0 +1,190 @@
+서울
+	서울/ncn
+
+덕수궁~
+	덕수궁~/ncn
+
+!!
+	!/sf+!/sf
+
+
+\
+	\/ncn
+
+1,000
+	1,000/nnc
+
+
+1호선
+	1호선/ncn
+
+시청역에서
+	시청/ncn+역/ncn+에서/jca
+
+하차
+	하차/ncn
+
+!!
+	!/sf+!/sf
+
+
+입구도
+	입구/ncn+도/jxc
+
+화려하다~~
+	화려/ncps+하/xsms+다/ef+~/sd+~/sd
+
+
+관광객들도
+	관광객/ncn+들/ncn+도/jxc
+
+많고
+	많/paa+고/ecc
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+항상
+	항상/mag
+
+돌담길만
+	돌담/ncn+길/ncn+만/jxc
+
+걸었었능데
+	걸었었능데/ncn
+
+드뎌
+	드뎌/ncn
+
+입장~
+	입장/ncpa+~/sd
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+비록
+	비록/mag
+
+중지문일지라도
+	중지/ncpa+문/ncn+이/jp+ㄹ지/ecs+라도/jxc
+
+..
+	./sf+./sf
+
+
+문양
+	문양/ncn
+
+하나하나
+	하나/nnc+하나/nnc
+
+기와
+	기/ncn+와/jcj
+
+하나하나가
+	하나/nnc+하나/nnc+가/jcs
+
+너무
+	너무/mag
+
+멋스럽다~~
+	멋/ncn+스럽/xsmn+다/ef+~/sd+~/sd
+
+
+돌담색감이
+	돌담/ncn+색감/ncn+이/jcc
+
+너무너무
+	너무너무/mag
+
+예쁘다
+	예쁘/paa+다/ef
+
+..
+	./sf+./sf
+
+
+기와문양이
+	기와문양/ncn+이/jcc
+
+너무
+	너무/mag
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+들어주셩~~~
+	들어주셩/ncn+~/sd+~/sd+~/sd
+
+
+뒤에
+	뒤/ncn+에/jca
+
+보이는
+	보이/pvg+는/etm
+
+나무들이
+	나무/ncn+들/ncn+이/jcc
+
+어찌나
+	어찌/mag+나/jxc
+
+초롱초롱
+	초롱초롱/mag
+
+연두빛을
+	연두빛/ncn+을/jco
+
+띄우던지
+	띄우/pvg+더/ep+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+꺄햐~~~
+	꺄햐/ncn+~/sd+~/sd+~/sd
+
+
+개나리는
+	개나리/ncn+는/jxc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+덕수궁
+	덕수궁/ncn
+
+가득히
+	가득히/mag
+
+노오란꽃이
+	노오란꽃/ncn+이/jcc
+
+피어있다~~~
+	피어/ncn+있/xsmn+다/ef+~/sd+~/sd+~/sd
+
+
+분홍빛이
+	분홍빛/ncn+이/jcc
+
+맴도능
+	맴도능/ncn
+
+진달래꽃이
+	진달래꽃/ncn+이/jcc
+
+한가득히
+	한가/ncps+득/ncn+히/xsas
+
+피어있다~~
+	피어/ncn+있/xsmn+다/ef+~/sd+~/sd

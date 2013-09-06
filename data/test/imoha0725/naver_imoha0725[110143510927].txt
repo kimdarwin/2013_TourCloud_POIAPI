@@ -1,0 +1,70 @@
+Title:
+[전남여행|영광여행]여기, 한국 맞아?! 
+
+Date:
+2012.07.25 18:13
+
+Content:
+
+여기는 대한민국입니다.
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/07/25/282/03100323818B53DE06C3893F73A489D3103_imoha0725_480P_01_16x9_logo.jpg';
+	layout.playtime = '29.14';
+	var qsParam = {};
+	qsParam.vid = '11B3DF994226AB2AD0440E798E7B382BB0E8';
+	qsParam.inKey = 'V127daec7600ba9e3cdb473a03d37791cc67bb3331fa8073b547217525c65e26793cc73a03d37791cc67b';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_02365 = new VideoInfraUGCPlayer('ugcPlayer_02365' ,bean); 
+ugcPlayer_02365.drawPlayLayer(); 
+}
+
+여기는 대한민국 전라남도 영광입니다.
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/07/25/1235/03100323817B53DE66C3996273597BF3649_imoha0725_480P_01_16x9_logo.jpg';
+	layout.playtime = '33.549';
+	var qsParam = {};
+	qsParam.vid = 'B7680A6A715A6614635D9A374A8DB6FED5BE';
+	qsParam.inKey = 'V129d321ea1ce0b1b4dff8880c6dfa2b1982a0f8460f618003776b67c07c3dbc9ddef8880c6dfa2b1982a';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_06753 = new VideoInfraUGCPlayer('ugcPlayer_06753' ,bean); 
+ugcPlayer_06753.drawPlayLayer(); 
+}
+
+여기는 영광의 조개무덤 입니다.갯벌체험도 하고 축제도 즐길겸 내려왔다가. 이 엄청난 아름다움에 깜놀하고 가네요. 와우!대한민국에 이런 곳이?!	
+백수읍사무소
+전라남도 영광군 백수읍
+
+
+
+	
+{mapId: "bl011377195", placeId: "", type:"1", title:"백수읍사무소", pointX:256539,pointY:299385}
+
+	

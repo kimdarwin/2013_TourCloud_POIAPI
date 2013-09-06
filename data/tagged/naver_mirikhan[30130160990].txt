@@ -1,0 +1,118 @@
+완전
+	완전/ncps
+
+귀요미들이에요
+	귀요미들이에요/ncn
+
+.
+	./sf
+
+
+귀여워귀여워분홍
+	귀여워귀여워분홍/ncn
+
+아기
+	아기/ncn
+
+코끼리들
+	코끼리/ncn+들/ncn
+
+
+미키
+	미키/ncn
+
+마우스
+	마우스/ncn
+
+
+제가
+	저/npp+가/jcs
+
+올린
+	올리/pvg+ㄴ/etm
+
+귀요미
+	귀요미/ncn
+
+글자
+	글자/ncn
+
+이외에도
+	이외/ncn+에/jca+도/jxc
+
+움직이는
+	움직이/pvg+는/etm
+
+글자가
+	글자/ncn+가/jcs
+
+많아요~37페이지까지
+	많/paa+아/ef+요/jxf+~/sd+37/nnc+페이지/nbu+까지/jxc
+
+있는
+	있/px+는/etm
+
+"움직이는
+	"/sl+움직이/pvg+는/etm
+
+글자
+	글자/ncn
+
+만들기
+	만들/pvg+기/etn
+
+종합
+	종합/ncpa
+
+선물세트"
+	선물/ncn+세트/ncn+"/sr
+
+같은
+	같/paa+은/etm
+
+사이트에요귀요미
+	사이트에요귀요미/ncn
+
+글자를
+	글자/ncn+를/jco
+
+만들려면
+	만들/pvg+려면/ecs
+
+아래
+	아래/ncn
+
+분홍
+	분홍/ncn
+
+코끼리를
+	코끼리/ncn+를/jco
+
+클릭하세요
+	클릭/ncpa+하/xsva+세/ef+요/jxf
+
+!!
+	!/sf+!/sf
+
+
+움직이는
+	움직이/pvg+는/etm
+
+글자
+	글자/ncn
+
+만들기http://animated-names.
+	만들기http://animated-names./ncn
+
+net/free-animated-text-generator.
+	net/f+//sp+free/f+-/sd+animated/f+-/sd+text/f+-/sd+generator/f+./sy
+
+php
+	php/f
+
+?
+	?/sf
+
+
+pageNum_nombres=0totalRows_nombres=579
+	pageNum_nombres=0totalRows_nombres/ncn+=/sy+579/nnc

@@ -1,0 +1,317 @@
+도예공방
+	도예/ncn+공방/ncn
+
+들꽃마을
+	들꽃/ncn+마을/ncn
+
+[도예체험]
+	[/sl+도예/ncn+체험/ncpa+]/sr
+
+
+위치:
+	위치/ncn+:/sp
+
+경기
+	경기/ncn
+
+이천시
+	이/nnc+천/nnc+시/nbu
+
+신둔면
+	신둔면/ncn
+
+도암1리
+	도암1리/ncn
+
+59번지
+	59번지/ncn
+
+
+문의/안내:
+	문/ncn+의/jcm+//sp+안내/ncpa+:/sp
+
+031-631-6832,
+	031/nnc+-631/nnc+-6832/nnc+,/sp
+
+010-7335-6832
+	010/nnc+-7335/nnc+-6832/nnc
+
+
+도자기
+	도자/ncn+이/jp+기/etn
+
+만들기체험과
+	만들기/ncn+체험/ncpa+과/jcj
+
+도자민박을
+	도자/ncn+민박/ncn+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있고
+	있/px+고/ecc
+
+본인이
+	본인/ncn+이/jcc
+
+만든
+	만들/pvg+ㄴ/etm
+
+도자기는
+	도자기/ncn+는/jxc
+
+유약바르기와
+	유약바르/ncn+이/jp+기/etn+와/jcj
+
+소성작업을
+	소성/ncpa+작업/ncpa+을/jco
+
+실시하여
+	실시/ncpa+하/xsva+어/ecx
+
+집으로
+	집/ncn+으로/jca
+
+보내준다
+	보내/pvg+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+세상에
+	세상/ncn+에/jca
+
+단
+	달/paa+ㄴ/etm
+
+하나밖에
+	하나/nnc+밖에/jxc
+
+없는
+	없/paa+는/etm
+
+나만의
+	나/npp+만의/jcm
+
+도자기를
+	도자/ncn+이/jp+기/etn+를/jco
+
+만들수
+	만들/pvg+ㄹ/etm+수/nbn
+
+있으며
+	있/px+으며/ecc
+
+아름다운
+	아름답/paa+은/etm
+
+체험의
+	체험/ncpa+의/jcm
+
+추억을
+	추억/ncpa+을/jco
+
+담을
+	담/ncn+을/jco
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+밤에는
+	밤/ncn+에/jca+는/jxc
+
+들꽃마을
+	들꽃/ncn+마을/ncn
+
+앞
+	앞/ncn
+
+마당에서
+	마당/ncn+에서/jca
+
+캠프파이어도
+	캠프/ncn+파이어/ncn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+별이
+	별/ncn+이/jcc
+
+쏟아지는
+	쏟/pvg+아/ecx+지/px+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+보면서
+	보/px+면서/ecc
+
+통기타를
+	통기타/ncn+를/jco
+
+치는
+	치/pvg+는/etm
+
+등
+	등/nbu
+
+젊음의
+	젊음/ncn+의/jcm
+
+낭만을
+	낭만/ncn+을/jco
+
+마음껏
+	마음껏/mag
+
+즐길수
+	즐기/pvg+ㄹ/etm+수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+친구
+	친구/ncn
+
+모임,
+	모임/ncn+,/sp
+
+연인
+	연인/ncn
+
+.
+	./sf
+
+
+가족모임
+	가족/ncn+모/ncn+이/jp+ㅁ/etn
+
+그리고
+	그리고/maj
+
+학교동아리
+	학교/ncn+동아리/ncn
+
+MT하기에
+	MT/f+하/xsms+기/etn+에/jca
+
+적합한
+	적합/ncn+한/ncn
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+주변에는
+	주변/ncn+에/jca+는/jxc
+
+아직
+	아직/mag
+
+잘
+	잘/mag
+
+알려지지
+	알리/pvg+어/ecx+지/px+지/ecx
+
+않고
+	않/px+고/ecc
+
+사람의
+	사람/ncn+의/jcm
+
+발길이
+	발길/ncn+이/jcc
+
+닿지
+	닿/pvg+지/ecx
+
+않은
+	않/px+은/etm
+
+이천의
+	이/nnc+천/nnc+의/jcm
+
+명산
+	명산/ncn
+
+원적산이
+	원적산/ncn+이/jcc
+
+있으며
+	있/px+으며/ecc
+
+아름답고
+	아름답/paa+고/ecc
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+계곡에
+	계곡/ncn+에/jca
+
+발을
+	발/ncn+을/jco
+
+담그고
+	담그/pvg+고/ecc
+
+자연이
+	자연/ncn+이/jcc
+
+가져다주는
+	가져다주/pvg+는/etm
+
+맑은
+	맑/paa+은/etm
+
+공기와
+	공기/ncn+와/jct
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+바람은
+	바라/pvg+ㅁ/etn+은/jxc
+
+관광객들의
+	관광객/ncn+들/ncn+의/jcm
+
+발길을
+	발길/ncn+을/jco
+
+멈추게
+	멈추/pvg+게/ecs
+
+만든다
+	만들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+기사내용
+	기사내용/ncn
+
+전체보기
+	전체/ncn+보기/ncn

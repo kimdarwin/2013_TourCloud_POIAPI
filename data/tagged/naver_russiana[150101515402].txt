@@ -1,0 +1,1148 @@
+오슬로호텔/노르웨이호텔/북유럽호텔
+	오슬로호텔/노르웨이호텔/북유럽호텔/ncn
+
+-
+	-/sd
+
+Thon
+	Thon/f
+
+Hotel
+	Hotel/f
+
+
+이번
+	이/nnc+번/nbu
+
+북유럽
+	북유럽/ncn
+
+여행은
+	여행/ncpa+은/jxc
+
+호텔에서
+	호텔/ncn+에서/jca
+
+묵는다고
+	묵/pvg+는다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+쾌재를
+	쾌재/ncn+를/jco
+
+불렀는데,
+	부르/pvg+었/ep+는데/ecs+,/sp
+
+막상
+	막상/mag
+
+떠나보니
+	떠나/pvg+아/ecx+보/px+니/ecs
+
+호텔이
+	호텔/ncn+이/jcc
+
+여행자에게는그렇게
+	여행자에게는그렇/ncn+게/jca
+
+편한
+	편하/paa+ㄴ/etm
+
+공간은
+	공간/ncn+은/jxc
+
+아니란
+	아니란/ncn
+
+걸
+	거/nbn+ㄹ/jco
+
+알게
+	알/pvg+게/ecs
+
+됐다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+항상
+	항상/mag
+
+여행자들과
+	여행자/ncn+들/ncn+과/jcj
+
+어울려서밤이
+	어울려서밤/ncn+이/jcc
+
+깊어
+	깊/paa+어/ecx
+
+가는
+	가/pvg+는/etm
+
+줄도
+	줄/nbn+도/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+여행
+	여행/ncpa
+
+이야기를
+	이야기/ncpa+를/jco
+
+했는데,
+	하/px+었/ep+는데/ecs+,/sp
+
+혼자
+	혼자/mag
+
+덩그러니
+	덩그러니/ncn
+
+방에
+	방/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+있는
+	있/px+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+참
+	참/mag
+
+측은하게
+	측은/ncps+하/xsms+게/ecs
+
+느껴진다
+	느끼/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+침대라도
+	침대/ncn+이/jp+라/ecs+도/jxc
+
+싱글이면
+	싱글/ncn+이/jp+면/ecs
+
+아무
+	아무/mmd
+
+생각
+	생각/ncpa
+
+안
+	알/pvg+ㄴ/etm
+
+나겠는데,시차까지
+	나/npp+이/jp+겠/ep+는데/ecs+,/sp+시차/ncn+까지/jxc
+
+더해져
+	더하/paa+어/ecx+지/px+어/ecx
+
+밤을
+	밤/ncn+을/jco
+
+꼴딱
+	꼴딱/ncn
+
+새버리기
+	새/pvg+어/ecx+버리/px+기/etn
+
+일수네요
+	일/pvg+ㄹ/etm+수/nbn+이/jp+네/ef+요/jxf
+
+.
+	./sf
+
+
+그럴
+	그렇/pad+을/etm
+
+때는
+	때/ncn+는/jxc
+
+포스팅하는게
+	포스팅하는게/ncn
+
+상책인
+	상책/ncn+이/jp+ㄴ/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+문
+	문/ncn
+
+열고
+	열/pvg+고/ecc
+
+나가면
+	나/pvg+아/ecx+가/px+면/ecs
+
+제가
+	저/npp+가/jcs
+
+가장
+	가장/mag
+
+무서워하는고물가가
+	무서워하는고물가/ncn+가/jcs
+
+떡하니
+	떡하/ncn+이/jp+니/ecs
+
+버티고
+	버티/pvg+고/ecc
+
+있어서컴퓨터와
+	있어서컴퓨터/ncn+와/jct
+
+마주
+	마주/mag
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+덴마크를
+	덴마크/ncn+를/jco
+
+지나서
+	지나/pvg+아/ecx
+
+5일째가
+	5/nnc+일/nbu+째/xsnu+가/jcc
+
+되니,
+	되/pvg+니/ecs+,/sp
+
+더
+	더/mag
+
+이상
+	이상/ncn
+
+신을
+	신/ncn+을/jco
+
+양말이
+	양말/ncn+이/jcc
+
+없어서
+	없/paa+어서/ecs
+
+문제네요
+	문제/ncn+이/jp+네/ef+요/jxf
+
+.
+	./sf
+
+
+뒤집어
+	뒤집/pvg+어/ecx
+
+신어볼까도
+	신/pvg+어/ecx+보/px+ㄹ까/ecs+도/jxc
+
+했는데,하루
+	하/px+었/ep+는데/ecs+,/sp+하루/ncn
+
+종일
+	종/ncn+이/jp+ㄹ/etm
+
+걷는
+	걷/pvg+는/etm
+
+일정에
+	일정/ncn+에/jca
+
+양말은
+	양말/ncn+은/jxc
+
+땀으로
+	따/pvg+ㅁ/etn+으로/jca
+
+뒤범벅돼서
+	뒤범벅/ncpa+되/xsvn+어서/ecs
+
+상상
+	상상/ncn
+
+이상의
+	이상/ncn+의/jcm
+
+냄새가
+	냄새/ncn+가/jcs
+
+나더군요
+	나/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+론드리
+	론드리/ncn
+
+서비스를
+	서비스/ncpa+를/jco
+
+받아보려고
+	받/pvg+아/ecx+보/px+려고/ecs
+
+프라이스
+	프라이스/ncn
+
+리스트를
+	리스트/ncn+를/jco
+
+봤더니,
+	보/px+아/ep+니/ef+,/sp
+
+양말
+	양말/ncn
+
+한
+	한/nnc
+
+켤레에
+	켤레/nbu+에/jca
+
+2.
+	2./nnc
+
+5유로,
+	5유로,/ncn
+
+계산기를
+	계산기/ncn+를/jco
+
+두드리니
+	두드리/pvg+니/ecs
+
+4천원이
+	4/nnc+천/nnc+원/nbu+이/jcc
+
+넘는
+	넘/pvg+는/etm
+
+금액이네요
+	금액/ncn+이/jp+네/ef+요/jxf
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+물
+	물/pvg+ㄹ/etm
+
+틀어서
+	틀/pvg+어서/ecs
+
+4천원,
+	4/nnc+천/nnc+원/nbu+,/sp
+
+8천원,
+	8/nnc+천/nnc+원/nbu+,/sp
+
+만2천원,
+	만/nnc+2/nnc+천/nnc+원/nbu+,/sp
+
+4켤레
+	4/nnc+켤레/nbu
+
+빨았으니,
+	빨/pvg+아/ep+니/ecs+,/sp
+
+오늘
+	오늘/ncn
+
+오슬로에서
+	오슬로/ncn+에서/jca
+
+16,000원
+	16,000/nnc+원/nbu
+
+벌었습니다
+	벌/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+북유럽
+	북유럽/ncn
+
+호텔의
+	호텔/ncn+의/jcm
+
+화장실의장점
+	화장/ncn+실의/ncn+장점/ncn
+
+중
+	중/nbn
+
+하나라면
+	하/pvg+어/ecx+나/px+라면/ecs
+
+화장실
+	화장실/ncn
+
+바닥이
+	바닥/ncn+이/jcc
+
+따뜻합니다
+	따뜻/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+빨래
+	빨래/ncpa
+
+말리기
+	말/px+ㄹ/etm+리/nbn+이/jp+기/etn
+
+좋네요
+	좋/paa+네요/ef
+
+
+그리고
+	그리고/maj
+
+북유럽
+	북유럽/ncn
+
+호텔의
+	호텔/ncn+의/jcm
+
+또
+	또/maj
+
+다른
+	다르/paa+ㄴ/etm
+
+장점은
+	장점/ncn+은/jxc
+
+커피와
+	커피/ncn+와/jcj
+
+우유가
+	우유/ncn+가/jcs
+
+맛있다는
+	맛있/paa+다/ef+는/etm
+
+것.
+	것/nbn+./sf
+
+그리고
+	그리고/maj
+
+커피를
+	커피/ncn+를/jco
+
+원없이
+	원/nbu+없이/jca
+
+테이크
+	테이크/ncn
+
+아웃할
+	아웃할/ncn
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+저는
+	저/npp+는/jxc
+
+보온병이
+	보온병/ncn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+가끔은
+	가끔/mag+은/jxc
+
+차도
+	차/ncn+도/jxc
+
+담아서
+	담/pvg+아/ecx
+
+다녔고,
+	다니/pvg+었/ep+고/ecc+,/sp
+
+아메리카노
+	아메리카노/ncn
+
+뽑아서
+	뽑/pvg+어서/ecs
+
+물
+	물/pvg+ㄹ/etm
+
+좀
+	좀/mag
+
+타서
+	타/pvg+아/ecx
+
+다녔지요
+	다니/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+저
+	저/mmd
+
+방이
+	방/ncn+이/jcc
+
+하루
+	하루/ncn
+
+200유로
+	200유/ncn+로/jca
+
+정도
+	정도/ncn
+
+하길래
+	하/pvg+길래/ecs
+
+너무
+	너무/mag
+
+비싸다
+	비싸/paa+아/ecx
+
+싶어서
+	싶/px+어서/ecs
+
+다른
+	다른/mma
+
+호텔
+	호텔/ncn
+
+사이트에
+	사이트/ncn+에/jca
+
+들어가보니
+	들/pvg+어/ecx+가/px+아/ecx+보/px+니/ecs
+
+북유럽
+	북유럽/ncn
+
+호텔
+	호텔/ncn
+
+숙박비는
+	숙박/ncpa+비/ncn+는/jxc
+
+가히
+	가히/mag
+
+상상을
+	상상/ncn+을/jco
+
+초월합니다
+	초월/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+오슬로에서
+	오슬로/ncn+에서/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+교환학생
+	교환학생/ncn
+
+말로는
+	말/ncn+로/jca+는/jxc
+
+유스호스텔도
+	유스호스텔/ncn+도/jxc
+
+70유로
+	70유/ncn+로/jca
+
+한다네요
+	한다네요/ncn
+
+.
+	./sf
+
+
+더
+	더/mag
+
+싼
+	싸/paa+ㄴ/etm
+
+숙소
+	숙소/ncn
+
+정보
+	정보/ncn
+
+있으면
+	있/px+으면/ecs
+
+좀
+	좀/mag
+
+알려주세요~
+	알/pvg+려/ecx+주/px+세요/ef+~/sd
+
+
+방에는
+	방/ncn+에/jca+는/jxc
+
+무선
+	무선/ncn
+
+인터넷이
+	인터넷/ncn+이/jcc
+
+되고,
+	되/pvg+고/ecc+,/sp
+
+TV가
+	TV/f+가/jcc
+
+걸려있고,
+	걸리/pvg+어/ecx+있/px+고/ecc+,/sp
+
+독서등이
+	독서/ncpa+등/ncn+이/jcc
+
+있습니다
+	있/paa+습니다/ef
+
+
+오슬로
+	오슬로/ncn
+
+대학교
+	대학교/ncn
+
+기숙사처럼,
+	기숙사/ncn+처럼/jca+,/sp
+
+방
+	방/ncn
+
+안에
+	안/ncn+에/jca
+
+세면대가
+	세면대/ncn+가/jcs
+
+있어서
+	있/px+어서/ecs
+
+손
+	손/ncn
+
+씻기
+	씻/pvg+기/etn
+
+편합니다
+	편하/paa+ㅂ니다/ef
+
+
+바닥이
+	바닥/ncn+이/jcc
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+화장실
+	화장실/ncn
+
+
+샤워젤,
+	샤워/ncpa+젤/ncn+,/sp
+
+샴푸가
+	샴푸/ncn+가/jcs
+
+한
+	하/pvg+ㄴ/etm
+
+디스펜서
+	디스펜서/ncn
+
+안에
+	안/ncn+에/jca
+
+같이
+	같/paa+이/xsa
+
+들어있었는데요,
+	들어있/paa+었/ep+는데요/ef+,/sp
+
+
+샴푸는
+	샴푸/ncn+는/jxc
+
+따로
+	따로/mag
+
+챙기시는
+	챙기/pvg+시/ep+는/etm
+
+게
+	것/nbn+이/jcs
+
+좋을
+	좋/paa+을/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+노르웨이
+	노르웨/ncn+이/jcc
+
+크로네
+	크로네/ncn
+
+환율
+	환율/ncn
+
+계산법은
+	계산법/ncn+은/jxc
+
+그냥
+	그냥/mag
+
+200을
+	200/nnc+을/jco
+
+곱하면
+	곱/ncpa+하/xsva+면/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+환전
+	환전/ncn
+
+수수료는
+	수수료/ncn+는/jxc
+
+좀
+	좀/mag
+
+과하다
+	고/pvg+아/ecx+하/px+어다/ecs
+
+싶을
+	싶/px+을/etm
+
+정도인
+	정도/ncn+이/jp+ㄴ/etm
+
+50
+	50/nnc
+
+크로네를
+	크로네/ncn+를/jco
+
+뗍니다
+	떼/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+그러니,
+	그러/pvd+니/ecs+,/sp
+
+미리
+	미리/mag
+
+예산을
+	예산/ncpa+을/jco
+
+잡든지,
+	잡/pvg+든지/ecc+,/sp
+
+카드를
+	카드/ncn+를/jco
+
+사용하면
+	사용/ncpa+하/xsva+면/ecs
+
+이득입니다
+	이득/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+교통수단
+	교통수단/ncn
+
+1회권
+	1/nnc+회/nbu+권/xsnu
+
+티켓이
+	티켓/ncn+이/jcc
+
+40
+	40/nnc
+
+nok
+	nok/f
+
+/
+	//sp
+
+24시간
+	24/nnc+시간/nbu
+
+티켓이
+	티켓/ncn+이/jcc
+
+170
+	170/nnc
+
+nok
+	nok/f
+
+
+맛있는
+	맛있/paa+는/etm
+
+커피를
+	커피/ncn+를/jco
+
+원없이
+	원/nbu+없이/jca
+
+뽑아
+	뽑/pvg+어/ecx
+
+마셨던
+	마시/pvg+었/ep+던/etm
+
+호텔자판기
+	호텔/ncn+자판기/ncn
+
+
+호텔
+	호텔/ncn
+
+로비
+	로비/ncn
+
+
+호텔
+	호텔/ncn
+
+로비에서
+	로비/ncn+에서/jca
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+풍경
+	풍경/ncn
+
+
+2층
+	2/nnc+층/nbu
+
+회색
+	회색/ncn
+
+부분이
+	부분/ncn+이/jcc
+
+레스토랑인데요
+	레스토랑인데요/ncn
+
+.
+	./sf
+
+
+땡땡
+	땡땡/ncn
+
+거리며
+	거리/ncn+이/jp+며/ecc
+
+지나가는
+	지나/pvg+아/ecx+가/px+는/etm
+
+트램을
+	트램/ncn+을/jco
+
+보는
+	보/px+는/etm
+
+재미가
+	재미/ncn+가/jcs
+
+쏠쏠합니다
+	쏠쏠/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+음식은
+	음식/ncn+은/jxc
+
+여느
+	여느/mma
+
+호텔
+	호텔/ncn
+
+부페와
+	부페/ncn+와/jct
+
+비슷한
+	비슷/ncps+하/xsms+ㄴ/etm
+
+음식들입니다
+	음식/ncn+들/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+커피가
+	커피/ncn+가/jcs
+
+제일
+	제일/mag
+
+맛있었던
+	맛있/paa+었/ep+던/etm
+
+기억이
+	기억/ncpa+이/jcc
+
+...
+	.../se
+
+
+Stay
+	Stay/f
+
+atThon
+	atThon/f
+
+Hoteland
+	Hoteland/f
+
+Get
+	Get/f
+
+Finnair
+	Finnair/f
+
+Plus
+	Plus/f
+
+Milage
+	Milage/f
+
+
+찾아가는
+	찾/pvg+아/ecx+가/px+는/etm
+
+길
+	길/ncn
+
+:오슬로
+	:/sp+오슬로/ncn
+
+중앙역
+	중앙/ncn+역/ncn
+
+오른쪽
+	오르/pvg+ㄴ/etm+쪽/nbn
+
+출구와
+	출구/ncn+와/jct
+
+연결된
+	연결/ncpa+되/xsvn+ㄴ/etm
+
+시외버스
+	시외버스/ncn
+
+터미널
+	터미널/ncn
+
+건물로
+	건물/ncn+로/jca
+
+가서
+	가/pvg+서/ecs
+
+1층
+	1/nnc+층/nbu
+
+출구로
+	출구/ncn+로/jca
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+출구
+	출구/ncn
+
+앞에
+	앞/ncn+에/jca
+
+택시들의
+	택시/ncn+들/ncn+의/jcm
+
+유혹을
+	유혹/ncpa+을/jco
+
+잘
+	잘/mag
+
+뿌리치고,
+	뿌리치/pvg+고/ecc+,/sp
+
+트램
+	트램/ncn
+
+정류장까지
+	정류장/ncn+까지/jxc
+
+간다.
+	가/px+ㄴ다/ef+./sf
+
+19번
+	19/nnc+번/nbu
+
+트램을
+	트램/ncn+을/jco
+
+타고,
+	타/pvg+고/ecc+,/sp
+
+8천원에
+	8/nnc+천/nnc+원/nbu+에/jca
+
+해당하는
+	해당/ncpa+하/xsva+는/etm
+
+40
+	40/nnc
+
+크로네를
+	크로네/ncn+를/jco
+
+지불한다
+	지불/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+(1day
+	(1day/ncn
+
+ticket은
+	ticket/f+은/jxc
+
+비추,
+	비/xp+추/ncn+,/sp
+
+오슬로
+	오슬로/ncn
+
+패스를
+	패스/ncpa+를/jco
+
+다음날
+	다음날/ncn
+
+사는
+	사/pvg+는/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+권함)한
+	권하/pvg+ㅁ/etn+)/sr+한/nnc
+
+8~10
+	8/nnc+~/sd+10/nnc
+
+정거장
+	정거장/ncn
+
+지나면
+	지나/pvg+면/ecs
+
+Rosenborg역
+	Rosenborg/f+역/ncn

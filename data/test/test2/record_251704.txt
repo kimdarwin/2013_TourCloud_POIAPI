@@ -1,0 +1,29 @@
+Title:
+8/9 분주령 대덕산 트레킹 후기
+
+Date:
+2012.08.09
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(413639,'files/attach/images/64/704/251/a06cb3b73cb946acd431f59f54ff11a0.jpg');
+list_gallery_add_image(413639,'files/attach/images/64/704/251/4b6e17927170a7ef1a42107a3a40f815.jpg');
+list_gallery_add_image(413639,'files/attach/images/64/704/251/7940856a1178218ce587cca4b1429c19.jpg');
+list_gallery_add_image(413639,'files/attach/images/64/704/251/da0a7e89f9ef15be950ea4ee392ad29d.jpg');
+list_gallery_add_image(413639,'files/attach/images/64/704/251/2b36eab7b69ee8a8fcdb17699153085d.jpg');
+list_gallery_add_image(413639,'files/attach/images/64/704/251/9c064668ec69e9120ac3104e02526c82.jpg');
+list_gallery_add_image(413639,'files/attach/images/64/704/251/cb908b8cc460618e7c53ac2d39b09f1c.jpg');
+list_gallery_add_image(413639,'files/attach/images/64/704/251/baf21f74f17fa863e0fdee5afc5d3b20.jpg');
+list_gallery_add_image(413639,'files/attach/images/64/704/251/39195ea5b4f37966ee2474a327d5c705.jpg');
+list_gallery_add_image(413639,'files/attach/images/64/704/251/bb502737b3537643fd02e9a3137b65be.jpg');
+list_gallery_add_image(413639,'files/attach/images/64/704/251/f5170017c66a1b610e7ae05c4d96d10d.jpg');
+list_gallery_add_image(413639,'files/attach/images/64/704/251/616dfa3cdb800407ea7672f51a6196d1.jpg');
+list_gallery_add_image(413639,'files/attach/images/64/704/251/325f8a5d75a5380616330de75f670c9e.jpg');
+list_gallery_add_image(413639,'files/attach/images/64/704/251/359d41f9dfd7d086f3f735e5fcb5617f.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 9일(목), 아름다운 여행으로 분주령과 대덕산 트레킹을 다녀왔습니다. 두문동재에서 걷기 시작해 금대봉 아래를 지나 분주령을 돌아 검룡소로 내려오는 코스입니다. 이 코스는 6km 남짓한 거리로 큰 오르막이 없어 그리 힘든 코스는 아닙니다. 트레킹을 즐기시는 분들에게는 오히려 쉬운 코스라 할 수 있습니다. 하지만 분주령 옆에는 대덕산이라는 꽤 높은 산이 있습니다. 이 분주령 걷기 코스에서 좀더 트레킹의 강도를 높이고 싶은 분들이 이 코스를 걸으며 돌아오기 좋은 산입니다. 
+이번 트레킹은 날씨가 좋아 그래도 좀 쉽게 걸을 수 있었습니다. 한동안 이어진 폭염 때문에 이 날 날씨도 걱정스러웠는데, 다행히 분주령 쪽은 그리 덥지 않았습니다. 햇볕은 따가웠어도 가끔씩 불어주는 바람에서는 가을의 선선한 분위기가 느껴지더군요. 산길을 걷느라 땀은 꽤 흘렸지만 그리 불쾌하진 않았던 하루였습니다. 더구나 평일 여행이어서 도로도 한산했고 분주령길도 주말에 비해 한결 호젓해서 더 좋았던 것 같습니다.
+분주령과 대덕산에는 아직도 여름꽃들이 가득 피어 있습니다. 흰색, 노란색, 붉은색, 보라색 꽃들이 길가에도 그리고 가까운 숲 속에도 지천으로 피었더군요. 이제 개화를 준비하는 꽃들을 보니 이 달 말까지는 꽃이 계속되지 않을까 싶네요.
+이번 트레킹은 날씨도 괜찮았고 꽃도 좋아서 깔끔하고 상쾌한 트레킹이 되었던 것 같습니다. 그리고 이번 트레킹에 참여하신 분들은 체력이 좋은 분들이셨던 것 같습니다. 반 이상이 대덕산까지 돌아오셨더군요. 그리고 다른 분들도 아주 여유 있게 분주령 길을 걸으시더군요. 그래도 멀리 태백까지 다녀오셨으니 여행의 피로 잘 푸시고, 활기차게 한 주를 시작하시기 바랍니다~
+이 게시물을...

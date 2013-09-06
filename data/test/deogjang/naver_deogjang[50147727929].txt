@@ -1,0 +1,81 @@
+Title:
+양평 소리산 
+
+Date:
+2012.08.14 07:22
+
+Content:
+
+위 치:경기도 양평군 단월면 산음리 양평문화관광과 전화031]770~2471
+가는길:서울 용산출발~용문까지는 중앙선 전철을 이용하고 [용문역에서 시외버스터미널]까지10분소요
+용문버스터미널에서 석산리행 버스를 이용한다 [용문~석산리] 소요시간약45~50분
+양평에서 가는길:양평까지는 중앙선전철이나 동서울터미널에서 양평행 시외버스를 이용하며
+양평터미널에서 석산리행 버스를 이용하면 됩니다
+용문시외버스터미널 전화031]773~3100 양평시외버스터미널 전화031]772~2341~3
+
+옥수산악회 정기산행일 매월두째일요일 [옥수동 하나은행]앞 07:30~08사이 출발
+
+함께하실분은 열락주시기 바랍니다010~9000~1915[총무님]
+
+
+경기도 양평군 단월면 북쪽에 위치한 가장 아름다운 소리산은 강원도 홍천군과 접경을 이루는
+경기도의 산촌이라 할 수 있다
+소리산은 주변의 산에비해 큰 산은아니나 깍아지른듯한 절벽과 맑은 물과 계곡이 어울려 예로부터
+경기도의소금강이라 불릴만큼 경치가 아름답다
+
+산음리와 석산리를 감싸고있는 소리산 일대가 대부분 흙산으로 되어 있는데 이산만은 수직벽을 이룬
+돌산으로 이루어져 있다 주민들에의하면 옛부터 산 속 바위벼랑에 수리가 서식했다고 하여 수리산으로
+부르다가 언재부터인가 소리산으로 바뀌었다는 이야기가 전해진다
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/08/14/38/031013239172532E15C3898A73F536531C6_deogjang_480P_01_16x9_logo.jpg';
+	layout.playtime = '318.019';
+	var qsParam = {};
+	qsParam.vid = '670906F65364B2C112BC20A122A3222D6144';
+	qsParam.inKey = 'V126221bcd06b4895189f0298bd90fa246e4226077533c259deeb5ab6824594caa72f0298bd90fa246e42';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = 'MUSIC';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_03279 = new VideoInfraUGCPlayer('ugcPlayer_03279' ,bean); 
+ugcPlayer_03279.drawPlayLayer(); 
+}
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+	

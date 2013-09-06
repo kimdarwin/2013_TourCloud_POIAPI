@@ -1,0 +1,2092 @@
+뱃노래
+	뱃노래/ncn
+
+(
+	(/sl
+
+자우림
+	잡/pvg+으리/ep+ㅁ/etn
+
+)
+	)/sr
+
+는
+	늘/pvg+ㄴ/etm
+
+KBS드라마
+	KBS/f+드라마/ncn
+
+거상
+	거상/ncn
+
+김만덕
+	김만덕/ncn
+
+OST
+	OST/f
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+거상
+	거상/ncn
+
+김만덕은KBS
+	김만덕은KBS/ncn
+
+1TV(2010.
+	1TV(2010./ncn
+
+03.
+	03./nnc
+
+06부터)
+	06/nnc+부터/jxc+)/sr
+
+밤9시40분에
+	밤9시40분/ncn+에/jca
+
+방송되고
+	방송/ncpa+되/xsvn+고/ecc
+
+있는
+	있/px+는/etm
+
+역사드라마
+	역사드라마/ncn
+
+.
+	./sf
+
+
+거상
+	거상/ncn
+
+김만덕은
+	김만덕/ncn+은/jxc
+
+조선시대
+	조선시대/ncn
+
+여장부로서
+	여장부/ncn+로서/jca
+
+최고의
+	최고/ncn+의/jcm
+
+거상으로
+	거상/ncn+으로/jca
+
+되어가는
+	되/pvg+어/ecx+가/px+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+드라마로
+	드라마/ncn+로/jca
+
+그렸다
+	그리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+"뱃노래"는
+	"/sl+뱃노래/ncn+"/sr+는/jxc
+
+자우림
+	잡/pvg+으리/ep+ㅁ/etn
+
+김윤아의
+	김윤아/ncn+의/jcm
+
+목소리로
+	목소리/ncn+로/jca
+
+들을
+	들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는거상
+	있는거상/ncn
+
+김만덕
+	김만덕/ncn
+
+첫번째
+	첫/nno+번/nbu+째/xsnu
+
+OST
+	OST/f
+
+"뱃노래"다
+	"뱃노래"다/ncn
+
+.
+	./sf
+
+
+거상
+	거상/ncn
+
+김만덕
+	김만덕/ncn
+
+OST
+	OST/f
+
+"뱃노래
+	"/sl+뱃노래/ncn
+
+-
+	-/sd
+
+자우림"
+	잡/pvg+으리/ep+ㅁ/etn+"/sl
+
+(영상,
+	(/sl+영상/ncn+,/sp
+
+듣기)
+	듣기/ncn+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc17/2010/03/14/1847/E31402137F15138318236D0973084E43D40_ya3542_logo.
+	net/blogucc17/2010/03/14/1847/E31402137F15138318236D0973084E43D40_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'156.
+	'/sr+156./nnc
+
+88';
+	88/ncn+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'287510D4007918570ECF58E36EE1B0CEB3AF';
+	'287510D4007918570ECF58E36EE1B0CEB3AF/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1216026b8b57b001b1a4e02f448c29271f607bbca1bd78c41e3fce4a8a7f0d047c5ee02f448c29271f60';
+	'V1216026b8b57b001b1a4e02f448c29271f607bbca1bd78c41e3fce4a8a7f0d047c5ee02f448c29271f60/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_05951
+	ugcPlayer_05951/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_05951'
+	VideoInfraUGCPlayer('ugcPlayer_05951'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_05951
+	ugcPlayer_05951/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+뱃노래
+	뱃노래/ncn
+
+(자우림,
+	(/sl+잡/pvg+으리/ep+ㅁ/etn+,/sp
+
+김윤아)
+	김윤아)/ncn
+
+가사
+	가사/ncn
+
+
+서글픈
+	서글프/paa+ㄴ/etm
+
+미련을
+	미련/ncn+을/jco
+
+파도가
+	파도/ncn+가/jcs
+
+안아주네
+	안아주/pvg+네/ef
+
+
+물결이
+	물결/ncn+이/jcc
+
+출렁이면
+	출렁이/pvg+면/ecs
+
+
+나는
+	나/npp+는/jxc
+
+눈을
+	눈/ncn+을/jco
+
+감고
+	감/pvg+고/ecc
+
+내일을
+	내일/ncn+을/jco
+
+바라보네
+	바라보/pvg+네/ef
+
+
+꿈인
+	꿈/ncn+이/jp+ㄴ/etm
+
+듯
+	듯/nbn
+
+들려오는
+	들리/pvg+어/ecx+오/px+는/etm
+
+목소리
+	목소리/ncn
+
+
+그리움에
+	그리움/ncn+에/jca
+
+서러워지는
+	서럽/paa+어/ecx+지/px+는/etm
+
+이
+	이/mmd
+
+마음
+	마음/ncn
+
+
+이제
+	이제/mag
+
+내일을
+	내일/ncn+을/jco
+
+향해
+	향하/pvg+어/ecx
+
+날개를
+	날개/ncn+를/jco
+
+펼치고
+	펼치/pvg+고/ecc
+
+날아올라라
+	날아올라/ncn+이/jp+라/ecs
+
+
+가슴에
+	가슴/ncn+에/jca
+
+묻은
+	묻/pvg+은/etm
+
+슬픔은
+	슬프/paa+ㅁ/etn+은/jxc
+
+잊어라
+	잊/pvg+어라/ecs
+
+
+후회도
+	후회/ncpa+도/jxc
+
+추억도
+	추억/ncpa+도/jxc
+
+어제의
+	어제/ncn+의/jcm
+
+일들은
+	일/pvg+ㄹ/etm+들/nbn+은/jxc
+
+모두
+	모두/mag
+
+잊고
+	잊/pvg+고/ecc
+
+
+저기
+	저기/mad
+
+멀리
+	멀리/mag
+
+새로운
+	새롭/paa+은/etm
+
+세상으로
+	세상/ncn+으로/jca
+
+
+서글픈
+	서글프/paa+ㄴ/etm
+
+미련을
+	미련/ncn+을/jco
+
+파도가
+	파도/ncn+가/jcs
+
+안아주네
+	안아주/pvg+네/ef
+
+
+물결이
+	물결/ncn+이/jcc
+
+출렁이면
+	출렁이/pvg+면/ecs
+
+나는
+	나/npp+는/jxc
+
+눈을
+	눈/ncn+을/jco
+
+감고
+	감고/ncn
+
+
+내일을
+	내일/ncn+을/jco
+
+향해
+	향하/pvg+어/ecx
+
+날개를
+	날개/ncn+를/jco
+
+펼치고
+	펼치/pvg+고/ecc
+
+날아올라라
+	날아올라/ncn+이/jp+라/ecs
+
+
+가슴에
+	가슴/ncn+에/jca
+
+묻은
+	묻/pvg+은/etm
+
+슬픔은
+	슬프/paa+ㅁ/etn+은/jxc
+
+잊어라
+	잊/pvg+어라/ecs
+
+
+후회도
+	후회/ncpa+도/jxc
+
+추억도
+	추억/ncpa+도/jxc
+
+어제의
+	어제/ncn+의/jcm
+
+일들은
+	일/pvg+ㄹ/etm+들/nbn+은/jxc
+
+모두
+	모두/mag
+
+잊고
+	잊/pvg+고/ecc
+
+
+저기
+	저기/mad
+
+멀리
+	멀리/mag
+
+새로운
+	새롭/paa+은/etm
+
+세상으로
+	세상/ncn+으로/jca
+
+
+거상
+	거상/ncn
+
+김만덕
+	김만덕/ncn
+
+OST
+	OST/f
+
+"뱃노래
+	"/sl+뱃노래/ncn
+
+-
+	-/sd
+
+자우림"
+	잡/pvg+으리/ep+ㅁ/etn+"/sl
+
+
+KBS1사극-
+	KBS1사극-/ncn
+
+거상
+	거상/ncn
+
+김만덕
+	김만덕/ncn
+
+Title
+	Title/f
+
+영상
+	영상/ncn
+
+
+{
+	{/sl
+
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+errorBean
+	errorBean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+code
+	code/f
+
+=
+	=/sy
+
+-18;
+	-18/ncn+;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+message
+	message/f
+
+=
+	=/sy
+
+'본
+	'/sl+보/pvg+ㄴ/etm
+
+동영상은
+	동영상/ncn+은/jxc
+
+저작권자의
+	저작권자/ncn+의/jcm
+
+요청으로
+	요청/ncpa+으로/jca
+
+재생이
+	재생/ncpa+이/jcc
+
+중지되었습니다
+	중지/ncpa+되/xsvn+었/ep+습니다/ef
+
+.'
+	./sf+'/sl
+
+
+;
+	;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+'false';
+	'/sl+false/f+'/sl+;/sy
+
+
+var
+	var/f
+
+flashVar
+	flashVar/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+errorBean
+	errorBean/f
+
+=
+	=/sy
+
+errorBean;
+	errorBean/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+flashVar
+	flashVar/f
+
+=
+	=/sy
+
+flashVar;
+	flashVar/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_08189
+	ugcPlayer_08189/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_08189'
+	VideoInfraUGCPlayer('ugcPlayer_08189'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_08189
+	ugcPlayer_08189/ncn
+
+.
+	./sf
+
+
+drawPlayLayerError();
+	drawPlayLayerError/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+거상
+	거상/ncn
+
+김만덕
+	김만덕/ncn
+
+..
+	./sf+./sf
+
+
+김만덕(이하
+	김만덕(이하/ncn
+
+만덕
+	만덕/ncn
+
+.
+	./sf
+
+
+1739~1812)을
+	1739/nnc+~/sd+1812/nnc+)/sr+을/jco
+
+알고
+	알/pvg+고/ecx
+
+있는
+	있/px+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+그리
+	그리/mad
+
+많지
+	많/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+만덕이
+	만덕/ncn+이/jcc
+
+살았던
+	살/pvg+아/ep+ㄴ/etm
+
+당시(조선조
+	당시(조선조/ncn
+
+정조시대)에는
+	정조시대)/ncn+에/jca+는/jxc
+
+여성으로서는
+	여성/ncn+으로서/jca+는/jxc
+
+드물게
+	드물/paa+게/ecs
+
+출신지인
+	출신지/ncn+이/jp+ㄴ/etm
+
+제주도뿐만
+	제주/ncn+도/jxc+뿐/jxc+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+전국적으로
+	전국/ncn+적/ncn+으로/jca
+
+알려졌던
+	알리/pvg+어/ecx+지/px+었/ep+던/etm
+
+인물이었다
+	인물/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+서울
+	서울/ncn
+
+장안에서는
+	장안/ncn+에서/jca+는/jxc
+
+큰
+	크/paa+ㄴ/etm
+
+화제를
+	화제/ncn+를/jco
+
+불러일으켜,
+	불러일으키/pvg+어/ecs+,/sp
+
+사대부를
+	사대부/ncn+를/jco
+
+비롯한
+	비롯/ncpa+하/xsva+ㄴ/etm
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+직접
+	직접/mag
+
+만나보고
+	만나/pvg+아/ecx+보/px+고/ecc
+
+싶어
+	싶/px+어/ecx
+
+했던
+	하/px+었/ep+던/etm
+
+인기
+	인기/ncn
+
+있는
+	있/px+는/etm
+
+유명
+	유명/ncn
+
+인사였다
+	인사/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+형조판서를
+	형조판서/ncn+를/jco
+
+지낸
+	지내/pvg+ㄴ/etm
+
+이가환은
+	이가환/ncn+은/jxc
+
+시를
+	시/nbu+를/jco
+
+지어
+	지/px+어/ecx
+
+헌정하였고
+	헌정/ncpa+하/xsva+었/ep+고/ecc
+
+영의정
+	영의정/ncn
+
+채제공은
+	채제공/ncn+은/jxc
+
+만덕전이라는
+	만덕전/ncn+이/jp+라/ef+는/etm
+
+전기까지
+	전기/ncn+까지/jxc
+
+써서
+	쓰/pvg+어서/ecs
+
+바쳤을
+	바치/pvg+었/ep+을/etm
+
+정도였다
+	정도/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+만덕은
+	만덕/ncn+은/jxc
+
+가난한
+	가/pvg+아/ecx+나/px+ㄴ/etm+한/nbn
+
+집에
+	집/ncn+에/jca
+
+태어나
+	태어나/pvg+아/ecx
+
+12살에
+	12/nnc+살/nbu+에/jca
+
+부모님이
+	부모님/ncn+이/jcc
+
+모두
+	모두/mag
+
+사망하여
+	사망/ncpa+하/xsva+어/ecx
+
+기생의
+	기생/ncn+의/jcm
+
+몸종으로
+	몸종/ncn+으로/jca
+
+의탁하였고,
+	의탁/ncpa+하/xsva+었/ep+고/ecc+,/sp
+
+다시
+	다시/mag
+
+기생의
+	기생/ncn+의/jcm
+
+수양딸이
+	수양딸/ncn+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+가무를
+	가무/ncpa+를/jco
+
+익혀
+	익히/pvg+어/ecx
+
+제주도에서
+	제주/ncn+도/ncn+에서/jca
+
+한때
+	하/pvg+ㄴ/etm+때/nbn
+
+가장
+	가장/mag
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+기생으로
+	기생/ncn+으로/jca
+
+살았다
+	살/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+가난한
+	가/pvg+아/ecx+나/px+ㄴ/etm+한/nbn
+
+집안
+	집안/ncn
+
+출신에다
+	출신/ncn+에다/jca
+
+전직
+	전직/ncpa
+
+기생이었던
+	기생/ncn+이/jp+었/ep+던/etm
+
+독신녀를,
+	독신녀/ncn+를/jco+,/sp
+
+여성에게
+	여성/ncn+에게/jca
+
+엄중했던
+	엄중/ncps+하/xsms+었/ep+던/etm
+
+유학을
+	유학/ncpa+을/jco
+
+익힌
+	익히/pvg+ㄴ/etm
+
+사대부들이
+	사대부/ncn+들/ncn+이/jcc
+
+앞다투어
+	앞다투/pvg+어/ecx
+
+칭송하며
+	칭송/ncpa+하/xsva+며/ecc
+
+전국적인
+	전국/ncn+적/ncn+이/jp+ㄴ/etm
+
+화제의
+	화제/ncn+의/jcm
+
+인물이
+	인물/ncn+이/jcc
+
+된
+	되/pvg+ㄴ/etm
+
+것은,
+	것/nbn+은/jxc+,/sp
+
+만덕이
+	만덕/ncn+이/jcc
+
+객주를
+	객주/ncn+를/jco
+
+운영하면서
+	운영/ncpa+하/xsva+면서/ecc
+
+제주도
+	제주/ncn+도/jxc
+
+물품과
+	물품/ncn+과/jcj
+
+육지
+	육지/ncn
+
+물품을
+	물품/ncn+을/jco
+
+교역하는
+	교역/ncpa+하/xsva+는/etm
+
+유통업을
+	유통업/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+막대한
+	막대/ncps+하/xsms+ㄴ/etm
+
+부를
+	부/ncn+를/jco
+
+이루었고,
+	이루/pvg+었/ep+고/ecc+,/sp
+
+그
+	그/mmd
+
+부를
+	부르/pvg+ㄹ/etm
+
+계속되는
+	계속/ncpa+되/xsvn+는/etm
+
+기근에
+	기근/ncn+에/jca
+
+시달리는
+	시달리/pvg+는/etm
+
+제주도민을
+	제주도민/ncn+을/jco
+
+살려내는데
+	살리/pvg+어/ecx+내/px+ㄴ데/ecs
+
+쾌척하였던
+	쾌척하/ncn+이/jp+었/ep+던/etm
+
+것에서
+	것/nbn+에서/jca
+
+비롯되었다
+	비롯/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+거상
+	거상/ncn
+
+김만덕은뛰어난
+	김만덕은뛰어난/ncn
+
+기업가이자
+	기업가/ncn+이/jp+자/ecc
+
+자신의
+	자신/ncn+의/jcm
+
+재산을
+	재산/ncn+을/jco
+
+사회에
+	사회/ncn+에/jca
+
+환원한
+	환원/ncpa+하/xsva+ㄴ/etm
+
+자선사업가로도
+	자선사업/ncn+가로/ncn+도/jxc
+
+오늘
+	오늘/ncn
+
+우리가
+	우리/npp+가/jcs
+
+충분히
+	충분히/mag
+
+만덕을
+	만덕/ncn+을/jco
+
+기릴만하다
+	기리/pvg+ㄹ/etm+만/nbs+하/xsms+다/ef
+
+.
+	./sf
+
+
+김만덕은독신녀로
+	김만덕은독신녀/ncn+로/jca
+
+유교
+	유교/ncn
+
+사회에서
+	사회/ncn+에서/jca
+
+주변부에
+	주변/ncn+부/ncn+에/jca
+
+머무를
+	머무르/pvg+ㄹ/etm
+
+수밖에
+	수/nbn+밖에/jxc
+
+없었으나,
+	없/paa+었/ep+으나/ecs+,/sp
+
+이에
+	이/npd+에/jca
+
+굴하지
+	굴하/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+당시
+	당시/ncn
+
+활발해진
+	활발해지/pvg+ㄴ/etm
+
+해상을
+	해상/ncn+을/jco
+
+이용한
+	이용/ncpa+하/xsva+ㄴ/etm
+
+유통업에
+	유통업/ncn+에/jca
+
+눈을떠
+	눈을떠/ncn
+
+여성기업인으로
+	여성기업인/ncn+으로/jca
+
+새로운
+	새롭/paa+은/etm
+
+영역을
+	영역/ncn+을/jco
+
+개척해
+	개척/ncpa+하/xsva+어/ecx
+
+나갔던
+	나/pvg+아/ecx+가/px+아/ep+ㄴ/etm
+
+창의적인
+	창의/ncpa+적/ncn+이/jp+ㄴ/etm
+
+개척자였다
+	개척자/ncn+이/jp+었/ep+다/ef
+
+
+정조시대
+	정조시대/ncn
+
+제주도민들이
+	제주도민/ncn+들/ncn+이/jcc
+
+계속되는
+	계속/ncpa+되/xsvn+는/etm
+
+재해로
+	재해/ncn+로/jca
+
+기근에
+	기근/ncn+에/jca
+
+시달리고
+	시달리/pvg+고/ecc
+
+있었으나
+	있/px+었/ep+으나/ecs
+
+조정에서
+	조정/ncn+에서/jca
+
+보낸
+	보내/pvg+ㄴ/etm
+
+구휼미가
+	구휼미/ncn+가/jcs
+
+풍랑에
+	풍랑/ncn+에/jca
+
+침몰하는
+	침몰/ncpa+하/xsva+는/etm
+
+불상사까지
+	불상사/ncn+까지/jxc
+
+겹쳐
+	겹치/pvg+어/ecx
+
+아사의
+	아사/ncpa+의/jcm
+
+위기에
+	위/ncn+이/jp+기/etn+에/jca
+
+처하자,
+	처하/pvg+자/ecc+,/sp
+
+만덕은
+	만덕/ncn+은/jxc
+
+유통업으로
+	유통업/ncn+으로/jca
+
+모은
+	모으/pvg+ㄴ/etm
+
+자신의
+	자신/ncn+의/jcm
+
+전
+	전/nbn
+
+재산을
+	재산/ncn+을/jco
+
+털어
+	털/pvg+어/ecx
+
+육지에서
+	육지/ncn+에서/jca
+
+쌀을
+	쌀/ncn+을/jco
+
+구입하여
+	구입/ncpa+하/xsva+어/ecx
+
+제주민들을
+	제/xp+주민/ncn+들/ncn+을/jco
+
+살려내었다
+	살리/pvg+어/ecx+내/px+었/ep+다/ef
+
+.
+	./sf
+
+
+당시
+	당시/ncn
+
+만덕의
+	만덕/ncn+의/jcm
+
+인기는
+	인기/ncn+는/jxc
+
+남성들만
+	남성/ncn+들/ncn+만/jxc
+
+활개치는
+	활개치/pvg+는/etm
+
+세상에서
+	세상/ncn+에서/jca
+
+여자가
+	여자/ncn+가/jcs
+
+홀로
+	홀로/mag
+
+많은
+	많/paa+은/etm
+
+재산을
+	재산/ncn+을/jco
+
+형성하는
+	형성/ncpa+하/xsva+는/etm
+
+비상한
+	비상/ncn+한/ncn
+
+재주를
+	재주/ncn+를/jco
+
+가졌던
+	가/pvg+아/ecx+지/px+었/ep+던/etm
+
+것과,
+	것/nbn+과/jct+,/sp
+
+어떤
+	어떤/mmd
+
+남성보다
+	남성/ncn+보다/jca
+
+많은
+	많/paa+은/etm
+
+양의
+	양/ncn+의/jcm
+
+곡식(쌀
+	곡/ncn+식/xsncc+(/sl+싸/paa+ㄹ/etm
+
+500섬)을
+	500/nnc+섬/nbu+)/sr+을/jco
+
+다른
+	다르/paa+ㄴ/etm
+
+사람들을
+	사람들/ncn+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+쾌척한
+	쾌척한/ncn
+
+것에
+	것/nbn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+놀라움
+	놀라움/ncn
+
+때문이었다
+	때문/nbn+이/jp+었/ep+다/ef
+
+
+김만덕은
+	김만덕/ncn+은/jxc
+
+자신이
+	자신/npp+이/jcs
+
+쌓은
+	쌓/pvg+은/etm
+
+부를
+	부르/pvg+ㄹ/etm
+
+사회에
+	사회/ncn+에/jca
+
+환원함으로써
+	환원/ncpa+하/xsva+ㅁ/etn+으로써/jca
+
+임금(정조)의
+	임금(정조)/ncn+의/jcm
+
+칭송을
+	칭송/ncpa+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+몸에
+	몸/ncn+에/jca
+
+받았고,
+	받/pvg+아/ep+고/ecc+,/sp
+
+명예직이었으나
+	명예직/ncn+이/jp+었/ep+으나/ecs
+
+의녀반수
+	의녀반수/ncn
+
+라는
+	라/ncn+는/jxc
+
+여성으로서는
+	여성/ncn+으로서/jca+는/jxc
+
+최고의
+	최고/ncn+의/jcm
+
+벼슬에
+	벼슬/ncpa+에/jca
+
+이르러
+	이르/pvg+어/ecx
+
+주변부에서부터
+	주변/ncn+부/ncn+에서/jca+부터/jxc
+
+중심부로
+	중심부/ncn+로/jca
+
+우뚝
+	우뚝/mag
+
+서게
+	서/pvg+게/ecs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+정조가
+	정조/ncn+가/jcs
+
+그의
+	그/npp+의/jcm
+
+업적을
+	업적/ncn+을/jco
+
+치하하기
+	치하/ncn+하기/ncn
+
+위해
+	위하/pvg+어/ecx
+
+소원을
+	소원/ncn+을/jco
+
+물었을
+	묻/pvg+었/ep+을/etm
+
+때
+	때/ncn
+
+만덕은
+	만덕/ncn+은/jxc
+
+주저
+	주저/ncn
+
+없이
+	없이/mag
+
+금강산
+	금강/ncn+산/ncn
+
+구경이라고
+	구경/ncn+이/jp+라/ef+고/jcr
+
+대답하였다
+	대답/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+당시
+	당시/ncn
+
+여성은
+	여성/ncn+은/jxc
+
+육지에
+	육지/ncn+에/jca
+
+갈
+	가/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없다는
+	없/paa+다/ef+는/etm
+
+법을
+	법/ncn+을/jco
+
+무시하면서,
+	무시/ncpa+하/xsva+면서/ecc+,/sp
+
+집안에
+	집안/ncn+에/jca
+
+갇혀야
+	갇히/pvg+어야/ecs
+
+했던
+	하/px+었/ep+던/etm
+
+여성의
+	여성/ncn+의/jcm
+
+테두리를
+	테두리/ncn+를/jco
+
+단숨에
+	단숨에/mag
+
+뛰어넘으면서
+	뛰어넘/pvg+으면서/ecc
+
+여성에게는
+	여성/ncn+에게/jca+는/jxc
+
+부인되었던
+	부인/ncn+되/xsvn+었/ep+던/etm
+
+이동의
+	이/nnc+동/nbu+의/jcm
+
+자유를
+	자유/ncn+를/jco
+
+요구하였던
+	요구/ncpa+하/xsva+었/ep+던/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+금강산
+	금강/ncn+산/ncn
+
+구경은
+	구경/ncn+은/jxc
+
+당시
+	당시/ncn
+
+보통
+	보통/mag
+
+여성으로서는
+	여성/ncn+으로서/jca+는/jxc
+
+꿈꿀
+	꿈꾸/pvg+ㄹ/etm
+
+수조차
+	수/nbn+조차/jxc
+
+없었던
+	없/paa+었/ep+던/etm
+
+성공한
+	성공/ncpa+한/ncn
+
+남성의
+	남성/ncn+의/jcm
+
+영역에
+	영역/ncn+에/jca
+
+도전한
+	도전/ncn+한/ncn
+
+것이었다
+	것/nbn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+정조는
+	정조/ncn+는/jxc
+
+만덕의
+	만덕/ncn+의/jcm
+
+소원을
+	소원/ncn+을/jco
+
+기꺼이
+	기꺼이/mag
+
+들어주었고
+	들/pvg+어/ecx+주/px+었/ep+고/ecc
+
+제주도에서
+	제주/ncn+도/ncn+에서/jca
+
+한양으로,
+	하/pvg+ㄴ/etm+양/nbn+으로/jca+,/sp
+
+그리고
+	그리고/maj
+
+금강산으로
+	금강/ncn+산/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길에
+	길/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+모든
+	모든/mma
+
+관공서가
+	관공서/ncn+가/jcs
+
+만덕에게
+	만덕에/ncn+이/jp+게/ecs
+
+편의를
+	편의/ncn+를/jco
+
+제공하도록
+	제공/ncpa+하/xsva+도록/ecs
+
+지시하였다
+	지시/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+김만덕은
+	김만덕/ncn+은/jxc
+
+억척스러운
+	억척/ncn+스럽/xsmn+은/etm
+
+제주도
+	제주/ncn+도/jxc
+
+여성으로당차고
+	여성으로당차/ncn+이/jp+고/ecc
+
+창의적이며
+	창의/ncpa+적/ncn+이/jp+며/ecc
+
+강한
+	강하/paa+ㄴ/etm
+
+의지력과
+	의지력/ncn+과/jct
+
+탁월한
+	탁월/ncps+하/xsms+ㄴ/etm
+
+능력으로
+	능력/ncn+으로/jca
+
+여성에게
+	여성/ncn+에게/jca
+
+부과된
+	부과/ncpa+되/xsvn+ㄴ/etm
+
+경계를
+	경계/ncn+를/jco
+
+뛰어넘었고,
+	뛰어넘/pvg+었/ep+고/ecc+,/sp
+
+
+자신의
+	자신/ncn+의/jcm
+
+사랑과
+	사랑/ncn+과/jcj
+
+감정에
+	감정/ncn+에/jca
+
+충실했던
+	충실/ncps+하/xsms+었/ep+던/etm
+
+여성이었다
+	여성/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+김만덕은
+	김만덕/ncn+은/jxc
+
+즈믄장아기와
+	즈믄장아/ncn+이/jp+기/etn+와/jcj
+
+자청비가
+	자청/ncpa+비/ncn+가/jcs
+
+혼합된
+	혼합/ncpa+되/xsvn+ㄴ/etm
+
+아름다운
+	아름답/paa+은/etm
+
+여성으로시대를
+	여성으로시대/ncn+를/jco
+
+꿰뚫어
+	꿰뚫/pvg+어/ecx
+
+보는
+	보/px+는/etm
+
+이지적
+	이지/ncn+적/ncn
+
+능력,
+	능력/ncn+,/sp
+
+개척
+	개척/ncpa
+
+정신,
+	정신/ncn+,/sp
+
+강한
+	강하/paa+ㄴ/etm
+
+의지력을
+	의지력/ncn+을/jco
+
+함께
+	함께/mag
+
+가진
+	가지/pvg+ㄴ/etm
+
+양성적
+	양성/ncn+적/ncn
+
+인간으로
+	인간/ncn+으로/jca
+
+여성주의를
+	여성/ncn+주의/ncn+를/jco
+
+신봉하는
+	신봉/ncpa+하/xsva+는/etm
+
+현대
+	현대/ncn
+
+여성에게
+	여성/ncn+에게/jca
+
+삶의
+	삶/ncn+의/jcm
+
+사표로
+	사표/ncn+로/jca
+
+조금도
+	조금/mag+도/jxc
+
+손색이
+	손색/ncn+이/jcc
+
+없다
+	없/paa+다/ef
+
+
+민초호야의
+	민초호야/ncn+의/jcm
+
+음악이야기
+	음악이야기/ncpa

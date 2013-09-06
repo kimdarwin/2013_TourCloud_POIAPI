@@ -1,0 +1,31 @@
+Title:
+8/21 분주령 대덕산 트레킹 후기
+
+Date:
+2012.08.22
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(913612,'files/attach/images/64/567/256/acce18655d3a104c5dcb547bfa4680fb.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/031014972b029a41464953c7483f28df.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/94ff2b959ed4faa96c610c68515ca3e1.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/733ff192eb7d6f54e8c176492db7c7e0.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/41e7c7a1f7025b674086cdf7dbc2fc7a.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/ff180898ea625379c0386e54b73ab6f4.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/0209026178a9b2bff0b07f80ff1ebcc4.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/40c8c9ae0f0ab0a4bfba2ba0a69cf632.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/5d9c4ba9a896c32f3d1f2a3a6b03d011.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/ab47c6f6d92f6e33a044196db8341960.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/7d6bd4ea5af482308803f00ee7badc90.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/66d40bcf39851023c9534b0d8ab22b8d.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/80453c1f5a1ecd669eebfd5a28e72a41.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/d13fbc62044cace28af455e1785b8b94.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/1e40033ebb7949402363eb1f75480694.jpg');
+list_gallery_add_image(913612,'files/attach/images/64/567/256/70ef8fb298ed150ad28c601cf035f2dd.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 21일(화), 아름다운 여행으로 분주령과 대덕산 트레킹을 다녀왔습니다. 이번 여행은 출발 전부터 거센 비 때문에 몹시 신경이 쓰였던 여행이었습니다. 이틀 전부터 서울에 계속 비가 내렸고 여행 당일도 큰 비가 온다는 예보가 있었습니다. 다행히 여행지인 태백은 아주 적은 양의 비 예보만 나와 여행을 진행했습니다. 그래도 마음이 조마조마했는데 다행히 태백의 날씨는 아주 좋았습니다. 비는 한 방울도 내리지 않았고 분주령을 지나 대덕산에 오를 때쯤엔 하늘이 환히 열리며 해가 나기까지 했습니다. 분주령까지는 시원한 숲길을 걷고 대덕산에 올라서는 열린 하늘 아래로 시원한 풍경을 보았으니 트레킹을 즐기기엔 더없이 좋은 날씨였습니다.
+분주령의 꽃들도 이제 꽤 바뀌어가고 있더군요. 이질풀과 동자꽃, 마타리 등은 여전히 많이 피어 있지만, 투구꽃이며 벌개미취, 취꽃 등이 곳곳에서 만개를 준비하고 있었습니다. 늦여름을 장식하는 꽃들이 다투어 피는 것을 보니 이제 무더위도 얼마 남지 않은 것 같습니다.
+분주령과 대덕산 길을 다 걷고 한강의 발원지로 알려진 검룡소를 돌아보았습니다. 영동지방은 요즘 비가 많이 오지 않은 것 같았는데 검룡소 아래는 수량이 아주 많아졌습니다. 시원한 물줄기가 폭포처럼 쏟아지는 모습을 보고 있자니 트레킹의 피로도 조금 가시는 것 같더군요.
+이번 분주령 트레킹은 날씨도 좋았고 또 사람도 없어서 상쾌하고 호젓한 숲을 마음껏 즐길 수 있었습니다. 아마 평일 여행이었기에 가능하지 않았나 싶습니다. 이번 트레킹에서도 많은 분들이 대덕산 정상까지 밟으셨더군요. 모두 여행의 피로 잘 푸시고 다시 활기차게 일상으로 돌아가시기 바랍니다.
+이 게시물을...

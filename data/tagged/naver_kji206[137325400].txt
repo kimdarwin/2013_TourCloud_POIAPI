@@ -1,0 +1,2250 @@
+[공주여행]아늑한
+	[/sl+공주/ncr+여행/ncpa+]/sr+아늑/ncps+하/xsms+ㄴ/etm
+
+가을
+	가/px+ㄹ/etm
+
+돌담길
+	돌담/ncn+길/ncn
+
+걷다
+	걷/pvg+다/ef
+
+.
+	./sf
+
+
+공주돌담마을
+	공주/ncr+돌담/ncn+마을/ncn
+
+도예촌
+	도예/ncn+촌/ncn
+
+상신리
+	상신/ncn+리/ncn
+
+
+공주
+	공주/ncr
+
+박정자
+	박정/ncps+자/ncn
+
+삼거리에서
+	삼거리/ncn+에서/jca
+
+2.
+	2./nnc
+
+5km정도
+	5km정/ncn+도/jxc
+
+공주방향으로
+	공주/ncr+방향/ncn+으로/jca
+
+가다보면
+	가/pvg+아/ecx+보/px+면/ecs
+
+공주
+	공주/ncr
+
+도예촌
+	도예/ncn+촌/ncn
+
+이정표를
+	이정표/ncn+를/jco
+
+만난다
+	만나/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+좌회전후
+	좌회전/ncpa+후/ncn
+
+상신리
+	상신/ncn+리/ncn
+
+입구
+	입구/ncn
+
+까지는
+	끄/pvg+어/ecx+지/px+는/etm
+
+하신리를
+	하/px+시/ep+ㄴ/etm+리/nbn+를/jco
+
+지나
+	지나/pvg+아/ecx
+
+약
+	약/ncn
+
+5km
+	5km/ncn
+
+정도
+	정도/ncn
+
+깊숙한
+	깊숙/ncps+하/xsms+ㄴ/etm
+
+길을
+	길/ncn+을/jco
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+
+천하대장군,
+	천하대장군/ncn+,/sp
+
+천하여장군
+	천하/ncn+여장군/ncn
+
+그리고
+	그리고/maj
+
+키큰
+	키큰/ncn
+
+오리솟대,
+	오리/ncn+솟대/ncn+,/sp
+
+상신리
+	상신/ncn+리/ncn
+
+유래가
+	유래/ncpa+가/jcc
+
+적힌
+	적히/pvg+ㄴ/etm
+
+석재를
+	석재/ncn+를/jco
+
+만난다
+	만나/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+전부
+	전부/mag
+
+금실
+	금실/ncn
+
+좋게
+	좋/paa+게/ecs
+
+새끼가
+	새끼/ncn+가/jcs
+
+묶여
+	묶이/pvg+어/ecx
+
+있으며
+	있/px+으며/ecc
+
+아직도
+	아직/mag+도/jxc
+
+정월
+	정월/ncn
+
+대보름
+	대보름/ncn
+
+전날에
+	전날/ncn+에/jca
+
+장승제를
+	장승/ncn+제/ncn+를/jco
+
+올린다
+	올리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+이곳부터
+	이곳/npd+부터/jxc
+
+상신리
+	상신/ncn+리/ncn
+
+마을이
+	마을/ncn+이/jcc
+
+시작된다
+	시작/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+상신리명칭의
+	상신/ncn+리명/ncn+칭의/ncn
+
+유래가
+	유래/ncpa+가/jcc
+
+적힌
+	적히/pvg+ㄴ/etm
+
+석재에
+	석재/ncn+에/jca
+
+적힌
+	적히/pvg+ㄴ/etm
+
+내용을
+	내용/ncn+을/jco
+
+옮기면
+	옮/pvg+기/etn+이/jp+면/ecs
+
+
+지명은큰
+	지명은큰/ncn
+
+둠벙이
+	둠벙/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+신소(
+	신소(/ncn
+
+)
+	)/sr
+
+라고
+	라/ncn+이/jp+고/ecc
+
+부르며
+	부르/pvg+며/ecc
+
+신소골
+	신소골/ncn
+
+위에
+	위/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+상신소로
+	상신/ncn+소/ncn+로/jca
+
+불리다
+	불리/pvg+다/ef
+
+상신리라
+	상신/ncn+리/ncn+이/jp+라/ecs
+
+불리게
+	불리/pvg+게/ecs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+옛날
+	옛날/ncn
+
+이
+	이/mmd
+
+마을에당간지주와
+	마을에당간지주/ncn+와/jcj
+
+주초,
+	주초/ncn+,/sp
+
+부도대석과
+	부도대석/ncn+과/jcj
+
+탑재로
+	탑재/ncn+로/jca
+
+보아
+	보/pvg+아/ecx
+
+큰
+	크/paa+ㄴ/etm
+
+사찰이
+	사찰/ncn+이/jcc
+
+있었는데
+	있/px+었/ep+는데/ecs
+
+"구룡사지"로
+	"구룡사지"로/ncn
+
+그
+	그/mmd
+
+흔적만을
+	흔적/ncn+만/ncn+을/jco
+
+찾을
+	찾/pvg+을/etm
+
+수
+	수/nbn
+
+있으며
+	있/paa+으며/ecc
+
+
+아직도
+	아직/mag+도/jxc
+
+마을
+	마을/ncn
+
+신앙이
+	신앙/ncpa+이/jcc
+
+면면히
+	면면히/mag
+
+지켜지며
+	지키/pvg+어/ecx+지/px+며/ecc
+
+삼불봉과
+	삼불봉/ncn+과/jcj
+
+수정봉이
+	수정/ncn+봉/ncn+이/jcc
+
+감싸고
+	감싸/pvg+고/ecc
+
+있으며
+	있/px+으며/ecc
+
+앞으로는
+	앞/ncn+으로/jca+는/jxc
+
+용산구곡이
+	용산구/ncn+곡/ncn+이/jcc
+
+흘러
+	흐르/pvg+어/ecx
+
+산세가
+	산세/ncn+가/jcs
+
+무척
+	무척/mag
+
+아름다운
+	아름답/paa+은/etm
+
+마을이다
+	마을/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+몇발자국
+	몇발자국/ncn
+
+걸으면
+	걸/pvg+면/ecs
+
+우측에
+	우측/ncn+에/jca
+
+화강암으로
+	화강암/ncn+으로/jca
+
+된
+	되/pvg+ㄴ/etm
+
+선돌을
+	선돌/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는데
+	있/px+는데/ecs
+
+역시
+	역시/mag
+
+금줄이
+	금줄/ncn+이/jcc
+
+걸려
+	걸리/pvg+어/ecx
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+위쪽이
+	위쪽/ncn+이/jcc
+
+뽀족하며
+	뽀족하/ncn+이/jp+며/ecc
+
+높이가
+	높이/ncn+가/jcs
+
+약
+	약/ncn
+
+2.5m로
+	2.5m/ncn+로/jca
+
+석재에는
+	석재/ncn+에/jca+는/jxc
+
+신야춘상엄원일월(
+	신야춘상엄원일월(/ncn
+
+)
+	)/sr
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+각자
+	각자/ncn
+
+되어
+	되/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+글귀를
+	글귀/ncn+를/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+유래는
+	유래/ncpa+는/jxc
+
+알수
+	알/pvg+ㄹ/etm+수/nbn
+
+없으나
+	없/paa+으나/ecs
+
+신앙이나
+	신앙/ncpa+이나/jcj
+
+소원을
+	소원/ncn+을/jco
+
+비는
+	비/paa+는/etm
+
+의미를
+	의미/ncpa+를/jco
+
+두고
+	두/pvg+고/ecc
+
+있음을
+	있/px+음/etn+을/jco
+
+짐작
+	짐작/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+수있는
+	수/nbn+있/xsmn+는/etm
+
+것
+	것/nbn
+
+같았다
+	같/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+폐교를
+	폐교/ncn+를/jco
+
+활용한
+	활용/ncpa+하/xsva+ㄴ/etm
+
+문화체험장
+	문화/ncn+체험/ncpa+장/ncn
+
+"오도이촌"은
+	"오도이촌"은/ncn
+
+"5일은
+	"/sl+5/nnc+일/nbu+은/jxc
+
+도시에서
+	도시/ncn+에서/jca
+
+2일은
+	2/nnc+일/nbu+은/jxc
+
+촌에서"
+	촌/ncn+에서/jca+"/sr
+
+라는
+	라/ncn+는/jxc
+
+의미로
+	의미/ncpa+로/jca
+
+족구장,
+	족구/ncn+장/ncn+,/sp
+
+식당,
+	식당/ncn+,/sp
+
+체육관
+	체육관/ncn
+
+시설을
+	시설/ncpa+을/jco
+
+갖추고
+	갖추/pvg+고/ecc
+
+있으며
+	있/paa+으며/ecc
+
+
+동아리
+	동아리/ncn
+
+모임
+	모이/pvg+ㅁ/etn
+
+등을
+	등/nbu+을/jco
+
+저렴한
+	저렴/ncn+한/ncn
+
+가격에
+	가격/ncn+에/jca
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+동네에서
+	동네/ncn+에서/jca
+
+관리하는
+	관리/ncpa+하/xsva+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+당간지주
+	당간지주/ncn
+
+맞은편
+	맞은편/ncn
+
+이
+	이/mmd
+
+마을의
+	마을/ncn+의/jcm
+
+유일한
+	유일한/mag
+
+조그마한
+	조그마하/paa+ㄴ/etm
+
+가게와
+	가게/ncn+와/jcj
+
+버스
+	버스/ncn
+
+종점을
+	종점/ncn+을/jco
+
+알려
+	알리/pvg+어/ecx
+
+주는
+	주/px+는/etm
+
+시간표가
+	시간표/ncn+가/jcs
+
+오랜
+	오래/paa+ㄴ/etm
+
+이야기를
+	이야기/ncpa+를/jco
+
+품고
+	품/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+풍경이다
+	풍경/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+마을
+	마을/ncn
+
+입구에
+	입구/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+당간지주는
+	당간지주/ncn+는/jxc
+
+사찰에서
+	사찰/ncn+에서/jca
+
+행사가
+	행사/ncpa+가/jcc
+
+있을때
+	있/px+을/etm+때/nbn
+
+비단이나
+	비단/ncn+이나/jcj
+
+천에
+	천/nnc+에/jca
+
+부처나
+	부처/ncn+나/jcj
+
+보살
+	보살/ncn
+
+그림을
+	그림/ncn+을/jco
+
+그린
+	그리/pvg+ㄴ/etm
+
+"당"
+	"/sl+당/ncn+"/sr
+
+이라는
+	이르/paa+어/ef+는/etm
+
+기를
+	기/ncn+를/jco
+
+다는
+	달/paa+는/etm
+
+깃대
+	깃대/ncn
+
+역활을
+	역활/ncn+을/jco
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+
+설명에
+	설명/ncpa+에/jca
+
+의하면
+	의하/pvg+면/ecs
+
+한쪽이
+	하/pvg+ㄴ/etm+쪽/nbn+이/jcc
+
+부러진것을
+	부르/pvg+어/ecx+지/px+ㄴ/etm+것/nbn+을/jco
+
+최근에
+	최근/ncn+에/jca
+
+복원하였으며
+	복원/ncpa+하/xsva+었/ep+으며/ecc
+
+지주의
+	지주/ncn+의/jcm
+
+측면에
+	측면/ncn+에/jca
+
+연꽃
+	연꽃/ncn
+
+무늬가
+	무늬/ncn+가/jcs
+
+새겨진
+	새기/pvg+어/ecx+지/px+ㄴ/etm
+
+점으로
+	점/nbu+으로/jca
+
+고려
+	고려/ncpa
+
+시대로
+	시대/ncn+로/jca
+
+
+인근에
+	인근/ncn+에/jca
+
+구룡사라는
+	구룡사라/ncn+는/jxc
+
+절의
+	절/ncn+의/jcm
+
+당간지주로
+	당간지주/ncn+로/jca
+
+사용
+	사용/ncpa
+
+되었던
+	되/pvg+었/ep+던/etm
+
+것으로
+	것/nbn+으로/jca
+
+추정한다
+	추정/ncpa+하/xsva+ㄴ다/ef
+
+라고
+	라/ncn+이/jp+고/ecc
+
+적혀있었다
+	적히/pvg+어/ecx+있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+상신리
+	상신/ncn+리/ncn
+
+마을
+	마을/ncn
+
+도예촌에서
+	도예/ncn+촌/ncn+에서/jca
+
+해마다봄에열리는
+	해마다봄에열리/ncn+는/jxc
+
+도자기
+	도자/ncn+이/jp+기/etn
+
+축제때
+	축제/ncn+때/ncn
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+그릇을
+	그릇/nbu+을/jco
+
+사기
+	사/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+찾아
+	찾/pvg+아/ecx
+
+오는
+	오/px+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+올때
+	오/px+ㄹ/etm+때/nbn
+
+마다
+	마다/ncpa
+
+상신리
+	상신/ncn+리/ncn
+
+돌담풍경마을을
+	돌담/ncn+풍경/ncn+마을/ncn+을/jco
+
+마음으로
+	마음/ncn+으로/jca
+
+품고
+	품/pvg+고/ecc
+
+있다가
+	있/px+다가/ecs
+
+담쟁이
+	담쟁/ncn+이/jcc
+
+덩굴
+	덩굴/ncn
+
+덮힌
+	덮히/pvg+ㄴ/etm
+
+모습이
+	모습/ncn+이/jcc
+
+보고
+	보/px+고/ecc
+
+싶어
+	싶/px+어/ecx
+
+찾아
+	찾/pvg+아/ecx
+
+왔다
+	오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+예상이
+	예상/ncpa+이/jcc
+
+빗나가지
+	빗나가/pvg+지/ecx
+
+않았다
+	않/px+아/ep+다/ef
+
+.
+	./sf
+
+
+아무렇게나
+	아무렇/pad+게/ecs+나/jxc
+
+쌓은듯
+	쌓/pvg+은/etm+듯/nbs
+
+하지만
+	하지만/maj
+
+정교한
+	정교/ncn+한/ncn
+
+돌담을
+	돌담/ncn+을/jco
+
+가득
+	가득/mag
+
+덮은
+	덮/pvg+은/etm
+
+초록은
+	초록/ncn+은/jxc
+
+때를
+	때/ncn+를/jco
+
+안탄
+	안탄/ncn
+
+소담한
+	소담/ncps+하/xsms+ㄴ/etm
+
+자연의
+	자연/ncn+의/jcm
+
+모습
+	모습/ncn
+
+그대로
+	그대로/mag
+
+였다
+	였다/ncn
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+황토
+	황토/ncn
+
+흙집
+	흙집/ncn
+
+지붕위에서
+	지붕/ncn+위/ncn+에서/jca
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+담쟁이
+	담쟁/ncn+이/jcc
+
+덩굴은
+	덩굴/ncn+은/jxc
+
+초록의
+	초록/ncn+의/jcm
+
+향기로한여름의
+	향기로한여름/ncn+의/jcm
+
+터질
+	트/pvg+어/ecx+지/px+ㄹ/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+더위도
+	더위/ncn+도/jxc
+
+이곳에서는
+	이곳/npd+에서/jca+는/jxc
+
+한풀
+	한풀/ncn
+
+꺽일것
+	꺽이/pvg+ㄹ/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+요란했던
+	요란/ncps+하/xsms+었/ep+던/etm
+
+여름도
+	여름/ncn+도/jxc
+
+이제
+	이제/mag
+
+떠날
+	떠나/pvg+ㄹ/etm
+
+준비를
+	준비/ncn+를/jco
+
+하는것
+	하/pvg+는/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+이곳
+	이곳/npd
+
+돌담풍경마을에는
+	돌담/ncn+풍경/ncn+마을/ncn+에/jca+는/jxc
+
+또
+	또/maj
+
+다른
+	다르/paa+ㄴ/etm
+
+특징이
+	특징/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+민족
+	민족/ncn
+
+고유
+	고유/ncps
+
+전통
+	전통/ncn
+
+단전호흡을
+	단전호흡/ncpa+을/jco
+
+하는
+	하/pvg+는/etm
+
+수련자들이
+	수련/ncn+자/ncn+들/xsncc+이/jcc
+
+많이
+	많/paa+이/xsa
+
+밀집하여
+	밀집/ncps+하/xsms+어/ecx
+
+정신수양을
+	정신/ncn+수양/ncn+을/jco
+
+하며저녁에는
+	하며저녁/ncn+에/jca+는/jxc
+
+산에
+	산/ncn+에/jca
+
+가서
+	가/pvg+서/ecs
+
+기수련을
+	기수련/ncn+을/jco
+
+하는분들이
+	하는분들/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+있어
+	있/paa+어/ecs
+
+
+다른
+	다른/mma
+
+곳과
+	곳/ncn+과/jcj
+
+다른색깔을
+	다른색깔/ncn+을/jco
+
+지니고
+	지/nbn+이/jp+니/ef+고/jcr
+
+있으며
+	있/px+으며/ecc
+
+개천절,
+	개천절/ncn+,/sp
+
+추석,
+	추석/ncn+,/sp
+
+구정때는
+	구정/ncn+때/ncn+는/jxc
+
+전국에서
+	전국/ncn+에서/jca
+
+많은
+	많/paa+은/etm
+
+기수련자들이
+	기수련자들/ncn+이/jcc
+
+공부하며
+	공부/ncpa+하/xsva+며/ecc
+
+경배를
+	경배/ncpa+를/jco
+
+드리기
+	드리/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+모여
+	모이/pvg+어/ecx
+
+든다고
+	들/pvg+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+이곳은
+	이곳/npd+은/jxc
+
+상신리
+	상신/ncn+리/ncn
+
+계곡은
+	계곡/ncn+은/jxc
+
+용과
+	용/ncn+과/jcj
+
+함께신이
+	함께신/ncn+이/jcc
+
+숨쉬는
+	숨쉬/pvg+는/etm
+
+곳이라는
+	곳/ncn+이/jp+라/ef+는/etm
+
+의미인"용산구곡"으로
+	의미/ncpa+이/jp+ㄴ/etm+"/sr+용산구/ncn+곡/ncn+"/sr+으로/jca
+
+유명하다
+	유명/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+취음
+	취음/ncn
+
+권중면
+	권중면/ncn
+
+선생이
+	선생/ncr+이/jcc
+
+한일
+	한/nnc+일/nbu
+
+합방의
+	합방/ncpa+의/jcm
+
+비보를
+	비보/ncn+를/jco
+
+듣고
+	듣/pvg+고/ecc
+
+상신리로
+	상신/ncn+리/ncn+로/jca
+
+낙향하여
+	낙향/ncpa+하/xsva+어/ecx
+
+제자를
+	제자/ncn+를/jco
+
+키우며
+	키우/pvg+며/ecc
+
+생전에
+	생전/ncn+에/jca
+
+계곡
+	계곡/ncn
+
+바위에
+	바위/ncn+에/jca
+
+새긴
+	새기/pvg+ㄴ/etm
+
+글씨
+	글씨/ncn
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+1곡
+	1/nnc+곡/nbu
+
+심용문을
+	심용문/ncn+을/jco
+
+시작으로
+	시작/ncpa+으로/jca
+
+음용담,
+	음용담,/ncn
+
+와룡강,
+	와룡강,/ncn
+
+유룡소,
+	유룡소,/ncn
+
+황룡담,
+	황룡/ncn+담/ncn+,/sp
+
+신룡연,
+	신룡연,/ncn
+
+비룡추,
+	비룡추,/ncn
+
+운룡소,
+	운룡소,/ncn
+
+견룡대
+	견룡대/ncn
+
+까지
+	까/pvg+지/ecx
+
+언제
+	언제/mag
+
+기회가
+	기회/ncn+가/jcs
+
+되면
+	되/pvg+면/ecs
+
+암반글씨를
+	암반/ncn+글씨/ncn+를/jco
+
+찾는
+	찾/pvg+는/etm
+
+산행을
+	산행/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+골목길을
+	골목길/ncn+을/jco
+
+걷다보니
+	걷다보니/ncn
+
+담벼락에
+	담벼락/ncn+에/jca
+
+자리잡은
+	자리잡/pvg+은/etm
+
+작은
+	작/paa+은/etm
+
+생명앞에
+	생명/ncn+앞/ncn+에/jca
+
+저절로
+	저절로/mag
+
+무릎이
+	무릎/ncn+이/jcc
+
+굻어진다
+	굻어진다/ncn
+
+.
+	./sf
+
+
+민들레의
+	민들레/ncn+의/jcm
+
+터질듯한
+	터지/pvg+ㄹ/etm+듯/nbs+하/xsms+ㄴ/etm
+
+생명력은
+	생명력/ncn+은/jxc
+
+돌담과
+	돌담/ncn+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+몇번을
+	몇/nnc+번/nbu+을/jco
+
+피어나고
+	피/pvg+어/ecx+나/px+고/ecc
+
+날려
+	날리/pvg+어/ecx
+
+보냈을지
+	보내/pvg+었/ep+을/etm+지/nbn
+
+....
+	.../se+./sf
+
+
+시시각각
+	시시각각/mag
+
+변해가는
+	변하/pvg+어/ecx+가/px+는/etm
+
+세월앞에
+	세월/ncn+앞/ncn+에/jca
+
+민들레는
+	민들레/ncn+는/jxc
+
+살짝
+	살짝/mag
+
+부는
+	불/pvg+는/etm
+
+바람에도
+	바라/pvg+ㅁ/etn+에/jca+도/jxc
+
+순응하며
+	순응/ncpa+하/xsva+며/ecc
+
+쓸려가는
+	쓸리/pvg+어/ecx+가/px+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+돌담
+	돌담/ncn
+
+마을은
+	마을/ncn+은/jxc
+
+생각보다
+	생각/ncpa+보다/jca
+
+너무
+	너무/mag
+
+조용하다
+	조용/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+걷다보니
+	걷다보/ncn+이/jp+니/ecs
+
+단학의
+	단학/ncn+의/jcm
+
+대가
+	대/nbu+가/jcc
+
+봉우
+	봉우/ncn
+
+권태훈선생의
+	권태훈선생/ncn+의/jcm
+
+묘소도
+	묘소/ncn+도/jxc
+
+보이고
+	보이/pvg+고/ecc
+
+돌담을
+	돌담/ncn+을/jco
+
+끼고
+	끼/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+다양한
+	다양/ncn+한/ncn
+
+대문의
+	대문/ncn+의/jcm
+
+표정은
+	표정/ncn+은/jxc
+
+걷는
+	걷/pvg+는/etm
+
+즐거움을
+	즐거움/ncn+을/jco
+
+들려
+	들리/pvg+어/ecx
+
+준다
+	주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+애써
+	애쓰/pvg+어/ecx
+
+찾아나서지
+	찾/pvg+아/ecx+나서/px+지/ecx
+
+않아도
+	않/px+아/ecs
+
+터벅
+	터벅/ncn
+
+터벅
+	터벅/ncn
+
+걷다보면
+	걷다보/ncn+이/jp+면/ecs
+
+세월이
+	세/nnc+월/nbu+이/jcc
+
+빚은
+	빚/pvg+은/etm
+
+추억
+	추억/ncpa
+
+속으로
+	속/ncn+으로/jca
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+허물어진
+	허물/pvg+어/ecx+지/px+ㄴ/etm
+
+돌담과
+	돌담/ncn+과/jcj
+
+나무대문에서는
+	나무/ncn+대문/ncn+에서/jca+는/jxc
+
+소박하지만
+	소박/ncps+하/xsms+지/ecx+말/px+ㄴ/etm
+
+살가운
+	살가운/ncn
+
+정이
+	정/ncn+이/jcc
+
+느껴진다
+	느끼/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+걸어서
+	걷/pvg+어서/ecs
+
+만난
+	만나/pvg+ㄴ/etm
+
+곳,
+	곳/ncn+,/sp
+
+걷다보니
+	걷다보/ncn+이/jp+니/ecs
+
+어느새
+	어느새/mag
+
+길은
+	길/paa+ㄴ/etm
+
+익숙하고
+	익숙/ncn+하고/jct
+
+친숙하여
+	친숙/ncps+하/xsms+어/ecx
+
+카메라에
+	카메라/ncn+에/jca
+
+담기는
+	담/pvg+기/etn+는/jxc
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+또한
+	또한/maj
+
+깊이가
+	깊이/ncn+가/jcs
+
+깊어진다
+	깊/paa+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+자전거가
+	자전거/ncn+가/jcs
+
+세워져
+	세우/pvg+어/ecx+지/px+어/ecx
+
+있는
+	있/px+는/etm
+
+대문안에는
+	대문/ncn+안/ncn+에/jca+는/jxc
+
+누군가의
+	누군가/npp+의/jcm
+
+삶이
+	삶/ncn+이/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+나
+	나/npp
+
+혼자의
+	혼자/ncn+의/jcm
+
+상상과
+	상상/ncn+과/jcj
+
+해석으로
+	해석/ncpa+으로/jca
+
+이뤄진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+주인의
+	주인/ncn+의/jcm
+
+삶이지만,
+	삶/ncn+이/jp+지만/ecs+,/sp
+
+소소한
+	소소한/ncn
+
+일상이
+	일상/ncn+이/jcc
+
+얽힌
+	얽히/pvg+ㄴ/etm
+
+풍경은
+	풍경/ncn+은/jxc
+
+여행자의
+	여행자/ncn+의/jcm
+
+눈을
+	눈/ncn+을/jco
+
+너그럽게
+	너그럽/paa+게/ecs
+
+만든다
+	만들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+가만히
+	가만히/mag
+
+보니
+	보/px+니/ecs
+
+돌담에도
+	돌담/ncn+에/jca+도/jxc
+
+지혜가
+	지혜/ncn+가/jcs
+
+담겨
+	담기/pvg+어/ecx
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+무너지지
+	무너지/pvg+지/ecx
+
+않도록
+	않/px+도록/ecs
+
+양쪽으로
+	양쪽/ncn+으로/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+벽돌을
+	벽돌/ncn+을/jco
+
+달아
+	달/paa+아/ecx
+
+매
+	매/pvg+어/ecx
+
+두고
+	두/pvg+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+새련되지
+	새련되지/ncn
+
+않지만
+	않/px+지/ecx+말/px+ㄴ/etm
+
+정겨움
+	정겹/paa+음/etn
+
+잔뜩
+	잔뜩/mag
+
+묻어
+	묻/pvg+어/ecx
+
+나는
+	나/npp+는/jxc
+
+돌담은
+	돌담/ncn+은/jxc
+
+빛과
+	빛/ncn+과/jct
+
+어우러진
+	어우러지/pvg+ㄴ/etm
+
+흑백
+	흑백/ncn
+
+사진으로
+	사진/ncn+으로/jca
+
+다가
+	다/ncn+가/jcs
+
+왔다
+	오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+백제
+	백제/ncn
+
+도예문화의
+	도예/ncn+문화/ncn+의/jcm
+
+모태가
+	모태/ncn+가/jcs
+
+된곳
+	된곳/ncn
+
+철화분청사기의
+	철화분청사기/ncn+의/jcm
+
+도예전통을
+	도예/ncn+전통/ncn+을/jco
+
+이어가고
+	잇/pvg+어/ecx+가/px+고/ecc
+
+있는
+	있/px+는/etm
+
+도예촌과
+	도예/ncn+촌/ncn+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+"돌담풍경마을"
+	"/sl+돌담/ncn+풍경/ncn+마을/ncn+"/sr
+
+이
+	이/mmd
+
+또
+	또/maj
+
+다른
+	다르/paa+ㄴ/etm
+
+풍경으로
+	풍경/ncn+으로/jca
+
+바뀌었다
+	바뀌/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+마을
+	마을/ncn
+
+벽화는
+	벽화/ncn+는/jxc
+
+2010년
+	2010/nnc+년/nbu
+
+고려대사회봉사단
+	고려/ncpa+대사회/ncn+봉사단/ncn
+
+80여명이
+	80/nnc+여/xsnu+명/nbu+이/jcc
+
+상신리
+	상신/ncn+리/ncn
+
+마을
+	마을/ncn
+
+특징을
+	특징/ncn+을/jco
+
+살려
+	살리/pvg+어/ecx
+
+그렸는데
+	그리/pvg+었/ep+는데/ecs
+
+돌담과
+	돌담/ncn+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+낭만적인
+	낭만/ncn+적/ncn+이/jp+ㄴ/etm
+
+분위기로
+	분위기/ncn+로/jca
+
+자리
+	자리/ncn
+
+잡고
+	잡/pvg+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+해맑게
+	해맑/paa+게/ecs
+
+피어난
+	피/pvg+어/ecx+나/px+ㄴ/etm
+
+담벽은
+	담벽/ncn+은/jxc
+
+마치
+	마치/mag
+
+동화책을
+	동화책/ncn+을/jco
+
+펼쳐보듯
+	펼치/pvg+어/ecx+보/px+듯/ecs
+
+커다랗게
+	커다랗/paa+게/ecs
+
+확대된
+	확대/ncpa+되/xsvn+ㄴ/etm
+
+풍경으로
+	풍경/ncn+으로/jca
+
+다가온다
+	다가오/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+발길
+	발길/ncn
+
+닿는
+	닿/pvg+는/etm
+
+길은즐겁고소담스러운
+	길은즐겁고소담스러운/ncn
+
+얘기가
+	얘/ncn+이/jp+기/etn+가/jcs
+
+가득하며
+	가득/ncps+하/xsms+며/ecc
+
+각각의
+	각각/ncn+의/jcm
+
+색깔은
+	색깔/ncn+은/jxc
+
+서로
+	서로/mag
+
+어우러져
+	어우러지/pvg+어/ecx
+
+편안하게
+	편안/ncps+하/xsms+게/ecs
+
+다가온다
+	다가오/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+돌담은
+	돌담/ncn+은/jxc
+
+끼고
+	끼/pvg+고/ecc
+
+걷는
+	걷/pvg+는/etm
+
+길은
+	길/ncn+은/jxc
+
+온작
+	오/px+ㄴ/etm+작/nbn
+
+야생화들이
+	야생/ncpa+화/ncn+들/xsncc+이/jcc
+
+앞다퉈
+	앞다투/pvg+어/ecx
+
+꽃망을
+	꽃망/ncn+을/jco
+
+터트리며
+	터트리/pvg+며/ecc
+
+가득피어
+	가득/ncps+피/ncn+이/jp+어/ecs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+매발톱은
+	매/xp+발톱/ncn+은/jxc
+
+다양한
+	다양/ncn+한/ncn
+
+색깔로
+	색깔/ncn+로/jca
+
+첩첩히
+	첩첩히/ncn
+
+포개져
+	포개지/pvg+어/ecx
+
+보는
+	보/px+는/etm
+
+즐거움을
+	즐거움/ncn+을/jco
+
+안겨
+	안기/pvg+어/ecx
+
+주었다
+	주/px+었/ep+다/ef
+
+.
+	./sf
+
+
+마을을
+	마을/ncn+을/jco
+
+빠져
+	빠지/pvg+어/ecx
+
+나올때
+	나/pvg+아/ecx+오/px+ㄹ/etm+때/nbn
+
+쯤
+	쯤/ncn
+
+막
+	막/mag
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+버스에서
+	버스/ncn+에서/jca
+
+외출
+	외출/ncpa
+
+나갔던
+	나/pvg+아/ecx+가/px+아/ep+ㄴ/etm
+
+어르신들이
+	어르신/ncn+들/ncn+이/jcc
+
+짐
+	지/px+ㅁ/etn
+
+한보따리
+	한보따리/ncn
+
+들고
+	들/pvg+고/ecc
+
+내려서
+	내리/pvg+어서/ecs
+
+걷는
+	걷/pvg+는/etm
+
+뒷모습은
+	뒷모습/ncn+은/jxc
+
+
+전형적인
+	전형/ncn+적/ncn+이/jp+ㄴ/etm
+
+시골의
+	시골/ncn+의/jcm
+
+풍경이자
+	풍경/ncn+이/jp+자/ecc
+
+우리
+	우리/npp
+
+부모님의
+	부모님/ncn+의/jcm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+호기심으로
+	호/nbu+이/jp+기/etn+이/jp+시/ep+ㅁ/etn+으로/jca
+
+찾아온
+	찾/pvg+아/ecx+오/px+ㄴ/etm
+
+마을에서
+	마을/ncn+에서/jca
+
+통채로
+	통채/ncn+로/jca
+
+챙긴
+	챙기/pvg+ㄴ/etm
+
+길위의
+	길위의/ncn
+
+행복은
+	행복/ncps+은/jxc
+
+만족감을
+	만족감/ncn+을/jco
+
+안고
+	안/pvg+고/ecc
+
+돌아선다
+	돌아서/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+도예촌과
+	도예/ncn+촌/ncn+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+돌담풍경마을은
+	돌담/ncn+풍경/ncn+마을/ncn+은/jxc
+
+철이
+	철/ncn+이/jcc
+
+바뀌는
+	바뀌/pvg+는/etm
+
+계절,
+	계절/ncn+,/sp
+
+들판의
+	들/pvg+ㄹ/etm+판/nbn+의/jcm
+
+색깔이
+	색깔/ncn+이/jcc
+
+쇠어질
+	쇠/ncn+이/jp+어/ecx+지/px+ㄹ/etm
+
+쯤
+	쯤/ncn
+
+다시
+	다시/mag
+
+온다면
+	오/px+ㄴ다면/ecs
+
+또
+	또/maj
+
+다른
+	다르/paa+ㄴ/etm
+
+풍경으로
+	풍경/ncn+으로/jca
+
+마음을
+	마음/ncn+을/jco
+
+메울것
+	메우/pvg+ㄹ/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+상신리마을
+	상신/ncn+리/ncn+이/jp+마/ef+ㄹ/etm
+
+반대편
+	반대편/ncn
+
+언덕에서
+	언덕/ncn+에서/jca
+
+담은
+	달/paa+ㅁ/etn+은/jxc
+
+마을풍경
+	마을/ncn+풍경/ncn
+
+
+충청남도
+	충청남/ncn+도/jxc
+
+공주시
+	공주/ncr+시/ncn
+
+반포면
+	반포/ncpa+이/jp+면/ecs
+
+상신리
+	상신/ncn+리/ncn
+
+
+충청남도
+	충청남/ncn+도/jxc
+
+공주시
+	공주/ncr+시/ncn
+
+반포면
+	반포/ncpa+면/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01702272",
+	"bl01702272",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"충청남도
+	title:"충청남/ncn+도/jxc
+
+공주시
+	공주/ncr+시/ncn
+
+반포면
+	반포/ncpa+이/jp+면/ecs
+
+상신리",
+	상신/ncn+리/ncn+"/sr+,/sp
+
+pointX:330185,pointY:420626}
+	pointX/f+:/sp+330185/nnc+,/sp+pointY/f+:/sp+420626/nnc+}/sr

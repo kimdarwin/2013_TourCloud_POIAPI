@@ -1,0 +1,31 @@
+Title:
+6/9 청태산 트레킹 후기
+
+Date:
+2012.06.10
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(616514,'files/attach/images/64/351/224/8a07c3ca28d7f0c7209d374d91f510fe.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/862c7d51c0aa2a4586934bb7b5bc05bc.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/7c6ef20035dbcc42289497cb9073d7e2.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/d6011734359add9572a4681c1b60c5aa.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/db424a962497691619b0e75d14726890.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/a00d9347a8b790ffb05db55fda0b7040.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/0bd0a194db13857e1f9f3d1b78abf33e.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/cc9ac72b6fa1ab29940be55e1846a3e5.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/f51372518a42c79e91f28573b8ba9d4a.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/dc0fb18061ba3f7fbbe2487dabddaef0.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/5755ceef99bac9e3b5ae83e505ee8bfa.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/ba38d172376a4b42c7d5135e35f53ef6.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/efe80a0e4f940dd4ca4aae0e2c8e69ba.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/1df7e7246b83cbe72d8b2de5128d67c2.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/58676599328b24108fb1b6a4d148633f.jpg');
+list_gallery_add_image(616514,'files/attach/images/64/351/224/c4418108d981bbcd259e19d3753dadf8.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+6월 9일(토), 아름다운 여행으로 청태산 트레킹을 다녀왔습니다. 청태산은 청태산 자연휴양림이 조성되어 있어 숲 관리가 잘 되고 있는 산입니다. 원시림을 방불케하는 울창한 숲과 아기자기한 나무데크길 그리고 자연스러운 임도길이 혼재해 있어 트레킹을 즐기기에 아주 좋은 곳입니다.
+이번 트레킹은 청태산의 특성을 고려해 회원분들이 자유롭게 코스를 택해 걸었습니다. 저는 청태산 정상에 올라 능선을 돌아 임도로 내려오는 코스를 택했습니다. 청태산 정상으로 오르는 길이 그리 만만한 코스가 아니었는데 의외로 많은 회원분이 정상 코스를 택하셨더군요. 정상에 오르시느라 힘은 드셨겠지만 아마 후회는 없으시리라 생각됩니다. 울창한 숲이 어찌나 상쾌했는지 머리가 맑아지는 느낌이 들더군요. 저는 정상에서 준비해간 점심을 먹고 능선으로 돌아 임도로 내려왔습니다. 능선의 숲길도 상쾌했고 임도의 자연스러운 모습도 모두 좋았습니다.
+청태산은 개인적으로 이번이 두 번째였지만 처음 대했을 때보다 훨씬 좋은 느낌으로 다가왔던 것 같습니다. 편안하고 아늑한 나무데크길도 더 정겹게 느껴지고 울창한 등산로도 더 상쾌하게 느껴지더군요. 
+이번 트레킹에 참가하신 회원분들도 여유롭고 넉넉한 여행이 아니었을까 싶습니다. 모두 휴일에 트레킹의 피로 잘 털어내시고 활기차게 한 주를 시작하시기 바랍니다.
+이 게시물을...

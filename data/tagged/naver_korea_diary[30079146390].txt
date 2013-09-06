@@ -1,0 +1,1207 @@
+청태산
+	청태산/ncn
+
+자연휴양림은
+	자연/ncn+휴양림/ncn+은/jxc
+
+잣나무,
+	잣나무/ncn+,/sp
+
+전나무
+	전나무/ncn
+
+등
+	등/nbu
+
+아름드리
+	아름드리/ncn
+
+침엽수가
+	침엽수/ncn+가/jcs
+
+우거져
+	우거져/ncn
+
+있어
+	있/px+어/ecx
+
+천연의
+	천연/ncn+의/jcm
+
+향을
+	향/ncn+을/jco
+
+고스란히
+	고스란히/mag
+
+체험할
+	체험/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+하늘을
+	하늘/ncn+을/jco
+
+향해
+	향하/pvg+어/ecx
+
+높이
+	높이/mag
+
+치솟은
+	치솟/pvg+은/etm
+
+전나무
+	전나무/ncn
+
+숲길과
+	숲길/ncn+과/jcj
+
+숲이
+	숲/ncn+이/jcc
+
+만들어내는
+	만들/pvg+어/ecx+내/px+는/etm
+
+신선한
+	신선/ncn+한/ncn
+
+공기에
+	공기/ncn+에/jca
+
+기분이
+	기분/ncn+이/jcc
+
+좋아진다
+	좋/paa+아/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+봉평은
+	봉평/ncn+은/jxc
+
+작가
+	작/nbn+가/jcc
+
+이효석
+	이효석/ncn
+
+문학의
+	문학/ncpa+의/jcm
+
+무대로도
+	무대/ncn+로/jca+도/jxc
+
+유명하다
+	유명/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+흥정계곡의
+	흥정/ncpa+계곡/ncn+의/jcm
+
+물소리와
+	물소리/ncn+와/jct
+
+향긋한
+	향긋/ncps+하/xsms+ㄴ/etm
+
+허브
+	허브/ncn
+
+향을
+	향/ncn+을/jco
+
+품어내는
+	품/pvg+어/ecx+내/px+는/etm
+
+식물원
+	식물원/ncn
+
+등
+	등/nbu
+
+봉평의
+	봉평/ncn+의/jcm
+
+특별한
+	특별/ncps+하/xsms+ㄴ/etm
+
+명소로
+	명소/ncn+로/jca
+
+함께
+	함께/mag
+
+떠나보자
+	떠나/pvg+아/ecx+보/px+자/ecc
+
+.
+	./sf
+
+
+1일차
+	1/nnc+일/nnc+차/nbu
+
+10:00
+	10/nnc+:/sp+00/nnc
+
+청태산
+	청태산/ncn
+
+휴양림
+	휴양림/ncn
+
+목공예
+	목공예/ncn
+
+체험
+	체험/ncpa
+
+-
+	-/sd
+
+12:00
+	12/nnc+:/sp+00/nnc
+
+점심식사
+	점심식사/ncpa
+
+-
+	-/sd
+
+13:00
+	13/nnc+:/sp+00/nnc
+
+황토
+	황토/ncn
+
+염색체험-
+	염색/ncn+체험/ncpa+-/sd
+
+14:00
+	14/nnc+:/sp+00/nnc
+
+숲해설
+	숲해설/ncn
+
+듣기
+	듣/pvg+기/etn
+
+-
+	-/sd
+
+16:00
+	16/nnc+:/sp+00/nnc
+
+휴양림
+	휴양림/ncn
+
+둘러보기
+	둘러보/pvg+기/etn
+
+-
+	-/sd
+
+17:00
+	17/nnc+:/sp+00/nnc
+
+숲체원으로
+	숲체원/ncn+으로/jca
+
+이동
+	이/nnc+동/nbu
+
+후
+	후/ncn
+
+짐
+	지/px+ㅁ/etn
+
+정리
+	정리/ncpa
+
+-
+	-/sd
+
+18:00
+	18/nnc+:/sp+00/nnc
+
+저녁식사
+	저녁식사/ncpa
+
+휴식
+	휴식/ncpa
+
+및
+	및/maj
+
+취침2일차09:00
+	취침2일차09:00/ncn
+
+숲체원
+	숲체원/ncn
+
+산책
+	산책/ncpa
+
+-
+	-/sd
+
+10:00
+	10/nnc+:/sp+00/nnc
+
+한국
+	한국/ncn
+
+전통
+	전통/ncn
+
+음식문화체험관
+	음식/ncn+문화/ncn+체험/ncpa+관/ncn
+
+이동
+	이/nnc+동/nbu
+
+및
+	및/maj
+
+구경하기
+	구경/ncn+하기/ncn
+
+-
+	-/sd
+
+11:00
+	11/nnc+:/sp+00/nnc
+
+봉평
+	봉평/ncn
+
+이동
+	이/nnc+동/nbu
+
+후
+	후/ncn
+
+점심식사
+	점심식사/ncpa
+
+-
+	-/sd
+
+12:30
+	12/nnc+:/sp+30/nnc
+
+허브나라
+	허브나라/ncn
+
+식물원
+	식물원/ncn
+
+관람
+	관람/ncpa
+
+-
+	-/sd
+
+14:30
+	14/nnc+:/sp+30/nnc
+
+봉평
+	봉평/ncn
+
+이효석
+	이효석/ncn
+
+유적지
+	유적지/ncn
+
+따라
+	따르/pvg+아/ecx
+
+잡기(물레방앗간,
+	잡/pvg+기/etn+(/sl+물레/ncn+방앗간/ncn+,/sp
+
+효석
+	효석/ncn
+
+문학관,
+	문학관/ncn+,/sp
+
+생가
+	생/npp+가/jcs
+
+등)
+	등/nbu+)/sr
+
+-
+	-/sd
+
+16:00
+	16/nnc+:/sp+00/nnc
+
+귀가
+	귀가/ncpa
+
+
+첫날
+	첫/nno+날/nbu
+
+일정은
+	일정/ncn+은/jxc
+
+휴양림에
+	휴양림/ncn+에/jca
+
+도착하여
+	도착/ncpa+하/xsva+어/ecx
+
+목공예
+	목공예/ncn
+
+체험으로
+	체험/ncpa+으로/jca
+
+시작된다
+	시작/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+목공예
+	목공예/ncn
+
+체험은
+	체험/ncpa+은/jxc
+
+손재주가
+	손재주/ncn+가/jcs
+
+없는
+	없/paa+는/etm
+
+사람일지라도
+	사람/ncn+이/jp+ㄹ지/ecs+라도/jxc
+
+핸드폰
+	핸드폰/ncn
+
+고리와
+	고리/ncn+와/jct
+
+같은
+	같/paa+은/etm
+
+소품을
+	소품/ncn+을/jco
+
+만들
+	만들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+정도로
+	정도/ncn+로/jca
+
+매우
+	매우/mag
+
+간단하다
+	간단/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+점심
+	점심/ncn
+
+후에는
+	후/ncn+에/jca+는/jxc
+
+염색체험을
+	염색/ncn+체험/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+숲
+	숲/ncn
+
+해설을
+	해설/ncpa+을/jco
+
+들어보자
+	들/pvg+어/ecx+보/px+자/ecc
+
+.
+	./sf
+
+
+청태산
+	청태산/ncn
+
+휴양림에는
+	휴양림/ncn+에/jca+는/jxc
+
+휠체어가
+	휠체어/ncn+가/jcs
+
+쉽게
+	쉽/paa+게/ecs
+
+이동할
+	이동/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+데크로드가
+	데크/ncn+로드/ncn+가/jcs
+
+놓여
+	놓이/pvg+어/ecx
+
+있어
+	있/px+어/ecx
+
+휠체어
+	휠체어/ncn
+
+이용자들이
+	이용자/ncn+들/ncn+이/jcc
+
+편리하게
+	편리/ncps+하/xsms+게/ecs
+
+숲을
+	숲/ncn+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+외에는
+	외/nbn+에/jca+는/jxc
+
+차량으로
+	차량/ncn+으로/jca
+
+이동하면서
+	이동/ncpa+하/xsva+면서/ecc
+
+숲
+	숲/ncn
+
+기운을
+	기운/ncn+을/jco
+
+체감하면
+	체감하/ncn+이/jp+면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+휴양림을
+	휴양림/ncn+을/jco
+
+충분히
+	충분히/mag
+
+즐긴
+	즐기/pvg+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+숲체원으로
+	숲체원/ncn+으로/jca
+
+이동하자
+	이동/ncn+하자/ncn
+
+.
+	./sf
+
+
+숲체원에도
+	숲체원/ncn+에/jca+도/jxc
+
+휠체어
+	휠체어/ncn
+
+타고
+	타/pvg+고/ecc
+
+다닐
+	다니/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+데크로드가
+	데크/ncn+로드/ncn+가/jcs
+
+놓여져
+	놓이/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+또한,
+	뜨/pvg+어/ecx+하/px+ㄴ/etm+,/sp
+
+테라피로드,
+	테라피로드,/ncn
+
+오감체험장,
+	오감/ncn+체험/ncpa+장/ncn+,/sp
+
+장애인
+	장애/ncn+이/jp+ㄴ/etm
+
+숙박시설,
+	숙박시설/ncpa+,/sp
+
+식당
+	식당/ncn
+
+등을
+	등/nbu+을/jco
+
+갖추고
+	갖추/pvg+고/ecc
+
+있어
+	있/px+어/ecx
+
+몸이
+	몸/ncn+이/jcc
+
+다소
+	다소/mag
+
+불편한
+	불편/ncn+한/ncn
+
+사람도
+	사람/ncn+도/jxc
+
+이용이
+	이용/ncpa+이/jcc
+
+편리하다
+	편리/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+둘째
+	둘째/nno
+
+날의
+	날/ncn+의/jcm
+
+일정은
+	일정/ncn+은/jxc
+
+여유롭게
+	여유/ncn+롭/xsmn+게/ecs
+
+시작한다
+	시작/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+숲체원에서
+	숲체원/ncn+에서/jca
+
+가볍게
+	가볍/paa+게/ecs
+
+산책한
+	산책/ncpa+하/xsva+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+금당계곡
+	금당/ncn+계곡/ncn
+
+물줄기도
+	물줄기/ncn+도/jxc
+
+보고
+	보/px+고/ecc
+
+정강원도
+	정강/ncn+원/ncn+도/jxc
+
+방문하면서
+	방문/ncpa+하/xsva+면서/ecc
+
+봉평읍으로
+	봉평읍/ncn+으로/jca
+
+향한다
+	향하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+봉평에는
+	봉평/ncn+에/jca+는/jxc
+
+허브나라
+	허브나라/ncn
+
+식물원이
+	식물원/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+향긋한
+	향긋/ncps+하/xsms+ㄴ/etm
+
+허브향이
+	허브향/ncn+이/jcc
+
+코끝을
+	코끝/ncn+을/jco
+
+싱그럽게
+	싱그럽/paa+게/ecs
+
+하는
+	하/pvg+는/etm
+
+이곳은
+	이곳/npd+은/jxc
+
+구획마다
+	구/nnc+획/nbu+마다/jxc
+
+아기자기하게
+	아기자기/ncps+하/xsms+게/ecs
+
+미적
+	미적/ncn
+
+감각이
+	감각/ncpa+이/jcc
+
+가미된
+	가미/ncpa+되/xsvn+ㄴ/etm
+
+구조가
+	구조/ncpa+가/jcc
+
+인상적이다
+	인상/ncn+적/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+길목의
+	길목/ncn+의/jcm
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+흥정계곡의
+	흥정/ncpa+계곡/ncn+의/jcm
+
+물줄기과
+	물줄기/ncn+과/jcj
+
+이국적인
+	이국/ncn+적/ncn+이/jp+ㄴ/etm
+
+펜션단지도
+	펜션단지/ncn+도/jxc
+
+눈에
+	눈/ncn+에/jca
+
+뜨인다
+	뜨이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+허브전시관,
+	허브전시관,/ncn
+
+터키
+	터키/ncn
+
+박물관,
+	박물관/ncn+,/sp
+
+식당,
+	식당/ncn+,/sp
+
+빵집
+	빵집/ncn
+
+등
+	등/nbu
+
+볼거리,
+	보/px+ㄹ/etm+것/nbn+이/jp+리/ef+,/sp
+
+먹을거리를
+	먹/pvg+을/etm+거리/nbn+를/jco
+
+한꺼번에
+	한꺼번에/mag
+
+해결할
+	해결/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+더
+	더/mag
+
+좋은
+	좋/paa+은/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+오후
+	오후/ncn
+
+여행
+	여행/ncpa
+
+코스는
+	코스/ncn+는/jxc
+
+소설
+	소설/ncn
+
+메밀꽃
+	메밀꽃/ncn
+
+필
+	피/pvg+ㄹ/etm
+
+무렵의
+	무렵/nbn+의/jcm
+
+흔적들을
+	흔적/ncn+들/ncn+을/jco
+
+찾아보는
+	찾/pvg+아/ecx+보/px+는/etm
+
+일이다
+	일/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+읍내의
+	읍내/ncn+의/jcm
+
+충주집터,
+	충주집터,/ncn
+
+가산공원,
+	가산/ncn+공원/ncn+,/sp
+
+물레방앗간,
+	물레/ncn+방앗간/ncn+,/sp
+
+기념관,
+	기념관/ncn+,/sp
+
+이효석
+	이효석/ncn
+
+생가를
+	생가/ncn+를/jco
+
+돌아보면서
+	돌/pvg+아/ecx+보/px+면서/ecc
+
+문학의
+	문학/ncpa+의/jcm
+
+향기에
+	향기/ncn+에/jca
+
+취해
+	취하/pvg+어/ecx
+
+보자
+	보/px+자/ecc
+
+.
+	./sf
+
+
+청태산
+	청태산/ncn
+
+휴양림
+	휴양림/ncn
+
+산림휴양관부터
+	산림/ncn+휴양/ncpa+관/ncn+부터/jxc
+
+숲속
+	숲속/ncn
+
+길을
+	길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+630m의
+	630m/ncn+의/jcm
+
+데크로드가
+	데크/ncn+로드/ncn+가/jcs
+
+이어지는데,
+	잇/pvg+어/ecx+지/px+ㄴ데/ecs+,/sp
+
+휠체어를
+	휠체어/ncn+를/jco
+
+타고도
+	타/pvg+아/ef+고/jcr+도/jxc
+
+숲을
+	숲/ncn+을/jco
+
+감상할
+	감상/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+경사도를
+	경사도/ncn+를/jco
+
+줄였다
+	줄이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+손으로
+	손/ncn+으로/jca
+
+잡을
+	잡/pvg+을/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+우측
+	우측/ncn
+
+턱을
+	턱/ncn+을/jco
+
+높게
+	높/paa+게/ecs
+
+만들어
+	만들/pvg+어/ecx
+
+놓는
+	놓/px+는/etm
+
+등
+	등/nbu
+
+장애인들을
+	장애/ncn+이/jp+ㄴ/etm+들/nbn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+세심함
+	세심/ncn+함/ncn
+
+배려가
+	배/pvg+려/ecx+가/px+아/ecx
+
+돋보인다
+	돋보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+자세히보기
+	자세히보/ncn+이/jp+기/etn
+
+
+허브농원허브나라
+	허브농원허브나라/ncn
+
+입구를
+	입구/ncn+를/jco
+
+앞에
+	앞/ncn+에/jca
+
+두고
+	두/pvg+고/ecc
+
+주차장이
+	주차장/ncn+이/jcc
+
+있는데,
+	있/px+는데/ecs+,/sp
+
+이곳에
+	이곳/npd+에/jca
+
+차를
+	차/ncn+를/jco
+
+세우고
+	세우/pvg+고/ecc
+
+매표소까지
+	매표소/ncn+까지/jxc
+
+걸어가야
+	걷/pvg+어/ecx+가/px+아/ecx
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+매표소
+	매표소/ncn
+
+우측에는
+	우측/ncn+에/jca+는/jxc
+
+장애인
+	장애/ncn+이/jp+ㄴ/etm
+
+화장실이
+	화장실/ncn+이/jcc
+
+있는데,
+	있/px+는데/ecs+,/sp
+
+매표
+	매표/ncn
+
+전에
+	전/nbn+에/jca
+
+이곳을
+	이곳/npd+을/jco
+
+이용하도록
+	이용/ncpa+하/xsva+도록/ecs
+
+하자
+	하/pvg+자/ecc
+
+.
+	./sf
+
+
+매표소
+	매표소/ncn
+
+앞에
+	앞/ncn+에/jca
+
+10cm
+	10cm/ncn
+
+정도의
+	정도/ncn+의/jcm
+
+턱이
+	턱/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+휠체어
+	휠체어/ncn
+
+이용자는
+	이용자/ncn+는/jxc
+
+도움이
+	도움/ncn+이/jcc
+
+필요하지만,
+	필요/ncps+하/xsms+지/ecx+말/px+ㄴ/etm+,/sp
+
+농원
+	농원/ncn
+
+안에는
+	안/ncn+에/jca+는/jxc
+
+휠체어
+	휠체어/ncn
+
+이용자들이
+	이용자/ncn+들/ncn+이/jcc
+
+건물
+	건물/ncn
+
+동을
+	동/nbu+을/jco
+
+손쉽게
+	손쉽/paa+게/ecs
+
+이동할
+	이동/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+데크로드가
+	데크/ncn+로드/ncn+가/jcs
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+숙박동은
+	숙박/ncpa+동/ncn+은/jxc
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+장애인
+	장애/ncn+이/jp+ㄴ/etm
+
+객실은
+	객실/ncn+은/jxc
+
+따로
+	따로/mag
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있지
+	있/px+지/ecx
+
+않다
+	않/px+다/ef
+
+.
+	./sf
+
+
+자세히보기
+	자세히보/ncn+이/jp+기/etn
+
+
+기사내용
+	기사내용/ncn
+
+전체보기
+	전체/ncn+보기/ncn

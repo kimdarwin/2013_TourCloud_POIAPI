@@ -1,0 +1,2401 @@
+가시리
+	가/px+시/ep+리/ef
+
+마을
+	마을/ncn
+
+산책
+	산책/ncpa
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+겨울여행중
+	겨울/ncn+여행/ncpa+중/ncn
+
+..
+	./sf+./sf
+
+
+넓은
+	넓/paa+은/etm
+
+부지에
+	부지/ncn+에/jca
+
+멋진
+	멋지/paa+ㄴ/etm
+
+집
+	집/ncn
+
+지어놓고,
+	지/px+어/ecx+놓/px+고/ecc+,/sp
+
+제주에서
+	제주/ncn+에서/jca
+
+예술하시는
+	예술/ncn+하시/ncn+는/jxc
+
+분들의
+	불/pvg+ㄴ/etm+들/nbn+의/jcm
+
+큰
+	크/paa+ㄴ/etm
+
+저택만
+	저택/ncn+만/jxc
+
+보게된
+	보/pvg+게/ecx+되/px+ㄴ/etm
+
+저지예술인마을
+	저지/ncn+예술인/ncn+마을/ncn
+
+..
+	./sf+./sf
+
+
+공감가는
+	공감/ncpa+가/jcs+는/jxc
+
+예술작품을
+	예술작품/ncn+을/jco
+
+보는것
+	보/px+는/etm+것/nbn
+
+보다는
+	보/px+다/ef+는/etm
+
+그저
+	그저/mag
+
+부러움과배아픔만
+	부러움과배아픔만/ncn
+
+가졌던그저그랬던
+	가졌던그저그랬던/ncn
+
+??
+	?/sf+?/sf
+
+
+저지예술인
+	저지/ncn+예술/ncn+이/jp+ㄴ/etm
+
+마을
+	마을/ncn
+
+...
+	.../se
+
+
+기억나는
+	기억나/pvg+는/etm
+
+건
+	거/nbn+은/jxc
+
+현대미술관의
+	현대/ncn+미술관/ncn+의/jcm
+
+동백꽃
+	동백/ncn+꽃/ncn
+
+그림과,
+	그림/ncn+과/jcj+,/sp
+
+미술관내의
+	미술관/ncn+내/ncn+의/jcm
+
+조경,조각품들만
+	조경/ncpa+,/sp+조각품/ncn+들/ncn+만/jxc
+
+좋아라
+	좋/paa+아/ecs
+
+기억났던
+	기억나/pvg+아/ep+ㄴ/etm
+
+하루
+	하루/ncn
+
+
+제주의
+	제주/ncn+의/jcm
+
+서쪽에
+	서쪽/ncn+에/jca
+
+저지예술마을이
+	저지/ncn+예술/ncn+마을/ncn+이/jcc
+
+있다면,
+	있/px+다면/ecs+,/sp
+
+동쪽에
+	동쪽/ncn+에/jca
+
+가시리마을이
+	가시리마을/ncn+이/jcc
+
+있다고
+	있/px+다/ef+고/jcr
+
+하여
+	하/pvg+어/ecx
+
+가보게된
+	가/pvg+아/ecx+보/px+게/ecx+되/px+ㄴ/etm
+
+가시리마을
+	가/px+시/ep+리/ep+마/ef+ㄹ/etm
+
+...
+	.../se
+
+
+가시리마을
+	가/px+시/ep+리/ep+마/ef+ㄹ/etm
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+jejugasiri.
+	jejugasiri/f+./sy
+
+net/00_main/main.
+	net/00_main/main./ncn
+
+asp
+	asp/f
+
+
+가는방법
+	가는방법/ncn
+
+:
+	:/sp
+
+제주
+	제주/ncn
+
+시외버스터미널에서
+	시외버스터미널/ncn+에서/jca
+
+번영로노선을
+	번영로노선/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+가시리마을에서
+	가시리마을/ncn+에서/jca
+
+하차:
+	하차/ncpa+:/sp
+
+하루에
+	하루/ncn+에/jca
+
+4번-
+	4/nnc+번/nbu+-/sd
+
+06:28
+	06/nnc+:/sp+28/nnc
+
+/
+	//sp
+
+11:28
+	11/nnc+:/sp+28/nnc
+
+/
+	//sp
+
+15:28
+	15/nnc+:/sp+28/nnc
+
+/
+	//sp
+
+18:28
+	18/nnc+:/sp+28/nnc
+
+
+(돌아오는
+	(/sl+돌/pvg+아/ecx+오/px+는/etm
+
+편도
+	편/nbn+도/jxc
+
+하루에
+	하루/ncn+에/jca
+
+4번/
+	4/nnc+번/nbu+//sp
+
+당일치기
+	당일치기/ncn
+
+버스로
+	버스/ncn+로/jca
+
+여행간다면
+	여행간다/ncn+이/jp+면/ecs
+
+11:28
+	11/nnc+:/sp+28/nnc
+
+버스로
+	버스/ncn+로/jca
+
+가서~
+	가/px+아/ecs+~/sd
+
+돌아올때는
+	돌/pvg+아/ecx+오/px+ㄹ/etm+때/nbn+는/jxc
+
+가시리에서
+	가시/ncn+리/ncn+에서/jca
+
+4시경
+	4/nnc+시/nbu+경/xsnu
+
+출발하는
+	출발/ncpa+하/xsva+는/etm
+
+버스가능)
+	버스/ncn+가능/ncn+)/sr
+
+
+가시리마을
+	가/px+시/ep+리/ep+마/ef+ㄹ/etm
+
+...
+	.../se
+
+
+버스로는
+	버스/ncn+로/jca+는/jxc
+
+참
+	참/mag
+
+가기
+	가/px+기/etn
+
+어려운
+	어렵/paa+은/etm
+
+곳이었다
+	곳/ncn+이/jp+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+나같은
+	나/pvg+아/ecx+같/px+은/etm
+
+뚜벅이여행자에게는
+	뚜벅이여행자에게/ncn+는/jxc
+
+특히
+	특히/mag
+
+더.
+	더./ncn
+
+...
+	.../se
+
+
+가시리마을을
+	가시리마을/ncn+을/jco
+
+가기전
+	가/px+기/etn+전/xsnx
+
+검색을
+	검색/ncpa+을/jco
+
+해보니,
+	하/pvg+어/ecx+보/px+니/ecs+,/sp
+
+표선까지
+	표/nbu+선/jxc+까지/jxc
+
+가서
+	가/pvg+서/ecs
+
+표선에서
+	표선/ncn+에서/jca
+
+버스를
+	버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+오거나,
+	오/px+거나/ecc+,/sp
+
+택시를
+	택시/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+갔다는
+	가/px+아/ep+다/ef+는/etm
+
+분들의
+	분/ncn+들/xsncc+의/jcm
+
+
+블로그를
+	블로그/ncn+를/jco
+
+봤으나,
+	보/px+아/ep+나/ecs+,/sp
+
+찾아보니
+	찾/pvg+아/ecx+보/px+니/ecs
+
+다행히
+	다행히/mag
+
+가시리마을까지
+	가시리마을까지/ncn
+
+가는
+	가/pvg+는/etm
+
+버스가
+	버스/ncn+가/jcs
+
+있었다
+	있/px+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+제주시외버스터미널에서1시간
+	제주시외버스터미널에서1시간/ncn
+
+10분정도걸렸다
+	10분정도걸렸다/ncn
+
+
+성읍민속마을을
+	성읍/ncn+민속/ncn+마을/ncn+을/jco
+
+지나서
+	지나/pvg+아/ecx
+
+버스
+	버스/ncn
+
+한정거정
+	한정거정/ncn
+
+사이가
+	사이/ncn+가/jcs
+
+꽤
+	꽤/mag
+
+멀어보이는
+	멀/paa+어/ecx+보이/px+는/etm
+
+도로를
+	도로/ncn+를/jco
+
+달려
+	달리/pvg+어/ecx
+
+가시리마을에서
+	가시리마을/ncn+에서/jca
+
+하차했다
+	하차/ncpa+하/xsva+었/ep+다/ef
+
+
+버스안에는
+	버스/ncn+안/ncn+에/jca+는/jxc
+
+노인분
+	노인/ncn+분/ncn
+
+몇분만
+	몇/nnc+분/nbu+만/jxc
+
+계시고
+	계시/paa+고/ecc
+
+여행자는
+	여행자/ncn+는/jxc
+
+나밖에
+	나/npp+밖에/jxc
+
+없었다
+	없/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+가시리라는
+	가/px+시/ep+리라/ef+는/etm
+
+방송이
+	방송이/ncn
+
+나오고
+	나/pvg+아/ecx+오/px+고/ecc
+
+어딘지
+	어딘지/ncn
+
+잘
+	잘/mag
+
+몰라
+	모르/pvg+아/ecx
+
+어리버리
+	어리버리/ncn
+
+하고
+	하/pvg+고/ecc
+
+있을때,
+	있/paa+을/etm+때/nbn+,/sp
+
+
+앞자리
+	앞자리/ncn
+
+할머니와
+	할머니/ncn+와/jcj
+
+기사분께서
+	기사/ncr+분/ncn+께서/jcs
+
+친절히
+	친절히/mag
+
+알려주어서
+	알리/pvg+어/ecx+주/px+어서/ecs
+
+제대로
+	제대로/mag
+
+내릴수
+	내리/pvg+ㄹ/etm+수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+미리
+	미리/mag
+
+방송듣자마자
+	방송듣자마/ncn+이/jp+자/ecc
+
+내렸으면
+	내/nbn+이/jp+리/ep+었/ep+으면/ecs
+
+
+나
+	나/npp
+
+완전
+	완전/ncps
+
+가시리올레
+	가시리올레/ncn
+
+걸을뻔
+	걸/pvg+ㄹ/etm+뻔/nbs
+
+했다
+	하/px+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+뭔
+	뭔/ncn
+
+정거장이
+	정거장/ncn+이/jcc
+
+이리도
+	이/nnc+리/nbu+도/jxc
+
+먼지
+	멀/paa+ㄴ지/ecs
+
+...
+	.../se
+
+
+가시리
+	가/px+시/ep+리/ef
+
+농협
+	농협/ncn
+
+버스정류장에서
+	버스/ncn+정류장/ncn+에서/jca
+
+바로
+	바로/mag
+
+마을
+	마을/ncn
+
+입구로
+	입구/ncn+로/jca
+
+들어서는
+	들/pvg+어서/ecs+는/jxc
+
+삼거리가
+	삼거리/ncn+가/jcs
+
+나타났다
+	나/pvg+아/ecx+타/px+아/ecx+나/px+아/ep+다/ef
+
+
+제주도의
+	제주/ncn+도/ncn+의/jcm
+
+마을에서
+	마을/ncn+에서/jca
+
+흔히
+	흔히/mag
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있었던,
+	있/px+었/ep+던/etm+,/sp
+
+마을입구의
+	마을/ncn+입구/ncn+의/jcm
+
+큰
+	크/paa+ㄴ/etm
+
+나무
+	나무/ncn
+
+한그루
+	한/nnc+그루/nbu
+
+...
+	.../se
+
+
+(이렇게
+	(/sl+이렇/pad+게/ecs
+
+마을입구의
+	마을/ncn+입구/ncn+의/jcm
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+나무~
+	나무/ncn+~/sd
+
+뭐라고
+	뭐/npd+이/jp+라/ef+고/jcr
+
+이름이
+	이름/ncn+이/jcc
+
+있더만
+	있/px+더/ep+어/ecs+만/jxc
+
+잊어버렸다
+	잊/pvg+어/ecx+버리/px+었/ep+다/ef
+
+..)
+	./sf+./sf+)/sr
+
+
+가시리마을이
+	가시리마을/ncn+이/jcc
+
+이곳만을
+	이곳/npd+만을/jco
+
+지칭하는줄
+	지칭/ncpa+하/xsva+는/etm+줄/nbn
+
+알았는데
+	알/pvg+아/ep+ㄴ데/ecs
+
+나중에보니
+	나중에보니/ncn
+
+가시리의
+	가시/ncn+리/ncn+의/jcm
+
+마을중
+	마/ncn+이/jp+ㄹ/etm+중/nbn
+
+난
+	나/px+ㄴ/etm
+
+본동만
+	본동/ncn+만/jxc
+
+잠시
+	잠시/mag
+
+걸었을뿐
+	걷/pvg+었/ep+을/etm+뿐/nbn
+
+가시리
+	가/px+시/ep+리/ef
+
+빙산의
+	빙산/ncn+의/jcm
+
+일각만
+	일각/ncn+만/jxc
+
+본
+	보/px+ㄴ/etm
+
+느낌이다
+	느낌/ncn+이/jp+다/ef
+
+
+13개의
+	13/nnc+개/nbu+의/jcm
+
+오름과,
+	오르/pvg+ㅁ/etn+과/jct+,/sp
+
+6개의
+	6/nnc+개/nbu+의/jcm
+
+작은
+	작/paa+은/etm
+
+마을이
+	마을/ncn+이/jcc
+
+모여있던
+	모이/pvg+어/ecx+있/px+던/etm
+
+가시리
+	가/px+시/ep+리/ef
+
+마을~
+	마을/ncn+~/sd
+
+
+가시리마을을
+	가시리마을/ncn+을/jco
+
+들어서자
+	들어서/pvg+자/ecc
+
+마자
+	마/ncn+이/jp+자/ecc
+
+보이는
+	보이/pvg+는/etm
+
+'가시리
+	'/sl+가/pvg+시/ep+리/ef
+
+디자인카페'
+	디자인/ncpa+카페/ncn+'/sr
+
+
+가시리마을사람들의
+	가시리마을사람들/ncn+의/jcm
+
+쉼터이자,
+	쉼터/ncn+이/jp+자/ecc+,/sp
+
+가시리사람들을
+	가시리사람들/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+전시회,
+	전시회/ncn+,/sp
+
+강연,
+	강연/ncpa+,/sp
+
+다양한
+	다양/ncn+한/ncn
+
+문화체험이
+	문화/ncn+체험/ncpa+이/jcc
+
+이뤄지는
+	이루/pvg+어/ecx+지/px+는/etm
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+하다
+	하/px+다/ef
+
+..
+	./sf+./sf
+
+
+가시리
+	가/px+시/ep+리/ef
+
+디자인카페외
+	디자인/ncpa+카페/ncn+외/xsnx
+
+외관에서
+	외관/ncn+에서/jca
+
+보여지는
+	보이/pvg+어/ecx+지/px+는/etm
+
+글로
+	글/ncn+로/jca
+
+인해
+	인하/pvg+어/ecx
+
+웃음이
+	웃음/ncn+이/jcc
+
+지어진다
+	지/px+어/ecx+지/px+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+비록
+	비록/mag
+
+글씨체는
+	글씨체/ncn+는/jxc
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+들지않아도
+	들/pvg+지/ecx+않/px+아/ecs
+
+...
+	.../se
+
+
+마치
+	마치/mag
+
+어느
+	어느/mmd
+
+어린이마을
+	어린이/ncn+이/jp+마/ef+ㄹ/etm
+
+학생이
+	학생/ncn+이/jcc
+
+혼신을
+	혼신/ncn+을/jco
+
+다해
+	다하/pvg+어/ecx
+
+쓴듯한
+	쓰/pvg+ㄴ/etm+듯/nbs+하/xsms+ㄴ/etm
+
+글씨
+	글씨/ncn
+
+...
+	.../se
+
+
+디자인카페에는
+	디자인/ncpa+카페/ncn+에/jca+는/jxc
+
+이곳의
+	이곳/npd+의/jcm
+
+학생들이
+	학생/ncn+들/ncn+이/jcc
+
+와서
+	오/px+아/ecs
+
+숙제를
+	숙제/ncn+를/jco
+
+하는지
+	하/pvg+는지/ecs
+
+...
+	.../se
+
+
+시끌벅적
+	시끌벅적/mag
+
+
+가시리주민에게는
+	가시리주민에게/ncn+는/jxc
+
+무료로
+	무료/ncn+로/jca
+
+차를
+	차/ncn+를/jco
+
+즐길수도
+	즐기/pvg+ㄹ/etm+수/nbn+도/jxc
+
+있고~~~
+	있/paa+고/ecc+~/sd+~/sd+~/sd
+
+
+가시리마을
+	가/px+시/ep+리/ep+마/ef+ㄹ/etm
+
+프로젝트와
+	프로젝트/ncn+와/jcj
+
+관련한
+	관련/ncn+한/ncn
+
+내용전시
+	내용/ncn+전시/ncn
+
+및
+	및/maj
+
+진행상황등이
+	진행상황/ncn+등/ncn+이/jcc
+
+전시되어있고
+	전시/ncn+되/xsvn+어/ecx+있/px+고/ecc
+
+
+가시리
+	가/px+시/ep+리/ef
+
+마을
+	마을/ncn
+
+사람들
+	사람들/ncn
+
+뿐만아니라
+	뿐만아니라/maj
+
+이곳을
+	이곳/npd+을/jco
+
+찾는
+	찾/pvg+는/etm
+
+방문객한테도
+	방문객/ncn+한테/jca+도/jxc
+
+개방되어
+	개방/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+곳이었다
+	곳/nbu+이/jp+었/ep+다/ef
+
+
+특히
+	특히/mag
+
+가시리마을
+	가/px+시/ep+리/ep+마/ef+ㄹ/etm
+
+프로젝트의
+	프로젝트/ncn+의/jcm
+
+하나인
+	하나/nnc+이/jp+ㄴ/etm
+
+가시리
+	가/px+시/ep+리/ef
+
+유채꽃만들기
+	유채꽃만들기/ncn
+
+사업이
+	사업/ncn+이/jcc
+
+눈에
+	눈/ncn+에/jca
+
+띈다
+	띄/pvg+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+4월이면,
+	4/nnc+월/nbu+이/jp+면/ecs+,/sp
+
+유채꽃
+	유채/ncn+꽃/ncn
+
+축제도
+	축제/ncn+도/jxc
+
+유명하다던데
+	유명/ncps+하/xsms+다/ef+던/etm+데/nbn
+
+...
+	.../se
+
+
+정말
+	정말/mag
+
+가보고
+	가/pvg+아/ecx+보/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+현재는
+	현재/ncn+는/jxc
+
+8만평
+	8/nnc+만/nnc+평/nbu
+
+부지의
+	부지/ncn+의/jcm
+
+마을
+	마을/ncn
+
+공동목장부지에서
+	공동/ncn+목장/ncn+부지/ncn+에서/jca
+
+유채꽃
+	유채/ncn+꽃/ncn
+
+축제가
+	축제/ncn+가/jcs
+
+열리지만
+	열리/pvg+지/ecx+말/px+ㄴ/etm
+
+앞으로
+	앞/ncn+으로/jca
+
+향후
+	향후/mag
+
+30만평으로
+	30/nnc+만/nnc+평/nbu+으로/jca
+
+확장된다고
+	확장/ncpa+되/xsvn+ㄴ다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+가보지않을수가
+	가/pvg+아/ecx+보/px+지/ecx+않/px+을/etm+수/nbn+가/jcc
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+이미지출처:
+	이미지출처:/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+jejugasiri.
+	jejugasiri/f+./sy
+
+net/00_main/main.
+	net/00_main/main./ncn
+
+asp
+	asp/f
+
+
+봄에
+	보/px+ㅁ/etn+에/jca
+
+꼭
+	꼭/mag
+
+가보고
+	가/pvg+아/ecx+보/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+제주도의
+	제주/ncn+도/ncn+의/jcm
+
+아름다운길이다
+	아름다운/ncn+길/ncn+이/jp+다/ef
+
+...
+	.../se
+
+
+가시리마을이
+	가시리마을/ncn+이/jcc
+
+옛날부터
+	옛날/ncn+부터/jxc
+
+말을
+	말/ncn+을/jco
+
+방목하여
+	방목/ncpa+하/xsva+어/ecx
+
+목축을
+	목축/ncpa+을/jco
+
+하던
+	하/pvg+던/etm
+
+곳이었기에,
+	곳/ncn+이/jp+었/ep+기/etn+에/jca+,/sp
+
+갑마장길을
+	갑마장길/ncn+을/jco
+
+걸어보려
+	걷/pvg+어/ecx+보/px+려/ecs
+
+했으나
+	하/pvg+었/ep+으나/ecc
+
+
+몇개의
+	몇/nnc+개/nbu+의/jcm
+
+오름과
+	오르/pvg+ㅁ/etn+과/jcj
+
+거리를
+	거리/ncn+를/jco
+
+생각하니
+	생각/ncpa+하/xsva+니/ecs
+
+왠만한
+	왠만한/ncn
+
+올레길
+	올레길/ncn
+
+뺨치는
+	뺨치/pvg+는/etm
+
+거리였다
+	거리/ncn+이/jp+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+20Km.
+	20Km./ncn
+
+...
+	.../se
+
+
+갑마장길은
+	갑마장길/ncn+은/jxc
+
+봄에
+	보/px+ㅁ/etn+에/jca
+
+걸어봐야겠다
+	걷/pvg+어/ecx+보/px+아/ep+다/ef
+
+...
+	.../se
+
+
+작년
+	작년/ncn
+
+12월
+	12/nnc+월/nbu
+
+갑마장길
+	갑마장길/ncn
+
+마차길도
+	마차/ncn+길/ncn+도/jxc
+
+생겼다던데
+	생기/pvg+었/ep+다/ef+던/etm+데/nbn
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+가시리
+	가/px+시/ep+리/ef
+
+디자인카페
+	디자인/ncpa+카페/ncn
+
+뒤에
+	뒤/ncn+에/jca
+
+있던
+	있/px+던/etm
+
+가시리
+	가/px+시/ep+리/ef
+
+문화센터
+	문화센터/ncn
+
+
+이곳도
+	이곳/npd+도/jxc
+
+가시리마을
+	가/px+시/ep+리/ep+마/ef+ㄹ/etm
+
+주민들의
+	주민/ncn+들/ncn+의/jcm
+
+문화공간이자,
+	문화공간/ncn+이/jp+자/ecc+,/sp
+
+다목적
+	다목적/ncn
+
+공연이
+	공연/ncps+이/jcc
+
+선보이는
+	선보이/pvg+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+내가
+	나/npp+가/jcs
+
+갔을땐,
+	갔을땐,/ncn
+
+아쉽게도
+	아쉽/paa+게/ecs+도/jxc
+
+미술전시가
+	미술전/ncn+시/ncn+가/jcs
+
+이미
+	이미/mag
+
+끝난때여서
+	끝나/pvg+ㄴ/etm+때/nbn+이/jp+어서/ecs
+
+볼수가
+	보/px+ㄹ/etm+수/nbn+가/jcc
+
+없었다
+	없/paa+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+가시리아이들의
+	가시리아이들/ncn+의/jcm
+
+탁자만들기
+	탁자/ncn+만들기/ncn
+
+체험
+	체험/ncpa
+
+..
+	./sf+./sf
+
+
+아이들의
+	아이/ncn+들/ncn+의/jcm
+
+그림이
+	그림/ncn+이/jcc
+
+그려있는
+	그리/pvg+어/ecx+있/px+는/etm
+
+탁자들
+	탁자/ncn+들/ncn
+
+..
+	./sf+./sf
+
+
+소박하게
+	소박/ncps+하/xsms+게/ecs
+
+그려진
+	그리/pvg+어/ecx+지/px+ㄴ/etm
+
+벽화~~~
+	벽화/ncn+~/sd+~/sd+~/sd
+
+의
+	의/ncn
+
+옆에는
+	옆/ncn+에/jca+는/jxc
+
+가시리마을하면
+	가시리마을하/ncn+이/jp+면/ecs
+
+블로그에서도
+	블로그에서/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있었던
+	있/paa+었/ep+던/etm
+
+가스름식당
+	가스름식당/ncn
+
+..
+	./sf+./sf
+
+
+가스름식당외에
+	가스름식당외/ncn+에/jca
+
+가시식당,
+	가시/ncn+식당/ncn+,/sp
+
+나목도
+	나목/ncn+도/jxc
+
+식당등
+	식당/ncn+등/ncn
+
+몇몇
+	몇/nnc+몇/nnc
+
+가시리마을
+	가/px+시/ep+리/ep+마/ef+ㄹ/etm
+
+하면
+	하/pvg+면/ecs
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+식당이
+	식당/ncn+이/jcc
+
+있었다
+	있/px+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+이동네,
+	이/nnc+동/nbu+네/jcm+,/sp
+
+돼지고기가
+	돼지고기/ncn+가/jcs
+
+유명하다던데,
+	유명/ncps+하/xsms+다/ef+던/etm+데/nbn+,/sp
+
+순대국밥도
+	순대국밥/ncn+도/jxc
+
+많이들
+	많이들/ncn
+
+먹는다고
+	먹/pvg+는다/ef+고/jcr
+
+....
+	.../se+./sf
+
+
+마을
+	마을/ncn
+
+초입에
+	초입/ncpa+에/jca
+
+있었던
+	있/paa+었/ep+던/etm
+
+가시식당은
+	가시/ncn+식당/ncn+은/jxc
+
+1960대초에
+	1960/nnc+대/nbu+초/xsnu+에/jca
+
+가시리마을에
+	가시리마을/ncn+에/jca
+
+처음
+	처음/mag
+
+생겨난
+	생기/pvg+어/ecx+나/px+ㄴ/etm
+
+식당으로
+	식당/ncn+으로/jca
+
+50년되었다고
+	50년되/ncn+이/jp+었/ep+다/ef+고/jcr
+
+...
+	.../se
+
+
+내가간
+	내/pvg+어/ecx+가/px+아/ecx+가/px+ㄴ/etm
+
+곳은
+	곳/ncn+은/jxc
+
+25년
+	25/nnc+년/nbu
+
+정도된
+	정도/ncn+되/xsvn+ㄴ/etm
+
+할머니가
+	할머니/ncn+가/jcs
+
+하시는
+	하/px+시/ep+는/etm
+
+나목도
+	나목/ncn+도/jxc
+
+식당이다
+	식당/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+순대백반을
+	순대백반/ncn+을/jco
+
+먹을것인가
+	먹/pvg+을/etm+것/nbn+이/jp+ㄴ가/ef
+
+??
+	?/sf+?/sf
+
+
+고민하다가
+	고민/ncpa+하/xsva+다가/ecs
+
+결국은
+	결국/mag+은/jxc
+
+삼겹살로
+	삼겹살/ncn+로/jca
+
+먹어버린
+	먹/pvg+어/ecx+버리/px+ㄴ/etm
+
+점심
+	점심/ncn
+
+....
+	.../se+./sf
+
+
+혼자여행하다보면,
+	혼자/ncn+여행/ncpa+하/xsva+어다/ecx+보/px+면/ecs+,/sp
+
+먹고싶어도
+	먹/pvg+고/ecx+싶/px+어도/ecs
+
+못먹는
+	못먹/ncn+는/jxc
+
+음식들이
+	음식/ncn+들/ncn+이/jcc
+
+몇
+	몇/nnc
+
+있는데
+	있/px+는데/ecs
+
+...
+	.../se
+
+
+그중하나가
+	그중하나/ncn+가/jcs
+
+이
+	이/mmd
+
+삼겹살과
+	삼겹살/ncn+과/jcj
+
+생선조림들이었다
+	생선/ncn+조림/ncn+들이/ncn+이/jp+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+고깃집들어가서
+	고깃집들어가서/ncn
+
+삼겹살혼자
+	삼겹살/ncn+혼자/ncn
+
+구워먹기
+	구워먹/pvg+기/etn
+
+참
+	참/mag
+
+쉽지않은데
+	쉽/paa+지/ecx+않/px+은/etm+데/nbn
+
+...
+	.../se
+
+
+뭐
+	뭐/npd
+
+나목도식당에서는
+	나목도식당에서/ncn+는/jxc
+
+가능했던
+	가능/ncps+하/xsms+었/ep+던/etm
+
+일.
+	일/nnc+./sf
+
+..
+	./sf+./sf
+
+
+~~
+	~/sd+~/sd
+
+
+가시리마을은
+	가시리마을/ncn+은/jxc
+
+고기때문에
+	고기때문/ncn+에/jca
+
+가신다는
+	가/px+시/ep+ㄴ다/ef+는/etm
+
+분들도
+	불/pvg+ㄴ/etm+들/nbn+도/jxc
+
+있다던데
+	있/px+다/ef+던/etm+데/nbn
+
+.....
+	.../se+./sf+./sf
+
+
+밥도
+	밥/ncn+도/jxc
+
+먹었고
+	먹/pvg+었/ep+고/ecc
+
+..
+	./sf+./sf
+
+
+마을
+	마을/ncn
+
+한바퀴
+	한/nnc+바퀴/nbu
+
+산책
+	산책/ncpa
+
+...
+	.../se
+
+
+갑마장길의
+	갑마장길/ncn+의/jcm
+
+표식으로
+	표식/ncn+으로/jca
+
+가시리마을올레길을
+	가시리마을올레길/ncn+을/jco
+
+걸어도
+	걷/pvg+어도/ecs
+
+되지만
+	되/pvg+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+나는
+	나/npp+는/jxc
+
+시간이
+	시간/ncn+이/jcc
+
+없기에
+	없/paa+기/etn+에/jca
+
+갑마장길은
+	갑마장길/ncn+은/jxc
+
+패스~~~
+	패스/ncpa+~/sd+~/sd+~/sd
+
+
+가시리마을을
+	가시리마을/ncn+을/jco
+
+지나는
+	지나/pvg+는/etm
+
+주민들은
+	주민/ncn+들/ncn+은/jxc
+
+잘
+	잘/mag
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+없고
+	없/paa+고/ecc
+
+..
+	./sf+./sf
+
+
+개떼들이
+	개떼/ncn+들/ncn+이/jcc
+
+득실
+	득실/ncn
+
+?
+	?/sf
+
+
+되었던
+	되/pvg+었/ep+던/etm
+
+가시리마을
+	가/px+시/ep+리/ep+마/ef+ㄹ/etm
+
+..
+	./sf+./sf
+
+
+그래도
+	그래도/maj
+
+큰개들은
+	큰개들/ncn+은/jxc
+
+무섭지만,
+	무섭/paa+지/ecx+말/px+ㄴ/etm+,/sp
+
+요렇게
+	요렇/pad+게/ecs
+
+작은
+	작/paa+은/etm
+
+새끼들도
+	새끼/ncn+들/ncn+도/jxc
+
+만난다
+	만나/pvg+ㄴ다/ef
+
+...
+	.../se
+
+
+특히
+	특히/mag
+
+나목도
+	나목/ncn+도/jxc
+
+식당의
+	식당/ncn+의/jcm
+
+개들은
+	개/ncn+들/xsncc+은/jxc
+
+외지인들의
+	외지/ncn+이/jp+ㄴ/etm+들/nbn+의/jcm
+
+길안내까지
+	길안내까/ncn+이/jp+지/ecs
+
+하는
+	하/pvg+는/etm
+
+개들로~~~방임형
+	개/ncn+들/xsncc+로/jca+~/sd+~/sd+~/sd+방임/ncpa+형/ncn
+
+자유분방
+	자유분방/ncpa
+
+개들임
+	개/pvg+어/ecx+들이/px+ㅁ/etn
+
+..
+	./sf+./sf
+
+
+3마리의
+	3/nnc+마리/nbu+의/jcm
+
+개가
+	개/nbu+가/jcc
+
+계속
+	계속/mag
+
+쫓아다니다
+	쫓아다니/pvg+다/ef
+
+끝내
+	끝내/pvg+어/ecx
+
+나중엔
+	나중/ncn+엔/jca
+
+다
+	다/mag
+
+어디로
+	어디/npd+로/jca
+
+갔는지
+	가/px+아/ep+는지/ecs
+
+...
+	.../se
+
+
+저
+	저/mmd
+
+길끝에
+	길/ncn+끝/xsncc+에/jca
+
+가시리마을의
+	가시리마을/ncn+의/jcm
+
+유일한
+	유일한/mag
+
+게스트하우스
+	게스트/ncn+하우스/ncn
+
+'타시텔레'가
+	'타시텔레'/ncn+가/jcs
+
+있는데
+	있/px+는데/ecs
+
+..
+	./sf+./sf
+
+
+개떼들때문에
+	개떼들때문/ncn+에/jca
+
+또
+	또/maj
+
+못가고
+	못가/ncn+이/jp+고/ecc
+
+...
+	.../se
+
+
+나중에
+	나중/ncn+에/jca
+
+타시텔레
+	타시텔레/ncn
+
+묵으면서
+	묵/pvg+으면서/ecc
+
+가시리마을올레를
+	가시리마을올레/ncn+를/jco
+
+해야겠다는
+	하/px+어야겠/ep+다/ef+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+했었다
+	하/px+었었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+길을
+	길/paa+ㄹ/etm
+
+걷다보면
+	걷다보/ncn+이/jp+면/ecs
+
+이런
+	이런/mmd
+
+폐가를
+	폐가/ncpa+를/jco
+
+만나기도한다
+	만나/ncn+기도/ncpa+하/xsva+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+다시
+	다시/mag
+
+갔을땐,
+	갔을땐,/ncn
+
+이집도
+	이집/ncpa+도/jxc
+
+바뀌어
+	바뀌/pvg+어/ecx
+
+있을까
+	있/px+을까/ef
+
+...
+	.../se
+
+
+옛
+	옛/mma
+
+가시초등학교
+	가시/ncn+초등학교/ncn
+
+건물을
+	건물/ncn+을/jco
+
+갤러리로
+	갤러리/ncn+로/jca
+
+꾸민
+	꾸미/pvg+ㄴ/etm
+
+'자연사랑
+	'/sr+자연/ncn+사랑/ncn
+
+갤러리'
+	갤러리/ncn+'/sr
+
+
+갤러리
+	갤러리/ncn
+
+옆건물에는
+	옆/xp+건물/ncn+에/jca+는/jxc
+
+노인정도
+	노인정/ncn+도/jxc
+
+함께
+	함께/mag
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+자연사랑
+	자연/ncn+사랑/ncn
+
+갤러리:
+	갤러리/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+jejugasiri.
+	jejugasiri/f+./sy
+
+net/02_map/map_01_01
+	net/02_map/map_01_01/ncn
+
+.
+	./sf
+
+
+asp
+	asp/f
+
+?
+	?/sf
+
+
+map=060105
+	map/f+=/sy+060105/nnc
+
+
+개관시간:
+	개관시간/ncn+:/sp
+
+10:00~18:00
+	10/nnc+:/sp+00/nnc+~/sd+18/nnc+:/sp+00/nnc
+
+(동절기~17:00)
+	(/sl+동절기/ncn+~/sd+17/nnc+:/sp+00/nnc+)/sr
+
+/
+	//sp
+
+입장권:
+	입장권/ncn+:/sp
+
+3,000원
+	3,000/nnc+원/nbu
+
+
+그리고
+	그리고/maj
+
+가시리마을에서
+	가시리마을/ncn+에서/jca
+
+마지막으로
+	마지막/ncn+으로/jca
+
+만났던
+	만나/pvg+아/ep+ㄴ/etm
+
+카페
+	카페/ncn
+
+선자살롱
+	선자살롱/ncn
+
+
+평범한
+	평범/ncps+하/xsms+ㄴ/etm
+
+어느주택의
+	어느주택/ncn+의/jcm
+
+한켠에
+	하/pvg+ㄴ/etm+켠/nbn+에/jca
+
+자리한
+	자리/ncn+한/ncn
+
+겉만
+	겉/ncn+만/jxc
+
+보기엔
+	보/px+기/etn+엔/jca
+
+이런곳에
+	이런곳/ncn+에/jca
+
+카페가
+	카페/ncn+가/jcs
+
+있을줄은
+	있/px+을/etm+줄/nbn+은/jxc
+
+상상도
+	상상/ncn+도/jxc
+
+못할
+	못하/px+ㄹ/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+장소
+	장소/ncn
+
+..
+	./sf+./sf
+
+
+그래서
+	그래서/maj
+
+더욱
+	더욱/mag
+
+기억에
+	기억/nnc+에/jca
+
+남았던
+	남/pvg+아/ep+ㄴ/etm
+
+곳.
+	곳/ncn+./sf
+
+..
+	./sf+./sf
+
+
+그러나,
+	그러/pvd+어/ecx+나/px+아/ecs+,/sp
+
+가시리마을의
+	가시리마을/ncn+의/jcm
+
+선자살롱은
+	선자살롱/ncn+은/jxc
+
+이제
+	이제/mag
+
+영업종료~
+	영업/ncpa+종료/ncpa+~/sd
+
+
+다음주
+	다음주/ncn
+
+3월말에
+	3/nnc+월/nbu+말/xsnu+에/jca
+
+대평리에
+	대평리/ncn+에/jca
+
+선자살롱이
+	선자살롱/ncn+이/jcc
+
+문을
+	문/ncn+을/jco
+
+연다고
+	열/pvg+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+지난번
+	지난번/ncn
+
+1월에
+	1/nnc+월/nbu+에/jca
+
+갔을때,
+	가/px+아/ep+ㄹ/etm+때/nbn+,/sp
+
+2월정도
+	2월정/ncn+도/jxc
+
+문을
+	문/ncn+을/jco
+
+연다고
+	열/pvg+ㄴ다/ef+고/jcr
+
+들었는데
+	들/pvg+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+혹시나
+	혹시/mag+나/jxc
+
+해서
+	하/pvg+어서/ecs
+
+검색을
+	검색/ncpa+을/jco
+
+해보니,
+	하/pvg+어/ecx+보/px+니/ecs+,/sp
+
+3월말에
+	3/nnc+월/nbu+말/xsnu+에/jca
+
+오픈한다는
+	오픈/ncpa+하/xsva+ㄴ다/ef+는/etm
+
+소식을
+	소식/ncn+을/jco
+
+들었다
+	들/pvg+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+정말
+	정말/mag
+
+대평리가게되면
+	대평리/ncn+가게/ncn+되/xsvn+면/ecs
+
+찾아볼
+	찾/pvg+아/ecx+보/px+ㄹ/etm
+
+카페,
+	카페/ncn+,/sp
+
+게스트하우스가
+	게스트/ncn+하우스/ncn+가/jcs
+
+너무
+	너무/mag
+
+많아졌다
+	많/paa+아/ecx+지/px+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+가시리마을의
+	가시리마을/ncn+의/jcm
+
+선자살롱
+	선자살롱/ncn
+
+...
+	.../se
+
+
+어쩌면
+	어쩌면/mag
+
+제가
+	저/npp+가/jcs
+
+마지막
+	마지막/ncn
+
+손님이었는지도
+	손님/ncn+이/jp+었/ep+는지/ecs+도/jxc
+
+모르겠네요
+	모르/pvg+겠/ep+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+^^;
+	^/sy+^/sy+;/sy
+
+
+따듯한
+	뜨/pvg+어/ecx+듯하/px+ㄴ/etm
+
+커피
+	커피/ncn
+
+잘
+	잘/mag
+
+마셨어요
+	마시/pvg+었/ep+어/ef+요/jxf
+
+...
+	.../se
+
+
+감귤의
+	감귤/ncn+의/jcm
+
+작은정성도요~~~
+	작은정성도요/ncn+~/sd+~/sd+~/sd
+
+
+봄이
+	보/px+ㅁ/etn+이/jcs
+
+되면
+	되/pvg+면/ecs
+
+...
+	.../se
+
+
+유채꽃
+	유채/ncn+꽃/ncn
+
+활짝피는
+	활짝피/ncn+는/jxc
+
+4월엔
+	4/nnc+월/nbu+엔/jca
+
+가시리마을의
+	가시리마을/ncn+의/jcm
+
+유채꽃
+	유채/ncn+꽃/ncn
+
+만발한
+	만발/ncps+한/ncn
+
+그
+	그/mmd
+
+곳을
+	곳/ncn+을/jco
+
+가보고
+	가/pvg+아/ecx+보/px+고/ecc
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+여행자를
+	여행자/ncn+를/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+눈요기는
+	눈요기/ncpa+는/jxc
+
+없는
+	없/paa+는/etm
+
+곳이지만,
+	곳/ncn+이/jp+지만/ecs+,/sp
+
+중산간의
+	중산/ncn+간/ncn+의/jcm
+
+외진
+	외지/paa+ㄴ/etm
+
+마을
+	마을/ncn
+
+가시리마을이
+	가시리마을/ncn+이/jcc
+
+문화마을로
+	문화/ncn+마을/ncn+로/jca
+
+어떻게
+	어떻/pad+게/ecs
+
+변해갈지
+	변/ncpa+하/xsva+어/ecx+가/px+ㄹ지/ecs
+
+
+기대가
+	기대/pvg+어/ecx+가/px+아/ecx
+
+되는
+	되/pvg+는/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+다만,
+	다/mag+만/jxc+,/sp
+
+체험공방이나,
+	체험/ncpa+공방/ncn+이나/jcj+,/sp
+
+오름,
+	오르/pvg+ㅁ/etn+,/sp
+
+갑마장길까지
+	갑마장길/ncn+까지/jxc
+
+가려면
+	가/px+려면/ecs
+
+당일치기보다는,
+	당일치기/ncn+보다는/jca+,/sp
+
+
+게스트하우스
+	게스트/ncn+하우스/ncn
+
+숙박하면서
+	숙박/ncpa+하/xsva+면서/ecc
+
+느릿느릿
+	느릿느릿/mag
+
+걸어야
+	걷/pvg+어야/ecs
+
+하는곳인것
+	하는곳인것/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+...
+	.../se
+
+
+다시
+	다시/mag
+
+가시리마을을
+	가시리마을/ncn+을/jco
+
+갔을땐,
+	갔을땐,/ncn
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+깊숙히
+	깊숙/ncps+히/xsas
+
+가시리의
+	가시/ncn+리/ncn+의/jcm
+
+길을
+	길/ncn+을/jco
+
+걸어야겠습니다
+	걷/pvg+어야겠/ep+습니다/ef
+
+.
+	./sf
+
+
+제주도
+	제주/ncn+도/jxc
+
+겨울여행
+	겨울/ncn+여행/ncpa
+
+..
+	./sf+./sf
+
+
+23일째
+	23/nnc+일/nbu+째/xsnu
+
+되는날의
+	되는날/ncn+의/jcm
+
+가시리산책길에서
+	가시리산책길에서/ncn
+
+...
+	.../se

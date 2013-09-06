@@ -1,0 +1,28 @@
+Title:
+9/2청태산 트레킹 후기
+
+Date:
+2012.09.03
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(800824,'files/attach/images/64/492/261/dfae61c9e81cdacbb820b3fb0b8536e2.jpg');
+list_gallery_add_image(800824,'files/attach/images/64/492/261/513fbae7174c8da16bad69b9b5e16b9f.jpg');
+list_gallery_add_image(800824,'files/attach/images/64/492/261/3e382d1b5b12dcbacd8f5c5bae970d6f.jpg');
+list_gallery_add_image(800824,'files/attach/images/64/492/261/6834c277bece08ad64770f17fec7e916.jpg');
+list_gallery_add_image(800824,'files/attach/images/64/492/261/75dc6eb3f32fb7584983750d5075af7e.jpg');
+list_gallery_add_image(800824,'files/attach/images/64/492/261/76eed377b8b5a86ff52cee468b703fd3.jpg');
+list_gallery_add_image(800824,'files/attach/images/64/492/261/5b6e547258ed4e9ca536a0df31ef6619.jpg');
+list_gallery_add_image(800824,'files/attach/images/64/492/261/fd5ef410297af04fe6dbd739f4c3726e.jpg');
+list_gallery_add_image(800824,'files/attach/images/64/492/261/8823fc5f3d28f7081059f14ab01fa874.jpg');
+list_gallery_add_image(800824,'files/attach/images/64/492/261/549f4cf6d934e9cd95d250621e5662e9.jpg');
+list_gallery_add_image(800824,'files/attach/images/64/492/261/822e8bd63436efb5880377bc34ce17d7.jpg');
+list_gallery_add_image(800824,'files/attach/images/64/492/261/0a4d767456f438fb0aad539cc21c5866.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+9월 2일(일), 아름다운 여행으로 청태산 트레킹을 다녀왔습니다. 청태산은 우리나라 자연휴양림을 대표하는 청태산 자연휴양림이 들어서 있는 곳입니다. 울창한 숲이 일품인 곳인데 관리가 잘 되고 있어 불편 없이 숲의 정취를 즐길 수 있는 곳입니다. 이 날은 날씨도 좋은 편이어서 여유롭게 청태산의 숲을 여유롭게 즐길 수 있었습니다.
+이번 트레킹은 자유롭게 진행되어서 아마 참여하신 분들 중 반 정도만 정상에 올랐던 것 같습니다. 청태산 정상에 오르려면 편안한 나무데크길을 지나 숲길을 약 1.7km 정도 걸어 올라야 합니다. 증간에 꽤 가파른 구간도 있어서 땀을 좀 흘려야 갈 수 있는 곳이죠. 청태산 정상에서는 둔내 쪽을 내려다보는 조망이 시원하죠. 이 날은 날이 좋아 둔내 쪽 풍경을 잘 즐길 수 있었습니다. 
+정상을 내려와서 능선을 따라 트레킹을 좀더 즐겼습니다.청태산의 능선 역시 숲이 우거져 깊은 숲길을 이루고 있습니다. 이 숲길을 따라 내려와 치유의 길로 알려진 휴양림의 임도를 걷는 것으로 트레킹을 마쳤습니다.
+트레킹을 끝낸 후에도 시간 여유가 있어 각자 숲에서 여유로운 시간을 보냈습니다. 울창한 숲에서 보낸 여유가 어떠셨는지 모르겠네요.
+이번 여행은 숲에서의 자유시간이 여행의 테마였습니다. 각자 원하는 만큼 원하는 코스를 걷고, 또 자유로운 시간도 넉넉히 보낼 수 있었습니다. 시간 활용을 잘하신 분은 아주 즐거운 여행이 되셨겠지만, 시간 활용에 서툰 분들은 좀 지루하지 않았을까 싶습니다.많은 분들이 즐겁게 숲을 즐기셨기를 바랍니다. 이번 청태산 여행에 참여하신 분들 모두 여행의 피로 잘 푸시고, 활기차게 한 주 보내시기 바랍니다.
+이 게시물을...

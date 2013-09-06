@@ -1,0 +1,137 @@
+Title:
+쌍계사 화개장터 
+
+Date:
+2012.04.24 19:51
+
+Content:
+
+위 치 : 경남 하동군 화개면 운수리 208 [쌍계사]문의055]883~1901.2
+ 경상남도 하동군 화개면 탑리726~46 [화개장터]
+쌍계사가는길은 승용차로간다면 하동이나 남원으로 가면되는데 
+서울에서 간다면 남원으로 가는것이 좀빠릅니다
+남원I.C에서 19번 국도를 이용 화동방면으로가다 화개삼거리에서 좌회전 십리벚꽃길 
+따라 가면 쌍계사입구 버스정류장이 나옵니다
+좌회전 해서 다리를 건너 올라가면 쌍계사 주차장입니다
+쌍계사 주차장에서 쌍계사까지는 도보 약15분 어른입장료2500원
+서울에서 대중교통을 이용한다면 지하철3호선5번출구 남부터미널에서
+구례행버스를 이용해서 구례버스터미널에서 쌍계사행 버스를 타시면 됩니다
+남부터미널에서 구례행 첫차06:30:막차 심야22;하루9회 운행3시간30분소요
+구례버스터미널~쌍계사 첫차06:40:막차18:하루7회 운행
+
+
+전라도와 경상도를 가로지르는 섬진강 줄기따라 화개장터엔
+아랫말 하동사람 윗말 구례사람 닷새마다 어우러져 장을 펼치네
+구경한번 와보세요 보기엔 그냥 시골장터지만
+있어야 할건 다있구요
+없을건 없답니다 화계장터엔.....
+
+우리나라 최초의 현수교
+하동군과 남해군을 연결하는 남해대교
+
+
+
+광양에선 삐걱삐걱 나룻배타고
+산천에선 부릉부릉 버스를 타고 사투리 잡담에다 입씨름 흥정이
+오손도손 왁자지껄장을펼치네
+구경한번 와보세요
+오시면 모두모두 이웃사촌 고운정 미운정 주고받는 경상도 전라도의 화계장터
+화개장터:조영남 작사 작곡.노래
+[다른 어떤 글 보다도 가사가 마음에 와 닿을것 같습니다]
+
+삼신산 쌍계사
+쌍계사는 지리산의 장엄함과섬진강의 평화스러움이 절묘한 조화를 이룬 곳에 자리하고 있다
+지리산은 금강산 할라산과 함께 삼신산[三神山]이라 하여 옛부터 영산으로 숭배되어 왔다
+724년[신라 선덕여왕23년]의상대사 제자인 삼법三法 화상이 당나라에서 육조혜능六祖慧能의
+정상頂相을 모시고 눈 속에 칡꽃이 핀 곳에 봉안한것이 그 시초라 합니다 [쌍계사 책자 인용]
+
+어느새 마른 나무가지에는 연두색 새잎이 움트고
+코끝을 스치는 향긋한 봄내음이 볼에 닿는듯 기분좋은 계절입니다
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/04/24/89/03102323617E534E74C3290F73CA4E83BC9_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '454.55';
+	var qsParam = {};
+	qsParam.vid = '59577CC811A2D7FEAD6DB915120ECAA4C9CF';
+	qsParam.inKey = 'V123e9300c3107e34e2e7b915120ecaa4c9cf4e6bdee65a73b1ac7cc811a2d7fead6db915120ecaa4c9cf';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = 'MUSIC';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_09999 = new VideoInfraUGCPlayer('ugcPlayer_09999' ,bean); 
+ugcPlayer_09999.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+
+ 
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/04/24/1198/03102323617E534E8AC3091C733A4F839C9_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '242.08';
+	var qsParam = {};
+	qsParam.vid = '043286E99975F4A68089A369E35B11C600C4';
+	qsParam.inKey = 'V124c30508fe951ef6c300a6dd4ad13278429f4a2124f36dd72a319927a38fbf09cc80a6dd4ad13278429';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_08766 = new VideoInfraUGCPlayer('ugcPlayer_08766' ,bean); 
+ugcPlayer_08766.drawPlayLayer(); 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

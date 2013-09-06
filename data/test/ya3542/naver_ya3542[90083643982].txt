@@ -1,0 +1,60 @@
+Title:
+애비..아버지의 이름 .. 
+
+Date:
+2010.03.22 02:45
+
+Content:
+
+아버지의 마음은 먹칠한 유리와 같다 .. 그래서 잘 깨지지만 속은 잘 보이지 않는다.
+
+아버지란 울 장소가 없기에 더 슬프다.. 아버지는 돌아가신 후에야 보고싶어 진다.
+
+아버지는 무관심한 사람이 아니다.. 체면과 자존심, 미안함에 마음을 나타내지 못한다.
+
+아버지의 웃음은 어머니 웃음의 두배는 크지만.. 아버지의 울음은 그 열배쯤은 진하다.
+
+어머니의 가슴은 봄과 여름을 왔다갔다 하지만.. 아버지 가슴은 가을과 겨울을 오간다.
+
+ 민초호야
+
+
+
+애비 by 최백호
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc17/2010/03/22/769/031002237148531E1CC3B96C73F591535C5_ya3542_logo.jpg';
+	layout.playtime = '190.79';
+	var qsParam = {};
+	qsParam.vid = '073C225965D4BFEA389F6AC265F0176E6ECC';
+	qsParam.inKey = 'V127adbbace0de8e908cbcd5a541b1b123cc60d504e8a5edcef22f8a3b45d6c0a0cb0cd5a541b1b123cc6';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_06183 = new VideoInfraUGCPlayer('ugcPlayer_06183' ,bean); 
+ugcPlayer_06183.drawPlayLayer(); 
+}
+
+
+
+애비 (최백호) 가사
+
+가뭄으로 말라터진 논바닥 같은가슴이라면 너는 알겠니비바람 몰아치는 텅빈 벌판에홀로선 솔나무 같은 마음이구나그래 그래 그래 너무 예쁘다새하얀 드레스에 내 딸모습이잘 살아야 한다 행복해야한다.애비 소원은 그것뿐이다아장 아장 걸음마가 엊그제 같은데어느새 자라 내곁을 떠난다니강처럼 흘러버린 그 세월들이이 애비 가슴속엔 남아 있구나그래 그래 그래 울지마라고운 드레스에 얼굴이 질라참아야 한다 참아야 한다.애비 부탁은 그것 뿐이다.
+
+
+
+민초호야 .. 음악essay
+
+	

@@ -1,0 +1,1040 @@
+솔향기
+	솔향기/ncn
+
+찾아
+	찾/pvg+아/ecx
+
+떠나는
+	떠나/pvg+는/etm
+
+숲
+	숲/ncn
+
+여행
+	여행/ncpa
+
+
+-
+	-/sd
+
+강원
+	강원/ncn
+
+삼척시
+	삼척시/ncn
+
+미로
+	미로/ncn
+
+-
+	-/sd
+
+
+빼곡한
+	빼곡한/ncn
+
+금강송
+	금강송/ncn
+
+군락속에
+	군락/ncn+속/ncn+에/jca
+
+자리한
+	자리/ncn+한/ncn
+
+준경묘
+	준경묘/ncn
+
+
+무더운
+	무덥/paa+은/etm
+
+여름으로
+	여름/ncn+으로/jca
+
+심신이
+	심신/ncn+이/jcc
+
+지치고
+	지치/pvg+고/ecc
+
+답답할
+	답답/ncps+하/xsms+ㄹ/etm
+
+때
+	때/ncn
+
+솔향기
+	솔향기/ncn
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+삼척의
+	삼/nnc+척/nbu+의/jcm
+
+숲길을
+	숲길/ncn+을/jco
+
+찾아
+	찾/pvg+아/ecx
+
+여행을
+	여행/ncpa+을/jco
+
+떠나보자
+	떠나/pvg+아/ecx+보/px+자/ecc
+
+!
+	!/sf
+
+
+강원도
+	강원/ncn+도/jxc
+
+두타산과
+	두타산/ncn+과/jcj
+
+덕항산
+	덕항산/ncn
+
+사이로
+	사이/ncn+로/jca
+
+가파르고
+	가파르/paa+고/ecc
+
+아름답게
+	아름답/paa+게/ecs
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+산세를
+	산세/ncn+를/jco
+
+따라가다
+	따르/pvg+아/ecx+가/px+아/ecx
+
+보면
+	보/px+면/ecs
+
+금강송이
+	금강/ncn+송이/ncn
+
+빼곡하게
+	빼곡하/ncn+이/jp+게/ecs
+
+자라고
+	자/nbn+이/jp+라/ef+고/jcr
+
+있는
+	있/px+는/etm
+
+삼척
+	삼/nnc+척/nbu
+
+준경묘(
+	준경묘(/ncn
+
+)의
+	)/sr+의/jcm
+
+안내판을
+	안내판/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+묘는
+	묘/ncn+는/jxc
+
+조선
+	조선/ncpa
+
+태조
+	태조/ncn
+
+이성계의
+	이성/ncn+계/ncn+의/jcm
+
+5대조이며
+	5/nnc+대/xsnu+조/nbu+이/jp+며/ecc
+
+목조(
+	목조(/ncn
+
+)의
+	)/sr+의/jcm
+
+아버지인
+	아버지/ncn+이/jp+ㄴ/etm
+
+이양무(
+	이양무(/ncn
+
+)
+	)/sr
+
+장군의
+	장군/ncr+의/jcm
+
+묘소이다
+	묘소/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+안내판
+	안내판/ncn
+
+앞에
+	앞/ncn+에/jca
+
+주차를
+	주차/ncn+를/jco
+
+하고
+	하/pvg+고/ecc
+
+나면
+	나/px+면/ecs
+
+산쪽으로
+	사/pvg+ㄴ/etm+쪽/nbn+으로/jca
+
+콘크리트길이
+	콘크리트/ncn+길/ncn+이/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+울창한
+	울창/ncn+한/ncn
+
+원시림
+	원시림/ncn
+
+속에
+	속/ncn+에/jca
+
+약
+	약/ncn
+
+45도가
+	45/nnc+도/nbu+가/jcc
+
+넘는
+	넘/pvg+는/etm
+
+비탈길을
+	비탈길/ncn+을/jco
+
+10분
+	10/nnc+분/nbu
+
+이상
+	이상/ncn
+
+걷다보면
+	걷다보/ncn+이/jp+면/ecs
+
+곧
+	곧/maj
+
+평탄한
+	평탄/ncn+한/ncn
+
+흙길로
+	흙길/ncn+로/jca
+
+이어지고
+	잇/pvg+어/ecx+지/px+고/ecc
+
+빼곡한
+	빼곡한/ncn
+
+금강송
+	금강송/ncn
+
+군락은
+	군락/ncn+은/jxc
+
+하늘을
+	하늘/ncn+을/jco
+
+찌르는
+	찌르/pvg+는/etm
+
+듯
+	듯/nbn
+
+그
+	그/mmd
+
+자태를
+	자태/ncn+를/jco
+
+뽐내고
+	뽐내/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+울창한
+	울창/ncn+한/ncn
+
+숲속의
+	숲속/ncn+의/jcm
+
+그윽한
+	그윽/ncps+하/xsms+ㄴ/etm
+
+솔향을
+	솔향/ncn+을/jco
+
+맡으며
+	맡/pvg+으며/ecc
+
+걷다보면
+	걷다보/ncn+이/jp+면/ecs
+
+특이한
+	특이/ncn+한/ncn
+
+사연을
+	사연/ncn+을/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+소나무한
+	소나무/ncn+한/ncn
+
+그루가
+	그루/nbu+가/jcc
+
+우리를
+	우리/npp+를/jco
+
+반기는데,
+	반기/pvg+ㄴ데/ecs+,/sp
+
+우리나라에서
+	우리나라/ncn+에서/jca
+
+형질이
+	형질/ncn+이/jcc
+
+가장
+	가장/mag
+
+우수하여
+	우수/ncps+하/xsms+어/ecx
+
+최고의
+	최고/ncn+의/jcm
+
+미인송으로
+	미인송/ncn+으로/jca
+
+꼽히는
+	꼽히/pvg+는/etm
+
+혼례소나무가
+	혼례/ncn+소나무/ncn+가/jcs
+
+그것이다
+	그것/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+높이
+	높이/mag
+
+32m,
+	32m,/ncn
+
+둘레
+	둘레/ncn
+
+2.1m인
+	2.1m/ncn+이/jp+ㄴ/etm
+
+이
+	이/mmd
+
+소나무는
+	소나무/ncn+는/jxc
+
+충북
+	충북/ncn
+
+보은군의
+	보은군/ncn+의/jcm
+
+정이품송을
+	정이품송/ncn+을/jco
+
+신랑으로
+	신랑/ncn+으로/jca
+
+맞아
+	맞/pvg+아/ecx
+
+소나무
+	소나무/ncn
+
+전통혼례식을
+	전통혼례식/ncn+을/jco
+
+가짐으로써
+	가/pvg+아/ecx+지/px+ㅁ/etn+으로써/jca
+
+한국
+	한국/ncn
+
+기네스북에
+	기네스북/ncn+에/jca
+
+오른
+	오르/pvg+ㄴ/etm
+
+이력이
+	이력/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+하늘을
+	하늘/ncn+을/jco
+
+찌르는
+	찌르/pvg+는/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+모습을
+	모습/ncn+을/jco
+
+지닌
+	지니/pvg+ㄴ/etm
+
+금강송들
+	금강송들/ncn
+
+
+환경단체인
+	환경단체/ncn+이/jp+ㄴ/etm
+
+생명의
+	생명/ncn+의/jcm
+
+숲
+	숲/ncn
+
+에서
+	에/pvg+어서/ecs
+
+가장
+	가장/mag
+
+아름다운
+	아름답/paa+은/etm
+
+숲으로
+	숲/ncn+으로/jca
+
+선정된
+	선정/ncpa+되/xsvn+ㄴ/etm
+
+이곳에서
+	이곳/npd+에서/jca
+
+약
+	약/ncn
+
+30분
+	30/nnc+분/nbu
+
+정도
+	정도/ncn
+
+산책을
+	산책/ncpa+을/jco
+
+하다보면
+	하/pvg+어다/ecx+보/px+면/ecs
+
+바로
+	바로/mag
+
+강원도
+	강원/ncn+도/jxc
+
+기념물
+	기념물/ncn
+
+제43호로
+	제43호/ncn+로/jca
+
+등록된
+	등록/ncpa+되/xsvn+ㄴ/etm
+
+준경묘에
+	준경묘/ncn+에/jca
+
+도착하게
+	도착/ncpa+하/xsva+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+기생
+	기생/ncn
+
+때문에
+	때문/nbn+에/jca
+
+산성별감과
+	산성/ncn+별감/ncr+과/jct
+
+다투게
+	다투/pvg+게/ecs
+
+된
+	되/pvg+ㄴ/etm
+
+목조는
+	목조/ncpa+는/jxc
+
+부친
+	부치/pvg+ㄴ/etm
+
+양무
+	양/xp+무/ncn
+
+장군과
+	장군/ncr+과/jct
+
+함께
+	함께/mag
+
+이곳
+	이곳/npd
+
+삼척으로
+	삼/nnc+척/nbu+으로/jca
+
+피신을
+	피신/ncpa+을/jco
+
+하게
+	하/pvg+게/ecs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+애석하게
+	애석/ncps+하/xsms+게/ecs
+
+부친상을
+	부친상/ncn+을/jco
+
+당한
+	당하/pvg+ㄴ/etm
+
+목조는
+	목조/ncpa+는/jxc
+
+후대에
+	후대/ncn+에/jca
+
+왕을
+	왕/ncr+을/jco
+
+만들
+	만들/pvg+ㄹ/etm
+
+자리로
+	자리/ncn+로/jca
+
+천하의
+	천하/ncn+의/jcm
+
+명당이라고
+	명당/ncn+이/jp+라/ef+고/jcr
+
+한
+	하/pvg+ㄴ/etm
+
+도승의
+	도승/ncn+의/jcm
+
+말에
+	말/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+선친을
+	선친/ncn+을/jco
+
+이곳에
+	이곳/npd+에/jca
+
+안장하게
+	안장/ncpa+하/xsva+게/ecs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이후
+	이후/ncn
+
+5대에
+	5/nnc+대/nbu+에/jca
+
+이르러서
+	이르/pvg+어서/ecs
+
+이성계가
+	이성/ncn+계/ncn+가/jcs
+
+탄생하여
+	탄생/ncpa+하/xsva+어/ecx
+
+조선왕조를
+	조선왕조/ncn+를/jco
+
+건국했다는
+	건국/ncpa+하/xsva+었/ep+다/ef+는/etm
+
+전설이
+	전설/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+바로
+	바로/mag
+
+이곳
+	이곳/npd
+
+준경묘다
+	준경묘/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+여기서
+	여기/npd+서/jca
+
+자동차로
+	자동차/ncn+로/jca
+
+5분
+	5/nnc+분/nbu
+
+거리에는
+	거리/ncn+에/jca+는/jxc
+
+영경묘(
+	영경묘(/ncn
+
+)가
+	)/sr+가/jcc
+
+있는데
+	있/px+는데/ecs
+
+이는
+	이/npd+는/jxc
+
+양무
+	양/xp+무/ncn
+
+장군의
+	장군/ncr+의/jcm
+
+부인이
+	부인/ncn+이/jcc
+
+묻힌
+	묻히/pvg+ㄴ/etm
+
+묘지이다
+	묘지/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+준경묘
+	준경묘/ncn
+
+소나무림
+	소나무/ncn+이/jp+리/ep+ㅁ/etn
+
+보다는
+	보/px+다/ef+는/etm
+
+못하지만
+	못하/pvg+지/ecx+말/px+ㄴ/etm
+
+보존상태가
+	보존상태/ncn+가/jcs
+
+좋고
+	좋/paa+고/ecc
+
+형질이
+	형질/ncn+이/jcc
+
+우수한
+	우수/ncps+하/xsms+ㄴ/etm
+
+소나무가
+	소나무/ncn+가/jcs
+
+많이
+	많/paa+이/xsa
+
+자라고
+	자/nbn+이/jp+라/ef+고/jcr
+
+있는
+	있/px+는/etm
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+마을회관
+	마을회관/ncn
+
+앞에
+	앞/ncn+에/jca
+
+주차를
+	주차/ncn+를/jco
+
+하고
+	하/pvg+고/ecc
+
+산길로
+	산길/ncn+로/jca
+
+200m
+	200m/ncn
+
+쯤
+	쯤/ncn
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여름,
+	여름/ncn+,/sp
+
+붉고
+	붉/paa+고/ecc
+
+푸른
+	푸르/paa+ㄴ/etm
+
+기운을
+	기운/ncn+을/jco
+
+동시에
+	동시에/mag
+
+담고
+	담/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+금강송
+	금강송/ncn
+
+군락에서의
+	군락/ncn+에서/jca+의/jcm
+
+높고
+	높/paa+고/ecc
+
+곧은
+	곧/maj+은/jxc
+
+기상을
+	기상/ncn+을/jco
+
+이어받아
+	잇/pvg+어/ecx+받/px+아/ecx
+
+무더움을
+	무덥/paa+음/etn+을/jco
+
+이길
+	이기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+정기를
+	정기/ncn+를/jco
+
+한번
+	한/nnc+번/nbu
+
+받아
+	받/pvg+아/ecx
+
+보자
+	보/px+자/ecc
+
+.
+	./sf
+
+
+이승휴가
+	이승/ncn+휴가/ncn
+
+제왕운기를
+	제왕운기/ncn+를/jco
+
+저술한
+	저술/ncpa+하/xsva+ㄴ/etm
+
+천은사
+	천은사/ncn
+
+천은사
+	천은사/ncn
+
+가는
+	가/pvg+는/etm
+
+숲길
+	숲길/ncn
+
+
+신라
+	신/xp+라/ncn
+
+흥덕왕
+	흥덕왕/ncn
+
+4년에
+	4/nnc+년/nbu+에/jca
+
+창건된
+	창건/ncpa+되/xsvn+ㄴ/etm
+
+사찰로
+	사찰/ncn+로/jca
+
+고려시대
+	고려시대/ncn
+
+학자이자
+	학자/ncn+이/jp+자/ecc
+
+문장가인
+	문장가/ncn+이/jp+ㄴ/etm
+
+이승휴가
+	이승/ncn+휴가/ncn
+
+은거하면서
+	은거/ncpa+하/xsva+면서/ecc
+
+제왕운기를
+	제왕운기/ncn+를/jco
+
+저술한
+	저술/ncpa+하/xsva+ㄴ/etm
+
+곳인
+	곳/ncn+이/jp+ㄴ/etm
+
+천은사와
+	천은사/ncn+와/jcj
+
+통일신라
+	통일신라/ncn
+
+진성여왕
+	진성여왕/ncn
+
+3년
+	3/nnc+년/nbu
+
+범일국사가
+	범일국사/ncn+가/jcs
+
+창건하여
+	창건/ncpa+하/xsva+어/ecx
+
+설선당,
+	설선당,/ncn
+
+신검당
+	신검/ncn+당/ncn
+
+삼존불상,
+	삼존불상/ncn+,/sp
+
+정화
+	정화/ncn
+
+등
+	등/nbu
+
+많은
+	많/paa+은/etm
+
+유물이
+	유물/ncn+이/jcc
+
+남아있는
+	남/pvg+아/ecx+있/px+는/etm
+
+곳인
+	곳/ncn+이/jp+ㄴ/etm
+
+신흥사로
+	신흥사/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+숲길은
+	숲길/ncn+은/jxc
+
+주변이
+	주변/ncn+이/jcc
+
+수목으로
+	수목/ncn+으로/jca
+
+우거져
+	우거져/ncn
+
+있고
+	있/px+고/ecc
+
+아기자기한
+	아기자기/ncn+한/ncn
+
+계곡들이
+	계곡/ncn+들/ncn+이/jcc
+
+함께
+	함께/mag
+
+어우러져
+	어우러지/pvg+어/ecx
+
+있어,
+	있/px+어/ecs+,/sp
+
+아름다운
+	아름답/paa+은/etm
+
+자연의
+	자연/ncn+의/jcm
+
+운치를
+	운치/ncn+를/jco
+
+만끽하기에
+	만끽/ncpa+하/xsva+기/etn+에/jca
+
+좋은
+	좋/paa+은/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+기사내용
+	기사내용/ncn
+
+전체보기
+	전체/ncn+보기/ncn

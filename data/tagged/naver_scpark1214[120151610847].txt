@@ -1,0 +1,1624 @@
+-
+	-/sd
+
+연꽃의
+	연꽃/ncn+의/jcm
+
+제주시
+	제주/ncn+시/ncn
+
+화북동
+	화북동/ncn
+
+별도연대와
+	별도/ncn+연대/ncn+와/jcj
+
+환해장성
+	환해/ncn+장성/ncn
+
+둘러보기
+	둘러보/pvg+기/etn
+
+-
+	-/sd
+
+
+제주시
+	제주/ncn+시/ncn
+
+화북2동
+	화북2동/ncn
+
+거로
+	거/ncn+로/jca
+
+능동산
+	능동/ncn+산/ncn
+
+방묘를
+	방묘/ncn+를/jco
+
+둘러보고
+	둘러보/pvg+고/ecc
+
+
+화북동
+	화북동/ncn
+
+바닷가에
+	바닷가/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+별도연대와
+	별도/ncn+연대/ncn+와/jcj
+
+환해장성을
+	환해/ncn+장성/ncn+을/jco
+
+찾았다
+	찾/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+화북동
+	화북동/ncn
+
+별도연대와
+	별도/ncn+연대/ncn+와/jcj
+
+환해장성이
+	환해/ncn+장성/ncn+이/jcc
+
+위치한
+	위치/ncn+한/ncn
+
+곳은
+	곳/ncn+은/jxc
+
+옛
+	옛/mma
+
+제주해상
+	제주/ncn+해상/ncn
+
+교통의
+	교통/ncn+의/jcm
+
+
+관문인
+	관문/ncn+이/jp+ㄴ/etm
+
+화북포구
+	화북포구/ncn
+
+동쪽
+	동쪽/ncn
+
+연대동산이다
+	연대/ncn+동산/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+거로
+	거/ncn+로/jca
+
+능동산
+	능동/ncn+산/ncn
+
+방묘을
+	방묘/ncn+을/jco
+
+둘러보고
+	두르/pvg+어/ecx+보/px+고/ecc
+
+따스한
+	따스/ncps+하/xsms+ㄴ/etm
+
+겨울
+	겨울/ncn
+
+햇살을
+	햇살/ncn+을/jco
+
+받으며
+	받/pvg+으며/ecc
+
+걸어
+	걸/pvg+어/ecs
+
+
+제주시
+	제주/ncn+시/ncn
+
+화북동
+	화북동/ncn
+
+화북포구
+	화북포구/ncn
+
+동쪽
+	동쪽/ncn
+
+연대동산에
+	연대/ncn+동산/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+별도연대에
+	별도/ncn+연대/ncn+에/jca
+
+도착했다
+	도착/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+별도연대는
+	별도/ncn+연대/ncn+는/jxc
+
+화북진에
+	화북진/ncn+에/jca
+
+소속된
+	소속/ncpa+되/xsvn+ㄴ/etm
+
+연대로
+	연대/ncn+로/jca
+
+낮에는
+	낮/ncn+에/jca+는/jxc
+
+연기로
+	연기/ncn+로/jca
+
+밤에는
+	밤/ncn+에/jca+는/jxc
+
+횃불로
+	횃불/ncn+로/jca
+
+적의
+	적/nbn+의/jcm
+
+침입을
+	침입/ncpa+을/jco
+
+동쪽에
+	동쪽/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+
+조천
+	조/nnc+천/nnc
+
+연대와
+	연대/ncn+와/jcj
+
+서쪽에
+	서쪽/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+수근
+	수근/ncn
+
+연대에
+	연대/ncn+에/jca
+
+알리는
+	알리/pvg+는/etm
+
+역활을
+	역활/ncn+을/jco
+
+담당했던
+	담당/ncpa+하/xsva+었/ep+던/etm
+
+연대이다
+	연대/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+별도연대
+	별도/ncn+연대/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+화북동
+	화북동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01937909",
+	"bl01937909",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"16989529",
+	"/sl+16989529/nnc+"/sr+,/sp
+
+type:"2",
+	type/f+:/sp+"/sl+2/nnc+"/sr+,/sp
+
+title:"별도연대",
+	title/f+:/sp+"/sl+별도/ncn+연대/ncn+"/sr+,/sp
+
+pointX:267215,pointY:104292}
+	pointX/f+:/sp+267215/nnc+,/sp+pointY/f+:/sp+104292/nnc+}/sr
+
+
+별도연대
+	별도/ncn+연대/ncn
+
+앞
+	앞/ncn
+
+빈
+	비/paa+ㄴ/etm
+
+공터에는
+	공터/ncn+에/jca+는/jxc
+
+누렇게
+	누렇/paa+게/ecs
+
+색바랜
+	색바래/pvg+ㄴ/etm
+
+
+천연잔디가
+	천연/ncn+잔디/ncn+가/jcs
+
+곱게
+	곱/paa+게/ecs
+
+깔려
+	깔리/pvg+어/ecx
+
+겨울이
+	겨울/ncn+이/jcc
+
+깊어가고
+	깊/paa+어/ecx+가/px+고/ecc
+
+있음을
+	있/px+음/etn+을/jco
+
+보여준다
+	보이/pvg+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+햇살이
+	햇살/ncn+이/jcc
+
+따스하고
+	따스/ncps+하고/jct
+
+바람
+	바라/pvg+ㅁ/etn
+
+한점
+	한/nnc+점/nbu
+
+없어
+	없/paa+어/ecx
+
+운동하기에
+	운동/ncn+하기/ncn+에/jca
+
+아주
+	아주/mag
+
+그만인
+	그만이/paa+ㄴ/etm
+
+날씨이다
+	날씨/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+화북포구를
+	화북포구/ncn+를/jco
+
+지나
+	지나/pvg+아/ecx
+
+연대동산에
+	연대/ncn+동산/ncn+에/jca
+
+
+위치한
+	위치/ncn+한/ncn
+
+별도연대에
+	별도/ncn+연대/ncn+에/jca
+
+도착해
+	도착/ncpa+하/xsva+어/ecx
+
+안내문을
+	안내문/ncn+을/jco
+
+읽어봤다
+	읽/pvg+어/ecx+보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+별도연대는
+	별도/ncn+연대/ncn+는/jxc
+
+제주특별자치도
+	제주/ncn+특별/ncps+자치/ncn+도/jxc
+
+기념물
+	기념물/ncn
+
+제23-9호로
+	제23-9호/ncn+로/jca
+
+지정
+	지정/ncpa
+
+관리되고
+	관리/ncpa+되/xsvn+고/ecc
+
+있는
+	있/px+는/etm
+
+유적이다
+	유적/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+연대에는
+	연대/ncn+에/jca+는/jxc
+
+봉군으로
+	봉군/ncn+으로/jca
+
+별장
+	별장/ncn
+
+6명,
+	6/nnc+명/nbu+,/sp
+
+직군
+	직군/ncn
+
+18명이
+	18/nnc+명/nbu+이/jcc
+
+근무를
+	근무/ncpa+를/jco
+
+했던
+	하/px+었/ep+던/etm
+
+것으로
+	것/nbn+으로/jca
+
+알려지고
+	알리/pvg+어/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+별도연대에서
+	별도/ncn+연대/ncn+에서/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+화북포구
+	화북포구/ncn
+
+전경이다
+	전경/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+파란
+	파랗/paa+은/etm
+
+하늘엔
+	하늘/ncn+엔/jca
+
+제주국제공항에
+	제주/ncn+국제공항/ncn+에/jca
+
+착륙하는
+	착륙/ncpa+하/xsva+는/etm
+
+항공기도
+	항공/ncn+기/ncn+도/jxc
+
+눈에
+	눈/ncn+에/jca
+
+들어오고
+	들어오/pvg+고/ecc
+
+
+화북포구
+	화북포구/ncn
+
+방파제에는
+	방파제/ncn+에/jca+는/jxc
+
+오랜만에
+	오랜만/ncn+에/jca
+
+날씨가
+	날씨/ncn+가/jcs
+
+좋아서
+	좋/paa+아/ecx
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+많은
+	많/paa+은/etm
+
+강태공들이
+	강태공들/ncn+이/jcc
+
+월척의
+	월척/ncn+의/jcm
+
+꿈을
+	꿈/ncn+을/jco
+
+
+안고
+	안/pvg+고/ecc
+
+바닷가를
+	바닷가/ncn+를/jco
+
+찾은
+	찾/pvg+은/etm
+
+모습도
+	모습/ncn+도/jxc
+
+눈에
+	눈/ncn+에/jca
+
+들어온다
+	들/pvg+어/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+별도연대
+	별도/ncn+연대/ncn
+
+위에서
+	위/ncn+에서/jca
+
+내려다
+	내리/pvg+어다/ecs
+
+보는
+	보/px+는/etm
+
+제주시
+	제주/ncn+시/ncn
+
+삼양동
+	삼양동/ncn
+
+전경이다
+	전경/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+화북동
+	화북동/ncn
+
+환해장성
+	환해/ncn+장성/ncn
+
+너머
+	너머/ncn
+
+저멀리
+	저멀리/mag
+
+바닷가에는
+	바닷가/ncn+에/jca+는/jxc
+
+삼양화력발전소와
+	삼양화력발전소/ncn+와/jcj
+
+원당봉이
+	원/nbu+당/xsnu+봉/nbu+이/jcc
+
+지는
+	지/px+는/etm
+
+햇살을
+	햇살/ncn+을/jco
+
+
+머금고
+	머금/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+풍경이다
+	풍경/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+별도연대는
+	별도/ncn+연대/ncn+는/jxc
+
+1999년
+	1999/nnc+년/nbu
+
+석축으로
+	석축/ncn+으로/jca
+
+복원되었는데,
+	복원/ncpa+되/xsvn+었/ep+는데/ecs+,/sp
+
+제주도내
+	제주/ncn+도내/ncn
+
+일반적인
+	일반/ncn+적/ncn+이/jp+ㄴ/etm
+
+연대의
+	연대/ncn+의/jcm
+
+형태인
+	형태/ncn+인/ncn
+
+
+사다리꼴
+	사다리꼴/ncn
+
+형태의
+	형태/ncn+의/jcm
+
+기단
+	기단/ncn
+
+주위에
+	주위/ncn+에/jca
+
+타원형의
+	타원형/ncn+의/jcm
+
+방호벽이
+	방호/ncpa+벽/ncn+이/jcc
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+방호벽
+	방호/ncpa+벽/ncn
+
+시설은
+	시설/ncpa+은/jxc
+
+제주도의
+	제주/ncn+도/ncn+의/jcm
+
+전형적인
+	전형/ncn+적/ncn+이/jp+ㄴ/etm
+
+연대의
+	연대/ncn+의/jcm
+
+형태와는
+	형태/ncn+와/jct+는/jxc
+
+달리
+	달리/mag
+
+독특한
+	독특/ncps+하/xsms+ㄴ/etm
+
+방호벽
+	방호/ncpa+벽/ncn
+
+시설이다
+	시설/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+별도연대
+	별도/ncn+연대/ncn
+
+위에서는
+	위/ncn+에서/jca+는/jxc
+
+환해장성
+	환해/ncn+장성/ncn
+
+너머로
+	너머/ncn+로/jca
+
+
+짙푸른
+	짙푸르/paa+ㄴ/etm
+
+제주
+	제주/ncn
+
+앞바다가
+	앞바다/ncn+가/jcs
+
+시원스레
+	시원스레/mag
+
+펼쳐져
+	펼치/pvg+어/ecx+지/px+어/ecx
+
+가슴이
+	가슴/ncn+이/jcc
+
+시원할
+	시원/ncps+하/xsms+ㄹ/etm
+
+정도이다
+	정도/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+별도연대가
+	별도/ncn+연대/ncn+가/jcs
+
+위치한
+	위치/ncn+한/ncn
+
+지형,
+	지형/ncn+,/sp
+
+지세를
+	지세/ncn+를/jco
+
+자세히
+	자세히/mag
+
+살펴보면
+	살피/pvg+어/ecx+보/px+면/ecs
+
+화북포구
+	화북포구/ncn
+
+동쪽
+	동쪽/ncn
+
+연대동산에서
+	연대/ncn+동산/ncn+에서/jca
+
+
+바닷가
+	바닷가/ncn
+
+쪽으로
+	쪽/ncn+으로/jca
+
+돌출된
+	돌출/ncpa+되/xsvn+ㄴ/etm
+
+머리에
+	머리/ncn+에/jca
+
+해당하는
+	해당/ncpa+하/xsva+는/etm
+
+지점에
+	지점/ncn+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+해상에서
+	해상/ncn+에서/jca
+
+접근하는
+	접근/ncpa+하/xsva+는/etm
+
+적의
+	적/nbn+의/jcm
+
+동태를
+	동태/ncn+를/jco
+
+살피는데
+	살피/pvg+ㄴ데/ecs
+
+아주
+	아주/mag
+
+좋은
+	좋/paa+은/etm
+
+위치에
+	위치/ncn+에/jca
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+별도연대
+	별도/ncn+연대/ncn
+
+위에서
+	위/ncn+에서/jca
+
+바라다
+	바라/pvg+아/ecx
+
+보는
+	보/px+는/etm
+
+서쪽
+	서쪽/ncn
+
+풍경이다
+	풍경/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+역광이라
+	역광/ncn+이/jp+라/ecs
+
+아쉽긴
+	아쉽긴/ncn
+
+하지만
+	하/pvg+지만/ecs
+
+별도봉과
+	별도/ncn+봉/ncn+과/jcj
+
+사라봉이
+	사라봉/ncn+이/jcc
+
+눈에
+	눈/ncn+에/jca
+
+들오는
+	들/pvg+오/ef+는/etm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+사진을
+	사진/ncn+을/jco
+
+담을땐
+	담을땐/ncn
+
+선명하게
+	선명/ncps+하/xsms+게/ecs
+
+보였던
+	보이/pvg+었/ep+던/etm
+
+신령스러운
+	신령/ncpa+스럽/xsmn+은/etm
+
+산,
+	산/ncn+,/sp
+
+
+한라산이
+	한라/ncn+산/ncn+이/jcc
+
+사진을
+	사진/ncn+을/jco
+
+담고
+	담/pvg+고/ecc
+
+보니
+	보/px+니/ecs
+
+역광이라
+	역광/ncn+이/jp+라/ecs
+
+사라졌네요
+	사라지/pvg+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+적을
+	적/nbn+을/jco
+
+침입을
+	침입/ncpa+을/jco
+
+알리는
+	알리/pvg+는/etm
+
+역활을
+	역활/ncn+을/jco
+
+담당했던
+	담당/ncpa+하/xsva+었/ep+던/etm
+
+
+별도연대를
+	별도/ncn+연대/ncn+를/jco
+
+살펴보고
+	살피/pvg+어/ecx+보/px+고/ecc
+
+바닷가에
+	바닷가/ncn+에/jca
+
+축조된
+	축조/ncpa+되/xsvn+ㄴ/etm
+
+성,
+	성/ncn+,/sp
+
+환해장성을
+	환해/ncn+장성/ncn+을/jco
+
+살펴보기
+	살피/pvg+어/ecx+보/px+기/etn
+
+위해
+	위하/pvg+어/ecs
+
+
+이동을
+	이/nnc+동/nbu+을/jco
+
+하며
+	하/pvg+며/ecc
+
+별도연대
+	별도/ncn+연대/ncn
+
+모습을
+	모습/ncn+을/jco
+
+다시
+	다시/mag
+
+담았다
+	담/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+별도환해장성
+	별도/ncn+환해/ncn+장성/ncn
+
+너머로
+	너머/ncn+로/jca
+
+지는
+	지/px+는/etm
+
+햇살을
+	햇살/ncn+을/jco
+
+받는
+	받/pvg+는/etm
+
+
+제주시
+	제주/ncn+시/ncn
+
+삼양동
+	삼양동/ncn
+
+원당봉
+	원/nbu+당/xsnu+봉/nbu
+
+모습이
+	모습/ncn+이/jcc
+
+손에
+	손/ncn+에/jca
+
+잡힐듯이
+	잡히/pvg+ㄹ/etm+듯/nbs+이/jcc
+
+아주
+	아주/mag
+
+가깝게
+	가깝/paa+게/ecs
+
+다가오는
+	다가오/pvg+는/etm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+별도
+	별/ncn+도/jxc
+
+환해장성은
+	환해/ncn+장성/ncn+은/jxc
+
+배를
+	배/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+들어오는
+	들어오/pvg+는/etm
+
+
+외적의
+	외적/ncn+의/jcm
+
+침입을
+	침입/ncpa+을/jco
+
+막기
+	막/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+해안선을
+	해안선/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+축조한
+	축조/ncpa+하/xsva+ㄴ/etm
+
+성이다
+	성/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+안벽과
+	안벽/ncn+과/jcj
+
+바깥벽을
+	바깥/ncn+벽/ncn+을/jco
+
+갖춘
+	갖추/pvg+ㄴ/etm
+
+2층
+	2/nnc+층/nbu
+
+성으로
+	성/ncn+으로/jca
+
+주변의
+	주변/ncn+의/jcm
+
+크고
+	크/paa+어/ef+고/jcr
+
+작은
+	작/paa+은/etm
+
+돌을
+	돌/pvg+ㄹ/etm
+
+이용하여
+	이용/ncpa+하/xsva+어/ecx
+
+성벽을
+	성벽/ncn+을/jco
+
+쌓았다
+	쌓/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+그럼
+	그렇/pad+ㅁ/etn
+
+환해장성은
+	환해/ncn+장성/ncn+은/jxc
+
+언제
+	언제/npd
+
+무슨
+	무슨/mmd
+
+이유로
+	이유/ncn+로/jca
+
+축조
+	축조/ncpa
+
+되었을까
+	되/pvg+었/ep+을까/ef
+
+?
+	?/sf
+
+
+환해장성의
+	환해/ncn+장성/ncn+의/jcm
+
+축조시기에
+	축조/ncpa+이/jp+시/ep+기/etn+에/jca
+
+대해서는
+	대/pvg+어/ecx+하/px+어서/ecs+는/jxc
+
+논란이
+	논란/ncpa+이/jcc
+
+있으나
+	있/px+으나/ecs
+
+분명한
+	분명/ncps+하/xsms+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+여몽
+	여몽/ncn
+
+연합군에
+	연합군/ncn+에/jca
+
+반기를
+	반기/ncn+를/jco
+
+든
+	들/pvg+ㄴ/etm
+
+
+삼별초
+	삼별초/ncn
+
+군사와
+	군사/ncn+와/jcj
+
+관련이
+	관련/ncn+이/jcc
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+전란
+	전란/ncn
+
+중에
+	중/nbn+에/jca
+
+전투적인
+	전투/ncpa+적/ncn+이/jp+ㄴ/etm
+
+목적으로
+	목적/ncn+으로/jca
+
+고려
+	고려/ncpa
+
+군사들에
+	군사/ncn+들/ncn+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+축조된
+	축조/ncpa+되/xsvn+ㄴ/etm
+
+성이라는
+	성/ncn+이/jp+라/ef+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+환해장성이
+	환해/ncn+장성/ncn+이/jcc
+
+축조
+	축조/ncpa
+
+형태는
+	형태/ncn+는/jxc
+
+허튼층쌓기로
+	허튼층쌓기/ncn+로/jca
+
+내.외벽은
+	내/ncn+./sy+외벽/ncn+은/jxc
+
+
+잡석을
+	잡석/ncn+을/jco
+
+이용하여
+	이용/ncpa+하/xsva+어/ecx
+
+축조되었으며,
+	축조/ncpa+되/xsvn+었/ep+으며/ecc+,/sp
+
+내부는
+	내부/ncn+는/jxc
+
+잡석으로
+	잡석/ncn+으로/jca
+
+채워져
+	채우/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+성의
+	성/ncn+의/jcm
+
+안쪽에는
+	알/pvg+ㄴ/etm+쪽/nbn+에/jca+는/jxc
+
+말을
+	말/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+달리거나
+	달리/pvg+거나/ecc
+
+도보를
+	도보/ncpa+를/jco
+
+이용하여
+	이용/ncpa+하/xsva+어/ecx
+
+군사들이
+	군사/ncn+들/ncn+이/jcc
+
+쉽게
+	쉽/paa+게/ecs
+
+이동할
+	이동/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+별도
+	별/ncn+도/jxc
+
+환해장성
+	환해/ncn+장성/ncn
+
+바닷가에서
+	바닷가/ncn+에서/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+제주시
+	제주/ncn+시/ncn
+
+삼양동
+	삼양동/ncn
+
+전경이다
+	전경/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+짙푸른
+	짙푸르/paa+ㄴ/etm
+
+바닷물빛이
+	바닷물/ncn+빛/ncn+이/jcc
+
+가슴을
+	가슴/ncn+을/jco
+
+뻥
+	뻥/ncn
+
+뚫리게
+	뚫리/pvg+게/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+정말
+	정말/mag
+
+속이
+	속/ncn+이/jcc
+
+후련하다
+	후련/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+짙푸른
+	짙푸르/paa+ㄴ/etm
+
+바다
+	바/nbn+이/jp+다/ef
+
+수평선에는
+	수평선/ncn+에/jca+는/jxc
+
+제주와
+	제주/ncn+와/jcj
+
+
+다른
+	다른/mma
+
+지방으로
+	지방/ncn+으로/jca
+
+오고가는
+	오/pvg+고/ecx+가/px+는/etm
+
+배들이
+	배/ncn+들/xsncc+이/jcc
+
+그림처럼
+	그리/pvg+ㅁ/etn+처럼/jca
+
+펼쳐지고
+	펼치/pvg+어/ecx+지/px+고/ecc
+
+...
+	.../se
+
+
+제주시
+	제주/ncn+시/ncn
+
+화북동
+	화북동/ncn
+
+바닷가에
+	바닷가/ncn+에/jca
+
+축조한
+	축조/ncpa+한/ncn
+
+
+별도
+	별/ncn+도/jxc
+
+환해장성은
+	환해/ncn+장성/ncn+은/jxc
+
+아직도
+	아직/mag+도/jxc
+
+원형
+	원형/ncn
+
+그대로
+	그대로/mag
+
+잘
+	잘/mag
+
+보존
+	보존/ncpa
+
+.
+	./sf
+
+
+보호
+	보호/ncpa
+
+관리되고
+	관리/ncpa+되/xsvn+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+가까이
+	가까이/mag
+
+다가가
+	다가가/pvg+아/ecx
+
+살펴보니
+	살피/pvg+어/ecx+보/px+니/ecs
+
+돌에
+	돌/ncn+에/jca
+
+이끼가
+	이/nnc+끼/nbu+가/jcc
+
+낄
+	끼/pvg+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+축조
+	축조/ncpa
+
+당시
+	당시/ncn
+
+원형을
+	원형/ncn+을/jco
+
+고스란히
+	고스란히/mag
+
+유지하고
+	유지/ncn+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+환해장성은
+	환해/ncn+장성/ncn+은/jxc
+
+제주지역
+	제주지역/ncn
+
+전역에
+	전역/ncn+에/jca
+
+분포하지만
+	분포/ncpa+하/xsva+지만/ecs
+
+
+비교적
+	비교/ncpa+적/ncn
+
+원형을
+	원형/ncn+을/jco
+
+잘
+	잘/mag
+
+보존된
+	보존/ncpa+되/xsvn+ㄴ/etm
+
+지역은
+	지역/ncn+은/jxc
+
+한림읍,
+	한림읍,/ncn
+
+애월읍,
+	애월읍,/ncn
+
+성산읍,
+	성산/ncn+읍/ncn+,/sp
+
+구좌읍,
+	구좌/ncn+읍/ncn+,/sp
+
+조천읍
+	조천읍/ncn
+
+등이다
+	등/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+설을
+	설/ncn+을/jco
+
+전후하여
+	전후/ncpa+하/xsva+어/ecx
+
+거세게
+	거세/paa+게/ecs
+
+몰아치던
+	몰아치/pvg+던/etm
+
+눈보라가
+	눈보라/ncn+가/jcs
+
+그치고
+	그치/pvg+고/ecc
+
+
+따스한
+	따스/ncps+하/xsms+ㄴ/etm
+
+겨울
+	겨울/ncn
+
+햇살이
+	햇살/ncn+이/jcc
+
+얄미울
+	얄밉/paa+을/etm
+
+정도로
+	정도/ncn+로/jca
+
+좋은
+	좋/paa+은/etm
+
+날,
+	날/ncn+,/sp
+
+제주시
+	제주/ncn+시/ncn
+
+봉개동
+	봉개동/ncn
+
+봉아오름,
+	봉아오름,/ncn
+
+거로
+	거/ncn+로/jca
+
+능동산
+	능동/ncn+산/ncn
+
+방묘,
+	방묘/ncn+,/sp
+
+
+화북
+	화북/ncn
+
+별도연대,
+	별도/ncn+연대/ncn+,/sp
+
+환해장성을
+	환해/ncn+장성/ncn+을/jco
+
+둘러보고
+	두르/pvg+어/ecx+보/px+고/ecc
+
+가벼운
+	가볍/paa+은/etm
+
+발길을
+	발길/ncn+을/jco
+
+집으로
+	집/ncn+으로/jca
+
+돌린다
+	돌리/pvg+ㄴ다/ef
+
+.
+	./sf

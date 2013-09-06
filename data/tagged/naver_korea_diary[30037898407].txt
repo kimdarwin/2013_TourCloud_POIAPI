@@ -1,0 +1,686 @@
+영종도
+	영종/ncn+도/jxc
+
+드라이브코스vs
+	드라이브코스vs/ncn
+
+북악
+	북악/ncn
+
+스카이웨이
+	스카이/ncn+웨이/ncn
+
+
+영종도
+	영종/ncn+도/jxc
+
+드라이브코스
+	드라이브코스/ncn
+
+
+서울에서
+	서울/ncn+에서/jca
+
+1시간
+	1/nnc+시간/nbu
+
+정도면
+	정도/ncn+이/jp+면/ecs
+
+닿을
+	닿/pvg+을/etm
+
+가까운
+	가깝/paa+은/etm
+
+곳에
+	곳/nbn+에/jca
+
+맘
+	말/px+ㅁ/etn
+
+속까지
+	속/ncn+까지/jxc
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+달릴
+	달리/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+드라이브
+	드라이브/ncpa
+
+코스가
+	코스/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+영종도로
+	영종도/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+인천국제공항
+	인천국제공항/ncn
+
+고속도로
+	고속도로/ncn
+
+.
+	./sf
+
+
+영종대교
+	영종대교/ncn
+
+드라이브길은
+	드라이브/ncpa+길/ncn+은/jxc
+
+언제가도
+	언제/npd+가/jcs+도/jxc
+
+밀리는
+	밀/pvg+ㄹ/etm+리/nbn+는/jxc
+
+일이
+	일/ncn+이/jcc
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+하늘과
+	하늘/ncn+과/jcj
+
+바다가
+	바다/ncn+가/jcs
+
+맞닿은
+	맞닿/pvg+은/etm
+
+곳에
+	곳/nbn+에/jca
+
+탁트인
+	탁트이/pvg+ㄴ/etm
+
+8차선의
+	8/nnc+차선/nbu+의/jcm
+
+넓은
+	넓/paa+은/etm
+
+도로가
+	도로/ncn+가/jcs
+
+곧게
+	곧/paa+게/ecs
+
+쭉
+	쭉/mag
+
+뻗어
+	뻗/pvg+어/ecx
+
+있으므로
+	있/paa+으므로/ecs
+
+
+차안에서
+	차안/ncn+에서/jca
+
+음악의
+	음악/ncn+의/jcm
+
+볼륨을
+	볼륨/ncn+을/jco
+
+올리고
+	올리/pvg+고/ecc
+
+속도를
+	속도/ncn+를/jco
+
+내어
+	내/pvg+어/ecx
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+달려
+	달리/pvg+어/ecx
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+인천국제공항고속도로는
+	인천국제공항/ncn+고속도로/ncn+는/jxc
+
+강변북로
+	강변북로/ncn
+
+북로분기점(JCT),
+	북로분기점(JCT),/ncn
+
+올림픽도로
+	올림픽/ncn+도/ncn+로/jca
+
+88JCT,
+	88JCT,/ncn
+
+서울외곽순환도로
+	서울외곽순환도/ncn+로/jca
+
+노오지JCT,
+	노오지JCT/ncn+,/sp
+
+
+북인천
+	북인천/ncn
+
+IC
+	IC/f
+
+등으로
+	등/nbu+으로/jca
+
+쉽게
+	쉽/paa+게/ecs
+
+갈
+	가/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+영종대교
+	영종대교/ncn
+
+드라이브는
+	드라이브/ncpa+는/jxc
+
+밤에
+	밤/ncn+에/jca
+
+가면
+	가/px+면/ecs
+
+더
+	더/mag
+
+멋이
+	멋/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+곧게
+	곧/paa+게/ecs
+
+뻗은
+	뻗/pvg+은/etm
+
+도로
+	도/ncn+로/jca
+
+위로
+	위/ncn+로/jca
+
+점점히
+	점점히/ncn
+
+박힌
+	박히/pvg+ㄴ/etm
+
+가로등
+	가로등/ncn
+
+불빛과
+	불빛/ncn+과/jcj
+
+주탑
+	주탑/ncn
+
+조명,
+	조/nnc+명/nbu+,/sp
+
+주탑을
+	주탑/ncn+을/jco
+
+연결하는
+	연결/ncpa+하/xsva+는/etm
+
+3차원
+	3차원/ncn
+
+케이블
+	케이블/ncn
+
+곡선의
+	곡선/ncn+의/jcm
+
+조명
+	조/nnc+명/nbu
+
+빛은
+	빛/ncn+은/jxc
+
+가히
+	가히/mag
+
+환상적이다
+	환상/ncn+적/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+주탑의
+	주탑/ncn+의/jcm
+
+조명은
+	조/nnc+명/nbu+은/jxc
+
+계절별로
+	계절/ncn+별/ncn+로/jca
+
+봄
+	보/px+ㅁ/etn
+
+Green,
+	Green/f+,/sp
+
+여름
+	여름/ncn
+
+White,
+	White/f+,/sp
+
+가을
+	가/px+ㄹ/etm
+
+Yellow,
+	Yellow/f+,/sp
+
+겨울
+	겨울/ncn
+
+Red
+	Red/f
+
+등
+	등/nbu
+
+색상을
+	색상/ncn+을/jco
+
+달리한다
+	달리하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+관광
+	관광/ncpa
+
+db
+	db/f
+
+자세히
+	자세히/mag
+
+보기
+	보기/ncn
+
+
+북악
+	북악/ncn
+
+스카이웨이
+	스카이/ncn+웨이/ncn
+
+
+1968년
+	1968/nnc+년/nbu
+
+9월에
+	9/nnc+월/nbu+에/jca
+
+개통된
+	개통/ncpa+되/xsvn+ㄴ/etm
+
+북악
+	북악/ncn
+
+스카이웨이는
+	스카이/ncn+웨/ncn+이/jp+는/etm
+
+서울의
+	서울/ncn+의/jcm
+
+주산인
+	주산/ncpa+이/jp+ㄴ/etm
+
+북악산의
+	북악산/ncn+의/jcm
+
+능선을
+	능선/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+동북으로
+	동북/ncn+으로/jca
+
+뻗친
+	뻗치/pvg+ㄴ/etm
+
+관광도로로
+	관광/ncpa+도로/ncn+로/jca
+
+
+길이가
+	길이/ncn+가/jcs
+
+약
+	약/ncn
+
+19km에
+	19km/ncn+에/jca
+
+이른다
+	이르/paa+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+길을
+	길/ncn+을/jco
+
+따라가면
+	따르/pvg+아/ecx+가/px+면/ecs
+
+한쪽은
+	하/pvg+ㄴ/etm+쪽/nbn+은/jxc
+
+북한산
+	북한산/ncn
+
+비봉과
+	비/xp+봉/ncn+과/jcj
+
+문수봉이
+	문수봉/ncn+이/jcc
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+산세가
+	산세/ncn+가/jcs
+
+장관을
+	장관/ncr+을/jco
+
+이루고,
+	이루/pvg+고/ecc+,/sp
+
+
+또
+	또/maj
+
+한쪽은
+	하/pvg+ㄴ/etm+쪽/nbn+은/jxc
+
+남산을
+	남산/ncn+을/jco
+
+바라보고
+	바라/pvg+아/ecx+보/px+고/ecc
+
+앉은
+	앉/pvg+은/etm
+
+서울시의
+	서울시/ncn+의/jcm
+
+경관이
+	경관/ncn+이/jcc
+
+아름답기
+	아름답/paa+기/etn
+
+그지없다
+	그지없/paa+다/ef
+
+.
+	./sf
+
+
+서울
+	서울/ncn
+
+시내
+	시내/ncn
+
+야경(사진
+	야경(사진/ncn
+
+:
+	:/sp
+
+www.
+	www/f+./sy
+
+kurapa.
+	kurapa/f+./sy
+
+com)
+	com/f+)/sr
+
+
+전
+	전/nbn
+
+구간에
+	구간/ncn+에/jca
+
+걸쳐
+	걸치/pvg+어/ecx
+
+잘
+	잘/mag
+
+가꾸어진
+	가꾸/pvg+어/ecx+지/px+ㄴ/etm
+
+가로수와
+	가로수/ncn+와/jcj
+
+관상수들이
+	관상수/ncn+들/ncn+이/jcc
+
+철따라
+	철/ncn+따라/jxc
+
+꽃을
+	꽃/ncn+을/jco
+
+피워내며
+	피우/pvg+어/ecx+내/px+며/ecc
+
+
+남산의
+	남산/ncn+의/jcm
+
+순환
+	순환/ncpa
+
+도로와
+	도로/ncn+와/jct
+
+함께
+	함께/mag
+
+서울을
+	서울/ncn+을/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+내려다보는
+	내려다보/pvg+는/etm
+
+진경을
+	진경/ncn+을/jco
+
+만끽할
+	만끽/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+적설기를
+	적설/ncn+기/ncn+를/jco
+
+제외하고는
+	제외/ncpa+하고/jct+는/jxc
+
+도로사정도
+	도로사정/ncn+도/jxc
+
+나무랄
+	나무라/pvg+ㄹ/etm
+
+데
+	데/nbn
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+굽어진
+	굽/pvg+어/ecx+지/px+ㄴ/etm
+
+도로마다
+	도/ncn+로/jca+마다/jxc
+
+반사경과
+	반사경/ncn+과/jcj
+
+180여개의
+	180/nnc+여/xsnu+개/nbu+의/jcm
+
+수은등이
+	수은등/ncn+이/jcc
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecs
+
+
+안전한
+	안전/ncps+하/xsms+ㄴ/etm
+
+드라이브를
+	드라이브/ncpa+를/jco
+
+뒷받침해,
+	뒷받침/ncpa+해/ncn+,/sp
+
+과속이나
+	과속/ncpa+이나/jcj
+
+차량에
+	차량/ncn+에/jca
+
+이상이
+	이상/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+한
+	한/nnc
+
+크게
+	크/paa+게/ecs
+
+염려하지
+	염려/ncpa+하/xsva+지/ecx
+
+않아도
+	않/px+아/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+관광
+	관광/ncpa
+
+db
+	db/f
+
+자세히
+	자세히/mag
+
+보기
+	보기/ncn

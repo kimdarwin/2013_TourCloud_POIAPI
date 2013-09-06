@@ -1,0 +1,125 @@
+Title:
+디즈니랜드 놀이기구 완전정복 2 
+
+Date:
+2008.09.23 05:56
+
+Content:
+
+
+	
+
+
+디즈니랜드
+
+북아메리카(북미) > 미국 > LA
+
+
+기간 2008.9.7~ 2008.9.7(1일)
+컨셉 아이들과 함께 가족여행
+	
+
+
+	
+
+
+
+	동영상으로 미리 체험하는 '디즈니랜드 놀이기구 완전정복' 시리즈 제2탄!
+(말을 타고있는 나폴레옹 그림이 표지에 있던 동아출판사의 완전정복 참고서가 떠오르신다면... 당신은 이미 30대 후반! ^^)
+쓸데없는 소리는 그만하고, 이번에도 가장 인기있는 LA 디즈니랜드 놀이기구 3개의 생생한 '탑승동영상'입니다.
+(놀이기구의 제목을 클릭하시면 디즈니랜드 홈페이지의 해당 놀이기구 소개페이지로 링크됨)
+
+스플래쉬마운틴 (Splash Mountain)
+
+
+
+{
+	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	var errorBean = {};
+	errorBean.code = -602;
+	errorBean.message = '이 단말에서 확인할 수 없는 동영상 형식입니다.';
+	errorBean.owner = 'false';
+	var flashVar = {};
+	var bean = {};
+	bean.layout = layout;
+	bean.errorBean = errorBean;
+	bean.flashVar = flashVar;
+	bean.player = 'oem';
+var ugcPlayer_06003 = new VideoInfraUGCPlayer('ugcPlayer_06003' ,bean); 
+ugcPlayer_06003.drawPlayLayerError(); 
+}
+
+
+보트를 타고 폭포(?) 꼭대기에서 떨어지는 사람들의 비명소리가멀리서도 들리는 놀이기구입니다.
+초반에는 물살도 세지않고 아기자기한 동물인형들의 춤과 노래만 구경하기 때문에 어른들은 시시해 할 수도 있습니다만,
+마지막에 폭포에서 떨어지는 경사나 속도는 제법 짜릿하고, 옷도 많이 젖을 수 있습니다. 떨어지는 순간에는
+사진도 찍혀서 출구 스크린에 차례로 나오니까, 사진을 사지 않더라도 스크린에 나온 모습을 다시 사진기로 찍으면 됩니다.
+보트에 한번에 6명밖에 못타고 탑승시간도 10분 정도로 길어서 대기하는 줄이 항상매우길기 때문에,
+이 놀이기구는 시간을 미리 예약하는 패스트패스(Fast Pass)를 이용하는 것을 꼭 추천해 드립니다.
+
+인디아나존스의모험 (Indiana Jones Adventure)
+
+
+
+{
+	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	var errorBean = {};
+	errorBean.code = -602;
+	errorBean.message = '이 단말에서 확인할 수 없는 동영상 형식입니다.';
+	errorBean.owner = 'false';
+	var flashVar = {};
+	var bean = {};
+	bean.layout = layout;
+	bean.errorBean = errorBean;
+	bean.flashVar = flashVar;
+	bean.player = 'oem';
+var ugcPlayer_09016 = new VideoInfraUGCPlayer('ugcPlayer_09016' ,bean); 
+ugcPlayer_09016.drawPlayLayerError(); 
+}
+
+
+이 놀이기구는 짚차를 타고, 인디아나존스와 함께 모험을 떠나는데, 실제 놀이기구를 타기 전까지 걸어가는 길도 볼거리가 많아서,
+진짜 영화의 한 장면처럼 정글속의 무시무시한 사원으로 들어가서 미로같은 동굴을 지나서 짚차에 탑승을 합니다.
+탑승전에는 인디아나존스 영화에 나온 배우가 직접 놀이기구에 대해 설명하는 짧은 영화도 보여줍니다.
+실제 탑승후에는 어두워서 화면이 잘 나오지는 않았지만, 유명한 주제가와 함께 존스박사도 3번 정도 등장을 합니다.
+마지막에 인디아나존스 영화 1탄 레이더스에서처럼 굴러오는 큰 바윗돌을 피하면서 모험이 끝납니다.
+인디아나존스 영화를 좋아하는 어른들에게 인기있는 디즈니랜드에서 대기시간이 가장 긴 놀이기구라고 할 수 있습니다.
+
+니모를찾아서 (Finding Nemo Submarine Voyage)
+
+
+
+{
+	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	var errorBean = {};
+	errorBean.code = -602;
+	errorBean.message = '이 단말에서 확인할 수 없는 동영상 형식입니다.';
+	errorBean.owner = 'false';
+	var flashVar = {};
+	var bean = {};
+	bean.layout = layout;
+	bean.errorBean = errorBean;
+	bean.flashVar = flashVar;
+	bean.player = 'oem';
+var ugcPlayer_03268 = new VideoInfraUGCPlayer('ugcPlayer_03268' ,bean); 
+ugcPlayer_03268.drawPlayLayerError(); 
+}
+
+
+실제로 노란 잠수함을 타고 물 속으로 들어가서 (완전히 잠수하지는 않음), 설명과 함께 물고기와 스쿠버등의 모형을 보다가,
+갑자기 만화영화 니모를찾아서의 이야기 속으로 들어갑니다. 좌석별로 마련된 동그란 창밖으로 실제 공기방울과 함께,
+영화에 나오는 장면의 모형과, 이 놀이기구를 위해 PIXAR에서 별도로 만든 영화장면들이 창밖의 스크린에 투사되어서,
+정말로 바닷속에서 니모와 친구들을 구경하는 것 같은 아주 생생한 느낌을 받습니다.
+탑승시간이 10분이 넘어서 약간 중간에 편집을 했고, 어두워서 화면이 아주 잘 나오지는 않았지만,
+어떤 놀이기구인지는 충분히 느끼실 수 있습니다. 특히, 어린이들에게 인기가 아주 많고 Fast Pass도 적용되지 않기 때문에,
+타려면 항상 30분 이상 기다려야 하지만, 아기가 있어서 무서운 놀이기구를 탈 수 없는 분들에게는 정말로 '강추'인 놀이기구입니다.
+	
+
+
+	

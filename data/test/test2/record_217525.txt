@@ -1,0 +1,41 @@
+Title:
+5/12 선자령 트레킹 후기
+
+Date:
+2012.05.13
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(148420,'files/attach/images/64/525/217/5969c296dbb22f326d4c77d000b309f1.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/243e61d27efd5fe3b17f73a95c66d78d.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/59e2ec78f5056389fa7d723cdfd919d8.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/f168e43ad0eaec63530b385dfc21fe5d.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/e3237c08945edbc80ec26fb8a46fbc4f.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/d5254250fc0444bad1de947f73e6b4be.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/78ad4600637805022ba3e19cdb597a26.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/76ae0836e78e5339e60fa9adb8f2d676.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/e71e1a38af91811569acb18f9c401d6a.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/8069cfe1a7d88125aa773be28f9f9c5a.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/34bbad0b6c1a9645b74d57d087adad28.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/2c042a3f218cf5825056d2870c912925.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/d227507f98e8480041b1be235bd80da7.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/ea4d9869a8fd6a8a89af4712c0c27f74.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/e1d9321beb32c0ac9f4864cf56b9937d.jpg');
+list_gallery_add_image(148420,'files/attach/images/64/525/217/2444185a3cd4fadcda657ea6b21e0ec7.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+5월 12일(토), 아름다운 여행으로 선자령에 다녀왔습니다.
+선자령을 출발하는 이른 아침의 서울은 잔뜩 흐린 날씨였으나, 걷기의 출발점인 구 대관령 휴게소에 도착했을 땐 다행히도 맑은 하늘을 볼 수 있었습니다.
+대관령은 기온이 좀 낮은 듯 하더군요. 임도 길을 걷는 동안은 그늘이 거의 없어 햇살은 따가웠지만 기분 좋게 불어오는 시원한 바람에 큰 더위를 느낄 새는 없었습니다.
+선자령은 아름다운 여행으로 4월부터 연속 3주간 찾아간 트레킹 코스인데, 갈 때마다 달라지는 모습을 보여주는 곳인 듯 합니다.
+하지만, 아쉽게도 이번 주 선자령의 야생화들은 새로운 큰 변화 없이 잠시 멈춤 상태인 듯 합니다.
+지난주까지 노란 하얀 보랏빛으로 수놓았던 동의나물, 얼레지, 홀애비바람꽃 등 많은 꽃들이 거의 끝물에 가까워져 이미 진 꽃들도 있고 여전히 예쁜 모습을 뽑내기도 하고 있습니다. 여기저기 산철쭉이 한창 피어나기도 하고 또 이미 져버린 것도 보이고 또 곧 피어나려고 봉우리를 예쁘게 틔우고 있는 모습도 찾아볼 수 있었습니다. 철쭉뿐 아니라, 여기저기 앞으로 새롭게 피어날 또 다른 야생화들의 봉우리들 또한 드문드문 찾아볼 수도 있더군요.
+하늘을 향해 삐쭉삐쭉 솟은 나뭇잎들은 이제 아기손바닥 크기 만큼씩 자라났습니다. 연둣빛이 좀더 짙어져 가는 것 같기도 하구요. 
+선자령의 봄은 여전히 느림입니다.
+한참 오르막을 올라 전망대에 다다르니 맑게 트인 전망은 아니지만, 흐릿하게 보이는 산자락의 풍경마저 가슴속을 시원하게 해주는 기분입니다.
+정상 가까이 넓은 벌판에 왔을 즈음 항상 불어주는 어마어마한 선자령의 거센 바람이 오늘은 신기하게도 잔잔하기만 하네요. 그저 가끔씩 더위를 식히기 좋을 만큼의 찬 냉풍바람만이 불 뿐이었습니다. 덕분에 그다지 덥지도 춥지도 않은 기분 좋은 트레킹이 되었습니다.
+선자령 정상을 지나 하산하는 길로 숲길에 접어드니 고요하고 푸른 숲 속에 흐르는 계곡 물소리와 맑고 예쁜 새들의 지저귐만이 함께 합니다.
+그래도 이번 선자령 숲길에서는 트레킹 하는 단체들을 여럿 만난 듯 하네요. 이제 서서히 선자령 트레킹 코스도 많은 사람들에게 알려지기 시작하는 모양입니다.
+선자령 길을 걷는 동안은 푸른 풍경과 물소리, 새소리를 들으며 걷는 내내 몸과 마음이 깨끗하게 씻겨지는 기분입니다. 야생화가 기대했던 것 보다 좀 덜 피어있던 게 조금 아쉽긴 했지만, 호젓하고 푸르른 풍경이 맘을 한없이 시원하고 가볍게 해주는 트레킹이 아니었나 싶습니다.
+다음 선자령은 또 어떤 모습으로 변해 있을지 벌써부터 궁금해지네요.
+이번 선자령 트레킹에 참여하신 모든 분들, 일요일 하루 잘 쉬시고 새로운 한 주도 활기차고 건강하게 지내시길 바라겠습니다~이 게시물을...

@@ -1,0 +1,29 @@
+Title:
+9/8 연곡 소금강 트레킹 후기
+
+Date:
+2012.09.08
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(340686,'files/attach/images/64/366/264/ea99eea9ce04c930f63747d1246f88cb.jpg');
+list_gallery_add_image(340686,'files/attach/images/64/366/264/65557d2d40bafcf7fb80b1c3c195a4c7.jpg');
+list_gallery_add_image(340686,'files/attach/images/64/366/264/c2d4e08cf179204b8011aa4c4eea5e1b.jpg');
+list_gallery_add_image(340686,'files/attach/images/64/366/264/37e23d436c739bb8654aad63263dd24c.jpg');
+list_gallery_add_image(340686,'files/attach/images/64/366/264/b8ad26fb6dc266697ff7493d63e6ca4f.jpg');
+list_gallery_add_image(340686,'files/attach/images/64/366/264/93852d145569aa7d69cfea1b5ab6d0d9.jpg');
+list_gallery_add_image(340686,'files/attach/images/64/366/264/ada7bf3a3a198b92605b2bb4e047b7dc.jpg');
+list_gallery_add_image(340686,'files/attach/images/64/366/264/eb9e3b36b6ad547dc6a47eef936cd37d.jpg');
+list_gallery_add_image(340686,'files/attach/images/64/366/264/2da41749abafbf17553bdbf40f687777.jpg');
+list_gallery_add_image(340686,'files/attach/images/64/366/264/f8c2b0d37dce37824bffff8edd463d39.jpg');
+list_gallery_add_image(340686,'files/attach/images/64/366/264/53e039e248f8a6da6d53c59520cb1804.jpg');
+list_gallery_add_image(340686,'files/attach/images/64/366/264/05e8d7b0ffc3d21c4c4e286529543b86.jpg');
+list_gallery_add_image(340686,'files/attach/images/64/366/264/e93b769668cbcd30564b63819ac69547.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+9월 8일(토), 아름다운 여행으로 연곡 소금강 트레킹을 다녀왔습니다. 연곡 소금강은 보통 오대산 소금강이라 부르기도 합니다. 오대산 노인봉에서 동쪽으로 흘러내리는 계곡이기 때문입니다. 계곡이 워낙 골이 깊고 바위가 많아 곳곳에 멋진 풍경을 품고 있는 계곡입니다. 저는 개인적으로 이 소금강계곡이 우리나라에서 다섯손가락 안에 꼽히는 멋진 계곡이 아닌가 생각합니다.
+이 날 여행은 며칠 전부터 날씨가 꽤 속을 썩였습니다. 기상청의 비 예보가 있었는데 예보가 계속 오락가락하는 통에 여행의 진행 여부를 판단하기가 아주 어려웠습니다. 여행 전날 밤에도 서울에 비가 억수같이 쏟아져 가슴을 졸이게 만들더군요.
+하지만 다행히 여행중에 날씨로 인한 큰 불편은 없었습니다. 가끔 가는 비가 조금씩 내렸지만 계곡 트레킹을 즐기기에 불편할 정도는 아니었습니다. 오히려 전날 내린 비로 계곡물이 불어나 아주 힘찬 계곡을 볼 수 있었습니다. 제가 이제까지 보았던 소금강계곡 중 이번 여행에서 본 계곡이 가장 힘차고 우렁찼던 것 같습니다. 특히 힘차게 쏟아져내리는 구룡폭포의 풍경이 압권이었습니다. 이번 여행에서는 구룡폭포까지 왕복으로 걸었습니다. 거리도 왕복 6km로 그리 길지 않고 험하거나 힘든 구간도 없어 비교적 쉬운 코스였습니다. 
+소금강 트레킹을 마치고 하조대로 이동해 시원한 바다 풍경을 즐기는 것으로 여행을 마무리했습니다. 하조대는 정자와 등대에서 바라보는 해변 풍경이 아름다운 곳이죠. 하조대에 도착했을 때 다시 날이 흐려져 파란 하늘과 바다를 보지는 못했지만 그래도 동해의 시원한 풍경은 충분히 느낄 수 있었습니다. 
+이번 여행에 참여하신 분들 모두 휴일에 여행의 피로 잘 푸시고 활기차게 한 주를 맞으시기 바랍니다~
+이 게시물을...

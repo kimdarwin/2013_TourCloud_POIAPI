@@ -1,0 +1,1108 @@
+i
+	i/f
+
+love
+	love/f
+
+you.
+	you/f+./sy
+
+.
+	./sf
+
+
+아름다운
+	아름답/paa+은/etm
+
+영상의슬픈이야기
+	영상의슬픈이야/ncn+이/jp+기/etn
+
+..
+	./sf+./sf
+
+
+포지션
+	포지션/ncn
+
+~
+	~/sd
+
+i
+	i/f
+
+love
+	love/f
+
+you
+	you/f
+
+(뮤직비디오)
+	(/sl+뮤직비디오/ncn+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc24/2011/01/19/1610/03100223D18953AE00C3F941131684C3708_ya3542_logo.
+	net/blogucc24/2011/01/19/1610/03100223D18953AE00C3F941131684C3708_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'532.
+	'/sr+532./nnc
+
+899';
+	899/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'987F808B0B4A554AAFC946CFCB5B2E0C61AB';
+	'987F808B0B4A554AAFC946CFCB5B2E0C61AB/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12741d21940ea679f46881e760f310062bc7952d5e3ffd648ba1dac0d71f121ff7da81e760f310062bc7';
+	'V12741d21940ea679f46881e760f310062bc7952d5e3ffd648ba1dac0d71f121ff7da81e760f310062bc7/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_04970
+	ugcPlayer_04970/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_04970'
+	VideoInfraUGCPlayer('ugcPlayer_04970'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_04970
+	ugcPlayer_04970/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+일본
+	일/nnc+본/nbu
+
+여가수가
+	여가수/ncn+가/jcs
+
+부른
+	부르/pvg+ㄴ/etm
+
+'포지션'
+	'/sr+포지션/ncn+'/sr
+
+~i
+	~/sd+i/f
+
+love
+	love/f
+
+you
+	you/f
+
+..
+	./sf+./sf
+
+
+(듣기)
+	(/sl+듣기/ncn+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc24/2011/01/19/1244/03100223D18953AE01C33951538582F3442_ya3542_logo.
+	net/blogucc24/2011/01/19/1244/03100223D18953AE01C33951538582F3442_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'283.
+	'/sr+283./nnc
+
+79';
+	79/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'99AA49C70850BFC6302C7F0CCCD89C1657BB';
+	'99AA49C70850BFC6302C7F0CCCD89C1657BB/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V125530e30bade9da9fe8b5a49e07bf3d685e6e7fb98ea0bdd02dc41c152c91144212b5a49e07bf3d685e';
+	'V125530e30bade9da9fe8b5a49e07bf3d685e6e7fb98ea0bdd02dc41c152c91144212b5a49e07bf3d685e/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_04107
+	ugcPlayer_04107/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_04107'
+	VideoInfraUGCPlayer('ugcPlayer_04107'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_04107
+	ugcPlayer_04107/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+포지션
+	포지션/ncn
+
+~
+	~/sd
+
+i
+	i/f
+
+love
+	love/f
+
+you
+	you/f
+
+(가사)
+	(/sl+가사/ncn+)/sr
+
+
+I
+	I/f
+
+Love
+	Love/f
+
+You
+	You/f
+
+사랑한다는
+	사랑/ncpa+하/xsva+ㄴ다/ef+는/etm
+
+이
+	이/mmd
+
+말
+	말/px+ㄹ/etm
+
+밖에는
+	밖/ncn+에/jca+는/jxc
+
+해줄
+	하/pvg+어/ecx+주/px+ㄹ/etm
+
+말이
+	말/ncn+이/jcc
+
+없네요I
+	없네요I/ncn
+
+Love
+	Love/f
+
+You
+	You/f
+
+의미없는
+	의미/ncpa+없/xsmn+는/etm
+
+말이
+	말/ncn+이/jcc
+
+되었지만
+	되/pvg+었/ep+지만/ecs
+
+사랑해요이제와서
+	사랑해요이제와서/ncn
+
+무슨
+	무슨/mmd
+
+소용
+	소용/ncn
+
+있겠어요
+	있/px+겠/ep+어/ef+요/jxf
+
+다신
+	달/paa+시/ep+ㄴ/etm
+
+볼
+	보/pvg+ㄹ/etm
+
+순
+	순/ncn
+
+없는
+	없/paa+는/etm
+
+이별인데돌이킬
+	이별인데돌이킬/ncn
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+잘
+	잘/mag
+
+알고
+	알/pvg+고/ecx
+
+있지만
+	있/px+지만/ecs
+
+어떻게든
+	어떻/pad+게/ecs+든/jxc
+
+그댈
+	그댈/ncn
+
+잡아두고
+	잡/pvg+어/ecx+두/px+고/ecc
+
+싶은걸
+	싶은걸/ncn
+
+..
+	./sf+./sf
+
+
+우~
+	우/ncn+~/sd
+
+
+이
+	이/mmd
+
+세상
+	세상/ncn
+
+아니라도
+	아니/paa+라/ecs+도/jxc
+
+언젠가
+	언젠가/mag
+
+우리
+	우리/npp
+
+다시
+	다시/mag
+
+만날텐데
+	만나/pvg+ㄹ텐데/ecs
+
+눈물
+	눈물/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+방울도
+	방울/ncn+도/jxc
+
+보여선
+	보이/pvg+어서/ep+ㄴ/etm
+
+안되겠죠사랑에
+	안되겠죠사랑/ncn+에/jca
+
+빠지게
+	빠지/pvg+게/ecs
+
+만들었던
+	만들/pvg+었/ep+던/etm
+
+미소로
+	미소/ncn+로/jca
+
+날
+	나/px+ㄹ/etm
+
+떠나요그
+	떠나요그/ncn
+
+미소
+	미소/ncn
+
+하나로
+	하나/nnc+로/jca
+
+언제라도
+	언제/npd+라도/jxc
+
+그대를
+	그대/npp+를/jco
+
+찾아낼
+	찾/pvg+아/ecx+내/px+ㄹ/etm
+
+수
+	수/nbn
+
+있게I
+	있게I/ncn
+
+Love
+	Love/f
+
+You
+	You/f
+
+기억하나요
+	기억/ncpa+하/xsva+어/ecx+나/px+아/ef+요/jxf
+
+처음
+	처음/mag
+
+그대에게
+	그대/npp+에게/jca
+
+느낀
+	느끼/pvg+ㄴ/etm
+
+그
+	그/mmd
+
+떨림I
+	떨림I/ncn
+
+Love
+	Love/f
+
+You
+	You/f
+
+오래
+	오래/mag
+
+후에서야
+	후/ncn+에/jca+서야/jxc
+
+내게
+	내/npp+게/jca
+
+해준
+	하/pvg+어/ecx+주/px+ㄴ/etm
+
+그대
+	그대/npp
+
+한
+	하/pvg+ㄴ/etm
+
+마디우리
+	마디/ncn+우리/ncn
+
+사랑
+	사랑/ncn
+
+안
+	알/pvg+ㄴ/etm
+
+될거라
+	되/pvg+ㄹ/etm+것/nbn+이/jp+라/ecs
+
+생각했죠
+	생각/ncpa+하/xsva+었/ep+죠/ef
+
+너무나도
+	너무나/mag+도/jxc
+
+아름다웠기에돌아서려
+	아름다웠기에돌아서려/ncn
+
+했었던
+	하/px+었었/ep+던/etm
+
+내
+	내/npp
+
+앞에
+	앞/ncn+에/jca
+
+그대는
+	그대/npp+는/jxc
+
+꿈만
+	꿈/ncn+만/jxc
+
+같은
+	같/paa+은/etm
+
+사랑으로
+	사랑/ncn+으로/jca
+
+다가왔었죠
+	다가오/pvg+아/ep+죠/ef
+
+..
+	./sf+./sf
+
+
+후이세상
+	후이세상/ncn
+
+아니라도
+	아니/paa+라/ecs+도/jxc
+
+언젠가
+	언젠가/mag
+
+우리
+	우리/npp
+
+다시
+	다시/mag
+
+만날텐데눈물
+	만날텐데눈물/ncn
+
+한방울도
+	한/nnc+방울/nbu+도/jxc
+
+보여선
+	보이/pvg+어서/ep+ㄴ/etm
+
+안되겟죠
+	안되겟죠/ncn
+
+사랑에
+	사랑/ncn+에/jca
+
+빠지게
+	빠지/pvg+게/ecs
+
+만들었던
+	만들/pvg+었/ep+던/etm
+
+미소로
+	미소/ncn+로/jca
+
+날
+	나/px+ㄹ/etm
+
+떠나요그
+	떠나요그/ncn
+
+미소
+	미소/ncn
+
+하나로
+	하나/nnc+로/jca
+
+언제라도
+	언제/npd+라도/jxc
+
+그대를
+	그대/npp+를/jco
+
+찾아낼
+	찾/pvg+아/ecx+내/px+ㄹ/etm
+
+수
+	수/nbn
+
+있게
+	있/paa+게/ecc
+
+
+언젠가
+	언젠가/mag
+
+우리
+	우리/npp
+
+다시
+	다시/mag
+
+만나면
+	만나/pvg+면/ecs
+
+약속하나만
+	약속/ncpa+하/xsva+어/ecx+나/px+아/ecx+말/px+ㄴ/etm
+
+해요이렇게
+	해요이렇/ncn+게/jca
+
+아프게
+	아프/paa+게/ecs
+
+너무
+	너무/mag
+
+쉽게
+	쉽/paa+게/ecs
+
+헤어질
+	헤어지/pvg+ㄹ/etm
+
+사랑하지
+	사랑/ncpa+하/xsva+지/ecx
+
+마요
+	마요/ncn
+
+
+포지션~
+	포지션/ncn+~/sd
+
+I
+	I/f
+
+Love
+	Love/f
+
+You
+	You/f

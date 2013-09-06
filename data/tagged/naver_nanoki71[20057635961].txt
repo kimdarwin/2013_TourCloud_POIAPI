@@ -1,0 +1,475 @@
+호텔
+	호텔/ncn
+
+아시스타
+	아시/ncn+스타/ncn
+
+아사가야(
+	아사가야(/ncn
+
+)
+	)/sr
+
+
+HOTEL
+	HOTEL/f
+
+AMISTA
+	AMISTA/f
+
+ASAGAYA
+	ASAGAYA/f
+
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+hotel-amista.
+	hotel/f+-/sd+amista/f+./sy
+
+co.
+	co/f+./sy
+
+jp/asagaya/index.
+	jp/f+//sp+asagaya/f+//sp+index/f+./sy
+
+html
+	html/f
+
+
+TEL
+	TEL/f
+
+03-3220-5711
+	03/nnc+-3220/nnc+-5711/nnc
+
+FAX
+	FAX/f
+
+03-3220-5713
+	03/nnc+-3220/nnc+-5713/nnc
+
+
+신주쿠의
+	신주쿠/ncn+의/jcm
+
+근교에
+	근교/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+호텔로,
+	호텔/ncn+로/jca+,/sp
+
+어쩔수없이
+	어쩌/paa+ㄹ/etm+수/nbn+없이/jca
+
+잘수밖에
+	자/pvg+ㄹ/etm+수/nbn+밖에/jxc
+
+없는
+	없/paa+는/etm
+
+...
+	.../se
+
+
+이호텔로
+	이호텔/ncn+로/jca
+
+지정만
+	지정/ncpa+만/jxc
+
+안되어있다면
+	안되/paa+어/ecx+있/px+다면/ecs
+
+..
+	./sf+./sf
+
+
+항공따로
+	항공따로/ncn
+
+호텔따로
+	호텔따/ncn+로/jca
+
+해서
+	하/pvg+어서/ecs
+
+
+위치좋은곳에
+	위치좋은곳/ncn+에/jca
+
+묵었을텐데
+	묵/pvg+었/ep+을텐데/ecs
+
+...
+	.../se
+
+
+싼게
+	싸/paa+ㄴ게/ecs
+
+비지떡이라
+	비지떡/ncn+이/jp+라/ecs
+
+어쩔수
+	어쩌/paa+ㄹ/etm+수/nbn
+
+없었다
+	없/paa+었/ep+다/ef
+
+...
+	.../se
+
+
+체크인
+	체크인/ncn
+
+15:00~22:00
+	15/nnc+:/sp+00/nnc+~/sd+22/nnc+:/sp+00/nnc
+
+/
+	//sp
+
+체크아웃
+	체크아웃/ncpa
+
+11:00
+	11/nnc+:/sp+00/nnc
+
+
+객실은
+	객실/ncn+은/jxc
+
+깔끔하게
+	깔끔/ncps+하/xsms+게/ecs
+
+..
+	./sf+./sf
+
+
+가구들이
+	가구/ncn+들/ncn+이/jcc
+
+깨끗한것이
+	깨끗/ncps+하/xsms+ㄴ/etm+것/nbn+이/jcc
+
+..
+	./sf+./sf
+
+
+음.
+	음/ncn+./sf
+
+...
+	.../se
+
+
+괜찮군
+	괜찮/paa+군/ef
+
+..
+	./sf+./sf
+
+
+아미스타
+	아미/ncn+스타/ncn
+
+아가가야의
+	아가가야/ncn+의/jcm
+
+가장
+	가장/mag
+
+좋았던점
+	좋았던점/ncn
+
+...
+	.../se
+
+
+바로
+	바로/mag
+
+저
+	저/mmd
+
+메모리폼
+	메모리/ncn+폼/ncn
+
+베게
+	베/pvg+게/ecs
+
+...
+	.../se
+
+
+난
+	나/px+ㄴ/etm
+
+딱딱하고
+	딱딱하/paa+어/ef+고/jcr
+
+높은
+	높/paa+은/etm
+
+베게는
+	베/pvg+게/ecs+는/jxc
+
+싫어하는데
+	싫/paa+어/ecx+하/px+ㄴ데/ecs
+
+...
+	.../se
+
+
+대부분의
+	대부분/ncn+의/jcm
+
+호텔의
+	호텔/ncn+의/jcm
+
+베게는
+	베/pvg+게/ecs+는/jxc
+
+나한테
+	나/npp+한테/jca
+
+별로
+	별로/mag
+
+맞지않는
+	맞/pvg+지/ecx+않/px+는/etm
+
+것들이었는데
+	것들/ncn+이/jp+었/ep+는데/ecs
+
+.
+	./sf
+
+
+여기
+	여기/mad
+
+푹신한것이
+	푹신/ncps+하/xsms+ㄴ/etm+것/nbn+이/jcc
+
+..
+	./sf+./sf
+
+
+딱
+	딱/mag
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+들더군
+	들/pvg+더군/ef
+
+..
+	./sf+./sf
+
+
+베드사이즈는
+	베드/ncn+사이즈/ncn+는/jxc
+
+195cm
+	195cm/ncn
+
+x
+	x/f
+
+120cm.
+	120cm./ncn
+
+..
+	./sf+./sf
+
+
+혼자
+	혼자/mag
+
+자기에
+	자/nbn+이/jp+기/etn+에/jca
+
+충분하다~
+	충분/ncps+하/xsms+다/ef+~/sd
+
+
+(특히
+	(/sl+특히/mag
+
+더블룸의
+	더블룸/ncn+의/jcm
+
+경우
+	경우/ncn
+
+150cm이니,
+	150cm이니,/ncn
+
+다른
+	다른/mma
+
+비즈니스급에
+	비즈니스/ncn+급/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+꽤
+	꽤/mag
+
+넓은편)
+	넓/paa+은/etm+편/nbn+)/sr
+
+
+숙박객에
+	숙박/ncpa+객/ncn+에/jca
+
+한해
+	한/nnc+해/nbu
+
+조식은
+	조식/ncpa+은/jxc
+
+무료제공
+	무료제공/ncn
+
+
+뷔페이긴
+	뷔페이긴/ncn
+
+하지만,
+	하/pvg+지/ecx+말/px+ㄴ/etm+,/sp
+
+뭔가
+	뭔가/ncn
+
+부족한
+	부족/ncn+한/ncn
+
+..
+	./sf+./sf
+
+
+먹을게
+	먹을/ncn+게/jca
+
+참
+	참/mag
+
+없던
+	없/paa+던/etm
+
+...
+	.../se
+
+
+서울에서는
+	서울에서/ncn+는/jxc
+
+절대
+	절대/mag
+
+아침밥
+	아침/ncn+밥/ncn
+
+안먹고
+	안먹고/ncn
+
+출근하면서
+	출근/ncpa+하/xsva+면서/ecc
+
+..
+	./sf+./sf
+
+
+여행가서
+	여행가/ncn+서/jca
+
+호텔에서는
+	호텔/ncn+에서/jca+는/jxc
+
+반드시
+	반드시/mag
+
+챙겨먹는
+	챙겨먹/ncn+는/jxc
+
+조식인데
+	조식/ncpa+이/jp+ㄴ데/ecs
+
+....
+	.../se+./sf
+
+
+객실에서
+	객실/ncn+에서/jca
+
+본
+	보/px+ㄴ/etm
+
+아사가야의
+	아사가야/ncn+의/jcm
+
+낮은
+	낮/ncn+은/jxc
+
+풍경들
+	풍경/ncn+들/ncn
+
+..
+	./sf+./sf
+
+
+높은건물이
+	높은건물/ncn+이/jcc
+
+거의
+	거의/mag
+
+없어서
+	없/paa+어서/ecs
+
+..
+	./sf+./sf
+
+
+동네의
+	동네/ncn+의/jcm
+
+전경이
+	전경/ncn+이/jcc
+
+한눈에
+	한눈/ncn+에/jca
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+20080823
+	20080823/nnc
+
+..
+	./sf+./sf
+
+
+photo
+	photo/f
+
+by
+	by/f
+
+nanoki
+	nanoki/f

@@ -1,0 +1,40 @@
+제주시
+	제주/ncn+시/ncn
+
+서부
+	서부/ncn
+
+해안도로
+	해안/ncn+도로/ncn
+
+
+신엄중학교쪽에서
+	신/xp+엄중/ncn+학교/ncn+쪽/ncn+에서/jca
+
+해안도로로
+	해안/ncn+도로/ncn+로/jca
+
+진입하여
+	진입/ncpa+하/xsva+어/ecs
+
+
+길가에
+	길가/ncn+에/jca
+
+아름답게
+	아름답/paa+게/ecs
+
+피어있는
+	피/pvg+어/ecx+있/px+는/etm
+
+둥근잎
+	둥근잎/ncn
+
+유홍초를
+	유홍초/ncn+를/jco
+
+담았다
+	담/pvg+아/ep+다/ef
+
+.
+	./sf

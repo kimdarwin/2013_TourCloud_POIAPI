@@ -1,0 +1,960 @@
+위치:
+	위치/ncn+:/sp
+
+경기
+	경기/ncn
+
+안성시
+	안성시/ncn
+
+양성면
+	양성/ncn+면/ncn
+
+
+문학관은
+	문학관/ncn+은/jxc
+
+대체로
+	대체로/mag
+
+고향에
+	고향/ncn+에/jca
+
+건립하는
+	건립/ncpa+하/xsva+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많아서
+	많/paa+아/ecx
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+대부분
+	대부분/ncn
+
+지방에
+	지방/ncn+에/jca
+
+많이
+	많/paa+이/xsa
+
+위치해
+	위치/ncn+해/ncn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+이유로
+	이유/ncn+로/jca
+
+서울에서
+	서울/ncn+에서/jca
+
+특정한
+	특정/ncps+하/xsms+ㄴ/etm
+
+문학관이
+	문학관/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+문학관의
+	문학관/ncn+의/jcm
+
+분위기를
+	분위기/ncn+를/jco
+
+느끼고
+	느끼/pvg+고/ecc
+
+싶어도
+	싶/px+어도/ecs
+
+찾아가리라
+	찾/pvg+아/ecx+가/px+리라/ef
+
+마음먹기란
+	마음먹기/ncn+란/jcm
+
+쉽지가
+	쉽/paa+지/ecx+가/px+아/ecx
+
+않죠
+	않/px+죠/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+수도권에
+	수도권/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+문학관
+	문학관/ncn
+
+하나를
+	하나/nnc+를/jco
+
+소개합니다
+	소개/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+조병화
+	조병/ncn+화/ncn
+
+문학관(편운문학관)
+	문학관(편운문학관/ncn+)/sr
+
+
+조병화
+	조병/ncn+화/ncn
+
+
+시인의
+	시인/ncn+의/jcm
+
+호는
+	호/nbu+는/jxc
+
+편운(
+	편운(/ncn
+
+)으로
+	)/sr+으로/jca
+
+1921년
+	1921/nnc+년/nbu
+
+5월
+	5/nnc+월/nbu
+
+2일
+	2/nnc+이/jp+ㄹ/etm
+
+경기도
+	경기/ncn+도/jxc
+
+안성군
+	안성군/ncn
+
+양성면
+	양성/ncn+면/ncn
+
+난실리에서
+	난실리/ncn+에서/jca
+
+5남
+	5남/ncn
+
+2녀
+	2녀/ncn
+
+중
+	중/nbn
+
+막내로
+	막내/ncn+로/jca
+
+태어났습니다
+	태어나/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+일본
+	일/nnc+본/nbu
+
+동경고등사범학교에
+	동경/ncn+고등사범학교/ncn+에/jca
+
+입학하여
+	입학/ncpa+하/xsva+어/ecx
+
+물리,
+	물/pvg+ㄹ/etm+리/nbn+,/sp
+
+화학을
+	화학/ncn+을/jco
+
+수학하다가
+	수학/ncpa+하/xsva+다가/ecs
+
+일본
+	일/nnc+본/nbu
+
+패전으로
+	패전/ncpa+으로/jca
+
+학업을
+	학업/ncn+을/jco
+
+중단하고
+	중단/ncpa+하고/jct
+
+귀국한
+	귀국/ncn+한/ncn
+
+후
+	후/ncn
+
+경성사범학교
+	경성/ncpa+사범학교/ncn
+
+물리
+	물/pvg+ㄹ/etm+리/nbn
+
+교수로
+	교수/ncr+로/jca
+
+교단생활을
+	교단생활/ncn+을/jco
+
+시작하여
+	시작/ncpa+하/xsva+어/ecx
+
+인천중학교
+	인천중학교/ncn
+
+교사,
+	교사/ncpa+,/sp
+
+서울중학교
+	서울중학교/ncn
+
+교사로
+	교사/ncpa+로/jca
+
+재직하면서
+	재직/ncpa+하/xsva+면서/ecc
+
+1949년
+	1949/nnc+년/nbu
+
+제1시집
+	제1시집/ncn
+
+버리고
+	버리/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+유산(
+	유산(/ncn
+
+)을
+	)/sr+을/jco
+
+출간하여
+	출간/ncpa+하/xsva+어/ecx
+
+시인의
+	시인/ncn+의/jcm
+
+길로
+	길/ncn+로/jca
+
+들어
+	들/pvg+어/ecx
+
+가셨어요
+	가/px+셨/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+중앙대학교,
+	중앙/ncn+대학교/ncn+,/sp
+
+연세대학교
+	연세/ncn+대학교/ncn
+
+등에서
+	등/nbu+에서/jca
+
+시론을
+	시론/ncn+을/jco
+
+강의하다가
+	강의/ncpa+하/xsva+다가/ecs
+
+1959년
+	1959/nnc+년/nbu
+
+서울고등학교를
+	서울고등학교/ncn+를/jco
+
+사직하고
+	사직/ncn+하고/jct
+
+경희대학교
+	경희대학교/ncn
+
+교수,
+	교수/ncr+,/sp
+
+인하대학교
+	인하/ncpa+대학교/ncn
+
+교수로
+	교수/ncr+로/jca
+
+재직하다
+	재직/ncpa+하/xsva+어다/ecs
+
+1986년
+	1986/nnc+년/nbu
+
+정년퇴임하셨답니다
+	정년퇴임/ncpa+하/xsva+셨/ep+답니다/ef
+
+.
+	./sf
+
+
+시인의
+	시인/ncn+의/jcm
+
+시는
+	시/nbu+는/jxc
+
+쉽고
+	쉽/paa+고/ecc
+
+아름다운
+	아름답/paa+은/etm
+
+언어로
+	언어/ncn+로/jca
+
+인간의
+	인간/ncn+의/jcm
+
+숙명적인
+	숙명/ncn+적/ncn+이/jp+ㄴ/etm
+
+허무와
+	허무/ncn+와/jcj
+
+고독이라는
+	고독/ncn+이/jp+라/ef+는/etm
+
+철학적
+	철학/ncn+적/ncn
+
+명제의
+	명제/ncpa+의/jcm
+
+성찰을
+	성찰/ncpa+을/jco
+
+통하여
+	통하/pvg+어/ecx
+
+꿈과
+	꿈/ncn+과/jcj
+
+사랑의
+	사랑/ncn+의/jcm
+
+삶을
+	삶/ncn+을/jco
+
+형상화한
+	형상화/ncn+한/ncn
+
+점에서
+	점/nbu+에서/jca
+
+특징을
+	특징/ncn+을/jco
+
+찾을
+	찾/pvg+을/etm
+
+수
+	수/nbn
+
+있는데요,
+	있/px+는데/ef+요/jxf+,/sp
+
+김소월이
+	김소월/ncn+이/jcc
+
+전원서정을
+	전원/ncn+서정/ncpa+을/jco
+
+바탕으로
+	바탕/ncn+으로/jca
+
+민족의
+	민족/ncn+의/jcm
+
+정한을
+	정한/ncn+을/jco
+
+노래한
+	노랗/paa+아/ecx+하/px+ㄴ/etm
+
+데
+	데/nbn
+
+비하여
+	비하/pvg+어/ecx
+
+그는,
+	그/npp+는/jxc+,/sp
+
+외로운
+	외롭/paa+은/etm
+
+도시인의
+	도시인/ncn+의/jcm
+
+실존적
+	실존/ncpa+적/ncn
+
+모습,
+	모습/ncn+,/sp
+
+허무와
+	허무/ncn+와/jcj
+
+고독으로서의
+	고독/ncn+으로서/jca+의/jcm
+
+인간존재가
+	인간/ncn+존재/ncn+가/jcs
+
+꿈과
+	꿈/ncn+과/jcj
+
+사랑으로
+	사랑/ncn+으로/jca
+
+자아의
+	자아/ncn+의/jcm
+
+완성에
+	완성/ncpa+에/jca
+
+이르는
+	이르/paa+는/etm
+
+생의
+	생/ncn+의/jcm
+
+아름다움을
+	아름다움/ncn+을/jco
+
+이해하기
+	이해/ncpa+하/xsva+기/etn
+
+쉬운
+	쉽/paa+은/etm
+
+낭만의
+	낭만/ncn+의/jcm
+
+언어로
+	언어/ncn+로/jca
+
+그려냈다는
+	그리/pvg+어/ecx+내/px+었/ep+다/ef+는/etm
+
+평가를
+	평가/ncpa+를/jco
+
+받고
+	받/pvg+고/ecc
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+조병화
+	조병/ncn+화/ncn
+
+문학관
+	문학관/ncn
+
+
+난실리
+	난실리/ncn
+
+편운동산
+	편운동산/ncn
+
+내에
+	내/npp+에/jca
+
+자리잡은
+	자리잡/pvg+은/etm
+
+조병화문학관은
+	조병화문학관/ncn+은/jxc
+
+편운
+	편운/ncn
+
+조병화
+	조병/ncn+화/ncn
+
+시인의
+	시인/ncn+의/jcm
+
+유품
+	유품/ncn
+
+및
+	및/maj
+
+창작저작물,
+	창작/ncpa+저작물/ncn+,/sp
+
+그림을
+	그림/ncn+을/jco
+
+상설
+	상설/ncpa
+
+전시하는
+	전시/ncpa+하/xsva+는/etm
+
+문학기념관으로서,
+	문학/ncpa+기념관/ncn+으로서/jca+,/sp
+
+시인이
+	시인/ncn+이/jcc
+
+전
+	전/nbn
+
+생애의
+	생애/ncn+의/jcm
+
+창작활동을
+	창작활동/ncpa+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+추구해
+	추구/ncpa+하/xsva+어/ecx
+
+온
+	오/px+ㄴ/etm
+
+꿈과
+	꿈/ncn+과/jcj
+
+사랑의
+	사랑/ncn+의/jcm
+
+시정신이
+	시정신/ncn+이/jcc
+
+오롯이
+	오롯/ncn+이/jcc
+
+담겨
+	담기/pvg+어/ecx
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+한국현대문학의
+	한국현대문학/ncn+의/jcm
+
+한
+	하/pvg+ㄴ/etm
+
+발자취가
+	발자취/ncn+가/jcs
+
+보존되어
+	보존/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+하지요
+	하/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+제1전시실에는
+	제1전시실/ncn+에/jca+는/jxc
+
+기획전시물과
+	기획/ncpa+전시물/ncn+과/jcj
+
+시인의
+	시인/ncn+의/jcm
+
+창작집
+	창작집/ncn
+
+등의
+	등/nbu+의/jcm
+
+서적
+	서적/ncn
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있고,
+	있/px+고/ecc+,/sp
+
+제2전시실에는
+	제2전시실/ncn+에/jca+는/jxc
+
+시인이
+	시인/ncn+이/jcc
+
+모아두었던
+	모으/pvg+아/ecx+두/px+었/ep+던/etm
+
+럭비관련
+	럭비/ncpa+관련/ncn
+
+유물과
+	유물/ncn+과/jcj
+
+성적표,
+	성적표/ncn+,/sp
+
+그림,
+	그리/pvg+ㅁ/etn+,/sp
+
+상패와
+	상패/ncn+와/jcj
+
+기념패가,
+	기념패/ncn+가/jcs+,/sp
+
+제3전시실에는
+	제3전시실/ncn+에/jca+는/jxc
+
+조시인을
+	조시/ncn+인/ncn+을/jco
+
+추모하는
+	추모/ncpa+하/xsva+는/etm
+
+문인들의
+	문/ncn+이/jp+ㄴ/etm+들/nbn+의/jcm
+
+시화와
+	시화/ncn+와/jcj
+
+방명록이
+	방명록/ncn+이/jcc
+
+전시되어있답니다
+	전시/ncpa+되/xsvn+어/ecx+있/px+답니다/ef
+
+.
+	./sf
+
+
+편운동산에는
+	편운동산/ncn+에/jca+는/jxc
+
+문학관
+	문학관/ncn
+
+외에도
+	외/nbn+에/jca+도/jxc
+
+넓은
+	넓/paa+은/etm
+
+잔디밭을
+	잔디밭/ncn+을/jco
+
+중심으로,
+	중심/ncn+으로/jca+,/sp
+
+시인이
+	시인/ncn+이/jcc
+
+어머니
+	어머니/ncn
+
+묘소
+	묘소/ncn
+
+옆에
+	옆/ncn+에/jca
+
+세운
+	세우/pvg+ㄴ/etm
+
+묘막인
+	묘막/ncn+이/jp+ㄴ/etm
+
+편운재와,
+	편운재와,/ncn
+
+교직
+	교직/ncn
+
+은퇴
+	은퇴/ncpa
+
+후
+	후/ncn
+
+시인이
+	시인/ncn+이/jcc
+
+집필
+	집필/ncpa
+
+또는
+	또는/maj
+
+휴식을
+	휴식/ncpa+을/jco
+
+취하던
+	취하/pvg+던/etm
+
+시골집인
+	시골/ncn+집/ncn+이/jp+ㄴ/etm
+
+청와헌,
+	청와헌,/ncn
+
+또
+	또/maj
+
+조병화
+	조병/ncn+화/ncn
+
+시인의
+	시인/ncn+의/jcm
+
+묘소가
+	묘소/ncn+가/jcs
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+쉽게
+	쉽/paa+게/ecs
+
+읽히면서도
+	읽히/pvg+면서/ecs+도/jxc
+
+또한
+	또한/maj
+
+깊은
+	깊/paa+은/etm
+
+감동을
+	감동/ncpa+을/jco
+
+전하는
+	전하/pvg+는/etm
+
+시인의
+	시인/ncn+의/jcm
+
+시와
+	시/nbu+와/jct
+
+어울리게,
+	어울리/pvg+게/ecs+,/sp
+
+이
+	이/mmd
+
+편운동산에서는
+	편운동산에서/ncn+는/jxc
+
+은은하고
+	은은/ncps+하고/jct
+
+그윽한
+	그윽/ncps+하/xsms+ㄴ/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+문학의
+	문학/ncpa+의/jcm
+
+분위기에
+	분위기/ncn+에/jca
+
+흠뻑
+	흠뻑/mag
+
+빠질
+	빠지/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+수도권에서
+	수도권/ncn+에서/jca
+
+당일치기로
+	당일치기/ncn+로/jca
+
+다녀올
+	다니/pvg+어/ecx+오/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳에
+	곳/nbn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+조병화문학관만
+	조병화문학관만/ncn
+
+들르기에
+	들르/pvg+기/etn+에/jca
+
+아쉬운
+	아쉽/paa+은/etm
+
+분은
+	분/nbu+은/jxc
+
+된장농원으로
+	된장/ncn+농원/ncn+으로/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+서일농원까지
+	서일농원까/ncn+이/jp+지/ecs
+
+들렀다
+	들르/pvg+었/ep+다/ef
+
+오시는
+	오/px+시/ep+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋은
+	좋/paa+은/etm
+
+방법이라
+	방법/ncn+이/jp+라/ecs
+
+생각이
+	생각/ncpa+이/jcc
+
+드네요
+	들/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+조병화
+	조병/ncn+화/ncn
+
+문학관
+	문학관/ncn
+
+자세히보기
+	자세히보/ncn+이/jp+기/etn
+
+
+찾아가는
+	찾/pvg+아/ecx+가/px+는/etm
+
+길
+	길/nbu
+
+
+주변
+	주변/ncn
+
+명소
+	명소/ncn
+
+
+서일농원
+	서일농원/ncn
+
+
+예지촌
+	예지/ncn+촌/ncn
+
+
+미리내성지
+	미리내/ncn+성지/ncn

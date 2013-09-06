@@ -1,0 +1,185 @@
+위치:제주
+	위치/ncn+:/sp+제주/ncn
+
+제주시
+	제주/ncn+시/ncn
+
+용담동
+	용담동/ncn
+
+
+서쪽
+	서쪽/ncn
+
+해안
+	해안/ncn
+
+용두암에서
+	용두암/ncn+에서/jca
+
+동쪽으로
+	동쪽/ncn+으로/jca
+
+약
+	약/ncn
+
+200
+	200/nnc
+
+m
+	m/f
+
+지점에
+	지점/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+한천(
+	한천(/ncn
+
+)의
+	)/sr+의/jcm
+
+하류지역으로,
+	하류지역/ncn+으로/jca+,/sp
+
+
+높이
+	높이/mag
+
+7
+	7/nnc
+
+8
+	8/nnc
+
+m의
+	m/f+의/jcm
+
+기암계곡이며,
+	기암/ncn+계곡/ncn+이/jp+며/ecc+,/sp
+
+바다와
+	바다/ncn+와/jct
+
+이어져
+	잇/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+옛날
+	옛날/ncn
+
+용의
+	용의/ncn
+
+놀이터였다는
+	놀이터/ncn+이/jp+었/ep+다/ef+는/etm
+
+전설에
+	전설/ncn+에/jca
+
+연유하여
+	연유/ncpa+하/xsva+어/ecx
+
+붙여진
+	붙이/pvg+어/ecx+지/px+ㄴ/etm
+
+이름이다
+	이름/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(네이버백과)
+	(네이버백/ncn+과/jcj+)/sr
+
+
+새로운
+	새롭/paa+은/etm
+
+풍속도가
+	풍속/ncn+도/ncn+가/jcs
+
+생겼다
+	생기/pvg+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+열쇠를
+	열쇠/ncn+를/jco
+
+매달아
+	매달아/ncn
+
+소망을
+	소망/ncpa+을/jco
+
+비는
+	비/paa+는/etm
+
+....
+	.../se+./sf
+
+
+누군가에게는
+	누군가/npp+에게/jca+는/jxc
+
+약속의
+	약속/ncpa+의/jcm
+
+장소로
+	장소/ncn+로/jca
+
+
+또
+	또/maj
+
+다른
+	다르/paa+ㄴ/etm
+
+누군가에게는
+	누군가/npp+에게/jca+는/jxc
+
+소망하는
+	소망/ncpa+하/xsva+는/etm
+
+기원의
+	기원/ncn+의/jcm
+
+장소로
+	장소/ncn+로/jca
+
+....
+	.../se+./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+기억되는
+	기억/nnc+되/nbu+는/jxc
+
+아름다운
+	아름답/paa+은/etm
+
+다리가
+	다리/ncn+가/jcs
+
+되는것
+	되/pvg+는/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf

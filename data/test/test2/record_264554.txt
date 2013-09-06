@@ -1,0 +1,42 @@
+Title:
+9/9 선자령 트레킹 후기
+
+Date:
+2012.09.10
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(241844,'files/attach/images/64/554/264/430541d154226e34bac75441ad04e558.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/1b37a59901c42791cb547487feab2f2e.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/7e6ebf5fb85b0653f6c7dd9b9ea1c822.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/6e9b2d902021b69c9d80c8b3b1de05cc.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/8c6954971cea709a4dc2838e7c394840.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/94b3f81160d1b8a2fc4062f82e2c99af.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/aee66a5c7fa45073a328d469dacb9c78.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/6f3baa443b21bf64fd0cfedabe20bf53.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/b3d56c94412f5a1275b0d58c326c0b61.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/6f30ac2c3b2c8e75f7b3883a93346297.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/1688467626f97f7a5c1beb06e88f666b.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/5862b43ccb552e90640a2c3e3cef0fb5.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/ef5bd3d712fbb3de999274593ba5ab04.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/b49d539aea86c4c4f67c2fccd140d3da.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/1877742599c33de96b14edf77b3c0b16.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/e0b63ebaaa7585a4dcbc8ef4635bbb7d.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/3f5b65b1817f37ac7c0732402cea32d3.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/e229a6f8e9f9f915b739bee73d57c852.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/6c6e1a044d98c509f06ef118624a21d5.jpg');
+list_gallery_add_image(241844,'files/attach/images/64/554/264/eb270c122b5a5cb1077ee2652a9074ec.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 9월 9일(일) 선자령 트레킹을 하였습니다. 
+선자령 트레킹은 구 영동고속도로 대관령휴게소를 출발하여 선자령 정상까지 오른 후 숲길을 따라 원점인 휴게소로 돌아오는 약 11km의 순환코스입니다.
+대관령에 도착한 시각, 하늘은 약간 흐려있었고 바람은 선선하였지만 풍속은 전혀 느껴지지 않는 트레킹을 하기에 아주 적당한 날씨였습니다. 대관령은 무엇보다 바람이 걷기의 반을 좌우하는데 이번처럼 온순한 날도 참 오랜만이었습니다.
+본격적인 걷기는 선자령 등산로 입구부터 시작됩니다. 초반 어느 정도까지는 임도를 따라 걷게 되지만 여름보다 숲이 더욱 울창해 보이네요. 바람에 떨어진 나뭇잎은 가을을 약간 느껴지게도 하고 바람의 냄새에도 가을향이 묻어납니다. 며칠만 지나면 선자령은 완연한 가을이 깊어갈 듯싶습니다.
+그렇게 약 2시간 정도면 선자령 정상에 도착합니다. 날씨는 점점 더 좋아져 파란 하늘에 깃털 구름이 떠가고 풍력발전기가 돌아가는 이국적인 모습 또한 여전합니다.
+이번에는 여느 때보다 바람이 더욱 잠잠하여 소풍을 나온 듯 풀밭에 앉아 도시락으로 점심을 하였습니다. 멀리 겹겹이 능선이 보이고 이국적인 풍경 속에 앉아 먹는 점심은 그야말로 꿀맛이죠.
+원점으로 회귀를 하기 위해 숲으로 내려섭니다. 지난 비바람에 상처를 많이 입었는지 잔가지들이 어지럽게 널려있고 그 세찬 바람에 꽃들이 흔들려서인지 작년 요맘때 보았던 꽃들이 많이 보이지 않네요.
+그래도 이 선자령 아래 숲길은 아늑합니다. 깊은 숲에서 들려오는 청량한 물소리, 새들의 노랫소리, 초록잎이 흔들리는 소리…. 이 깊은 숲에 가을이 오면 제법 붉은 빛깔 단풍이 어여쁠 듯합니다.
+이제 아기자기한 야생화는 만날 수 없을지 모르겠지만 갈색 숲 아름다울 가을 날 다시 한번 찾고 싶습니다.
+이번에는 무엇보다 날씨가 한몫 했습니다. 날씨가 좋으면 그만큼 여행의 폭이 넓어지는데 오늘이 그랬던 것 같습니다. 그리고 변수가 많은 선자령의 날씨가 오늘만큼은 참으로 고요하고 온순했습니다. 덕분에 느긋하고 여유로운 트레킹이 되셨기를 바라는 마음입니다.
+이번 선자령 트레킹에 참여하신 회원분들 모두 몇 시간 동안 걷느라 수고 많으셨구요. 다시 시작되는 한주도 활기차게 보내시기 바랍니다~
+PS. 어제 선자령 트레킹은 전은재 님이 진행을 하셨는데 후기는 제가 올리게 되었습니다.참고하시고 봐주세요~이 게시물을...

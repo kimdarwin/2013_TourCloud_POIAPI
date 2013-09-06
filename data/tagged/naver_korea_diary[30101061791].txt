@@ -1,0 +1,1459 @@
+서울
+	서울/ncn
+
+청계천
+	청계/ncn+천/ncn
+
+변에
+	변/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+한국관광공사
+	한국관광/ncn+공사/ncn
+
+본사
+	본사/ncn
+
+건물에
+	건물/ncn+에/jca
+
+방문해보신
+	방문/ncpa+하/xsva+어/ecx+보/px+시/ep+ㄴ/etm
+
+적
+	적/nbn
+
+있으신가요
+	있/px+으시/ep+ㄴ가/ef+요/jxf
+
+?
+	?/sf
+
+
+그저
+	그저/mag
+
+딱딱해
+	딱딱하/paa+어/ecx
+
+보이는
+	보이/pvg+는/etm
+
+회사이겠거니,
+	회사/ncn+이/jp+겠/ep+거니/ecc+,/sp
+
+누군가의
+	누군가/npp+의/jcm
+
+사무실이겠거니
+	사무실/ncn+이/jp+겠/ep+거니/ecc
+
+하면서
+	하/pvg+면서/ecc
+
+지나치신
+	지나치/pvg+시/ep+ㄴ/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+많으실
+	많/paa+으시/ep+ㄹ/etm
+
+텐데요
+	텐데요/ncn
+
+.
+	./sf
+
+
+한국관광공사본사
+	한국관광/ncn+공사/ncn+본사/ncn
+
+건물내에는
+	건물/ncn+내/ncn+에/jca+는/jxc
+
+보고,
+	보/px+고/ecc+,/sp
+
+배우고,
+	배우/pvg+고/ecc+,/sp
+
+얻어갈
+	얻/pvg+어/ecx+가/px+ㄹ/etm
+
+거리가
+	거리/ncn+가/jcs
+
+가득하답니다
+	가득/ncps+하/xsms+답니다/ef
+
+!
+	!/sf
+
+
+어떠한
+	어떠하/pad+ㄴ/etm
+
+보물이
+	보물/ncn+이/jcc
+
+숨어
+	숨/pvg+어/ecx
+
+있는지
+	있/px+는지/ecs
+
+함께
+	함께/mag
+
+가보실까요
+	가/pvg+아/ecx+보/px+시/ep+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+국내
+	국내/ncn
+
+관광의
+	관광/ncpa+의/jcm
+
+다양한
+	다양/ncn+한/ncn
+
+정보가
+	정보/ncn+가/jcs
+
+가득
+	가득/mag
+
+!
+	!/sf
+
+
+관광안내전시관(TIC)
+	관광안내전시관/ncn+(/sl+TIC/f+)/sr
+
+
+(
+	(/sl
+
+사진을
+	사진/ncn+을/jco
+
+클릭하시면
+	클릭/ncpa+하시/ncn+이/jp+면/ecs
+
+더
+	더/mag
+
+자세한
+	자세/ncn+한/ncn
+
+정보를
+	정보/ncn+를/jco
+
+확인하실
+	확인/ncpa+하/xsva+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.)
+	./sf+)/sr
+
+
+한국관광공사
+	한국관광/ncn+공사/ncn
+
+지하
+	지하/ncn
+
+1층에
+	1/nnc+층/nbu+에/jca
+
+자리한
+	자리/ncn+한/ncn
+
+관광안내전시관은
+	관광안내/ncpa+전시관/ncn+은/jxc
+
+한류스타들의컨텐츠와
+	한류스타들의컨텐츠/ncn+와/jcj
+
+등신대가한
+	등신/ncn+대가/ncn+한/ncn
+
+곳에
+	곳/nbn+에/jca
+
+모여
+	모이/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+한류관에서부터,
+	한류/ncn+관/ncn+에서/jca+부터/jxc+,/sp
+
+다양한
+	다양/ncn+한/ncn
+
+정보를
+	정보/ncn+를/jco
+
+얻을
+	얻/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+자료실과
+	자료실/ncn+과/jcj
+
+관광안내데스크
+	관광안내/ncpa+데스크/ncn
+
+및
+	및/maj
+
+의료관광홍보센터,
+	의료/ncn+관광홍보/ncpa+센터/ncn+,/sp
+
+여행사,
+	여행사/ncn+,/sp
+
+무료국제전화
+	무료/ncps+국제전화/ncpa
+
+및
+	및/maj
+
+인터넷검색
+	인터넷/ncn+검색/ncpa
+
+부스가
+	부스/ncn+가/jcs
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+하나하나
+	하/pvg+어/ecx+나/px+아/ecx+하/px+어/ecx+나/px+아/ecx
+
+자세히
+	자세히/mag
+
+둘러볼까요
+	두르/pvg+어/ecx+보/px+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+여행
+	여행/ncpa
+
+정보
+	정보/ncn
+
+나와라
+	나/pvg+아/ecx+오/px+아/ecs
+
+뚝딱
+	뚝딱/ncn
+
+!
+	!/sf
+
+
+관광안내데스크
+	관광안내/ncpa+데스크/ncn
+
+
+(
+	(/sl
+
+사진을
+	사진/ncn+을/jco
+
+클릭하시면
+	클릭/ncpa+하시/ncn+이/jp+면/ecs
+
+더
+	더/mag
+
+자세한
+	자세/ncn+한/ncn
+
+정보를
+	정보/ncn+를/jco
+
+확인하실
+	확인/ncpa+하/xsva+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.)
+	./sf+)/sr
+
+
+필요한
+	필요/ncps+하/xsms+ㄴ/etm
+
+정보만을
+	정보/ncn+만/ncn+을/jco
+
+알차게
+	알차/paa+게/ecs
+
+얻어갈
+	얻/pvg+어/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+관광안내데스크입니다
+	관광안내/ncpa+데스크/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+국내여행을
+	국내여행/ncn+을/jco
+
+계획하는데
+	계획/ncpa+하/xsva+ㄴ데/ecs
+
+막막하셨다고요
+	막막/ncps+하/xsms+셨/ep+다고/ef+요/jxf
+
+?
+	?/sf
+
+
+안내데스크에
+	안내데스크/ncn+에/jca
+
+문의해보세요
+	문의/ncpa+하/xsva+어/ecx+보/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+관광코스
+	관광코스/ncn
+
+기획에서부터
+	기획/ncpa+에서/jca+부터/jxc
+
+이동에
+	이/nnc+동/nbu+에/jca
+
+필요한
+	필요/ncps+하/xsms+ㄴ/etm
+
+교통편과
+	교통편/ncn+과/jcj
+
+숙박시설에
+	숙박시설/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+안내까지
+	알/pvg+ㄴ/etm+내/nbn+까지/jxc
+
+받으실
+	받/pvg+으시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+한국관광
+	한국관광/ncn
+
+홍보물도
+	홍보물/ncn+도/jxc
+
+받아볼
+	받/pvg+아/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있으니
+	있/px+으니/ecs
+
+여행을
+	여행/ncpa+을/jco
+
+떠나시기
+	뜨/pvg+어/ecx+나/px+시/ep+기/etn
+
+전
+	전/nbn
+
+방문하시면
+	방문/ncpa+하시/ncn+이/jp+면/ecs
+
+좋겠죠
+	좋/paa+겠/ep+죠/ef
+
+?
+	?/sf
+
+
+거기에
+	거기/npd+에/jca
+
+한국어뿐만
+	한국어/ncn+뿐/jxc+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+영어,
+	영어/ncn+,/sp
+
+일본어,
+	일본어/ncn+,/sp
+
+중국어로도
+	중국어/ncn+로/jca+도/jxc
+
+정보를
+	정보/ncn+를/jco
+
+받을
+	받/pvg+을/etm
+
+수
+	수/nbn
+
+있으니
+	있/px+으니/ecs
+
+외국인관광객들에게도
+	외국인관광객/ncn+들/ncn+에게/jca+도/jxc
+
+큰
+	크/paa+ㄴ/etm
+
+도움이
+	도움/ncn+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+것이라
+	것/nbn+이/jp+라/ecs
+
+생각됩니다
+	생각/ncpa+되/xsvn+ㅂ니다/ef
+
+.
+	./sf
+
+
+한류스타들이
+	한류/ncn+스타/ncn+들/ncn+이/jcc
+
+한
+	하/pvg+ㄴ/etm
+
+곳에
+	곳/nbn+에/jca
+
+!
+	!/sf
+
+
+한류관
+	한류/ncn+관/ncn
+
+
+(
+	(/sl
+
+사진을
+	사진/ncn+을/jco
+
+클릭하시면
+	클릭/ncpa+하시/ncn+이/jp+면/ecs
+
+더
+	더/mag
+
+자세한
+	자세/ncn+한/ncn
+
+정보를
+	정보/ncn+를/jco
+
+확인하실
+	확인/ncpa+하/xsva+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.)
+	./sf+)/sr
+
+
+아시아를
+	아시아/ncn+를/jco
+
+넘어
+	넘/pvg+어/ecx
+
+세계로
+	세계/ncn+로/jca
+
+뻗어
+	뻗/pvg+어/ecx
+
+가는
+	가/pvg+는/etm
+
+한류의
+	한류/ncn+의/jcm
+
+열풍
+	열풍/ncn
+
+!
+	!/sf
+
+
+관광안내전시관에서
+	관광안내/ncpa+전시관/ncn+에서/jca
+
+이런
+	이런/mmd
+
+한류를
+	한류/ncn+를/jco
+
+가까이에서
+	가까이/ncn+에서/jca
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+한류관이
+	한류/ncn+관/ncn+이/jcc
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+한국의
+	한국의/ncn
+
+드라마,
+	드라마/ncn+,/sp
+
+영화,
+	영화/ncn+,/sp
+
+음악
+	음악/ncn
+
+등의
+	등/nbu+의/jcm
+
+다양한
+	다양/ncn+한/ncn
+
+문화
+	문화/ncn
+
+컨텐츠들을
+	컨텐츠들/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있고요
+	있/px+고요/ef
+
+.
+	./sf
+
+
+한류스타들의
+	한류/ncn+스타/ncn+들/ncn+의/jcm
+
+등신대가
+	등신/ncn+대/ncn+가/jcs
+
+자리
+	자리/ncn
+
+잡고
+	잡/pvg+고/ecc
+
+있어서
+	있/px+어서/ecs
+
+포토존으로도
+	포토존으로/ncn+도/jxc
+
+주목받고
+	주목/ncpa+받/xsva+고/ecc
+
+있답니다
+	있/px+답니다/ef
+
+!
+	!/sf
+
+
+또
+	또/maj
+
+한류스타들의
+	한류/ncn+스타/ncn+들/ncn+의/jcm
+
+핸드프린팅이
+	핸드/ncn+프린팅/ncpa+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있으니
+	있/px+으니/ecs
+
+한류스타들의
+	한류/ncn+스타/ncn+들/ncn+의/jcm
+
+팬이라면
+	팬/ncn+이/jp+라면/ecs
+
+한
+	하/pvg+ㄴ/etm
+
+번쯤
+	번/nbu+쯤/xsnx
+
+방문해도
+	방문/ncpa+해/ncn+도/jxc
+
+좋을
+	좋/paa+을/etm
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+한국의
+	한국의/ncn
+
+즐거운
+	즐겁/paa+은/etm
+
+문화체험을
+	문화/ncn+체험/ncpa+을/jco
+
+경험하세요~
+	경험/ncpa+하/xsva+세/ef+요/jxf+~/sd
+
+문화체험
+	문화/ncn+체험/ncpa
+
+행사
+	행사/ncpa
+
+
+(
+	(/sl
+
+사진을
+	사진/ncn+을/jco
+
+클릭하시면
+	클릭/ncpa+하시/ncn+이/jp+면/ecs
+
+더
+	더/mag
+
+자세한
+	자세/ncn+한/ncn
+
+정보를
+	정보/ncn+를/jco
+
+확인하실
+	확인/ncpa+하/xsva+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.)
+	./sf+)/sr
+
+
+국내외,
+	국내외/ncn+,/sp
+
+관광공사를
+	관광/ncpa+공사/ncn+를/jco
+
+방문하시는
+	방문/ncpa+하시/ncn+는/jxc
+
+모든
+	모든/mma
+
+분이
+	분/nbu+이/jcc
+
+한국문화를
+	한국문화/ncn+를/jco
+
+제대로,
+	제/npp+대로/jca+,/sp
+
+즐겁게
+	즐겁/paa+게/ecs
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+문화체험
+	문화/ncn+체험/ncpa
+
+행사가
+	행사/ncpa+가/jcc
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+한복
+	한복/ncn
+
+입기
+	입/pvg+기/etn
+
+체험은
+	체험/ncpa+은/jxc
+
+평상복,
+	평상복/ncn+,/sp
+
+혼례복,
+	혼례/ncn+복/ncn+,/sp
+
+궁중의상
+	궁중/ncn+의상/ncn
+
+등
+	등/nbu
+
+다양한
+	다양/ncn+한/ncn
+
+용도와
+	용도/ncn+와/jcj
+
+연령층의
+	연령층/ncn+의/jcm
+
+한복이갖춰져
+	한복이갖춰져/ncn
+
+있어
+	있/px+어/ecx
+
+멋진
+	멋지/paa+ㄴ/etm
+
+포토존
+	포토존/ncn
+
+앞에서
+	앞/ncn+에서/jca
+
+사진을
+	사진/ncn+을/jco
+
+찍을
+	찍/pvg+을/etm
+
+수
+	수/nbn
+
+있는데요,
+	있/px+는데/ef+요/jxf+,/sp
+
+외국어가
+	외국어/ncn+가/jcs
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+도우미가
+	도우미/ncn+가/jcs
+
+함께
+	함께/mag
+
+진행해주니
+	진행/ncpa+하/xsva+어/ecx+주/px+니/ecs
+
+외국인관광객들에게
+	외국인관광객/ncn+들/ncn+에게/jca
+
+더할
+	더하/paa+ㄹ/etm
+
+나위
+	나위/nbn
+
+없이
+	없이/mag
+
+좋은
+	좋/paa+은/etm
+
+체험이겠죠
+	체험/ncpa+이/jp+겠/ep+죠/ef
+
+?
+	?/sf
+
+
+또
+	또/maj
+
+한글
+	한글/ncn
+
+이름
+	이름/ncn
+
+나누어주기
+	나누/pvg+어/ecx+주/px+기/etn
+
+행사는
+	행사/ncpa+는/jxc
+
+서예작가에게서
+	서예/ncn+작가/ncr+에게서/jca
+
+한지에
+	하/pvg+ㄴ/etm+지/nbn+에/jca
+
+한글로
+	한글/ncn+로/jca
+
+적힌
+	적히/pvg+ㄴ/etm
+
+이름을
+	이름/ncn+을/jco
+
+받을
+	받/pvg+을/etm
+
+수
+	수/nbn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+밖에도
+	밖/ncn+에/jca+도/jxc
+
+한지제기
+	한지/ncn+제/ncn+이/jp+기/etn
+
+만들기,
+	만들/pvg+기/etn+,/sp
+
+한지책갈피
+	한지/ncn+책갈피/ncn
+
+만들기
+	만들/pvg+기/etn
+
+등
+	등/nbu
+
+공예체험과
+	공예/ncn+체험/ncpa+과/jcj
+
+윷놀이,
+	윷놀이/ncn+,/sp
+
+투호던지기,
+	투호/ncn+이/jp+던/etm+지/nbn+이/jp+기/etn+,/sp
+
+팽이치기
+	팽이치기/ncn
+
+등
+	등/nbu
+
+민속놀이
+	민속놀이/ncpa
+
+체험기회가
+	체험/ncpa+기회/ncn+가/jcs
+
+제공된답니다
+	제공/ncpa+되/xsvn+ㄴ답니다/ef
+
+.
+	./sf
+
+
+체험마다
+	체험/ncpa+마다/jxc
+
+일정이
+	일정/ncn+이/jcc
+
+다르니
+	다르/paa+니/ecs
+
+한국관광공사
+	한국관광/ncn+공사/ncn
+
+홈페이지에서
+	홈페이지/ncn+에서/jca
+
+꼭
+	꼭/mag
+
+일정을
+	일정/ncn+을/jco
+
+체크하신
+	체크/ncpa+하/xsva+시/ep+ㄴ/etm
+
+후에
+	후/ncn+에/jca
+
+방문하세요
+	방문/ncpa+하/xsva+세/ef+요/jxf
+
+.
+	./sf
+
+
+장인의
+	장인/ncn+의/jcm
+
+손길이
+	손길/ncn+이/jcc
+
+닿은
+	닿/pvg+은/etm
+
+작품들을
+	작품/ncn+들/ncn+을/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는,
+	있/px+는/etm+,/sp
+
+인간문화재
+	인간문화재/ncn
+
+작품판매
+	작품/ncn+판매/ncpa
+
+전시관
+	전시관/ncn
+
+
+(
+	(/sl
+
+사진을
+	사진/ncn+을/jco
+
+클릭하시면
+	클릭/ncpa+하시/ncn+이/jp+면/ecs
+
+더
+	더/mag
+
+자세한
+	자세/ncn+한/ncn
+
+정보를
+	정보/ncn+를/jco
+
+확인하실
+	확인/ncpa+하/xsva+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.)
+	./sf+)/sr
+
+
+인간문화재
+	인간문화재/ncn
+
+장인들의
+	장/nbu+이/jp+ㄴ/etm+들/nbn+의/jcm
+
+작품을
+	작품/ncn+을/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳
+	곳/ncn
+
+!
+	!/sf
+
+
+인간문화재
+	인간문화재/ncn
+
+작품판매
+	작품/ncn+판매/ncpa
+
+전시관입니다
+	전시관/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+도자기,
+	도자/ncn+이/jp+기/etn+,/sp
+
+자수,
+	자수/ncpa+,/sp
+
+전통장식,
+	전통/ncn+장식/ncpa+,/sp
+
+옥각류,
+	옥각류,/ncn
+
+칠기류
+	칠기/ncn+류/xsncc
+
+등의
+	등/nbu+의/jcm
+
+작품들을
+	작품/ncn+들/ncn+을/jco
+
+만나볼
+	만나/pvg+아/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있고
+	있/px+고/ecc
+
+구입까지
+	구입/ncpa+까지/jxc
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+곳이랍니다
+	곳/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+밖에도
+	밖/ncn+에/jca+도/jxc
+
+무료
+	무료/ncn
+
+국제전화와
+	국제전화/ncpa+와/jcj
+
+무료
+	무료/ncn
+
+인터넷
+	인터넷/ncn
+
+검색이
+	검색/ncpa+이/jcc
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+공간과,
+	공간/ncn+과/jcj+,/sp
+
+국내
+	국내/ncn
+
+항공권,
+	항공권/ncn+,/sp
+
+철도권
+	철도/ncn+권/ncn
+
+예약
+	예약/ncpa
+
+및
+	및/maj
+
+발권
+	발권/ncpa
+
+서비스가
+	서비스/ncpa+가/jcc
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+여행사
+	여행사/ncn
+
+데스크,
+	데스크/ncn+,/sp
+
+의료관광
+	의료/ncn+관광/ncpa
+
+안내
+	알/pvg+ㄴ/etm+내/nbn
+
+및
+	및/maj
+
+상담을
+	상담/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는의료관광홍보센터
+	있는의료관광홍보센터/ncn
+
+등을
+	등/nbu+을/jco
+
+만나실
+	만나/pvg+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+또한,
+	뜨/pvg+어/ecx+하/px+ㄴ/etm+,/sp
+
+대여
+	대/nbu+이/jp+어/ecs
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+149석
+	149/nnc+석/nbu
+
+규모의
+	규모/ncn+의/jcm
+
+상영관과
+	상영관/ncn+과/jcj
+
+열린문화의
+	열린문화/ncn+의/jcm
+
+홍보장으로
+	홍보/ncpa+장/ncn+으로/jca
+
+사용할
+	사용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+T2마당이
+	T2마당/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+한국관광공사
+	한국관광/ncn+공사/ncn
+
+찾아오는
+	찾/pvg+아/ecx+오/px+는/etm
+
+길
+	길/nbu
+
+
+(
+	(/sl
+
+사진을
+	사진/ncn+을/jco
+
+클릭하시면
+	클릭/ncpa+하시/ncn+이/jp+면/ecs
+
+더
+	더/mag
+
+자세한
+	자세/ncn+한/ncn
+
+정보를
+	정보/ncn+를/jco
+
+확인하실
+	확인/ncpa+하/xsva+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.)
+	./sf+)/sr
+
+
+어떠세요
+	어떠세요/ncn
+
+?
+	?/sf
+
+
+한국관광공사가
+	한국관광/ncn+공사/ncn+가/jcs
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+가까워지신
+	가깝/paa+어/ecx+지/px+시/ep+ㄴ/etm
+
+것
+	것/nbn
+
+같나요
+	같/paa+나/ef+요/jxf
+
+?
+	?/sf
+
+
+한국관광공사는
+	한국관광/ncn+공사/ncn+는/jxc
+
+언제나
+	언제나/mag
+
+여러분에게
+	여러/nnc+분/nbu+에게/jca
+
+열려
+	열리/pvg+어/ecx
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+주저하지
+	주저/ncpa+하/xsva+지/ecx
+
+마시고
+	마시/pvg+고/ecc
+
+방문해보세요
+	방문/ncpa+하/xsva+어/ecx+보/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+알찬
+	알차/paa+ㄴ/etm
+
+정보와
+	정보/ncn+와/jct
+
+따스한
+	따스/ncps+하/xsms+ㄴ/etm
+
+미소로
+	미소/ncn+로/jca
+
+여러분을
+	여러/nnc+분/nbu+을/jco
+
+반기겠습니다
+	반기/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+**
+	*/sy+*/sy
+
+한국관광공사
+	한국관광/ncn+공사/ncn
+
+관광
+	관광/ncpa
+
+안내
+	알/pvg+ㄴ/etm+내/nbn
+
+전시관
+	전시관/ncn
+
+더
+	더/mag
+
+자세히
+	자세히/mag
+
+알아보기,
+	알/pvg+아/ecx+보/px+기/etn+,/sp
+
+클릭
+	클릭/ncpa
+
+**
+	*/sy+*/sy

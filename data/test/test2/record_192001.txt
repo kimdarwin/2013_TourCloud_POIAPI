@@ -1,0 +1,33 @@
+Date:
+2011.11.12
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/1d035afe26b99c2d1405cd8e77078eb7.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/a755cb6a7b4c017eefd1ec343b54d2f6.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/49635e78d25e4a0606d72775fc3f2d3c.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/53eb4fcb8f98e34a776fdb90539d1aa0.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/277663d3bf3d3b6cf699c3b3478ae70c.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/60aaa6160cf5801a72484337f01d82d1.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/ed45961893dcfb183e02d0faa4337ed1.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/8fb7baad23e2b0850289d0dc56dedade.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/8dcd189062eade5f87354dc1597ea8de.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/0887400301d0efd233c503c8990707d9.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/7725f962d48fe68e73309458ae5821cc.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/153e222fb074fdd5cf0544eb476dd7c4.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/dbb7042e7ac3e7a89c64da0340dfed73.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/6391f7600d1059adbef904f64075d584.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/b9b0dab4e51b1f954121d6e054662993.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/3425accf4f450340be95103fca5df49c.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/a368a163f981e8e16b084454e2507758.jpg');
+list_gallery_add_image(744529,'files/attach/images/228818/001/192/1a56d6339a4913f1528084e424aeedf3.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 11월 12일(토), 고창 문수사와 장성 편백숲에 다녀왔습니다. 오늘은 오랜만에 쾌청한 날씨에 떠난 여행이었습니다. 그렇다보니 막바지 가을 여행을 떠나는 차량들이 많아서 고창에 도착한 시간은 예상보다 좀 늦었습니다. 이번 여행은 고창 문수사 단풍숲을 돌아보고 장성 편백숲을 걷는 여행이었습니다.
+고창은 선운사라는 유명한 사찰이 있습니다. 때문에 문수사는 그 유명세에 가려 잘 알려지지 않았는데 몇 년 전부터 가을 단풍이 입소문을 타면서 이제는 많은 사람들이 찾아가는 여행지가 되었습니다. 그 이유는 수백 그루에 달하는 단풍나무 때문입니다. 어쩌면 우리나라에서 천연기념물로 지정된 단풍나무로는 이곳 문수사가 유일하지 않을까 싶네요. 일주문부터 사찰까지 이르는 길에 단풍이 곱게 물들면 반짝이는 별빛 같은 단풍숲이 아름답기 때문에 금세 입소문을 타게 되었을 것입니다.
+허나 올해 문수사 역시 단풍이 모두 지고 황량하였습니다. 이곳은 같은 고창임에도 불구하고 선운사보다 단풍이 꽤 늦은데 올해는 단풍 시기가 빨라 오히려 일정을 당겼지만 다른 곳과 마찬가지로 야속하게도 단풍이 모두 지고 말았습니다. 하지만 오래된 고목이 내뿜는 포스는 내년을 기약하게 하더군요. 아쉬움은 남지만 내년에 단풍 곱게 물들면 다시 오리라던 말씀들 잊지 않으실거죠?^^
+아쉬움을 뒤로하고 고창읍성 부근으로 이동하여 맛있는 시골 가정식백반으로 식사를 하고 장성 편백숲으로 이동하였습니다. 
+장성 편백숲은 아름다운 여행으로 그간 여러 번 다녀온 곳인데 가을에는 처음 방문이었습니다. 편백나무는 상록수처럼 늘 푸르름을 간직하는 나무라 어느 계절을 막론하고 시원한 숲 산책을 즐기기에 제격입니다. 
+초반 약 30분 가량 오르막을 올라 도착한 故 임종국선생 추모비 이후로는 어렵지 않게 편백숲 산책을 하게 됩니다. 간밤에 비가 내렸던 터라 숲의 공기는 더없이 맑고 상쾌하여 머리가 맑아지는 느낌이더군요.
+오늘 같은 편백숲은 정말이지 하루종일 숲의 기운을 느끼며 여유를 부려보고 싶은 날이었습니다. 편백숲 약 7km를 걸어 도착한 금곡영화마을은 차분한 늦가을이 서서히 내려앉고 있었습니다.
+오늘 문수사 단풍 또한 아쉬움만 가득 남았습니다. 하지만 오래된 고목이 가득한 단풍숲은 언젠가 붉게 단풍 드는 날 꼭 다시 찾아가고픈 곳임에는 틀림 없습니다. 그리고 오늘은 편백숲이 기억에 더 오래 남을 듯합니다. 맑고 상쾌한 공기와 향긋한 편백향…. 조금이나마 여유와 기분 상쾌한 시간이 되셨기를 바라며 내일 하루 잘 쉬시고 새롭게 시작되는 한 주도 활기차게 맞이하시기 바랍니다~이 게시물을...

@@ -1,0 +1,29 @@
+Title:
+6/2 동강 어라연 트레킹 후기
+
+Date:
+2012.06.03
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(880366,'files/attach/images/64/849/222/fb8410a2a12102983a901e0113eda17f.jpg');
+list_gallery_add_image(880366,'files/attach/images/64/849/222/4c39f7018ad6308020afb4f9bc441346.jpg');
+list_gallery_add_image(880366,'files/attach/images/64/849/222/7b17560d16798fd8e6002a9e274bef6f.jpg');
+list_gallery_add_image(880366,'files/attach/images/64/849/222/b9ea82fa729c428e961db6c39fffee59.jpg');
+list_gallery_add_image(880366,'files/attach/images/64/849/222/96f2ff6dbbaee21d142dfaf243c35805.jpg');
+list_gallery_add_image(880366,'files/attach/images/64/849/222/7ff627b8089da003bbcb783943dadf53.jpg');
+list_gallery_add_image(880366,'files/attach/images/64/849/222/2a922cc13e5c313aafd3387c31f86b0e.jpg');
+list_gallery_add_image(880366,'files/attach/images/64/849/222/c6e590132db774efc1046f2c0c48124c.jpg');
+list_gallery_add_image(880366,'files/attach/images/64/849/222/e6c268f3cc0408825937e163af42ced1.jpg');
+list_gallery_add_image(880366,'files/attach/images/64/849/222/aaf0e709d07866e30edeb92d83032798.jpg');
+list_gallery_add_image(880366,'files/attach/images/64/849/222/d9b24a5a8e4f98ee550326911b2d42f4.jpg');
+list_gallery_add_image(880366,'files/attach/images/64/849/222/78cee415697b4df7f4eeee6ea25ca984.jpg');
+list_gallery_add_image(880366,'files/attach/images/64/849/222/06ae8ba67141a4a9d157b57e910f4f04.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+6월 1일(토), 아름다운 여행으로 동강 어라연 걷기를 다녀왔습니다. 동강은 무려 50km에 이르는 긴 구역의 강이지만, 주변의 산세가 험해 접근이 쉽지 않은 곳입니다. 동강의 많은 명소 중 가장 접근이 쉬운 곳이 이번에 다녀온 어라연이 아닌가 싶습니다. 이번 걷기는 거운리의 분교에서 시작해 잣봉에 오른 뒤 어라연으로 내려가 동강을 따라 걸어 출발지인 거운분교로 돌아오는 코스였습니다.
+잣봉까지는 계속 오르막이 이어지지만 능선으로 오르는 가파른 구간을 제외하면 그리 힘든 구간은 없습니다. 오히려 힘든 구간은 잣봉에서 어라연으로 내려가는 길입니다. 처음엔 완만하던 경사가 갈수록 급해져 조심조심 걸음을 내딛어야 하는 길입니다.
+이 날 트레킹은 날씨가 좋아 비교적 쾌적한 트레킹을 즐길 수 있었습니다. 하늘도 깨끗한 편이었고 기온도 그리 높지 않아, 산에서는 시원하기까지 하더군요. 이번 코스에서는 잣봉을 오르는 길에 전망 좋은 능선에서 탁 트인 어라연의 풍광을 본 게 인상적이었습니다. 어라연에서 나오는 강변길은 좀 지루하기도 했지만 여유로운 동강의 풍경을 즐길 수 있던 길이었습니다.
+이번 트레킹은 여행편지의 다른 트레킹보다는 좀 힘든 편이었습니다. 산길을 올랐다 가파른 길을 내려와야 했고, 강변길도 돌이 많은 너덜구간이 있었고 거리도 8km가 넘는 긴 길이었습니다.
+사실 코스가 쉽지 않아 이번 트레킹을 진행하면서 걱정을 꽤 했는데, 트레킹에 참여하신 분들이 모두 거뜬히 걸어 주셨네요. 휴일에 트레킹의 피로 빨리 털어내시고 활기차게 6월을 맞으시기 바랍니다~
+이 게시물을...

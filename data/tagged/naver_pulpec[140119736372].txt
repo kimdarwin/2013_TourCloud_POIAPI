@@ -1,0 +1,715 @@
+추운
+	춥/paa+은/etm
+
+겨울
+	겨울/ncn
+
+뜨끈한
+	뜨끈한/ncn
+
+국물
+	국물/ncn
+
+.
+	./sf
+
+
+그것도
+	그것/npd+도/jxc
+
+소고기
+	소고/ncn+이/jp+기/etn
+
+국밥이
+	국밥/ncn+이/jcc
+
+생각날때
+	생각나/pvg+ㄹ/etm+때/nbn
+
+...
+	.../se
+
+
+찾는
+	찾/pvg+는/etm
+
+집이있습니다
+	집이있습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+부산에서
+	부산/ncps+에서/jca
+
+..
+	./sf+./sf
+
+
+이만한
+	이/nnc+만/nnc+한/nnc
+
+곳은
+	곳/ncn+은/jxc
+
+아무리찾아봐도
+	아무리찾아봐/ncn+도/jxc
+
+없는듯
+	없/paa+는/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+해운대
+	해운/ncn+대/ncn
+
+시장
+	시장/ncn
+
+.
+	./sf
+
+
+스펀지옆에
+	스펀지옆/ncn+에/jca
+
+버스
+	버스/ncn
+
+골목에
+	골목/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+소고기
+	소고/ncn+이/jp+기/etn
+
+국밥
+	국밥/ncn
+
+거리입니다
+	거리/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+전
+	전/nbn
+
+그중
+	그중/mag
+
+'해운대
+	'/sr+해운/ncn+대/ncn
+
+원조
+	원조/ncpa
+
+할매국밥'
+	할매국밥'/ncn
+
+43년
+	43/nnc+년/nbu
+
+전통을
+	전통/ncn+을/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+곳인데
+	곳/ncn+이/jp+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+그러고
+	그러/pvd+어/ef+고/jcr
+
+보니
+	보/px+니/ecs
+
+제가
+	저/npp+가/jcs
+
+아주
+	아주/mag
+
+어릴적에도
+	어리/paa+ㄹ/etm+적/nbn+에/jca+도/jxc
+
+있었던거
+	있었던거/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+..
+	./sf+./sf
+
+
+몰랐는데
+	모르/pvg+아/ep+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+돼지국밥보다
+	돼지/ncn+국밥/ncn+보다/jca
+
+소고기
+	소고/ncn+이/jp+기/etn
+
+국밥이
+	국밥/ncn+이/jcc
+
+쌉니다
+	싸/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+왜
+	왜/mag
+
+일까여
+	일까/ncn+이/jp+어/ecs
+
+..
+	./sf+./sf
+
+
+이동네
+	이/nnc+동/nbu+네/jcm
+
+소고기
+	소고/ncn+이/jp+기/etn
+
+국밥
+	국밥/ncn
+
+얼마전
+	얼마/ncn+전/ncn
+
+??
+	?/sf+?/sf
+
+
+까지만해도
+	까지만해/ncn+도/jxc
+
+2500원
+	2500/nnc+원/nbu
+
+이었는데
+	이/npd+이/jp+었/ep+는데/ecs
+
+3000원으로
+	3000/nnc+원/nbu+으로/jca
+
+가격인상이
+	가격/ncn+인상/ncn+이/jcc
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+부산에
+	부산/ncps+에/jca
+
+평균적인
+	평균/ncpa+적/ncn+이/jp+ㄴ/etm
+
+돼지국밥
+	돼지/ncn+국밥/ncn
+
+가격이
+	가격/ncn+이/jcc
+
+4000원-5000원걸
+	4000원-5000원걸/ncn
+
+생각하면
+	생각/ncpa+하/xsva+면/ecs
+
+
+참
+	참/mag
+
+좋은
+	좋/paa+은/etm
+
+가격입니다
+	가격/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+해운대원조할매국밥
+	해운대원조할매국밥/ncn
+
+
+부산
+	부산/ncps
+
+해운대구
+	해운대구/ncn
+
+우1동
+	우1동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01399631",
+	"bl01399631",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"12941577",
+	"/sl+12941577/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"해운대원조할매국밥",
+	title:"해운대원조할매국밥",/ncn
+
+pointX:505892,pointY:285589}
+	pointX/f+:/sp+505892/nnc+,/sp+pointY/f+:/sp+285589/nnc+}/sr
+
+
+대략
+	대략/mag
+
+어디쯤인지
+	어디/npd+쯤/xsnx+이/jp+ㄴ지/ecs
+
+아시겠나여
+	아시겠나/ncn+이/jp+어/ecs
+
+?
+	?/sf
+
+
+버스
+	버스/ncn
+
+종점들
+	종점/ncn+들/ncn
+
+모여있는
+	모이/pvg+어/ecx+있/px+는/etm
+
+곳이니
+	곳/ncn+이/jp+니/ecs
+
+찾기는
+	찾/pvg+기/etn+는/jxc
+
+쉽습니다
+	쉽/paa+습니다/ef
+
+..
+	./sf+./sf
+
+
+다
+	다/mag
+
+맛집들이겠지만
+	맛집들/ncn+이/jp+겠/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+전
+	전/nbn
+
+이
+	이/mmd
+
+해운대
+	해운/ncn+대/ncn
+
+원조
+	원조/ncpa
+
+할매국밥
+	할매국밥/ncn
+
+집을
+	집/ncn+을/jco
+
+자주
+	자주/mag
+
+갑니다
+	가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+뒤에
+	뒤/ncn+에/jca
+
+노란색
+	노란색/ncn
+
+간판
+	간판/ncn
+
+..
+	./sf+./sf
+
+
+돼지국밥집
+	돼지/ncn+국밥/ncn+집/ncn
+
+간판에
+	간판/ncn+에/jca
+
+4000원
+	4000/nnc+원/nbu
+
+보이져
+	보이져/ncn
+
+.
+	./sf
+
+
+포장이
+	포장/ncpa+이/jcc
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+전
+	전/nbn
+
+주로
+	주로/mag
+
+테이크아웃을해갑니다
+	테이크아웃을해갑니/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+포장은
+	포장/ncpa+은/jxc
+
+그냥
+	그냥/mag
+
+비닐에해주시는데
+	비닐에해주시는데/ncn
+
+터진적은(--;;;;)
+	터진적은(--;;;;)/ncn
+
+아직
+	아직/mag
+
+없습니다
+	없/paa+습니다/ef
+
+.
+	./sf
+
+
+1인분에서
+	1/nnc+이/jp+ㄴ/etm+분/nbn+에서/jca
+
+100인분까지
+	100/nnc+이/jp+ㄴ/etm+분/nbn+까지/jxc
+
+포장
+	포장/ncpa
+
+가능하다고
+	가능/ncps+하/xsms+다/ef+고/jcr
+
+입구에
+	입구/ncn+에/jca
+
+적어놨던데
+	적어놨던데/ncn
+
+..
+	./sf+./sf
+
+
+어떠할런지
+	어떠할런지/ncn
+
+..
+	./sf+./sf
+
+
+100인분
+	100/nnc+이/jp+ㄴ/etm+분/nbn
+
+
+소고기국
+	소고기/ncn+국/ncn
+
+특성상
+	특성상/ncn
+
+..
+	./sf+./sf
+
+
+오래오래
+	오래오래/mag
+
+끓인
+	끓이/pvg+ㄴ/etm
+
+흔적이
+	흔적/ncn+이/jcc
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+포장해주시는
+	포장/ncpa+하/xsva+어/ecx+주/px+시/ep+는/etm
+
+아주머니
+	아주머니/ncn
+
+뒤를
+	뒤/ncn+를/jco
+
+따라가
+	따르/pvg+아/ecx+가/px+아/ecx
+
+고기
+	고/ncn+이/jp+기/etn
+
+많이
+	많/paa+이/xsa
+
+넣어주십사
+	넣어주십사/ncn
+
+말씀
+	말씀/ncpa
+
+드리고
+	드리/pvg+고/ecc
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+한장
+	한/nnc+장/nbu
+
+찍습니다
+	찍/pvg+습니다/ef
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+집으로
+	집/ncn+으로/jca
+
+...
+	.../se
+
+
+이렇게
+	이렇/pad+게/ecs
+
+한솥~
+	한솥/ncn+~/sd
+
+
+10000원어치
+	10000/nnc+원/nbu+어치/xsnu
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+가져와서
+	가/pvg+아/ecx+지/px+어/ecx+오/px+아/ecx
+
+바로
+	바로/mag
+
+먹어도
+	먹/pvg+어도/ecs
+
+맛있고
+	맛있/paa+고/ecc
+
+..
+	./sf+./sf
+
+
+조금
+	조금/mag
+
+나뒀다가
+	나/pvg+아/ecx+두/px+었/ep+다가/ecs
+
+다시
+	다시/mag
+
+한번
+	한/nnc+번/nbu
+
+끓인후
+	끓이/pvg+ㄴ후/ef
+
+먹어도
+	먹/pvg+어도/ecs
+
+맛있습니다
+	맛있/paa+습니다/ef
+
+..
+	./sf+./sf
+
+
+저
+	저/mmd
+
+솥의
+	솥/ncn+의/jcm
+
+용량이
+	용량/ncn+이/jcc
+
+잘
+	잘/mag
+
+모르겠는데
+	모르/pvg+겠/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+며칠은
+	며칠/ncn+은/jxc
+
+소고기국을
+	소고기/ncn+국/ncn+을/jco
+
+맛있게
+	맛있/paa+게/ecs
+
+먹겠군요
+	먹/pvg+겠/ep+군/ef+요/jxf
+
+.
+	./sf
+
+
+오늘
+	오늘/ncn
+
+점심
+	점심/ncn
+
+도시락
+	도시락/ncn
+
+국도
+	국/ncn+도/jxc
+
+소고기
+	소고/ncn+이/jp+기/etn
+
+국을
+	국/ncn+을/jco
+
+싸왔는데
+	쓰/pvg+어/ecx+오/px+아/ep+ㄴ데/ecs
+
+...
+	.../se
+
+
+매일
+	매일/mag
+
+먹어도
+	먹/pvg+어도/ecs
+
+안
+	알/pvg+ㄴ/etm
+
+질릴듯
+	질리/pvg+ㄹ/etm+듯/nbs
+
+하군여~~
+	하군여/ncn+~/sd+~/sd
+
+
+부산엔
+	부산/ncps+엔/jca
+
+돼지국밥도
+	돼지/ncn+국밥/ncn+도/jxc
+
+유명하지만
+	유명/ncps+하/xsms+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+해운대
+	해운/ncn+대/ncn
+
+소고기국밥도
+	소고기/ncn+국밥/ncn+도/jxc
+
+좋답니다~~~~~
+	좋/paa+답니다/ef+~/sd+~/sd+~/sd+~/sd+~/sd

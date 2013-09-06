@@ -1,0 +1,826 @@
+비오는
+	비/paa+오/ef+는/etm
+
+날의
+	날/ncn+의/jcm
+
+수채화
+	수채화/ncn
+
+풍경
+	풍경/ncn
+
+..
+	./sf+./sf
+
+
+창밖에
+	창밖/ncn+에/jca
+
+비가내리면어느새
+	비가내리면어느새/ncn
+
+마음도촉촉히
+	마음도촉촉히/ncn
+
+젖어
+	젖/pvg+어/ecx
+
+듭니다
+	들/pvg+ㅂ니다/ef
+
+
+비가
+	비/ncn+가/jcs
+
+내리는
+	내리/pvg+는/etm
+
+날.
+	날/ncn+./sf
+
+.
+	./sf
+
+
+당신은
+	당신/npp+은/jxc
+
+그
+	그/mmd
+
+어떤
+	어떤/mmd
+
+그리움에
+	그리움/ncn+에/jca
+
+몸살을
+	몸살/ncn+을/jco
+
+앓고
+	앓/pvg+고/ecc
+
+있나요
+	있/px+나/ef+요/jxf
+
+?
+	?/sf
+
+
+비오는
+	비/paa+오/ef+는/etm
+
+날의
+	날/ncn+의/jcm
+
+수채화
+	수채화/ncn
+
+~
+	~/sd
+
+럼블피쉬(Feat.
+	럼블피쉬(Feat./ncn
+
+가비엔제이)
+	가비엔제이)/ncn
+
+고음질
+	고음질/ncn
+
+듣기
+	듣기/ncn
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc25/2011/02/27/227/03100223E136534E1EC3390C73F978F3F46_ya3542_logo.
+	net/blogucc25/2011/02/27/227/03100223E136534E1EC3390C73F978F3F46_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'258.
+	'/sr+258./nnc
+
+329';
+	329/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'6C5313E0A96DCE0DF76DFD7059D390365606';
+	'6C5313E0A96DCE0DF76DFD7059D390365606/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12439c8093831182c93d67f2f9897408c13f62873fc8f60b3237174354a8f8feb5cb67f2f9897408c13f';
+	'V12439c8093831182c93d67f2f9897408c13f62873fc8f60b3237174354a8f8feb5cb67f2f9897408c13f/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_02250
+	ugcPlayer_02250/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_02250'
+	VideoInfraUGCPlayer('ugcPlayer_02250'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_02250
+	ugcPlayer_02250/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+비오는
+	비/paa+오/ef+는/etm
+
+날의
+	날/ncn+의/jcm
+
+수채화
+	수채화/ncn
+
+~
+	~/sd
+
+럼블피쉬
+	럼블피쉬/ncn
+
+(가사)
+	(/sl+가사/ncn+)/sr
+
+
+빗
+	빗/ncn
+
+방울
+	방울/ncn
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+그거리에
+	그거리/ncn+에/jca
+
+서서
+	서/pvg+어서/ecs
+
+그대
+	그대/npp
+
+숨소리
+	숨소리/ncn
+
+살아있는
+	살/pvg+아/ecx+있/px+는/etm
+
+듯
+	듯/nbn
+
+느껴지면깨끗한
+	느껴지면깨끗한/ncn
+
+붓
+	붓/ncn
+
+하나를
+	하나/nnc+를/jco
+
+숨기듯
+	숨/pvg+기/etn+이/jp+듯/ecs
+
+지니고
+	지/nbn+이/jp+니/ef+고/jcr
+
+나와거리에
+	나와/ncn+거리/ncn+에/jca
+
+투명하게
+	투명/ncps+하/xsms+게/ecs
+
+색칠을
+	색칠/ncpa+을/jco
+
+하지음악이
+	하지음악/ncn+이/jcc
+
+흐르는
+	흐르/pvg+는/etm
+
+그
+	그/mmd
+
+카페엔초콜렛
+	카페엔초콜렛/ncn
+
+색
+	색/ncn
+
+물감으로
+	물/pvg+ㄹ/etm+감/nbn+으로/jca
+
+빗
+	빗/ncn
+
+방울
+	방울/ncn
+
+그려진
+	그리/pvg+어/ecx+지/px+ㄴ/etm
+
+가로등
+	가로등/ncn
+
+볼
+	보/pvg+ㄹ/etm
+
+아랜보라
+	아랜보/ncn+이/jp+라/ecs
+
+색
+	색/ncn
+
+물감으로
+	물/pvg+ㄹ/etm+감/nbn+으로/jca
+
+세상
+	세상/ncn
+
+사람
+	사람/ncn
+
+모두
+	모두/mag
+
+다
+	다/mag
+
+도화지
+	도화지/ncn
+
+속에
+	속/ncn+에/jca
+
+그려진
+	그리/pvg+어/ecx+지/px+ㄴ/etm
+
+풍경처럼
+	풍경/ncn+처럼/jca
+
+행복하면
+	행복/ncps+하/xsms+면/ecs
+
+좋겠네
+	좋/paa+겠/ep+네/ef
+
+욕심
+	욕심/ncn
+
+많은
+	많/paa+은/etm
+
+사람들
+	사람들/ncn
+
+얼굴
+	얼굴/ncn
+
+찌푸린
+	찌푸리/pvg+ㄴ/etm
+
+사람들마치
+	사람들/ncn+마치/ncn
+
+그림처럼
+	그리/pvg+ㅁ/etn+처럼/jca
+
+행복하면
+	행복/ncps+하/xsms+면/ecs
+
+좋겠어음악이
+	좋겠어음악/ncn+이/jcc
+
+흐르는
+	흐르/pvg+는/etm
+
+그
+	그/mmd
+
+카페엔초콜렛
+	카페엔초콜렛/ncn
+
+색
+	색/ncn
+
+물감으로
+	물/pvg+ㄹ/etm+감/nbn+으로/jca
+
+빗
+	빗/ncn
+
+방울
+	방울/ncn
+
+그려진
+	그리/pvg+어/ecx+지/px+ㄴ/etm
+
+가로등
+	가로등/ncn
+
+볼
+	보/pvg+ㄹ/etm
+
+아랜보라
+	아랜보/ncn+이/jp+라/ecs
+
+색
+	색/ncn
+
+물감으로
+	물/pvg+ㄹ/etm+감/nbn+으로/jca
+
+세상
+	세상/ncn
+
+사람
+	사람/ncn
+
+모두
+	모두/mag
+
+다
+	다/mag
+
+도화지
+	도화지/ncn
+
+속에
+	속/ncn+에/jca
+
+그려진
+	그리/pvg+어/ecx+지/px+ㄴ/etm
+
+풍경처럼
+	풍경/ncn+처럼/jca
+
+행복하면
+	행복/ncps+하/xsms+면/ecs
+
+좋겠네
+	좋/paa+겠/ep+네/ef
+
+욕심
+	욕심/ncn
+
+많은
+	많/paa+은/etm
+
+사람들
+	사람들/ncn
+
+얼굴
+	얼굴/ncn
+
+찌푸린
+	찌푸리/pvg+ㄴ/etm
+
+사람들마치
+	사람들/ncn+마치/ncn
+
+그림처럼
+	그리/pvg+ㅁ/etn+처럼/jca
+
+행복하면
+	행복/ncps+하/xsms+면/ecs
+
+좋겠어빗
+	좋겠어빗/ncn
+
+방울
+	방울/ncn
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+그
+	그/mmd
+
+거리에
+	거리/ncn+에/jca
+
+서서
+	서/pvg+어서/ecs
+
+그대
+	그대/npp
+
+숨소리
+	숨소리/ncn
+
+살아있는
+	살/pvg+아/ecx+있/px+는/etm
+
+듯
+	듯/nbn
+
+느껴지면
+	느끼/pvg+어/ecx+지/px+면/ecs
+
+깨끗한
+	깨끗/ncps+하/xsms+ㄴ/etm
+
+붓
+	붓/ncn
+
+하나를
+	하나/nnc+를/jco
+
+숨기듯
+	숨/pvg+기/etn+이/jp+듯/ecs
+
+지니고
+	지/nbn+이/jp+니/ef+고/jcr
+
+나와
+	나/npp+와/jct
+
+거리에
+	거리/ncn+에/jca
+
+투명하게
+	투명/ncps+하/xsms+게/ecs
+
+색칠을
+	색칠/ncpa+을/jco
+
+하지
+	하/pvg+지/ecx
+
+
+비오는
+	비/paa+오/ef+는/etm
+
+날의
+	날/ncn+의/jcm
+
+수채화
+	수채화/ncn
+
+~
+	~/sd
+
+럼블피쉬
+	럼블피쉬/ncn
+
+(최진이)
+	(최진/ncn+이/jcc+)/sr
+
+
+비가
+	비/ncn+가/jcs
+
+내리는
+	내리/pvg+는/etm
+
+날~
+	날/ncn+~/sd
+
+손을
+	손/ncn+을/jco
+
+내밀면
+	내밀/pvg+면/ecs
+
+내
+	내/npp
+
+마음의
+	마음/ncn+의/jcm
+
+작은설레임
+	작은설레/ncn+이/jp+ㅁ/etn
+
+하나
+	하나/nnc
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+잡힐
+	잡히/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같은
+	같/paa+은/etm
+
+..
+	./sf+./sf
+
+
+by
+	by/f
+
+민초호야의
+	민초호야/ncn+의/jcm
+
+음악산책
+	음악/ncn+산책/ncpa
+
+
+비오는
+	비/paa+오/ef+는/etm
+
+날의
+	날/ncn+의/jcm
+
+수채화
+	수채화/ncn
+
+~
+	~/sd
+
+럼블피쉬(Feat.
+	럼블피쉬(Feat./ncn
+
+가비엔제이)
+	가비엔제/ncn+이/jcc+)/sr

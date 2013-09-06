@@ -1,0 +1,1355 @@
+/오사카여행/칸사이국제공항/일본자유여행/일본기차여행/간사이공항/라피트고속열차/그
+	/오사카여행/칸사이국제공항/일본자유여행/일본기차여행/간사이공항/라피트고속열차/그/ncn
+
+나라
+	나/npp+이/jp+라/ecs
+
+여행의
+	여행/ncpa+의/jcm
+
+시작은
+	시작/ncpa+은/jxc
+
+공항에서
+	공항/ncn+에서/jca
+
+시작된다
+	시작/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+그렇기에
+	그렇/pad+기/etn+에/jca
+
+그
+	그/mmd
+
+도시의
+	도시/ncn+의/jcm
+
+이미지나
+	이미지/ncn+나/jcj
+
+심지어
+	심지어/mag
+
+그
+	그/mmd
+
+나라의
+	나라/ncn+의/jcm
+
+이미지가
+	이미지/ncn+가/jcs
+
+공항에
+	공항/ncn+에/jca
+
+첫발을
+	첫/nno+발/nbu+을/jco
+
+내딛으면서
+	내딛/pvg+으면서/ecc
+
+그려지기
+	그리/pvg+어/ecx+지/px+기/etn
+
+시작하는
+	시작/ncpa+하/xsva+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+그림에는
+	그리/pvg+ㅁ/etn+에/jca+는/jxc
+
+그
+	그/mmd
+
+나라의
+	나라/ncn+의/jcm
+
+날씨도
+	날씨/ncn+도/jxc
+
+들어가고,
+	들/pvg+어/ecx+가/px+고/ecc+,/sp
+
+승무원의
+	승무/ncn+원/ncn+의/jcm
+
+미소,
+	미소/ncn+,/sp
+
+공항
+	공항/ncn
+
+근무자들의
+	근무자/ncn+들/ncn+의/jcm
+
+정갈한
+	정갈/ncps+하/xsms+ㄴ/etm
+
+유니폼,
+	유니폼/ncn+,/sp
+
+공항의
+	공항/ncn+의/jcm
+
+조명
+	조/nnc+명/nbu
+
+등
+	등/nbu
+
+여러
+	여러/mma
+
+가지가
+	가지/nbu+가/jcc
+
+배치되는데,
+	배치/ncpa+되/xsvn+ㄴ데/ecs+,/sp
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+만나본
+	만나/pvg+아/ecx+보/px+ㄴ/etm
+
+칸사이(간사이)
+	칸사이(간사이)/ncn
+
+국제
+	국제/ncn
+
+공항의
+	공항/ncn+의/jcm
+
+그림은
+	그리/pvg+ㅁ/etn+은/jxc
+
+심신이
+	심신/ncn+이/jcc
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+풍경
+	풍경/ncn
+
+같은
+	같/paa+은/etm
+
+그림이었다
+	그림/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+세계적으로
+	세계/ncn+적/ncn+으로/jca
+
+유명하다는
+	유명/ncps+하/xsms+다/ef+는/etm
+
+건축디자이너가
+	건축/ncpa+디자이너/ncn+가/jcs
+
+설계한
+	설계/ncpa+하/xsva+ㄴ/etm
+
+공항답게
+	공항/ncn+답/ncn+게/jca
+
+공항을
+	공항/ncn+을/jco
+
+둘러보느라
+	두르/pvg+어/ecx+보/px+느라/ecs
+
+뒷목이
+	뒷목/ncn+이/jcc
+
+뻐근할
+	뻐근/ncps+하/xsms+ㄹ/etm
+
+정도였다
+	정도/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+입국장에서
+	입국/ncpa+장/ncn+에서/jca
+
+그리
+	그리/mad
+
+멀지
+	멀/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+곳에
+	곳/nbn+에/jca
+
+관광안내소가
+	관광안내소/ncn+가/jcs
+
+있어서
+	있/px+어서/ecs
+
+칸사이
+	칸사/ncn+이/jcc
+
+지역에
+	지역/ncn+에/jca
+
+관한
+	관하/pvg+ㄴ/etm
+
+정보를
+	정보/ncn+를/jco
+
+쉽게
+	쉽/paa+게/ecs
+
+얻을
+	얻/pvg+을/etm
+
+수
+	수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+그렇게
+	그렇/pad+게/ecs
+
+가고
+	가/px+고/ecc
+
+싶어하는
+	싶/px+어/ecx+하/px+는/etm
+
+시코쿠
+	시코쿠/ncn
+
+섬들에
+	섬/ncn+들/xsncc+에/jca
+
+있는
+	있/px+는/etm
+
+도시들도
+	도시/ncn+들/ncn+도/jxc
+
+부스
+	부스/ncn
+
+한
+	한/nnc
+
+켠에
+	켠/nbn+에/jca
+
+자리했다
+	자리했다/ncn
+
+.
+	./sf
+
+
+토쿠시마
+	토쿠시마/ncn
+
+부스
+	부스/ncn
+
+앞에서
+	앞/ncn+에서/jca
+
+약속했다
+	약속/ncpa+하/xsva+었/ep+다/ef
+
+"꼭
+	"/sl+꼭/mag
+
+시코쿠
+	시코쿠/ncn
+
+섬에
+	서/pvg+ㅁ/etn+에/jca
+
+가서
+	가/pvg+서/ecs
+
+진정한
+	진정/ncn+한/ncn
+
+일본
+	일/nnc+본/nbu
+
+우동을
+	우동/ncn+을/jco
+
+맛보겠다"고
+	맛보/pvg+겠/ep+다/ef+"/sr+고/jcr
+
+...
+	.../se
+
+
+너무
+	너무/mag
+
+짧게
+	짧/paa+게/ecs
+
+머물러서
+	머무르/pvg+어서/ecs
+
+공항에
+	공항/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+기억도
+	기억/nnc+도/jxc
+
+짧지만,
+	짧/paa+지/ecx+말/px+ㄴ/etm+,/sp
+
+나중에
+	나중/ncn+에/jca
+
+여유있게
+	여유/ncn+있/xsmn+게/ecs
+
+온다면
+	오/px+ㄴ다면/ecs
+
+공항
+	공항/ncn
+
+전망대에도
+	전망대/ncn+에/jca+도/jxc
+
+올라보고
+	오르/pvg+아/ecx+보/px+고/ecc
+
+공항
+	공항/ncn
+
+곳곳에
+	곳곳/ncn+에/jca
+
+숨어있는
+	숨/pvg+어/ecx+있/px+는/etm
+
+편의시설들도
+	편의시설/ncpa+들/ncn+도/jxc
+
+찾아다녀봐야지
+	찾아다니/pvg+어/ecx+보/px+아/ecs
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+#
+	#/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+공항은
+	공항/ncn+은/jxc
+
+시내에서
+	시내/ncn+에서/jca
+
+멀지
+	멀/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+곳에
+	곳/nbn+에/jca
+
+이타미
+	이타미/ncn
+
+공항(ITM)이라고
+	공항(ITM)/ncn+이/jp+라/ef+고/jcr
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+출국장
+	출국/ncpa+장/ncn
+
+밤
+	밤/ncn
+
+풍경
+	풍경/ncn
+
+회색
+	회색/ncn
+
+바탕에
+	바탕/ncn+에/jca
+
+녹색
+	녹색/ncn
+
+의자들이
+	의자/ncn+들/ncn+이/jcc
+
+일렬로
+	일렬/ncn+로/jca
+
+가지런히
+	가지런히/mag
+
+자리하고,
+	자리/ncn+하고/jct+,/sp
+
+회색
+	회색/ncn
+
+바탕에
+	바탕/ncn+에/jca
+
+빨간
+	빨갛/paa+은/etm
+
+모노레일이
+	모노/ncn+레일/ncn+이/jcc
+
+정차해있고
+	정차/ncpa+하/xsva+어/ecx+있/px+고/ecc
+
+회색
+	회색/ncn
+
+바탕에
+	바탕/ncn+에/jca
+
+파란색
+	파란색/ncn
+
+카트가
+	카트/ncn+가/jcs
+
+일렬로
+	일렬/ncn+로/jca
+
+서
+	서/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+일본
+	일/nnc+본/nbu
+
+면세점에는
+	면세점/ncn+에/jca+는/jxc
+
+살거리가
+	사/pvg+ㄹ/etm+거리/nbn+가/jcc
+
+정말
+	정말/mag
+
+많았답니다
+	많/paa+아/ep+답니다/ef
+
+.
+	./sf
+
+
+칸사이(간사이)공항
+	칸사이(간사이)공항/ncn
+
+입국장에
+	입국/ncpa+장/ncn+에/jca
+
+환영
+	환영/ncpa
+
+메세지
+	메세지/ncn
+
+.
+	./sf
+
+
+인천
+	인천/ncn
+
+공항에도
+	공항/ncn+에/jca+도/jxc
+
+전자식
+	전자식/ncn
+
+웰컴
+	웰컴/ncn
+
+보드를
+	보드/ncn+를/jco
+
+설치하면
+	설치/ncpa+하/xsva+면/ecs
+
+어떨지
+	어떨지/ncn
+
+...
+	.../se
+
+
+유수의
+	유수/ncn+의/jcm
+
+건축
+	것/nbn+이/jp+ㄴ/etm+축/nbn
+
+디자이너가
+	디자이너/ncn+가/jcs
+
+프랑스
+	프랑스/ncn
+
+뽕삐두
+	뽕삐두/ncn
+
+문화
+	문화/ncn
+
+센터를
+	센터/ncn+를/jco
+
+기본으로
+	기본/ncn+으로/jca
+
+만들었다는
+	만들/pvg+었/ep+다/ef+는/etm
+
+칸사이
+	칸사/ncn+이/jcc
+
+국제
+	국제/ncn
+
+공항
+	공항/ncn
+
+인천
+	인천/ncn
+
+공항에도
+	공항/ncn+에/jca+도/jxc
+
+한국
+	한국/ncn
+
+지자체
+	지자체/ncn
+
+홍보물
+	홍보물/ncn
+
+부스를
+	부스/ncn+를/jco
+
+운영하면
+	운영/ncpa+하/xsva+면/ecs
+
+좋겠다
+	좋/paa+겠/ep+다/ef
+
+.
+	./sf
+
+
+입국장에서
+	입국/ncpa+장/ncn+에서/jca
+
+멀지
+	멀/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+곳에
+	곳/nbn+에/jca
+
+보물
+	보물/ncn
+
+창고가
+	창고/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+한국어로
+	한국어/ncn+로/jca
+
+된
+	되/pvg+ㄴ/etm
+
+각종
+	각종/ncn
+
+팜플렛이
+	팜플렛/ncn+이/jcc
+
+여행자를
+	여행자/ncn+를/jco
+
+기다린다
+	기다리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+킥스
+	킥스/ncn
+
+마스
+	마스/ncn
+
+!
+	!/sf
+
+
+우리를
+	우리/npp+를/jco
+
+마중
+	마중/ncpa
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+칸사이
+	칸사/ncn+이/jcc
+
+공항
+	공항/ncn
+
+직원에게
+	직원/ncn+에게/jca
+
+센스있는
+	센스/ncn+있/xsmn+는/etm
+
+문구라고
+	문구/ncn+이/jp+라/ef+고/jcr
+
+찬사를
+	찬사/ncn+를/jco
+
+아끼지
+	아끼/pvg+지/ecx
+
+않았다
+	않/px+아/ep+다/ef
+
+.
+	./sf
+
+
+경주에서
+	경주/ncpa+에서/jca
+
+떠나
+	떠나/pvg+아/ecx
+
+보낸
+	보내/pvg+ㄴ/etm
+
+가을을
+	가을/ncn+을/jco
+
+칸사이
+	칸사/ncn+이/jcc
+
+공항에서
+	공항/ncn+에서/jca
+
+다시
+	다시/mag
+
+만난다
+	만나/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+공항
+	공항/ncn
+
+구경을
+	구경/ncn+을/jco
+
+마치고
+	마치/pvg+고/ecc
+
+오사카로
+	오사/ncn+카/ncn+로/jca
+
+갈
+	가/pvg+ㄹ/etm
+
+시간,
+	시간/nbu+,/sp
+
+라피트
+	라피트/ncn
+
+고속
+	고속/ncn
+
+열차를
+	열차/ncn+를/jco
+
+이용해서
+	이용/ncpa+하/xsva+어서/ecs
+
+이동이다
+	이/nnc+동/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+라피트
+	라피트/ncn
+
+열차는
+	열차/ncn+는/jxc
+
+표가
+	표/ncn+가/jcs
+
+두
+	두/nnc
+
+장
+	장/nbu
+
+나오는데,
+	나/pvg+아/ecx+오/px+ㄴ데/ecs+,/sp
+
+한
+	하/pvg+ㄴ/etm
+
+장은
+	장/nbu+은/jxc
+
+개찰구
+	개찰구/ncn
+
+통과표이고,
+	통과/ncpa+표/ncn+이/jp+고/ecc+,/sp
+
+다른
+	다른/mma
+
+한
+	한/nnc
+
+장은
+	장/nbu+은/jxc
+
+좌석표라피트
+	좌석표라피트/ncn
+
+티켓
+	티켓/ncn
+
+스페셜
+	스페셜/ncn
+
+프라이스http://www.
+	프라이스http://www./ncn
+
+nankai.
+	nankai/f+./sy
+
+co.
+	co/f+./sy
+
+jp/global/korean/traffic/ticket/rapit/index.
+	jp/f+//sp+global/f+//sp+korean/f+//sp+traffic/f+//sp+ticket/f+//sp+rapit/f+//sp+index/f+./sy
+
+html
+	html/f
+
+육중한
+	육중/ncps+하/xsms+ㄴ/etm
+
+몸매를
+	몸매/ncn+를/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+라피트
+	라피트/ncn
+
+열차
+	열/nnc+차/nbu
+
+.
+	./sf
+
+
+여유있게
+	여유/ncn+있/xsmn+게/ecs
+
+출발
+	출발/ncpa
+
+시간
+	시간/nbu
+
+전에
+	전/nbn+에/jca
+
+와서
+	오/px+아/ecs
+
+사진을
+	사진/ncn+을/jco
+
+담아보자
+	담/pvg+아/ecx+보/px+자/ecc
+
+비행기
+	비행기/ncn
+
+유리창이
+	유리/ncn+창/ncn+이/jcc
+
+연상되는
+	연상/ncpa+되/xsvn+는/etm
+
+라피트
+	라피트/ncn
+
+열차의
+	열차/ncn+의/jcm
+
+유리창
+	유리/ncn+창/ncn
+
+문도
+	문/ncn+도/jxc
+
+창문도
+	창문/ncn+도/jxc
+
+실내도
+	실내/ncn+도/jxc
+
+계란형이다
+	계란/ncn+형/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+열대의
+	열/nnc+대/nbu+의/jcm
+
+카메라
+	카메라/ncn
+
+앞에
+	앞/ncn+에/jca
+
+당황하면서
+	당황/ncpa+하/xsva+면서/ecc
+
+미소를
+	미소/ncn+를/jco
+
+잃지
+	잃/pvg+지/ecx
+
+않았던
+	않/px+아/ep+ㄴ/etm
+
+승무원
+	승무/ncn+원/ncn
+
+간사이
+	간사/ncr+이/jcc
+
+국제
+	국제/ncn
+
+공항에
+	공항/ncn+에/jca
+
+근무하는
+	근무/ncpa+하/xsva+는/etm
+
+분들인데주말을
+	분들인데주말/ncn+을/jco
+
+반납하고
+	반납/ncpa+하고/jct
+
+우리와
+	우리/npp+와/jct
+
+함께했다
+	함께하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+여러분~~~
+	여러/nnc+분/nbu+~/sd+~/sd+~/sd
+
+미리
+	미리/mag
+
+...
+	.../se
+
+
+메리
+	메/ncn+이/jp+리/ef
+
+크리스마스
+	크리스마스/ncn
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+오사카
+	오사/ncn+카/ncn
+
+출장
+	출장/ncpa
+
+티켓
+	티켓/ncn
+
+/난카이
+	/난카/ncn+이/jcc
+
+라피트
+	라피트/ncn
+
+익스프레스http://www.
+	익스프레스http://www./ncn
+
+nankai.
+	nankai/f+./sy
+
+co.
+	co/f+./sy
+
+jp/global/korean/index.
+	jp/f+//sp+global/f+//sp+korean/f+//sp+index/f+./sy
+
+html칸사이
+	html칸사/ncn+이/jcc
+
+공항과
+	공항/ncn+과/jcj
+
+오사카
+	오사/ncn+카/ncn
+
+시내의
+	시내/ncn+의/jcm
+
+이동을
+	이/nnc+동/nbu+을/jco
+
+편리하게
+	편리/ncps+하/xsms+게/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+승차권특급
+	승차권/ncn+특급/ncn
+
+라피트
+	라피트/ncn
+
+편도
+	편/nbn+도/jxc
+
+승차권에
+	승차권/ncn+에/jca
+
+오사카
+	오사/ncn+카/ncn
+
+시영
+	시영/ncn
+
+지하철/트램/버스
+	지하철/트램/버스/ncn
+
+전
+	전/nbn
+
+노선
+	노선/ncn
+
+1일
+	1/nnc+이/jp+ㄹ/etm
+
+자유승차권이
+	자유/ncn+승차권/ncn+이/jcc
+
+포함
+	포함/ncpa
+
+.
+	./sf
+
+
+어른
+	어른/ncn
+
+1,500엔
+	1,500/nnc+엔/nbu
+
+(개별
+	(/sl+개별/ncn
+
+구매시
+	구매/ncpa+시/ncn
+
+보다
+	보다/mag
+
+740엔
+	740/nnc+엔/nbu
+
+절약)발매기간
+	절약/ncpa+)/sr+발매/ncpa+기간/ncn
+
+:
+	:/sp
+
+2011년
+	2011/nnc+년/nbu
+
+3월
+	3/nnc+월/nbu
+
+1일
+	1/nnc+일/nbu
+
+~
+	~/sd
+
+2012년
+	2012/nnc+년/nbu
+
+3월
+	3/nnc+월/nbu
+
+31일유효기간
+	31일유효기간/ncn
+
+:
+	:/sp
+
+승차일
+	승차/ncpa+이/jp+ㄹ/etm
+
+당일에
+	당일/ncn+에/jca
+
+한해
+	한/nnc+해/nbu
+
+유효발매가격
+	유효/ncn+발매가/ncn+격/ncn
+
+:
+	:/sp
+
+1,500엔
+	1,500/nnc+엔/nbu
+
+(어린이권은
+	(/sl+어린이/ncn+권/ncn+은/jxc
+
+없음)
+	없/paa+음/etn+)/sr
+
+칸사이
+	칸사/ncn+이/jcc
+
+쓰루패스http://www.
+	쓰루패스http://www./ncn
+
+surutto.
+	surutto/f+./sy
+
+com/conts/ticket/3daykr/index.
+	com/conts/ticket/3daykr/index./ncn
+
+html2일권과
+	html2일권/ncn+과/jcj
+
+3일권이
+	3/nnc+일/nnc+권/nbu+이/jcc
+
+있음,
+	있/px+음/etn+,/sp
+
+자세한
+	자세/ncn+한/ncn
+
+내용은
+	내용/ncn+은/jxc
+
+사이트
+	사이트/ncn
+
+참고
+	참/pvg+고/ecc
+
+.
+	./sf
+
+
+칸사이
+	칸사/ncn+이/jcc
+
+국제공항http://www.
+	국제공항http://www./ncn
+
+kansai-airport.
+	kansai/f+-/sd+airport/f+./sy
+
+or.
+	or/f+./sy
+
+jp/kr/
+	jp/f+//sp+kr/f+//sp
+
+
+칸사이
+	칸사/ncn+이/jcc
+
+공항(KIX)에서
+	공항(KIX)/ncn+에서/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+비행기들네덜란드
+	비행기들네덜란드/ncn
+
+가는
+	가/pvg+는/etm
+
+KLM과
+	KLM/f+과/jcj
+
+뉴칼레도니아
+	뉴칼레도니아/ncn
+
+가는
+	가/pvg+는/etm
+
+AIR
+	AIR/f
+
+CALIN베트남
+	CALIN베트남/ncn
+
+항공이
+	항공/ncn+이/jcc
+
+두
+	두/nnc
+
+대
+	대/nbu
+
+있는
+	있/px+는/etm
+
+걸로
+	걸/ncn+로/jca
+
+봐서
+	보/pvg+아/ecx
+
+호치민과
+	호치민/ncn+과/jcj
+
+하노이행
+	하노이행/ncn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+남반구에서
+	남반구/ncn+에서/jca
+
+9시간을
+	9/nnc+시간/nbu+을/jco
+
+날아온
+	날/pvg+아/ecx+오/px+ㄴ/etm
+
+에어
+	에어/ncn
+
+뉴질랜드
+	뉴질랜드/ncn
+
+.
+	./sf
+
+
+2010년
+	2010/nnc+년/nbu
+
+뉴질랜드
+	뉴질랜드/ncn
+
+여행이
+	여행/ncpa+이/jcc
+
+생각난다
+	생각나/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+뒤에
+	뒤/ncn+에/jca
+
+필리핀항공
+	필리핀항공/ncn
+
+꼬리가
+	꼬리/ncn+가/jcs
+
+살짝
+	살짝/mag
+
+보이는군
+	보이/pvg+는군/ef
+
+.
+	./sf
+
+
+JAL
+	JAL/f
+
+꼬리
+	꼬리/ncn
+
+동체에
+	동체/ncn+에/jca
+
+그려진
+	그리/pvg+어/ecx+지/px+ㄴ/etm
+
+빨간
+	빨갛/paa+은/etm
+
+색은
+	색/ncn+은/jxc
+
+태양의
+	태양/ncn+의/jcm
+
+일부ANA의
+	일부ANA/ncn+의/jcm
+
+저비용항공사인
+	저비용항공사/ncn+이/jp+ㄴ/etm
+
+PEACH.
+	PEACH/f+./sy
+
+국내선
+	국내/ncn+선/ncn
+
+전용이다
+	전용/ncpa+이/jp+다/ef
+
+.
+	./sf

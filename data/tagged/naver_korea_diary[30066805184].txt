@@ -1,0 +1,215 @@
+한려수도
+	한려수/ncn+도/jxc
+
+조망
+	조망/ncn
+
+케이블카
+	케이블카/ncn
+
+
+-
+	-/sd
+
+경남
+	경남/ncn
+
+통영시
+	통영시/ncn
+
+도남동
+	도남동/ncn
+
+-
+	-/sd
+
+
+우리나라
+	우리나라/ncn
+
+100대
+	100/nnc+대/nbu
+
+명산인
+	명산/ncn+이/jp+ㄴ/etm
+
+미륵산에
+	미륵산/ncn+에/jca
+
+설치된
+	설치/ncpa+되/xsvn+ㄴ/etm
+
+한려수도
+	한려수/ncn+도/jxc
+
+조망
+	조망/ncn
+
+케이블카는
+	케이블카/ncn+는/jxc
+
+국내
+	국내/ncn
+
+최초
+	최초/ncn
+
+자동순환식
+	자동/ncn+순환/ncpa+식/ncn
+
+bi-cable
+	bi/f+-/sd+cable/f
+
+형식,
+	형식/ncn+,/sp
+
+국내
+	국내/ncn
+
+최장(1,975m)의
+	최장(1,975m)/ncn+의/jcm
+
+관광용
+	관광용/ncn
+
+케이블카이다
+	케이블카/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+평균속도
+	평균속도/ncn
+
+1초당
+	1/nnc+초/nbu+당/xsnu
+
+4m로
+	4m/ncn+로/jca
+
+상부역사까지
+	상부/ncn+역사/ncn+까지/jxc
+
+약
+	약/ncn
+
+9분이
+	9/nnc+분/nbu+이/jcc
+
+소요될
+	소요/ncpa+되/xsvn+ㄹ/etm
+
+예정이며
+	예정/ncn+이/jp+며/ecc
+
+승객용
+	승객/ncn+용/ncn
+
+곤돌라
+	곤돌라/ncpa
+
+47기,
+	47/nnc+기/nbu+,/sp
+
+화물용
+	화물/ncn+용/ncn
+
+1기
+	1/nnc+기/nbu
+
+등
+	등/nbu
+
+48개의
+	48/nnc+개/nbu+의/jcm
+
+곤돌라가
+	곤돌라/ncpa+가/jcc
+
+순환하게
+	순환/ncpa+하/xsva+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+미륵산
+	미륵산/ncn
+
+정상에
+	정상/ncn+에/jca
+
+오르면
+	오르/pvg+면/ecs
+
+한산대첩의
+	한산대첩/ncn+의/jcm
+
+역사적인
+	역사/ncn+적/ncn+이/jp+ㄴ/etm
+
+현장과
+	현장/ncn+과/jcj
+
+한산도에서
+	한산도/ncn+에서/jca
+
+여수까지
+	여수/ncn+까지/jxc
+
+300리
+	300/nnc+리/nbu
+
+한려해상국립공원,
+	한려해상국립공원,/ncn
+
+일본
+	일/nnc+본/nbu
+
+대마도,
+	대마/ncn+도/jxc+,/sp
+
+지리산
+	지리/ncn+산/ncn
+
+천왕봉,
+	천왕/ncn+봉/ncn+,/sp
+
+여수
+	여수/ncn
+
+돌산도까지
+	돌산/ncn+도/jxc+까지/jxc
+
+조망이
+	조망/ncn+이/jcc
+
+가능하다
+	가능/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+한려수도
+	한려수/ncn+도/jxc
+
+조망케이블카
+	조망/ncn+케이블카/ncn
+
+
+관광
+	관광/ncpa
+
+db
+	db/f
+
+자세히
+	자세히/mag
+
+보기
+	보기/ncn

@@ -1,0 +1,2689 @@
+Mercy
+	Mercy/f
+
+..
+	./sf+./sf
+
+
+투박하게
+	투박/ncps+하/xsms+게/ecs
+
+감성을
+	감성/ncn+을/jco
+
+자극하며
+	자극/ncpa+하/xsva+며/ecc
+
+흥겨움을
+	흥겹/paa+음/etn+을/jco
+
+자아낸다
+	자/pvg+아/ecx+내/px+ㄴ다/ef
+
+
+Mercy
+	Mercy/f
+
+(Duffy)
+	(/sl+Duffy/f+)/sr
+
+..
+	./sf+./sf
+
+
+는바다의
+	는바다/ncn+의/jcm
+
+고래도
+	고래/ncn+도/jxc
+
+춤추게
+	춤추/pvg+게/ecs
+
+한다고
+	하/px+ㄴ다/ef+고/jcr
+
+할
+	하/pvg+ㄹ/etm
+
+만큼
+	만큼/nbn
+
+경쾌하다
+	경쾌/ncps+하/xsms+다/ef
+
+
+현란한
+	현란/ncn+한/ncn
+
+디지털
+	디지털/ncn
+
+음악
+	음악/ncn
+
+보다좋은'더피'의
+	보다좋은'더피'/ncn+의/jcm
+
+60~70년대
+	60/nnc+~/sd+70/nnc+년대/nbu
+
+빈티지
+	빈티지/ncn
+
+솔
+	솔/ncn
+
+음악
+	음악/ncn
+
+
+머시(Mercy)는
+	머시(Mercy)/ncn+는/jxc
+
+남자의
+	남자/ncn+의/jcm
+
+자격에서
+	자격/ncn+에서/jca
+
+'신보경(보니)이맛깔스럽게
+	'신보경(보니)이맛깔스럽/ncn+게/jca
+
+불렀던
+	부르/pvg+었/ep+던/etm
+
+곡
+	곡/nbu
+
+
+더피(Duffy)와
+	더피(Duffy)/ncn+와/jcj
+
+신보경(보니)이
+	신보경(보니)/ncn+이/jcc
+
+부른
+	부르/pvg+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+머시(Mercy)의
+	머시(Mercy)/ncn+의/jcm
+
+세계로
+	세계/ncn+로/jca
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+보자
+	보/nbu+이/jp+자/ecc
+
+
+Mercy
+	Mercy/f
+
+~
+	~/sd
+
+Duffy(더피)
+	Duffy(더피)/ncn
+
+(라이브
+	(/sl+라이브/ncn
+
+동영상)
+	동영상/ncn+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc24/2011/01/15/1610/03100223D148537E8EC3190C23009433FC2_ya3542_logo.
+	net/blogucc24/2011/01/15/1610/03100223D148537E8EC3190C23009433FC2_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'257.
+	'/sr+257./nnc
+
+18';
+	18/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'9918DF06ED7CA0EC61448BCD56F24A4E0B38';
+	'9918DF06ED7CA0EC61448BCD56F24A4E0B38/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1292c72cf0aa03fed97762259bf6a1728e8aef6bb44d0bfd7402a9ab0f945c59d3f562259bf6a1728e8a';
+	'V1292c72cf0aa03fed97762259bf6a1728e8aef6bb44d0bfd7402a9ab0f945c59d3f562259bf6a1728e8a/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_07744
+	ugcPlayer_07744/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_07744'
+	VideoInfraUGCPlayer('ugcPlayer_07744'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_07744
+	ugcPlayer_07744/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+남자의
+	남자/ncn+의/jcm
+
+자격에서
+	자격/ncn+에서/jca
+
+신보경이
+	신보경/ncn+이/jcc
+
+부른
+	부르/pvg+ㄴ/etm
+
+"Mercy"
+	"/sl+Mercy/f+"/sl
+
+너무
+	너무/mag
+
+멋지게
+	멋지/paa+게/ecs
+
+..
+	./sf+./sf
+
+
+그것도
+	그것/npd+도/jxc
+
+생
+	생/ncn
+
+라이브로
+	라이브/ncn+로/jca
+
+..
+	./sf+./sf
+
+
+Mercy
+	Mercy/f
+
+~신보경(보니)
+	~신보경(보니)/ncn
+
+/
+	//sp
+
+라이브
+	라이브/ncn
+
+동영상)
+	동영상/ncn+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc24/2011/01/15/868/03100223D148537E8DC3F92073233443744_ya3542_logo.
+	net/blogucc24/2011/01/15/868/03100223D148537E8DC3F92073233443744_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'200.
+	'/sr+200./nnc
+
+639';
+	639/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'F1E67BD8E7C875C24A26343B1734C0A7D68A';
+	'F1E67BD8E7C875C24A26343B1734C0A7D68A/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12170265fb2a4962cf4ef0318ebbfd821ee8bf93c29a7a7129c869e6aadeee8cd789f0318ebbfd821ee8';
+	'V12170265fb2a4962cf4ef0318ebbfd821ee8bf93c29a7a7129c869e6aadeee8cd789f0318ebbfd821ee8/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_02932
+	ugcPlayer_02932/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_02932'
+	VideoInfraUGCPlayer('ugcPlayer_02932'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_02932
+	ugcPlayer_02932/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+Duffy(더피)
+	Duffy(더피)/ncn
+
+~
+	~/sd
+
+Mercy
+	Mercy/f
+
+(뮤직비디오)
+	(/sl+뮤직비디오/ncn+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc24/2011/01/15/9/03100223D148537E7EC3399073594D63E09_ya3542_logo.
+	net/blogucc24/2011/01/15/9/03100223D148537E7EC3399073594D63E09_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'220.
+	'/sr+220./nnc
+
+59';
+	59/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'35CD1B4A62586A3846F27B8C7ED36218FD3A';
+	'35CD1B4A62586A3846F27B8C7ED36218FD3A/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V125634af069d7bd690793e18cecaae499f65b7dd9d518c5d19b318639d9440989ed53e18cecaae499f65';
+	'V125634af069d7bd690793e18cecaae499f65b7dd9d518c5d19b318639d9440989ed53e18cecaae499f65/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_04302
+	ugcPlayer_04302/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_04302'
+	VideoInfraUGCPlayer('ugcPlayer_04302'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_04302
+	ugcPlayer_04302/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+Duffy(더피)
+	Duffy(더피)/ncn
+
+~
+	~/sd
+
+Mercy
+	Mercy/f
+
+(가사)
+	(/sl+가사/ncn+)/sr
+
+
+Yeah,
+	Yeah/f+,/sp
+
+yeah,
+	yeah/f+,/sp
+
+yeah
+	yeah/f
+
+(4x)
+	(4x)/ncn
+
+I
+	I/f
+
+love
+	love/f
+
+you
+	you/f
+
+사랑해요But
+	사랑해요But/ncn
+
+I
+	I/f
+
+gotta
+	gotta/f
+
+stay
+	stay/f
+
+true
+	true/f
+
+
+그러나,
+	그러/pvd+어/ecx+나/px+아/ecs+,/sp
+
+난
+	나/px+ㄴ/etm
+
+사실
+	사실/ncn
+
+기다리고
+	기다리/pvg+고/ecc
+
+있어요My
+	있어요My/ncn
+
+moral's
+	moral/f+'/sr+s/f
+
+got
+	got/f
+
+me
+	me/f
+
+on
+	on/f
+
+my
+	my/f
+
+knees
+	knees/f
+
+
+내가
+	나/npp+가/jcs
+
+알려주죠,
+	알리/pvg+어/ecx+주/px+죠/ef+,/sp
+
+무릎을
+	무릎/ncn+을/jco
+
+꿇고
+	꿇/pvg+고/ecc
+
+날
+	나/px+ㄹ/etm
+
+잡아요I'm
+	잡아요I'm/ncn
+
+begging
+	begging/f
+
+please
+	please/f
+
+내가
+	나/npp+가/jcs
+
+이렇게
+	이렇/pad+게/ecs
+
+청하고
+	청하/pvg+고/ecc
+
+있잖아요Stop
+	있잖아요Stop/ncn
+
+playing
+	playing/f
+
+games
+	games/f
+
+이
+	이/mmd
+
+게임을
+	게임/ncn+을/jco
+
+멈추지
+	멈추/pvg+지/ecx
+
+말아요
+	말/pvg+아요/ef
+
+
+I
+	I/f
+
+don't
+	don/f+'/sr+t/f
+
+know
+	know/f
+
+what
+	what/f
+
+this
+	this/f
+
+is
+	is/f
+
+난
+	나/px+ㄴ/etm
+
+이게
+	이/npd+이/jp+게/ecs
+
+뭔지
+	뭔지/ncn
+
+모르겠어요But
+	모르겠어요But/ncn
+
+you
+	you/f
+
+got
+	got/f
+
+me
+	me/f
+
+good
+	good/f
+
+하지만
+	하/pvg+지만/ecs
+
+당신은
+	당신/npp+은/jxc
+
+날
+	나/px+ㄹ/etm
+
+최고로
+	최고/ncn+로/jca
+
+만들어요Just
+	만들어요Just/ncn
+
+like
+	like/f
+
+you
+	you/f
+
+knew
+	knew/f
+
+you
+	you/f
+
+would
+	would/f
+
+단지,
+	단지/ncn+,/sp
+
+당신이
+	당신/npp+이/jcs
+
+알아주라구요I
+	알아주라구요I/ncn
+
+don't
+	don/f+'/sr+t/f
+
+know
+	know/f
+
+what
+	what/f
+
+you
+	you/f
+
+do
+	do/f
+
+난
+	나/px+ㄴ/etm
+
+당신이
+	당신/npp+이/jcs
+
+뭘
+	뭐/npd+을/jco
+
+하는지
+	하/pvg+는지/ecs
+
+모르겠어요But
+	모르겠어요But/ncn
+
+you
+	you/f
+
+do
+	do/f
+
+it
+	it/f
+
+well
+	well/f
+
+하지만
+	하/pvg+지만/ecs
+
+당신이
+	당신/npp+이/jcs
+
+그러는건
+	그러는건/ncn
+
+괜찮아요I'm
+	괜찮아요I'm/ncn
+
+under
+	under/f
+
+your
+	your/f
+
+spell
+	spell/f
+
+난
+	나/px+ㄴ/etm
+
+당신의
+	당신/npp+의/jcm
+
+주문
+	주문/ncn
+
+아래
+	아래/ncn
+
+있죠
+	있/paa+죠/ef
+
+
+You
+	You/f
+
+got
+	got/f
+
+me
+	me/f
+
+begging
+	begging/f
+
+you
+	you/f
+
+for
+	for/f
+
+mercy
+	mercy/f
+
+당신은
+	당신/npp+은/jxc
+
+내가
+	나/npp+가/jcs
+
+당신에게
+	당신/npp+에게/jca
+
+연민을
+	연민/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+날
+	나/px+ㄹ/etm
+
+청하게
+	청하/pvg+게/ecs
+
+잡았어요Why
+	잡았어요Why/ncn
+
+won't
+	won/f+'/sr+t/f
+
+you
+	you/f
+
+release
+	release/f
+
+me
+	me/f
+
+왜
+	왜/mag
+
+당신은
+	당신/npp+은/jxc
+
+날
+	나/px+ㄹ/etm
+
+풀어주지
+	풀/pvg+어/ecx+주/px+지/ecx
+
+않죠You
+	않죠You/ncn
+
+got
+	got/f
+
+me
+	me/f
+
+begging
+	begging/f
+
+you
+	you/f
+
+for
+	for/f
+
+mercy
+	mercy/f
+
+당신은
+	당신/npp+은/jxc
+
+내가
+	나/npp+가/jcs
+
+당신에게
+	당신/npp+에게/jca
+
+연민을
+	연민/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+날
+	나/px+ㄹ/etm
+
+청하게
+	청하/pvg+게/ecs
+
+잡았어요Why
+	잡았어요Why/ncn
+
+won't
+	won/f+'/sr+t/f
+
+you
+	you/f
+
+release
+	release/f
+
+me
+	me/f
+
+왜
+	왜/mag
+
+당신은
+	당신/npp+은/jxc
+
+날
+	나/px+ㄹ/etm
+
+풀어주지
+	풀/pvg+어/ecx+주/px+지/ecx
+
+않죠I
+	않죠I/ncn
+
+said
+	said/f
+
+you
+	you/f
+
+better
+	better/f
+
+release
+	release/f
+
+me
+	me/f
+
+난
+	나/px+ㄴ/etm
+
+당신에게
+	당신/npp+에게/jca
+
+날
+	나/px+ㄹ/etm
+
+더
+	더/mag
+
+풀어주라
+	풀/pvg+어/ecx+주/px+라/ecs
+
+말했어요
+	말/ncpa+하/xsva+었/ep+어요/ef
+
+
+Now
+	Now/f
+
+you
+	you/f
+
+think
+	think/f
+
+that
+	that/f
+
+I
+	I/f
+
+지금
+	지금/mag
+
+당신은
+	당신/npp+은/jxc
+
+내
+	내/npp
+
+그것을
+	그것/npd+을/jco
+
+생각하고
+	생각/ncpa+하고/jct
+
+있죠Will
+	있죠Will/ncn
+
+be
+	be/f
+
+some
+	some/f
+
+thing
+	thing/f
+
+on
+	on/f
+
+the
+	the/f
+
+side
+	side/f
+
+밖에
+	밖/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+괜찮은
+	괜찮/paa+은/etm
+
+무언가라구요But
+	무언가라구요But/ncn
+
+you
+	you/f
+
+got
+	got/f
+
+to
+	to/f
+
+understand
+	understand/f
+
+그러나,
+	그러/pvd+어/ecx+나/px+아/ecs+,/sp
+
+당신은
+	당신/npp+은/jxc
+
+이해하게
+	이해/ncpa+하/xsva+게/ecs
+
+됐죠That
+	됐죠That/ncn
+
+I
+	I/f
+
+need
+	need/f
+
+a
+	a/f
+
+man
+	man/f
+
+내가
+	나/npp+가/jcs
+
+그런
+	그러/pvd+ㄴ/etm
+
+남자를
+	남자/ncn+를/jco
+
+필요로
+	필요/ncps+로/jca
+
+한다는걸Who
+	한다는걸Who/ncn
+
+can
+	can/f
+
+take
+	take/f
+
+my
+	my/f
+
+hand,
+	hand/f+,/sp
+
+yes
+	yes/f
+
+I
+	I/f
+
+do
+	do/f
+
+누구
+	누구/npp
+
+내
+	내/npp
+
+손을
+	손/ncn+을/jco
+
+잡아줄
+	잡/pvg+어/ecx+주/px+ㄹ/etm
+
+사람
+	사람/ncn
+
+.
+	./sf
+
+
+그래요,
+	그렇/pad+어/ef+요/jxf+,/sp
+
+난
+	나/px+ㄴ/etm
+
+해요
+	하/pvg+어요/ef
+
+
+I
+	I/f
+
+don't
+	don/f+'/sr+t/f
+
+know
+	know/f
+
+what
+	what/f
+
+this
+	this/f
+
+is
+	is/f
+
+난
+	나/px+ㄴ/etm
+
+이게
+	이/npd+이/jp+게/ecs
+
+뭔지
+	뭔지/ncn
+
+모르겠어요But
+	모르겠어요But/ncn
+
+you
+	you/f
+
+got
+	got/f
+
+me
+	me/f
+
+good
+	good/f
+
+하지만
+	하/pvg+지만/ecs
+
+당신은
+	당신/npp+은/jxc
+
+날
+	나/px+ㄹ/etm
+
+최고로
+	최고/ncn+로/jca
+
+만들어요Just
+	만들어요Just/ncn
+
+like
+	like/f
+
+you
+	you/f
+
+knew
+	knew/f
+
+you
+	you/f
+
+would
+	would/f
+
+단지,
+	단지/ncn+,/sp
+
+당신이
+	당신/npp+이/jcs
+
+알아주라구요I
+	알아주라구요I/ncn
+
+don't
+	don/f+'/sr+t/f
+
+know
+	know/f
+
+what
+	what/f
+
+you
+	you/f
+
+do
+	do/f
+
+난
+	나/px+ㄴ/etm
+
+당신이
+	당신/npp+이/jcs
+
+뭘
+	뭐/npd+을/jco
+
+하는지
+	하/pvg+는지/ecs
+
+모르겠어요But
+	모르겠어요But/ncn
+
+you
+	you/f
+
+do
+	do/f
+
+it
+	it/f
+
+well
+	well/f
+
+하지만
+	하/pvg+지만/ecs
+
+당신이
+	당신/npp+이/jcs
+
+그러는건
+	그러는건/ncn
+
+괜찮아요I'm
+	괜찮아요I'm/ncn
+
+under
+	under/f
+
+your
+	your/f
+
+spell
+	spell/f
+
+난
+	나/px+ㄴ/etm
+
+당신의
+	당신/npp+의/jcm
+
+주문
+	주문/ncn
+
+아래
+	아래/ncn
+
+있죠
+	있/paa+죠/ef
+
+
+You
+	You/f
+
+got
+	got/f
+
+me
+	me/f
+
+begging
+	begging/f
+
+you
+	you/f
+
+for
+	for/f
+
+mercy
+	mercy/f
+
+당신은
+	당신/npp+은/jxc
+
+내가
+	나/npp+가/jcs
+
+당신에게
+	당신/npp+에게/jca
+
+연민을
+	연민/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+날
+	나/px+ㄹ/etm
+
+청하게
+	청하/pvg+게/ecs
+
+잡았어요Why
+	잡았어요Why/ncn
+
+won't
+	won/f+'/sr+t/f
+
+you
+	you/f
+
+release
+	release/f
+
+me
+	me/f
+
+왜
+	왜/mag
+
+당신은
+	당신/npp+은/jxc
+
+날
+	나/px+ㄹ/etm
+
+풀어주지
+	풀/pvg+어/ecx+주/px+지/ecx
+
+않죠You
+	않죠You/ncn
+
+got
+	got/f
+
+me
+	me/f
+
+begging
+	begging/f
+
+you
+	you/f
+
+for
+	for/f
+
+mercy
+	mercy/f
+
+당신은
+	당신/npp+은/jxc
+
+내가
+	나/npp+가/jcs
+
+당신에게
+	당신/npp+에게/jca
+
+연민을
+	연민/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+날
+	나/px+ㄹ/etm
+
+청하게
+	청하/pvg+게/ecs
+
+잡았어요Why
+	잡았어요Why/ncn
+
+won't
+	won/f+'/sr+t/f
+
+you
+	you/f
+
+release
+	release/f
+
+me
+	me/f
+
+왜
+	왜/mag
+
+당신은
+	당신/npp+은/jxc
+
+날
+	나/px+ㄹ/etm
+
+출어주지
+	출어/ncpa+주/ncn+이/jp+지/ecs
+
+않죠I
+	않죠I/ncn
+
+said
+	said/f
+
+you
+	you/f
+
+better
+	better/f
+
+release
+	release/f
+
+me
+	me/f
+
+난
+	나/px+ㄴ/etm
+
+당신에게
+	당신/npp+에게/jca
+
+날
+	나/px+ㄹ/etm
+
+더
+	더/mag
+
+풀어주라
+	풀/pvg+어/ecx+주/px+라/ecs
+
+말했어요
+	말/ncpa+하/xsva+었/ep+어요/ef
+
+
+I'm
+	I/f+'/sr+m/f
+
+begging
+	begging/f
+
+you
+	you/f
+
+for
+	for/f
+
+mercy
+	mercy/f
+
+당신에게
+	당신/npp+에게/jca
+
+연민을
+	연민/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+날
+	나/px+ㄹ/etm
+
+청하게
+	청하/pvg+게/ecs
+
+했어요Just
+	했어요Just/ncn
+
+why
+	why/f
+
+won't
+	won/f+'/sr+t/f
+
+you
+	you/f
+
+release
+	release/f
+
+me
+	me/f
+
+어째서
+	어째서/mag
+
+당신은
+	당신/npp+은/jxc
+
+날
+	나/px+ㄹ/etm
+
+풀어주지
+	풀/pvg+어/ecx+주/px+지/ecx
+
+않죠I'm
+	않죠I'm/ncn
+
+begging
+	begging/f
+
+you
+	you/f
+
+for
+	for/f
+
+mercy
+	mercy/f
+
+당신에게
+	당신/npp+에게/jca
+
+연민을
+	연민/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+날
+	나/px+ㄹ/etm
+
+청하게
+	청하/pvg+게/ecs
+
+했어요You
+	했어요You/ncn
+
+got
+	got/f
+
+me
+	me/f
+
+begging
+	begging/f
+
+당신은
+	당신/npp+은/jxc
+
+날
+	나/px+ㄹ/etm
+
+청하게
+	청하/pvg+게/ecs
+
+잡았어요You
+	잡았어요You/ncn
+
+got
+	got/f
+
+me
+	me/f
+
+begging
+	begging/f
+
+You
+	You/f
+
+got
+	got/f
+
+me
+	me/f
+
+begging
+	begging/f
+
+
+Mercy,
+	Mercy/f+,/sp
+
+연민,
+	연민/ncpa+,/sp
+
+Why
+	Why/f
+
+won't
+	won/f+'/sr+t/f
+
+you
+	you/f
+
+release
+	release/f
+
+me왜
+	me왜/ncn
+
+날
+	날/ncn
+
+풀어주지
+	풀/pvg+어/ecx+주/px+지/ecx
+
+않죠I'm
+	않죠I'm/ncn
+
+begging
+	begging/f
+
+you
+	you/f
+
+for
+	for/f
+
+mercy
+	mercy/f
+
+당신에게
+	당신/npp+에게/jca
+
+연민을
+	연민/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+날
+	나/px+ㄹ/etm
+
+청하게
+	청하/pvg+게/ecs
+
+했어요Why
+	했어요Why/ncn
+
+wont
+	wont/f
+
+you
+	you/f
+
+release
+	release/f
+
+me
+	me/f
+
+왜
+	왜/mag
+
+날
+	나/px+ㄹ/etm
+
+풀어주지
+	풀/pvg+어/ecx+주/px+지/ecx
+
+않죠You
+	않죠You/ncn
+
+got
+	got/f
+
+me
+	me/f
+
+begging
+	begging/f
+
+you
+	you/f
+
+for
+	for/f
+
+mercy
+	mercy/f
+
+당신은
+	당신/npp+은/jxc
+
+내가
+	나/npp+가/jcs
+
+당신에게
+	당신/npp+에게/jca
+
+연민을
+	연민/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+날
+	나/px+ㄹ/etm
+
+청하게
+	청하/pvg+게/ecs
+
+잡았어요I'm
+	잡았어요I'm/ncn
+
+begging
+	begging/f
+
+you
+	you/f
+
+for
+	for/f
+
+mercy
+	mercy/f
+
+당신에게
+	당신/npp+에게/jca
+
+연민을
+	연민/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+날
+	나/px+ㄹ/etm
+
+청하게
+	청하/pvg+게/ecs
+
+했어요I'm
+	했어요I'm/ncn
+
+begging
+	begging/f
+
+you
+	you/f
+
+for
+	for/f
+
+mercy
+	mercy/f
+
+당신에게
+	당신/npp+에게/jca
+
+연민을
+	연민/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+날
+	나/px+ㄹ/etm
+
+청하게
+	청하/pvg+게/ecs
+
+했어요I'm
+	했어요I'm/ncn
+
+begging
+	begging/f
+
+you
+	you/f
+
+for
+	for/f
+
+mercy
+	mercy/f
+
+당신에게
+	당신/npp+에게/jca
+
+연민을
+	연민/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+날
+	나/px+ㄹ/etm
+
+청하게
+	청하/pvg+게/ecs
+
+했어요I'm
+	했어요I'm/ncn
+
+begging
+	begging/f
+
+you
+	you/f
+
+for
+	for/f
+
+mercy
+	mercy/f
+
+당신에게
+	당신/npp+에게/jca
+
+연민을
+	연민/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+날
+	나/px+ㄹ/etm
+
+청하게
+	청하/pvg+게/ecs
+
+했어요
+	하/pvg+었/ep+어요/ef
+
+
+Why
+	Why/f
+
+won't
+	won/f+'/sr+t/f
+
+you
+	you/f
+
+release
+	release/f
+
+me
+	me/f
+
+왜
+	왜/mag
+
+날
+	나/px+ㄹ/etm
+
+풀어주지
+	풀/pvg+어/ecx+주/px+지/ecx
+
+않죠Bring
+	않죠Bring/ncn
+
+it
+	it/f
+
+on
+	on/f
+
+그것을
+	그것/npd+을/jco
+
+가져와요
+	가/pvg+아/ecx+지/px+어/ecx+오/px+아/ef
+
+
+Mercy,
+	Mercy/f+,/sp
+
+연민,
+	연민/ncpa+,/sp
+
+Begging
+	Begging/f
+
+you
+	you/f
+
+for
+	for/f
+
+mercy당신에게
+	mercy당신에/ncn+이/jp+게/ecs
+
+연민을
+	연민/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+청했어요You
+	청했어요You/ncn
+
+got
+	got/f
+
+me
+	me/f
+
+begging
+	begging/f
+
+당신은
+	당신/npp+은/jxc
+
+내가
+	나/npp+가/jcs
+
+청하는걸
+	청하는걸/ncn
+
+잡았어요Down
+	잡았어요Down/ncn
+
+on
+	on/f
+
+my
+	my/f
+
+knees
+	knees/f
+
+무릎을
+	무릎/ncn+을/jco
+
+꿇고I
+	꿇고I/ncn
+
+said
+	said/f
+
+mercy
+	mercy/f
+
+난
+	나/px+ㄴ/etm
+
+연민이라고
+	연민/ncpa+이/jp+라/ef+고/jcr
+
+말했죠Begging
+	말했죠Begging/ncn
+
+you
+	you/f
+
+for
+	for/f
+
+mercy
+	mercy/f
+
+당신에게
+	당신/npp+에게/jca
+
+연민을
+	연민/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+청했어요You
+	청했어요You/ncn
+
+got
+	got/f
+
+me
+	me/f
+
+begging
+	begging/f
+
+당신은
+	당신/npp+은/jxc
+
+내가
+	나/npp+가/jcs
+
+청하는걸
+	청하는걸/ncn
+
+잡았어요
+	잡/pvg+었/ep+어요/ef
+
+
+Mercy
+	Mercy/f
+
+~
+	~/sd
+
+Duffy(더피)신보경(보니)
+	Duffy(더피)신보경/ncn+(/sl+보/nbu+이/jp+니/ef+)/sr
+
+
+민초호야의
+	민초호야/ncn+의/jcm
+
+음악이야기
+	음악/ncn+이야기/ncpa
+
+..
+	./sf+./sf
+
+
+Mercy
+	Mercy/f
+
+~
+	~/sd
+
+Duffy신보경
+	Duffy신보경/ncn

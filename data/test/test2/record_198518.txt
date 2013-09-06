@@ -1,0 +1,38 @@
+Title:
+1/18 덕유산 눈꽃 트레킹
+
+Date:
+2012.01.18
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(748896,'files/attach/images/64/518/198/6e29d0ddf6af9ab364e935b47471b992.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/b15470abe177def29ade65e97af36313.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/cb0ccae3605542924f7899b774405e0b.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/64ff71e127a4a98916ededad146d17fc.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/132d50b4fbc7fc8ccf0729083cb85939.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/fb3b1ac2d2df36716a9d5f98d13108a1.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/0dcd58e2d3c519e54dfd17cdc05341af.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/2dd08a41e88ecb360ccee682324cc1df.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/1f9bf7f42aa8aaffc1ad9a688313d715.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/bb43a8c7dfa6f964a931d18cc3adcd97.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/36dd6f6696ac61ad35bc9ab63c1563f4.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/727dd6032f15820938f889b483b77210.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/6b780711dc2abac914219e2d9110648c.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/99fe30884f3f1b55e8ecf1e54264a3f3.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/e246b9dd1986d53295ef11f68a32f2f8.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/8bb3234fcabf27088c7c724995d7d9c7.jpg');
+list_gallery_add_image(748896,'files/attach/images/64/518/198/0c47fd40a943abc7b2b51e54cfb056f3.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+1월 18일(수) 아름다운 여행으로 덕유산 눈꽃 트레킹을 다녀왔습니다.
+요즘 날씨가 푹해서 덕유산에 눈꽃은 과연 있을까, 혹시 눈도 다 녹아버린 것은 아닐까… 무주로 이동하는 버스 안에서 여러 생각들을 떠올리는 동안 어느새 무주리조트에 도착하였습니다.
+스키 슬로프는 하얀 눈이 덮여 있지만 주변은 눈이 거의 녹다시피 했고 나뭇가지는 앙상한 모습을 드러내고 있더군요. 이내 체념을 하고 곤돌라에 올랐습니다. 덕유산 설천봉을 향해 올라가는 곤돌라 안에서도 주변을 살폈지만 눈꽃을 볼 수없는 확률만 점점 높아졌고 그나마 저 멀리 산자락을 뒤덮은 멋진 운해가 장관을 이뤄 잠사나마 위안이 되더군요.
+한데 설천봉에 거의 도착할 때쯤 백설이 하얗게 내려앉은 눈꽃이 조금씩 보이기 시작했습니다. 눈을 의심하지 않을 수가 없더군요. 그리고 드디어 설천봉에 발을 디뎠을 때에는 마법 같은 풍경이 우리를 기다리고 있었습니다.
+하얀 눈꽃이 피어있었고 하늘은 파랗고운해가 드리워진산자락은 그림처럼 너울거리는, 도무지 믿기지 않는 풍경이었습니다. 향적봉으로 올라야 하는데 이 믿기지 않는 광경에 모두들 넋을 잃고 발걸음이 움직이지 않더군요. 어렵게 발걸음을 옮겨 향적봉 방면으로 올랐습니다. 향적봉까지는 약 20분 정도가 소요되지만 사방에 핀 흰 눈꽃 때문에 시간을 자꾸만 흘러가고 드디어 향적봉에 올라 전망을 하였습니다. 파란 하늘에 그림을 그려놓은 듯한 흰 구름, 그 아래로 펼쳐진 눈꽃 세상…. 저 아래 곤돌라 탑승장에서 도저히 상상할 수 없는 아름다움에 저도 그만 넋을 잃고 말았네요. 그리고 중봉으로 가는 길에 있는 주목 군락지에도 눈꽃은 계속 이어졌습니다. 날씨는 너무도 따듯하여 이마에 송글송글 땀방울이 맺혀 두꺼운 옷차람이 거추장스러울 정도였음에도 이렇듯 멋진 눈꽃을 볼 수 있다니 그저 탄성이 흘렀습니다.
+덕유산은 역시 크고 높은 산답게 전혀 예상치 못한 풍경을 볼 수 있음에 그저 감사한 하루였습니다.
+중봉에 도착하여 너른 평지 같은 능선길은 눈으로만 따라 걷고 그 멋진 풍경을 감상하며 잠깐 시간을 보내다가 하산을 하였는데 그 아름다운 마법의 세상은 조금씩 녹아내려 사라지고 있었습니다.
+덕유산 눈꽃 트레킹이 끝나고 무주구천동으로 이동하여 자유롭게 점심식사를 하고 가볍게 계곡을 따라 산책을 해보았습니다. 구천동계곡은 겨울 분위기가 좀 썰렁하고 볼거리가 많지 않지만 얼음이 녹아 졸졸 흐르는 계곡소리와 맑은 물빛은 좋았습니다. 하지만 무주구천동계곡은 워낙 유명한 계곡이라 초록 우거진 계절에 꼭 다시 한번 가보실 수 있기를 바랍니다.
+이번 덕유산 눈꽃 트레킹은 곤돌라를 타고 설천봉에 도착하여 가장 높은 봉우리인 향적봉을 오른 후 중봉까지 왕복으로 다녀오는 코스였습니다. 오가는 코스가 짧고 걷기에 불편함은 없으셨죠?^^ 구천동계곡은 눈이 모두 녹고 산책을 하기에는 조금 썰렁한 분위기가 아쉬움으로 남으셨을 거예요.
+덕유산 눈길 걷느라 모두 수고 많으셨구요. 눈꽃이 절정은 아니었지만 그래도 날씨가 따뜻했음에도 불구하고 멋진 눈꽃을 볼 수 있었던 시간들이 행복한 기억으로 남으셨기를 바라며 설 명절도 잘 보내시기 바랍니다~
+이 게시물을...

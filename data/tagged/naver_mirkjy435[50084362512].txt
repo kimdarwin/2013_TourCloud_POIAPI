@@ -1,0 +1,532 @@
+양산시
+	양산/ncn+시/ncn
+
+
+경상남도
+	경상/ncn+남도/ncn
+
+
+기간
+	기간/ncn
+
+2010.
+	2010./nnc
+
+3.
+	3./nnc
+
+7~
+	7/nnc+~/sd
+
+2010.
+	2010./nnc
+
+3.
+	3./nnc
+
+7(1일)
+	7/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+친구와
+	친구/ncn+와/jct
+
+떠나는
+	떠나/pvg+는/etm
+
+여행
+	여행/ncpa
+
+
+꽃향기가
+	꽃향기/ncn+가/jcs
+
+물씬
+	물씬/mag
+
+묻어나는
+	묻/pvg+어/ecx+나/px+는/etm
+
+3월
+	3/nnc+월/nbu
+
+
+더
+	더/mag
+
+많은
+	많/paa+은/etm
+
+매화를
+	매화/ncn+를/jco
+
+보러
+	보/px+러/ecs
+
+찾아간
+	찾/pvg+아/ecx+가/px+ㄴ/etm
+
+곳은
+	곳/nbu+은/jxc
+
+
+양산
+	양산/ncn
+
+원동역
+	원동역/ncn
+
+부근인데요
+	부근인데요/ncn
+
+.
+	./sf
+
+
+원동역
+	원동역/ncn
+
+부근에는
+	부근/ncn+에/jca+는/jxc
+
+영포마을이
+	영포마을/ncn+이/jcc
+
+있는데
+	있/px+는데/ecs
+
+..
+	./sf+./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+매화마을로도
+	매화/ncn+마을/ncn+로/jca+도/jxc
+
+불릴
+	불리/pvg+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+
+많은
+	많/paa+은/etm
+
+매화를
+	매화/ncn+를/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이랍니다
+	곳/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+그럼
+	그렇/pad+ㅁ/etn
+
+가볼까요
+	가/pvg+아/ecx+보/px+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+매화
+	매화/ncn
+
+꽃
+	꽃/ncn
+
+향기가
+	향기/ncn+가/jcs
+
+마음을
+	마음/ncn+을/jco
+
+설레게
+	설레/pvg+게/ecs
+
+하는
+	하/pvg+는/etm
+
+원동역
+	원동역/ncn
+
+
+즉.
+	즉./ncn
+
+.
+	./sf
+
+
+영포마을은요
+	영포마을은요/ncn
+
+..
+	./sf+./sf
+
+
+네이게이션으로
+	네이게이션/ncn+으로/jca
+
+영포마을
+	영포마/ncn+을/jco
+
+또는
+	또는/maj
+
+원동역으로
+	원동역/ncn+으로/jca
+
+
+설정하셔서
+	설정/ncpa+하/xsva+시/ep+어서/ecs
+
+오시면
+	오/px+시/ep+면/ecs
+
+...
+	.../se
+
+
+매화들을
+	매화/ncn+들/ncn+을/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+텐데요
+	텐데요/ncn
+
+.
+	./sf
+
+
+계속
+	계속/mag
+
+오다가
+	오/px+다가/ecs
+
+보면
+	보/px+면/ecs
+
+언덕에는
+	언덕/ncn+에는/jca
+
+
+수많은
+	수많/paa+은/etm
+
+매화나무와
+	매화나무/ncn+와/jcj
+
+
+아래에는
+	아래/ncn+에/jca+는/jxc
+
+강과
+	강/ncn+과/jcj
+
+철도가
+	철도/ncn+가/jcs
+
+보이는데요
+	보이/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+여기가
+	여기/npd+가/jcc
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+출사
+	출사/ncpa
+
+포인트라고
+	포인트/ncn+이/jp+라/ef+고/jcr
+
+하더라고요
+	하/px+더/ep+라고/ef+요/jxf
+
+.
+	./sf
+
+
+저도
+	저/npp+도/jxc
+
+인증
+	인증/ncpa
+
+샷을
+	샷/ncn+을/jco
+
+남겼답니다
+	남기/pvg+었/ep+답니다/ef
+
+.
+	./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+아직
+	아직/mag
+
+매화가
+	매화/ncn+가/jcs
+
+덜핀
+	덜핀/ncn
+
+곳들이
+	곳/ncn+들/xsncc+이/jcc
+
+
+곳곳에
+	곳곳/ncn+에/jca
+
+보였는데요
+	보이/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+속
+	속/ncn
+
+아래부근에
+	아래/ncn+부근/ncn+에/jca
+
+매화가
+	매화/ncn+가/jcs
+
+핀다면
+	피/pvg+ㄴ다면/ecs
+
+
+더욱
+	더욱/mag
+
+아름다운
+	아름답/paa+은/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+것
+	것/nbn
+
+같죠
+	같/paa+죠/ef
+
+?
+	?/sf
+
+
+더
+	더/mag
+
+많은
+	많/paa+은/etm
+
+매화를
+	매화/ncn+를/jco
+
+보기
+	보/px+기/etn
+
+원하신다면
+	원하/pvg+시/ep+ㄴ다면/ecs
+
+
+이번
+	이/nnc+번/nbu
+
+주
+	주/nbu
+
+주말이나
+	주말/ncn+이나/jcj
+
+다음
+	다음/ncn
+
+주
+	주/nbu
+
+주말에
+	주말/ncn+에/jca
+
+
+발걸음을
+	발걸음/ncn+을/jco
+
+양산으로
+	양산/ncn+으로/jca
+
+향해보는
+	향하/pvg+어/ecx+보/px+는/etm
+
+건
+	거/nbn+은/jxc
+
+어떠신가요
+	어떠신가요/ncn
+
+??
+	?/sf+?/sf
+
+
+이웃님들
+	이웃/ncpa+님/ncn+들/xsncc
+
+봄꽃들은
+	봄꽃/ncn+들/ncn+은/jxc
+
+
+바람처럼
+	바라/pvg+ㅁ/etn+처럼/jca
+
+왔다가
+	오/px+아/ep+다가/ecs
+
+바람처럼
+	바라/pvg+ㅁ/etn+처럼/jca
+
+사라진답니다
+	사라지/pvg+ㄴ답니다/ef
+
+.
+	./sf
+
+
+무거운
+	무겁/paa+은/etm
+
+발걸음을
+	발걸음/ncn+을/jco
+
+옮기면
+	옮기/pvg+면/ecs
+
+..
+	./sf+./sf
+
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을거에요
+	있을거에요/ncn
+
+.
+	./sf
+
+
+행복한여행가
+	행복한여행/ncn+가/jcs
+
+미르
+	미르/ncn
+
+..
+	./sf+./sf
+
+
+여성포털
+	여성포털/ncn
+
+ezday
+	ezday/f
+
+여행나들이
+	여행/ncpa+나들이/ncpa
+
+마니아
+	마니아/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+여행가
+	여행가/ncn
+
+미르의
+	미르/ncn+의/jcm
+
+수채화
+	수채화/ncn
+
+같은
+	같/paa+은/etm
+
+여행이야기http://mania.
+	여행이야기http://mania./ncn
+
+ezday.
+	ezday/f+./sy
+
+co.
+	co/f+./sy
+
+kr/mirkjy435
+	kr/mirkjy435/ncn

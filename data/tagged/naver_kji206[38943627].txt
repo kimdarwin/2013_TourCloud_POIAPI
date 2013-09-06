@@ -1,0 +1,96 @@
+쌍떡잎식물
+	쌍떡잎식물/ncn
+
+진달래목
+	진달래/ncn+목/ncn
+
+노루발과의
+	노루/ncn+발/ncn+과의/jcm
+
+상록
+	상록/ncn
+
+여러해살이풀
+	여러해살이/ncn+풀/ncn
+
+.
+	./sf
+
+
+학명
+	학명/ncn
+
+
+Pyrola
+	Pyrola/f
+
+japonica
+	japonica/f
+
+
+분류
+	분류/ncpa
+
+
+노루발과
+	노루/ncn+발/ncn+과/jcj
+
+
+분포지역
+	분포/ncpa+지역/ncn
+
+
+한국(전북
+	한국(전북/ncn
+
+경남
+	경남/ncn
+
+경북
+	경북/ncn
+
+강원
+	강원/ncn
+
+경기
+	경기/ncn
+
+평북
+	평북/ncn
+
+함남)
+	함남)/ncn
+
+일본
+	일/nnc+본/nbu
+
+타이완
+	타/xp+이완/ncpa
+
+중국
+	중국/ncn
+
+헤이룽강
+	헤이룽강/ncn
+
+
+서식장소
+	서식/ncpa+장소/ncn
+
+
+숲속
+	숲속/ncn
+
+
+크기
+	크기/ncn
+
+
+높이
+	높이/mag
+
+약
+	약/ncn
+
+26cm
+	26cm/ncn

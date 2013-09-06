@@ -1,0 +1,31 @@
+Title:
+7/1 청태산 산림욕 트레킹 후기
+
+Date:
+2012.07.02
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(693733,'files/attach/images/64/117/228/7dfc2ec96a2dab0b163722d83f2ffc64.jpg');
+list_gallery_add_image(693733,'files/attach/images/64/117/228/85cbb22482ac2ae616351c828260ce08.jpg');
+list_gallery_add_image(693733,'files/attach/images/64/117/228/417ac3c876cf20e0a4d9ed9e5b2d75b0.jpg');
+list_gallery_add_image(693733,'files/attach/images/64/117/228/26a54bdf2882b329f930312f0c14136c.jpg');
+list_gallery_add_image(693733,'files/attach/images/64/117/228/f88fe63e8b64cdc97ca6be84542ff346.jpg');
+list_gallery_add_image(693733,'files/attach/images/64/117/228/9a2abd047a86d71592bedce2acd0e0ee.jpg');
+list_gallery_add_image(693733,'files/attach/images/64/117/228/3155a2f15fb57dc19466fd51dd5a80e2.jpg');
+list_gallery_add_image(693733,'files/attach/images/64/117/228/6840e40c9a540291f8ede68d82b4c2b5.jpg');
+list_gallery_add_image(693733,'files/attach/images/64/117/228/e49585bce1ce077bf76f22c917c49f4e.jpg');
+list_gallery_add_image(693733,'files/attach/images/64/117/228/e6fe261299675bb1d9cc94ecba03a560.jpg');
+list_gallery_add_image(693733,'files/attach/images/64/117/228/9dbe50058ffd0115c219d39898c066f0.jpg');
+list_gallery_add_image(693733,'files/attach/images/64/117/228/413dc1f827d961c2c5f4dd45c24d9b20.jpg');
+list_gallery_add_image(693733,'files/attach/images/64/117/228/40c302fe382048d39292903f8a2ee25f.jpg');
+list_gallery_add_image(693733,'files/attach/images/64/117/228/23066b6869e9a236e80ee8614aaac0bd.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+7월 1일(일), 아름다운 여행으로 청태산에 다녀왔습니다. 청태산은 강원도 횡성과 평창의 경계가 되는 산으로, 유명한 청태산 자연휴양림이 있는 산입니다. 산림청에서 자연휴양림을 조성하고 숲 관리를 잘해, 울창한 숲이 멋진 곳이죠.
+이번 청태산 여행은 청태산 자연휴양림에서 자유롭게 시간을 보내는 여행이었습니다. 청태산 정상까지 산행을 하신 분들도 계셨고, 편안한 나무데크길을 걷고 숲속에서 자유롭게 시간을 보낸 분들도 계셨습니다.
+이번에 본 청태산은 녹음이 짙어질 대로 짙어져 있더군요. 마치 8월의 숲이 연상될 정도로 짙은 초록의 숲이 펼쳐져 있었습니다. 전날 내린 비로 숲이 촉촉히 젖어 싱그러운 느낌도 가득했습니다. 게다가 청태산에 도착했을 때는 짙은 안개가 산을 휘감아 옅은 안개비를 맞으며 신비로운 안개숲을 걷기도 했습니다.
+이번 여행에서는 의외로 정상까지 산행을 하신 분들이 많았던 것 같습니다. 참가하신 분의 반 가까운 분들이 정상에 오르신 것 같더군요. 이번 여행은 숲에서의 휴식이 주요 테마여서 시간을 넉넉하게 썼기에, 산행을 하기에도 시간은 비교적 여유로왔습니다. 산행을 마치고도 숲에서 한가롭게 휴식을 즐길 수 있는 시간이었습니다. 저도 산행을 마치고 한 시간 가량을 숲 속에서보냈던 것 같습니다.
+이번 여행에서는 청태산의 다양한 얼굴을 볼 수 있었습니다. 짙은 안개가 자욱한 청태산의 모습도 또 햇살 비추는 상큼한 청태산의 모습도, 비에 젖은 청태산의 모습도 보았습니다. 하루에 이렇듯 다양한 산의 풍경을 즐길 수 있었던 것이 이번 여행의 즐거움이었던 것 같습니다. 그리고 청태산의 청량한 새 소리도 아주 인상적이었습니다. 산에 있는 동안 내내 맑고 청아한 새 소리를 들을 수 있었습니다.
+이번 청태산 여행에 참여하신 분들 모두, 일요일 여행이어서 피로를 풀 시간은 모자라지만 그래도 여행의 피로 빨리 털어내시고 활기차게 7월을 시작하시기 바랍니다~
+이 게시물을...

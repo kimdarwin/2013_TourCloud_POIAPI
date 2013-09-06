@@ -1,0 +1,644 @@
+추운날
+	추운날/ncn
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+추운날이
+	추운날/ncn+이/jcc
+
+아니고
+	아니/paa+고/ecc
+
+거의
+	거의/mag
+
+얼어죽을뻔한
+	얼어죽을뻔한/ncn
+
+날인거
+	날인거/ncn
+
+같네요
+	같/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+서울에
+	서울/ncn+에/jca
+
+그
+	그/mmd
+
+탈출했다던
+	탈출/ncpa+하/xsva+었/ep+다/ef+던/etm
+
+말레이곰도
+	말레이곰/ncn+도/jxc
+
+..
+	./sf+./sf
+
+
+오늘이
+	오늘/ncn+이/jcc
+
+가장
+	가장/mag
+
+추운날인줄
+	추운날인줄/ncn
+
+알고
+	알/pvg+고/ecx
+
+잡혔나보네요
+	잡혔나보네요/ncn
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+추운날엔
+	추운날엔/ncn
+
+그저
+	그저/mag
+
+..
+	./sf+./sf
+
+
+뜨끈한
+	뜨끈한/ncn
+
+국물이
+	국물/ncn+이/jcc
+
+최고일지인데
+	최고/ncn+이/jp+ㄹ/etm+지/nbn+이/jp+ㄴ데/ecs
+
+...
+	.../se
+
+
+그래도
+	그래도/maj
+
+또
+	또/maj
+
+하나
+	하나/nnc
+
+더
+	더/mag
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+확
+	확/ncn
+
+매운거
+	매운거/ncn
+
+...
+	.../se
+
+
+제가
+	저/npp+가/jcs
+
+세상에서
+	세상/ncn+에서/jca
+
+제일로
+	제일/ncn+로/jca
+
+두려워하는
+	두렵/paa+어/ecx+하/px+는/etm
+
+최고로
+	최고/ncn+로/jca
+
+맵다고
+	맵/paa+다/ef+고/jcr
+
+생각하는
+	생각/ncpa+하/xsva+어/ecs+는/jxc
+
+...
+	.../se
+
+
+음식이
+	음식/ncn+이/jcc
+
+있는데
+	있/px+는데/ecs
+
+..
+	./sf+./sf
+
+
+부산에
+	부산/ncps+에/jca
+
+그것이
+	그것/npd+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+본점은
+	본점/ncn+은/jxc
+
+범일동에
+	범일동/ncn+에/jca
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+올해
+	올해/ncn
+
+생긴
+	생기/pvg+ㄴ/etm
+
+해운대
+	해운/ncn+대/ncn
+
+분점
+	분점/ncpa
+
+.
+	./sf
+
+
+매떡
+	매/xp+떡/ncn
+
+
+부산
+	부산/ncps
+
+해운대구
+	해운대구/ncn
+
+우1동
+	우1동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01400939",
+	"bl01400939",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"13547604",
+	"/sl+13547604/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"매떡",
+	title/f+:/sp+"/sl+매/xp+떡/ncn+"/sr+,/sp
+
+pointX:505922,pointY:285493}
+	pointX/f+:/sp+505922/nnc+,/sp+pointY/f+:/sp+285493/nnc+}/sr
+
+
+바로
+	바로/mag
+
+이곳이지여
+	이곳이지/ncn+이/jp+어/ecs
+
+..
+	./sf+./sf
+
+
+도로가에
+	도로가/ncn+에/jca
+
+있으니
+	있/px+으니/ecs
+
+찾기는
+	찾/pvg+기/etn+는/jxc
+
+그리
+	그리/mad
+
+어렵지
+	어렵/paa+지/ecx
+
+않습니다
+	않/px+습니다/ef
+
+..
+	./sf+./sf
+
+
+범일동
+	범일동/ncn
+
+매떡이랑
+	매/xp+떡/ncn+이/jcs+랑/jxc
+
+같은
+	같/paa+은/etm
+
+집입니다
+	집/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+위치만
+	위치/ncn+만/jxc
+
+해운대
+	해운/ncn+대/ncn
+
+일뿐
+	일/ncn+뿐/jxc
+
+..
+	./sf+./sf
+
+
+범일동은
+	범일동/ncn+은/jxc
+
+제가
+	저/npp+가/jcs
+
+가기엔
+	가/px+기/etn+엔/jca
+
+좀
+	좀/mag
+
+멀어서리
+	멀/paa+어서/ep+리/ef
+
+...
+	.../se
+
+
+범일동
+	범일동/ncn
+
+매떡집이랑
+	매떡집이랑/ncn
+
+메뉴도
+	메뉴/ncn+도/jxc
+
+똑같습니다
+	똑같/paa+습니다/ef
+
+..
+	./sf+./sf
+
+
+매운걸
+	매운걸/ncn
+
+달래주는
+	달래/pvg+어/ecx+주/px+는/etm
+
+저
+	저/npp
+
+김밥과
+	김밥/ncn+과/jct
+
+..
+	./sf+./sf
+
+
+튀만두
+	튀만두/ncn
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+오뎅
+	오뎅/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+매떡
+	매/xp+떡/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+빙수
+	빙수/ncn
+
+...
+	.../se
+
+
+겨울임에도
+	겨울/ncn+이/jp+ㅁ/etn+에/jca+도/jxc
+
+빙수도
+	빙수/ncn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+있더군요
+	있/px+더군/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+전
+	전/nbn
+
+주로
+	주로/mag
+
+이집도
+	이집/ncpa+도/jxc
+
+포장해가서
+	포장/ncpa+하/xsva+어/ecx+가/px+아/ecx
+
+집에서
+	집/ncn+에서/jca
+
+먹는데요
+	먹/pvg+는데/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+오늘
+	오늘/ncn
+
+매떡이
+	매/xp+떡/ncn+이/jcc
+
+거의
+	거의/mag
+
+다
+	다/mag
+
+팔려가나보네요
+	팔리/pvg+어/ecx+가/px+아/ecx+나/px+아/ecx+보/px+네/ef+요/jxf
+
+...
+	.../se
+
+
+저
+	저/mmd
+
+빨간양념
+	빨간양념/ncn
+
+..
+	./sf+./sf
+
+
+참
+	참/mag
+
+무섭습니다
+	무섭/paa+습니다/ef
+
+..
+	./sf+./sf
+
+
+사람을
+	사람/ncn+을/jco
+
+확
+	확/ncn
+
+당기는
+	당기/pvg+는/etm
+
+매운맛인데
+	매운맛/ncn+이/jp+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+먹고나서
+	먹/pvg+고/ecx+나/px+아/ecx
+
+너무
+	너무/mag
+
+매워서
+	맵/paa+어서/ecs
+
+그
+	그/mmd
+
+고통이란
+	고통/ncn+이란/jxc
+
+..
+	./sf+./sf
+
+
+일단
+	일/nnc+단/nbu
+
+먹을때
+	먹/pvg+을/etm+때/nbn
+
+입주변이
+	입주/ncpa+변/ncn+이/jcc
+
+너무
+	너무/mag
+
+아프고요
+	아프/paa+고요/ef
+
+..
+	./sf+./sf
+
+
+먹고난
+	먹/pvg+고/ecx+나/px+ㄴ/etm
+
+날
+	나/px+ㄹ/etm
+
+속이
+	속/ncn+이/jcc
+
+너무
+	너무/mag
+
+쓰리고요
+	쓰리/paa+고요/ef
+
+..
+	./sf+./sf
+
+
+다음날
+	다음날/ncn
+
+변비없던
+	변비/ncn+없/xsmn+던/etm
+
+사람도
+	사람/ncn+도/jxc
+
+변비가
+	변비/ncn+가/jcs
+
+생깁니다
+	생기/pvg+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+그래서
+	그래서/maj
+
+왠만하면
+	왠만하/ncn+이/jp+면/ecs
+
+안
+	알/pvg+ㄴ/etm
+
+먹을려구
+	먹을려구/ncn
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+자꾸
+	자꾸/mag
+
+매떡이
+	매/xp+떡/ncn+이/jcc
+
+사람을
+	사람/ncn+을/jco
+
+당깁니다
+	당기/pvg+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+제가
+	저/npp+가/jcs
+
+아는
+	알/pvg+는/etm
+
+세상에서
+	세상/ncn+에서/jca
+
+제일
+	제일/mag
+
+매운
+	맵/paa+은/etm
+
+음식
+	음식/ncn
+
+..
+	./sf+./sf
+
+
+범일동
+	범일동/ncn
+
+매떡
+	매/xp+떡/ncn
+
+..
+	./sf+./sf
+
+
+너무
+	너무/mag
+
+싫어여~
+	싫어여~/ncn
+
+너무
+	너무/mag
+
+매워서
+	맵/paa+어서/ecs
+
+..
+	./sf+./sf
+
+
+그래서
+	그래서/maj
+
+맛있어여
+	맛있어/ncn+이/jp+어/ecs
+
+...
+	.../se

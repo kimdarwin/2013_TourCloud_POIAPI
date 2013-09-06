@@ -1,0 +1,72 @@
+쌍떡잎식물
+	쌍떡잎식물/ncn
+
+진달래목
+	진달래/ncn+목/ncn
+
+진달래과의
+	진달래/ncn+과의/jcm
+
+낙엽관목
+	낙엽/ncn+관목/ncn
+
+.
+	./sf
+
+
+학명
+	학명/ncn
+
+
+Rhododendron
+	Rhododendron/f
+
+yedoense
+	yedoense/f
+
+var.
+	var/f+./sy
+
+poukhanense
+	poukhanense/f
+
+
+분류
+	분류/ncpa
+
+
+진달래과
+	진달래/ncn+과/jcj
+
+
+분포지역
+	분포/ncpa+지역/ncn
+
+
+한국
+	한국/ncn
+
+일본
+	일/nnc+본/nbu
+
+
+서식장소
+	서식/ncpa+장소/ncn
+
+
+산지의
+	사/pvg+ㄴ/etm+지/nbn+의/jcm
+
+물가
+	물가/ncn
+
+
+크기
+	크기/ncn
+
+
+높이
+	높이/mag
+
+1~2m
+	1~2m/ncn

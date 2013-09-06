@@ -1,0 +1,1827 @@
+`
+	`/sl
+
+하카타
+	하카타/ncn
+
+"다이소
+	"/sl+다이/ncn+소/ncn
+
+후쿠오카
+	후쿠오카/ncn
+
+교통센터점"
+	교통/ncn+센터/ncn+점/ncn+"/sr
+
+-
+	-/sd
+
+100엔
+	100/nnc+엔/nbu
+
+숍의
+	숍/ncn+의/jcm
+
+지존일본
+	지존일본/ncn
+
+최대의
+	최대/ncn+의/jcm
+
+100엔
+	100/nnc+엔/nbu
+
+숍
+	숍/ncn
+
+체인인
+	체인/ncn+이/jp+ㄴ/etm
+
+다이소의
+	다이/ncn+소/ncn+의/jcm
+
+후쿠오카
+	후쿠오카/ncn
+
+교통센터점은
+	교통/ncn+센터/ncn+점/ncn+은/jxc
+
+800여
+	800/nnc+여/xsnu
+
+평이
+	평/nbu+이/jcc
+
+넘는
+	넘/pvg+는/etm
+
+넓은
+	넓/paa+은/etm
+
+매장을
+	매장/ncn+을/jco
+
+자랑합니다
+	자랑/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+공항까지
+	공항/ncn+까지/jxc
+
+10분,
+	10/nnc+분/nbu+,/sp
+
+항구까지
+	항구/ncn+까지/jxc
+
+20분
+	20/nnc+분/nbu
+
+정도면
+	정도/ncn+이/jp+면/ecs
+
+이동할
+	이동/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있기
+	있/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+여행을
+	여행/ncpa+을/jco
+
+마치고
+	마치/pvg+고/ecc
+
+귀국하기
+	귀국/ncn+하기/ncn
+
+직전,
+	직전/ncn+,/sp
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+동전을
+	동전/ncn+을/jco
+
+소비하기
+	소비/ncpa+하/xsva+기/etn
+
+좋은
+	좋/paa+은/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+*
+	*/sy
+
+가는방법
+	가는방법/ncn
+
+:
+	:/sp
+
+JR
+	JR/f
+
+하카타역
+	하카타역/ncn
+
+하카타
+	하카타/ncn
+
+출구로
+	출구/ncn+로/jca
+
+나와
+	나/npp+와/jct
+
+오른쪽으로
+	오르/pvg+ㄴ/etm+쪽/nbn+으로/jca
+
+도보
+	도보/ncpa
+
+1분,
+	1/nnc+분/nbu+,/sp
+
+교통센터
+	교통/ncn+센터/ncn
+
+4층*
+	4/nnc+층/xsnu+*/sy
+
+영업시간
+	영업시간/ncn
+
+:
+	:/sp
+
+AM
+	AM/f
+
+1000
+	1000/nnc
+
+-
+	-/sd
+
+PM
+	PM/f
+
+0900
+	0900/nnc
+
+
+다이소에
+	다이/ncn+소/ncn+에/jca
+
+일본에서
+	일/nnc+본/nbu+에서/jca
+
+건너온건
+	건너/xp+온건/ncn
+
+아시지요~~~
+	아시/ncn+이/jp+지요/ef+~/sd+~/sd+~/sd
+
+
+어찌보면
+	어찌/ncpa+보/ncn+이/jp+면/ecs
+
+비슷한것들이
+	비슷한것들/ncn+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+볼게
+	볼/ncn+게/jca
+
+없을수도
+	없/paa+을/etm+수/nbn+도/jxc
+
+있지만
+	있/px+지만/ecs
+
+..
+	./sf+./sf
+
+
+그래도
+	그래도/maj
+
+원조답게
+	원조/ncpa+답/xsmn+게/ecs
+
+특이한것들도
+	특이한것들/ncn+도/jxc
+
+많으니
+	많/paa+으니/ecs
+
+잘만
+	잘/mag+만/jxc
+
+고르면
+	고르/pvg+면/ecs
+
+완젼
+	완젼/ncn
+
+이익이지요
+	이익/ncn+이/jp+지/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+먹을거리도
+	먹/pvg+을/etm+거리/nbn+도/jxc
+
+편의점가면
+	편의점/ncn+가면/ncn
+
+음료수만해도
+	음료수만해/ncn+도/jxc
+
+150엔씩
+	150/nnc+엔/nbu+씩/xsnu
+
+하는것을
+	하/pvg+는/etm+것/nbn+을/jco
+
+이곳에선
+	이곳/npd+에/jca+선/jxc
+
+몽땅
+	몽땅/mag
+
+100엔이랍니다~
+	100/nnc+엔/nbu+이/jp+랍니다/ef+~/sd
+
+!!
+	!/sf+!/sf
+
+
+음료수
+	음료수/ncn
+
+1000ml도
+	1000ml/ncn+도/jxc
+
+100엔이어요
+	100/nnc+엔/nbu+이/jp+어/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+혹여나
+	혹여/mag+나/jxc
+
+해서
+	하/pvg+어서/ecs
+
+물어봤더니
+	묻/pvg+어/ecx+보/px+아/ep+니/ef
+
+..
+	./sf+./sf
+
+
+특별히
+	특별히/mag
+
+200엔,
+	200/nnc+엔/nbu+,/sp
+
+500엔
+	500/nnc+엔/nbu
+
+그렇게
+	그렇/pad+게/ecs
+
+가격표가
+	가격표/ncn+가/jcs
+
+붙어있지
+	붙/pvg+어/ecx+있/px+지/ecx
+
+않는경우엔
+	않는경우엔/ncn
+
+모두다
+	모두/ncn+이/jp+다/ef
+
+100엔이라고
+	100/nnc+엔/nbu+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+^^
+	^/sy+^/sy
+
+
+그래서
+	그래서/maj
+
+바리바리
+	바리바리/ncn
+
+먹을거리를
+	먹/pvg+을/etm+거리/nbn+를/jco
+
+구입했어욤
+	구입했어욤/ncn
+
+..
+	./sf+./sf
+
+
+지금봐도
+	지금봐/ncn+도/jxc
+
+..
+	./sf+./sf
+
+
+더
+	더/mag
+
+사올걸
+	사올걸/ncn
+
+그랬나
+	그렇/pad+었/ep+나/ef
+
+싶어욤
+	싶어욤/ncn
+
+
+1000엔
+	1000/nnc+엔/nbu
+
+안넘을려고
+	안넘을려/ncn+이/jp+고/ecc
+
+..
+	./sf+./sf
+
+
+9개
+	9/nnc+개/nbu
+
+샀거든요
+	사/pvg+아/ep+거든/ef+요/jxf
+
+_
+	_/ncn
+
+
+그
+	그/mmd
+
+9개중
+	9/nnc+개/nbu+중/xsnx
+
+3-4개는
+	3/nnc+-4/nnc+개/nbu+는/jxc
+
+숙소에서
+	숙소/ncn+에서/jca
+
+먹을
+	먹/pvg+을/etm
+
+음료수랑
+	음료수/ncn+랑/jxc
+
+돌아다니면서
+	돌아다니/pvg+면서/ecc
+
+씹을
+	씹/ncn+을/jco
+
+껌이었기때문에
+	껌이었기때문/ncn+에/jca
+
+
+다이소에서
+	다이/ncn+소/ncn+에서/jca
+
+사온거예욤
+	사온거예욤/ncn
+
+..
+	./sf+./sf
+
+
+사탕은
+	사탕/ncn+은/jxc
+
+먹어봤는데
+	먹/pvg+어/ecx+보/px+아/ep+ㄴ데/ecs
+
+달콤하니
+	달콤/ncps+하/xsms+니/ecs
+
+맛나고
+	맛나/paa+고/ecc
+
+..
+	./sf+./sf
+
+
+음료수
+	음료수/ncn
+
+2병은
+	2/nnc+병/nbu+은/jxc
+
+여행중에
+	여행/ncpa+중/ncn+에/jca
+
+다니면서
+	다니/pvg+면서/ecc
+
+마시고
+	마시/pvg+고/ecc
+
+숙소에서도
+	숙소/ncn+에서/jca+도/jxc
+
+마시고~~~
+	마시/pvg+고/ecc+~/sd+~/sd+~/sd
+
+
+일본은
+	일/nnc+본/nbu+은/jxc
+
+쌀과자가
+	쌀과자/ncn+가/jcs
+
+많아서
+	많/paa+아/ecx
+
+..
+	./sf+./sf
+
+
+역시나
+	역시/mag+나/jxc
+
+넘흐
+	넘흐/ncn
+
+맛났어욤
+	맛났어욤/ncn
+
+담에
+	달/paa+ㅁ/etn+에/jca
+
+가도
+	가/px+아/ecs
+
+또
+	또/maj
+
+사야겠어욤
+	사야겠어욤/ncn
+
+
+도시락은
+	도시락/ncn+은/jxc
+
+참고로
+	참고/ncpa+로/jca
+
+텐진백화점
+	텐진백화점/ncn
+
+식품매장에서
+	식품/ncn+매장/ncn+에서/jca
+
+구매한거랍니다
+	구매/ncpa+하/xsva+ㄴ/etm+것/nbn+이/jp+랍니다/ef
+
+^^;;;
+	^/sy+^/sy+;/sy+;/sy+;/sy
+
+
+코비타고
+	코비타/ncn+이/jp+고/ecc
+
+떠나는
+	떠나/pvg+는/etm
+
+3박
+	3/nnc+박/nbu
+
+4일간의
+	4/nnc+이/jp+ㄹ/etm+간/nbn+의/jcm
+
+야옹이만의
+	야옹/ncn+이/ncn+만의/jcm
+
+"북큐슈(
+	"북큐슈(/ncn
+
+)
+	)/sr
+
+기차여행이야기"
+	기차여행/ncpa+이야기/ncpa+"/sr
+
+
+코비
+	코비/ncn
+
+왕복
+	왕복/ncpa
+
+승선료
+	승선료/ncn
+
++
+	+/ncn
+
+도요호텔
+	도요/ncn+호텔/ncn
+
+싱글
+	싱글/ncn
+
+3박
+	3/nnc+박/nbu
+
+:
+	:/sp
+
+309,000냥부산국제여객터미널
+	309,000냥부산국제여객터미널/ncn
+
+유류세
+	유류세/ncn
+
+부두세
+	부두/ncn+이/jp+세/ef
+
+:
+	:/sp
+
+13,200냥하우스텐보스레일팩(북큐슈레일패스
+	13,200냥하우스텐보스레일팩(북큐슈레일패스/ncn
+
++
+	+/ncn
+
+하우스텐보스
+	하우스텐보스/ncn
+
+패스포트)
+	패스포트/ncn+)/sr
+
+:
+	:/sp
+
+10,700
+	10,700/nnc
+
+(148,400냥)
+	(/sl+148,400/nnc+냥/nbu+)/sr
+
+
+북큐슈
+	북큐슈/ncn
+
+여행기
+	여행기/ncn
+
+사용내역
+	사용내역/ncn
+
+교통비
+	교통비/ncn
+
+2320
+	2320/nnc
+
++
+	+/ncn
+
+입장료
+	입장료/ncn
+
+6350
+	6350/nnc
+
++
+	+/ncn
+
+식사
+	식사/ncpa
+
+간식
+	가/px+ㄴ/etm+식/nbn
+
+9353
+	9353/nnc
+
++
+	+/ncn
+
+쇼핑
+	쇼핑/ncpa
+
+5135
+	5135/nnc
+
++
+	+/ncn
+
+유류세
+	유류세/ncn
+
+부두세
+	부두/ncn+이/jp+세/ef
+
+1300
+	1300/nnc
+
+=
+	=/sy
+
+24,458
+	24,458/nnc
+
+
+여행박사
+	여행/ncpa+박사/ncr
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+tourbaksa.
+	tourbaksa/f+./sy
+
+com/
+	com/f+//sp
+
+하우스텐보스
+	하우스텐보스/ncn
+
+http://korean.
+	http/f+:/sp+//sp+//sp+korean/f+./sy
+
+huistenbosch.
+	huistenbosch/f+./sy
+
+co.
+	co/f+./sy
+
+jp/
+	jp/f+//sp
+
+JR
+	JR/f
+
+북큐슈
+	북큐슈/ncn
+
+레일시간표
+	레일/ncn+시간표/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+jrkyushu.
+	jrkyushu/f+./sy
+
+co.
+	co/f+./sy
+
+jp/korean/info/timetable/timetable_k.
+	jp/korean/info/timetable/timetable_k./ncn
+
+html
+	html/f
+
+큐슈
+	큐슈/ncn
+
+철도시간표
+	철도/ncn+시간표/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+yoyaku.
+	yoyaku/f+./sy
+
+jrkyushu.
+	jrkyushu/f+./sy
+
+co.
+	co/f+./sy
+
+jp/jrk/reserve/route/pc/Top/nologin.
+	jp/f+//sp+jrk/f+//sp+reserve/f+//sp+route/f+//sp+pc/f+//sp+Top/f+//sp+nologin/f+./sy
+
+do
+	do/f
+
+
+여행박사에서
+	여행/ncpa+박사/ncr+에서/jca
+
+제공하는
+	제공/ncpa+하/xsva+는/etm
+
+산큐패스
+	산큐패스/ncn
+
+버스시간표
+	버스/ncn+시간표/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+tourbaksa.
+	tourbaksa/f+./sy
+
+com/japan/item/kyushu/busTime/busTime1
+	com/japan/item/kyushu/busTime/busTime1/ncn
+
+.
+	./sf
+
+
+asp
+	asp/f
+
+?
+	?/sf
+
+
+sub=1
+	sub/f+=/sy+1/nnc
+
+여행박사에서
+	여행/ncpa+박사/ncr+에서/jca
+
+제공하는
+	제공/ncpa+하/xsva+는/etm
+
+JR
+	JR/f
+
+북큐슈
+	북큐슈/ncn
+
+레일시간표
+	레일/ncn+시간표/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+tourbaksa.
+	tourbaksa/f+./sy
+
+com/item/kyushu/kyushuRailinfo.
+	com/f+//sp+item/f+//sp+kyushu/f+//sp+kyushuRailinfo/f+./sy
+
+asp
+	asp/f
+
+여행박사에서
+	여행/ncpa+박사/ncr+에서/jca
+
+제공하는
+	제공/ncpa+하/xsva+는/etm
+
+하우스텐보스
+	하우스텐보스/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+tourbaksa.
+	tourbaksa/f+./sy
+
+com/huistenbosch/index1
+	com/huistenbosch/index1/ncn
+
+.
+	./sf
+
+
+asp
+	asp/f
+
+?
+	?/sf
+
+
+param=a
+	param/f+=/sy+a/f
+
+
+2010
+	2010/nnc
+
+10
+	10/nnc
+
+11
+	11/nnc
+
+(월)
+	(/sl+월/nbu+)/sr
+
+:
+	:/sp
+
+야나가와
+	야나가/ncn+와/jcj
+
+(카와쿠다리,
+	(카와쿠다리,/ncn
+
+오하나)0730-1030
+	오/nnc+하나/nnc+)/sr+0730/nnc+-1030/nnc
+
+:
+	:/sp
+
+부산국제여객터미널-하카타국제여객터미널(비틀호)
+	부산국제여객터미널-하카타국제여객터미널(비틀호)/ncn
+
+1050-1110
+	1050/nnc+-1110/nnc
+
+:
+	:/sp
+
+하카타역으로
+	하카타역으로/ncn
+
+이동(220
+	이동(220/ncn
+
+)
+	)/sr
+
+1130-1150
+	1130/nnc+-1150/nnc
+
+:
+	:/sp
+
+도요호텔
+	도요/ncn+호텔/ncn
+
+출발
+	출발/ncpa
+
+.
+	./sf
+
+
+패스권
+	패스/ncpa+권/ncn
+
+교환
+	교환/ncpa
+
+.
+	./sf
+
+
+지정석예매
+	지정석예매/ncn
+
+1220-0100
+	1220/nnc+-0100/nnc
+
+:
+	:/sp
+
+하카타
+	하카타/ncn
+
+교통센터
+	교통/ncn+센터/ncn
+
+8F
+	8F/ncn
+
+점심
+	점심/ncn
+
+카레
+	카레/ncn
+
+0130
+	0130/nnc
+
+:
+	:/sp
+
+하카타역-텐진역으로
+	하카타역-텐진역으로/ncn
+
+이동(220
+	이동(220/ncn
+
+)
+	)/sr
+
+0200-0245
+	0200/nnc+-0245/nnc
+
+:
+	:/sp
+
+오무타센
+	오무타센/ncn
+
+탑승
+	탑승/ncpa
+
+.
+	./sf
+
+
+야나가와역으로
+	야나가와역/ncn+으로/jca
+
+이동
+	이/nnc+동/nbu
+
+0310-0420
+	0310/nnc+-0420/nnc
+
+:
+	:/sp
+
+야나가와
+	야나가/ncn+와/jcj
+
+카와쿠다리
+	카와쿠다리/ncn
+
+뱃놀이
+	뱃놀이/ncn
+
+0430-0500
+	0430/nnc+-0500/nnc
+
+:
+	:/sp
+
+야나가와
+	야나가/ncn+와/jcj
+
+오하나
+	오/nnc+하나/nnc
+
+관람
+	관람/ncpa
+
+0520
+	0520/nnc
+
+:
+	:/sp
+
+오하나-야나가와역으로
+	오하나-야나가와역으로/ncn
+
+이동(200
+	이동(200/ncn
+
+)
+	)/sr
+
+0535-0620
+	0535/nnc+-0620/nnc
+
+:
+	:/sp
+
+오무타센
+	오무타센/ncn
+
+탑승
+	탑승/ncpa
+
+.
+	./sf
+
+
+텐진역으로
+	텐진역/ncn+으로/jca
+
+이동
+	이/nnc+동/nbu
+
+0630-0730
+	0630/nnc+-0730/nnc
+
+:
+	:/sp
+
+텐진
+	텐진/ncn
+
+구경
+	구경/ncn
+
+0740
+	0740/nnc
+
+:
+	:/sp
+
+텐진역-하카타역
+	텐진역-하카타역/ncn
+
+도착(100
+	도착(100/ncn
+
+)
+	)/sr
+
+0800-0900
+	0800/nnc+-0900/nnc
+
+:
+	:/sp
+
+요도바시카메라
+	요도바시카메라/ncn
+
+4F
+	4F/ncn
+
+저녁
+	저녁/ncn
+
+스시온도
+	스시온/ncn+도/jxc
+
+0930
+	0930/nnc
+
+:
+	:/sp
+
+도요호텔
+	도요/ncn+호텔/ncn
+
+도착
+	도착/ncpa
+
+
+2010
+	2010/nnc
+
+10
+	10/nnc
+
+12
+	12/nnc
+
+(화)
+	(/sl+화/ncn+)/sr
+
+:
+	:/sp
+
+하우스텐보스0740
+	하우스텐보스0740/ncn
+
+:
+	:/sp
+
+도요호텔
+	도요/ncn+호텔/ncn
+
+출발
+	출발/ncpa
+
+0826-1015
+	0826/nnc+-1015/nnc
+
+:
+	:/sp
+
+하우스텐보스호
+	하우스텐보스호/ncn
+
+탑승
+	탑승/ncpa
+
+.
+	./sf
+
+
+하우스텐보스로
+	하우스텐보스/ncn+로/jca
+
+이동
+	이/nnc+동/nbu
+
+1020-0500
+	1020/nnc+-0500/nnc
+
+:
+	:/sp
+
+하우스텐보스
+	하우스텐보스/ncn
+
+관람
+	관람/ncpa
+
+0512-0652
+	0512/nnc+-0652/nnc
+
+:
+	:/sp
+
+하우스텐보스호
+	하우스텐보스호/ncn
+
+탑승
+	탑승/ncpa
+
+.
+	./sf
+
+
+하카타역으로
+	하카타역/ncn+으로/jca
+
+이동
+	이/nnc+동/nbu
+
+0710-0750
+	0710/nnc+-0750/nnc
+
+:
+	:/sp
+
+하카타
+	하카타/ncn
+
+교통센터
+	교통/ncn+센터/ncn
+
+4F
+	4F/ncn
+
+다이소(100
+	다이소(100/ncn
+
+샵)
+	샵)/ncn
+
+0800-0840
+	0800/nnc+-0840/nnc
+
+:
+	:/sp
+
+하카타
+	하카타/ncn
+
+교통센터
+	교통/ncn+센터/ncn
+
+8F
+	8F/ncn
+
+저녁
+	저녁/ncn
+
+요코노미야끼
+	요코노미야끼/ncn
+
+0850
+	0850/nnc
+
+:
+	:/sp
+
+도요호텔
+	도요/ncn+호텔/ncn
+
+도착
+	도착/ncpa
+
+
+2010
+	2010/nnc
+
+10
+	10/nnc
+
+13
+	13/nnc
+
+(수)
+	(/sl+수/nbn+)/sr
+
+:
+	:/sp
+
+구마모토성
+	구마모토성/ncn
+
++
+	+/ncn
+
+벳부
+	벳부/ncn
+
+지옥순례0600
+	지옥순례0600/ncn
+
+:
+	:/sp
+
+도요호텔
+	도요/ncn+호텔/ncn
+
+출발
+	출발/ncpa
+
+0629-0754
+	0629/nnc+-0754/nnc
+
+:
+	:/sp
+
+렐레쯔바메
+	렐레쯔바메/ncn
+
+탑승
+	탑승/ncpa
+
+.
+	./sf
+
+
+구마모토로
+	구마모토/ncn+로/jca
+
+이동
+	이/nnc+동/nbu
+
+0809-0825
+	0809/nnc+-0825/nnc
+
+:
+	:/sp
+
+구마모토역-구마모토조마에로
+	구마모토역-구마모토조마에로/ncn
+
+노면전차타고
+	노면/ncn+전차/ncn+타/ncn+이/jp+고/ecc
+
+이동(150
+	이동(150/ncn
+
+)
+	)/sr
+
+0840-1020
+	0840/nnc+-1020/nnc
+
+:
+	:/sp
+
+구마모토성
+	구마모토성/ncn
+
+관람
+	관람/ncpa
+
+1045-1100
+	1045/nnc+-1100/nnc
+
+:
+	:/sp
+
+구마모토조마에-구마모토역으로
+	구마모토조마에-구마모토역으로/ncn
+
+노면전차타고
+	노면/ncn+전차/ncn+타/ncn+이/jp+고/ecc
+
+이동(150
+	이동(150/ncn
+
+)
+	)/sr
+
+1137-0238
+	1137/nnc+-0238/nnc
+
+:
+	:/sp
+
+큐슈횡단특급
+	큐슈횡단특급/ncn
+
+탑승
+	탑승/ncpa
+
+.
+	./sf
+
+
+벳부로
+	벳부/ncn+로/jca
+
+이동
+	이/nnc+동/nbu
+
+0255-0310
+	0255/nnc+-0310/nnc
+
+:
+	:/sp
+
+bus
+	bus/f
+
+7번
+	7/nnc+번/nbu
+
+탑승
+	탑승/ncpa
+
+.
+	./sf
+
+
+벳부역-간나와로
+	벳부역-간나와/ncn+로/jca
+
+이동(320
+	이동(320/ncn
+
+)
+	)/sr
+
+0320-0500
+	0320/nnc+-0500/nnc
+
+:
+	:/sp
+
+벳부
+	벳부/ncn
+
+지옥온천
+	지옥/ncn+온천/ncn
+
+6곳
+	6/nnc+곳/nbu
+
+관람
+	관람/ncpa
+
+0510-0535
+	0510/nnc+-0535/nnc
+
+:
+	:/sp
+
+bus
+	bus/f
+
+2번
+	2/nnc+번/nbu
+
+탑승
+	탑승/ncpa
+
+.
+	./sf
+
+
+간나와-벳부역으로
+	간나와-벳부역/ncn+으로/jca
+
+이동(320
+	이동(320/ncn
+
+)
+	)/sr
+
+0540-0560
+	0540/nnc+-0560/nnc
+
+:
+	:/sp
+
+벳부타워(도보
+	벳부타워(도보/ncn
+
+10-15분)
+	10/nnc+-15/nnc+분/nbu+)/sr
+
+0610-0635
+	0610/nnc+-0635/nnc
+
+:
+	:/sp
+
+저녁
+	저녁/ncn
+
+코게쯔에서
+	코게쯔/ncn+에서/jca
+
+교자
+	교/ncn+이/jp+자/ecc
+
+0646-0900
+	0646/nnc+-0900/nnc
+
+:
+	:/sp
+
+아리아케
+	아리아케/ncn
+
+탑승
+	탑승/ncpa
+
+.
+	./sf
+
+
+하카타역으로
+	하카타역/ncn+으로/jca
+
+이동
+	이/nnc+동/nbu
+
+0910
+	0910/nnc
+
+:
+	:/sp
+
+도요호텔
+	도요/ncn+호텔/ncn
+
+도착
+	도착/ncpa
+
+
+2010
+	2010/nnc
+
+10
+	10/nnc
+
+14
+	14/nnc
+
+(목)
+	(/sl+목/ncn+)/sr
+
+:
+	:/sp
+
+모지코
+	모지/ncn+코/ncn
+
+(큐슈철도기념관
+	(큐슈철도기념관/ncn
+
++
+	+/ncn
+
+레토로전망실
+	레토로전망실/ncn
+
++
+	+/ncn
+
+해협프라자)0635
+	해협/ncn+프라자/ncn+)/sr+0635/nnc
+
+:
+	:/sp
+
+도요호텔
+	도요/ncn+호텔/ncn
+
+출발
+	출발/ncpa
+
+0700-0757
+	0700/nnc+-0757/nnc
+
+:
+	:/sp
+
+소닉
+	소닉/ncn
+
+탑승
+	탑승/ncpa
+
+.
+	./sf
+
+
+고쿠라로
+	고쿠라/ncn+로/jca
+
+이동
+	이/nnc+동/nbu
+
+0810-0823
+	0810/nnc+-0823/nnc
+
+:
+	:/sp
+
+고쿠라역-모지코역으로
+	고쿠라역-모지코역으로/ncn
+
+이동(270
+	이동(270/ncn
+
+)
+	)/sr
+
+0900-0950
+	0900/nnc+-0950/nnc
+
+:
+	:/sp
+
+큐슈철도기념관
+	큐슈철도기념관/ncn
+
+관람(도보
+	관람(도보/ncn
+
+5분)
+	5/nnc+분/nbu+)/sr
+
+1000-1015
+	1000/nnc+-1015/nnc
+
+:
+	:/sp
+
+모지코
+	모지/ncn+코/ncn
+
+해협프라자
+	해협/ncn+프라/ncn+이/jp+자/ecc
+
+1F
+	1F/ncn
+
+오르골매장
+	오르골매장/ncn
+
+1020-1040
+	1020/nnc+-1040/nnc
+
+:
+	:/sp
+
+모지코
+	모지/ncn+코/ncn
+
+레토로전망실
+	레토로전망실/ncn
+
+관람(도보
+	관람(도보/ncn
+
+10분)
+	10/nnc+분/nbu+)/sr
+
+블루윙
+	블루/ncn+윙/ncn
+
+모지
+	모/ncn+이/jp+지/ecs
+
+건너기
+	건너/pvg+기/etn
+
+1110-1135
+	1110/nnc+-1135/nnc
+
+:
+	:/sp
+
+점심
+	점심/ncn
+
+야끼카레
+	야끼카레/ncn
+
+1054-1207
+	1054/nnc+-1207/nnc
+
+:
+	:/sp
+
+모지코역-고쿠라역으로
+	모지코역-고쿠라역으로/ncn
+
+이동(270
+	이동(270/ncn
+
+)
+	)/sr
+
+1211-1258
+	1211/nnc+-1258/nnc
+
+:
+	:/sp
+
+소닉
+	소닉/ncn
+
+탑승
+	탑승/ncpa
+
+.
+	./sf
+
+
+하카타역으로
+	하카타역/ncn+으로/jca
+
+이동
+	이/nnc+동/nbu
+
+0126-0150
+	0126/nnc+-0150/nnc
+
+:
+	:/sp
+
+하카타국제여객터미널로
+	하카타국제여객터미널로/ncn
+
+이동(220
+	이동(220/ncn
+
+)
+	)/sr
+
+0230-0530
+	0230/nnc+-0530/nnc
+
+:
+	:/sp
+
+하카타국제여객터미널-부산국제여객터미널(코비호)
+	하카타국제여객터미널-부산국제여객터미널(코비호)/ncn
+
+0710-1010
+	0710/nnc+-1010/nnc
+
+:
+	:/sp
+
+부산사상터미널-광주광천터미널(21400냥)
+	부산사상터미널-광주광천터미널(21400냥)/ncn
+
+1100
+	1100/nnc
+
+:
+	:/sp
+
+야옹이
+	야옹/ncn+이/jcc
+
+집에
+	집/ncn+에/jca
+
+도착
+	도착/ncpa
+
+
+개인적으로
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+이번
+	이/nnc+번/nbu
+
+여행에선
+	여행/ncpa+에/jca+선/jxc
+
+마음에
+	마음/ncn+에/jca
+
+드는
+	들/pvg+는/etm
+
+사진이
+	사진/ncn+이/jcc
+
+단
+	달/paa+ㄴ/etm
+
+한장도
+	한/nnc+장/nbu+도/jxc
+
+없을정도로
+	없을정도/ncn+로/jca
+
+너무나도
+	너무나/mag+도/jxc
+
+부족하답니다
+	부족/ncps+하/xsms+답니다/ef
+
+.
+	./sf
+
+
+부디
+	부디/mag
+
+양해해주시길
+	양해해주시길/ncn
+
+바래욤~~
+	바래욤~~/ncn
+
+그래도
+	그래도/maj
+
+재미나게
+	재미나/pvg+게/ecs
+
+봐주신다면
+	보/pvg+아/ecx+주/px+시/ep+ㄴ다면/ecs
+
+무한한
+	무한/ncps+하/xsms+ㄴ/etm
+
+감사를
+	감사/ncpa+를/jco
+
+드린답니다
+	드리/pvg+ㄴ답니다/ef
+
+.
+	./sf
+
+
+^-^
+	^/sy+-/sd+^/sy
+
+
+과자
+	과/ncn+이/jp+자/ecc
+
+음료수
+	음료수/ncn
+
+:
+	:/sp
+
+945
+	945/nnc

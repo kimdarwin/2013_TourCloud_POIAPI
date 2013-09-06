@@ -1,0 +1,34 @@
+Title:
+5/1 슬로시티 하동 토지길 걷기 여행 후기
+
+Date:
+2012.05.01
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(583724,'files/attach/images/64/842/213/cf3f0e86e06411d2c4657894e9ade168.jpg');
+list_gallery_add_image(583724,'files/attach/images/64/842/213/7d03206480fafc27b125dcd074c8672a.jpg');
+list_gallery_add_image(583724,'files/attach/images/64/842/213/240345c7c4df8ebac7eadcd28d3e741f.jpg');
+list_gallery_add_image(583724,'files/attach/images/64/842/213/6c7d47a7c81dcf70bd3fb1be7816f8d0.jpg');
+list_gallery_add_image(583724,'files/attach/images/64/842/213/a11f57c8d536be6599255badc95cef75.jpg');
+list_gallery_add_image(583724,'files/attach/images/64/842/213/a488bbd961d9399f363caa55c9fcb4da.jpg');
+list_gallery_add_image(583724,'files/attach/images/64/842/213/35e3f358e7bd1f38f2803d683ca4508d.jpg');
+list_gallery_add_image(583724,'files/attach/images/64/842/213/2b6dbe30e1e05aa1b3f6b9de0416a876.jpg');
+list_gallery_add_image(583724,'files/attach/images/64/842/213/13829fb49f203143660ebc7fbbf46552.jpg');
+list_gallery_add_image(583724,'files/attach/images/64/842/213/ff996119e089be8706ac3a246271dd6d.jpg');
+list_gallery_add_image(583724,'files/attach/images/64/842/213/cb7ca35f2cbba7e8fa6297cc1549ad71.jpg');
+list_gallery_add_image(583724,'files/attach/images/64/842/213/a32c4c177f2e8418d659d6f61b62da2d.jpg');
+list_gallery_add_image(583724,'files/attach/images/64/842/213/df4b25d38cb932d6fc98d2cbf3094ff4.jpg');
+list_gallery_add_image(583724,'files/attach/images/64/842/213/1c44ab74479cebc6ca8d74c381ab0e2f.jpg');
+list_gallery_add_image(583724,'files/attach/images/64/842/213/e2afea4f95e624349b27c5ac637442ae.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 5월 1일(화) 슬로시티 하동 토지길 걷기 여행을 하였습니다. 
+하동은 4월 벚꽃이 필 때 그리고 지리산둘레길 걷기로 다녀온 곳인데 5월의 하동은 그때보다 신록이 훨씬 짙어졌습니다. 계절의 여왕이라는 말을 실감할 정도로 눈이 시원해지는 초록빛이 참 좋더군요.
+이번 하동 토지길 걷기는 문암송이 멋진 대봉감마을을 돌아보고 토지길을 따라 걷기를 하거나 최참판댁, 매암차박물관 등 여행코스를 자율적으로 선택하여 여행을 하는 형식으로 진행되었습니다.
+감꽃이 맺히고 분홍 매실이 주렁주렁 열리고 손톱만큼 자란 배 등 풍성한 대봉감마을은 들를 때마다 마음이 한없이 여유로워지는 느낌입니다. 아마도 그 넓은 평사리들판을 품고 있어 그런가 봅니다. 마을만 둘러보았는데 한 시간이 훌쩍 지날 정도로 요즘 대봉감마을은 한눈을 팔며 기웃거릴 것이 지천입니다.
+마을을 빠져 나와 이제 악양천을 따라 매암차박물관으로 갑니다. 이곳은 개인 차밭인데 차밭이 아담하고 정원이 예뻐서 누구든 마음에 꼭 드는 곳이죠. 햇차를 따는 아주머니들 그리고 단정한 정원에 앉아 차 한잔을 마시며 느긋한 여유도 부려보았네요.
+이곳까지는 참여 회원들과 함께 걷고 일부는 차량을 타고 최참판댁으로 이동하고 또 일부는 나머지 토지길을 걸었습니다. 악양천을 다시 빠져 나와 악양들판으로 가는 길은 비 때문인지 길이 조금씩 유실되어서 갔던 길을 되돌아와 악양들판으로 향했습니다.
+한 두 방울씩 빗방울이 떨어지고 밀과 보리가 자라는 들녘을 걷는 기분은 청량음료처럼 상쾌한 느낌이더군요. 도시에 내리는 비와 시골의 비는 급이 다른지 시골 비를 맞는 느낌은 오히려 기분이 좋아지는 것 같더라구요.
+그 드넓은 악양들판을 거닐 때 비가 좀더 내렸지만 여행을 방해하거나 지장을 주지는 않았습니다. 옅은 안개가 드리워진 길을 거닐며 만난 부부송 그리고 잠깐이지만 최참판댁까지 돌아보고 이번 여행을 마쳤습니다.
+자줏빛 꽃 자운영이 피어나고 평온한 시골의 정취가 묻어나는 하동에서의 여행이 다시 일상으로의 복귀에 더없이 좋은 활력소가 되시기를 바라며 이번 여행에 참여하신 회원분들 모두 5월도 활기차게 보내시기 바랍니다~이 게시물을...

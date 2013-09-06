@@ -1,0 +1,521 @@
+"뉴제주펜션"
+	"뉴제주펜션"/ncn
+
+-
+	-/sd
+
+제주펜션
+	제주펜션/ncn
+
+
+내가
+	나/npp+가/jcs
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+후배가
+	후배/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이제야
+	이제야/mag
+
+연락이
+	연락/ncpa+이/jcc
+
+닿았는데
+	닿/pvg+아/ep+ㄴ데/ecs
+
+안덕면에
+	안덕면/ncn+에/jca
+
+뉴제주펜션을
+	뉴제주펜션/ncn+을/jco
+
+운영
+	운영/ncpa
+
+한다는
+	하/px+ㄴ다/ef+는/etm
+
+반가운
+	반갑/paa+은/etm
+
+소식
+	소식/ncn
+
+
+그런데
+	그런데/maj
+
+여행사
+	여행사/ncn
+
+거래는
+	것/nbn+이/jp+래/ef+는/etm
+
+아직
+	아직/mag
+
+안한단다
+	안하/pvg+ㄴ단다/ef
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+도와줄게
+	돕/pvg+어/ecx+줄/px+게/ecs
+
+했는데
+	하/px+었/ep+는데/ecs
+
+그럼
+	그렇/pad+ㅁ/etn
+
+블러그
+	블러그/ncn
+
+소개에만
+	소개/ncpa+에/jca+만/jxc
+
+해달라고
+	해달라/ncn+이/jp+고/ecc
+
+해서
+	하/pvg+어서/ecs
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+나한테
+	나한/ncn+테/ncn
+
+
+보내왔는데
+	보내/pvg+어/ecx+오/px+아/ep+ㄴ데/ecs
+
+전망도
+	전망/ncn+도/jxc
+
+좋고
+	좋/paa+고/ecc
+
+괜찮은듯
+	괜찮/paa+은/etm+듯/nbs
+
+시간
+	시간/nbu
+
+나면
+	나/npp+이/jp+면/ecs
+
+내가
+	나/npp+가/jcs
+
+가서
+	가/pvg+서/ecs
+
+직접
+	직접/mag
+
+찍어
+	찍/pvg+어/ecx
+
+올릴게요
+	올릴게요/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+후배가
+	후배/ncn+가/jcs
+
+성격이
+	성격/ncn+이/jcc
+
+급해서
+	급하/paa+어서/ecs
+
+
+객실
+	객실/ncn
+
+전경
+	전경/ncn
+
+앞에
+	앞/ncn+에/jca
+
+앉아서
+	앉/pvg+아/ecx
+
+편안히
+	편안히/mag
+
+앉아서
+	앉/pvg+아/ecx
+
+타고
+	타/pvg+고/ecc
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+위로
+	위/ncn+로/jca
+
+올라가는길
+	올라가는길/ncn
+
+너무
+	너무/mag
+
+이쁘지
+	이쁘/paa+지/ecx
+
+않나요
+	않/px+나/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+보이는
+	보이/pvg+는/etm
+
+건물은
+	건물/ncn+은/jxc
+
+노래방
+	노래/ncn+방/ncn
+
+건물
+	건물/ncn
+
+저도
+	저/npp+도/jxc
+
+노래좀
+	노래/ncn+좀/ncn
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+가서
+	가/pvg+서/ecs
+
+노래좀
+	노래/ncn+좀/ncn
+
+해야
+	하/pvg+어야/ecs
+
+할듯
+	하/pvg+ㄹ/etm+듯/nbs
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+전경사진들
+	전경/ncn+사진/ncn+들/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+이곳에
+	이곳/npd+에/jca
+
+앉아서
+	앉/pvg+아/ecx
+
+바다
+	바/nbn+이/jp+다/ef
+
+보면서
+	보/px+면서/ecc
+
+바베큐
+	바베큐/ncn
+
+어떠세요
+	어떠세요/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+전망은
+	전망/ncn+은/jxc
+
+너무
+	너무/mag
+
+좋은
+	좋/paa+은/etm
+
+저도
+	저/npp+도/jxc
+
+빨리
+	빨리/mag
+
+가서
+	가/pvg+서/ecs
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍어야
+	찍/pvg+어야/ecs
+
+할것
+	하/pvg+ㄹ/etm+것/nbn
+
+같네요
+	같/paa+네/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+사진은
+	사진/ncn+은/jxc
+
+내가
+	나/npp+가/jcs
+
+찍지
+	찍/pvg+지/ecx
+
+않았지만
+	않/px+아/ep+지만/ecs
+
+이쁘게
+	이쁘/paa+게/ecs
+
+잘
+	잘/mag
+
+찍었네요
+	찍/pvg+었/ep+네/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+객실
+	객실/ncn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+객실이
+	객실/ncn+이/jcc
+
+이쁘네요
+	이쁘/paa+네/ef+요/jxf
+
+커텐열면
+	커텐/ncn+열/ncn+면/xsncc
+
+멀리
+	멀리/mag
+
+바다가
+	바/nbn+이/jp+다가/ecs
+
+전망
+	전망/ncn
+
+좋게
+	좋/paa+게/ecs
+
+보인다는점
+	보인다는점/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+느낌의
+	느낌/ncn+의/jcm
+
+방
+	방/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+방형태에요
+	방형/ncn+태/ncn+이/jp+에요/ef
+
+다
+	다/mag
+
+이쁘네요
+	이쁘/paa+네/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+내가
+	나/npp+가/jcs
+
+제일
+	제일/mag
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+핑크
+	핑크/ncn
+
+
+핑크를
+	핑크/ncn+를/jco
+
+좋아해서
+	좋/paa+아/ecx+하/px+어서/ecs
+
+하나
+	하나/nnc
+
+더
+	더/mag
+
+올립니다
+	올리/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+뉴제주펜션
+	뉴제주펜션/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+서귀포시
+	서귀포시/ncn
+
+안덕면
+	안덕면/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01740057",
+	"bl01740057",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11832081",
+	"/sl+11832081/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"뉴제주펜션",
+	title:"뉴제주펜션",/ncn
+
+pointX:245044,pointY:73896}
+	pointX/f+:/sp+245044/nnc+,/sp+pointY/f+:/sp+73896/nnc+}/sr
+
+
+"뉴제주펜션"
+	"뉴제주펜션"/ncn
+
+-
+	-/sd
+
+제주펜션
+	제주펜션/ncn
+
+
+주소
+	주소/ncn
+
+:
+	:/sp
+
+제주특별자치도
+	제주/ncn+특별/ncps+자치/ncn+도/jxc
+
+서귀포시
+	서귀포시/ncn
+
+안덕면
+	안덕면/ncn
+
+대평리
+	대평리/ncn
+
+1077
+	1077/nnc
+
+
+전화번호
+	전화번호/ncn
+
+:
+	:/sp
+
+제주포유여행사
+	제주/ncn+포유/ncpa+여행사/ncn
+
+064)
+	064/nnc+)/sr
+
+747
+	747/nnc
+
+-3230
+	-3230/nnc
+
+
+제주포유여행사바로가기
+	제주포유여행사바로가/ncn+이/jp+기/etn

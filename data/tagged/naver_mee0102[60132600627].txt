@@ -1,0 +1,497 @@
+서천식물예술원
+	서천/ncn+식물/ncn+예술/ncn+원/ncn
+
+
+[서천여행/충남서천여행/서천갈만한곳]
+	[서천여행/충남서천여행/서천갈만한곳/ncn+]/sr
+
+
+쟈스민의
+	쟈스민/ncn+의/jcm
+
+서천
+	서천/ncn
+
+1박
+	1/nnc+박/nbu
+
+2일
+	2/nnc+일/nbu
+
+추천여행코스
+	추천/ncpa+여행코스/ncn
+
+
+1일째:
+	1/nnc+일/nbu+째/xsnu+:/sp
+
+점심
+	점심/ncn
+
+-비인
+	-/sd+비/ncn+이/jp+ㄴ/etm
+
+5층석탑
+	5층석탑/ncn
+
+-
+	-/sd
+
+이하복
+	이하/ncn+복/ncn
+
+가옥
+	가옥/ncn
+
+-
+	-/sd
+
+춘장대
+	춘장대/ncn
+
+해수욕장
+	해수욕장/ncn
+
+-
+	-/sd
+
+저녁
+	저녁/ncn
+
+-
+	-/sd
+
+숙소
+	숙소/ncn
+
+
+2일째
+	2/nnc+일/nbu+째/xsnu
+
+:아침
+	:/sp+아침/ncn
+
+-
+	-/sd
+
+희리산
+	희리산/ncn
+
+자연휴양림
+	자연/ncn+휴양림/ncn
+
+-
+	-/sd
+
+점심
+	점심/ncn
+
+-
+	-/sd
+
+장항송림산림욕장
+	장항송림산림욕장/ncn
+
+
+식물원
+	식물원/ncn
+
+가꾸기는
+	가꾸/pvg+기/etn+는/jxc
+
+여자보다
+	여자/ncn+보다/jca
+
+남자들이
+	남자들/ncn+이/jcc
+
+더
+	더/mag
+
+좋아하는걸까요
+	좋/paa+아/ecx+하/px+는/etm+것/nbn+이/jp+ㄹ까/ef+요/jxf
+
+??
+	?/sf+?/sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+태안여행에서는
+	태안여행에서/ncn+는/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+남자의
+	남자/ncn+의/jcm
+
+열정이
+	열정/ncn+이/jcc
+
+아름다운
+	아름답/paa+은/etm
+
+천리포수목원을
+	천리포수목원/ncn+을/jco
+
+만들었다면
+	만들/pvg+었/ep+다면/ecs
+
+이번
+	이/nnc+번/nbu
+
+서천여행에서는
+	서천/ncn+여행/ncpa+에서/jca+는/jxc
+
+서천식물예술원에서
+	서천/ncn+식물/ncn+예술/ncn+원/ncn+에서/jca
+
+그
+	그/mmd
+
+열정을
+	열정/ncn+을/jco
+
+만났습니다
+	만나/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+천리포수목원처럼
+	천리포수목원처럼/ncn
+
+그
+	그/mmd
+
+규모면에서는
+	규모면/ncn+에서/jca+는/jxc
+
+그리
+	그리/mad
+
+큰
+	크/paa+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+아니었지만
+	아니/paa+었/ep+지만/ecs
+
+
+서천식물예술원은
+	서천/ncn+식물/ncn+예술/ncn+원/ncn+은/jxc
+
+초등학교
+	초등학교/ncn
+
+교장으로
+	교장/ncr+으로/jca
+
+퇴임하신
+	퇴임/ncpa+하/xsva+시/ep+ㄴ/etm
+
+김재완원장님이
+	김재완원장님/ncn+이/jcc
+
+40여년간
+	40/nnc+여/xsnu+년/nbu+간/xsnu
+
+수집하고
+	수집/ncpa+하고/jct
+
+가꾸어
+	가꾸/pvg+어/ecx
+
+온
+	오/px+ㄴ/etm
+
+것들을
+	것들/ncn+을/jco
+
+무료로
+	무료/ncn+로/jca
+
+개방하고
+	개방/ncpa+하고/jct
+
+있었어요~
+	있/paa+었/ep+어요/ef+~/sd
+
+
+입구에는
+	입구/ncn+에/jca+는/jxc
+
+인상적인
+	인상/ncn+적/ncn+이/jp+ㄴ/etm
+
+솟대부터
+	솟대/ncn+부터/jxc
+
+더운
+	덥/paa+은/etm
+
+여름이면연꽃의
+	여름/ncn+이면/ncn+연꽃/ncn+의/jcm
+
+향연이
+	향연/ncn+이/jcc
+
+펼쳐질연꽃정원을
+	펼쳐질연꽃정원/ncn+을/jco
+
+비롯해
+	비롯/ncpa+하/xsva+어/ecx
+
+미로정원,
+	미로/ncn+정원/ncn+,/sp
+
+민속체험장,
+	민속/ncn+체험/ncpa+장/ncn+,/sp
+
+옹기전시장,
+	옹기/ncn+전시장/ncr+,/sp
+
+
+건너편
+	건너편/ncn
+
+분재전시장,
+	분재/ncn+전시장/ncr+,/sp
+
+민속체험관까지
+	민속/ncn+체험/ncpa+관/ncn+까지/jxc
+
+규모는
+	규모/ncn+는/jxc
+
+그리
+	그리/mad
+
+크지
+	크/paa+지/ecx
+
+않지만
+	않/px+지만/ecs
+
+보통
+	보통/mag
+
+청소년들의체험학습이
+	청소년들의체험학습/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+이뤄지고
+	이루/pvg+어/ecx+지/px+고/ecc
+
+있어
+	있/paa+어/ecs
+
+
+우리의
+	우리/npp+의/jcm
+
+전통문화와
+	전통문화/ncn+와/jcj
+
+자연의
+	자연/ncn+의/jcm
+
+소중함을
+	소중/ncn+함/ncn+을/jco
+
+일깨워
+	일깨우/pvg+어/ecx
+
+줄만한
+	주/px+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+공간이었어요~
+	공간/ncn+이/jp+었/ep+어요/ef+~/sd
+
+
+아울러
+	아우르/pvg+어/ecx
+
+서천식물예술원의
+	서천/ncn+식물/ncn+예술/ncn+원/ncn+의/jcm
+
+건너편엔
+	건너편/ncn+엔/jca
+
+'꿈꾸는
+	'/sl+꿈꾸/pvg+는/etm
+
+나무들'이라는
+	나무/ncn+들/xsncc+'/sr+이/jp+라/ef+는/etm
+
+카페와
+	카페/ncn+와/jcj
+
+분재원으로
+	분재/ncn+원/ncn+으로/jca
+
+이어집니다
+	잇/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+카페에는
+	카페/ncn+에/jca+는/jxc
+
+김재완
+	김재완/ncn
+
+원장님을
+	원장/ncr+님/ncn+을/jco
+
+대신해그의
+	대신해그/ncn+의/jcm
+
+아들이
+	아들/ncn+이/jcc
+
+예술원을
+	예술/ncn+원/ncn+을/jco
+
+관리하고
+	관리/ncn+하고/jct
+
+계시더군요~
+	계시/ncn+이/jp+더군/ef+요/jxf+~/sd
+
+
+수령이
+	수령/ncpa+이/jcc
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+분재감상은
+	분재/ncn+감상/ncn+은/jxc
+
+물론
+	물론/mag
+
+쉼터
+	쉼터/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+켠에선
+	켠/nbn+에/jca+선/jxc
+
+커피나
+	커피/ncn+나/jcj
+
+와플을
+	와플/ncn+을/jco
+
+먹을
+	먹/pvg+을/etm
+
+수도
+	수/nbn+도/jxc
+
+있어
+	있/px+어/ecx
+
+여행자들이
+	여행자/ncn+들/ncn+이/jcc
+
+여유롭게
+	여유/ncn+롭/xsmn+게/ecs
+
+쉬어갈만한
+	쉬/pvg+어/ecx+가/px+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+공간이기도
+	공간/ncn+이/jp+기/etn+도/jxc
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+미로정원,
+	미로/ncn+정원/ncn+,/sp
+
+체험학습장
+	체험학습/ncn+장/ncn
+
+
+옹기전시장
+	옹기/ncn+전시장/ncr
+
+
+보리수열매
+	보리수/ncn+열매/ncn
+
+
+연꽃정원
+	연꽃/ncn+정원/ncn
+
+
+솟대
+	솟대/ncn
+
+
+분재정원
+	분재/ncn+정원/ncn
+
+
+서천식물예술원[서천여행/충남서천여행/서천갈만한곳]
+	서천식물예술원[서천여행/충남서천여행/서천갈만한곳/ncn+]/sr
+
+
+041-951-1072
+	041/nnc+-951/nnc+-1072/nnc
+
+
+충남
+	충남/ncn
+
+서천군
+	서천/ncn+군/ncn
+
+기산면
+	기산면/ncn
+
+화산리
+	화산/ncn+리/ncn
+
+170번지
+	170번지/ncn
+
+
+2011.
+	2011./nnc
+
+6.
+	6./nnc
+
+20|지도
+	20|지/ncn+도/jxc
+
+크게
+	크/paa+게/ecs
+
+보기
+	보/px+기/etn
+
+NHN
+	NHN/f
+
+Corp.
+	Corp/f+./sf

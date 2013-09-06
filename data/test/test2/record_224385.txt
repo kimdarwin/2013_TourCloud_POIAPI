@@ -1,0 +1,33 @@
+Title:
+6/9 분주령 야생화 트레킹 후기
+
+Date:
+2012.06.10
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(164418,'files/attach/images/64/385/224/ca2011d3ab06a2f216696e463593ee4d.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/0f7c8058ba4b6fa8f57a3650eae440f9.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/d261b80000d9ca58f187f2612d79aa1a.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/124907aa8a8f7cc2f70bd10bbb906abf.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/94e419e3ade40cd81a4ac18c95d20535.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/987dac892bb83a3c493dbc598f504fd3.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/f6114339cb21ab6e0ce61ee17c7d7f5c.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/6895857f34fdc2d570edb43aa61284c1.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/76f0f6bef01ff9b08b9ae3f3628c6382.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/6941a3181985abacc6f613ade26ed41c.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/ef91c1ae1ffc32d6f452789706baeb32.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/5295596bfd2f0a4b89aad1e3b90a30ee.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/be2cedb0bf89a77e6878c1a42d6a14ab.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/029ddc801006046ac996f8144715a588.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/bc666763d0878a0731c72ffeefdeffa4.jpg');
+list_gallery_add_image(164418,'files/attach/images/64/385/224/08fdffd2fa2af6f0037813cbde16fcd0.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 6월 9일(토) 태백 분주령 트레킹을 하였습니다. 태백 두문동재는 바람부터 서울과 크게 다릅니다. 바람 끝이 쌀쌀하고 공기의 맛도 부드러워 청정지역은 역시 뭐가 달라도 다릅니다. 한여름에도 에어컨이나 선풍기가 필요 없다는 태백의 날씨가 요즘 같아선 그저 부럽기만 합니다. 
+긴팔 옷을 겹쳐 입고 숲길을 따라 분주령으로 걷습니다. 쥐오줌풀, 백발이 된 할미꽃, 노란 미나리아재비… 길가에 핀 야생화들이 차례로 지나고 금대봉 아래 시야가 탁 트인 곳에는 범의꼬리가 그리고 쥐손이풀이 무리를 지어 피고 있습니다. 
+고목나무샘 구간으로 들어서면 이제 깊은 원시림 같은 구간입니다. 요즘 가물어서 고목나무 샘은 샘 같지도 않지만 지난밤 비가 좀 내렸다고 그래도 물이 졸졸 흐릅니다. 다 죽은 것 같은 낙엽송에도 파릇파릇 이파리가 돋았고 약 1시간 반정도가 지나자 분주령에 도착하였습니다. 
+분주령에서 검룡소 방면으로 내려서면 되지만 저는 이번에는 대덕산을 올라봤습니다. 대단할 것은 없지만 정상에서 바라보는 탁 트인 풍경이 시원하였고 당귀처럼 보이는 흰 꽃무리가 인상적이었습니다. 대덕산 정상도 야생화 천국이라고 알려진 곳인데 분주령으로 걷는 구간에 보았던 꽃들을 모두 볼 수 있었네요.
+그리고 검룡소 진입로도 참 훌륭한 숲입니다. 쭉쭉 뻗어오른 잎갈나무들 그리고 계곡물이 많지는 않아도 시원하게 들리는 물소리… 가물다 해도 한강의 발원지인 검룡소는 오늘도 새로운 물이 퐁퐁 샘솟고 있습니다.
+트레킹이 끝나고 태백 너와집 식당에서 깔끔한 비빔밥으로 늦은 점심을 하고 서울로 돌아왔습니다.
+태백 분주령의 바람 차갑기는 다시 떠올려도 부럽기만 합니다. 선들선들 그 바람에 춤추는 야생화들 그리고 맑은 소리로 노래를 들려주던 새소리… 하루 청량함을 만끽하였으니 일주일은 거뜬히 날수 있겠죠?^^ 오늘 하루도 푹 잘 쉬시고 새로운 한 주도 활기차게 보내시기 바랍니다~이 게시물을...

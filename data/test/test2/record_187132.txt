@@ -1,0 +1,26 @@
+Date:
+2011.10.22
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(292038,'files/attach/images/228818/132/187/6207a1fa672cb8772028b9b4e8476d74.jpg');
+list_gallery_add_image(292038,'files/attach/images/228818/132/187/62b370cb37ce384d61b3a0cd13970ad8.jpg');
+list_gallery_add_image(292038,'files/attach/images/228818/132/187/0079a62e56268f6c3da7587ee8431a9f.jpg');
+list_gallery_add_image(292038,'files/attach/images/228818/132/187/e117ae8334a88181c2ad5d553a4be722.jpg');
+list_gallery_add_image(292038,'files/attach/images/228818/132/187/569605530d421f3d0a8bbcd1dc14802b.jpg');
+list_gallery_add_image(292038,'files/attach/images/228818/132/187/73edaf087c53d0c57eeffb38b3f540eb.jpg');
+list_gallery_add_image(292038,'files/attach/images/228818/132/187/dc42f92a0272cee164e122dd5ef5a1b3.jpg');
+list_gallery_add_image(292038,'files/attach/images/228818/132/187/48310bb58d906199c56b6dfed666dfd3.jpg');
+list_gallery_add_image(292038,'files/attach/images/228818/132/187/a1e9a1a65c4eb7489ffd80e8f0891262.jpg');
+list_gallery_add_image(292038,'files/attach/images/228818/132/187/32a0399f240c5d3afda422ed99195a5b.jpg');
+list_gallery_add_image(292038,'files/attach/images/228818/132/187/e02281f2f01092cc8a21c9667c300399.jpg');
+list_gallery_add_image(292038,'files/attach/images/228818/132/187/2f24c43d9c70b6c50988950d5d27104c.jpg');
+list_gallery_add_image(292038,'files/attach/images/228818/132/187/2344b5b95859b19a0e5f1e32d109fc46.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+10월 22일(토), 아름다운 여행으로 청량산과 무섬마을에 다녀왔습니다. 요즘 날씨가 계속 좋았는데 이 날은 날이 좋지 않았네요. 종일 가을비를 맞으며 여행을 해야 했습니다.
+봉화의 청량산은 대표적인 가을산으로 유명합니다. 붉고 화사한 단풍은 많지 않아도 가을이면 산 전체가 울긋불긋 짙은 갈색으로 물들어, 많은 사람이 찾는 곳입니다. 이번 여행은 청량산 아래 선학정에서 걷기 시작해 입석에서 산을 올랐습니다. 응진전과 어풍대를 거쳐 청량사를 돌아내려오는 코스입니다. 약 6km 정도의 거리로 오르막 구간이 있긴 해도 길지 않아 그리 힘든 코스는 아닙니다. 이 날은 계속 비가 내려 코스보다는 날씨 때문에 좀 애를 먹었습니다.
+그래도 청량산의 가을은 아름답더군요. 비를 머금은 산은 가을빛이 더욱 진해져서 깊은 가을 분위기에 젖어 있었습니다. 게다가 안개까지 피어올라 안개가 산을 더듬으며 흘러가는 풍경은 보기 힘든 멋진 풍경이었습니다. 저는 청량사가 내려다보이는 어풍대에서 청량사를 지나가는 안개를 보았네요. 단풍에 물든 청량사가 흰 안개 속으로 사라졌다가 서서히 제 모습을 찾는 멋진 장면은 오래도록 잊혀지지 않을 것 같습니다.
+빗속의 청량산 걷기를 마치고 영주의 무섬마을로 향했습니다. 무섬마을은 고가들이 남아 있는 전통마을로, 내성천이 마을을 휘감아돌아 물도리동으로도 유명합니다. 그리고 길게 ‘S’ 자를 그리며 내성천을 건너는 외나무다리가 유명하죠. 저희가 무섬마을에 도착했을 때는 체험여행을 나온 초등학생들이 외나무다리를 건너고 있었습니다. 자칫 중심을 잃으면 내성천으로 빠지기 십상인데 아이들은 잘도 건너더군요. 외나무다리를 보고 무섬마을을 돌아보는 것으로 이 날의 여행을 마무리했습니다.
+이 날 여행은 하루종일 비가 내려 조금 불편했던 여행이었습니다. 그래도 청량산은 물론이고 무섬마을도 이미 깊은 가을이어서 가을의 정취를 한껏 느낄 수 있었던 여행이었습니다. 서울에서는 계절의 변화도 잘 느끼지 못하고 지냈는데, 청량산과 무섬마을을 보니 이미 가을이 깊어졌음을 알겠더군요. 비로 인해 불편하긴 했지만 올해 깊은 가을과 처음 마주친 여행이었습니다. 청량사와 무섬마을 여행에 참여하신 회원님들 모두 여행을 피로 잘 푸시고 활기차게 가을을 맞으시기 바랍니다.
+이 게시물을...

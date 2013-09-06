@@ -1,0 +1,57 @@
+Title:
+아버지 ~ 싸이(Psy) 
+
+Date:
+2012.07.12 00:36
+
+Content:
+
+아버지.. 한 소절 한소절 가슴에진한 감동으로 다가오는 '싸이'의 "아버지"아버지'는 싸이'가 직접 가사를 쓰고 언타이틀 출신 '유건형'이 작곡에 참여 하였으며 뮤직비디오는인기 만화가김광호 씨가 아버지의 고단한 일상을 따뜻한 느낌으로 그려낸 곡이다아버지 ~ 싸이 (뮤비) / 2005년 발매)
+
+{	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/07/11/222/031013238157536E08C3D91373B93463900_ya3542_480P_01_16x9_logo.jpg';
+	layout.playtime = '212.349';
+	var qsParam = {};
+	qsParam.vid = '9BDC072CEFE81A670C7EC6EB1E142537C524';
+	qsParam.inKey = 'V127fc845650f8e86d3b70a6dd4ad13278429f4a2124f36dd72a36740007ce55ac4b50a6dd4ad13278429';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = 'MUSIC';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_00582 = new VideoInfraUGCPlayer('ugcPlayer_00582' ,bean); 
+ugcPlayer_00582.drawPlayLayer(); 
+}
+
+싸이는 자신의 히트곡 ‘아버지’ 라이브 음원을 어버이 날 5월 8일부터 한달 동안 무료 서비스하기도 했었으며강렬한원곡과 달리 통기타 위주의 어쿠스틱 편곡으로 애잔함을 더했으며, 특히관객과의 합창이 감동을 더했었다아버지 (at 썸머스탠드) / 2012년 5월 발매.. 이 음원은‘썸머스탠드 흠뻑쇼’ 실황 음원이다
+
+{
+	var layout = {};
+	layout.width = '300';
+	layout.height = '225';
+	var errorBean = {};
+	errorBean.code = -18;
+	errorBean.message = '본 동영상은 저작권자의 요청으로 재생이 중지되었습니다.';
+	errorBean.owner = 'false';
+	var flashVar = {};
+	var bean = {};
+	bean.layout = layout;
+	bean.errorBean = errorBean;
+	bean.flashVar = flashVar;
+	bean.player = 'oem';
+var ugcPlayer_01449 = new VideoInfraUGCPlayer('ugcPlayer_01449' ,bean); 
+ugcPlayer_01449.drawPlayLayerError(); 
+}
+
+아버지 ~ 싸이 ( 가사)너무 앞만 보며 살아오셨네 어느새 자식들 머리커서 말도 안 듣네 한평생 처 자식 밥그릇에 청춘 걸고 새끼들 사진 보며 한 푼이라도 더 벌고 눈물 먹고 목숨 걸고 힘들어도 털고 일어나 이러다 쓰러지면 어쩌나 아빠는 슈퍼맨이야 얘들아 걱정 마 위에서 짓눌러도 티 낼 수도 없고 아래에서 치고 올라와도 피할 수 없네 무섭네 세상 도망가고 싶네 젠장 그래도 참고 있네 맨날 아무것도 모른 채 내 품에서 뒹굴거리는 새끼들의 장난 때문에 나는 산다 힘들어도 간다 여보 얘들아 아빠 출근한다 아버지 이제야 깨달아요 어찌 그렇게 사셨나요 더 이상 쓸쓸해 하지 마요 이제 나와 같이 가요 어느새 학생이 된 아이들에게 아빠는 바라는 거 딱 하나 정직하고 건강한 착한 아이 바른 아이 다른 아빠보단 잘 할 테니 학교 외에 학원 과외 다른 아빠들과의 경쟁에서 이기고자 무엇이든지 다 해줘야 해 고로 많이 벌어야 해 너네 아빠한테 잘해 아이들은 친구들을 사귀고 많은 얘기 나누고 보고 듣고 더 많은 것을 해주는 남의 아빠와 비교 더 좋은 것을 사주는 남의 아빠와 나를 비교 갈수록 싸가지 없어지는 아이들과 바가지만 긁는 안사람의 등살에 외로워도 간다 여보 얘들아 (얘들아) 아빠 출근한다 아버지 이제야 깨달아요 어찌 그렇게 사셨나요 더 이상 쓸쓸해 하지 마요 이제 나와 같이 가요 여보 어느새 세월이 많이 흘렀소 첫째는 사회로 둘째 놈은 대학로 이젠 온 가족이 함께 하고 싶지만 아버지기 때문에 얘기하기 어렵구만 세월의 무상함에 눈물이 고이고 아이들은 바빠 보이고 아이고 산책이나 가야겠소 여보 함께 가주시오 아버지 이제야 깨달아요 어찌 그렇게 사셨나요 더 이상 쓸쓸해 하지 마요 이제 나와 같이 가요 오오~ 당신을 따라갈래요아버지 ~ 싸이(Psy)	
+
+	

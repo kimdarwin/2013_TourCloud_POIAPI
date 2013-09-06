@@ -1,0 +1,31 @@
+Date:
+2011.10.17
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/aeece2acf75a214ca010a792ac5a5eec.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/259f76ff62758b78fd935c1c7f521c7c.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/9f3d297c8ccfba2f51d84c934692279f.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/6fb9a7e5fc07df5804a7080101bb68a1.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/cb795efc42224e3c8b940d14f658c0ff.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/7611e5748d447fcc03e8c597df485919.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/62e6b40ba118e052b4bdbd3dbca2edbc.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/db938f934182011f25cd02ec1f33ebc6.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/6a76cae0f2054e4bfef72f42ab7ee1fd.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/c4657efb18233e0159bcc5e65df48b3d.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/3a75605c492891f2a32f233e1ae5e0c7.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/ae0a1a86e10e7e5c13eb089bef985995.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/7048adbea1faf9593fa5d8a36c8e862d.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/2cd9fd43bb3ec6dfd605940efbae50c3.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/7cd84f69b27515f57dc7357cecad8444.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/c6b28ac84e04ed689d4656a90aa973c1.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/c927f0ca66d4a25690d01c049feeebba.jpg');
+list_gallery_add_image(515234,'files/attach/images/228818/273/185/22e0558f1a08ddc7a4d2b3ae92637ea3.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+10월 16일(일) 아름다운 여행으로 선자령에 다녀왔습니다. 어제는 참 다양한 날씨와 함께한 여행이었습니다. 서울을 출발해 고속도로로 접어드니 제법 많은 비가 내리다가 강원도 횡성 휴게소쯤에 도착했을 때는 비는 그쳤지만 하늘은 잔뜩 흐리더군요. 그리고 선자령 트레킹 시작점인 구영동고속도로 휴게소에 도착할 즈음에는 파란 하늘에 하얀 구름이 떠다니구요. 하지만 바람이 꽤 불어서 안전을 위해 선자령정상까지는 함께 걷고 내려오는 숲길에서는 자유롭게 시간을 보내기로 하였습니다.
+트레킹 들머리인 숲길로 들어서 어느 정도 걷고 있는데 파랗던 하늘은 어디론가 사라지고 한두 방울로 시작된 비는 꽤 많이 내리기도 하였습니다. 일기예보에는 오전에 흐리다가 맑아질 것이라 하였는데 날씨를 종잡을 수가 없었습니다. 세찬 바람 소리가 머리 위를 윙윙 날아다니지만 풍속은 걸을만하여 그래도 정상을 향해 걸었습니다. 
+정상이 얼마나 남았을까, 정말 기적처럼 흐린 하늘이 걷히고 너무도 깨끗하게 파란 하늘이 열렸습니다. 어둠 속에 가리워졌던 모든 사물들이 밝아지는 것처럼 풍력발전기가 그리고 저 멀리 능선들이 너무도 또렷했습니다. 세상에 어떻게 한순간에 하늘이 바뀌고 풍경이 바뀌었을지 자연의 마술을 보는 듯 신비롭기만 하더군요. 그래서 비가 내리는 초반에는 사진을 남기지 못하고 그 이후로만 사진을 찍어 어제 사진을 들여다보니 날씨가 이렇게 좋았나 싶네요.^^
+그렇게 정상에 올라 바라본 풍경은 그저 고마울 따름이었습니다. 발아래 이리저리 흩어지는 구름은 묘기를 부르듯 풍경을 바꿔가며 변화무쌍함을 보여주었습니다. 
+이제 그 정상을 내려서서 바람 잠잠한 숲으로 들어섭니다. 생각만 하여도 온기가 느껴질 것 같은 숲길은 마음까지 안정을 되찾아주더군요. 미리 준비해온 도시락으로 점심식사도 하고 숲속에서는 자유로운 시간을 보냈습니다. 숲속은 벌써 깊은 가을입니다. 바람이 많이 불어 단풍이 들기도 전에 떨어진 낙엽이 수북이 쌓여 낙엽숲을 거니는 느낌이었습니다. 계곡을 따라 떠다니는 빨간 단풍잎 그리고 아직도 초록을 유지하고 있는 속세 군락은 계절의 변화도 잊게 하더군요. 그리고 양떼목장을 지날 때 눈부신 억새의 춤사위로 오늘 트레킹을 마무리 하는 시간을 가져보았습니다.
+선자령의 가을은 어떤 모습일지 무척 궁금하였는데 이번 선자령에서는 단풍보다는 바람과 변화무쌍한 날씨가 무척 인상적이었습니다. 단풍을 기대했던 분들은 다소 아쉬움이 많이 남으셨겠지만 다행히 선자령 정상부에서 맑은 모습을 볼 수 있어서 조금의 위로가 되지 않았나 싶습니다.^^ 하지만 비바람과 함께 걷게 되면 날씨가 좋을 때보다 피로가 훨씬 더한데 궂은 날씨에 고생하신 참여 회원분들께 다시 한번 수고 많으셨다는 말씀 드립니다. 피로 잘 푸시고 이번 주도 활기차게 보내시기 바랍니다~이 게시물을...

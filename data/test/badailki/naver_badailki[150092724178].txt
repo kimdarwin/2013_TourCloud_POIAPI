@@ -1,0 +1,39 @@
+Title:
+PD수첩 4대강 수심 6m의 비밀의 진실 
+
+Date:
+2010.08.25 18:54
+
+Content:
+
+PD수첩 4대강 수심 6m의 비밀의 진실
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc21/2010/08/25/910/03100223A10A538E7AC3992D630D0A03D87_badailki_logo.jpg';
+	layout.playtime = '137.539';
+	var qsParam = {};
+	qsParam.vid = '7FD774D208697020D4EDE02F448C29271F60';
+	qsParam.inKey = 'V123e7f00270c5ba2862126ae0e820ef3dc32f4a1c28376578873865097f59ab69be426ae0e820ef3dc32';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_03276 = new VideoInfraUGCPlayer('ugcPlayer_03276' ,bean); 
+ugcPlayer_03276.drawPlayLayer(); 
+}
+
+
+
+	

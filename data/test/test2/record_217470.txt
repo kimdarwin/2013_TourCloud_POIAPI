@@ -1,0 +1,26 @@
+Title:
+5/12 노고단 트레킹 후기
+
+Date:
+2012.05.12
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(283202,'files/attach/images/64/470/217/8b3d39c479a47826c9d454f3897cba1c.jpg');
+list_gallery_add_image(283202,'files/attach/images/64/470/217/bf32196525292b2217f7773496b58c00.jpg');
+list_gallery_add_image(283202,'files/attach/images/64/470/217/d0bc969d13a26247c4e4e631f4d18f2e.jpg');
+list_gallery_add_image(283202,'files/attach/images/64/470/217/8a7e42e55db9f10339cde11401318038.jpg');
+list_gallery_add_image(283202,'files/attach/images/64/470/217/abb05c2f7c8f2049a17ddc61d290d156.jpg');
+list_gallery_add_image(283202,'files/attach/images/64/470/217/147888fb14b58e94dd6f2449c9216490.jpg');
+list_gallery_add_image(283202,'files/attach/images/64/470/217/2bb0b5773dbd4bb7c7b46db681f6571b.jpg');
+list_gallery_add_image(283202,'files/attach/images/64/470/217/2e822764a4d2dc0e81015f0b907c3ed7.jpg');
+list_gallery_add_image(283202,'files/attach/images/64/470/217/d3f71e65c788d22927f7cc5f93a89756.jpg');
+list_gallery_add_image(283202,'files/attach/images/64/470/217/83b727095347f3b5248886477252b2ec.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+5월 12일(토), 아름다운 여행으로 지리산 노고단과 천은사에 다녀왔습니다. 노고단은 지리산의 서쪽 끝 봉우리로 정상 주변에 야생화가 많이 피고, 정상에서 바라보는 지리산 능선의 풍경이 아름다운 곳입니다. 봄부터 가을까지 계절마다 또 날씨마다 풍경이 바뀌어 가히 천의 얼굴을 품은 곳이기도 합니다.
+이번 노고단 트레킹은 올해 처음으로 찾아간 노고단 여행이었습니다. 노고단은 1500m급의 고산지대여서 아직도 봄이 완연하진 않더군요. 이제 연둣빛 이파리들이 올라오고 연분홍 진달래가 피어나기 시작했습니다. 그래도 다람쥐들이 얼굴을 내밀고 물소리도 제법 경쾌한 걸 보니 봄이 오긴 온 모양입니다.
+정상 주변의 진달래는 채 반도 개화를 못해 아마 다음 주말쯤이면 만개가 되지 않을까 싶습니다. 노고단의 완만한 경사면을 연분홍 진달래가 화려하게 수놓으면 정말 장관이 펼쳐질 것 같습니다. 그리고 진달래가 진 다음에는 또 수많은 야생화가 노고단을 뒤덮겠죠.
+노고단 트레킹을 마치고 지리산 자락의 사찰 천은사에 들렀습니다. 천은사는 언제 가도 차분해서 여행자들의 마음을 편안하게 해주는 절입니다. 물맛이 좋다고 알려져 있고 입구 수홍루 주변의 풍경이 산뜻한 곳입니다. 천은사의 곱고 차분한 분위기는 여전해서 노고단 트레킹의 피로를 잠시 잊을 수 있었던 것 같습니다.
+이번 여행은 날씨도 괜찮은 편이었고 봄 기운도 느낄 수 있었던 여행이었습니다. 함께 좋은 여행을 만들어준 회원분들께 감사 드립니다. 이번 여행에 참여하신 분들 모두 여행의 피로 잘 푸시고 활기차게 봄을 즐기시기 바랍니다~
+이 게시물을...

@@ -1,0 +1,40 @@
+Title:
+8/11 오대산 옛길 트레킹 후기
+
+Date:
+2012.08.12
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(796906,'files/attach/images/64/269/252/8553107c21dce0371d63938b9ec805af.jpg');
+list_gallery_add_image(796906,'files/attach/images/64/269/252/1e4faff869d45aa11f387bd2bd0fa377.jpg');
+list_gallery_add_image(796906,'files/attach/images/64/269/252/ab82dd0b27ec7f2795827aea0de9c16b.jpg');
+list_gallery_add_image(796906,'files/attach/images/64/269/252/262e797cd726d24e12f5b948ab1f728e.jpg');
+list_gallery_add_image(796906,'files/attach/images/64/269/252/f7a34640614a62b15466bd360fd16b0f.jpg');
+list_gallery_add_image(796906,'files/attach/images/64/269/252/2cfed2f7ac4df26b854443f0d53d24c2.jpg');
+list_gallery_add_image(796906,'files/attach/images/64/269/252/271eaf5bef3584f266befa0aa003655b.jpg');
+list_gallery_add_image(796906,'files/attach/images/64/269/252/6b1b97960fdcb954d89833f2a85cbf87.jpg');
+list_gallery_add_image(796906,'files/attach/images/64/269/252/d9f7c0b3ca831e89c9a482a273a4cc52.jpg');
+list_gallery_add_image(796906,'files/attach/images/64/269/252/1506510f37d4b71ef517dbb8e9201208.jpg');
+list_gallery_add_image(796906,'files/attach/images/64/269/252/bf8eb0dfdd6bc6258df95350b6c254f9.jpg');
+list_gallery_add_image(796906,'files/attach/images/64/269/252/e593feb85bbb028774c1d05b6c491a4d.jpg');
+list_gallery_add_image(796906,'files/attach/images/64/269/252/bbb330a73362d439ef80c09a9a12648d.jpg');
+list_gallery_add_image(796906,'files/attach/images/64/269/252/c50838d3fdb723fabcdde8336e7c81f1.jpg');
+list_gallery_add_image(796906,'files/attach/images/64/269/252/41dbb3c4d0bdb5c2c6840329128ccde4.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 11일(토) 아름다운 여행으로 오대산 옛길을 다녀왔습니다.
+오대산 옛길은 천년의 숲길로 월정사와 상원사를 잇는 길입니다.
+이 길은 월정사를 창건한 신라 자장율사 때부터 이어져 온 오래된 길인데, 일반인에게 개방 된지는 얼마 되지 않아 아직까지도 수수한 자연의 모습 그대로를 간직하고 있는 숨겨진 길입니다.
+총 길이는 8km정도가 되고 힘든 오르막이나 가파른 내리막이 없는 조용한 오솔길과 계곡길을 걷습니다.
+상원사 주차장에 내려 자율적으로 상원사를 돌아보고 옛길로 접어들어 트레킹이 시작됩니다.
+최근 비가 오지 않고 연일 이어지는 가뭄 현상으로 오대천 또한 풍성한 물줄기를 보여주지는 않더군요.
+하지만 맑고 깨끗하게 흐르는 물은 잠시나마 더위를 시키기에 충분합니다.
+호젓한 오솔길을 걷기도 하고 너럭바위가 펼쳐져 있는 오대천을 따라 걷기도 합니다.
+길가에 병조희풀, 흰물봉선이, 잔대, 모시대등 작고 아기자기한 꽃들도 만날 수 있습니다.
+걷는 중간 등장하는 섶다리를 만나서 그림같이 멋진 사진도 찍어보고 잠시 흐르는 물가에서 발을 담그며 더운 날씨를 잠시나마 잊어보기도 합니다.
+옛길 구간이 모두 끝나고 월정사 부도밭을 지나 월정사를 돌아보고, 전나무 숲길까지 다녀온 후 8km정도의 오대산 옛길 트레킹을 마쳤습니다.
+숲 속의 길은 선선하고 간간히 시원한 바람까지 불어주어 큰 더위는 느끼지 않으며 걸을 수 있었던 것 같습니다. 
+이곳은 가을철 단풍으로도 워낙 유명한 곳이기에 기회가 되신다면 가을날 천년의 숲길도 다시 한번 걸어보셔도 좋을 듯 합니다.
+함께 하신 모든 분들, 트레킹의 피로 말끔히 씻어내시고 맑고 시원한 기분으로 새로운 한주 맞으시길 바라겠습니다~
+이 게시물을...

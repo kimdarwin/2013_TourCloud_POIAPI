@@ -1,0 +1,724 @@
+여긴
+	여기/pvg+ㄴ/etm
+
+핀랜드의
+	핀랜드/ncn+의/jcm
+
+헬싱키~
+	헬싱키/ncn+~/sd
+
+
+노르웨이
+	노르웨/ncn+이/jcc
+
+송네
+	송네/ncn
+
+피요르드
+	피요르드/ncn
+
+가는
+	가/pvg+는/etm
+
+길에~
+	길/nbu+에/jca+~/sd
+
+
+빨간
+	빨갛/paa+은/etm
+
+원피스의
+	원피스/ncn+의/jcm
+
+여인은
+	여인/ncn+은/jxc
+
+제가
+	저/npp+가/jcs
+
+당근
+	당근/ncn
+
+아니고
+	아니/paa+고/ecc
+
+열차가
+	열차/ncn+가/jcs
+
+설때마다
+	서/pvg+ㄹ/etm+때/nbn+마다/jxc
+
+음악에
+	음악/ncn+에/jca
+
+맞춰
+	맞추/pvg+어/ecx
+
+춤을
+	춤/ncn+을/jco
+
+추는
+	추/pvg+는/etm
+
+전문직
+	전문직/ncn
+
+여인~~
+	여인/ncn+~/sd+~/sd
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+상당히
+	상당히/mag
+
+높은
+	높/paa+은/etm
+
+곳이었어요~
+	곳/nbu+이/jp+었/ep+어요/ef+~/sd
+
+
+저
+	저/mmd
+
+트롤이
+	트롤/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+곳은
+	곳/ncn+은/jxc
+
+노르웨이
+	노르웨/ncn+이/jcc
+
+제
+	저/npp+의/jcm
+
+2의
+	2/nnc+의/jcm
+
+도시
+	도시/ncn
+
+Bergen의
+	Bergen/f+의/jcm
+
+전망대
+	전망대/ncn
+
+
+여긴
+	여기/pvg+ㄴ/etm
+
+스웨덴의
+	스웨덴/ncn+의/jcm
+
+스톡홀름
+	스톡홀름/ncn
+
+
+여기도
+	여기/npd+도/jxc
+
+스웨덴
+	스웨덴/ncn
+
+스톡홀름~
+	스톡홀름/ncn+~/sd
+
+
+여긴
+	여기/pvg+ㄴ/etm
+
+핀랜드의
+	핀랜드/ncn+의/jcm
+
+템페레
+	템페레/ncn
+
+놀이동산의
+	놀이/ncn+동산/ncn+의/jcm
+
+전망대에서
+	전망대/ncn+에서/jca
+
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+집은
+	집/ncn+은/jxc
+
+누구네
+	누구/npp+이/jp+네/ef
+
+집일까요
+	집/ncn+이/jp+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+아이가
+	아이/ncn+가/jcs
+
+안고
+	안/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+건
+	거/nbn+은/jxc
+
+무민의
+	무민/ncn+의/jcm
+
+마마에요~
+	마마/ncn+이/jp+에요/ef+~/sd
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+요즘은
+	요즘/ncn+은/jxc
+
+무민
+	무민/ncn
+
+좋아하시는
+	좋/paa+아/ecx+하/px+시/ep+는/etm
+
+분들
+	불/pvg+ㄴ들/ecs
+
+참
+	참/mag
+
+많죠
+	많/paa+죠/ef
+
+?
+	?/sf
+
+
+여기
+	여기/mad
+
+무민랜드~~
+	무민랜드/ncn+~/sd+~/sd
+
+
+전
+	전/nbn
+
+다녀왔습니당~
+	다녀왔습니당~/ncn
+
+움화화하~~
+	움화화하/ncn+~/sd+~/sd
+
+
+여긴핀랜드의
+	여긴핀랜드/ncn+의/jcm
+
+로바니에미
+	로바니에미/ncn
+
+산타마을~~~
+	산타/ncn+이/jp+마/ef+ㄹ/etm+~/sd+~/sd+~/sd
+
+
+저
+	저/mmd
+
+산타랑
+	산타랑/ncn
+
+돈
+	돌/pvg+ㄴ/etm
+
+주고
+	주/nbu+이/jp+고/ecc
+
+찍는
+	찍/pvg+는/etm
+
+사진도
+	사진/ncn+도/jxc
+
+찍어왔는데,
+	찍/pvg+어/ecx+오/px+아/ep+ㄴ데/ecs+,/sp
+
+얼마전
+	얼마/ncn+전/ncn
+
+방청소하다
+	방청소/ncpa+하/xsva+어다/ecs
+
+발견했는데~~
+	발견/ncpa+하/xsva+었/ep+는데/ecs+~/sd+~/sd
+
+완존기막힌
+	완존기막힌/ncn
+
+
+여긴
+	여기/pvg+ㄴ/etm
+
+덴마크의
+	덴마크/ncn+의/jcm
+
+뭔
+	뭔/ncn
+
+성들인데,
+	성/ncn+들/xsncc+이/jp+ㄴ데/ecs+,/sp
+
+이름이
+	이름/ncn+이/jcc
+
+바로
+	바로/mag
+
+떠오르지
+	떠오르/pvg+지/ecx
+
+않네요~
+	않/paa+네요/ef+~/sd
+
+
+우측에
+	우측/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+성은
+	성/ncn+은/jxc
+
+당시에
+	당시/ncn+에/jca
+
+진짜
+	진짜/ncn
+
+찾아가기
+	찾/pvg+아/ecx+가/px+기/etn
+
+힘들었는데
+	힘들/pvg+었/ep+는데/ecs
+
+요즘은
+	요즘/mag+은/jxc
+
+어떤
+	어떤/mmd
+
+지
+	지/nbn
+
+모르겠어요~
+	모르/pvg+겠/ep+어요/ef+~/sd
+
+
+다녀오신
+	다니/pvg+어/ecx+오/px+시/ep+ㄴ/etm
+
+분
+	분/nbu
+
+있으시면
+	있/px+으시/ep+면/ecs
+
+알려
+	알리/pvg+어/ecx
+
+주세요~
+	주세/ncn+요/ncn+~/sd
+
+
+저
+	저/mmd
+
+뒤에
+	뒤/ncn+에/jca
+
+보이는
+	보이/pvg+는/etm
+
+성은
+	성/ncn+은/jxc
+
+덴마크의
+	덴마크/ncn+의/jcm
+
+Kronborg
+	Kronborg/f
+
+Castle
+	Castle/f
+
+로
+	로/ncn
+
+햄릿의
+	햄릿/ncn+의/jcm
+
+무대가
+	무대/ncn+가/jcs
+
+된
+	되/pvg+ㄴ/etm
+
+성이에요~
+	성/nbs+이/jp+에요/ef+~/sd
+
+
+저
+	저/mmd
+
+성을
+	성/ncn+을/jco
+
+기억하는
+	기억/ncpa+하/xsva+는/etm
+
+이유는
+	이유/ncn+는/jxc
+
+저
+	저/mmd
+
+성이
+	성/ncn+이/jcc
+
+가진
+	가지/pvg+ㄴ/etm
+
+이야기도
+	이야기/ncpa+도/jxc
+
+그렇고
+	그렇/pad+고/ecc
+
+으스스
+	으스스/mag
+
+했어요~게다가
+	하/px+었/ep+어/ef+요/jxf+~/sd+게다/ncn+가/jcs
+
+이른
+	이르/paa+ㄴ/etm
+
+아침이었는데다
+	아침/ncn+이/jp+었/ep+는/etm+데/nbn+이/jp+다/ef
+
+관광객이
+	관광객/ncn+이/jcc
+
+많지
+	많/paa+지/ecx
+
+않아
+	않/px+아/ecx
+
+더
+	더/mag
+
+그랬어요~
+	그렇/pad+었/ep+어요/ef+~/sd
+
+
+그래서,
+	그렇/pad+어서/ecs+,/sp
+
+저
+	저/mmd
+
+가족들
+	가족/ncn+들/ncn
+
+옆에
+	옆/ncn+에/jca
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+붙어
+	붙/pvg+어/ecx
+
+다녔어요~~
+	다니/pvg+었/ep+어요/ef+~/sd+~/sd
+
+
+다행이
+	다행/ncps+이/jcc
+
+저
+	저/mmd
+
+꼬마들이
+	꼬마/ncn+들/ncn+이/jcc
+
+절
+	절/ncn
+
+신기해
+	신기/ncn+해/ncn
+
+주는
+	주/px+는/etm
+
+바람에
+	바라/pvg+ㅁ/etn+에/jca
+
+자연스럽게~~
+	자연/ncn+스럽/xsmn+게/ecs+~/sd+~/sd
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+보이는노르웨이
+	보이는노르웨/ncn+이/jcc
+
+사진이
+	사진/ncn+이/jcc
+
+베르겐
+	베르겐/ncn
+
+전망대에서
+	전망대/ncn+에서/jca
+
+찍은
+	찍/pvg+은/etm
+
+베르겐의
+	베르겐/ncn+의/jcm
+
+모습이에요~
+	모습/ncn+이/jp+에요/ef+~/sd
+
+
+북유럽
+	북유럽/ncn
+
+말씀하신
+	말씀/ncpa+하/xsva+시/ep+ㄴ/etm
+
+이웃님이
+	이웃/ncpa+님/xsncc+이/jcc
+
+계셔서
+	계시/paa+어서/ecs
+
+이상갑작스런
+	이상/ncps+갑작/ncps+스런/jcm
+
+북유럽
+	북유럽/ncn
+
+이야기였습니당~
+	이야기였습니당/ncn+~/sd
+
+
+물론
+	물론/mag
+
+이웃님께서
+	이웃/ncpa+님/ncn+께서/jcs
+
+원하신
+	원하/pvg+시/ep+ㄴ/etm
+
+건
+	거/nbn+은/jxc
+
+이런포슷이
+	이런포슷/ncn+이/jcc
+
+아니지만
+	아니/paa+지만/ecs
+
+~^^;;;
+	~/sd+^/sy+^/sy+;/sy+;/sy+;/sy
+
+
+@
+	@/sy
+
+Rodin
+	Rodin/f
+
+Museum
+	Museum/f
+
+in
+	in/f
+
+Paris
+	Paris/f
+
+'05
+	'/sl+05/nnc
+
+
+제가
+	저/npp+가/jcs
+
+필카
+	필카/ncn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍었다고
+	찍/pvg+었/ep+다/ef+고/jcr
+
+하니까
+	하/pvg+니까/ecs
+
+뭔
+	뭔/ncn
+
+대단한
+	대/nbu+이/jp+단/etm+한/nbn
+
+이유로
+	이유/ncn+로/jca
+
+필카
+	필카/ncn
+
+사진을
+	사진/ncn+을/jco
+
+찍었다고
+	찍/pvg+었/ep+다/ef+고/jcr
+
+오해하시는
+	오해/ncpa+하시/ncn+는/jxc
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+계시는데,
+	계시/paa+ㄴ데/ecs+,/sp
+
+
+필카,
+	필카,/ncn
+
+그냥
+	그냥/mag
+
+전자동
+	전자동/ncn
+
+필카였구요,
+	필카였구요,/ncn
+
+디카
+	디카/ncn
+
+사기
+	사/pvg+기/etn
+
+전이라
+	전/nbn+이/jp+라/ecs
+
+필카로
+	필카/ncn+로/jca
+
+찍었던
+	찍/pvg+었/ep+던/etm
+
+거에요~
+	거/ncn+이/jp+에요/ef+~/sd
+
+
+필름값이랑
+	필름/ncn+값/ncn+이/jcs+랑/jxc
+
+현상값을
+	현상/ncn+값/ncn+을/jco
+
+생각하면
+	생각/ncpa+하/xsva+면/ecs
+
+진즉에
+	진즉/ncn+에/jca
+
+디카
+	디카/ncn
+
+샀어야
+	사/pvg+아/ep+아/ecs
+
+했다는
+	하/px+었/ep+다/ef+는/etm
+
+거~
+	거/ii+~/sd
+
+
+이런
+	이런/mmd
+
+속도
+	속/ncn+도/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+심오한
+	심오/ncn+한/ncn
+
+뜻이
+	뜻/ncn+이/jcc
+
+있을거라고
+	있/px+을/etm+것/nbn+이/jp+라/ef+고/jcr
+
+오해해
+	오해/ncpa+하/xsva+어/ecx
+
+주시는
+	주/px+시/ep+는/etm
+
+분들,
+	불/pvg+ㄴ/etm+들/nbn+,/sp
+
+이젠
+	이젠/ncn
+
+그런
+	그러/pvd+ㄴ/etm
+
+오핸
+	오핸/ncn
+
+말아주세요~
+	말/px+아/ecx+주/px+세/ef+요/jxf+~/sd
+
+^
+	^/sy
+
+^;;;
+	^/sy+;/sy+;/sy+;/sy

@@ -1,0 +1,41 @@
+Date:
+2011.10.02
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(264633,'files/attach/images/228818/728/181/71206f3a1ad1f1433bfd570ce49aa9e1.jpg');
+list_gallery_add_image(264633,'files/attach/images/228818/728/181/1a23c899a99b0388b93a16b80238ffe2.jpg');
+list_gallery_add_image(264633,'files/attach/images/228818/728/181/1048307e5aa2e962a79970135e576b0e.jpg');
+list_gallery_add_image(264633,'files/attach/images/228818/728/181/65304a48137c00904df9aa33d5cfbc03.jpg');
+list_gallery_add_image(264633,'files/attach/images/228818/728/181/8544cc8f5f1d201308232f934fde6e87.jpg');
+list_gallery_add_image(264633,'files/attach/images/228818/728/181/eaf4ba8098fb41431376e25296d0b0bb.jpg');
+list_gallery_add_image(264633,'files/attach/images/228818/728/181/225ac2b1d71a7f2f064ce2dca5f59d4b.jpg');
+list_gallery_add_image(264633,'files/attach/images/228818/728/181/bcc89c2aa14daa7bd190a69dc33167d2.jpg');
+list_gallery_add_image(264633,'files/attach/images/228818/728/181/6c5396cd26073b5525e206d2fd0c8fe4.jpg');
+list_gallery_add_image(264633,'files/attach/images/228818/728/181/c5306a3f18a117abb06479cca210a896.jpg');
+list_gallery_add_image(264633,'files/attach/images/228818/728/181/e520ee438df7a1c667ebe92a09128d3c.jpg');
+list_gallery_add_image(264633,'files/attach/images/228818/728/181/b985c5d54f2511b6930245c2dc0c5a50.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+10월 1일(토), 아름다운 여행으로 선자령 트레킹을 다녀왔습니다.
+개천절의 공휴일이 이어진 연휴 첫날, 더없이 눈부시고 밝은 햇살과 코끝이 쌩하게 찬 기운이 느껴지는 가을날씨에 
+선자령으로 향했습니다.
+걷기 시작점인 구 대관령휴게소에 이르자 눈부신 햇살이 비췄다가 구름에 잠시 숨었다를 반복하며 우리의 걷기 시작에 
+더욱 힘을 실어주는 듯 했습니다. 덥지도 춥지도 않은 적당한 바람과 햇살의 환상적인 조화라고나 할까요~^^ 
+초입을 벗어나자 다른 어느 때보다 걷는 사람이 많지 않아 더욱 조용하고 고요한 분위기의 길을 걸을 수 있었습니다. 
+걷는소리와 바람소리 외엔 거의 아무런 소리도 없는 듯 한 시간이었습니다.
+얼마 걷지 않아서부터 많은 야생화들이 발걸음을 더디게 하고 기분 좋은 미소를 띄게 합니다.
+투구꽃, 구절초, 벌개미취 등 그 외에 이름 모를 귀한 야생화들이 가는 길마다 눈부신 햇살에 반짝입니다.
+정상으로 가까워질수록 손에 닿을 듯한 하늘과 구름은 더욱 파랗고 하얗습니다.
+며칠 전부터 바람이 많이 불어 내심 선자령 정상의 바람 걱정을 했었는데, 정상에서도 그리 심한 바람은 불지 않더군요. 
+여전히 거대한 풍력기들은 휘~휘~ 소리를 내며 돌아가고 있구요~
+정상의 넓은 초원도 이제 가을 색이 제법 보입니다. 
+언제고 이곳에 서면 가슴이 뻥 뚫리는 듯 시원한 기분을 느낄 수 있습니다. 
+하늘과 가까운 그 곳에서 두 팔 쫙 벌려 바람과 하늘을 가득 안아 보기도 합니다.^^
+정상을 내려와 숲길로 들어서자 어느 때보다도 더욱 맑고 상쾌하게 흐르는 계곡 소리가 이어졌습니다.
+간간히 알록달록 단풍이 보이기도 하더군요. 
+숲길을 빠져 나와 철조망 너머로 만난 양떼목장 풍경은 여전히 평화롭게 보입니다.
+선자령을 떠올리면 파란하늘과 구름, 바람이 제일 먼저 떠오르지 않을까 싶습니다.
+선자령의 힘차고 평화로운 가을기운이 모든 분들께 큰 활력이 되시길 바라며 본격적으로 시작되는 가을, 
+건강하게 잘 보내시길 바라겠습니다. 
+남은 연휴도 잘 보내시고 새롭게 시작된 10월 한달 모두들 더욱 행복하시길 바랍니다.이 게시물을...

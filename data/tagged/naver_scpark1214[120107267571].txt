@@ -1,0 +1,92 @@
+제주시
+	제주/ncn+시/ncn
+
+조천읍
+	조천읍/ncn
+
+북촌리
+	북촌/ncn+리/ncn
+
+마을
+	마을/ncn
+
+답사를
+	답사/ncpa+를/jco
+
+마치고
+	마치/ncn+고/jcj
+
+
+선흘
+	선흘/ncn
+
+동백동산을
+	동백/ncn+동산/ncn+을/jco
+
+둘러보러
+	두르/pvg+어/ecx+보/px+러/ecs
+
+가는
+	가/pvg+는/etm
+
+길에서
+	길/ncn+에서/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+꽃입니다
+	꽃/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+주택가
+	주택/ncn+가/jcs
+
+모퉁에
+	모퉁/ncn+에/jca
+
+소담스럽게
+	소담/ncps+스럽/xsmn+게/ecs
+
+피어
+	피/pvg+어/ecx
+
+오고가는
+	오/pvg+고/ecx+가/px+는/etm
+
+사람들을
+	사람들/ncn+을/jco
+
+반겨주더군요
+	반기/pvg+어/ecx+주/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+짙은
+	짙/paa+은/etm
+
+노랑색
+	노랑색/ncn
+
+꽃을
+	꽃/ncn+을/jco
+
+활짝
+	활짝/mag
+
+피워
+	피우/pvg+어/ecx
+
+정말
+	정말/mag
+
+아름다웠습니다
+	아름답/paa+었/ep+습니다/ef
+
+.
+	./sf

@@ -1,0 +1,718 @@
+완주
+	완주/ncpa
+
+화심순두부
+	화심순두부/ncn
+
+국산콩
+	국산/ncn+콩/ncn
+
+두부집
+	두부/ncn+집/ncn
+
+"윤가네
+	"윤가네/ncn
+
+순두부"/
+	순두부/ncn+"/sr+//sp
+
+완두1박2일여행/완주여행
+	완두1박2일여행/ncn+//sp+완주/ncpa+여행/ncpa
+
+
+화심
+	화/ncn+이/jp+시/ep+ㅁ/etn
+
+순두부로
+	순두부/ncn+로/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+완주군
+	완주/ncpa+이/jp+군/ef
+
+소양면
+	소양/ncn+면/ncn
+
+화심리~~
+	화심리/ncn+~/sd+~/sd
+
+
+이곳은
+	이곳/npd+은/jxc
+
+전주역에서
+	전주/ncn+역/ncn+에서/jca
+
+10여km
+	10여km/ncn
+
+이며
+	이/npd+이/jp+며/ecc
+
+"화심순두부"
+	"화심순두부"/ncn
+
+요리를
+	요리/ncn+를/jco
+
+전문적으로
+	전문/ncn+적/ncn+으로/jca
+
+하는
+	하/pvg+는/etm
+
+음식점이
+	음식/ncn+점/ncn+이/jcc
+
+두부촌을
+	두부/ncn+촌/ncn+을/jco
+
+이루고
+	이루/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+찾아간
+	찾/pvg+아/ecx+가/px+ㄴ/etm
+
+곳은
+	곳/ncn+은/jxc
+
+"윤가네순두부"
+	"윤가네순두부/ncn+"/sl
+
+
+입구에
+	입구/ncn+에/jca
+
+다기와
+	다기/ncn+와/jcj
+
+각종
+	각종/ncn
+
+찻잔이
+	찻잔/ncn+이/jcc
+
+다양하다
+	다양/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+죽잔을
+	죽잔/ncn+을/jco
+
+해도
+	하/pvg+어도/ecs
+
+될만큼
+	되/pvg+ㄹ/etm+만큼/nbn
+
+큼지막한
+	큼지막/ncps+하/xsms+ㄴ/etm
+
+잔이
+	잔/nbu+이/jcc
+
+갖고
+	갖/pvg+고/ecc
+
+싶어
+	싶/px+어/ecx
+
+눈에
+	눈/ncn+에/jca
+
+들어온다
+	들/pvg+어/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+두부의
+	두/nnc+부/nbu+의/jcm
+
+다양한
+	다양/ncn+한/ncn
+
+메뉴
+	메뉴/ncn
+
+..
+	./sf+./sf
+
+
+식당
+	식당/ncn
+
+한쪽에는
+	하/pvg+ㄴ/etm+쪽/nbn+에/jca+는/jxc
+
+다실이
+	다실/ncn+이/jcc
+
+따로
+	따로/mag
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+차를
+	차/ncn+를/jco
+
+마실수
+	마시/pvg+ㄹ/etm+수/nbn
+
+있게
+	있/px+게/ecs
+
+운치있게
+	운치/ncn+있/xsmn+게/ecs
+
+꾸며져
+	꾸미/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+식당에
+	식당/ncn+에/jca
+
+사람이
+	사람/ncn+이/jcc
+
+많아
+	많/paa+아/ecx
+
+나중에
+	나중/ncn+에/jca
+
+들어오는
+	들/pvg+어/ecx+오/px+는/etm
+
+손님들은
+	손님/ncn+들/ncn+은/jxc
+
+이곳에서
+	이곳/npd+에서/jca
+
+먹어
+	먹/pvg+어/ecx
+
+..
+	./sf+./sf
+
+
+순두부를
+	순두부/ncn+를/jco
+
+분위기
+	분위기/ncn
+
+있게
+	있/px+게/ecs
+
+먹는
+	먹/pvg+는/etm
+
+모습이었다
+	모습/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+순두부
+	순두부/ncn
+
+한상
+	한/ncn+상/xsncc
+
+차림이
+	차리/pvg+ㅁ/etn+이/jcs
+
+나왔다
+	나오/pvg+아/ep+다/ef+./sf
+
+.
+	./sf
+
+
+사람이
+	사람/ncn+이/jcc
+
+붐비는
+	붐비/paa+는/etm
+
+식당임에도
+	식당/ncn+이/jp+ㅁ/etn+에/jca+도/jxc
+
+반찬은
+	반찬/ncn+은/jxc
+
+정말
+	정말/mag
+
+정갈하였다
+	정갈/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+이곳
+	이곳/npd
+
+윤가네
+	윤가네/ncn
+
+순두부는
+	순두부/ncn+는/jxc
+
+국산콩을
+	국산/ncn+콩/ncn+을/jco
+
+사용한다고
+	사용/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+하여
+	하/pvg+어/ecx
+
+더욱
+	더욱/mag
+
+마음에
+	마음/ncn+에/jca
+
+들었다
+	들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+두부는
+	두/nnc+부/nbu+는/jxc
+
+콩을
+	콩/ncn+을/jco
+
+이용한
+	이용/ncpa+하/xsva+ㄴ/etm
+
+식품중
+	식품/ncn+중/ncn
+
+식물성
+	식물성/ncn
+
+단백질이
+	단백질/ncn+이/jcc
+
+풍부한
+	풍부/ncps+하/xsms+ㄴ/etm
+
+식품중에
+	식품/ncn+중/ncn+에/jca
+
+하나로
+	하나/nnc+로/jca
+
+
+고혈압,
+	고혈압/ncn+,/sp
+
+골다공증
+	골다공증/ncn
+
+예방과
+	예방/ncpa+과/jcj
+
+항암효과에
+	항암효과/ncn+에/jca
+
+탁월하며
+	탁월/ncps+하/xsms+며/ecc
+
+두뇌발달과
+	두뇌/ncn+발달/ncpa+과/jcj
+
+치매예방,
+	치매/ncn+예방/ncpa+,/sp
+
+다이어트
+	다이어트/ncpa
+
+효과에
+	효과/ncn+에/jca
+
+좋다고
+	좋/paa+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+바지락과
+	바지락/ncn+과/jct
+
+함께
+	함께/mag
+
+순두부
+	순두부/ncn
+
+위에
+	위/ncn+에/jca
+
+부추가
+	부추/ncn+가/jcs
+
+올려져
+	올리/pvg+어/ecx+지/px+어/ecx
+
+나왔다
+	나오/pvg+아/ep+다/ef+./sf
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+부추와
+	부추/ncn+와/jcj
+
+두부가
+	두/nnc+부/nbu+가/jcc
+
+궁합이
+	궁합/ncn+이/jcc
+
+맞는
+	맞/pvg+는/etm
+
+모양이다
+	모양/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+얇은
+	얇/paa+은/etm
+
+부침개,
+	부침개/ncn+,/sp
+
+두부를
+	두/nnc+부/nbu+를/jco
+
+간장에
+	간장/ncn+에/jca
+
+찍어
+	찍/pvg+어/ecx
+
+먹고,
+	먹/pvg+고/ecc+,/sp
+
+두부
+	두/nnc+부/nbu
+
+겉저리
+	겉저리/ncn
+
+..
+	./sf+./sf
+
+
+새콤한
+	새콤한/ncn
+
+오이
+	오/nnc+이/jcc
+
+미역초무침,
+	미역초무침,/ncn
+
+콩나물까지
+	콩나물/ncn+까지/jxc
+
+.
+	./sf
+
+
+동동주는
+	동동주/ncn+는/jxc
+
+혈액순환을
+	혈액순환/ncpa+을/jco
+
+촉진시키며
+	촉진/ncpa+시키/xsva+며/ecc
+
+성인병예방
+	성인병예방/ncpa
+
+효과와
+	효과/ncn+와/jcj
+
+소화촉진,
+	소화촉진/ncpa+,/sp
+
+무기물
+	무기/ncn+물/ncn
+
+공급을
+	공급/ncpa+을/jco
+
+원활히
+	원활히/mag
+
+해주면서
+	하/pvg+어/ecx+주/px+면서/ecc
+
+신진대가
+	신진/ncpa+대/ncn+가/jcs
+
+활성화된다
+	활성화/ncn+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+이곳
+	이곳/npd
+
+완주
+	완주/ncpa
+
+천둥소리
+	천둥소리/ncn
+
+동동주는
+	동동주/ncn+는/jxc
+
+대한민국
+	대한/ncn+민국/ncn
+
+막걸리
+	막걸리/ncn
+
+품평회에서
+	품평회/ncn+에서/jca
+
+대상을
+	대상/ncn+을/jco
+
+먹었다고
+	먹/pvg+었/ep+다/ef+고/jcr
+
+적혀
+	적히/pvg+어/ecx
+
+있어
+	있/px+어/ecx
+
+살짝
+	살짝/mag
+
+맛을
+	맛/ncn+을/jco
+
+안볼수
+	안볼수/ncn
+
+없었다
+	없/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+바지락의
+	바지락/ncn+의/jcm
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+맛과
+	맛/ncn+과/jcj
+
+순두부,
+	순두부/ncn+,/sp
+
+그리고
+	그리고/maj
+
+밥
+	밥/ncn
+
+말아서
+	말/px+아/ecx
+
+후루룩~~~
+	후루룩/ncn+~/sd+~/sd+~/sd
+
+
+역시
+	역시/mag
+
+고유명사가
+	고유명사/ncn+가/jcs
+
+된
+	되/pvg+ㄴ/etm
+
+"화심순두부"
+	"화심순두부"/ncn
+
+맛은
+	맛/ncn+은/jxc
+
+흔히
+	흔히/mag
+
+먹었던
+	먹/pvg+었/ep+던/etm
+
+다른
+	다른/mma
+
+순두부와
+	순두부/ncn+와/jct
+
+틀린다
+	틀리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+소박하지만
+	소박/ncps+하/xsms+지만/ecs
+
+비오는
+	비/paa+오/ef+는/etm
+
+날이면
+	날/ncn+이/jp+면/ecs
+
+얼큰한
+	얼큰한/ncn
+
+순두부
+	순두부/ncn
+
+찌개가
+	찌개/ncn+가/jcs
+
+생각나는
+	생각나/pvg+아/ecs+는/jxc
+
+..
+	./sf+./sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+소박한
+	소박/ncn+한/ncn
+
+맛이다
+	맛/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+윤가네
+	윤가네/ncn
+
+순두부
+	순두부/ncn
+
+(063-243-8220)
+	(/sl+063/nnc+-243/nnc+-8220/nnc+)/sr
+
+
+전북
+	전/xp+북/ncn
+
+완주군
+	완주/ncpa+이/jp+군/ef
+
+소양면
+	소양/ncn+면/ncn
+
+화심리
+	화심리/ncn
+
+541-6
+	541/nnc+-6/nnc
+
+
+윤가네순두부
+	윤가네순두부/ncn
+
+
+전라북도
+	전라/ncn+북/ncn+도/jxc
+
+완주군
+	완주/ncpa+이/jp+군/ef
+
+소양면
+	소양/ncn+면/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01661852",
+	"bl01661852",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"17374552",
+	"/sl+17374552/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"윤가네순두부",
+	title:"윤가네순두부",/ncn
+
+pointX:334068,pointY:361010}
+	pointX/f+:/sp+334068/nnc+,/sp+pointY/f+:/sp+361010/nnc+}/sr

@@ -1,0 +1,73 @@
+Title:
+포천 왕방산 
+
+Date:
+2011.08.23 11:23
+
+Content:
+
+위치 : 경기도 포천시 포천동 신북면과 동두천시에 걸쳐있는산
+가는길 : 서울지하철1/4호선 창동역1번출구 나와서 창동역 버스정류장까지
+약150m걷기 좌석버스138~3을 타고 대진대.학사마을입구 버스정류장에서 하차
+뉴산수산악회
+
+포천에 있는 왕방산은 서울에서 그리멀지않는곳에 있는 산으로 산세는 전형적인 육산으로
+등산로 암릉구간이 없는것이 특징이다 왕방산 계곡은 폭이넓고 물이 맑으며 수량이 풍부하여
+여름철에는 피서지로 유명하며 주의할점은 깊이울 계곡 코스는 계곡을 건너 산행을 함으로
+비가 올때면 계곡물이 불어나서 위험이 있으므로 조심하여야합니다
+
+산높이737.2m이며 천보산맥의 북쪽 끝에 자리잡고있다 산 이름과 관련하여 두가지 전설이 전한다
+하나는 872년 도선국사가 이 산에 머물고 있을 때 국왕이 친히 행차하여 격려하였다 해서 붙여졌다
+는 이야기고 다른 하나는 왕위에서 물러난 태조 이성계가 한양으로 돌아가는도중에 왕자들의 골육
+상쟁 소식을 듣고 마음을 달래기위해 이 산의 왕방사 [지금의보덕사]에 며칠동안 머물렀다 해서
+붙여졌 다는 이야기다
+
+
+
+
+
+
+ 
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2011/08/23/1425/03103323118F534E8FC3E93953F56EF3641_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '406.56';
+	var qsParam = {};
+	qsParam.vid = '8DC49C9C9F83A7D90FCA92B3E8799DCE9E7A';
+	qsParam.inKey = 'V128a614d5040ea54056de77b8bf50c0666271ca6299d9dfaf997c39b74362c386ce1e77b8bf50c066627';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_04936 = new VideoInfraUGCPlayer('ugcPlayer_04936' ,bean); 
+ugcPlayer_04936.drawPlayLayer(); 
+}
+
+ 
+
+
+
+뉴산수산악회동영상 
+
+
+
+ 
+
+
+
+
+
+	

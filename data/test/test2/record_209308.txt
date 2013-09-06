@@ -1,0 +1,31 @@
+Title:
+4/8 만화방초와 다솔사 여행 후기
+
+Date:
+2012.04.09
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(813959,'files/attach/images/64/308/209/663649587d1c4a94e061aedd9e622efe.jpg');
+list_gallery_add_image(813959,'files/attach/images/64/308/209/b61dcd83739e586c783fcf81b85c2e1f.jpg');
+list_gallery_add_image(813959,'files/attach/images/64/308/209/421d625254ca3c58443ae215e043c16f.jpg');
+list_gallery_add_image(813959,'files/attach/images/64/308/209/b7febfc975a24274574cb7b3e02ee6cd.jpg');
+list_gallery_add_image(813959,'files/attach/images/64/308/209/4787b830d23bc4c37795da361b8a2286.jpg');
+list_gallery_add_image(813959,'files/attach/images/64/308/209/22000e73c5e56164afb0d95316181700.jpg');
+list_gallery_add_image(813959,'files/attach/images/64/308/209/1b29731fc4fb28129de112659f0091e0.jpg');
+list_gallery_add_image(813959,'files/attach/images/64/308/209/b548e25cf89c95853632539cea8a2009.jpg');
+list_gallery_add_image(813959,'files/attach/images/64/308/209/b72075d039034589656f943b748bad63.jpg');
+list_gallery_add_image(813959,'files/attach/images/64/308/209/9310c309af0c5c114e6f031f7cfd5540.jpg');
+list_gallery_add_image(813959,'files/attach/images/64/308/209/688e0d938984e79a899f2085ad92fb04.jpg');
+list_gallery_add_image(813959,'files/attach/images/64/308/209/7699ded977f86d5f93feee722a4c53b4.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+4월 8일(일) 아름다운 여행으로 다솔사와 만화방초에 다녀왔습니다.
+하루 전보다 훨씬 푹해진 아침 공기가 이제야 비로소 봄이 느껴집니다. 대전 통영간 고속도로를 달리는 길에도 산수유며 매화가 피어 늦었지만 봄기운을 돋웁니다.
+경남 사천에 도착하여 다솔사를 돌아보기 전에 정갈한 산채비빔밥으로 식사를 하고 다솔사 산책에 나섰습니다.
+경남 사천 다솔사는 이름에서 알 수 있듯 솔숲이 좋은 곳입니다. 진입로를 따라 경내까지, 거리는 길지 않지만 키가 무척 큰 소나무와 아름드리 편백나무는 보기만 하여도 시원시원합니다.
+다솔사는 역사가 오랜 사찰이지만 문화재나 큰 볼거리가 있는 것은 아니지만 작은 차밭과 봄꽃이 어우러진 풍경이 좋은데 올해는 차밭 주변 벚꽃도 아직 피지 않았고 차나무도 냉해를 입었는지 초록 빛깔을 찾아볼 수가 없네요. 그렇지만 이곳은 워낙 아는 사람들만 찾는 사찰이다 보니 조용한 분위기는 여전하여 한가로운 시간을 보내고 다음 여행지인 고성 만화방초로 향했습니다.
+만화방초로 들어가는 길가 가로수에는 벚꽃이 좀 피어서 약간의 기대를 해보았는데 막상 만화방초에 도착하니 꽃을 찾아보기가 어려울 정도로 개화가 거의 진행되지 않았습니다. 하루 볕만 더 따뜻해도 금방이라도 꽃을 피울 것만 같은데 만화방초의 벚꽃도 올해는 꽃을 보여주지 않았습니다.
+날도 따듯하고 바람도 없어서 벚꽃만 피었더라면 더할 나위 없이 아름다웠을 텐데 하는 아쉬움만 남았습니다. 대신 만화방초에는 요즘 얼레지가 군락을 이뤄 피었고 청노루귀, 노란 수선화가 화사합니다. 농장을 둘러보고 내려오는 길에 주인 내외분께서 아직 피지 않은 벚꽃을 대신해서 미안한 마음에 준비한 음식이라며 푸짐한 떡과 과일 등을 내어주셨는데 한가로운 시골집에 앉아 간식을 먹는 즐거운 시간이었습니다.^^ 
+만화방초도 이번 주말께나 벚꽃이 만개할지 모르겠네요. 어느 정도 꽃이 필 것을 예상을 했는데 좀 허무할 정도로 꽃이 피지 않아서 아쉬웠지만 한없이 나른해지고 싶은 만화방초의 분위기가 마음에 꼭 드셨기를 바랍니다~
+이 게시물을...

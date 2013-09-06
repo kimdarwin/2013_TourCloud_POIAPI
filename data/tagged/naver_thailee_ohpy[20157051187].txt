@@ -1,0 +1,903 @@
+[
+	[/sl
+
+제주여행
+	제주/ncn+여행/ncpa
+
+/
+	//sp
+
+광치기해안
+	광치기해안/ncn
+
+]
+	]/sr
+
+광치기해안에서
+	광치기해안/ncn+에서/jca
+
+느끼는
+	느끼/pvg+는/etm
+
+4가지
+	4/nnc+가지/nbu
+
+칼라
+	칼라/ncn
+
+
+저녁
+	저녁/ncn
+
+늦은
+	늦/paa+은/etm
+
+시간
+	시간/nbu
+
+비
+	비/ncn
+
+까지
+	까/pvg+지/ecx
+
+오는
+	오/px+는/etm
+
+술자리에서
+	술자리/ncn+에서/jca
+
+내일새벽에
+	내일/ncn+새벽/ncn+에/jca
+
+일출
+	일출/ncpa
+
+찍으로
+	찍/ncn+으로/jca
+
+갈꺼야
+	갈꺼/ncn+야/jcv
+
+?
+	?/sf
+
+
+비
+	비/ncn
+
+그치면
+	그치/pvg+면/ecs
+
+갑시다
+	가/px+ㅂ시다/ef
+
+.
+	./sf
+
+
+2시까지
+	2/nnc+시/nbu+까지/jxc
+
+담소를
+	담소/ncpa+를/jco
+
+나누고
+	나누/pvg+고/ecc
+
+5시에
+	5/nnc+시/nbu+에/jca
+
+눈을
+	눈/ncn+을/jco
+
+뜨니
+	뜨/pvg+니/ecs
+
+비가
+	비/ncn+가/jcs
+
+그쳤다
+	그치/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+뜰려나
+	뜰려나/ncn
+
+?
+	?/sf
+
+
+반신반의
+	반신반의/ncpa
+
+하면서
+	하/pvg+면서/ecc
+
+눈을
+	눈/ncn+을/jco
+
+반
+	반/ncn
+
+쯤
+	쯤/ncn
+
+뜨고는
+	뜨/pvg+어/ef+고/jcr+는/jxc
+
+일출이
+	일출/ncpa+이/jcc
+
+아름답다는
+	아름답/paa+다/ef+는/etm
+
+광치기해안으로
+	광치기해안/ncn+으로/jca
+
+달려간다
+	달리/pvg+어/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+바람도
+	바라/pvg+ㅁ/etn+도/jxc
+
+거세게
+	거세/ncn+이/jp+게/ecs
+
+부는
+	불/pvg+는/etm
+
+이른
+	이르/paa+ㄴ/etm
+
+새벽
+	새벽/ncn
+
+인데도
+	일/pvg+ㄴ/etm+데/nbn+도/jxc
+
+삼각대를
+	삼각대/ncn+를/jco
+
+세운
+	세우/pvg+ㄴ/etm
+
+진사님들과
+	진사/ncr+님/ncn+들/xsncc+과/jcj
+
+연인들이
+	연인/ncn+들/ncn+이/jcc
+
+먼저
+	먼저/mag
+
+이곳을
+	이곳/npd+을/jco
+
+지키고
+	지키/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+삼각대를
+	삼각대/ncn+를/jco
+
+드리운
+	드리우/pvg+ㄴ/etm
+
+진사님께
+	진사/ncr+님/ncn+께/jca
+
+다가가
+	다가가/pvg+아/ecs
+
+
+오늘
+	오늘/ncn
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+이쁘게
+	이쁘/paa+게/ecs
+
+오를까요
+	오르/pvg+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+하고여쭈어
+	하고여쭈/ncn+이/jp+어/ecs
+
+보았더니
+	보/px+아/ep+니/ecs
+
+성산포날씨가
+	성산포날씨/ncn+가/jcs
+
+변덕이
+	변덕/ncn+이/jcc
+
+심해
+	심하/paa+어/ecx
+
+잘
+	잘/mag
+
+모르겠다고
+	모르/pvg+겠/ep+다/ef+고/jcr
+
+하시면서
+	하/px+시/ep+면서/ecc
+
+운이
+	운/ncn+이/jcc
+
+좋으
+	좋으/ncn
+
+신
+	신/ncn
+
+분
+	분/nbn
+
+
+같으니
+	같/paa+으니/ecs
+
+운에
+	운/ncn+에/jca
+
+맡겨
+	맡기/pvg+어/ecx
+
+보라고
+	보/px+라/ef+고/jcr
+
+하신다
+	하/px+시/ep+ㄴ다/ef
+
+.
+	./sf
+
+
+바다
+	바다/ncn
+
+건너편으로
+	건너편/ncn+으로/jca
+
+보이는
+	보이/pvg+는/etm
+
+성산일출봉이
+	성산/ncn+일출/ncpa+봉/ncn+이/jcc
+
+더
+	더/mag
+
+멋진
+	멋지/paa+ㄴ/etm
+
+그림을
+	그림/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+준다
+	주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+멋진
+	멋지/paa+ㄴ/etm
+
+절경이지만
+	절경/ncn+이/jp+지만/ecs
+
+슬픈사연이
+	슬픈사연/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+광치기해안
+	광치기해안/ncn
+
+
+오래
+	오래/mag
+
+전
+	전/nbn
+
+어부들이
+	어부/ncn+들/ncn+이/jcc
+
+테우를
+	테우/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+나가
+	나/npp+가/jcs
+
+거친
+	거칠/paa+ㄴ/etm
+
+풍랑을
+	풍랑/ncn+을/jco
+
+만나
+	만나/pvg+아/ecx
+
+바다에
+	바다/ncn+에/jca
+
+빠져
+	빠지/pvg+어/ecx
+
+죽은
+	죽/pvg+은/etm
+
+어부들의
+	어부/ncn+들/ncn+의/jcm
+
+시신이
+	시신/ncn+이/jcc
+
+해류를
+	해류/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+이곳으로
+	이곳/npd+으로/jca
+
+밀려와
+	밀/pvg+려/ecx+오/px+아/ecs
+
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+그
+	그/mmd
+
+시신을
+	시신/ncn+을/jco
+
+수습하여
+	수습/ncpa+하/xsva+어/ecx
+
+관속에
+	관속/ncn+에/jca
+
+넣었다는
+	넣/pvg+었/ep+다/ef+는/etm
+
+뜻으로
+	뜻/ncn+으로/jca
+
+관치기
+	관치/ncn+이/jp+기/etn
+
+라고
+	라/ncn+이/jp+고/ecc
+
+했고
+	하/px+었/ep+고/ecc
+
+이
+	이/mmd
+
+관치기가
+	관치/ncn+이/jp+기/etn+가/jcs
+
+제주도
+	제주/ncn+도/jxc
+
+말
+	말/px+ㄹ/etm
+
+광치기가
+	광치/ncn+이/jp+기/etn+가/jcs
+
+되어
+	되/pvg+어/ecx
+
+지금의
+	지금/ncn+의/jcm
+
+
+광치기해안이
+	광치기해안/ncn+이/jcc
+
+되었다고
+	되/pvg+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+광치기해안은
+	광치기해안/ncn+은/jxc
+
+올레길
+	올레길/ncn
+
+1코스가
+	1코스/ncn+가/jcs
+
+끝나는
+	끝나/pvg+는/etm
+
+지점이자
+	지점/ncn+이/jp+자/ecc
+
+2코스
+	2코스/ncn
+
+시작점인
+	시작/ncpa+점/ncn+이/jp+ㄴ/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+수평선위로
+	수평선/ncn+위/ncn+로/jca
+
+구름이
+	구름/ncn+이/jcc
+
+끼어
+	끼/pvg+어/ecx
+
+오늘은
+	오늘/ncn+은/jxc
+
+아닌가보다
+	아닌가/ncn+보다/jca
+
+하고
+	하/pvg+고/ecc
+
+돌아서려는
+	돌/pvg+아/ef+려는/etm
+
+순간
+	순간/ncn
+
+
+함성소리가
+	함성/ncn+소리/ncn+가/jcs
+
+들인다
+	들이/px+ㄴ다/ef
+
+.
+	./sf
+
+
+구름
+	구름/ncn
+
+위로
+	위/ncn+로/jca
+
+붉은
+	붉/paa+은/etm
+
+태양이
+	태양/ncn+이/jcc
+
+환하게
+	환/ncps+하/xsms+게/ecs
+
+웃으면서
+	웃/pvg+으면서/ecc
+
+주변을
+	주변/ncn+을/jco
+
+붉게
+	붉/paa+게/ecs
+
+물들이며
+	물들이/pvg+며/ecc
+
+장관을
+	장관/ncr+을/jco
+
+만든다
+	만들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+뜨아~~~~~
+	뜨/ncn+아/jcv+~/sd+~/sd+~/sd+~/sd+~/sd
+
+
+성산일출봉
+	성산/ncn+일출/ncpa+봉/ncn
+
+위로
+	위/ncn+로/jca
+
+오를
+	오르/pvg+ㄹ/etm
+
+줄
+	줄/nbn
+
+알았는데
+	알/pvg+아/ep+ㄴ데/ecs
+
+
+성산일출봉
+	성산/ncn+일출/ncpa+봉/ncn
+
+오른쪽으로
+	오르/pvg+ㄴ/etm+쪽/nbn+으로/jca
+
+자리를
+	자리/ncn+를/jco
+
+옮겨
+	옮기/pvg+어/ecx
+
+망원을
+	망원/ncn+을/jco
+
+장착하고
+	장착/ncpa+하고/jct
+
+셔터를
+	셔터/ncn+를/jco
+
+눌러댄다
+	누르/pvg+어/ecx+대/px+ㄴ다/ef
+
+.
+	./sf
+
+
+순식간에
+	순식간/ncn+에/jca
+
+해는
+	하/pvg+어/ecs+는/jxc
+
+떠오르고
+	떠오르/pvg+고/ecc
+
+붉은
+	붉/paa+은/etm
+
+세상이
+	세상/ncn+이/jcc
+
+푸르른
+	푸르른/ncn
+
+초원으로
+	초원/ncn+으로/jca
+
+바뀐다
+	바뀌/pvg+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+뭐라
+	뭐/npd+이/jp+라/ecs
+
+표현하기
+	표현/ncpa+하/xsva+기/etn
+
+힘들
+	힘들/pvg+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+아름다운
+	아름답/paa+은/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+광치기해안은
+	광치기해안/ncn+은/jxc
+
+우리가
+	우리/npp+가/jcs
+
+흔히
+	흔히/mag
+
+보는
+	보/px+는/etm
+
+모래와
+	모래/ncn+와/jcj
+
+자갈이
+	자갈/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+바닷가
+	바닷가/ncn
+
+해변의
+	해변/ncn+의/jcm
+
+모습과는
+	모습/ncn+과/jct+는/jxc
+
+전혀
+	전혀/mag
+
+다르다
+	다르/paa+다/ef
+
+.
+	./sf
+
+
+물이
+	물/ncn+이/jcc
+
+빠지면
+	빠지/pvg+면/ecs
+
+드넓은
+	드넓/paa+은/etm
+
+푸른
+	푸르/paa+ㄴ/etm
+
+초원이
+	초원/ncn+이/jcc
+
+펼쳐진다
+	펼치/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+용암이
+	용암/ncn+이/jcc
+
+흘러내려
+	흐르/pvg+어/ecx+내리/px+어/ecx
+
+굳어진
+	굳/paa+어/ecx+지/px+ㄴ/etm
+
+암반에
+	암반/ncn+에/jca
+
+초록
+	초록/ncn
+
+이끼가
+	이/nnc+끼/nbu+가/jcc
+
+뒤덮여
+	뒤덮이/pvg+어/ecs
+
+
+장관을
+	장관/ncr+을/jco
+
+이룬다
+	이루/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+아침을
+	아침/ncn+을/jco
+
+해결하니
+	해결/ncpa+하/xsva+니/ecs
+
+하늘이
+	하늘/ncn+이/jcc
+
+파랗게
+	파랗/paa+게/ecs
+
+열린다
+	열리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+광치기해안
+	광치기해안/ncn
+
+주변을
+	주변/ncn+을/jco
+
+살펴보니
+	살피/pvg+어/ecx+보/px+니/ecs
+
+노란
+	노랗/paa+은/etm
+
+유채꽃이
+	유채/ncn+꽃/ncn+이/jcc
+
+파란하늘에
+	파란/ncn+하늘/ncn+에/jca
+
+융단을
+	융단/ncn+을/jco
+
+깔아놓은
+	깔/pvg+아/ecx+놓/px+은/etm
+
+듯
+	듯/nbn
+
+멋지다
+	멋지/paa+다/ef
+
+.
+	./sf
+
+
+거기에
+	거기/npd+에/jca
+
+성산일출봉까지
+	성산/ncn+일출/ncpa+봉/ncn+까지/jxc
+
+앵글에
+	앵글/ncn+에/jca
+
+걸리니
+	것/nbn+이/jp+ㄹ/etm+리/nbn+이/jp+니/ecs
+
+절경
+	절경/ncn
+
+중
+	중/nbn
+
+절경이다,
+	절경/ncn+이/jp+다/ef+,/sp
+
+
+비오는
+	비/paa+오/ef+는/etm
+
+전날밤
+	전날/ncn+밤/ncn
+
+늦게
+	늦/paa+게/ecs
+
+제주에
+	제주/ncn+에/jca
+
+도착해서
+	도착/ncpa+하/xsva+어서/ecs
+
+늦게까지
+	늦/paa+게/ecs+까지/jxc
+
+이웃들과
+	이웃/ncpa+들/xsncc+과/jcj
+
+담소를
+	담소/ncpa+를/jco
+
+나누고
+	나누/pvg+고/ecc
+
+새벽같이
+	새벽/ncn+같이/jca
+
+나와
+	나/npp+와/jct
+
+피곤하긴했지만
+	피곤하긴했/ncn+지만/jxc
+
+
+해뜨는
+	해뜨/pvg+는/etm
+
+붉은
+	붉/paa+은/etm
+
+색과
+	색/ncn+과/jcj
+
+광치기해안의
+	광치기해안/ncn+의/jcm
+
+초록
+	초록/ncn
+
+이끼,
+	이/nnc+끼/nbu+,/sp
+
+노란
+	노랗/paa+은/etm
+
+유채꽃,
+	유채/ncn+꽃/ncn+,/sp
+
+파란하늘등
+	파란/ncn+하늘/ncn+등/ncn
+
+아름다운
+	아름답/paa+은/etm
+
+4가기칼라를
+	4가기칼라/ncn+를/jco
+
+만나
+	만나/pvg+아/ecx
+
+한없이
+	한없이/mag
+
+즐겁고
+	즐겁/paa+고/ecc
+
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+날이었다
+	날/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf

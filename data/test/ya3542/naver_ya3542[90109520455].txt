@@ -1,0 +1,92 @@
+Title:
+Stop ~ Sam Brown(샘 브라운) 
+
+Date:
+2011.03.19 21:26
+
+Content:
+
+나의 모든 사랑을.. 당신에게 드렸어요
+내 마음을 더 이상 아프게 하지 말아요
+눈물로지새게 하지 마세요..나의 가슴 무너지게 하지 마세요
+
+Stop ~ Sam Brown (샘 브라운)
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc25/2011/03/19/27/03100223E19C53EE20C3A93C536543F3F42_ya3542_logo.jpg';
+	layout.playtime = '246.599';
+	var qsParam = {};
+	qsParam.vid = '3AC27EA8B467CF7CB7BD231E17F531B10E29';
+	qsParam.inKey = 'V129687d93de80c2bf491985bf148420be657df29e4e84a3b8d3791ae592707c3d565985bf148420be657';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_01391 = new VideoInfraUGCPlayer('ugcPlayer_01391' ,bean); 
+ugcPlayer_01391.drawPlayLayer(); 
+}
+
+
+ooh you'd better stop ..제발 멈추어 주세요
+Stop ~ Sam Brown .. Live 동영상
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc25/2011/03/19/91/03100223E19C53EE00C3D94523202F335C5_ya3542_logo.jpg';
+	layout.playtime = '169.639';
+	var qsParam = {};
+	qsParam.vid = '06E0A3F58C5FDFDCCC57BBC72B7A66561CB9';
+	qsParam.inKey = 'V1226007ba5d7adde0ceee380119e47283c859ae8158b9443e83a0693c00274906e25e380119e47283c85';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_00660 = new VideoInfraUGCPlayer('ugcPlayer_00660' ,bean); 
+ugcPlayer_00660.drawPlayLayer(); 
+}
+
+
+
+Stop ~ Sam Brown ..
+All that I have is all that you've given me내가 가진 모든 것은 당신 것입니다did you never worry that I'd come to depend on you당신에게 너무 기대는 것 같다고 걱정하지 마세요
+I gave you all the love I had in me나는 나의 모든 사랑을 당신에게 드렸어요
+now I find you've lied and I can't believe it's true당신이 나에게 거짓말을 했다는 것을 믿을 수가 없어요
+Wrapped in her arms I see you across the street길을 건너 그녀의 팔을 감싸고 걸어가는 것이 보이네요
+and I can't help but wonder if she knows what's going on어떻게 된 일인지 알고 싶지만 그럴 수가 없었어요
+you talk of love but you don't know how it feels당신은 사랑을 말하지만 진실한 사랑은 알지 못합니다
+when you realize that you're not the only one때에 당신은 혼자가 아니에요그것을 깨닫게 되었을 
+Oh you'd better stop before you tear me all apart눈물로 나를 지새게 만들지 마세요
+you'd better stop before you go and break my heart당신이 떠나 나의 가슴 무너지게 하지 마세요
+ooh you'd better stop제발 멈추어 주세요Time after time I've tried to walk away
+시간이 지나 나는 잊으려고 애를 쓰겠죠but it's not that easy when your soul is torn in two하지만 당신을 잊는건 쉬운일이 아니에요
+so I just resign myself to it every day나는 매일 나에게 주문을 걸죠now all I can do is to leave it up to you당신을 잊는 것만이 내가 할 수 있는 전부라는 걸
+Oh you'd better stop before you tear me all apart눈물로 나를 지새게 만들지 마세요you'd better stop before you go and break my heart당신이 떠나 나의 가슴 무너지게 하지 마세요
+ooh you'd better stop (제발 멈추어 주세요)Stop if love me (나를 사랑한다면 멈추세요)(you will remember)(생각이 나세요?)
+now's the time to be sorry미안하다고 나에게 말해주세요(that day forever)(영원히 함께 하자던)I won't believe that you'd walk out on me당신이 나를 떠난다는 것을 믿을 수가 없어요
+Oh you'd better stop before you tear me all apart눈물로 나를 지새게 만들지 마세요you'd better stop before you go and break my heart당신이 떠나 나의 가슴 무너지게 하지 마세요ooh you'd better stop(제발 멈추어 주세요)
+Stop ~ Sam Brown(샘 브라운)
+
+
+
+	

@@ -1,0 +1,105 @@
+Title:
+부여 공주여행 
+
+Date:
+2012.05.15 15:11
+
+Content:
+
+
+위치 : 충남 부여군 규암면 백제문로455[합정리575번지]문의041]830~3400
+ 공주시 웅진동57번지 [송산리 무령왕릉] 문의041]840~2548
+가는길 : 서울 지하철3호선 남부터미널역하차[남부터미널~부여]행 첫차06:30:막차18:30
+ 1일19회운행 2시간소요 요금19000원 [남부터미널~공주]행 첫차06:30:막차20:30
+1일20회운행 1시간30분소요 요금8600원
+
+내고향 부여 그리운 사람들 지금은어디서 무엇을 하고 있을까
+고향 산천은 변하지 않는데 우리들 주변만 변하는것 같다
+그리운 사람들 보고 싶구나
+
+백제의 사찰 능사[陵寺]
+능사는 성왕의 명복을 빌기위한 백제 왕실 사찰로 부여군 능산리에서 발굴된 규모와 동일하게
+재현하였다고 함
+
+백제의 궁궐 사비궁
+우리나라 삼국시대 중 왕궁의 모습을 최초로 재현한 사비궁은 백제역사문화의 절정을 이룬
+사비시대의 왕궁으로 백제의 대표적 건축양식을 보여주고있다
+
+무령왕릉은 삼국시대 왕릉중에서 유일하게 주인공이 밝혀진 무덤으로 백제25대 무령왕과 왕비의
+합장릉이다 묘실전체를 벽돌로 쌓은 무덤으로 입구 통로와 관련된 연도와 시신을 안치하는 현실의
+두 부분으로 만들어 졌다
+
+무령왕릉에서 출토된 유물은 108종4600여점에 이르고 있으며 이중 국보로 지정된 것은12종22점이다
+이왕릉에서 금제관장식 귀걸이 목거리 팔찌 등의 각종 장신구를 포함하여 청동거울 두침 족침 등도
+출토 되었다
+
+백제문화단지는 찬란했던 백제역사문화의 우수성을 세계에 알리고자 1994년부터 2010년까지
+총17년간의 역사적인 대장정 끝에 백제의 역사와 문화를 한눈에 볼수있는 백제역사관 등 1400년
+전 문화대국 이었던 백제의 모습을 보여주고있다
+
+
+
+궁남지[宮南地]
+이 연못은 신라 선화공주와 결혼한 무왕의 서동요 전설이 깃든 곳이다
+삼국사기에 백제무왕35년[634]궁의 남쪽에 못을파고 이십여리 밖에서 물을 끌어다가 채우고
+주의에는 버드나무를 심었다고 함
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/05/15/1247/03100323711453FE36C35900530506F3B49_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '470.55';
+	var qsParam = {};
+	qsParam.vid = '8D00207FAD0095378D8FDEE11D67F75BD088';
+	qsParam.inKey = 'V12925ac286680e6491f2ed51fd7a4a9ac4e99332defeb4d3c118fd944a0708607b5ded51fd7a4a9ac4e9';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = 'MUSIC';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_01149 = new VideoInfraUGCPlayer('ugcPlayer_01149' ,bean); 
+ugcPlayer_01149.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:
+
+	

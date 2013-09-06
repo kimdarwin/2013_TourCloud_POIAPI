@@ -1,0 +1,793 @@
+에어부산
+	에어/ncn+부산/ncps
+
+과
+	과/ncn
+
+대마도여행길
+	대마도여행길/ncn
+
+
+에어부산추천
+	에어/ncn+부산/ncps+추천/ncpa
+
+저가항공
+	저가/ncn+항공/ncn
+
+
+대마도여행길을
+	대마도여행길/ncn+을/jco
+
+떠나기
+	뜨/pvg+어/ecx+나/px+기/etn
+
+위해서
+	위하/pvg+어서/ecs
+
+비행기를
+	비행기/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+가야하는데
+	가/pvg+아/ecx+하/px+ㄴ데/ecs
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+선택한
+	선택/ncpa+하/xsva+ㄴ/etm
+
+비행기는
+	비행기/ncn+는/jxc
+
+에어부산이랍니다
+	에어/ncn+부산/ncps+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+올때갈때
+	올때갈때/ncn
+
+탔던
+	트/pvg+었/ep+던/etm
+
+에어부산은
+	에어/ncn+부산/ncps+은/jxc
+
+스튜디어스들도
+	스튜디어스들/ncn+도/jxc
+
+친절하고
+	친절/ncps+하고/jct
+
+기분좋았던
+	기분좋/paa+아/ep+ㄴ/etm
+
+여행에서의
+	여행/ncpa+에서/jca+의/jcm
+
+즐거운
+	즐겁/paa+은/etm
+
+기분을
+	기분/ncn+을/jco
+
+만들어주는데
+	만들/pvg+어/ecx+주/px+ㄴ데/ecs
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+대마도여행가는길에서
+	대마도여행가는길/ncn+에서/jca
+
+탔던
+	트/pvg+었/ep+던/etm
+
+에어부산을
+	에어/ncn+부산/ncps+을/jco
+
+포스팅
+	포스팅/ncn
+
+해봅니다
+	하/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+에어부산을
+	에어/ncn+부산/ncps+을/jco
+
+타는
+	타/pvg+는/etm
+
+장면이에요
+	장면/ncn+이/jp+에요/ef
+
+에어부산은
+	에어/ncn+부산/ncps+은/jxc
+
+처음
+	처음/mag
+
+타보기에
+	타/pvg+아/ecx+보/px+기/etn+에/jca
+
+비행기도
+	비행기/ncn+도/jxc
+
+처음
+	처음/mag
+
+봤답니다
+	보/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+타는
+	타/pvg+는/etm
+
+모습
+	모습/ncn
+
+담아봅니다
+	담/pvg+아/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+즐거운
+	즐겁/paa+은/etm
+
+대마도여행길에서
+	대마도여행길/ncn+에서/jca
+
+같이하게된
+	같이하/pvg+게/ecx+되/px+ㄴ/etm
+
+에어부산
+	에어/ncn+부산/ncps
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+아시아나항공
+	아시아나항공/ncn
+
+옆에
+	옆/ncn+에/jca
+
+에어부산
+	에어/ncn+부산/ncps
+
+있는거
+	있는거/ncn
+
+보이시죠
+	보이/pvg+시/ep+죠/ef
+
+아시아나항공
+	아시아나항공/ncn
+
+저가항공이
+	저가/ncn+항공/ncn+이/jcc
+
+에어부산이랍니다
+	에어/ncn+부산/ncps+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+그러니
+	그러/pvd+니/ecs
+
+믿을만
+	믿/pvg+을/etm+만/nbs
+
+하겠죠
+	하/pvg+겠/ep+죠/ef
+
+
+항공을
+	항공/ncn+을/jco
+
+타기
+	타/pvg+기/etn
+
+위해서는
+	위하/pvg+어서/ecs+는/jxc
+
+한시간전에
+	한/nnc+시간/nbu+전/xsnx+에/jca
+
+도착하는게
+	도착/ncpa+하/xsva+는게/ecs
+
+아주
+	아주/mag
+
+좋아요
+	좋/paa+아/ef+요/jxf
+
+짐도
+	지/px+ㅁ/etn+도/jxc
+
+맡겨야하고
+	맡기/pvg+어야/ecx+하/px+고/ecc
+
+혹시
+	혹시/mag
+
+모를
+	모르/pvg+ㄹ/etm
+
+교통체증때문에
+	교통체증때문/ncn+에/jca
+
+
+그러기도
+	그러/pvd+기/etn+도/jxc
+
+해요
+	하/px+어/ef+요/jxf
+
+제주도도
+	제주/ncn+도/jxc+도/jxc
+
+안막히지만
+	안막/ncn+히/xsas+지만/jxc
+
+저는
+	저/npp+는/jxc
+
+항상
+	항상/mag
+
+한시간전에
+	한/nnc+시간/nbu+전/xsnx+에/jca
+
+가서
+	가/pvg+서/ecs
+
+여유있게
+	여유/ncn+있/xsmn+게/ecs
+
+기다린답니다
+	기다리/pvg+ㄴ답니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+항공티켓이에요
+	항공/ncn+티켓/ncn+이/jp+에요/ef
+
+빨간
+	빨갛/paa+은/etm
+
+색연필로
+	색연필/ncn+로/jca
+
+표신한건
+	표/ncn+이/jp+시/ep+ㄴ/etm+한/nbn+건/xsnx
+
+도착지,
+	도착지/ncn+,/sp
+
+시간,
+	시간/nbu+,/sp
+
+탑승구랍니다
+	탑승/ncpa+구/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+요건
+	요/ncn+이/jp+건/ecc
+
+꼬옥
+	꼬옥/mag
+
+타기전
+	타/pvg+기/etn+전/xsnx
+
+체크하셔야
+	체크/ncpa+하/xsva+시/ep+어야/ecs
+
+하는거랍니다
+	하/pvg+는/etm+것/nbn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+귀여운
+	귀엽/paa+은/etm
+
+꼬마아가씨가
+	꼬마/ncn+아가씨/ncn+가/jcs
+
+아빠가
+	아빠/ncn+가/jcs
+
+찍어주는
+	찍/pvg+어/ecx+주/px+는/etm
+
+사진을
+	사진/ncn+을/jco
+
+찍고
+	찍/pvg+고/ecc
+
+있어서
+	있/px+어서/ecs
+
+저도
+	저/npp+도/jxc
+
+찍어보았답니다
+	찍/pvg+어/ecx+보/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+혹시
+	혹시/mag
+
+
+이
+	이/mmd
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+보내달라고
+	보/nbu+내/xsnu+달/nbu+라고/jxc
+
+하면
+	하/pvg+면/ecs
+
+보내드릴테니
+	보내/pvg+어/ecx+드리/px+ㄹ테니/ecs
+
+연락주세요
+	연락주/pvg+세/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+비행기타러가는길이에요
+	비행기타러가는길이에요/ncn
+
+연인들
+	연인/ncn+들/ncn
+
+가족들
+	가족/ncn+들/ncn
+
+그리고
+	그리고/maj
+
+혼자하는
+	혼자하/ncn+는/jxc
+
+여행자들등등
+	여행자/ncn+들/ncn+등/xsnx+등/xsnx
+
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+이용하는
+	이용/ncpa+하/xsva+는/etm
+
+제주공항
+	제주/ncn+공항/ncn
+
+저도
+	저/npp+도/jxc
+
+참
+	참/mag
+
+많이도
+	많이/mag+도/jxc
+
+비행기를
+	비행기/ncn+를/jco
+
+타봅니다
+	타/pvg+아/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+컨벤션센터
+	컨벤션센터/ncn
+
+면세점에서
+	면세점/ncn+에서/jca
+
+물건을
+	물건/ncn+을/jco
+
+사면
+	사/pvg+면/ecs
+
+공항검색대를
+	공항/ncn+검색대/ncn+를/jco
+
+통화해서
+	통화/ncn+해서/ncn
+
+인도장에서
+	인도/ncn+장/ncn+에서/jca
+
+물건을
+	물건/ncn+을/jco
+
+받으실수
+	받/pvg+으시/ep+ㄹ/etm+수/nbn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+이곳은
+	이곳/npd+은/jxc
+
+공항면세점이에요
+	공항면세점/ncn+이/jp+에요/ef
+
+여러가지
+	여러가지/mma
+
+물건들을
+	물/pvg+ㄹ/etm+것/nbn+이/jp+ㄴ/etm+들/nbn+을/jco
+
+파는곳이기도
+	파는곳/ncn+이/jp+기/etn+도/jxc
+
+하죠
+	하/pvg+죠/ef
+
+
+공항면세점과
+	공항면세점/ncn+과/jcj
+
+중문에
+	중문/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+컨벤션센터면세점은
+	컨벤션센터/ncn+면세점/ncn+은/jxc
+
+각기
+	각기/mag
+
+진열해놓은
+	진열/ncpa+하/xsva+어/ecx+놓/px+은/etm
+
+상품들이
+	상품/ncn+들/ncn+이/jcc
+
+차이가
+	차이/ncn+가/jcc
+
+
+있어서
+	있/px+어서/ecs
+
+다
+	다/mag
+
+방문해봐도
+	방문/ncpa+하/xsva+어/ecx+보/px+아/ecs
+
+좋을듯
+	좋/paa+을/etm+듯/nbs
+
+해요
+	하/pvg+어요/ef
+
+
+아시아나항공과
+	아시아나항공/ncn+과/jcj
+
+대한항공도
+	대한항공/ncn+도/jxc
+
+보이네요
+	보이/ncn+이/jp+네요/ef
+
+
+제주도를
+	제주/ncn+도/ncn+를/jco
+
+다니는
+	다니/pvg+는/etm
+
+비행기가
+	비행기/ncn+가/jcs
+
+많아져서
+	많/paa+아/ecx+지/px+어서/ecs
+
+좋아진거
+	좋아진거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+떠나기전
+	떠나/pvg+기/etn+전/xsnx
+
+제주공항
+	제주/ncn+공항/ncn
+
+항상
+	항상/mag
+
+나를
+	나/npp+를/jco
+
+사랑해주는
+	사랑/ncpa+하/xsva+어/ecx+주/px+는/etm
+
+제주도이기에
+	제주/ncn+도/ncn+이/jp+기/etn+에/jca
+
+
+여행에서
+	여행/ncpa+에서/jca
+
+돌아오면
+	돌/pvg+아/ecx+오/px+면/ecs
+
+어머니품과
+	어머니/ncn+품/ncn+과/jct
+
+같이
+	같/paa+이/xsa
+
+품어주는
+	품/pvg+어/ecx+주/px+는/etm
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+하답니다
+	하/px+답니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+아름다운
+	아름답/paa+은/etm
+
+비행을
+	비행/ncn+을/jco
+
+같이할
+	같이하/pvg+ㄹ/etm
+
+에어부산
+	에어/ncn+부산/ncps
+
+
+하늘위를
+	하늘/ncn+위/ncn+를/jco
+
+비행하는
+	비행/ncpa+하/xsva+는/etm
+
+에어부산에서
+	에어/ncn+부산/ncps+에서/jca
+
+다음
+	다음/ncn
+
+구름사진이에요
+	구름/ncn+사진/ncn+이/jp+에요/ef
+
+구름이
+	구름/ncn+이/jcc
+
+가득찬
+	가득차/paa+ㄴ/etm
+
+모습도
+	모습/ncn+도/jxc
+
+너무
+	너무/mag
+
+아름다웠어요
+	아름답/paa+었/ep+어/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+대마도여행길에서의
+	대마도여행길에서/ncn+의/jcm
+
+에어부산을
+	에어/ncn+부산/ncps+을/jco
+
+이용하면서
+	이용/ncpa+하/xsva+면서/ecc
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+여행길을
+	여행길/ncn+을/jco
+
+다녀올수
+	다니/pvg+어/ecx+오/px+ㄹ/etm+수/nbn
+
+있었어요
+	있/paa+었/ep+어요/ef
+
+
+일단
+	일단/mag
+
+부산을
+	부산/ncps+을/jco
+
+들려서
+	들리/pvg+어서/ecs
+
+갔던
+	가/px+아/ep+ㄴ/etm
+
+대마도여행은
+	대마도여행/ncn+은/jxc
+
+그곳에서
+	그곳/ncn+에서/jca
+
+만났던
+	만나/pvg+아/ep+ㄴ/etm
+
+아름다운
+	아름답/paa+은/etm
+
+사람들까지
+	사람들/ncn+까지/jxc
+
+즐거운
+	즐겁/paa+은/etm
+
+이야기
+	이야기/ncpa
+
+들려줄게요
+	들리/pvg+어/ecx+줄/px+게/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+날씨가
+	날씨/ncn+가/jcs
+
+추워진다고
+	춥/paa+어/ecx+지/px+ㄴ다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+건강
+	건강/ncps
+
+조심하세요
+	조심/ncpa+하/xsva+세/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+제주국제공항
+	제주/ncn+국제공항/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+용담2동
+	용담2동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01857105",
+	"bl01857105",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11576965",
+	"/sl+11576965/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"제주국제공항",
+	title/f+:/sp+"/sl+제주/ncn+국제공항/ncn+"/sr+,/sp
+
+pointX:260251,pointY:102254}
+	pointX/f+:/sp+260251/nnc+,/sp+pointY/f+:/sp+102254/nnc+}/sr
+
+
+대마도여행길
+	대마도여행길/ncn
+
+-
+	-/sd
+
+에어부산
+	에어/ncn+부산/ncps

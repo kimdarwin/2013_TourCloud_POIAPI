@@ -1,0 +1,34 @@
+Title:
+8/12 근교 트레킹 - 청태산 산림욕 후기
+
+Date:
+2012.08.12
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(580089,'files/attach/images/64/458/252/020137fe5660d13be3d7e433b7c78bd1.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/0273c383675a04c3a4533708f8aca058.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/c68502b51c8c85f4e608f4e816cdf132.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/01ec99e18deace8161bc8244f224d5ac.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/b313b8b841804357f189f57fde6f29b9.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/7bb14423d90d47f3d6ec54ca66bdad7b.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/08a229a4ab18cb2415df01b634fc0349.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/bbbae6d1dc1cdc28961699c2ec1d508e.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/92c157ac9698dfba166292f9315f7a9c.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/8e35f5d819b4b4e0cc3526a836daa358.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/154517d0a67c28c957dcd478bd5baa46.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/60c440774f7b6f77947826962ca2bc30.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/3d36efa7619042ce3cca39c13a4e6898.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/b19d5839324a51536b0f5dcde60d6f59.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/f77bd90a978f1ab6cdf2ff43d30a560e.jpg');
+list_gallery_add_image(580089,'files/attach/images/64/458/252/58d5300436bb77f2f8fa23da625e5e65.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 8월 12일(일) 청태산 산림욕 트레킹을 하였습니다.
+여행 하루 전 기상예보가 바뀌어 강원도 지역에도 비가 내린다는 예보 때문에 걱정스러운 마음으로 길을 나섰습니다. 덕분에 따가운 햇살은 사라지고 도착한 청태산자연휴양림은 마치 여름이 끝난 것처럼 오히려 썰렁한 분위기가 한가롭기까지 하더군요.
+청태산자연휴양림은 다양한 경등산 코스와 걷기에 편안한 임도 코스 그리고 숲 산림욕 등 자신의 취향에 맞게 코스를 정할 수 있다는 점이 좋은 곳입니다.
+이번에도 자율적으로 코스를 택하여 숲 탐방을 하였습니다. 하늘이 조금씩 꾸물거렸지만 비는 내리지 않은 상태였고 산행을 하기에는 너무 덥지 않은 적당한 날씨였습니다.
+나무데크 탐방로를 따라 울창한 숲이 좋은 2코스로 오른 후 청태산 정상으로 향했습니다. 햇볕은 없지만 그래도 땀은 줄줄 흐르더군요. 천천히 걸어 약 1시간 반이 지나 정상에 도착하였습니다. 곧 비가 내릴 것처럼 짙은 구름이 정상으로 몰려 오는 모습은 신비로웠고 선선한 바람이 불어와 잠깐 앉아 있었더니 땀이 식어 싸늘함이 느껴지더군요. 잠시 쉬며 점심을 먹는데 비가 쏟아지기 시작했습니다. 부랴부랴 식사를 마치고 비 내리는 숲길을 걸었습니다. 나뭇잎에 떨어지는 빗소리에 기분은 가벼웠지만 숲길이 미끄러워 조심이 걷느라 오르막이나 내리막 길이 좀 힘들게 느껴지셨을 거예요. 빗줄기는 굵어졌다 가늘어졌다 쉬이 그칠 것 같지 않아 차량으로 서둘러 돌아왔습니다.
+비가 내리지만 않았어도 호젓하게 산림욕을 즐길 수 있었을 텐데 그렇지 못하여 일정을 서둘러 끝내게 되어 좀 아쉬움으로 남았습니다. 그래도 나무 지붕 아래에 앉아 비를 피하고 음악도 듣고 책도 읽고 계시던 분들의 모습이 인상 깊게 남습니다. 다음에 기회가 되시면 다시 음악과 책 한 권 싸들고 오셔서 편안한 쉼을 청해보시길 바라겠습니다.
+서울로 돌아오는 길은 막바지 휴가를 끝내고 돌아오는 귀경 차량이 많아서 막히는 길을 피해 국도로 고속도로를 번갈아 가며 다행히 서울에는 너무 늦지 않게 도착하였습니다. 이런 점이 근교 트레킹의 큰 장점이 아닐까 싶습니다.
+비 내리는 날 숲은 촉촉하고 신선함은 참 좋지만 걷기를 하기에는 피로가 더하셨을 거예요. 이번 여행에 참여하신 회원분들 모두 고생 많으셨구요. 남은 시간 피로 잘 떨치시고 내일부터 시작되는 한 주도 활기차게 보내시기 바랍니다~이 게시물을...

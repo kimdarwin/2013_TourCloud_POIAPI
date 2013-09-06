@@ -1,0 +1,796 @@
+자꾸만
+	자꾸/mag+만/jxc
+
+그대가
+	그대/npp+가/jcs
+
+많이
+	많/paa+이/xsa
+
+그리워져요
+	그립/paa+어/ecx+지/px+어/ef+요/jxf
+
+사랑이
+	사랑/ncn+이/jcc
+
+이렇게
+	이렇/pad+게/ecs
+
+아픈
+	아프/paa+ㄴ/etm
+
+줄
+	줄/nbn
+
+정말
+	정말/mag
+
+몰랐었죠
+	모르/pvg+아/ep+죠/ef
+
+
+.
+	./sf
+
+
+돌아올순
+	돌아올순/ncn
+
+없나요
+	없/paa+나/ef+요/jxf
+
+...
+	.../se
+
+
+디셈버의
+	디셈버/ncn+의/jcm
+
+애절하면서도
+	애절/ncps+하/xsms+면서/ecs+도/jxc
+
+가슴을
+	가슴/ncn+을/jco
+
+적시는
+	적시/pvg+는/etm
+
+하모니와아이리스
+	하모니와아이리스/ncn
+
+영상이함께
+	영상이함께/ncn
+
+어우러진가슴
+	어우러진가슴/ncn
+
+울리는
+	울리/pvg+는/etm
+
+곡.
+	곡/ncn+./sf
+
+.
+	./sf
+
+
+'돌아올순
+	'돌아올순/ncn
+
+없나요'
+	없/paa+나요/ef+'/sr
+
+
+디셈버(December)의
+	디셈버(December)/ncn+의/jcm
+
+타이틀
+	타이틀/ncn
+
+곡
+	곡/ncn
+
+사랑
+	사랑/ncn
+
+참
+	참/mag
+
+그리고
+	그리고/maj
+
+돌아올
+	돌/pvg+아/ecx+오/px+ㄹ/etm
+
+순
+	순/ncn
+
+없나요
+	없/paa+나/ef+요/jxf
+
+는백지영의
+	는백지영/ncn+의/jcm
+
+잊지
+	잊/pvg+지/ecx
+
+말아요
+	말/px+아/ef+요/jxf
+
+와
+	오/pvg+아/ecx
+
+함께
+	함께/mag
+
+
+아이리스
+	아이리스/ncn
+
+OST
+	OST/f
+
+대박이란
+	대박/ncn+이란/jxc
+
+평가를
+	평가/ncpa+를/jco
+
+받은
+	받/pvg+은/etm
+
+곡
+	곡/ncn
+
+들이다
+	들이/ncn+이/jp+다/ef
+
+
+돌아올순
+	돌아올순/ncn
+
+없나요
+	없/paa+나/ef+요/jxf
+
+.
+	./sf
+
+
+디셈버(December)
+	디셈버(December)/ncn
+
+/
+	//sp
+
+아이리스
+	아이리스/ncn
+
+OST
+	OST/f
+
+뮤직비디오
+	뮤직비디오/ncn
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc16/2010/02/13/986/031002136A0C433B91D3BB6813498B33809_ya3542_logo.
+	net/blogucc16/2010/02/13/986/031002136A0C433B91D3BB6813498B33809_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'219.
+	'/sr+219./nnc
+
+96';
+	96/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'47083A4BB17E05A62E51928155487839090E';
+	'47083A4BB17E05A62E51928155487839090E/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V125850f70121ff8b9f4d8caabb05b377d125aa0faa5065020a459a0bfd4204a60b738caabb05b377d125';
+	'V125850f70121ff8b9f4d8caabb05b377d125aa0faa5065020a459a0bfd4204a60b738caabb05b377d125/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_09395
+	ugcPlayer_09395/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_09395'
+	VideoInfraUGCPlayer('ugcPlayer_09395'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_09395
+	ugcPlayer_09395/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+디셈버
+	디셈버/ncn
+
+.
+	./sf
+
+
+돌아올순
+	돌아올순/ncn
+
+없나요
+	없/paa+나/ef+요/jxf
+
+(가사)
+	(/sl+가사/ncn+)/sr
+
+
+자꾸만
+	자꾸/mag+만/jxc
+
+그대가
+	그대/npp+가/jcs
+
+많이
+	많/paa+이/xsa
+
+그리워져요
+	그립/paa+어/ecx+지/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+사랑이
+	사랑/ncn+이/jcc
+
+이렇게
+	이렇/pad+게/ecs
+
+아플줄
+	아프/paa+ㄹ/etm+줄/nbn
+
+정말
+	정말/mag
+
+몰랐었죠너무
+	몰랐었죠너무/ncn
+
+사랑해서
+	사랑/ncn+해서/ncn
+
+그댈
+	그댈/ncn
+
+떠나갔지만나의
+	떠나갔지만나/ncn+의/jcm
+
+가슴은
+	가슴/ncn+은/jxc
+
+멈춰
+	멈추/pvg+어/ecx
+
+있네요
+	있/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+아직
+	아직/mag
+
+사랑하는데
+	사랑/ncpa+하/xsva+ㄴ데/ecs
+
+많이
+	많/paa+이/xsa
+
+보고
+	보/px+고/ecc
+
+싶은데그댄
+	싶은데그댄/ncn
+
+내게
+	내/npp+게/jca
+
+돌아올순
+	돌아올순/ncn
+
+없나요사랑해
+	없나요사랑해/ncn
+
+그댄
+	그댄/ncn
+
+내겐
+	내겐/ncn
+
+올순
+	올/ncn+순/xsncc
+
+없나요그대가
+	없나요그대/ncn+가/jcs
+
+보고파서
+	보고/ncn+파서/ncn
+
+죽을
+	죽/ncn+을/jco
+
+것만
+	것/nbn+만/jxc
+
+같은데내
+	같은데내/ncn
+
+가슴이
+	가슴/ncn+이/jcc
+
+닳아서
+	닳/pvg+아/ecx
+
+아픔도
+	아프/paa+ㅁ/etn+도/jxc
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없어제발
+	없어제발/ncn
+
+돌아와줘요
+	돌/pvg+아/ecx+오/px+아/ecx+주/px+어/ef+요/jxf
+
+사랑해요다시
+	사랑해요다시/ncn
+
+올
+	오/px+ㄹ/etm
+
+것
+	것/nbn
+
+같은데매일
+	같은데매/ncn+이/jp+ㄹ/etm
+
+기다리는데차마
+	기다리는데차마/ncn
+
+내맘
+	내/pvg+어/ecx+말/px+ㅁ/etn
+
+감출수가
+	감추/pvg+ㄹ/etm+수/nbn+가/jcc
+
+없네요
+	없/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+사랑해
+	사랑/ncn+해/ncn
+
+그댄
+	그댄/ncn
+
+내게
+	내/npp+게/jca
+
+올순
+	올/ncn+순/xsncc
+
+없나요그대가
+	없나요그대/ncn+가/jcs
+
+보고파서
+	보고/ncn+파서/ncn
+
+죽을
+	죽/ncn+을/jco
+
+것만
+	것/nbn+만/jxc
+
+같은데내
+	같은데내/ncn
+
+가슴이
+	가슴/ncn+이/jcc
+
+닳아서
+	닳/pvg+아/ecx
+
+아픔도
+	아프/paa+ㅁ/etn+도/jxc
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없어제발
+	없어제발/ncn
+
+돌아와줘요
+	돌/pvg+아/ecx+오/px+아/ecx+주/px+어/ef+요/jxf
+
+사랑해요그댈
+	사랑해요그댈/ncn
+
+미친듯이
+	미치/pvg+ㄴ/etm+듯/nbs+이/jcc
+
+불러
+	부르/pvg+어/ecx
+
+보지만
+	보/pvg+지/ecx+말/px+ㄴ/etm
+
+(불러
+	(/sl+부르/pvg+어/ecx
+
+보지만)슬픈
+	보지만)슬픈/ncn
+
+눈물만이
+	눈물/ncn+만/ncn+이/jcc
+
+대답하네요미안해
+	대답하네요미안해/ncn
+
+그댈
+	그댈/ncn
+
+많이
+	많/paa+이/xsa
+
+아프게
+	아프/paa+게/ecs
+
+해서영원히
+	해서/ncn+영원/ncps+히/xsas
+
+그대곁을
+	그대곁/ncn+을/jco
+
+지켜주며
+	지키/pvg+어/ecx+주/px+며/ecc
+
+살께요내
+	살께요내/ncn
+
+심장이
+	심장/ncn+이/jcc
+
+다쳐서
+	다치/pvg+어서/ecs
+
+사랑도
+	사랑/ncn+도/jxc
+
+멈출
+	멈추/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없죠그대
+	없죠그대/ncn
+
+없이
+	없이/mag
+
+나는
+	나/npp+는/jxc
+
+안되나봐요제발
+	안되나봐요제발/ncn
+
+돌아와줘요
+	돌/pvg+아/ecx+오/px+아/ecx+주/px+어/ef+요/jxf
+
+사랑해요
+	사랑/ncpa+하/xsva+어요/ef
+
+
+디셈버(December)
+	디셈버/ncn+(/sl+December/f+)/sr
+
+
+아이리스
+	아이리스/ncn
+
+ost
+	ost/f
+
+
+민초호야의
+	민초호야/ncn+의/jcm
+
+음악이야기
+	음악이야기/ncpa

@@ -1,0 +1,72 @@
+Title:
+평창 백덕산 
+
+Date:
+2011.12.05 06:49
+
+Content:
+
+백덕산[白德山]
+위 치 : 강원도 평창군 방림면 운교리와 영월군 수주면 사자리에
+위치한 산이며 서쪽으로 사자산과 남쪽으로는 구봉대산의 산맥을 이은다
+사자산 아래는 연화봉이 솟아있고 그 유명한 사찰 법흥사 적멸보궁이 자리하고있다
+산높이1350m에 이르는 백덕산은 겨울철에는 항상 흰 눈이 뒤덮인 산 경관때문에
+이름이 붙여졌다고 한다
+
+옥수동 독서당산악회
+
+백덕산은 예로부터 눈이 많이오는 고장으로 소문난 곳이다 올 해도 첫 눈은 약속이나 한것처럼
+강원도 지방에 3일간 폭설이 내려 백덕산에는 나무들이 흰 눈꽃
+을 피우고 등산객들의 축복을 받고자 미소를 짖는것 같다
+
+현재 백덕산에는 폭설이 내려 많은곳은60~70cm의 눈이쌓여있다
+백덕산을 등산하려면 겨울 등산장비를 비롯하여 조금이나마 시간을 절약하고자 한다면
+등산지도를 꼭 숙지하면 좋을것 같다
+등산코스:문재터널입구[출발점]~산죽군락지~삼거리~당재~작은당재~백덕산[정상1350m]
+작은당재~밤나무골~운교리 약6시간30분 소요
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2011/12/05/1829/03100323415053BE87C39979733B9623E04_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '393.019';
+	var qsParam = {};
+	qsParam.vid = 'B55D4E67C81B4DE97447463C2458197E492A';
+	qsParam.inKey = 'V1230660f8f425c719f65dcc0147182d758101445b238738819787d85694887c02474dcc0147182d75810';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = 'MUSIC';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_01783 = new VideoInfraUGCPlayer('ugcPlayer_01783' ,bean); 
+ugcPlayer_01783.drawPlayLayer(); 
+}
+
+옥수동 독서당산악회 동영상 
+
+
+
+
+	

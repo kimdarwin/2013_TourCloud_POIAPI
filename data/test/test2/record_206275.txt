@@ -1,0 +1,44 @@
+Title:
+3/24~25 공곶이와 지심도, 거제도 1박2일 여행 후기
+
+Date:
+2012.03.26
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(563991,'files/attach/images/64/275/206/057a3cc78ddb34ddc6f5f0b02470b179.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/1311ac8a8399bcff564c411e50287ff4.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/c9d9c0f4cb212b73a606ed199b8406dc.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/185cf980c1b4605d06359f85cede5358.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/178bce3ab54012dbe2488d64f6905311.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/15e1319763934b1a03ce9bb1114b98f9.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/1aa36e0bc4b894346ae386660c90eadd.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/4addab943305579ebafdd3b38bb1f2fa.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/83bcc9cb909055afb7bc81c3d8499048.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/454fef5f428347c00b3d952a23b2fc5d.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/e335ec9c0e1d3b8eff05e8b8decc1846.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/96536a6eb570e6a752f274bd10cd339e.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/cd180726afa2eb2f73d0db21aea894c8.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/f4ed44305c067dad73a06037bfdb6f4a.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/8d01666d0391bd73e35c40bebf8ff514.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/fef5b9bb34d52a82b2c0509e875ce5d2.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/f54b06926baee36c03d6106af04bc6ca.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/771af5734bb7ddfb5d1df2b87e242061.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/bc49cc036c7cbc6626e6e830096c1ecb.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/5144d7aa9eca0dd24f91b705a2208cf5.jpg');
+list_gallery_add_image(563991,'files/attach/images/64/275/206/33dc9a11ea6e4d4a653edb33454dbbb4.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 3월 24일(토)~25일(일) 거제도 1박2일 여행을 다녀왔습니다. 서울에서는 잘 모르지만 차를 타고 바깥으로 나오니 매화도 피고 어느새 텅 빈 들녘에도 파릇파릇 새싹이 돋아나고 있었습니다. 서울에서야 아직도 찬바람 불면 다시 겨울 같아 봄의 진행 상황을 도통 알 수가 없었는데 말이에요.
+거제대교를 건너 거제도로 진입을 하니 하늘은 푸르고 잉크빛 바다는 흰 손수건을 파랗게 물들일 만큼 좋은 날씨였습니다. 오전에 고속도로를 달릴 때만해도 비 내리고 눈 내리고…. 무주를 지날 쯤에는 3월 중순에 설경을 만나 깜짝 놀라기도 하고 날씨도 무척 변화무쌍했습니다.
+게제도에 도착해서 멍게비빔밥으로 유명한 백만석식당에서 점심식사를 하였습니다. 향긋한 멍게 향이 살아나고 깔끔한 지리는 입맛을 정리해주는 맛이 참 일품입니다. 식사 후에는 한국전쟁 때 포로수용소의 생활상을 알아보는 유적지 포로수용소도 잠깐 돌아보았습니다.
+그리고 공곶이 수선화밭으로 이동하여 예구마을 뒷동산을 넘어 농원으로 들어섰습니다. 수선화밭으로 내려서는 동백터널은 향긋한 꽃내음이 상쾌했지만 꽃이 많이 진 것인지 아직 피지 않은 것인지 잘 구분을 못하겠더군요. 노란 수선화도 좀 일러서 양지 바른 곳은 피고 그렇지 않은 곳은 파란 꽃대만 올라와 있습니다. 올 겨울 거제도 많이 추웠답니다. 작년보다 꽃이 늦은 걸 보면 따듯한 남쪽나라도 점점 계절 구분이 흐려지는 것은 아닌지 살짝 걱정이네요. 하지만 또 며칠 날씨가 따뜻하면 이번 주말쯤에는 더 많은 수선화가 피어있지 않을까 싶습니다.
+그리고 도장포 바람의 언덕에서 그야말로 바닷바람 제대로 맞았습니다. 날씨는 좋았지만 강풍이 종일 심해서 바람의 언덕이란 이름을 정확히 기억할 듯합니다. 이웃한 신선대의 멋진 바다풍경 감상을 끝으로 하루 여행을 마치고 해금강호텔에서 여정을 마쳤습니다. 밤새 바람이 심해 객실 공기가 썰렁할 정도여서 잠을 뒤척이신 분도 계셨을 거예요. 저는 지심도로 들어가는 유람선이 바람에 묶여 섬여행을 못하면 어쩌나 싶은 걱정에 잠을 설쳤거든요.^^
+여행 둘쨋날이 밝아오고 장승포선착장에 연락을 하니 다행히 풍랑주의보가 해제되어 유람선이 정상적으로 운항을 한다고 했습니다. 얼마나 다행이던지요.
+장승포로 이동하여 뜨끈한 굴국밥으로 아침식사를 하고 유람선에 올랐습니다. 15분 정도 바다를 달려 도착한 지심도에는 동백꽃이 많이 피지는 않았지만 그래도 빨갛게 핀 동백은 어렵지 않게 볼 수 있었고 탐방로를 따라 산책을 하며 푸른 바다 내음을 원없이 들이켰습니다.
+울창한 숲 그늘로 들어서면 싸늘한 공기가 상쾌하고 지저귀는 새들의 울음소리는 맑기만 합니다. 섬의 70%가 동백나무인 지심도에서 비록 후두둑 떨어질만큼 활짝 핀 동백은 만나지 못했어도 오랜만에 다녀온 섬 여행이라 마음에 은은하게 남을 듯합니다. 
+서울로 올라오는 길에는 통영항에 들러 벽화가 예쁜 동피랑마을, 활기 넘치는 어시장구경을 하며 1박2일간의 여행을 마무리하고 서울로 돌아왔습니다.
+기대를 많이 했던 노란 수선화와 빨간 동백꽃이 좀 아쉬움을 남겼는데 
+며칠 날씨가 따뜻해지고이번 주말쯤이면 좀더 화사하게 꽃이 피지 않을까 싶습니다. 
+이틀 동안 내내 맑고 화창한 날씨와 함께 여행할 수 있어서 오랜만에 마음이 뽀송뽀송해진 듯 상쾌했던 1박2일 여행이었습니다.며칠 남지 않은 3월도 마무리 잘 하시고 화사한 4월도 잘 맞이하시기 바라며 이틀 동안 즐겁게 여행을 해주신 참여자들께 고맙다는 말씀 드리며 모두 수고 많으셨습니다~
+이 게시물을...

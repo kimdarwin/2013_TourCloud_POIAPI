@@ -1,0 +1,1209 @@
+칼스버그
+	칼스/ncn+버그/ncn
+
+맥주
+	맥주/ncn
+
+공장
+	공장/ncn
+
+견학
+	견학/ncpa
+
+[코펜하겐
+	[코펜하겐/ncn
+
+관광지]
+	관광지/ncn+]/sr
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+오전에
+	오전/ncn+에/jca
+
+시청
+	시청/ncpa
+
+첨탑에
+	첨탑/ncn+에/jca
+
+올라서
+	오르/pvg+아/ecx
+
+코펜하겐을
+	코펜하겐/ncn+을/jco
+
+품에
+	풀/pvg+ㅁ/etn+에/jca
+
+안으려고
+	안/pvg+으려고/ecs
+
+했는데,
+	하/px+었/ep+는데/ecs+,/sp
+
+아침부터
+	아침/ncn+부터/jxc
+
+코펜하겐은
+	코펜하겐/ncn+은/jxc
+
+안개를
+	안개/ncn+를/jco
+
+덥고
+	덥/paa+고/ecc
+
+자고
+	자/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+올라가서
+	오르/pvg+아/ecx+가/px+아/ecx
+
+잠자는
+	잠자/pvg+는/etm
+
+코펜하겐을
+	코펜하겐/ncn+을/jco
+
+본다는
+	보/px+ㄴ다/ef+는/etm
+
+건
+	거/nbn+은/jxc
+
+돈
+	돌/pvg+ㄴ/etm
+
+낭비
+	낭비/ncpa
+
+시간
+	시간/nbu
+
+낭비라
+	낭비/ncpa+이/jp+라/ecs
+
+칼스버그
+	칼스/ncn+버그/ncn
+
+맥주
+	맥주/ncn
+
+공장을
+	공장/ncn+을/jco
+
+오늘
+	오늘/ncn
+
+오전
+	오전/ncn
+
+목적지로
+	목적지/ncn+로/jca
+
+잡았지요
+	잡/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+원래,
+	원래/ncn+,/sp
+
+저녁에
+	저녁/ncn+에/jca
+
+갈
+	가/pvg+ㄹ/etm
+
+곳이고,
+	곳/ncn+이/jp+고/ecc+,/sp
+
+거나하게
+	거나/ncps+하/xsms+게/ecs
+
+신선한
+	신선/ncn+한/ncn
+
+맥주를
+	맥주/ncn+를/jco
+
+마시다
+	말/px+시/ep+다/ef
+
+오려고
+	오/px+려고/ecs
+
+한
+	하/pvg+ㄴ/etm
+
+것이었는데,
+	것/nbn+이/jp+었/ep+는데/ecs+,/sp
+
+오전에
+	오전/ncn+에/jca
+
+맥주를
+	맥주/ncn+를/jco
+
+마시게
+	마시/pvg+게/ecs
+
+됐군요
+	되/pvg+었/ep+군/ef+요/jxf
+
+.
+	./sf
+
+
+호텔
+	호텔/ncn
+
+리셉션에
+	리셉션/ncn+에/jca
+
+물어보니
+	묻/pvg+어/ecx+보/px+니/ecs
+
+걸어서
+	걷/pvg+어서/ecs
+
+가기엔
+	가/px+기/etn+엔/jca
+
+멀다고
+	멀/paa+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+거리를
+	거리/ncn+를/jco
+
+재보니
+	재/pvg+어/ecx+보/px+니/ecs
+
+3.
+	3./nnc
+
+5km정도
+	5km정/ncn+도/jxc
+
+나오더군요
+	나/pvg+아/ecx+오/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+버스를
+	버스/ncn+를/jco
+
+탔습니다
+	트/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+버스
+	버스/ncn
+
+넘버
+	넘버/ncn
+
+6A.
+	6A./ncn
+
+버스
+	버스/ncn
+
+안은
+	안/mag+은/jxc
+
+유모차와
+	유모차/ncn+와/jcj
+
+휠체어가
+	휠체어/ncn+가/jcs
+
+사이좋게
+	사이좋/paa+게/ecs
+
+실려갑니다
+	실리/pvg+어/ecx+가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+우리나라처럼
+	우리나라/ncn+처럼/jca
+
+안내
+	알/pvg+ㄴ/etm+내/nbn
+
+방송은
+	방송/ncpa+은/jxc
+
+없는데,
+	없/paa+는데/ecs+,/sp
+
+버스
+	버스/ncn
+
+안에
+	안/ncn+에/jca
+
+전광판에
+	전광판/ncn+에/jca
+
+정류장
+	정류장/ncn
+
+이름이
+	이름/ncn+이/jcc
+
+나오고,
+	나/pvg+아/ecx+오/px+고/ecc+,/sp
+
+버스
+	버스/ncn
+
+정류장에도
+	정류장/ncn+에/jca+도/jxc
+
+정류장
+	정류장/ncn
+
+이름이
+	이름/ncn+이/jcc
+
+크게
+	크/paa+게/ecs
+
+보여서
+	보이/pvg+어서/ecs
+
+문제
+	문제/ncn
+
+없니
+	없/paa+니/ef
+
+내렸습니다
+	내리/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+공장까지
+	공장/ncn+까지/jxc
+
+500m
+	500m/ncn
+
+거리를
+	거리/ncn+를/jco
+
+걸어야
+	걷/pvg+어야/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+자전거와
+	자전거/ncn+와/jcj
+
+자동차가
+	자동차/ncn+가/jcs
+
+어울어지는
+	어울어지/ncn+는/jxc
+
+건강한
+	건강/ncps+하/xsms+ㄴ/etm
+
+풍경에
+	풍경/ncn+에/jca
+
+운동
+	운동/ncn
+
+안
+	안/mag
+
+하는
+	하/pvg+는/etm
+
+제
+	저/npp+의/jcm
+
+몸이
+	몸/ncn+이/jcc
+
+건강해
+	건강/ncps+하/xsms+어/ecx
+
+지는
+	지/px+는/etm
+
+기분입니다
+	기분/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+멀리가서
+	멀리가서/ncn
+
+왜
+	왜/mag
+
+공장에
+	공장/ncn+에/jca
+
+가냐고
+	가/px+냐/ef+고/jcr
+
+묻는
+	묻/pvg+는/etm
+
+분이
+	분/nbu+이/jcc
+
+계실
+	계시/paa+ㄹ/etm
+
+텐데요
+	텐데요/ncn
+
+.
+	./sf
+
+
+칼스버그'하면
+	칼스버그'하/ncn+이/jp+면/ecs
+
+세계에서손꼽히는
+	세계에서손꼽히/ncn+는/jxc
+
+맥주
+	맥주/ncn
+
+회사인
+	회사/ncn+이/jp+ㄴ/etm
+
+걸로
+	걸/ncn+로/jca
+
+알고
+	알/pvg+고/ecx
+
+있고요
+	있/px+고요/ef
+
+백년이
+	백/nnc+년/nbu+이/jcc
+
+훨씬
+	훨씬/mag
+
+넘은
+	넘/pvg+은/etm
+
+역사를
+	역사/ncn+를/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+공장이
+	공장/ncn+이/jcc
+
+현재까지도
+	현재/ncn+까지/jxc+도/jxc
+
+잘
+	잘/mag
+
+보존되어
+	보존/ncpa+되/xsvn+어/ecx
+
+있다니,
+	있/px+다니/ecs+,/sp
+
+맥주를
+	맥주/ncn+를/jco
+
+좋아한다면
+	좋/paa+아/ecx+하/px+ㄴ다면/ecs
+
+꼭
+	꼭/mag
+
+가봐야하지
+	가/pvg+아/ecx+보/px+아/ecx+하/px+지/ecx
+
+않겠나요
+	않/px+겠/ep+나/ef+요/jxf
+
+?
+	?/sf
+
+
+공장
+	공장/ncn
+
+앞까지
+	앞/ncn+까지/jxc
+
+왔습니다
+	오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+효모
+	효모/ncn
+
+냄새가
+	냄새/ncn+가/jcs
+
+공장
+	공장/ncn
+
+전체를
+	전체/ncn+를/jco
+
+감싸고
+	감싸/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+방문자들은
+	방문/ncpa+자/ncn+들/xsncc+은/jxc
+
+좀
+	좀/mag
+
+돌아서
+	돌/pvg+아/ecx
+
+가야하더군요
+	가야하/pvg+더군/ef+요/jxf
+
+
+칼스버그
+	칼스/ncn+버그/ncn
+
+맥주의
+	맥주/ncn+의/jcm
+
+창시자
+	창시자/ncn
+
+'야콥슨'경의
+	'야콥슨'경/ncn+의/jcm
+
+동상
+	동상/ncn
+
+
+65
+	65/nnc
+
+DKK을
+	DKK/f+을/jco
+
+내고
+	내/pvg+고/ecc
+
+들어오니,
+	들/pvg+어/ecx+오/px+니/ecs+,/sp
+
+전
+	전/nbn
+
+세계
+	세계/ncn
+
+맥주병이
+	맥주/ncn+병/ncn+이/jcc
+
+전시돼
+	전시/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+한국
+	한국/ncn
+
+맥주병은
+	맥주/ncn+병/ncn+은/jxc
+
+없으니
+	없/paa+으니/ecs
+
+전세계는
+	전세계/ncn+는/jxc
+
+아니겠네요
+	아니/paa+겠/ep+네요/ef
+
+
+이
+	이/mmd
+
+수많은
+	수많/paa+은/etm
+
+병이
+	병/nbu+이/jcc
+
+모여있는
+	모이/pvg+어/ecx+있/px+는/etm
+
+풍경
+	풍경/ncn
+
+자체가
+	자체/ncn+가/jcs
+
+경이롭습니다
+	경이/ncn+롭/xsmn+습니다/ef
+
+
+1847년과
+	1847/nnc+년/nbu+과/jcj
+
+2005년에
+	2005/nnc+년/nbu+에/jca
+
+출하된
+	출하/ncn+되/xsvn+ㄴ/etm
+
+맥주병
+	맥주/ncn+병/ncn
+
+수
+	수/nbn
+
+
+맥주통을
+	맥주/ncn+통/ncn+을/jco
+
+만드는
+	만들/pvg+는/etm
+
+과정이
+	과정/ncn+이/jcc
+
+비디오로
+	비디오/ncn+로/jca
+
+소개되는데,
+	소개/ncpa+되/xsvn+ㄴ데/ecs+,/sp
+
+참
+	참/mag
+
+재미있습니다
+	재미있/pvg+습니다/ef
+
+.
+	./sf
+
+
+야콥슨
+	야콥슨/ncn
+
+경과
+	경/ncn+과/jcj
+
+직원들의
+	직원/ncn+들/ncn+의/jcm
+
+단체사진
+	단체/ncn+사진/ncn
+
+
+맥주
+	맥주/ncn
+
+공장에서
+	공장/ncn+에서/jca
+
+일하는
+	일/ncpa+하/xsva+는/etm
+
+근로자들에게는
+	근로자/ncn+들/ncn+에게/jca+는/jxc
+
+저런
+	저런/mmd
+
+통이
+	통/nbn+이/jcc
+
+지급됐다네요
+	지급됐다네요/ncn
+
+.
+	./sf
+
+
+너무
+	너무/mag
+
+많이
+	많/paa+이/xsa
+
+마시지
+	마시/pvg+지/ecx
+
+말라는
+	말/px+라/ef+는/etm
+
+차원에서
+	차원/ncn+에서/jca
+
+
+유럽
+	유럽/ncn
+
+3대
+	3/nnc+대/nbu
+
+썰렁
+	썰렁/ncps
+
+관광지
+	관광지/ncn
+
+중
+	중/nbn
+
+하나인
+	하나/nnc+이/jp+ㄴ/etm
+
+코펜하겐
+	코펜하겐/ncn
+
+인어공주
+	인어공주/ncn
+
+상이
+	상/ncn+이/jcc
+
+현재는
+	현재/ncn+는/jxc
+
+외국
+	외국/ncn
+
+박람회에
+	박람회/ncn+에/jca
+
+출장갔다는데,
+	출장갔다는데/ncn+,/sp
+
+
+칼스버그
+	칼스/ncn+버그/ncn
+
+공장에서
+	공장/ncn+에서/jca
+
+모조품이라도
+	모조품/ncn+이/jp+라/ecs+도/jxc
+
+보게
+	보/px+게/ecs
+
+되네요
+	되/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+가짜라서
+	가짜/ncn+이/jp+라서/ecs
+
+창피한지
+	창피/ncps+한지/ncn
+
+얼굴을
+	얼굴/ncn+을/jco
+
+심하게
+	심하/paa+게/ecs
+
+돌리고
+	돌리/pvg+고/ecc
+
+있습니다
+	있/paa+습니다/ef
+
+
+날씨가
+	날씨/ncn+가/jcs
+
+춥지
+	춥/paa+지/ecx
+
+않으면
+	않/px+으면/ecs
+
+말을
+	말/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+방대한
+	방대/ncps+하/xsms+ㄴ/etm
+
+칼스버그
+	칼스/ncn+버그/ncn
+
+공장을
+	공장/ncn+을/jco
+
+둘러보기도
+	두르/pvg+어/ecx+보/px+기/etn+도/jxc
+
+한답니다
+	한/nbn+답/xsmn+니다/ef
+
+
+1시간에
+	1/nnc+시간/nbu+에/jca
+
+35
+	35/nnc
+
+DKK
+	DKK/f
+
+
+일하고
+	일/ncn+하고/jct
+
+계신
+	계시/paa+ㄴ/etm
+
+분을
+	분/nbu+을/jco
+
+붙잡고
+	붙잡/pvg+고/ecc
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+한
+	한/nnc
+
+장
+	장/nbu
+
+부탁합니다
+	부탁/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+1891년에
+	1891/nnc+년/nbu+에/jca
+
+세워진
+	세우/pvg+어/ecx+지/px+ㄴ/etm
+
+굴뚝,
+	굴뚝/ncn+,/sp
+
+각
+	각/mma
+
+건물마다
+	건물/ncn+마다/jxc
+
+연도가
+	연도/ncn+가/jcs
+
+붙어
+	붙/pvg+어/ecx
+
+있는데,
+	있/px+는데/ecs+,/sp
+
+대부분의
+	대부분/ncn+의/jcm
+
+건물들이
+	건물/ncn+들/ncn+이/jcc
+
+100년을
+	100/nnc+년/nbu+을/jco
+
+훌쩍
+	훌쩍/mag
+
+넘겼네요
+	넘기/pvg+었/ep+네요/ef
+
+
+야콥슨
+	야콥슨/ncn
+
+경의
+	경/ncn+의/jcm
+
+사진과
+	사진/ncn+과/jcj
+
+그를
+	그/npp+를/jco
+
+기리는
+	기/pvg+리/ef+는/etm
+
+시
+	시/ii
+
+
+공장
+	공장/ncn
+
+견학
+	견학/ncpa
+
+마지막
+	마지막/ncn
+
+코스인
+	코스/ncn+이/jp+ㄴ/etm
+
+맥주
+	맥주/ncn
+
+시음장
+	시음/ncpa+장/ncn
+
+
+맥주를
+	맥주/ncn+를/jco
+
+마구마구
+	마구/ncn+마구/ncn
+
+퍼주지는
+	푸/pvg+어/ecx+주/px+지/ef+는/etm
+
+않구요
+	않구요/ncn
+
+.
+	./sf
+
+
+티켓에두
+	티켓에두/ncn
+
+잔
+	잔/nbu
+
+값이
+	값/ncn+이/jcc
+
+포함됐습니다
+	포함/ncpa+되/xsvn+었/ep+습니다/ef
+
+.
+	./sf
+
+
+투보르그'가
+	투보르그'/ncn+가/jcs
+
+칼스버그
+	칼스/ncn+버그/ncn
+
+계열인
+	계열/ncn+이/jp+ㄴ/etm
+
+줄
+	주/px+ㄹ/etm
+
+오늘
+	오늘/ncn
+
+알았답니다
+	알/pvg+아/ep+답니다/ef
+
+
+맥주
+	맥주/ncn
+
+300cc
+	300cc/ncn
+
+마셨는데,
+	마시/pvg+었/ep+는데/ecs+,/sp
+
+얼굴이
+	얼굴/ncn+이/jcc
+
+벌개져서
+	벌겋/paa+어/ecx+지/px+어서/ecs
+
+초큼
+	초큼/ncn
+
+창피
+	창피/ncps
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+길로
+	길/ncn+로/jca
+
+바로
+	바로/mag
+
+잔
+	잔/nbu
+
+반납하고
+	반납/ncpa+하고/jct
+
+공장을
+	공장/ncn+을/jco
+
+나섭니다
+	나서/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+Michael
+	Michael/f
+
+Buble의
+	Buble/f+의/jcm
+
+'Havn't
+	'/sr+Havn/f+'/sr+t/f
+
+met
+	met/f
+
+you
+	you/f
+
+yet'이
+	yet/f+'/sr+이/jcc
+
+눈
+	눈/ncn
+
+내린
+	내리/pvg+ㄴ/etm
+
+풍경과
+	풍경/ncn+과/jct
+
+너무
+	너무/mag
+
+잘
+	자/pvg+ㄹ/etm
+
+어울어지네요
+	어울어지/ncn+이/jp+네요/ef
+
+
+혼자
+	혼자/mag
+
+울랄라
+	울랄라/ncn
+
+노래를
+	노래/ncn+를/jco
+
+크게
+	크/paa+게/ecs
+
+부르며
+	부르/pvg+며/ecc
+
+걷습니다
+	걷/pvg+습니다/ef
+
+.
+	./sf
+
+
+아무도
+	아무/npd+도/jxc
+
+없습니다
+	없/paa+습니다/ef
+
+.
+	./sf
+
+
+야콥슨
+	야콥슨/ncn
+
+경
+	경/ncn
+
+동상만이
+	동상/ncn+만/ncn+이/jcc
+
+저를
+	저/npp+를/jco
+
+바라볼
+	바라/pvg+아/ecx+보/px+ㄹ/etm
+
+뿐.
+	뿐/nbn+./sf
+
+
+현재
+	현재/mag
+
+칼스버그
+	칼스/ncn+버그/ncn
+
+본사와
+	본사/ncn+와/jcj
+
+과거
+	과거/ncn
+
+칼스버그
+	칼스/ncn+버그/ncn
+
+본사
+	본사/ncn
+
+
+코끼를
+	코끼/ncn+를/jco
+
+좋아하셨던
+	좋/paa+아/ecx+하/px+셨/ep+던/etm
+
+분
+	분/nbu
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+여기저기
+	여기저기/mad
+
+태국
+	태국/ncn
+
+같은
+	같/paa+은/etm
+
+느낌의
+	느낌/ncn+의/jcm
+
+코끼리
+	코끼리/ncn
+
+상이
+	상/ncn+이/jcc
+
+보입니다
+	보/nbu+이/jp+ㅂ니다/ef
+
+
+마이클
+	마이클/ncn
+
+부블레
+	부블레/ncn
+
+노래를
+	노래/ncn+를/jco
+
+10번
+	10/nnc+번/nbu
+
+정도
+	정도/ncn
+
+들으니까
+	들/pvg+니까/ecs
+
+숙소에
+	숙소/ncn+에/jca
+
+도착이다
+	도착/ncpa+이/jp+다/ef
+
+.
+	./sf

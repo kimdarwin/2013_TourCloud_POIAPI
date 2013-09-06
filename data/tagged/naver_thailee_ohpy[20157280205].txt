@@ -1,0 +1,2390 @@
+[
+	[/sl
+
+진주여행
+	진주/ncpa+여행/ncpa
+
+/
+	//sp
+
+진주성
+	진주/ncpa+성/ncn
+
+]
+	]/sr
+
+충정을
+	충정/ncpa+을/jco
+
+느끼며
+	느끼/pvg+며/ecc
+
+돌아
+	돌/pvg+아/ecx
+
+본
+	보/px+ㄴ/etm
+
+진주성
+	진주/ncpa+성/ncn
+
+(촉석루,김시민,논개,호국사)
+	(촉석루,김시민,논개,호국사/ncn+)/sr
+
+
+전날
+	전날/ncn
+
+비가
+	비/ncn+가/jcs
+
+무섭게
+	무섭/paa+게/ecs
+
+내리더니
+	내리/pvg+더니/ecs
+
+오늘은
+	오늘/ncn+은/jxc
+
+하늘은
+	하늘/ncn+은/jxc
+
+파랗고
+	파랗/paa+고/ecc
+
+구름이
+	구름/ncn+이/jcc
+
+둥실
+	둥실/mag
+
+떠
+	뜨/pvg+어/ecx
+
+다닌다
+	다니/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+미국CNN에
+	미국CNN/ncn+에/jca
+
+한국
+	한국/ncn
+
+방문
+	방문/ncpa
+
+시
+	시/nbu
+
+꼭
+	꼭/mag
+
+가봐야
+	가/pvg+아/ecx+보/px+아/ecx
+
+할
+	하/pvg+ㄹ/etm
+
+곳
+	곳/ncn
+
+TOP50에
+	TOP50/ncn+에/jca
+
+선정
+	선정/ncpa
+
+된
+	되/pvg+ㄴ/etm
+
+촉석루가
+	촉석루/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+진주성을
+	진주/ncpa+성/ncn+을/jco
+
+오랜만에
+	오랜만/ncn+에/jca
+
+찾아본다
+	찾/pvg+아/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+촉석문이란
+	촉석문이란/ncn
+
+현판이
+	현판/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+문을
+	문/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+진주성으로
+	진주/ncpa+성/ncn+으로/jca
+
+들어간다
+	들/pvg+어/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+성안으로
+	성안/ncn+으로/jca
+
+들어오니
+	들/pvg+어/ecx+오/px+니/ecs
+
+탁트인
+	탁트이/pvg+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+무자게
+	무자/ncn+이/jp+게/ecs
+
+넓다
+	넓/paa+다/ef
+
+.
+	./sf
+
+
+밖에서
+	밖/ncn+에서/jca
+
+보았을
+	보/px+아/ep+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+그리
+	그리/mad
+
+넓어
+	넓/paa+어/ecx
+
+보이지
+	보이/pvg+지/ecx
+
+않았었는데
+	않/paa+았었/ep+는데/ecs
+
+
+파란하늘이
+	파란/ncn+하늘/ncn+이/jcc
+
+도와주니
+	돕/pvg+어/ecx+주/px+니/ecs
+
+더없이
+	더없이/mag
+
+좋은
+	좋/paa+은/etm
+
+사진을
+	사진/ncn+을/jco
+
+담을
+	담/ncn+을/jco
+
+수
+	수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+[진주여행]
+	[/sl+진주/ncpa+여행/ncpa+]/sr
+
+진주성
+	진주/ncpa+성/ncn
+
+촉성문
+	촉성/ncn+문/ncn
+
+
+진주성은
+	진주/ncpa+성/ncn+은/jxc
+
+외적을
+	외적/ncn+을/jco
+
+막기
+	막/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+삼국시대부터
+	삼국시대/ncn+부터/jxc
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+성으로
+	성/ncn+으로/jca
+
+진주의
+	진주/ncpa+의/jcm
+
+역사와
+	역사/ncn+와/jcj
+
+문화가
+	문화/ncn+가/jcs
+
+깃든
+	깃들/pvg+ㄴ/etm
+
+유서깊은
+	유서깊/paa+은/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+고려말
+	고려말/ncn
+
+우왕5년에
+	우왕5년/ncn+에/jca
+
+진주목사
+	진주목사/ncn
+
+김중광이
+	김중광/ncn+이/jcc
+
+왜구의
+	왜구/ncn+의/jcm
+
+침범에
+	침범/ncpa+에/jca
+
+대비하여
+	대비/ncpa+하/xsva+어/ecx
+
+본래
+	본래/ncn
+
+토성이었던
+	토성/ncn+이/jp+었/ep+던/etm
+
+것은
+	것/nbn+은/jxc
+
+석성으로
+	석성/ncn+으로/jca
+
+고쳐
+	고치/pvg+어/ecx
+
+쌓았으며
+	쌓/pvg+아/ep+며/ecc
+
+임진
+	임진/ncn
+
+
+왜란
+	왜란/ncn
+
+직후에는
+	직후/ncn+에/jca+는/jxc
+
+성의
+	성/ncn+의/jcm
+
+중앙에
+	중앙/ncn+에/jca
+
+남북으로
+	남북/ncn+으로/jca
+
+내성을
+	내성/ncn+을/jco
+
+쌓았다
+	쌓/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+1592년(선조
+	1592년(선조/ncn
+
+25)
+	25/nnc+)/sr
+
+10월
+	10/nnc+월/nbu
+
+5일
+	5/nnc+일/nbu
+
+진주에
+	진주/ncpa+에/jca
+
+이른
+	이르/paa+ㄴ/etm
+
+나가오카
+	나가오카/ncn
+
+다다오키[
+	다다오키[/ncn
+
+]
+	]/sr
+
+휘하의
+	휘하/ncn+의/jcm
+
+왜군
+	왜군/ncn
+
+약
+	약/ncn
+
+2만
+	2/nnc+만/jxc
+
+명은
+	명/nbu+은/jxc
+
+수천
+	수천/nnc
+
+죽제(
+	죽제(/ncn
+
+:
+	:/sp
+
+
+대나무
+	대나무/ncn
+
+사다리)를
+	사다리/ncn+)/sr+를/jco
+
+만들어
+	만들/pvg+어/ecx
+
+진주성을
+	진주/ncpa+성/ncn+을/jco
+
+공격,
+	공격/ncpa+,/sp
+
+진주목사(
+	진주목사(/ncn
+
+)
+	)/sr
+
+김시민(
+	김시민(/ncn
+
+)이
+	)/sr+이/jcc
+
+지휘한
+	지휘/ncpa+하/xsva+ㄴ/etm
+
+3,800명의
+	3,800/nnc+명/nbu+의/jcm
+
+조선군과
+	조선군/ncn+과/jcj
+
+치열한
+	치열/ncps+한/ncn
+
+
+공방전이
+	공방전/ncn+이/jcc
+
+벌어졌다
+	벌/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+조선군은
+	조선군/ncn+은/jxc
+
+성문을
+	성문/ncn+을/jco
+
+굳게
+	굳/paa+게/ecs
+
+닫고
+	닫/pvg+고/ecc
+
+화약을
+	화약/ncn+을/jco
+
+장치한
+	장치/ncpa+하/xsva+ㄴ/etm
+
+대기전(
+	대/nbu+이/jp+기/etn+전/xsnx+(/sl
+
+)을
+	)/sr+을/jco
+
+쏘아
+	쏘/pvg+아/ecx
+
+죽제를
+	죽제/ncn+를/jco
+
+파괴하고,
+	파괴/ncn+하고/jct+,/sp
+
+마른
+	마르/pvg+ㄴ/etm
+
+갈대에
+	갈대/ncn+에/jca
+
+화약을
+	화약/ncn+을/jco
+
+싸서
+	쓰/pvg+어서/ecs
+
+던지
+	덜/pvg+ㄴ지/ecs
+
+
+거나
+	것/nbn+이/jp+나/ecs
+
+끓는
+	끓/pvg+는/etm
+
+물과
+	물/ncn+과/jct
+
+큰
+	크/paa+ㄴ/etm
+
+돌을
+	돌/pvg+ㄹ/etm
+
+던지는
+	던지/pvg+는/etm
+
+등
+	등/nbu
+
+필사적으로
+	필사/ncpa+적/ncn+으로/jca
+
+싸운
+	싸우/pvg+ㄴ/etm
+
+끝에
+	끝/ncn+에/jca
+
+10배에
+	10/nnc+배/nbu+에/jca
+
+이르는
+	이르/paa+는/etm
+
+왜군의
+	왜군/ncn+의/jcm
+
+공세를
+	공세/ncn+를/jco
+
+분쇄하였다
+	분쇄/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+왜군은
+	왜군/ncn+은/jxc
+
+10월
+	10/nnc+월/nbu
+
+
+10일에
+	10/nnc+일/nbu+에/jca
+
+6일간의
+	6/nnc+이/jp+ㄹ/etm+간/nbn+의/jcm
+
+대접전으로
+	대접/ncn+전/ncn+으로/jca
+
+막대한
+	막대/ncps+하/xsms+ㄴ/etm
+
+피해를
+	피해/ncpa+를/jco
+
+입고
+	입/pvg+고/ecc
+
+패주했는데,
+	패주/ncpa+하/xsva+었/ep+는데/ecs+,/sp
+
+이
+	이/mmd
+
+싸움에서는
+	싸우/pvg+ㅁ/etn+에서/jca+는/jxc
+
+의병대장
+	의병대장/ncn
+
+곽재우(
+	곽재우(/ncn
+
+)의
+	)/sr+의/jcm
+
+응원이
+	응원/ncpa+이/jcc
+
+
+적과
+	적/nbn+과/jcj
+
+아군에게
+	아군/ncn+에게/jca
+
+심리적으로
+	심리/ncn+적/ncn+으로/jca
+
+큰
+	크/paa+ㄴ/etm
+
+역할을
+	역할/ncn+을/jco
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+싸움의
+	싸우/pvg+ㅁ/etn+의/jcm
+
+승리로
+	승리/ncpa+로/jca
+
+다른
+	다르/paa+ㄴ/etm
+
+경상도
+	경상/ncn+도/jxc
+
+지역을
+	지역/ncn+을/jco
+
+보존하였을
+	보존/ncpa+하/xsva+었/ep+을/etm
+
+뿐만
+	뿐/nbn+만/jxc
+
+아니라,
+	아니/paa+라/ecs+,/sp
+
+
+적으로
+	적/nbn+으로/jca
+
+하여금
+	하여금/mag
+
+호남지방을
+	호남지방/ncn+을/jco
+
+넘보지
+	넘보/pvg+지/ecx
+
+못하게
+	못하/px+게/ecs
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+[진주여행]
+	[/sl+진주/ncpa+여행/ncpa+]/sr
+
+진주성
+	진주/ncpa+성/ncn
+
+촉석루와
+	촉석루/ncn+와/jcj
+
+남강
+	남강/ncn
+
+
+싸움에서
+	싸우/pvg+ㅁ/etn+에서/jca
+
+참패로
+	참패/ncpa+로/jca
+
+위신이
+	위신/ncn+이/jcc
+
+손상된
+	손상/ncpa+되/xsvn+ㄴ/etm
+
+도요토미
+	도요토미/ncn
+
+히데요시[
+	히데요시[/ncn
+
+]는
+	]/sr+는/jxc
+
+1593년
+	1593/nnc+년/nbu
+
+6월
+	6/nnc+월/nbu
+
+가토
+	가토/ncn
+
+기요마사[
+	기요마사[/ncn
+
+]
+	]/sr
+
+고니시
+	고니/ncn+시/ncn
+
+유키나가
+	유키나/ncn+가/jcc
+
+
+[
+	[/sl
+
+]
+	]/sr
+
+우키타
+	우키타/ncn
+
+히데이에[
+	히데이에[/ncn
+
+]
+	]/sr
+
+등에게
+	등/nbu+에게/jca
+
+복수전을
+	복수/ncn+전/ncn+을/jco
+
+하도록
+	하/pvg+도록/ecs
+
+특별
+	특별/ncps
+
+명령을
+	명령/ncpa+을/jco
+
+내렸다
+	내리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+왜군은
+	왜군/ncn+은/jxc
+
+6월
+	6/nnc+월/nbu
+
+15일부터
+	15/nnc+일/nbu+부터/jxc
+
+작전을
+	작전/ncpa+을/jco
+
+개시하여,
+	개시/ncpa+하/xsva+어/ecs+,/sp
+
+18일까지
+	18/nnc+일/nbu+까지/jxc
+
+함안(
+	하/pvg+ㅁ/etn+안/xsnx+(/sl
+
+)
+	)/sr
+
+반성(
+	반성(/ncn
+
+)
+	)/sr
+
+의령(
+	의령(/ncn
+
+)을
+	)/sr+을/jco
+
+점령하고,
+	점령하/ncn+이/jp+고/ecc+,/sp
+
+19일
+	19/nnc+이/jp+ㄹ/etm
+
+3만
+	3/nnc+만/jxc
+
+7000명의
+	7000/nnc+명/nbu+의/jcm
+
+
+병력이
+	병력/ncn+이/jcc
+
+진주성을
+	진주/ncpa+성/ncn+을/jco
+
+공격하기
+	공격/ncpa+하/xsva+기/etn
+
+시작하였다
+	시작/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+당시
+	당시/ncn
+
+진주성에는
+	진주/ncpa+성/ncn+에/jca+는/jxc
+
+창의사(
+	창의사(/ncn
+
+)
+	)/sr
+
+김천일(
+	김천일(/ncn
+
+),
+	)/sr+,/sp
+
+경상우병사(
+	경상우병사(/ncn
+
+)
+	)/sr
+
+최경회(
+	최경회(/ncn
+
+),
+	)/sr+,/sp
+
+충청병사
+	충청병사/ncn
+
+황진(
+	황진(/ncn
+
+),
+	)/sr+,/sp
+
+
+사천현감(
+	사천현감(/ncn
+
+)
+	)/sr
+
+장윤(
+	장윤(/ncn
+
+),
+	)/sr+,/sp
+
+의병장
+	의병장/ncn
+
+고종후(
+	고종후(/ncn
+
+)
+	)/sr
+
+이계련(
+	이계련(/ncn
+
+)
+	)/sr
+
+민여운(
+	민여운(/ncn
+
+)
+	)/sr
+
+강희열(
+	강희열(/ncn
+
+),
+	)/sr+,/sp
+
+김해부사
+	김해/ncn+부사/ncr
+
+
+이종인(
+	이종인(/ncn
+
+)
+	)/sr
+
+등이
+	등/nbu+이/jcc
+
+이끈
+	이끌/pvg+ㄴ/etm
+
+3,400명의
+	3,400/nnc+명/nbu+의/jcm
+
+병력과
+	병력/ncn+과/jcj
+
+6
+	6/nnc
+
+7만
+	7/nnc+만/jxc
+
+명의
+	명/nbu+의/jcm
+
+일반민이
+	일반/ncn+민/ncn+이/jcc
+
+있어,
+	있/px+어/ecs+,/sp
+
+피아의
+	피아/ncn+의/jcm
+
+전투력은
+	전투력/ncn+은/jxc
+
+비교가
+	비교/ncpa+가/jcc
+
+되지
+	되/pvg+지/ecx
+
+않았다
+	않/px+아/ep+다/ef
+
+.
+	./sf
+
+
+싸움은
+	싸우/pvg+ㅁ/etn+은/jxc
+
+6월
+	6/nnc+월/nbu
+
+22일부터
+	22/nnc+일/nbu+부터/jxc
+
+본격적으로
+	본격/ncn+적/ncn+으로/jca
+
+전개되어
+	전개/ncpa+되/xsvn+어/ecx
+
+왜군은
+	왜군/ncn+은/jxc
+
+귀갑차(
+	귀갑차(/ncn
+
+)
+	)/sr
+
+등
+	등/nbu
+
+특수한
+	특수/ncps+하/xsms+ㄴ/etm
+
+병기로써
+	병기/ncn+로써/jca
+
+파상공격을
+	파상/ncpa+공격/ncpa+을/jco
+
+거듭하고,
+	거듭/ncpa+하고/jcj+,/sp
+
+
+일진일퇴의
+	일진일퇴/ncpa+의/jcm
+
+치열한
+	치열/ncps+하/xsms+ㄴ/etm
+
+공방
+	공방/ncn
+
+끝에
+	끝/ncn+에/jca
+
+거의
+	거의/mag
+
+모든
+	모든/mma
+
+장병이
+	장병/ncn+이/jcc
+
+죽고,
+	죽/pvg+고/ecc+,/sp
+
+29일에
+	29/nnc+일/nbu+에/jca
+
+진주성은
+	진주/ncpa+성/ncn+은/jxc
+
+함락되었다
+	함락/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+성이
+	성/ncn+이/jcc
+
+함락되자
+	함락/ncpa+되/xsvn+자/ecc
+
+왜군은
+	왜군/ncn+은/jxc
+
+성안에
+	성안/ncn+에/jca
+
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+군
+	굴/pvg+ㄴ/etm
+
+관
+	관/nbu
+
+민
+	밀/pvg+ㄴ/etm
+
+6만
+	6/nnc+만/jxc
+
+명을
+	명/nbu+을/jco
+
+사창(
+	사창(/ncn
+
+)의
+	)/sr+의/jcm
+
+창고에
+	창고/ncn+에/jca
+
+몰아넣고
+	몰아넣고/ncn
+
+모두
+	모두/mag
+
+불태워
+	불태우/pvg+어/ecx
+
+학살하였을
+	학살/ncpa+하/xsva+었/ep+을/etm
+
+뿐만
+	뿐/nbn+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+가축도
+	가축/ncn+도/jxc
+
+모두
+	모두/mag
+
+도살하였다
+	도살/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+싸움은
+	싸우/pvg+ㅁ/etn+은/jxc
+
+임진왜란
+	임진/ncn+왜란/ncn
+
+중에
+	중/nbn+에/jca
+
+벌어진
+	벌/pvg+어/ecx+지/px+ㄴ/etm
+
+전투
+	전투/ncpa
+
+가운데
+	가운데/ncn
+
+최대의
+	최대/ncn+의/jcm
+
+격전으로
+	격전/ncpa+으로/jca
+
+꼽히는데,
+	꼽히/pvg+ㄴ데/ecs+,/sp
+
+비록
+	비록/mag
+
+싸움에는
+	싸우/pvg+ㅁ/etn+에/jca+는/jxc
+
+패하였으나
+	패/pvg+어/ecx+하/px+었/ep+으나/ecs
+
+왜군도
+	왜군/ncn+도/jxc
+
+막대한
+	막대/ncn+한/ncn
+
+
+손상을
+	손상/ncpa+을/jco
+
+입었다
+	입/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+[출처]
+	[/sl+출처/ncn+]/sr
+
+진주대첩
+	진주/ncpa+대첩/ncpa
+
+[
+	[/sl
+
+]
+	]/sr
+
+|
+	|/ncn
+
+네이버
+	네이버/ncn
+
+백과사전
+	백과사전/ncn
+
+
+진주의
+	진주/ncpa+의/jcm
+
+상징이자
+	상징/ncpa+이/jp+자/ecc
+
+영남제일의
+	영남제일/ncn+의/jcm
+
+명승
+	명승/ncn
+
+촉석루가
+	촉석루/ncn+가/jcs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+우리나라
+	우리나라/ncn
+
+3대
+	3/nnc+대/nbu
+
+누각
+	누각/ncn
+
+중
+	중/nbn
+
+하나로
+	하나/nnc+로/jca
+
+고려
+	고려/ncpa
+
+고종
+	고종/ncn
+
+28년(1241)에
+	28년(1241)/ncn+에/jca
+
+창건하여
+	창건/ncpa+하/xsva+어/ecx
+
+8차례에
+	8/nnc+차례/nbu+에/jca
+
+걸쳐
+	걸치/pvg+어/ecx
+
+중수
+	중수/ncn
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+남강과
+	남강/ncn+과/jcj
+
+의암,
+	의암,/ncn
+
+진주성과
+	진주/ncpa+성/ncn+과/jct
+
+어우러져
+	어우러지/pvg+어/ecx
+
+천하의
+	천하/ncn+의/jcm
+
+절경을
+	절경/ncn+을/jco
+
+연출하며
+	연출/ncpa+하/xsva+며/ecc
+
+진주
+	진주/ncpa
+
+8경
+	8/nnc+경/xsnu
+
+중
+	중/nbn
+
+제1경을
+	제1경/ncn+을/jco
+
+자랑한다
+	자랑/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+벼랑
+	비/paa+어/ecs+랑/jxc
+
+위에
+	위/ncn+에/jca
+
+높이
+	높이/mag
+
+솟았다하여
+	솟았다하/ncn+이/jp+어/ecs
+
+이름
+	이름/ncn
+
+붙여진
+	붙이/pvg+어/ecx+지/px+ㄴ/etm
+
+촉석루는
+	촉석루/ncn+는/jxc
+
+전시에
+	전시/ncn+에/jca
+
+장졸들을
+	장졸/ncn+들/ncn+을/jco
+
+지휘하던
+	지휘/ncpa+하/xsva+던/etm
+
+지휘소로
+	지휘소/ncn+로/jca
+
+,평소에는
+	,/sp+평소/ncn+에/jca+는/jxc
+
+선비들의
+	선비/ncn+들/ncn+의/jcm
+
+풍류를
+	풍류/ncn+를/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+곳,
+	곳/ncn+,/sp
+
+향시를
+	향시/ncn+를/jco
+
+치르는
+	치르/pvg+는/etm
+
+고사장으로도
+	고사/ncn+장/ncn+으로/jca+도/jxc
+
+활용
+	활용/ncpa
+
+되었던
+	되/pvg+었/ep+던/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+[진주여행]
+	[/sl+진주/ncpa+여행/ncpa+]/sr
+
+진주성
+	진주/ncpa+성/ncn
+
+촉석루
+	촉석루/ncn
+
+옛사진
+	옛사진/ncn
+
+/
+	//sp
+
+진주시청
+	진주시/ncn+청/ncn
+
+http://tour.
+	http/f+:/sp+//sp+//sp+tour/f+./sy
+
+jinju.
+	jinju/f+./sy
+
+go.
+	go/f+./sy
+
+kr
+	kr/f
+
+
+촉석루에서
+	촉석루/ncn+에서/jca
+
+남강쪽
+	남강쪽/ncn
+
+으로
+	으/ncn+로/jca
+
+내려
+	내리/pvg+어/ecx
+
+가면
+	가/px+면/ecs
+
+절벽아래로
+	절벽/ncn+아래/ncn+로/jca
+
+의암이
+	의암/ncn+이/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+위험한
+	위험/ncn+한/ncn
+
+바위라
+	바위/ncn+이/jp+라/ecs
+
+하여
+	하/pvg+어/ecx
+
+위암이라
+	위암/ncn+이/jp+라/ecs
+
+불리다가
+	불리/pvg+다가/ecs
+
+임진왜란때
+	임진/ncn+왜란/ncn+때/ncn
+
+논개가
+	논개/ncn+가/jcs
+
+왜장을
+	왜장/ncn+을/jco
+
+끌어안고
+	끌어안/pvg+고/ecc
+
+남강에
+	남강/ncn+에/jca
+
+투신하여
+	투신/ncpa+하/xsva+어/ecx
+
+순국한
+	순국/ncpa+하/xsva+ㄴ/etm
+
+후
+	후/ncn
+
+논개의
+	논개/ncn+의/jcm
+
+의로운
+	의/ncn+롭/xsmn+은/etm
+
+
+행동을
+	행동/ncpa+을/jco
+
+기리기
+	기리/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+의암이라
+	의암/ncn+이/jp+라/ecs
+
+불리웠다고
+	불리우/pvg+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+[진주여행]
+	[/sl+진주/ncpa+여행/ncpa+]/sr
+
+진주성
+	진주/ncpa+성/ncn
+
+의암
+	의암/ncn
+
+
+촉석루
+	촉석루/ncn
+
+바로
+	바로/mag
+
+옆에
+	옆/ncn+에/jca
+
+의기사란
+	의기사란/ncn
+
+논개의
+	논개/ncn+의/jcm
+
+영정과
+	영정/ncn+과/jcj
+
+신위를
+	신위/ncn+를/jco
+
+모신
+	모시/pvg+ㄴ/etm
+
+사당이
+	사당/ncn+이/jcc
+
+자리하고
+	자리/ncn+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+[진주여행]
+	[/sl+진주/ncpa+여행/ncpa+]/sr
+
+진주성
+	진주/ncpa+성/ncn
+
+의기사
+	의/ncn+기사/ncr
+
+
+[진주여행]
+	[/sl+진주/ncpa+여행/ncpa+]/sr
+
+진주성
+	진주/ncpa+성/ncn
+
+논개
+	논개/ncn
+
+영정
+	영정/ncn
+
+
+선조들의
+	선조/ncn+들/ncn+의/jcm
+
+고귀한
+	고귀/ncps+하/xsms+ㄴ/etm
+
+흔적이
+	흔적/ncn+이/jcc
+
+남아있는
+	남/pvg+아/ecx+있/px+는/etm
+
+진주성벽을
+	진주/ncpa+성벽/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+한바퀴
+	한/nnc+바퀴/nbu
+
+돌아본다
+	돌/pvg+아/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+임진왜란때는
+	임진/ncn+왜란/ncn+때/ncn+는/jxc
+
+피
+	피/ncn
+
+비린내
+	비린내/ncn
+
+나는
+	나/npp+는/jxc
+
+전쟁터이면서
+	전쟁터/ncn+이/jp+면서/ecc
+
+7만명의
+	7/nnc+만/nnc+명/nbu+의/jcm
+
+군,관,민
+	굴/pvg+ㄴ/etm+,/sp+관/nbu+,/sp+민/ncn
+
+모두
+	모두/mag
+
+순국의
+	순국/ncpa+의/jcm
+
+비운을
+	비운/ncn+을/jco
+
+겪은
+	겪/pvg+은/etm
+
+곳이지만
+	곳/ncn+이/jp+지만/ecs
+
+지금은
+	지금/mag+은/jxc
+
+평화스럽고
+	평화/ncn+스럽/xsmn+고/ecc
+
+한가
+	한가/ncps
+
+
+하면서
+	하/pvg+면서/ecc
+
+잘
+	잘/mag
+
+꾸며진
+	꾸미/pvg+어/ecx+지/px+ㄴ/etm
+
+여유스런
+	여유/ncn+스런/jcm
+
+공원
+	공원/ncn
+
+같은
+	같/paa+은/etm
+
+곳
+	곳/ncn
+
+이었다
+	이/npd+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+손을
+	손/ncn+을/jco
+
+모아
+	모으/pvg+아/ecx
+
+가슴까지
+	가슴/ncn+까지/jxc
+
+들어올려
+	들어올려/ncn
+
+공경한다는
+	공경/ncpa+하/xsva+ㄴ다/ef+는/etm
+
+뜻이며
+	뜻/ncn+이/jp+며/ecc
+
+북쪽에
+	북쪽/ncn+에/jca
+
+임금이
+	임금/ncn+이/jcc
+
+계신다는
+	계시/paa+ㄴ다/ef+는/etm
+
+뜻의
+	뜻/ncn+의/jcm
+
+공북문이
+	공북문/ncn+이/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+이분은
+	이/nnc+분/nbu+은/jxc
+
+진주성도에
+	진주/ncpa+성도/ncn+에/jca
+
+나와
+	나/npp+와/jct
+
+있는
+	있/px+는/etm
+
+진주성의
+	진주/ncpa+성/ncn+의/jcm
+
+정문이다
+	정문/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+[진주여행]
+	[/sl+진주/ncpa+여행/ncpa+]/sr
+
+진주성
+	진주/ncpa+성/ncn
+
+공복문
+	공복/ncn+문/ncn
+
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+오르면
+	오르/pvg+면/ecs
+
+진주성
+	진주/ncpa+성/ncn
+
+북쪽
+	북쪽/ncn
+
+지휘소
+	지휘소/ncn
+
+북장대
+	북장대/ncn
+
+가
+	가/jcs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+진남루라고도
+	진남루/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+부르며
+	부르/pvg+며/ecc
+
+안으로
+	안/ncn+으로/jca
+
+오르면
+	오르/pvg+면/ecs
+
+.
+	./sf
+
+
+진주시내가
+	진주시/ncn+내/ncn+가/jcs
+
+한눈에
+	한눈/ncn+에/jca
+
+들어온다
+	들/pvg+어/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+,
+	,/sp
+
+
+[진주여행]
+	[/sl+진주/ncpa+여행/ncpa+]/sr
+
+진주성
+	진주/ncpa+성/ncn
+
+북장대
+	북장대/ncn
+
+
+성벽안으로
+	성벽/ncn+안/ncn+으로/jca
+
+고즈넉한
+	고즈넉/ncps+하/xsms+ㄴ/etm
+
+분위기의
+	분위기/ncn+의/jcm
+
+고택들이
+	고택들/ncn+이/jcc
+
+자리하고
+	자리/ncn+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+푸른
+	푸르/paa+ㄴ/etm
+
+잔디에
+	잔디/ncn+에/jca
+
+누워
+	눕/pvg+어/ecx
+
+잠시
+	잠시/mag
+
+쉬어간다
+	쉬/pvg+어/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+눈의
+	눈/ncn+의/jcm
+
+감고
+	감/pvg+고/ecc
+
+꽃향기에
+	꽃향기/ncn+에/jca
+
+취해본다
+	취하/pvg+어/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+왜
+	왜/mag
+
+갑자기
+	갑자기/mag
+
+커피
+	커피/ncn
+
+생각이
+	생각/ncpa+이/jcc
+
+나는
+	나/npp+는/jxc
+
+걸까
+	걸/pvg+ㄹ까/ecs
+
+
+성벽을
+	성벽/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+다시
+	다시/mag
+
+
+높은
+	높/paa+은/etm
+
+계단위로
+	계단/ncn+위/ncn+로/jca
+
+임진왜란때
+	임진/ncn+왜란/ncn+때/ncn
+
+제2차
+	제2차/ncn
+
+진주성
+	진주/ncpa+성/ncn
+
+싸움에서
+	싸우/pvg+ㅁ/etn+에서/jca
+
+순국한
+	순국/ncpa+하/xsva+ㄴ/etm
+
+분들의
+	불/pvg+ㄴ/etm+들/nbn+의/jcm
+
+신위가
+	신위/ncn+가/jcs
+
+모셔져
+	모시/pvg+어/ecx+지/px+어/ecx
+
+있는
+	있/px+는/etm
+
+창렬사
+	창렬사/ncn
+
+
+고종5년
+	고종5년/ncn
+
+대원군의
+	대원군/ncn+의/jcm
+
+서원
+	서원/ncn
+
+철폐령으로
+	철폐/ncpa+령/ncn+으로/jca
+
+훼철된
+	훼철된/ncn
+
+충민사에
+	충민사/ncn+에/jca
+
+모셔진
+	모시/pvg+어/ecx+지/px+ㄴ/etm
+
+충무공
+	충무공/ncn
+
+김시민
+	김시민/ncn
+
+장군의
+	장군/ncr+의/jcm
+
+신위와
+	신위/ncn+와/jcj
+
+삼장사등
+	삼장/ncn+사등/ncn
+
+39인의
+	39/nnc+인/nbu+의/jcm
+
+신위를
+	신위/ncn+를/jco
+
+
+모시고
+	모시/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+[진주여행]
+	[/sl+진주/ncpa+여행/ncpa+]/sr
+
+진주성
+	진주/ncpa+성/ncn
+
+창렬사
+	창렬사/ncn
+
+
+[진주여행]
+	[/sl+진주/ncpa+여행/ncpa+]/sr
+
+진주성
+	진주/ncpa+성/ncn
+
+창렬사
+	창렬사/ncn
+
+
+고려시대
+	고려시대/ncn
+
+창건된
+	창건/ncpa+되/xsvn+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+전하는
+	전하/pvg+는/etm
+
+내성사
+	내성사/ncn
+
+
+고려말
+	고려말/ncn
+
+왜구를
+	왜구/ncn+를/jco
+
+막기위해
+	막기위해/ncn
+
+진주성을
+	진주/ncpa+성/ncn+을/jco
+
+쌓고
+	쌓/pvg+고/ecc
+
+승병을
+	승병/ncn+을/jco
+
+기르기
+	기르/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+창건된
+	창건/ncpa+되/xsvn+ㄴ/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+임진왜란때
+	임진/ncn+왜란/ncn+때/ncn
+
+승병의
+	승병/ncn+의/jcm
+
+근거지가
+	근거지/ncn+가/jcs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+임진왜란때
+	임진/ncn+왜란/ncn+때/ncn
+
+성과
+	성/ncn+과/jct
+
+함께
+	함께/mag
+
+운명을
+	운명/ncn+을/jco
+
+같이
+	같/paa+이/xsa
+
+한
+	하/pvg+ㄴ/etm
+
+승병들의
+	승병들/ncn+의/jcm
+
+넋을
+	넋/ncn+을/jco
+
+기리기
+	기리/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+숙종께서
+	숙종께서/ncn
+
+호국사란
+	호국사란/ncn
+
+이름으로
+	이름/ncn+으로/jca
+
+재건하였다고
+	재건/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+전한다
+	전하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+[진주여행]
+	[/sl+진주/ncpa+여행/ncpa+]/sr
+
+진주성
+	진주/ncpa+성/ncn
+
+호국사
+	호국사/ncn
+
+
+[진주여행]
+	[/sl+진주/ncpa+여행/ncpa+]/sr
+
+진주성
+	진주/ncpa+성/ncn
+
+호국사
+	호국사/ncn
+
+
+진주성
+	진주/ncpa+성/ncn
+
+서문
+	서문/ncn
+
+지휘소
+	지휘소/ncn
+
+에서
+	에/pvg+어서/ecs
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+진주
+	진주/ncpa
+
+천수교
+	천수/ncn+교/ncn
+
+도
+	도/ncn
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+진주성은
+	진주/ncpa+성/ncn+은/jxc
+
+진주
+	진주/ncpa
+
+시민을
+	시민/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+공원이자
+	공원/ncn+이/jp+자/ecc
+
+산책로이자
+	산책로/ncn+이/jp+자/ecc
+
+휴식처이다
+	휴식처/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+역사를
+	역사/ncn+를/jco
+
+간직하고
+	간직/ncpa+하고/jct
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+진주성에서의
+	진주/ncpa+성/ncn+에서/jca+의/jcm
+
+하루
+	하루/ncn
+
+넘
+	널/pvg+ㅁ/etn
+
+즐겁고
+	즐겁/paa+고/ecc
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+날이었다
+	날/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+진주성은
+	진주/ncpa+성/ncn+은/jxc
+
+진주시내에
+	진주시/ncn+내/ncn+에/jca
+
+자리하고
+	자리/ncn+하고/jct
+
+있어서
+	있/px+어서/ecs
+
+찾기
+	찾/pvg+기/etn
+
+쉬우며
+	쉽/paa+으며/ecc
+
+이동이
+	이/nnc+동/nbu+이/jcc
+
+편리하다
+	편리/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+어디서
+	어디/npd+서/jca
+
+나타난
+	나타나/pvg+ㄴ/etm
+
+청솔모가
+	청솔모/ncn+가/jcs
+
+새우깡을
+	새우/ncn+깡/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그런거
+	그런거/ncn
+
+먹으면
+	먹/pvg+으면/ecs
+
+안
+	안/mag
+
+되는데
+	되/pvg+ㄴ데/ecs
+
+성인병
+	성인/ncn+병/ncn
+
+걸리는데
+	걸리/pvg+ㄴ데/ecs
+
+
+다음에
+	다음/ncn+에/jca
+
+이곳을
+	이곳/npd+을/jco
+
+찾을
+	찾/pvg+을/etm
+
+때는
+	때/ncn+는/jxc
+
+여유를
+	여유/ncn+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+작고
+	작/paa+고/ecc
+
+맛있는
+	맛있/paa+는/etm
+
+도시락과
+	도시락/ncn+과/jcj
+
+책
+	책/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+권
+	권/nbu
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+와서
+	오/pvg+아/ecs
+
+
+촉석루나
+	촉석루/ncn+나/jcj
+
+북장대에
+	북장대/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+바람과
+	바람/ncn+과/jcj
+
+벗
+	벗/ncn
+
+하면서
+	하/pvg+면서/ecc
+
+머물고
+	머물/pvg+고/ecc
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+진주성
+	진주/ncpa+성/ncn
+
+
+경상남도
+	경상/ncn+남/ncn+도/jxc
+
+진주시
+	진주시/ncn
+
+남강로
+	남강/ncn+로/jca
+
+626
+	626/nnc
+
+(본성동
+	(/sl+본성/ncn+동/ncn
+
+415)
+	415/nnc+)/sr
+
+
+055)749-2480
+	055/nnc+)/sr+749/nnc+-2480/nnc

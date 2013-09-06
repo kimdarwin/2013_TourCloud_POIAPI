@@ -1,0 +1,462 @@
+"방림원"
+	"방림원"/ncn
+
+-
+	-/sd
+
+야생화
+	야생/ncpa+화/ncn
+
+
+"방림원"에
+	"방림원"/ncn+에/jca
+
+가면
+	가/px+면/ecs
+
+야생화를
+	야생/ncpa+화/ncn+를/jco
+
+참
+	참/mag
+
+편하게
+	편하/paa+게/ecs
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있다는
+	있/px+다/ef+는/etm
+
+장점이
+	장점/ncn+이/jcc
+
+있어요
+	있/px+어/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+들과
+	들/ncn+과/jcj
+
+산을
+	산/ncn+을/jco
+
+헤메다
+	헤메다/ncn
+
+간신히
+	간신히/mag
+
+만나는
+	만나/pvg+는/etm
+
+야생화도
+	야생/ncpa+화/ncn+도/jxc
+
+즐겁지만
+	즐겁/paa+지만/ecs
+
+편하게
+	편하/paa+게/ecs
+
+보는
+	보/px+는/etm
+
+야생화들도
+	야생/ncpa+화/ncn+들/xsncc+도/jxc
+
+나만의
+	나/npp+만의/jcm
+
+행복을
+	행복/ncps+을/jco
+
+
+느끼게
+	느끼/pvg+게/ecs
+
+해준답니다
+	하/pvg+어/ecx+주/px+ㄴ답니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+특히
+	특히/mag
+
+5천여평에
+	5/nnc+천여/nnc+평/nbu+에/jca
+
+수십년에
+	수십/nnc+년/nbu+에/jca
+
+걸쳐
+	걸치/pvg+어/ecx
+
+국내외
+	국내외/ncn
+
+야생화들을
+	야생/ncpa+화/ncn+들/xsncc+을/jco
+
+수집해서
+	수집/ncpa+하/xsva+어서/ecs
+
+전시해
+	전시/ncn+해/ncn
+
+놓은
+	놓/px+은/etm
+
+노고만
+	노고/ncn+만/jxc
+
+봐도
+	보/px+아/ecs
+
+"방림원"에
+	"방림원"/ncn+에/jca
+
+가야하는
+	가야하/pvg+는/etm
+
+
+이유중
+	이유/ncn+중/ncn
+
+하나일거에요
+	하나일거에요/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+허브비치와
+	허브비치/ncn+와/jct
+
+함께
+	함께/mag
+
+"방림원"으로
+	"방림원"/ncn+으로/jca
+
+야생화보러갈까요
+	야생화보러갈까요/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+볕이
+	볕/ncn+이/jcc
+
+들어오는게
+	들/pvg+어/ecx+오/px+는게/ecs
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+"방림원"에
+	"방림원"/ncn+에/jca
+
+가면
+	가/px+면/ecs
+
+굴이
+	굴/ncn+이/jcc
+
+하나있는데
+	하/pvg+어/ecx+나/px+아/ecx+있/px+는데/ecs
+
+방림굴이에요
+	방림굴/ncn+이/jp+에요/ef
+
+
+여름에
+	여름/ncn+에/jca
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+아주
+	아주/mag
+
+좋답니다
+	좋/paa+답니다/ef
+
+.
+	./sf
+
+
+넘
+	널/pvg+ㅁ/etn
+
+시원해서
+	시원/ncn+해/ncn+서/jca
+
+살고
+	살/pvg+고/ecc
+
+싶을정도라는
+	싶을정/ncn+도/jxc+라는/jxc
+
+
+방림굴
+	방림굴/ncn
+
+소개는
+	소개/ncpa+는/jxc
+
+밑에서
+	밑/ncn+에서/jca
+
+하는걸로
+	하는걸/ncn+로/jca
+
+하고
+	하/pvg+고/ecc
+
+출발해볼까요
+	출발/ncpa+하/xsva+어/ecx+보/px+ㄹ까/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+다른
+	다른/mma
+
+관광지를
+	관광지/ncn+를/jco
+
+갈때마다
+	가/px+ㄹ/etm+때/nbn+마다/jxc
+
+날씨를
+	날씨/ncn+를/jco
+
+타는데
+	타/pvg+ㄴ데/ecs
+
+희한하게
+	희한/ncps+하/xsms+게/ecs
+
+방림원
+	방림원/ncn
+
+올때마다
+	오/px+ㄹ/etm+때/nbn+마다/jxc
+
+날씨가
+	날씨/ncn+가/jcs
+
+넘
+	널/pvg+ㅁ/etn
+
+좋았어요
+	좋/paa+아/ep+아/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+그래서
+	그래서/maj
+
+더
+	더/mag
+
+사랑스러운
+	사랑/ncpa+스럽/xsmn+은/etm
+
+방림원이에요
+	방림원/ncn+이/jp+에요/ef
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+개구리왕눈이와
+	개구리왕눈이/ncn+와/jcj
+
+여자친구
+	여자친구/ncn
+
+아로미에요
+	아로미에요/ncn
+
+예전
+	예전/ncn
+
+정말
+	정말/mag
+
+재미있게
+	재미있/pvg+게/ecs
+
+봤던
+	보/px+아/ep+ㄴ/etm
+
+만화드라마였는데요
+	만화/ncn+드라마/ncn+이/jp+었/ep+는데요/ef
+
+
+지금은
+	지금/ncn+은/jxc
+
+다들
+	다들/ncn
+
+때려부시는것만
+	때려부시는것만/ncn
+
+나와서
+	나와/ncn+서/jca
+
+
+"방림원"에
+	"방림원"/ncn+에/jca
+
+가시면
+	가/px+시/ep+면/ecs
+
+아름다운
+	아름답/paa+은/etm
+
+야생화들을
+	야생/ncpa+화/ncn+들/xsncc+을/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+다른곳은
+	다른곳/ncn+은/jxc
+
+다음에
+	다음/ncn+에/jca
+
+또
+	또/maj
+
+정리해서
+	정리/ncn+해서/ncn
+
+보여드릴게요
+	보여드릴게요/ncn
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+방림원
+	방림원/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+한경면
+	한/nnc+경/xsnu+면/nbu
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01744477",
+	"bl01744477",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11661222",
+	"/sl+11661222/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"방림원",
+	title:"방림원",/ncn
+
+pointX:239070,pointY:83751}
+	pointX/f+:/sp+239070/nnc+,/sp+pointY/f+:/sp+83751/nnc+}/sr
+
+
+"방림원"
+	"방림원"/ncn
+
+-
+	-/sd
+
+야생화
+	야생/ncpa+화/ncn
+
+
+주소
+	주소/ncn
+
+:
+	:/sp
+
+제주특별자치도
+	제주/ncn+특별/ncps+자치/ncn+도/jxc
+
+한경면
+	한/nnc+경/xsnu+면/nbu
+
+저지리
+	저지/ncn+이/jp+리/ef
+
+예술인마을
+	예술인/ncn+마을/ncn
+
+방림원
+	방림원/ncn
+
+
+전화번호
+	전화번호/ncn
+
+:
+	:/sp
+
+064)
+	064/nnc+)/sr
+
+773
+	773/nnc
+
+-
+	-/sd
+
+0090
+	0090/nnc

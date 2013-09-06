@@ -1,0 +1,553 @@
+진천
+	진천/ncn
+
+보탑사,
+	보탑사,/ncn
+
+진천
+	진천/ncn
+
+농다리,
+	농다리,/ncn
+
+진천
+	진천/ncn
+
+종
+	종/nbu
+
+박물관을
+	박물관/ncn+을/jco
+
+둘러보며
+	두르/pvg+어/ecx+보/px+며/ecc
+
+오전을
+	오전/ncn+을/jco
+
+알차게
+	알차/paa+게/ecs
+
+보내고점심을
+	보내고점심/ncn+을/jco
+
+먹으러
+	먹/pvg+으러/ecs
+
+온
+	오/px+ㄴ/etm
+
+곳은
+	곳/ncn+은/jxc
+
+'미다래'
+	'미다래'/ncn
+
+라는
+	라/ncn+는/jxc
+
+식당입니다
+	식당/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+충청도
+	충청/ncn+도/jxc
+
+진천을
+	진천/ncn+을/jco
+
+여행하는
+	여행/ncpa+하/xsva+는/etm
+
+것도
+	것/nbn+도/jxc
+
+생소하거니와
+	생소/ncps+하/xsms+거니와/ecs
+
+진천에서
+	진천/ncn+에서/jca
+
+무얼
+	무엇/npd+을/jco
+
+먹어야
+	먹/pvg+어야/ecs
+
+할지도
+	하/pvg+ㄹ지/ecs+도/jxc
+
+막막할
+	막막/ncps+하/xsms+ㄹ/etm
+
+때
+	때/ncn
+
+
+요즘같이
+	요즘/ncn+같이/jca
+
+일교차가
+	일교차/ncn+가/jcs
+
+심해지는
+	심하/paa+어/ecx+지/px+는/etm
+
+날에
+	날/ncn+에/jca
+
+먹으면
+	먹/pvg+으면/ecs
+
+좋을
+	좋/paa+을/etm
+
+생태찌게
+	생태/ncn+찌/ncn+이/jp+게/ecs
+
+를
+	를/ncn
+
+권해
+	권하/pvg+어/ecx
+
+드립니다
+	드리/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+언뜻
+	언뜻/mag
+
+보기에는
+	보/px+기/etn+에/jca+는/jxc
+
+보통
+	보통/mag
+
+식당에서
+	식당/ncn+에서/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+보통
+	보통/ncn
+
+반찬의
+	반찬/ncn+의/jcm
+
+종류가
+	종류/ncn+가/jcs
+
+대부분이고
+	대부분/ncn+이/jp+고/ecc
+
+종류가
+	종류/ncn+가/jcs
+
+많은
+	많/paa+은/etm
+
+것도
+	것/nbn+도/jxc
+
+아닙니다
+	아니/paa+ㅂ니다/ef+./sf
+
+.
+	./sf
+
+
+네모
+	네모/ncn
+
+반듯한
+	반듯하/paa+ㄴ/etm
+
+두부만
+	두/nnc+부/nbu+만/jxc
+
+가득한가
+	가득/ncps+한/ncn+가/jcs
+
+싶었는데
+	싶/px+었/ep+는데/ecs
+
+국자를
+	국자/ncn+를/jco
+
+휘저어
+	휘젓/pvg+어/ecx
+
+보면
+	보/px+면/ecs
+
+생태녀석들이
+	생태/ncn+녀석/ncn+들/ncn+이/jcc
+
+등장합니다
+	등장/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+집
+	집/ncn
+
+맛의
+	맛/ncn+의/jcm
+
+강점은
+	강점/ncn+은/jxc
+
+뭐니뭐니해도
+	뭐니뭐니해도/mag
+
+얼큰함
+	얼큰함/ncn
+
+에
+	에/pvg+어/ecx
+
+있다고
+	있/px+다/ef+고/jcr
+
+생각합니다
+	생각/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+목까지
+	목/ncn+까지/jxc
+
+칼칼하면서도
+	칼칼하/paa+면서/ecs+도/jxc
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+우리나라
+	우리나라/ncn
+
+입맛에
+	입맛/ncn+에/jca
+
+딱
+	딱/mag
+
+맞는
+	맞/pvg+는/etm
+
+그
+	그/mmd
+
+맛~~
+	맛/ncn+~/sd+~/sd
+
+!!
+	!/sf+!/sf
+
+
+맨
+	맨/mma
+
+위
+	위/ncn
+
+왼쪽의
+	왼쪽/ncn+의/jcm
+
+것은
+	것/nbn+은/jxc
+
+취나물과
+	취나물/ncn+과/jct
+
+비슷해
+	비슷/ncps+하/xsms+어/ecx
+
+보이는데
+	보이/pvg+ㄴ데/ecs
+
+민들레나물
+	민들레/ncn+나물/ncn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+집
+	집/ncn
+
+반찬들
+	반찬/ncn+들/ncn
+
+또한
+	또한/maj
+
+매콤한
+	매콤한/ncn
+
+것이
+	것/nbn+이/jcc
+
+특징인데
+	특징/ncn+이/jp+ㄴ데/ecs
+
+그
+	그/mmd
+
+중
+	중/nbn
+
+가장
+	가장/mag
+
+센
+	세/paa+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+고추양념에
+	고추/ncn+양념/ncn+에/jca
+
+버무린
+	버무리/pvg+ㄴ/etm
+
+고추튀김
+	고추/ncn+튀김/ncn
+
+(단독사진은
+	(/sl+단독/ncn+사진/ncn+은/jxc
+
+없군요~~)이라
+	없/paa+군/ef+요/jxf+~/sd+~/sd+)/sr+이/jp+라/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+시골
+	시골/ncn
+
+향수
+	향수/ncn
+
+느껴지는
+	느끼/pvg+어/ecx+지/px+는/etm
+
+호박잎~~
+	호박/ncn+잎/ncn+~/sd+~/sd
+
+
+쌈된짱
+	쌈된짱/ncn
+
+찍어
+	찍/pvg+어/ecx
+
+호박잎에
+	호박/ncn+잎/ncn+에/jca
+
+쌈싸먹는
+	쌈싸먹는/ncn
+
+그
+	그/mmd
+
+맛
+	맛/ncn
+
+다들
+	다들/ncn
+
+아시죠
+	알/pvg+시/ep+죠/ef
+
+??
+	?/sf+?/sf
+
+
+쌈된장도
+	쌈된장/ncn+도/jxc
+
+집된장이라
+	집된장/ncn+이/jp+라/ecs
+
+더
+	더/mag
+
+정감이
+	정감/ncn+이/jcc
+
+갔구요~~
+	갔구요/ncn+~/sd+~/sd
+
+
+집
+	집/ncn
+
+주인의
+	주인/ncn+의/jcm
+
+요리솜씨가
+	요리/ncn+솜씨/ncn+가/jcs
+
+좋은지
+	좋/paa+은/etm+지/nbn
+
+제사음식도
+	제사/ncn+음식/ncn+도/jxc
+
+주문을
+	주문/ncn+을/jco
+
+받을
+	받/pvg+을/etm
+
+정도더군요~~
+	정도/ncn+이/jp+더군/ef+요/jxf+~/sd+~/sd
+
+
+4인가족이
+	4인가족/ncn+이/jcc
+
+와서
+	오/px+아/ecs
+
+부담없이
+	부담없이/mag
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+가격이
+	가격/ncn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+얼큰하고
+	얼큰하/ncn+이/jp+고/ecc
+
+매콤함을
+	매콤함/ncn+을/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+분이라면
+	분/nbn+이/jp+라면/ecs
+
+추천하고
+	추천/ncpa+하고/jct
+
+싶은
+	싶/px+은/etm
+
+식당입니다
+	식당/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+가을이
+	가을/ncn+이/jcc
+
+더욱
+	더욱/mag
+
+깊어가는
+	깊/paa+어/ecx+가/px+는/etm
+
+날에
+	날/ncn+에/jca
+
+얼큰한
+	얼큰한/ncn
+
+생태찌개
+	생태/ncn+찌개/ncn
+
+맛
+	맛/ncn
+
+좀
+	좀/mag
+
+보시렵니까
+	보/px+시/ep+렵니까/ef
+
+??
+	?/sf+?/sf
+
+
+미다래
+	미다래/ncn
+
+043-534-3260
+	043/nnc+-534/nnc+-3260/nnc
+
+
+충북
+	충북/ncn
+
+진천군
+	진천군/ncn
+
+진천읍
+	진천읍/ncn
+
+벽암리
+	벽암리/ncn
+
+72
+	72/nnc

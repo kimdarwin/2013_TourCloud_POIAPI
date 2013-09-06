@@ -1,0 +1,1280 @@
+제주오름
+	제주/ncn+오름/ncn
+
+트레킹,
+	트레킹,/ncn
+
+봉개동
+	봉개동/ncn
+
+민오름에서
+	민오름/ncn+에서/jca
+
+큰지그리오름
+	큰지그리오름/ncn
+
+입구까지
+	입구/ncn+까지/jxc
+
+!!
+	!/sf+!/sf
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+제주시
+	제주/ncn+시/ncn
+
+봉개동에
+	봉개동/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+제주오름
+	제주/ncn+오름/ncn
+
+
+민오름,
+	민오름,/ncn
+
+큰지그리오름,
+	큰지그리오름,/ncn
+
+족은지그리오름으로
+	족은지그리오름/ncn+으로/jca
+
+트레킹을
+	트레킹/ncn+을/jco
+
+나섰다
+	나서/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+며칠전부터
+	며칠/ncn+전/ncn+부터/jxc
+
+이웃님들이
+	이웃/ncpa+님/ncn+들/xsncc+이/jcc
+
+세복수초,
+	세복수초,/ncn
+
+변산바람꽃,
+	변산바람꽃,/ncn
+
+노루귀
+	노루/ncn+귀/ncn
+
+등
+	등/nbu
+
+새봄을
+	새봄/ncn+을/jco
+
+알리는
+	알리/pvg+는/etm
+
+꽃소식을
+	꽃소식/ncn+을/jco
+
+
+전하고
+	전/nbn+하고/jct
+
+있어
+	있/px+어/ecx
+
+머뭇거리다가는
+	머뭇거리/pvg+다가/ecs+는/jxc
+
+봄꽃을
+	봄꽃/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없을
+	없/paa+을/etm
+
+것
+	것/nbn
+
+같기도
+	같/paa+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+오름
+	오르/pvg+ㅁ/etn
+
+트레킹을
+	트레킹/ncn+을/jco
+
+다녀온지도
+	다니/pvg+어/ecx+오/px+ㄴ지/ecs+도/jxc
+
+오래되어
+	오래/paa+어/ecx+되/px+어/ecx
+
+오름으로
+	오르/pvg+ㅁ/etn+으로/jca
+
+차를
+	차/ncn+를/jco
+
+몰았다
+	몰/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+제주절물휴양림
+	제주절물휴양림/ncn
+
+입구에서
+	입구/ncn+에서/jca
+
+시작되는
+	시작/ncpa+되/xsvn+는/etm
+
+
+민오름
+	민오름/ncn
+
+등정로를
+	등정로/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+먼저
+	먼저/mag
+
+큰지그리오름,
+	큰지그리오름,/ncn
+
+족은지그리오름을
+	족은지그리오름/ncn+을/jco
+
+오르고
+	오르/pvg+고/ecc
+
+
+나서
+	나/px+서/ecs
+
+돌아오는
+	돌/pvg+아/ecx+오/px+는/etm
+
+길에
+	길/ncn+에/jca
+
+민오름을
+	민오름/ncn+을/jco
+
+올랐다
+	오르/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+민오름
+	민오름/ncn
+
+등정로로
+	등정로/ncn+로/jca
+
+들어서다
+	들어서/pvg+어다/ecs
+
+보면
+	보/px+면/ecs
+
+목초지
+	목초지/ncn
+
+한복판에
+	한복판/ncn+에/jca
+
+왕따
+	왕따/ncn
+
+소나무
+	소나무/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+그루가
+	그루/nbu+가/jcc
+
+
+외롭게
+	외롭/paa+게/ecs
+
+홀로
+	홀로/mag
+
+서
+	서/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+봉개동민오름
+	봉개동민오름/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+조천읍
+	조천읍/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011043092",
+	"bl011043092",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"2",
+	type/f+:/sp+"/sl+2/nnc+"/sr+,/sp
+
+title:"봉개동민오름",
+	title:"봉개동민오름",/ncn
+
+pointX:273460,pointY:94326}
+	pointX/f+:/sp+273460/nnc+,/sp+pointY/f+:/sp+94326/nnc+}/sr
+
+
+제주시
+	제주/ncn+시/ncn
+
+봉개동
+	봉개동/ncn
+
+민오름
+	민오름/ncn
+
+등정로로
+	등정로/ncn+로/jca
+
+들어서자
+	들어서/pvg+자/ecc
+
+
+눈을
+	눈/ncn+을/jco
+
+의심할
+	의심/ncpa+하/xsva+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+무리지어
+	무리지/ncn+이/jp+어/ecs
+
+핀
+	피/pvg+ㄴ/etm
+
+변산바람꽃이
+	변산바람꽃/ncn+이/jcc
+
+맨먼저
+	맨먼저/ncn
+
+반갑게
+	반갑/paa+게/ecs
+
+맞이한다
+	맞이/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+무리지어
+	무리지/ncn+이/jp+어/ecs
+
+핀
+	피/pvg+ㄴ/etm
+
+변산바람꽃을
+	변산바람꽃/ncn+을/jco
+
+몇
+	몇/nnc
+
+년만에
+	년/nbu+만에/jca
+
+만나는
+	만나/pvg+는/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+자연림이
+	자연림/ncn+이/jcc
+
+울창하게
+	울창/ncps+하/xsms+게/ecs
+
+자라는
+	자라/ncn+는/jxc
+
+
+민오름
+	민오름/ncn
+
+등정로를
+	등정로/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+오르자
+	오르/pvg+자/ecc
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+막
+	막/mag
+
+꽃을
+	꽃/ncn+을/jco
+
+피우려고
+	피우/pvg+려고/ecs
+
+봉오리를
+	봉오리/ncn+를/jco
+
+열고
+	열/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+세복수초도
+	세복수초/ncn+도/jxc
+
+반갑게
+	반갑/paa+게/ecs
+
+눈
+	눈/ncn
+
+인사를
+	인사/ncn+를/jco
+
+하구~~~
+	하구/ncn+~/sd+~/sd+~/sd
+
+
+양지바른
+	양지바르/paa+ㄴ/etm
+
+곳에는
+	곳/ncn+에/jca+는/jxc
+
+샛노란
+	샛노랗/paa+은/etm
+
+꽃을
+	꽃/ncn+을/jco
+
+피운
+	피우/pvg+ㄴ/etm
+
+
+세복수초가
+	세복수초/ncn+가/jcs
+
+군락을
+	군락/ncn+을/jco
+
+이뤄
+	이루/pvg+어/ecx
+
+따스한
+	따스/ncps+하/xsms+ㄴ/etm
+
+봄햇살을
+	봄햇살/ncn+을/jco
+
+받고
+	받/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+겨우내
+	겨우내/mag
+
+바짝
+	바짝/mag
+
+몸을
+	몸/ncn+을/jco
+
+움츠렸던
+	움츠리/pvg+었/ep+던/etm
+
+자연림들도
+	자연림/ncn+들/ncn+도/jxc
+
+
+기지개를
+	기지/ncn+개/ncn+를/jco
+
+펴며
+	펴/pvg+며/ecc
+
+새봄맞이
+	새봄/ncn+맞이/ncpa
+
+준비를
+	준비/ncn+를/jco
+
+서두르고
+	서두르/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+눈에
+	눈/ncn+에/jca
+
+띄게
+	띄/pvg+게/ecs
+
+물오른
+	물오르/pvg+ㄴ/etm
+
+모습을볼
+	모습을볼/ncn
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+나무계단으로
+	나무계단/ncn+으로/jca
+
+정비된
+	정비/ncpa+되/xsvn+ㄴ/etm
+
+민오름
+	민오름/ncn
+
+등정로
+	등정/ncn+로/jca
+
+양쪽에는
+	양쪽/ncn+에는/jca
+
+
+제주조릿대가
+	제주/ncn+조릿대/ncn+가/jcs
+
+우점하며
+	우점하/ncn+이/jp+며/ecc
+
+산
+	사/pvg+ㄴ/etm
+
+등성이를
+	등성이/ncn+를/jco
+
+차지하고
+	차/pvg+지/ecx+하/px+고/ecc
+
+있는
+	있/px+는/etm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+민오름
+	민오름/ncn
+
+정상으로
+	정상/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+갈림길에서
+	갈림길/ncn+에서/jca
+
+벗어나
+	벗/pvg+어/ecs+나/jxc
+
+
+민오름
+	민오름/ncn
+
+북동쪽
+	북동쪽/ncn
+
+능선을
+	능선/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+큰지그리오름으로
+	큰지그리오름/ncn+으로/jca
+
+방향을
+	방향/ncn+을/jco
+
+잡으며
+	잡/pvg+으며/ecc
+
+울창하게
+	울창/ncps+하/xsms+게/ecs
+
+자란
+	자/nbn+란/jcm
+
+
+자연림
+	자연림/ncn
+
+사이로
+	사이/ncn+로/jca
+
+조망되는제주시가지
+	조망되는제주시가지/ncn
+
+모습을
+	모습/ncn+을/jco
+
+담았다
+	담/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+자연림
+	자연림/ncn
+
+사이로
+	사이/ncn+로/jca
+
+실루엣
+	실루엣/ncn
+
+하게
+	하/pvg+게/ecs
+
+보이는
+	보이/pvg+는/etm
+
+
+노루생태관찰원에
+	노루/ncn+생태/ncn+관찰/ncpa+원/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+거친오름도
+	거친오름/ncn+도/jxc
+
+담아보고
+	담/pvg+아/ecx+보/px+고/ecc
+
+...
+	.../se
+
+
+민오름
+	민오름/ncn
+
+북동쪽
+	북동쪽/ncn
+
+능선을
+	능선/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+
+큰지그리오름으로
+	큰지그리오름/ncn+으로/jca
+
+향하다
+	향하/pvg+어다/ecs
+
+만난
+	만나/pvg+ㄴ/etm
+
+이름모를
+	이름/ncn+모/ncn+를/jco
+
+식물이다
+	식물/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+어느덧
+	어느덧/mag
+
+산
+	사/pvg+ㄴ/etm
+
+속
+	속/ncn
+
+깊은
+	깊/paa+은/etm
+
+곳까지
+	곳/ncn+까지/jxc
+
+봄이
+	보/px+ㅁ/etn+이/jcs
+
+찾아들었다
+	찾아들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+민오름에서
+	민오름/ncn+에서/jca
+
+큰지그리오름까지
+	큰지그리오름/ncn+까지/jca
+
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+코스는
+	코스/ncn+는/jxc
+
+처음
+	처음/mag
+
+걷는
+	걷/pvg+는/etm
+
+코스라
+	코스/ncn+이/jp+라/ecs
+
+기대가
+	기대/pvg+어/ecx+가/px+아/ecx
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+한번도
+	한/nnc+번/nbu+도/jxc
+
+걸어보지
+	걷/pvg+어/ecx+보/px+지/ecx
+
+않았던
+	않/px+아/ep+ㄴ/etm
+
+길을
+	길/ncn+을/jco
+
+걷는
+	걷/pvg+는/etm
+
+맛
+	맛/ncn
+
+!
+	!/sf
+
+
+아는
+	알/pvg+는/etm
+
+사람은
+	사람/ncn+은/jxc
+
+그
+	그/mmd
+
+맛을
+	맛/ncn+을/jco
+
+안다
+	알/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+민오름
+	민오름/ncn
+
+북동쪽
+	북동쪽/ncn
+
+능선에서
+	능선/ncn+에서/jca
+
+큰지그리오름으로
+	큰지그리오름/ncn+으로/jca
+
+이어지던
+	잇/pvg+어/ecx+지/px+던/etm
+
+길이
+	길/ncn+이/jcc
+
+방향을
+	방향/ncn+을/jco
+
+틀어
+	틀/pvg+어/ecs
+
+
+민오름
+	민오름/ncn
+
+굼부리
+	굼부리/ncn
+
+내부로
+	내부/ncn+로/jca
+
+이어진다
+	잇/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+먼저
+	먼저/mag
+
+다녀간
+	다니/pvg+어/ecx+가/px+ㄴ/etm
+
+사람들
+	사람들/ncn
+
+발자국
+	발자국/ncn
+
+흔적을
+	흔적/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+걷다보니
+	걷다보/ncn+이/jp+니/ef
+
+
+민오름에서
+	민오름/ncn+에서/jca
+
+큰지그리오름까지
+	큰지그리오름까지/ncn
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+코스는
+	코스/ncn+는/jxc
+
+작은
+	작/paa+은/etm
+
+봉우리들을
+	봉우리/ncn+들/ncn+을/jco
+
+하나씩
+	하나씩/ncn
+
+오르락
+	오르락/ncn
+
+내리락
+	내리락/ncn
+
+하며
+	하/pvg+며/ecc
+
+
+큰지그리오름까지
+	큰지그리오름까지/ncn
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+코스다
+	코스/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+코스는
+	코스/ncn+는/jxc
+
+사람들
+	사람들/ncn
+
+발길이
+	발길/ncn+이/jcc
+
+뜸해
+	뜸/ncpa+하/xsva+어/ecs
+
+
+비교적
+	비교/ncpa+적/ncn
+
+원시
+	원시/ncn
+
+식생이
+	식생/ncn+이/jcc
+
+잘
+	잘/mag
+
+자라고
+	자/nbn+이/jp+라/ef+고/jcr
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+코스를
+	코스/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+걷다보니
+	걷다보니/ncn
+
+태풍에
+	태풍/ncn+에/jca
+
+뿌리채
+	뿌리/ncn+채/ncn
+
+뽑힌
+	뽑히/pvg+ㄴ/etm
+
+나무도
+	나무/ncn+도/jxc
+
+보이고
+	보이/pvg+고/ecc
+
+...
+	.../se
+
+
+민오름
+	민오름/ncn
+
+북동쪽
+	북동쪽/ncn
+
+봉우리
+	봉우리/ncn
+
+마지막
+	마지막/ncn
+
+능선을
+	능선/ncn+을/jco
+
+넘자
+	넘/pvg+자/ecc
+
+
+울창하게
+	울창/ncps+하/xsms+게/ecs
+
+자라는
+	자라/pvg+는/etm
+
+자연림
+	자연림/ncn
+
+사이로
+	사이/ncn+로/jca
+
+큰지그리오름
+	큰지그리오름/ncn
+
+산체가
+	사/pvg+ㄴ/etm+체/nbs+가/jcc
+
+모습을
+	모습/ncn+을/jco
+
+드러낸다
+	드러내/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+마지막
+	마지막/ncn
+
+봉우리를
+	봉우리/ncn+를/jco
+
+내려서자
+	내려서/pvg+자/ecc
+
+
+누렇게
+	누렇/paa+게/ecs
+
+색바랜
+	색바래/pvg+ㄴ/etm
+
+억새가
+	억새/ncn+가/jcs
+
+무성히
+	무성/ncpa+히/xsas
+
+자라는
+	자라/pvg+는/etm
+
+넓은
+	넓/paa+은/etm
+
+개활지
+	개활지/ncn
+
+너머로
+	너머/ncn+로/jca
+
+
+큰지그리오름이
+	큰지그리오름/ncn+이/jcc
+
+위용을
+	위용/ncn+을/jco
+
+드러내며
+	드러내/pvg+며/ecc
+
+눈앞에
+	눈앞/ncn+에/jca
+
+바짝
+	바짝/mag
+
+다가온다
+	다가오/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+사람
+	사람/ncn
+
+발자국
+	발자국/ncn
+
+흔적을
+	흔적/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+걸으니
+	걸/pvg+니/ecs
+
+길을
+	길/ncn+을/jco
+
+잃을
+	잃/pvg+을/etm
+
+걱정은
+	걱정/ncpa+은/jxc
+
+안
+	안/mag
+
+해도
+	하/pvg+어도/ecs
+
+되겠다
+	되/pvg+겠/ep+다/ef
+
+.
+	./sf
+
+
+하지만,
+	하/pvg+지/ecx+말/px+ㄴ/etm+,/sp
+
+억새와
+	억새/ncn+와/jcj
+
+잡풀,
+	잡풀/ncn+,/sp
+
+자연림이
+	자연림/ncn+이/jcc
+
+무성하게
+	무성/ncpa+하/xsva+게/ecs
+
+자라는
+	자라/pvg+는/etm
+
+여름에는
+	여름/ncn+에/jca+는/jxc
+
+초행인
+	초행/ncn+이/jp+ㄴ/etm
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+주의가
+	주의/ncn+가/jcs
+
+필요하다
+	필요/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+억새와
+	억새/ncn+와/jcj
+
+자연림이
+	자연림/ncn+이/jcc
+
+우거진
+	우거/ncpa+진/ncn
+
+숲
+	숲/ncn
+
+지대를
+	지대/ncn+를/jco
+
+벗어나자
+	벗어나/pvg+자/ecc
+
+
+큰지그리오름까지
+	큰지그리오름까지/ncn
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+코스는
+	코스/ncn+는/jxc
+
+한화리조트에서
+	한화/ncn+리조트/ncn+에서/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+한화올레와
+	한화올레/ncn+와/jct
+
+만난다
+	만나/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+한화올레를
+	한화올레/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+큰지그리오름으로
+	큰지그리오름/ncn+으로/jca
+
+
+향하며
+	향하/pvg+며/ecc
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+큰지그리오름
+	큰지그리오름/ncn
+
+전경이다
+	전경/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+큰지그리오름
+	큰지그리오름/ncn
+
+남서사면은
+	남서/ncn+사면/ncn+은/jxc
+
+조림된
+	조림/ncn+되/xsvn+ㄴ/etm
+
+삼나무와
+	삼나무/ncn+와/jcj
+
+편백나무가
+	편백/ncn+나무/ncn+가/jcc
+
+
+울창하게우거진
+	울창하게우거진/ncn
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+한화올레를
+	한화올레/ncn+를/jco
+
+걷고
+	걷/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+분들도
+	불/pvg+ㄴ/etm+들/nbn+도/jxc
+
+보이고
+	보이/pvg+고/ecc
+
+...
+	.../se
+
+
+우측에
+	우측/ncn+에/jca
+
+보이는
+	보이/pvg+는/etm
+
+철조망을
+	철조망/ncn+을/jco
+
+너머
+	너머/ncn
+
+큰지그리오름으로
+	큰지그리오름/ncn+으로/jca
+
+고고싱~~~
+	고고/ncn+싱/ncn+~/sd+~/sd+~/sd

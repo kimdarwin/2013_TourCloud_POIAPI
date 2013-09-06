@@ -1,0 +1,932 @@
+국립제주박물관
+	국립/ncn+제주/ncn+박물관/ncn
+
+야외전시장과
+	야외전시장/ncn+과/jcj
+
+연못으로
+	연못/ncn+으로/jca
+
+나들이
+	나들이/ncpa
+
+!!
+	!/sf+!/sf
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+국립제주박물관
+	국립/ncn+제주/ncn+박물관/ncn
+
+
+야외전시장과
+	야외전시장/ncn+과/jcj
+
+연못으로
+	연못/ncn+으로/jca
+
+나들이를
+	나들이/ncpa+를/jco
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+요즘
+	요즘/mag
+
+가면
+	가/px+면/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+부처꽃을
+	부처/ncn+꽃/ncn+을/jco
+
+담기
+	담/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+발걸음을
+	발걸음/ncn+을/jco
+
+했지요
+	하/px+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+잘아시다시피
+	잘아시다시피/ncn
+
+국립제주박물관은
+	국립/ncn+제주/ncn+박물관/ncn+은/jxc
+
+제주지역의
+	제주지역/ncn+의/jcm
+
+문화재를
+	문화재/ncn+를/jco
+
+수집
+	수집/ncpa
+
+.
+	./sf
+
+
+보존하고
+	보존/ncpa+하고/jcj
+
+
+연구
+	연구/ncpa
+
+.
+	./sf
+
+
+전시하는
+	전시/ncpa+하/xsva+는/etm
+
+국립박물관이지요
+	국립박물관/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+#
+	#/ncn
+
+국립제주박물관
+	국립/ncn+제주/ncn+박물관/ncn
+
+주차장에서
+	주차장/ncn+에서/jca
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+제주의
+	제주/ncn+의/jcm
+
+하늘
+	하늘/ncn
+
+!!
+	!/sf+!/sf
+
+
+하늘
+	하늘/ncn
+
+색깔이
+	색깔/ncn+이/jcc
+
+파랗고
+	파랗/paa+고/ecc
+
+새털구름이
+	새털구름/ncn+이/jcc
+
+
+피어
+	피/pvg+어/ecx
+
+오르는
+	오르/pvg+는/etm
+
+것을
+	것/nbn+을/jco
+
+보니
+	보/px+니/ecs
+
+어느새
+	어느새/mag
+
+가을냄새가
+	가을/ncn+냄새/ncn+가/jcs
+
+물씬
+	물씬/mag
+
+묻어납니다
+	묻/pvg+어/ecx+나/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+제주시
+	제주/ncn+시/ncn
+
+사라봉공원
+	사라봉공원/ncn
+
+부근에
+	부근/ncn+에/jca
+
+자리잡은
+	자리잡/pvg+은/etm
+
+국립제주박물관은
+	국립/ncn+제주/ncn+박물관/ncn+은/jxc
+
+개방적인
+	개방/ncpa+적/ncn+이/jp+ㄴ/etm
+
+해양문화와
+	해양/ncn+문화/ncn+와/jcj
+
+제주문화의
+	제주/ncn+문화/ncn+의/jcm
+
+
+형성과정을
+	형성과정/ncn+을/jco
+
+문화사
+	문화사/ncn
+
+발전단계별로
+	발전단계/ncn+별/ncn+로/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+구성하여
+	구성/ncpa+하/xsva+어/ecx
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+박물관입니다
+	박물관/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+#
+	#/ncn
+
+제주의
+	제주/ncn+의/jcm
+
+돌문화를
+	돌문/ncn+화/ncn+를/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+야외전시장
+	야외전시장/ncn
+
+
+야외전시장에는
+	야외전시장/ncn+에/jca+는/jxc
+
+돌하르방,
+	돌하르방/ncn+,/sp
+
+동자석,
+	동자/ncn+석/ncn+,/sp
+
+정낭
+	정낭/ncn
+
+등
+	등/nbu
+
+제주도에서만
+	제주/ncn+도/ncn+에서/jca+만/jxc
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/paa+는/etm
+
+
+유물이
+	유물/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있어
+	있/px+어/ecx
+
+제주의
+	제주/ncn+의/jcm
+
+돌문화를
+	돌문/ncn+화/ncn+를/jco
+
+가까이서
+	가까이/ncn+서/jca
+
+접하려는
+	접하/pvg+려는/etm
+
+제주도민들과
+	제주도민/ncn+들/ncn+과/jcj
+
+
+가족단위
+	가족단위/ncn
+
+여행객들과
+	여행객/ncn+들/ncn+과/jct
+
+많이
+	많/paa+이/xsa
+
+찾는
+	찾/pvg+는/etm
+
+장소입니다
+	장소/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+국립제주박물관입구
+	국립/ncn+제주/ncn+박물관/ncn+입구/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+일도2동
+	일도2동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011469158",
+	"bl011469158",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"16985427",
+	"/sl+16985427/nnc+"/sr+,/sp
+
+type:"2",
+	type/f+:/sp+"/sl+2/nnc+"/sr+,/sp
+
+title:"국립제주박물관입구",
+	title/f+:/sp+"/sl+국립/ncn+제주/ncn+박물관/ncn+입구/ncn+"/sr+,/sp
+
+pointX:265284,pointY:102888}
+	pointX/f+:/sp+265284/nnc+,/sp+pointY/f+:/sp+102888/nnc+}/sr
+
+
+가장
+	가장/mag
+
+제주다운
+	제주/ncn+다운/ncpa
+
+모습을
+	모습/ncn+을/jco
+
+상징적으로
+	상징/ncpa+적/ncn+으로/jca
+
+보여주는
+	보이/pvg+어/ecx+주/px+는/etm
+
+정낭
+	정낭/ncn
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+야외전시장에는
+	야외전시장/ncn+에/jca+는/jxc
+
+제주의
+	제주/ncn+의/jcm
+
+현무암으로
+	현무암/ncn+으로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+조형물과
+	조형물/ncn+과/jcj
+
+민속품,
+	민속/ncn+품/ncn+,/sp
+
+제주
+	제주/ncn
+
+민가에서
+	민가/ncn+에서/jca
+
+출입문으로
+	출입문/ncn+으로/jca
+
+사용되었던
+	사용/ncpa+되/xsvn+었/ep+던/etm
+
+
+정주석,
+	정주/ncpa+석/ncn+,/sp
+
+연자방아,
+	연자방아/ncn+,/sp
+
+그리고
+	그리고/maj
+
+맷돌,
+	맷돌/ncn+,/sp
+
+기름틀
+	기름/ncn+틀/ncn
+
+등
+	등/nbu
+
+생활용품이
+	생활용품/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+하늘이
+	하늘/ncn+이/jcc
+
+참으로
+	차/pvg+ㅁ/etn+으로/jca
+
+파란
+	파랗/paa+은/etm
+
+날입니다
+	날/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+아침저녁으로
+	아침/ncn+저녁/ncn+으로/jca
+
+선선한
+	선선/ncps+하/xsms+ㄴ/etm
+
+바람이
+	바람/ncn+이/jcc
+
+불어와
+	불/pvg+어/ecx+오/px+아/ecx
+
+산책하기
+	산책/ncpa+하/xsva+기/etn
+
+아주
+	아주/mag
+
+좋은
+	좋/paa+은/etm
+
+계절이지요
+	계절/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+국립제주박물관
+	국립/ncn+제주/ncn+박물관/ncn
+
+주변에는
+	주변/ncn+에/jca+는/jxc
+
+사라봉,
+	사라봉,/ncn
+
+모충사,
+	모충사,/ncn
+
+별도봉과
+	별도/ncn+봉/ncn+과/jcj
+
+우당도서관
+	우당/ncn+도서관/ncn
+
+등이
+	등/nbu+이/jcc
+
+있으니
+	있/px+으니/ecs
+
+나들이
+	나들이/ncpa
+
+삼아
+	삼/pvg+아/ecs
+
+
+산책도
+	산책/ncpa+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+국립제주박물관도
+	국립/ncn+제주/ncn+박물관/ncn+도/jxc
+
+들려보네요
+	들리/pvg+어/ecx+보/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+#
+	#/ncn
+
+복신미륵
+	복신미륵/ncn
+
+
+잔디마당을
+	잔디/ncn+마당/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+연못으로
+	연못/ncn+으로/jca
+
+이동을
+	이/nnc+동/nbu+을/jco
+
+하다
+	하/pvg+어다/ecs
+
+보면
+	보/px+면/ecs
+
+제주의
+	제주/ncn+의/jcm
+
+
+민간신앙과
+	민간신앙/ncn+과/jcj
+
+관련
+	관련/ncn
+
+있는
+	있/px+는/etm
+
+복신미륵
+	복신미륵/ncn
+
+2기가
+	2/nnc+기/nbu+가/jcc
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+동자복과
+	동자/ncn+복/ncn+과/jcj
+
+서자복인데요
+	서자복인데요/ncn
+
+.
+	./sf
+
+
+동자복은
+	동자/ncn+복/ncn+은/jxc
+
+만수사가
+	만수사/ncn+가/jcs
+
+있었다는
+	있/px+었/ep+다/ef+는/etm
+
+절터에
+	절터/ncn+에/jca
+
+있고,
+	있/px+고/ecc+,/sp
+
+서자복은
+	서자/ncn+복/ncn+은/jxc
+
+용화사(예전에는
+	용화사(예전/ncn+에/jca+는/jxc
+
+해륜사)안에
+	해륜사)안/ncn+에/jca
+
+세워져
+	세우/pvg+어/ecx+지/px+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+이곳에
+	이곳/npd+에/jca
+
+세워져
+	세우/pvg+어/ecx+지/px+어/ecx
+
+있는
+	있/px+는/etm
+
+것은
+	것/nbn+은/jxc
+
+이
+	이/mmd
+
+두
+	두/nnc
+
+미륵을
+	미륵/ncn+을/jco
+
+본따
+	본뜨/pvg+어/ecx
+
+만든
+	만들/pvg+ㄴ/etm
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+동자복은
+	동자/ncn+복/ncn+은/jxc
+
+여성이고
+	여성/ncn+이/jp+고/ecc
+
+서자복은
+	서자/ncn+복/ncn+은/jxc
+
+남성이라고
+	남성/ncn+이/jp+라/ef+고/jcr
+
+하더군요
+	하/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+지금
+	지금/mag
+
+국립제주박물관
+	국립/ncn+제주/ncn+박물관/ncn
+
+연못에는
+	연못/ncn+에/jca+는/jxc
+
+수련을
+	수련/ncn+을/jco
+
+
+비롯해
+	비롯/ncpa+하/xsva+어/ecx
+
+부처꽃,
+	부처/ncn+꽃/ncn+,/sp
+
+노랑어리연
+	노랑어리연/ncn
+
+등이
+	등/nbu+이/jcc
+
+곱게
+	곱/paa+게/ecs
+
+피어
+	피/pvg+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+부처꽃이
+	부처/ncn+꽃/ncn+이/jcc
+
+흐드러지게
+	흐드러지/paa+게/ecs
+
+핀
+	피/pvg+ㄴ/etm
+
+국립제주박물관
+	국립/ncn+제주/ncn+박물관/ncn
+
+연못
+	연못/ncn
+
+풍경입니다
+	풍경/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+부처꽃을
+	부처/ncn+꽃/ncn+을/jco
+
+담기
+	담/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+연못
+	연못/ncn
+
+안으로
+	안/ncn+으로/jca
+
+들어서니
+	들어서/pvg+니/ecs
+
+햇살을
+	햇살/ncn+을/jco
+
+받기
+	받/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+밖으로
+	밖/ncn+으로/jca
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+
+개구리들이
+	개구리/ncn+들/ncn+이/jcc
+
+놀라서
+	놀라/pvg+아/ecx
+
+연못
+	연못/ncn
+
+속으로
+	속/ncn+으로/jca
+
+뛰어듭니다
+	뛰어들/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+헷살
+	헷살/ncn
+
+받는
+	받/pvg+는/etm
+
+
+부처꽃
+	부처/ncn+꽃/ncn
+
+참
+	참/mag
+
+아름답지요
+	아름답/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+집에서
+	집/ncn+에서/jca
+
+몸을
+	몸/ncn+을/jco
+
+조금만
+	조금/mag+만/jxc
+
+움직이면
+	움직이/pvg+면/ecs
+
+
+나들이
+	나들이/ncpa
+
+하기
+	하/pvg+기/etn
+
+좋은
+	좋/paa+은/etm
+
+곳이
+	곳/ncn+이/jcc
+
+제주시내에
+	제주시내/ncn+에/jca
+
+많습니다
+	많/paa+습니다/ef
+
+.
+	./sf
+
+
+운동하기도
+	운동/ncn+하기/ncn+도/jxc
+
+좋고,
+	좋/paa+고/ecc+,/sp
+
+나들이
+	나들이/ncpa
+
+하기에도
+	하/pvg+기/etn+에/jca+도/jxc
+
+좋은
+	좋/paa+은/etm
+
+계절이
+	계절/ncn+이/jcc
+
+돌아왔습니다
+	돌/pvg+아/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+아침저녁으로
+	아침/ncn+저녁/ncn+으로/jca
+
+불어오는
+	불/pvg+어/ecx+오/px+는/etm
+
+선선한
+	선선/ncps+하/xsms+ㄴ/etm
+
+바람을
+	바람/ncn+을/jco
+
+맞으며
+	맞/pvg+으며/ecc
+
+밖으로
+	밖/ncn+으로/jca
+
+나가보세요
+	나가/pvg+아/ecx+보/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+그럼
+	그렇/pad+ㅁ/etn
+
+기분이
+	기분/ncn+이/jcc
+
+아주
+	아주/mag
+
+상쾌할
+	상쾌/ncps+하/xsms+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf

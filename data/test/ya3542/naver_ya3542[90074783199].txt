@@ -1,0 +1,60 @@
+Title:
+아픔 . 러브홀릭스 
+
+Date:
+2009.11.26 15:09
+
+Content:
+
+
+
+
+'아픔' 러브홀릭스
+ 
+ 죽음보다 아픈 삶....
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc14/2009/11/26/1785/031002135A1243FB51034B45233D9163648_ya3542_logo.jpg';
+	layout.playtime = '246.46';
+	var qsParam = {};
+	qsParam.vid = '702A062DA1650F9E19E0264FEEF201E046B6';
+	qsParam.inKey = 'V1230f60bc60295268970062e833f97b7da2ed7bdccb14465977c56e5d794656e6731062e833f97b7da2e';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_03242 = new VideoInfraUGCPlayer('ugcPlayer_03242' ,bean); 
+ugcPlayer_03242.drawPlayLayer(); 
+}
+
+
+
+
+
+러브홀릭스 - 아픔 (play 장은아)
+
+평화로운 넌 나의 웃음이 되고 따사로운 넌 나의 체온이 되고달콤했던 넌 나에게 기적이지만 이젠 모두 지난일사랑이 머물던 자리 눈물로 채워지고 사랑이 지나간 자린 두려움만 가득 남아참아도 참아도 눈물은 내리고 바람처럼 사라져 추억도 날아갈것만 같아살아가고있지만 숨을 쉬고있지만 죽음보다 아픈 삶을 살아가
+꿈속에서 넌 나의 세상이 되고 마음에선 넌 나의 우주가 되고신비로운 넌 나에게 기적이지만 이젠 모두 없던일사랑이 가득한 자린 눈물로 채워지고 사랑이 지나간 자린 두려움만 가득해서흘려도 흘려도 슬픔은 내리고 연기처럼 사라져 기억도 흩어질것만 같아살아가고 있지만 숨을 쉬고있지만죽음보다 아픈 삶을참아도 참아도 눈물은 내리고 바람처럼 사라져 추억도 날아갈것만 같아살아가고 있지만 숨을 쉬고있지만 죽음보다 아픈 삶을 살아가
+
+
+
+
+
+ 행복한 공간이야기 민초호야bobo's Hoya
+--------------------------------------------------------
+
+
+	

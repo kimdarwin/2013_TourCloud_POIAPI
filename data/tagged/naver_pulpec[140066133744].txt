@@ -1,0 +1,316 @@
+섭지코지
+	섭지코지/ncn
+
+입구
+	입구/ncn
+
+매표소를
+	매표소/ncn+를/jco
+
+통해서
+	통하/pvg+어서/ecs
+
+옆으로
+	옆/ncn+으로/jca
+
+오면
+	오/px+면/ecs
+
+휘닉스
+	휘닉스/ncn
+
+아일랜드
+	아일랜드/ncn
+
+건물이
+	건물/ncn+이/jcc
+
+있는데
+	있/px+는데/ecs
+
+2층에
+	2/nnc+층/nbu+에/jca
+
+던킨도너츠도
+	던킨도너츠/ncn+도/jxc
+
+있고
+	있/px+고/ecc
+
+커피숍도
+	커피숍/ncn+도/jxc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+1층은
+	1/nnc+층/nbu+은/jxc
+
+벨라테라스
+	벨라테라스/ncn
+
+로비동이었다
+	로비/ncn+동/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+휘~
+	휘~/ncn
+
+둘러서왔네
+	두르/pvg+어서/ecx+오/px+아/ep+네/ef
+
+.
+	./sf
+
+
+숙소로
+	숙소/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+길.
+	길/nbu+./sf
+
+
+로비의
+	로비/ncn+의/jcm
+
+모습
+	모습/ncn
+
+.
+	./sf
+
+
+곳곳에
+	곳곳/ncn+에/jca
+
+저런
+	저런/mmd
+
+엑스배너가
+	엑스배너/ncn+가/jcs
+
+놓여져있어
+	놓이/pvg+어/ecx+지/px+어/ecx+있/px+어/ecx
+
+약간의
+	약간/ncn+의/jcm
+
+고급스러움을
+	고급/ncn+스럽/xsmn+음/etn+을/jco
+
+떨어뜨리는
+	떨어뜨리/pvg+는/etm
+
+경향이
+	경향/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+눈에
+	눈/ncn+에/jca
+
+걸렸다
+	걸리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+휘닉스
+	휘닉스/ncn
+
+아일랜드엔
+	아일랜드엔/ncn
+
+제대로
+	제대로/mag
+
+된
+	되/pvg+ㄴ/etm
+
+음식점이
+	음식/ncn+점/ncn+이/jcc
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+식당이
+	식당/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+민트빼고
+	민트빼/ncn+이/jp+고/ecc
+
+..
+	./sf+./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+그도
+	그/npp+도/jxc
+
+그럴것이
+	그러/pvd+ㄹ/etm+것/nbn+이/jcc
+
+여기는
+	여기/npd+는/jxc
+
+콘도가
+	콘도/ncn+가/jcs
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+.
+	./sf
+
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+패밀리마트가
+	패밀리마트/ncn+가/jcs
+
+2개나
+	2/nnc+개/nbu+이/jp+나/ecs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이건
+	이/npd+이/jp+건/ecc
+
+건물내에
+	건물/ncn+내/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+패밀리마트
+	패밀리마트/ncn
+
+.
+	./sf
+
+
+다양한
+	다양/ncn+한/ncn
+
+술과
+	술/ncn+과/jcj
+
+와인
+	와인/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+맥주
+	맥주/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+한라봉류의
+	한라/ncn+봉/ncn+류/xsncc+의/jcm
+
+과일
+	과일/ncn
+
+피씨방이
+	피씨방/ncn+이/jcc
+
+있었따
+	있었따/ncn
+
+.
+	./sf
+
+
+담엔
+	달/paa+ㅁ/etn+엔/jca
+
+저
+	저/mmd
+
+한라산을
+	한라/ncn+산/ncn+을/jco
+
+먹어봐야겠따
+	먹어봐야겠따/ncn
+
+
+민트에서
+	민트/ncn+에서/jca
+
+식사를
+	식사/ncpa+를/jco
+
+마치고
+	마치/pvg+고/ecc
+
+돌아가는
+	돌/pvg+아/ecx+가/px+는/etm
+
+길에
+	길/ncn+에/jca
+
+찍은
+	찍/pvg+은/etm
+
+로비밖의
+	로비/ncn+밖/ncn+의/jcm
+
+모습
+	모습/ncn
+
+..
+	./sf+./sf
+
+
+캐논이
+	캐논/ncn+이/jcc
+
+이래서
+	이렇/pad+어서/ecs
+
+좋구나~
+	좋/paa+구나/ef+~/sd

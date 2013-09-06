@@ -1,0 +1,753 @@
+한옥
+	한옥/ncn
+
+장독대
+	장독대/ncn
+
+위에
+	위/ncn+에/jca
+
+항아리를
+	항아리/ncn+를/jco
+
+닮은
+	닮/pvg+은/etm
+
+바나나맛
+	바나나/ncn+맛/ncn
+
+우유
+	우유/ncn
+
+를
+	를/ncn
+
+아시나요
+	알/pvg+시/ep+나/ef+요/jxf
+
+?
+	?/sf
+
+
+여러분들은
+	여러분들/ncn+은/jxc
+
+이게
+	이/npd+이/jp+게/ecs
+
+무슨
+	무슨/mmd
+
+모양으로
+	모양/ncn+으로/jca
+
+보이시나요
+	보이/pvg+시/ep+나/ef+요/jxf
+
+?
+	?/sf
+
+
+수류탄
+	수류탄/ncn
+
+?
+	?/sf
+
+
+...
+	.../se
+
+
+단지
+	단지/mag
+
+?
+	?/sf
+
+
+항아리
+	항아리/ncn
+
+?
+	?/sf
+
+
+여행지기
+	여행지/ncn+이/jp+기/etn
+
+눈에는
+	눈/ncn+에/jca+는/jxc
+
+한옥
+	한옥/ncn
+
+장독대
+	장독대/ncn
+
+위에
+	위/ncn+에/jca
+
+항아리로
+	항아리/ncn+로/jca
+
+보이는거
+	보이는거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+바나나맛우유는
+	바나나맛우유/ncn+는/jxc
+
+1974년
+	1974/nnc+년/nbu
+
+출시
+	출시/ncpa
+
+이후,
+	이후/ncn+,/sp
+
+많은
+	많/paa+은/etm
+
+이들에게
+	이/ncn+들/xsncc+에게/jca
+
+사랑받고
+	사랑/ncpa+받/xsva+고/ecc
+
+있는
+	있/px+는/etm
+
+장수
+	장수/ncpa
+
+브랜드죠
+	브랜드/ncn+이/jp+죠/ef
+
+?
+	?/sf
+
+
+바나나맛우유의
+	바나나맛우유/ncn+의/jcm
+
+인기
+	인기/ncn
+
+비결은
+	비결/ncn+은/jxc
+
+여러가지가
+	여러/nnc+가지/nbu+가/jcc
+
+있겠지만,
+	있/paa+겠/ep+지만/ecs+,/sp
+
+
+여행지기가
+	여행지/ncn+이/jp+기/etn+가/jcs
+
+생각하기에는
+	생각/ncpa+하/xsva+기/etn+에/jca+는/jxc
+
+항아리를
+	항아리/ncn+를/jco
+
+닮은
+	닮/pvg+은/etm
+
+독특한
+	독특/ncps+하/xsms+ㄴ/etm
+
+병
+	병/nbu
+
+용기
+	용기/ncn
+
+때문인거
+	때문인거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+바나나맛
+	바나나/ncn+맛/ncn
+
+우유는
+	우유/ncn+는/jxc
+
+단지우유,
+	단지/ncn+우유/ncn+,/sp
+
+항아리우유라는
+	항아리/ncn+우유/ncn+라는/jcm
+
+모양
+	모양/ncn
+
+때문에
+	때문/nbn+에/jca
+
+생긴
+	생기/pvg+ㄴ/etm
+
+애칭도
+	애칭/ncn+도/jxc
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있으니깐요
+	있으니깐요/ncn
+
+..
+	./sf+./sf
+
+
+그러면
+	그러면/maj
+
+왜
+	왜/mag
+
+하필
+	하필/mag
+
+이런
+	이런/mmd
+
+모양을
+	모양/ncn+을/jco
+
+가지게
+	가/pvg+아/ecx+지/px+게/ecs
+
+된
+	되/pvg+ㄴ/etm
+
+것일까요
+	것/nbn+이/jp+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+궁금한
+	궁금/ncps+하/xsms+ㄴ/etm
+
+건
+	거/nbn+은/jxc
+
+절대
+	절대/mag
+
+못참는
+	못참/ncn+는/jxc
+
+여행지기
+	여행지/ncn+이/jp+기/etn
+
+바로
+	바로/mag
+
+사이트를
+	사이트/ncn+를/jco
+
+찾아봅니다
+	찾/pvg+아/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+Go~
+	Go/f+~/sd
+
+
+역시나
+	역시/mag+나/jxc
+
+비밀은
+	비밀/ncn+은/jxc
+
+고향을
+	고향/ncn+을/jco
+
+떠올리게
+	뜨/pvg+어/ecx+오/px+ㄹ/etm+리/nbn+이/jp+게/ecs
+
+하는
+	하/pvg+는/etm
+
+항아리
+	항아리/ncn
+
+였군요
+	였군요/ncn
+
+.
+	./sf
+
+
+그건
+	그것/npd+은/jxc
+
+아마도
+	아마/mag+도/jxc
+
+고향집
+	고향/ncn+집/ncn
+
+장독대에서
+	장독대/ncn+에서/jca
+
+익히
+	익히/mag
+
+보아왔던
+	보/pvg+아/ecx+오/px+아/ep+ㄴ/etm
+
+항아리를
+	항아리/ncn+를/jco
+
+모티브로
+	모티브/ncn+로/jca
+
+고향에
+	고향/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+향수를
+	향수/ncn+를/jco
+
+자극하고,
+	자극/ncpa+하고/jcj+,/sp
+
+
+어린시절의
+	어린/ncn+시절/ncn+의/jcm
+
+추억을
+	추억/ncpa+을/jco
+
+되새기게
+	되새기/pvg+게/ecs
+
+하는
+	하/pvg+는/etm
+
+감성을
+	감성/ncn+을/jco
+
+담기
+	담/pvg+기/etn
+
+위함이
+	위하/pvg+ㅁ/etn+이/jcs
+
+아니었을까요
+	아니/paa+었/ep+을까/ef+요/jxf
+
+?
+	?/sf
+
+
+지금
+	지금/mag
+
+세대는
+	세/nnc+대/nbu+는/jxc
+
+아니겠지만,
+	아니/paa+겠/ep+지만/ecs+,/sp
+
+지금의
+	지금/ncn+의/jcm
+
+386
+	386/nnc
+
+이전
+	이전/ncn
+
+세대만
+	세/nnc+대/nbu+만/jxc
+
+하더라도
+	하/pvg+더라도/ecs
+
+어린시절
+	어린/ncn+시절/ncn
+
+한옥집의
+	한옥/ncn+집/ncn+의/jcm
+
+추억을
+	추억/ncpa+을/jco
+
+모두
+	모두/mag
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있을꺼에요
+	있을꺼에요/ncn
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+중에서도
+	중/nbn+에서/jca+도/jxc
+
+동네
+	동네/ncn
+
+꼬마친구들이랑
+	꼬마/ncn+친구/ncn+들이/ncn+랑/jxc
+
+장독대에
+	장독대/ncn+에/jca
+
+숨어
+	숨/pvg+어/ecx
+
+숨바꼭질
+	숨바꼭질/ncpa
+
+놀이하던
+	놀이/ncpa+하/xsva+던/etm
+
+기억이
+	기억/ncpa+이/jcc
+
+있지
+	있/px+지/ecx
+
+않으신가요
+	않/px+으시/ep+ㄴ가/ef+요/jxf
+
+?
+	?/sf
+
+
+혹은
+	혹은/maj
+
+항아리에서
+	항아리/ncn+에서/jca
+
+익어가는
+	익/pvg+어/ecx+가/px+는/etm
+
+장맛에
+	장맛/ncn+에/jca
+
+1년간의
+	1/nnc+년/nbu+간/xsnu+의/jcm
+
+음식의
+	음식/ncn+의/jcm
+
+맛이
+	맛/ncn+이/jcc
+
+좌지우지
+	좌지우지/ncpa
+
+되던
+	되/pvg+던/etm
+
+기억이
+	기억/ncpa+이/jcc
+
+있지
+	있/px+지/ecx
+
+않으신가요
+	않/px+으시/ep+ㄴ가/ef+요/jxf
+
+?
+	?/sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+우리가
+	우리/npp+가/jcs
+
+한옥을
+	한옥/ncn+을/jco
+
+연상할
+	연상/ncpa+하/xsva+ㄹ/etm
+
+때
+	때/ncn
+
+빼
+	빼/pvg+어/ecx
+
+놓을
+	놓/px+을/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+부분이
+	부분/ncn+이/jcc
+
+장독대이다보니,
+	장독대이다보/ncn+이/jp+니/ef+,/sp
+
+
+그래서
+	그래서/maj
+
+이번
+	이/nnc+번/nbu
+
+대한민국
+	대한/ncn+민국/ncn
+
+구석구석
+	구석/ncn+구석/ncn
+
+입춘대길
+	입춘대길/ncn
+
+이벤트에서
+	이벤트/ncn+에서/jca
+
+5등
+	5/nnc+등/nbu
+
+경품이
+	경품/ncn+이/jcc
+
+항아리
+	항아리/ncn
+
+모양의
+	모양/ncn+의/jcm
+
+바나나맛우유로
+	바나나맛우유/ncn+로/jca
+
+결정되었나
+	결정/ncpa+되/xsvn+었/ep+나/ef
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+자,
+	자/ii+,/sp
+
+왠지
+	왠지/mag
+
+마구마구
+	마구/ncn+마구/ncn
+
+응모해
+	응모/ncn+해/ncn
+
+보고
+	보/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+마음이
+	마음/ncn+이/jcc
+
+들지
+	들/pvg+지/ecx
+
+않으신가요
+	않/px+으시/ep+ㄴ가/ef+요/jxf
+
+?
+	?/sf
+
+
+무려
+	무려/mag
+
+100명씩이나
+	100/nnc+명/nbu+씩/xsnu+이나/jcj
+
+당첨이
+	당첨/ncn+이/jcc
+
+된다고
+	되/pvg+ㄴ다/ef+고/jcr
+
+하니,
+	하/pvg+니/ecs+,/sp
+
+당첨
+	당첨/ncn
+
+확률도
+	확률/ncn+도/jxc
+
+참
+	참/mag
+
+높겠죠
+	높/paa+겠/ep+죠/ef
+
+?
+	?/sf
+
+
+이벤트
+	이벤트/ncn
+
+바로가기
+	바로가/ncn+이/jp+기/etn
+
+
+이제
+	이제/mag
+
+여행지기는
+	여행지/ncn+기/ncn+는/jxc
+
+항아리
+	항아리/ncn
+
+우유를
+	우유/ncn+를/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+때마다
+	때/ncn+마다/jxc
+
+전통한옥이
+	전통/ncn+한옥/ncn+이/jcc
+
+떠오를꺼
+	떠오를꺼/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+(개인적으로
+	(/sl+개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+바나나맛우유보다
+	바나나맛우유보다/ncn
+
+항아리우유라는
+	항아리/ncn+우유/ncn+라는/jcm
+
+어감이
+	어감/ncn+이/jcc
+
+더
+	더/mag
+
+좋아
+	좋/paa+아/ecx
+
+요렇게
+	요렇/pad+게/ecs
+
+부르고
+	부르/pvg+고/ecc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.)
+	./sf+)/sr
+
+
+[참고]
+	[/sl+참/pvg+고/ecc+]/sr
+
+전통한옥의
+	전통/ncn+한옥/ncn+의/jcm
+
+항아리모양의
+	항아리/ncn+모양/ncn+의/jcm
+
+바나나맛우유
+	바나나맛우유/ncn
+
+이모티콘가
+	이모티콘/ncn+가/jcs
+
+왕왕
+	왕왕/mag
+
+귀엽네요
+	귀엽/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+자료
+	자료/ncn
+
+출처
+	출처/ncn
+
+:
+	:/sp
+
+빙그레
+	빙그레/mag
+
+바나나우유
+	바나나/ncn+우유/ncn
+
+홈페이지
+	홈페이지/ncn
+
+(http://www.
+	(/sl+http/f+:/sp+//sp+//sp+www/f+./sy
+
+bingba.
+	bingba/f+./sy
+
+co.
+	co/f+./sy
+
+kr/main/)
+	kr/f+//sp+main/f+//sp+)/sr

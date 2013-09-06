@@ -1,0 +1,345 @@
+5,10일마다
+	5/nnc+,/sp+10/nnc+일/nbu+마다/jxc
+
+아파트
+	아파트/ncn
+
+앞에는
+	앞/ncn+에/jca+는/jxc
+
+5일장이
+	5/nnc+일/nnc+장/nbu+이/jcc
+
+선다
+	서/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+우리
+	우리/npp
+
+딸이
+	딸/ncn+이/jcc
+
+혼자
+	혼자/mag
+
+장보기에
+	장보/ncn+이/jp+기/etn+에/jca
+
+나섰다
+	나서/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+동전지갑도
+	동전/ncn+지갑/ncn+도/jxc
+
+자기가
+	자기/npp+가/jcs
+
+들고서
+	들/pvg+고서/ecs
+
+계산도
+	계산/ncpa+도/jxc
+
+지가
+	지/nbn+가/jcc
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+돈
+	돌/pvg+ㄴ/etm
+
+꺼내고
+	꺼내/pvg+고/ecc
+
+물건
+	물건/ncn
+
+집어
+	집/pvg+어/ecx
+
+넣고
+	넣/pvg+고/ecc
+
+....
+	.../se+./sf
+
+
+그게
+	그/npd+이/jp+게/ecs
+
+힘들었단다
+	힘들/pvg+었/ep+단다/ef
+
+.
+	./sf
+
+
+세상에
+	세상/ncn+에/jca
+
+쉬운
+	쉽/paa+은/etm
+
+일이
+	일/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+줄
+	주/px+ㄹ/etm
+
+아나~~~
+	아나/ii+~/sd+~/sd+~/sd
+
+
+그래도
+	그래도/maj
+
+장
+	장/nbu
+
+보고
+	보/px+고/ecc
+
+나서
+	나/px+서/ecs
+
+하는
+	하/pvg+는/etm
+
+말이
+	말/ncn+이/jcs
+
+
+넘
+	널/pvg+ㅁ/etn
+
+재미있단다
+	재미있/pvg+단다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+재미있는
+	재미있/pvg+는/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+왜
+	왜/mag
+
+이때까지
+	이때/ncn+까지/jxc
+
+안
+	안/mag
+
+시켰냐고
+	시키/pvg+었/ep+냐/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+지켜보는
+	지키/pvg+어/ecx+보/px+는/etm
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+엄마도
+	엄마/ncn+도/jxc
+
+흐뭇하다
+	흐뭇/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+엄마에겐
+	엄마/ncn+에겐/jca
+
+딸이
+	딸/ncn+이/jcc
+
+있어야
+	있/px+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이게
+	이/npd+이/jp+게/ecs
+
+없었으면
+	없/paa+었/ep+으면/ecs
+
+무슨
+	무슨/mmd
+
+낙으로
+	낙/ncn+으로/jca
+
+살았나
+	살/pvg+아/ep+나/ef
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+아들놈은
+	아들놈/ncn+은/jxc
+
+정말
+	정말/mag
+
+나와는
+	나/npp+와/jct+는/jxc
+
+궁합이
+	궁합/ncn+이/jcc
+
+안
+	안/mag
+
+맞다
+	맞/pvg+다/ef
+
+.
+	./sf
+
+
+이젠
+	이젠/ncn
+
+7살도
+	7/nnc+살/nbu+도/jxc
+
+되었으니
+	되/pvg+었/ep+으니/ecs
+
+공부
+	공부/ncpa
+
+좀
+	좀/mag
+
+하자고
+	하/px+자/ef+고/jcr
+
+학습지
+	학습지/ncn
+
+몇
+	몇/nnc
+
+장
+	장/nbu
+
+인쇄해
+	인쇄/ncpa+하/xsva+어/ecx
+
+주었더니
+	주/px+었/ep+더니/ecs
+
+한장
+	한/nnc+장/nbu
+
+하고는
+	하/px+어/ef+고/jcr+는/jxc
+
+안
+	안/mag
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+아무리
+	아무리/mag
+
+꼬셔도
+	꼬/pvg+시/ep+어도/ecs
+
+안
+	안/mag
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+두손
+	두/nnc+손/nbu
+
+두발
+	두/nnc+발/nbu
+
+다
+	다/mag
+
+들었다
+	들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+가을인
+	가을/ncn+이/jp+ㄴ/etm
+
+주는대로
+	주/px+ㄴ대로/ecs
+
+다
+	다/mag
+
+했는데
+	하/px+었/ep+는데/ecs
+
+.....
+	./sy+.../se+./sy
+
+..
+	./sf+./sf

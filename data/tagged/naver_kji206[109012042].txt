@@ -1,0 +1,308 @@
+향우정
+	향우정/ncn
+
+(041-
+	(/sl+041/nnc+-/sd
+
+835-0085)
+	835/nnc+-0085/nnc+)/sr
+
+
+점심을
+	점심/ncn+을/jco
+
+먹기위해
+	먹기/ncn+위해/ncn
+
+향우정으로
+	향우정/ncn+으로/jca
+
+갔다
+	가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+주변에
+	주변/ncn+에/jca
+
+차들이
+	차/ncn+들/xsncc+이/jcc
+
+많을걸로
+	많을걸/ncn+로/jca
+
+봐서
+	보/pvg+아/ecx
+
+맛집으로
+	맛집/ncn+으로/jca
+
+유명한듯
+	유명/ncps+하/xsms+ㄴ/etm+듯/nbs
+
+...
+	.../se
+
+
+미리예약하였기에
+	미리예약하/ncn+이/jp+었/ep+기/etn+에/jca
+
+상차림이
+	상차림/ncn+이/jcc
+
+화려하게
+	화/ncn+이/jp+리/ep+어/ecx+하/px+게/ecs
+
+준비되어
+	준비/ncpa+되/xsvn+어/ecx
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+깔끔하고
+	깔끔/ncn+하고/jct
+
+정갈하다
+	정갈/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+불고기정식
+	불고기/ncn+정식/ncn
+
+
+다양한
+	다양/ncn+한/ncn
+
+반찬류
+	반찬/ncn+류/xsncc
+
+
+전부
+	전부/mag
+
+다
+	다/mag
+
+맛을
+	맛/ncn+을/jco
+
+봤는데
+	보/px+아/ep+ㄴ데/ecs
+
+맛깔나다
+	맛깔나/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+고등어
+	고등어/ncn
+
+조림과
+	조림/ncn+과/jcj
+
+명태조림이
+	명태/ncn+조림/ncn+이/jcc
+
+내
+	내/pvg+어/ecx
+
+입맛에
+	입맛/ncn+에/jca
+
+제일
+	제일/mag
+
+맞다
+	맞/pvg+다/ef
+
+.
+	./sf
+
+
+여행을
+	여행/ncpa+을/jco
+
+하다보면
+	하/pvg+어다/ecx+보/px+면/ecs
+
+먹꺼리가
+	먹꺼리/ncn+가/jcs
+
+가장
+	가장/mag
+
+문제이다
+	문제/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+막상
+	막상/mag
+
+맛집이라고
+	맛집/ncn+이/jp+라/ef+고/jcr
+
+찾아갔는데
+	찾/pvg+아/ecx+가/px+아/ep+ㄴ데/ecs
+
+예전같지
+	예전/ncn+같/xsmn+지/ecx
+
+않다면
+	않/px+다면/ecs
+
+얼마나
+	얼마나/mag
+
+실망할까
+	실망/ncpa+하/xsva+ㄹ까/ecs
+
+
+보는
+	보/px+는/etm
+
+즐거움과
+	즐거움/ncn+과/jcj
+
+입으로
+	입/ncn+으로/jca
+
+느끼는
+	느끼/pvg+는/etm
+
+즐거움이
+	즐거움/ncn+이/jcc
+
+함께
+	함께/mag
+
+일치해야여행의
+	일치해야여행/ncn+의/jcm
+
+즐거움이
+	즐거움/ncn+이/jcc
+
+배가
+	배/pvg+어/ecx+가/px+아/ecx
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+부여
+	부/ncn+이/jp+어/ecs
+
+향우정은
+	향우정/ncn+은/jxc
+
+부여을
+	부/ncn+이/jp+어/ef+ㄹ/etm
+
+떠나기전
+	떠나/pvg+기/etn+전/xsnx
+
+마지막으로
+	마지막/ncn+으로/jca
+
+먹은
+	먹/pvg+은/etm
+
+식사이다
+	식사/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+1박2일
+	1박2/ncn+이/jp+ㄹ/etm
+
+푹
+	푹/mag
+
+빠져있던
+	빠지/pvg+어/ecx+있/px+던/etm
+
+부여의
+	부여/ncpa+의/jcm
+
+향기를
+	향기/ncn+를/jco
+
+마무리
+	마무리/ncpa
+
+하는
+	하/pvg+는/etm
+
+맛난
+	맛나/paa+ㄴ/etm
+
+식사였다
+	식사/ncpa+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+디저트
+	디저트/ncn
+
+
+메뉴판
+	메뉴판/ncn
+
+
+향우정
+	향우정/ncn
+
+
+충청남도
+	충청남/ncn+도/jxc
+
+부여군
+	부여/ncpa+이/jp+군/ef
+
+부여읍
+	부여/ncpa+읍/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01283018",
+	"bl01283018",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"향우정",
+	title:"향우정",/ncn
+
+pointX:302301,pointY:409933}
+	pointX/f+:/sp+302301/nnc+,/sp+pointY/f+:/sp+409933/nnc+}/sr

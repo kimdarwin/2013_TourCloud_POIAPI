@@ -1,0 +1,26 @@
+Date:
+2011.08.08
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(869108,'files/attach/images/228818/940/167/6e045e7f75907ad96effd0b30decfd94.jpg');
+list_gallery_add_image(869108,'files/attach/images/228818/940/167/a72158adfa4edc3ed9456f2af0b0161e.jpg');
+list_gallery_add_image(869108,'files/attach/images/228818/940/167/6a309b4a6ddc8202a5199d676129ecbb.jpg');
+list_gallery_add_image(869108,'files/attach/images/228818/940/167/4c03d534186833fe84b00abaeb91c029.jpg');
+list_gallery_add_image(869108,'files/attach/images/228818/940/167/b0467d94e9c682826c270d9521c03a09.jpg');
+list_gallery_add_image(869108,'files/attach/images/228818/940/167/67f32bb251011c34281fb88061532b4b.jpg');
+list_gallery_add_image(869108,'files/attach/images/228818/940/167/e10e6924a9771ddd5229c13eb0016937.jpg');
+list_gallery_add_image(869108,'files/attach/images/228818/940/167/0459463e6e8d565b2744b265452b5a4f.jpg');
+list_gallery_add_image(869108,'files/attach/images/228818/940/167/95798c95362134042c8bfe0a95936208.jpg');
+list_gallery_add_image(869108,'files/attach/images/228818/940/167/38bc848d988eb6e662ece11661c01152.jpg');
+list_gallery_add_image(869108,'files/attach/images/228818/940/167/4989c2fafc0622cc854bc2d478a2c88e.jpg');
+list_gallery_add_image(869108,'files/attach/images/228818/940/167/0bf206d072a0ea629bb960e10c8e56e4.jpg');
+list_gallery_add_image(869108,'files/attach/images/228818/940/167/a475fef9318564f9cc9006cc0408b5d8.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 7일(토), 아름다운 여행으로 흘림골과 주전골 트레킹을 다녀왔습니다. 흘림골과 주전골은 시원한 설악 능선과 다양한 계곡 풍경을 즐길 수 있는 코스여서 여름 트레킹으로도 좋은 코스입니다. 요즘 한동안 비 때문에 곤혹을 치렀는데 다행이 출발할 때의 날씨는 좋았습니다. 차가 강원도로 접어들어 인제와 원통을 지날 때는 흰 구름 사이로 파란 하늘이 비치기도 했습니다. 그런데 한계령에 올라서자 갑자기 짙은 안개가 세상을 뒤덮고 있더군요. 
+흘림골 주차장에서 출발해 등선대까지의 길은 안개 덕에 뜨거운 햇살을 피할 수 있어 좋았습니다. 하지만 등선대에 올라서자 세상이 온통 하얀 안개뿐이었습니다. 날씨가 좋으면 등선대에서 남설악의 장쾌한 능선과 등선대 주변의 기암절벽들을 볼 수 있는데 이날은 그 절경이 모두 안개에 지워져 있었습니다. 흘림골 트레킹의 큰 매려 하나를 잃은 셈이죠. 그래도 등선대에 올라서자 시원한 바람이 불어 오르막길에서 흘린 땀을 식혀 주더군요.
+등선대의 아쉬움을 뒤로 하고 십이폭계곡과 주전골로 내려섰습니다. 십이폭계곡은 지난 번보다는 수량이 좀 늘긴 했지만 한여름의 수량이라기엔 여전히 좀 아쉬웠습니다. 몇 년 전의 큰 수해 이후로 어쩐 일인지 계곡의 수량이 늘질 않는 것 같네요. 그래도 계곡의 골이 깊어 계곡의 풍경은 아름다웠습니다. 바위를 타고 길게 휘어지는 십이폭의 모습도 시원하고 작지만 옹골차 보이는 요소폭포도 멋진 풍경입니다. 또 용소폭포에서 오색약수까지 이어지는 주전골의 긴 협곡 역시 쉽게 보기 힘든 절경입니다. 이 협곡을 빠져나오는 것으로 너댓 시간의 흘림골과 주전골 트레킹을 마쳤습니다.
+이번 트레킹은 공식적으로 여행편지에서 처음으로 28인승 우등 고속버스를 이용한 여행이었습니다. 여행 비용은 올라갔지만 휠씬 안락하고 여유로운 여행이었던 것 같습니다. 돌아오는 길에 지독한 정체를 만나 차에서 오랜 시간을 보내야 했는데, 그래도 넓은 좌석의 버스여서 좁은 버스보다는 불편이 덜했던 것 같습니다.
+일요일에 흘림골과 주전골 트레킹을 하신 분들 모두 빨리 여행의 피로를 푸시고 남은 여름 건강하게 보내시기 바랍니다.
+이 게시물을...

@@ -1,0 +1,130 @@
+10월
+	10/nnc+월/nbu
+
+30일
+	30/nnc+일/nbu
+
+오후
+	오후/ncn
+
+7시
+	7/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+
+울산문화예술회관
+	울산문화예술회관/ncn
+
+소공연장에서
+	소공연장/ncn+에서/jca
+
+남성중창단
+	남성/ncn+중창/ncpa+단/ncn
+
+낮은음자리
+	낮은음자리/ncn
+
+정기연주회가
+	정기연주회/ncn+가/jcs
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+거기에
+	거기/npd+에/jca
+
+남구합창단이
+	남구/ncn+합창단/ncn+이/jcc
+
+우정출연했는데,
+	우정출연/ncpa+하/xsva+었/ep+는데/ecs+,/sp
+
+
+공연
+	공연/ncpa
+
+때는
+	때/ncn+는/jxc
+
+사진을
+	사진/ncn+을/jco
+
+찍지
+	찍/pvg+지/ecx
+
+못하기
+	못하/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+리허설
+	리허설/ncpa
+
+때
+	때/ncn
+
+몇
+	몇/nnc
+
+장
+	장/nbu
+
+찍은
+	찍/pvg+은/etm
+
+사진~~~
+	사진/ncn+~/sd+~/sd+~/sd
+
+
+단복
+	단복/ncn
+
+입기
+	입/pvg+기/etn
+
+전의
+	전/nbn+의/jcm
+
+모습
+	모습/ncn
+
+.....
+	./sy+.../se+./sy
+
+...
+	.../se
+
+
+울
+	울/pvg+ㄹ/etm
+
+가을이
+	가을/ncn+이/jcc
+
+소프라노
+	소프라노/ncn
+
+자리가
+	자리/ncn+가/jcs
+
+또
+	또/maj
+
+바뀌어
+	바뀌/pvg+어/ecx
+
+맨
+	매/pvg+ㄴ/etm
+
+가장자리이다
+	가장/ncn+자리/ncn+이/jp+다/ef
+
+.
+	./sf

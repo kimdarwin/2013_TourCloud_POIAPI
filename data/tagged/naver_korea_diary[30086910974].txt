@@ -1,0 +1,458 @@
+전쟁기념관
+	전쟁기념관/ncn
+
+
+위치:
+	위치/ncn+:/sp
+
+서울
+	서울/ncn
+
+용산구
+	용산구/ncn
+
+용산동1가
+	용산동1/ncn+가/jcs
+
+8번지
+	8번지/ncn
+
+(삼각지
+	(/sl+삼각지/ncn
+
+옛
+	옛/mma
+
+육군본부
+	육군본부/ncn
+
+자리)
+	자리/ncn+)/sr
+
+
+전쟁기념관은
+	전쟁기념관/ncn+은/jxc
+
+다시는
+	다시/mag+는/jxc
+
+이땅에서
+	이땅/ncn+에서/jca
+
+전쟁의
+	전쟁/ncpa+의/jcm
+
+참극을
+	참극/ncn+을/jco
+
+겪지
+	겪/pvg+지/ecx
+
+않도록
+	않/px+도록/ecs
+
+그
+	그/mmd
+
+교훈을
+	교훈/ncn+을/jco
+
+영원히
+	영원히/mag
+
+후대에
+	후대/ncn+에/jca
+
+전하기
+	전하/pvg+기/etn
+
+위해
+	위하/pvg+어/ecs
+
+
+1989년
+	1989/nnc+년/nbu
+
+전쟁기념사업회
+	전쟁기념사업회/ncn
+
+창립
+	창립/ncpa
+
+이후
+	이후/ncn
+
+5년여의
+	5/nnc+년여/nbu+의/jcm
+
+공사
+	공사/ncn
+
+끝에
+	끝/ncn+에/jca
+
+1994년
+	1994/nnc+년/nbu
+
+6월
+	6/nnc+월/nbu
+
+10일
+	10/nnc+일/nbu
+
+개관한
+	개관/ncn+한/ncn
+
+세계적인
+	세계/ncn+적/ncn+이/jp+ㄴ/etm
+
+기념관이다
+	기념관/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+부지
+	부/ncn+이/jp+지/ecs
+
+3만5천여평
+	3/nnc+만/nnc+5/nnc+천여/nnc+평/nbu
+
+규모의
+	규모/ncn+의/jcm
+
+기념관에는
+	기념관/ncn+에/jca+는/jxc
+
+우리
+	우리/npp
+
+선대들이
+	선대/ncn+들/ncn+이/jcc
+
+나라를
+	나라/ncn+를/jco
+
+지키기
+	지키/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+목숨을
+	목숨/ncn+을/jco
+
+바쳐
+	바치/pvg+어/ecx
+
+싸워
+	싸우/pvg+어/ecx
+
+온
+	오/px+ㄴ/etm
+
+기록과
+	기록/ncpa+과/jcj
+
+유물
+	유물/ncn
+
+10,00여점이
+	10/nnc+,/sp+00/nnc+여/xsnu+점/nbu+이/jcc
+
+
+6개의
+	6/nnc+개/nbu+의/jcm
+
+옥내
+	옥내/ncn
+
+전시관에
+	전시관/ncn+에/jca
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+옥외에는
+	옥외/ncn+에/jca+는/jxc
+
+전략폭격기,
+	전략/ncn+폭격기/ncn+,/sp
+
+전투기,
+	전투기/ncn+,/sp
+
+탱크,
+	탱크/ncn+,/sp
+
+미사일
+	미사/ncn+이/jp+ㄹ/etm
+
+등
+	등/nbu
+
+대형장비
+	대형/ncn+장비/ncpa
+
+전시장과
+	전시장/ncr+과/jcj
+
+
+분수와
+	분수/ncn+와/jcj
+
+연못이
+	연못/ncn+이/jcc
+
+어우러진
+	어우러지/pvg+ㄴ/etm
+
+공원,
+	공원/ncn+,/sp
+
+각종
+	각종/ncn
+
+이벤트
+	이벤트/ncn
+
+행사를
+	행사/ncpa+를/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+평화광장이
+	평화/ncn+광장/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+기념관
+	기념관/ncn
+
+야외에는
+	야외/ncn+에/jca+는/jxc
+
+6.25
+	6.25/nnc
+
+전쟁
+	전쟁/ncpa
+
+상징조형물로서,
+	상징/ncpa+조형물/ncn+로서/jca+,/sp
+
+한국군
+	한국군/ncn
+
+형과
+	형/ncn+과/jcj
+
+인민군
+	인민군/ncn
+
+동생이
+	동생/ncn+이/jcc
+
+전장에서의
+	전장/ncn+에서/jca+의/jcm
+
+만난
+	만나/pvg+ㄴ/etm
+
+실화를
+	실화/ncn+를/jco
+
+다룬
+	다루/pvg+ㄴ/etm
+
+
+직경
+	직경/ncn
+
+18m
+	18m/ncn
+
+높이
+	높이/mag
+
+11m의
+	11m/ncn+의/jcm
+
+'형제의
+	'/sr+형제/ncr+의/jcm
+
+상'이
+	상/ncn+'/sr+이/jcc
+
+있으며
+	있/px+으며/ecc
+
+기념관
+	기념관/ncn
+
+복도
+	복/ncn+도/jxc
+
+벽면과
+	벽면/ncn+과/jcj
+
+양측
+	양측/ncn
+
+회랑에는
+	회랑/ncn+에/jca+는/jxc
+
+한국군
+	한국군/ncn
+
+창설
+	창설/ncpa
+
+이후
+	이후/ncn
+
+전투에서
+	절/pvg+ㄴ/etm+투/nbn+에서/jca
+
+전사한
+	전사/ncn+한/ncn
+
+
+국군장병
+	국군장병/ncn
+
+16여만명과
+	16여만명/ncn+과/jcj
+
+3만
+	3/nnc+만/jxc
+
+8천여명의
+	8/nnc+천여/nnc+명/nbu+의/jcm
+
+유엔군장병
+	유엔군/ncn+장병/ncn
+
+이름이
+	이름/ncn+이/jcc
+
+새겨진
+	새기/pvg+어/ecx+지/px+ㄴ/etm
+
+명비가
+	명비/ncn+가/jcs
+
+있어
+	있/px+어/ecx
+
+보는
+	보/px+는/etm
+
+이의
+	이/nnc+의/jcm
+
+마음을
+	마음/ncn+을/jco
+
+뭉클하게
+	뭉클하/paa+게/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+또한,
+	뜨/pvg+어/ecx+하/px+ㄴ/etm+,/sp
+
+1,600평
+	1,600/nnc+평/nbu
+
+규모의
+	규모/ncn+의/jcm
+
+기획전시실과
+	기획/ncpa+전시실/ncn+과/jcj
+
+320석
+	320/nnc+석/nbu
+
+규모의
+	규모/ncn+의/jcm
+
+문화극장이
+	문화/ncn+극장/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+교육
+	교육/ncpa
+
+문화공간으로
+	문화공간/ncn+으로/jca
+
+활용할
+	활용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있으며,
+	있/paa+으며/ecc+,/sp
+
+
+예식과
+	예식/ncn+과/jcj
+
+연회
+	연회/ncn
+
+명소로
+	명소/ncn+로/jca
+
+운영중인
+	운영/ncpa+중/xsnx+이/jp+ㄴ/etm
+
+평화홀은
+	평화/ncn+홀/ncn+은/jxc
+
+누구나
+	누구/npp+나/jcj
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+기사내용
+	기사내용/ncn
+
+전체보기
+	전체/ncn+보기/ncn

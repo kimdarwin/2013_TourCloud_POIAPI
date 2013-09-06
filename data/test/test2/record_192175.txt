@@ -1,0 +1,31 @@
+Date:
+2011.11.14
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/eae34b0457312e95f5e2e55b13c8b74b.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/4d7e20c8cd47008a4c552ffe93f92ef8.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/8641910ce8cd10fd7fb375e1dce2dd84.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/c45e718a643942a30693c9a74c66dc37.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/16c1e6a27d2a1bfe4a93dbd916e23056.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/a16c56d21c36e03c5268c504bc0db834.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/547b66f56a3a672c48b416e27af3b1ff.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/1bb96ed911296606b056bcccdb88ee8b.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/2780c10ee0ab87302fd82c6a9172f301.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/ae7f3244526465c817033c59ae263cb7.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/f7be246fb897c5447449048201fa7c2d.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/9c6a572d29939a4f95a3d5fad26b46d4.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/aba3b634dcb159738d1cbaef58a839ed.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/4ce83937ffe989a60a5cd4ccae1396e9.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/4d7a19b6011d4eac74200af712cb243d.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/4e4e1c404b02f76613cdfa9dbca12ba8.jpg');
+list_gallery_add_image(443586,'files/attach/images/228818/175/192/b30e6defe1531d1c64e8a654b9ab8bac.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+11월 3일(일), 아름다운 여행으로 함양의 상림과 선비길에 다녀왔습니다. 함양의 상림은 신라시대에 최치원 선생이 조성한 우리나라 최초의 인공림으로 알려진 곳이죠. 범람하는 위천의 물을 막기 위해 조성된 숲이라고 합니다. 오래된 고목들이 많은 숲이어서 숲 자체의 분위기도 좋은 곳입니다. 잎이 큰 활엽수들이 주종을 이루고 있어 가을이면 황갈색으로 변하는 가을숲도 예쁘고 또 낙엽이 떨어지면 수북한 낙엽을 밟으며 숲을 걷기에도 좋은 곳입니다.
+상림 숲에도 벌써 가을은 지나가고 있었습니다. 나뭇잎이 거의 다 떨어져서 조금 썰렁한 느낌이 들더군요. 덕분에 낙엽은 실컷 밟았지만 상림의 가을색을 놓친 건 아쉬웠습니다. 누렇게 물든 가을숲도 보고 낙엽도 밟았으면 더 좋았을 텐데요. 그래도 상림 숲은 천 년을 이어온 숲답게 깊고 우아한 멋이 있습니다. 비록 단풍은 없었지만 그 고목들 사이를 걷는 즐거움도 괜찮았던 것 같습니다. 
+올 가을은 너무 빨리 그리고 볼품없이 지나간 것 같습니다. 10월의 건조한 날씨로 나무들이 메말라 곱게 단풍이 들기도 전에 나뭇잎들이 떨어지고 말았습니다. 게다가 예년과 달리 남쪽의 단풍이 아주 빨리 지나가 버려서 때를 맞추기도 힘들었습니다. 혹시나 요즘 세계적으로 문제가 되고 있는 이상기온과 관련이 있는 건 아닌지 모르겠습니다. 
+상림 숲을 걷고 자유롭게 점심식사를 한 뒤 선비길로 향했습니다. 선비길은 함양군에서 조성한 걷기 코스로 거연정에서 시작해 농월정까지 화림동계곡을 따라 걷는 길입니다. 계곡을 따라 하류로 걷기 때문에 오르막이 거의 없고 또 나무테크가 잘 놓여 있어 힘들지 않은 코스죠. 아름다운 정자인 거연정과 넓은 너럭바위가 인상적인 동호정이 있고, 길이 아기자기하고 분위기도 다양해 어느 계절에 걸어도 좋은 길입니다.
+이 날 선비길 역시 가을 분위기는 그리 진하지 않았습니다. 하지만 곳곳에 볼거리가 많아서 시간 가는 줄 모르고 걸었습니다. 마지막 가을걷이를 하는 할머니 그리고 내년 인삼 농사를 준비하시는 할아버지… 계곡의 풍경도 좋았지만 소소한 시골의 분위기도 느낄 수 있는 길이었습니다. 답사를 갔을 때는 이정표가 전혀 없어서 조금 걱정스러웠는데 이번에 가보니 이정표도 깔끔하게 잘 세워놓고, 데크 공사도 말끔히 끝냈더군요. 날씨도 걷기에 적당해서 아주 상쾌하게 걸었던 것 같습니다.
+이번 여행이 가을 여행으로는 마지막 여행이었습니다. 이제 환절기를 지나 겨울로 접어들겠죠. 여행에 참여하신 분들 모두 여행의 피로 잘 푸시고 환절기에 감기 조심하시고 활기차게 남은 가을 보내시기 바랍니다~
+이 게시물을...

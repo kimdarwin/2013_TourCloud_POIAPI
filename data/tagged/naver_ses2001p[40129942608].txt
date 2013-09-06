@@ -1,0 +1,92 @@
+"방림원"
+	"방림원"/ncn
+
+-
+	-/sd
+
+제주도야생화
+	제주/ncn+도야/ncpa+생화/ncpa
+
+
+방림원에서의
+	방림원에서/ncn+의/jcm
+
+꽃사진들을
+	꽃사진들/ncn+을/jco
+
+찍는
+	찍/pvg+는/etm
+
+재미는
+	재미/ncn+는/jxc
+
+말로
+	말로/ncn
+
+
+표현못할정도로
+	표현못할정도/ncn+로/jca
+
+행복했다는
+	행복/ncps+하/xsms+었/ep+다/ef+는/etm
+
+아들이
+	아들/ncn+이/jcc
+
+있어서
+	있/paa+어서/ecs
+
+
+많이
+	많/paa+이/xsa
+
+못찍어서
+	못찍어/ncn+서/jca
+
+다시금
+	다시금/mag
+
+가고
+	가/px+고/ecc
+
+싶네요
+	싶/px+네/ef+요/jxf
+
+*^^*
+	*/sy+^/sy+^/sy+*/sy
+
+
+방림원
+	방림원/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+한경면
+	한/nnc+경/xsnu+면/nbu
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01558705",
+	"bl01558705",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11661222",
+	"/sl+11661222/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"방림원",
+	title:"방림원",/ncn
+
+pointX:239070,pointY:83751}
+	pointX/f+:/sp+239070/nnc+,/sp+pointY/f+:/sp+83751/nnc+}/sr

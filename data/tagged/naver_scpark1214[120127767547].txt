@@ -1,0 +1,1610 @@
+[봄나들이
+	[/sl+봄나들이/ncn
+
+숙소,
+	숙소/ncn+,/sp
+
+경주여행]
+	경주/ncpa+여행/ncpa+]/sr
+
+경주펜션,
+	경주펜션,/ncn
+
+경주애펜션,
+	경주애펜션,/ncn
+
+경주애펜션에서
+	경주애펜션/ncn+에서/jca
+
+달콤한
+	달콤한/ncn
+
+잠을
+	잠/ncn+을/jco
+
+자다
+	자/pvg+아/ecx
+
+.
+	./sf
+
+
+13탄
+	13/nnc+탄/nbu
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+봄나들이
+	봄나들이/ncn
+
+남해여행을
+	남해/ncn+여행/ncpa+을/jco
+
+마치고
+	마치/pvg+고/ecc
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+경주펜션,
+	경주펜션,/ncn
+
+경주애펜션
+	경주애펜션/ncn
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+봄나들이
+	봄나들이/ncn
+
+두번째
+	두/nnc+번/nbu+째/xsnu
+
+잠자리
+	잠자리/ncn
+
+숙소인
+	숙소/ncn+이/jp+ㄴ/etm
+
+경주에
+	경주/ncpa+에/jca
+
+있는
+	있/px+는/etm
+
+경주펜션,
+	경주펜션,/ncn
+
+경주애펜션입니다
+	경주애펜션입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+경주펜션인
+	경주펜션/ncn+이/jp+ㄴ/etm
+
+경주애펜션은
+	경주애펜션/ncn+은/jxc
+
+불국사와
+	불국사/ncn+와/jcj
+
+보문단지
+	보문단지/ncn
+
+사이에
+	사이/ncn+에/jca
+
+있는데,
+	있/px+는데/ecs+,/sp
+
+주변이
+	주변/ncn+이/jcc
+
+조용하고
+	조용/ncn+하고/jct
+
+쾌적해
+	쾌적/ncps+해/ncn
+
+
+연인들과
+	연인/ncn+들/ncn+과/jcj
+
+가족단위
+	가족단위/ncn
+
+여행객들이
+	여행객/ncn+들/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+찾는
+	찾/pvg+는/etm
+
+펜션이었습니다
+	펜션이었습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+사진은
+	사진/ncn+은/jxc
+
+경주애펜션에서
+	경주애펜션/ncn+에서/jca
+
+하룻밤
+	하룻밤/ncn
+
+자고
+	자고/ncn
+
+
+다음날
+	다음날/ncn
+
+경주애펜션을
+	경주애펜션/ncn+을/jco
+
+나서다가
+	나서/pvg+다가/ecs
+
+한
+	하/pvg+ㄴ/etm
+
+장
+	장/nbu
+
+담았습니다
+	담/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+경주애펜션으로
+	경주애펜션/ncn+으로/jca
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+입구에
+	입구/ncn+에/jca
+
+세워진
+	세우/pvg+어/ecx+지/px+ㄴ/etm
+
+안내
+	알/pvg+ㄴ/etm+내/nbn
+
+간판인데,
+	간판/ncn+이/jp+ㄴ데/ecs+,/sp
+
+
+아주
+	아주/mag
+
+특이하게
+	특이/ncps+하/xsms+게/ecs
+
+만들었더군요
+	만들/pvg+었/ep+더군/ef+요/jxf
+
+.
+	./sf
+
+
+남해에서
+	남해/ncn+에서/jca
+
+부지런히
+	부지런히/mag
+
+달려
+	달리/pvg+어/ecx
+
+도착한
+	도착/ncpa+한/ncn
+
+
+경주펜션,
+	경주펜션,/ncn
+
+경주애펜션의
+	경주애펜션/ncn+의/jcm
+
+첫
+	첫/nno
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+다른
+	다른/mma
+
+펜션들과
+	펜션들/ncn+과/jct
+
+달리
+	달리/mag
+
+경주애펜션은
+	경주애펜션/ncn+은/jxc
+
+관리실과
+	관리실/ncn+과/jcj
+
+매점이
+	매점/ncn+이/jcc
+
+따로
+	따로/mag
+
+있더군요
+	있/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+경주에서
+	경주/ncpa+에서/jca
+
+하룻밤
+	하룻밤/ncn
+
+자실
+	자/nbn+이/jp+시/ep+ㄹ/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+아래
+	아래/ncn
+
+홈페이지와
+	홈페이지/ncn+와/jcj
+
+지도를
+	지도/ncn+를/jco
+
+참고
+	참/pvg+고/ecc
+
+하세요
+	하/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+경주애펜션
+	경주애펜션/ncn
+
+홈페이지
+	홈페이지/ncn
+
+바로가기
+	바로가/ncn+이/jp+기/etn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+gyeongjulove.
+	gyeongjulove/f+./sy
+
+com/this/
+	com/f+//sp+this/f+//sp
+
+
+경주애펜션
+	경주애펜션/ncn
+
+
+경상북도
+	경상/ncn+북/ncn+도/jxc
+
+경주시
+	경주시/ncn
+
+하동
+	하동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01512832",
+	"bl01512832",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"13492228",
+	"/sl+13492228/nnc+"/sr+,/sp
+
+type:"2",
+	type/f+:/sp+"/sl+2/nnc+"/sr+,/sp
+
+title:"경주애펜션",
+	title:"경주애펜션",/ncn
+
+pointX:519297,pointY:356153}
+	pointX/f+:/sp+519297/nnc+,/sp+pointY/f+:/sp+356153/nnc+}/sr
+
+
+남해에서
+	남해/ncn+에서/jca
+
+경주까지
+	경주/ncpa+까지/jxc
+
+달려
+	달리/pvg+어/ecx
+
+오느라
+	오/px+느라/ecs
+
+피곤하고
+	피곤/ncps+하고/jcj
+
+
+배가
+	배/ncn+가/jcs
+
+무지
+	무/ncn+이/jp+지/ecs
+
+고팠지만,
+	고프/paa+아/ep+지만/ecs+,/sp
+
+경주애펜션
+	경주애펜션/ncn
+
+야경이
+	야경/ncn+이/jcc
+
+아름다워
+	아름답/paa+어/ecx
+
+몇
+	몇/nnc
+
+장
+	장/nbu
+
+찍었습니다
+	찍/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+경주애펜션은
+	경주애펜션/ncn+은/jxc
+
+하늘동과
+	하늘/ncn+동/ncn+과/jcj
+
+꽃동,
+	꽃동,/ncn
+
+두
+	두/nnc
+
+동이
+	동/nbu+이/jcc
+
+건물이
+	건물/ncn+이/jcc
+
+서로
+	서로/mag
+
+마주
+	마주/mag
+
+보도록
+	보/px+도록/ecs
+
+배치되어
+	배치/ncpa+되/xsvn+어/ecx
+
+있는데,
+	있/paa+는데/ecs+,/sp
+
+
+두
+	두/nnc
+
+건물
+	건물/ncn
+
+사이에는
+	사이/ncn+에/jca+는/jxc
+
+수영장이
+	수영장/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+여름에
+	여름/ncn+에/jca
+
+가도
+	가/px+아/ecs
+
+좋은
+	좋/paa+은/etm
+
+펜션입니다
+	펜션입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+밤에
+	밤/ncn+에/jca
+
+보는
+	보/px+는/etm
+
+경주애펜션
+	경주애펜션/ncn
+
+야경도
+	야경/ncn+도/jxc
+
+아주
+	아주/mag
+
+럭셔리한
+	럭셔리한/ncn
+
+분위기입니다
+	분위기/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+수영장에는
+	수영장/ncn+에/jca+는/jxc
+
+흔들의자도
+	흔들의자/ncn+도/jxc
+
+준비되어
+	준비/ncpa+되/xsvn+어/ecx
+
+있어
+	있/px+어/ecx
+
+수영을
+	수영/ncn+을/jco
+
+
+즐길다가
+	즐길다/ncn+가/jcs
+
+쉴
+	쉬/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+아주
+	아주/mag
+
+작은
+	작/paa+은/etm
+
+부분까지
+	부분/ncn+까지/jxc
+
+신경을
+	신경/ncn+을/jco
+
+썼더군요
+	쓰/pvg+었/ep+더군/ef+요/jxf
+
+.
+	./sf
+
+
+여름에
+	여름/ncn+에/jca
+
+가족들과
+	가족/ncn+들/ncn+과/jct
+
+가보고
+	가/pvg+아/ecx+보/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+펜션이
+	펜션/ncn+이/jcc
+
+
+바로
+	바로/mag
+
+경주애펜션이었습니다
+	경주애펜션이었습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+남해에서
+	남해/ncn+에서/jca
+
+경주까지
+	경주/ncpa+까지/jxc
+
+오느라
+	오/px+느라/ecs
+
+늦은
+	늦/paa+은/etm
+
+저녁을
+	저녁/ncn+을/jco
+
+먹게됐습니다
+	먹/pvg+게/ecx+되/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+우와
+	우와/ii
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+경주애펜션이
+	경주애펜션/ncn+이/jcc
+
+새로
+	새로/mag
+
+선보인
+	선보이/pvg+ㄴ/etm
+
+바베큐입니다
+	바베큐입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+대나무에
+	대나무/ncn+에/jca
+
+담긴
+	담기/pvg+ㄴ/etm
+
+삼겹살이랑,
+	삼겹살/ncn+이/jcs+랑/jxc+,/sp
+
+새우랑,
+	새우/ncn+랑/jxc+,/sp
+
+소세지
+	소세지/ncn
+
+보이시죠
+	보이/pvg+시/ep+죠/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+펜션
+	펜션/ncn
+
+사장님이
+	사장님/ncn+이/jcc
+
+아이디어입니다
+	아이디어/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+가격이
+	가격/ncn+이/jcc
+
+얼마인지
+	얼마/ncn+이/jp+ㄴ지/ecs
+
+아세요
+	알/pvg+세/ef+요/jxf
+
+.
+	./sf
+
+
+놀라지
+	놀라/pvg+지/ecx
+
+마세요
+	말/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+3만원이랍니다
+	3/nnc+만/nnc+원/nbu+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+정말
+	정말/mag
+
+양도
+	양/ncn+도/jxc
+
+많고
+	많/paa+고/ecc
+
+아주
+	아주/mag
+
+맛있었습니다
+	맛있/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+경주애펜션은
+	경주애펜션은/ncn
+
+각
+	각/mma
+
+방마다
+	방/ncn+마다/jxc
+
+바베큐를
+	바베큐/ncn+를/jco
+
+만들어
+	만들/pvg+어/ecx
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+시설을
+	시설/ncpa+을/jco
+
+따로
+	따로/mag
+
+했더군요
+	하/px+었/ep+더군/ef+요/jxf
+
+.
+	./sf
+
+
+방에
+	방/ncn+에/jca
+
+냄새가
+	냄새/ncn+가/jcs
+
+배이지
+	배/ncn+이/jp+지/ecs
+
+않아서
+	않/px+아/ecx
+
+좋았습니다
+	좋/paa+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+오늘밤
+	오늘/ncn+밤/ncn
+
+묵을
+	묵/pvg+을/etm
+
+숙소
+	숙소/ncn
+
+
+방키를
+	방키/ncn+를/jco
+
+받고
+	받/pvg+고/ecc
+
+방으로
+	방/ncn+으로/jca
+
+들어섭니다
+	들/pvg+어서/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+잤던
+	자/pvg+아/ep+ㄴ/etm
+
+방입니다
+	방/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이름이
+	이름/ncn+이/jcc
+
+솜다리네요
+	솜다리네요/ncn
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+오늘
+	오늘/ncn
+
+동행한
+	동행/ncpa+하/xsva+ㄴ/etm
+
+키다리아저씨와
+	키다리/ncn+아저씨/ncn+와/jcj
+
+재빈짱님의
+	재빈짱님/ncn+의/jcm
+
+
+방은
+	방/ncn+은/jxc
+
+어떻게
+	어떻/pad+게/ecs
+
+생겼는지
+	생기/pvg+었/ep+는지/ecs
+
+방을
+	방/ncn+을/jco
+
+둘러봤습니다
+	두르/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+여기는
+	여기/npd+는/jxc
+
+완전히
+	완전히/mag
+
+호텔
+	호텔/ncn
+
+수준입니다
+	수준/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+방은
+	방/ncn+은/jxc
+
+월풀(스파)욕조까지
+	월풀(스파)욕조까/ncn+이/jp+지/ecs
+
+갖추어
+	갖추/pvg+어/ecx
+
+진
+	지/px+ㄴ/etm
+
+방입니다
+	방/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+보시면
+	보/px+시/ep+면/ecs
+
+아시겠지만,
+	알/pvg+시겠/ep+지만/ecs+,/sp
+
+화장실이
+	화장실/ncn+이/jcc
+
+얼마나
+	얼마나/mag
+
+깨끗한지
+	깨끗/ncps+하/xsms+ㄴ지/ecs
+
+놀라울
+	놀랍/paa+을/etm
+
+정도입니다
+	정도/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+손님들을
+	손님/ncn+들/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+샴푸며,
+	샴푸/ncn+이/jp+며/ecc+,/sp
+
+치약
+	치약/ncn
+
+등
+	등/nbu
+
+모든게
+	모든게/mag
+
+완벽하게
+	완벽/ncps+하/xsms+게/ecs
+
+갖추어져
+	갖추/pvg+어/ecx+지/px+어/ecx
+
+있어
+	있/paa+어/ecs
+
+
+참
+	참/mag
+
+편하게
+	편하/paa+게/ecs
+
+사용할
+	사용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있겠더군요
+	있/px+겠/ep+더군/ef+요/jxf
+
+.
+	./sf
+
+
+각
+	각/mma
+
+방에
+	방/ncn+에/jca
+
+배치된
+	배치/ncpa+되/xsvn+ㄴ/etm
+
+소품들
+	소품/ncn+들/ncn
+
+하나하나에서
+	하나/nnc+하나/nnc+에서/jca
+
+
+손님들을
+	손님/ncn+들/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+이
+	이/mmd
+
+펜션
+	펜션/ncn
+
+사장님이
+	사장님/ncn+이/jcc
+
+정성을
+	정성/ncn+을/jco
+
+엿볼
+	엿보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+손님들을
+	손님/ncn+들/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+아주
+	아주/mag
+
+작은
+	작/paa+은/etm
+
+부분
+	부분/ncn
+
+하나까지
+	하나/nnc+까지/jxc
+
+직접
+	직접/mag
+
+챙기시는
+	챙기/pvg+시/ep+는/etm
+
+사장님이
+	사장님/ncn+이/jcc
+
+정성이
+	정성/ncn+이/jcc
+
+대단하십니다
+	대단/ncps+하/xsms+시/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+화장실
+	화장실/ncn
+
+변기는
+	변기/ncn+는/jxc
+
+비데가
+	비데/ncn+가/jcc
+
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecx
+
+있어
+	있/px+어/ecx
+
+여자분들이
+	여자/ncn+분/ncn+들/xsncc+이/jcc
+
+아주
+	아주/mag
+
+좋아하시겠더라구요
+	좋/paa+아/ecx+하/px+시겠/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+경주애펜션
+	경주애펜션/ncn
+
+사징님에게
+	사징님에/ncn+이/jp+게/ecs
+
+부탁을
+	부탁/ncpa+을/jco
+
+해서
+	하/pvg+어서/ecs
+
+
+건너편
+	건너편/ncn
+
+건물의
+	건물/ncn+의/jcm
+
+방은
+	방/ncn+은/jxc
+
+어떤지구경했습니다
+	어떤지구경했습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+건너편
+	건너편/ncn
+
+동의
+	동/nbu+의/jcm
+
+방도
+	방/ncn+도/jxc
+
+아주
+	아주/mag
+
+특색
+	특색/ncn
+
+있게
+	있/px+게/ecs
+
+꾸몄더군요
+	꾸미/pvg+었/ep+더군/ef+요/jxf
+
+.
+	./sf
+
+
+각
+	각/mma
+
+방은
+	방/ncn+은/jxc
+
+파스텔
+	파스텔/ncn
+
+색상을
+	색상/ncn+을/jco
+
+기본으로
+	기본/ncn+으로/jca
+
+분위기를
+	분위기/ncn+를/jco
+
+살렸고,
+	살/pvg+리/ep+었/ep+고/ecc+,/sp
+
+
+테마가
+	테마/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+벽화를
+	벽화/ncn+를/jco
+
+그려
+	그리/pvg+어/ecx
+
+아주
+	아주/mag
+
+신선한
+	신선/ncn+한/ncn
+
+느낌을
+	느끼/pvg+ㅁ/etn+을/jco
+
+줍니다
+	주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+한단계
+	한단/ncn+계/ncn
+
+업그레이드
+	업그레이드/ncn
+
+된
+	되/pvg+ㄴ/etm
+
+침대를
+	침대/ncn+를/jco
+
+배치,
+	배치/ncpa+,/sp
+
+불을
+	불/ncn+을/jco
+
+끄면
+	끄/pvg+면/ecs
+
+야광그림까지
+	야광/ncn+그림/ncn+까지/jca
+
+
+환상적인
+	환상/ncn+적/ncn+이/jp+ㄴ/etm
+
+분위기를
+	분위기/ncn+를/jco
+
+연출합니다
+	연출/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+이래서
+	이렇/pad+어서/ecs
+
+커플
+	커플/ncn
+
+연인들도
+	연인/ncn+들/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+찾는가
+	찾/pvg+는가/ecs
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+경주애펜션에서
+	경주애펜션/ncn+에서/jca
+
+꿀맛같은
+	꿀맛/ncn+같/xsmn+은/etm
+
+잠을
+	잠/ncn+을/jco
+
+
+자고
+	자/nbn+이/jp+고/ecc
+
+일어나
+	일어나/pvg+아/ecx
+
+보니
+	보/px+니/ecs
+
+날씨가
+	날씨/ncn+가/jcs
+
+화창하니
+	화창/ncps+하/xsms+니/ecs
+
+넘
+	널/pvg+ㅁ/etn
+
+좋았습니다
+	좋/paa+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+파란
+	파랗/paa+은/etm
+
+하늘을
+	하늘/ncn+을/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+꽃동과
+	꽃동/ncn+과/jcj
+
+하늘동,
+	하늘/ncn+동/ncn+,/sp
+
+경주애펜션
+	경주애펜션/ncn
+
+모습을
+	모습/ncn+을/jco
+
+담아봤습니다
+	담/pvg+아/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+주변도
+	주변/ncn+도/jxc
+
+한적하니
+	한적/ncps+하/xsms+니/ecs
+
+휴식을
+	휴식/ncpa+을/jco
+
+취하기
+	취하/pvg+기/etn
+
+아주
+	아주/mag
+
+딱이었습니다
+	딱이었습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+어제
+	어제/ncn
+
+저녁은
+	저녁/ncn+은/jxc
+
+어두워서
+	어둡/paa+어서/ecs
+
+
+잘
+	잘/mag
+
+안보여
+	안보/ncn+이/jp+어/ecs
+
+수영장
+	수영장/ncn
+
+규모가
+	규모/ncn+가/jcs
+
+작은줄
+	작/paa+은/etm+줄/nbn
+
+알았었는데,
+	알/pvg+았었/ep+는데/ecs+,/sp
+
+
+오늘
+	오늘/ncn
+
+아침에
+	아침/ncn+에/jca
+
+수영장을
+	수영장/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+규모가
+	규모/ncn+가/jcs
+
+상당히
+	상당히/mag
+
+큽니다
+	크/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+수영장
+	수영장/ncn
+
+앞에는
+	앞/ncn+에/jca+는/jxc
+
+잔디마당이
+	잔디/ncn+마당/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+더
+	더/mag
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+이래서
+	이렇/pad+어서/ecs
+
+가족단위
+	가족단위/ncn
+
+여행객들도
+	여행객/ncn+들/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+찾는
+	찾/pvg+는/etm
+
+펜션이구나라는
+	펜션이구나라/ncn+는/jxc
+
+생각이
+	생각/ncpa+이/jcc
+
+들더라구요
+	들/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+아이들을
+	아이/ncn+들/ncn+을/jco
+
+위해서
+	위하/pvg+어서/ecs
+
+자전거도
+	자전거/ncn+도/jxc
+
+준비되어
+	준비/ncpa+되/xsvn+어/ecx
+
+있어
+	있/px+어/ecx
+
+맘껏
+	맘껏/mag
+
+자전거를
+	자전거/ncn+를/jco
+
+탈
+	타/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+경주애펜션을
+	경주애펜션/ncn+을/jco
+
+나서다가
+	나서/pvg+다가/ecs
+
+담은
+	담/pvg+은/etm
+
+사진입니다
+	사진/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+펜션
+	펜션/ncn
+
+사장님에게
+	사장님/ncn+에게/jca
+
+저기
+	저기/mad
+
+보이는
+	보이/pvg+는/etm
+
+산
+	사/pvg+ㄴ/etm
+
+이름을
+	이름/ncn+을/jco
+
+여쭈어
+	여쭈/pvg+어/ecx
+
+봤더니
+	보/px+아/ep+니/ecs
+
+국립공원
+	국립공원/ncn
+
+토함산이라고
+	토함산/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+나중에
+	나중/ncn+에/jca
+
+알고봤더니
+	알/pvg+고/ecx+보/px+아/ep+니/ecs
+
+경주애펜션은
+	경주애펜션/ncn+은/jxc
+
+국립공원
+	국립공원/ncn
+
+토함산
+	토함산/ncn
+
+자락의
+	자락/ncn+의/jcm
+
+울창한
+	울창/ncn+한/ncn
+
+숲에
+	숲/ncn+에/jca
+
+들러쌓인
+	들러쌓/ncn+이/jp+ㄴ/etm
+
+별장같은
+	별장/ncn+같/xsmn+은/etm
+
+펜션이었습니다
+	펜션이었습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+경주애펜션에서
+	경주애펜션/ncn+에서/jca
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+잠을
+	잠/ncn+을/jco
+
+자고
+	자/pvg+고/ecc
+
+이제
+	이제/mag
+
+본격적으로
+	본격/ncn+적/ncn+으로/jca
+
+경주여행을
+	경주/ncpa+여행/ncpa+을/jco
+
+시작합니다
+	시작/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+어디를
+	어디/npd+를/jco
+
+먼저
+	먼저/mag
+
+가볼까요
+	가/pvg+아/ecx+보/px+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+봄나들이
+	봄나들이/ncn
+
+경주여행은
+	경주/ncpa+여행/ncpa+은/jxc
+
+계속
+	계속/mag
+
+이어집니다
+	잇/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf

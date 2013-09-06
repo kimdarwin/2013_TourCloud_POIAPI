@@ -1,0 +1,31 @@
+Date:
+2011.11.09
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/2956285fb75f6e064a100faee5a2f13e.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/42bc0c16ee083f899a35e422fff8108f.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/441bd6cd331000e89846171be9d94409.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/56f134713407838f5e91cdabe5a8e335.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/3136c0ae147d79cf69c1f5b4a3b5a5b6.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/47694cf73f659e76d15088157fbc8487.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/332bf06c0d973d5681189f5a8126c377.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/489779fdd0bf5fc42c0e796f80f37509.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/99be22f719e45e475b7231f6c87204ae.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/c5854e4d87c854ae1906caa960357bde.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/e52bb9e9cfe755935ec9bf7027f2297f.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/7395bba06d3bf4a1ebaa862420083e6b.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/9e5b9701c889a9ef0ebed4660393305a.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/8a27f0e5a18ff02f3fc490578756877a.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/8cf2b7892e7ee15df46a91f8a4180a56.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/826deb41e73580e8a60478b6d5a83a09.jpg');
+list_gallery_add_image(257990,'files/attach/images/228818/540/191/affea338269c91156fc010a792d33ea2.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 11월 9일(수) 내장사 트레킹을 하였습니다.올해는 붉은 단풍을 볼새도 없이 가을이 훌쩍 지나가나 봅니다. 내장산 단풍은 유난히 붉고 울창한 단풍 터널이 장관을 이루는데 오늘 내장사 역시 지난 주말 비로 단풍이 모두 지고 없었습니다. 국립공원에 확인을 할 때만 해도 그래도 어느 정도는 남아있겠지 싶어 한자락 기대를 놓지 않고 떠난 여행이었는데 말이에요.
+작년까지만 해도 아무리 추위가 이르고 더위가 길다 하여도 얼추 단풍 시기는 예년과 비슷하였습니다. 한데 올해는 거의 지역적인 차이도 없이 단풍 상태도 썩 좋지 않은채로 잎이 떨어져 너무 아쉽더군요.
+내장사에 도착하여 단풍길로 접어드니 깜짝 놀랄 정도로 이파리는 모두 떨어지고 앙상한 가지만 남아 황량하기만 하였습니다. 아무리 그대로 그렇지 이렇게 깔끔하게 단풍이 지다니…. 눈을 의심했지만 길을 걸어도 걸어도 마찬가지였습니다. 아주 가끔 몇몇 나무에는 빨간색과 초록색 단풍이 남아 있었지만 붉게 타오르는 단풍은 볼 수가 없었습니다. 
+가게를 지날 때 아주머니께 물어보니 지난 금요일까지만 해도 괜찮던 단풍이 비가 오고 난 후 모두 졌다시더군요. 그래도 단풍 나들이를 나온 사람들은 꽤 많았습니다. 아마 마지막 단풍을 보기 위해 내장사를 찾은 것 같은데 그 수가 상당해서 알록달록 사람 구경이 더 화려할 정도였던 것 같습니다.
+내장사를 돌아본 후 트레킹 구간인 자연탐방로로 들어섰습니다. 자연탐방로는 원적계곡을 따라 원적암을 지나고 벽련암으로 내려가는 순환코스입니다. 걷기에 무리가 없고 비자나무와 푹신한 낙엽숲을 따라 걷는 구간인데 단풍만 좀더 남아있었더라면 얼마나 좋았을까 싶더군요. 다행히 벽련암이 가까워지면서 울긋불긋한 단풍이 남아 있어 위안을 삼았습니다. 이 자연탐방로는 깊은 가을 분위기를 느낄 수 있었고 단풍 대신 낙엽이 지는 소리를 들으며 휘적휘적 걸으며 이번 트레킹을 마쳤습니다.
+이번 내장사 단풍은 어느 정도 예상은 하였지만 너무 많은 아쉬움이 남습니다. 화려하지는 않지만 그래도 내장사 단풍을 기대하고 여행에 참여하셨던 분들께서도 아쉬움이 많이 남은 여행이 되셨을 거예요. 이상기후야 어쩔 수 없는 일이지만 혼자 조용히 걸으며 화사한 단풍을 보여드리지 못한 점이 못내 안타깝고 미안한 마음이 가시질 않았습니다.
+그렇지만 그런 점들을 모두 이해해주시고 차분히 여행 진행 할 수 있도록 도와주신 분들께 다시 한번 고맙다는 말씀드립니다. 남은 한 주도 잘 보내시고 깊어가는 가을 여행에서 다시 뵐 수 있기를 바랍니다~이 게시물을...

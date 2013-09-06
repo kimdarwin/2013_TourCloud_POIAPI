@@ -1,0 +1,1068 @@
+위치:충남
+	위치:충남/ncn
+
+당진군
+	당진군/ncn
+
+송악면
+	송악면/ncn
+
+
+필경사
+	필/ncn+경사/ncr
+
+
+서해안고속도로
+	서해안고속도로/ncn
+
+서해대교
+	서해대교/ncn
+
+완공
+	완공/ncpa
+
+이후
+	이후/ncn
+
+수도권에서
+	수도권/ncn+에서/jca
+
+손쉽게
+	손쉽/paa+게/ecs
+
+다녀올
+	다니/pvg+어/ecx+오/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+문학유적지가
+	문학/ncpa+유적지/ncn+가/jcs
+
+바로
+	바로/mag
+
+심훈
+	심훈/ncn
+
+문학의
+	문학/ncpa+의/jcm
+
+산실인
+	산실/ncn+이/jp+ㄴ/etm
+
+필경사(
+	필경사(/ncn
+
+)이에요
+	)/sr+이/jp+에요/ef
+
+.
+	./sf
+
+
+서해안고속도로의
+	서해안고속도로/ncn+의/jcm
+
+송악
+	송악/ncn
+
+나들목을
+	나들목/ncn+을/jco
+
+빠져나온
+	빠지/pvg+어/ecx+나/px+아/ecx+오/px+ㄴ/etm
+
+뒤,
+	뒤/ncn+,/sp
+
+한진나루에
+	한진나루/ncn+에/jca
+
+닿기
+	닿/pvg+기/etn
+
+직전
+	직전/ncn
+
+상록초등학교를
+	상록초등학교/ncn+를/jco
+
+지나자마자
+	지나/pvg+자마자/ecs
+
+필경사라는
+	필경사라/ncn+는/jxc
+
+안내판을
+	안내판/ncn+을/jco
+
+만나게
+	만나/pvg+게/ecs
+
+되요
+	되요/ncn
+
+.
+	./sf
+
+
+논밭사이로
+	논밭/ncn+사이/ncn+로/jca
+
+구불구불하게
+	구불구불하/paa+게/ecs
+
+이어진
+	잇/pvg+어/ecx+지/px+ㄴ/etm
+
+길을
+	길/ncn+을/jco
+
+따라가면
+	따르/pvg+아/ecx+가/px+면/ecs
+
+정비가
+	정비/ncpa+가/jcc
+
+잘
+	잘/mag
+
+된
+	되/pvg+ㄴ/etm
+
+필경사
+	필경사/ncn
+
+주차장에
+	주차장/ncn+에/jca
+
+닿아요
+	닿/pvg+아/ef+요/jxf
+
+.
+	./sf
+
+
+이곳에
+	이곳/npd+에/jca
+
+바로
+	바로/mag
+
+그
+	그/mmd
+
+유명한
+	유명/ncn+한/ncn
+
+소설
+	소설/ncn
+
+상록수의
+	상록수/ncn+의/jcm
+
+작가
+	작/nbn+가/jcc
+
+심훈선생의
+	심훈선생/ncn+의/jcm
+
+집이
+	집/ncn+이/jcc
+
+그대로
+	그대로/mag
+
+보존되어
+	보존/ncpa+되/xsvn+어/ecx
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+심훈선생
+	심훈선생/ncn
+
+고택
+	고택/ncn
+
+앞에는
+	앞/ncn+에/jca+는/jxc
+
+이
+	이/mmd
+
+집의
+	집/ncn+의/jcm
+
+내력을
+	내력/ncn+을/jco
+
+적은
+	적/paa+은/etm
+
+안내문도
+	안내문/ncn+도/jxc
+
+잘
+	잘/mag
+
+만들어져
+	만들/pvg+어/ecx+지/px+어/ecx
+
+방문객들의
+	방문객/ncn+들/ncn+의/jcm
+
+이해를
+	이/nnc+해/nbu+를/jco
+
+돕고
+	돕/pvg+고/ecc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+건물은
+	건물/ncn+은/jxc
+
+남남동향에
+	남남/ncn+동향/ncn+에/jca
+
+정면
+	정면/ncn
+
+5칸
+	5/nnc+칸/nbu
+
+측면
+	측면/ncn
+
+2칸으로
+	2/nnc+칸/nbu+으로/jca
+
+구성되어
+	구성/ncn+되/xsvn+어/ecx
+
+있고,
+	있/px+고/ecc+,/sp
+
+바로
+	바로/mag
+
+앞에는
+	앞/ncn+에/jca+는/jxc
+
+상록수문화관
+	상록수/ncn+문화관/ncn
+
+건물이
+	건물/ncn+이/jcc
+
+들어
+	들/pvg+어/ecx
+
+서
+	서/pvg+어/ecx
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+문화관
+	문화관/ncn
+
+뜰에
+	뜰/ncn+에/jca
+
+서면
+	서/pvg+면/ecs
+
+아산만의
+	아산/ncn+만/ncn+의/jcm
+
+물결과
+	물결/ncn+과/jcj
+
+서해대교가
+	서해대교/ncn+가/jcs
+
+한눈에
+	한눈/ncn+에/jca
+
+잡혀요
+	잡히/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+한편,
+	한/nnc+편/nbu+,/sp
+
+현지의
+	현지/ncn+의/jcm
+
+석비
+	석비/ncn
+
+후면에는
+	후면/ncn+에/jca+는/jxc
+
+선생의
+	선생/ncr+의/jcm
+
+출생지가
+	출생지/ncn+가/jcs
+
+서울
+	서울/ncn
+
+노량진동이라고
+	노량진동/ncn+이/jp+라/ef+고/jcr
+
+기록되어
+	기록/ncpa+되/xsvn+어/ecx
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+이는
+	이/npd+는/jxc
+
+잘못된
+	잘못된/ncn
+
+것이에요
+	것/nbn+이/jp+에요/ef
+
+.
+	./sf
+
+
+필경사
+	필경사/ncn
+
+뒤로는
+	뒤/ncn+로/jca+는/jxc
+
+대숲이
+	대숲/ncn+이/jcc
+
+우거져
+	우거져/ncn
+
+바람이
+	바람/ncn+이/jcc
+
+불
+	불/pvg+ㄹ/etm
+
+때마다
+	때/ncn+마다/jxc
+
+사각사각
+	사각사각/ncn
+
+소리를
+	소리/ncn+를/jco
+
+털어내요
+	털/pvg+어/ecx+내/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+여행자들은
+	여행자/ncn+들/ncn+은/jxc
+
+심훈고택과
+	심훈고택/ncn+과/jcj
+
+문화관을
+	문화관/ncn+을/jco
+
+둘러보며
+	두르/pvg+어/ecx+보/px+며/ecc
+
+상록수의
+	상록수/ncn+의/jcm
+
+스토리를
+	스토리/ncn+를/jco
+
+자연스레
+	자연스레/mag
+
+연상해요
+	연상/ncpa+하/xsva+어/ef+요/jxf
+
+.
+	./sf
+
+
+주인공
+	주인공/ncn
+
+채영신과
+	채영신/ncn+과/jcj
+
+박동혁이
+	박동혁/ncn+이/jcc
+
+이
+	이/mmd
+
+마을에서
+	마을/ncn+에서/jca
+
+농촌계몽운동을
+	농촌/ncn+계몽운동/ncpa+을/jco
+
+폈던가
+	피/pvg+었/ep+던가/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+채영신의
+	채영신/ncn+의/jcm
+
+본
+	보/px+ㄴ/etm
+
+인물
+	인물/ncn
+
+최영신은
+	최영신은/ncn
+
+경기도
+	경기/ncn+도/jxc
+
+반월의
+	반월/ncn+의/jcm
+
+샘골마을에서
+	샘골마을/ncn+에서/jca
+
+농촌운동을
+	농촌/ncn+운동/ncn+을/jco
+
+하던
+	하/pvg+던/etm
+
+여인이고
+	여인/ncn+이/jp+고/ecc
+
+박동혁은
+	박동혁/ncn+은/jxc
+
+심훈의
+	심훈/ncn+의/jcm
+
+조카로
+	조카/ncn+로/jca
+
+역시
+	역시/mag
+
+농촌운동을
+	농촌/ncn+운동/ncn+을/jco
+
+하던
+	하/pvg+던/etm
+
+심재영의
+	심재영/ncn+의/jcm
+
+소설
+	소설/ncn
+
+속
+	속/ncn
+
+인물로
+	인물/ncn+로/jca
+
+두
+	두/nnc
+
+사람은
+	사람/ncn+은/jxc
+
+실제로는
+	실제로/mag+는/jxc
+
+전혀
+	전혀/mag
+
+알지
+	알/pvg+지/ecx
+
+못하는
+	못하/px+는/etm
+
+사이였어요
+	사이/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+어쨌든
+	어쨌든/mag
+
+최영신의
+	최영신/ncn+의/jcm
+
+고향에는
+	고향/ncn+에/jca+는/jxc
+
+수도권전철
+	수도권/ncn+전철/ncn
+
+상록수역이
+	상록수/ncn+역/ncn+이/jcc
+
+세워져
+	세우/pvg+어/ecx+지/px+어/ecx
+
+있고
+	있/px+고/ecc
+
+이곳
+	이곳/npd
+
+심재영의
+	심재영/ncn+의/jcm
+
+고향에는
+	고향/ncn+에/jca+는/jxc
+
+상록초등학교가
+	상록초등학교/ncn+가/jcs
+
+서
+	서/pvg+어/ecx
+
+있어
+	있/px+어/ecx
+
+두
+	두/nnc
+
+사람의
+	사람/ncn+의/jcm
+
+소설속
+	소설/ncn+속/ncn
+
+행로가
+	행로/ncn+가/jcs
+
+완전히
+	완전히/mag
+
+허구의
+	허구/ncpa+의/jcm
+
+산물만은
+	산물/ncn+만은/jxc
+
+아니었음을
+	아니/paa+었/ep+음/etn+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+심훈은
+	심훈/ncn+은/jxc
+
+1933년(1932년이라는
+	1933년(1932년/ncn+이/jp+라/ef+는/etm
+
+설도
+	설/ncn+도/jxc
+
+있다)
+	있/px+다/ef+)/sr
+
+서울생활을
+	서울생활/ncn+을/jco
+
+청산하고
+	청산/ncn+하고/jct
+
+부친이
+	부친/ncn+이/jcc
+
+살고
+	살/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+이곳으로
+	이곳/npd+으로/jca
+
+내려와
+	내리/pvg+어/ecx+오/px+아/ecx
+
+영원의
+	영원/ncps+의/jcm
+
+미소,
+	미소/ncn+,/sp
+
+직녀성
+	직녀성/ncn
+
+등을
+	등/nbu+을/jco
+
+집필하였다
+	집필/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+1934년
+	1934/nnc+년/nbu
+
+독립하면서
+	독립/ncpa+하/xsva+면서/ecc
+
+직접
+	직접/mag
+
+설계하고
+	설계/ncpa+하고/jct
+
+지은
+	지/px+ㄴ/etm
+
+집이
+	집/ncn+이/jcc
+
+바로
+	바로/mag
+
+필경사이에요
+	필경사이에요/ncn
+
+.
+	./sf
+
+
+심훈선생은
+	심훈선생/ncn+은/jxc
+
+1935년
+	1935/nnc+년/nbu
+
+이
+	이/mmd
+
+집에서
+	집/ncn+에서/jca
+
+대표적
+	대표/ncpa+적/ncn
+
+농촌소설인
+	농촌/ncn+소설/ncn+이/jp+ㄴ/etm
+
+상록수를
+	상록수/ncn+를/jco
+
+집필했다
+	집필/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+필경사는
+	필경사/ncn+는/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+때
+	때/ncn
+
+그의
+	그/npp+의/jcm
+
+장조카인
+	장조/ncn+카/ncn+이/jp+ㄴ/etm
+
+고
+	고/ncn
+
+심재영옹이
+	심재영옹/ncn+이/jcc
+
+관리하다가
+	관리/ncpa+하/xsva+다가/ecs
+
+당진군에
+	당진군/ncn+에/jca
+
+기부한
+	기부/ncn+한/ncn
+
+이후
+	이후/ncn
+
+군에서
+	군/ncn+에서/jca
+
+관리를
+	관리/ncn+를/jco
+
+하고
+	하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+마당의
+	마당/ncn+의/jcm
+
+시비는
+	시비/ncn+는/jxc
+
+1996년
+	1996/nnc+년/nbu
+
+한국문인협회가
+	한국문인/ncn+협회/ncn+가/jcs
+
+세운
+	세우/pvg+ㄴ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+비에는
+	비/ncn+에/jca+는/jxc
+
+그날이
+	그날/ncn+이/jcc
+
+오면
+	오/px+면/ecs
+
+이라는
+	이르/paa+어/ef+는/etm
+
+시가
+	시/nbu+가/jcc
+
+새겨져
+	새기/pvg+어/ecx+지/px+어/ecx
+
+있어
+	있/px+어/ecx
+
+생전의
+	생전/ncn+의/jcm
+
+심훈선생
+	심훈선생/ncn
+
+음성을
+	음성/ncn+을/jco
+
+듣는
+	듣/pvg+는/etm
+
+듯하다
+	듯하/paa+다/ef
+
+.
+	./sf
+
+
+그날이
+	그날/ncn+이/jcc
+
+오면
+	오/px+면/ecs
+
+그날이
+	그날/ncn+이/jcc
+
+오며는/
+	오/px+며/ecs+는/jxc+//sp
+
+삼각산이
+	삼각/ncn+산/ncn+이/jcc
+
+일어나
+	일어나/pvg+아/ecx
+
+더덩실
+	더덩실/ncn
+
+춤이라도
+	춤/ncn+이/jp+라/ecs+도/jxc
+
+추고/
+	추/pvg+고/ecc+//sp
+
+한강물이
+	한강물/ncn+이/jcc
+
+뒤집혀
+	뒤집히/pvg+어/ecx
+
+용솟음칠
+	용솟음치/pvg+ㄹ/etm
+
+그날이/
+	그날/ncn+이/jcc+//sp
+
+이
+	이/mmd
+
+목숨
+	목숨/ncn
+
+끊치기
+	끊치/pvg+기/etn
+
+전에
+	전/nbn+에/jca
+
+와
+	오/pvg+아/ecx
+
+주기만
+	주/px+기/etn+만/jxc
+
+하량이면/
+	하량이면//ncn
+
+나는
+	나/npp+는/jxc
+
+밤하늘에
+	밤하늘/ncn+에/jca
+
+나는
+	나/npp+는/jxc
+
+까마귀와
+	까마귀/ncn+와/jct
+
+같이/
+	같/paa+이/xsam+//sp
+
+종로의
+	종/ncn+로/jca+의/jcm
+
+인경을
+	인/nbu+경/xsnu+을/jco
+
+머리로
+	머리/ncn+로/jca
+
+들이받아
+	들이받/pvg+아/ecx
+
+울리오리다/
+	울리오리다//ncn
+
+(중략)/
+	(/sl+중략/ncpa+)/sr+//sp
+
+우렁찬
+	우렁차/paa+ㄴ/etm
+
+그
+	그/mmd
+
+소리를
+	소리/ncn+를/jco
+
+한번이라도
+	한/nnc+번/nbu+이라도/jxc
+
+듣기만
+	듣/pvg+기/etn+만/jxc
+
+하면/
+	하/pvg+면/ecs+//sp
+
+그
+	그/mmd
+
+자리에
+	자리/ncn+에/jca
+
+꺼꾸러져도
+	꺼꾸러져/ncn+도/jxc
+
+눈을
+	눈/ncn+을/jco
+
+감겠소이다
+	감겠소/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+한편
+	한/nnc+편/nbu
+
+필경사
+	필경사/ncn
+
+상록수문화관은
+	상록수/ncn+문화관/ncn+은/jxc
+
+평소에는
+	평소/ncn+에/jca+는/jxc
+
+잠겨있는데
+	잠기/pvg+어/ecx+있/px+는데/ecs
+
+내부를
+	내부/ncn+를/jco
+
+구경하고
+	구경/ncn+하고/jct
+
+싶으면
+	싶/px+으면/ecs
+
+관리를
+	관리/ncn+를/jco
+
+맡고
+	맡/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+윤석주
+	윤석주/ncn
+
+씨(041-356-8405)에게
+	씨(041-356-8405)에/ncn+이/jp+게/ecs
+
+미리
+	미리/mag
+
+연락을
+	연락/ncpa+을/jco
+
+해야해요
+	하/pvg+어야/ecx+하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+가는길
+	가는길/ncn
+
+
+서해안고속도로
+	서해안고속도로/ncn
+
+-
+	-/sd
+
+송악I.C
+	송악I.C/ncn
+
+-
+	-/sd
+
+필경사
+	필경사/ncn
+
+또는
+	또는/maj
+
+당진읍
+	당진읍/ncn
+
+-
+	-/sd
+
+기지시리
+	기지/ncn+이/jp+시/ep+리/ef
+
+-
+	-/sd
+
+630번
+	630/nnc+번/nbu
+
+지방도
+	지방/ncn+도/jxc
+
+-
+	-/sd
+
+부곡리
+	부곡리/ncn
+
+필경사
+	필경사/ncn
+
+코스를
+	코스/ncn+를/jco
+
+이용한다
+	이용/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+필경사
+	필경사/ncn
+
+자세히보기
+	자세히보/ncn+이/jp+기/etn

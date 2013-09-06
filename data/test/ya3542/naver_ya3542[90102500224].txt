@@ -1,0 +1,112 @@
+Title:
+산책 ..끝나지 않은 이야기 ~ 이바디(Ibadi) 
+
+Date:
+2010.12.19 15:40
+
+Content:
+
+
+"2010년 리얼라이브 vol.8 윈터스페셜" 공연이 
+예술의 전당 자유소극장에서 12월 22일부터 시작된다 
+"호란"이 보컬을 맡은 "이바디"는23일..동명타이틀 "산책"으로공연을 가진다 
+"산책"은 리더 거정이음악감독과출연을 맡은영화 "참을 수 없는"삽입곡이다 
+
+
+
+이바디의 "산책"을 듣고 있으면내가 마치햇살 가득한 날에산책하는 것처럼 기분이 UP 되어 온다. 
+
+경쾌한 멜로디와 서정적인가사에서희망과 용기가 솓아나고휴식 같은여유와 편안함이생겨난다. 
+
+산책..(영화"참을수 없는" 삽입곡) ~이바디(Ibadi) (뮤직비디오) 
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc23/2010/12/19/1786/03101223C10F53DE65C3C94823002533CC1_ya3542_logo.jpg';
+	layout.playtime = '246.669';
+	var qsParam = {};
+	qsParam.vid = '6FC003B26E79CA51FA10994D9E29BBA102C3';
+	qsParam.inKey = 'V121907cdb1e9cf4b2368a92a2db734167ffe8dd8201d145e81679fe74ed09e7fa89da92a2db734167ffe';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_03808 = new VideoInfraUGCPlayer('ugcPlayer_03808' ,bean); 
+ugcPlayer_03808.drawPlayLayer(); 
+}
+
+ 
+
+
+
+이바디(Ibadi) ~ 산책..영화"참을수 없는" 삽입곡..(가사) 
+
+창문을 열어봐요 눈부신 날씨에요 바람도 향기로운 오늘 창문을 열어봐요 그대 앞에 열린 이 세상 끝까지 날아가 봐요 붉은 맨발은 풀잎을 밟고가슴 가득히 바람을 안고 처음 눈을 뜬 아이들처럼 바쁜 일상은 잊어버리고 세상 속으로 그리 두려웠나요 잡은 손을 놓기가 원한 적 없는 미련마저 버리질 못하나요 그대 앞에 열린 이 푸른 세상을 들이마셔요 붉은 맨발로 세상을 딛고 열린 가슴에 바람을 담고 처음 태어난 아이들처럼 낡은 눈물을 지워버린다면 때로 이 세상이 그대를 짓눌러도 괜찮아 눈을 뜨고 내일을 마주 봐요 붉은 맨발로 세상을 딛고 열린 가슴에 바람을 담고 처음 태어난 아이들처럼 낡은 눈물을 지워버리고 세상 속으로 
+
+이바디(Ibadi) ~ 산책..영화"참을수 없는" 삽입곡
+왼쪽 부터 리더 거정, 호란, 저스틴 킴 
+
+
+
+
+이바디(Ibadi) 호란의 두번째 이야기
+개인적으로즐겨 좋아하는 노래이다
+속삭이 듯 녹아드는 노래말을.. 눈을 감고 들어본다
+
+.. 끝나지 않은 이야기 .. 
+이바디(Ibadi)~끝나지 않은 이야기(Never Ending Story) 
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc23/2010/12/19/1915/03101223C10F53DE64C3A92173E91E63B05_ya3542_logo.jpg';
+	layout.playtime = '256.209';
+	var qsParam = {};
+	qsParam.vid = '830FD93614E1E4DDA289744B743096029FAD';
+	qsParam.inKey = 'V12394e0527acc83fd66d7aeddfd43c157c3e025f6cfc7460c5bba3bf3003b2d37c217aeddfd43c157c3e';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_00839 = new VideoInfraUGCPlayer('ugcPlayer_00839' ,bean); 
+ugcPlayer_00839.drawPlayLayer(); 
+}
+
+ 
+
+
+
+이바디(Ibadi)~끝나지 않은 이야기 (가사) 
+오랫동안 버리지 못했던 이야기 시작되고 끝이 없이 무한이 이어진 이야기 이 모든걸 밀고 솟아 오를듯 한 기분 이길 끝에 긴 호흡소릴 참으며 어디 날 발견했을 땐 너무 낡았고 제법 여러번 아픔을 견딘 아름답던 존재란걸 알게된 지금 너무 늦은건 아닐까 내가 시린 마음의 문을 열던 한사람 끝이 아닌 작은 시작을 품고 살아온 시간 끝이 아니란 너의 선택에 제법 여러번 아픔을 견딘 
+아름답던 존재란걸 알게된 지금 너무 늦은건 아닌지 아주 덤덤히 미련적인걸 바라던 나의 마음을 들여다 본 널 본순간 너무 차디찬 눈물이 흐르고 눈이 부시듯 너무 선명한 아름다운 존재란 걸 알게된 지금너무 늦은 건 아닌지 우릴 발견했을 땐 너무 낡았고 제법 여러번 아픔을 견딘 우린 너무 아름다운 존재였던걸 너무 모른건 아닐까
+
+이바디(Ibadi) ~ 끝나지 않은 이야기..
+
+
+"호란".. 익히 잘 알고 있는 뮤지션.. 그런데 "호란"은?.. 이바디?..클래지콰이? .. 
+
+"호란" 그녀의 변신은 무죄..아름다움이다.. ?.. 좋은 노래를 들려 주니까 ♪~ ^^* 
+
+
+
+
+	

@@ -1,0 +1,1007 @@
+다대포해수욕장
+	다대포해수욕장/ncn
+
+
+부산광역시
+	부산/ncps+광역시/ncn
+
+
+기간
+	기간/ncn
+
+2009.
+	2009./nnc
+
+8.
+	8./nnc
+
+23~
+	23/nnc+~/sd
+
+2009.
+	2009./nnc
+
+8.
+	8./nnc
+
+23(1일)
+	23/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+연인과
+	연인/ncn+과/jcj
+
+커플여행
+	커플/ncn+여행/ncpa
+
+
+세계
+	세계/ncn
+
+기네스북에
+	기네스북/ncn+에/jca
+
+오른
+	오르/pvg+ㄴ/etm
+
+꿈의
+	꿈/ncn+의/jcm
+
+분수
+	분수/ncn
+
+다대포
+	다대포/ncn
+
+낙조
+	낙조/ncn
+
+분수
+	분수/ncn
+
+
+우연히
+	우연히/mag
+
+낙조분수라는
+	낙조/ncn+분수/ncn+라는/jcm
+
+것을
+	것/nbn+을/jco
+
+알게
+	알/pvg+게/ecs
+
+되어서
+	되/pvg+어서/ecs
+
+무작정
+	무작정/mag
+
+찾아가게
+	찾/pvg+아/ecx+가/px+게/ecs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+오늘의
+	오늘/ncn+의/jcm
+
+경로
+	경/ncn+로/jca
+
+마산시외버스터미널-사상터미널-횡단보도
+	마산시외버스터미널-사상터미널-횡단보/ncn+도/jxc
+
+건너
+	건너/pvg+어/ecx
+
+위쪽의
+	위쪽/ncn+의/jcm
+
+버스
+	버스/ncn
+
+타는
+	타/pvg+는/etm
+
+곳에서
+	곳/nbu+에서/jca
+
+
+138-1번
+	138/nnc+-1/nnc+번/nbu
+
+승차-신평지하철역
+	승차-신평지하철역/ncn
+
+하차-2,11,338번
+	하차/ncpa+-/sd+2/nnc+,/sp+11,338/nnc+번/nbu
+
+승차
+	승차/ncpa
+
+후
+	후/ncn
+
+다대포
+	다대포/ncn
+
+해수욕장
+	해수욕장/ncn
+
+하차
+	하차/ncn
+
+
+다대포
+	다대포/ncn
+
+해수욕장
+	해수욕장/ncn
+
+-
+	-/sd
+
+몰운대
+	몰운대/ncn
+
+-
+	-/sd
+
+다대포
+	다대포/ncn
+
+낙조분수
+	낙조/ncn+분수/ncn
+
+
+약
+	약/ncn
+
+2시간
+	2/nnc+시간/nbu
+
+정도
+	정도/ncn
+
+시간이
+	시간/ncn+이/jcc
+
+걸려(다대포가
+	걸려(다대포/ncn+가/jcs
+
+생각보다
+	생각/ncpa+보다/jca
+
+너무
+	너무/mag
+
+멀었지만,,오랜만에
+	멀/paa+었/ep+지만/ecs+,/sp+,/sp+오랜만/ncn+에/jca
+
+버스
+	버스/ncn
+
+타는
+	타/pvg+는/etm
+
+낭만을
+	낭만/ncn+을/jco
+
+즐겼다)
+	즐기/pvg+었/ep+다/ef+)/sr
+
+
+드디어
+	드디어/mag
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+다대포
+	다대포/ncn
+
+...
+	.../se
+
+
+낙조분수가
+	낙조/ncn+분수/ncn+가/jcs
+
+어디
+	어디/mad
+
+있을
+	있/px+을/etm
+
+지
+	지/nbn
+
+둘러보려는데
+	두르/pvg+어/ecx+보/px+려는/etm+데/nbn
+
+다대포의
+	다대포/ncn+의/jcm
+
+입구에
+	입구/ncn+에/jca
+
+덩그러니
+	덩그러/ncn+이/jp+니/ef
+
+
+표지판과
+	표지판/ncn+과/jcj
+
+운영시간표가
+	운영/ncpa+시간표/ncn+가/jcs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+(쉽게
+	(/sl+쉽/paa+게/ecs
+
+발견할
+	발견/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.)
+	./sf+)/sr
+
+
+(클릭하면
+	(/sl+클릭/ncpa+하/xsva+면/ecs
+
+크게
+	크/paa+게/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.)
+	./sf+)/sr
+
+
+오후의
+	오후/ncn+의/jcm
+
+낙조
+	낙조/ncn
+
+분수의
+	분수/ncn+의/jcm
+
+모습
+	모습/ncn
+
+..
+	./sf+./sf
+
+
+고정
+	고정/ncpa
+
+분수
+	분수/ncn
+
+시간으로
+	시간/nbu+으로/jca
+
+분수에
+	분수/ncn+에/jca
+
+뛰어들어서
+	뛰어들/pvg+어서/ecs
+
+놀고
+	놀/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+아이들의
+	아이/ncn+들/ncn+의/jcm
+
+웃음에
+	웃음/ncn+에/jca
+
+절로
+	절/ncn+로/jca
+
+미소가
+	미소/ncn+가/jcs
+
+지어졌다
+	지/px+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+음악분수
+	음악/ncn+분수/ncn
+
+옆
+	옆/ncn
+
+무대에서
+	무대/ncn+에서/jca
+
+공연을
+	공연/ncps+을/jco
+
+구경하고
+	구경/ncn+하고/jct
+
+있는
+	있/px+는/etm
+
+모습과
+	모습/ncn+과/jcj
+
+다대포
+	다대포/ncn
+
+해수욕장의
+	해수욕장/ncn+의/jcm
+
+모습
+	모습/ncn
+
+...
+	.../se
+
+
+날씨가
+	날씨/ncn+가/jcs
+
+흐린
+	흐리/paa+ㄴ/etm
+
+날이라
+	날/ncn+이/jp+라/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+몰라도
+	모르/pvg+아/ecs
+
+다른
+	다른/mma
+
+여름의
+	여름/ncn+의/jcm
+
+해수욕장과는
+	해수욕장/ncn+과/jct+는/jxc
+
+사뭇
+	사뭇/mag
+
+다른
+	다르/paa+ㄴ/etm
+
+모습을
+	모습/ncn+을/jco
+
+보여주었다
+	보이/pvg+어/ecx+주/px+었/ep+다/ef
+
+.
+	./sf
+
+
+우선
+	우선/mag
+
+몰운대
+	몰운대/ncn
+
+관광
+	관광/ncpa
+
+!!
+	!/sf+!/sf
+
+
+몰운대는
+	몰운대/ncn+는/jxc
+
+다대곶
+	다대곶/ncn
+
+일대는
+	일/nnc+대/nbu+는/jxc
+
+해류의
+	해류/ncn+의/jcm
+
+영향으로
+	영향/ncn+으로/jca
+
+짙은
+	짙/paa+은/etm
+
+안개가
+	안개/ncn+가/jcs
+
+끼어
+	끼/pvg+어/ecx
+
+시야가
+	시야/ncn+가/jcs
+
+자주
+	자주/mag
+
+가려지기
+	가리/pvg+어/ecx+지/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+몰운대라
+	몰운대/ncn+이/jp+라/ecs
+
+하였다고
+	하/px+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+조용히
+	조용히/mag
+
+혼자
+	혼자/mag
+
+걷을면서
+	걷을면서/ncn
+
+산책하기에
+	산책/ncpa+하/xsva+기/etn+에/jca
+
+좋았다
+	좋/paa+아/ep+다/ef
+
+..
+	./sf+./sf
+
+
+넓은
+	넓/paa+은/etm
+
+바다를
+	바다/ncn+를/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있고
+	있/px+고/ecc
+
+..
+	./sf+./sf
+
+
+울창한
+	울창/ncn+한/ncn
+
+숲길도
+	숲길/ncn+도/jxc
+
+거닐
+	거닐/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+몰운대
+	몰운대/ncn
+
+...
+	.../se
+
+
+태종대와
+	태종대/ncn+와/jcj
+
+몰운대
+	몰운대/ncn
+
+두
+	두/nnc
+
+개가
+	개/nbu+가/jcc
+
+유명하다고
+	유명/ncps+하/xsms+다/ef+고/jcr
+
+하나
+	하나/nnc
+
+..
+	./sf+./sf
+
+
+아직
+	아직/mag
+
+태종대를
+	태종대/ncn+를/jco
+
+못
+	못/mag
+
+가봐서
+	가/pvg+아/ecx+보/px+아/ecx
+
+비교하지
+	비교/ncpa+하/xsva+지/ecx
+
+못하지만
+	못하/pvg+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+한적하게
+	한적/ncps+하/xsms+게/ecs
+
+걷기
+	걷/pvg+기/etn
+
+좋은
+	좋/paa+은/etm
+
+곳이었다
+	곳/ncn+이/jp+었/ep+다/ef
+
+...
+	.../se
+
+
+가족,
+	가족/ncn+,/sp
+
+연인끼리
+	연인/ncn+끼리/jxc
+
+오는
+	오/px+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+많았고
+	많/paa+아/ep+고/ecc
+
+...
+	.../se
+
+
+낚시를
+	낚시/ncpa+를/jco
+
+하는
+	하/pvg+는/etm
+
+분들도
+	불/pvg+ㄴ/etm+들/nbn+도/jxc
+
+많았다
+	많/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+친구와
+	친구/ncn+와/jcj
+
+만나해물
+	만나/ncn+해물/ncn
+
+바지락
+	바지락/ncn
+
+칼국수를
+	칼국수/ncn+를/jco
+
+먹고
+	먹/pvg+고/ecc
+
+음악분수
+	음악/ncn+분수/ncn
+
+시간이
+	시간/ncn+이/jcc
+
+되서
+	되/nbu+서/jca
+
+주섬주섬
+	주섬주섬/mag
+
+가다가
+	가/pvg+아/ecx+가/px+아/ecx
+
+...
+	.../se
+
+
+수많은
+	수많/paa+은/etm
+
+사람들로
+	사람들/ncn+로/jca
+
+인해서
+	인하/paa+어서/ecs
+
+
+깜작
+	깜작/ncn
+
+놀라고
+	놀라/pvg+고/ecc
+
+말았다
+	말/px+아/ep+다/ef
+
+...
+	.../se
+
+
+드디어
+	드디어/mag
+
+음악과
+	음악/ncn+과/jct
+
+함께
+	함께/mag
+
+시작되는
+	시작/ncpa+되/xsvn+는/etm
+
+낙조분수
+	낙조/ncn+분수/ncn
+
+쇼.
+	쇼/ncpa+./sf
+
+..
+	./sf+./sf
+
+
+사전에
+	사전/ncn+에/jca
+
+알아봤던
+	알/pvg+아/ecx+보/px+아/ep+ㄴ/etm
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+영상으로는
+	영상/ncn+으로/jca+는/jxc
+
+표현할
+	표현/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+없다는
+	없/paa+다/ef+는/etm
+
+게
+	것/nbn+이/jcs
+
+
+나의
+	나/npp+의/jcm
+
+생각이다
+	생각/ncpa+이/jp+다/ef
+
+...
+	.../se
+
+
+생각보다
+	생각/ncpa+보다/jca
+
+너무
+	너무/mag
+
+아름답고
+	아름답/paa+고/ecc
+
+멋있었다
+	멋있/paa+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+특히
+	특히/mag
+
+아파트
+	아파트/ncn
+
+높이와
+	높이/ncn+와/jct
+
+비슷하게
+	비슷/ncps+하/xsms+게/ecs
+
+물을
+	물/ncn+을/jco
+
+쏘아
+	쏘/pvg+아/ecx
+
+올리는
+	올리/pvg+는/etm
+
+그
+	그/mmd
+
+장면에서는
+	장면/ncn+에서/jca+는/jxc
+
+모두가
+	모두/ncn+가/jcs
+
+하나
+	하/pvg+나/ecs
+
+되어
+	되/pvg+어/ecx
+
+소리를
+	소리/ncn+를/jco
+
+질렀다
+	지르/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+다대포
+	다대포/ncn
+
+낙조분수
+	낙조/ncn+분수/ncn
+
+홈페이지에서
+	홈페이지/ncn+에서/jca
+
+노래를
+	노래/ncn+를/jco
+
+신청
+	신청/ncpa
+
+받아서
+	받/pvg+아/ecx
+
+틀어준다고
+	틀/pvg+어/ecx+주/px+ㄴ다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+...
+	.../se
+
+
+참고해두면
+	참/pvg+고/ecx+하/px+어/ecx+두/px+면/ecs
+
+좋을
+	좋/paa+을/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+..
+	./sf+./sf
+
+
+음악분수
+	음악/ncn+분수/ncn
+
+쇼가
+	쇼/ncpa+가/jcc
+
+끝나고
+	끝나/pvg+고/ecc
+
+...
+	.../se
+
+
+잠시
+	잠시/mag
+
+정비를
+	정비/ncpa+를/jco
+
+한
+	하/pvg+ㄴ/etm
+
+후
+	후/ncn
+
+또
+	또/maj
+
+분수를
+	분수/ncn+를/jco
+
+틀어준다
+	틀/pvg+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+물에서
+	물/ncn+에서/jca
+
+노는
+	놀/pvg+는/etm
+
+사람들과
+	사람들/ncn+과/jct
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍는
+	찍/pvg+는/etm
+
+사람들로
+	사람들/ncn+로/jca
+
+또다시
+	또다시/mag
+
+분수가
+	불/pvg+ㄴ/etm+수/nbn+가/jcc
+
+들썩
+	들썩/mag
+
+거렸다
+	것/nbn+이/jp+리/ep+었/ep+다/ef
+
+.
+	./sf
+
+
+다대포
+	다대포/ncn
+
+해수욕장-몰운대-다대포
+	해수욕장-몰운대-다대포/ncn
+
+낙조분수
+	낙조/ncn+분수/ncn
+
+
+반나절정도
+	반나절/ncn+정도/ncn
+
+시간을
+	시간/ncn+을/jco
+
+내어
+	내/pvg+어/ecx
+
+연인과
+	연인/ncn+과/jct
+
+함께
+	함께/mag
+
+가면
+	가/px+면/ecs
+
+좋은
+	좋/paa+은/etm
+
+곳
+	곳/ncn
+
+일
+	일/nnc
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+식사는
+	식사/ncpa+는/jxc
+
+다대포에서
+	다대포/ncn+에서/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+해물
+	해물/ncn
+
+바지락
+	바지락/ncn
+
+칼국수
+	칼국수/ncn
+
+추천
+	추천/ncpa
+
+!!
+	!/sf+!/sf
+
+
+어떤가,끌린다면
+	어떤가,끌린다/ncn+이/jp+면/ecs
+
+클릭
+	클릭/ncpa
+
+!
+	!/sf

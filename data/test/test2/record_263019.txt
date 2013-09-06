@@ -1,0 +1,35 @@
+Title:
+9/4 오대산 옛길 걷기 후기
+
+Date:
+2012.09.04
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(458513,'files/attach/images/64/019/263/fe28adbdae341b0aff40e9c2574b542b.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/8825e4ea3088ef65b46bc6d572131196.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/0c2dade2c8f7dba77db7316ff52c8c89.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/da6522770fad03135f3ddfb5e8dfe34b.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/99669ec6fcc29ba49d2353dbf695fa64.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/02d2201b022e8c574d4b8a218482d50d.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/22cc41bf1e61fdee564c2d6a4d00f55f.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/9393cbea38acd4dd16d87c8914696c1b.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/1a18336f0bc45c1fd5dddbb8a67f762a.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/1c525798933a0dcd028726312bd67081.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/66fefe35b03074ba1420d14c7a3d6591.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/bfa982497f3b523640cb01471d5d9dd6.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/6bb019bcc0b48240cc3542e5d0b7726d.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/53e9acdb16d14d672e7ad2d66b70b18b.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/4834c8d86116d5a5651fe2c9ad9da732.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/5dcb7620d35bcaaeb5b5b6cf3e39785e.jpg');
+list_gallery_add_image(458513,'files/attach/images/64/019/263/95d68628f1cceff8ea65e132fac54767.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 9월 4일(화) 오대산옛길 걷기를 하였습니다.
+오대산 옛길은 월정사부터 상원사까지 오대천 옆으로 옛길을 복원한 약 8km 구간입니다.
+거리가 짧은 것 같지만 상원사와 월정사 두 곳의 걸출한 사찰까지 돌아보는 코스이기 때문에 생각보다 꽤 많이 걷는 셈이죠.
+처음에는 상원사를 돌아보고 주차장에 모인 다음 자유롭게 옛길을 걸을 예정이었지만 지난 비로 아직 수위가 줄지 않은 오대천이 위험할 듯하여 무엇보다 안전이 최우선이어서 이번에는 같이 걷기로 하였습니다.
+옛길 진입에 맞춰 비가 조금씩 오락가락하기도 하고 숲은 쌀쌀한 초가을 같더군요. 약 1시간 정도 옛길을 걸었을까, 쓰러진 나무를 헤치고 걷는 순간 앞서 가던 선두가 되돌아오더군요. 징검다리가 아직도 물에 잠겨 건너기는 무리여서 임도로 돌아나온 후로는 마음 편하게 임도를 따라 걸었습니다. 이 임도도 탁 트인 풍경을 눈앞에 두고 걷기에 나쁜 길은 아니지만 애초에 걷기로 했던 옛길을 걷지 못한 아쉬움도 남더군요. 오대산장 주변에서 점심식사릉 하고 그 이후로는 자유롭게 임도를 따라 걸었습니다.
+나중에 보니 어느 구간부터는 옛길로 진입하여 걸은 분들도 꽤 많으시더군요. 아쉬움이 남아 일부 구간이라도 옛길을 더 걸으셨다는데 다행히 별다른 무리는 없었고 오히려 호젓하고 좋으셨다는 말씀에 조금이나마 위안이 되더군요. 
+한 달만 지나면 오대산 일대는 붉은 단풍으로 멋진 모습으로 변해 있을 것입니다. 저도 물론 임도로 걸었지만 이번에 임도만 걸었던 분들께서는 별처럼 빛나는 붉은 단풍이 물든 가을에 꼭 다시 한번 기회를 마련해서 이번의 아쉬움을 덜어보시기를 권해드립니다.
+여행 동안 비로 인한 불편은 없었지만 서울로 올라오는 길에는 많은 비가 내리더군요. 다행히 큰 정체 없이 늦지 않게 잘 도착하였습니다. 평일 여행이라 한가로웠고 또 한적하여 여유로웠던 점도 좋았고 함께 하신 회원분들 모두 스스럼없이 여행을 잘 즐기시는 모습이 참 보기 좋았습니다. 오늘 남은 시간 피로 잘 푸시고 남은 주일도 활기차게 보내시기 바랍니다~이 게시물을...

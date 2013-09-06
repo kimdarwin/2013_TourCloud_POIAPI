@@ -1,0 +1,881 @@
+수채화
+	수채화/ncn
+
+풍경
+	풍경/ncn
+
+..
+	./sf+./sf
+
+
+와니와
+	와니/ncn+와/jct
+
+준하
+	준하/pvg+어/ecx
+
+중에서
+	중/nbn+에서/jca
+
+..
+	./sf+./sf
+
+
+수채화
+	수채화/ncn
+
+같은
+	같/paa+은/etm
+
+와니와
+	와니/ncn+와/jcj
+
+준하의
+	준하/ncn+의/jcm
+
+사랑
+	사랑/ncn
+
+이야기
+	이야기/ncpa
+
+..
+	./sf+./sf
+
+
+벌써
+	벌써/mag
+
+10년
+	10/nnc+년/nbu
+
+세월이
+	세/nnc+월/nbu+이/jcc
+
+흘러갔어도
+	흐르/pvg+어/ecx+가/px+아/ep+아/ecs
+
+겨울
+	겨울/ncn
+
+끝자락에
+	끝자락/ncn+에/jca
+
+불어오는봄의
+	불어오는봄/ncn+의/jcm
+
+따스한
+	따스/ncps+하/xsms+ㄴ/etm
+
+입김이
+	입김/ncn+이/jcc
+
+느켜지면
+	느켜지/ncn+이/jp+면/ecs
+
+
+아주
+	아주/mag
+
+가끔
+	가끔/mag
+
+와니와
+	와니/ncn+와/jcj
+
+준하의
+	준하/ncn+의/jcm
+
+아주
+	아주/mag
+
+잔잔한
+	잔잔/ncn+한/ncn
+
+순정영화~수채와
+	순정/ncn+영화/ncn+~/sd+수채/ncn+와/jct
+
+같은
+	같/paa+은/etm
+
+영상이
+	영상/ncn+이/jcc
+
+떠오르고수채화같은
+	떠오르고수채화같/ncn+은/jxc
+
+그들의
+	그/npp+들/xsn+의/jcm
+
+사랑이야기가
+	사랑/ncn+이야기/ncpa+가/jcc
+
+그리워
+	그립/paa+어/ecx
+
+진다
+	지/pvg+ㄴ다/ef
+
+
+만화
+	만화/ncn
+
+캐릭터와싱크되는
+	캐릭터와싱크되/ncn+는/jxc
+
+아름다운영상~
+	아름다운/ncn+영상/ncn+~/sd
+
+한
+	하/pvg+ㄴ/etm
+
+컷.
+	컷/ncn+./sf
+
+.
+	./sf
+
+
+한
+	하/pvg+ㄴ/etm
+
+컷은
+	컷/nbu+은/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+폭의
+	폭/nbu+의/jcm
+
+수채화
+	수채화/ncn
+
+감동이다
+	감동/ncpa+이/jp+다/ef
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc25/2011/02/25/1874/03100223E11553BE4AC3293A739A18833C5_ya3542_logo.
+	net/blogucc25/2011/02/25/1874/03100223E11553BE4AC3293A739A18833C5_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'412.
+	'/sr+412./nnc
+
+18';
+	18/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'24FC4DA9E1F7CE55E66056C6A3282113CD28';
+	'24FC4DA9E1F7CE55E66056C6A3282113CD28/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1297adf41f830ac087456d152daa9b5f309032a764a830f25c5724021f1d792310976d152daa9b5f3090';
+	'V1297adf41f830ac087456d152daa9b5f309032a764a830f25c5724021f1d792310976d152daa9b5f3090/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'MUSIC';
+	'/sl+MUSIC/f+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_02596
+	ugcPlayer_02596/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_02596'
+	VideoInfraUGCPlayer('ugcPlayer_02596'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_02596
+	ugcPlayer_02596/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+와니와
+	와니/ncn+와/jct
+
+준하는
+	준하/pvg+는/etm
+
+바보스럽게도참
+	바보스럽게도참/ncn
+
+착하고
+	착하/paa+어/ef+고/jcr
+
+..
+	./sf+./sf
+
+
+동화
+	동화/ncn
+
+속
+	속/ncn
+
+얘기처럼그들
+	얘기처럼그들/ncn
+
+사랑도
+	사랑/ncn+도/jxc
+
+예쁘고
+	예쁘/paa+고/ecc
+
+착하다
+	착하/paa+다/ef
+
+
+요즘~
+	요즘/ncn+~/sd
+
+사랑방식=
+	사랑/ncn+방/ncn+식/xsncc+=/sy
+
+사랑도
+	사랑/ncn+도/jxc
+
+인스탄트
+	인스탄트/ncn
+
+같은
+	같/paa+은/etm
+
+..
+	./sf+./sf
+
+
+이기적인
+	이기/ncn+적/ncn+이/jp+ㄴ/etm
+
+사랑보다야
+	사랑/ncn+보다/jca+이/jp+야/ef
+
+..
+	./sf+./sf
+
+
+바보같은
+	바보/ncn+같/xsmn+은/etm
+
+사랑이
+	사랑/ncn+이/jcc
+
+좋다
+	좋/paa+다/ef
+
+
+I
+	I/f
+
+Wish
+	Wish/f
+
+You
+	You/f
+
+Love~
+	Love/f+~/sd
+
+Lisa
+	Lisa/f
+
+Ono
+	Ono/f
+
+(와니와
+	(와니/ncn+와/jct
+
+준하
+	준하/pvg+어/ecx
+
+OST)
+	OST/f+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc25/2011/02/25/84/03100223E11553BE4BC3093B73FB3223103_ya3542_logo.
+	net/blogucc25/2011/02/25/84/03100223E11553BE4BC3093B73FB3223103_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'246.
+	'/sr+246./nnc
+
+219';
+	219/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'13BE739F6E89C6B1E2FBAA262A48BDA140C5';
+	'13BE739F6E89C6B1E2FBAA262A48BDA140C5/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V128c99b2d000ed34ec21e7aaad8a72f2b5fcfe946fdab2ffdfc58dcca3eeb381a601e7aaad8a72f2b5fc';
+	'V128c99b2d000ed34ec21e7aaad8a72f2b5fcfe946fdab2ffdfc58dcca3eeb381a601e7aaad8a72f2b5fc/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'MUSIC';
+	'/sl+MUSIC/f+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_07754
+	ugcPlayer_07754/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_07754'
+	VideoInfraUGCPlayer('ugcPlayer_07754'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_07754
+	ugcPlayer_07754/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr

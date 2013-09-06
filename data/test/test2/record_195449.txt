@@ -1,0 +1,25 @@
+Date:
+2011.12.19
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(564892,'files/attach/images/228818/449/195/fd237016b6cda58f5214d82f621c3259.jpg');
+list_gallery_add_image(564892,'files/attach/images/228818/449/195/e4a81f481b27b1c014e4d3c95c384a05.jpg');
+list_gallery_add_image(564892,'files/attach/images/228818/449/195/a078a43327b6da7ef6d23bd119da4f12.jpg');
+list_gallery_add_image(564892,'files/attach/images/228818/449/195/28bfc013939df73192c8675928adf0c2.jpg');
+list_gallery_add_image(564892,'files/attach/images/228818/449/195/0e7a72a4b3b3255aedbfcd775436006f.jpg');
+list_gallery_add_image(564892,'files/attach/images/228818/449/195/da755ee3e3ce5bafbf6b441bc681348b.jpg');
+list_gallery_add_image(564892,'files/attach/images/228818/449/195/99693302554cbdc4c95e3b6b3838d3b9.jpg');
+list_gallery_add_image(564892,'files/attach/images/228818/449/195/ef6e1e9c2fd8c28201081c5c0929eb42.jpg');
+list_gallery_add_image(564892,'files/attach/images/228818/449/195/dec17f6a40f6b691ba9cd224abdfccff.jpg');
+list_gallery_add_image(564892,'files/attach/images/228818/449/195/9606df297be2f84daed8c78cb90ee14c.jpg');
+list_gallery_add_image(564892,'files/attach/images/228818/449/195/11c4571c019695dcfa0d21a111a7a891.jpg');
+list_gallery_add_image(564892,'files/attach/images/228818/449/195/931ccd801e216dbe3decccd2299587aa.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+12월 18일(일) 아름다운 여행으로 주문진 바닷길을 걸었습니다. 강릉의 사천항에서 동해안을 거슬러 올라가 주문진해수욕장까지 약 13km를 걷는 코스입니다. 거리는 다소 길지만 낮은 구릉 하나만 넘으면 거의 평지여서 그리 힘들지는 않은 길입니다.
+이 날 여행은 날씨가 너무 좋아서 짙푸른 동해 바다를 마음껏 즐길 여행이었습니다. 파란 하늘 아래 선명한 바다 풍경을 원없이 볼 수 있었습니다. 바다는 옥색을 띠기도 하고 또 남색을 띠기도 하고, 하늘색, 푸른색, 짙푸른색 등 다양하고 오묘한 물빛을 보여주더군요. 게다가 며칠 전에 내린 눈이 녹지 않아서 백사장의 흰 눈과 파란 바다를 한눈에 보는 호사를 누리기도 했습니다.
+주문진 바닷길 코스는 다양한 바닷가의 모습을 볼 수 있는 코스입니다. 작은 포구를 지나기도 하고 긴 해수욕장을 따라 백사장과 송림을 지나기도 하고, 큰 항구인 주문진항을 돌아보기도 하고, 소나무 울창한 작은 고개를 넘기도 하고, 북적이는 건어물 시장을 지나기도 하고, 아기자기한 해안공원이 아들바위공원을 지나기도 합니다. 그리고 바닷가 바위마다 옹송옹송 모여 앉은 갈매기들도 신선한 느낌으로 다가옵니다.
+또 이 코스는 동해 바다를 즐기기에도 좋지만 바닷가 사람들의 생활 풍경을 볼 수도 있는 코스입니다. 코스 중간중간 포구와 상가 그리고 마을이 이어져 사람 사는 풍경을 볼 수 있죠. 어망을 정리하는 어부, 물고기를 다듬는 할머니, 손님을 기다리는 작은 횟집의 아주머니…
+이렇듯 다양하고 생동감 넘치는 풍경도 좋았지만 이번 여행은 날씨가 너무 좋아서 여행의 즐거움이 배가된 여행이었습니다. 그리 춥지도 않으면서 하늘이 쨍하게 열려 파란 하늘과 바다를 한껏 볼 수 있었습니다. 이번 주문진 바닷길 걷기에 참여하신 분들 모두 맑았던 하늘과 바다를 생각하며 힘차게 겨울을 보내시기 바랍니다~
+이 게시물을...

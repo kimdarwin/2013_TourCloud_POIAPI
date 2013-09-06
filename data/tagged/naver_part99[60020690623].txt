@@ -1,0 +1,353 @@
+동대문,
+	동/nbu+대/xsnu+문/nbu+,/sp
+
+경복궁,
+	경복궁,/ncn
+
+청계천,
+	청계/ncn+천/ncn+,/sp
+
+인사동,
+	인사/ncn+동/ncn+,/sp
+
+남대문시장,
+	남대문시장/ncn+,/sp
+
+서울시청
+	서울시청/ncn
+
+.....
+	.../se+./sf+./sf
+
+
+더
+	더/mag
+
+돌아다니고
+	돌아다니/pvg+고/ecc
+
+싶었지만,
+	싶/px+었/ep+지만/ecs+,/sp
+
+아이
+	아이/ncn
+
+둘
+	둘/nnc
+
+데리고
+	데/nbn+이/jp+리/ef+고/jcr
+
+다니는
+	다니/pvg+는/etm
+
+게
+	것/nbn+이/jcs
+
+장난이
+	장난/ncn+이/jcc
+
+아니었다
+	아니/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+나중에
+	나중/ncn+에/jca
+
+애들
+	애/ncn+들/xsncc
+
+커서
+	크/paa+어서/ecs
+
+한번
+	한/nnc+번/nbu
+
+더
+	더/mag
+
+와야지
+	오/px+아/ecs
+
+.....
+	./sy+.../se+./sy
+
+.
+	./sf
+
+
+가을이와
+	가을/ncn+이와/jcj
+
+노을이에게
+	노을/ncn+이에게/jca
+
+좋은
+	좋/paa+은/etm
+
+경험이
+	경험/ncpa+이/jcc
+
+되었으면
+	되/pvg+었/ep+으면/ecs
+
+좋겠다
+	좋/paa+겠/ep+다/ef
+
+.
+	./sf
+
+
+동대문을
+	동/nbu+대/xsnu+문/nbu+을/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+...
+	.../se
+
+
+아빠가
+	아빠/ncn+가/jcs
+
+어렵게
+	어렵/paa+게/ecs
+
+찾아낸
+	찾/pvg+아/ecx+내/px+ㄴ/etm
+
+그
+	그/mmd
+
+유명한
+	유명/ncn+한/ncn
+
+생선골목의
+	생선/ncn+골목/ncn+의/jcm
+
+생선구이집이다
+	생선/ncn+구이/ncn+집/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+손님이
+	손님/ncn+이/jcc
+
+많은
+	많/paa+은/etm
+
+이유를
+	이유/ncn+를/jco
+
+알
+	알/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같았다
+	같/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+청계천에서
+	청계/ncn+천/ncn+에서/jca
+
+(정말
+	(/sl+정말/mag
+
+길었다
+	길/paa+었/ep+다/ef
+
+.)
+	./sf+)/sr
+
+
+경복궁에
+	경복궁/ncn+에/jca
+
+가서
+	가/pvg+서/ecs
+
+.....
+	./sy+.../se+./sy
+
+.
+	./sf
+
+
+신랑이
+	신랑/ncn+이/jcc
+
+왕이
+	왕/ncr+이/jcc
+
+살던
+	살/pvg+던/etm
+
+곳이라고
+	곳/ncn+이/jp+라/ef+고/jcr
+
+설명을
+	설명/ncpa+을/jco
+
+해
+	하/pvg+어/ecx
+
+줬더니,
+	주/px+었/ep+더니/ecs+,/sp
+
+우리
+	우리/npp
+
+가을이
+	가을/ncn+이/jcc
+
+왈
+	왈/mag
+
+신돈이
+	신/xp+돈/ncn+이/jcc
+
+사는
+	사/pvg+는/etm
+
+집이네
+	집/ncn+이/jp+네/ef
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+드라마의
+	드라마/ncn+의/jcm
+
+힘은
+	힘/ncn+은/jxc
+
+위대하다
+	위대/ncpa+하/xsva+다/ef
+
+.
+	./sf
+
+
+인사동,
+	인사/ncn+동/ncn+,/sp
+
+남대문
+	남대/ncn+문/ncn
+
+시장에서는
+	시장/ncn+에서/jca+는/jxc
+
+사진을
+	사진/ncn+을/jco
+
+못
+	못/mag
+
+찍었다
+	찍/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+구경하기
+	구경/ncn+하기/ncn
+
+바빠서리
+	바쁘/paa+아/ep+리/ef
+
+.....
+	.../se+./sf+./sf
+
+
+서울역에서
+	서울역/ncn+에서/jca
+
+KTX
+	KTX/f
+
+기다리다
+	기다리/pvg+다/ef
+
+커피
+	커피/ncn
+
+마시러
+	마시/pvg+러/ecs
+
+가서
+	가/pvg+서/ecs
+
+
+대구역에
+	대구역/ncn+에/jca
+
+내려
+	내리/pvg+어/ecx
+
+청도가는
+	청도/ncn+가/jcs+는/jxc
+
+기차
+	기차/paa+아/ecx
+
+기다리는
+	기다리/pvg+는/etm
+
+가울이와
+	가울이/ncn+와/jcj
+
+노을이
+	노을/ncn+이/jcc
+
+
+울산으로
+	울산/ncn+으로/jca
+
+바로
+	바로/mag
+
+가는게
+	가/px+는게/ecs
+
+없어서,
+	없/paa+어서/ecs+,/sp
+
+시댁
+	시댁/ncn
+
+가서
+	가/pvg+서/ecs
+
+자고
+	자/pvg+고/ecc
+
+내일
+	내/npp+이/jp+ㄹ/etm
+
+울산가기로
+	울산가/ncn+이/jp+기/etn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf

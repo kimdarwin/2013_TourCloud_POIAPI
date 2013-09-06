@@ -1,0 +1,33 @@
+Date:
+2011.07.23
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/33bc09ef0d7d7c92036f588f555bfc01.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/4d4adfc487a0a82fb2c6f124170db39d.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/b67293b4ccad2f5eb6eb9ee038693a0b.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/7bebc213b8b045b1f11cf482867e7f99.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/9aa685b496261e7b3355cdd22aca8077.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/03b9a7a771932555d8ae77d1913830cb.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/b0ceeb9764693e961d151270a6e5848d.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/b64fd2c13ece1ede8711cf10fa710825.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/fe305b67e1d594cf50674a636568e9cb.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/99e2ea7103dfc6e4fb0940219c20ab6b.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/cb6c9dd1188c61cf4aca93c370321eab.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/6f969a62ea517f4bc03664a8b348e37d.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/c94799b005459634e4f136fe128d745b.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/f91400b7c632e1b36981cd4545223f98.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/8f3ee26318b74045856d80bca042e6c3.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/66612470c714739e4bef03334094a887.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/9ab7c6416ecea2401eff23bf9ad9f95e.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/ebbf80067b38efb20c8da68a854c566d.jpg');
+list_gallery_add_image(373204,'files/attach/images/228818/488/164/ca08701b1622690c94207f462aace152.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+7월 23일(토) 아름다운 여행으로 흘림골과 주전골 트레킹을 다녀왔습니다. 흘림골 주전골 트레킹은 아름다운 여행에서 처음 진행된 여행이었습니다. 설악산의 흘림골을 걸어 등선대까지 올라가서 12폭계곡과 주전골을 돌아 오색약수로 내려오는 트레킹 코스입니다. 약 6.5km의 거리를 걷는 코스죠.
+흘림골 주차장에서 등선대까지는 오르막길이 이어집니다. 약 1.2km의 길지 않은 거리지만 계단도 많고 가파른 구간도 있어 쉽지만은 않은 길입니다. 다행이 이 날은 기온도 그리 높지 않고 날도 흐려 크게 힘들진 않았습니다. 이 오르막길을 오르는 동안에도 설악의 기암절벽들을 볼 수 있지만 등선대의 전망에는 미치지 못합니다. 
+등선대에 올라서면 설악산 능선이 파노라마처럼 길게 펼쳐집니다. 강인한 설악의 능선을 따라 삐죽삐죽 솟아오른 바위들과 깊게 패인 골들이 그야말로 장관을 이룹니다. 이 날은 날씨가 흐려 선명한 풍경을 보진 못했지만 아쉽지 않은 선경을 볼 수 있었습니다.
+오색으로 내려가는 길은 가파른 길을 따라 12폭까지 내려가게 됩니다. 12폭까지도 계곡을 따라가는 길이지만, 멋진 계곡은 12폭에서부터 시작됩니다. 계속 이어지는 거대한 바위를 타고 이리저리 꿈틀거리며 흐르는 계류가 시원하기 그지없습니다. 조금 아쉬웠던 건 부족한 수량과 수해의 흔적이었습니다. 올 장마에 그렇게 비가 많이 왔는데 영동지방은 그렇지 않았던 모양입니다. 수량이 풍부했으면 힘차고 우렁찬 계곡을 볼 수 있었을 텐데 물이 적어 좀 아쉬웠습니다. 그리고 몇 년 전 당했던 수해의 흔적이 아직도 곳곳에 상처처럼 남아 있어 좀 안타까웠습니다. 하지만 계곡 자체가 워낙 멋져서 아쉬움보다는 탄성이 더 컸습니다.
+12폭계곡을 걸어 내려오면 용소폭포가 기다립니다. 용소폭포는 그리 크진 않지만 아주 옹골찬 느낌을 주는 폭포입니다. 야무져 보이는 바위에서 떨어지는 시원한 물줄기가 제법 장쾌합니다. 용소폭포에서 오색약수까지는 주전골 계곡을 따라 걷게 됩니다. 주전골은 아마 우리나라에서 손에 꼽을 수 있는 길고 큰 협곡일 겁니다. 계곡을 따라 양쪽으로 거대한 바위벽이 솟아 있어, 깊은 협곡을 걷는 느낌이 드는 곳입니다. 주전골도 수량은 좀 아쉬웠지만 오랜만에 깊은 협곡을 걷는 즐거움을 느꼈습니다. 제가 주전골을 걸을 때는 갑자기 소나기가 내리며 구름이 산 능선을 덮어 살짝 신비로운 느낌까지 감돌더군요.
+이 날의 트레킹은 조금 힘든 코스여서 내심 걱정을 했는데 참가하신 분들이 모두 즐겁게 걸어주셔서 저도 즐거운 여행을 했습니다. 흘림골 트레킹에 참가하신 분들 모두 휴일에 피로 잘 푸시고 활기차게 월요일을 맞으시기 바랍니다.
+이 게시물을...

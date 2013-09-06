@@ -1,0 +1,61 @@
+Title:
+비오는 날의 수채화 ~ 럼블피쉬(Feat. 가비엔제이) 
+
+Date:
+2011.02.27 11:39
+
+Content:
+
+비오는 날의 수채화 풍경..
+창밖에 비가내리면어느새 마음도촉촉히 젖어 듭니다
+비가 내리는 날.. 당신은 그 어떤 그리움에 몸살을 앓고 있나요?
+
+
+비오는 날의 수채화 ~ 럼블피쉬(Feat. 가비엔제이) 고음질 듣기
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc25/2011/02/27/227/03100223E136534E1EC3390C73F978F3F46_ya3542_logo.jpg';
+	layout.playtime = '258.329';
+	var qsParam = {};
+	qsParam.vid = '6C5313E0A96DCE0DF76DFD7059D390365606';
+	qsParam.inKey = 'V12439c8093831182c93d67f2f9897408c13f62873fc8f60b3237174354a8f8feb5cb67f2f9897408c13f';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_02250 = new VideoInfraUGCPlayer('ugcPlayer_02250' ,bean); 
+ugcPlayer_02250.drawPlayLayer(); 
+}
+
+
+
+
+비오는 날의 수채화 ~ 럼블피쉬 (가사)
+
+빗 방울 떨어지는 그거리에 서서 그대 숨소리 살아있는 듯 느껴지면깨끗한 붓 하나를 숨기듯 지니고 나와거리에 투명하게 색칠을 하지음악이 흐르는 그 카페엔초콜렛 색 물감으로 빗 방울 그려진 가로등 볼 아랜보라 색 물감으로 세상 사람 모두 다 도화지 속에 그려진 풍경처럼 행복하면 좋겠네 욕심 많은 사람들 얼굴 찌푸린 사람들마치 그림처럼 행복하면 좋겠어음악이 흐르는 그 카페엔초콜렛 색 물감으로 빗 방울 그려진 가로등 볼 아랜보라 색 물감으로 세상 사람 모두 다 도화지 속에 그려진 풍경처럼 행복하면 좋겠네 욕심 많은 사람들 얼굴 찌푸린 사람들마치 그림처럼 행복하면 좋겠어빗 방울 떨어지는 그 거리에 서서 그대 숨소리 살아있는 듯 느껴지면 깨끗한 붓 하나를 숨기듯 지니고 나와 거리에 투명하게 색칠을 하지
+
+
+비오는 날의 수채화 ~ 럼블피쉬 (최진이)
+
+
+
+
+
+비가 내리는 날~ 손을 내밀면 내 마음의 작은설레임 하나!~ 잡힐 것 같은..
+
+by 민초호야의 음악산책
+
+비오는 날의 수채화 ~ 럼블피쉬(Feat. 가비엔제이)
+
+	

@@ -1,0 +1,31 @@
+Title:
+8/11 무릉계곡 트레킹과 추암해변 여행
+
+Date:
+2012.08.11
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(770123,'files/attach/images/64/190/252/5f1c4f65b8484576910ebf61376a677a.jpg');
+list_gallery_add_image(770123,'files/attach/images/64/190/252/7865af1068ed0ad259e96217659ba404.jpg');
+list_gallery_add_image(770123,'files/attach/images/64/190/252/fe27b33056d08c8c01ff458479abbb33.jpg');
+list_gallery_add_image(770123,'files/attach/images/64/190/252/5db3fbf8877d51bd2ca1373f80823abe.jpg');
+list_gallery_add_image(770123,'files/attach/images/64/190/252/99d1193d201dad87b1c3edd6b2310237.jpg');
+list_gallery_add_image(770123,'files/attach/images/64/190/252/0274aa64093fd1549c1f073eb88b03cd.jpg');
+list_gallery_add_image(770123,'files/attach/images/64/190/252/71086824636e911a6051b077d699d32d.jpg');
+list_gallery_add_image(770123,'files/attach/images/64/190/252/3de88866df818aa7b047af3822ae1f54.jpg');
+list_gallery_add_image(770123,'files/attach/images/64/190/252/c2484d17736bbea6eeabdce9a99941f6.jpg');
+list_gallery_add_image(770123,'files/attach/images/64/190/252/c11c482a9a39b4ee83621344e3a2ecff.jpg');
+list_gallery_add_image(770123,'files/attach/images/64/190/252/eba4418d19d6ce5d2d6ab24f19f0fbfa.jpg');
+list_gallery_add_image(770123,'files/attach/images/64/190/252/e11ae45b33584edc781ad3cb36673a6c.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 8월 11일(토), 무릉계곡과 추암해변 여행을 다녀왔습니다.
+이번 주는 지난 주에 비해 피서 인파가 줄긴 했지만 그래도 고속도로 막힘이 있어서 국도를 따라 길을 나섰습니다. 다행히 국도는 막힘이 없었지만 동해 무릉계곡에 도착한 시간은 예상보다 좀 늦은 시간이었습니다. 
+동해 무릉계곡은 멋진 경치가 돋보이는 명승지입니다. 두타산과 청옥산이 빚어낸 계곡이 바로 무릉계곡인데 주차장부터 용추폭포까지 왕복 약 6km를 걸었습니다. 6km는 거리상으로는 짧지만 이 구간에는 웅장한 바위가 멋진 학소대를 비롯해 드라마 촬영을 많이 했을 만큼 멋진 쌍폭 그리고 이단폭포인 용추폭포까지 다양한 풍경을 만날 수 있어서 왕복 약 3시간 정도가 소요됩니다.
+7월 장마 이후로 비가 거의 내리지 않아 무릉계곡의 폭포들이 거의 마르다시피 했지만 그래도 계속 들려오는 물소리는 반갑더군요. 그리고 더위가 한풀 꺾이긴 했어도 살갗에 느껴지는 알싸한 바람도 신선했습니다. 
+다만 무릉계곡에 도착한 시간이 늦은 바람에 트레킹 시간이 넉넉하지 않아서 여유가 없었던 점은 아쉬움으로 남습니다. 시간이 좀더 있었으면 천천히 걷고 계곡 가에 앉아 충분히 쉬면서 여유를 가졌다면 힘든 줄도 몰랐을 텐데 그렇지 못해 좀 힘들게 느껴지셨을 거예요. 
+무릉계곡 트레킹은 너무 길지도 않은 적당한 거리를 걷고 요소요소 볼거리가 다양하며 울창한 숲 구간도 좋아서 단풍 곱게 물든 가을에 기회가 된다면 다시 한번 찾고 싶습니다.
+트레킹을 마치고 동해의 명소인 추암해변도 잠깐 들렀습니다. 추암해변은 너무도 유명한 일출 명소입니다. 전망대에 올라 탁 트인 동해 바다를 감상하며 촛대바위를 비롯해 형제바위 등 모양도 독특한 바위들이 있어 동해 여행을 할 때 한번쯤 들러볼 만한 곳입니다. 이제 동해안에도 피서인파가 조금씩 줄어드는 것을 보니 올 여름 휴가도 거의 끝나가는 모양입니다.
+동해는 좀 먼 거리인데 더구나 가는 길이 막혀 평소보다 더 멀게 느껴지셨을 거예요. 그렇지만 이번 여행에 참여하신 회원분들께서 깔끔하게 여행을 해주셔서 진행이 수월했던 것 같습니다. 다행히 서울로 돌아올 때에는 정체 구간이 전혀 없어 예상보다 일찍 도착하였습니다.
+이번 여행에 참여하신 회원분들 모두 수고 많으셨구요. 내일 하루 푹 쉬시면서 피로 잘 푸시고 새롭게 시작되는 한 주도 잘 보내시기 바랍니다.이 게시물을...

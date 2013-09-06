@@ -1,0 +1,663 @@
+광양시
+	광양시/ncn
+
+
+전라남도
+	전라/ncn+남도/ncn
+
+
+기간
+	기간/ncn
+
+2008.
+	2008./nnc
+
+3.
+	3./nnc
+
+22~
+	22/nnc+~/sd
+
+2008.
+	2008./nnc
+
+3.
+	3./nnc
+
+22(1일)
+	22/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+사진에
+	사진/ncn+에/jca
+
+담는
+	담/pvg+는/etm
+
+출사여행
+	출사/ncpa+여행/ncpa
+
+
+봄꽃축제가
+	봄꽃/ncn+축제/ncn+가/jcs
+
+한창이다
+	한창/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+매화,
+	매화/ncn+,/sp
+
+산수유,
+	산수유/ncn+,/sp
+
+동백,
+	동백/ncn+,/sp
+
+유채꽃,벚꽃까지
+	유채/ncn+꽃/ncn+,/sp+벚꽃/ncn+까지/jxc
+
+...
+	.../se
+
+
+춥고
+	춥/paa+고/ecc
+
+긴
+	길/paa+ㄴ/etm
+
+겨울을
+	겨울/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+봄은
+	보/px+ㅁ/etn+은/jxc
+
+찾아왔건만
+	찾/pvg+아/ecx+오/px+아/ep+건/ecs+만/jxc
+
+
+수줍은
+	수줍/paa+은/etm
+
+봄꽃은
+	봄꽃/ncn+은/jxc
+
+상춘객의
+	상춘객/ncn+의/jcm
+
+마음과는
+	마음/ncn+과/jct+는/jxc
+
+달리
+	달리/mag
+
+그리
+	그리/mad
+
+오래
+	오래/mag
+
+기다려
+	기다리/pvg+어/ecx
+
+주지
+	주/px+지/ecx
+
+않는듯
+	않/px+는/etm+듯/nbs
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+설레발을
+	설레발/ncn+을/jco
+
+치며
+	치/pvg+며/ecc
+
+꽃구경을
+	꽃구경/ncn+을/jco
+
+나서면
+	나서/pvg+면/ecs
+
+너무
+	너무/mag
+
+이르거나
+	이르/pvg+거나/ecc
+
+혹은
+	혹은/maj
+
+너무
+	너무/mag
+
+늦었었다
+	늦/paa+었었/ep+다/ef
+
+.
+	./sf
+
+
+하지만,
+	하/pvg+지/ecx+말/px+ㄴ/etm+,/sp
+
+섬진강
+	섬진강/ncn
+
+매화축제는
+	매화/ncn+축제/ncn+는/jxc
+
+가장
+	가장/mag
+
+절정일
+	절정/ncn+이/jp+ㄹ/etm
+
+때
+	때/ncn
+
+찾아온
+	찾/pvg+아/ecx+오/px+ㄴ/etm
+
+거
+	것/nbn
+
+같아
+	같/paa+아/ecx
+
+참
+	참/mag
+
+행운이라
+	행운/ncn+이/jp+라/ecs
+
+생각한다
+	생각/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+비가
+	비/ncn+가/jcs
+
+올거라는
+	오/px+ㄹ/etm+것/nbn+이/jp+라/ef+는/etm
+
+우려와
+	우려/ncpa+와/jct
+
+달리
+	달리/mag
+
+오후에
+	오후/ncn+에/jca
+
+약간
+	약간/mag
+
+흐리긴
+	흐리긴/ncn
+
+했지만
+	하/px+었/ep+지만/ecs
+
+하늘도
+	하늘/ncn+도/jxc
+
+우리편이었다
+	우리편/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+만약
+	만약/mag
+
+매화축제를
+	매화/ncn+축제/ncn+를/jco
+
+계획하신다면
+	계획하/ncn+이/jp+시/ep+ㄴ다면/ecs
+
+3월
+	3/nnc+월/nbu
+
+중순을
+	중순/ncn+을/jco
+
+강력추천한다
+	강력/ncps+추천/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+저저번주(3월
+	저저번주(3월/ncn
+
+초중순)는
+	초중순)/ncn+는/jxc
+
+약간
+	약간/mag
+
+일렀고돌아올
+	일렀고돌아올/ncn
+
+이번
+	이/nnc+번/nbu
+
+주(3월
+	주(3월/ncn
+
+말)는
+	말/ncpa+)/sr+는/jxc
+
+약간
+	약간/mag
+
+질
+	지/px+ㄹ/etm
+
+분위기가
+	분위기/ncn+가/jcs
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+너무
+	너무/mag
+
+실망은
+	실망/ncpa+은/jxc
+
+마시고
+	마시/pvg+고/ecc
+
+이번주에라도
+	이번주/ncn+에/jca+라도/jxc
+
+가셔서
+	가/px+시/ep+어서/ecs
+
+눈꽃처럼
+	눈꽃/ncn+처럼/jca
+
+곱게
+	곱/paa+게/ecs
+
+흐드러진
+	흐드러지/paa+ㄴ/etm
+
+매화향에
+	매화/ncn+향/ncn+에/jca
+
+흠뻑취해보시길~~~
+	흠뻑취해보시길/ncn+~/sd+~/sd+~/sd
+
+
+아참~~섬진강
+	아참~~섬진강/ncn
+
+매화축제와
+	매화/ncn+축제/ncn+와/jcj
+
+광양
+	광양/ncn
+
+매화축제는
+	매화/ncn+축제/ncn+는/jxc
+
+같을까
+	같/paa+을까/ef
+
+??
+	?/sf+?/sf
+
+
+다를까
+	다르/paa+ㄹ까/ef
+
+??
+	?/sf+?/sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+섬진강
+	섬진강/ncn
+
+150리
+	150/nnc+리/nbu
+
+물길이
+	물길/ncn+이/jcc
+
+광양만으로
+	광양만/ncn+으로/jca
+
+이어진
+	잇/pvg+어/ecx+지/px+ㄴ/etm
+
+끝자락에
+	끝자락/ncn+에/jca
+
+광양
+	광양/ncn
+
+섬진마을인
+	섬진마을/ncn+이/jp+ㄴ/etm
+
+청매실농원이
+	청매실농원/ncn+이/jcc
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있단다
+	있/px+단다/ef
+
+.
+	./sf
+
+
+그러므로,
+	그러/pvd+므로/ecs+,/sp
+
+섬진강과
+	섬진강/ncn+과/jcj
+
+광양
+	광양/ncn
+
+매화축제는
+	매화/ncn+축제/ncn+는/jxc
+
+같다는
+	같/paa+다/ef+는/etm
+
+말이
+	말/ncn+이/jcc
+
+되겠다
+	되/pvg+겠/ep+다/ef
+
+.
+	./sf
+
+
+백매화가
+	백매화/ncn+가/jcs
+
+대부분이고
+	대부분/ncn+이/jp+고/ecc
+
+간혹
+	간혹/mag
+
+홍매화가연분홍
+	홍매/ncn+화가/ncr+연분홍/ncn
+
+연지
+	열/pvg+ㄴ지/ecs
+
+그리듯붉게물들어
+	그리듯붉게물들어/ncn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+청매화도
+	청매화/ncn+도/jxc
+
+있다는데
+	있/px+다/ef+는/etm+데/nbn
+
+내
+	내/npp
+
+눈엔
+	눈/ncn+엔/jca
+
+아무리
+	아무리/mag
+
+찾아봐도
+	찾/pvg+아/ecx+보/px+아/ecs
+
+보이질
+	보이/ncn+질/ncn
+
+않았다
+	않/px+아/ep+다/ef
+
+.
+	./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+청매화가
+	청매화/ncn+가/jcs
+
+있다는
+	있/px+다/ef+는/etm
+
+건
+	거/nbn+은/jxc
+
+집에
+	집/ncn+에/jca
+
+돌아와
+	돌/pvg+아/ecx+오/px+아/ecx
+
+자료를
+	자료/ncn+를/jco
+
+정리하면서
+	정리/ncpa+하/xsva+면서/ecc
+
+안
+	알/pvg+ㄴ/etm
+
+사실이다
+	사실/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+아래자락엔
+	아래/ncn+자락/ncn+엔/jca
+
+듬성듬성이라
+	듬성듬성/ncn+이/jp+라/ecs
+
+사실
+	사실/mag
+
+그저
+	그저/mag
+
+그랬다
+	그렇/pad+었/ep+다/ef
+
+.
+	./sf
+
+
+아래에서
+	아래/ncn+에서/jca
+
+이미
+	이미/mag
+
+실망하고
+	실망/ncpa+하고/jct
+
+위쪽까지
+	위쪽/ncn+까지/jxc
+
+못간
+	못/ncn+간/xsncc
+
+분들은상당히
+	분들은상당히/ncn
+
+후회
+	후회/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+있으니
+	있/px+으니/ecs
+
+초가가
+	초가/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+영화
+	영화/ncn
+
+촬영지를
+	촬영지/ncn+를/jco
+
+꼭
+	꼭/mag
+
+가보길
+	가보/ncn+길/ncn
+
+권한다
+	권하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+겨울에도
+	겨울/ncn+에/jca+도/jxc
+
+못
+	못/mag
+
+본
+	보/px+ㄴ/etm
+
+눈꽃같은
+	눈꽃/ncn+같/xsmn+은/etm
+
+장관을
+	장관/ncr+을/jco
+
+매화를
+	매화/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+전남
+	전/xp+남/ncn
+
+광양,
+	광양,/ncn
+
+섬진강
+	섬진강/ncn
+
+매화축제
+	매화/ncn+축제/ncn
+
+
+2008.
+	2008./nnc
+
+03.
+	03./nnc
+
+22
+	22/nnc
+
+.
+	./sf
+
+
+토
+	토/ncn
+
+
+PhotographedWritten
+	PhotographedWritten/f
+
+by
+	by/f
+
+JasMine
+	JasMine/f

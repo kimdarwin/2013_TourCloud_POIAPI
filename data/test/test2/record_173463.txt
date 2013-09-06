@@ -1,0 +1,29 @@
+Date:
+2011.09.03
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(587584,'files/attach/images/228818/463/173/e739a9a79b10ae054613cbe849b3e7f5.jpg');
+list_gallery_add_image(587584,'files/attach/images/228818/463/173/548736181b4844582f2a06919e2a2f57.jpg');
+list_gallery_add_image(587584,'files/attach/images/228818/463/173/02d38786dba259f68460f34fc1007c61.jpg');
+list_gallery_add_image(587584,'files/attach/images/228818/463/173/ec68a56eaa795919cc5666be2c297bf8.jpg');
+list_gallery_add_image(587584,'files/attach/images/228818/463/173/00184004fb1ced37af8ec4ffd0bfc769.jpg');
+list_gallery_add_image(587584,'files/attach/images/228818/463/173/017798ff8bb8fa17d3b80d3654b4e3c1.jpg');
+list_gallery_add_image(587584,'files/attach/images/228818/463/173/0e146db78308bf73f130511740cbff44.jpg');
+list_gallery_add_image(587584,'files/attach/images/228818/463/173/e116ce0f48457d67bcaf2771f84d182b.jpg');
+list_gallery_add_image(587584,'files/attach/images/228818/463/173/2a092840e2b36bd47c0ee83244e489fa.jpg');
+list_gallery_add_image(587584,'files/attach/images/228818/463/173/08828131ff1984eb7e0c64b7954bd263.jpg');
+list_gallery_add_image(587584,'files/attach/images/228818/463/173/e73af02031580579da8e65f8b811915f.jpg');
+list_gallery_add_image(587584,'files/attach/images/228818/463/173/3607d20145b23d21beac29b47f2aaa36.jpg');
+list_gallery_add_image(587584,'files/attach/images/228818/463/173/5b1ac3b32b40b4cbcd18129b90a54ce0.jpg');
+list_gallery_add_image(587584,'files/attach/images/228818/463/173/c2299a7560d1873e06af1b9f110864e1.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+9월 3일(토), 아름다운 여행으로 조계산 굴목재 트레킹을 다녀왔습니다. 조계산 굴목재길은 조계산의 두 거찰 송광사와 선암사를 잇는 산길입니다. 조계산 최고봉인 장군봉을 넘진 않지만, 작은굴목재와 송광굴목재라는 고개 두 개를 넘는 길입니다.
+이 날은 하늘이 아주 좋았습니다. 아침부터 파란 하늘이 드러나 산뜻하게 여행을 시작할 수 있었습니다. 선암사 주차장에서 트레킹을 시작해 먼저 작은굴목재를 넘었습니다. 작은굴목재는 이번 걷기 코스에서 가장 어려운 구간으로 꽤 긴 거리의 오르막길이 이어집니다. 아마 이 구간에서 많이 힘드셨으리라 생각되네요. 이 날 하늘이 맑은 건 좋았는데 기온까지 높아 작은굴목재의 오르막길이 저도 꽤 힘들더군요.
+작은굴목재를 넘어서면 조계산 보리밥집이 나옵니다. 이 집을 볼 때마다 참 신기하다는 생각이 듭니다. 어떻게 산속에서 보리밥집을 하고 있는지… 아무튼 이 집은 상당히 유명한 집이어서 일부러 이 집의 보리밥을 먹으러 조계산을 찾는 사람이 있을 정도입니다. 이 날은 이 보리밥집에서 자유롭게 점심을 먹었습니다. 이 집의 보리밥은 나물과 된장국이 좋아서 맛이 괜찮은 편입니다. 게다가 힘든 굴목재를 넘고 먹게 되니 꿀맛일 수밖에 없죠.
+점심을 먹은 뒤 다시 송광굴목재를 넘었습니다. 송광굴목재도 고갯길이지만 이미 넘은 작은굴목재에 비하면 쉬운 고개입니다. 송광굴목재를 넘어 한참을 내려가면 승보사찰인 송광사가 나옵니다. 
+저는 송광사를 그냥 지나쳐 불일암으로 올라갔습니다. 불일암은 작은 암자이지만 입구의 대나무숲과 암자의 고적한 분위기가 인상적입니다. 얼마 전에 입적하신 법정스님이 머무시던 곳이기도 하구요. 이 불일암에 잠시 앉아서 트레킹의 피로를 덜고 내려왔습니다.
+이번 트레킹은 고개를 두 개나 넘는 어려운 코스였고 또 기온까지 높아 더 힘들었던 것 같습니다. 봄에 이 코스를 걸었을 때는 그렇게 힘들지 않았는데, 이번 트레킹은 저도 꽤 힘들었습니다. 그래도 오랜만에 긴 코스를 걸었더니 몸이 가벼워지는 것 같네요.
+이번 굴목재 트레킹에 참가하신 분들 모두 휴일에 굴목재의 피로 잘 푸시고, 얼마 남지 않은 여름도 건강하게 보내시기 바랍니다~
+이 게시물을...

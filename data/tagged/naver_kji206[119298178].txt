@@ -1,0 +1,470 @@
+돌고래횟집
+	돌고래/ncn+횟집/ncn
+
+
+충남
+	충남/ncn
+
+서천군
+	서천/ncn+군/ncn
+
+서면
+	서/pvg+면/ecs
+
+마량리
+	마량/ncn+리/ncn
+
+178번지
+	178번지/ncn
+
+
+[041]952-2388,
+	[/sl+041/nnc+]/sr+952/nnc+-2388/nnc+,/sp
+
+011-428-2380
+	011/nnc+-428/nnc+-2380/nnc
+
+
+서해에서
+	서해/ncn+에서/jca
+
+일출과
+	일출/ncpa+과/jcj
+
+일몰을
+	일/nnc+몰/nbu+을/jco
+
+한번에
+	한/nnc+번/nbu+에/jca
+
+만날수
+	만나/pvg+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+마량포구
+	마량/ncn+포구/ncn
+
+.
+	./sf
+
+
+일출을
+	일출/ncpa+을/jco
+
+담기
+	담/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+찾아간
+	찾/pvg+아/ecx+가/px+ㄴ/etm
+
+포구
+	포구/ncn
+
+....
+	.../se+./sf
+
+
+생각한
+	생각/ncpa+하/xsva+ㄴ/etm
+
+일출은
+	일출/ncpa+은/jxc
+
+만나지
+	만나/pvg+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+날.
+	날/ncn+./sf
+
+....
+	.../se+./sf
+
+
+몸은
+	몸/ncn+은/jxc
+
+바닷바람으로
+	바닷바람/ncn+으로/jca
+
+잔뜩
+	잔뜩/mag
+
+얼어있고
+	얼/pvg+어/ecx+있/px+고/ecc
+
+.....
+	./sy+.../se+./sy
+
+.
+	./sf
+
+
+배는
+	배/ncn+는/jxc
+
+고프고
+	고프/paa+고/ecc
+
+...
+	.../se
+
+
+해안가
+	해안/ncn+가/jcs
+
+포구에
+	포구/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+돌고래
+	돌고래/ncn
+
+횟집
+	횟집/ncn
+
+
+추위를
+	추위/ncn+를/jco
+
+녹이는
+	녹이/pvg+는/etm
+
+데는
+	데/nbn+는/jxc
+
+역시
+	역시/mag
+
+뜨거운
+	뜨겁/paa+은/etm
+
+국물
+	국물/ncn
+
+
+아침으로
+	아침/ncn+으로/jca
+
+조개탕을
+	조개/ncn+탕/ncn+을/jco
+
+먹었다
+	먹/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+일인분
+	일/ncn+이/jp+ㄴ/etm+분/nbn
+
+7000원
+	7000/nnc+원/nbu
+
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+조개탕은
+	조개/ncn+탕/ncn+은/jxc
+
+일출을
+	일출/ncpa+을/jco
+
+담기위해
+	담기위해/ncn
+
+얼어
+	얼/pvg+어/ecx
+
+붙은
+	붙/pvg+은/etm
+
+몸을
+	몸/ncn+을/jco
+
+녹이기
+	녹/ncn+이/jp+기/etn
+
+충분하였다
+	충분/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+뜨겁게
+	뜨겁/paa+게/ecs
+
+막
+	막/mag
+
+구운
+	굽/pvg+은/etm
+
+달걀김말이는
+	달걀/ncn+김/ncn+말/xsncc+이/jp+는/etm
+
+리필
+	리필/ncn
+
+해달라고
+	해달라/ncn+이/jp+고/ecc
+
+자꾸만
+	자꾸/mag+만/jxc
+
+아줌마를
+	아줌마/ncn+를/jco
+
+부른다
+	부르/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+즉석으로
+	즉석/ncn+으로/jca
+
+구워
+	굽/pvg+어/ecx
+
+혀가
+	혀/ncn+가/jcs
+
+데일
+	데/nbn+이/jp+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+뜨거운
+	뜨겁/paa+은/etm
+
+달걀김말이가
+	달걀/ncn+김/ncn+말/xsncc+이가/jcc
+
+가장
+	가장/mag
+
+맛나는듯
+	맛나/paa+는/etm+듯/nbs
+
+...
+	.../se
+
+
+물론
+	물론/mag
+
+다른
+	다르/paa+ㄴ/etm
+
+반찬도
+	반찬/ncn+도/jxc
+
+맛났지만
+	맛나/paa+아/ep+지만/ecs
+
+....
+	.../se+./sf
+
+
+조개를
+	조개/ncn+를/jco
+
+건져먹다보면
+	건져먹다보/ncn+이/jp+면/ecs
+
+어느새
+	어느새/mag
+
+얼었던
+	얼/pvg+었/ep+던/etm
+
+얼굴은
+	얼굴/ncn+은/jxc
+
+화색이
+	화색/ncn+이/jcc
+
+돈다
+	돌/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+제대로
+	제대로/mag
+
+된
+	되/pvg+ㄴ/etm
+
+일출을
+	일출/ncpa+을/jco
+
+만나지
+	만나/pvg+지/ecx
+
+못하였다
+	못하/px+었/ep+다/ef
+
+하여도
+	하/pvg+어도/ecs
+
+실망하지
+	실망/ncpa+하/xsva+지/ecx
+
+않아도
+	않/px+아/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+식당
+	식당/ncn
+
+벽면에
+	벽면/ncn+에/jca
+
+사진작가인
+	사진작가/ncn+이/jp+ㄴ/etm
+
+사장님의
+	사장님/ncn+의/jcm
+
+멋진
+	멋지/paa+ㄴ/etm
+
+사진이
+	사진/ncn+이/jcc
+
+식당
+	식당/ncn
+
+벽면을
+	벽면/ncn+을/jco
+
+메워
+	메우/pvg+어/ecx
+
+아름다운
+	아름답/paa+은/etm
+
+사진으로
+	사진/ncn+으로/jca
+
+아쉬운
+	아쉽/paa+은/etm
+
+마음
+	마음/ncn
+
+잠시나마
+	잠시/mag+나마/jxc
+
+달랠수
+	달래/pvg+ㄹ/etm+수/nbn
+
+있으니
+	있/px+으니/ecs
+
+...
+	.../se
+
+
+서천의
+	서천/ncn+의/jcm
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+철새군무,일출,일몰의
+	철새/ncn+군무/ncn+,/sp+일출/ncpa+,/sp+일/nnc+몰/nbu+의/jcm
+
+아쉬움을
+	아쉬움/ncn+을/jco
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+편안하게
+	편안/ncps+하/xsms+게/ecs
+
+티비
+	티비/ncn
+
+...
+	.../se
+
+
+모니터로
+	모니터/ncpa+로/jca
+
+계속
+	계속/mag
+
+바꿔가며
+	바꾸/pvg+어/ecx+가/px+며/ecc
+
+감상할수
+	감상/ncpa+하/xsva+ㄹ/etm+수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+돌고래횟집
+	돌고래/ncn+횟집/ncn
+
+
+충청남도
+	충청남/ncn+도/jxc
+
+서천군
+	서천/ncn+군/ncn
+
+서면
+	서면/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01413406",
+	"bl01413406",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11710575",
+	"/sl+11710575/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"돌고래횟집",
+	title/f+:/sp+"/sl+돌고래/ncn+횟집/ncn+"/sr+,/sp
+
+pointX:265944,pointY:394956}
+	pointX/f+:/sp+265944/nnc+,/sp+pointY/f+:/sp+394956/nnc+}/sr

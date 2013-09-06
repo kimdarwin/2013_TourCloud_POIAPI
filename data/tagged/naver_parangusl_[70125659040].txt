@@ -1,0 +1,738 @@
+#
+	#/ncn
+
+1
+	1/nnc
+
+
+종로5가역
+	종로5가역/ncn
+
+인근
+	인근/ncn
+
+광장시장,
+	광장/ncn+시장/ncn+,/sp
+
+중독성이
+	중독/ncpa+성/ncn+이/jcc
+
+강하다고
+	강하/paa+다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+마약김밥이라는
+	마약/ncn+김밥/ncn+이/jp+라/ef+는/etm
+
+별칭이
+	별칭/ncn+이/jcc
+
+붙은
+	붙/pvg+은/etm
+
+꼬마
+	꼬마/ncn
+
+김밥이
+	김밥/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+모두가
+	모두/ncn+가/jcs
+
+마약김밥의
+	마약/ncn+김밥/ncn+의/jcm
+
+원조라고
+	원조/ncpa+이/jp+라/ef+고/jcr
+
+주장하는데,
+	주장/ncpa+하/xsva+ㄴ데/ecs+,/sp
+
+광장시장
+	광장/ncn+시장/ncn
+
+마약김밥의
+	마약/ncn+김밥/ncn+의/jcm
+
+진짜
+	진짜/ncn
+
+원조는
+	원조/ncpa+는/jxc
+
+모녀김밥이다.
+	모녀/ncn+김밥/ncn+이/jp+다/ef+./sf
+
+40년
+	40/nnc+년/nbu
+
+동안
+	동안/ncn
+
+같은
+	같/paa+은/etm
+
+자리를
+	자리/ncn+를/jco
+
+지켜온
+	지키/pvg+어/ecx+오/px+ㄴ/etm
+
+이상훈
+	이상/ncn+훈/ncn
+
+할머니가
+	할머니/ncn+가/jcs
+
+김밥을
+	김밥/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+내놓는다
+	내/pvg+어/ecx+놓/px+는다/ef
+
+.
+	./sf
+
+
+단무지,
+	단무지/ncn+,/sp
+
+당근,
+	당근/ncn+,/sp
+
+시금치
+	시금치/ncn
+
+세
+	세/nnc
+
+가지
+	가지/nbu
+
+재료만
+	재료/ncn+만/jxc
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+김밥을
+	김밥/ncn+을/jco
+
+겨자
+	겨/ncn+이/jp+자/ecc
+
+소스에
+	소스/ncn+에/jca
+
+콕
+	콕/ncn
+
+찍어
+	찍/pvg+어/ecx
+
+먹는다.
+	먹/pvg+는다/ef+./sf
+
+1인분에
+	1/nnc+이/jp+ㄴ/etm+분/nbn+에/jca
+
+손가락만
+	손가락/ncn+만/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+길이의
+	길이/ncn+의/jcm
+
+김밥
+	김밥/ncn
+
+8개,
+	8/nnc+개/nbu+,/sp
+
+2,500원
+	2,500/nnc+원/nbu
+
+.
+	./sf
+
+
+모녀김밥
+	모녀/ncn+김밥/ncn
+
+A.
+	A/f+./sy
+
+서울
+	서울/ncn
+
+종로구
+	종로구/ncn
+
+종로5가
+	종로5/ncn+가/jcs
+
+395-4
+	395/nnc+-4/nnc
+
+T.
+	T/f+./sy
+
+02.
+	02./nnc
+
+2264.
+	2264./nnc
+
+7668
+	7668/nnc
+
+
+#
+	#/ncn
+
+2
+	2/nnc
+
+
+맷돌로
+	맷돌/ncn+로/jca
+
+즉석에서
+	즉석/ncn+에서/jca
+
+간
+	가/px+ㄴ/etm
+
+녹두를
+	녹두/ncn+를/jco
+
+바로
+	바로/mag
+
+부쳐낸다
+	부치/pvg+어/ecx+내/px+ㄴ다/ef
+
+.
+	./sf
+
+
+넉넉히
+	넉넉히/mag
+
+부은
+	부/ncn+은/jxc
+
+기름
+	기르/pvg+ㅁ/etn
+
+위에
+	위/ncn+에/jca
+
+반죽을
+	반죽/ncpa+을/jco
+
+올려
+	올리/pvg+어/ecx
+
+튀기듯이
+	튀/pvg+기/etn+이/jp+듯이/ecs
+
+노릇하게
+	노릇하/ncn+이/jp+게/ecs
+
+구워낸다
+	굽/pvg+어/ecx+내/px+ㄴ다/ef
+
+.
+	./sf
+
+
+커다란
+	커다랗/paa+은/etm
+
+팬
+	패/pvg+ㄴ/etm
+
+위에
+	위/ncn+에/jca
+
+차곡차곡
+	차곡차곡/mag
+
+쌓여가는
+	쌓이/pvg+어/ecx+가/px+는/etm
+
+빈대떡,
+	빈대떡/ncn+,/sp
+
+냄새가
+	냄새/ncn+가/jcs
+
+아주
+	아주/mag
+
+고소하다
+	고소/ncpa+하/xsva+다/ef
+
+.
+	./sf
+
+
+빈대떡을
+	빈대떡/ncn+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+점
+	점/nbu
+
+떼어
+	떼/pvg+어/ecx
+
+새콤달콤한
+	새콤달콤한/ncn
+
+양파
+	양파/ncn
+
+초절임에
+	초절/ncn+이/jp+ㅁ/etn+에/jca
+
+적시다시피
+	적시/pvg+다시피/ecs
+
+담갔다가
+	담그/pvg+아/ep+다가/ecs
+
+꺼내
+	꺼내/pvg+어/ecx
+
+먹으면
+	먹/pvg+으면/ecs
+
+궁합이
+	궁합/ncn+이/jcc
+
+그만이다
+	그만이/paa+다/ef
+
+.
+	./sf
+
+
+녹두빈대떡은
+	녹두/ncn+빈대떡/ncn+은/jxc
+
+4,000원,
+	4,000/nnc+원/nbu+,/sp
+
+고기
+	고/ncn+이/jp+기/etn
+
+완자는
+	완자/ncn+는/jxc
+
+2,000원이다
+	2,000/nnc+원/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+순희네빈대떡
+	순희네빈대떡/ncn
+
+A.
+	A/f+./sy
+
+서울
+	서울/ncn
+
+종로구
+	종로구/ncn
+
+종로5가
+	종로5/ncn+가/jcs
+
+T.
+	T/f+./sy
+
+138-9
+	138/nnc+-9/nnc
+
+02.
+	02./nnc
+
+2268.
+	2268./nnc
+
+3344
+	3344/nnc
+
+
+#
+	#/ncn
+
+3
+	3/nnc
+
+
+고추,
+	고추/ncn+,/sp
+
+마늘,
+	마늘/ncn+,/sp
+
+푹
+	푹/mag
+
+익은
+	익/pvg+은/etm
+
+무와
+	무/ncn+와/jcj
+
+고기
+	고/ncn+이/jp+기/etn
+
+몇
+	몇/nnc
+
+점이
+	점/nbu+이/jcc
+
+둥둥
+	둥둥/mag
+
+떠
+	뜨/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+고깃국이
+	고깃국/ncn+이/jcc
+
+기본
+	기본/ncn
+
+세팅이다
+	세팅/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+육회를
+	육/nnc+회/nbu+를/jco
+
+썩
+	썩/mag
+
+달가워하지
+	달갑/paa+어/ecx+하/px+지/ecx
+
+않는
+	않/px+는/etm
+
+나는,
+	나/npp+는/jxc+,/sp
+
+순희네
+	순희네/ncn
+
+빈대떡을
+	빈대떡/ncn+을/jco
+
+먹기
+	먹/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+뱃속을
+	뱃속/ncn+을/jco
+
+비워
+	비우/pvg+어/ecx
+
+두기로
+	두/nnc+이/jp+기/etn+로/jca
+
+결정
+	결정/ncn
+
+!
+	!/sf
+
+
+육식
+	육식/ncn
+
+동물에
+	동물/ncn+에/jca
+
+가까운
+	가깝/paa+은/etm
+
+남자친구는
+	남자/ncn+친구/ncn+는/jxc
+
+육회를
+	육/nnc+회/nbu+를/jco
+
+순식간에
+	순식간/ncn+에/jca
+
+흡입했다
+	흡입/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+넓은
+	넓/paa+은/etm
+
+접시
+	접시/ncn
+
+위에
+	위/ncn+에/jca
+
+가늘게
+	가늘/paa+게/ecs
+
+채
+	채/nbn
+
+썬
+	썰/pvg+ㄴ/etm
+
+배가
+	배/ncn+가/jcs
+
+깔렸고,
+	깔리/pvg+었/ep+고/ecc+,/sp
+
+그
+	그/mmd
+
+위에
+	위/ncn+에/jca
+
+시뻘건
+	시뻘건/ncn
+
+육회가
+	육/nnc+회/nbu+가/jcc
+
+두둑하게
+	두둑하/ncn+이/jp+게/ecs
+
+올려져
+	올리/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+솔솔
+	솔솔/mag
+
+뿌린
+	뿌리/pvg+ㄴ/etm
+
+깨와
+	깨/pvg+어/ecx+오/px+아/ecx
+
+톡
+	톡/mag
+
+깨
+	깨/pvg+어/ecx
+
+넣은
+	넣/pvg+은/etm
+
+달걀노른자를
+	달걀노른자/ncn+를/jco
+
+쓱쓱
+	쓱쓱/mag
+
+버무리듯
+	버무리/pvg+듯/ecs
+
+섞어서
+	섞/pvg+어서/ecs
+
+한
+	하/pvg+ㄴ/etm
+
+입,
+	입/ncn+,/sp
+
+두
+	두/nnc
+
+입.신선한
+	입.신선한/ncn
+
+쇠고기
+	쇠고기/ncn
+
+육회는
+	육/nnc+회/nbu+는/jxc
+
+12,000원,
+	12,000/nnc+원/nbu+,/sp
+
+물컹한
+	물컹하/paa+ㄴ/etm
+
+간과
+	간/ncn+과/jcj
+
+오톨도톨한
+	오톨도톨한/ncn
+
+천엽이
+	천엽/ncn+이/jcc
+
+한
+	하/pvg+ㄴ/etm
+
+접시
+	접시/ncn
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+것도
+	것/nbn+도/jxc
+
+12,000원
+	12,000/nnc+원/nbu
+
+.
+	./sf
+
+
+창신육회
+	창신육회/ncn
+
+A.
+	A/f+./sy
+
+서울
+	서울/ncn
+
+종로구
+	종로구/ncn
+
+종로4가
+	종로4/ncn+가/jcs
+
+165-4
+	165/nnc+-4/nnc
+
+T.
+	T/f+./sy
+
+02.
+	02./nnc
+
+2266.
+	2266./nnc
+
+6727
+	6727/nnc
+
+
++성북동
+	+성북동/ncn
+
+길상사'
+	길상사'/ncn
+
+법정스님'
+	법정/ncn+스님/ncn+'/sr
+
+가을여행
+	가을여행/ncpa
+
+내가
+	나/npp+가/jcs
+
+아는
+	알/pvg+는/etm
+
+길상사는
+	길상사/ncn+는/jxc
+
+두
+	두/nnc
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+인헌동
+	인헌동/ncn
+
+그리고
+	그리고/maj
+
+성북동
+	성북동/ncn
+
+travelindia.
+	travelindia/f+./sy
+
+kr/70123089238
+	kr/f+//sp+70123089238/nnc
+
+
+꾸욱,
+	꾸욱,/ncn
+
+눌러주세요
+	누르/pvg+어/ecx+주/px+세/ef+요/jxf
+
+!
+	!/sf
+
+
+Posted
+	Posted/f
+
+by대한민국을
+	by/f+대한/ncn+민국/ncn+을/jco
+
+여행하는깔깔씨
+	여행하는깔깔씨/ncn
+
+l
+	l/f

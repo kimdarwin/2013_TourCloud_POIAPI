@@ -1,0 +1,34 @@
+Title:
+7/28 장성 편백숲 산림욕 후기
+
+Date:
+2012.07.29
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(945146,'files/attach/images/64/798/244/6740e73b4cf50199dfa435d3ba931e7c.jpg');
+list_gallery_add_image(945146,'files/attach/images/64/798/244/5f8230671fbc8c981d0a26b948ba8cc8.jpg');
+list_gallery_add_image(945146,'files/attach/images/64/798/244/fc9cd7018a9727561fe558fc864a5bd7.jpg');
+list_gallery_add_image(945146,'files/attach/images/64/798/244/6d9bf2ff1d7d1723d2f671616d34078e.jpg');
+list_gallery_add_image(945146,'files/attach/images/64/798/244/639b9d2ec7ebeeb8db9fb46b77587009.jpg');
+list_gallery_add_image(945146,'files/attach/images/64/798/244/1b4bb3ee63c84b2c419d347e7282d043.jpg');
+list_gallery_add_image(945146,'files/attach/images/64/798/244/ae7055bd0467e6afc4a8e46619ec1ba5.jpg');
+list_gallery_add_image(945146,'files/attach/images/64/798/244/a5782e8cb99dd184e16617f819b514a6.jpg');
+list_gallery_add_image(945146,'files/attach/images/64/798/244/8c81e0e0c7216afdb6610dd8f86b67b8.jpg');
+list_gallery_add_image(945146,'files/attach/images/64/798/244/f4708cb40cf77749354488acf70d9671.jpg');
+list_gallery_add_image(945146,'files/attach/images/64/798/244/d991a0619d28a162925da858b1d9137e.jpg');
+list_gallery_add_image(945146,'files/attach/images/64/798/244/a38b6fb5fd46af5aa200c12afc229659.jpg');
+list_gallery_add_image(945146,'files/attach/images/64/798/244/ccd0cc5ec3e83a3e6d5e1348f1bf4c41.jpg');
+list_gallery_add_image(945146,'files/attach/images/64/798/244/c792ce60b609174585657818d12bd15b.jpg');
+list_gallery_add_image(945146,'files/attach/images/64/798/244/30a9f27fe4703510513b3a5aa131409e.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 7월 28일(토) 장성 축령산 편백숲 여행을 다녀왔습니다.
+7월 마지막 주말은 본격적인 여름휴가가 시작되는 날이기도 해서 도로정체가 예상되었지만 예상외로 고속도로 흐름이 수월하여 장성 편백숲에 늦지 않게 도착하였습니다.
+장성 축령산 편백숲은 이미 아름다운 여행으로 여러 차례 다녀온 곳이지만 이번에는 편백숲에서만 하루를 보내는 여유로운 일정으로 진행되었습니다.
+장성도 서울만큼은 아니지만 덥기는 마찬가지더군요. 그늘로 들어서면 금세 시원했지만 햇살은 순도 100% 맑은 쨍함이어서 쾌적하게 뜨거웠습니다. 축령산 편백숲은 지금은 고인이 되신 춘원 임종국 선생께서 한국전쟁 직후부터 벌거벗은 이곳 축령산에 편백, 삼나무 등을 심어 오늘날의 이렇듯 울창한 숲을 조성하게 되었습니다. 선생께서는 손수 나무를 심고 물을 주고 하셨다고 합니다만 지금은 스스로 떨어진 씨앗이 뿌리를 내릴 만큼 인공숲에서 자연숲으로 변해가고 있는 것은 아닌가 싶습니다. 어쩌면 우리나라에 여기만큼 편백나무가 많은 곳도 없을 것 같은 규모여서 전국에서 찾아오는 이들이 많다고 합니다.
+추암리를 출발하여 초반 약 30분 정도는 포장임도를 따라 오르막을 걷는데 날씨가 워낙 더워서 꽤 힘들게 느껴지더군요. 하지만 임종국 선생 추모비에 도착하면 이후로는 기분좋은 평지와 내리막을 걷게 되어서 그리 크게 힘든 구간은 아니죠.
+임종국 선생 추모비 이후로는 각자 자유롭게 시간을 보냈습니다. 축령산 정상에 올라 탁 트인 전망을 감상하기도 하고 아예 숲으로 들어가 마음을 차분히 정화하는 시간을 갖기도 한 쉼이 테마였네요. 저는 이번에 축령산 정상에 올라보았는데 마치 구름이 너무도 깨끗하고 맑아서 마치 가을하늘 같았지만 더워서 꽤 힘이 들더군요.^^
+일상의 바쁜 일들로 골치가 지끈거려도 이렇듯 울창한 숲에 들면 그 어떤 진통제보다 큰 효과를 느끼는 듯합니다. 
+편백숲 산림욕을 마친 후에는 태백산맥, 내마음의 풍금 등 영화 촬영지인 금곡영화마을에 도착하여 하루 여행을 마무리하고 서울로 돌아왔습니다.
+이번 장성 축령산 편백숲에서 시간은 번잡하지 않고 차분해서 더 기억에 오래 남는 여행이 되셨기를 바랍니다. 이번에는 특히 날씨가 너무 더워서참여하신 회원분들 모두 정말 수고 많으셨구요, 매일 더위의 연속입니다. 오늘 하루 푹 쉬면서 여행 피로도 말끔히 털어내시고 여름 휴가도 즐겁고 건강하게 보내시기 바랍니다~이 게시물을...

@@ -1,0 +1,1821 @@
+제주시
+	제주/ncn+시/ncn
+
+조천읍
+	조천읍/ncn
+
+북촌리
+	북촌/ncn+리/ncn
+
+마을
+	마을/ncn
+
+포제단
+	포제단/ncn
+
+!!
+	!/sf+!/sf
+
+
+EBS
+	EBS/f
+
+특집
+	특집/ncn
+
+다큐멘터리
+	다큐멘터리/ncn
+
+"문화원형"촬영팀은
+	"/sl+문화원/ncn+형/ncn+"/sr+촬영/ncpa+팀/ncn+은/jxc
+
+
+전날
+	전날/ncn
+
+와흘본향당,
+	와흘본향당,/ncn
+
+성산읍
+	성산/ncn+읍/ncn
+
+신천리
+	신/xp+천리/ncn
+
+현씨일월당,
+	현씨일월당,/ncn
+
+신천리
+	신/xp+천리/ncn
+
+본향당인
+	본향/ncn+당/ncn+이/jp+ㄴ/etm
+
+고첫당(고칫당),
+	고첫당(고칫당),/ncn
+
+서귀본향당,
+	서귀본향당/ncn+,/sp
+
+
+그리고
+	그리고/maj
+
+그리스
+	그리스/ncn
+
+신과
+	신/ncn+과/jct
+
+만나는
+	만나/pvg+는/etm
+
+곳,
+	곳/ncn+,/sp
+
+그리스신화박물관
+	그리스신화박물관/ncn
+
+촬영을
+	촬영/ncpa+을/jco
+
+마치고,
+	마치/pvg+고/ecc+,/sp
+
+다음
+	다음/ncn
+
+날
+	나/px+ㄹ/etm
+
+제주시
+	제주/ncn+시/ncn
+
+조천읍
+	조천읍/ncn
+
+북촌리
+	북촌/ncn+리/ncn
+
+포제단을
+	포제단/ncn+을/jco
+
+찾았다
+	찾/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+포제단은
+	포제단/ncn+은/jxc
+
+마을의
+	마을/ncn+의/jcm
+
+무사안녕과
+	무사/ncps+안녕/ncps+과/jcj
+
+발전을
+	발전/ncpa+을/jco
+
+기원하는
+	기원/ncpa+하/xsva+는/etm
+
+제를
+	제/npp+를/jco
+
+매년
+	매년/mag
+
+음력
+	음력/ncn
+
+1월에
+	1/nnc+월/nbu+에/jca
+
+지내는
+	지내/pvg+는/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+마을에서
+	마을/ncn+에서/jca
+
+
+아주
+	아주/mag
+
+신성시
+	신성시/ncpa
+
+하는
+	하/pvg+는/etm
+
+공간으로
+	공간/ncn+으로/jca
+
+평소엔
+	평소/ncn+엔/jca
+
+문이
+	문/ncn+이/jcc
+
+굳게
+	굳/paa+게/ecs
+
+닫혀
+	닫히/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+칠머리영등굿보존회가
+	칠머리영등굿보존회/ncn+가/jcs
+
+주최하는
+	주최/ncpa+하/xsva+는/etm
+
+2012
+	2012/nnc
+
+생생문화재사업
+	생생문화재사업/ncn
+
+
+"영등할망
+	"영등할망/ncn
+
+보름질
+	보름/ncn+질/ncn
+
+걷기"
+	걷/pvg+기/etn+"/sl
+
+체험프로그램에
+	체험/ncpa+프로그램/ncn+에/jca
+
+참가한
+	참가/ncpa+하/xsva+ㄴ/etm
+
+많은
+	많/paa+은/etm
+
+학생들과
+	학생/ncn+들/ncn+과/jcj
+
+일반인들이
+	일반인/ncn+들이/ncn
+
+
+제주시
+	제주/ncn+시/ncn
+
+조천읍
+	조천읍/ncn
+
+북촌리
+	북촌/ncn+리/ncn
+
+마을
+	마을/ncn
+
+포제단을
+	포제단/ncn+을/jco
+
+찾아가는
+	찾/pvg+아/ecx+가/px+는/etm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+북촌리포제단
+	북촌리포제/ncn+이/jp+단/etm
+
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+조천읍
+	조천읍/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011386699",
+	"bl011386699",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"2",
+	type/f+:/sp+"/sl+2/nnc+"/sr+,/sp
+
+title:"북촌리포제단",
+	title:"북촌리포제단",/ncn
+
+pointX:279537,pointY:106152}
+	pointX/f+:/sp+279537/nnc+,/sp+pointY/f+:/sp+106152/nnc+}/sr
+
+
+북촌리
+	북촌/ncn+리/ncn
+
+마을
+	마을/ncn
+
+포제단
+	포제단/ncn
+
+입구에는
+	입구/ncn+에는/jca
+
+
+포제단을
+	포제단/ncn+을/jco
+
+알리는
+	알리/pvg+는/etm
+
+비석과
+	비석/ncn+과/jcj
+
+제단개수기
+	제단/ncn+개수/ncn+이/jp+기/etn
+
+비석이
+	비석/ncn+이/jcc
+
+세워져
+	세우/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+제단개수기
+	제단/ncn+개수/ncn+이/jp+기/etn
+
+내용을
+	내용/ncn+을/jco
+
+읽어보면
+	읽/pvg+어/ecx+보/px+면/ecs
+
+이곳이
+	이곳/npd+이/jcc
+
+어떤
+	어떤/mmd
+
+곳인지
+	곳/ncn+이/jp+ㄴ지/ecs
+
+이해가
+	이/nnc+해/nbu+가/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+마을의
+	마을/ncn+의/jcm
+
+무사안녕과
+	무사/ncps+안녕/ncps+과/jcj
+
+풍농
+	풍농/ncn
+
+.
+	./sf
+
+
+풍어를
+	풍어/ncn+를/jco
+
+기원하는
+	기원/ncpa+하/xsva+는/etm
+
+제를
+	제/npp+를/jco
+
+지내는
+	지내/pvg+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+바로
+	바로/mag
+
+이곳
+	이곳/npd
+
+북촌리
+	북촌/ncn+리/ncn
+
+포제단이다
+	포제단/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+북촌리
+	북촌/ncn+리/ncn
+
+마을
+	마을/ncn
+
+제단이
+	제단/ncn+이/jcc
+
+위치한
+	위치/ncn+한/ncn
+
+곳은
+	곳/nbu+은/jxc
+
+
+마을
+	마을/ncn
+
+남쪽
+	남쪽/ncn
+
+약
+	약/ncn
+
+1
+	1/nnc
+
+지점으로
+	지점/ncn+으로/jca
+
+소나무가
+	소나무/ncn+가/jcs
+
+자라는
+	자라/pvg+는/etm
+
+임야지역이다
+	임야/ncn+지역/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+제단은
+	제단/ncn+은/jxc
+
+상단과
+	상단/ncn+과/jct
+
+하단
+	하/pvg+단/etm
+
+두
+	두/nnc
+
+개로
+	개/nbu+로/jca
+
+되어
+	되/pvg+어/ecx
+
+있고,
+	있/px+고/ecc+,/sp
+
+상단의
+	상단/ncn+의/jcm
+
+신위는
+	신위/ncn+는/jxc
+
+"포신지위"
+	"/sl+포/ncn+이/jp+시/ep+ㄴ/etm+지/nbn+위/xsnx+"/sl
+
+하단의
+	하단/ncn+의/jcm
+
+신위는
+	신위/ncn+는/jxc
+
+"제신지위"다
+	"/sl+제/npp+이/jp+시/ep+ㄴ/etm+지/nbn+위/xsnx+"/sl+다/mag
+
+.
+	./sf
+
+
+포신지위는
+	포/ncn+이/jp+시/ep+ㄴ/etm+지/nbn+위/xsnx+는/jxc
+
+촌락수호신이고
+	촌락/ncn+수호신/ncn+이/jp+고/ecc
+
+제신지위는
+	제/npp+이/jp+시/ep+ㄴ/etm+지/nbn+위/xsnx+는/jxc
+
+원혼이다
+	원혼/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+오늘
+	오늘/ncn
+
+칠머리영등굿보존회에서
+	칠머리영등굿보존회/ncn+에서/jca
+
+주최하는
+	주최/ncpa+하/xsva+는/etm
+
+
+2012생생문화재사업
+	2012생생문화재사업/ncn
+
+"영등할망
+	"영등할망/ncn
+
+보름질
+	보름/ncn+질/ncn
+
+걷기"
+	걷/pvg+기/etn+"/sl
+
+체험행사에
+	체험/ncpa+행사/ncpa+에/jca
+
+참가한
+	참가/ncpa+하/xsva+ㄴ/etm
+
+많은
+	많/paa+은/etm
+
+학생들과
+	학생/ncn+들/ncn+과/jcj
+
+일반인들이
+	일반인/ncn+들이/ncn
+
+
+북촌리
+	북촌/ncn+리/ncn
+
+마을
+	마을/ncn
+
+포제단에
+	포제단/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+설명을
+	설명/ncpa+을/jco
+
+듣고
+	듣/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+게중에는
+	게/npp+중/xsnx+에/jca+는/jxc
+
+외국인들도
+	외국/ncn+이/jp+ㄴ들/ecs+도/jxc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+북촌리는
+	북촌/ncn+리/ncn+는/jxc
+
+포제를
+	포제/ncn+를/jco
+
+지내기
+	지내/pvg+기/etn
+
+전에
+	전/nbn+에/jca
+
+본향제를
+	본향/ncn+제/ncn+를/jco
+
+먼저
+	먼저/mag
+
+올리고,
+	오/px+ㄹ/etm+리/nbn+이/jp+고/ecc+,/sp
+
+이어서
+	이/npd+이/jp+어서/ecs
+
+상단제
+	상단/ncn+제/ncn
+
+.
+	./sf
+
+
+하단제
+	하단/ncn+제/ncn
+
+순서로
+	순서/ncn+로/jca
+
+제를
+	제/npp+를/jco
+
+지낸
+	지내/pvg+ㄴ/etm
+
+다음,
+	다음/ncn+,/sp
+
+
+거리굿이
+	거리/ncn+굿/ncn+이/jcc
+
+유식화된
+	유식/ncpa+화/ncn+되/xsvn+ㄴ/etm
+
+도청제를
+	도청/ncn+제/ncn+를/jco
+
+차례로
+	차례/nbu+로/jca
+
+지낸다고
+	지내/pvg+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+마을의
+	마을/ncn+의/jcm
+
+무사안녕과
+	무사/ncps+안녕/ncps+과/jcj
+
+풍농,
+	풍농,/ncn
+
+풍어를
+	풍어/ncn+를/jco
+
+기원하는
+	기원/ncpa+하/xsva+는/etm
+
+제를
+	제/npp+를/jco
+
+올리는
+	올리/pvg+는/etm
+
+
+포제단에
+	포제단/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+설명이
+	설명/ncpa+이/jcc
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+동안
+	동안/ncn
+
+"영등할망
+	"영등할망/ncn
+
+보름질
+	보름/ncn+질/ncn
+
+걷기"
+	걷/pvg+기/etn+"/sl
+
+체험프로그램에
+	체험/ncpa+프로그램/ncn+에/jca
+
+참가한
+	참가/ncpa+하/xsva+ㄴ/etm
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+
+귀를
+	귀/ncn+를/jco
+
+쫑긋
+	쫑긋/ncn
+
+세우고
+	세우/pvg+고/ecc
+
+들어보지만,
+	들/pvg+어/ecx+보/px+지/ecx+말/px+ㄴ/etm+,/sp
+
+무슨
+	무슨/mmd
+
+말을
+	말/ncn+을/jco
+
+하는지
+	하/pvg+는지/ecs
+
+이해가
+	이/nnc+해/nbu+가/jcc
+
+잘
+	잘/mag
+
+되지
+	되/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+표정이다
+	표정/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그렇지만
+	그렇/pad+지만/ecs
+
+우리
+	우리/npp
+
+문화를
+	문화/ncn+를/jco
+
+공부하려는
+	공부/ncpa+하/xsva+려는/etm
+
+자세는
+	자세/ncn+는/jxc
+
+아주
+	아주/mag
+
+진지하다
+	진지/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+인터넷을
+	인터넷/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+이런
+	이런/mmd
+
+프로그램이
+	프로그램/ncn+이/jcc
+
+
+진행되고
+	진행/ncpa+되/xsvn+고/ecc
+
+있다는
+	있/px+다/ef+는/etm
+
+것을
+	것/nbn+을/jco
+
+알고
+	알/pvg+고/ecx
+
+이번
+	이/nnc+번/nbu
+
+행사에
+	행사/ncpa+에/jca
+
+참가한
+	참가/ncpa+하/xsva+ㄴ/etm
+
+외국인들은
+	외국인/ncn+들/ncn+은/jxc
+
+
+낯선
+	낯설/paa+ㄴ/etm
+
+이국
+	이국/ncn
+
+문화에
+	문화/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+아주
+	아주/mag
+
+신기한지
+	신기/ncn+한지/ncn
+
+프로그램
+	프로그램/ncn
+
+진행내내
+	진행/ncpa+내/ncn+내/xsncc
+
+사진을
+	사진/ncn+을/jco
+
+담고
+	담/ncn+고/jcj
+
+
+메모하는
+	메모/ncpa+하/xsva+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+북촌리
+	북촌/ncn+리/ncn
+
+마을
+	마을/ncn
+
+포제는
+	포제/ncn+는/jxc
+
+전날
+	전날/ncn
+
+저녁에
+	저녁/ncn+에/jca
+
+본향당에서
+	본향/ncn+당/ncn+에서/jca
+
+
+제를
+	제/npp+를/jco
+
+지내고
+	지내/pvg+고/ecc
+
+돌아오면
+	돌/pvg+아/ecx+오/px+면/ecs
+
+12제관들이
+	12제관들/ncn+이/jcc
+
+제물을
+	제물/ncn+을/jco
+
+지고
+	지/px+고/ecc
+
+밤길을
+	밤길/ncn+을/jco
+
+걸어
+	걸/pvg+어/ecs
+
+
+이곳
+	이곳/npd
+
+포제단에서
+	포제단/ncn+에서/jca
+
+유교식
+	유교/ncn+식/ncn
+
+포제를
+	포제/ncn+를/jco
+
+지내게
+	지내/pvg+게/ecs
+
+되는데,
+	되/pvg+ㄴ데/ecs+,/sp
+
+자시가
+	자시/ncn+가/jcs
+
+가까워
+	가깝/paa+어/ecx
+
+오면
+	오/px+면/ecs
+
+먼저
+	먼저/mag
+
+상단에
+	상단/ncn+에/jca
+
+제물을
+	제물/ncn+을/jco
+
+진설하고
+	진설/ncpa+하고/jct
+
+제를
+	제/npp+를/jco
+
+지낸다
+	지내/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+이때
+	이때/ncn
+
+제물은
+	제물/ncn+은/jxc
+
+시루떡,
+	시루떡/ncn+,/sp
+
+청묵,
+	청묵,/ncn
+
+미역채,
+	미역/ncn+채/ncn+,/sp
+
+전복
+	전복/ncn
+
+등
+	등/nbu
+
+토속적인
+	토속/ncn+적/ncn+이/jp+ㄴ/etm
+
+제물을
+	제물/ncn+을/jco
+
+마련해
+	마련/ncpa+하/xsva+어/ecx
+
+함께
+	함께/mag
+
+올리는
+	올리/pvg+는/etm
+
+게
+	것/nbn+이/jcs
+
+특색이다
+	특색/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+상단제가
+	상단/ncn+제/ncn+가/jcs
+
+끝나면
+	끝나/pvg+면/ecs
+
+하단제를
+	하단/ncn+제/ncn+를/jco
+
+지내는데
+	지내/pvg+ㄴ데/ecs
+
+
+축문의
+	축문/ncn+의/jcm
+
+내용은
+	내용/ncn+은/jxc
+
+원한에
+	원한/ncn+에/jca
+
+맺힌
+	맺히/pvg+ㄴ/etm
+
+모든
+	모든/mma
+
+군령이
+	군령/ncn+이/jcc
+
+다
+	다/mag
+
+와서
+	오/px+아/ecs
+
+배부르게
+	배부르/paa+게/ecs
+
+먹고,
+	먹/pvg+고/ecc+,/sp
+
+마시고
+	마시/pvg+고/ecc
+
+하여
+	하/pvg+어/ecs
+
+
+사람이나
+	사람/ncn+이나/jcj
+
+가축에게
+	가축/ncn+에게/jca
+
+범접하지
+	범접/ncpa+하/xsva+지/ecx
+
+말라는
+	말/px+라/ef+는/etm
+
+내용이라고
+	내용/ncn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+하단제가
+	하단/ncn+제/ncn+가/jcs
+
+끝나면
+	끝나/pvg+면/ecs
+
+제단
+	제단/ncn
+
+옆에
+	옆/ncn+에/jca
+
+지어놓은
+	지/nbn+이/jp+어/ecx+놓/px+은/etm
+
+
+단칸
+	단칸/ncn
+
+초가에서
+	초가/ncn+에서/jca
+
+돼지를
+	돼지/ncn+를/jco
+
+삶아
+	삶/pvg+아/ecx
+
+음복하고
+	음복/ncpa+하고/jct
+
+제관들은
+	제/xp+관/ncn+들/xsncc+은/jxc
+
+마을로
+	마을/ncn+로/jca
+
+내려온다고
+	내리/pvg+어/ecx+오/px+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+날이
+	날/ncn+이/jcc
+
+밝으면
+	밝/paa+으면/ecs
+
+제관들은
+	제/xp+관/ncn+들/xsncc+은/jxc
+
+향사
+	향사/ncn
+
+자리로
+	자리/ncn+로/jca
+
+가서
+	가/pvg+서/ecs
+
+
+도청제를
+	도청/ncn+제/ncn+를/jco
+
+다시
+	다시/mag
+
+지낸다고
+	지내/pvg+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이때
+	이때/ncn
+
+신위는
+	신위/ncn+는/jxc
+
+"도청지신위"이고,
+	"/sl+도청/ncn+지신/ncn+위/ncn+"/sr+이/jp+고/ecc+,/sp
+
+제관은
+	제/xp+관/ncn+은/jxc
+
+상단제의
+	상단/ncn+제/ncn+의/jcm
+
+종헌관
+	종헌관/ncn
+
+혼자
+	혼자/mag
+
+헌관이
+	헌관/ncn+이/jcc
+
+되고
+	되/nbu+고/jcj
+
+
+대축과
+	대축/ncn+과/jcj
+
+집사가
+	집사/ncr+가/jcc
+
+단헌
+	단헌/ncn
+
+단작으로
+	달/paa+ㄴ/etm+작/nbn+으로/jca
+
+행제를
+	행제/ncn+를/jco
+
+지낸다고
+	지내/pvg+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+도청제는
+	도청/ncn+제/ncn+는/jxc
+
+1948년까지
+	1948/nnc+년/nbu+까지/jxc
+
+심방에
+	심방/ncpa+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+"도청굿"으로
+	"/sl+도청/ncn+굿/ncn+"/sr+으로/jca
+
+지내
+	지내/pvg+어/ecx
+
+왔던
+	오/px+아/ep+ㄴ/etm
+
+것을
+	것/nbn+을/jco
+
+
+뒤에
+	뒤/ncn+에/jca
+
+포제와
+	포제/ncn+와/jct
+
+함께
+	함께/mag
+
+유교식으로
+	유교/ncn+식/ncn+으로/jca
+
+행제를
+	행제/ncn+를/jco
+
+하게
+	하/pvg+게/ecs
+
+된
+	되/pvg+ㄴ/etm
+
+것이라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+포제에
+	포제/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+설명을
+	설명/ncpa+을/jco
+
+들어보니
+	들/pvg+어/ecx+보/px+니/ecs
+
+포제를
+	포제/ncn+를/jco
+
+지내기
+	지내/pvg+기/etn
+
+위해
+	위하/pvg+어/ecs
+
+
+북촌리
+	북촌/ncn+리/ncn
+
+마을
+	마을/ncn
+
+주민들의
+	주민/ncn+들/ncn+의/jcm
+
+정성이
+	정성/ncn+이/jcc
+
+정말
+	정말/mag
+
+대단하다라는
+	대단/ncps+하/xsms+다/ef+라는/jcr
+
+것을
+	것/nbn+을/jco
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+여기가
+	여기/npd+가/jcc
+
+바로
+	바로/mag
+
+북촌리
+	북촌/ncn+리/ncn
+
+마을
+	마을/ncn
+
+포제가
+	포제/ncn+가/jcs
+
+열리는
+	열리/pvg+는/etm
+
+상단이다
+	상단/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+상단은
+	상단/ncn+은/jxc
+
+기와지붕에
+	기와지붕/ncn+에/jca
+
+대리석을
+	대리석/ncn+을/jco
+
+둘렀고,
+	두르/pvg+었/ep+고/ecc+,/sp
+
+제단도
+	제단/ncn+도/jxc
+
+만들어져
+	만들/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/07/29/161/E31403138F3D13035123ED4073B80A43D41_scpark1214_480P_01_16x9_logo.
+	net/blogucc28/2012/07/29/161/E31403138F3D13035123ED4073B80A43D41_scpark1214_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'28.
+	'/sr+28./nnc
+
+0';
+	0/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'3813AB2B08315405C934C9F34A4B89CF8311';
+	'3813AB2B08315405C934C9F34A4B89CF8311/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12756514ea09dce16363a8c1d2e341420f9eab1c1ea7c545383ace902c9e48eeea11a8c1d2e341420f9e';
+	'V12756514ea09dce16363a8c1d2e341420f9eab1c1ea7c545383ace902c9e48eeea11a8c1d2e341420f9e/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_02816
+	ugcPlayer_02816/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_02816'
+	VideoInfraUGCPlayer('ugcPlayer_02816'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_02816
+	ugcPlayer_02816/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+상단
+	상단/ncn
+
+바로
+	바로/mag
+
+아래에는
+	아래/ncn+에/jca+는/jxc
+
+하단이
+	하단/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+하단도
+	하단/ncn+도/jxc
+
+상단과
+	상단/ncn+과/jcj
+
+마찬가지로
+	마찬가지/ncn+로/jca
+
+기와지붕에
+	기와지붕/ncn+에/jca
+
+대리석을
+	대리석/ncn+을/jco
+
+둘렀고
+	두르/pvg+었/ep+고/ecc
+
+
+제단이
+	제단/ncn+이/jcc
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+칠머리영등굿보존회가
+	칠머리영등굿보존회/ncn+가/jcs
+
+2012
+	2012/nnc
+
+생생문화재사업
+	생생문화재사업/ncn
+
+일환으로
+	일환/ncn+으로/jca
+
+마련한
+	마련/ncpa+한/ncn
+
+
+제주도민과
+	제주도민/ncn+과/jct
+
+함께
+	함께/mag
+
+하는
+	하/pvg+는/etm
+
+"영등할망
+	"영등할망/ncn
+
+보름질
+	보름/ncn+질/ncn
+
+걷기"참가자들이
+	걷/pvg+기/etn+"/sl+참가자/ncn+들/ncn+이/jcc
+
+북촌리
+	북촌/ncn+리/ncn
+
+마을
+	마을/ncn
+
+포제단을
+	포제단/ncn+을/jco
+
+나서는
+	나서/pvg+는/etm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+"영등할망
+	"영등할망/ncn
+
+보름질
+	보름/ncn+질/ncn
+
+걷기"
+	걷/pvg+기/etn+"/sl
+
+행사는
+	행사/ncpa+는/jxc
+
+8월말까지
+	8/nnc+월/nbu+말/xsnu+까지/jxc
+
+열린다고
+	열리/pvg+ㄴ다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+관심
+	관심/ncn
+
+있는
+	있/px+는/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+참가해보세요
+	참가/ncpa+하/xsva+어/ecx+보/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+문의:
+	문/ncn+의/jcm+:/sp
+
+칠머리당굿보존회(064-753-7812)
+	칠머리당굿보존회/ncn+(/sl+064/nnc+-753/nnc+-7812/nnc+)/sr

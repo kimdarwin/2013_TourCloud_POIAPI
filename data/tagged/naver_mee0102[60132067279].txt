@@ -1,0 +1,1399 @@
+[마노디셰프
+	[마노디셰프/ncn
+
+명동점]
+	명동점/ncn+]/sr
+
+
+[명동맛집/명동
+	[명동맛집/명동/ncn
+
+이탈리안
+	이탈리안/ncn
+
+레스토랑,분위기
+	레스토랑/ncn+,/sp+분위기/ncn
+
+좋은
+	좋/paa+은/etm
+
+맛집]
+	맛집/ncn+]/sr
+
+
+[마노디셰프
+	[마노디셰프/ncn
+
+명동점][명동맛집/명동
+	명동점][명동맛집/명동/ncn
+
+이탈리안
+	이탈리안/ncn
+
+레스토랑,분위기
+	레스토랑/ncn+,/sp+분위기/ncn
+
+좋은
+	좋/paa+은/etm
+
+맛집]프리미엄
+	맛집]프리미엄/ncn
+
+꽃게
+	꽃/ncn+게/jca
+
+파스타
+	파스타/ncn
+
+
+[마노디셰프
+	[마노디셰프/ncn
+
+명동점][명동맛집/명동
+	명동점][명동맛집/명동/ncn
+
+이탈리안
+	이탈리안/ncn
+
+레스토랑,분위기
+	레스토랑/ncn+,/sp+분위기/ncn
+
+좋은
+	좋/paa+은/etm
+
+맛집]스위트
+	맛집]스위트/ncn
+
+쉬림프
+	쉬림프/ncn
+
+피자
+	피자/ncn
+
+
+분위기
+	분위기/ncn
+
+좋은
+	좋/paa+은/etm
+
+맛집
+	맛집/ncn
+
+마노디셰프가
+	마노디셰프/ncn+가/jcs
+
+강남점,
+	강남/ncn+점/ncn+,/sp
+
+삼성점에
+	삼성/ncn+점/ncn+에/jca
+
+이어
+	이/npd+이/jp+어/ecs
+
+명동점을
+	명동점/ncn+을/jco
+
+오픈했더라구요~
+	오픈/ncpa+하/xsva+었더/ep+라구/ef+요/jxf+~/sd
+
+
+마노디셰프를
+	마노디셰프/ncn+를/jco
+
+안
+	알/pvg+ㄴ/etm
+
+이후
+	이후/ncn
+
+저도
+	저/npp+도/jxc
+
+좋아라
+	좋/paa+아/ecs
+
+하는
+	하/pvg+는/etm
+
+이탈리안
+	이탈리안/ncn
+
+레스토랑이기도
+	레스토랑/ncn+이/jp+기/etn+도/jxc
+
+한데요,
+	한데/ncn+요/ncn+,/sp
+
+
+그
+	그/mmd
+
+오픈
+	오픈/ncpa
+
+100일
+	100/nnc+일/nbu
+
+기념으로
+	기념/ncpa+으로/jca
+
+초대를
+	초대/ncn+를/jco
+
+받게
+	받/pvg+게/ecs
+
+되었어요~
+	되/nbu+이/jp+었/ep+어요/ef+~/sd
+
+
+서울
+	서울/ncn
+
+특히
+	특히/mag
+
+명동은
+	명동/ncn+은/jxc
+
+제가
+	저/npp+가/jcs
+
+여행을
+	여행/ncpa+을/jco
+
+가면서
+	가/px+면서/ecc
+
+보통
+	보통/mag
+
+서울역에서
+	서울역/ncn+에서/jca
+
+집결할
+	집결/ncpa+하/xsva+ㄹ/etm
+
+때
+	때/ncn
+
+버스를
+	버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+항상
+	항상/mag
+
+지나치는
+	지나치/pvg+는/etm
+
+곳이긴
+	곳이긴/ncn
+
+하지만
+	하지만/maj
+
+
+북적대는
+	북적대/pvg+는/etm
+
+명동을
+	명동/ncn+을/jco
+
+거닌
+	거닐/pvg+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+드문일이기도
+	드문일/ncn+이/jp+기/etn+도/jxc
+
+했어요~
+	하/pvg+었/ep+어요/ef+~/sd
+
+
+주말에
+	주말/ncn+에/jca
+
+남편과
+	남편/ncn+과/jcj
+
+서울
+	서울/ncn
+
+명동
+	명동/ncn
+
+나들이도
+	나들이/ncpa+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+분위기
+	분위기/ncn
+
+좋은
+	좋/paa+은/etm
+
+맛집에서
+	맛집/ncn+에서/jca
+
+근사한
+	근사/ncps+하/xsms+ㄴ/etm
+
+식사를
+	식사/ncpa+를/jco
+
+하기
+	하/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+마노디셰프
+	마노디셰프/ncn
+
+명동점을
+	명동점/ncn+을/jco
+
+찾았더랬죠~
+	찾았더랬죠/ncn+~/sd
+
+
+일요일
+	일요일/ncn
+
+정도였으면
+	정도/ncn+이/jp+었/ep+으면/ecs
+
+조금
+	조금/mag
+
+한산했을텐데
+	한산했을텐데/ncn
+
+토요일이라
+	토요일/ncn+이/jp+라/ecs
+
+매장안은
+	매장/ncn+안/ncn+은/jxc
+
+그야말로
+	그야말로/mag
+
+인산인해였지만
+	인산인해/ncn+이/jp+었/ep+지만/ecs
+
+이런
+	이런/mmd
+
+북적임도
+	북/ncn+적/xsncc+이/jp+ㅁ/etn+도/jxc
+
+나쁘진
+	나쁘진/ncn
+
+않더군요~
+	않/paa+더군/ef+요/jxf+~/sd
+
+
+북적이는
+	북/ncn+적/xsncc+이/jp+는/etm
+
+사람들을
+	사람들/ncn+을/jco
+
+대신해
+	대신/ncn+해/ncn
+
+풀
+	풀/pvg+ㄹ/etm
+
+샷은
+	샷/ncn+은/jxc
+
+담지
+	담/pvg+지/ecx
+
+못하고
+	못하/px+고/ecc
+
+소품들
+	소품/ncn+들/ncn
+
+위주로만
+	위주/ncpa+로/jca+만/jxc
+
+담아봅니다
+	담/pvg+아/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이탈리안
+	이탈리안/ncn
+
+와인
+	와인/ncn
+
+레스토랑이기에
+	레스토랑/ncn+이/jp+기/etn+에/jca
+
+와인도
+	와인/ncn+도/jxc
+
+즐비하게
+	즐비/ncps+하/xsms+게/ecs
+
+놓여
+	놓이/pvg+어/ecx
+
+있음은
+	있/px+음/etn+은/jxc
+
+말할
+	말/ncpa+하/xsva+ㄹ/etm
+
+것도
+	것/nbn+도/jxc
+
+없겠지요~
+	없/paa+겠/ep+지요/ef+~/sd
+
+
+다음에
+	다음/ncn+에/jca
+
+올
+	오/px+ㄹ/etm
+
+땐
+	때/pvg+ㄴ/etm
+
+정식으로
+	정식/ncn+으로/jca
+
+맛난
+	맛나/paa+ㄴ/etm
+
+와인도
+	와인/ncn+도/jxc
+
+함께
+	함께/mag
+
+마셔야
+	마시/pvg+어야/ecs
+
+할까봐요~
+	할까봐요/ncn+~/sd
+
+
+제가
+	저/npp+가/jcs
+
+가
+	가/jcs
+
+본
+	보/px+ㄴ/etm
+
+마노디셰프는
+	마노디셰프/ncn+는/jxc
+
+삼성점이었는데요,
+	삼성/ncn+점이/ncpa+이/jp+었/ep+는데요/ef+,/sp
+
+
+지하였던
+	지하/ncn+이/jp+었/ep+던/etm
+
+삼성점에
+	삼성/ncn+점/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+마노디셰프
+	마노디셰프/ncn
+
+명동점은
+	명동점/ncn+은/jxc
+
+일명
+	일/nnc+명/nbu
+
+난타극장
+	난타/ncpa+극장/ncn
+
+건물로
+	건물/ncn+로/jca
+
+더
+	더/mag
+
+잘
+	잘/mag
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+유네스코
+	유네스코/ncn
+
+회관11층에
+	회관11층/ncn+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+있어
+	있/px+어/ecx
+
+매장안이
+	매장/ncn+안/ncn+이/jcc
+
+밝음은
+	밝/paa+음/etn+은/jxc
+
+말할
+	말/ncpa+하/xsva+ㄹ/etm
+
+것도
+	것/nbn+도/jxc
+
+없고
+	없/paa+고/ecc
+
+
+남산타워가
+	남산타워/ncn+가/jcs
+
+보이는
+	보이/pvg+는/etm
+
+전망이
+	전망/ncn+이/jcc
+
+보여
+	보이/pvg+어/ecx
+
+밤이면
+	밤/ncn+이/jp+면/ecs
+
+연인들
+	연인/ncn+들/ncn
+
+분위기
+	분위기/ncn
+
+잡고
+	잡/pvg+고/ecc
+
+데이트
+	데이트/ncpa
+
+즐기기에
+	즐기/pvg+기/etn+에/jca
+
+좋은
+	좋/paa+은/etm
+
+맛집
+	맛집/ncn
+
+이
+	이/mmd
+
+될
+	되/pvg+ㄹ/etm
+
+거
+	것/nbn
+
+같아요~
+	같/paa+아요/ef+~/sd
+
+
+몇
+	몇/nnc
+
+자리
+	자리/ncn
+
+비어
+	비/paa+어/ecx
+
+있는
+	있/px+는/etm
+
+곳도
+	곳/ncn+도/jxc
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+대부분
+	대부분/ncn
+
+회전율이
+	회전율/ncn+이/jcc
+
+빨라
+	빠르/paa+아/ecx
+
+주말엔
+	주말/ncn+엔/jca
+
+조금
+	조금/mag
+
+서두르셔야겠어요~
+	서두/ncn+르/ncn+이/jp+시/ep+어야겠/ep+어요/ef+~/sd
+
+
+그리고
+	그리고/maj
+
+예약은
+	예약/ncpa+은/jxc
+
+필수입니다~
+	피/pvg+ㄹ/etm+수/nbn+이/jp+ㅂ니다/ef+~/sd
+
+!!
+	!/sf+!/sf
+
+
+저희
+	저희/npp
+
+부부는
+	부부/ncn+는/jxc
+
+남산타워가
+	남산타워/ncn+가/jcs
+
+잘
+	잘/mag
+
+보이는
+	보이/pvg+는/etm
+
+창가자리에
+	창가/ncn+자리/ncn+에/jca
+
+앉았더랬죠~
+	앉았더랬죠/ncn+~/sd
+
+
+빈
+	비/paa+ㄴ/etm
+
+와인병에
+	와인/ncn+병/ncn+에/jca
+
+초점이
+	초점/ncn+이/jcc
+
+맞춰져
+	맞추/pvg+어/ecx+지/px+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+상대적으로
+	상대/ncn+적/ncn+으로/jca
+
+바깥
+	바깥/ncn
+
+풍경은
+	풍경/ncn+은/jxc
+
+남산타워가
+	남산타워/ncn+가/jcs
+
+잘
+	잘/mag
+
+안보일텐데
+	안보/ncn+이/jp+ㄹ텐데/ecs
+
+숨은그림처럼
+	숨은그림/ncn+처럼/jca
+
+잘
+	잘/mag
+
+찾으면
+	찾/pvg+으면/ecs
+
+남산타워가
+	남산타워/ncn+가/jcs
+
+보인답니다
+	보이/pvg+ㄴ답니다/ef
+
+.
+	./sf
+
+
+다음에는
+	다음/ncn+에/jca+는/jxc
+
+특별한
+	특별/ncps+하/xsms+ㄴ/etm
+
+날
+	나/px+ㄹ/etm
+
+남편과
+	남편/ncn+과/jcj
+
+저녁에
+	저녁/ncn+에/jca
+
+다시
+	다시/mag
+
+와서
+	오/px+아/ecs
+
+분위기
+	분위기/ncn
+
+좀
+	좀/mag
+
+잡아봐야겠어요~
+	잡/pvg+어/ecx+보/px+아/ep+아/ef+~/sd
+
+
+물론
+	물론/mag
+
+강남점과
+	강남/ncn+점/ncn+과/jcj
+
+삼성점이
+	삼성/ncn+점/ncn+이/jcc
+
+똑같겠지만
+	똑같/paa+겠/ep+지만/ecs
+
+마노디셰프
+	마노디셰프/ncn
+
+명동점의
+	명동점/ncn+의/jcm
+
+메뉴를
+	메뉴/ncn+를/jco
+
+볼까요~
+	보/pvg+ㄹ까요/ef+~/sd
+
+
+제가
+	저/npp+가/jcs
+
+주문한
+	주문/ncn+한/ncn
+
+메뉴는요
+	메뉴는요/ncn
+
+...
+	.../se
+
+
+샹그리아
+	샹그리/ncn+아/jcv
+
+500ml
+	500ml/ncn
+
+10,800원레드와인에
+	10,800원레드와인/ncn+에/jca
+
+오렌지,
+	오렌지/ncn+,/sp
+
+레몬,
+	레몬/ncn+,/sp
+
+파인애플,
+	파인애플/ncn+,/sp
+
+복숭아
+	복숭아/ncn
+
+등
+	등/nbu
+
+과일을
+	과일/ncn+을/jco
+
+넣어
+	넣/pvg+어/ecx
+
+여름철
+	여름철/ncn
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+마시는
+	마시/pvg+는/etm
+
+식전와인음료
+	식전/ncn+와인/ncn+음료/ncn
+
+
+시저샐러드
+	시저샐러드/ncn
+
+위드
+	위드/ncn
+
+그릴드
+	그릴/ncn+드/ncn
+
+치킨
+	치키/pvg+ㄴ/etm
+
+13,800원신선한
+	13,800원신선한/ncn
+
+로메인과
+	로메인/ncn+과/jcj
+
+그릴에
+	그릴/ncn+에/jca
+
+구운
+	굽/pvg+은/etm
+
+닭
+	닭/ncn
+
+가슴살에
+	가슴/ncn+살/ncn+에/jca
+
+부드러운
+	부드럽/paa+은/etm
+
+시저드레싱이
+	시저드레싱/ncn+이/jcc
+
+일품인
+	일품/ncn+이/jp+ㄴ/etm
+
+샐러드
+	샐러드/ncn
+
+
+프리미엄
+	프리미엄/ncn
+
+꽃게
+	꽃/ncn+게/jca
+
+파스타
+	파스타/ncn
+
+21,800원키토산이
+	21,800원키토산/ncn+이/jcc
+
+풍부한
+	풍부/ncps+하/xsms+ㄴ/etm
+
+새우껍질을
+	새우/ncn+껍질/ncn+을/jco
+
+이용한
+	이용/ncpa+하/xsva+ㄴ/etm
+
+비스크
+	비스크/ncn
+
+로제소스와
+	로제소스/ncn+와/jct
+
+싱싱한
+	싱싱/ncps+하/xsms+ㄴ/etm
+
+꽃게
+	꽃/ncn+게/jca
+
+한마리를
+	한/nnc+마리/nbu+를/jco
+
+통째로
+	통째로/mag
+
+맛볼
+	맛보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+프리미엄
+	프리미엄/ncn
+
+파스타
+	파스타/ncn
+
+
+스위트
+	스위트/ncn
+
+쉬림프
+	쉬림프/ncn
+
+피자
+	피/ncn+이/jp+자/ecc
+
+19,800원통통한
+	19,800원통통한/ncn
+
+새우와
+	새우/ncn+와/jcj
+
+루꼴라,
+	루꼴라,/ncn
+
+허브마늘,
+	허브마늘,/ncn
+
+파인애플이
+	파인애플/ncn+이/jcc
+
+곁들여진
+	곁들이/pvg+어/ecx+지/px+ㄴ/etm
+
+부드럽고
+	부드럽/paa+고/ecc
+
+달콤한
+	달콤한/ncn
+
+맛의
+	맛/ncn+의/jcm
+
+프리미엄
+	프리미엄/ncn
+
+피자
+	피자/ncn
+
+
+아메리카노티라미슈
+	아메리카노티라미슈/ncn
+
+6,200원수제로
+	6,200원수제/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+부드러운
+	부드럽/paa+은/etm
+
+티라미슈
+	티라미슈/ncn
+
+케익과
+	케익/ncn+과/jcj
+
+아메리카노로
+	아메리카노/ncn+로/jca
+
+제공되는
+	제공/ncpa+되/xsvn+는/etm
+
+디저트
+	디저트/ncn
+
+
+식전와인음료로
+	식전/ncn+와인/ncn+음료/ncn+로/jca
+
+제공되는
+	제공/ncpa+되/xsvn+는/etm
+
+샹그리아에요~
+	샹그리아/ncn+이/jp+에요/ef+~/sd
+
+
+여름철에
+	여름철/ncn+에/jca
+
+주로
+	주로/mag
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+마시는
+	마시/pvg+는/etm
+
+식전와인음료라
+	식전/ncn+와인/ncn+음료/ncn+이/jp+라/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+그
+	그/mmd
+
+청량감이
+	청량/ncn+감/ncn+이/jcc
+
+좋았어요~
+	좋/paa+아/ep+아/ef+~/sd
+
+
+과일도
+	과일/ncn+도/jxc
+
+들어갔지만
+	들/pvg+어/ecx+가/px+아/ep+지만/ecs
+
+메인은
+	메인/ncn+은/jxc
+
+레드와인이
+	레드/ncn+와인/ncn+이/jcc
+
+들어갔기에
+	들/pvg+어/ecx+가/px+아/ep+기/etn+에/jca
+
+조금
+	조금/mag
+
+기분좋은
+	기분좋/paa+은/etm
+
+알딸딸함을
+	알딸딸함/ncn+을/jco
+
+만끽할
+	만끽/ncpa+하/xsva+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있어요~
+	있/paa+어요/ef+~/sd
+
+
+기분인데
+	기분/ncn+이/jp+ㄴ데/ecs
+
+건배는
+	건배/ncn+는/jxc
+
+필수겠죠~
+	필수/ncn+이/jp+겠/ep+죠/ef+~/sd
+
+
+샐러드는
+	샐러드/ncn+는/jxc
+
+시저샐러드
+	시저샐러드/ncn
+
+위드
+	위드/ncn
+
+그릴드
+	그릴/ncn+드/ncn
+
+치킨으로
+	치킨/ncn+으로/jca
+
+
+닭가슴살과
+	닭가슴살/ncn+과/jcj
+
+바삭하게
+	바삭하/ncn+이/jp+게/ecs
+
+구운
+	굽/pvg+은/etm
+
+쿠르통이
+	쿠르통/ncn+이/jcc
+
+입맛을
+	입맛/ncn+을/jco
+
+당깁니다
+	당기/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+전체
+	전체/ncn
+
+풀세팅을
+	풀세팅/ncn+을/jco
+
+한번
+	한/nnc+번/nbu
+
+담아봅니다
+	담/pvg+아/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+파스타와
+	파스타/ncn+와/jct
+
+피자
+	피/pvg+자/ecc
+
+먹을
+	먹/pvg+을/etm
+
+때
+	때/ncn
+
+빠질
+	빠지/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+오이피클은
+	오이피클/ncn+은/jxc
+
+약방의
+	약방/ncn+의/jcm
+
+감초라지요~
+	감초/ncn+라/ncn+이/jp+지요/ef+~/sd
+
+
+해산물
+	해산물/ncn
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+저는
+	저/npp+는/jxc
+
+안면도에서
+	안면/ncn+도/ncn+에서/jca
+
+그토록
+	그토록/mag
+
+꽃게를
+	꽃게/ncn+를/jco
+
+먹었음에도
+	먹/pvg+었/ep+음/etn+에/jca+도/jxc
+
+부족했나봅니다
+	부족했나봅니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+파스타는
+	파스타/ncn+는/jxc
+
+프리미엄
+	프리미엄/ncn
+
+꽃게
+	꽃/ncn+게/jca
+
+파스타를
+	파스타/ncn+를/jco
+
+주문했어요~
+	주문/ncpa+하/xsva+었/ep+어요/ef+~/sd
+
+
+돌돌
+	돌돌/mag
+
+말아
+	말/px+아/ecx
+
+한
+	하/pvg+ㄴ/etm
+
+입
+	입/ncn
+
+먹으면
+	먹/pvg+으면/ecs
+
+꽃게의
+	꽃/ncn+게/jca+의/jcm
+
+바다내음과
+	바다/ncn+내음/ncn+과/jcj
+
+로제소스가
+	로제소스/ncn+가/jcs
+
+입안
+	입안/ncpa
+
+가득
+	가득/mag
+
+들어온다죠~
+	들어온다/ncn+이/jp+죠/ef+~/sd
+
+
+피자는
+	피/pvg+자/ef+는/etm
+
+스위트
+	스위트/ncn
+
+쉬림프
+	쉬림프/ncn
+
+피자를
+	피자/ncn+를/jco
+
+주문했구요~
+	주문했구요/ncn+~/sd
+
+
+루꼴라
+	루꼴라/ncn
+
+잎을
+	잎/ncn+을/jco
+
+피자위로
+	피자/ncn+위/ncn+로/jca
+
+올려
+	올리/pvg+어/ecx
+
+돌돌
+	돌돌/mag
+
+말아
+	말/px+아/ecx
+
+먹으면
+	먹/pvg+으면/ecs
+
+스위트
+	스위트/ncn
+
+쉬림프
+	쉬림프/ncn
+
+피자를
+	피자/ncn+를/jco
+
+맛있게
+	맛있/paa+게/ecs
+
+먹는
+	먹/pvg+는/etm
+
+방법입니다
+	방법/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+말이죠~
+	말/nbu+이/jp+죠/ef+~/sd
+
+
+벌써
+	벌써/mag
+
+디저트를
+	디저트/ncn+를/jco
+
+먹을
+	먹/pvg+을/etm
+
+시간이에요~
+	시간/nbu+이/jp+에요/ef+~/sd
+
+
+디저트는
+	디저트/ncn+는/jxc
+
+아메리카노티라미슈
+	아메리카노티라미슈/ncn
+
+
+진한
+	지/px+ㄴ/etm+한/nbn
+
+아메리카노와
+	아메리카노/ncn+와/jcj
+
+
+부드러운
+	부드럽/paa+은/etm
+
+티라미수의
+	티라미수/ncn+의/jcm
+
+만남~
+	만남/ncn+~/sd
+
+
+점심으로
+	점심/ncn+으로/jca
+
+너무
+	너무/mag
+
+잘
+	잘/mag
+
+먹어서
+	먹/pvg+어서/ecs
+
+배가
+	배/ncn+가/jcs
+
+얼마나
+	얼마나/mag
+
+빵빵하던지요~
+	빵빵하던지요/ncn+~/sd
+
+
+저녁맛집까지
+	저녁맛집까지/ncn
+
+예정되었던
+	예정/ncn+되/xsvn+었/ep+던/etm
+
+이날
+	이/nnc+날/nbu
+
+우리부부는
+	우리/ncn+부부/ncn+는/jxc
+
+소화를
+	소화/ncn+를/jco
+
+시키기
+	시키/pvg+기/etn
+
+위해청계천을
+	위해/ncn+청계/ncn+천/ncn+을/jco
+
+처음부터
+	처음/mag+부터/jxc
+
+끝까지
+	끝/ncn+까지/jxc
+
+걸었다지요~
+	걸었다/ncn+이/jp+지요/ef+~/sd
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+마노디셰프
+	마노디셰프/ncn
+
+명동점02-777-7047
+	명동점02-777-7047/ncn
+
+서울특별시
+	서울특별시/ncn
+
+중구
+	중구/ncn
+
+명동2가
+	명동2/ncn+가/jcs
+
+50-14
+	50/nnc+-14/nnc
+
+유네스코회관
+	유네스코/ncn+회관/ncn
+
+11층
+	11/nnc+층/nbu
+
+
+(을지로입구역
+	(을지로입구역/ncn
+
+5번출구에서
+	5번출구/ncn+에서/jca
+
+도보로
+	도보/ncpa+로/jca
+
+6분
+	6/nnc+분/nbu
+
+거리)
+	거리/nbn+)/sr
+
+
+2011.
+	2011./nnc
+
+6.
+	6./nnc
+
+13|지도
+	13|지/ncn+도/jxc
+
+크게
+	크/paa+게/ecs
+
+보기
+	보/px+기/etn
+
+NHN
+	NHN/f
+
+Corp.
+	Corp/f+./sf

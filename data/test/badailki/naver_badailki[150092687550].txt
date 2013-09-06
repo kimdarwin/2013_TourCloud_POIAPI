@@ -1,0 +1,41 @@
+Title:
+PD수첩 4대강 수심 6m의 비밀의 진실_낙동강의 진실 
+
+Date:
+2010.08.25 01:49
+
+Content:
+
+
+PD수첩 4대강 수심 6m의 비밀의 진실_낙동강의 진실
+4대강 사업은 대운하가 아닙니다.
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc21/2010/08/25/589/03100223A10A534E4FC3F94873E32743A42_badailki_logo.jpg';
+	layout.playtime = '43.63';
+	var qsParam = {};
+	qsParam.vid = '604632E0830083D0FDE5E77B8BF50C066627';
+	qsParam.inKey = 'V12550cea0909f7c94f432a0b93b5cacb9975a98aca5fd1d4d9883caafc7be7801f322a0b93b5cacb9975';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_09359 = new VideoInfraUGCPlayer('ugcPlayer_09359' ,bean); 
+ugcPlayer_09359.drawPlayLayer(); 
+}
+
+
+
+	

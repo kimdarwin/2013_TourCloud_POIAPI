@@ -1,0 +1,896 @@
+[완주여행]완주
+	[/sl+완주/ncpa+여행/ncpa+]/sr+완주/ncpa
+
+스페셜포스,
+	스페셜포스,/ncn
+
+완주밀리터리
+	완주밀리터리/ncn
+
+테마파크에서
+	테마/ncn+파크/ncn+에서/jca
+
+실전과
+	실전/ncn+과/jct
+
+같은
+	같/paa+은/etm
+
+게임을~
+	게임/ncn+을/jco+~/sd
+
+
+완주1박2일여행
+	완주1박2일여행/ncn
+
+
+완주
+	완주/ncpa
+
+고산자연휴양림
+	고산/ncn+자연/ncn+휴양림/ncn
+
+입구에
+	입구/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+완주밀리터리테마파크
+	완주밀리터리테마파크/ncn
+
+완주
+	완주/ncpa
+
+스페셜포스~~
+	스페셜포스/ncn+~/sd+~/sd
+
+
+인제에서만나고
+	인제에서만나/ncn+이/jp+고/ecc
+
+두번째로경험하게
+	두번째로경험하/ncn+이/jp+게/ecs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+입구에는
+	입구/ncn+에/jca+는/jxc
+
+중화기
+	중화/ncn+이/jp+기/etn
+
+사격장와
+	사격장/ncn+와/jcj
+
+런닝슈팅
+	런닝슈팅/ncn
+
+사격장도
+	사격장/ncn+도/jxc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+중화기
+	중화/ncn+이/jp+기/etn
+
+사격장이다
+	사격장/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+완주
+	완주/ncpa
+
+스페셜
+	스페셜/ncn
+
+포스
+	포스/ncn
+
+밀리터리
+	밀리터리/ncn
+
+테마파크에서는
+	테마/ncn+파크/ncn+에서/jca+는/jxc
+
+비비탄을
+	비/xp+비탄/ncpa+을/jco
+
+이용하여
+	이용/ncpa+하/xsva+어/ecx
+
+경기를
+	경기/ncn+를/jco
+
+하므로
+	하/pvg+므로/ecs
+
+
+군복상의와
+	군복/ncn+상의/ncn+와/jcj
+
+헬멧,
+	헬멧/ncn+,/sp
+
+방탄조끼등
+	방탄조끼/ncn+등/ncn
+
+보호
+	보호/ncpa
+
+장비를
+	장비/ncpa+를/jco
+
+반드시
+	반드시/mag
+
+착용하고
+	착용/ncpa+하고/jct
+
+경기를
+	경기/ncn+를/jco
+
+해야
+	하/pvg+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+보호
+	보호/ncpa
+
+및
+	및/maj
+
+감지장비와
+	감지/ncpa+장비/ncpa+와/jcj
+
+경기장
+	경기장/ncn
+
+사용총기를
+	사용/ncpa+총기/ncn+를/jco
+
+자세히
+	자세히/mag
+
+설명한
+	설명/ncpa+하/xsva+ㄴ/etm
+
+안내판
+	안내판/ncn
+
+
+완주
+	완주/ncpa
+
+스페셜
+	스페셜/ncn
+
+포스
+	포스/ncn
+
+자동
+	자동/ncn
+
+티켓
+	티켓/ncn
+
+발매기에서
+	발매/ncpa+이/jp+기/etn+에서/jca
+
+체험자들이
+	체험자/ncn+들/ncn+이/jcc
+
+체력에
+	체력/ncn+에/jca
+
+맞게
+	맞/pvg+게/ecs
+
+직접
+	직접/mag
+
+선택하여
+	선택/ncpa+하/xsva+어/ecx
+
+발권하면
+	발권/ncpa+하/xsva+면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+날씨가
+	날씨/ncn+가/jcs
+
+너무
+	너무/mag
+
+더워
+	덥/paa+어/ecx
+
+직접
+	직접/mag
+
+참여하지
+	참여/ncpa+하/xsva+지/ecx
+
+않고
+	않/px+고/ecc
+
+관람석에서
+	관람석/ncn+에서/jca
+
+사진을
+	사진/ncn+을/jco
+
+담기로~~~
+	담/pvg+기/etn+로/jca+~/sd+~/sd+~/sd
+
+
+목
+	목/ncn
+
+두건으로
+	두/nnc+건/nbu+으로/jca
+
+상대팀을
+	상대/ncn+팀/ncn+을/jco
+
+구별할
+	구별/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+완주
+	완주/ncpa
+
+밀리터리
+	밀리터리/ncn
+
+테마파크는
+	테마/ncn+파크/ncn+는/jxc
+
+실제
+	실제/ncn
+
+타격감과
+	타격/ncpa+감/ncn+과/jcj
+
+사격감을
+	사격/ncpa+감/ncn+을/jco
+
+줄
+	주/px+ㄹ/etm
+
+수
+	수/nbn
+
+있고
+	있/px+고/ecc
+
+근접
+	근접/ncpa
+
+전투에
+	절/pvg+ㄴ/etm+투/nbn+에/jca
+
+특화된
+	특화/ncn+되/xsvn+ㄴ/etm
+
+무선
+	무선/ncn
+
+네트워크
+	네트워크/ncn
+
+기능이
+	기능/ncn+이/jcc
+
+탑재된
+	탑재/ncn+되/xsvn+ㄴ/etm
+
+
+GPR
+	GPR/f
+
+시스템을
+	시스템/ncn+을/jco
+
+도입하여
+	도입/ncpa+하/xsva+어/ecx
+
+실절과
+	실절/ncn+과/jct
+
+같은
+	같/paa+은/etm
+
+근접모의
+	근접/ncpa+모/ncn+의/jcm
+
+전투를
+	절/pvg+ㄴ/etm+투/nbn+를/jco
+
+경험
+	경험/ncpa
+
+하루
+	하루/ncn
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+2층
+	2/nnc+층/nbu
+
+관람석에서
+	관람석/ncn+에서/jca
+
+전체
+	전체/ncn
+
+게임을
+	게임/ncn+을/jco
+
+한눈으로
+	한눈/ncn+으로/jca
+
+보면서
+	보/px+면서/ecc
+
+뛰며
+	뛰/pvg+며/ecc
+
+쫓기는
+	쫓기/pvg+는/etm
+
+장면과
+	장면/ncn+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+전광판에
+	전광판/ncn+에/jca
+
+숫자가
+	숫자/ncn+가/jcs
+
+올라가므로
+	오르/pvg+아/ecx+가/px+므로/ecs
+
+구경하면서도
+	구경/ncpa+하/xsva+면서/ecs+도/jxc
+
+박진감이
+	박진감/ncn+이/jcc
+
+넘치는것
+	넘치/pvg+는/etm+것/nbn
+
+같았다
+	같/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+좋은
+	좋/paa+은/etm
+
+위치에서
+	위치/ncn+에서/jca
+
+보이지않게
+	보이/pvg+지/ecx+않/px+게/ecs
+
+공격을
+	공격/ncpa+을/jco
+
+잘해야
+	잘하/pvg+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+실제
+	실제/ncn
+
+경기는
+	경기/ncn+는/jxc
+
+10여분
+	10/nnc+여/xsnu+분/nbu
+
+뛰는것
+	뛰/pvg+는/etm+것/nbn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+더위와
+	더위/ncn+와/jct
+
+함께
+	함께/mag
+
+체력소모가
+	체력소모/ncpa+가/jcc
+
+상당하다
+	상당/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+전체
+	전체/ncn
+
+경기장은
+	경기장/ncn+은/jxc
+
+50mX76m
+	50mX76m/ncn
+
+로
+	로/ncn
+
+시가지
+	시가지/ncn
+
+형태의
+	형태/ncn+의/jcm
+
+장애물을
+	장애물/ncn+을/jco
+
+적절하게
+	적절/ncps+하/xsms+게/ecs
+
+배치하여
+	배치/ncpa+하/xsva+어/ecx
+
+액션영화속의
+	액션영화/ncn+속/ncn+의/jcm
+
+주인공이나
+	주인공/ncn+이나/jcj
+
+
+특수부대원들의
+	특수부대원/ncn+들/ncn+의/jcm
+
+전투액션씬을
+	전투액션씬/ncn+을/jco
+
+하듯
+	하/pvg+듯/ecs
+
+시가지
+	시가지/ncn
+
+전투를
+	절/pvg+ㄴ/etm+투/nbn+를/jco
+
+경험
+	경험/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+2층
+	2/nnc+층/nbu
+
+통제실에서
+	통제/ncpa+실/ncn+에서/jca
+
+컴퓨터와
+	컴퓨터/ncn+와/jcj
+
+실제
+	실제/ncn
+
+장면을
+	장면/ncn+을/jco
+
+눈으로
+	눈/ncn+으로/jca
+
+보며
+	보/px+며/ecc
+
+통제을
+	통제/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+시설
+	시설/ncpa
+
+이용은
+	이용/ncpa+은/jxc
+
+2명~
+	2/nnc+명/nbu+~/sd
+
+60명이
+	60/nnc+명/nbu+이/jcc
+
+한꺼번에
+	한꺼번에/mag
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+규모이다
+	규모/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+아주
+	아주/mag
+
+작은
+	작/paa+은/etm
+
+꼬마도
+	꼬마/ncn+도/jxc
+
+어른들과
+	어른/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+게임을
+	게임/ncn+을/jco
+
+즐기고
+	즐기/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+상대
+	상대/ncn
+
+비비탄에
+	비/xp+비탄/ncpa+에/jca
+
+맞아
+	맞/pvg+아/ecx
+
+죽으면
+	죽/pvg+으면/ecs
+
+리스폰
+	리스폰/ncn
+
+지역에
+	지역/ncn+에/jca
+
+가서
+	가/pvg+서/ecs
+
+다시
+	다시/mag
+
+재
+	재/pvg+어/ecx
+
+충전을
+	충전/ncpa+을/jco
+
+받아서
+	받/pvg+아/ecx
+
+다시
+	다시/mag
+
+경기에
+	경기/ncn+에/jca
+
+임할
+	임하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+비비탄은
+	비/xp+비탄/ncpa+은/jxc
+
+맞으면
+	맞/pvg+으면/ecs
+
+아프기에
+	아프/paa+기/etn+에/jca
+
+반바지보다는
+	반바지/ncn+보다/jca+는/jxc
+
+긴바지가
+	길/paa+ㄴ/etm+바/nbn+이/jp+지/ecx+가/px+아/ecx
+
+나을듯~
+	나/ncn+이/jp+ㄹ/etm+듯/nbs+~/sd
+
+
+운영시간
+	운영/ncpa+시간/ncn
+
+:
+	:/sp
+
+매주
+	매주/mag
+
+월요일
+	월요일/ncn
+
+과
+	과/ncn
+
+추석,
+	추석/ncn+,/sp
+
+설날
+	설날/ncn
+
+연휴기간을
+	연휴/ncn+기간/ncn+을/jco
+
+제외한
+	제외/ncpa+하/xsva+ㄴ/etm
+
+연중
+	열/pvg+ㄴ/etm+중/nbn
+
+상시운영
+	상시/ncn+운영/ncpa
+
+
+운영시간
+	운영/ncpa+시간/ncn
+
+:
+	:/sp
+
+10시
+	10/nnc+시/nbu
+
+~
+	~/sd
+
+5시
+	5/nnc+시/nbu
+
+30분(하절기)
+	30분(하절기)/ncn
+
+10시~5시(동절기)
+	10시~5시/ncn+(/sl+동절기/ncn+)/sr
+
+
+문의:
+	문/ncn+의/jcm+:/sp
+
+완주
+	완주/ncpa
+
+스페셜
+	스페셜/ncn
+
+포스
+	포스/ncn
+
+사무실
+	사무/ncn+이/jp+시/ep+ㄹ/etm
+
+(063-240-4167)
+	(/sl+063/nnc+-240/nnc+-4167/nnc+)/sr
+
+
+가는길
+	가는길/ncn
+
+;
+	;/sy
+
+서울
+	서울/ncn
+
+-
+	-/sd
+
+호남고속도로
+	호남고속도로/ncn
+
+-
+	-/sd
+
+익산
+	익산/ncn
+
+IC
+	IC/f
+
+-
+	-/sd
+
+봉동읍
+	봉동읍/ncn
+
+-
+	-/sd
+
+고산면
+	고산/ncn+면/ncn
+
+-
+	-/sd
+
+오성교
+	오성/ncn+교/ncn
+
+-
+	-/sd
+
+완주
+	완주/ncpa
+
+스페셜
+	스페셜/ncn
+
+포스
+	포스/ncn
+
+(고산자연휴양림
+	(/sl+고산/ncn+자연/ncn+휴양림/ncn
+
+입구)완주
+	입구/ncn+)/sr+완주/ncpa
+
+스페셜포스
+	스페셜포스/ncn
+
+(밀리터리
+	(밀리터리/ncn
+
+테마파크)전북
+	테마파크)전북/ncn
+
+완주군
+	완주/ncpa+이/jp+군/ef
+
+고산면
+	고산/ncn+면/ncn
+
+오산리
+	오산/ncpa+리/ncn
+
+777번지
+	777번지/ncn
+
+
+완주스페셜포스
+	완주스페셜포스/ncn
+
+
+전라북도
+	전라/ncn+북/ncn+도/jxc
+
+완주군
+	완주/ncpa+이/jp+군/ef
+
+고산면
+	고산/ncn+면/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01698942",
+	"bl01698942",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"20314758",
+	"/sl+20314758/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"완주스페셜포스",
+	title:"완주스페셜포스",/ncn
+
+pointX:331108,pointY:375130}
+	pointX/f+:/sp+331108/nnc+,/sp+pointY/f+:/sp+375130/nnc+}/sr

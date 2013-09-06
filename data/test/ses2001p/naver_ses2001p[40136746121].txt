@@ -1,0 +1,190 @@
+Title:
+아프리카박물관 - 세네갈 
+
+Date:
+2011.08.18 16:43
+
+Content:
+
+"아프리카박물관" - 세네갈
+
+아프리카박물관 지하로 내려가면 세네갈에서온 4인의 전사가 멋진 공연을 보여주는데요 
+
+저도 시간이 되어서 빨리 내려가보았답니다. 
+
+원래는 사진촬영안된다고 했는데 저는 망원으로 플레쉬안터트리고 찍으니 제제하시는 분들은 
+
+없었네요 사실 공연중 플레쉬터트리는거 때문에 공연이 자꾸 끊겨서 못찍게 하시는거일수도 
+
+있어요 저와같이 플레쉬 안터트리고 찍으실수 있는분들은 찍어도 괜찮으실듯해요 *^^*
+
+
+
+
+
+
+세네갈에서 건너온 그들은 정말 열정적인 무대를 보여주었네요 사실 아프리카박물관이 
+
+너무 많이 달라져서 저도 깜짝 놀랬어요 인형사파리도 나중에 보여드리겠지만 많은 생각을
+
+할수 있는곳이 아프리카박물관이에요 참 주말에는 예배도 드린다고해서 관광객들이 더 좋아하는곳
+
+이기도 해요 *^^*
+
+아래사진부터는 공연사진들 올려볼게요 *^^*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2011/08/18/743/03103323113D53BE4DC3597173AB9A23001_ses2001p_PC_DEFAULT_logo.jpg';
+	layout.playtime = '18.969';
+	var qsParam = {};
+	qsParam.vid = 'B8A0E0A7E232324741DFC6C8BCBD22996D1D';
+	qsParam.inKey = 'V1240d71046d170376b55b21fa7062efa1c022349a79d8bd2d925d72685f4a5211701b21fa7062efa1c02';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_05988 = new VideoInfraUGCPlayer('ugcPlayer_05988' ,bean); 
+ugcPlayer_05988.drawPlayLayer(); 
+}
+
+ 
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2011/08/18/690/03103323113D53BE4DC3596873496663C03_ses2001p_PC_DEFAULT_logo.jpg';
+	layout.playtime = '21.429';
+	var qsParam = {};
+	qsParam.vid = '2C27EC85650D63978BFE5385C041CC26EEEF';
+	qsParam.inKey = 'V12130f9b07547fa1d04756e9be4b1ee33e3d4e53da156c4a242aabf877292e639d9d56e9be4b1ee33e3d';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_07358 = new VideoInfraUGCPlayer('ugcPlayer_07358' ,bean); 
+ugcPlayer_07358.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+사랑스러운 지인한테 동영상파일 변환하는법 알아내서 올려봅니다. 
+
+소니카메라로 동영상 찍었는데 녹음이 잘못되었는지 끊어지는거 같아요 
+
+이해하시고 봐주세요 *^^*
+
+세네갈에서온 4인의 전사들의 멋진공연 정말 잘보고 왔습니다. 다음에 
+
+시간이 된다면 자리에 앉아서 제대로 듣고 싶네요 *^^*
+
+
+
+
+	
+아프리카박물관
+제주도 서귀포시 중문동
+
+
+
+	
+{mapId: "bl01671808", placeId: "11734123", type:"1", title:"아프리카박물관", pointX:253874,pointY:72569}
+
+
+
+
+
+	

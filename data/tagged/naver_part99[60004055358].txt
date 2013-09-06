@@ -1,0 +1,528 @@
+출처
+	출처/ncn
+
+astel's
+	astel/f+'/sr+s/f
+
+ouse+
+	ouse+/ncn
+
+|파스텔짱
+	|파스텔짱/ncn
+
+
+요리명
+	요리/ncn+명/ncn
+
+
+링도넛과베이비도넛
+	링도넛과베이비도넛/ncn
+
+
+도넛을
+	도넛/ncn+을/jco
+
+집에서
+	집/ncn+에서/jca
+
+만들수
+	만들/pvg+ㄹ/etm+수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+의의로
+	의의/ncn+로/jca
+
+간단한
+	가/px+ㄴ단/etm+한/nbn
+
+요리랍니다
+	요리/ncn+이/jp+랍니다/ef
+
+
+조리시간
+	조리/ncn+시간/ncn
+
+
+50
+	50/nnc
+
+분
+	분/nbn
+
+
+칼
+	칼/ncn
+
+로
+	로/ncn
+
+리
+	리/nbn
+
+
+2422
+	2422/nnc
+
+kcal
+	kcal/f
+
+
+분
+	분/nbu
+
+량
+	량/nbu
+
+
+4
+	4/nnc
+
+인분
+	일/pvg+ㄴ/etm+분/nbn
+
+
+재
+	재/pvg+어/ecx
+
+료
+	료/ncn
+
+
+주재료박력분
+	주재료/ncn+박력/ncn+분/ncn
+
+300g,
+	300g,/ncn
+
+설탕
+	설탕/ncn
+
+120g,
+	120g,/ncn
+
+계란
+	계란/ncn
+
+2개,
+	2/nnc+개/nbu+,/sp
+
+버터
+	버터/ncn
+
+65g,
+	65g,/ncn
+
+베이킹파우더
+	베이킹파우더/ncn
+
+1작은술,
+	1작은술,/ncn
+
+분유
+	분유/ncn
+
+2작은술,
+	2작은술,/ncn
+
+소금
+	소금/ncn
+
+0.
+	0./nnc
+
+5작은술,
+	5작은술,/ncn
+
+바닐라향
+	바닐라향/ncn
+
+적당량,
+	적당량/ncn+,/sp
+
+튀김가루
+	튀김/ncn+가루/ncn
+
+적당량
+	적당량/ncn
+
+
+1.
+	1./nnc
+
+밀가루,
+	밀가루/ncn+,/sp
+
+베이킹파우더,
+	베이킹파우더,/ncn
+
+분유,
+	분유/ncpa+,/sp
+
+바닐라향을
+	바닐라향/ncn+을/jco
+
+2번
+	2/nnc+번/nbu
+
+체친다.2
+	체친다.2/ncn
+
+.
+	./sf
+
+
+버터는
+	버터/ncn+는/jxc
+
+실온에서
+	실온/ncn+에서/jca
+
+부드럽게
+	부드럽/paa+게/ecs
+
+만든다.3
+	만든다.3/ncn
+
+.
+	./sf
+
+
+달걀은
+	달걀/ncn+은/jxc
+
+잘
+	잘/mag
+
+섞어
+	섞/pvg+어/ecx
+
+놓는다.4
+	놓는다.4/ncn
+
+.
+	./sf
+
+
+설탕,
+	설탕/ncn+,/sp
+
+계핏가루,
+	계핏가루,/ncn
+
+녹말가루를
+	녹말가루/ncn+를/jco
+
+섞는다.5
+	섞는다.5/ncn
+
+.
+	./sf
+
+
+부드러운
+	부드럽/paa+은/etm
+
+버터에
+	버터/ncn+에/jca
+
+설탕을
+	설탕/ncn+을/jco
+
+2~3번
+	2/nnc+~/sd+3/nnc+번/nbu
+
+나누어
+	나누/pvg+어/ecx
+
+넣으며
+	넣/pvg+으며/ecc
+
+젓는다.6
+	젓는다.6/ncn
+
+.
+	./sf
+
+
+1에
+	1/nnc+에/jca
+
+달걀을
+	달걀/ncn+을/jco
+
+조금씩
+	조금씩/ncn
+
+넣어
+	넣/pvg+어/ecx
+
+잘
+	잘/mag
+
+섞어
+	섞/pvg+어/ecx
+
+크림상태를
+	크림/ncn+상태/ncn+를/jco
+
+만든
+	만들/pvg+ㄴ/etm
+
+다음
+	다음/ncn
+
+소금을
+	소금/ncn+을/jco
+
+넣고
+	넣/pvg+고/ecc
+
+젓는다
+	젓/pvg+는다/ef
+
+.
+	./sf
+
+
+7.
+	7./nnc
+
+크림상태의
+	크림/ncn+상태/ncn+의/jcm
+
+버터에
+	버터/ncn+에/jca
+
+체친
+	체친/ncn
+
+밀가루를
+	밀가루/ncn+를/jco
+
+넣고
+	넣/pvg+고/ecc
+
+가볍게
+	가볍/paa+게/ecs
+
+반죽한다.
+	반죽/ncpa+하/xsva+ㄴ다/ef+./sf
+
+8
+	8/nnc
+
+.
+	./sf
+
+
+반죽한
+	반죽/ncpa+하/xsva+ㄴ/etm
+
+것을
+	것/nbn+을/jco
+
+비닐팩에
+	비닐/ncn+팩/ncn+에/jca
+
+넣고
+	넣/pvg+고/ecc
+
+실온에서
+	실온/ncn+에서/jca
+
+10분동안
+	10/nnc+분/nbu+동안/xsnu
+
+둔다.9
+	둔다.9/ncn
+
+.
+	./sf
+
+
+만들어
+	만들/pvg+어/ecx
+
+놓은
+	놓/px+은/etm
+
+밀가루
+	밀가루/ncn
+
+반죽을
+	반죽/ncpa+을/jco
+
+두께
+	두/nnc+께/jca
+
+0.
+	0./nnc
+
+5cm~0.
+	5cm~0./ncn
+
+8cm가
+	8cm/ncn+가/jcs
+
+되도록
+	되/pvg+도록/ecs
+
+밀대로
+	밀/ncn+대로/jca
+
+민다.10
+	민다.10/ncn
+
+.
+	./sf
+
+
+도넛
+	도넛/ncn
+
+모양을
+	모양/ncn+을/jco
+
+만든다
+	만들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+11
+	11/nnc
+
+.
+	./sf
+
+
+170도씨
+	170도씨/ncn
+
+기름에서
+	기르/pvg+ㅁ/etn+에서/jca
+
+앞,
+	앞/ncn+,/sp
+
+뒤
+	뒤/ncn
+
+각
+	각/mma
+
+1분씩
+	1/nnc+분/nbu+씩/xsnu
+
+튀긴다.
+	튀기/pvg+ㄴ다/ef+./sf
+
+12
+	12/nnc
+
+.
+	./sf
+
+
+튀긴
+	튀기/pvg+ㄴ/etm
+
+도넛에
+	도넛/ncn+에/jca
+
+계피설탕을
+	계피/ncn+설탕/ncn+을/jco
+
+살짝
+	살짝/mag
+
+묻힌다.
+	묻히/pvg+ㄴ다/ef+./sf
+
+13
+	13/nnc
+
+.
+	./sf
+
+
+링
+	링/ncn
+
+도넛을
+	도넛/ncn+을/jco
+
+만들고
+	만들/pvg+고/ecc
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+가운데
+	가운데/ncn
+
+반죽을
+	반죽/ncpa+을/jco
+
+그대로
+	그대로/mag
+
+기름에
+	기르/pvg+ㅁ/etn+에/jca
+
+튀긴다
+	튀기/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+14
+	14/nnc
+
+.
+	./sf
+
+
+초코릿을
+	초코릿/ncn+을/jco
+
+중탕하여
+	중탕하/ncn+이/jp+어/ecs
+
+녹여서
+	녹이/pvg+어서/ecs
+
+도넛에
+	도넛/ncn+에/jca
+
+묻힌뒤
+	묻힌뒤/ncn
+
+다진
+	다지/pvg+ㄴ/etm
+
+땅콩이나
+	땅콩/ncn+이나/jcj
+
+코코넛
+	코코넛/ncn
+
+가루,
+	가루/ncn+,/sp
+
+레인보를
+	레인/ncn+보/ncn+를/jco
+
+입힌다
+	입히/pvg+ㄴ다/ef
+
+.
+	./sf

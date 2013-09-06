@@ -1,0 +1,27 @@
+Title:
+6/20 곰배령 트레킹 후기
+
+Date:
+2012.06.21
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(565248,'files/attach/images/64/561/226/0669d6306cfbce61ac1b5678cdef5ac0.jpg');
+list_gallery_add_image(565248,'files/attach/images/64/561/226/905919df314e4d1050cc73e738b8b4f1.jpg');
+list_gallery_add_image(565248,'files/attach/images/64/561/226/30d2fbe90c8555de31d83c7f65cd2f06.jpg');
+list_gallery_add_image(565248,'files/attach/images/64/561/226/588997e9db539fbef0ddb25241ab2fc2.jpg');
+list_gallery_add_image(565248,'files/attach/images/64/561/226/46f1ee09884ad986061d0c74549ac0d3.jpg');
+list_gallery_add_image(565248,'files/attach/images/64/561/226/a502928dfdbe9e4de21c9fbf7b1a35a3.jpg');
+list_gallery_add_image(565248,'files/attach/images/64/561/226/1849e2f0404f1c22f1775c68304ffcb8.jpg');
+list_gallery_add_image(565248,'files/attach/images/64/561/226/7e756db3eef283422fdc36e2bbc906e7.jpg');
+list_gallery_add_image(565248,'files/attach/images/64/561/226/3964092a6236b4147108adf9c1b89ded.jpg');
+list_gallery_add_image(565248,'files/attach/images/64/561/226/04c77cef8bf0d0158ba13c1834f0ae3b.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+6월 20일(수) 아름다운 여행으로 곰배령 트레킹을 하였습니다. 
+요즘 날씨가 갑자기 더워져 곰배령 갈 날만 손꼽아 기다리고 있었습니다. 왜냐하면 인제 곰배령은 8월에도 선선한 바람이 싸늘함을 느끼게 하는 상쾌한 곳이라 무더위를 잊을 수 있기 때문이죠.
+물론 곰배령은 천상의 화원으로 알려진 곳이지만 6월은 시기적으로 조금 애매할 때입니다. 봄 꽃이 지고 아직 여름 꽃이 피기 전이거든요. 대신 5월에 비해 숲은 훨씬 울창해서 초록 숲을 거닐며 눈과 마음이 정화가 되는 듯 하더군요.
+인제는 지난 밤에 비가 좀 내렸다고 합니다. 그래서인지 탐방안내센터를 지나 숲으로 들어서니 바람은 상쾌하고 물소리는 시원하게 들려옵니다. 그리고 곰배령으로 가는 탐방로의 숲은 하늘을 가릴 정도로 울창하여 걷는 내내 시원한 그늘 속을 걷는 것도 곰배령 트레킹의 큰 장점입니다. 
+초록 박새는 키가 쑥쑥 자라고 죽은 나무에서 새 생명을 시작한 식물들은 행복해보입니다. 곰배령 정상은 이제 막 붓꽃이 피어나기 시작했고 미나리아제비도 군데군데 무리를 지어 피고 있습니다. 일주일 정도만 지나면 보랏빛 붓꽃이 천상의 화원을 이룰지도 모르겠습니다.
+이번 곰배령은 꽃보다 시원한 바람이 참 좋았습니다. 오가며 보았던 소양강은 거의 물이 메말라 걸어 다녀도 될 정도여서 참 안타까웠는데, 적당히 내린 비로 촉촉한 숲의 공기도 좋았구요. 아마도 날씨가 더울 때면 곰배령의 찬 바람이 두고두고 생각날 것 같습니다.
+오늘도 무척 더울 것이라고 하네요. 여름과 같은 더워진 날씨에 건강 유의하시고 남은 주일도 활기차게 보내시기 바랍니다~이 게시물을...

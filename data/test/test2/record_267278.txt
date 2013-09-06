@@ -1,0 +1,36 @@
+Title:
+9/15 지리산둘레길 3코스 걷기 후기
+
+Date:
+2012.09.16
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(379288,'files/attach/images/64/278/267/e0bf4dc36fbe57dbf22c45b7be1c4ad2.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/14e7878d81431a58b4a33d70a9b4646b.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/b6e80c00d55dfac617e5b78febba7d16.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/49b98b9718998b73b96b7c71cb7edcd6.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/0d20e41146408bce70cd181cbdf9e715.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/ec26df681bc1832a824a56cadcbfad11.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/f0a4eef00bf362099e5f4f3df8bfa8d3.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/7493c24b29d0c248752cd417430460b4.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/9ec409396d8d127955c4b30021bac266.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/61fc39422eaf66115a5998fa79622ff4.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/5e271e0dd2fc94cd7ea586e9d33b7b16.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/cee3c38bf45914aae7d2ad82b6583e15.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/67016274f8afde95ff6cc443b3df88b4.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/8e4d26ef4c14893c5b4299829e94c7ce.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/44e08c3669e1c564fb7fa4f19cec5288.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/57edd42fb57c69cc07f5b0e96ea17e74.jpg');
+list_gallery_add_image(379288,'files/attach/images/64/278/267/266d8e416ad8d81039be1b9daaab9c53.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+9월 15일(토), 아름다운 여행으로 지리산둘레길 3코스 걷기를 하였습니다.
+2주 후로 돌아온 명절 추석을 앞두고 고향에 벌초를 하러 가는 차량이 많아서인지 둘레길 걷기의 시작점인 남원 매동마을에는 예상보다 약 1시간 가량 늦게 도착하였습니다.
+지리산둘레길 코스가 개방이 되고 나서 작년까지만 해도 걷기 열풍과 맞물려 이 3코스에는 무척 많은 사람들로 혼잡할 정도였는데 이번에는 한가롭기 그지없어 호젓한 둘레길을 걸었습니다.
+지리산둘레길을 따라 걷다 보니 가을을 절실히 느낄 수가 있었습니다. 풀벌레소리, 조금씩 변해가는 이파리 그리고 누렇게 익어가는 들녘… 둘레길에서 가을을 만난 것 같더군요.
+이 둘레길 구간에는 다랭이 들녘이 압권인데 지난 태풍으로 벼가 꽤 많이 쓰러져 일으켜 세워놓긴 했지만 다시 며칠 뒤 태풍이 북상을 한다니 보는 이의 마음도 너무 안타깝더군요. 부디 더 큰 피해가 없기를 바래봅니다.
+상황마을을 지나면 전북 남원과 경남 함양의 경계인 등구재입니다. 이 등구재는 그리 높은 고개는 아니지만 그래도 땀이 송글송글 맺힐 정도로 힘을 바짝 내야 합니다. 등구재를 넘어서면 이후 창원마을까지는 편안한 임도를 따라 걷습니다. 이 임도 주변 풍경도 훌륭해서 걷기에 지루함이 없었습니다.
+창원마을에 도착하여 이번 둘레길 걷기를 마쳤습니다. 다음에도 둘레길 걷기 일정이 계획되어 있는데 예전에 비해 훨씬 한가로워진 시골 풍경을 만끽하며 걷기에 그리고 완연한 가을을 느끼기에 좋을 것입니다.
+둘레길 3코스는 많은 사람들에게 알려진 코스인데 이번에는 둘레길 3코스를 저희 팀이 모두 차지를 하다시피하여 무엇보다 분답지 않고 여유로웠던 것 같습니다.
+이번 둘레길 걷기에 참여하신 분들 모두 걷기 시간이 좀 넉넉지 않았음에도 무리없이 여행 마칠 수 있어서 고마웠다는 말씀 드리며 오늘 하루 피로 잘 푸시고 새로운 한 주도 잘 맞이하시기 바랍니다~이 게시물을...

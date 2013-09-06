@@ -1,0 +1,76 @@
+Title:
+아버지~그대가 보고싶다.. 아버지~(보코) 강미진 
+
+Date:
+2012.05.17 01:58
+
+Content:
+
+아버지 ~ 누구보다 아껴주던 그대가 보고싶다
+
+보이스코리아 '강미진'의 사부곡
+아버지 ~ 보이스코리아 '강미진' (원곡 인순이)
+ 
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/05/17/813/031003237105536E38C3195A73395DF3840_ya3542_PC_DEFAULT_logo.jpg';
+	layout.playtime = '198.83';
+	var qsParam = {};
+	qsParam.vid = '9FBADCEFB7CBD7C7582064BAEDD96BED6A22';
+	qsParam.inKey = 'V121807787bc3705b1165ed51fd7a4a9ac4e99332defeb4d3c11816cf6d46ee5f1730ed51fd7a4a9ac4e9';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_00533 = new VideoInfraUGCPlayer('ugcPlayer_00533' ,bean); 
+ugcPlayer_00533.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+
+
+아버지의 술잔엔 눈물이 반이다 .. 누가 아버지의 꿈을 훔쳐 갔을까
+
+보코 '강미진' - 아버지 (원곡 인순이) / 가사
+
+
+한 걸음도 다가 설 수 없었던 내 마음은 알아 주기를얼마나 바라고 바래 왔는지 눈물이 말해 준다점점 멀어져 가버린 쓸쓸했던 뒷모습에
+내 가슴이 다시 아파온다서로 사랑을 하고 서로 미워도 하고
+누구보다 아껴주던 그대가 보고싶다가까이에 있어도 다가서지 못했던 그래 내가 미워 했었다제발 내 얘길 들어주세요 시간이 필요해요서로 사랑을 하고 서로 미워도 하고
+누구보다 아껴주던 그대가 보고싶다가슴 속 깊은 곳에 담아두기만 했던그래 내가 사랑 했었다긴 시간이 지나도 말하지 못했었던 그래 내가 사랑 했었다
+
+
+"아버지"~(보코) 강미진
+
+
+보이스코리아 강미진(1987년 10월생)은 
+"요아리"라는 이름으로 2010년 디지털 싱글 "저기요"를 통하여 솔로 가수로 정식 데뷔 했다
+강미진(요아리)은 데뷔전 브아걸 멤버였기도 하였으며, 2007년에는 스프링쿨러의 맴버 보컬로 활동하였다 
+
+
+
+
+
+
+
+
+
+아버지 ~ 보이스코리아 '강미진' (원곡 인순이) 
+
+
+
+	

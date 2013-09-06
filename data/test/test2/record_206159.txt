@@ -1,0 +1,28 @@
+Title:
+3/24 섬진강 걷기 후기
+
+Date:
+2012.03.25
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(319185,'files/attach/images/64/159/206/1ca57e94afbded819a5b324a022d906c.jpg');
+list_gallery_add_image(319185,'files/attach/images/64/159/206/36a4346ca0732dce54352a84aa9c296c.jpg');
+list_gallery_add_image(319185,'files/attach/images/64/159/206/d261d0aa41f67300f274b7df468dedfe.jpg');
+list_gallery_add_image(319185,'files/attach/images/64/159/206/95936b17270ca45b09110d0618ba9e24.jpg');
+list_gallery_add_image(319185,'files/attach/images/64/159/206/27b8280be846d725effc25ae549b39ef.jpg');
+list_gallery_add_image(319185,'files/attach/images/64/159/206/ee21f2225fbe3bfcc002f9627cf4124c.jpg');
+list_gallery_add_image(319185,'files/attach/images/64/159/206/172f8a05aa403fc5cfb6a759677da5cd.jpg');
+list_gallery_add_image(319185,'files/attach/images/64/159/206/170624d557487cec7c38f27af91c0057.jpg');
+list_gallery_add_image(319185,'files/attach/images/64/159/206/f93eac4e75baf84c5715ac75f86771a4.jpg');
+list_gallery_add_image(319185,'files/attach/images/64/159/206/47c3b5ea628ffb35cae8fbf84aa4b8f1.jpg');
+list_gallery_add_image(319185,'files/attach/images/64/159/206/f101128bca0023318ed0126941acf78b.jpg');
+list_gallery_add_image(319185,'files/attach/images/64/159/206/2ca354ca19cc66404bfce54e79a0359e.jpg');
+list_gallery_add_image(319185,'files/attach/images/64/159/206/61a270886dc7761f712542b959c51f0b.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+3월 24일(토), 아름다운 여행으로 섬진강 걷기를 다녀왔습니다. 이번 섬진강 걷기는 임실의 천담마을에서 순창의 귀주마을까지 약 8.5km 구간을 걸었습니다. 이 길은 봄이면 매화가 지천으로 피어나는 길입니다. 이번 여행도 섬진강변의 흐드러진 매화와 강변의 봄기운을 기대한 여행이었습니다. 
+하지만 아쉽게도 매화를 볼 순 없었습니다. 예년 같으면 지금쯤 매화가 질 무렵인데, 올해는 잦은 꽃샘추위로 매화가 거의 피지 않았더군요. 나뭇가지에 다닥다닥 붙어 있는 앙증맞은 꽃봉오리만 잔뜩 보고 왔습니다. 아마 다음 주쯤이면 매화를 볼 수 있지 않을까 싶습니다. 아무튼 최근 몇 년 간 봄꽃 개화시기가 계속 늦어지고 있네요. 3월 중순에 보던 매화를 이제 4월에나 보게 되었습니다.
+매화를 보지 못해 아쉬웠지만 날씨가 화창해 걷기에는 아주 좋았습니다. 바람이 좀 거셌지만 그리 춥지도 않았고 하늘도 맑아서 상쾌한 트레킹을 즐겼습니다. 길 주변에 쑥, 미나리 등의 봄나물도 파릇하게 올라와 봄 기운도 살짝 느낄 수 있었습니다.
+섬진강 걷기를 마치고 정읍의 산외한우마을에 들러 자유롭게 늦은 식사를 하고 여행을 마쳤습니다. 이번 섬진강 걷기는 매화를 보지 못해 아쉬웠지만 섬진강변의 맑은 분위기 속을 걸으며 몸도 마음도 상쾌했던 여행이었습니다. 이번 섬진강 걷기에 참여하신 회원분들 모두 여행의 피로 잘 푸시고 활기차게 월요일을 맞으시기 바랍니다~
+이 게시물을...

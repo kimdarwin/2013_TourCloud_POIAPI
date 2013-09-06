@@ -1,0 +1,685 @@
+노적봉
+	노적봉/ncn
+
+옥상
+	옥상/ncn
+
+야외공연장
+	야외/ncn+공연장/ncn
+
+문화예술공원
+	문화예술/ncn+공원/ncn
+
+
+노적봉올라는
+	노적봉올라/ncn+는/jxc
+
+초입에
+	초입/ncpa+에/jca
+
+발걸음을
+	발걸음/ncn+을/jco
+
+멎게
+	멎/pvg+게/ecs
+
+하는
+	하/pvg+는/etm
+
+명물이
+	명물/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+노적봉
+	노적봉/ncn
+
+다산목
+	다산목/ncn
+
+
+이나무는
+	이나무/ncn+는/jxc
+
+다산을
+	다산/ncn+을/jco
+
+이루게
+	이루/pvg+게/ecs
+
+한다는
+	하/px+ㄴ다/ef+는/etm
+
+주민들의
+	주민/ncn+들/ncn+의/jcm
+
+믿음의
+	믿음/ncn+의/jcm
+
+대상으로
+	대상/ncn+으로/jca
+
+은밀하게
+	은밀/ncpa+하/xsva+게/ecs
+
+보존되어
+	보존/ncpa+되/xsvn+어/ecs
+
+
+외지인에게는
+	외지/ncn+인/ncn+에게/jca+는/jxc
+
+노출되지
+	노출/ncpa+되/xsvn+지/ecx
+
+않았으나
+	않/px+아/ep+나/ecs
+
+2000년
+	2000/nnc+년/nbu
+
+새천년
+	새천년/ncn
+
+시민의
+	시민/ncn+의/jcm
+
+종
+	종/nbu
+
+종각을
+	종각/ncn+을/jco
+
+건설하는
+	건설/ncpa+하/xsva+는/etm
+
+과정에서
+	과정/ncn+에서/jca
+
+외부로
+	외부/ncn+로/jca
+
+알려졌다
+	알리/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+실제로
+	실제로/mag
+
+이
+	이/mmd
+
+나무를
+	나무/ncn+를/jco
+
+쳐다보면
+	쳐다보/pvg+면/ecs
+
+아이를
+	아이/ncn+를/jco
+
+가질
+	가/pvg+아/ecx+지/px+ㄹ/etm
+
+수
+	수/nbn
+
+있다고
+	있/px+다/ef+고/jcr
+
+하여
+	하/pvg+어/ecx
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+즐겨
+	즐기/pvg+어/ecx
+
+찾으며
+	찾/pvg+으며/ecc
+
+
+그
+	그/mmd
+
+영향으로
+	영향/ncn+으로/jca
+
+인근지역
+	인근지역/ncn
+
+출산율이
+	출산율/ncn+이/jcc
+
+유달리
+	유달리/mag
+
+높다는
+	높/paa+다/ef+는/etm
+
+설이
+	설/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+150년
+	150/nnc+년/nbu
+
+된
+	되/pvg+ㄴ/etm
+
+팽나무
+	팽나무/ncn
+
+어미나무의
+	어미/ncn+나무/ncn+의/jcm
+
+뿌리에서
+	뿌리/ncn+에서/jca
+
+싹이
+	싹/ncn+이/jcc
+
+나와
+	나/npp+와/jct
+
+성장한
+	성장/ncpa+하/xsva+ㄴ/etm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+
+전남
+	전/xp+남/ncn
+
+목포시
+	목포시/ncn
+
+유달산에
+	유달산/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+거석(
+	거석(/ncn
+
+)
+	)/sr
+
+봉우리
+	봉우리/ncn
+
+.
+	./sf
+
+
+노적봉
+	노적봉/ncn
+
+
+(전남
+	(/sl+전/xp+남/ncn
+
+목포시
+	목포시/ncn
+
+대의동
+	대의/ncn+동/ncn
+
+2가
+	2/nnc+가/jcs
+
+1
+	1/nnc
+
+)
+	)/sr
+
+
+임진왜란
+	임진/ncn+왜란/ncn
+
+때
+	때/ncn
+
+이순신
+	이순신/ncn
+
+장군이
+	장군/ncr+이/jcc
+
+적은
+	적/nbn+은/jxc
+
+군사로
+	군사/ncn+로/jca
+
+많은
+	많/paa+은/etm
+
+왜적을
+	왜적/ncn+을/jco
+
+물리치기위해
+	물리치기/ncn+위해/ncn
+
+노적봉을
+	노적봉/ncn+을/jco
+
+짚과
+	짚/ncn+과/jcj
+
+섶으로
+	섶/ncn+으로/jca
+
+둘러
+	두르/pvg+어/ecs
+
+
+군량미가
+	군량미/ncn+가/jcs
+
+산더미같이
+	산더미/ncn+같이/jca
+
+쌓인
+	쌓이/pvg+ㄴ/etm
+
+것처럼
+	것/nbn+처럼/jca
+
+보이도록
+	보이/pvg+도록/ecs
+
+하여
+	하/pvg+어/ecx
+
+조선수군의
+	조선/ncpa+수군/ncn+의/jcm
+
+식량이
+	식량/ncn+이/jcc
+
+풍족함을
+	풍족/ncps+하/xsms+ㅁ/etn+을/jco
+
+보여
+	보/nbu+여/xsnu
+
+
+왜군의
+	왜군/ncn+의/jcm
+
+사기를
+	사/pvg+기/etn+를/jco
+
+꺽었다는
+	꺽/pvg+었/ep+다/ef+는/etm
+
+전술이
+	전술/ncn+이/jcc
+
+전해져
+	전하/pvg+어/ecx+지/px+어/ecx
+
+오는곳
+	오는곳/ncn
+
+
+또한
+	또한/maj
+
+영산강에는
+	영산강/ncn+에/jca+는/jxc
+
+횟가루를
+	횟가루/ncn+를/jco
+
+풀어
+	풀/pvg+어/ecx
+
+밥짓는
+	밥짓/ncn+는/jxc
+
+쌀뜨물로
+	쌀뜨물/ncn+로/jca
+
+보이게
+	보이/pvg+게/ecs
+
+했다는
+	하/px+었/ep+다/ef+는/etm
+
+이야기가
+	이야기/ncpa+가/jcc
+
+전해져
+	전하/pvg+어/ecx+지/px+어/ecx
+
+온다
+	오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+맞은편
+	맞은편/ncn
+
+노령산맥의
+	노령/ncn+산맥/ncn+의/jcm
+
+마지막
+	마지막/ncn
+
+봉우리
+	봉우리/ncn
+
+유달산(228.
+	유달산(228./ncn
+
+3m)이
+	3m)/ncn+이/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+5개의
+	5/nnc+개/nbu+의/jcm
+
+정자가
+	정자/ncn+가/jcs
+
+있으며
+	있/px+으며/ecc
+
+가수
+	가수/ncn
+
+이난영이
+	이난영/ncn+이/jcc
+
+부른
+	부르/pvg+ㄴ/etm
+
+목포의
+	목포/ncn+의/jcm
+
+눈물
+	눈물/ncn
+
+기념비가
+	기념비/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+목포여객터미널
+	목포여객터미널/ncn
+
+방향
+	방향/ncn
+
+.
+	./sf
+
+
+새천년
+	새천년/ncn
+
+시민의
+	시민/ncn+의/jcm
+
+종각
+	종각/ncn
+
+
+시민의
+	시민/ncn+의/jcm
+
+종에는
+	종/nbu+에는/jca
+
+
+목포시의
+	목포시/ncn+의/jcm
+
+기상과
+	기상/ncn+과/jcj
+
+염원이
+	염원/ncpa+이/jcc
+
+담긴
+	담기/pvg+ㄴ/etm
+
+세마리의
+	세/nnc+마리/nbu+의/jcm
+
+학,
+	학/ncn+,/sp
+
+목포의
+	목포/ncn+의/jcm
+
+상징
+	상징/ncpa
+
+삼학이
+	삼학/ncn+이/jcc
+
+비상하는
+	비상/ncpa+하/xsva+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+새겨져
+	새기/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+타종체험을
+	타종/ncpa+체험/ncpa+을/jco
+
+알리는
+	알리/pvg+는/etm
+
+...
+	.../se
+
+
+소원을
+	소원/ncn+을/jco
+
+빌고
+	빌/pvg+고/ecc
+
+세계평화와
+	세계평화/ncn+와/jcj
+
+여행의
+	여행/ncpa+의/jcm
+
+안전을
+	알/pvg+ㄴ/etm+전/nbn+을/jco
+
+비는
+	비/paa+는/etm
+
+..
+	./sf+./sf
+
+
+3번타종
+	3번타종/ncn
+
+5000원
+	5000/nnc+원/nbu
+
+....
+	.../se+./sf
+
+
+종각뒤편
+	종각/ncn+뒤편/ncn
+
+건물로
+	건물/ncn+로/jca
+
+길이
+	길/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+가보았더니
+	가/pvg+아/ecx+보/px+아/ep+니/ef
+
+..
+	./sf+./sf
+
+
+목포시가지가
+	목포시/ncn+가지/ncn+가/jcs
+
+내려다보이는
+	내려다보이/pvg+는/etm
+
+전망이
+	전망/ncn+이/jcc
+
+기다리고
+	기다리/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+목포를
+	목포/ncn+를/jco
+
+상징하는
+	상징/ncpa+하/xsva+는/etm
+
+영산강과
+	영산강/ncn+과/jcj
+
+삼학도,
+	삼학도,/ncn
+
+다도해의
+	다도해/ncn+의/jcm
+
+경관이
+	경관/ncn+이/jcc
+
+한눈에
+	한눈/ncn+에/jca
+
+펼쳐진다
+	펼치/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+도로가
+	도로/ncn+가/jcs
+
+반듯하게
+	반듯하/paa+게/ecs
+
+규격화된
+	규격화/ncn+되/xsvn+ㄴ/etm
+
+시가지
+	시가지/ncn
+
+
+일제
+	일제/ncn
+
+강점기때
+	강점기/ncn+때/ncn
+
+계획된
+	계획/ncpa+되/xsvn+ㄴ/etm
+
+시가지로
+	시가지/ncn+로/jca
+
+일본인들이
+	일본인/ncn+들/ncn+이/jcc
+
+살았던
+	살/pvg+아/ep+ㄴ/etm
+
+곳이라
+	곳/ncn+이/jp+라/ecs
+
+도로가
+	도로/ncn+가/jcs
+
+반듯하게
+	반듯하/paa+게/ecs
+
+규격화되었다고한다
+	규격화/ncn+되/xsvn+었/ep+다고/ecx+하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+아직도
+	아직/mag+도/jxc
+
+근대문화유산건물들이
+	근대문화/ncn+유산/ncn+건물/ncn+들/ncn+이/jcc
+
+남아
+	남/pvg+아/ecx
+
+있다고
+	있/px+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf

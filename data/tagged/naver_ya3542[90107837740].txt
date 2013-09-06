@@ -1,0 +1,790 @@
+바람아
+	바람/ncn+아/jcv
+
+멈추어다오
+	멈추/pvg+어다오/ef
+
+~
+	~/sd
+
+Loveholic(러브홀릭)
+	Loveholic(러브홀릭)/ncn
+
+/
+	//sp
+
+원곡
+	원곡/ncn
+
+:
+	:/sp
+
+이지연
+	이지/ncn+연/ncn
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc25/2011/02/25/220/03100223E11553BE35C3191A73E35B43147_ya3542_logo.
+	net/blogucc25/2011/02/25/220/03100223E11553BE35C3191A73E35B43147_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'199.
+	'/sr+199./nnc
+
+83';
+	83/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'D432BAFB5F3840CB5A32898088D1A9CCA3A6';
+	'D432BAFB5F3840CB5A32898088D1A9CCA3A6/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1256c48e0251f69fb5f70e798e7b382bb0e83ec5ae39befa47448e38d9a008fdf81a0e798e7b382bb0e8';
+	'V1256c48e0251f69fb5f70e798e7b382bb0e83ec5ae39befa47448e38d9a008fdf81a0e798e7b382bb0e8/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_08014
+	ugcPlayer_08014/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_08014'
+	VideoInfraUGCPlayer('ugcPlayer_08014'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_08014
+	ugcPlayer_08014/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+작은
+	작/paa+은/etm
+
+상처가
+	상처/ncn+가/jcs
+
+더
+	더/mag
+
+쉽게
+	쉽/paa+게/ecs
+
+이별을
+	이별/ncpa+을/jco
+
+부른다
+	부르/pvg+ㄴ다/ef
+
+
+사랑하는
+	사랑/ncpa+하/xsva+는/etm
+
+사람
+	사람/ncn
+
+앞에서는
+	앞/ncn+에서/jca+는/jxc
+
+작은
+	작/paa+은/etm
+
+것
+	것/nbn
+
+하나에도
+	하나/nnc+에/jca+도/jxc
+
+신경을
+	신경/ncn+을/jco
+
+써야
+	쓰/pvg+어야/ecs
+
+한다
+	하/pvg+ㄴ다/ef
+
+
+러브홀릭
+	러브홀릭/ncn
+
+~
+	~/sd
+
+바람아
+	바람/ncn+아/jcv
+
+멈추어다오
+	멈추/pvg+어다오/ef
+
+(가사)
+	(/sl+가사/ncn+)/sr
+
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+뜨면
+	뜨/pvg+면/ecs
+
+찾아올까
+	찾/pvg+아/ecx+오/px+ㄹ까/ecs
+
+바람
+	바라/pvg+ㅁ/etn
+
+불면
+	불/pvg+면/ecs
+
+떠날
+	떠나/pvg+ㄹ/etm
+
+사람인데행여
+	사람인데행여/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+맘
+	말/px+ㅁ/etn
+
+돌아보면
+	돌/pvg+아/ecx+보/px+면/ecs
+
+그대
+	그대/npp
+
+역시
+	역시/mag
+
+외면하고
+	외면/ncn+하고/jct
+
+있네바람아
+	있네바람아/ncn
+
+멈추어
+	멈추/pvg+어/ecx
+
+다오세월가면
+	다오세월가/ncn+이/jp+면/ecs
+
+잊혀질까
+	잊히/pvg+어/ecx+지/px+ㄹ까/ecs
+
+그렇지만
+	그렇/pad+지만/ecs
+
+다시
+	다시/mag
+
+생각날걸붙잡아도
+	생각날걸붙잡아/ncn+도/jxc
+
+소용없어
+	소용/ncn+없/xsmn+어/ecx
+
+..
+	./sf+./sf
+
+
+그대는
+	그대/npp+는/jxc
+
+왜
+	왜/mag
+
+멀어져
+	멀/paa+어/ecx+지/px+어/ecx
+
+가나바람아
+	가나바람아/ncn
+
+멈추어
+	멈추/pvg+어/ecx
+
+다오난
+	다오난/ncn
+
+몰라~
+	모르/pvg+아/ecs+~/sd
+
+아~
+	아/ii+~/sd
+
+바람아~
+	바람아~/ncn
+
+아~
+	아/ii+~/sd
+
+멈추어
+	멈추/pvg+어/ecx
+
+다오
+	달/paa+오/ef
+
+
+바람아
+	바람/ncn+아/jcv
+
+멈추어
+	멈추/pvg+어/ecx
+
+다오이젠
+	다오이젠/ncn
+
+모두
+	모두/mag
+
+지난일
+	지난/ncn+이/jp+ㄹ/etm
+
+이야
+	이/npd+이/jp+야/ef
+
+그리우면
+	그립/paa+으면/ecs
+
+나는
+	나/npp+는/jxc
+
+어떡하나부질없는
+	어떡하나부질없/ncn+는/jxc
+
+내
+	내/npp
+
+마음에
+	마음/ncn+에/jca
+
+..
+	./sf+./sf
+
+
+바보같이
+	바보/ncn+같이/jca
+
+눈물만
+	눈물/ncn+만/jxc
+
+흐르네바람아
+	흐르네바람아/ncn
+
+멈추어
+	멈추/pvg+어/ecx
+
+다오
+	달/paa+오/ef
+
+
+난
+	나/px+ㄴ/etm
+
+몰라~
+	모르/pvg+아/ecs+~/sd
+
+아~바람아~
+	아~바람아~/ncn
+
+아~
+	아/ii+~/sd
+
+멈추어
+	멈추/pvg+어/ecx
+
+다오
+	달/paa+오/ef
+
+
+바람아
+	바람/ncn+아/jcv
+
+멈추어
+	멈추/pvg+어/ecx
+
+다오
+	달/paa+오/ef
+
+
+러브홀릭(Loveholic)
+	러브홀릭/ncn+(/sl+Loveholic/f+)/sr
+
+
+작은
+	작/paa+은/etm
+
+것들은
+	것들/ncn+은/jxc
+
+가슴에
+	가슴/ncn+에/jca
+
+쌓인다
+	쌓이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+피곤해서
+	피곤/ncps+하/xsms+어서/ecs
+
+쉬고싶다는
+	쉬/pvg+고/ecx+싶/px+다/ef+는/etm
+
+말.
+	말/ncpa+./sf
+
+.
+	./sf
+
+
+약속시간
+	약속시간/ncn
+
+늦는
+	늦/paa+는/etm
+
+것.
+	것/nbn+./sf
+
+.
+	./sf
+
+
+등등
+	등등/nbn
+
+
+아주
+	아주/mag
+
+소소한
+	소소한/ncn
+
+것에
+	것/nbn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+실망과
+	실망/ncpa+과/jcj
+
+상처들은
+	상처/ncn+들/ncn+은/jxc
+
+아물지
+	아물/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+언젠가는
+	언젠가/mag+는/jxc
+
+곪아
+	곪/paa+아/ecx
+
+터져버린다
+	트/pvg+어/ecx+지/px+어/ecx+버리/px+ㄴ다/ef
+
+
+하나의
+	하나/nnc+의/jcm
+
+큰
+	크/paa+ㄴ/etm
+
+상처보다
+	상처/ncn+보다/jca
+
+작은
+	작/paa+은/etm
+
+여러개의
+	여러/nnc+개/nbu+의/jcm
+
+상처가
+	상처/ncn+가/jcs
+
+더
+	더/mag
+
+쉽게
+	쉽/paa+게/ecs
+
+이별을
+	이별/ncpa+을/jco
+
+부른다
+	부르/pvg+ㄴ다/ef
+
+
+크게
+	크/paa+게/ecs
+
+다툰것도
+	다투/pvg+ㄴ/etm+것/nbn+도/jxc
+
+아닌데
+	아니/paa+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+왜
+	왜/mag
+
+그의
+	그/npp+의/jcm
+
+마음이
+	마음/ncn+이/jcc
+
+변하여
+	변하/pvg+어/ecx
+
+가는
+	가/pvg+는/etm
+
+것일까
+	것/nbn+이/jp+ㄹ까/ef
+
+?..
+	?/sf+./sf+./sf
+
+
+소소
+	소소/ncn
+
+
+러브홀릭
+	러브홀릭/ncn
+
+"지선"
+	"/sl+지선/ncpa+"/sr
+
+..
+	./sf+./sf
+
+
+그도
+	그/npp+도/jxc
+
+지금은
+	지금/mag+은/jxc
+
+러브홀릭과
+	러브홀릭/ncn+과/jcj
+
+이별을
+	이별/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+민초호야의
+	민초호야/ncn+의/jcm
+
+음악산책
+	음악/ncn+산책/ncpa
+
+..
+	./sf+./sf
+
+
+바람아
+	바람/ncn+아/jcv
+
+멈추어다오
+	멈추/pvg+어다오/ef
+
+~
+	~/sd
+
+Loveholic(러브홀릭)
+	Loveholic(러브홀릭/ncn+)/sr

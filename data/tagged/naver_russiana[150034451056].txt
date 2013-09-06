@@ -1,0 +1,321 @@
+향일암
+	향일암/ncn
+
+
+전라남도여수시
+	전라/ncn+남도/ncn+여수/ncn+시/ncn
+
+
+기간
+	기간/ncn
+
+:
+	:/sp
+
+2008.
+	2008./nnc
+
+8.
+	8./nnc
+
+17~
+	17/nnc+~/sd
+
+2008.
+	2008./nnc
+
+8.
+	8./nnc
+
+17(1일)
+	17/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+:
+	:/sp
+
+사진에
+	사진/ncn+에/jca
+
+담는
+	담/pvg+는/etm
+
+출사여행
+	출사/ncpa+여행/ncpa
+
+
+경로
+	경로/ncn
+
+:
+	:/sp
+
+
+10년
+	10/nnc+년/nbu
+
+전.
+	전/nbn+./sf
+
+.
+	./sf
+
+
+서울에서
+	서울/ncn+에서/jca
+
+통일호
+	통일/ncpa+호/ncn
+
+막기차를
+	막기차/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+여수에
+	여수/ncn+에/jca
+
+종종
+	종종/mag
+
+가서
+	가/pvg+서/ecs
+
+돌산대교를
+	돌산/ncn+대교/ncn+를/jco
+
+건너
+	건너/pvg+어/ecx
+
+히치하이킹으로
+	히치하이킹/ncn+으로/jca
+
+향일암까지
+	향일암까지/ncn
+
+갔었던
+	가/px+아/ep+던/etm
+
+기억이
+	기억/ncpa+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+5년만에
+	5/nnc+년/nbu+만에/jca
+
+다시
+	다시/mag
+
+가본
+	가/pvg+아/ecx+보/px+ㄴ/etm
+
+여수는
+	여수/ncn+는/jxc
+
+기차역도
+	기차역/ncn+도/jxc
+
+중앙시장도
+	중앙시장/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+변해있었다
+	변하/pvg+어/ecx+있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+향일암으로
+	향일암/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길에
+	길/ncn+에/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+굴
+	굴/pvg+ㄹ/etm
+
+양식장
+	양식장/ncn
+
+.
+	./sf
+
+
+예전에
+	예전/ncn+에/jca
+
+사진을
+	사진/ncn+을/jco
+
+몰랐을
+	모르/pvg+아/ep+ㄹ/etm
+
+땐
+	때/pvg+ㄴ/etm
+
+그냥
+	그냥/mag
+
+지나쳤었던
+	지나치/pvg+었었/ep+던/etm
+
+풍경인데,
+	풍경/ncn+이/jp+ㄴ데/ecs+,/sp
+
+사진을
+	사진/ncn+을/jco
+
+좋아하다
+	좋/paa+아/ecx+하/px+어다/ecs
+
+보니
+	보/px+니/ecs
+
+작은
+	작/paa+은/etm
+
+마을도
+	마을/ncn+도/jxc
+
+그냥
+	그냥/mag
+
+지나치지
+	지나치/pvg+지/ecx
+
+못한다
+	못하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+[향일암으로
+	[향일암/ncn+으로/jca
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+계단]
+	계단/ncn+]/sr
+
+
+[극락으로
+	[/sl+극락/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길]
+	길/nbu+]/sr
+
+
+[모퉁이
+	[/sl+모퉁이/ncn
+
+귀신]
+	귀신/ncn+]/sr
+
+
+향일암
+	향일암/ncn
+
+대웅전
+	대웅전/ncn
+
+모퉁이를
+	모퉁이/ncn+를/jco
+
+지키던
+	지키/pvg+던/etm
+
+...
+	.../se
+
+
+[돌산대교를
+	[/sl+돌산/ncn+대교/ncn+를/jco
+
+건너
+	건너/pvg+어/ecx
+
+서울로
+	서울/ncn+로/jca
+
+...]
+	.../se+]/sr
+
+
+2012년
+	2012/nnc+년/nbu
+
+여수세계박람회
+	여수/ncn+세계박람회/ncn
+
+준비로
+	준비/ncn+로/jca
+
+여수
+	여수/ncn
+
+도시는
+	도시/ncn+는/jxc
+
+심한
+	심하/paa+ㄴ/etm
+
+몸살을
+	몸살/ncn+을/jco
+
+앓고
+	앓/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+길도
+	길/ncn+도/jxc
+
+넓히고
+	넓히/pvg+고/ecc
+
+집도
+	집/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+철거
+	철거/ncpa
+
+한다고
+	하/px+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf

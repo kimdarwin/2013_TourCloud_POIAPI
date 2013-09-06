@@ -1,0 +1,43 @@
+Title:
+5/26~27 남해 바래길 걷기 1박2일 여행 후기
+
+Date:
+2012.05.28
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(289270,'files/attach/images/64/602/221/2f03c73e2e517c5be6af53d8336f793b.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/8396abec0d22d3bf0c37b9e46873728e.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/b4fe52e3fcf4a539f9272cddc409f298.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/6d7a1958131db6af0f3a286cf93d5370.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/598f5d4315920e4fbdf97ac23a78821d.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/46dfc1448e515fd97fc3bc9f67e5b65f.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/38af98bb9e89e1fbdb4050b6c154c245.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/153dc6be25b27d5dc30e63c75b16bdc0.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/5667ade7f2bbb17895256595c309b6bd.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/c275f6284e3b48b99ec56142a1158fd6.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/f8650700c312d0a5be50a2cb87be6b8a.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/8fb2399aed4e66c56488b92995188686.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/d688535660b9926e52e23fc1a4edfb1c.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/b7d29546a075f93bcb6b8d894961e620.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/57f2dc1fbb3340ff0a054f3e4e87f048.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/7f1e2d6ccacf9c5c2aa9452ba29c18e5.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/f68a7183af9f5655cd7dcaad3dcf1804.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/ff3b5392bcb466180ba3dbac5ebca961.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/1f17508c3f2e6a4fba92088ad65e9c4f.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/a3339ce4e0bf7d1cc8e84b210863b3ef.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/af83af9c1d8e3049713c3defdfe9294d.jpg');
+list_gallery_add_image(289270,'files/attach/images/64/602/221/ad60fc6fa71668818ef1bcf8b2c85fd0.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 5월 26일(토)~27일(일) 남해 바래길 걷기 1박2일 여행을 다녀왔습니다.
+남해로 가는 길 역시 석가탄신일이 낀 3일 연휴 시작은 수도권 교통체증의 결과 예정보다 1시간 가량 늦게 남해에 도착하였습니다. 식사 시간이 좀 지난 때라 음식점 미담에서 먹었던 점심은 아주 꿀맛이었네요.
+식사가 끝나고 이동한 곳은 남해 바래길 1코스의 출발지인 평산항입니다. 남해의 서쪽에 위치한 조그만 포구로 갈 때마다 찾는 이 없는 한적함이 먼저 반깁니다. 날카롭게 내리쬐는 뙤약볕, 하지만 불어오는 바닷바람은 의외로 시원해 걷는 발걸음이 그다지 무겁지는 않았습니다. 
+바래길 1코스는 마늘밭도 만나고 바닷길, 산길, 모래 고운 해변길 등 다양한 풍경을 마주하며 걷는 코스로 사천해수욕장까지 약 7km입니다. 거리는 짧게 느껴지지만 이렇게 다양한 풍경을 마주하기 때문에 시간은 꽤 소요됩니다. 1코스를 걸으며 인상적으로 남은 것이라면 누런 빛깔의 보리밭과 그 너머로 펼쳐진 푸른 바다가 마치 그림처럼 남습니다.
+하루 일정을 마친 후 삼동면에 있는 은성쌈밥집에서 푸짐한 쌈밥으로 식사를 하고 독일마을과 물건리방조어부림이 가까운 숙소에서 피로를 풀었습니다.
+둘째날 일정은 아침시간 자유로운 산책으로 시작했습니다. 바람은 알싸하고 공기는 맑아 기분 상쾌한 아침이었네요. 서울에선 상상할 수도 없는 이 맑고 깨끗함… 낯선 여행지에서 맛본 신선함이 참 좋은 느낌으로 남습니다. 백반으로 아침 식사를 하고 바래길 2코스의 출발지인 가천다랭이마을로 이동합니다.
+아침시간 다랭이마을은 차분합니다. 여행자를 맞기에 조금은 이른 시간, 바닷바람에 실려온 향긋한 허브향에 머리가 맑아지더군요.
+2코스 앵강다숲길 들머리로 들어서니 그새 풀이 웃자라 길이 잘 보이지 않을 정도입니다. 희미한 길을 따라 이내 산길로 접어들고 시원한 그늘과 산속에서 듣는 파도소리도 무척 상쾌했습니다. 오르락 내리락 숲길을 빠져나가면 탈출이라도 한 듯 탁 트인 바다를 만나 한껏 두 팔을 펼쳐봅니다. 나머지 구간은 뙤약볕 아래 걸어야 하지만 탁 트인 바다 풍경이 가슴 속까지 후련하게 합니다.
+그리고 홍현마을로 접어들면서부터 바닷가에 인접한 길을 걷게 됩니다. 바닷바람은 의외로 선선하여 흘렸던 땀도 모두 사라집니다. 여기저기 둘러보다 보면 어느새 오늘 도착지인 두곡해수욕장입니다. 해수욕장에 먼저 도착하신 분들은 바닷물에 발을 담그고 이른 피서도 잠깐 즐겨보셨는지 모르겠네요. 2코스 앵강다숲길 걷기를 모두 끝내고 점심식사는 깔끔하고 정갈한 맛이 일품인 재두산장에서 이번에도 든든한 식사를 마치고 서울로 출발하였습니다.
+이틀간 약 15km를 걸었고 여름과 같은 한낮 더위가 걱정스러웠지만 불어오는 시원한 바닷바람 그리고 상쾌한 공기 덕분에 그다지 힘들지 않았던 것 같습니다. 그렇다해도 이틀간의 걷기가 익숙치 않은 분들은 꽤 피로하셨을 거예요. 
+하루남은 휴일 동안 피로 말끔히 푸시고 며칠 남지 않은 5월도 마무리 잘 하시기 바랍니다~이 게시물을...

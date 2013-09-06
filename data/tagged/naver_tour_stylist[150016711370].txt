@@ -1,0 +1,682 @@
+세부(CEBU)
+	세부(CEBU)/ncn
+
+막탄
+	막탄/ncn
+
+샹그릴라
+	샹그릴라/ncn
+
+리조트의
+	리조트/ncn+의/jcm
+
+전용
+	전용/ncpa
+
+비치
+	비치/ncpa
+
+...
+	.../se
+
+
+수영복을
+	수영복/ncn+을/jco
+
+갈아
+	갈/pvg+아/ecx
+
+입고
+	입/pvg+고/ecc
+
+전용비치로
+	전용/ncpa+비치/ncpa+로/jca
+
+향한다
+	향하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+전용비치에는
+	전용/ncpa+비치/ncpa+에/jca+는/jxc
+
+비치의자가
+	비치/ncpa+의자/ncn+가/jcs
+
+무료로
+	무료/ncn+로/jca
+
+대여되며,
+	대/nbu+이/jp+어/ecx+되/px+며/ecc+,/sp
+
+자리를
+	자리/ncn+를/jco
+
+정하면
+	정하/pvg+면/ecs
+
+친절한
+	친절/ncps+하/xsms+ㄴ/etm
+
+샹그릴라
+	샹그릴라/ncn
+
+직원이
+	직원/ncn+이/jcc
+
+비치타월을
+	비치/ncpa+타월/ncn+을/jco
+
+깔아준다
+	깔/pvg+아/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+직원이
+	직원/ncn+이/jcc
+
+정말
+	정말/mag
+
+친절하다
+	친절/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+샹그릴라
+	샹그릴라/ncn
+
+리조트는
+	리조트/ncn+는/jxc
+
+리조트의
+	리조트/ncn+의/jcm
+
+정원과
+	정원/ncn+과/jct
+
+바로
+	바로/mag
+
+연결되는
+	연결/ncpa+되/xsvn+는/etm
+
+..
+	./sf+./sf
+
+
+크진
+	크/paa+어/ecx+지/px+ㄴ/etm
+
+않지만
+	않/px+지만/ecs
+
+아담하게
+	아담/ncps+하/xsms+게/ecs
+
+잘
+	잘/mag
+
+꾸며놓은
+	꾸미/pvg+어/ecx+놓/px+은/etm
+
+산호가루의
+	산호/ncn+가루/ncn+의/jcm
+
+화이트
+	화이트/ncn
+
+비치를
+	비치/ncpa+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+깊은
+	깊/paa+은/etm
+
+바다는
+	바다/ncn+는/jxc
+
+확연히
+	확연히/mag
+
+구분되는
+	구분/ncpa+되/xsvn+는/etm
+
+쪽빛이다
+	쪽빛/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+쪽빛
+	쪽빛/ncn
+
+바다에는
+	바다/ncn+에/jca+는/jxc
+
+호화
+	호화/ncn
+
+요트가
+	요트/ncn+가/jcs
+
+유유히
+	유유히/mag
+
+떠다닌다
+	떠다니/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+간간히
+	간간히/mag
+
+무동력
+	무동력/ncn
+
+해양스포츠를
+	해양스포츠/ncn+를/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+사람들도
+	사람들/ncn+도/jxc
+
+눈에
+	눈/ncn+에/jca
+
+띈다
+	띄/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+바다색깔은
+	바다/ncn+색깔/ncn+은/jxc
+
+사진처럼
+	사진/ncn+처럼/jca
+
+산호빛
+	산호/ncn+빛/ncn
+
+색깔을
+	색깔/ncn+을/jco
+
+띄고
+	뜨/pvg+어/ef+고/jcr
+
+있으며
+	있/paa+으며/ecc
+
+
+물
+	물/pvg+ㄹ/etm
+
+속에
+	속/ncn+에/jca
+
+발을
+	발/ncn+을/jco
+
+담그면
+	담그/pvg+면/ecs
+
+손가락
+	손가락/ncn
+
+크기
+	크/paa+기/etn
+
+만한
+	만/nnc+한/nnc
+
+은색의
+	은색/ncn+의/jcm
+
+열대
+	열/nnc+대/nbu
+
+물고기가
+	물고기/ncn+가/jcs
+
+발목
+	발목/ncn
+
+아래로
+	아래/ncn+로/jca
+
+왔다갔다
+	왔다갔다/mag
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+신기해서
+	신기/ncn+해서/ncn
+
+빵가루를
+	빵가루/ncn+를/jco
+
+뿌려주니
+	뿌리/pvg+어/ecx+주/px+니/ecs
+
+몇몇
+	몇/nnc+몇/nnc
+
+물고기들이
+	물고기/ncn+들/ncn+이/jcc
+
+몰려든다
+	몰려들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+발목
+	발목/ncn
+
+깊이의
+	깊이/ncn+의/jcm
+
+얕은곳까지
+	얕은곳까지/ncn
+
+물고기가
+	물고기/ncn+가/jcs
+
+올라오다니
+	오르/pvg+아/ecx+오/px+다니/ecs
+
+우리나라에선
+	우리나라/ncn+에선/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+광경
+	광경/ncn
+
+...
+	.../se
+
+
+(
+	(/sl
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+가운데
+	가운데/ncn
+
+쯤에
+	쯤/ncn+에/jca
+
+은색의
+	은색/ncn+의/jcm
+
+물고기가
+	물고기/ncn+가/jcs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+)
+	)/sr
+
+
+한가지
+	한/nnc+가지/nbu
+
+tip.
+	tip/f+./sy
+
+..
+	./sf+./sf
+
+
+샹그릴라
+	샹그릴라/ncn
+
+비치바에서
+	비치/ncpa+바/ncn+에서/jca
+
+파는
+	팔/pvg+는/etm
+
+워터멜론에이드가
+	워터/ncn+멜론/ncn+에이/ncn+드/ncn+가/jcs
+
+정말
+	정말/mag
+
+맛있다
+	맛있/paa+다/ef
+
+.
+	./sf
+
+
+만일
+	만/nnc+일/nbu
+
+간다면
+	가/px+ㄴ다면/ecs
+
+꼭
+	꼭/mag
+
+드셔보시길
+	드셔보시길/ncn
+
+...
+	.../se
+
+
+리조트
+	리조트/ncn
+
+정원에서
+	정원/ncn+에서/jca
+
+비치로
+	비치/ncpa+로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+돌계단
+	돌계단/ncn
+
+..
+	./sf+./sf
+
+
+-
+	-/sd
+
+2006
+	2006/nnc
+
+.
+	./sf
+
+
+11
+	11/nnc
+
+.
+	./sf
+
+
+IN
+	IN/f
+
+샹그릴라
+	샹그릴라/ncn
+
+-
+	-/sd
+
+
+샹그릴라
+	샹그릴라/ncn
+
+리조트
+	리조트/ncn
+
+전용비치:
+	전용/ncpa+비치/ncpa+:/sp
+
+
+전용
+	전용/ncpa
+
+비치
+	비치/ncpa
+
+크기
+	크/paa+기/etn
+
+:
+	:/sp
+
+350
+	350/nnc
+
+에
+	에/pvg+어/ecx
+
+이르는
+	이르/paa+는/etm
+
+호텔
+	호텔/ncn
+
+투숙객
+	투숙객/ncn
+
+전용
+	전용/ncpa
+
+비치
+	비치/ncpa
+
+
+이용
+	이용/ncpa
+
+가능
+	가능/ncpa
+
+시간
+	시간/nbu
+
+:
+	:/sp
+
+6:00
+	6/nnc+:/sp+00/nnc
+
+-
+	-/sd
+
+17:00
+	17/nnc+:/sp+00/nnc
+
+
+무료
+	무료/ncn
+
+대여
+	대/nbu+이/jp+어/ecs
+
+용품
+	용품/ncn
+
+:
+	:/sp
+
+비치체어
+	비치/ncpa+체/ncn+이/jp+어/ecs
+
+,
+	,/sp
+
+비치타월,
+	비치/ncpa+타월/ncn+,/sp
+
+무동력
+	무동력/ncn
+
+카약
+	카약/ncn
+
+카누
+	카누/ncn
+
+등
+	등/nbu
+
+무동력해양
+	무동력해양/ncn
+
+스포츠
+	스포츠/ncn
+
+
+전용해변의
+	전용/ncpa+해변/ncn+의/jcm
+
+장점:
+	장점/ncn+:/sp
+
+청결하게
+	청결/ncps+하/xsms+게/ecs
+
+잘
+	잘/mag
+
+관리되며
+	관리/ncpa+되/xsvn+며/ecc
+
+친절한
+	친절/ncps+하/xsms+ㄴ/etm
+
+직원과
+	직원/ncn+과/jcj
+
+안전요원이
+	안전/ncn+요원/ncn+이/jcc
+
+항시
+	항시/mag
+
+대기
+	대/nbu+이/jp+기/etn
+
+.
+	./sf
+
+
+해변
+	해변/ncn
+
+시설
+	시설/ncpa
+
+:
+	:/sp
+
+Beach
+	Beach/f
+
+Bar
+	Bar/f
+
+,
+	,/sp
+
+Beach
+	Beach/f
+
+Water
+	Water/f
+
+Sport
+	Sport/f
+
+Counter
+	Counter/f
+
+,
+	,/sp
+
+Volleybal
+	Volleybal/f
+
+Count
+	Count/f
+
+
+*
+	*/sy
+
+Travelphoto
+	Travelphoto/f
+
+byJang/
+	byJang/f+//sp
+
+WritePhoto
+	WritePhoto/f
+
+Edit
+	Edit/f
+
+by
+	by/f
+
+Jang
+	Jang/f
+
+
+담아가실
+	담/pvg+아/ecx+가/px+시/ep+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+반드시
+	반드시/mag
+
+덧글
+	덧글/ncn
+
+남겨주세요
+	남기/pvg+어/ecx+주/px+세/ef+요/jxf
+
+!
+	!/sf

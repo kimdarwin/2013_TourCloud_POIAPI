@@ -1,0 +1,1018 @@
+통영시
+	통영시/ncn
+
+
+경상남도
+	경상/ncn+남도/ncn
+
+
+기간
+	기간/ncn
+
+2010.
+	2010./nnc
+
+1.
+	1./nnc
+
+17~
+	17/nnc+~/sd
+
+2010.
+	2010./nnc
+
+1.
+	1./nnc
+
+17(1일)
+	17/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+나
+	나/npp
+
+홀로
+	홀로/mag
+
+떠나는
+	떠나/pvg+는/etm
+
+여행
+	여행/ncpa
+
+
+벽화
+	벽화/ncn
+
+마을
+	마을/ncn
+
+하면
+	하/pvg+면/ecs
+
+무엇이
+	무엇/npd+이/jcc
+
+떠오르세요
+	떠오르/pvg+세/ef+요/jxf
+
+?
+	?/sf
+
+
+전
+	전/nbn
+
+동화
+	동화/ncn
+
+속
+	속/ncn
+
+어린
+	어리/paa+ㄴ/etm
+
+왕자가
+	왕자/ncr+가/jcc
+
+살
+	사/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같은
+	같/paa+은/etm
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+풍경이
+	풍경/ncn+이/jcc
+
+떠오르는데요
+	떠오르/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+평소에
+	평소/ncn+에/jca
+
+벽화마을
+	벽화/ncn+이/jp+마/ef+ㄹ/etm
+
+중.
+	중/nbn+./sf
+
+.
+	./sf
+
+
+가장
+	가장/mag
+
+유명하다고
+	유명/ncps+하/xsms+다고/ecs
+
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/paa+는/etm
+
+
+동피랑
+	동피랑/ncn
+
+벽화마을에
+	벽화/ncn+마을/ncn+에/jca
+
+가고
+	가/px+고/ecc
+
+싶었던
+	싶/px+었/ep+던/etm
+
+전.
+	전/nbn+./sf
+
+.
+	./sf
+
+
+가족
+	가족/ncn
+
+여행의
+	여행/ncpa+의/jcm
+
+첫
+	첫/nno
+
+방문지로
+	방문지/ncn+로/jca
+
+동피랑
+	동피랑/ncn
+
+마을을
+	마을/ncn+을/jco
+
+가자고
+	가/pvg+자고/ecs
+
+
+주장했어요
+	주장/ncpa+하/xsva+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+과연
+	과연/mag
+
+동피랑
+	동피랑/ncn
+
+마을은
+	마을/ncn+은/jxc
+
+저에게
+	저/ncn+에게/jca
+
+
+어떻게
+	어떻/pad+게/ecs
+
+다가왔을까요
+	다가오/pvg+아/ep+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+동피랑
+	동피랑/ncn
+
+벽화마을은요
+	벽화/ncn+마을/ncn+은요/jxc
+
+..
+	./sf+./sf
+
+
+통영중앙시장에서
+	통영중앙/ncn+시장/ncr+에서/jca
+
+
+바다
+	바다/ncn
+
+반대방향으로
+	반대/ncn+방향/ncn+으로/jca
+
+오른쪽
+	오르/pvg+ㄴ/etm+쪽/nbn
+
+위쪽을
+	위쪽/ncn+을/jco
+
+보시면
+	보시/ncpa+면/ncn
+
+
+벽화들을
+	벽화/ncn+들/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+이곳이
+	이곳/npd+이/jcc
+
+동피랑
+	동피랑/ncn
+
+벽화마을이랍니다
+	벽화/ncn+마을/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+(네이버
+	(네이버/ncn
+
+출처
+	출처/ncn
+
+동피랑
+	동피랑/ncn
+
+마을
+	마을/ncn
+
+지도)
+	지도/ncn+)/sr
+
+
+동피랑
+	동피랑/ncn
+
+마을은
+	마을/ncn+은/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+때
+	때/ncn
+
+재개발
+	재개발/ncn
+
+지역으로
+	지역/ncn+으로/jca
+
+선정되었다가
+	선정/ncpa+되/xsvn+었/ep+다가/ecs
+
+.
+	./sf
+
+
+모
+	모/ncn
+
+단체의
+	단체/ncn+의/jcm
+
+벽화공모전으로
+	벽화/ncn+공모전/ncn+으로/jca
+
+인해서
+	인하/paa+어서/ecs
+
+
+이제
+	이제/mag
+
+통영에서
+	통영/ncn+에서/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+관광지로
+	관광지/ncn+로/jca
+
+탈바꿈했는데요
+	탈바꿈/ncpa+하/xsva+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+찾아
+	찾/pvg+아/ecx
+
+간
+	가/px+ㄴ/etm
+
+일요일도
+	일요일/ncn+도/jxc
+
+여행객들의
+	여행객/ncn+들/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+
+쉽게
+	쉽/paa+게/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었답니다
+	있/px+었/ep+답니다/ef
+
+.
+	./sf
+
+
+심슨이
+	심슨/ncn+이/jcc
+
+반겨주고
+	반기/pvg+어/ecx+주/px+고/ecc
+
+..
+	./sf+./sf
+
+
+입구를
+	입구/ncn+를/jco
+
+나타내는
+	나타내/pvg+는/etm
+
+벽화
+	벽화/ncn
+
+..
+	./sf+./sf
+
+
+동피랑에
+	동피랑/ncn+에/jca
+
+꿈이
+	꿈/ncn+이/jcc
+
+살고
+	살/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+..
+	./sf+./sf
+
+
+정말
+	정말/mag
+
+가슴속에
+	가슴/ncn+속/ncn+에/jca
+
+팍
+	팍/mag
+
+꽂혀버리는
+	꽂히/pvg+어/ecx+버리/px+는/etm
+
+말이었습니다
+	말/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+동피랑
+	동피랑/ncn
+
+마을은
+	마을/ncn+은/jxc
+
+제
+	저/npp+의/jcm
+
+생각처럼
+	생각/ncpa+처럼/jca
+
+정말로
+	정말로/mag
+
+
+동화속의
+	동화/ncn+속/ncn+의/jcm
+
+어린왕자가
+	어린/ncn+왕자/ncr+가/jcc
+
+사는
+	사/pvg+는/etm
+
+곳
+	곳/ncn
+
+같았는데요
+	같/paa+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+새로
+	새로/mag
+
+벽화작업을
+	벽화/ncn+작업/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+모습도
+	모습/ncn+도/jxc
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었어요
+	있/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+다음엔
+	다음/ncn+엔/jca
+
+더욱
+	더욱/mag
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+벽화그림을
+	벽화/ncn+그림/ncn+을/jco
+
+
+더
+	더/mag
+
+만나볼
+	만나/pvg+아/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있겠네요
+	있/px+겠/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+벽화에
+	벽화/ncn+에/jca
+
+덧칠한
+	덧칠/ncpa+하/xsva+ㄴ/etm
+
+듯
+	듯/nbn
+
+낙서가
+	낙서/ncn+가/jcs
+
+된
+	되/pvg+ㄴ/etm
+
+벽화를
+	벽화/ncn+를/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었는데요
+	있/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+제
+	저/npp+의/jcm
+
+착각인지도
+	착각/ncpa+이/jp+ㄴ지/ecs+도/jxc
+
+모르지만
+	모르/pvg+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+제
+	저/npp+의/jcm
+
+눈에는
+	눈/ncn+에/jca+는/jxc
+
+누군가가
+	누군가/npp+가/jcc
+
+
+낙서한
+	낙서/ncn+한/ncn
+
+거
+	것/nbn
+
+같아
+	같/paa+아/ecx
+
+보였거든요
+	보/nbu+이/jp+었/ep+거든요/ecs
+
+
+아무리
+	아무리/mag
+
+사람은이름과
+	사람은/ncn+이름/ncn+과/jcj
+
+추억을
+	추억/ncpa+을/jco
+
+남긴다는
+	남기/pvg+ㄴ다/ef+는/etm
+
+말이있다지만
+	말이있다/ncn+지만/jxc
+
+
+안
+	안/mag
+
+좋은
+	좋/paa+은/etm
+
+감정이
+	감정/ncn+이/jcc
+
+생기는
+	생기/pvg+는/etm
+
+건
+	거/nbn+은/jxc
+
+어쩔
+	어쩌/paa+ㄹ/etm
+
+수
+	수/nbn
+
+없었답니다
+	없/paa+었/ep+답니다/ef
+
+.
+	./sf
+
+
+보는
+	보/px+는/etm
+
+사람의
+	사람/ncn+의/jcm
+
+시각차이라지만
+	시각차/ncn+이/jp+라지만/ecs
+
+..
+	./sf+./sf
+
+
+전
+	전/nbn
+
+원작을
+	원작/ncn+을/jco
+
+보존해
+	보존/ncpa+하/xsva+어/ecx
+
+줬으면합니다
+	줬으면합니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(아
+	(/sl+아/ii
+
+...
+	.../se
+
+
+저게
+	저/npp+이/jp+게/ecs
+
+원본이라면
+	원본/ncn+이/jp+라면/ecs
+
+죄송합니다
+	죄송/ncps+하/xsms+ㅂ니다/ef
+
+.)
+	./sf+)/sr
+
+
+동피랑
+	동피랑/ncn
+
+마을의
+	마을/ncn+의/jcm
+
+제일
+	제일/mag
+
+높은
+	높/paa+은/etm
+
+곳에서
+	곳/ncn+에서/jca
+
+바라보는
+	바라보/pvg+는/etm
+
+
+통영의
+	통영/ncn+의/jcm
+
+풍경도
+	풍경/ncn+도/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+폭의
+	폭/nbu+의/jcm
+
+동화
+	동화/ncn
+
+같았는데요
+	같/paa+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+가족여행인데
+	가족/ncn+여행/ncpa+이/jp+ㄴ데/ecs
+
+가족사진을
+	가족/ncn+사진/ncn+을/jco
+
+빼놓을
+	빼/pvg+어/ecx+놓/px+을/etm
+
+순
+	순/ncn
+
+없겠죠
+	없/paa+겠/ep+죠/ef
+
+.
+	./sf
+
+
+가장
+	가장/mag
+
+인상
+	인상/ncn
+
+깊은
+	깊/paa+은/etm
+
+장소에서
+	장소/ncn+에서/jca
+
+한
+	하/pvg+ㄴ/etm
+
+컷
+	컷/nbu
+
+
+찍어드렸답니다
+	찍/pvg+어/ecx+드리/px+었/ep+답니다/ef
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+가본
+	가/pvg+아/ecx+보/px+ㄴ/etm
+
+벽화마을
+	벽화/ncn+이/jp+마/ef+ㄹ/etm
+
+만해도
+	만/nbs+하/xsms+어도/ecs
+
+
+마산의
+	마산/ncn+의/jcm
+
+당산벽화마을
+	당산/ncn+벽화/ncn+이/jp+마/ef+ㄹ/etm
+
+..
+	./sf+./sf
+
+
+통영의
+	통영/ncn+의/jcm
+
+동피랑마을
+	동피랑마/ncn+을/jco
+
+두
+	두/nnc
+
+곳인데요
+	곳인데요/ncn
+
+.
+	./sf
+
+
+제
+	저/npp+의/jcm
+
+개인적으로는
+	개인/ncn+적/ncn+으로는/jca
+
+
+더
+	더/mag
+
+많은
+	많/paa+은/etm
+
+벽화마을이
+	벽화/ncn+마을/ncn+이/jcc
+
+생겼으면
+	생기/pvg+었/ep+으면/ecs
+
+좋겠어요
+	좋/paa+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+..
+	./sf+./sf
+
+
+사시는
+	사/pvg+시/ep+는/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+얼마나
+	얼마나/mag
+
+
+불편할까
+	불편/ncps+하/xsms+ㄹ까/ef
+
+??
+	?/sf+?/sf
+
+
+라는
+	라/ncn+는/jxc
+
+생각이
+	생각/ncpa+이/jcc
+
+
+들었던
+	들/pvg+었/ep+던/etm
+
+건
+	거/nbn+은/jxc
+
+어쩔
+	어쩌/paa+ㄹ/etm
+
+수
+	수/nbn
+
+없네요
+	없/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+가족여행
+	가족/ncn+여행/ncpa
+
+첫
+	첫/nno
+
+방문지였던
+	방문지/ncn+이/jp+었/ep+던/etm
+
+동피랑
+	동피랑/ncn
+
+마을
+	마을/ncn
+
+...
+	.../se
+
+
+정말로
+	정말/ncn+로/jca
+
+예쁘고
+	예쁘/paa+고/ecc
+
+좋은
+	좋/paa+은/etm
+
+곳이었던
+	곳/ncn+이/jp+었/ep+던/etm
+
+거
+	것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+동피랑
+	동피랑/ncn
+
+마을에서의
+	마을/ncn+에서/jca+의/jcm
+
+추억을
+	추억/ncpa+을/jco
+
+남긴
+	남기/pvg+ㄴ/etm
+
+
+미르였습니다
+	미르였습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+미르에게
+	미르에/ncn+이/jp+게/ecs
+
+힘을
+	힘/ncn+을/jco
+
+주세요
+	주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+뷰온
+	뷰온/ncn
+
+클릭
+	클릭/ncpa
+
+..
+	./sf+./sf
+
+
+덧글
+	덧글/ncn
+
+..
+	./sf+./sf
+
+
+공감
+	공감/ncpa
+
+아시죠
+	알/pvg+시/ep+죠/ef
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+뷰온
+	뷰온/ncn
+
+클릭은
+	클릭/ncpa+은/jxc
+
+로그인안해도
+	로그인/ncpa+안해/ncn+도/jxc
+
+가능하니
+	가능/ncpa+하/xsva+니/ef
+
+
+부탁드려요
+	부탁/ncpa+드/ncn+이/jp+리/ep+어요/ef
+
+
+행복하세요
+	행복/ncps+하세/ncpa+요/ncn

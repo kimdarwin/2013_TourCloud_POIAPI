@@ -1,0 +1,34 @@
+Title:
+8/26 지리산 피아골계곡 트레킹 후기
+
+Date:
+2012.08.27
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(795026,'files/attach/images/64/298/258/270e27ee76038276820895f492d91499.jpg');
+list_gallery_add_image(795026,'files/attach/images/64/298/258/3390656eeee8d700fca1e0805f1694d7.jpg');
+list_gallery_add_image(795026,'files/attach/images/64/298/258/c3f0e83b07bb89761d4b40ec6d872d6e.jpg');
+list_gallery_add_image(795026,'files/attach/images/64/298/258/a404009d85eba7be4dfca82d0cd865f0.jpg');
+list_gallery_add_image(795026,'files/attach/images/64/298/258/1a48d6656ee29ab0fe002f61bb62e104.jpg');
+list_gallery_add_image(795026,'files/attach/images/64/298/258/4c625172ca6a5c9f77fc1c012114a4ae.jpg');
+list_gallery_add_image(795026,'files/attach/images/64/298/258/4612c13a5b04f9915412320c4f206eb6.jpg');
+list_gallery_add_image(795026,'files/attach/images/64/298/258/12481c8fa7fb8f706ebfe0b49b0d5e9a.jpg');
+list_gallery_add_image(795026,'files/attach/images/64/298/258/26c084123adb38e4207160a82e2f51d2.jpg');
+list_gallery_add_image(795026,'files/attach/images/64/298/258/74bf23393ce405b06032dfc431548880.jpg');
+list_gallery_add_image(795026,'files/attach/images/64/298/258/a9e6d04d0d630b3276a85a990a8e6528.jpg');
+list_gallery_add_image(795026,'files/attach/images/64/298/258/e9f7483d5eb8b773497bdc925967009f.jpg');
+list_gallery_add_image(795026,'files/attach/images/64/298/258/c3821374f133aca5997fd8ef4e7581c2.jpg');
+list_gallery_add_image(795026,'files/attach/images/64/298/258/9eedcbd0ad89a98d9a1b15dc52ee1d7c.jpg');
+list_gallery_add_image(795026,'files/attach/images/64/298/258/c399e4c1f850e28e71c220b8efb566cf.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 8월 29일(일) 지리산 피아골계곡 트레킹을 하였습니다.
+얼마 만에 만난 파란 하늘인지 더위는 아랑곳 않고 반가울 정도로 화창한 날이었습니다.
+태풍이 시작된다더니 그 전에 마치 폭풍 전야처럼 고요하게 맑은 하늘을 보여주는 것일까요. 며칠간 오락가락하던 비도 멈추고 하루 종일 맑음이었습니다.
+지리산 피아골계곡 트레킹은 연곡사 바로 위 직전마을을 시작으로 삼홍소를 지나고 피아골대피소까지 다녀오는 왕복 약 8km 구간입니다. 그래서 자신의 체력에 맞게 삼홍소까지 또는 대피소까지 구간을 정하여 다녀오기로 했습니다. 
+마을을 출발하여 계곡으로 진입하는 순간 쏴~ 하는 계곡 소리가 얼마나 우렁차던지요. 그 물바람에 공기는 싸하여 청정 그 자체였습니다. 그간 몇 차례 피아골계곡 다녀왔지만 피아골의 진가를 확인이라도 시키듯 발걸음을 옮길 때마다 변화무쌍한 계곡을 만났고 조금이라도 틈이 있다 싶으면 쏟아져 내리던 실폭포… 정말 멋진 계곡을 따라 걸었습니다. 
+삼홍소까지만 다녀와도 사실 피아골의 진가를 알 수 있었지만, 좀더 위로 올라가면 또 어떤 모습의 계곡을만날 수 있을까 궁금하여 저도 대피소까지 다녀왔습니다. 삼홍소 이후로는 다소 힘든 산행 구간이만 시원한 계곡과 신선한 공기 때문에 상쾌하게 트레킹을 하였습니다.
+다시 원점으로 회귀하는 동안 몇 번이고 계곡을 돌아보고 또 돌아보았던지 시간만 더 오래 허락한다면 몇 시간이고 계곡에 발 담그고 파란 하늘과 맑은 물빛을 두고두고 마음에 담아오고 싶을 정도로 이번 피아골은 정말 계곡미가 빼어났습니다. 
+남부지방에 위치한 지리산에도 이번 태풍이 무사히 지나가길 바래봅니다.
+이번 피아골계곡은 긴 시간 차를 타고 이동을 한 보람을 느낄 수 있어서 지루함도 피곤함도 덜하셨으리라 생각되네요. 요즘 자주 내렸던 비가 피아골의 품격을 한층 더 상승시켜주는 효과가 있었던 것 같습니다. 당일로 멀리 다녀온 여행이지만 이번 피아골에서 종일 들었던 물소리가 며칠 동안 귓가에 맴돌 듯합니다. 점점 북상중인 태풍으로 인한 피해 없도록 주변 잘 살피시고 이번 한 주도 활기차게 보내시기 바랍니다~이 게시물을...

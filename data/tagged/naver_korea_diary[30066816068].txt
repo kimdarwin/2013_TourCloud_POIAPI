@@ -1,0 +1,411 @@
+남망산
+	남망산/ncn
+
+조각공원
+	조각/ncn+공원/ncn
+
+
+-
+	-/sd
+
+경남
+	경남/ncn
+
+통영시
+	통영시/ncn
+
+동호동
+	동호동/ncn
+
+-
+	-/sd
+
+
+통영이라는
+	통영/ncn+이/jp+라/ef+는/etm
+
+이름은
+	이름/ncn+은/jxc
+
+수군통제사가
+	수군/ncn+통제사/ncr+가/jcc
+
+머문
+	머물/pvg+ㄴ/etm
+
+통제영이
+	통제/ncpa+영/ncn+이/jcc
+
+있던
+	있/px+던/etm
+
+자리
+	자리/ncn
+
+라는데서
+	라는데/ncn+서/jca
+
+비롯되었다
+	비롯/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+임진왜란
+	임진/ncn+왜란/ncn
+
+당시
+	당시/ncn
+
+전라,
+	전라/ncn+,/sp
+
+경상,
+	경상/ncn+,/sp
+
+충청
+	충청/ncn
+
+3도를
+	3/nnc+도/nbu+를/jco
+
+통괄하기
+	통괄/ncpa+하/xsva+기/etn
+
+위해서
+	위하/pvg+어서/ecs
+
+수군통제사라는
+	수군/ncn+통제사/ncr+라는/jcm
+
+자리를
+	자리/ncn+를/jco
+
+만들었다
+	만들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+바로
+	바로/mag
+
+그
+	그/mmd
+
+자리에
+	자리/ncn+에/jca
+
+충무공
+	충무공/ncn
+
+이순신이
+	이순신/ncn+이/jcc
+
+부임했다
+	부임/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+그는
+	그/npp+는/jxc
+
+전남여수에
+	전/xp+남여/ncn+수/ncn+에/jca
+
+있던
+	있/px+던/etm
+
+통제영을
+	통제/ncpa+영/ncn+을/jco
+
+통영시
+	통영시/ncn
+
+앞바다에
+	앞바다/ncn+에/jca
+
+떠
+	뜨/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+한산섬으로
+	한산섬/ncn+으로/jca
+
+옮겼다
+	옮기/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이때부터
+	이때/ncn+부터/jxc
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+이
+	이/mmd
+
+일대를
+	일/nnc+대/nbu+를/jco
+
+통영이라
+	통영/ncn+이/jp+라/ecs
+
+부르게
+	부르/pvg+게/ecs
+
+됐다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+임진왜란이
+	임진/ncn+왜란/ncn+이/jcc
+
+끝난
+	끝나/pvg+ㄴ/etm
+
+후
+	후/ncn
+
+통제영이
+	통제/ncpa+영/ncn+이/jcc
+
+옛
+	옛/mma
+
+충무시로
+	충무시/ncn+로/jca
+
+옮기면서
+	옮기/pvg+면서/ecc
+
+옛
+	옛/mma
+
+충무시
+	충무시/ncn
+
+일대까지
+	일/nnc+대/nbu+까지/jxc
+
+통영이라
+	통영/ncn+이/jp+라/ecs
+
+부르게
+	부르/pvg+게/ecs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+지금도
+	지금/ncn+도/jxc
+
+남아있는
+	남/pvg+아/ecx+있/px+는/etm
+
+한산섬의
+	한산섬/ncn+의/jcm
+
+제승당이나
+	제승/ncpa+당/ncn+이나/jcj
+
+통영시의
+	통영시/ncn+의/jcm
+
+세병관
+	세병관/ncn
+
+같은
+	같/paa+은/etm
+
+유적지는
+	유적지/ncn+는/jxc
+
+이
+	이/mmd
+
+일대가
+	일/nnc+대/nbu+가/jcc
+
+통영임을
+	통영임/ncn+을/jco
+
+증명해준다
+	증명/ncpa+하/xsva+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+1995년
+	1995/nnc+년/nbu
+
+1월시군
+	1월시군/ncn
+
+통폐합때
+	통폐합/ncpa+때/ncn
+
+통영군은
+	통영군/ncn+은/jxc
+
+충무시와
+	충무시/ncn+와/jct
+
+합쳐져서
+	합치/pvg+어/ecx+지/px+어서/ecs
+
+통영시로
+	통영시/ncn+로/jca
+
+확정되었다
+	확정/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+세계
+	세계/ncn
+
+10개국
+	10개국/ncn
+
+유명조각가
+	유명/ncn+조각/ncn+가/jcs
+
+15명의
+	15/nnc+명/nbu+의/jcm
+
+작품으로
+	작품/ncn+으로/jca
+
+1997년에
+	1997/nnc+년/nbu+에/jca
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+남망산
+	남망산/ncn
+
+조각공원은
+	조각/ncn+공원/ncn+은/jxc
+
+
+5,000여평의
+	5,000/nnc+여/xsnu+평/nbu+의/jcm
+
+부지에
+	부지/ncn+에/jca
+
+아름다운
+	아름답/paa+은/etm
+
+자연경관을
+	자연경관/ncn+을/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+개성있는
+	개성/ncn+있/xsmn+는/etm
+
+작품세계를
+	작품/ncn+세계/ncn+를/jco
+
+선보이고
+	선보이/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+곳에서
+	곳/ncn+에서/jca
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+예술적
+	예술/ncn+적/ncn
+
+자극과
+	자극/ncpa+과/jcj
+
+상상력,
+	상상력/ncn+,/sp
+
+넓고
+	넓/paa+고/ecc
+
+확
+	확/ncn
+
+트인
+	트이/pvg+ㄴ/etm
+
+공간이
+	공간/ncn+이/jcc
+
+주는
+	주/px+는/etm
+
+시원함이란
+	시원/ncps+하/xsms+ㅁ/etn+이란/jxc
+
+몸과
+	몸/ncn+과/jcj
+
+마음의
+	마음/ncn+의/jcm
+
+피로를
+	피로/ncps+를/jco
+
+풀기에
+	풀/pvg+기/etn+에/jca
+
+충분하다
+	충분/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+관광db자세히
+	관광db자세히/ncn
+
+보기
+	보기/ncn

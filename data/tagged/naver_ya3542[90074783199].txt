@@ -1,0 +1,677 @@
+'아픔'
+	'/sl+아프/paa+ㅁ/etn+'/sr
+
+러브홀릭스
+	러브홀릭스/ncn
+
+
+죽음보다
+	죽음/ncn+보다/jca
+
+아픈
+	아프/paa+ㄴ/etm
+
+삶.
+	삶/ncn+./sf
+
+...
+	.../se
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc14/2009/11/26/1785/031002135A1243FB51034B45233D9163648_ya3542_logo.
+	net/blogucc14/2009/11/26/1785/031002135A1243FB51034B45233D9163648_ya3542_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'246.
+	'/sr+246./nnc
+
+46';
+	46/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'702A062DA1650F9E19E0264FEEF201E046B6';
+	'702A062DA1650F9E19E0264FEEF201E046B6/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1230f60bc60295268970062e833f97b7da2ed7bdccb14465977c56e5d794656e6731062e833f97b7da2e';
+	'V1230f60bc60295268970062e833f97b7da2ed7bdccb14465977c56e5d794656e6731062e833f97b7da2e/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_03242
+	ugcPlayer_03242/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_03242'
+	VideoInfraUGCPlayer('ugcPlayer_03242'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_03242
+	ugcPlayer_03242/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+러브홀릭스
+	러브홀릭스/ncn
+
+-
+	-/sd
+
+아픔
+	아프/paa+ㅁ/etn
+
+(play
+	(/sl+play/f
+
+장은아)
+	장은/ncn+아/jcv+)/sr
+
+
+평화로운
+	평화/ncn+로운/ncn
+
+넌
+	널/pvg+ㄴ/etm
+
+나의
+	나/npp+의/jcm
+
+웃음이
+	웃음/ncn+이/jcc
+
+되고
+	되/pvg+고/ecc
+
+따사로운
+	따사/ncps+로운/ncn
+
+넌
+	널/pvg+ㄴ/etm
+
+나의
+	나/npp+의/jcm
+
+체온이
+	체온/ncn+이/jcc
+
+되고달콤했던
+	되고달콤했던/ncn
+
+넌
+	널/pvg+ㄴ/etm
+
+나에게
+	나/npp+에게/jca
+
+기적이지만
+	기적/ncn+이/jp+지만/ecs
+
+이젠
+	이젠/ncn
+
+모두
+	모두/mag
+
+지난일사랑이
+	지난/ncn+일사/ncn+랑/jca+이/jcc
+
+머물던
+	머물/pvg+던/etm
+
+자리
+	자리/ncn
+
+눈물로
+	눈물/ncn+로/jca
+
+채워지고
+	채우/pvg+어/ecx+지/px+고/ecc
+
+사랑이
+	사랑/ncn+이/jcc
+
+지나간
+	지나/pvg+아/ecx+가/px+ㄴ/etm
+
+자린
+	자/nbn+이/jp+리/ep+ㄴ/etm
+
+두려움만
+	두려움/ncn+만/jxc
+
+가득
+	가득/mag
+
+남아참아도
+	남아참아/ncn+도/jxc
+
+참아도
+	참/pvg+아/ecs
+
+눈물은
+	눈물/ncn+은/jxc
+
+내리고
+	내리/pvg+고/ecc
+
+바람처럼
+	바라/pvg+ㅁ/etn+처럼/jca
+
+사라져
+	사라지/pvg+어/ecx
+
+추억도
+	추억/ncpa+도/jxc
+
+날아갈것만
+	날/pvg+아/ecx+가/px+ㄹ/etm+것/nbn+만/jxc
+
+같아살아가고있지만
+	같아살아가고있지/ncn+만/jxc
+
+숨을
+	숨/ncn+을/jco
+
+쉬고있지만
+	쉬/pvg+고/ecx+있/px+지/ecx+말/px+ㄴ/etm
+
+죽음보다
+	죽음/ncn+보다/jca
+
+아픈
+	아프/paa+ㄴ/etm
+
+삶을
+	삶/ncn+을/jco
+
+살아가
+	살/pvg+아/ecx+가/px+아/ecs
+
+
+꿈속에서
+	꿈속/ncn+에서/jca
+
+넌
+	널/pvg+ㄴ/etm
+
+나의
+	나/npp+의/jcm
+
+세상이
+	세상/ncn+이/jcc
+
+되고
+	되/pvg+고/ecc
+
+마음에선
+	마음/ncn+에선/jca
+
+넌
+	널/pvg+ㄴ/etm
+
+나의
+	나/npp+의/jcm
+
+우주가
+	우주/ncn+가/jcs
+
+되고신비로운
+	되고신비로운/ncn
+
+넌
+	널/pvg+ㄴ/etm
+
+나에게
+	나/npp+에게/jca
+
+기적이지만
+	기적/ncn+이/jp+지만/ecs
+
+이젠
+	이젠/ncn
+
+모두
+	모두/mag
+
+없던일사랑이
+	없던일사랑/ncn+이/jcc
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+자린
+	자/nbn+이/jp+리/ep+ㄴ/etm
+
+눈물로
+	눈물/ncn+로/jca
+
+채워지고
+	채우/pvg+어/ecx+지/px+고/ecc
+
+사랑이
+	사랑/ncn+이/jcc
+
+지나간
+	지나/pvg+아/ecx+가/px+ㄴ/etm
+
+자린
+	자/nbn+이/jp+리/ep+ㄴ/etm
+
+두려움만
+	두려움/ncn+만/jxc
+
+가득해서흘려도
+	가득해서흘려/ncn+도/jxc
+
+흘려도
+	흘리/pvg+어도/ecs
+
+슬픔은
+	슬프/paa+ㅁ/etn+은/jxc
+
+내리고
+	내리/pvg+고/ecc
+
+연기처럼
+	연기/ncn+처럼/jca
+
+사라져
+	사라지/pvg+어/ecx
+
+기억도
+	기억/nnc+도/jxc
+
+흩어질것만
+	흩/pvg+어/ecx+지/px+ㄹ/etm+것/nbn+만/jxc
+
+같아살아가고
+	같아살아가/ncn+이/jp+고/ecc
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+숨을
+	숨/ncn+을/jco
+
+쉬고있지만죽음보다
+	쉬고있지만죽음/ncn+보다/jca
+
+아픈
+	아프/paa+ㄴ/etm
+
+삶을참아도
+	삶을참아/ncn+도/jxc
+
+참아도
+	참/pvg+아/ecs
+
+눈물은
+	눈물/ncn+은/jxc
+
+내리고
+	내리/pvg+고/ecc
+
+바람처럼
+	바라/pvg+ㅁ/etn+처럼/jca
+
+사라져
+	사라지/pvg+어/ecx
+
+추억도
+	추억/ncpa+도/jxc
+
+날아갈것만
+	날/pvg+아/ecx+가/px+ㄹ/etm+것/nbn+만/jxc
+
+같아살아가고
+	같아살아가/ncn+이/jp+고/ecc
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+숨을
+	숨/ncn+을/jco
+
+쉬고있지만
+	쉬/pvg+고/ecx+있/px+지/ecx+말/px+ㄴ/etm
+
+죽음보다
+	죽음/ncn+보다/jca
+
+아픈
+	아프/paa+ㄴ/etm
+
+삶을
+	삶/ncn+을/jco
+
+살아가
+	살/pvg+아/ecx+가/px+아/ecs
+
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+공간이야기
+	공간/ncn+이야기/ncpa
+
+민초호야bobo's
+	민초호야bobo's/ncn
+
+Hoya
+	Hoya/f
+
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-
+	-/sd

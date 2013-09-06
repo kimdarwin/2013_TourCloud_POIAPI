@@ -1,0 +1,39 @@
+Title:
+9/8 봉평 메밀꽃밭과 한국자생식물원 여행 후기
+
+Date:
+2012.09.08
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(734668,'files/attach/images/64/342/264/1b9d79c651299c3468462805cc45fdb1.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/d5b91334237fc6f2d4963776b69a7ab6.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/7372c5a17d996a51eeaa7e2b7969fcf7.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/213c29c19b4803d6f10b779a382fefea.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/0891a612b8aab06f2c32896afdc0330b.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/f47c8bddae8efb355fb14b6b79e975a7.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/835afea405d1a7353c260717cb6a2013.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/2db04a31b9e194310827cc238f5e3a1c.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/a66564bad6953e33d58d21cf1e948698.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/02ac28aeb8e55658713a2bd012b18eb4.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/8475a510d4687afa32aa910daf740fe8.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/8883656ace406bfdeb0f7b3cf687bc79.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/d5f6eedf4a0a2b7d3e856feca6fa815a.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/f250f5f3a78e77b1e0104862f5af7306.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/aaf18574913b399c1549ec0efaaefa49.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/3327e9bdf43c63df8ed939c450a9cdbe.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/46e21bd3600a460396f5abae08c71512.jpg');
+list_gallery_add_image(734668,'files/attach/images/64/342/264/a23c107437f0d1cb0541e4aab2b6db10.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 9월 8일(토), 봉평 메밀꽃밭과 한국자생식물원 여행을 다녀왔습니다.
+요즘 주말에 계속 비소식이 있어서 여행 가기 전마다 여행 출발여부가 걱정되곤 하였는데 이번 주에는 예보가 오락가락하여 당일 아침까지도 마음을 졸이며 여행길에 나섰습니다. 덕분에 고속도로 정체가 없어 첫번째 여행지인 봉평에 예상보다 빨리 도착하였습니다. 
+많은 양의 비가 내릴 것이라는 일기예보와는 달리 비는 거의내리지 않더군요. 물론 하늘은 잔뜩 먹구름이 끼어있었지만 예보와 이렇게 다를 수 있다니 그저 고마울 따름이었습니다.
+봉평은 메밀 파종 후에 비가 많이 내려서 예년만큼 작황이 좋지 않은 편이랍니다. 오늘이 축제 둘째날인데도 그렇게 사람이 많지 않은걸 보면 비예보 때문인가 싶기도 하도 점점 예년만 못한 꽃 상황 때문인가도 싶구요. 상황이 예년만 못하다 해도 하얗게 피어난 꽃들을 보니 흐렸던 기분마저 밝아지는 느낌이었습니다. 비가 조금씩 오락가락하긴 했지만 그래도 여행을 하는 데는 별 무리가 없어서정말 다행이다 싶었습니다. 
+다만 예전 메밀꽃밭은 자연스러움이 가장 큰 장점이자 특징이었는데 꽃밭 사이에 뭔가 시설물들을 설치하여 꽃밭의 자연스러움이 떨어지는 것은 개인적으로 좀 아쉽다는 생각이 드네요. 메밀꽃밭도 돌아보고 축제장주변 시장구경 그리고 이곳 특산물인 메밀막국수로 점심식사를 마치고 다음 여행지인 한국자생식물원으로 이동하였습니다.
+한국자생식물원은 우리나라에 자생하는 식물들을 연구하고 보존하는 곳입니다. 문을 연지는 꽤 되었지만 아직도 이 식물원에 대해서는 잘 모르시는 분이 많으신 것 같아요. 매 시기마다 다양한 우리 꽃들이 피는데 요맘때는 군락을 이뤄 피는 벌개미취가 단연 으뜸입니다. 
+하지만 올 여름 더위가 심해서 만개는 상당히 지난 상태이고 끝물이지만 아직도 남아 있는 벌개미취 꽃으로 만족해야 해서 약간 아쉬움이 남긴 합니다. 하지만 솔채, 가시오갈피 등 다양한 야생화들을 볼 수 있었고 주차장 주변을 가장 화려하게 수놓은 애기부채꽃도 독특하더군요.
+만개한 벌개미취 군락을 볼 수는 없었지만 식물원을 돌아보며 조용한 산책을 하는 것만으로도 마음이 차분해져서 아쉬움이 크지는 않으셨기를 바랍니다.
+파란 하늘 아래 핀 하얀 메밀꽃을 볼 수 있었다면 더없이 좋았겠지만 그래도 다행히 비가 거의 내리지 않아서 여행에 불편함은 없었던 것 같습니다.
+강원도 평창은 메밀꽃이 질 무렵이면 가을이 깊어가겠죠?
+이번 여행에 참여하신 분들 모두 내일 하루 잘 쉬시고 새롭게 시작되는 한 주도 잘 맞이하시기 바랍니다~이 게시물을...

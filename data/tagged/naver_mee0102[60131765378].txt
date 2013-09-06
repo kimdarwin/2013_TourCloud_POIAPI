@@ -1,0 +1,625 @@
+[거제도여행/거제도여행지/거제도여행코스/거제도갈만한곳/거제도볼거리]
+	[거제도여행/거제도여행지/거제도여행코스/거제도갈만한곳/거제도볼거리]/ncn
+
+거제도
+	거제/ncn+도/jxc
+
+산방산비원
+	산방산비원/ncn
+
+
+거제도에는
+	거제도/ncn+에/jca+는/jxc
+
+갈
+	가/pvg+ㄹ/etm
+
+곳이
+	곳/ncn+이/jcc
+
+참
+	참/mag
+
+많지만
+	많/paa+지/ecx+말/px+ㄴ/etm
+
+그
+	그/mmd
+
+중
+	중/nbn
+
+거제도의
+	거제도/ncn+의/jcm
+
+산방산
+	산방산/ncn
+
+자락에
+	자락/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+시크릿
+	시크릿/ncn
+
+가든
+	가/px+든/ecs
+
+산방산비원
+	산방산비원/ncn
+
+또한
+	또한/maj
+
+가볼만한
+	가/pvg+아/ecx+보/px+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+지역마다
+	지역/ncn+마다/jxc
+
+식물원이나
+	식물원/ncn+이나/jcj
+
+수목원,
+	수목원/ncn+,/sp
+
+허브농원
+	허브농원/ncn
+
+들이
+	들/nbn+이/jcc
+
+참
+	참/mag
+
+많겠지만
+	많/paa+겠/ep+지만/ecs
+
+산방산의
+	산방산/ncn+의/jcm
+
+대자연과
+	대자연/ncn+과/jcj
+
+인간의
+	인간/ncn+의/jcm
+
+조화가
+	조화/ncn+가/jcs
+
+어우러진
+	어우러지/pvg+ㄴ/etm
+
+작품이나
+	작품/ncn+이나/jcj
+
+다름없는각종
+	다름없는각종/ncn
+
+분재와
+	분재/ncn+와/jcj
+
+이름조차
+	이름/ncn+조차/jxc
+
+생소한
+	생소/ncps+하/xsms+ㄴ/etm
+
+무늬종
+	무늬/ncn+종/ncn
+
+비비츄를
+	비비츄/ncn+를/jco
+
+비롯한
+	비롯/ncpa+하/xsva+ㄴ/etm
+
+붉은
+	붉/paa+은/etm
+
+인동넝쿨초와
+	인동/ncn+넝쿨/ncn+초/ncn+와/jcj
+
+수국,
+	수국/ncn+,/sp
+
+큰꽃으아리와
+	큰꽃으아리/ncn+와/jcj
+
+매발톱
+	매/xp+발톱/ncn
+
+등
+	등/nbn
+
+
+다양한
+	다양/ncn+한/ncn
+
+야생화와
+	야생/ncpa+화/ncn+와/jcj
+
+희귀식물의
+	희귀/ncn+식물/ncn+의/jcm
+
+천국이라
+	천국/ncn+이/jp+라/ecs
+
+해도
+	하/pvg+어도/ecs
+
+과언이
+	과언/ncn+이/jcc
+
+아니며
+	아니/paa+며/ecc
+
+
+약숫물
+	약숫물/ncn
+
+계곡에는
+	계곡/ncn+에/jca+는/jxc
+
+참게와
+	참/pvg+게/ecx+오/px+아/ecx
+
+가재,
+	가재/ncn+,/sp
+
+고동,
+	고동/ncn+,/sp
+
+메기,
+	메/ncn+이/jp+기/etn+,/sp
+
+붕어
+	붕어/ncn
+
+등의
+	등/nbu+의/jcm
+
+민물고기가
+	민물고기/ncn+가/jcs
+
+뛰노는
+	뛰놀/pvg+는/etm
+
+세상이
+	세상/ncn+이/jcc
+
+펼쳐지기도
+	펼치/pvg+어/ecx+지/px+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+잘
+	잘/mag
+
+다듬어놓은
+	다듬/pvg+어/ecx+놓/px+은/etm
+
+길은
+	길/ncn+은/jxc
+
+유모차를
+	유모차/ncn+를/jco
+
+끌고
+	끌/pvg+고/ecc
+
+가기에도
+	가/px+기/etn+에/jca+도/jxc
+
+편하고
+	편하/paa+고/ecc
+
+
+행운의
+	행운/ncn+의/jcm
+
+네잎클로보가
+	네잎클로보/ncn+가/jcs
+
+잔뜩인
+	잔뜩/ncn+이/jp+ㄴ/etm
+
+길
+	길/paa+ㄹ/etm
+
+위를
+	위/ncn+를/jco
+
+걸으면
+	걸/pvg+면/ecs
+
+저절로
+	저절로/mag
+
+행운이
+	행운/ncn+이/jcc
+
+생길것만
+	생기/pvg+ㄹ/etm+것/nbn+만/jxc
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+**산방산
+	**산방산/ncn
+
+비원의
+	비원/ncn+의/jcm
+
+특징**1
+	특징**1/ncn
+
+.
+	./sf
+
+
+풍수지형상
+	풍수지형상/ncn
+
+우리나라
+	우리나라/ncn
+
+유일한
+	유일한/mag
+
+금계포란현으로
+	금계포란현으로/ncn
+
+모든
+	모든/mma
+
+좋은
+	좋/paa+은/etm
+
+기가
+	기/ncn+가/jcs
+
+모여
+	모이/pvg+어/ecx
+
+있어
+	있/px+어/ecx
+
+건강에
+	건강/ncps+에/jca
+
+큰
+	크/paa+ㄴ/etm
+
+도움이
+	도움/ncn+이/jcc
+
+됩니다.2
+	됩니다.2/ncn
+
+.
+	./sf
+
+
+이곳
+	이곳/npd
+
+지형은
+	지형/ncn+은/jxc
+
+차경의
+	차/nbu+경/xsnu+의/jcm
+
+특이한
+	특이/ncn+한/ncn
+
+원리로
+	원리/ncn+로/jca
+
+하늘과
+	하늘/ncn+과/jcj
+
+주변
+	주변/ncn
+
+산천,
+	산천/ncn+,/sp
+
+바다를
+	바다/ncn+를/jco
+
+한
+	하/pvg+ㄴ/etm
+
+곳에서
+	곳/ncn+에서/jca
+
+감상할
+	감상/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+무릉도원입니다.
+	무릉도원/ncn+이/jp+ㅂ니다/ef+./sf
+
+3
+	3/nnc
+
+.
+	./sf
+
+
+다랑이
+	다랑/ncn+이/jcc
+
+논으로
+	논/ncn+으로/jca
+
+축조된
+	축조/ncpa+되/xsvn+ㄴ/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+설치미술의
+	설치미술/ncn+의/jcm
+
+문화
+	문화/ncn
+
+극치미를
+	극치/ncn+미/ncn+를/jco
+
+나타내고
+	나타내/pvg+고/ecc
+
+있으며
+	있/px+으며/ecc
+
+조망권과
+	조망권/ncn+과/jcj
+
+열림의
+	열리/pvg+ㅁ/etn+의/jcm
+
+공간을
+	공간/ncn+을/jco
+
+감상할
+	감상/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다.
+	있/px+습니다/ef+./sf
+
+4
+	4/nnc
+
+.
+	./sf
+
+
+맑은
+	맑/paa+은/etm
+
+계곡
+	계곡/ncn
+
+물소리와
+	물소리/ncn+와/jcj
+
+폭포,
+	폭포/ncn+,/sp
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+분수경관과
+	분수/ncn+경관/ncn+과/jcj
+
+연꽃,
+	연꽃/ncn+,/sp
+
+수련연못,
+	수련/ncn+연못/ncn+,/sp
+
+수생식물을
+	수생식물/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다.
+	있/px+습니다/ef+./sf
+
+5
+	5/nnc
+
+.
+	./sf
+
+
+6개의
+	6/nnc+개/nbu+의/jcm
+
+푸른
+	푸르/paa+ㄴ/etm
+
+크고
+	크/paa+어/ef+고/jcr
+
+작은
+	작/paa+은/etm
+
+잔디밭과
+	잔디밭/ncn+과/jcj
+
+고인돌
+	고인돌/ncn
+
+정자,
+	정자/ncn+,/sp
+
+전망좋은
+	전망좋/ncn+은/jxc
+
+데크와
+	데크/ncn+와/jcj
+
+휴게공간이
+	휴게공간/ncn+이/jcc
+
+있고
+	있/px+고/ecc
+
+7개의
+	7/nnc+개/nbu+의/jcm
+
+연못과
+	연못/ncn+과/jcj
+
+
+관람객
+	관람객/ncn
+
+여러분의
+	여러/nnc+분/nbu+의/jcm
+
+가족,
+	가족/ncn+,/sp
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+삼단그네와
+	삼단/ncn+그네/ncn+와/jcj
+
+5개의
+	5/nnc+개/nbu+의/jcm
+
+원두막이
+	원두막/ncn+이/jcc
+
+있습니다.
+	있/px+습니다/ef+./sf
+
+6
+	6/nnc
+
+.
+	./sf
+
+
+1,000여종의
+	1,000/nnc+여/xsnu+종/nbu+의/jcm
+
+수목과
+	수목/ncn+과/jcj
+
+야생화의
+	야생/ncpa+화/ncn+의/jcm
+
+연출미
+	연출/ncpa+미/ncn
+
+있는
+	있/px+는/etm
+
+정원과
+	정원/ncn+과/jcj
+
+분재,
+	분재/ncn+,/sp
+
+야생화
+	야생/ncpa+화/ncn
+
+작품이
+	작품/ncn+이/jcc
+
+전시되고
+	전시/ncpa+되/xsvn+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+거제도
+	거제/ncn+도/jxc
+
+산방산비원[거제도여행/거제도여행지/거제도여행코스/거제도갈만한곳/거제도볼거리]
+	산방산비원[거제도여행/거제도여행지/거제도여행코스/거제도갈만한곳/거제도볼거/ncn+이/jp+리/ef+]/sr
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+beeone.
+	beeone/f+./sy
+
+co.
+	co/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+2011.
+	2011./nnc
+
+6.
+	6./nnc
+
+9|지도
+	9|지/ncn+도/jxc
+
+크게
+	크/paa+게/ecs
+
+보기
+	보/px+기/etn
+
+NHN
+	NHN/f
+
+Corp.
+	Corp/f+./sf

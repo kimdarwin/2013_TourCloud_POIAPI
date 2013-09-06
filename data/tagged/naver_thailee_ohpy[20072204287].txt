@@ -1,0 +1,873 @@
+문수산
+	문수산/ncn
+
+산행
+	산행/ncn
+
+후
+	후/ncn
+
+애기봉으로
+	애기/ncn+봉/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길에
+	길/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+다도
+	다/mag+도/jxc
+
+박물관
+	박물관/ncn
+
+
+블로그를
+	블로그/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+접해
+	접하/pvg+어/ecx
+
+꼭
+	꼭/mag
+
+가보고
+	가/pvg+아/ecx+보/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+곳이라
+	곳/nbu+이라/jca
+
+
+다도를
+	다도/ncn+를/jco
+
+사전에
+	사전/ncn+에/jca
+
+찾아보면
+	찾/pvg+아/ecx+보/px+면/ecs
+
+
+찻잎
+	찻잎/ncn
+
+따기에서
+	따/pvg+기/etn+에서/jca
+
+달여
+	달이/pvg+어/ecx
+
+마시기까지
+	말/px+시/ep+기/etn+까지/jxc
+
+다사(
+	다사(/ncn
+
+)로써
+	)/sr+로써/jca
+
+몸과
+	몸/ncn+과/jcj
+
+마음을
+	마음/ncn+을/jco
+
+수련하여
+	수련/ncpa+하/xsva+어/ecx
+
+덕을
+	덕/ncn+을/jco
+
+쌓는
+	쌓/pvg+는/etm
+
+행위
+	행위/ncpa
+
+.
+	./sf
+
+
+박물관
+	박물관/ncn
+
+입구에
+	입구/ncn+에/jca
+
+도착
+	도착/ncpa
+
+
+너무도
+	너무/mag+도/jxc
+
+친절하게
+	친절/ncps+하/xsms+게/ecs
+
+반겨
+	반기/pvg+어/ecx
+
+주신다
+	주/px+시/ep+ㄴ다/ef
+
+.
+	./sf
+
+
+잘
+	잘/mag
+
+가꾸어진
+	가꾸/pvg+어/ecx+지/px+ㄴ/etm
+
+자연
+	자연/ncn
+
+문화공간
+	문화공간/ncn
+
+
+아름다운
+	아름답/paa+은/etm
+
+조경에
+	조경/ncpa+에/jca
+
+내
+	내/pvg+어/ecx
+
+눈과
+	눈/ncn+과/jcj
+
+카메라가
+	카메라/ncn+가/jcs
+
+신났다
+	신나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+맘
+	말/px+ㅁ/etn
+
+한구석에
+	한구석/ncn+에/jca
+
+이런
+	이런/mmd
+
+생각까지
+	생각/ncpa+까지/jca
+
+
+이런
+	이런/mmd
+
+곳에
+	곳/nbn+에/jca
+
+살면
+	살/pvg+면/ecs
+
+얼마나
+	얼마나/mag
+
+좋을까
+	좋/paa+을까/ecs
+
+
+박물관은
+	박물관/ncn+은/jxc
+
+지하에
+	지하/ncn+에/jca
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+정교해
+	정교/ncn+해/ncn
+
+보이는
+	보이/pvg+는/etm
+
+다기들이
+	다기/ncn+들/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+우리나라
+	우리나라/ncn
+
+다기와
+	다기/ncn+와/jcj
+
+일본과
+	일/nnc+본/nbu+과/jcj
+
+중국의
+	중국/ncn+의/jcm
+
+다기,
+	다기/ncpa+,/sp
+
+차를
+	차/ncn+를/jco
+
+만드는
+	만들/pvg+는/etm
+
+맷돌등
+	맷돌/ncn+등/ncn
+
+
+허컥
+	허컥/ncn
+
+~~
+	~/sd+~/sd
+
+
+다도
+	다/mag+도/jxc
+
+박물관이라
+	박물관/ncn+이/jp+라/ecs
+
+하기는
+	하/pvg+기/etn+는/jxc
+
+좀
+	좀/mag
+
+그렇다
+	그렇/pad+다/ef
+
+
+야외로
+	야외/ncn+로/jca
+
+나오니
+	나/pvg+아/ecx+오/px+니/ecs
+
+조각품들이
+	조각품/ncn+들/ncn+이/jcc
+
+~~~
+	~/sd+~/sd+~/sd
+
+
+팔도
+	팔/ncn+도/jxc
+
+장독
+	장독/ncn
+
+전시하는
+	전시/ncpa+하/xsva+는/etm
+
+곳도
+	곳/ncn+도/jxc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+설명은
+	설명/ncpa+은/jxc
+
+전혀
+	전혀/mag
+
+없었다
+	없/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+김포시청
+	김포시청/ncn
+
+사이트에
+	사이트/ncn+에/jca
+
+다도
+	다/mag+도/jxc
+
+박물관에
+	박물관/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+소개
+	소개/ncpa
+
+글이다
+	글/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+바쁜
+	바쁘/paa+ㄴ/etm
+
+일상
+	일상/ncn
+
+...
+	.../se
+
+
+가족이
+	가족/ncn+이/jcc
+
+함께
+	함께/mag
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+물에
+	물/ncn+에/jca
+
+차를
+	차/ncn+를/jco
+
+우리고
+	우리/npp+이/jp+고/ecc
+
+향을
+	향/ncn+을/jco
+
+나누며
+	나누/pvg+며/ecc
+
+맛을
+	맛/ncn+을/jco
+
+음미하는
+	음미/ncpa+하/xsva+는/etm
+
+시간을
+	시간/ncn+을/jco
+
+갖는다면
+	갖/pvg+는다면/ecs
+
+얼마나
+	얼마나/mag
+
+즐거울까
+	즐겁/paa+을까/ef
+
+?
+	?/sf
+
+
+월곶면
+	월곶면/ncn
+
+개곡리에
+	개곡리/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+다도박물관은
+	다도/ncn+박물관/ncn+은/jxc
+
+가족이
+	가족/ncn+이/jcc
+
+함께
+	함께/mag
+
+맑은
+	맑/paa+은/etm
+
+공기
+	공기/nbu
+
+좋은
+	좋/paa+은/etm
+
+물로
+	물/ncn+로/jca
+
+우린
+	우/ncn+이/jp+리/ep+ㄴ/etm
+
+차를
+	차/ncn+를/jco
+
+마시며
+	마시/pvg+며/ecc
+
+마음의
+	마음/ncn+의/jcm
+
+여유를
+	여유/ncn+를/jco
+
+나눌
+	나누/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+라고
+	라/ncn+이/jp+고/ecc
+
+소개하고
+	소개/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+혼자
+	혼자/mag
+
+방문해서
+	방문/ncpa+하/xsva+어서/ecs
+
+일까
+	일/pvg+ㄹ까/ef
+
+?
+	?/sf
+
+
+아님
+	아니/paa+ㅁ/etn
+
+내가
+	나/npp+가/jcs
+
+못
+	못/mag
+
+찾은
+	찾/pvg+은/etm
+
+걸까
+	것/nbn+이/jp+ㄹ까/ef
+
+?
+	?/sf
+
+
+아님
+	아니/paa+ㅁ/etn
+
+나만
+	나/npp+만/jxc
+
+빼놓고
+	빼/pvg+어/ecx+놓/px+고/ecc
+
+준걸까
+	주/px+ㄴ/etm+것/nbn+이/jp+ㄹ까/ef
+
+?
+	?/sf
+
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+차는
+	차/ncn+는/jxc
+
+커녕
+	커녕/ncn
+
+
+차
+	차/ncn
+
+향기도
+	향기/ncn+도/jxc
+
+~~~~~
+	~/sd+~/sd+~/sd+~/sd+~/sd
+
+~
+	~/sd
+
+
+박물관
+	박물관/ncn
+
+우측으로
+	우측/ncn+으로/jca
+
+연꽃
+	연꽃/ncn
+
+연못과
+	연못/ncn+과/jcj
+
+잔디밭
+	잔디밭/ncn
+
+
+그리고
+	그리고/maj
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+파라솔
+	파라솔/ncn
+
+
+그
+	그/mmd
+
+뒤로
+	뒤/ncn+로/jca
+
+통나무집
+	통나무집/ncn
+
+
+이
+	이/mmd
+
+곳에서
+	곳/ncn+에서/jca
+
+하루
+	하루/ncn
+
+밤
+	밤/ncn
+
+쉬어가면
+	쉬/pvg+어/ecx+가/px+면/ecs
+
+좋겠다
+	좋/paa+겠/ep+다/ef
+
+
+너무도
+	너무/mag+도/jxc
+
+잘
+	잘/mag
+
+가꾸어진
+	가꾸/pvg+어/ecx+지/px+ㄴ/etm
+
+주변
+	주변/ncn
+
+경관에
+	경관/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+박물관은
+	박물관/ncn+은/jxc
+
+좀~~~빈약했다
+	졸/pvg+ㅁ/etn+~/sd+~/sd+~/sd+빈약/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+운길산
+	운길산/ncn
+
+갔을
+	가/px+아/ep+ㄹ/etm
+
+때
+	때/ncn
+
+수종사에서
+	수종사/ncn+에서/jca
+
+신도들과
+	신도/ncn+들/ncn+과/jcj
+
+산행하는
+	산행하/ncn+는/jxc
+
+사람들을
+	사람들/ncn+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+무료로
+	무료/ncn+로/jca
+
+마련된
+	마련/ncpa+되/xsvn+ㄴ/etm
+
+찻집이
+	찻집/ncn+이/jcc
+
+생각났다
+	생각나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+수종사
+	수종사/ncn
+
+에서
+	에/pvg+어서/ecs
+
+
+다례도
+	다례/ncn+도/jxc
+
+배우고
+	배우/pvg+고/ecc
+
+맛있는
+	맛있/paa+는/etm
+
+차도
+	차/ncn+도/jxc
+
+마실
+	마시/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+공간이
+	공간/ncn+이/jcc
+
+마련
+	마련/ncpa
+
+되었으면
+	되/pvg+었/ep+으면/ecs
+
+하는
+	하/pvg+는/etm
+
+바램이다
+	바램/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+가족들이
+	가족/ncn+들/ncn+이/jcc
+
+함께
+	함께/mag
+
+하기는
+	하/pvg+기/etn+는/jxc
+
+더할
+	더하/paa+ㄹ/etm
+
+나름
+	나름/nbn
+
+없는
+	없/paa+는/etm
+
+좋은
+	좋/paa+은/etm
+
+공간
+	공간/ncn
+
+임에는
+	일/pvg+ㅁ/etn+에/jca+는/jxc
+
+틀림없다
+	틀림없/paa+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+나
+	나/npp
+
+같이
+	같/paa+이/xsa
+
+사진을
+	사진/ncn+을/jco
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+
+정말
+	정말/mag
+
+좋은곳이다
+	좋은곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+관람시간
+	관람/ncpa+시간/ncn
+
+
+금~일
+	금/ncn+~/sd+일/nnc
+
+10:00~17:00(하절기
+	10:00~17:00(하절기/ncn
+
+:
+	:/sp
+
+오후
+	오후/ncn
+
+6시까지),
+	6/nnc+시/nbu+까지/jxc+)/sr+,/sp
+
+월~목
+	월/nbu+~/sd+목/ncn
+
+휴관
+	휴관/ncn
+
+
+입장료
+	입장료/ncn
+
+:
+	:/sp
+
+3,000원
+	3,000/nnc+원/nbu
+
+
+교통안내
+	교통안내/ncpa
+
+
+자가이용
+	자가/ncn+이용/ncpa
+
+:
+	:/sp
+
+김포국제조각공원에서
+	김포국제조각공원에서/ncn
+
+애기봉으로
+	애기/ncn+봉/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길의
+	길/ncn+의/jcm
+
+중간쯤
+	중간쯤/ncn
+
+위치
+	위치/ncn
+
+
+문의
+	문의/ncn
+
+
+다도박물관
+	다도/ncn+박물관/ncn
+
+031-998-1000
+	031/nnc+-998/nnc+-1000/nnc
+
+
+경기도
+	경기/ncn+도/jxc
+
+김포시
+	김포시/ncn
+
+월곶면
+	월곶면/ncn
+
+개곡리
+	개곡리/ncn
+
+832
+	832/nnc

@@ -1,0 +1,737 @@
+경주시
+	경주시/ncn
+
+
+경상북도
+	경상/ncn+북도/ncn
+
+
+기간
+	기간/ncn
+
+:
+	:/sp
+
+2008.
+	2008./nnc
+
+9.
+	9./nnc
+
+12
+	12/nnc
+
+~
+	~/sd
+
+2008.
+	2008./nnc
+
+9.
+	9./nnc
+
+13
+	13/nnc
+
+(1박
+	(/sl+1/nnc+박/nbu
+
+2일)
+	2/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+:
+	:/sp
+
+안가본곳/안해본것
+	안가본곳/안해본것/ncn
+
+체험여행
+	체험/ncpa+여행/ncpa
+
+
+경로
+	경로/ncn
+
+:
+	:/sp
+
+부산
+	부산/ncps
+
+경주
+	경주/ncpa
+
+코오롱호텔
+	코오롱호텔/ncn
+
+석굴암
+	석굴암/ncn
+
+불국사
+	불국사/ncn
+
+부산
+	부산/ncps
+
+
+나는
+	나/npp+는/jxc
+
+경주를
+	경주/ncpa+를/jco
+
+좋아하고
+	좋/paa+아/ecx+하/px+고/ecc
+
+경주의
+	경주/ncpa+의/jcm
+
+여러
+	여러/mma
+
+숙소들중에서도
+	숙소/ncn+들/xsncc+중/xsnx+에서/jca+도/jxc
+
+여기
+	여기/mad
+
+코오롱
+	코오롱/ncn
+
+호텔을
+	호텔/ncn+을/jco
+
+좋아한다
+	좋/paa+아/ecx+하/px+ㄴ다/ef
+
+
+초딩시절
+	초딩시절/ncn
+
+불국사에
+	불국사/ncn+에/jca
+
+놀러왔을때
+	놀러오/pvg+아/ep+ㄹ/etm+때/nbn
+
+그
+	그/mmd
+
+말로
+	말/ncn+로/jca
+
+표현못할
+	표현/ncpa+못하/xsva+ㄹ/etm
+
+기분좋은
+	기분좋/paa+은/etm
+
+추억과
+	추억/ncpa+과/jcj
+
+20살이
+	20/nnc+살/nbu+이/jcc
+
+넘어서
+	넘/pvg+어서/ecs
+
+경주역에서
+	경주역/ncn+에서/jca
+
+석굴암
+	석굴암/ncn
+
+
+까지
+	까/pvg+지/ecx
+
+도보로
+	도보/ncpa+로/jca
+
+걸어서
+	걷/pvg+어서/ecs
+
+1월1일
+	1월1/ncn+이/jp+ㄹ/etm
+
+해돋이를
+	해돋이/ncn+를/jco
+
+보았을때와
+	보/px+아/ep+ㄹ/etm+때/nbn+와/jcj
+
+영화
+	영화/ncn
+
+'신라의달밤'에
+	'신라의달밤'/ncn+에/jca
+
+나오던
+	나/pvg+아/ecx+오/px+던/etm
+
+그
+	그/mmd
+
+경주
+	경주/ncpa
+
+..
+	./sf+./sf
+
+
+모든게
+	모든게/mag
+
+이
+	이/mmd
+
+코오롱
+	코오롱/ncn
+
+
+호텔이
+	호텔/ncn+이/jcc
+
+보여주는
+	보이/pvg+어/ecx+주/px+는/etm
+
+듯해서다
+	듯하/px+어서/ep+다/ef
+
+.
+	./sf
+
+
+호텔로비엔
+	호텔/ncn+로비/ncn+엔/jca
+
+보문단지내의
+	보문단지내/ncn+의/jcm
+
+호텔들과는
+	호텔/ncn+들/ncn+과/jct+는/jxc
+
+달리
+	달리/mag
+
+조용하지만
+	조용/ncps+하/xsms+지/ecx+말/px+ㄴ/etm
+
+조용함속에
+	조용/ncn+함/ncn+속/xsnx+에/jca
+
+멋짐이
+	멋지/paa+ㅁ/etn+이/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+꼭
+	꼭/mag
+
+한국스러운
+	한국스러운/ncn
+
+맛이라고나
+	맛/ncn+이/jp+라/ef+고/jcr+나/jxc
+
+해야하나
+	하/pvg+어야/ecx+하/px+어/ecx+나/px+아/ecx
+
+?
+	?/sf
+
+
+너무
+	너무/mag
+
+맛났던
+	맛나/paa+아/ep+ㄴ/etm
+
+감자와
+	감자/ncn+와/jcj
+
+소시지모듬
+	소시지모듬/ncn
+
+.
+	./sf
+
+
+다음날
+	다음날/ncn
+
+새벽
+	새벽/ncn
+
+해돋이를
+	해돋이/ncn+를/jco
+
+보기위해
+	보기/ncn+위해/ncn
+
+6시경부터
+	6/nnc+시/nbu+경/xsnu+부터/jxc
+
+코오롱호텔을
+	코오롱호텔/ncn+을/jco
+
+나섰다
+	나서/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+석굴암주차장
+	석굴암/ncn+주차장/ncn
+
+일출을
+	일출/ncpa+을/jco
+
+보기위해선
+	보기/ncn+위해/ncn+선/ncn
+
+두가지
+	두/nnc+가지/nbu
+
+방법이
+	방법/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+차로
+	차/ncn+로/jca
+
+석굴암
+	석굴암/ncn
+
+꼬불꼬불
+	꼬불꼬불/ncn
+
+도로를
+	도로/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+올라서
+	오르/pvg+아/ecx
+
+기다리는
+	기다리/pvg+는/etm
+
+방법(15분정도소요)
+	방법(15분정도소요/ncn+)/sr
+
+
+도보로
+	도보/ncpa+로/jca
+
+불국사
+	불국사/ncn
+
+뒷산길을
+	뒷산/ncn+길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+오르는
+	오르/pvg+는/etm
+
+방법(50분정도소요)
+	방법(50분정도소요/ncn+)/sr
+
+
+재미와
+	재미/ncn+와/jcj
+
+여유는
+	여유/ncn+는/jxc
+
+역시
+	역시/mag
+
+여름날
+	여름/ncn+날/ncn
+
+새벽
+	새벽/ncn
+
+혹은
+	혹은/maj
+
+아주
+	아주/mag
+
+추운
+	춥/paa+은/etm
+
+겨울날
+	겨울/ncn+날/ncn
+
+새벽
+	새벽/ncn
+
+별을
+	별/ncn+을/jco
+
+세며
+	세/nnc+이/jp+며/ecc
+
+도보로
+	도보/ncpa+로/jca
+
+오르는
+	오르/pvg+는/etm
+
+것인데
+	것/nbn+이/jp+ㄴ데/ecs
+
+
+이날은
+	이/nnc+날/nbu+은/jxc
+
+차로
+	차/ncn+로/jca
+
+석굴암
+	석굴암/ncn
+
+주차장에
+	주차장/ncn+에/jca
+
+올랐다
+	오르/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+석굴암
+	석굴암/ncn
+
+오픈은
+	오픈/ncpa+은/jxc
+
+아직전
+	아직전/ncn
+
+.
+	./sf
+
+
+멀리
+	멀리/mag
+
+동해바다위로
+	동해/ncn+바다/ncn+위/ncn+로/jca
+
+구름이
+	구름/ncn+이/jcc
+
+가득하고
+	가득/ncps+하고/jct
+
+서서히
+	서서히/mag
+
+붉어져온다
+	붉/paa+어/ecx+지/px+어/ecx+오/px+ㄴ다/ef
+
+
+난
+	나/px+ㄴ/etm
+
+이전엔
+	이전/ncn+엔/jca
+
+저
+	저/mmd
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+산위에서
+	산/ncn+위/xsnx+에서/jca
+
+오르는
+	오르/pvg+는/etm
+
+줄
+	줄/nbn
+
+알았다
+	알/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+아니다
+	아니/paa+다/ef+./sf
+
+.
+	./sf
+
+
+동해바다
+	동해/ncn+바다/ncn
+
+감포앞바다에서
+	감포앞바다/ncn+에서/jca
+
+떠오르는
+	떠오르/pvg+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+
+석굴암
+	석굴암/ncn
+
+본존불쪽으로
+	본존불/ncn+쪽/ncn+으로/jca
+
+..
+	./sf+./sf
+
+
+그냥
+	그냥/mag
+
+갈수
+	가/px+ㄹ/etm+수/nbn
+
+없어
+	없/paa+어/ecx
+
+7시까지
+	7/nnc+시/nbu+까지/jxc
+
+기다렸다가
+	기다리/pvg+었/ep+다가/ecs
+
+불국사를
+	불국사/ncn+를/jco
+
+간만에
+	간만/ncn+에/jca
+
+들렀다
+	들르/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+불국사
+	불국사/ncn
+
+입장시작시간은
+	입장/ncpa+시작시간/ncn+은/jxc
+
+7시다
+	7/nnc+시/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+국보인
+	국보/ncn+이/jp+ㄴ/etm
+
+청운교
+	청운/ncn+교/ncn
+
+백운교
+	백운교/ncn
+
+.
+	./sf
+
+
+경주하면
+	경주/ncpa+하/xsva+면/ecs
+
+떠오르는
+	떠오르/pvg+는/etm
+
+불국사의
+	불국사/ncn+의/jcm
+
+모습
+	모습/ncn
+
+
+약수도
+	약수/ncn+도/jxc
+
+시원하고
+	시원/ncps+하고/jct
+
+.
+	./sf
+
+
+석가탑
+	석가탑/ncn
+
+
+다보탑
+	다보탑/ncn
+
+
+우리가
+	우리/npp+가/jcs
+
+제일
+	제일/mag
+
+처음
+	처음/mag
+
+불국사
+	불국사/ncn
+
+손님이어서
+	손님/ncn+이/jp+어서/ecs
+
+경내엔
+	경내/ncn+엔/jca
+
+아무도
+	아무/npd+도/jxc
+
+없었다
+	없/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+고요함
+	고요함/ncn
+
+새벽
+	새벽/ncn
+
+..
+	./sf+./sf
+
+
+너무
+	너무/mag
+
+좋은
+	좋/paa+은/etm
+
+기분
+	기분/ncn
+
+.
+	./sf
+
+
+경주에
+	경주/ncpa+에/jca
+
+들르면
+	들르/pvg+면/ecs
+
+불국사를
+	불국사/ncn+를/jco
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+불국사를
+	불국사/ncn+를/jco
+
+가본
+	가/pvg+아/ecx+보/px+ㄴ/etm
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+꼭
+	꼭/mag
+
+이
+	이/mmd
+
+새벽녁
+	새벽녁/ncn
+
+불국사를
+	불국사/ncn+를/jco
+
+가보기를
+	가보/ncn+기/ncn+를/jco
+
+
+권한다
+	권하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+또다른
+	또다른/mma
+
+경주가
+	경주/ncpa+가/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+운좋게
+	운좋/paa+게/ecs
+
+우리방은
+	우리/ncn+방/ncn+은/jxc
+
+코오롱호텔에서도
+	코오롱호텔에서/ncn+도/jxc
+
+유일하게
+	유일/ncps+하/xsms+게/ecs
+
+야외테라스가
+	야외/ncn+테라스/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+제일
+	제/npp+이/jp+ㄹ/etm
+
+꼭대기층
+	꼭대기/ncn+층/ncn
+
+.
+	./sf

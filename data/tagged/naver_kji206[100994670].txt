@@ -1,0 +1,592 @@
+시도유형문화재
+	시도/ncn+유형문화재/ncn
+
+제3호
+	제3호/ncn
+
+
+제주제주시
+	제주/ncn+제주/ncn+시/ncn
+
+조천읍
+	조천읍/ncn
+
+조천리
+	조/nnc+천/nnc+리/nbu
+
+2690
+	2690/nnc
+
+
+바닷가
+	바닷가/ncn
+
+평지에
+	평지/ncn+에/jca
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+정자로
+	정자/ncn+로/jca
+
+조선
+	조선/ncpa
+
+선조
+	선조/ncn
+
+23년(1590)에
+	23년(1590)/ncn+에/jca
+
+조천관
+	조/nnc+천/nnc+관/nbu
+
+건물을
+	건물/ncn+을/jco
+
+새로
+	새로/mag
+
+지은
+	지/px+ㄴ/etm
+
+후
+	후/ncn
+
+쌍벽정이라
+	쌍벽/ncn+정/ncn+이/jp+라/ecs
+
+하였다가
+	하/pvg+었/ep+다가/ecc
+
+
+선조
+	선조/ncn
+
+32년(1599)에
+	32년(1599)/ncn+에/jca
+
+건물을
+	건물/ncn+을/jco
+
+보수하고
+	보수/ncn+하고/jct
+
+이름을
+	이름/ncn+을/jco
+
+연북정으로
+	연북정/ncn+으로/jca
+
+고쳤다
+	고치/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+연북
+	연북/ncn
+
+이라는
+	이르/paa+어/ef+는/etm
+
+정자의
+	정자/ncn+의/jcm
+
+이름은
+	이름/ncn+은/jxc
+
+제주도로
+	제주/ncn+도/ncn+로/jca
+
+유배
+	유배/ncpa
+
+온
+	오/px+ㄴ/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+한양의
+	하/pvg+ㄴ/etm+양/nbn+의/jcm
+
+기쁜
+	기쁘/paa+ㄴ/etm
+
+소식을
+	소식/ncn+을/jco
+
+기다리면서
+	기다리/pvg+면서/ecc
+
+
+북쪽에
+	북쪽/ncn+에/jca
+
+계시는
+	계시/paa+는/etm
+
+임금을
+	임금/ncn+을/jco
+
+사모한다는
+	사모/ncpa+하/xsva+ㄴ다/ef+는/etm
+
+충정의
+	충정/ncpa+의/jcm
+
+뜻을
+	뜻/ncn+을/jco
+
+담고
+	담/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+앞면
+	앞면/ncn
+
+3칸
+	3/nnc+칸/nbu
+
+옆면
+	옆면/ncn
+
+2칸의
+	2/nnc+칸/nbu+의/jcm
+
+지붕은
+	지붕/ncn+은/jxc
+
+옆면이
+	옆면/ncn+이/jcc
+
+여덟
+	여덟/nnc
+
+팔(
+	팔(/ncn
+
+)자
+	)/sr+자/nbn
+
+모양을
+	모양/ncn+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+팔작지붕이다
+	팔작지붕/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+사람의
+	사람/ncn+의/jcm
+
+키보다
+	키/ncn+보다/jca
+
+훨씬
+	훨씬/mag
+
+높게
+	높/paa+게/ecs
+
+축대를
+	축대/ncn+를/jco
+
+쌓고
+	쌓/pvg+고/ecc
+
+다진
+	다지/pvg+ㄴ/etm
+
+기단
+	기단/ncn
+
+위에
+	위/ncn+에/jca
+
+세웠다
+	세우/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+축대의
+	축대/ncn+의/jcm
+
+북쪽으로
+	북쪽/ncn+으로/jca
+
+둘러싼
+	둘러싸/pvg+ㄴ/etm
+
+타원형
+	타원형/ncn
+
+성곽의
+	성곽/ncn+의/jcm
+
+모양과
+	모양/ncn+과/jcj
+
+크기가
+	크/paa+기/etn+가/jcs
+
+옹성과
+	옹성/ncn+과/jct
+
+비슷한
+	비슷/ncps+하/xsms+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+보아
+	보아/ncn
+
+
+망을
+	망/ncn+을/jco
+
+보기
+	보/px+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+망대의
+	망대/ncn+의/jcm
+
+용도로
+	용도/ncn+로/jca
+
+지은
+	지/px+ㄴ/etm
+
+것이라
+	것/nbn+이/jp+라/ecs
+
+추측한다
+	추측/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+기둥의
+	기둥/ncn+의/jcm
+
+배열과
+	배열/ncpa+과/jcj
+
+건축재료의
+	건축재료/ncn+의/jcm
+
+배열방법은
+	배열방법/ncn+은/jxc
+
+모두
+	모두/mag
+
+제주도
+	제주/ncn+도/jxc
+
+주택과
+	주택/ncn+과/jct
+
+비슷하다
+	비슷/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+(문화재청
+	(/sl+문화재/ncn+청/ncn
+
+자료에서
+	자료/ncn+에서/jca
+
+옮김)
+	옮기/pvg+ㅁ/etn+)/sr
+
+
+조천진터
+	조천진터/ncn
+
+
+고려시대부터
+	고려시대/ncn+부터/jxc
+
+제주도의
+	제주/ncn+도/ncn+의/jcm
+
+주교통항으로
+	주교통항/ncn+으로/jca
+
+성이
+	성/ncn+이/jcc
+
+축조되었으며,1374년(공민왕
+	축조되었으며,1374년(공민왕/ncn
+
+23년)
+	23/nnc+년/nbu+)/sr
+
+조천관이
+	조/nnc+천/nnc+관/nbu+이/jcc
+
+창건되었다
+	창건/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+선조
+	선조/ncn
+
+23년(1590)
+	23년(1590)/ncn
+
+이옥
+	이옥/ncn
+
+목사는
+	목사/ncr+는/jxc
+
+출륙하는
+	출륙하/ncn+는/jxc
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+순풍을
+	순풍/ncn+을/jco
+
+기다리며
+	기다리/pvg+며/ecc
+
+머무는
+	머물/pvg+는/etm
+
+곳으로서,
+	곳/nbu+으로서/jca+,/sp
+
+
+적
+	적/nbn
+
+침입의
+	침입/ncpa+의/jcm
+
+요충지로서
+	요충지로/ncn+서/jca
+
+중요한
+	중요/ncps+하/xsms+ㄴ/etm
+
+포구임을
+	포구/ncn+이/jp+ㅁ/etn+을/jco
+
+관민에게
+	관민/ncn+에게/jca
+
+호소하여
+	호소/ncpa+하/xsva+어/ecx
+
+농한기를
+	농한기/ncn+를/jco
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+성을
+	성/ncn+을/jco
+
+축조하게
+	축조/ncpa+하/xsva+게/ecs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+조천포구
+	조천포구/ncn
+
+주변풍경
+	주변풍경/ncn
+
+
+이
+	이/mmd
+
+정자가
+	정자/ncn+가/jcs
+
+세워져
+	세우/pvg+어/ecx+지/px+어/ecx
+
+있는
+	있/px+는/etm
+
+조천포구는
+	조천포구/ncn+는/jxc
+
+
+화북포와
+	화북포/ncn+와/jct
+
+함께
+	함께/mag
+
+관원이나
+	관원/ncn+이나/jcj
+
+도민들이
+	도민/ncn+들/ncn+이/jcc
+
+본토를
+	본토/ncn+를/jco
+
+왕래하는
+	왕래/ncpa+하/xsva+는/etm
+
+관문이었을
+	관문/ncn+이/jp+었/ep+을/etm
+
+뿐만
+	뿐/nbn+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+
+순풍을
+	순풍/ncn+을/jco
+
+기다리며
+	기다리/pvg+며/ecc
+
+머무는
+	머물/pvg+는/etm
+
+휴식처이기도
+	휴식처/ncn+이/jp+기/etn+도/jxc
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+일제강점기에는
+	일제강점기/ncn+에/jca+는/jxc
+
+이
+	이/mmd
+
+정자가
+	정자/ncn+가/jcs
+
+경찰관
+	경찰/ncn+관/ncn
+
+주재소로
+	주재소/ncn+로/jca
+
+사용되기도
+	사용/ncpa+되/xsvn+기/etn+도/jxc
+
+하였다
+	하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+연북정
+	연북정/ncn
+
+부근의
+	부근/ncn+의/jcm
+
+지하
+	지하/ncn
+
+용출수
+	용출수/ncn
+
+
+제주
+	제주/ncn
+
+해안지역에는
+	해안지역/ncn+에/jca+는/jxc
+
+지하에서
+	지하/ncn+에서/jca
+
+흐르던
+	흐르/pvg+던/etm
+
+물이
+	물/ncn+이/jcc
+
+솟아나는
+	솟/pvg+아/ecx+나/px+는/etm
+
+용출수를
+	용출수/ncn+를/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+마을이
+	마을/ncn+이/jcc
+
+형성되었다
+	형성/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+바닷물과
+	바닷물/ncn+과/jct
+
+인접하여
+	인접/ncps+하/xsms+어/ecx
+
+솟아나는
+	솟/pvg+아/ecx+나/px+는/etm
+
+용출수가
+	용출수/ncn+가/jcs
+
+신기하다
+	신기/ncps+하/xsms+다/ef
+
+.
+	./sf

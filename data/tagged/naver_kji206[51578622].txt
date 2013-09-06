@@ -1,0 +1,703 @@
+위
+	위/ncn
+
+치
+	치/nbu
+
+:
+	:/sp
+
+충남
+	충남/ncn
+
+청양군
+	청양군/ncn
+
+청양읍
+	청양읍/ncn
+
+군량리
+	군량/ncn+리/ncn
+
+산
+	사/pvg+ㄴ/etm
+
+32-4번지
+	32-4번지/ncn
+
+
+고운식물원은
+	고운식물원/ncn+은/jxc
+
+1990년
+	1990/nnc+년/nbu
+
+부지조성을
+	부지조성/ncn+을/jco
+
+시작으로
+	시작/ncpa+으로/jca
+
+1997년
+	1997/nnc+년/nbu
+
+식물원
+	식물원/ncn
+
+조성인가
+	조성/ncpa+이/jp+ㄴ가/ef
+
+후
+	후/ncn
+
+2003년
+	2003/nnc+년/nbu
+
+4월
+	4/nnc+월/nbu
+
+28일
+	28/nnc+이/jp+ㄹ/etm
+
+개원까지
+	개원/ncpa+까지/jxc
+
+다양한
+	다양/ncn+한/ncn
+
+식물구입
+	식물/ncn+구입/ncpa
+
+및
+	및/maj
+
+식재작업을
+	식재/ncpa+작업/ncpa+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+만들어졌다
+	만들/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+일반인을
+	일반인/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+자연학습
+	자연학습/ncpa
+
+장
+	장/nbu
+
+,
+	,/sp
+
+식물
+	식물/ncn
+
+유전자원
+	유전자/ncn+원/ncn
+
+보존
+	보존/ncpa
+
+기능수행
+	기능/ncn+수행/ncpa
+
+,
+	,/sp
+
+전공학생들을
+	전공/ncn+학생/ncn+들/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+실습장
+	실습/ncpa+장/ncn
+
+기능
+	기능/ncn
+
+,
+	,/sp
+
+조경
+	조경/ncpa
+
+인들의
+	일/pvg+ㄴ/etm+들/nbn+의/jcm
+
+실무교육장
+	실무교육/ncpa+장/ncn
+
+역할
+	역하/paa+ㄹ/etm
+
+담당
+	담당/ncpa
+
+등을
+	등/nbu+을/jco
+
+목적으로
+	목적/ncn+으로/jca
+
+약
+	약/ncn
+
+12년간의
+	12/nnc+년/nbu+간/xsnu+의/jcm
+
+준비과정을
+	준비/ncn+과정/ncn+을/jco
+
+거쳐
+	거치/pvg+어/ecx
+
+완공되었다
+	완공/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+식물원
+	식물원/ncn
+
+규모는
+	규모/ncn+는/jxc
+
+20ha(약
+	20ha(약/ncn
+
+60,400평)
+	60,400/nnc+평/nbu+)/sr
+
+정도이고
+	정도/ncn+이/jp+고/ecc
+
+교육실습장이
+	교육/ncpa+실습/ncpa+장/ncn+이/jcc
+
+10ha(3만명)
+	10ha(3만명)/ncn
+
+정도이다
+	정도/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+희귀
+	희귀/ncn
+
+및
+	및/maj
+
+멸종위기
+	멸종위기/ncn
+
+식물인
+	식물/ncn+이/jp+ㄴ/etm
+
+미선나무(목본),
+	미선나무(목본),/ncn
+
+가시연꽃(초본)
+	가시연꽃(초본)/ncn
+
+외
+	외/nbn
+
+15종을
+	15/nnc+종/nbu+을/jco
+
+보유하고
+	보유/ncpa+하고/jct
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+총
+	총/mma
+
+4,500여종의
+	4,500/nnc+여/xsnu+종/nbu+의/jcm
+
+식물
+	식물/ncn
+
+유전
+	유전/ncn
+
+자원을
+	자원/ncn+을/jco
+
+보유하고
+	보유/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+(초본류
+	(/sl+초본/ncn+류/xsncc
+
+:
+	:/sp
+
+2,000
+	2,000/nnc
+
+여종
+	여종/ncn
+
+/
+	//sp
+
+목본류
+	목본류/ncn
+
+:
+	:/sp
+
+1,300
+	1,300/nnc
+
+여종
+	여종/ncn
+
+/
+	//sp
+
+도입식물종
+	도입/ncpa+식물/ncn+종/ncn
+
+:
+	:/sp
+
+1800
+	1800/nnc
+
+여종
+	여종/ncn
+
+/미확인종
+	//sp+미확인/ncpa+종/ncn
+
+:
+	:/sp
+
+1,000여종)
+	1,000/nnc+여/xsnu+종/nbu+)/sr
+
+
+.
+	./sf
+
+
+고운식물원은
+	고운식물원/ncn+은/jxc
+
+산을
+	산/ncn+을/jco
+
+허물지
+	허물/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+자연
+	자연/ncn
+
+그대로를
+	그대로/ncn+를/jco
+
+살려
+	살리/pvg+어/ecx
+
+꽃을
+	꽃/ncn+을/jco
+
+심고
+	심/pvg+고/ecc
+
+가꿨기
+	가꾸/pvg+었/ep+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+식물원을
+	식물원/ncn+을/jco
+
+관람하려면
+	관람/ncpa+하/xsva+려면/ecs
+
+자연스럽게
+	자연/ncn+스럽/xsmn+게/ecs
+
+산책을
+	산책/ncpa+을/jco
+
+하며
+	하/pvg+며/ecc
+
+돌아보게
+	돌/pvg+아/ecx+보/px+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+해발
+	해발/ncn
+
+265미터
+	265/nnc+미터/nbu
+
+정상에
+	정상/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+정자에
+	정자/ncn+에/jca
+
+올라
+	오르/pvg+아/ecx
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+식물원의
+	식물원/ncn+의/jcm
+
+경치도
+	경치/ncn+도/jxc
+
+무척
+	무척/mag
+
+시원하고
+	시원/ncn+하고/jcj
+
+
+천천히
+	천천히/mag
+
+산책하는듯이
+	산책/ncpa+하/xsva+는/etm+듯/nbs+이/jcc
+
+천천히
+	천천히/mag
+
+걸으며
+	걸/pvg+며/ecc
+
+꽃사진담으니
+	꽃사진담으/ncn+이/jp+니/ecs
+
+족히
+	족히/mag
+
+4시간은
+	4/nnc+시간/nbu+은/jxc
+
+걸렸답니다
+	걸/pvg+리/ep+었/ep+답니다/ef
+
+
+더운날씨탓에
+	더운날씨탓/ncn+에/jca
+
+금방
+	금방/mag
+
+진이
+	진/ncn+이/jcc
+
+빠지는듯하였지만
+	빠지/pvg+는/etm+듯/nbs+하/xsms+었/ep+지만/ecs
+
+
+새로운
+	새롭/paa+은/etm
+
+꽃들과
+	꽃/ncn+들/xsncc+과/jct
+
+군데군데
+	군데군데/mag
+
+설치된
+	설치/ncpa+되/xsvn+ㄴ/etm
+
+의자는
+	의자/ncn+는/jxc
+
+쉬어가면서
+	쉬/pvg+어/ecx+가/px+면서/ecc
+
+사가지고간
+	사/pvg+아/ecx+가/px+아/ecx+지/px+고/ecx+가/px+ㄴ/etm
+
+김밥을
+	김밥/ncn+을/jco
+
+그늘에
+	그늘/ncn+에/jca
+
+앉아먹는
+	앉아먹/ncn+는/jxc
+
+
+여유를
+	여유/ncn+를/jco
+
+가질수있어
+	가/pvg+아/ecx+지/px+ㄹ/etm+수/nbn+있/xsmn+어/ecs
+
+
+식물원을
+	식물원/ncn+을/jco
+
+돌아보는
+	돌/pvg+아/ecx+보/px+는/etm
+
+동안
+	동안/ncn
+
+그리
+	그리/mad
+
+힘들지는않았지만
+	힘들/pvg+지는/ecx+않/px+아/ep+지만/ecs
+
+
+막상
+	막상/mag
+
+다보고나서
+	다보고나/ncn+서/jca
+
+보니
+	보/px+니/ecs
+
+훌쩍
+	훌쩍/mag
+
+지난
+	지나/pvg+ㄴ/etm
+
+시간에
+	시간/nbu+에/jca
+
+놀랐죠
+	놀라/pvg+아/ep+죠/ef
+
+.
+	./sf
+
+
+2년
+	2/nnc+년/nbu
+
+전
+	전/nbn
+
+4월에
+	4/nnc+월/nbu+에/jca
+
+고운식물원을
+	고운식물원/ncn+을/jco
+
+갔을
+	가/px+아/ep+ㄹ/etm
+
+때에는
+	때/ncn+에/jca+는/jxc
+
+이른봄이라
+	이른봄이라/ncn
+
+많은꽃을
+	많은/ncn+꽃/ncn+을/jco
+
+보지못해
+	보/pvg+지/ecx+못하/px+어/ecx
+
+늘
+	늘/pvg+ㄹ/etm
+
+가보고싶었는데
+	가보/ncn+이/jp+고/ecx+싶/px+었/ep+는데/ecs
+
+
+봄꽃이
+	봄꽃/ncn+이/jcc
+
+다지나간
+	다지나간/ncn
+
+자리지만
+	자리/ncn+이/jp+지만/ecs
+
+여름의
+	여름/ncn+의/jcm
+
+열정으로
+	열정/ncn+으로/jca
+
+하나하나
+	하/pvg+어/ecx+나/px+아/ecx+하/px+어/ecx+나/px+아/ecx
+
+채워진
+	채우/pvg+어/ecx+지/px+ㄴ/etm
+
+꽃들은
+	꽃/ncn+들/xsncc+은/jxc
+
+
+꽃으로
+	꽃/ncn+으로/jca
+
+고픈
+	고프/paa+ㄴ/etm
+
+마음을
+	마음/ncn+을/jco
+
+채워주기
+	채우/pvg+어/ecx+주/px+기/etn
+
+충분하였습니다
+	충분/ncps+하/xsms+었/ep+습니다/ef
+
+.
+	./sf
+
+
+머리풀린
+	머리풀린/ncn
+
+할미꽃군락과
+	할미꽃/ncn+군락/ncn+과/jcj
+
+꽃창포,
+	꽃창포,/ncn
+
+등대풀,마가렛,
+	등대풀,마가렛,/ncn
+
+자란,
+	자라/pvg+ㄴ/etm+,/sp
+
+개양귀비,
+	개양귀비,/ncn
+
+댕강나무,
+	댕강나무,/ncn
+
+눈개승마,종덩굴,수련등등을
+	눈개승마,종덩굴/ncn+,/sp+수련/ncn+등등/ncps+을/jco
+
+
+관람할수있는
+	관람/ncpa+하/xsva+ㄹ/etm+수/nbn+있/xsmn+는/etm
+
+시기였습니다돌아오는길에
+	시기였습니다돌아오는길/ncn+에/jca
+
+칠갑산
+	칠갑/ncpa+산/ncn
+
+장곡사를
+	장곡사/ncn+를/jco
+
+갈계획이었는데
+	갈계획/ncn+이/jp+었/ep+는데/ecs
+
+생각보다
+	생각/ncpa+보다/jca
+
+많은시간을
+	많은/ncn+시간/ncn+을/jco
+
+지체하는바람에
+	지체하는바람/ncn+에/jca
+
+
+다음을
+	다음/ncn+을/jco
+
+기약하며
+	기약/ncpa+하/xsva+며/ecc
+
+...
+	.../se
+
+
+돌아온
+	돌/pvg+아/ecx+오/px+ㄴ/etm
+
+시간이었습니다
+	시간/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+식물원에서
+	식물원/ncn+에서/jca
+
+구입한
+	구입/ncpa+하/xsva+ㄴ/etm
+
+돌단풍,붉은병꽃나무그리고
+	돌단풍,붉은병꽃나무그리/ncn+이/jp+고/ecc
+
+덤으로
+	덤/ncn+으로/jca
+
+얻은
+	얻/pvg+은/etm
+
+비비추
+	비비/ncn+추/ncn
+
+..
+	./sf+./sf
+
+
+내년에
+	내년/ncn+에/jca
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+꽃을
+	꽃/ncn+을/jco
+
+보여주겠죠
+	보이/pvg+어/ecx+주/px+겠/ep+죠/ef
+
+...
+	.../se

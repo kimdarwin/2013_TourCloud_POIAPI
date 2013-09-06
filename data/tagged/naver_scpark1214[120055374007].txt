@@ -1,0 +1,302 @@
+8월
+	8/nnc+월/nbu
+
+24일
+	24/nnc+일/nbu
+
+
+제주시
+	제주/ncn+시/ncn
+
+조천읍
+	조천읍/ncn
+
+신촌리
+	신촌리/ncn
+
+남생이
+	남생/ncn+이/jcc
+
+못
+	못/mag
+
+습지생태관찰원
+	습지/ncn+생태/ncn+관찰/ncpa+원/ncn
+
+
+이남생이못은
+	이남생이못/ncn+은/jxc
+
+제주도내
+	제주/ncn+도내/ncn
+
+복원습지중에서
+	복원/ncpa+습지/ncn+중/ncn+에서/jca
+
+가장
+	가장/mag
+
+양호한
+	양호/ncn+한/ncn
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+제주시에서
+	제주/ncn+시/ncn+에서/jca
+
+습지생태관찰시설
+	습지/ncn+생태/ncn+관찰/ncpa+시설/ncpa
+
+설치
+	설치/ncpa
+
+후
+	후/ncn
+
+지속적인
+	지속/ncpa+적/ncn+이/jp+ㄴ/etm
+
+모니터링
+	모니터링/ncn
+
+실시
+	실시/ncpa
+
+하여
+	하/pvg+어/ecx
+
+보호하고
+	보호/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+(습지
+	(/sl+습지/ncn
+
+생태관찰원
+	생태/ncn+관찰/ncpa+원/ncn
+
+안내문
+	안내문/ncn
+
+....
+	.../se+./sf
+
+
+이곳에
+	이곳/npd+에/jca
+
+서식하고
+	서식/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+식물,
+	식물/ncn+,/sp
+
+동물과
+	동물/ncn+과/jcj
+
+곤충에
+	곤충/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+자세히
+	자세히/mag
+
+설명되어
+	설명/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.)
+	./sf+)/sr
+
+
+(순서
+	(/sl+순서/ncn
+
+...
+	.../se
+
+
+위에서
+	위/ncn+에서/jca
+
+가로로
+	가로/ncn+로/jca
+
+...
+	.../se
+
+
+마름,
+	마르/pvg+ㅁ/etn+,/sp
+
+수련,
+	수련/ncpa+,/sp
+
+부들
+	부들/ncn
+
+...
+	.../se
+
+
+부들은
+	부들/ncn+은/jxc
+
+이
+	이/mmd
+
+곳에서
+	곳/ncn+에서/jca
+
+알았음)
+	알/pvg+아/ep+ㅁ/etn+)/sr
+
+.....
+	./sy+.../se+./sy
+
+.....
+	.../se+./sf+./sf
+
+
+(우렁이도
+	(/sl+우렁이/ncn+도/jxc
+
+보인다)
+	보/nbu+이/jp+ㄴ다/ef+)/sr
+
+
+(이곳에서
+	(/sl+이곳/npd+에서/jca
+
+본
+	보/px+ㄴ/etm
+
+야생화
+	야생/ncpa+화/ncn
+
+.....
+	.../se+./sf+./sf
+
+
+그런데
+	그런데/maj
+
+이름은
+	이름/ncn+은/jxc
+
+모름
+	모르/pvg+ㅁ/etn
+
+...."
+	.../se+./sf+"/sl
+
+
+콩밭"님이
+	콩밭/ncn+"/sr+님/ncn+이/jcc
+
+알커
+	알커/ncn
+
+주시겠죠)
+	주시/ncn+이/jp+겠/ep+죠/ef+)/sr
+
+
+(왜
+	(/sl+왜/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+돌을
+	돌/pvg+ㄹ/etm
+
+쌓았을까
+	쌓/pvg+아/ep+ㄹ까/ef
+
+?....
+	?/sf+.../se+./sf
+
+
+알
+	알/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같기도
+	같/paa+기/etn+도/jxc
+
+한데
+	하/pvg+ㄴ데/ecs
+
+)
+	)/sr
+
+
+(탐방소감)
+	(/sl+탐방/ncpa+소감/ncn+)/sr
+
+
+앞으로도
+	앞/ncn+으로/jca+도/jxc
+
+우리가
+	우리/npp+가/jcs
+
+잘
+	잘/mag
+
+보호
+	보호/ncpa
+
+해야
+	하/pvg+어야/ecs
+
+...
+	.../se
+
+
+자연의
+	자연/ncn+의/jcm
+
+소중함을
+	소중/ncn+함/ncn+을/jco
+
+느낄수
+	느끼/pvg+ㄹ/etm+수/nbn
+
+있도록어릴때부터
+	있도록어릴때부터/ncn
+
+자연에
+	자연/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+학습을
+	학습/ncpa+을/jco
+
+현장중심교육으로
+	현장중심/ncn+교육/ncpa+으로/jca
+
+...
+	.../se

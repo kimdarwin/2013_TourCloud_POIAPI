@@ -1,0 +1,492 @@
+[울릉도맛집/대나무숯불가든]
+	[울릉도맛집/ncn+//sp+대나무/ncn+숯불/ncn+가든/ncn+]/sr
+
+
+울릉도
+	울릉/ncn+도/jxc
+
+보양별미
+	보양별미/ncn
+
+약소홍합전골~
+	약소/ncpa+홍합/ncn+전골/ncn+~/sd
+
+
+울릉도의
+	울릉도/ncn+의/jcm
+
+별미
+	별미/ncn
+
+그
+	그/mmd
+
+중
+	중/nbn
+
+울릉오미에
+	울릉오미/ncn+에/jca
+
+해당하는
+	해당/ncpa+하/xsva+는/etm
+
+울릉약소와
+	울릉약소/ncn+와/jcj
+
+홍합이
+	홍합/ncn+이/jcc
+
+만난
+	만나/pvg+ㄴ/etm
+
+약소홍합전골을
+	약소/ncpa+홍합/ncn+전골/ncn+을/jco
+
+먹게
+	먹/pvg+게/ecs
+
+되었습니다
+	되/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+울릉도는
+	울릉도/ncn+는/jxc
+
+여름에는
+	여름/ncn+에/jca+는/jxc
+
+서늘하고
+	서늘/ncps+하고/jct
+
+겨울은
+	겨울/ncn+은/jxc
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+전형적인
+	전형/ncn+적/ncn+이/jp+ㄴ/etm
+
+해양기후로
+	해양/ncn+기후/ncn+로/jca
+
+750여종의
+	750/nnc+여/xsnu+종/nbu+의/jcm
+
+목초가
+	목초/ncn+가/jcs
+
+고루
+	고루/mag
+
+분포되어
+	분포/ncpa+되/xsvn+어/ecx
+
+자생하고
+	자생/ncpa+하고/jct
+
+있는데요,
+	있/paa+는데요/ef+,/sp
+
+
+울릉약소는
+	울릉약소/ncn+는/jxc
+
+자생목초가
+	자생/ncpa+목초/ncn+가/jcs
+
+풍부한
+	풍부/ncps+하/xsms+ㄴ/etm
+
+이상적인
+	이상/ncn+적/ncn+이/jp+ㄴ/etm
+
+환경에서
+	환경/ncn+에서/jca
+
+비육되었기
+	비육/ncpa+되/xsvn+었/ep+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+약초
+	약초/ncn
+
+특유의
+	특유/ncps+의/jcm
+
+향과
+	향/ncn+과/jcj
+
+맛이
+	맛/ncn+이/jcc
+
+배어
+	배/pvg+어/ecx
+
+좋은
+	좋/paa+은/etm
+
+육질과
+	육/nnc+질/nbu+과/jct
+
+독특한
+	독특/ncps+하/xsms+ㄴ/etm
+
+맛을
+	맛/ncn+을/jco
+
+자랑한다고
+	자랑/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+약소와
+	약소/ncpa+와/jcj
+
+홍합이
+	홍합/ncn+이/jcc
+
+만난
+	만나/pvg+ㄴ/etm
+
+약소홍합전골입니다
+	약소/ncpa+홍합/ncn+전골/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+울릉도의
+	울릉도/ncn+의/jcm
+
+명이부터
+	명/nbu+이/jcs+부터/jxc
+
+삼나물
+	삼나물/ncn
+
+...
+	.../se
+
+
+울릉도에서
+	울릉도/ncn+에서/jca
+
+자라는
+	자라/pvg+는/etm
+
+나물
+	나물/ncn
+
+반찬도
+	반찬/ncn+도/jxc
+
+몇
+	몇/nnc
+
+보이고
+	보이/pvg+고/ecc
+
+뭍에서
+	뭍/ncn+에서/jca
+
+흔희
+	흔희/ncn
+
+보던
+	보/px+던/etm
+
+반찬들도
+	반찬/ncn+들/ncn+도/jxc
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+한
+	한/nnc
+
+상이
+	상/ncn+이/jcc
+
+차려집니다
+	차리/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+울릉도
+	울릉/ncn+도/jxc
+
+성인봉
+	성인/ncn+봉/ncn
+
+자락
+	자락/ncn
+
+눈더미
+	눈더미/ncn
+
+속에서
+	속/ncn+에서/jca
+
+자라는
+	자라/pvg+는/etm
+
+명이는
+	명/nbu+이/jp+는/etm
+
+동맥경화
+	동맥경화/ncn
+
+예방
+	예방/ncpa
+
+효과가
+	효과/ncn+가/jcs
+
+알려지면서
+	알리/pvg+어/ecx+지/px+면서/ecc
+
+`신선초`라는
+	`신선초`라/ncn+는/jxc
+
+예명까지
+	예명/ncn+까지/jxc
+
+얻은
+	얻/pvg+은/etm
+
+울릉도
+	울릉/ncn+도/jxc
+
+특산물로
+	특산물/ncn+로/jca
+
+
+최근에는
+	최근/ncn+에/jca+는/jxc
+
+비타민B
+	비타민B/ncn
+
+흡수를
+	흡수/ncpa+를/jco
+
+촉진하는
+	촉진/ncpa+하/xsva+는/etm
+
+기능이
+	기능/ncn+이/jcc
+
+있다는
+	있/px+다/ef+는/etm
+
+사실이
+	사실/ncn+이/jcc
+
+알려지면서
+	알리/pvg+어/ecx+지/px+면서/ecc
+
+기능성
+	기능성/ncn
+
+식품
+	식품/ncn
+
+생약제로도
+	생약/ncn+제로/ncn+도/jxc
+
+주목받고
+	주목/ncpa+받/xsva+고/ecc
+
+있는데요,
+	있/paa+는데요/ef+,/sp
+
+
+공급
+	공급/ncpa
+
+물량
+	물량/ncn
+
+부족으로
+	부족/ncn+으로/jca
+
+금값에
+	금값/ncn+에/jca
+
+팔리고
+	팔리/pvg+고/ecc
+
+있기
+	있/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+명이가
+	명/nbu+이가/jcc
+
+`황제
+	`/sl+황제/ncn
+
+나물`로
+	나물`/ncn+로/jca
+
+불리기도
+	불리/pvg+기/etn+도/jxc
+
+하는
+	하/pvg+는/etm
+
+귀한
+	귀하/paa+ㄴ/etm
+
+나물입니다
+	나물/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+울릉약소와
+	울릉약소/ncn+와/jcj
+
+울릉홍합,
+	울릉홍합/ncn+,/sp
+
+
+몸에
+	몸/ncn+에/jca
+
+좋은
+	좋/paa+은/etm
+
+2가지가
+	2/nnc+가지/nbu+가/jcc
+
+서로
+	서로/mag
+
+만났으니
+	만나/pvg+아/ep+니/ecs
+
+그
+	그/mmd
+
+맛도
+	맛/ncn+도/jxc
+
+맛이거니와
+	맛/ncn+이/jp+거니와/ecs
+
+몸에
+	몸/ncn+에/jca
+
+좋은
+	좋/paa+은/etm
+
+건
+	거/nbn+은/jxc
+
+두
+	두/nnc
+
+말하면
+	말/ncpa+하/xsva+면/ecs
+
+잔소리겠지요~~
+	잔소리/ncpa+이/jp+겠/ep+지요/ef+~/sd+~/sd
+
+
+울릉약소와
+	울릉약소/ncn+와/jcj
+
+울릉홍합,
+	울릉홍합,/ncn
+
+거기다
+	거기/npd+이/jp+다/ef
+
+금값인
+	금값/ncn+이/jp+ㄴ/etm
+
+명이나물에
+	명이나물/ncn+에/jca
+
+싸서
+	쓰/pvg+어서/ecs
+
+먹으면그야말로
+	먹으면그야말/ncn+로/jca
+
+보양식은
+	보양식/ncn+은/jxc
+
+따로
+	따로/mag
+
+없겠죠~
+	없/paa+겠/ep+죠/ef+~/sd
+
+
+대나무숯불가든/054-791-9911경상북도
+	대나무숯불가든/054-791-9911경상북/ncn+도/jxc
+
+울릉군
+	울릉군/ncn
+
+울릉읍
+	울릉읍/ncn
+
+도동리
+	도동리/ncn
+
+56
+	56/nnc
+
+
+2010.
+	2010./nnc
+
+11.
+	11./nnc
+
+23|지도
+	23|지/ncn+도/jxc
+
+크게
+	크/paa+게/ecs
+
+보기NHN
+	보기NHN/ncn
+
+Corp.
+	Corp/f+./sf
+
+
+쟈스민의
+	쟈스민/ncn+의/jcm
+
+사진여행많이
+	사진여행많/ncn+이/jcc
+
+구독해주세요~~
+	구독/ncpa+하/xsva+어/ecx+주/px+세/ef+요/jxf+~/sd+~/sd
+
+!!
+	!/sf+!/sf

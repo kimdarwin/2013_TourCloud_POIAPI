@@ -1,0 +1,564 @@
+위치:서귀포시
+	위치:서귀포시/ncn
+
+대정읍
+	대정/ncn+읍/ncn
+
+상모리
+	상모/ncn+이/jp+리/ef
+
+
+송악산은
+	송악산/ncn+은/jxc
+
+기생화산체로
+	기생화산/ncn+체/ncn+로/jca
+
+단성화산이면서
+	단성/ncn+화산/ncn+이/jp+면서/ecc
+
+꼭대기에
+	꼭대기/ncn+에/jca
+
+2중
+	2중/ncn
+
+분화구가
+	분화구/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+제1분화구는
+	제1분화구/ncn+는/jxc
+
+지름
+	지르/pvg+ㅁ/etn
+
+약
+	약/ncn
+
+500m,
+	500m,/ncn
+
+둘레
+	둘레/ncn
+
+약
+	약/ncn
+
+1,7km이고
+	1,7km/ncn+이/jp+고/ecc
+
+제2분화구는
+	제2분화구/ncn+는/jxc
+
+제1분화구
+	제1분화구/ncn
+
+안에
+	안/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+화구로서
+	화구/ncn+로서/jca
+
+
+둘레
+	둘레/ncn
+
+약
+	약/ncn
+
+400m,
+	400m,/ncn
+
+깊이
+	깊이/ncn
+
+69m로
+	69m/ncn+로/jca
+
+거의
+	거의/mag
+
+수직으로
+	수직/ncn+으로/jca
+
+경사져
+	경사지/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+송악산
+	송악산/ncn
+
+에서
+	에/pvg+어서/ecs
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+산방산
+	산방산/ncn
+
+
+오르는길
+	오르는길/ncn
+
+
+잠시올라왔는데도
+	잠시올라왔는데/ncn+도/jxc
+
+보여지는
+	보이/pvg+어/ecx+지/px+는/etm
+
+풍경은
+	풍경/ncn+은/jxc
+
+절경이다
+	절경/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+산방산이
+	산방산/ncn+이/jcc
+
+올레
+	올레/ncn
+
+10코스에
+	10코스/ncn+에/jca
+
+포함된다고
+	포함/ncpa+되/xsvn+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+한라산
+	한라/ncn+산/ncn
+
+과
+	과/ncn
+
+바다한가운데
+	바다/ncn+한가운데/ncn
+
+형제섬
+	형제/ncr+섬/ncn
+
+
+토양이
+	토양/ncn+이/jcc
+
+건조하며
+	건조/ncpa+하/xsva+며/ecc
+
+붉은
+	붉/paa+은/etm
+
+흙이다
+	흙/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+올라와서
+	오르/pvg+아/ecx+오/px+아/ecx
+
+정상으로
+	정상/ncn+으로/jca
+
+한바퀴
+	한/nnc+바퀴/nbu
+
+돌아본다
+	돌/pvg+아/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+제2차
+	제2차/ncn
+
+세계대전
+	세계대전/ncn
+
+당시
+	당시/ncn
+
+일본이
+	일/nnc+본/nbu+이/jcc
+
+중국
+	중국/ncn
+
+침략의
+	침략/ncpa+의/jcm
+
+발판으로
+	발판/ncn+으로/jca
+
+삼았던
+	삼/pvg+아/ep+ㄴ/etm
+
+곳이어서
+	곳/nbu+이/jp+어서/ecs
+
+
+당시
+	당시/ncn
+
+건설한
+	건설/ncpa+하/xsva+ㄴ/etm
+
+비행장,
+	비행장/ncn+,/sp
+
+고사포대와
+	고사/ncn+포대/ncn+와/jcj
+
+포진지,
+	포진지,/ncn
+
+비행기
+	비행기/ncn
+
+격납고
+	격납고/ncn
+
+잔해
+	잔해/ncn
+
+등이
+	등/nbu+이/jcc
+
+흩어져
+	흩어지/pvg+어/ecx
+
+있고
+	있/paa+고/ecc
+
+
+해안가의
+	해안가/ncn+의/jcm
+
+절벽
+	절벽/ncn
+
+아래에는
+	아래/ncn+에/jca+는/jxc
+
+해안참호
+	해안/ncn+참호/ncn
+
+15개소가
+	15/nnc+개소/nbu+가/jcc
+
+남아
+	남/pvg+아/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+(두산백과에서
+	(두산백과/ncn+에서/jca
+
+펌)
+	펌/ncn+)/sr
+
+
+한가하게
+	한가/ncps+하/xsms+게/ecs
+
+풀을
+	풀/pvg+ㄹ/etm
+
+뜯고
+	뜯/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+조랑말
+	조랑말/ncn
+
+
+시선을
+	시선/ncn+을/jco
+
+어딜두어도
+	어딜두/ncn+이/jp+어도/ecs
+
+보이는
+	보이/pvg+는/etm
+
+산방산모습
+	산방산모습/ncn
+
+
+정상에서
+	정상/ncn+에서/jca
+
+바로
+	바로/mag
+
+하산하면
+	하산/ncpa+하/xsva+면/ecs
+
+좌측
+	좌측/ncn
+
+솔숲사이로
+	솔숲사이/ncn+로/jca
+
+올레
+	올레/ncn
+
+10코스
+	10코스/ncn
+
+모슬포해안으로
+	모슬포해안/ncn+으로/jca
+
+가는길
+	가는길/ncn
+
+
+정상부
+	정상/ncn+부/ncn
+
+
+정상표지석
+	정상/ncn+표지석/ncn
+
+
+올레표시리본
+	올레표시리본/ncn
+
+
+멀리
+	멀리/mag
+
+가파도와
+	가파도/ncn+와/jct
+
+마라도까지
+	마르/pvg+아/ecs+까지/jxc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+능선
+	능선/ncn
+
+정상에서
+	정상/ncn+에서/jca
+
+내려오며
+	내리/pvg+어/ecx+오/px+며/ecc
+
+...
+	.../se
+
+
+얼마나
+	얼마나/mag
+
+깊은지
+	깊/paa+은/etm+지/nbn
+
+그림자가
+	그림자/ncn+가/jcs
+
+길다
+	길/paa+다/ef
+
+.
+	./sf
+
+
+좌측은
+	좌측/ncn+은/jxc
+
+산방산
+	산방산/ncn
+
+올라오면
+	오르/pvg+아/ecx+오/px+면/ecs
+
+제일
+	제일/mag
+
+처음
+	처음/mag
+
+만나는
+	만나/pvg+는/etm
+
+능선
+	능선/ncn
+
+
+산방산
+	산방산/ncn
+
+능선
+	능선/ncn
+
+전체모습
+	전체/ncn+모습/ncn
+
+우측으로
+	우측/ncn+으로/jca
+
+좌측
+	좌측/ncn
+
+정상으로
+	정상/ncn+으로/jca
+
+돌았다
+	돌/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+산책로
+	산책로/ncn
+
+거닐며
+	거닐/pvg+며/ecc
+
+..
+	./sf+./sf
+
+
+한라산모습
+	한라/ncn+산모/ncn+습/ncn
+
+
+제주여행은
+	제주/ncn+여행/ncpa+은/jxc
+
+간곳도
+	간곳/ncn+도/jxc
+
+많지만
+	많/paa+지/ecx+말/px+ㄴ/etm
+
+사진을
+	사진/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+담아
+	담/pvg+아/ecs
+
+
+설명글이
+	설명/ncpa+글/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+부족하다
+	부족/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+제주
+	제주/ncn
+
+다녀와서
+	다니/pvg+어/ecx+오/px+아/ecx
+
+바로
+	바로/mag
+
+보길도
+	보길/ncn+도/jxc
+
+산행,
+	산행/ncn+,/sp
+
+부산,
+	부산/ncps+,/sp
+
+또
+	또/maj
+
+지난주
+	지난주/ncn
+
+금산여행등등
+	금산/ncn+여행/ncpa+등등/ncps
+
+....
+	.../se+./sf
+
+
+정리할
+	정리/ncpa+하/xsva+ㄹ/etm
+
+사진은
+	사진/ncn+은/jxc
+
+많고
+	많/paa+고/ecc
+
+
+글.
+	글/ncn+./sf
+
+.
+	./sf
+
+
+적을
+	적/nbn+을/jco
+
+여유가
+	여유/ncn+가/jcs
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+.
+	./sf

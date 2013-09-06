@@ -1,0 +1,91 @@
+Title:
+네버엔딩스토리 (내조의여왕OST) 윤상현 
+
+Date:
+2010.01.24 22:21
+
+Content:
+
+
+네버엔딩스토리(내조의여왕OST)
+
+ 
+ 윤상현이 내조의 여왕에서 남편에게 상처를 받은 천지애(김남주)를 위로하기 위하여 극중에서 직접 부른.. 부활의
+
+ '네버엔딩스토리'.. 윤상현의 분위기 있는 음색과 뛰어난 가창력으로 여성들에게 인기몰이를 하였던.. '네버엔딩스토리'
+
+네버엔딩스토리는 내조의 여왕 OST의 결정판이라고 할 수 있다
+
+네버엔딩스토리 (내조의여왕OST) 윤상현 (뮤비/듣기/가사)
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc16/2010/01/24/638/031002136A26430B17033B3653BB00D3644_ya3542_logo.jpg';
+	layout.playtime = '254.67';
+	var qsParam = {};
+	qsParam.vid = 'A05E973064382BFAEC4F6ADFD10800810E81';
+	qsParam.inKey = 'V12563aa800afe82b137ce300a9b7110b6dd164ede8375b7fc926a5de5c1e41367aabe300a9b7110b6dd1';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_08981 = new VideoInfraUGCPlayer('ugcPlayer_08981' ,bean); 
+ugcPlayer_08981.drawPlayLayer(); 
+}
+
+
+
+네버엔딩스토리 (내조의여왕OST) 윤상현
+
+손 닿을 수 없는 저기 어딘가 오늘도 넌 숨쉬고 있지만 너와 머물던 작은 의자위엔 같은 모습의 바람이 지나네.. 너는 떠나며 마치 날 떠나가듯이 멀리 손을 흔들며 언젠간 추억에 남겨져 갈꺼라고.. 그리워하면 언젠간 만나게 되는 어느 영화와 같은 일들이 이루어져 가기를 힘겨워한 날에 너를 지킬 수 없었던 아름다운 시절속에 머문 그대이기에..네버엔딩스토리너는 떠나며 마치 날 떠나가듯이 멀리 손을 흔들며 언젠간 추억에 남겨져 갈꺼라고 -그리워하면 언젠간 만나게 되는 어느 영화와 같은 일들이 이루어져 가기를 힘겨워한 날에 너를 지킬 수 없었던 아름다운 시절속에 머문 그대여 
+네버엔딩스토리(반복) 
+그리워하면 언젠간 만나게 되는 어느 영화와 같은 일들이 이루어져 가기를 힘겨워한 날에 너를 지킬 수 없었던 아름다운 시절속에 머문 그대이기에
+
+
+
+네버엔딩스토리 (이승철)
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc16/2010/01/24/1518/031002136B26730817739B1113AD5B63907_ya3542_logo.jpg';
+	layout.playtime = '250.42';
+	var qsParam = {};
+	qsParam.vid = '6DEF5F594A333D3925D724E10033CB9032CF';
+	qsParam.inKey = 'V1286205bc6d0118df5e7f50a90352df3e3d12478c5a30000073157af78f58ec96ca9f50a90352df3e3d1';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_01721 = new VideoInfraUGCPlayer('ugcPlayer_01721' ,bean); 
+ugcPlayer_01721.drawPlayLayer(); 
+}
+
+
+네버엔딩스토리
+
+
+
+
+민초호야의 음악이야기
+
+
+	

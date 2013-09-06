@@ -1,0 +1,85 @@
+Title:
+Galaxy Tab 2(10.1, Wifi) ICS 4.0.4 펌웨어 업데이트 & 루팅 
+
+Date:
+2012.07.19 07:47
+
+Content:
+
+ 
+그저께 아내의 갤럭시탭 2를 만지다가 소프트웨어 업데이트가 있다는 걸 발견했습니다. (참고로 아내의 갤럽시탭은 미국에서 사온 겁니다.)
+ 
+다운은 잘 받았는데 업데이트가 진행되질 않더군요.ㅡ.ㅡ
+ 
+ 
+
+ 
+ 
+Kies와 연결해서 재시도 했습니다. 
+ 
+ 
+
+ 
+ 
+잘 되더군요. 루팅되어 있기 떄문인가 싶었는데 루팅여부와는 상관이 없나 봅니다.
+ 
+ 
+ 
+ 시작 화면이 산뜻하게 바뀌었네요. 
+ 
+
+ 
+혹시나 젤리빈일까 기대했는데.... ICS 4.0.3 - 4.0.4판올림이었습니다.ㅡ.ㅡ
+ 
+
+ 
+소소한 변화가 있지만, 그 중에서가장 큰 변화는 페이지 스크롤이 부드러워졌다는 겁니다. 위젯을 많이 깔았더니 4.0.3에선 좀 버벅임이 있었는데 크게 개선되었습니다.
+ 
+펌웨어 업데이트를 했으면 다시 루팅을 해줘야죠. (루팅방법은 아래 글을참조하세요.)
+ 
+기기를 받자마자 아래 글을 보고 루팅을 했었습니다. 이번에 펌웨어 업데이트를 하고나서그대로 재차 루팅을 시도했는데 Superuser가 제대로 설치되지 않고 따라서 루팅된 단말기로도 인식되지 않더군요.SuperSU는 물론이요, Titanium Backup등 루팅이 필요한어플들도작동하지 않고...
+ 
+정확한 이유는 모르겠습니다. 펌웨어 때문인지, SuperSU가 설치되어 있어서 그랬던 건지... 어쨌든마켓에서 Superuser를 찾아 별도로 설치해주는 걸로해결했습니다.
+ 
+ 
+그나저나 갤럭시탭2도 젤리빈으로 업그레이들 해줄까요? 판매가 많이 되어 사용자가많아야 해줄텐데 미국에서 판금까지 당했으니... 솔직히 기대난망일 것 같습니다.ㅡ.ㅡ 뭐 꼭 해줘야 하는 건 아니겠지만요.
+
+
+
+----------------------------------------------------------------------
+ 
+How to Root and Install CWM Recovery on Galaxy Tab 2 10.1/7.0
+(P5113 시리즈인지 확인Debug check)
+
+PART I: Necessary Downloads
+
+
+It’s important you’ve the proper drivers for the phone installed. If you have installed Samsung’s Kies software, you already have the drivers, so download them only if you haven’t installed Kies.Download links: 32 bit (x86) Windows | 64-bit (x64) Windows
+Download Odin (used to flash recovery on phone).Download Odin | Filename: Odin3-v1.85_3.zip
+Extract the Odin3-v1.85_3.zip file downloaded in step 2 to a convenient location on the computer.
+Download the CWM recovery file.Download Recovery | Filename: recovery.tar.md5
+Download the root package. Check the model number on your tablet in SettingsAbout tablet underModel Number, then download the necessary root file below. 
+
+P5113/P3110 users: Download Root | Filename: cwm-root-gtab2.zip
+P5110 users: Download Root | Filename: cwm-root-gtab2a.zip 
+Copy the cwm-root-gtab2.zip (or cwm-root-gtab2a.zip in case of P5110) file to the microSD card on the tablet as is without extracting it. Remember, you have to copy it to the microSD card, not the internal memory (if you don’t have a microSD card, it won’t work).
+PART II: Flashing Recovery
+
+Important! In further steps, whenever it says Volume Down button, it means the button next to the POWER button. Whereas Volume Up is the button on the far side of the POWER button i.e. on the right side of the Volume Down button.In short, Volume Down is the left button while the Volume Up button is the right button.
+Disconnect the tablet from PC (if connected) then turn if off. Then, boot it in download mode by pushing and holding down the Power and Volume UP buttons at the same time. When a yellow triangle shows up on-screen, press Volume Down to enter download mode.
+Open Odindouble-click the Odin3 v1.85.exe that you got after extracting the file Odin3-v1.85_3.zipin step 3 of PART I of the guide.
+Connect your tablet to PC now. You should get the message “Added!” under Odin’s message box in the bottom left. If you don’t get this message, then probably there is a problem with drivers. Make sure you’ve proper drivers installed (check step 1 of PART I of guide).
+Now, in ODIN, click the PDA button, and select the file recovery.tar.md5 that you downloaded in Part I of guide.
+Important! Do not make any other changes in Odin except selecting the required file in PDA as given in step 5. Leave all other options as they are.
+Now, hit the START button to start flashing the recovery. When the flashing is complete, your tablet will automatically rebootand when you see the Samsung logo, you can safely unplug the cable. Plus, you’ll get a PASS (with green background) message in the left-most box at the very top of Odin. What to do if Odin gets stuck: If ODIN gets stuck and doesn’t seem to be doing anything, or you get a FAIL message (with red background) in ODIN, do the followingdisconnect the tablet from the PC, close ODIN, remove battery, re-insert it, turn tablet on in Download mode, and do the procedure again from Step 3.
+After the tablets boots up, turn it off again and then go to the next part of the guide.
+PART III: Flashing Root Package in Recovery
+
+Make sure tablet is off. Then, boot into ClockworkMod recovery by pushing and holding the Power andVolume Down buttons at the same time. When the Samsung Tab 2 10.1 logo appears you can release the power button but continue holding the volume button for a few more seconds. After a few seconds, CWM recovery will show up.In recovery, use the volume buttons to navigate/scroll and the power button to select items.
+Select install zip from sdcard, then select choose zip from sdcard. Scroll to the cwm-root-gtab2.zip file (or cwm-root-gtab2a.zip in case of P5110) on the sdcard and select it.
+Confirm installation by selecting YesInstall _____.zip on the next screen to start rooting the tablet.
+After the installation is complete, select go back and then select reboot system now to reboot your tablet.
+After the tablet boots up, you will be able to use all the root-enabled apps that you want. 
+----------------------------------------------------------------------
+
+	

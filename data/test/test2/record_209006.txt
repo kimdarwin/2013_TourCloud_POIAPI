@@ -1,0 +1,33 @@
+Title:
+4/6~4/7 화개천 십리벚꽃길 여행 후기
+
+Date:
+2012.04.08
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(143265,'files/attach/images/64/006/209/463c3f8168c0e10c4f375f759fb9b4a9.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/4cec70790b136a9d8df73fe531c1043f.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/53b11ebc9585e6986b412b906bf67398.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/30a1c5bbede8fc79ce8207f657a86628.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/e4bfa040ac76c9c4305eccd9c87e616a.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/f986477568a8536231871a6e848cf6dd.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/1782afc7cecb19891b2db7915b208cf9.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/8a3352add731bd87947aada207a3cf32.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/9e5b5ce3717c7deb5563d7fa6f9729dd.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/658f75d9b8ba660bb8d0289ec1235e88.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/8d8cb6165d73bb59f8e0fd108da6c3c1.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/01623727ae12f1d70916f2c85441e4dd.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/7d5caed9efbfb560b2d7aa1a3c5ea918.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/0195d14181566f783e5707cc1055e971.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/31a6b44abac7e53f94ae1fafdde76d3f.jpg');
+list_gallery_add_image(143265,'files/attach/images/64/006/209/bcad9ad5b510820ee8be310af1c0ed61.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+4월 6일(토)~7일(토), 아름다운 여행으로 화개천 무박 2일 여행을 다녀왔습니다. 무박 2일 여행은 전날 밤에 출발해 밤새 여행지로 이동해 여행지를 돌아보는 여행입니다. 하룻밤을 꼬박 차에서 보내기 때문에 체력적으로 꽤 힘든 여행이지만, 대신 비용이나 시간 면에서 효율적인 면도 있는 여행입니다. 이번 무박 여행은 여행편지에서 아주 오랜만에 떠났던 여행이었습니다.
+금요일 밤에 서울을 출발해 밤새 하동으로 내려가 새벽에 하동송림에 도착했습니다. 하동송림은 하동읍을 흐르는 섬진강변에 조성된 소나무숲입니다. 강의 범람을 막고 거센 바람도 막아주는 조선시대의 방제림입니다. 해가 채 뜨기 전에 가볍게 섬진강변의 소나무숲 산책을 즐기고 쌍계사로 이동했습니다. 쌍계사 앞에서 아침식사를 한 뒤 쌍계사를 돌아보고 십리벚꽃길을 걸었습니다.
+쌍계사는 언제 가도 소박하고 아기자기한 사찰입니다. 이 날 쌍계사는 닥나무며 목련, 매화, 봄까치 등의 봄 꽃이 곳곳에 피어 산뜻한 분위기까지 느껴지더군요. 
+쌍계사 입구에서 화개장터까지 이어지는 화개천 벚꽃길은 우리나라를 대표하는 벚꽃 명소죠. 그런데 이 날은 벚꽃이 거의 피지 않았더군요. 올 봄 날씨가 춥고 변덕스러워 활짝 만개한 벚꽃을 기대하진 않았지만, 그래도 어느 정도의 벚꽃은 기대했는데 나뭇가지에 꽃망울만 잔뜩 매달려 있을 뿐이었습니다. 이번 여행의 주인공인 화개천 벚꽃이 아예 모습을 나타내지도 않은 꼴이죠. 꽃을 보기 위해 밤새 차를 타고 내려갔는데 정작 꽃이 없으니 허탈감이 꽤 크더군요.
+그래서 회원분들의 동의를 구해 여행 일정을 바꿨습니다. 화개천 다음 일정은 화엄사였는데 화엄사 대신 산수유꽃으로 유명한 구례의 현천마을을 찾아갔습니다. 구례군 산동면은 면 전체가 산수유로 유명한 고장입니다. 그중에서 상위마을이 산수유마을로 명성을 떨치고 있죠. 하지만 덜 알려졌을 뿐이지 현천마을도 상위마을에 뒤지지 않는 산수유 명소입니다. 사람이 많지 않고 시끄럽지 않은 점은 오히려 상위마을보다 나은 곳입니다. 다행히 이곳 산수유는 활짝 만개해서 노란 산수유꽃에 감싸인 소박한 시골마을의 정취를 느낄 수 있었습니다. 십리벚꽃길의 아쉬움도 다소나마 달랠 수 있었던 것 같습니다.
+이번 여행은 벚꽃을 보러 갔다가 산수유꽃을 보고 온 여행이 되어 버렸습니다. 그래도 맑은 햇살 아래 파릇하게 솟아나는 풀과 꽃망울들 그리고 봄볕에 불어난 계곡의 맑은 물로, 봄의 기운은 가득 느낄 수 있었습니다. 이제 꽃샘추위도 물러간다고 합니다. 이번 여행에 참여하신 분들 모두 무박 여행의 피로 잘 푸시고 활기차게 봄을 맞으시기 바랍니다~
+이 게시물을...

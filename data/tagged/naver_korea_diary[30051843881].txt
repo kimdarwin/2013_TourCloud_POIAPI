@@ -1,0 +1,443 @@
+프로방스
+	프로방스/ncn
+
+마을
+	마을/ncn
+
+
+-
+	-/sd
+
+경기
+	경기/ncn
+
+파주시
+	파주시/ncn
+
+탄현면
+	탄현면/ncn
+
+성동리
+	성동리/ncn
+
+-
+	-/sd
+
+
+프로방스는
+	프로방스/ncn+는/jxc
+
+프랑스
+	프랑스/ncn
+
+남부지방의
+	남부/ncn+지방/ncn+의/jcm
+
+낭만과
+	낭만/ncn+과/jcj
+
+고흐의
+	고흐/ncn+의/jcm
+
+정열이
+	정열/ncn+이/jcc
+
+살아
+	살/pvg+아/ecx
+
+숨쉬는
+	숨쉬/pvg+는/etm
+
+멀티
+	멀티/ncn
+
+테마
+	테마/ncn
+
+타운이다
+	타운/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+핸드
+	핸드/ncn
+
+페인팅,
+	페인팅/ncn+,/sp
+
+패브릭,
+	패브릭,/ncn
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+인테리어도
+	인테리어/ncn+도/jxc
+
+좋지만
+	좋/paa+지/ecx+말/px+ㄴ/etm
+
+임진강과
+	임진/ncn+강/ncn+과/jcj
+
+한강,
+	한강,/ncn
+
+서해바다가
+	서해바다/ncn+가/jcs
+
+만나는
+	만나/ncn+는/jxc
+
+
+지점에
+	지점/ncn+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+아름다운
+	아름답/paa+은/etm
+
+낙조
+	낙조/ncn
+
+감상
+	감상/ncn
+
+포인트이기도
+	포인트/ncn+이/jp+기/etn+도/jxc
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+1996년
+	1996/nnc+년/nbu
+
+품격높은
+	품격높/ncn+은/jxc
+
+프랑스
+	프랑스/ncn
+
+레스토랑을
+	레스토랑/ncn+을/jco
+
+시작으로
+	시작/ncpa+으로/jca
+
+한국적인
+	한국적/ncn+이/jp+ㄴ/etm
+
+해석이
+	해석/ncpa+이/jcc
+
+가미된
+	가미/ncpa+되/xsvn+ㄴ/etm
+
+샤브샤브
+	샤브샤브/ncn
+
+레스토랑,
+	레스토랑/ncn+,/sp
+
+지상에서
+	지상/ncn+에서/jca
+
+가장
+	가장/mag
+
+아름다운
+	아름답/paa+은/etm
+
+고깃집
+	고깃집/ncn
+
+가든
+	가/px+든/ecs
+
+레스토랑,
+	레스토랑/ncn+,/sp
+
+생활을
+	생활/ncpa+을/jco
+
+윤택하게
+	윤택/ncps+하/xsms+게/ecs
+
+하는
+	하/pvg+는/etm
+
+디자인
+	디자인/ncpa
+
+공간인
+	공간/ncn+이/jp+ㄴ/etm
+
+프로방스
+	프로방스/ncn
+
+리빙관,
+	리빙관,/ncn
+
+아름다운
+	아름답/paa+은/etm
+
+향기
+	향기/ncn
+
+공간인
+	공간/ncn+이/jp+ㄴ/etm
+
+허브관과
+	허브관/ncn+과/jcj
+
+감각
+	감각/ncpa
+
+공간인
+	공간/ncn+이/jp+ㄴ/etm
+
+패션관,
+	패션/ncn+관/ncn+,/sp
+
+유럽풍
+	유럽풍/ncn
+
+베이커리와
+	베이커/ncn+리/ncn+와/jcj
+
+카페로
+	카페/ncn+로/jca
+
+구성되어진
+	구성/ncn+되/xsvn+어/ecx+지/px+ㄴ/etm
+
+테마형
+	테마/ncn+형/ncn
+
+마을이다
+	마을/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+프로방스
+	프로방스/ncn
+
+마을은
+	마을/ncn+은/jxc
+
+독립된
+	독립/ncpa+되/xsvn+ㄴ/etm
+
+건물에서
+	건물/ncn+에서/jca
+
+각각의
+	각각/ncn+의/jcm
+
+컨셉을
+	컨셉/ncn+을/jco
+
+갖고
+	갖/pvg+고/ecc
+
+운영되는
+	운영/ncpa+되/xsvn+는/etm
+
+상점들이
+	상점/ncn+들/ncn+이/jcc
+
+모두
+	모두/mag
+
+유기적으로
+	유기/ncn+적/ncn+으로/jca
+
+연결되어
+	연결/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+프로방스
+	프로방스/ncn
+
+마을
+	마을/ncn
+
+내
+	내/npp
+
+레스토랑과
+	레스토랑/ncn+과/jcj
+
+카페에서
+	카페/ncn+에서/jca
+
+사용되는
+	사용/ncpa+되/xsvn+는/etm
+
+식기를
+	식기/ncn+를/jco
+
+디자인하고
+	디자인/ncpa+하고/jct
+
+제작하기
+	제작/ncpa+하/xsva+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+도자기
+	도자/ncn+이/jp+기/etn
+
+공방이
+	공방/ncn+이/jcc
+
+존재하고,
+	존재/ncn+하고/jct+,/sp
+
+프로방스
+	프로방스/ncn
+
+마을의
+	마을/ncn+의/jcm
+
+디자인을
+	디자인/ncpa+을/jco
+
+실질적으로
+	실질/ncn+적/ncn+으로/jca
+
+주도하며
+	주도하/ncn+이/jp+며/ecc
+
+헨드페인팅
+	헨드페인팅/ncn
+
+도자기를
+	도자/ncn+이/jp+기/etn+를/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+데코레이션
+	데코레이션/ncn
+
+상품을
+	상품/ncn+을/jco
+
+판매하고
+	판매/ncpa+하고/jct
+
+유통하는
+	유통/ncpa+하/xsva+는/etm
+
+리빙관,
+	리빙관,/ncn
+
+고객님들이
+	고객/ncn+님/ncn+들/xsncc+이/jcc
+
+즐겨드시는
+	즐겨드시/ncn+는/jxc
+
+식전
+	식전/ncn
+
+빵을
+	빵/ncn+을/jco
+
+만드는
+	만들/pvg+는/etm
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+전문적인
+	전문/ncn+적/ncn+이/jp+ㄴ/etm
+
+유럽풍
+	유럽풍/ncn
+
+베이커리가
+	베이커/ncn+리/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이렇듯
+	이렇/pad+듯/ecs
+
+각각은
+	각각/ncn+은/jxc
+
+독립된
+	독립/ncpa+되/xsvn+ㄴ/etm
+
+개체로
+	개체/ncn+로/jca
+
+뛰어난
+	뛰/pvg+어/ecx+나/px+ㄴ/etm
+
+창의력을
+	창의력/ncn+을/jco
+
+발휘하여
+	발휘/ncpa+하/xsva+어/ecx
+
+각각의
+	각각/ncn+의/jcm
+
+상점이
+	상점/ncn+이/jcc
+
+최대의
+	최대/ncn+의/jcm
+
+경쟁력을
+	경쟁력/ncn+을/jco
+
+가지도록
+	가/pvg+아/ecx+지/px+도록/ecs
+
+노력하고
+	노력/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+관광
+	관광/ncpa
+
+db자세히
+	db/f+자세/ncn+히/xsas
+
+보기
+	보기/ncn

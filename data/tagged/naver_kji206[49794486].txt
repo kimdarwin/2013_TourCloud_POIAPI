@@ -1,0 +1,64 @@
+쌍떡잎식물
+	쌍떡잎식물/ncn
+
+산형화목
+	산형/ncn+화목/ncn
+
+두릅나무과의
+	두릅/ncn+나무/ncn+과의/jcm
+
+낙엽활엽
+	낙엽/ncn+활엽/ncn
+
+관목
+	관목/ncn
+
+.
+	./sf
+
+
+학명
+	학명/ncn
+
+
+Aralia
+	Aralia/f
+
+elata
+	elata/f
+
+
+분류
+	분류/ncpa
+
+
+두릅나무과
+	두릅/ncn+나무/ncn+과/jcj
+
+
+서식장소
+	서식/ncpa+장소/ncn
+
+
+산기슭의
+	산기슭/ncn+의/jcm
+
+양지쪽이나
+	양지쪽/ncn+이나/jcj
+
+골짜기
+	골짜기/ncn
+
+
+크기
+	크기/ncn
+
+
+높이
+	높이/mag
+
+3
+	3/nnc
+
+4m
+	4m/ncn

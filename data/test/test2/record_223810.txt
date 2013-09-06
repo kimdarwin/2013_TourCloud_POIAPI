@@ -1,0 +1,35 @@
+Title:
+6/6 오대산 옛길 '천년의 숲길' 걷기 여행 후기
+
+Date:
+2012.06.06
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(749509,'files/attach/images/64/810/223/72e7ea428ca80c9eb4f5cddcfe9e8528.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/4cae5e66cdad2024fa432cb6a104de0b.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/b9bd842267ef3ecd0cda486722ba60f3.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/29810b2b4ab70423c6e8e0d56425c723.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/3c342969af5f08819f32409dd38f3384.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/2ccdcc05155f72bb205874a8450a749a.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/796d341d0a62377ab9ad8201fe10fa97.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/4b4c3faab6f368fec77ccc8378bb35be.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/57e017b3428b7595ffd526f87facd8a3.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/49c18ab7315f5e7d4747ca1d5d62699f.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/b617bfcea7529bfc150e5d373b2ba23a.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/13ae8d8576ca115a9ea3b5982c6a7cb2.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/5e9a25607b9d02f2b0c0898589d6282d.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/1e541cbe2f7a7c2520b426c6b3028d7f.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/0b89375bbddaa6742c1b18d64a0c6a80.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/63d56744a47c8ca1f46e672a4463ef78.jpg');
+list_gallery_add_image(749509,'files/attach/images/64/810/223/6503fecab099b97c64c0ddf806ac4f54.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+아름다운 여행으로 6월 6일(수) 오대산 옛길 천년의 술길 걷기 여행을 다녀왔습니다.
+현충일인 오늘 고속도로는 마치 평일처럼 한가로웠습니다. 강원도 평창에 도착한 오전에는 구름이 끼어 좀 흐리긴 했지만덕분에 예고된 무더위를피할 수 있었습니다.
+이번 오대산 옛길, ‘천년의 숲길’ 걷기는 상원사부터 월정사까지 약 8.5km를 걷는 일정으로 진행되었습니다. 상원사 주차장에 도착하여 신라 동종을 모시고 있는 상원사를 자율적으로 돌아보고 오대산 옛길을 걷기로 하였습니다.
+오대산 옛길로 접어드니 숲길과 찻길 사이를 흐르는 오대천은 너무 가물어서 곧 바닥을 드러낼 정도네요. 며칠 후면 비가 내릴 것이라는 예보가 있던데 그때가 되면 이 오대천도 지금보다 훨씬 우렁찬 물소리를 내며 시원한 풍경을 보게 될지 모르겠습니다. 요즘 어느 곳을 가든 가물어서 보는 것만으로도 안타깝던데 해갈할 수 있을 만큼의 넉넉한 비가 내렸으면 좋겠네요.
+숲 속으로 들어서니 향긋한 향기가 바람에 실려옵니다. 오대산 옛길은 울창한 숲 구간이 꽤 많은데 거의 볕이 들지 않는 길이라 반소매 차림은 찬기가 느껴질 정도입니다. 덕분에 오늘도 낮 기온이 상당히 높을 것이라고 했지만 숲길을 걷는 동안은 더위를 잊을 수 있었습니다. 오대천을 건너는 징검다리를 몇 번 가로지르다 평평한 계곡가 바위에 앉아 자유롭게 점심식사도 해가며 월정사까지 약 8.5km를 걸었습니다.
+부지런히 걷는다면 3시간도 걸리지 않겠지만 이 천년의 숲길은 시작점에 상원사가 그리고 도착지에 월정사가 있어 사찰까지 꼼꼼히 돌아볼 요량이면 생각보다 시간이 꽤 소요됩니다. 더구나 숲 속을 거닐며 한눈을 팔다 보면 시간이 금세 흘러 나중에는 시간이 모자랄 정도입니다. 그만큼 오대산 옛길인 천년의 숲길에서는 서두를 것도 걱정할 것도 없이 마음 편히 자연과 소통하며 걷기에 이보다 좋은 곳이 또 있을까 싶습니다.
+가을이면 오대산 단풍이 붉게 물들고 천년의 숲길에도 화사한 단풍으로 뒤덮입니다. 다음에 또 기회가 닿으면 단풍 고운 천년의 숲길도 다시 한번 걸어보시기 바랍니다.
+이번 여행에 참여하신 분들 모두 수고 많으셨구요. 주중 휴일에 즐겼던 달콤한 휴식으로 남은 주일도 활기차게 보내시기 바랍니다~이 게시물을...

@@ -1,0 +1,421 @@
+선유도공원
+	선유/ncn+도공/ncn+원/ncn
+
+야경
+	야경/ncn
+
+
+-
+	-/sd
+
+서울
+	서울/ncn
+
+영등포구
+	영등포구/ncn
+
+양화동
+	양화/ncn+동/ncn
+
+-
+	-/sd
+
+
+도심속의
+	도심/ncn+속/ncn+의/jcm
+
+섬
+	섬/nbu
+
+
+양화대교
+	양화대교/ncn
+
+중간에
+	중간/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+선유도공원
+	선유/ncn+도공/ncn+원/ncn
+
+은
+	은/ncn
+
+과거의
+	과거/ncn+의/jcm
+
+정수장
+	정수장/ncn
+
+건축
+	것/nbn+이/jp+ㄴ/etm+축/nbn
+
+구조물을
+	구조물/ncn+을/jco
+
+재활용하여
+	재활용하/ncn+이/jp+어/ecs
+
+국내
+	국내/ncn
+
+최초로
+	최초/ncn+로/jca
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+생태공원이자
+	생태/ncn+공원/ncn+이/jp+자/ecc
+
+물(
+	물(/ncn
+
+)공원
+	)/sr+공원/ncn
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+선유도
+	선유/ncn+도/jxc
+
+일대
+	일/nnc+대/nbu
+
+114,000
+	114,000/nnc
+
+의
+	의/ncn
+
+부지에
+	부지/ncn+에/jca
+
+기존
+	기존/ncpa
+
+건물과
+	건물/ncn+과/jct
+
+어우러진
+	어우러지/pvg+ㄴ/etm
+
+수질정화원,
+	수질정화/ncn+원/ncn+,/sp
+
+수생식물원,
+	수생식물원,/ncn
+
+환경
+	환경/ncn
+
+물놀이터
+	물놀이/ncpa+터/ncn
+
+등
+	등/nbu
+
+다양한
+	다양/ncn+한/ncn
+
+수생식물과
+	수생식물/ncn+과/jcj
+
+생태
+	생태/ncn
+
+숲을
+	숲/ncn+을/jco
+
+감상할
+	감상/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있고
+	있/px+고/ecc
+
+한강
+	한강/ncn
+
+전시관과
+	전시관/ncn+과/jcj
+
+시간의
+	시간/nbu+의/jcm
+
+정원
+	정원/ncn
+
+등
+	등/nbu
+
+다양한
+	다양/ncn+한/ncn
+
+볼거리와
+	볼거리/ncn+와/jcj
+
+휴식
+	휴식/ncpa
+
+공간을
+	공간/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+생태
+	생태/ncn
+
+교육과
+	교육과/ncn
+
+자연체험의
+	자연/ncn+체험/ncpa+의/jcm
+
+장을
+	장/nbu+을/jco
+
+제공하고
+	제공/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+양화지구와
+	양화/ncn+지구/ncn+와/jct
+
+연결된
+	연결/ncpa+되/xsvn+ㄴ/etm
+
+선유도는
+	선유/ncn+도/jxc+는/jxc
+
+보행자
+	보행자/ncn
+
+전용다리로
+	전용/ncpa+다리/ncn+로/jca
+
+월드컵
+	월드컵/ncn
+
+분수
+	분수/ncn
+
+및
+	및/maj
+
+월드컵공원
+	월드컵/ncn+공원/ncn
+
+등
+	등/nbu
+
+아름다운
+	아름답/paa+은/etm
+
+한강을
+	한강/ncn+을/jco
+
+조망할
+	조망/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있고
+	있/px+고/ecc
+
+특히
+	특히/mag
+
+밤에는
+	밤/ncn+에/jca+는/jxc
+
+형형색색의
+	형형색색/ncn+의/jcm
+
+야간
+	야간/ncn
+
+조명을
+	조/nnc+명/nbu+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+한강의
+	한강/ncn+의/jcm
+
+새로운
+	새롭/paa+은/etm
+
+명소로
+	명소/ncn+로/jca
+
+떠오르고
+	떠오르/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+전시관에는
+	전시관/ncn+에/jca+는/jxc
+
+한강
+	한강/ncn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+전시실
+	전시실/ncn
+
+및
+	및/maj
+
+컴퓨터실,
+	컴퓨터/ncn+이/jp+시/ep+ㄹ/etm+,/sp
+
+화장실
+	화장실/ncn
+
+등
+	등/nbu
+
+여러
+	여러/mma
+
+편의시설을
+	편의시설/ncpa+을/jco
+
+제공하고
+	제공/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+선유도로
+	선유/ncn+도/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+낭만적인
+	낭만/ncn+적/ncn+이/jp+ㄴ/etm
+
+나무결
+	나무/ncn+결/ncn
+
+길.
+	길/ncn+./sf
+
+걷는
+	걷/pvg+는/etm
+
+것만으로도
+	것/nbn+만으로도/jca
+
+기분이
+	기분/ncn+이/jcc
+
+좋아지는
+	좋/paa+아/ecx+지/px+는/etm
+
+곳이다
+	곳/nbu+이/jp+다/ef
+
+
+다양한
+	다양/ncn+한/ncn
+
+생태숲과
+	생태/ncn+숲/ncn+과/jcj
+
+수생식물을
+	수생식물/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+정수장
+	정수장/ncn
+
+건출
+	건출/ncn
+
+구조물을
+	구조물/ncn+을/jco
+
+재활용한
+	재활용/ncn+한/ncn
+
+
+공원인만큼
+	공원/ncn+이/jp+ㄴ/etm+만큼/nbn
+
+수생식물과
+	수생식물/ncn+과/jcj
+
+환경
+	환경/ncn
+
+물놀이터
+	물놀이/ncpa+터/ncn
+
+등
+	등/nbu
+
+물과
+	물/ncn+과/jcj
+
+관려된
+	관려된/ncn
+
+아이템들이
+	아이템/ncn+들/ncn+이/jcc
+
+많다
+	많/paa+다/ef
+
+
+관광db자세히
+	관광db자세히/ncn
+
+보기
+	보기/ncn

@@ -1,0 +1,112 @@
+Title:
+함평 나비축제 자연생태공원 
+
+Date:
+2012.05.21 13:14
+
+Content:
+
+전남 함평엑스포공원[함평읍 곤재리27] 문의:함평군 문화관광과061]320~3364
+함평나비축제 매년4월 말~5월 초
+
+전남 함평군 대동면 학동리 1398~77[대동면 운교리500~1]
+함평 자연생태공원 문의:061]320~3514
+서울~광주~함평 약4시간20분 소요
+네비게이션주소:전남 함평군 대동면 학동리 1398~77
+
+뉴산수산악회[매월셋째일요일]정기산행
+
+실록의 계절 5월 가정의 달 입니다
+봄이오는가 싶더니 날씨는 벌써 여름을 알리는군요 지난 5월20일 뉴산수산악회 일행은 전남 함평에
+있는 모악산과 함평나비축제[매년4월 말~5월 초]계절별 색다른 즐거움을 선사하는 함평 자연생태
+공원을 구경하고 왔답니다
+전국으로 이름난 함평 한우 한잔술에 녹아나는 그 맛은 배고픈 회원들 마음과 정신을 혼미하게
+만들더군요
+
+자연생태공원
+하늘에는 나비와 잠자리,땅에는 꽃과 난초
+물에는 수생식물과 물고기를 주제로 사계절 생태체험이 가능하도록 조성된
+친환경생태체험관광의 메카,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/05/21/170/03100323716653DE5FC3A92473B31A43244_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '751.049';
+	var qsParam = {};
+	qsParam.vid = 'D8000227DC2C3AB97DB4DEE11D67F75BD088';
+	qsParam.inKey = 'V121d09191170d937807618d00d22679809a4e0bb9a76af125d363cb4146d422983ab18d00d22679809a4';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = 'MUSIC';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_06151 = new VideoInfraUGCPlayer('ugcPlayer_06151' ,bean); 
+ugcPlayer_06151.drawPlayLayer(); 
+}
+
+ 
+
+
+
+
+
+ 
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '186';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc28/2012/05/21/1708/03100323715653EE21C3494023D03B33AC2_deogjang_PC_DEFAULT_logo.jpg';
+	layout.playtime = '337.06';
+	var qsParam = {};
+	qsParam.vid = '1A5EB7FA629EFBB4FD916ADFD10800810E81';
+	qsParam.inKey = 'V1280c99f8ff0c80db895922017e37eed78dcd04e697238022c1f66462d91abb6aff9922017e37eed78dc';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_04918 = new VideoInfraUGCPlayer('ugcPlayer_04918' ,bean); 
+ugcPlayer_04918.drawPlayLayer(); 
+}
+
+
+
+
+
+
+
+
+
+
+	

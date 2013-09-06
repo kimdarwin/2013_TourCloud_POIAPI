@@ -1,0 +1,26 @@
+Title:
+8/26 흘림골 트레킹 후기
+
+Date:
+2012.08.27
+
+Content:
+// 이미지갤러리에 보여줄 이미지 등록
+list_gallery_add_image(831644,'files/attach/images/64/328/258/ae0523d68800d701139dd1c79c715d62.jpg');
+list_gallery_add_image(831644,'files/attach/images/64/328/258/3542bd65e7060f62868689cfdd644576.jpg');
+list_gallery_add_image(831644,'files/attach/images/64/328/258/32f15d5b3e9bd5703968e73caa1d7b9a.jpg');
+list_gallery_add_image(831644,'files/attach/images/64/328/258/c7a521c668f9dabdaa7df3fb1d81ed5b.jpg');
+list_gallery_add_image(831644,'files/attach/images/64/328/258/6dfee1d86b715db7f1fd85deec3a05de.jpg');
+list_gallery_add_image(831644,'files/attach/images/64/328/258/b27fb0d3093b2f4f302ed09c21b10a1d.jpg');
+list_gallery_add_image(831644,'files/attach/images/64/328/258/85f4a27bbcdd019b0614c6fdf0074046.jpg');
+list_gallery_add_image(831644,'files/attach/images/64/328/258/3462e4508a51f672d88a1d9d05fa66f2.jpg');
+list_gallery_add_image(831644,'files/attach/images/64/328/258/1504d913a2703d5eb4225a4d18de8708.jpg');
+list_gallery_add_image(831644,'files/attach/images/64/328/258/212909b967e6ea05ec7de3dfc1400d74.jpg');
+list_gallery_add_image(831644,'files/attach/images/64/328/258/9b6a01a33ad88cdec3b562fb21015480.jpg');
+// window.onLoad 이벤트 후에 이미지갤러리 시작 
+xAddEventListener(window,'load',start_list_gallery);
+8월 26일(일), 아름다운 여행으로 흘림골 트레킹을 다녀왔습니다. 이번 트레킹 코스는 흘림골에서 시작해 등선대를 지나 등선계곡과 십이폭계곡 그리고 용소폭포와 주전골을 걷는 코스였습니다. 남설악 최고의 조망처인 등선대에 올라 설악의 능선과 기암괴석들이 펼쳐내는 풍경을 즐기고, 네 개의 계곡을 따라 걷는 코스입니다. 거리는 약 6.5km로 그리 길지 않지만, 오르막 구간과 내리막 구간이 반복되는 길이어서 쉽지만은 않은 코스입니다.
+이 날 트레킹은 날씨가 좋아서 시원한 풍경을 잘 즐길 수 있었습니다. 등선대에 올라서자 발 아래 구름이 깔리기 시작해 본래 빼어난 풍경이 살짝 신비롭기까지 하더군요. 그리고 설악산 쪽으로는 하늘이 맑아 길게 펼쳐진 설악의 능선을 한눈에 조망할 수 있었습니다. 등선대에 여러 번 올랐지만, 이 날 등선대의 풍경이 가장 멋졌던 것 같습니다.
+등선대를 내려와 등선계곡과 십이폭계곡 그리고 주전골을 걸었습니다. 이 계곡들은 몇 년 전 큰 수해 이후로는 수량이 급격히 줄어든 듯한 느낌입니다. 아마 계곡의 폭이 예전보다 넓어진 때문이겠죠. 그래서인지 시원하게 콸콸거리며 물이 흐르진 않더군요. 이 날은 요즘 잦았던 비로 그나마 계곡에 물이 좀 있었습니다. 최근 몇 년 사이 제가 본 기억으로는 그래도 이 날 물이 꽤 많았던 편이었습니다.
+이 날 트레킹은 날씨도 그리고 계곡도 좋아 비교적 만족스러운 트레킹이었습니다. 이번 흘림골 트레킹에 참여하신 분들도 좋은 풍경을 잘 즐기셨으리라 생각됩니다. 다만 코스가 다소 힘들어 피로를 느끼신 분들도 계셨던 것 같습니다. 그리고 서울로 돌아올 때의 극심한 도로정체로 더 피곤하셨을 것 같습니다. 힘들었던 트레킹과 정체의 피로 빨리 털어내시고 활기차게 한 주를 시작하시기 바랍니다.
+이 게시물을...

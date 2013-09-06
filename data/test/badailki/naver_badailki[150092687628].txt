@@ -1,0 +1,39 @@
+Title:
+PD수첩 4대강 수심 6m의 비밀의 진실_준설은 운하를 위해서 한다? 
+
+Date:
+2010.08.25 01:52
+
+Content:
+
+PD수첩 4대강 수심 6m의 비밀의 진실_준설은 운하를 위해서 한다?
+
+
+
+{	var layout = {};
+	layout.width = '210';
+	layout.height = '171';
+	layout.coverImage = 'http://image.nmv.naver.net/blogucc21/2010/08/25/861/E3140213AF0A135340234D4073382D43F43_badailki_logo.jpg';
+	layout.playtime = '33.6';
+	var qsParam = {};
+	qsParam.vid = '938DBAD19E0F00426DE51AB575D276BEF723';
+	qsParam.inKey = 'V12986f6a70d30fbb08486e45444e2cf93801c45d32dcfb3de0a1339e42f72a9290ce6e45444e2cf93801';
+	var bean = {};
+	bean.layout = layout;
+	bean.qsParam = qsParam;
+	var suspendPost = {};
+	suspendPost.errorCode = 0;
+	suspendPost.errorMessage = '';
+	suspendPost.owner = false;
+	bean.suspendPost = suspendPost;
+	var copyrightInfo = {};
+	copyrightInfo.ownerName = '';
+	bean.copyrightInfo = copyrightInfo;
+	bean.player = 'oem';
+var ugcPlayer_04606 = new VideoInfraUGCPlayer('ugcPlayer_04606' ,bean); 
+ugcPlayer_04606.drawPlayLayer(); 
+}
+
+
+
+	
