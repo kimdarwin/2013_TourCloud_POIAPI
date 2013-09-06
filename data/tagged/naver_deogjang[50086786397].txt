@@ -1,0 +1,595 @@
+위
+	위/ncn
+
+치
+	치/nbu
+
+:
+	:/sp
+
+경기도
+	경기/ncn+도/jxc
+
+양주시
+	양주/ncn+시/ncn
+
+유양동
+	유양/ncpa+동/ncn
+
+불곡산
+	불곡산/ncn
+
+.
+	./sf
+
+
+높이470.
+	높이470./ncn
+
+7m
+	7m/ncn
+
+문의031]820~2471
+	문의031/ncn+]/sr+820/nnc+~/sd+2471/nnc
+
+
+가는
+	가/pvg+는/etm
+
+길
+	길/ncn
+
+:
+	:/sp
+
+서울지하철1호선
+	서울지하철/ncn+1호선/ncn
+
+타시고
+	타/pvg+시/ep+고/ecc
+
+[양주]역에서
+	[/sl+양주/ncpa+]/sr+역/ncn+에서/jca
+
+내린다음도로를건너
+	내린다음도로를건너/ncn
+
+정류장에서
+	정류장/ncn+에서/jca
+
+
+[소요산
+	[/sl+소요/ncpa+산/ncn
+
+.
+	./sf
+
+
+양주시청]쪽으로가는
+	양주/ncn+시청/ncpa+]/sr+쪽/nbn+으로/jca+가/jcc+는/jxc
+
+버스타시고
+	버스/ncn+타/ncn+이/jp+시/ep+고/ecc
+
+한정거장
+	한정/ncpa+거장/ncn
+
+가시면[양주시청]앞하차
+	가시면[양주시청]앞하차/ncn
+
+등산
+	등산/ncpa
+
+
+불곡산은
+	불곡산/ncn+은/jxc
+
+북쪽으로
+	북쪽/ncn+으로/jca
+
+이어져있는
+	잇/pvg+어/ecx+지/px+어/ecx+있/px+는/etm
+
+도락산과
+	도락/ncn+산/ncn+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+원형을
+	원형/ncn+을/jco
+
+이루는
+	이루/pvg+는/etm
+
+양주분지의
+	양주/ncn+분지/ncn+의/jcm
+
+중심부에
+	중심부/ncn+에/jca
+
+해당된다
+	해당/ncpa+되/xsvn+ㄴ다/ef
+
+
+임진강에서
+	임진/ncn+강/ncn+에서/jca
+
+양주를
+	양주/ncn+를/jco
+
+거져
+	거져/ncn
+
+한강
+	한강/ncn
+
+유역으로
+	유역/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+고대교통로가
+	고대/ncn+교통로/ncn+가/jcs
+
+도락산과
+	도락/ncn+산/ncn+과/jcj
+
+불곡산을
+	불곡산/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+좌
+	좌/ncn
+
+
+우로
+	우/ncn+로/jca
+
+지나가고
+	지나/pvg+아/ecx+가/px+고/ecc
+
+있으며
+	있/px+으며/ecc
+
+특히
+	특히/mag
+
+불곡산은
+	불곡산/ncn+은/jxc
+
+주변
+	주변/ncn
+
+산들과
+	사/pvg+ㄴ/etm+들/nbn+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+병목구간을
+	병목구간/ncn+을/jco
+
+형성하고있다
+	형성/ncpa+하/xsva+고/ecx+있/px+다/ef
+
+
+남쪽의
+	남쪽/ncn+의/jcm
+
+의정부
+	의정/ncn+부/ncn
+
+일대와
+	일/nnc+대/nbu+와/jcj
+
+동쪽의
+	동쪽/ncn+의/jcm
+
+3번국도
+	3번국/ncn+도/jxc
+
+일대를
+	일/nnc+대/nbu+를/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+보고
+	보/px+고/ecc
+
+통제할수
+	통제/ncpa+하/xsva+ㄹ/etm+수/nbn
+
+있으므로
+	있/px+으므로/ecs
+
+적략적으로
+	적략적/ncn+으로/jca
+
+매우
+	매우/mag
+
+
+중요한
+	중요/ncps+하/xsms+ㄴ/etm
+
+지역이다
+	지역/ncn+이/jp+다/ef
+
+이러한
+	이러하/pad+ㄴ/etm
+
+불곡산의
+	불곡산/ncn+의/jcm
+
+봉우리와
+	봉우리/ncn+와/jcj
+
+능선의
+	능선/ncn+의/jcm
+
+정상부를
+	정상/ncn+부/ncn+를/jco
+
+따라9개의
+	따라9개/ncn+의/jcm
+
+보루가
+	보루/ncn+가/jcs
+
+2열로
+	2/nnc+열/nnc+로/jca
+
+배치되어
+	배치/ncpa+되/xsvn+어/ecs
+
+
+있다
+	있/paa+다/ef
+
+
+불곡산1보루는
+	불곡산1보루/ncn+는/jxc
+
+불곡산의
+	불곡산/ncn+의/jcm
+
+남동쪽
+	남동쪽/ncn
+
+능선끝
+	능선/ncn+끝/ncn
+
+양주시청
+	양주/ncn+시청/ncpa
+
+뒷산에
+	뒷산/ncn+에/jca
+
+위치한다
+	위치/ncpa+하/xsva+ㄴ다/ef
+
+보루의
+	보루/ncn+의/jcm
+
+성벽일부가
+	성벽/ncn+일부/ncn+가/jcs
+
+노출되어
+	노출/ncpa+되/xsvn+어/ecx
+
+있을
+	있/paa+을/etm
+
+
+뿐
+	뿐/nbn
+
+대부분
+	대부분/ncn
+
+무너지거나
+	무너지/pvg+거나/ecc
+
+토사에
+	토사/ncn+에/jca
+
+묻혀있어
+	묻히/pvg+어/ecx+있/px+어/ecx
+
+정확한
+	정확/ncps+하/xsms+ㄴ/etm
+
+축조
+	축조/ncpa
+
+양상을
+	양상/ncn+을/jco
+
+알수없으나
+	알/pvg+ㄹ/etm+수/nbn+없/xsmn+으나/ecs
+
+외관상
+	외관상/ncn
+
+비교적
+	비교/ncpa+적/ncn
+
+유적의
+	유적/ncn+의/jcm
+
+규모가
+	규모/ncn+가/jcc
+
+
+크고
+	크/paa+고/ecc
+
+성
+	성/ncn
+
+내부에서는
+	내부/ncn+에서/jca+는/jxc
+
+집수시설로
+	집수시설/ncn+로/jca
+
+보이는
+	보이/pvg+는/etm
+
+구덩이들이
+	구덩이/ncn+들/ncn+이/jcc
+
+확인되고
+	확인/ncpa+되/xsvn+고/ecc
+
+있다
+	있/paa+다/ef
+
+
+불곡산은
+	불곡산/ncn+은/jxc
+
+양주시
+	양주/ncn+시/ncn
+
+유양동과
+	유양/ncpa+동/ncn+과/jcj
+
+백석읍의
+	백석읍/ncn+의/jcm
+
+경계를
+	경계/ncn+를/jco
+
+이루고있으며
+	이루/pvg+고/ecx+있/px+으며/ecc
+
+대동여지에
+	대동여지/ncn+에/jca
+
+양주의
+	양주/ncn+의/jcm
+
+진산이라고
+	진산/ncn+이/jp+라/ef+고/jcr
+
+나와있다
+	나와/ncn+있/xsmn+다/ef
+
+
+별로
+	별로/mag
+
+높지않고
+	높/paa+지/ecx+않/px+고/ecc
+
+밋밋해
+	밋밋하/paa+어/ecx
+
+보이지만
+	보이/pvg+지/ecx+말/px+ㄴ/etm
+
+암봉과
+	암봉/ncn+과/jct
+
+경사진
+	경사지/pvg+ㄴ/etm
+
+능선이많아
+	능선이많아/ncn
+
+산행의
+	산행/ncn+의/jcm
+
+재미를
+	재미/ncn+를/jco
+
+느낄수있다
+	느끼/pvg+ㄹ/etm+수/nbn+있/xsmn+다/ef
+
+
+불곡산은
+	불곡산/ncn+은/jxc
+
+서울에서
+	서울/ncn+에서/jca
+
+가까워
+	가깝/paa+어/ecx
+
+가족을
+	가족/ncn+을/jco
+
+동반한
+	동반/ncn+한/ncn
+
+당일코스로
+	당일코스/ncn+로/jca
+
+좋다예년보다
+	좋다예년/ncn+보다/jca
+
+차가운
+	차갑/paa+은/etm
+
+날씨로
+	날씨/ncn+로/jca
+
+늦어지는
+	늦/paa+어/ecx+지/px+는/etm
+
+꽃
+	꽃/ncn
+
+
+망울
+	망울/ncn
+
+송골송골
+	송골송골/ncn
+
+이마에
+	이마/ncn+에/jca
+
+맺힌
+	맺히/pvg+ㄴ/etm
+
+땀방울
+	땀방울/ncn
+
+따으며
+	따/pvg+며/ecc
+
+정상에
+	정상/ncn+에/jca
+
+오르다
+	오르/pvg+다/ef
+
+
+불곡산
+	불곡산/ncn
+
+상투봉
+	상투/ncn+봉/ncn
+
+저마다
+	저/npp+마다/jxc
+
+특색이있는것같다
+	특색/ncn+이/ncn+있/xsmn+는/etm+것/nbn+같/xsmn+다/ef
+
+상투봉은
+	상투/ncn+봉/ncn+은/jxc
+
+명품바위로
+	명품/ncn+바위/ncn+로/jca
+
+손색이없으며
+	손색/ncn+이/ncn+없/xsmn+으며/ecc
+
+전망이
+	전망/ncn+이/jcc
+
+뛰어나다
+	뛰어나/paa+다/ef
+
+
+조선중기
+	조선중기/ncn
+
+황해도
+	황해/ncn+도/jxc
+
+함경도
+	함경/ncn+도/jxc
+
+등지에서
+	등지/nbn+에서/jca
+
+활동하던
+	활동/ncpa+하/xsva+던/etm
+
+도둑으로
+	도둑/ncn+으로/jca
+
+천민의
+	천민/ncn+의/jcm
+
+백정출신이며
+	백정/ncn+출신/ncn+이/jp+며/ecc
+
+곡식을
+	곡식/ncn+을/jco
+
+백성들에게
+	백성/ncn+들/ncn+에게/jca
+
+
+나누어줘
+	나누/pvg+어/ecx+주/px+어/ecx
+
+의적이라고
+	의적/ncn+이/jp+라/ef+고/jcr
+
+불렸다
+	불/pvg+리/ep+었/ep+다/ef
+
+
+강원도
+	강원/ncn+도/jxc
+
+철원에
+	철원/ncn+에/jca
+
+세워진
+	세우/pvg+어/ecx+지/px+ㄴ/etm
+
+임꺽정
+	임꺽정/ncn
+
+의
+	의/ncn
+
+동상[고석정]
+	동상[고석정/ncn+]/sr
+
+
+임꺽정은
+	임꺽정/ncn+은/jxc
+
+조선후기
+	조선후기/ncn
+
+실존했던
+	실존/ncpa+하/xsva+었/ep+던/etm
+
+화적패의
+	화적패/ncn+의/jcm
+
+우두머리로
+	우두머리/ncn+로/jca
+
+당대의
+	당대/ncn+의/jcm
+
+사회적
+	사회/ncn+적/ncn
+
+모순을
+	모순/ncn+을/jco
+
+극명하게
+	극명/ncps+하/xsms+게/ecc
+
+
+드려내는
+	드리/pvg+어/ecx+내/px+는/etm
+
+인물이다
+	인물/ncn+이/jp+다/ef

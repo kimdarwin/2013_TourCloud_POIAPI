@@ -1,0 +1,517 @@
+부산여행
+	부산/ncps+여행/ncpa
+
+이틀째
+	이틀째/ncn
+
+오후에
+	오후/ncn+에/jca
+
+부산역
+	부산/ncps+역/ncn
+
+근처
+	근처/ncn
+
+차이나타운에
+	차이나타운/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+속칭
+	속칭/ncpa
+
+'올드보이만두집'을
+	'/sr+올드/ncn+보이/ncn+만두집/ncn+'/sr+을/jco
+
+들러보러
+	들르/pvg+어/ecx+보/px+러/ecs
+
+갑니다
+	가/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+부산
+	부산/ncps
+
+차이나타운에
+	차이나타운/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+중국집
+	중국집/ncn
+
+장성향
+	장성/ncn+향/ncn
+
+입니다~
+	입/pvg+니다/ef+~/sd
+
+
+여기는
+	여기/npd+는/jxc
+
+부산역근처
+	부산역근처/ncn
+
+차이나타운특구입니다~
+	차이나타운/ncn+특구/ncn+이/jp+ㅂ니다/ef+~/sd
+
+중국
+	중국/ncn
+
+분위기가
+	분위기/ncn+가/jcs
+
+물씬
+	물씬/mag
+
+납니다~
+	날/pvg+ㅂ니다/ef+~/sd
+
+
+차이나타운
+	차이나타운/ncn
+
+내에
+	내/npp+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+중국집
+	중국집/ncn
+
+'장성향'입니다~
+	'/sl+장성/ncn+향/ncn+'/sr+이/jp+ㅂ니다/ef+~/sd
+
+
+실내모습입니다~
+	실내/ncn+모습/ncn+이/jp+ㅂ니다/ef+~/sd
+
+중앙에
+	중앙/ncn+에/jca
+
+홀이
+	홀/ncn+이/jcc
+
+있고
+	있/px+고/ecc
+
+측면으로
+	측면/ncn+으로/jca
+
+룸이
+	룸/ncn+이/jcc
+
+몇
+	몇/nnc
+
+개
+	개/nbu
+
+있습니다~
+	있/paa+습니다/ef+~/sd
+
+
+이
+	이/mmd
+
+집의
+	집/ncn+의/jcm
+
+유명세는
+	유명세/ncn+는/jxc
+
+바로
+	바로/mag
+
+영화
+	영화/ncn
+
+두
+	두/nnc
+
+편의
+	편/nbu+의/jcm
+
+촬영지라는
+	촬영지라/ncn+는/jxc
+
+것.
+	것/nbn+./sf
+
+..
+	./sf+./sf
+
+
+특히
+	특히/mag
+
+영화
+	영화/ncn
+
+'올드보이'의
+	'/sr+올드/ncn+보/ncn+이/jcc+'/sr+의/jcm
+
+오대수(최민식
+	오대수(최민식/ncn
+
+역)가
+	역/ncn+)/sr+가/jcc
+
+먹던
+	먹/pvg+던/etm
+
+그
+	그/mmd
+
+만두집이라는
+	만두집/ncn+이/jp+라/ef+는/etm
+
+것.
+	것/nbn+./sf
+
+....
+	.../se+./sf
+
+
+벽면에
+	벽면/ncn+에/jca
+
+붙어있는
+	붙/pvg+어/ecx+있/px+는/etm
+
+메뉴안내와
+	메뉴/ncn+안내/ncpa+와/jct
+
+더불어
+	더불/pvg+어/ecx
+
+....
+	.../se+./sf
+
+
+다
+	다/mag
+
+찍지는
+	찍/pvg+지/ef+는/etm
+
+않았지만
+	않/px+아/ep+지/ecx+말/px+ㄴ/etm
+
+메뉴판
+	메뉴판/ncn
+
+일부입니다
+	일/nnc+부/nbu+이/jp+ㅂ니다/ef
+
+...
+	.../se
+
+
+가격은
+	가격/ncn+은/jxc
+
+짐작하실
+	짐작/ncpa+하/xsva+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있으실
+	있/px+으시/ep+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+탁자~
+	탁자/ncn+~/sd
+
+물
+	물/ncn
+
+내주시고요
+	내/pvg+어/ecx+주/px+시/ep+고요/ef
+
+...
+	.../se
+
+
+드뎌
+	드뎌/ncn
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+유명한
+	유명/ncn+한/ncn
+
+'올드보이만두'
+	'/sr+올드/ncn+보이/ncn+만두/ncn+'/sr
+
+군만두
+	군만두/ncn
+
+(6,500원)입니다
+	(/sl+6,500/nnc+원/nbu+)/sr+이/jp+ㅂ니다/ef
+
+...
+	.../se
+
+
+일단
+	일단/mag
+
+크기가
+	크/paa+기/etn+가/jcs
+
+상당히
+	상당히/mag
+
+크고요~
+	크/paa+고요/ef+~/sd
+
+
+맛도
+	맛/ncn+도/jxc
+
+좋습니다
+	좋/paa+습니다/ef
+
+....
+	.../se+./sf
+
+
+그냥
+	그냥/mag
+
+중국집
+	중국집/ncn
+
+서비스군만두하고는
+	서비스/ncpa+군만두/ncn+하고/jct+는/jxc
+
+태생이
+	태생/ncn+이/jcc
+
+다른
+	다르/paa+ㄴ/etm
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+....
+	.../se+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+만두만
+	만/nnc+두/nnc+만/jxc
+
+먹기는
+	먹/pvg+기/etn+는/jxc
+
+아쉬워서
+	아쉽/paa+어서/ecs
+
+주문한
+	주문/ncn+한/ncn
+
+짬뽕
+	짬뽕/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+그릇(5,000원)
+	그릇(5,000원)/ncn
+
+....
+	.../se+./sf
+
+
+만두맛이
+	만두/ncn+맛/ncn+이/jcc
+
+뛰어나서
+	뛰/pvg+어/ecx+나/px+아/ecx
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+...
+	.../se
+
+
+짬뽕맛은
+	짬뽕맛/ncn+은/jxc
+
+그저
+	그저/mag
+
+무난한
+	무난/ncps+하/xsms+ㄴ/etm
+
+정도
+	정도/ncn
+
+...
+	.../se
+
+
+^^;
+	^/sy+^/sy+;/sy
+
+
+같이
+	같/paa+이/xsa
+
+주문한
+	주문/ncn+한/ncn
+
+짜장면(4,000원)
+	짜장/ncn+면/xsncc+(/sl+4,000/nnc+원/nbu+)/sr
+
+....
+	.../se+./sf
+
+
+이것도
+	이것/npd+도/jxc
+
+무난하게
+	무난/ncps+하/xsms+게/ecs
+
+괜찮았던
+	괜찮/paa+아/ep+ㄴ/etm
+
+...
+	.../se
+
+
+이상
+	이상/ncn
+
+크기가
+	크/paa+기/etn+가/jcs
+
+큼직하고
+	큼직/ncps+하고/jct
+
+맛도
+	맛/ncn+도/jxc
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+군만두가
+	군만두/ncn+가/jcs
+
+인상
+	인상/ncn
+
+깊게
+	깊/paa+게/ecs
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+중국집
+	중국집/ncn
+
+....
+	.../se+./sf
+
+
+장성향
+	장성/ncn+향/ncn
+
+이었습니다~
+	이/ncn+이/jp+었/ep+습니다/ef+~/sd
+
+
+위치
+	위치/ncn
+
+:
+	:/sp
+
+부산광역시
+	부산/ncps+광역시/ncn
+
+동구
+	동구/ncn
+
+초량1동
+	초량1동/ncn
+
+609-1
+	609/nnc+-1/nnc
+
+
+전화번호
+	전화번호/ncn
+
+:
+	:/sp
+
+051-467-4496
+	051/nnc+-467/nnc+-4496/nnc
+
+
+장성향
+	장성/ncn+향/ncn
+
+
+부산
+	부산/ncps
+
+동구
+	동구/ncn
+
+초량1동
+	초량1동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01397337",
+	"bl01397337",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"13527860",
+	"/sl+13527860/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"장성향",
+	title/f+:/sp+"/sl+장성/ncn+향/ncn+"/sr+,/sp
+
+pointX:494870,pointY:279969}
+	pointX/f+:/sp+494870/nnc+,/sp+pointY/f+:/sp+279969/nnc+}/sr

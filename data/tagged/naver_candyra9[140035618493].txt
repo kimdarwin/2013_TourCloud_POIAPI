@@ -1,0 +1,283 @@
+삼실
+	삼실/ncn
+
+마우스는
+	마우스/ncn+는/jxc
+
+완젼
+	완젼/ncn
+
+뻐벅이
+	뻐벅이/ncn
+
+...
+	.../se
+
+
+-
+	-/sd
+
+-;;;
+	-/sd+;/sy+;/sy+;/sy
+
+
+봄이
+	보/px+ㅁ/etn+이/jcs
+
+오니
+	오/ncn+이/jp+니/ef
+
+
+두둥실~~~여행
+	두둥실~~~여행/ncn
+
+가고픈
+	가고픈/ncn
+
+마음
+	마음/ncn
+
+...
+	.../se
+
+
+파아란
+	파아란/ncn
+
+물결이
+	물결/ncn+이/jcc
+
+햇살에
+	햇살/ncn+에/jca
+
+잔잔히
+	잔잔히/mag
+
+부서지는
+	부서지/pvg+는/etm
+
+곳이나
+	곳/nbu+이나/jcj
+
+
+노랑,
+	노랑/ncn+,/sp
+
+분홍
+	분홍/ncn
+
+봄
+	보/px+ㅁ/etn
+
+꽃들이
+	꽃/ncn+들/xsncc+이/jcc
+
+만게한
+	만게한/ncn
+
+곳으로
+	곳/nbu+으로/jca
+
+
+마구
+	마구/mag
+
+떠나고픈
+	떠나고픈/ncn
+
+날씨네요
+	날씨/ncn+이/jp+네/ef+요/jxf
+
+...
+	.../se
+
+
+살짝
+	살짝/mag
+
+여행
+	여행/ncpa
+
+계획을
+	계획/ncpa+을/jco
+
+짜
+	짜/pvg+아/ecx
+
+볼까하는데
+	볼까하는데/ncn
+
+
+어디가
+	어디/npd+가/jcc
+
+좋을지
+	좋/paa+을/etm+지/nbn
+
+...
+	.../se
+
+??!!...
+	?/sf+?/sf+!/sf+!/sf+.../se
+
+
+봄이면
+	보/px+ㅁ/etn+이/jp+면/ecs
+
+어디던
+	어디/npd+이/jp+던/etm
+
+좋겠지요
+	좋/paa+겠/ep+지/ef+요/jxf
+
+??
+	?/sf+?/sf
+
+
+주말에
+	주말/ncn+에/jca
+
+작은
+	작/paa+은/etm
+
+도시락
+	도시락/ncn
+
+싸
+	쓰/pvg+어/ecx
+
+들고
+	들/pvg+고/ecc
+
+
+봄소풍
+	봄소풍/ncn
+
+가는
+	가/pvg+는/etm
+
+것도
+	것/nbn+도/jxc
+
+즐거울테구요
+	즐거울테구요/ncn
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+오늘
+	오늘/ncn
+
+하루
+	하루/ncn
+
+캔디는
+	캔디/ncn+는/jxc
+
+
+여행
+	여행/ncpa
+
+가고픈
+	가고픈/ncn
+
+마음에
+	마음/ncn+에/jca
+
+일이
+	일/ncn+이/jcc
+
+뒷전이네요
+	뒷전/ncn+이/jp+네/ef+요/jxf
+
+...
+	.../se
+
+
+^^;;;
+	^/sy+^/sy+;/sy+;/sy+;/sy
+
+
+오늘
+	오늘/ncn
+
+하루
+	하루/ncn
+
+즐겁고
+	즐겁/paa+고/ecc
+
+핑크레~~~한
+	핑크/ncn+레/ncn+~/sd+~/sd+~/sd+한/nnc
+
+하루였나요
+	하루/ncn+이/jp+었/ep+나/ef+요/jxf
+
+??
+	?/sf+?/sf
+
+
+그럼
+	그렇/pad+ㅁ/etn
+
+내일
+	내/npp+이/jp+ㄹ/etm
+
+하루도
+	하루/ncn+도/jxc
+
+
+핑크레~~~볼을
+	핑크/ncn+레/ncn+~/sd+~/sd+~/sd+볼/ncn+을/jco
+
+물들이는
+	물들이/pvg+는/etm
+
+하루
+	하루/ncn
+
+준비해
+	준비/ncn+해/ncn
+
+보세요
+	보/px+세/ef+요/jxf
+
+...
+	.../se
+
+
+(블로그에서
+	(블로그/ncn+에서/jca
+
+그림그리기로
+	그림그리/pvg+기/etn+로/jca
+
+그려보세요
+	그리/pvg+어/ecx+보/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+못
+	못/mag
+
+그려도
+	그리/pvg+어도/ecs
+
+즐겁게
+	즐겁/paa+게/ecs
+
+시간
+	시간/nbu
+
+잘간답니다
+	자/pvg+ㄹ/etm+간/nbn+답/xsmn+니다/ef
+
+...)
+	.../se+)/sr

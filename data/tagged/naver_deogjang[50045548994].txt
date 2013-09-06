@@ -1,0 +1,526 @@
+위
+	위/ncn
+
+치
+	치/nbu
+
+:
+	:/sp
+
+경기도
+	경기/ncn+도/jxc
+
+양평군
+	양평군/ncn
+
+서종면
+	서종면/ncn
+
+과
+	과/ncn
+
+양서면
+	양서/ncn+이/jp+면/ecs
+
+경계에
+	경계/ncn+에/jca
+
+위치하고
+	위치/ncn+하고/jct
+
+있다
+	있/paa+다/ef
+
+
+가는
+	가/pvg+는/etm
+
+길
+	길/ncn
+
+:
+	:/sp
+
+철도
+	철도/ncn
+
+[중앙선]
+	[/sl+중앙선/ncn+]/sr
+
+용산
+	용산/ncn
+
+출발
+	출발/ncpa
+
+이촌,서빙고,한남,옥수,응봉,왕십리,청량리,중량,망우,양원,구리
+	이촌,서빙고,한남,옥수,응봉,왕십리,청량리,중량,망우,양원/ncn+,/sp+구리/ncn
+
+
+도농,양정,덕소
+	도농,양정,덕소/ncn
+
+.
+	./sf
+
+
+도심,팔당,운길산,양수,[국수역
+	도심,팔당,운길산,양수,[국수역/ncn
+
+]종점
+	]/sr+종점/ncn
+
+하차
+	하차/ncn
+
+
+코
+	크/paa+어/ecx
+
+스
+	스/ncn
+
+:
+	:/sp
+
+국수리-신촌-형제봉-청계산
+	국수리-신촌-형제봉-청계산/ncn
+
+정상
+	정상/ncn
+
+[역순회]왕복
+	[/sl+역순/ncn+회/ncn+]/sr+왕복/ncpa
+
+약3시간40분
+	약3시간40분/ncn
+
+
+청계산[
+	청계산[/ncn
+
+]양평군
+	]양평군/ncn
+
+서쪽에
+	서쪽/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+양서면과
+	양서/ncn+면/ncn+과/jcj
+
+서종면경계에
+	서종면경계/ncn+에/jca
+
+솟은
+	솟/pvg+은/etm
+
+청계산[해발658m]은
+	청계산[해발658m/ncn+]/sr+은/jxc
+
+
+한강을
+	한강/ncn+을/jco
+
+북한강과
+	북한강/ncn+과/jcj
+
+남한강으로
+	남한강/ncn+으로/jca
+
+가르는
+	가르/pvg+는/etm
+
+용문산
+	용문산/ncn
+
+산줄기
+	산줄기/ncn
+
+끝자락에
+	끝자락/ncn+에/jca
+
+솟구친
+	솟구치/pvg+ㄴ/etm
+
+산으로
+	산/ncn+으로/jca
+
+주말
+	주말/ncn
+
+산행
+	산행/ncn
+
+코스로
+	코스/ncn+로/jca
+
+
+인기있다
+	인기/ncn+있/xsmn+다/ef
+
+
+형제봉[
+	형제봉[/ncn
+
+]정상에
+	]/sr+정상/ncn+에/jca
+
+서면
+	서/pvg+면/ecs
+
+북한강과
+	북한강/ncn+과/jcj
+
+남한강이
+	남한강/ncn+이/jcc
+
+발아래
+	발아/ncpa+이/jp+래/ef
+
+펼처지고
+	펼처지/ncn+이/jp+고/ecc
+
+두물머리인
+	두물머리/ncn+이/jp+ㄴ/etm
+
+양수리
+	양수/ncn+이/jp+리/ef
+
+일대가
+	일대/ncn+가/jcc
+
+
+손에
+	손/ncn+에/jca
+
+잡힐듯
+	잡히/pvg+ㄹ/etm+듯/nbs
+
+내려다
+	내리/pvg+어다/ecs
+
+보있다
+	보/ncn+있/xsmn+다/ef
+
+
+청계산은
+	청계/ncn+산/ncn+은/jxc
+
+국수에서
+	국수/ncn+에서/jca
+
+북쪽의
+	북쪽/ncn+의/jcm
+
+능선을
+	능선/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+가는것과
+	가/px+는/etm+것/nbn+과/jct
+
+청계리
+	청계/ncn+이/jp+리/ef
+
+반월형에서
+	반월형/ncn+에서/jca
+
+북쪽계곡길을따라
+	북쪽/ncn+계곡/ncn+길을/ncn+따라/jxc
+
+오르는
+	오르/pvg+는/etm
+
+
+방법
+	방법/ncn
+
+또는
+	또는/maj
+
+목왕리에서
+	목왕리/ncn+에서/jca
+
+형제봉을
+	형제/ncr+봉/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+정상에
+	정상/ncn+에/jca
+
+오르는
+	오르/pvg+는/etm
+
+길
+	길/ncn
+
+이
+	이/mmd
+
+세가지가있다
+	세가/ncn+지가/ncn+있/xsmn+다/ef
+
+
+청계산은
+	청계/ncn+산/ncn+은/jxc
+
+동쪽으로
+	동쪽/ncn+으로/jca
+
+용문산과
+	용문산/ncn+과/jcj
+
+북쪽으로
+	북쪽/ncn+으로/jca
+
+중미산이
+	중미/ncn+산/ncn+이/jcc
+
+있고
+	있/px+고/ecc
+
+남쪽으로는
+	남쪽/ncn+으로/jca+는/jxc
+
+남한강이
+	남한강/ncn+이/jcc
+
+흘러
+	흐르/pvg+어/ecx
+
+전망이
+	전망/ncn+이/jcc
+
+매우
+	매우/mag
+
+
+좋은
+	좋/paa+은/etm
+
+산으로
+	산/ncn+으로/jca
+
+알려져
+	알리/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/paa+다/ef
+
+
+청계산
+	청계/ncn+산/ncn
+
+능선길을
+	능선길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+걷다
+	걷/pvg+다/ef
+
+보면
+	보/px+면/ecs
+
+형제봉에
+	형제/ncr+봉/ncn+에/jca
+
+이른다
+	이르/paa+ㄴ다/ef
+
+
+나보기가
+	나/pvg+아/ecx+보/px+기/etn+가/jcs
+
+역겨워
+	역겹/paa+어/ecx
+
+가실
+	가/px+시/ep+ㄹ/etm
+
+때에는
+	때/ncn+에/jca+는/jxc
+
+말없이
+	말없이/mag
+
+고이
+	고/ncn+이/jcc
+
+보내
+	보내/pvg+어/ecx
+
+드리오리다
+	드리오리다/ncn
+
+[진달래꽃
+	[/sl+진달래꽃/ncn
+
+
+영변에
+	영변/ncn+에/jca
+
+약산
+	약산/ncn
+
+진
+	지/px+ㄴ/etm
+
+달래
+	달래/pvg+어/ecx
+
+꽃
+	꽃/ncn
+
+아름
+	아름/nbu
+
+따다
+	따/pvg+아/ecx
+
+가실
+	가/px+시/ep+ㄹ/etm
+
+길에
+	길/ncn+에/jca
+
+뿌리
+	뿌리/ncn
+
+오리다[김소월
+	오리다[김소월/ncn
+
+
+가시는
+	가/px+시/ep+는/etm
+
+걸음
+	걸/pvg+ㅁ/etn
+
+걸음
+	걸/pvg+ㅁ/etn
+
+놓인
+	놓이/pvg+ㄴ/etm
+
+그
+	그/mmd
+
+꽃을
+	꽃/ncn+을/jco
+
+사뿐히
+	사뿐히/mag
+
+즈려
+	즈려/ncn
+
+밟고
+	밟/pvg+고/ecc
+
+가시
+	가시/ncn
+
+옵소서
+	옵소/ncn+서/jca
+
+
+나보기가
+	나/pvg+아/ecx+보/px+기/etn+가/jcs
+
+역겨워
+	역겹/paa+어/ecx
+
+가실
+	가/px+시/ep+ㄹ/etm
+
+때에는
+	때/ncn+에/jca+는/jxc
+
+죽어도
+	죽/pvg+어도/ecs
+
+아니
+	알/pvg+니/ecs
+
+눈물
+	눈물/ncn
+
+흘리
+	흘리/ncn
+
+오리다
+	오리/ncn+이/jp+다/ef
+
+
+정상으로
+	정상/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+능선에는
+	능선/ncn+에/jca+는/jxc
+
+묘지가
+	묘지/ncn+가/jcs
+
+있고
+	있/px+고/ecc
+
+잡목으로
+	잡목/ncn+으로/jca
+
+욱어진
+	욱어진/ncn
+
+숲이
+	숲/ncn+이/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+능선을
+	능선/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+몇차례
+	몇/nnc+차례/nbu
+
+오르내
+	오르내/ncn
+
+
+리는
+	리/nbu+는/jxc
+
+바윗길을
+	바윗길/ncn+을/jco
+
+지나면
+	지나/pvg+면/ecs
+
+전망이
+	전망/ncn+이/jcc
+
+확
+	확/ncn
+
+트이면서
+	트이/pvg+면서/ecc
+
+정상에
+	정상/ncn+에/jca
+
+닿는다
+	닿/pvg+는다/ef

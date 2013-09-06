@@ -1,0 +1,1608 @@
+여수세계박람회
+	여수/ncn+세계박람회/ncn
+
+.
+	./sf
+
+
+여수엑스포
+	여수/ncn+엑스포/ncn
+
+.
+	./sf
+
+
+여수엑스포
+	여수/ncn+엑스포/ncn
+
+입장료
+	입장료/ncn
+
+.
+	./sf
+
+
+여수엑스포
+	여수/ncn+엑스포/ncn
+
+할인정보
+	할인/ncpa+정보/ncn
+
+.
+	./sf
+
+
+여수엑스포추천관람코스
+	여수/ncn+엑스포/ncn+추천/ncpa+관람/ncpa+코스/ncn
+
+
+여수세계박람회
+	여수/ncn+세계박람회/ncn
+
+...
+	.../se
+
+
+이번주
+	이번주/ncn
+
+수요일에
+	수요일/ncn+에/jca
+
+아들이
+	아들/ncn+이/jcc
+
+학교에서
+	학교/ncn+에서/jca
+
+여수세계박람회에
+	여수/ncn+세계박람회/ncn+에/jca
+
+간답니다
+	간/nbn+답/xsmn+니다/ef
+
+
+엄마가
+	엄마/ncn+가/jcs
+
+아무것도
+	아무것/npd+도/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+잘갔다와
+	잘갔다/ncn+와/jcj
+
+하기엔
+	하/pvg+기/etn+엔/jca
+
+불안한
+	불안/ncps+하/xsms+ㄴ/etm
+
+마음에
+	마음/ncn+에/jca
+
+...
+	.../se
+
+
+여수세계박람회에
+	여수/ncn+세계박람회/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+모든것을
+	모든것/ncn+을/jco
+
+알아봤어요
+	알/pvg+아/ecx+보/px+아/ep+아/ef
+
+
+할인정보
+	할인/ncpa+정보/ncn
+
+...
+	.../se
+
+
+추천관람코스
+	추천/ncpa+관람/ncpa+코스/ncn
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+우리
+	우리/npp
+
+아들이
+	아들/ncn+이/jcc
+
+구경하는
+	구경/ncpa+하/xsva+는/etm
+
+코스까지
+	코스/ncn+까지/jxc
+
+....
+	.../se+./sf
+
+
+아직
+	아직/mag
+
+여수세계박람회에
+	여수/ncn+세계박람회/ncn+에/jca
+
+가지
+	가지/nbu
+
+못하신
+	못하/px+시/ep+ㄴ/etm
+
+분들을
+	불/pvg+ㄴ/etm+들/nbn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+희소식까지
+	희소식/ncn+까지/jxc
+
+....
+	.../se+./sf
+
+
+행사
+	행사/ncpa
+
+시간
+	시간/nbu
+
+및
+	및/maj
+
+시간
+	시간/nbu
+
+
+행사기간
+	행사기간/ncn
+
+:
+	:/sp
+
+2012년
+	2012/nnc+년/nbu
+
+5월
+	5/nnc+월/nbu
+
+12일
+	12/nnc+일/nbu
+
+~8월
+	~/sd+8/nnc+월/nbu
+
+12일까지
+	12/nnc+일/nbu+까지/jca
+
+
+박람회장
+	박람회/ncn+장/ncn
+
+출입구
+	출입구/ncn
+
+:
+	:/sp
+
+평일
+	평/nbu+이/jp+ㄹ/etm
+
+08:30~22:30,주말
+	08/nnc+:/sp+30/nnc+~/sd+22/nnc+:/sp+30/nnc+,/sp+주말/ncn
+
+/공휴일
+	//sp+공휴일/ncn
+
+08:00~22:30
+	08/nnc+:/sp+00/nnc+~/sd+22/nnc+:/sp+30/nnc
+
+
+매표소
+	매표소/ncn
+
+:08:00~20:00
+	:/sp+08/nnc+:/sp+00/nnc+~/sd+20/nnc+:/sp+00/nnc
+
+
+전시관
+	전시관/ncn
+
+:09:00~21:00(20:30까지
+	:09:00~21:00(20:30까지/ncn
+
+입장)
+	입장/ncpa+)/sr
+
+
+야외
+	야외/ncn
+
+전시장
+	전시장/ncr
+
+:
+	:/sp
+
+에너지
+	에너지/ncn
+
+파크,
+	파크/ncn+,/sp
+
+수산체험장(원야어버)
+	수산체험장(원야어버)/ncn
+
+:
+	:/sp
+
+09:00~20:00(19:30까지
+	09:00~20:00(19:30까지/ncn
+
+입장)
+	입장/ncpa+)/sr
+
+
+수산체험장(연안어업,이동식
+	수산체험장(연안어업,이동식/ncn
+
+바다숲)
+	바다/ncn+숲/ncn+)/sr
+
+:
+	:/sp
+
+09:00~18:30(18:00까지
+	09:00~18:30(18:00까지/ncn
+
+입장)
+	입장/ncpa+)/sr
+
+
+여수
+	여수/ncn
+
+세계
+	세계/ncn
+
+박람회
+	박람회/ncn
+
+할인
+	할/nbu+이/jp+ㄴ/etm
+
+적용된
+	적용/ncpa+되/xsvn+ㄴ/etm
+
+입장료
+	입장료/ncn
+
+
+재입장시
+	재입장시/ncn
+
+
+박라회장
+	박라회장/ncn
+
+재입장을
+	재입장/ncn+을/jco
+
+원하는
+	원하/pvg+는/etm
+
+경우
+	경우/ncn
+
+퇴장시
+	퇴장/ncpa+시/ncn
+
+도우미의
+	도우미/ncn+의/jcm
+
+안내에
+	알/pvg+ㄴ/etm+내/nbn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+손등에
+	손등/ncn+에/jca
+
+도장을
+	도장/ncn+을/jco
+
+반드시
+	반드시/mag
+
+받으셔야
+	받/pvg+으시/ep+어야/ecs
+
+해요
+	하/pvg+어요/ef
+
+
+재입장시
+	재입장시/ncn
+
+손등에
+	손등/ncn+에/jca
+
+도장이
+	도장/ncn+이/jcc
+
+없으면
+	없/paa+으면/ecs
+
+재
+	재/pvg+어/ecx
+
+입장
+	입장/ncpa
+
+불가
+	불가/ncn
+
+
+(재입장의
+	(재입장/ncn+의/jcm
+
+경우
+	경우/ncn
+
+관람
+	관람/ncpa
+
+당일에
+	당일/ncn+에/jca
+
+한해
+	한/nnc+해/nbu
+
+1회만
+	1/nnc+회/nbu+만/jxc
+
+가능)
+	가능/ncn+)/sr
+
+
+여수엑스포
+	여수/ncn+엑스포/ncn
+
+할인정보
+	할인/ncpa+정보/ncn
+
+..
+	./sf+./sf
+
+
+전기간권
+	전/xp+기간/ncn+권/ncn
+
+50%
+	50/nnc+%/su
+
+인하
+	인하/pvg+어/ecx
+
+...
+	.../se
+
+
+28일부터
+	28/nnc+일/nbu+부터/jxc
+
+적용
+	적용/ncpa
+
+
+성인기준
+	성인/ncn+기준/ncpa
+
+20만원
+	20/nnc+만/nnc+원/nbu
+
+하던
+	하/pvg+던/etm
+
+전기간권이
+	전/xp+기간/ncn+권/ncn+이/jcc
+
+10만원으로
+	10/nnc+만/nnc+원/nbu+으로/jca
+
+인하
+	인하/ncpa
+
+
+청소년과
+	청소년/ncn+과/jcj
+
+어린이
+	어린이/ncn
+
+경로권도
+	경로/ncn+권/ncn+도/jxc
+
+7만5천원에서
+	7/nnc+만/nnc+5/nnc+천/nnc+원/nbu+에서/jca
+
+5만원으로
+	5/nnc+만/nnc+원/nbu+으로/jca
+
+인하
+	인하/ncpa
+
+
+오후권
+	오후/ncn+권/ncn
+
+28일부터
+	28/nnc+일/nbu+부터/jxc
+
+적용
+	적용/ncpa
+
+
+오후권
+	오후/ncn+권/ncn
+
+성인
+	성/ncn+이/jp+ㄴ/etm
+
+2만원
+	2/nnc+만/nnc+원/nbu
+
+.
+	./sf
+
+
+어린이
+	어린이/ncn
+
+.
+	./sf
+
+
+청소년,대학생
+	청소년/ncn+,/sp+대학생/ncn
+
+.
+	./sf
+
+
+65세
+	65/nnc+세/nnc
+
+이상은
+	이상/ncn+은/jxc
+
+7천원이랍니다
+	7/nnc+천/nnc+원/nbu+이/jp+랍니다/ef
+
+
+오후권
+	오후/ncn+권/ncn
+
+소지자는
+	소지자/ncn+는/jxc
+
+오후
+	오후/ncn
+
+1시
+	1/nnc+시/nbu
+
+이후에
+	이후/ncn+에/jca
+
+입장이
+	입장/ncpa+이/jcc
+
+가능하다고
+	가능/ncps+하/xsms+다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+야간권
+	야간/ncn+권/ncn
+
+가격인하
+	가격인하/ncpa
+
+25일부터
+	25/nnc+일/nbu+부터/jca
+
+
+성인
+	성/ncn+이/jp+ㄴ/etm
+
+1만6천원
+	1/nnc+만/nnc+6/nnc+천/nnc+원/nbu
+
+에서
+	에/pvg+어서/ecs
+
+1만원으로
+	1/nnc+만/nnc+원/nbu+으로/jca
+
+인하
+	인하/ncpa
+
+
+학생
+	학생/ncn
+
+.
+	./sf
+
+
+장애인
+	장애/ncn+이/jp+ㄴ/etm
+
+경로
+	경/ncn+로/jca
+
+야간권도
+	야간/ncn+권/ncn+도/jxc
+
+5천원에
+	5/nnc+천/nnc+원/nbu+에/jca
+
+판매한다고
+	판매/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+야간권은
+	야간/ncn+권/ncn+은/jxc
+
+오후
+	오후/ncn
+
+4시30분부터
+	4시30분부터/ncn
+
+8시까지
+	8/nnc+시/nbu+까지/jxc
+
+판매하고
+	판매/ncpa+하고/jct
+
+5시부터
+	5/nnc+시/nbu+부터/jxc
+
+입장이
+	입장/ncpa+이/jcc
+
+가능하다고
+	가능/ncps+하/xsms+다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+야간
+	야간/ncn
+
+입장권은
+	입장권/ncn+은/jxc
+
+예매가
+	예매/ncpa+가/jcc
+
+불가능하고
+	불가능/ncps+하고/jct
+
+현장
+	현장/ncn
+
+구입만
+	구입/ncpa+만/jxc
+
+가능
+	가능/ncn
+
+
+성인4인권
+	성인4인권/ncn
+
+발매
+	발매/ncpa
+
+28일부터
+	28/nnc+일/nbu+부터/jca
+
+
+개별입장에
+	개별/ncn+입장/ncpa+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+..
+	./sf+./sf
+
+
+10%인하된
+	10%인하된/ncn
+
+12만원에
+	12/nnc+만/nnc+원/nbu+에/jca
+
+판매한다고
+	판매/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+하네요
+	하/pvg+네요/ef
+
+
+여수박물과
+	여수/ncn+박물/ncn+과/jcj
+
+사전
+	사전/ncn
+
+예약제도
+	예약제/ncn+도/jxc
+
+부활
+	부활/ncpa
+
+
+예약
+	예약/ncpa
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+전시관은
+	전시관/ncn+은/jxc
+
+아쿠아리움,
+	아쿠아리움,/ncn
+
+대우조선애양로봇관,
+	대우조선애양로봇관,/ncn
+
+주제관,
+	주제/ncn+관/ncn+,/sp
+
+한국관,
+	한국관,/ncn
+
+기후환경관
+	기후/ncn+환경/ncn+관/ncn
+
+.
+	./sf
+
+
+해양산업기술관,
+	해양산업/ncn+기술/ncn+관/ncn+,/sp
+
+
+해양문명도시관,
+	해양/ncn+문명/ncn+도시/ncn+관/ncn+,/sp
+
+입체영상
+	입체영상/ncn
+
+아쿠아리움이라고
+	아쿠아리움/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+참고하세요
+	참고/ncpa+하세/ncpa+요/ncn
+
+
+예약제
+	예약제/ncn
+
+운영실시
+	운영/ncpa+실시/ncpa
+
+
+예약
+	예약/ncpa
+
+대상
+	대상/ncn
+
+:
+	:/sp
+
+박람
+	박람/ncn
+
+회장
+	회장/ncr
+
+입장권을
+	입장권/ncn+을/jco
+
+소지하고
+	소/ncn+이/jp+지/ef+하고/jcr
+
+계신
+	계시/paa+ㄴ/etm
+
+분
+	분/nbu
+
+또는
+	또는/maj
+
+입장권을
+	입장권/ncn+을/jco
+
+예매
+	예매/ncpa
+
+하신분
+	하/pvg+시/ep+ㄴ/etm+분/nbn
+
+
+2
+	2/nnc
+
+운영시간
+	운영/ncpa+시간/ncn
+
+:
+	:/sp
+
+13:00~20:00(7시간)
+	13:00~20:00/ncn+(/sl+7/nnc+시간/nbu+)/sr
+
+
+운영비율
+	운영비/ncn+율/ncn
+
+:
+	:/sp
+
+전시관
+	전시관/ncn
+
+수용인원의
+	수용/ncpa+인원/ncn+의/jcm
+
+30%
+	30/nnc+%/su
+
+(나머지
+	(/sl+나머지/ncn
+
+70%는
+	70/nnc+%/su+는/jxc
+
+선착순
+	선착/ncn+순/ncn
+
+자유
+	자유/ncn
+
+관람)
+	관람/ncpa+)/sr
+
+
+예약횟수
+	예약/ncpa+횟수/ncn
+
+:
+	:/sp
+
+1일
+	1/nnc+일/nbu
+
+2개관
+	2개관/ncn
+
+예약
+	예약/ncpa
+
+가능
+	가능/ncn
+
+
+예약
+	예약/ncpa
+
+가능일자
+	가능/ncn+이/jp+ㄹ/etm+자/nbn
+
+:
+	:/sp
+
+관람
+	관람/ncpa
+
+희망일
+	희망/ncn+이/jp+ㄹ/etm
+
+2주전부터
+	2/nnc+주/nbu+전/xsnx+부터/jxc
+
+가능(매일
+	가능(매/ncn+이/jp+ㄹ/etm
+
+0시
+	0/nnc+시/nbu
+
+기준)
+	기준/ncpa+)/sr
+
+
+사전예약은
+	사전/ncn+예약/ncpa+은/jxc
+
+인터넷으로만
+	인터넷/ncn+으로/jca+만/jxc
+
+가능하다고
+	가능/ncps+하/xsms+다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+여수엑스포
+	여수/ncn+엑스포/ncn
+
+추천관람코스
+	추천/ncpa+관람/ncpa+코스/ncn
+
+
+어린이
+	어린이/ncn
+
+.
+	./sf
+
+
+가족
+	가족/ncn
+
+
+대우조선해양로봇관
+	대우/ncn+조선/ncpa+해양/ncn+로봇/ncn+관/ncn
+
+
+73대의
+	73/nnc+대/nbu+의/jcm
+
+로봇을
+	로봇/ncn+을/jco
+
+한꺼번에
+	한꺼번에/mag
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+전시관이라고
+	전시관/ncn+이/jp+라/ef+고/jcr
+
+해요
+	하/pvg+어요/ef
+
+
+댄스로봇
+	댄스/ncn+로봇/ncn
+
+나오
+	나/npp+이/jp+오/ef
+
+와
+	오/pvg+아/ecx
+
+립싱크
+	립싱크/ncn
+
+로봇
+	로봇/ncn
+
+네로
+	네/npp+로/jca
+
+등
+	등/nbu
+
+현재
+	현재/mag
+
+개발된
+	개발/ncpa+되/xsvn+ㄴ/etm
+
+첨단
+	첨단/ncn
+
+로봇들을
+	로봇/ncn+들/ncn+을/jco
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있다고
+	있/px+다/ef+고/jcr
+
+해요
+	하/pvg+어요/ef
+
+
+로봇
+	로봇/ncn
+
+축구도
+	축구/ncn+도/jxc
+
+불수
+	불/pvg+ㄹ/etm+수/nbn
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+청소년
+	청소년/ncn
+
+.
+	./sf
+
+
+가족
+	가족/ncn
+
+
+기후
+	기후/ncn
+
+환경관
+	환경/ncn+관/ncn
+
+
+기후
+	기후/ncn
+
+환경관은
+	환경/ncn+관/ncn+은/jxc
+
+머리
+	머리/ncn
+
+끝이
+	끝/ncn+이/jcc
+
+쭈뼛
+	쭈뼛/ncn
+
+서는
+	서/pvg+는/etm
+
+추위를
+	추위/ncn+를/jco
+
+경험할
+	경험/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+놀라운곳이라고
+	놀라운곳/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+남극의
+	남극/ncn+의/jcm
+
+눈보라를
+	눈보라/ncn+를/jco
+
+온몸으로
+	온몸/ncn+으로/jca
+
+체험할수
+	체험/ncpa+하/xsva+ㄹ/etm+수/nbn
+
+있게
+	있/px+게/ecs
+
+얼음
+	얼음/ncn
+
+터널에
+	터널/ncn+에/jca
+
+눈보라가
+	눈보라/ncn+가/jcs
+
+몰아친다고
+	몰아치/pvg+ㄴ다/ef+고/jcr
+
+해요
+	하/pvg+어요/ef
+
+
+얼음
+	얼음/ncn
+
+벽
+	벽/ncn
+
+스크린
+	스크린/ncn
+
+위로
+	위/ncn+로/jca
+
+위태롭게
+	위태/ncps+롭/xsmn+게/ecs
+
+뛰노는
+	뛰놀/pvg+는/etm
+
+븍극곰
+	븍극곰/ncn
+
+모자가
+	모자/ncn+가/jcs
+
+나타나고
+	나타나/pvg+고/ecc
+
+잘놀던
+	잘놀던/ncn
+
+북극
+	북극/ncn
+
+곰
+	곰/ncn
+
+모자가
+	모자/ncn+가/jcs
+
+빙하가
+	빙하/ncn+가/jcs
+
+갈라지면서
+	가르/pvg+아/ecx+지/px+면서/ecc
+
+바다로
+	바다/ncn+로/jca
+
+빠지는
+	빠지/pvg+는/etm
+
+장면
+	장면/ncn
+
+
+얼음기둥을
+	얼음/ncn+기둥/ncn+을/jco
+
+직접
+	직접/mag
+
+만져볼수
+	만지/pvg+어/ecx+보/px+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+곳.
+	곳/ncn+./sf
+
+.
+	./sf
+
+
+온도가
+	온도/ncn+가/jcs
+
+영하10도라는걸
+	영하10도라는걸/ncn
+
+실감할
+	실감/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는곳
+	있는곳/ncn
+
+바로
+	바로/mag
+
+기후
+	기후/ncn
+
+환경관이랍니다
+	환경/ncn+관/ncn+이/jp+랍니다/ef
+
+
+기후
+	기후/ncn
+
+환경관을
+	환경/ncn+관/ncn+을/jco
+
+가실
+	가/px+시/ep+ㄹ/etm
+
+경우
+	경우/ncn
+
+얇은
+	얇/paa+은/etm
+
+가디건
+	가디건/ncn
+
+챙겨
+	챙기/pvg+어/ecx
+
+가져야
+	가/pvg+아/ecx+지/px+어야/ecs
+
+해요
+	하/pvg+어요/ef
+
+
+아쿠아리움
+	아쿠아리움/ncn
+
+
+우리나라에서
+	우리나라/ncn+에서/jca
+
+처음
+	처음/mag
+
+선보이는
+	선보이/pvg+는/etm
+
+세계적인
+	세계/ncn+적/ncn+이/jp+ㄴ/etm
+
+희귀종
+	희귀종/ncn
+
+러시아
+	러시아/ncn
+
+흰고래와
+	흰고래/ncn+와/jcj
+
+바이칼
+	바이칼/ncn
+
+물범을
+	물범/ncn+을/jco
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+엑스폰
+	엑스폰/ncn
+
+기간에만
+	기간/ncn+에/jca+만/jxc
+
+운영하는
+	운영/ncpa+하/xsva+는/etm
+
+다른
+	다른/mma
+
+전시관과
+	전시관/ncn+과/jcj
+
+달이
+	달/nbu+이/jcc
+
+..
+	./sf+./sf
+
+
+아쿠아리움은
+	아쿠아리움/ncn+은/jxc
+
+영구
+	영구/ncn
+
+운영될
+	운영/ncpa+되/xsvn+ㄹ/etm
+
+예정
+	예정/ncn
+
+...
+	.../se
+
+
+사람이
+	사람/ncn+이/jcc
+
+많을
+	많/paa+을/etm
+
+경우는
+	경우/ncn+는/jxc
+
+다른
+	다르/paa+ㄴ/etm
+
+전시관을
+	전시관/ncn+을/jco
+
+우선적으로
+	우선/ncpa+적/ncn+으로/jca
+
+보는것을
+	보/px+는/etm+것/nbn+을/jco
+
+권장
+	권장/ncpa
+
+..
+	./sf+./sf
+
+
+연인
+	연인/ncn
+
+
+스카이카워
+	스카이카워/ncn
+
+
+사방이
+	사방/ncn+이/jcc
+
+유리로
+	유리/ncn+로/jca
+
+된
+	되/pvg+ㄴ/etm
+
+엘리베이터를
+	엘리베이터/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+스카이타워
+	스카이/ncn+타워/ncn
+
+전망대
+	전망대/ncn
+
+위에
+	위/ncn+에/jca
+
+올라서면
+	올라서/pvg+면/ecs
+
+바다와
+	바다/ncn+와/jcj
+
+박람회장이
+	박람회/ncn+장/ncn+이/jcc
+
+한
+	하/pvg+ㄴ/etm
+
+눈에
+	눈/ncn+에/jca
+
+들어
+	들/pvg+어/ecx
+
+온다고
+	오/px+ㄴ다/ef+고/jcr
+
+해요
+	하/pvg+어요/ef
+
+
+전망대의
+	전망대/ncn+의/jcm
+
+바닥이
+	바닥/ncn+이/jcc
+
+유리라고
+	유리/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+유리
+	유리/ncn
+
+바닥을
+	바닥/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+아래를
+	아래/ncn+를/jco
+
+내려다보는
+	내려다보/pvg+는/etm
+
+묘비
+	묘비/ncn
+
+..
+	./sf+./sf
+
+
+정말
+	정말/mag
+
+스릴
+	스릴/ncn
+
+있을
+	있/px+을/etm
+
+것
+	것/nbn
+
+같지않나요
+	같/paa+지/ecx+않/px+나/ef+요/jxf
+
+?
+	?/sf
+
+
+스카이타워가
+	스카이/ncn+타워/ncn+가/jcs
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+파이크오르간
+	파이크오르간/ncn
+
+연주까지
+	연주/ncpa+까지/jxc
+
+들을
+	들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+기회
+	기회/ncn
+
+..
+	./sf+./sf
+
+
+까지
+	까/pvg+지/ecs
+
+
+한국관
+	한국관/ncn
+
+
+3면의
+	3/nnc+면/nbu+의/jcm
+
+벽면
+	벽면/ncn
+
+스트린에서
+	스트린/ncn+에서/jca
+
+펼쳐진
+	펼치/pvg+어/ecx+지/px+ㄴ/etm
+
+다도해와
+	다도해/ncn+와/jcj
+
+염전,
+	염전/ncpa+,/sp
+
+갯벌,
+	갯벌/ncn+,/sp
+
+반구대암각화,
+	반구대암각화,/ncn
+
+장보고
+	장보/ncn+이/jp+고/ecc
+
+등
+	등/nbu
+
+한국의
+	한국의/ncn
+
+바다
+	바다/ncn
+
+풍경과
+	풍경/ncn+과/jcj
+
+역사를보여준다고
+	역사를보여준다/ncn+이/jp+고/ecc
+
+해요
+	하/pvg+어요/ef
+
+
+강강술래하는장면에서
+	강강술래하는장면/ncn+에서/jca
+
+실제
+	실제/ncn
+
+한복을
+	한복/ncn+을/jco
+
+입은
+	입/ncn+은/jxc
+
+무용단이
+	무용단/ncn+이/jcc
+
+등장한다고
+	등장/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+관람객들가
+	관람객/ncn+들/ncn+가/jcs
+
+함께하는
+	함께하/pvg+는/etm
+
+퍼포먼스래요
+	퍼포먼스/ncn+이/jp+래/ef+요/jxf
+
+...
+	.../se
+
+
+빅오
+	빅오/ncn
+
+
+우후
+	우후/ncn
+
+2시~3시
+	2/nnc+시/nbu+~/sd+3/nnc+시/nbu
+
+10분
+	10/nnc+분/nbu
+
+사이에
+	사이/ncn+에/jca
+
+열리는
+	열리/pvg+는/etm
+
+주간쇼
+	주간/ncn+쇼/ncpa
+
+
+매일
+	매일/mag
+
+반
+	반/ncn
+
+9시
+	9/nnc+시/nbu
+
+30분에서
+	30/nnc+분/nbu+에서/jca
+
+10시
+	10/nnc+시/nbu
+
+사이
+	사이/ncn
+
+야간쇼
+	야간/ncn+쇼/ncpa
+
+
+우리아들
+	우리/ncn+아들/ncn
+
+현장체험
+	현장체험/ncpa
+
+학습
+	학습/ncpa
+
+프로그램에도
+	프로그램/ncn+에/jca+도/jxc
+
+있네요
+	있/px+네/ef+요/jxf
+
+아들이
+	아들/ncn+이/jcc
+
+엄청
+	엄청/mag
+
+기대하고
+	기대/pvg+어/ecx+하/px+어/ef+고/jcr
+
+있어요
+	있/paa+어요/ef
+
+
+여수
+	여수/ncn
+
+엑스포Big4
+	엑스포Big4/ncn

@@ -1,0 +1,750 @@
+아산시
+	아산시/ncn
+
+영인면
+	영인면/ncn
+
+상성리
+	상성리/ncn
+
+영인산
+	영인산/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+21일
+	21/nnc+일/nbu
+
+아내한테
+	아내/ncn+한테/jca
+
+한바퀴
+	한/nnc+바퀴/nbu
+
+돌고
+	돌/pvg+고/ecc
+
+와야겠다고
+	오/px+아/ep+다/ef+고/jcr
+
+하니~
+	하/pvg+니/ef+~/sd
+
+
+아내왈~며칠이나
+	아내왈~며칠/ncn+이/jp+나/ef
+
+...??
+	.../se+?/sf+?/sf
+
+
+내가
+	나/npp+가/jcs
+
+2박3일
+	2박3/ncn+이/jp+ㄹ/etm
+
+하니
+	하/pvg+니/ecs
+
+반찬하고
+	반찬/ncn+하고/jct
+
+먹을거리를
+	먹/pvg+을/etm+거리/nbn+를/jco
+
+싸준다
+	쓰/pvg+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+혼자다니니까
+	혼자다니/ncn+이/jp+니까/ecs
+
+조심해서
+	조심/ncpa+하/xsva+어서/ecs
+
+다니라고
+	다니/pvg+라/ef+고/jcr
+
+잔소리를
+	잔소리/ncpa+를/jco
+
+하면서
+	하/pvg+면서/ecc
+
+...
+	.../se
+
+
+고마운사람~
+	고마운사람/ncn+~/sd
+
+
+처음
+	처음/mag
+
+목적지는
+	목적지/ncn+는/jxc
+
+영인산이다
+	영인산/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+집에서
+	집/ncn+에서/jca
+
+한시간
+	한/nnc+시간/nbu
+
+반만에
+	반/ncn+만에/jca
+
+도착한이곳은
+	도착한이곳/ncn+은/jxc
+
+영인산
+	영인산/ncn
+
+허공도량이다
+	허공/ncn+도량/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+관리하는
+	관리/ncpa+하/xsva+는/etm
+
+노보살님이
+	노보살님/ncn+이/jcc
+
+계시고
+	계시/paa+고/ecc
+
+비록
+	비록/mag
+
+움막이지만
+	움막/ncn+이/jp+지만/ecs
+
+거처도
+	거처/ncn+도/jxc
+
+많이있다
+	많이있다/ncn
+
+.
+	./sf
+
+
+이번이
+	이/nnc+번/nbu+이/jcc
+
+세번째
+	세/nnc+번/nbu+째/xsnu
+
+방문이지만
+	방문/ncpa+이/jp+지만/ecs
+
+예전보다
+	예전/ncn+보다/jca
+
+훨씬
+	훨씬/mag
+
+깨끗해졌고
+	깨끗해지/pvg+었/ep+고/ecc
+
+밝아진
+	밝/paa+아/ecx+지/px+ㄴ/etm
+
+느낌이다
+	느낌/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-영인산과
+	(위)-영인산/ncn+과/jcj
+
+기도터
+	기도/ncn+터/ncn
+
+.
+	./sf
+
+
+뒤가
+	뒤/ncn+가/jcs
+
+영인산
+	영인산/ncn
+
+정상이고
+	정상/ncn+이/jp+고/ecc
+
+중간쯤에
+	중간쯤/ncn+에/jca
+
+기도터가있다
+	기도터가있다/ncn
+
+.
+	./sf
+
+
+(위)-기도터가는길
+	(위)-기도터가는길/ncn
+
+.
+	./sf
+
+
+주차하고
+	주차/ncn+하고/jct
+
+앞에보이는
+	앞에보/ncn+이/jp+는/etm
+
+안내문옆
+	안내문/ncn+옆/ncn
+
+좌측으로
+	좌측/ncn+으로/jca
+
+5분쯤
+	5/nnc+분/nbu+쯤/xsnx
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+기도터가
+	기도/ncn+터/ncn+가/jcs
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+(위)-기도터
+	(/sl+위/ncn+)/sr+-/sd+기도/ncn+터/ncn
+
+가는길이
+	가는길/ncn+이/jcc
+
+정겹다
+	정겹/paa+다/ef
+
+.
+	./sf
+
+
+(위)-기도터가
+	(/sl+위/ncn+)/sr+-/sd+기도/ncn+터/ncn+가/jcs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+(위)-기도터
+	(/sl+위/ncn+)/sr+-/sd+기도/ncn+터/ncn
+
+.
+	./sf
+
+
+(위)-기도터
+	(/sl+위/ncn+)/sr+-/sd+기도/ncn+터/ncn
+
+.
+	./sf
+
+
+카메라에
+	카메라/ncn+에/jca
+
+전체를
+	전체/ncn+를/jco
+
+담을수가
+	담/pvg+을/etm+수/nbn+가/jcc
+
+없네요
+	없/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+(위)-왼쪽이
+	(/sl+위/ncn+)/sr+-/sd+왼쪽/ncn+이/jcc
+
+산신이고
+	산신/ncn+이/jp+고/ecc
+
+오른쪽이
+	오르/pvg+ㄴ/etm+쪽/nbn+이/jcc
+
+용궁이다
+	용궁/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-용궁기도터
+	(/sl+위/ncn+)/sr+-/sd+용궁/ncn+기도/ncn+터/ncn
+
+.
+	./sf
+
+
+(위)-용궁기도터
+	(/sl+위/ncn+)/sr+-/sd+용궁/ncn+기도/ncn+터/ncn
+
+.
+	./sf
+
+
+앞에
+	앞/ncn+에/jca
+
+앉아서
+	앉/pvg+아/ecx
+
+흐르는
+	흐르/pvg+는/etm
+
+물소리를
+	물소리/ncn+를/jco
+
+듣고있으니
+	듣/pvg+고/ecx+있/px+으니/ecs
+
+오늘
+	오늘/ncn
+
+내려가기가
+	내리/pvg+어/ecx+가/px+기/etn+가/jcs
+
+싫으네~
+	싫으/ncn+네/jcm+~/sd
+
+
+(위)-기도터
+	(/sl+위/ncn+)/sr+-/sd+기도/ncn+터/ncn
+
+.
+	./sf
+
+
+여기는
+	여기/npd+는/jxc
+
+장기기도
+	장기/ncn+이/jp+기/etn+도/jxc
+
+들어오신
+	들/pvg+어/ecx+오/px+시/ep+ㄴ/etm
+
+제자님이
+	제자/ncn+님/ncn+이/jcc
+
+기도하고
+	기도/ncn+하고/jct
+
+계신다
+	계시/paa+ㄴ다/ef
+
+.
+	./sf
+
+
+요사채앞에
+	요사/ncpa+채/ncn+앞/xsncc+에/jca
+
+기도터가
+	기도/ncn+터/ncn+가/jcs
+
+있어서
+	있/px+어서/ecs
+
+기도하기
+	기도/ncn+하기/ncn
+
+좋겠다
+	좋/paa+겠/ep+다/ef
+
+.
+	./sf
+
+
+(위)-기도터
+	(/sl+위/ncn+)/sr+-/sd+기도/ncn+터/ncn
+
+.
+	./sf
+
+
+여기도
+	여기/npd+도/jxc
+
+따로
+	따로/mag
+
+떨어져있는
+	떨어지/pvg+어/ecx+있/px+는/etm
+
+기도터다
+	기도/ncn+터/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-기도터
+	(/sl+위/ncn+)/sr+-/sd+기도/ncn+터/ncn
+
+.
+	./sf
+
+
+비탈진
+	비탈지/paa+ㄴ/etm
+
+경사면을
+	경사면/ncn+을/jco
+
+이용해서
+	이용/ncpa+하/xsva+어서/ecs
+
+층층이
+	층층/ncn+이/jcc
+
+독립된
+	독립/ncpa+되/xsvn+ㄴ/etm
+
+기도터를
+	기도/ncn+터/ncn+를/jco
+
+만들었는데
+	만들/pvg+었/ep+는데/ecs
+
+조용히
+	조용히/mag
+
+기도하기좋다
+	기도하기좋다/ncn
+
+.
+	./sf
+
+
+(위)-기도터
+	(/sl+위/ncn+)/sr+-/sd+기도/ncn+터/ncn
+
+.
+	./sf
+
+
+(위)-선황당
+	(위)-선황당/ncn
+
+.
+	./sf
+
+
+(위)-선황에
+	(위)-선황/ncn+에/jca
+
+제자님
+	제자/ncn+님/ncn
+
+.
+	./sf
+
+
+마침
+	마침/mag
+
+올라가는데
+	오르/pvg+아/ecx+가/px+ㄴ데/ecs
+
+천안에서
+	천/nnc+안/xsnx+에서/jca
+
+오셨다는
+	오/px+셨/ep+다/ef+는/etm
+
+제자님이
+	제자/ncn+님/ncn+이/jcc
+
+선황에서
+	선황/ncn+에서/jca
+
+기도하시고
+	기도/ncn+하시/ncn+이/jp+고/ecc
+
+베를가르고
+	베를가르/ncn+이/jp+고/ecc
+
+계신다
+	계시/paa+ㄴ다/ef
+
+.
+	./sf
+
+
+인기척
+	인기척/ncn
+
+내기가
+	내/npp+이/jp+기/etn+가/jcs
+
+죄송해서
+	죄송/ncn+해서/ncn
+
+나무뒤에
+	나무/ncn+뒤/ncn+에/jca
+
+숨어서
+	숨/pvg+어서/ecs
+
+조용히
+	조용히/mag
+
+끝나기를
+	끝나/pvg+기/etn+를/jco
+
+기다렸다
+	기다리/pvg+었/ep+다/ef
+
+인사하고
+	인사/ncn+하고/jct
+
+올라갔다
+	오르/pvg+아/ecx+가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+이곳은
+	이곳/npd+은/jxc
+
+영인면
+	영인면/ncn
+
+소재지에서
+	소재지/ncn+에서/jca
+
+차로5분
+	차로5분/ncn
+
+도보로5분
+	도보로5분/ncn
+
+10분정도면
+	10분정도/ncn+이/jp+면/ecs
+
+올라갈수
+	오르/pvg+아/ecx+가/px+ㄹ/etm+수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+차세울곳을
+	차세울곳/ncn+을/jco
+
+찾아서
+	찾/pvg+아/ecx
+
+주차하고
+	주차/ncn+하고/jct
+
+걸어서
+	걷/pvg+어서/ecs
+
+5분정도
+	5분정/ncn+도/jxc
+
+걸어가면
+	걷/pvg+어/ecx+가/px+면/ecs
+
+기도터가
+	기도/ncn+터/ncn+가/jcs
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+예전에
+	예전/ncn+에/jca
+
+갈때마다
+	가/px+ㄹ/etm+때/nbn+마다/jxc
+
+당주님을
+	당주/ncn+님/ncn+을/jco
+
+못뵈었다고
+	못뵈/ncn+이/jp+었/ep+다/ef+고/jcr
+
+인사하니
+	인사/ncpa+하/xsva+니/ecs
+
+그땐
+	그땐/ncn
+
+집안에
+	집안/ncn+에/jca
+
+일이있어서
+	일이있어서/ncn
+
+비웠다고
+	비우/pvg+었/ep+다/ef+고/jcr
+
+...
+	.../se
+
+
+당주님이
+	당주/ncn+님/ncn+이/jcc
+
+계시니
+	계시/paa+니/ecs
+
+도량이
+	도량/ncn+이/jcc
+
+깨끗하고
+	깨끗/ncps+하고/jct
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+눈앞으로
+	눈앞/ncn+으로/jca
+
+맑은물이
+	맑은물/ncn+이/jcc
+
+소리내어
+	소리/ncn+내/ncn+이/jp+어/ecs
+
+흐르니
+	흐르/pvg+니/ecs
+
+내려가기도
+	내리/pvg+어/ecx+가/px+기/etn+도/jxc
+
+싫고~
+	싫/paa+고/ecc+~/sd
+
+
+그저
+	그저/mag
+
+조용하게
+	조용/ncps+하/xsms+게/ecs
+
+며칠
+	며칠/ncn
+
+산기도를
+	산기도/ncn+를/jco
+
+할요량이라면
+	할요량이라/ncn+이/jp+면/ecs
+
+찾아가보시면
+	찾/pvg+아/ecx+가/px+아/ecx+보/px+시/ep+면/ecs
+
+좋을것
+	좋/paa+을/etm+것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+당주님이
+	당주/ncn+님/ncn+이/jcc
+
+않계실때도
+	않계실때/ncn+도/jxc
+
+있으니
+	있/px+으니/ecs
+
+미리
+	미리/mag
+
+연락을
+	연락/ncpa+을/jco
+
+하고가시면
+	하/pvg+고/ecx+가/px+시/ep+면/ecs
+
+좋겠습니다
+	좋/paa+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+연락처는
+	연락처/ncn+는/jxc
+
+꼬리글이나
+	꼬리/ncn+글/ncn+이나/jcj
+
+쪽지나
+	쪽지/ncn+나/jcj
+
+안부계시판에
+	안부/ncpa+계시/ncn+판/ncn+에/jca
+
+글을올리시면
+	글을올리시/ncn+이/jp+면/ecs
+
+알려드리겠습니다
+	알리/pvg+어/ecx+드리/px+겠/ep+습니다/ef
+
+.
+	./sf

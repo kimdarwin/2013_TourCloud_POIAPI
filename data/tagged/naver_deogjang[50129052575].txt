@@ -1,0 +1,611 @@
+금주산[
+	금주산[/ncn
+
+]
+	]/sr
+
+
+위
+	위/ncn
+
+치:
+	치/nbu+:/sp
+
+경기도
+	경기/ncn+도/jxc
+
+포천시
+	포천시/ncn
+
+영중면에
+	영중면/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+나지막한
+	나지막/ncps+하/xsms+ㄴ/etm
+
+산
+	산/ncn
+
+
+금주산은
+	금주/ncn+산/ncn+은/jxc
+
+서울에서
+	서울/ncn+에서/jca
+
+약2시간
+	약2시간/ncn
+
+내외에
+	내외/ncn+에/jca
+
+있으면서
+	있/px+으면서/ecc
+
+산
+	사/pvg+ㄴ/etm
+
+높이568.
+	높이568./ncn
+
+1m로
+	1m/ncn+로/jca
+
+가족
+	가족/ncn
+
+등산하기에
+	등산/ncpa+하기/ncn+에/jca
+
+
+매우
+	매우/mag
+
+적당한
+	적당/ncps+하/xsms+ㄴ/etm
+
+산
+	사/pvg+ㄴ/etm
+
+이다
+	이/npd+이/jp+다/ef
+
+산행은
+	산행/ncn+은/jxc
+
+만세교나
+	만세/ncn+교/ncn+나/jcj
+
+금룡사
+	금룡사/ncn
+
+입구를
+	입구/ncn+를/jco
+
+기점으로
+	기점/ncn+으로/jca
+
+하게되는데
+	하/pvg+게/ecx+되/px+ㄴ데/ecs
+
+
+대중교통을
+	대중교통/ncn+을/jco
+
+이용할경우는
+	이용할경우/ncn+는/jxc
+
+만세교
+	만세/ncn+교/ncn
+
+승용차를
+	승용차/ncn+를/jco
+
+이용할경우
+	이용할경우/ncn
+
+금룡사주차장을
+	금룡사주차장/ncn+을/jco
+
+이용하는것이
+	이용/ncpa+하/xsva+는/etm+것/nbn+이/jcc
+
+
+편리합니다
+	편리/ncps+하/xsms+ㅂ니다/ef
+
+
+[매달두째
+	[매달두째/ncn
+
+일요일은
+	일요일/ncn+은/jxc
+
+옥수산악회
+	옥수/ncn+산악회/ncn
+
+정기산행일]
+	정기/ncn+산행/ncn+일/ncn+]/sr
+
+
+금주산은
+	금주/ncn+산/ncn+은/jxc
+
+산길이
+	산길/ncn+이/jcc
+
+비교적
+	비교/ncpa+적/ncn
+
+짧아
+	짧/paa+아/ecx
+
+초보자들에게
+	초보자/ncn+들/ncn+에게/jca
+
+비교적
+	비교/ncpa+적/ncn
+
+각광을
+	각광/ncn+을/jco
+
+받는
+	받/pvg+는/etm
+
+산이다
+	산/ncn+이/jp+다/ef
+
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+다른
+	다른/mma
+
+산에비해
+	산에비해/ncn
+
+그
+	그/mmd
+
+즐거움이
+	즐거움/ncn+이/jcc
+
+덜한건아니다
+	덜한건아니다/ncn
+
+정상에
+	정상/ncn+에/jca
+
+서면
+	서/pvg+면/ecs
+
+주위의
+	주위/ncn+의/jcm
+
+산들이
+	사/pvg+ㄴ/etm+들/nbn+이/jcc
+
+시야에
+	시야/ncn+에/jca
+
+다
+	다/mag
+
+
+들어오고
+	들/pvg+어/ecx+오/px+고/ecc
+
+산중턱에
+	산중/ncn+턱/ncn+에/jca
+
+금룡사라는
+	금룡사라/ncn+는/jxc
+
+절과
+	절/ncn+과/jct
+
+커다란
+	커다랗/paa+은/etm
+
+미륵불상이
+	미륵불상/ncn+이/jcc
+
+자리하고있어
+	자리하고있어/ncn
+
+문화적
+	문화/ncn+적/ncn
+
+가치도
+	가치/ncn+도/jxc
+
+높은
+	높/paa+은/etm
+
+산이다
+	산/ncn+이/jp+다/ef
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2011/12/15/916/03100323417353FE9FC3293A73757353AC5_deogjang_PC_DEFAULT_logo.
+	net/blogucc28/2011/12/15/916/03100323417353FE9FC3293A73757353AC5_deogjang_PC_DEFAULT_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'153.
+	'/sr+153./nnc
+
+169';
+	169/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'8E1214624BA4DA6E7314E3FF6B754702F274';
+	'8E1214624BA4DA6E7314E3FF6B754702F274/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V129ec528690c0fe8f72f6adfd10800810e81c7d5550bf05719507ebd1105bd7066626adfd10800810e81';
+	'V129ec528690c0fe8f72f6adfd10800810e81c7d5550bf05719507ebd1105bd7066626adfd10800810e81/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_06083
+	ugcPlayer_06083/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_06083'
+	VideoInfraUGCPlayer('ugcPlayer_06083'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_06083
+	ugcPlayer_06083/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+매달두째
+	매달두째/ncn
+
+일요일은
+	일요일/ncn+은/jxc
+
+옥수산악회
+	옥수/ncn+산악회/ncn
+
+회원님들이
+	회원/ncn+님/ncn+들/xsncc+이/jcc
+
+모여
+	모이/pvg+어/ecx
+
+산행을
+	산행/ncn+을/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+날
+	날/ncn
+
+입니다
+	입/pvg+니다/ef
+
+
+올
+	오/px+ㄹ/etm
+
+한해도
+	한/nnc+해/nbu+도/jxc
+
+무사히
+	무사히/mag
+
+보내게되어
+	보내/pvg+게/ecx+되/px+어/ecx
+
+신께
+	신/ncn+께/jca
+
+감사드릴뿐
+	감사드리/pvg+ㄹ/etm+뿐/nbn
+
+입니다
+	입/pvg+니다/ef
+
+
+회원여러분
+	회원여러분/ncn
+
+남은시간
+	남은시간/ncn
+
+모든일
+	모든/ncn+이/jp+ㄹ/etm
+
+성취하시고
+	성취/ncpa+하시/ncn+이/jp+고/ecc
+
+건강들하세요
+	건강들하/ncn+이/jp+세요/ef

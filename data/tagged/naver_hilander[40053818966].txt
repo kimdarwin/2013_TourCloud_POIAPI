@@ -1,0 +1,391 @@
+신사동
+	신사/ncr+동/ncn
+
+가로수길에
+	가로수/ncn+길/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+부첼라(Buccella)
+	부첼라(Buccella)/ncn
+
+.
+	./sf
+
+
+파리의
+	파리/ncn+의/jcm
+
+호텔
+	호텔/ncn
+
+프라자
+	프라/ncn+이/jp+자/ecc
+
+아테네,
+	아테네,/ncn
+
+호텔
+	호텔/ncn
+
+클리옹
+	클리옹/ncn
+
+출신의
+	출신/ncn+의/jcm
+
+파티쉐가운영해서
+	파티쉐가운영해/ncn+서/jca
+
+
+정통
+	정통/ncn
+
+프렌치
+	프렌치/ncn
+
+스타일
+	스타/ncn+이/jp+ㄹ/etm
+
+샌드위치를
+	샌드위치/ncn+를/jco
+
+맛볼수
+	맛보/pvg+ㄹ/etm+수/nbn
+
+있다는
+	있/px+다/ef+는/etm
+
+곳.
+	곳/ncn+./sf
+
+.
+	./sf
+
+
+여의도와
+	여의/ncn+도/ncn+와/jcj
+
+도곡동에도
+	도곡동/ncn+에/jca+도/jxc
+
+분점이
+	분점/ncpa+이/jcc
+
+생겼단다
+	생기/pvg+었/ep+단다/ef
+
+
+점심때
+	점심/ncn+때/ncn
+
+가면
+	가/px+면/ecs
+
+자리가
+	자리/ncn+가/jcs
+
+없어서
+	없/paa+어서/ecs
+
+줄서있을
+	줄서있/ncn+을/jco
+
+정도로
+	정도/ncn+로/jca
+
+붐빈다
+	붐비/paa+ㄴ다/ef
+
+
+이번엔
+	이/nnc+번/nbu+엔/jca
+
+저녁에
+	저녁/ncn+에/jca
+
+방문~
+	방문/ncpa+~/sd
+
+
+심플하고
+	심플하/ncn+이/jp+고/ecc
+
+아늑한
+	아늑/ncps+하/xsms+ㄴ/etm
+
+분위기
+	분위기/ncn
+
+
+흘러내리는
+	흐르/pvg+어/ecx+내리/px+는/etm
+
+촛농이
+	촛농/ncn+이/jcc
+
+인상적
+	인상/ncn+적/ncn
+
+
+샌드위치
+	샌드위치/ncn
+
+전문점답게
+	전문점/ncn+답/ncn+게/jca
+
+
+직접
+	직접/mag
+
+구운
+	굽/pvg+은/etm
+
+빵을
+	빵/ncn+을/jco
+
+내온다
+	내/pvg+어/ecx+오/px+ㄴ다/ef
+
+
+샐러드를
+	샐러드/ncn+를/jco
+
+시켜도
+	시키/pvg+어도/ecs
+
+
+역시
+	역시/mag
+
+기본으로
+	기본/ncn+으로/jca
+
+빵이
+	빵/ncn+이/jcc
+
+함께
+	함께/mag
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+
+이곳
+	이곳/npd
+
+빵맛은
+	빵맛/ncn+은/jxc
+
+이미
+	이미/mag
+
+유명하다
+	유명/ncps+하/xsms+다/ef
+
+
+정말
+	정말/mag
+
+쫄깃하고
+	쫄깃하/ncn+이/jp+고/ecc
+
+부드러운
+	부드럽/paa+은/etm
+
+맛
+	맛/ncn
+
+
+샌드위치의
+	샌드위치/ncn+의/jcm
+
+속도
+	속/ncn+도/jxc
+
+튼실
+	튼실/ncn
+
+
+빵이
+	빵/ncn+이/jcc
+
+딱딱한
+	딱딱하/paa+ㄴ/etm
+
+스타일이
+	스타일/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+
+부드러워
+	부드럽/paa+어/ecx
+
+내용물이
+	내용/ncn+물/ncn+이/jcc
+
+많아도
+	많/paa+아/ecs
+
+먹기에
+	먹/pvg+기/etn+에/jca
+
+편하다
+	편하/paa+다/ef
+
+
+일부러
+	일부러/mag
+
+저녁에
+	저녁/ncn+에/jca
+
+방문한
+	방문/ncpa+하/xsva+ㄴ/etm
+
+이유는
+	이유/ncn+는/jxc
+
+
+와인을
+	와인/ncn+을/jco
+
+마시기
+	말/px+시/ep+기/etn
+
+위해서
+	위하/pvg+어서/ecs
+
+..
+	./sf+./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+와인도
+	와인/ncn+도/jxc
+
+취급하기
+	취급/ncpa+하/xsva+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+
+저녁에는
+	저녁/ncn+에/jca+는/jxc
+
+편하게
+	편하/paa+게/ecs
+
+와인마시는
+	와인마시/ncn+는/jxc
+
+사람들,
+	사람들/ncn+,/sp
+
+커피마시는
+	커피마시/ncn+는/jxc
+
+사람들
+	사람들/ncn
+
+각양각색~
+	각양각색/ncn+~/sd
+
+
+지인이
+	지인/ncn+이/jcc
+
+가져오신
+	가/pvg+아/ecx+지/px+어/ecx+오/px+시/ep+ㄴ/etm
+
+와인
+	와인/ncn
+
+
+Auxey-Duresses
+	Auxey/f+-/sd+Duresses/f
+
+1er
+	1er/ncn
+
+Cru
+	Cru/f
+
+2003,
+	2003/nnc+,/sp
+
+Domaine
+	Domaine/f
+
+Roulot
+	Roulot/f
+
+
+cake
+	cake/f
+
+레미제라블
+	레미제라블/ncn
+
+
+샌드위치뿐만
+	샌드위치/ncn+뿐/jxc+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+케잌과
+	케잌/ncn+과/jcj
+
+타르트들이있고
+	타르트들이있/ncn+고/jcj
+
+
+한쪽에는
+	하/pvg+ㄴ/etm+쪽/nbn+에/jca+는/jxc
+
+베이글이나
+	베이글/ncn+이나/jcj
+
+바게뜨도
+	바게뜨/ncn+도/jxc
+
+판매하고
+	판매/ncpa+하고/jct
+
+있다
+	있/paa+다/ef
+
+
+cake
+	cake/f
+
+몽블랑
+	몽블/ncn+랑/jca
+
+
+부첼라
+	부첼라/ncn
+
+(Buccella)
+	(/sl+Buccella/f+)/sr
+
+
+신사동
+	신사/ncr+동/ncn
+
+가로수길
+	가로수/ncn+길/ncn
+
+
+02-517-7339
+	02/nnc+-517/nnc+-7339/nnc

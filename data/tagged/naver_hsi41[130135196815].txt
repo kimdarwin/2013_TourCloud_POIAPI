@@ -1,0 +1,221 @@
+어느
+	어느/mmd
+
+시골
+	시골/ncn
+
+할아버지가
+	할아버지/ncn+가/jcs
+
+직접
+	직접/mag
+
+농사를
+	농사/ncn+를/jco
+
+지어
+	지/nbn+이/jp+어/ecs
+
+
+수확한
+	수확/ncpa+하/xsva+ㄴ/etm
+
+고추를
+	고추/ncn+를/jco
+
+자루에
+	자루/ncn+에/jca
+
+가뜩
+	가뜩/mag
+
+담고
+	담/ncn+고/jcj
+
+
+서울에
+	서울/ncn+에/jca
+
+올라왔다
+	오르/pvg+아/ecx+오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+서울로
+	서울/ncn+로/jca
+
+시집
+	시집/ncn
+
+온
+	오/px+ㄴ/etm
+
+딸네
+	딸/ncn+네/jcm
+
+집에
+	집/ncn+에/jca
+
+김장
+	김장/ncpa
+
+때
+	때/ncn
+
+쓰라고
+	쓰/paa+라고/ecs
+
+
+고추를
+	고추/ncn+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+온
+	오/px+ㄴ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+기차에서
+	기차/ncn+에서/jca
+
+내린
+	내리/pvg+ㄴ/etm
+
+할아버지는
+	할아버지/ncn+는/jxc
+
+
+딸네
+	딸/ncn+네/jcm
+
+집으로
+	집/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+
+버스를
+	버스/ncn+를/jco
+
+탔다
+	트/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+할아버지가
+	할아버지/ncn+가/jcs
+
+버스에
+	버스/ncn+에/jca
+
+오르자
+	오르/pvg+자/ecc
+
+
+어느
+	어느/mmd
+
+아가씨가
+	아가씨/ncn+가/jcc
+
+
+할아버지에게
+	할아버지/ncn+에게/jca
+
+자리를
+	자리/ncn+를/jco
+
+양보하기
+	양보/ncpa+하/xsva+기/etn
+
+위해
+	위하/pvg+어/ecs
+
+
+자리에서
+	자리/ncn+에서/jca
+
+일어나려고
+	일어나/pvg+려고/ecs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+할아버지가
+	할아버지/ncn+가/jcs
+
+아가씨에게
+	아가씨/ncn+에게/jca
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+"아가씨,
+	"/sl+아가씨/ncn+,/sp
+
+일어날
+	일어나/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+까지는
+	끄/pvg+어/ecx+지/px+는/etm
+
+없고
+	없/paa+고/ecc
+
+다리만
+	다리/ncn+만/jxc
+
+좀
+	좀/mag
+
+
+벌려
+	벌리/pvg+어/ecx
+
+줘
+	주/px+어/ecx
+
+!
+	!/sf
+
+
+내가
+	나/npp+가/jcs
+
+고추를
+	고추/ncn+를/jco
+
+밀어
+	밀/pvg+어/ecx
+
+넣을
+	넣/pvg+을/etm
+
+테니까
+	테/ncn+이/jp+니까/ecs
+
+."
+	./sf+"/sl

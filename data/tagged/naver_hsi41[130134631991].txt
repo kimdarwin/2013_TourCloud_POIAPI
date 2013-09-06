@@ -1,0 +1,536 @@
+서울=뉴시스
+	서울=뉴시스/ncn
+
+이상택기자=지식경제부는
+	이상택기자=지식경제부/ncn+는/jxc
+
+오는
+	오/px+는/etm
+
+30일
+	30/nnc+일/nbu
+
+우체국
+	우체국/ncn
+
+체크카드를
+	체크/ncpa+카드/ncn+를/jco
+
+출시해
+	출시/ncpa+하/xsva+어/ecx
+
+알뜰주유소를
+	알뜰/ncps+주유소/ncn+를/jco
+
+이용하는
+	이용/ncpa+하/xsva+는/etm
+
+고객들의
+	고객/ncn+들/ncn+의/jcm
+
+혜택을
+	혜택/ncn+을/jco
+
+늘려주기로
+	늘리/pvg+어/ecx+주/px+기/etn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+리터당
+	리터/nbu+당/xsnu
+
+80원에서
+	80/nnc+원/nbu+에서/jca
+
+100원까지를
+	100/nnc+원/nbu+까지를/jco
+
+깎아줌으로서
+	깎/pvg+아/ecx+주/px+ㅁ/etn+으로서/jca
+
+피부에
+	피부/ncn+에/jca
+
+와닿는
+	와닿/ncn+는/jxc
+
+실질적
+	실질/ncn+적/ncn
+
+혜택을
+	혜택/ncn+을/jco
+
+확대시키겠다는
+	확대/ncpa+시키/xsva+겠/ep+다/ef+는/etm
+
+계획이다
+	계획/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+예를
+	예/ncn+를/jco
+
+들어
+	들/pvg+어/ecx
+
+마티즈를
+	마티즈/ncn+를/jco
+
+갖고
+	갖/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+운전자가
+	운전자/ncn+가/jcs
+
+한번에
+	한/nnc+번/nbu+에/jca
+
+3만원
+	3/nnc+만/nnc+원/nbu
+
+가량을
+	가량/nbu+을/jco
+
+주유한다고
+	주유/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+치면,
+	치/pvg+면/ecs+,/sp
+
+1리터당
+	1/nnc+리터/nbu+당/xsnu
+
+가격을
+	가격/ncn+을/jco
+
+2000원으로
+	2000/nnc+원/nbu+으로/jca
+
+가정할
+	가정/ncpa+하/xsva+ㄹ/etm
+
+때
+	때/ncn
+
+약
+	약/ncn
+
+15리터를
+	15/nnc+리터/nbu+를/jco
+
+넣을
+	넣/pvg+을/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+경우
+	경우/ncn
+
+리터당
+	리터/nbu+당/xsnu
+
+100원을
+	100/nnc+원/nbu+을/jco
+
+할인
+	할/nbu+이/jp+ㄴ/etm
+
+받으면
+	받/pvg+으면/ecs
+
+한
+	하/pvg+ㄴ/etm
+
+번
+	번/nbu
+
+주유시
+	주유/ncpa+시/ncn
+
+마다
+	마다/ncpa
+
+약
+	약/ncn
+
+1500원을
+	1500/nnc+원/nbu+을/jco
+
+할인
+	할/nbu+이/jp+ㄴ/etm
+
+받을
+	받/pvg+을/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+3일에
+	3/nnc+일/nbu+에/jca
+
+한번
+	한/nnc+번/nbu
+
+가량
+	가량/nbu
+
+같은
+	같/paa+은/etm
+
+금액으로
+	금액/ncn+으로/jca
+
+주유한다고
+	주유/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+보면
+	보/px+면/ecs
+
+약
+	약/ncn
+
+10번
+	10/nnc+번/nbu
+
+가량을
+	가량/nbu+을/jco
+
+주유하게
+	주유/ncpa+하/xsva+게/ecs
+
+되고
+	되/pvg+고/ecc
+
+약
+	약/ncn
+
+1만5000원의
+	1/nnc+만/nnc+5000/nnc+원/nbu+의/jcm
+
+할인
+	할/nbu+이/jp+ㄴ/etm
+
+혜택을
+	혜택/ncn+을/jco
+
+받게
+	받/pvg+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+할인
+	할/nbu+이/jp+ㄴ/etm
+
+규모는
+	규모/ncn+는/jxc
+
+전달에
+	전달/ncn+에/jca
+
+얼마를
+	얼마/ncn+를/jco
+
+썼느냐에
+	썼느냐/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+다소
+	다소/mag
+
+달라질
+	다르/paa+아/ecx+지/px+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+전월실적이
+	전월/ncn+실적/ncn+이/jcc
+
+10만원이상이면
+	10/nnc+만/nnc+원/nbu+이상/xsnu+이/jp+면/ecs
+
+리터당
+	리터/nbu+당/xsnu
+
+80원,
+	80/nnc+원/nbu+,/sp
+
+20만원이상이면
+	20/nnc+만/nnc+원/nbu+이상/xsnu+이/jp+면/ecs
+
+100원을
+	100/nnc+원/nbu+을/jco
+
+할인해주기
+	할인/ncpa+하/xsva+어/ecx+주/px+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+사용
+	사용/ncpa
+
+후
+	후/ncn
+
+2~3일
+	2/nnc+~/sd+3/nnc+이/jp+ㄹ/etm
+
+후면
+	후/ncn+이/jp+면/ecs
+
+통장으로
+	통장/ncn+으로/jca
+
+현금
+	현금/ncn
+
+입금되므로
+	입금/ncpa+되/xsvn+므로/ecs
+
+공돈을
+	공돈/ncn+을/jco
+
+받는
+	받/pvg+는/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+느낌도
+	느끼/pvg+ㅁ/etn+도/jxc
+
+받을
+	받/pvg+을/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+우체국
+	우체국/ncn
+
+카드는
+	카드/ncn+는/jxc
+
+주유할인
+	주유/ncpa+할인/ncpa
+
+혜택외에도
+	혜택/ncpa+외/xsnx+에/jca+도/jxc
+
+다른
+	다르/paa+ㄴ/etm
+
+혜택도
+	혜택/ncn+도/jxc
+
+보강했다
+	보강/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+알뜰주유소와
+	알뜰/ncps+주유소/ncn+와/jcj
+
+우체국
+	우체국/ncn
+
+체크카드
+	체크/ncpa+카드/ncn
+
+활성화라는
+	활성화/ncn+라는/jcm
+
+두마리토끼를
+	두마리토끼/ncn+를/jco
+
+다
+	다/mag
+
+잡을
+	잡/pvg+을/etm
+
+심산인
+	심산/ncn+이/jp+ㄴ/etm
+
+셈이다
+	셈/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+우선
+	우선/mag
+
+이
+	이/mmd
+
+체크카드로
+	체크/ncpa+카드/ncn+로/jca
+
+일반
+	일반/ncn
+
+주유소를
+	주유소/ncn+를/jco
+
+이용하면
+	이용/ncpa+하/xsva+면/ecs
+
+40원을
+	40/nnc+원/nbu+을/jco
+
+할인
+	할/nbu+이/jp+ㄴ/etm
+
+받을
+	받/pvg+을/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+우체국
+	우체국/ncn
+
+쇼핑
+	쇼핑/ncpa
+
+등을
+	등/nbu+을/jco
+
+이용하게
+	이용/ncpa+하/xsva+게/ecs
+
+되면
+	되/pvg+면/ecs
+
+5%,
+	5/nnc+%/su+,/sp
+
+월
+	월/nbu
+
+최대
+	최대/ncn
+
+1만원
+	1/nnc+만/nnc+원/nbu
+
+가량을
+	가량/nbu+을/jco
+
+할인
+	할/nbu+이/jp+ㄴ/etm
+
+받을
+	받/pvg+을/etm
+
+수
+	수/nbn
+
+있고
+	있/px+고/ecc
+
+우체국
+	우체국/ncn
+
+예금금리도
+	예금금리/ncn+도/jxc
+
+0.
+	0./nnc
+
+1~0.
+	1/nnc+~/sd+0./nnc
+
+5%의
+	5/nnc+%/su+의/jcm
+
+우대금리를
+	우대금리/ncn+를/jco
+
+적용받게
+	적용/ncpa+받/xsva+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+출처:뉴시스
+	출처:뉴시스/ncn

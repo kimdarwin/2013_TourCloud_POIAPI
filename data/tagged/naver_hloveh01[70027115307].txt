@@ -1,0 +1,1091 @@
+북촌생활사박물관
+	북촌/ncn+생활사/ncn+박물관/ncn
+
+
+정월대보름
+	정월/ncn+대보름/ncn
+
+세시풍속
+	세시풍속/ncn
+
+체험교실
+	체험/ncpa+교실/ncn
+
+
+*
+	*/sy
+
+일정과
+	일정/ncn+과/jcj
+
+모집
+	모집/ncpa
+
+인원
+	인원/ncn
+
+
+2월
+	2/nnc+월/nbu
+
+14일(목)
+	14일(목)/ncn
+
+:
+	:/sp
+
+오후
+	오후/ncn
+
+3시~5시
+	3/nnc+시/nbu+~/sd+5/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+(어린이
+	(/sl+어린이/ncn
+
+기준
+	기준/ncpa
+
+10명)
+	10/nnc+명/nbu+)/sr
+
+
+15일(금)
+	15일(금)/ncn
+
+:
+	:/sp
+
+오후
+	오후/ncn
+
+3시~5시
+	3/nnc+시/nbu+~/sd+5/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+(어린이
+	(/sl+어린이/ncn
+
+기준
+	기준/ncpa
+
+10명)
+	10/nnc+명/nbu+)/sr
+
+
+16일(토)
+	16일(토)/ncn
+
+:
+	:/sp
+
+오전
+	오전/ncn
+
+10시~12시
+	10/nnc+시/nbu+~/sd+12/nnc+시/nbu
+
+30분)/
+	30/nnc+분/nbu+)/sr+//sp
+
+오후
+	오후/ncn
+
+3시~5시
+	3/nnc+시/nbu+~/sd+5/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+(어린이
+	(/sl+어린이/ncn
+
+기준
+	기준/ncpa
+
+10명)
+	10/nnc+명/nbu+)/sr
+
+
+17일(일)
+	17일(일)/ncn
+
+:오전
+	:/sp+오전/ncn
+
+10시~12시
+	10/nnc+시/nbu+~/sd+12/nnc+시/nbu
+
+30분)/
+	30/nnc+분/nbu+)/sr+//sp
+
+오후
+	오후/ncn
+
+3시~5시
+	3/nnc+시/nbu+~/sd+5/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+(어린이
+	(/sl+어린이/ncn
+
+기준
+	기준/ncpa
+
+10명)
+	10/nnc+명/nbu+)/sr
+
+
+19일(화)
+	19일(화)/ncn
+
+:
+	:/sp
+
+오후
+	오후/ncn
+
+3시~5시
+	3/nnc+시/nbu+~/sd+5/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+(어린이
+	(/sl+어린이/ncn
+
+기준
+	기준/ncpa
+
+10명)
+	10/nnc+명/nbu+)/sr
+
+
+20일(수)
+	20일(수)/ncn
+
+:
+	:/sp
+
+오후
+	오후/ncn
+
+3시~5시
+	3/nnc+시/nbu+~/sd+5/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+(어린이
+	(/sl+어린이/ncn
+
+기준
+	기준/ncpa
+
+10명)
+	10/nnc+명/nbu+)/sr
+
+
+21일(목)
+	21일(목)/ncn
+
+:
+	:/sp
+
+오후
+	오후/ncn
+
+3시~5시
+	3/nnc+시/nbu+~/sd+5/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+(어린이
+	(/sl+어린이/ncn
+
+기준
+	기준/ncpa
+
+10명)
+	10/nnc+명/nbu+)/sr
+
+
+22일(금)
+	22일(금)/ncn
+
+:
+	:/sp
+
+오후
+	오후/ncn
+
+3시~5시
+	3/nnc+시/nbu+~/sd+5/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+(어린이
+	(/sl+어린이/ncn
+
+기준
+	기준/ncpa
+
+10명)
+	10/nnc+명/nbu+)/sr
+
+
+*
+	*/sy
+
+참가대상
+	참가/ncpa+대상/ncn
+
+
+유치원~
+	유치원/ncn+~/sd
+
+초등학교에
+	초등학교/ncn+에/jca
+
+재학중인
+	재학중/ncn+이/jp+ㄴ/etm
+
+어린이와
+	어린이/ncn+와/jcj
+
+학부모
+	학부모/ncn
+
+
+*
+	*/sy
+
+학습내용
+	학습내용/ncn
+
+
+정월대보름의
+	정월/ncn+대보름/ncn+의/jcm
+
+세시풍속
+	세시풍속/ncn
+
+중
+	중/nbn
+
+어린이들과
+	어린이/ncn+들/ncn+과/jct
+
+연관된
+	연관/ncpa+되/xsvn+ㄴ/etm
+
+놀이와
+	놀이/ncn+와/jcj
+
+음식을
+	음식/ncn+을/jco
+
+위주로
+	위주/ncpa+로/jca
+
+
+정월대보름의
+	정월/ncn+대보름/ncn+의/jcm
+
+유래와
+	유래/ncpa+와/jcj
+
+풍속에
+	풍속/ncn+에/jca
+
+관한
+	관하/pvg+ㄴ/etm
+
+이해를
+	이/nnc+해/nbu+를/jco
+
+도와주는
+	돕/pvg+어/ecx+주/px+는/etm
+
+사회과목
+	사회과목/ncn
+
+관련
+	관련/ncn
+
+체험학습입니다
+	체험학습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+세부적인
+	세부/ncn+적/ncn+이/jp+ㄴ/etm
+
+학습
+	학습/ncpa
+
+내용은
+	내용/ncn+은/jxc
+
+다음과
+	다음/ncn+과/jct
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+1.
+	1./nnc
+
+윷놀이에
+	윷놀이/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+설명과
+	설명/ncpa+과/jcj
+
+윷놀이
+	윷놀이/ncn
+
+해
+	하/pvg+어/ecx
+
+보기(30분)
+	보/nbu+이/jp+기/etn+(/sl+30/nnc+분/nbu+)/sr
+
+
+윷의
+	윷/ncn+의/jcm
+
+종류와
+	종류/ncn+와/jcj
+
+윷판의
+	윷판/ncn+의/jcm
+
+구성,
+	구성/ncn+,/sp
+
+용어
+	용어/ncn
+
+등을
+	등/nbu+을/jco
+
+알아보고
+	알아보/pvg+고/ecc
+
+
+참가어린이가
+	참가/ncpa+어린이/ncn+가/jcs
+
+편을
+	편/nbn+을/jco
+
+나누어윷놀이를
+	나누어윷놀이/ncn+를/jco
+
+해
+	하/pvg+어/ecx
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록지도합니다
+	있도록지도합니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+2.
+	2./nnc
+
+엽전치기에
+	엽전/ncn+치/ncn+이/jp+기/etn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+설명과
+	설명/ncpa+과/jcj
+
+엽전치기
+	엽전/ncn+치/ncn+이/jp+기/etn
+
+놀이
+	놀/ncn+이/jcc
+
+해
+	하/pvg+어/ecx
+
+보기(20분)
+	보/nbu+이/jp+기/etn+(/sl+20/nnc+분/nbu+)/sr
+
+
+옛날어린이들의
+	옛날/ncn+어린이/ncn+들/ncn+의/jcm
+
+정월
+	정월/ncn
+
+놀이였던
+	놀이/ncn+이/jp+었/ep+던/etm
+
+엽전치기를
+	엽전/ncn+치/ncn+이/jp+기/etn+를/jco
+
+지도합니다
+	지도/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+3.
+	3./nnc
+
+제기
+	제/npp+이/jp+기/etn
+
+만들기와
+	만들/pvg+기/etn+와/jcj
+
+제기차기
+	제기차기/ncpa
+
+놀이
+	놀/ncn+이/jcc
+
+해
+	하/pvg+어/ecx
+
+보기
+	보/px+기/etn
+
+(50분)
+	(/sl+50/nnc+분/nbu+)/sr
+
+
+엽전치기
+	엽전/ncn+치/ncn+이/jp+기/etn
+
+때
+	때/ncn
+
+사용한
+	사용/ncpa+하/xsva+ㄴ/etm
+
+엽전(시중가
+	엽전(시중/ncn+가/jcs
+
+5천원)으로제기를
+	5천원)으로제/ncn+이/jp+기/etn+를/jco
+
+만든
+	만들/pvg+ㄴ/etm
+
+다음,
+	다음/ncn+,/sp
+
+
+여러가지
+	여러/nnc+가지/nbu
+
+방법으로
+	방법/ncn+으로/jca
+
+차면서
+	차/ncn+이/jp+면서/ecc
+
+재미있는
+	재미있/pvg+는/etm
+
+놀이를할
+	놀이를할/ncn
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+지도합니다
+	지도/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+구멍
+	구멍/ncn
+
+뚫린
+	뚫리/pvg+ㄴ/etm
+
+엽전과
+	엽전/ncn+과/jcj
+
+한지로
+	하/pvg+ㄴ/etm+지/nbn+로/jca
+
+만드는전래의
+	만드는전래/ncn+의/jcm
+
+방법
+	방법/ncn
+
+그대로
+	그대로/mag
+
+제기를
+	제/npp+이/jp+기/etn+를/jco
+
+만들며
+	만들/pvg+며/ecc
+
+
+완성된제기는참가
+	완성된제기는참/ncn+가/jcs
+
+어린이
+	어린이/ncn
+
+모두에게
+	모두/ncn+에게/jca
+
+선물로
+	선물/ncn+로/jca
+
+드립니다
+	드리/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+4.
+	4./nnc
+
+고서만보오길방과
+	고서만보오길방/ncn+과/jcj
+
+토정비결
+	토정비결/ncn
+
+책
+	책/ncn
+
+소개(10분)
+	소개/ncn+(/sl+10/nnc+분/nbu+)/sr
+
+
+박물관에
+	박물관/ncn+에/jca
+
+소장돼
+	소장/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+조선시대의
+	조선시대/ncn+의/jcm
+
+정월
+	정월/ncn
+
+점술책
+	점술책/ncn
+
+만보오길방과
+	만보오길방/ncn+과/jcj
+
+
+토정비결
+	토정비결/ncn
+
+책들을
+	책/ncn+들/xsncc+을/jco
+
+보면서정월대보름날의
+	보면서정월대보름날/ncn+의/jcm
+
+점
+	점/nbu
+
+보는
+	보/px+는/etm
+
+풍속에
+	풍속/ncn+에/jca
+
+관한
+	관하/pvg+ㄴ/etm
+
+공부를
+	공부/ncpa+를/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+5.
+	5./nnc
+
+부럼
+	부럼/ncn
+
+깨물어
+	깨물/pvg+어/ecx
+
+보기(10분)
+	보/nbu+이/jp+기/etn+(/sl+10/nnc+분/nbu+)/sr
+
+
+호두,
+	호두/ncn+,/sp
+
+땅콩,
+	땅콩/ncn+,/sp
+
+밤,
+	밤/ncn+,/sp
+
+잣
+	잣/ncn
+
+등
+	등/nbu
+
+정월대보름
+	정월/ncn+대보름/ncn
+
+아침에
+	아침/ncn+에/jca
+
+깨무는
+	깨물/pvg+는/etm
+
+부럼의
+	부럼/ncn+의/jcm
+
+유래와
+	유래/ncpa+와/jcj
+
+
+종류
+	종류/ncn
+
+등을
+	등/nbu+을/jco
+
+알아보고,직접
+	알/pvg+아/ecx+보/px+고/ecc+,/sp+직접/ncn
+
+깨물어
+	깨물/pvg+어/ecx
+
+보는
+	보/px+는/etm
+
+체험을
+	체험/ncpa+을/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+보름날에
+	보름/ncn+날/ncn+에/jca
+
+4인가족이
+	4인가족/ncn+이/jcc
+
+맛
+	맛/ncn
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는유기농산물
+	있는유기농산물/ncn
+
+부럼
+	부럼/ncn
+
+1봉지(시중가
+	1봉지(시중/ncn+가/jcs
+
+5춴원)를
+	5춴원/ncn+)/sr+를/jco
+
+
+참가
+	차/pvg+ㅁ/etn+가/jcs
+
+어린이
+	어린이/ncn
+
+모두에게
+	모두/ncn+에게/jca
+
+선물로
+	선물/ncn+로/jca
+
+드립니다
+	드리/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+6.
+	6./nnc
+
+오곡밥과
+	오곡밥/ncn+과/jcj
+
+아홉가지
+	아홉/nnc+가지/nbu
+
+묵나물
+	묵나물/ncn
+
+먹어보기(30분)
+	먹/pvg+어/ecx+보/px+기/etn+(/sl+30/nnc+분/nbu+)/sr
+
+
+국산
+	국산/ncn
+
+유기농산물로
+	유기농산물/ncn+로/jca
+
+지은
+	지/px+ㄴ/etm
+
+오곡밥과
+	오곡밥/ncn+과/jcj
+
+아홉가지
+	아홉/nnc+가지/nbu
+
+묵나물,
+	묵나물,/ncn
+
+복쌈
+	복쌈/ncn
+
+등의
+	등/nbn+의/jcm
+
+
+대보름날
+	대보름날/ncn
+
+세시음식을
+	세시/ncn+음식/ncn+을/jco
+
+참가어린이와
+	참가/ncpa+어린이/ncn+와/jcj
+
+학부모님
+	학부모님/ncn
+
+모두에게
+	모두/ncn+에게/jca
+
+
+점심
+	점심/ncn
+
+혹은
+	혹은/maj
+
+저녁식사로
+	저녁식사/ncpa+로/jca
+
+제공해
+	제공/ncpa+하/xsva+어/ecx
+
+드립니다
+	드리/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+*
+	*/sy
+
+체험비용
+	체험/ncpa+비용/ncn
+
+
+어린이
+	어린이/ncn
+
+1명+
+	1명+/ncn
+
+학부모
+	학부모/ncn
+
+1명
+	1/nnc+명/nbu
+
+당
+	당/ncn
+
+3만원이며어린이만
+	3만원이며어린이만/ncn
+
+참가시
+	참가/ncpa+시/ncn
+
+2만원입니다
+	2/nnc+만/nnc+원/nbu+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+(만
+	(/sl+만/nnc
+
+4세
+	4/nnc+세/nnc
+
+이상
+	이상/ncn
+
+동생
+	동생/ncn
+
+동참시엔어린이
+	동참시엔어린/ncn+이/jcc
+
+1명
+	1/nnc+명/nbu
+
+참가로
+	참가/ncpa+로/jca
+
+간주합니다)
+	간주/ncpa+하/xsva+ㅂ니다/ef+)/sr
+
+
+*
+	*/sy
+
+기타
+	기타/ncn
+
+참고사항
+	참고사항/ncn
+
+
+1.
+	1./nnc
+
+준비물은
+	준비/ncn+물/ncn+은/jxc
+
+없습니다
+	없/paa+습니다/ef
+
+.
+	./sf
+
+
+2.
+	2./nnc
+
+5명
+	5/nnc+명/nbu
+
+이상
+	이상/ncn
+
+단체체험을
+	단체/ncn+체험/ncpa+을/jco
+
+원할
+	원하/pvg+ㄹ/etm
+
+경우,최소
+	경우/ncn+,/sp+최소/ncn
+
+1주일
+	1/nnc+주일/nbu
+
+전까지
+	전/nbn+까지/jxc
+
+신청해
+	신청/ncpa+하/xsva+어/ecx
+
+주십시오
+	주/px+십시오/ef
+
+.
+	./sf
+
+
+3.
+	3./nnc
+
+놀이가
+	놀이/ncn+가/jcs
+
+많은
+	많/paa+은/etm
+
+체험이라
+	체험/ncpa+이/jp+라/ecs
+
+다소
+	다소/mag
+
+시간이
+	시간/ncn+이/jcc
+
+지연될
+	지연/ncpa+되/xsvn+ㄹ/etm
+
+수
+	수/nbn
+
+있음을
+	있/px+음/etn+을/jco
+
+감안하시기
+	감안/ncpa+하시/ncn+이/jp+기/etn
+
+바랍니다
+	바라/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+4.
+	4./nnc
+
+박물관
+	박물관/ncn
+
+관람은
+	관람/ncpa+은/jxc
+
+자유입니다
+	자유/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+5.
+	5./nnc
+
+음식은
+	음식/ncn+은/jxc
+
+박물관장이
+	박물관장/ncn+이/jcc
+
+직접
+	직접/mag
+
+만들며,재료는
+	만들/pvg+며/ecc+,/sp+재료/ncn+는/jxc
+
+모두
+	모두/mag
+
+국산
+	국산/ncn
+
+유기농을
+	유기/ncn+농/ncn+을/jco
+
+씁니다
+	쓰/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+*
+	*/sy
+
+신청문의
+	신청/ncpa+문의/ncn
+
+
+북촌생활사박물관:
+	북촌/ncn+생활사/ncn+박물관/ncn+:/sp
+
+02-736-3957,
+	02/nnc+-736/nnc+-3957/nnc+,/sp
+
+3968
+	3968/nnc
+
+/휴대폰
+	//sp+휴대폰/ncn
+
+011-845-3957
+	011/nnc+-845/nnc+-3957/nnc
+
+
+홈페이지
+	홈페이지/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+bomulgun.
+	bomulgun/f+./sy
+
+com/zboard/zboard.
+	com/f+//sp+zboard/f+//sp+zboard/f+./sy
+
+php
+	php/f
+
+?
+	?/sf
+
+
+id=news_museum
+	id=news_museum/ncn

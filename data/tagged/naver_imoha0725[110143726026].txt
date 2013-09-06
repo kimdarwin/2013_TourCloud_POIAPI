@@ -1,0 +1,1175 @@
+오늘은
+	오늘/ncn+은/jxc
+
+복날,
+	복날/ncn+,/sp
+
+몸보신
+	몸보/ncn+이/jp+시/ep+ㄴ/etm
+
+어떻게
+	어떻/pad+게/ecs
+
+하시나요
+	하/px+시/ep+나/ef+요/jxf
+
+?
+	?/sf
+
+
+여행별은
+	여행/ncpa+별/ncn+은/jxc
+
+방금
+	방금/mag
+
+하모샤브샤브
+	하모샤브샤브/ncn
+
+!
+	!/sf
+
+
+폭풍흡입했지요
+	폭풍/ncn+흡입/ncpa+하/xsva+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/07/28/1910/E31403138F3C13C30F23AD9C73980F43B44_imoha0725_480P_01_16x9_logo.
+	net/blogucc28/2012/07/28/1910/E31403138F3C13C30F23AD9C73980F43B44_imoha0725_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'31.
+	'/sr+31./nnc
+
+67';
+	67/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'F99AD00E6C3AD8C43C83788E63201F8D332E';
+	'F99AD00E6C3AD8C43C83788E63201F8D332E/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12495660293be49cc4e87e7ae2ee2b68d91b56ee0ace8826972658b8256b34d5de8d7e7ae2ee2b68d91b';
+	'V12495660293be49cc4e87e7ae2ee2b68d91b56ee0ace8826972658b8256b34d5de8d7e7ae2ee2b68d91b/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_02626
+	ugcPlayer_02626/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_02626'
+	VideoInfraUGCPlayer('ugcPlayer_02626'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_02626
+	ugcPlayer_02626/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+하모샤브샤브
+	하모샤브샤브/ncn
+
+먹는
+	먹/pvg+는/etm
+
+방법전라도
+	방법/ncn+전/ncn+라도/jxc
+
+지역에서
+	지역/ncn+에서/jca
+
+하모라고
+	하모/ncn+이/jp+라/ef+고/jcr
+
+불리는
+	불리/pvg+는/etm
+
+이
+	이/mmd
+
+것은
+	것/nbn+은/jxc
+
+바다장어,
+	바다/ncn+장어/ncn+,/sp
+
+혹은
+	혹은/maj
+
+바다갯장어라
+	바다갯장어/ncn+이/jp+라/ecs
+
+하지요
+	하/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+계속되는
+	계속/ncpa+되/xsvn+는/etm
+
+무더위에
+	무더위/ncn+에/jca
+
+체력이
+	체력/ncn+이/jcc
+
+딸리는
+	따/pvg+ㄹ/etm+리/nbn+는/jxc
+
+여행별은
+	여행/ncpa+별/ncn+은/jxc
+
+오늘
+	오늘/ncn
+
+전남
+	전/xp+남/ncn
+
+장흥
+	장흥/ncn
+
+물축제보러
+	물축제보러/ncn
+
+온김에
+	오/px+ㄴ/etm+김/nbn+에/jca
+
+하모샤브샤브로
+	하모샤브샤브/ncn+로/jca
+
+유명하다는
+	유명/ncps+하/xsms+다/ef+는/etm
+
+장흥맛집,
+	장흥맛집,/ncn
+
+싱싱회마을을
+	싱싱회마을/ncn+을/jco
+
+찾아보았어요
+	찾/pvg+아/ecx+보/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+보양식으로
+	보양식/ncn+으로/jca
+
+으뜸
+	으뜸/ncn
+
+!
+	!/sf
+
+
+이
+	이/mmd
+
+곳
+	곳/ncn
+
+싱싱회마을은
+	싱싱회마을/ncn+은/jxc
+
+하모샤브샤브
+	하모샤브샤브/ncn
+
+식당중에서도
+	식당/ncn+중/ncn+에서/jca+도/jxc
+
+맛집으로
+	맛집/ncn+으로/jca
+
+유명하다고
+	유명/ncps+하/xsms+다/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+그래서인지
+	그래서/ncn+이/jp+ㄴ지/ecs
+
+더
+	더/mag
+
+기대하는
+	기대/pvg+어/ecx+하/px+는/etm
+
+마음으로
+	마음/ncn+으로/jca
+
+찾아보았습니다
+	찾/pvg+아/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+한상가득
+	한상가득/ncn
+
+차려진
+	차리/pvg+어/ecx+지/px+ㄴ/etm
+
+하모샤브샤브
+	하모샤브샤브/ncn
+
+!
+	!/sf
+
+
+메인요리가
+	메인/ncn+요리/ncn+가/jcs
+
+돋보이도로
+	돋보이도/ncn+로/jca
+
+찬들은
+	차/pvg+ㄴ들/ecs+은/jxc
+
+깔끔하고
+	깔끔/ncn+하고/jct
+
+심플합니다
+	심플합니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+진한
+	지/px+ㄴ/etm+한/nbn
+
+국물에
+	국물/ncn+에/jca
+
+슬라이스된
+	슬라이스/ncn+되/xsvn+ㄴ/etm
+
+갯장어를
+	갯장어/ncn+를/jco
+
+퐁당
+	퐁당/ncn
+
+빠트려서
+	빠트리/pvg+어서/ecs
+
+살짝
+	살짝/mag
+
+익도록
+	익/pvg+도록/ecs
+
+몇초간
+	몇/nnc+초/nbu+간/xsnu
+
+흔들다
+	흔들/pvg+다/ef
+
+건져서
+	건지/pvg+어서/ecs
+
+양념장인
+	양념장/ncn+이/jp+ㄴ/etm
+
+초고추장,
+	초고추장/ncn+,/sp
+
+겨자간장
+	겨자/ncn+간장/ncn
+
+혹은
+	혹은/maj
+
+된장등
+	된장/ncn+등/ncn
+
+입맛에
+	입맛/ncn+에/jca
+
+맞는
+	맞/pvg+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+찍어
+	찍/pvg+어/ecx
+
+드시면됩니다
+	드시면됩니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+갯장어가
+	갯장어/ncn+가/jcs
+
+퐁당퐁당
+	퐁당퐁당/ncn
+
+빠져있네요
+	빠지/pvg+어/ecx+있/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+우리는
+	우리/npp+는/jxc
+
+빠트리자마자
+	빠트리/pvg+자마자/ecs
+
+잽싸게
+	잽싸/paa+게/ecs
+
+잘도
+	잘/mag+도/jxc
+
+건져먹었다는
+	건져먹었다/ncn+는/jxc
+
+.
+	./sf
+
+
+보라양파와
+	보라/ncn+양파/ncn+와/jcj
+
+부추를
+	부추/ncn+를/jco
+
+상추나
+	상추/ncn+나/jcj
+
+깻잎에
+	깻잎/ncn+에/jca
+
+싸서
+	쓰/pvg+어서/ecs
+
+한입
+	한입/ncn
+
+슈룩~~
+	슈룩~~/ncn
+
+먹어주는거지요
+	먹어주는거/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+소라가
+	소라/ncn+가/jcs
+
+이렇게나
+	이렇/pad+게/ecs+나/jxc
+
+오동통한
+	오동통한/ncn
+
+것이
+	것/nbn+이/jcc
+
+기본찬으로
+	기본/ncn+찬/ncn+으로/jca
+
+나오다니
+	나/pvg+아/ecx+오/px+다니/ecs
+
+!
+	!/sf
+
+
+슬라이스된
+	슬라이스/ncn+되/xsvn+ㄴ/etm
+
+갯장어는
+	갯장어/ncn+는/jxc
+
+매우
+	매우/mag
+
+사랑스럽지말입니다
+	사랑스럽지말입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+냐핫
+	냐핫/ncn
+
+.
+	./sf
+
+
+바다갯장어는
+	바다갯장어/ncn+는/jxc
+
+모두
+	모두/mag
+
+싱싱한
+	싱싱/ncps+하/xsms+ㄴ/etm
+
+자연산
+	자연/ncn+산/ncn
+
+!
+	!/sf
+
+
+양식하지
+	양식하/ncn+이/jp+지/ecs
+
+않고
+	않/px+고/ecc
+
+모두
+	모두/mag
+
+자연산이라고
+	자연/ncn+산/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+장어
+	장어/ncn
+
+좋은거는
+	좋/paa+은/etm+것/nbn+이/jp+는/etm
+
+다들
+	다들/ncn
+
+아실테고
+	아실테/ncn+이/jp+고/ecc
+
+.
+	./sf
+
+
+와우
+	와우/ncn
+
+!
+	!/sf
+
+
+피부미인
+	피부/ncn+미인/ncn
+
+되겠어용
+	되겠어용/ncn
+
+
+그냥
+	그냥/mag
+
+초장에도
+	초장/ncn+에/jca+도/jxc
+
+찍어먹고
+	찍어먹고/ncn
+
+!
+	!/sf
+
+
+쌈에다
+	싸/paa+ㅁ/etn+에다/jca
+
+갖은
+	갖/pvg+은/etm
+
+야채와
+	야채/ncn+와/jct
+
+함께
+	함께/mag
+
+싸먹기도
+	싸먹기/ncn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+!
+	!/sf
+
+
+그냥
+	그냥/mag
+
+건져
+	건지/pvg+어/ecx
+
+야채와
+	야채/ncn+와/jct
+
+함께
+	함께/mag
+
+한입에
+	한입/ncn+에/jca
+
+쏘옥~
+	쏘옥/ncn+~/sd
+
+
+샤브샤브의
+	샤브샤브/ncn+의/jcm
+
+백미
+	백미/ncn
+
+!
+	!/sf
+
+
+면사리
+	면사/ncn+이/jp+리/ef
+
+신공입니다
+	신공/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+진하게
+	진하/pvg+게/ecs
+
+우러난
+	우러나/pvg+ㄴ/etm
+
+국물에
+	국물/ncn+에/jca
+
+약간의
+	약간/ncn+의/jcm
+
+육수와
+	육수/ncn+와/jct
+
+함께
+	함께/mag
+
+면사리를
+	면사/ncn+리/ncn+를/jco
+
+넣습니다
+	넣/pvg+습니다/ef
+
+.
+	./sf
+
+
+라면사리,
+	라면/ncn+사리/ncn+,/sp
+
+소면,
+	소/ncn+이/jp+면/ecs+,/sp
+
+수제비를
+	수제비/ncn+를/jco
+
+넣어
+	넣/pvg+어/ecx
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있고요
+	있/px+고요/ef
+
+.
+	./sf
+
+
+여행별은
+	여행/ncpa+별/ncn+은/jxc
+
+라면사리킬러라
+	라면/ncn+사리/ncn+킬러/ncn+이/jp+라/ecs
+
+라면사리로
+	라면/ncn+사리/ncn+로/jca
+
+넣어보았습니다
+	넣/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+냐하하핫
+	냐하하핫/ncn
+
+!
+	!/sf
+
+
+요기
+	요/ncn+이/jp+기/etn
+
+식당
+	식당/ncn
+
+재미있어요
+	재미있/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+여분의
+	여분/ncn+의/jcm
+
+접시
+	접시/ncn
+
+달라했더니
+	다르/paa+아/ecx+하/px+었/ep+더니/ecs
+
+스댕(스테인레스스틸)그릇을
+	스댕(스테인레스스틸)그릇/ncn+을/jco
+
+떡
+	떡/mag
+
+하니
+	하/pvg+니/ecs
+
+주십니다
+	주/px+시/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+시골스럽고
+	시골/ncn+스럽/xsmn+고/ecc
+
+정감있네요
+	정감/ncn+있/xsmn+네/ef+요/jxf
+
+.
+	./sf
+
+
+아무렴
+	아무/npd+이/jp+렴/ef
+
+어떤가요
+	어떤가요/ncn
+
+?
+	?/sf
+
+
+맛있으면
+	맛있/paa+으면/ecs
+
+장땡
+	장땡/ncn
+
+!
+	!/sf
+
+
+진한
+	지/px+ㄴ/etm+한/nbn
+
+갯장어
+	갯장어/ncn
+
+맛
+	맛/ncn
+
+가득
+	가득/mag
+
+품은
+	풀/pvg+ㅁ/etn+은/jxc
+
+라면
+	라/ncn+이/jp+면/ecs
+
+한
+	하/pvg+ㄴ/etm
+
+젓가락은
+	젓가락/ncn+은/jxc
+
+보기만해도
+	보기만해/ncn+도/jxc
+
+그냥
+	그냥/mag
+
+힘이
+	힘/ncn+이/jcc
+
+불끈
+	불끈/mag
+
+솟습니다
+	솟/pvg+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+더운
+	덥/paa+은/etm
+
+여름날,
+	여름/ncn+날/ncn+,/sp
+
+부글부글
+	부글부글/mag
+
+하모샤브샤브
+	하모샤브샤브/ncn
+
+한
+	한/nnc
+
+그릇하며
+	그릇/ncpa+하/xsva+며/ecc
+
+이열치열
+	이열치열/ncn
+
+했더니
+	하/px+었/ep+더니/ecs
+
+말복엔
+	말복엔/ncn
+
+보양식
+	보양식/ncn
+
+않먹어도
+	않먹어/ncn+도/jxc
+
+될
+	되/pvg+ㄹ/etm
+
+것만
+	것/nbn+만/jxc
+
+같아용
+	같아용/ncn
+
+!
+	!/sf
+
+
+냐핫하하
+	냐핫하하/ncn
+
+...
+	.../se
+
+
+--
+	-/sd+-/sd
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+말복을
+	말복/ncn+을/jco
+
+그냥
+	그냥/mag
+
+넘길
+	넘기/pvg+ㄹ/etm
+
+여행별은
+	여행/ncpa+별/ncn+은/jxc
+
+아니지말입니다
+	아니지말입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+바다갯장어,
+	바다갯장어,/ncn
+
+하모샤브샤브
+	하모샤브샤브/ncn
+
+!
+	!/sf
+
+
+여름
+	여름/ncn
+
+보양식
+	보양식/ncn
+
+강력
+	강력/ncn
+
+추천
+	추천/ncpa
+
+!
+	!/sf
+
+
+찾아가기
+	찾/pvg+아/ecx+가/px+기/etn
+
+.
+	./sf
+
+
+싱싱횟집
+	싱싱/ncps+횟집/ncn
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장흥군
+	장흥군/ncn
+
+장흥읍
+	장흥읍/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011385676",
+	"bl011385676",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"싱싱횟집",
+	title/f+:/sp+"/sl+싱싱/ncps+횟집/ncn+"/sr+,/sp
+
+pointX:300119,pointY:231953}
+	pointX/f+:/sp+300119/nnc+,/sp+pointY/f+:/sp+231953/nnc+}/sr

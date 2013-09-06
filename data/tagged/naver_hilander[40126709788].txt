@@ -1,0 +1,871 @@
+영화
+	영화/ncn
+
+블랙스완
+	블랙스완/ncn
+
+Black
+	Black/f
+
+Swan
+	Swan/f
+
+
+결론부터
+	결론/ncn+부터/jxc
+
+말하자면
+	말하자면/mag
+
+상당히
+	상당히/mag
+
+잘
+	잘/mag
+
+만든
+	만들/pvg+ㄴ/etm
+
+영화
+	영화/ncn
+
+.
+	./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+영화프로에서
+	영화/ncn+프로/ncn+에서/jca
+
+잠깐
+	잠깐/mag
+
+소개하던것만
+	소개/ncpa+하/xsva+던/etm+것/nbn+만/jxc
+
+봤기
+	보/px+아/ep+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+스릴러라는
+	스릴러/ncn+라는/jcm
+
+장르인지
+	장르/ncn+이/jp+ㄴ지/ecs
+
+잘
+	잘/mag
+
+모르고
+	모르/pvg+고/ecc
+
+봤는데
+	보/pvg+아/ep+ㄴ데/ecs
+
+
+보는
+	보/px+는/etm
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+긴장하면서
+	긴장/ncpa+하/xsva+면서/ecc
+
+보느라
+	보/px+느라/ecs
+
+영화가
+	영화/ncn+가/jcs
+
+끝나고
+	끝나/pvg+고/ecc
+
+진이
+	진/ncn+이/jcc
+
+다
+	다/mag
+
+빠질
+	빠지/pvg+ㄹ/etm
+
+정도였다
+	정도/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+극장을
+	극장/ncn+을/jco
+
+나와서
+	나오/pvg+아/ecx
+
+한동한
+	한동한/ncn
+
+멍하고
+	멍하/paa+어/ef+고/jcr
+
+아무생각이
+	아무생각/ncn+이/jcc
+
+안나더라
+	안나더/ncn+이/jp+라/ef
+
+..
+	./sf+./sf
+
+
+나탈리
+	나/pvg+아/ecx+타/px+ㄹ/etm+리/nbn
+
+포트만의
+	포트/ncn+만/ncn+의/jcm
+
+연기는
+	연기/ncn+는/jxc
+
+일품
+	일품/ncn
+
+..
+	./sf+./sf
+
+
+마지막까지
+	마지막/ncn+까지/jxc
+
+시선을
+	시선/ncn+을/jco
+
+놓지
+	놓/px+지/ecx
+
+못하게
+	못하/px+게/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+골든글러브와
+	골든/ncn+글러브/ncn+와/jcj
+
+아카데미에서여우주연상을
+	아카데미에서여우주연상/ncn+을/jco
+
+수상
+	수상/ncpa
+
+할만했다
+	하/pvg+ㄹ/etm+만/nbs+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+잔인하다면
+	잔인/ncpa+하/xsva+다면/ecs
+
+잔인한
+	잔/nbu+이/jp+ㄴ/etm+한/nbn
+
+장면이
+	장면/ncn+이/jcc
+
+나오긴
+	나오긴/ncn
+
+하지만
+	하/pvg+지만/ecs
+
+그리
+	그리/mad
+
+심한것
+	심하/paa+ㄴ/etm+것/nbn
+
+같지는
+	같/paa+지/ecs+는/jxc
+
+않고
+	않/px+고/ecc
+
+..
+	./sf+./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+장면
+	장면/ncn
+
+보다는
+	보/px+다/ef+는/etm
+
+분위기로
+	분위기/ncn+로/jca
+
+섬뜩하고
+	섬뜩/ncn+하고/jct
+
+긴장하게
+	긴장/ncpa+하/xsva+게/ecs
+
+만드는
+	만들/pvg+는/etm
+
+..
+	./sf+./sf
+
+
+심리
+	심리/ncn
+
+스릴러라는게
+	스릴러라는/ncn+게/jca
+
+맞겠다
+	맞/pvg+겠/ep+다/ef
+
+.
+	./sf
+
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+나탈리포트만의
+	나탈리포트만/ncn+의/jcm
+
+연기도
+	연기/ncn+도/jxc
+
+대단하지만
+	대단/ncps+하/xsms+지/ecx+말/px+ㄴ/etm
+
+감독이
+	감독/ncpa+이/jcc
+
+참
+	참/mag
+
+대단한
+	대/nbu+이/jp+단/etm+한/nbn
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+일에
+	일/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+집착과
+	집착/ncpa+과/jct
+
+광기그리고
+	광기그리/ncn+이/jp+고/ecc
+
+강박에
+	강박/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+영화
+	영화/ncn
+
+
+그나저나
+	그나저나/mag
+
+발레에
+	발레/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+관심도
+	관심/ncn+도/jxc
+
+없었고
+	없/paa+었/ep+고/ecc
+
+발레를
+	발레/ncn+를/jco
+
+봐도
+	보/px+아/ecs
+
+뭘
+	뭐/npd+을/jco
+
+즐겨야할지를
+	즐기/pvg+어야/ecx+하/px+ㄹ/etm+지/nbn+를/jco
+
+몰랐었는데블랙스완을
+	몰랐었는데블랙스완/ncn+을/jco
+
+보고
+	보/px+고/ecc
+
+발레의
+	발레/ncn+의/jcm
+
+아름다움과
+	아름다움/ncn+과/jcj
+
+매력에
+	매력/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+느끼게
+	느끼/pvg+게/ecs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+실제로
+	실제로/mag
+
+발레를
+	발레/ncn+를/jco
+
+하다가
+	하/pvg+다가/ecs
+
+그만
+	그/npp+만/jxc
+
+뒀다는
+	두/pvg+었/ep+다/ef+는/etm
+
+나탈리
+	나/pvg+아/ecx+타/px+ㄹ/etm+리/nbn
+
+포트만
+	포트/ncn+만/jxc
+
+..
+	./sf+./sf
+
+
+대역논란이
+	대역/ncn+논란/ncpa+이/jcc
+
+일고는
+	일/pvg+고/ecs+는/jxc
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+배우에게
+	배우/ncn+에게/jca
+
+프로
+	프로/ncn
+
+발레나의
+	발레/ncn+나/ncn+의/jcm
+
+공연을
+	공연/ncps+을/jco
+
+기대하는
+	기대/pvg+어/ecx+하/px+는/etm
+
+것
+	것/nbn
+
+자체가
+	자체/ncn+가/jcs
+
+아이러니
+	아이러니/ncn
+
+아닐까
+	아니/paa+ㄹ까/ef
+
+..
+	./sf+./sf
+
+
+물론
+	물론/mag
+
+홍보를
+	홍보/ncpa+를/jco
+
+그렇게
+	그렇/pad+게/ecs
+
+해와서
+	하/pvg+어/ecx+오/px+아/ecx
+
+욕을
+	욕/ncn+을/jco
+
+먹는다지만
+	먹는다/ncn+이/jp+지만/ecs
+
+뭐
+	뭐/npd
+
+나로서는
+	나/npp+로서/jca+는/jxc
+
+그냥
+	그냥/mag
+
+그녀의
+	그녀/npp+의/jcm
+
+연기만으로도
+	연기/ncn+만/ncn+으로/jca+도/jxc
+
+큰
+	크/paa+ㄴ/etm
+
+만족~
+	만족/ncn+~/sd
+
+
+*****
+	*/sy+*/sy+*/sy+*/sy+*/sy
+
+
+그밖에
+	그/npp+밖에/jxc
+
+..
+	./sf+./sf
+
+
+주,조연
+	주/nbu+,/sp+조연/ncpa
+
+배우들에
+	배우/ncn+들/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+이런저런이야기~
+	이런저런이야/ncn+이/jp+기/etn+~/sd
+
+
+뱅상카셀의
+	뱅상카셀/ncn+의/jcm
+
+연기야
+	연기/ncn+이/jp+야/ef
+
+뭐.
+	뭐/ii+./sf
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+젤
+	젤/ncn
+
+좋아하는여배우인
+	좋아하는여배우/ncn+이/jp+ㄴ/etm
+
+모니카벨루치의
+	모니카벨루치/ncn+의/jcm
+
+남편이라는
+	남편/ncn+이/jp+라/ef+는/etm
+
+것이
+	것/nbn+이/jcc
+
+부러울
+	부럽/paa+을/etm
+
+뿐이고
+	뿐/nbn+이/jp+고/ecc
+
+..
+	./sf+./sf
+
+
+T_T
+	T_T/ncn
+
+
+블랙스완에서
+	블랙스완/ncn+에서/jca
+
+눈이
+	눈/ncn+이/jcc
+
+가던
+	가/px+던/etm
+
+배우는
+	배우/pvg+는/etm
+
+릴리역의
+	릴리역/ncn+의/jcm
+
+밀라
+	밀/pvg+라/ecs
+
+쿠니스
+	쿠니스/ncn
+
+(Mila
+	(/sl+Mila/f
+
+Kunis)
+	Kunis/f+)/sr
+
+
+섹시하면서도
+	섹시/ncps+하/xsms+면서/ecs+도/jxc
+
+늘
+	늘/mag
+
+여유가
+	여유/ncn+가/jcs
+
+넘치는
+	넘치/pvg+는/etm
+
+릴리역에
+	릴리역/ncn+에/jca
+
+너무도
+	너무/mag+도/jxc
+
+잘
+	잘/mag
+
+어울리던
+	어울리/pvg+던/etm
+
+배우
+	배우/ncn
+
+
+신인답지
+	신인/ncn+답지/ncpa
+
+않게
+	않/px+게/ecs
+
+노련한
+	노련/ncn+한/ncn
+
+연기를
+	연기/ncn+를/jco
+
+한다고
+	하/px+ㄴ다/ef+고/jcr
+
+생각했는데
+	생각/ncpa+하/xsva+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+찾아보니
+	찾/pvg+아/ecx+보/px+니/ecs
+
+맥스
+	맥스/ncn
+
+페인,
+	페인,/ncn
+
+일라이
+	일라/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+등그
+	등그/ncn
+
+동안
+	동안/ncn
+
+주연
+	주연/ncpa
+
+조연으로
+	조연/ncpa+으로/jca
+
+출연한
+	출연/ncpa+하/xsva+ㄴ/etm
+
+작품들이
+	작품/ncn+들/ncn+이/jcc
+
+꽤
+	꽤/mag
+
+많더라
+	많/paa+더라/ecs
+
+
+그런데
+	그런데/maj
+
+뭐
+	뭐/npd
+
+내가
+	나/npp+가/jcs
+
+다
+	다/mag
+
+안본
+	안본/ncn
+
+영화들이라
+	영화/ncn+들이/ncn+이/jp+라/ef
+
+..
+	./sf+./sf
+
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+당연히
+	당연히/mag
+
+라틴계열
+	라틴계/ncn+열/ncn
+
+인줄
+	일/pvg+ㄴ/etm+줄/nbn
+
+알았는데
+	알/pvg+아/ep+ㄴ데/ecs
+
+러시아
+	러시아/ncn
+
+태생이었네
+	태생/ncn+이/jp+었/ep+네/ef
+
+..
+	./sf+./sf
+
+
+베스역으로
+	베스역/ncn+으로/jca
+
+잠깐
+	잠깐/mag
+
+나왔던
+	나/pvg+아/ecx+오/px+아/ep+ㄴ/etm
+
+위노나
+	위노/ncn+나/jcj
+
+라이더(Winona
+	라이더(Winona/ncn
+
+Ryder)
+	Ryder/f+)/sr
+
+
+간만에
+	간만/ncn+에/jca
+
+보는
+	보/px+는/etm
+
+반가운
+	반갑/paa+은/etm
+
+얼굴이긴
+	얼굴이긴/ncn
+
+했는데
+	하/pvg+었/ep+는데/ecs
+
+
+한동안
+	한동안/ncn
+
+유망주로
+	유망주/ncn+로/jca
+
+주목받으며
+	주목/ncpa+받/xsva+으며/ecc
+
+여러
+	여러/mma
+
+영화에서
+	영화/ncn+에서/jca
+
+주연으로
+	주연/ncpa+으로/jca
+
+나오다가
+	나오/pvg+다가/ecc
+
+
+요즘
+	요즘/mag
+
+점점
+	점점/mag
+
+조연으로
+	조연/ncpa+으로/jca
+
+내리막을
+	내리막/ncn+을/jco
+
+걷는
+	걷/pvg+는/etm
+
+모습들이
+	모습/ncn+들/ncn+이/jcc
+
+참
+	참/mag
+
+안타깝다
+	안타깝/paa+다/ef
+
+.
+	./sf
+
+
+엔딩이
+	엔딩/ncn+이/jcc
+
+마음에
+	마음/ncn+에/jca
+
+들고
+	들/pvg+고/ecc
+
+안들고를
+	안들고/ncn+를/jco
+
+떠나
+	뜨/paa+어/ecs+나/jxc
+
+
+간만에
+	간만/ncn+에/jca
+
+정말
+	정말/mag
+
+잘
+	잘/mag
+
+만든
+	만들/pvg+ㄴ/etm
+
+수작을
+	수작/ncn+을/jco
+
+봤다
+	보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+만약
+	만약/mag
+
+이
+	이/mmd
+
+포스터가
+	포스터/ncn+가/jcs
+
+메인포스터였으면
+	메인/ncn+포스터/ncn+이/jp+었/ep+으면/ecs
+
+관객들이
+	관객/ncn+들/ncn+이/jcc
+
+많았으려나
+	많/paa+아/ep+려/ecs+나/jxc
+
+..
+	./sf+./sf
+
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+영화를
+	영화/ncn+를/jco
+
+보고나면
+	보/pvg+고/ecx+나/px+면/ecs
+
+이해가
+	이/nnc+해/nbu+가/jcc
+
+가는
+	가/pvg+는/etm
+
+포스터~
+	포스터/ncn+~/sd

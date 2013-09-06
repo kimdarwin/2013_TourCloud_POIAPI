@@ -1,0 +1,3560 @@
+서울
+	서울/ncn
+
+호텔
+	호텔/ncn
+
+리뷰
+	리뷰/ncpa
+
+::
+	:/sp+:/sp
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+(Millennium
+	(/sl+Millennium/f
+
+Seoul
+	Seoul/f
+
+Hilton)
+	Hilton/f+)/sr
+
+'이그제큐티브
+	'이그제큐티브/ncn
+
+프리미엄
+	프리미엄/ncn
+
+룸'
+	룸/ncn+'/sr
+
+
+2011년
+	2011/nnc+년/nbu
+
+12월에
+	12/nnc+월/nbu+에/jca
+
+다녀
+	다니/pvg+어/ecx
+
+온
+	오/px+ㄴ/etm
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+.
+	./sf
+
+
+어찌
+	어찌/mag
+
+어찌
+	어찌/mag
+
+하다보니
+	하/pvg+어다/ecx+보/px+니/ecs
+
+12월도
+	12/nnc+월/nbu+도/jxc
+
+후딱,
+	후딱,/ncn
+
+1월도
+	1/nnc+월/nbu+도/jxc
+
+후딱~
+	후딱~/ncn
+
+눈
+	눈/ncn
+
+깜짝
+	깜짝/mag
+
+할
+	하/pvg+ㄹ/etm
+
+사이에
+	사이/ncn+에/jca
+
+지나가버리고,2월도
+	지나/pvg+아/ecx+가/px+아/ecx+버리/px+고/ecc+,/sp+2/nnc+월/nbu+도/jxc
+
+후딱;;
+	후딱/ncn+;/sy+;/sy
+
+
+어찌나
+	어찌/mag+나/jxc
+
+시간이
+	시간/ncn+이/jcc
+
+빨리
+	빨리/mag
+
+흘러가는지
+	흐르/pvg+어/ecx+가/px+는지/ecs
+
+요즘
+	요즘/mag
+
+같아선
+	같/paa+아/ecs
+
+정말
+	정말/mag
+
+하루
+	하루/ncn
+
+48시간이었으면
+	48/nnc+시간/nbu+이/jp+었/ep+으면/ecs
+
+좋겠어요
+	좋/paa+겠/ep+어/ef+요/jxf
+
+!
+	!/sf
+
+
+백수가
+	백/nnc+수/nbu+가/jcc
+
+과로사한다고
+	과로사한다/ncn+이/jp+고/ecc
+
+회사도
+	회사/ncn+도/jxc
+
+안다니는
+	알/pvg+ㄴ다니/ef+는/etm
+
+사람이
+	사람/ncn+이/jcc
+
+어찌이리
+	어찌/ncpa+이/jp+리/ef
+
+바쁘답니까
+	바쁘답니까/ncn
+
+?
+	?/sf
+
+
+푸욱-
+	푸욱-/ncn
+
+쉬고싶다는
+	쉬/pvg+고/ecx+싶/px+다/ef+는/etm
+
+바램을
+	바램/ncn+을/jco
+
+담아
+	담/pvg+아/ecx
+
+하루종일
+	하루종일/ncn
+
+뒹굴뒹굴
+	뒹굴뒹굴/ncn
+
+편히
+	편히/mag
+
+쉬고
+	쉬/pvg+고/ecc
+
+온
+	오/px+ㄴ/etm
+
+밀레티엄
+	밀레티엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+리뷰
+	리뷰/ncpa
+
+시작합니다
+	시작/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼으로
+	힐튼/ncn+으로/jca
+
+함께
+	함께/mag
+
+떠나볼까요
+	떠나/pvg+아/ecx+보/px+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+**
+	*/sy+*/sy
+
+작은
+	작/paa+은/etm
+
+사진들은
+	사/pvg+아/ecx+지/px+ㄴ들/ecs+은/jxc
+
+클릭하시면
+	클릭/ncpa+하시/ncn+이/jp+면/ecs
+
+크게
+	크/paa+게/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+외관
+	외관/ncn
+
+
+호호시골에
+	호호시골/ncn+에/jca
+
+사는
+	사/pvg+는/etm
+
+꽁냥
+	꽁냥/ncn
+
+2011년
+	2011/nnc+년/nbu
+
+12월
+	12/nnc+월/nbu
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼을
+	힐튼/ncn+을/jco
+
+찾아
+	찾/pvg+아/ecx
+
+서울로
+	서울/ncn+로/jca
+
+상경
+	상경/ncpa
+
+!
+	!/sf
+
+
+사람이
+	사람/ncn+이/jcc
+
+겁나게
+	겁나/pvg+게/ecs
+
+많은
+	많/paa+은/etm
+
+서울역
+	서울역/ncn
+
+광장에
+	광장/ncn+에/jca
+
+서서
+	서/pvg+어서/ecs
+
+쓰윽
+	쓰윽/ncn
+
+둘러보니
+	두르/pvg+어/ecx+보/px+니/ecs
+
+저
+	저/mmd
+
+멀리
+	멀리/mag
+
+밀레니엄서울
+	밀레니엄서울/ncn
+
+힐튼
+	힐튼/ncn
+
+호텔
+	호텔/ncn
+
+빌딩이
+	빌딩/ncn+이/jcc
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위의
+	(/sl+위/ncn+의/jcm
+
+사진은
+	사진/ncn+은/jxc
+
+서울역에서
+	서울역/ncn+에서/jca
+
+보이는
+	보이/pvg+는/etm
+
+사진은
+	사진/ncn+은/jxc
+
+아니예요
+	아니/paa+예요/ef
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+외부
+	외부/ncn
+
+모습이
+	모습/ncn+이/jcc
+
+저렿다고)
+	저렿다/ncn+고/jcj+)/sr
+
+
+서울역에서
+	서울역/ncn+에서/jca
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+호텔까지는
+	호텔/ncn+까지/jxc+는/jxc
+
+걸어가거나
+	걷/pvg+어/ecx+가/px+거나/ecc
+
+택시를
+	택시/ncn+를/jco
+
+타거나
+	타/pvg+거나/ecc
+
+둘
+	두/pvg+ㄹ/etm
+
+중
+	중/nbn
+
+하나~
+	하나/nnc+~/sd
+
+!!
+	!/sf+!/sf
+
+
+혹시나
+	혹시/mag+나/jxc
+
+셔틀버스가
+	셔틀버스/ncn+가/jcs
+
+있나
+	있/px+나/ef
+
+?
+	?/sf
+
+
+해서
+	하/pvg+어서/ecs
+
+찾아봤더니
+	찾/pvg+아/ecx+보/px+아/ep+니/ecs
+
+서울역에서
+	서울역/ncn+에서/jca
+
+가는건
+	가는건/ncn
+
+없고,
+	없/paa+고/ecc+,/sp
+
+여의도노선,
+	여의도노선,/ncn
+
+시내노선,
+	시내/ncn+노선/ncn+,/sp
+
+시내쇼핑노선,
+	시내/ncn+쇼핑/ncpa+노선/ncn+,/sp
+
+이태원노선
+	이태원노선/ncn
+
+이렇게
+	이렇/pad+게/ecs
+
+나뉘어져서
+	나뉘/pvg+어/ecx+지/px+어서/ecs
+
+
+다른
+	다른/mma
+
+지역에서
+	지역/ncn+에서/jca
+
+가는건
+	가는건/ncn
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+**
+	*/sy+*/sy
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+홈페이지
+	홈페이지/ncn
+
+바로가기
+	바로가/ncn+이/jp+기/etn
+
+
+찾아가는
+	찾/pvg+아/ecx+가/px+는/etm
+
+방법
+	방법/ncn
+
+:
+	:/sp
+
+HOME호텔소개위치안내
+	HOME/f+호텔/ncn+소개/ncpa+위치/ncn+안내/ncpa
+
+/
+	//sp
+
+셔틀버스안내
+	셔틀버스/ncn+안내/ncpa
+
+:
+	:/sp
+
+HOME호텔소개셔틀버스안내
+	HOME/f+호텔/ncn+소개/ncpa+셔틀버스/ncn+안내/ncpa
+
+
+일단
+	일단/mag
+
+저는
+	저/npp+는/jxc
+
+지하철을
+	지하철/ncn+을/jco
+
+타고(아-
+	타고(아-/ncn
+
+술
+	술/ncn
+
+마시려고;;;
+	마시려고;;;/ncn
+
+)
+	)/sr
+
+서울역으로
+	서울역/ncn+으로/jca
+
+도착했으니
+	도착/ncpa+하/xsva+었/ep+으니/ecs
+
+서울역에서
+	서울역/ncn+에서/jca
+
+고고~
+	고고/ncn+~/sd
+
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+로비프론트자선열차
+	로비/ncn+프론트/ncn+자선/ncpa+열차/ncn
+
+
+사람이
+	사람/ncn+이/jcc
+
+북적
+	북/ncn+적/xsncc
+
+북적거리는
+	북적거리/pvg+는/etm
+
+밀레티엄
+	밀레티엄/ncn
+
+서울
+	서울/ncn
+
+힐튼에
+	힐튼/ncn+에/jca
+
+도착,
+	도착/ncpa+,/sp
+
+12월이라
+	12/nnc+월/nbu+이/jp+라/ecs
+
+메인로비에서
+	메인/ncn+로비/ncn+에서/jca
+
+거대한
+	거대/ncps+하/xsms+ㄴ/etm
+
+트리가
+	트리/ncn+가/jcs
+
+반겨주네요
+	반기/pvg+어/ecx+주/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+메인트리
+	메인/ncn+트리/ncn
+
+아랫쪽으론
+	아랫쪽/ncn+으론/jca
+
+사랑의
+	사랑/ncn+의/jcm
+
+자선열차가칙칙폭폭
+	자선열차가칙칙폭폭/ncn
+
+.
+	./sf
+
+
+오밤중에
+	오밤중/ncn+에/jca
+
+술
+	술/ncn
+
+마시다
+	말/px+시/ep+다/ef
+
+뛰쳐나와
+	뛰치/pvg+어/ecx+나/px+아/ecx+오/px+아/ecx
+
+찍은
+	찍/pvg+은/etm
+
+사진이라
+	사진/ncn+이/jp+라/ecs
+
+좀
+	좀/mag
+
+많이
+	많/paa+이/xsa
+
+흔들렸는데
+	흔들리/pvg+었/ep+는데/ecs
+
+보아
+	보/pvg+아/ecx
+
+넘겨주시길
+	넘겨주시길/ncn
+
+바래요
+	바/nbn+이/jp+래/ef+요/jxf
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+메인
+	메/ncn+이/jp+ㄴ/etm
+
+로비에서
+	로비/ncn+에서/jca
+
+살짝
+	살짝/mag
+
+빠져있는
+	빠지/pvg+어/ecx+있/px+는/etm
+
+프론트를
+	프론트/ncn+를/jco
+
+찾아
+	찾/pvg+아/ecx
+
+체크인
+	체크인/ncn
+
+요청을
+	요청/ncpa+을/jco
+
+하니
+	하/pvg+니/ecs
+
+이그제큐티브
+	이그제큐티브/ncn
+
+룸이라
+	룸/ncn+이/jp+라/ecs
+
+이그제큐티브
+	이그제큐티브/ncn
+
+전용
+	전용/ncpa
+
+체크인
+	체크인/ncn
+
+카운터로
+	카운터/ncn+로/jca
+
+안내를
+	알/pvg+ㄴ/etm+내/nbn+를/jco
+
+해줍니다
+	하/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+이그제큐티브
+	이그제큐티브/ncn
+
+라운지
+	라운지/ncn
+
+
+예약사항
+	예약/ncpa+사항/ncn
+
+
+HHonors
+	HHonors/f
+
+Gold
+	Gold/f
+
+Membership
+	Membership/f
+
+
+-
+	-/sd
+
+Rooms
+	Rooms/f
+
+:
+	:/sp
+
+1
+	1/nnc
+
+-
+	-/sd
+
+Clients
+	Clients/f
+
+:
+	:/sp
+
+1
+	1/nnc
+
+Adult
+	Adult/f
+
+-
+	-/sd
+
+Room
+	Room/f
+
+Type
+	Type/f
+
+:
+	:/sp
+
+EXECUTIVE
+	EXECUTIVE/f
+
+TWIN
+	TWIN/f
+
+
+-
+	-/sd
+
+Rate
+	Rate/f
+
+Type
+	Type/f
+
+:
+	:/sp
+
+THE
+	THE/f
+
+DECEMBER
+	DECEMBER/f
+
+SALE
+	SALE/f
+
+-
+	-/sd
+
+Total
+	Total/f
+
+for
+	for/f
+
+Stay
+	Stay/f
+
+per
+	per/f
+
+Room
+	Room/f
+
+:
+	:/sp
+
+Rate
+	Rate/f
+
+194,300.
+	194,300/nnc+./sf
+
+00
+	00/nnc
+
+KRWTaxes
+	KRWTaxes/f
+
+40,803.
+	40,803/nnc+./sf
+
+00
+	00/nnc
+
+KRWTotal
+	KRWTotal/f
+
+235,103.
+	235,103/nnc+./sf
+
+00
+	00/nnc
+
+KRW
+	KRW/f
+
+
+-
+	-/sd
+
+포인트
+	포인트/nbu
+
+25%
+	25/nnc+%/su
+
+추가
+	추/ncn+가/jcs
+
+적립-
+	적립/ncpa+-/sd
+
+고속
+	고속/ncn
+
+인터넷
+	인터넷/ncn
+
+무료
+	무료/ncn
+
+
+*
+	*/sy
+
+체크인
+	체크인/ncn
+
+시
+	시/nbu
+
+가능하면
+	가능/ncps+하/xsms+면/ecs
+
+룸
+	룸/ncn
+
+업그레이드(이그제큐티브
+	업그레이드(이그제큐티브/ncn
+
+룸)
+	룸/ncn+)/sr
+
+:
+	:/sp
+
+라운지
+	라운지/ncn
+
+이용
+	이용/ncpa
+
+
+*
+	*/sy
+
+2인
+	2/nnc+이/jp+ㄴ/etm
+
+조식
+	조식/ncpa
+
+무료
+	무료/ncn
+
+제공
+	제공/ncpa
+
+
+or
+	or/f
+
+
+*
+	*/sy
+
+보너스포인트
+	보너스/ncn+포인트/ncn
+
+1000포인트
+	1000/nnc+포인트/nbu
+
+추가
+	추/ncn+가/jcs
+
+적립
+	적립/ncpa
+
+.
+	./sf
+
+
+12월
+	12/nnc+월/nbu
+
+세일
+	세/nnc+일/nbu
+
+프로모션으로이그제큐티브
+	프로모션으로이그제큐티브/ncn
+
+룸과
+	룸/ncn+과/jcj
+
+일반
+	일반/ncn
+
+디럭스
+	디럭스/ncn
+
+룸의
+	룸/ncn+의/jcm
+
+요금이
+	요금/ncn+이/jcc
+
+별로
+	별로/mag
+
+차이나지않아
+	차이/ncn+나/ncn+이/jp+지/ecx+않/px+아/ecx
+
+혹시나
+	혹시/mag+나/jxc
+
+모를
+	모르/pvg+ㄹ/etm
+
+상황(업그레이드가
+	상황(업그레이드/ncn+가/jcs
+
+안될때)를
+	안되/paa+ㄹ/etm+때/nbn+)/sr+를/jco
+
+대비해
+	대비/ncn+해/ncn
+
+
+기냥
+	기냥/ncn
+
+이그제큐티브룸으로예약을
+	이그제큐티브룸으로예약/ncn+을/jco
+
+했더니
+	하/px+었/ep+더니/ecs
+
+이그제큐티브
+	이그제큐티브/ncn
+
+프리미엄
+	프리미엄/ncn
+
+룸으로
+	룸/ncn+으로/jca
+
+업그레이드가
+	업그레이드/ncn+가/jcs
+
+되었다고
+	되/pvg+었/ep+다/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+**
+	*/sy+*/sy
+
+투숙
+	투숙/ncpa
+
+인원은
+	인원/ncn+은/jxc
+
+1인으로
+	1/nnc+인/nbu+으로/jca
+
+예약을
+	예약/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+미리
+	미리/mag
+
+전화로
+	전화/ncpa+로/jca
+
+골드
+	골드/ncn
+
+특전으로
+	특전/ncn+으로/jca
+
+2인이
+	2/nnc+인/nbu+이/jcc
+
+사용할꺼라고
+	사용할꺼/ncn+이/jp+라/ef+고/jcr
+
+확인했습니다
+	확인/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+이그제큐티브
+	이그제큐티브/ncn
+
+프리미엄
+	프리미엄/ncn
+
+룸
+	룸/ncn
+
+2125호
+	2125/nnc+호/nbu
+
+
+객실
+	객실/ncn
+
+상세
+	상세/ncn
+
+설명-
+	설명/ncpa+-/sd
+
+객실크기
+	객실/ncn+크기/ncn
+
+:
+	:/sp
+
+36
+	36/nnc
+
+-
+	-/sd
+
+전망
+	전망/ncn
+
+:
+	:/sp
+
+남산
+	남산/ncn
+
+뷰-
+	뷰-/ncn
+
+전원
+	전원/ncn
+
+:
+	:/sp
+
+220V
+	220V/ncn
+
+또는
+	또는/maj
+
+110V
+	110V/ncn
+
+사용
+	사용/ncpa
+
+가능-
+	가능/ncps+-/sd
+
+침대타입
+	침대/ncn+타입/ncn
+
+:
+	:/sp
+
+2
+	2/nnc
+
+Single
+	Single/f
+
+Beds
+	Beds/f
+
+-
+	-/sd
+
+음성
+	음성/ncn
+
+메시지
+	메시지/ncn
+
+서비스,
+	서비스/ncpa+,/sp
+
+다채널
+	다채널/ncn
+
+위성방송과
+	위성방송/ncpa+과/jcj
+
+주문형
+	주문/ncn+형/ncn
+
+영화,
+	영화/ncn+,/sp
+
+개별
+	개별/ncn
+
+휴대폰
+	휴대폰/ncn
+
+비치,
+	비치/ncpa+,/sp
+
+컴퓨터
+	컴퓨터/ncn
+
+비치,
+	비치/ncpa+,/sp
+
+다리미,
+	다리미/ncn+,/sp
+
+온열포트,
+	온열/ncn+포트/ncn+,/sp
+
+안락한
+	안락/ncps+하/xsms+ㄴ/etm
+
+메트리스,
+	메트리스/ncn+,/sp
+
+
+힐튼
+	힐튼/ncn
+
+스탠다드
+	스탠다드/ncn
+
+전원
+	전원/ncn
+
+콘센트,
+	콘센트/ncn+,/sp
+
+허먼
+	허먼/ncn
+
+밀러
+	밀/pvg+러/ecs
+
+인체공학
+	인체공학/ncn
+
+의자가
+	의자/ncn+가/jcs
+
+구비된
+	구비/ncpa+되/xsvn+ㄴ/etm
+
+넓은
+	넓/paa+은/etm
+
+사무공간,
+	사무공간/ncn+,/sp
+
+42인치
+	42/nnc+인치/nbu
+
+LED
+	LED/f
+
+TV,
+	TV/f+,/sp
+
+욕실
+	욕실/ncn
+
+비데,
+	비데/ncn+,/sp
+
+밝은
+	밝/paa+은/etm
+
+욕실
+	욕실/ncn
+
+조명,
+	조명/ncpa+,/sp
+
+
+노트북을
+	노트북/ncn+을/jco
+
+넣을
+	넣/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+넉넉한
+	넉넉/ncps+하/xsms+ㄴ/etm
+
+금고,
+	금고/ncn+,/sp
+
+최신식
+	최신/ncn+식/ncn
+
+미니
+	밀/pvg+니/ecs
+
+바,
+	바/nbn+,/sp
+
+침대옆
+	침대/ncn+옆/ncn
+
+독서용
+	독서/ncpa+용/ncn
+
+램프,
+	램프/ncn+,/sp
+
+최고층에
+	최고/ncn+층/ncn+에/jca
+
+보다
+	보다/mag
+
+높은
+	높/paa+은/etm
+
+천장과
+	천/nnc+장/nbu+과/jct
+
+넓은
+	넓/paa+은/etm
+
+객실
+	객실/ncn
+
+
+이그제큐티브
+	이그제큐티브/ncn
+
+룸
+	룸/ncn
+
+고객
+	고객/ncn
+
+특전-
+	특전/ncn+-/sd
+
+이그제큐티브
+	이그제큐티브/ncn
+
+라운지
+	라운지/ncn
+
+혜택(라운지
+	혜택(라운지/ncn
+
+이용
+	이용/ncpa
+
+시간
+	시간/nbu
+
+:
+	:/sp
+
+오전
+	오전/ncn
+
+6시30분
+	6시30분/ncn
+
+~
+	~/sd
+
+밤10시)-
+	밤10시)-/ncn
+
+무료
+	무료/ncn
+
+다림질
+	다림질/ncpa
+
+서비스
+	서비스/ncpa
+
+(체크인
+	(/sl+체크인/ncn
+
+당일에
+	당일/ncn+에/jca
+
+한함/
+	한하/pvg+ㅁ/etn+//sp
+
+양복
+	양복/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+벌)-
+	벌/nbu+)/sr+-/sd
+
+컴퓨터
+	컴퓨터/ncn
+
+및
+	및/maj
+
+초고속
+	초고속/ncn
+
+인터넷
+	인터넷/ncn
+
+무료
+	무료/ncn
+
+제공-
+	제공/ncpa+-/sd
+
+17시까지
+	17/nnc+시/nbu+까지/jxc
+
+체크아웃
+	체크아웃/ncpa
+
+연장
+	연장/ncpa
+
+가능-
+	가능/ncps+-/sd
+
+턴다운
+	턴다운/ncn
+
+어메니티-
+	어메니티-/ncn
+
+비행시간이
+	비행시간/ncn+이/jcc
+
+급한
+	급하/paa+ㄴ/etm
+
+고객을
+	고객/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+플라잇
+	플라잇/ncn
+
+바이트(과일,
+	바이트(과일,/ncn
+
+머핀,
+	머핀,/ncn
+
+요구르트,
+	요구르트/ncn+,/sp
+
+음료)제공-
+	음료/ncn+)/sr+제공/ncpa+-/sd
+
+객실
+	객실/ncn
+
+내
+	내/npp
+
+휴대폰
+	휴대폰/ncn
+
+대여료
+	대여료/ncn
+
+50%
+	50/nnc+%/su
+
+할인-
+	할/nbu+이/jp+ㄴ/etm+-/sd
+
+사우나
+	사우나/ncn
+
+입장료
+	입장료/ncn
+
+50%
+	50/nnc+%/su
+
+할인-
+	할/nbu+이/jp+ㄴ/etm+-/sd
+
+비즈니스
+	비즈니스/ncn
+
+센터
+	센터/ncn
+
+20%
+	20/nnc+%/su
+
+할인
+	할인/ncpa
+
+
+건물
+	건물/ncn
+
+외관이
+	외관/ncn+이/jcc
+
+생각보다
+	생각/ncpa+보다/jca
+
+좀
+	좀/mag
+
+구린듯해서
+	구리/paa+ㄴ/etm+듯/nbs+하/xsms+어서/ecs
+
+객실
+	객실/ncn
+
+인테리어도
+	인테리어/ncn+도/jxc
+
+그닥
+	그닥/ncn
+
+기대는
+	기대/pvg+는/etm
+
+안했었는데
+	안하/pvg+었었/ep+는데/ecs
+
+오오-
+	오/px+오/ef+-/sd
+
+생각보다
+	생각/ncpa+보다/jca
+
+괜찮네요
+	괜찮/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+골드컬러의
+	골드/ncn+컬러/ncn+의/jcm
+
+인테리어가
+	인테리어/ncn+가/jcs
+
+객실을
+	객실/ncn+을/jco
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+고급스러워
+	고급/ncn+스럽/xsmn+어/ecx
+
+보이게
+	보이/pvg+게/ecs
+
+하는데다
+	하/px+어/ef+는/etm+데/nbn+이/jp+다/ef
+
+그
+	그/mmd
+
+문양때문인지
+	문양때문인지/ncn
+
+한국스러운
+	한국스러운/ncn
+
+느낌도
+	느끼/pvg+ㅁ/etn+도/jxc
+
+살짝
+	살짝/mag
+
+나면서
+	나/px+면서/ecc
+
+군더더기
+	군더더기/ncn
+
+없이
+	없이/mag
+
+깔끔한
+	깔끔/ncps+하/xsms+ㄴ/etm
+
+느낌
+	느끼/pvg+ㅁ/etn
+
+.
+	./sf
+
+
+책상
+	책상/ncn
+
+위에
+	위/ncn+에/jca
+
+설치된
+	설치/ncpa+되/xsvn+ㄴ/etm
+
+노트북은
+	노트북/ncn+은/jxc
+
+그냥
+	그냥/mag
+
+이그제큐티브
+	이그제큐티브/ncn
+
+룸에는
+	룸/ncn+에/jca+는/jxc
+
+없고,
+	없/paa+고/ecc+,/sp
+
+이그제큐티브
+	이그제큐티브/ncn
+
+프리미엄
+	프리미엄/ncn
+
+룸에는
+	룸/ncn+에/jca+는/jxc
+
+있는
+	있/px+는/etm
+
+서비스예요
+	서비스/ncpa+이/jp+예요/ef
+
+.
+	./sf
+
+
+이그제큐티브
+	이그제큐티브/ncn
+
+프리미엄
+	프리미엄/ncn
+
+룸에
+	룸/ncn+에/jca
+
+묵으면
+	묵/pvg+으면/ecs
+
+무료로
+	무료/ncn+로/jca
+
+이용이
+	이용/ncpa+이/jcc
+
+가능하답니다
+	가능/ncps+하/xsms+답니다/ef
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+저는
+	저/npp+는/jxc
+
+그것도
+	그것/npd+도/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+노트북을
+	노트북/ncn+을/jco
+
+꾸역
+	꾸역/ncn
+
+꾸역
+	꾸역/ncn
+
+어깨에
+	어깨/ncn+에/jca
+
+들쳐메고
+	들쳐메/ncn+이/jp+고/ecc
+
+가서
+	가/pvg+서/ecs
+
+..
+	./sf+./sf
+
+
+=_=;;;
+	=_=;;;/ncn
+
+미리
+	미리/mag
+
+찾아보고
+	찾/pvg+아/ecx+보/px+고/ecc
+
+갈껄
+	갈껄/ncn
+
+...
+	.../se
+
+
+미니바에는
+	미니/ncn+바/ncn+에/jca+는/jxc
+
+역쉬
+	역쉬/ncn
+
+주당들의
+	주당/ncn+들/ncn+의/jcm
+
+천국
+	천국/ncn
+
+한국답게
+	한국답게/ncn
+
+갖가지
+	갖가지/mma
+
+술들이
+	술/ncn+들/xsncc+이/jcc
+
+주르르륵~
+	주르르륵~/ncn
+
+디피되어
+	디피되/ncn+이/jp+어/ecs
+
+있고,
+	있/px+고/ecc+,/sp
+
+안주,
+	안주/ncn+,/sp
+
+소프트
+	소프트/ncn
+
+드링크에
+	드링크/ncn+에/jca
+
+무료로
+	무료/ncn+로/jca
+
+제공되는
+	제공/ncpa+되/xsvn+는/etm
+
+차,
+	차/nbn+,/sp
+
+
+한국
+	한국/ncn
+
+호텔에는
+	호텔/ncn+에/jca+는/jxc
+
+비치되어
+	비치/ncpa+되/xsvn+어/ecx
+
+있지
+	있/px+지/ecx
+
+않은
+	않/px+은/etm
+
+칫솔과
+	칫솔/ncn+과/jcj
+
+치약까지
+	치약/ncn+까지/jxc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+모호텔에서는
+	모호/ncn+텔/ncn+에서/jca+는/jxc
+
+전화로
+	전화/ncpa+로/jca
+
+무료
+	무료/ncn
+
+칫솔
+	칫솔/ncn
+
+치약
+	치약/ncn
+
+세트를
+	세트/ncn+를/jco
+
+가져다
+	가/pvg+아/ecx+지/px+어다/ecs
+
+달라고
+	다르/paa+아/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+가져다주긴
+	가져다주긴/ncn
+
+하던데
+	하/pvg+던/etm+데/nbn
+
+...
+	.../se
+
+
+환경
+	환경/ncn
+
+오염의
+	오염/ncpa+의/jcm
+
+주범인
+	주범/ncn+이/jp+ㄴ/etm
+
+일회용품
+	일회용품/ncn
+
+사용은
+	사용/ncpa+은/jxc
+
+왠만하면
+	왠만하/ncn+이/jp+면/ecs
+
+자제하고
+	자제/ncn+하고/jcj
+
+개인
+	개/nbu+이/jp+ㄴ/etm
+
+칫솔치약세트를
+	칫솔/ncn+치약/ncn+세트/ncn+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+다니도록
+	다니/pvg+도록/ecs
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+이그제큐티브
+	이그제큐티브/ncn
+
+프리미엄
+	프리미엄/ncn
+
+룸
+	룸/ncn
+
+2125호
+	2125/nnc+호/nbu
+
+/
+	//sp
+
+BATHROOM
+	BATHROOM/f
+
+
+-욕실용품
+	-/sd+욕실용품/ncn
+
+:
+	:/sp
+
+헤어드라이어,
+	헤어드라이어/ncn+,/sp
+
+순면목욕가운,피터토마스로스
+	순면목욕가운,피터토마스로스/ncn
+
+어메니티,
+	어메니티,/ncn
+
+샤워캡,
+	샤워/ncpa+캡/ncn+,/sp
+
+순면수건(대형,소형)
+	순면/ncn+수/ncn+건/xsnx+(/sl+대형/ncn+,/sp+소형/ncn+)/sr
+
+
+욕실
+	욕실/ncn
+
+어메니티
+	어메니티/ncn
+
+세트가
+	세트/ncn+가/jcs
+
+여느
+	여느/mma
+
+다른
+	다른/mma
+
+힐튼에서
+	힐튼/ncn+에서/jca
+
+보았던
+	보/px+아/ep+ㄴ/etm
+
+크랩트리앤에블린이
+	크랩트리앤에블린/ncn+이/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+피터토마스로스네요
+	피터토마스로스네요/ncn
+
+.
+	./sf
+
+
+피터토마스로스는
+	피터토마스로스/ncn+는/jxc
+
+남자
+	남자/ncn
+
+향수같이
+	향수/ncn+같이/jca
+
+강한
+	강하/paa+ㄴ/etm
+
+향이
+	향/ncn+이/jcc
+
+나는
+	나/npp+는/jxc
+
+크랩트리앤에블린보다
+	크랩트리앤에블린/ncn+보다/jca
+
+약간
+	약간/mag
+
+장미향이
+	장미/ncn+향/ncn+이/jcc
+
+나는것이
+	나/px+는/etm+것/nbn+이/jcc
+
+더
+	더/mag
+
+좋게
+	좋/paa+게/ecs
+
+느껴져요
+	느끼/pvg+어/ecx+지/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+(지극히
+	(/sl+지극히/mag
+
+주관적임)
+	주관/ncn+적임/ncn+)/sr
+
+
+사용감도
+	사용/ncpa+감/ncn+도/jxc
+
+촉촉하니
+	촉촉하/paa+니/ecs
+
+좋은듯
+	좋/paa+은/etm+듯/nbs
+
+.
+	./sf
+
+
+그나저나
+	그나저나/mag
+
+리뉴얼하면서
+	리뉴얼하/ncn+이/jp+면서/ecc
+
+욕실은
+	욕실/ncn+은/jxc
+
+안한건가;;
+	안한건가;;/ncn
+
+아님
+	아니/paa+ㅁ/etn
+
+고급스러우라고
+	고급/ncn+스럽/xsmn+으라/ef+고/jcr
+
+일부러
+	일부러/mag
+
+인테리어를
+	인테리어/ncn+를/jco
+
+이렇게
+	이렇/pad+게/ecs
+
+한건가;;;
+	한건가/ncn+;/sy+;/sy+;/sy
+
+
+객실의
+	객실/ncn+의/jcm
+
+모던한
+	모/ncn+이/jp+던/etm+한/nbn
+
+분위기와
+	분위기/ncn+와/jct
+
+어울리지
+	어울리/pvg+지/ecx
+
+않게
+	않/px+게/ecs
+
+살짝올드해보이네요
+	살짝올드해보이네요/ncn
+
+.
+	./sf
+
+
+샤워
+	샤워/ncpa
+
+커튼도
+	커튼/ncn+도/jxc
+
+좀.
+	졸/pvg+ㅁ/etn+./sy
+
+..
+	./sf+./sf
+
+
+별로
+	별로/mag
+
+...
+	.../se
+
+
+그랜드
+	그랜드/ncn
+
+힐튼
+	힐튼/ncn
+
+서울처럼
+	서울처럼/ncn
+
+욕조에
+	욕조/ncn+에/jca
+
+샤워부스가
+	샤워/ncpa+부스/ncn+가/jcs
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecx
+
+있으면
+	있/px+으면/ecs
+
+더
+	더/mag
+
+깔끔해보였을텐데
+	깔끔/ncps+하/xsms+어/ecx+보이/px+었/ep+을텐데/ecs
+
+살짝
+	살짝/mag
+
+아쉽습니다
+	아쉽/paa+습니다/ef
+
+.
+	./sf
+
+
+객실을
+	객실/ncn+을/jco
+
+나름
+	나름/nbn
+
+꼼꼼히
+	꼼꼼히/mag
+
+둘러보고나니
+	두르/pvg+어/ecx+보/px+고/ecx+나/px+니/ecs
+
+호텔에서의
+	호텔/ncn+에서/jca+의/jcm
+
+하루를
+	하루/ncn+를/jco
+
+함께
+	함께/mag
+
+할
+	하/pvg+ㄹ/etm
+
+언니가
+	언니/ncn+가/jcs
+
+와서
+	오/px+아/ecs
+
+라운지로
+	라운지/ncn+로/jca
+
+커피를
+	커피/ncn+를/jco
+
+마시러
+	마시/pvg+러/ecs
+
+갑니다
+	가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+이그제큐티브
+	이그제큐티브/ncn
+
+라운지
+	라운지/ncn
+
+
+Executive(EFL)
+	Executive/f+(/sl+EFL/f+)/sr
+
+라운지-
+	라운지/ncn+-/sd
+
+이용시간
+	이용시간/ncn
+
+:
+	:/sp
+
+오전
+	오전/ncn
+
+6시
+	6/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+~
+	~/sd
+
+저녁
+	저녁/ncn
+
+10시
+	10/nnc+시/nbu
+
+-
+	-/sd
+
+무료
+	무료/ncn
+
+조식
+	조식/ncpa
+
+제공
+	제공/ncpa
+
+:
+	:/sp
+
+19층
+	19/nnc+층/nbu
+
+라운지/21층
+	라운지/ncn+//sp+21/nnc+층/nbu
+
+라운지
+	라운지/ncn
+
+주중
+	주중/ncn
+
+오전
+	오전/ncn
+
+6시
+	6/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+~
+	~/sd
+
+오전
+	오전/ncn
+
+10시
+	10/nnc+시/nbu
+
+주말
+	주말/ncn
+
+및
+	및/maj
+
+휴일
+	휴일/ncn
+
+오전
+	오전/ncn
+
+6시
+	6/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+~
+	~/sd
+
+오전
+	오전/ncn
+
+10시
+	10/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+-
+	-/sd
+
+Happy
+	Happy/f
+
+hour
+	hour/f
+
+서비스
+	서비스/ncpa
+
+:
+	:/sp
+
+오후
+	오후/ncn
+
+5시
+	5/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+~
+	~/sd
+
+저녁
+	저녁/ncn
+
+8시
+	8/nnc+시/nbu
+
+와인,
+	와인/ncn+,/sp
+
+맥주,
+	맥주/ncn+,/sp
+
+위스키,
+	위스키/ncn+,/sp
+
+칵테일
+	칵테일/ncn
+
+및
+	및/maj
+
+간단한
+	가/px+ㄴ단/etm+한/nbn
+
+스낵
+	스낵/ncn
+
+제공
+	제공/ncpa
+
+티,
+	트/pvg+어/ecs+,/sp
+
+커피,
+	커피/ncn+,/sp
+
+소프트
+	소프트/ncn
+
+드링크류
+	드링크/ncn+류/xsncc
+
+종일
+	종/ncn+이/jp+ㄹ/etm
+
+서비스
+	서비스/ncpa
+
+
+해피아워가
+	해피/ncpa+아워/ncn+가/jcs
+
+되기
+	되/pvg+기/etn
+
+전에도
+	전/nbn+에/jca+도/jxc
+
+달달한
+	달달한/ncn
+
+쿠키와
+	쿠키/ncn+와/jcj
+
+커피가
+	커피/ncn+가/jcs
+
+제공되니
+	제공/ncpa+되/xsvn+니/ecs
+
+외부의
+	외부/ncn+의/jcm
+
+다른
+	다른/mma
+
+카페에
+	카페/ncn+에/jca
+
+가기보다는
+	가/px+기/etn+보다/jca+는/jxc
+
+걍
+	걍/ncn
+
+편하게
+	편하/paa+게/ecs
+
+이그제큐티브
+	이그제큐티브/ncn
+
+라운지를
+	라운지/ncn+를/jco
+
+이용했는데요,
+	이용/ncpa+하/xsva+었/ep+는데요/ef+,/sp
+
+
+어찌나
+	어찌/mag+나/jxc
+
+조용한지
+	조용/ncn+한지/ncn
+
+편하게
+	편하/paa+게/ecs
+
+수다떨기엔
+	수다/ncn+떨기/ncn+엔/jca
+
+살짝
+	살짝/mag
+
+부담스러웠어요
+	부담/ncpa+스럽/xsmn+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+하하-
+	하하/ii+-/sd
+
+
+하지만
+	하지만/maj
+
+해피아워
+	해피/ncpa+아워/ncn
+
+때는
+	때/ncn+는/jxc
+
+시끌벅적
+	시끌벅적/mag
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+준비되는
+	준비/ncpa+되/xsvn+는/etm
+
+주류나
+	주류/ncn+나/jcj
+
+안주류가
+	안주/ncn+류/xsncc+가/jcc
+
+그닥
+	그닥/ncn
+
+실하진
+	실하/pvg+어/ecx+지/px+ㄴ/etm
+
+않아서
+	않/px+아/ecx
+
+만족스럽진
+	만족스럽진/ncn
+
+않아요
+	않/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+해피아워를
+	해피/ncpa+아워/ncn+를/jco
+
+즐기며
+	즐기/pvg+며/ecc
+
+아침식사는
+	아침식사/ncpa+는/jxc
+
+1층에서
+	1/nnc+층/nbu+에서/jca
+
+하겠다고
+	하/px+겠/ep+다/ef+고/jcr
+
+말해두길
+	말해두길/ncn
+
+잘했다는
+	잘하/pvg+었/ep+다/ef+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+다시
+	다시/mag
+
+한번
+	한/nnc+번/nbu
+
+했다죠
+	했다/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+커피타임과
+	커피타임/ncn+과/jcj
+
+해피아워의
+	해피/ncpa+아워/ncn+의/jcm
+
+음주까지
+	음주/ncpa+까지/jxc
+
+야무지게
+	야무지/paa+게/ecs
+
+즐겨준
+	즐기/pvg+어/ecx+주/px+ㄴ/etm
+
+후
+	후/ncn
+
+객실에서
+	객실/ncn+에서/jca
+
+또
+	또/maj
+
+다시
+	다시/mag
+
+이어진
+	잇/pvg+어/ecx+지/px+ㄴ/etm
+
+음주와
+	음주/ncpa+와/jcj
+
+수다타임
+	수다/ncn+타/ncn+이/jp+ㅁ/etn
+
+.
+	./sf
+
+
+12월이란
+	12/nnc+월/nbu+이란/jxc
+
+특수로잦은
+	특수로잦은/ncn
+
+음주로
+	음주/ncpa+로/jca
+
+인해
+	인하/pvg+어/ecx
+
+간이
+	간/ncn+이/jcc
+
+안좋아=_=져서인지
+	안좋아=_=져서/ncn+이/jp+ㄴ지/ecs
+
+얼마
+	얼마/ncn
+
+마시지도
+	마시/pvg+지/ecs+도/jxc
+
+않았는데
+	않/px+아/ep+ㄴ데/ecs
+
+급
+	급/nbu
+
+속이
+	속/ncn+이/jcc
+
+울렁꿀렁해져서
+	울렁꿀렁해져서/ncn
+
+음주보단
+	음주/ncpa+보/ncn+이/jp+단/etm
+
+수다를
+	수다/ncn+를/jco
+
+더
+	더/mag
+
+즐기긴했지만
+	즐기긴했/ncn+지만/jxc
+
+
+늦게까지
+	늦/paa+게/ecs+까지/jxc
+
+놀다가
+	놀/pvg+다가/ecs
+
+다음날
+	다음날/ncn
+
+느지마악-하게
+	느지마악-하/ncn+이/jp+게/ecs
+
+일어나
+	일어나/pvg+아/ecx
+
+아침식사를
+	아침식사/ncpa+를/jco
+
+하러
+	하/pvg+러/ecs
+
+갑니다
+	가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+카페다이닝
+	카페다이닝/ncn
+
+실란트로
+	실란트/ncn+로/jca
+
+
+아침식사를
+	아침식사/ncpa+를/jco
+
+몇시에
+	몇/nnc+시/nbu+에/jca
+
+하러갔더라
+	하러갔더/ncn+이/jp+라/ef
+
+?
+	?/sf
+
+
+침구류가
+	침구류/ncn+가/jcs
+
+따끈
+	따끈/ncps
+
+따끈하고
+	따끈/ncps+하고/jct
+
+살에
+	살/nbu+에/jca
+
+닿는
+	닿/pvg+는/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+좋아서
+	좋/paa+아/ecx
+
+눈을
+	눈/ncn+을/jco
+
+뜨고도
+	뜨/pvg+어/ef+고/jcr+도/jxc
+
+침대
+	침대/ncn
+
+속에서
+	속/ncn+에서/jca
+
+뒹굴뒹굴하다
+	뒹굴뒹굴하다/ncn
+
+굉장히
+	굉장히/mag
+
+늦게
+	늦/paa+게/ecs
+
+밥
+	밥/ncn
+
+먹으러
+	먹/pvg+으러/ecs
+
+갔었는데
+	가/px+아/ep+ㄴ데/ecs
+
+...
+	.../se
+
+
+평일이라도
+	평일/ncn+이/jp+라/ecs+도/jxc
+
+사람이
+	사람/ncn+이/jcc
+
+겁나게
+	겁나/pvg+게/ecs
+
+많더군요
+	많/paa+더군/ef+요/jxf
+
+.
+	./sf
+
+
+테이블끼리의
+	테이블/ncn+끼리/xsnx+의/jcm
+
+사이도
+	사이/ncn+도/jxc
+
+그닥
+	그닥/ncn
+
+넓지도
+	넓/paa+지/ecs+도/jxc
+
+않고,
+	않/px+고/ecc+,/sp
+
+사람도
+	사람/ncn+도/jxc
+
+복닥
+	복닥/ncn
+
+복닥
+	복닥/ncn
+
+.
+	./sf
+
+
+호텔
+	호텔/ncn
+
+관계자
+	관계/ncn+이/jp+자/ecc
+
+외의
+	외/nbn+의/jcm
+
+투숙객들의
+	투숙객/ncn+들/ncn+의/jcm
+
+얼굴이
+	얼굴/ncn+이/jcc
+
+너무
+	너무/mag
+
+많아
+	많/paa+아/ecx
+
+조식당
+	조식/ncpa+당/ncn
+
+내
+	내/npp
+
+사진은
+	사진/ncn+은/jxc
+
+찍은게
+	찍/pvg+은게/ecs
+
+없어요
+	없/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+저냥
+	저냥/ncn
+
+맛있게
+	맛있/paa+게/ecs
+
+잘
+	잘/mag
+
+먹었던
+	먹/pvg+었/ep+던/etm
+
+기억
+	기억/ncpa
+
+!?
+	!/sf+?/sf
+
+
+이그제큐티브라운지
+	이그제큐티브라운지/ncn
+
+조식은
+	조식/ncpa+은/jxc
+
+적은
+	적/nbn+은/jxc
+
+종류의
+	종류/ncn+의/jcm
+
+음식들이
+	음식/ncn+들/ncn+이/jcc
+
+준비되어
+	준비/ncpa+되/xsvn+어/ecx
+
+있겠지만
+	있/px+겠/ep+지만/ecs
+
+조용하게
+	조용/ncps+하/xsms+게/ecs
+
+즐길만할테고,
+	즐길만할테/ncn+고/jcj+,/sp
+
+
+실란트로의
+	실란트로/ncn+의/jcm
+
+조식은
+	조식/ncpa+은/jxc
+
+사람이
+	사람/ncn+이/jcc
+
+많은
+	많/paa+은/etm
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+많은
+	많/paa+은/etm
+
+종류의
+	종류/ncn+의/jcm
+
+음식들이
+	음식/ncn+들/ncn+이/jcc
+
+준비되어
+	준비/ncpa+되/xsvn+어/ecx
+
+있고
+	있/px+고/ecc
+
+...
+	.../se
+
+
+실란트로를
+	실란트로/ncn+를/jco
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다면
+	있/px+다면/ecs
+
+실란트로에서
+	실란트로/ncn+에서/jca
+
+아침식사를
+	아침식사/ncpa+를/jco
+
+하는게
+	하/pvg+는게/ecs
+
+더
+	더/mag
+
+좋은것
+	좋/paa+은/etm+것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+이그제큐티브
+	이그제큐티브/ncn
+
+프리미엄
+	프리미엄/ncn
+
+룸
+	룸/ncn
+
+2125호
+	2125/nnc+호/nbu
+
+남산
+	남산/ncn
+
+뷰
+	뷰/ncn
+
+
+보통
+	보통/mag
+
+땐
+	때/pvg+ㄴ/etm
+
+아침식사까지
+	아침식사/ncpa+까지/jxc
+
+하고
+	하/pvg+고/ecc
+
+체크아웃하고
+	체크아웃/ncpa+하고/jct
+
+나왔는데-
+	나/pvg+아/ecx+오/px+아/ep+ㄴ데/ecs+-/sd
+
+
+서울에서
+	서울/ncn+에서/jca
+
+또
+	또/maj
+
+호호시골까지
+	호호시골까지/ncn
+
+들어갈
+	들/pvg+어/ecx+가/px+ㄹ/etm
+
+생각을
+	생각/ncpa+을/jco
+
+하니-_-;
+	하니-_-;/ncn
+
+어찌이리
+	어찌/ncpa+이/jp+리/ef
+
+무서운지
+	무섭/paa+은/etm+지/nbn
+
+늦은
+	늦/paa+은/etm
+
+체크아웃을
+	체크아웃/ncpa+을/jco
+
+요청하고,
+	요청/ncpa+하고/jcj+,/sp
+
+
+객실에서
+	객실/ncn+에서/jca
+
+보이는나름
+	보이/pvg+는/etm+나름/nbn
+
+괜찮은
+	괜찮/paa+은/etm
+
+남산
+	남산/ncn
+
+전망을
+	전망/ncn+을/jco
+
+양껏
+	양껏/mag
+
+감상하다
+	감상/ncpa+하/xsva+어다/ecs
+
+또
+	또/maj
+
+다시
+	다시/mag
+
+따끈한
+	따끈/ncps+하/xsms+ㄴ/etm
+
+침대
+	침대/ncn
+
+속으로
+	속/ncn+으로/jca
+
+쏘옥
+	쏘옥/mag
+
+들어가서
+	들/pvg+어/ecx+가/px+아/ecx
+
+뒹굴대다
+	뒹굴대다/ncn
+
+느지막하게
+	느지막하/ncn+이/jp+게/ecs
+
+집으로
+	집/ncn+으로/jca
+
+돌아갔어요
+	돌/pvg+아/ecx+가/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+갠적으로
+	개/pvg+ㄴ/etm+적/nbn+으로/jca
+
+뷰는
+	뷰/ncn+는/jxc
+
+해질
+	하/pvg+어/ecx+지/px+ㄹ/etm
+
+때,
+	때/ncn+,/sp
+
+해뜰
+	해뜨/pvg+ㄹ/etm
+
+때,
+	때/ncn+,/sp
+
+밤에도
+	밤/ncn+에/jca+도/jxc
+
+괜찮았으나
+	괜찮/paa+아/ep+나/ecs
+
+밤에
+	밤/ncn+에/jca
+
+찍은
+	찍/pvg+은/etm
+
+사진이
+	사진/ncn+이/jcc
+
+보도
+	보/nbu+도/jxc
+
+못하게
+	못하/px+게/ecs
+
+구리게
+	구리/ncn+이/jp+게/ecs
+
+나와서;;
+	나와서;;/ncn
+
+당췌
+	당췌/ncn
+
+쓸수가
+	쓰/pvg+ㄹ/etm+수/nbn+가/jcc
+
+없네요
+	없/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+이상
+	이상/ncn
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+리뷰를
+	리뷰/ncpa+를/jco
+
+마치며,
+	마치/ncn+이/jp+며/ecc+,/sp
+
+
+지극히
+	지극히/mag
+
+주관적으로
+	주관/ncn+적/ncn+으로/jca
+
+그랜드
+	그랜드/ncn
+
+힐튼
+	힐튼/ncn
+
+서울과
+	서울/ncn+과/jcj
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼을
+	힐튼/ncn+을/jco
+
+비교해보자면
+	비교/ncpa+하/xsva+어/ecx+보/px+자면/ecs
+
+!
+	!/sf
+
+
+엑세스는
+	엑세스/ncn+는/jxc
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+Win
+	Win/f
+
+!
+	!/sf
+
+
+,
+	,/sp
+
+객실
+	객실/ncn
+
+분위기
+	분위기/ncn
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+Win
+	Win/f
+
+!
+	!/sf
+
+
+(그랜드
+	(/sl+그랜드/ncn
+
+힐튼
+	힐튼/ncn
+
+서울의
+	서울/ncn+의/jcm
+
+리뉴얼된
+	리뉴얼된/ncn
+
+룸에
+	룸/ncn+에/jca
+
+못
+	못/mag
+
+묵어봐서
+	묵/pvg+어/ecx+보/px+아/ecx
+
+...)
+	.../se+)/sr
+
+
+EFL
+	EFL/f
+
+라운지
+	라운지/ncn
+
+그랜드
+	그랜드/ncn
+
+힐튼
+	힐튼/ncn
+
+서울
+	서울/ncn
+
+Win
+	Win/f
+
+!!
+	!/sf+!/sf
+
+
+조식당은
+	조식/ncpa+당/ncn+은/jxc
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+Win
+	Win/f
+
+!
+	!/sf
+
+
+,
+	,/sp
+
+전망도
+	전망/ncn+도/jxc
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+Win
+	Win/f
+
+!
+	!/sf
+
+
+서비스는
+	서비스/ncpa+는/jxc
+
+둘다
+	둘다/ncn
+
+비슷
+	비슷/ncn
+
+.
+	./sf
+
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+EFL
+	EFL/f
+
+룸에는
+	룸/ncn+에/jca+는/jxc
+
+사우나
+	사우나/ncn
+
+50%
+	50/nnc+%/su
+
+할인,
+	할/nbu+이/jp+ㄴ/etm+,/sp
+
+그랜드
+	그랜드/ncn
+
+힐튼
+	힐튼/ncn
+
+서울은
+	서울/ncn+은/jxc
+
+무료
+	무료/ncn
+
+.
+	./sf
+
+
+거의
+	거의/mag
+
+모든
+	모든/mma
+
+부분이
+	부분/ncn+이/jcc
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼이
+	힐튼/ncn+이/jcc
+
+더
+	더/mag
+
+낫게
+	낫/paa+게/ecs
+
+느껴지지만딱
+	느껴지지만딱/ncn
+
+!
+	!/sf
+
+
+휴식만을
+	휴식/ncpa+만/ncn+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+호텔을
+	호텔/ncn+을/jco
+
+찾는거라면그랜드
+	찾는거라면그랜드/ncn
+
+힐튼
+	힐튼/ncn
+
+서울에
+	서울/ncn+에/jca
+
+다시
+	다시/mag
+
+가고싶다는
+	가/pvg+고/ecx+싶/px+다/ef+는/etm
+
+생각
+	생각/ncpa
+
+:)
+	:/sp+)/sr
+
+
+밀레니엄
+	밀레니엄/ncn
+
+서울
+	서울/ncn
+
+힐튼
+	힐튼/ncn
+
+(Millennium
+	(/sl+Millennium/f
+
+Seoul
+	Seoul/f
+
+Hilton)
+	Hilton/f+)/sr
+
+
+-호텔
+	-/sd+호텔/ncn
+
+주소
+	주소/ncn
+
+:
+	:/sp
+
+서울
+	서울/ncn
+
+중구
+	중구/ncn
+
+남대문로5가
+	남대문로5/ncn+가/jcs
+
+395
+	395/nnc
+
+
+-호텔
+	-/sd+호텔/ncn
+
+등급
+	등급/nbu
+
+:
+	:/sp
+
+Deluxe
+	Deluxe/f
+
+
+-체크인/체크아웃
+	-/sd+체크인/ncn+//sp+체크아웃/ncpa
+
+시간
+	시간/nbu
+
+:
+	:/sp
+
+14:00/12:00
+	14/nnc+:/sp+00/nnc+//sp+12/nnc+:/sp+00/nnc
+
+
+-홈페이지
+	-/sd+홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+hilton.
+	hilton/f+./sy
+
+co.
+	co/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+-이용한
+	-/sd+이용/ncpa+하/xsva+ㄴ/etm
+
+객실
+	객실/ncn
+
+:
+	:/sp
+
+이그제큐티브
+	이그제큐티브/ncn
+
+프리미엄
+	프리미엄/ncn
+
+룸
+	룸/ncn

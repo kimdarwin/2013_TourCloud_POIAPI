@@ -1,0 +1,487 @@
+저축은행과
+	저축/ncpa+은행/ncn+과/jcj
+
+캐피탈
+	캐피탈/ncn
+
+등
+	등/nbu
+
+2금융권만
+	2금융권만/ncn
+
+이용
+	이용/ncpa
+
+가능했던
+	가능/ncps+하/xsms+었/ep+던/etm
+
+7~8등급
+	7/nnc+~/sd+8/nnc+등급/nbu
+
+저신용자도
+	저신용자/ncn+도/jxc
+
+오는
+	오/px+는/etm
+
+9월부터
+	9/nnc+월/nbu+부터/jxc
+
+은행에서
+	은행/ncn+에서/jca
+
+대출을
+	대출/ncpa+을/jco
+
+받을
+	받/pvg+을/etm
+
+수
+	수/nbn
+
+있게
+	있/px+게/ecs
+
+될
+	되/pvg+ㄹ/etm
+
+전망이다
+	전망/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+금융감독원
+	금융/ncn+감독원/ncr
+
+관계자는
+	관계자/ncn+는/jxc
+
+10일
+	10/nnc+일/nbu
+
+'비우량(서브프라임)
+	'비우량(서브프라임)/ncn
+
+신용등급
+	신용등급/ncn
+
+평가시스템'을
+	평가/ncpa+시스템/ncn+'/sr+을/jco
+
+코리아크레딧뷰로(KCB)
+	코리아크레딧뷰로(KCB)/ncn
+
+등
+	등/nbu
+
+개인신용평가사와
+	개인신용평가사/ncn+와/jct
+
+함께
+	함께/mag
+
+개발해
+	개발/ncpa+하/xsva+어/ecx
+
+오는
+	오/px+는/etm
+
+9월부터
+	9/nnc+월/nbu+부터/jxc
+
+적용한다고
+	적용/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+현재
+	현재/mag
+
+일부
+	일/nnc+부/nbu
+
+금융회사를
+	금융회사/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+시범
+	시범/ncpa
+
+운영
+	운영/ncpa
+
+중인
+	중/nbn+이/jp+ㄴ/etm
+
+이
+	이/mmd
+
+시스템은
+	시스템/ncn+은/jxc
+
+제2금융권에서
+	제2금융권/ncn+에서/jca
+
+대출받는
+	대출/ncpa+받/xsva+는/etm
+
+사람의
+	사람/ncn+의/jcm
+
+신용등급을
+	신용등급/ncn+을/jco
+
+10단계로
+	10단계/ncn+로/jca
+
+세분화했다
+	세분화/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+기존
+	기존/ncpa
+
+신용등급
+	신용등급/ncn
+
+체계에서는
+	체계/ncn+에서/jca+는/jxc
+
+7~8등급에
+	7/nnc+~/sd+8/nnc+등급/nbu+에/jca
+
+해당하는
+	해당/ncpa+하/xsva+는/etm
+
+사람이
+	사람/ncn+이/jcc
+
+제2금융권의
+	제2금융권/ncn+의/jcm
+
+주된
+	주되/pvg+ㄴ/etm
+
+고객이다
+	고객/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+지난해
+	지난해/ncn
+
+말
+	말/px+ㄹ/etm
+
+기준
+	기준/ncpa
+
+7등급
+	7/nnc+등급/nbu
+
+354만명,
+	354/nnc+만/nnc+명/nbu+,/sp
+
+8등급
+	8/nnc+등급/nbu
+
+199만명
+	199/nnc+만/nnc+명/nbu
+
+등
+	등/nbu
+
+총
+	총/mma
+
+553만명이다
+	553/nnc+만/nnc+명/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+새로운
+	새롭/paa+은/etm
+
+신용등급
+	신용등급/ncn
+
+평가시스템은
+	평가/ncpa+시스템/ncn+은/jxc
+
+은행권에도
+	은행권/ncn+에/jca+도/jxc
+
+적용된다
+	적용/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+재분류
+	재분류/ncpa
+
+기준은
+	기준/ncpa+은/jxc
+
+장
+	장/nbu
+
+단기
+	단기/ncn
+
+연체
+	연체/ncpa
+
+이력,
+	이력/ncn+,/sp
+
+대출
+	대출/ncpa
+
+보증
+	보증/ncpa
+
+규모,
+	규모/ncn+,/sp
+
+신용거래
+	신용거래/ncn
+
+실적
+	실적/ncn
+
+등이다
+	등/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+우량
+	우량/ncn
+
+등급으로
+	등급/ncn+으로/jca
+
+분류되면
+	분류/ncpa+되/xsvn+면/ecs
+
+저축은행,
+	저축/ncpa+은행/ncn+,/sp
+
+할부금융사,
+	할부/ncpa+금융사/ncn+,/sp
+
+상호금융사
+	상호/ncn+금융사/ncn
+
+등
+	등/nbu
+
+제2금융권을
+	제2금융권/ncn+을/jco
+
+이용해도
+	이용/ncpa+하/xsva+어도/ecs
+
+비교적
+	비교/ncpa+적/ncn
+
+낮은
+	낮/ncn+은/jxc
+
+금리로
+	금리/ncn+로/jca
+
+대출할
+	대출/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+금감원은
+	금감원/ncn+은/jxc
+
+또
+	또/maj
+
+은행권에서
+	은행권/ncn+에서/jca
+
+출시할
+	출시/ncpa+하/xsva+ㄹ/etm
+
+10%대
+	10/nnc+%/su+대/xsnu
+
+금리
+	금리/ncn
+
+대출
+	대출/ncpa
+
+상품을
+	상품/ncn+을/jco
+
+우량한
+	우량/ncn+한/ncn
+
+저신용자들이
+	저신용자들/ncn+이/jcc
+
+이용하도록
+	이용/ncpa+하/xsva+도록/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+방침이다
+	방침/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+신용등급이
+	신용등급/ncn+이/jcc
+
+낮아도
+	낮/paa+아/ecs
+
+빚
+	빚/ncn
+
+갚을
+	갚/pvg+을/etm
+
+능력이
+	능력/ncn+이/jcc
+
+있고
+	있/px+고/ecc
+
+성실
+	성실/ncps
+
+상환자라면
+	상환/ncpa+자라/ncn+이/jp+면/ecs
+
+은행권의
+	은행권/ncn+의/jcm
+
+저금리
+	저금리/ncn
+
+대출을
+	대출/ncpa+을/jco
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+셈이다
+	셈/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+금감원은
+	금감원/ncn+은/jxc
+
+또
+	또/maj
+
+은행권의
+	은행권/ncn+의/jcm
+
+프리워크아웃(사전채무조정)
+	프리워크아웃(사전채무조정)/ncn
+
+대상자
+	대상자/ncn
+
+선정에도
+	선정/ncpa+에/jca+도/jxc
+
+이
+	이/mmd
+
+평가시스템을
+	평가/ncpa+시스템/ncn+을/jco
+
+활용해
+	활용/ncpa+하/xsva+어/ecx
+
+우량
+	우량/ncn
+
+고객이
+	고객/ncn+이/jcc
+
+고금리
+	고금리/ncn
+
+대출을
+	대출/ncpa+을/jco
+
+저금리로
+	저금리/ncn+로/jca
+
+갈아타거나
+	갈/pvg+아/ecx+타/px+거나/ecc
+
+채무조정을
+	채무/ncn+조정/ncn+을/jco
+
+받도록
+	받/pvg+도록/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+계획이다
+	계획/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+bsryu@cbs.
+	bsryu/f+@/sy+cbs/f+./sy
+
+co.
+	co/f+./sy
+
+kr출처:노컷뉴스
+	kr출처:노컷뉴스/ncn

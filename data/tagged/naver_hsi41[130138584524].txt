@@ -1,0 +1,772 @@
+(뉴욕=연합뉴스)
+	(뉴욕=연합뉴스)/ncn
+
+정규득
+	정규/ncn+득/ncn
+
+특파원
+	특파원/ncr
+
+=
+	=/sy
+
+이명박
+	이명/ncn+박/ncn
+
+대통령의
+	대통령의/ncn
+
+최대
+	최대/ncn
+
+성과로
+	성과/ncn+로/jca
+
+칭찬받을
+	칭찬/ncpa+받/xsva+을/etm
+
+만한
+	만/nnc+한/nnc
+
+것
+	것/nbn
+
+중의
+	중/nbn+의/jcm
+
+하나가
+	하나/nnc+가/jcs
+
+북한
+	북한/ncn
+
+인권문제를
+	인권문제/ncn+를/jco
+
+국제적
+	국제/ncn+적/ncn
+
+관심사로
+	관심사/ncn+로/jca
+
+끌어올린
+	끌어올리/pvg+ㄴ/etm
+
+것이라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+월스트리트저널(WSJ)이
+	월스트리트저널(WSJ)/ncn+이/jcc
+
+18일(현지시간)
+	18일(현지시간)/ncn
+
+평가했다
+	평가/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+WSJ은
+	WSJ/f+은/jxc
+
+`북한의
+	`북한/ncn+의/jcm
+
+정치범수용소'라는
+	정치범/ncn+수용소/ncn+'/sr+라는/jcr
+
+사설에서
+	사설/ncn+에서/jca
+
+이
+	이/mmd
+
+대통령의
+	대통령의/ncn
+
+대북
+	대북/ncn
+
+인권정책에
+	인권정책/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+김정일은
+	김정일/ncn+은/jxc
+
+남한과의
+	남한과/ncn+의/jcm
+
+대화를
+	대화/ncn+를/jco
+
+전면
+	전면/ncn
+
+중단했고
+	중단/ncpa+하/xsva+었/ep+고/ecc
+
+후계자인
+	후계자/ncn+이/jp+ㄴ/etm
+
+김정은은
+	김정은/ncn+은/jxc
+
+북한
+	북한/ncn
+
+기준으로
+	기준/ncpa+으로/jca
+
+보더라도
+	보/px+더라도/ecs
+
+지나치게
+	지나치/pvg+게/ecs
+
+악의적인
+	악의/ncn+적/ncn+이/jp+ㄴ/etm
+
+험담을
+	험담/ncpa+을/jco
+
+퍼붓고
+	퍼붓/pvg+고/ecc
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+북한의
+	북한/ncn+의/jcm
+
+인권유린
+	인권유린/ncpa
+
+실태가
+	실태/ncn+가/jcs
+
+국제사회에
+	국제/ncn+사회/ncn+에/jca
+
+제대로
+	제대로/mag
+
+알려지게
+	알리/pvg+어/ecx+지/px+게/ecs
+
+된
+	되/pvg+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+전적으로
+	전적/ncn+으로/jca
+
+그것
+	그것/npd
+
+덕분이라며
+	덕분/ncn+이/jp+라며/ecs
+
+이같이
+	이/npd+같이/jca
+
+전했다
+	전하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+신문은
+	신문/ncn+은/jxc
+
+정치범수용소
+	정치범/ncn+수용소/ncn
+
+수감자
+	수감자/ncn
+
+20만명의
+	20/nnc+만/nnc+명/nbu+의/jcm
+
+고통을
+	고통/ncn+을/jco
+
+담은
+	달/paa+ㅁ/etn+은/jxc
+
+국가인권위원회의
+	국가/ncn+인권위원회/ncn+의/jcm
+
+최근
+	최근/ncn
+
+보고서를
+	보고서/ncn+를/jco
+
+보면
+	보/px+면/ecs
+
+버락
+	버락/ncn
+
+오바마
+	오/nnc+바/nbu+이/jp+마/ef
+
+미국
+	미국/ncn
+
+행정부가
+	행정부/ncn+가/jcs
+
+북한
+	북한/ncn
+
+정권의
+	정권/ncn+의/jcm
+
+생명
+	생명/ncn
+
+연장을
+	연장/ncn+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+제공하는
+	제공/ncpa+하/xsva+는/etm
+
+어떤
+	어떤/mmd
+
+원조도
+	원조/ncpa+도/jxc
+
+도덕적이지
+	도덕/ncn+적/ncn+이/jp+지/ecs
+
+못한
+	못하/px+ㄴ/etm
+
+것임을
+	것/nbn+이/jp+ㅁ/etn+을/jco
+
+다시
+	다시/mag
+
+한번
+	한/nnc+번/nbu
+
+입증하고
+	입증/ncpa+하고/jct
+
+있다고
+	있/px+다/ef+고/jcr
+
+강조했다
+	강조/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+일각에서는
+	일각/ncn+에서/jca+는/jxc
+
+북한이
+	북한/ncn+이/jcc
+
+노동자의
+	노동자/ncn+의/jcm
+
+천국이
+	천국/ncn+이/jcc
+
+아님을
+	아니/paa+ㅁ/etn+을/jco
+
+모든
+	모든/mma
+
+사람이
+	사람/ncn+이/jcc
+
+알고
+	알/pvg+고/ecx
+
+있는
+	있/px+는/etm
+
+마당에
+	마당/ncn+에/jca
+
+굳이
+	굳이/mag
+
+이런
+	이런/mmd
+
+실상을
+	실상/ncn+을/jco
+
+공개할
+	공개/ncpa+하/xsva+ㄹ/etm
+
+필요가
+	필요/ncps+가/jcc
+
+있느냐는
+	있/px+느냐/ef+는/etm
+
+지적이
+	지적/ncn+이/jcc
+
+나오지만,
+	나오/pvg+지/ecx+말/px+ㄴ/etm+,/sp
+
+북한이
+	북한/ncn+이/jcc
+
+붕괴한
+	붕괴/ncpa+하/xsva+ㄴ/etm
+
+이후
+	이후/ncn
+
+독일
+	독/ncn+이/jp+ㄹ/etm
+
+뉘른베르크에서와
+	뉘른베르크에서/ncn+와/jct
+
+같은
+	같/paa+은/etm
+
+전범재판이
+	전범재판/ncn+이/jcc
+
+이뤄지려면
+	이루/pvg+어/ecx+지/px+려면/ecs
+
+인권유린
+	인권유린/ncpa
+
+실태에
+	실태/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+많은
+	많/paa+은/etm
+
+증거를
+	증거/ncn+를/jco
+
+기록으로
+	기록/ncpa+으로/jca
+
+남기는
+	남/pvg+기/etn+는/jxc
+
+것이
+	것/nbn+이/jcc
+
+중요하다고
+	중요/ncps+하/xsms+다/ef+고/jcr
+
+WSJ는
+	WSJ/f+는/jxc
+
+설명했다
+	설명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이는
+	이/npd+는/jxc
+
+수감자들에게
+	수감자/ncn+들/ncn+에게/jca
+
+당장
+	당장/mag
+
+도움이
+	도움/ncn+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있다며
+	있/px+다며/ecs
+
+이런
+	이런/mmd
+
+정보들이
+	정보/ncn+들/ncn+이/jcc
+
+북한으로
+	북한/ncn+으로/jca
+
+계속
+	계속/mag
+
+흘러들게
+	흘러들/pvg+게/ecs
+
+되면
+	되/pvg+면/ecs
+
+인권침해
+	인권침해/ncpa
+
+책임자들은
+	책임자/ncr+들/ncn+은/jxc
+
+자신들도
+	자/nbn+이/jp+시/ep+ㄴ들/ecs+도/jxc
+
+결국
+	결국/mag
+
+처벌받을
+	처벌/ncpa+받/xsva+을/etm
+
+수
+	수/nbn
+
+있음을
+	있/px+음/etn+을/jco
+
+인식하고
+	일/pvg+ㄴ/etm+식/nbn+하고/jct
+
+수감자들에
+	수감자/ncn+들/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+불필요한
+	불필요/ncn+한/ncn
+
+가혹행위를
+	가혹행위/ncpa+를/jco
+
+자제할
+	자제/ncpa+하/xsva+ㄹ/etm
+
+것이라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+지적했다
+	지적/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+WSJ는
+	WSJ/f+는/jxc
+
+수감자들의
+	수감자/ncn+들/ncn+의/jcm
+
+고통이
+	고통/ncn+이/jcc
+
+근본적으로
+	근본/ncn+적/ncn+으로/jca
+
+종식되려면
+	종식/ncpa+되/xsvn+려면/ecs
+
+김씨
+	김씨/ncn
+
+왕조가
+	왕조/ncn+가/jcs
+
+붕괴돼야
+	붕괴/ncpa+되/xsvn+어야/ecs
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+북한이
+	북한/ncn+이/jcc
+
+핵개발을
+	핵개발/ncn+을/jco
+
+내세워
+	내세우/pvg+어/ecx
+
+국제사회로부터
+	국제/ncn+사회/ncn+로/jca+부터/jxc
+
+원조를
+	원조/ncpa+를/jco
+
+얻어낼
+	얻/pvg+어/ecx+내/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+한
+	한/nnc
+
+그럴
+	그렇/pad+을/etm
+
+가능성은
+	가능성/ncn+은/jxc
+
+희박해
+	희박/ncps+하/xsms+어/ecx
+
+보인다며,
+	보이/pvg+ㄴ다며/ecs+,/sp
+
+따라서
+	따라서/maj
+
+정권의
+	정권/ncn+의/jcm
+
+실체를
+	실체/ncn+를/jco
+
+공개함으로서
+	공개/ncpa+하/xsva+ㅁ/etn+으로서/jca
+
+포용정책을
+	포용정책/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+북한을
+	북한/ncn+을/jco
+
+변화시킬
+	변화/ncpa+시키/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다는
+	있/px+다/ef+는/etm
+
+주장을
+	주장/ncpa+을/jco
+
+무력화해야
+	무력화/ncn+해/ncn+이/jp+야/ef
+
+한다고
+	하/px+ㄴ다/ef+고/jcr
+
+주장했다
+	주장/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+신문은
+	신문/ncn+은/jxc
+
+2만3천명에
+	2/nnc+만/nnc+3/nnc+천/nnc+명/nbu+에/jca
+
+달하는
+	달하/pvg+는/etm
+
+탈북자들의
+	탈북자/ncn+들/ncn+의/jcm
+
+증언으로
+	증언/ncpa+으로/jca
+
+남한의
+	남한/ncn+의/jcm
+
+대북
+	대북/ncn
+
+여론이
+	여론/ncn+이/jcc
+
+이런
+	이런/mmd
+
+방향으로
+	방향/ncn+으로/jca
+
+가고
+	가/px+고/ecc
+
+있다는
+	있/px+다/ef+는/etm
+
+사실은
+	사실/ncn+은/jxc
+
+고무적이라며
+	고무/ncn+적/ncn+이/jp+라며/ecs
+
+이런
+	이런/mmd
+
+변화가
+	변화/ncpa+가/jcc
+
+최근
+	최근/mag
+
+중국
+	중국/ncn
+
+정부에
+	정부/ncn+에/jca
+
+탈북자들의
+	탈북자/ncn+들/ncn+의/jcm
+
+강제송환을
+	강제송환/ncpa+을/jco
+
+중단하라는
+	중단/ncpa+하/xsva+라/ef+는/etm
+
+압력으로
+	압력/ncn+으로/jca
+
+이어졌다고
+	잇/pvg+어/ecx+지/px+었/ep+다/ef+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+저널은
+	저널/ncn+은/jxc
+
+탈북자들을
+	탈북자/ncn+들/ncn+을/jco
+
+돕다가
+	돕/pvg+다가/ecs
+
+중국에
+	중국/ncn+에/jca
+
+구금된
+	구금/ncpa+되/xsvn+ㄴ/etm
+
+`강철서신'
+	`/sl+강철/ncn+서/jca+이/jp+시/ep+ㄴ/etm+'/sr
+
+저자
+	저/npp+이/jp+자/ecc
+
+김영환(49)씨와
+	김영환(49)씨/ncn+와/jcj
+
+마찬가지로
+	마찬가지/ncn+로/jca
+
+한때
+	하/pvg+ㄴ/etm+때/nbn
+
+햇볕정책을
+	햇볕/ncn+정책/ncn+을/jco
+
+지지했던
+	지/px+지/ecx+하/px+었/ep+던/etm
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+상당수가
+	상당수/ncn+가/jcs
+
+이제는
+	이제/mag+는/jxc
+
+북한
+	북한/ncn
+
+인권운동을
+	인권/ncn+운동/ncn+을/jco
+
+벌이고
+	벌/nbu+이/jp+고/ecc
+
+있다면서
+	있/px+다면서/ecs
+
+원조를
+	원조/ncpa+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+북한
+	북한/ncn
+
+정권을
+	정권/ncn+을/jco
+
+지원하는
+	지원/ncpa+하/xsva+는/etm
+
+것은
+	것/nbn+은/jxc
+
+강제수용소
+	강제수용소/ncn
+
+수감자들의
+	수감자/ncn+들/ncn+의/jcm
+
+고통만
+	고통/ncn+만/jxc
+
+연장할
+	연장/ncpa+하/xsva+ㄹ/etm
+
+뿐이라고
+	뿐/nbn+이/jp+라/ef+고/jcr
+
+덧붙였다
+	덧붙이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:연합뉴스
+	출처/ncn+:/sp+연합/ncpa+뉴스/ncn

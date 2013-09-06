@@ -1,0 +1,6083 @@
+[마라도잠수함
+	[마라도잠수함/ncn
+
+/제주잠수함]
+	//sp+제주/ncn+잠수함/ncn+]/sr
+
+제주
+	제주/ncn
+
+잠수함관광필수코스,
+	잠수함/ncn+관광/ncpa+필수/ncn+코스/ncn+,/sp
+
+마라도잠수함
+	마라도잠수함/ncn
+
+/(제주도모바일할인쿠폰)
+	/(제주도모바일할인쿠폰/ncn+)/sr
+
+
+제주여행
+	제주/ncn+여행/ncpa
+
+잠수함관광
+	잠수함/ncn+관광/ncpa
+
+필수코스로
+	필수/ncn+코스/ncn+로/jca
+
+꼽는
+	꼽/pvg+는/etm
+
+제주잠수함
+	제주/ncn+잠수함/ncn
+
+여행,
+	여행/ncpa+,/sp
+
+마라도잠수함은
+	마라도잠수함/ncn+은/jxc
+
+국내
+	국내/ncn
+
+최남단,
+	최남단/ncn+,/sp
+
+국내
+	국내/ncn
+
+최대의
+	최대/ncn+의/jcm
+
+산호군락지인
+	산호/ncn+군락/ncn+지인/ncn
+
+마라해양공원을
+	마라해양공원/ncn+을/jco
+
+탐험하는
+	탐험/ncpa+하/xsva+는/etm
+
+코스입니다
+	코스/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+마라도잠수함
+	마라도잠수함/ncn
+
+관광잠수함이
+	관광/ncpa+잠수함/ncn+이/jcc
+
+운항하는
+	운항하/ncn+는/jxc
+
+송악산
+	송악산/ncn
+
+관광지구해안은
+	관광지/ncn+구해/ncn+안/ncn+은/jxc
+
+해저경관이
+	해저/ncn+경관/ncn+이/jcc
+
+아름다워
+	아름답/paa+어/ecx
+
+스쿠버다이버들이
+	스쿠버다이버/ncn+들/ncn+이/jcc
+
+즐겨찾는
+	즐겨찾/ncn+는/jxc
+
+곳이구요
+	곳이구요/ncn
+
+.
+	./sf
+
+
+해안
+	해안/ncn
+
+절경이
+	절경/ncn+이/jcc
+
+제주를
+	제주/ncn+를/jco
+
+대표할만큼
+	대표/ncpa+하/xsva+ㄹ/etm+만큼/nbn
+
+아름다워
+	아름답/paa+어/ecx
+
+마리해양공원으로
+	마리해양공원/ncn+으로/jca
+
+지정된
+	지정/ncpa+되/xsvn+ㄴ/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+다양한
+	다양/ncn+한/ncn
+
+열대어와
+	열대어/ncn+와/jcj
+
+형형색색
+	형형색색/ncn
+
+산호들과의
+	산호/ncn+들/ncn+과의/jcm
+
+만남
+	만나/pvg+ㅁ/etn
+
+.
+	./sf
+
+
+제주도
+	제주/ncn+도/jxc
+
+모바일할인쿠폰으로
+	모바일할인쿠폰/ncn+으로/jca
+
+저렴하게
+	저렴/ncps+하/xsms+게/ecs
+
+만나실
+	만나/pvg+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+국내
+	국내/ncn
+
+최대의
+	최대/ncn+의/jcm
+
+산호군락지
+	산호군락지/ncn
+
+마라해양공원
+	마라해양공원/ncn
+
+
+제주잠수함
+	제주/ncn+잠수함/ncn
+
+세계로~~
+	세계/ncn+로/jca+~/sd+~/sd
+
+마라도잠수함
+	마라도잠수함/ncn
+
+
+마라도잠수함은
+	마라도잠수함/ncn+은/jxc
+
+제주도의
+	제주/ncn+도/ncn+의/jcm
+
+다른
+	다른/mma
+
+연안과는
+	연안/ncn+과/jct+는/jxc
+
+다르게
+	다르/paa+게/ecs
+
+송악산
+	송악산/ncn
+
+연안
+	연안/ncn
+
+잠수함
+	잠수함/ncn
+
+운항구역으로
+	운항/ncn+구역/ncn+으로/jca
+
+여러
+	여러/mma
+
+종류의
+	종류/ncn+의/jcm
+
+열대어와
+	열대어/ncn+와/jcj
+
+해조류
+	해조류/ncn
+
+등이
+	등/nbu+이/jcc
+
+서식하기
+	서식/ncpa+하/xsva+기/etn
+
+좋은
+	좋/paa+은/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+형형색색의
+	형형색색/ncn+의/jcm
+
+다양한
+	다양/ncn+한/ncn
+
+산호들이
+	산호/ncn+들/ncn+이/jcc
+
+집중적으로
+	집중/ncpa+적/ncn+으로/jca
+
+서식하는
+	서식/ncpa+하/xsva+는/etm
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+하고요
+	하/px+고요/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+스쿠버다이버들이
+	스쿠버다이버/ncn+들/ncn+이/jcc
+
+즐겨
+	즐기/pvg+어/ecx
+
+찾는
+	찾/pvg+는/etm
+
+곳이라고
+	곳/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+제주도여행코스를
+	제/xp+주도/ncpa+여행코스/ncn+를/jco
+
+짜면서
+	짜/pvg+면서/ecc
+
+한곳은
+	한곳/ncn+은/jxc
+
+넣게
+	넣/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+제주도잠수함관광
+	제/xp+주도/ncpa+잠수함/ncn+관광/ncpa
+
+.
+	./sf
+
+
+서귀포잠수함,
+	서귀포잠수함,/ncn
+
+차귀도잠수함,
+	차귀도잠수함,/ncn
+
+우도잠수함도
+	우도잠수함/ncn+도/jxc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+타본
+	타/pvg+아/ecx+보/px+ㄴ/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+서로
+	서로/mag
+
+의견이
+	의견/ncn+이/jcc
+
+분분하더군요
+	분분/ncps+하/xsms+더군/ef+요/jxf
+
+.
+	./sf
+
+
+어디가
+	어디/npd+가/jcc
+
+더
+	더/mag
+
+나은지는
+	나/px+ㄴ지/ecs+는/jxc
+
+직접
+	직접/mag
+
+타보고
+	타/pvg+아/ecx+보/px+고/ecc
+
+판단하는
+	판단/ncpa+하/xsva+는/etm
+
+수
+	수/nbn
+
+밖에
+	밖/ncn+에/jca
+
+없을
+	없/paa+을/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+개인적으로는제주도
+	개인적으로는제주/ncn+도/jxc
+
+잠수함
+	잠수함/ncn
+
+관광은
+	관광/ncpa+은/jxc
+
+이전에
+	이전/ncn+에/jca
+
+해적잠수함을
+	해적/ncn+잠수함/ncn+을/jco
+
+타보고
+	타/pvg+아/ecx+보/px+고/ecc
+
+두번째입니다
+	두/nnc+번/nbu+째/xsnu+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+둘중
+	두/pvg+ㄹ/etm+중/nbn
+
+비교하라면
+	비교/ncpa+하/xsva+라면/ecs
+
+일단
+	일단/mag
+
+마라도잠수함에
+	마라도잠수함/ncn+에/jca
+
+한표를
+	한/nnc+표/nbu+를/jco
+
+더
+	더/mag
+
+주고
+	주/px+고/ecc
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+수중세계가
+	수중세계/ncn+가/jcs
+
+보여주는
+	보이/pvg+어/ecx+주/px+는/etm
+
+즐거움이
+	즐거움/ncn+이/jcc
+
+더
+	더/mag
+
+많았거든요
+	많/paa+아/ep+거든/ef+요/jxf
+
+.
+	./sf
+
+
+아름다운
+	아름답/paa+은/etm
+
+빛깔의
+	빛깔/ncn+의/jcm
+
+산호가
+	산호/ncn+가/jcs
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+곳에서는
+	곳/ncn+에서/jca+는/jxc
+
+눈을
+	눈/ncn+을/jco
+
+뗄
+	떼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+아름다운
+	아름답/paa+은/etm
+
+바닷속
+	바닷속/ncn
+
+정원을
+	정원/ncn+을/jco
+
+보는
+	보/px+는/etm
+
+기분이었어요
+	기분/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+아름다움
+	아름다움/ncn
+
+때문에
+	때문/nbn+에/jca
+
+해양공원으로
+	해양/ncn+공원/ncn+으로/jca
+
+지정이
+	지정/ncpa+이/jcc
+
+된거겠지
+	된거겠지/ncn
+
+싶기도
+	싶/px+기/etn+도/jxc
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+수송선을
+	수송선/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+잠수함을
+	잠수함/ncn+을/jco
+
+타기
+	타/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+이동하고요
+	이동/ncpa+하/xsva+고요/ef
+
+.
+	./sf
+
+
+잠수함으로
+	잠수함/ncn+으로/jca
+
+갈아타고
+	갈/pvg+아/ecx+타/px+고/ecc
+
+투명한
+	투명/ncps+하/xsms+ㄴ/etm
+
+유리창으로
+	유리/ncn+창/ncn+으로/jca
+
+보이는
+	보이/pvg+는/etm
+
+제주의
+	제주/ncn+의/jcm
+
+바닷속
+	바닷속/ncn
+
+세상
+	세상/ncn
+
+탐험
+	탐험/ncpa
+
+.
+	./sf
+
+
+떼를
+	떼/ncn+를/jco
+
+지어
+	지/px+어/ecx
+
+다니는
+	다니/pvg+는/etm
+
+고기들과
+	고기/ncn+들/ncn+과/jcj
+
+산호들의
+	산호/ncn+들/ncn+의/jcm
+
+합창
+	합창/ncpa
+
+...
+	.../se
+
+
+제주잠수함관광,
+	제주/ncn+잠수함/ncn+관광/ncpa+,/sp
+
+마라도잠수함을
+	마라도잠수함/ncn+을/jco
+
+타러
+	타/pvg+러/ecs
+
+가시겠습니다
+	가/px+시겠/ep+습니다/ef
+
+.
+	./sf
+
+
+마라도잠수함
+	마라도잠수함/ncn
+
+이용요금(제주도
+	이용요금(제주/ncn+도/jxc
+
+모바일
+	모바/ncn+이/jp+ㄹ/etm
+
+할인쿠폰
+	할인/ncpa+쿠폰/ncn
+
+요금
+	요금/ncn
+
+적용시)
+	적용/ncpa+시/xsna+)/sr
+
+-
+	-/sd
+
+사전예약필수
+	사전/ncn+예약/ncpa+필수/ncn
+
+(해양공원료
+	(해양공원료/ncn
+
+별도
+	별/ncn+도/jxc
+
+성인
+	성/ncn+이/jp+ㄴ/etm
+
+15,000원,
+	15,000/nnc+원/nbu+,/sp
+
+소인
+	소/ncn+이/jp+ㄴ/etm
+
+800원)
+	800/nnc+원/nbu+)/sr
+
+
+성인
+	성/ncn+이/jp+ㄴ/etm
+
+50,000원
+	50,000/nnc+원/nbu
+
+-
+	-/sd
+
+39,000원,
+	39,000/nnc+원/nbu+,/sp
+
+청소년
+	청소년/ncn
+
+40,000원-
+	40,000/nnc+원/nbu+-/sd
+
+33,000원,
+	33,000/nnc+원/nbu+,/sp
+
+소인
+	소/ncn+이/jp+ㄴ/etm
+
+30,000원
+	30,000/nnc+원/nbu
+
+-
+	-/sd
+
+25,000원
+	25,000/nnc+원/nbu
+
+
+제주도여행
+	제/xp+주도/ncpa+여행/ncpa
+
+싸게가는방법
+	싸게가는방법/ncn
+
+/
+	//sp
+
+제주도
+	제주/ncn+도/jxc
+
+모바일할인쿠폰
+	모바일할인쿠폰/ncn
+
+다운받기
+	다운/ncpa+받/xsva+기/etn
+
+-
+	-/sd
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-마음이
+	여행/ncpa+이야기/ncpa+-/sd+마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+(여행일:
+	(/sl+여행/ncpa+이/jp+ㄹ/etm+:/sp
+
+2011.
+	2011./nnc
+
+06.
+	06./nnc
+
+21)
+	21/nnc+)/sr
+
+
+마라도잠수함
+	마라도잠수함/ncn
+
+수송선
+	수송선/ncn
+
+승선장소에서
+	승선/ncn+장소/ncn+에서/jca
+
+...
+	.../se
+
+
+잠수함
+	잠수함/ncn
+
+매표소
+	매표소/ncn
+
+.
+	./sf
+
+
+마라도잠수함
+	마라도잠수함/ncn
+
+출항시간은
+	출항/ncn+시간/ncn+은/jxc
+
+성수기,주말기준시간표에
+	성수/ncn+이/jp+기/etn+,/sp+주말/ncn+기준/ncpa+시간표/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+운항시간이
+	운항/ncn+시간/ncn+이/jcc
+
+조금씩
+	조금씩/ncn
+
+다르다고
+	다르/paa+다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+확인하고
+	확인/ncpa+하고/jct
+
+미리
+	미리/mag
+
+예약하고
+	예약/ncpa+하고/jcj
+
+
+떠나시면
+	뜨/pvg+어/ecx+나/px+시/ep+면/ecs
+
+좋을거
+	좋을거/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+출항시간은
+	출항/ncn+시간/ncn+은/jxc
+
+8시
+	8/nnc+시/nbu
+
+20분부터
+	20/nnc+분/nbu+부터/jxc
+
+오후
+	오후/ncn
+
+5시
+	5/nnc+시/nbu
+
+50분까지
+	50/nnc+분/nbu+까지/jxc
+
+일출,
+	일출/ncpa+,/sp
+
+일몰에
+	일/nnc+몰/nbu+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+다소
+	다소/mag
+
+변경이
+	변경/ncpa+이/jcc
+
+된다고
+	되/pvg+ㄴ다/ef+고/jcr
+
+하고요
+	하/px+고요/ef
+
+.
+	./sf
+
+
+45분
+	45/nnc+분/nbu
+
+간격으로
+	가/px+ㄴ/etm+격/nbn+으로/jca
+
+출항을
+	출항/ncn+을/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+잠수함관광
+	잠수함/ncn+관광/ncpa
+
+소요시간은
+	소요시간/ncn+은/jxc
+
+대략
+	대략/mag
+
+1시간에서
+	1/nnc+시간/nbu+에서/jca
+
+1시간
+	1/nnc+시간/nbu
+
+20분정도
+	20분정/ncn+도/jxc
+
+소요된다고
+	소요/ncpa+되/xsvn+ㄴ다/ef+고/jcr
+
+보면
+	보/px+면/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+승선수속
+	승선/ncn+수속/ncpa
+
+
+1시간전
+	1/nnc+시간/nbu+전/xsnx
+
+예약확인
+	예약/ncpa+확인/ncpa
+
+후
+	후/ncn
+
+탑승
+	탑승/ncpa
+
+20분전까지
+	20/nnc+분/nbu+전/xsnx+까지/jxc
+
+대합실에서
+	대합실/ncn+에서/jca
+
+승선수속을
+	승선/ncn+수속/ncpa+을/jco
+
+해야함
+	하/pvg+어야/ecx+하/px+ㅁ/etn
+
+
+유람선에
+	유람선/ncn+에/jca
+
+승선하여
+	승선하/ncn+이/jp+어/ecs
+
+잠수함
+	잠수함/ncn
+
+선착장까지
+	선착장/ncn+까지/jxc
+
+이동하며
+	이동/ncpa+하/xsva+며/ecc
+
+해상관광(10분)
+	해상관광/ncn+(/sl+10/nnc+분/nbu+)/sr
+
+
+유람선에서
+	유람선/ncn+에서/jca
+
+바지선을
+	바지선/ncn+을/jco
+
+경유하여
+	경유/ncpa+하/xsva+어/ecx
+
+잠수함에
+	잠수함/ncn+에/jca
+
+승선(5분)
+	승선/ncn+(/sl+5/nnc+분/nbu+)/sr
+
+
+잠수함
+	잠수함/ncn
+
+배경으로
+	배경/ncn+으로/jca
+
+기념촬영을
+	기념/ncpa+촬영/ncpa+을/jco
+
+무료로
+	무료/ncn+로/jca
+
+해주고
+	하/pvg+어/ecx+주/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+기억해두세요
+	기억/ncpa+하/xsva+어/ecx+두/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+해저관람
+	해저/ncn+관람/ncpa
+
+시작
+	시작/ncpa
+
+해저
+	해저/ncn
+
+20m~30m까지
+	20m~30m까지/ncn
+
+다양한
+	다양/ncn+한/ncn
+
+해양생물관찰(20~30분)
+	해양생물관찰/ncn+(/sl+20/nnc+~/sd+30/nnc+분/nbu+)/sr
+
+
+잠수함
+	잠수함/ncn
+
+승선을
+	승선/ncn+을/jco
+
+마치고
+	마치/pvg+고/ecc
+
+유람선으로
+	유람선/ncn+으로/jca
+
+다시
+	다시/mag
+
+탑승
+	탑승/ncpa
+
+
+귀항하면서
+	귀항/ncpa+하/xsva+면서/ecc
+
+해상관광(송악산,
+	해상관광(송악산,/ncn
+
+가파도,
+	가파도,/ncn
+
+마라도,
+	마르/pvg+아/ecs+,/sp
+
+형제섬,
+	형제/ncr+섬/ncn+,/sp
+
+산방산,
+	산방산,/ncn
+
+용머리해안,
+	용머리해안,/ncn
+
+하멜상선
+	하멜/ncn+상선/ncn
+
+등)
+	등/nbn+)/sr
+
+
+승선장소로
+	승선/ncn+장소/ncn+로/jca
+
+가면서
+	가/px+면서/ecc
+
+해녀상이
+	해녀/ncn+상/ncn+이/jcc
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+무진장
+	무진장/mag
+
+반가운
+	반갑/paa+은/etm
+
+표정으로
+	표정/ncn+으로/jca
+
+오라
+	오르/pvg+아/ecx
+
+손짓하네요
+	손짓/ncpa+하/xsva+네/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+이제
+	이제/mag
+
+막
+	막/mag
+
+바닷속으로
+	바닷속/ncn+으로/jca
+
+들어가실
+	들/pvg+어/ecx+가/px+시/ep+ㄹ/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+누구나
+	누구/npp+나/jcj
+
+해녀
+	해녀/ncn
+
+옆에서
+	옆/ncn+에서/jca
+
+사진을
+	사진/ncn+을/jco
+
+한장
+	한/nnc+장/nbu
+
+남기고프게
+	남기고프/ncn+이/jp+게/ecs
+
+하는
+	하/pvg+는/etm
+
+조형물입니다
+	조형물/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+뿌연
+	뿌연/ncn
+
+안개가
+	안개/ncn+가/jcs
+
+끼어서
+	끼/pvg+어서/ecs
+
+배경이
+	배경/ncn+이/jcc
+
+선명하지는
+	선명/ncps+하/xsms+어/ecx+지/px+는/etm
+
+않지만
+	않/px+지/ecx+말/px+ㄴ/etm
+
+추억을
+	추억/ncpa+을/jco
+
+남기기에는
+	남/pvg+기/etn+이/jp+기/etn+에/jca+는/jxc
+
+부족하지
+	부족/ncps+하/xsms+지/ecx
+
+않네요
+	않/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+오홋
+	오홋/ncn
+
+...
+	.../se
+
+
+사계항
+	사계/ncn+항/ncn
+
+뒤로
+	뒤/ncn+로/jca
+
+보이는
+	보이/pvg+는/etm
+
+저
+	저/npp
+
+산이
+	산/ncn+이/jcc
+
+산방산이라고
+	산방산/ncn+이/jp+라/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+시시각각
+	시시각각/mag
+
+구름인지
+	구름/ncn+이/jp+ㄴ지/ecs
+
+안개인지
+	안개/ncn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+산방산을
+	산방산/ncn+을/jco
+
+휘감고
+	휘감/pvg+고/ecc
+
+있어서
+	있/paa+어서/ecs
+
+
+묘한
+	묘하/paa+ㄴ/etm
+
+분위기를
+	분위기/ncn+를/jco
+
+만들어
+	만들/pvg+어/ecx
+
+내고
+	내/px+어/ef+고/jcr
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+배타러가다가
+	배타러가다/ncn+가/jcs
+
+발걸음을
+	발걸음/ncn+을/jco
+
+확
+	확/ncn
+
+잡아
+	잡/pvg+어/ecx
+
+끄는
+	끌/pvg+는/etm
+
+모습에
+	모습/ncn+에/jca
+
+다들
+	다들/ncn
+
+셔터소리만
+	셔터/ncn+소리/ncn+만/jxc
+
+내더군요
+	내/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+자연이
+	자연/ncn+이/jcc
+
+만들어내는
+	만들/pvg+어/ecx+내/px+는/etm
+
+모습은
+	모습/ncn+은/jxc
+
+그
+	그/mmd
+
+어떤
+	어떤/mmd
+
+것이라도
+	것/nbn+이/jp+라/ecs+도/jxc
+
+감탄을
+	감탄/ncpa+을/jco
+
+하게
+	하/pvg+게/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+맑은
+	맑/paa+은/etm
+
+날이었다면
+	날/ncn+이/jp+었/ep+다면/ecs
+
+또다른
+	또다른/mma
+
+느낌이었겠지만
+	느낌/ncn+이/jp+었겠/ep+지/ecx+말/px+ㄴ/etm
+
+흐린날
+	흐린날/ncn
+
+이런
+	이런/mmd
+
+모습을
+	모습/ncn+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+산방산은
+	산방산/ncn+은/jxc
+
+이때
+	이때/ncn
+
+뿐일
+	뿐/nbn+이/jp+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+모바일
+	모바/ncn+이/jp+ㄹ/etm
+
+할인쿠폰을
+	할인/ncpa+쿠폰/ncn+을/jco
+
+이용하여
+	이용/ncpa+하/xsva+어/ecx
+
+티켓을
+	티켓/ncn+을/jco
+
+구매하면
+	구매/ncpa+하/xsva+면/ecs
+
+정가보다
+	정가/ncn+보다/jca
+
+훨씬
+	훨씬/mag
+
+저렴한
+	저렴/ncn+한/ncn
+
+가격으로
+	가격/ncn+으로/jca
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+모바일상의
+	모바일상/ncn+의/jcm
+
+바코드를
+	바코드/ncn+를/jco
+
+현장에서
+	현장/ncn+에서/jca
+
+인식하고
+	일/pvg+ㄴ/etm+식/nbn+하고/jct
+
+결제하는
+	결제하/ncn+는/jxc
+
+시스템이다보니
+	시스템이다보니/ncn
+
+날씨나
+	날씨/ncn+나/jcj
+
+상황에
+	상황/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+취항이
+	취항/ncn+이/jcc
+
+취소,
+	취소/ncpa+,/sp
+
+연기된다고
+	연기/ncpa+되/xsvn+ㄴ다/ef+고/jcr
+
+해도
+	하/pvg+어도/ecs
+
+환불이고
+	환불/ncn+이/jp+고/ecc
+
+뭐고
+	뭐/npd+이/jp+고/ecc
+
+하는
+	하/pvg+는/etm
+
+번거로운
+	번거/ncps+로운/ncn
+
+과정이
+	과정/ncn+이/jcc
+
+없어서
+	없/paa+어서/ecs
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+현장에서
+	현장/ncn+에서/jca
+
+바코드
+	바코드/ncn
+
+인식하지
+	인식하/ncn+이/jp+지/ecs
+
+않으면
+	않/px+으면/ecs
+
+결제가
+	결제/ncn+가/jcs
+
+되지
+	되/pvg+지/ecx
+
+않으니까요
+	않/px+으니까/ef+요/jxf
+
+.
+	./sf
+
+
+왕창
+	왕창/mag
+
+할인된
+	할인/ncpa+되/xsvn+ㄴ/etm
+
+금액으로
+	금액/ncn+으로/jca
+
+티켓을
+	티켓/ncn+을/jco
+
+구입하고
+	구입/ncpa+하고/jct
+
+티켓을
+	티켓/ncn+을/jco
+
+들고
+	들/pvg+고/ecc
+
+기념으로
+	기념/ncpa+으로/jca
+
+한장
+	한/nnc+장/nbu
+
+.
+	./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+개인적으로
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+정가대로
+	정가/ncn+대로/jca
+
+잠수함타려면
+	잠수함/ncn+타려/ncn+이/jp+면/ecs
+
+부담스러운
+	부담/ncpa+스럽/xsmn+은/etm
+
+금액입니다
+	금액/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+가족여행길에
+	가족/ncn+여행길/ncn+에/jca
+
+온식구가
+	온식구/ncn+가/jcs
+
+타보려고
+	타/pvg+아/ecx+보/px+려고/ecs
+
+한다면
+	하/pvg+ㄴ다면/ecs
+
+후덜덜~
+	후덜덜~/ncn
+
+이지요
+	이/npd+이/jp+지/ef+요/jxf
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+여러모로
+	여러모로/mag
+
+제주도여행을
+	제/xp+주도/ncpa+여행/ncpa+을/jco
+
+알뜰하게
+	알뜰/ncps+하/xsms+게/ecs
+
+하는
+	하/pvg+는/etm
+
+모바일시스템이
+	모바일시스템/ncn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+산방산에
+	산방산/ncn+에/jca
+
+구름이
+	구름/ncn+이/jcc
+
+오고가는
+	오/pvg+고/ecx+가/px+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+보다,
+	보/px+다/ef+,/sp
+
+빨간
+	빨갛/paa+은/etm
+
+등대를
+	등대/ncn+를/jco
+
+구경하고
+	구경/ncn+하고/jct
+
+있자니
+	있/px+자니/ecs
+
+수송선이
+	수송선/ncn+이/jcc
+
+다가옵니다
+	다가오/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+우리를
+	우리/npp+를/jco
+
+태우고
+	태우/pvg+고/ecc
+
+잠수함으로
+	잠수함/ncn+으로/jca
+
+갈아타는
+	갈/pvg+아/ecx+타/px+는/etm
+
+바지선까지
+	바지선/ncn+까지/jxc
+
+이동을
+	이/nnc+동/nbu+을/jco
+
+시켜주겠지요
+	시키/pvg+어/ecx+주/px+겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+산방산을
+	산방산/ncn+을/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+수송선이
+	수송선/ncn+이/jcc
+
+들어오고
+	들/pvg+어/ecx+오/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+수송선에
+	수송선/ncn+에/jca
+
+탑승
+	탑승/ncpa
+
+...
+	.../se
+
+
+티켓을
+	티켓/ncn+을/jco
+
+입구에서
+	입구/ncn+에서/jca
+
+주고
+	주/px+고/ecc
+
+올라타면
+	오르/pvg+아/ecx+타/px+면/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+유람선이라고
+	유람선/ncn+이/jp+라/ef+고/jcr
+
+하기엔
+	하/pvg+기/etn+엔/jca
+
+작은
+	작/paa+은/etm
+
+배지만
+	배/ncn+이/jp+지만/ecs
+
+달리는
+	달리/pvg+는/etm
+
+동안
+	동안/ncn
+
+밖에서
+	밖/ncn+에서/jca
+
+관광을
+	관광/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+내부
+	내부/ncn
+
+객실에서
+	객실/ncn+에서/jca
+
+관람을
+	관람/ncpa+을/jco
+
+해도
+	하/pvg+어도/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+이날은
+	이/nnc+날/nbu+은/jxc
+
+워낙
+	워낙/mag
+
+날씨가
+	날씨/ncn+가/jcs
+
+좋지
+	좋/paa+지/ecx
+
+않아서
+	않/px+아/ecx
+
+바람도
+	바라/pvg+ㅁ/etn+도/jxc
+
+많고
+	많/paa+고/ecc
+
+안개비처럼
+	안개/ncn+비/ncn+처럼/jca
+
+흩날려서
+	흩날리/pvg+어서/ecs
+
+밖에
+	밖/ncn+에/jca
+
+오래있으면
+	오래/paa+어/ecx+있/px+으면/ecs
+
+
+눅눅하게
+	눅눅하/paa+게/ecs
+
+젖을
+	젖/pvg+을/etm
+
+정도였어요
+	정도/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+출발하기
+	출발/ncpa+하/xsva+기/etn
+
+전에
+	전/nbn+에/jca
+
+유람선
+	유람선/ncn
+
+이곳저곳을
+	이곳저곳/npd+을/jco
+
+돌아다녔습니다
+	돌아다니/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+제주잠수함관광이
+	제주/ncn+잠수함/ncn+관광/ncpa+이/jcc
+
+운항하는
+	운항하/ncn+는/jxc
+
+마라도잠수함
+	마라도잠수함/ncn
+
+.
+	./sf
+
+
+마라해양군립공원지구해안은
+	마라해양군립공원지구해안/ncn+은/jxc
+
+해저경관이
+	해저/ncn+경관/ncn+이/jcc
+
+매우
+	매우/mag
+
+뛰어나
+	뛰/pvg+어/ecx+나/px+아/ecx
+
+스쿠버다이버들
+	스쿠버다이버/ncn+들/ncn
+
+사이에서는
+	사이/ncn+에서/jca+는/jxc
+
+이미
+	이미/mag
+
+최고의
+	최고/ncn+의/jcm
+
+다이빙
+	다이빙/ncpa
+
+포인트로
+	포인트/ncn+로/jca
+
+찬사를
+	찬사/ncn+를/jco
+
+받고
+	받/pvg+고/ecc
+
+있는
+	있/paa+는/etm
+
+
+곳이라고
+	곳/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+제주의
+	제주/ncn+의/jcm
+
+영산인
+	영산/ncn+이/jp+ㄴ/etm
+
+한라산을
+	한라/ncn+산/ncn+을/jco
+
+비롯하여
+	비롯/ncpa+하/xsva+어/ecx
+
+산방산과
+	산방산/ncn+과/jcj
+
+송악산,
+	송악산,/ncn
+
+형제섬
+	형제/ncr+섬/ncn
+
+그리고
+	그리고/maj
+
+대한민국
+	대한/ncn+민국/ncn
+
+최남단의
+	최남단/ncn+의/jcm
+
+마라도가
+	마라도/ncn+가/jcs
+
+사방으로
+	사방/ncn+으로/jca
+
+병풍처럼
+	병풍/ncn+처럼/jca
+
+
+어우러진
+	어우러지/pvg+ㄴ/etm
+
+해상경관은
+	해상/ncn+경관/ncn+은/jxc
+
+마라도잠수함의
+	마라도잠수함/ncn+의/jcm
+
+큰
+	크/paa+ㄴ/etm
+
+매력입니다
+	매력/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+최고의
+	최고/ncn+의/jcm
+
+해상관광과
+	해상/ncn+관광/ncpa+과/jcj
+
+해저관광이
+	해저/ncn+관광/ncpa+이/jcc
+
+함께
+	함께/mag
+
+이루어지는
+	이루/pvg+어/ecx+지/px+는/etm
+
+여행이라고
+	여행/ncpa+이/jp+라/ef+고/jcr
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+산방산을
+	산방산/ncn+을/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+유람선이
+	유람선/ncn+이/jcc
+
+항을
+	항/ncn+을/jco
+
+떠나고
+	떠나/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+진한
+	지/px+ㄴ/etm+한/nbn
+
+기름냄새를
+	기름냄새/ncn+를/jco
+
+풍기면서
+	풍기/pvg+면서/ecc
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+산방산을
+	산방산/ncn+을/jco
+
+휘감고
+	휘감/pvg+고/ecc
+
+도는
+	돌/pvg+는/etm
+
+구름은
+	구름/ncn+은/jxc
+
+시시각각
+	시시각각/mag
+
+달리하고
+	달/paa+ㄹ/etm+리/nbn+하고/jct
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+모습을
+	모습/ncn+을/jco
+
+뒤로하면서
+	뒤로하/ncn+이/jp+면서/ecc
+
+송악산
+	송악산/ncn
+
+주변
+	주변/ncn
+
+바지선쪽으로
+	바지선/ncn+쪽/ncn+으로/jca
+
+이동을
+	이/nnc+동/nbu+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+수송선
+	수송선/ncn
+
+밖에서
+	밖/ncn+에서/jca
+
+구경을
+	구경/ncn+을/jco
+
+좀
+	좀/mag
+
+해보려고
+	하/pvg+어/ecx+보/px+려고/ecs
+
+했으나
+	하/px+었/ep+으나/ecs
+
+...
+	.../se
+
+
+바람에
+	바라/pvg+ㅁ/etn+에/jca
+
+쫓기고
+	쫓기/pvg+고/ecc
+
+안개
+	안개/ncn
+
+때문에
+	때문/nbn+에/jca
+
+뿌연
+	뿌연/ncn
+
+대기속에
+	대기/ncn+속/ncn+에/jca
+
+어디가
+	어디/npd+가/jcc
+
+형제섬인지
+	형제/ncr+섬/ncn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+어디가
+	어디/npd+가/jcc
+
+송악산인지
+	송악산/ncn+이/jp+ㄴ지/ecs
+
+...
+	.../se
+
+
+어렴풋하게나마
+	어렴풋/ncps+하/xsms+게/ecs+나마/jxc
+
+보일
+	보이/pvg+ㄹ/etm
+
+뿐입니다
+	뿐/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+다시
+	다시/mag
+
+안으로
+	안/ncn+으로/jca
+
+들어왔는데요
+	들/pvg+어/ecx+오/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+유람선
+	유람선/ncn
+
+내부는
+	내부/ncn+는/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+양쪽에
+	양쪽/ncn+에/jca
+
+좌석이
+	좌석/ncn+이/jcc
+
+있고
+	있/paa+고/ecc
+
+
+가운데
+	가운데/ncn
+
+좌석이
+	좌석/ncn+이/jcc
+
+일렬로
+	일렬/ncn+로/jca
+
+놓여져
+	놓이/pvg+어/ecx+지/px+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+가족여행객,
+	가족/ncn+여행객/ncn+,/sp
+
+외국인
+	외국/ncn+이/jp+ㄴ/etm
+
+관광객들이
+	관광객/ncn+들/ncn+이/jcc
+
+우리
+	우리/npp
+
+일행과
+	일행/ncn+과/jct
+
+함께
+	함께/mag
+
+잠수함을
+	잠수함/ncn+을/jco
+
+타러
+	타/pvg+러/ecs
+
+이동중입니다
+	이동/ncn+중/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+날이
+	날/ncn+이/jcc
+
+흐리다보니
+	흐리다보/ncn+이/jp+니/ecs
+
+짧은
+	짧/paa+은/etm
+
+팔을
+	팔/ncn+을/jco
+
+입고는
+	입/pvg+고/ecs+는/jxc
+
+약간
+	약간/mag
+
+추운
+	춥/paa+은/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+드는
+	들/pvg+는/etm
+
+온도였는데요
+	온도/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+헐렁하게
+	헐렁/ncps+하/xsms+게/ecs
+
+덧입은
+	덧입/pvg+은/etm
+
+모습이
+	모습/ncn+이/jcc
+
+귀여웠습니다
+	귀엽/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+바지선에
+	바지선/ncn+에/jca
+
+도착
+	도착/ncpa
+
+.
+	./sf
+
+
+유람선을
+	유람선/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+10여분
+	10/nnc+여/xsnu+분/nbu
+
+이동하면
+	이동/ncpa+하/xsva+면/ecs
+
+바지선에
+	바지선/ncn+에/jca
+
+닿습니다
+	닿/pvg+습니다/ef
+
+.
+	./sf
+
+
+가운데
+	가운데/ncn
+
+노랑잠수함이
+	노랑/ncn+잠수함/ncn+이/jcc
+
+대기를
+	대/nbu+이/jp+기/etn+를/jco
+
+하고
+	하/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+보이저호
+	보이저/ncn+호/ncn
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+잠수함에
+	잠수함/ncn+에/jca
+
+타기전에
+	타/pvg+기/etn+전/xsnx+에/jca
+
+수송선에서
+	수송선/ncn+에서/jca
+
+내려서
+	내리/pvg+어서/ecs
+
+잠수함을
+	잠수함/ncn+을/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+사진을
+	사진/ncn+을/jco
+
+담아주십니다
+	담/pvg+아/ecx+주/px+시/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+기념촬영은
+	기념/ncpa+촬영/ncpa+은/jxc
+
+개인이나
+	개인/ncn+이나/jcj
+
+두세명씩
+	두/nnc+세/nnc+명/nbu+씩/xsnu
+
+함께
+	함께/mag
+
+찍어도
+	찍/pvg+어도/ecs
+
+되는데요
+	되/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+찍고
+	찍/pvg+고/ecc
+
+잠수함을
+	잠수함/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+항구로
+	항구/ncn+로/jca
+
+돌아오면
+	돌/pvg+아/ecx+오/px+면/ecs
+
+사진을
+	사진/ncn+을/jco
+
+찾는
+	찾/pvg+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+외국인관광객도
+	외국인관광객/ncn+도/jxc
+
+사진을
+	사진/ncn+을/jco
+
+찍었는데
+	찍/pvg+었/ep+는데/ecs
+
+찾는
+	찾/pvg+는/etm
+
+곳을
+	곳/ncn+을/jco
+
+일러주지
+	이르/pvg+어/ecx+주/px+지/ecx
+
+않아서인지
+	않아서/ncn+이/jp+ㄴ지/ecs
+
+아니면
+	아니/paa+면/ecs
+
+잊어버린
+	잊/pvg+어/ecx+버리/px+ㄴ/etm
+
+것인지
+	것/nbn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+사진을
+	사진/ncn+을/jco
+
+안받고
+	안받고/ncn
+
+그냥
+	그냥/mag
+
+가시더라구요
+	가/px+시/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+기념사진이니
+	기념사진/ncn+이/jp+니/ecs
+
+꼭
+	꼭/mag
+
+챙겨서
+	챙기/pvg+어서/ecs
+
+가시길
+	가시/ncn+길/ncn
+
+...
+	.../se
+
+
+기념사진
+	기념사진/ncn
+
+찍고
+	찍/pvg+고/ecc
+
+잠수함에
+	잠수함/ncn+에/jca
+
+승선하는
+	승선하/ncn+는/jxc
+
+시간은
+	시간/nbu+은/jxc
+
+대략
+	대략/mag
+
+5분정도
+	5분정/ncn+도/jxc
+
+....
+	.../se+./sf
+
+
+잠수함으로
+	잠수함/ncn+으로/jca
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+입구는
+	입구/ncn+는/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+좁습니다
+	좁/paa+습니다/ef
+
+.
+	./sf
+
+
+물기가
+	물/pvg+기/etn+가/jcs
+
+있고
+	있/px+고/ecc
+
+가팔라서
+	가팔라서/ncn
+
+내려가실때
+	내리/pvg+어/ecx+가/px+시/ep+ㄹ/etm+때/nbn
+
+필히
+	필히/mag
+
+조심조심
+	조심조심/mag
+
+...
+	.../se
+
+
+이날
+	이/nnc+날/nbu
+
+느낀
+	느끼/pvg+ㄴ/etm
+
+거지만
+	거지/ncn+만/jxc
+
+치마입으신분들
+	치마입으신분들/ncn
+
+치맛자락
+	치맛자락/ncn
+
+꼭
+	꼭/mag
+
+잡고
+	잡/pvg+고/ecc
+
+걸으셔야
+	걸/pvg+시/ep+어야/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+거
+	것/nbn
+
+같더군요
+	같/paa+더군/ef+요/jxf
+
+.
+	./sf
+
+
+워낙
+	워낙/mag
+
+경사가
+	경사/ncr+가/jcc
+
+있다보니안전에
+	있다보니안전/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+부분도
+	부분/ncn+도/jxc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+잠수함안에서
+	잠수함/ncn+안/ncn+에서/jca
+
+계단이
+	계단/ncn+이/jcc
+
+올려다
+	올리/pvg+어다/ecs
+
+보이기
+	보이/pvg+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+아무래도
+	아무렇/pad+어도/ecs
+
+조심하시는
+	조심/ncpa+하시/ncn+는/jxc
+
+것이
+	것/nbn+이/jcc
+
+좋을듯
+	좋/paa+을/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+잠수함
+	잠수함/ncn
+
+내부는
+	내부/ncn+는/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+생겼습니다
+	생기/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+양쪽으로
+	양쪽/ncn+으로/jca
+
+의자가
+	의자/ncn+가/jcs
+
+놓여있는데요
+	놓이/pvg+어/ecx+있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+들어가서
+	들/pvg+어/ecx+가/px+아/ecx
+
+잠수함의
+	잠수함/ncn+의/jcm
+
+왼쪽으로
+	왼쪽/ncn+으로/jca
+
+앉으라고
+	앉/pvg+으라/ef+고/jcr
+
+하시더군요
+	하/px+시/ep+더군/ef+요/jxf
+
+.
+	./sf
+
+
+수중세계
+	수중세계/ncn
+
+감상은
+	감상/ncn+은/jxc
+
+왼쪽방향으로
+	왼쪽/ncn+방향/ncn+으로/jca
+
+이뤄질
+	이루/pvg+어/ecx+지/px+ㄹ/etm
+
+건가
+	것/nbn+이/jp+ㄴ가/ef
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+사람이
+	사람/ncn+이/jcc
+
+많을
+	많/paa+을/etm
+
+때는
+	때/ncn+는/jxc
+
+자리경쟁도
+	자리/ncn+경쟁/ncpa+도/jxc
+
+치열하겠단
+	치열/ncps+하/xsms+겠/ep+단/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들었어요
+	들/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+지하로
+	지하/ncn+로/jca
+
+내려가면서
+	내리/pvg+어/ecx+가/px+면서/ecc
+
+창에다
+	창/ncn+에다/jca
+
+얼굴을
+	얼굴/ncn+을/jco
+
+대고
+	대/nbu+이/jp+고/ecc
+
+모두
+	모두/mag
+
+"수구리~~"자세를
+	"/sl+수구/ncn+이/jp+리/ef+~/sd+~/sd+"/sl+자세/ncn+를/jco
+
+취하고
+	취하/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+함장님이
+	함장/ncn+님/ncn+이/jcc
+
+들어오시기
+	들/pvg+어/ecx+오/px+시/ep+기/etn
+
+전에
+	전/nbn+에/jca
+
+한장
+	한/nnc+장/nbu
+
+담아봤습니다
+	담/pvg+아/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+뭐가
+	뭐/npd+가/jcc
+
+이리도
+	이/nnc+리/nbu+도/jxc
+
+복잡한지
+	복잡/ncn+한지/ncn
+
+..
+	./sf+./sf
+
+
+자그마한
+	자그마하/paa+ㄴ/etm
+
+공간에
+	공간/ncn+에/jca
+
+잠수함을
+	잠수함/ncn+을/jco
+
+움직일
+	움직이/pvg+ㄹ/etm
+
+버튼들로
+	버튼/ncn+들/ncn+로/jca
+
+가득합니다
+	가득/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+선풍기는
+	선풍기/ncn+는/jxc
+
+앙증맞은
+	앙증맞/pvg+은/etm
+
+것으로
+	것/nbn+으로/jca
+
+설치를
+	설치/ncpa+를/jco
+
+해두셨군요
+	하/pvg+어/ecx+두/px+셨/ep+군/ef+요/jxf
+
+.
+	./sf
+
+
+잠수함
+	잠수함/ncn
+
+밖이
+	밖/ncn+이/jcc
+
+보이는
+	보이/pvg+는/etm
+
+모니터가
+	모니터/ncpa+가/jcc
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+이때는
+	이때/ncn+는/jxc
+
+아직
+	아직/mag
+
+출발전입니다
+	출발/ncpa+전/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+수중세계를
+	수중세계/ncn+를/jco
+
+만나러
+	만나/pvg+러/ecs
+
+내려가
+	내리/pvg+어/ecx+가/px+아/ecx
+
+볼까요
+	보/px+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+수심
+	수/nbn+이/jp+시/ep+ㅁ/etn
+
+20~30m라고
+	20~30m라/ncn+이/jp+고/ecc
+
+들었는데
+	들/pvg+었/ep+는데/ecs
+
+40m까지
+	40m/ncn+까지/jxc
+
+내려가는
+	내리/pvg+어/ecx+가/px+는/etm
+
+거
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+빨간색
+	빨간색/ncn
+
+숫자가
+	숫자/ncn+가/jcs
+
+38까지
+	38/nnc+까지/jxc
+
+내려가는걸
+	내려가는걸/ncn
+
+보았거든요
+	보/px+아/ep+거든/ef+요/jxf
+
+.
+	./sf
+
+
+얼마
+	얼마/ncn
+
+내려오지
+	내리/pvg+어/ecx+오/px+지/ecx
+
+않은
+	않/px+은/etm
+
+듯
+	듯/nbn
+
+한데
+	하/pvg+ㄴ데/ecs
+
+잠수함이
+	잠수함/ncn+이/jcc
+
+서서히
+	서서히/mag
+
+바닥
+	바닥/ncn
+
+가까이까지
+	가까이/mag+까지/jxc
+
+내려왔습니다
+	내리/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+잠수함
+	잠수함/ncn
+
+내부에서는
+	내부/ncn+에서/jca+는/jxc
+
+우리가
+	우리/npp+가/jcs
+
+눈으로
+	눈/ncn+으로/jca
+
+보고
+	보/px+고/ecc
+
+있는
+	있/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+무엇인지
+	무엇/npd+이/jp+ㄴ지/ecs
+
+...
+	.../se
+
+
+마라도잠수함에서
+	마라도잠수함/ncn+에서/jca
+
+보고
+	보/px+고/ecc
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+설명을
+	설명/ncpa+을/jco
+
+해주십니다
+	하/pvg+어/ecx+주/px+시/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+어느
+	어느/mmd
+
+정도
+	정도/ncn
+
+내려온
+	내리/pvg+어/ecx+오/px+ㄴ/etm
+
+상태인지
+	상태/ncn+이/jp+ㄴ지/ecs
+
+...
+	.../se
+
+
+어느
+	어느/mmd
+
+것이
+	것/nbn+이/jcc
+
+줄돔인지
+	줄돔/ncn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+스쿠버다이버가
+	스쿠버다이버/ncn+가/jcs
+
+관람을
+	관람/ncpa+을/jco
+
+도와주고
+	돕/pvg+어/ecx+주/px+고/ecc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+먹이를
+	먹이/ncn+를/jco
+
+주면서
+	주/px+면서/ecc
+
+잠수함
+	잠수함/ncn
+
+주변을
+	주변/ncn+을/jco
+
+돌아가면서
+	돌/pvg+아/ecx+가/px+면서/ecc
+
+고기떼들을
+	고기떼/ncn+들/ncn+을/jco
+
+유인하는데
+	유인/ncpa+하/xsva+ㄴ데/ecs
+
+...
+	.../se
+
+
+정말
+	정말/mag
+
+징그러울
+	징그럽/paa+을/etm
+
+정도로
+	정도/ncn+로/jca
+
+달라붙습니다
+	달라붙습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+하루
+	하루/ncn
+
+열번도
+	열/nnc+번/nbu+도/jxc
+
+넘게
+	넘/pvg+게/ecs
+
+이런
+	이런/mmd
+
+이벤트가
+	이벤트/ncn+가/jcs
+
+벌어질텐데
+	벌/pvg+어/ecx+지/px+ㄹ텐데/ecs
+
+이곳의
+	이곳/npd+의/jcm
+
+고기들은
+	고기/ncn+들/ncn+은/jxc
+
+지치지도
+	지치/pvg+지/ecs+도/jxc
+
+않나봅니다
+	않나봅니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+떼거지로
+	떼거지/ncn+로/jca
+
+몰려다니는
+	몰려다니/ncn+는/jxc
+
+고기를
+	고/ncn+이/jp+기/etn+를/jco
+
+보면서
+	보/px+면서/ecc
+
+"아~
+	"/sl+아/ii+~/sd
+
+맛있겠다~"라고
+	맛있/paa+겠/ep+다/ef+~/sd+"/sr+라고/jxc
+
+나만의
+	나/npp+만의/jcm
+
+인사법으로
+	인사/ncn+법/ncn+으로/jca
+
+아는체를
+	알/pvg+는/etm+체/nbs+를/jco
+
+해줍니다
+	하/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+다이버가
+	다이버/ncn+가/jcs
+
+가는
+	가/pvg+는/etm
+
+곳마다
+	곳/ncn+마다/jxc
+
+고기들은
+	고기/ncn+들/ncn+은/jxc
+
+정말
+	정말/mag
+
+정신없이
+	정신/ncn+없이/jca
+
+몰려
+	몰리/pvg+어/ecx
+
+다닙니다
+	다니/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+물방울이
+	물방울/ncn+이/jcc
+
+뽀로록
+	뽀로록/ncn
+
+올라오는
+	오르/pvg+아/ecx+오/px+는/etm
+
+사진은
+	사진/ncn+은/jxc
+
+잠수함이
+	잠수함/ncn+이/jcc
+
+다시
+	다시/mag
+
+수면으로
+	수면/ncn+으로/jca
+
+올라올때
+	오르/pvg+아/ecx+오/px+ㄹ/etm+때/nbn
+
+보여준
+	보이/pvg+어/ecx+주/px+ㄴ/etm
+
+건데요
+	건데요/ncn
+
+.
+	./sf
+
+
+수천개의
+	수천/nnc+개/nbu+의/jcm
+
+물방울
+	물방울/ncn
+
+다이아몬드
+	다이아몬드/ncn
+
+처럼
+	처럼/ncn
+
+반짝반짝
+	반짝반짝/mag
+
+..
+	./sf+./sf
+
+
+정말
+	정말/mag
+
+아름다웠답니다
+	아름답/paa+었/ep+답니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+다이버를
+	다이버/ncn+를/jco
+
+따라다니는
+	따라다니/pvg+는/etm
+
+고기떼입니다
+	고기떼/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+수심이
+	수/nbn+이/jp+시/ep+ㅁ/etn+이/jcs
+
+깊어갈수록
+	깊/paa+어/ecx+가/px+ㄹ수록/ecs
+
+푸른빛이
+	푸른빛/ncn+이/jcc
+
+더해가는데요
+	더하/paa+어/ecx+가/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+사진은
+	사진/ncn+은/jxc
+
+색감조절을
+	색감/ncn+조절/ncpa+을/jco
+
+해서
+	하/pvg+어서/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+보이는거구요
+	보이는거구요/ncn
+
+.
+	./sf
+
+
+입술이
+	입술/ncn+이/jcc
+
+파랗게
+	파랗/paa+게/ecs
+
+보일
+	보이/pvg+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+붉은
+	붉/paa+은/etm
+
+빛을
+	빛/ncn+을/jco
+
+잃어가고
+	잃/pvg+어/ecx+가/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+관람하는
+	관람/ncpa+하/xsva+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+골고루
+	골고루/mag
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+유리창마다
+	유리/ncn+창/ncn+마다/jxc
+
+멈춰서서
+	멈추/pvg+어서/ep+어서/ecs
+
+고기떼들과
+	고기떼/ncn+들/ncn+과/jcj
+
+인사를
+	인사/ncn+를/jco
+
+나누게
+	나누/pvg+게/ecs
+
+해줍니다
+	하/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+함께하면
+	함께하/pvg+면/ecs
+
+정말
+	정말/mag
+
+꺄악하고
+	꺄악하/ncn+이/jp+고/ecc
+
+즐거워
+	즐겁/paa+어/ecx
+
+할거
+	할거/ncpa
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+고기들과
+	고기/ncn+들/ncn+과/jct
+
+오는
+	오/px+는/etm
+
+사이
+	사/nnc+이/jcc
+
+잠수함
+	잠수함/ncn
+
+선장님이
+	선장/ncr+님/ncn+이/jcc
+
+뭘하시나
+	뭘하/paa+시/ep+나/ef
+
+....
+	.../se+./sf
+
+
+그냥
+	그냥/mag
+
+뒷모습만
+	뒷모습/ncn+만/jxc
+
+담아
+	담/pvg+아/ecx
+
+보았습니다
+	보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+다이버가
+	다이버/ncn+가/jcs
+
+언제
+	언제/mag
+
+앞으로
+	앞/ncn+으로/jca
+
+이동을
+	이/nnc+동/nbu+을/jco
+
+했네요
+	하/px+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+고기들이
+	고기/ncn+들/ncn+이/jcc
+
+선장님을
+	선장/ncr+님/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+몸짓을
+	몸짓/ncpa+을/jco
+
+보여줍니다
+	보이/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+지금
+	지금/mag
+
+이
+	이/mmd
+
+모습을
+	모습/ncn+을/jco
+
+건너편에서
+	건너편/ncn+에서/jca
+
+바라보면
+	바라/pvg+아/ecx+보/px+면/ecs
+
+정말
+	정말/mag
+
+장관일거
+	장관/ncr+일거/ncn
+
+같더라구요
+	같/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+스쿠버다이버
+	스쿠버다이버/ncn
+
+하시는
+	하/px+시/ep+는/etm
+
+분들이라면
+	불/pvg+ㄴ/etm+들/nbn+이/jp+라면/ecs
+
+잠수함이
+	잠수함/ncn+이/jcc
+
+머물면서
+	머물/pvg+면서/ecc
+
+고기들과
+	고기/ncn+들/ncn+과/jct
+
+노니는
+	놀/pvg+니/ef+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있겠지요
+	있/px+겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+얘들은
+	얘/ncn+들/xsncc+은/jxc
+
+이름이
+	이름/ncn+이/jcc
+
+뭐지
+	뭐/npd+이/jp+지/ef
+
+?
+	?/sf
+
+
+하늘을
+	하늘/ncn+을/jco
+
+나는듯,
+	나/px+는/etm+듯/nbs+,/sp
+
+여유롭게
+	여유/ncn+롭/xsmn+게/ecs
+
+비늘을
+	비늘/ncn+을/jco
+
+반짝이면서
+	반짝이/pvg+면서/ecc
+
+지나갑니다
+	지나/pvg+아/ecx+가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+가오리
+	가/pvg+아/ecx+오/px+리/ef
+
+등장
+	등장/ncpa
+
+...
+	.../se
+
+
+다이버
+	다이버/ncn
+
+아저씨가
+	아저씨/ncn+가/jcs
+
+가오리
+	가/pvg+아/ecx+오/px+리/ef
+
+한마리를
+	한/nnc+마리/nbu+를/jco
+
+잡았어요
+	잡/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+자그마한
+	자그마하/paa+ㄴ/etm
+
+가오리인데요
+	가오리인데요/ncn
+
+.
+	./sf
+
+
+잠수함
+	잠수함/ncn
+
+관람
+	관람/ncpa
+
+유리창에
+	유리/ncn+창/ncn+에/jca
+
+떡하니
+	떡하/ncn+이/jp+니/ecs
+
+붙여놓으면
+	붙이/pvg+어/ecx+놓/px+으면/ecs
+
+이
+	이/mmd
+
+모습
+	모습/ncn
+
+그대로
+	그대로/mag
+
+붙어서
+	붙/pvg+어서/ecs
+
+뻐끔뻐끔
+	뻐끔뻐끔/ncn
+
+숨쉬는
+	숨쉬/pvg+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+눈
+	눈/ncn
+
+입,
+	입/ncn+,/sp
+
+가슴부분의
+	가슴/ncn+부분/ncn+의/jcm
+
+숨구멍인지
+	숨구멍/ncn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+그곳까지
+	그곳/ncn+까지/jxc
+
+따로따로
+	따로따로/mag
+
+움직이는
+	움직이/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+정말
+	정말/mag
+
+신기해요
+	신기/ncps+하/xsms+어/ef+요/jxf
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+가까이서
+	가까이/ncn+서/jca
+
+살아있는
+	살/pvg+아/ecx+있/px+는/etm
+
+모습으로
+	모습/ncn+으로/jca
+
+보기는
+	보/px+기/etn+는/jxc
+
+첨입니다
+	첨/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+얼굴표정이
+	얼굴/ncn+표정/ncn+이/jcc
+
+어찌나
+	어찌/mag+나/jxc
+
+귀여운지
+	귀엽/paa+은/etm+지/nbn
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+정신없이
+	정신/ncn+없이/jca
+
+찍다보면
+	찍다보/ncn+이/jp+면/ecs
+
+다이버가
+	다이버/ncn+가/jcs
+
+가오리를
+	가오리/ncn+를/jco
+
+빙글
+	빙글/mag
+
+돌려서
+	돌리/pvg+어서/ecs
+
+유리에서
+	유리/ncn+에서/jca
+
+떼어냅니다
+	떼/pvg+어/ecx+내/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+바싹
+	바싹/mag
+
+붙어
+	붙/pvg+어/ecx
+
+있으니
+	있/px+으니/ecs
+
+그렇게
+	그렇/pad+게/ecs
+
+떼어내나봐요
+	떼/pvg+어/ecx+내/px+어/ecx+나/px+아/ecx+보/px+아/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+정말
+	정말/mag
+
+웃기더라구요
+	웃/pvg+기/etn+이/jp+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+산호군락이
+	산호/ncn+군락/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+곳에서
+	곳/ncn+에서/jca
+
+멈춘
+	멈추/pvg+ㄴ/etm
+
+잠수함은
+	잠수함/ncn+은/jxc
+
+조명이
+	조/nnc+명/nbu+이/jcc
+
+들어오면서
+	들/pvg+어/ecx+오/px+면서/ecc
+
+새로운
+	새롭/paa+은/etm
+
+세상을
+	세상/ncn+을/jco
+
+펼쳐놓았어요
+	펼치/pvg+어/ecx+놓/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+형형색색의
+	형형색색/ncn+의/jcm
+
+산호들이
+	산호/ncn+들/ncn+이/jcc
+
+산호정원처럼
+	산호/ncn+정원/ncn+처럼/jca
+
+드러나는데요
+	드러나/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+빛을
+	빛/ncn+을/jco
+
+낸다는
+	내/px+ㄴ다/ef+는/etm
+
+것이
+	것/nbn+이/jcc
+
+정말
+	정말/mag
+
+신비로울
+	신비/ncps+롭/xsmn+을/etm
+
+뿐입니다
+	뿐/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+노랑
+	노랑/ncn
+
+빨강
+	빨강/ncn
+
+...
+	.../se
+
+
+산호들이
+	산호/ncn+들/ncn+이/jcc
+
+만들어낸
+	만들/pvg+어/ecx+내/px+ㄴ/etm
+
+꽃이
+	꽃/ncn+이/jcc
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+정원처럼
+	정원/ncn+처럼/jca
+
+보였어요
+	보이/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+아름다운
+	아름답/paa+은/etm
+
+곳이니
+	곳/ncn+이/jp+니/ecs
+
+스쿠버다이버들이
+	스쿠버다이버/ncn+들/ncn+이/jcc
+
+즐겨찾는
+	즐겨찾/ncn+는/jxc
+
+포인트겠구나
+	포인트/ncn+이/jp+겠/ep+구나/ef
+
+실감이
+	실감/ncn+이/jcc
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+바닷속에서
+	바닷속/ncn+에서/jca
+
+얼마나
+	얼마나/mag
+
+있었는지
+	있/px+었/ep+는지/ecs
+
+시간도
+	시간/nbu+도/jxc
+
+짐작이
+	짐작/ncpa+이/jcc
+
+안될
+	안되/paa+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+바닷속
+	바닷속/ncn
+
+세상에
+	세상/ncn+에/jca
+
+빠져서
+	빠지/pvg+어서/ecs
+
+보냈답니다
+	보내/pvg+었/ep+답니다/ef
+
+.
+	./sf
+
+
+짧게만
+	짧/paa+게/ecx+말/px+ㄴ/etm
+
+느껴졌던
+	느끼/pvg+어/ecx+지/px+었/ep+던/etm
+
+수중세상에서
+	수중/ncn+세상/ncn+에서/jca
+
+물방울
+	물방울/ncn
+
+뽀로록
+	뽀로록/ncn
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+보면서
+	보/px+면서/ecc
+
+다시
+	다시/mag
+
+수면으로
+	수면/ncn+으로/jca
+
+올라왔습니다
+	오르/pvg+아/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+잠수함에서
+	잠수함/ncn+에서/jca
+
+내려서
+	내리/pvg+어서/ecs
+
+다시
+	다시/mag
+
+바지선으로
+	바지선/ncn+으로/jca
+
+올라서는
+	오르/pvg+아/ecs
+
+모습
+	모습/ncn
+
+
+아이의
+	아이/ncn+의/jcm
+
+눈에도
+	눈/ncn+에/jca+도/jxc
+
+신비한
+	신비/ncps+하/xsms+ㄴ/etm
+
+수중세상은
+	수중/ncn+세상/ncn+은/jxc
+
+새로운
+	새롭/paa+은/etm
+
+경험이었겠지요
+	경험/ncpa+이/jp+었겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+돌아오는
+	돌/pvg+아/ecx+오/px+는/etm
+
+유람선에서
+	유람선/ncn+에서/jca
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+산방산
+	산방산/ncn
+
+...
+	.../se
+
+
+또다른
+	또다른/mma
+
+옷을
+	옷/ncn+을/jco
+
+입고
+	입/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+산방산은
+	산방산/ncn+은/jxc
+
+제주
+	제주/ncn
+
+서남쪽의
+	서남쪽/ncn+의/jcm
+
+무게중심이자,
+	무게중심/ncn+이/jp+자/ecc+,/sp
+
+제주도에서
+	제주/ncn+도/ncn+에서/jca
+
+가장
+	가장/mag
+
+큰
+	크/paa+ㄴ/etm
+
+기생화산입니다
+	기생화산/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+거대하고
+	거대/ncps+하고/jct
+
+육중한
+	육중/ncps+하/xsms+ㄴ/etm
+
+몸.
+	몸/ncn+./sf
+
+
+산방굴사가
+	산방굴사/ncn+가/jcs
+
+또한
+	또한/maj
+
+알아주는
+	알/pvg+아/ecx+주/px+는/etm
+
+곳이라고
+	곳/ncn+이/jp+라/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여행에서는
+	여행/ncpa+에서/jca+는/jxc
+
+보지는
+	보/px+지/ecs+는/jxc
+
+못했습니다
+	못하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+산방산
+	산방산/ncn
+
+바로
+	바로/mag
+
+아래
+	아래/ncn
+
+용머리해안이
+	용머리해안/ncn+이/jcc
+
+있고,
+	있/px+고/ecc+,/sp
+
+용머리해안
+	용머리해안/ncn
+
+입구에
+	입구/ncn+에/jca
+
+하멜전시관이
+	하멜/ncn+전시관/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+마라도잠수함
+	마라도잠수함/ncn
+
+바지선가운데
+	바지선/ncn+가운데/ncn
+
+노랑
+	노랑/ncn
+
+잠수함이
+	잠수함/ncn+이/jcc
+
+기다리고
+	기다리/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+바지선
+	바지선/ncn
+
+옆으로
+	옆/ncn+으로/jca
+
+송악산이
+	송악산/ncn+이/jcc
+
+길게
+	길/paa+게/ecs
+
+펼쳐지는데요
+	펼치/pvg+어/ecx+지/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+송악산은
+	송악산은/ncn
+
+그
+	그/mmd
+
+자체가
+	자체/ncn+가/jcs
+
+기암절벽
+	기암/ncn+절벽/ncn
+
+풍경이
+	풍경/ncn+이/jcc
+
+아름다운
+	아름답/paa+은/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+송악산
+	송악산/ncn
+
+아래에는
+	아래/ncn+에/jca+는/jxc
+
+구멍이
+	구멍/ncn+이/jcc
+
+일정한
+	일정/ncn+한/ncn
+
+간격으로
+	가/px+ㄴ/etm+격/nbn+으로/jca
+
+뚫려
+	뚫리/pvg+어/ecx
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+15개의
+	15/nnc+개/nbu+의/jcm
+
+인공
+	인공/ncn
+
+동굴은
+	동굴/ncn+은/jxc
+
+일제
+	일제/ncn
+
+말기에
+	말/px+기/etn+에/jca
+
+일본군이
+	일본군/ncn+이/jcc
+
+주민들을
+	주민/ncn+들/ncn+을/jco
+
+강제동원하여
+	강제동원/ncpa+하/xsva+어/ecx
+
+연합군의
+	연합군/ncn+의/jcm
+
+
+상륙을
+	상륙/ncpa+을/jco
+
+막기
+	막/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+뚫은
+	뚫/pvg+은/etm
+
+동굴이라고
+	동굴/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+송악산(
+	송악산(/ncn
+
+)소나무가
+	)/sr+소나무/ncn+가/jcs
+
+우거져
+	우거져/ncn
+
+있을
+	있/px+을/etm
+
+거
+	것/nbn
+
+같은
+	같/paa+은/etm
+
+송악산인데요
+	송악산인데요/ncn
+
+.
+	./sf
+
+
+곰솔있는
+	곰솔/ncn+있/xsmn+는/etm
+
+지대를
+	지대/ncn+를/jco
+
+제외하고는
+	제외/ncpa+하고/jct+는/jxc
+
+삼림이
+	삼림/ncn+이/jcc
+
+적고
+	적/paa+고/ecc
+
+토양이
+	토양/ncn+이/jcc
+
+건조해서
+	건조/ncpa+하/xsva+어서/ecs
+
+생태계는
+	생태계/ncn+는/jxc
+
+매우
+	매우/mag
+
+단순하다고
+	단순/ncps+하/xsms+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+제주특별자치도
+	제주/ncn+특별/ncps+자치/ncn+도/jxc
+
+서귀포시
+	서귀포시/ncn
+
+대정읍
+	대정/ncn+읍/ncn
+
+상모리에
+	상모리/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+산.
+	사/pvg+ㄴ/etm+./sf
+
+높이
+	높이/mag
+
+104m,
+	104m,/ncn
+
+둘레
+	둘레/ncn
+
+3,115m.
+	3,115m./ncn
+
+절울이,
+	절울이,/ncn
+
+저볕이악이라고도
+	저볕이악/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+부른답니다
+	부르/pvg+ㄴ답니다/ef
+
+.
+	./sf
+
+
+다시
+	다시/mag
+
+유람선
+	유람선/ncn
+
+선착장으로
+	선착장/ncn+으로/jca
+
+돌아왔습니다
+	돌/pvg+아/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+수송선은
+	수송선/ncn+은/jxc
+
+다시
+	다시/mag
+
+관광객을
+	관광객/ncn+을/jco
+
+태우고
+	태우/pvg+고/ecc
+
+잠수함까지
+	잠수함/ncn+까지/jxc
+
+데려다
+	데/nbn+이/jp+려다/ecs
+
+주겠지요
+	주/px+겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+오늘
+	오늘/ncn
+
+날씨가
+	날씨/ncn+가/jcs
+
+도와주었다면
+	돕/pvg+어/ecx+주/px+었/ep+다면/ecs
+
+제주도의
+	제주/ncn+도/ncn+의/jcm
+
+하늘과
+	하늘/ncn+과/jct
+
+푸른
+	푸르/paa+ㄴ/etm
+
+바다,
+	바/nbn+이/jp+다/ef+,/sp
+
+해저의
+	해저/ncn+의/jcm
+
+세상까지
+	세상/ncn+까지/jxc
+
+눈부신
+	눈부시/paa+ㄴ/etm
+
+아름다움을
+	아름다움/ncn+을/jco
+
+보았을텐데
+	보/px+아/ep+ㄹ텐데/ef
+
+..
+	./sf+./sf
+
+
+장마기간이다
+	장마/ncn+기간/ncn+이/jp+다/ef
+
+보니
+	보/px+니/ecs
+
+그나마
+	그나마/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+비가
+	비/ncn+가/jcs
+
+오지
+	오/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+것으로도
+	것/nbn+으로/jca+도/jxc
+
+다행이다
+	다행/ncps+이/jp+다/ef
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+볼때마다
+	보/px+ㄹ/etm+때/nbn+마다/jxc
+
+구름이
+	구름/ncn+이/jcc
+
+산방산을
+	산방산/ncn+을/jco
+
+감싸고
+	감싸/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+이전과는
+	이전/ncn+과/jct+는/jxc
+
+다른
+	다른/mma
+
+모습이기에
+	모습/ncn+이/jp+기/etn+에/jca
+
+지루하지
+	지루/ncps+하/xsms+지/ecx
+
+않는
+	않/px+는/etm
+
+산방산입니다
+	산방산입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+잠수함
+	잠수함/ncn
+
+매표소맞은
+	매표소맞/ncn+은/jxc
+
+편에
+	편/nbn+에/jca
+
+디자사진출력이라고
+	디자사진출력/ncn+이/jp+라/ef+고/jcr
+
+적힌
+	적히/pvg+ㄴ/etm
+
+건물
+	건물/ncn
+
+보이시죠
+	보이/pvg+시/ep+죠/ef
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+잠수함을
+	잠수함/ncn+을/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+담았던
+	담/pvg+아/ep+ㄴ/etm
+
+기념사진을
+	기념사진/ncn+을/jco
+
+찾으면
+	찾/pvg+으면/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+외관에
+	외관/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+사진을
+	사진/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+이곳에서
+	이곳/npd+에서/jca
+
+강호동의
+	강호동/ncn+의/jcm
+
+1박2일이
+	1박2일/ncn+이/jcc
+
+다녀갔어나
+	다니/pvg+어/ecx+가/px+아/ep+아/ecx+나/px+아/ecx
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+전
+	전/nbn
+
+보지
+	보/pvg+지/ecx
+
+못했는데
+	못하/px+었/ep+는데/ecs
+
+해녀복을
+	해녀/ncn+복/ncn+을/jco
+
+빨리
+	빨리/mag
+
+입는
+	입/pvg+는/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+게임을
+	게임/ncn+을/jco
+
+했던거
+	했던거/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+잠수복을
+	잠수/ncpa+복/ncn+을/jco
+
+입고
+	입/pvg+고/ecc
+
+어정쩡하게
+	어정쩡/ncps+하/xsms+게/ecs
+
+써
+	쓰/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+사진이네요
+	사진/ncn+이/jp+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+1박2일
+	1박2/ncn+이/jp+ㄹ/etm
+
+팀은
+	팀/ncn+은/jxc
+
+전국
+	전국/ncn
+
+좋은
+	좋/paa+은/etm
+
+곳은
+	곳/ncn+은/jxc
+
+다
+	다/mag
+
+다니는거
+	다니는거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+해저탐험증명서라고
+	해저/ncn+탐험/ncpa+증명서/ncn+이/jp+라/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+기념촬영한
+	기념/ncpa+촬영/ncpa+하/xsva+ㄴ/etm
+
+사진을
+	사진/ncn+을/jco
+
+붙여서
+	붙이/pvg+어서/ecs
+
+주십니다
+	주/px+시/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+셋이서
+	셋/nnc+이/nnc+서/jca
+
+같이
+	같/paa+이/xsa
+
+찍었더니각각
+	찍었더니각각/ncn
+
+가질
+	가/pvg+아/ecx+지/px+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+세장을
+	세/nnc+장/nbu+을/jco
+
+준비해
+	준비/ncn+해/ncn
+
+줍니다
+	주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+완전
+	완전/ncps
+
+좋지요
+	좋/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+다른
+	다른/mma
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+엄연히
+	엄연히/mag
+
+초상권이
+	초상권/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+분들이라
+	불/pvg+ㄴ/etm+들/nbn+이/jp+라/ecs
+
+생각되어
+	생각/ncpa+되/xsvn+어/ecx
+
+모자이크
+	모자이크/ncn
+
+처리하고
+	처/ncn+이/jp+리/ef+하고/jcr
+
+...
+	.../se
+
+
+혼자
+	혼자/mag
+
+찍으면
+	찍/pvg+으면/ecs
+
+좀더
+	좀더/mag
+
+멋진
+	멋지/paa+ㄴ/etm
+
+포즈가
+	포즈/ncn+가/jcs
+
+나올
+	나/pvg+아/ecx+오/px+ㄹ/etm
+
+수
+	수/nbn
+
+있겠지요
+	있/px+겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+좋은
+	좋/paa+은/etm
+
+여행
+	여행/ncpa
+
+친구들과
+	친구/ncn+들/ncn+과/jct
+
+같은
+	같/paa+은/etm
+
+시간을
+	시간/ncn+을/jco
+
+남기는
+	남기/pvg+는/etm
+
+것도
+	것/nbn+도/jxc
+
+잊을
+	잊/pvg+을/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+추억이
+	추억/ncpa+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+제주도의
+	제주/ncn+도/ncn+의/jcm
+
+아름다운
+	아름답/paa+은/etm
+
+바다를
+	바다/ncn+를/jco
+
+보면
+	보/px+면/ecs
+
+그
+	그/mmd
+
+물빛
+	물빛/ncn
+
+속에
+	속/ncn+에/jca
+
+도대체
+	도대체/mag
+
+무엇이
+	무엇/npd+이/jcc
+
+있을까
+	있/px+을까/ef
+
+궁금해기
+	궁금/ncps+해/ncn+이/jp+기/etn
+
+마련인데요
+	마련인데요/ncn
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+궁금증을
+	궁금증/ncn+을/jco
+
+풀어줄
+	풀/pvg+어/ecx+주/px+ㄹ/etm
+
+레저체험이
+	레저/ncn+체험/ncpa+이/jcc
+
+바로
+	바로/mag
+
+잠수함관광이
+	잠수함/ncn+관광/ncpa+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+제주잠수함관광이
+	제주/ncn+잠수함/ncn+관광/ncpa+이/jcc
+
+운영하는
+	운영/ncpa+하/xsva+는/etm
+
+마라도잠수함
+	마라도잠수함/ncn
+
+.
+	./sf
+
+
+산방산이
+	산방산/ncn+이/jcc
+
+보이는
+	보이/pvg+는/etm
+
+사계항에서
+	사계/ncn+항/ncn+에서/jca
+
+출발하여
+	출발/ncpa+하/xsva+어/ecx
+
+수송선은
+	수송선/ncn+은/jxc
+
+잠수함이
+	잠수함/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+송악산
+	송악산/ncn
+
+주변
+	주변/ncn
+
+바닷가까지
+	바닷가/ncn+까지/jxc
+
+데려다
+	데/nbn+이/jp+려다/ecs
+
+주었습니다
+	주/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+좁은
+	좁/paa+은/etm
+
+통로를
+	통로/ncn+를/jco
+
+내려가서
+	내리/pvg+어/ecx+가/px+아/ecx
+
+잠수함
+	잠수함/ncn
+
+내부로
+	내부/ncn+로/jca
+
+들어설때는
+	들어서/pvg+ㄹ/etm+때/nbn+는/jxc
+
+새로운
+	새롭/paa+은/etm
+
+세상으로
+	세상/ncn+으로/jca
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+설렘이
+	설레/pvg+ㅁ/etn+이/jcs
+
+생기는데요
+	생기/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+꼬르륵
+	꼬르륵/ncn
+
+조금씩
+	조금씩/ncn
+
+흔들리며
+	흔들리/pvg+며/ecc
+
+내려가는
+	내리/pvg+어/ecx+가/px+는/etm
+
+잠수함은
+	잠수함/ncn+은/jxc
+
+해저로
+	해저/ncn+로/jca
+
+바닥까지
+	바닥/ncn+까지/jxc
+
+닿습니다
+	닿/pvg+습니다/ef
+
+.
+	./sf
+
+
+제주도의
+	제주/ncn+도/ncn+의/jcm
+
+바다가
+	바다/ncn+가/jcs
+
+품고
+	품/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+생물들,
+	생물/ncn+들/xsncc+,/sp
+
+아름다운
+	아름답/paa+은/etm
+
+산호를
+	산호/ncn+를/jco
+
+보여주어
+	보이/pvg+어/ecx+주/px+어/ecx
+
+짧게만
+	짧/paa+게/ecx+말/px+ㄴ/etm
+
+느껴졌던
+	느끼/pvg+어/ecx+지/px+었/ep+던/etm
+
+잠수함관광
+	잠수함/ncn+관광/ncpa
+
+.
+	./sf
+
+
+아이를
+	아이/ncn+를/jco
+
+동반한
+	동반/ncn+한/ncn
+
+가족여행이라면,
+	가족/ncn+여행/ncpa+이/jp+라면/ecs+,/sp
+
+제주도여행에서는
+	제/xp+주도/ncpa+여행/ncpa+에서/jca+는/jxc
+
+잠수함관광을
+	잠수함/ncn+관광/ncpa+을/jco
+
+한번은
+	한/nnc+번/nbu+은/jxc
+
+넣기
+	넣/pvg+기/etn
+
+마련인데요
+	마련인데요/ncn
+
+.
+	./sf
+
+
+이왕이면
+	이왕/ncn+이/jp+면/ecs
+
+저렴하게
+	저렴/ncps+하/xsms+게/ecs
+
+이용하면
+	이용/ncpa+하/xsva+면/ecs
+
+더욱
+	더욱/mag
+
+좋겠지요
+	좋/paa+겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+제주도여행
+	제/xp+주도/ncpa+여행/ncpa
+
+싸게하는방법,
+	싸게하는방법,/ncn
+
+제주모바일할인쿠폰을
+	제주모바일할인쿠폰/ncn+을/jco
+
+이용하면
+	이용/ncpa+하/xsva+면/ecs
+
+제주도여행이
+	제/xp+주도/ncpa+여행/ncpa+이/jcc
+
+가벼워질
+	가볍/paa+어/ecx+지/px+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+제주특별자치도
+	제주/ncn+특별/ncps+자치/ncn+도/jxc
+
+서귀포시
+	서귀포시/ncn
+
+안덕면
+	안덕면/ncn
+
+사계리
+	사계/ncn+이/jp+리/ef
+
+2126
+	2126/nnc
+
+/
+	//sp
+
+064-794-0200
+	064/nnc+-794/nnc+-0200/nnc
+
+
+마라도잠수함
+	마라도잠수함/ncn
+
+찾아가는길
+	찾아가는길/ncn
+
+
+제주공항-
+	제주/ncn+공항/ncn+-/sd
+
+95번국도-
+	95번국도-/ncn
+
+마라도잠수함
+	마라도잠수함/ncn
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+jejumobile.
+	jejumobile/f+./sy
+
+kr/sale.
+	kr/f+//sp+sale/f+./sy
+
+php
+	php/f
+
+?
+	?/sf
+
+
+sno=1040
+	sno/f+=/sy+1040/nnc
+
+
+제주
+	제주/ncn
+
+모바일쿠폰이란
+	모바일쿠폰이란/ncn
+
+?
+	?/sf
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+jejumobile.
+	jejumobile/f+./sy
+
+kr/sale.
+	kr/f+//sp+sale/f+./sy
+
+php
+	php/f
+
+?
+	?/sf
+
+
+sno=1040
+	sno/f+=/sy+1040/nnc
+
+
+제주도
+	제주/ncn+도/jxc
+
+여행을
+	여행/ncpa+을/jco
+
+계획중이시라면
+	계획/ncpa+중/xsnx+이/jp+시/ep+라면/ecs
+
+떠나시기
+	뜨/pvg+어/ecx+나/px+시/ep+기/etn
+
+전
+	전/nbn
+
+제주모바일쿠폰
+	제주모바일쿠폰/ncn
+
+사이트
+	사이트/ncn
+
+를
+	를/ncn
+
+찾으세요
+	찾으세요/ncn
+
+.
+	./sf
+
+
+1.
+	1./nnc
+
+기본정보입력
+	기본/ncn+정보/ncn+입력/ncpa
+
+창이
+	창/ncn+이/jcc
+
+뜹니다
+	뜨/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+2.
+	2./nnc
+
+카드결제
+	카드결제/ncpa
+
+입력창이
+	입력/ncpa+창/ncn+이/jcc
+
+뜹니다
+	뜨/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+3.
+	3./nnc
+
+핸드폰
+	핸드폰/ncn
+
+문자서비스로
+	문자/ncn+서비스/ncpa+로/jca
+
+바코드가
+	바코드/ncn+가/jcs
+
+발송됩니다
+	발송/ncpa+되/xsvn+ㅂ니다/ef
+
+.
+	./sf
+
+
+4.
+	4./nnc
+
+여행중
+	여행/ncpa+중/ncn
+
+해당
+	해당/ncpa
+
+관광지매표소에서
+	관광지/ncn+매표소/ncn+에서/jca
+
+핸드폰
+	핸드폰/ncn
+
+바코드를
+	바코드/ncn+를/jco
+
+제시하시면
+	제시/ncpa+하시/ncn+이/jp+면/ecs
+
+할인금액으로
+	할인/ncpa+금액/ncn+으로/jca
+
+결제됩니다
+	결제/ncn+되/xsvn+ㅂ니다/ef
+
+.
+	./sf
+
+
+여기서
+	여기/npd+서/jca
+
+궁금한
+	궁금/ncps+하/xsms+ㄴ/etm
+
+점
+	점/nbu
+
+몇가지
+	몇/nnc+가지/nbu
+
+짚어
+	짚/pvg+어/ecx
+
+볼까요
+	보/px+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+1.
+	1./nnc
+
+관광지마다
+	관광지/ncn+마다/jxc
+
+다운을
+	다운/ncpa+을/jco
+
+다
+	다/mag
+
+받아야
+	받/pvg+아/ecx
+
+하나요
+	하/pvg+어/ecx+나/px+아/ef+요/jxf
+
+?
+	?/sf
+
+
+=
+	=/sy
+
+아닙니다
+	아니/paa+ㅂ니다/ef+./sf
+
+.
+	./sf
+
+
+한번
+	한/nnc+번/nbu
+
+다운받은
+	다운/ncpa+받/xsva+은/etm
+
+바코드로
+	바코드/ncn+로/jca
+
+이용가능한
+	이용가능/ncn+한/ncn
+
+관광지(현재
+	관광지(현재/ncn
+
+제주관광지의
+	제주/ncn+관광지/ncn+의/jcm
+
+150여곳)에서
+	150/nnc+여/xsnu+곳/nbu+)/sr+에서/jca
+
+모두
+	모두/mag
+
+사용가능합니다
+	사용가능/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+2.
+	2./nnc
+
+카드결제정보를
+	카드결제/ncpa+정보/ncn+를/jco
+
+넣으면
+	넣/pvg+으면/ecs
+
+바로
+	바로/mag
+
+결제되는거
+	결제되는거/ncn
+
+아닌가요
+	아니/paa+ㄴ가/ef+요/jxf
+
+?
+	?/sf
+
+
+=
+	=/sy
+
+아닙니다
+	아니/paa+ㅂ니다/ef+./sf
+
+.
+	./sf
+
+
+결제정보는
+	결제/ncn+정보/ncn+는/jxc
+
+잠시
+	잠시/mag
+
+저장해둔
+	저장/ncpa+하/xsva+어/ecx+두/px+ㄴ/etm
+
+상태라고
+	상태/ncn+이/jp+라/ef+고/jcr
+
+생각하시면
+	생각/ncpa+하시/ncn+이/jp+면/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+결제되지
+	결제/ncn+되/xsvn+지/ecx
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+현장에서
+	현장/ncn+에서/jca
+
+입장할
+	입장/ncpa+하/xsva+ㄹ/etm
+
+때만
+	뜨/pvg+어/ecx+말/px+ㄴ/etm
+
+결제가
+	결제/ncn+가/jcs
+
+이뤄집니다
+	이루/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+기간내
+	기간/ncn+내/ncn
+
+이용하지
+	이용/ncpa+하/xsva+지/ecx
+
+않으시면
+	않/px+으시/ep+면/ecs
+
+결제가
+	결제/ncn+가/jcs
+
+되지
+	되/pvg+지/ecx
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+3.
+	3./nnc
+
+바코드
+	바코드/ncn
+
+다운받는데
+	다운/ncpa+받/xsva+는데/ecs
+
+돈이
+	돈/ncn+이/jcc
+
+들어가는건
+	들어가는건/ncn
+
+아닌가요
+	아니/paa+ㄴ가/ef+요/jxf
+
+?
+	?/sf
+
+
+=
+	=/sy
+
+다운받는
+	다운/ncpa+받/xsva+는/etm
+
+형식이
+	형식/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+문자메시지mms로
+	문자메시지mms/ncn+로/jca
+
+전송되기
+	전송/ncpa+되/xsvn+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+부가적인
+	부가/ncpa+적/ncn+이/jp+ㄴ/etm
+
+요금이
+	요금/ncn+이/jcc
+
+들지
+	들/pvg+지/ecx
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+4.
+	4./nnc
+
+예약인원과
+	예약/ncpa+인원/ncn+과/jcj
+
+관람인원이
+	관람/ncpa+인원/ncn+이/jcc
+
+다르다면
+	다르/paa+다면/ecs
+
+?
+	?/sf
+
+
+=
+	=/sy
+
+매표소에서인증받으시기전에
+	매표소에서인증받으시기전/ncn+에/jca
+
+변경인원을
+	변경/ncpa+인원/ncn+을/jco
+
+말씀을
+	말씀/ncpa+을/jco
+
+해주시면
+	하/pvg+어/ecx+주/px+시/ep+면/ecs
+
+변경가능하답니다
+	변경가능/ncps+하/xsms+답니다/ef
+
+.
+	./sf
+
+
+5.
+	5./nnc
+
+체크카드로
+	체크/ncpa+카드/ncn+로/jca
+
+사용해도
+	사용/ncpa+하/xsva+어도/ecs
+
+되나요
+	되/pvg+나/ef+요/jxf
+
+?
+	?/sf
+
+
+=
+	=/sy
+
+체크카드도
+	체크/ncpa+카드/ncn+도/jxc
+
+사용이
+	사용/ncpa+이/jcc
+
+가능합니다
+	가능/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+단,
+	단/mma+,/sp
+
+사용한도에
+	사용/ncpa+한도/ncn+에/jca
+
+걸릴
+	걸리/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있으니
+	있/px+으니/ecs
+
+2개를
+	2/nnc+개/nbu+를/jco
+
+다운받아
+	다운/ncpa+받/xsva+아/ecx
+
+가시면
+	가/px+시/ep+면/ecs
+
+좋을
+	좋/paa+을/etm
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+6.
+	6./nnc
+
+이용기한은
+	이용/ncpa+기한/ncn+은/jxc
+
+어떻게
+	어떻/pad+게/ecs
+
+되나요
+	되/pvg+나/ef+요/jxf
+
+?
+	?/sf
+
+
+=
+	=/sy
+
+쿠폰은
+	쿠폰/ncn+은/jxc
+
+다운받으면
+	다운/ncpa+받/xsva+으면/ecs
+
+입력하신
+	입력/ncpa+하/xsva+시/ep+ㄴ/etm
+
+신용카드가
+	신용카드/ncn+가/jcs
+
+사용가능하다면
+	사용가능/ncps+하/xsms+다면/ecs
+
+언제든지
+	언제/npd+든지/jxc
+
+사용하실
+	사용/ncpa+하/xsva+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+1년이
+	1/nnc+년/nbu+이/jcc
+
+지난후에도
+	지난/ncn+후/ncn+에/jca+도/jxc
+
+사용가능하나
+	사용가능/ncps+하/xsms+어/ecx+나/px+아/ecx
+
+방문일을
+	방문/ncpa+일/ncn+을/jco
+
+잘못
+	잘못/mag
+
+지정하였을
+	지정/ncpa+하/xsva+었/ep+을/etm
+
+경우
+	경우/ncn
+
+다시
+	다시/mag
+
+다운받으시면
+	다운/ncpa+받/xsva+으시/ep+면/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+또하나,
+	뜨/pvg+어/ecx+하/px+어/ecx+나/px+아/ecs+,/sp
+
+부모님아
+	부모님아/ncn
+
+제주도
+	제주/ncn+도/jxc
+
+여행을
+	여행/ncpa+을/jco
+
+떠나실
+	뜨/pvg+어/ecx+나/px+시/ep+ㄹ/etm
+
+때.
+	때/ncn+./sf
+
+..
+	./sf+./sf
+
+
+패키지,
+	패키지/ncn+,/sp
+
+여행사를
+	여행사/ncn+를/jco
+
+통해서
+	통하/pvg+어서/ecs
+
+가는
+	가/pvg+는/etm
+
+여행이
+	여행/ncpa+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+부모님이
+	부모님/ncn+이/jcc
+
+개인적으로
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+여행을
+	여행/ncpa+을/jco
+
+가신다면
+	가/px+시/ep+ㄴ다면/ecs
+
+부모님
+	부모님/ncn
+
+핸드폰에
+	핸드폰/ncn+에/jca
+
+다운을
+	다운/ncpa+을/jco
+
+받아주시고
+	받/pvg+아/ecx+주/px+시/ep+고/ecc
+
+결제는
+	결제/ncn+는/jxc
+
+자녀분이
+	자녀/ncn+분/ncn+이/jcc
+
+하실
+	하/px+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있다는
+	있/px+다/ef+는/etm
+
+것
+	것/nbn
+
+!
+	!/sf
+
+
+모바일
+	모바/ncn+이/jp+ㄹ/etm
+
+할인입장권이
+	할인/ncpa+입장권/ncn+이/jcc
+
+효자노릇
+	효자노릇/ncn
+
+톡톡히
+	톡톡히/mag
+
+할거
+	할거/ncpa
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+제주잠수함관광
+	제주/ncn+잠수함/ncn+관광/ncpa
+
+
+제주도
+	제주/ncn+도/jxc
+
+서귀포시
+	서귀포시/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01603504",
+	"bl01603504",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11892353",
+	"/sl+11892353/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"제주잠수함관광",
+	title/f+:/sp+"/sl+제주/ncn+잠수함/ncn+관광/ncpa+"/sr+,/sp
+
+pointX:239391,pointY:73733}
+	pointX/f+:/sp+239391/nnc+,/sp+pointY/f+:/sp+73733/nnc+}/sr

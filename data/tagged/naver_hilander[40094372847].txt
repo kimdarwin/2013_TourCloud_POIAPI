@@ -1,0 +1,780 @@
+뮤지컬
+	뮤지컬/ncn
+
+갓스펠(GODSPELL)
+	갓스펠/ncn+(/sl+GODSPELL/f+)/sr
+
+
+세례자
+	세례자/ncn
+
+요한의
+	요한/ncn+의/jcm
+
+출현부터
+	출현/ncpa+부터/jxc
+
+예수가
+	예수/ncn+가/jcs
+
+십자가에
+	십자가/ncn+에/jca
+
+못
+	못/mag
+
+박히기까지의
+	박히/pvg+기/etn+까지/jca+의/jcm
+
+행적을
+	행적/ncn+을/jco
+
+마태복음을
+	마태복음/ncn+을/jco
+
+기초로
+	기초/ncn+로/jca
+
+하여
+	하/pvg+어/ecx
+
+만든
+	만들/pvg+ㄴ/etm
+
+뮤지컬하지만
+	뮤지컬하/ncn+이/jp+지만/ecs
+
+종교적
+	종교/ncn+적/ncn
+
+색채는
+	색채/ncn+는/jxc
+
+거의
+	거의/mag
+
+배제하고
+	배제/ncpa+하고/jct
+
+교훈만을
+	교훈/ncn+만/ncn+을/jco
+
+남겨
+	남기/pvg+어/ecx
+
+만들었다
+	만들/pvg+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+(적어도
+	(/sl+적어도/mag
+
+1막까지는
+	1/nnc+막/nbu+까지/jxc+는/jxc
+
+...
+	.../se
+
+
+)
+	)/sr
+
+
+마태복음에
+	마태복음/ncn+에/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+다양한
+	다양/ncn+한/ncn
+
+단편
+	달/paa+ㄴ/etm+편/nbn
+
+들을
+	들/pvg+ㄹ/etm
+
+이야기로
+	이야기/ncpa+로/jca
+
+구성해서
+	구성/ncn+해서/ncn
+
+모아놨는데다양한
+	모아놨는데다양한/ncn
+
+이야기들을
+	이야기/ncpa+들/ncn+을/jco
+
+배우들의
+	배우/ncn+들/ncn+의/jcm
+
+코믹한
+	코믹/ncn+한/ncn
+
+동작과
+	동작/ncpa+과/jcj
+
+대사로
+	대사/ncn+로/jca
+
+표현했다
+	표현/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+배우들의
+	배우/ncn+들/ncn+의/jcm
+
+동작
+	동작/ncpa
+
+하나하나가
+	하/pvg+어/ecx+나/px+아/ecx+하/px+어/ecx+나/px+아/ecx+가/px+아/ecx
+
+귀엽기도
+	귀엽/paa+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+만화같기도
+	만화/ncpa+같/xsmn+기/etn+도/jxc
+
+한데
+	한데/mag
+
+
+어색하지도
+	어색/ncps+하/xsms+지/ecs+도/jxc
+
+않고
+	않/px+고/ecc
+
+무척
+	무척/mag
+
+재미
+	재미/ncn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+고전적인
+	고전/ncn+적/ncn+이/jp+ㄴ/etm
+
+내용과
+	내용/ncn+과/jct
+
+대비되는
+	대비/ncpa+되/xsvn+는/etm
+
+현대적인
+	현대/ncn+적/ncn+이/jp+ㄴ/etm
+
+의상들
+	의상/ncn+들/ncn
+
+..
+	./sf+./sf
+
+
+예수가
+	예수/ncn+가/jcs
+
+등장하기는
+	등장/ncpa+하/xsva+기/etn+는/jxc
+
+하지만
+	하지만/maj
+
+1막에서는
+	1/nnc+막/nbu+에서/jca+는/jxc
+
+오히려
+	오히려/mag
+
+진행자의
+	진행자/ncn+의/jcm
+
+역할만
+	역할/ncn+만/jxc
+
+하는듯
+	하/pvg+는/etm+듯/nbs
+
+하고나머지
+	하고나머지/ncn
+
+배우들이
+	배우/ncn+들/ncn+이/jcc
+
+단편적인
+	단편/ncn+적/ncn+이/jp+ㄴ/etm
+
+이야기를
+	이야기/ncpa+를/jco
+
+끌어간다
+	끌/pvg+어/ecx+가/px+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+사진에
+	사진/ncn+에/jca
+
+보이는
+	보이/pvg+는/etm
+
+의상이
+	의상/ncn+이/jcc
+
+리허설용이
+	리허설/ncpa+용/xsna+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+실제
+	실제/ncn
+
+무대
+	무대/ncn
+
+의상이다~
+	의상/ncn+이/jp+다/ef+~/sd
+
+^^
+	^/sy+^/sy
+
+
+디즈니
+	디즈니/ncn
+
+애니메이션
+	애니메이션/ncn
+
+`포카혼타스`와
+	`포카혼타스`/ncn+와/jcj
+
+`이집트
+	`이집트/ncn
+
+왕자`로
+	왕자`/ncn+로/jca
+
+아카데미와
+	아카데미/ncn+와/jcj
+
+골든
+	골든/ncn
+
+글로브를
+	글로브/ncn+를/jco
+
+수상한
+	수상/ncpa+한/ncn
+
+
+스테판
+	스테판/ncn
+
+슈왈츠가
+	슈왈츠/ncn+가/jcs
+
+작곡한
+	작곡/ncpa+하/xsva+ㄴ/etm
+
+뮤지컬
+	뮤지컬/ncn
+
+넘버들이
+	넘버/ncn+들/ncn+이/jcc
+
+흥미롭다
+	흥미/ncn+롭/xsmn+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+중
+	중/nbn
+
+'day
+	'/sr+day/f
+
+by
+	by/f
+
+day'는
+	day/f+'/sr+는/jxc
+
+빌보드차트
+	빌보드차트/ncn
+
+13위를
+	13/nnc+위/nbu+를/jco
+
+기록
+	기록/ncpa
+
+하기도
+	하/pvg+기/etn+도/jxc
+
+했다네~
+	했다/ncn+네/jcm+~/sd
+
+
+이번
+	이/nnc+번/nbu
+
+공연은
+	공연/ncps+은/jxc
+
+크게
+	크/paa+게/ecs
+
+특출난
+	특출/ncps+난/ncn
+
+배우가
+	배우/ncn+가/jcs
+
+있다기
+	있다/ncn+이/jp+기/etn
+
+보다는
+	보다/mag+는/jxc
+
+
+각자
+	각자/ncn
+
+자기
+	자기/npp
+
+맡은
+	맡/pvg+은/etm
+
+부분을
+	부분/ncn+을/jco
+
+충실해
+	충실/ncps+하/xsms+어/ecx
+
+했다고
+	하/px+었/ep+다/ef+고/jcr
+
+하는
+	하/pvg+는/etm
+
+편이
+	편/nbn+이/jcc
+
+좋을
+	좋/paa+을/etm
+
+듯
+	듯/nbn
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+하나의
+	하나/nnc+의/jcm
+
+역할이
+	역할/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+스토리마다
+	스토리/ncn+마다/jxc
+
+각자
+	각자/ncn
+
+다른
+	다른/mma
+
+역할을
+	역할/ncn+을/jco
+
+진행했기
+	진행/ncpa+하/xsva+었/ep+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+..
+	./sf+./sf
+
+
+그래도
+	그래도/maj
+
+난
+	나/px+ㄴ/etm
+
+요
+	요/mmd
+
+맨
+	맨/mma
+
+오른쪽
+	오르/pvg+ㄴ/etm+쪽/nbn
+
+갈색
+	갈색/ncn
+
+가죽
+	가죽/ncn
+
+자켓을
+	자켓/ncn+을/jco
+
+입은
+	입/ncn+은/jxc
+
+배우와
+	배우/ncn+와/jcj
+
+
+왼쪽에서
+	왼쪽/ncn+에서/jca
+
+네번째
+	네/nnc+번/nbu+째/xsnu
+
+배우가
+	배우/ncn+가/jcs
+
+젤
+	젤/ncn
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+들었다
+	들/pvg+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+보편적인
+	보편/ncn+적/ncn+이/jp+ㄴ/etm
+
+내용을
+	내용/ncn+을/jco
+
+담은
+	달/paa+ㅁ/etn+은/jxc
+
+1막에
+	1/nnc+막/nbu+에/jca
+
+비해
+	비해/ncn
+
+
+2막은
+	2/nnc+막/nbu+은/jxc
+
+종교적인
+	종교/ncn+적/ncn+이/jp+ㄴ/etm
+
+색채가
+	색채/ncn+가/jcs
+
+들어있었다.
+	들/pvg+어/ecx+있/px+었/ep+다/ef+./sf
+
+2막은
+	2/nnc+막/nbu+은/jxc
+
+최후의
+	최후/ncn+의/jcm
+
+만찬이나
+	만찬/ncn+이나/jcj
+
+유다의
+	유다/ncn+의/jcm
+
+배신으로
+	배신/ncpa+으로/jca
+
+예수가
+	예수/ncn+가/jcs
+
+십자가에
+	십자가/ncn+에/jca
+
+못박히는
+	못박히/ncn+는/jxc
+
+장면등이
+	장면/ncn+등/ncn+이/jcc
+
+포함되어있고
+	포함/ncpa+되/xsvn+어/ecx+있/px+고/ecc
+
+
+내용
+	내용/ncn
+
+덕분에
+	덕분/ncn+에/jca
+
+1막보다는
+	1/nnc+막/nbu+보다/jca+는/jxc
+
+좀더
+	좀더/mag
+
+진지하고
+	지/px+ㄴ/etm+지/nbn+하고/jct
+
+무거운
+	무겁/paa+은/etm
+
+내용이
+	내용/ncn+이/jcc
+
+주를
+	주/nbu+를/jco
+
+이룬다
+	이루/pvg+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+내가보기엔
+	내/pvg+어/ecx+가/px+아/ecx+보/px+기/etn+엔/jca
+
+왠지
+	왠지/mag
+
+교회에서
+	교회/ncn+에서/jca
+
+하는
+	하/pvg+는/etm
+
+크리스마스나
+	크리스마스/ncn+나/jcj
+
+부활정
+	부활/ncpa+정/ncn
+
+공연
+	공연/ncpa
+
+같은
+	같/paa+은/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+..
+	./sf+./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+개인적으로2막은
+	개인적으로2막/ncn+은/jxc
+
+좀.
+	졸/pvg+ㅁ/etn+./sy
+
+.
+	./sf
+
+
+어려웠다~
+	어렵/paa+었/ep+다/ef+~/sd
+
+
+(나를
+	(/sl+나/npp+를/jco
+
+포함한
+	포함/ncpa+하/xsva+ㄴ/etm
+
+..)
+	./sf+./sf+)/sr
+
+
+관련
+	관련/ncn
+
+종교
+	종교/ncn
+
+아닌
+	아니/paa+ㄴ/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+좀
+	좀/mag
+
+그럴
+	그렇/pad+을/etm
+
+수
+	수/nbn
+
+있지만크리스챤들은
+	있지만크리스챤들/ncn+은/jxc
+
+감동적이고
+	감동/ncpa+적/ncn+이/jp+고/ecc
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+내용일듯
+	내용/ncn+이/jp+ㄹ/etm+듯/nbs
+
+..
+	./sf+./sf
+
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+장소
+	장소/ncn
+
+:
+	:/sp
+
+제일화재
+	제일/ncn+화재/ncn
+
+세실극장일시
+	세실극장/ncn+일시/ncn
+
+:
+	:/sp
+
+2009년
+	2009/nnc+년/nbu
+
+11월
+	11/nnc+월/nbu
+
+6일~2010년
+	6/nnc+일/nbu+~/sd+2010/nnc+년/nbu
+
+1월
+	1/nnc+월/nbu
+
+31일
+	31/nnc+일/nbu
+
+공연시간정보
+	공연시간/ncn+정보/ncn
+
+:
+	:/sp
+
+화,목
+	화/ncn+,/sp+목/ncn
+
+8시
+	8/nnc+시/nbu
+
+/수,금
+	//sp+수/nbn+,/sp+금/ncn
+
+4시8시
+	4시8시/ncn
+
+/
+	//sp
+
+토
+	트/pvg+어/ecx
+
+3시7시
+	3시7시/ncn
+
+/
+	//sp
+
+일
+	일/nnc
+
+3시
+	3/nnc+시/nbu
+
+*
+	*/sy
+
+11월13일,20일
+	11월13일,20/ncn+이/jp+ㄹ/etm
+
+8시
+	8/nnc+시/nbu
+
+공연
+	공연/ncpa
+
+마감
+	마감/ncpa
+
+주최:
+	주최/ncpa+:/sp
+
+아삽
+	아삽/ncn
+
+프러덕션문의:
+	프러덕션/ncn+문/ncn+의/jcm+:/sp
+
+02-2183-9000
+	02/nnc+-2183/nnc+-9000/nnc
+
+
+사진출처
+	사진/ncn+출처/ncn
+
+:
+	:/sp
+
+뮤지컬인사이드
+	뮤지컬/ncn+인사이드/ncn
+
+제공
+	제공/ncpa

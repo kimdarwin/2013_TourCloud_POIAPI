@@ -1,0 +1,1293 @@
+창경궁
+	창경궁/ncn
+
+
+서울특별시>
+	서울특별시>/ncn
+
+종로구
+	종로구/ncn
+
+
+기간
+	기간/ncn
+
+2008.
+	2008./nnc
+
+7.
+	7./nnc
+
+27~
+	27/nnc+~/sd
+
+2008.
+	2008./nnc
+
+7.
+	7./nnc
+
+27(1일)
+	27/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+가족나들이
+	가족나들이/ncn
+
+
+창경궁
+	창경궁/ncn
+
+
+사적
+	사적/ncn
+
+제123호
+	제123호/ncn
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+궁궐에서
+	궁궐/ncn+에서/jca
+
+장조(
+	장조(/ncn
+
+)
+	)/sr
+
+정조(
+	정조(/ncn
+
+)
+	)/sr
+
+순조(
+	순조(/ncn
+
+)
+	)/sr
+
+헌종(
+	헌종(/ncn
+
+)
+	)/sr
+
+등
+	등/nbu
+
+여러
+	여러/mma
+
+왕들이
+	왕들/ncn+이/jcc
+
+태어났다
+	태어나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+조선시대
+	조선시대/ncn
+
+5대
+	5/nnc+대/nbu
+
+궁궐
+	궁궐/ncn
+
+가운데
+	가운데/ncn
+
+다른
+	다른/mma
+
+궁궐은
+	궁궐/ncn+은/jxc
+
+모두
+	모두/mag
+
+남향하고
+	남향/ncpa+하고/jct
+
+있으나
+	있/px+으나/ecs
+
+이
+	이/mmd
+
+궁궐만은
+	궁궐/ncn+만은/jxc
+
+풍수지리설에
+	풍수지리/ncn+설/ncn+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+동향하여
+	동향/ncpa+하/xsva+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+본래
+	본래/ncn
+
+태종이
+	태종/ncn+이/jcc
+
+아들
+	아들/ncn
+
+세종에게
+	세/nnc+종/nbu+에게/jca
+
+임금자리를
+	임금자리/ncn+를/jco
+
+물려주면서
+	물리/pvg+어/ecx+주/px+면서/ecc
+
+자신이
+	자신/npp+이/jcs
+
+거처할
+	거처/ncpa+하/xsva+ㄹ/etm
+
+궁궐로
+	궁궐/ncn+로/jca
+
+지은
+	지/px+ㄴ/etm
+
+수강궁(
+	수강궁(/ncn
+
+)에서
+	)/sr+에서/jca
+
+시작되었다
+	시작/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+그후
+	그후/mag
+
+1484년(성종
+	1484년(성종/ncn
+
+15)
+	15/nnc+)/sr
+
+이
+	이/mmd
+
+수강궁
+	수강/ncpa+궁/ncn
+
+자리에
+	자리/ncn+에/jca
+
+새로이
+	새로이/mag
+
+별궁인
+	별궁/ncn+이/jp+ㄴ/etm
+
+창경궁을
+	창경궁/ncn+을/jco
+
+건립했다
+	건립/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+임진왜란
+	임진/ncn+왜란/ncn
+
+때
+	때/ncn
+
+화재로
+	화재/ncn+로/jca
+
+소실된
+	소실/ncpa+되/xsvn+ㄴ/etm
+
+것을
+	것/nbn+을/jco
+
+1616년(광해군
+	1616년(광해군/ncn
+
+8)
+	8/nnc+)/sr
+
+다시
+	다시/mag
+
+세웠다
+	세우/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이때
+	이때/ncn
+
+동향으로
+	동향/ncn+으로/jca
+
+세워졌던
+	세우/pvg+어/ecx+지/px+었/ep+던/etm
+
+명정전(
+	명정/ncpa+전/xsnx+(/sl
+
+)을
+	)/sr+을/jco
+
+남향으로
+	남향/ncpa+으로/jca
+
+고쳐야
+	고치/pvg+어야/ecs
+
+한다는
+	하/px+ㄴ다/ef+는/etm
+
+김일손의
+	김일손/ncn+의/jcm
+
+상소가
+	상소/ncpa+가/jcc
+
+있었으나
+	있/px+었/ep+으나/ecs
+
+도감(
+	도감(/ncn
+
+)에서는
+	)/sr+에서/jca+는/jxc
+
+만약
+	만약/mag
+
+남향으로
+	남향/ncpa+으로/jca
+
+할
+	하/pvg+ㄹ/etm
+
+경우에는
+	경우/ncn+에/jca+는/jxc
+
+경복궁
+	경복궁/ncn
+
+창덕궁
+	창덕궁/ncn
+
+창경궁
+	창경궁/ncn
+
+종묘의
+	종묘/ncn+의/jcm
+
+내청룡으로
+	내청룡/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+맥이
+	맥/ncn+이/jcc
+
+함춘원(
+	함춘원(/ncn
+
+)의
+	)/sr+의/jcm
+
+남쪽
+	남쪽/ncn
+
+지맥을
+	지맥/ncn+을/jco
+
+끊게
+	끊/pvg+게/ecs
+
+된다면서
+	된다/ncn+이/jp+면서/ecc
+
+그대로
+	그대로/mag
+
+둘
+	두/pvg+ㄹ/etm
+
+것을
+	것/nbn+을/jco
+
+주장했다고
+	주장/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+1624년(인조
+	1624년(인조/ncn
+
+2)
+	2/nnc+)/sr
+
+이괄의
+	이괄/ncn+의/jcm
+
+난으로
+	난/ncn+으로/jca
+
+소실된
+	소실/ncpa+되/xsvn+ㄴ/etm
+
+많은
+	많/paa+은/etm
+
+전각들이
+	전각/ncn+들/ncn+이/jcc
+
+1633년에
+	1633/nnc+년/nbu+에/jca
+
+중건되었다
+	중건/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+1656년(효종
+	1656년(효종/ncn
+
+7)에
+	7/nnc+)/sr+에/jca
+
+요화당(
+	요화당(/ncn
+
+)
+	)/sr
+
+난향각(
+	난향각(/ncn
+
+)
+	)/sr
+
+취요헌(
+	취요헌(/ncn
+
+)
+	)/sr
+
+계월각(
+	계월각(/ncn
+
+)
+	)/sr
+
+등
+	등/nbu
+
+4개의
+	4/nnc+개/nbu+의/jcm
+
+전각을
+	전각/ncn+을/jco
+
+지어
+	지/px+어/ecx
+
+효종의
+	효종/ncn+의/jcm
+
+네
+	네/npp
+
+공주들을
+	공주/ncr+들/ncn+을/jco
+
+머물게
+	머물/pvg+게/ecs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+1909년에는
+	1909/nnc+년/nbu+에/jca+는/jxc
+
+일제가
+	일제/ncn+가/jcs
+
+강제로
+	강제/ncpa+로/jca
+
+궁
+	궁/ncn
+
+안에
+	안/ncn+에/jca
+
+동물원과
+	동물원/ncn+과/jcj
+
+식물원을
+	식물원/ncn+을/jco
+
+만든
+	만들/pvg+ㄴ/etm
+
+다음
+	다음/ncn
+
+일반인들에게
+	일반/ncn+이/jp+ㄴ/etm+들/nbn+에게/jca
+
+관람시켰으며,
+	관람/ncpa+시키/xsva+었/ep+으며/ecc+,/sp
+
+1911년에는
+	1911/nnc+년/nbu+에/jca+는/jxc
+
+박물관을
+	박물관/ncn+을/jco
+
+짓고
+	짓/pvg+고/ecc
+
+이름을
+	이름/ncn+을/jco
+
+창경원(
+	창경원(/ncn
+
+)으로
+	)/sr+으로/jca
+
+격을
+	격/nbn+을/jco
+
+낮추어
+	낮추/pvg+어/ecx
+
+불렀다
+	부르/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+1984년
+	1984/nnc+년/nbu
+
+일제에
+	일제/ncn+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+철거되었던
+	철거/ncpa+되/xsvn+었/ep+던/etm
+
+문정전(
+	문정전(/ncn
+
+)과
+	)/sr+과/jcj
+
+월랑(
+	월랑(/ncn
+
+)
+	)/sr
+
+등을
+	등/nbu+을/jco
+
+복원하고
+	복원/ncpa+하고/jct
+
+정비하면서
+	정비/ncpa+하/xsva+면서/ecc
+
+다시
+	다시/mag
+
+이름을
+	이름/ncn+을/jco
+
+창경궁이라고
+	창경궁/ncn+이/jp+라/ef+고/jcr
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+러시아자연사박물관에
+	러시/ncn+아자/ncn+연사/ncr+박물관/ncn+에/jca
+
+갔다가
+	가/px+아/ep+다가/ecs
+
+나들이겸
+	나들이겸/ncn
+
+들린
+	들리/pvg+ㄴ/etm
+
+창경궁
+	창경궁/ncn
+
+.
+	./sf
+
+
+숲속에
+	숲속/ncn+에/jca
+
+들어온
+	들/pvg+어/ecx+오/px+ㄴ/etm
+
+듯
+	듯/nbn
+
+나무사잇길이
+	나무/ncn+사잇길/ncn+이/jcc
+
+참
+	참/mag
+
+시원하고
+	시원/ncps+하고/jct
+
+상쾌하다
+	상쾌/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+박물관쪽으로
+	박물관/ncn+쪽/ncn+으로/jca
+
+들어오면
+	들/pvg+어/ecx+오/px+면/ecs
+
+또다른
+	또다른/mma
+
+느낌의
+	느낌/ncn+의/jcm
+
+길이
+	길/ncn+이/jcc
+
+펼쳐진다
+	펼치/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+박물관쪽
+	박물관/ncn+쪽/ncn
+
+입구(과학의
+	입구(과학/ncn+의/jcm
+
+문이라고
+	문/ncn+이/jp+라/ef+고/jcr
+
+칭하나보다)는
+	칭하/pvg+어/ecx+나/px+아/ecx+보/px+다/ef+)/sr+는/jxc
+
+5시까지만
+	5/nnc+시/nbu+까지/jxc+만/jxc
+
+개방을
+	개방/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+정문쪽으로
+	정문/ncn+쪽/ncn+으로/jca
+
+나갈
+	나/pvg+아/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+있다고
+	있/px+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+시간에
+	시간/nbu+에/jca
+
+다시
+	다시/mag
+
+이쪽으로
+	이쪽/ncn+으로/jca
+
+돌아오려고
+	돌/pvg+아/ecx+오/px+려고/ecs
+
+힘차게
+	힘차/paa+게/ecs
+
+걸었다
+	걷/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+걸어들가는
+	걸어들가/ncn+는/jxc
+
+길이
+	길/ncn+이/jcc
+
+다
+	다/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+시원하고
+	시원/ncps+하고/jct
+
+맑다
+	맑/paa+다/ef
+
+.
+	./sf
+
+
+오붓하게
+	오붓/ncps+하/xsms+게/ecs
+
+좋은이와
+	좋은이/ncn+와/jct
+
+걸어가면
+	걷/pvg+어/ecx+가/px+면/ecs
+
+더
+	더/mag
+
+좋겠지
+	좋/paa+겠/ep+지/ecs
+
+...
+	.../se
+
+
+이곳
+	이곳/npd
+
+호수에서
+	호수/ncn+에서/jca
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+주변에
+	주변/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+무념무상으로
+	무념무상/ncn+으로/jca
+
+호수를
+	호수/ncn+를/jco
+
+바라보고
+	바라/pvg+아/ecx+보/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+보고있는
+	보/pvg+고/ecx+있/px+는/etm
+
+것만으로
+	것/nbn+만으로/jca
+
+맘이
+	말/px+ㅁ/etn+이/jcs
+
+편해지는
+	편하/paa+어/ecx+지/px+는/etm
+
+느낌이다
+	느낌/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+빛과
+	빛/ncn+과/jcj
+
+그늘의
+	그늘/ncn+의/jcm
+
+조화가
+	조화/ncn+가/jcs
+
+좋아
+	좋/paa+아/ecx
+
+한컷
+	한/nnc+컷/nbu
+
+
+이제
+	이제/mag
+
+궁의
+	궁/ncn+의/jcm
+
+건물들이
+	건물/ncn+들/ncn+이/jcc
+
+보이기
+	보이/pvg+기/etn
+
+시작한다
+	시작/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+궁들은
+	궁/ncn+들/xsncc+은/jxc
+
+다
+	다/mag
+
+비슷비슷한
+	비슷비슷하/paa+ㄴ/etm
+
+듯하여
+	듯하/paa+어/ecx
+
+한곳만
+	한곳/ncn+만/jxc
+
+유심히
+	유심히/mag
+
+보면
+	보/px+면/ecs
+
+다
+	다/mag
+
+똑같지
+	똑같/paa+지/ecx
+
+않나하는
+	않나하/ncn+는/jxc
+
+
+얕은
+	얕/paa+은/etm
+
+생각을
+	생각/ncpa+을/jco
+
+해본다
+	하/pvg+어/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+다
+	다/mag
+
+그
+	그/mmd
+
+고유의색깔이
+	고유의색깔/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+것을
+	것/nbn+을/jco
+
+....
+	.../se+./sf
+
+
+담장과
+	담장/ncn+과/jcj
+
+초록의
+	초록/ncn+의/jcm
+
+잔디
+	잔디/ncn
+
+그리고
+	그리고/maj
+
+옛
+	옛/mma
+
+건물이
+	건물/ncn+이/jcc
+
+참
+	참/mag
+
+잘
+	잘/mag
+
+어울린다
+	어울리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+명정전으로
+	명정/ncn+전/ncn+으로/jca
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+입구
+	입구/ncn
+
+.
+	./sf
+
+
+입구로
+	입구/ncn+로/jca
+
+보이는
+	보이/pvg+는/etm
+
+하늘과
+	하늘/ncn+과/jcj
+
+기와지붕이
+	기와지붕/ncn+이/jcc
+
+멋스럽다
+	멋/ncn+스럽/xsmn+다/ef
+
+.
+	./sf
+
+
+명정전과
+	명정/ncn+전/ncn+과/jcj
+
+주변의
+	주변/ncn+의/jcm
+
+풍경들
+	풍경/ncn+들/ncn
+
+.
+	./sf
+
+
+나무로
+	나무/ncn+로/jca
+
+잘
+	잘/mag
+
+깎아
+	깎/pvg+아/ecx
+
+이어놓은
+	잇/pvg+어/ecx+놓/px+은/etm
+
+창도
+	창/ncn+도/jxc
+
+아름답고
+	아름답/paa+고/ecc
+
+멋스럽다
+	멋/ncn+스럽/xsmn+다/ef
+
+.
+	./sf
+
+
+통행하는
+	통행/ncpa+하/xsva+는/etm
+
+곳곳에
+	곳곳/ncn+에/jca
+
+있던
+	있/px+던/etm
+
+탑과
+	탑/ncn+과/jcj
+
+풍기대,
+	풍기/ncn+대/ncn+,/sp
+
+해시계
+	해시계/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+입구의
+	입구/ncn+의/jcm
+
+과학의
+	과학/ncn+의/jcm
+
+문
+	물/pvg+ㄴ/etm
+
+안내판이
+	안내판/ncn+이/jcc
+
+우리를
+	우리/npp+를/jco
+
+맞는다
+	맞/pvg+는다/ef
+
+.
+	./sf
+
+
+창경궁
+	창경궁/ncn
+
+입장료:
+	입장료/ncn+:/sp
+
+대인
+	대/nbu+이/jp+ㄴ/etm
+
+1,000원/공동관람권은
+	1,000/nnc+원/nbu+//sp+공동/ncn+관람/ncpa+권/ncn+은/jxc
+
+대인
+	대/nbu+이/jp+ㄴ/etm
+
+1,500원
+	1,500/nnc+원/nbu
+
+
+옛모습의
+	옛모습/ncn+의/jcm
+
+궁의
+	궁/ncn+의/jcm
+
+기와지붕과
+	기와지붕/ncn+과/jcj
+
+현대의
+	현대/ncn+의/jcm
+
+빌딩이
+	빌딩/ncn+이/jcc
+
+이렇게
+	이렇/pad+게/ecs
+
+한곳에
+	한곳/ncn+에/jca
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+어울리지
+	어울리/pvg+지/ecx
+
+않는듯
+	않/px+는/etm+듯/nbs
+
+잘
+	잘/mag
+
+어울리는
+	어울리/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+새로운
+	새롭/paa+은/etm
+
+것이라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+다
+	다/mag
+
+좋은것은
+	좋/paa+은/etm+것/nbn+은/jxc
+
+아님을,
+	아니/paa+ㅁ/etn+을/jco+,/sp
+
+그리고
+	그리고/maj
+
+오래되었다고
+	오래/paa+어/ecx+되/px+었/ep+다/ef+고/jcr
+
+다
+	다/mag
+
+쓸모없는
+	쓸모/ncn+없/xsmn+는/etm
+
+것이
+	것/nbn+이/jcc
+
+아님을
+	아니/paa+ㅁ/etn+을/jco
+
+보여준다
+	보이/pvg+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+우리의
+	우리/npp+의/jcm
+
+문화유산,
+	문화/ncn+유산/ncn+,/sp
+
+잘
+	잘/mag
+
+가꾸고
+	가꾸/pvg+고/ecc
+
+보전하는
+	보전/ncpa+하/xsva+는/etm
+
+것이
+	것/nbn+이/jcc
+
+지금을
+	지금/ncn+을/jco
+
+살아가는
+	살/pvg+아/ecx+가/px+는/etm
+
+우리의
+	우리/npp+의/jcm
+
+큰
+	크/paa+ㄴ/etm
+
+몫이
+	몫/ncn+이/jcc
+
+아닐까
+	아니/paa+ㄹ까/ef
+
+.
+	./sf
+
+
+현대적이고
+	현대/ncn+적/ncn+이/jp+고/ecc
+
+편하고
+	편하/paa+어/ef+고/jcr
+
+좋은
+	좋/paa+은/etm
+
+것만이
+	것/nbn+만이/jcc
+
+행복하거나
+	행복/ncps+하/xsms+거나/ecc
+
+가치있는
+	가치/ncn+있/xsmn+는/etm
+
+것은
+	것/nbn+은/jxc
+
+아님을,
+	아니/paa+ㅁ/etn+을/jco+,/sp
+
+창경궁
+	창경궁/ncn
+
+나들이로
+	나들이/ncpa+로/jca
+
+느끼게
+	느끼/pvg+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+아이들
+	아이/ncn+들/ncn
+
+손잡고
+	손잡/pvg+고/ecc
+
+가족나들이나
+	가족나들이/ncn+나/jcj
+
+연인들의
+	연인/ncn+들/ncn+의/jcm
+
+데이트코스로도
+	데이트/ncpa+코스/ncn+로/jca+도/jxc
+
+좋은
+	좋/paa+은/etm
+
+곳이
+	곳/ncn+이/jcc
+
+되리라
+	되/pvg+리라/ef
+
+생각이
+	생각/ncpa+이/jcc
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+무거운
+	무겁/paa+은/etm
+
+발걸음으로
+	발걸음/ncn+으로/jca
+
+왔다할지라도
+	왔다할지라/ncn+도/jxc
+
+몸과
+	몸/ncn+과/jcj
+
+마음이
+	마음/ncn+이/jcc
+
+가벼워지는
+	가볍/paa+어/ecx+지/px+는/etm
+
+나들이가
+	나들이/ncpa+가/jcc
+
+되지
+	되/pvg+지/ecx
+
+않을까
+	않/px+을까/ef
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf

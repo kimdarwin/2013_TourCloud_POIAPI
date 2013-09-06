@@ -1,0 +1,567 @@
+충남
+	충남/ncn
+
+홍성군
+	홍성군/ncn
+
+금마면
+	금마/ncn+이/jp+면/ecs
+
+죽림리
+	죽림리/ncn
+
+117가구가
+	117/nnc+가구/nbu+가/jcc
+
+먹는
+	먹/pvg+는/etm
+
+상수도
+	상수/ncn+도/jxc
+
+탱크에
+	탱크/ncn+에/jca
+
+농약을
+	농약/ncn+을/jco
+
+탄
+	타/pvg+ㄴ/etm
+
+사건이
+	사건/ncn+이/jcc
+
+발생했다
+	발생/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+충남도와
+	충남도/ncn+와/jcj
+
+경찰에
+	경찰/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+20일
+	20/nnc+일/nbu
+
+오전
+	오전/ncn
+
+10시30분쯤
+	10시30분쯤/ncn
+
+이
+	이/mmd
+
+마을
+	마을/ncn
+
+뒷산
+	뒷산/ncn
+
+상수도
+	상수/ncn+도/jxc
+
+집수장에
+	집수장/ncn+에/jca
+
+제초제와
+	제초제/ncn+와/jcj
+
+살충제가
+	살충제/ncn+가/jcs
+
+뿌려진
+	뿌리/pvg+어/ecx+지/px+ㄴ/etm
+
+것을
+	것/nbn+을/jco
+
+위탁관리업체인
+	위탁관리/ncpa+업체/ncn+이/jp+ㄴ/etm
+
+이엔이텍
+	이엔이텍/ncn
+
+소속
+	소속/ncn
+
+직원
+	직원/ncn
+
+최모(30)씨가
+	최모(30)씨/ncn+가/jcs
+
+발견해
+	발견/ncpa+하/xsva+어/ecx
+
+경찰에
+	경찰/ncn+에/jca
+
+신고했다
+	신/pvg+고/ecx+하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+최씨는
+	최씨/ncn+는/jxc
+
+물탱크
+	물탱크/ncn
+
+청소를
+	청소/ncpa+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+오전
+	오전/ncn
+
+9시에
+	9/nnc+시/nbu+에/jca
+
+단수하고
+	달/paa+ㄴ/etm+수/nbn+하고/jct
+
+오전
+	오전/ncn
+
+10시30분쯤
+	10시30분쯤/ncn
+
+물탱크에
+	물탱크/ncn+에/jca
+
+가
+	가/jcs
+
+보니
+	보/px+니/ecs
+
+물탱크
+	물탱크/ncn
+
+내부에
+	내부/ncn+에/jca
+
+근사미(극독성
+	근사미(극독성/ncn
+
+제초제)
+	제초제/ncn+)/sr
+
+300
+	300/nnc
+
+들이
+	들/nbn+이/jcc
+
+3병과
+	3/nnc+병/nbu+과/jcj
+
+분말살충제
+	분말/ncn+살충제/ncn
+
+파단(2
+	파단(2/ncn
+
+)
+	)/sr
+
+3봉이
+	3/nnc+봉/nbu+이/jcc
+
+열려
+	열리/pvg+어/ecx
+
+있고
+	있/px+고/ecc
+
+절반
+	절반/ncn
+
+정도가
+	정도/ncn+가/jcs
+
+물에
+	물/ncn+에/jca
+
+녹아
+	녹/pvg+아/ecx
+
+있었다는
+	있/px+었/ep+다/ef+는/etm
+
+것.
+	것/nbn+./sf
+
+이
+	이/mmd
+
+마을
+	마을/ncn
+
+물탱크는
+	물탱크/ncn+는/jxc
+
+1979년에
+	1979/nnc+년/nbu+에/jca
+
+설치
+	설치/ncpa
+
+됐으며
+	되/pvg+었/ep+으며/ecc
+
+30t의
+	30t/ncn+의/jcm
+
+지하수를
+	지하수/ncn+를/jco
+
+담을
+	담/ncn+을/jco
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+홍성경찰서는
+	홍성경찰서/ncn+는/jxc
+
+오전
+	오전/ncn
+
+11시쯤
+	11/nnc+시/nbu+쯤/xsnx
+
+감식반이
+	감식/ncpa+반/ncn+이/jcc
+
+현장에서
+	현장/ncn+에서/jca
+
+감식과
+	감식/ncpa+과/jcj
+
+시료를
+	시료/ncpa+를/jco
+
+채취해
+	채취/ncpa+하/xsva+어/ecx
+
+국립과학수사연구소
+	국립과학수사연구소/ncn
+
+및
+	및/maj
+
+보건환경연구원에
+	보건환경/ncn+연구원/ncr+에/jca
+
+분석을
+	분석/ncpa+을/jco
+
+의뢰했다
+	의뢰/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이날
+	이/nnc+날/nbu
+
+저녁까지
+	저녁/ncn+까지/jxc
+
+주민
+	주민/ncn
+
+가운데
+	가운데/ncn
+
+복통이나
+	복통/ncpa+이나/jcj
+
+설사
+	설사/mag
+
+등의
+	등/nbu+의/jcm
+
+부작용을
+	부작용/ncn+을/jco
+
+보인
+	보이/pvg+ㄴ/etm
+
+이는
+	이/npd+는/jxc
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+홍성군은
+	홍성군/ncn+은/jxc
+
+보령댐에
+	보령/ncn+댐/ncn+에/jca
+
+식수용
+	식수/ncn+용/ncn
+
+병물
+	병물/ncn
+
+2
+	2/nnc
+
+들이
+	들/nbn+이/jcc
+
+1350개(가구당
+	1350개(가구당/ncn
+
+2일분)의
+	2/nnc+일/nnc+분/nbu+)/sr+의/jcm
+
+긴급
+	긴급/ncps
+
+지원을
+	지원/ncpa+을/jco
+
+요청했고
+	요청/ncpa+하/xsva+었/ep+고/ecc
+
+이날
+	이/nnc+날/nbu
+
+오후
+	오후/ncn
+
+가구당
+	가구/ncn+당/ncn
+
+9병씩
+	9/nnc+병/nbu+씩/xsnu
+
+나눠줬다
+	나누/pvg+어/ecx+주/px+었/ep+다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+생활용
+	생활/ncpa+용/ncn
+
+허드렛물은
+	허드렛물/ncn+은/jxc
+
+홍성군
+	홍성군/ncn
+
+소방차
+	소방차/ncn
+
+2대(3톤)가
+	2/nnc+대/xsnu+(/sl+3/nnc+톤/nbu+)/sr+가/jcc
+
+마을에
+	마을/ncn+에/jca
+
+상주키로
+	상주/ncn+키/ncn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+홍성군은
+	홍성군/ncn+은/jxc
+
+이날
+	이/nnc+날/nbu
+
+군
+	굴/pvg+ㄴ/etm
+
+관내
+	관내/ncn
+
+간이상수도
+	간이/ncn+상수/ncn+도/jxc
+
+물탱크
+	물탱크/ncn
+
+관리실태
+	관리실/ncn+태/ncn
+
+점검에
+	점검/ncpa+에/jca
+
+나섰고
+	나서/pvg+었/ep+고/ecc
+
+특이사항은
+	특이/ncn+사항/ncn+은/jxc
+
+나오지
+	나오/pvg+지/ecx
+
+않았다
+	않/px+아/ep+다/ef
+
+.
+	./sf
+
+
+21일
+	21/nnc+일/nbu
+
+오전
+	오전/ncn
+
+8시에는
+	8/nnc+시/nbu+에/jca+는/jxc
+
+홍성의료원에서
+	홍성의료원/ncn+에서/jca
+
+주민
+	주민/ncn
+
+117가구
+	117/nnc+가구/nbu
+
+230명을
+	230/nnc+명/nbu+을/jco
+
+대상으로
+	대상/ncn+으로/jca
+
+건강검진을
+	건강/ncps+검진/ncpa+을/jco
+
+하기로
+	하/pvg+기/etn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+홍성군은
+	홍성군/ncn+은/jxc
+
+현재까지
+	현재/ncn+까지/jxc
+
+피해지역
+	피해지역/ncn
+
+주민
+	주민/ncn
+
+건강
+	건강/ncps
+
+상태
+	상태/ncn
+
+점검으로
+	점검/ncpa+으로/jca
+
+이상
+	이상/ncn
+
+상황이
+	상황/ncn+이/jcc
+
+발생하는
+	발생/ncpa+하/xsva+는/etm
+
+경우
+	경우/ncn
+
+홍성의료원
+	홍성의료원/ncn
+
+응급실에
+	응급실/ncn+에/jca
+
+이송
+	이송/ncpa
+
+조치를
+	조/nnc+치/nbu+를/jco
+
+하고
+	하/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+가운데
+	가운데/ncn
+
+3명이
+	3/nnc+명/nbu+이/jcc
+
+검진을
+	검진/ncpa+을/jco
+
+받았으나
+	받/pvg+아/ep+나/ecs
+
+이상이
+	이상/ncn+이/jcc
+
+없어
+	없/paa+어/ecx
+
+집으로
+	집/ncn+으로/jca
+
+돌아갔다
+	돌/pvg+아/ecx+가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+출처:아시아경제
+	출처:아시아경제/ncn

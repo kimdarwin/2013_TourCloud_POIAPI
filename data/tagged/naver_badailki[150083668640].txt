@@ -1,0 +1,503 @@
+하남시
+	하남시/ncn
+
+자전거도로
+	자전거/ncn+도/ncn+로/jca
+
+지도
+	지도/ncn
+
+
+서울시와
+	서울시/ncn+와/jcj
+
+하남시를
+	하남시/ncn+를/jco
+
+연결하는
+	연결/ncpa+하/xsva+는/etm
+
+자전거
+	자전거/ncn
+
+전용도로가
+	전용도로/ncn+가/jcs
+
+이달
+	이/nnc+달/nbu
+
+말
+	말/ncn
+
+개통된다
+	개통/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+경기도는
+	경기/ncn+도/jxc+는/jxc
+
+서울시
+	서울시/ncn
+
+강동구
+	강동구/ncn
+
+암사동과
+	암사동/ncn+과/jcj
+
+하남시
+	하남시/ncn
+
+창우동
+	창우동/ncn
+
+팔당대교를
+	팔당대교/ncn+를/jco
+
+연결하는
+	연결/ncpa+하/xsva+는/etm
+
+13.5
+	13.5/nnc
+
+길이의
+	길이/ncn+의/jcm
+
+한강변
+	한강변/ncn
+
+자전거
+	자전거/ncn
+
+전용
+	전용/ncpa
+
+도로가
+	도로/ncn+가/jcs
+
+오는
+	오/px+는/etm
+
+31일
+	31/nnc+일/nbu
+
+개통될
+	개통/ncpa+되/xsvn+ㄹ/etm
+
+예정이라고
+	예정/ncn+이/jp+라/ef+고/jcr
+
+25일
+	25/nnc+일/nbu
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+개통된
+	개통/ncpa+되/xsvn+ㄴ/etm
+
+자전거도로는
+	자전거/ncn+도/ncn+로/jca+는/jxc
+
+그동안
+	그동안/ncn
+
+단절됐던
+	단절/ncpa+되/xsvn+었/ep+던/etm
+
+서울
+	서울/ncn
+
+잠실,
+	잠실/ncn+,/sp
+
+천호동
+	천호동/ncn
+
+광나루
+	광나루/ncn
+
+유원지에서
+	유원지/ncn+에서/jca
+
+하남시
+	하남시/ncn
+
+팔당대교까지를
+	팔당대교/ncn+까지를/jco
+
+연결한
+	연결/ncpa+하/xsva+ㄴ/etm
+
+것으로,
+	것/nbn+으로/jca+,/sp
+
+한강을
+	한강/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+펼쳐지는
+	펼치/pvg+어/ecx+지/px+는/etm
+
+주변
+	주변/ncn
+
+경관이
+	경관/ncn+이/jcc
+
+아름답고
+	아름답/paa+고/ecc
+
+경사가
+	경사/ncr+가/jcc
+
+없어
+	없/paa+어/ecx
+
+주말
+	주말/ncn
+
+자전거
+	자전거/ncn
+
+동호인들이나,
+	동호인/ncn+들/ncn+이나/jcj+,/sp
+
+평일
+	평/nbu+이/jp+ㄹ/etm
+
+자전거
+	자전거/ncn
+
+출퇴근족
+	출퇴근/ncpa+족/ncn
+
+들에게
+	들/ncn+에게/jca
+
+인기를
+	인기/ncn+를/jco
+
+끌
+	끌/pvg+ㄹ/etm
+
+것으로
+	것/nbn+으로/jca
+
+기대된다
+	기대/pvg+어/ecx+되/px+ㄴ다/ef
+
+.
+	./sf
+
+
+한강변을
+	한강변/ncn+을/jco
+
+달리는
+	달리/pvg+는/etm
+
+자전거
+	자전거/ncn
+
+전용도로
+	전용도로/ncn
+
+모습
+	모습/ncn
+
+
+경기도는
+	경기/ncn+도/jxc+는/jxc
+
+이번
+	이/nnc+번/nbu
+
+자전거
+	자전거/ncn
+
+도로
+	도/ncn+로/jca
+
+개통으로
+	개통/ncpa+으로/jca
+
+팔당대교부터
+	팔당대교/ncn+부터/jxc
+
+행주대교까지
+	행주대교/ncn+까지/jxc
+
+총연장
+	총연장/ncn
+
+49.33
+	49.33/nnc
+
+길이의
+	길이/ncn+의/jcm
+
+자전거
+	자전거/ncn
+
+도로가
+	도로/ncn+가/jcs
+
+연결되는
+	연결/ncpa+되/xsvn+는/etm
+
+효과도
+	효과/ncn+도/jxc
+
+있다고
+	있/px+다/ef+고/jcr
+
+설명했다
+	설명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+2007년부터
+	2007/nnc+년/nbu+부터/jxc
+
+공사를
+	공사/ncn+를/jco
+
+시작,
+	시작/ncpa+,/sp
+
+총
+	총/mma
+
+70억원의
+	70/nnc+억/nnc+원/nbu+의/jcm
+
+예산이
+	예산/ncpa+이/jcc
+
+투입된
+	투입/ncpa+되/xsvn+ㄴ/etm
+
+이번
+	이/nnc+번/nbu
+
+자전거
+	자전거/ncn
+
+도로는
+	도/ncn+로/jca+는/jxc
+
+자전거
+	자전거/ncn
+
+교통사고
+	교통사고/ncn
+
+예방을
+	예방/ncpa+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+산책로와
+	산책로/ncn+와/jct
+
+분리시켰으며,
+	분리/ncpa+시키/xsva+었/ep+으며/ecc+,/sp
+
+자전거
+	자전거/ncn
+
+표지판,
+	표지판/ncn+,/sp
+
+펜스
+	펜스/ncn
+
+등
+	등/nbu
+
+안전시설과
+	안전시설/ncn+과/jcj
+
+야간
+	야간/ncn
+
+이용자들을
+	이용자/ncn+들/ncn+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+가로등을
+	가로등/ncn+을/jco
+
+설치했다
+	설치/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+경기도는
+	경기/ncn+도/jxc+는/jxc
+
+자전거
+	자전거/ncn
+
+이용활성화를
+	이용/ncpa+활성화/ncn+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+금년
+	금년/ncn
+
+말까지
+	말/ncn+까지/jxc
+
+안산시
+	안산시/ncn
+
+시화공단~성곡동간
+	시화공단~성곡동간/ncn
+
+5.6
+	5.6/nnc
+
+,
+	,/sp
+
+김포시
+	김포시/ncn
+
+한강신도시~운양삼거리간
+	한강신도시~운양삼거리간/ncn
+
+9.0
+	9.0/nnc
+
+,
+	,/sp
+
+평택시
+	평택시/ncn
+
+송북동
+	송북동/ncn
+
+오좌삼거리~서정동
+	오좌삼거리~서정동/ncn
+
+복창육교간
+	복창/ncn+육교/ncn+간/ncn
+
+2.0
+	2.0/nnc
+
+,
+	,/sp
+
+동두천시
+	동두천시/ncn
+
+보산역~하봉암교간
+	보산역~하봉암교간/ncn
+
+6.5
+	6.5/nnc
+
+,
+	,/sp
+
+연천군
+	연천군/ncn
+
+신서면
+	신서/ncn+이/jp+면/ecs
+
+도신리~연천대교
+	도신리~연천대교/ncn
+
+단절구간
+	단절/ncpa+구간/ncn
+
+4.0
+	4.0/nnc
+
+,
+	,/sp
+
+총
+	총/mma
+
+5개
+	5/nnc+개/nbu
+
+노선
+	노선/ncn
+
+27.1
+	27.1/nnc
+
+자전거
+	자전거/ncn
+
+전용도로를
+	전용도로/ncn+를/jco
+
+추가로
+	추가/ncpa+로/jca
+
+구축할
+	구축/ncpa+하/xsva+ㄹ/etm
+
+계획이다
+	계획/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+[데일리안
+	[/sl+데/nbn+이/jp+ㄹ/etm+리/nbn+안/xsnx
+
+경기=박익희
+	경기=박익희/ncn
+
+기자]
+	기/ncn+이/jp+자/ecc+]/sr
+
+풍광이
+	풍광/ncn+이/jcc
+
+좋은
+	좋/paa+은/etm
+
+자전거도로
+	자전거/ncn+도로/ncn
+
+
+출처:
+	출처/ncn+:/sp
+
+그린투데이
+	그린/ncn+투데이/ncn

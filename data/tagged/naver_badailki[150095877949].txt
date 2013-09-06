@@ -1,0 +1,680 @@
+낙동강사업
+	낙동강사업/ncn
+
+6공구,
+	6공/ncn+구/ncn+,/sp
+
+오염된
+	오염/ncpa+되/xsvn+ㄴ/etm
+
+탁도
+	탁/mag+도/jxc
+
+방류는
+	방류/ncpa+는/jxc
+
+사실과
+	사실/ncn+과/jcj
+
+다름
+	다르/paa+ㅁ/etn
+
+국토해양부본류
+	국토해양부본류/ncn
+
+유입수
+	유입/ncpa+수/ncn
+
+측정결과
+	측정결과/ncn
+
+허용기준
+	허용기준/ncn
+
+이내
+	이내/mma
+
+(16.
+	(/sl+16./nnc
+
+7NTU)
+	7NTU/ncn+)/sr
+
+
+준설토의
+	준설/ncn+토/ncn+의/jcm
+
+썩은
+	썩/pvg+은/etm
+
+물이
+	물/ncn+이/jcc
+
+여과없이
+	여과/ncpa+없이/jca
+
+강으로
+	강/ncn+으로/jca
+
+흘러들어가
+	흘러들/pvg+어/ecx+가/px+아/ecs
+
+
+방류기준을
+	방류기준/ncpa+을/jco
+
+초과하였다는데
+	초과/ncpa+하/xsva+었/ep+다는데/ecs
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+(경남도
+	(/sl+경남도/ncn
+
+대행사업
+	대행/ncn+사업/ncn
+
+구간)
+	구간/ncn+)/sr
+
+낙동강
+	낙동강/ncn
+
+6공구
+	6공/ncn+구/ncn
+
+침사지
+	침사지/ncn
+
+방류수가
+	방류수/ncn+가/jcs
+
+본류와
+	본류/ncn+와/jct
+
+합류한
+	합류/ncpa+하/xsva+ㄴ/etm
+
+후
+	후/ncn
+
+수질은
+	수질/ncn+은/jxc
+
+
+16.
+	16./nnc
+
+7NTU로
+	7NTU/ncn+로/jca
+
+측정되었으며,
+	측정/ncpa+되/xsvn+었/ep+으며/ecc+,/sp
+
+금번,
+	금번/ncn+,/sp
+
+보도된
+	보도/ncpa+되/xsvn+ㄴ/etm
+
+측정치(18일
+	측정치(18/ncn+이/jp+ㄹ/etm
+
+측정
+	측정/ncpa
+
+390NTU,
+	390NTU/ncn+,/sp
+
+
+19일
+	19/nnc+일/nbu
+
+측정
+	측정/ncpa
+
+165NTU)는
+	165NTU)/ncn+는/jxc
+
+침사지
+	침사지/ncn
+
+출구의
+	출구/ncn+의/jcm
+
+탁도
+	탁/mag+도/jxc
+
+농도(중간처리과정)로
+	농도/ncn+(/sl+중간/ncn+처리과정/ncn+)/sr+로/jca
+
+
+썩은
+	썩/mag+은/jxc
+
+물을
+	물/ncn+을/jco
+
+본류로
+	본류/ncn+로/jca
+
+방류한다는
+	방류/ncpa+하/xsva+ㄴ다/ef+는/etm
+
+것은
+	것/nbn+은/jxc
+
+사실과
+	사실/ncn+과/jcj
+
+다름
+	다르/paa+ㅁ/etn
+
+*
+	*/sy
+
+수중준설토는
+	수중/ncn+준설/ncn+토/ncn+는/jxc
+
+
+투기장
+	투기장/ncn
+
+침사지
+	침사지/ncn
+
+침사용
+	침사용/ncn
+
+배수로(1km이상)
+	배수로(1km이상)/ncn
+
+오탁방지막을
+	오탁방지막/ncn+을/jco
+
+거쳐
+	거치/pvg+어/ecs
+
+
+본류로
+	본류/ncn+로/jca
+
+방류하는
+	방류/ncpa+하/xsva+는/etm
+
+등
+	등/nbu
+
+철저하게
+	철저/ncps+하/xsms+게/ecs
+
+관리하고
+	관리/ncn+하고/jct
+
+있음
+	있/px+음/etn
+
+폐목재,
+	폐목재,/ncn
+
+폐비닐
+	폐비닐/ncn
+
+및
+	및/maj
+
+폐
+	폐/ncn
+
+콘크리트
+	콘크리트/ncn
+
+무단
+	무단/ncn
+
+방치하였다는데
+	방치/ncpa+하/xsva+었/ep+다/ef+는/etm+데/nbn
+
+대해(경남도
+	대해(경남/ncn+도/jxc
+
+대행사업
+	대행/ncn+사업/ncn
+
+구간)
+	구간/ncn+)/sr
+
+금번
+	금번/ncn
+
+보도된
+	보도/ncpa+되/xsvn+ㄴ/etm
+
+폐비닐,
+	폐비닐,/ncn
+
+폐
+	폐/ncn
+
+콘크리트는
+	콘크리트/ncn+는/jxc
+
+4대강
+	4대강/ncn
+
+사업의
+	사업/ncn+의/jcm
+
+지장물
+	지장/ncn+물/ncn
+
+철거
+	철거/ncpa
+
+잔해와
+	잔해/ncn+와/jcj
+
+
+도로공사에서
+	도로/ncn+공사/ncn+에서/jca
+
+발생(
+	발생(/ncn
+
+시행)된
+	시행)된/ncn
+
+폐
+	폐/ncn
+
+콘크리트는처리를
+	콘크리트는처리/ncn+를/jco
+
+위하여
+	위하여/ncn
+
+
+일정장소에
+	일정/ncn+장소/ncn+에/jca
+
+보관중인
+	보관/ncn+중/ncn+이/jp+ㄴ/etm
+
+상황이
+	상황/ncn+이/jcc
+
+촬영된
+	촬영/ncpa+되/xsvn+ㄴ/etm
+
+것이며,
+	것/nbn+이/jp+며/ecc+,/sp
+
+-
+	-/sd
+
+앞으로
+	앞/ncn+으로/jca
+
+관련법령에
+	관련법령/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+적법하게
+	적법하/ncn+이/jp+게/ecs
+
+처리할
+	처리/ncpa+하/xsva+ㄹ/etm
+
+계획임
+	계획/ncpa+이/jp+ㅁ/etn
+
+*
+	*/sy
+
+과거
+	과거/ncn
+
+무단
+	무단/ncn
+
+방치되어
+	방치/ncpa+되/xsvn+어/ecx
+
+있던
+	있/px+던/etm
+
+하천내
+	하천/ncn+내/ncn
+
+폐기물(설계시
+	폐기물(설계시/ncn
+
+추정량
+	추정량/ncn
+
+220만톤,
+	220/nnc+만/nnc+톤/nbu+,/sp
+
+덤프트럭
+	덤프트럭/ncn
+
+15만대분)을
+	15/nnc+만/nnc+대/xsnu+분/nbu+)/sr+을/jco
+
+
+4대강사업의
+	4대강/ncn+사업/ncn+의/jcm
+
+일환으로
+	일환/ncn+으로/jca
+
+지속적으로
+	지속/ncpa+적/ncn+으로/jca
+
+하천
+	하천/ncn
+
+밖으로
+	밖/ncn+으로/jca
+
+반출처리
+	반출/ncpa+처리/ncpa
+
+중
+	중/nbn
+
+덩어리가
+	덩어리/ncn+가/jcs
+
+큰
+	크/paa+ㄴ/etm
+
+폐
+	폐/ncn
+
+콘크리트를
+	콘크리트/ncn+를/jco
+
+준설토
+	준설/ncn+토/ncn
+
+운반로에
+	운반로/ncn+에/jca
+
+쓰고
+	쓰/pvg+고/ecc
+
+있다는
+	있/px+다/ef+는/etm
+
+것에
+	것/nbn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+(부산청
+	(/sl+부산/ncps+청/ncn
+
+시행구간)
+	시행/ncpa+구간/ncn+)/sr
+
+폐
+	폐/ncn
+
+콘크리트는
+	콘크리트/ncn+는/jxc
+
+고수부지에
+	고수부지/ncn+에/jca
+
+설치된
+	설치/ncpa+되/xsvn+ㄴ/etm
+
+농로를
+	농로/ncn+를/jco
+
+철거하여
+	철거/ncpa+하/xsva+어/ecx
+
+하천
+	하천/ncn
+
+내
+	내/npp
+
+운반로에
+	운반로/ncn+에/jca
+
+재활용하는
+	재활용하/ncn+는/jxc
+
+것이며,
+	것/nbn+이며/jcj+,/sp
+
+
+재활용
+	재활용/ncn
+
+전에
+	전/nbn+에/jca
+
+양산시
+	양산/ncn+시/ncn
+
+및
+	및/maj
+
+한국화학시험연구원의
+	한국화학시험연구원/ncn+의/jcm
+
+적법한
+	적법/ncn+한/ncn
+
+절차를
+	절차/ncn+를/jco
+
+거쳤음
+	거치/pvg+었/ep+음/etn
+
+-
+	-/sd
+
+아울러,
+	아우르/pvg+어/ecs+,/sp
+
+일부
+	일/nnc+부/nbu
+
+덩어리가
+	덩어리/ncn+가/jcs
+
+큰
+	크/paa+ㄴ/etm
+
+폐
+	폐/ncn
+
+콘리트(100mm이상)는
+	콘리트(100mm이상)/ncn+는/jxc
+
+적정
+	적정/ncps
+
+규격으로
+	규격/ncn+으로/jca
+
+재
+	재/pvg+어/ecx
+
+처리하여
+	처리/ncpa+하/xsva+어/ecx
+
+활용할
+	활용/ncpa+하/xsva+ㄹ/etm
+
+계획
+	계획/ncpa
+
+*
+	*/sy
+
+폐
+	폐/ncn
+
+콘크리트
+	콘크리트/ncn
+
+재활용은
+	재활용/ncn+은/jxc
+
+09년
+	09/nnc+년/nbu
+
+12월경
+	12/nnc+월/nbu+경/xsnu
+
+한국화학시험연구원에
+	한국화학시험/ncn+연구원/ncr+에/jca
+
+
+콘크리트
+	콘크리트/ncn
+
+재활용
+	재활용/ncn
+
+가능여부
+	가능여부/ncn
+
+의뢰결과
+	의뢰/ncpa+결과/ncn
+
+적합한
+	적합/ncn+한/ncn
+
+것으로
+	것/nbn+으로/jca
+
+판정
+	판정/ncpa
+
+보도내용(MBC
+	보도/ncpa+내/ncn+용/xsncc+(/sl+MBC/f
+
+9시뉴스
+	9시뉴스/ncn
+
+10.
+	10./nnc
+
+10.
+	10./nnc
+
+20
+	20/nnc
+
+.)
+	./sf+)/sr
+
+
+준설토의
+	준설/ncn+토/ncn+의/jcm
+
+침출수가
+	침출/ncpa+수/ncn+가/jcs
+
+강으로
+	강/ncn+으로/jca
+
+그대로
+	그대로/mag
+
+흘러감
+	흐르/pvg+어/ecx+가/px+ㅁ/etn
+
+.
+	./sf
+
+
+폐
+	폐/ncn
+
+콘크리트가
+	콘크리트/ncn+가/jcs
+
+쌓여
+	쌓이/pvg+어/ecx
+
+있고
+	있/px+고/ecc
+
+폐목재와
+	폐목재/ncn+와/jcj
+
+폐비닐
+	폐비닐/ncn
+
+쓰레기도
+	쓰레기/ncn+도/jxc
+
+넘쳐
+	넘치/pvg+어/ecx
+
+남.
+	나/pvg+ㅁ/etn+./sy
+
+폐
+	폐/ncn
+
+콘리트를
+	콘리트/ncn+를/jco
+
+준설토
+	준설/ncn+토/ncn
+
+운반로에
+	운반로/ncn+에/jca
+
+사용하고
+	사용/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+바로가기
+	바로가/ncn+이/jp+기/etn
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+4rivers.
+	4rivers./ncn
+
+go.
+	go/f+./sy
+
+kr/news/kor/board/news_view_02
+	kr/news/kor/board/news_view_02/ncn
+
+.
+	./sf
+
+
+jsp
+	jsp/f
+
+?
+	?/sf
+
+
+board=d_p_100_board38id=312type=contdirA=m03dirB=o02dirC=p04
+	board=d_p_100_board38id=312type=contdirA=m03dirB=o02dirC=p04/ncn

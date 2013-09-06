@@ -1,0 +1,126 @@
+장성호
+	장성/ncn+호/ncn
+
+유원지
+	유원지/ncn
+
+전망대에서
+	전망대/ncn+에서/jca
+
+본
+	보/px+ㄴ/etm
+
+장성입니다
+	장성/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+장성호전망좋은곳
+	장성호전망좋은곳/ncn
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+북하면
+	북하/ncn+이/jp+면/ecs
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011347300",
+	"bl011347300",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"장성호전망좋은곳",
+	title:"장성호전망좋은곳",/ncn
+
+pointX:295757,pointY:313857}
+	pointX/f+:/sp+295757/nnc+,/sp+pointY/f+:/sp+313857/nnc+}/sr
+
+
+::
+	:/sp+:/sp
+
+The
+	The/f
+
+Travelgrapher,
+	Travelgrapher/f+,/sp
+
+홍유진의
+	홍유진/ncn+의/jcm
+
+여행블로그
+	여행블로그/ncn
+
+
+여행,
+	여행/ncpa+,/sp
+
+국내여행,
+	국내여행/ncn+,/sp
+
+해외여행,
+	해외여행/ncpa+,/sp
+
+배낭여행,
+	배낭여행/ncpa+,/sp
+
+캠핑,
+	캠핑/ncn+,/sp
+
+초보캠핑
+	초보/ncn+캠핑/ncn
+
+
+맛집,
+	맛집,/ncn
+
+카페,
+	카페/ncn+,/sp
+
+브런치,
+	브런치,/ncn
+
+커피,
+	커피/ncn+,/sp
+
+홍차
+	홍차/ncn
+
+
+여러분의
+	여러/nnc+분/nbu+의/jcm
+
+덧글,
+	덧글,/ncn
+
+공감에
+	공감/ncpa+에/jca
+
+힘이
+	힘/ncn+이/jcc
+
+나는
+	나/npp+는/jxc
+
+여행별이랍니다^^
+	여행별이랍니다^^/ncn
+
+!
+	!/sf

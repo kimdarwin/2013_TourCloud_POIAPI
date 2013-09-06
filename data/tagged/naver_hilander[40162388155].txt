@@ -1,0 +1,1371 @@
+영화
+	영화/ncn
+
+어메이징
+	어메이징/ncn
+
+스파이더맨먼저
+	스파이더맨먼저/ncn
+
+나는
+	나/npp+는/jxc
+
+만화
+	만화/ncn
+
+스파이더맨의
+	스파이더맨/ncn+의/jcm
+
+팬이긴
+	팬이긴/ncn
+
+하지만샘레이미가
+	하지만샘레이미/ncn+가/jcs
+
+감독,
+	감독/ncpa+,/sp
+
+토비
+	토비/ncn
+
+맥과이어
+	맥과/ncn+이/jp+어/ecs
+
+주연의
+	주연/ncpa+의/jcm
+
+스파이더맨
+	스파이더맨/ncn
+
+시리즈는
+	시리즈/ncn+는/jxc
+
+그다지
+	그다지/mag
+
+좋아하지
+	좋/paa+아/ecx+하/px+지/ecx
+
+않았었다는걸
+	않았었다는걸/ncn
+
+밝혀둔다
+	밝히/pvg+어/ecx+두/px+ㄴ다/ef
+
+.
+	./sf
+
+
+스파이더맨
+	스파이더맨/ncn
+
+1은
+	1/nnc+은/jxc
+
+그냥
+	그냥/mag
+
+팬심으로
+	팬심/ncn+으로/jca
+
+보긴
+	보긴/ncn
+
+했지만
+	하/px+었/ep+지만/ecs
+
+토비
+	토비/ncn
+
+맥과이어의
+	맥과이어/ncn+의/jcm
+
+외모가
+	외모/ncn+가/jcs
+
+너무
+	너무/mag
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+안들었고커스틴
+	안들었고커스틴/ncn
+
+던스트도
+	던스트/ncn+도/jxc
+
+솔직히
+	솔직히/mag
+
+아니
+	알/pvg+니/ecs
+
+히어로의
+	히어로/ncn+의/jcm
+
+여주인공이
+	여주인공/ncn+이/jcc
+
+왜이리
+	왜이리/ncn
+
+못생겼어
+	못생기/paa+었/ep+어/ef
+
+?
+	?/sf
+
+
+라는
+	라/ncn+는/jxc
+
+생각도
+	생각/ncpa+도/jxc
+
+들었고정말
+	들었고정말/ncn
+
+둘이
+	둘/nnc+이/jcc
+
+동창만
+	동창/ncn+만/jxc
+
+아니면
+	아니/paa+면/ecs
+
+구할
+	구하/pvg+ㄹ/etm
+
+마음이
+	마음/ncn+이/jcc
+
+생기나
+	생기/pvg+나/ecs
+
+이런류의
+	이런류/ncn+의/jcm
+
+생각까지;;;게다가
+	생각까지;;;게다/ncn+가/jcs
+
+내용도
+	내용/ncn+도/jxc
+
+그냥
+	그냥/mag
+
+만화를
+	만화/ncn+를/jco
+
+영화로
+	영화/ncn+로/jca
+
+옮겨놓은
+	옮기/pvg+어/ecx+놓/px+은/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+것
+	것/nbn
+
+같았기
+	같/paa+아/ep+기/etn
+
+때문이었다
+	때문/nbn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+어차피
+	어차피/mag
+
+만화니까
+	만화/ncn+이/jp+니까/ecs
+
+내용이
+	내용/ncn+이/jcc
+
+뻔해도
+	뻔하/paa+어도/ecs
+
+그냥
+	그냥/mag
+
+봐.
+	보/px+아/ef+./sf
+
+.
+	./sf
+
+
+뭐
+	뭐/npd
+
+이런
+	이런/mmd
+
+느낌
+	느끼/pvg+ㅁ/etn
+
+?
+	?/sf
+
+
+스파이더맨
+	스파이더맨/ncn
+
+2는
+	2/nnc+는/jxc
+
+후반에
+	후반/ncn+에/jca
+
+졸았고
+	졸/pvg+아/ep+고/ecc
+
+스파이더맨
+	스파이더맨/ncn
+
+3는
+	3/nnc+는/jxc
+
+아예
+	아예/mag
+
+중간에
+	중간/ncn+에/jca
+
+꺼
+	끄/pvg+어/ecx
+
+버렸다
+	버리/px+었/ep+다/ef
+
+.
+	./sf
+
+
+하지만
+	하지만/maj
+
+영화
+	영화/ncn
+
+어메이징
+	어메이징/ncn
+
+스파이더맨은
+	스파이더맨/ncn+은/jxc
+
+볼만했다
+	보/px+ㄹ/etm+만/nbs+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+개인적으로
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+전작들보다
+	전작/ncn+들/ncn+보다/jca
+
+훨씬
+	훨씬/mag
+
+재미있게
+	재미있/pvg+게/ecs
+
+봤다
+	보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+기존의
+	기존/ncpa+의/jcm
+
+스파이더맨과
+	스파이더맨/ncn+과/jct
+
+비슷한
+	비슷/ncps+하/xsms+ㄴ/etm
+
+뼈대를
+	뼈대/ncn+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+그
+	그/mmd
+
+근육과
+	근육/ncn+과/jcj
+
+살은
+	살/nbu+은/jxc
+
+전혀
+	전혀/mag
+
+달랐다
+	다르/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+액션만
+	액션/ncn+만/jxc
+
+기대한다면
+	기대/pvg+어/ecx+하/px+ㄴ다면/ecs
+
+실망하겠지만
+	실망/ncpa+하/xsva+겠/ep+지만/ecs
+
+드라마와
+	드라마/ncn+와/jcj
+
+로맨스가
+	로맨스/ncn+가/jcs
+
+탄탄해지면서
+	탄탄/ncps+하/xsms+어/ecx+지/px+면서/ecc
+
+후반에는
+	후반/ncn+에/jca+는/jxc
+
+뭉클한
+	뭉클하/paa+ㄴ/etm
+
+부분들까지
+	부분/ncn+들/ncn+까지/jxc
+
+있더라
+	있/px+더/ep+라/ef
+
+.
+	./sf
+
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+미드를
+	미드/ncn+를/jco
+
+보는
+	보/px+는/etm
+
+느낌인데
+	느낌/ncn+이/jp+ㄴ데/ecs
+
+남자
+	남자/ncn
+
+주인공
+	주인공/ncn
+
+직업이
+	직업/ncn+이/jcc
+
+단지
+	단지/mag
+
+스파이더맨인
+	스파이더맨/ncn+이/jp+ㄴ/etm
+
+느낌
+	느끼/pvg+ㅁ/etn
+
+?
+	?/sf
+
+
+비꼬는
+	비꼬/pvg+는/etm
+
+말이
+	말/ncn+이/jcc
+
+아니고
+	아니/paa+고/ecc
+
+그만큼
+	그/npp+만큼/jxc
+
+드라마가좋았다는
+	드라마가좋았다/ncn+는/jxc
+
+이야기
+	이야기/ncpa
+
+^^아마
+	^/sy+^/sy+아마/ncn
+
+전작들에
+	전작/ncn+들/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+여성
+	여성/ncn
+
+관객들도
+	관객/ncn+들/ncn+도/jxc
+
+좋아할만한
+	좋/paa+아/ecx+하/px+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+스타일일
+	스타일/ncn+이/jp+ㄹ/etm
+
+듯피터
+	듯피터/ncn
+
+파커와
+	파커/ncn+와/jcj
+
+그웬
+	그웬/ncn
+
+스테이시의
+	스테이시/ncn+의/jcm
+
+러브라인이
+	러브/ncn+라인/ncn+이/jcc
+
+전작들에
+	전작/ncn+들/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+꽤
+	꽤/mag
+
+설득력
+	설득력/ncn
+
+있고
+	있/px+고/ecc
+
+디테일하게
+	디테일하/ncn+이/jp+게/ecs
+
+나오기도
+	나오/pvg+기/etn+도/jxc
+
+하고피터파커와
+	하고피터파커/ncn+와/jcj
+
+삼촌과의
+	삼촌/ncn+과의/jcm
+
+관계나
+	관계/ncn+나/jcj
+
+히어로가
+	히어로/ncn+가/jcs
+
+되는
+	되/pvg+는/etm
+
+과정들도
+	과정/ncn+들/ncn+도/jxc
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+개연성이
+	개연성/ncn+이/jcc
+
+부여되어
+	부/ncn+이/jp+어/ecx+되/px+어/ecx
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+아마
+	아마/mag
+
+500일의
+	500/nnc+일/nbu+의/jcm
+
+썸머를
+	썸머/ncn+를/jco
+
+만든
+	만들/pvg+ㄴ/etm
+
+마크
+	마크/ncpa
+
+웹이
+	웹/ncn+이/jcc
+
+감독이어서
+	감독/ncpa+이/jp+어서/ecs
+
+그런걸수도
+	그러/pvd+ㄴ/etm+것/nbn+이/jp+ㄹ/etm+수/nbn+도/jxc
+
+있겠다
+	있/px+겠/ep+다/ef
+
+.
+	./sf
+
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+액션이
+	액션/ncn+이/jcc
+
+사라지고
+	사라지/pvg+고/ecc
+
+드라마만
+	드라마/ncn+만/jxc
+
+강조된
+	강조/ncpa+되/xsvn+ㄴ/etm
+
+이상한
+	이상/ncn+한/ncn
+
+히어로물은
+	히어로물/ncn+은/jxc
+
+아니다
+	아니/paa+다/ef+./sf
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+그냥
+	그냥/mag
+
+2D로
+	2D/ncn+로/jca
+
+봐서
+	보/pvg+아/ecx
+
+액션이
+	액션/ncn+이/jcc
+
+대단하다는
+	대단/ncps+하/xsms+다/ef+는/etm
+
+생각은
+	생각/ncpa+은/jxc
+
+안들긴
+	안들긴/ncn
+
+했었는데사실
+	했었는데사/ncn+이/jp+시/ep+ㄹ/etm
+
+그건
+	그것/npd+은/jxc
+
+스파이더맨의
+	스파이더맨/ncn+의/jcm
+
+액션의
+	액션/ncn+의/jcm
+
+한계
+	한계/ncn
+
+인
+	일/pvg+ㄴ/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+줄
+	주/px+ㄹ/etm
+
+하나에
+	하나/nnc+에/jca
+
+의지해서
+	의/ncn+이/jp+지/ecx+하/px+어서/ecs
+
+싸워야
+	싸우/pvg+어야/ecs
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+스케일을
+	스케일/ncn+을/jco
+
+논하기도
+	논하/pvg+기/etn+도/jxc
+
+힘들고
+	힘들/pvg+고/ecc
+
+액션도
+	액션/ncn+도/jxc
+
+뭐
+	뭐/npd
+
+새로울게
+	새로울게/ncn
+
+있겠나;;;최근
+	있겠나;;;최근/ncn
+
+점점
+	점점/mag
+
+스케일이
+	스케일/ncn+이/jcc
+
+커지는
+	크/paa+어/ecx+지/px+는/etm
+
+히어로물들에
+	히어로물들/ncn+에/jca
+
+비해서는
+	비하/pvg+어서/ecs+는/jxc
+
+스파이더맨은
+	스파이더맨/ncn+은/jxc
+
+비교적
+	비교/ncpa+적/ncn
+
+소박한
+	소박/ncn+한/ncn
+
+액션
+	액션/ncn
+
+..
+	./sf+./sf
+
+
+물론
+	물론/mag
+
+3D
+	3D/ncn
+
+아이맥스로
+	아이맥스/ncn+로/jca
+
+봤다면
+	보/px+아/ep+다면/ecs
+
+훨씬
+	훨씬/mag
+
+좋았을법한
+	좋/paa+아/ep+ㄹ/etm+법/nbs+하/xsms+ㄴ/etm
+
+장면들도
+	장면/ncn+들/ncn+도/jxc
+
+많았다
+	많/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+스파이더맨
+	스파이더맨/ncn
+
+시점에서
+	시점/ncn+에서/jca
+
+액션을
+	액션/ncn+을/jco
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+어쩌고
+	어쩌/paa+어/ef+고/jcr
+
+하는
+	하/pvg+는/etm
+
+말들도
+	말/px+ㄹ/etm+들/nbn+도/jxc
+
+있었지만사실
+	있었지만사/ncn+이/jp+시/ep+ㄹ/etm
+
+영화
+	영화/ncn
+
+내에서는
+	내/npp+에서/jca+는/jxc
+
+그런
+	그러/pvd+ㄴ/etm
+
+신이
+	신/ncn+이/jcc
+
+몇개
+	몇/nnc+개/nbu
+
+되지
+	되/pvg+지/ecx
+
+않는다
+	않/px+는다/ef
+
+.
+	./sf
+
+
+스파이더맨의
+	스파이더맨/ncn+의/jcm
+
+탄생과정을
+	탄생과정/ncn+을/jco
+
+그린
+	그리/pvg+ㄴ/etm
+
+영화라서
+	영화/ncn+이/jp+라서/ecs
+
+그렇겠지만초반부엔
+	그렇겠지만초반부엔/ncn
+
+얘
+	얘/ncn
+
+언제
+	언제/npd
+
+스파이더맨
+	스파이더맨/ncn
+
+옷
+	옷/ncn
+
+입는거야
+	입/pvg+는거야/ef
+
+..
+	./sf+./sf
+
+
+라는
+	라/ncn+는/jxc
+
+생각에
+	생각/ncpa+에/jca
+
+좀
+	좀/mag
+
+지루하고
+	지루/ncn+하고/jct
+
+답답하더라물론
+	답답하더라물론/ncn
+
+부족한
+	부족/ncn+한/ncn
+
+부분은
+	부분/ncn+은/jxc
+
+드라마로
+	드라마/ncn+로/jca
+
+채워줬지만이번
+	채워줬지만이번/ncn
+
+어메이징
+	어메이징/ncn
+
+스파이더맨의
+	스파이더맨/ncn+의/jcm
+
+주인공인
+	주인공/ncn+이/jp+ㄴ/etm
+
+앤드류
+	앤드/ncn+류/xsncc
+
+가필드와
+	가필/ncpa+드/ncn+와/jcj
+
+엠마
+	엠마/ncn
+
+스톤주인공
+	스톤/ncn+주인공/ncn
+
+얼굴이
+	얼굴/ncn+이/jcc
+
+대폭
+	대폭/mag
+
+업그레이드
+	업그레이드/ncn
+
+되었다
+	되/pvg+었/ep+다/ef
+
+얼핏
+	얼핏/mag
+
+데이빗
+	데이/ncn+빗/ncn
+
+카퍼필드의
+	카퍼필드/ncn+의/jcm
+
+젊은시절을
+	젊은시절/ncn+을/jco
+
+떠올리게
+	뜨/pvg+어/ecx+오/px+ㄹ/etm+리/nbn+이/jp+게/ecs
+
+하는
+	하/pvg+는/etm
+
+외모인데소셜
+	외모인데소셜/ncn
+
+네트워크에
+	네트워크/ncn+에/jca
+
+나왔던
+	나/pvg+아/ecx+오/px+아/ep+ㄴ/etm
+
+앤드류
+	앤드/ncn+류/xsncc
+
+가필드
+	가필/ncpa+드/ncn
+
+.
+	./sf
+
+
+엠마
+	엠마/ncn
+
+스톤은
+	스톤/ncn+은/jxc
+
+처음
+	처음/mag
+
+봤는데
+	보/px+아/ep+ㄴ데/ecs
+
+잘
+	잘/mag
+
+어울리더라
+	어울리/pvg+더/ep+라/ef
+
+..
+	./sf+./sf
+
+
+이
+	이/mmd
+
+정도는
+	정도/ncn+는/jxc
+
+돼야
+	되/pvg+어야/ecs
+
+목숨
+	목숨/ncn
+
+걸고
+	걸/pvg+고/ecc
+
+구할
+	구하/pvg+ㄹ/etm
+
+맛이
+	맛/ncn+이/jcc
+
+나지;;;
+	나지;;;/ncn
+
+읭(
+	읭(/ncn
+
+)알고
+	)/sr+알/nbu+고/jcj
+
+보면
+	보/px+면/ecs
+
+더
+	더/mag
+
+재미있는
+	재미있/pvg+는/etm
+
+한가지
+	한/nnc+가지/nbu
+
+.
+	./sf
+
+
+영화
+	영화/ncn
+
+내에서
+	내/npp+에서/jca
+
+도서관
+	도서관/ncn
+
+결투신이
+	결투/ncpa+신/ncn+이/jcc
+
+나오는데이때
+	나오는데이때/ncn
+
+도서관
+	도서관/ncn
+
+사서로
+	사서/ncpa+로/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+할아버지는
+	할아버지/ncn+는/jxc
+
+그냥
+	그냥/mag
+
+엑스트라가
+	엑스트라/ncn+가/jcs
+
+아니라스파이더맨,
+	아니라스파이더맨,/ncn
+
+헐크,
+	헐크,/ncn
+
+엑스맨,
+	엑스맨,/ncn
+
+어벤저
+	어벤저/ncn
+
+등등
+	등등/nbn
+
+수퍼
+	수퍼/ncn
+
+히어로를
+	히어로/ncn+를/jco
+
+창조한
+	창조/ncpa+하/xsva+ㄴ/etm
+
+전설적인
+	전설/ncn+적/ncn+이/jp+ㄴ/etm
+
+인물인
+	인물/ncn+이/jp+ㄴ/etm
+
+스탠
+	스탠/ncn
+
+리(Stan
+	리(Stan/ncn
+
+Lee)스파이더맨의
+	Lee)스파이더맨/ncn+의/jcm
+
+전작들에도
+	전작/ncn+들/ncn+에/jca+도/jxc
+
+한번씩
+	한번씩/ncn
+
+얼굴을
+	얼굴/ncn+을/jco
+
+비추기도
+	비추/pvg+기/etn+도/jxc
+
+했고
+	하/px+었/ep+고/ecc
+
+어벤져스,
+	어벤져스,/ncn
+
+아이언맨,
+	아이언맨,/ncn
+
+토르,
+	토르,/ncn
+
+판타스틱4
+	판타스틱4/ncn
+
+등등의
+	등등/nbn+의/jcm
+
+영화에서도
+	영화/ncn+에서/jca+도/jxc
+
+꼭
+	꼭/mag
+
+한번씩
+	한번씩/ncn
+
+단역으로
+	단역/ncn+으로/jca
+
+출연한다
+	출연/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+스탠
+	스탠/ncn
+
+리는
+	리/nbu+는/jxc
+
+현재
+	현재/mag
+
+마블
+	마블/ncn
+
+코믹스의
+	코믹스/ncn+의/jcm
+
+명예
+	명예/ncn
+
+회장
+	회장/ncr
+
+.
+	./sf
+
+
+영화에서
+	영화/ncn+에서/jca
+
+하나
+	하나/nnc
+
+흠을
+	흠/ncn+을/jco
+
+잡으라면
+	잡/pvg+으라면/ecs
+
+스파이더맨의
+	스파이더맨/ncn+의/jcm
+
+거미줄이
+	거미줄/ncn+이/jcc
+
+나오게
+	나/pvg+아/ecx+오/px+게/ecs
+
+하는
+	하/pvg+는/etm
+
+장치
+	장치/ncpa
+
+..
+	./sf+./sf
+
+
+나는
+	나/npp+는/jxc
+
+피터
+	피터/ncn
+
+파커
+	파커/ncn
+
+몸에서
+	몸/ncn+에서/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+설정이
+	설정/ncpa+이/jcc
+
+더
+	더/mag
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+들어서;;이거
+	들어서;;이거/ncn
+
+다
+	다/mag
+
+떨어지면
+	떨어지/pvg+면/ecs
+
+불안하잖아
+	불안/ncps+하/xsms+잖아/ef
+
+영화
+	영화/ncn
+
+끝나고
+	끝나/pvg+고/ecc
+
+바로
+	바로/mag
+
+나가지
+	나가/pvg+지/ecx
+
+마시길
+	마시길/ncn
+
+..
+	./sf+./sf
+
+
+크레딧
+	크레딧/ncn
+
+롤
+	롤/ncn
+
+끝나고
+	끝나/pvg+고/ecc
+
+쿠키영상이
+	쿠키/ncn+영상/ncn+이/jcc
+
+나옴
+	나오/pvg+ㅁ/etn
+
+(별건
+	(/sl+별건/ncn
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+^^)영화
+	^/sy+^/sy+)/sr+영화/ncn
+
+어메이징
+	어메이징/ncn
+
+스파이더맨화려한
+	스파이더맨화려한/ncn
+
+액션만
+	액션/ncn+만/jxc
+
+기대한다면
+	기대/pvg+어/ecx+하/px+ㄴ다면/ecs
+
+조금
+	조금/mag
+
+평범
+	평범/ncn
+
+할지도
+	하/pvg+ㄹ지/ecs+도/jxc
+
+모르겠지만기대를
+	모르겠지만기대/ncn+를/jco
+
+낮추고
+	낮추/pvg+고/ecc
+
+본다면
+	보/px+ㄴ다면/ecs
+
+의외의
+	의외/ncn+의/jcm
+
+드라마성에
+	드라마/ncn+성/ncn+에/jca
+
+좋아할만한
+	좋/paa+아/ecx+하/px+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+영화개인적으로
+	영화/ncn+개인/ncn+적/ncn+으로/jca
+
+나는
+	나/npp+는/jxc
+
+전작
+	전작/ncn
+
+스파이더맨
+	스파이더맨/ncn
+
+1,2,3
+	1/nnc+,/sp+2/nnc+,/sp+3/nnc
+
+보다
+	보다/mag
+
+훨씬
+	훨씬/mag
+
+좋았다
+	좋/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+후반부의
+	후반부/ncn+의/jcm
+
+크레인
+	크레인/ncn
+
+씬이나
+	씬/ncn+이나/jcj
+
+숙모에게
+	숙모/ncn+에게/jca
+
+주는
+	주/px+는/etm
+
+선물이
+	선물/ncn+이/jcc
+
+등장하는
+	등장/ncpa+하/xsva+는/etm
+
+씬,그리고
+	씬,그리/ncn+이/jp+고/ecc
+
+그웬의
+	그웬/ncn+의/jcm
+
+아버지랑
+	아버지/ncn+랑/jxc
+
+피터파커가
+	피터파커/ncn+가/jcs
+
+둘이
+	둘/nnc+이/jcc
+
+있던
+	있/px+던/etm
+
+장면에서뭉클했던
+	장면에서뭉클했던/ncn
+
+사람은
+	사람/ncn+은/jxc
+
+나뿐인가
+	나/npp+뿐/jxc+인가/jxc
+
+..?
+	./sf+./sf+?/sf
+
+
+^^;;;아,
+	^^;;;아,/ncn
+
+그리고
+	그리고/maj
+
+지난번에
+	지난번/ncn+에/jca
+
+이야기했듯
+	이야기/ncpa+하/xsva+었/ep+듯/ecs
+
+옐로페이를
+	옐로/ncn+페이/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+할인받아
+	할인/ncpa+받/xsva+아/ecx
+
+결국1천원에
+	결국1천원/ncn+에/jca
+
+본셈이라는(조조)
+	본셈이라는(조조)/ncn
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/hilander/40162061657
+	com/f+//sp+hilander/f+//sp+40162061657/nnc

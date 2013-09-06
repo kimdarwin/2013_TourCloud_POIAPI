@@ -1,0 +1,4310 @@
+경주
+	경주/ncpa
+
+오르골소리박물관
+	오르골소리박물관/ncn
+
+-경주IC휴게소
+	-경주IC휴게소/ncn
+
+내
+	내/npp
+
+오르골
+	오르골/ncn
+
+테마박물관
+	테마/ncn+박물관/ncn
+
+/경주볼거리
+	//sp+경주/ncpa+볼거리/ncn
+
+
+경주IC휴게소
+	경주IC휴게소/ncn
+
+내에
+	내/npp+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+경주
+	경주/ncpa
+
+오르골소리박물관은
+	오르골소리박물관/ncn+은/jxc
+
+국내
+	국내/ncn
+
+최초로
+	최초/ncn+로/jca
+
+오르골을
+	오르골/ncn+을/jco
+
+테마로
+	테마/ncn+로/jca
+
+한
+	하/pvg+ㄴ/etm
+
+박물관으로
+	박물관/ncn+으로/jca
+
+근대
+	근대/ncn
+
+소리의
+	소리/ncn+의/jcm
+
+변천사를
+	변천사/ncn+를/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+직접
+	직접/mag
+
+오르골
+	오르골/ncn
+
+연주를
+	연주/ncpa+를/jco
+
+들려주어서
+	들리/pvg+어/ecx+주/px+어서/ecs
+
+귀로
+	귀/ncn+로/jca
+
+마음으로
+	마음/ncn+으로/jca
+
+체험해
+	체험/ncpa+하/xsva+어/ecx
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+체험박물관이구요
+	체험박물관이구요/ncn
+
+.
+	./sf
+
+
+한벽면을
+	한벽면/ncn+을/jco
+
+장식하던
+	장식/ncpa+하/xsva+던/etm
+
+댄스
+	댄스/ncn
+
+오르간도
+	오르간/ncn+도/jxc
+
+국내
+	국내/ncn
+
+유일하게
+	유일/ncps+하/xsms+게/ecs
+
+소장하고
+	소장/ncpa+하고/jct
+
+있는오르골소리박물관입니다
+	있는오르골소리박물관입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+에디슨의
+	에디슨/ncn+의/jcm
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+발명품인
+	발명품/ncn+이/jp+ㄴ/etm
+
+축음기도
+	축음기/ncn+도/jxc
+
+전시하고
+	전시/ncn+하고/jct
+
+지지직
+	지지/ncpa+직/ncn
+
+정겨운
+	정겹/paa+은/etm
+
+노래소리도
+	노래소리/ncn+도/jxc
+
+들을
+	들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+아이들과
+	아이/ncn+들/ncn+과/jct
+
+함께하면
+	함께하/pvg+면/ecs
+
+더욱
+	더욱/mag
+
+좋을
+	좋/paa+을/etm
+
+경주의
+	경주/ncpa+의/jcm
+
+또다른
+	또다른/mma
+
+볼거리이자
+	볼거리/ncn+이/jp+자/ecc
+
+이색적인
+	이색/ncn+적/ncn+이/jp+ㄴ/etm
+
+박물관입니다
+	박물관/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+금속이
+	금속/ncn+이/jcc
+
+만들어내는최고의
+	만들어내는최고/ncn+의/jcm
+
+아름다운
+	아름답/paa+은/etm
+
+소리
+	소리/ncn
+
+
+경주오르골소리박물관
+	경주오르골소리박물관/ncn
+
+
+경주에서
+	경주/ncpa+에서/jca
+
+휴가를
+	휴가/ncn+를/jco
+
+보내고
+	보내/pvg+고/ecc
+
+돌아오는
+	돌/pvg+아/ecx+오/px+는/etm
+
+날이었습니다
+	날/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+경주박물관에
+	경주박물관/ncn+에/jca
+
+들렀다
+	들르/pvg+었/ep+다/ef
+
+특별전을
+	특별전/ncn+을/jco
+
+보고
+	보/px+고/ecc
+
+아쉬운
+	아쉽/paa+은/etm
+
+맘으로
+	말/px+ㅁ/etn+으로/jca
+
+고속도로로
+	고속도로/ncn+로/jca
+
+올라서는데
+	오르/pvg+아/ef+는/etm+데/nbn
+
+이정표에
+	이정표/ncn+에/jca
+
+오르골소리박물관
+	오르골소리박물관/ncn
+
+화살표가
+	화살표/ncn+가/jcs
+
+보였습니다
+	보이/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+경주에
+	경주/ncpa+에/jca
+
+오르골
+	오르골/ncn
+
+소리박물관이
+	소리/ncn+박물관/ncn+이/jcc
+
+있다는
+	있/px+다/ef+는/etm
+
+건가
+	것/nbn+이/jp+ㄴ가/ef
+
+..
+	./sf+./sf
+
+
+하면서
+	하/pvg+면서/ecc
+
+계속
+	계속/mag
+
+가는데
+	가/px+ㄴ데/ecs
+
+경주IC휴게소를
+	경주IC휴게소/ncn+를/jco
+
+지나다보니
+	지나/pvg+아/ecx+보/px+니/ecs
+
+오르골소리박물관
+	오르골소리박물관/ncn
+
+입간판이
+	입간판/ncn+이/jcc
+
+보이더라구요
+	보이/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+적흥적으로
+	적흥적/ncn+으로/jca
+
+조카들이
+	조카/ncn+들/ncn+이/jcc
+
+가보고싶다고
+	가/pvg+아/ecx+보/px+고/ecx+싶/px+다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+휴게소
+	휴게소/ncn
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+길이
+	길/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+길로
+	길/ncn+로/jca
+
+들어가서
+	들/pvg+어/ecx+가/px+아/ecx
+
+휴게소에
+	휴게소/ncn+에/jca
+
+멈췄습니다
+	멈추/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+박물관은
+	박물관/ncn+은/jxc
+
+휴게소
+	휴게소/ncn
+
+내에
+	내/npp+에/jca
+
+한
+	하/pvg+ㄴ/etm
+
+공간을
+	공간/ncn+을/jco
+
+사용하고
+	사용/ncpa+하고/jct
+
+있었구요
+	있었구요/ncn
+
+.
+	./sf
+
+
+밖에서도
+	밖/ncn+에서/jca+도/jxc
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+몇개의
+	몇/nnc+개/nbu+의/jcm
+
+작품이
+	작품/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+휴게소
+	휴게소/ncn
+
+들리신
+	들리/pvg+시/ep+ㄴ/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+이게
+	이/npd+이/jp+게/ecs
+
+뭔가
+	뭔가/ncn
+
+궁금해하시면서
+	궁금/ncps+하/xsms+어/ecx+하/px+시/ep+면서/ecc
+
+들릴만
+	들리/pvg+ㄹ/etm+만/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+박물관
+	박물관/ncn
+
+요금은
+	요금/ncn+은/jxc
+
+어른이
+	어른/ncn+이/jcc
+
+5,000원,
+	5,000/nnc+원/nbu+,/sp
+
+어린이가
+	어린이/ncn+가/jcs
+
+3,000원,
+	3,000/nnc+원/nbu+,/sp
+
+그래서
+	그래서/maj
+
+다
+	다/mag
+
+들어가보기는
+	들/pvg+어/ecx+가/px+아/ecx+보/px+기/etn+는/jxc
+
+그렇고
+	그렇/pad+고/ecc
+
+..
+	./sf+./sf
+
+
+제가
+	저/npp+가/jcs
+
+대표로
+	대표/ncpa+로/jca
+
+조카들을
+	조카/ncn+들/ncn+을/jco
+
+대동하고
+	대동/ncn+하고/jct
+
+들어가보기로
+	들/pvg+어/ecx+가/px+아/ecx+보/px+기/etn+로/jca
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+경주시민은
+	경주시민/ncn+은/jxc
+
+50%할인혜택도
+	50%할인혜택/ncn+도/jxc
+
+있다니
+	있/px+다니/ecs
+
+더욱이나
+	더욱/mag+이나/jxc
+
+제가
+	저/npp+가/jcs
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+봐야겠더라구요
+	보/px+아/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+내부는
+	내부/ncn+는/jxc
+
+그
+	그/mmd
+
+시간에
+	시간/nbu+에/jca
+
+함께
+	함께/mag
+
+관람하는
+	관람/ncpa+하/xsva+는/etm
+
+분들과
+	불/pvg+ㄴ/etm+들/nbn+과/jct
+
+함께
+	함께/mag
+
+박물관
+	박물관/ncn
+
+큐레이터의
+	큐레이터/ncn+의/jcm
+
+설명을
+	설명/ncpa+을/jco
+
+들으면서
+	들/pvg+면서/ecc
+
+관람을
+	관람/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+몇가지
+	몇/nnc+가지/nbu
+
+오르골은
+	오르골/ncn+은/jxc
+
+소리를
+	소리/ncn+를/jco
+
+직접
+	직접/mag
+
+들려주시면서
+	들리/pvg+어/ecx+주/px+시/ep+면서/ecc
+
+어떤
+	어떤/mmd
+
+원리로
+	원리/ncn+로/jca
+
+소리가
+	소리/ncn+가/jcs
+
+나는지
+	나/px+는지/ecs
+
+설명도
+	설명/ncpa+도/jxc
+
+해주시고
+	하/pvg+어/ecx+주/px+시/ep+고/ecc
+
+오르골이
+	오르골/ncn+이/jcc
+
+내는
+	내/npp+는/jxc
+
+소리를
+	소리/ncn+를/jco
+
+들을
+	들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있으니
+	있/px+으니/ecs
+
+그
+	그/mmd
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+배가
+	배/pvg+어/ecx+가/px+아/ecx
+
+되더군요
+	되/pvg+더군/ef+요/jxf
+
+.
+	./sf
+
+
+작은
+	작/paa+은/etm
+
+바늘이
+	바늘/ncn+이/jcc
+
+금속을
+	금속/ncn+을/jco
+
+튕기면서
+	튕기/pvg+면서/ecc
+
+내는
+	내/npp+는/jxc
+
+소리가
+	소리/ncn+가/jcs
+
+이렇게
+	이렇/pad+게/ecs
+
+맑고
+	맑/paa+고/ecc
+
+청아할
+	청아/ncps+하/xsms+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+건지
+	것/nbn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+오르골
+	오르골/ncn
+
+소리를
+	소리/ncn+를/jco
+
+들으면
+	들/pvg+면/ecs
+
+태엽인형처럼
+	태엽/ncn+인형/ncn+처럼/jca
+
+빙글빙글
+	빙글빙글/mag
+
+돌아야만
+	돌/pvg+아/ecx+말/px+ㄴ/etm
+
+할거
+	할거/ncpa
+
+같은
+	같/paa+은/etm
+
+착각이
+	착각/ncpa+이/jcc
+
+들기도
+	들/pvg+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+소리를
+	소리/ncn+를/jco
+
+들을
+	들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+체험박물관이라
+	체험/ncpa+박물관/ncn+이/jp+라/ecs
+
+조카들도
+	조카/ncn+들/ncn+도/jxc
+
+꽤나
+	끄/pvg+어/ecx+나/px+아/ecx
+
+집중해서
+	집중/ncpa+하/xsva+어서/ecs
+
+들었습니다
+	들/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+전
+	전/nbn
+
+별루
+	별루/ncn
+
+생각나는
+	생각나/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+없지만
+	없/paa+지만/ecs
+
+말예요
+	말/px+예요/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+그럼
+	그렇/pad+ㅁ/etn
+
+경주오르골소리박물관
+	경주오르골소리박물관/ncn
+
+내부는
+	내부/ncn+는/jxc
+
+어떻게
+	어떻/pad+게/ecs
+
+생겼는지
+	생기/pvg+었/ep+는지/ecs
+
+..
+	./sf+./sf
+
+
+어떤
+	어떤/mmd
+
+소리가
+	소리/ncn+가/jcs
+
+들릴
+	들리/pvg+ㄹ/etm
+
+것만
+	것/nbn+만/jxc
+
+같은지
+	같/paa+은/etm+지/nbn
+
+..
+	./sf+./sf
+
+
+함께
+	함께/mag
+
+구경해
+	구경/ncn+해/ncn
+
+보실까요
+	보/px+시/ep+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+(2009년
+	(/sl+2009/nnc+년/nbu
+
+4월
+	4/nnc+월/nbu
+
+25일
+	25/nnc+일/nbu
+
+준공)
+	준공/ncpa+)/sr
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-마음이
+	여행/ncpa+이야기/ncpa+-/sd+마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+(2011.
+	(/sl+2011./nnc
+
+08.
+	08./nnc
+
+18)
+	18/nnc+)/sr
+
+
+경주IC휴게소의
+	경주IC휴게소/ncn+의/jcm
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+경주가면서
+	경주/ncpa+가면/ncn+서/jca
+
+혹은
+	혹은/maj
+
+서울로
+	서울/ncn+로/jca
+
+가면서
+	가/px+면서/ecc
+
+이곳에서
+	이곳/npd+에서/jca
+
+쉬는
+	쉬/pvg+는/etm
+
+일은
+	일/ncn+은/jxc
+
+한번도
+	한/nnc+번/nbu+도/jxc
+
+없었던
+	없/paa+었/ep+던/etm
+
+곳인데요
+	곳인데요/ncn
+
+.
+	./sf
+
+
+경주IC전에
+	경주IC전/ncn+에/jca
+
+건천IC에서
+	건천IC/ncn+에서/jca
+
+빠져
+	빠지/pvg+어/ecx
+
+나오거든요
+	나/pvg+아/ecx+오/px+거든/ef+요/jxf
+
+.
+	./sf
+
+
+이날은
+	이/nnc+날/nbu+은/jxc
+
+경주시내를
+	경주시내/ncn+를/jco
+
+들렀다
+	들르/pvg+었/ep+다/ef
+
+서울로
+	서울/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+길이라
+	길/ncn+이/jp+라/ecs
+
+그리고
+	그리고/maj
+
+가는
+	가/pvg+는/etm
+
+길에
+	길/ncn+에/jca
+
+박물관이
+	박물관/ncn+이/jcc
+
+있다는걸
+	있다는걸/ncn
+
+보고
+	보/px+고/ecc
+
+급히
+	급히/mag
+
+들어온
+	들/pvg+어/ecx+오/px+ㄴ/etm
+
+거라
+	것/nbn+이/jp+라/ecs
+
+첫
+	첫/nno
+
+방문입니다
+	방문/ncpa+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+휴게소는
+	휴게소/ncn+는/jxc
+
+아주
+	아주/mag
+
+자그마
+	자그마/ncn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+박물관은
+	박물관/ncn+은/jxc
+
+어딨나
+	어딨/ncn+나/jcj
+
+두리번거렸더니
+	두리번거리/pvg+었/ep+더니/ecs
+
+휴게소
+	휴게소/ncn
+
+안으로
+	안/ncn+으로/jca
+
+들어가야
+	들/pvg+어/ecx+가/px+아/ecx
+
+하더군요
+	하/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+환상적
+	환상/ncn+적/ncn
+
+명가의
+	명가/ncn+의/jcm
+
+소리세계로
+	소리/ncn+세계/ncn+로/jca
+
+...
+	.../se
+
+
+라는
+	라/ncn+는/jxc
+
+글귀
+	글귀/ncn
+
+보이시죠
+	보이/pvg+시/ep+죠/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+세계로
+	세계/ncn+로/jca
+
+가보겠습니다
+	가/pvg+아/ecx+보/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+휴게소
+	휴게소/ncn
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+왼쪽에
+	왼쪽/ncn+에/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+오르골소리박물관
+	오르골소리박물관/ncn
+
+입구가
+	입구/ncn+가/jcs
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+다
+	다/mag
+
+들어갈
+	들/pvg+어/ecx+가/px+ㄹ/etm
+
+필요가
+	필요/ncps+가/jcc
+
+있나
+	있/px+나/ef
+
+...
+	.../se
+
+
+는
+	늘/pvg+ㄴ/etm
+
+언니의
+	언니/ncn+의/jcm
+
+생각
+	생각/ncpa
+
+.
+	./sf
+
+
+아이들
+	아이/ncn+들/ncn
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+싶어서
+	싶/px+어서/ecs
+
+급히
+	급히/mag
+
+들린
+	들리/pvg+ㄴ/etm
+
+거라
+	것/nbn+이/jp+라/ecs
+
+제가
+	저/npp+가/jcs
+
+대표로
+	대표/ncpa+로/jca
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+보기로
+	보/px+기/etn+로/jca
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+사진도
+	사진/ncn+도/jxc
+
+찍을
+	찍/pvg+을/etm
+
+겸
+	겸/nbn
+
+해서요
+	하/px+어서/ef+요/jxf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+아이들만
+	아이/ncn+들/ncn+만/jxc
+
+관람은
+	관람/ncpa+은/jxc
+
+불가합니다
+	불가/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+통제할
+	통제/ncpa+하/xsva+ㄹ/etm
+
+부모님을
+	부모님/ncn+을/jco
+
+동반해야
+	동반/ncn+해/ncn+이/jp+야/ef
+
+하나
+	하나/nnc
+
+보더라구요
+	보/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+이때는
+	이때/ncn+는/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+성인
+	성/ncn+이/jp+ㄴ/etm
+
+요금을
+	요금/ncn+을/jco
+
+다
+	다/mag
+
+주고
+	주/px+고/ecc
+
+입장을
+	입장/ncpa+을/jco
+
+했었는데요
+	하/px+었었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+경주시민은
+	경주시민/ncn+은/jxc
+
+50%할인
+	50%할/ncn+이/jp+ㄴ/etm
+
+된다고
+	되/pvg+ㄴ다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+다
+	다/mag
+
+보고
+	보/px+고/ecc
+
+돌아와서
+	돌/pvg+아/ecx+오/px+아/ecs
+
+
+50%
+	50/nnc+%/su
+
+되돌려
+	되돌리/pvg+어/ecx
+
+받았답니다
+	받/pvg+아/ep+답니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+이곳은
+	이곳/npd+은/jxc
+
+오르골
+	오르골/ncn
+
+연주시간이
+	연주/ncpa+시간/ncn+이/jcc
+
+따로
+	따로/mag
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+우리는
+	우리/npp+는/jxc
+
+그런걸
+	그런걸/ncn
+
+염두에
+	염두/ncn+에/jca
+
+두지
+	두/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+지나다
+	지나/pvg+아/ecx
+
+들린거라
+	들리/pvg+ㄴ/etm+것/nbn+이/jp+라/ecs
+
+시간을
+	시간/ncn+을/jco
+
+맞추지
+	맞추/pvg+지/ecx
+
+못해
+	못하/pvg+어/ecx
+
+연주를
+	연주/ncpa+를/jco
+
+못들은
+	못/ncn+들/xsncc+은/jxc
+
+것도
+	것/nbn+도/jxc
+
+몇
+	몇/nnc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+혹여
+	혹여/mag
+
+이곳에
+	이곳/npd+에/jca
+
+들리신다면
+	들리/pvg+시/ep+ㄴ다면/ecs
+
+오르골연주시간에
+	오르골연주시간/ncn+에/jca
+
+맞추시면
+	맞추/pvg+시/ep+면/ecs
+
+소중한
+	소중/ncps+하/xsms+ㄴ/etm
+
+소리를
+	소리/ncn+를/jco
+
+들으실
+	들/pvg+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+거
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+입장권
+	입장권/ncn
+
+구매하고
+	구매/ncpa+하고/jct
+
+문을
+	문/ncn+을/jco
+
+열고
+	열/pvg+고/ecc
+
+안으로
+	안/ncn+으로/jca
+
+들어서면
+	들어서/pvg+면/ecs
+
+보이는
+	보이/pvg+는/etm
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+모습이
+	모습/ncn+이/jcc
+
+전시품의
+	전시품/ncn+의/jcm
+
+반정도
+	반정/ncpa+도/jxc
+
+된다고
+	되/pvg+ㄴ다/ef+고/jcr
+
+생각하심
+	생각/ncpa+하심/ncn
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+오르골
+	오르골/ncn
+
+전시공간과
+	전시공간/ncn+과/jcj
+
+그외
+	그외/mmd
+
+소리를
+	소리/ncn+를/jco
+
+내는
+	내/npp+는/jxc
+
+물건들이
+	물/pvg+ㄹ/etm+것/nbn+이/jp+ㄴ/etm+들/nbn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+들어오니
+	들/pvg+어/ecx+오/px+니/ecs
+
+먼저
+	먼저/mag
+
+들어온
+	들/pvg+어/ecx+오/px+ㄴ/etm
+
+일부의
+	일/nnc+부/nbu+의/jcm
+
+관람객들이
+	관람객/ncn+들/ncn+이/jcc
+
+계시더군요
+	계시/paa+더군/ef+요/jxf
+
+.
+	./sf
+
+
+자유관람인가
+	자유/ncn+관람/ncpa+이/jp+ㄴ가/ef
+
+싶었는데
+	싶/px+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+막
+	막/mag
+
+설명을
+	설명/ncpa+을/jco
+
+시작하고
+	시작/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+중이라
+	중/nbn+이/jp+라/ecs
+
+우리도
+	우리/npp+도/jxc
+
+그
+	그/mmd
+
+옆에서
+	옆/ncn+에서/jca
+
+서서
+	서/pvg+어서/ecs
+
+같이
+	같/paa+이/xsa
+
+귀를
+	귀/ncn+를/jco
+
+기울였습니다
+	기울이/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+오르골의
+	오르골/ncn+의/jcm
+
+어원부터
+	어원/ncn+부터/jxc
+
+짚어보겠습니다
+	짚/pvg+어/ecx+보/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+오르골은
+	오르골/ncn+은/jxc
+
+네덜란드어로
+	네덜란드어/ncn+로/jca
+
+오르겔이
+	오르겔/ncn+이/jcc
+
+오르골로
+	오르골/ncn+로/jca
+
+혼동되어
+	혼동/ncpa+되/xsvn+어/ecx
+
+일본으로
+	일/nnc+본/nbu+으로/jca
+
+넘어오면서
+	넘/pvg+어/ecx+오/px+면서/ecc
+
+정착된
+	정착/ncpa+되/xsvn+ㄴ/etm
+
+것이라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+하고요
+	하/px+고요/ef
+
+.
+	./sf
+
+
+우리나라와
+	우리나라/ncn+와/jcj
+
+일본에서는
+	일/nnc+본/nbu+에서/jca+는/jxc
+
+오르골이란
+	오르골이란/ncn
+
+단어를
+	단어/ncn+를/jco
+
+사용하지만
+	사용/ncpa+하/xsva+지/ecx+말/px+ㄴ/etm
+
+유럽과
+	유럽/ncn+과/jcj
+
+미국에서는
+	미국에서/ncn+는/jxc
+
+뮤직박스라고
+	뮤직박스/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+기원을
+	기원/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+14세기
+	14/nnc+세/nbu+이/jp+기/etn
+
+네덜란드
+	네덜란드/ncn
+
+교회에서
+	교회/ncn+에서/jca
+
+칼리욘으로
+	칼리욘/ncn+으로/jca
+
+불리는
+	불리/pvg+는/etm
+
+끈을
+	끈/ncn+을/jco
+
+잡아당겨
+	잡아당기/pvg+어/ecx
+
+종소리를
+	종소리/ncn+를/jco
+
+내어서
+	내/pvg+어서/ecs
+
+사람들에게
+	사람들/ncn+에게/jca
+
+시간을
+	시간/ncn+을/jco
+
+알려
+	알리/pvg+어/ecx
+
+주었었는데요
+	주/px+었었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+칼리욘을
+	칼리욘/ncn+을/jco
+
+자동화
+	자동화/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+오르골의
+	오르골/ncn+의/jcm
+
+시초가
+	시초/ncn+가/jcs
+
+되었다고
+	되/pvg+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+첫
+	첫/nno
+
+칼리욘은
+	칼리욘/ncn+은/jxc
+
+1381년
+	1381/nnc+년/nbu
+
+벨기에의
+	벨기에/ncn+의/jcm
+
+성니콜라스
+	성니콜라스/ncn
+
+카스의
+	카스/ncn+의/jcm
+
+탑에
+	탑/ncn+에/jca
+
+설치된
+	설치/ncpa+되/xsvn+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+전해지고
+	전하/pvg+어/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그럼
+	그렇/pad+ㅁ/etn
+
+이렇게
+	이렇/pad+게/ecs
+
+생긴
+	생기/pvg+ㄴ/etm
+
+오르골이
+	오르골/ncn+이/jcc
+
+어떻게
+	어떻/pad+게/ecs
+
+소리를
+	소리/ncn+를/jco
+
+내는
+	내/pvg+는/etm
+
+지도
+	지/nbn+도/jxc
+
+궁금해집니다
+	궁금해지/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+길이가
+	길이/ncn+가/jcs
+
+다른
+	다르/paa+ㄴ/etm
+
+금속판을
+	금속판/ncn+을/jco
+
+음계순으로
+	음계/ncn+순/ncn+으로/jca
+
+달고
+	달/paa+고/ecc
+
+이에
+	이/npd+에/jca
+
+접하여
+	접하/pvg+어/ecx
+
+가시와
+	가시/ncn+와/jct
+
+같은
+	같/paa+은/etm
+
+바늘이
+	바늘/ncn+이/jcc
+
+촘촘하게
+	촘촘하/paa+게/ecs
+
+붙은
+	붙/pvg+은/etm
+
+원통
+	원통/ncn
+
+(혹은
+	(/sl+혹은/maj
+
+원판도
+	원판/ncn+도/jxc
+
+있습니다
+	있/px+습니다/ef
+
+.)
+	./sf+)/sr
+
+
+을
+	을/ncn
+
+부착하여
+	부착/ncpa+하/xsva+어/ecx
+
+태엽의
+	태엽/ncn+의/jcm
+
+힘으로
+	힘/ncn+으로/jca
+
+원통을
+	원통/ncn+을/jco
+
+돌리면
+	돌리/pvg+면/ecs
+
+바늘이
+	바늘/ncn+이/jcc
+
+금속판을
+	금속판/ncn+을/jco
+
+튕겨서
+	튕기/pvg+어서/ecs
+
+소리를
+	소리/ncn+를/jco
+
+내도록
+	내/pvg+도록/ecs
+
+장치되고
+	장치/ncpa+되/xsvn+고/ecc
+
+자동적으로
+	자동/ncn+적/ncn+으로/jca
+
+음악이
+	음악/ncn+이/jcc
+
+연주되는
+	연주/ncpa+되/xsvn+는/etm
+
+시스템입니다
+	시스템/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+태엽을
+	태엽/ncn+을/jco
+
+감아서
+	감/pvg+아/ecx
+
+직접
+	직접/mag
+
+소리를
+	소리/ncn+를/jco
+
+들려주었는데요
+	들리/pvg+어/ecx+주/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+오르골
+	오르골/ncn
+
+소리는
+	소리/ncn+는/jxc
+
+뭔가
+	뭔가/ncn
+
+끌림이
+	끌리/pvg+ㅁ/etn+이/jcs
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+환상의
+	환상/ncn+의/jcm
+
+세계로
+	세계/ncn+로/jca
+
+인도하는
+	인도/ncpa+하/xsva+는/etm
+
+소리라고
+	소리/ncn+이/jp+라/ef+고/jcr
+
+할까요
+	하/px+ㄹ까/ef+요/jxf
+
+...
+	.../se
+
+
+상상력이
+	상상력/ncn+이/jcc
+
+샘솟을
+	샘솟/pvg+을/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+신비감이
+	신비감/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+울림입니다
+	울리/pvg+ㅁ/etn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+자연이
+	자연/ncn+이/jcc
+
+만들어내는
+	만들/pvg+어/ecx+내/px+는/etm
+
+소리
+	소리/ncn
+
+다음으로
+	다음/ncn+으로/jca
+
+가장
+	가장/mag
+
+아름다운
+	아름답/paa+은/etm
+
+소리라고
+	소리/ncn+이/jp+라/ef+고/jcr
+
+하면
+	하/pvg+면/ecs
+
+개인적으로
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+오르골을
+	오르골/ncn+을/jco
+
+꼽고
+	꼽/pvg+고/ecc
+
+싶어요
+	싶/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+원통형만
+	원통형/ncn+만/jxc
+
+있는
+	있/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+아니다
+	아니/paa+다/ef+./sf
+
+...
+	.../se
+
+
+원판형도
+	원판/ncn+형/ncn+도/jxc
+
+있다고
+	있/px+다/ef+고/jcr
+
+하시면서
+	하/px+시/ep+면서/ecc
+
+보여준
+	보이/pvg+어/ecx+주/px+ㄴ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+손으로
+	손/ncn+으로/jca
+
+직접
+	직접/mag
+
+만져보게도
+	만지/pvg+어/ecx+보/px+게/ecs+도/jxc
+
+하더군요
+	하/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+아이들도
+	아이/ncn+들/ncn+도/jxc
+
+한번씩
+	한번씩/ncn
+
+만져봅니다
+	만지/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+금속판에
+	금속판/ncn+에/jca
+
+까슬한
+	까슬한/ncn
+
+침이
+	치/pvg+ㅁ/etn+이/jcs
+
+..
+	./sf+./sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+소리를
+	소리/ncn+를/jco
+
+내는가
+	내/pvg+는가/ecs
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+전시장
+	전시장/ncr
+
+한쪽
+	하/pvg+ㄴ/etm+쪽/nbn
+
+벽면을
+	벽면/ncn+을/jco
+
+장식하고
+	장식/ncpa+하고/jct
+
+있던
+	있/px+던/etm
+
+건데요
+	건데요/ncn
+
+.
+	./sf
+
+
+오르골
+	오르골/ncn
+
+하나하나를
+	하나/nnc+하나/nnc+를/jco
+
+전시한
+	전시/ncn+한/ncn
+
+건줄
+	것/nbn+이/jp+ㄴ/etm+줄/nbn
+
+알았습니다
+	알/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+전체가
+	전체/ncn+가/jcs
+
+하나의
+	하나/nnc+의/jcm
+
+오르간이라고
+	오르간/ncn+이/jp+라/ef+고/jcr
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+이름하여
+	이름하/ncn+이/jp+어/ecs
+
+"댄스오르간"
+	"/sl+댄스/ncn+오르간/ncn+"/sr
+
+
+1907년경
+	1907/nnc+년/nbu+경/xsnu
+
+벨기에
+	벨기/ncn+에/jca
+
+모르티에사에서
+	모르티에사/ncn+에서/jca
+
+제작한
+	제작/ncpa+하/xsva+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+크기는
+	크/paa+기/etn+는/jxc
+
+너비가
+	너비/ncn+가/jcs
+
+8.6m,
+	8.6m,/ncn
+
+높이가
+	높이/ncn+가/jcs
+
+5.6m,
+	5.6m,/ncn
+
+두께가
+	두께/ncn+가/jcs
+
+2.
+	2./nnc
+
+1m입니다
+	1m입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+모르티에는
+	모르티/ncn+에/jca+는/jxc
+
+다양한
+	다양/ncn+한/ncn
+
+크기의
+	크/paa+기/etn+의/jcm
+
+댄스오르간을
+	댄스/ncn+오르간/ncn+을/jco
+
+제작했다고
+	제작/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+KEY수에
+	KEY/f+수/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+제작된
+	제작/ncpa+되/xsvn+ㄴ/etm
+
+대표적
+	대표/ncpa+적/ncn
+
+모델이
+	모델/ncn+이/jcc
+
+여럿있는데요
+	여럿있는데요/ncn
+
+.
+	./sf
+
+
+그중
+	그중/mag
+
+이
+	이/mmd
+
+오르간은92KEY라는
+	오르간은92KEY라/ncn+는/jxc
+
+모델입니다
+	모델/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+당시
+	당시/ncn
+
+댄스홀용으로
+	댄스홀/ncn+용/ncn+으로/jca
+
+제작된
+	제작/ncpa+되/xsvn+ㄴ/etm
+
+오르간이라고
+	오르간/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+오르간
+	오르간/ncn
+
+소리를
+	소리/ncn+를/jco
+
+들어봐야하는데
+	들/pvg+어/ecx+보/px+아/ecx+하/px+ㄴ데/ecs
+
+댄스오르간
+	댄스/ncn+오르간/ncn
+
+연주시간이
+	연주/ncpa+시간/ncn+이/jcc
+
+따로
+	따로/mag
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+평일
+	평/nbu+이/jp+ㄹ/etm
+
+11:00,
+	11/nnc+:/sp+00/nnc+,/sp
+
+14:00,
+	14/nnc+:/sp+00/nnc+,/sp
+
+16:00
+	16/nnc+:/sp+00/nnc
+
+
+주말11:00,
+	주말11:00,/ncn
+
+13:00,
+	13/nnc+:/sp+00/nnc+,/sp
+
+15:00,
+	15/nnc+:/sp+00/nnc+,/sp
+
+17:00
+	17/nnc+:/sp+00/nnc
+
+
+시간에
+	시간/nbu+에/jca
+
+즈음에서
+	즈음/ncpa+에서/jca
+
+휴게소에
+	휴게소/ncn+에/jca
+
+들린다면
+	들리/pvg+ㄴ다면/ecs
+
+이
+	이/mmd
+
+오르간
+	오르간/ncn
+
+소리를
+	소리/ncn+를/jco
+
+듣는
+	듣/pvg+는/etm
+
+것으로도
+	것/nbn+으로/jca+도/jxc
+
+충분한
+	충분/ncn+한/ncn
+
+체험이
+	체험/ncpa+이/jcc
+
+되지
+	되/pvg+지/ecx
+
+않을까
+	않/px+을까/ef
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+하나더
+	하/pvg+어/ecx+나/px+더/ep+어/ef
+
+.
+	./sf
+
+
+이곳에
+	이곳/npd+에/jca
+
+세계
+	세계/ncn
+
+최고의
+	최고/ncn+의/jcm
+
+독일
+	독/ncn+이/jp+ㄹ/etm
+
+스타인웨이
+	스타인웨/ncn+이/jcc
+
+피아노가
+	피아노/ncn+가/jcs
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+독주(자동연주피아노)
+	독주(자동연주피아노)/ncn
+
+공연도
+	공연/ncps+도/jxc
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+오후
+	오후/ncn
+
+11시,
+	11/nnc+시/nbu+,/sp
+
+오후2시,
+	오후2시,/ncn
+
+오후4시
+	오후4시/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+에디슨의
+	에디슨/ncn+의/jcm
+
+축음기
+	축음기/ncn
+
+포노그라프에서
+	포노그라프/ncn+에서/jca
+
+흘러
+	흐르/pvg+어/ecx
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+어느
+	어느/mmd
+
+시대의
+	시대/ncn+의/jcm
+
+여성노랫소리도
+	여성/ncn+노랫소리/ncn+도/jxc
+
+들어봅니다
+	들/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+지지직
+	지지/ncpa+직/ncn
+
+거리는
+	것/nbn+이/jp+리/ef+는/etm
+
+소리가
+	소리/ncn+가/jcs
+
+더
+	더/mag
+
+많이
+	많/paa+이/xsa
+
+섞인
+	섞이/pvg+ㄴ/etm
+
+노래이지만
+	노래/ncn+이/jp+지만/ecs
+
+그
+	그/mmd
+
+잡음도
+	잡음/ncn+도/jxc
+
+하나의
+	하나/nnc+의/jcm
+
+음악이
+	음악/ncn+이/jcc
+
+되는
+	되/pvg+는/etm
+
+귀한
+	귀하/paa+ㄴ/etm
+
+소리입니다
+	소리/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+모양만으로도
+	모양/ncn+만/ncn+으로/jca+도/jxc
+
+시선을
+	시선/ncn+을/jco
+
+끌던
+	끌/pvg+던/etm
+
+빅터사의
+	빅터사/ncn+의/jcm
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+모델이라는
+	모델/ncn+이/jp+라/ef+는/etm
+
+빅터3,
+	빅터3,/ncn
+
+빅터1
+	빅터1/ncn
+
+
+한송이
+	한/nnc+송이/nbu
+
+검은
+	걸/pvg+ㅁ/etn+은/jxc
+
+나팔꽃이
+	나팔꽃/ncn+이/jcc
+
+피어난
+	피/pvg+어/ecx+나/px+ㄴ/etm
+
+모양입니다
+	모양/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이건
+	이/npd+이/jp+건/ecc
+
+빅터
+	빅터/ncn
+
+빅트롤라18이라는
+	빅트롤라18/ncn+이/jp+라/ef+는/etm
+
+1915년
+	1915/nnc+년/nbu
+
+미국
+	미국/ncn
+
+빅터토킹
+	빅터토킹/ncn
+
+머신사의
+	머신/ncn+사의/ncn
+
+고가의
+	고가/ncn+의/jcm
+
+축음기라고
+	축음기/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+짧은
+	짧/paa+은/etm
+
+기간에
+	기간/ncn+에/jca
+
+단종이
+	단종/ncn+이/jcc
+
+되면서
+	되/pvg+면서/ecc
+
+더욱
+	더욱/mag
+
+희소가치가
+	희소/ncps+가치/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+거라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+소리의
+	소리/ncn+의/jcm
+
+음량을
+	음량/ncn+을/jco
+
+조절하는
+	조절/ncpa+하/xsva+는/etm
+
+방법을
+	방법/ncn+을/jco
+
+보여주셨는데요
+	보이/pvg+어/ecx+주/px+셨/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+지금
+	지금/mag
+
+윗뚜껑,
+	윗뚜껑,/ncn
+
+아랫쪽
+	아랫쪽/ncn
+
+양쪽으로
+	양쪽/ncn+으로/jca
+
+열리는
+	열리/pvg+는/etm
+
+문을
+	문/ncn+을/jco
+
+이용해서
+	이용/ncpa+하/xsva+어서/ecs
+
+소리를
+	소리/ncn+를/jco
+
+크게
+	크/paa+게/ecs
+
+혹은
+	혹은/maj
+
+작게
+	작/paa+게/ecs
+
+들을
+	들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+멋지게
+	멋지/paa+게/ecs
+
+만들어진
+	만들/pvg+어/ecx+지/px+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+우아한
+	우아/ncn+한/ncn
+
+외관에도
+	외관/ncn+에/jca+도/jxc
+
+기능이
+	기능/ncn+이/jcc
+
+다
+	다/mag
+
+숨어있다는
+	숨/pvg+어/ecx+있/px+다/ef+는/etm
+
+것이
+	것/nbn+이/jcc
+
+..
+	./sf+./sf
+
+
+그걸
+	그걸/ncn
+
+생각하고
+	생각/ncpa+하고/jct
+
+만들었다는
+	만들/pvg+었/ep+다/ef+는/etm
+
+것이
+	것/nbn+이/jcc
+
+놀랍습니다
+	놀랍/paa+습니다/ef
+
+.
+	./sf
+
+
+그외
+	그외/mmd
+
+전화기,
+	전화기/ncn+,/sp
+
+라디오,
+	라디오/ncn+,/sp
+
+시계
+	시계/ncn
+
+겸용
+	겸용/ncpa
+
+라디오
+	라디오/ncn
+
+등
+	등/nbu
+
+다양한
+	다양/ncn+한/ncn
+
+물건이
+	물건/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+다른
+	다른/mma
+
+것도
+	것/nbn+도/jxc
+
+소리를
+	소리/ncn+를/jco
+
+들어보거나
+	들/pvg+어/ecx+보/px+거나/ecc
+
+조작을
+	조작/ncpa+을/jco
+
+해보면
+	하/pvg+어/ecx+보/px+면/ecs
+
+좋을
+	좋/paa+을/etm
+
+듯한데
+	듯하/paa+ㄴ/etm+데/nbn
+
+큐레이터가
+	큐레이터/ncn+가/jcs
+
+들려주는
+	들리/pvg+어/ecx+주/px+는/etm
+
+몇가지
+	몇/nnc+가지/nbu
+
+소리
+	소리/ncn
+
+이외에는
+	이외/ncn+에/jca+는/jxc
+
+체험이
+	체험/ncpa+이/jcc
+
+안됩니다
+	안되/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+귀한
+	귀하/paa+ㄴ/etm
+
+물건들이다보니
+	물건들이다보/ncn+이/jp+니/ecs
+
+눈으로
+	눈/ncn+으로/jca
+
+보아야
+	보/pvg+아/ecx
+
+하는
+	하/pvg+는/etm
+
+것은
+	것/nbn+은/jxc
+
+기본이구요
+	기본이구요/ncn
+
+.
+	./sf
+
+
+왼쪽
+	왼쪽/ncn
+
+오른쪽
+	오르/pvg+ㄴ/etm+쪽/nbn
+
+박물관의
+	박물관/ncn+의/jcm
+
+내부입니다
+	내부/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+축음기와
+	축음기/ncn+와/jcj
+
+오르골을
+	오르골/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+전시한
+	전시/ncn+한/ncn
+
+곳,
+	곳/ncn+,/sp
+
+그리고
+	그리고/maj
+
+그외
+	그외/mmd
+
+소리를
+	소리/ncn+를/jco
+
+내는
+	내/npp+는/jxc
+
+물건들이
+	물/pvg+ㄹ/etm+것/nbn+이/jp+ㄴ/etm+들/nbn+이/jcc
+
+전시된
+	전시/ncpa+되/xsvn+ㄴ/etm
+
+공간
+	공간/ncn
+
+..
+	./sf+./sf
+
+
+설명
+	설명/ncpa
+
+이후에는
+	이후/ncn+에/jca+는/jxc
+
+자유롭게
+	자유/ncn+롭/xsmn+게/ecs
+
+관람이
+	관람/ncpa+이/jcc
+
+가능한데요
+	가능/ncn+한데/ncn+요/ncn
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+공간을
+	공간/ncn+을/jco
+
+가득
+	가득/mag
+
+채우고
+	채우/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+소리물건들이
+	소리/ncn+물건/ncn+들/ncn+이/jcc
+
+아무런
+	아무런/mma
+
+반응이
+	반응/ncpa+이/jcc
+
+없으니
+	없/paa+으니/ecs
+
+왠지
+	왠지/mag
+
+허전하긴
+	허전하긴/ncn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+시간을
+	시간/ncn+을/jco
+
+잘
+	잘/mag
+
+맞췄더라면
+	맞추/pvg+었/ep+더라면/ecs
+
+댄스오르간의
+	댄스/ncn+오르간/ncn+의/jcm
+
+연주도
+	연주/ncpa+도/jxc
+
+들어보는
+	들/pvg+어/ecx+보/px+는/etm
+
+거였는데요
+	거/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+방문한
+	방문/ncpa+하/xsva+ㄴ/etm
+
+시간이
+	시간/ncn+이/jcc
+
+조금전에
+	조금/ncn+전/ncn+에/jca
+
+끝난
+	끝나/pvg+ㄴ/etm
+
+시간이었어요
+	시간/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+가운데
+	가운데/ncn
+
+네모난
+	네모나/pvg+ㄴ/etm
+
+축음기가
+	축음기/ncn+가/jcs
+
+에디슨
+	에디슨/ncn
+
+포노그라프입니다
+	포노그라프입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+소리를
+	소리/ncn+를/jco
+
+저장해
+	저장/ncpa+하/xsva+어/ecx
+
+두었다가
+	두/pvg+었/ep+다가/ecs
+
+재생하는
+	재생/ncpa+하/xsva+는/etm
+
+축음기의
+	축음기/ncn+의/jcm
+
+역사는
+	역사/ncn+는/jxc
+
+1877년
+	1877/nnc+년/nbu
+
+에디슨이
+	에디슨/ncn+이/jcc
+
+주석박을
+	주석/ncn+박/ncn+을/jco
+
+붙여
+	붙이/pvg+어/ecx
+
+구리로
+	구리/ncn+로/jca
+
+된
+	되/pvg+ㄴ/etm
+
+원통과
+	원통/ncn+과/jcj
+
+바늘을
+	바늘/ncn+을/jco
+
+이용해서
+	이용/ncpa+하/xsva+어서/ecs
+
+제작한
+	제작/ncpa+하/xsva+ㄴ/etm
+
+틴포일을
+	틴포일/ncn+을/jco
+
+시작으로
+	시작/ncpa+으로/jca
+
+만들어졌습니다
+	만들/pvg+어/ecx+지/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+에디슨은
+	에디슨/ncn+은/jxc
+
+모르스
+	모르스/ncn
+
+신호의
+	신호/ncpa+의/jcm
+
+기록장치를
+	기록/ncpa+장치/ncpa+를/jco
+
+개량하는
+	개량/ncpa+하/xsva+는/etm
+
+연구중에
+	연구/ncpa+중/ncn+에/jca
+
+우연히
+	우연히/mag
+
+틴포일을
+	틴포일/ncn+을/jco
+
+발명하여
+	발명/ncpa+하/xsva+어/ecx
+
+포토그라프라는
+	포토/ncn+그라프/ncn+라는/jcm
+
+이름을
+	이름/ncn+을/jco
+
+지었고
+	지/px+었/ep+고/ecc
+
+1880년
+	1880/nnc+년/nbu
+
+이후
+	이후/ncn
+
+클래스M과
+	클래스M/ncn+과/jcj
+
+콘서트,
+	콘서트/ncn+,/sp
+
+오페라
+	오페라/ncn
+
+등을
+	등/nbu+을/jco
+
+만들면서
+	만들/pvg+면서/ecc
+
+축음
+	축음/ncn
+
+및
+	및/maj
+
+재생기술을
+	재생/ncpa+기술/ncn+을/jco
+
+완성시켰다고
+	완성/ncpa+시키/xsva+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+누군가
+	누군가/npp
+
+하는
+	하/pvg+는/etm
+
+시선으로
+	시선/ncn+으로/jca
+
+바라보던
+	바라/pvg+아/ecx+보/px+던/etm
+
+조카들
+	조카/ncn+들/ncn
+
+...
+	.../se
+
+
+악보는
+	악보/ncn+는/jxc
+
+물론
+	물론/mag
+
+LP판도
+	LP/f+판/ncn+도/jxc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+고물건에
+	고물/ncn+건/ncn+에/jca
+
+관심이
+	관심/ncn+이/jcc
+
+많으신
+	많/paa+으시/ep+ㄴ/etm
+
+분이라면
+	분/nbn+이/jp+라면/ecs
+
+이곳이
+	이곳/npd+이/jcc
+
+바로
+	바로/mag
+
+천국같은
+	천국/ncn+같/xsmn+은/etm
+
+곳이
+	곳/ncn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+문외한인
+	문외한/ncn+이/jp+ㄴ/etm
+
+저로서는
+	저/npp+로서/jca+는/jxc
+
+이것이
+	이것/npd+이/jcc
+
+귀한
+	귀하/paa+ㄴ/etm
+
+건지
+	것/nbn+이/jp+ㄴ지/ecs
+
+어떤건지는
+	어떤건지/ncn+는/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+그저
+	그저/mag
+
+시대를
+	시대/ncn+를/jco
+
+앞서간
+	앞서/pvg+어/ecx+가/px+ㄴ/etm
+
+이들이
+	이/ncn+들/xsncc+이/jcc
+
+대단해
+	대단/ncps+하/xsms+어/ecx
+
+보일
+	보이/pvg+ㄹ/etm
+
+뿐이고
+	뿐/nbn+이고/jcj
+
+
+기계가
+	기계/ncn+가/jcs
+
+내는
+	내/npp+는/jxc
+
+소리가
+	소리/ncn+가/jcs
+
+이렇게
+	이렇/pad+게/ecs
+
+아름다울
+	아름답/paa+을/etm
+
+수도
+	수/nbn+도/jxc
+
+있구나
+	있/px+구나/ef
+
+감탄하게
+	감탄/ncpa+하/xsva+게/ecs
+
+된
+	되/pvg+ㄴ/etm
+
+공간이었습니다
+	공간/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+특별전시관으로
+	특별/ncps+전시관/ncn+으로/jca
+
+REUGE전시관이
+	REUGE/f+전시관/ncn+이/jcc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+150년의
+	150/nnc+년/nbu+의/jcm
+
+고전
+	고전/ncn
+
+세공
+	세공/ncn
+
+기술의
+	기술/ncn+의/jcm
+
+전통
+	전통/ncn
+
+형태를
+	형태/ncn+를/jco
+
+유지하는
+	유/ncn+이/jp+지/ecx+하/px+는/etm
+
+루즈사는
+	루즈사/ncn+는/jxc
+
+
+손으로
+	손/ncn+으로/jca
+
+조립한
+	조립/ncpa+하/xsva+ㄴ/etm
+
+80애
+	80애/ncn
+
+이상의
+	이상/ncn+의/jcm
+
+부품으로
+	부풀/pvg+ㅁ/etn+으로/jca
+
+자신만의
+	자신/ncn+만/ncn+의/jcm
+
+기술과
+	기술/ncn+과/jcj
+
+스위스
+	스위스/ncn
+
+시계
+	시계/ncn
+
+제조
+	제조/ncpa
+
+전통을
+	전통/ncn+을/jco
+
+결합해
+	결합/ncpa+하/xsva+어/ecx
+
+독창적인
+	독창/ncn+적/ncn+이/jp+ㄴ/etm
+
+작품을
+	작품/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+내고
+	내/px+어/ef+고/jcr
+
+있다
+	있/px+다/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+루즈사
+	루즈사/ncn
+
+작품들은
+	작품/ncn+들/ncn+은/jxc
+
+한정된
+	한정/ncpa+되/xsvn+ㄴ/etm
+
+소수의
+	소수/ncn+의/jcm
+
+공인된
+	공인/ncpa+되/xsvn+ㄴ/etm
+
+딜러에
+	딜러/ncn+에/jca
+
+의해서만
+	의하/pvg+어서/ecs+만/jxc
+
+전시
+	전시/ncn
+
+판매되고
+	판매/ncpa+되/xsvn+고/ecc
+
+있는데
+	있/px+는데/ecs
+
+경주오르골소리박물관
+	경주오르골소리박물관/ncn
+
+개관
+	개관/ncn
+
+기념으로
+	기념/ncpa+으로/jca
+
+
+국내
+	국내/ncn
+
+최초로
+	최초/ncn+로/jca
+
+전시
+	전시/ncn
+
+판매된다고
+	판매/ncpa+되/xsvn+ㄴ다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+보시는
+	보/px+시/ep+는/etm
+
+바와
+	바/nbn+와/jct
+
+같이
+	같/paa+이/xsa
+
+아주
+	아주/mag
+
+고가의
+	고가/ncn+의/jcm
+
+오르골입니다
+	오르골입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+아주
+	아주/mag
+
+작은
+	작/paa+은/etm
+
+사이즈에서
+	사이즈/ncn+에서/jca
+
+큰
+	크/paa+ㄴ/etm
+
+것까지
+	것/nbn+까지/jxc
+
+다양합니다
+	다양/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+박물관을
+	박물관/ncn+을/jco
+
+둘러보고
+	두르/pvg+어/ecx+보/px+고/ecc
+
+나오면서
+	나/pvg+아/ecx+오/px+면서/ecc
+
+기프트샵에서
+	기프트샵/ncn+에서/jca
+
+본
+	보/px+ㄴ/etm
+
+오르골인데요
+	오르골인데요/ncn
+
+.
+	./sf
+
+
+참
+	참/mag
+
+이쁘지요
+	이쁘/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+오르골
+	오르골/ncn
+
+소리가
+	소리/ncn+가/jcs
+
+나는
+	나/npp+는/jxc
+
+판매대를
+	판매대/ncn+를/jco
+
+한참이나
+	한참/ncn+이/jp+나/ecs
+
+이쁘다고
+	이쁘/paa+다/ef+고/jcr
+
+구경을
+	구경/ncn+을/jco
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+일본
+	일/nnc+본/nbu
+
+산쿄사와
+	산쿄사/ncn+와/jcj
+
+150년
+	150/nnc+년/nbu
+
+전통을
+	전통/ncn+을/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+스위스오르골
+	스위스오르골/ncn
+
+전문
+	전문/ncn
+
+회사
+	회사/ncn
+
+루즈사의
+	루즈/ncn+사의/ncn
+
+명품
+	명품/ncn
+
+오르간을
+	오르간/ncn+을/jco
+
+구경도
+	구경/ncn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+구입도
+	구입/ncpa+도/jxc
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그저
+	그저/mag
+
+나에겐
+	나/npp+에겐/jca
+
+사치다
+	사치/ncn+이/jp+다/ef
+
+싶은
+	싶/px+은/etm
+
+시선으로
+	시선/ncn+으로/jca
+
+보니
+	보/px+니/ecs
+
+조금
+	조금/mag
+
+냉정해
+	냉정/ncps+하/xsms+어/ecx
+
+지네요
+	지/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+오르골
+	오르골/ncn
+
+요법이라는
+	요법/ncn+이/jp+라/ef+는/etm
+
+것이
+	것/nbn+이/jcc
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+심신의
+	심신/ncn+의/jcm
+
+항상성을
+	항상성/ncn+을/jco
+
+회복하는
+	회복/ncpa+하/xsva+는/etm
+
+간강법이라고
+	간강법/ncn+이/jp+라/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+오르골
+	오르골/ncn
+
+소리를
+	소리/ncn+를/jco
+
+듣는
+	듣/pvg+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+뇌를
+	뇌/ncn+를/jco
+
+올바르고
+	올바르/paa+고/ecc
+
+호르몬분비를
+	호르몬/ncn+분비/ncpa+를/jco
+
+정상화해서
+	정상/ncn+화해/ncpa+서/jca
+
+약을
+	약/ncn+을/jco
+
+사용하지
+	사용/ncpa+하/xsva+지/ecx
+
+않고
+	않/px+고/ecc
+
+여러가지
+	여러/nnc+가지/nbu
+
+병환을
+	병환/ncn+을/jco
+
+근본적으로
+	근본/ncn+적/ncn+으로/jca
+
+치유해가는
+	치유/ncpa+하/xsva+어/ecx+가/px+는/etm
+
+것을
+	것/nbn+을/jco
+
+목표로
+	목표/ncpa+로/jca
+
+하는
+	하/pvg+는/etm
+
+요법이라고
+	요법/ncn+이/jp+라/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+이런
+	이런/mmd
+
+효과가
+	효과/ncn+가/jcs
+
+아주
+	아주/mag
+
+이상하다
+	이상/ncps+하/xsms+어다/ecs
+
+생각되지
+	생각/ncpa+되/xsvn+지/ecx
+
+않는
+	않/px+는/etm
+
+것은
+	것/nbn+은/jxc
+
+실제
+	실제/ncn
+
+오르골
+	오르골/ncn
+
+소리를
+	소리/ncn+를/jco
+
+듣고
+	듣/pvg+고/ecc
+
+있으면
+	있/px+으면/ecs
+
+마음이
+	마음/ncn+이/jcc
+
+편안해짐을
+	편안/ncps+하/xsms+어/ecx+지/px+ㅁ/etn+을/jco
+
+느끼곤
+	느끼/pvg+곤/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+눈앞에
+	눈앞/ncn+에/jca
+
+닥친
+	닥치/pvg+ㄴ/etm
+
+복잡한
+	복잡/ncn+한/ncn
+
+생각도
+	생각/ncpa+도/jxc
+
+오르골소리에
+	오르골소리/ncn+에/jca
+
+사르르
+	사르르/mag
+
+녹아들
+	녹아들/ncn
+
+것만
+	것/nbn+만/jxc
+
+같거든요
+	같/paa+거든/ef+요/jxf
+
+.
+	./sf
+
+
+소리의
+	소리/ncn+의/jcm
+
+울림이
+	울리/pvg+ㅁ/etn+이/jcs
+
+온몸으로
+	온몸/ncn+으로/jca
+
+전달되는
+	전달/ncpa+되/xsvn+는/etm
+
+것
+	것/nbn
+
+같다고
+	같/paa+다/ef+고/jcr
+
+할까요
+	하/px+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+오르골
+	오르골/ncn
+
+소리를들을
+	소리를들/ncn+을/jco
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+일상을
+	일상/ncn+을/jco
+
+생각해보면
+	생각/ncpa+하/xsva+어/ecx+보/px+면/ecs
+
+왠지
+	왠지/mag
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+날들만
+	날들/ncn+만/jxc
+
+이어질
+	잇/pvg+어/ecx+지/px+ㄹ/etm
+
+듯한섣부른
+	듯한섣부른/ncn
+
+기대도
+	기대/pvg+어도/ecs
+
+하게
+	하/pvg+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+실제
+	실제/ncn
+
+오르골효과도
+	오르골효/ncn+과/jct+도/jxc
+
+있다고
+	있/px+다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+그
+	그/mmd
+
+효과도
+	효과/ncn+도/jxc
+
+궁금해집니다
+	궁금해지/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+잠시
+	잠시/mag
+
+들러본
+	들르/pvg+어/ecx+보/px+ㄴ/etm
+
+경주오르골소리박물관
+	경주오르골소리박물관/ncn
+
+.
+	./sf
+
+
+경주에
+	경주/ncpa+에/jca
+
+이런
+	이런/mmd
+
+박물관도
+	박물관/ncn+도/jxc
+
+있었구나
+	있/px+었/ep+구나/ef
+
+생각했던
+	생각/ncpa+하/xsva+었/ep+던/etm
+
+것에서직접
+	것에서직접/ncn
+
+소리를
+	소리/ncn+를/jco
+
+듣고
+	듣/pvg+고/ecc
+
+눈으로
+	눈/ncn+으로/jca
+
+보고
+	보/px+고/ecc
+
+와서
+	오/px+아/ecs
+
+만족했던
+	만족/ncpa+하/xsva+었/ep+던/etm
+
+시간입니다
+	시간/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+큐레이터의
+	큐레이터/ncn+의/jcm
+
+설명과
+	설명/ncpa+과/jct
+
+직접
+	직접/mag
+
+소리를
+	소리/ncn+를/jco
+
+들을
+	들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+체험가능한
+	체험/ncpa+가능/ncps+하/xsms+ㄴ/etm
+
+박물관이라
+	박물관/ncn+이/jp+라/ecs
+
+아이들과
+	아이/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+하시면
+	하/px+시/ep+면/ecs
+
+더욱좋겠구요
+	더욱좋겠구요/ncn
+
+.
+	./sf
+
+
+이왕이면
+	이왕/ncn+이/jp+면/ecs
+
+연주시간을
+	연주/ncpa+시간/ncn+을/jco
+
+맞춰서
+	맞추/pvg+어서/ecs
+
+방문을
+	방문/ncpa+을/jco
+
+하시면다양한
+	하시면다양한/ncn
+
+아름다운
+	아름답/paa+은/etm
+
+소리를
+	소리/ncn+를/jco
+
+들으실
+	들/pvg+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+관람안내
+	관람/ncpa+안내/ncpa
+
+
+평일(화~금요일)
+	평일(화~금요일)/ncn
+
+10:00~18:00
+	10/nnc+:/sp+00/nnc+~/sd+18/nnc+:/sp+00/nnc
+
+
+주말(토,
+	주/nbu+말/xsnu+(/sl+트/pvg+어/ecs+,/sp
+
+일
+	일/nnc
+
+법정공휴일)
+	법정/ncn+공휴일/ncn+)/sr
+
+10:00~19:00
+	10/nnc+:/sp+00/nnc+~/sd+19/nnc+:/sp+00/nnc
+
+
+매주
+	매주/mag
+
+월요일
+	월요일/ncn
+
+휴관입니다
+	휴관입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+관람료
+	관람료/ncn
+
+
+어른
+	어른/ncn
+
+5,000원,
+	5,000/nnc+원/nbu+,/sp
+
+청소년
+	청소년/ncn
+
+4,000원,
+	4,000/nnc+원/nbu+,/sp
+
+어린이
+	어린이/ncn
+
+3,000원
+	3,000/nnc+원/nbu
+
+
+경주시민
+	경주시민/ncn
+
+50%할인,
+	50%할인,/ncn
+
+10인이상
+	10/nnc+인/nbu+이상/xsnu
+
+20%할인
+	20%할/ncn+이/jp+ㄴ/etm
+
+
+위치:
+	위치/ncn+:/sp
+
+경주IC휴게소
+	경주IC휴게소/ncn
+
+내
+	내/nbn
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+gjorgel.
+	gjorgel/f+./sy
+
+com/
+	com/f+//sp
+
+
+경주시
+	경주시/ncn
+
+율동
+	율동/ncn
+
+64-4
+	64/nnc+-4/nnc
+
+경주에서
+	경주/ncpa+에서/jca
+
+고속도로
+	고속도로/ncn
+
+진입(경주TG
+	진입(경주TG/ncn
+
+200전)
+	200/nnc+전/nbu+)/sr
+
+
+054-775-5959
+	054/nnc+-775/nnc+-5959/nnc
+
+
+경주오르골소리박물관
+	경주오르골소리박물관/ncn
+
+경주IC휴게소
+	경주IC휴게소/ncn
+
+
+경상북도
+	경상/ncn+북/ncn+도/jxc
+
+경주시
+	경주시/ncn
+
+선도동
+	선도/ncn+동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01687617",
+	"bl01687617",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"13182394",
+	"/sl+13182394/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"경주오르골소리박물관
+	title:"경주오르골소리박물관/ncn
+
+경주IC휴게소",
+	경주IC휴게소",/ncn
+
+pointX:508251,pointY:357767}
+	pointX/f+:/sp+508251/nnc+,/sp+pointY/f+:/sp+357767/nnc+}/sr

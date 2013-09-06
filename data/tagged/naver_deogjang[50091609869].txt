@@ -1,0 +1,897 @@
+위
+	위/ncn
+
+치
+	치/nbu
+
+;
+	;/sy
+
+경기도
+	경기/ncn+도/jxc
+
+양평군
+	양평군/ncn
+
+용문면
+	용문면/ncn
+
+신점리와
+	신점리/ncn+와/jcj
+
+중원리
+	중원/ncn+리/ncn
+
+사이에
+	사이/ncn+에/jca
+
+있는산
+	있는산/ncn
+
+[도일봉864m]
+	[도일봉864m/ncn+]/sr
+
+
+가는길
+	가는길/ncn
+
+:
+	:/sp
+
+중앙선
+	중앙선/ncn
+
+전철이개통되어
+	전/xp+철이/ncn+개통/ncpa+되/xsvn+어/ecx
+
+용문산
+	용문산/ncn
+
+접근이
+	접근/ncpa+이/jcc
+
+편리해졌습니다[용산출발
+	편리해졌습니다[용산출발/ncn
+
+청량리경유
+	청량리경유/ncn
+
+용문행
+	용문행/ncn
+
+종점
+	종점/ncn
+
+
+첫차05:20:부터
+	첫차05:20:부터/ncn
+
+막차22:58:까지
+	막차22:58:/ncn+까지/jxc
+
+운행하며
+	운행/ncpa+하/xsva+며/ecc
+
+소요시간1시간35분걸린다
+	소요시간1시간35분걸린다/ncn
+
+지하철
+	지하철/ncn
+
+용문역1번출구
+	용문역1번출구/ncn
+
+나옴
+	나/pvg+아/ecx+오/px+ㅁ/etn
+
+
+용문지하철역에서
+	용문지하철역/ncn+에서/jca
+
+용문시내버스
+	용문시내버스/ncn
+
+터미널까지는
+	터미널/ncn+까지/jxc+는/jxc
+
+도보약10분거리
+	도보약10분거리/ncn
+
+용문시내버스터미널~중원리
+	용문시내버스터미널~중원리/ncn
+
+종점
+	종점/ncn
+
+
+첫차07:15:
+	첫차07:15:/ncn
+
+09:10:
+	09/nnc+:/sp+10/nnc+:/sp
+
+11:00:
+	11/nnc+:/sp+00/nnc+:/sp
+
+12:30:
+	12/nnc+:/sp+30/nnc+:/sp
+
+14:10:
+	14/nnc+:/sp+10/nnc+:/sp
+
+17:00:
+	17/nnc+:/sp+00/nnc+:/sp
+
+18:30:
+	18/nnc+:/sp+30/nnc+:/sp
+
+소요시간20분
+	소요시간20분/ncn
+
+서울지하철~용문시내버스
+	서울지하철~용문시내버스/ncn
+
+
+환승됩니다
+	환승/ncn+되/xsvn+ㅂ니다/ef
+
+
+이곳
+	이곳/npd
+
+삼거리에서
+	삼거리/ncn+에서/jca
+
+왼쪽으로
+	왼쪽/ncn+으로/jca
+
+10분정도
+	10분정/ncn+도/jxc
+
+오르시면
+	오르/pvg+시/ep+면/ecs
+
+도일봉
+	도일/ncpa+봉/ncn
+
+관리사무실
+	관리/ncn+사무/ncn+이/jp+시/ep+ㄹ/etm
+
+입구를
+	입구/ncn+를/jco
+
+만나게
+	만나/pvg+게/ecs
+
+됩니다
+	되/paa+ㅂ니다/ef
+
+
+도일봉은
+	도일/ncpa+봉/ncn+은/jxc
+
+경관이
+	경관/ncn+이/jcc
+
+뛰어나고
+	뛰/pvg+어/ecx+나/px+고/ecc
+
+아름다운
+	아름답/paa+은/etm
+
+계곡도있으므로
+	계곡/ncn+도/ncn+있/xsmn+으므로/ecs
+
+여름철에는
+	여름철/ncn+에/jca+는/jxc
+
+가족들과
+	가족/ncn+들/ncn+과/jcj
+
+물놀이를
+	물놀이/ncpa+를/jco
+
+즐길수있는
+	즐기/pvg+ㄹ/etm+수/nbn+있/xsmn+는/etm
+
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+이곳에서
+	이곳/npd+에서/jca
+
+조금만
+	조금/mag+만/jxc
+
+더가면
+	더가/ncn+이/jp+면/ecs
+
+입산통제소를
+	입산통제/ncn+소/ncn+를/jco
+
+거치게되고
+	거치/pvg+게/ecx+되/px+고/ecc
+
+20분
+	20/nnc+분/nbu
+
+정도
+	정도/ncn
+
+더가면
+	더가/ncn+이/jp+면/ecs
+
+그
+	그/mmd
+
+유명한
+	유명/ncn+한/ncn
+
+중원폭포
+	중원/ncn+폭포/ncn
+
+
+가
+	가/jcs
+
+하얀
+	하얗/paa+은/etm
+
+속살을
+	속살/ncn+을/jco
+
+드려내며
+	드리/pvg+어/ecx+내/px+며/ecc
+
+기세좋게
+	기세좋/paa+게/ecs
+
+쏟아내린다
+	쏟/pvg+아/ecx+내/px+리/ep+ㄴ다/ef
+
+
+용문산
+	용문산/ncn
+
+동쪽지척에
+	동쪽/ncn+지척/ncn+에/jca
+
+솟아있는
+	솟/pvg+아/ecx+있/px+는/etm
+
+중원산계곡
+	중원/ncn+산계/ncn+곡/ncn
+
+주차장에서15분정도
+	주차장에서15분정/ncn+도/jxc
+
+계곡길을
+	계곡/ncn+길/ncn+을/jco
+
+걸으면
+	걸/pvg+면/ecs
+
+우렁찬
+	우렁차/paa+ㄴ/etm
+
+물소리
+	물소리/ncn
+
+
+를
+	를/ncn
+
+내는3단의
+	내는3단/ncn+의/jcm
+
+중원폭포를
+	중원/ncn+폭포/ncn+를/jco
+
+만난다
+	만나/pvg+ㄴ다/ef
+
+
+수줍은
+	수줍/paa+은/etm
+
+처녀의
+	처녀/ncn+의/jcm
+
+댕기같은
+	댕기/ncn+같/xsmn+은/etm
+
+물줄기아래로
+	물줄기/ncn+아래/ncn+로/jca
+
+넓고
+	넓/paa+고/ecc
+
+깊은
+	깊/paa+은/etm
+
+못이
+	못/ncn+이/jcc
+
+드리워져있다,폭포를
+	드리워지/pvg+어/ecx+있/px+다/ef+,/sp+폭포/ncn+를/jco
+
+지나
+	지나/pvg+아/ecx
+
+짙은숲터널
+	짙은숲터널/ncn
+
+
+아래로
+	아래/ncn+로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+오솔길을
+	오솔길/ncn+을/jco
+
+걸으면
+	걸/pvg+면/ecs
+
+마치
+	마치/mag
+
+구슬을
+	구슬/ncn+을/jco
+
+쏟아
+	쏟/pvg+아/ecx
+
+붓는둣이물소리가
+	붓는둣이물소리/ncn+가/jcs
+
+요란한
+	요란/ncps+하/xsms+ㄴ/etm
+
+치마폭에
+	치마폭/ncn+에/jca
+
+도달
+	도달/ncpa
+
+
+한다
+	하/pvg+ㄴ다/ef
+
+
+도일봉은
+	도일/ncpa+봉/ncn+은/jxc
+
+해발864m
+	해발864m/ncn
+
+이
+	이/mmd
+
+산은
+	산/ncn+은/jxc
+
+경기도
+	경기/ncn+도/jxc
+
+제일의
+	제일/ncn+의/jcm
+
+명산이며
+	명산/ncn+이/jp+며/ecc
+
+한강기맥이
+	한강기맥/ncn+이/jcc
+
+마즈막
+	마즈막/ncn
+
+기를세워
+	기를세워/ncn
+
+올려
+	올리/pvg+어/ecx
+
+솟구친
+	솟구치/pvg+ㄴ/etm
+
+
+용문산
+	용문산/ncn
+
+동쪽,즉
+	동쪽,즉/ncn
+
+용의
+	용의/ncn
+
+어깨쪽에
+	어깨/ncn+쪽/ncn+에/jca
+
+자리잡은
+	자리잡/pvg+은/etm
+
+봉우리다
+	봉우리/ncn+이/jp+다/ef
+
+
+서쪽으로
+	서쪽/ncn+으로/jca
+
+용문산자락
+	용문산/ncn+자락/ncn
+
+용의
+	용의/ncn
+
+몸통이
+	몸통/ncn+이/jcc
+
+그대로
+	그대로/mag
+
+다
+	다/mag
+
+보인다,정상에있는
+	보인다,정상에있/ncn+는/jxc
+
+암봉의
+	암봉/ncn+의/jcm
+
+산
+	사/pvg+ㄴ/etm
+
+정상에
+	정상/ncn+에/jca
+
+서면
+	서/pvg+면/ecs
+
+북으로
+	북/ncn+으로/jca
+
+
+봉미산[
+	봉미산[/ncn
+
+]856m넘어
+	]856m넘어/ncn
+
+홍천강[
+	홍천강[/ncn
+
+]과
+	]/sr+과/jcj
+
+남으로
+	나/pvg+ㅁ/etn+으로/jca
+
+양평군
+	양평군/ncn
+
+일대를
+	일/nnc+대/nbu+를/jco
+
+내려다보는
+	내려다보/pvg+는/etm
+
+조망이
+	조망/ncn+이/jcc
+
+장쾌하다
+	장쾌/ncps+하/xsms+다/ef
+
+
+이
+	이/mmd
+
+산은
+	산/ncn+은/jxc
+
+모산인
+	모산/ncn+이/jp+ㄴ/etm
+
+용문산의
+	용문산/ncn+의/jcm
+
+주능선에
+	주능선/ncn+에/jca
+
+이어진
+	잇/pvg+어/ecx+지/px+ㄴ/etm
+
+능선봉
+	능선/ncn+봉/ncn
+
+중
+	중/nbn
+
+하나지만
+	하/pvg+어/ecx+나/px+지/ecx+말/px+ㄴ/etm
+
+주봉과는
+	주봉/ncn+과/jct+는/jxc
+
+멀리
+	멀리/mag
+
+떨어져
+	떨어지/pvg+어/ecx
+
+있어
+	있/px+어/ecx
+
+탁트
+	탁트/ncn
+
+
+인
+	일/pvg+ㄴ/etm
+
+경관을
+	경관/ncn+을/jco
+
+맛볼수
+	맛보/pvg+ㄹ/etm+수/nbn
+
+있다
+	있/paa+다/ef
+
+
+중원계곡
+	중원/ncn+계곡/ncn
+
+용문산
+	용문산/ncn
+
+동쪽에
+	동쪽/ncn+에/jca
+
+중원산과
+	중원/ncn+산/ncn+과/jcj
+
+도일봉
+	도일/ncpa+봉/ncn
+
+사이에있으며
+	사이에있으/ncn+이/jp+며/ecc
+
+6km에
+	6km/ncn+에/jca
+
+이르는
+	이르/paa+는/etm
+
+계곡
+	계곡/ncn
+
+곳곳에
+	곳곳/ncn+에/jca
+
+폭포와
+	폭포/ncn+와/jcj
+
+소[
+	소[/ncn
+
+]
+	]/sr
+
+
+담[
+	달/paa+ㅁ/etn+[/sl
+
+]등이
+	]/sr+등/nbu+이/jcc
+
+아기자기하게
+	아기자기/ncps+하/xsms+게/ecs
+
+펼쳐진다
+	펼치/pvg+어/ecx+지/px+ㄴ다/ef
+
+
+중원
+	중원/ncn
+
+계곡길을
+	계곡/ncn+길/ncn+을/jco
+
+걷다보면
+	걷다보/ncn+이/jp+면/ecs
+
+매와
+	매/pvg+어/ecx+오/px+아/ecx
+
+독수리가
+	독수리/ncn+가/jcs
+
+아래를
+	아래/ncn+를/jco
+
+내려다보고
+	내려다보/pvg+고/ecc
+
+있는것
+	있/px+는/etm+것/nbn
+
+같은
+	같/paa+은/etm
+
+매둥치봉과
+	매/xp+둥치/ncn+봉/ncn+과/jcj
+
+수리봉이
+	수리/ncn+봉/ncn+이/jcc
+
+
+있습니다
+	있/paa+습니다/ef
+
+
+산과
+	산/ncn+과/jcj
+
+계곡은
+	계곡/ncn+은/jxc
+
+여러분의
+	여러/nnc+분/nbu+의/jcm
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+어느
+	어느/mmd
+
+개인의
+	개인/ncn+의/jcm
+
+것은
+	것/nbn+은/jxc
+
+더욱안입니다
+	더욱안입니다/ncn
+
+우리모두
+	우리모두/ncn
+
+자연을
+	자연/ncn+을/jco
+
+아끼어
+	아끼/pvg+어/ecx
+
+후손
+	후손/ncn
+
+들
+	들/nbn
+
+
+애게
+	애/ncn+이/jp+게/ecs
+
+물려줍시다
+	물/pvg+려/ecx+줄/px+ㅂ시다/ef
+
+
+골짜기물은
+	골짜기/ncn+물/ncn+은/jxc
+
+용문면과
+	용문면/ncn+과/jcj
+
+단월면의
+	단월/ncn+면/ncn+의/jcm
+
+남부를
+	남부/ncn+를/jco
+
+감돌아
+	감돌/pvg+아/ecx
+
+흑천[
+	흑천[/ncn
+
+]과
+	]/sr+과/jcj
+
+산대천[
+	산대천[/ncn
+
+]으로
+	]/sr+으로/jca
+
+흐르며
+	흐르/pvg+며/ecc
+
+유역에
+	유역/ncn+에/jca
+
+
+경작지를
+	경작지/ncn+를/jco
+
+형성하고
+	형성/ncpa+하고/jct
+
+북한강
+	북한강/ncn
+
+지류인
+	지류/ncn+이/jp+ㄴ/etm
+
+수입천과[
+	수입천과[/ncn
+
+]과
+	]/sr+과/jcj
+
+문호천[
+	문호천[/ncn
+
+]을
+	]/sr+을/jco
+
+만나
+	만나/pvg+아/ecx
+
+남한강에
+	남한강/ncn+에/jca
+
+합류
+	합류/ncpa
+
+한
+	하/pvg+ㄴ/etm
+
+
+다
+	다/mag
+
+
+강한
+	강하/paa+ㄴ/etm
+
+호감이
+	호감/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+곳에는
+	곳/ncn+에/jca+는/jxc
+
+질투도
+	지/px+ㄹ/etm+투/nbn+도/jxc
+
+없다-워싱턴어빙-
+	없다-워싱턴어빙/ncn+-/sd
+
+
+덕무상사[
+	덕무상사[/ncn
+
+]덕을
+	]/sr+덕/ncn+을/jco
+
+닦는데는
+	닦/pvg+는데/ecs+는/jxc
+
+정해진
+	정하/pvg+어/ecx+지/px+ㄴ/etm
+
+스승이
+	스승/ncn+이/jcc
+
+따로
+	따로/mag
+
+없다는
+	없/paa+다/ef+는/etm
+
+말[
+	말[/ncn
+
+]
+	]/sr
+
+
+도일봉은
+	도일/ncpa+봉/ncn+은/jxc
+
+소나무와
+	소나무/ncn+와/jcj
+
+바위가
+	바위/ncn+가/jcs
+
+돋보이고
+	돋보이/pvg+고/ecc
+
+계곡을흐르는
+	계곡을흐르/ncn+는/jxc
+
+물과
+	물/ncn+과/jcj
+
+바위가
+	바위/ncn+가/jcs
+
+어울려
+	어울리/pvg+어/ecx
+
+산수화를
+	산수화/ncn+를/jco
+
+그린다
+	그리/pvg+ㄴ다/ef
+
+실처럼
+	실/ncn+처럼/jca
+
+
+가늘게
+	가늘/paa+게/ecs
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+사상폭포가
+	사상/ncn+폭포/ncn+가/jcs
+
+있고
+	있/px+고/ecc
+
+짧게
+	짧/paa+게/ecs
+
+쏟아지는
+	쏟/pvg+아/ecx+지/px+는/etm
+
+단폭이있고,신부를
+	단폭이있고,신부/ncn+를/jco
+
+떠올리는
+	떠올리/pvg+는/etm
+
+치마폭포도
+	치마/ncn+폭포/ncn+도/jxc
+
+있으
+	있으/ncn
+
+
+며
+	며/ncn
+
+싸리재를
+	싸리/ncn+재/ncn+를/jco
+
+넘으면
+	넘/pvg+으면/ecs
+
+이끼낀
+	이끼낀/ncn
+
+바위에서
+	바위/ncn+에서/jca
+
+좀
+	좀/mag
+
+높게
+	높/paa+게/ecs
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+세류폭포도
+	세류/ncn+폭포/ncn+도/jxc
+
+있다
+	있/paa+다/ef

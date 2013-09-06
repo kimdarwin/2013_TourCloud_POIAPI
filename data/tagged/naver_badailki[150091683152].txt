@@ -1,0 +1,545 @@
+거창군,
+	거창/ncps+군/ncn+,/sp
+
+태양광으로
+	태양광/ncn+으로/jca
+
+전기를
+	전기/ncn+를/jco
+
+얼마나
+	얼마나/mag
+
+생산하고
+	생산/ncpa+하고/jct
+
+있을까
+	있/px+을까/ef
+
+?
+	?/sf
+
+
+태양광발전시설
+	태양광/ncn+발전시설/ncn
+
+현황판
+	현황/ncn+판/ncn
+
+설치
+	설치/ncpa
+
+
+거창군(군수
+	거창군(군수/ncn
+
+이홍기)에서는
+	이홍기)에서/ncn+는/jxc
+
+정부에서
+	정부/ncn+에서/jca
+
+강력하게
+	강력/ncps+하/xsms+게/ecs
+
+추진
+	추진/ncpa
+
+중인
+	중/nbn+이/jp+ㄴ/etm
+
+저탄소
+	저탄소/ncn
+
+녹색성장에
+	녹색/ncn+성장/ncpa+에/jca
+
+동참하고
+	동참/ncpa+하고/jcj
+
+
+청사
+	청사/ncn
+
+에너지
+	에너지/ncn
+
+사용량을
+	사용량/ncn+을/jco
+
+절감하기
+	절감/ncpa+하/xsva+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+지난
+	지나/pvg+ㄴ/etm
+
+7월
+	7/nnc+월/nbu
+
+1일부터
+	1/nnc+일/nbu+부터/jxc
+
+가동
+	가동/ncpa
+
+중인
+	중인/ncn
+
+
+태양광
+	태양광/ncn
+
+발전시설의
+	발전시설/ncn+의/jcm
+
+현황판을
+	현황/ncn+판/ncn+을/jco
+
+청사
+	청사/ncn
+
+현관
+	현관/ncn
+
+입구에
+	입구/ncn+에/jca
+
+제작해
+	제작/ncpa+하/xsva+어/ecx
+
+설치했다
+	설치/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+홍보
+	홍보/ncpa
+
+현황판은
+	현황/ncn+판/ncn+은/jxc
+
+170
+	170/nnc
+
+100
+	100/nnc
+
+크기로
+	크/paa+기/etn+로/jca
+
+태양광
+	태양광/ncn
+
+발전
+	발전/ncpa
+
+전력
+	전력/ncn
+
+흐름도,
+	흐르/pvg+ㅁ/etn+도/jxc+,/sp
+
+발전용량,
+	발전/ncpa+용량/ncn+,/sp
+
+
+현재
+	현재/mag
+
+발전량,
+	발전량/ncn+,/sp
+
+금일발전량,
+	금일/ncn+발전량/ncn+,/sp
+
+금월발전량,
+	금월발전량,/ncn
+
+일사량,
+	일/nnc+사/nnc+량/nbu+,/sp
+
+모듈
+	모듈/ncn
+
+표면
+	표/ncn+이/jp+면/ecs
+
+외부온도,
+	외부/ncn+온도/ncn+,/sp
+
+
+이산화탄소
+	이산화탄소/ncn
+
+배출
+	배출/ncpa
+
+절감량,
+	절감량,/ncn
+
+연간누적발전량을
+	연간/ncn+누적/ncpa+발전량/ncn+을/jco
+
+표시해
+	표시/ncn+해/ncn
+
+태양광
+	태양광/ncn
+
+발전에
+	발전/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+
+상세현황을
+	상세/ncn+현황/ncn+을/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있게
+	있/px+게/ecs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+이는
+	이/npd+는/jxc
+
+환경
+	환경/ncn
+
+친화적이며
+	친화/ncpa+적/ncn+이/jp+며/ecc
+
+청정
+	청정/ncpa
+
+신재생
+	신/xp+재생/ncpa
+
+에너지인
+	에너지/ncn+이/jp+ㄴ/etm
+
+태양광
+	태양광/ncn
+
+발전시설에
+	발전시설/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+
+홍보와
+	홍보/ncpa+와/jct
+
+더불어
+	더불/pvg+어/ecx
+
+관심도를
+	관심/ncn+도/ncn+를/jco
+
+높이는
+	높이/pvg+는/etm
+
+계기가
+	계기/ncn+가/jcs
+
+되어
+	되/pvg+어/ecx
+
+태양광
+	태양광/ncn
+
+확대
+	확대/ncpa
+
+보급에도
+	보급/ncpa+에/jca+도/jxc
+
+기여할
+	기이/pvg+어/ecx+하/px+ㄹ/etm
+
+것으로
+	것/nbn+으로/jca
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+특히,
+	특히,/ncn
+
+태양광
+	태양광/ncn
+
+발전용량
+	발전/ncpa+용량/ncn
+
+79.
+	79./nnc
+
+2kWp는
+	2kWp/ncn+는/jxc
+
+32W형광등
+	32W형광등/ncn
+
+2,475개를
+	2,475/nnc+개/nbu+를/jco
+
+켤
+	켜/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+용량이고,
+	용량/ncn+이고/jcj+,/sp
+
+
+소나무
+	소나무/ncn
+
+묘목
+	묘목/ncn
+
+52그루를
+	52/nnc+그루/nbu+를/jco
+
+심는
+	심/pvg+는/etm
+
+효과가
+	효과/ncn+가/jcs
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+연간기준
+	연간기준/ncn
+
+일일
+	일/ncn+이/jp+ㄹ/etm
+
+평균
+	평균/ncpa
+
+316.
+	316./nnc
+
+8kWh의
+	8kWh/ncn+의/jcm
+
+전력이
+	전력/ncn+이/jcc
+
+생산되어
+	생산/ncpa+되/xsvn+어/ecs
+
+
+청사에
+	청사/ncn+에/jca
+
+공급되므로
+	공급/ncpa+되/xsvn+므로/ecs
+
+군청사
+	군청사/ncn
+
+일일
+	일/ncn+이/jp+ㄹ/etm
+
+평균
+	평균/ncpa
+
+전기사용량이
+	전기/ncn+사용량/ncn+이/jcc
+
+3,617kWh인
+	3,617kWh/ncn+이/jp+ㄴ/etm
+
+점을
+	점/nbu+을/jco
+
+고려하면
+	고려/ncpa+하/xsva+면/ecs
+
+
+청사
+	청사/ncn
+
+일일전기사용량의
+	일일/ncn+전기/ncn+사용량/ncn+의/jcm
+
+8.
+	8./nnc
+
+7%가량을
+	7/nnc+%/su+가량/xsnu+을/jco
+
+절감하게
+	절감/ncpa+하/xsva+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+군
+	굴/pvg+ㄴ/etm
+
+관계자는
+	관계자/ncn+는/jxc
+
+향후
+	향후/mag
+
+지속적으로
+	지속/ncpa+적/ncn+으로/jca
+
+에너지
+	에너지/ncn
+
+사용을
+	사용/ncpa+을/jco
+
+합리화하고
+	합리/ncn+화/ncn+하고/jct
+
+신재생에너지
+	신/xp+재생/ncpa+에너지/ncn
+
+확대
+	확대/ncpa
+
+보급
+	보급/ncpa
+
+및
+	및/maj
+
+
+미래
+	미래/ncn
+
+지향적인
+	지향/ncpa+적/ncn+이/jp+ㄴ/etm
+
+청정
+	청정/ncpa
+
+공공청사로
+	공공/ncn+청사/ncn+로/jca
+
+거듭나기
+	거듭나/pvg+기/etn
+
+위해
+	위하/pvg+어/ecs
+
+
+하반기에는
+	하반기/ncn+에/jca+는/jxc
+
+마리면
+	마리/nbu+이/jp+면/ecs
+
+및
+	및/maj
+
+남하면
+	남하/ncpa+이/jp+면/ecs
+
+청사에도
+	청사/ncn+에/jca+도/jxc
+
+각각
+	각각/mag
+
+13kWp의
+	13kWp/ncn+의/jcm
+
+태양광
+	태양광/ncn
+
+발전시설을
+	발전시설/ncn+을/jco
+
+설치하기로
+	설치/ncpa+하/xsva+기/etn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+출처
+	출처/ncn
+
+:
+	:/sp
+
+거창군청
+	거창/ncps+군청/ncn
+
+[이예진
+	[이예진/ncn
+
+그린리포터/녹색뉴스포털
+	그린리포터/녹색뉴스포털/ncn
+
+GT
+	GT/f
+
+그린투데이
+	그린/ncn+투데이/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+giti.
+	giti/f+./sy
+
+kr
+	kr/f
+
+배포/전재
+	배포/ncpa+//sp+전재/ncn
+
+환영]해피데이
+	환영/ncpa+]/sr+해피/ncpa+데이/ncn
+
+jinny10323@naver.
+	jinny10323@naver./ncn
+
+com
+	com/f

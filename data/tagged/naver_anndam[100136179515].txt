@@ -1,0 +1,4625 @@
+국립경주박물관
+	국립/ncn+경주박물관/ncn
+
+-우물에
+	-/sd+우물/ncn+에/jca
+
+빠진
+	빠지/pvg+ㄴ/etm
+
+통일신라
+	통일신라/ncn
+
+동물들
+	동물/ncn+들/ncn
+
+특별전
+	특별전/ncn
+
+/경주박물관
+	//sp+경주박물관/ncn
+
+특별전시
+	특별전/ncn+시/ncn
+
+/경주가볼만한곳
+	/경주가볼만한곳/ncn
+
+
+국립경주박물관에서
+	국립/ncn+경주박물관/ncn+에서/jca
+
+열리는
+	열리/pvg+는/etm
+
+특별전
+	특별전/ncn
+
+"우물에
+	"/sl+우물/ncn+에/jca
+
+빠진
+	빠지/pvg+ㄴ/etm
+
+통일신라
+	통일신라/ncn
+
+동물들"
+	동물/ncn+들/xsncc+"/sl
+
+전시는
+	전시/ncn+는/jxc
+
+통일신라
+	통일신라/ncn
+
+우물에서
+	우물/ncn+에서/jca
+
+확인된
+	확인/ncpa+되/xsvn+ㄴ/etm
+
+다양한
+	다양/ncn+한/ncn
+
+종류의
+	종류/ncn+의/jcm
+
+동물뼈와
+	동물/ncn+뼈/ncn+와/jcj
+
+아이뼈를
+	아이/ncn+뼈/ncn+를/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+최초의
+	최초/ncn+의/jcm
+
+전시입니다
+	전시/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+경주가볼만한
+	경주가볼만한/ncn
+
+곳으로
+	곳/ncn+으로/jca
+
+꼽는
+	꼽/pvg+는/etm
+
+경주박물관
+	경주박물관/ncn
+
+.
+	./sf
+
+
+국립박물관
+	국립박물관/ncn
+
+부지에서
+	부지/ncn+에서/jca
+
+확인된
+	확인/ncpa+되/xsvn+ㄴ/etm
+
+2개의
+	2/nnc+개/nbu+의/jcm
+
+우물에서
+	우물/ncn+에서/jca
+
+제의용
+	제의/ncpa+용/ncn
+
+토기
+	토/ncn+이/jp+기/etn
+
+외에
+	외/nbn+에/jca
+
+많은
+	많/paa+은/etm
+
+병과
+	병/nbu+과/jcj
+
+항아리,
+	항아리/ncn+,/sp
+
+개,
+	개/nbu+,/sp
+
+고양이,
+	고양이/ncn+,/sp
+
+소,
+	소/ncn+,/sp
+
+상어,
+	상어/ncn+,/sp
+
+숭어,
+	숭어/ncn+,/sp
+
+꿩,
+	꿩/ncn+,/sp
+
+까마귀
+	까마귀/ncn
+
+등
+	등/nbu
+
+다양한
+	다양/ncn+한/ncn
+
+종류의
+	종류/ncn+의/jcm
+
+뼈들이
+	뼈/ncn+들/xsncc+이/jcc
+
+출토되어서
+	출토/ncpa+되/xsvn+어서/ecs
+
+주목을
+	주목/ncpa+을/jco
+
+받고
+	받/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+외에도
+	외/nbn+에/jca+도/jxc
+
+성별을
+	성별/ncn+을/jco
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+7~10세
+	7/nnc+~/sd+10/nnc+세/nnc
+
+가량의
+	가량/nbu+의/jcm
+
+어린아이
+	어린아이/ncn
+
+뼈도
+	뼈/ncn+도/jxc
+
+있어서
+	있/px+어서/ecs
+
+특별전을
+	특별전/ncn+을/jco
+
+찾는
+	찾/pvg+는/etm
+
+관람객들을
+	관람객/ncn+들/ncn+을/jco
+
+놀라게
+	놀라/pvg+게/ecs
+
+하였습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+신라시대
+	신라시대/ncn
+
+우물에서는
+	우물/ncn+에서/jca+는/jxc
+
+어떤
+	어떤/mmd
+
+일이
+	일/ncn+이/jcc
+
+있었던
+	있/paa+었/ep+던/etm
+
+건지
+	것/nbn+이/jp+ㄴ지/ecs
+
+더욱
+	더욱/mag
+
+궁금증을
+	궁금증/ncn+을/jco
+
+자아내게
+	자/pvg+아/ecx+내/px+게/ecs
+
+한
+	하/pvg+ㄴ/etm
+
+전시로
+	전시/ncn+로/jca
+
+9월
+	9/nnc+월/nbu
+
+13일까지
+	13/nnc+일/nbu+까지/jxc
+
+연장
+	연장/ncpa
+
+전시한다고
+	전시/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+경주박물관에서
+	경주박물관/ncn+에서/jca
+
+과거로의
+	과거/ncn+로/jca+의/jcm
+
+여행을
+	여행/ncpa+을/jco
+
+떠나보세요
+	떠나/pvg+아/ecx+보/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+(입장료
+	(/sl+입장료/ncn
+
+무료)
+	무료/ncn+)/sr
+
+
+국립경주박물관
+	국립/ncn+경주박물관/ncn
+
+입구
+	입구/ncn
+
+
+그
+	그/mmd
+
+날,
+	나/px+ㄹ/etm+,/sp
+
+우물에
+	우물/ncn+에/jca
+
+무슨
+	무슨/mmd
+
+일이
+	일/ncn+이/jcc
+
+있었을까
+	있/px+었/ep+을까/ef
+
+?
+	?/sf
+
+
+어린
+	어리/paa+ㄴ/etm
+
+아이가
+	아이/ncn+가/jcs
+
+우물
+	우물/ncn
+
+속에
+	속/ncn+에/jca
+
+...
+	.../se
+
+
+경주여행을
+	경주/ncpa+여행/ncpa+을/jco
+
+온
+	오/px+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+조카들
+	조카/ncn+들/ncn
+
+체험학습
+	체험학습/ncn
+
+겸사겸사
+	겸사/ncpa+겸사/ncpa
+
+국립경주박물에
+	국립/ncn+경주/ncpa+박물/ncn+에/jca
+
+들러보기로
+	들르/pvg+어/ecx+보/px+기/etn+로/jca
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+마침
+	마침/mag
+
+특별전이
+	특별전/ncn+이/jcc
+
+열리고
+	열리/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+기간이라
+	기간/ncn+이/jp+라/ecs
+
+그곳부터
+	그곳/ncn+부터/jxc
+
+둘러보았어요
+	두르/pvg+어/ecx+보/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+"우물에
+	"/sl+우물/ncn+에/jca
+
+빠진
+	빠지/pvg+ㄴ/etm
+
+통일신라
+	통일신라/ncn
+
+동굴들"
+	동굴/ncn+들/xsncc+"/sl
+
+특별전
+	특별전/ncn
+
+제목부터가
+	제목/ncn+부터/jca+가/jcc
+
+관심을
+	관심/ncn+을/jco
+
+끌만하지요
+	끌/pvg+ㄹ/etm+만/nbs+하/xsms+지/ef+요/jxf
+
+.
+	./sf
+
+
+언제
+	언제/npd
+
+이런
+	이런/mmd
+
+것들이
+	것들/ncn+이/jcc
+
+출토되었었지
+	출토/ncpa+되/xsvn+었었/ep+지/ef
+
+..
+	./sf+./sf
+
+
+소식도
+	소식/ncn+도/jxc
+
+몰랐는데
+	모르/pvg+아/ep+ㄴ데/ecs
+
+6월부터
+	6/nnc+월/nbu+부터/jxc
+
+전시를했다니
+	전시를했다/ncn+이/jp+니/ecs
+
+이미
+	이미/mag
+
+많은
+	많/paa+은/etm
+
+시간이
+	시간/ncn+이/jcc
+
+흘렀더군요
+	흐르/pvg+었/ep+더군/ef+요/jxf
+
+.
+	./sf
+
+
+국립경주박물관은
+	국립/ncn+경주박물관/ncn+은/jxc
+
+학교다닐때
+	학교다닐때/ncn
+
+찰흙만들기대회
+	찰흙/ncn+만들기/ncn+대회/ncn
+
+하느라고
+	하/pvg+느라고/ecs
+
+한번
+	한/nnc+번/nbu
+
+왔었고
+	오/px+아/ep+고/ecc
+
+이후에도
+	이후/ncn+에/jca+도/jxc
+
+전시회관람하러
+	전시회관람/ncpa+하/xsva+러/ecs
+
+몇번
+	몇/nnc+번/nbu
+
+왔을
+	오/px+아/ep+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+최근에는
+	최근/ncn+에/jca+는/jxc
+
+이번이라
+	이/nnc+번/nbu+이/jp+라/ecs
+
+꽤
+	꽤/mag
+
+오랜만에
+	오랜만/ncn+에/jca
+
+들리는
+	들리/pvg+는/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+경주에
+	경주/ncpa+에/jca
+
+당연히
+	당연히/mag
+
+있어야할
+	있/px+어야/ecx+하/px+ㄹ/etm
+
+거
+	것/nbn
+
+같은
+	같/paa+은/etm
+
+국립박물관
+	국립박물관/ncn
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+신라의
+	신/xp+라/ncn+의/jcm
+
+문화유산을
+	문화/ncn+유산/ncn+을/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+살필
+	살피/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+한국의
+	한국의/ncn
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+박물관입니다
+	박물관/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+1945년
+	1945/nnc+년/nbu
+
+국립박물관으로
+	국립박물관/ncn+으로/jca
+
+출발하여
+	출발/ncpa+하/xsva+어/ecx
+
+1975년
+	1975/nnc+년/nbu
+
+현재의
+	현재/ncn+의/jcm
+
+위치로
+	위치/ncn+로/jca
+
+이전하였다고
+	이전/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+상설전시관으로는
+	상설전시관/ncn+으로/jca+는/jxc
+
+고고관,
+	고고/ncn+관/ncn+,/sp
+
+미술관,
+	미술관/ncn+,/sp
+
+안압지관
+	안압지/ncn+관/ncn
+
+등의
+	등/nbu+의/jcm
+
+3관이
+	3/nnc+관/nbu+이/jcc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+우물에
+	우물/ncn+에/jca
+
+빠진
+	빠지/pvg+ㄴ/etm
+
+통일신라
+	통일신라/ncn
+
+동물들
+	동물/ncn+들/ncn
+
+전시가
+	전시/ncn+가/jcs
+
+이뤄지는
+	이루/pvg+어/ecx+지/px+는/etm
+
+특별전시관이
+	특별/ncps+전시관/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+그외에도
+	그/npp+외/xsnx+에/jca+도/jxc
+
+야외
+	야외/ncn
+
+정원에
+	정원/ncn+에/jca
+
+성덕대왕신종,
+	성덕대왕신종/ncn+,/sp
+
+고선사
+	고선사/ncn
+
+터
+	터/nbn
+
+석탑
+	석탑/ncn
+
+등
+	등/nbu
+
+여러
+	여러/mma
+
+유물이
+	유물/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+우선
+	우선/mag
+
+특별전을
+	특별전/ncn+을/jco
+
+보기
+	보/px+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+전시관으로
+	전시관/ncn+으로/jca
+
+향하는
+	향하/pvg+는/etm
+
+길.
+	길/ncn+./sf
+
+.
+	./sf
+
+
+조금씩
+	조금씩/ncn
+
+빗방물이
+	빗방물/ncn+이/jcc
+
+떨어져서
+	떨어지/pvg+어서/ecs
+
+야외로
+	야외/ncn+로/jca
+
+다니기는
+	다니/pvg+기/etn+는/jxc
+
+힘들었구요
+	힘들었구요/ncn
+
+.
+	./sf
+
+
+고고관을
+	고고/ncn+관/ncn+을/jco
+
+통해서
+	통하/pvg+어서/ecs
+
+특별전시관으로
+	특별/ncps+전시관/ncn+으로/jca
+
+이동을
+	이/nnc+동/nbu+을/jco
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+10여년전
+	10/nnc+여/xsnu+년/nbu+전/xsnx
+
+국립경주박물관
+	국립/ncn+경주박물관/ncn
+
+관내에서
+	관내/ncn+에서/jca
+
+통일신라시대의
+	통일신라시대/ncn+의/jcm
+
+우물2기가
+	우물2기/ncn+가/jcs
+
+발굴되었다고
+	발굴/ncpa+되/xsvn+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그곳에서
+	그곳/ncn+에서/jca
+
+토기,
+	토/ncn+이/jp+기/etn+,/sp
+
+목기,
+	목기/ncn+,/sp
+
+금속기
+	금속/ncn+기/ncn
+
+등의
+	등/nbu+의/jcm
+
+유물과
+	유물/ncn+과/jct
+
+함께
+	함께/mag
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+종의
+	종/ncn+의/jcm
+
+동물뼈가
+	동물/ncn+뼈/ncn+가/jcs
+
+발견되었구요
+	발견되었구요/ncn
+
+.
+	./sf
+
+
+그에
+	그/npp+에/jca
+
+더해
+	더하/paa+어/ecx
+
+어린아이
+	어린아이/ncn
+
+뼈도
+	뼈/ncn+도/jxc
+
+함께
+	함께/mag
+
+나왔다는
+	나/pvg+아/ecx+오/px+아/ep+다/ef+는/etm
+
+사실입니다
+	사실/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+특별전은
+	특별전/ncn+은/jxc
+
+그
+	그/mmd
+
+어린아이뼈와
+	어린아이/ncn+뼈/ncn+와/jcj
+
+동물뼈를
+	동물/ncn+뼈/ncn+를/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+당시의
+	당시/ncn+의/jcm
+
+조사
+	조사/ncn
+
+내용을
+	내용/ncn+을/jco
+
+처럼으로
+	처럼/ncn+으로/jca
+
+공개하는
+	공개/ncpa+하/xsva+는/etm
+
+전시회입니다
+	전시회/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+왜
+	왜/mag
+
+우물
+	우물/ncn
+
+속에
+	속/ncn+에/jca
+
+10살가량의
+	10/nnc+살/nbu+가량/xsnu+의/jcm
+
+어린아기가
+	어린/ncn+아기/ncn+가/jcs
+
+있었을까
+	있/px+었/ep+을까/ef
+
+.
+	./sf
+
+
+왜
+	왜/mag
+
+우물에
+	우물/ncn+에/jca
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+동물들의
+	동물/ncn+들/ncn+의/jcm
+
+뼈가
+	뼈/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+것일까
+	것/nbn+이/jp+ㄹ까/ef
+
+.
+	./sf
+
+
+우물에
+	우물/ncn+에/jca
+
+무슨일이
+	무슨일/ncn+이/jcc
+
+일어났던
+	일어나/pvg+아/ep+ㄴ/etm
+
+것인가
+	것/nbn+이/jp+ㄴ가/ef
+
+..
+	./sf+./sf
+
+
+보면서도
+	보/px+면서/ecs+도/jxc
+
+더욱
+	더욱/mag
+
+궁금증을
+	궁금증/ncn+을/jco
+
+자아내게
+	자/pvg+아/ecx+내/px+게/ecs
+
+했던
+	하/px+었/ep+던/etm
+
+전시였습니다
+	전시/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+특별전에
+	특별전/ncn+에/jca
+
+관심을
+	관심/ncn+을/jco
+
+가져주는
+	가/pvg+아/ecx+지/px+어/ecx+주/px+는/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+기존
+	기존/ncpa
+
+전시기간을
+	전시기간/ncn+을/jco
+
+연장하여
+	연장/ncpa+하/xsva+어/ecx
+
+9월13일까지
+	9월13일까지/ncn
+
+관람이
+	관람/ncpa+이/jcc
+
+가능하다고
+	가능/ncps+하/xsms+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+추석연휴동안
+	추석/ncn+연휴/ncn+동안/ncn
+
+전시한다고하니
+	전시한다고하니/ncn
+
+경주고향을
+	경주/ncpa+고향/ncn+을/jco
+
+두신
+	두/pvg+시/ep+ㄴ/etm
+
+분들
+	불/pvg+ㄴ/etm+들/nbn
+
+아이들과
+	아이/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+좋은
+	좋/paa+은/etm
+
+전시회의
+	전시회/ncn+의/jcm
+
+기회
+	기회/ncn
+
+놓치지
+	놓치/pvg+지/ecx
+
+말길
+	말길/ncn
+
+바랍니다
+	바라/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+국립경주박물관
+	국립/ncn+경주박물관/ncn
+
+입장
+	입장/ncpa
+
+무료인거
+	무료인거/ncn
+
+아시죠
+	알/pvg+시/ep+죠/ef
+
+?
+	?/sf
+
+
+^^
+	^/sy+^/sy
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-마음이
+	여행/ncpa+이야기/ncpa+-/sd+마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+(여행일:
+	(/sl+여행/ncpa+이/jp+ㄹ/etm+:/sp
+
+2011.
+	2011./nnc
+
+08.
+	08./nnc
+
+16)
+	16/nnc+)/sr
+
+
+국립경주박물관
+	국립/ncn+경주박물관/ncn
+
+...
+	.../se
+
+
+조금
+	조금/mag
+
+흐린
+	흐리/paa+ㄴ/etm
+
+날이지만
+	날/ncn+이/jp+지만/ecs
+
+아직은
+	아직/mag+은/jxc
+
+빗방울이
+	빗방울/ncn+이/jcc
+
+떨어지지
+	떨어지/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+연일
+	연/ncn+이/jp+ㄹ/etm
+
+폭염에
+	폭염/ncn+에/jca
+
+경주
+	경주/ncpa
+
+더위는
+	더위/ncn+는/jxc
+
+여전하구나
+	여전/ncps+하구/ncn+나/jcj
+
+느끼게
+	느끼/pvg+게/ecs
+
+해주었던
+	하/pvg+어/ecx+주/px+었/ep+던/etm
+
+날씨였는데요
+	날씨/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+날이
+	날/ncn+이/jcc
+
+흐려서
+	흐리/pvg+어서/ecs
+
+조금
+	조금/mag
+
+낫습니다
+	낫/paa+습니다/ef
+
+.
+	./sf
+
+
+오른쪽
+	오르/pvg+ㄴ/etm+쪽/nbn
+
+보이는
+	보이/pvg+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+매표소인데요
+	매표소인데요/ncn
+
+.
+	./sf
+
+
+입장확인을
+	입장/ncpa+확인/ncpa+을/jco
+
+하는
+	하/pvg+는/etm
+
+거라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+해야하나요
+	하/pvg+어야/ecx+하/px+나/ef+요/jxf
+
+.
+	./sf
+
+
+한두장정도로
+	한두장정도/ncn+로/jca
+
+무료
+	무료/ncn
+
+입장권을
+	입장권/ncn+을/jco
+
+끊어줍니다
+	끊/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그러면
+	그러면/maj
+
+입장하면서
+	입장/ncpa+하/xsva+면서/ecc
+
+귀퉁이
+	귀퉁이/ncn
+
+뜯어내구요
+	뜯어내구요/ncn
+
+.
+	./sf
+
+
+일반
+	일반/ncn
+
+상설전시는
+	상설/ncpa+전시/ncn+는/jxc
+
+무료인걸
+	무료/ncn+인걸/ncn
+
+알았지만
+	알/pvg+아/ep+지/ecx+말/px+ㄴ/etm
+
+특별전은
+	특별전/ncn+은/jxc
+
+입장료가
+	입장료/ncn+가/jcs
+
+있다고
+	있/px+다/ef+고/jcr
+
+들었는데
+	들/pvg+었/ep+는데/ecs
+
+이번
+	이/nnc+번/nbu
+
+특별전은
+	특별전/ncn+은/jxc
+
+무료관람이
+	무료/ncps+관람/ncpa+이/jcc
+
+가능하다고
+	가능/ncps+하/xsms+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+입구에
+	입구/ncn+에/jca
+
+박물관
+	박물관/ncn
+
+위치를
+	위치/ncn+를/jco
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+안내판이
+	안내판/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+2번인
+	2/nnc+번/nbu+이/jp+ㄴ/etm
+
+특별전시가
+	특별전/ncn+시/ncn+가/jcs
+
+열리고
+	열리/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+곳이구요
+	곳이구요/ncn
+
+.
+	./sf
+
+
+1번이
+	1/nnc+번/nbu+이/jcc
+
+고고관,
+	고고/ncn+관/ncn+,/sp
+
+4번은
+	4/nnc+번/nbu+은/jxc
+
+성덕대왕신종이
+	성덕대왕신종/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+박물관에서
+	박물관/ncn+에서/jca
+
+가장
+	가장/mag
+
+인기가
+	인기/ncn+가/jcs
+
+좋은
+	좋/paa+은/etm
+
+곳이지요
+	곳/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+계속
+	계속/mag
+
+뎅뎅
+	뎅뎅/ncn
+
+에밀레종소리가
+	에밀레종소리/ncn+가/jcs
+
+스피커로
+	스피커/ncn+로/jca
+
+들려옵니다
+	들리/pvg+어/ecx+오/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+주변에
+	주변/ncn+에/jca
+
+배롱나무꽃이
+	배롱나무/ncn+꽃/ncn+이/jcc
+
+붉게
+	붉/paa+게/ecs
+
+피어서
+	피/pvg+어서/ecs
+
+분위기가
+	분위기/ncn+가/jcs
+
+더
+	더/mag
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+빗방울이
+	빗방울/ncn+이/jcc
+
+후두둑
+	후두둑/mag
+
+...
+	.../se
+
+
+고고관
+	고고/ncn+관/ncn
+
+건물을
+	건물/ncn+을/jco
+
+지나서
+	지나/pvg+아/ecx
+
+뒷편
+	뒷편/ncn
+
+특별전시관으로
+	특별/ncps+전시관/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+중입니다
+	중/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+비
+	비/ncn
+
+안맞으려고
+	안맞으려/ncn+이/jp+고/ecc
+
+후다닥
+	후다닥/ncn
+
+뛰고
+	뛰/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+모녀
+	모녀/ncn
+
+...
+	.../se
+
+
+그런다고
+	그러/pvd+ㄴ다/ef+고/jcr
+
+빗사이로
+	빗사이/ncn+로/jca
+
+갈
+	가/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+것도
+	것/nbn+도/jxc
+
+아니면서
+	아니/paa+면서/ecc
+
+..
+	./sf+./sf
+
+
+자고로
+	자고/ncn+로/jca
+
+양반은
+	양반/ncn+은/jxc
+
+호들갑스레
+	호들갑스레/ncn
+
+뛰지
+	뛰/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+법.
+	법/ncn+./sf
+
+..
+	./sf+./sf
+
+
+비를
+	비/ncn+를/jco
+
+다
+	다/mag
+
+맞고
+	맞/pvg+고/ecc
+
+천천히
+	천천히/mag
+
+걸어갔습니다
+	걷/pvg+어/ecx+가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+전시관
+	전시관/ncn
+
+내부
+	내부/ncn
+
+한눈에
+	한눈/ncn+에/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+단층으로
+	단층/ncn+으로/jca
+
+한공간에서
+	한공간/ncn+에서/jca
+
+다
+	다/mag
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+규모가
+	규모/ncn+가/jcs
+
+아주
+	아주/mag
+
+큰
+	크/paa+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+아닌데요
+	아닌데요/ncn
+
+.
+	./sf
+
+
+내부는
+	내부/ncn+는/jxc
+
+꽉차있을
+	꽉차있/ncn+을/jco
+
+거
+	것/nbn
+
+같지요
+	같/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+사진을
+	사진/ncn+을/jco
+
+플래시,
+	플래시/ncn+,/sp
+
+삼각대만
+	삼각대/ncn+만/jxc
+
+사용하지
+	사용/ncpa+하/xsva+지/ecx
+
+않으면
+	않/px+으면/ecs
+
+맘껏
+	맘껏/mag
+
+...
+	.../se
+
+
+도대체
+	도대체/mag
+
+우물에
+	우물/ncn+에/jca
+
+무슨
+	무슨/mmd
+
+일이
+	일/ncn+이/jcc
+
+있었던
+	있/paa+었/ep+던/etm
+
+건지
+	것/nbn+이/jp+ㄴ지/ecs
+
+궁금합니다
+	궁금/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+1,200년
+	1,200/nnc+년/nbu
+
+전의
+	전/nbn+의/jcm
+
+어느날
+	어느날/npd
+
+...
+	.../se
+
+
+무슨일이
+	무슨일/ncn+이/jcc
+
+벌어졌던
+	벌/pvg+어/ecx+지/px+었/ep+던/etm
+
+건지
+	것/nbn+이/jp+ㄴ지/ecs
+
+...
+	.../se
+
+
+그
+	그/mmd
+
+궁금증을
+	궁금증/ncn+을/jco
+
+풀
+	풀/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을지
+	있/px+을/etm+지/nbn
+
+그것도
+	그것/npd+도/jxc
+
+의문이
+	의문/ncpa+이/jcc
+
+들긴
+	들긴/ncn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+들어오는길
+	들어오는길/ncn
+
+벽면에
+	벽면/ncn+에/jca
+
+영상물을
+	영상물/ncn+을/jco
+
+관람할
+	관람/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+되어
+	되/pvg+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+가운데
+	가운데/ncn
+
+의자가
+	의자/ncn+가/jcs
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+사면으로
+	사면/ncn+으로/jca
+
+우물
+	우물/ncn
+
+2기에서
+	2/nnc+기/nbu+에서/jca
+
+발굴된
+	발굴/ncpa+되/xsvn+ㄴ/etm
+
+물품이
+	물품/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+우물이라고하면
+	우물/ncn+이라/jca+이/jp+고/ecx+하/px+면/ecs
+
+보통
+	보통/mag
+
+물을
+	물/ncn+을/jco
+
+얻기
+	얻/pvg+기/etn
+
+위해서
+	위하/pvg+어서/ecs
+
+만든
+	만들/pvg+ㄴ/etm
+
+인공시설이라는
+	인공/ncn+시설/ncpa+이/jp+라/ef+는/etm
+
+것이
+	것/nbn+이/jcc
+
+대표적이잖아요
+	대표/ncpa+적/ncn+이/jp+잖아요/ef
+
+.
+	./sf
+
+
+땅을
+	땅/ncn+을/jco
+
+깊이
+	깊이/mag
+
+파고돌을
+	파고/ncn+돌/ncn+을/jco
+
+차곡차곡
+	차곡차곡/mag
+
+쌓아서
+	쌓/pvg+아/ecx
+
+올리는석조우물이
+	올리는석조우물/ncn+이/jcc
+
+대표적인데요
+	대표적인데요/ncn
+
+.
+	./sf
+
+
+간혹
+	간혹/mag
+
+토기,
+	토/ncn+이/jp+기/etn+,/sp
+
+나무로
+	나무/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+우물도
+	우물/ncn+도/jxc
+
+있다고합니다
+	있/px+다고/ecx+하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+우물을
+	우물/ncn+을/jco
+
+만들때는
+	만들/pvg+ㄹ/etm+때/nbn+는/jxc
+
+깨끗한
+	깨끗/ncps+하/xsms+ㄴ/etm
+
+물을
+	물/ncn+을/jco
+
+공급받기
+	공급/ncpa+받/xsva+기/etn
+
+위해서
+	위하/pvg+어서/ecs
+
+가장밑바닥에병이나
+	가장밑바닥에병/ncn+이나/jcj
+
+항아리
+	항아리/ncn
+
+등을
+	등/nbu+을/jco
+
+넣어둔다고
+	넣/pvg+어/ecx+두/px+ㄴ다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+토기나
+	토/ncn+이/jp+기/etn+나/jcj
+
+기와
+	기/ncn+와/jcj
+
+외에도
+	외/nbn+에/jca+도/jxc
+
+소뼈,
+	소뼈,/ncn
+
+말뼈,
+	말뼈/ncn+,/sp
+
+복숭아씨가발견되는
+	복숭아씨가발견되/ncn+는/jxc
+
+경우도
+	경우/ncn+도/jxc
+
+있긴
+	있긴/ncn
+
+하다고
+	하/px+다/ef+고/jcr
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+우물은
+	우물/ncn+은/jxc
+
+물을
+	물/ncn+을/jco
+
+공급하는
+	공급/ncpa+하/xsva+는/etm
+
+역할
+	역하/paa+ㄹ/etm
+
+뿐
+	뿐/nbn
+
+아니라
+	아니/paa+라/ecs
+
+부정함을
+	부정/ncpa+하/xsva+ㅁ/etn+을/jco
+
+씻어주는
+	씻/pvg+어/ecx+주/px+는/etm
+
+신성한
+	신성/ncn+한/ncn
+
+성스러운
+	성스럽/paa+은/etm
+
+장소로
+	장소/ncn+로/jca
+
+여기기도
+	여기/npd+이/jp+기/etn+도/jxc
+
+했구요
+	했구요/ncn
+
+.
+	./sf
+
+
+생명의
+	생명/ncn+의/jcm
+
+근원인만큼신성시한
+	근원인만큼신성시한/ncn
+
+대상이
+	대상/ncn+이/jcc
+
+우물입니다
+	우물/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+우물
+	우물/ncn
+
+1에서
+	1/nnc+에서/jca
+
+발견된
+	발견/ncpa+되/xsvn+ㄴ/etm
+
+개는
+	개/nbu+는/jxc
+
+대략
+	대략/mag
+
+4마리
+	4/nnc+마리/nbu
+
+정도라고
+	정도/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그중
+	그중/mag
+
+한개가
+	한/nnc+개/nbu+가/jcc
+
+전체
+	전체/ncn
+
+복원이
+	복원/ncpa+이/jcc
+
+가능했다고
+	가능/ncps+하/xsms+었/ep+다/ef+고/jcr
+
+하고요
+	하/px+고요/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+개는
+	개/nbu+는/jxc
+
+현재
+	현재/mag
+
+한반도에서
+	한반도/ncn+에서/jca
+
+
+확인된
+	확인/ncpa+되/xsvn+ㄴ/etm
+
+개중에서
+	개중/ncn+에서/jca
+
+가장
+	가장/mag
+
+큰
+	크/paa+ㄴ/etm
+
+개이며
+	개/nbu+이/jp+며/ecc
+
+수컷이라고
+	수컷/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+몸길이
+	몸길이/ncn
+
+108cm,
+	108cm,/ncn
+
+높이
+	높이/ncn
+
+53cm정도입니다
+	53cm정도입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+다리뼈가
+	다리/ncn+뼈/ncn+가/jcs
+
+길쭉하니
+	길쭉하/paa+니/ecs
+
+그냥
+	그냥/mag
+
+보아도
+	보/px+아/ecs
+
+꽤
+	꽤/mag
+
+큰
+	크/paa+ㄴ/etm
+
+개였을거
+	개였을거/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+현재
+	현재/mag
+
+한반도에서
+	한반도/ncn+에서/jca
+
+확인된
+	확인/ncpa+되/xsvn+ㄴ/etm
+
+가장
+	가장/mag
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+개는
+	개/nbu+는/jxc
+
+창녕
+	창녕/ncn
+
+비봉리유적에서
+	비봉리유적/ncn+에서/jca
+
+출토된
+	출토/ncpa+되/xsvn+ㄴ/etm
+
+신석기시대
+	신석기시대/ncn
+
+개라고
+	개/nbu+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+유적에서
+	유적/ncn+에서/jca
+
+확인된
+	확인/ncpa+되/xsvn+ㄴ/etm
+
+개나
+	개/nbu+나/jcj
+
+소의
+	소/ncn+의/jcm
+
+뼈를
+	뼈/ncn+를/jco
+
+보면
+	보/px+면/ecs
+
+자른
+	자르/pvg+ㄴ/etm
+
+흔적이
+	흔적/ncn+이/jcc
+
+보인다고
+	보이/pvg+ㄴ다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+통째로
+	통째로/mag
+
+넣기보다
+	넣/pvg+기/etn+보다/jca
+
+해체한
+	해체/ncpa+하/xsva+ㄴ/etm
+
+뒤에
+	뒤/ncn+에/jca
+
+넣었을
+	넣/pvg+었/ep+을/etm
+
+가능성이
+	가능성/ncn+이/jcc
+
+크답니다
+	크/paa+답니다/ef
+
+.
+	./sf
+
+
+개의
+	개/nbu+의/jcm
+
+두개골을
+	두개골/ncn+을/jco
+
+엑스레이
+	엑스레이/ncn
+
+촬영한
+	촬영/ncpa+하/xsva+ㄴ/etm
+
+결과
+	결과/ncn
+
+개가
+	개/nbu+가/jcc
+
+살았을때
+	살/pvg+아/ep+ㄹ/etm+때/nbn
+
+일부러
+	일부러/mag
+
+이빨을
+	이빨/ncn+을/jco
+
+뺀
+	빼/pvg+ㄴ/etm
+
+흔적도
+	흔적/ncn+도/jxc
+
+확인되었다고
+	확인/ncpa+되/xsvn+었/ep+다/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+당시에
+	당시/ncn+에/jca
+
+무슨일이
+	무슨일/ncn+이/jcc
+
+있었는지
+	있/paa+었/ep+는지/ecc
+
+
+신라임의
+	신/xp+라임/ncn+의/jcm
+
+생활은
+	생활/ncpa+은/jxc
+
+어떠했을지
+	어떠하/pad+었/ep+을/etm+지/nbn
+
+더욱
+	더욱/mag
+
+궁금증만
+	궁금증/ncn+만/jxc
+
+남기게
+	남/pvg+기/etn+게/jca
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+동물들의
+	동물/ncn+들/ncn+의/jcm
+
+뼈를
+	뼈/ncn+를/jco
+
+전시하고
+	전시/ncn+하고/jct
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이걸
+	이걸/ncn
+
+어떻게
+	어떻/pad+게/ecs
+
+다
+	다/mag
+
+알아내고
+	알/pvg+아/ecx+내/px+어/ef+고/jcr
+
+무슨
+	무슨/mmd
+
+종류인지
+	종류/ncn+이/jp+ㄴ지/ecs
+
+어떤
+	어떤/mmd
+
+동물인지
+	동물/ncn+이/jp+ㄴ지/ecs
+
+알아내는
+	알/pvg+아/ecx+내/px+는/etm
+
+전문가들이
+	전문가/ncn+들/ncn+이/jcc
+
+존경스러울
+	존경/ncpa+스럽/xsmn+을/etm
+
+정도입니다
+	정도/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+이
+	이/mmd
+
+많은
+	많/paa+은/etm
+
+뼈들이
+	뼈/ncn+들/xsncc+이/jcc
+
+왜
+	왜/mag
+
+우물속에
+	우물속/ncn+에/jca
+
+들어갔던
+	들/pvg+어/ecx+가/px+아/ep+ㄴ/etm
+
+건지도
+	것/nbn+이/jp+ㄴ지/ecs+도/jxc
+
+무척
+	무척/mag
+
+궁금해지구요
+	궁금해지구요/ncn
+
+.
+	./sf
+
+
+어떤
+	어떤/mmd
+
+의식을
+	의식/ncn+을/jco
+
+치른
+	치르/pvg+ㄴ/etm
+
+것인지
+	것/nbn+이/jp+ㄴ지/ecs
+
+아니면
+	아니/paa+면/ecs
+
+지나가다
+	지나/pvg+아/ecx+가/px+아/ecx
+
+빠진
+	빠지/pvg+ㄴ/etm
+
+것인지
+	것/nbn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+출토된
+	출토/ncpa+되/xsvn+ㄴ/etm
+
+뼈만을
+	뼈/ncn+만을/jco
+
+보아도
+	보/px+아/ecs
+
+신라인들은
+	신라인/ncn+들/ncn+은/jxc
+
+어떤
+	어떤/mmd
+
+음식을
+	음식/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+살았는지를
+	살/pvg+아/ep+는/etm+지/nbn+를/jco
+
+대략
+	대략/mag
+
+짐작해
+	짐작/ncpa+하/xsva+어/ecx
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+정도입니다
+	정도/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+많은
+	많/paa+은/etm
+
+물건들이
+	물/pvg+ㄹ/etm+것/nbn+이/jp+ㄴ/etm+들/nbn+이/jcc
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+우물속
+	우물속/ncn
+
+...
+	.../se
+
+
+이
+	이/mmd
+
+우물은
+	우물/ncn+은/jxc
+
+일반
+	일반/ncn
+
+백성들의
+	백성/ncn+들/ncn+의/jcm
+
+물을
+	물/ncn+을/jco
+
+공급하는
+	공급/ncpa+하/xsva+는/etm
+
+우물은
+	우물/ncn+은/jxc
+
+아니었을
+	아니/paa+었/ep+을/etm
+
+것이란
+	것/nbn+이란/jxc
+
+짐작을
+	짐작/ncpa+을/jco
+
+해볼
+	하/pvg+어/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+왕궁안
+	왕궁/ncn+안/ncn
+
+우물에서
+	우물/ncn+에서/jca
+
+출토되는
+	출토/ncpa+되/xsvn+는/etm
+
+소뼈나
+	소뼈/ncn+나/jcj
+
+말뼈
+	말뼈/ncn
+
+종류에서
+	종류/ncn+에서/jca
+
+더
+	더/mag
+
+나아가
+	나/pvg+아/ecx+가/px+아/ecx
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+종류의
+	종류/ncn+의/jcm
+
+조류,
+	조류/ncn+,/sp
+
+어류,
+	어류/ncn+,/sp
+
+심지어
+	심지어/mag
+
+어린아이뼈까지
+	어린아이/ncn+뼈/ncn+까지/jxc
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+우물2기는
+	우물2기/ncn+는/jxc
+
+
+기존의
+	기존/ncpa+의/jcm
+
+왕경내의
+	왕경/ncn+내/ncn+의/jcm
+
+우물과도
+	우물/ncn+과/jct+도/jxc
+
+다른점이
+	다른점/ncn+이/jcc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+현재
+	현재/mag
+
+확인된
+	확인/ncpa+되/xsvn+ㄴ/etm
+
+수많은
+	수많/paa+은/etm
+
+우물과는
+	우물/ncn+과/jct+는/jxc
+
+성격이
+	성격/ncn+이/jcc
+
+다른
+	다르/paa+ㄴ/etm
+
+우물일
+	우물/ncn+이/jp+ㄹ/etm
+
+거라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+생각을
+	생각/ncpa+을/jco
+
+해볼
+	하/pvg+어/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+왕실
+	왕실/ncn
+
+내에서는
+	내/npp+에서/jca+는/jxc
+
+단순히
+	단순히/mag
+
+식수를
+	식수/ncn+를/jco
+
+공급받는
+	공급/ncpa+받/xsva+는/etm
+
+우물과
+	우물/ncn+과/jcj
+
+제사를
+	제사/ncn+를/jco
+
+지내는
+	지내/pvg+는/etm
+
+특수한
+	특수/ncps+한/ncn
+
+성격의
+	성격/ncn+의/jcm
+
+우물을
+	우물/ncn+을/jco
+
+구분해서
+	구분/ncpa+하/xsva+어서/ecs
+
+사용했을
+	사용/ncpa+하/xsva+었/ep+을/etm
+
+가능성도
+	가능성/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+전
+	전/nbn
+
+인용사지
+	인용/ncpa+사지/ncn
+
+우물과
+	우물/ncn+과/jcj
+
+경주박물관
+	경주박물관/ncn
+
+연결통로
+	연결통로/ncn
+
+부지
+	부/ncn+이/jp+지/ecs
+
+우물은
+	우물/ncn+은/jxc
+
+남천과
+	남천/ncn+과/jct
+
+근접해
+	근접/ncpa+하/xsva+어/ecx
+
+있는
+	있/px+는/etm
+
+곳이며
+	곳/ncn+이/jp+며/ecc
+
+동물뼈의
+	동물/ncn+뼈/ncn+의/jcm
+
+출토량이나
+	출토량/ncn+이나/jcj
+
+종류가
+	종류/ncn+가/jcs
+
+다양해서
+	다양/ncn+해서/ncn
+
+
+안압지
+	안압지/ncn
+
+동쪽
+	동쪽/ncn
+
+우물과
+	우물/ncn+과/jcj
+
+미술관
+	미술관/ncn
+
+부지
+	부/ncn+이/jp+지/ecs
+
+우물과는
+	우물/ncn+과/jct+는/jxc
+
+차이점을
+	차이/ncn+점/ncn+을/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+통일신라
+	통일신라/ncn
+
+말기
+	말/px+기/etn
+
+혼란스러운
+	혼란/ncps+스럽/xsmn+은/etm
+
+정세
+	정세/ncn
+
+속에
+	속/ncn+에/jca
+
+나라의
+	나라/ncn+의/jcm
+
+안정과
+	안정/ncpa+과/jcj
+
+번영을
+	번영/ncpa+을/jco
+
+기원하거나
+	기원/ncpa+하/xsva+거나/ecc
+
+병의
+	병/nbu+의/jcm
+
+치유와
+	치유/ncpa+와/jcj
+
+부정함을
+	부정/ncpa+하/xsva+ㅁ/etn+을/jco
+
+물리치기
+	물리치/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+왕실차원에서
+	왕실/ncn+차원/ncn+에서/jca
+
+우물
+	우물/ncn
+
+제사가
+	제사/ncn+가/jcs
+
+이루어졌던
+	이루/pvg+어/ecx+지/px+었/ep+던/etm
+
+것으로
+	것/nbn+으로/jca
+
+보인다고
+	보이/pvg+ㄴ다/ef+고/jcr
+
+소개합니다
+	소개/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+민간신앙이
+	민간신앙/ncn+이/jcc
+
+극심했을
+	극심/ncps+하/xsms+었/ep+을/etm
+
+때이니
+	때/nbn+이/jp+니/ecs
+
+아이도
+	아이/ncn+도/jxc
+
+제물로
+	제물로/mag
+
+바쳐졌던
+	바치/pvg+어/ecx+지/px+었/ep+던/etm
+
+것일까요
+	것/nbn+이/jp+ㄹ까/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+발굴된
+	발굴/ncpa+되/xsvn+ㄴ/etm
+
+2기의
+	2/nnc+기/nbu+의/jcm
+
+우물은
+	우물/ncn+은/jxc
+
+깊이가
+	깊이/ncn+가/jcs
+
+각기
+	각기/mag
+
+다르다고
+	다르/paa+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+우물1은
+	우물1/ncn+은/jxc
+
+깊이가
+	깊이/ncn+가/jcs
+
+10m정도이며
+	10m정도/ncn+이/jp+며/ecc
+
+내부
+	내부/ncn
+
+지름이
+	지르/pvg+ㅁ/etn+이/jcs
+
+70cm~120cm정도라고
+	70cm~120cm정도/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+드물게
+	드물/paa+게/ecs
+
+우물의
+	우물/ncn+의/jcm
+
+상석으로
+	상석/ncn+으로/jca
+
+보이는
+	보이/pvg+는/etm
+
+4개의
+	4/nnc+개/nbu+의/jcm
+
+돌과
+	돌/ncn+과/jcj
+
+우물
+	우물/ncn
+
+주변의
+	주변/ncn+의/jcm
+
+
+배수로
+	배수/ncn+로/jca
+
+시설까지
+	시설/ncpa+까지/jxc
+
+확인되었다고
+	확인/ncpa+되/xsvn+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+미술관
+	미술관/ncn
+
+부지의
+	부지/ncn+의/jcm
+
+우물2는
+	우물2/ncn+는/jxc
+
+깊이
+	깊이/mag
+
+3m
+	3m/ncn
+
+정도만
+	정도/ncn+만/jxc
+
+남아있고
+	남/pvg+아/ecx+있/px+고/ecc
+
+내부
+	내부/ncn
+
+지름은
+	지르/pvg+ㅁ/etn+은/jxc
+
+90cm정도입니다
+	90cm정도입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+우물에서는
+	우물/ncn+에서/jca+는/jxc
+
+동물뼈도
+	동물/ncn+뼈/ncn+도/jxc
+
+출토되었지만
+	출토/ncpa+되/xsvn+었/ep+지만/ecs
+
+다량의
+	다량/ncn+의/jcm
+
+토기와
+	토/ncn+이/jp+기/etn+와/jcj
+
+기와류,
+	기와/ncn+류/xsncc+,/sp
+
+금속그릇,
+	금속/ncn+그릇/ncn+,/sp
+
+숟가락,
+	숟가락/ncn+,/sp
+
+나무빗,
+	나무/ncn+빗/ncn+,/sp
+
+두레박
+	두레박/ncn
+
+등
+	등/nbu
+
+460여점이
+	460/nnc+여/xsnu+점/nbu+이/jcc
+
+출토되어
+	출토/ncpa+되/xsvn+어/ecx
+
+우물1과는
+	우물1/ncn+과/jct+는/jxc
+
+다른
+	다르/paa+ㄴ/etm
+
+양상을
+	양상/ncn+을/jco
+
+보여주었습니다
+	보이/pvg+어/ecx+주/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+국립경주박물관
+	국립/ncn+경주박물관/ncn
+
+부지에서
+	부지/ncn+에서/jca
+
+발견된
+	발견/ncpa+되/xsvn+ㄴ/etm
+
+2개의
+	2/nnc+개/nbu+의/jcm
+
+우물에서는
+	우물/ncn+에서/jca+는/jxc
+
+개,
+	개/nbu+,/sp
+
+고양이를
+	고양이/ncn+를/jco
+
+비롯한
+	비롯/ncpa+하/xsva+ㄴ/etm
+
+소,
+	소/ncn+,/sp
+
+말,
+	말/ncpa+,/sp
+
+사슴,
+	사슴/ncn+,/sp
+
+멧돼지,
+	멧돼지/ncn+,/sp
+
+토끼,
+	토끼/ncn+,/sp
+
+두더지,
+	두/nnc+이/jp+더/ep+지/ef+,/sp
+
+쥐와
+	쥐/ncn+와/jct
+
+같은
+	같/paa+은/etm
+
+포유류
+	포유류/ncn
+
+뿐만
+	뿐/nbn+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+오리나
+	오/nnc+리/nbu+나/jcj
+
+까마귀,
+	까마귀/ncn+,/sp
+
+호랑지빠귀,
+	호랑지빠귀,/ncn
+
+새매와
+	새매/ncn+와/jct
+
+같은
+	같/paa+은/etm
+
+새뼈,
+	새뼈,/ncn
+
+다량의
+	다량/ncn+의/jcm
+
+개구리뼈,
+	개구리/ncn+뼈/ncn+,/sp
+
+뱀뼈
+	뱀뼈/ncn
+
+외에
+	외/nbn+에/jca
+
+잉어
+	잉어/ncn
+
+복어
+	복어/ncn
+
+대구
+	대구/ncn
+
+숭어
+	숭어/ncn
+
+상어
+	상어/ncn
+
+등의
+	등/nbu+의/jcm
+
+다양한
+	다양/ncn+한/ncn
+
+물고기뼈,
+	물고기/ncn+뼈/ncn+,/sp
+
+등
+	등/nbn
+
+
+총
+	총/mma
+
+2,300여점이
+	2,300/nnc+여/xsnu+점/nbu+이/jcc
+
+발견되었다고
+	발견/ncpa+되/xsvn+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+어린아이
+	어린아이/ncn
+
+뼈가
+	뼈/ncn+가/jcs
+
+출토되어
+	출토/ncpa+되/xsvn+어/ecx
+
+관심을
+	관심/ncn+을/jco
+
+얻고
+	얻/pvg+고/ecc
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+가운데
+	가운데/ncn
+
+안압지에
+	안압지/ncn+에/jca
+
+살았던
+	살/pvg+아/ep+ㄴ/etm
+
+동물들
+	동물/ncn+들/ncn
+
+뼈를
+	뼈/ncn+를/jco
+
+전시해
+	전시/ncn+해/ncn
+
+두었습니다
+	두/nnc+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+안압지는
+	안압지/ncn+는/jxc
+
+신라
+	신/xp+라/ncn
+
+왕실의
+	왕실/ncn+의/jcm
+
+태자가
+	태자/ncr+가/jcc
+
+머물던
+	머물/pvg+던/etm
+
+동궁에
+	동궁/ncn+에/jca
+
+딸린
+	딸리/pvg+ㄴ/etm
+
+연못으로
+	연못/ncn+으로/jca
+
+이곳에서
+	이곳/npd+에서/jca
+
+출토된
+	출토/ncpa+되/xsvn+ㄴ/etm
+
+수많은
+	수많/paa+은/etm
+
+출토품에도
+	출토/ncpa+품/ncn+에/jca+도/jxc
+
+동물뼈가
+	동물/ncn+뼈/ncn+가/jcs
+
+다양하게
+	다양/ncps+하/xsms+게/ecs
+
+포함되어
+	포함/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+약
+	약/ncn
+
+400여점에
+	400/nnc+여/xsnu+점/nbu+에/jca
+
+달하는
+	달하/pvg+는/etm
+
+동물뼈로
+	동물/ncn+뼈/ncn+로/jca
+
+말,
+	말/ncpa+,/sp
+
+개,
+	개/nbu+,/sp
+
+노루,
+	노루/ncn+,/sp
+
+산양,
+	산양/ncn+,/sp
+
+사슴,
+	사슴/ncn+,/sp
+
+소,
+	소/ncn+,/sp
+
+돼지
+	돼지/ncn
+
+등
+	등/nbu
+
+포유류며
+	포유류/ncn+이/jp+며/ecc
+
+거위,
+	거위/ncn+,/sp
+
+백조
+	백/nnc+조/nbu
+
+등
+	등/nbu
+
+조류도
+	조류/ncn+도/jxc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+진기한
+	진기/ncps+하/xsms+ㄴ/etm
+
+새와
+	새/ncn+와/jcj
+
+동물을
+	동물/ncn+을/jco
+
+길렀다는
+	기르/pvg+었/ep+다/ef+는/etm
+
+기록이
+	기록/ncpa+이/jcc
+
+있는
+	있/px+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+보아
+	보/pvg+아/ecx
+
+왕실의
+	왕실/ncn+의/jcm
+
+작은
+	작/paa+은/etm
+
+동물원이라고
+	동물원/ncn+이/jp+라/ef+고/jcr
+
+해도
+	하/pvg+어도/ecs
+
+과언이
+	과언/ncn+이/jcc
+
+아니었던거
+	아니었던거/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+사슴뿔이
+	사슴뿔/ncn+이/jcc
+
+그대로
+	그대로/mag
+
+붙은
+	붙/pvg+은/etm
+
+사슴
+	사슴/ncn
+
+두개골이
+	두개골/ncn+이/jcc
+
+발견되어
+	발견/ncpa+되/xsvn+어/ecx
+
+인위적으로
+	인위/ncn+적/ncn+으로/jca
+
+도살한
+	도살/ncpa+하/xsva+ㄴ/etm
+
+흔적으로
+	흔적/ncn+으로/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다고
+	있/px+다/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+입구에서
+	입구/ncn+에서/jca
+
+왼쪽으로
+	왼쪽/ncn+으로/jca
+
+작은
+	작/paa+은/etm
+
+공간이
+	공간/ncn+이/jcc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그곳에서
+	그곳/ncn+에서/jca
+
+5분
+	5/nnc+분/nbu
+
+가량의
+	가량/nbu+의/jcm
+
+영상물을
+	영상물/ncn+을/jco
+
+보실
+	보/px+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+우물에서
+	우물/ncn+에서/jca
+
+무슨
+	무슨/mmd
+
+일이
+	일/ncn+이/jcc
+
+있었을까
+	있/px+었/ep+을까/ef
+
+..
+	./sf+./sf
+
+
+더욱
+	더욱/mag
+
+궁금하게만
+	궁금/ncps+하/xsms+게/ecx+말/px+ㄴ/etm
+
+했던
+	하/px+었/ep+던/etm
+
+영상물
+	영상물/ncn
+
+...
+	.../se
+
+
+우물에서
+	우물/ncn+에서/jca
+
+발견된
+	발견/ncpa+되/xsvn+ㄴ/etm
+
+어린아이
+	어린아이/ncn
+
+.
+	./sf
+
+
+우물
+	우물/ncn
+
+1에서
+	1/nnc+에서/jca
+
+발견된
+	발견/ncpa+되/xsvn+ㄴ/etm
+
+10세
+	10/nnc+세/nnc
+
+가량의
+	가량/nbu+의/jcm
+
+성별을
+	성별/ncn+을/jco
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+어린아이
+	어린아이/ncn
+
+뼈.
+	뼈/ncn+./sf
+
+상석
+	상석/ncn
+
+아래에서
+	아래/ncn+에서/jca
+
+확인된
+	확인/ncpa+되/xsvn+ㄴ/etm
+
+어린아이
+	어린아이/ncn
+
+뼈는
+	뼈/ncn+는/jxc
+
+동물뼈와
+	동물/ncn+뼈/ncn+와/jcj
+
+토기류
+	토기/ncn+류/xsncc
+
+등과
+	등/nbu+과/jct
+
+모두
+	모두/mag
+
+얽혀
+	얽히/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+상태였고
+	상태/ncn+이/jp+었/ep+고/ecc
+
+그
+	그/mmd
+
+중
+	중/nbn
+
+가장
+	가장/mag
+
+윗쪽에서
+	윗쪽/ncn+에서/jca
+
+어린아이
+	어린아이/ncn
+
+뼈가
+	뼈/ncn+가/jcs
+
+확인되었다고
+	확인/ncpa+되/xsvn+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+지증왕
+	지증왕/ncn
+
+3년
+	3/nnc+년/nbu
+
+순장을
+	순장/ncpa+을/jco
+
+금지하는
+	금지/ncpa+하/xsva+는/etm
+
+법령을
+	법령/ncn+을/jco
+
+내린
+	내리/pvg+ㄴ/etm
+
+이후
+	이후/ncn
+
+무덤이
+	무덤/ncn+이/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+우물속에서
+	우물속/ncn+에서/jca
+
+발견된
+	발견/ncpa+되/xsvn+ㄴ/etm
+
+아이는
+	아이/ncn+는/jxc
+
+누구이며,
+	누구/npp+이/jp+며/ecc+,/sp
+
+왜
+	왜/mag
+
+우물
+	우물/ncn
+
+속에서
+	속/ncn+에서/jca
+
+발견되었던
+	발견/ncpa+되/xsvn+었/ep+던/etm
+
+것일까하는
+	것일까하/ncn+는/jxc
+
+의문이
+	의문/ncpa+이/jcc
+
+들게
+	들/pvg+게/ecs
+
+되는데요
+	되/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+두가지
+	두/nnc+가지/nbu
+
+추측이
+	추측/ncpa+이/jcc
+
+가능하다고
+	가능/ncps+하/xsms+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+첫째,
+	첫째/nno+,/sp
+
+귀족이나
+	귀족/ncn+이나/jcj
+
+왕족의
+	왕족/ncn+의/jcm
+
+아이가
+	아이/ncn+가/jcs
+
+우연히
+	우연히/mag
+
+우물에
+	우물/ncn+에/jca
+
+빠져
+	빠지/pvg+어/ecx
+
+죽은
+	죽/pvg+은/etm
+
+후
+	후/ncn
+
+제사를
+	제사/ncn+를/jco
+
+지내고
+	지내/pvg+고/ecc
+
+다시
+	다시/mag
+
+우물에
+	우물/ncn+에/jca
+
+넣고
+	넣/pvg+고/ecc
+
+마지막에
+	마지막/ncn+에/jca
+
+상석을
+	상석/ncn+을/jco
+
+넣어
+	넣/pvg+어/ecx
+
+폐기했을
+	폐기/ncpa+하/xsva+었/ep+을/etm
+
+가능성
+	가능성/ncn
+
+.
+	./sf
+
+
+둘째,
+	둘째/nno+,/sp
+
+왕실
+	왕실/ncn
+
+차원의
+	차원/ncn+의/jcm
+
+우물
+	우물/ncn
+
+제사에
+	제사/ncn+에/jca
+
+수많은
+	수많/paa+은/etm
+
+동물들과
+	동물/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+희생된
+	희생/ncpa+되/xsvn+ㄴ/etm
+
+인신공양물의
+	인신공양물/ncn+의/jcm
+
+하나일
+	하나/nnc+일/nbu
+
+것이라는
+	것/nbn+이/jp+라/ef+는/etm
+
+추측
+	추측/ncpa
+
+.
+	./sf
+
+
+아이의
+	아이/ncn+의/jcm
+
+신분은
+	신분/ncn+은/jxc
+
+서민층일
+	서민층/ncn+이/jp+ㄹ/etm
+
+가능성이
+	가능성/ncn+이/jcc
+
+높다고
+	높/paa+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+함께
+	함께/mag
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+동물뼈와
+	동물/ncn+뼈/ncn+와/jcj
+
+토기들만
+	토기/ncn+들/ncn+만/jxc
+
+보더라도
+	보/px+더라도/ecs
+
+일반
+	일반/ncn
+
+우물의
+	우물/ncn+의/jcm
+
+역할은
+	역할/ncn+은/jxc
+
+아니었을
+	아니/paa+었/ep+을/etm
+
+거
+	것/nbn
+
+같구요
+	같구요/ncn
+
+.
+	./sf
+
+
+아무래도
+	아무렇/pad+어도/ecs
+
+왕실차원의
+	왕실/ncn+차원/ncn+의/jcm
+
+제사의
+	제사/ncn+의/jcm
+
+기능을
+	기능/ncn+을/jco
+
+담당했던
+	담당/ncpa+하/xsva+었/ep+던/etm
+
+큰
+	크/paa+ㄴ/etm
+
+규모의
+	규모/ncn+의/jcm
+
+제사용도
+	제사/ncn+용/ncn+도/jxc
+
+우물이
+	우물/ncn+이/jcc
+
+아니었을까
+	아니/paa+었/ep+을까/ef
+
+추측해
+	추측/ncpa+하/xsva+어/ecx
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+박물관
+	박물관/ncn
+
+주변으로
+	주변/ncn+으로/jca
+
+배롱꽃이
+	배롱꽃/ncn+이/jcc
+
+한창입니다
+	한창/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+우물에
+	우물/ncn+에/jca
+
+빠진
+	빠지/pvg+ㄴ/etm
+
+통일신라
+	통일신라/ncn
+
+동물들
+	동물/ncn+들/ncn
+
+..
+	./sf+./sf
+
+
+어떠셨어요
+	어떠셨어요/ncn
+
+.
+	./sf
+
+
+무슨
+	무슨/mmd
+
+미스테리
+	미스테리/ncn
+
+영화한편
+	영화/ncn+한편/ncn
+
+보는
+	보/px+는/etm
+
+거
+	것/nbn
+
+같지
+	같/paa+지/ecx
+
+않나요
+	않/px+나/ef+요/jxf
+
+.
+	./sf
+
+
+우물
+	우물/ncn
+
+2기에서
+	2/nnc+기/nbu+에서/jca
+
+나왔다고는
+	나/pvg+아/ecx+오/px+아/ep+다/ef+고/jcr+는/jxc
+
+상상하기
+	상상/ncn+하기/ncn
+
+힘든
+	힘들/pvg+ㄴ/etm
+
+많은
+	많/paa+은/etm
+
+양의
+	양/ncn+의/jcm
+
+출토품을
+	출토/ncpa+품/ncn+을/jco
+
+보고는
+	보/px+고/ecs+는/jxc
+
+놀라지
+	놀라/pvg+지/ecx
+
+않을
+	않/px+을/etm
+
+수
+	수/nbn
+
+없었습니다
+	없/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+육해공을
+	육해공/ncn+을/jco
+
+넘나드는
+	넘나들/pvg+는/etm
+
+다양한
+	다양/ncn+한/ncn
+
+동물뼈며,
+	동물/ncn+뼈/ncn+이/jp+며/ecc+,/sp
+
+토기와
+	토/ncn+이/jp+기/etn+와/jcj
+
+목기,
+	목기/ncn+,/sp
+
+그리고
+	그리고/maj
+
+심어지
+	심어지/ncn
+
+아이뼈까지
+	아이/ncn+뼈/ncn+까지/jxc
+
+나왔다고
+	나/pvg+아/ecx+오/px+아/ep+다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+관심을
+	관심/ncn+을/jco
+
+안가질
+	안가/ncn+질/ncn
+
+수가
+	수/nbn+가/jcc
+
+없지요
+	없/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+정확하게
+	정확/ncps+하/xsms+게/ecs
+
+어떤
+	어떤/mmd
+
+연유로
+	연유/ncpa+로/jca
+
+이
+	이/mmd
+
+많은
+	많/paa+은/etm
+
+대상들이
+	대상/ncn+들/ncn+이/jcc
+
+우물속에
+	우물속/ncn+에/jca
+
+들어간
+	들/pvg+어/ecx+가/px+ㄴ/etm
+
+건지는
+	것/nbn+이/jp+ㄴ지/ecs+는/jxc
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없지만
+	없/paa+지/ecx+말/px+ㄴ/etm
+
+당시의
+	당시/ncn+의/jcm
+
+상황을
+	상황/ncn+을/jco
+
+대략
+	대략/mag
+
+짐작해
+	짐작/ncpa+하/xsva+어/ecx
+
+보면
+	보/px+면/ecs
+
+제사의
+	제사/ncn+의/jcm
+
+기능을
+	기능/ncn+을/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+우물이
+	우물/ncn+이/jcc
+
+아니었을까
+	아니/paa+었/ep+을까/ef
+
+하는
+	하/pvg+는/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+나라가
+	나라/ncn+가/jcs
+
+어지럽고
+	어지럽/paa+고/ecc
+
+불안할때,
+	불안/ncps+하/xsms+ㄹ/etm+때/nbn+,/sp
+
+병이
+	병/nbu+이/jcc
+
+창궐하여
+	창궐/ncpa+하/xsva+어/ecx
+
+백성의
+	백성/ncn+의/jcm
+
+안위가
+	안위/ncn+가/jcs
+
+위태로울때
+	위태/ncps+롭/xsmn+을/etm+때/nbn
+
+기댈
+	기대/pvg+ㄹ/etm
+
+곳이라고는
+	곳/ncn+이/jp+라/ef+고/jcr+는/jxc
+
+신성한
+	신성/ncn+한/ncn
+
+그
+	그/mmd
+
+어떤
+	어떤/mmd
+
+대상이었겠지요
+	대상/ncn+이/jp+었겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+무엇이라도
+	무엇/npd+이라도/jxc
+
+마음을
+	마음/ncn+을/jco
+
+담아
+	담/pvg+아/ecx
+
+그
+	그/mmd
+
+대상에게
+	대상/ncn+에게/jca
+
+바치고픈
+	바치고픈/ncn
+
+신라인의
+	신라인/ncn+의/jcm
+
+마음이
+	마음/ncn+이/jcc
+
+이
+	이/mmd
+
+우물속에
+	우물속/ncn+에/jca
+
+담겨진
+	담기/pvg+어/ecx+지/px+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그것이
+	그것/npd+이/jcc
+
+어린아이라고
+	어린아이/ncn+이/jp+라/ef+고/jcr
+
+해도
+	하/pvg+어도/ecs
+
+말입니다
+	말/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+우물에
+	우물/ncn+에/jca
+
+빠진
+	빠지/pvg+ㄴ/etm
+
+아이를
+	아이/ncn+를/jco
+
+건져서
+	건지/pvg+어서/ecs
+
+다시
+	다시/mag
+
+우물속으로
+	우물속/ncn+으로/jca
+
+넣는다는
+	넣/pvg+는다/ef+는/etm
+
+건
+	거/nbn+은/jxc
+
+설득력이
+	설득력/ncn+이/jcc
+
+약해
+	약하/paa+어/ecx
+
+보이구요
+	보이구요/ncn
+
+.
+	./sf
+
+
+인간공양물로
+	인간/ncn+공양물/ncn+로/jca
+
+바쳐진
+	바치/pvg+어/ecx+지/px+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+하는
+	하/pvg+는/etm
+
+추측에
+	추측/ncpa+에/jca
+
+살짝
+	살짝/mag
+
+수긍이
+	수긍/ncpa+이/jcc
+
+갑니다
+	가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+박물관
+	박물관/ncn
+
+관람객들의
+	관람객/ncn+들/ncn+의/jcm
+
+호응이
+	호응/ncpa+이/jcc
+
+좋아서
+	좋/paa+아/ecx
+
+기존
+	기존/ncpa
+
+8월
+	8/nnc+월/nbu
+
+21까지
+	21/nnc+까지/jxc
+
+전시를
+	전시/ncn+를/jco
+
+하려고
+	하/pvg+려고/ecs
+
+했지만
+	하/px+었/ep+지만/ecs
+
+9월
+	9/nnc+월/nbu
+
+13일까지
+	13/nnc+일/nbu+까지/jxc
+
+연장한다고
+	연장/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+아직
+	아직/mag
+
+가보지
+	가/pvg+아/ecx+보/px+지/ecx
+
+못하신분
+	못하/px+시/ep+ㄴ/etm+분/nbn
+
+...
+	.../se
+
+
+연휴를
+	연휴/ncn+를/jco
+
+이용해서
+	이용/ncpa+하/xsva+어서/ecs
+
+꼭
+	꼭/mag
+
+가보시길
+	가보시길/ncn
+
+바랍니다
+	바라/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+경주박물관
+	경주박물관/ncn
+
+가는길
+	가는길/ncn
+
+
+신경주역에서
+	신경/ncn+주역/ncn+에서/jca
+
+700번
+	700/nnc+번/nbu
+
+버스
+	버스/ncn
+
+이용
+	이용/ncpa
+
+안압지
+	안압지/ncn
+
+앞
+	앞/ncn
+
+하차,
+	하차/ncpa+,/sp
+
+도보
+	도보/ncpa
+
+3분
+	3/nnc+분/nbu
+
+.
+	./sf
+
+
+시외버스,
+	시외버스/ncn+,/sp
+
+고속버스터미널
+	고속버스터미널/ncn
+
+또는
+	또는/maj
+
+경주역에서
+	경주역/ncn+에서/jca
+
+11,
+	11/nnc+,/sp
+
+600,
+	600/nnc+,/sp
+
+601,
+	601/nnc+,/sp
+
+603~605,
+	603/nnc+~/sd+605/nnc+,/sp
+
+607~609번
+	607/nnc+~/sd+609/nnc+번/nbu
+
+버스
+	버스/ncn
+
+이용
+	이용/ncpa
+
+
+2011.
+	2011./nnc
+
+06.
+	06./nnc
+
+08
+	08/nnc
+
+~
+	~/sd
+
+09.13
+	09.13/nnc
+
+
+관람시간:
+	관람/ncpa+시간/ncn+:/sp
+
+평일
+	평/nbu+이/jp+ㄹ/etm
+
+9:00~18:00
+	9/nnc+:/sp+00/nnc+~/sd+18/nnc+:/sp+00/nnc
+
+매주
+	매주/ncn
+
+토요일
+	토요일/ncn
+
+야간개장
+	야간/ncn+개장/ncn
+
+9:00~12:00
+	9/nnc+:/sp+00/nnc+~/sd+12/nnc+:/sp+00/nnc
+
+공휴일
+	공휴일/ncn
+
+9:00~19:00(매주
+	9:00~19:00(매주/ncn
+
+월요일
+	월요일/ncn
+
+휴관)
+	휴관/ncn+)/sr
+
+
+국립경주박물관
+	국립/ncn+경주박물관/ncn
+
+특별전시
+	특별전/ncn+시/ncn
+
+
+경상북도
+	경상/ncn+북/ncn+도/jxc
+
+경주시
+	경주시/ncn
+
+일정로
+	일정/ncn+로/jca
+
+118
+	118/nnc
+
+/
+	//sp
+
+054-740-7500
+	054/nnc+-740/nnc+-7500/nnc
+
+
+http://gyeongju.
+	http/f+:/sp+//sp+//sp+gyeongju/f+./sy
+
+museum.
+	museum/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+국립경주박물관
+	국립/ncn+경주박물관/ncn
+
+
+경상북도
+	경상/ncn+북/ncn+도/jxc
+
+경주시
+	경주시/ncn
+
+인왕동
+	인왕/ncn+동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01680108",
+	"bl01680108",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11620556",
+	"/sl+11620556/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"국립경주박물관",
+	title/f+:/sp+"/sl+국립/ncn+경주박물관/ncn+"/sr+,/sp
+
+pointX:510819,pointY:359838}
+	pointX/f+:/sp+510819/nnc+,/sp+pointY/f+:/sp+359838/nnc+}/sr

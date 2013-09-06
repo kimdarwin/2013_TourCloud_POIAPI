@@ -1,0 +1,4119 @@
+여수세계박람회
+	여수/ncn+세계박람회/ncn
+
+여행코스
+	여행코스/ncn
+
+/
+	//sp
+
+여수-광주-담양,
+	여수-광주-담양,/ncn
+
+1박2일
+	1박2/ncn+이/jp+ㄹ/etm
+
+여수엑스포여행
+	여수/ncn+엑스포/ncn+여행/ncpa
+
+/
+	//sp
+
+여수여행코스
+	여수/ncn+여행코스/ncn
+
+/여수엑스포
+	//sp+여수/ncn+엑스포/ncn
+
+지정업소
+	지정/ncpa+업소/ncn
+
+
+여수세계박람회
+	여수/ncn+세계박람회/ncn
+
+관람하고
+	관람/ncpa+하고/jct
+
+엑스포
+	엑스포/ncn
+
+지정업소
+	지정/ncpa+업소/ncn
+
+찾아
+	찾/pvg+아/ecx
+
+가는
+	가/pvg+는/etm
+
+여행코스
+	여행코스/ncn
+
+
+여수세계박람회가
+	여수/ncn+세계박람회/ncn+가/jcs
+
+시작되고
+	시작/ncpa+되/xsvn+고/ecc
+
+첨
+	첨/ncn
+
+찾은
+	찾/pvg+은/etm
+
+여수로의
+	여수/ncn+로/jca+의/jcm
+
+1박2일
+	1박2/ncn+이/jp+ㄹ/etm
+
+여행코스입니다
+	여행코스/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+박람회장에서
+	박람회/ncn+장/ncn+에서/jca
+
+첫날
+	첫/nno+날/nbu
+
+오후시간을
+	오후/ncn+시간/ncn+을/jco
+
+다
+	다/mag
+
+보내구요
+	보내구요/ncn
+
+.
+	./sf
+
+
+숙박은
+	숙박/ncpa+은/jxc
+
+광주로
+	광주/ncn+로/jca
+
+이동해서
+	이동/ncn+해서/ncn
+
+하루를
+	하루/ncn+를/jco
+
+묵었습니다
+	묵/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+광주
+	광주/ncn
+
+가볼만한곳
+	가볼만한곳/ncn
+
+한곳
+	한곳/ncn
+
+들렀다가
+	들르/pvg+었/ep+다가/ecs
+
+오후에는
+	오후/ncn+에/jca+는/jxc
+
+담양으로
+	담양/ncn+으로/jca
+
+이동해서
+	이동/ncn+해서/ncn
+
+담양의
+	담양/ncn+의/jcm
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+여행지인
+	여행지/ncn+이/jp+ㄴ/etm
+
+죽녹원과
+	죽녹원/ncn+과/jcj
+
+관방제림의
+	관방제림/ncn+의/jcm
+
+푸른
+	푸르/paa+ㄴ/etm
+
+길을
+	길/ncn+을/jco
+
+걸었지요
+	걷/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+여수엑스포
+	여수/ncn+엑스포/ncn
+
+기간동안은
+	기간/ncn+동안/ncn+은/jxc
+
+여수에서만
+	여수/ncn+에서/jca+만/jxc
+
+모든
+	모든/mma
+
+일정을
+	일정/ncn+을/jco
+
+보내려고
+	보내/pvg+려고/ecs
+
+하기보다는
+	하/pvg+기/etn+보다/jca+는/jxc
+
+주변
+	주변/ncn
+
+지역과
+	지역/ncn+과/jcj
+
+연계해서
+	연계/ncpa+해서/ncn
+
+여행코스를
+	여행코스/ncn+를/jco
+
+잡아보시는
+	잡/pvg+어/ecx+보/px+시/ep+는/etm
+
+것이
+	것/nbn+이/jcc
+
+알차게
+	알차/paa+게/ecs
+
+시간을
+	시간/ncn+을/jco
+
+보내는
+	보내/pvg+는/etm
+
+방법이
+	방법/ncn+이/jcc
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+싶은데요
+	싶은데요/ncn
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여수,
+	여수/ncn+,/sp
+
+광주,
+	광주,/ncn
+
+담양으로
+	담양/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+1박2일
+	1박2/ncn+이/jp+ㄹ/etm
+
+여행코스
+	여행코스/ncn
+
+참고하셔서
+	참/pvg+고/ecx+하/px+시/ep+어서/ecs
+
+계획을
+	계획/ncpa+을/jco
+
+잡아보시는
+	잡/pvg+어/ecx+보/px+시/ep+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋을
+	좋/paa+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+맛집,
+	맛집,/ncn
+
+숙박지는
+	숙박지/ncn+는/jxc
+
+여수엑스포
+	여수/ncn+엑스포/ncn
+
+지정업소에만
+	지정/ncpa+업소/ncn+에/jca+만/jxc
+
+묵었어요
+	묵/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+또
+	또/maj
+
+여수엑스포
+	여수/ncn+엑스포/ncn
+
+여행마니아
+	여행마니아/ncn
+
+체험단으로
+	체험/ncpa+단/ncn+으로/jca
+
+지정업소를
+	지정/ncpa+업소/ncn+를/jco
+
+알리는
+	알리/pvg+는/etm
+
+작업을
+	작업/ncpa+을/jco
+
+하지
+	하/pvg+지/ecx
+
+않았겠어요
+	않/px+았겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+그
+	그/mmd
+
+마무리
+	마무리/ncpa
+
+작업으로
+	작업/ncpa+으로/jca
+
+1박2일간의
+	1박2일간/ncn+의/jcm
+
+알찬
+	알차/paa+ㄴ/etm
+
+체험을
+	체험/ncpa+을/jco
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+체험단
+	체험/ncpa+단/ncn
+
+이웃분들과
+	이웃/ncpa+분/ncn+들/xsncc+과/jct
+
+함께한
+	함께하/pvg+ㄴ/etm
+
+시간이었는데요
+	시간/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+가끔
+	가끔/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+여수나
+	여수/ncn+나/jcj
+
+남해안쪽
+	남해안/ncn+쪽/ncn
+
+여행을
+	여행/ncpa+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+만나는
+	만나/pvg+는/etm
+
+이웃들이라
+	이웃/ncpa+들/xsncc+이/jp+라/ecs
+
+엊그제
+	엊그제/ncn
+
+만난
+	만나/pvg+ㄴ/etm
+
+듯이
+	듯/nbn+이/jcs
+
+반가운
+	반갑/paa+은/etm
+
+시간을
+	시간/ncn+을/jco
+
+보냈습니다
+	보내/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+기대도
+	기대/pvg+어도/ecs
+
+걱정도
+	걱정/ncpa+도/jxc
+
+많았던
+	많/paa+아/ep+ㄴ/etm
+
+여수세계박람회는
+	여수/ncn+세계박람회/ncn+는/jxc
+
+막을
+	막/ncn+을/jco
+
+올렸고
+	올리/pvg+었/ep+고/ecc
+
+이제
+	이제/mag
+
+찾는이들을
+	찾는이들/ncn+을/jco
+
+정성껏
+	정성껏/mag
+
+맞이하고
+	맞이/ncpa+하고/jct
+
+만족스럽게
+	만족/ncpa+스럽/xsmn+게/ecs
+
+돌아가도록
+	돌/pvg+아/ecx+가/px+도록/ecs
+
+최선을
+	최선/ncn+을/jco
+
+다하는
+	다하/pvg+는/etm
+
+작업이
+	작업/ncpa+이/jcc
+
+남았는데요
+	남/pvg+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+8월까지
+	8/nnc+월/nbu+까지/jxc
+
+3개월간
+	3/nnc+개월/nbu+간/xsnu
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+엑스포라
+	엑스포/ncn+이/jp+라/ecs
+
+여유있게
+	여유/ncn+있/xsmn+게/ecs
+
+여행계획을
+	여행/ncpa+계획/ncpa+을/jco
+
+잡아보셔도
+	잡/pvg+어/ecx+보/px+시/ep+어도/ecs
+
+좋겠습니다
+	좋/paa+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+어떻게
+	어떻/pad+게/ecs
+
+관람하는
+	관람/ncpa+하/xsva+는/etm
+
+것이
+	것/nbn+이/jcc
+
+여수에서
+	여수/ncn+에서/jca
+
+좋은
+	좋/paa+은/etm
+
+추억을
+	추억/ncpa+을/jco
+
+만는
+	만/nnc+는/jxc
+
+것인지,
+	것/nbn+이/jp+ㄴ지/ecs+,/sp
+
+그리고
+	그리고/maj
+
+어떤
+	어떤/mmd
+
+것이
+	것/nbn+이/jcc
+
+볼만한지
+	보/px+ㄹ/etm+만/nbs+하/xsms+ㄴ지/ecs
+
+등.
+	등/nbu+./sf
+
+..
+	./sf+./sf
+
+
+저도
+	저/npp+도/jxc
+
+다
+	다/mag
+
+돌아보지는
+	돌/pvg+아/ecx+보/px+지/ef+는/etm
+
+않았지만
+	않/px+아/ep+지/ecx+말/px+ㄴ/etm
+
+몇가지
+	몇/nnc+가지/nbu
+
+관람후기들을
+	관람/ncpa+후기/ncn+들/ncn+을/jco
+
+들려드릴
+	들리/pvg+어/ecx+드리/px+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+우선,
+	우선/ncpa+,/sp
+
+1박2일간의
+	1박2일간/ncn+의/jcm
+
+여수엑스포
+	여수/ncn+엑스포/ncn
+
+지정업소를
+	지정/ncpa+업소/ncn+를/jco
+
+중심으로한
+	중심/ncn+으로한/jca
+
+여행코스를
+	여행코스/ncn+를/jco
+
+소개해
+	소개/ncpa+하/xsva+어/ecx
+
+드리겠습니다
+	드리/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-마음이
+	여행/ncpa+이야기/ncpa+-/sd+마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+(여행일:
+	(/sl+여행/ncpa+이/jp+ㄹ/etm+:/sp
+
+2012
+	2012/nnc
+
+.
+	./sf
+
+
+05
+	05/nnc
+
+.
+	./sf
+
+
+18~19)
+	18/nnc+~/sd+19/nnc+)/sr
+
+
+서울
+	서울/ncn
+
+양재에서
+	양재/ncn+에서/jca
+
+출발해서
+	출발/ncpa+하/xsva+어서/ecs
+
+금요일
+	금요일/ncn
+
+오전이라교통체증은
+	오전이라교통체증/ncn+은/jxc
+
+없었지만
+	없/paa+었/ep+지만/ecs
+
+그래도
+	그래도/maj
+
+버스로
+	버스/ncn+로/jca
+
+가기는
+	가/px+기/etn+는/jxc
+
+먼거리긴
+	먼거리/ncn+긴/ncn
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+여수에
+	여수/ncn+에/jca
+
+도착해서
+	도착/ncpa+하/xsva+어서/ecs
+
+바로
+	바로/mag
+
+점심을
+	점심/ncn+을/jco
+
+먹으러
+	먹/pvg+으러/ecs
+
+간
+	가/px+ㄴ/etm
+
+곳이
+	곳/ncn+이/jcc
+
+여수돌게
+	여수/ncn+돌/ncn+게/jca
+
+식당입니다
+	식당/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+여수에
+	여수/ncn+에/jca
+
+오면
+	오/px+면/ecs
+
+돌게는
+	돌/pvg+게/ecs+는/jxc
+
+먹어줘야
+	먹/pvg+어/ecx+주/px+어야/ecs
+
+한다는
+	하/px+ㄴ다/ef+는/etm
+
+듯이
+	듯/nbn+이/jcs
+
+으레
+	으레/mag
+
+여수에서
+	여수/ncn+에서/jca
+
+식사
+	식사/ncpa
+
+한끼는
+	한/nnc+끼/nbu+는/jxc
+
+돌게를
+	돌게/ncn+를/jco
+
+먹게
+	먹/pvg+게/ecs
+
+되지요
+	되/pvg+지/ef+요/jxf
+
+.
+	./sf
+
+
+식당이름도
+	식당/ncn+이름/ncn+도/jxc
+
+여수돌게식당이었구요
+	여수돌게식당이었구요/ncn
+
+.
+	./sf
+
+
+이곳도
+	이곳/npd+도/jxc
+
+여수세계박람회
+	여수/ncn+세계박람회/ncn
+
+지정업소입니다
+	지정/ncpa+업소/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+2대째
+	2/nnc+대/nbu+째/xsnu
+
+게장을
+	게장/ncn+을/jco
+
+전문으로
+	전문/ncn+으로/jca
+
+하는
+	하/pvg+는/etm
+
+식당으로
+	식당/ncn+으로/jca
+
+꽤
+	꽤/mag
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+식당인지
+	식당/ncn+이/jp+ㄴ지/ecs
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+무척
+	무척/mag
+
+많더라구요
+	많/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+돌게장
+	돌게장/ncn
+
+맛은
+	맛/ncn+은/jxc
+
+어떠했을지
+	어떠하/pad+었/ep+을/etm+지/nbn
+
+..
+	./sf+./sf
+
+
+궁금하시지요
+	궁금/ncps+하시/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+일단
+	일/nnc+단/nbu
+
+사진으로
+	사진/ncn+으로/jca
+
+간장게장의
+	간장/ncn+게장/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+잠시
+	잠시/mag
+
+보여드리구요
+	보여드리구요/ncn
+
+.
+	./sf
+
+
+게장맛도
+	게장/ncn+맛/ncn+도/jxc
+
+전해드리겠습니다
+	전하/pvg+어/ecx+드리/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+조금만
+	조금/ncn+만/jxc
+
+덜
+	덜/mag
+
+짜면
+	짜/pvg+면/ecs
+
+훨씬
+	훨씬/mag
+
+맛있게
+	맛있/paa+게/ecs
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있겠다
+	있/px+겠/ep+다/ef
+
+싶었던
+	싶/px+었/ep+던/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+의외로
+	의외/ncn+로/jca
+
+멍게젓갈이
+	멍게/ncn+젓갈/ncn+이/jcc
+
+더
+	더/mag
+
+상큼하니
+	상큼/ncps+하/xsms+니/ecs
+
+맛있더라구요
+	맛있/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+다시
+	다시/mag
+
+이날의
+	이/nnc+날/nbu+의/jcm
+
+하일라이트
+	하일라이트/ncn
+
+시간인
+	시간/ncn+이/jp+ㄴ/etm
+
+여수세계박람회를
+	여수/ncn+세계박람회/ncn+를/jco
+
+즐겨볼까요
+	즐기/pvg+어/ecx+보/px+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+여수엑스포
+	여수/ncn+엑스포/ncn
+
+관람권은
+	관람/ncpa+권/ncn+은/jxc
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+전시관
+	전시관/ncn
+
+8개를
+	8/nnc+개/nbu+를/jco
+
+사전예약제로
+	사전/ncn+예약제/ncn+로/jca
+
+운영하고
+	운영/ncpa+하고/jct
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+한장의
+	한/nnc+장/nbu+의/jcm
+
+입장권
+	입장권/ncn
+
+당
+	당/ncn
+
+2개의
+	2/nnc+개/nbu+의/jcm
+
+전시관을
+	전시관/ncn+을/jco
+
+예약해서
+	예약/ncpa+하/xsva+어서/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+인기가
+	인기/ncn+가/jcs
+
+좋은
+	좋/paa+은/etm
+
+전시관인
+	전시관/ncn+이/jp+ㄴ/etm
+
+아쿠아리움
+	아쿠아리움/ncn
+
+같은
+	같/paa+은/etm
+
+경우엔
+	경우/ncn+엔/jca
+
+인터넷
+	인터넷/ncn
+
+사전예약으로
+	사전/ncn+예약/ncpa+으로/jca
+
+예약하기
+	예약/ncpa+하/xsva+기/etn
+
+꽤
+	꽤/mag
+
+어렵더라구요
+	어렵/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+전
+	전/nbn
+
+주제관이랑
+	주제/ncn+관/ncn+이/jcs+랑/jxc
+
+한국관을
+	한국관/ncn+을/jco
+
+미리
+	미리/mag
+
+예약해
+	예약/ncpa+하/xsva+어/ecx
+
+두었습니다
+	두/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+인원변동이
+	인원/ncn+변동/ncpa+이/jcc
+
+수시로
+	수시로/mag
+
+있어서
+	있/px+어서/ecs
+
+인터넷
+	인터넷/ncn
+
+예약할때
+	예약/ncpa+하/xsva+ㄹ/etm+때/nbn
+
+자주
+	자주/mag
+
+들어가보면
+	들/pvg+어/ecx+가/px+아/ecx+보/px+면/ecs
+
+취소자
+	취소/ncpa+이/jp+자/ecc
+
+자리가
+	자리/ncn+가/jcs
+
+날
+	나/px+ㄹ/etm
+
+수있으니
+	수/nbn+있/xsmn+으니/ecs
+
+잘
+	잘/mag
+
+체크하심
+	체크/ncpa+하심/ncn
+
+원하는
+	원하/pvg+는/etm
+
+전시관을
+	전시관/ncn+을/jco
+
+보실
+	보/px+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+인터넷
+	인터넷/ncn
+
+사전예약이
+	사전/ncn+예약/ncpa+이/jcc
+
+30%,
+	30/nnc+%/su+,/sp
+
+현장예약이
+	현장/ncn+예약/ncpa+이/jcc
+
+70%라고
+	70/nnc+%/su+라고/jxc
+
+하니
+	하/pvg+니/ecs
+
+예약
+	예약/ncpa
+
+못했다고
+	못하/px+었/ep+다/ef+고/jcr
+
+실망할
+	실망/ncpa+하/xsva+ㄹ/etm
+
+필요는
+	필요/ncps+는/jxc
+
+없구요
+	없구요/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+아쿠아리움을
+	아쿠아리움/ncn+을/jco
+
+제외하고
+	제외/ncpa+하고/jct
+
+나머지
+	나머지/ncn
+
+관들은
+	관/ncn+들/xsncc+은/jxc
+
+6시이후에는
+	6/nnc+시/nbu+이후/xsnu+에/jca+는/jxc
+
+선착순
+	선착/ncn+순/ncn
+
+관람이
+	관람/ncpa+이/jcc
+
+가능하다고
+	가능/ncps+하/xsms+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+주
+	주/nbu
+
+전시관
+	전시관/ncn
+
+관람시간
+	관람/ncpa+시간/ncn
+
+이외에는
+	이외/ncn+에/jca+는/jxc
+
+그외
+	그외/mmd
+
+국제관이나
+	국제/ncn+관/ncn+이나/jcj
+
+기업관,
+	기업/ncn+관/ncn+,/sp
+
+야외
+	야외/ncn
+
+공연
+	공연/ncpa
+
+등으로
+	등/nbu+으로/jca
+
+시간을
+	시간/ncn+을/jco
+
+할애하시면
+	할애/ncpa+하시/ncn+이/jp+면/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+실내보다
+	실내/ncn+보다/jca
+
+야외공연이
+	야외공연/ncpa+이/jcc
+
+더
+	더/mag
+
+보기
+	보/px+기/etn
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+거
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+예약해둔
+	예약/ncpa+하/xsva+어/ecx+두/px+ㄴ/etm
+
+전시관은
+	전시관/ncn+은/jxc
+
+아직
+	아직/mag
+
+시간이
+	시간/ncn+이/jcc
+
+안되고해서
+	안되/paa+고/ecx+하/px+어서/ecs
+
+빅오
+	빅오/ncn
+
+야외공연장에서
+	야외/ncn+공연장/ncn+에서/jca
+
+해상쇼가
+	해상/ncn+쇼/ncpa+가/jcc
+
+있다고
+	있/px+다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+앉아서
+	앉/pvg+아/ecx
+
+기다렸습니다
+	기다리/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+2시공연이었는데
+	2시공연/ncn+이/jp+었/ep+는데/ecs
+
+이전부터
+	이전/ncn+부터/jxc
+
+많은
+	많/paa+은/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+자리를
+	자리/ncn+를/jco
+
+잡고
+	잡/pvg+고/ecc
+
+앉으셨더라구요
+	앉/pvg+으셨/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+왼쪽에서
+	왼쪽/ncn+에서/jca
+
+오른쪽
+	오르/pvg+ㄴ/etm+쪽/nbn
+
+공연장을
+	공연장/ncn+을/jco
+
+파노라마로
+	파노라마/ncn+로/jca
+
+담아봤습니다
+	담/pvg+아/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+공연시작
+	공연/ncps+시작/ncpa
+
+전이라
+	전/nbn+이/jp+라/ecs
+
+조금
+	조금/mag
+
+여유있어
+	여유/ncn+있/xsmn+어/ecx
+
+보이는데,
+	보이/pvg+ㄴ데/ecs+,/sp
+
+배우들이
+	배우/ncn+들/ncn+이/jcc
+
+나오면서
+	나/pvg+아/ecx+오/px+면서/ecc
+
+열기가
+	열/pvg+기/etn+가/jcs
+
+더해갔던
+	더하/paa+어/ecx+가/px+아/ep+ㄴ/etm
+
+곳이구요
+	곳이구요/ncn
+
+.
+	./sf
+
+
+저녁
+	저녁/ncn
+
+9시30분에서
+	9시30분/ncn+에서/jca
+
+10시까지
+	10/nnc+시/nbu+까지/jxc
+
+빅오
+	빅오/ncn
+
+야간
+	야간/ncn
+
+뉴미디어쇼인
+	뉴미디어/ncn+쇼/ncpa+이/jp+ㄴ/etm
+
+수상공연페스티벌도
+	수상/ncpa+공연/ncps+페스티벌/ncn+도/jxc
+
+이곳에서
+	이곳/npd+에서/jca
+
+펼쳐집니다
+	펼치/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이날
+	이/nnc+날/nbu
+
+두곳의
+	두/nnc+곳/nbu+의/jcm
+
+전시관을
+	전시관/ncn+을/jco
+
+보았는데요
+	보/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+한곳은
+	한곳/ncn+은/jxc
+
+주제관입니다
+	주제/ncn+관/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+듀공이
+	듀공/ncn+이/jcc
+
+안내하는
+	안내/ncpa+하/xsva+는/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+떠나는
+	떠나/pvg+는/etm
+
+바다여행
+	바다/ncn+여행/ncpa
+
+.
+	./sf
+
+
+예약하고
+	예약/ncpa+하고/jct
+
+갔다고해서
+	가/px+아/ep+다고/ecx+하/px+어서/ecs
+
+바로
+	바로/mag
+
+입장하는
+	입장/ncpa+하/xsva+는/etm
+
+줄
+	줄/nbn
+
+알았더니
+	알/pvg+아/ep+니/ecs
+
+모든
+	모든/mma
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+예약하고
+	예약/ncpa+하고/jct
+
+왔기에
+	오/px+아/ep+기/etn+에/jca
+
+이곳에서도
+	이곳/npd+에서/jca+도/jxc
+
+기다림의
+	기다림/ncn+의/jcm
+
+미학을
+	미학/ncn+을/jco
+
+발휘해줘야
+	발휘/ncpa+하/xsva+어/ecx+주/px+어야/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+긴
+	길/paa+ㄴ/etm
+
+줄을
+	줄/nbn+을/jco
+
+기다려서
+	기다리/pvg+어서/ecs
+
+돌아보는
+	돌/pvg+아/ecx+보/px+는/etm
+
+시간은
+	시간/nbu+은/jxc
+
+30분
+	30/nnc+분/nbu
+
+정도되는데요
+	정도/ncn+되/xsvn+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+각
+	각/mma
+
+공간마다
+	공간/ncn+마다/jxc
+
+안내를
+	알/pvg+ㄴ/etm+내/nbn+를/jco
+
+받아서
+	받/pvg+아/ecx
+
+일정
+	일정/ncn
+
+인원이
+	인원/ncn+이/jcc
+
+한꺼번에
+	한꺼번에/mag
+
+움직입니다
+	움직이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+환경에
+	환경/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+생각,
+	생각/ncpa+,/sp
+
+바다의
+	바다/ncn+의/jcm
+
+오염과
+	오염/ncpa+과/jcj
+
+실태,
+	실태/ncn+,/sp
+
+중요성,
+	중요성/ncn+,/sp
+
+가치를
+	가치/ncn+를/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+하는
+	하/pvg+는/etm
+
+영상관람,
+	영상/ncn+관람/ncpa+,/sp
+
+영상속
+	영상/ncn+속/ncn
+
+듀공과
+	듀공/ncn+과/jct
+
+함께
+	함께/mag
+
+대화하는
+	대화/ncpa+하/xsva+는/etm
+
+시간도
+	시간/nbu+도/jxc
+
+갖구요
+	갖구요/ncn
+
+.
+	./sf
+
+
+마지막엔
+	마지막/ncn+엔/jca
+
+메인관에서듀공과
+	메인관에서듀공/ncn+과/jcj
+
+인간의교감,
+	인간의교감,/ncn
+
+서로함께하는
+	서로함께하/ncn+는/jxc
+
+존재임을알게하는
+	존재임을알게하/ncn+는/jxc
+
+공연으로
+	공연/ncps+으로/jca
+
+공중으로
+	공중/ncn+으로/jca
+
+날아다니는듀공을
+	날아다니는듀공/ncn+을/jco
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+무척
+	무척/mag
+
+신기해하면서
+	신기/ncps+하/xsms+어/ecx+하/px+면서/ecc
+
+관람을
+	관람/ncpa+을/jco
+
+했었답니다
+	하/px+었었/ep+답니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+또
+	또/maj
+
+한곳은
+	한곳/ncn+은/jxc
+
+아쿠아리움입니다
+	아쿠아리움입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+전시관
+	전시관/ncn
+
+중에서도
+	중/nbn+에서/jca+도/jxc
+
+가장
+	가장/mag
+
+인기가
+	인기/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+곳이라
+	곳/ncn+이/jp+라/ecs
+
+줄이
+	줄/nbn+이/jcc
+
+끊이지
+	끊이/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+늘어나던
+	늘/pvg+어/ecx+나/px+던/etm
+
+곳인데요
+	곳인데요/ncn
+
+.
+	./sf
+
+
+주중으로
+	주중/ncn+으로/jca
+
+예약하시고
+	예약/ncpa+하시/ncn+이/jp+고/ecc
+
+다녀오시는
+	다니/pvg+어/ecx+오/px+시/ep+는/etm
+
+것이
+	것/nbn+이/jcc
+
+훨씬
+	훨씬/mag
+
+여유롭게
+	여유/ncn+롭/xsmn+게/ecs
+
+관람하실
+	관람/ncpa+하/xsva+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있지
+	있/px+지/ecx
+
+않을까
+	않/px+을까/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아쿠아리움은
+	아쿠아리움/ncn+은/jxc
+
+이미
+	이미/mag
+
+매스컴을
+	매스컴/ncn+을/jco
+
+통해서
+	통하/pvg+어서/ecs
+
+신비로운
+	신비/ncps+로운/ncn
+
+장면들을
+	장면/ncn+들/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+봐서
+	보/pvg+아/ecx
+
+큰
+	크/paa+ㄴ/etm
+
+기대감을
+	기대감/ncn+을/jco
+
+갖고
+	갖/pvg+고/ecc
+
+가게
+	가/px+게/ecs
+
+되는
+	되/pvg+는/etm
+
+곳인데요
+	곳인데요/ncn
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+영상만큼
+	영상/ncn+만큼/jxc
+
+와닿지
+	와닿지/ncn
+
+않는다는
+	않/px+는다/ef+는/etm
+
+것이
+	것/nbn+이/jcc
+
+조금
+	조금/mag
+
+아쉬움이었지만
+	아쉬움/ncn+이/jp+었/ep+지만/ecs
+
+거대한
+	거대/ncps+하/xsms+ㄴ/etm
+
+수조,
+	수조/ncn+,/sp
+
+그
+	그/mmd
+
+가운데를
+	가운데/ncn+를/jco
+
+걷고
+	걷/pvg+고/ecc
+
+있다는
+	있/px+다/ef+는/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+특별하긴
+	특별하긴/ncn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아이들의
+	아이/ncn+들/ncn+의/jcm
+
+시선에서는
+	시선/ncn+에서/jca+는/jxc
+
+바닷속을
+	바닷속/ncn+을/jco
+
+걷는
+	걷/pvg+는/etm
+
+기분이
+	기분/ncn+이/jcc
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+싶어요
+	싶/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+엑스포장에서
+	엑스포/ncn+장/ncn+에서/jca
+
+밤10시까지
+	밤10시까지/ncn
+
+공연을
+	공연/ncps+을/jco
+
+관람하고
+	관람/ncpa+하고/jct
+
+복잡한
+	복잡/ncps+하/xsms+ㄴ/etm
+
+인근에서
+	인근/ncn+에서/jca
+
+숙박을
+	숙박/ncpa+을/jco
+
+하기보다
+	하/pvg+기/etn+보다/jca
+
+광주로
+	광주/ncn+로/jca
+
+이동을
+	이/nnc+동/nbu+을/jco
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+여수에서
+	여수/ncn+에서/jca
+
+광주까지
+	광주/ncn+까지/jxc
+
+대략
+	대략/mag
+
+1시간30분이상이
+	1시간30분이상/ncn+이/jcc
+
+걸리는데요
+	걸리/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+야간공연까지
+	야간/ncn+공연/ncpa+까지/jxc
+
+보고
+	보/px+고/ecc
+
+이동하기는
+	이동/ncn+하기/ncn+는/jxc
+
+사실
+	사실/mag
+
+좀
+	좀/mag
+
+무리가
+	무리/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+코스이긴
+	코스이긴/ncn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+저녁
+	저녁/ncn
+
+수상공연을
+	수상/ncpa+공연/ncps+을/jco
+
+포기하고
+	포/ncn+이/jp+기/etn+하고/jct
+
+저녁먹고
+	저녁/ncn+먹/ncn+고/jcj
+
+이동을
+	이/nnc+동/nbu+을/jco
+
+한다면
+	하/pvg+ㄴ다면/ecs
+
+딱
+	딱/mag
+
+좋은
+	좋/paa+은/etm
+
+코스인
+	코스/ncn+이/jp+ㄴ/etm
+
+거
+	것/nbn
+
+같구요
+	같구요/ncn
+
+.
+	./sf
+
+
+빅오
+	빅오/ncn
+
+수상쇼를
+	수상/ncpa+쇼/ncpa+를/jco
+
+필히
+	필히/mag
+
+봐야한다면
+	보/pvg+아/ecx+하/px+ㄴ다면/ecs
+
+한시간안으로
+	한/nnc+시간/nbu+안/xsnx+으로/jca
+
+이동할
+	이동/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳에
+	곳/nbn+에/jca
+
+숙박을
+	숙박/ncpa+을/jco
+
+정하는
+	정하/pvg+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋을
+	좋/paa+을/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+어차피
+	어차피/mag
+
+여수
+	여수/ncn
+
+주변은
+	주변/ncn+은/jxc
+
+숙박지가
+	숙박/ncpa+지가/ncn
+
+붐빌테니
+	붐비/paa+ㄹ테니/ecs
+
+주변지역으로
+	주변지역/ncn+으로/jca
+
+이동해서
+	이동/ncn+해서/ncn
+
+여행지도
+	여행지/ncn+도/jxc
+
+함께
+	함께/mag
+
+돌아보면
+	돌/pvg+아/ecx+보/px+면/ecs
+
+좋을
+	좋/paa+을/etm
+
+듯
+	듯/nbn
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+여튼
+	여튼/ncn
+
+여행자들이라
+	여행자/ncn+들이/ncn+이/jp+라/ecs
+
+무리해서
+	무리/ncn+해서/ncn
+
+광주까지
+	광주까지/ncn
+
+이동을
+	이/nnc+동/nbu+을/jco
+
+하고
+	하/pvg+고/ecc
+
+숙박지에
+	숙박지/ncn+에/jca
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+시간이
+	시간/ncn+이/jcc
+
+새벽1시경이었습니다
+	새벽1시경이었습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+묵은
+	묵/pvg+은/etm
+
+곳은
+	곳/ncn+은/jxc
+
+"홀리데이인
+	"/sl+홀리데이/ncn+이/jp+ㄴ/etm
+
+광주"였는데요
+	광주"였는데요/ncn
+
+.
+	./sf
+
+
+김대중컨벤션센터
+	김대중컨벤션센터/ncn
+
+바로
+	바로/mag
+
+옆입니다
+	옆/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+같이
+	같/paa+이/xsa
+
+하기로한
+	하기로한/ncn
+
+언니가
+	언니/ncn+가/jcs
+
+취소하는
+	취소/ncpa+하/xsva+는/etm
+
+바람에
+	바라/pvg+ㅁ/etn+에/jca
+
+전
+	전/nbn
+
+혼자
+	혼자/mag
+
+너른
+	너르/paa+ㄴ/etm
+
+방을
+	방/ncn+을/jco
+
+독차지하게
+	독차지/ncpa+하/xsva+게/ecs
+
+되었는데요
+	되/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+내부가
+	내부/ncn+가/jcs
+
+넓고
+	넓/paa+고/ecc
+
+좋아서
+	좋/paa+아/ecx
+
+한참이나
+	한참/ncn+이나/jcj
+
+구경하느라
+	구경/ncpa+하/xsva+느라/ecs
+
+잠드는
+	잠들/pvg+는/etm
+
+시간이
+	시간/ncn+이/jcc
+
+미뤄졌었지요
+	미루/pvg+어/ecx+지/px+었었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+늦게
+	늦/paa+게/ecs
+
+입실한
+	입실/ncn+한/ncn
+
+것이
+	것/nbn+이/jcc
+
+무척이나
+	무척/mag+이나/jxc
+
+아쉬운
+	아쉽/paa+은/etm
+
+곳이었어요
+	곳/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+내부
+	내부/ncn
+
+모습
+	모습/ncn
+
+구석구석
+	구석/ncn+구석/ncn
+
+다시
+	다시/mag
+
+보여드리겠습니다
+	보이/pvg+어/ecx+드리/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+담날
+	담날/ncn
+
+광주에서
+	광주/ncn+에서/jca
+
+첨
+	첨/ncn
+
+들린
+	들리/pvg+ㄴ/etm
+
+곳이
+	곳/ncn+이/jcc
+
+국립5.
+	국립5./ncn
+
+18광주민주묘역입니다
+	18광주민주묘역입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+광주여행때는
+	광주여행때/ncn+는/jxc
+
+거리도
+	거리/ncn+도/jxc
+
+그렇고
+	그렇/pad+고/ecc
+
+해서
+	하/pvg+어서/ecs
+
+이곳에
+	이곳/npd+에/jca
+
+들리지
+	들리/pvg+지/ecx
+
+않았었는데요
+	않/px+았었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+광주여행
+	광주여행/ncn
+
+때는
+	때/ncn+는/jxc
+
+5월
+	5/nnc+월/nbu
+
+18일도
+	18/nnc+일/nbu+도/jxc
+
+어제였고
+	어제/ncn+이/jp+었/ep+고/ecc
+
+의미가
+	의미/ncpa+가/jcc
+
+있는
+	있/px+는/etm
+
+즈음이라
+	즈음/ncpa+이/jp+라/ecs
+
+들린듯
+	들리/pvg+ㄴ/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+일행분들과
+	일행/ncn+분/ncn+들/xsncc+과/jct
+
+함께
+	함께/mag
+
+들어서니
+	들어서/pvg+니/ecs
+
+앞에서
+	앞/ncn+에서/jca
+
+흰국화꽃
+	흰국화꽃/ncn
+
+한송이씩을
+	한/nnc+송이/nbu+씩/xsnu+을/jco
+
+나눠줍니다
+	나누/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+헌화도
+	헌화/ncn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+묘지석을
+	묘지/ncn+석/ncn+을/jco
+
+보면서
+	보/px+면서/ecc
+
+걷다보니
+	걷다보/ncn+이/jp+니/ecs
+
+어느새
+	어느새/mag
+
+눈물이
+	눈물/ncn+이/jcc
+
+핑그르르
+	핑그르르/ncn
+
+돌더라구요
+	돌/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+묘비명에
+	묘비명/ncn+에/jca
+
+적힌
+	적히/pvg+ㄴ/etm
+
+글을
+	글/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+혈육의
+	혈육/ncn+의/jcm
+
+사무친
+	사무치/pvg+ㄴ/etm
+
+정이
+	정/ncn+이/jcc
+
+그대로
+	그대로/mag
+
+전해집니다
+	전하/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아픈
+	아프/paa+ㄴ/etm
+
+역사이면서
+	역사/ncn+이/jp+면서/ecc
+
+이들의
+	이/ncn+들/xsncc+의/jcm
+
+희생이
+	희생/ncpa+이/jcc
+
+있었기에
+	있/px+었/ep+기/etn+에/jca
+
+지금의
+	지금/ncn+의/jcm
+
+이땅의
+	이땅/ncn+의/jcm
+
+모습도
+	모습/ncn+도/jxc
+
+있는거겠지요
+	있는거/ncn+이/jp+겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+참배객들이
+	참배/ncpa+객/ncn+들/xsncc+이/jcc
+
+줄을
+	줄/nbn+을/jco
+
+잇고
+	잇/pvg+고/ecc
+
+있어
+	있/px+어/ecx
+
+우리의
+	우리/npp+의/jcm
+
+미래엔
+	미래/ncn+엔/jca
+
+이들의
+	이/ncn+들/xsncc+의/jcm
+
+넋으로인해
+	넋으로인해/ncn
+
+새로운
+	새롭/paa+은/etm
+
+날이
+	날/ncn+이/jcc
+
+올거라
+	오/px+ㄹ/etm+것/nbn+이/jp+라/ecs
+
+믿습니다
+	믿/pvg+습니다/ef
+
+.
+	./sf
+
+
+묘지를
+	묘지/ncn+를/jco
+
+돌아보고
+	돌/pvg+아/ecx+보/px+고/ecc
+
+추모전시관에
+	추모/ncpa+전시관/ncn+에/jca
+
+들러봤습니다
+	들르/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+왼쪽에
+	왼쪽/ncn+에/jca
+
+새로이
+	새로이/mag
+
+지어진
+	지/px+어/ecx+지/px+ㄴ/etm
+
+건물이었는데요
+	건물/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+이야기로
+	이야기/ncpa+로/jca
+
+듣는
+	듣/pvg+는/etm
+
+민주화운동이
+	민주화/ncn+운동/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+직접
+	직접/mag
+
+그때의
+	그때/ncn+의/jcm
+
+영상도
+	영상/ncn+도/jxc
+
+보면서
+	보/px+면서/ecc
+
+무참하게
+	무참/ncps+하/xsms+게/ecs
+
+희생되어간
+	희생/ncpa+되/xsvn+어/ecx+가/px+ㄴ/etm
+
+이들을
+	이/ncn+들/xsncc+을/jco
+
+떠올려
+	떠올리/pvg+어/ecx
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었던
+	있/paa+었/ep+던/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+마음이
+	마음/ncn+이/jcc
+
+먹먹해서
+	먹먹해서/ncn
+
+힘들기도
+	힘들/pvg+기/etn+도/jxc
+
+했는데요
+	하/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+어릴때이긴
+	어릴때이긴/ncn
+
+했지만
+	하/px+었/ep+지만/ecs
+
+어떻게
+	어떻/pad+게/ecs
+
+같은
+	같/paa+은/etm
+
+땅에서
+	땅/ncn+에서/jca
+
+한곳에서
+	한곳/ncn+에서/jca
+
+이런
+	이런/mmd
+
+처참한
+	처참/ncps+하/xsms+ㄴ/etm
+
+상황이었음을
+	상황/ncn+이/jp+었/ep+음/etn+을/jco
+
+모르고
+	모르/pvg+고/ecc
+
+있었을까
+	있/px+었/ep+을까/ef
+
+싶기도
+	싶/px+기/etn+도/jxc
+
+해서
+	하/pvg+어서/ecs
+
+스스로
+	스스로/mag
+
+한심해지기도
+	한심/ncn+해지/ncpa+이/jp+기/etn+도/jxc
+
+했었습니다
+	하/px+었었/ep+습니다/ef
+
+.
+	./sf
+
+
+광주에서
+	광주/ncn+에서/jca
+
+담양은
+	담양/ncn+은/jxc
+
+가까운
+	가깝/paa+은/etm
+
+거리입니다
+	거리/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+담양으로
+	담양/ncn+으로/jca
+
+이동해서
+	이동/ncn+해서/ncn
+
+첨
+	첨/ncn
+
+들린
+	들리/pvg+ㄴ/etm
+
+곳이
+	곳/ncn+이/jcc
+
+죽녹원
+	죽녹원/ncn
+
+.
+	./sf
+
+
+담양
+	담양/ncn
+
+여행지하면
+	여행/ncpa+지하/ncn+이/jp+면/ecs
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+곳이지요
+	곳/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+푸른
+	푸르/paa+ㄴ/etm
+
+대나무의
+	대나무/ncn+의/jcm
+
+기운을
+	기운/ncn+을/jco
+
+잔뜩
+	잔뜩/mag
+
+받겠구나
+	받/pvg+겠/ep+구나/ef
+
+하고
+	하/pvg+고/ecc
+
+찾아간
+	찾/pvg+아/ecx+가/px+ㄴ/etm
+
+죽녹원은
+	죽녹원/ncn+은/jxc
+
+주말
+	주말/ncn
+
+오후가
+	오후/ncn+가/jcs
+
+되어가면서
+	되/pvg+어/ecx+가/px+면서/ecc
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+물결이
+	물결/ncn+이/jcc
+
+끊이지
+	끊이/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+늘
+	늘/mag
+
+그렇지만
+	그렇/pad+지만/ecs
+
+한가한
+	한가/ncps+하/xsms+ㄴ/etm
+
+대숲길을
+	대숲/ncn+길/ncn+을/jco
+
+걸어본
+	걷/pvg+어/ecx+보/px+ㄴ/etm
+
+적이
+	적/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+거
+	것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+연인들과
+	연인/ncn+들/ncn+과/jcj
+
+가족나들이
+	가족나들이/ncn
+
+장소로
+	장소/ncn+로/jca
+
+꼽히는
+	꼽히/pvg+는/etm
+
+곳답게
+	곳/ncn+답/xsmn+게/ecs
+
+많은
+	많/paa+은/etm
+
+이들이
+	이/ncn+들/xsncc+이/jcc
+
+찾았습니다
+	찾/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+무리에
+	무리/ncn+에/jca
+
+끼어서
+	끼/pvg+어서/ecs
+
+우리도
+	우리/npp+도/jxc
+
+천천히
+	천천히/mag
+
+대숲사이로
+	대숲/ncn+사이/ncn+로/jca
+
+걸었는데요
+	걷/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+댓잎아이스크림
+	댓잎아이스크림/ncn
+
+하나
+	하나/nnc
+
+들고
+	들/pvg+고/ecc
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+넘어가는
+	넘/pvg+어/ecx+가/px+는/etm
+
+차가운
+	차갑/paa+은/etm
+
+기운에
+	기운/ncn+에/jca
+
+기분도
+	기분/ncn+도/jxc
+
+살짝
+	살짝/mag
+
+업되고
+	업/ncn+되/xsvn+고/ecc
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+푸른
+	푸르/paa+ㄴ/etm
+
+대나무가
+	대나무/ncn+가/jcs
+
+쑥쑥
+	쑥쑥/mag
+
+자라고
+	자/nbn+이/jp+라/ef+고/jcr
+
+있는
+	있/px+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+보기
+	보/px+기/etn
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+이곳저곳
+	이곳저곳/npd
+
+기념글씨를
+	기념/ncpa+글씨/ncn+를/jco
+
+대나무에
+	대나무/ncn+에/jca
+
+상처로
+	상처/ncn+로/jca
+
+남겨놓아서
+	남기/pvg+어/ecx+놓/px+아/ecx
+
+보기는
+	보/px+기/etn+는/jxc
+
+그랬지만
+	그렇/pad+었/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+저작
+	저작/ncpa
+
+대나무는
+	대나무/ncn+는/jxc
+
+무신경하게
+	무신경/ncps+하/xsms+게/ecs
+
+하늘만
+	하늘/ncn+만/jxc
+
+바라보고
+	바라/pvg+아/ecx+보/px+고/ecc
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+5월의
+	5/nnc+월/nbu+의/jcm
+
+대숲은
+	대숲/ncn+은/jxc
+
+다른
+	다른/mma
+
+계절보다
+	계절/ncn+보다/jca
+
+더
+	더/mag
+
+푸르지
+	푸르/paa+지/ecx
+
+않을까
+	않/px+을까/ef
+
+싶었는데
+	싶/px+었/ep+는데/ecs
+
+생각했던
+	생각/ncpa+하/xsva+었/ep+던/etm
+
+것보다는
+	것/nbn+보다/jca+는/jxc
+
+생기가
+	생기/ncn+가/jcs
+
+덜해서
+	덜하/paa+어서/ecs
+
+살짝
+	살짝/mag
+
+아쉬움도
+	아쉬움/ncn+도/jxc
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+새벽녘이나
+	새벽녘/ncn+이나/jcj
+
+비오는날
+	비오는날/ncn
+
+걸으면
+	걸/pvg+면/ecs
+
+어떨까
+	어떨까/ncn
+
+싶은
+	싶/px+은/etm
+
+상상을
+	상상/ncn+을/jco
+
+하게
+	하/pvg+게/ecs
+
+만들었어요
+	만들/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+담양에서
+	담양/ncn+에서/jca
+
+점심을
+	점심/ncn+을/jco
+
+먹는다하면
+	먹는다하/ncn+이/jp+면/ecs
+
+번뜻
+	번뜻/ncn
+
+떠오르는
+	떠오르/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+떡갈비입니다
+	떡갈비입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+대통밥이
+	대통/ncn+밥/ncn+이/jcc
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+이
+	이/mmd
+
+두가지를
+	두/nnc+가지/nbu+를/jco
+
+다
+	다/mag
+
+해결하는
+	해결/ncpa+하/xsva+는/etm
+
+점심시간
+	점심/ncn+시간/ncn
+
+..
+	./sf+./sf
+
+
+관방제림
+	관방제림/ncn
+
+입구쪽에
+	입구/ncn+쪽/ncn+에/jca
+
+있었던
+	있/paa+었/ep+던/etm
+
+옥빈관입니다
+	옥빈관입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+찬이
+	찬/ncn+이/jcc
+
+잘
+	잘/mag
+
+나오기로
+	나/pvg+아/ecx+오/px+기/etn+로/jca
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+곳이라고
+	곳/ncn+이/jp+라/ef+고/jcr
+
+하던데
+	하/px+더/ep+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+역시나죽순회무침을
+	역시나죽순회무침/ncn+을/jco
+
+비롯해서다양한
+	비롯/ncpa+해서/ncn+다양/ncn+한/ncn
+
+밑반찬에
+	밑반찬/ncn+에/jca
+
+김이
+	김/nbn+이/jcc
+
+모락모락
+	모락모락/mag
+
+나는
+	나/npp+는/jxc
+
+대통밥이
+	대통/ncn+밥/ncn+이/jcc
+
+나왔더라구요
+	나/pvg+아/ecx+오/px+아/ep+라구/ef+요/jxf
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+먹은건
+	먹은건/ncn
+
+대통밥정식에서
+	대통밥정식/ncn+에서/jca
+
+떡갈비를
+	떡갈비/ncn+를/jco
+
+추가로
+	추가/ncpa+로/jca
+
+해서
+	하/pvg+어서/ecs
+
+먹었는데요
+	먹/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+떡갈비가
+	떡갈비/ncn+가/jcs
+
+바로
+	바로/mag
+
+지져서
+	지져서/ncn
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+기운이
+	기운/ncn+이/jcc
+
+유지되도록
+	유/ncn+이/jp+지/ecx+되/px+도록/ecs
+
+하는
+	하/pvg+는/etm
+
+그릇에
+	그릇/nbu+에/jca
+
+담겨나와서
+	담기/pvg+어/ecx+나/px+아/ecx+오/px+아/ecx
+
+따끈하게
+	따끈/ncps+하/xsms+게/ecs
+
+먹었습니다
+	먹/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+구운갈비
+	구운갈비/ncn
+
+향기
+	향기/ncn
+
+오래도록
+	오래도록/mag
+
+남더라구요
+	남/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+담양에서는
+	담양에서/ncn+는/jxc
+
+떡갈비의
+	떡갈비/ncn+의/jcm
+
+쫀득하고
+	쫀득하/ncn+이/jp+고/ecc
+
+향긋한
+	향긋/ncps+하/xsms+ㄴ/etm
+
+맛을
+	맛/ncn+을/jco
+
+꼭
+	꼭/mag
+
+만나셔야
+	만나/pvg+시/ep+어야/ecs
+
+허전하지
+	허전/ncps+하/xsms+지/ecx
+
+않으실
+	않/px+으시/ep+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+점심을
+	점심/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+난
+	나/px+ㄴ/etm
+
+후
+	후/ncn
+
+바로
+	바로/mag
+
+곁에
+	곁/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+관방제림
+	관방제림/ncn
+
+산책시간입니다
+	산책/ncpa+시간/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+서울로
+	서울/ncn+로/jca
+
+가기전까지
+	가/px+기/etn+전/xsnx+까지/jxc
+
+자유롭게
+	자유/ncn+롭/xsmn+게/ecs
+
+돌아보기로
+	돌/pvg+아/ecx+보/px+기/etn+로/jca
+
+했는데요
+	하/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+죽녹원
+	죽녹원/ncn
+
+바로
+	바로/mag
+
+강건너편이
+	강건너/ncn+편/ncn+이/jcc
+
+관방제림이라
+	관방제림이라/ncn
+
+죽녹원
+	죽녹원/ncn
+
+들리시면
+	들/pvg+ㄹ/etm+리/nbn+이/jp+시/ep+면/ecs
+
+이곳도
+	이곳/npd+도/jxc
+
+걸어보시면
+	걷/pvg+어/ecx+보/px+시/ep+면/ecs
+
+만족하실
+	만족/ncpa+하/xsva+시/ep+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+계속
+	계속/mag
+
+걸어서
+	걷/pvg+어서/ecs
+
+가면
+	가/px+면/ecs
+
+메타쉐콰이어길까지
+	메타쉐콰이어길/ncn+까지/jxc
+
+닿으니
+	닿/pvg+으니/ecs
+
+그렇게
+	그렇/pad+게/ecs
+
+이동해
+	이동/ncn+해/ncn
+
+보시는
+	보/px+시/ep+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋지요
+	좋/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+자가용을
+	자가용/ncn+을/jco
+
+갖고
+	갖/pvg+고/ecc
+
+오셨다면
+	오/px+셨/ep+다면/ecs
+
+되돌아와야하니
+	되돌아오/pvg+아/ecx+하/px+니/ecs
+
+동선이
+	동선/ncn+이/jcc
+
+좀
+	좀/mag
+
+꼬이긴
+	꼬이긴/ncn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+관방제림
+	관방제림/ncn
+
+아래
+	아래/ncn
+
+자전거길
+	자전거/ncn+길/ncn
+
+옆에
+	옆/ncn+에/jca
+
+클로버꽃이
+	클로버꽃/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+폈기에
+	피/pvg+었/ep+기/etn+에/jca
+
+꽃반지하나
+	꽃반지하/ncn+나/jcj
+
+만들어서
+	만들/pvg+어서/ecs
+
+끼고
+	끼/pvg+고/ecc
+
+산책을
+	산책/ncpa+을/jco
+
+나갔습니다
+	나/pvg+아/ecx+가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+역시나
+	역시/mag+나/jxc
+
+연둣빛,
+	연둣빛/ncn+,/sp
+
+진한초록이
+	진한초록/ncn+이/jcc
+
+어우러져서
+	어우러지/pvg+어서/ecs
+
+눈도
+	눈/ncn+도/jxc
+
+마음도
+	마음/ncn+도/jxc
+
+시원해
+	시원/ncps+하/xsms+어/ecx
+
+지는
+	지/px+는/etm
+
+곳이더라구요
+	곳/ncn+이/jp+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+토요일
+	토요일/ncn
+
+오후라
+	오후/ncn+이/jp+라/ecs
+
+길옆에
+	길옆/ncn+에/jca
+
+앉아서
+	앉/pvg+아/ecx
+
+쉬는
+	쉬/pvg+는/etm
+
+분들도
+	불/pvg+ㄴ/etm+들/nbn+도/jxc
+
+무척
+	무척/mag
+
+많았구요
+	많았구요/ncn
+
+.
+	./sf
+
+
+자전거
+	자전거/ncn
+
+타시는
+	타/pvg+시/ep+는/etm
+
+분들,
+	불/pvg+ㄴ/etm+들/nbn+,/sp
+
+나무그늘에
+	나무/ncn+그늘/ncn+에/jca
+
+낮은
+	낮/ncn+은/jxc
+
+분들
+	불/pvg+ㄴ들/ecs
+
+....
+	.../se+./sf
+
+
+길
+	길/paa+ㄹ/etm
+
+가장자리에
+	가장/ncn+자리/ncn+에/jca
+
+자리를
+	자리/ncn+를/jco
+
+깔고
+	깔/pvg+고/ecc
+
+앉은
+	앉/pvg+은/etm
+
+분들
+	불/pvg+ㄴ/etm+들/nbn
+
+...
+	.../se
+
+
+누구나
+	누구/npp+나/jcj
+
+이곳에서는
+	이곳/npd+에서/jca+는/jxc
+
+여유넘치는
+	여유넘치/ncn+는/jxc
+
+자연의
+	자연/ncn+의/jcm
+
+한
+	하/pvg+ㄴ/etm
+
+풍경이
+	풍경/ncn+이/jcc
+
+되더라구요
+	되/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+시간이
+	시간/ncn+이/jcc
+
+넉넉하면
+	넉넉/ncps+하/xsms+면/ecs
+
+끝까지
+	끝/ncn+까지/jxc
+
+걸어가보고
+	걷/pvg+어/ecx+가/px+아/ecx+보/px+고/ecc
+
+싶은데
+	싶/px+은/etm+데/nbn
+
+늘
+	늘/mag
+
+관방제림에서는
+	관방제림에서/ncn+는/jxc
+
+입구에서
+	입구/ncn+에서/jca
+
+살짝
+	살짝/mag
+
+느낌만
+	느끼/pvg+ㅁ/etn+만/jxc
+
+안고
+	안/pvg+고/ecc
+
+오고
+	오/px+고/ecc
+
+말게
+	말/px+게/ecs
+
+되네요
+	되/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+여수세계박람회장
+	여수/ncn+세계박람회/ncn+장/ncn
+
+곳곳에
+	곳곳/ncn+에/jca
+
+꽃이
+	꽃/ncn+이/jcc
+
+조성되어
+	조성/ncpa+되/xsvn+어/ecx
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+개양귀비가
+	개양귀비/ncn+가/jcs
+
+지는
+	지/px+는/etm
+
+해를
+	해/nbu+를/jco
+
+받아서
+	받/pvg+아/ecx
+
+이쁘기에
+	이쁘/paa+기/etn+에/jca
+
+쪼르르
+	쪼르르/mag
+
+달려갔는데
+	달리/pvg+어/ecx+가/px+아/ep+ㄴ데/ecs
+
+생각보다
+	생각/ncpa+보다/jca
+
+이쁘게
+	이쁘/paa+게/ecs
+
+담기지
+	담/pvg+기/etn+이/jp+지/ecs
+
+않아서
+	않/px+아/ecx
+
+포기하고
+	포/ncn+이/jp+기/etn+하고/jct
+
+돌아섰었거든요
+	돌아서/pvg+었었/ep+거든/ef+요/jxf
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+올해
+	올해/ncn
+
+첨
+	첨/ncn
+
+보는
+	보/px+는/etm
+
+양귀비가
+	양귀비/ncn+가/jcs
+
+반가워서
+	반갑/paa+어서/ecs
+
+담아봤습니다
+	담/pvg+아/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+엑스포기간
+	엑스포/ncn+기간/ncn
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+모습으로
+	모습/ncn+으로/jca
+
+방문객들을
+	방문객/ncn+들/ncn+을/jco
+
+맞아주었음
+	맞/pvg+아/ecx+주/px+었/ep+음/etn
+
+좋겠네요
+	좋/paa+겠/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+1박2일간의
+	1박2일간/ncn+의/jcm
+
+여수
+	여수/ncn
+
+광주
+	광주/ncn
+
+담양으로
+	담양/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+엑스포여행코스였는데요
+	엑스포/ncn+여행코스/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+여수를
+	여수/ncn+를/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+다른
+	다른/mma
+
+지역과
+	지역/ncn+과/jcj
+
+연계해서
+	연계/ncpa+해서/ncn
+
+여행코스를
+	여행코스/ncn+를/jco
+
+잡아보시는
+	잡/pvg+어/ecx+보/px+시/ep+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋구요
+	좋구요/ncn
+
+.
+	./sf
+
+
+계획하실때
+	계획하/ncn+이/jp+시/ep+ㄹ/etm+때/nbn
+
+참고하시라고다녀온
+	참고하시라고다녀온/ncn
+
+길을
+	길/ncn+을/jco
+
+주욱
+	주욱/ncn
+
+늘어놓아봤습니다
+	늘/pvg+어/ecx+놓/px+아/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+여행은
+	여행/ncpa+은/jxc
+
+주로
+	주로/mag
+
+여수엑스포지정업소를
+	여수/ncn+엑스포/ncn+지정/ncpa+업소/ncn+를/jco
+
+중심으로선택을
+	중심으로선택/ncn+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+것이구요
+	것이구요/ncn
+
+.
+	./sf
+
+
+남해안쪽
+	남해안/ncn+쪽/ncn
+
+여행지에서맛집,
+	여행지에서맛집,/ncn
+
+숙박지,
+	숙박지,/ncn
+
+쇼핑할
+	쇼핑/ncpa+하/xsva+ㄹ/etm
+
+곳
+	곳/ncn
+
+등여수세계박람회지정업소들이
+	등여수세계박람회지정업소들/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+아무래도
+	아무렇/pad+어도/ecs
+
+이전부터서비스나
+	이전부터서비스/ncn+나/jcj
+
+내용면에서
+	내용면/ncn+에서/jca
+
+검증을
+	검증/ncpa+을/jco
+
+거친
+	거칠/paa+ㄴ/etm
+
+곳이라믿고
+	곳이라믿고/ncn
+
+찾으셔도
+	찾/pvg+으시/ep+어도/ecs
+
+좋지
+	좋/paa+지/ecx
+
+않을까
+	않/px+을까/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+다
+	다/mag
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+할
+	하/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+없겠지만요
+	없/paa+겠/ep+지/ecs+만요/jxc
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+8월12일까지
+	8월12일까지/ncn
+
+여수
+	여수/ncn
+
+신항
+	신/xp+항/ncn
+
+일대에서
+	일/nnc+대/nbu+에서/jca
+
+펼쳐지는
+	펼치/pvg+어/ecx+지/px+는/etm
+
+2012여수세곔박람회
+	2012여수세곔박람회/ncn
+
+...
+	.../se
+
+
+박람회장도
+	박람회/ncn+장/ncn+도/jxc
+
+둘러보시고
+	두르/pvg+어/ecx+보/px+시/ep+고/ecc
+
+주변의
+	주변/ncn+의/jcm
+
+아름다운
+	아름답/paa+은/etm
+
+우리나라
+	우리나라/ncn
+
+곳곳도
+	곳곳/ncn+도/jxc
+
+여행하시는
+	여행/ncpa+하시/ncn+는/jxc
+
+좋은
+	좋/paa+은/etm
+
+기회를
+	기회/ncn+를/jco
+
+잡아보시길
+	잡아보시길/ncn
+
+바랍니다
+	바라/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+엑스포
+	엑스포/ncn
+
+공연과
+	공연/ncps+과/jcj
+
+광주
+	광주/ncn
+
+숙박지,
+	숙박지,/ncn
+
+담양의
+	담양/ncn+의/jcm
+
+이야기는
+	이야기/ncpa+는/jxc
+
+계속
+	계속/mag
+
+이어가겠습니다
+	잇/pvg+어/ecx+가/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+*차량들이
+	*/sy+차량/ncn+들/ncn+이/jcc
+
+임시주차장에
+	임시/ncn+주차장/ncn+에/jca
+
+주차하고
+	주차/ncn+하고/jct
+
+셔틀버스,
+	셔틀버스/ncn+,/sp
+
+순환버스를
+	순환/ncpa+버스/ncn+를/jco
+
+이용해서인지
+	이용/ncpa+해서/ncn+이/jp+ㄴ지/ecs
+
+인근
+	인근/ncn
+
+차량흐름이
+	차량흐름/ncn+이/jcc
+
+원활했습니다
+	원활/ncps+하/xsms+었/ep+습니다/ef
+
+.
+	./sf
+
+
+임시주차장
+	임시/ncn+주차장/ncn
+
+위치
+	위치/ncn
+
+
+:
+	:/sp
+
+
+:
+	:/sp
+
+
+2012여수세계박람회
+	2012여수세계박람회/ncn
+
+
+여수세계박람회
+	여수/ncn+세계박람회/ncn
+
+
+전라남도
+	전라/ncn+남도/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011204185",
+	"bl011204185",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"17281291",
+	"/sl+17281291/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"여수세계박람회",
+	title/f+:/sp+"/sl+여수/ncn+세계박람회/ncn+"/sr+,/sp
+
+pointX:337644,pointY:273988}
+	pointX/f+:/sp+337644/nnc+,/sp+pointY/f+:/sp+273988/nnc+}/sr

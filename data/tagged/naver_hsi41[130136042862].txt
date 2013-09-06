@@ -1,0 +1,649 @@
+'최초
+	'/sr+최초/ncn
+
+분양가보다
+	분양가/ncn+보다/jca
+
+최고
+	최고/ncn
+
+3억6000만
+	3/nnc+억/nnc+6000/nnc+만/jxc
+
+원
+	원/nbu
+
+할인해드립니다
+	할인/ncpa+하/xsva+어/ecx+드리/px+ㅂ니다/ef
+
+.'
+	./sf+'/sl
+
+
+한국토지주택공사(LH)가
+	한국토지주택공사(LH)/ncn+가/jcs
+
+서울
+	서울/ncn
+
+마포구
+	마포구/ncn
+
+신공덕동에
+	신/xp+공덕동/ncn+에/jca
+
+지은
+	지/px+ㄴ/etm
+
+주상복합아파트
+	주상/ncn+복합/ncpa+아파트/ncn
+
+'펜트라우스'의
+	'펜트라우스'/ncn+의/jcm
+
+잔여물량에
+	잔여/ncn+물량/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+잔금
+	잔금/ncn
+
+70%
+	70/nnc+%/su
+
+무이자
+	무/ncn+이/jp+자/ecc
+
+2년
+	2/nnc+년/nbu
+
+유예라는
+	유예/ncpa+라는/jcm
+
+파격적인
+	파격/ncpa+적/ncn+이/jp+ㄴ/etm
+
+판매조건을
+	판매조건/ncn+을/jco
+
+내걸었다
+	내걸/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이에
+	이/npd+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+152m
+	152m/ncn
+
+(전용면적
+	(/sl+전용/ncpa+면적/ncn
+
+기준)
+	기준/ncpa+)/sr
+
+아파트는
+	아파트/ncn+는/jxc
+
+최초
+	최초/ncn
+
+분양가(15억4294만
+	분양가(15억4294만/ncn
+
+원)보다
+	원/nbu+)/sr+보다/jca
+
+16%
+	16/nnc+%/su
+
+할인한
+	할/nbu+이/jp+ㄴ/etm+한/nbn
+
+12억9515만
+	12/nnc+억/nnc+9515/nnc+만/jxc
+
+원에
+	원/nbu+에/jca
+
+분양가가
+	분양가/ncn+가/jcs
+
+책정됐지만
+	책정/ncpa+되/xsvn+었/ep+지만/ecs
+
+잔금을
+	잔금/ncn+을/jco
+
+계약과
+	계약/ncpa+과/jct
+
+동시에
+	동시에/mag
+
+낸다면
+	내/pvg+ㄴ다면/ecs
+
+1억1200만
+	1/nnc+억/nnc+1200/nnc+만/jxc
+
+원을
+	원/nbu+을/jco
+
+추가로
+	추가/ncpa+로/jca
+
+할인받는다
+	할인/ncpa+받/xsva+는다/ef
+
+.
+	./sf
+
+
+결국
+	결국/mag
+
+11억8315만
+	11/nnc+억/nnc+8315/nnc+만/jxc
+
+원만
+	원/nbu+만/jxc
+
+내면
+	내/pvg+면/ecs
+
+된다는
+	되/pvg+ㄴ다/ef+는/etm
+
+의미로,
+	의미/ncpa+로/jca+,/sp
+
+최초
+	최초/ncn
+
+분양가보다
+	분양가/ncn+보다/jca
+
+무려
+	무려/mag
+
+23%
+	23/nnc+%/su
+
+이상
+	이상/ncn
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+가격이다
+	가격/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이처럼
+	이/npd+처럼/jca
+
+부동산
+	부동산/ncn
+
+경기
+	경기/ncn
+
+침체가
+	침체/ncpa+가/jcc
+
+장기화되면서
+	장기/ncn+화/ncn+되/xsvn+면서/ecc
+
+미분양
+	미분양/ncpa
+
+아파트
+	아파트/ncn
+
+판매
+	판매/ncpa
+
+촉진을
+	촉진/ncpa+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+가격
+	가격/ncn
+
+마케팅이
+	마케팅/ncn+이/jcc
+
+경쟁적으로
+	경쟁/ncpa+적/ncn+으로/jca
+
+도입되고
+	도입/ncpa+되/xsvn+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+한화건설은
+	한화/ncn+건설/ncpa+은/jxc
+
+경기
+	경기/ncn
+
+김포시
+	김포시/ncn
+
+풍무5지구에서
+	풍무5지구/ncn+에서/jca
+
+분양
+	분양/ncpa
+
+중인
+	중/nbn+이/jp+ㄴ/etm
+
+아파트
+	아파트/ncn
+
+'한화꿈에그린
+	'한화꿈에그린/ncn
+
+월드유로메트로'에
+	월드유로메트로'/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+'계약금
+	'/sr+계약금/ncn
+
+안심보장제'를
+	안심/ncn+보장제/ncn+'/sr+를/jco
+
+실시
+	실시/ncpa
+
+중이다
+	중/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+입주
+	입주/ncpa
+
+시점에
+	시점/ncn+에/jca
+
+부동산
+	부동산/ncn
+
+시장이
+	시장/ncn+이/jcc
+
+지금보다
+	지금/ncn+보다/jca
+
+악화되거나
+	악화/ncpa+되/xsvn+거나/ecc
+
+개인
+	개/nbu+이/jp+ㄴ/etm
+
+사정상
+	사정/ncn+상/ncn
+
+계약을
+	계약/ncpa+을/jco
+
+해지할
+	해/nbu+이/jp+지/ecx+하/px+ㄹ/etm
+
+사정이
+	사정/ncn+이/jcc
+
+생기면
+	생기/pvg+면/ecs
+
+계약금을
+	계약금/ncn+을/jco
+
+전액
+	전액/ncn
+
+환불해주는
+	환불해주/ncn+는/jxc
+
+제도다
+	제도/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+한라건설은
+	한라/ncn+건설/ncpa+은/jxc
+
+파주
+	파주/ncn
+
+운정신도시에
+	운정신도시/ncn+에/jca
+
+공급하는
+	공급/ncpa+하/xsva+는/etm
+
+아파트
+	아파트/ncn
+
+'한라비발디
+	'한라비발디/ncn
+
+플러스'의
+	플러스/ncpa+'/sr+의/jcm
+
+잔여물량에
+	잔여/ncn+물량/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+'분양가
+	'/sr+분양가/ncn
+
+보장제'를
+	보장제/ncn+'/sr+를/jco
+
+도입했다
+	도입/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+2013년
+	2013/nnc+년/nbu
+
+입주
+	입주/ncpa
+
+후
+	후/ncn
+
+1년이
+	1/nnc+년/nbu+이/jcc
+
+지난
+	지나/pvg+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+시세가
+	시세/ncn+가/jcs
+
+분양가보다
+	분양가/ncn+보다/jca
+
+낮게
+	낮/paa+게/ecs
+
+형성되면
+	형성/ncpa+되/xsvn+면/ecs
+
+분양금의
+	분양금/ncn+의/jcm
+
+최대
+	최대/ncn
+
+5%까지
+	5/nnc+%/su+까지/jxc
+
+보상해준다
+	보상/ncpa+하/xsva+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+STX건설은
+	STX건설/ncn+은/jxc
+
+경기
+	경기/ncn
+
+수원
+	수원/ncn
+
+장안구
+	장안/ncn+구/ncn
+
+이목동에
+	이목/ncn+동/ncn+에/jca
+
+짓는
+	짓/pvg+는/etm
+
+'수원
+	'/sr+수원/ncn
+
+장안
+	장안/ncn
+
+STX칸'
+	STX/f+칸/ncn+'/sr
+
+아파트
+	아파트/ncn
+
+대형
+	대형/ncn
+
+평형에
+	평형/ncpa+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+'프리미엄
+	'/sr+프리미엄/ncn
+
+보장제'를
+	보장제/ncn+'/sr+를/jco
+
+도입했다
+	도입/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+입주
+	입주/ncpa
+
+후
+	후/ncn
+
+6개월이
+	6/nnc+개월/nbu+이/jcc
+
+지나고도
+	지/nbn+이/jp+나/ef+고/jcr+도/jxc
+
+시세가
+	시세/ncn+가/jcs
+
+분양가보다
+	분양가/ncn+보다/jca
+
+오르지
+	오르/pvg+지/ecx
+
+않으면
+	않/px+으면/ecs
+
+전용면적
+	전용/ncpa+면적/ncn
+
+101m
+	101m/ncn
+
+는
+	늘/pvg+ㄴ/etm
+
+3000만
+	3000/nnc+만/jxc
+
+원,
+	원/nbu+,/sp
+
+114,
+	114/ncn+,/sp
+
+124m
+	124m/ncn
+
+는
+	늘/pvg+ㄴ/etm
+
+5000만
+	5000/nnc+만/jxc
+
+원을
+	원/nbu+을/jco
+
+건설사가
+	건설/ncpa+사가/ncn
+
+보전해주겠다는
+	보전/ncpa+하/xsva+어/ecx+주/px+겠/ep+다/ef+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+엠디엠은
+	엠디엠/ncn+은/jxc
+
+경기
+	경기/ncn
+
+수원
+	수원/ncn
+
+광교신도시에서
+	광교신도시/ncn+에서/jca
+
+분양하는
+	분양/ncpa+하/xsva+는/etm
+
+'푸르지오
+	'푸르지오/ncn
+
+월드마크'에
+	월드/ncn+마크/ncpa+'/sr+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+베란다
+	베란다/ncn
+
+무료
+	무료/ncn
+
+확장
+	확장/ncpa
+
+붙박이장
+	붙박이장/ncn
+
+무료
+	무료/ncn
+
+설치
+	설치/ncpa
+
+중도금
+	중도금/ncn
+
+대출이자
+	대출이자/ncn
+
+후불제
+	후불제/ncn
+
+지원
+	지원/ncpa
+
+등을
+	등/nbu+을/jco
+
+실시하고
+	실시/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+주택당
+	주택/ncn+당/ncn
+
+3000만
+	3000/nnc+만/jxc
+
+5000만
+	5000/nnc+만/jxc
+
+원을
+	원/nbu+을/jco
+
+지원해주는
+	지원/ncpa+하/xsva+어/ecx+주/px+는/etm
+
+셈이다
+	셈/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+송충현
+	송충/ncn+현/ncn
+
+기자
+	기/ncn+이/jp+자/ecc
+
+balgun@donga.
+	balgun/f+@/sy+donga/f+./sy
+
+com
+	com/f
+
+
+출처:동아일보
+	출처/ncn+:/sp+동아/ncn+일보/ncn

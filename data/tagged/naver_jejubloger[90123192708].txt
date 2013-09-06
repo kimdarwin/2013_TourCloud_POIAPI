@@ -1,0 +1,781 @@
+제주여행
+	제주/ncn+여행/ncpa
+
+성산일출봉
+	성산/ncn+일출/ncpa+봉/ncn
+
+
+미스테리우스의
+	미스테리우스/ncn+의/jcm
+
+제주여행
+	제주/ncn+여행/ncpa
+
+
+제주여행으로
+	제주/ncn+여행/ncpa+으로/jca
+
+광치기해변에서
+	광치기해변/ncn+에서/jca
+
+바라
+	바라/pvg+아/ecx
+
+본
+	보/px+ㄴ/etm
+
+성산일출봉
+	성산/ncn+일출/ncpa+봉/ncn
+
+
+어디서
+	어디/npd+서/jca
+
+성산일출봉을
+	성산/ncn+일출/ncpa+봉/ncn+을/jco
+
+바라볼
+	바라/pvg+아/ecx+보/px+ㄹ/etm
+
+때
+	때/ncn
+
+좋은
+	좋/paa+은/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을까요
+	있/px+을까/ef+요/jxf
+
+?
+	?/sf
+
+
+어떤
+	어떤/mmd
+
+분이
+	분/nbu+이/jcc
+
+이야기하시길
+	이야기/ncpa+하시/ncn+길/ncn
+
+광치기해변에서
+	광치기해변/ncn+에서/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+좋다고
+	좋/paa+다/ef+고/jcr
+
+하시더군요
+	하시/ncn+이/jp+더군/ef+요/jxf
+
+
+제주여행을
+	제주/ncn+여행/ncpa+을/jco
+
+좋아하시는
+	좋/paa+아/ecx+하/px+시/ep+는/etm
+
+분이
+	분/nbu+이/jcc
+
+해
+	하/pvg+어/ecx
+
+주신
+	주/px+시/ep+ㄴ/etm
+
+이야기라
+	이야기/ncpa+이/jp+라/ecs
+
+믿음이
+	믿음/ncn+이/jcc
+
+가는
+	가/pvg+는/etm
+
+이야기랍니다
+	이야기/ncpa+이/jp+랍니다/ef
+
+
+성산일출봉은
+	성산/ncn+일출/ncpa+봉/ncn+은/jxc
+
+가까이서
+	가까이/ncn+서/jca
+
+보는
+	보/px+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋지만
+	좋/paa+지만/ecs
+
+
+이렇게
+	이렇/pad+게/ecs
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋은
+	좋/paa+은/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아요/ef
+
+
+그래야
+	그렇/pad+어야/ecs
+
+성산일출봉의
+	성산/ncn+일출/ncpa+봉/ncn+의/jcm
+
+풍경을
+	풍경/ncn+을/jco
+
+잘
+	잘/mag
+
+바라볼
+	바라/pvg+아/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있지
+	있/px+지/ecx
+
+않을까해요
+	않을까해요/ncn
+
+
+제주여행을
+	제주/ncn+여행/ncpa+을/jco
+
+하시게
+	하/px+시/ep+게/ecs
+
+되면
+	되/pvg+면/ecs
+
+한번쯤
+	한번쯤/ncn
+
+들려보는
+	들리/pvg+어/ecx+보/px+는/etm
+
+성산일출봉
+	성산/ncn+일출/ncpa+봉/ncn
+
+...
+	.../se
+
+
+제주올레
+	제주올레/ncn
+
+2코스가
+	2코스/ncn+가/jcs
+
+시작되기도
+	시작/ncpa+되/xsvn+기/etn+도/jxc
+
+하는
+	하/pvg+는/etm
+
+지점인
+	지점/ncn+인/ncn
+
+
+광치기해변에서
+	광치기해변/ncn+에서/jca
+
+성산일출봉을
+	성산/ncn+일출/ncpa+봉/ncn+을/jco
+
+바라보시는
+	바라/pvg+아/ecx+보/px+시/ep+는/etm
+
+건
+	거/nbn+은/jxc
+
+어떠세요
+	어떠세요/ncn
+
+?
+	?/sf
+
+
+광치기해변에서
+	광치기해변/ncn+에서/jca
+
+바라
+	바라/pvg+아/ecx
+
+본
+	보/px+ㄴ/etm
+
+성산일출봉
+	성산/ncn+일출/ncpa+봉/ncn
+
+..
+	./sf+./sf
+
+
+그
+	그/mmd
+
+곳으로
+	곳/ncn+으로/jca
+
+제주여행
+	제주/ncn+여행/ncpa
+
+다녀오시는
+	다니/pvg+어/ecx+오/px+시/ep+는/etm
+
+건
+	거/nbn+은/jxc
+
+어떠세요
+	어떠세요/ncn
+
+?
+	?/sf
+
+
+한가로운
+	한가/ncps+로운/ncn
+
+구름이
+	구름/ncn+이/jcc
+
+떠다니는
+	떠다니/pvg+는/etm
+
+것
+	것/nbn
+
+처럼
+	처럼/ncn
+
+여유로운
+	여유/ncn+로운/ncn
+
+마음을
+	마음/ncn+을/jco
+
+갖으실
+	갖/pvg+으시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있을거에요
+	있을거/ncn+이/jp+에요/ef
+
+
+제주여행을
+	제주/ncn+여행/ncpa+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+가장
+	가장/mag
+
+마음을
+	마음/ncn+을/jco
+
+놓을
+	놓/px+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+여행지는
+	여행지/ncn+는/jxc
+
+
+하늘과
+	하늘/ncn+과/jcj
+
+바다가
+	바다/ncn+가/jcs
+
+바라보이는
+	바라/pvg+아/ecx+보이/px+는/etm
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+한데요
+	한데/ncn+요/ncn
+
+
+광치기해변으로
+	광치기해변/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길목엔
+	길목/ncn+엔/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+잔잔한
+	잔잔/ncn+한/ncn
+
+풍경도
+	풍경/ncn+도/jxc
+
+보실
+	보/px+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있답니다
+	있/paa+답니다/ef
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+바라보며
+	바라/pvg+아/ecx+보/px+며/ecc
+
+광치기해변에
+	광치기해변/ncn+에/jca
+
+다다르면
+	다다/ncn+르/ncn+면/xsncc
+
+
+제주여행의
+	제주/ncn+여행/ncpa+의/jcm
+
+진
+	지/px+ㄴ/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있지요
+	있/paa+지요/ef
+
+
+혼지서
+	혼지/ncn+서/jca
+
+간다면
+	가/px+ㄴ다면/ecs
+
+그
+	그/mmd
+
+여운이
+	여운/ncn+이/jcc
+
+더
+	더/mag
+
+할
+	하/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같은
+	같/paa+은/etm
+
+곳이랍니다
+	곳/nbu+이/jp+랍니다/ef
+
+
+광치기해변은
+	광치기해변/ncn+은/jxc
+
+잘
+	잘/mag
+
+모르고
+	모르/pvg+고/ecc
+
+있다가
+	있/paa+다가/ecc
+
+
+어느
+	어느/mmd
+
+블로거님을
+	블로거님/ncn+을/jco
+
+통해서
+	통하/pvg+어서/ecs
+
+처음
+	처음/mag
+
+알게
+	알/pvg+게/ecs
+
+되었는데요
+	되/nbu+이/jp+었/ep+는데요/ef
+
+
+제주올레
+	제주올레/ncn
+
+2코스의
+	2코스/ncn+의/jcm
+
+시작점이기도
+	시작/ncpa+점/ncn+이/jp+기/etn+도/jxc
+
+하답니다
+	하/pvg+답니다/ef
+
+
+올레길을걸으시며제주여행을하시는
+	올레길을걸으시며제주여행을하시/ncn+는/jxc
+
+분들은
+	불/pvg+ㄴ들/ecs+은/jxc
+
+한번쯤
+	한번쯤/ncn
+
+
+봤을만한
+	보/px+아/ep+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+하지요
+	하/pvg+지요/ef
+
+
+성산
+	성산/ncn
+
+해변의
+	해변/ncn+의/jcm
+
+잔잔함이
+	잔잔/ncn+함/ncn+이/jcc
+
+고스란히
+	고스란히/mag
+
+묻어있는
+	묻/pvg+어/ecx+있/px+는/etm
+
+곳이랍니다
+	곳/nbu+이/jp+랍니다/ef
+
+
+이
+	이/mmd
+
+곳,
+	곳/ncn+,/sp
+
+광치기해변에서
+	광치기해변/ncn+에서/jca
+
+바라
+	바라/pvg+아/ecx
+
+본
+	보/px+ㄴ/etm
+
+성산일출봉이
+	성산/ncn+일출/ncpa+봉/ncn+이/jcc
+
+
+가장
+	가장/mag
+
+멋있다는
+	멋있/paa+다/ef+는/etm
+
+이야기를
+	이야기/ncpa+를/jco
+
+들은
+	들/pvg+ㄴ/etm
+
+적이
+	적/ncn+이/jcc
+
+있는데요
+	있/paa+는데요/ef
+
+
+성산일출봉으로
+	성산/ncn+일출/ncpa+봉/ncn+으로/jca
+
+제주여행
+	제주/ncn+여행/ncpa
+
+갔을
+	가/px+아/ep+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+있던
+	있/px+던/etm
+
+또
+	또/maj
+
+다른
+	다르/paa+ㄴ/etm
+
+모습을
+	모습/ncn+을/jco
+
+발견하게
+	발견/ncpa+하/xsva+게/ecs
+
+되는
+	되/pvg+는/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아요/ef
+
+
+광치기해변의
+	광치기해변/ncn+의/jcm
+
+잔잔함과
+	잔잔/ncn+함/ncn+과/jct
+
+어우러져
+	어우러지/pvg+어/ecs
+
+
+성산일출봉이
+	성산/ncn+일출/ncpa+봉/ncn+이/jcc
+
+조금은
+	조금/mag+은/jxc
+
+쓸쓸해보이기도
+	쓸쓸/ncps+하/xsms+어/ecx+보이/px+기/etn+도/jxc
+
+하지만
+	하지만/maj
+
+
+풍경
+	풍경/ncn
+
+만큼은
+	만큼/nbn+은/jxc
+
+정말
+	정말/mag
+
+최고가
+	최고/ncn+가/jcs
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+혹시
+	혹시/mag
+
+성산일출봉으로
+	성산/ncn+일출/ncpa+봉/ncn+으로/jca
+
+제주여행을
+	제주/ncn+여행/ncpa+을/jco
+
+떠나신다면
+	뜨/paa+어/ecx+나/px+시/ep+ㄴ다면/ecs
+
+
+가시기
+	가/px+시/ep+기/etn
+
+전에
+	전/nbn+에/jca
+
+광치기해변에
+	광치기해변/ncn+에/jca
+
+들려
+	들/pvg+려/ecs
+
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+성산일출봉을
+	성산/ncn+일출/ncpa+봉/ncn+을/jco
+
+바라보시는
+	바라/pvg+아/ecx+보/px+시/ep+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋을
+	좋/paa+을/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아요/ef
+
+
+제주여행을
+	제주/ncn+여행/ncpa+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+오랫동안
+	오랫동안/ncn
+
+기억에
+	기억/nnc+에/jca
+
+남을
+	남/ncn+을/jco
+
+만한
+	만/nnc+한/nnc
+
+여행지가
+	여행지/ncn+가/jcs
+
+되었으면
+	되/pvg+었/ep+으면/ecs
+
+해요
+	하/pvg+어요/ef
+
+
+성산일출봉을
+	성산/ncn+일출/ncpa+봉/ncn+을/jco
+
+아름답게
+	아름답/paa+게/ecs
+
+추억할
+	추억/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+될거에요
+	될거/ncn+이/jp+에요/ef
+
+
+올
+	오/px+ㄹ/etm
+
+가을에
+	가을/ncn+에/jca
+
+꼭
+	꼭/mag
+
+들려보세요^^
+	들려보세요/ncn+^/sy+^/sy
+
+
+제주올레길2코스
+	제주올레길2코스/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+서귀포시
+	서귀포시/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01706835",
+	"bl01706835",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"19932820",
+	"/sl+19932820/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"제주올레길2코스",
+	title:"제주올레길2코스",/ncn
+
+pointX:300781,pointY:95001}
+	pointX/f+:/sp+300781/nnc+,/sp+pointY/f+:/sp+95001/nnc+}/sr

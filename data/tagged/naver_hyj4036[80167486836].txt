@@ -1,0 +1,580 @@
+복숭아
+	복숭아/ncn
+
+베이컨말이
+	베이컨/ncn+말/ncn+이/jcc
+
+
+아이간식만들기/복숭아
+	아이/ncn+간식/ncn+만들기/ncn+//sp+복숭아/ncn
+
+이용한
+	이용/ncpa+한/ncn
+
+요리
+	요리/mag
+
+
+휴~~매일
+	휴~~매/ncn+이/jp+ㄹ/etm
+
+고민거리인
+	고민거리/ncn+이/jp+ㄴ/etm
+
+아이들
+	아이/ncn+들/ncn
+
+간식
+	가/px+ㄴ/etm+식/nbn
+
+..
+	./sf+./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+또
+	또/maj
+
+뭘
+	뭐/npd+을/jco
+
+만들어주지
+	만들/pvg+어/ecx+주/px+지/ecx
+
+...
+	.../se
+
+
+고민하던
+	고민/ncpa+하/xsva+던/etm
+
+차.
+	차/ncn+./sf
+
+.
+	./sf
+
+
+얼마전
+	얼마/ncn+전/ncn
+
+당첨된
+	당첨/ncn+되/xsvn+ㄴ/etm
+
+장가네사과나무집
+	장가네사과나무집/ncn
+
+황도를
+	황도/ncn+를/jco
+
+활용해보기로
+	활용/ncpa+하/xsva+어/ecx+보/px+기/etn+로/jca
+
+했어요
+	하/pvg+었/ep+어요/ef
+
+
+야채도
+	야채/ncn+도/jxc
+
+먹이고
+	먹이/pvg+고/ecc
+
+과일도
+	과일/ncn+도/jxc
+
+먹일
+	먹이/pvg+ㄹ/etm
+
+방법
+	방법/ncn
+
+
+그래서
+	그래서/maj
+
+결정한
+	결정/ncn+한/ncn
+
+건
+	거/nbn+은/jxc
+
+복숭아
+	복숭아/ncn
+
+베이컨말이
+	베이컨/ncn+말/ncn+이/jcc
+
+...
+	.../se
+
+
+복숭아
+	복숭아/ncn
+
+베이컨말이
+	베이컨/ncn+말/ncn+이/jcc
+
+만들기
+	만들/pvg+기/etn
+
+재료:
+	재료/ncn+:/sp
+
+
+오이
+	오/nnc+이/jcc
+
+.
+	./sf
+
+
+당근
+	당근/ncn
+
+복숭아
+	복숭아/ncn
+
+.
+	./sf
+
+
+계란지단
+	계란/ncn+지단/ncn
+
+.
+	./sf
+
+
+피망
+	피망/ncn
+
+베이컨
+	베이컨/ncn
+
+
+베이컨을먼저
+	베이컨을먼저/ncn
+
+구웠어요
+	굽/paa+었/ep+어요/ef
+
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+좋아하는베이컨이죠
+	좋아하는베이컨/ncn+이/jp+죠/ef
+
+
+복숭아베이컨말이
+	복숭아/ncn+베이컨/ncn+말/ncn+이/jcc
+
+안에
+	안/ncn+에/jca
+
+들어갈
+	들/pvg+어/ecx+가/px+ㄹ/etm
+
+오이
+	오/nnc+이/jcc
+
+사과
+	사과/ncn
+
+피망
+	피망/ncn
+
+.
+	./sf
+
+
+당근
+	당근/ncn
+
+복숭아
+	복숭아/ncn
+
+..
+	./sf+./sf
+
+
+다른
+	다른/mma
+
+재료가
+	재료/ncn+가/jcs
+
+더
+	더/mag
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+더
+	더/mag
+
+좋겠지만
+	좋/paa+겠/ep+지만/ecs
+
+집에
+	집/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+재료로
+	재료/ncn+로/jca
+
+간단히
+	간단히/mag
+
+아이간식
+	아이/ncn+간식/ncn
+
+만들기
+	만들/pvg+기/etn
+
+하는
+	하/pvg+는/etm
+
+중.
+	중/nbn+./sf
+
+.
+	./sf
+
+
+재료를
+	재료/ncn+를/jco
+
+다
+	다/mag
+
+썰어준비했어요
+	썰어준비했어요/ncn
+
+
+베이컨
+	베이컨/ncn
+
+위에
+	위/ncn+에/jca
+
+썰어둔
+	썰/pvg+어/ecx+두/px+ㄴ/etm
+
+재료를
+	재료/ncn+를/jco
+
+조금씩
+	조금씩/ncn
+
+올려주세요
+	올리/pvg+어/ecx+주/px+세/ef+요/jxf
+
+...
+	.../se
+
+
+베이컨을
+	베이컨/ncn+을/jco
+
+돌돌
+	돌돌/mag
+
+말아주면
+	말/px+아/ecx+주/px+면/ecs
+
+된답니다
+	되/pvg+ㄴ답니다/ef
+
+...
+	.../se
+
+
+그냥
+	그냥/mag
+
+두면
+	두/pvg+면/ecs
+
+베이컨이
+	베이컨/ncn+이/jcc
+
+풀리겠죠
+	풀리/pvg+겠/ep+죠/ef
+
+...
+	.../se
+
+
+고정할
+	고정/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+걸로
+	걸/ncn+로/jca
+
+꽂아주세요
+	꽂/pvg+아/ecx+주/px+세/ef+요/jxf
+
+...
+	.../se
+
+
+간단하게
+	간단/ncps+하/xsms+게/ecs
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+복숭아베이컨
+	복숭아/ncn+베이컨/ncn
+
+말이
+	말/ncn+이/jcc
+
+완성
+	완성/ncpa
+
+..
+	./sf+./sf
+
+
+큰아이
+	큰아이/ncn
+
+간식으로
+	가/px+ㄴ/etm+식/nbn+으로/jca
+
+만들어봤어요
+	만들/pvg+어/ecx+보/px+아/ep+아/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+한입
+	한입/ncn
+
+베어먹어
+	베어먹어/ncn
+
+봤어요
+	보/pvg+아/ep+아/ef
+
+
+복숭아의
+	복숭아/ncn+의/jcm
+
+맛과
+	맛/ncn+과/jcj
+
+야채의
+	야채/ncn+의/jcm
+
+맛.
+	맛/ncn+./sf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+베이컨의
+	베이컨/ncn+의/jcm
+
+맛의
+	맛/ncn+의/jcm
+
+조화
+	조화/ncn
+
+
+간식으로
+	가/px+ㄴ/etm+식/nbn+으로/jca
+
+괜찮은
+	괜찮/paa+은/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아요/ef
+
+
+베이컨말이에
+	베이컨말이/ncn+에/jca
+
+이어
+	이/npd+이/jp+어/ecs
+
+월남쌈도
+	월남/ncpa+쌈/ncn+도/jxc
+
+한번
+	한/nnc+번/nbu
+
+해봤어요
+	하/pvg+어/ecx+보/px+아/ep+아/ef
+
+
+재료는
+	재료/ncn+는/jxc
+
+그대로
+	그대로/mag
+
+...
+	.../se
+
+
+재료를
+	재료/ncn+를/jco
+
+올리고
+	올리/pvg+고/ecc
+
+
+맵지
+	맵/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+머스타드
+	머스타드/ncn
+
+소스를
+	소스/ncn+를/jco
+
+뿌리고
+	뿌리/ncn+이/jp+고/ecc
+
+싸주면
+	쓰/pvg+어/ecx+주/px+면/ecs
+
+끝.
+	끝/ncn+./sf
+
+..
+	./sf+./sf
+
+
+이것도
+	이것/npd+도/jxc
+
+한입
+	한입/ncn
+
+깨물어
+	깨물/pvg+어/ecx
+
+봤어요,
+	보/pvg+아/ep+아/ef+,/sp
+
+
+반찬으로도
+	반찬/ncn+으로/jca+도/jxc
+
+손색이
+	손색/ncn+이/jcc
+
+없겠네요
+	없/paa+겠/ep+네요/ef
+
+
+복숭아
+	복숭아/ncn
+
+이용한
+	이용/ncpa+하/xsva+ㄴ/etm
+
+간식들
+	간식/ncn+들/ncn
+
+...
+	.../se
+
+
+복숭아샌드위치
+	복숭아/ncn+샌드위치/ncn
+
+...
+	.../se
+
+
+복숭아베이컨말이
+	복숭아/ncn+베이컨/ncn+말/ncn+이/jcc
+
+.
+	./sf
+
+
+오미차를
+	오미차/ncn+를/jco
+
+우려내서
+	우/ncn+이/jp+리/ep+어/ecx+내/px+어서/ecs
+
+만든
+	만들/pvg+ㄴ/etm
+
+복숭아
+	복숭아/ncn
+
+화채까지
+	화채/ncn+까지/jxc
+
+...
+	.../se
+
+
+큰
+	크/paa+ㄴ/etm
+
+아들이
+	아들/ncn+이/jcc
+
+먹은
+	먹/pvg+은/etm
+
+간식이랍니다
+	가/px+ㄴ/etm+식/nbn+이/jp+랍니다/ef
+
+...
+	.../se
+
+
+세가지다
+	세/nnc+가지/nbu+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+복숭아(황도)를
+	복숭아(황도)/ncn+를/jco
+
+활용해서
+	활용/ncpa+하/xsva+어서/ecs
+
+만들어봤어요
+	만들/pvg+어/ecx+보/px+아/ep+아/ef

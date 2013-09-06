@@ -1,0 +1,389 @@
+만나고
+	만나/pvg+고/ecc
+
+이야기하고
+	이야기/ncpa+하고/jct
+
+웃고
+	웃/pvg+고/ecc
+
+심각하고
+	심각/ncps+하고/jct
+
+떠들고
+	떠들/pvg+고/ecc
+
+그리고
+	그리고/maj
+
+헤어지고-
+	헤어지/pvg+고/ecc+-/sd
+
+
+언제
+	언제/mag
+
+또
+	또/maj
+
+다시
+	다시/mag
+
+만나게
+	만나/pvg+게/ecs
+
+될
+	되/pvg+ㄹ/etm
+
+지
+	지/nbn
+
+모르지만
+	모르/pvg+지/ecx+말/px+ㄴ/etm
+
+...
+	.../se
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+사람과
+	사람/ncn+과/jct
+
+함께
+	함께/mag
+
+한
+	하/pvg+ㄴ/etm
+
+지난
+	지나/pvg+ㄴ/etm
+
+어느
+	어느/mmd
+
+날
+	나/px+ㄹ/etm
+
+서현역
+	서현/ncn+역/ncn
+
+파스쿠찌
+	파스쿠찌/ncn
+
+
+서현역
+	서현/ncn+역/ncn
+
+Ak플라자
+	Ak/f+플라자/ncn
+
+5번
+	5/nnc+번/nbu
+
+게이트쪽
+	게이트/ncn+쪽/ncn
+
+파스쿠찌는
+	파스쿠찌/ncn+는/jxc
+
+지금
+	지금/mag
+
+딸기축제중이랍니다-
+	딸기/ncn+축제/ncn+중이/ncn+이/jp+랍니다/ef+-/sd
+
+
+이야기
+	이야기/ncpa
+
+하려고
+	하/pvg+려고/ecs
+
+커피숍
+	커피숍/ncn
+
+찾다가딸기쥬스
+	찾다가딸기쥬스/ncn
+
+먹자고
+	먹/pvg+자/ef+고/jcr
+
+들어가게
+	들/pvg+어/ecx+가/px+게/ecs
+
+된-
+	되/paa+ㄴ/etm+-/sd
+
+
+커피
+	커피/ncn
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+사람인데,
+	사람/ncn+이/jp+ㄴ데/ecs+,/sp
+
+나
+	나/npp
+
+따라서
+	따라서/maj
+
+딸기쥬스
+	딸기/ncn+쥬스/ncn
+
+먹겠다고-
+	먹/pvg+겠/ep+다고/ecs+-/sd
+
+
+커피
+	커피/ncn
+
+쓴
+	쓰/pvg+ㄴ/etm
+
+맛에
+	맛/ncn+에/jca
+
+익숙해진다고
+	익숙해지/pvg+ㄴ다/ef+고/jcr
+
+다짐해놓고
+	다짐/ncpa+하/xsva+어/ecx+놓/px+고/ecc
+
+달달한
+	달달한/ncn
+
+것만
+	것/nbn+만/jxc
+
+찾게
+	찾/pvg+게/ecs
+
+된다는
+	되/pvg+ㄴ다/ef+는/etm
+
+..
+	./sf+./sf
+
+
+주문한
+	주문/ncn+한/ncn
+
+딸기쥬스-오~~
+	딸기/ncn+쥬스/ncn+-/sd+오/nnc+~/sd+~/sd
+
+이거
+	이거/npd
+
+생각보다
+	생각/ncpa+보다/jca
+
+맛있는데
+	맛있/paa+는데/ecs
+
+..
+	./sf+./sf
+
+
+뭘
+	뭐/npd+을/jco
+
+넣은
+	넣/pvg+은/etm
+
+거지
+	거지/ncn
+
+?!!
+	?/sf+!/sf+!/sf
+
+
+시럽을
+	시럽/ncn+을/jco
+
+넣은
+	넣/pvg+은/etm
+
+건지
+	것/nbn+이/jp+ㄴ지/ecs
+
+어쩐지
+	어쩐지/mag
+
+달달-
+	달달/ncn+-/sd
+
+
+달달하니
+	달달하/ncn+이/jp+니/ecs
+
+좋아요-
+	좋/paa+아요/ef+-/sd
+
+
+눈가는
+	눈/ncn+가/jcs+는/jxc
+
+대로
+	대/nbu+로/jca
+
+대략
+	대략/mag
+
+둘러봅니다-
+	두르/pvg+어/ecx+보/px+ㅂ니다/ef+-/sd
+
+
+이야기를
+	이야기/ncpa+를/jco
+
+마치고
+	마치/pvg+고/ecc
+
+또
+	또/maj
+
+다음을
+	다음/ncn+을/jco
+
+기약하고
+	기약/ncn+하고/jct
+
+헤어집니다-
+	헤/pvg+어/ecx+지/px+ㅂ니다/ef+-/sd
+
+
+이제
+	이제/mag
+
+또
+	또/maj
+
+각자의
+	각자/ncn+의/jcm
+
+길을
+	길/ncn+을/jco
+
+가야지요-
+	가/pvg+야지/ef+요/jxf+-/sd
+
+
+언제
+	언제/mag
+
+또
+	또/maj
+
+보게
+	보/px+게/ecs
+
+될까요
+	되/pvg+ㄹ까/ef+요/jxf
+
+?!
+	?/sf+!/sf
+
+
+알
+	알/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+없지요-
+	없/paa+지/ef+요/jxf+-/sd
+
+그래서
+	그래서/maj
+
+나중이
+	나중/ncn+이/jcc
+
+더
+	더/mag
+
+기대될지도-
+	기대/ncpa+되/xsvn+ㄹ지/ecs+도/jxc+-/sd
+
+
+가끔
+	가끔/mag
+
+마땅히
+	마땅히/mag
+
+갈
+	가/pvg+ㄹ/etm
+
+곳
+	곳/ncn
+
+없을
+	없/paa+을/etm
+
+때,
+	때/ncn+,/sp
+
+창가에
+	창가/ncn+에/jca
+
+앉아서
+	앉/pvg+아/ecx
+
+이야기
+	이야기/ncpa
+
+하면서
+	하/pvg+면서/ecc
+
+사람구경하기
+	사람/ncn+구경/ncn+하기/ncn
+
+좋은
+	좋/paa+은/etm
+
+곳-
+	곳/ncn+-/sd
+
+서현역
+	서현/ncn+역/ncn
+
+파스쿠찌
+	파스쿠찌/ncn
+
+
+딸기쥬스
+	딸기/ncn+쥬스/ncn
+
+마시고
+	마시/pvg+고/ecc
+
+싶으시면
+	싶/px+으시/ep+면/ecs
+
+서현역
+	서현/ncn+역/ncn
+
+와서
+	오/px+아/ecs
+
+연락주세요-
+	연락주/pvg+세/ef+요/jxf+-/sd
+
+사드립니다
+	사/pvg+아/ecx+드리/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy

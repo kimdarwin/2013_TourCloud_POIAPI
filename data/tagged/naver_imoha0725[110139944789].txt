@@ -1,0 +1,840 @@
+충정남도,
+	충정/ncpa+남/ncn+도/jxc+,/sp
+
+적벽강
+	적벽강/ncn
+
+캠핑플레이스
+	캠핑플레이스/ncn
+
+!
+	!/sf
+
+
+낭만캠핑
+	낭만/ncn+캠핑/ncn
+
+적벽강변
+	적벽강변/ncn
+
+
+오늘
+	오늘/ncn
+
+금산왔다가
+	금산왔다/ncn+가/jcs
+
+발견한
+	발견/ncpa+하/xsva+ㄴ/etm
+
+숨은
+	숨/ncn+은/jxc
+
+캠핑지인데요
+	캠핑지인데요/ncn
+
+.
+	./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+적벽강으로
+	적벽강/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길,
+	길/ncn+,/sp
+
+강
+	강/ncn
+
+줄기를
+	줄/pvg+기/etn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+오토캠핑장이
+	오토캠핑장/ncn+이/jcc
+
+간간히
+	간간히/mag
+
+눈에
+	눈/ncn+에/jca
+
+띄곤
+	띄/pvg+곤/ecs
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+정녕,
+	정녕,/ncn
+
+대박은
+	대박/ncn+은/jxc
+
+적벽강
+	적벽강/ncn
+
+초입의
+	초입/ncpa+의/jcm
+
+적벽교
+	적벽교/ncn
+
+근방이랍니다
+	근방/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+적벽강
+	적벽강/ncn
+
+도착
+	도착/ncpa
+
+전
+	전/nbn
+
+잠깐
+	잠깐/mag
+
+우박섞인
+	우박섞/ncn+이/jp+ㄴ/etm
+
+비가
+	비/ncn+가/jcs
+
+왔었는데,
+	오/px+아/ep+ㄴ데/ecs+,/sp
+
+그
+	그/mmd
+
+덕으로
+	덕/ncn+으로/jca
+
+적벽강의
+	적벽강/ncn+의/jcm
+
+물안개까지
+	물안개/ncn+까지/jxc
+
+감상하는
+	감상/ncpa+하/xsva+는/etm
+
+행운을
+	행운/ncn+을/jco
+
+안게
+	알/pvg+ㄴ게/ecs
+
+되었네요^^
+	되었네요^^/ncn
+
+너무
+	너무/mag
+
+행복했답니다
+	행복/ncps+하/xsms+었/ep+답니다/ef
+
+.
+	./sf
+
+
+적벽강으로
+	적벽강/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길.
+	길/ncn+./sf
+
+.
+	./sf
+
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+보리수
+	보리수/ncn
+
+열매가
+	열매/ncn+가/jcs
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+보리수
+	보리수/ncn
+
+열매
+	열/nnc+매/nbu
+
+먹어본
+	먹/pvg+어/ecx+보/px+ㄴ/etm
+
+적
+	적/nbn
+
+있나요
+	있/px+나/ef+요/jxf
+
+?!
+	?/sf+!/sf
+
+
+정말
+	정말/mag
+
+달콤시큼
+	달콤/ncps+시큼/ncps
+
+맛있답니다
+	맛있/paa+답니다/ef
+
+.
+	./sf
+
+
+적벽강으로
+	적벽강/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길.
+	길/ncn+./sf
+
+.
+	./sf
+
+
+초입이라죠
+	초입/ncpa+이라/jca+이/jp+죠/ef
+
+.
+	./sf
+
+
+살짝
+	살짝/mag
+
+비내린
+	비내리/pvg+ㄴ/etm
+
+후,
+	후/ncn+,/sp
+
+스르르
+	스르르/mag
+
+퍼져가는
+	퍼지/pvg+어/ecx+가/px+는/etm
+
+물안개가
+	물안개/ncn+가/jcs
+
+장관입니다
+	장관/ncr+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+낚시를
+	낚시/ncpa+를/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+캠핑족
+	캠핑/ncn+족/ncn
+
+..
+	./sf+./sf
+
+
+한
+	하/pvg+ㄴ/etm
+
+가족이
+	가족/ncn+이/jcc
+
+적벽강
+	적벽강/ncn
+
+다리
+	다리/ncn
+
+아래에
+	아래/ncn+에/jca
+
+텐트를
+	텐트/ncn+를/jco
+
+칩니다
+	치/pvg+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+적벽강을
+	적벽강/ncn+을/jco
+
+건너는데
+	건너/pvg+ㄴ데/ecs
+
+대형버스는
+	대형버스/ncn+는/jxc
+
+좁아서
+	좁/paa+어서/ecs
+
+진입할
+	진입/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+없더라구요
+	없/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+차
+	차/ncn
+
+한대가
+	한/nnc+대/nbu+가/jcc
+
+지나가면
+	지나/pvg+아/ecx+가/px+면/ecs
+
+사람은
+	사람/ncn+은/jxc
+
+난간쪽으로
+	난간/ncn+쪽/ncn+으로/jca
+
+비켜야할
+	비키/pvg+어야/ecx+하/px+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+넓지
+	넓/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+다리입니다
+	다리/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+적벽강변에
+	적벽강변/ncn+에/jca
+
+자전거
+	자전거/ncn
+
+도로가
+	도로/ncn+가/jcs
+
+있다고
+	있/px+다/ef+고/jcr
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+산책로와
+	산책로/ncn+와/jcj
+
+공원으로
+	공원/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+표지판이
+	표지판/ncn+이/jcc
+
+예쁘게
+	예쁘/paa+게/ecs
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+적벽강으로
+	적벽강/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길.
+	길/ncn+./sf
+
+.
+	./sf
+
+
+적벽강으로
+	적벽강/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길.
+	길/ncn+./sf
+
+.
+	./sf
+
+
+잠시
+	잠시/mag
+
+내린
+	내리/pvg+ㄴ/etm
+
+비에
+	비/ncn+에/jca
+
+촉촉해진
+	촉촉하/paa+어/ecx+지/px+ㄴ/etm
+
+풀과
+	풀/ncn+과/jcj
+
+계란
+	계란/ncn
+
+꽃.
+	꽃/ncn+./sf
+
+.
+	./sf
+
+
+신기하게
+	신기/ncps+하/xsms+게/ecs
+
+생긴
+	생기/pvg+ㄴ/etm
+
+나무
+	나무/ncn
+
+...
+	.../se
+
+
+어떻게
+	어떻/pad+게/ecs
+
+저리도
+	저리/mad+도/jxc
+
+희안하게
+	희안하/ncn+이/jp+게/ecs
+
+자랄까요
+	자라/pvg+ㄹ까/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+나룻배의
+	나룻배/ncn+의/jcm
+
+낭만이
+	낭만/ncn+이/jcc
+
+물안개
+	물안개/ncn
+
+때문에
+	때문/nbn+에/jca
+
+더
+	더/mag
+
+아름답습니다
+	아름답/paa+습니다/ef
+
+..
+	./sf+./sf
+
+
+적벽강으로
+	적벽강/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길.
+	길/ncn+./sf
+
+.
+	./sf
+
+
+주차장이
+	주차장/ncn+이/jcc
+
+구비되어
+	구비/ncpa+되/xsvn+어/ecx
+
+있네요
+	있/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+적벽강으로
+	적벽강/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길.
+	길/ncn+./sf
+
+.
+	./sf
+
+
+물안개
+	물안개/ncn
+
+퍼레이드~
+	퍼레이드/ncn+~/sd
+
+
+적벽강으로
+	적벽강/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길.
+	길/ncn+./sf
+
+.
+	./sf
+
+
+사랑스럽고
+	사랑/ncpa+스럽/xsmn+고/ecc
+
+아름다운
+	아름답/paa+은/etm
+
+풍경이
+	풍경/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+저
+	저/mmd
+
+곳에서
+	곳/ncn+에서/jca
+
+하룻밤
+	하룻밤/ncn
+
+낭만은
+	낭만/ncn+은/jxc
+
+더이상
+	더이상/mag
+
+말할
+	말/ncpa+하/xsva+ㄹ/etm
+
+나위도
+	나위/nbn+도/jxc
+
+없을
+	없/paa+을/etm
+
+듯
+	듯/nbn
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+올해가
+	올해/ncn+가/jcs
+
+가기
+	가/px+기/etn
+
+전에
+	전/nbn+에/jca
+
+꼭
+	꼭/mag
+
+캠핑가야지~
+	캠핑가/ncn+이/jp+야지/ef+~/sd
+
+
+여행별의
+	여행/ncpa+별/ncn+의/jcm
+
+캠핑
+	캠핑/ncn
+
+플레이스로
+	플레이스로/ncn
+
+찜~해두었답니다
+	찜~해두었답니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+사실,
+	사실/ncn+,/sp
+
+금산
+	금산/ncn
+
+적벽강
+	적벽강/ncn
+
+오토캠핑장이
+	오토캠핑장/ncn+이/jcc
+
+적벽강의
+	적벽강/ncn+의/jcm
+
+입구
+	입구/ncn
+
+좀
+	좀/mag
+
+전에
+	전/nbn+에/jca
+
+자리하고
+	자리/ncn+하고/jct
+
+있지만서도
+	있/px+지만/ecs+서도/jxc
+
+여행별은
+	여행/ncpa+별/ncn+은/jxc
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+한적하고
+	하/pvg+ㄴ/etm+적/nbn+하고/jct
+
+아름다운
+	아름답/paa+은/etm
+
+적벽강
+	적벽강/ncn
+
+그대로의
+	그/npp+대로/jca+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+느끼며
+	느끼/pvg+며/ecc
+
+캠핑하기에
+	캠핑/ncn+하기/ncn+에/jca
+
+너무
+	너무/mag
+
+근사한
+	근사/ncps+하/xsms+ㄴ/etm
+
+곳이라
+	곳/ncn+이/jp+라/ecs
+
+오토캠핑장은
+	오토캠핑장/ncn+은/jxc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+추천해봅니다^^
+	추천해봅니다^^/ncn
+
+!
+	!/sf
+
+
+금산
+	금산/ncn
+
+적벽강
+	적벽강/ncn
+
+
+주소
+	주소/ncn
+
+.
+	./sf
+
+
+충청남도
+	충청남/ncn+도/jxc
+
+금산군
+	금산/ncn+군/ncn
+
+부리면
+	부리/pvg+면/ecs
+
+수통리
+	수통/ncn+리/ncn
+
+적벽강
+	적벽강/ncn
+
+
+dt
+	dt/f
+
+class="class_etcinfo_place_phone"문의
+	class="class_etcinfo_place_phone"문/ncn+의/jcm
+
+.
+	./sf
+
+
+041-751-2484/dt
+	041/nnc+-751/nnc+-2484/nnc+//sp+dt/f
+
+
+::
+	:/sp+:/sp
+
+The
+	The/f
+
+Travelgrapher,
+	Travelgrapher/f+,/sp
+
+홍유진의
+	홍유진/ncn+의/jcm
+
+여행블로그
+	여행블로그/ncn
+
+
+여행,
+	여행/ncpa+,/sp
+
+국내여행,
+	국내여행/ncn+,/sp
+
+해외여행,
+	해외여행/ncpa+,/sp
+
+배낭여행,
+	배낭여행/ncpa+,/sp
+
+캠핑,
+	캠핑/ncn+,/sp
+
+초보캠핑
+	초보/ncn+캠핑/ncn
+
+
+맛집,
+	맛집,/ncn
+
+카페,
+	카페/ncn+,/sp
+
+브런치,
+	브런치,/ncn
+
+커피,
+	커피/ncn+,/sp
+
+홍차
+	홍차/ncn
+
+
+여러분의
+	여러/nnc+분/nbu+의/jcm
+
+덧글,
+	덧글,/ncn
+
+공감에
+	공감/ncpa+에/jca
+
+힘이
+	힘/ncn+이/jcc
+
+나는
+	나/npp+는/jxc
+
+여행별이랍니다^^
+	여행별이랍니다^^/ncn
+
+!
+	!/sf

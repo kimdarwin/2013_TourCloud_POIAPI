@@ -1,0 +1,121 @@
+뮤지컬
+	뮤지컬/ncn
+
+[점프]
+	[/sl+점프/ncn+]/sr
+
+
+박진감
+	박진감/ncn
+
+넘치는
+	넘치/pvg+는/etm
+
+새로운
+	새롭/paa+은/etm
+
+기법의
+	기법/ncn+의/jcm
+
+뮤지컬이였는데,
+	뮤지컬/ncn+이/ncn+이/jp+었/ep+는데/ecs+,/sp
+
+
+흥겹운
+	흥겹운/ncn
+
+노래
+	노래/ncn
+
+보다가는
+	보/px+다가/ecs+는/jxc
+
+춤과
+	춤/ncn+과/jcj
+
+고난위도
+	고난/ncn+위/ncn+도/jxc
+
+무예에
+	무예/ncn+에/jca
+
+가까운
+	가깝/paa+은/etm
+
+기예가
+	기예/ncn+가/jcs
+
+뛰어났던
+	뛰/pvg+어/ecx+나/px+아/ep+ㄴ/etm
+
+공연이였다
+	공연/ncps+이/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+4장의
+	4/nnc+장/nbu+의/jcm
+
+티켓을
+	티켓/ncn+을/jco
+
+구해서
+	구하/pvg+어서/ecs
+
+은진이와
+	은진이/ncn+와/jcj
+
+상미에게
+	상미/ncn+에게/jca
+
+보여
+	보이/pvg+어/ecx
+
+주면서
+	주/px+면서/ecc
+
+함께
+	함께/mag
+
+보았던
+	보/px+아/ep+ㄴ/etm
+
+공연
+	공연/ncpa
+
+....
+	.../se+./sf
+
+
+한
+	하/pvg+ㄴ/etm
+
+장은
+	장/nbu+은/jxc
+
+남편이약속
+	남편이약속/ncn
+
+펑크를
+	펑크/ncn+를/jco
+
+내면서아깝게
+	내면서아깝/ncn+게/jca
+
+버렸던
+	버리/px+었/ep+던/etm
+
+기억이
+	기억/ncpa+이/jcc
+
+...
+	.../se
+
+
+-
+	-/sd
+
+-;;;;;
+	-/sd+;/sy+;/sy+;/sy+;/sy+;/sy

@@ -1,0 +1,358 @@
+-
+	-/sd
+
+1월19일
+	1월19/ncn+이/jp+ㄹ/etm
+
+낙동강
+	낙동강/ncn
+
+준설현장,
+	준설/ncn+현장/ncn+,/sp
+
+원인불명
+	원인불명/ncpa
+
+기름유출
+	기름유출/ncpa
+
+관련
+	관련/ncn
+
+-
+	-/sd
+
+
+설명내용
+	설명/ncpa+내용/ncn
+
+
+낙동강
+	낙동강/ncn
+
+준설현장에서
+	준설/ncn+현장/ncn+에서/jca
+
+원인불명의
+	원인불명/ncpa+의/jcm
+
+기름이
+	기르/pvg+ㅁ/etn+이/jcs
+
+대량
+	대량/ncn
+
+유출되어
+	유출/ncpa+되/xsvn+어/ecx
+
+낙동강
+	낙동강/ncn
+
+본류로
+	본류/ncn+로/jca
+
+유입
+	유입/ncpa
+
+보도에
+	보도/ncpa+에/jca
+
+대하여
+	대하/ncn+여/ncn
+
+
+-
+	-/sd
+
+원인불명의
+	원인불명/ncpa+의/jcm
+
+미세
+	밀/pvg+세/ef
+
+기름띠
+	기름띠/ncn
+
+형성구간은
+	형성/ncpa+구간/ncn+은/jxc
+
+준설가물막이
+	준설/ncn+가물/ncn+막/ncn+이/jcc
+
+내부로
+	내부/ncn+로/jca
+
+본류와
+	본류/ncn+와/jct
+
+차단되어
+	차단/ncpa+되/xsvn+어/ecx
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+오일붐
+	오일/ncn+붐/ncn
+
+흡착포
+	흡착/ncpa+포/ncn
+
+등을
+	등/nbu+을/jco
+
+이용한
+	이용/ncpa+하/xsva+ㄴ/etm
+
+방제작업을
+	방제/ncpa+작업/ncpa+을/jco
+
+실시하여
+	실시/ncpa+하/xsva+어/ecx
+
+본류로의
+	본류/ncn+로/jca+의/jcm
+
+유출은
+	유출/ncpa+은/jxc
+
+전혀
+	전혀/mag
+
+없습니다
+	없/paa+습니다/ef
+
+.
+	./sf
+
+
+*
+	*/sy
+
+유류가
+	유류/ncn+가/jcs
+
+대량
+	대량/ncn
+
+유출된
+	유출/ncpa+되/xsvn+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+사실과
+	사실/ncn+과/jct
+
+다르며,
+	다르/paa+며/ecc+,/sp
+
+기름띠는
+	기름띠/ncn+는/jxc
+
+1.20일
+	1.20/nnc+일/nbu
+
+08:30분
+	08/nnc+:/sp+30/nnc+분/nbu
+
+제거
+	제거/ncpa
+
+완료되었습니다
+	완료/ncpa+되/xsvn+었/ep+습니다/ef
+
+.
+	./sf
+
+
+원인을
+	원인/ncn+을/jco
+
+알수
+	알/pvg+ㄹ/etm+수/nbn
+
+없는
+	없/paa+는/etm
+
+쓰레기,
+	쓰레기/ncn+,/sp
+
+폐드럼
+	폐드럼/ncn
+
+방치
+	방치/ncpa
+
+보도에
+	보도/ncpa+에/jca
+
+대하여
+	대하/ncn+여/ncn
+
+
+-
+	-/sd
+
+인근의
+	인근/ncn+의/jcm
+
+작업폐기물은
+	작업/ncpa+폐기물/ncn+은/jxc
+
+고수부지에
+	고수부지/ncn+에/jca
+
+임시
+	임시/ncn
+
+적치한
+	적치한/ncn
+
+것으로
+	것/nbn+으로/jca
+
+적법하게
+	적법하/ncn+이/jp+게/ecs
+
+조속
+	조/nnc+속/nbu
+
+처리할
+	처리/ncpa+하/xsva+ㄹ/etm
+
+계획입니다
+	계획/ncpa+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+양수기에
+	양수/ncn+이/jp+기/etn+에/jca
+
+엔진오일이
+	엔진오일/ncn+이/jcc
+
+새고
+	새/ncn+이/jp+고/ecc
+
+있다
+	있/px+다/ef
+
+는
+	늘/pvg+ㄴ/etm
+
+보도에
+	보도/ncpa+에/jca
+
+대하여
+	대하/ncn+여/ncn
+
+
+-
+	-/sd
+
+양수기에는
+	양수/ncn+이/jp+기/etn+에/jca+는/jxc
+
+엔진오일
+	엔진오일/ncn
+
+누유
+	누유/ncn
+
+등에
+	등/nbu+에/jca
+
+대비한
+	대비/ncn+한/ncn
+
+철재깔판이
+	철재깔판/ncn+이/jcc
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecx
+
+있어
+	있/px+어/ecx
+
+오염발생우려는
+	오염/ncpa+발생/ncpa+우려/ncpa+는/jxc
+
+없으나,
+	없/paa+으나/ecs+,/sp
+
+추가
+	추/ncn+가/jcs
+
+깔판을
+	깔판/ncn+을/jco
+
+보완
+	보완/ncpa
+
+설치하였습니다
+	설치/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+향후,
+	향후/ncn+,/sp
+
+철저한
+	철저/ncps+하/xsms+ㄴ/etm
+
+현장관리를
+	현장/ncn+관리/ncn+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+만전을
+	말/px+ㄴ/etm+전/nbn+을/jco
+
+기하겠습니다
+	기하/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+4대강살리기
+	4대강살리/ncn+이/jp+기/etn
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+4rivers.
+	4rivers./ncn
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+mltm.
+	mltm/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp

@@ -1,0 +1,420 @@
+도봉산
+	도봉산/ncn
+
+지장사
+	지장사/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+
+(위)-포대능선
+	(/sl+위/ncn+)/sr+-/sd+포대/ncn+능선/ncn
+
+등산로
+	등산로/ncn
+
+원효암
+	원효암/ncn
+
+방향으로
+	방향/ncn+으로/jca
+
+가다가
+	가/pvg+아/ecx+가/px+아/ecx
+
+다리건너
+	다리건너/ncn
+
+왼쪽으로
+	왼쪽/ncn+으로/jca
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+지장사다
+	지장사/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-오르는길이
+	(위)-오르는길/ncn+이/jcc
+
+상당히
+	상당히/mag
+
+가파르다
+	가파르/paa+다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+..
+	./sf+./sf
+
+
+조금만
+	조금/ncn+만/jxc
+
+가면된다
+	가면/ncn+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+(위)-가는길이
+	(/sl+위/ncn+)/sr+-/sd+가는길/ncn+이/jcc
+
+조용하고
+	조용/ncn+하고/jct
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+(위)-절이
+	(/sl+위/ncn+)/sr+-/sd+절/ncn+이/jcc
+
+새로
+	새로/mag
+
+지은것같이
+	지/px+ㄴ/etm+것/nbn+같이/jca
+
+깨끗하다
+	깨끗/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+(위)-우측이
+	(/sl+위/ncn+)/sr+-/sd+우측/ncn+이/jcc
+
+대불전,왼쪽이
+	대불전,왼쪽/ncn+이/jcc
+
+종무소
+	종무소/ncn
+
+같고
+	같/paa+고/ecc
+
+...
+	.../se
+
+
+그뒤에
+	그뒤/ncn+에/jca
+
+미륵이
+	미륵/ncn+이/jcc
+
+대단하다
+	대단/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+(위)-어쩌면
+	(위)-어쩌/ncn+이/jp+면/ecs
+
+....
+	.../se+./sf
+
+
+일부러
+	일부러/mag
+
+만들어
+	만들/pvg+어/ecx
+
+놓은것
+	놓/px+은/etm+것/nbn
+
+같을까
+	같/paa+을까/ef
+
+...??
+	.../se+?/sf+?/sf
+
+
+아마도
+	아마/mag+도/jxc
+
+저~미륵님
+	저~미륵님/ncn
+
+때문에
+	때문/nbn+에/jca
+
+지장사라는
+	지장사라/ncn+는/jxc
+
+이름이
+	이름/ncn+이/jcc
+
+붙여졌을까
+	붙이/pvg+어/ecx+지/px+었/ep+을까/ef
+
+...??
+	.../se+?/sf+?/sf
+
+
+(위)-대불전
+	(위)-대불전/ncn
+
+.
+	./sf
+
+
+(위)-대불전위에
+	(위)-대불전위/ncn+에/jca
+
+조용한곳에
+	조용/ncn+한곳/ncn+에/jca
+
+산신각이
+	산신/ncn+각/ncn+이/jcc
+
+...
+	.../se
+
+
+(위)-산신각도
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+각도/ncn
+
+새로
+	새로/mag
+
+지었나보다
+	지었나보/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-산신님
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+님/ncn
+
+용안이
+	용/ncn+안/xsnx+이/jcc
+
+어디서
+	어디/npd+서/jca
+
+많이
+	많/paa+이/xsa
+
+본것
+	보/px+ㄴ/etm+것/nbn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+...
+	.../se
+
+
+예전에
+	예전/ncn+에/jca
+
+어느
+	어느/mmd
+
+사찰에
+	사찰/ncn+에/jca
+
+갔을때
+	가/px+아/ep+ㄹ/etm+때/nbn
+
+보았던
+	보/px+아/ep+ㄴ/etm
+
+산신님과
+	산신/ncn+님/ncn+과/jct
+
+많이
+	많/paa+이/xsa
+
+닮았다
+	닮/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+환을
+	환/ncn+을/jco
+
+치는분이
+	치/pvg+는/etm+분/nbn+이/jcc
+
+같은분인것
+	같/paa+은/etm+분/nbn+이/jp+ㄴ/etm+것/nbn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+...
+	.../se
+
+
+참
+	참/ii
+
+인자하시다
+	인자/ncn+하시/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+예전
+	예전/ncn
+
+사진을
+	사진/ncn+을/jco
+
+찾아보니
+	찾/pvg+아/ecx+보/px+니/ecs
+
+삼각산
+	삼각/ncn+산/ncn
+
+문수암
+	문수암/ncn
+
+산신님과
+	산신/ncn+님/ncn+과/jct
+
+많이
+	많/paa+이/xsa
+
+닮으셨다
+	닮/pvg+으셨/ep+다/ef
+
+.
+	./sf
+
+
+(위)-산신님이
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+님/ncn+이/jcc
+
+생불로도
+	생불로/ncn+도/jxc
+
+모셔져
+	모시/pvg+어/ecx+지/px+어/ecx
+
+있는데
+	있/px+는데/ecs
+
+작고
+	작/paa+고/ecc
+
+앙증스럽다
+	앙증/ncps+스럽/xsmn+다/ef
+
+.
+	./sf
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+이곳
+	이곳/npd
+
+지장사는
+	지장사/ncn+는/jxc
+
+10여년
+	10/nnc+여/xsnu+년/nbu
+
+전에
+	전/nbn+에/jca
+
+수해를
+	수해/ncn+를/jco
+
+입어서
+	입/pvg+어서/ecs
+
+새로
+	새로/mag
+
+공사를
+	공사/ncn+를/jco
+
+했단다
+	하/px+었/ep+단다/ef
+
+.
+	./sf
+
+
+자연으로
+	자연/ncn+으로/jca
+
+조성되어있는
+	조성/ncpa+되/xsvn+어/ecx+있/px+는/etm
+
+미륵석불도
+	미륵석불/ncn+도/jxc
+
+볼만하고
+	보/px+ㄹ/etm+만/nbs+하고/jct
+
+...
+	.../se
+
+
+특히나
+	특히/mag+나/jxc
+
+산신각이
+	산신/ncn+각/ncn+이/jcc
+
+너무좋다
+	너무좋다/ncn
+
+.
+	./sf
+
+
+낮에도
+	낮/ncn+에/jca+도/jxc
+
+제자님들이
+	제자/ncn+님/ncn+들/xsncc+이/jcc
+
+찾아가서
+	찾/pvg+아/ecx+가/px+아/ecx
+
+조용히
+	조용히/mag
+
+기도하면
+	기도/ncpa+하/xsva+면/ecs
+
+좋을듯
+	좋/paa+을/etm+듯/nbs
+
+싶네요~~
+	싶/paa+네요/ef+~/sd+~/sd

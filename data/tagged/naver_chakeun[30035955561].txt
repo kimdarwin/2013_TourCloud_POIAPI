@@ -1,0 +1,1777 @@
+디즈니랜드
+	디즈니랜드/ncn
+
+
+북아메리카(북미)
+	북아메리카(북미)/ncn
+
+>
+	>/sr
+
+미국
+	미국/ncn
+
+>
+	>/sr
+
+LA
+	LA/f
+
+
+기간
+	기간/ncn
+
+2008.
+	2008./nnc
+
+9.
+	9./nnc
+
+7~
+	7/nnc+~/sd
+
+2008.
+	2008./nnc
+
+9.
+	9./nnc
+
+7(1일)
+	7/ncn+(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+아이들과
+	아이/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+가족여행
+	가족여행/ncpa
+
+
+동영상으로
+	동영상/ncn+으로/jca
+
+미리
+	미리/mag
+
+체험하는
+	체험/ncpa+하/xsva+는/etm
+
+'디즈니랜드
+	'/sr+디즈니랜드/ncn
+
+놀이기구
+	놀이기구/ncn
+
+완전정복'
+	완전/ncps+정복/ncpa+'/sr
+
+시리즈
+	시리즈/ncn
+
+제2탄
+	제2탄/ncn
+
+!
+	!/sf
+
+
+(말을
+	(/sl+말/nbu+을/jco
+
+타고있는
+	타/pvg+고/ecx+있/px+는/etm
+
+나폴레옹
+	나폴레옹/ncn
+
+그림이
+	그림/ncn+이/jcc
+
+표지에
+	표지/ncn+에/jca
+
+있던
+	있/px+던/etm
+
+동아출판사의
+	동아/ncn+출판사/ncn+의/jcm
+
+완전정복
+	완전/ncps+정복/ncpa
+
+참고서가
+	참고서/ncn+가/jcs
+
+떠오르신다면
+	떠오르/pvg+시/ep+ㄴ다면/ecs
+
+...
+	.../se
+
+
+당신은
+	당신/npp+은/jxc
+
+이미
+	이미/mag
+
+30대
+	30/nnc+대/nbu
+
+후반
+	후반/ncn
+
+!
+	!/sf
+
+
+^^)
+	^/sy+^/sy+)/sr
+
+
+쓸데없는
+	쓸데없/paa+는/etm
+
+소리는
+	소리/ncn+는/jxc
+
+그만하고,
+	그만하/pvg+고/ecc+,/sp
+
+이번에도
+	이/nnc+번/nbu+에/jca+도/jxc
+
+가장
+	가장/mag
+
+인기있는
+	인기/ncn+있/xsmn+는/etm
+
+LA
+	LA/f
+
+디즈니랜드
+	디즈니랜드/ncn
+
+놀이기구
+	놀이기구/ncn
+
+3개의
+	3/nnc+개/nbu+의/jcm
+
+생생한
+	생생하/paa+ㄴ/etm
+
+'탑승동영상'입니다
+	'/sr+탑승/ncpa+동영상/ncn+'/sr+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+(놀이기구의
+	(/sl+놀이기구/ncn+의/jcm
+
+제목을
+	제목/ncn+을/jco
+
+클릭하시면
+	클릭/ncpa+하시/ncn+이/jp+면/ecs
+
+디즈니랜드
+	디즈니랜드/ncn
+
+홈페이지의
+	홈페이지/ncn+의/jcm
+
+해당
+	해당/ncpa
+
+놀이기구
+	놀이기구/ncn
+
+소개페이지로
+	소개/ncpa+페이지/ncn+로/jca
+
+링크됨)
+	링크/ncpa+됨/ncn+)/sr
+
+
+스플래쉬마운틴
+	스플래쉬마운틴/ncn
+
+(Splash
+	(/sl+Splash/f
+
+Mountain)
+	Mountain/f+)/sr
+
+
+{
+	{/sl
+
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+errorBean
+	errorBean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+code
+	code/f
+
+=
+	=/sy
+
+-602;
+	-602/ncn+;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+message
+	message/f
+
+=
+	=/sy
+
+'이
+	'/sr+이/jcc
+
+단말에서
+	단/nbu+말/xsnu+에서/jca
+
+확인할
+	확인/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+동영상
+	동영상/ncn
+
+형식입니다
+	형식/ncn+이/jp+ㅂ니다/ef
+
+.'
+	./sf+'/sl
+
+
+;
+	;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+'false';
+	'/sl+false/f+'/sl+;/sy
+
+
+var
+	var/f
+
+flashVar
+	flashVar/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+errorBean
+	errorBean/f
+
+=
+	=/sy
+
+errorBean;
+	errorBean/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+flashVar
+	flashVar/f
+
+=
+	=/sy
+
+flashVar;
+	flashVar/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_06003
+	ugcPlayer_06003/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_06003'
+	VideoInfraUGCPlayer('ugcPlayer_06003'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_06003
+	ugcPlayer_06003/ncn
+
+.
+	./sf
+
+
+drawPlayLayerError();
+	drawPlayLayerError/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+보트를
+	보트/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+폭포(
+	폭포(/ncn
+
+?)
+	?/sf+)/sr
+
+
+꼭대기에서
+	꼭대기/ncn+에서/jca
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+비명소리가멀리서도
+	비명소리가멀리서/ncn+도/jxc
+
+들리는
+	들리/pvg+는/etm
+
+놀이기구입니다
+	놀이기구/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+초반에는
+	초반/ncn+에/jca+는/jxc
+
+물살도
+	물살/ncn+도/jxc
+
+세지않고
+	세/paa+지/ecx+않/px+고/ecc
+
+아기자기한
+	아기자기/ncn+한/ncn
+
+동물인형들의
+	동물인형/ncn+들/ncn+의/jcm
+
+춤과
+	춤/ncn+과/jct
+
+노래만
+	노랗/paa+아/ecx+말/px+ㄴ/etm
+
+구경하기
+	구경/ncn+하기/ncn
+
+때문에
+	때문/nbn+에/jca
+
+어른들은
+	어른/ncn+들/ncn+은/jxc
+
+시시해
+	시시/ncps+하/xsms+어/ecx
+
+할
+	하/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있습니다만,
+	있습니다/ncn+만/jxc+,/sp
+
+
+마지막에
+	마지막/ncn+에/jca
+
+폭포에서
+	폭포/ncn+에서/jca
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+경사나
+	경사/ncr+나/jcj
+
+속도는
+	속/ncn+도/jxc+는/jxc
+
+제법
+	제법/mag
+
+짜릿하고,
+	짜릿하/paa+어/ef+고/jcr+,/sp
+
+옷도
+	옷/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+젖을
+	젖/pvg+을/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+순간에는
+	순간/ncn+에는/jca
+
+
+사진도
+	사진/ncn+도/jxc
+
+찍혀서
+	찍히/pvg+어서/ecs
+
+출구
+	출구/ncn
+
+스크린에
+	스크린/ncn+에/jca
+
+차례로
+	차례/nbu+로/jca
+
+나오니까,
+	나/pvg+아/ecx+오/px+니까/ecs+,/sp
+
+사진을
+	사진/ncn+을/jco
+
+사지
+	사/pvg+지/ecx
+
+않더라도
+	않/px+더라도/ecs
+
+스크린에
+	스크린/ncn+에/jca
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+모습을
+	모습/ncn+을/jco
+
+다시
+	다시/mag
+
+사진기로
+	사진/ncn+기/ncn+로/jca
+
+찍으면
+	찍/pvg+으면/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+보트에
+	보트/ncn+에/jca
+
+한번에
+	한/nnc+번/nbu+에/jca
+
+6명밖에
+	6/nnc+명/nbu+밖에/jxc
+
+못타고
+	못타/ncn+이/jp+고/ecc
+
+탑승시간도
+	탑승시간/ncn+도/jxc
+
+10분
+	10/nnc+분/nbu
+
+정도로
+	정도/ncn+로/jca
+
+길어서
+	길/paa+어서/ecs
+
+대기하는
+	대기/ncpa+하/xsva+는/etm
+
+줄이
+	줄/nbn+이/jcc
+
+항상매우길기
+	항상매우길기/ncn
+
+때문에,
+	때문/nbn+에/jca+,/sp
+
+
+이
+	이/mmd
+
+놀이기구는
+	놀이기구/ncn+는/jxc
+
+시간을
+	시간/ncn+을/jco
+
+미리
+	미리/mag
+
+예약하는
+	예약/ncpa+하/xsva+는/etm
+
+패스트패스(Fast
+	패스트패스(Fast/ncn
+
+Pass)를
+	Pass/f+)/sr+를/jco
+
+이용하는
+	이용/ncpa+하/xsva+는/etm
+
+것을
+	것/nbn+을/jco
+
+꼭
+	꼭/mag
+
+추천해
+	추천/ncpa+하/xsva+어/ecx
+
+드립니다
+	드리/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+인디아나존스의모험
+	인디아나존스의모험/ncn
+
+(Indiana
+	(/sl+Indiana/f
+
+Jones
+	Jones/f
+
+Adventure)
+	Adventure/f+)/sr
+
+
+{
+	{/sl
+
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+errorBean
+	errorBean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+code
+	code/f
+
+=
+	=/sy
+
+-602;
+	-602/ncn+;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+message
+	message/f
+
+=
+	=/sy
+
+'이
+	'/sr+이/jcc
+
+단말에서
+	단/nbu+말/xsnu+에서/jca
+
+확인할
+	확인/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+동영상
+	동영상/ncn
+
+형식입니다
+	형식/ncn+이/jp+ㅂ니다/ef
+
+.'
+	./sf+'/sl
+
+
+;
+	;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+'false';
+	'/sl+false/f+'/sl+;/sy
+
+
+var
+	var/f
+
+flashVar
+	flashVar/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+errorBean
+	errorBean/f
+
+=
+	=/sy
+
+errorBean;
+	errorBean/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+flashVar
+	flashVar/f
+
+=
+	=/sy
+
+flashVar;
+	flashVar/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_09016
+	ugcPlayer_09016/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_09016'
+	VideoInfraUGCPlayer('ugcPlayer_09016'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_09016
+	ugcPlayer_09016/ncn
+
+.
+	./sf
+
+
+drawPlayLayerError();
+	drawPlayLayerError/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+이
+	이/mmd
+
+놀이기구는
+	놀이기구/ncn+는/jxc
+
+짚차를
+	짚차/ncn+를/jco
+
+타고,
+	타/pvg+고/ecc+,/sp
+
+인디아나존스와
+	인디아나존스/ncn+와/jct
+
+함께
+	함께/mag
+
+모험을
+	모험/ncpa+을/jco
+
+떠나는데,
+	떠나/pvg+ㄴ데/ecs+,/sp
+
+실제
+	실제/ncn
+
+놀이기구를
+	놀이기구/ncn+를/jco
+
+타기
+	타/pvg+기/etn
+
+전까지
+	전/nbn+까지/jxc
+
+걸어가는
+	걷/pvg+어/ecx+가/px+는/etm
+
+길도
+	길/ncn+도/jxc
+
+볼거리가
+	볼거리/ncn+가/jcs
+
+많아서,
+	많/paa+아서/ecs+,/sp
+
+
+진짜
+	진짜/ncn
+
+영화의
+	영화/ncn+의/jcm
+
+한
+	한/nnc
+
+장면처럼
+	장면/ncn+처럼/jca
+
+정글속의
+	정글/ncn+속/ncn+의/jcm
+
+무시무시한
+	무시무시하/paa+ㄴ/etm
+
+사원으로
+	사원/ncn+으로/jca
+
+들어가서
+	들/pvg+어/ecx+가/px+아/ecx
+
+미로같은
+	미로/ncn+같/xsmn+은/etm
+
+동굴을
+	동굴/ncn+을/jco
+
+지나서
+	지나/pvg+아/ecx
+
+짚차에
+	짚차/ncn+에/jca
+
+탑승을
+	탑승/ncpa+을/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+탑승전에는
+	탑승/ncpa+전/ncn+에/jca+는/jxc
+
+인디아나존스
+	인디아나존스/ncn
+
+영화에
+	영화/ncn+에/jca
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+배우가
+	배우/ncn+가/jcs
+
+직접
+	직접/mag
+
+놀이기구에
+	놀이기구/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+설명하는
+	설명/ncpa+하/xsva+는/etm
+
+짧은
+	짧/paa+은/etm
+
+영화도
+	영화/ncn+도/jxc
+
+보여줍니다
+	보이/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+실제
+	실제/ncn
+
+탑승후에는
+	탑승/ncpa+후/ncn+에/jca+는/jxc
+
+어두워서
+	어둡/paa+어서/ecs
+
+화면이
+	화면/ncn+이/jcc
+
+잘
+	잘/mag
+
+나오지는
+	나/pvg+아/ecx+오/px+지/ecs+는/jxc
+
+않았지만,
+	않/px+아/ep+지만/ecs+,/sp
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+주제가와
+	주제가/ncn+와/jct
+
+함께
+	함께/mag
+
+존스박사도
+	존스박사/ncn+도/jxc
+
+3번
+	3/nnc+번/nbu
+
+정도
+	정도/ncn
+
+등장을
+	등장/ncpa+을/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+마지막에
+	마지막/ncn+에/jca
+
+인디아나존스
+	인디아나존스/ncn
+
+영화
+	영화/ncn
+
+1탄
+	1/nnc+탄/nbu
+
+레이더스에서처럼
+	레이더스/ncn+에서/jca+처럼/jxc
+
+굴러오는
+	구르/pvg+어/ecx+오/px+는/etm
+
+큰
+	크/paa+ㄴ/etm
+
+바윗돌을
+	바윗돌/ncn+을/jco
+
+피하면서
+	피하/pvg+면서/ecc
+
+모험이
+	모험/ncpa+이/jcc
+
+끝납니다
+	끝나/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+인디아나존스
+	인디아나존스/ncn
+
+영화를
+	영화/ncn+를/jco
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+어른들에게
+	어른/ncn+들/ncn+에게/jca
+
+인기있는
+	인기/ncn+있/xsmn+는/etm
+
+디즈니랜드에서
+	디즈니랜드/ncn+에서/jca
+
+대기시간이
+	대기시간/ncn+이/jcc
+
+가장
+	가장/mag
+
+긴
+	길/paa+ㄴ/etm
+
+놀이기구라고
+	놀이기구/ncn+이/jp+라/ef+고/jcr
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+니모를찾아서
+	니모를찾아서/ncn
+
+(Finding
+	(/sl+Finding/f
+
+Nemo
+	Nemo/f
+
+Submarine
+	Submarine/f
+
+Voyage)
+	Voyage/f+)/sr
+
+
+{
+	{/sl
+
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+errorBean
+	errorBean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+code
+	code/f
+
+=
+	=/sy
+
+-602;
+	-602/ncn+;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+message
+	message/f
+
+=
+	=/sy
+
+'이
+	'/sr+이/jcc
+
+단말에서
+	단/nbu+말/xsnu+에서/jca
+
+확인할
+	확인/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+동영상
+	동영상/ncn
+
+형식입니다
+	형식/ncn+이/jp+ㅂ니다/ef
+
+.'
+	./sf+'/sl
+
+
+;
+	;/sy
+
+
+errorBean.
+	errorBean/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+'false';
+	'/sl+false/f+'/sl+;/sy
+
+
+var
+	var/f
+
+flashVar
+	flashVar/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+errorBean
+	errorBean/f
+
+=
+	=/sy
+
+errorBean;
+	errorBean/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+flashVar
+	flashVar/f
+
+=
+	=/sy
+
+flashVar;
+	flashVar/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_03268
+	ugcPlayer_03268/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_03268'
+	VideoInfraUGCPlayer('ugcPlayer_03268'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_03268
+	ugcPlayer_03268/ncn
+
+.
+	./sf
+
+
+drawPlayLayerError();
+	drawPlayLayerError/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+실제로
+	실제로/mag
+
+노란
+	노랗/paa+은/etm
+
+잠수함을
+	잠수함/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+물
+	물/pvg+ㄹ/etm
+
+속으로
+	속/ncn+으로/jca
+
+들어가서
+	들/pvg+어/ecx+가/px+아/ecx
+
+(완전히
+	(/sl+완전히/mag
+
+잠수하지는
+	잠수/ncpa+하/xsva+어/ecx+지/px+는/etm
+
+않음),
+	않/px+음/etn+)/sr+,/sp
+
+설명과
+	설명/ncpa+과/jct
+
+함께
+	함께/mag
+
+물고기와
+	물고기/ncn+와/jcj
+
+스쿠버등의
+	스쿠버/ncn+등/ncn+의/jcm
+
+모형을
+	모형/ncn+을/jco
+
+보다가,
+	보/nbu+다가/jxc+,/sp
+
+
+갑자기
+	갑자기/mag
+
+만화영화
+	만화영화/ncn
+
+니모를찾아서의
+	니모를찾아서/ncn+의/jcm
+
+이야기
+	이야기/ncpa
+
+속으로
+	속/ncn+으로/jca
+
+들어갑니다
+	들/pvg+어/ecx+가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+좌석별로
+	좌석/ncn+별/ncn+로/jca
+
+마련된
+	마련/ncpa+되/xsvn+ㄴ/etm
+
+동그란
+	동그랗/paa+은/etm
+
+창밖으로
+	창밖/ncn+으로/jca
+
+실제
+	실제/ncn
+
+공기방울과
+	공기방울/ncn+과/jcj
+
+함께,
+	함/ncn+께/jca+,/sp
+
+
+영화에
+	영화/ncn+에/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+장면의
+	장면/ncn+의/jcm
+
+모형과,
+	모형/ncn+과/jcj+,/sp
+
+이
+	이/mmd
+
+놀이기구를
+	놀이기구/ncn+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+PIXAR에서
+	PIXAR/f+에서/jca
+
+별도로
+	별도/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+영화장면들이
+	영화/ncn+장면/ncn+들/ncn+이/jcc
+
+창밖의
+	창밖/ncn+의/jcm
+
+스크린에
+	스크린/ncn+에/jca
+
+투사되어서,
+	투사/ncpa+되/xsvn+어서/ecs+,/sp
+
+
+정말로
+	정말/ncn+로/jca
+
+바닷속에서
+	바닷속/ncn+에서/jca
+
+니모와
+	니모/ncn+와/jcj
+
+친구들을
+	친구/ncn+들/ncn+을/jco
+
+구경하는
+	구경/ncpa+하/xsva+는/etm
+
+것
+	것/nbn
+
+같은
+	같/paa+은/etm
+
+아주
+	아주/mag
+
+생생한
+	생생하/paa+ㄴ/etm
+
+느낌을
+	느끼/pvg+ㅁ/etn+을/jco
+
+받습니다
+	받/pvg+습니다/ef
+
+.
+	./sf
+
+
+탑승시간이
+	탑승시간/ncn+이/jcc
+
+10분이
+	10/nnc+분/nbu+이/jcc
+
+넘어서
+	넘/pvg+어서/ecs
+
+약간
+	약간/mag
+
+중간에
+	중간/ncn+에/jca
+
+편집을
+	편집/ncpa+을/jco
+
+했고,
+	하/px+었/ep+고/ecc+,/sp
+
+어두워서
+	어둡/paa+어서/ecs
+
+화면이
+	화면/ncn+이/jcc
+
+아주
+	아주/mag
+
+잘
+	잘/mag
+
+나오지는
+	나/pvg+아/ecx+오/px+지/ecs+는/jxc
+
+않았지만,
+	않/paa+아/ep+지만/ecs+,/sp
+
+
+어떤
+	어떤/mmd
+
+놀이기구인지는
+	놀이기구/ncn+이/jp+ㄴ지/ecs+는/jxc
+
+충분히
+	충분히/mag
+
+느끼실
+	느끼/pvg+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+특히,
+	특히,/ncn
+
+어린이들에게
+	어린이/ncn+들/ncn+에게/jca
+
+인기가
+	인기/ncn+가/jcs
+
+아주
+	아주/mag
+
+많고
+	많/paa+고/ecc
+
+Fast
+	Fast/f
+
+Pass도
+	Pass/f+도/jxc
+
+적용되지
+	적용/ncpa+되/xsvn+지/ecx
+
+않기
+	않/px+기/etn
+
+때문에,
+	때문/nbn+에/jca+,/sp
+
+
+타려면
+	타/pvg+려면/ecs
+
+항상
+	항상/mag
+
+30분
+	30/nnc+분/nbu
+
+이상
+	이상/ncn
+
+기다려야
+	기다리/pvg+어야/ecs
+
+하지만,
+	하/pvg+지/ecx+말/px+ㄴ/etm+,/sp
+
+아기가
+	아기/ncn+가/jcs
+
+있어서
+	있/px+어서/ecs
+
+무서운
+	무섭/paa+은/etm
+
+놀이기구를
+	놀이기구/ncn+를/jco
+
+탈
+	타/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+분들에게는
+	불/pvg+ㄴ/etm+들/nbn+에게/jca+는/jxc
+
+정말로
+	정말/ncn+로/jca
+
+'강추'인
+	'강추'/ncn+이/jp+ㄴ/etm
+
+놀이기구입니다
+	놀이기구/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf

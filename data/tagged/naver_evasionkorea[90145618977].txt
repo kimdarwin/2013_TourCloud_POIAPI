@@ -1,0 +1,764 @@
+Barracks
+	Barracks/f
+
+
+:
+	:/sp
+
+뎀시힐의
+	뎀시힐/ncn+의/jcm
+
+핫
+	핫/ncn
+
+플레이스,
+	플레이스,/ncn
+
+배럭스
+	배럭스/ncn
+
+하우스
+	하우스/ncn
+
+
+Barracks(배럭스)가
+	Barracks(배럭스)/ncn+가/jcs
+
+위치해
+	위치/ncn+해/ncn
+
+있는
+	있/px+는/etm
+
+뎀시힐은
+	뎀시힐/ncn+은/jxc
+
+예전
+	예전/ncn
+
+영국군
+	영국군/ncn
+
+막사가
+	막사/ncn+가/jcs
+
+있던
+	있/px+던/etm
+
+지역으로,
+	지역/ncn+으로/jca+,/sp
+
+개발이
+	개발/ncn+이/jcc
+
+시작된
+	시작/ncpa+되/xsvn+ㄴ/etm
+
+2000년대
+	2000/nnc+년대/nbu
+
+초반부터
+	초반/ncn+부터/jxc
+
+서서히
+	서서히/mag
+
+변화하기
+	변화/ncpa+하/xsva+기/etn
+
+시작했다
+	시작/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+후
+	후/ncn
+
+디자인이
+	디자인/ncpa+이/jcc
+
+돋보이는
+	돋보이/pvg+는/etm
+
+레스토랑과
+	레스토랑/ncn+과/jcj
+
+신선한
+	신선/ncn+한/ncn
+
+영감을
+	영감/ncn+을/jco
+
+주는
+	주/px+는/etm
+
+아트
+	아트/ncn
+
+갤러리,
+	갤러리/ncn+,/sp
+
+상품별로
+	상품/ncn+별/ncn+로/jca
+
+특화된
+	특화/ncn+되/xsvn+ㄴ/etm
+
+쇼핑과
+	쇼핑/ncpa+과/jcj
+
+인테리어,
+	인테리/ncn+이/jp+어/ef+,/sp
+
+스파숍들이
+	스파숍들/ncn+이/jcc
+
+늘어나면서
+	늘/pvg+어/ecx+나/px+면서/ecc
+
+젊은
+	젊/paa+은/etm
+
+층이
+	층/nbu+이/jcc
+
+즐겨찾는
+	즐겨찾/ncn+는/jxc
+
+유행의
+	유행/ncpa+의/jcm
+
+거리로
+	거리/ncn+로/jca
+
+탈바꿈했다
+	탈바꿈/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+트렌디한
+	트렌디한/ncn
+
+레스토랑과
+	레스토랑/ncn+과/jcj
+
+카페,
+	카페/ncn+,/sp
+
+스타일
+	스타/ncn+이/jp+ㄹ/etm
+
+넘치는
+	넘치/pvg+는/etm
+
+숍들이
+	숍/ncn+들/xsncc+이/jcc
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+뎀시힐에서
+	뎀시힐/ncn+에서/jca
+
+배럭스는
+	배럭스/ncn+는/jxc
+
+꼭
+	꼭/mag
+
+한번
+	한/nnc+번/nbu
+
+가봐야할
+	가/pvg+아/ecx+보/px+아/ecx+하/px+ㄹ/etm
+
+명소로
+	명소/ncn+로/jca
+
+손꼽힌다
+	손꼽히/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+갤러리와
+	갤러리/ncn+와/jcj
+
+카페가
+	카페/ncn+가/jcs
+
+결합된
+	결합/ncpa+되/xsvn+ㄴ/etm
+
+콘셉트의
+	콘셉트/ncn+의/jcm
+
+이곳은
+	이곳/npd+은/jxc
+
+뎀시힐
+	뎀시힐/ncn
+
+내에
+	내/npp+에/jca
+
+'House(하우스)'라는
+	'/sr+House/f+(/sl+하우스/ncn+)/sr+'/sr+라는/jcr
+
+건물
+	건물/ncn
+
+안에
+	안/ncn+에/jca
+
+자리해
+	자리/ncn+해/ncn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+건물
+	건물/ncn
+
+안에는
+	안/ncn+에/jca+는/jxc
+
+배럭스
+	배럭스/ncn
+
+카페
+	카페/ncn
+
+말고도
+	말/px+고/ecs+도/jxc
+
+뷰티
+	뷰티/ncn
+
+엠포리엄
+	엠포리엄/ncn
+
+스파,
+	스파,/ncn
+
+캠프
+	캠프/ncn
+
+바도
+	바/nbn+도/jxc
+
+함께
+	함께/mag
+
+들어서
+	들/pvg+어서/ecs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+Beauty
+	Beauty/f
+
+Emporium
+	Emporium/f
+
+
+배럭스
+	배럭스/ncn
+
+카페는
+	카페/ncn+는/jxc
+
+파인
+	파/ncn+이/jp+ㄴ/etm
+
+다이닝
+	다이닝/ncn
+
+메뉴를
+	메뉴/ncn+를/jco
+
+캐주얼하게
+	캐주얼하/ncn+이/jp+게/ecs
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+레스토랑
+	레스토랑/ncn
+
+겸
+	겸/nbn
+
+카페다
+	카페/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+빈티지한
+	빈티지한/ncn
+
+의자와
+	의자/ncn+와/jcj
+
+녹음이
+	녹음/ncn+이/jcc
+
+우거진
+	우거/ncpa+진/ncn
+
+정원에서
+	정원/ncn+에서/jca
+
+즐기는
+	즐기/pvg+는/etm
+
+배럭스의
+	배럭스/ncn+의/jcm
+
+아침과
+	아침/ncn+과/jcj
+
+브런치,
+	브런치,/ncn
+
+저녁식사는
+	저녁식사/ncpa+는/jxc
+
+모두
+	모두/mag
+
+운치가
+	운치/ncn+가/jcs
+
+넘친다
+	넘치/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+Barracks
+	Barracks/f
+
+Cafe
+	Cafe/f
+
+
+천장에
+	천/nnc+장/nbu+에/jca
+
+늘어진
+	늘/pvg+어/ecx+지/px+ㄴ/etm
+
+전구와
+	전구/ncn+와/jcj
+
+빈티지한
+	빈티지한/ncn
+
+느낌의
+	느낌/ncn+의/jcm
+
+의자,
+	의자/ncn+,/sp
+
+심플하고
+	심플하/ncn+이/jp+고/ecc
+
+깔끔한
+	깔끔/ncps+하/xsms+ㄴ/etm
+
+의자들이
+	의자/ncn+들/ncn+이/jcc
+
+먼저
+	먼저/mag
+
+손님을
+	손님/ncn+을/jco
+
+맞는다
+	맞/pvg+는다/ef
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+맛볼
+	맛보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+음식은
+	음식/ncn+은/jxc
+
+수프,
+	수프/ncn+,/sp
+
+샐러드,
+	샐러드/ncn+,/sp
+
+스페인
+	스페/ncn+이/jp+ㄴ/etm
+
+빠에야,
+	빠에야,/ncn
+
+피자,
+	피/ncn+이/jp+자/ecc+,/sp
+
+파스타,
+	파스타/ncn+,/sp
+
+디저트
+	디저트/ncn
+
+메뉴까지
+	메뉴/ncn+까지/jxc
+
+매우
+	매우/mag
+
+다양하다
+	다양/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+인기있는
+	인기/ncn+있/xsmn+는/etm
+
+메뉴는
+	메뉴/ncn+는/jxc
+
+이름
+	이름/ncn
+
+옆에
+	옆/ncn+에/jca
+
+따로
+	따로/mag
+
+표시를
+	표시/ncn+를/jco
+
+해
+	하/pvg+어/ecx
+
+두었는데,
+	두/pvg+었/ep+는데/ecs+,/sp
+
+그
+	그/mmd
+
+중
+	중/nbn
+
+대표는
+	대표/ncpa+는/jxc
+
+오징어
+	오징어/ncn
+
+먹물
+	먹물/ncn
+
+빠에야,
+	빠에야,/ncn
+
+새우
+	새우/ncn
+
+카펠리니와
+	카펠리니/ncn+와/jcj
+
+'타이
+	'/sr+타/nbu+이/jcc
+
+크리스피
+	크리스/ncn+피/ncn
+
+비프
+	비프/ncn
+
+샐러드',
+	샐러드/ncn+'/sr+,/sp
+
+사이드
+	사이드/ncn
+
+메뉴로
+	메뉴/ncn+로/jca
+
+시킬
+	시키/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+'버터에
+	'/sr+버터/ncn+에/jca
+
+구운
+	굽/pvg+은/etm
+
+옥수수'등도
+	옥수수/ncn+'/sr+등/nbu+도/jxc
+
+인기
+	인기/ncn
+
+메뉴다
+	메뉴/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+창고를
+	창고/ncn+를/jco
+
+개조한
+	개조/ncpa+하/xsva+ㄴ/etm
+
+느낌의
+	느낌/ncn+의/jcm
+
+실내나
+	실내/ncn+나/jcj
+
+정원이
+	정원/ncn+이/jcc
+
+보이는
+	보이/pvg+는/etm
+
+화사한
+	화사/ncps+하/xsms+ㄴ/etm
+
+자리
+	자리/ncn
+
+등
+	등/nbu
+
+원하는
+	원하/pvg+는/etm
+
+분위기에
+	분위기/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+테이블을
+	테이블/ncn+을/jco
+
+골라
+	고르/pvg+아/ecx
+
+앉는
+	앉/pvg+는/etm
+
+재미가
+	재미/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+주소
+	주소/ncn
+
+:
+	:/sp
+
+BLK
+	BLK/f
+
+8D,
+	8D,/ncn
+
+House,
+	House/f+,/sp
+
+Dempsey
+	Dempsey/f
+
+Road
+	Road/f
+
+연락처
+	연락처/ncn
+
+:
+	:/sp
+
++65-6475-7787
+	+65/nnc+-6475/nnc+-7787/nnc
+
+www.
+	www/f+./sy
+
+dempseyhouse.
+	dempseyhouse/f+./sy
+
+com
+	com/f
+
+
+식상한
+	식상/ncpa+하/xsva+ㄴ/etm
+
+패키지
+	패키지/ncn
+
+여행에서
+	여행/ncpa+에서/jca
+
+벗어나고
+	벗/pvg+어/ecx+나/px+고/ecc
+
+싶나요
+	싶/px+나/ef+요/jxf
+
+?
+	?/sf
+
+
+여행도
+	여행/ncpa+도/jxc
+
+스타일
+	스타/ncn+이/jp+ㄹ/etm
+
+있게
+	있/px+게/ecs
+
+!
+	!/sf
+
+
+더욱
+	더욱/mag
+
+특별하게
+	특별/ncps+하/xsms+게/ecs
+
+!
+	!/sf
+
+
+당신이
+	당신/npp+이/jcs
+
+꿈꿔온
+	꿈꾸/pvg+어/ecx+오/px+ㄴ/etm
+
+여행을
+	여행/ncpa+을/jco
+
+선사하는
+	선사/ncpa+하/xsva+는/etm
+
+에바종
+	에바/ncn+종/ncn
+
+홈페이지에서
+	홈페이지/ncn+에서/jca
+
+
+에바종이
+	에바/ncn+종이/ncn
+
+엄선한
+	엄선/ncpa+하/xsva+ㄴ/etm
+
+호텔
+	호텔/ncn
+
+상품을
+	상품/ncn+을/jco
+
+지금
+	지금/mag
+
+바로
+	바로/mag
+
+만나보세요
+	만나/pvg+아/ecx+보/px+세/ef+요/jxf
+
+!
+	!/sf
+
+
+Find
+	Find/f
+
+your
+	your/f
+
+dream
+	dream/f
+
+travel
+	travel/f
+
+in
+	in/f
+
+style.
+	style/f+./sy
+
+에바종
+	에바/ncn+종/ncn
+
+홈페이지
+	홈페이지/ncn
+
+바로가기
+	바로가/ncn+이/jp+기/etn

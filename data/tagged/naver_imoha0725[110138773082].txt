@@ -1,0 +1,310 @@
+명재고택에
+	명재고택/ncn+에/jca
+
+왔답니다
+	오/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+이
+	이/mmd
+
+곳에서
+	곳/ncn+에서/jca
+
+하루밤
+	하루/ncn+밤/ncn
+
+묵어갈까해요.
+	묵어갈까해요./ncn
+
+300년된
+	300년된/ncn
+
+고택에서
+	고택/ncn+에서/jca
+
+고즈너한
+	고즈너한/ncn
+
+저녁을
+	저녁/ncn+을/jco
+
+맞고,대한민국에서
+	맞/pvg+고/ecc+,/sp+대한/ncn+민국/ncn+에서/jca
+
+가장
+	가장/mag
+
+뷰가
+	뷰/ncn+가/jcs
+
+아름답다는
+	아름답/paa+다/ef+는/etm
+
+누마루에
+	누마루/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+차와
+	차/ncn+와/jct
+
+함께
+	함께/mag
+
+다과를
+	다과/ncn+를/jco
+
+..
+	./sf+./sf
+
+
+저녁식사
+	저녁식사/ncpa
+
+후에
+	후/ncn+에/jca
+
+고택의
+	고택/ncn+의/jcm
+
+작은
+	작/paa+은/etm
+
+음악회
+	음악회/ncn
+
+.
+	./sf
+
+
+그리고,오늘
+	그리/pvg+고/ecc+,/sp+오늘/ncn
+
+아름다운
+	아름답/paa+은/etm
+
+명재고택의
+	명재고택/ncn+의/jcm
+
+비밀을
+	비밀/ncn+을/jco
+
+알게
+	알/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+여행별
+	여행/ncpa+별/ncn
+
+...
+	.../se
+
+
+서울에
+	서울/ncn+에/jca
+
+돌아가면
+	돌/pvg+아/ecx+가/px+면/ecs
+
+할말이가
+	할말/ncn+이가/jcc
+
+산떼미되시겠습니다~^^
+	산떼미되시겠습니다~^^/ncn
+
+!
+	!/sf
+
+
+지금은
+	지금/ncn+은/jxc
+
+맛보기
+	맛보/pvg+기/etn
+
+샷
+	샷/ncn
+
+!
+	!/sf
+
+
+즐강하세요~
+	즐강하/ncn+이/jp+세요/ef+~/sd
+
+
+명재고택
+	명재고택/ncn
+
+전경
+	전경/ncn
+
+
+명재고택
+	명재고택/ncn
+
+비밀의
+	비밀/ncn+의/jcm
+
+장돇
+	장돇/ncn
+
+
+안채가
+	알/pvg+ㄴ/etm+채/nbn+가/jcc
+
+비밀스런
+	비밀/ncn+스런/jcm
+
+이유
+	이유/ncn
+
+
+누마루의
+	누마루/ncn+의/jcm
+
+속삭임지금
+	속삭임/ncn+지금/ncn
+
+여행별은
+	여행/ncpa+별/ncn+은/jxc
+
+매듭공예
+	매듭/ncn+공예/ncn
+
+체험중~
+	체험/ncpa+중/xsnx+~/sd
+
+혼자
+	혼자/mag
+
+넘
+	널/pvg+ㅁ/etn
+
+빨리
+	빨리/mag
+
+끝내고,
+	끝내/pvg+고/ecc+,/sp
+
+이러고
+	이르/paa+어/ef+고/jcr
+
+있네요
+	있/paa+네요/ef
+
+
+from.
+	from/f+./sy
+
+당신의
+	당신/npp+의/jcm
+
+여행스토리텔러,
+	여행/ncpa+스토리텔러/ncn+,/sp
+
+여행별
+	여행/ncpa+별/ncn
+
+
+-
+	-/sd
+
+여러분의
+	여러/nnc+분/nbu+의/jcm
+
+공감,
+	공감/ncpa+,/sp
+
+덧글에
+	덧글/ncn+에/jca
+
+힘이
+	힘/ncn+이/jcc
+
+나는
+	나/px+는/etm
+
+여행별입니다
+	여행/ncpa+별/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+-
+	-/sd
+
+공감
+	공감/ncpa
+
+꾸욱
+	꾸욱/ncn
+
+눌러주기
+	누르/pvg+어/ecx+주/px+기/etn
+
+.
+	./sf
+
+
+-
+	-/sd
+
+덧글
+	덧글/ncn
+
+한줄
+	하/pvg+ㄴ/etm+줄/nbn
+
+선물하기
+	선물/ncn+하기/ncn
+
+.
+	./sf
+
+
+신동정육점
+	신동/ncn+정육점/ncn
+
+
+충청남도
+	충청남/ncn+도/jxc
+
+논산시
+	논산시/ncn
+
+상월면
+	상월면/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011203216",
+	"bl011203216",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"신동정육점",
+	title/f+:/sp+"/sl+신동/ncn+정육점/ncn+"/sr+,/sp
+
+pointX:323042,pointY:410339}
+	pointX/f+:/sp+323042/nnc+,/sp+pointY/f+:/sp+410339/nnc+}/sr

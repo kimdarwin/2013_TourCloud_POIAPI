@@ -1,0 +1,430 @@
+[보도]다목적댐,
+	[/sl+보/nbu+도/jxc+]/sr+다목적댐/ncn+,/sp
+
+4대강
+	4대강/ncn
+
+살리기
+	사/pvg+ㄹ/etm+리/nbn+이/jp+기/etn
+
+사업지역
+	사업지역/ncn
+
+300테라플롭스급
+	300테라플롭스급/ncn
+
+슈퍼컴퓨터
+	슈퍼컴퓨터/ncn
+
+활용
+	활용/ncpa
+
+강우예보
+	강우예보/ncn
+
+수자원공사
+	수자원/ncn+공사/ncn
+
+3km
+	3km/ncn
+
+격자단위,
+	격자/ncn+단위/ncn+,/sp
+
+5일
+	5/nnc+일/nbu
+
+예보
+	예보/ncpa
+
+등
+	등/nbu
+
+신뢰도
+	신뢰도/ncn
+
+높아져
+	높/paa+아/ecx+지/px+어/ecx
+
+K-water,
+	K/f+-/sd+water/f+,/sp
+
+KISTI(한국과학기술정보연구원)
+	KISTI/f+(/sl+한국과학/ncn+기술정보/ncn+연구원/ncr+)/sr
+
+MOU
+	MOU/f
+
+체결
+	체결/ncpa
+
+
+전국
+	전국/ncn
+
+다목적댐과
+	다목적댐/ncn+과/jcj
+
+4대강
+	4대강/ncn
+
+살리기
+	사/pvg+ㄹ/etm+리/nbn+이/jp+기/etn
+
+사업구역의
+	사업/ncn+구역/ncn+의/jcm
+
+강우예보에
+	강우예보/ncn+에/jca
+
+
+300테라플롭스급의
+	300테라플롭스급/ncn+의/jcm
+
+슈퍼컴퓨터가
+	슈퍼컴퓨터/ncn+가/jcs
+
+활용되어
+	활용/ncpa+되/xsvn+어/ecx
+
+예보의
+	예보/ncpa+의/jcm
+
+신뢰도가
+	신뢰도/ncn+가/jcs
+
+크게
+	크/paa+게/ecs
+
+높아진다
+	높/paa+아/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+슈퍼컴퓨터
+	슈퍼컴퓨터/ncn
+
+:
+	:/sp
+
+세계
+	세계/ncn
+
+톱500위
+	톱500위/ncn
+
+안에
+	안/ncn+에/jca
+
+드는
+	들/pvg+는/etm
+
+대용량
+	대용량/ncn
+
+컴퓨터를
+	컴퓨터/ncn+를/jco
+
+말하며,
+	말/ncpa+하/xsva+며/ecc+,/sp
+
+
+매년
+	매년/mag
+
+국제
+	국제/ncn
+
+슈퍼컴퓨터
+	슈퍼컴퓨터/ncn
+
+콘퍼런스(ISC)에서
+	콘퍼런스(ISC)/ncn+에서/jca
+
+순위를발표한다
+	순위를발표한다/ncn
+
+.
+	./sf
+
+
+KISTI가
+	KISTI/f+가/jcc
+
+보유한
+	보유/ncpa+하/xsva+ㄴ/etm
+
+슈퍼컴퓨터는
+	슈퍼컴퓨터/ncn+는/jxc
+
+세계
+	세계/ncn
+
+15위권인
+	15/nnc+위/nbu+권/xsnu+이/jp+ㄴ/etm
+
+1초에
+	1/nnc+초/nbu+에/jca
+
+300조
+	300/nnc+조/nbu
+
+횟수를
+	횟수/ncn+를/jco
+
+연산할
+	연산/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/paa+는/etm
+
+
+300
+	300/nnc
+
+테라플롭스급으로,
+	테라플롭스급으로,/ncn
+
+PC
+	PC/f
+
+1만
+	1/nnc+만/jxc
+
+여대를
+	여대/ncn+를/jco
+
+동시에
+	동시에/mag
+
+구동하는
+	구동/ncpa+하/xsva+는/etm
+
+것과
+	것/nbn+과/jct
+
+같은
+	같/paa+은/etm
+
+성능이다
+	성능/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+물관리
+	물관리/ncn
+
+전문기관인
+	전문기관/ncn+이/jp+ㄴ/etm
+
+K-water(사장
+	K/f+-/sd+water/f+(/sl+사/nnc+장/nbu
+
+)는
+	)/sr+는/jxc
+
+슈퍼컴퓨터
+	슈퍼컴퓨터/ncn
+
+전문기관인
+	전문기관/ncn+인/ncn
+
+
+KISTI(한국과학기술정보연구원,
+	KISTI/f+(/sl+한국과학/ncn+기술정보/ncn+연구원/ncr+,/sp
+
+원장
+	원장/ncr
+
+박영서)와
+	박영서)/ncn+와/jcj
+
+슈퍼컴퓨터를
+	슈퍼컴퓨터/ncn+를/jco
+
+활용한
+	활용/ncpa+한/ncn
+
+
+맞춤형
+	맞춤/ncn+형/ncn
+
+기상예보를
+	기상예보/ncpa+를/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+공동협력
+	공동협력/ncpa
+
+양해각서를
+	양해각서/ncn+를/jco
+
+체결했다
+	체결/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+(6.
+	(/sl+6./nnc
+
+10(목))
+	10(목))/ncn
+
+이에
+	이/npd+에/jca
+
+따라,
+	따르/pvg+아/ecs+,/sp
+
+기존
+	기존/ncpa
+
+다목적댐
+	다목적댐/ncn
+
+유역뿐만
+	유역/ncn+뿐/jxc+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+4대강
+	4대강/ncn
+
+유역에
+	유역/ncn+에/jca
+
+대하여
+	대하/ncn+여/ncn
+
+
+종전
+	종전/ncn
+
+30km
+	30km/ncn
+
+격자에서
+	격자/ncn+에서/jca
+
+3km
+	3km/ncn
+
+격자단위로
+	격자/ncn+단위/ncn+로/jca
+
+기상정보를예측하며,
+	기상정보를예측하/ncn+이/jp+며/ecc+,/sp
+
+
+기상예보기간도
+	기상/ncn+예보기간/ncn+도/jxc
+
+3일에서
+	3/nnc+일/nbu+에서/jca
+
+5일
+	5/nnc+이/jp+ㄹ/etm
+
+예보체계로
+	예보/ncpa+체계/ncn+로/jca
+
+확장된다
+	확장/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+김건호
+	김건호/ncn
+
+K-water
+	K/f+-/sd+water/f
+
+사장은
+	사/nnc+장/nbu+은/jxc
+
+다목적댐
+	다목적댐/ncn
+
+및
+	및/maj
+
+4대강
+	4대강/ncn
+
+유역의
+	유역/ncn+의/jcm
+
+신뢰도
+	신뢰도/ncn
+
+높은
+	높/paa+은/etm
+
+
+중단기
+	중단기/ncn
+
+강우예보체계를
+	강우예보체계/ncn+를/jco
+
+구축함으로써
+	구축함/ncn+으로써/jca
+
+홍수피해
+	홍수피해/ncpa
+
+방지와
+	방지/ncpa+와/jcj
+
+
+성공적인
+	성공/ncpa+적/ncn+이/jp+ㄴ/etm
+
+사업이행을
+	사업/ncn+이행/ncpa+을/jco
+
+더욱
+	더욱/mag
+
+자신할
+	자신/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있게
+	있/px+게/ecs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+고
+	고/mma
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+바로가기
+	바로가/ncn+이/jp+기/etn

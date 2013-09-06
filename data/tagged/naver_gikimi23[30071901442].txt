@@ -1,0 +1,449 @@
+강화도
+	강화/ncpa+도/jxc
+
+여행길
+	여행길/ncn
+
+..
+	./sf+./sf
+
+
+강화도에
+	강화/ncpa+도/ncn+에/jca
+
+도착해서
+	도착/ncpa+하/xsva+어서/ecs
+
+한참을
+	한참/ncn+을/jco
+
+강화시내를
+	강화/ncpa+시내/ncn+를/jco
+
+방황했었습니다
+	방황/ncpa+하/xsva+었었/ep+습니다/ef
+
+.
+	./sf
+
+
+길을
+	길/ncn+을/jco
+
+잃고
+	잃/pvg+고/ecc
+
+헤매다가
+	헤매/pvg+다가/ecs
+
+만난
+	만나/pvg+ㄴ/etm
+
+풍경에
+	풍경/ncn+에/jca
+
+반해서
+	반하/pvg+어서/ecs
+
+한참을
+	한참/ncn+을/jco
+
+서성이고
+	서성/ncn+이/jp+고/ecc
+
+.
+	./sf
+
+
+원래
+	원래/mag
+
+목적지에
+	목적지/ncn+에/jca
+
+다달아서는
+	다닫/pvg+아서/ecs+는/jxc
+
+그곳을
+	그곳/ncn+을/jco
+
+또
+	또/maj
+
+한참
+	한참/mag
+
+서성였지요
+	서성이/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+골목골목이
+	골목/ncn+골목/ncn+이/jcc
+
+아담하고,
+	아담/ncps+하고/jct+,/sp
+
+정겨워서
+	정겹/paa+어서/ecs
+
+돌아서기가
+	돌아서/pvg+기/etn+가/jcs
+
+쉽지
+	쉽/paa+지/ecx
+
+않았습니다
+	않/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+터미널에
+	터미널/ncn+에/jca
+
+도착해서
+	도착/ncpa+하/xsva+어서/ecs
+
+바로
+	바로/mag
+
+외포리로
+	외포리/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+버스를
+	버스/ncn+를/jco
+
+타고,
+	타고/ncpa+,/sp
+
+
+버스에서
+	버스/ncn+에서/jca
+
+내리자마자
+	내리/pvg+자마자/ecs
+
+석모도로
+	석모도/ncn+로/jca
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+배를
+	배/ncn+를/jco
+
+탈수
+	타/pvg+ㄹ/etm+수/nbn
+
+있었지요
+	있/paa+었/ep+지요/ef
+
+
+그
+	그/mmd
+
+짧은
+	짧/paa+은/etm
+
+10분
+	10/nnc+분/nbu
+
+정도의
+	정도/ncn+의/jcm
+
+시간동안
+	시간/ncn+동안/ncn
+
+갈매기에게
+	갈매기/ncn+에게/jca
+
+새우깡을
+	새우/ncn+깡/ncn+을/jco
+
+던져주고
+	던지/pvg+어/ecx+주/px+고/ecc
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+사람들
+	사람들/ncn
+
+.
+	./sf
+
+
+맥주며,
+	맥주/ncn+이/jp+며/ecc+,/sp
+
+소주를
+	소주/ncn+를/jco
+
+마시며
+	마시/pvg+며/ecc
+
+바다를
+	바다/ncn+를/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+사람들
+	사람들/ncn
+
+.
+	./sf
+
+
+사진을
+	사진/ncn+을/jco
+
+찍느라
+	찍/pvg+느라/ecs
+
+정신없던
+	정신/ncn+없/xsmn+던/etm
+
+저도
+	저/npp+도/jxc
+
+맥주가
+	맥주/ncn+가/jcs
+
+생각나더라구요
+	생각나/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+여행에서
+	여행/ncpa+에서/jca
+
+가끔
+	가끔/mag
+
+마시는
+	마시/pvg+는/etm
+
+맥주는
+	맥주/ncn+는/jxc
+
+살짝
+	살짝/mag
+
+얼굴을
+	얼굴/ncn+을/jco
+
+달아오르게
+	달아오르/pvg+게/ecs
+
+하고,
+	하/pvg+고/ecc+,/sp
+
+
+노곤하게도
+	노곤/ncps+하/xsms+게/ecs+도/jxc
+
+해서
+	하/pvg+어서/ecs
+
+따스한
+	따스/ncps+하/xsms+ㄴ/etm
+
+햇살에도
+	햇살/ncn+에/jca+도/jxc
+
+마냥
+	마냥/mag
+
+흐믓해
+	흐믓해/ncn
+
+지더라구요
+	지/nbn+이/jp+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+선착장에서
+	선착장/ncn+에서/jca
+
+맥주를
+	맥주/ncn+를/jco
+
+한캔사고
+	한캔사/ncn+이/jp+고/ecc
+
+바로
+	바로/mag
+
+출발하는
+	출발/ncpa+하/xsva+는/etm
+
+버스에
+	버스/ncn+에/jca
+
+탔습니다
+	트/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+민머루해수욕장은
+	민머루해수욕장/ncn+은/jxc
+
+가을의
+	가을/ncn+의/jcm
+
+바다를
+	바다/ncn+를/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+사람들로
+	사람들/ncn+로/jca
+
+한산했고,
+	한산했/ncn+고/jcj+,/sp
+
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+햇빛을
+	햇빛/ncn+을/jco
+
+마주보고
+	마주/ncn+보고/ncn
+
+모래사장에
+	모래사장/ncn+에/jca
+
+앉아서
+	앉/pvg+아/ecx
+
+바다를
+	바다/ncn+를/jco
+
+보며
+	보/nbu+이/jp+며/ecc
+
+
+맥주한잔을
+	맥주/ncn+한잔/ncpa+을/jco
+
+마셨어요
+	마시/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+맛이란
+	맛/ncn+이란/jxc
+
+꿀맛~
+	꿀맛/ncn+~/sd
+
+까지는
+	끄/pvg+어/ecx+지/px+는/etm
+
+아니고요
+	아니/paa+고요/ef
+
+.
+	./sf
+
+
+바다를
+	바다/ncn+를/jco
+
+안주삼아
+	안주삼아/ncn
+
+마시는
+	마시/pvg+는/etm
+
+기분이더라구요
+	기분/ncn+이/jp+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+저마다의
+	저마다/ncn+의/jcm
+
+여행스타일이
+	여행/ncpa+스타일/ncn+이/jcc
+
+있겠지만,
+	있/paa+겠/ep+지만/ecs+,/sp
+
+
+저는
+	저/npp+는/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+즐기기에
+	즐기/pvg+기/etn+에/jca
+
+혼자여도
+	혼자/ncn+이/jp+어도/ecs
+
+크게
+	크/paa+게/ecs
+
+외롭지는
+	외롭/paa+지/ecs+는/jxc
+
+않아요
+	않/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+과하지
+	고/pvg+아/ecx+하/px+지/ecx
+
+않게
+	않/px+게/ecs
+
+즐기는
+	즐기/pvg+는/etm
+
+여행
+	여행/ncpa
+
+.
+	./sf
+
+
+저의
+	저/npp+의/jcm
+
+행복여행
+	행복/ncps+여행/ncpa
+
+방법이지요
+	방법/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf

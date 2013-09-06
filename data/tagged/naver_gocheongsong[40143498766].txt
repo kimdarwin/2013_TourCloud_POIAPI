@@ -1,0 +1,353 @@
+출처
+	출처/ncn
+
+샤랄랄라|djawl896
+	샤랄랄라|djawl896/ncn
+
+
+달달한
+	달달한/ncn
+
+사과
+	사과/ncn
+
+고구마
+	고구마/ncn
+
+빵
+	빵/mag
+
+
+재료
+	재료/ncn
+
+
+박력분,
+	박력/ncn+분/ncn+,/sp
+
+고구마,
+	고구마/ncn+,/sp
+
+설탕,
+	설탕/ncn+,/sp
+
+사과,
+	사과/ncn+,/sp
+
+레몬,
+	레몬/ncn+,/sp
+
+베이킹파우더,
+	베이킹파우더,/ncn
+
+버터,
+	버터/ncn+,/sp
+
+달걀흰자
+	달걀/ncn+흰자/ncn
+
+
+만드는
+	만들/pvg+는/etm
+
+방법
+	방법/ncn
+
+
+1.
+	1./nnc
+
+고구마는
+	고구마/ncn+는/jxc
+
+뜨거운
+	뜨겁/paa+은/etm
+
+물에
+	물/ncn+에/jca
+
+삶아서
+	삶/pvg+아/ecx
+
+껍질을
+	껍질/ncn+을/jco
+
+깐
+	깔/pvg+ㄴ/etm
+
+후
+	후/ncn
+
+으깨어
+	으깨/ncn+이/jp+어/ecs
+
+주세요
+	주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+2.
+	2./nnc
+
+사과는
+	사과/ncn+는/jxc
+
+편으로
+	편/nbn+으로/jca
+
+얇게
+	얇/paa+게/ecs
+
+썰어준
+	썰/pvg+어/ecx+주/px+ㄴ/etm
+
+다음에
+	다음/ncn+에/jca
+
+모양을
+	모양/ncn+을/jco
+
+내서
+	내/nbn+서/jca
+
+
+설탕과
+	설탕/ncn+과/jcj
+
+레몬을
+	레몬/ncn+을/jco
+
+넣고
+	넣/pvg+고/ecc
+
+조려주세요
+	조/ncn+이/jp+리/ep+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+3.
+	3./nnc
+
+달걀흰자와
+	달걀/ncn+흰자/ncn+와/jcj
+
+설탕을
+	설탕/ncn+을/jco
+
+넣고
+	넣/pvg+고/ecc
+
+섞은다음
+	섞은다음/ncn
+
+으깬
+	으깬/ncn
+
+고구마를
+	고구마/ncn+를/jco
+
+넣고
+	넣/pvg+고/ecc
+
+잘
+	잘/mag
+
+섞어주세요
+	섞/pvg+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+4.
+	4./nnc
+
+박력분과
+	박력/ncn+분/ncn+과/jcj
+
+베이킹파우더를
+	베이킹파우더/ncn+를/jco
+
+채에
+	채/nbu+에/jca
+
+받쳐준다음
+	받쳐준다음/ncn
+
+3번과
+	3/nnc+번/nbu+과/jct
+
+섞어주세요
+	섞/pvg+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+5.
+	5./nnc
+
+비닐을
+	비닐/ncn+을/jco
+
+씌워주고
+	씌우/pvg+어/ecx+주/px+고/ecc
+
+30분간
+	30/nnc+분/nbu+간/xsnu
+
+기다려주세요
+	기다리/pvg+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+6.
+	6./nnc
+
+모양틀에
+	모양/ncn+틀/ncn+에/jca
+
+7부
+	7/nnc+부/nbu
+
+정도만
+	정도/ncn+만/jxc
+
+넣은후
+	넣/pvg+은후/ef
+
+위에
+	위/ncn+에/jca
+
+사과조림을
+	사과/ncn+조림/ncn+을/jco
+
+이쁘게
+	이쁘/paa+게/ecs
+
+얹어주세요
+	얹/pvg+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+7.접시에
+	7.접시/ncn+에/jca
+
+담아주면
+	담/pvg+아/ecx+주/px+면/ecs
+
+완성
+	완성/ncpa
+
+.!!
+	./sf+!/sf+!/sf
+
+
+하루뒤에
+	하루/ncn+뒤/ncn+에/jca
+
+먹으면
+	먹/pvg+으면/ecs
+
+더
+	더/mag
+
+맛있어요
+	맛있/paa+어/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+사과
+	사과/ncn
+
+차
+	차/nbn
+
+
+재료:
+	재료/ncn+:/sp
+
+사과,
+	사과/ncn+,/sp
+
+레몬,
+	레몬/ncn+,/sp
+
+꿀(설탕),
+	꿀(설탕),/ncn
+
+물
+	물/nbu
+
+
+1.
+	1./nnc
+
+물3컵에
+	물3컵/ncn+에/jca
+
+사과1개와
+	사과1개/ncn+와/jcj
+
+레몬을
+	레몬/ncn+을/jco
+
+넣고
+	넣/pvg+고/ecc
+
+끓여주세요
+	끓이/pvg+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+2.
+	2./nnc
+
+끓으면
+	끓/pvg+으면/ecs
+
+중간불로
+	중간/ncn+불/ncn+로/jca
+
+줄인
+	줄/nbn+이/jp+ㄴ/etm
+
+후
+	후/ncn
+
+레몬은건져내고
+	레몬은건져내/ncn+고/jcj
+
+
+꿀이나
+	꿀/ncn+이나/jcj
+
+설탕을
+	설탕/ncn+을/jco
+
+원하는
+	원하/pvg+는/etm
+
+만큼
+	만큼/nbn
+
+넣어주시면
+	넣/pvg+어/ecx+주/px+시/ep+면/ecs
+
+완성
+	완성/ncpa
+
+!!
+	!/sf+!/sf

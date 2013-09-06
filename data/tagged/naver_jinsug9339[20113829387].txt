@@ -1,0 +1,801 @@
+충남
+	충남/ncn
+
+아산시
+	아산시/ncn
+
+영인산
+	영인산/ncn
+
+할배굿당
+	할배굿당/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+
+이곳
+	이곳/npd
+
+영인산
+	영인산/ncn
+
+할배굿당은
+	할배굿당/ncn+은/jxc
+
+영인산
+	영인산/ncn
+
+어금니
+	어금니/ncn
+
+바위
+	바위/ncn
+
+근처에
+	근처/ncn+에/jca
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+굿을
+	굿/ncn+을/jco
+
+하기도
+	하/pvg+기/etn+도/jxc
+
+좋지만
+	좋/paa+지/ecx+말/px+ㄴ/etm
+
+기도를
+	기도/ncn+를/jco
+
+하기도
+	하/pvg+기/etn+도/jxc
+
+편리한
+	편리/ncps+하/xsms+ㄴ/etm
+
+시설을
+	시설/ncpa+을/jco
+
+해놨더군요
+	해놨더군요/ncn
+
+.
+	./sf
+
+
+(위)-영인산
+	(위)-영인산/ncn
+
+할배굿당
+	할배굿당/ncn
+
+.
+	./sf
+
+
+굿당이
+	굿당/ncn+이/jcc
+
+깨끗하고
+	깨끗/ncps+하고/jct
+
+일하기에
+	일/ncpa+하/xsva+기/etn+에/jca
+
+아주
+	아주/mag
+
+좋더군요
+	좋/paa+더군/ef+요/jxf
+
+.
+	./sf
+
+
+(위)-영인산
+	(위)-영인산/ncn
+
+할배굿당
+	할배굿당/ncn
+
+.
+	./sf
+
+
+(위)-산신각
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+각/ncn
+
+가는길
+	가는길/ncn
+
+.
+	./sf
+
+
+산신각
+	산신/ncn+각/ncn
+
+가는길은
+	가는길/ncn+은/jxc
+
+대나무
+	대나무/ncn
+
+숲으로
+	숲/ncn+으로/jca
+
+들어가야
+	들/pvg+어/ecx+가/px+아/ecx
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+분위기가
+	분위기/ncn+가/jcs
+
+그럴듯
+	그러/pvd+ㄹ/etm+듯/nbs
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+보통
+	보통/mag
+
+굿당들은
+	굿당들/ncn+은/jxc
+
+기도하기가
+	기도/ncn+하기/ncn+가/jcs
+
+좀.
+	졸/pvg+ㅁ/etn+./sy
+
+..
+	./sf+./sf
+
+
+그런데
+	그런데/maj
+
+할배굿당은
+	할배굿당/ncn+은/jxc
+
+기도하기에도
+	기도/ncn+하기/ncn+에/jca+도/jxc
+
+아주
+	아주/mag
+
+좋네요
+	좋/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+(위)-산신각
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+각/ncn
+
+.
+	./sf
+
+
+대나무
+	대나무/ncn
+
+숲으로
+	숲/ncn+으로/jca
+
+들어가니
+	들/pvg+어/ecx+가/px+니/ecs
+
+산신각이
+	산신/ncn+각/ncn+이/jcc
+
+나오네요
+	나/pvg+아/ecx+오/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+아주
+	아주/mag
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+더운
+	덥/paa+은/etm
+
+여름에도
+	여름/ncn+에/jca+도/jxc
+
+나름
+	나름/nbn
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+기도할수
+	기도/ncpa+하/xsva+ㄹ/etm+수/nbn
+
+있을것
+	있/px+을/etm+것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+(위)-산신님
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+님/ncn
+
+.
+	./sf
+
+
+산신각에는
+	산신/ncn+각/ncn+에/jca+는/jxc
+
+산신님과
+	산신/ncn+님/ncn+과/jcj
+
+백호산신님이
+	백호산신님/ncn+이/jcc
+
+같이
+	같/paa+이/xsa
+
+모셔져
+	모시/pvg+어/ecx+지/px+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+(위)-장군당
+	(/sl+위/ncn+)/sr+-/sd+장군/ncr+당/ncn
+
+.
+	./sf
+
+
+각각의
+	각각/ncn+의/jcm
+
+전각들이
+	전각/ncn+들/ncn+이/jcc
+
+조용한곳에
+	조용/ncn+한곳/ncn+에/jca
+
+자리하고
+	자리/ncn+하고/jct
+
+있어서
+	있/px+어서/ecs
+
+조용하게
+	조용/ncps+하/xsms+게/ecs
+
+기도하기엔
+	기도/ncn+하기/ncn+엔/jca
+
+아주
+	아주/mag
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+(위)-장군당내부
+	(/sl+위/ncn+)/sr+-/sd+장군/ncr+당내/ncn+부/ncn
+
+장군님
+	장군/ncr+님/ncn
+
+.
+	./sf
+
+
+(위)-용왕당
+	(/sl+위/ncn+)/sr+-/sd+용왕/ncr+당/ncn
+
+.
+	./sf
+
+
+여기는
+	여기/npd+는/jxc
+
+용왕각
+	용왕/ncr+각/ncn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+-진인사대천명
+	-/sd+진인/ncn+사대/ncn+천명/ncpa
+
+[
+	[/sl
+
+]-
+	]/sr+-/sd
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+써있네요
+	쓰/pvg+어/ecx+있/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+전각이
+	전각/ncn+이/jcc
+
+명패를
+	명패/ncn+를/jco
+
+이렇게
+	이렇/pad+게/ecs
+
+붙인
+	붙이/pvg+ㄴ/etm
+
+무슨
+	무슨/mmd
+
+깊은뜻이
+	깊은뜻/ncn+이/jcc
+
+있겠지요
+	있/px+겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+(위)-용왕님
+	(/sl+위/ncn+)/sr+-/sd+용왕님/ncn
+
+.
+	./sf
+
+
+용왕님도
+	용왕님/ncn+도/jxc
+
+계시고,선녀님
+	계시/paa+고/ecc+,/sp+선녀/ncn+님/ncn
+
+옷도
+	옷/ncn+도/jxc
+
+보이네요
+	보이/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+(위)-성황당
+	(/sl+위/ncn+)/sr+-/sd+성황당/ncn
+
+.
+	./sf
+
+
+(위)-성황님
+	(/sl+위/ncn+)/sr+-/sd+성황/ncn+님/ncn
+
+.
+	./sf
+
+
+(위)-성황당
+	(/sl+위/ncn+)/sr+-/sd+성황당/ncn
+
+가는길
+	가는길/ncn
+
+.
+	./sf
+
+
+굿당에서
+	굿당/ncn+에서/jca
+
+성황당
+	성황당/ncn
+
+가는길이
+	가는길/ncn+이/jcc
+
+운치가
+	운치/ncn+가/jcs
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+(위)-도깨비당
+	(/sl+위/ncn+)/sr+-/sd+도깨비/ncn+당/ncn
+
+.
+	./sf
+
+
+깨비님을
+	깨비님/ncn+을/jco
+
+모신
+	모시/pvg+ㄴ/etm
+
+전각입니다
+	전각/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+왼쪽에
+	왼쪽/ncn+에/jca
+
+보이는
+	보이/pvg+는/etm
+
+남,녀
+	남,녀/ncn
+
+깨비님의
+	깨비님/ncn+의/jcm
+
+모습이
+	모습/ncn+이/jcc
+
+몹~씨~~~해학적입니다
+	몹~씨~~~해학적입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-굿당
+	(위)-굿당/ncn
+
+옆에있는
+	옆에있/ncn+는/jxc
+
+별채
+	별채/ncn
+
+.
+	./sf
+
+
+굿당
+	굿당/ncn
+
+한쪽
+	하/pvg+ㄴ/etm+쪽/nbn
+
+조용한
+	조용/ncn+한/ncn
+
+곳에있는
+	곳에있/ncn+는/jxc
+
+별채
+	별채/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+제자니들의
+	제자니들/ncn+의/jcm
+
+진작이나
+	지/px+ㄴ/etm+작/nbn+이/jp+나/ecs
+
+며칠씩
+	며칠씩/ncn
+
+해야하는
+	하/pvg+어야/ecx+하/px+는/etm
+
+일을할때
+	일을할때/ncn
+
+좋을것
+	좋/paa+을/etm+것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+늘
+	늘/mag
+
+그렇듯이
+	그렇/pad+듯이/ecs
+
+조용하게
+	조용/ncps+하/xsms+게/ecs
+
+들어가서
+	들/pvg+어/ecx+가/px+아/ecx
+
+사진찍고
+	사진찍/pvg+고/ecc
+
+소리없이
+	소리없이/mag
+
+나오다보니
+	나오다보/ncn+이/jp+니/ecs
+
+...
+	.../se
+
+
+굿당에대한
+	굿당에대한/ncn
+
+설명을
+	설명/ncpa+을/jco
+
+조목조목
+	조목조목/mag
+
+못듣고
+	못듣고/ncn
+
+옵니다
+	오/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+알량하게
+	알량/ncps+하/xsms+게/ecs
+
+사진이나
+	사진/ncn+이나/jcj
+
+찍는답시고
+	찍/pvg+는답시고/ecs
+
+굿당사람들에게
+	굿당사람들에/ncn+이/jp+게/ecs
+
+차대접이나
+	차/nbu+대/xsnu+접/nbu+이나/jcj
+
+식사대접
+	식사대접/ncpa
+
+받으면서
+	받/pvg+으면서/ecc
+
+
+어쩌고~저쩌고
+	어쩌고~저쩌/ncn+이/jp+고/ecc
+
+할수있는
+	하/pvg+ㄹ/etm+수/nbn+있/xsmn+는/etm
+
+성격이
+	성격/ncn+이/jcc
+
+못되다보니
+	못되다보/ncn+이/jp+니/ecs
+
+...
+	.../se
+
+
+영인산
+	영인산/ncn
+
+할배굿당은
+	할배굿당/ncn+은/jxc
+
+보통
+	보통/mag
+
+굿당들과
+	굿당들/ncn+과/jct
+
+달리
+	달리/mag
+
+굿하기에
+	굿/ncpa+하/xsva+기/etn+에/jca
+
+편리하게
+	편리/ncps+하/xsms+게/ecs
+
+시설이
+	시설/ncpa+이/jcc
+
+되어있지만
+	되/nbu+이/jp+어/ecx+있/px+지만/ecs
+
+
+기도하기도
+	기도/ncn+하기/ncn+도/jxc
+
+좋더군요
+	좋/paa+더군/ef+요/jxf
+
+.
+	./sf
+
+
+산신각이나
+	산신/ncn+각/ncn+이나/jcj
+
+장군당
+	장군/ncr+당/ncn
+
+용왕각등이
+	용왕/ncr+각/ncn+등/xsnx+이/jcc
+
+조용하게
+	조용/ncps+하/xsms+게/ecs
+
+기도하기에
+	기도/ncn+하기/ncn+에/jca
+
+아주
+	아주/mag
+
+좋더군요
+	좋/paa+더군/ef+요/jxf
+
+.
+	./sf
+
+
+많은
+	많/paa+은/etm
+
+제자님들께서
+	제자/ncn+님/ncn+들/xsncc+께서/jcs
+
+찾아가셔서
+	찾/pvg+아/ecx+가/px+시/ep+어서/ecs
+
+일도하시고
+	일도하시/ncn+이/jp+고/ecc
+
+기도도
+	기도/ncn+도/jxc
+
+하셔서
+	하/px+시/ep+어서/ecs
+
+좋은일
+	좋은/ncn+이/jp+ㄹ/etm
+
+만드시길
+	만드시길/ncn
+
+바랩니다
+	바래/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+혹여라도
+	혹여/mag+라도/jxc
+
+영인산
+	영인산/ncn
+
+할배굿당에
+	할배굿당/ncn+에/jca
+
+대해서
+	대하/pvg+어서/ecso
+
+잘아시는
+	잘아시/ncn+는/jxc
+
+분이
+	분/nbu+이/jcc
+
+계시면
+	계시/ncn+면/ncn
+
+
+용왕각에
+	용왕/ncr+각/ncn+에/jca
+
+진인사대천명
+	진인/ncn+사대/ncn+천명/ncpa
+
+[
+	[/sl
+
+]
+	]/sr
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+이름붙인
+	이름붙이/pvg+ㄴ/etm
+
+이유를
+	이유/ncn+를/jco
+
+덧글좀
+	덧글좀/ncn
+
+달아주세요
+	달/paa+아/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+감사합니다
+	감사/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf

@@ -1,0 +1,103 @@
+늘
+	늘/mag
+
+너와
+	너/npp+와/jct
+
+함께
+	함께/mag
+
+두발로만
+	두/nnc+발/nbu+로/jca+만/jxc
+
+서다가갑자기
+	서다가갑자/ncn+이/jp+기/etn
+
+오똑하니
+	오똑/ncps+하/xsms+니/ecs
+
+한쪽발로
+	한쪽/ncn+발/ncn+로/jca
+
+서게되니
+	서/pvg+게/ecx+되/px+니/ecs
+
+휘청거려서무엇이든
+	휘청거려서무엇이든/ncn
+
+붙잡아야
+	붙잡/pvg+어야/ecs
+
+하겠는데
+	하/pvg+겠/ep+는데/ecs
+
+
+미래를
+	미래/ncn+를/jco
+
+바라보기엔
+	바라/pvg+아/ecx+보/px+기/etn+엔/jca
+
+추억이
+	추억/ncpa+이/jcc
+
+발목을
+	발목/ncn+을/jco
+
+붙들고추억에
+	붙들고추억/ncn+에/jca
+
+기대기엔
+	기대/pvg+기/etn+엔/jca
+
+현실이
+	현실/ncn+이/jcc
+
+막연함을
+	막연/ncps+하/xsms+ㅁ/etn+을/jco
+
+깨우쳐주고현실을
+	깨우쳐주고현실/ncn+을/jco
+
+직시하려니
+	직시/ncpa+하/xsva+려니/ecs
+
+뇌의
+	뇌/ncn+의/jcm
+
+주름이
+	주름/ncn+이/jcc
+
+없어질
+	없/paa+어/ecx+지/px+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+힘이
+	힘/ncn+이/jcc
+
+든다
+	들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+고맙게도
+	고맙/paa+게/ecs+도/jxc
+
+이런상태로도
+	이런상태로/ncn+도/jxc
+
+시간은
+	시간/nbu+은/jxc
+
+잘도
+	잘/mag+도/jxc
+
+흘러가준다
+	흐르/pvg+어/ecx+가/px+아/ecx+주/px+ㄴ다/ef
+
+..
+	./sf+./sf

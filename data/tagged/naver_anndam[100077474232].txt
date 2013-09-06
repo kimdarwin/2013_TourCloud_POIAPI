@@ -1,0 +1,2938 @@
+길동자연생태공원
+	길동자연생태공원/ncn
+
+-
+	-/sd
+
+도심속
+	도심/ncn+속/ncn
+
+공원나들이
+	공원/ncn+나들이/ncpa
+
+
+혼자
+	혼자/mag
+
+걷기엔
+	걷/pvg+기/etn+엔/jca
+
+너무나
+	너무나/mag
+
+아쉬운
+	아쉽/paa+은/etm
+
+숲길
+	숲길/ncn
+
+...
+	.../se
+
+
+-소중한
+	-/sd+소중/ncps+하/xsms+ㄴ/etm
+
+자연생태의
+	자연생태/ncn+의/jcm
+
+보고-
+	보고/ncn+-/sd
+
+
+도심속에
+	도심/ncn+속/ncn+에/jca
+
+이런
+	이런/mmd
+
+곳이
+	곳/ncn+이/jcc
+
+...
+	.../se
+
+
+우연히
+	우연히/mag
+
+검색을
+	검색/ncpa+을/jco
+
+하다가
+	하/pvg+다가/ecs
+
+집과
+	집/ncn+과/jct
+
+가까운
+	가깝/paa+은/etm
+
+곳에
+	곳/nbn+에/jca
+
+갈만한
+	가/px+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+곳이
+	곳/ncn+이/jcc
+
+없을까
+	없/paa+을까/ef
+
+...
+	.../se
+
+
+뒤적였더니
+	뒤적이/pvg+었/ep+더니/ecs
+
+길동자연생태공원이
+	길동자연생태공원/ncn+이/jcc
+
+있단다
+	있/px+단다/ef
+
+.
+	./sf
+
+
+이곳에
+	이곳/npd+에/jca
+
+그것도
+	그것/npd+도/jxc
+
+도심
+	돌/pvg+시/ep+ㅁ/etn
+
+속에서
+	속/ncn+에서/jca
+
+생태공원이래야
+	생태/ncn+공원/ncn+이래/ncn+이/jp+야/ef
+
+뭐
+	뭐/npd
+
+그리
+	그리/mad
+
+잘
+	잘/mag
+
+보존되어
+	보존/ncpa+되/xsvn+어/ecx
+
+있겠어
+	있/px+겠/ep+어/ef
+
+..
+	./sf+./sf
+
+
+싶었다
+	싶/px+었/ep+다/ef
+
+.
+	./sf
+
+
+섣부른
+	섣부르/paa+ㄴ/etm
+
+생각이었다는건
+	생각이었다는건/ncn
+
+공원을
+	공원/ncn+을/jco
+
+들어서면
+	들어서/pvg+면/ecs
+
+알게된다
+	알/pvg+게/ecx+되/px+ㄴ다/ef
+
+.
+	./sf
+
+
+매
+	매/pvg+어/ecx
+
+주말마다
+	주말/ncn+마다/jxc
+
+계속되는
+	계속/ncpa+되/xsvn+는/etm
+
+비가
+	비/ncn+가/jcs
+
+원망스럽기까지
+	원망/ncpa+스럽/xsmn+기/etn+까지/jxc
+
+..
+	./sf+./sf
+
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+매주
+	매주/mag
+
+집에서
+	집/ncn+에서/jca
+
+뒹굴거리기
+	뒹굴/pvg+ㄹ/etm+것/nbn+이/jp+리/ep+기/etn
+
+아쉬워
+	아쉽/paa+어/ecx
+
+조카
+	조카/ncn
+
+예준이랑
+	예준이랑/ncn
+
+둘이서만
+	둘/nnc+이/nnc+서/jca+만/jxc
+
+길동생태공원에
+	길동생태공원/ncn+에/jca
+
+가기로
+	가/px+기/etn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+어찌어찌
+	어찌어찌/mag
+
+예약제라는
+	예약제/ncn+라는/jcm
+
+걸
+	거/nbn+ㄹ/jco
+
+알았기
+	알/pvg+아/ep+기/etn
+
+다행이지
+	다행/ncps+이/jp+지/ecs
+
+그냥
+	그냥/mag
+
+갔더라면
+	가/px+아/ep+라면/ecs
+
+들어가지
+	들/pvg+어/ecx+가/px+지/ecx
+
+못할
+	못하/px+ㄹ/etm
+
+뻔
+	뻔/nbs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+미리
+	미리/mag
+
+공원입장프로그램인
+	공원/ncn+입장/ncpa+프로그램/ncn+이/jp+ㄴ/etm
+
+'스스로체험'
+	'스스로체험'/ncn
+
+프로그램
+	프로그램/ncn
+
+예약을
+	예약/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+정해진
+	정하/pvg+어/ecx+지/px+ㄴ/etm
+
+시간에
+	시간/nbu+에/jca
+
+입장을
+	입장/ncpa+을/jco
+
+해야한다
+	하/pvg+어야/ecx+하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+제한인원도
+	제한/ncpa+인원/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+탐방
+	탐방/ncpa
+
+시간은
+	시간/nbu+은/jxc
+
+두시간
+	두/nnc+시간/nbu
+
+.
+	./sf
+
+
+우리는
+	우리/npp+는/jxc
+
+오후1시부터
+	오후1시부터/ncn
+
+3시까지
+	3/nnc+시/nbu+까지/jxc
+
+.
+	./sf
+
+
+지하철로
+	지하철/ncn+로/jca
+
+이용하면
+	이용/ncpa+하/xsva+면/ecs
+
+길동역이나
+	길동역/ncn+이나/jcj
+
+천호역에서
+	천호/ncn+역/ncn+에서/jca
+
+다시
+	다시/mag
+
+버스를
+	버스/ncn+를/jco
+
+이용해서
+	이용/ncpa+하/xsva+어서/ecs
+
+10여분
+	10/nnc+여/xsnu+분/nbu
+
+이동해야
+	이동/ncn+해/ncn+이/jp+야/ef
+
+한데서
+	하/pvg+ㄴ/etm+데/nbn+서/jca
+
+그냥
+	그냥/mag
+
+형부에게
+	형부/ncn+에게/jca
+
+데려달라고
+	데려달라/ncn+이/jp+고/ecc
+
+편히
+	편히/mag
+
+입구에
+	입구/ncn+에/jca
+
+도착했다
+	도착/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+공원으로
+	공원/ncn+으로/jca
+
+들어가볼까
+	들/pvg+어/ecx+가/px+아/ecx+보/px+ㄹ까/ecs
+
+...
+	.../se
+
+
+얼른
+	얼른/mag
+
+가자~~
+	가/pvg+자/ecc+~/sd+~/sd
+
+
+생태공원의
+	생태/ncn+공원/ncn+의/jcm
+
+개념_____
+	개념_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+____
+	____/ncn
+
+
+생태적
+	생태/ncn+적/ncn
+
+요소를
+	요소/ncn+를/jco
+
+주제로
+	주제/ncn+로/jca
+
+한
+	하/pvg+ㄴ/etm
+
+관찰,
+	관찰/ncpa+,/sp
+
+학습
+	학습/ncpa
+
+측면에서
+	측면/ncn+에서/jca
+
+
+자연관찰
+	자연/ncn+관찰/ncpa
+
+및
+	및/maj
+
+학습을
+	학습/ncpa+을/jco
+
+위하여
+	위하/pvg+어/ecx
+
+공원녹지를
+	공원녹지/ncn+를/jco
+
+생태적으로
+	생태/ncn+적/ncn+으로/jca
+
+복원,
+	복원/ncpa+,/sp
+
+보전하며,
+	보전/ncpa+하/xsva+며/ecc+,/sp
+
+이용자들에게
+	이용자/ncn+들/ncn+에게/jca
+
+식물,
+	식물/ncn+,/sp
+
+동물,
+	동물/ncn+,/sp
+
+곤충들이
+	곤충/ncn+들/ncn+이/jcc
+
+자연환경속에서
+	자연환경/ncn+속/ncn+에서/jca
+
+성장,
+	성장/ncpa+,/sp
+
+활동하는
+	활동/ncpa+하/xsva+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+관찰
+	관찰/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+제공된
+	제공/ncpa+되/xsvn+ㄴ/etm
+
+장소,
+	장소/ncn+,/sp
+
+즉
+	즉/mag
+
+소생물들의
+	소생/ncn+물/ncn+들/xsncc+의/jcm
+
+살아가는
+	살/pvg+아/ecx+가/px+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+쉽게
+	쉽/paa+게/ecs
+
+접근,
+	접근/ncpa+,/sp
+
+관찰할
+	관찰/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+공원을
+	공원/ncn+을/jco
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+생태원리에
+	생태/ncn+원리/ncn+에/jca
+
+입각하여
+	입각/ncpa+하/xsva+어/ecx
+
+조성측면에서
+	조성/ncpa+측면/ncn+에서/jca
+
+
+도시속에
+	도시/ncn+속/ncn+에/jca
+
+야생생물의
+	야생/ncpa+생물/ncn+의/jcm
+
+서식처를
+	서식처/ncn+를/jco
+
+도입하되,
+	도입/ncpa+하/xsva+되/ecs+,/sp
+
+생태계
+	생태계/ncn
+
+질서(종다양성,
+	질서(종다양성,/ncn
+
+생태적
+	생태/ncn+적/ncn
+
+건전성,
+	건전성/ncn+,/sp
+
+지속가능성
+	지속/ncpa+가능성/ncn
+
+등)에
+	등/nbu+)/sr+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+스스로
+	스스로/mag
+
+유지되도록
+	유/ncn+이/jp+지/ecx+되/px+도록/ecs
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+공원으로
+	공원/ncn+으로/jca
+
+건강한
+	건강/ncps+하/xsms+ㄴ/etm
+
+야생경관을
+	야생/ncpa+경관/ncn+을/jco
+
+도입하고,
+	도입/ncpa+하고/jct+,/sp
+
+최소에너지
+	최소/ncn+에너지/ncn
+
+투입에
+	투입/ncpa+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+유지관리가
+	유지/ncn+관리/ncn+가/jcs
+
+가능하도록
+	가능/ncps+하/xsms+도록/ecs
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+공원으로
+	공원/ncn+으로/jca
+
+생태환경적으로
+	생태환경/ncn+적/ncn+으로/jca
+
+타
+	타/pvg+아/ecx
+
+공원에
+	공원/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+비교우위성에
+	비교우위/ncn+성/ncn+에/jca
+
+존재가치를
+	존재가치/ncn+를/jco
+
+두고
+	두/pvg+고/ecc
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+공원을
+	공원/ncn+을/jco
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+입구
+	입구/ncn
+
+탐방객
+	탐방/ncpa+객/ncn
+
+안내소에서
+	안내소/ncn+에서/jca
+
+예약
+	예약/ncpa
+
+체크를
+	체크/ncpa+를/jco
+
+하고(음식물은
+	하고(음식물/ncn+은/jxc
+
+절대
+	절대/mag
+
+반입금지)
+	반입/ncpa+금지/ncpa+)/sr
+
+왼쪽으로
+	왼쪽/ncn+으로/jca
+
+난
+	나/px+ㄴ/etm
+
+길을
+	길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+공원
+	공원/ncn
+
+내부가
+	내부/ncn+가/jcs
+
+7월의
+	7/nnc+월/nbu+의/jcm
+
+싱그러움을
+	싱그럽/paa+음/etn+을/jco
+
+잔뜩
+	잔뜩/mag
+
+머금고
+	머금/pvg+고/ecc
+
+보는
+	보/px+는/etm
+
+것만으로도
+	것/nbn+만으로도/jca
+
+시원해진다
+	시원/ncps+하/xsms+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+공원소개
+	공원/ncn+소개/ncpa
+
+길동자연생태공원은
+	길동자연생태공원/ncn+은/jxc
+
+서울특별시가
+	서울특별시/ncn+가/jcs
+
+공원녹지확충
+	공원녹지/ncn+확충/ncpa
+
+5개년
+	5/nnc+개년/nbu
+
+계획의
+	계획/ncpa+의/jcm
+
+일환으로
+	일환/ncn+으로/jca
+
+논과
+	논/ncn+과/jcj
+
+밭으로
+	밭/ncn+으로/jca
+
+쓰던
+	쓰/pvg+던/etm
+
+곳을
+	곳/ncn+을/jco
+
+자연
+	자연/ncn
+
+상태로
+	상태/ncn+로/jca
+
+복원하여
+	복원/ncpa+하/xsva+어/ecx
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+생물들이
+	생물/ncn+들/ncn+이/jcc
+
+살아
+	살/pvg+아/ecx
+
+갈
+	가/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+조성한
+	조성/ncpa+하/xsva+ㄴ/etm
+
+생태공원으로
+	생태/ncn+공원/ncn+으로/jca
+
+1999년
+	1999/nnc+년/nbu
+
+5월
+	5/nnc+월/nbu
+
+20일
+	20/nnc+일/nbu
+
+개원하였다
+	개원/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이곳에는
+	이곳/npd+에/jca+는/jxc
+
+120여종의
+	120/nnc+여/xsnu+종/nbu+의/jcm
+
+나무를
+	나무/ncn+를/jco
+
+포함하여
+	포함/ncpa+하/xsva+어/ecx
+
+530여종의
+	530/nnc+여/xsnu+종/nbu+의/jcm
+
+식물과
+	식물/ncn+과/jcj
+
+100여종의
+	100/nnc+여/xsnu+종/nbu+의/jcm
+
+버섯,
+	버섯/ncn+,/sp
+
+1,400여종의
+	1,400/nnc+여/xsnu+종/nbu+의/jcm
+
+곤충,
+	곤충/ncn+,/sp
+
+200여종의
+	200/nnc+여/xsnu+종/nbu+의/jcm
+
+거미,
+	거미/ncn+,/sp
+
+70여종의
+	70/nnc+여/xsnu+종/nbu+의/jcm
+
+새,
+	새/mma+,/sp
+
+20여종의
+	20/nnc+여/xsnu+종/nbu+의/jcm
+
+물고기와
+	물고기/ncn+와/jcj
+
+고라니,
+	고/ncn+이/jp+라니/ecs+,/sp
+
+너구리,
+	너구리/ncn+,/sp
+
+족제비,
+	족제비/ncn+,/sp
+
+다람쥐,
+	다람쥐/ncn+,/sp
+
+뱀
+	배/pvg+ㅁ/etn
+
+등
+	등/nbu
+
+다양한
+	다양/ncn+한/ncn
+
+동물들이
+	동물/ncn+들/ncn+이/jcc
+
+살고
+	살/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+공원
+	공원/ncn
+
+총
+	총/mma
+
+면적은
+	면적/ncn+은/jxc
+
+80,683제곱미터(24,340평)이며,
+	80,683제곱미터(24,340평)이며,/ncn
+
+지역별
+	지역별/ncn
+
+자연환경을
+	자연환경/ncn+을/jco
+
+고려하여
+	고/pvg+려/ecx+하/px+어/ecx
+
+광장지구,
+	광장/ncn+지구/ncn+,/sp
+
+습지지구,
+	습지/ncn+지구/ncn+,/sp
+
+초지
+	초/nbu+이/jp+지/ecs
+
+및
+	및/maj
+
+농촌지구,
+	농촌/ncn+지구/ncn+,/sp
+
+산림지구,
+	산림/ncn+지구/ncn+,/sp
+
+저수지지구로
+	저수지/ncn+지구/ncn+로/jca
+
+나누어져
+	나누/pvg+어/ecx+지/px+어/ecx
+
+있으며
+	있/px+으며/ecc
+
+주요시설로는
+	주요/ncps+시설/ncpa+로/jca+는/jxc
+
+생태문화센터,
+	생태/ncn+문화/ncn+센터/ncn+,/sp
+
+탐방객안내소,
+	탐방객안내소,/ncn
+
+조류관찰대,
+	조류/ncn+관찰/ncpa+대/ncn+,/sp
+
+저수지,
+	저수지/ncn+,/sp
+
+관찰로
+	관찰/ncpa+로/jca
+
+등이
+	등/nbu+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+습지지구부터
+	습지/ncn+지구/ncn+부터/jxc
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+볼까요~~
+	보/px+ㄹ까/ef+요/jxf+~/sd+~/sd
+
+예준아
+	예준아/ncn
+
+이제
+	이제/mag
+
+자세히
+	자세히/mag
+
+봐.
+	보/px+아/ef+./sf
+
+.
+	./sf
+
+
+무엇이
+	무엇/npd+이/jcc
+
+여기서살아가나
+	여기서살아가/ncn+이/jp+나/ecs
+
+..
+	./sf+./sf
+
+
+탐방객을
+	탐방/ncpa+객/ncn+을/jco
+
+배려해서
+	배/pvg+려/ecx+하/px+어서/ecs
+
+탐방로가
+	탐방/ncpa+로/jca+가/jcc
+
+나무길로
+	나무/ncn+길/ncn+로/jca
+
+잘
+	잘/mag
+
+정비되어
+	정비/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+흙길도
+	흙길/ncn+도/jxc
+
+좋지만
+	좋/paa+지만/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+나무판자길
+	나무/ncn+판자/ncn+길/ncn
+
+아래로
+	아래/ncn+로/jca
+
+흐르는
+	흐르/pvg+는/etm
+
+물소리가
+	물소리/ncn+가/jcc
+
+
+더없이
+	더없이/mag
+
+듣기
+	듣/pvg+기/etn
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+뱀이
+	배/pvg+ㅁ/etn+이/jcs
+
+많은지
+	많/paa+은/etm+지/nbn
+
+"뱀이
+	"/sl+배/pvg+ㅁ/etn+이/jcs
+
+나와요"라는
+	나/pvg+아/ecx+오/px+아/ef+요/jxf+"/sr+라는/jcm
+
+안내판이
+	안내판/ncn+이/jcc
+
+종종보인다
+	종종보/ncn+이/jp+ㄴ다/ef
+
+.
+	./sf
+
+
+예준이
+	예준/ncn+이/jcc
+
+아주
+	아주/mag
+
+재미붙여서
+	재미붙여서/ncn
+
+뱀이
+	배/pvg+ㅁ/etn+이/jcs
+
+나와요~를
+	나와요~/ncn+를/jco
+
+연신
+	연신/mag
+
+중얼거린다
+	중얼거리/pvg+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+습지의
+	습지/ncn+의/jcm
+
+들꽃들과
+	들꽃/ncn+들/ncn+과/jcj
+
+길이
+	길/ncn+이/jcc
+
+어우러진
+	어우러지/pvg+ㄴ/etm
+
+모습이
+	모습/ncn+이/jcc
+
+참
+	참/mag
+
+보기좋다
+	보기좋/paa+다/ef
+
+.
+	./sf
+
+
+탐방로는
+	탐방/ncpa+로/jca+는/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+끝없이
+	끝없이/mag
+
+구불구불
+	구불구불/mag
+
+이어진다
+	잇/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+길
+	길/paa+ㄹ/etm
+
+주변으로
+	주변/ncn+으로/jca
+
+작은
+	작/paa+은/etm
+
+연못들이
+	연못/ncn+들/ncn+이/jcc
+
+있고,
+	있/px+고/ecc+,/sp
+
+연못엔
+	연못/ncn+엔/jca
+
+어리연꽃이
+	어리연꽃/ncn+이/jcc
+
+노랗게
+	노랗/paa+게/ecs
+
+피었고,
+	피/pvg+었/ep+고/ecc+,/sp
+
+연잎들이
+	연잎/ncn+들/ncn+이/jcc
+
+새초롬하게
+	새초롬하/ncn+이/jp+게/ecs
+
+수면에
+	수면/ncn+에/jca
+
+떠있다
+	뜨/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+부들이
+	부들/ncn+이/jcc
+
+군락으로
+	군락/ncn+으로/jca
+
+자라고
+	자/nbn+이/jp+라/ef+고/jcr
+
+있고,
+	있/px+고/ecc+,/sp
+
+수많은
+	수많/paa+은/etm
+
+곤충들이
+	곤충/ncn+들/ncn+이/jcc
+
+배회한다
+	배회/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+많은
+	많/paa+은/etm
+
+곤충들,
+	곤충/ncn+들/xsncc+,/sp
+
+거미,
+	거미/ncn+,/sp
+
+나비가
+	나비/ncn+가/jcs
+
+한데
+	하/pvg+ㄴ데/ecs
+
+어우러져
+	어우러지/pvg+어/ecx
+
+보존되어
+	보존/ncpa+되/xsvn+어/ecx
+
+있다는
+	있/px+다/ef+는/etm
+
+것이
+	것/nbn+이/jcc
+
+신기할
+	신기/ncps+하/xsms+ㄹ/etm
+
+정도다
+	정도/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+철저한
+	철저/ncps+하/xsms+ㄴ/etm
+
+입장객
+	입장객/ncn
+
+관리가
+	관리/ncn+가/jcs
+
+이렇게
+	이렇/pad+게/ecs
+
+생태를유지할
+	생태를유지할/ncn
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+건가
+	것/nbn+이/jp+ㄴ가/ef
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+어리연꽃만큼이나
+	어리연꽃만큼/ncn+이나/jcj
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+연잎이
+	연잎/ncn+이/jcc
+
+피었다
+	피/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+저렇게
+	저렇/pad+게/ecs
+
+검은
+	걸/pvg+ㅁ/etn+은/jxc
+
+물속에서
+	물/ncn+속/xsnx+에서/jca
+
+눈이
+	눈/ncn+이/jcc
+
+시린
+	시리/paa+ㄴ/etm
+
+노란빛을
+	노란빛/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+내었다
+	내/px+었/ep+다/ef
+
+.
+	./sf
+
+
+작은
+	작/paa+은/etm
+
+연못에는
+	연못/ncn+에/jca+는/jxc
+
+가까이에서
+	가까이/ncn+에서/jca
+
+관찰할
+	관찰/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+큰
+	크/paa+ㄴ/etm
+
+장애물이
+	장애물/ncn+이/jcc
+
+없도록
+	없/paa+도록/ecs
+
+해두었다
+	하/pvg+어/ecx+두/px+었/ep+다/ef
+
+.
+	./sf
+
+
+연못
+	연못/ncn
+
+가까이
+	가까이/mag
+
+앉아서
+	앉/pvg+아/ecx
+
+어리연꽃을
+	어리연꽃/ncn+을/jco
+
+자세히
+	자세히/mag
+
+들여다
+	들이/px+어다/ecs
+
+보게
+	보/px+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+졸졸
+	졸졸/mag
+
+흐르는
+	흐르/pvg+는/etm
+
+개울속에서도
+	개울/ncn+속/ncn+에서/jca+도/jxc
+
+꽃을
+	꽃/ncn+을/jco
+
+피웠다
+	피우/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이즘은
+	이즘/ncn+은/jxc
+
+예준이는
+	예준/ncn+이/jp+는/etm
+
+새로운
+	새롭/paa+은/etm
+
+것을
+	것/nbn+을/jco
+
+발견했다
+	발견/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+탐방로
+	탐방/ncpa+로/jca
+
+곳곳에
+	곳곳/ncn+에/jca
+
+놓여있는
+	놓이/pvg+어/ecx+있/px+는/etm
+
+도장찍기
+	도장찍/pvg+기/etn
+
+!!
+	!/sf+!/sf
+
+
+잠자리,
+	잠자리/ncn+,/sp
+
+뱀,
+	배/pvg+ㅁ/etn+,/sp
+
+자귀나무,
+	자귀나무/ncn+,/sp
+
+무당벌레
+	무당/ncn+벌레/ncn
+
+..
+	./sf+./sf
+
+
+등등
+	등등/nbn
+
+
+(길을
+	(/sl+길/ncn+을/jco
+
+걷는
+	걷/pvg+는/etm
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+도장찾기에
+	도장찾기/ncn+에/jca
+
+열심이었다
+	열심/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+재미가
+	재미/ncn+가/jcs
+
+쏠쏠한가보다)
+	쏠쏠/ncps+한가/ncps+보다/jca+)/sr
+
+
+규모는
+	규모/ncn+는/jxc
+
+자그마
+	자그마/ncn
+
+하지만
+	하/pvg+지만/ecs
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+생명체들을
+	생명체/ncn+들/ncn+을/jco
+
+안고
+	안/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+연못들
+	연못/ncn+들/ncn
+
+...
+	.../se
+
+
+습지
+	습지/ncn
+
+생물들을
+	생물/ncn+들/ncn+을/jco
+
+품은
+	풀/pvg+ㅁ/etn+은/jxc
+
+너른
+	너르/paa+ㄴ/etm
+
+가슴을
+	가슴/ncn+을/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+얼굴들이다
+	얼굴/ncn+들이/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+꽃이
+	꽃/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+곳에
+	곳/nbn+에/jca
+
+나비고
+	나비/ncn+이/jp+고/ecc
+
+많고,
+	많/paa+고/ecc+,/sp
+
+벌도
+	벌/nbu+도/jxc
+
+많고
+	많/paa+고/ecc
+
+....
+	.../se+./sf
+
+
+나비를
+	나비/ncn+를/jco
+
+보고
+	보/px+고/ecc
+
+달려가다보면
+	달리/pvg+어/ecx+가/px+아/ecx+보/px+면/ecs
+
+벌이
+	벌/nbu+이/jcc
+
+있어
+	있/px+어/ecx
+
+우리가
+	우리/npp+가/jcs
+
+도망가곤
+	도망가/pvg+곤/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+거미나
+	거미/ncn+나/jcj
+
+많은
+	많/paa+은/etm
+
+벌레들이
+	벌레/ncn+들/ncn+이/jcc
+
+길
+	길/paa+ㄹ/etm
+
+곳곳에
+	곳곳/ncn+에/jca
+
+버티고
+	버티/pvg+고/ecc
+
+있어서
+	있/px+어서/ecs
+
+예준이랑
+	예준이랑/ncn
+
+조심조심
+	조심조심/mag
+
+걷느라
+	걷/pvg+느라/ecs
+
+꽤
+	꽤/mag
+
+애먹었다
+	애먹/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+이게
+	이/npd+이/jp+게/ecs
+
+뭘까
+	뭘까/ncn
+
+관찰하기보다
+	관찰/ncpa+하/xsva+기/etn+보다/jca
+
+지금은
+	지금/ncn+은/jxc
+
+도망가기
+	도망가/pvg+기/etn
+
+바쁜
+	바쁘/paa+ㄴ/etm
+
+예준이다
+	예준/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+매미소리에도
+	매미소리/ncn+에/jca+도/jxc
+
+예민해져서
+	예민/ncps+하/xsms+어/ecx+지/px+어서/ecs
+
+"왜이렇게
+	"왜이렇/ncn+게/jca
+
+시끄럽게
+	시끄럽/paa+게/ecs
+
+우는거야~
+	울/pvg+는거야/ef+~/sd
+
+"
+	"/sl
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+시골에서도
+	시골/ncn+에서/jca+도/jxc
+
+흔하게
+	흔하/paa+게/ecs
+
+본
+	보/px+ㄴ/etm
+
+들꽃
+	들꽃/ncn
+
+.
+	./sf
+
+
+쑥부쟁이,
+	쑥부쟁이,/ncn
+
+개미취,
+	개미/ncn+취/ncn+,/sp
+
+구절초
+	구절/ncn+초/ncn
+
+...
+	.../se
+
+
+뭐
+	뭐/npd
+
+이런것들과
+	이런것들/ncn+과/jcj
+
+사촌일까
+	사촌/ncn+이/jp+ㄹ까/ef
+
+..
+	./sf+./sf
+
+
+비슷하게
+	비슷/ncps+하/xsms+게/ecs
+
+생겼다
+	생기/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+걷는
+	걷/pvg+는/etm
+
+길마다
+	길/ncn+마다/jxc
+
+꽃이
+	꽃/ncn+이/jcc
+
+가득이라
+	가득/ncps+이/jp+라/ecs
+
+얼굴이
+	얼굴/ncn+이/jcc
+
+활짝
+	활짝/mag
+
+펴진다
+	피/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+그늘막이
+	그늘/ncn+막/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+습지지구에서는
+	습지/ncn+지구/ncn+에서/jca+는/jxc
+
+느릿느릿
+	느릿느릿/mag
+
+걷기가
+	걷/pvg+기/etn+가/jcs
+
+힘들다
+	힘들/pvg+다/ef
+
+.
+	./sf
+
+
+조카도
+	조카/ncn+도/jxc
+
+벌써
+	벌써/mag
+
+윗옷하나는
+	윗옷하나/ncn+는/jxc
+
+벗어던진
+	벗어던지/pvg+ㄴ/etm
+
+상태고
+	상태/ncn+고/jcj
+
+
+물도
+	물/ncn+도/jxc
+
+여러차례
+	여러/nnc+차례/nbu
+
+꺼내
+	꺼내/pvg+어/ecx
+
+마셨다
+	마시/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+간간히
+	간간히/mag
+
+불어오는
+	불/pvg+어/ecx+오/px+는/etm
+
+바람과,
+	바람/ncn+과/jcj+,/sp
+
+풀벌레
+	풀벌레/ncn
+
+소리,
+	소리/ncn+,/sp
+
+활짝핀
+	활짝핀/ncn
+
+들꽃들을
+	들꽃/ncn+들/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+빠른걸음도
+	빠른걸음/ncn+도/jxc
+
+늦추는
+	늦추/mag+는/jxc
+
+
+힘이
+	힘/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+부들이
+	부들/ncn+이/jcc
+
+군락으로
+	군락/ncn+으로/jca
+
+피어있던
+	피/pvg+어/ecx+있/px+던/etm
+
+습지지구의
+	습지/ncn+지구/ncn+의/jcm
+
+길.
+	길/ncn+./sf
+
+..
+	./sf+./sf
+
+
+예준이는
+	예준/ncn+이/jp+는/etm
+
+부들을
+	부들/ncn+을/jco
+
+소시지라고
+	소시지/ncn+이/jp+라/ef+고/jcr
+
+부른다
+	부르/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+딱
+	딱/mag
+
+그렇게
+	그렇/pad+게/ecs
+
+생겼으니
+	생기/pvg+었/ep+으니/ecs
+
+뭐라고
+	뭐/npd+이/jp+라/ef+고/jcr
+
+하기도
+	하/pvg+기/etn+도/jxc
+
+그렇고
+	그렇/pad+고/ecc
+
+...
+	.../se
+
+
+만져보고
+	만지/pvg+어/ecx+보/px+고/ecc
+
+설명하면서
+	설명/ncpa+하/xsva+면서/ecc
+
+열심히
+	열심히/mag
+
+부들부들
+	부들부들/mag
+
+...
+	.../se
+
+
+반복해준다
+	반복/ncpa+하/xsva+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+아낌없이
+	아낌없이/mag
+
+주는
+	주/px+는/etm
+
+숲
+	숲/ncn
+
+
+더워서
+	덥/paa+어서/ecs
+
+땀
+	따/pvg+ㅁ/etn
+
+삐질삐질
+	삐질삐질/ncn
+
+흘리다
+	흘리/pvg+다/ef
+
+만난
+	만나/pvg+ㄴ/etm
+
+숲길
+	숲길/ncn
+
+...
+	.../se
+
+
+와~
+	오/px+아/ecs+~/sd
+
+사막에서
+	사막/ncn+에서/jca
+
+오아시스를
+	오아시스/ncn+를/jco
+
+만난것처럼
+	만나/pvg+ㄴ/etm+것/nbn+처럼/jca
+
+기분이
+	기분/ncn+이/jcc
+
+좋아진다
+	좋/paa+아/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+완전한
+	완전/ncps+하/xsms+ㄴ/etm
+
+숲
+	숲/ncn
+
+그늘속에서
+	그늘/ncn+속/ncn+에서/jca
+
+습하지만
+	습하/paa+지만/ecs
+
+그래도
+	그래도/maj
+
+공기도
+	공기/nbu+도/jxc
+
+넘
+	널/pvg+ㅁ/etn
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+산책길도
+	산책길/ncn+도/jxc
+
+이쁘게
+	이쁘/paa+게/ecs
+
+놓여져있고,
+	놓이/pvg+어/ecx+지/px+어/ecx+있/px+고/ecc+,/sp
+
+발걸음이
+	발걸음/ncn+이/jcc
+
+느리다못해
+	느리다못해/ncn
+
+멈춘듯
+	멈추/pvg+ㄴ/etm+듯/nbs
+
+걷게
+	걷/pvg+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+길이
+	길/ncn+이/jcc
+
+무척
+	무척/mag
+
+좋아서인지
+	좋아서/ncn+이/jp+ㄴ지/ecs
+
+...
+	.../se
+
+
+이런길을
+	이런길/ncn+을/jco
+
+좋은사람과
+	좋은사람/ncn+과/jct
+
+손잡고
+	손잡/pvg+고/ecc
+
+천천히
+	천천히/mag
+
+걸으면
+	걸/pvg+면/ecs
+
+참
+	참/mag
+
+좋겠구나
+	좋/paa+겠/ep+구나/ef
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+예준아~
+	예준아~/ncn
+
+우리
+	우리/npp
+
+걸어볼까~~^^
+	걷/pvg+어/ecx+보/px+ㄹ까/ef+~/sd+~/sd+^/sy+^/sy
+
+이그
+	이그/ncn
+
+예준이나더러
+	예준이나더/ncn+이/jp+러/ecs
+
+빨리
+	빨리/mag
+
+오라고
+	오/px+라/ef+고/jcr
+
+아우성이다
+	아우/ncn+성/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+,
+	,/sp
+
+
+관찰대가
+	관찰/ncpa+대/ncn+가/jcs
+
+놓여있다
+	놓이/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+어디
+	어디/mad
+
+한적한
+	한적/ncps+하/xsms+ㄴ/etm
+
+카페의
+	카페/ncn+의/jcm
+
+창으로
+	창/ncn+으로/jca
+
+들어오는
+	들/pvg+어/ecx+오/px+는/etm
+
+오후의
+	오후/ncn+의/jcm
+
+따사로운
+	따사/ncps+로운/ncn
+
+햇살처럼
+	햇살/ncn+처럼/jca
+
+네모난
+	네모나/pvg+ㄴ/etm
+
+구멍사이로
+	구멍사이/ncn+로/jca
+
+
+푸르른
+	푸르른/ncn
+
+햇살이
+	햇살/ncn+이/jcc
+
+넘쳐난다
+	넘치/pvg+어/ecx+나/px+ㄴ다/ef
+
+.
+	./sf
+
+
+저곳에서
+	저곳/npd+에서/jca
+
+여유롭게
+	여유/ncn+롭/xsmn+게/ecs
+
+차한잔하면
+	차한잔하/ncn+이/jp+면/ecs
+
+좋으려나
+	좋/paa+으려/ecx+나/px+아/ecx
+
+...
+	.../se
+
+
+하지만
+	하/pvg+지만/ecs
+
+!!
+	!/sf+!/sf
+
+
+여기에도
+	여기/npd+에/jca+도/jxc
+
+어김없이
+	어김없이/mag
+
+무한의
+	무한/ncps+의/jcm
+
+벌레들이
+	벌레/ncn+들/ncn+이/jcc
+
+존재한다는
+	존재/ncpa+하/xsva+ㄴ다/ef+는/etm
+
+사실,
+	사실/ncn+,/sp
+
+잠시
+	잠시/mag
+
+앉아보려다가
+	앉/pvg+아/ecx+보/px+려/ecs+다가/jxc
+
+포기했다
+	포기/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+스믈스믈
+	스믈스믈/ncn
+
+..
+	./sf+./sf
+
+
+벌레들이
+	벌레/ncn+들/ncn+이/jcc
+
+기어다녀서
+	기어다니/pvg+어서/ecs
+
+..
+	./sf+./sf
+
+
+예준아
+	예준/ncn+아/jcv
+
+도장
+	도장/ncn
+
+다찍었어
+	다찍었어/ncn
+
+?
+	?/sf
+
+
+(비를
+	(/sl+비/ncn+를/jco
+
+맞은
+	맞/pvg+은/etm
+
+스탬프들이
+	스탬프/ncn+들/ncn+이/jcc
+
+재역할
+	재역할/ncn
+
+하기가
+	하/pvg+기/etn+가/jcs
+
+힘든가보다
+	힘든가보/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+시원스럽게
+	시원/ncps+스럽/xsmn+게/ecs
+
+뻗은
+	뻗/pvg+은/etm
+
+나무들
+	나무/ncn+들/ncn
+
+..
+	./sf+./sf
+
+
+그
+	그/mmd
+
+아래에서
+	아래/ncn+에서/jca
+
+고개
+	고개/ncn
+
+젖히고
+	젖히/pvg+고/ecc
+
+위를
+	위/ncn+를/jco
+
+바라보면
+	바라/pvg+아/ecx+보/px+면/ecs
+
+"아~좋다"
+	"아~좋다/ncn+"/sl
+
+
+숲속을
+	숲속/ncn+을/jco
+
+걸어요~
+	걷/pvg+어/ef+요/jxf+~/sd
+
+산새들이
+	산새/ncn+들/ncn+이/jcc
+
+속삭이는
+	속삭이/pvg+는/etm
+
+길.
+	길/ncn+./sf
+
+..
+	./sf+./sf
+
+
+숲속을
+	숲속/ncn+을/jco
+
+걸어요~
+	걸/pvg+어요/ef+~/sd
+
+
+저절로
+	저절로/mag
+
+동요가
+	동요/ncn+가/jcs
+
+흥얼거려지는
+	흥얼거리/pvg+어/ecx+지/px+는/etm
+
+숲길이다
+	숲길/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+후두룩
+	후두/ncn+룩/ncn
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+나뭇잎들에
+	나뭇잎/ncn+들/ncn+에/jca
+
+생동하는
+	생동/ncpa+하/xsva+는/etm
+
+7월을
+	7/nnc+월/nbu+을/jco
+
+느낀다
+	느끼/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+나무아래엔
+	나무/ncn+아래/ncn+엔/jca
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+종류의
+	종류/ncn+의/jcm
+
+버섯들이
+	버섯/ncn+들/ncn+이/jcc
+
+자라고
+	자/nbn+이/jp+라/ef+고/jcr
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+나뭇잎
+	나뭇잎/ncn
+
+사이에서
+	사이/ncn+에서/jca
+
+버섯찾기
+	버섯찾기/ncn
+
+게임
+	게임/ncn
+
+!
+	!/sf
+
+
+그리고
+	그리고/maj
+
+송이버섯도
+	송이버섯/ncn+도/jxc
+
+재배해
+	재배/ncpa+하/xsva+어/ecx
+
+탐방객들이
+	탐방/ncpa+객/ncn+들/xsncc+이/jcc
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+해두었다
+	하/pvg+어/ecx+두/px+었/ep+다/ef
+
+.
+	./sf
+
+
+예준아
+	예준/ncn+아/jcv
+
+같이가~~
+	같/ncn+이가/jcc+~/sd+~/sd
+
+
+저
+	저/mmd
+
+도장
+	도장/ncn
+
+많이
+	많/paa+이/xsa
+
+찍었어요
+	찍/pvg+었/ep+어/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+보여줄까요
+	보이/pvg+어/ecx+주/px+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+^^
+	^/sy+^/sy
+
+
+더워서
+	덥/paa+어서/ecs
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+송글송글
+	송글송글/ncn
+
+땀을
+	땀/ncn+을/jco
+
+달고
+	달/paa+고/ecc
+
+다녔던
+	다니/pvg+었/ep+던/etm
+
+예준이
+	예준/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+그래도
+	그래도/maj
+
+신기한
+	신기/ncps+하/xsms+ㄴ/etm
+
+듯
+	듯/nbn
+
+이것저것
+	이것저것/npd
+
+물어올때는
+	묻/pvg+어/ecx+오/px+ㄹ/etm+때/nbn+는/jxc
+
+이
+	이/mmd
+
+아이도
+	아이/ncn+도/jxc
+
+자연의
+	자연/ncn+의/jcm
+
+일부구나
+	일/nnc+부/nbu+이/jp+구나/ef
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+숲속에서
+	숲속/ncn+에서/jca
+
+나뭇가지
+	나뭇가지/ncn
+
+사이로
+	사이/ncn+로/jca
+
+난
+	나/px+ㄴ/etm
+
+햇살을
+	햇살/ncn+을/jco
+
+받으며
+	받/pvg+으며/ecc
+
+..
+	./sf+./sf
+
+
+"아직
+	"/sl+아직/mag
+
+생태공원에서
+	생태/ncn+공원/ncn+에서/jca
+
+볼게
+	볼/ncn+게/jca
+
+많이
+	많/paa+이/xsa
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+기대용
+	기대/ncpa+용/ncn
+
+~~"
+	~/sd+~/sd+"/sl
+
+-
+	-/sd
+
+2부
+	2/nnc+부/nbu
+
+
+길동자연생태공원
+	길동자연생태공원/ncn
+
+홈페이지
+	홈페이지/ncn
+
+http://parks.
+	http/f+:/sp+//sp+//sp+parks/f+./sy
+
+seoul.
+	seoul/f+./sy
+
+go.
+	go/f+./sy
+
+kr/gildong
+	kr/f+//sp+gildong/f
+
+
+길동생태공원
+	길동생태공원/ncn
+
+가는길_____
+	가는길_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_____
+	_____/ncn
+
+_
+	_/ncn
+
+
+길동생태공원
+	길동생태공원/ncn
+
+앞
+	앞/ncn
+
+하차
+	하차/ncn
+
+300,
+	300/nnc+,/sp
+
+361,
+	361/nnc+,/sp
+
+370,
+	370/nnc+,/sp
+
+341
+	341/nnc
+
+9301[경기
+	9301[경기/ncn
+
+도시형버스]
+	도시형버스]/ncn
+
+30-2,
+	30/nnc+-2/nnc+,/sp
+
+30-3,
+	30/nnc+-3/nnc+,/sp
+
+112-5,
+	112/nnc+-5/nnc+,/sp
+
+112-1,
+	112/nnc+-1/nnc+,/sp
+
+112[경기
+	112[경기/ncn
+
+좌석버스]
+	좌석/ncn+버스/ncn+]/sr
+
+1113-1
+	1113/nnc+-1/nnc
+
+지하철
+	지하철/ncn
+
+지하철
+	지하철/ncn
+
+5호선
+	5호선/ncn
+
+강동역
+	강동역/ncn
+
+4번출구에서
+	4번출구/ncn+에서/jca
+
+위의
+	위/ncn+의/jcm
+
+연계버스
+	연계/ncpa+버스/ncn
+
+이용,
+	이용/ncpa+,/sp
+
+하남시
+	하남시/ncn
+
+방향으로
+	방향/ncn+으로/jca
+
+약
+	약/ncn
+
+10분
+	10/nnc+분/nbu
+
+소요
+	소요/ncpa
+
+지하철
+	지하철/ncn
+
+5호선
+	5호선/ncn
+
+천호역
+	천호/ncn+역/ncn
+
+6번
+	6/nnc+번/nbu
+
+출구에서
+	출구/ncn+에서/jca
+
+위의
+	위/ncn+의/jcm
+
+연계버스
+	연계/ncpa+버스/ncn
+
+이용,
+	이용/ncpa+,/sp
+
+하남시
+	하남시/ncn
+
+방향으로
+	방향/ncn+으로/jca
+
+약
+	약/ncn
+
+10분
+	10/nnc+분/nbu
+
+소요지하철
+	소요/ncpa+지하철/ncn
+
+2호선
+	2/nnc+호/nbu+선/jxc
+
+잠실역
+	잠실/ncn+역/ncn
+
+7번
+	7/nnc+번/nbu
+
+출구에서
+	출구/ncn+에서/jca
+
+연계버스30-3(경기
+	연계버스30-3(경기/ncn
+
+도시형)번
+	도시/ncn+형/ncn+)/sr+번/nbu
+
+이용,
+	이용/ncpa+,/sp
+
+약
+	약/ncn
+
+20분
+	20/nnc+분/nbu
+
+소요지하철
+	소요/ncpa+지하철/ncn
+
+2호선
+	2/nnc+호/nbu+선/jxc
+
+강변역
+	강변/ncn+역/ncn
+
+1번
+	1/nnc+번/nbu
+
+출구에서
+	출구/ncn+에서/jca
+
+연계버스
+	연계/ncpa+버스/ncn
+
+112,
+	112/nnc+,/sp
+
+112-1번
+	112/nnc+-1/nnc+번/nbu
+
+이용,
+	이용/ncpa+,/sp
+
+약
+	약/ncn
+
+20분
+	20/nnc+분/nbu
+
+소요
+	소요/ncpa
+
+승용차
+	승용차/ncn
+
+천호대로
+	천/nnc+호/nbu+대로/jca
+
+길동사거리에서
+	길동사거리/ncn+에서/jca
+
+하남시
+	하남시/ncn
+
+방향으로
+	방향/ncn+으로/jca
+
+1.5Km
+	1.5Km/ncn
+
+(10분)상일
+	(/sl+10/nnc+분/nbu+)/sr+상/ncn+이/jp+ㄹ/etm
+
+I
+	I/f
+
+C에서
+	C/f+에서/jca
+
+천호대로
+	천/nnc+호/nbu+대로/jca
+
+길동사거리
+	길동사거리/ncn
+
+방향으로
+	방향/ncn+으로/jca
+
+2Km
+	2Km/ncn
+
+(5분)
+	(/sl+5/nnc+분/nbu+)/sr

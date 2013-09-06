@@ -1,0 +1,530 @@
+전주한옥마을에
+	전주/ncn+한옥/ncn+마을/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+전주전통술박물관을
+	전주전통술박물관/ncn+을/jco
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+한지축제가
+	한지/ncn+축제/ncn+가/jcs
+
+열릴
+	열리/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+가봤던
+	가/pvg+아/ecx+보/px+아/ep+ㄴ/etm
+
+곳인데,
+	곳/ncn+이/jp+ㄴ데/ecs+,/sp
+
+이제서야
+	이제/mag+서야/jxc
+
+포스팅을
+	포스팅/ncn+을/jco
+
+...
+	.../se
+
+
+입구에
+	입구/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+푯말입니다
+	푯말/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+한옥으로
+	한옥/ncn+으로/jca
+
+멋지스럽게
+	멋지스럽/ncn+게/jca
+
+지어진
+	지/px+어/ecx+지/px+ㄴ/etm
+
+건물입니다
+	건물/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+입구
+	입구/ncn
+
+천장을
+	천/nnc+장/nbu+을/jco
+
+바라보니
+	바라/pvg+아/ecx+보/px+니/ecs
+
+조명등이
+	조명등/ncn+이/jcc
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+전주한지문화축제가
+	전주/ncn+한지/ncn+문화/ncn+축제/ncn+가/jcs
+
+열릴
+	열리/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+다녀와서
+	다니/pvg+어/ecx+오/px+아/ecx
+
+축제연등이
+	축제/ncn+연등/ncpa+이/jcc
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+입구쪽
+	입구/ncn+쪽/ncn
+
+벽에
+	벽/ncn+에/jca
+
+직접
+	직접/mag
+
+빚는
+	빚/pvg+는/etm
+
+나만의
+	나/npp+만의/jcm
+
+술
+	술/ncn
+
+체험벽지가
+	체험/ncpa+벽지/ncn+가/jcs
+
+붙어있네요
+	붙/pvg+어/ecx+있/px+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+요게
+	요/ncn+이/jp+게/ecs
+
+뭔지는
+	뭔지/ncn+는/jxc
+
+잘
+	잘/mag
+
+모르지만,
+	모르/pvg+지/ecx+말/px+ㄴ/etm+,/sp
+
+들어서면
+	들어서/pvg+면/ecs
+
+눈에
+	눈/ncn+에/jca
+
+확
+	확/ncn
+
+들어옵니다
+	들/pvg+어/ecx+오/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+들어서면
+	들어서/pvg+면/ecs
+
+내부에
+	내부/ncn+에/jca
+
+마당이
+	마당/ncn+이/jcc
+
+있고
+	있/px+고/ecc
+
+직접
+	직접/mag
+
+술
+	술/ncn
+
+빚는
+	빚/pvg+는/etm
+
+체험을
+	체험/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+탁자들이
+	탁자/ncn+들/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+..
+	./sf+./sf
+
+
+계영원
+	계영원/ncn
+
+안
+	알/pvg+ㄴ/etm
+
+쪽에
+	쪽/nbn+에/jca
+
+각종
+	각종/ncn
+
+술들과
+	술/ncn+들/xsncc+과/jcj
+
+술잔들이
+	술잔/ncn+들/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+계영원
+	계영원/ncn
+
+내부에는
+	내부/ncn+에/jca+는/jxc
+
+전국의
+	전국/ncn+의/jcm
+
+전통주가
+	전통주/ncn+가/jcs
+
+쭉
+	쭉/mag
+
+소개되어
+	소개/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+..
+	./sf+./sf
+
+
+별의별
+	별의별/mma
+
+술들이
+	술/ncn+들/xsncc+이/jcc
+
+다
+	다/mag
+
+있습니다
+	있/px+습니다/ef
+
+..
+	./sf+./sf
+
+
+술빚는
+	술빚/ncn+는/jxc
+
+도구들이
+	도구/ncn+들/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+..
+	./sf+./sf
+
+
+술
+	술/ncn
+
+빚는데
+	빚/pvg+는데/ecs
+
+쓰는
+	쓰/pvg+는/etm
+
+여러
+	여러/mma
+
+전통
+	전통/ncn
+
+도구들이
+	도구/ncn+들/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있구요
+	있구요/ncn
+
+..
+	./sf+./sf
+
+
+유리창으로
+	유리/ncn+창/ncn+으로/jca
+
+어느
+	어느/mmd
+
+여자분이
+	여자/ncn+분/ncn+이/jcc
+
+잡혔네요
+	잡히/pvg+었/ep+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+술
+	술/ncn
+
+빚는
+	빚/pvg+는/etm
+
+과정을
+	과정/ncn+을/jco
+
+상세히
+	상세히/mag
+
+설명해
+	설명/ncpa+하/xsva+어/ecx
+
+놨습니다
+	놨습니/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+술
+	술/ncn
+
+빚는
+	빚/pvg+는/etm
+
+순서대로
+	순서/ncn+대로/jca
+
+한지미니어처들이
+	한지미니어처들/ncn+이/jcc
+
+만들어져
+	만들/pvg+어/ecx+지/px+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+실감이
+	실감/ncn+이/jcc
+
+납니다
+	나/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+박물관
+	박물관/ncn
+
+내부
+	내부/ncn
+
+전경입니다
+	전경/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+한
+	하/pvg+ㄴ/etm
+
+쪽에
+	쪽/nbn+에/jca
+
+있는
+	있/px+는/etm
+
+익살스런
+	익살/ncn+스런/jcm
+
+표지판입니다
+	표지판/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+전주한옥마을에
+	전주/ncn+한옥/ncn+마을/ncn+에/jca
+
+가실
+	가/px+시/ep+ㄹ/etm
+
+일이
+	일/ncn+이/jcc
+
+있다면
+	있/px+다면/ecs
+
+작고
+	작/paa+고/ecc
+
+아담한
+	아담/ncps+하/xsms+ㄴ/etm
+
+박물관이지만,
+	박물관/ncn+이지만/jxc+,/sp
+
+
+잠시나마
+	잠시/mag+나마/jxc
+
+전통주에
+	전통주/ncn+에/jca
+
+관한
+	관하/pvg+ㄴ/etm
+
+향취를
+	향취/ncn+를/jco
+
+느끼실
+	느끼/pvg+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+시간을
+	시간/ncn+을/jco
+
+가지실
+	가/pvg+아/ecx+지/px+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있으실
+	있/px+으시/ep+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+위치
+	위치/ncn
+
+:
+	:/sp
+
+전주시
+	전주/ncn+시/ncn
+
+완산구
+	완산구/ncn
+
+풍남동
+	풍남동/ncn
+
+3가
+	3/nnc+가/jcs
+
+39-3번지
+	39-3번지/ncn
+
+
+전화
+	전화/ncpa
+
+:
+	:/sp
+
+063-287-6305
+	063/nnc+-287/nnc+-6305/nnc
+
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://urisul.
+	http/f+:/sp+//sp+//sp+urisul/f+./sy
+
+net/
+	net/f+//sp

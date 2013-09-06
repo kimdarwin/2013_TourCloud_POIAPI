@@ -1,0 +1,1467 @@
+춘천
+	춘천/ncn
+
+의암호,
+	의암호,/ncn
+
+강촌
+	강촌/ncn
+
+북한강엔
+	북한강엔/ncn
+
+어느새
+	어느새/mag
+
+자전거족들이
+	자전/ncn+거족/ncn+들/ncn+이/jcc
+
+봄맞이
+	봄맞이/ncn
+
+
+백양리역
+	백양리역/ncn
+
+인근
+	인근/ncn
+
+북한강변에
+	북한강변/ncn+에/jca
+
+주민들이
+	주민/ncn+들/ncn+이/jcc
+
+자전거도로
+	자전거/ncn+도/ncn+로/jca
+
+개통을
+	개통/ncpa+을/jco
+
+축하하는
+	축하/ncpa+하/xsva+는/etm
+
+플래카드가
+	플래카드/ncn+가/jcs
+
+걸려있다
+	걸리/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+두툼한
+	두툼/ncps+하/xsms+ㄴ/etm
+
+눈이불
+	눈이불/ncn
+
+덮고
+	덮/pvg+고/ecc
+
+있던
+	있/px+던/etm
+
+북한강이
+	북한강/ncn+이/jcc
+
+깨어나고
+	깨/pvg+어/ecx+나/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+단풍이
+	단풍/ncn+이/jcc
+
+거울같은
+	거울/ncn+같/xsmn+은/etm
+
+수면에
+	수면/ncn+에/jca
+
+잠긴
+	잠기/pvg+ㄴ/etm
+
+가을
+	가/px+ㄹ/etm
+
+북한강은
+	북한강/ncn+은/jxc
+
+누구나
+	누구/npp+나/jxc
+
+감탄한다
+	감탄/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+그렇지만
+	그렇/pad+지만/ecs
+
+겨울,
+	겨울/ncn+,/sp
+
+육중한
+	육중/ncps+하/xsms+ㄴ/etm
+
+얼음과
+	얼음/ncn+과/jcj
+
+눈이
+	눈/ncn+이/jcc
+
+펼쳐
+	펼치/pvg+어/ecx
+
+놓은
+	놓/px+은/etm
+
+풍경은
+	풍경/ncn+은/jxc
+
+진짜
+	진짜/ncn
+
+겨울을
+	겨울/ncn+을/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+사람들만
+	사람들/ncn+만/jxc
+
+받아가는
+	받/pvg+아/ecx+가/px+는/etm
+
+북한강의
+	북한강/ncn+의/jcm
+
+선물이다
+	선물/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+4계절
+	4계절/ncn
+
+아름다운
+	아름답/paa+은/etm
+
+북한강의
+	북한강/ncn+의/jcm
+
+겨울은
+	겨울/ncn+은/jxc
+
+어느새
+	어느새/mag
+
+뒷모습을
+	뒷모습/ncn+을/jco
+
+보이고
+	보이/pvg+고/ecc
+
+저만치
+	저만치/ncn
+
+걸어가고
+	걷/pvg+어/ecx+가/px+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+4년만에
+	4/nnc+년/nbu+만에/jca
+
+찾아온
+	찾/pvg+아/ecx+오/px+ㄴ/etm
+
+2월
+	2/nnc+월/nbu
+
+29일,
+	29/nnc+일/nbu+,/sp
+
+겨울
+	겨울/ncn
+
+지나간
+	지나/pvg+아/ecx+가/px+ㄴ/etm
+
+자리,
+	자리/ncn+,/sp
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+봄이
+	보/px+ㅁ/etn+이/jcs
+
+문턱까지
+	문턱/ncn+까지/jxc
+
+찾아와
+	찾/pvg+아/ecx+오/px+아/ecx
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+봄
+	보/px+ㅁ/etn
+
+소식은
+	소식/ncn+은/jxc
+
+자전거길에서
+	자전거/ncn+길/ncn+에서/jca
+
+먼저
+	먼저/mag
+
+만났다
+	만나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+춘천시
+	춘천시/ncn
+
+서면
+	서/pvg+면/ecs
+
+의암호
+	의암호/ncn
+
+변엔
+	변/ncn+엔/jca
+
+지난
+	지나/pvg+ㄴ/etm
+
+가을
+	가/px+ㄹ/etm
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+문학공원
+	문학/ncpa+공원/ncn
+
+.
+	./sf
+
+
+미로처럼
+	미로/ncn+처럼/jca
+
+그려진
+	그리/pvg+어/ecx+지/px+ㄴ/etm
+
+문학공원
+	문학/ncpa+공원/ncn
+
+자전거도로엔
+	자전거/ncn+도로/ncn+엔/jca
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+뉘엿뉘엿
+	뉘엿뉘엿/ncn
+
+지는
+	지/px+는/etm
+
+저녁무렵인데도,
+	저녁무렵/ncn+이/jp+ㄴ데/ecs+도/jxc+,/sp
+
+완전무장한
+	완전/ncps+무장/ncn+한/ncn
+
+전문
+	전문/ncn
+
+자전거
+	자전거/ncn
+
+동호인이
+	동호인/ncn+이/jcc
+
+쏜살같이
+	쏜살같이/mag
+
+달렸다
+	달리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이따금
+	이따금/mag
+
+마을
+	마을/ncn
+
+주민이
+	주민/ncn+이/jcc
+
+어정쩡한
+	어정쩡/ncps+하/xsms+ㄴ/etm
+
+자세로
+	자세/ncn+로/jca
+
+구식자전거를
+	구식/ncn+자전거/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+지났고,
+	지나/pvg+아/ep+고/ecc+,/sp
+
+농기구를
+	농기구/ncn+를/jco
+
+싣고
+	싣/pvg+고/ecc
+
+밭일을
+	밭일/ncpa+을/jco
+
+마치고
+	마치/pvg+고/ecc
+
+돌아가는
+	돌/pvg+아/ecx+가/px+는/etm
+
+농부의
+	농부/ncn+의/jcm
+
+자전거도
+	자전거/ncn+도/jxc
+
+이채로웠다
+	이채/ncps+롭/xsmn+었/ep+다/ef
+
+.
+	./sf
+
+
+강촌지구에서
+	강촌/ncn+지구/ncn+에서/jca
+
+20대
+	20/nnc+대/nbu
+
+여성들이
+	여성/ncn+들/ncn+이/jcc
+
+자전거를
+	자전거/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+빨리
+	빨리/mag
+
+와
+	오/pvg+아/ecx
+
+힘들다고
+	힘들/pvg+다/ef+고/jcr
+
+하지
+	하/pvg+지/ecx
+
+말고
+	말/px+고/ecc
+
+초등
+	초등/ncn
+
+6학년쯤
+	6/nnc+학년/nbu+쯤/xsnx
+
+된
+	되/pvg+ㄴ/etm
+
+오빠가,
+	오빠/ncn+가/jcs+,/sp
+
+저학년
+	저학년/ncn
+
+여동생에게
+	여동생/ncn+에게/jca
+
+자전거를
+	자전거/ncn+를/jco
+
+재촉하는
+	재촉/ncpa+하/xsva+는/etm
+
+소리가
+	소리/ncn+가/jcs
+
+들려왔다
+	들리/pvg+어/ecx+오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+오후
+	오후/ncn
+
+놀이를
+	놀이/ncn+를/jco
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+오누이다
+	오누이/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+열심히
+	열심히/mag
+
+오빠를
+	오빠/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+페달을
+	페달/ncn+을/jco
+
+밟는
+	밟/pvg+는/etm
+
+여동생의
+	여동생/ncn+의/jcm
+
+표정,
+	표정/ncn+,/sp
+
+오누이의
+	오누이/ncn+의/jcm
+
+자전거
+	자전거/ncn
+
+나들이는
+	나/pvg+아/ecx+들이/px+는/etm
+
+한
+	한/nnc
+
+폭의
+	폭/nbu+의/jcm
+
+풍경화였다
+	풍경/ncn+화/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+공원
+	공원/ncn
+
+앞
+	앞/ncn
+
+호숫가
+	호숫가/ncn
+
+얼음도
+	얼음/ncn+도/jxc
+
+푸석푸석해지며
+	푸석푸석해지/ncn+이/jp+며/ecc
+
+봄볕에
+	봄볕/ncn+에/jca
+
+냉기를
+	냉기/ncn+를/jco
+
+잃어가고
+	잃/pvg+어/ecx+가/px+고/ecc
+
+있었다.
+	있/px+었/ep+다/ef+./sf
+
+4대강
+	4대강/ncn
+
+사업
+	사업/ncn
+
+전
+	전/nbn
+
+구간에
+	구간/ncn+에/jca
+
+유일한
+	유일한/mag
+
+문학공원의
+	문학/ncpa+공원/ncn+의/jcm
+
+봄은
+	보/px+ㅁ/etn+은/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+시처럼,
+	시/nbu+처럼/jca+,/sp
+
+강
+	강/ncn
+
+풍경을
+	풍경/ncn+을/jco
+
+그려내고
+	그리/pvg+어/ecx+내/px+어/ef+고/jcr
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+문학공원은
+	문학/ncpa+공원/ncn+은/jxc
+
+의암호반
+	의암호반/ncn
+
+애니메이션
+	애니메이션/ncn
+
+박물관
+	박물관/ncn
+
+근처에
+	근처/ncn+에/jca
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+춘천시
+	춘천시/ncn
+
+서면
+	서/pvg+면/ecs
+
+문학공원내
+	문학/ncpa+공원/ncn+내/ncn
+
+자전거도로에서
+	자전거/ncn+도로/ncn+에서/jca
+
+한
+	하/pvg+ㄴ/etm
+
+주민이
+	주민/ncn+이/jcc
+
+자전거를
+	자전거/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+쓰는자의
+	쓰/pvg+는/etm+자/nbn+의/jcm
+
+고통이
+	고통/ncn+이/jcc
+
+읽는자의
+	읽/pvg+는/etm+자/nbn+의/jcm
+
+행복이
+	행복/ncps+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+때까지
+	때/ncn+까지/jxc
+
+중앙
+	중앙/ncn
+
+3m남짓한
+	3m남짓한/ncn
+
+시비에
+	시비/ncn+에/jca
+
+새겨진
+	새기/pvg+어/ecx+지/px+ㄴ/etm
+
+작가
+	작/nbn+가/jcc
+
+이외수의
+	이외/ncn+수/ncn+의/jcm
+
+글이
+	글/ncn+이/jcc
+
+가슴을
+	가슴/ncn+을/jco
+
+때린다
+	때리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+인상적인
+	인상/ncn+적/ncn+이/jp+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+노벨상의
+	노벨상/ncn+의/jcm
+
+빈자리
+	비/paa+ㄴ/etm+자/nbn+이/jp+리/ef
+
+.
+	./sf
+
+
+우리나라서
+	우리나라/ncn+서/jca
+
+노벨
+	노벨/ncn
+
+문학상
+	문학상/ncn
+
+수상자가
+	수상자/ncn+가/jcs
+
+나오면
+	나/pvg+아/ecx+오/px+면/ecs
+
+세울
+	세우/pvg+ㄹ/etm
+
+동상의
+	동상/ncn+의/jcm
+
+자리를
+	자리/ncn+를/jco
+
+미리
+	미리/mag
+
+만들어
+	만들/pvg+어/ecx
+
+뒀다
+	두/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+오솔길같은
+	오솔길/ncn+같/xsmn+은/etm
+
+산책로
+	산책로/ncn
+
+자전거길가엔
+	자전거/ncn+길가/ncn+엔/jca
+
+여기
+	여기/mad
+
+저기
+	저기/mad
+
+시를
+	시/nbu+를/jco
+
+적은
+	적/nbn+은/jxc
+
+패가
+	패/pvg+어/ecx+가/px+아/ecx
+
+걸려있다
+	걸리/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+문학공원에서
+	문학/ncpa+공원/ncn+에서/jca
+
+애니메이션
+	애니메이션/ncn
+
+박물관
+	박물관/ncn
+
+옆
+	옆/ncn
+
+호반을
+	호반/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+하류로
+	하류/ncn+로/jca
+
+내려가는
+	내리/pvg+어/ecx+가/px+는/etm
+
+자전거도로는
+	자전거/ncn+도/ncn+로/jca+는/jxc
+
+의암댐을
+	의암댐/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+지나
+	지나/pvg+아/ecx
+
+강촌까지
+	강촌/ncn+까지/jxc
+
+거의
+	거의/mag
+
+강변으로만
+	강변/ncn+으로/jca+만/jxc
+
+이어진다
+	잇/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+주부터
+	주/nbu+부터/jxc
+
+휴일에
+	휴일/ncn+에/jca
+
+자전거족이
+	자전거/ncn+족/ncn+이/jcc
+
+몰리고
+	몰리/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+3,4월이
+	3/nnc+,/sp+4/nnc+월/nbu+이/jcc
+
+되면
+	되/pvg+면/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+만할
+	만/nnc+할/nbu
+
+것이다
+	것/nbn+이/jp+다/ef
+
+문학공원
+	문학/ncpa+공원/ncn
+
+아이디어를
+	아이디어/ncn+를/jco
+
+낸
+	내/pvg+ㄴ/etm
+
+원주지방국토관리청
+	원주/ncn+지방국토관리청/ncn
+
+전하억
+	전하억/ncn
+
+홍보팀장(시인)의
+	홍보팀장(시인)/ncn+의/jcm
+
+귀띔이다
+	귀띔/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+춘천을
+	춘천/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+한
+	하/pvg+ㄴ/etm
+
+자전거
+	자전거/ncn
+
+코스는
+	코스/ncn+는/jxc
+
+크게
+	크/paa+게/ecs
+
+두가지가
+	두/nnc+가지/nbu+가/jcc
+
+유명하다
+	유명/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+의암호를
+	의암호/ncn+를/jco
+
+도는
+	돌/pvg+는/etm
+
+코스가
+	코스/ncn+가/jcs
+
+하나이고,
+	하나/nnc+이/jp+고/ecc+,/sp
+
+강촌교
+	강촌/ncn+교/ncn
+
+등선폭포
+	등선/ncn+폭포/ncn
+
+입구에서
+	입구/ncn+에서/jca
+
+당림교를
+	당림교/ncn+를/jco
+
+지나
+	지나/pvg+아/ecx
+
+북한강
+	북한강/ncn
+
+우안으로
+	우/ncn+안/xsnx+으로/jca
+
+내려오다
+	내리/pvg+어/ecx+오/px+다/ef
+
+춘성대교를
+	춘성대교/ncn+를/jco
+
+건너
+	건너/pvg+어/ecx
+
+경강교까지
+	경강교까지/ncn
+
+좌안을
+	좌/ncn+안/xsnx+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+하류로
+	하류/ncn+로/jca
+
+내려가서
+	내리/pvg+어/ecx+가/px+아/ecx
+
+다시
+	다시/mag
+
+백양역으로
+	백양역/ncn+으로/jca
+
+좌안을
+	좌/ncn+안/xsnx+을/jco
+
+거슬로오는
+	거슬로오/ncn+는/jxc
+
+강촌순환
+	강촌/ncn+순환/ncpa
+
+코스가
+	코스/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+강을
+	강/ncn+을/jco
+
+막은
+	막/mag+은/jxc
+
+의암호는
+	의암호/ncn+는/jxc
+
+잔잔한
+	잔잔/ncn+한/ncn
+
+호수
+	호수/ncn
+
+분위기이지만,
+	분위기/ncn+이/jp+지만/ecs+,/sp
+
+강촌은
+	강촌/ncn+은/jxc
+
+살아
+	살/pvg+아/ecx
+
+꿈틀거리는
+	꿈틀거리/pvg+는/etm
+
+강을
+	강/ncn+을/jco
+
+바라볼
+	바라/pvg+아/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+강촌지구에서
+	강촌/ncn+지구/ncn+에서/jca
+
+20대
+	20/nnc+대/nbu
+
+여성들이
+	여성/ncn+들/ncn+이/jcc
+
+자전거를
+	자전거/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+강촌
+	강촌/ncn
+
+순환코스
+	순환/ncpa+코스/ncn
+
+백양리역
+	백양리역/ncn
+
+근처엔
+	근처/ncn+엔/jca
+
+펜션
+	펜션/ncn
+
+등이
+	등/nbu+이/jcc
+
+들어선
+	들어서/pvg+ㄴ/etm
+
+젊음의
+	젊음/ncn+의/jcm
+
+거리다
+	거리/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+넘어가
+	넘/pvg+어/ecx+가/px+아/ecx
+
+어둠이
+	어둠/ncn+이/jcc
+
+내리는
+	내리/pvg+는/etm
+
+이날
+	이/nnc+날/nbu
+
+백양리역이
+	백양리역/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+강변
+	강변/ncn
+
+자전거도로엔
+	자전거/ncn+도로/ncn+엔/jca
+
+펜션으로
+	펜션/ncn+으로/jca
+
+여행
+	여행/ncpa
+
+온
+	오/px+ㄴ/etm
+
+여행객들이
+	여행객/ncn+들/ncn+이/jcc
+
+자전거를
+	자전거/ncn+를/jco
+
+빌려
+	빌리/pvg+어/ecx
+
+초봄
+	초봄/ncn
+
+강
+	강/ncn
+
+풍경을
+	풍경/ncn+을/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+많았다
+	많/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+4대강
+	4대강/ncn
+
+사업에
+	사업/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+일부에서
+	일/nnc+부/nbu+에서/jca
+
+다른
+	다르/paa+ㄴ/etm
+
+시각도
+	시각/ncn+도/jxc
+
+있지만,
+	있/px+지/ecx+말/px+ㄴ/etm+,/sp
+
+4대강
+	4대강/ncn
+
+사업의
+	사업/ncn+의/jcm
+
+미래
+	미래/ncn
+
+모습인
+	모습/ncn+이/jp+ㄴ/etm
+
+북한강엔
+	북한강엔/ncn
+
+이렇게
+	이렇/pad+게/ecs
+
+평화로운
+	평화/ncn+로운/ncn
+
+봄이
+	보/px+ㅁ/etn+이/jcs
+
+피어나고
+	피/pvg+어/ecx+나/px+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+낙동강이
+	낙동강/ncn+이/jcc
+
+물살에
+	물살/ncn+에/jca
+
+패
+	패/pvg+어/ecx
+
+나갔다고
+	나/pvg+아/ecx+가/px+아/ep+다/ef+고/jcr
+
+누군가
+	누군가/npp
+
+목소리
+	목소리/ncn
+
+높이지만
+	높이/pvg+지/ecx+말/px+ㄴ/etm
+
+많은
+	많/paa+은/etm
+
+이들은
+	이/ncn+들/xsncc+은/jxc
+
+4월
+	4/nnc+월/nbu
+
+선거만
+	선거/ncpa+만/jxc
+
+끝나면
+	끝나/pvg+면/ecs
+
+메워질
+	메우/pvg+어/ecx+지/px+ㄹ/etm
+
+것으로
+	것/nbn+으로/jca
+
+보는
+	보/px+는/etm
+
+이들이
+	이/ncn+들/xsncc+이/jcc
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+강물
+	강물/ncn
+
+속의
+	속/ncn+의/jcm
+
+정치
+	정치/ncpa
+
+물살이
+	물살/ncn+이/jcc
+
+아무리
+	아무리/mag
+
+세도
+	세/nnc+도/jxc
+
+강변에
+	강변/ncn+에/jca
+
+오는
+	오/px+는/etm
+
+봄은
+	보/px+ㅁ/etn+은/jxc
+
+피할
+	피하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+주말엔
+	주말/ncn+엔/jca
+
+봄을
+	보/px+ㅁ/etn+을/jco
+
+맞으러
+	맞/pvg+으러/ecs
+
+강변에
+	강변/ncn+에/jca
+
+가
+	가/jcs
+
+보자
+	보/px+자/ecc
+
+.
+	./sf
+
+
+출처
+	출처/ncn
+
+:
+	:/sp
+
+뉴타임즈코리아
+	뉴타임즈코리/ncn+아/jcv
+
+
+바로가기
+	바로가/ncn+이/jp+기/etn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+newtimes.
+	newtimes/f+./sy
+
+co.
+	co/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+4대강살리기추진본부
+	4대강살리기추진본부/ncn
+
+(본부장
+	(/sl+본부장/ncn
+
+심명필
+	심명필/ncn
+
+http://twitter.
+	http/f+:/sp+//sp+//sp+twitter/f+./sy
+
+com/mpshim)
+	com/f+//sp+mpshim/f+)/sr
+
+
+4대강살리기
+	4대강살리/ncn+이/jp+기/etn
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+4rivers.
+	4rivers./ncn
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+mltm.
+	mltm/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+아
+	아/ii
+
+!
+	!/sf
+
+
+대한민국
+	대한/ncn+민국/ncn
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/pLuHHW
+	mp/f+//sp+pLuHHW/f
+
+
+자/전/거/
+	자/전/거//ncn
+
+새/물/결
+	새/mma+//sp+물/ncn+//sp+결/nbu
+
+남한강
+	남한강/ncn
+
+자전거길
+	자전거/ncn+길/ncn
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/qsMwHD
+	mp/f+//sp+qsMwHD/f
+
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/nKKoOu
+	mp/f+//sp+nKKoOu/f
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/qBL99F
+	mp/qBL99F/ncn
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/q82lrW
+	mp/q82lrW/ncn

@@ -1,0 +1,6765 @@
+대관령
+	대관/ncn+령/ncn
+
+사슴목장
+	사슴/ncn+목장/ncn
+
+체험여행
+	체험/ncpa+여행/ncpa
+
+/대관령
+	//sp+대관/ncn+령/ncn
+
+목장여행
+	목장/ncn+여행/ncpa
+
+/대관령
+	//sp+대관/ncn+령/ncn
+
+대성산
+	대성/ncn+산/ncn
+
+사슴목장
+	사슴/ncn+목장/ncn
+
+
+일요일
+	일요일/ncn
+
+뭐하세요
+	뭐하/paa+세/ef+요/jxf
+
+?
+	?/sf
+
+
+별일없는데요~
+	별일/ncn+없/xsmn+는데/ef+요/jxf+~/sd
+
+그럼
+	그렇/pad+ㅁ/etn
+
+대관령가실래요
+	대관령가실래요/ncn
+
+..
+	./sf+./sf
+
+
+하는
+	하/pvg+는/etm
+
+지인의
+	지인/ncn+의/jcm
+
+제안에
+	제안/ncpa+에/jca
+
+참석하게
+	참석/ncpa+하/xsva+게/ecs
+
+된
+	되/pvg+ㄴ/etm
+
+대관령
+	대관/ncn+령/ncn
+
+사슴목장으로의
+	사슴/ncn+목장/ncn+으로/jca+의/jcm
+
+당일여행이었습니다
+	당일/ncn+여행/ncpa+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+대관령이란
+	대관/ncn+령/ncn+이란/jxc
+
+단어만으로
+	단어/ncn+만/ncn+으로/jca
+
+멋진
+	멋지/paa+ㄴ/etm
+
+풍경이
+	풍경/ncn+이/jcc
+
+연상이
+	연상/ncn+이/jcc
+
+되어서
+	되/pvg+어서/ecs
+
+목적지가
+	목적지/ncn+가/jcs
+
+정확하게
+	정확/ncps+하/xsms+게/ecs
+
+어딘지도
+	어딘지/ncn+도/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+갔었는데요
+	가/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+대관령면
+	대관/ncn+령/ncn+면/xsncc
+
+차항리
+	차항리/ncn
+
+대성산
+	대성/ncn+산/ncn
+
+자락의
+	자락/ncn+의/jcm
+
+사슴목장이었습니다
+	사슴/ncn+목장/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+쥬라기공원을
+	쥬라기공원/ncn+을/jco
+
+연상케하던
+	연상케하/ncn+이/jp+던/etm
+
+
+대관령
+	대관/ncn+령/ncn
+
+대성산
+	대성/ncn+산/ncn
+
+사슴목장
+	사슴/ncn+목장/ncn
+
+
+해발
+	해발/ncn
+
+700m
+	700m/ncn
+
+~
+	~/sd
+
+1500m의
+	1500m/ncn+의/jcm
+
+자연방목으로
+	자연/ncn+방목/ncpa+으로/jca
+
+가파른
+	가파르/paa+ㄴ/etm
+
+대관령
+	대관/ncn+령/ncn
+
+기슭의
+	기슭/ncn+의/jcm
+
+지형을
+	지형/ncn+을/jco
+
+오르내리던
+	오르내리/pvg+던/etm
+
+커다란
+	커다랗/paa+은/etm
+
+사슴들
+	사슴/ncn+들/ncn
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+찾았던
+	찾/pvg+아/ep+ㄴ/etm
+
+날은
+	날/ncn+은/jxc
+
+서울날씨와는
+	서울날씨/ncn+와/jct+는/jxc
+
+판이한
+	판이/ncps+하/xsms+ㄴ/etm
+
+비가
+	비/ncn+가/jcs
+
+내리던
+	내리/pvg+던/etm
+
+날이었습니다
+	날/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+태풍의
+	태풍/ncn+의/jcm
+
+영향으로
+	영향/ncn+으로/jca
+
+오전에
+	오전/ncn+에/jca
+
+비가
+	비/ncn+가/jcs
+
+좀
+	좀/mag
+
+있을
+	있/px+을/etm
+
+거라고는
+	것/nbn+이/jp+라/ef+고/jcr+는/jxc
+
+했지만
+	하/px+었/ep+지만/ecs
+
+아침에
+	아침/ncn+에/jca
+
+나오면서
+	나/pvg+아/ecx+오/px+면서/ecc
+
+파란하늘에
+	파란/ncn+하늘/ncn+에/jca
+
+뭉개구름을
+	뭉개구름/ncn+을/jco
+
+보고
+	보/px+고/ecc
+
+이쁘다~하고
+	이쁘다~하/ncn+이/jp+고/ecc
+
+나왔었는데
+	나/pvg+아/ecx+오/px+아/ep+ㄴ데/ecs
+
+대관령
+	대관/ncn+령/ncn
+
+목장과
+	목장/ncn+과/jct
+
+가까워지니
+	가깝/paa+어/ecx+지/px+니/ecs
+
+조금씩
+	조금씩/ncn
+
+흩뿌리던
+	흩뿌리/pvg+던/etm
+
+비는
+	비/paa+는/etm
+
+우리가
+	우리/npp+가/jcs
+
+있는
+	있/px+는/etm
+
+오후까지
+	오후/ncn+까지/jxc
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+바람과
+	바람/ncn+과/jct
+
+함께
+	함께/mag
+
+몰아쳤었어요
+	몰아치/pvg+었었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+"우리땅
+	"/sl+우리땅/ncn
+
+정말
+	정말/mag
+
+넓다~"하면서
+	넓/paa+다/ef+~/sd+"/sl+하/pvg+면서/ecc
+
+사슴목장을
+	사슴/ncn+목장/ncn+을/jco
+
+돌아
+	돌/pvg+아/ecx
+
+보았는데요
+	보/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+좋은
+	좋/paa+은/etm
+
+경관을
+	경관/ncn+을/jco
+
+빗속에서
+	빗속/ncn+에서/jca
+
+보려니
+	보/px+려니/ecs
+
+제대로
+	제대로/mag
+
+보이지
+	보이/pvg+지/ecx
+
+않았습니다
+	않/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+날씨만
+	날씨/ncn+만/jxc
+
+좋았다면
+	좋/paa+아/ep+다면/ecs
+
+사슴이랑의
+	사슴/ncn+이랑/jca+의/jcm
+
+만남도
+	만나/pvg+ㅁ/etn+도/jxc
+
+즐거웠을텐데
+	즐겁/paa+었/ep+을텐데/ecs
+
+말입니다
+	말/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+사슴목장은
+	사슴/ncn+목장/ncn+은/jxc
+
+첨이라
+	첨/ncn+이/jp+라/ecs
+
+신기했는데요
+	신기/ncps+하/xsms+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+대관령에
+	대관/ncn+령/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+사슴들은
+	사슴/ncn+들/ncn+은/jxc
+
+모두
+	모두/mag
+
+숫사슴입니다
+	숫사슴입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+녹용을
+	녹용/ncn+을/jco
+
+잘라내고
+	자르/pvg+아/ecx+내/px+고/ecc
+
+지금은
+	지금/ncn+은/jxc
+
+발정기라서
+	발정기/ncn+이/jp+라서/ecs
+
+조금
+	조금/mag
+
+난폭해있고
+	난폭/ncps+하/xsms+어/ecx+있/px+고/ecc
+
+신경이
+	신경/ncn+이/jcc
+
+곤두서
+	곤두서/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+때라고
+	때/nbn+이/jp+라/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+사람이
+	사람/ncn+이/jcc
+
+와도
+	오/px+아/ecs
+
+겁을
+	겁/ncn+을/jco
+
+내지
+	내/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+덤벼들
+	덤벼들/pvg+ㄹ/etm
+
+기세여서
+	기세/ncn+이/jp+어서/ecs
+
+조슴스럽게
+	조슴스럽게/ncn
+
+목장을
+	목장/ncn+을/jco
+
+돌아
+	돌/pvg+아/ecx
+
+보았답니다
+	보/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+22만
+	22/nnc+만/jxc
+
+5천평의
+	5/nnc+천/nnc+평/nbu+의/jcm
+
+너른
+	너르/paa+ㄴ/etm
+
+산지에
+	사/pvg+ㄴ/etm+지/nbn+에/jca
+
+풀어놓은
+	풀/pvg+어/ecx+놓/px+은/etm
+
+사슴만도
+	사슴/ncn+만/jxc+도/jxc
+
+1천여마리
+	1/nnc+천여/nnc+마리/nbu
+
+이상이라고
+	이상/ncn+이/jp+라/ef+고/jcr
+
+들었던거
+	들었던거/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+자연방목이라
+	자연/ncn+방목/ncpa+이/jp+라/ecs
+
+산에
+	산/ncn+에/jca
+
+자라는
+	자라/pvg+는/etm
+
+각종
+	각종/ncn
+
+약초를
+	약초/ncn+를/jco
+
+먹어
+	먹/pvg+어/ecx
+
+더욱
+	더욱/mag
+
+튼실해
+	튼실해/ncn
+
+보였는데요
+	보이/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+생각보다
+	생각/ncpa+보다/jca
+
+엄청
+	엄청/mag
+
+크고
+	크/paa+어/ef+고/jcr
+
+소리는
+	소리/ncn+는/jxc
+
+또
+	또/maj
+
+괴상한
+	괴상/ncps+하/xsms+ㄴ/etm
+
+울부짖음
+	울부짖/pvg+음/etn
+
+..
+	./sf+./sf
+
+
+마치
+	마치/mag
+
+쥬라기공원에
+	쥬라기공원/ncn+에/jca
+
+들어온
+	들/pvg+어/ecx+오/px+ㄴ/etm
+
+듯해서
+	듯하/paa+어서/ecs
+
+긴장감도
+	긴장감/ncn+도/jxc
+
+생기고
+	생기/pvg+고/ecc
+
+호기심도
+	호/nbu+이/jp+기/etn+이/jp+시/ep+ㅁ/etn+도/jxc
+
+생기는
+	생기/pvg+는/etm
+
+체험이었답니다
+	체험/ncpa+이/jp+었/ep+답니다/ef
+
+.
+	./sf
+
+
+녹용을
+	녹용/ncn+을/jco
+
+먹어본
+	먹/pvg+어/ecx+보/px+ㄴ/etm
+
+적도
+	적/nbn+도/jxc
+
+없고
+	없/paa+고/ecc
+
+사슴하면
+	사슴하/ncn+이/jp+면/ecs
+
+꽃사슴밖에
+	꽃사슴밖/ncn+에/jca
+
+모르는
+	모르/pvg+는/etm
+
+저에겐
+	저/npp+에겐/jca
+
+자연속
+	자연/ncn+속/ncn
+
+엘크사슴이
+	엘크사슴/ncn+이/jcc
+
+신기할
+	신기/ncps+하/xsms+ㄹ/etm
+
+뿐이었습니다
+	뿐/nbn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+몸에
+	몸/ncn+에/jca
+
+좋은
+	좋/paa+은/etm
+
+것이라면
+	것/nbn+이/jp+라면/ecs
+
+전국방방곡곡
+	전국/ncn+방방곡곡/ncn
+
+찾아
+	찾/pvg+아/ecx
+
+다니시는
+	다니/pvg+시/ep+는/etm
+
+분들
+	불/pvg+ㄴ/etm+들/nbn
+
+대관령
+	대관/ncn+령/ncn
+
+사슴목장에
+	사슴/ncn+목장/ncn+에/jca
+
+들리시면
+	들리/pvg+시/ep+면/ecs
+
+혹하실
+	혹하/pvg+시/ep+ㄹ/etm
+
+거
+	것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+비와
+	비/ncn+와/jcj
+
+바람이
+	바람/ncn+이/jcc
+
+몰아치던
+	몰아치/pvg+던/etm
+
+대관령
+	대관/ncn+령/ncn
+
+사슴목장의
+	사슴/ncn+목장/ncn+의/jcm
+
+모습
+	모습/ncn
+
+보여드립니다
+	보이/pvg+어/ecx+드리/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-마음이
+	여행/ncpa+이야기/ncpa+-/sd+마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+(여행일:
+	(/sl+여행/ncpa+이/jp+ㄹ/etm+:/sp
+
+2011.
+	2011./nnc
+
+09.
+	09./nnc
+
+04)
+	04/nnc+)/sr
+
+
+목장입구에서
+	목장/ncn+입구/ncn+에서/jca
+
+내려
+	내리/pvg+어/ecx
+
+한참이나
+	한참/ncn+이나/jcj
+
+올라와야
+	오르/pvg+아/ecx+오/px+아/ecx
+
+사슴을
+	사슴/ncn+을/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+자연상태로
+	자연/ncn+상태/ncn+로/jca
+
+방목을
+	방목/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있어서인지
+	있어서인지/ncn
+
+사람이
+	사람/ncn+이/jcc
+
+다니는
+	다니/pvg+는/etm
+
+길
+	길/ncn
+
+주변으로
+	주변/ncn+으로/jca
+
+철망이
+	철망/ncn+이/jcc
+
+있고
+	있/px+고/ecc
+
+그
+	그/mmd
+
+외
+	외/nbn
+
+산야는
+	산야/ncn+는/jxc
+
+모두
+	모두/mag
+
+사슴들이
+	사슴/ncn+들/ncn+이/jcc
+
+누비는
+	누비/pvg+는/etm
+
+공간입니다
+	공간/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+입구에서부터
+	입구/ncn+에서/jca+부터/jxc
+
+괴이한
+	괴이/ncps+하/xsms+ㄴ/etm
+
+소리가
+	소리/ncn+가/jcs
+
+들여서
+	들이/px+어서/ecs
+
+이게
+	이/npd+이/jp+게/ecs
+
+사슴
+	사슴/ncn
+
+우는
+	울/pvg+는/etm
+
+소리야
+	소리/ncn+이/jp+야/ef
+
+?
+	?/sf
+
+
+하고
+	하/pvg+고/ecc
+
+놀랐었는데요
+	놀라/pvg+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이건
+	이/npd+이/jp+건/ecc
+
+어떻게
+	어떻/pad+게/ecs
+
+흉내도
+	흉내/ncn+도/jxc
+
+못낼
+	못낼/ncn
+
+이상한
+	이상/ncn+한/ncn
+
+괴성을
+	괴성/ncn+을/jco
+
+지르고
+	지르/pvg+고/ecc
+
+있더군요
+	있/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+발정기때라
+	발정기/ncn+때/ncn+이/jp+라/ecs
+
+더
+	더/mag
+
+자신을
+	자신/ncn+을/jco
+
+과시하려는
+	과시/ncpa+하/xsva+려는/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+표시인가보다
+	표시/ncn+인가/jxc+보다/jxc
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이곳
+	이곳/npd
+
+대성산사슴목장은
+	대성산사슴목장/ncn+은/jxc
+
+해발
+	해발/ncn
+
+700m에서
+	700m/ncn+에서/jca
+
+1500m의
+	1500m/ncn+의/jcm
+
+청정고원에
+	청정/ncpa+고원/ncn+에/jca
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+해발
+	해발/ncn
+
+1,458m의
+	1,458m/ncn+의/jcm
+
+발왕산
+	발왕산/ncn
+
+기슭에
+	기슭/ncn+에/jca
+
+위치하여
+	위치/ncpa+하/xsva+어/ecx
+
+겨울에는
+	겨울/ncn+에/jca+는/jxc
+
+눈이
+	눈/ncn+이/jcc
+
+많은
+	많/paa+은/etm
+
+지역일뿐
+	지역/ncn+이/jp+ㄹ/etm+뿐/nbn
+
+아니라
+	아니/paa+라/ecs
+
+사람이
+	사람/ncn+이/jcc
+
+가장
+	가장/mag
+
+살기
+	살/pvg+기/etn
+
+좋다는
+	좋/paa+다/ef+는/etm
+
+해발700m의
+	해발700m/ncn+의/jcm
+
+고지대를
+	고지대/ncn+를/jco
+
+형성하여
+	형성/ncpa+하/xsva+어/ecx
+
+쾌적한
+	쾌적/ncps+하/xsms+ㄴ/etm
+
+환경을
+	환경/ncn+을/jco
+
+갖추고
+	갖추/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+지금의
+	지금/ncn+의/jcm
+
+목장주는
+	목장/ncn+주/ncn+는/jxc
+
+전
+	전/nbn
+
+국가대표
+	국가대표/ncn
+
+탁구선수로도
+	탁구/ncn+선수/ncn+로/jca+도/jxc
+
+활약하셨다고
+	활약/ncpa+하/xsva+셨/ep+다/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+자그마한
+	자그마하/paa+ㄴ/etm
+
+체구에
+	체구/ncn+에/jca
+
+목장에
+	목장/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+열정이
+	열정/ncn+이/jcc
+
+넘쳐나는
+	넘치/pvg+어/ecx+나/px+는/etm
+
+분이셨어요
+	분/nbn+이/jp+셨/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+그저
+	그저/mag
+
+사슴을
+	사슴/ncn+을/jco
+
+키우고
+	키우/pvg+고/ecc
+
+녹용과
+	녹용/ncn+과/jcj
+
+그외
+	그외/mmd
+
+생산품을
+	생산품/ncn+을/jco
+
+만들어내는
+	만들/pvg+어/ecx+내/px+는/etm
+
+것
+	것/nbn
+
+뿐
+	뿐/nbn
+
+아니라
+	아니/paa+라/ecs
+
+고객들을
+	고객/ncn+들/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+공간으로
+	공간/ncn+으로/jca
+
+편의시설도
+	편의시설/ncpa+도/jxc
+
+갖추고
+	갖추/pvg+고/ecc
+
+있어서
+	있/paa+어서/ecs
+
+
+편하게
+	편하/paa+게/ecs
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+배려를
+	배려/ncpa+를/jco
+
+해두셨더군요
+	하/pvg+어/ecx+두/px+셨/ep+더군/ef+요/jxf
+
+.
+	./sf
+
+
+홀로
+	홀로/mag
+
+비를
+	비/ncn+를/jco
+
+맞고
+	맞/pvg+고/ecc
+
+울부짖고
+	울부짖/pvg+고/ecc
+
+있던
+	있/px+던/etm
+
+사슴
+	사슴/ncn
+
+한마리
+	한/nnc+마리/nbu
+
+..
+	./sf+./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+생각하던
+	생각/ncpa+하/xsva+던/etm
+
+그런
+	그런/mmd
+
+가냘프고
+	가냘프/paa+고/ecc
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+모습의
+	모습/ncn+의/jcm
+
+사슴과는
+	사슴/ncn+과/jct+는/jxc
+
+다르지요
+	다르/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+엘크종으로
+	엘크종/ncn+으로/jca
+
+옆에서
+	옆/ncn+에서/jca
+
+보면
+	보/px+면/ecs
+
+위협적으로
+	위협/ncpa+적/ncn+으로/jca
+
+느껴질만큼
+	느끼/pvg+어/ecx+지/px+ㄹ/etm+만큼/nbn
+
+몸이
+	몸/ncn+이/jcc
+
+큽니다
+	크/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+웬만한
+	웬만하/paa+ㄴ/etm
+
+소정도의
+	소정도/ncn+의/jcm
+
+크기라고
+	크/paa+기/etn+이/jp+라/ef+고/jcr
+
+할까요
+	하/px+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+그렇다면
+	그렇다면/maj
+
+사슴의
+	사슴/ncn+의/jcm
+
+뿔은
+	뿔/ncn+은/jxc
+
+다
+	다/mag
+
+어디로
+	어디/npd+로/jca
+
+?
+	?/sf
+
+
+^^
+	^/sy+^/sy
+
+이미
+	이미/mag
+
+봄에
+	보/px+ㅁ/etn+에/jca
+
+올라온
+	오르/pvg+아/ecx+오/px+ㄴ/etm
+
+녹용은
+	녹용/ncn+은/jxc
+
+올라오기
+	오르/pvg+아/ecx+오/px+기/etn
+
+시작하면서3개월
+	시작하면서3개월/ncn
+
+안으로
+	안/ncn+으로/jca
+
+
+잘라낸다고
+	자르/pvg+아/ecx+내/px+ㄴ다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그러니
+	그러/pvd+니/ecs
+
+지금은
+	지금/ncn+은/jxc
+
+다
+	다/mag
+
+잘려진
+	잘리/pvg+어/ecx+지/px+ㄴ/etm
+
+상태이구요
+	상태이구요/ncn
+
+.
+	./sf
+
+
+머리에
+	머리/ncn+에/jca
+
+뿌리부분만
+	뿌리/ncn+부분/ncn+만/jxc
+
+남아
+	남/pvg+아/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+한참
+	한참/mag
+
+발정기라
+	발정기/ncn+이/jp+라/ecs
+
+예민해져
+	예민/ncps+하/xsms+어/ecx+지/px+어/ecx
+
+있는
+	있/px+는/etm
+
+시기
+	시/nbu+이/jp+기/etn
+
+.
+	./sf
+
+
+사람이라고해도
+	사람/ncn+이라/jca+이/jp+고/ecx+하/px+어도/ecs
+
+혼자
+	혼자/mag
+
+움직이면
+	움직이/pvg+면/ecs
+
+덤벼들
+	덤벼들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다고
+	있/px+다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+지인들과
+	지/nbn+이/jp+ㄴ/etm+들/nbn+과/jct
+
+뭉쳐다니면서
+	뭉쳐다니/ncn+이/jp+면서/ecc
+
+
+사슴들을
+	사슴/ncn+들/ncn+을/jco
+
+구경했습니다
+	구경/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+우르르
+	우르르/mag
+
+몰려다니기
+	몰려다니/ncn+이/jp+기/etn
+
+보다
+	보다/mag
+
+많이
+	많/paa+이/xsa
+
+흩어져
+	흩어지/pvg+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+그림이
+	그림/ncn+이/jcc
+
+멋지지는
+	멋지/paa+지/ecs+는/jxc
+
+않지요
+	않/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+다리는
+	다리/ncn+는/jxc
+
+가늘어서
+	가늘/paa+어서/ecs
+
+이
+	이/mmd
+
+가파른
+	가파르/paa+ㄴ/etm
+
+산길을
+	산길/ncn+을/jco
+
+다니는걸
+	다니는걸/ncn
+
+보면
+	보/px+면/ecs
+
+정말
+	정말/mag
+
+대단한
+	대/nbu+이/jp+단/etm+한/nbn
+
+동물입니다
+	동물/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+주변이
+	주변/ncn+이/jcc
+
+지금은
+	지금/mag+은/jxc
+
+그래도
+	그래도/maj
+
+푸른풀들이
+	푸른풀들/ncn+이/jcc
+
+많은데요
+	많은데요/ncn
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+녀석들이
+	녀석/ncn+들/ncn+이/jcc
+
+뜯어먹기
+	뜯어먹기/ncn
+
+시작하면
+	시작/ncpa+하/xsva+면/ecs
+
+어느새
+	어느새/mag
+
+황토가
+	황토/ncn+가/jcs
+
+드러날
+	드러나/pvg+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+다
+	다/mag
+
+먹어치운다고
+	먹어치운다/ncn+이/jp+고/ecc
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+다
+	다/mag
+
+뜯어먹으면
+	뜯어먹으/ncn+이/jp+면/ecs
+
+풀이
+	풀이/ncpa
+
+없어서
+	없/paa+어서/ecs
+
+어떡해
+	어떡하/pvg+어/ecx
+
+..
+	./sf+./sf
+
+
+하실
+	하/px+시/ep+ㄹ/etm
+
+걱정
+	걱정/ncpa
+
+없습니다
+	없/paa+습니다/ef
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+공간이
+	공간/ncn+이/jcc
+
+무려
+	무려/mag
+
+22만평이
+	22/nnc+만/nnc+평/nbu+이/jcc
+
+넘는다고
+	넘/pvg+는다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+상상이
+	상상/ncn+이/jcc
+
+안되는
+	안되/paa+는/etm
+
+규모
+	규모/ncn
+
+..
+	./sf+./sf
+
+
+야산에서
+	야산/ncn+에서/jca
+
+자라는
+	자라/pvg+는/etm
+
+온갖
+	온갖/mma
+
+약초들을
+	약초/ncn+들/ncn+을/jco
+
+다
+	다/mag
+
+먹고
+	먹/pvg+고/ecc
+
+자란
+	자라/pvg+ㄴ/etm
+
+사슴들은
+	사슴/ncn+들/ncn+은/jxc
+
+그
+	그/mmd
+
+힘으로
+	힘/ncn+으로/jca
+
+녹용을
+	녹용/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+낼테구요
+	낼테구요/ncn
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+녹용으로
+	녹용/ncn+으로/jca
+
+제품을
+	제품/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+낼테니
+	내/pvg+ㄹ테니/ecs
+
+그
+	그/mmd
+
+효과도
+	효과/ncn+도/jxc
+
+좋겠구나
+	좋/paa+겠/ep+구나/ef
+
+자연스럽게
+	자연/ncn+스럽/xsmn+게/ecs
+
+연상이
+	연상/ncn+이/jcc
+
+되었습니다
+	되/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+수컷끼리도
+	수컷/ncn+끼리/jxc+도/jxc
+
+서로
+	서로/mag
+
+힘겨루기를
+	힘겨루기/ncpa+를/jco
+
+하고
+	하/pvg+고/ecc
+
+쫓아내기도
+	쫓/pvg+아/ecx+내/px+기/etn+도/jxc
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+그들만의
+	그들/npp+만의/jcm
+
+세상에서
+	세상/ncn+에서/jca
+
+어떤
+	어떤/mmd
+
+변화가
+	변화/ncpa+가/jcc
+
+일어나나
+	일어나/pvg+아/ecx+나/px+아/ecx
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+비가
+	비/ncn+가/jcs
+
+와서
+	오/px+아/ecs
+
+잠시
+	잠시/mag
+
+사슴먹이
+	사슴/ncn+먹/ncn+이/jcc
+
+먹는
+	먹/pvg+는/etm
+
+장소로
+	장소/ncn+로/jca
+
+피해
+	피하/pvg+어/ecx
+
+있었더니
+	있/px+었/ep+더니/ecs
+
+사슴이
+	사슴/ncn+이/jcc
+
+다니는
+	다니/pvg+는/etm
+
+길목이
+	길목/ncn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+사슴들이
+	사슴/ncn+들/ncn+이/jcc
+
+왔다갔다
+	왔다갔다/mag
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+'우리
+	'/sr+우리/npp
+
+집에
+	집/ncn+에/jca
+
+왜
+	왜/mag
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+이렇게
+	이렇/pad+게/ecs
+
+많은거야'
+	많은/ncn+거야/ncn+'/sr
+
+하며당황해
+	하며당황해/ncn
+
+하던
+	하/pvg+던/etm
+
+사슴한마리
+	사슴/ncn+한마/ncn+이/jp+리/ef
+
+...
+	.../se
+
+
+비에
+	비/ncn+에/jca
+
+흠뻑
+	흠뻑/mag
+
+젖어서는
+	젖/pvg+어서/ecs+는/jxc
+
+경계의
+	경계/ncn+의/jcm
+
+눈빛을
+	눈빛/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+많이
+	많/paa+이/xsa
+
+예민한
+	예민/ncn+한/ncn
+
+동물이라고
+	동물/ncn+이/jp+라/ef+고/jcr
+
+들었는데
+	들/pvg+었/ep+는데/ecs
+
+별루
+	별루/ncn
+
+사람무서울
+	사람무서울/ncn
+
+것
+	것/nbn
+
+없다하는
+	없다하/ncn+는/jxc
+
+행동을
+	행동/ncpa+을/jco
+
+보여주었어요
+	보이/pvg+어/ecx+주/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+그저
+	그저/mag
+
+갈
+	가/pvg+ㄹ/etm
+
+방향을
+	방향/ncn+을/jco
+
+못찾아서
+	못찾아/ncn+서/jca
+
+당황하는
+	당황/ncpa+하/xsva+는/etm
+
+정도의
+	정도/ncn+의/jcm
+
+행동이랄까요
+	행동이랄까요/ncn
+
+.
+	./sf
+
+
+오히려
+	오히려/mag
+
+우리가
+	우리/npp+가/jcs
+
+더
+	더/mag
+
+놀라고
+	놀라/pvg+고/ecc
+
+도망가고
+	도망가/pvg+고/ecc
+
+그랬지요
+	그렇/pad+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+산
+	사/pvg+ㄴ/etm
+
+전체가
+	전체/ncn+가/jcs
+
+사슴들의
+	사슴/ncn+들/ncn+의/jcm
+
+세상입니다
+	세상/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+자유롭게
+	자유/ncn+롭/xsmn+게/ecs
+
+자라는
+	자라/pvg+는/etm
+
+동물들은
+	동물/ncn+들/ncn+은/jxc
+
+얼마나
+	얼마나/mag
+
+행복할까
+	행복/ncps+하/xsms+ㄹ까/ecs
+
+싶어요
+	싶/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+우리속에
+	우리/ncn+속/ncn+에/jca
+
+갖혀서
+	갖혀서/ncn
+
+사료만
+	사료/ncn+만/jxc
+
+먹고
+	먹/pvg+고/ecc
+
+자라는
+	자라/pvg+는/etm
+
+것과는
+	것/nbn+과/jct+는/jxc
+
+차이가
+	차이/ncn+가/jcs
+
+확연할
+	확연/ncps+하/xsms+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+맑은
+	맑/paa+은/etm
+
+공기가
+	공기/ncn+가/jcs
+
+함께하는
+	함께하/pvg+는/etm
+
+고지대에서
+	고지대/ncn+에서/jca
+
+여유를
+	여유/ncn+를/jco
+
+부리며
+	부리/pvg+며/ecc
+
+살아가는
+	살/pvg+아/ecx+가/px+는/etm
+
+사슴들은
+	사슴/ncn+들/ncn+은/jxc
+
+봄에는
+	보/px+ㅁ/etn+에/jca+는/jxc
+
+자연산
+	자연/ncn+산/ncn
+
+두릅과
+	두릅/ncn+과/jcj
+
+곰취,
+	곰취,/ncn
+
+당귀
+	당귀/ncn
+
+등
+	등/nbu
+
+자연산
+	자연/ncn+산/ncn
+
+산나물을
+	산나물/ncn+을/jco
+
+뜯어
+	뜯/pvg+어/ecx
+
+먹으며
+	먹/pvg+으며/ecc
+
+
+가장
+	가장/mag
+
+왕성하게
+	왕성/ncpa+하/xsva+게/ecs
+
+자라는
+	자라/pvg+는/etm
+
+시기라는데요
+	시기라는데요/ncn
+
+.
+	./sf
+
+
+만물이
+	만물/ncn+이/jcc
+
+소생하는
+	소생/ncpa+하/xsva+는/etm
+
+시기,
+	시/nbu+이/jp+기/etn+,/sp
+
+그
+	그/mmd
+
+때
+	때/ncn
+
+3개월간
+	3/nnc+개월/nbu+간/xsnu
+
+녹용이
+	녹용/ncn+이/jcc
+
+자라는
+	자라/pvg+는/etm
+
+거라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+목장여행을
+	목장/ncn+여행/ncpa+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+사슴에
+	사슴/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+정보도
+	정보/ncn+도/jxc
+
+좀
+	좀/mag
+
+알게
+	알/pvg+게/ecs
+
+되어서
+	되/pvg+어서/ecs
+
+좋았는데요
+	좋/paa+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+녹용이라고
+	녹용/ncn+이/jp+라/ef+고/jcr
+
+부르는
+	부르/pvg+는/etm
+
+뿔.
+	뿔/ncn+./sf
+
+뿔이
+	뿔/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+모세혈관으로
+	모세혈관/ncn+으로/jca
+
+이루어진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+
+사슴의
+	사슴/ncn+의/jcm
+
+또다른
+	또다른/mma
+
+신체부위라는
+	신체부위/ncn+라는/jcm
+
+사실을요
+	사실을요/ncn
+
+.
+	./sf
+
+
+우리의
+	우리/npp+의/jcm
+
+팔과
+	팔/ncn+과/jcj
+
+다리처럼
+	다리/ncn+처럼/jca
+
+신체를
+	신체/ncn+를/jco
+
+구성하는
+	구성/ncpa+하/xsva+는/etm
+
+하나의
+	하나/nnc+의/jcm
+
+부위로
+	부위/ncn+로/jca
+
+3개월
+	3/nnc+개월/nbu
+
+동안은
+	동안/ncn+은/jxc
+
+심장의
+	심장/ncn+의/jcm
+
+피가
+	피/ncn+가/jcs
+
+뿌리까지
+	뿌리/ncn+까지/jxc
+
+전달이
+	전달/ncn+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+나뭇가지처럼
+	나뭇가지/ncn+처럼/jca
+
+자라서
+	자르/pvg+아/ecx
+
+뻗어
+	뻗/pvg+어/ecx
+
+올라간다고
+	오르/pvg+아/ecx+가/px+ㄴ다/ef+고/jcr
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+이후에는
+	이후/ncn+에/jca+는/jxc
+
+그
+	그/mmd
+
+활동이
+	활동/ncpa+이/jcc
+
+활발하지
+	활발/ncps+하/xsms+지/ecx
+
+못해서
+	못하/px+어서/ecs
+
+점점
+	점점/mag
+
+뼈처럼
+	뼈/ncn+처럼/jca
+
+되어가는데
+	되/pvg+어/ecx+가/px+ㄴ데/ecs
+
+녹각이
+	녹각/ncn+이/jcc
+
+되고
+	되/nbu+고/jcj
+
+
+저절로
+	저절로/mag
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+낙각이
+	낙각/ncn+이/jcc
+
+된다고
+	되/pvg+ㄴ다/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+상품가치는
+	상품가치/ncn+는/jxc
+
+녹용상태일때라야
+	녹용상태일때라야/ncn
+
+하니
+	하/pvg+니/ecs
+
+3개월안에
+	3/nnc+개월/nbu+안/xsnx+에/jca
+
+잘라내나
+	자르/pvg+아/ecx+내/px+어/ecx+나/px+아/ecx
+
+보더라구요
+	보/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+지금은
+	지금/ncn+은/jxc
+
+뿔을
+	뿔/ncn+을/jco
+
+다
+	다/mag
+
+잘라내고
+	자르/pvg+아/ecx+내/px+고/ecc
+
+난
+	나/px+ㄴ/etm
+
+후의
+	후/ncn+의/jcm
+
+모습이라
+	모습/ncn+이/jp+라/ecs
+
+사진에서
+	사진/ncn+에서/jca
+
+보았듯
+	보/px+아/ep+듯/ecs
+
+멋진
+	멋지/paa+ㄴ/etm
+
+녹용을
+	녹용/ncn+을/jco
+
+달고
+	달/paa+고/ecc
+
+있는
+	있/px+는/etm
+
+상태는
+	상태/ncn+는/jxc
+
+아닙니다
+	아니/paa+ㅂ니다/ef+./sf
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+소같은
+	소/ncn+같/xsmn+은/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+더
+	더/mag
+
+들지요
+	들/pvg+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+서로
+	서로/mag
+
+경계를
+	경계/ncn+를/jco
+
+하면서
+	하/pvg+면서/ecc
+
+다른
+	다르/paa+ㄴ/etm
+
+수컷들을
+	수컷/ncn+들/ncn+을/jco
+
+아래로
+	아래/ncn+로/jca
+
+몰아내거나
+	몰아내/pvg+거나/ecc
+
+
+머리를
+	머리/ncn+를/jco
+
+맞대고
+	맞대/pvg+고/ecc
+
+힘겨루기도
+	힘겨루기/ncpa+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+서로의
+	서로/ncn+의/jcm
+
+힘을
+	힘/ncn+을/jco
+
+과시하고
+	과시/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+중입니다
+	중/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+여전한
+	여전/ncps+하/xsms+ㄴ/etm
+
+울부짖음이
+	울부짖/pvg+음/etn+이/jcs
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+신기한
+	신기/ncn+한/ncn
+
+건사슴들이
+	건사슴들/ncn+이/jcc
+
+각기
+	각기/mag
+
+다른
+	다르/paa+ㄴ/etm
+
+소리를
+	소리/ncn+를/jco
+
+낸다는
+	내/px+ㄴ다/ef+는/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+목장이
+	목장/ncn+이/jcc
+
+워낙
+	워낙/mag
+
+넓어서
+	넓/paa+어서/ecs
+
+차로
+	차/ncn+로/jca
+
+움직여야
+	움직이/pvg+어야/ecs
+
+할거
+	할거/ncpa
+
+같은
+	같/paa+은/etm
+
+..
+	./sf+./sf
+
+
+그것이
+	그것/npd+이/jcc
+
+아니면
+	아니/paa+면/ecs
+
+산악오토바이라도
+	산악/ncn+오토바이/ncn+이/jp+라/ecs+도/jxc
+
+한대
+	한/nnc+대/nbu
+
+있어야
+	있/px+어야/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+거
+	것/nbn
+
+같은
+	같/paa+은/etm
+
+길입니다
+	길/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+산위로
+	산/ncn+위/xsnx+로/jca
+
+올라가서
+	오르/pvg+아/ecx+가/px+아/ecx
+
+더
+	더/mag
+
+많은
+	많/paa+은/etm
+
+사슴의
+	사슴/ncn+의/jcm
+
+무리를
+	무리/ncn+를/jco
+
+보려고
+	보/px+려고/ecs
+
+가는
+	가/pvg+는/etm
+
+길인데요
+	길인데요/ncn
+
+.
+	./sf
+
+
+여전한
+	여전/ncps+하/xsms+ㄴ/etm
+
+비에
+	비/ncn+에/jca
+
+바람에,
+	바라/pvg+ㅁ/etn+에/jca+,/sp
+
+길은
+	길/ncn+은/jxc
+
+꽤
+	꽤/mag
+
+멀어요
+	멀/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+산능성이를
+	산능성/ncn+이를/jco
+
+넘어가는
+	넘/pvg+어/ecx+가/px+는/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+길입니다
+	길/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이길도
+	이/nnc+길/nbu+도/jxc
+
+어려운데
+	어렵/paa+은/etm+데/nbn
+
+사슴들은
+	사슴/ncn+들/ncn+은/jxc
+
+가파른
+	가파르/paa+ㄴ/etm
+
+경사면을
+	경사면/ncn+을/jco
+
+잘도
+	잘/mag+도/jxc
+
+옮겨
+	옮기/pvg+어/ecx
+
+다니더군요
+	다니/pvg+더군/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+힘은
+	힘/ncn+은/jxc
+
+어디에서
+	어디/npd+에서/jca
+
+나오는지
+	나/pvg+아/ecx+오/px+는지/ecs
+
+..
+	./sf+./sf
+
+
+산에서
+	산/ncn+에서/jca
+
+좋은
+	좋/paa+은/etm
+
+약초를
+	약초/ncn+를/jco
+
+많이
+	많/paa+이/xsa
+
+먹어서
+	먹/pvg+어서/ecs
+
+일까요
+	일/pvg+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+오후에
+	오후/ncn+에/jca
+
+다시
+	다시/mag
+
+나와본
+	나오/pvg+아/ecx+보/px+ㄴ/etm
+
+목장길엔
+	목장/ncn+길/ncn+엔/jca
+
+철망
+	철망/ncn
+
+건너편으로
+	건너편/ncn+으로/jca
+
+사슴
+	사슴/ncn
+
+한마리가
+	한/nnc+마리/nbu+가/jcc
+
+나무와
+	나무/ncn+와/jcj
+
+씨름을
+	씨름/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+뿔이
+	뿔/ncn+이/jcc
+
+간지러워서
+	간지러워/ncn+서/jca
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+연신
+	연신/mag
+
+긁적이다가
+	긁적이/pvg+다가/ecs
+
+밀어내고
+	밀/pvg+어/ecx+내/px+어/ef+고/jcr
+
+있었는데요
+	있/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+사슴의
+	사슴/ncn+의/jcm
+
+습성때문인지
+	습성때문/ncn+이/jp+ㄴ지/ecs
+
+부근의
+	부근/ncn+의/jcm
+
+큰
+	크/paa+ㄴ/etm
+
+나무들에는
+	나무/ncn+들/ncn+에/jca+는/jxc
+
+둘레에
+	둘레/ncn+에/jca
+
+저렇게
+	저렇게/mag
+
+
+철망을
+	철망/ncn+을/jco
+
+씌워놓았습니다
+	씌우/pvg+어/ecx+놓/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+뒀다가는
+	두/pvg+었/ep+다가/ecs+는/jxc
+
+남아나는
+	남/pvg+아/ecx+나/px+는/etm
+
+나무가
+	나무/ncn+가/jcs
+
+없을거
+	없을거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+씨름하다
+	씨름/ncpa+하/xsva+어다/ecs
+
+셔터소리가
+	셔터/ncn+소리/ncn+가/jcs
+
+들려서인지
+	들려서/ncn+이/jp+ㄴ지/ecs
+
+멀뚱하니
+	멀뚱하/ncn+이/jp+니/ecs
+
+바라보네요
+	바라/pvg+아/ecx+보/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+사슴들이
+	사슴/ncn+들/ncn+이/jcc
+
+조금
+	조금/mag
+
+얌전한
+	얌전/ncn+한/ncn
+
+때라면
+	때/nbn+이/jp+라면/ecs
+
+산길을
+	산길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+걸어도
+	걷/pvg+어도/ecs
+
+참
+	참/mag
+
+좋을거
+	좋을거/ncn
+
+같은
+	같/paa+은/etm
+
+목장입니다
+	목장/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+목장이라는
+	목장/ncn+이/jp+라/ef+는/etm
+
+느낌보다는
+	느끼/pvg+ㅁ/etn+보다/jca+는/jxc
+
+사실
+	사실/mag
+
+그냥
+	그냥/mag
+
+야산을
+	야산/ncn+을/jco
+
+걷는거
+	걷는거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+워낙
+	워낙/mag
+
+넓어서
+	넓/paa+어서/ecs
+
+어디가
+	어디/npd+가/jcc
+
+끝인지도
+	끝/ncn+이/jp+ㄴ지/ecs+도/jxc
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없구요
+	없구요/ncn
+
+.
+	./sf
+
+
+꽃을
+	꽃/ncn+을/jco
+
+담아도
+	담/pvg+아/ecs
+
+배경은
+	배경/ncn+은/jxc
+
+사슴이
+	사슴/ncn+이/jcc
+
+되고,
+	되/pvg+고/ecc+,/sp
+
+사슴을
+	사슴/ncn+을/jco
+
+담아도
+	담/pvg+아/ecs
+
+배경은
+	배경/ncn+은/jxc
+
+산야가
+	산야/ncn+가/jcs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+이곳이
+	이곳/npd+이/jcc
+
+어딘가
+	어딘가/ncn
+
+...
+	.../se
+
+
+싶은
+	싶/px+은/etm
+
+풍경이지요
+	풍경/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+날씨가
+	날씨/ncn+가/jcs
+
+워낙
+	워낙/mag
+
+안좋아서
+	안좋아서/ncn
+
+빛도
+	빛/ncn+도/jxc
+
+별로
+	별로/mag
+
+좋지
+	좋/paa+지/ecx
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+목장은
+	목장/ncn+은/jxc
+
+이런
+	이런/mmd
+
+풍경이었다는
+	풍경/ncn+이/jp+었/ep+다/ef+는/etm
+
+것
+	것/nbn
+
+정도로
+	정도/ncn+로/jca
+
+...
+	.../se
+
+
+사슴들이
+	사슴/ncn+들/ncn+이/jcc
+
+무리진
+	무리/ncn+진/ncn
+
+모습을보고
+	모습을보/ncn+이/jp+고/ecc
+
+싶어서
+	싶/px+어서/ecs
+
+목장주께서
+	목장/ncn+주/ncn+께서/jcs
+
+안내하시는
+	안내/ncpa+하/xsva+시/ep+는/etm
+
+데로
+	데/nbn+로/jca
+
+들어왔는데요
+	들/pvg+어/ecx+오/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+질척이는
+	지/px+ㄹ/etm+척/nbs+이/jp+는/etm
+
+길이며
+	길/ncn+이/jp+며/ecc
+
+비바람이
+	비바람/ncn+이/jcc
+
+몰아쳐서
+	몰아치/pvg+어서/ecs
+
+
+우산도
+	우산/ncn+도/jxc
+
+쓸
+	쓰/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없었던
+	없/paa+었/ep+던/etm
+
+상황이었어요
+	상황/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+카메라도
+	카메라/ncn+도/jxc
+
+비에
+	비/ncn+에/jca
+
+젖어서
+	젖/pvg+어서/ecs
+
+담다보니
+	담다보니/ncn
+
+신경이
+	신경/ncn+이/jcc
+
+쓰여서
+	쓰이/pvg+어서/ecs
+
+제대로
+	제대로/mag
+
+이쁘게
+	이쁘/paa+게/ecs
+
+안나왔네요
+	안나왔네요/ncn
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+빗속에서도
+	빗속/ncn+에서/jca+도/jxc
+
+사슴은
+	사슴/ncn+은/jxc
+
+참
+	참/mag
+
+여유있어
+	여유/ncn+있/xsmn+어/ecx
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+그저
+	그저/mag
+
+방해꾼들이
+	방해꾼/ncn+들/ncn+이/jcc
+
+귀찮다
+	귀찮/paa+다/ef
+
+하는
+	하/pvg+는/etm
+
+눈치입니다
+	눈치/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+땅은
+	땅/ncn+은/jxc
+
+질척이고
+	지/px+ㄹ/etm+척/nbs+이/jp+고/ecc
+
+푹푹
+	푹푹/mag
+
+빠지고
+	빠지/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+군데군데
+	군데군데/mag
+
+이건
+	이/npd+이/jp+건/ecc
+
+뭘까요
+	뭘까요/ncn
+
+..
+	./sf+./sf
+
+
+사슴의
+	사슴/ncn+의/jcm
+
+대변인데요
+	대변인데요/ncn
+
+.
+	./sf
+
+
+공깃돌처럼
+	공깃돌처럼/ncn
+
+동글동글
+	동글동글/ncn
+
+귀여워서
+	귀엽/paa+어서/ecs
+
+담았습니다
+	담/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+풀먹고
+	풀먹고/ncn
+
+자라는
+	자라/pvg+는/etm
+
+녀석들이라
+	녀석/ncn+들이/ncn+이/jp+라/ecs
+
+냄새도
+	냄새/ncn+도/jxc
+
+없어요
+	없/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+징그럽다
+	징그럽/paa+다/ef
+
+생각마시고
+	생각/ncpa+마/ncn+이/jp+시/ep+고/ecc
+
+..
+	./sf+./sf
+
+
+새알심
+	새알심/ncn
+
+만들어
+	만들/pvg+어/ecx
+
+놓은거
+	놓은거/ncn
+
+같던데요
+	같던데요/ncn
+
+.
+	./sf
+
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+온
+	오/px+ㄴ/etm
+
+손님들
+	손님/ncn+들/ncn
+
+사슴모습을
+	사슴/ncn+모습/ncn+을/jco
+
+더
+	더/mag
+
+많이
+	많/paa+이/xsa
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+싶으셔서
+	싶/px+으시/ep+어서/ecs
+
+우리가
+	우리/npp+가/jcs
+
+있는
+	있/px+는/etm
+
+쪽으로
+	쪽/ncn+으로/jca
+
+몰아주고
+	몰/pvg+아/ecx+주/px+고/ecc
+
+계신
+	계시/paa+ㄴ/etm
+
+목동들
+	목동/ncn+들/ncn
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+하지만
+	하/pvg+지만/ecs
+
+사슴들이
+	사슴/ncn+들/ncn+이/jcc
+
+이곳으로
+	이곳/npd+으로/jca
+
+올리가
+	오/px+ㄹ/etm+리/nbn+가/jcc
+
+있겠어요
+	있/px+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+또다시
+	또다시/mag
+
+계곡쪽으로
+	계곡/ncn+쪽/ncn+으로/jca
+
+몸을
+	몸/ncn+을/jco
+
+숨겨버리기
+	숨기/pvg+어/ecx+버리/px+기/etn
+
+일쑤입니다
+	일쑤/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+따라다닐려면
+	따라다닐려/ncn+이/jp+면/ecs
+
+제대로
+	제대로/mag
+
+복장을
+	복장/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+장화도
+	장/ncn+화/xsnca+도/jxc
+
+신고
+	신/pvg+고/ecc
+
+그렇게
+	그렇/pad+게/ecs
+
+다녀야할거
+	다녀야할거/ncn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+..
+	./sf+./sf
+
+
+그만
+	그/npp+만/jxc
+
+괴롭히고
+	괴롭히/pvg+고/ecc
+
+이제
+	이제/mag
+
+가달라는
+	가달라/ncn+는/jxc
+
+표정들이죠
+	표정/ncn+들이/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+우린
+	우/ncn+이/jp+리/ep+ㄴ/etm
+
+가까이서
+	가까이/ncn+서/jca
+
+사슴을
+	사슴/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+두렵기도
+	두렵/paa+기/etn+도/jxc
+
+하면서
+	하/pvg+면서/ecc
+
+반갑기도
+	반갑/paa+기/etn+도/jxc
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+얘들의
+	얘/ncn+들/xsncc+의/jcm
+
+성격을
+	성격/ncn+을/jco
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없으니
+	없/paa+으니/ecs
+
+두려운
+	두렵/paa+은/etm
+
+것이
+	것/nbn+이/jcc
+
+더
+	더/mag
+
+많긴
+	많긴/ncn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+언덕에
+	언덕/ncn+에/jca
+
+턱하니
+	턱하/ncn+이/jp+니/ecs
+
+앉아서
+	앉/pvg+아/ecx
+
+꿈적도
+	꿈/ncn+적/xsncc+도/jxc
+
+하지
+	하/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+이렇게
+	이렇/pad+게/ecs
+
+가끔
+	가끔/mag
+
+울부짖고
+	울부짖/pvg+고/ecc
+
+있던
+	있/px+던/etm
+
+사슴입니다
+	사슴/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+녀석은
+	녀석/nbn+은/jxc
+
+다른
+	다른/mma
+
+것보다
+	것/nbn+보다/jca
+
+유난히
+	유난히/mag
+
+커요
+	크/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+대장격
+	대장/ncr+격/ncn
+
+정도
+	정도/ncn
+
+되는
+	되/pvg+는/etm
+
+건가
+	것/nbn+이/jp+ㄴ가/ef
+
+싶은
+	싶/px+은/etm
+
+덩치입니다
+	덩치/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+사슴을
+	사슴/ncn+을/jco
+
+소개해
+	소개/ncpa+하/xsva+어/ecx
+
+놓은
+	놓/px+은/etm
+
+곳을
+	곳/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+사슴은
+	사슴/ncn+은/jxc
+
+남북아메리카,
+	남북아메리카,/ncn
+
+유러시아,
+	유러시아,/ncn
+
+아프리카
+	아프리카/ncn
+
+일부
+	일/nnc+부/nbu
+
+자연서식하거나
+	자연/ncn+서식/ncpa+하/xsva+거나/ecc
+
+분포하고
+	분포/ncpa+하고/jct
+
+있고
+	있/px+고/ecc
+
+호주나
+	호주/ncn+나/jcj
+
+뉴질랜드에는
+	뉴질랜드/ncn+에/jca+는/jxc
+
+인위적으로
+	인위/ncn+적/ncn+으로/jca
+
+사육되거나
+	사/nnc+육/nnc+되/nbu+이/jp+거나/ecc
+
+야생상태로
+	야생상태/ncn+로/jca
+
+서식하고
+	서식/ncpa+하고/jct
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+몸집이
+	몸집/ncn+이/jcc
+
+가장
+	가장/mag
+
+큰
+	크/paa+ㄴ/etm
+
+무스
+	무스/ncn
+
+사슴은
+	사슴/ncn+은/jxc
+
+800kg을
+	800kg/ncn+을/jco
+
+가볍게
+	가볍/paa+게/ecs
+
+넘어서고
+	넘/pvg+어서/ef+고/jcr
+
+거대하고
+	거대/ncps+하고/jct
+
+복잡한
+	복잡/ncps+하/xsms+ㄴ/etm
+
+뿔을
+	뿔/ncn+을/jco
+
+갖고
+	갖/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+반면
+	반면/ncn
+
+가장
+	가장/mag
+
+작은
+	작/paa+은/etm
+
+자바콩사슴은
+	자바콩사슴/ncn+은/jxc
+
+1.3kg
+	1.3kg/ncn
+
+~1.
+	~/sd+1./nnc
+
+5kg의
+	5kg/ncn+의/jcm
+
+체중에
+	체중/ncn+에/jca
+
+뿔은
+	뿔/ncn+은/jxc
+
+아예
+	아예/mag
+
+없고
+	없/paa+고/ecc
+
+위턱의
+	위턱/ncn+의/jcm
+
+견치가
+	견치/ncn+가/jcs
+
+송곳이로
+	송곳/ncn+이/ncn+로/jca
+
+발달하고
+	발달/ncpa+하고/jct
+
+있다고
+	있/px+다/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+종류도
+	종류/ncn+도/jxc
+
+다양하고
+	다양/ncn+하고/jcj
+
+농가의
+	농가/ncn+의/jcm
+
+소득증대로도
+	소득증대/ncpa+로/jca+도/jxc
+
+각광을
+	각광/ncn+을/jco
+
+받고
+	받/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+사슴
+	사슴/ncn
+
+..
+	./sf+./sf
+
+
+좀더
+	좀더/mag
+
+일반인들과
+	일반/ncn+이/jp+ㄴ/etm+들/nbn+과/jct
+
+가까워지기
+	가깝/paa+어/ecx+지/px+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+체험방식이
+	체험/ncpa+방식/ncn+이/jcc
+
+다양해지면
+	다양/ncps+하/xsms+어/ecx+지/px+면/ecs
+
+좋겠다는
+	좋/paa+겠/ep+다/ef+는/etm
+
+생각도
+	생각/ncpa+도/jxc
+
+들었구요
+	들었구요/ncn
+
+.
+	./sf
+
+
+녹용에
+	녹용/ncn+에/jca
+
+편중된
+	편중/ncpa+되/xsvn+ㄴ/etm
+
+부분을
+	부분/ncn+을/jco
+
+체험거리나
+	체험/ncpa+거리/ncn+나/jcj
+
+볼거리
+	보/px+ㄹ/etm+것/nbn+이/jp+리/ef
+
+상품으로도
+	상품/ncn+으로/jca+도/jxc
+
+개발하면
+	개발/ncpa+하/xsva+면/ecs
+
+좋겠다
+	좋/paa+겠/ep+다/ef
+
+싶은
+	싶/px+은/etm
+
+생각도
+	생각/ncpa+도/jxc
+
+들었습니다
+	들/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+대성산
+	대성/ncn+산/ncn
+
+사슴목장에
+	사슴/ncn+목장/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+사슴종류는
+	사슴/ncn+종류/ncn+는/jxc
+
+엘크라고
+	엘크/ncn+이/jp+라/ef+고/jcr
+
+하는건데요
+	하는건데요/ncn
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+생각하고
+	생각/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+몸에
+	몸/ncn+에/jca
+
+얼룩무늬가
+	얼룩무늬/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+꽃사슴은
+	꽃사슴/ncn+은/jxc
+
+아닙니다
+	아니/paa+ㅂ니다/ef+./sf
+
+.
+	./sf
+
+
+엘크는
+	엘크/ncn+는/jxc
+
+몸길이가
+	몸길이/ncn+가/jcs
+
+200~250cm
+	200~250cm/ncn
+
+몸높이가
+	몸높이/ncn+가/jcs
+
+140~150cm대형종으로
+	140~150cm대형종/ncn+으로/jca
+
+체중만도
+	체중/ncn+만/jxc+도/jxc
+
+200~450kg정도
+	200~450kg정/ncn+도/jxc
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+그러니
+	그러/pvd+니/ecs
+
+거의
+	거의/mag
+
+중급
+	중급/ncn
+
+소랑
+	소/ncn+랑/jxc
+
+비슷한
+	비슷/ncps+하/xsms+ㄴ/etm
+
+체구를
+	체구/ncn+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+유럽이나
+	유럽/ncn+이나/jcj
+
+북미지역에
+	북미지역/ncn+에/jca
+
+분포되어
+	분포/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+거라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+초창기에
+	초창기/ncn+에/jca
+
+얘들을
+	얘/ncn+들/xsncc+을/jco
+
+비행기에
+	비행기/ncn+에/jca
+
+실어서
+	싣/pvg+어서/ecs
+
+들여와
+	들이/pvg+어/ecx+오/px+아/ecx
+
+이렇게
+	이렇/pad+게/ecs
+
+대규모의
+	대규모/ncn+의/jcm
+
+농장으로
+	농장/ncn+으로/jca
+
+성장을
+	성장/ncpa+을/jco
+
+하게
+	하/pvg+게/ecs
+
+되었다고
+	되/pvg+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+임신기간은
+	임신기간/ncn+은/jxc
+
+8~9개월로
+	8/nnc+~/sd+9/nnc+개월/nbu+로/jca
+
+1년에
+	1/nnc+년/nbu+에/jca
+
+한마리씩
+	한/nnc+마리/nbu+씩/xsnu
+
+늘어나는
+	늘/pvg+어/ecx+나/px+는/etm
+
+것이지요
+	것/nbn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+엘크사슴은
+	엘크사슴/ncn+은/jxc
+
+우리나라에
+	우리나라/ncn+에/jca
+
+도입되어
+	도입/ncpa+되/xsvn+어/ecx
+
+사육되고
+	사/nnc+육/nnc+되/nbu+이/jp+고/ecc
+
+있는
+	있/px+는/etm
+
+사슴
+	사슴/ncn
+
+중
+	중/nbn
+
+가장
+	가장/mag
+
+큰
+	크/paa+ㄴ/etm
+
+종이라고
+	종이/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+레드디어나
+	레드/ncn+디/ncn+이/jp+어/ecs+나/jxc
+
+꽃사슴보다
+	꽃사슴보다/ncn
+
+녹용생산성이
+	녹용/ncn+생산성/ncn+이/jcc
+
+월등히
+	월등히/mag
+
+좋아서
+	좋/paa+아/ecx
+
+우리나라에도
+	우리나라/ncn+에/jca+도/jxc
+
+많이
+	많/paa+이/xsa
+
+사육되고
+	사/nnc+육/nnc+되/nbu+이/jp+고/ecc
+
+있다고
+	있/px+다/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+종류라면
+	종류/ncn+이/jp+라면/ecs
+
+울타리에서
+	울타리/ncn+에서/jca
+
+사육이
+	사/nnc+육/nnc+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+너른
+	너르/paa+ㄴ/etm
+
+산야를
+	산야/ncn+를/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+해야할
+	하/pvg+어야/ecx+하/px+ㄹ/etm
+
+거
+	것/nbn
+
+같더라구요
+	같/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+식성도
+	식성/ncn+도/jxc
+
+워낙
+	워낙/mag
+
+좋아서
+	좋/paa+아/ecx
+
+풀처럼
+	풀/ncn+처럼/jca
+
+생긴건
+	생긴건/ncn
+
+다
+	다/mag
+
+먹어
+	먹/pvg+어/ecx
+
+치운다고
+	치우/pvg+ㄴ다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+웬만한
+	웬만하/paa+ㄴ/etm
+
+동물키우는
+	동물키우/ncn+는/jxc
+
+것보다
+	것/nbn+보다/jca
+
+힘들거
+	힘들거/ncn
+
+같기도
+	같/paa+기/etn+도/jxc
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+오후가
+	오후/ncn+가/jcs
+
+되어도
+	되/pvg+어도/ecs
+
+날씨는
+	날씨/ncn+는/jxc
+
+좋아질
+	좋/paa+아/ecx+지/px+ㄹ/etm
+
+거
+	것/nbn
+
+같지
+	같/paa+지/ecx
+
+않고
+	않/px+고/ecc
+
+바람따라
+	바라/pvg+ㅁ/etn+따라/jxc
+
+비가
+	비/ncn+가/jcs
+
+춤을
+	춤/ncn+을/jco
+
+추고
+	추/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+간간이
+	간간이/mag
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+나오긴
+	나오긴/ncn
+
+했지만
+	하/px+었/ep+지만/ecs
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+비가
+	비/ncn+가/jcs
+
+멈추지는
+	멈추/pvg+지/ecs+는/jxc
+
+않았어요
+	않/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+날씨가
+	날씨/ncn+가/jcs
+
+좋았다면
+	좋/paa+아/ep+다면/ecs
+
+이
+	이/mmd
+
+아름다운
+	아름답/paa+은/etm
+
+대관령의
+	대관/ncn+령/ncn+의/jcm
+
+풍경과
+	풍경/ncn+과/jcj
+
+사슴이
+	사슴/ncn+이/jcc
+
+노니는
+	놀/pvg+니/ef+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+
+조화를
+	조화/ncn+를/jco
+
+이루었을텐데
+	이루/pvg+었/ep+을텐데/ecs
+
+비가
+	비/ncn+가/jcs
+
+내리니
+	내리/pvg+니/ecs
+
+우비
+	우비/ncn
+
+입고
+	입/pvg+고/ecc
+
+우산을
+	우산/ncn+을/jco
+
+펼치고
+	펼치/pvg+고/ecc
+
+다리니란
+	다리니란/ncn
+
+꽤
+	꽤/mag
+
+힘들더라구요
+	힘들/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+대관령
+	대관/ncn+령/ncn
+
+사슴목장이
+	사슴/ncn+목장/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+박달재
+	박달재/ncn
+
+부근에
+	부근/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+목장이네요
+	목장/ncn+이/jp+네/ef+요/jxf
+
+.
+	./sf
+
+
+대관령에는
+	대관/ncn+령/ncn+에/jca+는/jxc
+
+수사슴을
+	수사슴/ncn+을/jco
+
+사육하고
+	사/nnc+육/nnc+하고/jct
+
+있다면
+	있/px+다면/ecs
+
+이곳에서는
+	이곳/npd+에서/jca+는/jxc
+
+암사슴을
+	암사슴/ncn+을/jco
+
+사육하고
+	사/nnc+육/nnc+하고/jct
+
+있는
+	있/px+는/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+대관령의
+	대관/ncn+령/ncn+의/jcm
+
+날씨와는
+	날씨/ncn+와/jct+는/jxc
+
+판이하게
+	판/nbu+이하/xsnu+이/jp+게/ecs
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+하늘을
+	하늘/ncn+을/jco
+
+보여주었었는데요
+	보이/pvg+어/ecx+주/px+었었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이곳
+	이곳/npd
+
+목장도
+	목장/ncn+도/jxc
+
+규모가
+	규모/ncn+가/jcs
+
+10만평정도라고
+	10만평정도/ncn+이/jp+라/ef+고/jcr
+
+하셨는데
+	하/pvg+셨/ep+는데/ecs
+
+
+레드디어랑
+	레드/ncn+디/ncn+이/jp+어/ecs+랑/jxc
+
+암사슴을
+	암사슴/ncn+을/jco
+
+대량으로
+	대량/ncn+으로/jca
+
+사육하고
+	사/nnc+육/nnc+하고/jct
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+야외에
+	야외/ncn+에/jca
+
+있던
+	있/px+던/etm
+
+숫사슴인데요
+	숫사슴인데요/ncn
+
+.
+	./sf
+
+
+이곳에
+	이곳/npd+에/jca
+
+있는
+	있/px+는/etm
+
+녀석들도
+	녀석/ncn+들/ncn+도/jxc
+
+발정기라
+	발정기/ncn+이/jp+라/ecs
+
+난폭해져
+	난폭/ncps+하/xsms+어/ecx+지/px+어/ecx
+
+있는
+	있/px+는/etm
+
+상태였는데요
+	상태/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+서로
+	서로/mag
+
+힘겨루기를
+	힘겨루기/ncpa+를/jco
+
+하거나
+	하/pvg+거나/ecc
+
+울부짖음으로
+	울부짖/pvg+음/etn+으로/jca
+
+표현을
+	표현/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있었어요
+	있/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+그중에
+	그/npp+중/xsnx+에/jca
+
+그래도
+	그래도/maj
+
+순한
+	순하/paa+ㄴ/etm
+
+녀석이
+	녀석/nbn+이/jcc
+
+우리에게
+	우리/npp+에게/jca
+
+다가왔어요
+	다가오/pvg+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+머리를
+	머리/ncn+를/jco
+
+쓰다듬어
+	쓰다듬/pvg+어/ecx
+
+주니
+	주/px+니/ecs
+
+가만히
+	가만히/mag
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+난폭한
+	난폭/ncps+하/xsms+ㄴ/etm
+
+녀석들만
+	녀석/ncn+들/ncn+만/jxc
+
+있는건
+	있는건/ncn
+
+아니구나
+	아니/paa+구나/ef
+
+싶기도
+	싶/px+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+얼핏보면
+	얼핏보/ncn+이/jp+면/ecs
+
+소랑
+	소/ncn+랑/jxc
+
+많이
+	많/paa+이/xsa
+
+닮아서
+	닮/pvg+아/ecx
+
+친숙해
+	친숙/ncn+해/ncn
+
+보이기도
+	보이/pvg+기/etn+도/jxc
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+풀을
+	풀/pvg+ㄹ/etm
+
+뜯어
+	뜯/pvg+어/ecx
+
+주니
+	주/px+니/ecs
+
+낼름
+	낼름/ncn
+
+잘
+	잘/mag
+
+받아
+	받/pvg+아/ecx
+
+먹고
+	먹/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+귀엽기도
+	귀엽/paa+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+대관령
+	대관/ncn+령/ncn
+
+사슴목장에는
+	사슴/ncn+목장/ncn+에/jca+는/jxc
+
+고객들을
+	고객/ncn+들/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+편의시설을도
+	편의시설/ncpa+을/jco+도/jxc
+
+잘
+	잘/mag
+
+갖춰져
+	갖추/pvg+어/ecx+지/px+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+녹용이
+	녹용/ncn+이/jcc
+
+어떻게
+	어떻/pad+게/ecs
+
+만들어지는지
+	만들/pvg+어/ecx+지/px+는지/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+하루를
+	하루/ncn+를/jco
+
+묵어갈
+	묵/pvg+어/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+황토방도
+	황토/ncn+방/ncn+도/jxc
+
+준비를
+	준비/ncn+를/jco
+
+해두셨더군요
+	하/pvg+어/ecx+두/px+셨/ep+더군/ef+요/jxf
+
+.
+	./sf
+
+
+일반인들이
+	일반/ncn+이/jp+ㄴ/etm+들/nbn+이/jcc
+
+그냥
+	그냥/mag
+
+와서
+	오/px+아/ecs
+
+묵는
+	묵/pvg+는/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+곳이
+	곳/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+평생회원들을
+	평생/ncn+회원/ncn+들/ncn+을/jco
+
+위한,
+	위하/pvg+ㄴ/etm+,/sp
+
+혹은
+	혹은/maj
+
+지인들이
+	지/nbn+이/jp+ㄴ/etm+들/nbn+이/jcc
+
+묵어
+	묵/pvg+어/ecx
+
+갈
+	가/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+무상으로
+	무상/ncn+으로/jca
+
+지원하는
+	지원/ncpa+하/xsva+는/etm
+
+곳이라고
+	곳/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+목장주와
+	목장/ncn+주/ncn+와/jct
+
+친하신
+	친하/paa+시/ep+ㄴ/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+하루
+	하루/ncn
+
+묵어갈
+	묵/pvg+어/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+있겠지요
+	있/px+겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+부럽기만
+	부럽/paa+기/etn+만/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+그리고
+	그리고/maj
+
+목장에서
+	목장/ncn+에서/jca
+
+먹었던
+	먹/pvg+었/ep+던/etm
+
+한끼의
+	한/nnc+끼/nbu+의/jcm
+
+식사
+	식사/ncpa
+
+...
+	.../se
+
+
+시간도
+	시간/nbu+도/jxc
+
+소개를
+	소개/ncpa+를/jco
+
+해드려야지요
+	하/pvg+어/ecx+드리/px+어야지/ef+요/jxf
+
+.
+	./sf
+
+
+일반
+	일반/ncn
+
+음식점의
+	음식/ncn+점/ncn+의/jcm
+
+음식과는
+	음식/ncn+과/jct+는/jxc
+
+다른
+	다르/paa+ㄴ/etm
+
+것들이라
+	것들/ncn+이/jp+라/ef
+
+..
+	./sf+./sf
+
+
+오늘
+	오늘/ncn
+
+메뉴는
+	메뉴/ncn+는/jxc
+
+아참
+	아참/ii
+
+이곳은
+	이곳/npd+은/jxc
+
+식당이
+	식당/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+손님의
+	손님/ncn+의/jcm
+
+대접하는
+	대접/ncpa+하/xsva+는/etm
+
+곳이라
+	곳/ncn+이/jp+라/ecs
+
+딱히
+	딱히/mag
+
+메뉴가
+	메뉴/ncn+가/jcs
+
+없습니다
+	없/paa+습니다/ef
+
+.
+	./sf
+
+
+오늘
+	오늘/ncn
+
+먹게
+	먹/pvg+게/ecs
+
+될
+	되/pvg+ㄹ/etm
+
+건
+	거/nbn+은/jxc
+
+사슴불고기랑
+	사슴/ncn+불고기/ncn+랑/jxc
+
+사슴육회입니다
+	사슴육회입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+들어서는
+	들/pvg+어서/ecs+는/jxc
+
+어떻게
+	어떻/pad+게/ecs
+
+먹을까
+	먹/pvg+을까/ef
+
+고심을
+	고/ncn+이/jp+시/ep+ㅁ/etn+을/jco
+
+하게
+	하/pvg+게/ecs
+
+되는데요
+	되/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+보약이다
+	보약/ncn+이/jp+다/ef
+
+생각하고
+	생각/ncpa+하고/jct
+
+어떤
+	어떤/mmd
+
+맛일지
+	맛/ncn+이/jp+ㄹ지/ecs
+
+궁금하기도
+	궁금/ncps+하/xsms+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+기대를
+	기대/ncpa+를/jco
+
+하게
+	하/pvg+게/ecs
+
+되었습니다
+	되/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+김이
+	김/nbn+이/jcc
+
+모락모락
+	모락모락/mag
+
+..
+	./sf+./sf
+
+
+나는
+	나/npp+는/jxc
+
+상태로
+	상태/ncn+로/jca
+
+들어온
+	들/pvg+어/ecx+오/px+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+사슴불고기입니다
+	사슴/ncn+불고기/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+고기는
+	고/pvg+기/etn+는/jxc
+
+소고기처럼
+	소고/ncn+이/jp+기/etn+처럼/jca
+
+뭐그리
+	뭐그리/ncn
+
+다를거
+	다를거/ncn
+
+같지
+	같/paa+지/ecx
+
+않아
+	않/px+아/ecx
+
+보이는
+	보이/pvg+는/etm
+
+외형인데요
+	외형인데요/ncn
+
+.
+	./sf
+
+
+맛은
+	맛/ncn+은/jxc
+
+어떨까
+	어떨까/ncn
+
+싶어서
+	싶/px+어서/ecs
+
+한입
+	한입/ncn
+
+먹었지요
+	먹/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+음.
+	음/ncn+./sf
+
+.
+	./sf
+
+
+뭔가
+	뭔가/ncn
+
+향내가
+	향내/ncn+가/jcs
+
+나는
+	나/npp+는/jxc
+
+것이
+	것/nbn+이/jcc
+
+이것이
+	이것/npd+이/jcc
+
+한약재를
+	한약재/ncn+를/jco
+
+넣어서
+	넣/pvg+어서/ecs
+
+인가
+	일/pvg+ㄴ가/ef
+
+아니면
+	아니/paa+면/ecs
+
+고기의
+	고기/ncn+의/jcm
+
+특유
+	특유/ncps
+
+향인가
+	향/ncn+이/jp+ㄴ가/ef
+
+궁금하게
+	궁금/ncps+하/xsms+게/ecs
+
+하더군요
+	하/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+산초향같은
+	산초/ncn+향/ncn+같/xsmn+은/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+건데요
+	건데요/ncn
+
+...
+	.../se
+
+
+여쭤보니
+	여쭈/pvg+어/ecx+보/px+니/ecs
+
+사슴고기는
+	사슴고기/ncn+는/jxc
+
+열이
+	열/nnc+이/jcc
+
+가해지면
+	가/pvg+아/ecx+하/px+어/ecx+지/px+면/ecs
+
+특유의
+	특유/ncps+의/jcm
+
+향이
+	향/ncn+이/jcc
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+다른
+	다른/mma
+
+재료를
+	재료/ncn+를/jco
+
+넣어서
+	넣/pvg+어서/ecs
+
+중화를
+	중화/ncn+를/jco
+
+시켜보려고해도
+	시키/pvg+어/ecx+보/px+려고/ecx+하/px+어도/ecs
+
+
+그
+	그/mmd
+
+향은
+	향/ncn+은/jxc
+
+남는다고
+	남/pvg+는다/ef+고/jcr
+
+하시더구요
+	하시더구요/ncn
+
+.
+	./sf
+
+
+아주
+	아주/mag
+
+부드러운
+	부드럽/paa+은/etm
+
+맛은
+	맛/ncn+은/jxc
+
+아니고
+	아니/paa+고/ecc
+
+기름기가
+	기름기/ncn+가/jcs
+
+별로
+	별로/mag
+
+없는
+	없/paa+는/etm
+
+퍽퍽한
+	퍽퍽한/ncn
+
+느낌에
+	느끼/pvg+ㅁ/etn+에/jca
+
+향이
+	향/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+맛입니다
+	맛/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+향에
+	향/ncn+에/jca
+
+크게
+	크/paa+게/ecs
+
+민감하지
+	민감/ncps+하/xsms+지/ecx
+
+않다면
+	않/px+다면/ecs
+
+맛있게
+	맛있/paa+게/ecs
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+불고기인데요
+	불고기인데요/ncn
+
+.
+	./sf
+
+
+아무래도
+	아무렇/pad+어도/ecs
+
+전
+	전/nbn
+
+그
+	그/mmd
+
+향이
+	향/ncn+이/jcc
+
+좀
+	좀/mag
+
+방해를
+	방해/ncpa+를/jco
+
+하더군요
+	하/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+이건
+	이/npd+이/jp+건/ecc
+
+사슴육회입니다
+	사슴육회입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+육회를
+	육/nnc+회/nbu+를/jco
+
+좋아하시는
+	좋/paa+아/ecx+하/px+시/ep+는/etm
+
+분들이라면
+	불/pvg+ㄴ/etm+들/nbn+이/jp+라면/ecs
+
+반할만한
+	반하/pvg+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+맛입니다
+	맛/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+사슴고기라는
+	사슴고기/ncn+라는/jcm
+
+것때문에
+	것때문/ncn+에/jca
+
+망설여지는
+	망설이/pvg+어/ecx+지/px+는/etm
+
+부분이
+	부분/ncn+이/jcc
+
+없지
+	없/paa+지/ecx
+
+않았지만
+	않/px+아/ep+지만/ecs
+
+맛을
+	맛/ncn+을/jco
+
+보고
+	보/px+고/ecc
+
+나면
+	나/px+면/ecs
+
+젓가락이
+	젓가락/ncn+이/jcc
+
+좀더
+	좀더/mag
+
+활발하게
+	활발/ncps+하/xsms+게/ecs
+
+움직여
+	움직이/pvg+어/ecx
+
+질
+	지/px+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+불고기보다
+	불고기/ncn+보다/jca
+
+육회가
+	육/nnc+회/nbu+가/jcc
+
+더
+	더/mag
+
+낫다
+	낫/paa+다/ef
+
+싶은
+	싶/px+은/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들게
+	들/pvg+게/ecs
+
+했는데요
+	하/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+향도
+	향/ncn+도/jxc
+
+전혀
+	전혀/mag
+
+나지
+	나/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+부드러운
+	부드럽/paa+은/etm
+
+육질이
+	육/nnc+질/nbu+이/jcc
+
+살살녹는다고
+	살살녹는다/ncn+이/jp+고/ecc
+
+표현해도
+	표현/ncpa+해/ncn+도/jxc
+
+될
+	되/pvg+ㄹ/etm
+
+듯하더군요
+	듯하/paa+더군/ef+요/jxf
+
+.
+	./sf
+
+
+참기름이랑
+	참기름/ncn+이/jcs+랑/jxc
+
+다른
+	다른/mma
+
+양념장
+	양념장/ncn
+
+맛이
+	맛/ncn+이/jcc
+
+더
+	더/mag
+
+강하게
+	강하/paa+게/ecs
+
+느껴질
+	느끼/pvg+어/ecx+지/px+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+고기에
+	고/ncn+이/jp+기/etn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+비릿맛이나
+	비릿/ncps+맛/ncn+이나/jcj
+
+향은
+	향/ncn+은/jxc
+
+딱이
+	딱/ncn+이/jcc
+
+없어서
+	없/paa+어서/ecs
+
+좋았어요
+	좋/paa+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+육회는
+	육/nnc+회/nbu+는/jxc
+
+그럼
+	그렇/pad+ㅁ/etn
+
+어떤
+	어떤/mmd
+
+사슴으로
+	사슴/ncn+으로/jca
+
+만드는가
+	만들/pvg+는가/ecs
+
+궁금했는데
+	궁금/ncps+하/xsms+었/ep+는데/ecs
+
+...
+	.../se
+
+
+사슴은
+	사슴/ncn+은/jxc
+
+소랑
+	소/ncn+랑/jxc
+
+달리
+	달리/mag
+
+암컷이
+	암컷/ncn+이/jcc
+
+가치가
+	가치/ncn+가/jcs
+
+더
+	더/mag
+
+없다고
+	없/paa+다/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+수컷이나
+	수컷/ncn+이나/jcj
+
+매년
+	매년/ncn
+
+2~19살까지
+	2/nnc+~/sd+19/nnc+살/nbu+까지/jxc
+
+녹용을
+	녹용/ncn+을/jco
+
+생산해내니
+	생산/ncpa+하/xsva+어/ecx+내/px+니/ecs
+
+커다란
+	커다랗/paa+은/etm
+
+가치가
+	가치/ncn+가/jcs
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+암컷이
+	암컷/ncn+이/jcc
+
+탄생하면
+	탄생/ncpa+하/xsva+면/ecs
+
+무엇으로
+	무엇/npd+으로/jca
+
+생산효과를
+	생산/ncpa+효과/ncn+를/jco
+
+내겠어요
+	내/px+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+3년
+	3/nnc+년/nbu
+
+정도
+	정도/ncn
+
+된
+	되/pvg+ㄴ/etm
+
+암컷을
+	암컷/ncn+을/jco
+
+이렇게
+	이렇/pad+게/ecs
+
+사용한다고
+	사용/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이것도
+	이것/npd+도/jxc
+
+그
+	그/mmd
+
+옛날에는
+	옛날/ncn+에/jca+는/jxc
+
+사슴고기를
+	사슴고기/ncn+를/jco
+
+먹는다고는
+	먹/pvg+는다/ef+고/jcr+는/jxc
+
+상상을
+	상상/ncn+을/jco
+
+못했다고
+	못하/px+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+사슴
+	사슴/ncn
+
+한마리에
+	한/nnc+마리/nbu+에/jca
+
+집한채보다
+	집한채/ncn+보다/jca
+
+더
+	더/mag
+
+비싼
+	비싸/paa+ㄴ/etm
+
+가격이었으니
+	가격/ncn+이/jp+었/ep+으니/ecs
+
+말이죠
+	말/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+좋은
+	좋/paa+은/etm
+
+세상에서
+	세상/ncn+에서/jca
+
+살아서
+	살/pvg+아/ecx
+
+이렇게
+	이렇/pad+게/ecs
+
+사슴육회도
+	사슴육회/ncn+도/jxc
+
+먹어볼
+	먹/pvg+어/ecx+보/px+ㄹ/etm
+
+기회를
+	기회/ncn+를/jco
+
+가지게
+	가/pvg+아/ecx+지/px+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+이렇게
+	이렇/pad+게/ecs
+
+이날
+	이/nnc+날/nbu
+
+대관령
+	대관/ncn+령/ncn
+
+목장
+	목장/ncn
+
+구경에
+	구경/ncn+에/jca
+
+맛있는
+	맛있/paa+는/etm
+
+음식까지
+	음식/ncn+까지/jxc
+
+대접을
+	대접/ncn+을/jco
+
+받고
+	받/pvg+고/ecc
+
+왔었습니다
+	오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+사슴목장의
+	사슴/ncn+목장/ncn+의/jcm
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+생산품이라면
+	생산품/ncn+이/jp+라면/ecs
+
+단연
+	단연/mag
+
+녹용이겠지요
+	녹용/ncn+이/jp+겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+녹용을
+	녹용/ncn+을/jco
+
+달이는
+	달/nbu+이/jp+는/etm
+
+곳,
+	곳/ncn+,/sp
+
+생산하는
+	생산/ncpa+하/xsva+는/etm
+
+곳도
+	곳/ncn+도/jxc
+
+잠시
+	잠시/mag
+
+들렀는데요
+	들르/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+방금
+	방금/mag
+
+담아진
+	담/pvg+아/ecx+지/px+ㄴ/etm
+
+녹용중탕들이
+	녹용중탕들/ncn+이/jcc
+
+바닥에
+	바닥/ncn+에/jca
+
+식히고
+	식히/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+녹용은
+	녹용/ncn+은/jxc
+
+수사슴의
+	수사슴/ncn+의/jcm
+
+뿔이
+	뿔/ncn+이/jcc
+
+딱딱하게
+	딱딱하/paa+게/ecs
+
+굳어지기
+	굳/paa+어/ecx+지/px+기/etn
+
+전에
+	전/nbn+에/jca
+
+뿔이
+	뿔/ncn+이/jcc
+
+올라오고
+	오르/pvg+아/ecx+오/px+고/ecc
+
+3개월
+	3/nnc+개월/nbu
+
+안으로
+	안/ncn+으로/jca
+
+잘라낸다고
+	자르/pvg+아/ecx+내/px+ㄴ다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+뿔을
+	뿔/ncn+을/jco
+
+잘라낸후
+	자르/pvg+아/ecx+내/px+ㄴ후/ef
+
+딱딱하게
+	딱딱하/paa+게/ecs
+
+굳어진
+	굳/paa+어/ecx+지/px+ㄴ/etm
+
+뿔은
+	뿔/ncn+은/jxc
+
+이듬해
+	이듬해/ncn
+
+겨울을
+	겨울/ncn+을/jco
+
+지나면서
+	지나/pvg+면서/ecc
+
+저절로
+	저절로/mag
+
+떨어져
+	떨어지/pvg+어/ecx
+
+나가는데요
+	나/pvg+아/ecx+가/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+그것으
+	그것으/ncn
+
+낙각이라고
+	낙각/ncn+이/jp+라/ef+고/jcr
+
+하고요
+	하/px+고요/ef
+
+.
+	./sf
+
+
+낙각된
+	낙각된/ncn
+
+후에
+	후/ncn+에/jca
+
+저절로
+	저절로/mag
+
+새로운
+	새롭/paa+은/etm
+
+뿔이
+	뿔/ncn+이/jcc
+
+돋아나고
+	돋아나/pvg+고/ecc
+
+90일
+	90/nnc+이/jp+ㄹ/etm
+
+안으로
+	안/ncn+으로/jca
+
+다시
+	다시/mag
+
+잘라내는
+	자르/pvg+아/ecx+내/px+는/etm
+
+이런
+	이런/mmd
+
+반복을
+	반복/ncpa+을/jco
+
+하는
+	하/pvg+는/etm
+
+것이지요
+	것/nbn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+비싸서
+	비싸/paa+아/ecx
+
+맘껏
+	맘껏/mag
+
+사먹지도
+	사먹지/ncn+도/jxc
+
+못하는
+	못하/px+는/etm
+
+녹중탕이
+	녹중탕/ncn+이/jcc
+
+이렇게
+	이렇/pad+게/ecs
+
+방가득
+	방가득/ncn
+
+뿌려져
+	뿌리/pvg+어/ecx+지/px+어/ecx
+
+있으니
+	있/px+으니/ecs
+
+눈이
+	눈/ncn+이/jcc
+
+휘둥그레
+	휘둥그레/ncn
+
+...
+	.../se
+
+
+이날
+	이/nnc+날/nbu
+
+나와
+	나/npp+와/jcj
+
+조카를
+	조카/ncn+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+마련해온
+	마련/ncpa+하/xsva+어/ecx+오/px+ㄴ/etm
+
+녹용중탕
+	녹용중탕/ncn
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+직접
+	직접/mag
+
+며칠
+	며칠/ncn
+
+먹어보고
+	먹/pvg+어/ecx+보/px+고/ecc
+
+어떤
+	어떤/mmd
+
+효과가
+	효과/ncn+가/jcs
+
+있는지
+	있/px+는지/ecs
+
+실험을
+	실험/ncpa+을/jco
+
+해보려구요
+	해보려구요/ncn
+
+.
+	./sf
+
+
+딱히
+	딱히/mag
+
+몸이
+	몸/ncn+이/jcc
+
+안좋거나
+	안좋거/ncn+나/jcj
+
+한
+	한/nnc
+
+건
+	거/nbn+은/jxc
+
+아닌데
+	아니/paa+ㄴ데/ecs
+
+무슨
+	무슨/mmd
+
+변화가
+	변화/ncpa+가/jcc
+
+있을
+	있/px+을/etm
+
+건지
+	것/nbn+이/jp+ㄴ지/ecs
+
+알
+	알/pvg+ㄹ/etm
+
+수는
+	수/nbn+는/jxc
+
+없지만
+	없/paa+지만/ecs
+
+그래도
+	그래도/maj
+
+궁금하긴
+	궁금하긴/ncn
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+좋은
+	좋/paa+은/etm
+
+환경에서
+	환경/ncn+에서/jca
+
+자연과
+	자연/ncn+과/jct
+
+함께
+	함께/mag
+
+자란
+	자라/pvg+ㄴ/etm
+
+사슴에서
+	사슴/ncn+에서/jca
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+거라
+	것/nbn+이/jp+라/ecs
+
+효과도
+	효과/ncn+도/jxc
+
+다르다고
+	다르/paa+다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+더욱
+	더욱/mag
+
+기대가
+	기대/pvg+어/ecx+가/px+아/ecx
+
+되긴
+	되긴/ncn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이미
+	이미/mag
+
+매스컴을
+	매스컴/ncn+을/jco
+
+통해서
+	통하/pvg+어서/ecs
+
+소개도
+	소개/ncpa+도/jxc
+
+많이
+	많/paa+이/xsa
+
+되고
+	되/pvg+고/ecc
+
+해서
+	하/pvg+어서/ecs
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+곳이라고
+	곳/ncn+이/jp+라/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+몸에
+	몸/ncn+에/jca
+
+좋은
+	좋/paa+은/etm
+
+제품을
+	제품/ncn+을/jco
+
+선호하시는
+	선호/ncpa+하/xsva+시/ep+는/etm
+
+분들이라면
+	불/pvg+ㄴ/etm+들/nbn+이/jp+라면/ecs
+
+관심
+	관심/ncn
+
+가져볼만한
+	가/pvg+아/ecx+지/px+어/ecx+보/px+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+곳이
+	곳/ncn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+대관령
+	대관/ncn+령/ncn
+
+삼양목장,
+	삼양목장,/ncn
+
+양떼목장의
+	양떼/ncn+목장/ncn+의/jcm
+
+그
+	그/mmd
+
+배경을
+	배경/ncn+을/jco
+
+상상하고
+	상상/ncn+하고/jct
+
+떠난
+	떠나/pvg+ㄴ/etm
+
+대관령
+	대관/ncn+령/ncn
+
+사슴목장은
+	사슴/ncn+목장/ncn+은/jxc
+
+그곳과는
+	그곳/ncn+과/jct+는/jxc
+
+또다른
+	또다른/mma
+
+분위기였습니다
+	분위기/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+조금더
+	조금더/ncn
+
+가파른
+	가파르/paa+ㄴ/etm
+
+산세에
+	산세/ncn+에/jca
+
+험준한
+	험준/ncps+하/xsms+ㄴ/etm
+
+지형을
+	지형/ncn+을/jco
+
+가져서
+	가/pvg+아/ecx+지/px+어서/ecs
+
+엘크사슴들이
+	엘크사슴들/ncn+이/jcc
+
+살아가기에
+	살/pvg+아/ecx+가/px+기/etn+에/jca
+
+적합한
+	적합/ncn+한/ncn
+
+환경을
+	환경/ncn+을/jco
+
+갖고
+	갖/pvg+고/ecc
+
+있었어요
+	있/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+주로
+	주로/mag
+
+산악지대에서
+	산악지대/ncn+에서/jca
+
+추운곳에서
+	추운곳/ncn+에서/jca
+
+살아가는
+	살/pvg+아/ecx+가/px+는/etm
+
+사슴들이
+	사슴/ncn+들/ncn+이/jcc
+
+더
+	더/mag
+
+좋은
+	좋/paa+은/etm
+
+녹용을
+	녹용/ncn+을/jco
+
+생산해
+	생산/ncpa+하/xsva+어/ecx
+
+낸다고
+	내/px+ㄴ다/ef+고/jcr
+
+들었는데요
+	들/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그래서인지
+	그래서인지/ncn
+
+대관령
+	대관/ncn+령/ncn
+
+사슴목장의
+	사슴/ncn+목장/ncn+의/jcm
+
+주변은
+	주변/ncn+은/jxc
+
+으레
+	으레/mag
+
+우리가
+	우리/npp+가/jcs
+
+평화롭고
+	평화/ncn+롭/xsmn+고/ecc
+
+초원처럼
+	초원/ncn+처럼/jca
+
+보이던
+	보이/pvg+던/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+산과는
+	산/ncn+과/jct+는/jxc
+
+모습이
+	모습/ncn+이/jcc
+
+달랐습니다
+	다르/paa+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+산기슭으로
+	산기슭/ncn+으로/jca
+
+깊숙이
+	깊숙이/mag
+
+들어온
+	들/pvg+어/ecx+오/px+ㄴ/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+느낌이라
+	느낌/ncn+이/jp+라/ecs
+
+공기도
+	공기/nbu+도/jxc
+
+좋구요
+	좋구요/ncn
+
+.
+	./sf
+
+
+나무가
+	나무/ncn+가/jcs
+
+많은
+	많/paa+은/etm
+
+것이
+	것/nbn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+풀이
+	풀이/ncpa
+
+우거진
+	우거/ncpa+진/ncn
+
+곳.
+	곳/ncn+./sf
+
+지금은
+	지금/ncn+은/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+푸르다지만
+	푸르다/ncn+이/jp+지만/ecs
+
+식용이
+	식용/ncn+이/jcc
+
+왕성한
+	왕성/ncn+한/ncn
+
+사슴들이
+	사슴/ncn+들/ncn+이/jcc
+
+풀을
+	풀/pvg+ㄹ/etm
+
+끝없이
+	끝없이/mag
+
+뜯어
+	뜯/pvg+어/ecx
+
+먹어서
+	먹/pvg+어서/ecs
+
+흙이
+	흙/ncn+이/jcc
+
+보일
+	보이/pvg+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+깨끗해진다고
+	깨끗해지/pvg+ㄴ다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그러면
+	그러면/maj
+
+다시
+	다시/mag
+
+다른
+	다르/paa+ㄴ/etm
+
+장소로
+	장소/ncn+로/jca
+
+이동하게
+	이동/ncpa+하/xsva+게/ecs
+
+하고
+	하/pvg+고/ecc
+
+그렇게
+	그렇/pad+게/ecs
+
+한해동안
+	한해/ncn+동안/ncn
+
+이동하면서
+	이동/ncpa+하/xsva+면서/ecc
+
+22만평
+	22/nnc+만/nnc+평/nbu
+
+이상의
+	이상/ncn+의/jcm
+
+산속을
+	산속/ncn+을/jco
+
+다니게
+	다니/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+것이지요
+	것/nbn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+아직은
+	아직/mag+은/jxc
+
+일반인들의
+	일반/ncn+이/jp+ㄴ/etm+들/nbn+의/jcm
+
+체험여행지로는
+	체험/ncpa+여행지/ncn+로/jca+는/jxc
+
+개발이
+	개발/ncn+이/jcc
+
+되지
+	되/pvg+지/ecx
+
+않은
+	않/px+은/etm
+
+곳이지만,
+	곳/ncn+이/jp+지만/ecs+,/sp
+
+앞으로
+	앞/ncn+으로/jca
+
+일반인들이
+	일반/ncn+이/jp+ㄴ/etm+들/nbn+이/jcc
+
+출입하는
+	출입/ncpa+하/xsva+는/etm
+
+사슴농장
+	사슴농장/ncn
+
+체험코스로
+	체험/ncpa+코스/ncn+로/jca
+
+개발해도
+	개발/ncn+해/ncn+도/jxc
+
+좋겠다
+	좋/paa+겠/ep+다/ef
+
+싶은
+	싶/px+은/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들었습니다
+	들/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+일반적으로
+	일반/ncn+적/ncn+으로/jca
+
+녹용을
+	녹용/ncn+을/jco
+
+생산하는
+	생산/ncpa+하/xsva+는/etm
+
+사슴으로서만의
+	사슴/ncn+으로서/jca+만의/jcm
+
+이미지만이
+	이미지만/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+아이들과
+	아이/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+자연을
+	자연/ncn+을/jco
+
+만나고
+	만나/pvg+고/ecc
+
+동물과
+	동물/ncn+과/jct
+
+가까이
+	가까이/mag
+
+하는
+	하/pvg+는/etm
+
+체험현장으로도
+	체험/ncpa+현장/ncn+으로/jca+도/jxc
+
+좋겠다
+	좋/paa+겠/ep+다/ef
+
+싶었구요
+	싶었구요/ncn
+
+.
+	./sf
+
+
+좋은
+	좋/paa+은/etm
+
+제품이
+	제품/ncn+이/jcc
+
+있다면
+	있/px+다면/ecs
+
+생산자로부터
+	생산자/ncn+로/jca+부터/jxc
+
+직접
+	직접/mag
+
+구매를
+	구/nnc+매/nbu+를/jco
+
+하면
+	하/pvg+면/ecs
+
+소비자에게도
+	소비자/ncn+에게/jca+도/jxc
+
+이득이
+	이득/ncn+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+테구요
+	테구요/ncn
+
+.
+	./sf
+
+
+특정한
+	특정/ncps+하/xsms+ㄴ/etm
+
+사람들만이
+	사람들/ncn+만/ncn+이/jcc
+
+찾는
+	찾/pvg+는/etm
+
+사슴목장이
+	사슴/ncn+목장/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+일반인들에게도
+	일반/ncn+이/jp+ㄴ/etm+들/nbn+에게/jca+도/jxc
+
+가까워지는
+	가깝/paa+어/ecx+지/px+는/etm
+
+계기가
+	계기/ncn+가/jcs
+
+되길
+	되길/ncn
+
+기대를
+	기대/ncpa+를/jco
+
+해봅니다
+	하/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+넓은
+	넓/paa+은/etm
+
+목장에
+	목장/ncn+에/jca
+
+자연방목으로
+	자연/ncn+방목/ncpa+으로/jca
+
+키운
+	키우/pvg+ㄴ/etm
+
+사슴들이라
+	사슴/ncn+들이/ncn+이/jp+라/ecs
+
+그
+	그/mmd
+
+생산품의
+	생산품/ncn+의/jcm
+
+질도
+	질/nbu+도/jxc
+
+믿을만
+	믿/pvg+을/etm+만/nbs
+
+하다는걸
+	하다는걸/ncn
+
+직접
+	직접/mag
+
+체험으로
+	체험/ncpa+으로/jca
+
+알아가는
+	알/pvg+아/ecx+가/px+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋은
+	좋/paa+은/etm
+
+기회가
+	기회/ncn+가/jcs
+
+될
+	되/pvg+ㄹ/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+지인의
+	지인/ncn+의/jcm
+
+초청덕에
+	초청/ncpa+덕/ncn+에/jca
+
+이런
+	이런/mmd
+
+독특한
+	독특/ncps+하/xsms+ㄴ/etm
+
+체험기회도
+	체험/ncpa+기회/ncn+도/jxc
+
+가졌었는데요
+	가/pvg+아/ecx+지/px+었었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+사슴에
+	사슴/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+이야기를
+	이야기/ncpa+를/jco
+
+듣는
+	듣/pvg+는/etm
+
+것으로도
+	것/nbn+으로/jca+도/jxc
+
+참
+	참/mag
+
+재밌더라구요
+	재밌더라구요/ncn
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+정보를
+	정보/ncn+를/jco
+
+얻는
+	얻/pvg+는/etm
+
+기회로,
+	기회/ncn+로/jca+,/sp
+
+좋은
+	좋/paa+은/etm
+
+제품을
+	제품/ncn+을/jco
+
+소개하는
+	소개/ncpa+하/xsva+는/etm
+
+기회로든
+	기회/ncn+로/jca+든/jxc
+
+일반
+	일반/ncn
+
+여행객들에게도
+	여행객/ncn+들/ncn+에게/jca+도/jxc
+
+가까워지는
+	가깝/paa+어/ecx+지/px+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+되면
+	되/pvg+면/ecs
+
+좋겠습니다
+	좋/paa+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+강원도
+	강원/ncn+도/jxc
+
+평창군
+	평창군/ncn
+
+대관령면
+	대관/ncn+령/ncn+면/xsncc
+
+차항리
+	차항리/ncn
+
+산1-11번지
+	산1-11번지/ncn
+
+
+033-336-8889
+	033/nnc+-336/nnc+-8889/nnc
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+daesungdeer.
+	daesungdeer/f+./sy
+
+co.
+	co/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+대관령사슴목장입구
+	대관령사슴목장입구/ncn
+
+
+강원도
+	강원/ncn+도/jxc
+
+평창군
+	평창군/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01696901",
+	"bl01696901",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"15788708",
+	"/sl+15788708/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"대관령사슴목장입구",
+	title:"대관령사슴목장입구",/ncn
+
+pointX:463219,pointY:566894}
+	pointX/f+:/sp+463219/nnc+,/sp+pointY/f+:/sp+566894/nnc+}/sr

@@ -1,0 +1,437 @@
+(오클랜드=연합뉴스)
+	(오클랜드=연합뉴스)/ncn
+
+고한성
+	고한/ncn+성/ncn
+
+통신원=
+	통신원=/ncn
+
+나이가
+	나이/ncn+가/jcs
+
+들어
+	들/pvg+어/ecx
+
+함께
+	함께/mag
+
+식사하고
+	식사/ncpa+하고/jct
+
+기억력
+	기억력/ncn
+
+좋은
+	좋/paa+은/etm
+
+사람이
+	사람/ncn+이/jcc
+
+오래
+	오래/mag
+
+사는
+	사/pvg+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+뉴질랜드에서
+	뉴질랜드/ncn+에서/jca
+
+실시된
+	실시/ncpa+되/xsvn+ㄴ/etm
+
+연구에서
+	연구/ncpa+에서/jca
+
+밝혀졌다
+	밝히/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+오클랜드
+	오클랜드/ncn
+
+대학
+	대학/ncn
+
+연구팀은
+	연구팀/ncn+은/jxc
+
+뉴질랜드
+	뉴질랜드/ncn
+
+원주민인
+	원주민/ncn+이/jp+ㄴ/etm
+
+80세에서
+	80/nnc+세/nbu+에서/jca
+
+90세
+	90/nnc+세/nnc
+
+사이
+	사이/ncn
+
+마오리
+	마오리/ncn
+
+420명,
+	420/nnc+명/nbu+,/sp
+
+85세
+	85/nnc+세/nnc
+
+비
+	비/ncn
+
+마오리
+	마오리/ncn
+
+510명을
+	510/nnc+명/nbu+을/jco
+
+대상으로
+	대상/ncn+으로/jca
+
+장기간에
+	장기간/ncn+에/jca
+
+걸쳐
+	걸치/pvg+어/ecx
+
+연구를
+	연구/ncpa+를/jco
+
+실시한
+	실시/ncpa+하/xsva+ㄴ/etm
+
+결과
+	결과/ncn
+
+그
+	그/mmd
+
+같은
+	같/paa+은/etm
+
+사실이
+	사실/ncn+이/jcc
+
+드러났다고
+	드러나/pvg+아/ep+다/ef+고/jcr
+
+14일
+	14/nnc+일/nbu
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+연구에서
+	연구/ncpa+에서/jca
+
+마오리들은
+	마오리들/ncn+은/jxc
+
+자신들의
+	자신/ncn+들/ncn+의/jcm
+
+문화와
+	문화/ncn+와/jct
+
+밀착된
+	밀착/ncpa+되/xsvn+ㄴ/etm
+
+생활을
+	생활/ncpa+을/jco
+
+하는
+	하/pvg+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+삶의
+	삶/ncn+의/jcm
+
+질이
+	질/nbu+이/jcc
+
+더
+	더/mag
+
+좋은
+	좋/paa+은/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타났다
+	나타나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+연구팀을
+	연구팀/ncn+을/jco
+
+이끌었던
+	이끌/pvg+었/ep+던/etm
+
+나이어
+	나/npp+이/jp+어/ecs
+
+커스
+	커스/ncn
+
+교수는
+	교수/ncr+는/jxc
+
+2년
+	2/nnc+년/nbu
+
+전
+	전/nbn
+
+연구를
+	연구/ncpa+를/jco
+
+시작한
+	시작/ncpa+하/xsva+ㄴ/etm
+
+이후
+	이후/ncn
+
+밝혀진
+	밝히/pvg+어/ecx+지/px+ㄴ/etm
+
+사실로는
+	사실/ncn+로/jca+는/jxc
+
+다른
+	다르/paa+ㄴ/etm
+
+사람들과
+	사람들/ncn+과/jct
+
+함께
+	함께/mag
+
+식사를
+	식사/ncpa+를/jco
+
+하는
+	하/pvg+는/etm
+
+사람들보다
+	사람들/ncn+보다/jca
+
+혼자
+	혼자/mag
+
+식사하는
+	식사/ncpa+하/xsva+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+영양
+	영양/ncn
+
+섭취와
+	섭취/ncpa+와/jct
+
+관련된
+	관련/ncpa+되/xsvn+ㄴ/etm
+
+위험이
+	위험/ncn+이/jcc
+
+더
+	더/mag
+
+높은
+	높/paa+은/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타났다고
+	나타나/pvg+아/ep+다/ef+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+그는
+	그/npp+는/jxc
+
+"혼자
+	"/sl+혼자/mag
+
+식사하는
+	식사/ncpa+하/xsva+는/etm
+
+것은
+	것/nbn+은/jxc
+
+매우
+	매우/mag
+
+중요한
+	중요/ncps+하/xsms+ㄴ/etm
+
+요소로
+	요소/ncn+로/jca
+
+우리들은
+	우리들/npp+은/jxc
+
+어떻게
+	어떻/pad+게/ecs
+
+하면
+	하/pvg+면/ecs
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+함께
+	함께/mag
+
+식사하게
+	식사/ncpa+하/xsva+게/ecs
+
+만들
+	만들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을까를
+	있을까/ncn+를/jco
+
+생각하지
+	생각/ncpa+하/xsva+지/ecx
+
+않으면
+	않/px+으면/ecs
+
+안
+	안/mag
+
+될
+	되/pvg+ㄹ/etm
+
+것"이라고
+	것/nbn+"/sr+이/jp+라/ef+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+그는
+	그/npp+는/jxc
+
+또
+	또/maj
+
+심혈관
+	심혈/ncn+관/ncn
+
+질환이
+	질환/ncn+이/jcc
+
+약
+	약/ncn
+
+복용
+	복용/ncpa
+
+등으로
+	등/nbu+으로/jca
+
+이어지면서
+	잇/pvg+어/ecx+지/px+면서/ecc
+
+기억력
+	기억력/ncn
+
+테스트에서
+	테스트/ncpa+에서/jca
+
+낮은
+	낮/paa+은/etm
+
+점수를
+	점수/ncn+를/jco
+
+받는
+	받/pvg+는/etm
+
+것과
+	것/nbn+과/jcj
+
+관련이
+	관련/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타났다면서
+	나타나/pvg+아/ep+다면서/ecs
+
+기억력
+	기억력/ncn
+
+저하가
+	저하/ncpa+가/jcc
+
+장수에
+	장수/ncpa+에/jca
+
+방해가
+	방해/ncpa+가/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+가능성이
+	가능성/ncn+이/jcc
+
+높은
+	높/paa+은/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타났다고
+	나타나/pvg+아/ep+다/ef+고/jcr
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+
+출처:연합뉴스
+	출처/ncn+:/sp+연합/ncpa+뉴스/ncn

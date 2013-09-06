@@ -1,0 +1,277 @@
+4대강
+	4대강/ncn
+
+준설량
+	준설량/ncn
+
+1억
+	1/nnc+억/nnc
+
+돌파
+	돌파/ncpa
+
+홍수위
+	홍수/ncn+위/ncn
+
+저감
+	저감/ncpa
+
+
+[경제
+	[/sl+경제/ncn
+
+투데이]
+	투데이/ncn+]/sr
+
+2010.
+	2010./nnc
+
+06.
+	06./nnc
+
+2815
+	2815/nnc
+
+:00
+	:/sp+00/nnc
+
+
+외부
+	외부/ncn
+
+링크로
+	링크/ncpa+로/jca
+
+첨부된
+	첨부/ncpa+되/xsvn+ㄴ/etm
+
+음악,
+	음악/ncn+,/sp
+
+동영상은재생이
+	동영상은재생/ncn+이/jcc
+
+지원되지
+	지원/ncpa+되/xsvn+지/ecx
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+외부
+	외부/ncn
+
+링크로
+	링크/ncpa+로/jca
+
+첨부된
+	첨부/ncpa+되/xsvn+ㄴ/etm
+
+음악,
+	음악/ncn+,/sp
+
+동영상은재생이
+	동영상은재생/ncn+이/jcc
+
+지원되지
+	지원/ncpa+되/xsvn+지/ecx
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+4대강살리기추진본부는
+	4대강살리기추진본부/ncn+는/jxc
+
+4대강
+	4대강/ncn
+
+살리기
+	사/pvg+ㄹ/etm+리/nbn+이/jp+기/etn
+
+사업의
+	사업/ncn+의/jcm
+
+핵심
+	핵심/ncn
+
+공정
+	공정/ncn
+
+가운데
+	가운데/ncn
+
+하나인
+	하나/nnc+이/jp+ㄴ/etm
+
+준설량이
+	준설량/ncn+이/jcc
+
+
+1억
+	1/nnc+억/nnc
+
+를
+	를/ncn
+
+돌파했다고
+	돌파/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+밝혔습니다
+	밝히/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+당초
+	당초/ncn
+
+목표량이
+	목표량/ncn+이/jcc
+
+5억
+	5/nnc+억/nnc
+
+2천만
+	2/nnc+천/nnc+만/jxc
+
+인
+	일/pvg+ㄴ/etm
+
+점을
+	점/nbu+을/jco
+
+고려하면
+	고/pvg+려/ecx+하/px+면/ecs
+
+공정률
+	공정/ncn+률/ncn
+
+20%
+	20/nnc+%/su
+
+이상이
+	이상/ncn+이/jcc
+
+진척된
+	진척/ncpa+되/xsvn+ㄴ/etm
+
+것으로,
+	것/nbn+으로/jca+,/sp
+
+
+하천에서
+	하천/ncn+에서/jca
+
+1억
+	1/nnc+억/nnc
+
+의
+	의/ncn
+
+흙을
+	흙/ncn+을/jco
+
+퍼낸
+	푸/pvg+어/ecx+내/px+ㄴ/etm
+
+만큼
+	만큼/nbn
+
+물을
+	물/ncn+을/jco
+
+담을
+	담/ncn+을/jco
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+물그릇이
+	물그릇/ncn+이/jcc
+
+그
+	그/mmd
+
+만큼
+	만큼/nbn
+
+커져
+	크/paa+어/ecx+지/px+어/ecx
+
+홍수위가
+	홍수/ncn+위/ncn+가/jcs
+
+저감될
+	저감/ncpa+되/xsvn+ㄹ/etm
+
+것으로
+	것/nbn+으로/jca
+
+국토부는
+	국토/ncn+부/ncn+는/jxc
+
+내다봤습니다
+	내다보/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+(KTV
+	(/sl+KTV/f
+
+한국정책방송
+	한국정책방송/ncn
+
+케이블방송,
+	케이블방송/ncn+,/sp
+
+위성방송
+	위성방송/ncpa
+
+ch520
+	ch520/ncn
+
+www.
+	www/f+./sy
+
+ktv.
+	ktv/f+./sy
+
+go.
+	go/f+./sy
+
+kr
+	kr/f
+
+)저작권자
+	)/sr+저작권자/ncn
+
+한국정책방송원
+	한국정책방송원/ncn
+
+무단전재
+	무단/ncn+전재/ncn
+
+및
+	및/maj
+
+재배포
+	재배/ncpa+포/ncn
+
+금지
+	금지/ncn

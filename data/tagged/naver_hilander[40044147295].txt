@@ -1,0 +1,99 @@
+신사동
+	신사/ncr+동/ncn
+
+가로수길에
+	가로수/ncn+길/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+스쿨푸드
+	스쿨/ncn+푸드/ncn
+
+..
+	./sf+./sf
+
+
+배달이
+	배달/ncpa+이/jcc
+
+되기때문에
+	되기때문/ncn+에/jca
+
+
+에
+	에/pvg+어/ecx
+
+들른길에
+	들른길/ncn+에/jca
+
+시켜
+	시키/pvg+어/ecx
+
+먹었다
+	먹/pvg+었/ep+다/ef
+
+
+아담한
+	아담/ncps+하/xsms+ㄴ/etm
+
+김밥을
+	김밥/ncn+을/jco
+
+매콤한
+	매콤한/ncn
+
+떡볶이
+	떡볶이/ncn
+
+국물에
+	국물/ncn+에/jca
+
+찍어먹으면
+	찍어먹으/ncn+이/jp+면/ecs
+
+굿~
+	굿/ncpa+~/sd
+
+!
+	!/sf
+
+
+언제적이었나
+	언제적/ncn+이/jp+었/ep+나/ef
+
+..
+	./sf+./sf
+
+
+여름에
+	여름/ncn+에/jca
+
+찍은걸
+	찍은걸/ncn
+
+이제
+	이제/mag
+
+올리네
+	오/px+ㄹ/etm+리/nbn+이/jp+네/ef
+
+..
+	./sf+./sf
+
+
+-.-;;
+	-/sd+./sf+-/sd+;/sy+;/sy
+
+
+갑자기
+	갑자기/mag
+
+먹고싶어서
+	먹/pvg+고/ecx+싶/px+어서/ecs
+
+올려본다~
+	올리/pvg+어/ecx+보/px+ㄴ다/ef+~/sd
+
+T_T
+	T_T/ncn

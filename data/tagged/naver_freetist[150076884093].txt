@@ -1,0 +1,696 @@
+저녁
+	저녁/ncn
+
+먹으러
+	먹/pvg+으러/ecs
+
+죽전카페거리
+	죽전카페거리/ncn
+
+갔다가
+	가/px+아/ep+다가/ecs
+
+...
+	.../se
+
+
+새우사랑을
+	새우/ncn+사랑/ncn+을/jco
+
+기웃거려보니
+	기웃거리/pvg+어/ecx+보/px+니/ecs
+
+...
+	.../se
+
+
+일요일은
+	일요일/ncn+은/jxc
+
+휴무
+	휴무/ncpa
+
+...
+	.../se
+
+
+결국저녁을
+	결국/ncn+저녁/ncn+을/jco
+
+해결하기
+	해결/ncpa+하/xsva+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+그
+	그/mmd
+
+전에
+	전/nbn+에/jca
+
+봐두었던
+	보/pvg+아/ecx+두/px+었/ep+던/etm
+
+벨루카테이블로
+	벨루카테이블/ncn+로/jca
+
+가봅니다
+	가/pvg+아/ecx+보/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+밖에서
+	밖/ncn+에서/jca
+
+바로본
+	바로본/ncn
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+모던한
+	모/ncn+이/jp+던/etm+한/nbn
+
+인테리어~
+	인테리어/ncn+~/sd
+
+
+내부로
+	내부/ncn+로/jca
+
+들어가봅니다
+	들/pvg+어/ecx+가/px+아/ecx+보/px+ㅂ니다/ef
+
+...
+	.../se
+
+
+한산할
+	한산할/ncn
+
+때
+	때/ncn
+
+가서
+	가/pvg+서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+손님들은
+	손님/ncn+들/ncn+은/jxc
+
+그렇게
+	그렇/pad+게/ecs
+
+많지는
+	많/paa+지/ecs+는/jxc
+
+않았습니다
+	않/px+아/ep+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+주문하고
+	주문/ncn+하고/jct
+
+나서
+	나/px+서/ecs
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+홍차와
+	홍차/ncn+와/jcj
+
+아메리카노~
+	아메리카노~/ncn
+
+컵이
+	컵/ncn+이/jcc
+
+이쁘네요
+	이쁘/paa+네/ef+요/jxf
+
+...
+	.../se
+
+
+마음에
+	마음/ncn+에/jca
+
+듭니다
+	들/pvg+ㅂ니다/ef
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+창밖에
+	창밖/ncn+에/jca
+
+내린
+	내리/pvg+ㄴ/etm
+
+어둠을
+	어둠/ncn+을/jco
+
+향해
+	향하/pvg+어/ecx
+
+한
+	하/pvg+ㄴ/etm
+
+컷~
+	컷/nbu+~/sd
+
+
+주문한
+	주문/ncn+한/ncn
+
+크림샐러드(8,500원)
+	크림샐러드(8,500원)/ncn
+
+...
+	.../se
+
+
+비주얼만큼이나
+	비주/ncn+얼/ncn+만큼/jca+이나/jxc
+
+크림소스와
+	크림/ncn+소스/ncn+와/jct
+
+잘
+	잘/mag
+
+어우러진
+	어우러지/pvg+ㄴ/etm
+
+샐러드
+	샐러드/ncn
+
+...
+	.../se
+
+
+같이
+	같/paa+이/xsa
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+블라카브레드와
+	블라카브레드/ncn+와/jct
+
+같이
+	같/paa+이/xsa
+
+먹으니
+	먹/pvg+으니/ecs
+
+..
+	./sf+./sf
+
+
+크림파스타를
+	크림/ncn+파스타/ncn+를/jco
+
+먹는
+	먹/pvg+는/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+느낌과
+	느끼/pvg+ㅁ/etn+과/jct
+
+비슷하면서도
+	비슷/ncps+하/xsms+면서/ecs+도/jxc
+
+다른
+	다른/mma
+
+느낌
+	느끼/pvg+ㅁ/etn
+
+...
+	.../se
+
+
+빵이
+	빵/ncn+이/jcc
+
+씹히는
+	씹히/pvg+는/etm
+
+식감이
+	식감/ncn+이/jcc
+
+맘에들어서
+	맘에들어/ncn+서/jca
+
+좋았습니다
+	좋/paa+아/ep+ㅂ니다/ef
+
+...
+	.../se
+
+
+이거
+	이거/npd
+
+좋더군요
+	좋/paa+더군/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+주문한
+	주문/ncn+한/ncn
+
+멜팅할라피뇨(8,500원)
+	멜팅할라피뇨(8,500원)/ncn
+
+...
+	.../se
+
+
+치즈와
+	치즈/ncn+와/jcj
+
+할라피뇨가
+	할라피뇨/ncn+가/jcs
+
+잘
+	잘/mag
+
+조화된
+	조화/ncn+되/xsvn+ㄴ/etm
+
+블라카
+	블라카/ncn
+
+...
+	.../se
+
+
+그래도
+	그래도/maj
+
+저는
+	저/npp+는/jxc
+
+이거보단
+	이거보단/ncn
+
+크림샐러드가
+	크림/ncn+샐러드/ncn+가/jcs
+
+좋더군요
+	좋/paa+더군/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+저녁식사를
+	저녁식사/ncpa+를/jco
+
+잘
+	잘/mag
+
+해결하게
+	해결/ncpa+하/xsva+게/ecs
+
+해준
+	하/pvg+어/ecx+주/px+ㄴ/etm
+
+벨루카테이블입니다
+	벨루카테이블입니/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+일단차가
+	일단/ncn+차/ncn+가/jcs
+
+나오고서도
+	나/pvg+아/ecx+오/px+고서/ecs+도/jxc
+
+한참(15분
+	한참(15분/ncn
+
+정도
+	정도/ncn
+
+..)
+	./sf+./sf+)/sr
+
+
+지나서
+	지나/pvg+아/ecx
+
+본
+	보/px+ㄴ/etm
+
+메뉴가
+	메뉴/ncn+가/jcs
+
+나오기는
+	나/pvg+아/ecx+오/px+기/etn+는/jxc
+
+하지만
+	하/pvg+지만/ecs
+
+...
+	.../se
+
+
+(주문
+	(주문/nbu
+
+후
+	후/ncn
+
+바로
+	바로/mag
+
+빵을
+	빵/ncn+을/jco
+
+굽기
+	굽/pvg+기/etn
+
+때문이라는군요
+	때문이라는군요/ncn
+
+..
+	./sf+./sf
+
+
+^^;)
+	^/sy+^/sy+;/sy+)/sr
+
+
+이렇게
+	이렇/pad+게/ecs
+
+해결하는
+	해결/ncpa+하/xsva+는/etm
+
+저녁도
+	저녁/ncn+도/jxc
+
+저에게는
+	저/npp+에게/jca+는/jxc
+
+신선하고
+	신선/ncn+하고/jct
+
+새롭군요~
+	새롭/paa+군/ef+요/jxf+~/sd
+
+맛의
+	맛/ncn+의/jcm
+
+영역에
+	영역/ncn+에/jca
+
+한계는
+	한계/ncn+는/jxc
+
+없습니다
+	없/paa+습니다/ef
+
+...
+	.../se
+
+
+이상
+	이상/ncn
+
+보정동
+	보정/ncpa+동/ncn
+
+카페거리에
+	카페/ncn+거리/ncn+에/jca
+
+위치한슬로우푸드
+	위치한슬로우푸드/ncn
+
+벨루카테이블
+	벨루카테이블/ncn
+
+이었습니다
+	이/npd+이/jp+었/ep+습니다/ef
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
++
+	+/ncn
+
+
+블루를
+	블루/ncn+를/jco
+
+아주
+	아주/mag
+
+잘
+	잘/mag
+
+쓰고
+	쓰/pvg+고/ecc
+
+있는데,
+	있/px+는데/ecs+,/sp
+
+이
+	이/mmd
+
+녀석은
+	녀석/nbn+은/jxc
+
+정말
+	정말/mag
+
+오묘한
+	오묘/ncps+하/xsms+ㄴ/etm
+
+녀석이로군요
+	녀석/nbn+이/jp+로군/ef+요/jxf
+
+...
+	.../se
+
+
+어떨
+	어떨/ncn
+
+때는
+	때/ncn+는/jxc
+
+DSLR
+	DSLR/f
+
+부럽지
+	부럽/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+사진을
+	사진/ncn+을/jco
+
+보여주다가도
+	보여주/pvg+다가도/ecs
+
+
+어떨
+	어떨/ncn
+
+때는
+	때/ncn+는/jxc
+
+결국
+	결국/mag
+
+똑딱이네
+	똑딱이네/ncn
+
+..
+	./sf+./sf
+
+
+란
+	란/ncn
+
+아쉬움을
+	아쉬움/ncn+을/jco
+
+주기도
+	주/px+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+...
+	.../se
+
+
+어떤디카든지
+	어떤디카든지/ncn
+
+마찬가지겠지만,
+	마찬가지/ncn+이/jp+겠/ep+지만/ecs+,/sp
+
+생각해보면
+	생각/ncpa+하/xsva+어/ecx+보/px+면/ecs
+
+음식점에서
+	음식/ncn+점/ncn+에서/jca
+
+어떤
+	어떤/mmd
+
+조명아래
+	조명/ncpa+아래/ncn
+
+있는
+	있/px+는/etm
+
+어떤
+	어떤/mmd
+
+자리에
+	자리/ncn+에/jca
+
+있었느냐에
+	있었느냐/ncn+에/jca
+
+따라서
+	따르/pvg+아서/ecs
+
+좌우되는
+	좌우/ncpa+되/xsvn+는/etm
+
+것
+	것/nbn
+
+
+같아서
+	같/paa+아/ecx
+
+블루
+	블루/ncn
+
+들고
+	들/pvg+고/ecc
+
+음식점
+	음식/ncn+점/ncn
+
+가면
+	가/px+면/ecs
+
+조명이
+	조/nnc+명/nbu+이/jcc
+
+어떤지
+	어떤지/ncn
+
+보면서
+	보/px+면서/ecc
+
+자리를
+	자리/ncn+를/jco
+
+잡는
+	잡/pvg+는/etm
+
+버릇이
+	버릇/ncn+이/jcc
+
+생기고
+	생기/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+손님이
+	손님/ncn+이/jcc
+
+많으면선택의
+	많으면선택/ncn+의/jcm
+
+여지는없지만요
+	여지는없지만요/ncn
+
+...
+	.../se
+
+
+^^;
+	^/sy+^/sy+;/sy
+
+
+위치
+	위치/ncn
+
+:
+	:/sp
+
+용인시
+	용인시/ncn
+
+기흥구
+	기흥구/ncn
+
+보정동
+	보정/ncpa+동/ncn
+
+1187-12
+	1187/nnc+-12/nnc
+
+
+전화번호
+	전화번호/ncn
+
+:
+	:/sp
+
+031-889-4207
+	031/nnc+-889/nnc+-4207/nnc

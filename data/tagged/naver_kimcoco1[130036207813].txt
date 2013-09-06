@@ -1,0 +1,182 @@
+마산
+	마산/ncn
+
+산호동
+	산호/ncn+동/ncn
+
+홈플러스
+	홈플러스/ncn
+
+옥상에
+	옥상/ncn+에/jca
+
+가면
+	가/px+면/ecs
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+놀수
+	놀/pvg+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+작은
+	작/paa+은/etm
+
+놀이기구
+	놀이기구/ncn
+
+들이
+	들/nbn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+추석때인가
+	추석/ncn+때/ncn+이/jp+ㄴ가/ef
+
+마산에
+	마산/ncn+에/jca
+
+갔을때
+	가/px+아/ep+ㄹ/etm+때/nbn
+
+재빈이를
+	재빈이/ncn+를/jco
+
+데리고
+	데리/pvg+고/ecc
+
+홈플러스
+	홈플러스/ncn
+
+놀이기구
+	놀이기구/ncn
+
+있는
+	있/px+는/etm
+
+곳을
+	곳/ncn+을/jco
+
+놀러
+	놀/pvg+러/ecs
+
+갔습니다
+	가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+보통
+	보통/mag
+
+통도환타지아나
+	통도환타지아/ncn+나/jcj
+
+어린이
+	어린이/ncn
+
+놀이동산에
+	놀이/ncn+동산/ncn+에/jca
+
+가면
+	가/px+면/ecs
+
+재빈이
+	재빈/ncn+이/jcc
+
+또래가
+	또래/ncn+가/jcs
+
+탈수
+	타/pvg+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+놀이기구가
+	놀이기구/ncn+가/jcs
+
+많이
+	많/paa+이/xsa
+
+제약이
+	제약/ncpa+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+있는데
+	있/px+는데/ecs
+
+이곳은
+	이곳/npd+은/jxc
+
+재빈이
+	재빈/ncn+이/jcc
+
+또래
+	또래/ncn
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+놀수
+	놀/pvg+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+기구들로만
+	기구/ncn+들/ncn+로/jca+만/jxc
+
+구성되어
+	구성/ncn+되/xsvn+어/ecx
+
+있어
+	있/px+어/ecx
+
+훨씬
+	훨씬/mag
+
+유익하였는듯
+	유익/ncps+하/xsms+었/ep+는/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+재빈이도
+	재빈이/ncn+도/jxc
+
+좋아하고
+	좋/paa+아/ecx+하/px+고/ecc
+
+오랫만에
+	오랫만/ncn+에/jca
+
+친한
+	친하/paa+ㄴ/etm
+
+친구놈도
+	친구/ncn+놈/ncn+도/jxc
+
+만나고
+	만나/pvg+고/ecc
+
+했네요
+	하/pvg+었/ep+네요/ef

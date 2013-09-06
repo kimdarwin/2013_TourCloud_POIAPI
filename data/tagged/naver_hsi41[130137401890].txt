@@ -1,0 +1,319 @@
+지하철
+	지하철/ncn
+
+7호선
+	7/nnc+호/nbu+선/jxc
+
+전동차가
+	전동차/ncn+가/jcs
+
+운행도중
+	운행/ncpa+도중/ncn
+
+터널
+	터널/ncn
+
+안에
+	안/ncn+에/jca
+
+멈춰서는
+	멈추/pvg+어서/ecs+는/jxc
+
+사고가
+	사/pvg+고/ecx+가/px+아/ecx
+
+발생했다
+	발생/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+현장에
+	현장/ncn+에/jca
+
+있던
+	있/px+던/etm
+
+승객들은
+	승객/ncn+들/ncn+은/jxc
+
+철로를
+	철로/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+대피했다
+	대피했다/ncn
+
+.
+	./sf
+
+
+1일
+	1/nnc+일/nbu
+
+밤
+	밤/ncn
+
+11시쯤
+	11/nnc+시/nbu+쯤/xsnx
+
+서울도시철도
+	서울도시철/ncn+도/jxc
+
+7호선
+	7/nnc+호/nbu+선/jxc
+
+하계역에서
+	하계/ncn+역/ncn+에서/jca
+
+공릉역으로
+	공릉역/ncn+으로/jca
+
+향하던
+	향하/pvg+던/etm
+
+전동차가
+	전동차/ncn+가/jcs
+
+폭발음과
+	폭발/ncpa+음/ncn+과/jct
+
+함께
+	함께/mag
+
+멈춰섰다
+	멈추/pvg+어서/ep+었/ep+다/ef
+
+.
+	./sf
+
+
+터널
+	터널/ncn
+
+안에
+	안/ncn+에/jca
+
+멈춰선
+	멈추/pvg+어서/ep+ㄴ/etm
+
+전동차는
+	전동차/ncn+는/jxc
+
+전기가
+	전기/ncn+가/jcs
+
+끊겨
+	끊기/pvg+어/ecx
+
+운행에
+	운행/ncpa+에/jca
+
+차질을
+	차질/ncpa+을/jco
+
+빚었다
+	빚/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이날
+	이/nnc+날/nbu
+
+사고로
+	사고/ncn+로/jca
+
+승객
+	승객/ncn
+
+380여
+	380/nnc+여/xsnu
+
+명
+	명/nbu
+
+가운데
+	가운데/ncn
+
+강모(57)씨
+	강모(57)씨/ncn
+
+등
+	등/nbu
+
+2명은
+	2/nnc+명/nbu+은/jxc
+
+발목
+	발목/ncn
+
+등을
+	등/nbu+을/jco
+
+다쳐
+	다치/pvg+어/ecx
+
+병원으로
+	병원/ncn+으로/jca
+
+이송됐고
+	이송/ncpa+되/xsvn+었/ep+고/ecc
+
+나머지
+	나머지/ncn
+
+승객들은
+	승객/ncn+들/ncn+은/jxc
+
+컴컴한
+	컴컴하/paa+ㄴ/etm
+
+터널을
+	터널/ncn+을/jco
+
+걸어나와
+	걷/pvg+어/ecx+나/px+아/ecx+오/px+아/ecx
+
+역으로
+	역/ncn+으로/jca
+
+대피했다
+	대피했다/ncn
+
+.
+	./sf
+
+
+일부
+	일/nnc+부/nbu
+
+승객들은
+	승객/ncn+들/ncn+은/jxc
+
+도시철도공사에
+	도시철도공사/ncpa+에/jca
+
+환불을
+	환불/ncn+을/jco
+
+요구하며
+	요구/ncpa+하/xsva+며/ecc
+
+항의하는
+	항의/ncpa+하/xsva+는/etm
+
+등
+	등/nbu
+
+소동이
+	소동/ncpa+이/jcc
+
+빚어졌다
+	빚/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+사고로
+	사고/ncn+로/jca
+
+온수
+	오/px+ㄴ/etm+수/nbn
+
+방향
+	방향/ncn
+
+전동차
+	전동차/ncn
+
+운행이
+	운행/ncpa+이/jcc
+
+1시간
+	1/nnc+시간/nbu
+
+가량
+	가량/nbu
+
+차질을
+	차질/ncpa+을/jco
+
+빚어
+	빚/pvg+어/ecx
+
+늦은
+	늦/paa+은/etm
+
+귀갓길의
+	귀갓길/ncn+의/jcm
+
+시민들이
+	시민/ncn+들/ncn+이/jcc
+
+불편을
+	불편/ncn+을/jco
+
+겪었다
+	겪/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+서울도시철도
+	서울도시철/ncn+도/jxc
+
+측은
+	측은/ncps
+
+전동차
+	전동차/ncn
+
+전력공급장치가
+	전력공급/ncpa+장치/ncpa+가/jcc
+
+고장나
+	고장나/pvg+아/ecx
+
+일어난
+	일어나/pvg+ㄴ/etm
+
+사고
+	사/nnc+이/jp+고/ecc
+
+라며
+	라/ncn+이/jp+며/ecc
+
+피해
+	피하/pvg+어/ecx
+
+승객들에게는
+	승객/ncn+들/ncn+에게/jca+는/jxc
+
+요금을
+	요금/ncn+을/jco
+
+환불해줬다
+	환불해줬다/ncn
+
+고
+	고/mma
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:세계일보
+	출처/ncn+:/sp+세계/ncn+일보/ncn

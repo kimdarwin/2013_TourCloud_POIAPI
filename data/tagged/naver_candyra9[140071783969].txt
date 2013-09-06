@@ -1,0 +1,68 @@
+해물찜
+	해물/ncn+찜/ncn
+
+하나로
+	하나/nnc+로/jca
+
+다른
+	다른/mma
+
+반찬
+	반찬/ncn
+
+없어도
+	없/paa+어도/ecs
+
+맛나게밥
+	맛나게밥/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+공기
+	공기/nbu
+
+비울
+	비우/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+아래
+	아래/ncn
+
+주소로
+	주소/ncn+로/jca
+
+가시면
+	가/px+시/ep+면/ecs
+
+레세피
+	레세피/ncn
+
+잇어요
+	잇/pvg+어/ef+요/jxf
+
+...
+	.../se
+
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/candyra9/140058838520
+	com/candyra9/ncn+//sp+140058838520/nnc

@@ -1,0 +1,968 @@
+서초구
+	서초구/ncn
+
+반포
+	반포/ncpa
+
+아파트숲
+	아파트/ncn+숲/ncn
+
+흐르는
+	흐르/pvg+는/etm
+
+반포천,
+	반포/ncpa+천/ncn+,/sp
+
+자연생태하천으로
+	자연생태/ncn+하천/ncn+으로/jca
+
+탈바꿈
+	탈바꿈/ncpa
+
+
+하천
+	하천/ncn
+
+폭
+	폭/nbu
+
+넓히고,
+	넓히/pvg+고/ecc+,/sp
+
+산책로
+	산책로/ncn
+
+및
+	및/maj
+
+자전거도로
+	자전거/ncn+도/ncn+로/jca
+
+만들어
+	만들/pvg+어/ecx
+
+한강공원과
+	한강공원/ncn+과/jcj
+
+연결
+	연결/ncpa
+
+
+"반포천이
+	"/sl+반포/ncpa+천/ncn+이/jcc
+
+우리
+	우리/npp
+
+품으로
+	풀/pvg+ㅁ/etn+으로/jca
+
+돌아왔어요
+	돌/pvg+아/ecx+오/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+예전엔
+	예전/ncn+엔/jca
+
+코를
+	코/ncn+를/jco
+
+찌르는
+	찌르/pvg+는/etm
+
+악취
+	악취/ncn
+
+때문에
+	때문/nbn+에/jca
+
+근처에
+	근처/ncn+에/jca
+
+가는
+	가/pvg+는/etm
+
+것조차
+	것/nbn+조차/jxc
+
+꺼려졌는데,
+	꺼리/pvg+어/ecx+지/px+었/ep+는데/ecs+,/sp
+
+
+이젠
+	이젠/ncn
+
+산책하며
+	산책/ncpa+하/xsva+며/ecc
+
+졸졸졸
+	졸졸졸/mag
+
+흘러가는
+	흐르/pvg+어/ecx+가/px+는/etm
+
+물소리도
+	물소리/ncn+도/jxc
+
+듣고
+	듣/pvg+고/ecc
+
+찌르르르
+	찌르르르/ncn
+
+벌레들
+	벌레/ncn+들/ncn
+
+우는
+	울/pvg+는/etm
+
+소리도
+	소리/ncn+도/jxc
+
+듣고
+	듣/pvg+고/ecc
+
+
+살아
+	살/pvg+아/ecx
+
+숨쉬는
+	숨쉬/pvg+는/etm
+
+자연을
+	자연/ncn+을/jco
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있게
+	있/px+게/ecs
+
+되었어요"
+	되/pvg+었/ep+어/ef+요/jxf+"/sr
+
+아파트
+	아파트/ncn
+
+즐비한
+	즐비/ncps+하/xsms+ㄴ/etm
+
+반포동을
+	반포동/ncn+을/jco
+
+동서로
+	동서/ncn+로/jca
+
+가로질러
+	가로지르/pvg+어/ecx
+
+한강으로
+	한강/ncn+으로/jca
+
+흐르는
+	흐르/pvg+는/etm
+
+도심형
+	도심/ncn+형/ncn
+
+하천
+	하천/ncn
+
+
+'반포천'이
+	'/sr+반포/ncpa+천/ncn+'/sr+이/jcc
+
+악취와
+	악취/ncn+와/jcj
+
+해충의
+	해충/ncn+의/jcm
+
+원산지라는
+	원산지/ncn+라는/jcm
+
+오명을
+	오/nnc+명/nbu+을/jco
+
+벗고
+	벗/pvg+고/ecc
+
+꽃향기
+	꽃향기/ncn
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+생태하천으로
+	생태/ncn+하천/ncn+으로/jca
+
+복원됐다
+	복원/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+서울
+	서울/ncn
+
+서초구(구청장
+	서초구(구청장/ncn
+
+박성중)는
+	박성중)/ncn+는/jxc
+
+지난해
+	지난해/ncn
+
+4월부터
+	4/nnc+월/nbu+부터/jxc
+
+총사업비
+	총사업비/ncn
+
+46억원을
+	46/nnc+억/nnc+원/nbu+을/jco
+
+투입해
+	투입/ncpa+해/ncn
+
+
+서울성모병원
+	서울성모병원/ncn
+
+사거리에서
+	사거리/ncn+에서/jca
+
+한강합류부에
+	한강합류부/ncn+에/jca
+
+이르는
+	이르/paa+는/etm
+
+반포천
+	반포/ncpa+천/ncn
+
+총
+	총/mma
+
+2.
+	2./nnc
+
+77Km
+	77Km/ncn
+
+구간을
+	구간/ncn+을/jco
+
+
+자연생태하천으로
+	자연생태/ncn+하천/ncn+으로/jca
+
+복원하는
+	복원/ncpa+하/xsva+는/etm
+
+반포천
+	반포/ncpa+천/ncn
+
+업그레이드
+	업그레이드/ncn
+
+사업을
+	사업/ncn+을/jco
+
+최근
+	최근/mag
+
+완료했다고
+	완료/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+우선
+	우선/mag
+
+수해예방
+	수해/ncn+예방/ncpa
+
+및
+	및/maj
+
+악취저감을
+	악취/ncn+저감/ncpa+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+하천바닥을
+	하천/ncn+바닥/ncn+을/jco
+
+정비하고
+	정비/ncpa+하고/jct
+
+곳곳에
+	곳곳/ncn+에/jca
+
+여울을
+	여울/ncn+을/jco
+
+설치했으며,
+	설치/ncpa+하/xsva+었/ep+으며/ecc+,/sp
+
+
+상류부는
+	상류/ncn+부/ncn+는/jxc
+
+기존
+	기존/ncpa
+
+3
+	3/nnc
+
+5m에서
+	5m/ncn+에서/jca
+
+7
+	7/nnc
+
+12m로,
+	12m로,/ncn
+
+하류부는
+	하류/ncn+부/ncn+는/jxc
+
+5
+	5/nnc
+
+10m에서
+	10m/ncn+에서/jca
+
+12
+	12/nnc
+
+18m로
+	18m/ncn+로/jca
+
+하천
+	하천/ncn
+
+폭을
+	폭/nbu+을/jco
+
+넓혔다
+	넓히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+곳곳에
+	곳곳/ncn+에/jca
+
+징검다리를
+	징검다리/ncn+를/jco
+
+놓고
+	놓/px+고/ecc
+
+반포천
+	반포/ncpa+천/ncn
+
+하부에는
+	하부/ncn+에/jca+는/jxc
+
+점토블록이
+	점토/ncn+블록/ncn+이/jcc
+
+깔린
+	깔리/pvg+ㄴ/etm
+
+1600
+	1600/nnc
+
+넓이의
+	넓이/ncn+의/jcm
+
+휴게광장도
+	휴게광장/ncn+도/jxc
+
+조성해
+	조성/ncpa+해/ncn
+
+
+주민들이
+	주민/ncn+들/ncn+이/jcc
+
+잠시
+	잠시/mag
+
+쉬어갈
+	쉬/pvg+어/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+배려했다
+	배/pvg+려/ecx+하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+반포종합운동장에서
+	반포/ncpa+종합운동장/ncn+에서/jca
+
+한강합류부까지
+	한강합류부까지/ncn
+
+반포천변
+	반포/ncpa+천변/ncpa
+
+1.
+	1./nnc
+
+4km에
+	4km/ncn+에/jca
+
+걸쳐
+	걸치/pvg+어/ecx
+
+한강공원으로
+	한강공원/ncn+으로/jca
+
+이어지는
+	이어지/pvg+는/etm
+
+
+폭
+	폭/nbu
+
+4m의
+	4m/ncn+의/jcm
+
+자전거전용도로
+	자전거/ncn+전용도로/ncn
+
+및
+	및/maj
+
+폭
+	폭/nbu
+
+2m의
+	2m/ncn+의/jcm
+
+산책로를
+	산책로/ncn+를/jco
+
+각각
+	각각/mag
+
+조성했으며,
+	조성/ncpa+하/xsva+었/ep+으며/ecc+,/sp
+
+
+하천변에는
+	하천/ncn+변/ncn+에/jca+는/jxc
+
+물억새,
+	물억새,/ncn
+
+수크령,
+	수크령,/ncn
+
+노루오줌
+	노루/ncn+오줌/ncn
+
+등
+	등/nbu
+
+각종
+	각종/ncn
+
+수생식물과
+	수생식물/ncn+과/jcj
+
+야생화를
+	야생/ncpa+화/ncn+를/jco
+
+심어
+	심/pvg+어/ecx
+
+반포천을
+	반포/ncpa+천/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+걸으며
+	걸/pvg+며/ecc
+
+
+아름다운
+	아름답/paa+은/etm
+
+경관을
+	경관/ncn+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+시민들의
+	시민/ncn+들/ncn+의/jcm
+
+접근성을
+	접근/ncpa+성/ncn+을/jco
+
+높이기
+	높이/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+팔래스호텔과
+	팔래스호텔/ncn+과/jcj
+
+반포종합운동장앞
+	반포/ncpa+종합운동장/ncn+앞/ncn
+
+2곳에
+	2/nnc+곳/nbu+에/jca
+
+진출입계단을
+	진출입계단/ncn+을/jco
+
+설치했으며,
+	설치/ncpa+하/xsva+었/ep+으며/ecc+,/sp
+
+
+자전거
+	자전거/ncn
+
+하이킹을
+	하이킹/ncpa+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+이수교옆
+	이수교옆/ncn
+
+허밍웨이(콧노래길)에서
+	허밍웨이/ncn+(/sl+콧노래/ncn+길/ncn+)/sr+에서/jca
+
+
+반포천
+	반포/ncpa+천/ncn
+
+자전거도로로
+	자전거/ncn+도로/ncn+로/jca
+
+직접
+	직접/mag
+
+진입이
+	진입/ncpa+이/jcc
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+램프도
+	램프/ncn+도/jxc
+
+설치됐다
+	설치/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+주말
+	주말/ncn
+
+반포천을
+	반포/ncpa+천/ncn+을/jco
+
+찾은
+	찾/pvg+은/etm
+
+김생연씨(30세,
+	김생연씨(30세,/ncn
+
+잠원동)는
+	잠원동/ncn+)/sr+는/jxc
+
+
+"주변에
+	"/sl+주변/ncn+에/jca
+
+운동할
+	운동/ncpa+하/xsva+ㄹ/etm
+
+곳이
+	곳/ncn+이/jcc
+
+마땅치
+	마땅/ncps+치/ncn
+
+않아
+	않/px+아/ecx
+
+헬스클럽을
+	헬스클럽/ncn+을/jco
+
+다녔는데
+	다니/pvg+었/ep+는데/ecs
+
+반포천을
+	반포/ncpa+천/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+만들어진
+	만들/pvg+어/ecx+지/px+ㄴ/etm
+
+산책로
+	산책로/ncn
+
+덕분에
+	덕분/ncn+에/jca
+
+
+이제
+	이제/mag
+
+자연
+	자연/ncn
+
+속에서
+	속/ncn+에서/jca
+
+건강을
+	건강/ncps+을/jco
+
+지킬
+	지키/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있게
+	있/px+게/ecs
+
+되어
+	되/pvg+어/ecx
+
+너무
+	너무/mag
+
+좋다"며
+	좋다"며/ncn
+
+즐거워했다
+	즐겁/paa+어/ecx+하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+정종규
+	정종규/ncn
+
+재난치수과장은
+	재난/ncn+치수/ncn+과장/ncr+은/jxc
+
+"하천호안과
+	"/sl+하천/ncn+호안/ncn+과/jcj
+
+수변공간이
+	수변공간/ncn+이/jcc
+
+자연형으로
+	자연/ncn+형/ncn+으로/jca
+
+정비되고,
+	정비/ncpa+되/xsvn+고/ecc+,/sp
+
+
+자전거도로와
+	자전거/ncn+도로/ncn+와/jcj
+
+산책로도
+	산책로/ncn+도/jxc
+
+설치되면서
+	설치/ncpa+되/xsvn+면서/ecc
+
+그동안
+	그동안/ncn
+
+버려져
+	버리/px+어/ecx+지/px+어/ecx
+
+있던
+	있/px+던/etm
+
+천변이
+	천변/ncpa+이/jcc
+
+주민들이
+	주민/ncn+들/ncn+이/jcc
+
+산책과
+	산책/ncpa+과/jcj
+
+휴식을
+	휴식/ncpa+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/paa+는/etm
+
+
+공간으로
+	공간/ncn+으로/jca
+
+탈바꿈했다"면서
+	탈바꿈/ncpa+하/xsva+었/ep+다/ef+"/sr+면/nbu+서/jca
+
+"아울러,
+	"/sl+아우르/pvg+어/ecs+,/sp
+
+보다
+	보다/mag
+
+맑고
+	맑/paa+고/ecc
+
+깨끗해진
+	깨끗해지/pvg+ㄴ/etm
+
+반포천이
+	반포/ncpa+천/ncn+이/jcc
+
+바람길
+	바람/ncn+길/ncn
+
+역할을
+	역할/ncn+을/jco
+
+하게
+	하/pvg+게/ecs
+
+돼
+	되/paa+어/ecs
+
+
+미세먼지와
+	미세/ncps+먼지/ncn+와/jcj
+
+유해가스
+	유해가스/ncn
+
+농도
+	농/ncn+도/jxc
+
+등
+	등/nbu
+
+주변
+	주변/ncn
+
+대기질이
+	대기/ncn+질/ncn+이/jcc
+
+정화되고,
+	정화/ncn+되/xsvn+고/ecc+,/sp
+
+
+한여름
+	한여름/ncn
+
+도시열섬현상도
+	도시열섬현상/ncn+도/jxc
+
+다소
+	다소/mag
+
+완화될
+	완화/ncpa+되/xsvn+ㄹ/etm
+
+것으로
+	것/nbn+으로/jca
+
+기대한다"고
+	기대/pvg+어/ecx+하/px+ㄴ다/ef+"/sr+고/jcr
+
+덧붙였다
+	덧붙이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+한편,
+	한/nnc+편/nbu+,/sp
+
+서초구는
+	서초구/ncn+는/jxc
+
+반포천의
+	반포/ncpa+천/ncn+의/jcm
+
+고질적인
+	고질/ncn+적/ncn+이/jp+ㄴ/etm
+
+문제인
+	문제/ncn+이/jp+ㄴ/etm
+
+악취를
+	악취/ncn+를/jco
+
+제거하고
+	제거/ncpa+하고/jcj
+
+
+꽃향기
+	꽃향기/ncn
+
+솔솔
+	솔솔/mag
+
+나는
+	나/npp+는/jxc
+
+하천으로
+	하천/ncn+으로/jca
+
+조성하기
+	조성/ncpa+하/xsva+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+경부고속도로에서
+	경부고속도로/ncn+에서/jca
+
+팔래스호텔에
+	팔래스호텔/ncn+에/jca
+
+이르는
+	이르/paa+는/etm
+
+
+1.
+	1./nnc
+
+8km의
+	8km/ncn+의/jcm
+
+반포천
+	반포/ncpa+천/ncn
+
+복개구간을
+	복개/ncpa+구간/ncn+을/jco
+
+대상으로
+	대상/ncn+으로/jca
+
+차집관로
+	차집/ncn+관/ncn+로/jca
+
+설치공사를
+	설치/ncpa+공사/ncn+를/jco
+
+진행하는
+	진행/ncpa+하/xsva+는/etm
+
+등
+	등/nbn
+
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+냄새저감사업도
+	냄새/ncn+저감/ncpa+사업/ncn+도/jxc
+
+함께
+	함께/mag
+
+펼치고
+	펼치/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+[윤한나
+	[윤한/ncn+나/jcj
+
+그린리포터
+	그린/ncn+리포터/ncn
+
+/
+	//sp
+
+녹색뉴스포털
+	녹색뉴스포털/ncn
+
+그린투데이
+	그린/ncn+투데이/ncn
+
+http://giti.
+	http/f+:/sp+//sp+//sp+giti/f+./sy
+
+kr
+	kr/f
+
+배포/전재
+	배포/ncpa+//sp+전재/ncn
+
+환영]
+	환영/ncpa+]/sr

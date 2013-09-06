@@ -1,0 +1,106 @@
+영산강
+	영산강/ncn
+
+문화관은
+	문화관/ncn+은/jxc
+
+가족들이
+	가족/ncn+들/ncn+이/jcc
+
+즐기는
+	즐기/pvg+는/etm
+
+문화공간입니다
+	문화공간/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+영산강문화관뿐만
+	영산강문화관뿐/ncn+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+4대강
+	4대강/ncn
+
+문화관은
+	문화관/ncn+은/jxc
+
+새로운
+	새롭/paa+은/etm
+
+가족들의
+	가족/ncn+들/ncn+의/jcm
+
+문화공간으로
+	문화공간/ncn+으로/jca
+
+자리잡을
+	자리잡/pvg+을/etm
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+Let's
+	Let/f+'/sr+s/f
+
+W
+	W/f
+
+B
+	B/f
+
+C
+	C/f
+
+(Walk
+	(/sl+Walk/f
+
+Bike
+	Bike/f
+
+Camp)
+	Camp/f+)/sr
+
+Let's
+	Let/f+'/sr+s/f
+
+W.
+	W/f+./sy
+
+B.
+	B/f+./sy
+
+C누구나
+	C/f+누/ncn+이/jp+구나/ef
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+4대강변
+	4대강/ncn+변/ncn
+
+Walk
+	Walk/f
+
+Bike
+	Bike/f
+
+Camp
+	Camp/f

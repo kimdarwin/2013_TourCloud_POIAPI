@@ -1,0 +1,1223 @@
+정부
+	정부/ncn
+
+지자체
+	지자체/ncn
+
+낙동강
+	낙동강/ncn
+
+자전거길
+	자전거/ncn+길/ncn
+
+1차
+	1/nnc+차/nbu
+
+점검
+	점검/ncpa
+
+
+안동시
+	안동시/ncn
+
+남후면
+	남후/ncn+이/jp+면/ecs
+
+일반도로의
+	일반/ncn+도/ncn+로/jca+의/jcm
+
+고갯길
+	고갯길/ncn
+
+.
+	./sf
+
+
+다소
+	다소/mag
+
+힘들지만
+	힘들/pvg+지/ecx+말/px+ㄴ/etm
+
+일반인도
+	일반인/ncn+도/jxc
+
+올라갈
+	오르/pvg+아/ecx+가/px+ㄹ/etm
+
+정도의
+	정도/ncn+의/jcm
+
+경사이고
+	경사/ncr+이/jp+고/ecc
+
+내려다보는
+	내려다보/pvg+는/etm
+
+낙동강
+	낙동강/ncn
+
+풍경이
+	풍경/ncn+이/jcc
+
+절경을
+	절경/ncn+을/jco
+
+이룬다
+	이루/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+다른
+	다른/mma
+
+강보다
+	강/ncn+보다/jca
+
+공정이
+	공정/ncn+이/jcc
+
+늦은
+	늦/paa+은/etm
+
+낙동강의
+	낙동강/ncn+의/jcm
+
+자전거도로
+	자전거/ncn+도/ncn+로/jca
+
+합동점검이
+	합동/ncpa+점검/ncpa+이/jcc
+
+진행됐다
+	진행/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+11~12낙동강
+	11~12낙동강/ncn
+
+경북구간
+	경북구간/ncn
+
+안동에서
+	안동/ncn+에서/jca
+
+달성까지
+	달성/ncpa+까지/jxc
+
+이어진
+	잇/pvg+어/ecx+지/px+ㄴ/etm
+
+자전거도로
+	자전거/ncn+도/ncn+로/jca
+
+합동점검엔
+	합동/ncpa+점검/ncpa+엔/jca
+
+4대강추진본부와
+	4대강/ncn+추진/ncpa+본부/ncn+와/jcj
+
+경상북도,
+	경상/ncn+북도/ncn+,/sp
+
+대구시,
+	대구/ncn+시/ncn+,/sp
+
+구미시,
+	구미/ncn+시/ncn+,/sp
+
+수자원공사
+	수자원/ncn+공사/ncn
+
+관계자
+	관계/ncn+이/jp+자/ecc
+
+등이
+	등/nbu+이/jcc
+
+참가해
+	참가/ncpa+하/xsva+어/ecx
+
+도로
+	도/ncn+로/jca
+
+포장상태와
+	포장/ncpa+상태/ncn+와/jcj
+
+우회도로
+	우회도로/ncn
+
+연결
+	연결/ncpa
+
+상황을
+	상황/ncn+을/jco
+
+점검했다
+	점검/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이날
+	이/nnc+날/nbu
+
+점검에서
+	점검/ncpa+에서/jca
+
+낙동강
+	낙동강/ncn
+
+37공구는
+	37공구/ncn+는/jxc
+
+시멘트
+	시멘트/ncn
+
+포장
+	포장/ncpa
+
+표면이
+	표면/ncn+이/jcc
+
+매끄러웠지만
+	매끄럽/paa+었/ep+지만/ecs
+
+36공구의
+	36공구/ncn+의/jcm
+
+경우
+	경우/ncn
+
+포장면과
+	포장/ncpa+면/xsncc+과/jcj
+
+시멘트
+	시멘트/ncn
+
+연결면이
+	연결/ncpa+면/xsncc+이/jcc
+
+거칠다는
+	거칠/paa+다/ef+는/etm
+
+평을
+	평/nbu+을/jco
+
+받았다
+	받/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+경북
+	경북/ncn
+
+안동시
+	안동시/ncn
+
+문화예술회관을
+	문화예술회관/ncn+을/jco
+
+떠나
+	떠나/pvg+아/ecx
+
+남후면
+	남후/ncn+이/jp+면/ecs
+
+검암교
+	검암교/ncn
+
+인근
+	인근/ncn
+
+제방
+	제방/ncn
+
+전용도로를
+	전용도로/ncn+를/jco
+
+달리고
+	달리/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+점검단
+	점검/ncpa+단/ncn
+
+.
+	./sf
+
+
+안동시
+	안동시/ncn
+
+남후면
+	남후/ncn+이/jp+면/ecs
+
+일반도로의
+	일반/ncn+도/ncn+로/jca+의/jcm
+
+고갯길
+	고갯길/ncn
+
+.
+	./sf
+
+
+다소
+	다소/mag
+
+힘들지만
+	힘들/pvg+지/ecx+말/px+ㄴ/etm
+
+일반인도
+	일반인/ncn+도/jxc
+
+올라갈
+	오르/pvg+아/ecx+가/px+ㄹ/etm
+
+정도의
+	정도/ncn+의/jcm
+
+경사이고
+	경사/ncr+이/jp+고/ecc
+
+내려다보는
+	내려다보/pvg+는/etm
+
+낙동강
+	낙동강/ncn
+
+풍경이
+	풍경/ncn+이/jcc
+
+절경을
+	절경/ncn+을/jco
+
+이룬다
+	이루/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+안동시
+	안동시/ncn
+
+남후면
+	남후/ncn+이/jp+면/ecs
+
+단호리
+	단호/ncn+이/jp+리/ef
+
+인근
+	인근/ncn
+
+낙동강
+	낙동강/ncn
+
+제방인
+	제방/ncn+이/jp+ㄴ/etm
+
+하리제를
+	하리/ncn+제/ncn+를/jco
+
+달리고
+	달리/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+점검단
+	점검/ncpa+단/ncn
+
+.
+	./sf
+
+
+안동
+	안동/ncn
+
+선사유적지
+	선사유적지/ncn
+
+앞
+	앞/ncn
+
+일반도로
+	일반/ncn+도/ncn+로/jca
+
+.
+	./sf
+
+
+안동시
+	안동시/ncn
+
+풍산읍
+	풍산읍/ncn
+
+풍산배수장
+	풍산배수장/ncn
+
+제방도로를
+	제방/ncn+도로/ncn+를/jco
+
+달리고
+	달리/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+점검단
+	점검/ncpa+단/ncn
+
+.
+	./sf
+
+
+가을에
+	가을/ncn+에/jca
+
+라이딩을
+	라이딩/ncn+을/jco
+
+즐기기
+	즐기/pvg+기/etn
+
+좋은
+	좋/paa+은/etm
+
+코스다
+	코스/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+구담보
+	구담보/ncn
+
+상류인
+	상류/ncn+이/jp+ㄴ/etm
+
+안동시
+	안동시/ncn
+
+풍천면
+	풍천면/ncn
+
+만평농장
+	만평/ncpa+농장/ncn
+
+인근
+	인근/ncn
+
+시멘트
+	시멘트/ncn
+
+전용도로
+	전용도로/ncn
+
+
+예천군
+	예천군/ncn
+
+풍양면
+	풍양/ncpa+면/ncn
+
+청운리
+	청운/ncn+리/ncn
+
+인근
+	인근/ncn
+
+.
+	./sf
+
+
+황금빛으로
+	황금빛/ncn+으로/jca
+
+익어가는
+	익/pvg+어/ecx+가/px+는/etm
+
+논밭을
+	논밭/ncn+을/jco
+
+보는
+	보/px+는/etm
+
+즐거움이
+	즐거움/ncn+이/jcc
+
+자전거타는
+	자전거/ncn+타/ncn+는/jxc
+
+즐거움보다
+	즐거움/ncn+보다/jca
+
+클
+	크/paa+ㄹ/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+예천군
+	예천군/ncn
+
+풍양면
+	풍양/ncpa+면/ncn
+
+청운리
+	청운/ncn+리/ncn
+
+인근
+	인근/ncn
+
+.
+	./sf
+
+
+황금빛으로
+	황금빛/ncn+으로/jca
+
+익어가는
+	익/pvg+어/ecx+가/px+는/etm
+
+논밭을
+	논밭/ncn+을/jco
+
+보는
+	보/px+는/etm
+
+즐거움이
+	즐거움/ncn+이/jcc
+
+자전거타는
+	자전거/ncn+타/ncn+는/jxc
+
+즐거움보다
+	즐거움/ncn+보다/jca
+
+클
+	크/paa+ㄹ/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+예천군
+	예천군/ncn
+
+풍양면
+	풍양/ncpa+면/ncn
+
+청운리
+	청운/ncn+리/ncn
+
+인근
+	인근/ncn
+
+.
+	./sf
+
+
+황금빛으로
+	황금빛/ncn+으로/jca
+
+익어가는
+	익/pvg+어/ecx+가/px+는/etm
+
+논밭을
+	논밭/ncn+을/jco
+
+보는
+	보/px+는/etm
+
+즐거움이
+	즐거움/ncn+이/jcc
+
+자전거타는
+	자전거/ncn+타/ncn+는/jxc
+
+즐거움보다
+	즐거움/ncn+보다/jca
+
+클
+	크/paa+ㄹ/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+예천군
+	예천군/ncn
+
+풍양면
+	풍양/ncpa+면/ncn
+
+청운리
+	청운/ncn+리/ncn
+
+인근
+	인근/ncn
+
+.
+	./sf
+
+
+황금빛으로
+	황금빛/ncn+으로/jca
+
+익어가는
+	익/pvg+어/ecx+가/px+는/etm
+
+논밭을
+	논밭/ncn+을/jco
+
+보는
+	보/px+는/etm
+
+즐거움이
+	즐거움/ncn+이/jcc
+
+자전거타는
+	자전거/ncn+타/ncn+는/jxc
+
+즐거움보다
+	즐거움/ncn+보다/jca
+
+클
+	크/paa+ㄹ/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+낙단보
+	낙단보/ncn
+
+상류
+	상류/ncn
+
+우안에서
+	우/ncn+안/xsnx+에서/jca
+
+본
+	보/px+ㄴ/etm
+
+낙단보
+	낙단보/ncn
+
+풍경
+	풍경/ncn
+
+
+낙단보에서
+	낙단보/ncn+에서/jca
+
+구미보로
+	구미/ncn+보/ncn+로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+제방
+	제방/ncn
+
+자전거전용도로
+	자전거/ncn+전용도로/ncn
+
+.
+	./sf
+
+
+낙단보에서
+	낙단보/ncn+에서/jca
+
+구미보로
+	구미/ncn+보/ncn+로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+제방
+	제방/ncn
+
+자전거전용도로
+	자전거/ncn+전용도로/ncn
+
+.
+	./sf
+
+
+구미보에서
+	구미/ncn+보/ncn+에서/jca
+
+달성보로
+	달성/ncpa+보/ncn+로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+둔치
+	둔치/ncn
+
+전용도로
+	전용도로/ncn
+
+.
+	./sf
+
+
+구미보에서
+	구미/ncn+보/ncn+에서/jca
+
+달성보로
+	달성/ncpa+보/ncn+로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+둔치
+	둔치/ncn
+
+전용도로
+	전용도로/ncn
+
+.
+	./sf
+
+
+구미보에서
+	구미/ncn+보/ncn+에서/jca
+
+달성보로
+	달성/ncpa+보/ncn+로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+둔치
+	둔치/ncn
+
+전용도로
+	전용도로/ncn
+
+.
+	./sf
+
+
+구미보에서
+	구미/ncn+보/ncn+에서/jca
+
+달성보로
+	달성/ncpa+보/ncn+로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+둔치
+	둔치/ncn
+
+전용도로
+	전용도로/ncn
+
+.
+	./sf
+
+
+달성보
+	달성/ncpa+보/ncn
+
+상류
+	상류/ncn
+
+생태공원
+	생태/ncn+공원/ncn
+
+내
+	내/npp
+
+달팽이형
+	달팽이/ncn+형/ncn
+
+산책로를
+	산책로/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+중앙
+	중앙/ncn
+
+잔디광장으로
+	잔디광장/ncn+으로/jca
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+자전거점검단
+	자전거/ncn+점검/ncpa+단/ncn
+
+.
+	./sf
+
+
+노랑
+	노랑/ncn
+
+코스코스가
+	코스/ncn+코스/ncn+가/jcs
+
+활짝편
+	활짝편/ncn
+
+둔치
+	둔치/ncn
+
+공원은
+	공원/ncn+은/jxc
+
+보는
+	보/px+는/etm
+
+것만으로도
+	것/nbn+만으로/jca+도/jxc
+
+장관이다
+	장관/ncr+이/jp+다/ef
+
+.
+	./sf
+
+
+노랑
+	노랑/ncn
+
+코스코스가
+	코스/ncn+코스/ncn+가/jcs
+
+활짝편
+	활짝편/ncn
+
+둔치
+	둔치/ncn
+
+공원에서
+	공원/ncn+에서/jca
+
+점검단이
+	점검/ncpa+단/ncn+이/jcc
+
+휴식을
+	휴식/ncpa+을/jco
+
+취한뒤
+	취한뒤/ncn
+
+전용도로로
+	전용도로/ncn+로/jca
+
+빠져나오고
+	빠지/pvg+어/ecx+나/px+아/ecx+오/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+달성보
+	달성/ncpa+보/ncn
+
+공도교
+	공도/ncn+교/ncn
+
+위를
+	위/ncn+를/jco
+
+지나는
+	지나/pvg+는/etm
+
+점검단
+	점검/ncpa+단/ncn
+
+.
+	./sf
+
+
+달성군
+	달성군/ncn
+
+구지면
+	구지/ncn+이/jp+면/ecs
+
+도동서원으로
+	도동서원/ncn+으로/jca
+
+향하는
+	향하/pvg+는/etm
+
+고갯길은
+	고갯길/ncn+은/jxc
+
+다람재
+	다람재/ncn
+
+중턱을
+	중턱/ncn+을/jco
+
+점검단이
+	점검/ncpa+단/ncn+이/jcc
+
+힘겹게
+	힘겹/paa+게/ecs
+
+오르고
+	오르/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+맨앞은
+	맨앞/ncn+은/jxc
+
+자전거
+	자전거/ncn
+
+자문단이고
+	자문/ncpa+단/ncn+이/jp+고/ecc
+
+두번째는
+	두/nnc+번/nbu+째/xsnu+는/jxc
+
+김철문
+	김철/ncn+문/ncn
+
+4대강추진본부
+	4대강/ncn+추진/ncpa+본부/ncn
+
+사업지원국장이다
+	사업지원/ncn+국장/ncr+이/jp+다/ef
+
+.
+	./sf
+
+
+달성군
+	달성군/ncn
+
+구지면
+	구지/ncn+이/jp+면/ecs
+
+도동서원으로
+	도동서원/ncn+으로/jca
+
+향하는
+	향하/pvg+는/etm
+
+고갯길은
+	고갯길/ncn+은/jxc
+
+1km이상
+	1km이상/ncn
+
+굽이굽이
+	굽이굽이/ncn
+
+오르는
+	오르/pvg+는/etm
+
+코스로
+	코스/ncn+로/jca
+
+아마추어
+	아마추어/ncn
+
+라이더는
+	라/ncn+이/jp+더/ep+어/ef+는/etm
+
+자전거를
+	자전거/ncn+를/jco
+
+내려야
+	내리/pvg+어야/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+힘들다
+	힘들/pvg+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+주변
+	주변/ncn
+
+풍광은
+	풍광/ncn+은/jxc
+
+힘든
+	힘들/pvg+ㄴ/etm
+
+것을
+	것/nbn+을/jco
+
+보상하고도
+	보상/ncpa+하고/jct+도/jxc
+
+남는다
+	남/pvg+는다/ef
+
+.
+	./sf
+
+
+다람재에서
+	다람재/ncn+에서/jca
+
+한눈에
+	한눈/ncn+에/jca
+
+내려다보이는
+	내려다보이/pvg+는/etm
+
+낙동강
+	낙동강/ncn
+
+.
+	./sf
+
+
+강변
+	강변/ncn
+
+바로
+	바로/mag
+
+옆에
+	옆/ncn+에/jca
+
+도동서원이
+	도동서원/ncn+이/jcc
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+도동서원
+	도동서원/ncn
+
+앞
+	앞/ncn
+
+내리막길을
+	내리막길/ncn+을/jco
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+내려오고
+	내리/pvg+어/ecx+오/px+고/ecc
+
+있는
+	있/px+는/etm
+
+점검단
+	점검/ncpa+단/ncn
+
+.
+	./sf
+
+
+출처
+	출처/ncn
+
+:
+	:/sp
+
+뉴타임즈코리아
+	뉴타임즈코리/ncn+아/jcv
+
+
+바로가기
+	바로가/ncn+이/jp+기/etn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+newtimes.
+	newtimes/f+./sy
+
+co.
+	co/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+4대강살리기추진본부
+	4대강살리기추진본부/ncn
+
+(본부장
+	(/sl+본부장/ncn
+
+심명필
+	심명필/ncn
+
+http://twitter.
+	http/f+:/sp+//sp+//sp+twitter/f+./sy
+
+com/mpshim)
+	com/f+//sp+mpshim/f+)/sr
+
+
+4대강살리기
+	4대강살리/ncn+이/jp+기/etn
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+4rivers.
+	4rivers./ncn
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+mltm.
+	mltm/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+아
+	아/ii
+
+!
+	!/sf
+
+
+대한민국
+	대한/ncn+민국/ncn
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/pLuHHW
+	mp/f+//sp+pLuHHW/f
+
+
+자/전/거/
+	자/전/거//ncn
+
+새/물/결
+	새/mma+//sp+물/ncn+//sp+결/nbu
+
+남한강
+	남한강/ncn
+
+자전거길
+	자전거/ncn+길/ncn
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/qsMwHD
+	mp/f+//sp+qsMwHD/f
+
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/nKKoOu
+	mp/f+//sp+nKKoOu/f
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/qBL99F
+	mp/qBL99F/ncn
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/q82lrW
+	mp/q82lrW/ncn

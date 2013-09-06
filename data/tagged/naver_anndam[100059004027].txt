@@ -1,0 +1,4712 @@
+너와마을
+	너와/ncn+마을/ncn
+
+
+강원도
+	강원도/ncn
+
+>
+	>/sr
+
+삼척시
+	삼척시/ncn
+
+>
+	>/sr
+
+도계
+	도계/ncn
+
+
+기간
+	기간/ncn
+
+2008.
+	2008./nnc
+
+12.
+	12./nnc
+
+19
+	19/nnc
+
+~
+	~/sd
+
+2008.
+	2008./nnc
+
+12.
+	12./nnc
+
+20
+	20/nnc
+
+(1박
+	(/sl+1/nnc+박/nbu
+
+2일)
+	2/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+나
+	나/npp
+
+홀로
+	홀로/mag
+
+떠나는
+	떠나/pvg+는/etm
+
+여행
+	여행/ncpa
+
+
+여행팁
+	여행/ncpa+팁/ncn
+
+
+너와마을은1박2일에서두부만들기체험하던곳이라고하는데요
+	너와마을은1박2일에서두부만들기체험하던곳이라고하는데요/ncn
+
+...
+	.../se
+
+
+화면과는조금다르게보이더군요
+	화면과는조금다르게보이더군요/ncn
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+아이들과함께산촌체험의기회로여행을잡으면좋을것같아요
+	아이들과함께산촌체험의기회로여행을잡으면좋을것같아요/ncn
+
+.
+	./sf
+
+
+다양한체험거리가기다리고있답니다
+	다양한체험거리가기다리고있답니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+1일차:
+	1/nnc+일/nnc+차/nbu+:/sp
+
+삼척
+	삼/nnc+척/nbu
+
+도착
+	도착/ncpa
+
+중식
+	중/ncn+식/xsncc
+
+-너와마을
+	-/sd+너와/ncn+이/jp+마/ef+ㄹ/etm
+
+산촌체험
+	산촌/ncn+체험/ncpa
+
+-
+	-/sd
+
+삼척너와집
+	삼척너와집/ncn
+
+-
+	-/sd
+
+삼척문화예술회관(국악원
+	삼척문화예술회관(국악원/ncn
+
+공연)
+	공연/ncps+)/sr
+
+-
+	-/sd
+
+동해이동
+	동해/ncn+이동/ncn
+
+망상그랜드관광호텔
+	망상/ncn+그랜드/ncn+관광호텔/ncn
+
+숙소
+	숙소/ncn
+
+도착
+	도착/ncpa
+
+
+2일차:
+	2/nnc+일/nnc+차/nbu+:/sp
+
+기상후
+	기상/ncn+후/ncn
+
+추암촛대바위
+	추암촛대바위/ncn
+
+-
+	-/sd
+
+조식-
+	조식/ncpa+-/sd
+
+묵호등대
+	묵호등대/ncn
+
+관람
+	관람/ncpa
+
+-
+	-/sd
+
+천곡천연동굴
+	천곡천연동굴/ncn
+
+-
+	-/sd
+
+묵호항
+	묵호항/ncn
+
+관광
+	관광/ncpa
+
+-
+	-/sd
+
+중식
+	중/ncn+식/xsncc
+
+-
+	-/sd
+
+서울
+	서울/ncn
+
+
+구석구석
+	구석구석/mag
+
+찾아가기
+	찾/pvg+아/ecx+가/px+기/etn
+
+14차
+	14/nnc+차/nbu
+
+강원도
+	강원/ncn+도/jxc
+
+삼척,
+	삼/nnc+척/nbu+,/sp
+
+동해
+	동해/ncn
+
+1박
+	1/nnc+박/nbu
+
+2일
+	2/nnc+일/nbu
+
+
+너와마을
+	너와/ncn+이/jp+마/ef+ㄹ/etm
+
+산촌체험하고
+	산촌/ncn+체험/ncpa+하고/jct
+
+동해
+	동해/ncn
+
+겨울바다
+	겨울/ncn+바다/ncn
+
+보고
+	보/px+고/ecc
+
+....
+	.../se+./sf
+
+
+산촌체험
+	산촌/ncn+체험/ncpa
+
+?
+	?/sf
+
+
+너와마을에다
+	너와/ncn+마을/ncn+에다/jca
+
+있어요~
+	있/paa+어요/ef+~/sd
+
+
+벌써
+	벌써/mag
+
+몇번째의
+	몇/nnc+번/nbu+째/xsnu+의/jcm
+
+구석구석
+	구석/ncn+구석/ncn
+
+여행
+	여행/ncpa
+
+.
+	./sf
+
+
+이번엔
+	이/nnc+번/nbu+엔/jca
+
+주중(금~토)
+	주/nbu+중/xsnx+(/sl+금/ncn+~/sd+토/ncn+)/sr
+
+일정이라
+	일정/ncn+이/jp+라/ecs
+
+바쁜업무
+	바쁜업무/ncn
+
+때문에
+	때문/nbn+에/jca
+
+포기하고
+	포/ncn+이/jp+기/etn+하고/jct
+
+있었는데,
+	있/px+었/ep+는데/ecs+,/sp
+
+엠군과
+	엠군/ncn+과/jcj
+
+관광공사가
+	관광/ncpa+공사/ncn+가/jcs
+
+함께
+	함께/mag
+
+했던
+	하/px+었/ep+던/etm
+
+ucc이벤트에서
+	ucc/f+이벤트/ncn+에서/jca
+
+아차상을
+	아차상/ncn+을/jco
+
+받아
+	받/pvg+아/ecx
+
+무료참가의
+	무료/ncps+참가/ncpa+의/jcm
+
+기회가
+	기회/ncn+가/jcs
+
+왔다
+	오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+기회를
+	기회/ncn+를/jco
+
+그냥
+	그냥/mag
+
+놓치기가
+	놓치/pvg+기/etn+가/jcs
+
+힘들어,
+	힘들/pvg+어/ecs+,/sp
+
+눈치보면서
+	눈치/ncn+보/ncn+이/jp+면서/ecc
+
+휴가를
+	휴가/ncn+를/jco
+
+신청
+	신청/ncpa
+
+.
+	./sf
+
+
+일단
+	일/nnc+단/nbu
+
+떠나기로
+	떠나/pvg+기/etn+로/jca
+
+했었다
+	하/px+었었/ep+다/ef
+
+.
+	./sf
+
+
+금요일
+	금요일/ncn
+
+아침
+	아침/ncn
+
+8시
+	8/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+출발
+	출발/ncpa
+
+.
+	./sf
+
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+지난
+	지나/pvg+ㄴ/etm
+
+시간
+	시간/nbu
+
+출발하여
+	출발/ncpa+하/xsva+어/ecx
+
+차에서
+	차/ncn+에서/jca
+
+졸다보니
+	졸다보니/ncn
+
+어느듯
+	어느듯/ncn
+
+삼척에
+	삼/nnc+척/nbu+에/jca
+
+도착하고
+	도착/ncpa+하고/jct
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+창밖으로는
+	창밖/ncn+으로/jca+는/jxc
+
+도심에서
+	돌/pvg+시/ep+ㅁ/etn+에서/jca
+
+벗어난
+	벗/pvg+어/ecx+나/px+ㄴ/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+보이는가
+	보이/pvg+는가/ecs
+
+싶더니
+	싶/px+더니/ecs
+
+한순간
+	한순간/ncn
+
+바다가
+	바다/ncn+가/jcs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+와~~
+	오/px+아/ecs+~/sd+~/sd
+
+바다다~~
+	바다/ncn+이/jp+다/ef+~/sd+~/sd
+
+바다를
+	바다/ncn+를/jco
+
+첨
+	첨/ncn
+
+보는
+	보/px+는/etm
+
+듯
+	듯/nbn
+
+가슴은
+	가슴/ncn+은/jxc
+
+벌써
+	벌써/mag
+
+설레기
+	설레/pvg+기/etn
+
+시작했다
+	시작/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+첨
+	첨/ncn
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+곳은
+	곳/ncn+은/jxc
+
+삼척
+	삼/nnc+척/nbu
+
+너와마을
+	너와/ncn+이/jp+마/ef+ㄹ/etm
+
+.
+	./sf
+
+
+1박2일에서
+	1박2일/ncn+에서/jca
+
+나왔던
+	나/pvg+아/ecx+오/px+아/ep+ㄴ/etm
+
+곳이라
+	곳/ncn+이/jp+라/ecs
+
+더
+	더/mag
+
+유명해지지
+	유명해지/pvg+지/ecx
+
+않았나
+	않/px+아/ep+나/ef
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+이승기랑
+	이승/ncn+기/ncn+랑/jxc
+
+김c
+	김c/ncn
+
+두부한모를
+	두부한모/ncn+를/jco
+
+만들어
+	만들/pvg+어/ecx
+
+그
+	그/mmd
+
+무엇보다
+	무엇/npd+보다/jca
+
+맛있게
+	맛있/paa+게/ecs
+
+먹던
+	먹/pvg+던/etm
+
+모습이
+	모습/ncn+이/jcc
+
+생각이
+	생각/ncpa+이/jcc
+
+난다
+	나/px+ㄴ다/ef
+
+.
+	./sf
+
+
+화전민들이
+	화전민/ncn+들/ncn+이/jcc
+
+밭을
+	밭/ncn+을/jco
+
+일구며
+	일구/pvg+며/ecc
+
+살았다는
+	살/pvg+아/ep+다/ef+는/etm
+
+이곳엔
+	이곳/npd+엔/jca
+
+몇동의
+	몇/nnc+동/nbu+의/jcm
+
+황토
+	황토/ncn
+
+너와집을
+	너와/ncn+집/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+정보화마을,
+	정보/ncn+화/ncn+이/jp+마/ef+ㄹ/etm+,/sp
+
+산촌체험
+	산촌/ncn+체험/ncpa
+
+마을로
+	마을/ncn+로/jca
+
+각광을
+	각광/ncn+을/jco
+
+받고
+	받/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+척박한
+	척박/ncn+한/ncn
+
+땅을
+	땅/ncn+을/jco
+
+일구며
+	일구/pvg+며/ecc
+
+살았을
+	살/pvg+아/ep+ㄹ/etm
+
+화전민들
+	화전민/ncn+들/ncn
+
+...
+	.../se
+
+
+이곳을
+	이곳/npd+을/jco
+
+둘러싼
+	둘러싸/pvg+ㄴ/etm
+
+산이
+	산/ncn+이/jcc
+
+육백산이라고
+	육백산/ncn+이/jp+라/ef+고/jcr
+
+하는데,
+	하/pvg+ㄴ데/ecs+,/sp
+
+지명의
+	지명/ncpa+의/jcm
+
+유래가
+	유래/ncpa+가/jcc
+
+이곳
+	이곳/npd
+
+땅에는
+	땅/ncn+에/jca+는/jxc
+
+무엇을
+	무엇/npd+을/jco
+
+심든
+	심/pvg+든/ecs
+
+곡식이
+	곡식/ncn+이/jcc
+
+육백말을
+	육/nnc+백/nnc+말/nbu+을/jco
+
+뿌려야
+	뿌리/pvg+어야/ecs
+
+농사를
+	농사/ncn+를/jco
+
+지을
+	지/px+ㄹ/etm
+
+수
+	수/nbn
+
+있다고
+	있/px+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그만큼
+	그/npp+만큼/jxc
+
+땅이
+	땅/ncn+이/jcc
+
+척박하다는
+	척박/ncps+하/xsms+다/ef+는/etm
+
+증거이다
+	증거/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+땅에도
+	땅/ncn+에/jca+도/jxc
+
+아무거나
+	아무/npd+이/jp+거나/ecc
+
+심어서는
+	심/pvg+어서/ecs+는/jxc
+
+자라지
+	자라/pvg+지/ecx
+
+못하고
+	못하/px+고/ecc
+
+조-
+	조/ncn+-/sd
+
+콩-
+	콩/ncn+-/sd
+
+뭐
+	뭐/npd
+
+이런식으로
+	이런식/ncn+으로/jca
+
+곡물을
+	곡물/ncn+을/jco
+
+바꿔가며
+	바꾸/pvg+어/ecx+가/px+며/ecc
+
+심어야
+	심/pvg+어야/ecs
+
+땅의
+	땅/ncn+의/jcm
+
+기운이
+	기운/ncn+이/jcc
+
+돌아
+	돌/pvg+아/ecx
+
+농사가
+	농사/ncn+가/jcs
+
+잘
+	잘/mag
+
+된다고
+	되/pvg+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+봄
+	보/px+ㅁ/etn
+
+여름
+	여름/ncn
+
+가을
+	가/px+ㄹ/etm
+
+겨울
+	겨울/ncn
+
+...
+	.../se
+
+
+산촌의
+	산촌/ncn+의/jcm
+
+생활을
+	생활/ncpa+을/jco
+
+경험하기에
+	경험/ncpa+하/xsva+기/etn+에/jca
+
+최고의
+	최고/ncn+의/jcm
+
+장소가
+	장소/ncn+가/jcs
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+서울에서
+	서울/ncn+에서/jca
+
+벗어나는
+	벗/pvg+어/ecx+나/px+는/etm
+
+길.
+	길/ncn+./sf
+
+..
+	./sf+./sf
+
+
+흐린날도
+	흐린날/ncn+도/jxc
+
+아닌데
+	아니/paa+ㄴ데/ecs
+
+뿌연
+	뿌연/ncn
+
+창밖으로
+	창밖/ncn+으로/jca
+
+보이는
+	보이/pvg+는/etm
+
+하늘이
+	하늘/ncn+이/jcc
+
+잔뜩
+	잔뜩/mag
+
+찌푸리고
+	찌푸리/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+저
+	저/mmd
+
+붉은기운
+	붉은기운/ncn
+
+너머로
+	너머/ncn+로/jca
+
+태양이
+	태양/ncn+이/jcc
+
+떠오를
+	떠오르/pvg+ㄹ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+한참을
+	한참/ncn+을/jco
+
+달려
+	달리/pvg+어/ecx
+
+어느사이
+	어느사/ncn+이/jcc
+
+바다가
+	바/nbn+이/jp+다가/ecs
+
+펼쳐진다
+	펼치/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+강릉을
+	강릉/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+7번국도로
+	7번국도/ncn+로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+해안도로로
+	해안/ncn+도로/ncn+로/jca
+
+멋진
+	멋지/paa+ㄴ/etm
+
+겨울
+	겨울/ncn
+
+바다가
+	바다/ncn+가/jcc
+
+
+우리를
+	우리/npp+를/jco
+
+기다리고
+	기다리/pvg+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+삼척으로
+	삼/nnc+척/nbu+으로/jca
+
+달려~
+	달/paa+려/ecs+~/sd
+
+
+삼척이라면
+	삼/nnc+척/nbu+이/jp+라면/ecs
+
+최근
+	최근/mag
+
+숭례문
+	숭례문/ncn
+
+복원에
+	복원/ncpa+에/jca
+
+사용할
+	사용/ncpa+하/xsva+ㄹ/etm
+
+소나무를
+	소나무/ncn+를/jco
+
+구한
+	구하/pvg+ㄴ/etm
+
+지역으로
+	지역/ncn+으로/jca
+
+매스컴을
+	매스컴/ncn+을/jco
+
+탔었다
+	트/pvg+었었/ep+다/ef
+
+.
+	./sf
+
+
+장소는
+	장소/ncn+는/jxc
+
+강원도
+	강원/ncn+도/jxc
+
+삼척
+	삼/nnc+척/nbu
+
+준경묘(
+	준경묘(/ncn
+
+.
+	./sf
+
+
+조선
+	조선/ncpa
+
+태조의
+	태조/ncn+의/jcm
+
+5대조이며
+	5/nnc+대/xsnu+조/nbu+이/jp+며/ecc
+
+목조의
+	목조/ncpa+의/jcm
+
+아버지인
+	아버지/ncn+이/jp+ㄴ/etm
+
+양무장군의
+	양/xp+무장/ncn+군/ncn+의/jcm
+
+묘이다
+	묘/ncn+이/jp+다/ef
+
+.)
+	./sf+)/sr
+
+
+인데,
+	일/pvg+ㄴ데/ecs+,/sp
+
+"어명이오"외침이
+	"/sl+어명/ncn+이/jp+오/ef+"/sr+외침/ncn+이/jcc
+
+울려
+	울리/pvg+어/ecx
+
+퍼지고
+	푸/pvg+어/ecx+지/px+고/ecc
+
+도끼로
+	도끼/ncn+로/jca
+
+내려치는
+	내려치/pvg+는/etm
+
+장면을
+	장면/ncn+을/jco
+
+보았었다
+	보/px+았었/ep+다/ef
+
+.
+	./sf
+
+
+키
+	크/paa+어/ecx
+
+32m
+	32m/ncn
+
+주지름
+	주지름/ncn
+
+74cm에
+	74cm/ncn+에/jca
+
+미끈하게
+	미끈하/paa+게/ecs
+
+빠진
+	빠지/pvg+ㄴ/etm
+
+110세
+	110/nnc+세/nnc
+
+금강송이었다고
+	금강/ncn+송이/ncn+이/jp+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+금강소나무는
+	금강/ncn+소나무/ncn+는/jxc
+
+바닷바람을
+	바닷바람/ncn+을/jco
+
+맞으며
+	맞/pvg+으며/ecc
+
+더디게
+	더디/paa+게/ecs
+
+자라
+	자르/pvg+아/ecx
+
+재질이
+	재질/ncn+이/jcc
+
+단단하고
+	단단/ncps+하고/jct
+
+잘
+	잘/mag
+
+썪지
+	썪지/ncn
+
+않아
+	않/px+아/ecx
+
+부석사
+	부석사/ncn
+
+무량수전과
+	무량수전/ncn+과/jcj
+
+경복궁
+	경복궁/ncn
+
+복원에도
+	복원/ncpa+에/jca+도/jxc
+
+쓰였다
+	쓰이/pvg+었/ep+다/ef
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+준경묘는
+	준경묘/ncn+는/jxc
+
+목조가
+	목조/ncpa+가/jcc
+
+한
+	하/pvg+ㄴ/etm
+
+도승의
+	도승/ncn+의/jcm
+
+예언(이곳에
+	예언(이곳/ncn+에/jca
+
+묘를
+	묘/ncn+를/jco
+
+쓰면
+	쓰/pvg+면/ecs
+
+5대후에
+	5대후/ncn+에/jca
+
+임금이
+	임금/ncn+이/jcc
+
+나온다는)대로
+	나/pvg+아/ecx+오/px+ㄴ다/ef+는/etm+)/sr+대/nbu+로/jca
+
+백우금관으로
+	백우금관/ncn+으로/jca
+
+양친을
+	양친/ncn+을/jco
+
+안장한
+	안장/ncn+한/ncn
+
+뒤,
+	뒤/ncn+,/sp
+
+5대에
+	5/nnc+대/nbu+에/jca
+
+이르러
+	이르/pvg+어/ecx
+
+조선을
+	조선/ncpa+을/jco
+
+창업하게
+	창업/ncpa+하/xsva+게/ecs
+
+되었다는
+	되/pvg+었/ep+다/ef+는/etm
+
+전설이
+	전설/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+[이자리는
+	[/sl+이/nnc+자리/nbu+는/jxc
+
+천하의
+	천하/ncn+의/jcm
+
+대명당자리지만,
+	대명/ncn+당자/ncn+이/jp+리/ep+지만/ecs+,/sp
+
+묘를
+	묘/ncn+를/jco
+
+씌되
+	씌/pvg+되/ecs
+
+소
+	소/ncn
+
+백마리를
+	백/nnc+마리/nbu+를/jco
+
+잡아
+	잡/pvg+어/ecx
+
+제물로
+	제물로/mag
+
+하고
+	하/pvg+고/ecc
+
+황금으로
+	황금/ncn+으로/jca
+
+만들어진
+	만들/pvg+어/ecx+지/px+ㄴ/etm
+
+관으로
+	관/ncn+으로/jca
+
+장례를
+	장례/ncn+를/jco
+
+치르면
+	치르/pvg+면/ecs
+
+5해
+	5/nnc+해/nbu
+
+후손에서
+	후손/ncn+에서/jca
+
+임금이
+	임금/ncn+이/jcc
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+명당자리이다
+	명당자리/ncn+이/jp+다/ef
+
+.]
+	./sf+]/sr
+
+
+라고
+	라/ncn+이/jp+고/ecc
+
+고승이
+	고승/ncn+이/jcc
+
+말을
+	말/ncn+을/jco
+
+했단다
+	하/px+었/ep+단다/ef
+
+.
+	./sf
+
+
+백우금관을
+	백우금관/ncn+을/jco
+
+쓰라는
+	쓰/pvg+라/ef+는/etm
+
+말에
+	말/ncn+에/jca
+
+형편이
+	형편/ncn+이/jcc
+
+좋지
+	좋/paa+지/ecx
+
+않았던
+	않/px+아/ep+ㄴ/etm
+
+이안사는
+	이안사/ncn+는/jxc
+
+백마리
+	백/nnc+마리/nbu
+
+소는
+	소/ncn+는/jxc
+
+흰소로
+	흰소/ncn+로/jca
+
+해석하는
+	해석/ncpa+하/xsva+는/etm
+
+기발한
+	기발/ncn+한/ncn
+
+발상으로
+	발상/ncn+으로/jca
+
+산신제를
+	산신제/ncn+를/jco
+
+올리고,
+	올리/pvg+고/ecc+,/sp
+
+관은
+	관/nbu+은/jxc
+
+볏짚으로
+	볏짚/ncn+으로/jca
+
+싸서
+	쓰/pvg+어서/ecs
+
+금관으로
+	금관/ncn+으로/jca
+
+대용하여
+	대용/ncpa+하/xsva+어/ecx
+
+묘를
+	묘/ncn+를/jco
+
+쓰게
+	쓰/pvg+게/ecs
+
+되었고,
+	되/pvg+었/ep+고/ecc+,/sp
+
+이후
+	이후/ncn
+
+약
+	약/ncn
+
+150여년이
+	150/nnc+여/xsnu+년/nbu+이/jcc
+
+지난
+	지나/pvg+ㄴ/etm
+
+후에
+	후/ncn+에/jca
+
+5대
+	5/nnc+대/nbu
+
+후손인
+	후손/ncn+이/jp+ㄴ/etm
+
+이성계가
+	이성/ncn+계/ncn+가/jcs
+
+조선을
+	조선/ncpa+을/jco
+
+역성혁명을
+	역성혁명/ncn+을/jco
+
+일으키고
+	일으키/pvg+고/ecc
+
+왕위에
+	왕위/ncn+에/jca
+
+오른
+	오르/pvg+ㄴ/etm
+
+이유를
+	이유/ncn+를/jco
+
+준경묘의
+	준경묘/ncn+의/jcm
+
+발복이라고
+	발복/ncn+이/jp+라/ef+고/jcr
+
+전하고
+	전하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+너와마을은
+	너와/ncn+마을/ncn+은/jxc
+
+삼척시
+	삼척시/ncn
+
+도계읍
+	도계/ncn+읍/ncn
+
+신리에
+	시/paa+ㄴ/etm+리/nbn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+마을로서,
+	마을/ncn+로서/jca+,/sp
+
+강원도
+	강원/ncn+도/jxc
+
+산간오지마을의
+	산간오지/ncn+마을/ncn+의/jcm
+
+화전민이
+	화전민/ncn+이/jcc
+
+자연
+	자연/ncn
+
+부락을
+	부락/ncn+을/jco
+
+형성한
+	형성/ncpa+하/xsva+ㄴ/etm
+
+마을로
+	마을/ncn+로/jca
+
+화전을
+	화전/ncn+을/jco
+
+통한
+	통하/pvg+ㄴ/etm
+
+농사를
+	농사/ncn+를/jco
+
+주업으로
+	주업/ncn+으로/jca
+
+하여
+	하/pvg+어/ecx
+
+산불이
+	산불/ncn+이/jcc
+
+자주났으며,
+	자주났으며,/ncn
+
+이에
+	이/npd+에/jca
+
+마을명을
+	마을/ncn+명/ncn+을/jco
+
+산불이
+	산불/ncn+이/jcc
+
+자주나지
+	자주/ncn+나/ncn+이/jp+지/ecs
+
+않도록
+	않/px+도록/ecs
+
+신리라고
+	신/pvg+리라/ef+고/jcr
+
+변경하였으며
+	변경/ncpa+하/xsva+었/ep+으며/ecc
+
+두메산촌마을의
+	두메/ncn+산촌/ncn+마을/ncn+의/jcm
+
+수수한
+	수수/ncn+한/ncn
+
+정과
+	정/ncn+과/jcj
+
+고향의
+	고향/ncn+의/jcm
+
+따뜻함을
+	따뜻/ncn+함/ncn+을/jco
+
+그대로
+	그대로/mag
+
+간직한
+	간직/ncpa+하/xsva+ㄴ/etm
+
+아름다운
+	아름답/paa+은/etm
+
+마을입니다
+	마을/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+신리
+	시/paa+ㄴ/etm+리/nbn
+
+지명유래는
+	지명/ncpa+유래/ncpa+는/jxc
+
+마을과
+	마을/ncn+과/jcj
+
+구사리
+	구/nnc+사/nnc+리/nbu
+
+사이에
+	사이/ncn+에/jca
+
+[큰
+	[/sl+크/paa+ㄴ/etm
+
+작은
+	작/paa+은/etm
+
+소붓치재(
+	소붓치재(/ncn
+
+)]가
+	)/sr+]/sr+가/jcc
+
+있어서
+	있/px+어서/ecs
+
+[소붓치]라
+	[소붓치]라/ncn
+
+하다가
+	하/pvg+다가/ecs
+
+이것이
+	이것/npd+이/jcc
+
+와전되어
+	와전/ncn+되/xsvn+어/ecx
+
+[부쇳골](
+	[부쇳골](/ncn
+
+)로
+	)/sr+로/jca
+
+되었는데
+	되/pvg+었/ep+는데/ecs
+
+화재가
+	화재/ncn+가/jcs
+
+자주
+	자주/mag
+
+나기에
+	나/npp+이/jp+기/etn+에/jca
+
+신리로
+	시/paa+ㄴ/etm+리/nbn+로/jca
+
+고쳤다고
+	고치/pvg+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이,
+	이/mmd+,/sp
+
+박씨의
+	박씨/ncn+의/jcm
+
+개척지로
+	개척/ncpa+지로/ncn
+
+그후
+	그후/mag
+
+경주
+	경주/ncpa
+
+최제원(
+	최제원(/ncn
+
+),
+	)/sr+,/sp
+
+기타
+	기타/ncn
+
+각성이
+	각성/ncn+이/jcc
+
+이주해
+	이주/ncpa+하/xsva+어/ecx
+
+왔단다
+	오/px+아/ep+단다/ef
+
+.
+	./sf
+
+
+어르신들이
+	어르신/ncn+들/ncn+이/jcc
+
+어찌나
+	어찌/mag+나/jxc
+
+유해보이시는지
+	유하/pvg+어/ecx+보이/px+시/ep+는지/ecs
+
+법없이도
+	법/ncn+없이/jca+도/jxc
+
+사실
+	사실/mag
+
+분들
+	불/pvg+ㄴ들/ecs
+
+같은
+	같/paa+은/etm
+
+..
+	./sf+./sf
+
+
+인상이
+	인상/ncn+이/jcc
+
+정말
+	정말/mag
+
+좋으시다
+	좋/paa+으시/ep+다/ef
+
+.
+	./sf
+
+
+너와마을
+	너와/ncn+이/jp+마/ef+ㄹ/etm
+
+풍경
+	풍경/ncn
+
+.
+	./sf
+
+
+너와를
+	너와/ncn+를/jco
+
+얹은
+	얹/pvg+은/etm
+
+황토집들이
+	황토/ncn+집들이/ncpa
+
+옹기종기
+	옹기종기/mag
+
+마을을
+	마을/ncn+을/jco
+
+이루고
+	이루/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+규모를
+	규모/ncn+를/jco
+
+그렇게
+	그렇/pad+게/ecs
+
+크지
+	크/paa+지/ecx
+
+않지만,
+	않/px+지/ecx+말/px+ㄴ/etm+,/sp
+
+우리를
+	우리/npp+를/jco
+
+맞는
+	맞/pvg+는/etm
+
+마을
+	마을/ncn
+
+어르신들의
+	어르신/ncn+들/ncn+의/jcm
+
+손과
+	손/ncn+과/jcj
+
+발이
+	발/ncn+이/jcc
+
+분주하시다
+	분주/ncn+하시/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+많은
+	많/paa+은/etm
+
+체험거리들(자치기,
+	체험/ncpa+거리/ncn+들/xsncc+(/sl+자치/ncn+이/jp+기/etn+,/sp
+
+제기차기,
+	제기차기/ncpa+,/sp
+
+굴렁쇠,
+	굴렁쇠/ncn+,/sp
+
+설피체험,
+	설피/ncn+체험/ncpa+,/sp
+
+삼굿구이,
+	삼굿구이,/ncn
+
+두부만들기,
+	두부/ncn+만들기/ncn+,/sp
+
+인절미만들기,
+	인절미/ncn+만들기/ncn+,/sp
+
+모닥불
+	모닥불/ncn
+
+..)
+	./sf+./sf+)/sr
+
+
+참
+	참/mag
+
+많이도
+	많이/mag+도/jxc
+
+준비해주셨다
+	준비/ncpa+하/xsva+어/ecx+주/px+셨/ep+다/ef
+
+.
+	./sf
+
+
+사실
+	사실/mag
+
+난
+	나/px+ㄴ/etm
+
+시골집에
+	시골/ncn+집/ncn+에/jca
+
+가면
+	가/px+면/ecs
+
+늘
+	늘/mag
+
+체험하는
+	체험/ncpa+하/xsva+는/etm
+
+것들이지만,
+	것들이지만,/ncn
+
+도심에서만
+	돌/pvg+시/ep+ㅁ/etn+에서/jca+만/jxc
+
+자란
+	자라/pvg+ㄴ/etm
+
+아이들과
+	아이/ncn+들/ncn+과/jcj
+
+어른에게는
+	어른/ncn+에게/jca+는/jxc
+
+색다른
+	색다르/paa+ㄴ/etm
+
+경험이
+	경험/ncpa+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+느껴보는
+	느끼/pvg+어/ecx+보/px+는/etm
+
+산골체험에
+	산골/ncn+체험/ncpa+에/jca
+
+참가자들은
+	참가자/ncn+들/ncn+은/jxc
+
+시간가는
+	시간/ncn+가/jcs+는/jxc
+
+줄
+	주/px+ㄹ/etm
+
+모르고
+	모르/pvg+고/ecc
+
+이곳저곳
+	이곳저곳/npd
+
+체험하느라
+	체험/ncpa+하/xsva+느라/ecs
+
+바빴다
+	바쁘/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+모습이
+	모습/ncn+이/jcc
+
+삼굿구이라고
+	삼굿구/ncn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+옛날
+	옛날/ncn
+
+삼을
+	사/pvg+ㅁ/etn+을/jco
+
+증기로
+	증기/ncn+로/jca
+
+삶을때
+	삶/pvg+을/etm+때/nbn
+
+이런
+	이런/mmd
+
+방식을
+	방식/ncn+을/jco
+
+사용했다고
+	사용/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+우선
+	우선/mag
+
+구덩이를
+	구덩이/ncn+를/jco
+
+파서
+	파/pvg+아/ecx
+
+불을
+	불/ncn+을/jco
+
+지피고
+	지피/pvg+고/ecc
+
+그
+	그/mmd
+
+위에
+	위/ncn+에/jca
+
+돌을
+	돌/pvg+ㄹ/etm
+
+올려
+	올리/pvg+어/ecx
+
+3~4시간
+	3/nnc+~/sd+4/nnc+시간/nbu
+
+바알갛게
+	바알갛/ncn+게/jca
+
+굽는다고
+	굽/pvg+는다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+그
+	그/mmd
+
+옆에
+	옆/ncn+에/jca
+
+다시
+	다시/mag
+
+구덩이를
+	구덩이/ncn+를/jco
+
+파서
+	파/pvg+아/ecx
+
+삼을
+	사/pvg+ㅁ/etn+을/jco
+
+넣고
+	넣/pvg+고/ecc
+
+
+함께
+	함께/mag
+
+덮은
+	덮/pvg+은/etm
+
+뒤
+	뒤/ncn
+
+돌위에
+	돌/ncn+위/xsnx+에/jca
+
+물을
+	물/ncn+을/jco
+
+부으면
+	부/ncn+이/jp+면/ecs
+
+사이로
+	사이/ncn+로/jca
+
+이어진
+	잇/pvg+어/ecx+지/px+ㄴ/etm
+
+구멍으로
+	구멍/ncn+으로/jca
+
+뜨거운
+	뜨겁/paa+은/etm
+
+증기가
+	증기/ncn+가/jcs
+
+나와서
+	나오/pvg+아/ecx
+
+삶는
+	삶/ncn+는/jxc
+
+효과를
+	효과/ncn+를/jco
+
+낸다는
+	내/px+ㄴ다/ef+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+이것을
+	이것/npd+을/jco
+
+보니
+	보/px+니/ecs
+
+마치
+	마치/mag
+
+아프리카에서
+	아프리카/ncn+에서/jca
+
+고기와
+	고/ncn+이/jp+기/etn+와/jcj
+
+바나나
+	바나나/ncn
+
+등을
+	등/nbu+을/jco
+
+넣고
+	넣/pvg+고/ecc
+
+뜨거운
+	뜨겁/paa+은/etm
+
+돌을
+	돌/pvg+ㄹ/etm
+
+얹어
+	얹/pvg+어/ecx
+
+뜨거운
+	뜨겁/paa+은/etm
+
+열기로
+	열/pvg+기/etn+로/jca
+
+익히던
+	익히/pvg+던/etm
+
+모습과
+	모습/ncn+과/jct
+
+흡사하다
+	흡사/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+체험거리로
+	체험/ncpa+거리/ncn+로/jca
+
+고구마와
+	고구마/ncn+와/jcj
+
+달걀을
+	달걀/ncn+을/jco
+
+넣고
+	넣/pvg+고/ecc
+
+삶아보기로
+	삶/pvg+아/ecx+보/px+기/etn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+추운날씨에
+	추운날씨/ncn+에/jca
+
+그리고
+	그리고/maj
+
+너무
+	너무/mag
+
+짧은
+	짧/paa+은/etm
+
+시간에
+	시간/nbu+에/jca
+
+시작부터
+	시작/ncpa+부터/jxc
+
+익히는
+	익히/pvg+는/etm
+
+것까지
+	것/nbn+까지/jxc
+
+볼려고
+	볼려/ncn+고/jcj
+
+
+해서인지
+	해서/ncn+이/jp+ㄴ지/ecs
+
+달걀
+	달걀/ncn
+
+고구마가
+	고구마/ncn+가/jcs
+
+채
+	채/nbn
+
+익지
+	익/pvg+지/ecx
+
+않아서
+	않/px+아/ecx
+
+먹고
+	먹/pvg+고/ecc
+
+싶어했던
+	싶/px+어/ecx+하/px+었/ep+던/etm
+
+참가자들은
+	참가자/ncn+들/ncn+은/jxc
+
+꽤
+	꽤/mag
+
+섭섭해
+	섭섭/ncps+하/xsms+어/ecx
+
+했었다
+	하/px+었었/ep+다/ef
+
+.
+	./sf
+
+
+행사가
+	행사/ncpa+가/jcc
+
+끝날즈음
+	끝나/pvg+ㄹ/etm+즈음/nbs
+
+달걀도
+	달걀/ncn+도/jxc
+
+익지
+	익/pvg+지/ecx
+
+않았다는
+	않/px+아/ep+다/ef+는/etm
+
+소리를
+	소리/ncn+를/jco
+
+들은
+	들/pvg+ㄴ/etm
+
+마을
+	마을/ncn
+
+어르신께서
+	어르신/ncn+께서/jcs
+
+"아이고
+	"/sl+아이/ncn+이/jp+고/ecc
+
+..
+	./sf+./sf
+
+
+잘못됐네
+	잘못/ncpa+되/xsvn+었/ep+네/ef
+
+.."
+	./sf+./sf+"/sl
+
+
+하시며
+	하/px+시/ep+며/ecc
+
+많이
+	많/paa+이/xsa
+
+미안해
+	미안/ncps+하/xsms+어/ecx
+
+하셨는데,
+	하/pvg+셨/ep+는데/ecs+,/sp
+
+
+결국,
+	결국/ncn+,/sp
+
+다음날
+	다음날/ncn
+
+아침
+	아침/ncn
+
+일출보러
+	일출/ncpa+보/ncn+이/jp+러/ecs
+
+가는
+	가/pvg+는/etm
+
+버스안에서
+	버스/ncn+안/ncn+에서/jca
+
+고구마와
+	고구마/ncn+와/jcj
+
+달걀을
+	달걀/ncn+을/jco
+
+보내주셔서
+	보내/pvg+어/ecx+주/px+시/ep+어서/ecs
+
+맛을
+	맛/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+어르신들의
+	어르신/ncn+들/ncn+의/jcm
+
+세심한
+	세심/ncn+한/ncn
+
+배려에
+	배려/ncpa+에/jca
+
+감동
+	감동/ncpa
+
+두배
+	두/nnc+배/nbu
+
+!!
+	!/sf+!/sf
+
+
+바람이
+	바람/ncn+이/jcc
+
+꽤
+	꽤/mag
+
+차가운
+	차갑/paa+은/etm
+
+날이라
+	날/ncn+이/jp+라/ecs
+
+모닥불을
+	모닥불/ncn+을/jco
+
+곳곳에
+	곳곳/ncn+에/jca
+
+만들어
+	만들/pvg+어/ecx
+
+놓고
+	놓/px+고/ecc
+
+불을
+	불/ncn+을/jco
+
+지펴주셨다
+	지피/pvg+어/ecx+주/px+셨/ep+다/ef
+
+.
+	./sf
+
+
+다른
+	다른/mma
+
+체험거리를
+	체험/ncpa+거리/ncn+를/jco
+
+즐기다
+	즐기/pvg+다/ef
+
+추우면
+	춥/paa+으면/ecs
+
+삼삼오오
+	삼/nnc+삼/nnc+오/nnc+오/nnc
+
+모여서
+	모/ncn+이/jp+어서/ecs
+
+불을
+	불/ncn+을/jco
+
+쬐고
+	쬐/pvg+고/ecc
+
+...
+	.../se
+
+
+이렇게
+	이렇/pad+게/ecs
+
+반나절을
+	반나절/ncn+을/jco
+
+보냈더니
+	보내/pvg+었/ep+더니/ecs
+
+온몸에
+	온몸/ncn+에/jca
+
+장작
+	장작/ncn
+
+냄새가
+	냄새/ncn+가/jcs
+
+가시길
+	가시/ncn+길/ncn
+
+않았다
+	않/px+아/ep+다/ef
+
+.
+	./sf
+
+
+마치
+	마치/mag
+
+아궁이에
+	아궁이/ncn+에/jca
+
+불지피고
+	불지피/ncn+이/jp+고/ecc
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+시골
+	시골/ncn
+
+아낙네가
+	아낙네/ncn+가/jcs
+
+된
+	되/pvg+ㄴ/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+그래도
+	그래도/maj
+
+싫지
+	싫/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+냄새
+	냄새/ncn
+
+.
+	./sf
+
+
+각기
+	각기/mag
+
+소원을
+	소원/ncn+을/jco
+
+담은
+	담/pvg+은/etm
+
+염원
+	염원/ncpa
+
+종이를
+	종이/ncn+를/jco
+
+모닥불에
+	모닥불/ncn+에/jca
+
+달아놓았다
+	달/paa+아/ecx+놓/px+아/ep+다/ef
+
+.
+	./sf
+
+
+뜨거운
+	뜨겁/paa+은/etm
+
+불과
+	불/ncn+과/jct
+
+함께
+	함께/mag
+
+하나도
+	하/pvg+어/ecx+나/px+아/ecs
+
+빠짐없이
+	빠짐없이/mag
+
+이뤄지길
+	이뤄지길/ncn
+
+바래본다
+	바래/pvg+어/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+손이
+	손/ncn+이/jcc
+
+시려워서
+	시려워서/ncn
+
+쑥~
+	쑥/ncn+~/sd
+
+내밀어
+	내밀/pvg+어/ecx
+
+본다
+	보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이때는
+	이때/ncn+는/jxc
+
+연기도
+	연기/ncn+도/jxc
+
+나지
+	나/pvg+지/ecx
+
+않아서
+	않/px+아/ecx
+
+모닥불쬐기에
+	모닥불쬐/ncn+이/jp+기/etn+에/jca
+
+딱
+	딱/mag
+
+좋은
+	좋/paa+은/etm
+
+때다
+	때/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+좀더
+	좀더/mag
+
+가까이
+	가까이/mag
+
+다가갈
+	다가가/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있고
+	있/px+고/ecc
+
+.
+	./sf
+
+
+절정일때는
+	절정/ncn+이/jp+ㄹ/etm+때/nbn+는/jxc
+
+접근하기
+	접근/ncpa+하/xsva+기/etn
+
+급나지만,
+	급/nbu+나/jxc+지만/jxc+,/sp
+
+한풀
+	한풀/ncn
+
+꺾이고
+	꺾이/pvg+고/ecc
+
+사그라들때쯤
+	사그라들/pvg+ㄹ/etm+때/nbn+쯤/xsnx
+
+더
+	더/mag
+
+편안하게
+	편안/ncps+하/xsms+게/ecs
+
+다가가게
+	다가가/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+모닥불
+	모닥불/ncn
+
+.
+	./sf
+
+
+나와만들기
+	나오/pvg+아/ecx+만들/px+기/etn
+
+체험
+	체험/ncpa
+
+코너
+	코너/ncn
+
+.
+	./sf
+
+
+너와는
+	너/npp+와/jct+는/jxc
+
+소나무를
+	소나무/ncn+를/jco
+
+판자모양으로
+	판자/ncn+모양/ncn+으로/jca
+
+만드는데,
+	만들/pvg+ㄴ데/ecs+,/sp
+
+이것을
+	이것/npd+을/jco
+
+일정한
+	일정/ncn+한/ncn
+
+크기로
+	크/paa+기/etn+로/jca
+
+쪼개겹겹이
+	쪼개겹겹/ncn+이/jcc
+
+쌓아
+	쌓/pvg+아/ecx
+
+올려서
+	올리/pvg+어서/ecs
+
+지붕을
+	지붕/ncn+을/jco
+
+만든
+	만들/pvg+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+너와집이다
+	너와/ncn+집/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+너와를
+	너와/ncn+를/jco
+
+직접
+	직접/mag
+
+도끼로
+	도끼/ncn+로/jca
+
+내려치면서
+	내려치/pvg+면서/ecc
+
+쪼개보는
+	쪼개/pvg+어/ecx+보/px+는/etm
+
+체험코너
+	체험/ncpa+코너/ncn
+
+.
+	./sf
+
+
+아이도
+	아이/ncn+도/jxc
+
+어른들도
+	어른/ncn+들/ncn+도/jxc
+
+모두
+	모두/mag
+
+한번씩
+	한번씩/ncn
+
+내려치고,
+	내려치/pvg+고/ecc+,/sp
+
+자신이
+	자신/npp+이/jcs
+
+자른
+	자르/pvg+ㄴ/etm
+
+너와는
+	너/npp+와/jct+는/jxc
+
+직접
+	직접/mag
+
+가져가기도
+	가/pvg+아/ecx+지/px+어/ecx+가/px+기/etn+도/jxc
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+무거운
+	무겁/paa+은/etm
+
+것을
+	것/nbn+을/jco
+
+어찌
+	어찌/mag
+
+가져가려고
+	가/pvg+아/ecx+지/px+어/ecx+가/px+려고/ecs
+
+하는지
+	하/pvg+는지/ecs
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+마을
+	마을/ncn
+
+어르신께서
+	어르신/ncn+께서/jcs
+
+직접
+	직접/mag
+
+시범을
+	시범/ncpa+을/jco
+
+보이고
+	보이/pvg+고/ecc
+
+계신다
+	계시/paa+ㄴ다/ef
+
+.
+	./sf
+
+
+마을
+	마을/ncn
+
+아주머니께서
+	아주머니/ncn+께서/jcs
+
+식당
+	식당/ncn
+
+너와집에서
+	너와/ncn+집/ncn+에서/jca
+
+두부를
+	두/nnc+부/nbu+를/jco
+
+만들고
+	만들/pvg+고/ecc
+
+계셨다
+	계시/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+콩을
+	콩/ncn+을/jco
+
+갈아서
+	갈/pvg+아/ecx
+
+솥에
+	솥/ncn+에/jca
+
+넣고
+	넣/pvg+고/ecc
+
+끓이고,
+	끓이/pvg+고/ecc+,/sp
+
+자루에
+	자루/ncn+에/jca
+
+담아
+	담/pvg+아/ecx
+
+한번
+	한/nnc+번/nbu
+
+걸러
+	거르/pvg+어/ecx
+
+비지를
+	비/paa+지를/ecs
+
+뺀
+	빼/pvg+ㄴ/etm
+
+두유같은
+	두유/ncn+같/xsmn+은/etm
+
+물을
+	물/ncn+을/jco
+
+다시
+	다시/mag
+
+끓여서
+	끓이/pvg+어서/ecs
+
+간수를
+	가/px+ㄴ/etm+수/nbn+를/jco
+
+넣고
+	넣/pvg+고/ecc
+
+틀에
+	틀/ncn+에/jca
+
+넣어
+	넣/pvg+어/ecx
+
+눌러두면
+	누르/pvg+어/ecx+두/px+면/ecs
+
+두부가
+	두부/ncn+가/jcc
+
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+순서가
+	순서/ncn+가/jcs
+
+맞는지
+	맞/pvg+는지/ecs
+
+모르겠지만,
+	모르/pvg+겠/ep+지만/ecs+,/sp
+
+어릴적
+	어리/paa+ㄹ/etm+적/nbn
+
+엄마가
+	엄마/ncn+가/jcs
+
+자주
+	자주/mag
+
+두부를
+	두/nnc+부/nbu+를/jco
+
+만들어
+	만들/pvg+어/ecx
+
+주셔서
+	주/px+시/ep+어서/ecs
+
+이런
+	이런/mmd
+
+과정을
+	과정/ncn+을/jco
+
+거쳤던거
+	거쳤던거/ncn
+
+같단
+	같/paa+단/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+든다
+	들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+중식으로
+	중/ncn+식/xsncc+으로/jca
+
+나왔던
+	나/pvg+아/ecx+오/px+아/ep+ㄴ/etm
+
+두부맛은
+	두부/ncn+맛/ncn+은/jxc
+
+손으로
+	손/ncn+으로/jca
+
+직접
+	직접/mag
+
+만들
+	만들/pvg+ㄹ/etm
+
+구수함이
+	구수/ncn+함/ncn+이/jcc
+
+그대로
+	그대로/mag
+
+전해졌었다
+	전하/pvg+어/ecx+지/px+었었/ep+다/ef
+
+.
+	./sf
+
+
+인절미
+	인절미/ncn
+
+만들기
+	만들/pvg+기/etn
+
+체험
+	체험/ncpa
+
+.
+	./sf
+
+
+체험자들이
+	체험자/ncn+들/ncn+이/jcc
+
+열심히
+	열심히/mag
+
+떡메를
+	떡메/ncn+를/jco
+
+쳐서
+	치/pvg+어서/ecs
+
+쫄깃한
+	쫄깃한/ncn
+
+인절미
+	인절미/ncn
+
+만들기
+	만들/pvg+기/etn
+
+준비를
+	준비/ncn+를/jco
+
+하고
+	하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+아이도
+	아이/ncn+도/jxc
+
+한번
+	한/nnc+번/nbu
+
+치고,
+	치/pvg+고/ecc+,/sp
+
+어른들은
+	어른/ncn+들/ncn+은/jxc
+
+여러번
+	여러/nnc+번/nbu
+
+치고
+	치/nbu+이/jp+고/ecc
+
+....
+	.../se+./sf
+
+
+열심히
+	열심히/mag
+
+치고
+	치/pvg+고/ecc
+
+노력한
+	노력/ncpa+하/xsva+ㄴ/etm
+
+만큼
+	만큼/nbn
+
+맛있는
+	맛있/paa+는/etm
+
+인절미가
+	인절미/ncn+가/jcs
+
+만들어
+	만들/pvg+어/ecx
+
+질
+	지/px+ㄹ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+빨리
+	빨리/mag
+
+먹고
+	먹/pvg+고/ecc
+
+싶은
+	싶/px+은/etm
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+조금
+	조금/mag
+
+일찍
+	일찍/mag
+
+떡을
+	떡/ncn+을/jco
+
+만들어서인가
+	만들/pvg+어서/ecs+인가/jxc
+
+.
+	./sf
+
+
+좀
+	좀/mag
+
+무른
+	무르/pvg+ㄴ/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+있지만,
+	있/px+지/ecx+말/px+ㄴ/etm+,/sp
+
+일절미가
+	일절미/ncn+가/jcs
+
+손에서
+	손/ncn+에서/jca
+
+죽~
+	죽/ncn+~/sd
+
+늘어질
+	늘/pvg+어/ecx+지/px+ㄹ/etm
+
+만큼
+	만큼/nbn
+
+따끈하고
+	따끈/ncps+하고/jct
+
+맛이
+	맛/ncn+이/jcc
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+썰어놓기가
+	썰/pvg+어/ecx+놓/px+기/etn+가/jcs
+
+바쁘게
+	바쁘/paa+게/ecs
+
+싹~
+	싹/ncn+~/sd
+
+사라지는
+	사라지/pvg+는/etm
+
+떡떡
+	떡떡/ncn
+
+..
+	./sf+./sf
+
+
+너와집
+	너와/ncn+집/ncn
+
+뒷편에
+	뒷편/ncn+에/jca
+
+있던
+	있/px+던/etm
+
+쌓인
+	쌓이/pvg+ㄴ/etm
+
+장작들과
+	장작/ncn+들/ncn+과/jcj
+
+조각상
+	조각/ncn+상/ncn
+
+.
+	./sf
+
+
+재밌어서
+	재밌어서/ncn
+
+한컷
+	한/nnc+컷/nbu
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+이
+	이/mmd
+
+지붕이
+	지붕/ncn+이/jcc
+
+너와로
+	너와/ncn+로/jca
+
+이은
+	이/npd+은/jxc
+
+지붕이다
+	지붕/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+처음에는
+	처음/ncn+에/jca+는/jxc
+
+황금빛으로
+	황금빛/ncn+으로/jca
+
+빛나던
+	빛나/pvg+던/etm
+
+너와가
+	너와/ncn+가/jcs
+
+비를
+	비/ncn+를/jco
+
+맞고
+	맞/pvg+고/ecc
+
+시간이
+	시간/ncn+이/jcc
+
+지나면서
+	지나/pvg+면서/ecc
+
+이렇게
+	이렇/pad+게/ecs
+
+회색으로
+	회색/ncn+으로/jca
+
+변한다고
+	변하/pvg+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+엉성하게
+	엉성/ncps+하/xsms+게/ecs
+
+올려서
+	올리/pvg+어서/ecs
+
+혹
+	혹/mag
+
+비라고
+	비/ncn+이/jp+라/ef+고/jcr
+
+새지
+	새/ncn+이/jp+지/ecs
+
+않을까
+	않/px+을까/ef
+
+걱정한다는
+	걱정/ncpa+하/xsva+ㄴ다/ef+는/etm
+
+걱정뚝~
+	걱정/ncpa+뚝/ncn+~/sd
+
+.
+	./sf
+
+
+비를
+	비/ncn+를/jco
+
+맞고
+	맞/pvg+고/ecc
+
+눈을
+	눈/ncn+을/jco
+
+맞으면
+	맞/pvg+으면/ecs
+
+나무가
+	나무/ncn+가/jcs
+
+팽창을
+	팽창/ncpa+을/jco
+
+해서
+	하/pvg+어서/ecs
+
+전혀
+	전혀/mag
+
+샐
+	새/pvg+ㄹ/etm
+
+염려가
+	염려/ncpa+가/jcc
+
+없다고
+	없/paa+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+집안의
+	집안/ncn+의/jcm
+
+탁한
+	탁하/paa+ㄴ/etm
+
+공기
+	공기/nbu
+
+배출,
+	배출/ncpa+,/sp
+
+습도조절에도
+	습도/ncn+조절/ncpa+에/jca+도/jxc
+
+뛰어나다고
+	뛰/pvg+어/ecx+나/px+다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+화전민들의
+	화전민/ncn+들/ncn+의/jcm
+
+지혜가
+	지혜/ncn+가/jcs
+
+돋보인다
+	돋보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+너와펜션의
+	너와펜션/ncn+의/jcm
+
+너와집은
+	너와/ncn+집/ncn+은/jxc
+
+200년
+	200/nnc+년/nbu
+
+이상
+	이상/ncn
+
+자란
+	자라/pvg+ㄴ/etm
+
+적송(붉은
+	적송(붉/ncn+은/jxc
+
+소나무)
+	소나무/ncn+)/sr
+
+토막을
+	토막/ncn+을/jco
+
+길이로
+	길이/ncn+로/jca
+
+세워
+	세우/pvg+어/ecx
+
+놓고
+	놓/px+고/ecc
+
+쐐기를
+	쐐기/ncn+를/jco
+
+박아
+	박/pvg+아/ecx
+
+쳐서
+	치/pvg+어서/ecs
+
+잘라낸
+	자르/pvg+아/ecx+내/px+ㄴ/etm
+
+널판으로
+	널판/ncn+으로/jca
+
+지붕을
+	지붕/ncn+을/jco
+
+덮어
+	덮/pvg+어/ecx
+
+만든
+	만들/pvg+ㄴ/etm
+
+집으로,
+	집/ncn+으로/jca+,/sp
+
+이
+	이/mmd
+
+널판의
+	널판/ncn+의/jcm
+
+크기는
+	크/paa+기/etn+는/jxc
+
+일정하지
+	일정/ncps+하/xsms+지/ecx
+
+않으나
+	않/px+으나/ecs
+
+보통
+	보통/mag
+
+가로
+	가로/mag
+
+20~30cm,
+	20~30cm,/ncn
+
+세로
+	세/nnc+로/jca
+
+40~60cm이며,
+	40~60cm이며,/ncn
+
+두께는
+	두/nnc+께/jca+는/jxc
+
+4~5cm
+	4~5cm/ncn
+
+정도이다
+	정도/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+강원도에서는
+	강원도에서/ncn+는/jxc
+
+느에집
+	느에집/ncn
+
+또는
+	또는/maj
+
+능애집이라고도
+	능애집/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+부르는데,
+	부르/pvg+ㄴ데/ecs+,/sp
+
+삼척
+	삼/nnc+척/nbu
+
+너와마을에는
+	너와/ncn+마을/ncn+에/jca+는/jxc
+
+마을
+	마을/ncn
+
+이름에서부터
+	이름/ncn+에서/jca+부터/jxc
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있듯이
+	있/px+듯이/ecs
+
+주변에서
+	주변/ncn+에서/jca
+
+쉽게
+	쉽/paa+게/ecs
+
+너와집을
+	너와/ncn+집/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+나와마을
+	나와/ncn+이/jp+마/ef+ㄹ/etm
+
+이곳저곳을
+	이곳저곳/npd+을/jco
+
+다니며
+	다니/pvg+며/ecc
+
+만난
+	만나/pvg+ㄴ/etm
+
+친구들
+	친구/ncn+들/ncn
+
+.
+	./sf
+
+
+황토벽
+	황토/ncn+벽/ncn
+
+한켠에
+	하/pvg+ㄴ/etm+켠/nbn+에/jca
+
+시래기가
+	시래기/ncn+가/jcs
+
+시원스럽게
+	시원/ncps+스럽/xsmn+게/ecs
+
+널려
+	널리/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+찬바람
+	찬바람/ncn
+
+맞으며
+	맞/pvg+으며/ecc
+
+맛있게
+	맛있/paa+게/ecs
+
+말라갈
+	마르/pvg+아/ecx+가/px+ㄹ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+이쪽
+	이/nnc+쪽/nbu
+
+지방이
+	지방/ncn+이/jcc
+
+그래도
+	그래도/maj
+
+참
+	참/mag
+
+따뜻하다고
+	따뜻/ncps+하/xsms+다/ef+고/jcr
+
+느낀
+	느끼/pvg+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+철모르고
+	철모/ncn+르/ncn+이/jp+고/ecc
+
+핀
+	피/pvg+ㄴ/etm
+
+개나리를
+	개나리/ncn+를/jco
+
+보고서이다
+	보고서/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+나뭇가지에
+	나뭇가지/ncn+에/jca
+
+안쓰러운
+	안쓰러운/ncn
+
+표정으로
+	표정/ncn+으로/jca
+
+
+살짝
+	살짝/mag
+
+피어올랐다
+	피어오르/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+그리고
+	그리고/maj
+
+호박은
+	호박/ncn+은/jxc
+
+모양이
+	모양/ncn+이/jcc
+
+너무
+	너무/mag
+
+특이해서
+	특이/ncn+해/ncn+서/jca
+
+그냥
+	그냥/mag
+
+지나칠
+	지나치/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없었다
+	없/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+만든건가
+	만들/pvg+ㄴ/etm+것/nbn+이/jp+ㄴ가/ef
+
+손으로
+	손/ncn+으로/jca
+
+확인하게한다
+	확인/ncpa+하/xsva+게/ecx+하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+체험객들에게
+	체험/ncpa+객/ncn+들/xsncc+에게/jca
+
+보여주기위해
+	보여주기위해/ncn
+
+마을
+	마을/ncn
+
+어르신께서
+	어르신/ncn+께서/jcs
+
+내놓으신
+	내/pvg+어/ecx+놓/px+으시/ep+ㄴ/etm
+
+호박이다
+	호박/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+넘
+	널/pvg+ㅁ/etn
+
+귀엽다
+	귀엽/paa+다/ef
+
+..
+	./sf+./sf
+
+
+마을에서
+	마을/ncn+에서/jca
+
+5분도
+	5/nnc+분/nbu+도/jxc
+
+채안되는
+	채안되/ncn+는/jxc
+
+거리에
+	거리/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+너와
+	너/npp+와/jcj
+
+머루와인
+	머루/ncn+와인/ncn
+
+공장이다
+	공장/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+머루와인에
+	머루/ncn+와인/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+얘기도
+	얘/ncn+이/jp+기/etn+도/jxc
+
+듣고
+	듣/pvg+고/ecc
+
+공정도
+	공정/ncn+도/jxc
+
+둘러보고,
+	두르/pvg+어/ecx+보/px+고/ecc+,/sp
+
+머루와인
+	머루/ncn+와인/ncn
+
+시음도
+	시/paa+ㅁ/etn+도/jxc
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+음~~
+	음/ncn+~/sd+~/sd
+
+와인을
+	와인/ncn+을/jco
+
+그리
+	그리/mad
+
+즐기는
+	즐기/pvg+는/etm
+
+편은
+	편/nbn+은/jxc
+
+아니지만,
+	아니/paa+지/ecx+말/px+ㄴ/etm+,/sp
+
+맛이
+	맛/ncn+이/jcc
+
+약간은
+	약간/mag+은/jxc
+
+씨큼함도
+	씨큼함/ncn+도/jxc
+
+있고
+	있/px+고/ecc
+
+텁텁한
+	텁텁하/paa+ㄴ/etm
+
+맛이
+	맛/ncn+이/jcc
+
+느껴진다
+	느끼/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+종류가
+	종류/ncn+가/jcs
+
+몇개
+	몇/nnc+개/nbu
+
+있긴하지만
+	있긴하/ncn+이/jp+지만/ecs
+
+내가
+	나/npp+가/jcs
+
+맛본
+	맛보/pvg+ㄴ/etm
+
+것은가볍게
+	것은가볍게/ncn
+
+즐기기엔
+	즐기/pvg+기/etn+엔/jca
+
+좋을
+	좋/paa+을/etm
+
+듯하다
+	듯하/paa+다/ef
+
+.
+	./sf
+
+
+(내
+	(/sl+내/npp
+
+입맛이
+	입맛/ncn+이/jcc
+
+단맛에
+	단맛/ncn+에/jca
+
+길들여져
+	길들이/pvg+어/ecx+지/px+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+인지
+	일/pvg+ㄴ지/ecs
+
+오.
+	오/ii+./sf
+
+.
+	./sf
+
+
+좀
+	좀/mag
+
+센데~
+	세/paa+ㄴ데/ecs+~/sd
+
+하는
+	하/pvg+는/etm
+
+느낌
+	느끼/pvg+ㅁ/etn
+
+!
+	!/sf
+
+
+^^)
+	^/sy+^/sy+)/sr
+
+
+중식으로
+	중/ncn+식/xsncc+으로/jca
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+소머리
+	소머리/ncn
+
+국밥
+	국밥/ncn
+
+!
+	!/sf
+
+
+젤
+	젤/ncn
+
+먼저
+	먼저/mag
+
+눈에
+	눈/ncn+에/jca
+
+띈
+	띄/pvg+ㄴ/etm
+
+메밀전병
+	메밀/ncn+전병/ncn
+
+...
+	.../se
+
+
+이름이
+	이름/ncn+이/jcc
+
+맞는지는
+	맞/pvg+는지/ecs+는/jxc
+
+모르지만
+	모르/pvg+지/ecx+말/px+ㄴ/etm
+
+강원도지방이니
+	강원도지방/ncn+이/jp+니/ecs
+
+맞겠지
+	맞/pvg+겠/ep+지/ecs
+
+...
+	.../se
+
+
+밥이
+	밥/ncn+이/jcc
+
+나오기도전에
+	나오기/ncn+도전/ncn+에/jca
+
+먼저
+	먼저/mag
+
+집어
+	집/pvg+어/ecx
+
+먹었다
+	먹/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+아~
+	아/ii+~/sd
+
+정말
+	정말/mag
+
+맛있네
+	맛있/paa+네/ef
+
+...
+	.../se
+
+
+안에든
+	안/ncn+에/jca+든/jxc
+
+김치속이랑
+	김치/ncn+속/ncn+이/jcs+랑/jxc
+
+메밀이
+	메밀/ncn+이/jcc
+
+잘
+	잘/mag
+
+어울려
+	어울리/pvg+어/ecx
+
+고소함까지
+	고소/ncn+함/ncn+까지/jxc
+
+느껴진다
+	느끼/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+이런
+	이렇/pad+은/etm
+
+맛이었구나
+	맛/ncn+이/jp+었/ep+구나/ef
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+어머님들이
+	어머님/ncn+들/ncn+이/jcc
+
+직접
+	직접/mag
+
+만들어
+	만들/pvg+어/ecx
+
+주신
+	주/px+시/ep+ㄴ/etm
+
+두부
+	두/nnc+부/nbu
+
+...
+	.../se
+
+
+한조각위에
+	한조각위/ncn+에/jca
+
+김치를
+	김치/ncn+를/jco
+
+얹고
+	얹/pvg+고/ecc
+
+한입
+	한입/ncn
+
+먹어보니
+	먹/pvg+어/ecx+보/px+니/ecs
+
+집에서
+	집/ncn+에서/jca
+
+만들어
+	만들/pvg+어/ecx
+
+주시던
+	주/px+시/ep+던/etm
+
+바로
+	바/nbn+로/jca
+
+그맛이다
+	그맛/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+국밥이
+	국밥/ncn+이/jcc
+
+좀
+	좀/mag
+
+식어서
+	식/pvg+어서/ecs
+
+뜨거운
+	뜨겁/paa+은/etm
+
+맛을
+	맛/ncn+을/jco
+
+못봐
+	못봐/ncn
+
+아쉽고,
+	아쉽/paa+고/ecc+,/sp
+
+또
+	또/maj
+
+독채에
+	독채/ncn+에/jca
+
+나눠서
+	나누/pvg+어서/ecs
+
+점심을
+	점심/ncn+을/jco
+
+먹다보니
+	먹다보/ncn+이/jp+니/ecs
+
+더
+	더/mag
+
+먹고
+	먹/pvg+고/ecc
+
+싶은
+	싶/px+은/etm
+
+반찬이
+	반찬/ncn+이/jcc
+
+있어도
+	있/px+어도/ecs
+
+아줌라를
+	아줌라/ncn+를/jco
+
+부를
+	부르/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없어
+	없/paa+어/ecs
+
+
+그냥
+	그냥/mag
+
+참아야했다는
+	참/pvg+아/ecx+하/px+었/ep+다/ef+는/etm
+
+것이
+	것/nbn+이/jcc
+
+.
+	./sf
+
+
+좀.
+	졸/pvg+ㅁ/etn+./sy
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+정성껏
+	정성껏/mag
+
+준비해주신
+	준비/ncpa+하/xsva+어/ecx+주/px+시/ep+ㄴ/etm
+
+그
+	그/mmd
+
+맘이
+	말/px+ㅁ/etn+이/jcs
+
+전해지는
+	전하/pvg+어/ecx+지/px+는/etm
+
+밥상이었다
+	밥상/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+아이들에게
+	아이/ncn+들/ncn+에게/jca
+
+좀더
+	좀더/mag
+
+색다른
+	색다르/paa+ㄴ/etm
+
+농촌체험,
+	농촌/ncn+체험/ncpa+,/sp
+
+산촌체험을
+	산촌/ncn+체험/ncpa+을/jco
+
+시켜주고
+	시키/pvg+어/ecx+주/px+고/ecc
+
+싶다는
+	싶/px+다/ef+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있다면
+	있/px+다면/ecs
+
+삼척
+	삼/nnc+척/nbu
+
+신리너와마을을
+	신리너와마을/ncn+을/jco
+
+추천한다
+	추천/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+무척이나
+	무척/mag+이나/jxc
+
+즐거워하는
+	즐겁/paa+어/ecx+하/px+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+보면서
+	보/px+면서/ecc
+
+교육의
+	교육/ncpa+의/jcm
+
+장이
+	장/nbu+이/jcc
+
+따로
+	따로/mag
+
+없구나
+	없/paa+구나/ef
+
+하는
+	하/pvg+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들었다
+	들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+신리너와마을
+	신리너와마/ncn+이/jp+ㄹ/etm
+
+민박
+	민박/ncn
+
+(너와펜션)
+	(너와펜션)/ncn
+
+삼척시
+	삼척시/ncn
+
+도계읍
+	도계/ncn+읍/ncn
+
+신리
+	신/xp+리/ncn
+
+
+객실정보너와황토집
+	객실/ncn+정보/ncn+너와/ncn+황토/ncn+집/ncn
+
+:
+	:/sp
+
+4동(10평)
+	4동(10평)/ncn
+
+-
+	-/sd
+
+육백산장,
+	육백산장,/ncn
+
+사금산장,
+	사금/ncn+산장/ncn+,/sp
+
+디딜방아,
+	디딜방아/ncn+,/sp
+
+물레방아-
+	물레방아/ncn+-/sd
+
+원룸식으로
+	원룸식/ncn+으로/jca
+
+취사
+	취사/ncn
+
+도구
+	도구/ncn
+
+일체
+	일체/ncn
+
+완비-
+	완비/ncpa+-/sd
+
+개인
+	개/nbu+이/jp+ㄴ/etm
+
+수세식
+	수세식/ncn
+
+화장실
+	화장실/ncn
+
+구비-
+	구비/ncpa+-/sd
+
+냉장고,
+	냉장고/ncn+,/sp
+
+TV,
+	TV/f+,/sp
+
+침구
+	침구/ncn
+
+완비-
+	완비/ncpa+-/sd
+
+펜션내
+	펜션내/ncn
+
+농산물
+	농산물/ncn
+
+무료(고추,
+	무료(고추,/ncn
+
+상추,
+	상추/ncn+,/sp
+
+토마토,
+	토마토/ncn+,/sp
+
+호박)
+	호박/ncn+)/sr
+
+
+투방집
+	투방집/ncn
+
+:
+	:/sp
+
+1동(12평)-
+	1동(12평)-/ncn
+
+통방아-
+	통방아-/ncn
+
+원룸식으로
+	원룸식/ncn+으로/jca
+
+취사
+	취사/ncn
+
+도구
+	도구/ncn
+
+일체
+	일체/ncn
+
+완비-
+	완비/ncpa+-/sd
+
+개인
+	개/nbu+이/jp+ㄴ/etm
+
+수세식
+	수세식/ncn
+
+화장실
+	화장실/ncn
+
+구비-
+	구비/ncpa+-/sd
+
+냉장고,
+	냉장고/ncn+,/sp
+
+TV,
+	TV/f+,/sp
+
+침구
+	침구/ncn
+
+완비-
+	완비/ncpa+-/sd
+
+펜션내
+	펜션내/ncn
+
+농산물
+	농산물/ncn
+
+무료(고추,
+	무료(고추,/ncn
+
+상추,
+	상추/ncn+,/sp
+
+토마토,
+	토마토/ncn+,/sp
+
+호박)
+	호박/ncn+)/sr
+
+
+너와식당
+	너와/ncn+식당/ncn
+
+:
+	:/sp
+
+1동(40평)-
+	1동(40평)-/ncn
+
+산채비빔밥,
+	산채/ncn+비빔밥/ncn+,/sp
+
+칡전병,
+	칡전병,/ncn
+
+된장찌개,
+	된장찌개/ncn+,/sp
+
+냉콩국수
+	냉콩국수/ncn
+
+및
+	및/maj
+
+산촌전통음식
+	산촌/ncn+전통음식/ncn
+
+-
+	-/sd
+
+운영시간
+	운영/ncpa+시간/ncn
+
+:
+	:/sp
+
+07:00
+	07/nnc+:/sp+00/nnc
+
+~
+	~/sd
+
+22:00
+	22/nnc+:/sp+00/nnc
+
+
+펜션광장
+	펜션광장/ncn
+
+-
+	-/sd
+
+면적
+	면적/ncn
+
+:
+	:/sp
+
+2,000평-
+	2,000/nnc+평/nbu+-/sd
+
+위락시설
+	위락시설/ncn
+
+:
+	:/sp
+
+어린이
+	어린이/ncn
+
+놀이시설
+	놀이시설/ncn
+
+1식,
+	1식,/ncn
+
+파고라
+	파고/ncn+이/jp+라/ecs
+
+3동,
+	3/nnc+동/nbu+,/sp
+
+연못,
+	연못/ncn+,/sp
+
+족구장-
+	족구/ncn+장/ncn+-/sd
+
+놀이기구
+	놀이기구/ncn
+
+:
+	:/sp
+
+제기,
+	제/npp+이/jp+기/etn+,/sp
+
+굴렁쇠,
+	굴렁쇠/ncn+,/sp
+
+널,
+	널/ncn+,/sp
+
+윷
+	윷/ncn
+
+
+숙박비주말
+	숙박/ncpa+비주/ncn+말/ncn
+
+70,000원,
+	70,000/nnc+원/nbu+,/sp
+
+주중
+	주중/ncn
+
+60,000원
+	60,000/nnc+원/nbu
+
+규모부지
+	규모/ncn+부/ncn+이/jp+지/ecs
+
+1500여평의
+	1500/nnc+여/xsnu+평/nbu+의/jcm
+
+넓은
+	넓/paa+은/etm
+
+공간아름다운
+	공간/ncn+아름다운/ncn
+
+잔디밭가든과
+	잔디밭/ncn+가든/ncn+과/jcj
+
+계곡유원지건물
+	계곡/ncn+유원지/ncn+건물/ncn
+
+2동
+	2/nnc+동/nbu
+
+(펜션동,까페동)
+	(펜션동,까페동)/ncn
+
+보유특징
+	보유/ncpa+특징/ncn
+
+:
+	:/sp
+
+유러피안
+	유러피안/ncn
+
+스타일의
+	스타일/ncn+의/jcm
+
+최고급
+	최고급/ncn
+
+펜션분위기
+	펜션분위/ncn+이/jp+기/etn
+
+넘치는
+	넘치/pvg+는/etm
+
+나무로
+	나무/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+까페
+	까페/ncn
+
+(서비스룸)별장민박,
+	(/sl+서비스/ncpa+룸/ncn+)/sr+별장/ncn+민박/ncn+,/sp
+
+차와식사제공,
+	차와식사제공,/ncn
+
+계곡야영장,
+	계곡/ncn+야영장/ncn+,/sp
+
+오토캠핑각
+	오토캠핑각/ncn
+
+room에
+	room/f+에/jca
+
+욕실,
+	욕실/ncn+,/sp
+
+샤워부스,
+	샤워/ncpa+부스/ncn+,/sp
+
+주방,
+	주방/ncn+,/sp
+
+취사도구완비에어컨,
+	취사도구/ncn+완비/ncpa+에어컨/ncn+,/sp
+
+TV,
+	TV/f+,/sp
+
+냉장고,
+	냉장고/ncn+,/sp
+
+식탁,
+	식탁/ncn+,/sp
+
+티테이블
+	티테이블/ncn
+
+완비족구장,
+	완비/ncpa+족구/ncn+장/ncn+,/sp
+
+바비큐,
+	바비큐/ncn+,/sp
+
+모닥불시설야외식탁을
+	모닥불/ncn+시설/ncpa+야외/ncn+식탁/ncn+을/jco
+
+설치하여
+	설치/ncpa+하/xsva+어/ecx
+
+즐거운
+	즐겁/paa+은/etm
+
+시간을
+	시간/ncn+을/jco
+
+..
+	./sf+./sf
+
+
+예약문의운영위원장
+	예약/ncpa+문의/ncn+운영위원/ncn+장/ncn
+
+홍순만
+	홍/ncn+순/xsncc+만/jxc
+
+:
+	:/sp
+
+033)
+	033/nnc+)/sr
+
+552-5967(011-9797-2921)마을담당자
+	552-5967(011-9797-2921)마을담당자/ncn
+
+연송흠
+	연송/ncn+흠/ncn
+
+:
+	:/sp
+
+033)
+	033/nnc+)/sr
+
+570-3462
+	570/nnc+-3462/nnc
+
+(016-376-8218)팬션예약문의
+	(016-376-8218)팬션예약문/ncn+의/jcm
+
+:
+	:/sp
+
+033-552-5967(너와팬션숙박고객)
+	033-552-5967(너와팬션숙박고객)/ncn
+
+전화예약
+	전화예약/ncpa
+
+:
+	:/sp
+
+너와마을식당(033-552-5967)인터넷
+	너와마을식당(033-552-5967)인터넷/ncn
+
+예약
+	예약/ncpa
+
+:
+	:/sp
+
+삼척너와마을식당
+	삼척너와마을식당/ncn
+
+(http://neowa.
+	(/sl+http/f+:/sp+//sp+//sp+neowa/f+./sy
+
+invil.
+	invil/f+./sy
+
+org)
+	org/f+)/sr
+
+
+삼척
+	삼/nnc+척/nbu
+
+신리너와마을
+	신리너와마/ncn+이/jp+ㄹ/etm
+
+http://neowa.
+	http/f+:/sp+//sp+//sp+neowa/f+./sy
+
+invil.
+	invil/f+./sy
+
+org
+	org/f

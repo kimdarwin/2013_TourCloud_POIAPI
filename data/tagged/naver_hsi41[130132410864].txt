@@ -1,0 +1,524 @@
+과거
+	과거/ncn
+
+수도권
+	수도권/ncn
+
+집값
+	집값/ncn
+
+상승을
+	상승/ncpa+을/jco
+
+이끌었던
+	이끌/pvg+었/ep+던/etm
+
+이른바
+	이른바/maj
+
+버블세븐
+	버블/ncn+세븐/ncn
+
+지역
+	지역/ncn
+
+아파트의
+	아파트/ncn+의/jcm
+
+3.3
+	3.3/nnc
+
+당
+	당/ncn
+
+매매가가
+	매매가/ncn+가/jcs
+
+3년
+	3/nnc+년/nbu
+
+만에
+	만/nnc+에/jca
+
+2000만원
+	2000/nnc+만/nnc+원/nbu
+
+밑으로
+	밑/ncn+으로/jca
+
+떨어졌다.
+	떨/pvg+어/ecx+지/px+었/ep+다/ef+./sf
+
+26일
+	26/nnc+일/nbu
+
+부동산정보업체
+	부동산/ncn+정보업체/ncn
+
+부동산1번지에
+	부동산1번지/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+서울
+	서울/ncn
+
+강남
+	강남/ncn
+
+서초
+	서초/ncn
+
+송파
+	송파/ncn
+
+양천구(목동)과
+	양천구(목동)/ncn+과/jcj
+
+경기
+	경기/ncn
+
+분당
+	분당/ncpa
+
+평촌
+	평촌/ncn
+
+신도시,
+	신도시/ncn+,/sp
+
+용인시
+	용인시/ncn
+
+등
+	등/nbu
+
+버블세븐
+	버블/ncn+세븐/ncn
+
+지역
+	지역/ncn
+
+아파트값을
+	아파트/ncn+값/ncn+을/jco
+
+조사
+	조사/ncn
+
+결과
+	결과/ncn
+
+3.3
+	3.3/nnc
+
+당
+	당/ncn
+
+1995만원으로
+	1995/nnc+만/nnc+원/nbu+으로/jca
+
+나타났다
+	나타나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+이들
+	이/ncn+들/xsncc
+
+지역이
+	지역/ncn+이/jcc
+
+2000만원
+	2000/nnc+만/nnc+원/nbu
+
+밑으로
+	밑/ncn+으로/jca
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+글로벌
+	글로벌/ncn
+
+금융위기
+	금융/ncn+위/ncn+이/jp+기/etn
+
+직후인
+	직후/ncn+이/jp+ㄴ/etm
+
+2009년
+	2009/nnc+년/nbu
+
+2월
+	2/nnc+월/nbu
+
+이후
+	이후/ncn
+
+3년
+	3/nnc+년/nbu
+
+만의
+	만/nnc+의/jcm
+
+일이다.
+	일/ncn+이/jp+다/ef+./sf
+
+2006년
+	2006/nnc+년/nbu
+
+5월
+	5/nnc+월/nbu
+
+정부가
+	정부/ncn+가/jcs
+
+부동산
+	부동산/ncn
+
+가격
+	가격/ncn
+
+거품지역으로
+	거품/ncn+지역/ncn+으로/jca
+
+지목한
+	지목/ncpa+하/xsva+ㄴ/etm
+
+버블세븐
+	버블/ncn+세븐/ncn
+
+은
+	은/ncn
+
+2007년
+	2007/nnc+년/nbu
+
+1월에는
+	1/nnc+월/nbu+에/jca+는/jxc
+
+2262만원까지
+	2262/nnc+만/nnc+원/nbu+까지/jxc
+
+올라
+	오르/pvg+아/ecx
+
+최고점을
+	최고/ncn+점/ncn+을/jco
+
+기록했다
+	기록/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+대출규제와
+	대출/ncpa+규제/ncpa+와/jcj
+
+분양가
+	분양가/ncn
+
+상한제
+	상한제/ncn
+
+확대를
+	확대/ncpa+를/jco
+
+골자로
+	골자/ncn+로/jca
+
+한
+	하/pvg+ㄴ/etm
+
+1.
+	1./nnc
+
+11대책
+	11대책/ncn
+
+이후
+	이후/ncn
+
+하락세로
+	하락세/ncn+로/jca
+
+접어든
+	접/pvg+어/ecs+든/jxc
+
+이후
+	이후/ncn
+
+글로벌
+	글로벌/ncn
+
+금융위기에
+	금융/ncn+위/ncn+이/jp+기/etn+에/jca
+
+따른
+	따르/pvg+ㄴ/etm
+
+경기침체
+	경기침체/ncpa
+
+및
+	및/maj
+
+보금자리주택
+	보금자리/ncn+주택/ncn
+
+정책
+	정책/ncn
+
+등에
+	등/nbu+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+최근
+	최근/mag
+
+집값이
+	집값/ncn+이/jcc
+
+가장
+	가장/mag
+
+많이
+	많/paa+이/xsa
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+지목된다
+	지목/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+서울
+	서울/ncn
+
+강남구가
+	강남/ncn+구가/ncpa
+
+2007년
+	2007/nnc+년/nbu
+
+1월
+	1/nnc+월/nbu
+
+3.3
+	3.3/nnc
+
+당
+	당/ncn
+
+3651만원에서
+	3651/nnc+만/nnc+원/nbu+에서/jca
+
+현재
+	현재/mag
+
+3287만원으로
+	3287/nnc+만/nnc+원/nbu+으로/jca
+
+364만원
+	364/nnc+만/nnc+원/nbu
+
+내려
+	내리/pvg+어/ecx
+
+가장
+	가장/mag
+
+많이
+	많/paa+이/xsa
+
+떨어졌다
+	떨/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+이어
+	이/npd+이/jp+어/ecs
+
+양천구
+	양천구/ncn
+
+목동이
+	목동/ncn+이/jcc
+
+2628만원에서
+	2628/nnc+만/nnc+원/nbu+에서/jca
+
+355만원
+	355/nnc+만/nnc+원/nbu
+
+하락한
+	하락/ncpa+하/xsva+ㄴ/etm
+
+2273만원,
+	2273/nnc+만/nnc+원/nbu+,/sp
+
+송파구는
+	송파구/ncn+는/jxc
+
+2683만원에서
+	2683/nnc+만/nnc+원/nbu+에서/jca
+
+308만원
+	308/nnc+만/nnc+원/nbu
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+2375만원을
+	2375/nnc+만/nnc+원/nbu+을/jco
+
+기록했다
+	기록/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+자료사진
+	자료사진/ncn
+
+
+경기도는
+	경기/ncn+도/jxc+는/jxc
+
+분당이
+	분당/ncpa+이/jcc
+
+3.3
+	3.3/nnc
+
+당
+	당/ncn
+
+1875만원에서
+	1875/nnc+만/nnc+원/nbu+에서/jca
+
+1600만원으로
+	1600/nnc+만/nnc+원/nbu+으로/jca
+
+275만원
+	275/nnc+만/nnc+원/nbu
+
+내렸다
+	내리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+용인시는
+	용인시/ncn+는/jxc
+
+1221만원에서
+	1221/nnc+만/nnc+원/nbu+에서/jca
+
+1033만원으로
+	1033/nnc+만/nnc+원/nbu+으로/jca
+
+188만원
+	188/nnc+만/nnc+원/nbu
+
+하락했고
+	하락/ncpa+하/xsva+었/ep+고/ecc
+
+평촌은
+	평촌/ncn+은/jxc
+
+1417만원에서
+	1417/nnc+만/nnc+원/nbu+에서/jca
+
+150만원
+	150/nnc+만/nnc+원/nbu
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+1267만원을
+	1267/nnc+만/nnc+원/nbu+을/jco
+
+기록했다
+	기록/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+한편,
+	한/nnc+편/nbu+,/sp
+
+같은
+	같/paa+은/etm
+
+기간
+	기간/ncn
+
+서초구는
+	서초구/ncn+는/jxc
+
+2793만원에서
+	2793/nnc+만/nnc+원/nbu+에서/jca
+
+2870만원으로
+	2870/nnc+만/nnc+원/nbu+으로/jca
+
+77만원
+	77/nnc+만/nnc+원/nbu
+
+올라
+	오르/pvg+아/ecx
+
+버블세븐
+	버블/ncn+세븐/ncn
+
+지역
+	지역/ncn
+
+중
+	중/nbn
+
+유일하게
+	유일/ncps+하/xsms+게/ecs
+
+상승한
+	상승/ncpa+하/xsva+ㄴ/etm
+
+모습을
+	모습/ncn+을/jco
+
+보였다
+	보이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:헤럴드생생뉴스
+	출처:헤럴드생생뉴스/ncn

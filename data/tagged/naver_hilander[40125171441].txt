@@ -1,0 +1,256 @@
+전주
+	전주/ncn
+
+전동성당
+	전동/ncn+성당/ncn
+
+
+전주시
+	전주/ncn+시/ncn
+
+완산구
+	완산구/ncn
+
+전동에
+	전동/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+천주교
+	천주교/ncn
+
+전동
+	전동/ncn
+
+성당은
+	성당/ncn+은/jxc
+
+
+조선시대
+	조선시대/ncn
+
+천주교도의
+	천주교도/ncn+의/jcm
+
+순교터에
+	순교터/ncn+에/jca
+
+세운
+	세우/pvg+ㄴ/etm
+
+성당이다
+	성당/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+1791년
+	1791/nnc+년/nbu
+
+천주교
+	천주교/ncn
+
+사상
+	사상/ncn
+
+최초
+	최초/ncn
+
+순교자였던
+	순교자/ncn+이/jp+었/ep+던/etm
+
+윤지충이
+	윤지충/ncn+이/jcc
+
+이곳에서
+	이곳/npd+에서/jca
+
+처형당했다
+	처형/ncpa+당하/xsva+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+서울
+	서울/ncn
+
+명동성당,
+	명동성당,/ncn
+
+대구
+	대구/ncn
+
+계산동
+	계산동/ncn
+
+성당과
+	성당/ncn+과/jct
+
+함께
+	함께/mag
+
+대한민국
+	대한/ncn+민국/ncn
+
+3대
+	3/nnc+대/nbu
+
+성당으로
+	성당/ncn+으로/jca
+
+손꼽힌다는데
+	손꼽히/pvg+ㄴ다는데/ecs
+
+
+건물이
+	건물/ncn+이/jcc
+
+아름다워
+	아름답/paa+어/ecx
+
+영화
+	영화/ncn
+
+'약속',
+	'/sr+약속/ncpa+'/sr+,/sp
+
+'전우치'의
+	'/sr+전우/ncn+치/ncn+'/sr+의/jcm
+
+무대가
+	무대/ncn+가/jcs
+
+되기도
+	되/pvg+기/etn+도/jxc
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+내부는
+	내부/ncn+는/jxc
+
+사진촬영을
+	사진촬영/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없기에
+	없/paa+기/etn+에/jca
+
+카메라는
+	카메라/ncn+는/jxc
+
+조용히
+	조용히/mag
+
+끄고
+	끄/pvg+고/ecc
+
+들어갔다
+	들/pvg+어/ecx+가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+사실
+	사실/mag
+
+들어가는것도
+	들/pvg+어/ecx+가/px+는/etm+것/nbn+도/jxc
+
+민폐가
+	민폐/ncn+가/jcs
+
+될지도
+	되/pvg+ㄹ지/ecs+도/jxc
+
+모른다는
+	모르/pvg+ㄴ다/ef+는/etm
+
+생각에
+	생각/ncpa+에/jca
+
+슬쩍
+	슬쩍/mag
+
+보고만
+	보/pvg+고/ecx+말/px+ㄴ/etm
+
+나옴
+	나오/pvg+ㅁ/etn
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+전동성당은
+	전동/ncn+성당/ncn+은/jxc
+
+바로
+	바로/mag
+
+앞에
+	앞/ncn+에/jca
+
+경기전이
+	경기/ncn+전/ncn+이/jcc
+
+위치해
+	위치/ncn+해/ncn
+
+있고
+	있/paa+고/ecc
+
+
+조금만
+	조금/mag+만/jxc
+
+걸어가면
+	걷/pvg+어/ecx+가/px+면/ecs
+
+전주
+	전주/ncn
+
+한옥마을이
+	한옥/ncn+마을/ncn+이/jcc
+
+나오기
+	나/pvg+아/ecx+오/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+
+전주에
+	전주/ncn+에/jca
+
+가게되면
+	가/pvg+게/ecx+되/px+면/ecs
+
+한번쯤
+	한번쯤/ncn
+
+들러볼만한
+	들르/pvg+어/ecx+보/px+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf

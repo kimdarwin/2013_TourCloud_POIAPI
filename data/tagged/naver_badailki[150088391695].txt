@@ -1,0 +1,936 @@
+낙동강
+	낙동강/ncn
+
+구미보
+	구미/ncn+보/ncn
+
+조감도
+	조감도/ncn
+
+참조
+	참조/ncpa
+
+
+우리나라의
+	우리나라/ncn+의/jcm
+
+많은
+	많/paa+은/etm
+
+하천
+	하천/ncn
+
+바닥은
+	바닥/ncn+은/jxc
+
+오랫동안
+	오랫동안/ncn
+
+누적된
+	누적/ncpa+되/xsvn+ㄴ/etm
+
+퇴적토로
+	퇴적/ncpa+토/ncn+로/jca
+
+인해
+	인하/pvg+어/ecx
+
+높아져
+	높/paa+아/ecx+지/px+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+때문에
+	때문/nbn+에/jca
+
+여러
+	여러/mma
+
+하천에
+	하천/ncn+에/jca
+
+물이
+	물/ncn+이/jcc
+
+부족하고
+	부족/ncn+하고/jct
+
+곳곳에
+	곳곳/ncn+에/jca
+
+모래섬이
+	모래/ncn+섬/ncn+이/jcc
+
+드러나
+	드러나/pvg+아/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+모래섬은
+	모래/ncn+섬/ncn+은/jxc
+
+일부
+	일/nnc+부/nbu
+
+생물에게는
+	생물/ncn+에게는/jca
+
+
+중요한
+	중요/ncps+하/xsms+ㄴ/etm
+
+서식지이지만
+	서식지/ncn+이/jp+지만/ecs
+
+또
+	또/maj
+
+다른
+	다르/paa+ㄴ/etm
+
+생물에게는
+	생물/ncn+에게/jca+는/jxc
+
+고질적인
+	고질/ncn+적/ncn+이/jp+ㄴ/etm
+
+물
+	물/pvg+ㄹ/etm
+
+부족의
+	부족/ncn+의/jcm
+
+다른
+	다른/mma
+
+한
+	한/nnc
+
+면을
+	면/ncn+을/jco
+
+보여줄
+	보이/pvg+어/ecx+주/px+ㄹ/etm
+
+뿐입니다
+	뿐/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+수중
+	수중/ncn
+
+생물에게
+	생물/ncn+에게/jca
+
+물은
+	물/pvg+ㄴ/etm
+
+생명을
+	생명/ncn+을/jco
+
+유지할
+	유/ncn+이/jp+지/ecx+하/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+기본적인
+	기본/ncn+적/ncn+이/jp+ㄴ/etm
+
+원동력입니다
+	원동력/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+무엇보다
+	무엇/npd+보다/jca
+
+맑고
+	맑/paa+고/ecc
+
+풍부한
+	풍부/ncps+하/xsms+ㄴ/etm
+
+수량을
+	수량/ncn+을/jco
+
+
+지속적으로
+	지속/ncpa+적/ncn+으로/jca
+
+확보하는
+	확보/ncpa+하/xsva+는/etm
+
+일이
+	일/ncn+이/jcc
+
+중요합니다
+	중요/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+이런
+	이런/mmd
+
+관점에서
+	관점/ncn+에서/jca
+
+적당한
+	적당/ncps+하/xsms+ㄴ/etm
+
+준설이
+	준설/ncn+이/jcc
+
+반드시
+	반드시/mag
+
+필요합니다
+	필요/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+시간과
+	시간/nbu+과/jcj
+
+공간을
+	공간/ncn+을/jco
+
+초월하여
+	초월/ncpa+하/xsva+어/ecx
+
+세계의
+	세계/ncn+의/jcm
+
+대다수
+	대다수/ncn
+
+하천
+	하천/ncn
+
+정비작업에서
+	정비작업/ncpa+에서/jca
+
+강바닥의
+	강바닥/ncn+의/jcm
+
+준설은
+	준설/ncn+은/jxc
+
+기본입니다
+	기본/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+준설로
+	준설/ncn+로/jca
+
+인해
+	인하/paa+어/ecs
+
+
+수생태계가
+	수생태계/ncn+가/jcs
+
+불가피하게
+	불가/ncn+피하/ncn+이/jp+게/ecs
+
+교란될
+	교란/ncpa+되/xsvn+ㄹ/etm
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+풍부한
+	풍부/ncps+하/xsms+ㄴ/etm
+
+수량이
+	수량/ncn+이/jcc
+
+대하천의
+	대하/ncn+천/ncn+의/jcm
+
+본질이라고
+	본질/ncn+이/jp+라/ef+고/jcr
+
+할
+	하/pvg+ㄹ/etm
+
+때,
+	때/nbn+,/sp
+
+
+준설을
+	준설/ncn+을/jco
+
+통한
+	통하/pvg+ㄴ/etm
+
+하천의
+	하천/ncn+의/jcm
+
+모습은
+	모습/ncn+은/jxc
+
+원래의
+	원래/ncn+의/jcm
+
+하천을
+	하천/ncn+을/jco
+
+자연에
+	자연/ncn+에/jca
+
+되돌려
+	되돌리/pvg+어/ecx
+
+주는
+	주/px+는/etm
+
+셈입니다
+	셈/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+예전과
+	예전/ncn+과/jct
+
+달리
+	달리/mag
+
+물길이
+	물길/ncn+이/jcc
+
+
+깊어지면
+	깊/paa+어/ecx+지/px+면/ecs
+
+얕은
+	얕/paa+은/etm
+
+물에
+	물/ncn+에/jca
+
+살던
+	살/pvg+던/etm
+
+생물은
+	생물/ncn+은/jxc
+
+얕은
+	얕/paa+은/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+서식처를
+	서식처/ncn+를/jco
+
+이전해서
+	이전/ncn+해/ncn+서/jca
+
+적응해나갈
+	적응/ncpa+하/xsva+어/ecx+나/px+아/ecx+가/px+ㄹ/etm
+
+것이고,
+	것/nbn+이/jp+고/ecc+,/sp
+
+궁극적으로
+	궁극/ncn+적/ncn+으로/jca
+
+
+수중생태계는
+	수중/ncn+생태계/ncn+는/jxc
+
+더욱
+	더욱/mag
+
+건강해질
+	건강해지/pvg+ㄹ/etm
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+한편
+	한/nnc+편/nbu
+
+우리나라는
+	우리나라/ncn+는/jxc
+
+빠르게
+	빠르/paa+게/ecs
+
+산업화,
+	산업/ncn+화/ncn+,/sp
+
+경제발전을
+	경제발전/ncpa+을/jco
+
+수행해야
+	수행/ncpa+하/xsva+어야/ecs
+
+했던
+	하/px+었/ep+던/etm
+
+탓에
+	탓/ncpa+에/jca
+
+그동안
+	그동안/ncn
+
+하천의
+	하천/ncn+의/jcm
+
+오염을
+	오염/ncpa+을/jco
+
+제대로
+	제대로/mag
+
+
+돌보지
+	돌보/pvg+지/ecx
+
+못했습니다
+	못하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이제는
+	이제/mag+는/jxc
+
+강
+	강/ncn
+
+바닥에
+	바닥/ncn+에/jca
+
+쌓인
+	쌓이/pvg+ㄴ/etm
+
+오염물질도
+	오염물질/ncn+도/jxc
+
+준설과
+	준설/ncn+과/jct
+
+함께
+	함께/mag
+
+조심스레
+	조심스레/mag
+
+처리해야
+	처리/ncpa+하/xsva+어야/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+예방적
+	예방/ncpa+적/ncn
+
+차원에서,
+	차원/ncn+에서/jca+,/sp
+
+하천으로
+	하천/ncn+으로/jca
+
+유입되는
+	유입/ncpa+되/xsvn+는/etm
+
+이른바
+	이른바/maj
+
+비점오염원을
+	비점오염원/ncn+을/jco
+
+철저히
+	철저히/mag
+
+관리하는
+	관리/ncpa+하/xsva+는/etm
+
+일이
+	일/ncn+이/jcc
+
+동시에
+	동시에/mag
+
+실행되어야
+	실행/ncpa+되/xsvn+어야/ecs
+
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+비점오염원
+	비점오염원/ncn
+
+관리의
+	관리/ncn+의/jcm
+
+중요성은
+	중요성/ncn+은/jxc
+
+오래전부터
+	오래전/ncn+부터/jxc
+
+지적되어왔으나
+	지적/ncpa+되/xsvn+어/ecx+오/px+아/ep+나/ecs
+
+중요
+	중요/ncps
+
+오염
+	오염/ncpa
+
+발생원이
+	발생/ncpa+원/ncn+이/jcc
+
+하천유역의
+	하천유역/ncn+의/jcm
+
+
+농지와
+	농지/ncn+와/jcj
+
+축산
+	축산/ncn
+
+단지
+	단지/ncn
+
+등이었기에
+	등/nbn+이/jp+었/ep+기/etn+에/jca
+
+해결에
+	해결/ncpa+에/jca
+
+어려움이
+	어려움/ncn+이/jcc
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+하천변
+	하천/ncn+변/ncn
+
+농사를
+	농사/ncn+를/jco
+
+억제하는
+	억제/ncpa+하/xsva+는/etm
+
+조치는
+	조/nnc+치/nbu+는/jxc
+
+각종
+	각종/ncn
+
+
+농약
+	농약/ncn
+
+사용과
+	사용/ncpa+과/jcj
+
+축산
+	축산/ncn
+
+폐수와
+	폐수/ncn+와/jct
+
+같은
+	같/paa+은/etm
+
+오염원의
+	오염원/ncn+의/jcm
+
+하천
+	하천/ncn
+
+유입을
+	유입/ncpa+을/jco
+
+근본적으로
+	근본/ncn+적/ncn+으로/jca
+
+차단한다는
+	차단/ncpa+하/xsva+ㄴ다/ef+는/etm
+
+점에서
+	점/nbu+에서/jca
+
+획기적인
+	획기적/ncn+인/ncn
+
+
+정책입니다
+	정책/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+하천
+	하천/ncn
+
+농경지
+	농경지/ncn
+
+정리는
+	정리/ncn+는/jxc
+
+역대
+	역대/ncn
+
+정권에서
+	정권/ncn+에서/jca
+
+고려해왔으나
+	고/pvg+려/ecx+하/px+어/ecx+오/px+아/ep+나/ecs
+
+미처
+	미처/mag
+
+실행하지
+	실행/ncpa+하/xsva+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+과제입니다
+	과제/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+아쉽지만
+	아쉽/paa+지/ecx+말/px+ㄴ/etm
+
+하천변
+	하천/ncn+변/ncn
+
+유기농
+	유기/ncn+농/ncn
+
+단지도
+	단지/mag+도/jxc
+
+이
+	이/mmd
+
+정책에서
+	정책/ncn+에서/jca
+
+예외가
+	예외/ncn+가/jcs
+
+될
+	되/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없습니다
+	없/paa+습니다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+유기농
+	유기/ncn+농/ncn
+
+농산품은
+	농산/ncn+품/ncn+은/jxc
+
+농약을
+	농약/ncn+을/jco
+
+
+사용하지
+	사용/ncpa+하/xsva+지/ecx
+
+않아
+	않/px+아/ecx
+
+인간의
+	인간/ncn+의/jcm
+
+건강한
+	건강/ncps+하/xsms+ㄴ/etm
+
+삶에는
+	삶/ncn+에/jca+는/jxc
+
+도움을
+	도움/ncn+을/jco
+
+주지만,
+	주/px+지/ecx+말/px+ㄴ/etm+,/sp
+
+재배
+	재배/ncpa
+
+과정에서
+	과정/ncn+에서/jca
+
+투입되는
+	투입/ncpa+되/xsvn+는/etm
+
+유기질
+	유기/ncn+질/ncn
+
+비료는
+	비료/ncn+는/jxc
+
+
+화학비료보다도
+	화학비료/ncn+보다/jca+도/jxc
+
+하천
+	하천/ncn
+
+수질과
+	수질/ncn+과/jcj
+
+수생태계에
+	수생태계/ncn+에/jca
+
+더
+	더/mag
+
+나쁜
+	나쁘/paa+ㄴ/etm
+
+영향을
+	영향/ncn+을/jco
+
+준다고
+	주/px+ㄴ다/ef+고/jcr
+
+알려져
+	알리/pvg+어/ecx+지/px+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+다만
+	다만/mag
+
+오랜
+	오랜/mma
+
+세월
+	세월/ncn
+
+
+힘들여
+	힘들이/pvg+어/ecx
+
+가꾸어온
+	가꾸/pvg+어/ecx+오/px+ㄴ/etm
+
+옥토에서
+	옥토/ncn+에서/jca
+
+이탈되는
+	이탈/ncpa+되/xsvn+는/etm
+
+농민들에
+	농민/ncn+들/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+알맞은
+	알맞/paa+은/etm
+
+대안이
+	대안/ncn+이/jcc
+
+수립되어야
+	수립/ncpa+되/xsvn+어야/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+강물이
+	강물/ncn+이/jcc
+
+맑아지고
+	맑/paa+아/ecx+지/px+고/ecc
+
+사시사철
+	사시사철/ncn
+
+적당한
+	적당/ncps+하/xsms+ㄴ/etm
+
+수량이
+	수량/ncn+이/jcc
+
+확보되면
+	확보/ncpa+되/xsvn+면/ecs
+
+그
+	그/mmd
+
+혜택은
+	혜택/ncn+은/jxc
+
+인간과
+	인간/ncn+과/jcj
+
+수중생물
+	수중생물/ncn
+
+모두에게
+	모두/ncn+에게/jca
+
+돌아갈
+	돌/pvg+아/ecx+가/px+ㄹ/etm
+
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+드러난
+	드러나/pvg+ㄴ/etm
+
+강바닥
+	강바닥/ncn
+
+위에
+	위/ncn+에/jca
+
+안쓰럽게
+	안쓰럽/ncn+게/jca
+
+멈춰
+	멈추/pvg+어/ecx
+
+있던
+	있/px+던/etm
+
+유람선들도
+	유람선/ncn+들/ncn+도/jxc
+
+다시
+	다시/mag
+
+운항을
+	운항/ncn+을/jco
+
+시작해
+	시작/ncpa+하/xsva+어/ecx
+
+지역
+	지역/ncn
+
+경제에
+	경제/ncn+에/jca
+
+
+작은
+	작/paa+은/etm
+
+도움이
+	도움/ncn+이/jcc
+
+되고
+	되/pvg+고/ecc
+
+마을에
+	마을/ncn+에/jca
+
+활기를
+	활기/ncn+를/jco
+
+불어넣을
+	불어넣/pvg+을/etm
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf

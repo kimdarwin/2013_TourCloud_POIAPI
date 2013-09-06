@@ -1,0 +1,64 @@
+너와
+	너/npp+와/jct
+
+나.
+	나/npp+./sf
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+우리
+	우리/npp
+
+..
+	./sf+./sf
+
+
+@고래가
+	@/sy+고래/ncn+가/jcs
+
+될.
+	되/pvg+ㄹ/etm+./sf
+
+..
+	./sf+./sf
+
+
+월정리해변
+	월정리해변/ncn
+
+
+제주특별자치도
+	제주/ncn+특별/ncps+자치/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+구좌읍
+	구좌/ncn+읍/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011431345",
+	"bl011431345",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"월정리해변",
+	title:"월정리해변",/ncn
+
+pointX:288460,pointY:107266}
+	pointX/f+:/sp+288460/nnc+,/sp+pointY/f+:/sp+107266/nnc+}/sr

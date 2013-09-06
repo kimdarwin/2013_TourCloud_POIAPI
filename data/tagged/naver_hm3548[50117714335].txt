@@ -1,0 +1,2425 @@
+교토(
+	교토(/ncn
+
+)
+	)/sr
+
+::
+	:/sp+:/sp
+
+신선한
+	신선/ncn+한/ncn
+
+맥주
+	맥주/ncn
+
+시음
+	시/paa+ㅁ/etn
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+교토
+	교토/ncn
+
+맥주
+	맥주/ncn
+
+공장
+	공장/ncn
+
+견학
+	견학/ncpa
+
+
+아라시야먀의
+	아라시야먀/ncn+의/jcm
+
+대나무숲
+	대나무숲/ncn
+
+산책을
+	산책/ncpa+을/jco
+
+마치고
+	마치/pvg+고/ecc
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+교토
+	교토/ncn
+
+맥주
+	맥주/ncn
+
+공장으로
+	공장/ncn+으로/jca
+
+출발
+	출발/ncpa
+
+!
+	!/sf
+
+
+요지야
+	요지/ncn+이/jp+야/ef
+
+카페
+	카페/ncn
+
+아라시야마점
+	아라시야마점/ncn
+
+건너편
+	건너편/ncn
+
+버스정류장에서
+	버스/ncn+정류장/ncn+에서/jca
+
+버스를
+	버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+한큐
+	한큐/ncn
+
+아라시야마역으로
+	아라시야마역/ncn+으로/jca
+
+이동,
+	이동/ncn+,/sp
+
+
+한큐
+	한큐/ncn
+
+아라시야마역에서
+	아라시야마역/ncn+에서/jca
+
+가쓰라역,
+	가쓰라역,/ncn
+
+가쓰라역에서
+	가쓰라역/ncn+에서/jca
+
+나가오카텐진역으로
+	나가오카텐진역으로/ncn
+
+...
+	.../se
+
+
+교토부
+	교토부/ncn
+
+나가오카시에
+	나가오카시/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+교토
+	교토/ncn
+
+맥주
+	맥주/ncn
+
+공장은
+	공장/ncn+은/jxc
+
+JR
+	JR/f
+
+나가오카역이나
+	나가오카역/ncn+이나/jcj
+
+한큐
+	한큐/ncn
+
+나가오카텐진역에서
+	나가오카텐진역/ncn+에서/jca
+
+걸어서
+	걷/pvg+어서/ecs
+
+30분
+	30/nnc+분/nbu
+
+?
+	?/sf
+
+
+정도
+	정도/ncn
+
+걸리는
+	것/nbn+이/jp+ㄹ/etm+리/nbn+는/jxc
+
+거리라
+	거리/nbn+이/jp+라/ecs
+
+
+JR
+	JR/f
+
+나가오카역,
+	나가오카역,/ncn
+
+한큐
+	한큐/ncn
+
+나가오카텐진역,
+	나가오카텐진역,/ncn
+
+나가오카텐만구에서
+	나가오카텐만구/ncn+에서/jca
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+교토
+	교토/ncn
+
+맥주
+	맥주/ncn
+
+공장을
+	공장/ncn+을/jco
+
+오가는
+	오가/pvg+는/etm
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+무료
+	무료/ncn
+
+셔틀버스가
+	셔틀버스/ncn+가/jcs
+
+있는데요,
+	있/paa+는데요/ef+,/sp
+
+
+전
+	전/nbn
+
+간사이
+	간사/ncr+이/jcc
+
+쓰루패스가
+	쓰루패스/ncn+가/jcs
+
+있었기때문에
+	있었기때문/ncn+에/jca
+
+한큐
+	한큐/ncn
+
+나가오카텐진역에서
+	나가오카텐진역/ncn+에서/jca
+
+셔틀
+	셔틀/ncn
+
+버스를
+	버스/ncn+를/jco
+
+탔고
+	트/pvg+었/ep+고/ecc
+
+공장으로
+	공장/ncn+으로/jca
+
+갔어요
+	가/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+한큐선을
+	한큐선/ncn+을/jco
+
+이용하지
+	이용/ncpa+하/xsva+지/ecx
+
+않고
+	않/px+고/ecc
+
+JR선을이용한다면
+	JR선을이용한다/ncn+이/jp+면/ecs
+
+당연히JR나가오카역에서
+	당연히JR나가오카역/ncn+에서/jca
+
+셔틀
+	셔틀/ncn
+
+버스를
+	버스/ncn+를/jco
+
+타는게
+	타/pvg+는게/ecs
+
+낫겠죠
+	낫/paa+겠/ep+죠/ef
+
+?
+	?/sf
+
+
+한큐
+	한큐/ncn
+
+나가오카텐진역에서
+	나가오카텐진역/ncn+에서/jca
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+무료셔틀버스
+	무료/ncn+셔틀버스/ncn
+
+타는
+	타/pvg+는/etm
+
+곳
+	곳/ncn
+
+가는
+	가/pvg+는/etm
+
+길은
+	길/ncn+은/jxc
+
+전혀
+	전혀/mag
+
+어렵지
+	어렵/paa+지/ecx
+
+않아요
+	않/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+한큐
+	한큐/ncn
+
+나가오카텐진역서쪽출구로
+	나가오카텐진역서쪽출구/ncn+로/jca
+
+나와
+	나/npp+와/jct
+
+쭈욱
+	쭈욱/mag
+
+직진
+	직진/ncpa
+
+.
+	./sf
+
+
+2차선의
+	2/nnc+차선/nbu+의/jcm
+
+도로가
+	도로/ncn+가/jcs
+
+나오면
+	나/pvg+아/ecx+오/px+면/ecs
+
+길을
+	길/ncn+을/jco
+
+건너
+	건너/pvg+어/ecx
+
+좌측으로
+	좌측/ncn+으로/jca
+
+조금(200m정도
+	조금(200m정/ncn+도/jxc
+
+?)
+	?/sf+)/sr
+
+
+걷다
+	걷/pvg+다/ef
+
+보면
+	보/nbu+이/jp+면/ecs
+
+
+요로코롬
+	요로코롬/ncn
+
+버스정류장이
+	버스/ncn+정류장/ncn+이/jcc
+
+나옵니다
+	나/pvg+아/ecx+오/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+버스정류장에서기다리다보면
+	버스정류장에서기다리다보/ncn+이/jp+면/ecs
+
+샤방샤방한하늘색의산토리
+	샤방샤방한하늘색의산토리/ncn
+
+셔틀
+	셔틀/ncn
+
+버스가
+	버스/ncn+가/jcs
+
+오는데
+	오/pvg+ㄴ데/ecs
+
+
+하늘색이
+	하늘색/ncn+이/jcc
+
+워낙
+	워낙/mag
+
+눈에
+	눈/ncn+에/jca
+
+뛰어서
+	뛰/pvg+어서/ecs
+
+저
+	저/mmd
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+오는데
+	오/px+ㄴ데/ecs
+
+이미
+	이미/mag
+
+'저
+	'/sr+저/npp
+
+버스가
+	버스/ncn+가/jcs
+
+내가탈
+	내/pvg+어/ecx+가/px+아/ecx+타/px+ㄹ/etm
+
+버스구나
+	버스/ncn+이/jp+구나/ef
+
+!'
+	!/sf+'/sl
+
+
+라고
+	라/ncn+이/jp+고/ecc
+
+알수있으니
+	알/pvg+ㄹ/etm+수/nbn+있/xsmn+으니/ecs
+
+절대로
+	절대로/mag
+
+잘못
+	잘못/mag
+
+탈
+	타/pvg+ㄹ/etm
+
+일은없어요
+	일은없어요/ncn
+
+.
+	./sf
+
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+셔틀
+	셔틀/ncn
+
+버스에
+	버스/ncn+에/jca
+
+탑승
+	탑승/ncpa
+
+.
+	./sf
+
+
+JR나가오카역을들렀다
+	JR나가오카역을들렀다/ncn
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+교토
+	교토/ncn
+
+맥주
+	맥주/ncn
+
+공장으로
+	공장/ncn+으로/jca
+
+갑니다
+	가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+금새
+	금새/ncn
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+교토
+	교토/ncn
+
+맥주
+	맥주/ncn
+
+공장
+	공장/ncn
+
+도착
+	도착/ncpa
+
+.
+	./sf
+
+
+셔틀
+	셔틀/ncn
+
+버스에
+	버스/ncn+에/jca
+
+내리니
+	내리/pvg+니/ecs
+
+견학을
+	견학/ncpa+을/jco
+
+안내하는
+	안내/ncpa+하/xsva+는/etm
+
+사람이
+	사람/ncn+이/jcc
+
+이미
+	이미/mag
+
+나와서
+	나오/pvg+아/ecx
+
+어떻게
+	어떻/pad+게/ecs
+
+어떻게
+	어떻/pad+게/ecs
+
+하라고~
+	하/px+라/ef+고/jcr+~/sd
+
+안내를
+	알/pvg+ㄴ/etm+내/nbn+를/jco
+
+해줍니다
+	하/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+일본어에
+	일본어/ncn+에/jca
+
+능통하지
+	능통/ncps+하/xsms+지/ecx
+
+않아
+	않/px+아/ecx
+
+잘
+	잘/mag
+
+알아들을순
+	알아들을순/ncn
+
+없지만
+	없/paa+지만/ecs
+
+먼저
+	먼저/mag
+
+내린
+	내리/pvg+ㄴ/etm
+
+다른
+	다른/mma
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+행동을
+	행동/ncpa+을/jco
+
+보고
+	보/px+고/ecc
+
+대충
+	대충/mag
+
+따라하면
+	따르/pvg+아/ecx+하/px+면/ecs
+
+됨다
+	됨다/ncn
+
+.
+	./sf
+
+
+밖에서
+	밖/ncn+에서/jca
+
+손
+	손/ncn
+
+소독제로
+	소독/ncpa+제/ncn+로/jca
+
+손을
+	손/ncn+을/jco
+
+닦고
+	닦/pvg+고/ecc
+
+건물에
+	건물/ncn+에/jca
+
+들어서니
+	들어서/pvg+니/ecs
+
+리셉션이
+	리셉션/ncn+이/jcc
+
+있고,
+	있/px+고/ecc+,/sp
+
+리셉션에서
+	리셉션/ncn+에서/jca
+
+간단한
+	가/px+ㄴ단/etm+한/nbn
+
+설문지를
+	설문지/ncn+를/jco
+
+받아
+	받/pvg+아/ecx
+
+설문지
+	설문지/ncn
+
+작성을
+	작성/ncpa+을/jco
+
+하니
+	하/pvg+니/ecs
+
+간단한
+	가/px+ㄴ단/etm+한/nbn
+
+안내와
+	알/pvg+ㄴ/etm+내/nbn+와/jct
+
+함께
+	함께/mag
+
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+맥주
+	맥주/ncn
+
+공장
+	공장/ncn
+
+견학에
+	견학/ncpa+에/jca
+
+관한
+	관하/pvg+ㄴ/etm
+
+일본어
+	일본어/ncn
+
+브로셔를
+	브로셔/ncn+를/jco
+
+줍니다
+	주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+일본어
+	일본어/ncn
+
+문맹이라
+	문맹/ncn+이/jp+라/ecs
+
+영어
+	영어/ncn
+
+자료가
+	자료/ncn+가/jcs
+
+없냐고
+	없/paa+냐/ef+고/jcr
+
+물어봤더니~
+	묻/pvg+어/ecx+보/px+아/ep+니/ef+~/sd
+
+영어
+	영어/ncn
+
+브로셔는
+	브로셔/ncn+는/jxc
+
+따로
+	따로/mag
+
+없고
+	없/paa+고/ecc
+
+관련
+	관련/ncn
+
+자료를
+	자료/ncn+를/jco
+
+카피해서
+	카피/ncpa+하/xsva+어서/ecs
+
+주네요
+	주/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+친절하셔라~
+	친절/ncps+하/xsms+시/ep+어라/ef+~/sd
+
+:)
+	:/sp+)/sr
+
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+교토
+	교토/ncn
+
+맥주
+	맥주/ncn
+
+공장
+	공장/ncn
+
+견학
+	견학/ncpa
+
+첫번째,
+	첫/nno+번/nbu+째/xsnu+,/sp
+
+프로젝션과
+	프로젝션/ncn+과/jcj
+
+가이드
+	가이드/ncpa
+
+가와사키상의
+	가와사키/ncn+상/ncn+의/jcm
+
+설명으로
+	설명/ncpa+으로/jca
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+맥주의
+	맥주/ncn+의/jcm
+
+원료와
+	원료/ncn+와/jcj
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+맥주에
+	맥주/ncn+에/jca
+
+대해서
+	대하/pvg+어서/ecso
+
+알아보는
+	알/pvg+아/ecx+보/px+는/etm
+
+시간
+	시간/nbu
+
+.
+	./sf
+
+
+맥주의
+	맥주/ncn+의/jcm
+
+맛을
+	맛/ncn+을/jco
+
+결정하는
+	결정/ncpa+하/xsva+는/etm
+
+천연수,
+	천연/ncn+수/ncn+,/sp
+
+맥아,
+	맥아,/ncn
+
+홉(아로마)에
+	홉(아로마)/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+설명을
+	설명/ncpa+을/jco
+
+들으며
+	들/pvg+며/ecc
+
+맥아를
+	맥아/ncn+를/jco
+
+직접
+	직접/mag
+
+먹어보고,
+	먹/pvg+어/ecx+보/px+고/ecc+,/sp
+
+아로마
+	아로마/ncn
+
+향을
+	향/ncn+을/jco
+
+맡아봐요
+	맡/pvg+아/ecx+보/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+맥아는
+	맥아/ncn+는/jxc
+
+꽤
+	꽤/mag
+
+고소하고,
+	고소/ncn+하고/jct+,/sp
+
+아로마는
+	아로마/ncn+는/jxc
+
+향이
+	향/ncn+이/jcc
+
+지독;;;한데
+	지독;;;한데/ncn
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+맥주에서
+	맥주/ncn+에서/jca
+
+맡을
+	맡/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+향이
+	향/ncn+이/jcc
+
+살짝
+	살짝/mag
+
+느껴집니다
+	느끼/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+다음은
+	다음/ncn+은/jxc
+
+이제
+	이제/mag
+
+본격적으로
+	본격/ncn+적/ncn+으로/jca
+
+맥주
+	맥주/ncn
+
+공장을
+	공장/ncn+을/jco
+
+둘러보며
+	두르/pvg+어/ecx+보/px+며/ecc
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+맥주가
+	맥주/ncn+가/jcs
+
+어떻게
+	어떻/pad+게/ecs
+
+탄생하는지
+	탄생/ncpa+하/xsva+는지/ecs
+
+알아보는
+	알/pvg+아/ecx+보/px+는/etm
+
+시간
+	시간/nbu
+
+!
+	!/sf
+
+
+일본
+	일/nnc+본/nbu
+
+할아버지들
+	할아버지/ncn+들/ncn
+
+틈에
+	틈/ncn+에/jca
+
+껴서
+	끼/pvg+어서/ecs
+
+열심히따라갑니다
+	열심히따라갑니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+재료,
+	재료/ncn+,/sp
+
+시코미공정,
+	시코미공정,/ncn
+
+발효,
+	발효/ncpa+,/sp
+
+저주,
+	저주/ncpa+,/sp
+
+여과,
+	여/ncn+과/jcj+,/sp
+
+맥주가
+	맥주/ncn+가/jcs
+
+캔,
+	캐/pvg+ㄴ/etm+,/sp
+
+병에
+	병/nbu+에/jca
+
+담기는
+	담/pvg+기/etn+는/jxc
+
+과정
+	과정/ncn
+
+등에
+	등/nbu+에/jca
+
+대해서
+	대하/pvg+어서/ecso
+
+설명을
+	설명/ncpa+을/jco
+
+들으며
+	들/pvg+며/ecc
+
+공장
+	공장/ncn
+
+견학을
+	견학/ncpa+을/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+공장은
+	공장/ncn+은/jxc
+
+당연히
+	당연히/mag
+
+현재
+	현재/mag
+
+가동
+	가동/ncpa
+
+중인
+	중/nbn+이/jp+ㄴ/etm
+
+공장이라
+	공장/ncn+이/jp+라/ecs
+
+40도를
+	40/nnc+도/nbu+를/jco
+
+유지해야한다는
+	유/ncn+이/jp+지/ecx+하/px+어야/ecx+하/px+ㄴ다/ef+는/etm
+
+시코미
+	시코미/ncn
+
+공정에서는
+	공정/ncn+에서/jca+는/jxc
+
+후끈
+	후끈/mag
+
+후끈한
+	후끈한/ncn
+
+열기와
+	열/pvg+기/etn+와/jcj
+
+콤콤한
+	콤콤한/ncn
+
+냄새를~
+	냄새/ncn+를/jco+~/sd
+
+
+맥주를
+	맥주/ncn+를/jco
+
+캔,
+	캐/pvg+ㄴ/etm+,/sp
+
+병에
+	병/nbu+에/jca
+
+담는
+	담/pvg+는/etm
+
+공정에서는수
+	공정에서는수/ncn
+
+많은
+	많/paa+은/etm
+
+캔과
+	캔/ncn+과/jcj
+
+맥주를~
+	맥주/ncn+를/jco+~/sd
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
++_+
+	+_+/ncn
+
+
+맥주의
+	맥주/ncn+의/jcm
+
+90%를
+	90/nnc+%/su+를/jco
+
+차지하는
+	차/pvg+지/ecx+하/px+는/etm
+
+수자원
+	수자원/ncn
+
+보호를
+	보호/ncpa+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+리사이클링과
+	리사이클링/ncn+과/jcj
+
+공장
+	공장/ncn
+
+녹화를
+	녹화/ncpa+를/jco
+
+실천하는쓰레기
+	실천하는쓰레/ncn+이/jp+기/etn
+
+제로의
+	제/npp+로/jca+의/jcm
+
+교토
+	교토/ncn
+
+맥주
+	맥주/ncn
+
+공장
+	공장/ncn
+
+!
+	!/sf
+
+
+총리상까지
+	총리/ncr+상/ncn+까지/jxc
+
+받았다고
+	받/pvg+아/ep+다/ef+고/jcr
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+열심히
+	열심히/mag
+
+따라
+	따르/pvg+아/ecx
+
+다녔지만
+	다니/pvg+었/ep+지만/ecs
+
+일본어가
+	일본어/ncn+가/jcs
+
+유창하지
+	유창/ncps+하/xsms+지/ecx
+
+않아
+	않/px+아/ecx
+
+알아들을수
+	알아듣/pvg+을/etm+수/nbn
+
+있는건
+	있는건/ncn
+
+몇가지
+	몇/nnc+가지/nbu
+
+안되는
+	안되/paa+는/etm
+
+.
+	./sf
+
+
+공장
+	공장/ncn
+
+견학을
+	견학/ncpa+을/jco
+
+마치고
+	마치/pvg+고/ecc
+
+이제
+	이제/mag
+
+드디어
+	드디어/mag
+
+맥주
+	맥주/ncn
+
+공장
+	공장/ncn
+
+견학의
+	견학/ncpa+의/jcm
+
+꽃
+	꽃/ncn
+
+'시음'을
+	'/sr+시음/ncpa+'/sr+을/jco
+
+하러
+	하/pvg+러/ecs
+
+버스를
+	버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+이동합니다
+	이동/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+버스
+	버스/ncn
+
+안에서는
+	안/ncn+에서/jca+는/jxc
+
+시음
+	시/paa+ㅁ/etn
+
+할
+	하/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+주의할점
+	주의할점/ncn
+
+?
+	?/sf
+
+
+에
+	에/pvg+어/ecx
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+설명해주는듯
+	설명/ncpa+하/xsva+어/ecx+주/px+는/etm+듯/nbs
+
+했어요
+	하/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+차를
+	차/ncn+를/jco
+
+가져온
+	가/pvg+아/ecx+지/px+어/ecx+오/px+ㄴ/etm
+
+사람은
+	사람/ncn+은/jxc
+
+무알콜
+	무알콜/ncn
+
+음료를
+	음료/ncn+를/jco
+
+마실
+	마시/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있고,
+	있/px+고/ecc+,/sp
+
+본인의
+	본인/ncn+의/jcm
+
+주량에
+	주량/ncn+에/jca
+
+맞게
+	맞/pvg+게/ecs
+
+적당히
+	적당히/mag
+
+마셔줄것을
+	마시/pvg+어/ecx+주/px+ㄹ/etm+것/nbn+을/jco
+
+당부하는듯
+	당부/ncpa+하/xsva+는/etm+듯/nbs
+
+.
+	./sf
+
+
+버스를
+	버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+가며
+	가/px+며/ecc
+
+본
+	보/px+ㄴ/etm
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+맥주들
+	맥주/ncn+들/ncn
+
+!!
+	!/sf+!/sf
+
+
++_+
+	+_+/ncn
+
+
+수많은
+	수많/paa+은/etm
+
+생맥주,
+	생맥주/ncn+,/sp
+
+캔맥주,
+	캔맥주/ncn+,/sp
+
+병맥주
+	병맥주/ncn
+
+녀석들이
+	녀석/ncn+들/ncn+이/jcc
+
+출하를
+	출하/ncn+를/jco
+
+기다리고
+	기다리/pvg+고/ecc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+크아~
+	크아~/ncn
+
+저
+	저/mmd
+
+생맥주가
+	생맥주/ncn+가/jcs
+
+가득
+	가득/mag
+
+담긴
+	담기/pvg+ㄴ/etm
+
+트럭이
+	트럭/ncn+이/jcc
+
+우리집으로
+	우리집/ncn+으로/jca
+
+왔으면
+	오/px+아/ep+면/ecs
+
+!!
+	!/sf+!/sf
+
+
+너무
+	너무/mag
+
+좋겠어요
+	좋/paa+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+시음하는
+	시음/ncpa+하/xsva+는/etm
+
+곳에
+	곳/nbn+에/jca
+
+도착하니
+	도착/ncpa+하/xsva+니/ecs
+
+블링블링한
+	블링블링한/ncn
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+프리미엄
+	프리미엄/ncn
+
+몰츠들이
+	몰츠들/ncn+이/jcc
+
+아름답게
+	아름답/paa+게/ecs
+
+쌓여있고,
+	쌓이/pvg+어/ecx+있/px+고/ecc+,/sp
+
+
+맥주
+	맥주/ncn
+
+시음에
+	시/paa+ㅁ/etn+에/jca
+
+필요한
+	필요/ncps+하/xsms+ㄴ/etm
+
+최소한의
+	최소한/ncn+의/jcm
+
+안주(스낵)을
+	안주(스낵)/ncn+을/jco
+
+나눠줍니다
+	나누/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+스낵은
+	스낵/ncn+은/jxc
+
+인당
+	인/nbu+당/xsnu
+
+한개씩
+	한/nnc+개/nbu+씩/xsnu
+
+.
+	./sf
+
+
+맥주는
+	맥주/ncn+는/jxc
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+프리미엄
+	프리미엄/ncn
+
+몰츠와,
+	몰츠와,/ncn
+
+몰츠를
+	몰츠/ncn+를/jco
+
+맛볼
+	맛보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는데요,
+	있/paa+는데요/ef+,/sp
+
+
+가기
+	가/px+기/etn
+
+전에
+	전/nbn+에/jca
+
+두잔만시음이
+	두잔만시음/ncn+이/jcc
+
+가능하다고생각하고
+	가능하다고생각하/ncn+이/jp+고/ecc
+
+갔는데
+	가/px+아/ep+ㄴ데/ecs
+
+두잔
+	두/nnc+잔/nbu
+
+이상
+	이상/ncn
+
+?
+	?/sf
+
+
+을
+	을/ncn
+
+마셔도
+	마시/pvg+어도/ecs
+
+되는듯
+	되/pvg+는/etm+듯/nbs
+
+했어요
+	하/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+3잔이라는
+	3/nnc+잔/nbu+이/jp+라/ef+는/etm
+
+소리도
+	소리/ncn+도/jxc
+
+있고~
+	있/paa+고/ecc+~/sd
+
+
+하지만
+	하지만/maj
+
+시음
+	시/paa+ㅁ/etn
+
+시간이
+	시간/ncn+이/jcc
+
+정해져
+	정하/pvg+어/ecx+지/px+어/ecx
+
+있기때문에
+	있기때문/ncn+에/jca
+
+더
+	더/mag
+
+마시고싶어도
+	마시/pvg+고/ecx+싶/px+어도/ecs
+
+힘들지
+	힘들/pvg+지/ecx
+
+않을까
+	않/px+을까/ef
+
+?
+	?/sf
+
+
+예상해요
+	예상/ncpa+하/xsva+어/ef+요/jxf
+
+.
+	./sf
+
+
+먼저
+	먼저/mag
+
+프리미엄
+	프리미엄/ncn
+
+몰츠를
+	몰츠/ncn+를/jco
+
+받아서
+	받/pvg+아/ecx
+
+홀짝
+	홀짝/ncn
+
+홀짝
+	홀짝/ncn
+
+마시다가
+	마시/pvg+다가/ecs
+
+맛을
+	맛/ncn+을/jco
+
+비교해보고싶어서
+	비교/ncpa+하/xsva+어/ecx+보/px+고/ecx+싶/px+어서/ecs
+
+몰츠까지
+	몰츠/ncn+까지/jxc
+
+받아다
+	받/pvg+아/ecx
+
+두녀석의
+	두녀석/ncn+의/jcm
+
+맛을
+	맛/ncn+을/jco
+
+비교해봤어요
+	비교/ncpa+하/xsva+어/ecx+보/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+맥주
+	맥주/ncn
+
+거품은
+	거품/ncn+은/jxc
+
+두녀석
+	두녀석/ncn
+
+모두
+	모두/mag
+
+생크림같이
+	생크림같/ncn+이/jcc
+
+크리미~
+	크리미/ncn+~/sd
+
+
+맥주
+	맥주/ncn
+
+맛은
+	맛/ncn+은/jxc
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+프리미엄
+	프리미엄/ncn
+
+몰츠가
+	몰츠/ncn+가/jcs
+
+약간
+	약간/mag
+
+더
+	더/mag
+
+쓰면서
+	쓰/pvg+면서/ecc
+
+진하고
+	진하/paa+어/ef+고/jcr
+
+아로마향이
+	아로마향/ncn+이/jcc
+
+강하게
+	강하/paa+게/ecs
+
+나는듯해요
+	나/px+아/ef+는/etm+듯/nbs+하/xsms+어/ef+요/jxf
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+몰츠는
+	몰츠/ncn+는/jxc
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+부드럽고
+	부드럽/paa+고/ecc
+
+프리미엄
+	프리미엄/ncn
+
+몰츠에
+	몰츠/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+약한
+	약하/paa+ㄴ/etm
+
+느낌
+	느끼/pvg+ㅁ/etn
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+맥주를
+	맥주/ncn+를/jco
+
+마시는
+	마시/pvg+는/etm
+
+일본분들을
+	일본분들/ncn+을/jco
+
+지켜보니
+	지키/pvg+어/ecx+보/px+니/ecs
+
+몰츠를
+	몰츠/ncn+를/jco
+
+선호하는
+	선호/ncpa+하/xsva+는/etm
+
+분도
+	분/nbu+도/jxc
+
+좀
+	좀/mag
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+크크크큭
+	크크크큭/ncn
+
+.
+	./sf
+
+
+갓
+	갓/mag
+
+만든
+	만들/pvg+ㄴ/etm
+
+신선한
+	신선/ncn+한/ncn
+
+맥주라
+	맥주/ncn+이/jp+라/ecs
+
+거품이
+	거품/ncn+이/jcc
+
+정말
+	정말/mag
+
+크리미해서
+	크리미해서/ncn
+
+거품만
+	거품/ncn+만/jxc
+
+홀짝
+	홀짝/ncn
+
+홀짝
+	홀짝/ncn
+
+들이키며
+	들이키/pvg+며/ecc
+
+'맥주
+	'/sr+맥주/ncn
+
+공장
+	공장/ncn
+
+견학은
+	견학/ncpa+은/jxc
+
+탁월한
+	탁월/ncps+하/xsms+ㄴ/etm
+
+선택이야~'라며
+	선택/ncpa+이/jp+야/ef+~/sd+'/sr+라며/jcr
+
+혼자
+	혼자/mag
+
+뿌듯해했어요
+	뿌듯/ncps+하/xsms+어/ecx+하/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+맥주
+	맥주/ncn
+
+두잔에
+	두/nnc+잔/nbu+에/jca
+
+이렇게나
+	이렇/pad+게/ecs+나/jxc
+
+행복해질수
+	행복/ncps+하/xsms+어/ecx+지/px+ㄹ/etm+수/nbn
+
+있다니
+	있/px+다니/ecs
+
+...
+	.../se
+
+
+맥주
+	맥주/ncn
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+분이라면
+	분/nbn+이/jp+라면/ecs
+
+맥주
+	맥주/ncn
+
+공장
+	공장/ncn
+
+견학을
+	견학/ncpa+을/jco
+
+강추
+	강추/ncn
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+맥주를
+	맥주/ncn+를/jco
+
+홀짝
+	홀짝/ncn
+
+홀짝
+	홀짝/ncn
+
+마시고
+	마시/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+중간에
+	중간/ncn+에/jca
+
+가와사키상이
+	가와사키/ncn+상/ncn+이/jcc
+
+깨알같이
+	깨알/ncn+같이/jca
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+프리미엄
+	프리미엄/ncn
+
+몰츠맥주
+	몰츠맥주/ncn
+
+맛있게
+	맛있/paa+게/ecs
+
+마시는
+	마시/pvg+는/etm
+
+방법을
+	방법/ncn+을/jco
+
+보여줍니다
+	보이/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+깨끗하게
+	깨끗/ncps+하/xsms+게/ecs
+
+마른
+	마르/pvg+ㄴ/etm
+
+컵에
+	컵/ncn+에/jca
+
+맥주와
+	맥주/ncn+와/jcj
+
+컵을
+	컵/ncn+을/jco
+
+멀리
+	멀리/mag
+
+떨어트려
+	떨어트려/ncn
+
+거품이
+	거품/ncn+이/jcc
+
+나게
+	나/px+게/ecs
+
+맥주를
+	맥주/ncn+를/jco
+
+채운
+	채우/pvg+ㄴ/etm
+
+후,거품이
+	후/ncn+,/sp+거품/ncn+이/jcc
+
+약간
+	약간/mag
+
+가라앉으면
+	가라앉/pvg+으면/ecs
+
+컵을
+	컵/ncn+을/jco
+
+45도정도
+	45도정도/ncn
+
+기울여맥주를부어요
+	기울여맥주를부/ncn+이/jp+어/ef+요/jxf
+
+.
+	./sf
+
+
+거품과
+	거품/ncn+과/jcj
+
+맥주의
+	맥주/ncn+의/jcm
+
+비율은
+	비율/ncn+은/jxc
+
+거품
+	거품/ncn
+
+3,
+	3/nnc+,/sp
+
+맥주
+	맥주/ncn
+
+7의
+	7/nnc+의/jcm
+
+비율이좋다고
+	비율이좋다/ncn+이/jp+고/ecc
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+거품을
+	거품/ncn+을/jco
+
+먼저
+	먼저/mag
+
+따뤄주는
+	따뤄주/ncn+는/jxc
+
+이유는
+	이유/ncn+는/jxc
+
+프리미엄
+	프리미엄/ncn
+
+몰츠의
+	몰츠/ncn+의/jcm
+
+진한
+	지/px+ㄴ/etm+한/nbn
+
+맛과
+	맛/ncn+과/jcj
+
+풍부한향이
+	풍부한향/ncn+이/jcc
+
+날아가지
+	날/pvg+아/ecx+가/px+지/ecx
+
+못하게
+	못하/px+게/ecs
+
+하기
+	하/pvg+기/etn
+
+위해서라고
+	위하/pvg+어서/ecs+라고/jxc
+
+...
+	.../se
+
+
+다음에
+	다음/ncn+에/jca
+
+맥주
+	맥주/ncn
+
+마실
+	마시/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+꼭
+	꼭/mag
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+맥주가
+	맥주/ncn+가/jcs
+
+아니더라도
+	아니/paa+더라도/ecs
+
+한번
+	한/nnc+번/nbu
+
+해봐야겠어요
+	하/pvg+어/ecx+보/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+맥주
+	맥주/ncn
+
+시음
+	시/paa+ㅁ/etn
+
+시간이
+	시간/ncn+이/jcc
+
+끝나면내가
+	끝나면내/ncn+가/jcs
+
+앉았던
+	앉/pvg+아/ep+ㄴ/etm
+
+자리
+	자리/ncn
+
+정도는
+	정도/ncn+는/jxc
+
+내가
+	나/npp+가/jcs
+
+치웁니다
+	치우/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+다
+	다/mag
+
+마신
+	마시/pvg+ㄴ/etm
+
+맥주잔은
+	맥주잔/ncn+은/jxc
+
+빈
+	비/paa+ㄴ/etm
+
+맥주잔트레이에
+	맥주잔트레이/ncn+에/jca
+
+가져다
+	가/pvg+아/ecx+지/px+어다/ecs
+
+놓는
+	놓/px+는/etm
+
+정도만
+	정도/ncn+만/jxc
+
+하면
+	하/pvg+면/ecs
+
+되니걱정은
+	되니걱정/ncn+은/jxc
+
+NO.
+	NO/f+./sf
+
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+맥주의
+	맥주/ncn+의/jcm
+
+재료,
+	재료/ncn+,/sp
+
+공장
+	공장/ncn
+
+공정
+	공정/ncn
+
+견학,
+	견학/ncpa+,/sp
+
+시음까지
+	시/paa+ㅁ/etn+까지/jxc
+
+마치면
+	마치/pvg+면/ecs
+
+공장
+	공장/ncn
+
+투어는
+	투어/ncn+는/jxc
+
+끝.
+	끝/ncn+./sf
+
+
+셔틀버스를
+	셔틀버스/ncn+를/jco
+
+기다리며
+	기다리/pvg+며/ecc
+
+기념품점을
+	기념품/ncn+점/ncn+을/jco
+
+둘러본
+	두르/pvg+어/ecx+보/px+ㄴ/etm
+
+후
+	후/ncn
+
+셔틀버스를
+	셔틀버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+교토
+	교토/ncn
+
+맥주
+	맥주/ncn
+
+공장을
+	공장/ncn+을/jco
+
+떠납니다
+	뜨/pvg+어/ecx+나/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+교토
+	교토/ncn
+
+맥주
+	맥주/ncn
+
+공장
+	공장/ncn
+
+
+주소
+	주소/ncn
+
+:
+	:/sp
+
+617-8530
+	617/nnc+-8530/nnc
+
+3-1-1
+	3/nnc+-1/nnc+-1/nnc
+
+
+전화번호
+	전화번호/ncn
+
+:
+	:/sp
+
+075-952-2020
+	075/nnc+-952/nnc+-2020/nnc
+
+
+가는방법
+	가는방법/ncn
+
+:
+	:/sp
+
+JR나가오카역,
+	JR나가오카역,/ncn
+
+한큐
+	한큐/ncn
+
+나가오카텐진역,
+	나가오카텐진역,/ncn
+
+나가오카텐만구에
+	나가오카텐만구/ncn+에/jca
+
+무료
+	무료/ncn
+
+순환
+	순환/ncpa
+
+셔틀버스
+	셔틀버스/ncn
+
+있음
+	있/px+음/etn
+
+.
+	./sf
+
+
+사이트
+	사이트/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+suntory.
+	suntory/f+./sy
+
+co.
+	co/f+./sy
+
+jp/factory/kyoto/index.
+	jp/f+//sp+factory/f+//sp+kyoto/f+//sp+index/f+./sy
+
+html
+	html/f
+
+
+셔틀버스
+	셔틀버스/ncn
+
+타는
+	타/pvg+는/etm
+
+곳,
+	곳/ncn+,/sp
+
+셔틀버스
+	셔틀버스/ncn
+
+시간,
+	시간/nbu+,/sp
+
+예약
+	예약/ncpa
+
+등에
+	등/nbu+에/jca
+
+대해서는
+	대/pvg+어/ecx+하/px+어서/ecs+는/jxc
+
+사이트를
+	사이트/ncn+를/jco
+
+참고하세요
+	참/pvg+고/ecx+하/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+사이트의
+	사이트/ncn+의/jcm
+
+우대권을
+	우대권/ncn+을/jco
+
+출력해가면
+	출력/ncpa+하/xsva+어/ecx+가/px+면/ecs
+
+산토리
+	산토/ncn+이/jp+리/ef
+
+맥주컵을
+	맥주/ncn+컵/ncn+을/jco
+
+선물로
+	선물/ncn+로/jca
+
+받을
+	받/pvg+을/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+'간사이
+	'/sr+간사/ncr+이/jcc
+
+원정대'
+	원정대/ncn+'/sr
+
+여행은
+	여행/ncpa+은/jxc
+
+하나투어와
+	하나투어/ncn+와/jcj
+
+JNTO(일본정부관광국)의
+	JNTO/f+(/sl+일본정부/ncn+관광국/ncn+)/sr+의/jcm
+
+협찬
+	협찬/ncpa
+
+지원을
+	지원/ncpa+을/jco
+
+받아
+	받/pvg+아/ecx
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf

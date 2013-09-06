@@ -1,0 +1,1677 @@
+경주
+	경주/ncpa
+
+블루원
+	블루/ncn+원/ncn
+
+워터파크
+	워터/ncn+파크/ncn
+
+/이용요금/
+	//sp+이용요금/ncn+//sp
+
+할인카드/블루원
+	할인카드/ncn+//sp+블루/ncn+원/ncn
+
+소개/이용시간
+	소개/ncpa+//sp+이용시간/ncn
+
+
+점점
+	점점/mag
+
+날씨가
+	날씨/ncn+가/jcs
+
+더워지면서
+	더워지/pvg+면서/ecc
+
+물놀이
+	물놀이/ncpa
+
+가는
+	가/pvg+는/etm
+
+분들
+	불/pvg+ㄴ들/ecs
+
+많죠
+	많/paa+죠/ef
+
+..
+	./sf+./sf
+
+
+아이들
+	아이/ncn+들/ncn
+
+방학도
+	방학/ncpa+도/jxc
+
+얼마남지
+	얼마/ncn+남지/ncn
+
+않아
+	않/px+아/ecx
+
+아이들
+	아이/ncn+들/ncn
+
+데리고
+	데/nbn+이/jp+리/ef+고/jcr
+
+갈
+	가/pvg+ㄹ/etm
+
+워터
+	워터/ncn
+
+파크
+	파크/ncn
+
+알아보는
+	알/pvg+아/ecx+보/px+는/etm
+
+중이랍니다
+	중/nbn+이/jp+랍니다/ef
+
+..
+	./sf+./sf
+
+
+캐리비안베이
+	캐리비안베/ncn+이/jcc
+
+.
+	./sf
+
+
+오션월드,
+	오션월드,/ncn
+
+웅진플레이도시
+	웅진플레이도시/ncn
+
+..
+	./sf+./sf
+
+
+다
+	다/mag
+
+좋죠
+	좋/paa+죠/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+부산살고
+	부산/ncps+살/ncn+고/jcj
+
+있는
+	있/px+는/etm
+
+저에겐
+	저/npp+에겐/jca
+
+너무
+	너무/mag
+
+먼거리라
+	멀/paa+ㄴ/etm+것/nbn+이/jp+리라/ef
+
+..
+	./sf+./sf
+
+
+가까운
+	가깝/paa+은/etm
+
+경주
+	경주/ncpa
+
+블루원
+	블루/ncn+원/ncn
+
+워터파크에
+	워터/ncn+파크/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+알아봤어요
+	알/pvg+아/ecx+보/px+아/ep+아/ef
+
+
+얼마전
+	얼마/ncn+전/ncn
+
+경주
+	경주/ncpa
+
+테디베어박물관
+	테디베어박물관/ncn
+
+가면서
+	가/px+면서/ecc
+
+스쳐지나간
+	스쳐지나간/ncn
+
+경주
+	경주/ncpa
+
+블루원
+	블루/ncn+원/ncn
+
+워터파크
+	워터/ncn+파크/ncn
+
+.
+	./sf
+
+
+지금부터
+	지금/ncn+부터/jxc
+
+알아볼께요
+	알/pvg+아/ecx+보/px+ㄹ께요/ef
+
+
+가장먼저
+	가장먼저/ncn
+
+경주
+	경주/ncpa
+
+블루원
+	블루/ncn+원/ncn
+
+워터파크
+	워터/ncn+파크/ncn
+
+
+이용요금
+	이용요금/ncn
+
+정보/운영시간
+	정보/ncn+//sp+운영시/ncn+간/ncn
+
+
+어느정도
+	어느정도/ncn
+
+예산을
+	예산/ncpa+을/jco
+
+세우고
+	세우/pvg+고/ecc
+
+출발하셔야
+	출발/ncpa+하/xsva+시/ep+어야/ecs
+
+되잖아요
+	되잖/paa+아요/ef
+
+
+경주
+	경주/ncpa
+
+블루원
+	블루/ncn+원/ncn
+
+워터파크는
+	워터/ncn+파크/ncn+는/jxc
+
+
+모든
+	모든/mma
+
+할인권/이용권/입장
+	할인/ncpa+권/xsna+//sp+이용권/ncn+//sp+입장/ncpa
+
+교환관
+	교환/ncpa+관/ncn
+
+등은
+	등/nbu+은/jxc
+
+매표소에서
+	매표소/ncn+에서/jca
+
+티켓으로
+	티켓/ncn+으로/jca
+
+구매하신
+	구매/ncpa+하/xsva+시/ep+ㄴ/etm
+
+후
+	후/ncn
+
+입장
+	입장/ncpa
+
+가능하다고
+	가능/ncps+하/xsms+다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+입장권은
+	입장권/ncn+은/jxc
+
+당일
+	당/ncn+이/jp+ㄹ/etm
+
+사용에
+	사용/ncpa+에/jca
+
+한합니다
+	한하/pvg+ㅂ니다/ef
+
+
+소인
+	소/ncn+이/jp+ㄴ/etm
+
+기준은
+	기준/ncpa+은/jxc
+
+36개월부터
+	36/nnc+개월/nbu+부터/jxc
+
+초등학생까지며
+	초등학생/ncn+까지/jca+이/jp+며/ecc
+
+..
+	./sf+./sf
+
+
+소인
+	소/ncn+이/jp+ㄴ/etm
+
+요금
+	요금/ncn
+
+적용시
+	적용/ncpa+시/ncn
+
+의료보험증
+	의료보험증/ncn
+
+등을
+	등/nbu+을/jco
+
+첨부하셔야
+	첨부/ncpa+하/xsva+시/ep+어야/ecs
+
+한답니다
+	하/px+ㄴ답니다/ef
+
+..
+	./sf+./sf
+
+
+리조트
+	리조트/ncn
+
+회원의
+	회원/ncn+의/jcm
+
+경우
+	경우/ncn
+
+워터
+	워터/ncn
+
+파크
+	파크/ncn
+
+이용
+	이용/ncpa
+
+시
+	시/nbu
+
+반드시
+	반드시/mag
+
+회원
+	회원/ncn
+
+카드
+	카드/ncn
+
+지참시에만
+	지참/ncpa+시/ncn+에/jca+만/jxc
+
+무료
+	무료/ncn
+
+및
+	및/maj
+
+할인
+	할/nbu+이/jp+ㄴ/etm
+
+혜택을
+	혜택/ncn+을/jco
+
+받을
+	받/pvg+을/etm
+
+수
+	수/nbn
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+...
+	.../se
+
+
+로우시즌
+	로우/ncn+시즌/ncn
+
+카바나는
+	카바나/ncn+는/jxc
+
+야외오픈기간만
+	야외/ncn+오픈/ncpa+기간/ncn+만/jxc
+
+운영된다고
+	운영/ncpa+되/xsvn+ㄴ다/ef+고/jcr
+
+해요
+	하/pvg+어요/ef
+
+
+모든
+	모든/mma
+
+부대업장은
+	부대/ncn+업장/ncn+은/jxc
+
+현금,
+	현금/ncn+,/sp
+
+카드
+	카드/ncn
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+블루코인만
+	블루/ncn+코/ncn+이/jp+ㄴ/etm+만/nbs
+
+사용이
+	사용/ncpa+이/jcc
+
+가능해요
+	가능/ncpa+하/xsva+어요/ef
+
+
+보증금은
+	보증금/ncn+은/jxc
+
+대여물품
+	대여/ncn+물품/ncn
+
+반납
+	반납/ncpa
+
+시
+	시/nbu
+
+환불
+	환불/ncn
+
+된답니다
+	되/pvg+ㄴ답니다/ef
+
+...
+	.../se
+
+
+그럼
+	그렇/pad+ㅁ/etn
+
+여기서
+	여기/npd+서/jca
+
+말하는
+	말/ncpa+하/xsva+는/etm
+
+블루코인은
+	블루코인/ncn+은/jxc
+
+뭘까
+	뭘까/ncn
+
+?
+	?/sf
+
+
+코인
+	코/ncn+이/jp+ㄴ/etm
+
+충전
+	충전/ncpa
+
+방법
+	방법/ncn
+
+
+일정금액을
+	일정금액/ncn+을/jco
+
+미리
+	미리/mag
+
+지불하여
+	지불/ncpa+하/xsva+어/ecx
+
+BlueOne바코드
+	BlueOne/f+바코드/ncn
+
+코인에
+	코인/ncn+에/jca
+
+충전하여
+	충전/ncpa+하/xsva+어/ecx
+
+블루원
+	블루/ncn+원/ncn
+
+워터파크
+	워터/ncn+파크/ncn
+
+실내외
+	실내/ncn+외/xsnx
+
+부대업장및
+	부대업장및/ncn
+
+식음시설을
+	식음/ncpa+시설/ncpa+을/jco
+
+이용하는
+	이용/ncpa+하/xsva+는/etm
+
+
+선불제
+	선불/ncpa+제/ncn
+
+시스텝이랍니다
+	시스텝이랍니/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+코인
+	코/ncn+이/jp+ㄴ/etm
+
+충전지역
+	충전/ncpa+지역/ncn
+
+
+로우
+	로우/ncn
+
+시즌:
+	시즌/ncn+:/sp
+
+본관
+	본관/ncn
+
+로비
+	로비/ncn
+
+충전소
+	충전/ncpa+소/ncn
+
+
+하이/골드
+	하이/골드/ncn
+
+시즌
+	시즌/ncn
+
+:
+	:/sp
+
+본관
+	본관/ncn
+
+로비
+	로비/ncn
+
+충전소
+	충전/ncpa+소/ncn
+
+.
+	./sf
+
+
+본관
+	본관/ncn
+
+지하
+	지하/ncn
+
+재충전소
+	재충전/ncn+소/ncn
+
+.
+	./sf
+
+
+별관
+	별관/ncn
+
+충전소
+	충전/ncpa+소/ncn
+
+
+코인
+	코/ncn+이/jp+ㄴ/etm
+
+충전
+	충전/ncpa
+
+시
+	시/nbu
+
+주의사항
+	주의사항/ncn
+
+
+코인
+	코/ncn+이/jp+ㄴ/etm
+
+충전은
+	충전/ncpa+은/jxc
+
+현금과
+	현금/ncn+과/jcj
+
+신용카드로만
+	신용카드/ncn+로/jca+만/jxc
+
+이용이
+	이용/ncpa+이/jcc
+
+가능하다고
+	가능/ncps+하/xsms+다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+코인
+	코/ncn+이/jp+ㄴ/etm
+
+추전
+	추/ncn+전/xsnx
+
+시
+	시/nbu
+
+현금과
+	현금/ncn+과/jcj
+
+카드를
+	카드/ncn+를/jco
+
+동시에
+	동시에/mag
+
+사용할
+	사용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+없다고
+	없/paa+다/ef+고/jcr
+
+해요
+	하/pvg+어요/ef
+
+
+충전은
+	충전/ncpa+은/jxc
+
+최소
+	최소/ncn
+
+10000원
+	10000/nnc+원/nbu
+
+이상
+	이상/ncn
+
+가능
+	가능/ncpa
+
+....
+	.../se+./sf
+
+
+코인
+	코/ncn+이/jp+ㄴ/etm
+
+분실
+	분실/ncn
+
+시
+	시/nbu
+
+환불
+	환불/ncn
+
+불가
+	불/ncn+가/jcs
+
+..
+	./sf+./sf
+
+
+경주불루원
+	경주불루원/ncn
+
+워터파크
+	워터/ncn+파크/ncn
+
+할인카드
+	할인카드/ncn
+
+
+쿠폰,
+	쿠폰/ncn+,/sp
+
+단체할인
+	단체/ncn+할인/ncpa
+
+.
+	./sf
+
+
+타카드사
+	타/xp+카드사/ncn
+
+사용
+	사용/ncpa
+
+등
+	등/nbu
+
+중복
+	중복/ncn
+
+할인은
+	할인/ncpa+은/jxc
+
+되지
+	되/pvg+지/ecx
+
+않으며
+	않/px+으며/ecc
+
+적용
+	적용/ncpa
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+할인율
+	할인율/ncn
+
+중
+	중/nbn
+
+최고의
+	최고/ncn+의/jcm
+
+할인율이
+	할인율/ncn+이/jcc
+
+적용됩니다
+	적용/ncpa+되/xsvn+ㅂ니다/ef
+
+
+출발하기전
+	출발/ncpa+하기/ncn+전/ncn
+
+할인카드
+	할인카드/ncn
+
+꼭
+	꼭/mag
+
+챙겨가세요
+	챙기/pvg+어/ecx+가/px+세요/ef
+
+
+1일
+	1/nnc+일/nbu
+
+1회(이용일
+	1회(이용/ncn+이/jp+ㄹ/etm
+
+기준)
+	기준/ncpa+)/sr
+
+본인
+	본인/ncn
+
+결제에
+	결제/ncn+에/jca
+
+한하며,
+	한하/pvg+며/ecc+,/sp
+
+타인에게
+	타인/ncn+에게/jca
+
+양도
+	양/ncn+도/jxc
+
+사용이
+	사용/ncpa+이/jcc
+
+불가능합니다
+	불가능/ncps+하/xsms+ㅂ니다/ef
+
+
+카드
+	카드/ncn
+
+이용실적에
+	이용/ncpa+실적/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+서비스
+	서비스/ncpa
+
+제한이
+	제한/ncpa+이/jcc
+
+있을
+	있/px+을/etm
+
+수
+	수/nbn
+
+있어요
+	있/paa+어요/ef
+
+
+우대프로그램도
+	우대/ncpa+프로그램/ncn+도/jxc
+
+참고하세요
+	참/pvg+고/ecx+하/px+세/ef+요/jxf
+
+...
+	.../se
+
+
+경주
+	경주/ncpa
+
+블루원
+	블루/ncn+원/ncn
+
+워터파크는
+	워터/ncn+파크/ncn+는/jxc
+
+영남권
+	영남권/ncn
+
+최대
+	최대/ncn
+
+4계절
+	4계절/ncn
+
+워터파크
+	워터/ncn+파크/ncn
+
+!!
+	!/sf+!/sf
+
+
+국내
+	국내/ncn
+
+최고
+	최고/ncn
+
+2.6M의
+	2.6M/ncn+의/jcm
+
+파도를
+	파도/ncn+를/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이랍니다
+	곳/ncn+이/jp+랍니다/ef
+
+...
+	.../se
+
+
+경주
+	경주/ncpa
+
+블루원
+	블루/ncn+원/ncn
+
+워터파크
+	워터/ncn+파크/ncn
+
+실내
+	실내/ncn
+
+
+경주
+	경주/ncpa
+
+블루원
+	블루/ncn+원/ncn
+
+워터
+	워터/ncn
+
+파크
+	파크/ncn
+
+실외
+	실외/ncn
+
+
+경주
+	경주/ncpa
+
+블로원
+	블로원/ncn
+
+워터
+	워터/ncn
+
+파크
+	파크/ncn
+
+정말
+	정말/mag
+
+좋은
+	좋/paa+은/etm
+
+시설들
+	시설/ncpa+들/ncn
+
+낳응데요
+	낳응데요/ncn
+
+...
+	.../se
+
+
+그
+	그/mmd
+
+중에서
+	중/nbn+에서/jca
+
+몇가지만
+	몇/nnc+가지/nbu+만/jxc
+
+알아볼께요^*^
+	알아볼께요/ncn+^/sy+*/sy+^/sy
+
+
+토네이드
+	토네이드/ncn
+
+슬라이드
+	슬라이드/ncn
+
+
+길이
+	길/ncn+이/jcc
+
+122m놀이
+	122m놀/ncn+이/jcc
+
+18m
+	18m/ncn
+
+인
+	일/pvg+ㄴ/etm
+
+토네이드
+	토네이드/ncn
+
+슬라이드
+	슬라이드/ncn
+
+..
+	./sf+./sf
+
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+물줄기와
+	물줄기/ncn+와/jct
+
+함께
+	함께/mag
+
+즐기는
+	즐기/pvg+는/etm
+
+고공
+	고공/ncn
+
+롤러코스터
+	롤러/ncn+코스/ncn+터/ncn
+
+느낌의
+	느낌/ncn+의/jcm
+
+다이나믹
+	다이나믹/ncpa
+
+슬라이드로
+	슬라이드/ncn+로/jca
+
+회전의
+	회전/ncpa+의/jcm
+
+묘미를
+	묘미/ncn+를/jco
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+4인용
+	4인용/ncn
+
+튜브슬라이드
+	튜브/ncn+슬라이드/ncn
+
+
+이용기준
+	이용/ncpa+기준/ncpa
+
+:
+	:/sp
+
+신장
+	신장/ncpa
+
+120m이상
+	120m이상/ncn
+
+이용가능/노약자
+	이용가능/ncps+//sp+노약자/ncn
+
+및
+	및/maj
+
+임산부
+	임산부/ncn
+
+이용제한
+	이용/ncpa+제한/ncpa
+
+
+스톰
+	스톰/ncn
+
+웨이브
+	웨이브/ncn
+
+
+길이
+	길/ncn+이/jcc
+
+90m/26.
+	90m/26./ncn
+
+5m
+	5m/ncn
+
+최고파도
+	최고/ncn+파/ncn+도/jxc
+
+2.6m
+	2.6m/ncn
+
+
+모든것을
+	모든것/ncn+을/jco
+
+집어
+	집/pvg+어/ecx
+
+삼킬
+	삼키/pvg+ㄹ/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+최대
+	최대/ncn
+
+2.6m
+	2.6m/ncn
+
+파도를
+	파도/ncn+를/jco
+
+온몸으로
+	온몸/ncn+으로/jca
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있으면
+	있/px+으면/ecs
+
+예상할
+	예상/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+파도는
+	파도/ncn+는/jxc
+
+긴장감과
+	긴장감/ncn+과/jcj
+
+스릴을
+	스릴/ncn+을/jco
+
+제공
+	제공/ncpa
+
+
+이용기준
+	이용/ncpa+기준/ncpa
+
+:
+	:/sp
+
+신장
+	신장/ncpa
+
+120cm이하
+	120cm이하/ncn
+
+이용제한
+	이용/ncpa+제한/ncpa
+
+..
+	./sf+./sf
+
+
+/구명자켓
+	//sp+구명/ncn+자켓/ncn
+
+착용후
+	착용/ncpa+후/ncn
+
+입장가능
+	입장/ncpa+가능/ncn
+
+
+키디풀
+	키디풀/ncn
+
+
+수심
+	수/nbn+이/jp+시/ep+ㅁ/etn
+
+30m
+	30m/ncn
+
+
+유아들을
+	유아/ncn+들/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+물놀이
+	물놀이/ncpa
+
+공간으로
+	공간/ncn+으로/jca
+
+각정
+	각정/ncn
+
+물놀이
+	물놀이/ncpa
+
+시설을
+	시설/ncpa+을/jco
+
+겸비하여
+	겸비/ncpa+하/xsva+어/ecx
+
+아이들에게
+	아이/ncn+들/ncn+에게/jca
+
+큰
+	크/paa+ㄴ/etm
+
+즐거움을
+	즐거움/ncn+을/jco
+
+선사하는
+	선사/ncpa+하/xsva+는/etm
+
+곳
+	곳/nbu
+
+
+우리
+	우리/npp
+
+6살
+	6/nnc+살/nbu
+
+꼬맹이
+	꼬맹이/ncn
+
+아들이
+	아들/ncn+이/jcc
+
+놀
+	놀/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이네요
+	곳/ncn+이/jp+네/ef+요/jxf
+
+....
+	.../se+./sf
+
+
+전
+	전/nbn
+
+연령
+	연령/ncn
+
+이용가능
+	이용가능/ncn
+
+
+아일랜드
+	아일랜드/ncn
+
+스파
+	스파/ncn
+
+
+수심
+	수/nbn+이/jp+시/ep+ㅁ/etn
+
+60cm
+	60cm/ncn
+
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+휴식을
+	휴식/ncpa+을/jco
+
+취하며
+	취하/pvg+며/ecc
+
+.
+	./sf
+
+
+야외의
+	야외/ncn+의/jcm
+
+전경을
+	전경/ncn+을/jco
+
+만끽
+	만끽/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+복층형
+	복층형/ncn
+
+노천
+	노천/ncn
+
+스파
+	스파/ncn
+
+...
+	.../se
+
+
+전
+	전/nbn
+
+연령
+	연령/ncn
+
+이용가능
+	이용가능/ncn
+
+..
+	./sf+./sf
+
+
+튜브
+	튜브/ncn
+
+이용하면
+	이용/ncpa+하/xsva+면/ecs
+
+안된다고
+	안되/paa+ㄴ다/ef+고/jcr
+
+하네요
+	하/pvg+네요/ef
+
+
+어드벤처
+	어드벤처/ncn
+
+플레이
+	플레이/ncn
+
+
+온가족이
+	온가족/ncn+이/jcc
+
+함께
+	함께/mag
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+초대형
+	초대/ncn+형/ncn
+
+수중
+	수중/ncn
+
+놀이터로
+	놀이터/ncn+로/jca
+
+각종
+	각종/ncn
+
+미끄럼틀,
+	미끄럼틀/ncn+,/sp
+
+정글집
+	정글/ncn+집/ncn
+
+등의
+	등/nbu+의/jcm
+
+시설을
+	시설/ncpa+을/jco
+
+갖추었으며,,
+	갖추/pvg+었/ep+으며/ecc+,/sp+,/sp
+
+공중에서
+	공중/ncn+에서/jca
+
+떨어지는
+	떨어지/pvg+는/etm
+
+
+바스켓의
+	바스켓/ncn+의/jcm
+
+물은
+	물/ncn+은/jxc
+
+마치
+	마치/mag
+
+폭포가
+	폭포/ncn+가/jcs
+
+덮치는
+	덮치/pvg+는/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+시원함을
+	시원/ncps+하/xsms+ㅁ/etn+을/jco
+
+선사
+	선사/ncpa
+
+...
+	.../se
+
+
+전
+	전/nbn
+
+연령
+	연령/ncn
+
+이용
+	이용/ncpa
+
+가능
+	가능/ncn
+
+
+패밀리
+	패밀리/ncn
+
+슬라이드
+	슬라이드/ncn
+
+
+길이
+	길/ncn+이/jcc
+
+107m
+	107m/ncn
+
+높이
+	높이/ncn
+
+18m
+	18m/ncn
+
+
+직선과
+	직선/ncn+과/jcj
+
+곡선의
+	곡선/ncn+의/jcm
+
+조화를
+	조화/ncn+를/jco
+
+이루는
+	이루/pvg+는/etm
+
+대형
+	대형/ncn
+
+슬라이드는
+	슬라이드/ncn+는/jxc
+
+마차
+	마차/ncn
+
+레프팅을
+	레프팅/ncn+을/jco
+
+타는
+	타/pvg+는/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+속도감과
+	속도감/ncn+과/jcj
+
+그릴을
+	그릴/ncn+을/jco
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+4인용
+	4인용/ncn
+
+튜브
+	튜브/ncn
+
+슬라이드
+	슬라이드/ncn
+
+
+이용기준
+	이용/ncpa+기준/ncpa
+
+:
+	:/sp
+
+신장
+	신장/ncpa
+
+120cm이상
+	120cm이상/ncn
+
+이용가능
+	이용가능/ncn
+
+...
+	.../se
+
+
+웨이브
+	웨이브/ncn
+
+슬라이드
+	슬라이드/ncn
+
+
+길이
+	길/ncn+이/jcc
+
+38m
+	38m/ncn
+
+놀이10m
+	놀이10m/ncn
+
+
+마치
+	마치/mag
+
+바이킹을
+	바이킹/ncn+을/jco
+
+타듯
+	타/pvg+듯/ecs
+
+상승과
+	상승/ncpa+과/jcj
+
+하강의
+	하강/ncpa+의/jcm
+
+스릴을
+	스릴/ncn+을/jco
+
+동시에
+	동시에/mag
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+1인용
+	1인용/ncn
+
+튜브
+	튜브/ncn
+
+슬라이드
+	슬라이드/ncn
+
+
+신장120cm
+	신장120cm/ncn
+
+이상
+	이상/ncn
+
+이용가능
+	이용가능/ncn
+
+
+경주
+	경주/ncpa
+
+블루원
+	블루/ncn+원/ncn
+
+찾아가기
+	찾아가/pvg+기/etn
+
+
+더운
+	덥/paa+은/etm
+
+여름
+	여름/ncn
+
+경주
+	경주/ncpa
+
+블로원
+	블로원/ncn
+
+워터파크
+	워터/ncn+파크/ncn
+
+가서
+	가/pvg+서/ecs
+
+신나게
+	신나/pvg+게/ecs
+
+물놀이
+	물놀이/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+생각하니
+	생각/ncpa+하/xsva+니/ecs
+
+..
+	./sf+./sf
+
+
+벌써부터
+	벌써/mag+부터/jxc
+
+설레네요
+	설레/pvg+네요/ef
+
+
+올해는
+	올해/ncn+는/jxc
+
+둘째도
+	둘째/nno+도/jxc
+
+많이
+	많/paa+이/xsa
+
+커서
+	크/paa+어서/ecs
+
+물놀이
+	물놀이/ncpa
+
+꼭
+	꼭/mag
+
+가야겠어요
+	가/pvg+아/ep+아/ef
+
+
+컴맹에서
+	컴맹/ncn+에서/jca
+
+파워블로그까지
+	파워블로그까지/ncn
+
+맘스블로그
+	맘스블로그/ncn
+
+바로가기
+	바로가/ncn+이/jp+기/etn

@@ -1,0 +1,553 @@
+너구리에
+	너구리/ncn+에/jca
+
+밥
+	밥/ncn
+
+말아먹고
+	말아먹고/ncn
+
+나서도
+	나/npp+서/jca+도/jxc
+
+배가
+	배/ncn+가/jcs
+
+안
+	안/mag
+
+부르는다는
+	부르/pvg+ㄴ다/ef+는/etm
+
+지인분이
+	지/nbn+이/jp+ㄴ/etm+분/nbn+이/jcc
+
+드시고
+	들/pvg+시/ep+고/ecc
+
+싶다는
+	싶/px+다/ef+는/etm
+
+피자를
+	피자/ncn+를/jco
+
+먹으러
+	먹/pvg+으러/ecs
+
+간.
+	가/px+ㄴ/etm+./sf
+
+...
+	.../se
+
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+금곡동에
+	금곡/ncn+동/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+홈메이트
+	홈메이트/ncn
+
+프레쉬
+	프레/ncn+쉬/ncpa
+
+피자전문점
+	피자/ncn+전문/ncn+점/ncn
+
+스토브온
+	스토브온/ncn
+
+입니다~
+	입/pvg+니다/ef+~/sd
+
+
+금곡동
+	금곡/ncn+동/ncn
+
+두산위브
+	두산위브/ncn
+
+상가
+	상가/ncn
+
+1층에
+	1/nnc+층/nbu+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+있습니다~
+	있/px+습니다/ef+~/sd
+
+1층
+	1/nnc+층/nbu
+
+빨간집입니다
+	빨간집/ncn+이/jp+ㅂ니다/ef
+
+
+실내모습입니다
+	실내/ncn+모습/ncn+이/jp+ㅂ니다/ef
+
+...
+	.../se
+
+
+실내는
+	실내/ncn+는/jxc
+
+아담합니다
+	아담/ncps+하/xsms+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+주방
+	주방/ncn
+
+왼편에
+	왼편/ncn+에/jca
+
+피자의
+	피자/ncn+의/jcm
+
+담백함을
+	담백/ncn+함/ncn+을/jco
+
+더해준다는
+	더하/paa+어/ecx+주/px+ㄴ다/ef+는/etm
+
+...
+	.../se
+
+
+직접
+	직접/mag
+
+제작하셨다는
+	제작/ncpa+하/xsva+셨/ep+다/ef+는/etm
+
+돌화덕도
+	돌화덕/ncn+도/jxc
+
+보이구요~
+	보이구요/ncn+~/sd
+
+
+주방
+	주방/ncn
+
+위
+	위/ncn
+
+쪽에
+	쪽/nbn+에/jca
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+칠판글씨로
+	칠판/ncn+글씨/ncn+로/jca
+
+써져있는
+	쓰/pvg+어/ecx+지/px+어/ecx+있/px+는/etm
+
+메뉴판입니다~
+	메뉴판/ncn+이/jp+ㅂ니다/ef+~/sd
+
+천연효모발효
+	천연/ncn+효모/ncn+발효/ncpa
+
+.
+	./sf
+
+
+저온숙성
+	저온/ncn+숙성/ncpa
+
+.
+	./sf
+
+
+돌화덕에
+	돌화덕/ncn+에/jca
+
+구운
+	굽/pvg+은/etm
+
+수제조각피자라고
+	수제/ncn+조각/ncn+피자/ncn+이/jp+라/ef+고/jcr
+
+요약되네요~
+	요약/ncpa+되/xsvn+네요/ef+~/sd
+
+
+피자에
+	피자/ncn+에/jca
+
+콜라를
+	콜라/ncn+를/jco
+
+빠뜨릴
+	빠뜨리/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없죠~
+	없/paa+죠/ef+~/sd
+
+바로
+	바로/mag
+
+주문합니다
+	주문/ncpa+하/xsva+ㅂ니다/ef
+
+...
+	.../se
+
+
+콜라부터
+	콜라/ncn+부터/jxc
+
+나오고요~
+	나오/pvg+고요/ef+~/sd
+
+
+주문한
+	주문/ncn+한/ncn
+
+더블치즈피자(5,000원)과
+	더블치즈피자(5,000원)/ncn+과/jcj
+
+화이트루꼴라피자(6,000원)
+	화이트루꼴라피자(6,000원)/ncn
+
+...
+	.../se
+
+
+나와주셨습니다
+	나오/pvg+아/ecx+주/px+셨/ep+습니다/ef
+
+...
+	.../se
+
+
+보기만
+	보/px+기/etn+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+먹음직스럽네요~
+	먹음직스럽/paa+네/ef+요/jxf+~/sd
+
+바로
+	바로/mag
+
+시식들어갑니다~
+	시식들어갑니/ncn+이/jp+다/ef+~/sd
+
+
+더블치즈(체다치즈)피자입니다~
+	더블치즈(체다치즈)피자입니다~/ncn
+
+보시는
+	보/px+시/ep+는/etm
+
+바와
+	바/nbn+와/jct
+
+같이
+	같/paa+이/xsa
+
+맛있어
+	맛있/paa+어/ecx
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+먹어보니
+	먹/pvg+어/ecx+보/px+니/ecs
+
+풍부한
+	풍부/ncps+하/xsms+ㄴ/etm
+
+치즈에
+	치즈/ncn+에/jca
+
+담백함이
+	담백/ncn+함/ncn+이/jcc
+
+어우러져
+	어우러지/pvg+어/ecx
+
+...
+	.../se
+
+
+좋습니다
+	좋/paa+습니다/ef
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+이어서
+	이/npd+이/jp+어서/ecs
+
+화이트루꼴라(토마토
+	화이트루꼴라(토마토/ncn
+
+.
+	./sf
+
+
+루꼴라)피자입니다~
+	루꼴라)피자입니다~/ncn
+
+루꼴라와
+	루꼴라/ncn+와/jcj
+
+토마토가
+	토마토/ncn+가/jcs
+
+조화를
+	조화/ncn+를/jco
+
+이룬
+	이루/pvg+ㄴ/etm
+
+맛.
+	맛/ncn+./sf
+
+...
+	.../se
+
+
+이것두
+	이것두/ncn
+
+좋네요~
+	좋/paa+네요/ef+~/sd
+
+
+여성분들이
+	여성/ncn+분/ncn+들/xsncc+이/jcc
+
+딱
+	딱/mag
+
+좋아할만한
+	좋/paa+아/ecx+하/px+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+사이즈와
+	사이즈/ncn+와/jct
+
+양이지
+	양/ncn+이/jp+지/ecs
+
+않나
+	않/px+나/ef
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+남자분들은
+	남자분/ncn+들/ncn+은/jxc
+
+양이
+	양/ncn+이/jcc
+
+모자랄
+	모자라/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+...
+	.../se
+
+
+^^;
+	^/sy+^/sy+;/sy
+
+
+클리어하지
+	크/paa+ㄹ/etm+리/nbn+이/jp+어/ecx+하/px+지/ecx
+
+않을
+	않/px+을/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+....
+	.../se+./sf
+
+
+^^;
+	^/sy+^/sy+;/sy
+
+
+이상
+	이상/ncn
+
+피자매니아들의
+	피자/ncn+매니아/ncn+들/ncn+의/jcm
+
+입맛을
+	입맛/ncn+을/jco
+
+당기게
+	당기/pvg+게/ecs
+
+하는
+	하/pvg+는/etm
+
+...
+	.../se
+
+
+개성있는
+	개성/ncn+있/xsmn+는/etm
+
+수제조각피자맛이
+	수제/ncn+조각/ncn+피자/ncn+맛/ncn+이/jcc
+
+좋은
+	좋/paa+은/etm
+
+홈메이드
+	홈메이드/ncn
+
+프레쉬
+	프레/ncn+쉬/ncpa
+
+피자전문점
+	피자/ncn+전문/ncn+점/ncn
+
+스토브온
+	스토브온/ncn
+
+이었습니다~
+	이/ncn+이/jp+었/ep+습니다/ef+~/sd
+
+
+위치
+	위치/ncn
+
+:
+	:/sp
+
+분당구
+	분당구/ncn
+
+금곡동
+	금곡/ncn+동/ncn
+
+192
+	192/nnc
+
+두산위브아파트상가
+	두산위브아파트상/ncn+가/jcs
+
+106동
+	106/nnc+동/nbu
+
+101호
+	101/nnc+호/nbu
+
+
+전화번호
+	전화번호/ncn
+
+:
+	:/sp
+
+070-4130-5775
+	070/nnc+-4130/nnc+-5775/nnc
+
+
+영업시간
+	영업시간/ncn
+
+:
+	:/sp
+
+12시부터
+	12/nnc+시/nbu+부터/jxc
+
+22시까지
+	22/nnc+시/nbu+까지/jxc
+
+(첫째주
+	(/sl+첫째/nno+주/nbu
+
+월요일
+	월요일/ncn
+
+휴무)
+	휴무/ncpa+)/sr
+
+
+스토브온
+	스토브온/ncn
+
+
+경기도
+	경기/ncn+도/jxc
+
+성남시
+	성남시/ncn
+
+분당구
+	분당구/ncn
+
+금곡동
+	금곡/ncn+동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01386702",
+	"bl01386702",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"13447563",
+	"/sl+13447563/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"스토브온",
+	title:"스토브온",/ncn
+
+pointX:321017,pointY:528485}
+	pointX/f+:/sp+321017/nnc+,/sp+pointY/f+:/sp+528485/nnc+}/sr

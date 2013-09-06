@@ -1,0 +1,840 @@
+천수만
+	천수/ncn+만/jxc
+
+우럭
+	우럭/ncn
+
+출조
+	출조/ncn
+
+
+출조일
+	출조일/ncn
+
+:
+	:/sp
+
+2010년
+	2010/nnc+년/nbu
+
+4월
+	4/nnc+월/nbu
+
+25일(일)
+	25일/ncn+(/sl+일/nbu+)/sr
+
+
+물때
+	물/pvg+ㄹ/etm+때/nbn
+
+:
+	:/sp
+
+3물
+	3/nnc+물/nbu
+
+
+기상
+	기상/ncn
+
+:
+	:/sp
+
+맑음
+	맑음/ncn
+
+
+파고
+	파/ncn+이/jp+고/ecc
+
+:
+	:/sp
+
+0.5미터
+	0.5/nnc+미터/nbu
+
+
+출조자
+	출조/ncn+이/jp+자/ecc
+
+:
+	:/sp
+
+둘리님
+	둘리님/ncn
+
+외
+	외/nbn
+
+다수
+	다수/ncn
+
+
+출조지
+	출조지/ncn
+
+:
+	:/sp
+
+충남
+	충남/ncn
+
+오천
+	오/nnc+천/nnc
+
+
+조과
+	조/ncn+과/jcj
+
+:우럭
+	:/sp+우럭/ncn
+
+몇수
+	몇/nnc+수/nbu
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+참으로
+	차/pvg+ㅁ/etn+으로/jca
+
+오랜만에
+	오랜만/ncn+에/jca
+
+바다출조를
+	바다출조/ncn+를/jco
+
+
+계획하고
+	계획하/ncn+이/jp+고/ecc
+
+떠나게
+	떠나/pvg+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+아직은
+	아직/mag+은/jxc
+
+루어에
+	루어/ncn+에/jca
+
+반응은
+	반응/ncpa+은/jxc
+
+미약하리라고
+	미약/ncn+하리/ncn+라고/jca
+
+
+생각은
+	생각/ncpa+은/jxc
+
+하면서도
+	하/pvg+면서/ecs+도/jxc
+
+그냥
+	그냥/mag
+
+떠나
+	떠나/pvg+아/ecx
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+바다가
+	바다/ncn+가/jcs
+
+보고싶어서
+	보/pvg+고/ecx+싶/px+어서/ecs
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+새벽에
+	새벽/ncn+에/jca
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+오천항은
+	오천항/ncn+은/jxc
+
+아직도
+	아직/mag+도/jxc
+
+
+한겨울처럼
+	한겨울/ncn+처럼/jca
+
+차디찬
+	차디차/paa+ㄴ/etm
+
+바람이
+	바람/ncn+이/jcc
+
+코끝을
+	코끝/ncn+을/jco
+
+
+건드리며
+	건드리/pvg+며/ecc
+
+옷깃을
+	옷깃/ncn+을/jco
+
+여미게
+	여미/pvg+게/ecs
+
+만드네요
+	만들/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+작년에도이맘때쯤
+	작년에도이맘때쯤/ncn
+
+출조를
+	출조/ncn+를/jco
+
+했었던
+	하/pvg+었었/ep+던/etm
+
+
+바이킹님이
+	바이킹/ncn+님/ncn+이/jcc
+
+운영하시는
+	운영/ncpa+하/xsva+시/ep+는/etm
+
+바이킹호
+	바이킹/ncn+호/ncn
+
+!!
+	!/sf+!/sf
+
+
+이번
+	이/nnc+번/nbu
+
+출조도
+	출조/ncn+도/jxc
+
+
+선상우럭낚시팀에
+	선상/ncn+우럭/ncn+낚시/ncpa+팀/ncn+에/jca
+
+끼어서
+	끼/nbu+이/jp+어서/ecs
+
+
+작년처럼
+	작년/ncn+처럼/jca
+
+자작
+	자작/ncn
+
+타이라바와
+	타이라바/ncn+와/jcj
+
+
+웜위주의
+	웜위주/ncn+의/jcm
+
+루어를
+	루어/ncn+를/jco
+
+하기로
+	하/pvg+기/etn+로/jca
+
+계획
+	계획/ncpa
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+조과는기대를
+	조과는기대/ncn+를/jco
+
+하지
+	하/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+
+바닷물에
+	바닷물/ncn+에/jca
+
+루어
+	루/nbu+이/jp+어/ecs
+
+퐁당
+	퐁당/ncn
+
+거리는
+	것/nbn+이/jp+리/ef+는/etm
+
+재미도
+	재미/ncn+도/jxc
+
+느껴보고
+	느끼/pvg+어/ecx+보/px+고/ecc
+
+
+겨우내
+	겨우내/mag
+
+모셔
+	모시/pvg+어/ecx
+
+두었던
+	두/pvg+었/ep+던/etm
+
+장비들이
+	장비/ncpa+들이/ncn
+
+
+잘
+	잘/mag
+
+돌아가나
+	돌/pvg+아/ecx+가/px+아/ecx+나/px+아/ecx
+
+테스트도
+	테스트/ncpa+도/jxc
+
+할겸
+	하/pvg+ㄹ/etm+겸/nbn
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+5시가
+	5/nnc+시/nbu+가/jcc
+
+조금
+	조금/mag
+
+넘어선
+	넘어서/pvg+ㄴ/etm
+
+시간
+	시간/nbu
+
+오천항은
+	오천항/ncn+은/jxc
+
+출조를
+	출조/ncn+를/jco
+
+
+나가려는
+	나/pvg+아/ecx+가/px+려는/etm
+
+배들로
+	배/ncn+들/xsncc+로/jca
+
+움직임이
+	움직이/pvg+ㅁ/etn+이/jcs
+
+바빠지고
+	바빠지/pvg+고/ecc
+
+
+이윽고
+	이윽고/mag
+
+바이킹호도
+	바이킹/ncn+호/ncn+도/jxc
+
+출발
+	출발/ncpa
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+먼바다
+	멀/paa+ㄴ/etm+바/nbn+이/jp+다/ef
+
+보다
+	보다/mag
+
+가까운
+	가깝/paa+은/etm
+
+천수만내의
+	천수/ncn+만/ncn+내/xsncc+의/jcm
+
+
+포인트를
+	포인트/ncn+를/jco
+
+찾아
+	찾/pvg+아/ecx
+
+보기로
+	보/px+기/etn+로/jca
+
+한다
+	하/px+ㄴ다/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+저멀리
+	저멀리/mag
+
+이른
+	이르/paa+ㄴ/etm
+
+새벽을
+	새벽/ncn+을/jco
+
+알리는
+	알리/pvg+는/etm
+
+일출이
+	일출/ncpa+이/jcc
+
+
+비록
+	비록/mag
+
+바다에서
+	바다/ncn+에서/jca
+
+떠오르는
+	떠오르/pvg+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+아니지만
+	아니/mag+지만/jxc
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+바닷바람을
+	바닷바람/ncn+을/jco
+
+맡으며
+	맡/pvg+으며/ecc
+
+떠나는
+	떠나/pvg+는/etm
+
+출조의
+	출조/ncn+의/jcm
+
+
+설레임에
+	설레이/pvg+ㅁ/etn+에/jca
+
+더더욱
+	더더욱/mag
+
+일출이
+	일출/ncpa+이/jcc
+
+아름답게
+	아름답/paa+게/ecs
+
+느껴
+	느끼/pvg+어/ecx
+
+집니다
+	지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+잔잔한
+	잔잔/ncn+한/ncn
+
+봄바다의
+	봄바다/ncn+의/jcm
+
+정취가
+	정취/ncn+가/jcs
+
+한가로워
+	한가/ncps+롭/xsmn+어/ecx
+
+보이고
+	보이/ncn+고/jcj
+
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+중천에
+	중천/ncn+에/jca
+
+뜨면서
+	뜨/pvg+면서/ecc
+
+따스해진
+	따스/ncps+하/xsms+어/ecx+지/px+ㄴ/etm
+
+햇살에
+	햇살/ncn+에/jca
+
+
+못잤던
+	못잤던/ncn
+
+잠이
+	잠/ncn+이/jcc
+
+솔솔
+	솔솔/mag
+
+오기도하고~~
+	오기/ncn+도/ncn+하고/jcj+~/sd+~/sd
+
+
+멀리
+	멀리/mag
+
+떠있는
+	뜨/pvg+어/ecx+있/px+는/etm
+
+보트를
+	보트/ncn+를/jco
+
+보니
+	보/nbu+이/jp+니/ef
+
+
+인천
+	인천/ncn
+
+앞바다를
+	앞바다/ncn+를/jco
+
+다닐
+	다니/pvg+ㄹ/etm
+
+생각들을
+	생각/ncpa+들/ncn+을/jco
+
+해봅니다
+	하/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+몇가지
+	몇/nnc+가지/nbu
+
+새로이
+	새로이/mag
+
+만들었던
+	만들/pvg+었/ep+던/etm
+
+
+여러
+	여러/mma
+
+채비들을
+	채비/ncpa+들/ncn+을/jco
+
+테스트
+	테스트/ncpa
+
+해봅니다만
+	해봅니다/ncn+만/jxc
+
+
+아직은
+	아직/mag+은/jxc
+
+활성도가
+	활성/ncn+도/ncn+가/jcs
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+관계로다가
+	관계/ncn+로/jca+다가/jxc
+
+
+우럭
+	우럭/ncn
+
+몇마리밖에
+	몇/nnc+마리/nbu+밖에/jxc
+
+볼수가
+	보/px+ㄹ/etm+수/nbn+가/jcc
+
+없었네요
+	없/paa+었/ep+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+긴시간
+	긴시간/ncn
+
+낚시를
+	낚시/ncpa+를/jco
+
+마치고
+	마치/ncn+고/jcj
+
+
+오천항으로
+	오천항/ncn+으로/jca
+
+되돌아
+	되돌/pvg+아/ecx
+
+옵니다
+	오/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+바다를
+	바다/ncn+를/jco
+
+찾을
+	찾/pvg+을/etm
+
+수
+	수/nbn
+
+있었기에
+	있/paa+었/ep+기/etn+에/jca
+
+
+기분
+	기분/ncn
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+하루를
+	하루/ncn+를/jco
+
+마감하며
+	마감/ncpa+하/xsva+며/ecc
+
+
+올
+	오/px+ㄹ/etm
+
+한해도
+	한/nnc+해/nbu+도/jxc
+
+시작을
+	시작/ncpa+을/jco
+
+해
+	하/pvg+어/ecx
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+노란잠수함
+	노란잠수함/ncn
+
+
+사용태클
+	사용/ncpa+태클/ncn
+
+
+로드
+	로드/ncn
+
+:자작
+	:/sp+자작/ncn
+
+참돔루어로드
+	참돔루어로드/ncn
+
+6.
+	6./nnc
+
+8ftMH,
+	8ftMH/ncn+,/sp
+
+
+자작
+	자작/ncn
+
+6ft
+	6ft/ncn
+
+MH
+	MH/f
+
+배스로드
+	배스로드/ncn
+
+
+릴
+	릴/ncn
+
+:
+	:/sp
+
+시마노
+	시마노/ncn
+
+스피드마스타
+	스피드마스타/ncn
+
+201,
+	201/nnc+,/sp
+
+
+도요피싱
+	도요피싱/ncn
+
+루비나인쇼어
+	루비나인쇼/ncn+이/jp+어/ecs
+
+
+라인
+	라인/ncn
+
+:
+	:/sp
+
+SUFIX
+	SUFIX/f
+
+Performance
+	Performance/f
+
+BRAID
+	BRAID/f
+
+20lb
+	20lb/ncn
+
+
+PLINEXtra
+	PLINEXtra/f
+
+Strong
+	Strong/f
+
+12lb
+	12lb/ncn
+
+
+쇼크리더
+	쇼크/ncn+리더/ncn
+
+:
+	:/sp
+
+DUEL
+	DUEL/f
+
+HD
+	HD/f
+
+Carbon
+	Carbon/f
+
+4호
+	4/nnc+호/nbu
+
+
+루어
+	루/nbu+이/jp+어/ecs
+
+:자작인치쿠
+	:자작인치쿠/ncn
+
+40~60g,
+	40~60g/ncn+,/sp
+
+
+자작
+	자작/ncn
+
+타이라바
+	타이라바/ncn
+
+40~70g
+	40~70g/ncn

@@ -1,0 +1,407 @@
+사라봉
+	사라봉/ncn
+
+공원은
+	공원/ncn+은/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+동문로터리에서
+	동문/ncn+로터리/ncn+에서/jca
+
+동쪽으로
+	동쪽/ncn+으로/jca
+
+2km
+	2km/ncn
+
+거리에
+	거리/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+143m
+	143m/ncn
+
+높이의
+	높이/ncn+의/jcm
+
+낮은동산이다
+	낮은동산/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+사봉
+	사/nnc+봉/nbu
+
+낙조는
+	낙조/ncn+는/jxc
+
+영주
+	영주/ncn
+
+12경의
+	12/nnc+경/xsnu+의/jcm
+
+하나로
+	하나/nnc+로/jca
+
+성산일출과
+	성산/ncn+일출/ncpa+과/jcj
+
+대조가
+	대조/ncpa+가/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+만하다
+	만/nbs+하/xsms+다/ef
+
+.
+	./sf
+
+
+북쪽으로는
+	북쪽/ncn+으로/jca+는/jxc
+
+바다를
+	바다/ncn+를/jco
+
+끼고
+	끼/pvg+고/ecc
+
+남쪽으로는
+	남쪽/ncn+으로/jca+는/jxc
+
+한라산을
+	한라/ncn+산/ncn+을/jco
+
+바라보고
+	바라/pvg+아/ecx+보/px+고/ecc
+
+있는
+	있/px+는/etm
+
+이곳은
+	이곳/npd+은/jxc
+
+제주
+	제주/ncn
+
+시민은
+	시민/ncn+은/jxc
+
+물론
+	물론/mag
+
+관광객도즐겨
+	관광객도즐겨/ncn
+
+찾는다
+	찾/pvg+는다/ef
+
+.
+	./sf
+
+
+사라봉입구
+	사라봉입구/ncn
+
+버스
+	버스/ncn
+
+정류장에서
+	정류장/ncn+에서/jca
+
+공원으로
+	공원/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길에
+	길/ncn+에/jca
+
+모충사가
+	모충/ncn+사가/ncn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+매년
+	매년/mag
+
+마지막
+	마지막/ncn
+
+날인
+	날/ncn+이/jp+ㄴ/etm
+
+12월
+	12/nnc+월/nbu
+
+31일
+	31/nnc+이/jp+ㄹ/etm
+
+사라봉에서는
+	사라봉에서/ncn+는/jxc
+
+묵은
+	묵/pvg+은/etm
+
+해를
+	해/nbu+를/jco
+
+잘
+	잘/mag
+
+보내고
+	보내/pvg+고/ecc
+
+새해를
+	새해/ncn+를/jco
+
+맞이하기
+	맞이/ncpa+하/xsva+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+사봉낙조제
+	사봉낙조제/ncn
+
+행사가
+	행사/ncpa+가/jcc
+
+개최된다
+	개최/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+사라봉
+	사라봉/ncn
+
+동쪽에는
+	동쪽/ncn+에/jca+는/jxc
+
+패러글라이딩
+	패러글라이딩/ncn
+
+활공장이
+	활공/ncn+장/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+별도봉이
+	별도/ncn+봉/ncn+이/jcc
+
+들어앉았다
+	들어앉/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+기슭에
+	기슭/ncn+에/jca
+
+우당도서관이
+	우당/ncn+도서관/ncn+이/jcc
+
+있는데
+	있/px+는데/ecs
+
+이곳에서부터
+	이곳/npd+에서/jca+부터/jxc
+
+사라봉
+	사라봉/ncn
+
+뒤편을
+	뒤편/ncn+을/jco
+
+돌아
+	돌/pvg+아/ecx
+
+제주항을
+	제주/ncn+항/ncn+을/jco
+
+거친
+	거칠/paa+ㄴ/etm
+
+다음
+	다음/ncn
+
+탑동까지
+	탑동까지/ncn
+
+가는
+	가/pvg+는/etm
+
+코스는
+	코스/ncn+는/jxc
+
+이름난
+	이름나/pvg+ㄴ/etm
+
+드라이브
+	드라이브/ncpa
+
+코스이다
+	코스/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+사라봉
+	사라봉/ncn
+
+공원은
+	공원/ncn+은/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+동문로터리에서
+	동문/ncn+로터리/ncn+에서/jca
+
+동쪽으로
+	동쪽/ncn+으로/jca
+
+2km
+	2km/ncn
+
+거리에
+	거리/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+143m
+	143m/ncn
+
+높이의
+	높이/ncn+의/jcm
+
+낮은동산이다
+	낮은동산/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+사봉
+	사/nnc+봉/nbu
+
+낙조는
+	낙조/ncn+는/jxc
+
+영주
+	영주/ncn
+
+12경의
+	12/nnc+경/xsnu+의/jcm
+
+하나로
+	하나/nnc+로/jca
+
+성산일출과
+	성산/ncn+일출/ncpa+과/jcj
+
+대조가
+	대조/ncpa+가/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+만하다
+	만/nbs+하/xsms+다/ef
+
+.
+	./sf
+
+
+북쪽으로는
+	북쪽/ncn+으로/jca+는/jxc
+
+바다를
+	바다/ncn+를/jco
+
+끼고
+	끼/pvg+고/ecc
+
+남쪽으로는
+	남쪽/ncn+으로/jca+는/jxc
+
+한라산을
+	한라/ncn+산/ncn+을/jco
+
+바라보고
+	바라/pvg+아/ecx+보/px+고/ecc
+
+있는
+	있/px+는/etm
+
+이곳은
+	이곳/npd+은/jxc
+
+제주
+	제주/ncn
+
+시민은
+	시민/ncn+은/jxc
+
+물론
+	물론/mag
+
+관광객도
+	관광객/ncn+도/jxc
+
+즐겨
+	즐기/pvg+어/ecx
+
+찾는다
+	찾/pvg+는다/ef
+
+.
+	./sf

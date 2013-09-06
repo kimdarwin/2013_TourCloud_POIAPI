@@ -1,0 +1,731 @@
+MK
+	MK/f
+
+레스토랑
+	레스토랑/ncn
+
+
+태국의
+	태국/ncn+의/jcm
+
+대표
+	대표/ncpa
+
+음식
+	음식/ncn
+
+중
+	중/nbn
+
+하나인
+	하나/nnc+이/jp+ㄴ/etm
+
+수끼를
+	수끼/ncn+를/jco
+
+전문으로
+	전문/ncn+으로/jca
+
+하는
+	하/pvg+는/etm
+
+레스토랑이다
+	레스토랑/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+수끼는태국의
+	수끼는태국/ncn+의/jcm
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+대중
+	대중/ncn
+
+음식으로,
+	음식/ncn+으로/jca+,/sp
+
+스팀봇(steam
+	스팀봇(steam/ncn
+
+boat)이라고도
+	boat/f+)/sr+이/jp+라/ef+고/jcr+도/jxc
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+끓는
+	끓/pvg+는/etm
+
+육수에
+	육수/ncn+에/jca
+
+야채와
+	야채/ncn+와/jcj
+
+육류,
+	육류/ncn+,/sp
+
+해산물
+	해산물/ncn
+
+등을
+	등/nbu+을/jco
+
+데쳐
+	데치/pvg+어/ecx
+
+먹는
+	먹/pvg+는/etm
+
+스타일인데,
+	스타일/ncn+이/jp+ㄴ데/ecs+,/sp
+
+태국식
+	태국식/ncn
+
+샤브샤브라고
+	샤브샤브/ncn+이/jp+라/ef+고/jcr
+
+생각하면
+	생각/ncpa+하/xsva+면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+그중
+	그중/mag
+
+MK
+	MK/f
+
+레스토랑
+	레스토랑/ncn
+
+(MK
+	(/sl+MK/f
+
+수끼)는
+	수끼)/ncn+는/jxc
+
+수끼
+	수끼/ncn
+
+전문
+	전문/ncn
+
+레스토랑
+	레스토랑/ncn
+
+중에서도
+	중/nbn+에서/jca+도/jxc
+
+태국에서
+	태국/ncn+에서/jca
+
+널리
+	널리/mag
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+체인형
+	체인/ncn+형/ncn
+
+레스토랑
+	레스토랑/ncn
+
+.
+	./sf
+
+
+태국의
+	태국/ncn+의/jcm
+
+시골
+	시골/ncn
+
+마을에서도
+	마을/ncn+에서/jca+도/jxc
+
+마트가
+	마트/ncn+가/jcs
+
+들어서
+	들/pvg+어서/ecs
+
+있다면
+	있/px+다면/ecs
+
+MK수끼가
+	MK수끼/ncn+가/jcs
+
+입접해
+	입접해/ncn
+
+있을
+	있/px+을/etm
+
+정도로
+	정도/ncn+로/jca
+
+널리
+	널리/mag
+
+퍼져
+	퍼지/pvg+어/ecx
+
+있단다
+	있/px+단다/ef
+
+.
+	./sf
+
+
+기본
+	기본/ncn
+
+세팅
+	세팅/ncn
+
+
+다양한
+	다양/ncn+한/ncn
+
+야채들~
+	야채/ncn+들/ncn+~/sd
+
+
+어묵이나
+	어묵/ncn+이나/jcj
+
+육류,
+	육류/ncn+,/sp
+
+해산물들은
+	해산물/ncn+들/ncn+은/jxc
+
+따로
+	따로/mag
+
+그릇에
+	그릇/nbu+에/jca
+
+하나하나
+	하/pvg+어/ecx+나/px+아/ecx+하/px+어/ecx+나/px+아/ecx
+
+담겨있다
+	담기/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+개인
+	개/nbu+이/jp+ㄴ/etm
+
+테이블
+	테이블/ncn
+
+세팅
+	세팅/ncn
+
+
+일단
+	일/nnc+단/nbu
+
+해산물과
+	해산물/ncn+과/jcj
+
+육류들을
+	육류/ncn+들/ncn+을/jco
+
+끓는
+	끓/pvg+는/etm
+
+냄비에
+	냄비/ncn+에/jca
+
+하나하나
+	하/pvg+어/ecx+나/px+아/ecx+하/px+어/ecx+나/px+아/ecx
+
+투하하고~
+	투하/ncpa+하고/jcj+~/sd
+
+
+그
+	그/mmd
+
+위에
+	위/ncn+에/jca
+
+야채들을
+	야채/ncn+들/ncn+을/jco
+
+넣는다
+	넣/pvg+는다/ef
+
+.
+	./sf
+
+
+소복히
+	소복/ncpa+히/xsas
+
+쌓인
+	쌓이/pvg+ㄴ/etm
+
+냄비에
+	냄비/ncn+에/jca
+
+뚜껑을
+	뚜껑/ncn+을/jco
+
+덮은후
+	덮/pvg+은후/ef
+
+내용물이
+	내용/ncn+물/ncn+이/jcc
+
+익기만을
+	익/pvg+기/etn+만을/jco
+
+기다리면
+	기다리/pvg+면/ecs
+
+된다~
+	되/paa+ㄴ다/ef+~/sd
+
+
+우리나라식
+	우리나라/ncn+식/ncn
+
+샤브샤브가
+	샤브샤브/ncn+가/jcs
+
+개인별로
+	개인/ncn+별/ncn+로/jca
+
+먹고
+	먹/pvg+고/ecc
+
+싶은
+	싶/px+은/etm
+
+분량씩을
+	분량씩/ncn+을/jco
+
+익혀
+	익히/pvg+어/ecx
+
+먹는다면
+	먹/pvg+는다면/ecs
+
+
+MK수끼는
+	MK수끼/ncn+는/jxc
+
+전골요리처럼
+	전골/ncn+요리/ncn+처럼/jca
+
+한번에
+	한/nnc+번/nbu+에/jca
+
+전부
+	전부/mag
+
+넣고
+	넣/pvg+고/ecc
+
+익힌다는게
+	익힌다는게/ncn
+
+차이점인
+	차이/ncn+점/ncn+이/jp+ㄴ/etm
+
+듯.
+	듯/nbs+./sf
+
+.
+	./sf
+
+
+소스에
+	소스/ncn+에/jca
+
+기호에
+	기호/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+마늘과
+	마늘/ncn+과/jcj
+
+청양고추를
+	청양고추/ncn+를/jco
+
+넣고~
+	넣/pvg+고/ecc+~/sd
+
+
+이제
+	이제/mag
+
+완성~
+	완성/ncpa+~/sd
+
+
+재료에
+	재료/ncn+에/jca
+
+잘
+	잘/mag
+
+덜어서
+	덜/pvg+어서/ecs
+
+소스에
+	소스/ncn+에/jca
+
+찍어
+	찍/pvg+어/ecx
+
+먹으면
+	먹/pvg+으면/ecs
+
+끝~
+	끝/ncn+~/sd
+
+
+야채도
+	야채/ncn+도/jxc
+
+많고,
+	많/paa+고/ecc+,/sp
+
+해산물이나
+	해산물/ncn+이나/jcj
+
+육류가
+	육류/ncn+가/jcs
+
+함께
+	함께/mag
+
+어우러져
+	어우러지/pvg+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+골라
+	고르/pvg+아/ecx
+
+먹는
+	먹/pvg+는/etm
+
+재미가
+	재미/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+건더기를
+	건더기/ncn+를/jco
+
+다
+	다/mag
+
+건져
+	건지/pvg+어/ecx
+
+먹으면
+	먹/pvg+으면/ecs
+
+서빙
+	서빙/ncn
+
+하시는
+	하/px+시/ep+는/etm
+
+분이
+	분/nbn+이/jcc
+
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+육수에
+	육수/ncn+에/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+면을
+	면/ncn+을/jco
+
+익혀주신다
+	익히/pvg+어/ecx+주/px+시/ep+ㄴ다/ef
+
+.
+	./sf
+
+
+마지막으로
+	마지막/ncn+으로/jca
+
+우리나라
+	우리나라/ncn
+
+처럼
+	처럼/ncn
+
+죽을
+	죽/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+주시는데
+	줄/pvg+시/ep+ㄴ데/ecs
+
+
+요것도
+	요것/npd+도/jxc
+
+맛
+	맛/ncn
+
+있다는
+	있/px+다/ef+는/etm
+
+^^
+	^/sy+^/sy
+
+
+태국
+	태국/ncn
+
+음식이라고
+	음식/ncn+이/jp+라/ef+고/jcr
+
+하면
+	하/pvg+면/ecs
+
+똠양꿍이나
+	똠양꿍/ncn+이나/jcj
+
+푸팟퐁커리
+	푸팟퐁커리/ncn
+
+같은
+	같/paa+은/etm
+
+이색적인
+	이색/ncn+적/ncn+이/jp+ㄴ/etm
+
+음식들만
+	음식/ncn+들/ncn+만/jxc
+
+생각해
+	생각/ncpa+하/xsva+어/ecx
+
+왔는데
+	오/pvg+아/ep+ㄴ데/ecs
+
+
+알고보니
+	알/pvg+고/ecx+보/px+니/ecs
+
+태국
+	태국/ncn
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+가정에서
+	가정/ncn+에서/jca
+
+먹는
+	먹/pvg+는/etm
+
+음식들은
+	음식/ncn+들/ncn+은/jxc
+
+우리나라
+	우리나라/ncn
+
+가정에서
+	가정/ncn+에서/jca
+
+먹는
+	먹/pvg+는/etm
+
+음식들과
+	음식/ncn+들/ncn+과/jcj
+
+비슷한게
+	비슷/ncn+한/ncn+게/jca
+
+많단다
+	많/paa+단다/ef
+
+.
+	./sf
+
+
+MK
+	MK/f
+
+수끼도
+	수끼/ncn+도/jxc
+
+특이한
+	특이/ncn+한/ncn
+
+향신료가
+	향신료/ncn+가/jcs
+
+들어간게
+	들/pvg+어/ecx+가/px+ㄴ게/ecs
+
+아니라
+	아니/paa+라/ecs
+
+그냥
+	그냥/mag
+
+있는
+	있/px+는/etm
+
+재료를
+	재료/ncn+를/jco
+
+육수에
+	육수/ncn+에/jca
+
+익혀
+	익히/pvg+어/ecx
+
+먹는
+	먹/pvg+는/etm
+
+스타일이라
+	스타일/ncn+이라/jca
+
+
+담백하게
+	담백/ncpa+하/xsva+게/ecs
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있어서
+	있/px+어서/ecs
+
+한국인의
+	한국인/ncn+의/jcm
+
+입맛에
+	입맛/ncn+에/jca
+
+잘
+	잘/mag
+
+맞는
+	맞/pvg+는/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+제
+	저/npp+의/jcm
+
+이야기가
+	이야기/ncpa+가/jcc
+
+흥미로우셨다면
+	흥미/ncn+로우/ncn+이/jp+셨/ep+다면/ecs
+
+오픈캐스트를
+	오픈캐스트/ncn+를/jco
+
+구독해주세요~
+	구독/ncpa+하/xsva+어/ecx+주/px+세요/ef+~/sd
+
+
+매주
+	매주/mag
+
+다양하고
+	다양/ncn+하고/jct
+
+재미있는
+	재미있/pvg+는/etm
+
+여행정보와
+	여행정보/ncn+와/jcj
+
+여행기,
+	여행기/ncn+,/sp
+
+여행지
+	여행지/ncn
+
+맛집에
+	맛집/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+내용을
+	내용/ncn+을/jco
+
+보실
+	보/px+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다^^
+	있습니다/ncn+^/sy+^/sy
+
+
+http://opencast.
+	http/f+:/sp+//sp+//sp+opencast/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/jj441
+	com/jj441/ncn

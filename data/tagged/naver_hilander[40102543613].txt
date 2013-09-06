@@ -1,0 +1,769 @@
+부산
+	부산/ncps
+
+지하철
+	지하철/ncn
+
+금련산역이
+	금련산역/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+남천동은
+	남천동/ncn+은/jxc
+
+
+근처에
+	근처/ncn+에/jca
+
+수영구청과
+	수영/ncn+구청/ncn+과/jcj
+
+KBS
+	KBS/f
+
+방송국이
+	방송국/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+은근히
+	은근히/mag
+
+맛집들이
+	맛집들/ncn+이/jcc
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+예전에는
+	예전/ncn+에/jca+는/jxc
+
+부산의
+	부산/ncps+의/jcm
+
+압구정이라고도
+	압구정/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+불리었다는데
+	불리/ncps+이/jp+었/ep+다는데/ecs
+
+
+지금은
+	지금/ncn+은/jxc
+
+해운대가
+	해운/ncn+대/ncn+가/jcs
+
+워낙
+	워낙/mag
+
+화려해지고
+	화/ncn+이/jp+리/ep+어/ecx+하/px+어/ecx+지/px+고/ecc
+
+많이
+	많/paa+이/xsa
+
+개발되서
+	개발되서/ncn
+
+세월의
+	세/nnc+월/nbu+의/jcm
+
+흔적이
+	흔적/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+광안리
+	광안리/ncn
+
+가는중에
+	가/px+는/etm+중/nbn+에/jca
+
+들른
+	들르/pvg+ㄴ/etm
+
+다리집
+	다리/ncn+집/ncn
+
+
+(사실
+	(/sl+사실/mag
+
+이미
+	이미/mag
+
+밀면을
+	밀면/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+후식
+	후/ncn+식/xsncc
+
+?
+	?/sf
+
+
+으로
+	으/ncn+로/jca
+
+들렀다는
+	들르/pvg+었/ep+다/ef+는/etm
+
+..
+	./sf+./sf
+
+
+)
+	)/sr
+
+
+원래
+	원래/mag
+
+포장마차로
+	포장마차/ncn+로/jca
+
+시작했다는데
+	시작/ncpa+하/xsva+었/ep+다/ef+는/etm+데/nbn
+
+지금은
+	지금/ncn+은/jxc
+
+제법
+	제법/mag
+
+큰
+	크/paa+ㄴ/etm
+
+규모의
+	규모/ncn+의/jcm
+
+건물로
+	건물/ncn+로/jca
+
+자리를
+	자리/ncn+를/jco
+
+옮겼다
+	옮기/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+요런
+	요런/ii
+
+시스템
+	시스템/ncn
+
+..
+	./sf+./sf
+
+
+넓은
+	넓/paa+은/etm
+
+실내에
+	실내/ncn+에/jca
+
+현대식
+	현대/ncn+식/ncn
+
+테이블
+	테이블/ncn
+
+..
+	./sf+./sf
+
+
+한쪽편에
+	한쪽/ncn+편/ncn+에/jca
+
+주문하고
+	주문/ncn+하고/jct
+
+음식을
+	음식/ncn+을/jco
+
+받는곳과
+	받는곳/ncn+과/jcj
+
+그릇
+	그릇/nbu
+
+반납하는
+	반납/ncpa+하/xsva+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+있고
+	있/paa+고/ecc
+
+
+셀프로
+	셀프/ncn+로/jca
+
+오뎅국물을
+	오뎅/ncn+국물/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+먹는곳이
+	먹는곳/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+일요일
+	일요일/ncn
+
+점심때인데
+	점심/ncn+때/ncn+이/jp+ㄴ데/ecs
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+꽤
+	끄/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+가족단위로
+	가족단위/ncn+로/jca
+
+온
+	오/px+ㄴ/etm
+
+팀도
+	팀/ncn+도/jxc
+
+몇몇
+	몇/nnc+몇/nnc
+
+눈에
+	눈/ncn+에/jca
+
+띈다
+	띄/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+요렇게
+	요렇/pad+게/ecs
+
+줄을
+	줄/nbn+을/jco
+
+서서
+	서/pvg+어서/ecs
+
+대기중~
+	대기/ncn+중/ncn+~/sd
+
+
+왼쪽편에
+	왼쪽/ncn+편/ncn+에/jca
+
+떡볶이
+	떡볶이/ncn
+
+양념장도
+	양념장/ncn+도/jxc
+
+판매를
+	판매/ncpa+를/jco
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+인기가
+	인기/ncn+가/jcs
+
+있긴
+	있긴/ncn
+
+있나보네
+	있나보네/ncn
+
+..
+	./sf+./sf
+
+
+메뉴판
+	메뉴판/ncn
+
+..
+	./sf+./sf
+
+
+떡볶이
+	떡볶이/ncn
+
+2개에
+	2/nnc+개/nbu+에/jca
+
+1,600원
+	1,600/nnc+원/nbu
+
+..
+	./sf+./sf
+
+
+오징어
+	오징어/ncn
+
+튀김
+	튀기/pvg+ㅁ/etn
+
+2개도
+	2/nnc+개/nbu+도/jxc
+
+역시
+	역시/mag
+
+1,600원~
+	1,600/nnc+원/nbu+~/sd
+
+
+세트
+	세트/ncn
+
+메뉴도
+	메뉴/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+우리는
+	우리/npp+는/jxc
+
+그냥
+	그냥/mag
+
+단품으로
+	달/paa+ㄴ/etm+품/nbn+으로/jca
+
+주문~
+	주문/ncn+~/sd
+
+
+떡볶이랑
+	떡볶이/ncn+랑/jxc
+
+오징어튀김이
+	오징어/ncn+튀김/ncn+이/jcc
+
+제일
+	제일/mag
+
+유명하다고
+	유명/ncps+하/xsms+다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+
+오징어
+	오징어/ncn
+
+튀김과
+	튀김/ncn+과/jcj
+
+떡볶이
+	떡볶이/ncn
+
+각
+	각/mma
+
+두개씩
+	두/nnc+개/nbu+씩/xsnu
+
+주문~
+	주문/ncn+~/sd
+
+
+이미
+	이미/mag
+
+점심은
+	점심/ncn+은/jxc
+
+먹고왔기에
+	먹/pvg+고/ecx+오/px+아/ep+기/etn+에/jca
+
+..
+	./sf+./sf
+
+
+오뎅국물
+	오뎅/ncn+국물/ncn
+
+먼저
+	먼저/mag
+
+시식~
+	시식/ncpa+~/sd
+
+
+국물맛은그냥저냥
+	국물맛은그냥저냥/ncn
+
+..
+	./sf+./sf
+
+
+큼직한
+	큼직/ncps+하/xsms+ㄴ/etm
+
+가래떡으로
+	가래/ncn+떡/ncn+으로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+떡볶이
+	떡볶이/ncn
+
+
+소스를
+	소스/ncn+를/jco
+
+보기만
+	보/px+기/etn+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+매운
+	맵/paa+은/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+..
+	./sf+./sf
+
+
+오징어튀김
+	오징어/ncn+튀김/ncn
+
+
+큰
+	크/paa+ㄴ/etm
+
+몸통
+	몸통/ncn
+
+부위
+	부위/ncn
+
+쪽으로
+	쪽/ncn+으로/jca
+
+튀겼는지
+	튀기/pvg+었/ep+는지/ecs
+
+상당히
+	상당히/mag
+
+컸다
+	크/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+요렇게
+	요렇/pad+게/ecs
+
+가위로
+	가위/ncn+로/jca
+
+잘라서~
+	잘/mag+라서/jxc+~/sd
+
+
+(뜨끈뜨근하니
+	(뜨끈뜨근하니/ncn
+
+손
+	손/ncn
+
+데이지
+	데/nbn+이/jp+지/ecs
+
+않도록
+	않/px+도록/ecs
+
+조심조심
+	조심조심/mag
+
+하시길
+	하시/ncn+길/ncn
+
+..)
+	./sf+./sf+)/sr
+
+
+매콤~한
+	매콤~한/ncn
+
+떡볶이
+	떡볶이/ncn
+
+
+요
+	요/mmd
+
+떡볶이
+	떡볶이/ncn
+
+양념
+	양념/ncn
+
+기가
+	기/ncn+가/jcs
+
+막히다
+	막히/pvg+다/ef
+
+..
+	./sf+./sf
+
+
+매우면서도
+	맵/paa+으면/ecs+서도/jxc
+
+감칠맛이
+	감칠맛/ncn+이/jcc
+
+도는
+	돌/pvg+는/etm
+
+..
+	./sf+./sf
+
+
+중독성
+	중독/ncpa+성/ncn
+
+있을법한
+	있/px+을/etm+법/nbs+하/xsms+ㄴ/etm
+
+맛이다
+	맛/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+양념장
+	양념장/ncn
+
+파는
+	팔/pvg+는/etm
+
+이유가
+	이유/ncn+가/jcs
+
+있었군~
+	있/paa+었/ep+군/ef+~/sd
+
+
+따끈
+	따끈/ncps
+
+바삭
+	바삭/ncn
+
+부들부들한
+	부들/ncn+부들/ncn+한/ncn
+
+오징어
+	오징어/ncn
+
+튀김
+	튀기/pvg+ㅁ/etn
+
+..
+	./sf+./sf
+
+
+두툼해서
+	두툼/ncps+하/xsms+어서/ecs
+
+좋다
+	좋/paa+다/ef
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+간장에
+	간장/ncn+에/jca
+
+찍어먹어도
+	찍어먹어/ncn+도/jxc
+
+맛있지만
+	맛있/paa+지/ecx+말/px+ㄴ/etm
+
+떡볶이
+	떡볶이/ncn
+
+양념에
+	양념/ncn+에/jca
+
+찍어
+	찍/pvg+어/ecx
+
+먹는게
+	먹/pvg+는게/ecs
+
+더
+	더/mag
+
+맛있다
+	맛있/paa+다/ef
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+다리집
+	다리/ncn+집/ncn
+
+
+051-625-0130
+	051/nnc+-625/nnc+-0130/nnc
+
+
+금련산역
+	금련산역/ncn
+
+5번출구로
+	5번출구/ncn+로/jca
+
+나와서
+	나오/pvg+아/ecx
+
+맥도널드
+	맥도널/ncn+드/ncn
+
+골목으로
+	골목/ncn+으로/jca
+
+들어오면
+	들/pvg+어/ecx+오/px+면/ecs
+
+왼편에
+	왼편/ncn+에/jca
+
+보임
+	보/nbu+이/jp+ㅁ/etn
+
+
+오전
+	오전/ncn
+
+11시
+	11/nnc+시/nbu
+
+~
+	~/sd
+
+밤
+	밤/ncn
+
+19시
+	19/nnc+시/nbu
+
+(매월
+	(/sl+매월/ncn
+
+둘째주
+	둘째/nno+주/nbu
+
+월요일
+	월요일/ncn
+
+휴무)
+	휴무/ncpa+)/sr
+
+
+다리집
+	다리/ncn+집/ncn
+
+
+부산
+	부산/ncps
+
+수영구
+	수영/ncn+구/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01209687",
+	"bl01209687",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"다리집
+	title/f+:/sp+"/sl+다리/ncn+집/ncn
+
+",
+	"/sl+,/sp
+
+pointX:501451,pointY:283854}
+	pointX/f+:/sp+501451/nnc+,/sp+pointY/f+:/sp+283854/nnc+}/sr

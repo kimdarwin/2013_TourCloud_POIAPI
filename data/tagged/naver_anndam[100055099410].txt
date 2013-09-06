@@ -1,0 +1,1841 @@
+제주시
+	제주/ncn+시/ncn
+
+
+제주특별자치도
+	제주/ncn+특별/ncps+자치/ncn+도/jxc
+
+
+기간
+	기간/ncn
+
+2008.
+	2008./nnc
+
+9.
+	9./nnc
+
+18~
+	18/nnc+~/sd
+
+2008.
+	2008./nnc
+
+9.
+	9./nnc
+
+19(1박
+	19(1박/ncn
+
+2일)
+	2/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+제주
+	제주/ncn
+
+팸투어
+	팸투/ncn+이/jp+어/ecs
+
+
+경로
+	경로/ncn
+
+
+서울
+	서울/ncn
+
+김포공항
+	김포공항/ncn
+
+제주칼호텔
+	제주칼호텔/ncn
+
+
+제주
+	제주/ncn
+
+KAL
+	KAL/f
+
+호텔+진에어
+	호텔+진에/ncn+이/jp+어/ecs
+
+우수대리점
+	우수/ncn+대리점/ncn
+
+초청
+	초청/ncpa
+
+FAM
+	FAM/f
+
+TOUR(팸투어)
+	TOUR(팸투/ncn+이/jp+어/ecs+)/sr
+
+
+일정:
+	일정/ncps+:/sp
+
+김포공항
+	김포공항/ncn
+
+-
+	-/sd
+
+제주
+	제주/ncn
+
+칼(KAL)호텔
+	칼(KAL)호텔/ncn
+
+숙박
+	숙박/ncpa
+
+(만찬)
+	(/sl+만찬/ncn+)/sr
+
+-
+	-/sd
+
+조식(뷔페)
+	조/ncn+식/xsncc+(/sl+뷔페/ncn+)/sr
+
+-
+	-/sd
+
+중문관광단지내
+	중문/ncn+관광단지/ncn+내/ncn
+
+요트투어
+	요트/ncn+투어/ncn
+
+체험
+	체험/ncpa
+
++
+	+/ncn
+
+제트보트(비바제트)체험
+	제트보트(비바제트)체험/ncn
+
+-
+	-/sd
+
+서귀포
+	서귀포/ncn
+
+칼호텔(객실체크
+	칼호텔(객실체크/ncn
+
++
+	+/ncn
+
+중식)
+	중/ncn+식/xsncc+)/sr
+
+-
+	-/sd
+
+테디뮤지움(테지움)
+	테디뮤지움(테지움)/ncn
+
+관람
+	관람/ncpa
+
+-
+	-/sd
+
+제주공항
+	제주/ncn+공항/ncn
+
+
+제주도착
+	제주/ncn+도착/ncpa
+
+!
+	!/sf
+
+
+제주공항이
+	제주/ncn+공항/ncn+이/jcc
+
+먼저
+	먼저/mag
+
+하늘아래
+	하늘/ncn+아래/ncn
+
+눈이
+	눈/ncn+이/jcc
+
+부시다
+	불/pvg+시/ep+다/ef
+
+.
+	./sf
+
+
+호텔버스를
+	호텔/ncn+버스/ncn+를/jco
+
+이용해서
+	이용/ncpa+하/xsva+어서/ecs
+
+호텔로
+	호텔/ncn+로/jca
+
+이동
+	이/nnc+동/nbu
+
+.
+	./sf
+
+
+제주칼호텔
+	제주칼호텔/ncn
+
+호텔소개
+	호텔/ncn+소개/ncpa
+
+
+천혜의
+	천혜/ncn+의/jcm
+
+아름다움을
+	아름다움/ncn+을/jco
+
+간직한
+	간직/ncpa+하/xsva+ㄴ/etm
+
+섬
+	서/pvg+ㅁ/etn
+
+제주
+	제주/ncn
+
+!!
+	!/sf+!/sf
+
+
+그
+	그/mmd
+
+중심에서
+	중심/ncn+에서/jca
+
+도시의
+	도시/ncn+의/jcm
+
+세련미와
+	세련미/ncn+와/jcj
+
+한라의
+	한라/ncn+의/jcm
+
+수려함이
+	수/nbn+이/jp+리/ep+어/ecx+하/px+ㅁ/etn+이/jcs
+
+만나는
+	만나/pvg+는/etm
+
+곳.
+	곳/ncn+./sf
+
+제주KAL호텔
+	제주KAL호텔/ncn
+
+
+격조높은
+	격조높/ncn+은/jxc
+
+분위기와
+	분위기/ncn+와/jcj
+
+세심한
+	세심/ncn+한/ncn
+
+서비스
+	서비스/ncpa
+
+속에서
+	속/ncn+에서/jca
+
+품위와
+	품위/ncn+와/jcj
+
+편안함을
+	편안/ncps+하/xsms+ㅁ/etn+을/jco
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+공간
+	공간/ncn
+
+배치
+	배치/ncpa
+
+가구선택
+	가구/ncn+선택/ncpa
+
+하나하나에도
+	하나/nnc+하나/nnc+에/jca+도/jxc
+
+고객을
+	고객/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+마음과
+	마음/ncn+과/jcj
+
+정성이
+	정성/ncn+이/jcc
+
+베어있는
+	베/pvg+어/ecx+있/px+는/etm
+
+안락한
+	안락/ncps+하/xsms+ㄴ/etm
+
+객실에서는
+	객실/ncn+에서/jca+는/jxc
+
+비단결처럼
+	비단결/ncn+처럼/jca
+
+부드러운
+	부드럽/paa+은/etm
+
+시간이
+	시간/ncn+이/jcc
+
+흐릅니다.
+	흐르/pvg+ㅂ니다/ef+./sf
+
+5개
+	5/nnc+개/nbu
+
+국어
+	국어/ncn
+
+첨단
+	첨단/ncn
+
+동시통역
+	동시통역/ncpa
+
+시스템,
+	시스템/ncn+,/sp
+
+전문
+	전문/ncn
+
+요원들의
+	요원/ncn+들/ncn+의/jcm
+
+회의
+	회의/ncn
+
+보조진행
+	보조/ncpa+진행/ncpa
+
+서비스
+	서비스/ncpa
+
+등
+	등/nbu
+
+국제회의와
+	국제회의/ncn+와/jcj
+
+학술
+	학술/ncn
+
+세미나를
+	세미나/ncn+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+완벽한
+	완벽/ncps+하/xsms+ㄴ/etm
+
+조건을
+	조건/ncn+을/jco
+
+갖춘
+	갖추/pvg+ㄴ/etm
+
+대연회장과
+	대연회장/ncn+과/jcj
+
+가족
+	가족/ncn
+
+연회실에
+	연회/ncn+실/ncn+에/jca
+
+이르기까지
+	이르/pvg+기/etn+까지/jxc
+
+세련된
+	세련/ncpa+되/xsvn+ㄴ/etm
+
+분위기
+	분위기/ncn
+
+속에
+	속/ncn+에/jca
+
+최고의
+	최고/ncn+의/jcm
+
+시간을
+	시간/ncn+을/jco
+
+맞이하실
+	맞이/ncpa+하/xsva+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+미식가들조차도
+	미식가/ncn+들/ncn+조차/jxc+도/jxc
+
+감탄하는
+	감탄/ncpa+하/xsva+는/etm
+
+한,
+	한/nnc+,/sp
+
+일,
+	일/nnc+,/sp
+
+중,
+	중/nbn+,/sp
+
+양식
+	양식/ncn
+
+전문
+	전문/ncn
+
+레스토랑에서
+	레스토랑/ncn+에서/jca
+
+미각의
+	미각/ncn+의/jcm
+
+향연을
+	향연/ncn+을/jco
+
+즐기실
+	즐기/pvg+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+제주를
+	제주/ncn+를/jco
+
+대표하는
+	대표/ncpa+하/xsva+는/etm
+
+정상의
+	정상/ncn+의/jcm
+
+비즈니스,
+	비즈니스/ncn+,/sp
+
+리조트
+	리조트/ncn
+
+호텔
+	호텔/ncn
+
+-
+	-/sd
+
+더욱
+	더욱/mag
+
+다양하고
+	다양/ncn+하고/jct
+
+편리한
+	편리/ncps+하/xsms+ㄴ/etm
+
+서비스로
+	서비스/ncpa+로/jca
+
+고객
+	고객/ncn
+
+여러분들을
+	여러분들/ncn+을/jco
+
+VIP로
+	VIP/f+로/jca
+
+모십니다
+	몰/pvg+시/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-
+	-/sd
+
+
+*소재지
+	*/sy+소재지/ncn
+
+:
+	:/sp
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+이도1동
+	이도1동/ncn
+
+1691-9번지
+	1691-9번지/ncn
+
+
+*호텔등급
+	*/sy+호텔/ncn+등급/ncn
+
+:
+	:/sp
+
+특1등급
+	특1등급/ncn
+
+관광호텔
+	관광호텔/ncn
+
+
+*규
+	*/sy+규/ncn
+
+모
+	모/ncn
+
+:
+	:/sp
+
+지하2층
+	지하2층/ncn
+
+/
+	//sp
+
+지상
+	지상/ncn
+
+18층
+	18/nnc+층/nbu
+
+/
+	//sp
+
+주차시설(281대
+	주차시설(281대/ncn
+
+동시주차)
+	동시/ncn+주차/ncn+)/sr
+
+
+*객
+	*/sy+객/ncn
+
+실
+	실/ncn
+
+:
+	:/sp
+
+282실(Standard/4Type,
+	282실(Standard/4Type,/ncn
+
+Deluxe/2Type,Suite/6Type)
+	Deluxe/2Type,Suite/6Type/ncn+)/sr
+
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-----
+	-/sd+-/sd+-/sd+-/sd+-/sd
+
+-
+	-/sd
+
+
+내가
+	나/npp+가/jcs
+
+왔노라
+	오/px+아/ep+노라/ef
+
+..
+	./sf+./sf
+
+
+제주국제공항아~
+	제주국제공항/ncn+아/jcv+~/sd
+
+
+일단
+	일/nnc+단/nbu
+
+주차장으로
+	주차장/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+중에
+	중/nbn+에/jca
+
+공항부터
+	공항/ncn+부터/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+컷
+	컷/nbu
+
+남기고
+	남/pvg+기/etn+이/jp+고/ecc
+
+.
+	./sf
+
+
+사실
+	사실/mag
+
+내리자마자
+	내리/pvg+자마자/ecs
+
+호텔로
+	호텔/ncn+로/jca
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+바람에
+	바라/pvg+ㅁ/etn+에/jca
+
+전경사진은
+	전경/ncn+사진/ncn+은/jxc
+
+다음날
+	다음날/ncn
+
+아침에
+	아침/ncn+에/jca
+
+찍은
+	찍/pvg+은/etm
+
+것.
+	것/nbn+./sf
+
+
+좀
+	좀/mag
+
+멀리
+	멀리/mag
+
+나갔는데도
+	나/pvg+아/ecx+가/px+아/ep+ㄴ데/ecs+도/jxc
+
+워낙
+	워낙/mag
+
+높아서인지
+	높아서/ncn+이/jp+ㄴ지/ecs
+
+다
+	다/mag
+
+들어가지
+	들/pvg+어/ecx+가/px+지/ecx
+
+않았다
+	않/px+아/ep+다/ef
+
+.
+	./sf
+
+
+세련된
+	세련/ncpa+되/xsvn+ㄴ/etm
+
+외관이
+	외관/ncn+이/jcc
+
+좀
+	좀/mag
+
+위압적이긴
+	위압적이긴/ncn
+
+하지만,
+	하/pvg+지/ecx+말/px+ㄴ/etm+,/sp
+
+깔끔하다
+	깔끔/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+*제주KAL호텔은
+	*제주KAL호텔/ncn+은/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+중심에
+	중심/ncn+에/jca
+
+자리하고
+	자리/ncn+하고/jct
+
+있어
+	있/px+어/ecx
+
+제주도를
+	제주/ncn+도/ncn+를/jco
+
+방문하는
+	방문/ncpa+하/xsva+는/etm
+
+모든
+	모든/mma
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+가장
+	가장/mag
+
+편리하게
+	편리/ncps+하/xsms+게/ecs
+
+이용하실
+	이용/ncpa+하/xsva+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+호텔입니다
+	호텔/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+제주시와
+	제주/ncn+시/ncn+와/jcj
+
+공항으로부터
+	공항/ncn+으로/jca+부터/jxc
+
+10분,
+	10/nnc+분/nbu+,/sp
+
+서귀포
+	서귀포/ncn
+
+시내로부터
+	시내/ncn+로/jca+부터/jxc
+
+50분,
+	50/nnc+분/nbu+,/sp
+
+그리고
+	그리고/maj
+
+오사카에서는
+	오사/ncn+카/ncn+에서/jca+는/jxc
+
+약
+	약/ncn
+
+1시간
+	1/nnc+시간/nbu
+
+반,
+	반/nbu+,/sp
+
+
+도쿄에서는
+	도쿄에서/ncn+는/jxc
+
+약
+	약/ncn
+
+3시간
+	3/nnc+시간/nbu
+
+거리에
+	거리/ncn+에/jca
+
+제주KAL호텔이
+	제주KAL호텔/ncn+이/jcc
+
+위치하고
+	위치/ncn+하고/jct
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+우선
+	우선/mag
+
+첨
+	첨/ncn
+
+본
+	보/px+ㄴ/etm
+
+곳은
+	곳/ncn+은/jxc
+
+한라스위트
+	한라/ncn+스위트/ncn
+
+.
+	./sf
+
+
+소개글처럼
+	소개/ncpa+글/ncn+처럼/jca
+
+꽤
+	꽤/mag
+
+넓은
+	넓/paa+은/etm
+
+규모의
+	규모/ncn+의/jcm
+
+거실과
+	거실/ncn+과/jct
+
+아늑한
+	아늑/ncps+하/xsms+ㄴ/etm
+
+침실
+	침실/ncn
+
+.
+	./sf
+
+
+와~
+	오/px+아/ecs+~/sd
+
+하는
+	하/pvg+는/etm
+
+감탄이
+	감탄/ncpa+이/jcc
+
+절로
+	절/ncn+로/jca
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+방곳곳에
+	방곳곳/ncn+에/jca
+
+세심하게
+	세심/ncps+하/xsms+게/ecs
+
+꾸며놓은
+	꾸미/pvg+어/ecx+놓/px+은/etm
+
+면이나
+	면/ncn+이나/jcj
+
+제주시가
+	제주/ncn+시/ncn+가/jcs
+
+한눈에
+	한눈/ncn+에/jca
+
+내려다보이는전망
+	내려다보이는전망/ncn
+
+또한
+	또한/maj
+
+뛰어나다
+	뛰/pvg+어/ecx+나/px+다/ef
+
+.
+	./sf
+
+
+*전체적으로
+	*/sy+전체/ncn+적/ncn+으로/jca
+
+우아하고
+	우아/ncn+하고/jct
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+인테리어와
+	인테리어/ncn+와/jcj
+
+거실과
+	거실/ncn+과/jcj
+
+객실이
+	객실/ncn+이/jcc
+
+분리되어
+	분리/ncpa+되/xsvn+어/ecx
+
+있어
+	있/px+어/ecx
+
+조용하고
+	조용/ncn+하고/jct
+
+안락한
+	안락/ncps+하/xsms+ㄴ/etm
+
+투숙이나
+	투숙/ncpa+이나/jcj
+
+비즈니스업무를
+	비즈니스/ncn+업무/ncn+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+한층
+	한/nnc+층/nbu
+
+세련되고
+	세련/ncpa+되/xsvn+고/ecc
+
+고급스러움이
+	고급/ncn+스럽/xsmn+음/etn+이/jcs
+
+강조된
+	강조/ncpa+되/xsvn+ㄴ/etm
+
+품격있는
+	품격/ncn+있/xsmn+는/etm
+
+객실로서
+	객실/ncn+로서/jca
+
+최상급의
+	최상급/ncn+의/jcm
+
+VIP,
+	VIP/f+,/sp
+
+휴양객은
+	휴양/ncpa+객/ncn+은/jxc
+
+물론
+	물론/mag
+
+비즈니스맨들이
+	비즈니스맨/ncn+들/ncn+이/jcc
+
+선호하는
+	선호/ncpa+하/xsva+는/etm
+
+한라산의
+	한라/ncn+산/ncn+의/jcm
+
+전망이
+	전망/ncn+이/jcc
+
+좋은
+	좋/paa+은/etm
+
+객실입니다
+	객실/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+VIP
+	VIP/f
+
+고객을
+	고객/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+각종
+	각종/ncn
+
+인테리어
+	인테리/ncn+이/jp+어/ecs
+
+소품은
+	소품/ncn+은/jxc
+
+고객의
+	고객/ncn+의/jcm
+
+품위를
+	품위/ncn+를/jco
+
+한층
+	한/nnc+층/nbu
+
+더
+	더/mag
+
+높여
+	높이/pvg+어/ecx
+
+드릴만한
+	드리/pvg+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+디자인이나
+	디자인/ncpa+이나/jcj
+
+색감으로
+	색감/ncn+으로/jca
+
+꾸며져
+	꾸미/pvg+어/ecx+지/px+어/ecx
+
+있어
+	있/px+어/ecx
+
+국빈급
+	국빈/ncn+급/ncn
+
+고객을
+	고객/ncn+을/jco
+
+모실
+	모시/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+준비된
+	준비/ncpa+되/xsvn+ㄴ/etm
+
+객실입니다
+	객실/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+\750,000
+	\750/ncn+,/sp+000/nnc
+
+
+다음은
+	다음/ncn+은/jxc
+
+로얄스위트
+	로얄/ncn+스위트/ncn
+
+.
+	./sf
+
+
+스위트
+	스위트/ncn
+
+객실이라
+	객실/ncn+이/jp+라/ecs
+
+참
+	참/mag
+
+넓고
+	넓/paa+고/ecc
+
+화려하다
+	화/ncn+이/jp+리/ep+어/ecx+하/px+다/ef
+
+.
+	./sf
+
+
+한라스위트보다
+	한라/ncn+스위트/ncn+보다/jca
+
+조금더
+	조금더/ncn
+
+잘
+	잘/mag
+
+꾸며진
+	꾸미/pvg+어/ecx+지/px+ㄴ/etm
+
+객실
+	객실/ncn
+
+.
+	./sf
+
+
+비즈니스업무용으로
+	비즈니스/ncn+업무용/ncn+으로/jca
+
+좋은
+	좋/paa+은/etm
+
+곳일
+	곳/ncn+이/jp+ㄹ/etm
+
+듯.
+	듯/nbs+./sf
+
+
+\850,000
+	\850/ncn+,/sp+000/nnc
+
+
+이곳은
+	이곳/npd+은/jxc
+
+19층중식당
+	19층중식당/ncn
+
+심향이다
+	심향/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+깔끔하게
+	깔끔/ncps+하/xsms+게/ecs
+
+꾸며져있고
+	꾸미/pvg+어/ecx+지/px+어/ecx+있/px+고/ecc
+
+전망
+	전망/ncn
+
+또한
+	또한/maj
+
+뛰어나다
+	뛰/pvg+어/ecx+나/px+다/ef
+
+.
+	./sf
+
+
+음식은
+	음식/ncn+은/jxc
+
+맛볼
+	맛보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없었지만,
+	없/paa+었/ep+지만/ecs+,/sp
+
+웰빙테마
+	웰빙테마/ncn
+
+요리가
+	요리/ncn+가/jcs
+
+나온단다
+	나/pvg+아/ecx+오/px+ㄴ단다/ef
+
+.
+	./sf
+
+
+*제주시내를
+	*/sy+제주시내/ncn+를/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+내려다볼
+	내려다보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+탁
+	탁/mag
+
+트인
+	트이/pvg+ㄴ/etm
+
+전망과
+	전망/ncn+과/jct
+
+세련되고
+	세련/ncpa+되/xsvn+고/ecc
+
+차분한
+	차분/ncps+하/xsms+ㄴ/etm
+
+실내분위기의
+	실내/ncn+분위기/ncn+의/jcm
+
+이곳은
+	이곳/npd+은/jxc
+
+간단한
+	가/px+ㄴ단/etm+한/nbn
+
+저녁식사,
+	저녁식사/ncpa+,/sp
+
+가족모임,
+	가족/ncn+모임/ncn+,/sp
+
+개별모임,
+	개별/ncn+모임/ncn+,/sp
+
+비즈니스
+	비즈니스/ncn
+
+모임을
+	모임/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+6개의
+	6/nnc+개/nbu+의/jcm
+
+다양한
+	다양/ncn+한/ncn
+
+소규모
+	소규모/ncn
+
+연회장과
+	연회장/ncn+과/jcj
+
+별실이
+	별실/ncn+이/jcc
+
+완비되어
+	완비/ncpa+되/xsvn+어/ecx
+
+있으며
+	있/px+으며/ecc
+
+최고의
+	최고/ncn+의/jcm
+
+시설을
+	시설/ncpa+을/jco
+
+갖추고
+	갖추/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+064-720-6584
+	064/nnc+-720/nnc+-6584/nnc
+
+
+이곳은
+	이곳/npd+은/jxc
+
+21층
+	21/nnc+층/nbu
+
+스카이라운지
+	스카이/ncn+라운지/ncn
+
+'은하수'
+	'/sl+은하수/ncn+'/sr
+
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+길이
+	길/ncn+이/jcc
+
+참
+	참/mag
+
+분위기
+	분위기/ncn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+천국의
+	천국/ncn+의/jcm
+
+계단이라고도
+	계단/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+하고,
+	하/pvg+고/ecc+,/sp
+
+청혼의
+	청혼/ncpa+의/jcm
+
+계단이라고도
+	계단/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+한단다
+	하/px+ㄴ단다/ef
+
+.
+	./sf
+
+
+빙둘러
+	빙둘러/ncn
+
+창을
+	창/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+제주시를
+	제주/ncn+시/ncn+를/jco
+
+조망할
+	조망/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+(이곳이
+	(/sl+이곳/npd+이/jcc
+
+빙빙돌아간다면
+	빙빙돌아간다/ncn+이/jp+면/ecs
+
+더
+	더/mag
+
+멋질텐데
+	멋지/paa+ㄹ텐데/ecs
+
+..
+	./sf+./sf
+
+
+^^)
+	^/sy+^/sy+)/sr
+
+
+*제주도내
+	*/sy+제주/ncn+도내/ncn
+
+최고층에
+	최고/ncn+층/ncn+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+있어
+	있/px+어/ecx
+
+한라산의
+	한라/ncn+산/ncn+의/jcm
+
+탁
+	탁/mag
+
+트인
+	트이/pvg+ㄴ/etm
+
+전경과
+	전경/ncn+과/jcj
+
+잔잔한
+	잔잔/ncn+한/ncn
+
+비취빛
+	비취/ncn+빛/ncn
+
+바다의
+	바다/ncn+의/jcm
+
+아름다운
+	아름답/paa+은/etm
+
+전망은
+	전망/ncn+은/jxc
+
+물론
+	물론/mag
+
+제주시내
+	제주시내/ncn
+
+곳곳의
+	곳곳/ncn+의/jcm
+
+야경을
+	야경/ncn+을/jco
+
+감상하기에
+	감상/ncn+하기/ncn+에/jca
+
+그만인
+	그만이/paa+ㄴ/etm
+
+장소입니다
+	장소/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+전망
+	전망/ncn
+
+엘리베이터를
+	엘리베이터/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+21층에
+	21/nnc+층/nbu+에/jca
+
+도착,
+	도착/ncpa+,/sp
+
+천국의
+	천국/ncn+의/jcm
+
+계단이라
+	계단/ncn+이/jp+라/ecs
+
+불리어지는
+	불리/pvg+어/ecx+지/px+는/etm
+
+투명한
+	투명/ncps+하/xsms+ㄴ/etm
+
+유리계단을
+	유리/ncn+계단/ncn+을/jco
+
+걸어
+	걷/pvg+어/ecx
+
+올라서면
+	올라서/pvg+면/ecs
+
+마치
+	마치/mag
+
+푸른하늘
+	푸른하늘/ncn
+
+구름속
+	구름/ncn+속/ncn
+
+위를
+	위/ncn+를/jco
+
+걷고
+	걷/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+듯
+	듯/nbn
+
+야릇한
+	야릇/ncps+하/xsms+ㄴ/etm
+
+기분을
+	기분/ncn+을/jco
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+잔잔한
+	잔잔/ncn+한/ncn
+
+라이브
+	라이브/ncn
+
+뮤직이
+	뮤직/ncn+이/jcc
+
+흐르는
+	흐르/pvg+는/etm
+
+가운데
+	가운데/ncn
+
+은은하고
+	은은/ncps+하고/jct
+
+아늑한
+	아늑/ncps+하/xsms+ㄴ/etm
+
+실내조명이
+	실내/ncn+조명/ncpa+이/jcc
+
+아름답고
+	아름답/paa+고/ecc
+
+신비스럽게
+	신비/ncps+스럽/xsmn+게/ecs
+
+빛나는
+	빛/ncn+나/jxc+는/jxc
+
+이국적인
+	이국/ncn+적/ncn+이/jp+ㄴ/etm
+
+분위기로
+	분위기/ncn+로/jca
+
+제주최고의
+	제주/ncn+최고/ncn+의/jcm
+
+스카이라운지를
+	스카이/ncn+라운지/ncn+를/jco
+
+자랑합니다
+	자랑/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+(야간)064-720-6528,
+	(/sl+야간/ncn+)/sr+064/nnc+-720/nnc+-6528/nnc+,/sp
+
+(주간)064-720-6688
+	(주간/nbn+)/sr+064/nnc+-720/nnc+-6688/nnc
+
+
+크크
+	크크/ncn
+
+이곳은
+	이곳/npd+은/jxc
+
+바로
+	바로/mag
+
+남자화장실
+	남자/ncn+화장실/ncn
+
+!!
+	!/sf+!/sf
+
+
+여자화장실은
+	여자/ncn+화장실/ncn+은/jxc
+
+안가보고
+	안가/ncn+보고/ncn
+
+멋스럽다는
+	멋/ncn+스럽/xsmn+다/ef+는/etm
+
+남자화장실
+	남자/ncn+화장실/ncn
+
+구경을
+	구경/ncn+을/jco
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+변기
+	변기/ncn
+
+두개도
+	두/nnc+개/nbu+도/jxc
+
+특이할
+	특이/ncps+하/xsms+ㄹ/etm
+
+뿐아니라
+	뿐아니/ncn+이/jp+라/ecs
+
+전망이
+	전망/ncn+이/jcc
+
+정말
+	정말/mag
+
+말로
+	말/ncn+로/jca
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+볼일보면
+	볼일/ncn+보/ncn+이/jp+면/ecs
+
+볼일
+	볼일/ncn
+
+끝내고
+	끝내/pvg+고/ecc
+
+싶지
+	싶/px+지/ecx
+
+않을
+	않/px+을/etm
+
+거
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+안내해주신
+	안내/ncpa+하/xsva+어/ecx+주/px+시/ep+ㄴ/etm
+
+직원분이
+	직원/ncn+분/ncn+이/jcc
+
+전망이
+	전망/ncn+이/jcc
+
+좋다고
+	좋/paa+다/ef+고/jcr
+
+안내한
+	안내/ncpa+하/xsva+ㄴ/etm
+
+20층
+	20/nnc+층/nbu
+
+바로
+	바로/mag
+
+옆
+	옆/ncn
+
+베란다에서
+	베란다/ncn+에서/jca
+
+제주시를
+	제주/ncn+시/ncn+를/jco
+
+내려다봤다
+	내려다보/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+하늘과
+	하늘/ncn+과/jcj
+
+제주시가
+	제주/ncn+시/ncn+가/jcs
+
+하나가
+	하나/nnc+가/jcs
+
+되어
+	되/pvg+어/ecx
+
+잘
+	잘/mag
+
+어울어진다
+	어울어진다/ncn
+
+.
+	./sf
+
+
+스크롤
+	스크롤/ncn
+
+압박으로
+	압박/ncpa+으로/jca
+
+우리가
+	우리/npp+가/jcs
+
+숙박을
+	숙박/ncpa+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+칼클럽
+	칼클럽/ncn
+
+룸과
+	룸/ncn+과/jcj
+
+저녁
+	저녁/ncn
+
+만찬
+	만찬/ncn
+
+컷은
+	컷/nbu+은/jxc
+
+2탄에서
+	2/nnc+탄/nbu+에서/jca
+
+다시
+	다시/mag
+
+소개할게요~~
+	소개할게요/ncn+~/sd+~/sd
+
+
+*
+	*/sy
+
+칼호텔
+	칼호텔/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+kalhotel.
+	kalhotel/f+./sy
+
+co.
+	co/f+./sy
+
+kr/
+	kr/f+//sp

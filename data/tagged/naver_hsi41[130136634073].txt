@@ -1,0 +1,834 @@
+소형주택
+	소형/ncn+주택/ncn
+
+인기와
+	인기/ncn+와/jct
+
+더불어
+	더불/pvg+어/ecx
+
+단독주택을
+	단독주택/ncn+을/jco
+
+찾는
+	찾/pvg+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+많아졌다
+	많/paa+아/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+국민은행에
+	국민/ncn+은행/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+지난해
+	지난해/ncn
+
+서울
+	서울/ncn
+
+아파트값은
+	아파트/ncn+값/ncn+은/jxc
+
+0.6%
+	0.6/nnc+%/su
+
+떨어졌지만
+	떨/pvg+어/ecx+지/px+었/ep+지/ecx+말/px+ㄴ/etm
+
+단독주택값은
+	단독주택/ncn+값/ncn+은/jxc
+
+1.8%
+	1.8/nnc+%/su
+
+뛰었다
+	뛰/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+올
+	오/px+ㄹ/etm
+
+들어
+	들/pvg+어/ecx
+
+이런
+	이런/mmd
+
+추세는
+	추/pvg+세/ef+는/etm
+
+계속돼
+	계속/ncpa+되/xsvn+어/ecx
+
+1~3월
+	1/nnc+~/sd+3/nnc+월/nbu
+
+서울
+	서울/ncn
+
+아파트값은
+	아파트/ncn+값/ncn+은/jxc
+
+0.5%
+	0.5/nnc+%/su
+
+하락했지만
+	하락/ncpa+하/xsva+었/ep+지/ecx+말/px+ㄴ/etm
+
+단독주택값은
+	단독주택/ncn+값/ncn+은/jxc
+
+0.2%
+	0.2/nnc+%/su
+
+상승했다
+	상승/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+서울
+	서울/ncn
+
+단독주택
+	단독주택/ncn
+
+인기는
+	인기/ncn+는/jxc
+
+주로
+	주로/mag
+
+리모델링을
+	리모델링/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+도시형생활주택을
+	도시형생활주택/ncn+을/jco
+
+지어
+	지/px+어/ecx
+
+소형
+	소형/ncn
+
+주택
+	주택/ncn
+
+임대사업을
+	임대사업/ncn+을/jco
+
+하려는
+	하/pvg+려는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+많아지면서
+	많/paa+아/ecx+지/px+면서/ecc
+
+수요가
+	수요/ncn+가/jcs
+
+늘어난
+	늘/pvg+어/ecx+나/px+ㄴ/etm
+
+데
+	데/nbn
+
+따른
+	따르/pvg+ㄴ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+예스하우스
+	예스/ncn+하우스/ncn
+
+전영진
+	전영진/ncn
+
+사장은
+	사/nnc+장/nbu+은/jxc
+
+"교통
+	"/sl+교통/ncn
+
+여건이
+	여건/ncn+이/jcc
+
+좋은
+	좋/paa+은/etm
+
+서울
+	서울/ncn
+
+재개발
+	재개발/ncn
+
+대상지의
+	대상지/ncn+의/jcm
+
+단독주택은
+	단독주택/ncn+은/jxc
+
+최근
+	최근/mag
+
+재개발
+	재개발/ncn
+
+투자
+	투/nbn+이/jp+자/ecc
+
+목적이
+	목적/ncn+이/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+소형주택
+	소형/ncn+주택/ncn
+
+사업지로
+	사업/ncn+지로/ncn
+
+각광받고
+	각광/ncpa+받/xsva+고/ecc
+
+있다"고
+	있/px+다/ef+"/sr+고/jcr
+
+설명했다
+	설명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+단독주택을
+	단독주택/ncn+을/jco
+
+지을
+	지/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+땅은
+	땅/ncn+은/jxc
+
+나왔다
+	나오/pvg+아/ep+다/ef+./sf
+
+하면
+	하/pvg+면/ecs
+
+수십대
+	수십/nnc+대/nbu
+
+일의
+	일/ncn+의/jcm
+
+경쟁률로
+	경쟁률/ncn+로/jca
+
+팔린다
+	팔리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+한국토지주택공사(LH)가
+	한국토지주택공사(LH)/ncn+가/jcs
+
+이달
+	이/nnc+달/nbu
+
+초
+	초/nbu
+
+경남
+	경남/ncn
+
+양산
+	양산/ncn
+
+물금신도시에서
+	물금신도시/ncn+에서/jca
+
+공급한
+	공급/ncpa+하/xsva+ㄴ/etm
+
+128필지의
+	128/nnc+필지/nbu+의/jcm
+
+단독주택
+	단독주택/ncn
+
+용지
+	용지/ncn
+
+분양에는
+	불/pvg+ㄴ/etm+양/nbn+에/jca+는/jxc
+
+모두
+	모두/mag
+
+1만8230명이
+	1/nnc+만/nnc+8230/nnc+명/nbu+이/jcc
+
+몰려
+	몰리/pvg+어/ecx
+
+평균
+	평균/ncpa
+
+128대1의
+	128대1/ncn+의/jcm
+
+경쟁률을
+	경쟁률/ncn+을/jco
+
+기록했다
+	기록/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+1층에
+	1/nnc+층/nbu+에/jca
+
+점포를
+	점포/ncn+를/jco
+
+놓을
+	놓/px+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+점포겸용
+	점포/ncn+겸용/ncpa
+
+용지는
+	용지/ncn+는/jxc
+
+무려
+	무려/mag
+
+2136대1의
+	2136대1/ncn+의/jcm
+
+경쟁률을
+	경쟁률/ncn+을/jco
+
+보였다
+	보이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+올
+	오/px+ㄹ/etm
+
+들어
+	들/pvg+어/ecx
+
+충남
+	충남/ncn
+
+천안
+	천/nnc+안/xsnx
+
+청수지구에서도
+	청수지구에서/ncn+도/jxc
+
+116필지의
+	116/nnc+필지/nbu+의/jcm
+
+점포
+	점포/ncn
+
+겸용
+	겸용/ncpa
+
+단독주택
+	단독주택/ncn
+
+용지가
+	용지/ncn+가/jcs
+
+모두
+	모두/mag
+
+팔렸고
+	팔리/pvg+었/ep+고/ecc
+
+제주혁신도시에서도
+	제주/ncn+혁신/ncpa+도시/ncn+에서/jca+도/jxc
+
+36필지가
+	36/nnc+필지/nbu+가/jcc
+
+모두
+	모두/mag
+
+주인을
+	주인/ncn+을/jco
+
+찾았다
+	찾/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+단독주택
+	단독주택/ncn
+
+용지는
+	용지/ncn+는/jxc
+
+수요가
+	수요/ncn+가/jcs
+
+늘어나면서
+	늘/pvg+어/ecx+나/px+면서/ecc
+
+판매량도
+	판매량/ncn+도/jxc
+
+상승세다
+	상승세/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+LH에
+	LH/f+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+2008년
+	2008/nnc+년/nbu
+
+2884필지
+	2884/nnc+필지/nbu
+
+수준이던
+	수준/ncn+이/jp+던/etm
+
+것이
+	것/nbn+이/jcc
+
+2009년
+	2009/nnc+년/nbu
+
+5203필지,
+	5203/nnc+필지/nbu+,/sp
+
+2010년
+	2010/nnc+년/nbu
+
+5644필지,
+	5644/nnc+필지/nbu+,/sp
+
+2011년
+	2011/nnc+년/nbu
+
+6833필지
+	6833/nnc+필지/nbu
+
+등으로
+	등/nbu+으로/jca
+
+해마다
+	하/pvg+어/ecs+마다/jxc
+
+늘었다
+	늘/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+올해
+	올해/ncn
+
+1분기
+	1분기/ncn
+
+팔린
+	팔리/pvg+ㄴ/etm
+
+단독주택용지만도
+	단독주택용지/ncn+만/jxc+도/jxc
+
+711필지나
+	711/nnc+필지/nbu+나/jcj
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+단독주택
+	단독주택/ncn
+
+인기
+	인기/ncn
+
+상승은
+	상승/ncpa+은/jxc
+
+규제
+	규제/ncpa
+
+완화의
+	완화/ncpa+의/jcm
+
+영향도
+	영향/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+정부가
+	정부/ncn+가/jcs
+
+수익형부동산
+	수익/ncpa+형부/ncn+동산/ncn
+
+수요증가
+	수요증가/ncpa
+
+추세에
+	추세/ncn+에/jca
+
+맞춰
+	맞추/pvg+어/ecx
+
+단독주택에
+	단독주택/ncn+에/jca
+
+지을
+	지/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+가구수와
+	가구/ncn+수/ncn+와/jcj
+
+층수
+	층수/ncn
+
+규제를
+	규제/ncpa+를/jco
+
+완화했다
+	완화/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+예컨대
+	예컨대/mag
+
+남양주
+	남양주/ncn
+
+별내지구
+	별내지구/ncn
+
+단독주택용지의
+	단독주택용지/ncn+의/jcm
+
+경우
+	경우/ncn
+
+당초
+	당초/ncn
+
+2층
+	2/nnc+층/nbu
+
+2가구에서
+	2/nnc+가구/nbu+에서/jca
+
+3층
+	3/nnc+층/nbu
+
+5가구로
+	5/nnc+가구/nbu+로/jca
+
+변경됐다
+	변경/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+소형
+	소형/ncn
+
+주택을
+	주택/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+지을
+	지/px+ㄹ/etm
+
+수
+	수/nbn
+
+있게
+	있/px+게/ecs
+
+되니
+	되/pvg+니/ecs
+
+수익률이
+	수익률/ncn+이/jcc
+
+높아졌다는
+	높/paa+아/ecx+지/px+었/ep+다/ef+는/etm
+
+이야기다
+	이야기/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+토지전문가인
+	토지/ncn+전문가/ncn+이/jp+ㄴ/etm
+
+투모컨설팅
+	투모컨설팅/ncn
+
+강공석
+	강공/ncn+석/ncn
+
+사장은
+	사/nnc+장/nbu+은/jxc
+
+"혁신도시나
+	"/sl+혁신/ncpa+도시/ncn+나/jcj
+
+공공기관
+	공공기관/ncn
+
+이전
+	이전/ncn
+
+지역에
+	지역/ncn+에/jca
+
+조성되는
+	조성/ncpa+되/xsvn+는/etm
+
+단독주택용지
+	단독주택용지/ncn
+
+인기가
+	인기/ncn+가/jcs
+
+높다"며
+	높다"며/ncn
+
+"임대사업을
+	"/sl+임대사업/ncn+을/jco
+
+원하는
+	원하/pvg+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+늘어난
+	늘/pvg+어/ecx+나/px+ㄴ/etm
+
+데
+	데/nbn
+
+따른
+	따르/pvg+ㄴ/etm
+
+것"이라고
+	것/nbn+"/sr+이/jp+라/ef+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+도심
+	돌/pvg+시/ep+ㅁ/etn
+
+내
+	내/pvg+어/ecx
+
+단독주택용지
+	단독주택용지/ncn
+
+가운데
+	가운데/ncn
+
+단기간에
+	단기간/ncn+에/jca
+
+급등한
+	급등/ncpa+하/xsva+ㄴ/etm
+
+곳은
+	곳/ncn+은/jxc
+
+주의해야
+	주의/ncn+해/ncn+이/jp+야/ef
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+신한은행
+	신한은행/ncn
+
+이남수
+	이남/ncn+수/ncn
+
+부동산팀장은
+	부동산/ncn+팀장/ncr+은/jxc
+
+"도심
+	"/sl+돌/pvg+시/ep+ㅁ/etn
+
+주요
+	주요/ncps
+
+단독주택용지는
+	단독주택용지/ncn+는/jxc
+
+가격이
+	가격/ncn+이/jcc
+
+이미
+	이미/mag
+
+너무
+	너무/mag
+
+많이
+	많/paa+이/xsa
+
+오른
+	오르/pvg+ㄴ/etm
+
+곳이
+	곳/ncn+이/jcc
+
+많다"며
+	많다"며/ncn
+
+"비싸게
+	"/sl+비싸/paa+게/ecs
+
+살
+	사/pvg+ㄹ/etm
+
+경우
+	경우/ncn
+
+나중에
+	나중/ncn+에/jca
+
+임대를
+	임대/ncpa+를/jco
+
+놔도
+	놔/ncn+도/jxc
+
+수익률이
+	수익률/ncn+이/jcc
+
+나오지
+	나오/pvg+지/ecx
+
+않으므로
+	않/px+으므로/ecs
+
+조심해야
+	조심/ncpa+하/xsva+어야/ecs
+
+한다"고
+	하/px+ㄴ다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+박일한
+	박/ncn+이/jp+ㄹ/etm+한/nbn
+
+기자jumpcutjoongang.
+	기자jumpcutjoongang./ncn
+
+co.
+	co/f+./sy
+
+kr출처:중앙일보
+	kr/f+출처/ncn+:/sp+중앙/ncn+일보/ncn

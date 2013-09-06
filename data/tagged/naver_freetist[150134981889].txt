@@ -1,0 +1,507 @@
+지난
+	지나/pvg+ㄴ/etm
+
+강릉여행
+	강릉여행/ncn
+
+때
+	때/ncn
+
+점심
+	점심/ncn
+
+먹은
+	먹/pvg+은/etm
+
+곳.
+	곳/ncn+./sf
+
+...
+	.../se
+
+
+강릉
+	강릉/ncn
+
+동해바다가
+	동해/ncn+바다/ncn+가/jcs
+
+보이는
+	보이/pvg+는/etm
+
+전망좋은
+	전망좋/ncn+은/jxc
+
+횟집
+	횟집/ncn
+
+....
+	.../se+./sf
+
+
+해송활어회
+	해송활어회/ncn
+
+입니다~
+	입/pvg+니다/ef+~/sd
+
+
+외관입니다
+	외관/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+앞이
+	앞/ncn+이/jcc
+
+바닷가예요
+	바닷가/ncn+이/jp+예요/ef
+
+....
+	.../se+./sf
+
+
+바로
+	바로/mag
+
+아래
+	아래/ncn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+...
+	.../se
+
+
+해송
+	해송/ncn
+
+바로
+	바로/mag
+
+앞에
+	앞/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+동해바다
+	동해/ncn+바다/ncn
+
+감상하고
+	감상/ncn+하고/jct
+
+계십니다
+	계시/paa+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+시원시원합니다~~
+	시원/ncn+시원/ncps+하/xsms+ㅂ니다/ef+~/sd+~/sd
+
+
+일행분들과
+	일행/ncn+분/ncn+들/xsncc+과/jct
+
+함께
+	함께/mag
+
+2층
+	2/nnc+층/nbu
+
+룸으로
+	룸/ncn+으로/jca
+
+안내되었습니다
+	안내/ncpa+되/xsvn+었/ep+습니다/ef
+
+.
+	./sf
+
+
+룸
+	룸/ncn
+
+모습
+	모습/ncn
+
+...
+	.../se
+
+
+2층
+	2/nnc+층/nbu
+
+넓은
+	넓/paa+은/etm
+
+유리창으로
+	유리/ncn+창/ncn+으로/jca
+
+동해바다가
+	동해/ncn+바다/ncn+가/jcs
+
+보입니다~
+	보이/pvg+ㅂ니다/ef+~/sd
+
+전망
+	전망/ncn
+
+굿~~
+	굿/ncn+~/sd+~/sd
+
+
+메뉴판입니다~~
+	메뉴판/ncn+이/jp+ㅂ니다/ef+~/sd+~/sd
+
+
+세팅이구요
+	세팅이구요/ncn
+
+....
+	.../se+./sf
+
+
+횟감과
+	횟감/ncn+과/jct
+
+함께
+	함께/mag
+
+마셔본
+	마시/pvg+어/ecx+보/px+ㄴ/etm
+
+와인
+	와인/ncn
+
+...
+	.../se
+
+
+들깨죽과
+	들깨/ncn+죽/ncn+과/jcj
+
+미역국
+	미역국/ncn
+
+나와주시구요~
+	나와주시구요/ncn+~/sd
+
+
+본메뉴
+	본메뉴/ncn
+
+나오기
+	나/pvg+아/ecx+오/px+기/etn
+
+전에
+	전/nbn+에/jca
+
+나와주는
+	나오/pvg+아/ecx+주/px+는/etm
+
+해산물모듬
+	해산물모듬/ncn
+
+....
+	.../se+./sf
+
+
+신선하고
+	신선/ncn+하고/jct
+
+맛도
+	맛/ncn+도/jxc
+
+좋더군요
+	좋/paa+더군/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+샐러드,
+	샐러드/ncn+,/sp
+
+생선구이,
+	생선/ncn+구/ncn+이/jcc+,/sp
+
+초밥,
+	초밥,/ncn
+
+조개,
+	조개/ncn+,/sp
+
+해삼,
+	해삼/ncn+,/sp
+
+개불
+	개불/ncn
+
+등
+	등/nbu
+
+여러
+	여러/mma
+
+가지가
+	가지/nbu+가/jcc
+
+신선하고
+	신선/ncn+하고/jct
+
+잘
+	잘/mag
+
+나오더군요~~
+	나오/pvg+더군/ef+요/jxf+~/sd+~/sd
+
+
+모듬회
+	모듬회/ncn
+
+(대)자
+	(/sl+대/nbu+)/sr+자/nbn
+
+였던
+	였던/ncn
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+...
+	.../se
+
+
+암튼
+	암튼/ncn
+
+회를
+	회/ncn+를/jco
+
+담은
+	담/pvg+은/etm
+
+나무판이
+	나무판/ncn+이/jcc
+
+들어오면서부터
+	들/pvg+어/ecx+오/px+면서/ecs+부터/jxc
+
+거대하게
+	거대/ncps+하/xsms+게/ecs
+
+느껴집니다
+	느끼/pvg+어/ecx+지/px+ㅂ니다/ef
+
+...
+	.../se
+
+
+회감도
+	회감/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+올라가있구요
+	올라가있구요/ncn
+
+..
+	./sf+./sf
+
+
+만족할만합니다
+	만족/ncpa+하/xsva+ㄹ/etm+만/nbs+하/xsms+ㅂ니다/ef
+
+...
+	.../se
+
+
+맛있게
+	맛있/paa+게/ecs
+
+잘
+	잘/mag
+
+먹었습니다
+	먹/pvg+었/ep+습니다/ef
+
+..
+	./sf+./sf
+
+
+바삭바삭한
+	바삭바삭한/ncn
+
+튀김
+	튀기/pvg+ㅁ/etn
+
+...
+	.../se
+
+
+매운탕도
+	매운탕/ncn+도/jxc
+
+괜찮았고
+	괜찮/paa+아/ep+고/ecc
+
+...
+	.../se
+
+
+마끼도
+	마끼/ncn+도/jxc
+
+괜찮았고
+	괜찮/paa+아/ep+고/ecc
+
+....
+	.../se+./sf
+
+
+만족~
+	만족/ncn+~/sd
+
+
+강릉여행
+	강릉여행/ncn
+
+때
+	때/ncn
+
+맛있는
+	맛있/paa+는/etm
+
+점심을
+	점심/ncn+을/jco
+
+먹었던
+	먹/pvg+었/ep+던/etm
+
+곳.
+	곳/ncn+./sf
+
+..
+	./sf+./sf
+
+
+기억에
+	기억/nnc+에/jca
+
+남겨두고
+	남기/pvg+어/ecx+두/px+고/ecc
+
+강릉
+	강릉/ncn
+
+갈
+	가/pvg+ㄹ/etm
+
+일
+	일/nnc
+
+있으면
+	있/px+으면/ecs
+
+다시
+	다시/mag
+
+찾고
+	찾/pvg+고/ecc
+
+싶은
+	싶/px+은/etm
+
+곳.
+	곳/ncn+./sf
+
+..
+	./sf+./sf
+
+
+강릉
+	강릉/ncn
+
+해송활어회
+	해송활어회/ncn
+
+였습니다~
+	였습니/ncn+이/jp+다/ef+~/sd
+
+
+위치
+	위치/ncn
+
+:
+	:/sp
+
+강원도
+	강원/ncn+도/jxc
+
+강릉시
+	강릉시/ncn
+
+견소동
+	견소동/ncn
+
+287-22
+	287/nnc+-22/nnc
+
+
+전화번호
+	전화번호/ncn
+
+:
+	:/sp
+
+033-652-8200
+	033/nnc+-652/nnc+-8200/nnc
+
+
+해송활어회
+	해송활어회/ncn
+
+
+강원도
+	강원/ncn+도/jxc
+
+강릉시
+	강릉시/ncn
+
+견소동
+	견소동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011068657",
+	"bl011068657",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11723806",
+	"/sl+11723806/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"해송활어회",
+	title:"해송활어회",/ncn
+
+pointX:483595,pointY:574630}
+	pointX/f+:/sp+483595/nnc+,/sp+pointY/f+:/sp+574630/nnc+}/sr

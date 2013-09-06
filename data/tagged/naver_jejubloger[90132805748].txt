@@ -1,0 +1,922 @@
+제주공항근처맛집
+	제주공항근처맛집/ncn
+
+해물전골찜
+	해물/ncn+전골/ncn+찜/ncn
+
+
+테리우스의
+	테리우스/ncn+의/jcm
+
+제주공항근처맛집
+	제주공항근처맛집/ncn
+
+탐방기
+	탐방/ncpa+기/ncn
+
+
+제주공항근처맛집
+	제주공항근처맛집/ncn
+
+올레가바당에서
+	올레가바당/ncn+에서/jca
+
+맛
+	맛/ncn
+
+본
+	보/px+ㄴ/etm
+
+해물전골,
+	해물/ncn+전골/ncn+,/sp
+
+해물찜
+	해물/ncn+찜/ncn
+
+
+제주공항근처맛집
+	제주공항근처맛집/ncn
+
+올레가바당
+	올레가바당/ncn
+
+..
+	./sf+./sf
+
+
+해물의
+	해물/ncn+의/jcm
+
+참
+	참/mag
+
+맛을
+	맛/ncn+을/jco
+
+알게
+	알/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+곳이랍니다
+	곳/nbu+이/jp+랍니다/ef
+
+
+겨울철에도
+	겨울철/ncn+에/jca+도/jxc
+
+어울리는
+	어울리/pvg+는/etm
+
+해물전골과
+	해물/ncn+전골/ncn+과/jcj
+
+해물찜을
+	해물/ncn+찜/ncn+을/jco
+
+맛보고
+	맛보/pvg+고/ecc
+
+왔어요
+	오/pvg+아/ep+아/ef
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+학교
+	학교/ncn
+
+친구들과
+	친구/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+모였는데요
+	모/nbu+이/jp+었/ep+는데요/ef
+
+
+이
+	이/mmd
+
+곳
+	곳/ncn
+
+제주공항근처맛집은
+	제주공항근처맛집/ncn+은/jxc
+
+처음으로
+	처음/ncn+으로/jca
+
+함께
+	함께/mag
+
+가게
+	가/px+게/ecs
+
+되었어요
+	되/nbu+이/jp+었/ep+어요/ef
+
+
+다행히
+	다행히/mag
+
+모두
+	모두/mag
+
+해물을
+	해물/ncn+을/jco
+
+좋아해서
+	좋/paa+아/ecx+하/px+어서/ecs
+
+맛있게
+	맛있/paa+게/ecs
+
+먹고
+	먹/pvg+고/ecc
+
+올
+	오/px+ㄹ/etm
+
+수
+	수/nbn
+
+있었습니다
+	있/paa+었/ep+습니다/ef
+
+
+진한
+	지/px+ㄴ/etm+한/nbn
+
+국물
+	국물/ncn
+
+맛이
+	맛/ncn+이/jcc
+
+좋은
+	좋/paa+은/etm
+
+해물전골
+	해물/ncn+전골/ncn
+
+
+매콤한
+	매콤한/ncn
+
+양념이
+	양념/ncn+이/jcc
+
+함께
+	함께/mag
+
+어우러진
+	어우러지/pvg+ㄴ/etm
+
+해물찜
+	해물/ncn+찜/ncn
+
+
+해물을
+	해물/ncn+을/jco
+
+좋아하신다면
+	좋/paa+아/ecx+하/px+시/ep+ㄴ다면/ecs
+
+제주공항근처맛집
+	제주공항근처맛집/ncn
+
+올레가바당에
+	올레가바당/ncn+에/jca
+
+다녀오세요^^
+	다녀오세요/ncn+^/sy+^/sy
+
+
+제주공항근처맛집
+	제주공항근처맛집/ncn
+
+올레가바당
+	올레가바당/ncn
+
+
+이
+	이/mmd
+
+곳에서
+	곳/ncn+에서/jca
+
+친구들과
+	친구/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+
+해물전골과
+	해물/ncn+전골/ncn+과/jcj
+
+해물찜을
+	해물/ncn+찜/ncn+을/jco
+
+맛보고
+	맛보/pvg+고/ecc
+
+왔어요
+	오/pvg+아/ep+아/ef
+
+
+제주공항
+	제주/ncn+공항/ncn
+
+근처에
+	근처/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+맛집
+	맛집/ncn
+
+중에서도
+	중/nbn+에서도/jca
+
+
+해물
+	해물/ncn
+
+맛의
+	맛/ncn+의/jcm
+
+매력을
+	매력/ncn+을/jco
+
+잘
+	잘/mag
+
+알게
+	알/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+곳인데요
+	곳인데요/ncn
+
+
+이
+	이/mmd
+
+곳에서
+	곳/ncn+에서/jca
+
+정말
+	정말/mag
+
+맛있게
+	맛있/paa+게/ecs
+
+먹고
+	먹/pvg+고/ecc
+
+왔습니다
+	오/pvg+아/ep+ㅂ니다/ef
+
+
+따뜻하고
+	따뜻/ncn+하고/jct
+
+진한
+	지/px+ㄴ/etm+한/nbn
+
+국물
+	국물/ncn
+
+맛이
+	맛/ncn+이/jcc
+
+좋은
+	좋/paa+은/etm
+
+
+제주공항근처맛집의
+	제주공항근처맛집/ncn+의/jcm
+
+해물전골
+	해물/ncn+전골/ncn
+
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+해물을
+	해물/ncn+을/jco
+
+맛볼
+	맛보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+더
+	더/mag
+
+없이
+	없이/mag
+
+좋은
+	좋/paa+은/etm
+
+겨울철
+	겨울철/ncn
+
+별미입니다
+	별미/ncn+이/jp+ㅂ니다/ef
+
+
+친구들과는
+	친구/ncn+들/ncn+과/jct+는/jxc
+
+이
+	이/mmd
+
+곳에
+	곳/nbn+에/jca
+
+처음으로
+	처음/ncn+으로/jca
+
+함께
+	함께/mag
+
+갔는데요
+	가/pvg+아/ep+ㄴ데요/ef
+
+
+다행히
+	다행히/mag
+
+친구들
+	친구/ncn+들/ncn
+
+모두
+	모두/mag
+
+해물을
+	해물/ncn+을/jco
+
+좋아해서
+	좋/paa+아/ecx+하/px+어서/ecs
+
+
+제주공항근처맛집
+	제주공항근처맛집/ncn
+
+올레가바당에서의
+	올레가바당에서/ncn+의/jcm
+
+시간이
+	시간/ncn+이/jcc
+
+행복했습니다
+	행복/ncps+하/xsms+었/ep+습니다/ef
+
+
+한동안
+	한동안/ncn
+
+함께
+	함께/mag
+
+하지
+	하/pvg+지/ecx
+
+못해
+	못하/paa+어/ecs
+
+
+조금은
+	조금/mag+은/jxc
+
+서운한
+	서운/ncps+하/xsms+ㄴ/etm
+
+마음도
+	마음/ncn+도/jxc
+
+있었는데요
+	있/paa+었/ep+는데요/ef
+
+
+한
+	하/pvg+ㄴ/etm
+
+자리에
+	자리/ncn+에/jca
+
+모여
+	모이/pvg+어/ecx
+
+맛있는
+	맛있/paa+는/etm
+
+음식을
+	음식/ncn+을/jco
+
+함께
+	함께/mag
+
+먹으니
+	먹/pvg+으니/ecs
+
+그것보다
+	그것/npd+보다/jca
+
+즐거운
+	즐겁/paa+은/etm
+
+시간이
+	시간/ncn+이/jcc
+
+없었던
+	없/paa+었/ep+던/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아요/ef
+
+
+한
+	하/pvg+ㄴ/etm
+
+해를
+	해/nbu+를/jco
+
+마무리
+	마무리/ncpa
+
+하면서
+	하/pvg+면서/ecc
+
+
+다녀온
+	다니/pvg+어/ecx+오/px+ㄴ/etm
+
+제주공항근처맛집이라
+	제주공항근처맛집/ncn+이라/jca
+
+
+더욱
+	더욱/mag
+
+기억에
+	기억/nnc+에/jca
+
+남는
+	남/pvg+는/etm
+
+곳이랍니다
+	곳/nbu+이/jp+랍니다/ef
+
+
+새해를
+	새해/ncn+를/jco
+
+시작하면서
+	시작/ncpa+하/xsva+면서/ecc
+
+다녀오셔도
+	다니/pvg+어/ecx+오/px+시/ep+어도/ecs
+
+좋은
+	좋/paa+은/etm
+
+곳이랍니다
+	곳/nbu+이/jp+랍니다/ef
+
+
+특히
+	특히/mag
+
+요즘처럼
+	요즘/ncn+처럼/jca
+
+추운
+	춥/paa+은/etm
+
+날
+	날/nbu
+
+
+따뜻하고
+	따뜻/ncn+하고/jct
+
+맛있게
+	맛있/paa+게/ecs
+
+맛볼
+	맛보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+추천해드리고
+	추천/ncpa+하/xsva+어/ecx+드리/px+고/ecc
+
+싶습니다
+	싶/paa+습니다/ef
+
+
+특히
+	특히/mag
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+해물을
+	해물/ncn+을/jco
+
+먹는
+	먹/pvg+는/etm
+
+즐거움이
+	즐거움/ncn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+좋은데요
+	좋은데요/ncn
+
+
+바로
+	바로/mag
+
+앞에
+	앞/ncn+에/jca
+
+바다가
+	바다/ncn+가/jcs
+
+있어서
+	있/paa+어서/ecs
+
+
+해물을
+	해물/ncn+을/jco
+
+먹는
+	먹/pvg+는/etm
+
+즐거움이
+	즐거움/ncn+이/jcc
+
+배가
+	배/pvg+어/ecx+가/px+아/ecx
+
+된답니다
+	되/paa+ㄴ답니다/ef
+
+
+해물전골에
+	해물/ncn+전골/ncn+에/jca
+
+이어
+	이/npd+이/jp+어/ecs
+
+함께
+	함께/mag
+
+맛보고
+	맛보/pvg+고/ecc
+
+온
+	온/mma
+
+
+제주공항근처맛집의
+	제주공항근처맛집/ncn+의/jcm
+
+해물찜이랍니다
+	해물/ncn+찜/ncn+이/jp+랍니다/ef
+
+
+매콤하게
+	매콤하/ncn+이/jp+게/ecs
+
+양념이
+	양념/ncn+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+나와
+	나/npp+와/jct
+
+겨울에
+	겨울/ncn+에/jca
+
+먹어도
+	먹/pvg+어도/ecs
+
+좋지요
+	좋/paa+지요/ef
+
+
+해물전골은
+	해물/ncn+전골/ncn+은/jxc
+
+따뜻하고
+	따뜻/ncn+하고/jct
+
+진한
+	지/px+ㄴ/etm+한/nbn
+
+국물
+	국물/ncn
+
+맛이
+	맛/ncn+이/jcc
+
+매력이라면
+	매력/ncn+이라/jca+이/jp+면/ecs
+
+
+해물찜이
+	해물/ncn+찜/ncn+이/jcc
+
+매콤한
+	매콤한/ncn
+
+양념
+	양념/ncn
+
+맛이
+	맛/ncn+이/jcc
+
+매력이랍니다
+	매력/ncn+이/ncn+이/jp+랍니다/ef
+
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+맛을
+	맛/ncn+을/jco
+
+함께
+	함께/mag
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+좋았습니다
+	좋/paa+아/ep+ㅂ니다/ef
+
+
+제주공항근처맛집의
+	제주공항근처맛집/ncn+의/jcm
+
+해물찜은
+	해물/ncn+찜/ncn+은/jxc
+
+
+특히
+	특히/mag
+
+매운
+	맵/paa+은/etm
+
+맛을
+	맛/ncn+을/jco
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+친구들에게
+	친구/ncn+들/ncn+에게/jca
+
+인기가
+	인기/ncn+가/jcs
+
+있었습니다
+	있/paa+었/ep+습니다/ef
+
+
+겨울철에는
+	겨울철/ncn+에/jca+는/jxc
+
+매운
+	맵/paa+은/etm
+
+맛을
+	맛/ncn+을/jco
+
+찾기
+	찾/pvg+기/etn
+
+쉬운데
+	쉽/paa+은/etm+데/nbn
+
+요즘의
+	요즘/ncn+의/jcm
+
+날씨와도
+	날씨/ncn+와/jct+도/jxc
+
+잘
+	잘/mag
+
+어울리더라고요
+	어울리/pvg+더/ep+라고/ef+요/jxf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+갑자기
+	갑자기/mag
+
+더
+	더/mag
+
+추워진
+	춥/paa+어/ecx+지/px+ㄴ/etm
+
+것
+	것/nbn
+
+같은데요
+	같은데요/ncn
+
+
+이럴
+	이럴/ncn
+
+때
+	때/ncn
+
+제주공항근처맛집
+	제주공항근처맛집/ncn
+
+올레가바당의
+	올레가바당/ncn+의/jcm
+
+
+해물찜을
+	해물/ncn+찜/ncn+을/jco
+
+맛보며
+	맛보/pvg+며/ecc
+
+잠시나마
+	잠시/mag+나마/jxc
+
+추위를
+	추위/ncn+를/jco
+
+잊을
+	잊/pvg+을/etm
+
+수
+	수/nbn
+
+있었으면
+	있/px+었/ep+으면/ecs
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+새해의
+	새해/ncn+의/jcm
+
+한
+	하/pvg+ㄴ/etm
+
+주가
+	주/nbu+가/jcc
+
+시작되는
+	시작/ncpa+되/xsvn+는/etm
+
+요즘
+	요즘/mag
+
+
+감기
+	감/pvg+기/etn
+
+조심하시고요
+	조심/ncpa+하시/ncn+고요/ncps
+
+
+맛있는
+	맛있/paa+는/etm
+
+제주도의
+	제주/ncn+도/ncn+의/jcm
+
+음식을
+	음식/ncn+을/jco
+
+맛보며
+	맛보/pvg+며/ecc
+
+새롭게
+	새롭/paa+게/ecs
+
+시작하셨으면
+	시작/ncpa+하/xsva+셨/ep+으면/ecs
+
+해요
+	하/pvg+어요/ef
+
+
+그리고
+	그리고/maj
+
+해물전골과
+	해물/ncn+전골/ncn+과/jcj
+
+해물찜이
+	해물/ncn+찜/ncn+이/jcc
+
+드시고
+	들/pvg+시/ep+고/ecc
+
+싶으시다면
+	싶/paa+으시/ep+다면/ecs
+
+
+제주공항근처맛집
+	제주공항근처맛집/ncn
+
+올레가바당을
+	올레가바당/ncn+을/jco
+
+
+찾으셔도
+	찾/pvg+으시/ep+어도/ecs
+
+좋을
+	좋/paa+을/etm
+
+것
+	것/nbn
+
+같아요^^
+	같아요/ncn+^/sy+^/sy
+
+
+올레가바당
+	올레가바당/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+용담3동
+	용담3동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01889862",
+	"bl01889862",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"16755677",
+	"/sl+16755677/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"올레가바당",
+	title:"올레가바당",/ncn
+
+pointX:259799,pointY:103485}
+	pointX/f+:/sp+259799/nnc+,/sp+pointY/f+:/sp+103485/nnc+}/sr

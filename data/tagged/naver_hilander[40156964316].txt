@@ -1,0 +1,871 @@
+구김스
+	구김스/ncn
+
+플라이
+	플라이/ncn
+
+바람막이
+	바람/ncn+막/ncn+이/jcc
+
+자켓
+	자켓/ncn
+
+
+일명
+	일/nnc+명/nbu
+
+해품달
+	해품달/ncn
+
+정일우
+	정일우/ncn
+
+바람막이로
+	바람막이/ncn+로/jca
+
+통하는
+	통하/pvg+는/etm
+
+바로
+	바/nbn+로/jca
+
+그
+	그/mmd
+
+자켓이다
+	자켓/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+등산이나
+	등산/ncpa+이나/jcj
+
+트래킹시에는
+	트래킹시/ncn+에/jca+는/jxc
+
+고기능성
+	고기능성/ncn
+
+바람막이
+	바람/ncn+막/ncn+이/jcc
+
+자켓이
+	자켓/ncn+이/jcc
+
+물론
+	물론/mag
+
+제격이겠지만
+	제격/ncn+이/jp+겠/ep+지만/ecs
+
+
+간단한
+	가/px+ㄴ단/etm+한/nbn
+
+여행이나
+	여행/ncpa+이나/jcj
+
+일상생활에서는
+	일상생활/ncpa+에서/jca+는/jxc
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+심플하게
+	심플하/ncn+이/jp+게/ecs
+
+입을
+	입/ncn+을/jco
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+옷이
+	옷/ncn+이/jcc
+
+상하의
+	상하/ncn+의/jcm
+
+매치하기도
+	매치/ncpa+하/xsva+기/etn+도/jxc
+
+편한것
+	편하/paa+ㄴ/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+보자마자
+	보/px+자마자/ecs
+
+이거다
+	이거/npd+이/jp+다/ef
+
+싶어골랐는데
+	싶어골랐는데/ncn
+
+..
+	./sf+./sf
+
+
+한동안
+	한동안/ncn
+
+날이
+	날/ncn+이/jcc
+
+추워
+	춥/paa+어/ecx
+
+입지
+	입/pvg+지/ecx
+
+못해
+	못하/pvg+어/ecx
+
+안타까웠다
+	안타깝/paa+었/ep+다/ef
+
+
+게다가
+	게다가/maj
+
+모
+	모/ncn
+
+정당의
+	정당/ncn+의/jcm
+
+선거용
+	선거용/ncn
+
+자켓이랑
+	자켓/ncn+이/jcs+랑/jxc
+
+색상이
+	색상/ncn+이/jcc
+
+똑같아서
+	똑같/paa+아/ecx
+
+오해할까봐
+	오해할까봐/ncn
+
+못입고
+	못입고/ncn
+
+다녔다는;;;
+	다녔다는/ncn+;/sy+;/sy+;/sy
+
+
+드디어기다리던
+	드디어기다리/ncn+이/jp+던/etm
+
+봄이
+	보/px+ㅁ/etn+이/jcs
+
+오기는
+	오/px+기/etn+는/jxc
+
+왔구나
+	오/px+아/ep+구나/ef
+
+..
+	./sf+./sf
+
+
+덕분에지난주
+	덕분에지난주/ncn
+
+제주도
+	제주/ncn+도/jxc
+
+여행
+	여행/ncpa
+
+갔을때
+	가/px+아/ep+ㄹ/etm+때/nbn
+
+챙겨가서
+	챙기/pvg+어/ecx+가/px+아/ecx
+
+입었었다
+	입/pvg+었었/ep+다/ef
+
+.
+	./sf
+
+
+바람이
+	바람/ncn+이/jcc
+
+유난히
+	유난히/mag
+
+많이
+	많/paa+이/xsa
+
+부는
+	불/pvg+는/etm
+
+제주도에서도
+	제주/ncn+도/ncn+에서/jca+도/jxc
+
+딱이었고
+	딱/ncn+이/jp+었/ep+고/ecc
+
+
+여행을
+	여행/ncpa+을/jco
+
+끝내고
+	끝내/pvg+고/ecc
+
+서울에
+	서울/ncn+에/jca
+
+올라오니
+	오르/pvg+아/ecx+오/px+니/ecs
+
+서울에도
+	서울/ncn+에/jca+도/jxc
+
+어느새
+	어느새/mag
+
+봄이
+	보/px+ㅁ/etn+이/jcs
+
+와서
+	오/px+아/ecs
+
+다행
+	다행/ncps
+
+^^
+	^/sy+^/sy
+
+
+인터넷으로
+	인터넷/ncn+으로/jca
+
+배송을
+	배송/ncn+을/jco
+
+받았는데
+	받/pvg+아/ep+ㄴ데/ecs
+
+
+박스
+	박스/ncn
+
+포장이
+	포장/ncpa+이/jcc
+
+너무
+	너무/mag
+
+이뻐
+	이쁘/paa+어/ecx
+
+한
+	하/pvg+ㄴ/etm
+
+컷
+	컷/nbu
+
+
+구김스
+	구김스/ncn
+
+컴퍼니가
+	컴퍼니/ncn+가/jcs
+
+워낙
+	워낙/mag
+
+디자인이
+	디자인/ncpa+이/jcc
+
+톡톡
+	톡톡/mag
+
+튀는
+	트/pvg+어/ef+는/etm
+
+우리나라
+	우리나라/ncn
+
+디자이너
+	디자이너/ncn
+
+브랜드라는건
+	브랜드라는건/ncn
+
+알고
+	알/pvg+고/ecx
+
+있었지만
+	있/paa+었/ep+지만/ecs
+
+
+박스를
+	박스/ncn+를/jco
+
+버리기
+	버리/px+기/etn
+
+아까울
+	아깝/paa+을/etm
+
+정도로
+	정도/ncn+로/jca
+
+만들면
+	만들/pvg+면/ecs
+
+대체
+	대체/mag
+
+어쩌라는건지
+	어쩌/paa+라/ef+는/etm+것/nbn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+(덕분에
+	(/sl+덕분/ncn+에/jca
+
+아직도
+	아직/mag+도/jxc
+
+못버리고
+	못버리/ncn+이/jp+고/ecc
+
+집에
+	집/ncn+에/jca
+
+그대로
+	그대로/mag
+
+있음;;;;)
+	있/paa+음/etn+;/sy+;/sy+;/sy+;/sy+)/sr
+
+
+지퍼
+	지퍼/ncn
+
+부분의
+	부분/ncn+의/jcm
+
+손바닥
+	손바닥/ncn
+
+모양
+	모양/ncn
+
+고리~
+	고리/nbu+~/sd
+
+
+자켓
+	자켓/ncn
+
+안쪽의
+	알/pvg+ㄴ/etm+쪽/nbn+의/jcm
+
+세탁
+	세탁/ncpa
+
+설명도
+	설명/ncpa+도/jxc
+
+아기자기한
+	아기자기/ncn+한/ncn
+
+일러스트디자인으로
+	일러스트디자인/ncn+으로/jca
+
+되어있어
+	되/pvg+어/ecx+있/px+어/ecx
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+든다
+	들/pvg+ㄴ다/ef
+
+^^
+	^/sy+^/sy
+
+
+안쪽은
+	알/pvg+ㄴ/etm+쪽/nbn+은/jxc
+
+매쉬
+	매/xp+쉬/ncpa
+
+소재로
+	소재/ncn+로/jca
+
+되어있어서
+	되/pvg+어/ecx+있/px+어서/ecs
+
+야외활동으로
+	야외활동/ncpa+으로/jca
+
+땀이
+	땀/ncn+이/jcc
+
+나도
+	나/npp+도/jxc
+
+쾌적할
+	쾌적/ncps+하/xsms+ㄹ/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+소재가
+	소재/ncn+가/jcs
+
+얇은
+	얇/paa+은/etm
+
+편이기
+	편/nbn+이/jp+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+봄부터
+	보/px+ㅁ/etn+부터/jxc
+
+초
+	초/nbu
+
+여름까지
+	여름/ncn+까지/jxc
+
+입을
+	입/ncn+을/jco
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+등에인쇄된
+	등에/ncn+인쇄/ncpa+되/xsvn+ㄴ/etm
+
+커다란회색
+	커다란회색/ncn
+
+로고는
+	로고/ncn+는/jxc
+
+밤에
+	밤/ncn+에/jca
+
+빛을
+	빛/ncn+을/jco
+
+받으면
+	받/pvg+으면/ecs
+
+반사가
+	반사/ncpa+가/jcc
+
+되는
+	되/pvg+는/etm
+
+
+'3M
+	'3M/ncn
+
+스카치브이트'
+	스카치브이트'/ncn
+
+반사
+	반사/ncpa
+
+소재를
+	소재/ncn+를/jco
+
+사용했다
+	사용/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+여행
+	여행/ncpa
+
+뿐
+	뿐/nbn
+
+아니라
+	아니/paa+라/ecs
+
+라이딩용으로도
+	라이딩용으로/ncn+도/jxc
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+제품이기
+	제품/ncn+이/jp+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+
+야간
+	야간/ncn
+
+활동시에
+	활동/ncpa+시/ncn+에/jca
+
+유용할
+	유용/ncpa+하/xsva+ㄹ/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+*
+	*/sy
+
+주의할
+	주의/ncpa+하/xsva+ㄹ/etm
+
+점
+	점/nbu
+
+!
+	!/sf
+
+
+:
+	:/sp
+
+양쪽
+	양쪽/ncn
+
+포켓은
+	포켓/ncn+은/jxc
+
+깊이가
+	깊이/ncn+가/jcs
+
+낮아서
+	낮/paa+아/ecx
+
+핸드폰이나
+	핸드폰/ncn+이나/jcj
+
+지갑을
+	지갑/ncn+을/jco
+
+넣으면
+	넣/pvg+으면/ecs
+
+흘릴
+	흘리/pvg+ㄹ/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+물건을
+	물건/ncn+을/jco
+
+넣기
+	넣/pvg+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+용도
+	용/ncn+도/jxc
+
+보다는
+	보/px+다/ef+는/etm
+
+멋내기
+	멋내기/ncn
+
+용으로
+	용/ncn+으로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+듯
+	듯/nbn
+
+
+양쪽
+	양쪽/ncn
+
+포켓을
+	포켓/ncn+을/jco
+
+대신해오른쪽
+	대신해오른쪽/ncn
+
+뒤에
+	뒤/ncn+에/jca
+
+지퍼로
+	지퍼/ncn+로/jca
+
+되어있는
+	되/pvg+어/ecx+있/px+는/etm
+
+포켓이
+	포켓/ncn+이/jcc
+
+하나
+	하나/nnc
+
+더
+	더/mag
+
+있는데
+	있/paa+는데/ecs
+
+
+중요한
+	중요/ncps+하/xsms+ㄴ/etm
+
+물건은
+	물건/ncn+은/jxc
+
+뒷쪽
+	뒷쪽/ncn
+
+지퍼
+	지퍼/ncn
+
+포켓에
+	포켓/ncn+에/jca
+
+넣으라는
+	넣/pvg+으라/ef+는/etm
+
+의미
+	의미/ncpa
+
+같다
+	같/paa+다/ef
+
+^^
+	^/sy+^/sy
+
+
+가슴과
+	가슴/ncn+과/jcj
+
+왼쪽
+	왼쪽/ncn
+
+어깨에도
+	어깨/ncn+에/jca+도/jxc
+
+3M
+	3M/ncn
+
+스카치라이트
+	스카치라이트/ncn
+
+소재로
+	소재/ncn+로/jca
+
+반짝이는
+	반짝이/pvg+는/etm
+
+로고가~
+	로고/ncn+가/jcs+~/sd
+
+!
+	!/sf
+
+
+후드는
+	후드/ncn+는/jxc
+
+옷깃에
+	옷깃/ncn+에/jca
+
+내장되어
+	내장/ncpa+되/xsvn+어/ecx
+
+있어
+	있/px+어/ecx
+
+지퍼를
+	지퍼/ncn+를/jco
+
+열고
+	열/pvg+고/ecc
+
+꺼내면
+	꺼내/pvg+면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+소매
+	소매/ncn
+
+부분은
+	부분/ncn+은/jxc
+
+고무밴드로
+	고무밴드/ncn+로/jca
+
+처리되어있어
+	처리/ncpa+되/xsvn+어/ecx+있/px+어/ecs
+
+
+평상시에는소매를
+	평상시에는소매/ncn+를/jco
+
+걷어서
+	걷/pvg+어서/ecs
+
+다녀도
+	다니/pvg+어도/ecs
+
+멋스러울
+	멋/ncn+스럽/xsmn+을/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+혹시
+	혹시/mag
+
+방수는
+	방수/ncn+는/jxc
+
+잘
+	잘/mag
+
+되는지
+	되/pvg+는지/ecs
+
+물을
+	물/ncn+을/jco
+
+뿌려
+	뿌리/pvg+어/ecx
+
+보았다
+	보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+물을
+	물/ncn+을/jco
+
+그대로
+	그대로/mag
+
+튕겨내는
+	튕기/pvg+어/ecx+내/px+는/etm
+
+고기능성
+	고기능성/ncn
+
+소재는
+	소재/ncn+는/jxc
+
+아니고
+	아니/paa+고/ecc
+
+생활
+	생활/ncpa
+
+방수
+	방수/ncn
+
+정도
+	정도/ncn
+
+가능할
+	가능/ncps+하/xsms+ㄹ/etm
+
+듯
+	듯/nbn
+
+
+구김스
+	구김스/ncn
+
+플라이
+	플라이/ncn
+
+바람막이
+	바람/ncn+막/ncn+이/jcc
+
+자켓
+	자켓/ncn

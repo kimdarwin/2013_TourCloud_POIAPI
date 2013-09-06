@@ -1,0 +1,814 @@
+대둔산
+	대둔산/ncn
+
+케이블카
+	케이블카/ncn
+
+타고
+	타/pvg+고/ecc
+
+오르기
+	오르/pvg+기/etn
+
+
+(위)-주차장에서
+	(/sl+위/ncn+)/sr+-/sd+주차장/ncn+에서/jca
+
+...
+	.../se
+
+
+(위)-금강다리
+	(/sl+위/ncn+)/sr+-/sd+금강/ncn+다리/ncn
+
+.
+	./sf
+
+
+삼선다리
+	삼선/ncpa+다리/ncn
+
+위에서
+	위/ncn+에서/jca
+
+금강다리를
+	금강/ncn+다리/ncn+를/jco
+
+찍었다
+	찍/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+(위)-케이블카에서
+	(/sl+위/ncn+)/sr+-/sd+케이블카/ncn+에서/jca
+
+내려서
+	내리/pvg+어서/ecs
+
+전망대에서
+	전망대/ncn+에서/jca
+
+찍었다
+	찍/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+(위)-삼선
+	(/sl+위/ncn+)/sr+-/sd+삼/nnc+선/jxc
+
+다리의
+	다리/ncn+의/jcm
+
+위용
+	위용/ncn
+
+
+(위)-삼선다리
+	(/sl+위/ncn+)/sr+-/sd+삼선/ncpa+다리/ncn
+
+위에서
+	위/ncn+에서/jca
+
+...
+	.../se
+
+
+(위)-대둔산의
+	(위)-대둔산/ncn+의/jcm
+
+장관
+	장관/ncr
+
+.
+	./sf
+
+
+케이블카에서
+	케이블카/ncn+에서/jca
+
+내려서부터
+	내리/pvg+어서/ecs+부터/jxc
+
+삼선다리
+	삼선/ncpa+다리/ncn
+
+위까지
+	위/ncn+까지/jxc
+
+가면서
+	가/px+면서/ecc
+
+...
+	.../se
+
+
+휴일이라서
+	휴일/ncn+이/jp+라서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+사람에
+	사람/ncn+에/jca
+
+떼밀려서
+	떼밀려/ncn+서/jca
+
+여유있게
+	여유/ncn+있/xsmn+게/ecs
+
+찍지를
+	찍/pvg+지를/ecs
+
+못했어요~~
+	못하/paa+었/ep+어요/ef+~/sd+~/sd
+
+
+급하게
+	급하/paa+게/ecs
+
+여기저기
+	여기저기/mad
+
+찍느라
+	찍/pvg+느라/ecs
+
+...
+	.../se
+
+
+(위)-삼선다리위
+	(/sl+위/ncn+)/sr+-/sd+삼선/ncpa+다리/ncn+위/ncn
+
+매점
+	매점/ncn
+
+지나서
+	지나/pvg+아/ecx
+
+정상으로
+	정상/ncn+으로/jca
+
+가는길
+	가는길/ncn
+
+.
+	./sf
+
+
+(위)-태고사가는
+	(/sl+위/ncn+)/sr+-/sd+태고/ncn+사가/ncn+는/jxc
+
+갈림길에서
+	갈림길/ncn+에서/jca
+
+정상으로
+	정상/ncn+으로/jca
+
+가는길
+	가는길/ncn
+
+.
+	./sf
+
+
+(위)-개척탑
+	(/sl+위/ncn+)/sr+-/sd+개척/ncpa+탑/ncn
+
+.
+	./sf
+
+
+왜
+	왜/mag
+
+정상에
+	정상/ncn+에/jca
+
+저런
+	저런/mmd
+
+탑을
+	탑/ncn+을/jco
+
+세워야
+	세우/pvg+어야/ecs
+
+하는지
+	하/pvg+는지/ecs
+
+무지한
+	무지한/ncn
+
+나는
+	나/npp+는/jxc
+
+이해할수가
+	이해/ncpa+하/xsva+ㄹ/etm+수/nbn+가/jcc
+
+없네요
+	없/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+(위)-참
+	(/sl+위/ncn+)/sr+-/sd+참/ncn
+
+...
+	.../se
+
+
+보기가
+	보/px+기/etn+가/jcs
+
+흉합니다
+	흉하/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+1972년에
+	1972/nnc+년/nbu+에/jca
+
+세웠다고
+	세우/pvg+었/ep+다/ef+고/jcr
+
+표지가
+	표지/ncn+가/jcs
+
+되어있는데
+	되/pvg+어/ecx+있/px+는데/ecs
+
+...
+	.../se
+
+
+그때면
+	그때/ncn+이/jp+면/ecs
+
+박정희
+	박정희/ncn
+
+전대통령의
+	전대통령/ncn+의/jcm
+
+개발독재가
+	개발독재/ncpa+가/jcc
+
+한창일때가
+	한창/ncn+이/jp+ㄹ/etm+때/nbn+가/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+...??
+	.../se+?/sf+?/sf
+
+
+제생각에는
+	제/xp+생각/ncpa+에/jca+는/jxc
+
+저~구조물은철거해서
+	저~구조물은철거해서/ncn
+
+아래에
+	아래/ncn+에/jca
+
+주차장
+	주차장/ncn
+
+근처로
+	근처/ncn+로/jca
+
+옮겨놓으면
+	옮기/pvg+어/ecx+놓/px+으면/ecs
+
+좋을것같은데
+	좋/paa+을/etm+것/nbn+같/xsmn+은/etm+데/nbn
+
+...
+	.../se
+
+
+찬누리
+	찬누리/ncn
+
+혼자만
+	혼자/mag+만/jxc
+
+이런생각을
+	이런생각/ncn+을/jco
+
+하는건지
+	하/pvg+는/etm+것/nbn+이/jp+ㄴ지/ecs
+
+모르겠습니다
+	모르/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+아무튼
+	아무튼/mag
+
+흉물입니다
+	흉물/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-암튼
+	(위)-암튼/ncn
+
+형님의
+	형님/ncn+의/jcm
+
+성화에
+	성화/ncn+에/jca
+
+못이겨서
+	못이겨서/ncn
+
+기념으로
+	기념/ncpa+으로/jca
+
+사진찍고
+	사진찍/pvg+고/ecc
+
+...
+	.../se
+
+
+(위)-올라갈때부터
+	(위)-올라갈때/ncn+부터/jxc
+
+계속
+	계속/mag
+
+앞에서
+	앞/ncn+에서/jca
+
+가시던
+	가/px+시/ep+던/etm
+
+분인데
+	분/nbn+이/jp+ㄴ데/ecs
+
+...
+	.../se
+
+
+많이
+	많/paa+이/xsa
+
+미인
+	미인/ncn
+
+이십니다
+	이/npd+이/jp+시/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+형님과
+	형님/ncn+과/jcj
+
+사진을
+	사진/ncn+을/jco
+
+찍으려는데
+	찍/pvg+으리/ep+어/ef+는/etm+데/nbn
+
+계속
+	계속/mag
+
+앵글에
+	앵글/ncn+에/jca
+
+보이셔서
+	보이/pvg+시/ep+어서/ecs
+
+...
+	.../se
+
+
+제가
+	저/npp+가/jcs
+
+"사진찍어서
+	"/sl+사진찍/pvg+어서/ecs
+
+인터넷에
+	인터넷/ncn+에/jca
+
+퍼트리겠습니다
+	퍼트리/pvg+겠/ep+습니다/ef
+
+."
+	./sf+"/sl
+
+
+했더니
+	하/px+었/ep+더니/ecs
+
+웃으시면서
+	웃/pvg+으시/ep+면서/ecc
+
+괜찮답니다
+	괜찮/paa+답니다/ef
+
+.
+	./sf
+
+
+미인이십니다
+	미인/ncn+이/jp+시/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+다음에
+	다음/ncn+에/jca
+
+다시뵈면
+	다시뵈/ncn+이/jp+면/ecs
+
+차한잔
+	차한잔/ncn
+
+드리겠습니다
+	드리/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+(위)-낙조대,태고사로
+	(위)-낙조대,태고사/ncn+로/jca
+
+가는능선
+	가는능선/ncn
+
+.
+	./sf
+
+
+(위)-입구
+	(/sl+위/ncn+)/sr+-/sd+입구/ncn
+
+식당앞에
+	식당/ncn+앞/ncn+에/jca
+
+팔겠다고
+	팔/pvg+겠/ep+다/ef+고/jcr
+
+내놓은
+	내/pvg+어/ecx+놓/px+은/etm
+
+강아지
+	강아지/ncn
+
+.
+	./sf
+
+
+한마리에
+	한/nnc+마리/nbu+에/jca
+
+35만원
+	35/nnc+만/nnc+원/nbu
+
+이랍니다
+	이/npd+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+짜~식들
+	짜/pvg+아/ecs+~/sd+식/ncn+들/xsncc
+
+너무
+	너무/mag
+
+이뻐요~~
+	이쁘/paa+어요/ef+~/sd+~/sd
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+고향에서
+	고향/ncn+에서/jca
+
+오는길에
+	오는길/ncn+에/jca
+
+시간이
+	시간/ncn+이/jcc
+
+남길래
+	남/pvg+길래/ecs
+
+가족들하고
+	가족/ncn+들/ncn+하고/jct
+
+들렀습니다
+	들르/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+원래
+	원래/mag
+
+목적은
+	목적/ncn+은/jxc
+
+주변에
+	주변/ncn+에/jca
+
+기도터도
+	기도/ncn+터/ncn+도/jxc
+
+둘러보고
+	두르/pvg+어/ecx+보/px+고/ecc
+
+화암사
+	화암사/ncn
+
+라는
+	라/ncn+는/jxc
+
+숨겨진
+	숨기/pvg+어/ecx+지/px+ㄴ/etm
+
+고찰을
+	고찰/ncn+을/jco
+
+들를
+	들르/pvg+ㄹ/etm
+
+욕심이었는데
+	욕심/ncn+이/jp+었/ep+는데/ecs
+
+.
+	./sf
+
+
+욕심으로
+	욕심/ncn+으로/jca
+
+끝났습니다
+	끝나/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+제거
+	제거/ncpa
+
+아내와
+	아내/ncn+와/jcj
+
+딸래미한테
+	딸래미한테/ncn
+
+꼼짝을
+	꼼짝/ncpa+을/jco
+
+못한답니다
+	못하/px+ㄴ답니다/ef
+
+.
+	./sf
+
+
+겨우겨우
+	겨우겨우/mag
+
+사정하고
+	사정/ncn+하고/jct
+
+달래서
+	달래/pvg+어서/ecs
+
+케이블카
+	케이블카/ncn
+
+태워서
+	태우/pvg+어서/ecs
+
+금강다리
+	금강/ncn+다리/ncn
+
+까지
+	까/pvg+지/ecx
+
+건너게
+	건너/pvg+게/ecs
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+드뎌
+	드뎌/ncn
+
+가족들은
+	가족/ncn+들/ncn+은/jxc
+
+다시
+	다시/mag
+
+내려가고
+	내리/pvg+어/ecx+가/px+고/ecc
+
+저는
+	저/npp+는/jxc
+
+떼를써서
+	떼를써서/ncn
+
+형님하고
+	형님/ncn+하고/jcj
+
+정상을
+	정상/ncn+을/jco
+
+올랐지요
+	오르/pvg+아/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+케이블카
+	케이블카/ncn
+
+타고가니
+	타/pvg+고/ecx+가/px+니/ecs
+
+왕복에
+	왕복/ncpa+에/jca
+
+두시간이
+	두/nnc+시간/nbu+이/jcc
+
+않걸립니다
+	않걸립니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+힘들지
+	힘들/pvg+지/ecx
+
+않아서
+	않/px+아/ecx
+
+좋기는
+	좋/paa+기/etn+는/jxc
+
+하지만
+	하지만/maj
+
+산행의
+	산행/ncn+의/jcm
+
+묘미는
+	묘미/ncn+는/jxc
+
+없지요
+	없/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+다음에는
+	다음/ncn+에/jca+는/jxc
+
+혼자서
+	혼자/ncn+서/jca
+
+가서
+	가/pvg+서/ecs
+
+천천히
+	천천히/mag
+
+주변을
+	주변/ncn+을/jco
+
+탐방해야
+	탐방/ncpa+하/xsva+어야/ecs
+
+겠습니다
+	겠습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+명산
+	명산/ncn
+
+이다보니
+	이다보니/ncn
+
+주변에
+	주변/ncn+에/jca
+
+고찰들도
+	고찰/ncn+들/ncn+도/jxc
+
+많구요~~~~
+	많구요/ncn+~/sd+~/sd+~/sd+~/sd
+
+
+그냥오기
+	그냥오/ncn+이/jp+기/etn
+
+섭섭했지만
+	섭섭/ncps+하/xsms+었/ep+지만/ecs
+
+...
+	.../se
+
+
+어쩌겠습니까
+	어쩌/paa+겠/ep+습니까/ef
+
+.??
+	./sf+?/sf+?/sf
+
+
+가족들이
+	가족/ncn+들/ncn+이/jcc
+
+눈을
+	눈/ncn+을/jco
+
+부라리는걸
+	부라리는걸/ncn
+
+..
+	./sf+./sf
+
+
+다시한번
+	다시한번/ncn
+
+느낀
+	느끼/pvg+ㄴ/etm
+
+아쉬움을
+	아쉬움/ncn+을/jco
+
+말하자면
+	말하자면/mag
+
+...
+	.../se
+
+
+정상에
+	정상/ncn+에/jca
+
+개척탑
+	개척/ncpa+탑/ncn
+
+인가요~~
+	일/pvg+ㄴ가/ef+요/jxf+~/sd+~/sd
+
+??
+	?/sf+?/sf
+
+
+계속
+	계속/mag
+
+둬야하는지요
+	두/pvg+어야/ecx+하/px+는지/ef+요/jxf
+
+...??
+	.../se+?/sf+?/sf

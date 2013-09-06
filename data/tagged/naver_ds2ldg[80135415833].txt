@@ -1,0 +1,67 @@
+여름날더운데
+	여름날더운데/ncn
+
+시골마당에
+	시골/ncn+마당/ncn+에/jca
+
+펴놓은
+	피/pvg+어/ecx+놓/px+은/etm
+
+평상에
+	평상/ncn+에/jca
+
+
+누워서
+	눕/pvg+어서/ecs
+
+먹던
+	먹/pvg+던/etm
+
+옥수수까지는
+	옥수수/ncn+까지/jxc+는/jxc
+
+아니지만
+	아니/mag+지만/jxc
+
+
+그래도
+	그래도/maj
+
+그런
+	그러/pvd+ㄴ/etm
+
+분위기
+	분위기/ncn
+
+생각하며
+	생각/ncpa+하/xsva+며/ecc
+
+
+한입
+	한입/ncn
+
+베어무는
+	베어/ncn+무/ncn+는/jxc
+
+옥수수가
+	옥수수/ncn+가/jcs
+
+꿀맛이다
+	꿀맛/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+여름은
+	여름/ncn+은/jxc
+
+여름이다
+	여름/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy

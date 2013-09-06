@@ -1,0 +1,213 @@
+오늘은
+	오늘/ncn+은/jxc
+
+다행히
+	다행히/mag
+
+아침
+	아침/ncn
+
+날이
+	날/ncn+이/jcc
+
+화창합니다
+	화창/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+먼저
+	먼저/mag
+
+준비하고
+	준비/ncn+하고/jcj
+
+나와
+	나/npp+와/jcj
+
+친구를
+	친구/ncn+를/jco
+
+기다리는
+	기다리/pvg+는/etm
+
+동안
+	동안/ncn
+
+아침햇살받은
+	아침햇살받/ncn+은/jxc
+
+버스정류장
+	버스/ncn+정류장/ncn
+
+게스트하우스를
+	게스트/ncn+하우스/ncn+를/jco
+
+둘러봅니다
+	두르/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+깨끗한
+	깨끗/ncps+하/xsms+ㄴ/etm
+
+나무테이블과
+	나무테이블/ncn+과/jct
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+소품들여행자들과의
+	소품들여행자들과/ncn+의/jcm
+
+추억을
+	추억/ncpa+을/jco
+
+담은
+	담/pvg+은/etm
+
+사진들맛있는
+	사진들맛있/ncn+는/jxc
+
+음료
+	음료/ncn
+
+.
+	./sf
+
+
+더치
+	더치/ncn
+
+커피도
+	커피/ncn+도/jxc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+인형같은
+	인형/ncn+같/xsmn+은/etm
+
+토벤이
+	토벤/ncn+이/jcc
+
+.
+	./sf
+
+
+요
+	요/mmd
+
+아이는
+	아이/ncn+는/jxc
+
+이
+	이/mmd
+
+곳의
+	곳/ncn+의/jcm
+
+마스코트
+	마스코트/ncn
+
+.
+	./sf
+
+
+친구의
+	친구/ncn+의/jcm
+
+구두
+	구두/ncn
+
+슈즈를
+	슈즈/ncn+를/jco
+
+사랑한
+	사랑/ncn+한/ncn
+
+아이
+	아이/ncn
+
+오늘의
+	오늘/ncn+의/jcm
+
+도시락
+	도시락/ncn
+
+...
+	.../se
+
+
+함께
+	함께/mag
+
+하는
+	하/pvg+는/etm
+
+우리
+	우리/npp
+
+여행자
+	여행자/ncn
+
+숙소
+	숙소/ncn
+
+친구들
+	친구/ncn+들/ncn
+
+신나는
+	신나/pvg+는/etm
+
+아침
+	아침/ncn
+
+
+버스정류장
+	버스/ncn+정류장/ncn
+
+게스트하우스
+	게스트/ncn+하우스/ncn
+
+
+제주특별자치도
+	제주/ncn+특별/ncps+자치/ncn+도/jxc
+
+서귀포시
+	서귀포시/ncn
+
+표선면
+	표선면/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011432764",
+	"bl011432764",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"버스정류장
+	title/f+:/sp+"/sl+버스/ncn+정류장/ncn
+
+게스트하우스",
+	게스트/ncn+하우스/ncn+"/sr+,/sp
+
+pointX:292452,pointY:86857}
+	pointX/f+:/sp+292452/nnc+,/sp+pointY/f+:/sp+86857/nnc+}/sr

@@ -1,0 +1,521 @@
+운길산
+	운길산/ncn
+
+수종사
+	수종사/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+
+(위)-수종사
+	(위)-수종사/ncn
+
+일주문
+	일주문/ncn
+
+.
+	./sf
+
+
+(위)-수종사
+	(위)-수종사/ncn
+
+가는길
+	가는길/ncn
+
+.
+	./sf
+
+
+수종사
+	수종사/ncn
+
+가는길은
+	가는길/ncn+은/jxc
+
+너무너무
+	너무너무/mag
+
+운치있는
+	운치/ncn+있/xsmn+는/etm
+
+길입니다
+	길/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+가을에
+	가을/ncn+에/jca
+
+좋은사람들이랑
+	좋은사람들이랑/ncn
+
+같이
+	같/paa+이/xsa
+
+가보시면
+	가/pvg+아/ecx+보/px+시/ep+면/ecs
+
+참~좋겠지요~
+	참~좋겠지요/ncn+~/sd
+
+
+(위)-수종사풍경
+	(위)-수종사풍경/ncn
+
+.
+	./sf
+
+
+화려하지않고
+	화/ncn+이/jp+리/ep+어/ecx+하/px+지/ecx+않/px+고/ecc
+
+소박해보이는
+	소박/ncps+하/xsms+어/ecx+보이/px+는/etm
+
+절집이
+	절집/ncn+이/jcc
+
+정이많이가는
+	정이많이가/ncn+는/jxc
+
+풍경이다
+	풍경/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-대웅전
+	(/sl+위/ncn+)/sr+-/sd+대웅전/ncn
+
+.
+	./sf
+
+
+(위)-산신각과
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+각/ncn+과/jcj
+
+약사전
+	약사전/ncn
+
+.
+	./sf
+
+
+왼쪽이
+	왼쪽/ncn+이/jcc
+
+산신각이고
+	산신/ncn+각/ncn+이/jp+고/ecc
+
+오른쪽이
+	오르/pvg+ㄴ/etm+쪽/nbn+이/jcc
+
+약사전이다
+	약사전/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-산신각과
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+각/ncn+과/jcj
+
+산신님
+	산신/ncn+님/ncn
+
+.
+	./sf
+
+
+수종사에는
+	수종사/ncn+에/jca+는/jxc
+
+따로이
+	따로이/mag
+
+산신각을
+	산신/ncn+각/ncn+을/jco
+
+모셨다
+	모시/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+산신님
+	산신/ncn+님/ncn
+
+표정도
+	표정/ncn+도/jxc
+
+너무좋고~~
+	너무좋/ncn+고/jcj+~/sd+~/sd
+
+
+(위)-산신각의
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+각/ncn+의/jcm
+
+유래
+	유/ncn+이/jp+래/ef
+
+.
+	./sf
+
+
+이러한
+	이러하/pad+ㄴ/etm
+
+이유때문에
+	이유때문/ncn+에/jca
+
+찬누리는
+	찬누리/ncn+는/jxc
+
+절집에가면
+	절집에가/ncn+이/jp+면/ecs
+
+산신각을
+	산신/ncn+각/ncn+을/jco
+
+우선해서
+	우선/ncpa+하/xsva+어서/ecs
+
+인사를
+	인사/ncn+를/jco
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+처음
+	처음/mag
+
+불교가
+	불교/ncn+가/jcs
+
+우리나라에
+	우리나라/ncn+에/jca
+
+들어올때는
+	들/pvg+어/ecx+오/px+ㄹ/etm+때/nbn+는/jxc
+
+포교의
+	포교/ncpa+의/jcm
+
+목적으로
+	목적/ncn+으로/jca
+
+산신각을
+	산신/ncn+각/ncn+을/jco
+
+따로
+	따로/mag
+
+모셨는데
+	모/nbu+이/jp+셨/ep+는데/ecs
+
+
+지금에
+	지금/ncn+에/jca
+
+와서는
+	오/px+아/ef+는/etm
+
+삼성각
+	삼성/ncn+각/ncn
+
+이라하여부처님을
+	이라하여부처님/ncn+을/jco
+
+가운데
+	가운데/ncn
+
+모시고
+	모시/pvg+고/ecc
+
+산신님은
+	산신/ncn+님/ncn+은/jxc
+
+한쪽옆에
+	한쪽/ncn+옆/ncn+에/jca
+
+모시는
+	모시/pvg+는/etm
+
+...
+	.../se
+
+
+물론
+	물론/mag
+
+일부
+	일/nnc+부/nbu
+
+사찰에서는
+	사찰/ncn+에서/jca+는/jxc
+
+아직도
+	아직/mag+도/jxc
+
+산신각을
+	산신/ncn+각/ncn+을/jco
+
+따로
+	따로/mag
+
+모시는
+	모시/pvg+는/etm
+
+절집이
+	절집/ncn+이/jcc
+
+있기는
+	있/px+기/etn+는/jxc
+
+하지만
+	하지만/maj
+
+
+그것은
+	그것/npd+은/jxc
+
+극히
+	극히/mag
+
+일부이고
+	일/nnc+부/nbu+이/jp+고/ecc
+
+...
+	.../se
+
+
+(위)-약사전과
+	(/sl+위/ncn+)/sr+-/sd+약사전/ncn+과/jcj
+
+부처님
+	부처님/ncn
+
+.
+	./sf
+
+
+수종사에는
+	수종사/ncn+에/jca+는/jxc
+
+다른
+	다르/paa+ㄴ/etm
+
+절집과는
+	절집/ncn+과/jct+는/jxc
+
+조금
+	조금/mag
+
+다르게
+	다르/paa+게/ecs
+
+약사전을
+	약사전/ncn+을/jco
+
+모셨다
+	모시/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+(위)-응진전
+	(/sl+위/ncn+)/sr+-/sd+응진/ncn+전/ncn
+
+.
+	./sf
+
+
+(위)-선불장
+	(/sl+위/ncn+)/sr+-/sd+선불/ncpa+장/ncn
+
+.
+	./sf
+
+
+(위)-삼정헌
+	(위)-삼정헌/ncn
+
+.
+	./sf
+
+
+절집을
+	절집/ncn+을/jco
+
+차는이들에게
+	차는이들에/ncn+이/jp+게/ecs
+
+차를
+	차/ncn+를/jco
+
+대접하는
+	대접/ncpa+하/xsva+는/etm
+
+찻집이다
+	찻집/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-범종각
+	(/sl+위/ncn+)/sr+-/sd+범종/ncn+각/ncn
+
+.
+	./sf
+
+
+(위)-부도와
+	(/sl+위/ncn+)/sr+-/sd+부도/ncn+와/jcj
+
+오층석탑
+	오층석탑/ncn
+
+.
+	./sf
+
+
+(위)-수종사
+	(위)-수종사/ncn
+
+은행나무
+	은행/ncn+나무/ncn
+
+.
+	./sf
+
+
+(위)-수종사에서보는
+	(위)-수종사에서보/ncn+는/jxc
+
+두물머리
+	두물머리/ncn
+
+풍경이
+	풍경/ncn+이/jcc
+
+너무도
+	너무/mag+도/jxc
+
+예쁘다
+	예쁘/paa+다/ef
+
+.
+	./sf
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+수종사는
+	수종사/ncn+는/jxc
+
+많은
+	많/paa+은/etm
+
+설명이
+	설명/ncpa+이/jcc
+
+필요없을만큼
+	필요/ncps+없/xsmn+을/etm+만큼/nbn
+
+좋은
+	좋/paa+은/etm
+
+절집이다
+	절집/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+절집의
+	절집/ncn+의/jcm
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+건물들이
+	건물/ncn+들/ncn+이/jcc
+
+더욱더
+	더욱더/mag
+
+정감이있다
+	정감/ncn+이/ncn+있/xsmn+다/ef
+
+.
+	./sf
+
+
+절집을
+	절집/ncn+을/jco
+
+찾아가는
+	찾/pvg+아/ecx+가/px+는/etm
+
+들머리부터
+	들머리/ncn+부터/jxc
+
+너무
+	너무/mag
+
+운치있는
+	운치/ncn+있/xsmn+는/etm
+
+계절을
+	계절/ncn+을/jco
+
+만날수
+	만나/pvg+ㄹ/etm+수/nbn
+
+있어서
+	있/px+어서/ecs
+
+더욱좋다
+	더욱좋다/ncn
+
+.
+	./sf
+
+
+마당에서
+	마당/ncn+에서/jca
+
+내려다
+	내리/pvg+어다/ecs
+
+보이는
+	보이/pvg+는/etm
+
+두물머리의
+	두물머리/ncn+의/jcm
+
+풍경은
+	풍경/ncn+은/jxc
+
+가히
+	가히/mag
+
+...
+	.../se

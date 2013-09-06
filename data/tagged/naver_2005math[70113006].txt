@@ -1,0 +1,386 @@
+양평군,
+	양평군,/ncn
+
+지제면
+	지제/ncn+이/jp+면/ecs
+
+노곡마을
+	노곡마/ncn+을/jco
+
+.
+	./sf
+
+
+노곡마을
+	노곡마/ncn+이/jp+ㄹ/etm
+
+수리봉
+	수리/ncn+봉/ncn
+
+가는
+	가/pvg+는/etm
+
+길에는
+	길/ncn+에/jca+는/jxc
+
+잣나무
+	잣나무/ncn
+
+숲이
+	숲/ncn+이/jcc
+
+있고
+	있/px+고/ecc
+
+이름
+	이름/ncn
+
+모를
+	모르/pvg+ㄹ/etm
+
+버섯이
+	버섯/ncn+이/jcc
+
+엄청나게
+	엄청나/paa+게/ecs
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+노곡마을
+	노곡마/ncn+이/jp+ㄹ/etm
+
+산골짜기
+	산골짜기/ncn
+
+깊은
+	깊/paa+은/etm
+
+곳까지
+	곳/ncn+까지/jxc
+
+시멘트길로
+	시멘트/ncn+길/ncn+로/jca
+
+포장되어
+	포장/ncpa+되/xsvn+어/ecx
+
+있어서흙먼지
+	있어서흙먼지/ncn
+
+풀풀
+	풀풀/mag
+
+나는
+	나/npp+는/jxc
+
+오솔길
+	오솔길/ncn
+
+정취는
+	정취/ncn+는/jxc
+
+없어졌다만
+	없어졌다/ncn+만/jxc
+
+
+그런대로
+	그런대/ncn+로/jca
+
+사람
+	사람/ncn
+
+사는
+	사/pvg+는/etm
+
+냄새가
+	냄새/ncn+가/jcs
+
+나는
+	나/px+는/etm
+
+시골마을이다
+	시골/ncn+마을/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+아침
+	아침/ncn
+
+풍경과
+	풍경/ncn+과/jcj
+
+여름꽃,
+	여름/ncn+꽃/ncn+,/sp
+
+그리고
+	그리고/maj
+
+버섯
+	버섯/ncn
+
+...
+	.../se
+
+
+물봉선
+	물봉/ncn+선/jxc
+
+
+고마리
+	고마리/ncn
+
+위에
+	위/ncn+에/jca
+
+앉은
+	앉/pvg+은/etm
+
+곤충
+	곤충/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+마리
+	마리/nbu
+
+
+참취
+	참/xp+취/ncn
+
+
+꽃범의
+	꽃범/ncn+의/jcm
+
+꼬리
+	꼬리/ncn
+
+
+이름
+	이름/ncn
+
+모를
+	모르/pvg+ㄹ/etm
+
+버섯들
+	버섯/ncn+들/ncn
+
+
+어른
+	어른/ncn
+
+손바닥
+	손바닥/ncn
+
+두
+	두/nnc
+
+개를
+	개/nbu+를/jco
+
+합친
+	합치/pvg+ㄴ/etm
+
+만큼
+	만큼/nbn
+
+큰
+	크/paa+ㄴ/etm
+
+버섯도
+	버섯/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+흰
+	희/paa+ㄴ/etm
+
+솜으로
+	솜/ncn+으로/jca
+
+덮은
+	덮/pvg+은/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+이
+	이/mmd
+
+버섯의
+	버섯/ncn+의/jcm
+
+정체는
+	정체/ncn+는/jxc
+
+?
+	?/sf
+
+
+마타하리
+	마타하/ncn+이/jp+리/ef
+
+
+과꽃
+	과꽃/ncn
+
+.
+	./sf
+
+
+올해도
+	올해/ncn+도/jxc
+
+과-꽃이
+	과/ncn+-/sd+꽃/ncn+이/jcc
+
+피-었습니다
+	피-었습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+꽃밭
+	꽃밭/ncn
+
+가득
+	가득/mag
+
+예-쁘게
+	예-쁘/ncn+이/jp+게/ecs
+
+피었습니다
+	피/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+?
+	?/sf
+
+
+잔대
+	잔/nbu+대/xsnu
+
+
+고마리가
+	고마리/ncn+가/jcs
+
+꽃봉오리를
+	꽃봉오리/ncn+를/jco
+
+연
+	열/pvg+ㄴ/etm
+
+모습은
+	모습/ncn+은/jxc
+
+보기
+	보/px+기/etn
+
+힘들다
+	힘들/pvg+다/ef
+
+.
+	./sf
+
+
+수리봉
+	수리/ncn+봉/ncn
+
+가는길에
+	가는길/ncn+에/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+이정표
+	이정표/ncn
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+길
+	길/ncn
+
+뒤로
+	뒤/ncn+로/jca
+
+조금
+	조금/mag
+
+가다가
+	가/pvg+아/ecx+가/px+아/ecx
+
+잣나무
+	잣나무/ncn
+
+숲
+	숲/ncn
+
+버섯군락지에서
+	버섯군락지/ncn+에서/jca
+
+길이
+	길/ncn+이/jcc
+
+끊겼다
+	끊기/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+산행을
+	산행/ncn+을/jco
+
+시작할
+	시작/ncpa+하/xsva+ㄹ/etm
+
+때나랑
+	때/nbn+이/jp+나/ecs+랑/jxc
+
+마주쳤던
+	마주치/pvg+었/ep+던/etm
+
+할머니가빈
+	할머니가빈/ncn
+
+배낭을
+	배낭/ncn+을/jco
+
+매고
+	매/pvg+고/ecc
+
+가을걷이를
+	가을걷이/ncpa+를/jco
+
+하러
+	하/pvg+러/ecs
+
+집을
+	집/ncn+을/jco
+
+나서는가보다
+	나서/pvg+는가/ecs+보다/jxc
+
+.
+	./sf

@@ -1,0 +1,792 @@
+"다이어트
+	"/sl+다이어트/ncpa
+
+용
+	용/ncn
+
+하드롤
+	하드/ncn+롤/ncn
+
+빵"
+	빵/ncn+"/sr
+
+
+열량이
+	열량/ncn+이/jcc
+
+높지
+	높/paa+지/ecx
+
+않아
+	않/px+아/ecx
+
+많이
+	많/paa+이/xsa
+
+먹어도
+	먹/pvg+어도/ecs
+
+살찔
+	살찌/pvg+ㄹ/etm
+
+염려가
+	염려/ncpa+가/jcc
+
+없다죵
+	없다죵/ncn
+
+...
+	.../se
+
+
+재료를
+	재료/ncn+를/jco
+
+보시면
+	보/px+시/ep+면/ecs
+
+금방
+	금방/mag
+
+아시게
+	알/pvg+시/ep+게/ecs
+
+되겠지만요
+	되/pvg+겠/ep+지/ecs+만요/jxc
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+재료
+	재료/ncn
+
+:
+	:/sp
+
+강력분
+	강력/ncn+분/ncn
+
+1650g,
+	1650g,/ncn
+
+물
+	물/pvg+ㄹ/etm
+
+974s,
+	974s,/ncn
+
+이스트
+	이스트/ncn
+
+62s,
+	62s,/ncn
+
+개량제
+	개량/ncpa+제/ncn
+
+12s,
+	12s,/ncn
+
+소금
+	소금/ncn
+
+28s,
+	28s,/ncn
+
+설탕
+	설탕/ncn
+
+34s,
+	34s/ncn+,/sp
+
+
+버터34s,
+	버터34s,/ncn
+
+흰자(1개)
+	흰자(1개)/ncn
+
+49s,
+	49s,/ncn
+
+탈지분유
+	탈지분유/ncn
+
+16s,
+	16s/ncn+,/sp
+
+
+버터제외한
+	버터/ncn+제외/ncpa+하/xsva+ㄴ/etm
+
+전
+	전/nbn
+
+재료를
+	재료/ncn+를/jco
+
+믹싱
+	믹싱/ncn
+
+볼에
+	볼/ncn+에/jca
+
+넣어
+	넣/pvg+어/ecx
+
+주세요
+	주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+1단
+	1/nnc+단/nbu
+
+믹싱으로
+	믹싱/ncn+으로/jca
+
+돌리다가
+	돌리/pvg+다가/ecs
+
+재료가
+	재료/ncn+가/jcs
+
+어느정도뭉쳐지면
+	어느정도뭉쳐지/ncn+이/jp+면/ecs
+
+
+버터넣어
+	버터넣어/ncn
+
+3단
+	3/nnc+단/nbu
+
+믹싱으로
+	믹싱/ncn+으로/jca
+
+돌리세요
+	돌리/pvg+세/ef+요/jxf
+
+.
+	./sf
+
+
+버터가
+	버터/ncn+가/jcs
+
+반죽에
+	반죽/ncpa+에/jca
+
+섞였으면
+	섞이/pvg+었/ep+으면/ecs
+
+
+4단
+	4/nnc+단/nbu
+
+믹싱으로
+	믹싱/ncn+으로/jca
+
+발전단계
+	발전단계/ncn
+
+말기까지
+	말/px+기/etn+까지/jxc
+
+돌리구요
+	돌리구요/ncn
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+단계는
+	단계/ncn+는/jxc
+
+반죽을
+	반죽/ncpa+을/jco
+
+떼어내어
+	떼/pvg+어/ecx+내/px+어/ecx
+
+살짝
+	살짝/mag
+
+펴
+	피/pvg+어/ecx
+
+보았을
+	보/px+아/ep+ㄹ/etm
+
+때
+	때/ncn
+
+
+막이
+	막/ncn+이/jcc
+
+조금
+	조금/mag
+
+생기는
+	생기/pvg+는/etm
+
+정도예요
+	정도/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+그럼
+	그렇/pad+ㅁ/etn
+
+얼굴(윗부분면)을
+	얼굴(윗부분면)/ncn+을/jco
+
+잘
+	잘/mag
+
+만들어
+	만들/pvg+어/ecx
+
+발효실에
+	발효/ncpa+실/ncn+에/jca
+
+넣어
+	넣/pvg+어/ecx
+
+주세요.
+	주/px+세/ef+요/jxf+./sf
+
+40~60분
+	40/nnc+~/sd+60/nnc+분/nbu
+
+정도
+	정도/ncn
+
+
+시간
+	시간/nbu
+
+보다가는
+	보/px+다가/ecs+는/jxc
+
+상태가
+	상태/ncn+가/jcs
+
+중요하니
+	중요/ncps+하/xsms+니/ecs
+
+상태로
+	상태/ncn+로/jca
+
+확인해
+	확인/ncpa+하/xsva+어/ecx
+
+주세요
+	주/px+세/ef+요/jxf
+
+...
+	.../se
+
+
+가장자리를
+	가장/ncn+자리/ncn+를/jco
+
+살짝
+	살짝/mag
+
+당겨
+	당기/pvg+어/ecx
+
+보아서
+	보/pvg+아/ecx
+
+그물형태일
+	그물/ncn+형태/ncn+이/jp+ㄹ/etm
+
+때
+	때/ncn
+
+
+처음
+	처음/mag
+
+반죽의
+	반죽/ncpa+의/jcm
+
+3배
+	3/nnc+배/nbu
+
+크기일
+	크/paa+기/etn+이/jp+ㄹ/etm
+
+때
+	때/ncn
+
+꺼내시면
+	꺼내/pvg+시/ep+면/ecs
+
+되어요
+	되/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+1차
+	1/nnc+차/nbu
+
+발효
+	발효/ncpa
+
+끝난
+	끝나/pvg+ㄴ/etm
+
+반죽은50g으로
+	반죽은50g/ncn+으로/jca
+
+분할해서
+	분할/ncpa+해서/ncn
+
+
+사진처럼
+	사진/ncn+처럼/jca
+
+동글하게둥글리기
+	동글하게둥글리/ncn+이/jp+기/etn
+
+하시구요
+	하시구요/ncn
+
+.
+	./sf
+
+
+중간발효
+	중간/ncn+발효/ncpa
+
+10~15분을
+	10/nnc+~/sd+15/nnc+분/nbu+을/jco
+
+하세요
+	하/px+세/ef+요/jxf
+
+...
+	.../se
+
+
+이때는
+	이때/ncn+는/jxc
+
+실온에서
+	실온/ncn+에서/jca
+
+하시면
+	하/px+시/ep+면/ecs
+
+되어요
+	되/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+단
+	단/mma
+
+비닐을
+	비닐/ncn+을/jco
+
+덮어
+	덮/pvg+어/ecx
+
+두세요
+	두/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+중간
+	중간/ncn
+
+발효
+	발효/ncpa
+
+마치고나면
+	마치/pvg+고/ecx+나/px+면/ecs
+
+다시
+	다시/mag
+
+한
+	하/pvg+ㄴ/etm
+
+번
+	번/nbu
+
+둥굴리기
+	둥굴리/ncn+이/jp+기/etn
+
+해
+	하/pvg+어/ecx
+
+준
+	주/px+ㄴ/etm
+
+다음
+	다음/ncn
+
+
+꼬집기로
+	꼬집/pvg+기/etn+로/jca
+
+이음을
+	이/pvg+ㅁ/etn+을/jco
+
+봉하고
+	봉하/pvg+고/ecc
+
+
+2차
+	2/nnc+차/nbu
+
+발효
+	발효/ncpa
+
+들어
+	들/pvg+어/ecx
+
+가세요
+	가/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+40~50분이고
+	40/nnc+~/sd+50/nnc+분/nbu+이/jp+고/ecc
+
+3배
+	3/nnc+배/nbu
+
+크지면
+	크/paa+어/ecx+지/px+면/ecs
+
+꺼내어서
+	꺼내/pvg+어서/ecs
+
+
+캇다칼
+	캇다칼/ncn
+
+날에
+	날/ncn+에/jca
+
+물
+	물/pvg+ㄹ/etm
+
+찍어
+	찍/pvg+어/ecx
+
+윗면을
+	윗면/ncn+을/jco
+
+-,
+	-/sd+,/sp
+
+=,
+	=/sy+,/sp
+
++
+	+/ncn
+
+등으로
+	등/nbu+으로/jca
+
+칼집을
+	칼집/ncn+을/jco
+
+살짝
+	살짝/mag
+
+내어
+	내/pvg+어/ecx
+
+주구요
+	주구/ncn+요/ncn
+
+.
+	./sf
+
+
+칼집을낼
+	칼집을낼/ncn
+
+때,
+	때/nbn+,/sp
+
+
+칼집
+	칼집/ncn
+
+깊이는
+	깊이/ncn+는/jxc
+
+아주
+	아주/mag
+
+얇게0.
+	얇게0./ncn
+
+1cm로내고
+	1cm로내/ncn+고/jcj
+
+
+분무기로
+	분무기/ncn+로/jca
+
+물을
+	물/ncn+을/jco
+
+충분히뿌려서
+	충분히뿌려서/ncn
+
+오븐에
+	오븐/ncn+에/jca
+
+넣어
+	넣/pvg+어/ecx
+
+주세요
+	주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+오븐
+	오븐/ncn
+
+온도는상
+	온도는상/ncn
+
+210도,
+	210/nnc+도/jxc+,/sp
+
+하
+	하/pvg+어/ecx
+
+170
+	170/nnc
+
+도로
+	도/ncn+로/jca
+
+하고,
+	하/pvg+고/ecc+,/sp
+
+
+시간은
+	시간/nbu+은/jxc
+
+대충30~35분
+	대충30~35분/ncn
+
+정도
+	정도/ncn
+
+걸렸어요
+	걸리/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+오븐에
+	오븐/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+조금
+	조금/mag
+
+다를
+	다르/paa+ㄹ/etm
+
+수있어요
+	수/nbn+있/xsmn+어/ef+요/jxf
+
+.
+	./sf
+
+
+진갈색을
+	진갈색/ncn+을/jco
+
+띄면
+	띄/pvg+면/ecs
+
+꺼내면
+	꺼내/pvg+면/ecs
+
+되어요
+	되/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+더위에
+	더위/ncn+에/jca
+
+오븐
+	오븐/ncn
+
+앞에서
+	앞/ncn+에서/jca
+
+샤워를
+	샤워/ncpa+를/jco
+
+했지만,
+	하/pvg+었/ep+지만/ecs+,/sp
+
+
+구수하게
+	구수/ncpa+하/xsva+게/ecs
+
+구워진
+	굽/pvg+어/ecx+지/px+ㄴ/etm
+
+하드롤
+	하드/ncn+롤/ncn
+
+빵의
+	빵/ncn+의/jcm
+
+동글하고
+	동글하/ncn+이/jp+고/ecc
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+모습에
+	모습/ncn+에/jca
+
+
+미소가
+	미소/ncn+가/jcs
+
+담겨져
+	담겨지/pvg+어/ecx
+
+있는지
+	있/paa+는지/ecc
+
+
+기분
+	기분/ncn
+
+좋아서
+	좋/paa+아/ecx
+
+즐거운
+	즐겁/paa+은/etm
+
+시간
+	시간/nbu
+
+되었다지요
+	되었다/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+재료도
+	재료/ncn+도/jxc
+
+간단하고,
+	간단/ncps+하고/jcj+,/sp
+
+
+만드는
+	만들/pvg+는/etm
+
+방법도
+	방법/ncn+도/jxc
+
+간단하고,
+	간단/ncps+하고/jcj+,/sp
+
+
+먹을
+	먹/pvg+을/etm
+
+때도
+	때/ncn+도/jxc
+
+부담이
+	부담/ncn+이/jcc
+
+없어요
+	없/paa+어/ef+요/jxf
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+단백하게
+	단백하/ncn+이/jp+게/ecs
+
+그냥
+	그냥/mag
+
+드셔도
+	들/pvg+시/ep+어도/ecs
+
+좋지만,
+	좋/paa+지만/ecs+,/sp
+
+
+꿀이나
+	꿀/ncn+이나/jcj
+
+쨈등을
+	쨈/ncn+등/xsnx+을/jco
+
+발라
+	바르/pvg+아/ecx
+
+먹어도
+	먹/pvg+어도/ecs
+
+맛난
+	맛나/paa+ㄴ/etm
+
+'하드롤
+	'/sr+하드/ncn+롤/ncn
+
+빵'이예요
+	빵/ncn+'/sr+이/jp+예요/ef
+
+.
+	./sf

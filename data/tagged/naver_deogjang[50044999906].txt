@@ -1,0 +1,823 @@
+주
+	주/nbu
+
+소
+	소/ncn
+
+:
+	:/sp
+
+경기도
+	경기/ncn+도/jxc
+
+남양주시
+	남양주시/ncn
+
+조안면
+	조안면/ncn
+
+송촌리
+	송촌리/ncn
+
+1060
+	1060/nnc
+
+수종사
+	수종사/ncn
+
+문의576-8411
+	문의576/ncn+-/sd+8411/nnc
+
+
+가
+	가/jcs
+
+는
+	늘/pvg+ㄴ/etm
+
+길
+	길/paa+ㄹ/etm
+
+:철도
+	:/sp+철/ncn+도/jxc
+
+중앙선
+	중앙선/ncn
+
+용산에서-국수
+	용산에서-국수/ncn
+
+행
+	행/nbu
+
+을
+	을/ncn
+
+타고
+	타/pvg+고/ecc
+
+[운길산]
+	[운길산]/ncn
+
+역에서하차
+	역에서하차/ncn
+
+2번출구
+	2번출구/ncn
+
+
+버
+	버/ncn
+
+스
+	스/ncn
+
+편
+	편/nbu
+
+:청량리역앞에서-2228번.
+	:청량리역앞에서-2228번./ncn
+
+8번
+	8/nnc+번/nbu
+
+[진중삼거리]
+	[/sl+진중/ncps+삼거리/ncn+]/sr
+
+:강변역-2000번.
+	:/sp+강변/ncn+역/ncn+-/sd+2000/nnc+번/nbu+./sf
+
+2000-1번[진중삼거리
+	2000-1번/ncn+[/sl+진중/ncps+삼거리/ncn
+
+
+등산
+	등산/ncpa
+
+코스
+	코스/ncn
+
+:운길산
+	:운길산/ncn
+
+역에서
+	역/ncn+에서/jca
+
+우측으로50m가면
+	우측으로50m가/ncn+이/jp+면/ecs
+
+중앙선
+	중앙선/ncn
+
+철길
+	철길/ncn
+
+밑을지나
+	밑을지/ncn+나/jcj
+
+약200m더
+	약200m더/ncn
+
+지나면
+	지나/pvg+면/ecs
+
+운길산610m
+	운길산610m/ncn
+
+
+정상에
+	정상/ncn+에/jca
+
+직접
+	직접/mag
+
+가는코스
+	가는코스/ncn
+
+와
+	오/pvg+아/ecx
+
+[수송사]를
+	[수송사]/ncn+를/jco
+
+거처
+	거처/ncn
+
+정상에
+	정상/ncn+에/jca
+
+오르는
+	오르/pvg+는/etm
+
+길
+	길/ncn
+
+[소요시간약3시간]
+	[소요시간약3시간]/ncn
+
+제2코스
+	제2코스/ncn
+
+정상을
+	정상/ncn+을/jco
+
+
+넘으면
+	넘/pvg+으면/ecs
+
+오른쪽
+	오르/pvg+ㄴ/etm+쪽/nbn
+
+나무계단을
+	나무계단/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+능선따라
+	능선/ncn+따라/jxc
+
+예봉산
+	예봉/ncn+산/ncn
+
+을
+	을/ncn
+
+거처
+	거처/ncn
+
+[팔당]역으로
+	[/sl+팔/nnc+당/xsnu+]/sr+역/ncn+으로/jca
+
+가는코스
+	가는코스/ncn
+
+약5시간
+	약5시간/ncn
+
+
+한강
+	한강/ncn
+
+두물머리를
+	두물머리/ncn+를/jco
+
+향해
+	향하/pvg+어/ecx
+
+입질하는
+	입질하/ncn+는/jxc
+
+물고기
+	물고기/ncn
+
+머리
+	머리/ncn
+
+형국의
+	형국/ncn+의/jcm
+
+운길산
+	운길산/ncn
+
+610m은조망이
+	610m은조망/ncn+이/jcc
+
+매우빼어난
+	매우빼어난/ncn
+
+가족
+	가족/ncn
+
+산
+	산/ncn
+
+
+행지다
+	행지/ncn+이/jp+다/ef
+
+
+이곳에
+	이곳/npd+에/jca
+
+오면
+	오/px+면/ecs
+
+약100년
+	약100년/ncn
+
+전에
+	전/nbn+에/jca
+
+사용하던
+	사용/ncpa+하/xsva+던/etm
+
+농기구를
+	농기구/ncn+를/jco
+
+재현할수있다
+	재현/ncpa+하/xsva+ㄹ/etm+수/nbn+있/xsmn+다/ef
+
+[벼농사
+	[/sl+벼농사/ncpa
+
+.
+	./sf
+
+
+염전에서
+	염전/ncpa+에서/jca
+
+필요한
+	필요/ncps+하/xsms+ㄴ/etm
+
+도구들]
+	도구/ncn+들/ncn+]/sr
+
+
+운길산은
+	운길산/ncn+은/jxc
+
+서울에서
+	서울/ncn+에서/jca
+
+동쪽으로40km
+	동쪽으로40km/ncn
+
+.
+	./sf
+
+
+북한강과
+	북한강/ncn+과/jcj
+
+남한강이
+	남한강/ncn+이/jcc
+
+합류되는
+	합류/ncpa+되/xsvn+는/etm
+
+양수리에서
+	양수/ncn+리/ncn+에서/jca
+
+서북쪽으로4km
+	서북쪽으로4km/ncn
+
+
+거리에
+	거리/ncn+에/jca
+
+솟아있는
+	솟/pvg+아/ecx+있/px+는/etm
+
+산이다
+	산/ncn+이/jp+다/ef
+
+
+운길산은
+	운길산/ncn+은/jxc
+
+철도와
+	철도/ncn+와/jcj
+
+시내버스가
+	시내/ncn+버스/ncn+가/jcs
+
+연결돼
+	연결/ncpa+되/xsvn+어/ecx
+
+교통이
+	교통/ncn+이/jcc
+
+편리할
+	편리/ncps+하/xsms+ㄹ/etm
+
+뿐더러
+	뿐/nbn+더러/jca
+
+산세가
+	산세/ncn+가/jcs
+
+부드럽고
+	부드럽/paa+고/ecc
+
+등산로가
+	등산로/ncn+가/jcs
+
+순탄하여
+	순탄/ncps+하/xsms+어/ecs
+
+
+가족산행이나
+	가족/ncn+산행/ncn+이나/jcj
+
+가벼운
+	가볍/paa+은/etm
+
+주말산행에
+	주말/ncn+산행/ncn+에/jca
+
+적합하다
+	적합/ncps+하/xsms+다/ef
+
+
+운길산은
+	운길산/ncn+은/jxc
+
+북한강과
+	북한강/ncn+과/jcj
+
+남한강
+	남한강/ncn
+
+물줄기가
+	물줄기/ncn+가/jcs
+
+만나
+	만나/pvg+아/ecx
+
+한길로
+	한/nnc+길/nbu+로/jca
+
+흐르는
+	흐르/pvg+는/etm
+
+양수리의
+	양수/ncn+리/ncn+의/jcm
+
+두물머리
+	두물머리/ncn
+
+풍광을
+	풍광/ncn+을/jco
+
+제대로
+	제대로/mag
+
+조망
+	조망/ncn
+
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/paa+다/ef
+
+
+이곳
+	이곳/npd
+
+팔부
+	팔부/ncn
+
+능선에
+	능선/ncn+에/jca
+
+오르면
+	오르/pvg+면/ecs
+
+조망이
+	조망/ncn+이/jcc
+
+뛰어나
+	뛰/pvg+어/ecx+나/px+아/ecx
+
+추억을
+	추억/ncpa+을/jco
+
+간직하기
+	간직/ncpa+하/xsva+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+열심히
+	열심히/mag
+
+사진을
+	사진/ncn+을/jco
+
+찍는
+	찍/pvg+는/etm
+
+곳이기도
+	곳/nbu+이/jp+기/etn+도/jxc
+
+
+하며
+	하/pvg+며/ecc
+
+시간
+	시간/nbu
+
+적
+	적/nbn
+
+으로
+	으/ncn+로/jca
+
+점심식사
+	점심식사/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+곳을
+	곳/ncn+을/jco
+
+찻아
+	찻아/ncn
+
+옹기종기
+	옹기종기/mag
+
+모여드는
+	모여들/pvg+는/etm
+
+곳
+	곳/ncn
+
+이기도하다
+	이기도하/ncn+이/jp+다/ef
+
+
+운길산
+	운길산/ncn
+
+정상에
+	정상/ncn+에/jca
+
+서면
+	서/pvg+면/ecs
+
+예봉산으로
+	예봉/ncn+산/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+능선과
+	능선/ncn+과/jcj
+
+적갑산등이
+	적갑산등/ncn+이/jcc
+
+한눈에
+	한눈/ncn+에/jca
+
+들어온다
+	들/pvg+어/ecx+오/px+ㄴ다/ef
+
+
+이곳
+	이곳/npd
+
+개나리꽃은
+	개나리꽃/ncn+은/jxc
+
+서울
+	서울/ncn
+
+성동구
+	성동구/ncn
+
+옥수동
+	옥수/ncn+동/ncn
+
+달마지봉
+	달마지봉/ncn
+
+
+그
+	그/mmd
+
+어떠한
+	어떠하/pad+ㄴ/etm
+
+고통이나
+	고통/ncn+이나/jcj
+
+슬픔
+	슬프/paa+ㅁ/etn
+
+.
+	./sf
+
+
+곤경을
+	곤경/ncn+을/jco
+
+이겨나가는데
+	이기/pvg+어/ecx+나/px+아/ecx+가/px+ㄴ데/ecs
+
+있어서
+	있/px+어서/ecs
+
+마즈막으로
+	마즈막/ncn+으로/jca
+
+의지하는
+	의/ncn+이/jp+지/ecx+하/px+는/etm
+
+것은
+	것/nbn+은/jxc
+
+자기
+	자기/npp
+
+자신의
+	자신/ncn+의/jcm
+
+
+힘
+	힘/ncn
+
+이외에는
+	이외/ncn+에/jca+는/jxc
+
+없다-스마일즈-
+	없다-스마일즈/ncn+-/sd
+
+
+세조대왕이
+	세조대왕/ncn+이/jcc
+
+수종사를
+	수종사/ncn+를/jco
+
+중창하고
+	중창/ncpa+하고/jct
+
+기념으로
+	기념/ncpa+으로/jca
+
+식수한
+	식수/ncn+한/ncn
+
+은행나무
+	은행/ncn+나무/ncn
+
+수령550년의
+	수령550년/ncn+의/jcm
+
+나무2호
+	나무2호/ncn
+
+
+세조가
+	세/nnc+조/nbu+가/jcc
+
+신병치료차
+	신병치료/ncpa+차/ncn
+
+금강산을
+	금강/ncn+산/ncn+을/jco
+
+유람하고
+	유람/ncpa+하고/jct
+
+돌아올때
+	돌/pvg+아/ecx+오/px+ㄹ/etm+때/nbn
+
+밤이되어
+	밤이되/ncn+이/jp+어/ecs
+
+양수리에서
+	양수/ncn+리/ncn+에서/jca
+
+물
+	물/pvg+ㄹ/etm
+
+위의
+	위/ncn+의/jcm
+
+야경을
+	야경/ncn+을/jco
+
+
+감상하고
+	감상/ncn+하고/jct
+
+있는데
+	있/px+는데/ecs
+
+운길산
+	운길산/ncn
+
+어디선가
+	어디선/ncn+가/jcs
+
+은은한
+	은은/ncps+하/xsms+ㄴ/etm
+
+종소리가
+	종소리/ncn+가/jcs
+
+들려와
+	들리/pvg+어/ecx+오/px+아/ecx
+
+숲속을
+	숲속/ncn+을/jco
+
+조사해보니
+	조사/ncpa+하/xsva+어/ecx+보/px+니/ef
+
+
+천년
+	천/nnc+년/nbu
+
+고찰이
+	고찰/ncn+이/jcc
+
+있었다고한다
+	있/paa+었/ep+다고/ecx+하/px+ㄴ다/ef
+
+
+수종사
+	수종사/ncn
+
+팔각5층
+	팔각5층/ncn
+
+석탑
+	석탑/ncn
+
+[태종의
+	[태종/ncn+의/jcm
+
+첫째
+	첫째/nno
+
+후궁
+	후궁/ncn
+
+의빈
+	의빈/ncn
+
+권씨의
+	권씨/ncn+의/jcm
+
+사리를
+	사/nnc+리/nbu+를/jco
+
+모신
+	모시/pvg+ㄴ/etm
+
+부도]
+	부도/ncn+]/sr
+
+
+수종사는
+	수종사/ncn+는/jxc
+
+천년의
+	천/nnc+년/nbu+의/jcm
+
+향기를
+	향기/ncn+를/jco
+
+품고
+	품/pvg+고/ecc
+
+아름다운
+	아름답/paa+은/etm
+
+종소리를온누리에
+	종소리를온누리/ncn+에/jca
+
+울리며
+	울리/pvg+며/ecc
+
+역사속으로
+	역사/ncn+속/ncn+으로/jca
+
+걸어온
+	걸/pvg+어/ecx+오/px+ㄴ/etm
+
+
+셈이다
+	셈/nbn+이/jp+다/ef
+
+수종사는
+	수종사/ncn+는/jxc
+
+신라때
+	신/xp+라/ncn+때/xsnx
+
+지은
+	지/px+ㄴ/etm
+
+고사[
+	고사[/ncn
+
+]인데
+	]/sr+이/jp+ㄴ데/ecs
+
+절에는
+	절/ncn+에/jca+는/jxc
+
+샘이
+	샘/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+돌
+	돌/pvg+ㄹ/etm
+
+틈으로
+	틈/ncn+으로/jca
+
+흘러나와
+	흐르/pvg+어/ecx+나/px+아/ecx+오/px+아/ecx
+
+땅에
+	땅/ncn+에/jca
+
+
+떨어지면서
+	떨어지/pvg+면서/ecc
+
+종소리를
+	종소리/ncn+를/jco
+
+낸다
+	내/px+ㄴ다/ef
+
+-유수종사기[다산
+	-유수종사기[다산/ncn
+
+정약용]
+	정약용/ncn+]/sr
+
+
+초의,다산,추사의
+	초의,다산,추사/ncn+의/jcm
+
+걸음은
+	걸/pvg+ㅁ/etn+은/jxc
+
+,610m
+	,610m/ncn
+
+에
+	에/pvg+어/ecx
+
+멈추고
+	멈추/pvg+고/ecc
+
+세조의
+	세/nnc+조/nbu+의/jcm
+
+을
+	을/ncn
+
+재촉케
+	재촉케/ncn
+
+하였다
+	하/pvg+었/ep+다/ef

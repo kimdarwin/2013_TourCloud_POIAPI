@@ -1,0 +1,107 @@
+통영,
+	통영,/ncn
+
+그
+	그/mmd
+
+곳
+	곳/ncn
+
+못
+	못/mag
+
+가봤어요
+	가/pvg+아/ecx+보/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+통영,그
+	통영,그/ncn
+
+곳
+	곳/ncn
+
+꼭
+	꼭/mag
+
+가고파요
+	가고파요/ncn
+
+.
+	./sf
+
+
+한반도
+	한/nnc+반/nbu+도/jxc
+
+남쪽으로의
+	남쪽/ncn+으로/jca+의/jcm
+
+여행,
+	여행/ncpa+,/sp
+
+
+늘
+	늘/pvg+ㄹ/etm
+
+마음뿐이지
+	마음/ncn+뿐/xsnx+이/jp+지/ecs
+
+실행에
+	실행/ncpa+에/jca
+
+옮기지
+	옮기/pvg+지/ecx
+
+못하고
+	못하/px+고/ecc
+
+있었는데
+	있/paa+었/ep+는데/ecs
+
+
+이벤트에
+	이벤트/ncn+에/jca
+
+당첨되어
+	당첨/ncn+되/xsvn+어/ecx
+
+통영
+	통영/ncn
+
+땅을
+	땅/ncn+을/jco
+
+밟아봤으면
+	밟/pvg+아/ecx+보/px+아/ep+면/ecs
+
+좋겠습니다
+	좋/paa+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+http://korean.
+	http/f+:/sp+//sp+//sp+korean/f+./sy
+
+visitkorea.
+	visitkorea/f+./sy
+
+or.
+	or/f+./sy
+
+kr/kor/trvl/front/event/teaser/TeaserMain.
+	kr/f+//sp+kor/f+//sp+trvl/f+//sp+front/f+//sp+event/f+//sp+teaser/f+//sp+TeaserMain/f+./sy
+
+html
+	html/f
+
+
+여러분도
+	여러/nnc+분/nbu+도/jxc
+
+도전해보시지요~~~
+	도전/ncpa+하/xsva+어/ecx+보/px+시/ep+지요/ef+~/sd+~/sd+~/sd

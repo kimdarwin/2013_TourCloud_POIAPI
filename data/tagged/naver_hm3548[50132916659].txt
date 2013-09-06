@@ -1,0 +1,1493 @@
+10
+	10/nnc
+
+.
+	./sf
+
+
+나고야
+	나/npp+이/jp+고야/ecs
+
+비즈니스
+	비즈니스/ncn
+
+호텔
+	호텔/ncn
+
+'치산
+	'/sr+치산/ncpa
+
+인
+	일/pvg+ㄴ/etm
+
+나고야(
+	나고야(/ncn
+
+)'
+	)/sr+'/sl
+
+
+치산
+	치산/ncpa
+
+인
+	일/pvg+ㄴ/etm
+
+나고야
+	나/npp+이/jp+고야/ecs
+
+호텔정보
+	호텔/ncn+정보/ncn
+
+
+-
+	-/sd
+
+호텔명
+	호텔/ncn+명/ncn
+
+:
+	:/sp
+
+치산
+	치산/ncpa
+
+인
+	일/pvg+ㄴ/etm
+
+나고야(Chisun
+	나고야(Chisun/ncn
+
+Inn
+	Inn/f
+
+Nagoya)-
+	Nagoya/f+)/sr+-/sd
+
+호텔
+	호텔/ncn
+
+주소
+	주소/ncn
+
+:
+	:/sp
+
+1-12-8
+	1/nnc+-12/nnc+-8/nnc
+
+-
+	-/sd
+
+등급
+	등급/nbu
+
+:
+	:/sp
+
+비즈니스
+	비즈니스/ncn
+
+호텔
+	호텔/ncn
+
+-
+	-/sd
+
+체크인
+	체크인/ncn
+
+/
+	//sp
+
+체크아웃
+	체크아웃/ncpa
+
+시간
+	시간/nbu
+
+:
+	:/sp
+
+15:00
+	15/nnc+:/sp+00/nnc
+
+/
+	//sp
+
+11:00
+	11/nnc+:/sp+00/nnc
+
+-
+	-/sd
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+solarehotels.
+	solarehotels/f+./sy
+
+com/chisun/inn-nagoya/
+	com/f+//sp+chisun/f+//sp+inn/f+-/sd+nagoya/f+//sp
+
+?
+	?/sf
+
+
+nid=TKI_CINag
+	nid=TKI_CINag/ncn
+
+-
+	-/sd
+
+가는방법
+	가는방법/ncn
+
+:
+	:/sp
+
+JR나고야역
+	JR나고야역/ncn
+
+타이코도리에서
+	타이코도리/ncn+에서/jca
+
+도보
+	도보/ncpa
+
+4분,메이테츠선
+	4분,메이테츠선/ncn
+
+나고야역,
+	나고야역,/ncn
+
+긴테츠
+	긴테츠/ncn
+
+나고야역에서
+	나고야역/ncn+에서/jca
+
+도보
+	도보/ncpa
+
+8분
+	8/nnc+분/nbu
+
+
+오이가와
+	오이가/ncn+와/jcj
+
+철도의
+	철도/ncn+의/jcm
+
+SL열차와
+	SL/f+열차/ncn+와/jcj
+
+마음까지
+	마음/ncn+까지/jxc
+
+훈훈해지는
+	훈훈해지/pvg+는/etm
+
+기차
+	기차/ncn
+
+여행을
+	여행/ncpa+을/jco
+
+하고,
+	하/pvg+고/ecc+,/sp
+
+JR을
+	JR/f+을/jco
+
+타고
+	타/pvg+고/ecc
+
+나고야로
+	나고야/ncn+로/jca
+
+이동,
+	이동/ncn+,/sp
+
+
+카나야역
+	카나야역/ncn
+
+-
+	-/sd
+
+하마마츠역,
+	하마마츠역,/ncn
+
+하마마츠역
+	하마마츠역/ncn
+
+-
+	-/sd
+
+도요하시역,
+	도요/ncn+하시/ncn+역/ncn+,/sp
+
+도요하시역
+	도요/ncn+하시/ncn+역/ncn
+
+-
+	-/sd
+
+나고야역
+	나고야역/ncn
+
+(요금
+	(/sl+요금/ncn
+
+2,520엔
+	2,520/nnc+엔/nbu
+
+,
+	,/sp
+
+소요시간
+	소요시간/ncn
+
+2시간
+	2/nnc+시간/nbu
+
+32분)
+	32/nnc+분/nbu+)/sr
+
+
+나고야에
+	나고야/ncn+에/jca
+
+갈
+	가/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+마다
+	마다/ncpa
+
+이용했던
+	이용/ncpa+하/xsva+었/ep+던/etm
+
+저렴한
+	저렴/ncn+한/ncn
+
+체인
+	체/ncn+이/jp+ㄴ/etm
+
+음식점에서
+	음식/ncn+점/ncn+에서/jca
+
+저녁식사를
+	저녁식사/ncpa+를/jco
+
+하고
+	하/pvg+고/ecc
+
+예약되어
+	예약/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+호텔로
+	호텔/ncn+로/jca
+
+갑니다
+	가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+호텔은
+	호텔/ncn+은/jxc
+
+JR나고야역
+	JR나고야역/ncn
+
+타이코도리
+	타이코도리/ncn
+
+출구에서
+	출구/ncn+에서/jca
+
+도보
+	도보/ncpa
+
+4분
+	4/nnc+분/nbu
+
+.
+	./sf
+
+
+2010년
+	2010/nnc+년/nbu
+
+4월
+	4/nnc+월/nbu
+
+나고야에
+	나고야/ncn+에/jca
+
+왔을
+	오/px+아/ep+ㄹ/etm
+
+때
+	때/ncn
+
+아스트리아
+	아스트리아/ncn
+
+호텔에
+	호텔/ncn+에/jca
+
+몇일,
+	몇/nnc+일/nbu+,/sp
+
+치산
+	치산/ncpa
+
+인
+	일/pvg+ㄴ/etm
+
+나고야에
+	나고야/ncn+에/jca
+
+몇일
+	몇/nnc+일/nbu
+
+묵었던
+	묵/pvg+었/ep+던/etm
+
+곳이라
+	곳/nbu+이라/jca
+
+
+호텔로
+	호텔/ncn+로/jca
+
+걸어가며
+	걷/pvg+어/ecx+가/px+며/ecc
+
+2010년의
+	2010/nnc+년/nbu+의/jcm
+
+여행
+	여행/ncpa
+
+기억이
+	기억/ncpa+이/jcc
+
+새록
+	새록/ncn
+
+새록
+	새록/ncn
+
+떠오릅니다
+	떠오르/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+벚꽃이
+	벚꽃/ncn+이/jcc
+
+한창일때라
+	한창/ncn+이/jp+ㄹ/etm+때/nbn+이/jp+라/ecs
+
+너무
+	너무/mag
+
+너무
+	너무/mag
+
+아름다웠더랬죠
+	아름다웠더랬죠/ncn
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+암튼
+	암튼/ncn
+
+!
+	!/sf
+
+
+치산
+	치산/ncpa
+
+인
+	일/pvg+ㄴ/etm
+
+나고야
+	나/npp+이/jp+고야/ecs
+
+호텔에
+	호텔/ncn+에/jca
+
+도착
+	도착/ncpa
+
+.
+	./sf
+
+
+치산
+	치산/ncpa
+
+인
+	일/pvg+ㄴ/etm
+
+나고야
+	나/npp+이/jp+고야/ecs
+
+프론트로비
+	프론트/ncn+로비/ncn
+
+
+호텔바우처를
+	호텔바우처/ncn+를/jco
+
+프론트에
+	프론트/ncn+에/jca
+
+쓰윽-
+	쓰윽-/ncn
+
+내밀며
+	내밀/pvg+며/ecc
+
+체크인을
+	체크인/ncn+을/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+프론트에서
+	프론트/ncn+에서/jca
+
+준
+	주/px+ㄴ/etm
+
+숙박카드
+	숙박/ncpa+카드/ncn
+
+작성(간단하게
+	작성(간단하/ncn+이/jp+게/ecs
+
+이름과
+	이름/ncn+과/jcj
+
+전화번호만)을
+	전화번호/ncn+만/jxc+)/sr+을/jco
+
+마치니,
+	마치/pvg+니/ecs+,/sp
+
+룸
+	룸/ncn
+
+키와
+	키/ncn+와/jcj
+
+조식쿠폰을
+	조식/ncpa+쿠폰/ncn+을/jco
+
+주며
+	주/px+며/ecc
+
+기타사항에
+	기타/ncn+사항/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+설명을
+	설명/ncpa+을/jco
+
+해주는것으로
+	하/pvg+어/ecx+주/px+는/etm+것/nbn+으로/jca
+
+
+체크인
+	체크인/ncn
+
+완료
+	완료/ncpa
+
+.
+	./sf
+
+
+객실로
+	객실/ncn+로/jca
+
+올라갑니다
+	오르/pvg+아/ecx+가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+예약사항-
+	예약/ncpa+사항/ncn+-/sd
+
+Check
+	Check/f
+
+in
+	in/f
+
+:
+	:/sp
+
+2011-12-18
+	2011/nnc+-12/nnc+-18/nnc
+
+15:00
+	15/nnc+:/sp+00/nnc
+
+/
+	//sp
+
+Check
+	Check/f
+
+out
+	out/f
+
+:
+	:/sp
+
+2011-12-19
+	2011/nnc+-12/nnc+-19/nnc
+
+10:00
+	10/nnc+:/sp+00/nnc
+
+-
+	-/sd
+
+Room
+	Room/f
+
+type
+	type/f
+
+:
+	:/sp
+
+SGL
+	SGL/f
+
+-
+	-/sd
+
+Rooms
+	Rooms/f
+
+:
+	:/sp
+
+1
+	1/nnc
+
+Room
+	Room/f
+
+-
+	-/sd
+
+Meal
+	Meal/f
+
+Breakfast
+	Breakfast/f
+
+:
+	:/sp
+
+O
+	O/f
+
+/
+	//sp
+
+Dinner
+	Dinner/f
+
+:
+	:/sp
+
+X
+	X/f
+
+
+-
+	-/sd
+
+요금
+	요금/ncn
+
+:
+	:/sp
+
+4,800엔부터
+	4,800/nnc+엔/nbu+부터/jxc
+
+(직접
+	(/sl+직접/mag
+
+예약하지않아
+	예약/ncpa+하/xsva+지/ecx+않/px+아/ecx
+
+예약
+	예약/ncpa
+
+요금은
+	요금/ncn+은/jxc
+
+모름)
+	모르/pvg+ㅁ/etn+)/sr
+
+
+스탠다드
+	스탠다드/ncn
+
+싱글
+	싱글/ncn
+
+B
+	B/f
+
+타입
+	타입/ncn
+
+객실(아마도)
+	객/ncn+실/xsncc+(/sl+아마/mag+도/jxc+)/sr
+
+
+스탠다드
+	스탠다드/ncn
+
+싱글
+	싱글/ncn
+
+B
+	B/f
+
+(객실면적
+	(/sl+객실/ncn+면적/ncn
+
+:
+	:/sp
+
+10
+	10/nnc
+
+,침대사이즈
+	,/sp+침대/ncn+사이즈/ncn
+
+:
+	:/sp
+
+110cm
+	110cm/ncn
+
+)
+	)/sr
+
+
+객실비품:
+	객실/ncn+비품/ncn+:/sp
+
+칫솔,
+	칫솔/ncn+,/sp
+
+면도칼,
+	면도칼/ncn+,/sp
+
+타올(페이스타올,
+	타올(페이스타올,/ncn
+
+목욕타올),
+	목욕/ncpa+타올/ncn+)/sr+,/sp
+
+드라이어,
+	드라이/ncn+이/jp+어/ef+,/sp
+
+유타카(어른용),
+	유타카(어른용),/ncn
+
+비데,
+	비데/ncn+,/sp
+
+인터넷(유선),
+	인터넷(유선),/ncn
+
+텔레비전,
+	텔레비전/ncn+,/sp
+
+샴푸,
+	샴푸/ncn+,/sp
+
+린스,
+	린스,/ncn
+
+바디워시
+	바디워시/ncn
+
+등
+	등/nbn
+
+
+부대시설
+	부대시설/ncpa
+
+:
+	:/sp
+
+레스토랑,
+	레스토랑/ncn+,/sp
+
+소회의실,
+	소회의실/ncn+,/sp
+
+주차장(유료),
+	주차장(유료),/ncn
+
+편의점,
+	편의점/ncn+,/sp
+
+세탁기,
+	세탁기/ncn+,/sp
+
+PC대여,
+	PC/f+대/ncn+이/jp+어/ef+,/sp
+
+FAX,
+	FAX/f+,/sp
+
+택배서비스
+	택배/ncn+서비스/ncpa
+
+등
+	등/nbn
+
+
+2010년에도
+	2010/nnc+년/nbu+에/jca+도/jxc
+
+묵었었던
+	묵/pvg+었었/ep+던/etm
+
+호텔인데;;
+	호텔인데;;/ncn
+
+어찌이리
+	어찌/ncpa+이/jp+리/ef
+
+생소한지
+	생소/ncps+한지/ncn
+
+?
+	?/sf
+
+
+그때도
+	그때/ncn+도/jxc
+
+냉장고가
+	냉장고/ncn+가/jcs
+
+없었나
+	없/paa+었/ep+나/ef
+
+...?
+	.../se+?/sf
+
+
+객실에
+	객실/ncn+에/jca
+
+냉장고가
+	냉장고/ncn+가/jcs
+
+없네요
+	없/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+그때는
+	그때/ncn+는/jxc
+
+뻣뻣했던
+	뻣뻣하/paa+었/ep+던/etm
+
+침구도
+	침구/ncn+도/jxc
+
+포근하고,
+	포근/ncn+하고/jct+,/sp
+
+객실도
+	객실/ncn+도/jxc
+
+청결하고,
+	청결/ncps+하고/jct+,/sp
+
+욕실도
+	욕실/ncn+도/jxc
+
+깔끔하고-깔끔한
+	깔끔/ncn+하고/jct+-/sd+깔끔/ncps+하/xsms+ㄴ/etm
+
+비즈니스
+	비즈니스/ncn
+
+호텔
+	호텔/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+딱
+	딱/mag
+
+!
+	!/sf
+
+
+비즈니스
+	비즈니스/ncn
+
+호텔
+	호텔/ncn
+
+그자체
+	그자체/ncn
+
+.
+	./sf
+
+
+객실
+	객실/ncn
+
+크기는
+	크/paa+기/etn+는/jxc
+
+비즈니스
+	비즈니스/ncn
+
+호텔
+	호텔/ncn
+
+답게
+	답/ncn+게/jca
+
+좁긴하지만
+	좁긴하/ncn+이/jp+지만/ecs
+
+혼자
+	혼자/mag
+
+묵는데
+	묵/pvg+는데/ecs
+
+좁든
+	좁/paa+든/ecs
+
+크든
+	크/paa+든/ecs
+
+깔끔하면
+	깔끔/ncps+하/xsms+면/ecs
+
+다
+	다/mag
+
+용서됩니다
+	용서/ncpa+되/xsvn+ㅂ니다/ef
+
+.
+	./sf
+
+
+전망도
+	전망/ncn+도/jxc
+
+오만가지
+	오/nnc+만/nnc+가지/nbu
+
+건물들만
+	건물/ncn+들/ncn+만/jxc
+
+보이긴하지만
+	보이긴하/ncn+이/jp+지만/ecs
+
+그래도
+	그래도/maj
+
+아예
+	아예/mag
+
+없는것보단
+	없는것보단/ncn
+
+낫고
+	낫/paa+고/ecc
+
+!
+	!/sf
+
+
+그동안
+	그동안/ncn
+
+치산
+	치산/ncpa
+
+인
+	일/pvg+ㄴ/etm
+
+호텔들
+	호텔/ncn+들/ncn
+
+여러곳에
+	여러/nnc+곳/nbu+에/jca
+
+묵어봤지만
+	묵/pvg+어/ecx+보/px+아/ep+지만/ecs
+
+치산
+	치산/ncpa
+
+계열
+	계열/ncn
+
+호텔은
+	호텔/ncn+은/jxc
+
+좁긴하지만
+	좁긴하/ncn+이/jp+지만/ecs
+
+깨끗햇던것
+	깨끗햇던것/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+객실에
+	객실/ncn+에/jca
+
+전기포트가
+	전기/ncn+포트/ncn+가/jcs
+
+없어서
+	없/paa+어서/ecs
+
+프론트에
+	프론트/ncn+에/jca
+
+전화를
+	전화/ncpa+를/jco
+
+하니
+	하/pvg+니/ecs
+
+복도에
+	복도/ncn+에/jca
+
+있다고해서
+	있/px+다고/ecx+하/px+어서/ecs
+
+복도에
+	복도/ncn+에/jca
+
+나가
+	나/npp+가/jcs
+
+뜨끈한
+	뜨끈한/ncn
+
+녹차
+	녹차/ncn
+
+한잔을
+	한/nnc+잔/nbu+을/jco
+
+뽑아와
+	뽑/pvg+어/ecx+오/px+아/ecs
+
+
+녹차를
+	녹차/ncn+를/jco
+
+홀짝
+	홀짝/ncn
+
+홀짝
+	홀짝/ncn
+
+대며
+	대/nbu+이/jp+며/ecc
+
+다음날
+	다음날/ncn
+
+일정을
+	일정/ncn+을/jco
+
+체크할겸
+	체크/ncpa+하/xsva+ㄹ/etm+겸/nbn
+
+인터넷을
+	인터넷/ncn+을/jco
+
+잠깐
+	잠깐/mag
+
+!
+	!/sf
+
+
+하다
+	하/pvg+어다/ecs
+
+기절해요
+	기절/ncpa+하/xsva+어/ef+요/jxf
+
+.
+	./sf
+
+
+정말
+	정말/mag
+
+아주
+	아주/mag
+
+잠깐
+	잠깐/mag
+
+!
+	!/sf
+
+
+잔것같은데
+	자/pvg+ㄴ/etm+것/nbn+같/xsmn+은/etm+데/nbn
+
+눈을
+	눈/ncn+을/jco
+
+뜨니
+	뜨/pvg+니/ecs
+
+벌써
+	벌써/mag
+
+아침-_-;
+	아침-_/ncn+-/sd+;/sy
+
+
+그것도
+	그것/npd+도/jxc
+
+또
+	또/maj
+
+!!
+	!/sf+!/sf
+
+
+늦잠
+	늦잠/ncn
+
+.
+	./sf
+
+
+정신없이
+	정신/ncn+없이/jca
+
+준비해
+	준비/ncn+해/ncn
+
+어차피
+	어차피/mag
+
+별로
+	별로/mag
+
+없는
+	없/paa+는/etm
+
+짐을
+	지/px+ㅁ/etn+을/jco
+
+싸들고
+	싸들/pvg+고/ecc
+
+아침식사를
+	아침식사/ncpa+를/jco
+
+하러갑니다
+	하러갑니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+아침식사는
+	아침식사/ncpa+는/jxc
+
+2층
+	2/nnc+층/nbu
+
+레스토랑에서,
+	레스토랑/ncn+에서/jca+,/sp
+
+
+비즈니스
+	비즈니스/ncn
+
+호텔답게
+	호텔/ncn+답/ncn+게/jca
+
+혼자
+	혼자/mag
+
+식사하는
+	식사/ncpa+하/xsva+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+많아-
+	많/paa+아/ecs+-/sd
+
+혼자하는
+	혼자하/ncn+는/jxc
+
+식사가
+	식사/ncpa+가/jcc
+
+외롭지
+	외롭/paa+지/ecx
+
+않아요
+	않/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+빨간
+	빨갛/paa+은/etm
+
+인테리어가
+	인테리어/ncn+가/jcs
+
+식욕을
+	식욕/ncn+을/jco
+
+자극해
+	자극/ncpa+하/xsva+어/ecx
+
+이것저것
+	이것저것/npd
+
+많이
+	많/paa+이/xsa
+
+먹고싶었지만;
+	먹고싶었지만;/ncn
+
+시간이
+	시간/ncn+이/jcc
+
+별로
+	별로/mag
+
+없어서
+	없/paa+어서/ecs
+
+후닥
+	후닥/ncn
+
+후닥
+	후닥/ncn
+
+
+요즘
+	요즘/mag
+
+양식보다
+	양식/ncn+보다/jca
+
+밥이
+	밥/ncn+이/jcc
+
+좋아져서
+	좋/paa+아/ecx+지/px+어서/ecs
+
+빵은
+	빵/ncn+은/jxc
+
+패스하고,
+	패스/ncpa+하고/jct+,/sp
+
+밥에
+	밥/ncn+에/jca
+
+낫또,
+	낫또,/ncn
+
+나고야명물
+	나고야명물/ncn
+
+키시멘과
+	키시멘/ncn+과/jcj
+
+요거트,
+	요거트,/ncn
+
+반찬
+	반찬/ncn
+
+약간과
+	약간/ncn+과/jcj
+
+
+정신이
+	정신/ncn+이/jcc
+
+번쩍드는
+	번쩍드/ncn+는/jxc
+
+쓰디쓴
+	쓰디쓰/paa+ㄴ/etm
+
+커피를
+	커피/ncn+를/jco
+
+한잔하는것으로
+	한잔/ncpa+하/xsva+는/etm+것/nbn+으로/jca
+
+식사를
+	식사/ncpa+를/jco
+
+마무리하는것으로
+	마무리/ncpa+하/xsva+는/etm+것/nbn+으로/jca
+
+치산
+	치산/ncpa
+
+인
+	일/pvg+ㄴ/etm
+
+나고야와
+	나고야/ncn+와/jct
+
+안녕합니다
+	안녕/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+룸
+	룸/ncn
+
+컨디션
+	컨디션/ncn
+
+좋고,
+	좋/paa+고/ecc+,/sp
+
+아침식사
+	아침식사/ncpa
+
+맛있고,
+	맛있/paa+고/ecc+,/sp
+
+가격
+	가격/ncn
+
+괜찮고-
+	괜찮/paa+고/ecc+-/sd
+
+
+다음에
+	다음/ncn+에/jca
+
+또
+	또/maj
+
+혼자
+	혼자/mag
+
+나고야
+	나/px+고야/ecs
+
+여행을
+	여행/ncpa+을/jco
+
+간다면
+	가/px+ㄴ다면/ecs
+
+치산
+	치산/ncpa
+
+인
+	일/pvg+ㄴ/etm
+
+나고야를
+	나고야/ncn+를/jco
+
+고려할것
+	고/pvg+려/ecx+하/px+ㄹ/etm+것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+자~
+	자/ii+~/sd
+
+이제
+	이제/mag
+
+마지막
+	마지막/ncn
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+셋째날
+	셋째/nno+날/nbu
+
+일정을
+	일정/ncn+을/jco
+
+소화해야죠
+	소화/ncpa+하/xsva+어야죠/ef
+
+?
+	?/sf
+
+
+나고야역에
+	나고야역/ncn+에/jca
+
+JR을
+	JR/f+을/jco
+
+타러
+	타/pvg+러/ecs
+
+갑니다
+	가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+다음편에
+	다음/ncn+편/ncn+에/jca
+
+계속
+	계속/mag
+
+
+아이치현
+	아이치현/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+aichi-kanko.
+	aichi/f+-/sd+kanko/f+./sy
+
+jp/korean/아이치현
+	jp/korean/아이치현/ncn
+
+나고야시
+	나고야시/ncn
+
+:
+	:/sp
+
+http://web.
+	http/f+:/sp+//sp+//sp+web/f+./sy
+
+ncvb.
+	ncvb/f+./sy
+
+or.
+	or/f+./sy
+
+jp/~korean/index.
+	jp/f+//sp+~/sd+korean/f+//sp+index/f+./sy
+
+html여행박사
+	html여행박사/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+tourbaksa.
+	tourbaksa/f+./sy
+
+com
+	com/f

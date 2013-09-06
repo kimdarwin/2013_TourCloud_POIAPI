@@ -1,0 +1,219 @@
+브랜드
+	브랜드/ncn
+
+'리누이'
+	'리누이'/ncn
+
+플래그십
+	플래그십/ncn
+
+스토어
+	스토어/ncn
+
+오픈식이
+	오픈/ncpa+식/ncn+이/jcc
+
+4일
+	4/nnc+일/nbu
+
+오후
+	오후/ncn
+
+5시
+	5/nnc+시/nbu
+
+서울
+	서울/ncn
+
+강남구
+	강남/ncn+구/ncn
+
+압구정동
+	압구정/ncn+동/ncn
+
+리누이
+	리누/ncn+이/jcc
+
+매장에서
+	매장/ncn+에서/jca
+
+열렸다
+	열리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이날
+	이/nnc+날/nbu
+
+행사에
+	행사/ncpa+에/jca
+
+참석한
+	참석/ncpa+하/xsva+ㄴ/etm
+
+배우
+	배우/ncn
+
+소이현이
+	소이/ncn+현/ncn+이/jcc
+
+포즈를
+	포즈/ncn+를/jco
+
+취하고
+	취하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.'
+	./sf+'/sl
+
+
+리누이'는
+	리누이'/ncn+는/jxc
+
+시즌
+	시즌/ncn
+
+구분없이
+	구/nnc+분/nbu+없이/jca
+
+사계절
+	사계절/ncn
+
+사용
+	사용/ncpa
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+컬러
+	컬러/ncn
+
+팔레트와
+	팔레트/ncn+와/jcj
+
+다양한
+	다양/ncn+한/ncn
+
+가죽
+	가죽/ncn
+
+패턴을
+	패턴/ncn+을/jco
+
+사용하며
+	사용/ncpa+하/xsva+며/ecc
+
+전
+	전/nbn
+
+라인
+	라/ncn+이/jp+ㄴ/etm
+
+모두
+	모두/mag
+
+핸드
+	핸드/ncn
+
+메이드
+	메이/ncn+드/ncn
+
+작업으로
+	작업/ncpa+으로/jca
+
+제작해
+	제작/ncpa+하/xsva+어/ecx
+
+견고하고
+	견고/ncn+하고/jct
+
+뛰어난
+	뛰/pvg+어/ecx+나/px+ㄴ/etm
+
+착용감을
+	착용/ncpa+감/ncn+을/jco
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+한편,
+	한/nnc+편/nbu+,/sp
+
+이번
+	이/nnc+번/nbu
+
+오픈식에는
+	오픈/ncpa+식/ncn+에/jca+는/jxc
+
+장동건,
+	장동/ncn+건/xsnx+,/sp
+
+장근석,
+	장근석,/ncn
+
+장혁,
+	장혁,/ncn
+
+이종석,
+	이종석,/ncn
+
+송재림,
+	송재/ncn+이/jp+리/ep+ㅁ/etn+,/sp
+
+이필립,
+	이필립,/ncn
+
+손담비,
+	손담비,/ncn
+
+박하선,
+	박하/ncn+선/ncn+,/sp
+
+오연서,
+	오연서,/ncn
+
+조보아,
+	조보아,/ncn
+
+씨앤블루,
+	씨앤블루,/ncn
+
+FT아일랜드,
+	FT아일랜드,/ncn
+
+SS501
+	SS501/ncn
+
+김형준이
+	김형준/ncn+이/jcc
+
+참석해
+	참석/ncpa+하/xsva+어/ecx
+
+자리를
+	자리/ncn+를/jco
+
+빛냈다
+	빛내/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:매일경제
+	출처/ncn+:/sp+매일/ncn+경제/ncn

@@ -1,0 +1,312 @@
+#1
+	#1/ncn
+
+.
+	./sf
+
+
+큐슈여행
+	큐슈여행/ncn
+
+
+정말
+	정말/mag
+
+흥미진진한
+	흥미진진/ncps+하/xsms+ㄴ/etm
+
+경험이었다
+	경험/ncpa+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+동행한
+	동행/ncpa+하/xsva+ㄴ/etm
+
+친구덕에
+	친구/ncn+덕/ncn+에/jca
+
+일본
+	일/nnc+본/nbu
+
+친구들을
+	친구/ncn+들/ncn+을/jco
+
+알게되어더욱
+	알게되어더욱/ncn
+
+기억에
+	기억/nnc+에/jca
+
+남았던
+	남/pvg+아/ep+ㄴ/etm
+
+여행
+	여행/ncpa
+
+..
+	./sf+./sf
+
+
+근데
+	근데/ncn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+정리할
+	정리/ncpa+하/xsva+ㄹ/etm
+
+일이
+	일/ncn+이/jcc
+
+막막하다
+	막막/ncps+하/xsms+어다/ecs
+
+...
+	.../se
+
+
+#2
+	#2/ncn
+
+.
+	./sf
+
+
+용서를
+	용서/ncpa+를/jco
+
+해줬고다시
+	해줬고다시/ncn
+
+기회도
+	기회/ncn+도/jxc
+
+줬다그런데
+	줬다그런데/ncn
+
+돌아온건
+	돌아온건/ncn
+
+또
+	또/maj
+
+한번의
+	한/nnc+번/nbu+의/jcm
+
+배신
+	배/ncn+이/jp+시/ep+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+게다가
+	게다가/maj
+
+상처가
+	상처/ncn+가/jcs
+
+채
+	채/nbn
+
+아물지도
+	아물/pvg+ㄹ지/ecs+도/jxc
+
+않았는데똑같은
+	않았는데똑같/ncn+은/jxc
+
+자리에
+	자리/ncn+에/jca
+
+상처를
+	상처/ncn+를/jco
+
+내버렸다
+	내/pvg+어/ecx+버리/px+었/ep+다/ef
+
+.
+	./sf
+
+
+빨리
+	빨리/mag
+
+잊고
+	잊/pvg+고/ecc
+
+싶다
+	싶/px+다/ef
+
+..
+	./sf+./sf
+
+
+#3
+	#3/ncn
+
+.
+	./sf
+
+
+감기에
+	감/pvg+기/etn+에/jca
+
+걸렸다
+	걸/pvg+리/ep+었/ep+다/ef
+
+
+여행동안엔
+	여행/ncpa+동안/ncn+엔/jca
+
+잘
+	잘/mag
+
+돌아다녔는데돌아올때쯤
+	돌아다녔는데돌아올때쯤/ncn
+
+피로가
+	피로/ncps+가/jcc
+
+쌓였는지
+	쌓이/pvg+었/ep+는지/ecs
+
+긴장이
+	긴장/ncn+이/jcc
+
+풀렸는지
+	풀리/pvg+었/ep+는지/ecs
+
+..
+	./sf+./sf
+
+
+(날씨가
+	(/sl+날씨/ncn+가/jcs
+
+안좋았던것도
+	안좋았던것/ncn+도/jxc
+
+한몫했나보다)
+	한몫했/ncn+나/jxc+보다/jxc+)/sr
+
+
+아니면
+	아니/paa+면/ecs
+
+다른일
+	다른/ncn+이/jp+ㄹ/etm
+
+때문일수도
+	때문/nbn+이/jp+ㄹ/etm+수/nbn+도/jxc
+
+...
+	.../se
+
+
+예전에도
+	예전/ncn+에/jca+도/jxc
+
+이런일이있었는데
+	이런일이있었는데/ncn
+
+..
+	./sf+./sf
+
+
+부디
+	부디/mag
+
+징크스가
+	징크스/ncn+가/jcs
+
+아니길
+	아니길/ncn
+
+
+#4
+	#4/ncn
+
+.
+	./sf
+
+
+새
+	새/mma
+
+카메라에
+	카메라/ncn+에/jca
+
+적응중
+	적응/ncpa+중/ncn
+
+..
+	./sf+./sf
+
+
+내겐
+	내겐/ncn
+
+세번째
+	세/nnc+번/nbu+째/xsnu
+
+DSLR인데
+	DSLR/f+이/jp+ㄴ데/ecs
+
+카메라가
+	카메라/ncn+가/jcs
+
+바뀌면서
+	바뀌/pvg+면서/ecc
+
+매번
+	매번/mag
+
+렌즈도
+	렌즈/ncn+도/jxc
+
+함께
+	함께/mag
+
+바뀌어서적응하는데
+	바뀌어서적응하는데/ncn
+
+시간이
+	시간/ncn+이/jcc
+
+걸린다
+	걸리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+많은게
+	많/paa+은게/ecs
+
+빠르게
+	빠르/paa+게/ecs
+
+변해가는
+	변하/pvg+어/ecx+가/px+는/etm
+
+내
+	내/npp
+
+현실도얼른
+	현실도얼른/ncn
+
+적응이
+	적응/ncpa+이/jcc
+
+되었으면
+	되/pvg+었/ep+으면/ecs
+
+좋겠다
+	좋/paa+겠/ep+다/ef
+
+.
+	./sf

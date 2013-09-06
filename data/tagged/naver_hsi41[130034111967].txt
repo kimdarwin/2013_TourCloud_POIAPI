@@ -1,0 +1,1395 @@
+서귀포시
+	서귀포시/ncn
+
+비경탐방정방동
+	비경탐방정방동/ncn
+
+정모시
+	정모/ncn+시/ncn
+
+공원도심속
+	공원/ncn+도심/ncn+속/ncn
+
+생태공원
+	생태/ncn+공원/ncn
+
+각광,
+	각광/ncpa+,/sp
+
+수려한
+	수/nbn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+풍광에
+	풍광/ncn+에/jca
+
+천연
+	천연/ncn
+
+담수장
+	담수/ncn+장/ncn
+
+
+한애리
+	한애리/ncn
+
+기자
+	기/ncn+이/jp+자/ecc
+
+arhan@seogwipo.
+	arhan/f+@/sy+seogwipo/f+./sy
+
+co.
+	co/f+./sy
+
+kr
+	kr/f
+
+
+정방동과
+	정방동/ncn+과/jcj
+
+동홍동
+	동홍동/ncn
+
+경계의
+	경계/ncn+의/jcm
+
+정모시
+	정모/ncn+시/ncn
+
+쉼터
+	쉼터/ncn
+
+입구
+	입구/ncn
+
+.
+	./sf
+
+
+일상에서의
+	일상/ncn+에서/jca+의/jcm
+
+탈출
+	탈출/ncpa
+
+.
+	./sf
+
+
+오랜만의
+	오랜만/ncn+의/jcm
+
+휴식
+	휴식/ncpa
+
+.
+	./sf
+
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+미사여구로
+	미사여구/ncn+로/jca
+
+유혹해
+	유혹/ncpa+하/xsva+어/ecx
+
+오는
+	오/px+는/etm
+
+휴가(
+	휴가(/ncn
+
+)
+	)/sr
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+정작
+	정작/mag
+
+떠나려니
+	떠나/pvg+려니/ecs
+
+두렵다
+	두렵/paa+다/ef
+
+.
+	./sf
+
+
+아무리
+	아무리/mag
+
+마음
+	마음/ncn
+
+다잡고
+	다잡/pvg+고/ecc
+
+나서보지만
+	나/pvg+아/ecx+보/px+지/ecx+말/px+ㄴ/etm
+
+하루가
+	하루/ncn+가/jcs
+
+다르게
+	다르/paa+게/ecs
+
+치솟는
+	치솟/pvg+는/etm
+
+물가는
+	물/ncn+가/jcs+는/jxc
+
+휴가
+	휴가/ncn
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+마음을
+	마음/ncn+을/jco
+
+옥죄고,
+	옥죄/pvg+고/ecc+,/sp
+
+때맞춰
+	때맞추/pvg+어/ecx
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+사람들로
+	사람들/ncn+로/jca
+
+북적거리는
+	북적거리/pvg+는/etm
+
+피서지는
+	피서지/ncn+는/jxc
+
+땡볕
+	땡볕/ncn
+
+무더위를
+	무더위/ncn+를/jco
+
+더욱
+	더욱/mag
+
+실감케한다
+	실감케한다/ncn
+
+.
+	./sf
+
+
+휴식을
+	휴식/ncpa+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+떠난
+	떠나/pvg+ㄴ/etm
+
+여행이
+	여행/ncpa+이/jcc
+
+되레
+	되레/mag
+
+피로만
+	피/ncn+로/jca+만/jxc
+
+누적시키고
+	누적/ncpa+시키/xsva+고/ecc
+
+돌아오는
+	돌/pvg+아/ecx+오/px+는/etm
+
+일도
+	일/ncn+도/jxc
+
+허다하다
+	허다/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+휴가
+	휴가/ncn
+
+후유증
+	후유증/ncn
+
+이
+	이/mmd
+
+두려워
+	두렵/paa+어/ecx
+
+휴가를
+	휴가/ncn+를/jco
+
+망설이고
+	망설이/pvg+고/ecc
+
+있다면
+	있/px+다면/ecs
+
+가까운
+	가깝/paa+은/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+눈을
+	눈/ncn+을/jco
+
+돌려도
+	돌리/pvg+어도/ecs
+
+괜찮을
+	괜찮/paa+을/etm
+
+일이다
+	일/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+#
+	#/ncn
+
+울창한
+	울창/ncn+한/ncn
+
+숲과
+	숲/ncn+과/jct
+
+어우러진
+	어우러지/pvg+ㄴ/etm
+
+용천수
+	용천수/ncn
+
+담수장
+	담수/ncn+장/ncn
+
+'인기'
+	'/sl+인기/ncn+'/sr
+
+
+서귀포
+	서귀포/ncn
+
+도심과
+	돌/pvg+시/ep+ㅁ/etn+과/jct
+
+멀지
+	멀/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+곳부터
+	곳/ncn+부터/jxc
+
+찾다보면
+	찾다보/ncn+이/jp+면/ecs
+
+어렵지
+	어렵/paa+지/ecx
+
+않게
+	않/px+게/ecs
+
+정모시
+	정모/ncn+시/ncn
+
+를
+	를/ncn
+
+찾을
+	찾/pvg+을/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+서복전시관
+	서복전시관/ncn
+
+옆길을
+	옆길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+정방폭포로
+	정방폭포/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+길
+	길/ncn
+
+왼쪽에
+	왼쪽/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+정모시(서귀동
+	정모시(서귀동/ncn
+
+237번지)
+	237번지)/ncn
+
+는
+	늘/pvg+ㄴ/etm
+
+정방폭포의
+	정방폭포/ncn+의/jcm
+
+상수원이다
+	상수원/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+정모시를
+	정모/ncn+시/ncn+를/jco
+
+찾는
+	찾/pvg+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+늘면서
+	늘/pvg+면서/ecc
+
+정모시
+	정모/ncn+시/ncn
+
+근처
+	근처/ncn
+
+정방사의
+	정방사/ncn+의/jcm
+
+담장이
+	담장/ncn+이/jcc
+
+낮아졌다
+	낮/paa+아/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+자연암석
+	자연/ncn+암석/ncn
+
+위에
+	위/ncn+에/jca
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+정방사
+	정방사/ncn
+
+정원에는
+	정원/ncn+에/jca+는/jxc
+
+정모시
+	정모/ncn+시/ncn
+
+물을
+	물/ncn+을/jco
+
+끌어다
+	끌/pvg+어다/ecs
+
+폭포를
+	폭포/ncn+를/jco
+
+만들었다
+	만들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+사계절
+	사계절/ncn
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+시원한
+	시원/ncn+한/ncn
+
+용천수와
+	용천수/ncn+와/jcj
+
+정모시
+	정모/ncn+시/ncn
+
+옆으로
+	옆/ncn+으로/jca
+
+울창한
+	울창/ncn+한/ncn
+
+나무들이
+	나무/ncn+들/ncn+이/jcc
+
+큰
+	크/paa+ㄴ/etm
+
+그늘을
+	그늘/ncn+을/jco
+
+만들어주기
+	만들/pvg+어/ecx+주/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+여름
+	여름/ncn
+
+물놀이에는
+	물놀이/ncpa+에/jca+는/jxc
+
+안성맞춤이다
+	안성맞춤/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+물놀이는
+	물놀이/ncpa+는/jxc
+
+하고
+	하/pvg+고/ecc
+
+싶지만
+	싶/px+지만/ecs
+
+끈적끈적한
+	끈적끈적하/pvg+ㄴ/etm
+
+바닷바람이
+	바닷바람/ncn+이/jcc
+
+불쾌한
+	불쾌/ncps+하/xsms+ㄴ/etm
+
+사람들
+	사람들/ncn
+
+싫어하는
+	싫/paa+어/ecx+하/px+는/etm
+
+사람들에게는
+	사람들/ncn+에게/jca+는/jxc
+
+더없이
+	더없이/mag
+
+좋은
+	좋/paa+은/etm
+
+피서장이다
+	피서/ncn+장/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+2006년에
+	2006/nnc+년/nbu+에/jca
+
+만들어진
+	만들/pvg+어/ecx+지/px+ㄴ/etm
+
+담수장
+	담수/ncn+장/ncn
+
+은
+	은/ncn
+
+어린이들에게
+	어린이/ncn+들/ncn+에게/jca
+
+더없이
+	더없이/mag
+
+좋은
+	좋/paa+은/etm
+
+풀장으로
+	풀장/ncn+으로/jca
+
+제공되기
+	제공/ncpa+되/xsvn+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+가족단위
+	가족단위/ncn
+
+피서객들에게
+	피서객/ncn+들/ncn+에게/jca
+
+인기다
+	인기/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+서귀진성의
+	서귀진성/ncn+의/jcm
+
+식수로
+	식수/ncn+로/jca
+
+사용되던
+	사용/ncpa+되/xsvn+던/etm
+
+정모시
+	정모/ncn+시/ncn
+
+는
+	늘/pvg+ㄴ/etm
+
+한
+	한/nnc
+
+때
+	때/ncn
+
+서귀포초등학교
+	서귀포초등학교/ncn
+
+주변지역에서
+	주변지역/ncn+에서/jca
+
+논농사를
+	논농사/ncn+를/jco
+
+짓던
+	짓/pvg+던/etm
+
+당시
+	당시/ncn
+
+농업용수로
+	농업용수/ncpa+로/jca
+
+사용되기도
+	사용/ncpa+되/xsvn+기/etn+도/jxc
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+오래전부터
+	오래전/ncn+부터/jxc
+
+지역주민들의
+	지역주민/ncn+들/ncn+의/jcm
+
+피서지였지만
+	피서지/ncn+이/jp+었/ep+지만/ecs
+
+지역주민들을
+	지역주민/ncn+들/ncn+을/jco
+
+제외하고는
+	제외/ncpa+하고/jct+는/jxc
+
+정방동의
+	정방동/ncn+의/jcm
+
+정모시
+	정모/ncn+시/ncn
+
+를
+	를/ncn
+
+아는
+	알/pvg+는/etm
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+별로
+	별로/mag
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+최근
+	최근/mag
+
+정모시
+	정모/ncn+시/ncn
+
+생태공원이
+	생태/ncn+공원/ncn+이/jcc
+
+말끔하게
+	말끔/ncps+하/xsms+게/ecs
+
+단장되면서
+	단장/ncpa+되/xsvn+면서/ecc
+
+오다가다
+	오다가다/mag
+
+들르는
+	들르/pvg+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+많아졌다
+	많/paa+아/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+30도를
+	30/nnc+도/nbu+를/jco
+
+웃도는
+	웃돌/pvg+는/etm
+
+무더위가
+	무더위/ncn+가/jcs
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+요즘에는
+	요즘/ncn+에/jca+는/jxc
+
+하루
+	하루/ncn
+
+200여
+	200/nnc+여/xsnu
+
+명이
+	명/nbu+이/jcc
+
+찾아올
+	찾/pvg+아/ecx+오/px+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+새로운
+	새롭/paa+은/etm
+
+피서지로
+	피서지/ncn+로/jca
+
+급부상하고
+	급부상하/ncn+이/jp+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+주말에는
+	주말/ncn+에/jca+는/jxc
+
+가족들끼리
+	가족/ncn+들/ncn+끼리/jxc
+
+물놀이를
+	물놀이/ncpa+를/jco
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+피서객들이
+	피서객/ncn+들/ncn+이/jcc
+
+500여
+	500/nnc+여/xsnu
+
+명을
+	명/nbu+을/jco
+
+육박할
+	육박/ncpa+하/xsva+ㄹ/etm
+
+정도란다
+	정도란다/ncn
+
+.
+	./sf
+
+
+정모시
+	정모/ncn+시/ncn
+
+쉼터
+	쉼터/ncn
+
+천연
+	천연/ncn
+
+담수장에서
+	담수/ncn+장/ncn+에서/jca
+
+물놀이를
+	물놀이/ncpa+를/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+피서객들
+	피서객/ncn+들/ncn
+
+.
+	./sf
+
+
+#
+	#/ncn
+
+동홍동과
+	동홍동/ncn+과/jcj
+
+서홍동으
+	서홍동으/ncn
+
+경계
+	경계/ncpa
+
+'정모시'
+	'/sl+정모/ncn+시/ncn+'/sr
+
+
+정모시
+	정모/ncn+시/ncn
+
+관리에
+	관리/ncn+에/jca
+
+얽힌
+	얽히/pvg+ㄴ/etm
+
+재미있는
+	재미있/pvg+는/etm
+
+사연도
+	사연/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+정모시
+	정모/ncn+시/ncn
+
+는
+	늘/pvg+ㄴ/etm
+
+동홍동과
+	동홍동/ncn+과/jcj
+
+정방동의
+	정방동/ncn+의/jcm
+
+경계다
+	경계/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+정방사를
+	정방사/ncn+를/jco
+
+포함한
+	포함/ncpa+하/xsva+ㄴ/etm
+
+정모시까지는
+	정모/ncn+시/ncn+까지/jxc+는/jxc
+
+정방동
+	정방동/ncn
+
+관할지역이지만
+	관할지역/ncn+이/jp+지만/ecs
+
+정모시
+	정모/ncn+시/ncn
+
+공원이
+	공원/ncn+이/jcc
+
+딸린
+	딸리/pvg+ㄴ/etm
+
+동쪽지역은
+	동쪽지역/ncn+은/jxc
+
+동홍동이
+	동홍동/ncn+이/jcc
+
+관리하기
+	관리/ncpa+하/xsva+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+정모시를
+	정모/ncn+시/ncn+를/jco
+
+포함한
+	포함/ncpa+하/xsva+ㄴ/etm
+
+정모시공원을
+	정모/ncn+시공/ncn+원/ncn+을/jco
+
+일괄적으로
+	일괄/ncpa+적/ncn+으로/jca
+
+관리하는
+	관리/ncpa+하/xsva+는/etm
+
+기준이
+	기준/ncpa+이/jcc
+
+모호했었다
+	모호/ncpa+하/xsva+었었/ep+다/ef
+
+.
+	./sf
+
+
+그러다가
+	그러/pvd+다가/ecs
+
+정모시공원을
+	정모/ncn+시공/ncn+원/ncn+을/jco
+
+가려면
+	가/px+려면/ecs
+
+정모시
+	정모/ncn+시/ncn
+
+나무다리를
+	나무/ncn+다리/ncn+를/jco
+
+건너야
+	건너/pvg+어야/ecs
+
+하기
+	하/pvg+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+정방동
+	정방동/ncn
+
+새마을지도자협의회가
+	새마을지도자협의회/ncn+가/jcs
+
+정모시를
+	정모/ncn+시/ncn+를/jco
+
+포함한
+	포함/ncpa+하/xsva+ㄴ/etm
+
+정모시공원
+	정모/ncn+시공/ncn+원/ncn
+
+관리를
+	관리/ncn+를/jco
+
+하기로
+	하/pvg+기/etn+로/jca
+
+했던
+	하/px+었/ep+던/etm
+
+것.
+	것/nbn+./sf
+
+
+정모시
+	정모/ncn+시/ncn
+
+징검다리는
+	징검다리/ncn+는/jxc
+
+정모시를
+	정모/ncn+시/ncn+를/jco
+
+건너는
+	건너/pvg+는/etm
+
+새로운
+	새롭/paa+은/etm
+
+재미를
+	재미/ncn+를/jco
+
+선사하기도
+	선사/ncpa+하/xsva+기/etn+도/jxc
+
+하지만
+	하지만/maj
+
+정방폭포로
+	정방폭포/ncn+로/jca
+
+흘러가는
+	흐르/pvg+어/ecx+가/px+는/etm
+
+물이
+	물/ncn+이/jcc
+
+한
+	하/pvg+ㄴ/etm
+
+번
+	번/nbu
+
+걸러지는
+	거르/pvg+어/ecx+지/px+는/etm
+
+정화
+	정화/ncn
+
+역할도
+	역할/ncn+도/jxc
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+김상집
+	김상집/ncn
+
+정방동주민자치위원장은
+	정방동주민자치위원장/ncn+은/jxc
+
+여름
+	여름/ncn
+
+밤
+	밤/ncn
+
+열대야를
+	열대야/ncn+를/jco
+
+피해
+	피하/pvg+어/ecx
+
+정모시로
+	정모/ncn+시/ncn+로/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+최근들어
+	최근들어/mag
+
+크게
+	크/paa+게/ecs
+
+늘었다
+	늘/pvg+었/ep+다/ef
+
+면서
+	면/ncn+서/jca
+
+정모시를
+	정모/ncn+시/ncn+를/jco
+
+찾는
+	찾/pvg+는/etm
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+편의를
+	편의/ncn+를/jco
+
+위해서
+	위하/pvg+어서/ecs
+
+전천후
+	전천후/ncn
+
+게이트볼
+	게이트볼/ncn
+
+장이
+	장/nbu+이/jcc
+
+생기면서
+	생기/pvg+면서/ecc
+
+활용되지
+	활용/ncpa+되/xsvn+지/ecx
+
+않는
+	않/px+는/etm
+
+야외
+	야외/ncn
+
+게이트볼장에
+	게이트볼/ncn+장/ncn+에/jca
+
+쉼터
+	쉼터/ncn
+
+3동을
+	3/nnc+동/nbu+을/jco
+
+추가로
+	추가/ncpa+로/jca
+
+시설해
+	시설/ncpa+하/xsva+어/ecx
+
+시민들과
+	시민/ncn+들/ncn+과/jcj
+
+관광객들에게
+	관광객/ncn+들/ncn+에게/jca
+
+편의를
+	편의/ncn+를/jco
+
+제공해
+	제공/ncpa+하/xsva+어/ecx
+
+나갈
+	나/pvg+아/ecx+가/px+ㄹ/etm
+
+예정
+	예정/ncn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+#
+	#/ncn
+
+서각
+	서각/ncn
+
+.
+	./sf
+
+
+시는
+	시/nbu+는/jxc
+
+정모시생태공원의
+	정모시생태공원/ncn+의/jcm
+
+'새로운
+	'/sl+새롭/paa+은/etm
+
+볼거리'
+	볼거리/ncn+'/sr
+
+
+정모시생태공원도
+	정모시생태공원/ncn+도/jxc
+
+색다른
+	색다르/paa+ㄴ/etm
+
+볼거리를
+	볼거리/ncn+를/jco
+
+제공한다
+	제공/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+정방동주민자치위원회는
+	정방동주민자치위원회/ncn+는/jxc
+
+문화예술마을
+	문화예술/ncn+마을/ncn
+
+테마를
+	테마/ncn+를/jco
+
+살려
+	살리/pvg+어/ecx
+
+정방동의
+	정방동/ncn+의/jcm
+
+자랑인
+	자랑/ncn+이/jp+ㄴ/etm
+
+천재화가
+	천재/ncn+화/ncn+가/jcs
+
+이중섭과
+	이중섭/ncn+과/jcj
+
+소암
+	소암/ncn
+
+현중화
+	현중/ncn+화/ncn
+
+선생의
+	선생/ncr+의/jcm
+
+작품과
+	작품/ncn+과/jcj
+
+정방동
+	정방동/ncn
+
+출신
+	출신/ncn
+
+김용길
+	김용길/ncn
+
+시인의
+	시인/ncn+의/jcm
+
+시(
+	시(/ncn
+
+)를
+	)/sr+를/jco
+
+공원
+	공원/ncn
+
+곳곳에
+	곳곳/ncn+에/jca
+
+전시해
+	전시/ncn+해/ncn
+
+방문객들로부터
+	방문객/ncn+들/ncn+로/jca+부터/jxc
+
+호응을
+	호응/ncpa+을/jco
+
+얻고
+	얻/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+정모시를
+	정모/ncn+시/ncn+를/jco
+
+찾는
+	찾/pvg+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+늘어나면서
+	늘/pvg+어/ecx+나/px+면서/ecc
+
+근처
+	근처/ncn
+
+정방사
+	정방사/ncn
+
+야외풍경까지
+	야외/ncn+풍경/ncn+까지/jxc
+
+바뀌었다
+	바뀌/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+정방사는
+	정방사/ncn+는/jxc
+
+어른키를
+	어른/ncn+키/ncn+를/jco
+
+울쩍
+	울쩍/ncn
+
+넘는
+	넘/pvg+는/etm
+
+높은
+	높/paa+은/etm
+
+담장을
+	담장/ncn+을/jco
+
+낮춰
+	낮추/pvg+어/ecx
+
+정방사의
+	정방사/ncn+의/jcm
+
+야외정원이
+	야외/ncn+정원/ncn+이/jcc
+
+훤히
+	훤히/mag
+
+들여다보이게
+	들이/pvg+어다/ecx+보이/px+게/ecs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+정방사의
+	정방사/ncn+의/jcm
+
+야외정원은
+	야외/ncn+정원/ncn+은/jxc
+
+천연암석을
+	천연/ncn+암석/ncn+을/jco
+
+정비해
+	정비/ncpa+하/xsva+어/ecx
+
+만든
+	만들/pvg+ㄴ/etm
+
+정원인데
+	정원/ncn+이/jp+ㄴ데/ecs
+
+이곳에는
+	이곳/npd+에/jca+는/jxc
+
+정모시
+	정모/ncn+시/ncn
+
+물을
+	물/ncn+을/jco
+
+끌어다
+	끌/pvg+어다/ecs
+
+폭포를
+	폭포/ncn+를/jco
+
+조성해
+	조성/ncpa+하/xsva+어/ecx
+
+정모시를
+	정모/ncn+시/ncn+를/jco
+
+찾아오는
+	찾/pvg+아/ecx+오/px+는/etm
+
+주민들과
+	주민/ncn+들/ncn+과/jcj
+
+관광객들에게
+	관광객/ncn+들/ncn+에게/jca
+
+또다른
+	또다른/mma
+
+볼거리로
+	볼거리/ncn+로/jca
+
+제공되고
+	제공/ncpa+되/xsvn+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf

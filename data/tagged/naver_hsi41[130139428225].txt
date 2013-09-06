@@ -1,0 +1,946 @@
+'4
+	'/sr+4/nnc
+
+11
+	11/nnc
+
+국회의원
+	국회의원/ncr
+
+총선거'
+	총선거/ncn+'/sr
+
+비례대표
+	비례대표/ncn
+
+후보
+	후보/ncr
+
+부정
+	부정/ncpa
+
+경선과
+	경선/ncn+과/jcj
+
+중앙위원회
+	중앙위원회/ncn
+
+폭력사태
+	폭력사태/ncn
+
+및
+	및/maj
+
+이에
+	이/npd+에/jca
+
+따른
+	따르/pvg+ㄴ/etm
+
+검찰
+	검찰/ncn
+
+수사
+	수사/ncpa
+
+등으로
+	등/nbu+으로/jca
+
+통합진보당(진보당)을
+	통합진보당(진보당)/ncn+을/jco
+
+탈당하려는
+	탈당/ncpa+하/xsva+려는/etm
+
+당원들이
+	당원/ncr+들/ncn+이/jcc
+
+늘고
+	늘/pvg+고/ecc
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+당원명부가
+	당원/ncr+명부/ncn+가/jcs
+
+기록된
+	기록/ncpa+되/xsvn+ㄴ/etm
+
+서버가
+	서버/ncn+가/jcs
+
+검찰에
+	검찰/ncn+에/jca
+
+압수돼
+	압수/ncpa+되/xsvn+어/ecx
+
+탈당
+	탈당/ncpa
+
+절차를
+	절차/ncn+를/jco
+
+밟지
+	밟/pvg+지/ecx
+
+못하고
+	못하/px+고/ecc
+
+있는
+	있/px+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타났다.
+	나타나/pvg+아/ep+다/ef+./sf
+
+31일
+	31/nnc+일/nbu
+
+진보당
+	진보당/ncn
+
+중앙당
+	중앙당/ncn
+
+및
+	및/maj
+
+서울시당
+	서울시당/ncn
+
+등에
+	등/nbu+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+비례대표
+	비례대표/ncn
+
+부정
+	부정/ncpa
+
+경선과
+	경선/ncn+과/jcj
+
+폭력
+	폭력/ncn
+
+사태,
+	사태/ncn+,/sp
+
+당내
+	당내/ncn
+
+갈등
+	가/px+ㄹ/etm+등/nbn
+
+등으로
+	등/nbu+으로/jca
+
+실망하거나
+	실망/ncpa+하/xsva+거나/ecc
+
+검찰
+	검찰/ncn
+
+수사로
+	수사/ncpa+로/jca
+
+불안감을
+	불안감/ncn+을/jco
+
+느껴,
+	느끼/pvg+어/ecs+,/sp
+
+탈당계를
+	탈당/ncpa+계/ncn+를/jco
+
+제출하거나
+	제출/ncpa+하/xsva+거나/ecc
+
+탈당을
+	탈당/ncpa+을/jco
+
+문의하는
+	문의/ncpa+하/xsva+는/etm
+
+당원들이
+	당원/ncr+들/ncn+이/jcc
+
+늘고
+	늘/pvg+고/ecc
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+당원명부가
+	당원/ncr+명부/ncn+가/jcs
+
+기록된
+	기록/ncpa+되/xsvn+ㄴ/etm
+
+서버가
+	서버/ncn+가/jcs
+
+검찰에
+	검찰/ncn+에/jca
+
+압수됨에
+	압수/ncpa+되/xsvn+ㅁ/etn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+탈당을
+	탈당/ncpa+을/jco
+
+하지
+	하/pvg+지/ecx
+
+못하고
+	못하/px+고/ecc
+
+기다리고
+	기다리/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+알려졌다
+	알리/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+현행법상
+	현행법상/ncn
+
+정당
+	정당/ncn
+
+가입이
+	가입/ncpa+이/jcc
+
+불가능한
+	불가능/ncps+하/xsms+ㄴ/etm
+
+공무원이나
+	공무원/ncn+이나/jcj
+
+공무원시험
+	공무원시험/ncn
+
+준비생,
+	준비생/ncn+,/sp
+
+취업준비생들
+	취업/ncpa+준비생/ncn+들/ncn
+
+가운데
+	가운데/ncn
+
+당원
+	당원/ncr
+
+정보가
+	정보/ncn+가/jcs
+
+외부로
+	외부/ncn+로/jca
+
+유출될
+	유출/ncpa+되/xsvn+ㄹ/etm
+
+것을
+	것/nbn+을/jco
+
+우려하는
+	우/ncn+이/jp+리/ep+어/ecx+하/px+는/etm
+
+당원들이
+	당원/ncr+들/ncn+이/jcc
+
+탈당을
+	탈당/ncpa+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+하루
+	하루/ncn
+
+빨리
+	빨리/mag
+
+서버가
+	서버/ncn+가/jcs
+
+돌아오기를
+	돌/pvg+아/ecx+오/px+기/etn+를/jco
+
+기다리고
+	기다리/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+상황이다
+	상황/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이석기,
+	이석기,/ncn
+
+오늘도
+	오늘/ncn+도/jxc
+
+안
+	안/mag
+
+나오나
+	나/pvg+아/ecx+오/px+나/ecs
+
+:
+	:/sp
+
+31일
+	31/nnc+일/nbu
+
+오전
+	오전/ncn
+
+서울
+	서울/ncn
+
+영등포구
+	영등포구/ncn
+
+여의동
+	여의/ncn+동/ncn
+
+국회
+	국회/ncn
+
+의원회관
+	의원회관/ncn
+
+이석기
+	이석기/ncn
+
+통합진보당
+	통합/ncpa+진보당/ncn
+
+의원
+	의원/ncr
+
+사무실
+	사무/ncn+이/jp+시/ep+ㄹ/etm
+
+앞에서
+	앞/ncn+에서/jca
+
+기자들이
+	기자/ncr+들/ncn+이/jcc
+
+이
+	이/mmd
+
+의원을
+	의원/ncr+을/jco
+
+기다리고
+	기다리/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+신창섭
+	신창섭/ncn
+
+기자
+	기/ncn+이/jp+자/ecc
+
+bluesky@munhwa.
+	bluesky/f+@/sy+munhwa/f+./sy
+
+com
+	com/f
+
+
+진보당
+	진보당/ncn
+
+서울시당
+	서울시당/ncn
+
+관계자는
+	관계자/ncn+는/jxc
+
+"공무원
+	"/sl+공무원/ncn
+
+시험이나
+	시험/ncpa+이나/jcj
+
+임용고시를
+	임용/ncpa+고시/ncn+를/jco
+
+준비하는
+	준비/ncpa+하/xsva+는/etm
+
+당원들의
+	당원/ncr+들/ncn+의/jcm
+
+경우
+	경우/ncn
+
+신분
+	신분/ncn
+
+노출을
+	노출/ncpa+을/jco
+
+우려하는
+	우/ncn+이/jp+리/ep+어/ecx+하/px+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많아
+	많/paa+아/ecx
+
+탈당
+	탈당/ncpa
+
+관련
+	관련/ncn
+
+문의가
+	문의/ncn+가/jcs
+
+하루
+	하루/ncn
+
+5건
+	5/nnc+건/nbu
+
+이상
+	이상/ncn
+
+꾸준히
+	꾸준히/mag
+
+들어오고
+	들/pvg+어/ecx+오/px+고/ecc
+
+있다"며
+	있다"며/ncn
+
+"하지만
+	"/sl+하지만/maj
+
+당에
+	당/ncn+에/jca
+
+서버가
+	서버/ncn+가/jcs
+
+남아있지
+	남/pvg+아/ecx+있/px+지/ecx
+
+않아
+	않/px+아/ecx
+
+당장
+	당장/mag
+
+처리하지
+	처리/ncpa+하/xsva+지/ecx
+
+못하고
+	못하/px+고/ecc
+
+있어
+	있/px+어/ecx
+
+당원관리
+	당원/ncr+관리/ncpa
+
+업무가
+	업무/ncn+가/jcs
+
+마비된
+	마비/ncpa+되/xsvn+ㄴ/etm
+
+상황"이라고
+	상황/ncn+"/sr+이/jp+라/ef+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+중앙당
+	중앙당/ncn
+
+관계자
+	관계/ncn+이/jp+자/ecc
+
+역시
+	역시/mag
+
+"구체적인
+	"/sl+구체/ncn+적/ncn+이/jp+ㄴ/etm
+
+숫자는
+	숫자/ncn+는/jxc
+
+밝힐
+	밝히/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없지만
+	없/paa+지/ecx+말/px+ㄴ/etm
+
+탈당을
+	탈당/ncpa+을/jco
+
+문의하거나
+	문의/ncpa+하/xsva+거나/ecc
+
+탈당계를
+	탈당/ncpa+계/ncn+를/jco
+
+제출하는
+	제출/ncpa+하/xsva+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+늘어난
+	늘/pvg+어/ecx+나/px+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+사실"이라며
+	사실/ncn+"/sr+이/jp+라며/ecs
+
+"현재는
+	"/sl+현재/ncn+는/jxc
+
+탈당계만
+	탈당/ncpa+계/ncn+만/jxc
+
+접수받고
+	접수/ncpa+받/xsva+고/ecc
+
+있으며
+	있/px+으며/ecc
+
+서버가
+	서버/ncn+가/jcs
+
+돌아오는
+	돌/pvg+아/ecx+오/px+는/etm
+
+대로
+	대/nbu+로/jca
+
+처리할
+	처리/ncpa+하/xsva+ㄹ/etm
+
+것"이라고
+	것/nbn+"/sr+이/jp+라/ef+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+탈당
+	탈당/ncpa
+
+처리가
+	처리/ncpa+가/jcc
+
+늦어지면서
+	늦/paa+어/ecx+지/px+면서/ecc
+
+취업
+	취업/ncpa
+
+준비생들이
+	준비생/ncn+들/ncn+이/jcc
+
+모인
+	모이/pvg+ㄴ/etm
+
+인터넷
+	인터넷/ncn
+
+카페
+	카페/ncn
+
+등에도
+	등/nbu+에/jca+도/jxc
+
+관련
+	관련/ncn
+
+문의나
+	문의/ncn+나/jcj
+
+불만을
+	불만/ncn+을/jco
+
+담은
+	담/pvg+은/etm
+
+글이
+	글/ncn+이/jcc
+
+이어지고
+	잇/pvg+어/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+5년
+	5/nnc+년/nbu
+
+전
+	전/nbn
+
+옛
+	옛/mma
+
+민주노동당
+	민주/ncn+노동당/ncn
+
+시절에
+	시절/ncn+에/jca
+
+입당해
+	입당/ncpa+하/xsva+어/ecx
+
+현재
+	현재/mag
+
+임용고시를
+	임용/ncpa+고시/ncn+를/jco
+
+준비하고
+	준비/ncn+하고/jct
+
+있는
+	있/px+는/etm
+
+장모(28)
+	장모(28)/ncn
+
+씨는
+	쓰/pvg+어/ef+는/etm
+
+"나는
+	"/sl+나/npp+는/jxc
+
+물론
+	물론/mag
+
+주변에서
+	주변/ncn+에서/jca
+
+대기업
+	대기업/ncn
+
+취업을
+	취업/ncpa+을/jco
+
+준비하고
+	준비/ncn+하고/jct
+
+있는
+	있/px+는/etm
+
+친구들도
+	친구/ncn+들/ncn+도/jxc
+
+진보당
+	진보당/ncn
+
+가입
+	가입/ncpa
+
+사실이
+	사실/ncn+이/jcc
+
+알려질까
+	알리/pvg+어/ecx+지/px+ㄹ까/ecs
+
+우려하는
+	우/ncn+이/jp+리/ep+어/ecx+하/px+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많다"며
+	많다"며/ncn
+
+"탈당계를
+	"/sl+탈당/ncpa+계/ncn+를/jco
+
+내고
+	내/pvg+고/ecc
+
+서버가
+	서버/ncn+가/jcs
+
+돌아오기를
+	돌/pvg+아/ecx+오/px+기/etn+를/jco
+
+기다리고
+	기다리/pvg+고/ecc
+
+있다"고
+	있/px+다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+한
+	하/pvg+ㄴ/etm
+
+인터넷
+	인터넷/ncn
+
+포털
+	포털/ncn
+
+게시판에는
+	게시판/ncn+에/jca+는/jxc
+
+'통진당
+	'통진당/ncn
+
+당원신분인데
+	당원/ncr+신분/ncn+이/jp+ㄴ데/ecs
+
+취업활동할
+	취업/ncpa+활동/ncpa+하/xsva+ㄹ/etm
+
+때
+	때/ncn
+
+영향을
+	영향/ncn+을/jco
+
+받을까요'란
+	받/pvg+을까/ef+요/jxf+'/sr+란/jcm
+
+제목의
+	제목/ncn+의/jcm
+
+글과
+	글/ncn+과/jct
+
+함께
+	함께/mag
+
+탈당계를
+	탈당/ncpa+계/ncn+를/jco
+
+내도
+	내/npp+도/jxc
+
+접수가
+	접수/ncpa+가/jcc
+
+되지
+	되/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+당적을
+	당적/ncn+을/jco
+
+갖고
+	갖/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+밝혀지면
+	밝히/pvg+어/ecx+지/px+면/ecs
+
+피해를
+	피해/ncpa+를/jco
+
+입을까
+	입/pvg+을까/ef
+
+우려된다는
+	우/ncn+이/jp+리/ep+어/ecx+되/px+ㄴ다/ef+는/etm
+
+글이
+	글/ncn+이/jcc
+
+올라오기도
+	오르/pvg+아/ecx+오/px+기/etn+도/jxc
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+진보당을
+	진보당/ncn+을/jco
+
+탈당하기
+	탈당/ncpa+하/xsva+기/etn
+
+위해서는
+	위하/pvg+어서/ecs+는/jxc
+
+당
+	당/ncn
+
+홈페이지에서
+	홈페이지/ncn+에서/jca
+
+탈당신고서를
+	탈당/ncpa+신고서/ncn+를/jco
+
+다운로드
+	다운로드/ncpa
+
+받아
+	받/pvg+아/ecx
+
+작성한
+	작성/ncpa+하/xsva+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+중앙당
+	중앙당/ncn
+
+혹은
+	혹은/maj
+
+전국
+	전국/ncn
+
+시
+	시/nbu
+
+도당
+	도당/ncn
+
+사무실에
+	사무실/ncn+에/jca
+
+팩스
+	팩스/ncn
+
+등을
+	등/nbu+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+제출하면
+	제출/ncpa+하/xsva+면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+입당
+	입당/ncpa
+
+역시
+	역시/mag
+
+탈당과
+	탈당/ncpa+과/jcj
+
+마찬가지로
+	마찬가지/ncn+로/jca
+
+입당원서를
+	입당/ncpa+원서/ncn+를/jco
+
+작성한
+	작성/ncpa+하/xsva+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+중앙당에
+	중앙당/ncn+에/jca
+
+제출해야
+	제출/ncpa+하/xsva+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+정철순
+	정철/ncn+순/ncn
+
+기자
+	기/ncn+이/jp+자/ecc
+
+csjeong1101@munhwa.
+	csjeong1101@munhwa./ncn
+
+com출처:문화일보
+	com/f+출처/ncn+:/sp+문화/ncn+일보/ncn

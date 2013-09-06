@@ -1,0 +1,731 @@
+괌
+	괌/ncn
+
+리프호텔
+	리프호텔/ncn
+
+(GUAM
+	(/sl+GUAM/f
+
+REEF
+	REEF/f
+
+HOTEL)
+	HOTEL/f+)/sr
+
+
+이번
+	이/nnc+번/nbu
+
+괌
+	괌/ncn
+
+여행
+	여행/ncpa
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+묵었던
+	묵/pvg+었/ep+던/etm
+
+호텔이다
+	호텔/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+한번도
+	한/nnc+번/nbu+도/jxc
+
+가
+	가/jcs
+
+보지
+	보/pvg+지/ecx
+
+않은
+	않/px+은/etm
+
+여행지에
+	여행지/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+계획을
+	계획/ncpa+을/jco
+
+짤
+	짜/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+숙소
+	숙소/ncn
+
+또한
+	또한/maj
+
+고민이기도
+	고민/ncpa+이/jp+기/etn+도/jxc
+
+한데
+	한데/mag
+
+
+내가
+	나/npp+가/jcs
+
+숙소를
+	숙소/ncn+를/jco
+
+고를
+	고르/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+방법
+	방법/ncn
+
+중
+	중/nbn
+
+하나는
+	하/pvg+어/ecx+나/px+는/etm
+
+제일
+	제/npp+이/jp+ㄹ/etm
+
+먼저교통의
+	먼저교통/ncn+의/jcm
+
+편리성을
+	편리성/ncn+을/jco
+
+보고
+	보고/ncn
+
+
+호텔을
+	호텔/ncn+을/jco
+
+언제
+	언제/mag
+
+지었는지
+	지/nbn+이/jp+었/ep+는지/ecs
+
+또는
+	또는/maj
+
+언제
+	언제/npd
+
+리모델링을했는지에
+	리모델링을했는지/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+점도살펴
+	점도살펴/ncn
+
+보곤
+	보/px+곤/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+괌
+	괌/ncn
+
+리프
+	리프/ncn
+
+호텔은
+	호텔/ncn+은/jxc
+
+DFS
+	DFS/f
+
+갤러리아등
+	갤러리아/ncn+등/ncn
+
+괌
+	괌/ncn
+
+시내
+	시내/ncn
+
+번화가에
+	번화가/ncn+에/jca
+
+위치해서
+	위치/ncn+해서/ncn
+
+접근성이
+	접근/ncpa+성/ncn+이/jcc
+
+좋을
+	좋/paa+을/etm
+
+뿐
+	뿐/nbn
+
+아니라
+	아니/paa+라/ecs
+
+
+최근에
+	최근/ncn+에/jca
+
+리모델링을
+	리모델링/ncn+을/jco
+
+거쳐
+	거치/pvg+어/ecx
+
+더욱
+	더욱/mag
+
+깔끔한
+	깔끔/ncps+하/xsms+ㄴ/etm
+
+분위기라
+	분위기/ncn+이/jp+라/ecs
+
+마음에
+	마음/ncn+에/jca
+
+들었다
+	들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+괌
+	괌/ncn
+
+리프
+	리프/ncn
+
+호텔에서
+	호텔/ncn+에서/jca
+
+내가제일
+	내가제/ncn+이/jp+ㄹ/etm
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+부분은
+	부분/ncn+은/jxc
+
+바로야외
+	바로야외/ncn
+
+풀장~
+	풀장/ncn+~/sd
+
+
+옆에서
+	옆/ncn+에서/jca
+
+보기엔
+	보/px+기/etn+엔/jca
+
+그냥
+	그냥/mag
+
+풀장과
+	풀장/ncn+과/jct
+
+크게
+	크/paa+게/ecs
+
+다른점이
+	다른점/ncn+이/jcc
+
+없어
+	없/paa+어/ecx
+
+보이지만
+	보이/pvg+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+정면에서
+	정면/ncn+에서/jca
+
+바라보면
+	바라/pvg+아/ecx+보/px+면/ecs
+
+이런
+	이런/mmd
+
+모습이~
+	모습/ncn+이/jcc+~/sd
+
+
+풀장에서
+	풀장/ncn+에서/jca
+
+바다를
+	바다/ncn+를/jco
+
+바로
+	바로/mag
+
+내려다
+	내리/pvg+어다/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+경관을
+	경관/ncn+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+이색적인
+	이색/ncn+적/ncn+이/jp+ㄴ/etm
+
+풀장
+	풀장/ncn
+
+덕에
+	덕/ncn+에/jca
+
+호텔에
+	호텔/ncn+에/jca
+
+머무르는
+	머무르/pvg+는/etm
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+이곳을
+	이곳/npd+을/jco
+
+바라보기도~
+	바라보/pvg+기/etn+도/jxc+~/sd
+
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+보면
+	보/px+면/ecs
+
+낭떠러지
+	낭떠러지/ncn
+
+처럼
+	처럼/ncn
+
+보이지만
+	보이/pvg+지/ecx+말/px+ㄴ/etm
+
+사실은
+	사실/ncn+은/jxc
+
+안전하게
+	안전/ncps+하/xsms+게/ecs
+
+해
+	하/pvg+어/ecx
+
+놓아서
+	놓/px+아/ecx
+
+걱정도
+	걱정/ncpa+도/jxc
+
+없고
+	없/paa+고/ecc
+
+^^
+	^/sy+^/sy
+
+
+풀장에서
+	풀장/ncn+에서/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+멋진
+	멋지/paa+ㄴ/etm
+
+괌의
+	괌/ncn+의/jcm
+
+노을
+	노/ncn+을/jco
+
+..
+	./sf+./sf
+
+
+이
+	이/mmd
+
+아름다웠던
+	아름답/paa+었/ep+던/etm
+
+순간을
+	순간/ncn+을/jco
+
+절대
+	절대/mag
+
+잊을
+	잊/pvg+을/etm
+
+수
+	수/nbn
+
+없다는
+	없/paa+다/ef+는/etm
+
+..
+	./sf+./sf
+
+
+풀장만
+	풀장/ncn+만/jxc
+
+있는게
+	있/px+는게/ecs
+
+아니라
+	아니/paa+라/ecs
+
+풀장
+	풀장/ncn
+
+옆으로
+	옆/ncn+으로/jca
+
+투몬
+	투몬/ncn
+
+비치로
+	비치/ncpa+로/jca
+
+연결된
+	연결/ncpa+되/xsvn+ㄴ/etm
+
+길이
+	길/ncn+이/jcc
+
+나
+	나/pvg+아/ecx
+
+있어
+	있/paa+어/ecs
+
+
+괌의
+	괌/ncn+의/jcm
+
+멋진
+	멋지/paa+ㄴ/etm
+
+바다를
+	바다/ncn+를/jco
+
+즐기기에도
+	즐기/pvg+기/etn+에/jca+도/jxc
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+객실
+	객실/ncn
+
+
+리모델링
+	리모델링/ncn
+
+해서
+	하/pvg+어서/ecs
+
+그런지깔끔한
+	그런지깔끔한/ncn
+
+분위기
+	분위기/ncn
+
+
+약간
+	약간/mag
+
+아쉬운건
+	아쉬운건/ncn
+
+침대가
+	침대/ncn+가/jcs
+
+약간
+	약간/mag
+
+습하게
+	습하/paa+게/ecs
+
+느껴졌던
+	느끼/pvg+어/ecx+지/px+었/ep+던/etm
+
+것
+	것/nbn
+
+(괌의
+	(/sl+괌/ncn+의/jcm
+
+다른
+	다른/mma
+
+호텔들도
+	호텔/ncn+들/ncn+도/jxc
+
+다
+	다/mag
+
+그런지는
+	그러/pvd+ㄴ지/ecs+는/jxc
+
+모르겠는데
+	모르/pvg+겠/ep+는데/ecs
+
+..)
+	./sf+./sf+)/sr
+
+
+뭐
+	뭐/npd
+
+이것도
+	이것/npd+도/jxc
+
+저녁에만
+	저녁/ncn+에/jca+만/jxc
+
+그렇고
+	그렇/pad+고/ecc
+
+아침에는
+	아침/ncn+에/jca+는/jxc
+
+잘
+	잘/mag
+
+모르겠지만
+	모르/pvg+겠/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+호텔내
+	호텔/ncn+내/ncn
+
+레스토랑에서
+	레스토랑/ncn+에서/jca
+
+뷔페로
+	뷔페/ncn+로/jca
+
+아침
+	아침/ncn
+
+조식~
+	조식/ncpa+~/sd
+
+
+뷔페
+	뷔페/ncn
+
+메뉴들도
+	메뉴/ncn+들/ncn+도/jxc
+
+괜찮고
+	괜찮/paa+고/ecc
+
+
+특히
+	특히/mag
+
+즉석에서
+	즉석/ncn+에서/jca
+
+만들어주는
+	만들/pvg+어/ecx+주/px+는/etm
+
+부들부들
+	부들부들/mag
+
+오믈렛이
+	오믈렛/ncn+이/jcc
+
+좋았다
+	좋/paa+아/ep+다/ef
+
+^^
+	^/sy+^/sy
+
+
+괌
+	괌/ncn
+
+리프
+	리프/ncn
+
+호텔은
+	호텔/ncn+은/jxc
+
+투몬
+	투몬/ncn
+
+지역에
+	지역/ncn+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+지리적으로
+	지리/ncn+적/ncn+으로/jca
+
+쇼핑이나
+	쇼핑/ncpa+이나/jcj
+
+관광을
+	관광/ncpa+을/jco
+
+하기
+	하/pvg+기/etn
+
+편리하다
+	편리/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+시설도
+	시설/ncpa+도/jxc
+
+깔끔하고
+	깔끔/ncn+하고/jct
+
+멋진
+	멋지/paa+ㄴ/etm
+
+풍광을
+	풍광/ncn+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+야외
+	야외/ncn
+
+풀장
+	풀장/ncn
+
+덕에
+	덕/ncn+에/jca
+
+여행의
+	여행/ncpa+의/jcm
+
+즐거움을
+	즐거움/ncn+을/jco
+
+더욱
+	더욱/mag
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳~
+	곳/nbu+~/sd
+
+
+http://sticker.
+	http/f+:/sp+//sp+//sp+sticker/f+./sy
+
+hanatour.
+	hanatour/f+./sy
+
+com
+	com/f
+
+
+공감
+	공감/ncpa
+
+버튼
+	버튼/ncn
+
+눌러주시는
+	누르/pvg+어/ecx+주/px+시/ep+는/etm
+
+센스~
+	센스/ncn+~/sd
+
+^^
+	^/sy+^/sy

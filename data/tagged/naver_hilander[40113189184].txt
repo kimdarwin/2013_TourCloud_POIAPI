@@ -1,0 +1,711 @@
+런던
+	런던/ncn
+
+킹스크로스역
+	킹스/ncn+크로스/ncpa+역/ncn
+
+(King's
+	(/sl+King/f+'/sr+s/f
+
+Cross
+	Cross/f
+
+station)
+	station/f+)/sr
+
+
+영화로도
+	영화/ncn+로/jca+도/jxc
+
+제작된
+	제작/ncpa+되/xsvn+ㄴ/etm
+
+조앤롤링의
+	조앤롤링/ncn+의/jcm
+
+소설해리포터에서
+	소설/ncn+해리/ncn+포터/ncn+에서/jca
+
+
+주인공
+	주인공/ncn
+
+해리가
+	해리/ncn+가/jcs
+
+호그와트행
+	호그와트행/ncn
+
+급행열차를
+	급행열차/ncn+를/jco
+
+타는
+	타/pvg+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+이
+	이/mmd
+
+런던던의
+	런던던/ncn+의/jcm
+
+킹스크로스
+	킹스/ncn+크로스/ncpa
+
+역입니다
+	역/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+소설에서는
+	소설/ncn+에서/jca+는/jxc
+
+킹스크로스역의
+	킹스/ncn+크로스/ncpa+역/ncn+의/jcm
+
+플랫폼
+	플랫폼/ncn
+
+9
+	9/nnc
+
+3/4
+	3/nnc+//sp+4/nnc
+
+에서
+	에/pvg+어서/ecs
+
+호그와트행
+	호그와트행/ncn
+
+열차가
+	열차/ncn+가/jcs
+
+출발
+	출발/ncpa
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+플랫폼은
+	플랫폼/ncn+은/jxc
+
+1,2,3,
+	1/nnc+,/sp+2/nnc+,/sp+3/nnc+,/sp
+
+...
+	.../se
+
+
+9,
+	9/nnc+,/sp
+
+10
+	10/nnc
+
+등
+	등/nbu
+
+정수로
+	정수/ncn+로/jca
+
+넘버링
+	넘버/ncn+링/ncn
+
+되야할텐데
+	되야할텐데/ncn
+
+
+소설
+	소설/ncn
+
+해리포터에서는
+	해리/ncn+포터/ncn+에서/jca+는/jxc
+
+특이하게
+	특이/ncps+하/xsms+게/ecs
+
+9번
+	9/nnc+번/nbu
+
+플랫폼과
+	플랫폼/ncn+과/jcj
+
+10번
+	10/nnc+번/nbu
+
+플랫폼
+	플랫폼/ncn
+
+사이의
+	사이/ncn+의/jcm
+
+기둥을
+	기둥/ncn+을/jco
+
+통과하면
+	통과/ncpa+하/xsva+면/ecs
+
+9
+	9/nnc
+
+3/4
+	3/nnc+//sp+4/nnc
+
+플랫폼이
+	플랫폼/ncn+이/jcc
+
+나오죠
+	나/pvg+아/ecx+오/px+죠/ef
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+해리포터에
+	해리/ncn+포터/ncn+에/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+기둥을
+	기둥/ncn+을/jco
+
+찾기위해9번
+	찾기위해9번/ncn
+
+플랫폼을
+	플랫폼/ncn+을/jco
+
+찾아
+	찾/pvg+아/ecx
+
+가
+	가/jcs
+
+봤습니다~~
+	보/pvg+아/ep+ㅂ니다/ef+~/sd+~/sd
+
+
+일단
+	일단/mag
+
+킹스크로스역은
+	킹스/ncn+크로스/ncpa+역/ncn+은/jxc
+
+9번과
+	9/nnc+번/nbu+과/jcj
+
+10번
+	10/nnc+번/nbu
+
+플랫폼이
+	플랫폼/ncn+이/jcc
+
+붙어
+	붙/pvg+어/ecx
+
+있지
+	있/px+지/ecx
+
+않네요
+	않/px+네/ef+요/jxf
+
+-.
+	-/sd+./sy
+
+-;;;
+	-/sd+;/sy+;/sy+;/sy
+
+
+게다가
+	게다가/maj
+
+9번
+	9/nnc+번/nbu
+
+플랫폼옆의
+	플랫폼/ncn+옆/ncn+의/jcm
+
+기둥은
+	기둥/ncn+은/jxc
+
+..
+	./sf+./sf
+
+
+폭도
+	폭/nbu+도/jxc
+
+너무
+	너무/mag
+
+좁고
+	좁/paa+고/ecc
+
+기둥
+	기둥/ncn
+
+중간이
+	중간/ncn+이/jcc
+
+튀어나와
+	튀어나오/pvg+아/ecx
+
+있어서
+	있/px+어서/ecs
+
+..
+	./sf+./sf
+
+
+영화에서
+	영화/ncn+에서/jca
+
+보던
+	보/px+던/etm
+
+장면과는
+	장면/ncn+과/jct+는/jxc
+
+다르네요
+	다르/paa+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+이거
+	이거/npd
+
+카트
+	카트/ncn
+
+하나
+	하나/nnc
+
+들어갈
+	들/pvg+어/ecx+가/px+ㄹ/etm
+
+폴이
+	폴/ncn+이/jcc
+
+안됩니다
+	안되/paa+ㅂ니다/ef
+
+...
+	.../se
+
+
+알고보니
+	알/pvg+고/ecx+보/px+니/ecs
+
+해리포터영화에서는
+	해리/ncn+포터/ncn+영화/ncn+에서/jca+는/jxc
+
+킹스크로스역
+	킹스/ncn+크로스/ncpa+역/ncn
+
+4번,
+	4/nnc+번/nbu+,/sp
+
+5번
+	5/nnc+번/nbu
+
+플랫폼
+	플랫폼/ncn
+
+사이에서
+	사이/ncn+에서/jca
+
+번호를
+	번호/ncn+를/jco
+
+바꿔
+	바꾸/pvg+어/ecx
+
+달고
+	달/paa+고/ecc
+
+찍었다고
+	찍/pvg+었/ep+다/ef+고/jcr
+
+하더군요
+	하/px+더군/ef+요/jxf
+
+...
+	.../se
+
+
+살짝
+	살짝/mag
+
+실망을
+	실망/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+돌아가려다가
+	돌/pvg+아/ecx+가/px+려/ecs+다가/jxc
+
+역무원에게
+	역무원/ncr+에게/jca
+
+물어봤더니
+	물/pvg+어/ecx+보/px+아/ep+니/ef
+
+
+9번이나
+	9/nnc+번/nbu+이나/jcj
+
+10번
+	10/nnc+번/nbu
+
+플랫폼과는
+	플랫폼/ncn+과/jct+는/jxc
+
+전혀
+	전혀/mag
+
+방향을
+	방향/ncn+을/jco
+
+가르쳐
+	가르치/pvg+어/ecx
+
+줍니다
+	주/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+4번
+	4/nnc+번/nbu
+
+5번도
+	5/nnc+번/nbu+도/jxc
+
+아닌
+	아니/paa+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+9번도
+	9/nnc+번/nbu+도/jxc
+
+아닌
+	아니/paa+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+역무원이
+	역무원/ncr+이/jcc
+
+가르쳐
+	가르치/pvg+어/ecx
+
+준
+	주/px+ㄴ/etm
+
+방향을
+	방향/ncn+을/jco
+
+따라가
+	따르/pvg+아/ecx+가/px+아/ecx
+
+봤더니
+	보/px+아/ep+니/ef
+
+....
+	.../se+./sf
+
+
+짜잔~~
+	짜잔/ncn+~/sd+~/sd
+
+
+벽
+	벽/ncn
+
+위에
+	위/ncn+에/jca
+
+써있는
+	쓰/pvg+어/ecx+있/px+는/etm
+
+플랫폼
+	플랫폼/ncn
+
+9
+	9/nnc
+
+3/4
+	3/nnc+//sp+4/nnc
+
+팻말~
+	팻말/ncn+~/sd
+
+
+알고보니
+	알/pvg+고/ecx+보/px+니/ecs
+
+해리포터
+	해리/ncn+포터/ncn
+
+팬들을
+	패/pvg+ㄴ/etm+들/nbn+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+역사
+	역사/ncn
+
+한쪽
+	하/pvg+ㄴ/etm+쪽/nbn
+
+편에
+	편/nbn+에/jca
+
+요런
+	요런/ii
+
+시설을
+	시설/ncpa+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+놨습니다
+	놨습니/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+게다가
+	게다가/maj
+
+카트가
+	카트/ncn+가/jcs
+
+벽으로
+	벽/ncn+으로/jca
+
+반쯤
+	반쯤/ncn
+
+들어간
+	들/pvg+어/ecx+가/px+ㄴ/etm
+
+것처럼만들어
+	것처럼만들어/ncn
+
+놨네요~
+	놨네요/ncn+~/sd
+
+
+요렇게
+	요렇/pad+게/ecs
+
+잡고
+	잡/pvg+고/ecc
+
+기념촬영
+	기념/ncpa+촬영/ncpa
+
+한번씩~^^
+	한번씩/ncn+~/sd+^/sy+^/sy
+
+
+(전신샷은
+	(/sl+전신/ncn+샷/ncn+은/jxc
+
+역시
+	역시/mag
+
+하드속에
+	하드/ncn+속/ncn+에/jca
+
+쿨쿨~
+	쿨쿨~/ncn
+
+)
+	)/sr
+
+
+해리포터
+	해리/ncn+포터/ncn
+
+팬들이라면
+	패/pvg+ㄴ/etm+들/nbn+이/jp+라면/ecs
+
+한번쯤
+	한번쯤/ncn
+
+가볼만
+	가/pvg+아/ecx+보/px+ㄹ/etm+만/nbs
+
+하겠네요
+	하/px+겠/ep+네/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+런던
+	런던/ncn
+
+지하철
+	지하철/ncn
+
+Circle라인
+	Circle/f+라/ncn+이/jp+ㄴ/etm
+
+King's
+	King/f+'/sr+s/f
+
+Cross
+	Cross/f
+
+St.
+	St/f+./sy
+
+Pancras역에서
+	Pancras/f+역/ncn+에서/jca
+
+내리면
+	내리/pvg+면/ecs
+
+됩니다~
+	되/pvg+ㅂ니다/ef+~/sd
+
+:)
+	:/sp+)/sr
+
+
+*****
+	*/sy+*/sy+*/sy+*/sy+*/sy
+
+
+아래
+	아래/ncn
+
+손가락을
+	손가락/ncn+을/jco
+
+누르면
+	누르/pvg+면/ecs
+
+더
+	더/mag
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+이
+	이/mmd
+
+글을
+	글/ncn+을/jco
+
+보게
+	보/px+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+가지
+	가지/nbu
+
+마시고
+	마시/pvg+고/ecc
+
+위의
+	위/ncn+의/jcm
+
+View
+	View/f
+
+on도
+	on/f+도/jxc
+
+클릭해
+	클릭/ncpa+하/xsva+어/ecx
+
+주세요~
+	주세/ncn+요/ncn+~/sd
+
+
+그리고
+	그리고/maj
+
+덧글과
+	덧글/ncn+과/jcj
+
+공감을
+	공감/ncpa+을/jco
+
+남겨
+	남기/pvg+어/ecx
+
+주시면
+	주/px+시/ep+면/ecs
+
+제가
+	저/npp+가/jcs
+
+앞으로
+	앞/ncn+으로/jca
+
+포스팅하는데
+	포스팅하는데/ncn
+
+큰
+	크/paa+ㄴ/etm
+
+힘이
+	힘/ncn+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+^^
+	^/sy+^/sy

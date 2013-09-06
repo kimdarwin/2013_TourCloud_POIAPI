@@ -1,0 +1,466 @@
+아주경제
+	아주경제/ncn
+
+김봉철
+	김봉철/ncn
+
+기자=김영삼
+	기자=김영삼/ncn
+
+전
+	전/nbn
+
+대통령은
+	대통령/ncr+은/jxc
+
+31일
+	31/nnc+일/nbu
+
+주사파
+	주사파/ncn
+
+종북
+	종북/ncn
+
+논란에
+	논란/ncpa+에/jca
+
+휩싸인
+	휩싸이/pvg+ㄴ/etm
+
+통합진보의
+	통합/ncpa+진보/ncpa+의/jcm
+
+이석기
+	이석기/ncn
+
+김재연
+	김재연/ncn
+
+의원
+	의원/ncr
+
+제명
+	제명/ncn
+
+문제와
+	문제/ncn+와/jcj
+
+관련,
+	관련/ncpa+,/sp
+
+친북세력이
+	친북/ncn+세력/ncn+이/jcc
+
+국회에
+	국회/ncn+에/jca
+
+있어서
+	있/px+어서/ecs
+
+되겠느냐
+	되/pvg+겠/ep+느냐/ef
+
+.
+	./sf
+
+
+민주통합당과
+	민주/ncn+통합/ncpa+당/ncn+과/jct
+
+협의해
+	협의/ncpa+하/xsva+어/ecx
+
+쫓아내야
+	쫓/pvg+아/ecx+내/px+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+고
+	고/mma
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+김
+	길/paa+ㅁ/etn
+
+전
+	전/nbn
+
+대통령은
+	대통령/ncr+은/jxc
+
+이날
+	이/nnc+날/nbu
+
+오후
+	오후/ncn
+
+서울
+	서울/ncn
+
+상도동
+	상도/ncn+동/ncn
+
+자택에서
+	자택/ncn+에서/jca
+
+새누리당
+	새누리당/ncn
+
+황우여
+	황우/ncn+이/jp+어/ecs
+
+대표의
+	대표/ncpa+의/jcm
+
+예방을
+	예방/ncpa+을/jco
+
+받고
+	받/pvg+고/ecc
+
+국회에서
+	국회/ncn+에서/jca
+
+제명된
+	제명/ncpa+되/xsvn+ㄴ/etm
+
+의원은
+	의원/ncr+은/jxc
+
+역대
+	역대/ncn
+
+나
+	나/npp
+
+하나
+	하나/nnc
+
+뿐인데,
+	뿐/nbn+이/jp+ㄴ데/ecs+,/sp
+
+난
+	나/px+ㄴ/etm
+
+민주주의를
+	민주주의/ncn+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+싸우다
+	싸우/pvg+다/ef
+
+그랬지만
+	그렇/pad+었/ep+지만/ecs
+
+이것은
+	이것/npd+은/jxc
+
+그런게
+	그러/pvd+ㄴ게/ecs
+
+아니다
+	아니/paa+다/ef+./sf
+
+라면서
+	라/ncn+이/jp+면서/ecc
+
+이같이
+	이/npd+같이/jca
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이에
+	이/npd+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+황
+	황/ncn
+
+대표는
+	대표/ncpa+는/jxc
+
+헌법의
+	헌법/ncn+의/jcm
+
+준수의무나
+	준수/ncpa+의무/ncn+나/jcj
+
+헌법가치에
+	헌법/ncn+가치/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+삐뚤어진
+	삐뚤/paa+어/ecx+지/px+ㄴ/etm
+
+의원을
+	의원/ncr+을/jco
+
+심사하는
+	심사/ncpa+하/xsva+는/etm
+
+자격심사제도가
+	자격심사/ncn+제도/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+며
+	며/ncn
+
+이를
+	이/npd+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+양당이
+	양당/ncn+이/jcc
+
+걸러내는
+	거르/pvg+어/ecx+내/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+옳지
+	옳/paa+지/ecx
+
+않냐는
+	않/px+냐/ef+는/etm
+
+의견에
+	의견/ncn+에/jca
+
+접근해
+	접근/ncpa+하/xsva+어/ecx
+
+있다
+	있/px+다/ef
+
+고
+	고/mma
+
+설명했다
+	설명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+그러자
+	그러자/maj
+
+김
+	길/paa+ㅁ/etn
+
+전
+	전/nbn
+
+대통령은
+	대통령/ncr+은/jxc
+
+친북세력이
+	친북/ncn+세력/ncn+이/jcc
+
+국회에
+	국회/ncn+에/jca
+
+있어선
+	있/px+어선/ecs
+
+안
+	안/mag
+
+된다
+	되/pvg+ㄴ다/ef
+
+면서
+	면/ncn+서/jca
+
+어떤
+	어떤/mmd
+
+경우에도
+	경우/ncn+에/jca+도/jxc
+
+용납할
+	용납/ncpa+하/xsva+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+참
+	참/mag
+
+기가
+	기/ncn+가/jcs
+
+막힌
+	막히/pvg+ㄴ/etm
+
+일
+	일/nnc
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+목소리를
+	목소리/ncn+를/jco
+
+높였다
+	높이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+지난달
+	지난달/ncn
+
+첫
+	첫/nno
+
+삽을
+	삽/ncn+을/jco
+
+뜬
+	뜨/pvg+ㄴ/etm
+
+김영삼
+	김영삼/ncn
+
+대통령
+	대통령/ncr
+
+기념
+	기념/ncpa
+
+도서관
+	도서관/ncn
+
+건립과
+	건립/ncpa+과/jcj
+
+관련해서는
+	관련/ncn+해서/ncn+는/jxc
+
+사실상
+	사실상/ncn
+
+전직
+	전직/ncpa
+
+대통령
+	대통령/ncr
+
+기념관이
+	기념관/ncn+이/jcc
+
+없는데
+	없/paa+는데/ecs
+
+정말
+	정말/mag
+
+멋진
+	멋지/paa+ㄴ/etm
+
+서울의
+	서울/ncn+의/jcm
+
+명물
+	명물/ncn
+
+기념관이
+	기념관/ncn+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+이라며
+	이/npd+이/jp+라며/ecs
+
+기대감을
+	기대감/ncn+을/jco
+
+나타냈다
+	나타내/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+한편
+	한/nnc+편/nbu
+
+이날
+	이/nnc+날/nbu
+
+예방에는
+	예방/ncpa+에/jca+는/jxc
+
+황영철
+	황영철/ncn
+
+비서실장이
+	비서실장/ncr+이/jcc
+
+동행했고,
+	동행/ncpa+하/xsva+었/ep+고/ecc+,/sp
+
+김
+	길/paa+ㅁ/etn
+
+전
+	전/nbn
+
+대통령의
+	대통령의/ncn
+
+차남
+	차/pvg+아/ecx+나/px+ㅁ/etn
+
+김현철
+	김현철/ncn
+
+가
+	가/jcs
+
+참석했다
+	참석/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:아주경제
+	출처:아주경제/ncn

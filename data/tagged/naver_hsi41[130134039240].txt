@@ -1,0 +1,1175 @@
+아파트
+	아파트/ncn
+
+거래가
+	거래/ncpa+가/jcc
+
+줄어도
+	줄/pvg+어도/ecs
+
+너무
+	너무/mag
+
+줄었다
+	줄/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+줄었다고
+	줄/pvg+었/ep+다/ef+고/jcr
+
+말하면
+	말/ncpa+하/xsva+면/ecs
+
+더
+	더/mag
+
+줄어들까
+	줄어들/pvg+ㄹ까/ecs
+
+겁이
+	겁/ncn+이/jcc
+
+나서
+	나/px+서/ecs
+
+공식적인
+	공식/ncn+적/ncn+이/jp+ㄴ/etm
+
+자리에서
+	자리/ncn+에서/jca
+
+말도
+	말/ncn+도/jxc
+
+못하겠다
+	못하/px+겠/ep+다/ef
+
+."
+	./sf+"/sl
+
+
+권혁세
+	권혁세/ncn
+
+금융감독원장은
+	금융/ncn+감독원/ncr+장/ncn+은/jxc
+
+최근
+	최근/mag
+
+사석에서
+	사석/ncn+에서/jca
+
+"부동산
+	"/sl+부동산/ncn
+
+거래가
+	거래/ncpa+가/jcc
+
+줄면서
+	줄/pvg+면서/ecc
+
+가격이
+	가격/ncn+이/jcc
+
+떨어지니
+	떨어지/pvg+니/ecs
+
+경기가
+	경기/ncn+가/jcs
+
+전반적으로
+	전반/ncn+적/ncn+으로/jca
+
+가라앉고
+	가라앉/pvg+고/ecc
+
+있다"면서
+	있/px+다/ef+"/sr+면/nbu+서/jca
+
+이같이
+	이/npd+같이/jca
+
+말했다고
+	말/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+15일
+	15/nnc+일/nbu
+
+금감원
+	금감원/ncn
+
+관계자가
+	관계자/ncn+가/jcs
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+권
+	권/nbu
+
+원장은
+	원장/ncr+은/jxc
+
+"우리나라
+	"/sl+우리나라/ncn
+
+중산층은
+	중산층/ncn+은/jxc
+
+자산
+	자산/ncn
+
+대부분이
+	대부분/ncn+이/jcc
+
+주택인데,
+	주택/ncn+이/jp+ㄴ데/ecs+,/sp
+
+가격
+	가격/ncn
+
+하락이
+	하락/ncpa+이/jcc
+
+계속되면
+	계속/ncpa+되/xsvn+면/ecs
+
+소비
+	소비/ncpa
+
+위축
+	위축/ncpa
+
+문제로
+	문제/ncn+로/jca
+
+이어질
+	잇/pvg+어/ecx+지/px+ㄹ/etm
+
+수밖에
+	수/nbn+밖에/jxc
+
+없다"면서
+	없/paa+다/ef+"/sr+면/nbu+서/jca
+
+"(부동산
+	"/sl+(/sl+부동산/ncn
+
+관련
+	관련/ncn
+
+대책이)
+	대책/ncn+이/jcc+)/sr
+
+마냥
+	마냥/mag
+
+이대로면
+	이/nnc+대/nbu+로/jca+이/jp+면/ecs
+
+경기를
+	경기/ncn+를/jco
+
+살릴
+	살리/pvg+ㄹ/etm
+
+길이
+	길/ncn+이/jcc
+
+없으니
+	없/paa+으니/ecs
+
+방법을
+	방법/ncn+을/jco
+
+찾아야
+	찾/pvg+아/ecx
+
+한다"고
+	하/px+ㄴ다/ef+"/sr+고/jcr
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+금감원은
+	금감원/ncn+은/jxc
+
+최근
+	최근/mag
+
+부동산
+	부동산/ncn
+
+경기
+	경기/ncn
+
+침체의
+	침체/ncpa+의/jcm
+
+심각성에
+	심각성/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+실무선에서
+	실무선/ncn+에서/jca
+
+검토에
+	검토/ncpa+에/jca
+
+착수했다
+	착수/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+금융감독당국이
+	금융/ncn+감독/ncpa+당국/ncn+이/jcc
+
+실물
+	실물/ncn
+
+분야인
+	분야/ncn+이/jp+ㄴ/etm
+
+부동산
+	부동산/ncn
+
+경기
+	경기/ncn
+
+침체에
+	침체/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+우려를
+	우려/ncpa+를/jco
+
+갖고
+	갖/pvg+고/ecc
+
+상황
+	상황/ncn
+
+파악에
+	파악/ncpa+에/jca
+
+나선
+	나서/pvg+ㄴ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+1월
+	1/nnc+월/nbu
+
+전국
+	전국/ncn
+
+주택
+	주택/ncn
+
+거래량이
+	거래량/ncn+이/jcc
+
+역대
+	역대/ncn
+
+최저치를
+	최저/ncn+치/ncn+를/jco
+
+기록할
+	기록/ncpa+하/xsva+ㄹ/etm
+
+만큼
+	만큼/nbn
+
+부동산
+	부동산/ncn
+
+경기는
+	경기/ncn+는/jxc
+
+극도로
+	극도/ncn+로/jca
+
+위축돼
+	위축/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+작년
+	작년/ncn
+
+12월
+	12/nnc+월/nbu
+
+마지막
+	마지막/ncn
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+투기과열지구였던
+	투기/ncpa+과열/ncpa+지구/ncn+이/jp+었/ep+던/etm
+
+서울
+	서울/ncn
+
+강남
+	강남/ncn
+
+서초
+	서초/ncn
+
+송파구
+	송파구/ncn
+
+등
+	등/nbu
+
+강남
+	강남/ncn
+
+3구를
+	3/nnc+구/nbu+를/jco
+
+9년
+	9/nnc+년/nbu
+
+만에
+	만/nnc+에/jca
+
+해제했지만,
+	해제/ncpa+하/xsva+었/ep+지만/ecs+,/sp
+
+효과가
+	효과/ncn+가/jcs
+
+미미한
+	미미/ncn+한/ncn
+
+상태다
+	상태/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+금감원
+	금감원/ncn
+
+실무팀,
+	실무팀/ncn+,/sp
+
+주택대출
+	주택/ncn+대출/ncpa
+
+규제
+	규제/ncpa
+
+실태
+	실태/ncn
+
+점검
+	점검/ncpa
+
+나서
+	나/px+서/ecs
+
+금감원은
+	금감원/ncn+은/jxc
+
+최근
+	최근/mag
+
+은행과
+	은행/ncn+과/jcj
+
+제2금융권에
+	제2금융권/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+LTV(주택담보대출비율
+	LTV/f+(주택/ncn+담보대출/ncn+비율/ncn
+
+담보가치
+	담보가치/ncn
+
+대비
+	대비/ncn
+
+대출이
+	대출/ncpa+이/jcc
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+한도)
+	한/nnc+도/jxc+)/sr
+
+운영
+	운영/ncpa
+
+실태를
+	실태/ncn+를/jco
+
+포함해
+	포함/ncpa+하/xsva+어/ecx
+
+전반적인
+	전반/ncn+적/ncn+이/jp+ㄴ/etm
+
+조사를
+	조사/ncn+를/jco
+
+벌이고
+	벌/nbu+이/jp+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+LTV는
+	LTV/f+는/jxc
+
+은행의
+	은행/ncn+의/jcm
+
+경우
+	경우/ncn
+
+투기지역은
+	투기/ncpa+지역/ncn+은/jxc
+
+40%,
+	40/nnc+%/su+,/sp
+
+비투기지역은
+	비/xp+투기/ncpa+지역/ncn+은/jxc
+
+60%다
+	60%다/ncn
+
+.
+	./sf
+
+
+보험사
+	보험사/ncn
+
+등
+	등/nbu
+
+제2금융권
+	제2금융권/ncn
+
+LTV는
+	LTV/f+는/jxc
+
+50~60%인데
+	50/nnc+~/sd+60/nnc+%/su+이/jp+ㄴ데/ecs
+
+은행권
+	은행권/ncn
+
+평균
+	평균/ncpa
+
+LTV는
+	LTV/f+는/jxc
+
+47%
+	47/nnc+%/su
+
+선이다
+	선/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+금감원
+	금감원/ncn
+
+관계자는
+	관계자/ncn+는/jxc
+
+"부동산
+	"/sl+부동산/ncn
+
+경기
+	경기/ncn
+
+침체와
+	침체/ncpa+와/jcj
+
+관련해서
+	관련/ncn+해서/ncn
+
+은행들의
+	은행/ncn+들/ncn+의/jcm
+
+실제
+	실제/ncn
+
+LTV
+	LTV/f
+
+수준을
+	수준/ncn+을/jco
+
+확인할
+	확인/ncpa+하/xsva+ㄹ/etm
+
+필요가
+	필요/ncps+가/jcc
+
+있다고
+	있/px+다/ef+고/jcr
+
+판단했다"고
+	판단/ncpa+하/xsva+었/ep+다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+정부
+	정부/ncn
+
+관계자는
+	관계자/ncn+는/jxc
+
+"조사를
+	"/sl+조사/ncn+를/jco
+
+해서
+	하/pvg+어서/ecs
+
+한도보다
+	한/nnc+도/nbu+보다/jca
+
+높으면
+	높/paa+으면/ecs
+
+당연히
+	당연히/mag
+
+줄이도록
+	줄/nbn+이/jp+도록/ecs
+
+하겠지만,
+	하/px+겠/ep+지만/ecs+,/sp
+
+낮게
+	낮/paa+게/ecs
+
+나올
+	나/pvg+아/ecx+오/px+ㄹ/etm
+
+경우
+	경우/ncn
+
+거래
+	것/nbn+이/jp+래/ef
+
+위축을
+	위축/ncpa+을/jco
+
+부추기는
+	부추기/pvg+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있는
+	있/px+는/etm
+
+만큼
+	만큼/nbn
+
+반대로
+	반대/ncn+로/jca
+
+'늘리라'고
+	'/sl+늘/pvg+ㄹ/etm+리/nbn+이/jp+라/ef+'/sr+고/jcr
+
+요구하는
+	요구/ncpa+하/xsva+는/etm
+
+등
+	등/nbu
+
+여러가지
+	여러가지/mma
+
+방안을
+	방안/ncn+을/jco
+
+검토하지
+	검토/ncpa+하/xsva+지/ecx
+
+않겠느냐"고
+	않/px+겠/ep+느냐/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+DTI(총부채상환비율
+	DTI(총부채상환비율/ncn
+
+소득
+	소득/ncn
+
+수준에
+	수준/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+은행
+	은행/ncn
+
+대출
+	대출/ncpa
+
+상한선을
+	상한선/ncn+을/jco
+
+제한하는
+	제한/ncpa+하/xsva+는/etm
+
+제도)와
+	제/npp+도/jxc+)/sr+와/jcj
+
+LTV
+	LTV/f
+
+규제의
+	규제/ncpa+의/jcm
+
+큰
+	크/paa+ㄴ/etm
+
+틀은
+	틀/pvg+ㄴ/etm
+
+유지하면서도,
+	유/ncn+이/jp+지/ecx+하/px+면서/ecs+도/jxc+,/sp
+
+틈새
+	틈새/ncn
+
+해법을
+	해법/ncn+을/jco
+
+찾으려는
+	찾/pvg+으리/ep+어/ef+는/etm
+
+노력을
+	노력/ncpa+을/jco
+
+하는
+	하/pvg+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+금감원
+	금감원/ncn
+
+관계자는
+	관계자/ncn+는/jxc
+
+"부동산
+	"/sl+부동산/ncn
+
+경기가
+	경기/ncn+가/jcs
+
+최악의
+	최악/ncn+의/jcm
+
+상황으로
+	상황/ncn+으로/jca
+
+가면
+	가/px+면/ecs
+
+정치권
+	정치권/ncn
+
+등에서
+	등/nbu+에서/jca
+
+DTI
+	DTI/f
+
+등
+	등/nbu
+
+금융
+	금융/ncn
+
+규제에
+	규제/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+공격이
+	공격/ncpa+이/jcc
+
+거세질
+	거세/paa+어/ecx+지/px+ㄹ/etm
+
+것을
+	것/nbn+을/jco
+
+선제적으로
+	선제/ncn+적/ncn+으로/jca
+
+대비하려는
+	대비/ncpa+하/xsva+려는/etm
+
+측면이
+	측면/ncn+이/jcc
+
+있다"고
+	있/px+다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+공식입장은
+	공식입장/ncn+은/jxc
+
+여전히
+	여전히/mag
+
+"주택
+	"/sl+주택/ncn
+
+대출,
+	대출/ncpa+,/sp
+
+규제
+	규제/ncpa
+
+완화
+	완화/ncpa
+
+없다"
+	없/paa+다/ef+"/sr
+
+하지만
+	하/pvg+지만/ecs
+
+이런
+	이런/mmd
+
+물밑
+	물밑/ncn
+
+움직임과는
+	움직이/pvg+ㅁ/etn+과/jct+는/jxc
+
+달리
+	달리/mag
+
+DTI와
+	DTI/f+와/jcj
+
+LTV
+	LTV/f
+
+규제에
+	규제/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+정부의
+	정부/ncn+의/jcm
+
+공식
+	공식/ncn
+
+입장은
+	입장/ncpa+은/jxc
+
+여전히
+	여전히/mag
+
+요지부동이다
+	요지부동/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+김석동
+	김석동/ncn
+
+금융위원회
+	금융/ncn+위원회/ncn
+
+위원장은
+	위원장/ncr+은/jxc
+
+"금융회사의
+	"/sl+금융회사/ncn+의/jcm
+
+건전성과
+	건전성/ncn+과/jcj
+
+대출
+	대출/ncpa
+
+상환
+	상환/ncpa
+
+능력을
+	능력/ncn+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+필요한
+	필요/ncps+하/xsms+ㄴ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+부동산
+	부동산/ncn
+
+경기대책으로
+	경기대책/ncn+으로/jca
+
+운용하는
+	운용/ncpa+하/xsva+는/etm
+
+것은
+	것/nbn+은/jxc
+
+맞지
+	맞/pvg+지/ecx
+
+않다"는
+	않/px+다/ef+"/sr+는/jxc
+
+입장을
+	입장/ncpa+을/jco
+
+줄곧
+	줄곧/mag
+
+유지하고
+	유지/ncn+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+권
+	권/nbu
+
+원장도
+	원장/ncr+도/jxc
+
+현재로선
+	현재/ncn+로선/jca
+
+DTI
+	DTI/f
+
+완화는
+	완화/ncpa+는/jxc
+
+어렵고,
+	어렵/paa+고/ecc+,/sp
+
+세제
+	세제/ncn
+
+완화
+	완화/ncpa
+
+등을
+	등/nbu+을/jco
+
+대안으로
+	대안/ncn+으로/jca
+
+제시하는
+	제시/ncpa+하/xsva+는/etm
+
+방안을
+	방안/ncn+을/jco
+
+살펴보도록
+	살피/pvg+어/ecx+보/px+도록/ecs
+
+지시한
+	지시/ncpa+하/xsva+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+알려졌다
+	알리/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+그는
+	그/npp+는/jxc
+
+"DTI
+	"/sl+DTI/f
+
+완화는
+	완화/ncpa+는/jxc
+
+900조원을
+	900/nnc+조/nnc+원/nbu+을/jco
+
+넘는
+	넘/pvg+는/etm
+
+가계
+	가계/ncn
+
+부채를
+	부채/ncn+를/jco
+
+더
+	더/mag
+
+악화시킬
+	악화/ncpa+시키/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+데다,
+	데/nbn+이/jp+다/ef+,/sp
+
+거래
+	것/nbn+이/jp+래/ef
+
+활성화로
+	활성화/ncn+로/jca
+
+이어진다는
+	잇/pvg+어/ecx+지/px+ㄴ다/ef+는/etm
+
+보장도
+	보장/ncpa+도/jxc
+
+못한다"면서
+	못하/px+ㄴ다/ef+"/sr+면/nbu+서/jca
+
+"양도소득세나
+	"/sl+양도소득세/ncn+나/jcj
+
+취득
+	취득/ncpa
+
+등록세
+	등록세/ncn
+
+등
+	등/nbu
+
+거래세를
+	거래세/ncn+를/jco
+
+낮춰
+	낮추/pvg+어/ecx
+
+'하우스푸어(주택
+	'하우스푸어(주택/ncn
+
+대출금을
+	대출금/ncn+을/jco
+
+갚느라
+	갚/pvg+느라/ecs
+
+어려운
+	어렵/paa+은/etm
+
+계층)'들이
+	계층/ncn+)/sr+'/sr+들/nbn+이/jcc
+
+집을
+	집/ncn+을/jco
+
+팔고
+	팔/pvg+고/ecc
+
+작은
+	작/paa+은/etm
+
+평수로
+	평수/ncn+로/jca
+
+줄여
+	줄이/pvg+어/ecx
+
+빠져나가도록
+	빠지/pvg+어/ecx+나/px+아/ecx+가/px+도록/ecs
+
+해줘야
+	하/pvg+어/ecx+주/px+어야/ecs
+
+한다"고
+	하/px+ㄴ다/ef+"/sr+고/jcr
+
+말했다고
+	말/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+관계자들이
+	관계자/ncn+들/ncn+이/jcc
+
+전했다
+	전하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+금융위
+	금융/ncn+위/ncn
+
+관계자는
+	관계자/ncn+는/jxc
+
+"DTI는
+	"/sl+DTI/f+는/jxc
+
+풀어주지
+	풀/pvg+어/ecx+주/px+지/ecx
+
+않기로
+	않/px+기/etn+로/jca
+
+확고하게
+	확고/ncps+하/xsms+게/ecs
+
+방침을
+	방침/ncn+을/jco
+
+정했기
+	정하/pvg+었/ep+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+더이상
+	더이상/mag
+
+논의가
+	논의/ncn+가/jcs
+
+없으며,
+	없/paa+으며/ecc+,/sp
+
+LTV를
+	LTV/f+를/jco
+
+조정할지는
+	조정/ncpa+하/xsva+ㄹ지/ecs+는/jxc
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+공론화가
+	공론화/ncn+가/jcs
+
+필요하다"고
+	필요/ncps+하/xsms+다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:조선비즈
+	출처:조선비즈/ncn

@@ -1,0 +1,904 @@
+지방
+	지방/ncn
+
+미입주
+	미입주/ncn
+
+아파트를
+	아파트/ncn+를/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+전문브로커,
+	전문/ncn+브로커/ncn+,/sp
+
+일명
+	일/nnc+명/nbu
+
+'입주방'들이
+	'/sr+입주/ncpa+방/ncn+'/sr+들/nbn+이/jcc
+
+활개를
+	활개/ncn+를/jco
+
+치고
+	치/pvg+고/ecc
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+이를
+	이/npd+를/jco
+
+단속할
+	단속/ncpa+하/xsva+ㄹ/etm
+
+제도적
+	제도/ncn+적/ncn
+
+장치가
+	장치/ncpa+가/jcc
+
+없어
+	없/paa+어/ecx
+
+건설사와
+	건설사/ncn+와/jcj
+
+금융권이
+	금융권/ncn+이/jcc
+
+피해를
+	피해/ncpa+를/jco
+
+보고
+	보/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+26일
+	26/nnc+이/jp+ㄹ/etm
+
+분양사무소와
+	분양/ncpa+사무소/ncn+와/jcj
+
+주택건설업계
+	주택건설업계/ncn
+
+등에
+	등/nbu+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+이들
+	이/ncn+들/xsncc
+
+브로커는
+	브로커/ncn+는/jxc
+
+입주예정
+	입주/ncpa+예정/ncn
+
+아파트
+	아파트/ncn
+
+계약자들을
+	계약자/ncn+들/ncn+을/jco
+
+대상으로
+	대상/ncn+으로/jca
+
+대출승계
+	대출/ncpa+승계/ncpa
+
+명의자를
+	명의/ncn+자/ncn+를/jco
+
+구해주겠다고
+	구하/pvg+어/ecx+주/px+겠/ep+다/ef+고/jcr
+
+접근,
+	접근/ncpa+,/sp
+
+분양권을
+	분양권/ncn+을/jco
+
+넘겨
+	넘기/pvg+어/ecx
+
+받은
+	받/pvg+은/etm
+
+뒤
+	뒤/ncn
+
+절반도
+	절반/ncn+도/jxc
+
+안되는
+	안되/paa+는/etm
+
+가격에
+	가격/ncn+에/jca
+
+되팔아
+	되팔/pvg+아/ecx
+
+차익을
+	차익/ncn+을/jco
+
+남기고
+	남기/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이들
+	이/ncn+들/xsncc
+
+브로커들은
+	브로커/ncn+들/ncn+은/jxc
+
+분양권을
+	분양권/ncn+을/jco
+
+넘겨
+	넘기/pvg+어/ecx
+
+받아
+	받/pvg+아/ecx
+
+팔리지
+	팔리/pvg+지/ecx
+
+않을
+	않/px+을/etm
+
+경우
+	경우/ncn
+
+중도금
+	중도금/ncn
+
+이자와
+	이자/ncn+와/jcj
+
+잔금
+	잔금/ncn
+
+연체료를
+	연체료/ncn+를/jco
+
+계속
+	계속/mag
+
+납부하지
+	납부/ncpa+하/xsva+지/ecx
+
+않은
+	않/px+은/etm
+
+채
+	채/nbn
+
+버티기
+	버티/pvg+기/etn
+
+작저전에
+	작저전/ncn+에/jca
+
+돌입해
+	돌입/ncpa+하/xsva+어/ecx
+
+분양권은
+	분양권/ncn+은/jxc
+
+말
+	말/ncn
+
+그대로
+	그대로/mag
+
+'깡통'으로
+	'/sr+깡통/ncn+'/sr+으로/jca
+
+전락하고
+	전락/ncpa+하고/jct
+
+만다
+	말/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+과정에서
+	과정/ncn+에서/jca
+
+매매되는
+	매매/ncpa+되/xsvn+는/etm
+
+분양권
+	분양권/ncn
+
+가격이
+	가격/ncn+이/jcc
+
+형성된
+	형성/ncpa+되/xsvn+ㄴ/etm
+
+시세보다
+	시세/ncn+보다/jca
+
+낮아
+	낮/paa+아/ecx
+
+실제
+	실제/ncn
+
+시세를
+	시세/ncn+를/jco
+
+더
+	더/mag
+
+떨어트려
+	떨어트려/ncn
+
+실수요자들까지
+	실수요자/ncn+들/ncn+까지/jxc
+
+피해를
+	피해/ncpa+를/jco
+
+보고
+	보/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+투자자들도
+	투자자/ncn+들/ncn+도/jxc
+
+대리
+	대/nbu+이/jp+리/ef
+
+명의자를
+	명의/ncn+자/ncn+를/jco
+
+구해주는
+	구하/pvg+어/ecx+주/px+는/etm
+
+조건으로
+	조건/ncn+으로/jca
+
+비용을
+	비용/ncn+을/jco
+
+추가로
+	추가/ncpa+로/jca
+
+내고
+	내/pvg+고/ecc
+
+있어
+	있/px+어/ecx
+
+분양권에
+	분양권/ncn+에/jca
+
+명의비용까지
+	명의/ncn+비용/ncn+까지/jxc
+
+손실이
+	손실/ncpa+이/jcc
+
+크다
+	크/paa+다/ef
+
+.
+	./sf
+
+
+올해
+	올해/ncn
+
+초
+	초/nbu
+
+입주를
+	입주/ncpa+를/jco
+
+시작한
+	시작/ncpa+하/xsva+ㄴ/etm
+
+포항의
+	포항/ncn+의/jcm
+
+A아파트의
+	A/f+아파트/ncn+의/jcm
+
+경우
+	경우/ncn
+
+1000여가구
+	1000/nnc+여/xsnu+가구/nbu
+
+중
+	중/nbn
+
+이
+	이/mmd
+
+같은
+	같/paa+은/etm
+
+깡통
+	깡통/ncn
+
+분양권으로
+	분양권/ncn+으로/jca
+
+입주기간이
+	입주/ncpa+기간/ncn+이/jcc
+
+지나
+	지나/pvg+아/ecx
+
+계약이
+	계약/ncpa+이/jcc
+
+자동해지되거나
+	자동/ncn+해/ncn+이/jp+지/ecx+되/px+거나/ecc
+
+해지될
+	해/nbu+이/jp+지/ecx+되/px+ㄹ/etm
+
+위기에
+	위/ncn+이/jp+기/etn+에/jca
+
+놓인
+	놓이/pvg+ㄴ/etm
+
+가구는
+	가구/ncn+는/jxc
+
+20여
+	20/nnc+여/xsnu
+
+가구에
+	가구/ncn+에/jca
+
+이른다
+	이르/paa+ㄴ다/ef
+
+.
+	./sf
+
+
+입주방이라
+	입주/ncpa+방/ncn+이/jp+라/ecs
+
+불리는
+	불리/pvg+는/etm
+
+이들
+	이/ncn+들/xsncc
+
+브로커들은
+	브로커/ncn+들/ncn+은/jxc
+
+경북
+	경북/ncn
+
+지역을
+	지역/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+활개를
+	활개/ncn+를/jco
+
+치고
+	치/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이들은
+	이/ncn+들/xsncc+은/jxc
+
+특히
+	특히/mag
+
+분양시장
+	분양/ncpa+시장/ncn
+
+호황기였던
+	호황/ncn+기/ncn+이/jp+었/ep+던/etm
+
+2004~2006년
+	2004/nnc+~/sd+2006/nnc+년/nbu
+
+분양해
+	분양/ncpa+하/xsva+어/ecx
+
+올
+	오/px+ㄹ/etm
+
+초부터
+	초/nbu+부터/jxc
+
+입주를
+	입주/ncpa+를/jco
+
+시작했거나
+	시작/ncpa+하/xsva+었/ep+거나/ecc
+
+입주예정인
+	입주/ncpa+예정/ncn+이/jp+ㄴ/etm
+
+아파트들을
+	아파트/ncn+들/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+활약하고
+	활약/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+지역도
+	지역/ncn+도/jxc
+
+옮겨가고
+	옮기/pvg+어/ecx+가/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+연초
+	연초/ncn
+
+부산,
+	부산/ncps+,/sp
+
+대구
+	대구/ncn
+
+등에서
+	등/nbu+에서/jca
+
+많은
+	많/paa+은/etm
+
+이윤을
+	이윤/ncn+을/jco
+
+남긴
+	남기/pvg+ㄴ/etm
+
+이들은
+	이/ncn+들/xsncc+은/jxc
+
+최근
+	최근/mag
+
+활동무대를
+	활동무대/ncn+를/jco
+
+포항,
+	포항,/ncn
+
+울산
+	울산/ncn
+
+등으로
+	등/nbu+으로/jca
+
+옮긴
+	옮기/pvg+ㄴ/etm
+
+상태다
+	상태/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+경북지역뿐
+	경북지역/ncn+뿐/jxc
+
+아니라
+	아니/paa+라/ecs
+
+최근에는
+	최근/ncn+에/jca+는/jxc
+
+광주지역에서도
+	광주지역/ncn+에서/jca+도/jxc
+
+입주예정지를
+	입주/ncpa+예정지/ncn+를/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+깡통
+	깡통/ncn
+
+분양권으로
+	분양권/ncn+으로/jca
+
+전락시키는
+	전락/ncpa+시키/xsva+는/etm
+
+일이
+	일/ncn+이/jcc
+
+나타나고
+	나타나/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+이를
+	이/npd+를/jco
+
+단속할
+	단속/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+방안은
+	방안/ncn+은/jxc
+
+사실상
+	사실상/ncn
+
+전무한
+	전무/ncps+하/xsms+ㄴ/etm
+
+상태다
+	상태/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+건설업계
+	건설업계/ncn
+
+관계자는
+	관계자/ncn+는/jxc
+
+"지방은
+	"/sl+지방/ncn+은/jxc
+
+계약
+	계약/ncpa
+
+후
+	후/ncn
+
+미등기
+	미등기/ncpa
+
+전매가
+	전매/ncn+가/jcs
+
+가능해
+	가능/ncps+하/xsms+어/ecx
+
+금융권이
+	금융권/ncn+이/jcc
+
+약정
+	약정/ncn
+
+등으로
+	등/nbu+으로/jca
+
+이를
+	이/npd+를/jco
+
+막을
+	막/ncn+을/jco
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+방법도
+	방법/ncn+도/jxc
+
+없다"며
+	없다"며/ncn
+
+"단지
+	"/sl+달/paa+ㄴ지/ecs
+
+은행들이
+	은행/ncn+들/ncn+이/jcc
+
+분양권
+	분양권/ncn
+
+명의변경
+	명의변경/ncpa
+
+때
+	때/ncn
+
+매수자의
+	매수/ncn+자/ncn+의/jcm
+
+신용
+	신용/ncpa
+
+및
+	및/maj
+
+금융상태를
+	금융/ncn+상태/ncn+를/jco
+
+정확히
+	정확히/mag
+
+파악하는
+	파악/ncpa+하/xsva+는/etm
+
+방법
+	방법/ncn
+
+밖에
+	밖/ncn+에/jca
+
+없다"고
+	없/paa+다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+정부도
+	정부/ncn+도/jxc
+
+손을
+	손/ncn+을/jco
+
+댈
+	대/px+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+분양
+	분양/ncpa
+
+아파트를
+	아파트/ncn+를/jco
+
+돌며
+	돌/pvg+며/ecc
+
+전매가
+	전매/ncn+가/jcs
+
+금지된
+	금지/ncpa+되/xsvn+ㄴ/etm
+
+아파트의
+	아파트/ncn+의/jcm
+
+불법
+	불법/ncn
+
+전매를
+	전매/ncn+를/jco
+
+알선하던
+	알선/ncpa+하/xsva+던/etm
+
+기획
+	기획/ncpa
+
+부동산,
+	부동산/ncn+,/sp
+
+일명
+	일/nnc+명/nbu
+
+'떳다방'들은
+	'떳다방'들/ncn+은/jxc
+
+불법행위를
+	불법행위/ncpa+를/jco
+
+한
+	하/pvg+ㄴ/etm
+
+것이어서
+	것/nbn+이/jp+어서/ecs
+
+단속이
+	단속/ncpa+이/jcc
+
+가능했지만,
+	가능/ncps+하/xsms+었/ep+지만/ecs+,/sp
+
+사실상
+	사실상/ncn
+
+이들은
+	이/ncn+들/xsncc+은/jxc
+
+전매가
+	전매/ncn+가/jcs
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+분양권을
+	분양권/ncn+을/jco
+
+매매하는
+	매매/ncpa+하/xsva+는/etm
+
+것이어서
+	것/nbn+이/jp+어서/ecs
+
+제제
+	제제/ncn
+
+방법이
+	방법/ncn+이/jcc
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+더구나
+	더구나/mag
+
+명의
+	명/nbu+의/jcm
+
+대여의
+	대여/ncn+의/jcm
+
+경우
+	경우/ncn
+
+사실상
+	사실상/ncn
+
+단속이
+	단속/ncpa+이/jcc
+
+쉽지
+	쉽/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+상태다
+	상태/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+관계자는
+	관계자/ncn+는/jxc
+
+"명의를
+	"/sl+명의/ncn+를/jco
+
+대여해
+	대/nbu+이/jp+어/ecx+하/px+어/ecx
+
+누군가가
+	누군가/npp+가/jcs
+
+피해를
+	피해/ncpa+를/jco
+
+입었다면
+	입/pvg+었/ep+다면/ecs
+
+형사처벌이
+	형사처벌/ncn+이/jcc
+
+가능하지만
+	가능/ncps+하/xsms+지만/ecs
+
+그렇지
+	그렇/pad+지/ecx
+
+않다면
+	않/px+다면/ecs
+
+단속
+	단속/ncpa
+
+방법이
+	방법/ncn+이/jcc
+
+없다"고
+	없/paa+다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+
+정수영
+	정수/ncn+영/ncn
+
+기자
+	기/ncn+이/jp+자/ecc
+
+아시아경제
+	아시아경제/ncn

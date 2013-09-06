@@ -1,0 +1,1096 @@
+[일본여행/간사이여행]
+	[일본여행/간사이여행]/ncn
+
+프롤로그,
+	프롤로그/ncn+,/sp
+
+오사카
+	오사/ncn+카/ncn
+
+고베여행
+	고베여행/ncn
+
+잘
+	잘/mag
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+
+간사이
+	간사/ncr+이/jcc
+
+여행
+	여행/ncpa
+
+잘다녀왔습니다
+	잘다녀왔습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+역시나
+	역시/mag+나/jxc
+
+너무
+	너무/mag
+
+짧았던
+	짧/paa+아/ep+ㄴ/etm
+
+간사이
+	간사/ncr+이/jcc
+
+여행,
+	여행/ncpa+,/sp
+
+잘
+	잘/mag
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+이용한
+	이용/ncpa+하/xsva+ㄴ/etm
+
+김포공항에서
+	김포공항/ncn+에서/jca
+
+공항버스가
+	공항버스/ncn+가/jcs
+
+끊기는
+	끊/pvg+기/etn+는/jxc
+
+바람에지하철을
+	바람에지하철/ncn+을/jco
+
+탔는데,
+	트/pvg+었/ep+는데/ecs+,/sp
+
+오다가
+	오/px+다가/ecs
+
+이마저도
+	이/npd+마저/jxc+도/jxc
+
+끊기고;;;
+	끊기고;;;/ncn
+
+다시
+	다시/mag
+
+택시를
+	택시/ncn+를/jco
+
+갈아타고
+	갈/pvg+아/ecx+타/px+고/ecc
+
+집에
+	집/ncn+에/jca
+
+왔습니다
+	오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+집에
+	집/ncn+에/jca
+
+오니
+	오/px+니/ecs
+
+12시를
+	12/nnc+시/nbu+를/jco
+
+넘겨
+	넘기/pvg+어/ecx
+
+2박
+	2/nnc+박/nbu
+
+4일이
+	4/nnc+일/nbu+이/jcc
+
+되었더군요
+	되/pvg+었/ep+더군/ef+요/jxf
+
+.
+	./sf
+
+
+공항에
+	공항/ncn+에/jca
+
+오자마자
+	오/px+자마자/ecs
+
+드는
+	들/pvg+는/etm
+
+생각은,
+	생각/ncpa+은/jxc+,/sp
+
+'아
+	'/sl+아/ii
+
+...
+	.../se
+
+
+어쩌지
+	어쩌지/ii
+
+?
+	?/sf
+
+
+블로그에
+	블로그/ncn+에/jca
+
+올릴사진이
+	올릴사진/ncn+이/jcc
+
+없는데'
+	없/paa+는데/ecs+'/sr
+
+짧은
+	짧/paa+은/etm
+
+일정이었던데다
+	일정/ncn+이/jp+었/ep+던/etm+데/nbn+이/jp+다/ef
+
+공식
+	공식/ncn
+
+스케줄이
+	스케줄/ncn+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+자유롭게
+	자유/ncn+롭/xsmn+게/ecs
+
+사진을
+	사진/ncn+을/jco
+
+찍을
+	찍/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+시간이
+	시간/ncn+이/jcc
+
+몇시간
+	몇/nnc+시간/nbu
+
+되지
+	되/pvg+지/ecx
+
+않았습니다
+	않/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+그럼에도
+	그러/pvd+ㅁ/etn+에/jca+도/jxc
+
+불구하고
+	불구/ncps+하고/jct
+
+잠자는
+	잠자/pvg+는/etm
+
+시간을
+	시간/ncn+을/jco
+
+줄여가며
+	줄이/pvg+어/ecx+가/px+며/ecc
+
+사진을
+	사진/ncn+을/jco
+
+찍으시던
+	찍/pvg+으시/ep+던/etm
+
+일행분들,
+	일행/ncn+분/ncn+들/xsncc+,/sp
+
+정말
+	정말/mag
+
+존경스러웠습니다
+	존경/ncpa+스럽/xsmn+었/ep+습니다/ef
+
+.
+	./sf
+
+
+비록
+	비록/mag
+
+사진을
+	사진/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+찍지는
+	찍/pvg+지/ef+는/etm
+
+못했지만좋은
+	못했지만좋/ncn+은/jxc
+
+분들과
+	불/pvg+ㄴ/etm+들/nbn+과/jct
+
+함께할
+	함께하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어서
+	있/px+어서/ecs
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+여행이었습니다
+	여행/ncpa+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+항상
+	항상/mag
+
+바쁜
+	바쁘/paa+ㄴ/etm
+
+서로의
+	서로/ncn+의/jcm
+
+스케줄로
+	스케줄/ncn+로/jca
+
+인해
+	인하/pvg+어/ecx
+
+함께하기
+	함께하/pvg+기/etn
+
+어려웠던
+	어렵/paa+었/ep+던/etm
+
+10인연맹
+	10인연맹/ncn
+
+작가분,
+	작가/ncr+분/ncn+,/sp
+
+그리고또
+	그리고또/ncn
+
+멘토를
+	멘토/ncn+를/jco
+
+뛰어넘는
+	뛰어넘/pvg+는/etm
+
+열정을
+	열정/ncn+을/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+5분의
+	5/nnc+분/nbu+의/jcm
+
+멘티분들,
+	멘티분들,/ncn
+
+그리고
+	그리고/maj
+
+현지에서
+	현지/ncn+에서/jca
+
+많은
+	많/paa+은/etm
+
+도움주신
+	도움/ncn+주/ncn+이/jp+시/ep+ㄴ/etm
+
+간사이
+	간사/ncr+이/jcc
+
+지역의
+	지역/ncn+의/jcm
+
+여러
+	여러/mma
+
+관계자
+	관계/ncn+이/jp+자/ecc
+
+분들
+	불/pvg+ㄴ들/ecs
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+세심한
+	세심/ncn+한/ncn
+
+배려에
+	배려/ncpa+에/jca
+
+여러번
+	여러/nnc+번/nbu
+
+놀랐습니다
+	놀라/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+저의
+	저/npp+의/jcm
+
+역할은
+	역할/ncn+은/jxc
+
+제
+	저/npp+의/jcm
+
+블로그를
+	블로그/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+여행을
+	여행/ncpa+을/jco
+
+꿈꾸는
+	꿈꾸/pvg+는/etm
+
+모든
+	모든/mma
+
+분들께
+	불/pvg+ㄴ/etm+들/nbn+께/jca
+
+그
+	그/mmd
+
+곳의
+	곳/ncn+의/jcm
+
+이야기와
+	이야기/ncpa+와/jcj
+
+매력을
+	매력/ncn+을/jco
+
+잘
+	잘/mag
+
+전해
+	전하/pvg+어/ecx
+
+드리는
+	드리/pvg+는/etm
+
+것이라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+생각합니다
+	생각/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+간사이여행은,
+	간사이여행은,/ncn
+
+간사이의
+	간사/ncr+이/ncn+의/jcm
+
+매력
+	매력/ncn
+
+중
+	중/nbn
+
+극히
+	극히/mag
+
+일부분
+	일부분/ncn
+
+밖에
+	밖/ncn+에/jca
+
+담아
+	담/pvg+아/ecx
+
+오지
+	오/pvg+지/ecx
+
+못해
+	못하/pvg+어/ecx
+
+너무
+	너무/mag
+
+아쉬운
+	아쉽/paa+은/etm
+
+마음입니다
+	마음/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+언젠가
+	언젠가/mag
+
+말씀드렸지만,
+	말씀드리/pvg+었/ep+지만/ecs+,/sp
+
+저의
+	저/npp+의/jcm
+
+여행은
+	여행/ncpa+은/jxc
+
+저만의
+	저/npp+만의/jcm
+
+여행이
+	여행/ncpa+이/jcc
+
+아니니까요
+	아니/paa+니까/ef+요/jxf
+
+.
+	./sf
+
+
+그래도열심히
+	그래도열심히/ncn
+
+풀어보도록
+	풀/pvg+어/ecx+보/px+도록/ecs
+
+하겠습니다
+	하/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+간사이
+	간사/ncr+이/jcc
+
+공항을
+	공항/ncn+을/jco
+
+비롯한
+	비롯/ncpa+하/xsva+ㄴ/etm
+
+간사이의
+	간사/ncr+이/ncn+의/jcm
+
+많은
+	많/paa+은/etm
+
+분들께서
+	불/pvg+ㄴ/etm+들/nbn+께서/jcs
+
+정말
+	정말/mag
+
+열렬한
+	열렬/ncn+한/ncn
+
+환영을
+	환영/ncpa+을/jco
+
+해주셨습니다
+	하/pvg+어/ecx+주/px+셨/ep+습니다/ef
+
+.
+	./sf
+
+
+사진을
+	사진/ncn+을/jco
+
+통해서도
+	통하/pvg+어서/ecs+도/jxc
+
+그
+	그/mmd
+
+뜨거운
+	뜨겁/paa+은/etm
+
+마음이
+	마음/ncn+이/jcc
+
+느껴지지
+	느끼/pvg+어/ecx+지/px+지/ecx
+
+않나요
+	않/px+나/ef+요/jxf
+
+?
+	?/sf
+
+
+^^
+	^/sy+^/sy
+
+
+이렇게
+	이렇/pad+게/ecs
+
+맛있는
+	맛있/paa+는/etm
+
+술도
+	술/ncn+도/jxc
+
+주시고
+	주/px+시/ep+고/ecc
+
+말입니다
+	말/ncn+이/jp+ㅂ니다/ef
+
+^^
+	^/sy+^/sy
+
+
+"이
+	"/sl+이/mmd
+
+술
+	술/ncn
+
+한번
+	한/nnc+번/nbu
+
+잡솨바~"
+	잡솨바/ncn+~/sd+"/sl
+
+
+간코스시의
+	간코스시/ncn+의/jcm
+
+시가
+	시/nbu+가/jcc
+
+사장님
+	사장님/ncn
+
+
+간사이
+	간사/ncr+이/jcc
+
+공항에서
+	공항/ncn+에서/jca
+
+시내로
+	시내/ncn+로/jca
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+길에는
+	길/ncn+에/jca+는/jxc
+
+특급
+	특급/ncn
+
+라피드를
+	라피드/ncn+를/jco
+
+이용했습니다
+	이용/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+항상
+	항상/mag
+
+일반
+	일반/ncn
+
+난카이센만
+	난카이센/ncn+만/jxc
+
+이용했었는데
+	이용/ncpa+하/xsva+었었/ep+는데/ecs
+
+...
+	.../se
+
+
+SCHOOL
+	SCHOOL/f
+
+ZONE
+	ZONE/f
+
+
+나카자키쵸,
+	나카자키쵸,/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+
+RUSH
+	RUSH/f
+
+HOUR
+	HOUR/f
+
+
+우메다,
+	우메다,/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+
+NIGHTLIFE
+	NIGHTLIFE/f
+
+OF
+	OF/f
+
+OSAKA
+	OSAKA/f
+
+
+신세카이,
+	신세/ncn+카/ncn+이/jcc+,/sp
+
+오사카
+	오사/ncn+카/ncn
+
+
+TACHINOMI
+	TACHINOMI/f
+
+
+신세카이,
+	신세/ncn+카/ncn+이/jcc+,/sp
+
+오사카
+	오사/ncn+카/ncn
+
+
+RAINY
+	RAINY/f
+
+DODONBORI
+	DODONBORI/f
+
+
+도돈보리,
+	도돈보리,/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+
+ON
+	ON/f
+
+THE
+	THE/f
+
+WAY
+	WAY/f
+
+TO
+	TO/f
+
+KOBE
+	KOBE/f
+
+
+한신열차,
+	한신열차,/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+
+SENBEI
+	SENBEI/f
+
+
+아리마,
+	아리/paa+마/ef+,/sp
+
+고베
+	고베/ncn
+
+
+CHINA
+	CHINA/f
+
+TOWN
+	TOWN/f
+
+
+난킨마치,
+	난킨마치,/ncn
+
+고베
+	고베/ncn
+
+
+COUPLES
+	COUPLES/f
+
+
+마야산,
+	마야산,/ncn
+
+고베
+	고베/ncn
+
+
+THE
+	THE/f
+
+MOMENT
+	MOMENT/f
+
+OF
+	OF/f
+
+HAPPINESS
+	HAPPINESS/f
+
+
+산노미야,
+	산노미야,/ncn
+
+고베
+	고베/ncn
+
+
+WAVES
+	WAVES/f
+
+OF
+	OF/f
+
+LIGHT
+	LIGHT/f
+
+
+산노미야,
+	산노미야,/ncn
+
+고베
+	고베/ncn
+
+
+A
+	A/f
+
+LITTLE
+	LITTLE/f
+
+INDULGENCE
+	INDULGENCE/f
+
+
+산노미야,
+	산노미야,/ncn
+
+고베
+	고베/ncn
+
+
+OLD
+	OLD/f
+
+BAR
+	BAR/f
+
+
+니폰바시,
+	니폰바시,/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+
+OLD
+	OLD/f
+
+TRAM
+	TRAM/f
+
+
+에비스쵸,
+	에비스쵸,/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+
+마지막날
+	마지막/ncn+날/ncn
+
+옛추억이
+	옛추억/ncn+이/jcc
+
+가득한노면전차를
+	가득한노면전차/ncn+를/jco
+
+타러가는길,무려
+	타러가는길,무려/ncn
+
+세
+	세/nnc
+
+분의
+	분/nbu+의/jcm
+
+스탭이
+	스탭/ncn+이/jcc
+
+함께하셨습니다
+	함께하/pvg+셨/ep+습니다/ef
+
+.
+	./sf
+
+
+저를
+	저/npp+를/jco
+
+얼마나
+	얼마나/mag
+
+잘
+	잘/mag
+
+챙겨주시던지
+	챙기/pvg+어/ecx+주/px+시/ep+던/etm+지/nbn
+
+...
+	.../se
+
+
+어쩌면
+	어쩌면/mag
+
+감시였을지도
+	감시/ncpa+이/jp+었/ep+을지/ecs+도/jxc
+
+
+이렇게
+	이렇/pad+게/ecs
+
+모델도
+	모델/ncn+도/jxc
+
+해주시고
+	하/pvg+어/ecx+주/px+시/ep+고/ecc
+
+...
+	.../se
+
+
+연기지도
+	연기/ncn+이/jp+지/ecs+도/jxc
+
+하느라
+	하/pvg+느라/ecs
+
+조금
+	조금/mag
+
+힘들긴
+	힘들긴/ncn
+
+했습니다만
+	했습니다만/ncn
+
+^^;
+	^/sy+^/sy+;/sy
+
+
+일정내내
+	일정/ncn+내/ncn+내/xsncc
+
+함께했던
+	함께하/pvg+었/ep+던/etm
+
+하야카와
+	하야/ncpa+카/ncn+와/jcj
+
+씨
+	씨/ncn
+
+
+발
+	발/ncn
+
+빠른
+	빠르/paa+ㄴ/etm
+
+이니그마를
+	이니그마/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+다니느라
+	다니/pvg+느라/ecs
+
+고생
+	고생/ncpa
+
+좀
+	좀/mag
+
+했습니다;;
+	했습니다/ncn+;/sy+;/sy
+
+
+하야카와씨가
+	하야카와씨/ncn+가/jcs
+
+코디네이터
+	코디네이터/ncn
+
+역활을
+	역활/ncn+을/jco
+
+해준
+	하/pvg+어/ecx+주/px+ㄴ/etm
+
+덕분에
+	덕분/ncn+에/jca
+
+정말
+	정말/mag
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+여행이
+	여행/ncpa+이/jcc
+
+가능했습니다
+	가능/ncps+하/xsms+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+친구와는
+	친구/ncn+와/jct+는/jxc
+
+재미있는
+	재미있/pvg+는/etm
+
+에피소드가
+	에피소드/ncn+가/jcs
+
+많은데,
+	많/paa+은데/ecs+,/sp
+
+
+앞으로
+	앞/ncn+으로/jca
+
+포스팅을
+	포스팅/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+풀어
+	풀/pvg+어/ecx
+
+보겠습니다
+	보/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+항상
+	항상/mag
+
+재미있게
+	재미있/pvg+게/ecs
+
+봐주시는
+	보/pvg+아/ecx+주/px+시/ep+는/etm
+
+이웃여러분들을
+	이웃여러분들/ncn+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+또
+	또/maj
+
+열심히
+	열심히/mag
+
+달려보겠습니다
+	달리/pvg+어/ecx+보/px+겠/ep+습니다/ef
+
+(__)
+	(__/ncn+)/sr

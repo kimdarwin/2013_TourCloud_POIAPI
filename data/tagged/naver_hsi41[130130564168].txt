@@ -1,0 +1,1830 @@
+서울
+	서울/ncn
+
+역세권
+	역세권/ncn
+
+9000
+	9000/nnc
+
+가구
+	가구/ncn
+
+분양대기
+	분양/ncpa+대/ncn+이/jp+기/etn
+
+2
+	2/nnc
+
+5호선,
+	5호선/ncn+,/sp
+
+분양
+	분양/ncpa
+
+물량
+	물량/ncn
+
+많아
+	많/paa+아/ecx
+
+서울에서
+	서울/ncn+에서/jca
+
+아파트
+	아파트/ncn
+
+분양이줄어들면서환금성이
+	분양이줄어들면서환금성/ncn+이/jcc
+
+뛰어나고
+	뛰/pvg+어/ecx+나/px+고/ecc
+
+안정적인아파트에
+	안정적인아파트/ncn+에/jca
+
+관심이
+	관심/ncn+이/jcc
+
+쏠리고
+	쏠리/pvg+고/ecc
+
+있다.5일
+	있다.5/ncn+이/jp+ㄹ/etm
+
+부동산포털
+	부동/ncpa+산포/ncpa+털/ncn
+
+닥터아파트는
+	닥터/ncn+아파트/ncn+는/jxc
+
+올해
+	올해/ncn
+
+눈여겨
+	눈여기/pvg+어/ecx
+
+볼만한
+	보/px+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+아파트로
+	아파트/ncn+로/jca
+
+역세권(걸어서
+	역세권(걸어서/ncn
+
+10분
+	10/nnc+분/nbu
+
+거리)
+	것/nbn+이/jp+리/ef+)/sr
+
+주변을
+	주변/ncn+을/jco
+
+추천했다
+	추천/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+올해
+	올해/ncn
+
+역세권에서
+	역세권/ncn+에서/jca
+
+분양
+	분양/ncpa
+
+예정인
+	예정/ncn+이/jp+ㄴ/etm
+
+아파트는
+	아파트/ncn+는/jxc
+
+39곳,
+	39/nnc+곳/nbu+,/sp
+
+9202가구다
+	9202/nnc+가구/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+조은상
+	조은상/ncn
+
+닥터아파트
+	닥터/ncn+아파트/ncn
+
+리서치연구소
+	리서치/ncn+연구소/ncn
+
+팀장은
+	팀장/ncr+은/jxc
+
+"역세권
+	"/sl+역세권/ncn
+
+아파트는
+	아파트/ncn+는/jxc
+
+편리한
+	편리/ncps+하/xsms+ㄴ/etm
+
+교통을
+	교통/ncn+을/jco
+
+장점으로
+	장점/ncn+으로/jca
+
+수요층이
+	수요/ncn+층/ncn+이/jcc
+
+두텁고,
+	두텁/paa+고/ecc+,/sp
+
+환금성이
+	환금/ncn+성/ncn+이/jcc
+
+뛰어나다"
+	뛰/pvg+어/ecx+나/px+다/ef+"/sr
+
+며
+	며/ncn
+
+"무주택자이고
+	"/sl+무주택자/ncn+이/jp+고/ecc
+
+청약통장
+	청약/ncn+통장/ncn
+
+가입자라면
+	가입자/ncn+이/jp+라면/ecs
+
+내집마련도
+	내집/ncn+마련/ncpa+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+투자가치도
+	투자가치/ncn+도/jxc
+
+있는
+	있/px+는/etm
+
+역세권
+	역세권/ncn
+
+아파트를
+	아파트/ncn+를/jco
+
+분양받을
+	분양/ncpa+받/xsva+을/etm
+
+만하다"고
+	만/nbs+하/xsms+다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+처음으로
+	처음/ncn+으로/jca
+
+내집
+	내집/ncn
+
+마련하는
+	마련/ncpa+하/xsva+는/etm
+
+수요자들에게
+	수요자/ncn+들/ncn+에게/jca
+
+안정적인
+	안정/ncpa+적/ncn+이/jp+ㄴ/etm
+
+선택이
+	선택/ncpa+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다는
+	있/px+다/ef+는/etm
+
+설명이다
+	설명/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+지하철
+	지하철/ncn
+
+2~4호선,
+	2/nnc+~/sd+4/nnc+호/nbu+선/jxc+,/sp
+
+왕십리
+	왕십리/ncn
+
+뉴타운
+	뉴타운/ncn
+
+600가구
+	600/nnc+가구/nbu
+
+공급롯데캐슬
+	공급롯데캐슬/ncn
+
+프레지던트
+	프레지던트/ncn
+
+-
+	-/sd
+
+롯데건설이
+	롯데건설/ncn+이/jcc
+
+서초구
+	서초구/ncn
+
+서초동
+	서초동/ncn
+
+1681번지
+	1681번지/ncn
+
+삼익
+	삼익/ncn
+
+아파트를
+	아파트/ncn+를/jco
+
+재건축한
+	재건축/ncn+한/ncn
+
+단지로
+	단지/ncn+로/jca
+
+280가구
+	280/nnc+가구/nbu
+
+중
+	중/nbn
+
+113~186
+	113/nnc+~/sd+186/nnc
+
+93가구를
+	93/nnc+가구/nbu+를/jco
+
+3월에
+	3/nnc+월/nbu+에/jca
+
+일반
+	일반/ncn
+
+분양한다
+	분양/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+서울지하철
+	서울지하철/ncn
+
+2호선과
+	2호선/ncn+과/jcj
+
+3호선
+	3/nnc+호/nbu+선/jxc
+
+환승역인
+	환승/ncn+역/ncn+이/jp+ㄴ/etm
+
+교대역에서걸어서
+	교대역에서걸어서/ncn
+
+7~8분
+	7/nnc+~/sd+8/nnc+분/nbu
+
+거리다
+	거리/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+텐즈힐(왕십리뉴타운
+	텐즈힐(왕십리뉴타운/ncn
+
+1구역)
+	1구역)/ncn
+
+-
+	-/sd
+
+서울지하철
+	서울지하철/ncn
+
+2호선
+	2/nnc+호/nbu+선/jxc
+
+상왕십리역에서
+	상왕십리역/ncn+에서/jca
+
+걸어서
+	걷/pvg+어서/ecs
+
+10분
+	10/nnc+분/nbu
+
+거리인
+	거리/ncn+이/jp+ㄴ/etm
+
+성동구
+	성동구/ncn
+
+왕십리뉴타운
+	왕십리뉴타운/ncn
+
+1구역이
+	1구역/ncn+이/jcc
+
+4월
+	4/nnc+월/nbu
+
+분양
+	분양/ncpa
+
+예정이다
+	예정/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+현대산업개발,
+	현대산업개발/ncn+,/sp
+
+GS건설,
+	GS건설,/ncn
+
+대림산업,
+	대림산업,/ncn
+
+삼성물산이
+	삼성/ncn+물산/ncn+이/jcc
+
+공동
+	공동/ncn
+
+시공하는
+	시공/ncpa+하/xsva+는/etm
+
+단지로
+	단지/ncn+로/jca
+
+1702가구
+	1702/nnc+가구/nbu
+
+중
+	중/nbn
+
+83~179
+	83/nnc+~/sd+179/nnc
+
+600가구가
+	600/nnc+가구/nbu+가/jcc
+
+일반에
+	일반/ncn+에/jca
+
+공급된다
+	공급/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+북아현
+	북아현/ncn
+
+e편한세상
+	e편한세상/ncn
+
+-
+	-/sd
+
+대림산업이
+	대림산업/ncn+이/jcc
+
+서대문구
+	서대문구/ncn
+
+북아현뉴타운1-3구역에
+	북아현뉴타운1-3구역/ncn+에/jca
+
+1757가구를
+	1757/nnc+가구/nbu+를/jco
+
+지었다
+	지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+이중
+	이중/ncn
+
+50~155
+	50/nnc+~/sd+155/nnc
+
+459가구를
+	459/nnc+가구/nbu+를/jco
+
+7월에
+	7/nnc+월/nbu+에/jca
+
+일반
+	일반/ncn
+
+분양할
+	분양/ncpa+하/xsva+ㄹ/etm
+
+계획이다
+	계획/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+서울지하철
+	서울지하철/ncn
+
+2호선
+	2/nnc+호/nbu+선/jxc
+
+아현역을
+	아현역/ncn+을/jco
+
+걸어서
+	걷/pvg+어서/ecs
+
+5분이면
+	5/nnc+분/nbu+이/jp+면/ecs
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+래미안(대치동
+	래미안(대치동/ncn
+
+청실)
+	청/ncn+실/xsncc+)/sr
+
+-
+	-/sd
+
+삼성물산이
+	삼성/ncn+물산/ncn+이/jcc
+
+강남구
+	강남/ncn+구/ncn
+
+대치동
+	대치/ncpa+동/ncn
+
+633번지
+	633번지/ncn
+
+청실
+	청/ncn+실/xsncc
+
+아파트
+	아파트/ncn
+
+부지에
+	부지/ncn+에/jca
+
+1608가구
+	1608/nnc+가구/nbu
+
+규모의
+	규모/ncn+의/jcm
+
+대단지를
+	대/nbu+이/jp+단/etm+지/nbn+를/jco
+
+지었다
+	지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+이중
+	이중/ncn
+
+122가구를
+	122/nnc+가구/nbu+를/jco
+
+일반
+	일반/ncn
+
+분양한다
+	분양/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+일반
+	일반/ncn
+
+분양
+	분양/ncpa
+
+물량은
+	물량/ncn+은/jxc
+
+전용면적
+	전용/ncpa+면적/ncn
+
+59~84
+	59/nnc+~/sd+84/nnc
+
+로
+	로/ncn
+
+구성되며
+	구성/ncn+되/xsvn+며/ecc
+
+분양시기는
+	분양/ncpa+시기/ncn+는/jxc
+
+5월이다
+	5/nnc+월/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+서울지하철
+	서울지하철/ncn
+
+3호선
+	3/nnc+호/nbu+선/jxc
+
+대치역이
+	대치/ncpa+역/ncn+이/jcc
+
+걸어서
+	걷/pvg+어서/ecs
+
+5분
+	5/nnc+분/nbu
+
+거리다
+	거리/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+중계2차
+	중계2차/ncn
+
+꿈에그린
+	꿈에그린/ncn
+
+the
+	the/f
+
+FIRST
+	FIRST/f
+
+-
+	-/sd
+
+한화건설이
+	한화/ncn+건설/ncpa+이/jcc
+
+서울지하철
+	서울지하철/ncn
+
+4호선
+	4/nnc+호/nbu+선/jxc
+
+상계역에서
+	상계역/ncn+에서/jca
+
+걸어서
+	걷/pvg+어서/ecs
+
+3분
+	3/nnc+분/nbu
+
+거리인
+	거리/ncn+이/jp+ㄴ/etm
+
+노원구
+	노원구/ncn
+
+중계동
+	중계/ncpa+동/ncn
+
+156의
+	156/nnc+의/jcm
+
+29번지
+	29번지/ncn
+
+제일주택
+	제일/ncn+주택/ncn
+
+재건축
+	재건축/ncn
+
+사업을
+	사업/ncn+을/jco
+
+맡아
+	맡/pvg+아/ecx
+
+3월
+	3/nnc+월/nbu
+
+분양을
+	불/pvg+ㄴ/etm+양/nbn+을/jco
+
+목표로
+	목표/ncpa+로/jca
+
+준비
+	준비/ncn
+
+중이다
+	중/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+단지규모는
+	단지규모/ncn+는/jxc
+
+283가구이고
+	283/nnc+가구/nbu+이/jp+고/ecc
+
+이중
+	이중/ncn
+
+83~149
+	83/nnc+~/sd+149/nnc
+
+108가구를
+	108/nnc+가구/nbu+를/jco
+
+일반
+	일반/ncn
+
+분양할
+	분양/ncpa+하/xsva+ㄹ/etm
+
+예정이다
+	예정/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+용산전면3구역
+	용산전면3구역/ncn
+
+래미안
+	래미안/ncn
+
+-
+	-/sd
+
+삼성물산이
+	삼성/ncn+물산/ncn+이/jcc
+
+용산구
+	용산구/ncn
+
+한강로2가
+	한강로2/ncn+가/jcs
+
+342번지
+	342번지/ncn
+
+용산전면
+	용산전면/ncn
+
+제3구역에
+	제3구역/ncn+에/jca
+
+194가구
+	194/nnc+가구/nbu
+
+규모의
+	규모/ncn+의/jcm
+
+주상복합
+	주상/ncn+복합/ncpa
+
+아파트를
+	아파트/ncn+를/jco
+
+지어
+	지/px+어/ecx
+
+이중
+	이중/ncn
+
+140가구를
+	140/nnc+가구/nbu+를/jco
+
+6월에
+	6/nnc+월/nbu+에/jca
+
+일반
+	일반/ncn
+
+분양할
+	분양/ncpa+하/xsva+ㄹ/etm
+
+예정이다
+	예정/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+주택형은
+	주택/ncn+형/ncn+은/jxc
+
+전용면적
+	전용/ncpa+면적/ncn
+
+기준
+	기준/ncpa
+
+141~242
+	141/nnc+~/sd+242/nnc
+
+.
+	./sf
+
+
+서울지하철
+	서울지하철/ncn
+
+4호선
+	4/nnc+호/nbu+선/jxc
+
+신용산역과
+	신/xp+용산역/ncn+과/jcj
+
+경부선중앙선
+	경부선/ncn+중앙선/ncn
+
+환승역인
+	환승/ncn+역/ncn+이/jp+ㄴ/etm
+
+용산역을
+	용산역/ncn+을/jco
+
+걸어서
+	걷/pvg+어서/ecs
+
+2분이면
+	2/nnc+분/nbu+이/jp+면/ecs
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+지하철
+	지하철/ncn
+
+5호선,
+	5호선/ncn+,/sp
+
+아현
+	아현/ncn
+
+공덕동
+	공덕동/ncn
+
+상반기
+	상반기/ncn
+
+분양
+	분양/ncpa
+
+몰려아현3구역
+	몰려아현3구역/ncn
+
+푸르지오
+	푸르지오/ncn
+
+래미안
+	래미안/ncn
+
+-
+	-/sd
+
+대우건설과
+	대우건설/ncn+과/jcj
+
+삼성물산이
+	삼성/ncn+물산/ncn+이/jcc
+
+공동으로
+	공동/ncn+으로/jca
+
+마포구
+	마포구/ncn
+
+아현3구역
+	아현3구역/ncn
+
+재개발
+	재개발/ncn
+
+사업을
+	사업/ncn+을/jco
+
+맡아
+	맡/pvg+아/ecx
+
+3863가구
+	3863/nnc+가구/nbu
+
+중
+	중/nbn
+
+110~315
+	110/nnc+~/sd+315/nnc
+
+855가구를
+	855/nnc+가구/nbu+를/jco
+
+3월에
+	3/nnc+월/nbu+에/jca
+
+일반
+	일반/ncn
+
+분양할
+	분양/ncpa+하/xsva+ㄹ/etm
+
+계획이다
+	계획/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+서울지하철
+	서울지하철/ncn
+
+5호선
+	5호선/ncn
+
+애오개역과
+	애오개역/ncn+과/jcj
+
+2호선
+	2/nnc+호/nbu+선/jxc
+
+아현역이
+	아현역/ncn+이/jcc
+
+걸어서
+	걷/pvg+어서/ecs
+
+2~3분
+	2/nnc+~/sd+3/nnc+분/nbu
+
+거리로
+	거리/ncn+로/jca
+
+가깝다
+	가깝/paa+다/ef
+
+.
+	./sf
+
+
+공덕자이
+	공덕/ncn+자/ncn+이/jcc
+
+-
+	-/sd
+
+아현3구역
+	아현3구역/ncn
+
+푸르지오
+	푸르지오/ncn
+
+래미안과
+	래미안/ncn+과/jcj
+
+도로
+	도/ncn+로/jca
+
+하나를
+	하나/nnc+를/jco
+
+사이에
+	사이/ncn+에/jca
+
+두고
+	두/pvg+고/ecc
+
+마주한
+	마주/ncn+한/ncn
+
+공덕자이는
+	공덕/ncn+자/ncn+이/jp+는/etm
+
+마포구
+	마포구/ncn
+
+아현4구역
+	아현4구역/ncn
+
+재개발
+	재개발/ncn
+
+아파트다
+	아파트/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+GS건설이
+	GS건설/ncn+이/jcc
+
+시공을
+	시공/ncn+을/jco
+
+맡았고
+	맡/pvg+아/ep+고/ecc
+
+1164가구
+	1164/nnc+가구/nbu
+
+중
+	중/nbn
+
+85~152
+	85/nnc+~/sd+152/nnc
+
+134가구
+	134/nnc+가구/nbu
+
+분양을
+	불/pvg+ㄴ/etm+양/nbn+을/jco
+
+4월
+	4/nnc+월/nbu
+
+목표로
+	목표/ncpa+로/jca
+
+준비
+	준비/ncn
+
+중이다
+	중/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+걸어서
+	걷/pvg+어서/ecs
+
+3분이면
+	3/nnc+분/nbu+이/jp+면/ecs
+
+서울지하철
+	서울지하철/ncn
+
+5호선
+	5호선/ncn
+
+애오개역을
+	애오개역/ncn+을/jco
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+래미안
+	래미안/ncn
+
+타워스카이
+	타워/ncn+스카이/ncn
+
+-
+	-/sd
+
+삼성물산이
+	삼성/ncn+물산/ncn+이/jcc
+
+강동구
+	강동구/ncn
+
+천호동
+	천호동/ncn
+
+448번지에
+	448번지/ncn+에/jca
+
+주상복합
+	주상/ncn+복합/ncpa
+
+아파트
+	아파트/ncn
+
+119~330
+	119/ncn+~/sd+330/nnc
+
+904가구를
+	904/nnc+가구/nbu+를/jco
+
+지었다
+	지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+6월에
+	6/nnc+월/nbu+에/jca
+
+분양할
+	분양/ncpa+하/xsva+ㄹ/etm
+
+계획이다
+	계획/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+서울지하철
+	서울지하철/ncn
+
+5호선
+	5호선/ncn
+
+강동역이
+	강동역/ncn+이/jcc
+
+단지
+	단지/mag
+
+바로
+	바로/mag
+
+앞에
+	앞/ncn+에/jca
+
+인접한
+	인접/ncps+하/xsms+ㄴ/etm
+
+초역세권
+	초역세권/ncn
+
+단지다
+	단지/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+용강3구역
+	용강3구역/ncn
+
+e편한세상
+	e편한세상/ncn
+
+-
+	-/sd
+
+대림산업이
+	대림산업/ncn+이/jcc
+
+서울지하철
+	서울지하철/ncn
+
+5호선
+	5호선/ncn
+
+마포역에서
+	마포/ncn+역/ncn+에서/jca
+
+걸어서
+	걷/pvg+어서/ecs
+
+5분
+	5/nnc+분/nbu
+
+거리에
+	거리/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+마포구
+	마포구/ncn
+
+용강3구역에
+	용강3구역/ncn+에/jca
+
+543가구
+	543/nnc+가구/nbu
+
+규모의
+	규모/ncn+의/jcm
+
+단지를7월에
+	단지를7월/ncn+에/jca
+
+분양할
+	분양/ncpa+하/xsva+ㄹ/etm
+
+계획이다
+	계획/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+일반분양
+	일반/ncn+분양/ncpa
+
+물량은
+	물량/ncn+은/jxc
+
+62가구이며
+	62/nnc+가구/nbu+이/jp+며/ecc
+
+주택형은
+	주택/ncn+형/ncn+은/jxc
+
+전용면적
+	전용/ncpa+면적/ncn
+
+기준으로
+	기준/ncpa+으로/jca
+
+59~123
+	59/nnc+~/sd+123/nnc
+
+다.
+	다./ncn
+
+지하철
+	지하철/ncn
+
+6~7호선
+	6/nnc+~/sd+7/nnc+호/nbu+선/jxc
+
+분당선,
+	분당선/ncn+,/sp
+
+방배
+	방배/ncn
+
+롯데캐슬
+	롯데캐슬/ncn
+
+24일
+	24/nnc+일/nbu
+
+모델하우스
+	모델하우스/ncn
+
+오픈상수1,2구역
+	오픈상수1,2구역/ncn
+
+래미안
+	래미안/ncn
+
+-
+	-/sd
+
+삼성물산이
+	삼성/ncn+물산/ncn+이/jcc
+
+마포구
+	마포구/ncn
+
+상수1,2구역을
+	상수1,2구역/ncn+을/jco
+
+재개발해
+	재개발/ncn+해/ncn
+
+각각
+	각각/ncn
+
+429가구
+	429/nnc+가구/nbu
+
+중
+	중/nbn
+
+158가구,
+	158/nnc+가구/nbu+,/sp
+
+530가구
+	530/nnc+가구/nbu
+
+중
+	중/nbn
+
+156가구를
+	156/nnc+가구/nbu+를/jco
+
+4월에
+	4/nnc+월/nbu+에/jca
+
+일반
+	일반/ncn
+
+분양할
+	분양/ncpa+하/xsva+ㄹ/etm
+
+계획이다
+	계획/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+주택형은
+	주택/ncn+형/ncn+은/jxc
+
+전용면적
+	전용/ncpa+면적/ncn
+
+기준으로
+	기준/ncpa+으로/jca
+
+60~148
+	60/nnc+~/sd+148/nnc
+
+.
+	./sf
+
+
+서울지하철
+	서울지하철/ncn
+
+6호선
+	6/nnc+호/nbu+선/jxc
+
+상수역을
+	상수/ncn+역/ncn+을/jco
+
+걸어서
+	걷/pvg+어서/ecs
+
+5분이면
+	5/nnc+분/nbu+이/jp+면/ecs
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+자이(보문3구역)
+	자이(보문3구역)/ncn
+
+-
+	-/sd
+
+삼성물산이
+	삼성/ncn+물산/ncn+이/jcc
+
+성북구
+	성북구/ncn
+
+보문3구역에
+	보문3구역/ncn+에/jca
+
+1028가구를
+	1028/nnc+가구/nbu+를/jco
+
+지어
+	지/px+어/ecx
+
+이중
+	이중/ncn
+
+78~149
+	78/nnc+~/sd+149/nnc
+
+292가구를
+	292/nnc+가구/nbu+를/jco
+
+9월에
+	9/nnc+월/nbu+에/jca
+
+일반
+	일반/ncn
+
+분양할
+	분양/ncpa+하/xsva+ㄹ/etm
+
+예정이다
+	예정/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+서울지하철
+	서울지하철/ncn
+
+6호선
+	6/nnc+호/nbu+선/jxc
+
+보문역이
+	보문역/ncn+이/jcc
+
+5분
+	5/nnc+분/nbu
+
+거리에
+	거리/ncn+에/jca
+
+위치하며
+	위치/ncpa+하/xsva+며/ecc
+
+향후
+	향후/mag
+
+보문역은
+	보문역/ncn+은/jxc
+
+경전철
+	경전/ncn+철/ncn
+
+우이~신설선(2014년
+	우이~신설선(2014년/ncn
+
+9월
+	9/nnc+월/nbu
+
+개통
+	개통/ncpa
+
+예정)이
+	예정/ncn+)/sr+이/jcc
+
+환승될
+	환승/ncn+되/xsvn+ㄹ/etm
+
+계획이다
+	계획/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+쌍용예가(효창4구역)
+	쌍용예가(효창4구역)/ncn
+
+-
+	-/sd
+
+쌍용건설이
+	쌍용건설/ncn+이/jcc
+
+서울지하철
+	서울지하철/ncn
+
+6호선
+	6/nnc+호/nbu+선/jxc
+
+효창공원앞역에서
+	효창공원앞역/ncn+에서/jca
+
+걸어서
+	걷/pvg+어서/ecs
+
+3분
+	3/nnc+분/nbu
+
+거리에
+	거리/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+용산구
+	용산구/ncn
+
+효창4구역에
+	효창4구역/ncn+에/jca
+
+187가구
+	187/nnc+가구/nbu
+
+규모의
+	규모/ncn+의/jcm
+
+단지를
+	단지/ncn+를/jco
+
+지어
+	지/px+어/ecx
+
+분양한다
+	분양/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+일반분양
+	일반/ncn+분양/ncpa
+
+물량은
+	물량/ncn+은/jxc
+
+84~141
+	84/nnc+~/sd+141/nnc
+
+112가구이며
+	112/nnc+가구/nbu+이/jp+며/ecc
+
+분양시기는
+	분양/ncpa+시기/ncn+는/jxc
+
+11월
+	11/nnc+월/nbu
+
+예정
+	예정/ncn
+
+.
+	./sf
+
+
+방배
+	방배/ncn
+
+롯데캐슬
+	롯데캐슬/ncn
+
+-
+	-/sd
+
+롯데건설이
+	롯데건설/ncn+이/jcc
+
+서초구
+	서초구/ncn
+
+방배2-6구역
+	방배2-6구역/ncn
+
+단독주택
+	단독주택/ncn
+
+재건축
+	재건축/ncn
+
+사업을
+	사업/ncn+을/jco
+
+맡아
+	맡/pvg+아/ecx
+
+744가구
+	744/nnc+가구/nbu
+
+중
+	중/nbn
+
+84~254
+	84/nnc+~/sd+254/nnc
+
+367가구를
+	367/nnc+가구/nbu+를/jco
+
+이달
+	이/nnc+달/nbu
+
+말
+	말/ncn
+
+분양한다
+	분양/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+서울지하철
+	서울지하철/ncn
+
+7호선과
+	7호선/ncn+과/jcj
+
+4호선
+	4/nnc+호/nbu+선/jxc
+
+환승역인
+	환승/ncn+역/ncn+이/jp+ㄴ/etm
+
+이수역이
+	이수/ncpa+역/ncn+이/jcc
+
+걸어서
+	걷/pvg+어서/ecs
+
+5분
+	5/nnc+분/nbu
+
+거리인
+	거리/ncn+이/jp+ㄴ/etm
+
+더블
+	더블/ncn
+
+역세권
+	역세권/ncn
+
+단지로
+	단지/ncn+로/jca
+
+오는
+	오/px+는/etm
+
+24일
+	24/nnc+이/jp+ㄹ/etm
+
+모델하우스를
+	모델하우스/ncn+를/jco
+
+오픈한다
+	오픈/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+자이(상도10구역)
+	자이(상도10구역)/ncn
+
+-
+	-/sd
+
+GS건설이
+	GS건설/ncn+이/jcc
+
+동작구
+	동작구/ncn
+
+상도10구역
+	상도10구역/ncn
+
+재개발
+	재개발/ncn
+
+부지에
+	부지/ncn+에/jca
+
+426가구를
+	426/nnc+가구/nbu+를/jco
+
+지어
+	지/px+어/ecx
+
+이중
+	이중/ncn
+
+84~147
+	84/nnc+~/sd+147/nnc
+
+47가구를
+	47/nnc+가구/nbu+를/jco
+
+11월에
+	11/nnc+월/nbu+에/jca
+
+일반
+	일반/ncn
+
+분양한다
+	분양/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+서울지하철
+	서울지하철/ncn
+
+7호선
+	7/nnc+호/nbu+선/jxc
+
+신대방삼거리역을
+	신/xp+대방/ncn+삼거리/ncn+역/ncn+을/jco
+
+걸어서
+	걷/pvg+어서/ecs
+
+5분이면
+	5/nnc+분/nbu+이/jp+면/ecs
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+래미안
+	래미안/ncn
+
+도곡
+	도곡/ncn
+
+진달래
+	진달래/ncn
+
+-
+	-/sd
+
+삼성물산이
+	삼성/ncn+물산/ncn+이/jcc
+
+강남구
+	강남/ncn+구/ncn
+
+도곡동
+	도곡동/ncn
+
+538번지
+	538번지/ncn
+
+진달래1차를
+	진달래1차/ncn+를/jco
+
+재건축한
+	재건축/ncn+한/ncn
+
+아파트로
+	아파트/ncn+로/jca
+
+분당선
+	분당선/ncn
+
+한티역이
+	한티역/ncn+이/jcc
+
+걸어서
+	걷/pvg+어서/ecs
+
+1분
+	1/nnc+분/nbu
+
+거리인
+	거리/ncn+이/jp+ㄴ/etm
+
+초역세권
+	초역세권/ncn
+
+단지다
+	단지/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+총
+	총/mma
+
+397가구
+	397/nnc+가구/nbu
+
+규모로
+	규모/ncn+로/jca
+
+이중
+	이중/ncn
+
+80~133
+	80/nnc+~/sd+133/nnc
+
+57가구를
+	57/nnc+가구/nbu+를/jco
+
+일반
+	일반/ncn
+
+분양할
+	분양/ncpa+하/xsva+ㄹ/etm
+
+계획
+	계획/ncpa
+
+.
+	./sf
+
+
+오는
+	오/px+는/etm
+
+9일
+	9/nnc+일/nbu
+
+입주자
+	입주자/ncn
+
+모집공고를
+	모집공고/ncn+를/jco
+
+앞두고
+	앞두/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+출처:한국경제
+	출처/ncn+:/sp+한국경제/ncn

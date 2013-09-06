@@ -1,0 +1,947 @@
+영산강
+	영산강/ncn
+
+유역
+	유역/ncn
+
+
+우리나라
+	우리나라/ncn
+
+5대강
+	5대강/ncn
+
+중
+	중/nbn
+
+하나인
+	하나/nnc+이/jp+ㄴ/etm
+
+영산강은
+	영산강/ncn+은/jxc
+
+한반도
+	한/nnc+반/nbu+도/jxc
+
+남서부
+	남서부/ncn
+
+전라남북도에
+	전라/ncn+남북/ncn+도/ncn+에/jca
+
+위치하며,
+	위치/ncpa+하/xsva+며/ecc+,/sp
+
+유역경계는
+	유역/ncn+경계/ncn+는/jxc
+
+동경
+	동경/ncn
+
+126
+	126/nnc
+
+26
+	26/nnc
+
+12
+	12/nnc
+
+~
+	~/sd
+
+127
+	127/nnc
+
+06
+	06/nnc
+
+07
+	07/nnc
+
+,
+	,/sp
+
+북위
+	북위/ncn
+
+34
+	34/nnc
+
+40
+	40/nnc
+
+16
+	16/nnc
+
+~
+	~/sd
+
+35
+	35/nnc
+
+29
+	29/nnc
+
+01
+	01/nnc
+
+사이에
+	사이/ncn+에/jca
+
+걸쳐
+	걸치/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+유역의
+	유역/ncn+의/jcm
+
+행정구역을
+	행정구역/ncn+을/jco
+
+살펴보면
+	살피/pvg+어/ecx+보/px+면/ecs
+
+전라북도
+	전라/ncn+북/ncn+도/jxc
+
+정읍시,
+	정읍시,/ncn
+
+광주광역시,
+	광주광역시,/ncn
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+나주시,
+	나주시,/ncn
+
+목포시,
+	목포시/ncn+,/sp
+
+담양군,
+	담양군,/ncn
+
+장성군,
+	장성/ncn+군/ncn+,/sp
+
+영광군,
+	영광/ncn+군/ncn+,/sp
+
+화순군,
+	화순군,/ncn
+
+함평군,
+	함평군,/ncn
+
+무안군,
+	무안/ncps+군/ncn+,/sp
+
+영암군
+	영암군/ncn
+
+등
+	등/nbu
+
+1개
+	1/nnc+개/nbu
+
+광역시,
+	광역시/ncn+,/sp
+
+2개도,
+	2/nnc+개/nbu+도/jxc+,/sp
+
+3개시,
+	3개시,/ncn
+
+7개
+	7/nnc+개/nbu
+
+군의
+	군/ncn+의/jcm
+
+전체
+	전체/ncn
+
+또는
+	또는/maj
+
+일부를
+	일/nnc+부/nbu+를/jco
+
+포함하고
+	포함/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+영산강의
+	영산강/ncn+의/jcm
+
+유역면적은
+	유역면적/ncn+은/jxc
+
+3,455
+	3,455/nnc
+
+,
+	,/sp
+
+유로연장은
+	유로연장은/ncn
+
+129.5
+	129.5/nnc
+
+이며
+	이/npd+이/jp+며/ecc
+
+유역의
+	유역/ncn+의/jcm
+
+동서간
+	동서간/ncn
+
+최대길이는
+	최대/ncn+길/ncn+이/jp+는/etm
+
+60.0
+	60.0/nnc
+
+,
+	,/sp
+
+남북간
+	남북간/ncn
+
+최대길이는
+	최대/ncn+길/ncn+이/jp+는/etm
+
+89.9
+	89.9/nnc
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+유역의
+	유역/ncn+의/jcm
+
+평균폭은
+	평균/ncpa+폭/ncn+은/jxc
+
+26.7
+	26.7/nnc
+
+,
+	,/sp
+
+형상계수는
+	형상/ncpa+계수/ncn+는/jxc
+
+0.
+	0./nnc
+
+206이고
+	206/nnc+이/jp+고/ecc
+
+유역형태는
+	유역/ncn+형태/ncn+는/jxc
+
+직사각형
+	직사각형/ncn
+
+형태의
+	형태/ncn+의/jcm
+
+수지상이며
+	수지상/ncn+이/jp+며/ecc
+
+유역의
+	유역/ncn+의/jcm
+
+평균고도는
+	평균/ncpa+고도/ncn+는/jxc
+
+EL
+	EL/f
+
+118.
+	118./nnc
+
+9m이다
+	9m/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+영산강은
+	영산강/ncn+은/jxc
+
+섬진강과
+	섬진강/ncn+과/jcj
+
+경계를
+	경계/ncn+를/jco
+
+이루는
+	이루/pvg+는/etm
+
+북측의
+	북측/ncn+의/jcm
+
+추월산
+	추월/ncpa+산/ncn
+
+자락인
+	자락/ncn+이/jp+ㄴ/etm
+
+가마골
+	가마/ncn+골/ncn
+
+용소
+	용소/ncn
+
+에서
+	에/pvg+어서/ecs
+
+발원하여
+	발원/ncpa+하/xsva+어/ecx
+
+남쪽으로
+	남쪽/ncn+으로/jca
+
+유하하다
+	유하/pvg+어/ecx+하/px+어다/ecs
+
+담양호를
+	담양호/ncn+를/jco
+
+지나
+	지나/pvg+아/ecx
+
+담양읍에
+	담양읍/ncn+에/jca
+
+이르러
+	이르/pvg+어/ecx
+
+남서쪽으로
+	남서/ncn+쪽/ncn+으로/jca
+
+유향을
+	유향/ncn+을/jco
+
+바꿔
+	바꾸/pvg+어/ecx
+
+유하하다가
+	유하/pvg+어/ecx+하/px+다가/ecs
+
+좌안측으로
+	좌/ncn+안/xsnx+측/xsnx+으로/jca
+
+오례천,
+	오례천,/ncn
+
+증암감,
+	증암감,/ncn
+
+광주천이
+	광주천/ncn+이/jcc
+
+유입되며
+	유입/ncpa+되/xsvn+며/ecc
+
+계속
+	계속/mag
+
+남서류하다가
+	남서류하다/ncn+가/jcs
+
+우안측으로
+	우/ncn+안/xsnx+측/xsnx+으로/jca
+
+황룡강이
+	황룡/ncn+강/ncn+이/jcc
+
+합류되고
+	합류/ncpa+되/xsvn+고/ecc
+
+다시
+	다시/mag
+
+유하하다가
+	유하/pvg+어/ecx+하/px+다가/ecs
+
+영산강
+	영산강/ncn
+
+유역의
+	유역/ncn+의/jcm
+
+지류
+	지류/ncn
+
+중
+	중/nbn
+
+제일
+	제/npp+이/jp+ㄹ/etm
+
+유역
+	유역/ncn
+
+넓은
+	넓/paa+은/etm
+
+지석천이
+	지석천/ncn+이/jcc
+
+좌측에서
+	좌측/ncn+에서/jca
+
+유입한다
+	유입/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+지석천
+	지석천/ncn
+
+합류후
+	합류/ncpa+후/ncn
+
+나주시를
+	나주시/ncn+를/jco
+
+관류하여
+	관류하/ncn+이/jp+어/ecs
+
+서쪽으로
+	서쪽/ncn+으로/jca
+
+유하하다
+	유하/pvg+어/ecx+하/px+어다/ecs
+
+우안측에서
+	우/ncn+안/xsnx+측/xsnx+에서/jca
+
+고막원천,
+	고막/ncn+원천/ncn+,/sp
+
+함평천이
+	함평천/ncn+이/jcc
+
+차계로
+	차계/ncn+로/jca
+
+유입되며
+	유입/ncpa+되/xsvn+며/ecc
+
+함평천
+	함평천/ncn
+
+합류후
+	합류/ncpa+후/ncn
+
+유향을
+	유향/ncn+을/jco
+
+급선회하여
+	급선회하/ncn+이/jp+어/ecs
+
+남쪽으로
+	남쪽/ncn+으로/jca
+
+유하하다가
+	유하/pvg+어/ecx+하/px+다가/ecs
+
+영암군
+	영암군/ncn
+
+학산면에서
+	학산면/ncn+에서/jca
+
+유수방향을
+	유수/ncn+방향/ncn+을/jco
+
+서쪽으로
+	서쪽/ncn+으로/jca
+
+돌려
+	돌리/pvg+어/ecx
+
+하구인
+	하구/ncn+이/jp+ㄴ/etm
+
+영산강
+	영산강/ncn
+
+하구둑을
+	하구둑/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+서해로
+	서해/ncn+로/jca
+
+유입한다
+	유입/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+황룡강유역내에서
+	황룡/ncn+강유역/ncn+내/ncn+에서/jca
+
+두
+	두/nnc
+
+번째로
+	번/nbu+째/xsnu+로/jca
+
+큰
+	크/paa+ㄴ/etm
+
+지류로
+	지류/ncn+로/jca
+
+유역면적
+	유역면적/ncn
+
+564.3
+	564.3/nnc
+
+,
+	,/sp
+
+유로연장
+	유로연장/ncn
+
+58.6
+	58.6/nnc
+
+이며
+	이/npd+이/jp+며/ecc
+
+유역의
+	유역/ncn+의/jcm
+
+동서간
+	동서간/ncn
+
+최대거리는
+	최대거리/ncn+는/jxc
+
+30.4
+	30.4/nnc
+
+,
+	,/sp
+
+남북간
+	남북간/ncn
+
+최대거리는
+	최대거리/ncn+는/jxc
+
+42.5
+	42.5/nnc
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+황룡강
+	황룡/ncn+강/ncn
+
+유역의
+	유역/ncn+의/jcm
+
+평균폭은
+	평균/ncpa+폭/ncn+은/jxc
+
+9.6
+	9.6/nnc
+
+,
+	,/sp
+
+유역형상계수는
+	유역/ncn+형상/ncpa+계수/ncn+는/jxc
+
+0.
+	0./nnc
+
+164이며
+	164/nnc+이/jp+며/ecc
+
+유역형상은
+	유역/ncn+형상/ncpa+은/jxc
+
+직사각형태의
+	직사각형/ncn+태/ncn+의/jcm
+
+평행상으로
+	평행/ncps+상/ncn+으로/jca
+
+유역의
+	유역/ncn+의/jcm
+
+평균고도는
+	평균/ncpa+고도/ncn+는/jxc
+
+EL
+	EL/f
+
+151.
+	151./nnc
+
+3m이다
+	3m/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+황룡강은
+	황룡/ncn+강/ncn+은/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+북하면
+	북하/ncn+이/jp+면/ecs
+
+용흥리에
+	용흥리/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+병풍산에서
+	병풍/ncn+산/ncn+에서/jca
+
+발원하여
+	발원/ncpa+하/xsva+어/ecx
+
+북쪽으로
+	북쪽/ncn+으로/jca
+
+유하하다
+	유하/pvg+어/ecx+하/px+어다/ecs
+
+장성댐
+	장성/ncn+댐/ncn
+
+수몰지
+	수몰지/ncn
+
+상류부에서
+	상류/ncn+부/ncn+에서/jca
+
+유향을
+	유향/ncn+을/jco
+
+180
+	180/nnc
+
+급선회하여
+	급선회하/ncn+이/jp+어/ecs
+
+장성댐을
+	장성/ncn+댐/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+남쪽으로
+	남쪽/ncn+으로/jca
+
+유하하며
+	유하/pvg+어/ecx+하/px+며/ecc
+
+장성읍에서
+	장성/ncn+읍/ncn+에서/jca
+
+우안쪽으로
+	우/ncn+안/xsnx+쪽/xsnx+으로/jca
+
+준용하천인
+	준용/ncpa+하천/ncn+이/jp+ㄴ/etm
+
+개천(
+	개천(/ncn
+
+)
+	)/sr
+
+합류
+	합류/ncpa
+
+후
+	후/ncn
+
+장성읍을
+	장성/ncn+읍/ncn+을/jco
+
+관류한
+	관류/ncn+한/ncn
+
+뒤
+	뒤/ncn
+
+계속
+	계속/mag
+
+남쪽으로
+	남쪽/ncn+으로/jca
+
+유하하여
+	유하/pvg+어/ecx+하/px+어/ecx
+
+황룡강
+	황룡/ncn+강/ncn
+
+직할하천
+	직할/ncpa+하천/ncn
+
+시점부(No.
+	시점부(No./ncn
+
+18+405)
+	18/nnc++405/nnc+)/sr
+
+직상에서
+	직/ncn+상/xsncc+에서/jca
+
+우안측으로
+	우/ncn+안/xsnx+측/xsnx+으로/jca
+
+준용하천인
+	준용/ncpa+하천/ncn+이/jp+ㄴ/etm
+
+평림천이
+	평림천/ncn+이/jcc
+
+유입되며
+	유입/ncpa+되/xsvn+며/ecc
+
+남동류하여
+	남동류하/ncn+이/jp+어/ecs
+
+영산강
+	영산강/ncn
+
+우안측
+	우/ncn+안/xsnx+측/xsnx
+
+광주광역시
+	광주광역시/ncn
+
+광산구
+	광산구/ncn
+
+송대동에서
+	송대/ncn+동/ncn+에서/jca
+
+영산강
+	영산강/ncn
+
+본류(No.
+	본/ncn+류/xsncc+(/sl+No/f+./sy
+
+150=250)에
+	150=250)/ncn+에/jca
+
+합류된다
+	합류/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+지석천
+	지석천/ncn
+
+
+화순군
+	화순군/ncn
+
+이양면
+	이양/ncpa+면/ncn
+
+증리
+	증리/ncn
+
+계상산(EL.
+	계상산(EL./ncn
+
+580.
+	580./nnc
+
+2m)에서
+	2m)/ncn+에서/jca
+
+발원하여
+	발원/ncpa+하/xsva+어/ecx
+
+서쪽으로
+	서쪽/ncn+으로/jca
+
+유하하다가
+	유하/pvg+어/ecx+하/px+다가/ecs
+
+이양면
+	이양/ncpa+면/ncn
+
+소재지에서
+	소재지/ncn+에서/jca
+
+유향을
+	유향/ncn+을/jco
+
+바꿔
+	바꾸/pvg+어/ecx
+
+북류하며,
+	북류하며,/ncn
+
+능주면
+	능주/ncn+이/jp+면/ecs
+
+면사무소
+	면사무소/ncn
+
+소재지에서
+	소재지/ncn+에서/jca
+
+서쪽으로
+	서쪽/ncn+으로/jca
+
+유하하면서
+	유하/pvg+어/ecx+하/px+면서/ecc
+
+우안측에
+	우/ncn+안/xsnx+측/xsnx+에/jca
+
+준용하천인
+	준용/ncpa+하천/ncn+이/jp+ㄴ/etm
+
+화순천이
+	화순천/ncn+이/jcc
+
+유입되고
+	유입/ncpa+되/xsvn+고/ecc
+
+좌안측에
+	좌/ncn+안/xsnx+측/xsnx+에/jca
+
+나주댐이
+	나주댐/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+대초천이
+	대초천/ncn+이/jcc
+
+유입된다
+	유입/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+대초천
+	대초천/ncn
+
+합류후
+	합류/ncpa+후/ncn
+
+드들강
+	드들강/ncn
+
+유원지에
+	유원지/ncn+에/jca
+
+이르러
+	이르/pvg+어/ecx
+
+북쪽으로
+	북쪽/ncn+으로/jca
+
+유수의
+	유수/ncn+의/jcm
+
+방향을
+	방향/ncn+을/jco
+
+바꾸게
+	바꾸/pvg+게/ecs
+
+되며,
+	되/pvg+며/ecc+,/sp
+
+남평읍에서
+	남평읍/ncn+에서/jca
+
+유향을
+	유향/ncn+을/jco
+
+서쪽으로
+	서쪽/ncn+으로/jca
+
+바꿔
+	바꾸/pvg+어/ecx
+
+영산강
+	영산강/ncn
+
+좌안측인
+	좌/ncn+안/xsnx+측/xsnx+이/jp+ㄴ/etm
+
+나주시
+	나주시/ncn
+
+금천면
+	금천면/ncn
+
+신가리에서
+	신/xp+가리/ncn+에서/jca
+
+영산강
+	영산강/ncn
+
+본류에
+	본류/ncn+에/jca
+
+합류된다
+	합류/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf

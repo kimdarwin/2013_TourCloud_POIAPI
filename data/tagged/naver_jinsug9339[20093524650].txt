@@ -1,0 +1,1366 @@
+경기도
+	경기/ncn+도/jxc
+
+포천시
+	포천시/ncn
+
+아트밸리
+	아트밸리/ncn
+
+
+어제오후
+	어제/ncn+오후/ncn
+
+퇴근후
+	퇴근/ncpa+후/ncn
+
+바로
+	바로/mag
+
+포천으로~
+	포천/ncn+으로/jca+~/sd
+
+
+새벽에
+	새벽/ncn+에/jca
+
+운악산
+	운악산/ncn
+
+산행후
+	산행/ncn+후/ncn
+
+지난번
+	지난번/ncn
+
+신문에서
+	신문/ncn+에서/jca
+
+보고
+	보/px+고/ecc
+
+메모해
+	메모/ncpa+하/xsva+어/ecx
+
+두었던
+	두/pvg+었/ep+던/etm
+
+아트밸리를
+	아트밸리/ncn+를/jco
+
+찾아간다
+	찾/pvg+아/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+기자가
+	기자/ncr+가/jcc
+
+좋다고
+	좋/paa+다/ef+고/jcr
+
+썼으니
+	쓰/pvg+었/ep+으니/ecs
+
+속는셈치고
+	속/pvg+는/etm+셈/nbn+치고/jxc
+
+한번
+	한/nnc+번/nbu
+
+가본거다
+	가본거/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+평소에
+	평소/ncn+에/jca
+
+내가
+	나/npp+가/jcs
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+기사를
+	기사/ncr+를/jco
+
+자주썼던
+	자주썼던/ncn
+
+분이라
+	분/nbn+이/jp+라/ecs
+
+약간은
+	약간/mag+은/jxc
+
+신뢰를
+	신뢰/ncpa+를/jco
+
+했다는
+	하/px+었/ep+다/ef+는/etm
+
+...
+	.../se
+
+
+역쉬~좋다
+	역쉬~좋다/ncn
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+사진을
+	사진/ncn+을/jco
+
+두서없이
+	두서없/paa+이/xsam
+
+올려봅니다
+	올리/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+가족
+	가족/ncn
+
+나들이로
+	나들이/ncpa+로/jca
+
+가보시면
+	가/pvg+아/ecx+보/px+시/ep+면/ecs
+
+좋을것
+	좋/paa+을/etm+것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+아님
+	아니/paa+ㅁ/etn
+
+연인이랑
+	연인/ncn+이/jcs+랑/jxc
+
+같이
+	같/paa+이/xsa
+
+가셔도
+	가/px+시/ep+어도/ecs
+
+너무
+	너무/mag
+
+좋을것
+	좋/paa+을/etm+것/nbn
+
+같더만요~~~
+	같/paa+더/ep+어/ecs+만요/jxc+~/sd+~/sd+~/sd
+
+
+(위)-아트밸리
+	(위)-아트밸리/ncn
+
+전시관과
+	전시관/ncn+과/jcj
+
+주차장
+	주차장/ncn
+
+.
+	./sf
+
+
+(위)-모노레일
+	(/sl+위/ncn+)/sr+-/sd+모노/ncn+레/ncn+이/jp+ㄹ/etm
+
+타는곳
+	타는곳/ncn
+
+.
+	./sf
+
+
+(위)-모노레일
+	(/sl+위/ncn+)/sr+-/sd+모노/ncn+레/ncn+이/jp+ㄹ/etm
+
+.
+	./sf
+
+
+(위)-모노레일
+	(/sl+위/ncn+)/sr+-/sd+모노/ncn+레/ncn+이/jp+ㄹ/etm
+
+.
+	./sf
+
+
+(위)-오른쪽
+	(/sl+위/ncn+)/sr+-/sd+오른쪽/ncn
+
+유리건물이
+	유리/ncn+건물/ncn+이/jcc
+
+내려올때
+	내리/pvg+어/ecx+오/px+ㄹ/etm+때/nbn
+
+탈수있는
+	타/pvg+ㄹ/etm+수/nbn+있/xsmn+는/etm
+
+중간에있는
+	중간에있/ncn+는/jxc
+
+모노레일
+	모노/ncn+레/ncn+이/jp+ㄹ/etm
+
+타는곳입니다
+	타는곳입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-여기가
+	(/sl+위/ncn+)/sr+-/sd+여기/npd+가/jcc
+
+맨위
+	맨위/ncn
+
+모노레일
+	모노/ncn+레/ncn+이/jp+ㄹ/etm
+
+내리는
+	내리/pvg+는/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+타는것도
+	타/pvg+는/etm+것/nbn+도/jxc
+
+가능하겠죠
+	가능/ncps+하/xsms+겠/ep+죠/ef
+
+.
+	./sf
+
+
+(위)-위에있는
+	(위)-위에있/ncn+는/jxc
+
+전시관
+	전시관/ncn
+
+마당에서
+	마당/ncn+에서/jca
+
+올라오는
+	오르/pvg+아/ecx+오/px+는/etm
+
+모노레일을
+	모노/ncn+레일/ncn+을/jco
+
+찍었습니다
+	찍/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+(위)-선로가
+	(/sl+위/ncn+)/sr+-/sd+선로/ncn+가/jcs
+
+가운데
+	가운데/ncn
+
+하나만있는
+	하나만있/ncn+는/jxc
+
+레일을
+	레일/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+올라오는게
+	오르/pvg+아/ecx+오/px+는게/ecs
+
+신기하기도
+	신기/ncps+하/xsms+기/etn+도/jxc
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+(위)-모노레일
+	(/sl+위/ncn+)/sr+-/sd+모노/ncn+레/ncn+이/jp+ㄹ/etm
+
+객차가
+	객차/ncn+가/jcs
+
+깜찍하고
+	깜찍/ncps+하고/jct
+
+예쁘지요~
+	예쁘/paa+지요/ef+~/sd
+
+
+(위)-아트밸리
+	(위)-아트밸리/ncn
+
+맨위에
+	맨위/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+전시관
+	전시관/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+여기서는
+	여기/npd+서/jca+는/jxc
+
+각종
+	각종/ncn
+
+전시회를
+	전시회/ncn+를/jco
+
+하는
+	하/pvg+는/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-1층에는
+	(/sl+위/ncn+)/sr+-/sd+1/nnc+층/nbu+에/jca+는/jxc
+
+카페가
+	카페/ncn+가/jcs
+
+있구요~전시실은
+	있구요~전시실/ncn+은/jxc
+
+2층과
+	2/nnc+층/nbu+과/jcj
+
+3층입니다
+	3/nnc+층/nbu+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-1층에있는
+	(위)-1층에있/ncn+는/jxc
+
+카페
+	카페/ncn
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+날씨가
+	날씨/ncn+가/jcs
+
+추워서
+	춥/paa+어서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+영업을
+	영업/ncpa+을/jco
+
+않하네요
+	않하네요/ncn
+
+.
+	./sf
+
+
+(위)-전시관앞
+	(/sl+위/ncn+)/sr+-/sd+전시관/ncn+앞/ncn
+
+.
+	./sf
+
+
+(위)-전시관앞
+	(/sl+위/ncn+)/sr+-/sd+전시관/ncn+앞/ncn
+
+.
+	./sf
+
+
+오른쪽
+	오르/pvg+ㄴ/etm+쪽/nbn
+
+천막에는
+	천막/ncn+에/jca+는/jxc
+
+야외
+	야외/ncn
+
+공연장이
+	공연장/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+(위)-전시관앞
+	(/sl+위/ncn+)/sr+-/sd+전시관/ncn+앞/ncn
+
+.
+	./sf
+
+
+(위)-전시관앞
+	(/sl+위/ncn+)/sr+-/sd+전시관/ncn+앞/ncn
+
+.
+	./sf
+
+
+(위)-맨위
+	(위)-맨위/ncn
+
+모노레일
+	모노/ncn+레/ncn+이/jp+ㄹ/etm
+
+하차장
+	하차/ncn+장/ncn
+
+옆에있는
+	옆에있는/ncn
+
+...
+	.../se
+
+
+(위)-대리석을
+	(/sl+위/ncn+)/sr+-/sd+대리석/ncn+을/jco
+
+채취하던
+	채취/ncpa+하/xsva+던/etm
+
+채석장이라서
+	채석장/ncn+이/jp+라서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+조형물들을
+	조형물/ncn+들/ncn+을/jco
+
+대리석으로
+	대리석/ncn+으로/jca
+
+...
+	.../se
+
+
+(위)-호수
+	(/sl+위/ncn+)/sr+-/sd+호수/ncn
+
+아래있는
+	아래/ncn+있/xsmn+는/etm
+
+공원
+	공원/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-호수
+	(/sl+위/ncn+)/sr+-/sd+호수/ncn
+
+아래있는
+	아래/ncn+있/xsmn+는/etm
+
+공원
+	공원/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-호수
+	(/sl+위/ncn+)/sr+-/sd+호수/ncn
+
+아래있는
+	아래/ncn+있/xsmn+는/etm
+
+공원
+	공원/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-호수
+	(/sl+위/ncn+)/sr+-/sd+호수/ncn
+
+아래있는
+	아래/ncn+있/xsmn+는/etm
+
+공원
+	공원/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-호수
+	(/sl+위/ncn+)/sr+-/sd+호수/ncn
+
+아래있는
+	아래/ncn+있/xsmn+는/etm
+
+공원
+	공원/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-호수
+	(/sl+위/ncn+)/sr+-/sd+호수/ncn
+
+아래있는
+	아래/ncn+있/xsmn+는/etm
+
+공원
+	공원/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-호수
+	(/sl+위/ncn+)/sr+-/sd+호수/ncn
+
+아래있는
+	아래/ncn+있/xsmn+는/etm
+
+공원
+	공원/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-공원
+	(/sl+위/ncn+)/sr+-/sd+공원/ncn
+
+.
+	./sf
+
+
+(위)-헐~~~~
+	(위)-헐/ncn+~/sd+~/sd+~/sd+~/sd
+
+
+(위)-
+	(/sl+위/ncn+)/sr+-/sd
+
+~
+	~/sd
+
+
+(위)-조금은
+	(/sl+위/ncn+)/sr+-/sd+조금/ncn+은/jxc
+
+민망하지만~
+	민망/ncps+하/xsms+지만/ecs+~/sd
+
+
+(위)-그냥
+	(위)-그냥/ncn
+
+예술작품으로
+	예술작품/ncn+으로/jca
+
+감상해
+	감상/ncn+해/ncn
+
+주시면
+	주/px+시/ep+면/ecs
+
+...
+	.../se
+
+
+(위)-저기
+	(/sl+위/ncn+)/sr+-/sd+저/npp+이/jp+기/etn
+
+오른쪽에
+	오르/pvg+ㄴ/etm+쪽/nbn+에/jca
+
+보이는
+	보이/pvg+는/etm
+
+건물은
+	건물/ncn+은/jxc
+
+매점이
+	매점/ncn+이/jcc
+
+있구요~
+	있구요/ncn+~/sd
+
+
+(위)-매점앞에는
+	(/sl+위/ncn+)/sr+-/sd+매점/ncn+앞/ncn+에/jca+는/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+공연장이
+	공연장/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+(위)-매점앞에서
+	(/sl+위/ncn+)/sr+-/sd+매점/ncn+앞/ncn+에서/jca
+
+호수쪽으로
+	호수/ncn+쪽/ncn+으로/jca
+
+내려가면
+	내리/pvg+어/ecx+가/px+면/ecs
+
+여기에도
+	여기/npd+에/jca+도/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+공연장이
+	공연장/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+~
+	~/sd
+
+
+(위)-아마도
+	(/sl+위/ncn+)/sr+-/sd+아마/ncn+도/jxc
+
+여기가
+	여기/npd+가/jcc
+
+무대
+	무대/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+(위)-여기는
+	(/sl+위/ncn+)/sr+-/sd+여기/npd+는/jxc
+
+당연히
+	당연히/mag
+
+객석
+	객석/ncn
+
+일테구요~
+	일테구요/ncn+~/sd
+
+
+(위)-여기가
+	(/sl+위/ncn+)/sr+-/sd+여기/npd+가/jcc
+
+채석장
+	채석장/ncn
+
+이었던
+	이/npd+이/jp+었/ep+던/etm
+
+호수입니다
+	호수/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-위에서
+	(/sl+위/ncn+)/sr+-/sd+위/ncn+에서/jca
+
+말했던
+	말/ncpa+하/xsva+었/ep+던/etm
+
+무대구요~
+	무대구요/ncn+~/sd
+
+
+(위)-참
+	(/sl+위/ncn+)/sr+-/sd+참/ncn
+
+잘만들어
+	잘만들어/ncn
+
+놓았습니다
+	놓/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-한번
+	(/sl+위/ncn+)/sr+-/sd+한/nnc+번/nbu
+
+가보시면
+	가/pvg+아/ecx+보/px+시/ep+면/ecs
+
+와~~~~하실겁니다
+	와~~~~하실겁니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-위에있는
+	(위)-위에있/ncn+는/jxc
+
+호수
+	호수/ncn
+
+사진들은
+	사/pvg+아/ecx+지/px+ㄴ들/ecs+은/jxc
+
+공연장이
+	공연장/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+쪽에서
+	쪽/nbn+에서/jca
+
+찍었구요~
+	찍었구요/ncn+~/sd
+
+
+(위)-여기서
+	(/sl+위/ncn+)/sr+-/sd+여기/npd+서/jca
+
+부터는
+	부터/ncn+는/jxc
+
+모노레일
+	모노/ncn+레/ncn+이/jp+ㄹ/etm
+
+하차장
+	하차/ncn+장/ncn
+
+쪽에서
+	쪽/nbn+에서/jca
+
+볼수있는
+	보/px+ㄹ/etm+수/nbn+있/xsmn+는/etm
+
+호수랍니다
+	호수/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+(위)-어쩌다
+	(/sl+위/ncn+)/sr+-/sd+어쩌다/ncn
+
+이렇게
+	이렇/pad+게/ecs
+
+된거지만
+	된거/ncn+이/jp+지만/ecs
+
+일부러
+	일부러/mag
+
+만들어
+	만들/pvg+어/ecx
+
+놓은것같은
+	놓/px+은/etm+것/nbn+같/xsmn+은/etm
+
+장관입니다
+	장관/ncr+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-전망대에서
+	(/sl+위/ncn+)/sr+-/sd+전망대/ncn+에서/jca
+
+직접
+	직접/mag
+
+호수옆으로
+	호수/ncn+옆/ncn+으로/jca
+
+내려갑니다
+	내리/pvg+어/ecx+가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-그저
+	(위)-그저/ncn
+
+와~~소리밖에
+	오/px+아/ecs+~/sd+~/sd+소리/ncn+밖에/jxc
+
+않나옵니다
+	않나옵니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-이런곳을
+	(위)-이런곳/ncn+을/jco
+
+아름답게
+	아름답/paa+게/ecs
+
+꾸며놓은
+	꾸미/pvg+어/ecx+놓/px+은/etm
+
+여러분들이
+	여러분들/ncn+이/jcc
+
+대단합니다
+	대단/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-부족한
+	(/sl+위/ncn+)/sr+-/sd+부족/ncn+한/ncn
+
+사진기술이
+	사진/ncn+기술/ncn+이/jcc
+
+아쉽기만
+	아쉽/paa+기/etn+만/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-최고
+	(/sl+위/ncn+)/sr+-/sd+최고/ncn
+
+깊이가
+	깊이/ncn+가/jcs
+
+20m나
+	20m/ncn+나/jcj
+
+된다는
+	되/pvg+ㄴ다/ef+는/etm
+
+시퍼런
+	시퍼런/ncn
+
+물이
+	물/ncn+이/jcc
+
+무섭습니다
+	무섭/paa+습니다/ef
+
+.
+	./sf
+
+
+건너편이
+	건너편/ncn+이/jcc
+
+공연장이
+	공연장/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+왼쪽이
+	왼쪽/ncn+이/jcc
+
+무대구요~오른쪽이
+	무대구요~오른쪽/ncn+이/jcc
+
+객석입니다
+	객석/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-구경을
+	(/sl+위/ncn+)/sr+-/sd+구경/ncn+을/jco
+
+하면거
+	하면거/ncn
+
+계곡위로
+	계곡/ncn+위/ncn+로/jca
+
+출렁
+	출렁/ncn
+
+다리를
+	다리/ncn+를/jco
+
+놓으면
+	놓/px+으면/ecs
+
+또다른
+	또다른/mma
+
+재미있는
+	재미있/pvg+는/etm
+
+
+이야기
+	이야기/ncpa
+
+거리가
+	거리/ncn+가/jcs
+
+될것같다는
+	되/pvg+ㄹ/etm+것/nbn+같/xsmn+다/ef+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+해봅니다
+	하/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-여기에도
+	(/sl+위/ncn+)/sr+-/sd+여기/npd+에/jca+도/jxc
+
+물고기가
+	물고기/ncn+가/jcs
+
+살고
+	살/pvg+고/ecc
+
+있더군요~
+	있/paa+더군/ef+요/jxf+~/sd
+
+
+(위)-저건너가
+	(위)-저건너/ncn+가/jcs
+
+반대쪽
+	반대쪽/ncn
+
+공연장
+	공연장/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-물을
+	(/sl+위/ncn+)/sr+-/sd+물/ncn+을/jco
+
+무서워하는
+	무섭/paa+어/ecx+하/px+는/etm
+
+저는
+	저/npp+는/jxc
+
+물만보면
+	물만보/ncn+이/jp+면/ecs
+
+마냥
+	마냥/mag
+
+무섭습니다
+	무섭/paa+습니다/ef
+
+.
+	./sf
+
+
+(위)-오른쪽위
+	(/sl+위/ncn+)/sr+-/sd+오른쪽/ncn+위/ncn
+
+전망대는
+	전망대/ncn+는/jxc
+
+지금은
+	지금/mag+은/jxc
+
+공사중이라
+	공사/ncn+중이/ncn+이/jp+라/ecs
+
+못갑니다
+	못갑니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-여기는
+	(/sl+위/ncn+)/sr+-/sd+여기/npd+는/jxc
+
+공연장
+	공연장/ncn
+
+쪽입니다
+	쪽/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+저~건너가
+	저~건너/ncn+가/jcs
+
+모노레일
+	모노/ncn+레/ncn+이/jp+ㄹ/etm
+
+하차장쪽에
+	하차/ncn+장/ncn+쪽/xsnx+에/jca
+
+있는
+	있/px+는/etm
+
+전망대
+	전망대/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-참~이국적인
+	(/sl+위/ncn+)/sr+-/sd+참/ncn+~/sd+이국/ncn+적/ncn+이/jp+ㄴ/etm
+
+모습에
+	모습/ncn+에/jca
+
+너무
+	너무/mag
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+원래
+	원래/mag
+
+이곳은
+	이곳/npd+은/jxc
+
+폐
+	폐/ncn
+
+채석장
+	채석장/ncn
+
+이었답니다
+	이/npd+이/jp+었/ep+답니다/ef
+
+.
+	./sf
+
+
+활용
+	활용/ncpa
+
+방안을
+	방안/ncn+을/jco
+
+찾고
+	찾/pvg+고/ecc
+
+있던중
+	있/px+던/etm+중/nbn
+
+어느날
+	어느날/npd
+
+물이
+	물/ncn+이/jcc
+
+이렇게
+	이렇/pad+게/ecs
+
+고여
+	고이/pvg+어/ecx
+
+있는것을
+	있/px+는/etm+것/nbn+을/jco
+
+발견한게
+	발견/ncpa+한/ncn+게/jca
+
+
+이런
+	이런/mmd
+
+공원을
+	공원/ncn+을/jco
+
+만들게된
+	만들/pvg+게/ecx+되/px+ㄴ/etm
+
+계기가
+	계기/ncn+가/jcs
+
+됐다고
+	되/pvg+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+참
+	참/ii
+
+좋습디다
+	좋습디/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+한번씩
+	한번씩/ncn
+
+찾아가셔서
+	찾/pvg+아/ecx+가/px+시/ep+어서/ecs
+
+생활에서
+	생활/ncpa+에서/jca
+
+여유로움
+	여유/ncn+롭/xsmn+음/etn
+
+찾아
+	찾/pvg+아/ecx
+
+보시길
+	보시/ncpa+길/ncn
+
+바래요
+	바/nbn+이/jp+래/ef+요/jxf
+
+.
+	./sf
+
+
+걸어가도
+	걷/pvg+어/ecx+가/px+아/ecs
+
+힘든길은
+	힘든길/ncn+은/jxc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+모노레일을
+	모노/ncn+레일/ncn+을/jco
+
+타보시는것도
+	타/pvg+아/ecx+보/px+시/ep+는/etm+것/nbn+도/jxc
+
+새로운
+	새롭/paa+은/etm
+
+경험인것
+	경험/ncpa+이/jp+ㄴ/etm+것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+산행도
+	산행/ncn+도/jxc
+
+즐거웠지만
+	즐겁/paa+었/ep+지만/ecs
+
+아트밸리
+	아트밸리/ncn
+
+때문에
+	때문/nbn+에/jca
+
+행복했습니다
+	행복/ncps+하/xsms+었/ep+습니다/ef
+
+.
+	./sf
+
+
+주소:경기도
+	주소/ncn+:/sp+경기/ncn+도/jxc
+
+포천시
+	포천시/ncn
+
+군북면
+	군북면/ncn
+
+기지리
+	기지/ncn+이/jp+리/ef
+
+282번지
+	282번지/ncn
+
+
+입장료:2.
+	입장료/ncn+:/sp+2./nnc
+
+000원
+	000/nnc+원/nbu
+
+
+모노레일:왕복-4.
+	모노/ncn+레/ncn+이/jp+ㄹ/etm+:/sp+왕복/ncpa+-/sd+4./nnc
+
+000원
+	000/nnc+원/nbu
+
+.
+	./sf
+
+
+편도-3.
+	편/nbn+도/jxc+-/sd+3./nnc
+
+000원
+	000/nnc+원/nbu

@@ -1,0 +1,933 @@
+아파트
+	아파트/ncn
+
+관리비의
+	관리비/ncn+의/jcm
+
+연체료가
+	연체료/ncn+가/jcs
+
+대부업체
+	대부/ncn+업체/ncn
+
+최고
+	최고/ncn
+
+이자율인
+	이자율/ncn+이/jp+ㄴ/etm
+
+연
+	열/pvg+ㄴ/etm
+
+39%를
+	39/nnc+%/su+를/jco
+
+넘어서는
+	넘/pvg+어서/ecs+는/jxc
+
+것으로
+	것/nbn+으로/jca
+
+나타났다
+	나타나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+납부일을
+	납부/ncpa+일/ncn+을/jco
+
+하루만
+	하루/ncn+만/jxc
+
+늦게
+	늦/paa+게/ecs
+
+내도
+	내/npp+도/jxc
+
+2%의
+	2/nnc+%/su+의/jcm
+
+연체료가
+	연체료/ncn+가/jcs
+
+붙고
+	붙/pvg+고/ecc
+
+1년
+	1/nnc+년/nbu
+
+동안
+	동안/ncn
+
+밀리면
+	밀/pvg+ㄹ/etm+리/nbn+이/jp+면/ecs
+
+최대
+	최대/ncn
+
+114%의
+	114/nnc+%/su+의/jcm
+
+연체료가
+	연체료/ncn+가/jcs
+
+붙을
+	붙/pvg+을/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+사채와
+	사/nnc+채/nbu+와/jct
+
+같은
+	같/paa+은/etm
+
+연체료율을
+	연체료율/ncn+을/jco
+
+제재할
+	제재/ncpa+하/xsva+ㄹ/etm
+
+규정은
+	규정/ncn+은/jxc
+
+현행법상
+	현행법상/ncn
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+아파트
+	아파트/ncn
+
+관리비를
+	관리비/ncn+를/jco
+
+미납했을
+	미납/ncpa+하/xsva+었/ep+을/etm
+
+때
+	때/ncn
+
+부과하는
+	부과/ncpa+하/xsva+는/etm
+
+연체료율은
+	연체료율/ncn+은/jxc
+
+국토해양부가
+	국토/ncn+해양/ncn+부/ncn+가/jcs
+
+정한
+	정하/pvg+ㄴ/etm
+
+공동주택
+	공동주택/ncn
+
+관리규약
+	관리/ncn+규약/ncn
+
+에
+	에/pvg+어/ecx
+
+따라
+	따르/pvg+아/ecx
+
+정해진다
+	정하/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+관리규약에
+	관리/ncn+규약/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+표준
+	표준/ncn
+
+연체료율은
+	연체료율은/ncn
+
+1~2개월은
+	1/nnc+~/sd+2/nnc+개월/nbu+은/jxc
+
+2%
+	2/nnc+%/su
+
+3~4개월은
+	3/nnc+~/sd+4/nnc+개월/nbu+은/jxc
+
+5%
+	5/nnc+%/su
+
+5~8개월
+	5/nnc+~/sd+8/nnc+개월/nbu
+
+10%
+	10/nnc+%/su
+
+9~12개월
+	9/nnc+~/sd+12/nnc+개월/nbu
+
+15%
+	15/nnc+%/su
+
+1년
+	1/nnc+년/nbu
+
+이상은
+	이상/ncn+은/jxc
+
+20%이다
+	20/nnc+%/su+이/jp+다/ef
+
+.
+	./sf
+
+
+겉으로는
+	겉/ncn+으로/jca+는/jxc
+
+별다른
+	별다르/paa+ㄴ/etm
+
+문제가
+	문제/ncn+가/jcs
+
+없는
+	없/paa+는/etm
+
+것
+	것/nbn
+
+같지만
+	같/paa+지/ecx+말/px+ㄴ/etm
+
+운용은
+	운용/ncpa+은/jxc
+
+다르다
+	다르/paa+다/ef
+
+.
+	./sf
+
+
+연체료율이
+	연체료율/ncn+이/jcc
+
+복리로
+	복리/ncn+로/jca
+
+매겨지면서
+	매기/pvg+어/ecx+지/px+면서/ecc
+
+이자가
+	이자/npp+가/jcs
+
+불어나기
+	불/pvg+어/ecx+나/px+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+1년
+	1/nnc+년/nbu
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+내지
+	내/pvg+지/ecx
+
+않으면
+	않/px+으면/ecs
+
+연체료는
+	연체료/ncn+는/jxc
+
+114%까지
+	114/nnc+%/su+까지/jxc
+
+올라간다
+	오르/pvg+아/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+예를
+	예/ncn+를/jco
+
+들어
+	들/pvg+어/ecx
+
+한
+	하/pvg+ㄴ/etm
+
+달
+	달/nbu
+
+관리비가
+	관리비/ncn+가/jcs
+
+20만원일
+	20/nnc+만/nnc+원/nbu+이/jp+ㄹ/etm
+
+경우
+	경우/ncn
+
+1개월
+	1/nnc+개월/nbu
+
+늦어지면
+	늦/paa+어/ecx+지/px+면/ecs
+
+2%의
+	2/nnc+%/su+의/jcm
+
+연체료가
+	연체료/ncn+가/jcs
+
+붙어
+	붙/pvg+어/ecx
+
+20만
+	20/nnc+만/jxc
+
+4000원이다
+	4000/nnc+원/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+2개월
+	2/nnc+개월/nbu
+
+미뤄지면
+	미루/pvg+어/ecx+지/px+면/ecs
+
+추가로
+	추가/ncpa+로/jca
+
+2%가
+	2/nnc+%/su+가/jcc
+
+붙어
+	붙/pvg+어/ecx
+
+20만
+	20/nnc+만/jxc
+
+8080원을
+	8080/nnc+원/nbu+을/jco
+
+납부해야
+	납부/ncpa+하/xsva+어야/ecs
+
+하는
+	하/pvg+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+복리에
+	복리/ncn+에/jca
+
+복리가
+	복리/ncn+가/jcs
+
+붙어
+	붙/pvg+어/ecx
+
+6개월이
+	6/nnc+개월/nbu+이/jcc
+
+되면
+	되/pvg+면/ecs
+
+20만원의
+	20/nnc+만/nnc+원/nbu+의/jcm
+
+관리비는
+	관리비/ncn+는/jxc
+
+27만
+	27/nnc+만/jxc
+
+7000원이
+	7000/nnc+원/nbu+이/jcc
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+12개월
+	12/nnc+개월/nbu
+
+동안
+	동안/ncn
+
+안
+	안/mag
+
+낼
+	내/pvg+ㄹ/etm
+
+경우
+	경우/ncn
+
+최대
+	최대/ncn
+
+58만
+	58/nnc+만/jxc
+
+7000원에
+	7000/nnc+원/nbu+에/jca
+
+이른다는
+	이르/paa+ㄴ다/ef+는/etm
+
+계산이다
+	계산/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+게다가
+	게다가/maj
+
+표준
+	표준/ncn
+
+연체료율은
+	연체료율/ncn+은/jxc
+
+말
+	말/ncn
+
+그대로
+	그대로/mag
+
+하나의
+	하나/nnc+의/jcm
+
+표준
+	표준/ncn
+
+일
+	일/nnc
+
+뿐이다
+	뿐/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+아파트마다
+	아파트/ncn+마다/jxc
+
+별도의
+	별도/ncn+의/jcm
+
+규정을
+	규정/ncn+을/jco
+
+마련하고
+	마련/ncpa+하고/jct
+
+있기
+	있/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+연체료율이
+	연체료율/ncn+이/jcc
+
+더
+	더/mag
+
+높은
+	높/paa+은/etm
+
+곳도
+	곳/ncn+도/jxc
+
+다반사다
+	다반사/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+서울
+	서울/ncn
+
+양천구
+	양천구/ncn
+
+목동의
+	목동/ncn+의/jcm
+
+P아파트는
+	P/f+아파트/ncn+는/jxc
+
+관리비가
+	관리비/ncn+가/jcs
+
+한
+	하/pvg+ㄴ/etm
+
+달
+	달/nbu
+
+밀리면
+	밀/pvg+ㄹ/etm+리/nbn+이/jp+면/ecs
+
+2%의
+	2/nnc+%/su+의/jcm
+
+연체료율을
+	연체료율/ncn+을/jco
+
+적용하다
+	적용/ncpa+하/xsva+어다/ecs
+
+두
+	두/nnc
+
+달째는
+	달째/ncn+는/jxc
+
+4%,
+	4/nnc+%/su+,/sp
+
+석
+	석/mma
+
+달째는
+	달째/ncn+는/jxc
+
+6%,
+	6/nnc+%/su+,/sp
+
+넉
+	넉/ncn
+
+달째는
+	달째/ncn+는/jxc
+
+12%를
+	12/nnc+%/su+를/jco
+
+물린다
+	물리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+목동
+	목동/ncn
+
+L아파트의
+	L/f+아파트/ncn+의/jcm
+
+연체료율도
+	연체료율/ncn+도/jxc
+
+달마다
+	달/nbu+마다/jxc
+
+2%,
+	2/nnc+%/su+,/sp
+
+3.5%,
+	3.5/nnc+%/su+,/sp
+
+5%로
+	5/nnc+%/su+로/jca
+
+높아진다
+	높/paa+아/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+강남구
+	강남/ncn+구/ncn
+
+도곡동
+	도곡동/ncn
+
+S아파트는
+	S/f+아파트/ncn+는/jxc
+
+1개월만
+	1/nnc+개월/nbu+만/jxc
+
+안
+	알/pvg+ㄴ/etm
+
+내도
+	내/npp+도/jxc
+
+5%씩의
+	5/nnc+%/su+씩/xsnu+의/jcm
+
+연체료율을
+	연체료율/ncn+을/jco
+
+부과하고
+	부과/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+S아파트
+	S/f+아파트/ncn
+
+관리사무소
+	관리사무소/ncn
+
+측은
+	측은/ncps
+
+시설을
+	시설/ncpa+을/jco
+
+같이
+	같/paa+이/xsa
+
+쓰면서
+	쓰/pvg+면서/ecc
+
+관리비를
+	관리비/ncn+를/jco
+
+내지
+	내/pvg+지/ecx
+
+않으면
+	않/px+으면/ecs
+
+다른
+	다르/paa+ㄴ/etm
+
+가구들이
+	가구/ncn+들/ncn+이/jcc
+
+나눠
+	나누/pvg+어/ecx
+
+부담할
+	부담/ncpa+하/xsva+ㄹ/etm
+
+수밖에
+	수/nbn+밖에/jxc
+
+없기
+	없/paa+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+가혹하더라도
+	가혹/ncps+하/xsms+더라도/ecs
+
+어쩔수
+	어쩌/paa+ㄹ/etm+수/nbn
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+고
+	고/mma
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+아파트
+	아파트/ncn
+
+관리사무소
+	관리사무소/ncn
+
+측은
+	측은/ncps
+
+높은
+	높/paa+은/etm
+
+연체료율
+	연체료율/ncn
+
+외에
+	외/nbn+에/jca
+
+일정
+	일정/ncn
+
+기간
+	기간/ncn
+
+연체하면
+	연체/ncpa+하/xsva+면/ecs
+
+단전
+	달/paa+ㄴ/etm+전/nbn
+
+단수
+	달/paa+ㄴ/etm+수/nbn
+
+등의
+	등/nbu+의/jcm
+
+극단적인
+	극단/ncn+적/ncn+이/jp+ㄴ/etm
+
+조치에
+	조/nnc+치/nbu+에/jca
+
+나서고
+	나/px+아/ef+고/jcr
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+서울지역
+	서울지역/ncn
+
+아파트들은
+	아파트/ncn+들/ncn+은/jxc
+
+대부분
+	대부분/ncn
+
+3개월
+	3/nnc+개월/nbu
+
+이상
+	이상/ncn
+
+연체
+	연체/ncpa
+
+가구는
+	가구/ncn+는/jxc
+
+단전
+	달/paa+ㄴ/etm+전/nbn
+
+단수를
+	달/paa+ㄴ/etm+수/nbn+를/jco
+
+취할
+	취하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+는
+	늘/pvg+ㄴ/etm
+
+규정을
+	규정/ncn+을/jco
+
+두고
+	두/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+관리비를
+	관리비/ncn+를/jco
+
+내지
+	내/pvg+지/ecx
+
+않은
+	않/px+은/etm
+
+가구를
+	가구/ncn+를/jco
+
+아파트
+	아파트/ncn
+
+게시판에
+	게시판/ncn+에/jca
+
+올리는
+	올리/pvg+는/etm
+
+관리사무소도
+	관리사무소/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+주무부처인
+	주무부처/ncn+이/jp+ㄴ/etm
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+측은
+	측은/ncps
+
+이와
+	이/npd+와/jct
+
+관련,
+	관련/ncpa+,/sp
+
+공동주택
+	공동주택/ncn
+
+관리규약은
+	관리/ncn+규약/ncn+은/jxc
+
+일종의
+	일종/ncn+의/jcm
+
+가이드라인일
+	가이드라인/ncn+이/jp+ㄹ/etm
+
+뿐
+	뿐/nbn
+
+이라면서
+	이/npd+라면서/jca
+
+각
+	각/mma
+
+아파트가
+	아파트/ncn+가/jcs
+
+실정에
+	실정/ncn+에/jca
+
+맞게
+	맞/pvg+게/ecs
+
+관리규약을
+	관리/ncn+규약/ncn+을/jco
+
+따로
+	따로/mag
+
+두는
+	두/pvg+는/etm
+
+것을
+	것/nbn+을/jco
+
+제재할
+	제재/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+방법은
+	방법/ncn+은/jxc
+
+사실상
+	사실상/ncn
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+고
+	고/mma
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:서울신문
+	출처:서울신문/ncn

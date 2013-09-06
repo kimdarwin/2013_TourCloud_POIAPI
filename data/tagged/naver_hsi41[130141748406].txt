@@ -1,0 +1,348 @@
+서울
+	서울/ncn
+
+한강
+	한강/ncn
+
+이남
+	이남/ncn
+
+지역
+	지역/ncn
+
+아파트의
+	아파트/ncn+의/jcm
+
+전세금이
+	전세금/ncn+이/jcc
+
+9년여
+	9/nnc+년여/nbu
+
+만에
+	만/nnc+에/jca
+
+매매가의
+	매매가/ncn+의/jcm
+
+절반
+	절반/ncn
+
+수준까지
+	수준/ncn+까지/jxc
+
+올라섰다
+	올라서/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+3일
+	3/nnc+일/nbu
+
+KB국민은행에
+	KB/f+국민/ncn+은행/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+지난달
+	지난달/ncn
+
+서울
+	서울/ncn
+
+한강
+	한강/ncn
+
+이남
+	이남/ncn
+
+11개
+	11/nnc+개/nbu
+
+구
+	구/nnc
+
+아파트의
+	아파트/ncn+의/jcm
+
+매매가
+	매매가/ncn
+
+대비
+	대비/ncn
+
+전세금
+	전세금/ncn
+
+비율(전세가율)은
+	비율(전세가율)/ncn+은/jxc
+
+50.
+	50./nnc
+
+0%로
+	0/nnc+%/su+로/jca
+
+집계됐다
+	집계/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+지역
+	지역/ncn
+
+아파트
+	아파트/ncn
+
+전세금이
+	전세금/ncn+이/jcc
+
+매매가의
+	매매가/ncn+의/jcm
+
+절반에
+	절반/ncn+에/jca
+
+달한
+	달하/pvg+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+2003년
+	2003/nnc+년/nbu
+
+4월(50.
+	4월(50./ncn
+
+5%)
+	5/nnc+%/su+)/sr
+
+이후
+	이후/ncn
+
+9년
+	9/nnc+년/nbu
+
+2개월
+	2/nnc+개월/nbu
+
+만이다
+	만/nnc+이/jp+다/ef
+
+.
+	./sf
+
+
+서울지역
+	서울지역/ncn
+
+전체
+	전체/ncn
+
+아파트의
+	아파트/ncn+의/jcm
+
+전세가율은
+	전세가/ncn+율/ncn+은/jxc
+
+전세금
+	전세금/ncn
+
+폭등
+	폭등/ncpa
+
+현상이
+	현상/ncn+이/jcc
+
+심각했던
+	심각/ncps+하/xsms+었/ep+던/etm
+
+지난해부터
+	지난해/ncn+부터/jxc
+
+꾸준한
+	끄/pvg+어/ecx+주/px+ㄴ/etm+한/nbn
+
+상승세를
+	상승세/ncn+를/jco
+
+이어가고
+	잇/pvg+어/ecx+가/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+지난달에는
+	지난달/ncn+에/jca+는/jxc
+
+52.
+	52./nnc
+
+1%로
+	1/nnc+%/su+로/jca
+
+2003년
+	2003/nnc+년/nbu
+
+8월(52.
+	8월(52./ncn
+
+4%)
+	4/nnc+%/su+)/sr
+
+이후
+	이후/ncn
+
+8년
+	8/nnc+년/nbu
+
+10개월
+	10/nnc+개월/nbu
+
+만에
+	만/nnc+에/jca
+
+최고치를
+	최고치/ncn+를/jco
+
+보였다
+	보이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+하지만
+	하지만/maj
+
+올해
+	올해/ncn
+
+들어서
+	들/pvg+어서/ecs
+
+전세가율이
+	전세가/ncn+율/ncn+이/jcc
+
+오르는
+	오르/pvg+는/etm
+
+것은
+	것/nbn+은/jxc
+
+이와는
+	이/npd+와/jct+는/jxc
+
+다른
+	다르/paa+ㄴ/etm
+
+양상이다
+	양상/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+거래시장
+	거래시장/ncn
+
+침체로
+	침체/ncpa+로/jca
+
+인해
+	인하/pvg+어/ecx
+
+매매가가
+	매매가/ncn+가/jcs
+
+떨어지면서
+	떨어지/pvg+면서/ecc
+
+전세가율을
+	전세가/ncn+율/ncn+을/jco
+
+끌어올리고
+	끌/pvg+어/ecx+오/px+ㄹ/etm+리/nbn+이/jp+고/ecc
+
+있는
+	있/px+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+올
+	오/px+ㄹ/etm
+
+상반기에
+	상반기/ncn+에/jca
+
+전세금은
+	전세금/ncn+은/jxc
+
+0.3%
+	0.3/nnc+%/su
+
+올라
+	오르/pvg+아/ecx
+
+상대적으로
+	상대/ncn+적/ncn+으로/jca
+
+안정세를
+	안정세/ncn+를/jco
+
+보였다
+	보이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+반면
+	반면/ncn
+
+매매가는
+	매매가/ncn+는/jxc
+
+1.5%가
+	1.5/nnc+%/su+가/jcc
+
+떨어졌다
+	떨/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+박선희
+	박선희/ncn
+
+기자
+	기/ncn+이/jp+자/ecc
+
+teller@donga.
+	teller/f+@/sy+donga/f+./sy
+
+com
+	com/f
+
+
+출처:동아일보
+	출처/ncn+:/sp+동아/ncn+일보/ncn

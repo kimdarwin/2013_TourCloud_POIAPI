@@ -1,0 +1,708 @@
+드디어
+	드디어/mag
+
+어메이징
+	어메이징/ncn
+
+스파이더맨이
+	스파이더맨/ncn+이/jcc
+
+개봉
+	개봉/ncpa
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+전작을
+	전작/ncn+을/jco
+
+갈아엎고
+	갈아엎고/ncn
+
+새
+	새/mma
+
+감독에
+	감독/ncpa+에/jca
+
+새
+	새/mma
+
+배우로
+	배우/ncn+로/jca
+
+다시
+	다시/mag
+
+만드는
+	만들/pvg+는/etm
+
+영화라서
+	영화/ncn+이/jp+라서/ecs
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+기대
+	기대/ncpa
+
+중입니다
+	중/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+토비
+	토비/ncn
+
+맥과이어의
+	맥과이어/ncn+의/jcm
+
+스파이더맨은
+	스파이더맨/ncn+은/jxc
+
+저는
+	저/npp+는/jxc
+
+좀
+	좀/mag
+
+별로였거든요
+	별/ncn+로/jca+이/jp+었/ep+거든요/ecs
+
+
+이번
+	이/nnc+번/nbu
+
+어메이징
+	어메이징/ncn
+
+스파이더맨의
+	스파이더맨/ncn+의/jcm
+
+평들을
+	평/ncn+들/xsncc+을/jco
+
+미리
+	미리/mag
+
+보긴
+	보긴/ncn
+
+했는데
+	하/px+었/ep+는데/ecs
+
+기대반
+	기대/ncpa+반/ncn
+
+걱정반이긴하네요
+	걱정반이긴하네요/ncn
+
+.
+	./sf
+
+
+이럴때
+	이럴때/ncn
+
+그나마
+	그/npp+나마/jxc
+
+좋은
+	좋/paa+은/etm
+
+방법은
+	방법/ncn+은/jxc
+
+할인을
+	할인/ncpa+을/jco
+
+받아
+	받/pvg+아/ecx
+
+보는
+	보/px+는/etm
+
+방법
+	방법/ncn
+
+..
+	./sf+./sf
+
+
+조조를
+	조/nnc+조/nbu+를/jco
+
+보고
+	보/px+고/ecc
+
+할인을
+	할인/ncpa+을/jco
+
+받으면
+	받/pvg+으면/ecs
+
+영화가
+	영화/ncn+가/jcs
+
+그닥
+	그닥/ncn
+
+별로라고
+	별로/mag+라고/jxc
+
+해도
+	하/pvg+어도/ecs
+
+그리
+	그리/mad
+
+돈아깝진
+	돈아깝진/ncn
+
+않겠죠
+	않/paa+겠/ep+죠/ef
+
+
+게다가
+	게다가/maj
+
+요즘에
+	요즘/ncn+에/jca
+
+인터파크에서
+	인터파크/ncn+에서/jca
+
+공연이나
+	공연/ncps+이나/jcj
+
+영화
+	영화/ncn
+
+예매하실때
+	예매/ncpa+하/xsva+시/ep+ㄹ/etm+때/nbn
+
+옐로페이를
+	옐로/ncn+페이/ncn+를/jco
+
+사용하시면
+	사용/ncpa+하시/ncn+면/ncn
+
+
+공연은
+	공연/ncps+은/jxc
+
+5%,
+	5/nnc+%/su+,/sp
+
+영화는
+	영화/ncn+는/jxc
+
+1매당
+	1/nnc+매/nbu+당/xsnu
+
+2천원
+	2/nnc+천/nnc+원/nbu
+
+캐시백하는
+	캐시백하/ncn+는/jxc
+
+이벤트중입니다
+	이벤트/ncn+중/ncn+이/jp+ㅂ니다/ef
+
+
+http://movie.
+	http/f+:/sp+//sp+//sp+movie/f+./sy
+
+interpark.
+	interpark/f+./sy
+
+com/Movie/event/imevent_templet.
+	com/Movie/event/imevent_templet./ncn
+
+asp
+	asp/f
+
+?
+	?/sf
+
+
+eventseq=20120601_yp
+	eventseq=20120601_yp/ncn
+
+
+6월
+	6/nnc+월/nbu
+
+30일까지니까
+	30/nnc+일/nbu+까지/jca+이/jp+니까/ecs
+
+이용해보세요~
+	이용/ncpa+하/xsva+어/ecx+보/px+세/ef+요/jxf+~/sd
+
+저도
+	저/npp+도/jxc
+
+이
+	이/mmd
+
+방법으로
+	방법/ncn+으로/jca
+
+영화를
+	영화/ncn+를/jco
+
+예매했습니다
+	예매/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+아,
+	아/ii+,/sp
+
+게다가
+	게다가/maj
+
+가입만해도
+	가입만해/ncn+도/jxc
+
+2,500원을
+	2,500/nnc+원/nbu+을/jco
+
+적립해주니까
+	적립/ncpa+하/xsva+어/ecx+주/px+니까/ecs
+
+신규가입자분들은
+	신규가입자/ncn+분/ncn+들/xsncc+은/jxc
+
+일석이조일듯~
+	일석이조/ncn+이/jp+ㄹ/etm+듯/nbs+~/sd
+
+!
+	!/sf
+
+
+결국
+	결국/mag
+
+조조
+	조/nnc+조/nbu
+
+5,500원을
+	5,500/nnc+원/nbu+을/jco
+
+옐로페이에서2,000
+	옐로페이에서2,000/ncn
+
++
+	+/ncn
+
+2,500
+	2,500/nnc
+
+할인
+	할/nbu+이/jp+ㄴ/etm
+
+받아
+	받/pvg+아/ecx
+
+1,000원에
+	1,000/nnc+원/nbu+에/jca
+
+본다는
+	보/pvg+ㄴ다는/etm
+
+
+옐로페이가
+	옐로/ncn+페이/ncn+가/jcs
+
+상당히
+	상당히/mag
+
+유용한
+	유용/ncpa+하/xsva+ㄴ/etm
+
+서비스인데
+	서비스/ncpa+이/jp+ㄴ데/ecs
+
+모르시는
+	모르/pvg+시/ep+는/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+잠시
+	잠시/mag
+
+소개~
+	소개/ncpa+~/sd
+
+^^
+	^/sy+^/sy
+
+
+한달에
+	한/nnc+달/nbu+에/jca
+
+한두번씩은
+	한/nnc+두/nnc+번/nbu+씩/xsnu+은/jxc
+
+영화나
+	영화/ncn+나/jcj
+
+공연을
+	공연/ncps+을/jco
+
+즐기는데
+	즐기/pvg+ㄴ데/ecs
+
+
+최근에
+	최근/ncn+에/jca
+
+옐로페이라는
+	옐로/ncn+페이/ncn+라는/jcm
+
+서비스를
+	서비스/ncpa+를/jco
+
+즐겨이용하고
+	즐겨이용하/ncn+이/jp+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+옐로페이는
+	옐로/ncn+페이/ncn+는/jxc
+
+스마트폰으로
+	스마트폰/ncn+으로/jca
+
+체크카드의
+	체크/ncpa+카드/ncn+의/jcm
+
+역할을
+	역할/ncn+을/jco
+
+대신하는건데요
+	대신하는건데요/ncn
+
+.
+	./sf
+
+
+복잡한
+	복잡/ncps+하/xsms+ㄴ/etm
+
+신용카드번호나
+	신용카드/ncn+번호/ncn+나/jcj
+
+은행
+	은행/ncn
+
+계좌번호
+	계좌/ncn+번호/ncn
+
+필요없이
+	필요/ncps+없이/jca
+
+
+'핸드폰
+	'/sr+핸드폰/ncn
+
+번호'를
+	번호/ncn+'/sr+를/jco
+
+입력하면
+	입력/ncpa+하/xsva+면/ecs
+
+'내
+	'/sr+내/npp
+
+통장에서
+	통장/ncn+에서/jca
+
+결제'가
+	결제/ncn+'/sr+가/jcc
+
+되는
+	되/pvg+는/etm
+
+서비스입니다
+	서비스/ncpa+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+인터파크에서
+	인터파크/ncn+에서/jca
+
+공연이나
+	공연/ncps+이나/jcj
+
+영화를
+	영화/ncn+를/jco
+
+예매할때
+	예매/ncpa+하/xsva+ㄹ/etm+때/nbn
+
+옐로페이라는
+	옐로/ncn+페이/ncn+라는/jcm
+
+카테고리가
+	카테고리/ncn+가/jcs
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+메뉴를이용해서
+	메뉴를이용해서/ncn
+
+결제가
+	결제/ncn+가/jcs
+
+가능합니다
+	가능/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+별도의
+	별도/ncn+의/jcm
+
+인증서
+	인증/ncpa+서/jca
+
+없이
+	없이/mag
+
+핸드폰만
+	핸드폰/ncn+만/jxc
+
+있으면
+	있/px+으면/ecs
+
+바로
+	바로/mag
+
+내
+	내/npp
+
+통장에서
+	통장/ncn+에서/jca
+
+결제~
+	결제/ncn+~/sd
+
+!
+	!/sf
+
+
+옐로페이로
+	옐로/ncn+페이/ncn+로/jca
+
+결제를
+	결제/ncn+를/jco
+
+하면
+	하/pvg+면/ecs
+
+내
+	내/npp
+
+핸드폰으로
+	핸드폰/ncn+으로/jca
+
+자동
+	자동/ncn
+
+음성안내
+	음성안내/ncpa
+
+전화가
+	전화/ncpa+가/jcc
+
+오고
+	오고/ncn
+
+
+여기에
+	여기/npd+에/jca
+
+미리
+	미리/mag
+
+설정해둔
+	설정/ncpa+하/xsva+어/ecx+두/px+ㄴ/etm
+
+비밀번호만
+	비밀/ncn+번호/ncn+만/jxc
+
+입력하면
+	입력/ncpa+하/xsva+면/ecs
+
+결제가
+	결제/ncn+가/jcs
+
+끝나죠~
+	끝나/pvg+죠/ef+~/sd
+
+
+사용하기
+	사용/ncpa+하/xsva+기/etn
+
+쉽고,
+	쉽/paa+고/ecc+,/sp
+
+무엇보다
+	무엇/npd+보다/jca
+
+제
+	저/npp+의/jcm
+
+3자가
+	3/nnc+자/nbu+가/jcc
+
+도용하거나
+	도용/ncpa+하/xsva+거나/ecc
+
+해킹에
+	해킹/ncn+에/jca
+
+대해서
+	대하/pvg+어서/ecso
+
+안전합니다
+	안전/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+*
+	*/sy
+
+*
+	*/sy
+
+*
+	*/sy
+
+*
+	*/sy
+
+*
+	*/sy
+
+*
+	*/sy
+
+*
+	*/sy
+
+*
+	*/sy
+
+
+그리고
+	그리고/maj
+
+이벤트
+	이벤트/ncn
+
+소식
+	소식/ncn
+
+하나
+	하나/nnc
+
+더~
+	더~/ncn
+
+!
+	!/sf
+
+
+최대
+	최대/ncn
+
+30만원을
+	30/nnc+만/nnc+원/nbu+을/jco
+
+주는
+	주/px+는/etm
+
+옐로페이
+	옐로/ncn+페이/ncn
+
+체험단
+	체험/ncpa+단/ncn
+
+모집
+	모집/ncpa
+
+이벤트도
+	이벤트/ncn+도/jxc
+
+진행중입니다
+	진행/ncpa+중/xsnx+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+https://www.
+	https/f+:/sp+//sp+//sp+www/f+./sy
+
+yelopay.
+	yelopay/f+./sy
+
+com/board/event_detail.
+	com/board/event_detail./ncn
+
+jsf
+	jsf/f
+
+?
+	?/sf
+
+
+boardId=3
+	boardId/f+=/sy+3/nnc

@@ -1,0 +1,893 @@
+경기도
+	경기/ncn+도/jxc
+
+안양시
+	안양시/ncn
+
+삼성산
+	삼성/ncn+산/ncn
+
+상불암
+	상불암/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+
+삼성산
+	삼성/ncn+산/ncn
+
+상불암은
+	상불암/ncn+은/jxc
+
+차량이
+	차량/ncn+이/jcc
+
+갈수
+	가/px+ㄹ/etm+수/nbn
+
+없는
+	없/paa+는/etm
+
+곳에
+	곳/nbn+에/jca
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+안양유원지에서
+	안양유원지/ncn+에서/jca
+
+등산로로
+	등산로/ncn+로/jca
+
+가면
+	가/px+면/ecs
+
+약
+	약/ncn
+
+한시간정도
+	한/nnc+시/nbu+간/xsnu+정/nbu+도/jxc
+
+걸리는
+	것/nbn+이/jp+ㄹ/etm+리/nbn+는/jxc
+
+곳에
+	곳/nbn+에/jca
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+삼막사
+	삼막사/ncn
+
+셔틀차량을
+	셔틀차량/ncn+을/jco
+
+타고가서
+	타/pvg+고/ecx+가/px+아/ecx
+
+삼막사에서
+	삼막사/ncn+에서/jca
+
+가게되면
+	가/pvg+게/ecx+되/px+면/ecs
+
+30분이면
+	30/nnc+분/nbu+이/jp+면/ecs
+
+갈수
+	가/px+ㄹ/etm+수/nbn
+
+있을것
+	있/px+을/etm+것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+절집
+	절집/ncn
+
+풍경은
+	풍경/ncn+은/jxc
+
+한마디로
+	한/nnc+마디/nbu+로/jca
+
+참
+	참/mag
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+(위)-상불암
+	(위)-상불암/ncn
+
+.
+	./sf
+
+
+한시간
+	한/nnc+시간/nbu
+
+넘게
+	넘/pvg+게/ecs
+
+헤매다
+	헤매/pvg+어다/ecs
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+상불암
+	상불암/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-상불암
+	(위)-상불암/ncn
+
+.
+	./sf
+
+
+(위)-상불암
+	(위)-상불암/ncn
+
+.
+	./sf
+
+
+오른쪽
+	오르/pvg+ㄴ/etm+쪽/nbn
+
+건물이
+	건물/ncn+이/jcc
+
+종무소,정면에
+	종무소,정면/ncn+에/jca
+
+보이는
+	보이/pvg+는/etm
+
+건물이
+	건물/ncn+이/jcc
+
+대웅전
+	대웅전/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-대웅전
+	(/sl+위/ncn+)/sr+-/sd+대웅전/ncn
+
+.
+	./sf
+
+
+좁은
+	좁/paa+은/etm
+
+공간에
+	공간/ncn+에/jca
+
+가람이
+	가람/ncn+이/jcc
+
+있다보니
+	있다보/ncn+이/jp+니/ecs
+
+마당이
+	마당/ncn+이/jcc
+
+좁습니다
+	좁/paa+습니다/ef
+
+.
+	./sf
+
+
+대웅전을
+	대웅전/ncn+을/jco
+
+정면에서
+	정면/ncn+에서/jca
+
+찍을수가
+	찍/pvg+을/etm+수/nbn+가/jcc
+
+없네요
+	없/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+(위)-대웅전
+	(/sl+위/ncn+)/sr+-/sd+대웅전/ncn
+
+.
+	./sf
+
+
+대웅전을
+	대웅전/ncn+을/jco
+
+큰
+	크/paa+ㄴ/etm
+
+암벽에
+	암벽/ncn+에/jca
+
+기대어
+	기대/pvg+어/ecx
+
+지었습니다
+	지/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+대웅전
+	대웅전/ncn
+
+부처님을
+	부처님/ncn+을/jco
+
+모신곳은
+	모신곳은/ncn
+
+바위아래
+	바위/ncn+아래/ncn
+
+굴에
+	굴/ncn+에/jca
+
+반쯤
+	반쯤/ncn
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+(위)-대웅전
+	(/sl+위/ncn+)/sr+-/sd+대웅전/ncn
+
+부처님
+	부처님/ncn
+
+.
+	./sf
+
+
+바위아래
+	바위/ncn+아래/ncn
+
+공간이
+	공간/ncn+이/jcc
+
+있는곳에
+	있는곳/ncn+에/jca
+
+부처님을
+	부처님/ncn+을/jco
+
+모셨습니다
+	모시/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+(위)-대웅전
+	(/sl+위/ncn+)/sr+-/sd+대웅전/ncn
+
+부처님
+	부처님/ncn
+
+.
+	./sf
+
+
+은은한
+	은은/ncps+하/xsms+ㄴ/etm
+
+불빛으로
+	불빛/ncn+으로/jca
+
+조명이
+	조/nnc+명/nbu+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+신비롭기도
+	신비/ncps+롭/xsmn+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-삼성각
+	(/sl+위/ncn+)/sr+-/sd+삼성/ncn+각/ncn
+
+.
+	./sf
+
+
+삼성각은
+	삼성/ncn+각/ncn+은/jxc
+
+정면에서
+	정면/ncn+에서/jca
+
+봤을때
+	보/px+아/ep+ㄹ/etm+때/nbn
+
+왼쪽에
+	왼쪽/ncn+에/jca
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+(위)-삼성각
+	(/sl+위/ncn+)/sr+-/sd+삼성/ncn+각/ncn
+
+부처님
+	부처님/ncn
+
+.
+	./sf
+
+
+삼성각
+	삼성/ncn+각/ncn
+
+부처님과
+	부처님/ncn+과/jcj
+
+칠성님,신장님들을
+	칠성/ncn+님/xsncc+,/sp+신장/ncn+님/ncn+들/xsncc+을/jco
+
+모신
+	모시/pvg+ㄴ/etm
+
+탱화는
+	탱화/ncn+는/jxc
+
+먹탱화로
+	먹탱화/ncn+로/jca
+
+되어
+	되/pvg+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+(위)-산신님
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+님/ncn
+
+.
+	./sf
+
+
+산신님을
+	산신/ncn+님/ncn+을/jco
+
+모신
+	모시/pvg+ㄴ/etm
+
+탱화
+	탱화/ncn
+
+역시
+	역시/mag
+
+까만색의
+	까만색/ncn+의/jcm
+
+먹탱화
+	먹탱화/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-독성님
+	(/sl+위/ncn+)/sr+-/sd+독성/ncn+님/ncn
+
+.
+	./sf
+
+
+(위)-산신님
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+님/ncn
+
+.
+	./sf
+
+
+대웅전과
+	대웅전/ncn+과/jcj
+
+삼성각사이
+	삼성각사/ncn+이/jcc
+
+허공에
+	허공/ncn+에/jca
+
+산신님의
+	산신/ncn+님/ncn+의/jcm
+
+생불이
+	생불/ncn+이/jcc
+
+모셔져
+	모시/pvg+어/ecx+지/px+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+(위)-산신님
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+님/ncn
+
+.
+	./sf
+
+
+(위)-산신님
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+님/ncn
+
+.
+	./sf
+
+
+산신님의
+	산신/ncn+님/ncn+의/jcm
+
+얼굴이
+	얼굴/ncn+이/jcc
+
+삼성산을
+	삼성/ncn+산/ncn+을/jco
+
+닮았습니다
+	닮/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-산신님
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+님/ncn
+
+옆.
+	옆/ncn+./sf
+
+
+(위)-포대화상님
+	(/sl+위/ncn+)/sr+-/sd+포대/ncn+화상/ncn+님/ncn
+
+.
+	./sf
+
+
+(위)-포대화상
+	(/sl+위/ncn+)/sr+-/sd+포대/ncn+화상/ncn
+
+참배법
+	참배/ncpa+법/ncn
+
+.
+	./sf
+
+
+절집을
+	절집/ncn+을/jco
+
+다니면서
+	다니/pvg+면서/ecc
+
+포대화상님은
+	포대/ncn+화상/ncn+님/ncn+은/jxc
+
+많이
+	많/paa+이/xsa
+
+봤지만
+	보/px+아/ep+지만/ecs
+
+포대화상님께
+	포대/ncn+화상/ncn+님/ncn+께/jca
+
+
+기도하는
+	기도/ncpa+하/xsva+는/etm
+
+방법을
+	방법/ncn+을/jco
+
+적어
+	적/pvg+어/ecx
+
+놓은것은
+	놓/px+은/etm+것/nbn+은/jxc
+
+처음
+	처음/mag
+
+봤습니다
+	보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+(위)-종무소
+	(위)-종무소/ncn
+
+.
+	./sf
+
+
+(위)-요사채
+	(/sl+위/ncn+)/sr+-/sd+요사/ncps+채/ncn
+
+.
+	./sf
+
+
+(위)-선황님
+	(위)-선황님/ncn
+
+.
+	./sf
+
+
+(위)-용왕각
+	(/sl+위/ncn+)/sr+-/sd+용왕/ncr+각/ncn
+
+.
+	./sf
+
+
+용왕각은
+	용왕/ncr+각/ncn+은/jxc
+
+상불암에서
+	상불암/ncn+에서/jca
+
+망월사쪽으로
+	망월사쪽/ncn+으로/jca
+
+조금
+	조금/mag
+
+내려오면
+	내리/pvg+어/ecx+오/px+면/ecs
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+보통
+	보통/mag
+
+절집에서
+	절집/ncn+에서/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+용왕각을
+	용왕/ncr+각/ncn+을/jco
+
+따로
+	따로/mag
+
+모신곳이
+	모신곳/ncn+이/jcc
+
+많지는
+	많/paa+지/ef+는/etm
+
+않습니다만~
+	않습니다/ncn+만/jxc+~/sd
+
+
+찬찬히
+	찬찬히/mag
+
+둘러본
+	두르/pvg+어/ecx+보/px+ㄴ/etm
+
+상불암은전통신앙쪽에
+	상불암은전통신앙쪽/ncn+에/jca
+
+가까운
+	가깝/paa+은/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+많이
+	많/paa+이/xsa
+
+들었습니다
+	들/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+(위)-용왕각
+	(/sl+위/ncn+)/sr+-/sd+용왕/ncr+각/ncn
+
+용왕님
+	용왕님/ncn
+
+.
+	./sf
+
+
+사진이
+	사진/ncn+이/jcc
+
+잘찍히지
+	잘찍히지/ncn
+
+않았습니다만~
+	않았습니다/ncn+만/jxc+~/sd
+
+
+용왕각에
+	용왕/ncr+각/ncn+에/jca
+
+모셔져계신
+	모시/pvg+어/ecx+지/px+어/ecx+계시/px+ㄴ/etm
+
+용왕님
+	용왕님/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+삼성산
+	삼성/ncn+산/ncn
+
+상불암은
+	상불암/ncn+은/jxc
+
+몇년전에
+	몇/nnc+년/nbu+전/xsnx+에/jca
+
+호압사에서
+	호압사/ncn+에서/jca
+
+관악산
+	관악/ncn+산/ncn
+
+연주대까지
+	연주/ncpa+대/ncn+까지/jca
+
+
+왕복
+	왕복/ncpa
+
+일곱시간
+	일곱/nnc+시간/nbu
+
+산행때
+	산행/ncn+때/ncn
+
+잠깐
+	잠깐/mag
+
+입구에서
+	입구/ncn+에서/jca
+
+보기만
+	보/px+기/etn+만/jxc
+
+했었습니다
+	하/px+었었/ep+습니다/ef
+
+.
+	./sf
+
+
+늘
+	늘/mag
+
+다시한번
+	다시한번/ncn
+
+가보고
+	가/pvg+아/ecx+보/px+고/ecc
+
+싶어하다가
+	싶/px+어/ecx+하/px+다가/ecs
+
+지난
+	지나/pvg+ㄴ/etm
+
+8월1일
+	8월1/ncn+이/jp+ㄹ/etm
+
+갑자기
+	갑자기/mag
+
+다시
+	다시/mag
+
+찾아
+	찾/pvg+아/ecx
+
+갔지요
+	가/px+아/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+마침
+	마침/mag
+
+가는날
+	가는날/ncn
+
+안개가
+	안개/ncn+가/jcs
+
+너무
+	너무/mag
+
+짙어서
+	짙/paa+어서/ecs
+
+상불암에서의
+	상불암에서/ncn+의/jcm
+
+조망을
+	조망/ncn+을/jco
+
+찍지는
+	찍/pvg+지/ecs+는/jxc
+
+못했지만
+	못하/paa+었/ep+지만/ecs
+
+
+참
+	참/mag
+
+좋은곳에
+	좋은곳/ncn+에/jca
+
+자리하고
+	자리/ncn+하고/jct
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+지금은
+	지금/ncn+은/jxc
+
+상불암이
+	상불암/ncn+이/jcc
+
+어느
+	어느/mmd
+
+종단에
+	종단/ncn+에/jca
+
+속해있는지
+	속하/pvg+어/ecx+있/px+는지/ecs
+
+모르겠지만
+	모르/pvg+겠/ep+지/ecx+말/px+ㄴ/etm
+
+상불암
+	상불암/ncn
+
+여기저기를
+	여기저기/npd+를/jco
+
+
+둘러보다보면
+	둘러보다보/ncn+이/jp+면/ecs
+
+우리의
+	우리/npp+의/jcm
+
+전통신앙인
+	전통/ncn+신앙인/ncn
+
+무속쪽에
+	무속/ncn+쪽/ncn+에/jca
+
+가깝다는
+	가깝/paa+다/ef+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+많이
+	많/paa+이/xsa
+
+들더군요
+	들/pvg+더군/ef+요/jxf
+
+.
+	./sf

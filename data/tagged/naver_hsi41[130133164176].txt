@@ -1,0 +1,550 @@
+서울
+	서울/ncn
+
+강남권
+	강남권/ncn
+
+재건축
+	재건축/ncn
+
+아파트
+	아파트/ncn
+
+3.3
+	3.3/nnc
+
+당
+	당/ncn
+
+매매가격이
+	매매가/ncn+격/ncn+이/jcc
+
+3년만에
+	3/nnc+년/nbu+만에/jca
+
+가장
+	가장/mag
+
+낮은
+	낮/ncn+은/jxc
+
+3100만원대로
+	3100/nnc+만/nnc+원/nbu+대로/jca
+
+내려앉았다.
+	내려앉/pvg+아/ep+다/ef+./sf
+
+6일
+	6/nnc+일/nbu
+
+부동산114에
+	부동산/ncn+114/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+강남3구(강남
+	강남3구(강남/ncn
+
+서초
+	서초/ncn
+
+송파)
+	송파)/ncn
+
+재건축
+	재건축/ncn
+
+아파트의
+	아파트/ncn+의/jcm
+
+3.3
+	3.3/nnc
+
+당
+	당/ncn
+
+평균
+	평균/ncpa
+
+매매가격은
+	매매가/ncn+격/ncn+은/jxc
+
+3162만원으로,
+	3162/nnc+만/nnc+원/nbu+으로/jca+,/sp
+
+지난
+	지나/pvg+ㄴ/etm
+
+2009년
+	2009/nnc+년/nbu
+
+3월
+	3/nnc+월/nbu
+
+3055만원을
+	3055/nnc+만/nnc+원/nbu+을/jco
+
+기록한
+	기록/ncpa+하/xsva+ㄴ/etm
+
+이후
+	이후/ncn
+
+가장
+	가장/mag
+
+낮은
+	낮/paa+은/etm
+
+금액이다
+	금액/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+지난해에는
+	지난해/ncn+에/jca+는/jxc
+
+2월(3405만원)에
+	2월(3405만원)/ncn+에/jca
+
+정점을
+	정점/ncn+을/jco
+
+찍은
+	찍/pvg+은/etm
+
+후
+	후/ncn
+
+약세가
+	약세/ncn+가/jcs
+
+계속됐고
+	계속/ncpa+되/xsvn+었/ep+고/ecc
+
+올해
+	올해/ncn
+
+들어서는
+	들/pvg+어서/ecs+는/jxc
+
+3200만원마저
+	3200/nnc+만/nnc+원/nbu+마저/jxc
+
+무너지는
+	무너지/pvg+는/etm
+
+등
+	등/nbu
+
+하락폭이
+	하락폭/ncn+이/jcc
+
+커지고
+	크/paa+어/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+지난해
+	지난해/ncn
+
+2월
+	2/nnc+월/nbu
+
+이후
+	이후/ncn
+
+강남3구
+	강남3구/ncn
+
+재건축
+	재건축/ncn
+
+아파트
+	아파트/ncn
+
+3.3
+	3.3/nnc
+
+당
+	당/ncn
+
+매매가격은
+	매매가/ncn+격/ncn+은/jxc
+
+7.12%
+	7.12/nnc+%/su
+
+하락해
+	하락/ncpa+하/xsva+어/ecx
+
+같은
+	같/paa+은/etm
+
+기간
+	기간/ncn
+
+재건축을
+	재건축/ncn+을/jco
+
+제외한
+	제외/ncpa+하/xsva+ㄴ/etm
+
+서울
+	서울/ncn
+
+일반아파트의
+	일반/ncn+아파트/ncn+의/jcm
+
+하락율
+	하락/ncpa+율/ncn
+
+1.
+	1./nnc
+
+8%(1695만원
+	8/nnc+%/su+(/sl+1695/nnc+만/nnc+원/nbu
+
+1663만원)의
+	1663/nnc+만/nnc+원/nbu+)/sr+의/jcm
+
+4배에
+	4/nnc+배/nbu+에/jca
+
+이른다
+	이르/paa+ㄴ다/ef
+
+.
+	./sf
+
+
+지난해
+	지난해/ncn
+
+10월
+	10/nnc+월/nbu
+
+박원순
+	박원순/ncn
+
+서울시장
+	서울시장/ncn
+
+취임
+	취/ncn+이/jp+ㅁ/etn
+
+이후
+	이후/ncn
+
+강남
+	강남/ncn
+
+개포주공아파트
+	개포/ncn+주공아파트/ncn
+
+등
+	등/nbu
+
+용적률
+	용적률/ncn
+
+종상향
+	종상향/ncn
+
+보류로
+	보류/ncpa+로/jca
+
+굵직한
+	굵직하/paa+ㄴ/etm
+
+재건축사업에
+	재건축/ncn+사업/ncn+에/jca
+
+잇따라
+	잇따르/pvg+아/ecx
+
+제동이
+	제동/ncpa+이/jcc
+
+걸렸고
+	걸리/pvg+었/ep+고/ecc
+
+소형의무비율
+	소형/ncn+의무비율/ncn
+
+확대
+	확대/ncpa
+
+등
+	등/nbu
+
+악재가
+	악재/ncn+가/jcs
+
+더해지면서
+	더하/paa+어/ecx+지/px+면서/ecc
+
+약세를
+	약세/ncn+를/jco
+
+면치
+	면치/ncn
+
+못하고
+	못하/px+고/ecc
+
+있는
+	있/px+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+풀이된다
+	풀이/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+최근
+	최근/mag
+
+2주
+	2/nnc+주/nbu
+
+동안
+	동안/ncn
+
+매매가격
+	매매가/ncn+격/ncn
+
+변동률을
+	변동/ncpa+률/ncn+을/jco
+
+봐도
+	보/px+아/ecs
+
+강남3구
+	강남3구/ncn
+
+재건축아파트의
+	재건축/ncn+아파트/ncn+의/jcm
+
+하락세가
+	하락세/ncn+가/jcs
+
+두드러진다
+	두드러지/paa+ㄴ다/ef
+
+.
+	./sf
+
+
+서울
+	서울/ncn
+
+전체
+	전체/ncn
+
+재건축아파트는
+	재건축/ncn+아파트/ncn+는/jxc
+
+최근
+	최근/mag
+
+2주
+	2/nnc+주/nbu
+
+동안
+	동안/ncn
+
+각각
+	각각/ncn
+
+0.
+	0./nnc
+
+10%,
+	10/nnc+%/su+,/sp
+
+0.12%
+	0.12/nnc+%/su
+
+하락했고
+	하락/ncpa+하/xsva+었/ep+고/ecc
+
+재건축을
+	재건축/ncn+을/jco
+
+제외한
+	제외/ncpa+하/xsva+ㄴ/etm
+
+일반아파트는
+	일반/ncn+아파트/ncn+는/jxc
+
+0.
+	0./nnc
+
+02%,
+	02/nnc+%/su+,/sp
+
+0.04%
+	0.04/nnc+%/su
+
+떨어졌다
+	떨/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+이에
+	이/npd+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+강남3구
+	강남3구/ncn
+
+재건축아파트는
+	재건축/ncn+아파트/ncn+는/jxc
+
+0.
+	0./nnc
+
+13%,
+	13/nnc+%/su+,/sp
+
+0.14%
+	0.14/nnc+%/su
+
+하락해
+	하락/ncpa+해/ncn
+
+상대적으로
+	상대/ncn+적/ncn+으로/jca
+
+낙폭이
+	낙폭/ncn+이/jcc
+
+커지고
+	크/paa+어/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+부동산114
+	부동산/ncn+114/ncn
+
+이미윤
+	이미윤/ncn
+
+과장은
+	과장/ncpa+은/jxc
+
+"재건축초과이익
+	"/sl+재건축/ncn+초과/ncpa+이익/ncn
+
+환수제
+	환수/ncn+제/ncn
+
+폐지
+	폐/ncn+이/jp+지/ecs
+
+등
+	등/nbu
+
+호재가
+	호재/ncn+가/jcs
+
+될만한
+	되/pvg+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+내용들은
+	내용/ncn+들/ncn+은/jxc
+
+진척이
+	진척/ncpa+이/jcc
+
+없는
+	없/paa+는/etm
+
+반면
+	반면/ncn
+
+소형면적
+	소형/ncn+면적/ncn
+
+의무비율
+	의무비율/ncn
+
+확대
+	확대/ncpa
+
+등
+	등/nbu
+
+악재가
+	악재/ncn+가/jcs
+
+잇따르고
+	잇따르/pvg+고/ecc
+
+있어
+	있/px+어/ecx
+
+시장의
+	시장/ncn+의/jcm
+
+불확실성이
+	불확실성/ncn+이/jcc
+
+높아지고
+	높/paa+아/ecx+지/px+고/ecc
+
+있다"며
+	있다"며/ncn
+
+"당분간
+	"/sl+당분간/mag
+
+강남권을
+	강남권/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+재건축시장의
+	재건축/ncn+시장/ncn+의/jcm
+
+약세가
+	약세/ncn+가/jcs
+
+계속될
+	계속/ncpa+되/xsvn+ㄹ/etm
+
+것"이라고
+	것/nbn+"/sr+이/jp+라/ef+고/jcr
+
+내다봤다
+	내다보/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+출처:파이낸셜뉴스
+	출처/ncn+:/sp+파이낸셜/ncn+뉴스/ncn

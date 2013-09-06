@@ -1,0 +1,140 @@
+한가위
+	한가위/ncn
+
+명절
+	명절/ncn
+
+잘
+	잘/mag
+
+보내고
+	보내/pvg+어/ef+고/jcr
+
+계시나요
+	계시/paa+나/ef+요/jxf
+
+?
+	?/sf
+
+
+보통
+	보통/mag
+
+연휴때는
+	연휴/ncn+때/ncn+는/jxc
+
+제가
+	저/npp+가/jcs
+
+놀러
+	놀/pvg+러/ecs
+
+다녔는데
+	다니/pvg+었/ep+는데/ecs
+
+
+이번엔
+	이/nnc+번/nbu+엔/jca
+
+부모님이
+	부모님/ncn+이/jcc
+
+놀러가셔서
+	놀러가/ncn+이/jp+시/ep+어서/ecs
+
+본가는
+	보/px+ㄴ가/ef+는/etm
+
+커녕
+	커녕/ncn
+
+아무곳도
+	아무곳/ncn+도/jxc
+
+가지
+	가지/nbu
+
+않고
+	않/px+고/ecc
+
+있네요
+	있/paa+네요/ef
+
+
+제가
+	저/npp+가/jcs
+
+밥하고
+	밥/ncn+하고/jcj
+
+
+제가
+	저/npp+가/jcs
+
+먹고
+	먹/ncn+고/jcj
+
+
+제가
+	저/npp+가/jcs
+
+치우는
+	치우/pvg+는/etm
+
+
+독거버전
+	독거버전/ncn
+
+추석을
+	추석/ncn+을/jco
+
+충실히
+	충실히/mag
+
+보내고
+	보내/pvg+고/ecc
+
+있었더니
+	있/paa+었더/ep+니/ef
+
+
+저에게도
+	저/npp+에게/jca+도/jxc
+
+명절
+	명절/ncn
+
+증후군이
+	증후군/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+이웃님들
+	이웃/ncpa+님/ncn+들/xsncc
+
+추석
+	추석/ncn
+
+잘
+	잘/mag
+
+보내시고
+	보/nbu+내/xsnu+시/nbu+고/jcj
+
+
+즐거운
+	즐겁/paa+은/etm
+
+연휴
+	연휴/ncn
+
+되시길
+	되시길/ncn
+
+바래요~
+	바/nbn+이/jp+래/ef+요/jxf+~/sd
+
+:)
+	:/sp+)/sr

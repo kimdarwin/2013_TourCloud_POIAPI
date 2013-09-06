@@ -1,0 +1,1956 @@
+국회의원
+	국회의원/ncr
+
+비례대표
+	비례대표/ncn
+
+경선
+	경선/ncn
+
+부정
+	부정/ncpa
+
+파문으로
+	파문/ncn+으로/jca
+
+통합진보당이
+	통합/ncpa+진보당/ncn+이/jcc
+
+창당이후
+	창당/ncpa+이후/ncn
+
+최대의
+	최대/ncn+의/jcm
+
+위기를
+	위/ncn+이/jp+기/etn+를/jco
+
+맞고
+	맞/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+가운데
+	가운데/ncn
+
+7일
+	7/nnc+일/nbu
+
+국회
+	국회/ncn
+
+도서관
+	도서관/ncn
+
+소회의실에서
+	소회의실/ncn+에서/jca
+
+경선부정
+	경선/ncn+부정/ncpa
+
+파문과
+	파문/ncn+과/jcj
+
+관련한
+	관련/ncn+한/ncn
+
+수습책
+	수습책/ncn
+
+등의
+	등/nbu+의/jcm
+
+논의를
+	논의/ncn+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+열린
+	열리/pvg+ㄴ/etm
+
+전국운영위원회에서
+	전국/ncn+운영위원회/ncn+에서/jca
+
+이정희,
+	이정희,/ncn
+
+유시민
+	유시/ncn+민/ncn
+
+공동대표가
+	공동대표/ncpa+가/jcc
+
+심각한
+	심각/ncps+하/xsms+ㄴ/etm
+
+표정을
+	표정/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+데일리안
+	데/nbn+이/jp+ㄹ/etm+리/nbn+안/xsnx
+
+박항구
+	박항구/ncn
+
+기자
+	기자/ncr
+
+
+통합진보당
+	통합/ncpa+진보당/ncn
+
+비례대표
+	비례대표/ncn
+
+경선부정
+	경선/ncn+부정/ncpa
+
+파문이
+	파문/ncn+이/jcc
+
+최대
+	최대/ncn
+
+위기를
+	위/ncn+이/jp+기/etn+를/jco
+
+맞으면서
+	맞/pvg+으면서/ecc
+
+끝내
+	끝내/pvg+어/ecx
+
+분당
+	분당/ncpa
+
+수순을
+	수순/ncn+을/jco
+
+밟을
+	밟/pvg+을/etm
+
+것이라는
+	것/nbn+이/jp+라/ef+는/etm
+
+예측까지
+	예측/ncpa+까지/jxc
+
+제기됐다
+	제기/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+사태
+	사태/ncn
+
+해결을
+	해결/ncpa+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+4일
+	4/nnc+이/jp+ㄹ/etm
+
+오후부터
+	오후/ncn+부터/jxc
+
+5일
+	5/nnc+이/jp+ㄹ/etm
+
+오전까지
+	오전/ncn+까지/jxc
+
+이어진
+	잇/pvg+어/ecx+지/px+ㄴ/etm
+
+전국운영위원회
+	전국/ncn+운영위원회/ncn
+
+회의에선
+	회의/ncn+에선/jca
+
+밤새
+	밤새/pvg+어/ecx
+
+난상토론이
+	난상토론/ncpa+이/jcc
+
+벌어졌지만
+	벌/pvg+어/ecx+지/px+었/ep+지만/ecs
+
+이정희
+	이정희/ncn
+
+대표가
+	대표/ncpa+가/jcc
+
+전국운영위
+	전국/ncn+운영/ncpa+위/ncn
+
+의장직
+	의장직/ncn
+
+사퇴를
+	사퇴/ncpa+를/jco
+
+선언한
+	선언/ncpa+하/xsva+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+자리를
+	자리/ncn+를/jco
+
+박차고
+	박차/pvg+고/ecc
+
+회의장을
+	회의장/ncn+을/jco
+
+떠나버리는
+	떠나/pvg+아/ecx+버리/px+는/etm
+
+상황이
+	상황/ncn+이/jcc
+
+연출됐다
+	연출/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+현재
+	현재/mag
+
+유시민
+	유시/ncn+민/ncn
+
+심상정
+	심상/ncn+정/ncn
+
+조준호
+	조준/ncpa+호/ncn
+
+공동대표는
+	공동대표/ncpa+는/jxc
+
+경선부정
+	경선/ncn+부정/ncpa
+
+파문의
+	파문/ncn+의/jcm
+
+책임이
+	책/ncn+이/jp+ㅁ/etn+이/jcs
+
+당권파에
+	당권/ncn+파/ncn+에/jca
+
+있다는
+	있/px+다/ef+는/etm
+
+점을
+	점/nbu+을/jco
+
+분명히
+	분명히/mag
+
+하고
+	하/pvg+고/ecc
+
+지도부
+	지도부/ncn
+
+총사퇴
+	총사퇴/ncn
+
+및
+	및/maj
+
+경선을
+	경선/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+선출된
+	선출/ncpa+되/xsvn+ㄴ/etm
+
+비례대표
+	비례대표/ncn
+
+당선자의
+	당선자/ncn+의/jcm
+
+동반
+	동반/ncn
+
+사퇴를
+	사퇴/ncpa+를/jco
+
+촉구하고
+	촉구/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+하지만
+	하지만/maj
+
+당권파
+	당권/ncn+파/ncn
+
+의
+	의/ncn
+
+'얼굴마담'격인
+	'/sr+얼굴마담/ncn+'/sr+격/nbn+이/jp+ㄴ/etm
+
+이정희
+	이정희/ncn
+
+대표는
+	대표/ncpa+는/jxc
+
+비례대표
+	비례대표/ncn
+
+부정투표에
+	부정투표/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+당
+	당/ncn
+
+진상조사위원회의
+	진상/ncn+조사위원회/ncn+의/jcm
+
+조사
+	조사/ncn
+
+결과를
+	결과/ncn+를/jco
+
+수용할
+	수용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+없다는
+	없/paa+다/ef+는/etm
+
+입장을
+	입장/ncpa+을/jco
+
+고수했다
+	고수/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+이
+	이/mmd
+
+대표는
+	대표/ncpa+는/jxc
+
+당
+	당/ncn
+
+진상조사위원회의
+	진상/ncn+조사위원회/ncn+의/jcm
+
+조사
+	조사/ncn
+
+결과가
+	결과/ncn+가/jcs
+
+편파적이고,
+	편파/ncn+적/ncn+이/jp+고/ecc+,/sp
+
+부실해
+	부실/ncn+해/ncn
+
+문제가
+	문제/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+며
+	며/ncn
+
+누가
+	누구/npp+가/jcs
+
+진보
+	진보/ncpa
+
+정치의
+	정치/ncpa+의/jcm
+
+당원들을
+	당원/ncr+들/ncn+을/jco
+
+책상머리에서
+	책상/ncn+머리/ncn+에서/jca
+
+부정행위자로
+	부정행위/ncn+자/ncn+로/jca
+
+내몰
+	내몰/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는가
+	있/px+는가/ecs
+
+라고
+	라/ncn+이/jp+고/ecc
+
+거칠게
+	거칠/paa+게/ecs
+
+반발하고
+	반발/ncpa+하고/jct
+
+나섰다
+	나서/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+4.11
+	4.11/nnc
+
+총선에서
+	총선/ncn+에서/jca
+
+13석이라는
+	13/nnc+석/nbu+이/jp+라/ef+는/etm
+
+사상
+	사상/ncn
+
+최대의
+	최대/ncn+의/jcm
+
+의원석을
+	의원석/ncn+을/jco
+
+확보하고도
+	확보/ncpa+하고/jct+도/jxc
+
+당권파와
+	당권/ncn+파/ncn+와/jcj
+
+비당권파의
+	비/xp+당권/ncn+파/ncn+의/jcm
+
+갈등이
+	가/px+ㄹ/etm+등/nbn+이/jcc
+
+불거지자
+	불거지/pvg+자/ecc
+
+통진당
+	통진당/ncn
+
+지지파들
+	지지파/ncn+들/ncn
+
+중에선
+	중/nbn+에/jca+선/jxc
+
+당권파의
+	당권/ncn+파/ncn+의/jcm
+
+책임
+	책/ncn+이/jp+ㅁ/etn
+
+을
+	을/ncn
+
+요구하는
+	요구/ncpa+하/xsva+는/etm
+
+목소리도
+	목소리/ncn+도/jxc
+
+커지고
+	크/paa+어/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+5일
+	5/nnc+일/nbu
+
+인터넷
+	인터넷/ncn
+
+다음
+	다음/ncn
+
+아고라에선
+	아고라에선/ncn
+
+명분이
+	명분/ncn+이/jcc
+
+있다고
+	있/px+다/ef+고/jcr
+
+해도
+	하/pvg+어도/ecs
+
+도덕성에
+	도덕성/ncn+에/jca
+
+치명상을
+	치명상/ncn+을/jco
+
+입었다면
+	입/pvg+었/ep+다면/ecs
+
+바로
+	바로/mag
+
+잡아야
+	잡/pvg+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+며
+	며/ncn
+
+책임질
+	책임지/pvg+ㄹ/etm
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+단호한
+	단호/ncn+한/ncn
+
+입장
+	입장/ncpa
+
+정리를
+	정리/ncn+를/jco
+
+촉구하는
+	촉구/ncpa+하/xsva+는/etm
+
+글이
+	글/ncn+이/jcc
+
+올랐다
+	오르/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+아이디
+	아이/ncn+이/jp+디/ecs
+
+여름**
+	여름**/ncn
+
+이
+	이/mmd
+
+아고라
+	아고라/ncn
+
+일기-통합진보당
+	일/pvg+기/etn+-/sd+통합/ncpa+진보당/ncn
+
+당권파께
+	당권/ncn+파/ncn+께/jca
+
+올립니다
+	올리/pvg+ㅂ니다/ef
+
+라는
+	라/ncn+는/jxc
+
+글을
+	글/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+더
+	더/mag
+
+이상
+	이상/ncn
+
+침묵할
+	침묵/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+없어
+	없/paa+어/ecx
+
+글을
+	글/ncn+을/jco
+
+씁니다
+	쓰/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+답답함을
+	답답/ncps+하/xsms+ㅁ/etn+을/jco
+
+넘어
+	넘/pvg+어/ecx
+
+어떤
+	어떤/mmd
+
+허탈감에
+	허탈감/ncn+에/jca
+
+빠져듭니다
+	빠져듭니다/ncn
+
+라며
+	라/ncn+이/jp+며/ecc
+
+문제가
+	문제/ncn+가/jcs
+
+있다면
+	있/px+다면/ecs
+
+바로
+	바로/mag
+
+잡으십시오
+	잡/pvg+으십시오/ef
+
+.
+	./sf
+
+
+책임질
+	책임지/pvg+ㄹ/etm
+
+일은
+	일/ncn+은/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+그만한
+	그만하/pvg+ㄴ/etm
+
+책임을
+	책/ncn+이/jp+ㅁ/etn+을/jco
+
+물어야
+	묻/pvg+어야/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+라고
+	라/ncn+이/jp+고/ecc
+
+주장했다
+	주장/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이어
+	이/npd+이/jp+어/ecs
+
+그래야
+	그렇/pad+어야/ecs
+
+이번
+	이/nnc+번/nbu
+
+사건을
+	사건/ncn+을/jco
+
+바탕으로
+	바탕/ncn+으로/jca
+
+통합진보당이
+	통합/ncpa+진보당/ncn+이/jcc
+
+한
+	하/pvg+ㄴ/etm
+
+발
+	발/ncn
+
+더
+	더/mag
+
+국민
+	국민/ncn
+
+앞에
+	앞/ncn+에/jca
+
+나아갈
+	나/pvg+아/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+당도
+	당/ncn+도/jxc
+
+지킬
+	지키/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있고
+	있/px+고/ecc
+
+그렇게
+	그렇/pad+게/ecs
+
+오랫동안
+	오랫동안/ncn
+
+생각해왔던
+	생각/ncpa+하/xsva+어/ecx+오/px+아/ep+ㄴ/etm
+
+국민을
+	국민/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+정치도
+	정치/ncpa+도/jxc
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+라며
+	라/ncn+이/jp+며/ecc
+
+지금
+	지금/mag
+
+통진당
+	통진당/ncn
+
+내
+	내/npp
+
+당권파와
+	당권/ncn+파/ncn+와/jcj
+
+비당권파의
+	비/xp+당권/ncn+파/ncn+의/jcm
+
+이전투구를
+	이전/ncn+투구/ncn+를/jco
+
+종식시킬
+	종식/ncpa+시키/xsva+ㄹ/etm
+
+것을
+	것/nbn+을/jco
+
+촉구했다
+	촉구/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+파문은
+	파문/ncn+은/jxc
+
+통진당
+	통진당/ncn
+
+내
+	내/npp
+
+당권을
+	당권/ncn+을/jco
+
+둘러싼
+	둘러싸/pvg+ㄴ/etm
+
+힘겨루기로
+	힘겨루기/ncpa+로/jca
+
+해석되는
+	해석/ncpa+되/xsvn+는/etm
+
+한편,
+	한/nnc+편/nbu+,/sp
+
+일반
+	일반/ncn
+
+국민들
+	국민/ncn+들/ncn
+
+사이에선
+	사이/ncn+에/jca+선/jxc
+
+진보당의
+	진보당/ncn+의/jcm
+
+정체성에
+	정체성/ncn+에/jca
+
+의구심을
+	의구심/ncn+을/jco
+
+나타내는
+	나타내/pvg+는/etm
+
+주장이
+	주장/ncpa+이/jcc
+
+나와
+	나/npp+와/jct
+
+주목된다
+	주목/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+아고라의
+	아고라/ncn+의/jcm
+
+댓글에서도
+	댓글에서/ncn+도/jxc
+
+이번
+	이/nnc+번/nbu
+
+기회로
+	기회/ncn+로/jca
+
+진짜
+	진짜/ncn
+
+진보들이
+	진보/ncpa+들/xsncc+이/jcc
+
+중심이
+	중심/ncn+이/jcc
+
+되기를
+	되/pvg+기/etn+를/jco
+
+기원한다
+	기원/ncpa+하/xsva+ㄴ다/ef
+
+진보가
+	진보/ncpa+가/jcc
+
+저
+	저/mmd
+
+모양이기
+	모양/ncn+이/jp+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+새누리당이
+	새누리당/ncn+이/jcc
+
+이긴다
+	이기/pvg+ㄴ다/ef
+
+거나
+	것/nbn+이/jp+나/ecs
+
+이제
+	이제/mag
+
+당신들이
+	당신들/npp+이/jcs
+
+새누리당을
+	새누리당/ncn+을/jco
+
+욕할
+	욕/ncpa+하/xsva+ㄹ/etm
+
+자격이나
+	자격/ncn+이/jp+나/ecs
+
+있습니까
+	있/px+습니까/ef
+
+라는
+	라/ncn+는/jxc
+
+비판의
+	비판/ncpa+의/jcm
+
+목소리가
+	목소리/ncn+가/jcs
+
+주를
+	주/nbu+를/jco
+
+이뤘다
+	이루/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+아이디
+	아이/ncn+이/jp+디/ecs
+
+말짱*
+	말짱*/ncn
+
+은
+	은/ncn
+
+끝까지
+	끝/ncn+까지/jxc
+
+악
+	악/ncn
+
+지르고
+	지르/pvg+고/ecc
+
+깽판친
+	깽판친/ncn
+
+들
+	들/pvg+ㄹ/etm
+
+잊지
+	잊/pvg+지/ecx
+
+않겠습니다
+	않/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+당신들을
+	당신들/npp+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+투표했다는
+	투표/ncpa+하/xsva+었/ep+다/ef+는/etm
+
+사실이
+	사실/ncn+이/jcc
+
+부끄럽네요
+	부끄럽/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+보고서가
+	보고서/ncn+가/jcs
+
+부족하다고요
+	부족/ncps+하/xsms+다고/ef+요/jxf
+
+?
+	?/sf
+
+
+그래서
+	그래서/maj
+
+오프라인은
+	오프/ncn+라인/ncn+은/jxc
+
+관행이라고
+	관행/ncn+이/jp+라/ef+고/jcr
+
+우깁니까
+	우기/pvg+ㅂ니까/ef
+
+?
+	?/sf
+
+
+라며
+	라/ncn+이/jp+며/ecc
+
+수꼴정당이
+	수/nbu+꼴/xsnu+정/nbu+당/xsnu+이/jcc
+
+왜
+	왜/mag
+
+과반수의
+	과반수/ncn+의/jcm
+
+지지를
+	지/nbn+이/jp+지를/ecs
+
+받는지
+	받/pvg+는지/ecs
+
+아십니까
+	알/pvg+시/ep+ㅂ니까/ef
+
+?
+	?/sf
+
+
+언론을
+	언론/ncn+을/jco
+
+조작하든
+	조작/ncpa+하/xsva+든/ecs
+
+내부숙청이든
+	내부/ncn+숙청/ncpa+이/jp+든/ecs
+
+빠르고
+	빠르/paa+고/ecc
+
+확실하게
+	확실/ncps+하/xsms+게/ecs
+
+처리한다는
+	처리/ncpa+하/xsva+ㄴ다/ef+는/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+이걸로
+	이걸/ncn+로/jca
+
+두세달
+	두/nnc+세/nnc+달/nbu
+
+끌어보시려고요
+	끌/pvg+어/ecx+보/px+시/ep+려고요/ef
+
+?
+	?/sf
+
+
+라고
+	라/ncn+이/jp+고/ecc
+
+비난했다
+	비난/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+스모**
+	스모**/ncn
+
+는
+	늘/pvg+ㄴ/etm
+
+이번
+	이/nnc+번/nbu
+
+기회를
+	기회/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+진짜
+	진짜/ncn
+
+진보들이
+	진보/ncpa+들/xsncc+이/jcc
+
+진보의
+	진보/ncpa+의/jcm
+
+중심이
+	중심/ncn+이/jcc
+
+되기를
+	되/pvg+기/etn+를/jco
+
+기원한다
+	기원/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+만약
+	만약/mag
+
+종북으로
+	종북/ncn+으로/jca
+
+대표되는
+	대표/ncpa+되/xsvn+는/etm
+
+이정희
+	이정희/ncn
+
+경기동부
+	경기/ncn+동부/ncn
+
+세력이
+	세력/ncn+이/jcc
+
+진보
+	진보/ncpa
+
+간판이
+	간판/ncn+이/jcc
+
+되어버리면
+	되/pvg+어/ecx+버리/px+면/ecs
+
+정말
+	정말/mag
+
+진보는
+	진보/ncpa+는/jxc
+
+답이
+	답/ncn+이/jcc
+
+없다
+	없/paa+다/ef
+
+며
+	며/ncn
+
+진보가
+	진보/ncpa+가/jcc
+
+종북과
+	종북/ncn+과/jct
+
+연결되어
+	연결/ncpa+되/xsvn+어/ecx
+
+있기에
+	있/px+기/etn+에/jca
+
+신뢰하지
+	신뢰/ncpa+하/xsva+지/ecx
+
+못하고
+	못하/px+고/ecc
+
+차라리
+	차라리/mag
+
+차악을
+	차악/ncn+을/jco
+
+찍는다
+	찍/pvg+는다/ef
+
+고
+	고/mma
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+그는
+	그/npp+는/jxc
+
+이어
+	이/npd+이/jp+어/ecs
+
+괜히
+	괜히/mag
+
+새누리당이
+	새누리당/ncn+이/jcc
+
+선거
+	선거/ncpa
+
+때마다
+	때/ncn+마다/jxc
+
+이기는
+	이기/pvg+는/etm
+
+줄
+	줄/nbn
+
+아나
+	알/pvg+나/ecs
+
+?
+	?/sf
+
+
+왜
+	왜/mag
+
+그렇게
+	그렇/pad+게/ecs
+
+욕을
+	욕/ncn+을/jco
+
+쳐먹으면서도
+	쳐먹으면서/ncn+도/jxc
+
+지지자가
+	지지자/ncn+가/jcs
+
+떠나지
+	떠나/pvg+지/ecx
+
+않을까
+	않/px+을까/ef
+
+?
+	?/sf
+
+
+바로
+	바로/mag
+
+진보가
+	진보/ncpa+가/jcc
+
+저
+	저/mmd
+
+모양이기
+	모양/ncn+이/jp+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+라며
+	라/ncn+이/jp+며/ecc
+
+애들은
+	애/ncn+들/xsncc+은/jxc
+
+떡밥
+	떡밥/ncn
+
+던져주고
+	던지/pvg+어/ecx+주/px+고/ecc
+
+정의니
+	정의/ncn+이/jp+니/ecs
+
+뭐니하면
+	뭐니하/ncn+이/jp+면/ecs
+
+금방
+	금방/mag
+
+속는다
+	속/pvg+는다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+나이
+	나/npp+이/jcs
+
+드신
+	들/pvg+시/ep+ㄴ/etm
+
+양반들은
+	양반/ncn+들/ncn+은/jxc
+
+신중해서
+	신중/ncn+해서/ncn
+
+누가
+	누구/npp+가/jcs
+
+나를
+	나/npp+를/jco
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+먹으려고
+	먹/pvg+으려고/ecs
+
+하는지
+	하/pvg+는지/ecs
+
+눈을
+	눈/ncn+을/jco
+
+부릅뜨고
+	부릅뜨/pvg+고/ecc
+
+본다
+	보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그들이
+	그/npp+들/xsn+이/jcs
+
+보기에
+	보/px+기/etn+에/jca
+
+진보당은
+	진보당/ncn+은/jxc
+
+아니거든
+	아니/paa+거든/ef
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+명심**
+	명심**/ncn
+
+은
+	은/ncn
+
+이번
+	이/nnc+번/nbu
+
+통진당
+	통진당/ncn
+
+사태는
+	사태/ncn+는/jxc
+
+자유당
+	자유당/ncn
+
+때
+	때/ncn
+
+3.
+	3./nnc
+
+15부정선거로
+	15부정선거/ncn+로/jca
+
+대통령이
+	대통령/ncr+이/jcc
+
+하야하고
+	하/px+야/ef+하고/jcr
+
+4.
+	4./nnc
+
+19혁명으로
+	19혁명/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+사태
+	사태/ncn
+
+이후
+	이후/ncn
+
+최대
+	최대/ncn
+
+부정사태예요
+	부정사/ncn+태/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+진보
+	진보/ncpa
+
+문제가
+	문제/ncn+가/jcs
+
+아니라
+	아니/paa+라/ecs
+
+김일성
+	김/nbn+이/jp+ㄹ/etm+성/nbs
+
+지도이념으로
+	지도이념/ncn+으로/jca
+
+가득찬
+	가득차/paa+ㄴ/etm
+
+종북주의자들의
+	종북주의자들/ncn+의/jcm
+
+부정경선
+	부정/ncpa+경선/ncn
+
+사태입니다
+	사태/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+통진당
+	통진당/ncn
+
+해체
+	해체/ncpa
+
+수준의
+	수준/ncn+의/jcm
+
+통렬한
+	통렬/ncn+한/ncn
+
+개혁을
+	개혁/ncpa+을/jco
+
+해야
+	하/pvg+어야/ecs
+
+해요
+	하/px+어/ef+요/jxf
+
+라고
+	라/ncn+이/jp+고/ecc
+
+주장했다
+	주장/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이와
+	이/npd+와/jct
+
+함께
+	함께/mag
+
+유시민,
+	유시/ncn+민/ncn+,/sp
+
+심상정은
+	심상/ncn+정/ncn+은/jxc
+
+진보가
+	진보/ncpa+가/jcc
+
+종북이라는
+	종북/ncn+이/jp+라/ef+는/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+알면서도
+	알/pvg+면서/ecs+도/jxc
+
+정권이
+	정권/ncn+이/jcc
+
+탐이
+	타/pvg+ㅁ/etn+이/jcs
+
+나서
+	나/px+서/ecs
+
+참가했다
+	참가/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+너희부터
+	너희/npp+부터/jxc
+
+반성하고
+	반성/ncpa+하고/jct
+
+탈당
+	탈당/ncpa
+
+그리고
+	그리고/maj
+
+정계를
+	정계/ncn+를/jco
+
+떠나라
+	떠나/pvg+아/ecs
+
+(
+	(/sl
+
+kimn***
+	kimn/f+*/sy+*/sy+*/sy
+
+)는
+	)/sr+는/jxc
+
+주장도
+	주장/ncpa+도/jxc
+
+나왔다
+	나오/pvg+아/ep+다/ef+./sf
+
+.
+	./sf
+
+
+또
+	또/maj
+
+'어제
+	'/sr+어제/ncn
+
+이정희가
+	이정희/ncn+가/jcs
+
+모두발언을
+	모두/ncn+발언/ncpa+을/jco
+
+하는걸
+	하는걸/ncn
+
+보니
+	보/px+니/ecs
+
+당권파의
+	당권/ncn+파/ncn+의/jcm
+
+얼굴마담에
+	얼굴마담/ncn+에/jca
+
+불과하다는게
+	불과하다는/ncn+게/jca
+
+드러났다
+	드러나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+비례후보
+	비례/ncps+후보/ncr
+
+2번
+	2/nnc+번/nbu
+
+이석기를
+	이석기/ncn+를/jco
+
+살리기
+	사/pvg+ㄹ/etm+리/nbn+이/jp+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+당권파들의
+	당권/ncn+파/ncn+들/xsncc+의/jcm
+
+충성경쟁이
+	충성경쟁/ncpa+이/jcc
+
+치열하겠구나"(jock**)라고
+	치열/ncps+하/xsms+겠/ep+구나/ef+"/sr+(/sl+jock/f+*/sy+*/sy+)/sr+라고/jxc
+
+지적하는
+	지적/ncpa+하/xsva+는/etm
+
+글도
+	글/ncn+도/jxc
+
+올라있다
+	오르/pvg+아/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+반면,
+	반면/ncpa+,/sp
+
+정동영품은정**
+	정동영품은정**/ncn
+
+은
+	은/ncn
+
+통합진보당
+	통합/ncpa+진보당/ncn
+
+대표님들과
+	대표/ncpa+님/ncn+들/xsncc+과/jcj
+
+당원
+	당원/ncr
+
+중에서
+	중/nbn+에서/jca
+
+중추적인
+	중추/ncn+적/ncn+이/jp+ㄴ/etm
+
+역할을
+	역할/ncn+을/jco
+
+하신
+	하/px+시/ep+ㄴ/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+잘
+	잘/mag
+
+해쳐나가리라
+	해치/pvg+어/ecx+나/px+아/ecx+가/px+리라/ef
+
+믿습니다
+	믿/pvg+습니다/ef
+
+.
+	./sf
+
+
+그분들의
+	그분들/npp+의/jcm
+
+문제는
+	문제/ncn+는/jxc
+
+그분들이
+	그분들/npp+이/jcs
+
+잘
+	잘/mag
+
+풀어나갈수
+	풀/pvg+어/ecx+나/px+아/ecx+가/px+ㄹ/etm+수/nbn
+
+있도록
+	있/px+도록/ecs
+
+믿어주고
+	믿/pvg+어/ecx+주/px+고/ecc
+
+기다려주는
+	기다리/pvg+어/ecx+주/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+예의
+	예의/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+라며
+	라/ncn+이/jp+며/ecc
+
+충분한
+	충분/ncn+한/ncn
+
+반성의
+	반성/ncpa+의/jcm
+
+시간과
+	시간/nbu+과/jcj
+
+반성을
+	반성/ncpa+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+더욱
+	더욱/mag
+
+새롭고
+	새롭/paa+고/ecc
+
+반듯한
+	반듯하/paa+ㄴ/etm
+
+통합진보당이
+	통합/ncpa+진보당/ncn+이/jcc
+
+되길
+	되길/ncn
+
+바랍니다
+	바라/pvg+ㅂ니다/ef
+
+라고
+	라/ncn+이/jp+고/ecc
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+한편,
+	한/nnc+편/nbu+,/sp
+
+통진당
+	통진당/ncn
+
+당권파
+	당권/ncn+파/ncn
+
+일부는
+	일/nnc+부/nbu+는/jxc
+
+이날
+	이/nnc+날/nbu
+
+국회
+	국회/ncn
+
+본관을
+	본관/ncn+을/jco
+
+봉쇄하고
+	봉쇄/ncpa+하고/jct
+
+전국운영위원들의
+	전국/ncn+운영위원/ncn+들/ncn+의/jcm
+
+출입을
+	출입/ncpa+을/jco
+
+막고
+	막/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+운영위는
+	운영/ncpa+위/ncn+는/jxc
+
+오전11시부터
+	오전11시부터/ncn
+
+회의를
+	회의/ncn+를/jco
+
+재개해
+	재개/ncpa+하/xsva+어/ecx
+
+비당권파가
+	비/xp+당권/ncn+파/ncn+가/jcs
+
+마련한
+	마련/ncpa+하/xsva+ㄴ/etm
+
+권고안을
+	권고안/ncn+을/jco
+
+표결하려
+	표결하려/ncn
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+권고안에는
+	권고안/ncn+에/jca+는/jxc
+
+공동대표단
+	공동/ncn+대표단/ncn
+
+총사퇴
+	총사퇴/ncn
+
+순위경쟁
+	순위/ncn+경쟁/ncpa
+
+명부상
+	명부/ncn+상/ncn
+
+비례대표
+	비례대표/ncn
+
+당선자
+	당선자/ncn
+
+및
+	및/maj
+
+후보자
+	후보/ncr+이/jp+자/ecc
+
+14명
+	14/nnc+명/nbu
+
+총사퇴
+	총사퇴/ncn
+
+선거관리
+	선거관리/ncpa
+
+관련자
+	관련자/ncn
+
+전원
+	전원/ncn
+
+당기위원회
+	당기/ncn+위원회/ncn
+
+회부
+	회부/ncpa
+
+비상대책위원회
+	비상대책/ncn+위원회/ncn
+
+구성
+	구성/ncn
+
+등의
+	등/nbu+의/jcm
+
+내용을
+	내용/ncn+을/jco
+
+담고
+	담/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+출처:데일리안
+	출처/ncn+:/sp+데/nbn+이/jp+ㄹ/etm+리/nbn+안/xsnx

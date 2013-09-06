@@ -1,0 +1,469 @@
+선암사
+	선암사/ncn
+
+
+눈물이
+	눈물/ncn+이/jcc
+
+나면
+	나/px+면/ecs
+
+기차를
+	기차/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+선암사로
+	선암사/ncn+로/jca
+
+가라
+	가/pvg+아/ecs
+
+
+선암사
+	선암사/ncn
+
+해우소로
+	해우소/ncn+로/jca
+
+가서
+	가/pvg+서/ecs
+
+실컷
+	실컷/mag
+
+울어라
+	울/pvg+어라/ecs
+
+
+해우소에
+	해우소/ncn+에/jca
+
+쭈그리고
+	쭈그리/pvg+고/ecc
+
+앉아
+	앉/pvg+아/ecx
+
+울고
+	울/pvg+고/ecc
+
+있으면
+	있/paa+으면/ecs
+
+
+죽은
+	죽/pvg+은/etm
+
+소나무
+	소나무/ncn
+
+뿌리가
+	뿌리/ncn+가/jcs
+
+기어
+	기/pvg+어/ecx
+
+다니고
+	다니/pvg+고/ecc
+
+
+목어가
+	목어/ncn+가/jcs
+
+푸른
+	푸르/paa+ㄴ/etm
+
+하늘을
+	하늘/ncn+을/jco
+
+날아
+	날/pvg+아/ecx
+
+다닌다
+	다니/pvg+ㄴ다/ef
+
+
+풀잎들이
+	풀잎/ncn+들/ncn+이/jcc
+
+손수건을
+	손수건/ncn+을/jco
+
+꺼내
+	꺼내/pvg+어/ecx
+
+눈물을
+	눈물/ncn+을/jco
+
+닦아주고
+	닦/pvg+아/ecx+주/px+고/ecc
+
+
+새들이
+	새/ncn+들/xsncc+이/jcc
+
+가슴
+	가슴/ncn
+
+속으로
+	속/ncn+으로/jca
+
+날아와
+	날/pvg+아/ecx+오/px+아/ecx
+
+종소리를
+	종소리/ncn+를/jco
+
+울린다
+	울/pvg+리/ep+ㄴ다/ef
+
+
+눈물이
+	눈물/ncn+이/jcc
+
+나면
+	나/px+면/ecs
+
+걸어서라도
+	걷/pvg+어서/ecs+라도/jxc
+
+선암사로
+	선암사/ncn+로/jca
+
+가라
+	가/pvg+아/ecs
+
+
+선암사
+	선암사/ncn
+
+해우소
+	해우소/ncn
+
+앞
+	앞/ncn
+
+
+등
+	등/nbu
+
+굽은
+	굽/pvg+은/etm
+
+소나무에
+	소나무/ncn+에/jca
+
+기대어
+	기대/pvg+어/ecx
+
+통곡하라
+	통곡/ncpa+하/xsva+어라/ecs
+
+
+-
+	-/sd
+
+정호승
+	정호승/ncn
+
+
+누운
+	눕/pvg+은/etm
+
+소나무,
+	소나무/ncn+,/sp
+
+시인이
+	시인/ncn+이/jcc
+
+말한
+	말/px+ㄹ/etm+한/nbn
+
+등굽은
+	등굽/ncn+은/jxc
+
+소나무일까
+	소나무/ncn+이/jp+ㄹ까/ef
+
+.
+	./sf
+
+
+수곽(
+	수곽(/ncn
+
+),
+	)/sr+,/sp
+
+아름다움의
+	아름다움/ncn+의/jcm
+
+정수
+	정수/ncn
+
+
+나는
+	나/npp+는/jxc
+
+이
+	이/mmd
+
+그림을보고
+	그림을보/ncn+이/jp+고/ecc
+
+싶었다
+	싶/px+었/ep+다/ef
+
+.
+	./sf
+
+
+어느
+	어느/mmd
+
+물동이에차마
+	물동이에차마/ncn
+
+손을
+	손/ncn+을/jco
+
+담가볼까
+	담그/pvg+아/ecx+보/px+ㄹ까/ecs
+
+
+물은
+	물/pvg+ㄴ/etm
+
+차가
+	차/ncn+가/jcs
+
+되고,
+	되/pvg+고/ecc+,/sp
+
+찻잔은
+	찻잔/ncn+은/jxc
+
+그리움을
+	그리움/ncn+을/jco
+
+담는다
+	담/pvg+는다/ef
+
+
+동안거하던
+	동안거하/ncn+이/jp+던/etm
+
+스님의
+	스님/ncn+의/jcm
+
+시선이
+	시선/ncn+이/jcc
+
+머물렀다
+	머무르/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+야생
+	야생/ncpa
+
+차밭을
+	차밭/ncn+을/jco
+
+지나온
+	지나/pvg+아/ecx+오/px+ㄴ/etm
+
+물은제1
+	물은제1/ncn
+
+수곽으로
+	수곽/ncn+으로/jca
+
+흘러들어
+	흘러들/pvg+어/ecx
+
+스스로
+	스스로/mag
+
+네모를
+	네모/ncn+를/jco
+
+만든다
+	만들/pvg+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+수곽은
+	수곽/ncn+은/jxc
+
+갈수록
+	가/px+ㄹ수록/ecs
+
+원만해진다
+	원만/ncps+하/xsms+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+각
+	각/mma
+
+수곽의
+	수곽/ncn+의/jcm
+
+물은
+	물/pvg+ㄴ/etm
+
+쓰임새가
+	쓰임새/ncn+가/jcs
+
+다르다
+	다르/paa+다/ef
+
+.
+	./sf
+
+
+물확이라고도
+	물확/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+하는
+	하/pvg+는/etm
+
+이곳은
+	이곳/npd+은/jxc
+
+스님들이
+	스님/ncn+들/ncn+이/jcc
+
+정진하는
+	정진/ncpa+하/xsva+는/etm
+
+곳이라입장이
+	곳이라입장/ncn+이/jcc
+
+통제되는
+	통제/ncpa+되/xsvn+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+나는
+	나/npp+는/jxc
+
+굳이
+	굳이/mag
+
+함께
+	함께/mag
+
+한
+	하/pvg+ㄴ/etm
+
+선배들과
+	선배/ncn+들/ncn+과/jcj
+
+자웅을
+	자웅/ncn+을/jco
+
+가리듯소피를
+	가리듯소피/ncn+를/jco
+
+보았다
+	보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+깊디
+	깊/paa+디/ecs
+
+깊은
+	깊/paa+은/etm
+
+뒷깐의
+	뒷깐/ncn+의/jcm
+
+저점으로
+	저점/ncn+으로/jca
+
+.
+	./sf
+
+
+큰
+	크/paa+ㄴ/etm
+
+형이
+	형/ncn+이/jcc
+
+준넥타이를
+	준넥타이/ncn+를/jco
+
+비딱하게
+	비딱하/ncn+이/jp+게/ecs
+
+매고
+	매/pvg+고/ecc
+
+...
+	.../se
+
+
+싼뒤가
+	싼뒤/ncn+가/jcs
+
+더
+	더/mag
+
+중요한가
+	중요/ncps+한/ncn+가/jcs
+
+.
+	./sf
+
+
+출장
+	출장/ncpa
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+단벌
+	단벌/ncn
+
+상의에
+	상의/ncn+에/jca
+
+밴
+	배/pvg+ㄴ/etm
+
+삭힌
+	삭히/pvg+ㄴ/etm
+
+홍어향이
+	홍어향/ncn+이/jcc
+
+가시지
+	가/px+시/ep+지/ecs
+
+않았다
+	않/px+아/ep+다/ef
+
+.
+	./sf

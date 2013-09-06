@@ -1,0 +1,806 @@
+내
+	내/npp
+
+집이
+	집/ncn+이/jcc
+
+있어도
+	있/px+어도/ecs
+
+남의
+	남/ncn+의/jcm
+
+집에
+	집/ncn+에/jca
+
+세를
+	세/nnc+를/jco
+
+사는
+	사/pvg+는/etm
+
+무늬만
+	무늬/ncn+만/jxc
+
+세입자
+	세입/ncn+자/ncn
+
+가
+	가/jcs
+
+최근
+	최근/mag
+
+크게
+	크/paa+게/ecs
+
+늘어난
+	늘/pvg+어/ecx+나/px+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타났다
+	나타나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+서울대
+	서울대/ncn
+
+최막중
+	최막중/ncn
+
+교수는
+	교수/ncr+는/jxc
+
+한국개발연구원(KDI)의
+	한국개발연구원(KDI)/ncn+의/jcm
+
+2분기
+	2분기/ncn
+
+부동산시장
+	부동산/ncn+시장/ncn
+
+동향
+	동향/ncn
+
+보고서를
+	보고서/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+소유-거주
+	소유/ncpa+-/sd+거주/ncpa
+
+불일치(분리)
+	불일치(분리)/ncn
+
+가구가
+	가구/ncn+가/jcs
+
+2005년
+	2005/nnc+년/nbu
+
+67만
+	67/nnc+만/jxc
+
+가구에서
+	가구/ncn+에서/jca
+
+2010년
+	2010/nnc+년/nbu
+
+114만
+	114/ncn+만/jxc
+
+가구로,
+	가구/ncn+로/jca+,/sp
+
+5년새
+	5년새/ncn
+
+70%
+	70/nnc+%/su
+
+정도
+	정도/ncn
+
+늘어났다고
+	늘/pvg+어/ecx+나/px+아/ep+다/ef+고/jcr
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+2010년
+	2010/nnc+년/nbu
+
+전국에서
+	전국/ncn+에서/jca
+
+보유하고
+	보유/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+집과
+	집/ncn+과/jct
+
+살고
+	살/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+집이
+	집/ncn+이/jcc
+
+다른
+	다르/paa+ㄴ/etm
+
+가구는
+	가구/ncn+는/jxc
+
+수도권
+	수도권/ncn
+
+9.3%,
+	9.3/nnc+%/su+,/sp
+
+비수도권이
+	비/xp+수도권/ncn+이/jcc
+
+4.4%다
+	4.4%다/ncn
+
+.
+	./sf
+
+
+수도권은
+	수도권/ncn+은/jxc
+
+자기
+	자기/npp
+
+집이
+	집/ncn+이/jcc
+
+있어도
+	있/px+어도/ecs
+
+10가구
+	10/nnc+가구/nbu
+
+중
+	중/nbn
+
+1가구가
+	1/nnc+가구/nbu+가/jcc
+
+전세나
+	전세/ncn+나/jcj
+
+월세를
+	월세/ncn+를/jco
+
+사는
+	사/pvg+는/etm
+
+셈이다
+	셈/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+소유-거주
+	소유/ncpa+-/sd+거주/ncpa
+
+불일치
+	불일치/ncpa
+
+비율은
+	비율/ncn+은/jxc
+
+농촌보다
+	농촌/ncn+보다/jca
+
+도시가,
+	도시/ncn+가/jcs+,/sp
+
+주택가격이
+	주택가격/ncn+이/jcc
+
+비싼
+	비싸/paa+ㄴ/etm
+
+지역이
+	지역/ncn+이/jcc
+
+그렇지
+	그렇/pad+지/ecx
+
+않은
+	않/px+은/etm
+
+지역보다
+	지역/ncn+보다/jca
+
+높았다
+	높/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+최
+	최/ncn
+
+교수는
+	교수/ncr+는/jxc
+
+주택
+	주택/ncn
+
+소유와
+	소유/ncpa+와/jcj
+
+거주의
+	거주/ncpa+의/jcm
+
+불일치
+	불일치/ncpa
+
+현상은
+	현상/ncn+은/jxc
+
+집에
+	집/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+소비와
+	소비/ncpa+와/jct
+
+투자
+	투/nbn+이/jp+자/ecc
+
+수요를
+	수요/ncn+를/jco
+
+동시에
+	동시에/mag
+
+충족하려는
+	충족/ncpa+하/xsva+려는/etm
+
+성향
+	성향/ncn
+
+때문으로
+	때문/nbn+으로/jca
+
+분석된다
+	분석/ncpa+되/xsvn+ㄴ다/ef
+
+고
+	고/mma
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+집
+	집/ncn
+
+장만은
+	장/nbu+만은/jxc
+
+값
+	값/ncn
+
+오를만한
+	오르/pvg+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+곳에,
+	곳/ncn+에/jca+,/sp
+
+거주는
+	거주/ncpa+는/jxc
+
+쾌적한
+	쾌적/ncps+하/xsms+ㄴ/etm
+
+곳에
+	곳/nbn+에/jca
+
+전세로
+	전세/ncn+로/jca
+
+
+집을
+	집/ncn+을/jco
+
+살
+	사/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+주거여건보다는
+	주거/ncpa+여건/ncn+보다/jca+는/jxc
+
+투자
+	투/nbn+이/jp+자/ecc
+
+측면에서
+	측면/ncn+에서/jca
+
+바라보기
+	바라보/pvg+기/etn
+
+때문이라는
+	때문/nbn+이/jp+라/ef+는/etm
+
+주장이다
+	주장/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+시세차익이
+	시세차익/ncn+이/jcc
+
+기대되는
+	기대/pvg+어/ecx+되/px+는/etm
+
+지역에
+	지역/ncn+에/jca
+
+집을
+	집/ncn+을/jco
+
+사두고
+	사/pvg+아/ecx+두/px+고/ecc
+
+정작
+	정작/mag
+
+거주는
+	거주/ncpa+는/jxc
+
+살기
+	살/pvg+기/etn
+
+좋은
+	좋/paa+은/etm
+
+곳을
+	곳/ncn+을/jco
+
+찾는다는
+	찾/pvg+는다/ef+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+도시나
+	도시/ncn+나/jcj
+
+주택가격이
+	주택가격/ncn+이/jcc
+
+비싼
+	비싸/paa+ㄴ/etm
+
+지역이
+	지역/ncn+이/jcc
+
+소유-거주
+	소유/ncpa+-/sd+거주/ncpa
+
+불일치
+	불일치/ncpa
+
+비율이
+	비율/ncn+이/jcc
+
+높은
+	높/paa+은/etm
+
+것은
+	것/nbn+은/jxc
+
+교육이나
+	교육/ncpa+이나/jcj
+
+직주근접성이
+	직주근접성/ncn+이/jcc
+
+작용하는
+	작용/ncpa+하/xsva+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+소유
+	소유/ncpa
+
+따로,
+	따로,/ncn
+
+거주
+	거주/ncpa
+
+따로
+	따로/mag
+
+형태의
+	형태/ncn+의/jcm
+
+가구가
+	가구/ncn+가/jcs
+
+특히
+	특히/mag
+
+많은
+	많/paa+은/etm
+
+곳은
+	곳/ncn+은/jxc
+
+수도권
+	수도권/ncn
+
+신도시였다
+	신도시/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+용인
+	용/ncn+이/jp+ㄴ/etm
+
+수지(34.
+	수지(34./ncn
+
+6%)와
+	6/nnc+%/su+)/sr+와/jcj
+
+과천(34.
+	과천(34./ncn
+
+4%)이
+	4/nnc+%/su+)/sr+이/jcc
+
+대표적이다
+	대표/ncpa+적/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+성남
+	성나/pvg+ㅁ/etn
+
+분당(29.
+	분/nbu+당/xsnu+(/sl+29./nnc
+
+5%),
+	5/nnc+%/su+)/sr+,/sp
+
+안양
+	알/pvg+ㄴ/etm+양/nbn
+
+동안(평촌,
+	동안(평촌,/ncn
+
+27.
+	27./nnc
+
+5%),
+	5/nnc+%/su+)/sr+,/sp
+
+고양
+	고양/ncpa
+
+일산서(27%)도
+	일산서(27%)/ncn+도/jxc
+
+집
+	집/ncn
+
+있는
+	있/px+는/etm
+
+세입자가
+	세입/ncn+자/ncn+가/jcs
+
+많은
+	많/paa+은/etm
+
+지역이었다
+	지역/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+서울에선
+	서울에선/ncn
+
+서초구(31.
+	서초구(31./ncn
+
+2%),
+	2/nnc+%/su+)/sr+,/sp
+
+강남구(26.
+	강남구(26./ncn
+
+4%)와
+	4/nnc+%/su+)/sr+와/jcj
+
+목동이
+	목동/ncn+이/jcc
+
+속한
+	속하/pvg+ㄴ/etm
+
+양천구(24%)가
+	양천구(24%)/ncn+가/jcs
+
+이
+	이/mmd
+
+비율이
+	비율/ncn+이/jcc
+
+높았다
+	높/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+자녀
+	자녀/ncn
+
+교육을
+	교육/ncpa+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+대치동에는
+	대치/ncpa+동/ncn+에/jca+는/jxc
+
+전세
+	전세/ncn
+
+사는
+	사/pvg+는/etm
+
+사람이
+	사람/ncn+이/jcc
+
+많다는
+	많/paa+다/ef+는/etm
+
+뜻인
+	뜻/ncn+이/jp+ㄴ/etm
+
+속칭
+	속칭/ncpa
+
+대전동
+	대전/ncn+동/ncn
+
+이
+	이/mmd
+
+빈말이
+	빈말/ncpa+이/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+셈이다
+	셈/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+최근
+	최근/mag
+
+집값
+	집값/ncn
+
+하락으로
+	하락/ncpa+으로/jca
+
+거래가
+	거래/ncpa+가/jcc
+
+사라진
+	사라지/pvg+ㄴ/etm
+
+것도
+	것/nbn+도/jxc
+
+이유로
+	이유/ncn+로/jca
+
+꼽힌다
+	꼽히/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+낡은
+	낡/paa+은/etm
+
+집
+	집/ncn
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+새
+	새/mma
+
+집이나
+	집/ncn+이나/jcj
+
+전망이
+	전망/ncn+이/jcc
+
+좋은
+	좋/paa+은/etm
+
+집에
+	집/ncn+에/jca
+
+거주하고
+	거주/ncpa+하고/jct
+
+싶어도
+	싶/px+어도/ecs
+
+집이
+	집/ncn+이/jcc
+
+팔리지
+	팔리/pvg+지/ecx
+
+않자
+	않/px+자/ecc
+
+전세를
+	전세/ncn+를/jco
+
+주고
+	주/px+고/ecc
+
+살고
+	살/pvg+고/ecc
+
+싶은
+	싶/px+은/etm
+
+집으로
+	집/ncn+으로/jca
+
+전세를
+	전세/ncn+를/jco
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+수요가
+	수요/ncn+가/jcs
+
+늘어나고
+	늘/pvg+어/ecx+나/px+고/ecc
+
+있는
+	있/px+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+현상은
+	현상/ncn+은/jxc
+
+도시정비사업
+	도시정비/ncn+사업/ncn
+
+등으로
+	등/nbu+으로/jca
+
+주거여건이
+	주거/ncpa+여건/ncn+이/jcc
+
+개선되는
+	개선/ncpa+되/xsvn+는/etm
+
+지역이
+	지역/ncn+이/jcc
+
+늘어나고
+	늘/pvg+어/ecx+나/px+고/ecc
+
+집값
+	집값/ncn
+
+안정돼
+	안정/ncpa+되/xsvn+어/ecx
+
+전세물량이
+	전세/ncn+물량/ncn+이/jcc
+
+줄어들면
+	줄어들/pvg+면/ecs
+
+완화될
+	완화/ncpa+되/xsvn+ㄹ/etm
+
+것이라는
+	것/nbn+이/jp+라/ef+는/etm
+
+게
+	것/nbn+이/jcs
+
+최
+	최/ncn
+
+교수의
+	교수/ncr+의/jcm
+
+주장이다
+	주장/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+출처:조인스랜드
+	출처:조인스랜드/ncn

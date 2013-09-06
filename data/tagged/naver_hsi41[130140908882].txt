@@ -1,0 +1,597 @@
+최근
+	최근/mag
+
+아파트
+	아파트/ncn
+
+입주
+	입주/ncpa
+
+관련
+	관련/ncn
+
+분쟁이
+	분쟁/ncpa+이/jcc
+
+늘어나면서
+	늘/pvg+어/ecx+나/px+면서/ecc
+
+가계
+	가계/ncn
+
+집단대출
+	집단/ncn+대출/ncpa
+
+연체율이
+	연체/ncpa+율/ncn+이/jcc
+
+상승하고
+	상승/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타났다
+	나타나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+이에
+	이/npd+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+감독당국은
+	감독/ncpa+당국/ncn+은/jxc
+
+매월
+	매월/mag
+
+전수조사를
+	전수/ncpa+조사/ncn+를/jco
+
+실시해
+	실시/ncpa+하/xsva+어/ecx
+
+연체율
+	연체/ncpa+율/ncn
+
+등을
+	등/nbu+을/jco
+
+집중
+	집중/ncpa
+
+관리키로
+	관리/ncn+키/ncn+로/jca
+
+했다.
+	하/px+었/ep+다/ef+./sf
+
+21일
+	21/nnc+일/nbu
+
+금융감독원에
+	금융/ncn+감독원/ncr+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+올해
+	올해/ncn
+
+4월
+	4/nnc+월/nbu
+
+말
+	말/px+ㄹ/etm
+
+기준
+	기준/ncpa
+
+가계
+	가계/ncn
+
+집단대출
+	집단/ncn+대출/ncpa
+
+연체율은
+	연체/ncpa+율/ncn+은/jxc
+
+1.
+	1./nnc
+
+56%로
+	56/nnc+%/su+로/jca
+
+집단대출
+	집단/ncn+대출/ncpa
+
+이외
+	이외/ncn
+
+주택담보대출
+	주택/ncn+담보대출/ncn
+
+연체율
+	연체/ncpa+율/ncn
+
+0.
+	0./nnc
+
+40%보다
+	40/nnc+%/su+보다/jca
+
+4배정도
+	4배정/ncn+도/jxc
+
+높았다
+	높/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+가계
+	가계/ncn
+
+집단대출은
+	집단/ncn+대출/ncpa+은/jxc
+
+아파트
+	아파트/ncn
+
+분양
+	분양/ncpa
+
+입주
+	입주/ncpa
+
+과정에서
+	과정/ncn+에서/jca
+
+이뤄지는
+	이루/pvg+어/ecx+지/px+는/etm
+
+대출이다
+	대출/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+집단대출
+	집단/ncn+대출/ncpa
+
+연체율은
+	연체/ncpa+율/ncn+은/jxc
+
+올해
+	올해/ncn
+
+들어
+	들/pvg+어/ecx
+
+1월
+	1/nnc+월/nbu
+
+1.
+	1./nnc
+
+31%,
+	31/nnc+%/su+,/sp
+
+2월
+	2/nnc+월/nbu
+
+1.
+	1./nnc
+
+44%,
+	44/nnc+%/su+,/sp
+
+3월
+	3/nnc+월/nbu
+
+1.
+	1./nnc
+
+48%로
+	48/nnc+%/su+로/jca
+
+매월
+	매월/mag
+
+오름세를
+	오름세/ncn+를/jco
+
+보이고
+	보이/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+최근
+	최근/mag
+
+부동산
+	부동산/ncn
+
+가격
+	가격/ncn
+
+하락으로
+	하락/ncpa+으로/jca
+
+시세가
+	시세/ncn+가/jcs
+
+분양가
+	분양가/ncn
+
+이하로
+	이하/ncn+로/jca
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+아파트의
+	아파트/ncn+의/jcm
+
+경우
+	경우/ncn
+
+수분양자와
+	수분/ncn+양자/ncn+와/jcj
+
+시행사간
+	시행/ncpa+사간/ncpa
+
+분양가
+	분양가/ncn
+
+인하
+	인하/pvg+어/ecx
+
+관련
+	관련/ncn
+
+집단분쟁이
+	집단/ncn+분쟁/ncpa+이/jcc
+
+빈번하게
+	빈번/ncps+하/xsms+게/ecs
+
+발생하고
+	발생/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+수분양자는
+	수분/ncn+양자/ncn+는/jxc
+
+시행사
+	시행사/ncn
+
+등을
+	등/nbu+을/jco
+
+상대로
+	상대/ncn+로/jca
+
+공사
+	공사/ncn
+
+부실,
+	부/ncn+이/jp+시/ep+ㄹ/etm+,/sp
+
+허위
+	허위/ncn
+
+분양
+	분양/ncpa
+
+등을
+	등/nbu+을/jco
+
+이유로
+	이유/ncn+로/jca
+
+분양계약의
+	분양/ncpa+계약/ncpa+의/jcm
+
+무효
+	무효/ncpa
+
+취소
+	취소/ncpa
+
+소송을
+	소송/ncpa+을/jco
+
+제기하는
+	제기/ncpa+하/xsva+는/etm
+
+한편
+	한/nnc+편/nbu
+
+대출
+	대출/ncpa
+
+취급
+	취급/ncpa
+
+은행에는
+	은행/ncn+에/jca+는/jxc
+
+채무부존재확인소송을
+	채무부존재확인소송/ncn+을/jco
+
+제기하고
+	제/npp+이/jp+기/etn+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이에
+	이/npd+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+지난
+	지나/pvg+ㄴ/etm
+
+4월말
+	4/nnc+월/nbu+말/xsnu
+
+현재
+	현재/ncn
+
+관련
+	관련/ncn
+
+분쟁사업장은
+	분쟁/ncpa+사업장/ncn+은/jxc
+
+총
+	총/mma
+
+94개(중복포함)로
+	94개(중복포함)로/ncn
+
+이중
+	이중/ncn
+
+수분양자와
+	수분/ncn+양자/ncn+와/jcj
+
+시행사간
+	시행/ncpa+사간/ncpa
+
+채무부존재확인소송
+	채무부존재확인소송/ncn
+
+진행중인
+	진행/ncpa+중/xsnx+이/jp+ㄴ/etm
+
+소송사업장은
+	소송/ncpa+사업장/ncn+은/jxc
+
+28개,
+	28/nnc+개/nbu+,/sp
+
+소송가액은
+	소송가액/ncn+은/jxc
+
+5000억원에
+	5000/nnc+억/nnc+원/nbu+에/jca
+
+달하는
+	달하/pvg+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+조사됐다
+	조사/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+한편
+	한/nnc+편/nbu
+
+4월
+	4/nnc+월/nbu
+
+말
+	말/px+ㄹ/etm
+
+현재
+	현재/ncn
+
+국내은행의
+	국내/ncn+은행/ncn+의/jcm
+
+가계
+	가계/ncn
+
+집단대출
+	집단/ncn+대출/ncpa
+
+잔액은
+	잔액/ncn+은/jxc
+
+102조4000억원으로
+	102/nnc+조/nnc+4000/nnc+억/nnc+원/nbu+으로/jca
+
+가계대출(451조1000억원)의
+	가계대출(451조1000억원)/ncn+의/jcm
+
+22.
+	22./nnc
+
+7%,
+	7/nnc+%/su+,/sp
+
+주택담보대출(305조60000억원)의
+	주택담보대출(305조60000억원)/ncn+의/jcm
+
+33.5%
+	33.5/nnc+%/su
+
+수준을
+	수준/ncn+을/jco
+
+보이고
+	보이/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+권창우
+	권창우/ncn
+
+금융감독원
+	금융/ncn+감독원/ncr
+
+건전경영팀장은
+	건전/ncps+경영/ncpa+팀장/ncr+은/jxc
+
+"수분양자와
+	"/sl+수분/ncn+양자/ncn+와/jcj
+
+시행사의
+	시행/ncpa+사의/ncn
+
+분쟁으로
+	분쟁/ncpa+으로/jca
+
+대규모
+	대규모/ncn
+
+연체가
+	연체/ncpa+가/jcc
+
+발생해
+	발생/ncpa+하/xsva+어/ecx
+
+지난해
+	지난해/ncn
+
+5월
+	5/nnc+월/nbu
+
+이후
+	이후/ncn
+
+집단대출
+	집단/ncn+대출/ncpa
+
+연체율이
+	연체/ncpa+율/ncn+이/jcc
+
+큰
+	크/paa+ㄴ/etm
+
+폭의
+	폭/nbu+의/jcm
+
+상승세를
+	상승세/ncn+를/jco
+
+보이고
+	보이/pvg+고/ecc
+
+있다"고
+	있/px+다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+그는
+	그/npp+는/jxc
+
+이어
+	이/npd+이/jp+어/ecs
+
+"소비자
+	"/sl+소비/ncpa+이/jp+자/ecc
+
+피해가
+	피하/pvg+어/ecx+가/px+아/ecx
+
+없도록
+	없/paa+도록/ecs
+
+분쟁
+	분쟁/ncpa
+
+발생
+	발생/ncpa
+
+가능성이
+	가능성/ncn+이/jcc
+
+높은
+	높/paa+은/etm
+
+사업장에
+	사업장/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+안내
+	알/pvg+ㄴ/etm+내/nbn
+
+사항을
+	사항/ncn+을/jco
+
+홍보토록
+	홍보/ncpa+토록/ncn
+
+지도할
+	지도/ncpa+하/xsva+ㄹ/etm
+
+방침"이라고
+	방침/ncn+"/sr+이/jp+라/ef+고/jcr
+
+덧붙였다
+	덧붙이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:매일경제
+	출처/ncn+:/sp+매일/ncn+경제/ncn

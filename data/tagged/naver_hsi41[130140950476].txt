@@ -1,0 +1,904 @@
+아파트
+	아파트/ncn
+
+오피스텔
+	오피스텔/ncn
+
+승승장구
+	승승장구/ncn
+
+비강남권은
+	비/xp+강남권/ncn+은/jxc
+
+한숨만올
+	한숨만올/ncn
+
+상반기
+	상반기/ncn
+
+서울지역
+	서울지역/ncn
+
+신규
+	신규/ncn
+
+분양시장에서는
+	분양/ncpa+시장/ncn+에서/jca+는/jxc
+
+강남만
+	강남/ncn+만/jxc
+
+웃은
+	웃/pvg+은/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타났다.
+	나타나/pvg+아/ep+다/ef+./sf
+
+21일
+	21/nnc+일/nbu
+
+업계에
+	업계/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+1월부터
+	1/nnc+월/nbu+부터/jxc
+
+6월
+	6/nnc+월/nbu
+
+현재까지
+	현재/ncn+까지/jxc
+
+서울에서는
+	서울에서/ncn+는/jxc
+
+공공분양
+	공공/ncn+분양/ncpa
+
+및
+	및/maj
+
+임대아파트를
+	임대아파트/ncn+를/jco
+
+제외하고
+	제외/ncpa+하고/jct
+
+18개단지
+	18/nnc+개/nbu+이/jp+단/etm+지/nbn
+
+4644가구(재건축
+	4644가구(재건축/ncn
+
+재개발은
+	재개발/ncn+은/jxc
+
+일반분양
+	일반/ncn+분양/ncpa
+
+기준)가
+	기준/ncpa+)/sr+가/jcc
+
+공급됐다
+	공급/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+강남3구(강남
+	강남3구(강남/ncn
+
+서초
+	서초/ncn
+
+송파)에서
+	송파)/ncn+에서/jca
+
+분양한
+	분양/ncpa+하/xsva+ㄴ/etm
+
+4개
+	4/nnc+개/nbu
+
+단지
+	단지/mag
+
+중
+	중/nbn
+
+3개
+	3/nnc+개/nbu
+
+단지가
+	단지/ncn+가/jcs
+
+순위내
+	순위/ncn+내/ncn
+
+마감했고,
+	마감/ncpa+하/xsva+었/ep+고/ecc+,/sp
+
+미달을
+	미달/ncpa+을/jco
+
+기록한
+	기록/ncpa+하/xsva+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+'서초
+	'서초/ncn
+
+롯데캐슬
+	롯데캐슬/ncn
+
+프레지던트'
+	프레지던트'/ncn
+
+뿐이다
+	뿐/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+비강남권에서는
+	비/xp+강남권/ncn+에서/jca+는/jxc
+
+14개
+	14/nnc+개/nbu
+
+단지가
+	단지/ncn+가/jcs
+
+청약을
+	청약/ncn+을/jco
+
+실시해
+	실시/ncpa+하/xsva+어/ecx
+
+'강서
+	'/sr+강/ncn+서/jca
+
+쌍용
+	쌍/ncn+용/xsncc
+
+예가'
+	예/npp+가/jcs+'/sr
+
+'래미안
+	'래미안/ncn
+
+마포
+	마포/ncn
+
+리버웰'
+	리버웰'/ncn
+
+'래미안
+	'래미안/ncn
+
+금호
+	금호/ncn
+
+하이리버'
+	하이리버'/ncn
+
+'래미안
+	'래미안/ncn
+
+밤섬
+	밤섬/ncn
+
+리베뉴'
+	리베뉴'/ncn
+
+등
+	등/nbu
+
+한강과
+	한강/ncn+과/jct
+
+가깝거나
+	가깝/paa+거나/ecc
+
+강남으로
+	강남/ncn+으로/jca
+
+이동이
+	이/nnc+동/nbu+이/jcc
+
+쉬운
+	쉽/paa+은/etm
+
+지역
+	지역/ncn
+
+아파트만
+	아파트/ncn+만/jxc
+
+좋은
+	좋/paa+은/etm
+
+성적을
+	성적/ncn+을/jco
+
+거뒀다
+	거두/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+나머지
+	나머지/ncn
+
+비강남권은
+	비/xp+강남권/ncn+은/jxc
+
+청약률이
+	청약/ncn+률/ncn+이/jcc
+
+상당히
+	상당히/mag
+
+저조했다
+	저조/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+강동구의
+	강동구/ncn+의/jcm
+
+한
+	하/pvg+ㄴ/etm
+
+주상복합아파트는
+	주상/ncn+복합/ncpa+아파트/ncn+는/jxc
+
+1순위에
+	1순위/ncn+에/jca
+
+단
+	달/paa+ㄴ/etm
+
+한명이
+	한/nnc+명/nbu+이/jcc
+
+청약서류를
+	청약/ncn+서류/ncn+를/jco
+
+접수했고,
+	접수/ncpa+하/xsva+었/ep+고/ecc+,/sp
+
+영등포의
+	영등/ncn+포/ncn+의/jcm
+
+한
+	한/nnc
+
+재개발
+	재개발/ncn
+
+아파트는
+	아파트/ncn+는/jxc
+
+3순위까지
+	3순위까지/ncn
+
+18명만
+	18/nnc+명/nbu+만/jxc
+
+신청했다
+	신청/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+수익형
+	수익/ncpa+형/ncn
+
+부동산
+	부동산/ncn
+
+인기가
+	인기/ncn+가/jcs
+
+계속되는
+	계속/ncpa+되/xsvn+는/etm
+
+가운데
+	가운데/ncn
+
+강남권
+	강남권/ncn
+
+편중
+	편중/ncpa
+
+현상이
+	현상/ncn+이/jcc
+
+더욱
+	더욱/mag
+
+두드러졌다
+	두드러지/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+강남
+	강남/ncn
+
+3구에는
+	3/nnc+구/nbu+에/jca+는/jxc
+
+5개
+	5/nnc+개/nbu
+
+단지
+	단지/mag
+
+1462실이
+	1462실/ncn+이/jcc
+
+공급된다
+	공급/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+2월
+	2/nnc+월/nbu
+
+현대산업개발이
+	현대산업개발/ncn+이/jcc
+
+서울
+	서울/ncn
+
+송파구
+	송파구/ncn
+
+잠실동에
+	잠실/ncn+동/ncn+에/jca
+
+223실
+	223실/ncn
+
+규모로
+	규모/ncn+로/jca
+
+공급한
+	공급/ncpa+하/xsva+ㄴ/etm
+
+'잠실
+	'/sr+잠실/ncn
+
+아이파크'
+	아이/ncn+파크/ncn+'/sr
+
+평균
+	평균/ncpa
+
+경쟁률은
+	경쟁률/ncn+은/jxc
+
+45대
+	45/nnc+대/nbu
+
+1이었고
+	1/nnc+이/jp+었/ep+고/ecc
+
+삼성중공업이
+	삼성/ncn+중공업/ncn+이/jcc
+
+역삼동에서
+	역삼/ncn+동/ncn+에서/jca
+
+분양한
+	분양/ncpa+하/xsva+ㄴ/etm
+
+'강남역
+	'/sr+강남역/ncn
+
+쉐르빌'도
+	쉐르빌'/ncn+도/jxc
+
+평균
+	평균/ncpa
+
+청약
+	청약/ncn
+
+경쟁률이
+	경쟁률/ncn+이/jcc
+
+26대
+	26/nnc+대/nbu
+
+1을
+	1/nnc+을/jco
+
+나타냈다
+	나타내/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+효성이
+	효성/ncn+이/jcc
+
+공급한
+	공급/ncpa+하/xsva+ㄴ/etm
+
+역삼동
+	역삼/ncn+동/ncn
+
+'강남역
+	'/sr+강남역/ncn
+
+효성
+	효성/ncn
+
+인텔리안더퍼스트'
+	인텔리안더퍼스트'/ncn
+
+역시
+	역시/mag
+
+28대
+	28/nnc+대/nbu
+
+1에
+	1/nnc+에/jca
+
+달하는
+	달하/pvg+는/etm
+
+경쟁률을
+	경쟁률/ncn+을/jco
+
+보였다
+	보이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+지난
+	지나/pvg+ㄴ/etm
+
+4~5일
+	4/nnc+~/sd+5/nnc+일/nbu
+
+동안
+	동안/ncn
+
+청약을
+	청약/ncn+을/jco
+
+실시한,
+	실시/ncpa+하/xsva+ㄴ/etm+,/sp
+
+강남
+	강남/ncn
+
+보금자리
+	보금자리/ncn
+
+첫
+	첫/nno
+
+오피스텔로
+	오피스텔/ncn+로/jca
+
+관심을
+	관심/ncn+을/jco
+
+모은
+	모으/pvg+ㄴ/etm
+
+'강남
+	'/sr+강남/ncn
+
+푸르지오
+	푸르지오/ncn
+
+시티'도
+	시티/ncn+'/sr+도/jxc
+
+평균
+	평균/ncpa
+
+23.6대
+	23.6/nnc+대/nbu
+
+1,
+	1/nnc+,/sp
+
+최고
+	최고/ncn
+
+529대
+	529/nnc+대/nbu
+
+1이라는
+	1/nnc+이/jp+라/ef+는/etm
+
+경쟁률로
+	경쟁률/ncn+로/jca
+
+투자자들의
+	투자자/ncn+들/ncn+의/jcm
+
+높은
+	높/paa+은/etm
+
+관심을
+	관심/ncn+을/jco
+
+받았다
+	받/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+이에
+	이/npd+에/jca
+
+반해
+	반하/pvg+어/ecx
+
+비강남권에
+	비/xp+강남권/ncn+에/jca
+
+공급된
+	공급/ncpa+되/xsvn+ㄴ/etm
+
+오피스텔은
+	오피스텔/ncn+은/jxc
+
+올초에
+	올초/ncn+에/jca
+
+문을
+	문/ncn+을/jco
+
+연
+	열/pvg+ㄴ/etm
+
+견본주택을
+	견본/ncn+주택/ncn+을/jco
+
+아직까지
+	아직/mag+까지/jxc
+
+열어두고
+	열/pvg+어/ecx+두/px+고/ecc
+
+있는
+	있/px+는/etm
+
+실정이다
+	실정/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+초기
+	초/nbu+이/jp+기/etn
+
+계약을
+	계약/ncpa+을/jco
+
+끝내지
+	끝내/pvg+지/ecx
+
+못해
+	못하/pvg+어/ecx
+
+반년
+	반년/ncn
+
+가까이
+	가까이/mag
+
+영업을
+	영업/ncpa+을/jco
+
+계속
+	계속/mag
+
+하고
+	하/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+강남권
+	강남권/ncn
+
+수익형
+	수익/ncpa+형/ncn
+
+부동산의
+	부동산/ncn+의/jcm
+
+경우
+	경우/ncn
+
+분양가가
+	분양가/ncn+가/jcs
+
+비싸지면서
+	비싸/paa+아/ecx+지/px+면서/ecc
+
+수익률은
+	수익률/ncn+은/jxc
+
+더
+	더/mag
+
+악화될
+	악화/ncpa+되/xsvn+ㄹ/etm
+
+수
+	수/nbn
+
+있다는
+	있/px+다/ef+는/etm
+
+우려에도
+	우려/ncpa+에/jca+도/jxc
+
+불구하고
+	불구/ncps+하고/jct
+
+인기는
+	인기/ncn+는/jxc
+
+지속되는
+	지속/ncpa+되/xsvn+는/etm
+
+상황이다
+	상황/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+수익률이
+	수익률/ncn+이/jcc
+
+낮더라도
+	낮/paa+더라도/ecs
+
+수요가
+	수요/ncn+가/jcs
+
+넉넉하고
+	넉넉/ncps+하고/jct
+
+임대수익이
+	임대수익/ncn+이/jcc
+
+확실시되는
+	확실시/ncpa+되/xsvn+는/etm
+
+곳에만
+	곳/ncn+에/jca+만/jxc
+
+투자가
+	투자/ncpa+가/jcc
+
+몰렸다는
+	몰리/pvg+었/ep+다/ef+는/etm
+
+얘기다
+	얘/ncn+이/jp+기/etn+이/jp+다/ef
+
+.
+	./sf
+
+
+다만
+	다만/mag
+
+도시형생활주택의
+	도시형생활주택/ncn+의/jcm
+
+경우에는
+	경우/ncn+에/jca+는/jxc
+
+EG건설
+	EG건설/ncn
+
+말고는
+	말/px+고/ecs+는/jxc
+
+경쟁률
+	경쟁률/ncn
+
+발표를
+	발표/ncpa+를/jco
+
+하지
+	하/pvg+지/ecx
+
+않아
+	않/px+아/ecx
+
+구체적인
+	구체/ncn+적/ncn+이/jp+ㄴ/etm
+
+계약상황은
+	계약상/ncn+황은/ncn
+
+알려지지
+	알리/pvg+어/ecx+지/px+지/ecx
+
+않고
+	않/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+업계
+	업계/ncn
+
+관계자는
+	관계자/ncn+는/jxc
+
+"비강남권의
+	"/sl+비/xp+강남권/ncn+의/jcm
+
+경우
+	경우/ncn
+
+실수요자는
+	실수요자/ncn+는/jxc
+
+청약통장을
+	청약/ncn+통장/ncn+을/jco
+
+안
+	안/mag
+
+쓰더라도
+	쓰/pvg+더라도/ecs
+
+원하는
+	원하/pvg+는/etm
+
+아파트를
+	아파트/ncn+를/jco
+
+계약할
+	계약/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있고,
+	있/px+고/ecc+,/sp
+
+조합원
+	조합원/ncr
+
+급매
+	급매/ncn
+
+물량을
+	물량/ncn+을/jco
+
+언제든
+	언제/npd+이/jp+든/ecs
+
+매입할
+	매입/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다"며
+	있다"며/ncn
+
+"기본적으로
+	"/sl+기본/ncn+적/ncn+으로/jca
+
+강남도
+	강남/ncn+도/jxc
+
+분양가가
+	분양가/ncn+가/jcs
+
+낮아지기
+	낮/paa+아/ecx+지/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+가격
+	가격/ncn
+
+인하폭이
+	인하폭/ncn+이/jcc
+
+크지
+	크/paa+지/ecx
+
+않다면
+	않/px+다면/ecs
+
+비강남보다
+	비강/ncn+남/ncn+보다/jca
+
+강남에
+	강남/ncn+에/jca
+
+수요가
+	수요/ncn+가/jcs
+
+몰릴
+	몰리/pvg+ㄹ/etm
+
+것"이라고
+	것/nbn+"/sr+이/jp+라/ef+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+오승완
+	오승완/ncn
+
+기자
+	기/ncn+이/jp+자/ecc
+
+osw@naeil.
+	osw/f+@/sy+naeil/f+./sy
+
+com
+	com/f
+
+
+출처:내일닷컴
+	출처:내일닷컴/ncn

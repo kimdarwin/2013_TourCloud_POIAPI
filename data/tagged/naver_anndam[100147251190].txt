@@ -1,0 +1,3483 @@
+전주한옥마을
+	전주/ncn+한옥/ncn+마을/ncn
+
+여행코스
+	여행코스/ncn
+
+/전주
+	//sp+전주/ncn
+
+최명희문학관
+	최명희문학관/ncn
+
+/전주여행
+	//sp+전주/ncn+여행/ncpa
+
+
+전주한옥마을
+	전주/ncn+한옥/ncn+마을/ncn
+
+돌아보기,한옥마을에서
+	돌/pvg+아/ecx+보/px+기/etn+,/sp+한옥/ncn+마을/ncn+에서/jca
+
+가볼만한곳
+	가볼만한곳/ncn
+
+중
+	중/nbn
+
+최명희문학관입니다
+	최명희문학관입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+혼불의
+	혼불/ncn+의/jcm
+
+작가로잘
+	작가로잘/ncn
+
+알려진최명희
+	알려진최명희/ncn
+
+.
+	./sf
+
+
+경기전
+	경기/ncn+전/ncn
+
+옆
+	옆/ncn
+
+골목에
+	골목/ncn+에/jca
+
+있어서
+	있/px+어서/ecs
+
+찾기는
+	찾/pvg+기/etn+는/jxc
+
+어렵지
+	어렵/paa+지/ecx
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+가까이
+	가까이/mag
+
+교동아트센터도
+	교동아트센터/ncn+도/jxc
+
+있어서
+	있/px+어서/ecs
+
+차한잔할겸함께
+	차한잔할겸함께/ncn
+
+들러보아도
+	들르/pvg+어/ecx+보/px+아/ecs
+
+되구요
+	되구요/ncn
+
+.
+	./sf
+
+
+혼불의
+	혼불/ncn+의/jcm
+
+최명의문학관이라고
+	최명/ncn+의문/ncpa+학관/ncn+이/jp+라/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+남원에
+	남원/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+혼불문학관을
+	혼불문학관/ncn+을/jco
+
+말하는건가
+	말/ncpa+하/xsva+는/etm+것/nbn+이/jp+ㄴ가/ef
+
+했더니
+	하/px+었/ep+더니/ecs
+
+전주한옥마을
+	전주/ncn+한옥/ncn+마을/ncn
+
+안에
+	안/ncn+에/jca
+
+최명희문학관이라고
+	최명희문학관/ncn+이/jp+라/ef+고/jcr
+
+조그만
+	조그맣/paa+은/etm
+
+공간이
+	공간/ncn+이/jcc
+
+따로
+	따로/mag
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+작가의
+	작가/ncr+의/jcm
+
+삶과
+	삶/ncn+과/jcj
+
+그
+	그/mmd
+
+흔적을
+	흔적/ncn+을/jco
+
+고스란히
+	고스란히/mag
+
+담은
+	달/paa+ㅁ/etn+은/jxc
+
+공간으로
+	공간/ncn+으로/jca
+
+원고와
+	원고/ncn+와/jcj
+
+친필
+	친필/ncn
+
+편지,
+	편지/ncpa+,/sp
+
+동영상
+	동영상/ncn
+
+등
+	등/nbu
+
+작가를
+	작가/ncr+를/jco
+
+간접적으로
+	간접/ncn+적/ncn+으로/jca
+
+만나볼
+	만나/pvg+아/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+문학관이었습니다
+	문학관/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+전주한옥마을
+	전주/ncn+한옥/ncn+마을/ncn
+
+최명희문학관앞에서
+	최명희문학관앞/ncn+에서/jca
+
+
+전주당일여행
+	전주/ncn+당일/ncn+여행/ncpa
+
+전주한옥마을에서의
+	전주/ncn+한옥/ncn+마을/ncn+에서/jca+의/jcm
+
+이야기가
+	이야기/ncpa+가/jcc
+
+이어집니다
+	잇/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이번에는
+	이/nnc+번/nbu+에/jca+는/jxc
+
+한옥마을
+	한옥/ncn+마을/ncn
+
+내에
+	내/npp+에/jca
+
+있는
+	있/px+는/etm
+
+최명희문학관에
+	최명희문학관/ncn+에/jca
+
+들렀는데요
+	들르/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이곳에
+	이곳/npd+에/jca
+
+들리기전에
+	들리/pvg+기/etn+전/xsnx+에/jca
+
+교동아트센터에
+	교동아트센터/ncn+에/jca
+
+갔다가
+	가/px+아/ep+다가/ecs
+
+잠시
+	잠시/mag
+
+쉬고
+	쉬/pvg+고/ecc
+
+갈까
+	가/px+ㄹ까/ecs
+
+싶었는데,
+	싶/px+었/ep+는데/ecs+,/sp
+
+2층
+	2/nnc+층/nbu
+
+공간은
+	공간/ncn+은/jxc
+
+귀한
+	귀하/paa+ㄴ/etm
+
+작품들이
+	작품/ncn+들/ncn+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+혹여
+	혹여/mag
+
+파손의
+	파손/ncpa+의/jcm
+
+위험때문에아이들은
+	위험때문에아이들/ncn+은/jxc
+
+출입이
+	출입/ncpa+이/jcc
+
+안된다고
+	안되/paa+ㄴ다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+바로
+	바로/mag
+
+내려올
+	내리/pvg+어/ecx+오/px+ㄹ/etm
+
+수밖에
+	수/nbn+밖에/jxc
+
+없었습니다
+	없/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+조카
+	조카/ncn
+
+손을
+	손/ncn+을/jco
+
+잡고
+	잡/pvg+고/ecc
+
+들어갔는데
+	들/pvg+어/ecx+가/px+아/ep+ㄴ데/ecs
+
+어쩔
+	어쩌/paa+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+일이지요
+	일/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+그래서
+	그래서/maj
+
+바로
+	바로/mag
+
+곁에
+	곁/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+"최명희문학관"에
+	"최명희문학관"/ncn+에/jca
+
+들렀습니다
+	들르/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이럴
+	이럴/ncn
+
+줄
+	줄/nbn
+
+알았음
+	알/pvg+아/ep+ㅁ/etn
+
+혼불
+	혼불/ncn
+
+줄거리라도
+	줄거리/ncn+이/jp+라/ecs+도/jxc
+
+보고
+	보/px+고/ecc
+
+오는
+	오/px+는/etm
+
+건데
+	것/nbn+이/jp+ㄴ데/ecs
+
+하면서
+	하/pvg+면서/ecc
+
+....
+	.../se+./sf
+
+
+대하소설을
+	대하소설/ncn+을/jco
+
+손에
+	손/ncn+에/jca
+
+들
+	들/pvg+ㄹ/etm
+
+엄두를
+	엄두/ncn+를/jco
+
+못내고
+	못/ncn+내/xsncc+이/jp+고/ecc
+
+줄거리를
+	줄거리/ncn+를/jco
+
+찾아서
+	찾/pvg+아/ecx
+
+읽어보았는데요
+	읽/pvg+어/ecx+보/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+줄거리
+	주/px+ㄹ/etm+것/nbn+이/jp+리/ef
+
+쓰신분이
+	쓰/pvg+시/ep+ㄴ/etm+분/nbn+이/jcc
+
+어찌나
+	어찌/mag+나/jxc
+
+감칠나게
+	감칠나/ncn+이/jp+게/ecs
+
+표현을
+	표현/ncpa+을/jco
+
+해주셨는지
+	하/pvg+어/ecx+주/px+셨/ep+는지/ecs
+
+책을
+	책/ncn+을/jco
+
+읽어보고
+	읽/pvg+어/ecx+보/px+고/ecc
+
+싶단
+	싶/px+단/etm
+
+욕심을
+	욕심/ncn+을/jco
+
+가지게도
+	가/pvg+아/ecx+지/px+게/ecs+도/jxc
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+최명희문학관에
+	최명희문학관/ncn+에/jca
+
+가보자고
+	가/pvg+아/ecx+보/px+자/ef+고/jcr
+
+조카의
+	조카/ncn+의/jcm
+
+손을
+	손/ncn+을/jco
+
+잡았더니
+	잡/pvg+었/ep+더니/ecs
+
+"최명희
+	"최명희/ncn
+
+이모
+	이모/ncn
+
+한테
+	한/nnc+테/nbu
+
+간다고
+	가/px+ㄴ다/ef+고/jcr
+
+?"
+	?/sf+"/sl
+
+
+하면서
+	하/pvg+면서/ecc
+
+캔디언니랑
+	캔디/ncn+언니/ncn+랑/jxc
+
+관련있는
+	관련/ncpa+있/xsmn+는/etm
+
+곳인줄
+	곳/ncn+이/jp+ㄴ/etm+줄/nbn
+
+알더라구요
+	알/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+이름이
+	이름/ncn+이/jcc
+
+같으니
+	같/paa+으니/ecs
+
+그럴만도
+	그러/pvd+ㄹ/etm+만/nbs+도/jxc
+
+합니다만
+	합니다만/ncn
+
+걸음을
+	걸/pvg+ㅁ/etn+을/jco
+
+재촉해볼
+	재촉/ncpa+하/xsva+어/ecx+보/px+ㄹ/etm
+
+요량으로
+	요량/ncpa+으로/jca
+
+가서
+	가/pvg+서/ecs
+
+얼굴을
+	얼굴/ncn+을/jco
+
+함
+	하/pvg+ㅁ/etn
+
+확인해보자고
+	확인/ncpa+하/xsva+어/ecx+보/px+자/ef+고/jcr
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+남원의
+	남원/ncn+의/jcm
+
+혼불문학관은
+	혼불문학관/ncn+은/jxc
+
+작품위주의
+	작품위주/ncn+의/jcm
+
+소설
+	소설/ncn
+
+혼불의
+	혼불/ncn+의/jcm
+
+배경이
+	배경/ncn+이/jcc
+
+된
+	되/pvg+ㄴ/etm
+
+곳에
+	곳/nbn+에/jca
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+문학관이구요
+	문학관이구요/ncn
+
+.
+	./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+최명희
+	최명희/ncn
+
+작가의
+	작가/ncr+의/jcm
+
+생가부근으로
+	생가/ncn+부근/ncn+으로/jca
+
+작가의
+	작가/ncr+의/jcm
+
+삶을
+	삶/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+문학관이듯
+	문학관/ncn+이/jp+듯/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+작가에
+	작가/ncr+에/jca
+
+대해서
+	대하/pvg+어서/ecso
+
+혹은
+	혹은/maj
+
+작품을
+	작품/ncn+을/jco
+
+알고
+	알/pvg+고/ecx
+
+보는
+	보/px+는/etm
+
+것과
+	것/nbn+과/jct
+
+모르고
+	모르/pvg+고/ecc
+
+보는
+	보/px+는/etm
+
+것은
+	것/nbn+은/jxc
+
+확연한
+	확연/ncps+하/xsms+ㄴ/etm
+
+차이가
+	차이/ncn+가/jcs
+
+있을텐데
+	있/px+을텐데/ecs
+
+무지한
+	무지한/ncn
+
+상태로
+	상태/ncn+로/jca
+
+문학관에
+	문학관/ncn+에/jca
+
+들리는
+	들리/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+작가에게
+	작가/ncr+에게/jca
+
+미안한
+	미안/ncps+하/xsms+ㄴ/etm
+
+맘도
+	말/px+ㅁ/etn+도/jxc
+
+들었어요
+	들/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+만남을
+	만나/pvg+ㅁ/etn+을/jco
+
+계기로
+	계기/ncn+로/jca
+
+최명희
+	최명희/ncn
+
+작가에대해
+	작가에대해/ncn
+
+조금이나마
+	조금/ncn+이/jcs+나마/jxc
+
+알게
+	알/pvg+게/ecs
+
+되길
+	되길/ncn
+
+바래봅니다
+	바래/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-마음이
+	여행/ncpa+이야기/ncpa+-/sd+마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+(여행일:
+	(/sl+여행/ncpa+이/jp+ㄹ/etm+:/sp
+
+2011
+	2011/nnc
+
+.
+	./sf
+
+
+12
+	12/nnc
+
+.
+	./sf
+
+
+17)
+	17/nnc+)/sr
+
+
+최명희문학관은
+	최명희문학관/ncn+은/jxc
+
+전주한옥마을
+	전주/ncn+한옥/ncn+마을/ncn
+
+경기전
+	경기/ncn+전/ncn
+
+오른편에
+	오르/pvg+ㄴ/etm+편/nbn+에/jca
+
+있어서
+	있/px+어서/ecs
+
+찾기는
+	찾/pvg+기/etn+는/jxc
+
+쉽습니다
+	쉽/paa+습니다/ef
+
+.
+	./sf
+
+
+부근에
+	부근/ncn+에/jca
+
+교통아트센터와
+	교통/ncn+아트/ncn+센터/ncn+와/jcj
+
+부채박물관도
+	부채/ncn+박물관/ncn+도/jxc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+최명희
+	최명희/ncn
+
+작가는
+	작/nbn+가/jcs+는/jxc
+
+어떤
+	어떤/mmd
+
+분인가
+	분/nbn+이/jp+ㄴ가/ef
+
+싶어서찾아보았습니다
+	싶어서찾아보았습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그러고보면
+	그러/pvd+고/ecx+보/px+면/ecs
+
+포스팅하면서
+	포스팅하/ncn+이/jp+면서/ecc
+
+하나씩
+	하나씩/ncn
+
+공부하듯
+	공부/ncpa+하/xsva+듯/ecs
+
+뭔가를
+	뭔가/ncn+를/jco
+
+알아간다는
+	알/pvg+아/ecx+가/px+ㄴ다/ef+는/etm
+
+것도
+	것/nbn+도/jxc
+
+큰
+	크/paa+ㄴ/etm
+
+장점인듯
+	장점/ncn+이/jp+ㄴ/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+공부할때뿐이라고
+	공부/ncpa+하/xsva+ㄹ/etm+때/nbn+뿐/xsnx+이/jp+라/ef+고/jcr
+
+해도
+	하/pvg+어도/ecs
+
+말입니다
+	말/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+최명희
+	최명희/ncn
+
+작가(1947~1998)는
+	작가(1947~1998)/ncn+는/jxc
+
+전주
+	전주/ncn
+
+출생으로
+	출생/ncpa+으로/jca
+
+1972년
+	1972/nnc+년/nbu
+
+전북대학교
+	전북대학교/ncn
+
+국어국문학과를
+	국어국문학/ncn+과/ncn+를/jco
+
+졸업하였습니다
+	졸업/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+1980년
+	1980/nnc+년/nbu
+
+중앙일보
+	중앙/ncn+일보/ncn
+
+신춘문예에
+	신춘문예/ncn+에/jca
+
+단편
+	달/paa+ㄴ/etm+편/nbn
+
+쓰러지는
+	쓰러지/pvg+는/etm
+
+빛이
+	빛/ncn+이/jcc
+
+당선되어
+	당선/ncpa+되/xsvn+어/ecx
+
+등단하였고요
+	등단하였고요/ncn
+
+.
+	./sf
+
+
+이듬해
+	이듬해/ncn
+
+동아일보
+	동아/ncn+일보/ncn
+
+창간
+	창간/ncpa
+
+60주년
+	60/nnc+주년/nbu
+
+기념
+	기념/ncpa
+
+장편소설
+	장편소설/ncn
+
+공모전에서
+	공모전/ncn+에서/jca
+
+혼불(제1부)이
+	혼불(제1부)/ncn+이/jcc
+
+당선되어
+	당선/ncpa+되/xsvn+어/ecx
+
+문단에
+	문단/ncn+에/jca
+
+주목을
+	주목/ncpa+을/jco
+
+받았다고
+	받/pvg+아/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이후
+	이후/ncn
+
+혼불
+	혼불/ncn
+
+2부에
+	2/nnc+부/nbu+에/jca
+
+이어
+	이/npd+이/jp+어/ecs
+
+1996년
+	1996/nnc+년/nbu
+
+12월에
+	12/nnc+월/nbu+에/jca
+
+1~5부
+	1/nnc+~/sd+5/nnc+부/nbu
+
+전
+	전/nbn
+
+10권을
+	10/nnc+권/nbu+을/jco
+
+묶어
+	묶/pvg+어/ecx
+
+완간하였다고
+	완간하/ncn+이/jp+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+몌별,
+	몌별,/ncn
+
+만종,
+	만/nnc+종/nbu+,/sp
+
+정옥이,
+	정옥이,/ncn
+
+주소
+	주소/ncn
+
+등의
+	등/nbu+의/jcm
+
+단편도
+	달/paa+ㄴ/etm+편/nbn+도/jxc
+
+썼지만,
+	쓰/pvg+었/ep+지만/ecs+,/sp
+
+혼불을
+	혼불/ncn+을/jco
+
+쓰기
+	쓰/pvg+기/etn
+
+시작한
+	시작/ncpa+하/xsva+ㄴ/etm
+
+후로는
+	후/ncn+로/jca+는/jxc
+
+다른
+	다르/paa+ㄴ/etm
+
+작품을
+	작품/ncn+을/jco
+
+쓰지
+	쓰/pvg+지/ecx
+
+않았다고
+	않/px+아/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+1998년
+	1998/nnc+년/nbu
+
+난소암으로
+	난소암/ncn+으로/jca
+
+사망하였습니다
+	사망/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+대하소설
+	대하소설/ncn
+
+혼불은
+	혼불/ncn+은/jxc
+
+1930~40년대
+	1930/nnc+~/sd+40/nnc+년대/nbu
+
+일제시대를
+	일제시대/ncn+를/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+전라북도
+	전라/ncn+북/ncn+도/jxc
+
+남원
+	남원/ncn
+
+근처
+	근처/ncn
+
+양반촌매암마을이
+	양반촌매암마을/ncn+이/jcc
+
+배경이
+	배경/ncn+이/jcc
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+17년간
+	17/nnc+년/nbu+간/xsnu
+
+걸쳐
+	걸치/pvg+어/ecx
+
+완선된
+	완선된/ncn
+
+대하소설로
+	대하소설/ncn+로/jca
+
+이씨
+	이씨/ncn
+
+가문
+	가물/pvg+ㄴ/etm
+
+삼대의
+	삼/nnc+대/nbu+의/jcm
+
+굴곡진
+	굴곡/ncn+진/ncn
+
+삶을
+	삶/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+인간군상,
+	인간군상/ncn+,/sp
+
+민족의
+	민족/ncn+의/jcm
+
+얼과
+	얼/ncn+과/jcj
+
+홈을
+	홈/ncn+을/jco
+
+담은
+	담/pvg+은/etm
+
+작품입니다
+	작품/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+단정한
+	단정/ncps+하/xsms+ㄴ/etm
+
+한옥집의
+	한옥/ncn+집/ncn+의/jcm
+
+외형을
+	외형/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+최명희문학관입니다
+	최명희문학관입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+문학관은
+	문학관/ncn+은/jxc
+
+2006년
+	2006/nnc+년/nbu
+
+4월
+	4/nnc+월/nbu
+
+전주에
+	전주/ncn+에/jca
+
+들어선
+	들어서/pvg+ㄴ/etm
+
+최초의
+	최초/ncn+의/jcm
+
+문학관이라고
+	문학관/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+"작가
+	"/sl+작/nbn+가/jcc
+
+최명희"를
+	최명희"/ncn+를/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+작가의
+	작가/ncr+의/jcm
+
+삶과
+	삶/ncn+과/jcj
+
+그
+	그/mmd
+
+흔적을
+	흔적/ncn+을/jco
+
+고스란히
+	고스란히/mag
+
+담은
+	달/paa+ㅁ/etn+은/jxc
+
+곳이구요
+	곳이구요/ncn
+
+.
+	./sf
+
+
+작가의
+	작가/ncr+의/jcm
+
+혼이
+	혼/ncn+이/jcc
+
+담긴
+	담기/pvg+ㄴ/etm
+
+원고와
+	원고/ncn+와/jcj
+
+지인들에게
+	지/nbn+이/jp+ㄴ/etm+들/nbn+에게/jca
+
+보낸친필
+	보낸친필/ncn
+
+편지와
+	펴/pvg+ㄴ/etm+지/nbn+와/jcj
+
+엽서,
+	엽서/ncn+,/sp
+
+생전
+	생전/ncn
+
+인터뷰,
+	인터뷰/ncn+,/sp
+
+강연
+	강연/ncpa
+
+모습을
+	모습/ncn+을/jco
+
+담은
+	달/paa+ㅁ/etn+은/jxc
+
+동영상과
+	동영상/ncn+과/jcj
+
+여러
+	여러/mma
+
+작품에서
+	작품/ncn+에서/jca
+
+추려낸
+	추리/pvg+어/ecx+내/px+ㄴ/etm
+
+글이
+	글/ncn+이/jcc
+
+새겨진패널,
+	새겨진패널,/ncn
+
+작가의
+	작가/ncr+의/jcm
+
+방
+	방/ncn
+
+등으로
+	등/nbu+으로/jca
+
+전시되어있는
+	전시/ncpa+되/xsvn+어/ecx+있/px+는/etm
+
+공간입니다
+	공간/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+아담한
+	아담/ncps+하/xsms+ㄴ/etm
+
+규모의
+	규모/ncn+의/jcm
+
+문학관,
+	문학관/ncn+,/sp
+
+1층은전시관
+	1층은전시관/ncn
+
+독락재란
+	독락재란/ncn
+
+이름으로
+	이름/ncn+으로/jca
+
+꾸며져
+	꾸미/pvg+어/ecx+지/px+어/ecx
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+문학강연장및
+	문학강연장및/ncn
+
+기획전시장인
+	기획전/ncn+시장/ncn+이/jp+ㄴ/etm
+
+지하공간,
+	지하공간/ncn+,/sp
+
+비시동락지실이
+	비시동락지실/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+건물
+	건물/ncn
+
+창호지
+	창호지/ncn
+
+위에
+	위/ncn+에/jca
+
+꽃잎,
+	꽃잎/ncn+,/sp
+
+나뭇잎으로
+	나뭇잎/ncn+으로/jca
+
+장식해
+	장식/ncpa+하/xsva+어/ecx
+
+둔게
+	두/pvg+ㄴ게/ecs
+
+얼마나
+	얼마나/mag
+
+이쁜지
+	이쁘/paa+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+사진으로는
+	사진/ncn+으로/jca+는/jxc
+
+그
+	그/mmd
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+모습이
+	모습/ncn+이/jcc
+
+잘
+	잘/mag
+
+담기지
+	담/pvg+기/etn+이/jp+지/ecs
+
+않더라구요
+	않/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+눈으로만
+	눈/ncn+으로/jca+만/jxc
+
+담고
+	담/pvg+고/ecc
+
+안으로
+	안/ncn+으로/jca
+
+들어섭니다
+	들/pvg+어서/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+내부는
+	내부/ncn+는/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+아늑한
+	아늑/ncps+하/xsms+ㄴ/etm
+
+분위기의
+	분위기/ncn+의/jcm
+
+조명과
+	조/nnc+명/nbu+과/jcj
+
+작가의
+	작가/ncr+의/jcm
+
+흔적으로
+	흔적/ncn+으로/jca
+
+가득
+	가득/mag
+
+채워져
+	채우/pvg+어/ecx+지/px+어/ecx
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+분량을
+	분량/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+보는
+	보/px+는/etm
+
+것만도
+	것/nbn+만/jxc+도/jxc
+
+힘들겠다
+	힘들/pvg+겠/ep+다/ef
+
+싶어서
+	싶/px+어서/ecs
+
+쉽게
+	쉽/paa+게/ecs
+
+책을
+	책/ncn+을/jco
+
+읽어봐야겠단
+	읽/pvg+어/ecx+보/px+아/ep+단/etm
+
+생각도
+	생각/ncpa+도/jxc
+
+들지
+	들/pvg+지/ecx
+
+않는데요
+	않/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+작가가
+	작가/ncr+가/jcc
+
+이
+	이/mmd
+
+책에
+	책/ncn+에/jca
+
+방대한
+	방대/ncps+하/xsms+ㄴ/etm
+
+양의
+	양/ncn+의/jcm
+
+지식과
+	지식/ncn+과/jct
+
+얽히고
+	얽히/pvg+고/ecc
+
+섥힌
+	섥힌/ncn
+
+우리네이야기를
+	우리네이야/ncn+이/jp+기/etn+를/jco
+
+담아내기까지
+	담/pvg+아/ecx+내/px+기/etn+까지/jxc
+
+얼마나
+	얼마나/mag
+
+많은
+	많/paa+은/etm
+
+고통의
+	고통/ncn+의/jcm
+
+시간을
+	시간/ncn+을/jco
+
+보냈을지
+	보내/pvg+었/ep+을/etm+지/nbn
+
+나로서는
+	나/npp+로서/jca+는/jxc
+
+감히
+	감히/mag
+
+짐작도
+	짐작/ncpa+도/jxc
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없습니다
+	없/paa+습니다/ef
+
+.
+	./sf
+
+
+혼불
+	혼불/ncn
+
+이백자
+	이/nnc+백/nnc+자/nbu
+
+원고지를
+	원고지/ncn+를/jco
+
+쌓아
+	쌓/pvg+아/ecx
+
+놓은
+	놓/px+은/etm
+
+모습이
+	모습/ncn+이/jcc
+
+인상적이었는데요
+	인상/ncn+적/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이것도
+	이것/npd+도/jxc
+
+총
+	총/mma
+
+1만2천여장
+	1/nnc+만/nnc+2/nnc+천여/nnc+장/nbu
+
+중
+	중/nbn
+
+3분의
+	3/nnc+분/nbu+의/jcm
+
+1정도의
+	1정도/ncn+의/jcm
+
+양이라고
+	양/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+혼불
+	혼불/ncn
+
+소설책도
+	소설/ncn+책/ncn+도/jxc
+
+같이
+	같/paa+이/xsa
+
+전시를
+	전시/ncn+를/jco
+
+해두었구요
+	해두었구요/ncn
+
+.
+	./sf
+
+
+원고를
+	원고/ncn+를/jco
+
+그대로
+	그대로/mag
+
+다시
+	다시/mag
+
+적어보는
+	적/pvg+어/ecx+보/px+는/etm
+
+것도
+	것/nbn+도/jxc
+
+엄두를
+	엄두/ncn+를/jco
+
+못낼
+	못낼/ncn
+
+엄청난
+	엄청나/paa+ㄴ/etm
+
+양입니다
+	양/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+언어는
+	언어/ncn+는/jxc
+
+정신의
+	정신/ncn+의/jcm
+
+지문이라는
+	지문/ncn+이/jp+라/ef+는/etm
+
+표현이
+	표현/ncpa+이/jcc
+
+가슴이
+	가슴/ncn+이/jcc
+
+찡하도록참
+	찡하도록참/ncn
+
+멋지지요
+	멋지/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+사람의
+	사람/ncn+의/jcm
+
+언어는
+	언어/ncn+는/jxc
+
+그
+	그/mmd
+
+사람의
+	사람/ncn+의/jcm
+
+정신에서
+	정신/ncn+에서/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+거라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+생각하니
+	생각/ncpa+하/xsva+니/ecs
+
+말한마디
+	말한마디/ncn
+
+단어하나에도
+	단어하나/ncn+에/jca+도/jxc
+
+신중을
+	신중/ncn+을/jco
+
+기하게
+	기하/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+단편소설이
+	단편소설/ncn+이/jcc
+
+실린
+	실리/pvg+ㄴ/etm
+
+책과
+	책/ncn+과/jcj
+
+수필이
+	수필/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+친필
+	친필/ncn
+
+사인책도
+	사인/ncn+책/ncn+도/jxc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+여느문학관에서
+	여느문학관/ncn+에서/jca
+
+보아도
+	보/px+아/ecs
+
+그렇지만문학작가들은
+	그렇지만문학작가들/ncn+은/jxc
+
+글씨체도
+	글씨체/ncn+도/jxc
+
+어쩜
+	어쩌/paa+ㅁ/etn
+
+저리
+	저리/mad
+
+소설속
+	소설/ncn+속/ncn
+
+이야기의
+	이야기/ncpa+의/jcm
+
+한구절처럼단정하고
+	한구절처럼단정하/ncn+이/jp+고/ecc
+
+이쁩니다
+	이쁘/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+원고량이
+	원고량/ncn+이/jcc
+
+짐작이
+	짐작/ncpa+이/jcc
+
+되시지요
+	되/pvg+시/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+예준이가
+	예준이/ncn+가/jcs
+
+그
+	그/mmd
+
+앞에
+	앞/ncn+에/jca
+
+서
+	서/pvg+어/ecx
+
+있으니
+	있/px+으니/ecs
+
+그
+	그/mmd
+
+높이가
+	높이/ncn+가/jcs
+
+드러나네요
+	드러나/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+원고
+	원고/ncn
+
+전체
+	전체/ncn
+
+높이는
+	높이/pvg+는/etm
+
+3미터에
+	3/nnc+미터/nbu+에/jca
+
+이른다고
+	이르/paa+ㄴ다/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이건
+	이/npd+이/jp+건/ecc
+
+전체원고의
+	전체/ncn+원고/ncn+의/jcm
+
+3분의
+	3/nnc+분/nbu+의/jcm
+
+1
+	1/nnc
+
+분량입니다
+	분량/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+제목으로만
+	제목/ncn+으로/jca+만/jxc
+
+알고
+	알/pvg+고/ecx
+
+있던
+	있/px+던/etm
+
+소설
+	소설/ncn
+
+혼불이었는데요
+	혼불/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+다녀오고
+	다니/pvg+어/ecx+오/px+고/ecc
+
+난후
+	나/px+ㄴ후/ef
+
+어떤
+	어떤/mmd
+
+작품인가
+	작품/ncn+이/jp+ㄴ가/ef
+
+줄거리라고
+	주/px+ㄹ/etm+것/nbn+이/jp+리라/ef+고/jcr
+
+알자
+	알/pvg+자/ecc
+
+싶어서
+	싶/px+어서/ecs
+
+검색해
+	검색/ncpa+하/xsva+어/ecx
+
+봤더니
+	보/px+아/ep+니/ecs
+
+읽어보고
+	읽/pvg+어/ecx+보/px+고/ecc
+
+싶다는
+	싶/px+다/ef+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들면서도
+	들/pvg+면서/ecs+도/jxc
+
+10권이란
+	10/nnc+권/nbu+이란/jxc
+
+압박감이
+	압박감/ncn+이/jcc
+
+오더라구요
+	오/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+이
+	이/mmd
+
+작품은
+	작품/ncn+은/jxc
+
+일제강점기인
+	일제강점기/ncn+이/jp+ㄴ/etm
+
+1930~1940년대
+	1930/nnc+~/sd+1940/nnc+년대/nbu
+
+전라북도
+	전라/ncn+북/ncn+도/jxc
+
+남원의
+	남원/ncn+의/jcm
+
+한
+	한/nnc
+
+유서
+	유/ncn+서/jca
+
+깊은
+	깊/paa+은/etm
+
+가문
+	가물/pvg+ㄴ/etm
+
+매안
+	매/xp+안/ncn
+
+이씨
+	이씨/ncn
+
+문중에서
+	물/pvg+ㄴ/etm+중/nbn+에서/jca
+
+무너져
+	무너지/pvg+어/ecx
+
+가는
+	가/pvg+는/etm
+
+종가를
+	종가/ncn+를/jco
+
+지키는
+	지키/pvg+는/etm
+
+종부
+	종부/ncn
+
+3대와
+	3/nnc+대/nbu+와/jcj
+
+이씨
+	이씨/ncn
+
+문중의
+	물/pvg+ㄴ/etm+중/nbn+의/jcm
+
+땅을
+	땅/ncn+을/jco
+
+부치며
+	부치/pvg+며/ecc
+
+살아가는
+	살/pvg+아/ecx+가/px+는/etm
+
+상민
+	상민/ncn
+
+마을
+	마을/ncn
+
+거멍굴
+	거멍굴/ncn
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+삶을
+	삶/ncn+을/jco
+
+그린
+	그리/pvg+ㄴ/etm
+
+소설입니다
+	소설/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+줄거리만도
+	줄거리/ncn+만/jxc+도/jxc
+
+꽤나
+	끄/pvg+어/ecx+나/px+아/ecx
+
+긴
+	길/paa+ㄴ/etm
+
+이야기에
+	이야기/ncpa+에/jca
+
+등장인물들도
+	등장인물/ncn+들/ncn+도/jxc
+
+복잡하구요
+	복잡/ncn+하구/ncn+요/ncn
+
+.
+	./sf
+
+
+그들이
+	그/npp+들/xsn+이/jcs
+
+풀어가는
+	풀/pvg+어/ecx+가/px+는/etm
+
+이야기를
+	이야기/ncpa+를/jco
+
+따라가다
+	따르/pvg+아/ecx+가/px+아/ecx
+
+보면
+	보/px+면/ecs
+
+앞이야기도
+	앞/xp+이야기/ncpa+도/jxc
+
+잊어버릴
+	잊/pvg+어/ecx+버리/px+ㄹ/etm
+
+거
+	것/nbn
+
+같더라구요
+	같/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+최명희청년문학상
+	최명희청년문학상/ncn
+
+원고들도
+	원고/ncn+들/ncn+도/jxc
+
+전시해
+	전시/ncn+해/ncn
+
+놓았습니다
+	놓/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+지금
+	지금/mag
+
+예준이는
+	예준/ncn+이/jp+는/etm
+
+최명희
+	최명희/ncn
+
+작가의
+	작가/ncr+의/jcm
+
+사진을
+	사진/ncn+을/jco
+
+감상하고
+	감상/ncn+하고/jct
+
+있는
+	있/px+는/etm
+
+중입니다
+	중/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+한참이나
+	한참/ncn+이나/jcj
+
+쳐다보더니
+	쳐다보/pvg+더니/ecs
+
+알고
+	알/pvg+고/ecx
+
+있던
+	있/px+던/etm
+
+최명희
+	최명희/ncn
+
+이모가
+	이모/ncn+가/jcs
+
+아닌것을
+	아니/paa+ㄴ/etm+것/nbn+을/jco
+
+알게
+	알/pvg+게/ecs
+
+되었을
+	되/pvg+었/ep+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+들어오자마자
+	들/pvg+어/ecx+오/px+자마자/ecs
+
+작가의
+	작가/ncr+의/jcm
+
+사진을
+	사진/ncn+을/jco
+
+찾아서
+	찾/pvg+아/ecx
+
+두리번
+	두리번/ncn
+
+거리더니
+	거리/ncn+이/jp+더니/ecs
+
+이제야
+	이제야/mag
+
+다른
+	다른/mma
+
+인물인
+	인물/ncn+이/jp+ㄴ/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+알게
+	알/pvg+게/ecs
+
+된듯
+	되/pvg+ㄴ/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+혹여
+	혹여/mag
+
+다음에
+	다음/ncn+에/jca
+
+작품
+	작품/ncn
+
+혼불을
+	혼불/ncn+을/jco
+
+접하게
+	접하/pvg+게/ecs
+
+되면
+	되/pvg+면/ecs
+
+이때의
+	이때/ncn+의/jcm
+
+시간들을
+	시간/ncn+들/ncn+을/jco
+
+기억히게
+	기억히/ncn+이/jp+게/ecs
+
+될까요
+	되/pvg+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+이모보다는
+	이모/ncn+보다/jca+는/jxc
+
+빨리
+	빨리/mag
+
+작품과
+	작품/ncn+과/jcj
+
+작가를
+	작가/ncr+를/jco
+
+접해서
+	접하/pvg+어서/ecs
+
+문학에
+	문학/ncpa+에/jca
+
+조예가
+	조예/ncn+가/jcs
+
+깊었으면
+	깊/paa+었/ep+으면/ecs
+
+좋으련만
+	좋/paa+으련만/ef
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+친구에게
+	친구/ncn+에게/jca
+
+친필로
+	친필/ncn+로/jca
+
+보낸
+	보내/pvg+ㄴ/etm
+
+엽서와
+	엽서/ncn+와/jct
+
+편지도
+	펴/pvg+ㄴ지/ecs+도/jxc
+
+전시해
+	전시/ncn+해/ncn
+
+두었구요
+	두었구요/ncn
+
+.
+	./sf
+
+
+한켠에는
+	하/pvg+ㄴ/etm+켠/nbn+에/jca+는/jxc
+
+작가의
+	작가/ncr+의/jcm
+
+원고를
+	원고/ncn+를/jco
+
+필사,
+	필사/ncpa+,/sp
+
+옮겨
+	옮기/pvg+어/ecx
+
+써볼
+	쓰/pvg+어/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+원고지도
+	원고/ncn+이/jp+지/ecs+도/jxc
+
+준비되어
+	준비/ncpa+되/xsvn+어/ecx
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+최명희문학관의
+	최명희문학관/ncn+의/jcm
+
+낙관
+	낙관/ncpa
+
+..
+	./sf+./sf
+
+
+기념
+	기념/ncpa
+
+도장을
+	도장/ncn+을/jco
+
+찍어
+	찍/pvg+어/ecx
+
+갈
+	가/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+되어
+	되/pvg+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+이외,
+	이외/ncn+,/sp
+
+복주머니
+	복주머니/ncn
+
+만들기,
+	만들/pvg+기/etn+,/sp
+
+엽서쓰기,
+	엽서/ncn+쓰기/ncn+,/sp
+
+나만의
+	나/npp+만의/jcm
+
+책만들기,
+	책만들기,/ncn
+
+서체
+	서체/ncn
+
+따라쓰기,
+	따라쓰기,/ncn
+
+나에게
+	나/npp+에게/jca
+
+쓰는
+	쓰/pvg+는/etm
+
+편지
+	편지/ncpa
+
+등등문학관이지만
+	등등/ncps+문학관/ncn+이/jp+지만/ecs
+
+체험을
+	체험/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+작은
+	작/paa+은/etm
+
+공간도
+	공간/ncn+도/jxc
+
+있어서
+	있/px+어서/ecs
+
+아이들과
+	아이/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+하는
+	하/pvg+는/etm
+
+여행자라면
+	여행자/ncn+이/jp+라면/ecs
+
+문의를
+	문의/ncn+를/jco
+
+해보시는
+	하/pvg+어/ecx+보/px+시/ep+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋을
+	좋/paa+을/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+작가의
+	작가/ncr+의/jcm
+
+방도
+	방/ncn+도/jxc
+
+안쪽에
+	알/pvg+ㄴ/etm+쪽/nbn+에/jca
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+왠지
+	왠지/mag
+
+실제
+	실제/ncn
+
+방처럼
+	방/ncn+처럼/jca
+
+느껴지지는
+	느끼/pvg+어/ecx+지/px+지/ef+는/etm
+
+않지만
+	않/px+지/ecx+말/px+ㄴ/etm
+
+...
+	.../se
+
+
+작가의해외활동
+	작가의해외활동/ncn
+
+약력을
+	약력/ncn+을/jco
+
+벽에
+	벽/ncn+에/jca
+
+걸어두었습니다
+	걷/pvg+어/ecx+두/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+전시실
+	전시/ncn+이/jp+시/ep+ㄹ/etm
+
+이름이
+	이름/ncn+이/jcc
+
+독락재인데요
+	독락재인데요/ncn
+
+.
+	./sf
+
+
+옛
+	옛/mma
+
+선비들은
+	선비/ncn+들/ncn+은/jxc
+
+신독(
+	신독(/ncn
+
+)너머,
+	)/sr+너머/ncn+,/sp
+
+독락의
+	독락/ncn+의/jcm
+
+문자향서권기를
+	문자향서권기/ncn+를/jco
+
+추구했습니다
+	추구/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+홀로
+	홀로/mag
+
+자신과
+	자신/ncn+과/jcj
+
+대면하기를
+	대면/ncpa+하/xsva+기/etn+를/jco
+
+두려워하지
+	두렵/paa+어/ecx+하/px+지/ecx
+
+않고,
+	않/px+고/ecc+,/sp
+
+오히려
+	오히려/mag
+
+그것을
+	그것/npd+을/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+경지에서
+	경지/ncn+에서/jca
+
+이룩한
+	이룩/ncn+한/ncn
+
+문학의
+	문학/ncpa+의/jcm
+
+높은
+	높/paa+은/etm
+
+정신을
+	정신/ncn+을/jco
+
+최명희
+	최명희/ncn
+
+선생을
+	선생/ncr+을/jco
+
+통해서
+	통하/pvg+어서/ecs
+
+확인할
+	확인/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+여기를
+	여기/npd+를/jco
+
+찾는
+	찾/pvg+는/etm
+
+모든
+	모든/mma
+
+이들이
+	이/ncn+들/xsncc+이/jcc
+
+그와
+	그/npp+와/jct
+
+같은
+	같/paa+은/etm
+
+경지를
+	경지/ncn+를/jco
+
+누리길
+	누리/ncn+길/ncn
+
+바라는
+	바라/pvg+는/etm
+
+마음으로
+	마음/ncn+으로/jca
+
+당호를
+	당호/ncn+를/jco
+
+정했다고
+	정하/pvg+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+유리에
+	유리/ncn+에/jca
+
+새겨진
+	새기/pvg+어/ecx+지/px+ㄴ/etm
+
+글귀중에
+	글귀/ncn+중/ncn+에/jca
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+와닿는
+	와닿/ncn+는/jxc
+
+글을
+	글/ncn+을/jco
+
+옮겨봅니다
+	옮기/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+"원고를
+	"/sl+원고/ncn+를/jco
+
+쓸
+	쓰/pvg+ㄹ/etm
+
+때면
+	때/nbn+이/jp+면/ecs
+
+손가락으로
+	손가락/ncn+으로/jca
+
+바위를
+	바위/ncn+를/jco
+
+뚫어
+	뚫/pvg+어/ecx
+
+글씨를
+	글씨/ncn+를/jco
+
+새기는
+	새기/pvg+는/etm
+
+것만
+	것/nbn+만/jxc
+
+같은
+	같/paa+은/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+든다
+	들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+그것은
+	그것/npd+은/jxc
+
+얼마나
+	얼마나/mag
+
+어리석고도
+	어리석/paa+고/ecs+도/jxc
+
+간절한
+	간절/ncps+하/xsms+ㄴ/etm
+
+일이랴
+	일/ncn+이/jp+랴/ef
+
+.
+	./sf
+
+
+날렵한
+	날렵/ncps+하/xsms+ㄴ/etm
+
+끌이나
+	끌/ncn+이나/jcj
+
+기능
+	기능/ncn
+
+좋은
+	좋/paa+은/etm
+
+쇠붙이를
+	쇠붙이/ncn+를/jco
+
+가지지
+	가/pvg+아/ecx+지/px+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+나는
+	나/ncn+는/jxc
+
+
+그저
+	그저/mag
+
+온
+	오/px+ㄴ/etm
+
+마음을
+	마음/ncn+을/jco
+
+사무지게
+	사무/ncn+지게/ncn
+
+갈아서
+	갈/pvg+아/ecx
+
+손끝에
+	손끝/ncn+에/jca
+
+모으고
+	모으/pvg+고/ecc
+
+
+생애를
+	생애/ncn+를/jco
+
+기울여
+	기울이/pvg+어/ecx
+
+한
+	하/pvg+ㄴ/etm
+
+마디
+	마디/nbu
+
+한
+	하/pvg+ㄴ/etm
+
+마디
+	마디/nbu
+
+
+파나가는
+	파/pvg+아/ecx+나/px+아/ecx+가/px+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+."
+	./sf+"/sl
+
+
+작가의
+	작가/ncr+의/jcm
+
+작품에
+	작품/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+애정을
+	애정/ncn+을/jco
+
+그대로
+	그대로/mag
+
+드러낸
+	드러내/pvg+ㄴ/etm
+
+심혈의
+	심혈/ncn+의/jcm
+
+작업임을
+	작업/ncpa+이/jp+ㅁ/etn+을/jco
+
+보여주는
+	보이/pvg+어/ecx+주/px+는/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+쉼표하나
+	쉼표하/ncn+나/jcj
+
+마침표하나까지
+	마침/ncn+표/ncpa+하/xsva+어/ecx+나/px+아/ecs+까지/jxc
+
+순간이
+	순간/ncn+이/jcc
+
+생애를
+	생애/ncn+를/jco
+
+기울여
+	기울이/pvg+어/ecx
+
+새겨가는
+	새기/pvg+어/ecx+가/px+는/etm
+
+작업이었을
+	작업/ncpa+이/jp+었/ep+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+문학관을
+	문학관/ncn+을/jco
+
+나와서보니
+	나오/pvg+아/ecx+보/px+니/ecs
+
+외관도
+	외관/ncn+도/jxc
+
+참
+	참/mag
+
+이쁘다
+	이쁘/paa+다/ef
+
+싶어요
+	싶/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+파란
+	파랗/paa+은/etm
+
+하늘이
+	하늘/ncn+이/jcc
+
+담긴
+	담기/pvg+ㄴ/etm
+
+유리창
+	유리/ncn+창/ncn
+
+아래
+	아래/ncn
+
+앉아서
+	앉/pvg+아/ecx
+
+기념사진도
+	기념사진/ncn+도/jxc
+
+남겨보구요
+	남겨보구요/ncn
+
+.
+	./sf
+
+
+지하로
+	지하/ncn+로/jca
+
+내려가는
+	내리/pvg+어/ecx+가/px+는/etm
+
+공간옆으로
+	공간/ncn+옆/ncn+으로/jca
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+장식물이
+	장식물/ncn+이/jcc
+
+있으니
+	있/px+으니/ecs
+
+예준이의
+	예준이/ncn+의/jcm
+
+관심이
+	관심/ncn+이/jcc
+
+그쪽으로
+	그쪽/npd+으로/jca
+
+쏠리네요
+	쏠리/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+굳이
+	굳이/mag
+
+만져보겠다고
+	만지/pvg+어/ecx+보/px+겠/ep+다/ef+고/jcr
+
+안아달라고
+	안아달라/ncn+이/jp+고/ecc
+
+해서
+	하/pvg+어서/ecs
+
+힘겹게
+	힘겹/paa+게/ecs
+
+공모양의
+	공모양/ncn+의/jcm
+
+물고기도
+	물고기/ncn+도/jxc
+
+만져보구요
+	만져보구요/ncn
+
+.
+	./sf
+
+
+그림이
+	그림/ncn+이/jcc
+
+이쁘게
+	이쁘/paa+게/ecs
+
+그려져있어서
+	그리/pvg+어/ecx+지/px+어/ecx+있/px+어서/ecs
+
+볼거리도
+	볼거리/ncn+도/jxc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+알맹이
+	알맹이/ncn
+
+없는
+	없/paa+는/etm
+
+감상이라는
+	감상/ncn+이/jp+라/ef+는/etm
+
+생각에
+	생각/ncpa+에/jca
+
+작가에게
+	작가/ncr+에게/jca
+
+미안한
+	미안/ncps+하/xsms+ㄴ/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+들었는데요
+	들/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+눈으로
+	눈/ncn+으로/jca
+
+어찌
+	어찌/mag
+
+긴
+	길/paa+ㄴ/etm
+
+세월동안
+	세월/ncn+동안/ncn
+
+혼신을
+	혼신/ncn+을/jco
+
+다해
+	다하/pvg+어/ecx
+
+한단어
+	한단어/ncn
+
+한단어
+	한단어/ncn
+
+담아낸
+	담/pvg+아/ecx+내/px+ㄴ/etm
+
+작품을
+	작품/ncn+을/jco
+
+천분의
+	천/nnc+분/nbu+의/jcm
+
+일이라도
+	일/ncn+이/jp+라/ecs+도/jxc
+
+이해를
+	이/nnc+해/nbu+를/jco
+
+하겠습니까
+	하/px+겠/ep+습니까/ef
+
+.
+	./sf
+
+
+여행지에서
+	여행지/ncn+에서/jca
+
+우연히
+	우연히/mag
+
+만난
+	만나/pvg+ㄴ/etm
+
+인연으로
+	인연/ncn+으로/jca
+
+최명희
+	최명희/ncn
+
+작가와
+	작가/ncr+와/jct
+
+조금
+	조금/mag
+
+가까워졌다는
+	가깝/paa+어/ecx+지/px+었/ep+다/ef+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+위안을
+	위안/ncpa+을/jco
+
+해
+	하/pvg+어/ecx
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+전주한옥마을
+	전주/ncn+한옥/ncn+마을/ncn
+
+들리시면
+	들리/pvg+시/ep+면/ecs
+
+누구보다
+	누구/npp+보다/jca
+
+전주를
+	전주/ncn+를/jco
+
+사랑한
+	사랑/ncn+한/ncn
+
+작가의
+	작가/ncr+의/jcm
+
+삶과
+	삶/ncn+과/jcj
+
+그
+	그/mmd
+
+흔적도
+	흔적/ncn+도/jxc
+
+보시구요
+	보시구요/ncn
+
+.
+	./sf
+
+
+부근에
+	부근/ncn+에/jca
+
+생가터,
+	생가/ncn+터/ncn+,/sp
+
+최명희
+	최명희/ncn
+
+길도
+	길/ncn+도/jxc
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+서정적이고
+	서정/ncpa+적/ncn+이/jp+고/ecc
+
+섬세한
+	섬세/ncn+한/ncn
+
+표현으로
+	표현/ncpa+으로/jca
+
+혼을
+	혼/ncn+을/jco
+
+담아낸
+	담/pvg+아/ecx+내/px+ㄴ/etm
+
+작품들,현재를
+	작품/ncn+들/xsncc+,/sp+현재/ncn+를/jco
+
+살아가는
+	살/pvg+아/ecx+가/px+는/etm
+
+우리들에게
+	우리들/npp+에게/jca
+
+순간을
+	순간/ncn+을/jco
+
+최선을
+	최선/ncn+을/jco
+
+다해
+	다하/pvg+어/ecx
+
+살아가는
+	살/pvg+아/ecx+가/px+는/etm
+
+불길
+	불길/ncn
+
+하나
+	하나/nnc
+
+만들어
+	만들/pvg+어/ecx
+
+준거라
+	주/px+ㄴ/etm+것/nbn+이/jp+라/ecs
+
+여기고
+	여기/npd+이/jp+고/ecc
+
+관심을
+	관심/ncn+을/jco
+
+가져보려
+	가/pvg+아/ecx+지/px+어/ecx+보/px+려/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+부채박물관도
+	부채/ncn+박물관/ncn+도/jxc
+
+보이는데
+	보이/pvg+ㄴ데/ecs
+
+가보자고
+	가/pvg+아/ecx+보/px+자/ef+고/jcr
+
+했더니
+	하/px+었/ep+더니/ecs
+
+굳이
+	굳이/mag
+
+가지
+	가지/nbu
+
+않겠다고
+	않/px+겠/ep+다/ef+고/jcr
+
+하던
+	하/pvg+던/etm
+
+조카의
+	조카/ncn+의/jcm
+
+손을
+	손/ncn+을/jco
+
+잡고
+	잡/pvg+고/ecc
+
+다시
+	다시/mag
+
+전주한옥마을을
+	전주/ncn+한옥/ncn+마을/ncn+을/jco
+
+돌아봅니다
+	돌/pvg+아/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+개관시간:
+	개관시간/ncn+:/sp
+
+오전
+	오전/ncn
+
+10시부터
+	10/nnc+시/nbu+부터/jxc
+
+오후
+	오후/ncn
+
+6시까지
+	6/nnc+시/nbu+까지/jxc
+
+(휴관:
+	(휴관:/ncn
+
+매주
+	매주/ncn
+
+월요일,
+	월요일/ncn+,/sp
+
+1월
+	1/nnc+월/nbu
+
+1일,
+	1/nnc+일/nbu+,/sp
+
+설,
+	서/pvg+ㄹ/etm+,/sp
+
+추석)
+	추석/ncn+)/sr
+
+
+전주시
+	전주/ncn+시/ncn
+
+완산구
+	완산구/ncn
+
+풍남동
+	풍남동/ncn
+
+3가
+	3/nnc+가/jcs
+
+67-5
+	67/nnc+-5/nnc
+
+
+063-284-0570
+	063/nnc+-284/nnc+-0570/nnc
+
+
+최명희문학관
+	최명희문학관/ncn
+
+
+전라북도
+	전라/ncn+북/ncn+도/jxc
+
+전주시
+	전주/ncn+시/ncn
+
+완산구
+	완산구/ncn
+
+풍남동3가
+	풍남동3/ncn+가/jcc
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01884634",
+	"bl01884634",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11795803",
+	"/sl+11795803/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"최명희문학관",
+	title:"최명희문학관",/ncn
+
+pointX:323466,pointY:357638}
+	pointX/f+:/sp+323466/nnc+,/sp+pointY/f+:/sp+357638/nnc+}/sr

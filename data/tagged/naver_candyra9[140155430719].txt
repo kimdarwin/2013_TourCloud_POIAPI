@@ -1,0 +1,2300 @@
+제주여행
+	제주/ncn+여행/ncpa
+
+첫날
+	첫/nno+날/nbu
+
+공항
+	공항/ncn
+
+도착하자마자
+	도착/ncpa+하/xsva+자마자/ecs
+
+찾아
+	찾/pvg+아/ecx
+
+갔던
+	가/px+아/ep+ㄴ/etm
+
+곳이
+	곳/ncn+이/jcc
+
+애월
+	애월/ncn
+
+한담해안산책로
+	한담해안산책/ncn+로/jca
+
+였어요
+	였어요/ncn
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+즐겨
+	즐기/pvg+어/ecx
+
+찾는
+	찾/pvg+는/etm
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+아직
+	아직/mag
+
+모르는
+	모르/pvg+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+많은
+	많/paa+은/etm
+
+숨은
+	숨/ncn+은/jxc
+
+비경지이기도
+	비경/ncn+지이/ncn+이/jp+기/etn+도/jxc
+
+해서
+	하/pvg+어서/ecs
+
+한적하니
+	한적/ncps+하/xsms+니/ef
+
+
+제주의
+	제주/ncn+의/jcm
+
+바닷바람을
+	바닷바람/ncn+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+좋아해요
+	좋/paa+아/ecx+하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+다만
+	다만/mag
+
+자동차가
+	자동차/ncn+가/jcs
+
+다닐
+	다니/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+길이여서
+	길이/ncn+이/jp+어서/ecs
+
+렌터를
+	렌터/ncn+를/jco
+
+해서
+	하/pvg+어서/ecs
+
+차를
+	차/ncn+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+왓을
+	왓/ncn+을/jco
+
+때에는
+	때/ncn+에/jca+는/jxc
+
+키친애월이나
+	키친애월/ncn+이나/jcj
+
+
+반대쪽인
+	반대쪽/ncn+이/jp+ㄴ/etm
+
+곽지해수욕장
+	곽지해수욕장/ncn
+
+근처에
+	근처/ncn+에/jca
+
+주차를
+	주차/ncn+를/jco
+
+해
+	하/pvg+어/ecx
+
+두고
+	두/nbu+고/jcj
+
+
+바다를
+	바다/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+난
+	나/px+ㄴ/etm
+
+좁은
+	좁/paa+은/etm
+
+한담해안길을
+	한담해안길/ncn+을/jco
+
+따라천천히
+	따라천천히/ncn
+
+즐기며
+	즐기/pvg+며/ecc
+
+걷다
+	걷/pvg+다/ef
+
+돌아가곤
+	돌/pvg+아/ecx+가/px+곤/ecs
+
+했어요
+	하/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이번에는
+	이/nnc+번/nbu+에/jca+는/jxc
+
+올레길을
+	올레길/ncn+을/jco
+
+걸어줄거라
+	걷/pvg+어/ecx+주/px+ㄹ/etm+것/nbn+이/jp+라/ecs
+
+렌터
+	렌터/ncn
+
+안하고
+	안/ncn+하고/jct
+
+대중교통
+	대중교통/ncn
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+보았는데요
+	보/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+더
+	더/mag
+
+많은
+	많/paa+은/etm
+
+것을
+	것/nbn+을/jco
+
+보고
+	보/px+고/ecc
+
+와서
+	오/px+아/ecs
+
+좋았던
+	좋/paa+아/ep+ㄴ/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+사람들
+	사람들/ncn
+
+말이
+	말/ncn+이/jcc
+
+제주도에서
+	제주/ncn+도/ncn+에서/jca
+
+대중교통
+	대중교통/ncn
+
+이용하기
+	이용/ncpa+하/xsva+기/etn
+
+힘들다
+	힘들/pvg+다/ef
+
+했는데
+	하/px+었/ep+는데/ecs
+
+그렇지도
+	그렇/pad+지/ecs+도/jxc
+
+않더라구요
+	않/px+더라구/ef+요/jxf
+
+...
+	.../se
+
+
+자주
+	자주/mag
+
+있지는
+	있/px+지/ef+는/etm
+
+않았지만
+	않/px+아/ep+지/ecx+말/px+ㄴ/etm
+
+그정도면
+	그정도/ncn+이/jp+면/ecs
+
+여행하기
+	여행/ncpa+하/xsva+기/etn
+
+좋은
+	좋/paa+은/etm
+
+대중교통이
+	대중교통/ncn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+생각들었어요
+	생각들었어요/ncn
+
+.
+	./sf
+
+
+제주공항에서
+	제주/ncn+공항/ncn+에서/jca
+
+애월
+	애월/ncn
+
+한담해안산책로
+	한담해안산책/ncn+로/jca
+
+가려면100번
+	가려면100번/ncn
+
+버스를
+	버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+터미널로
+	터미널/ncn+로/jca
+
+가서
+	가/pvg+서/ecs
+
+갈아타야
+	갈/pvg+아/ecx+타/px+아/ecx
+
+하는데,
+	하/pvg+ㄴ데/ecs+,/sp
+
+
+제주시외버스나
+	제주/ncn+시외버스/ncn+나/jcj
+
+시내버스들은
+	시내/ncn+버스/ncn+들/ncn+은/jxc
+
+일반
+	일반/ncn
+
+교통카드가
+	교통/ncn+카드/ncn+가/jcs
+
+사용되지
+	사용/ncpa+되/xsvn+지/ecx
+
+않는
+	않/px+는/etm
+
+지역이여서
+	지역/ncn+이/ncn+이/jp+어서/ecs
+
+
+항상
+	항상/mag
+
+천원짜리
+	천/nnc+원/nbu+짜리/xsnu
+
+지폐를
+	지폐/ncn+를/jco
+
+교환해서
+	교환/ncpa+하/xsva+어서/ecs
+
+들고
+	들/pvg+고/ecc
+
+다녀야
+	다니/pvg+어야/ecs
+
+했던게
+	하/px+었/ep+더/ep+ㄴ게/ecs
+
+불편
+	불편/ncn
+
+했어요
+	하/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+제주버스들은
+	제주/ncn+버스/ncn+들/ncn+은/jxc
+
+일반교통카드
+	일반/ncn+교통/ncn+카드/ncn
+
+사용은
+	사용/ncpa+은/jxc
+
+안되고
+	안되/paa+고/ecc
+
+T머니(티머니)카드만
+	T머니(티머니)카드만/ncn
+
+사용
+	사용/ncpa
+
+가능
+	가능/ncpa
+
+했으니
+	하/px+었/ep+으니/ecs
+
+혹
+	혹/mag
+
+제주에서
+	제주/ncn+에서/jca
+
+
+대중교통
+	대중교통/ncn
+
+이용하실분들은
+	이용하실분들/ncn+은/jxc
+
+참고
+	참/pvg+고/ecc
+
+하세요
+	하/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+제주에는
+	제주/ncn+에/jca+는/jxc
+
+터미널이
+	터미널/ncn+이/jcc
+
+두곳
+	두/nnc+곳/nbu
+
+있는데
+	있/px+는데/ecs
+
+구터미널과
+	구터미널/ncn+과/jcj
+
+신터미널이
+	신/xp+터미널/ncn+이/jcc
+
+있고
+	있/paa+고/ecc
+
+
+100번
+	100/nnc+번/nbu
+
+버스는
+	버스/ncn+는/jxc
+
+구터미널로
+	구터미널/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+버스예요
+	버스/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+요금은
+	요금/ncn+은/jxc
+
+1,000원
+	1,000/nnc+원/nbu
+
+이였으니
+	이/npd+이/jp+었/ep+으니/ecs
+
+천원지폐
+	천원지폐/ncn
+
+미리
+	미리/mag
+
+준비하시던지
+	준비/ncn+하시/ncn+이/jp+더/ep+ㄴ지/ecs
+
+티머니카드로
+	티머니카드/ncn+로/jca
+
+탑승하면
+	탑승/ncpa+하/xsva+면/ecs
+
+되었어요
+	되/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+몰랐던
+	모르/pvg+아/ep+ㄴ/etm
+
+탓에
+	탓/ncpa+에/jca
+
+일반교통카드
+	일반/ncn+교통/ncn+카드/ncn
+
+사용이
+	사용/ncpa+이/jcc
+
+안되어
+	안되/paa+어/ecx
+
+천원지폐
+	천원지폐/ncn
+
+찾느라
+	찾/pvg+느라/ecs
+
+허둥지둥
+	허둥지둥/mag
+
+했었네요
+	하/px+었었/ep+네/ef+요/jxf
+
+...
+	.../se
+
+
+;;
+	;/sy+;/sy
+
+
+20분
+	20/nnc+분/nbu
+
+정도
+	정도/ncn
+
+달려오다
+	달리/pvg+어/ecx+오/px+다/ef
+
+터미널에서
+	터미널/ncn+에서/jca
+
+하차하였는데
+	하차/ncpa+하/xsva+었/ep+는데/ecs
+
+
+이곳
+	이곳/npd
+
+터미널
+	터미널/ncn
+
+참
+	참/mag
+
+즐겁게
+	즐겁/paa+게/ecs
+
+꾸며진
+	꾸미/pvg+어/ecx+지/px+ㄴ/etm
+
+공간이
+	공간/ncn+이/jcc
+
+많아
+	많/paa+아/ecs
+
+
+내리자마자
+	내리/pvg+자마자/ecs
+
+구경거리가
+	구경/ncn+거리/ncn+가/jcs
+
+늘려
+	늘리/pvg+어/ecx
+
+있어
+	있/px+어/ecx
+
+발목
+	발목/ncn
+
+잡더라구요
+	잡/pvg+더라구/ef+요/jxf
+
+...
+	.../se
+
+
+보따리
+	보따리/ncn
+
+...
+	.../se
+
+
+보자기
+	보자기/ncn
+
+...
+	.../se
+
+
+예전에는
+	예전/ncn+에/jca+는/jxc
+
+시장바구니나,
+	시장/ncn+바구니/ncn+나/jcj+,/sp
+
+종이백
+	종이/ncn+백/ncn
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+보자기에
+	보자기/ncn+에/jca
+
+짐을
+	지/px+ㅁ/etn+을/jco
+
+싸서
+	쓰/pvg+어서/ecs
+
+들고
+	들/pvg+고/ecc
+
+다니는
+	다니/pvg+는/etm
+
+보따리가
+	보따리/ncn+가/jcs
+
+많았는데
+	많/paa+아/ep+ㄴ데/ecs
+
+
+요즘은
+	요즘/ncn+은/jxc
+
+다들
+	다들/ncn
+
+종이백이나
+	종이/ncn+백/ncn+이나/jcj
+
+비닐백
+	비닐/ncn+백/ncn
+
+사용해서
+	사용/ncpa+해서/ncn
+
+환경오염
+	환경오염/ncpa
+
+수위가
+	수위/ncr+가/jcc
+
+높아지고
+	높/paa+아/ecx+지/px+고/ecc
+
+있다는
+	있/px+다/ef+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+드니
+	드/ncn+이/jp+니/ef
+
+
+다시
+	다시/mag
+
+예전으로
+	예전/ncn+으로/jca
+
+돌아가
+	돌/pvg+아/ecx+가/px+아/ecx
+
+빵빵하게
+	빵빵하/ncn+이/jp+게/ecs
+
+채운
+	채우/pvg+ㄴ/etm
+
+보따리의
+	보따리/ncn+의/jcm
+
+동그스럼한
+	동그스럼한/ncn
+
+귀여움에
+	귀여움/ncn+에/jca
+
+젖어들고
+	젖어들고/ncn
+
+싶었어요
+	싶/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+보따리가
+	보따리/ncn+가/jcs
+
+참
+	참/mag
+
+귀엽고
+	귀엽/paa+고/ecc
+
+앙증맞아
+	앙증맞/pvg+아/ecx
+
+보였는데,
+	보이/pvg+었/ep+는데/ecs+,/sp
+
+아닌게
+	아니/paa+ㄴ게/ecs
+
+아니라
+	아니/paa+라/ecs
+
+색도
+	색/ncn+도/jxc
+
+모양도
+	모양/ncn+도/jxc
+
+가지각색이고
+	가지각색/ncn+이고/jcj
+
+
+리본으로
+	리본/ncn+으로/jca
+
+묶어
+	묶/pvg+어/ecx
+
+귀엽게
+	귀엽/paa+게/ecs
+
+보이기도
+	보이/pvg+기/etn+도/jxc
+
+하면서
+	하/pvg+면서/ecc
+
+보자기
+	보자기/ncn
+
+속에
+	속/ncn+에/jca
+
+무엇이
+	무엇/npd+이/jcc
+
+들어
+	들/pvg+어/ecx
+
+있는지
+	있/paa+는지/ecc
+
+
+형태가
+	형태/ncn+가/jcs
+
+잡히니
+	잡히/pvg+니/ecs
+
+재미있는
+	재미있/pvg+는/etm
+
+보따리가
+	보따리/ncn+가/jcs
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+사용하지
+	사용/ncpa+하/xsva+지/ecx
+
+않을
+	않/px+을/etm
+
+때
+	때/ncn
+
+휴대해서
+	휴대/ncpa+해/ncn+서/jca
+
+들고
+	들/pvg+고/ecc
+
+다니기도
+	다니/pvg+기/etn+도/jxc
+
+편하구요
+	편하구요/ncn
+
+...
+	.../se
+
+
+할머니들은
+	할머니/ncn+들/ncn+은/jxc
+
+머리에
+	머리/ncn+에/jca
+
+스카프처럼
+	스카프/ncn+처럼/jca
+
+뒤집어
+	뒤집/pvg+어/ecx
+
+쓰고
+	쓰/pvg+어/ef+고/jcr
+
+다니다가
+	다니/pvg+다가/ecc
+
+
+짐이
+	지/px+ㅁ/etn+이/jcs
+
+생기면
+	생기/pvg+면/ecs
+
+이내
+	이내/mag
+
+풀어서
+	풀/pvg+어서/ecs
+
+보자기로
+	보자기/ncn+로/jca
+
+사용하기도
+	사용/ncpa+하/xsva+기/etn+도/jxc
+
+했던
+	하/px+었/ep+던/etm
+
+기억이
+	기억/ncpa+이/jcc
+
+나네요
+	나/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+정겨운
+	정겹/paa+은/etm
+
+풍경들이
+	풍경/ncn+들/ncn+이/jcc
+
+담겨있는
+	담기/pvg+어/ecx+있/px+는/etm
+
+제주도가
+	제주/ncn+도/ncn+가/jcs
+
+더
+	더/mag
+
+정겹게
+	정겹/paa+게/ecs
+
+느껴졌고
+	느끼/pvg+어/ecx+지/px+었/ep+고/ecc
+
+외국인관광객들도
+	외국인관광객/ncn+들/ncn+도/jxc
+
+늘고
+	늘/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+보니
+	보/nbu+이/jp+니/ef
+
+
+기분이
+	기분/ncn+이/jcc
+
+절로
+	절/ncn+로/jca
+
+좋아져서
+	좋/paa+아/ecx+지/px+어서/ecs
+
+제주도여행
+	제/xp+주도/ncpa+여행/ncpa
+
+오길
+	오/nnc+길/nbu
+
+잘
+	잘/mag
+
+했다
+	하/px+었/ep+다/ef
+
+싶었어요
+	싶/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+외국인
+	외국/ncn+이/jp+ㄴ/etm
+
+관광객이
+	관광객/ncn+이/jcc
+
+관광안내소에서
+	관광안내소/ncn+에서/jca
+
+뭔가
+	뭔가/ncn
+
+물어
+	묻/pvg+어/ecx
+
+보고
+	보/px+고/ecc
+
+있었고
+	있/paa+었/ep+고/ecc
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+여러가지
+	여러/nnc+가지/nbu
+
+정보를
+	정보/ncn+를/jco
+
+얻을
+	얻/pvg+을/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+좋았어요
+	좋/paa+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+올레코스며
+	올레코스/ncn+이/jp+며/ecc
+
+관광지
+	관광지/ncn
+
+정보가
+	정보/ncn+가/jcs
+
+많더라구요
+	많/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+애월
+	애월/ncn
+
+한담해안산책로
+	한담해안산책/ncn+로/jca
+
+가려면
+	가/px+려면/ecs
+
+시내버스를
+	시내/ncn+버스/ncn+를/jco
+
+타야
+	타/pvg+아/ecx
+
+하는게
+	하/pvg+는게/ecs
+
+아니라
+	아니/paa+라/ecs
+
+터미널
+	터미널/ncn
+
+안으로
+	안/ncn+으로/jca
+
+들어와서
+	들/pvg+어/ecx+오/px+아/ecs
+
+
+시외버스를
+	시외버스/ncn+를/jco
+
+타야해서
+	타/pvg+아/ecx+하/px+어서/ecs
+
+먼저
+	먼저/mag
+
+매표를
+	매표/ncn+를/jco
+
+했어요
+	하/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+애월
+	애월/ncn
+
+한담로까지
+	한담로까지/ncn
+
+1,000원
+	1,000/nnc+원/nbu
+
+.
+	./sf
+
+
+제주버스는
+	제주/ncn+버스/ncn+는/jxc
+
+조금
+	조금/mag
+
+일찍
+	일찍/mag
+
+끊기는
+	끊/pvg+기/etn+는/jxc
+
+경향이
+	경향/ncn+이/jcc
+
+있으니
+	있/px+으니/ecs
+
+주의해서
+	주의/ncn+해서/ncn
+
+시간표를
+	시간표/ncn+를/jco
+
+미리
+	미리/mag
+
+챙겨두거나
+	챙기/pvg+어/ecx+두/px+거나/ecc
+
+잘
+	잘/mag
+
+보고
+	보/px+고/ecc
+
+다녀야
+	다니/pvg+어야/ecs
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+서일주버스도
+	서일주버스/ncn+도/jxc
+
+오후
+	오후/ncn
+
+9시가
+	9/nnc+시/nbu+가/jcc
+
+마지막
+	마지막/ncn
+
+버스로
+	버스/ncn+로/jca
+
+서울이나
+	서울/ncn+이나/jcj
+
+경기도에
+	경기/ncn+도/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+일찍
+	일찍/mag
+
+끊어지고
+	끊/pvg+어/ecx+지/px+고/ecc
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+서일주버스라는
+	서일주버스라/ncn+는/jxc
+
+건
+	거/nbn+은/jxc
+
+제주도를
+	제주/ncn+도/ncn+를/jco
+
+동과
+	동/nbu+과/jct
+
+서로
+	서로/mag
+
+보았을
+	보/px+아/ep+ㄹ/etm
+
+때,
+	때/nbn+,/sp
+
+
+서쪽을
+	서쪽/ncn+을/jco
+
+왕복하는
+	왕복/ncpa+하/xsva+는/etm
+
+버스를
+	버스/ncn+를/jco
+
+서일주버스라
+	서일주버스/ncn+이/jp+라/ecs
+
+하고
+	하/pvg+고/ecc
+
+동쪽을
+	동쪽/ncn+을/jco
+
+왕복하는
+	왕복/ncpa+하/xsva+는/etm
+
+버스를
+	버스/ncn+를/jco
+
+동일주버스라
+	동일주버스/ncn+이/jp+라/ecs
+
+부른다
+	부르/pvg+ㄴ다/ef
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+터미널
+	터미널/ncn
+
+이곳저곳에
+	이곳저곳/npd+에/jca
+
+그림이나
+	그림/ncn+이나/jcj
+
+조각들이
+	조각/ncn+들/ncn+이/jcc
+
+꾸며져
+	꾸미/pvg+어/ecx+지/px+어/ecx
+
+있었는데
+	있/px+었/ep+는데/ecs
+
+버스
+	버스/ncn
+
+올
+	오/px+ㄹ/etm
+
+시간이
+	시간/ncn+이/jcc
+
+임박해
+	임박/ncpa+하/xsva+어/ecx
+
+있어서
+	있/paa+어서/ecs
+
+
+플랫폼에
+	플랫폼/ncn+에/jca
+
+가서
+	가/pvg+서/ecs
+
+기다리기로
+	기다리/pvg+기/etn+로/jca
+
+하고
+	하/pvg+고/ecc
+
+마음이
+	마음/ncn+이/jcc
+
+급해진
+	급하/paa+어/ecx+지/px+ㄴ/etm
+
+나머지
+	나머지/ncn
+
+터미널을
+	터미널/ncn+을/jco
+
+다
+	다/mag
+
+둘러
+	두르/pvg+어/ecx
+
+보지는
+	보/px+지/ecs+는/jxc
+
+못
+	못/mag
+
+했어요
+	하/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+애월에서
+	애월/ncn+에서/jca
+
+서귀포까지
+	서귀포까지/ncn
+
+운행되는
+	운행/ncpa+되/xsvn+는/etm
+
+서일주버스에
+	서일주버스/ncn+에/jca
+
+탑승~
+	탑승/ncpa+~/sd
+
+
+하귀,
+	하귀,/ncn
+
+애월,
+	애월,/ncn
+
+한림,
+	한림,/ncn
+
+신장,
+	신장/ncpa+,/sp
+
+고산,
+	고산/ncn+,/sp
+
+모슬포,
+	모슬포,/ncn
+
+화순,
+	화/ncn+순/xsncc+,/sp
+
+서귀포
+	서귀포/ncn
+
+....
+	.../se+./sf
+
+
+올레길
+	올레길/ncn
+
+10코스의
+	10코스/ncn+의/jcm
+
+종점인
+	종점/ncn+이/jp+ㄴ/etm
+
+모슬포항까지
+	모슬포항까/ncn+이/jp+지/ecs
+
+간다하니
+	간다하/ncn+이/jp+니/ecs
+
+10코스
+	10코스/ncn
+
+걸은
+	걸/pvg+ㄴ/etm
+
+후
+	후/ii
+
+
+이
+	이/mmd
+
+버스타고
+	버스/ncn+타/ncn+이/jp+고/ecc
+
+터미널에
+	터미널/ncn+에/jca
+
+와서
+	오/px+아/ecs
+
+다시
+	다시/mag
+
+공항으로
+	공항/ncn+으로/jca
+
+돌아가면
+	돌/pvg+아/ecx+가/px+면/ecs
+
+되겟다
+	되겟다/ncn
+
+싶었어요
+	싶/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이때까지는
+	이때/ncn+까지/jxc+는/jxc
+
+마지막날
+	마지막/ncn+날/ncn
+
+올레10코스를
+	올레10코스/ncn+를/jco
+
+걸어줄거라
+	걷/pvg+어/ecx+주/px+ㄹ/etm+것/nbn+이/jp+라/ecs
+
+생각했기
+	생각/ncpa+하/xsva+었/ep+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+열심히
+	열심히/mag
+
+머리속에
+	머리속/ncn+에/jca
+
+메모리
+	메모리/ncn
+
+해
+	하/pvg+어/ecx
+
+두었지요
+	두/pvg+었/ep+지/ef+요/jxf
+
+...
+	.../se
+
+
+;;
+	;/sy+;/sy
+
+
+기사아저씨한테
+	기사/ncr+아저씨/ncn+한테/jca
+
+애월한담로
+	애월한담/ncn+로/jca
+
+가려는데
+	가/px+려는/etm+데/nbn
+
+어디서
+	어디/npd+서/jca
+
+하차하면
+	하차/ncpa+하/xsva+면/ecs
+
+되는지
+	되/pvg+는지/ecs
+
+여쭈어
+	여쭈/pvg+어/ecx
+
+보고
+	보고/ncn
+
+
+한담동(한담로)에서
+	한담동(한담로)/ncn+에서/jca
+
+하차
+	하차/ncn
+
+했어요
+	하/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+하차해서
+	하차/ncn+해서/ncn
+
+바로
+	바로/mag
+
+이
+	이/mmd
+
+사잇길로
+	사잇길/ncn+로/jca
+
+접어
+	접/pvg+어/ecx
+
+들어
+	들/pvg+어/ecx
+
+가다가
+	가/pvg+아/ecx+가/px+아/ecx
+
+콘도
+	콘/ncn+도/jxc
+
+건물
+	건물/ncn
+
+지나
+	지/nbn+이/jp+나/ecs
+
+바다가
+	바/nbn+이/jp+다가/ecs
+
+보이는
+	보이/pvg+는/etm
+
+길에서
+	길/nbu+에서/jca
+
+
+왼쪽으로
+	왼쪽/ncn+으로/jca
+
+꺽어
+	꺽/pvg+어/ecx
+
+한담해안길
+	한담해안길/ncn
+
+따라가면
+	따르/pvg+아/ecx+가/px+면/ecs
+
+곽지해수욕장이
+	곽지해수욕장/ncn+이/jcc
+
+나와요
+	나/pvg+아/ecx+오/px+아/ef+요/jxf
+
+...
+	.../se
+
+
+바다를
+	바다/ncn+를/jco
+
+바로
+	바로/mag
+
+접하고
+	접하/pvg+고/ecc
+
+걸을
+	걸/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+한담해안산책로라지만
+	한담해안산책로라/ncn+이/jp+지만/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+포장이
+	포장/ncpa+이/jcc
+
+되어있어
+	되/pvg+어/ecx+있/px+어/ecx
+
+걷기
+	걷/pvg+기/etn
+
+편안하고
+	편안/ncps+하고/jcj
+
+
+자전거로
+	자전거/ncn+로/jca
+
+하이킹을
+	하이킹/ncpa+을/jco
+
+즐기기도
+	즐기/pvg+기/etn+도/jxc
+
+좋아요
+	좋/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+얼마만에
+	얼마/ncn+만/ncn+에/jca
+
+들어보는
+	들/pvg+어/ecx+보/px+는/etm
+
+파도소리인지
+	파도소리/ncn+이/jp+ㄴ지/ecs
+
+정말
+	정말/mag
+
+반갑고
+	반갑/paa+고/ecc
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+들려
+	들/pvg+려/ecs
+
+
+파도가
+	파도/ncn+가/jcs
+
+세게
+	세/nnc+이/jp+게/ecs
+
+철썩이는
+	철썩/mag+이는/jxc
+
+바다가
+	바/nbn+이/jp+다가/ecs
+
+참
+	참/mag
+
+좋았어요
+	좋/paa+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+바람에
+	바라/pvg+ㅁ/etn+에/jca
+
+하얗게
+	하얗/paa+게/ecs
+
+부셔지며
+	불/pvg+시/ep+어/ecx+지/px+며/ecc
+
+날아들
+	날아들/pvg+ㄹ/etm
+
+듯
+	듯/nbn
+
+다가오는
+	다가오/pvg+는/etm
+
+파도가
+	파도/ncn+가/jcs
+
+너무나
+	너무나/mag
+
+아름답고
+	아름답/paa+고/ecc
+
+싱그럽게
+	싱그럽/paa+게/ecs
+
+느껴졌던
+	느끼/pvg+어/ecx+지/px+었/ep+던/etm
+
+오후였어요
+	오후/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+철썩~~~~촤
+	철썩~~~~촤/ncn
+
+쏴솨솨~~~철퍽~
+	쏴솨솨~~~철퍽/ncn+~/sd
+
+
+지금도
+	지금/ncn+도/jxc
+
+귓가에서
+	귓가/ncn+에서/jca
+
+파도소리가
+	파도소리/ncn+가/jcs
+
+들리는
+	들리/pvg+는/etm
+
+듯
+	듯/nbn
+
+하네요
+	하/px+네/ef+요/jxf
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+에메럴드빛
+	에메럴드빛/ncn
+
+바다에
+	바다/ncn+에/jca
+
+흰파도가
+	흰파도/ncn+가/jcs
+
+있어
+	있/px+어/ecx
+
+더
+	더/mag
+
+아름답게
+	아름답/paa+게/ecs
+
+보이지
+	보이/pvg+지/ecx
+
+않나요
+	않/px+나/ef+요/jxf
+
+??
+	?/sf+?/sf
+
+
+에머럴드빛
+	에머럴드빛/ncn
+
+바다,
+	바/nbn+이/jp+다/ef+,/sp
+
+흰파도
+	흰파/ncn+도/jxc
+
+그리고
+	그리고/maj
+
+검은바위와
+	검/paa+은/etm+바/nbn+위/xsnx+와/jcj
+
+돌들의
+	돌/pvg+ㄹ/etm+들/nbn+의/jcm
+
+조화는
+	조화/ncn+는/jxc
+
+정말이지
+	정말/ncn+이/jp+지/ecs
+
+가슴을
+	가슴/ncn+을/jco
+
+설레이게
+	설레이/pvg+게/ecs
+
+해서
+	하/pvg+어서/ecs
+
+
+그냥
+	그냥/mag
+
+못
+	못/mag
+
+지나가고
+	지나/pvg+아/ecx+가/px+고/ecc
+
+한참
+	한참/mag
+
+서서
+	서/pvg+어서/ecs
+
+머물게
+	머물/pvg+게/ecs
+
+한다지요
+	한다지요/ncn
+
+...
+	.../se
+
+
+봄바람에
+	봄바람/ncn+에/jca
+
+살랑이는
+	살/nbu+랑/jca+이/jp+는/etm
+
+마음이
+	마음/ncn+이/jcc
+
+이곳에서
+	이곳/npd+에서/jca
+
+부풀었다
+	부풀/pvg+었/ep+다/ef
+
+가라앉았다
+	가라앉/pvg+아/ep+다/ef
+
+파도가
+	파도/ncn+가/jcs
+
+출렁이는
+	출렁이/pvg+는/etm
+
+깊이
+	깊이/ncn
+
+만큼
+	만큼/nbn
+
+울렁
+	울렁/ncn
+
+거렸어요
+	것/nbn+이/jp+리/ep+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+봄은여자의
+	봄은여자/ncn+의/jcm
+
+계절이라는데
+	계절/ncn+이/jp+라는데/ecs
+
+저도
+	저/npp+도/jxc
+
+아직은
+	아직/mag+은/jxc
+
+봄이
+	보/px+ㅁ/etn+이/jcs
+
+가슴
+	가슴/ncn
+
+울렁거릴
+	울렁거리/pvg+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+설레이고
+	설레이/pvg+고/ecc
+
+좋아요
+	좋/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+이길을
+	이/nnc+길/nbu+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+쭉~~걸어가야
+	쭉~~걸어가야/ncn
+
+곽지해수욕장이
+	곽지해수욕장/ncn+이/jcc
+
+나오지만
+	나오/pvg+지만/ecs
+
+
+금강산도
+	금강/ncn+산/ncn+도/jxc
+
+식후경이라고
+	식후/ncn+경이/ncn+이/jp+라/ef+고/jcr
+
+아무리
+	아무리/mag
+
+가슴
+	가슴/ncn
+
+설레이고
+	설레이/pvg+고/ecc
+
+울렁거린다
+	울렁거리/pvg+ㄴ다/ef
+
+해도
+	하/pvg+어도/ecs
+
+밥
+	밥/ncn
+
+때를
+	때/ncn+를/jco
+
+그냥
+	그냥/mag
+
+지나칠
+	지나치/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있나요
+	있/px+나/ef+요/jxf
+
+??!!
+	?/sf+?/sf+!/sf+!/sf
+
+
+그것도
+	그것/npd+도/jxc
+
+제주도
+	제주/ncn+도/jxc
+
+도착해서
+	도착/ncpa+하/xsva+어서/ecs
+
+먹는
+	먹/pvg+는/etm
+
+첫끼니인데
+	첫끼니/ncn+이/jp+ㄴ데/ecs
+
+맛나게
+	맛나/paa+게/ecs
+
+잘
+	잘/mag
+
+챙겨
+	챙기/pvg+어/ecx
+
+먹어야지요
+	먹/pvg+어야지/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+일단
+	일/nnc+단/nbu
+
+키친애월로
+	키친애월/ncn+로/jca
+
+가서
+	가/pvg+서/ecs
+
+점심을
+	점심/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+애월
+	애월/ncn
+
+한담해안산책로
+	한담해안산책/ncn+로/jca
+
+거닐어
+	거닐/pvg+어/ecx
+
+주기로
+	주/px+기/etn+로/jca
+
+했어요
+	하/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+계단을
+	계단/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+올라와서
+	오르/pvg+아/ecx+오/px+아/ecx
+
+본
+	보/px+ㄴ/etm
+
+바다는
+	바다/ncn+는/jxc
+
+더
+	더/mag
+
+아름답고
+	아름답/paa+고/ecc
+
+멋져서
+	멋지/paa+어서/ecs
+
+빨리
+	빨리/mag
+
+거닐고
+	거닐/pvg+고/ecc
+
+싶어지던
+	싶/px+어/ecx+지/px+던/etm
+
+애월
+	애월/ncn
+
+한담해안산책로
+	한담해안산책/ncn+로/jca
+
+이네요
+	이/npd+이/jp+네/ef+요/jxf
+
+.
+	./sf
+
+
+철썩~~~촤솨솨~~~
+	철썩~~~촤솨솨/ncn+~/sd+~/sd+~/sd
+
+
+파도가
+	파도/ncn+가/jcs
+
+더
+	더/mag
+
+요란하게
+	요란/ncps+하/xsms+게/ecs
+
+다가오는
+	다가오/pvg+는/etm
+
+소리에
+	소리/ncn+에/jca
+
+점심이나
+	점심/ncn+이나/jcj
+
+제대로
+	제대로/mag
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있으려나
+	있/px+으려/ecx+나/px+아/ecx
+
+모르겠지만
+	모르/pvg+겠/ep+지만/ecs
+
+
+식탐가의
+	식탐가/ncn+의/jcm
+
+설레임을
+	설레이/pvg+ㅁ/etn+을/jco
+
+잠재울
+	잠재우/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+건
+	거/nbn+은/jxc
+
+따스한
+	따스/ncps+하/xsms+ㄴ/etm
+
+차
+	차/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+잔과
+	잔/nbu+과/jct
+
+맛난
+	맛나/paa+ㄴ/etm
+
+식사였어요
+	식사/ncpa+이/jp+었/ep+어/ef+요/jxf
+
+...
+	.../se
+
+
+이렇게
+	이렇/pad+게/ecs
+
+아름다운
+	아름답/paa+은/etm
+
+바다를
+	바다/ncn+를/jco
+
+앞에두고
+	앞에두/ncn+이/jp+고/ecc
+
+어찌
+	어찌/mag
+
+밥이
+	밥/ncn+이/jcc
+
+넘어갈까
+	넘/pvg+어/ecx+가/px+ㄹ까/ecs
+
+했는데
+	하/pvg+었/ep+는데/ecs
+
+
+식사
+	식사/ncpa
+
+주문
+	주문/ncn
+
+후
+	후/ncn
+
+바로
+	바로/mag
+
+배에서
+	배/ncn+에서/jca
+
+꼬로록
+	꼬로록/ncn
+
+밥
+	밥/ncn
+
+달라고
+	다르/paa+아/ef+고/jcr
+
+애원하던
+	애원/ncpa+하/xsva+던/etm
+
+소리와
+	소리/ncn+와/jct
+
+함께
+	함께/mag
+
+
+파도소리는
+	파도소리/ncn+는/jxc
+
+까맣게
+	까맣/paa+게/ecs
+
+잊고
+	잊/pvg+고/ecc
+
+맛나게
+	맛나/paa+게/ecs
+
+식사를
+	식사/ncpa+를/jco
+
+하고
+	하/pvg+고/ecc
+
+커피
+	커피/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+잔
+	잔/nbu
+
+마신
+	마시/pvg+ㄴ/etm
+
+후,
+	후/ii+,/sp
+
+
+다시
+	다시/mag
+
+애월
+	애월/ncn
+
+한담해안산책로
+	한담해안산책/ncn+로/jca
+
+거닐어
+	거닐/pvg+어/ecx
+
+주었다지요
+	주었다/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+제주도의
+	제주/ncn+도/ncn+의/jcm
+
+숨은비경지
+	숨은비경지/ncn
+
+애월
+	애월/ncn
+
+한담해안산책로
+	한담해안산책/ncn+로/jca
+
+곧
+	곧/maj
+
+거닐어
+	거닐/pvg+어/ecx
+
+줄께요
+	주/px+ㄹ께/ef+요/jxf
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+3월
+	3/nnc+월/nbu
+
+24일
+	24/nnc+일/nbu
+
+네이버
+	네이버/ncn
+
+국내여행
+	국내여행/ncn
+
+TOP
+	TOP/f
+
+에
+	에/pvg+어/ecx
+
+소개
+	소개/ncpa
+
+되었어요
+	되/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf

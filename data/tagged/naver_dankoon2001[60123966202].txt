@@ -1,0 +1,190 @@
+장수
+	장수/ncpa
+
+원흥사
+	원흥사/ncn
+
+(
+	(/sl
+
+)
+	)/sr
+
+
+전라북도
+	전라/ncn+북/ncn+도/jxc
+
+장수군
+	장수/ncpa+이/jp+군/ef
+
+산서면
+	산/ncn+서/jca+이/jp+면/ecs
+
+마하리
+	마하/ncn+이/jp+리/ef
+
+팔공산(
+	팔공산(/ncn
+
+)에
+	)/sr+에/jca
+
+있는
+	있/px+는/etm
+
+한국불교
+	한국불교/ncn
+
+태고종
+	태고종/ncn
+
+사찰
+	사찰/ncn
+
+.
+	./sf
+
+
+원흥사미륵보전(
+	원흥사미륵보전(/ncn
+
+)
+	)/sr
+
+
+정면
+	정면/ncn
+
+3칸에
+	3/nnc+칸/nbu+에/jca
+
+측면
+	측면/ncn
+
+3칸이고
+	3/nnc+칸/nbu+이/jp+고/ecc
+
+겹처마에
+	겹처마/ncn+에/jca
+
+팔작지붕으로
+	팔작지붕/ncn+으로/jca
+
+지은
+	지/px+ㄴ/etm
+
+목조
+	목조/ncpa
+
+기와집으로
+	기와집/ncn+으로/jca
+
+.
+	./sf
+
+
+전각은
+	전각/ncn+은/jxc
+
+원형
+	원형/ncn
+
+주초
+	주초/ncn
+
+위에
+	위/ncn+에/jca
+
+민흘림
+	민흘림/ncn
+
+원형기둥을
+	원형기둥/ncn+을/jco
+
+세우고
+	세우/pvg+고/ecc
+
+다포형식이며
+	다포형식/ncn+이/jp+며/ecc
+
+.
+	./sf
+
+
+내부는
+	내부/ncn+는/jxc
+
+연화기둥이다
+	연화기둥/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+천장은
+	천/nnc+장/nbu+은/jxc
+
+우물반자이고
+	우물/ncn+반자이/ncn+이/jp+고/ecc
+
+바닥은
+	바닥/ncn+은/jxc
+
+쪽마루이다
+	쪽마루/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+벽화로는외부의
+	벽화로는외부/ncn+의/jcm
+
+불벽에는
+	불벽/ncn+에/jca+는/jxc
+
+미륵불의
+	미륵불/ncn+의/jcm
+
+전각
+	전각/ncn
+
+중수내용을
+	중수/ncn+내용/ncn+을/jco
+
+그리고
+	그리고/maj
+
+있고
+	있/px+고/ecc
+
+.
+	./sf
+
+
+내부에는
+	내부/ncn+에/jca+는/jxc
+
+신중탱이
+	신중탱/ncn+이/jcc
+
+모셔져
+	모시/pvg+어/ecx+지/px+어/ecx
+
+있고,
+	있/px+고/ecc+,/sp
+
+벽에는
+	벽/ncn+에/jca+는/jxc
+
+화훼도를
+	화훼/ncn+도/ncn+를/jco
+
+그려져
+	그리/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf

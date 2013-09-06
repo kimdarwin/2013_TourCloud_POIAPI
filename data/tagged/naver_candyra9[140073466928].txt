@@ -1,0 +1,787 @@
+파아란
+	파아란/ncn
+
+바다와
+	바다/ncn+와/jcj
+
+쌍둥이
+	쌍둥이/ncn
+
+처럼
+	처럼/ncn
+
+닮은
+	닮/pvg+은/etm
+
+파아란
+	파아란/ncn
+
+하늘~~~
+	하늘/ncn+~/sd+~/sd+~/sd
+
+
+그들이
+	그/npp+들/xsn+이/jcs
+
+맞닿아
+	맞닿/pvg+아/ecx
+
+있는
+	있/px+는/etm
+
+동해안으로
+	동해/ncn+안/ncn+으로/jca
+
+잠시
+	잠시/mag
+
+여행을
+	여행/ncpa+을/jco
+
+다녀왔어요
+	다니/pvg+어/ecx+오/px+아/ep+아/ef+요/jxf
+
+...
+	.../se
+
+
+아는동생이
+	아는동생/ncn+이/jcc
+
+가을에
+	가을/ncn+에/jca
+
+신부가
+	신부/ncr+가/jcc
+
+되기에
+	되/pvg+기/etn+에/jca
+
+축하해주려고
+	축하/ncpa+하/xsva+어/ecx+주/px+려고/ecs
+
+그녀와
+	그녀/npp+와/jct
+
+둘이서
+	둘/nnc+이/nnc+서/jca
+
+다녀
+	다니/pvg+어/ecx
+
+온
+	오/px+ㄴ/etm
+
+여행이였어요
+	여행/ncpa+이/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+가는
+	가/pvg+는/etm
+
+날
+	나/px+ㄹ/etm
+
+아침에
+	아침/ncn+에/jca
+
+비가
+	비/ncn+가/jcs
+
+조금
+	조금/mag
+
+내려
+	내리/pvg+어/ecx
+
+걱정
+	걱정/ncpa
+
+했으나
+	하/px+었/ep+으나/ecs
+
+곧
+	곧/maj
+
+그치더라구요
+	그치/pvg+더라구/ef+요/jxf
+
+...
+	.../se
+
+
+강원도
+	강원/ncn+도/jxc
+
+양양에
+	양양/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+쏠비치로
+	쏠비치/ncn+로/jca
+
+가서
+	가/pvg+서/ecs
+
+바로
+	바로/mag
+
+눈
+	눈/ncn
+
+앞에
+	앞/ncn+에/jca
+
+펼쳐진
+	펼치/pvg+어/ecx+지/px+ㄴ/etm
+
+바다에
+	바다/ncn+에/jca
+
+
+탄성을
+	탄성/ncn+을/jco
+
+지르며
+	지르/pvg+며/ecc
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+발까지
+	발/ncn+까지/jxc
+
+...
+	.../se
+
+??!!..
+	?/sf+?/sf+!/sf+!/sf+./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+...
+	.../se
+
+
+수영은
+	수영/ncn+은/jxc
+
+못하고
+	못하/px+고/ecc
+
+무릎까지만
+	무릎/ncn+까지/jxc+만/jxc
+
+담그고
+	담그/pvg+고/ecc
+
+왔어요
+	오/px+아/ep+아/ef+요/jxf
+
+...
+	.../se
+
+
+수영은
+	수영/ncn+은/jxc
+
+못하고
+	못하/px+고/ecc
+
+깊은
+	깊/paa+은/etm
+
+물을
+	물/ncn+을/jco
+
+무서워해요
+	무섭/paa+어/ecx+하/px+어/ef+요/jxf
+
+....
+	.../se+./sf
+
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+발만
+	발/ncn+만/jxc
+
+담그고
+	담그/pvg+고/ecc
+
+와도
+	오/px+아/ecs+도/jxc
+
+.....
+	.../se+./sf+./sf
+
+
+바라만
+	바라/pvg+아/ecx+말/px+ㄴ/etm
+
+보고
+	보/px+고/ecc
+
+와도
+	오/px+아/ecs
+
+어찌나
+	어찌/mag+나/jxc
+
+좋았는지
+	좋/paa+아/ep+는지/ecs
+
+몰라요
+	모르/pvg+아/ef+요/jxf
+
+....
+	.../se+./sf
+
+
+목요일에
+	목요일/ncn+에/jca
+
+많은
+	많/paa+은/etm
+
+비가
+	비/ncn+가/jcs
+
+온다고
+	오/px+ㄴ다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+수요일
+	수요일/ncn
+
+저녁에
+	저녁/ncn+에/jca
+
+돌아
+	돌/pvg+아/ecx
+
+왔으나
+	오/pvg+아/ep+나/ecc
+
+
+비가
+	비/ncn+가/jcs
+
+엄청
+	엄청/mag
+
+오던
+	오/px+던/etm
+
+어제는아는
+	어제는아/ncn+는/jxc
+
+동생얼굴
+	동생/ncn+얼굴/ncn
+
+보고
+	보/px+고/ecc
+
+[클레오파트라]
+	[클레오파트라]/ncn
+
+뮤지컬
+	뮤지컬/ncn
+
+공연
+	공연/ncpa
+
+보고
+	보/px+고/ecc
+
+밤
+	밤/ncn
+
+늦게
+	늦/paa+게/ecs
+
+들어
+	들/pvg+어/ecx
+
+와
+	와/ii
+
+
+또
+	또/maj
+
+바로
+	바로/mag
+
+수면을
+	수면/ncn+을/jco
+
+취하고
+	취하/pvg+고/ecc
+
+.....
+	./sy+.../se+./sy
+
+...
+	.../se
+
+
+여행이야기를
+	여행/ncpa+이야기/ncpa+를/jco
+
+못
+	못/mag
+
+했어요
+	하/px+었/ep+어/ef+요/jxf
+
+...
+	.../se
+
+
+비가
+	비/ncn+가/jcs
+
+그친
+	그치/pvg+ㄴ/etm
+
+오늘은
+	오늘/ncn+은/jxc
+
+햇님이
+	햇님/ncn+이/jcc
+
+반짝
+	반짝/mag
+
+나왔을
+	나/pvg+아/ecx+오/px+아/ep+ㄹ/etm
+
+때
+	때/ncn
+
+세탁물
+	세탁물/ncn
+
+건조하느라
+	건조/ncpa+하/xsva+느라/ecs
+
+오전내내
+	오전/ncn+내/ncn+내/xsncc
+
+세탁기
+	세탁기/ncn
+
+돌리고
+	돌리/ncn+고/jcj
+
+
+오후에는요즘
+	오후에는요즘/ncn
+
+세일기간이라
+	세일/ncpa+기간/ncn+이/jp+라/ecs
+
+100원도
+	100/nnc+원/nbu+도/jxc
+
+아끼려는
+	아끼/pvg+려는/etm
+
+주부
+	주부/ncn
+
+건성이
+	건성/ncn+이/jcc
+
+발동하여
+	발동/ncpa+하/xsva+어/ecs
+
+
+냉장고
+	냉장고/ncn
+
+채우느라
+	채우/pvg+느라/ecs
+
+장
+	장/nbu
+
+보기
+	보/px+기/etn
+
+바빴다지요
+	바빴다/ncn+이/jp+지/ef+요/jxf
+
+....
+	.../se+./sf
+
+
+그러다보니
+	그르/paa+어다/ecx+보/px+니/ef
+
+
+가슴
+	가슴/ncn
+
+한켠에
+	하/pvg+ㄴ/etm+켠/nbn+에/jca
+
+담아
+	담/pvg+아/ecx
+
+온
+	오/px+ㄴ/etm
+
+파아란
+	파아란/ncn
+
+바다이야기가
+	바다/ncn+이야기/ncpa+가/jcc
+
+점점
+	점점/mag
+
+묻혀들고
+	묻혀들고/ncn
+
+있지
+	있/px+지/ecx
+
+뭐예요
+	뭐/npd+이/jp+예요/ef
+
+....
+	.../se+./sf
+
+
+아,
+	아/ii+,/sp
+
+나이가
+	나이/ncn+가/jcs
+
+든다는게
+	든다는/ncn+게/jca
+
+이런건가
+	이런건/ncn+가/jcs
+
+??.....
+	?/sf+?/sf+.../se+./sf+./sf
+
+
+바다이야기를
+	바다/ncn+이야기/ncpa+를/jco
+
+늘어
+	늘/pvg+어/ecx
+
+놓으며
+	놓/px+으며/ecc
+
+커피
+	커피/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+잔
+	잔/nbu
+
+하지
+	하/pvg+지/ecx
+
+못
+	못/mag
+
+했는데
+	하/pvg+었/ep+는데/ecs
+
+
+벌서
+	벌/nbu+서/jca
+
+이틀이나
+	이틀/ncn+이나/jcj
+
+흘러가고
+	흐르/pvg+어/ecx+가/px+고/ecc
+
+있다니
+	있/px+다니/ecs
+
+...
+	.../se
+
+
+아주
+	아주/mag
+
+잠깐
+	잠깐/mag
+
+남편과
+	남편/ncn+과/jcj
+
+바다이야기가
+	바다/ncn+이야기/ncpa+가/jcc
+
+오가긴
+	오가긴/ncn
+
+했으나
+	하/pvg+었/ep+으나/ecc
+
+
+남편이
+	남편/ncn+이/jcc
+
+저를
+	저/npp+를/jco
+
+너무
+	너무/mag
+
+훤히
+	훤히/mag
+
+알고
+	알/pvg+고/ecx
+
+있어서
+	있/px+어서/ecs
+
+큰
+	크/paa+ㄴ/etm
+
+흥미
+	흥미/ncn
+
+없이
+	없이/mag
+
+그냥
+	그냥/mag
+
+물어
+	묻/pvg+어/ecx
+
+보는
+	보/px+는/etm
+
+정도였어요
+	정도/ncn+이/jp+었/ep+어/ef+요/jxf
+
+...
+	.../se
+
+
+조개껍질
+	조개껍질/ncn
+
+주워
+	줍/pvg+어/ecx
+
+왔겠네
+	오/px+아/ep+네/ef
+
+??.....
+	?/sf+?/sf+.../se+./sf+./sf
+
+
+수영은
+	수영/ncn+은/jxc
+
+못
+	못/mag
+
+했을테고
+	했을테/ncn+이/jp+고/ecc
+
+??.....
+	?/sf+?/sf+.../se+./sf+./sy
+
+.
+	./sf
+
+
+라는
+	라/ncn+는/jxc
+
+.....
+	./sy+.../se+./sy
+
+.....
+	./sy+.../se+./sy
+
+.
+	./sf
+
+
+전
+	전/nbn
+
+대답만
+	대답/ncpa+만/jxc
+
+하기
+	하/pvg+기/etn
+
+바빴어요
+	바쁘/paa+아/ep+아/ef+요/jxf
+
+...
+	.../se
+
+
+;;
+	;/sy+;/sy
+
+
+뭔가
+	뭔가/ncn
+
+할
+	하/pvg+ㄹ/etm
+
+이야기가
+	이야기/ncpa+가/jcc
+
+많았는데,
+	많/paa+아/ep+ㄴ데/ecs+,/sp
+
+대답만
+	대답/ncpa+만/jxc
+
+하게
+	하/pvg+게/ecs
+
+되다니
+	되/pvg+다니/ecs
+
+.....
+	.../se+./sf+./sf
+
+
+못다한
+	못다한/ncn
+
+바다이야기와아름다운
+	바다이야기와아름다운/ncn
+
+쏠비치
+	쏠비치/ncn
+
+이야기
+	이야기/ncpa
+
+블로그님들께
+	블로그님들께/ncn
+
+잔뜩
+	잔뜩/mag
+
+들려드리고
+	들리/pvg+어/ecx+드리/px+고/ecc
+
+싶어요
+	싶/px+어/ef+요/jxf
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+정리가
+	정리/ncn+가/jcs
+
+되는
+	되/pvg+는/etm
+
+주말에사진(그림)일기로
+	주말에사진(그림)일기/ncn+로/jca
+
+바다이야기
+	바다/ncn+이야기/ncpa
+
+들려드릴께요
+	들리/pvg+어/ecx+드리/px+ㄹ께/ef+요/jxf
+
+....
+	.../se+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+여름휴가
+	여름/ncn+휴가/ncn
+
+계획들
+	계획/ncpa+들/ncn
+
+잘
+	잘/mag
+
+잡아서
+	잡/pvg+어서/ecs
+
+즐거운
+	즐겁/paa+은/etm
+
+여행
+	여행/ncpa
+
+하세요
+	하/px+세/ef+요/jxf
+
+.....
+	./sy+.../se+./sy
+
+..
+	./sf+./sf
+
+
+저도
+	저/npp+도/jxc
+
+올
+	오/px+ㄹ/etm
+
+여름휴가가
+	여름/ncn+휴가/ncn+가/jcs
+
+아주
+	아주/mag
+
+기대
+	기대/ncpa
+
+되네요
+	되/pvg+네/ef+요/jxf
+
+....
+	.../se+./sf
+
+
+^^
+	^/sy+^/sy

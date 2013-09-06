@@ -1,0 +1,2489 @@
+[세종시여행/연기군여행]
+	[세종시여행/연기군여행]/ncn
+
+아기반달곰과
+	아기/ncn+반달곰/ncn+과/jcj
+
+성인반달곰의
+	성인/ncn+반달곰/ncn+의/jcm
+
+매력
+	매력/ncn
+
+대결
+	대결/ncpa
+
+...
+	.../se
+
+
+승자는
+	승자/ncn+는/jxc
+
+?...
+	?/sf+.../se
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+
+천안
+	천/nnc+안/xsnx
+
+가볼만한곳
+	가볼만한곳/ncn
+
+/
+	//sp
+
+천안
+	천/nnc+안/xsnx
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+/
+	//sp
+
+반달곰
+	반달곰/ncn
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+NEX-C3
+	NEX-C3/ncn
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+썬
+	썰/pvg+ㄴ/etm
+
+샤인~
+	샤인~/ncn
+
+유후~
+	유후~/ncn
+
+!!
+	!/sf+!/sf
+
+
+날씨도
+	날씨/ncn+도/jxc
+
+좋고
+	좋/paa+고/ecc
+
+놀러가기
+	놀러가/ncn+이/jp+기/etn
+
+좋은
+	좋/paa+은/etm
+
+날
+	나/px+ㄹ/etm
+
+인거죠~
+	인거죠~/ncn
+
+?
+	?/sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+거죠
+	거/ncn+이/jp+죠/ef
+
+?
+	?/sf
+
+
+현이
+	현/ncn+이/jcc
+
+오늘은
+	오늘/ncn+은/jxc
+
+어디
+	어디/mad
+
+갈까
+	가/px+ㄹ까/ecs
+
+고민
+	고민/ncpa
+
+중인데요
+	중인데요/ncn
+
+.
+	./sf
+
+
+고민고민하지마~
+	고민/ncpa+고민/ncpa+하/xsva+어/ecx+지/px+마/ef+~/sd
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+머릿속에
+	머릿속/ncn+에/jca
+
+스쳐지나가는
+	스쳐지나가/ncn+는/jxc
+
+동물이
+	동물/ncn+이/jcc
+
+있었는데요
+	있/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+아기
+	아기/ncn
+
+곰부터
+	곰/ncn+부터/jxc
+
+큰곰까지
+	큰곰/ncn+까지/jxc
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+베어트리파크에
+	베어/ncn+트리/ncn+파크/ncn+에/jca
+
+가기로
+	가/px+기/etn+로/jca
+
+결정했답니다
+	결정/ncpa+하/xsva+었/ep+답니다/ef
+
+.
+	./sf
+
+
+150여
+	150/nnc+여/xsnu
+
+마리의
+	마리/nbu+의/jcm
+
+반달곰을
+	반달곰/ncn+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+곳에서
+	곳/ncn+에서/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+국내에서
+	국내/ncn+에서/jca
+
+유일한
+	유일한/mag
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+한데요
+	한데/ncn+요/ncn
+
+.
+	./sf
+
+
+현이와
+	현/ncn+이와/jca
+
+함께
+	함께/mag
+
+반달곰
+	반달곰/ncn
+
+만나보러
+	만나/pvg+아/ecx+보/px+러/ecs
+
+가보실까요
+	가/pvg+아/ecx+보/px+시/ep+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+후비고옹~
+	후비고옹/ncn+~/sd
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+NEX-C3
+	NEX-C3/ncn
+
+
+제일
+	제일/mag
+
+먼저
+	먼저/mag
+
+소개해
+	소개/ncpa+하/xsva+어/ecx
+
+드릴
+	드리/pvg+ㄹ/etm
+
+아기
+	아기/ncn
+
+곰.
+	곰/ncn+./sf
+
+
+아고~
+	아고~/ncn
+
+!!
+	!/sf+!/sf
+
+
+누가
+	누구/npp+가/jcs
+
+반달곰
+	반달곰/ncn
+
+아니랄까봐
+	아니랄까봐/ncn
+
+반달이
+	반달/ncn+이/jcc
+
+새겨져있고
+	새기/pvg+어/ecx+지/px+어/ecx+있/px+고/ecc
+
+
+얼굴을
+	얼굴/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+아직
+	아직/mag
+
+곰인가
+	곰/ncn+이/jp+ㄴ가/ef
+
+...
+	.../se
+
+
+코알라인가
+	코알라인가/ncn
+
+...
+	.../se
+
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+자라면
+	자/nbn+이/jp+라면/ecs
+
+건강하고
+	건강/ncps+하고/jct
+
+튼튼하게
+	튼튼/ncps+하/xsms+게/ecs
+
+자라겠죠
+	자라/pvg+겠/ep+죠/ef
+
+.
+	./sf
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+NEX-C3
+	NEX-C3/ncn
+
+
+으라차차~~
+	으라차차~~/ncn
+
+!!
+	!/sf+!/sf
+
+
+저
+	저/mmd
+
+보세요
+	보/px+세/ef+요/jxf
+
+!!
+	!/sf+!/sf
+
+
+아직
+	아직/mag
+
+어리지만
+	어리/paa+지/ecx+말/px+ㄴ/etm
+
+고개를
+	고개/ncn+를/jco
+
+요렇게
+	요렇/pad+게/ecs
+
+뒤로
+	뒤/ncn+로/jca
+
+젖힐
+	젖히/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+좌우로도
+	좌우/ncpa+로/jca+도/jxc
+
+왔다갔다
+	왔다갔다/mag
+
+목
+	목/ncn
+
+힘을
+	힘/ncn+을/jco
+
+길러야겠죠
+	기르/pvg+어야겠/ep+죠/ef
+
+.
+	./sf
+
+
+하나,
+	하나/nnc+,/sp
+
+둘~@@
+	둘/nnc+~/sd+@/sy+@/sy
+
+하나,
+	하나/nnc+,/sp
+
+둘~@@
+	둘/nnc+~/sd+@/sy+@/sy
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+a550
+	a550/ncn
+
+
+요
+	요/mmd
+
+녀석은
+	녀석/nbn+은/jxc
+
+방금
+	방금/mag
+
+전
+	전/nbn
+
+아기
+	아기/ncn
+
+곰에서
+	곰/ncn+에서/jca
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+큰
+	크/paa+ㄴ/etm
+
+아기
+	아기/ncn
+
+곰.
+	곰/ncn+./sf
+
+
+저
+	저/mmd
+
+보시는
+	보/px+시/ep+는/etm
+
+거예요
+	거예요/ncn
+
+?
+	?/sf
+
+
+쑥쓰럽게~
+	쑥쓰럽게~/ncn
+
+^^
+	^/sy+^/sy
+
+v
+	v/f
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+NEX-C3
+	NEX-C3/ncn
+
+
+오~
+	오/ii+~/sd
+
+!!
+	!/sf+!/sf
+
+
+요
+	요/mmd
+
+자리
+	자리/ncn
+
+좋겠당~
+	좋겠당/ncn+~/sd
+
+
+영차영차
+	영차영차/ncn
+
+!!
+	!/sf+!/sf
+
+
+헛둘,
+	헛둘,/ncn
+
+헛둘
+	헛둘/ncn
+
+
+저기로
+	저/npp+이/jp+기/etn+로/jca
+
+올라가야해
+	오르/pvg+아/ecx+가/px+아/ecx+하/px+어/ecx
+
+...
+	.../se
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+NEX-C3
+	NEX-C3/ncn
+
+
+여기가
+	여기/npd+가/jcc
+
+지상낙원
+	지상낙원/ncn
+
+
+햇살도
+	햇살/ncn+도/jxc
+
+따사롭고,,
+	따사/ncps+롭/xsmn+고/ecc+,/sp+,/sp
+
+
+요
+	요/mmd
+
+녀석
+	녀석/nbn
+
+벌써부터
+	벌써/mag+부터/jxc
+
+뭔가를
+	뭔가/ncn+를/jco
+
+아는
+	알/pvg+는/etm
+
+눈치인데요
+	눈치인데요/ncn
+
+.
+	./sf
+
+
+자리를
+	자리/ncn+를/jco
+
+딱
+	딱/mag
+
+잡고선
+	잡/pvg+고선/ecs
+
+손을
+	손/ncn+을/jco
+
+엇갈리게
+	엇갈리/pvg+게/ecs
+
+모으고
+	모으/pvg+고/ecc
+
+
+어때요~이
+	어떻/pad+어/ef+요/jxf+~/sd+이/nnc
+
+정도면
+	정도/ncn+이/jp+면/ecs
+
+잘
+	잘/mag
+
+나오겠죠
+	나/pvg+아/ecx+오/px+겠/ep+죠/ef
+
+.
+	./sf
+
+
+포즈까지
+	포즈/ncn+까지/jxc
+
+취해주는
+	취하/pvg+어/ecx+주/px+는/etm
+
+꽃매너곰
+	꽃매너곰/ncn
+
+...
+	.../se
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+a550
+	a550/ncn
+
+
+나
+	나/npp
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+나
+	나/npp
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+나
+	나/npp
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+여기
+	여기/mad
+
+돌에
+	돌/ncn+에/jca
+
+끼었또
+	끼었또/ncn
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+
+귀요미곰까지
+	귀요미곰까지/ncn
+
++_
+	+_/ncn
+
++;;;;
+	+/ncn+;/sy+;/sy+;/sy+;/sy
+
+
+아공~~
+	아공~~/ncn
+
+좀
+	좀/mag
+
+쉬어야겠다
+	쉬/pvg+어야겠/ep+다/ef
+
+.
+	./sf
+
+
+쳐다보지
+	쳐다보/pvg+지/ecx
+
+마요~
+	마요~/ncn
+
+!!
+	!/sf+!/sf
+
+
+쉬었다
+	쉬/pvg+었/ep+다/ef
+
+움직일
+	움직이/pvg+ㄹ/etm
+
+랑께
+	랑께/ncn
+
+...
+	.../se
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+a550
+	a550/ncn
+
+
+사랑은
+	사랑/ncn+은/jxc
+
+그대와
+	그대/npp+와/jct
+
+함께
+	함께/mag
+
+뽀뽀곰
+	뽀뽀/ncpa+곰/ncn
+
++_
+	+_/ncn
+
++
+	+/ncn
+
+19금
+	19금/ncn
+
+.....
+	.../se+./sf+./sf
+
+
+뽀뽀하고
+	뽀뽀/ncpa+하고/jct
+
+싶소~
+	싶소/ncn+~/sd
+
+
+아이티
+	아이/ncn+티/ncn
+
+좀
+	좀/mag
+
+벗었다고
+	벗/pvg+었/ep+다고/ecs
+
+
+벌써부터
+	벌써/mag+부터/jxc
+
+애정행각하면
+	애정/ncn+행각/ncpa+하/xsva+면/ecs
+
+못써
+	못쓰/pvg+어/ecx
+
+!!
+	!/sf+!/sf
+
+
+넘
+	널/pvg+ㅁ/etn
+
+빠른
+	빠르/paa+ㄴ/etm
+
+거
+	것/nbn
+
+아냐
+	알/pvg+냐/ef
+
+...
+	.../se
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+NEX-C3
+	NEX-C3/ncn
+
+
+엄마~~
+	엄마/ncn+~/sd+~/sd
+
+엄마~~
+	엄마/ncn+~/sd+~/sd
+
+
+나
+	나/npp
+
+올라오긴했는데
+	올라오긴했는데/ncn
+
+어떻게
+	어떻/pad+게/ecs
+
+내려가지
+	내리/pvg+어/ecx+가/px+지/ecx
+
+.
+	./sf
+
+
+_
+	_/ncn
+
+
+아기여도
+	아기/ncn+이/jp+어도/ecs
+
+맹수는
+	맹수/ncn+는/jxc
+
+맹수인가보네요
+	맹수/ncn+인가/ncpa+보/ncn+이/jp+네/ef+요/jxf
+
+.
+	./sf
+
+
+제법
+	제법/mag
+
+날카로운
+	날카롭/paa+은/etm
+
+이빨을
+	이빨/ncn+을/jco
+
+드러내고있네요
+	드러내/pvg+고/ecx+있/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+a550
+	a550/ncn
+
+
+섹시한
+	섹시/ncps+하/xsms+ㄴ/etm
+
+S라인을
+	S/f+라인/ncn+을/jco
+
+뽐내는
+	뽐내/pvg+는/etm
+
+아기곰님
+	아기/ncn+곰/ncn+님/xsncc
+
+....
+	.../se+./sf
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+a550
+	a550/ncn
+
+
+어째
+	어째/mag
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+불안불안한데요
+	불안/ncps+불안한데/ncn+요/ncn
+
+.
+	./sf
+
+
+난
+	나/px+ㄴ/etm
+
+내려올
+	내리/pvg+어/ecx+오/px+ㄹ/etm
+
+때마다
+	때/ncn+마다/jxc
+
+심장이
+	심장/ncn+이/jcc
+
+벌렁벌렁하더라
+	벌렁벌렁하더/ncn+이/jp+라/ef
+
+.
+	./sf
+
+
+조심~조심~
+	조심/ncpa+~/sd+조심/ncpa+~/sd
+
+
+내가
+	나/npp+가/jcs
+
+쫌만
+	쪼/pvg+ㅁ/etn+만/jxc
+
+더
+	더/mag
+
+컸어도
+	크/paa+었/ep+어도/ecs
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+건
+	거/nbn+은/jxc
+
+식은죽먹긴데
+	식은죽먹긴데/ncn
+
+
+얼른
+	얼른/mag
+
+커야지
+	크/paa+어야지/ef
+
+...
+	.../se
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+a550
+	a550/ncn
+
+
+장난을
+	장난/ncn+을/jco
+
+치기엔
+	치/pvg+기/etn+엔/jca
+
+너무
+	너무/mag
+
+이빨이
+	이빨/ncn+이/jcc
+
+날카로운
+	날카롭/paa+은/etm
+
+곰.
+	골/pvg+ㅁ/etn+./sy
+
+.....
+	.../se+./sf+./sf
+
+
+오랜
+	오랜/mma
+
+겨울잠에서
+	겨울/ncn+잠/ncn+에서/jca
+
+깨어난
+	깨/pvg+어/ecx+나/px+ㄴ/etm
+
+반달곰들이
+	반달곰/ncn+들/ncn+이/jcc
+
+온몸으로
+	온몸/ncn+으로/jca
+
+봄
+	보/px+ㅁ/etn
+
+햇살을
+	햇살/ncn+을/jco
+
+맞으며
+	맞/pvg+으며/ecc
+
+
+뛰어노는
+	뛰어노/ncn+는/jxc
+
+동화속
+	동화/ncn+속/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+장면을
+	장면/ncn+을/jco
+
+연출하는데요
+	연출/ncpa+하/xsva+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+성인이
+	성인/ncn+이/jcc
+
+된
+	되/pvg+ㄴ/etm
+
+곰들은
+	곰/ncn+들/xsncc+은/jxc
+
+뭐하고
+	뭐/npd+하고/jct
+
+있을까요
+	있/px+을까/ef+요/jxf
+
+.
+	./sf
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+NEX-C3
+	NEX-C3/ncn
+
+
+오늘의
+	오늘/ncn+의/jcm
+
+베스트샷
+	베스트/ncn+샷/ncn
+
+이
+	이/mmd
+
+녀석이
+	녀석/nbn+이/jcc
+
+최고인데요
+	최고인데요/ncn
+
+
+넙대데
+	넙대데/ncn
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+한
+	한/nnc
+
+것이
+	것/nbn+이/jcc
+
+쵝오
+	쵝오/ncn
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+
+배
+	배/pvg+어/ecx
+
+찬
+	차/pvg+ㄴ/etm
+
+바닥에
+	바닥/ncn+에/jca
+
+딱
+	딱/mag
+
+깔아주시고
+	깔/pvg+아/ecx+줄/px+시/ep+고/ecc
+
+
+보고만
+	보/pvg+고/ecx+말/px+ㄴ/etm
+
+있어도
+	있/px+어도/ecs
+
+편한
+	편하/paa+ㄴ/etm
+
+느낌
+	느낌/ncn
+
+
+.....
+	./sy+.../se+./sy
+
+.....
+	./sy+.../se+./sy
+
+.....
+	./sy+.../se+./sy
+
+.....
+	.../se+./sf+./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+잔다는
+	자/pvg+ㄴ다/ef+는/etm
+
+거.
+	거/ii+./sf
+
+..
+	./sf+./sf
+
+
+겨울이
+	겨울/ncn+이/jcc
+
+아닌데도
+	아니/paa+ㄴ데/ecs+도/jxc
+
+잔다는
+	자/pvg+ㄴ다/ef+는/etm
+
+거.
+	거/ii+./sf
+
+..
+	./sf+./sf
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+NEX-C3
+	NEX-C3/ncn
+
+
+자는
+	자/pvg+는/etm
+
+모습도
+	모습/ncn+도/jxc
+
+각양각색으로
+	각양각색/ncn+으로/jca
+
+포즈를
+	포즈/ncn+를/jco
+
+취해주는데요
+	취하/pvg+어/ecx+주/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+자고
+	자/nbn+이/jp+고/ecc
+
+있어도
+	있/px+어도/ecs
+
+반달곰인걸
+	반달곰/ncn+인걸/ncn
+
+단번에
+	단번/ncn+에/jca
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+나이스
+	나이스/ncn
+
+브이
+	브/ncn+이/jcc
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+
+이상하게
+	이상/ncps+하/xsms+게/ecs
+
+브이넥이
+	브이넥/ncn+이/jcc
+
+입고
+	입/pvg+고/ecc
+
+싶고
+	싶/px+고/ecc
+
+그러네요
+	그러/pvd+네/ef+요/jxf
+
+...
+	.../se
+
+
+자더라도
+	자/nbn+이/jp+더라도/ecs
+
+쫌
+	쪼/pvg+ㅁ/etn
+
+오므리고
+	오므리/pvg+고/ecc
+
+자자~
+	자자/ncps+~/sd
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+a550
+	a550/ncn
+
+
+왜
+	왜/mag
+
+이럴까요
+	이럴까요/ncn
+
+????
+	?/sf+?/sf+?/sf+?/sf
+
+
+도대체
+	도대체/mag
+
+왜
+	왜/mag
+
+???
+	?/sf+?/sf+?/sf
+
+
+보고만
+	보/pvg+고/ecx+말/px+ㄴ/etm
+
+있을
+	있/px+을/etm
+
+뿐인데
+	뿐/nbn+이/jp+ㄴ데/ecs
+
+....
+	.../se+./sf
+
+
+아
+	아/ii
+
+고개야
+	고개/ncn+이/jp+야/ef
+
+...
+	.../se
+
+
+요자세가
+	요자세/ncn+가/jcs
+
+편한가봐요
+	편한가봐요/ncn
+
+;;;
+	;/sy+;/sy+;/sy
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+a550
+	a550/ncn
+
+
+자고
+	자/nbn+이/jp+고/ecc
+
+있는
+	있/px+는/etm
+
+게
+	것/nbn+이/jcs
+
+미안한지
+	미안/ncps+한지/ncn
+
+곰발바닥
+	곰발바닥/ncn
+
+인증샷
+	인증/ncpa+샷/ncn
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+
+곰발바닥은
+	곰발바닥/ncn+은/jxc
+
+요렇게
+	요렇/pad+게/ecs
+
+생겼답니다
+	생기/pvg+었/ep+답니다/ef
+
+...
+	.../se
+
+
+쨘~
+	쨘~/ncn
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+NEX-C3
+	NEX-C3/ncn
+
+
+곰들도
+	곰/ncn+들/xsncc+도/jxc
+
+편한
+	편하/paa+ㄴ/etm
+
+자세를
+	자세/ncn+를/jco
+
+아는가보네요
+	아는가보네요/ncn
+
+.
+	./sf
+
+
+한
+	하/pvg+ㄴ/etm
+
+쪽
+	쪽/nbn
+
+다리를
+	다리/ncn+를/jco
+
+딱
+	딱/mag
+
+걸치고
+	것/nbn+이/jp+ㄹ/etm+치/nbn+이/jp+고/ecc
+
+자주는
+	자/pvg+아/ecx+주/px+는/etm
+
+센스
+	센스/ncn
+
+.
+	./sf
+
+
+아~
+	아/ii+~/sd
+
+사람이랑
+	사람/ncn+이/jcs+랑/jxc
+
+똑같은
+	똑같/paa+은/etm
+
+거
+	것/nbn
+
+같아
+	같/paa+아/ecx
+
+.
+	./sf
+
+
+저도
+	저/npp+도/jxc
+
+가끔
+	가끔/mag
+
+한쪽
+	하/pvg+ㄴ/etm+쪽/nbn
+
+다리를
+	다리/ncn+를/jco
+
+딱
+	딱/mag
+
+올리고
+	오/px+ㄹ/etm+리/nbn+이/jp+고/ecc
+
+자면
+	자/nbn+이/jp+면/ecs
+
+편하더라고요
+	편하/paa+더/ep+라고/ef+요/jxf
+
+.
+	./sf
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+a550
+	a550/ncn
+
+
+나
+	나/npp
+
+귀엽지~
+	귀엽/paa+지/ef+~/sd
+
+예쁘지~
+	예쁘/paa+지/ef+~/sd
+
+사랑스럽지~
+	사랑/ncn+스럽/xsmn+지/ecs+~/sd
+
+
+마냥
+	마냥/mag
+
+순한
+	순하/paa+ㄴ/etm
+
+곰
+	곰/ncn
+
+같은데요
+	같은데요/ncn
+
+.
+	./sf
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+a550
+	a550/ncn
+
+
+나
+	나/npp
+
+곰이야
+	곰/ncn+이/jp+야/ef
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+무섭지~
+	무섭/paa+지/ecs+~/sd
+
+
+그래도
+	그래도/maj
+
+곰은
+	곰/ncn+은/jxc
+
+곰인가봅니다
+	곰인가봅니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+입을
+	입/ncn+을/jco
+
+쫘~악
+	쪼/pvg+아/ecs+~/sd+악/ncn
+
+벌리고
+	벌/pvg+ㄹ/etm+리/nbn+이/jp+고/ecc
+
+날카로운
+	날카롭/paa+은/etm
+
+이빨도
+	이빨/ncn+도/jxc
+
+내보이니말이예요
+	내보이니말이예요/ncn
+
+.
+	./sf
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+a550
+	a550/ncn
+
+
+아놔~
+	아놔~/ncn
+
+!!
+	!/sf+!/sf
+
+
+너
+	너/npp
+
+하나만
+	하나/nnc+만/jxc
+
+더
+	더/mag
+
+던져봐
+	던지/pvg+어/ecx+보/px+아/ecx
+
+!!
+	!/sf+!/sf
+
+
+나
+	나/pvg+아/ecx
+
+화낸다
+	화내/pvg+ㄴ다/ef
+
+!!
+	!/sf+!/sf
+
+
+지금도
+	지금/ncn+도/jxc
+
+충분히
+	충분히/mag
+
+화내고
+	화내/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+거
+	것/nbn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+^^;
+	^/sy+^/sy+;/sy
+
+
+마침
+	마침/mag
+
+옆에서
+	옆/ncn+에서/jca
+
+곰들의
+	곰/ncn+들/xsncc+의/jcm
+
+간식을
+	가/px+ㄴ/etm+식/nbn+을/jco
+
+던져주고
+	던지/pvg+어/ecx+주/px+고/ecc
+
+있었거든요
+	있/px+었/ep+거든/ef+요/jxf
+
+.
+	./sf
+
+
+갑자기
+	갑자기/mag
+
+일어서서는
+	일어서/pvg+어서/ecs+는/jxc
+
+잘도
+	잘/mag+도/jxc
+
+받아먹는데요
+	받아먹는데요/ncn
+
+.
+	./sf
+
+
+밑에
+	밑/ncn+에/jca
+
+곰은
+	곰/ncn+은/jxc
+
+받아먹질
+	받아먹질/ncn
+
+못해
+	못하/pvg+어/ecx
+
+원통한가봅니다
+	원통한가봅니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+아니면
+	아니/paa+면/ecs
+
+손
+	손/ncn
+
+번쩍
+	번쩍/mag
+
+들고
+	들/pvg+고/ecc
+
+저도
+	저/npp+도/jxc
+
+주세요를
+	주세/ncn+요/ncn+를/jco
+
+외치고
+	외치/pvg+고/ecc
+
+있나봐요
+	있나봐요/ncn
+
+.
+	./sf
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+a550
+	a550/ncn
+
+
+대빵
+	대빵/ncn
+
+곰~
+	곰/ncn+~/sd
+
+어마어마하게
+	어마어마/ncps+하/xsms+게/ecs
+
+크네요
+	크/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+발
+	발/ncn
+
+크기
+	크/paa+기/etn
+
+좀
+	좀/mag
+
+보세요
+	보/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+벌써가게
+	벌써가/ncn+이/jp+게/ecs
+
+?
+	?/sf
+
+
+잘가라구
+	잘가라구/ncn
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+
+인사를
+	인사/ncn+를/jco
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+.
+	./sf
+
+
+충남
+	충남/ncn
+
+연기
+	연기/ncn
+
+.
+	./sf
+
+
+세종
+	세/nnc+종/nbu
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+a550
+	a550/ncn
+
+
+놀러올꺼야
+	놀러올꺼/ncn+야/jcv
+
+!
+	!/sf
+
+
+안
+	알/pvg+ㄴ/etm
+
+올꺼야
+	올꺼/ncn+이/jp+야/ef
+
+!
+	!/sf
+
+
+손을
+	손/ncn+을/jco
+
+허리에
+	허리/ncn+에/jca
+
+대고
+	대/nbu+이/jp+고/ecc
+
+협박까지
+	협박/ncpa+까지/jxc
+
+...
+	.../se
+
+
+무서워서라도
+	무섭/paa+어서/ecs+라도/jxc
+
+또
+	또/maj
+
+가봐야겠는데요
+	가/pvg+아/ecx+보/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+아이들과
+	아이/ncn+들/ncn+과/jcj
+
+함께,
+	하/pvg+ㅁ/etn+께/jca+,/sp
+
+연인들과
+	연인/ncn+들/ncn+과/jcj
+
+함께,
+	하/pvg+ㅁ/etn+께/jca+,/sp
+
+가족들과
+	가족/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+
+바람도
+	바라/pvg+ㅁ/etn+도/jxc
+
+쐴
+	쐬/pvg+ㄹ/etm
+
+겸
+	겸/nbn
+
+곰들의
+	곰/ncn+들/xsncc+의/jcm
+
+귀여운
+	귀엽/paa+은/etm
+
+재롱도
+	재롱/ncps+도/jxc
+
+보고
+	보/px+고/ecc
+
+재미난
+	재미나/pvg+ㄴ/etm
+
+추억
+	추억/ncpa
+
+만들어보세요
+	만들/pvg+어/ecx+보/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+이상으로
+	이상/ncn+으로/jca
+
+현이의다이아몬드였습니다
+	현이의다이아몬드였습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+찾아가는길
+	찾아가는길/ncn
+
+[충청남도
+	[충청남/ncn+도/jxc
+
+연기군
+	연기/ncn+이/jp+군/ef
+
+전동면
+	전동/ncn+면/ncn
+
+송성리
+	송성리/ncn
+
+8-5번지
+	8-5번지/ncn
+
+041-866-7766]
+	041/nnc+-866/nnc+-7766/nnc+]/sr
+
+
+베어트리파크
+	베어/ncn+트리/ncn+파크/ncn
+
+
+충청남도
+	충청남/ncn+도/jxc
+
+연기군
+	연기/ncn+이/jp+군/ef
+
+전의면
+	전의/ncn+면/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011185647",
+	"bl011185647",/ncn
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"베어트리파크",
+	title/f+:/sp+"/sl+베어/ncn+트리/ncn+파크/ncn+"/sr+,/sp
+
+pointX:329484,pointY:452377}
+	pointX/f+:/sp+329484/nnc+,/sp+pointY/f+:/sp+452377/nnc+}/sr

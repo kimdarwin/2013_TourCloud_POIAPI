@@ -1,0 +1,312 @@
+영산강
+	영산강/ncn
+
+새물결
+	새물결/ncn
+
+맞이
+	맞이/ncpa
+
+승촌보
+	승촌보/ncn
+
+개방행사
+	개방/ncpa+행사/ncpa
+
+불꽃축제의
+	불꽃/ncn+축제/ncn+의/jcm
+
+모습
+	모습/ncn
+
+
+영산강
+	영산강/ncn
+
+새물결
+	새물결/ncn
+
+맞이
+	맞이/ncpa
+
+승촌보
+	승촌보/ncn
+
+개방행사
+	개방/ncpa+행사/ncpa
+
+불꽃축제의
+	불꽃/ncn+축제/ncn+의/jcm
+
+모습
+	모습/ncn
+
+
+영산강
+	영산강/ncn
+
+새물결
+	새물결/ncn
+
+맞이
+	맞이/ncpa
+
+승촌보
+	승촌보/ncn
+
+개방행사
+	개방/ncpa+행사/ncpa
+
+불꽃축제의
+	불꽃/ncn+축제/ncn+의/jcm
+
+모습
+	모습/ncn
+
+
+낙동강
+	낙동강/ncn
+
+새물결
+	새물결/ncn
+
+맞이
+	맞이/ncpa
+
+강정고령보
+	강정/ncn+고령/ncn+보/ncn
+
+개방행사
+	개방/ncpa+행사/ncpa
+
+불꽃축제
+	불꽃/ncn+축제/ncn
+
+
+낙동강
+	낙동강/ncn
+
+새물결
+	새물결/ncn
+
+맞이
+	맞이/ncpa
+
+강정고령보
+	강정/ncn+고령/ncn+보/ncn
+
+개방행사
+	개방/ncpa+행사/ncpa
+
+불꽃축제
+	불꽃/ncn+축제/ncn
+
+
+강정고령보
+	강정/ncn+고령/ncn+보/ncn
+
+개방행사에
+	개방/ncpa+행사/ncpa+에/jca
+
+앞서
+	앞서/mag
+
+고령친수문화공간에서
+	고령친수문화공간/ncn+에서/jca
+
+진행된
+	진행/ncpa+되/xsvn+ㄴ/etm
+
+사전행사
+	사전/ncn+행사/ncpa
+
+
+고령친수문화공간의
+	고령친수문화공간/ncn+의/jcm
+
+전경
+	전경/ncn
+
+
+강정고령보
+	강정/ncn+고령/ncn+보/ncn
+
+개방행사에서
+	개방/ncpa+행사/ncpa+에서/jca
+
+식전행사로
+	식전행사/ncn+로/jca
+
+진행된
+	진행/ncpa+되/xsvn+ㄴ/etm
+
+대가야
+	대/pvg+어/ecx+가/px+아/ecx
+
+관악단
+	관악/ncn+단/ncn
+
+연주에
+	연주/ncpa+에/jca
+
+맞춰
+	맞추/pvg+어/ecx
+
+국악공연이
+	국악공연/ncn+이/jcc
+
+이루어지고
+	이루/pvg+어/ecx+지/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+강정고령보
+	강정/ncn+고령/ncn+보/ncn
+
+개방행사
+	개방/ncpa+행사/ncpa
+
+창작뮤지컬"낙동강
+	창작뮤지컬"낙동강/ncn
+
+어머니의
+	어머니/ncn+의/jcm
+
+강"
+	강/ncn+"/sr
+
+공연
+	공연/ncpa
+
+
+강정고령보
+	강정/ncn+고령/ncn+보/ncn
+
+개방행사를
+	개방/ncpa+행사/ncpa+를/jco
+
+축하하기
+	축하/ncpa+하/xsva+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+합창단의
+	합창단/ncn+의/jcm
+
+공연
+	공연/ncpa
+
+
+4대강살리기추진본부
+	4대강살리기추진본부/ncn
+
+(본부장
+	(/sl+본부장/ncn
+
+심명필
+	심명필/ncn
+
+http://twitter.
+	http/f+:/sp+//sp+//sp+twitter/f+./sy
+
+com/mpshim)
+	com/f+//sp+mpshim/f+)/sr
+
+
+4대강살리기
+	4대강살리/ncn+이/jp+기/etn
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+4rivers.
+	4rivers./ncn
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+mltm.
+	mltm/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+아
+	아/ii
+
+!
+	!/sf
+
+
+대한민국
+	대한/ncn+민국/ncn
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/pLuHHW
+	mp/f+//sp+pLuHHW/f
+
+
+자/전/거/
+	자/전/거//ncn
+
+새/물/결
+	새/mma+//sp+물/ncn+//sp+결/nbu
+
+남한강
+	남한강/ncn
+
+자전거길
+	자전거/ncn+길/ncn
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/qsMwHD
+	mp/f+//sp+qsMwHD/f
+
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/nKKoOu
+	mp/f+//sp+nKKoOu/f
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/qBL99F
+	mp/qBL99F/ncn
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/q82lrW
+	mp/q82lrW/ncn

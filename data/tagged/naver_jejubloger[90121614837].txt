@@ -1,0 +1,946 @@
+제주여행
+	제주/ncn+여행/ncpa
+
+차귀도
+	차귀/ncn+도/jxc
+
+잠수함
+	잠수함/ncn
+
+
+테리우스의
+	테리우스/ncn+의/jcm
+
+제주여행
+	제주/ncn+여행/ncpa
+
+
+차귀도
+	차귀/ncn+도/jxc
+
+해적잠수함
+	해적/ncn+잠수함/ncn
+
+타고
+	타/pvg+고/ecc
+
+제주
+	제주/ncn
+
+여행
+	여행/ncpa
+
+
+블로거님과
+	블로거님/ncn+과/jct
+
+함께
+	함께/mag
+
+여름의
+	여름/ncn+의/jcm
+
+마지막을
+	마지막/ncn+을/jco
+
+보내기
+	보내/pvg+기/etn
+
+위해
+	위하/pvg+어/ecs
+
+
+차귀도에
+	차귀도/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+해적잠수함을
+	해적/ncn+잠수함/ncn+을/jco
+
+타러
+	타/pvg+러/ecs
+
+다녀왔어요
+	다니/pvg+어/ecx+오/px+아/ep+아/ef
+
+
+제주여행을
+	제주/ncn+여행/ncpa+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+가끔
+	가끔/mag
+
+다녀왔던
+	다니/pvg+어/ecx+오/px+아/ep+ㄴ/etm
+
+곳인데요
+	곳인데요/ncn
+
+
+제주도에서
+	제주/ncn+도/ncn+에서/jca
+
+노을이
+	노을/ncn+이/jcc
+
+아름답다는
+	아름답/paa+다/ef+는/etm
+
+수월봉
+	수월/ncn+봉/ncn
+
+근처에
+	근처/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+곳이랍니다
+	곳/nbu+이/jp+랍니다/ef
+
+
+항상
+	항상/mag
+
+가는
+	가/pvg+는/etm
+
+곳이지만
+	곳/ncn+이/jp+지만/ecs
+
+갈
+	가/pvg+ㄹ/etm
+
+때마다
+	때/ncn+마다/jxc
+
+새로운
+	새롭/paa+은/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+있는데요
+	있/paa+는데요/ef
+
+
+그
+	그/mmd
+
+날,
+	나/px+ㄹ/etm+,/sp
+
+그
+	그/mmd
+
+날
+	나/px+ㄹ/etm
+
+날씨에
+	날씨/ncn+에/jca
+
+따라서도
+	따르/pvg+아/ecs
+
+많이
+	많/paa+이/xsa
+
+달라지는
+	다르/paa+아/ecx+지/px+는/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아요/ef
+
+
+제주여행의
+	제주/ncn+여행/ncpa+의/jcm
+
+즐거움을
+	즐거움/ncn+을/jco
+
+찾을
+	찾/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+한데요
+	한데/ncn+요/ncn
+
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+갔을
+	가/px+아/ep+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+날씨가
+	날씨/ncn+가/jcs
+
+조금
+	조금/mag
+
+흐리긴
+	흐리긴/ncn
+
+했지만
+	하/pvg+었/ep+지만/ecs
+
+
+여름
+	여름/ncn
+
+바닷
+	바닷/ncn
+
+속의
+	속/ncn+의/jcm
+
+모습은
+	모습/ncn+은/jxc
+
+오랫동안
+	오랫동안/ncn
+
+기억에
+	기억/nnc+에/jca
+
+남을
+	남/ncn+을/jco
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+
+가끔씩
+	가끔씩/mag
+
+바닷
+	바닷/ncn
+
+속
+	속/ncn
+
+체험을
+	체험/ncpa+을/jco
+
+해보고
+	하/pvg+어/ecx+보/px+고/ecc
+
+싶을
+	싶/px+을/etm
+
+때
+	때/ncn
+
+찾았던
+	찾/pvg+아/ep+던/etm
+
+
+차귀도의
+	차귀도/ncn+의/jcm
+
+해적잠수함
+	해적/ncn+잠수함/ncn
+
+...
+	.../se
+
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+블로거님과
+	블로거님/ncn+과/jct
+
+함께
+	함께/mag
+
+올
+	오/px+ㄹ/etm
+
+여름
+	여름/ncn
+
+마지막을
+	마지막/ncn+을/jco
+
+추억할
+	추억/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+제주여행을
+	제주/ncn+여행/ncpa+을/jco
+
+다녀왔답니다
+	다니/pvg+어/ecx+오/px+아/ep+답니다/ef
+
+
+멀리
+	멀리/mag
+
+보이는
+	보이/pvg+는/etm
+
+독수리바위가
+	독수리/ncn+바위/ncn+가/jcs
+
+참
+	참/mag
+
+매력적인
+	매력/ncn+적/ncn+이/jp+ㄴ/etm
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+한데요
+	한데/ncn+요/ncn
+
+
+주변
+	주변/ncn
+
+풍경이
+	풍경/ncn+이/jcc
+
+좋아서
+	좋/paa+아/ecx
+
+이
+	이/mmd
+
+곳에
+	곳/nbn+에/jca
+
+제주
+	제주/ncn
+
+여행을
+	여행/ncpa+을/jco
+
+갈때마다
+	갈/ncn+때/xsnx+마다/jca
+
+
+항상
+	항상/mag
+
+카메라를
+	카메라/ncn+를/jco
+
+갖고
+	갖/pvg+고/ecc
+
+가게
+	가/px+게/ecs
+
+되는
+	되/pvg+는/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아요/ef
+
+
+그리고
+	그리고/maj
+
+카메라를
+	카메라/ncn+를/jco
+
+잊지
+	잊/pvg+지/ecx
+
+말아야
+	말/px+아/ecx
+
+하는
+	하/pvg+는/etm
+
+또
+	또/maj
+
+하나의
+	하나/nnc+의/jcm
+
+이유는
+	이유/ncn+는/jxc
+
+
+이렇게
+	이렇/pad+게/ecs
+
+해적모형이
+	해적/ncn+모형/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+포토존이
+	포토존/ncn+이/jcc
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있기
+	있/px+기/etn
+
+때문이랍니다
+	때문/nbn+이/jp+랍니다/ef
+
+
+제주
+	제주/ncn
+
+여행의
+	여행/ncpa+의/jcm
+
+추억을
+	추억/ncpa+을/jco
+
+남길
+	남기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+하지요^^
+	하지요/ncn+^/sy+^/sy
+
+
+드디어
+	드디어/mag
+
+잠수함을
+	잠수함/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+바다로
+	바다/ncn+로/jca
+
+입수~
+	입수/ncpa+~/sd
+
+!
+	!/sf
+
+
+아직은
+	아직/mag+은/jxc
+
+조용하기만한
+	조용하기만한/ncn
+
+바닷
+	바닷/ncn
+
+속은
+	속/ncn+은/jxc
+
+보고만있어도
+	보/pvg+고만/ecx+있/px+어도/ecs
+
+좋은
+	좋/paa+은/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아요/ef
+
+
+제주여행을
+	제주/ncn+여행/ncpa+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+가끔은
+	가끔/mag+은/jxc
+
+이런
+	이런/mmd
+
+평화로운
+	평화/ncn+로운/ncn
+
+순간을
+	순간/ncn+을/jco
+
+기록으로
+	기록/ncpa+으로/jca
+
+남기는
+	남/pvg+기/etn+는/jxc
+
+걸
+	거/nbn+ㄹ/jco
+
+좋아한답니다^^
+	좋아한답니다/ncn+^/sy+^/sy
+
+
+잠시후
+	잠시후/ncn
+
+눈
+	눈/ncn
+
+앞에
+	앞/ncn+에/jca
+
+보이는
+	보이/pvg+는/etm
+
+자리돔
+	자리/ncn+돔/ncn
+
+
+제주에서
+	제주/ncn+에서/jca
+
+많이
+	많/paa+이/xsa
+
+보이는
+	보이/pvg+는/etm
+
+자리돔은
+	자리/ncn+돔/ncn+은/jxc
+
+항상
+	항상/mag
+
+그
+	그/mmd
+
+자리에서
+	자리/ncn+에서/jca
+
+맴돌고
+	맴돌/pvg+고/ecc
+
+있어
+	있/paa+어/ecs
+
+
+자리돔이라는
+	자리/ncn+돔/ncn+이/jp+라/ef+는/etm
+
+이름이
+	이름/ncn+이/jcc
+
+붙여졌다고
+	붙이/pvg+어/ecx+지/px+었/ep+다/ef+고/jcr
+
+하더라고요
+	하/pvg+더/ep+라고/ef+요/jxf
+
+
+연이어
+	연이/pvg+어/ecx
+
+보이는
+	보이/pvg+는/etm
+
+산호초
+	산호/ncn+초/ncn
+
+
+바닷
+	바닷/ncn
+
+속
+	속/ncn
+
+세상이
+	세상/ncn+이/jcc
+
+신비로운
+	신비/ncps+로운/ncn
+
+것은
+	것/nbn+은/jxc
+
+바로
+	바로/mag
+
+이
+	이/mmd
+
+산호초때문이
+	산호초때문/ncn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+해요
+	하/pvg+어요/ef
+
+
+이런
+	이런/mmd
+
+신비로움을
+	신비/ncps+롭/xsmn+음/etn+을/jco
+
+보는
+	보/px+는/etm
+
+것은
+	것/nbn+은/jxc
+
+제주
+	제주/ncn
+
+여행의
+	여행/ncpa+의/jcm
+
+참
+	참/ii
+
+즐거움이죠
+	즐거움/ncn+이/jp+죠/ef
+
+
+깊이
+	깊이/mag
+
+들어갈
+	들/pvg+어/ecx+가/px+ㄹ/etm
+
+수록
+	수록/ncpa
+
+상상
+	상상/ncn
+
+속에서만
+	속/ncn+에서/jca+만/jxc
+
+있을
+	있/px+을/etm
+
+것
+	것/nbn
+
+같은
+	같/paa+은/etm
+
+
+산호초들이
+	산호/ncn+초/ncn+들/xsncc+이/jcc
+
+보였습니다
+	보/nbu+이/jp+었/ep+습니다/ef
+
+
+블로거님과
+	블로거님/ncn+과/jcj
+
+저는
+	저/npp+는/jxc
+
+이
+	이/mmd
+
+모습을
+	모습/ncn+을/jco
+
+열심히
+	열심히/mag
+
+사진에
+	사진/ncn+에/jca
+
+담았답니다
+	담/pvg+아/ep+답니다/ef
+
+
+마지막으로
+	마지막/ncn+으로/jca
+
+제주
+	제주/ncn
+
+여행의
+	여행/ncpa+의/jcm
+
+아쉬움을
+	아쉬움/ncn+을/jco
+
+달래기라도
+	달래/pvg+기/etn+라도/jxc
+
+하듯
+	하/pvg+듯/ecs
+
+기포가
+	기포/ncn+가/jcs
+
+올라옵니다
+	오르/pvg+아/ecx+오/px+ㅂ니다/ef
+
+
+시간이
+	시간/ncn+이/jcc
+
+나면
+	나/px+면/ecs
+
+꼭
+	꼭/mag
+
+한번쯤은
+	한번쯤/ncn+은/jxc
+
+잠수함을
+	잠수함/ncn+을/jco
+
+타보라고
+	타/pvg+아/ecx+보/px+라/ef+고/jcr
+
+하고
+	하/pvg+고/ecc
+
+싶네요
+	싶/paa+네요/ef
+
+
+바닷
+	바닷/ncn
+
+속
+	속/ncn
+
+세상의
+	세상/ncn+의/jcm
+
+신비로움은
+	신비/ncps+롭/xsmn+음/etn+은/jxc
+
+뭐라
+	뭐/npd+이/jp+라/ecs
+
+말로
+	말/ncn+로/jca
+
+표현할
+	표현/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+없을
+	없/paa+을/etm
+
+만큼
+	만큼/nbn
+
+좋답니다^^
+	좋답니다/ncn+^/sy+^/sy
+
+
+모두가
+	모두/ncn+가/jcs
+
+가고
+	가/px+고/ecc
+
+난
+	나/px+ㄴ/etm
+
+뒤에
+	뒤/ncn+에/jca
+
+잠수함
+	잠수함/ncn
+
+안의
+	안/ncn+의/jcm
+
+모습도
+	모습/ncn+도/jxc
+
+남겨보았습니다
+	남기/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+
+아쉬운
+	아쉽/paa+은/etm
+
+만큼
+	만큼/nbn
+
+이
+	이/mmd
+
+순간이
+	순간/ncn+이/jcc
+
+오래
+	오래/mag
+
+기억에
+	기억/nnc+에/jca
+
+남을
+	남/ncn+을/jco
+
+것
+	것/nbn
+
+같아요
+	같/paa+아요/ef
+
+
+올
+	오/px+ㄹ/etm
+
+여름
+	여름/ncn
+
+마지막
+	마지막/ncn
+
+제주
+	제주/ncn
+
+여행으로도
+	여행/ncpa+으로/jca+도/jxc
+
+정말
+	정말/mag
+
+괜찮았습니다
+	괜찮/paa+아/ep+ㅂ니다/ef
+
+
+제주도의
+	제주/ncn+도/ncn+의/jcm
+
+서쪽
+	서쪽/ncn
+
+끝에
+	끝/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+차귀도
+	차귀/ncn+도/jxc
+
+
+차귀도
+	차귀/ncn+도/jxc
+
+앞바다의
+	앞바다/ncn+의/jcm
+
+신비로움을
+	신비/ncps+롭/xsmn+음/etn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/paa+는/etm
+
+
+해적잠수함을
+	해적/ncn+잠수함/ncn+을/jco
+
+타며
+	타/pvg+며/ecc
+
+제주
+	제주/ncn
+
+여행의
+	여행/ncpa+의/jcm
+
+즐거운
+	즐겁/paa+은/etm
+
+추억을
+	추억/ncpa+을/jco
+
+남겨보세요^^
+	남겨보세요/ncn+^/sy+^/sy
+
+
+제주해적잠수함
+	제주/ncn+해적/ncn+잠수함/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+한경면
+	한/nnc+경/xsnu+면/nbu
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01682841",
+	"bl01682841",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"11658577",
+	"/sl+11658577/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"제주해적잠수함",
+	title/f+:/sp+"/sl+제주/ncn+해적/ncn+잠수함/ncn+"/sr+,/sp
+
+pointX:229226,pointY:80659}
+	pointX/f+:/sp+229226/nnc+,/sp+pointY/f+:/sp+80659/nnc+}/sr

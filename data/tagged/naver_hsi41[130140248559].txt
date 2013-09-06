@@ -1,0 +1,480 @@
+부동산
+	부동산/ncn
+
+대책
+	대책/ncn
+
+
+이명박
+	이명/ncn+박/ncn
+
+대통령은
+	대통령/ncr+은/jxc
+
+최근
+	최근/mag
+
+주택경기
+	주택경기/ncn
+
+침체와
+	침체/ncpa+와/jcj
+
+관련,
+	관련/ncpa+,/sp
+
+주택가격
+	주택가격/ncn
+
+안정을
+	안정/ncpa+을/jco
+
+바탕으로
+	바탕/ncn+으로/jca
+
+건전한
+	건전/ncps+하/xsms+ㄴ/etm
+
+부동산
+	부동산/ncn
+
+거래가
+	거래/ncpa+가/jcc
+
+활발해지도록
+	활발해지/pvg+도록/ecs
+
+하는
+	하/pvg+는/etm
+
+등
+	등/nbu
+
+부동산시장
+	부동산/ncn+시장/ncn
+
+정상화를
+	정상/ncn+화/ncn+를/jco
+
+준비해야
+	준비/ncn+해/ncn+이/jp+야/ef
+
+할
+	하/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+주택
+	주택/ncn
+
+거래
+	것/nbn+이/jp+래/ef
+
+실종
+	실종/ncpa
+
+사태에
+	사태/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+추가적인
+	추가/ncpa+적/ncn+이/jp+ㄴ/etm
+
+대책이
+	대책/ncn+이/jcc
+
+검토될
+	검토/ncpa+되/xsvn+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있음을
+	있/px+음/etn+을/jco
+
+시사한
+	시사/ncn+한/ncn
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+대통령은
+	대통령/ncr+은/jxc
+
+과거
+	과거/ncn
+
+부동산
+	부동산/ncn
+
+거래는
+	것/nbn+이/jp+래/ef+는/etm
+
+다분히
+	다분히/mag
+
+투기의
+	투/nbn+이/jp+기/etn+의/jcm
+
+대상이었고
+	대상/ncn+이/jp+었/ep+고/ecc
+
+이로
+	이/npd+로/jca
+
+인해
+	인하/pvg+어/ecx
+
+주택가격이
+	주택가격/ncn+이/jcc
+
+높게
+	높/paa+게/ecs
+
+형성됐던
+	형성/ncpa+되/xsvn+었/ep+던/etm
+
+것이
+	것/nbn+이/jcc
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+이라며
+	이/npd+이/jp+라며/ecs
+
+그러나
+	그러나/maj
+
+최근
+	최근/mag
+
+부동산시장은
+	부동산/ncn+시장/ncn+은/jxc
+
+인구
+	인구/ncn
+
+구조
+	구조/ncpa
+
+변화
+	변화/ncpa
+
+등으로
+	등/nbu+으로/jca
+
+투기
+	투/nbn+이/jp+기/etn
+
+가능성이
+	가능성/ncn+이/jcc
+
+작고
+	작/paa+고/ecc
+
+가격이
+	가격/ncn+이/jcc
+
+장기간
+	장기간/ncn
+
+안정되는
+	안정/ncpa+되/xsvn+는/etm
+
+새로운
+	새롭/paa+은/etm
+
+국면에
+	국면/ncn+에/jca
+
+접어든
+	접/pvg+어/ecs+든/jxc
+
+만큼
+	만큼/nbn
+
+정책에
+	정책/ncn+에/jca
+
+있어서도
+	있/px+어서/ecs+도/jxc
+
+인식의
+	일/pvg+ㄴ/etm+식/nbn+의/jcm
+
+전환이
+	전환/ncpa+이/jcc
+
+필요한
+	필요/ncps+하/xsms+ㄴ/etm
+
+시점
+	시점/ncn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+지적했다
+	지적/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이어
+	이/npd+이/jp+어/ecs
+
+지금은
+	지금/ncn+은/jxc
+
+경기가
+	경기/ncn+가/jcs
+
+안정돼
+	안정/ncpa+되/xsvn+어/ecx
+
+부동산
+	부동산/ncn
+
+가격의
+	가격/ncn+의/jcm
+
+급격한
+	급격/ncps+하/xsms+ㄴ/etm
+
+상승을
+	상승/ncpa+을/jco
+
+기대하기
+	기대/pvg+어/ecx+하/px+기/etn
+
+어려우므로
+	어렵/paa+으므로/ecs
+
+과거
+	과거/ncn
+
+투기
+	투/nbn+이/jp+기/etn
+
+억제를
+	억제/ncpa+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+도입됐던
+	도입/ncpa+되/xsvn+었/ep+던/etm
+
+과도한
+	과도/ncn+한/ncn
+
+규제를
+	규제/ncpa+를/jco
+
+정상화하는
+	정상/ncn+화/xsnca+하/xsva+는/etm
+
+대책을
+	대책/ncn+을/jco
+
+추진했다
+	추진/ncpa+하/xsva+었/ep+다/ef
+
+고
+	고/mma
+
+설명했다
+	설명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+대통령의
+	대통령의/ncn
+
+이
+	이/mmd
+
+같은
+	같/paa+은/etm
+
+언급으로
+	언급/ncpa+으로/jca
+
+그동안
+	그동안/ncn
+
+투기
+	투/nbn+이/jp+기/etn
+
+억제를
+	억제/ncpa+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+세제와
+	세제/ncn+와/jcj
+
+금융
+	금융/ncn
+
+규제
+	규제/ncpa
+
+등으로
+	등/nbu+으로/jca
+
+부동산
+	부동산/ncn
+
+거래를
+	거래/ncpa+를/jco
+
+옭죄었던
+	옭죄/ncn+이/jp+었/ep+던/etm
+
+것을
+	것/nbn+을/jco
+
+추가적으로
+	추가/ncpa+적/ncn+으로/jca
+
+풀
+	풀/pvg+ㄹ/etm
+
+가능성도
+	가능성/ncn+도/jxc
+
+제기된다
+	제기/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+청와대
+	청와대/ncn
+
+관계자는
+	관계자/ncn+는/jxc
+
+DTI
+	DTI/f
+
+규제
+	규제/ncpa
+
+완화
+	완화/ncpa
+
+등에
+	등/nbu+에/jca
+
+대해선
+	대/pvg+어/ecx+하/px+어서/ep+ㄴ/etm
+
+부처
+	부처/ncn
+
+간
+	가/px+ㄴ/etm
+
+이견이
+	이견/ncn+이/jcc
+
+있기
+	있/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+당장
+	당장/mag
+
+추진할
+	추진/ncpa+하/xsva+ㄹ/etm
+
+가능성은
+	가능성/ncn+은/jxc
+
+높지
+	높/paa+지/ecx
+
+않다
+	않/px+다/ef
+
+면서도
+	면/ncn+서/jca+도/jxc
+
+유럽
+	유럽/ncn
+
+재정위기
+	재정위기/ncn
+
+악화
+	악화/ncpa
+
+등으로
+	등/nbu+으로/jca
+
+부동산시장
+	부동산/ncn+시장/ncn
+
+상황이
+	상황/ncn+이/jcc
+
+더
+	더/mag
+
+나빠지면
+	나쁘/paa+아/ecx+지/px+면/ecs
+
+검토할
+	검토/ncpa+하/xsva+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있다
+	있/px+다/ef
+
+고
+	고/mma
+
+설명했다
+	설명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:한국경제
+	출처/ncn+:/sp+한국경제/ncn

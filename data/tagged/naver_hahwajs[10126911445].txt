@@ -1,0 +1,384 @@
+어비리
+	어비리/ncn
+
+3층
+	3/nnc+층/nbu
+
+석탑,
+	석탑/ncn+,/sp
+
+"동도사"
+	"동도사"/ncn
+
+(법화종)
+	(/sl+법화/ncn+종/ncn+)/sr
+
+
+경기도
+	경기/ncn+도/jxc
+
+용인시
+	용인시/ncn
+
+송전
+	송전/ncn
+
+저수지에
+	저수지/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+동도사입니다
+	동도사입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+종파는
+	종파/ncn+는/jxc
+
+법화종이구요
+	법화종이구요/ncn
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+찾아갔던
+	찾/pvg+아/ecx+가/px+아/ep+ㄴ/etm
+
+2009년에는절
+	2009년에는절/ncn
+
+곳곳이
+	곳곳/ncn+이/jcc
+
+보수중이어서
+	보수/ncn+중이/ncn+이/jp+어서/ecs
+
+조금
+	조금/mag
+
+어수선한
+	어수선/ncps+하/xsms+ㄴ/etm
+
+분위기였던
+	분위기/ncn+이/jp+었/ep+던/etm
+
+것으로
+	것/nbn+으로/jca
+
+기억합니다
+	기억/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+십이간지
+	십이간지/ncn
+
+동물들이
+	동물/ncn+들/ncn+이/jcc
+
+양쪽으로
+	양쪽/ncn+으로/jca
+
+늘어서있는
+	늘어서/pvg+어/ecx+있/px+는/etm
+
+계단입니다
+	계단/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+아마
+	아마/mag
+
+지금쯤이면
+	지금/ncn+쯤/xsnx+이/jp+면/ecs
+
+석탑을
+	석탑/ncn+을/jco
+
+비롯하여
+	비롯/ncpa+하/xsva+어/ecx
+
+큰법당까지
+	큰법당/ncn+까지/jxc
+
+모두
+	모두/mag
+
+정비를
+	정비/ncpa+를/jco
+
+마쳤겠죠
+	마치/pvg+었겠/ep+죠/ef
+
+?
+	?/sf
+
+
+^^
+	^/sy+^/sy
+
+
+동도사
+	동도사/ncn
+
+앞마당에
+	앞마당/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+송전
+	송전/ncn
+
+저수지(송전지)의
+	저수지(송전지)/ncn+의/jcm
+
+풍경입니다
+	풍경/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+잔잔한
+	잔잔/ncn+한/ncn
+
+물가에
+	물가/ncn+에/jca
+
+서서
+	서/pvg+어서/ecs
+
+앞으로도
+	앞/ncn+으로/jca+도/jxc
+
+많은
+	많/paa+은/etm
+
+부처님들을
+	부처님/ncn+들/ncn+을/jco
+
+뵈어야지-
+	뵈/pvg+어야지/ef+-/sd
+
+생각했답니다
+	생각/ncpa+하/xsva+었/ep+답니다/ef
+
+.
+	./sf
+
+
+"노력은
+	"/sl+노력/ncpa+은/jxc
+
+황소여서
+	황소/ncn+이/jp+어서/ecs
+
+나를
+	나/npp+를/jco
+
+안온한
+	안온/ncps+하/xsms+ㄴ/etm
+
+경지로
+	경지/ncn+로/jca
+
+실어줍니다
+	싣/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+물러남이
+	무르/pvg+어/ecx+나/px+ㅁ/etn+이/jcs
+
+없이
+	없이/mag
+
+앞으로
+	앞/ncn+으로/jca
+
+나아가
+	나/pvg+아/ecx+가/px+아/ecx
+
+그곳에
+	그곳/ncn+에/jca
+
+이르면
+	이르/pvg+면/ecs
+
+근심
+	근심/ncn
+
+걱정이
+	걱정/ncpa+이/jcc
+
+없어집니다
+	없/paa+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+나의
+	나/npp+의/jcm
+
+밭갈이는
+	밭갈이/ncpa+는/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+해서
+	하/pvg+어서/ecs
+
+이루어지며,
+	이루/pvg+어/ecx+지/px+며/ecc+,/sp
+
+단
+	단/mma
+
+이슬[
+	이슬[/ncn
+
+]의
+	]/sr+의/jcm
+
+과보를
+	과보/ncn+를/jco
+
+가져옵니다
+	가/pvg+아/ecx+지/px+어/ecx+오/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+농사를
+	농사/ncn+를/jco
+
+지으면,
+	지/px+면/ecs+,/sp
+
+모든
+	모든/mma
+
+고뇌에서
+	고뇌/ncpa+에서/jca
+
+풀려나게
+	풀리/pvg+어/ecx+나/px+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+."
+	./sf+"/sl
+
+
+이때
+	이때/ncn
+
+밭을
+	밭/ncn+을/jco
+
+갈던
+	갈/pvg+던/etm
+
+바라문
+	바라문/ncn
+
+바라드바자는
+	바라드바자/ncn+는/jxc
+
+큰
+	크/paa+ㄴ/etm
+
+청동
+	청동/ncn
+
+발우에
+	발우/ncn+에/jca
+
+우유죽을
+	우유/ncn+죽/ncn+을/jco
+
+가득
+	가득/mag
+
+담아
+	담/pvg+아/ecx
+
+스승에게
+	스승/ncn+에게/jca
+
+올렸다
+	올리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+"고타마께서는
+	"고타마께서/ncn+는/jxc
+
+우유죽을
+	우유/ncn+죽/ncn+을/jco
+
+드십시오
+	들/pvg+십시오/ef
+
+.
+	./sf
+
+
+당신은
+	당신/npp+은/jxc
+
+진실로
+	진실로/mag
+
+밭을
+	밭/ncn+을/jco
+
+가는
+	가/pvg+는/etm
+
+분이십니다
+	분/nbn+이/jp+시/ep+ㅂ니다/ef
+
+."
+	./sf+"/sl
+
+
+수타니파타
+	수타니파타/ncn
+
+3.
+	3./nnc
+
+밭을
+	밭/ncn+을/jco
+
+가는
+	가/pvg+는/etm
+
+사람
+	사람/nbu

@@ -1,0 +1,1824 @@
+유럽여행
+	유럽여행/ncpa
+
+
+이탈리아
+	이탈리/ncn+아/jcv
+
+밀라노
+	밀라노/ncn
+
+호텔
+	호텔/ncn
+
+리뷰
+	리뷰/ncpa
+
+::
+	:/sp+:/sp
+
+Hilton
+	Hilton/f
+
+Milan
+	Milan/f
+
+hotel
+	hotel/f
+
+
+휴-
+	휴-/ncn
+
+오늘은꼭두새벽부터
+	오늘은꼭두새벽부터/ncn
+
+뭔가
+	뭔가/ncn
+
+굉장히다사다난한
+	굉장히다사다난한/ncn
+
+하루입니다
+	하루/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+한국에서
+	한국/ncn+에서/jca
+
+미처
+	미처/mag
+
+챙기지못한
+	챙기/pvg+지/ecx+못하/px+ㄴ/etm
+
+일로난리부르스;;;
+	일로난리부르스/ncn+;/sy+;/sy+;/sy
+
+
+완전
+	완전/ncps
+
+이른
+	이르/paa+ㄴ/etm
+
+새벽에
+	새벽/ncn+에/jca
+
+잠을
+	잠/ncn+을/jco
+
+깨서는
+	깨/pvg+어서/ecs+는/jxc
+
+잠도
+	자/pvg+ㅁ/etn+도/jxc
+
+안오고
+	안오/ncn+이/jp+고/ecc
+
+...
+	.../se
+
+
+리뷰나
+	리뷰/ncpa+나/jcj
+
+쓰자
+	쓰/pvg+자/ecc
+
+!
+	!/sf
+
+
+라며
+	라/ncn+이/jp+며/ecc
+
+컴터붙잡고
+	컴터붙잡고/ncn
+
+있네요
+	있/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+근데
+	근데/ncn
+
+새벽에
+	새벽/ncn+에/jca
+
+일어나
+	일어나/pvg+아/ecx
+
+있으니
+	있/px+으니/ecs
+
+그동안
+	그동안/ncn
+
+듣지못했던
+	듣/pvg+지/ecx+못하/px+었/ep+던/etm
+
+새들의
+	새/ncn+들/xsncc+의/jcm
+
+조잘거림에
+	조잘거림/ncn+에/jca
+
+기분마저
+	기분/ncn+마저/jxc
+
+상쾌한듯
+	상쾌/ncps+하/xsms+ㄴ/etm+듯/nbs
+
+.
+	./sf
+
+
+커튼을
+	커튼/ncn+을/jco
+
+슬쩍
+	슬쩍/mag
+
+들쳐보니
+	들치/pvg+어/ecx+보/px+니/ecs
+
+아직
+	아직/mag
+
+어두워
+	어둡/paa+어/ecx
+
+잘
+	잘/mag
+
+보이진
+	보이/ncn+진/ncn
+
+않으나
+	않/px+으나/ecs
+
+비에
+	비/ncn+에/jca
+
+젖은
+	젖/pvg+은/etm
+
+땅과
+	땅/ncn+과/jct
+
+낮게
+	낮/paa+게/ecs
+
+깔린
+	깔리/pvg+ㄴ/etm
+
+안개가
+	안개/ncn+가/jcs
+
+보이네요
+	보이/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+어제부터
+	어제/ncn+부터/jxc
+
+비가
+	비/ncn+가/jcs
+
+주룩
+	주룩/ncn
+
+주룩
+	주룩/ncn
+
+내리기
+	내리/pvg+기/etn
+
+시작하더니
+	시작/ncpa+하/xsva+더니/ecs
+
+오늘도비가
+	오늘도비/ncn+가/jcs
+
+내릴
+	내리/pvg+ㄹ/etm
+
+모양인가봐요
+	모양인가봐요/ncn
+
+.
+	./sf
+
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+하늘의
+	하늘/ncn+의/jcm
+
+스위스가
+	스위스/ncn+가/jcs
+
+보고싶은데
+	보/pvg+고/ecx+싶/px+은/etm+데/nbn
+
+말이예요
+	말/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+휴~
+	휴/ncn+~/sd
+
+
+암튼
+	암튼/ncn
+
+!!
+	!/sf+!/sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+우리
+	우리/npp
+
+여행에
+	여행/ncpa+에/jca
+
+비를
+	비/ncn+를/jco
+
+처음
+	처음/mag
+
+만났던
+	만나/pvg+아/ep+ㄴ/etm
+
+밀라노에서
+	밀라노/ncn+에서/jca
+
+묵었던
+	묵/pvg+었/ep+던/etm
+
+호텔,
+	호텔/ncn+,/sp
+
+
+Hilton
+	Hilton/f
+
+Milan
+	Milan/f
+
+hotel
+	hotel/f
+
+리뷰를
+	리뷰/ncpa+를/jco
+
+하겠습니다
+	하/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+(이래놓고
+	(/sl+이렇/pad+어/ecx+놓/px+고/ecc
+
+리뷰
+	리뷰/ncpa
+
+마무리는
+	마무리/ncpa+는/jxc
+
+하루
+	하루/ncn
+
+지나서;;
+	지나서;;/ncn
+
+)
+	)/sr
+
+
+작은
+	작/paa+은/etm
+
+사진은
+	사진/ncn+은/jxc
+
+클릭하시면
+	클릭/ncpa+하시/ncn+이/jp+면/ecs
+
+크게
+	크/paa+게/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+베네치아에서
+	베네치아/ncn+에서/jca
+
+행복했던
+	행복/ncps+하/xsms+었/ep+던/etm
+
+하루를
+	하루/ncn+를/jco
+
+보내고
+	보내/pvg+고/ecc
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+밀라노
+	밀라노/ncn
+
+.
+	./sf
+
+
+그동안
+	그동안/ncn
+
+도심지를
+	도심지/ncn+를/jco
+
+피해서
+	피하/pvg+어서/ecs
+
+여행을
+	여행/ncpa+을/jco
+
+해서일까요
+	해서/ncn+이/jp+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+모든것들이
+	모든것들/ncn+이/jcc
+
+큼직
+	큼직/ncps
+
+큼직한
+	큼직/ncps+하/xsms+ㄴ/etm
+
+밀라노
+	밀라노/ncn
+
+중앙역에서
+	중앙/ncn+역/ncn+에서/jca
+
+잠시
+	잠시/mag
+
+주춤
+	주춤/mag
+
+.
+	./sf
+
+
+미리
+	미리/mag
+
+찾아온
+	찾/pvg+아/ecx+오/px+ㄴ/etm
+
+호텔
+	호텔/ncn
+
+가는
+	가/pvg+는/etm
+
+방법을
+	방법/ncn+을/jco
+
+요리
+	요리/ncn
+
+조리
+	조리/mad
+
+살펴봐도
+	살피/pvg+어/ecx+보/px+아/ecs
+
+당췌
+	당췌/ncn
+
+감을
+	가/px+ㅁ/etn+을/jco
+
+못잡겠는
+	못잡겠는/ncn
+
+...
+	.../se
+
+
+결국
+	결국/mag
+
+택시를
+	택시/ncn+를/jco
+
+기다리는
+	기다리/pvg+는/etm
+
+어느
+	어느/mmd
+
+여자분께
+	여자/ncn+분/ncn+께/jca
+
+도움을
+	도움/ncn+을/jco
+
+요청,
+	요청/ncpa+,/sp
+
+친절하게
+	친절/ncps+하/xsms+게/ecs
+
+설명해주는
+	설명/ncpa+하/xsva+어/ecx+주/px+는/etm
+
+그녀의
+	그녀/npp+의/jcm
+
+도움으로
+	도움/ncn+으로/jca
+
+힐튼에
+	힐튼/ncn+에/jca
+
+무사히
+	무사히/mag
+
+도착할
+	도착/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있었어요
+	있/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+방향만
+	방향/ncn+만/jxc
+
+제대로
+	제대로/mag
+
+잡으면
+	잡/pvg+으면/ecs
+
+아주
+	아주/mag
+
+쉬운
+	쉽/paa+은/etm
+
+길이었는데
+	길/ncn+이/jp+었/ep+는데/ecs
+
+큼지막한
+	큼지막/ncps+하/xsms+ㄴ/etm
+
+건물들
+	건물/ncn+들/ncn
+
+사이에서
+	사이/ncn+에서/jca
+
+방향감각을
+	방향감각/ncn+을/jco
+
+상실했어요
+	상실/ncpa+하/xsva+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+살짝
+	살짝/mag
+
+오래되어보이는
+	오래/paa+어/ecx+되/px+어/ecx+보이/px+는/etm
+
+Hilton
+	Hilton/f
+
+Milan
+	Milan/f
+
+hotel.
+	hotel/f+./sf
+
+
+하지만
+	하지만/maj
+
+그동안
+	그동안/ncn
+
+만났던
+	만나/pvg+아/ep+ㄴ/etm
+
+호텔과는
+	호텔/ncn+과/jct+는/jxc
+
+달리
+	달리/mag
+
+시원
+	시원/ncn
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+로비에
+	로비/ncn+에/jca
+
+마음마저
+	마음/ncn+마저/jxc
+
+시원합니다
+	시원/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+체크인
+	체크인/ncn
+
+플리즈~
+	플리즈/ncn+~/sd
+
+
+너~
+	너/npp+~/sd
+
+골드
+	골드/ncn
+
+멤버라
+	멤버/ncn+이/jp+라/ecs
+
+이그제큐티브룸으로
+	이그제큐티브룸/ncn+으로/jca
+
+업그레이드
+	업그레이드/ncn
+
+됐어~
+	되/paa+었/ep+어/ecs+~/sd
+
+
+이그제큐티브
+	이그제큐티브/ncn
+
+라운지도
+	라운지/ncn+도/jxc
+
+마음껏
+	마음껏/mag
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있고,
+	있/px+고/ecc+,/sp
+
+아침식사는
+	아침식사/ncpa+는/jxc
+
+1층
+	1/nnc+층/nbu
+
+레스토랑이나
+	레스토랑/ncn+이나/jcj
+
+이그제큐티브
+	이그제큐티브/ncn
+
+라운지
+	라운지/ncn
+
+중
+	중/nbn
+
+마음에
+	마음/ncn+에/jca
+
+드는곳에서
+	드는곳/ncn+에서/jca
+
+즐겨~
+	즐기/pvg+어/ecs+~/sd
+
+
+더불어
+	더불/pvg+어/ecx
+
+너의
+	너/npp+의/jcm
+
+여행이
+	여행/ncpa+이/jcc
+
+행복하길
+	행복하길/ncn
+
+바래
+	바/nbn+이/jp+래/ef
+
+!
+	!/sf
+
+
+라며
+	라/ncn+이/jp+며/ecc
+
+친절,
+	친절/ncps+,/sp
+
+상큼
+	상큼/ncps
+
+발랄,
+	발랄/ncps+,/sp
+
+신속하게
+	신속/ncps+하/xsms+게/ecs
+
+체크인을
+	체크인/ncn+을/jco
+
+해주네요
+	하/pvg+어/ecx+주/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+기분
+	기분/ncn
+
+좋게
+	좋/paa+게/ecs
+
+객실로
+	객실/ncn+로/jca
+
+고고씽
+	고고씽/ncn
+
+.
+	./sf
+
+
+트윈
+	트윈/ncn
+
+힐튼
+	힐튼/ncn
+
+이그제큐티브룸(금연)
+	이그제큐티브룸/ncn+(/sl+금연/ncpa+)/sr
+
+
+지난지
+	지나/pvg+ㄴ지/ecs
+
+얼마됐다고;;;
+	얼마됐다고;;;/ncn
+
+벌써
+	벌써/mag
+
+몇호에
+	몇/nnc+호/nbu+에/jca
+
+묵었었는지도
+	묵/pvg+었었/ep+는지/ecs+도/jxc
+
+기억이
+	기억/ncpa+이/jcc
+
+안납니돠
+	안납니돠/ncn
+
+.
+	./sf
+
+
+(갈수록
+	(/sl+가/pvg+ㄹ수록/ecs
+
+정신이
+	정신/ncn+이/jcc
+
+멍해져서
+	멍하/paa+어/ecx+지/px+어서/ecs
+
+큰일)
+	큰일/ncn+)/sr
+
+
+문을
+	문/ncn+을/jco
+
+열고
+	열/pvg+고/ecc
+
+딱
+	딱/mag
+
+!
+	!/sf
+
+
+들어서면
+	들어서/pvg+면/ecs
+
+좌측으로
+	좌측/ncn+으로/jca
+
+화장실
+	화장실/ncn
+
+우측으로
+	우측/ncn+으로/jca
+
+옷장이
+	옷장/ncn+이/jcc
+
+있구요,
+	있구요,/ncn
+
+한발짝
+	한/nnc+발짝/nbu
+
+더
+	더/mag
+
+들어서면
+	들어서/pvg+면/ecs
+
+넓은
+	넓/paa+은/etm
+
+객실이
+	객실/ncn+이/jcc
+
+뙇
+	뙇/ncn
+
+나타납니다
+	나타나/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+호텔이
+	호텔/ncn+이/jcc
+
+좀
+	좀/mag
+
+오래되었구나~
+	오래/paa+어/ecx+되/px+었/ep+구나/ef+~/sd
+
+라는
+	라/ncn+는/jxc
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+들었는데
+	들/pvg+었/ep+는데/ecs
+
+객실도
+	객실/ncn+도/jxc
+
+살짝
+	살짝/mag
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+느낌
+	느끼/pvg+ㅁ/etn
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+창도
+	창/ncn+도/jxc
+
+크고,
+	크/paa+어/ef+고/jcr+,/sp
+
+객실도
+	객실/ncn+도/jxc
+
+넓고,
+	넓/paa+고/ecc+,/sp
+
+깨끗하고
+	깨끗/ncps+하고/jct
+
+괜찮습니다
+	괜찮/paa+습니다/ef
+
+.
+	./sf
+
+
+유럽여행
+	유럽여행/ncpa
+
+중
+	중/nbn
+
+그
+	그/mmd
+
+만나기
+	만나/pvg+기/etn
+
+힘든
+	힘들/pvg+ㄴ/etm
+
+커피포트도
+	커피포트/ncn+도/jxc
+
+있구요,,,
+	있구요,,,/ncn
+
+음.
+	음/ncn+./sf
+
+..
+	./sf+./sf
+
+
+여느
+	여느/mma
+
+다른
+	다른/mma
+
+호텔에
+	호텔/ncn+에/jca
+
+있는건
+	있는건/ncn
+
+여기도
+	여기/npd+도/jxc
+
+다
+	다/mag
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+사진을
+	사진/ncn+을/jco
+
+여러
+	여러/mma
+
+각도에서
+	각도/ncn+에서/jca
+
+찍었으니
+	찍/pvg+었/ep+으니/ecs
+
+참고하시고,
+	참/pvg+고/ecx+하/px+시/ep+고/ecc+,/sp
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+상세한
+	상세/ncn+한/ncn
+
+설명은
+	설명/ncpa+은/jxc
+
+호텔에
+	호텔/ncn+에/jca
+
+문의하시길
+	문의/ncn+하시/ncn+길/ncn
+
+...
+	.../se
+
+
+욕실엔
+	욕실/ncn+엔/jca
+
+피터토마스로스
+	피터토마스로스/ncn
+
+욕실용품,
+	욕실용품/ncn+,/sp
+
+사진엔
+	사진/ncn+엔/jca
+
+안나왔지만
+	안나왔지만/ncn
+
+욕조있구요,
+	욕조있구요/ncn+,/sp
+
+
+더불어
+	더불/pvg+어/ecx
+
+거실에서
+	거실/ncn+에서/jca
+
+TV를
+	TV/f+를/jco
+
+보면
+	보/px+면/ecs
+
+욕실에서도
+	욕실/ncn+에서/jca+도/jxc
+
+소리를
+	소리/ncn+를/jco
+
+들을
+	들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있게
+	있/px+게/ecs
+
+스피커가
+	스피커/ncn+가/jcs
+
+설치되어있습니다
+	설치/ncpa+되/xsvn+어/ecx+있/px+습니다/ef
+
+.
+	./sf
+
+
+처음
+	처음/mag
+
+여행할
+	여행/ncpa+하/xsva+ㄹ/etm
+
+땐
+	때/pvg+ㄴ/etm
+
+TV는
+	TV/f+는/jxc
+
+쳐다도
+	치/pvg+어다/ecs+도/jxc
+
+안봤는데
+	안봤는데/ncn
+
+여행이
+	여행/ncpa+이/jcc
+
+점점
+	점점/mag
+
+길어지다보니
+	길어지다보니/ncn
+
+세상
+	세상/ncn
+
+소식도
+	소식/ncn+도/jxc
+
+듣고싶고
+	듣/pvg+고/ecx+싶/px+고/ecc
+
+뉴스를
+	뉴스/ncn+를/jco
+
+보게되더라는
+	보/nbu+이/jp+게/ecx+되/px+더라/ecs+는/jxc
+
+
+그리고
+	그리고/maj
+
+그동안
+	그동안/ncn
+
+따로
+	따로/mag
+
+설명
+	설명/ncpa
+
+안한것
+	안하/pvg+ㄴ/etm+것/nbn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+유럽의
+	유럽/ncn+의/jcm
+
+이그제큐티브
+	이그제큐티브/ncn
+
+룸에는
+	룸/ncn+에/jca+는/jxc
+
+일반
+	일반/ncn
+
+객실보다
+	객실/ncn+보다/jca
+
+욕실용품이
+	욕실용품/ncn+이/jcc
+
+살짝
+	살짝/mag
+
+더
+	더/mag
+
+커요
+	크/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+안그런
+	안그런/ncn
+
+호텔도
+	호텔/ncn+도/jxc
+
+있긴
+	있긴/ncn
+
+있었는데(힐튼
+	있었는데(힐튼/ncn
+
+피렌체
+	피렌체/ncn
+
+?)
+	?/sf+)/sr
+
+
+그닥
+	그닥/ncn
+
+신경
+	신경/ncn
+
+안써서
+	안써서/ncn
+
+어디가
+	어디/npd+가/jcc
+
+큰
+	크/paa+ㄴ/etm
+
+사이즈였고,
+	사이즈/ncn+이/jp+었/ep+고/ecc+,/sp
+
+어디가
+	어디/npd+가/jcc
+
+작은
+	작/paa+은/etm
+
+사이즈였는지는
+	사이즈/ncn+이/jp+었/ep+는지/ecs+는/jxc
+
+모르겠어요
+	모르/pvg+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+전망은
+	전망/ncn+은/jxc
+
+뭐~
+	뭐/npd+~/sd
+
+이렇습니다
+	이렇/pad+습니다/ef
+
+.
+	./sf
+
+
+그동안
+	그동안/ncn
+
+따갑도록
+	따갑/paa+도록/ecs
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+쨍쨍거리며
+	쨍쨍거리/ncn+이/jp+며/ecc
+
+따라다니더니
+	따라다니/pvg+더니/ecs
+
+밀라노에서부터
+	밀라노에서부터/ncn
+
+비
+	비/ncn
+
+!
+	!/sf
+
+
+스위스에서는
+	스위스에서/ncn+는/jxc
+
+구름,
+	구름/ncn+,/sp
+
+비,
+	비/ncn+,/sp
+
+비,
+	비/ncn+,/sp
+
+비.
+	비/ncn+./sf
+
+..
+	./sf+./sf
+
+
+내리
+	내/npp+이/jp+리/ef
+
+비를
+	비/ncn+를/jco
+
+만나고
+	만나/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+덕분에
+	덕분/ncn+에/jca
+
+융프라우요흐는
+	융프라우요흐/ncn+는/jxc
+
+포기하고,
+	포/ncn+이/jp+기/etn+하고/jct+,/sp
+
+비
+	비/ncn
+
+내리는
+	내리/pvg+는/etm
+
+날에도
+	날/ncn+에/jca+도/jxc
+
+가볍게
+	가볍/paa+게/ecs
+
+걸을
+	걸/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+하이킹코스(
+	하이킹코스(/ncn
+
+?
+	?/sf
+
+
+버스길;;)을
+	버스길;;)/ncn+을/jco
+
+신나게
+	신나/pvg+게/ecs
+
+걸었;;
+	걸었/ncn+;/sy+;/sy
+
+
+스위스
+	스위스/ncn
+
+떠나기
+	떠나/pvg+기/etn
+
+전에는
+	전/nbn+에/jca+는/jxc
+
+파란
+	파랗/paa+은/etm
+
+멋진
+	멋지/paa+ㄴ/etm
+
+하늘을
+	하늘/ncn+을/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어야할텐데요
+	있/px+어야/ecx+하/px+ㄹ텐데/ef+요/jxf
+
+.
+	./sf
+
+
+비
+	비/ncn
+
+얘기하다가
+	얘기/ncpa+하/xsva+다가/ecs
+
+얘기가
+	얘/ncn+이/jp+기/etn+가/jcs
+
+삼천포로
+	삼천포/ncn+로/jca
+
+빠졌네요
+	빠지/pvg+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+암튼
+	암튼/ncn
+
+!!
+	!/sf+!/sf
+
+
+우리
+	우리/npp
+
+여행
+	여행/ncpa
+
+중
+	중/nbn
+
+비와의
+	비/ncn+와의/jcm
+
+인연은
+	인연/ncn+은/jxc
+
+밀라노에서부터
+	밀라노에서부터/ncn
+
+시작되었다는거
+	시작되었다는거/ncn
+
+.
+	./sf
+
+
+원래
+	원래/mag
+
+호텔
+	호텔/ncn
+
+체크인을
+	체크인/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+가방을
+	가방/ncn+을/jco
+
+잽사게
+	잽사/ncn+이/jp+게/ecs
+
+던져놓고
+	던지/pvg+어/ecx+놓/px+고/ecc
+
+밀라노
+	밀라노/ncn
+
+근교
+	근교/ncn
+
+아울렛에
+	아울렛/ncn+에/jca
+
+잽싸게(
+	잽싸게(/ncn
+
+?)
+	?/sf+)/sr
+
+
+다녀왔는데요,
+	다니/pvg+어/ecx+오/px+아/ep+ㄴ데요/ef+,/sp
+
+
+오후에
+	오후/ncn+에/jca
+
+가서
+	가/pvg+서/ecs
+
+근지
+	근지/ncn
+
+물건이
+	물건/ncn+이/jcc
+
+다
+	다/mag
+
+빠져서
+	빠지/pvg+어서/ecs
+
+별다른
+	별다르/paa+ㄴ/etm
+
+소득없이
+	소득/ncn+없이/jca
+
+터덜터덜
+	터/nbn+이/jp+더/ep+ㄹ/etm+터/nbn+이/jp+더/ep+ㄹ/etm
+
+돌아온
+	돌/pvg+아/ecx+오/px+ㄴ/etm
+
+.
+	./sf
+
+
+다녀와서
+	다니/pvg+어/ecx+오/px+아/ecx
+
+스위스
+	스위스/ncn
+
+여행
+	여행/ncpa
+
+준비도
+	준비/ncn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+좀
+	좀/mag
+
+쉴겸
+	쉬/pvg+ㄹ/etm+겸/nbn
+
+라운지에
+	라운지/ncn+에/jca
+
+올라가니
+	오르/pvg+아/ecx+가/px+니/ecs
+
+딱
+	딱/mag
+
+!
+	!/sf
+
+
+해피아워가
+	해피/ncpa+아워/ncn+가/jcs
+
+시작되네요
+	시작/ncpa+되/xsvn+네/ef+요/jxf
+
+.
+	./sf
+
+
++_+오오
+	+_+오오/ncn
+
+반가운
+	반갑/paa+은/etm
+
+문어
+	문어/ncn
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+더불어
+	더불/pvg+어/ecx
+
+반가운
+	반갑/paa+은/etm
+
+야채도
+	야채/ncn+도/jxc
+
+!!
+	!/sf+!/sf
+
+
+아주
+	아주/mag
+
+화려하진
+	화/ncn+이/jp+리/ep+어/ecx+하/px+어/ecx+지/px+ㄴ/etm
+
+않으나
+	않/px+으나/ecs
+
+적당히
+	적당히/mag
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을정도로
+	있을정도/ncn+로/jca
+
+준비되어
+	준비/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+(아마도
+	(/sl+아마/mag+도/jxc
+
+메뉴가
+	메뉴/ncn+가/jcs
+
+일정하진
+	일정/ncps+하/xsms+어/ecx+지/px+ㄴ/etm
+
+않을테니
+	않/px+을테니/ecs
+
+상세샷
+	상세/ncn+샷/ncn
+
+나부랭이는
+	나부랭이/ncn+는/jxc
+
+없습니다
+	없/paa+습니다/ef
+
+.)
+	./sf+)/sr
+
+
+제일
+	제일/mag
+
+마지막
+	마지막/ncn
+
+빵
+	빵/mag
+
+사진은
+	사진/ncn+은/jxc
+
+아침식사
+	아침식사/ncpa
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+.
+	./sf
+
+
+아침에
+	아침/ncn+에/jca
+
+빠르게
+	빠르/paa+게/ecs
+
+밀라노에서
+	밀라노/ncn+에서/jca
+
+로잔으로
+	로잔/ncn+으로/jca
+
+이동해야했기에
+	이동/ncpa+하/xsva+어야/ecx+하/px+었/ep+기/etn+에/jca
+
+간단하게
+	간단/ncps+하/xsms+게/ecs
+
+라운지에서
+	라운지/ncn+에서/jca
+
+식사를
+	식사/ncpa+를/jco
+
+즐겼는데요,
+	즐기/pvg+었/ep+는데/ef+요/jxf+,/sp
+
+조용하니
+	조용/ncps+하/xsms+니/ecs
+
+좋았어요
+	좋/paa+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+대충대충
+	대충대충/ncpa
+
+힐튼
+	힐튼/ncn
+
+밀라노
+	밀라노/ncn
+
+호텔
+	호텔/ncn
+
+리뷰는
+	리뷰/ncpa+는/jxc
+
+마치고,
+	마치/ncn+고/jcj+,/sp
+
+
+다음편은
+	다음/ncn+편/ncn+은/jxc
+
+스위스
+	스위스/ncn
+
+로잔
+	로잔/ncn
+
+Ibis
+	Ibis/f
+
+Lausanne
+	Lausanne/f
+
+Centre
+	Centre/f
+
+되겠습니다
+	되/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+Hilton
+	Hilton/f
+
+Milan
+	Milan/f
+
+hotel
+	hotel/f
+
+
+-
+	-/sd
+
+호텔
+	호텔/ncn
+
+주소
+	주소/ncn
+
+:
+	:/sp
+
+VIA
+	VIA/f
+
+LUIGI
+	LUIGI/f
+
+GALVANI
+	GALVANI/f
+
+12,
+	12/nnc+,/sp
+
+MILAN,
+	MILAN/f+,/sp
+
+20124,
+	20124/nnc+,/sp
+
+ITALY-
+	ITALY/f+-/sd
+
+TEL
+	TEL/f
+
+:
+	:/sp
+
++39
+	+39/nnc
+
+02
+	02/nnc
+
+69831-
+	69831/nnc+-/sd
+
+호텔
+	호텔/ncn
+
+등급
+	등급/nbu
+
+:
+	:/sp
+
+-
+	-/sd
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+Hilton
+	Hilton/f
+
+Milan
+	Milan/f
+
+hotel
+	hotel/f
+
+바로가기-
+	바로가기-/ncn
+
+객실
+	객실/ncn
+
+상세정보
+	상세/ncn+정보/ncn
+
+:
+	:/sp
+
+Hilton
+	Hilton/f
+
+Milan
+	Milan/f
+
+hotel
+	hotel/f
+
+객실
+	객실/ncn
+
+상세정보
+	상세/ncn+정보/ncn
+
+바로가기
+	바로가/ncn+이/jp+기/etn
+
+
+-
+	-/sd
+
+가는
+	가/pvg+는/etm
+
+방법
+	방법/ncn
+
+:
+	:/sp
+
+밀라노
+	밀라노/ncn
+
+중앙역에도
+	중앙/ncn+역/ncn+에/jca+도/jxc
+
+도보
+	도보/ncpa
+
+5분
+	5/nnc+분/nbu

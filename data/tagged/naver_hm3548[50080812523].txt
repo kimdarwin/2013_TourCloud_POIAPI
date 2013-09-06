@@ -1,0 +1,1007 @@
+바다내음
+	바다/ncn+내음/ncn
+
+가득한
+	가득/ncps+한/ncn
+
+"
+	"/sl
+
+홍합밥홍합밥
+	홍합밥홍합밥/ncn
+
+양념장
+	양념장/ncn
+
+"만들기
+	"/sl+만들기/ncn
+
+
+오늘
+	오늘/ncn
+
+하루도
+	하루/ncn+도/jxc
+
+잘
+	잘/mag
+
+보내셨나용
+	보내셨나용/ncn
+
+?
+	?/sf
+
+
+흐흐~
+	흐흐/ncn+~/sd
+
+
+냥인
+	냥/nbu+이/jp+ㄴ/etm
+
+오늘따라~
+	오늘/ncn+따라/jxc+~/sd
+
+훌쩍
+	훌쩍/mag
+
+떠나서
+	떠나/pvg+아/ecx
+
+바다를
+	바다/ncn+를/jco
+
+보고싶은
+	보/pvg+고/ecx+싶/px+은/etm
+
+마음이
+	마음/ncn+이/jcc
+
+자꼬만
+	자꼬/mag+만/jxc
+
+스물스물
+	스물/nnc+스물/nnc
+
+꾸역꾸역~
+	꾸역꾸역~/ncn
+
+생겨서
+	생기/pvg+어서/ecs
+
+..
+	./sf+./sf
+
+
+바다내음
+	바다/ncn+내음/ncn
+
+가득한~
+	가득/ncps+한/ncn+~/sd
+
+홍합밥을
+	홍합/ncn+밥/ncn+을/jco
+
+만들어먹었어용
+	만들어먹었어용/ncn
+
+.
+	./sf
+
+
+냥이의
+	냥이/ncn+의/jcm
+
+고향은
+	고향/ncn+은/jxc
+
+포항이라죠
+	포항이라/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+어릴때부터
+	어리/paa+ㄹ/etm+때/nbn+부터/jxc
+
+바다향을
+	바다/ncn+향/ncn+을/jco
+
+맡고
+	맡/pvg+고/ecc
+
+자라서
+	자르/pvg+아/ecx
+
+바다를
+	바다/ncn+를/jco
+
+아주
+	아주/mag
+
+아주
+	아주/mag
+
+좋아한답니당
+	좋아한답니당/ncn
+
+.
+	./sf
+
+
+사랑한다
+	사랑/ncpa+하/xsva+ㄴ다/ef
+
+!
+	!/sf
+
+
+바다야
+	바다/ncn+이/jp+야/ef
+
+!
+	!/sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+홍합밥으로
+	홍합/ncn+밥/ncn+으로/jca
+
+만족하고
+	만족/ncn+하고/jct
+
+아무래도
+	아무렇/pad+어도/ecs
+
+곧
+	곧/maj
+
+한번
+	한/nnc+번/nbu
+
+가까운
+	가깝/paa+은/etm
+
+바다
+	바/nbn+이/jp+다/ef
+
+서해안이라도
+	서해안이라/ncn+도/jxc
+
+다녀와야할듯해용
+	다녀와야할듯해용/ncn
+
+.
+	./sf
+
+
+잇힝
+	잇힝/ncn
+
+!
+	!/sf
+
+
+홍합밥만들기와
+	홍합밥만들기/ncn+와/jcj
+
+홍합밥을하면
+	홍합밥을하/ncn+이/jp+면/ecs
+
+빠질
+	빠지/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+!
+	!/sf
+
+
+양념장만들기
+	양념장/ncn+만들기/ncn
+
+들어가볼까용
+	들어가볼까용/ncn
+
+?
+	?/sf
+
+
+재료
+	재료/ncn
+
+:
+	:/sp
+
+
+홍합밥{
+	홍합밥{/ncn
+
+쌀,
+	싸/paa+ㄹ/etm+,/sp
+
+다시마,
+	달/paa+시/ep+마/ef+,/sp
+
+홍합,
+	홍합/ncn+,/sp
+
+느타리버섯,
+	느타리버섯/ncn+,/sp
+
+양파,
+	양파/ncn+,/sp
+
+요리술(민들레대포)},
+	요리술/ncn+(/sl+민들레/ncn+대포/ncn+)/sr+}/sr+,/sp
+
+
+홍합밥
+	홍합/ncn+밥/ncn
+
+양념장
+	양념장/ncn
+
+{청고추,
+	{청고추,/ncn
+
+홍고추,
+	홍고추,/ncn
+
+대파,
+	대파/ncpa+,/sp
+
+다진마늘,
+	다진마늘,/ncn
+
+진간장,
+	진간장,/ncn
+
+참기름,
+	참기름/ncn+,/sp
+
+통깨,
+	통깨,/ncn
+
+고추가루,
+	고추가루/ncn+,/sp
+
+물조금
+	물조금/ncn
+
+
+홍합밥의
+	홍합/ncn+밥/ncn+의/jcm
+
+주재료
+	주재료/ncn
+
+홍합살은
+	홍합/ncn+살/ncn+은/jxc
+
+피쉬아울렛에서
+	피쉬아울렛/ncn+에서/jca
+
+2,500원에
+	2,500/nnc+원/nbu+에/jca
+
+구입했구요~
+	구입했구요~/ncn
+
+나머지
+	나머지/ncn
+
+부재료들은
+	부재료들/ncn+은/jxc
+
+집에
+	집/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+녀석들을
+	녀석/ncn+들/ncn+을/jco
+
+썼어용
+	썼어용/ncn
+
+.
+	./sf
+
+
+홍합밥만들기
+	홍합밥만들기/ncn
+
+
+홍합살은
+	홍합/ncn+살/ncn+은/jxc
+
+냉동실에서
+	냉동실/ncn+에서/jca
+
+꺼내
+	꺼내/pvg+어/ecx
+
+해동해요
+	해동/ncpa+하/xsva+어/ef+요/jxf
+
+.
+	./sf
+
+
+해동
+	해동/ncpa
+
+된
+	되/pvg+ㄴ/etm
+
+모습이
+	모습/ncn+이/jcc
+
+아주
+	아주/mag
+
+탱글탱글하니
+	탱글탱글하니/ncn
+
+좋네용
+	좋네용/ncn
+
+.
+	./sf
+
+
+잇힝~
+	잇힝/ncn+~/sd
+
+
+쌀은
+	쌀/ncn+은/jxc
+
+가족의
+	가족/ncn+의/jcm
+
+인원수에
+	인원수/ncn+에/jca
+
+맞게
+	맞/pvg+게/ecs
+
+맞추시되
+	맞추/pvg+시/ep+되/ecs
+
+약간
+	약간/mag
+
+적은양으로
+	적/paa+은/etm+양/nbn+으로/jca
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+(홍합과
+	(/sl+홍합/ncn+과/jcj
+
+야채가
+	야채/ncn+가/jcs
+
+좀
+	좀/mag
+
+들어가다보니
+	들/pvg+어/ecx+가/px+아/ecx+보/px+니/ecs
+
+양이
+	양/ncn+이/jcc
+
+좀
+	좀/mag
+
+많아져요
+	많/paa+아/ecx+지/px+어/ef+요/jxf
+
+.)
+	./sf+)/sr
+
+
+홍합밥은
+	홍합/ncn+밥/ncn+은/jxc
+
+딱
+	딱/mag
+
+먹을때
+	먹/pvg+을/etm+때/nbn
+
+만들어야하는거
+	만들어야하는거/ncn
+
+아시죠
+	알/pvg+시/ep+죠/ef
+
+?
+	?/sf
+
+
+미리
+	미리/mag
+
+만들어두거나~
+	만들/pvg+어/ecx+두/px+거나/ecc+~/sd
+
+많이
+	많/paa+이/xsa
+
+만들어서
+	만들/pvg+어서/ecs
+
+다음날로
+	다음날/ncn+로/jca
+
+넘어가면
+	넘/pvg+어/ecx+가/px+면/ecs
+
+맛이
+	맛/ncn+이/jcc
+
+없어져요
+	없/paa+어/ecx+지/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+양을
+	양/ncn+을/jco
+
+맞춘
+	맞추/pvg+ㄴ/etm
+
+쌀을
+	쌀/ncn+을/jco
+
+건다시마와
+	건다시마/ncn+와/jct
+
+함께
+	함께/mag
+
+물에
+	물/ncn+에/jca
+
+불려요
+	불리/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+느타리버섯과
+	느타리버섯/ncn+과/jcj
+
+양파를
+	양파/ncn+를/jco
+
+손질해서
+	손질/ncpa+하/xsva+어서/ecs
+
+준비해둬요
+	준비/ncpa+하/xsva+어/ecx+두/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+(마늘은
+	(/sl+마늘/ncn+은/jxc
+
+다른
+	다르/paa+ㄴ/etm
+
+녀석을
+	녀석/nbn+을/jco
+
+만든거라
+	만들/pvg+ㄴ/etm+것/nbn+이/jp+라/ef
+
+....
+	.../se+./sf
+
+
+;;
+	;/sy+;/sy
+
+마늘은
+	마늘/ncn+은/jxc
+
+기억에서
+	기억/nnc+에서/jca
+
+지워버리세요
+	집/pvg+어/ecx+버리/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+)
+	)/sr
+
+
+쌀이
+	쌀/ncn+이/jcc
+
+다~~
+	다~~/ncn
+
+불려졌으면
+	불리/pvg+어/ecx+지/px+었/ep+으면/ecs
+
+물을
+	물/ncn+을/jco
+
+맞추고
+	맞추/pvg+고/ecc
+
+양파,
+	양파/ncn+,/sp
+
+느타리버섯을
+	느타리버섯/ncn+을/jco
+
+넣고
+	넣/pvg+고/ecc
+
+
+해동
+	해동/ncpa
+
+된
+	되/pvg+ㄴ/etm
+
+홍합을
+	홍합/ncn+을/jco
+
+넣고
+	넣/pvg+고/ecc
+
+
+요리술(민들레대포)를
+	요리술(민들레대포)/ncn+를/jco
+
+넣고
+	넣/pvg+고/ecc
+
+
+슥슥
+	슥슥/ncn
+
+대충
+	대충/mag
+
+섞어서
+	섞/pvg+어서/ecs
+
+물을
+	물/ncn+을/jco
+
+맞춰요
+	맞추/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+물은
+	물/ncn+은/jxc
+
+보통
+	보통/mag
+
+밥할때보다
+	밥/ncpa+하/xsva+ㄹ/etm+때/nbn+보다/jca
+
+조금
+	조금/mag
+
+적게
+	적/paa+게/ecs
+
+넣어요
+	넣/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+(왜
+	(/sl+왜/mag
+
+??
+	?/sf+?/sf
+
+
+야채에서
+	야채/ncn+에서/jca
+
+물이
+	물/ncn+이/jcc
+
+나오기때문이예용
+	나오기때문이예용/ncn
+
+.)
+	./sf+)/sr
+
+
+이제
+	이제/mag
+
+압력밥솥은
+	압력/ncn+밥솥/ncn+은/jxc
+
+가스렌지의
+	가스렌지/ncn+의/jcm
+
+불위에~
+	불/nbu+위/xsnx+에/jca+~/sd
+
+
+전기밥솥은
+	전기밥솥/ncn+은/jxc
+
+전기밥통속으로
+	전기밥통/ncn+속/ncn+으로/jca
+
+들어가면되요
+	들어가면되요/ncn
+
+.
+	./sf
+
+
+냥이네는
+	냥/nbu+이/jp+네/ef+는/etm
+
+쿠첸밥솥
+	쿠첸밥솥/ncn
+
+찰진밥으로했어요
+	찰진밥으로했어요/ncn
+
+.
+	./sf
+
+
+홍합밥양념장
+	홍합밥양념장/ncn
+
+만들기
+	만들기/ncn
+
+
+청고추,
+	청고추,/ncn
+
+홍고추,
+	홍고추,/ncn
+
+대파를
+	대파/ncn+를/jco
+
+잘게
+	잘/paa+게/ecs
+
+썰어요
+	썰/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+다진마늘,
+	다진마늘,/ncn
+
+진간장을
+	진간장/ncn+을/jco
+
+넣어요
+	넣/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+참기름과
+	참기름/ncn+과/jcj
+
+통깨를
+	통깨/ncn+를/jco
+
+넣어요
+	넣/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+약간의
+	약간/ncn+의/jcm
+
+물과
+	물/ncn+과/jcj
+
+고추가루를
+	고추가루/ncn+를/jco
+
+넣고
+	넣/pvg+고/ecc
+
+잘
+	잘/mag
+
+섞으면
+	섞/pvg+으면/ecs
+
+
+홍합밥
+	홍합/ncn+밥/ncn
+
+양념장
+	양념장/ncn
+
+완성이에요
+	완성/ncpa+이/jp+에요/ef
+
+.
+	./sf
+
+
+참
+	참/ii
+
+쉽죠잉
+	쉽죠잉/ncn
+
+??
+	?/sf+?/sf
+
+
+이제
+	이제/mag
+
+양념장과
+	양념장/ncn+과/jcj
+
+홍합밥이
+	홍합/ncn+밥/ncn+이/jcc
+
+완성됐으면
+	완성/ncpa+되/xsvn+었/ep+으면/ecs
+
+홍합밥에
+	홍합/ncn+밥/ncn+에/jca
+
+양념장을
+	양념장/ncn+을/jco
+
+쓰윽쓰윽
+	쓰윽쓰윽/ncn
+
+비벼먹으면되요
+	비벼먹으면되요/ncn
+
+.
+	./sf
+
+
+홍합살과
+	홍합/ncn+살/ncn+과/jcj
+
+약간의
+	약간/ncn+의/jcm
+
+야채만
+	야채/ncn+만/jxc
+
+있으면
+	있/px+으면/ecs
+
+만들
+	만들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+초간단
+	초간/ncn+단/ncn
+
+별미
+	별미/ncn
+
+
+바다내음
+	바다/ncn+내음/ncn
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+"홍합밥"
+	"/sl+홍합/ncn+밥/ncn+"/sr
+
+
+요즘
+	요즘/mag
+
+바다내음이
+	바다/ncn+내음/ncn+이/jcc
+
+그리워서
+	그립/paa+어서/ecs
+
+훌~쩍
+	훌~쩍/ncn
+
+떠나버리고
+	떠나/pvg+아/ecx+버리/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+마음이
+	마음/ncn+이/jcc
+
+간절했는데
+	간절/ncps+하/xsms+었/ep+는데/ecs
+
+약간
+	약간/mag
+
+충족된
+	충족/ncpa+되/xsvn+ㄴ/etm
+
+기분이에용
+	기분이에용/ncn
+
+.
+	./sf
+
+
+바다가
+	바/nbn+이/jp+다가/ecs
+
+그리울때~
+	그립/paa+을/etm+때/nbn+~/sd
+
+!!
+	!/sf+!/sf
+
+
+홍합살
+	홍합/ncn+살/ncn
+
+급
+	급/nbu
+
+조달해서
+	조달/ncpa+해서/ncn
+
+홍합밥
+	홍합/ncn+밥/ncn
+
+한번
+	한/nnc+번/nbu
+
+드셔보세용
+	드셔보세용/ncn
+
+.
+	./sf
+
+
+홍합살450g
+	홍합살450g/ncn
+
+사러가기
+	사러가/pvg+기/etn
+
+
+365일
+	365/nnc+일/nbu
+
+언제나
+	언제나/mag
+
+저렴한
+	저렴/ncn+한/ncn
+
+가격
+	가격/ncn
+
+피쉬아울렛
+	피쉬아울렛/ncn
+
+
+다양한
+	다양/ncn+한/ncn
+
+요리정보와
+	요리/ncn+정보/ncn+와/jcj
+
+이벤트가
+	이벤트/ncn+가/jcs
+
+넘쳐나는
+	넘치/pvg+어/ecx+나/px+는/etm
+
+피쉬아울렛까페
+	피쉬아울렛까페/ncn
+
+로
+	로/ncn
+
+놀라가요~
+	놀라/pvg+아/ecx+가/px+아/ef+~/sd
+
+
+정말
+	정말/mag
+
+정말
+	정말/mag
+
+퍼가실땐
+	퍼가실땐/ncn
+
+퍼가요~라고
+	푸/pvg+어/ecx+가/px+아/ef+요/jxf+~/sd+라/ncn+이/jp+고/ecc
+
+댓글하나
+	댓글하/ncn+나/jcj
+
+남겨주시면
+	남기/pvg+어/ecx+주/px+시/ep+면/ecs
+
+좋을텐데
+	좋/paa+을텐데/ecs
+
+..
+	./sf+./sf
+
+
+아무
+	아무/mmd
+
+말도
+	말/ncn+도/jxc
+
+안하고
+	안/ncn+하고/jct
+
+퍼가기만
+	푸/pvg+어/ecx+가/px+기/etn+만/jxc
+
+하시면
+	하/px+시/ep+면/ecs
+
+미워요
+	밉/paa+어/ef+요/jxf
+
+.
+	./sf

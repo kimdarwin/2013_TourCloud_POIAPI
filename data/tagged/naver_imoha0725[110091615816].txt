@@ -1,0 +1,534 @@
+[서울]
+	[서울]/ncn
+
+뮤지컬
+	뮤지컬/ncn
+
+김종욱찾기
+	김종욱찾기/ncn
+
+
+카테고리
+	카테고리/ncn
+
+취미,
+	취미/ncn+,/sp
+
+예매,
+	예매/ncpa+,/sp
+
+여행/예약예매/공연,
+	여행/ncpa+//sp+예약/ncpa+예매/ncpa+//sp+공연/ncps+,/sp
+
+행사/뮤지컬
+	행사/ncpa+//sp+뮤지컬/ncn
+
+
+대학로
+	대학/ncn+로/jca
+
+예술마당
+	예술/ncn+마당/ncn
+
+1관,
+	1/nnc+관/nbu+,/sp
+
+2007/10/23
+	2007/nnc+//sp+10/nnc+//sp+23/nnc
+
+~
+	~/sd
+
+오픈런
+	오픈/ncpa+런/ncn
+
+
+평점
+	평점/ncn
+
+
+.
+	./sf
+
+
+로맨틱
+	로맨틱/ncps
+
+코미디
+	코미디/ncn
+
+뮤지컬,
+	뮤지컬/ncn+,/sp
+
+김종욱
+	김종욱/ncn
+
+찾기
+	찾/pvg+기/etn
+
+.
+	./sf
+
+
+지금
+	지금/mag
+
+곁에
+	곁/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+사람을
+	사람/ncn+을/jco
+
+두고
+	두/pvg+고/ecc
+
+첫사랑의
+	첫사랑/ncn+의/jcm
+
+환상을
+	환상/ncn+을/jco
+
+쫓는,
+	쫓/pvg+는/etm+,/sp
+
+
+첫사랑
+	첫사랑/ncn
+
+조차도
+	조/nnc+차/nbu+도/jxc
+
+곁에
+	곁/ncn+에/jca
+
+있을
+	있/px+을/etm
+
+때
+	때/ncn
+
+그저
+	그저/mag
+
+막연하게
+	막연/ncps+하/xsms+게/ecs
+
+인연일지
+	인연/ncn+이/jp+ㄹ지/ecs
+
+아닐지를
+	아니/paa+ㄹ/etm+지/nbn+를/jco
+
+의심하며
+	의심/ncpa+하/xsva+며/ecc
+
+보내버린
+	보내/pvg+어/ecx+버리/px+ㄴ/etm
+
+지우
+	지우/ncn
+
+.
+	./sf
+
+
+결국,
+	결국/ncn+,/sp
+
+지금
+	지금/mag
+
+바로
+	바로/mag
+
+곁에
+	곁/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+사람에게서
+	사람/ncn+에게서/jca
+
+사랑의
+	사랑/ncn+의/jcm
+
+눈을
+	눈/ncn+을/jco
+
+뜨게
+	뜨/pvg+게/ecs
+
+된다는
+	되/pvg+ㄴ다/ef+는/etm
+
+것을
+	것/nbn+을/jco
+
+깨닫게
+	깨닫/pvg+게/ecs
+
+되면서
+	되/nbu+이/jp+면서/ecc
+
+
+해피엔딩으로
+	해피엔딩/ncn+으로/jca
+
+끝나는
+	끝나/pvg+는/etm
+
+내가
+	나/npp+가/jcs
+
+조아하는
+	조아하/ncn+는/jxc
+
+류의
+	류/ncn+의/jcm
+
+내용입니다
+	내용/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+몇해전
+	몇/nnc+해/nbu+전/xsnx
+
+보았던
+	보/px+아/ep+ㄴ/etm
+
+작품인데
+	작품/ncn+이/jp+ㄴ데/ecs
+
+뮤지컬
+	뮤지컬/ncn
+
+넘버들도
+	넘버/ncn+들/ncn+도/jxc
+
+모두
+	모두/mag
+
+너무
+	너무/mag
+
+조아서
+	조/ncn+이/jp+아서/ecs
+
+OST까지
+	OST/f+까지/jxc
+
+구입해
+	구입/ncpa+하/xsva+어/ecx
+
+지금까지도
+	지금까지/ncn+도/jxc
+
+
+자주
+	자주/mag
+
+듣곤하는
+	듣곤하/ncn+는/jxc
+
+빼놓을
+	빼/pvg+어/ecx+놓/px+을/etm
+
+것이
+	것/nbn+이/jcc
+
+없는
+	없/paa+는/etm
+
+작품^^
+	작품^^/ncn
+
+개인적으로
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+참
+	참/mag
+
+좋아하는
+	좋아하/pvg+는/etm
+
+
+평들이
+	평/ncn+들/xsncc+이/jcc
+
+정반대로
+	정반대/ncn+로/jca
+
+엇갈려서
+	엇갈리/pvg+어서/ecs
+
+결정하기
+	결정/ncn+하기/ncn
+
+힘들다면,
+	힘들/pvg+다면/ecs+,/sp
+
+그냥
+	그냥/mag
+
+뮤지컬
+	뮤지컬/ncn
+
+넘버듣기만
+	넘버/ncn+듣기/ncn+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+좋을
+	좋/paa+을/etm
+
+듯해요
+	듯하/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+오늘
+	오늘/ncn
+
+우연히
+	우연히/mag
+
+지인이
+	지인/ncn+이/jcc
+
+마침
+	마침/mag
+
+담주에
+	담주/ncn+에/jca
+
+김종욱
+	김종욱/ncn
+
+찾기
+	찾/pvg+기/etn
+
+보러갈
+	보러갈/ncn
+
+거라기에
+	것/nbn+이/jp+라기/etn+에/jca
+
+문득
+	문득/mag
+
+생각이
+	생각/ncpa+이/jcc
+
+나
+	나/npp
+
+되짚어
+	되짚어/ncn
+
+보네요^^
+	보네요/ncn+^/sy+^/sy
+
+
+이번
+	이/nnc+번/nbu
+
+여름시즌엔
+	여름/ncn+시즌/ncn+엔/jca
+
+볼만한
+	보/px+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+것을
+	것/nbn+을/jco
+
+찾지
+	찾/pvg+지/ecx
+
+못해서
+	못하/px+어서/ecs
+
+뜸~하고
+	뜸~하/ncn+이/jp+고/ecc
+
+있지만
+	있/paa+지만/ecs
+
+
+겨울시즌엔제가
+	겨울시즌엔제/ncn+가/jcs
+
+볼만한
+	보/px+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+작품들이
+	작품/ncn+들/ncn+이/jcc
+
+나와주겠죠
+	나오/pvg+아/ecx+주/px+겠/ep+죠/ef
+
+?!
+	?/sf+!/sf
+
+
+그랬으면
+	그렇/pad+었/ep+으면/ecs
+
+좋겠군요
+	좋/paa+겠/ep+군요/ef
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+말복,
+	말복/ncn+,/sp
+
+
+어제는
+	어제/ncn+는/jxc
+
+입추라하더니
+	입추라하더/ncn+이/jp+니/ecs
+
+...
+	.../se
+
+
+아침
+	아침/ncn
+
+저녁으로
+	저녁/ncn+으로/jca
+
+벌써
+	벌써/mag
+
+미친듯이
+	미치/pvg+ㄴ/etm+듯/nbs+이/jcc
+
+덥던
+	덥/paa+던/etm
+
+그
+	그/mmd
+
+후끈함은
+	후끈함/ncn+은/jxc
+
+살짜기
+	살짜기/mag
+
+가셔준듯합니다
+	가/px+시/ep+어/ecx+주/px+ㄴ/etm+듯/nbs+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+아직
+	아직/mag
+
+한낮은
+	한낮/ncn+은/jxc
+
+덥고
+	덥/paa+고/ecc
+
+습해서
+	습하/paa+어서/ecs
+
+정신없긴
+	정신없긴/ncn
+
+해도
+	하/pvg+어도/ecs
+
+말이죠^^
+	말이죠/ncn+^/sy+^/sy
+
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+여름
+	여름/ncn
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+추억만들기
+	추억/ncpa+만들기/ncn
+
+프로젝트에
+	프로젝트/ncn+에/jca
+
+일환으로
+	일환/ncn+으로/jca
+
+연인이
+	연인/ncn+이/jcc
+
+있다면,
+	있/px+다면/ecs+,/sp
+
+혹은
+	혹은/maj
+
+동성친구간에도
+	동성/ncn+친구간/ncn+에도/jca
+
+
+함께
+	함께/mag
+
+보면
+	보/px+면/ecs
+
+좋을만한
+	좋/paa+을/etm+만/nbs+하/xsms+ㄴ/etm
+
+뮤지컬로
+	뮤지컬/ncn+로/jca
+
+추천할게요^^
+	추천할게요^^/ncn
+
+!
+	!/sf
+
+
+-
+	-/sd
+
+IMOHA,
+	IMOHA/f+,/sp
+
+2008
+	2008/nnc
+
+.
+	./sf
+
+
+8.
+	8./nnc
+
+
+-
+	-/sd
+
+With
+	With/f
+
+SSo
+	SSo/f

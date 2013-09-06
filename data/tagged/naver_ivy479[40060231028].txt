@@ -1,0 +1,2593 @@
+사람풍경
+	사람/ncn+풍경/ncn
+
+...
+	.../se
+
+
+사람이
+	사람/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+풍경일까
+	풍경/ncn+이/jp+ㄹ까/ef
+
+?
+	?/sf
+
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+만들어낸
+	만들/pvg+어/ecx+내/px+ㄴ/etm
+
+풍경일까
+	풍경/ncn+이/jp+ㄹ까/ef
+
+?
+	?/sf
+
+
+사람풍경이라는
+	사람/ncn+풍경/ncn+이/jp+라/ef+는/etm
+
+제목속에서
+	제목/ncn+속/ncn+에서/jca
+
+왠지
+	왠지/mag
+
+낯선
+	낯설/paa+ㄴ/etm
+
+유혹을
+	유혹/ncpa+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+쉽게
+	쉽/paa+게/ecs
+
+다가갈
+	다가가/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없었던
+	없/paa+었/ep+던/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+것들
+	것들/ncn
+
+..
+	./sf+./sf
+
+
+심리
+	심리/ncn
+
+여행
+	여행/ncpa
+
+에세이라는
+	에세이/ncn+라는/jcm
+
+부제
+	부제/ncn
+
+또한
+	또한/maj
+
+나를
+	나/npp+를/jco
+
+멈칫거리게
+	멈칫거리/pvg+게/ecs
+
+했었다
+	하/px+었었/ep+다/ef
+
+.
+	./sf
+
+
+그랬음에도
+	그렇/pad+었/ep+음/etn+에/jca+도/jxc
+
+불구하고
+	불구/ncps+하고/jct
+
+"언니,
+	"/sl+언니/ncn+,/sp
+
+사람풍경
+	사람/ncn+풍경/ncn
+
+읽어보셨죠
+	읽/pvg+어/ecx+보/px+셨/ep+죠/ef
+
+?"
+	?/sf+"/sl
+
+
+라는
+	라/ncn+는/jxc
+
+후배녀석의
+	후배/ncn+녀석/ncn+의/jcm
+
+단
+	단/nbu
+
+한마디에
+	한/nnc+마디/nbu+에/jca
+
+무언가로
+	무언가/npd+로/jca
+
+한
+	하/pvg+ㄴ/etm
+
+방
+	방/ncn
+
+얻어맞은
+	얻어맞/pvg+은/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+들었던
+	들/pvg+었/ep+던/etm
+
+것은
+	것/nbn+은/jxc
+
+왜였을까
+	왜였을까/ncn
+
+?
+	?/sf
+
+
+거부할
+	거부/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+것이
+	것/nbn+이/jcc
+
+바로
+	바로/mag
+
+나
+	나/npp
+
+자신에
+	자신/ncn+에/jca
+
+관한
+	관하/pvg+ㄴ/etm
+
+이야기일
+	이야기/ncpa+이/jp+ㄹ/etm
+
+거라는
+	것/nbn+이/jp+라/ef+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+모든
+	모든/mma
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+자신의
+	자신/ncn+의/jcm
+
+이야기를
+	이야기/ncpa+를/jco
+
+할
+	하/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+제
+	저/npp+의/jcm
+
+3자의
+	3/nnc+자/nbu+의/jcm
+
+이름을
+	이름/ncn+을/jco
+
+빌려서
+	빌리/pvg+어서/ecs
+
+한다고
+	하/px+ㄴ다/ef+고/jcr
+
+했던가
+	하/px+었/ep+던가/ef
+
+?
+	?/sf
+
+
+그렇다면
+	그렇다면/maj
+
+작가는
+	작/nbn+가/jcs+는/jxc
+
+이
+	이/mmd
+
+책속에서
+	책/ncn+속/xsnx+에서/jca
+
+오롯이
+	오롯/ncn+이/jcc
+
+자신의
+	자신/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+있을까
+	있/px+을까/ef
+
+?
+	?/sf
+
+
+아마도
+	아마/mag+도/jxc
+
+아닐
+	아니/paa+ㄹ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+아니
+	아니/ii
+
+나만큼은
+	나/npp+만큼/jxc+은/jxc
+
+정말
+	정말/mag
+
+다
+	다/mag
+
+보여주지는
+	보이/pvg+어/ecx+주/px+지/ecs+는/jxc
+
+않았을거라고
+	않/px+아/ep+ㄹ/etm+것/nbn+이/jp+라/ef+고/jcr
+
+확신한다
+	확신/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+그렇게
+	그렇/pad+게/ecs
+
+된다면
+	되/pvg+ㄴ다면/ecs
+
+작가는
+	작/nbn+가/jcs+는/jxc
+
+아마도
+	아마/mag+도/jxc
+
+두번다시
+	두번다시/ncn
+
+글을
+	글/ncn+을/jco
+
+쓸
+	쓰/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없을거라는
+	없/paa+을/etm+것/nbn+이/jp+라/ef+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들기
+	들/pvg+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+어쩌면
+	어쩌면/mag
+
+우리
+	우리/npp
+
+모두는
+	모두/ncn+는/jxc
+
+나
+	나/npp
+
+자신과의
+	자신/ncn+과의/jcm
+
+만남을
+	만나/pvg+ㅁ/etn+을/jco
+
+가장
+	가장/mag
+
+두려워하고
+	두렵/paa+어/ecx+하/px+고/ecc
+
+있는
+	있/px+는/etm
+
+것은
+	것/nbn+은/jxc
+
+아닐까
+	아니/paa+ㄹ까/ef
+
+?
+	?/sf
+
+
+과감하게
+	과감/ncps+하/xsms+게/ecs
+
+또다른
+	또다른/mma
+
+나와
+	나/npp+와/jct
+
+부딪혀
+	부딪히/pvg+어/ecx
+
+싸워
+	싸우/pvg+어/ecx
+
+이길
+	이기/pvg+ㄹ/etm
+
+자신이
+	자신/npp+이/jcs
+
+없을
+	없/paa+을/etm
+
+거라는
+	것/nbn+이/jp+라/ef+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+든다
+	들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+내
+	내/npp
+
+속의
+	속/ncn+의/jcm
+
+모든
+	모든/mma
+
+것들을
+	것들/ncn+을/jco
+
+속속들이
+	속속들이/mag
+
+끄집어
+	끄집/pvg+어/ecx
+
+내어
+	내/pvg+어/ecx
+
+이건
+	이/npd+이/jp+건/ecc
+
+이렇고
+	이렇/pad+고/ecc
+
+저건
+	저/npp+이/jp+건/ecc
+
+저렇고
+	저렇/pad+고/ecc
+
+따지고
+	뜨/pvg+어/ecx+지/px+고/ecc
+
+든다는
+	들/pvg+ㄴ다/ef+는/etm
+
+것이
+	것/nbn+이/jcc
+
+그리
+	그리/mad
+
+쉽지만은
+	쉽/paa+지만/ecs+은/jxc
+
+아닐
+	아니/paa+ㄹ/etm
+
+것이기
+	것/nbn+이/jp+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+쉽게
+	쉽/paa+게/ecs
+
+말한다면
+	말/ncpa+하/xsva+ㄴ다면/ecs
+
+하나의
+	하나/nnc+의/jcm
+
+약점처럼
+	약점/ncn+처럼/jca
+
+작용할
+	작용/ncpa+하/xsva+ㄹ/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+것들이
+	것들/ncn+이/jcc
+
+밖으로
+	밖/ncn+으로/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+게
+	것/nbn+이/jcs
+
+싫은
+	싫/paa+은/etm
+
+것일게다
+	것일게/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이중생활
+	이중생활/ncpa
+
+..
+	./sf+./sf
+
+
+내가
+	나/npp+가/jcs
+
+아는
+	알/pvg+는/etm
+
+나와
+	나/npp+와/jcj
+
+남이
+	남/ncn+이/jcc
+
+아는
+	알/pvg+는/etm
+
+나와의
+	나와/ncn+의/jcm
+
+차이점
+	차이/ncn+점/ncn
+
+앞에서
+	앞/ncn+에서/jca
+
+간혹
+	간혹/mag
+
+당혹스럽다는
+	당혹/ncpa+스럽/xsmn+다/ef+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+해보지
+	하/pvg+어/ecx+보/px+지/ecx
+
+않은
+	않/px+은/etm
+
+사람이
+	사람/ncn+이/jcc
+
+있을까
+	있/px+을까/ef
+
+?
+	?/sf
+
+
+누구에게도
+	누구/npp+에게/jca+도/jxc
+
+보여주지
+	보이/pvg+어/ecx+주/px+지/ecx
+
+않는,
+	않/px+는/etm+,/sp
+
+혹은
+	혹은/maj
+
+보여주지
+	보이/pvg+어/ecx+주/px+지/ecx
+
+못하는
+	못하/px+는/etm
+
+내
+	내/npp
+
+안의
+	안/ncn+의/jcm
+
+나는
+	나/npp+는/jxc
+
+오로지
+	오로지/mag
+
+나만이알고
+	나만이알고/ncn
+
+있을
+	있/px+을/etm
+
+뿐이다
+	뿐/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+아무리
+	아무리/mag
+
+절친한
+	절친/ncps+하/xsms+ㄴ/etm
+
+친구라해도,
+	친구라해도,/ncn
+
+아무리
+	아무리/mag
+
+허물없이
+	허물/ncn+없이/jca
+
+지내는
+	지내/pvg+는/etm
+
+그야말로
+	그/npp+야말로/jxc
+
+기쁨과
+	기쁘/paa+ㅁ/etn+과/jcj
+
+슬픔을
+	슬프/paa+ㅁ/etn+을/jco
+
+다
+	다/mag
+
+나누어가지는
+	나누/pvg+어/ecx+가/px+아/ecx+지/px+는/etm
+
+친구라해도
+	친구라해/ncn+도/jxc
+
+100%
+	100/nnc+%/su
+
+자신을
+	자신/ncn+을/jco
+
+보여준다는
+	보이/pvg+어/ecx+주/px+ㄴ다/ef+는/etm
+
+게
+	것/nbn+이/jcs
+
+그리
+	그리/mad
+
+쉬운
+	쉽/paa+은/etm
+
+일만은
+	일/ncn+만은/jxc
+
+아닐
+	아니/paa+ㄹ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+과감하게
+	과감/ncps+하/xsms+게/ecs
+
+자기
+	자기/npp
+
+자신에게
+	자신/ncn+에게/jca
+
+메스를
+	메스/ncn+를/jco
+
+들이댄
+	들이대/pvg+ㄴ/etm
+
+작가의
+	작가/ncr+의/jcm
+
+용기에
+	용기/ncn+에/jca
+
+감탄했다
+	감탄/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+자기안에
+	자기/ncn+안/ncn+에/jca
+
+꽁꽁
+	꽁꽁/mag
+
+숨어버린
+	숨/pvg+어/ecx+버리/px+ㄴ/etm
+
+또하나의
+	또하나/npd+의/jcm
+
+자기를
+	자기/npp+를/jco
+
+불러내기
+	부르/pvg+어/ecx+내/px+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+얼마나
+	얼마나/mag
+
+힘겨운
+	힘겹/paa+은/etm
+
+싸움을
+	싸우/pvg+ㅁ/etn+을/jco
+
+했었는지
+	하/px+었었/ep+는지/ecs
+
+나는
+	나/npp+는/jxc
+
+알지
+	알/pvg+지/ecx
+
+못한다
+	못하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+낯선
+	낯설/paa+ㄴ/etm
+
+타지에서
+	타지/ncn+에서/jca
+
+낯선
+	낯설/paa+ㄴ/etm
+
+얼굴과
+	얼굴/ncn+과/jcj
+
+마주하고낯선
+	마주하고낯선/ncn
+
+이름들과
+	이름/ncn+들/ncn+과/jct
+
+섞이고
+	섞이/pvg+고/ecc
+
+가끔은
+	가끔/mag+은/jxc
+
+그들에게
+	그들/npp+에게/jca
+
+밀려
+	밀리/pvg+어/ecx
+
+시선속의
+	시선/ncn+속/ncn+의/jcm
+
+내침을
+	내치/pvg+ㅁ/etn+을/jco
+
+당하면서도
+	당하/pvg+면서/ecs+도/jxc
+
+버텨낼
+	버티/pvg+어/ecx+내/px+ㄹ/etm
+
+수
+	수/nbn
+
+있었던
+	있/paa+었/ep+던/etm
+
+것은
+	것/nbn+은/jxc
+
+아마도
+	아마/mag+도/jxc
+
+또하나의
+	또하나/npd+의/jcm
+
+나와
+	나/npp+와/jct
+
+타협해야했던
+	타협/ncpa+하/xsva+어야/ecx+하/px+었/ep+던/etm
+
+까닭은
+	까닭/ncn+은/jxc
+
+아니었을까
+	아니/paa+었/ep+을까/ef
+
+?
+	?/sf
+
+
+작가가
+	작가/ncr+가/jcc
+
+지나쳐왔던
+	지나치/pvg+어/ecx+오/px+아/ep+ㄴ/etm
+
+어린
+	어리/paa+ㄴ/etm
+
+시절속에는
+	시절/ncn+속/ncn+에/jca+는/jxc
+
+너무도
+	너무/mag+도/jxc
+
+많은
+	많/paa+은/etm
+
+것들이
+	것들/ncn+이/jcc
+
+자리하고
+	자리/ncn+하고/jct
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+잃어버려야만
+	잃/pvg+어/ecx+버리/px+어야/ecs+만/jxc
+
+했던
+	하/px+었/ep+던/etm
+
+것들,
+	것들,/ncn
+
+잊고
+	잊/pvg+고/ecc
+
+지내야만
+	지내/pvg+어야/ecs+만/jxc
+
+했던
+	하/px+었/ep+던/etm
+
+것들,
+	것들,/ncn
+
+그것도
+	그것/npd+도/jxc
+
+아니라면
+	아니/paa+라면/ecs
+
+잃어버린
+	잃/pvg+어/ecx+버리/px+ㄴ/etm
+
+척,
+	척/ncn+,/sp
+
+잊어버린
+	잊/pvg+어/ecx+버리/px+ㄴ/etm
+
+척
+	척/mag
+
+그렇게
+	그렇/pad+게/ecs
+
+내버려둬야
+	내/pvg+어/ecx+버리/px+어/ecx+두/px+어야/ecs
+
+했던
+	하/px+었/ep+던/etm
+
+모든
+	모든/mma
+
+감정들이
+	감정/ncn+들이/ncn
+
+그
+	그/mmd
+
+속에
+	속/ncn+에/jca
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+자신도
+	자신/ncn+도/jxc
+
+모르게
+	모르/pvg+게/ecs
+
+자신안에
+	자신/ncn+안/ncn+에/jca
+
+들어와
+	들/pvg+어/ecx+오/px+아/ecx
+
+또하나의
+	또하나/npd+의/jcm
+
+나로
+	나/npp+로/jca
+
+들어앉아버린
+	들어앉/pvg+아/ecx+버리/px+ㄴ/etm
+
+것들
+	것들/ncn
+
+..
+	./sf+./sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+것들을
+	것들/ncn+을/jco
+
+찾아낼
+	찾/pvg+아/ecx+내/px+ㄹ/etm
+
+수
+	수/nbn
+
+있었던
+	있/paa+었/ep+던/etm
+
+작가의
+	작가/ncr+의/jcm
+
+마음이
+	마음/ncn+이/jcc
+
+나는
+	나/npp+는/jxc
+
+너무도
+	너무/mag+도/jxc
+
+부러웠다
+	부럽/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+너무
+	너무/mag
+
+어렵지
+	어렵/paa+지/ecx
+
+않게,
+	않/px+게/ecs+,/sp
+
+하지만
+	하/pvg+지만/ecs
+
+너무
+	너무/mag
+
+쉽지도
+	쉽/paa+지/ecs+도/jxc
+
+않게
+	않/px+게/ecs
+
+써내려간
+	쓰/pvg+어/ecx+내리/px+어/ecx+가/px+ㄴ/etm
+
+내용들이
+	내용/ncn+들/ncn+이/jcc
+
+나와는
+	나/npp+와/jct+는/jxc
+
+너무도
+	너무/mag+도/jxc
+
+많은
+	많/paa+은/etm
+
+공감대를
+	공감대/ncn+를/jco
+
+형성했다
+	형성/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+같은
+	같/paa+은/etm
+
+세대라는
+	세/paa+어/ecx+대/px+라/ef+는/etm
+
+이유때문일수도
+	이유때문/ncn+이/jp+ㄹ/etm+수/nbn+도/jxc
+
+있겠지만
+	있/px+겠/ep+지만/ecs
+
+나로써도
+	나/npp+로써/jca+도/jxc
+
+차마
+	차마/mag
+
+인정하고
+	인정/ncn+하고/jct
+
+싶지
+	싶/px+지/ecx
+
+않았던
+	않/px+아/ep+ㄴ/etm
+
+내
+	내/npp
+
+어린날의
+	어린/ncn+날/ncn+의/jcm
+
+기억들이
+	기억/ncpa+들/xsncc+이/jcc
+
+또한번
+	또한번/npd
+
+나를
+	나/npp+를/jco
+
+찾아왔던
+	찾/pvg+아/ecx+오/px+아/ep+ㄴ/etm
+
+까닭이기도
+	까닭/ncn+이/jp+기/etn+도/jxc
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+나와
+	나/npp+와/jct
+
+다른
+	다르/paa+ㄴ/etm
+
+점이
+	점/nbu+이/jcc
+
+있다면
+	있/px+다면/ecs
+
+과감하게
+	과감/ncps+하/xsms+게/ecs
+
+메스를
+	메스/ncn+를/jco
+
+들이댄
+	들이대/pvg+ㄴ/etm
+
+작가와는
+	작가/ncr+와/jct+는/jxc
+
+달리
+	달리/mag
+
+나는
+	나/npp+는/jxc
+
+아직까지도
+	아직/mag+까지/jxc+도/jxc
+
+내
+	내/npp
+
+안의
+	안/ncn+의/jcm
+
+나와
+	나/npp+와/jct
+
+마주친다는
+	마주치/pvg+ㄴ다/ef+는/etm
+
+것에
+	것/nbn+에/jca
+
+대하여
+	대/pvg+어/ecx+하/px+어/ecx
+
+그야말로
+	그야말로/mag
+
+왕공포증이
+	왕공포증/ncn+이/jcc
+
+있다는
+	있/px+다/ef+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+어쩌면
+	어쩌면/mag
+
+그
+	그/mmd
+
+순간이
+	순간/ncn+이/jcc
+
+내
+	내/pvg+어/ecx
+
+마지막이
+	마지막/ncn+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+것만
+	것/nbn+만/jxc
+
+같다는
+	같/paa+다/ef+는/etm
+
+그
+	그/mmd
+
+공포증앞에서
+	공포증/ncn+앞/ncn+에서/jca
+
+나는
+	나/npp+는/jxc
+
+달려가다가도
+	달리/pvg+어/ecx+가/px+아/ecx+가/px+아/ecs
+
+우뚝
+	우뚝/mag
+
+멈춰버리고
+	멈추/pvg+어/ecx+버리/px+고/ecc
+
+만다
+	말/px+ㄴ다/ef
+
+.
+	./sf
+
+
+무너져버릴
+	무너지/pvg+어/ecx+버리/px+ㄹ/etm
+
+것만
+	것/nbn+만/jxc
+
+같은,
+	같/paa+은/etm+,/sp
+
+무너져버릴지도
+	무너지/pvg+어/ecx+버리/px+ㄹ지/ecs+도/jxc
+
+모른다고
+	모르/pvg+ㄴ다/ef+고/jcr
+
+지레
+	지레/ncn
+
+짐작하는
+	짐작/ncpa+하/xsva+는/etm
+
+그
+	그/mmd
+
+순간을
+	순간/ncn+을/jco
+
+이겨낼
+	이기/pvg+어/ecx+내/px+ㄹ/etm
+
+자신이
+	자신/npp+이/jcs
+
+나에게는
+	나/npp+에게/jca+는/jxc
+
+아직
+	아직/mag
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+그래서였을까
+	그래서였을까/ncn
+
+?
+	?/sf
+
+
+첫장을
+	첫/nno+장/nbu+을/jco
+
+넘기고부터
+	넘/pvg+기/etn+이/jp+고/ecs+부터/jxc
+
+마지막장을
+	마지막장/ncn+을/jco
+
+덮기까지
+	덮/pvg+기/etn+까지/jxc
+
+너무도
+	너무/mag+도/jxc
+
+많은
+	많/paa+은/etm
+
+시간이
+	시간/ncn+이/jcc
+
+걸렸다
+	걸리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+한장
+	한/nnc+장/nbu
+
+한장
+	한/nnc+장/nbu
+
+넘길때마다
+	넘기/pvg+ㄹ/etm+때/nbn+마다/jxc
+
+콕콕
+	콕콕/mag
+
+찌르는
+	찌르/pvg+는/etm
+
+어떤
+	어떤/mmd
+
+것들이
+	것들/ncn+이/jcc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+다
+	다/mag
+
+그렇다는
+	그렇/pad+다/ef+는/etm
+
+것은
+	것/nbn+은/jxc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+대체적으로
+	대체/ncn+적/ncn+으로/jca
+
+그랬다는
+	그렇/pad+었/ep+다/ef+는/etm
+
+말이다
+	말/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+역설적이게도
+	역설/ncn+적/ncn+이/jp+게/ecs+도/jxc
+
+이
+	이/mmd
+
+책속에서는
+	책/ncn+속/xsnx+에서/jca+는/jxc
+
+기준을
+	기준/ncpa+을/jco
+
+뒤집어버리는
+	뒤집/pvg+어/ecx+버리/px+는/etm
+
+내용이
+	내용/ncn+이/jcc
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+억압된
+	억압/ncpa+되/xsvn+ㄴ/etm
+
+분노를
+	분노/ncpa+를/jco
+
+이야기하며
+	이야기/ncpa+하/xsva+며/ecc
+
+혹시
+	혹시/mag
+
+당신
+	당신/npp
+
+주변에
+	주변/ncn+에/jca
+
+사려
+	사리/pvg+어/ecx
+
+깊고
+	깊/paa+고/ecc
+
+헌신적이고,
+	헌신/ncpa+적/ncn+이/jp+고/ecc+,/sp
+
+충직하고
+	충직/ncps+하고/jct
+
+성실하며
+	성실/ncps+하/xsms+며/ecc
+
+항상
+	항상/mag
+
+믿을
+	믿/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+사람이
+	사람/ncn+이/jcc
+
+있느냐고
+	있/px+느냐/ef+고/jcr
+
+묻고
+	묻/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+남을
+	남/ncn+을/jco
+
+위할
+	위하/pvg+ㄹ/etm
+
+줄
+	줄/nbn
+
+알고
+	알/pvg+고/ecx
+
+모든
+	모든/mma
+
+것을
+	것/nbn+을/jco
+
+이해하며
+	이해/ncpa+하/xsva+며/ecc
+
+이웃과
+	이웃과/ncn
+
+무엇이든
+	무엇/npd+이/jp+든/ecs
+
+나누고자
+	나누/pvg+고자/ecx
+
+하는
+	하/pvg+는/etm
+
+마음을
+	마음/ncn+을/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+사람이
+	사람/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+어쩌면
+	어쩌면/mag
+
+모든
+	모든/mma
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+이상형처럼
+	이상/ncn+형/ncn+처럼/jca
+
+생각해왔던
+	생각/ncpa+하/xsva+어/ecx+오/px+아/ep+ㄴ/etm
+
+모습을
+	모습/ncn+을/jco
+
+하며
+	하/pvg+며/ecc
+
+사는
+	사/pvg+는/etm
+
+사람
+	사람/ncn
+
+..
+	./sf+./sf
+
+
+그들내부에는
+	그들내부/ncn+에/jca+는/jxc
+
+분노가
+	분노/ncpa+가/jcc
+
+억압되어
+	억압/ncpa+되/xsvn+어/ecx
+
+있으며
+	있/px+으며/ecc
+
+상대방에게
+	상대방/ncn+에게/jca
+
+주먹을
+	주먹/ncn+을/jco
+
+휘두를까
+	휘두르/pvg+ㄹ까/ecs
+
+봐
+	보/pvg+아/ecx
+
+자신의
+	자신/ncn+의/jcm
+
+손목을
+	손목/ncn+을/jco
+
+절단하는
+	절단/ncpa+하/xsva+는/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+삶을
+	삶/ncn+을/jco
+
+사는
+	사/pvg+는/etm
+
+사람들이라는
+	사람들/ncn+이/jp+라/ef+는/etm
+
+말은
+	말/ncn+은/jxc
+
+정말
+	정말/mag
+
+놀라웠다
+	놀랍/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+누구에게나
+	누구/npp+에게/jca+나/jxc
+
+억압된
+	억압/ncpa+되/xsvn+ㄴ/etm
+
+분노는
+	분노/ncpa+는/jxc
+
+있다고
+	있/px+다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+살아가면서
+	살/pvg+아/ecx+가/px+면서/ecc
+
+그
+	그/mmd
+
+많은
+	많/paa+은/etm
+
+감정들을
+	감정/ncn+들/ncn+을/jco
+
+다
+	다/mag
+
+표현하고
+	표현/ncpa+하고/jct
+
+내뱉으며
+	내뱉/pvg+으며/ecc
+
+살
+	사/pvg+ㄹ/etm
+
+수는
+	수/nbn+는/jxc
+
+없는
+	없/paa+는/etm
+
+일이다
+	일/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그러면서도
+	그러/pvd+면서/ecs+도/jxc
+
+해답처럼
+	해답/ncpa+처럼/jca
+
+제시되는
+	제/npp+이/jp+시/ep+되/ecs+는/jxc
+
+글을
+	글/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+정말
+	정말/mag
+
+아이러니가
+	아이러니/ncn+가/jcs
+
+아닐
+	아니/paa+ㄹ/etm
+
+수
+	수/nbn
+
+없었다
+	없/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+모든
+	모든/mma
+
+고통의
+	고통/ncn+의/jcm
+
+원인이
+	원인/ncn+이/jcc
+
+다른
+	다르/paa+ㄴ/etm
+
+사람들이라
+	사람들/ncn+이/jp+라/ecs
+
+생각했지만
+	생각/ncpa+하/xsva+었/ep+지만/ecs
+
+결코
+	결코/mag
+
+그렇지가
+	그렇/pad+지/ecx+가/px+아/ecx
+
+않았다는
+	않/px+아/ep+다/ef+는/etm
+
+거다
+	거/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+일어나는
+	일어나/pvg+는/etm
+
+모든
+	모든/mma
+
+일에는
+	일/ncn+에/jca+는/jxc
+
+원인이
+	원인/ncn+이/jcc
+
+있고
+	있/px+고/ecc
+
+그
+	그/mmd
+
+고통의
+	고통/ncn+의/jcm
+
+가장
+	가장/mag
+
+큰
+	크/paa+ㄴ/etm
+
+불씨는
+	불씨/ncn+는/jxc
+
+바로
+	바로/mag
+
+자기
+	자기/npp
+
+자신이
+	자신/npp+이/jcs
+
+만들어내는
+	만들/pvg+어/ecx+내/px+는/etm
+
+것이라는
+	것/nbn+이/jp+라/ef+는/etm
+
+것.
+	것/nbn+./sf
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+무조건
+	무조건/mag
+
+내
+	내/npp
+
+탓으로
+	탓/ncpa+으로/jca
+
+돌려
+	돌리/pvg+어/ecx
+
+참으라는
+	참/pvg+으라/ef+는/etm
+
+게
+	것/nbn+이/jcs
+
+아니라
+	아니/paa+라/ecs
+
+자신의
+	자신/ncn+의/jcm
+
+마음을
+	마음/ncn+을/jco
+
+활짝
+	활짝/mag
+
+열고
+	열/pvg+고/ecc
+
+가만히
+	가만히/mag
+
+문제
+	문제/ncn
+
+안으로
+	안/ncn+으로/jca
+
+파고
+	파/pvg+고/ecc
+
+들어가보면
+	들/pvg+어/ecx+가/px+아/ecx+보/px+면/ecs
+
+자연스레
+	자연스레/mag
+
+알수
+	알/pvg+ㄹ/etm+수/nbn
+
+있다는
+	있/px+다/ef+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+나는
+	나/npp+는/jxc
+
+다시한번
+	다시한번/ncn
+
+고개를
+	고개/ncn+를/jco
+
+끄덕이게
+	끄덕이/pvg+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+여행을
+	여행/ncpa+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+만나는
+	만나/pvg+는/etm
+
+사람들과
+	사람들/ncn+과/jcj
+
+환경을
+	환경/ncn+을/jco
+
+들먹이며
+	들먹이/pvg+며/ecc
+
+우리의
+	우리/npp+의/jcm
+
+감정속을
+	감정/ncn+속/ncn+을/jco
+
+헤집어
+	헤집어/ncn
+
+놓는다
+	놓/px+는다/ef
+
+.
+	./sf
+
+
+분노,
+	분노/ncpa+,/sp
+
+우울,
+	우울/ncps+,/sp
+
+공포,
+	공포/ncpa+,/sp
+
+불안,
+	불안/ncps+,/sp
+
+무의식,
+	무의식/ncn+,/sp
+
+사랑같은
+	사랑/ncpa+같/xsmn+은/etm
+
+기본적인
+	기본/ncn+적/ncn+이/jp+ㄴ/etm
+
+감정들에
+	감정/ncn+들/ncn+에/jca
+
+대하여
+	대/pvg+어/ecx+하/px+어/ecx
+
+..
+	./sf+./sf
+
+
+질투나
+	지/px+ㄹ/etm+투/nbn+이/jp+나/ecs
+
+시기심,
+	시/nbu+이/jp+기/etn+이/jp+시/ep+ㅁ/etn+,/sp
+
+중독,
+	중독/ncpa+,/sp
+
+분열,
+	분열/ncpa+,/sp
+
+의존,
+	의존/ncpa+,/sp
+
+자기
+	자기/npp
+
+자신과
+	자신/ncn+과/jcj
+
+삶으로부터
+	삶/ncn+으로/jca+부터/jxc
+
+도피하고
+	도피/ncpa+하고/jct
+
+싶은
+	싶/px+은/etm
+
+회피성이나
+	회피/ncpa+성/ncn+이나/jcj
+
+타인을
+	타인/ncn+을/jco
+
+받아들여
+	받/pvg+아/ecx+들이/px+어/ecx
+
+나의
+	나/npp+의/jcm
+
+일부처럼
+	일/nnc+부/nbu+처럼/jca
+
+만들어버리는
+	만들/pvg+어/ecx+버리/px+는/etm
+
+동일시
+	동일시/ncpa
+
+현상같은
+	현상/ncn+같/xsmn+은/etm
+
+우리가
+	우리/npp+가/jcs
+
+살아가기위하여
+	살아가기위하/ncn+이/jp+어/ecs
+
+선택했던생존법들에
+	선택했던생존법들/ncn+에/jca
+
+대하여
+	대/pvg+어/ecx+하/px+어/ecx
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+자기
+	자기/npp
+
+자신을
+	자신/ncn+을/jco
+
+사랑할
+	사랑/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있어야
+	있/px+어야/ecs
+
+한다는
+	하/px+ㄴ다/ef+는/etm
+
+것과
+	것/nbn+과/jct
+
+어떻게
+	어떻/pad+게/ecs
+
+하면
+	하/pvg+면/ecs
+
+긍정적인
+	긍정/ncpa+적/ncn+이/jp+ㄴ/etm
+
+마인드를
+	마인드/ncn+를/jco
+
+가질
+	가/pvg+아/ecx+지/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는가에
+	있는가/ncn+에/jca
+
+대해서
+	대하/pvg+어서/ecso
+
+정말
+	정말/mag
+
+많은
+	많/paa+은/etm
+
+이야기를
+	이야기/ncpa+를/jco
+
+들려주고
+	들리/pvg+어/ecx+주/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+거기에는
+	거기/npd+에/jca+는/jxc
+
+또한
+	또한/maj
+
+작가
+	작/nbn+가/jcc
+
+자신이
+	자신/npp+이/jcs
+
+겪어야했던
+	겪/pvg+어야/ecx+하/px+었/ep+던/etm
+
+시행착오와
+	시행착오/ncn+와/jcj
+
+아픔도
+	아프/paa+ㅁ/etn+도/jxc
+
+함께
+	함께/mag
+
+따라온다
+	따르/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+타인에게
+	타인/ncn+에게/jca
+
+이르는
+	이르/paa+는/etm
+
+가장
+	가장/mag
+
+선한길로
+	선한길/ncn+로/jca
+
+공감하기를
+	공감/ncpa+하/xsva+기/etn+를/jco
+
+택했던
+	택하/pvg+었/ep+던/etm
+
+글은
+	글/ncn+은/jxc
+
+정말
+	정말/mag
+
+좋았다(이
+	좋았다(/ncn+이/jcc
+
+좋은
+	좋/paa+은/etm
+
+공감하기가
+	공감/ncpa+하/xsva+기/etn+가/jcs
+
+타인을
+	타인/ncn+을/jco
+
+나의
+	나/npp+의/jcm
+
+일부처럼
+	일/nnc+부/nbu+처럼/jca
+
+만들어버리는
+	만들/pvg+어/ecx+버리/px+는/etm
+
+동일시현상처럼
+	동일시/ncpa+현상/ncn+처럼/jca
+
+느껴진다면
+	느끼/pvg+어/ecx+지/px+ㄴ다면/ecs
+
+그것은
+	그것/npd+은/jxc
+
+정말
+	정말/mag
+
+잘못된
+	잘못된/ncn
+
+것이다)
+	것/nbn+이/jp+다/ef+)/sr
+
+.
+	./sf
+
+
+세상을
+	세상/ncn+을/jco
+
+보는
+	보/px+는/etm
+
+시각과
+	시각/ncn+과/jcj
+
+삶의
+	삶/ncn+의/jcm
+
+방식을
+	방식/ncn+을/jco
+
+수정하기
+	수정/ncn+하기/ncn
+
+위한
+	위하/pvg+ㄴ/etm
+
+변화의
+	변화/ncpa+의/jcm
+
+시간도
+	시간/nbu+도/jxc
+
+필요하리라는
+	필요/ncps+하/xsms+리라/ef+는/etm
+
+말
+	말/ncn
+
+역시도
+	역시/mag+도/jxc
+
+공감한다
+	공감/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+여행이라는
+	여행/ncpa+이/jp+라/ef+는/etm
+
+말은
+	말/ncn+은/jxc
+
+참
+	참/mag
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+여행이
+	여행/ncpa+이/jcc
+
+말로
+	말/ncn+로/jca
+
+끝나는
+	끝나/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+많은
+	많/paa+은/etm
+
+핑게거리와
+	핑게거리/ncn+와/jcj
+
+변명거리를
+	변명/ncpa+거리/ncn+를/jco
+
+뒤로
+	뒤/ncn+로/jca
+
+한
+	하/pvg+ㄴ/etm
+
+채
+	채/nbn
+
+실제
+	실제/ncn
+
+행동으로
+	행동/ncpa+으로/jca
+
+옮겨질
+	옮기/pvg+어/ecx+지/px+ㄹ/etm
+
+수
+	수/nbn
+
+있다면
+	있/px+다면/ecs
+
+그것처럼
+	그것/npd+처럼/jca
+
+좋은
+	좋/paa+은/etm
+
+것도
+	것/nbn+도/jxc
+
+없을
+	없/paa+을/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+나를
+	나/npp+를/jco
+
+만나기
+	만나/pvg+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+도전중의
+	도전/ncn+중/ncn+의/jcm
+
+하나라고
+	하나/nnc+이/jp+라/ef+고/jcr
+
+생각하며
+	생각/ncpa+하/xsva+며/ecc
+
+산행을
+	산행/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있지만
+	있/px+지만/ecs
+
+아직은
+	아직/mag+은/jxc
+
+너무
+	너무/mag
+
+멀기만
+	멀/paa+기/etn+만/jxc
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+하나씩
+	하나씩/ncn
+
+버리기
+	버리/px+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+찾아가는
+	찾/pvg+아/ecx+가/px+는/etm
+
+곳에서
+	곳/ncn+에서/jca
+
+나는
+	나/npp+는/jxc
+
+과연
+	과연/mag
+
+그렇게하고
+	그렇/pad+게/ecx+하/px+어/ef+고/jcr
+
+있는가
+	있/px+는가/ecs
+
+되묻고
+	되묻/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+행여
+	행여/mag
+
+그
+	그/mmd
+
+마음들이
+	마음/ncn+들/ncn+이/jcc
+
+또하나의
+	또하나/npd+의/jcm
+
+족쇄가
+	족쇄/ncn+가/jcs
+
+되어버리지는
+	되/pvg+어/ecx+버리/px+지/ecs+는/jxc
+
+않을까
+	않/px+을까/ef
+
+조바심을
+	조바심/ncn+을/jco
+
+내면서
+	내/pvg+면서/ecc
+
+..
+	./sf+./sf
+
+
+즐기지
+	즐기/pvg+지/ecx
+
+못하는
+	못하/px+는/etm
+
+삶이
+	삶/ncn+이/jcc
+
+원망스러울
+	원망/ncpa+스럽/xsmn+을/etm
+
+때가
+	때/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+생각없이
+	생각없이/mag
+
+살고
+	살/pvg+고/ecc
+
+있다는
+	있/px+다/ef+는/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+들
+	들/pvg+ㄹ/etm
+
+때마다
+	때/ncn+마다/jxc
+
+나
+	나/npp
+
+자신이
+	자신/npp+이/jcs
+
+너무도
+	너무/mag+도/jxc
+
+싫었다
+	싫/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+뭐
+	뭐/npd
+
+특별할
+	특별/ncps+하/xsms+ㄹ/etm
+
+것도
+	것/nbn+도/jxc
+
+없는
+	없/paa+는/etm
+
+것들이
+	것들/ncn+이/jcc
+
+내게만
+	내/pvg+게/ecs+만/jxc
+
+특별하게
+	특별/ncps+하/xsms+게/ecs
+
+여겨지는
+	여기/pvg+어/ecx+지/px+는/etm
+
+것
+	것/nbn
+
+같은
+	같/paa+은/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+때는
+	때/ncn+는/jxc
+
+너무도
+	너무/mag+도/jxc
+
+화가
+	화/ncn+가/jcs
+
+났었다
+	나/px+아/ep+다/ef
+
+.
+	./sf
+
+
+그럴
+	그렇/pad+을/etm
+
+때마다
+	때/ncn+마다/jxc
+
+내
+	내/npp
+
+안의
+	안/ncn+의/jcm
+
+나는
+	나/npp+는/jxc
+
+아마도
+	아마/mag+도/jxc
+
+더
+	더/mag
+
+깊은
+	깊/paa+은/etm
+
+어둠속으로
+	어둠/ncn+속/ncn+으로/jca
+
+파고
+	파/pvg+고/ecc
+
+들었을
+	들/pvg+었/ep+을/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+저
+	저/mmd
+
+깊은
+	깊/paa+은/etm
+
+우물같이
+	우물/ncn+같이/jca
+
+어두운
+	어둡/paa+은/etm
+
+내
+	내/npp
+
+마음속
+	마음속/ncn
+
+어딘가로
+	어딘가/ncn+로/jca
+
+..
+	./sf+./sf
+
+
+언제쯤이면
+	언제쯤/ncn+이/jp+면/ecs
+
+내
+	내/npp
+
+안의
+	안/ncn+의/jcm
+
+나와
+	나/npp+와/jct
+
+웃으며
+	웃/pvg+으며/ecc
+
+타협할
+	타협/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있으려는지
+	있/px+으리/ep+어/ef+는/etm+지/nbn
+
+...
+	.../se
+
+
+/아이비생각
+	/아이비생각/ncn

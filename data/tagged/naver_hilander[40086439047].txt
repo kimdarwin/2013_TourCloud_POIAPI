@@ -1,0 +1,821 @@
+청담동
+	청담동/ncn
+
+고센
+	고센/ncn
+
+맞은편에
+	맞은편/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+한우
+	한우/ncn
+
+전문점'뭉퉁이'
+	전문점'뭉퉁/ncn+이/jcc+'/sr
+
+
+야외
+	야외/ncn
+
+테라스를
+	테라스/ncn+를/jco
+
+갖추고
+	갖추/pvg+고/ecc
+
+있고
+	있/paa+고/ecc
+
+
+실내도
+	실내/ncn+도/jxc
+
+꽤
+	꽤/mag
+
+넓고
+	넓/paa+고/ecc
+
+인테리어도
+	인테리어/ncn+도/jxc
+
+깔끔한집
+	깔끔/ncn+한집/ncn
+
+
+뭉퉁이라는
+	뭉퉁/ncn+이/jp+라/ef+는/etm
+
+이름을
+	이름/ncn+을/jco
+
+손으로
+	손/ncn+으로/jca
+
+쓴것
+	쓰/pvg+ㄴ/etm+것/nbn
+
+같은
+	같/paa+은/etm
+
+타이포가
+	타/xp+이포/ncn+가/jcs
+
+무척
+	무척/mag
+
+특이하다
+	특이/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+실내에
+	실내/ncn+에/jca
+
+붙어있는
+	붙/pvg+어/ecx+있/px+는/etm
+
+메뉴들도
+	메뉴/ncn+들/ncn+도/jxc
+
+역시
+	역시/mag
+
+손으로
+	손/ncn+으로/jca
+
+쓴듯
+	쓰/pvg+ㄴ/etm+듯/nbs
+
+특이한
+	특이/ncn+한/ncn
+
+서체
+	서체/ncn
+
+
+혹시
+	혹시/mag
+
+사장님이
+	사장님/ncn+이/jcc
+
+자녀가
+	자녀/ncn+가/jcs
+
+있어아이가
+	있어아이/ncn+가/jcs
+
+쓴건가
+	쓰/pvg+ㄴ/etm+것/nbn+이/jp+ㄴ가/ef
+
+했었는데
+	하/px+었었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+알고보니
+	알/pvg+고/ecx+보/px+니/ecs
+
+어느
+	어느/mmd
+
+작가분이
+	작가/ncr+분/ncn+이/jcc
+
+손수
+	손수/mag
+
+써주신거란다
+	써주신거란다/ncn
+
+.
+	./sf
+
+
+한우
+	한우/ncn
+
+생등심
+	생등심/ncn
+
+150g에
+	150g/ncn+에/jca
+
+26,000원,
+	26,000/nnc+원/nbu+,/sp
+
+최상급
+	최상급/ncn
+
+한우라고
+	한우/ncn+이/jp+라/ef+고/jcr
+
+써있는걸로
+	써있는걸/ncn+로/jca
+
+봐서는
+	보/px+아/ecs
+
+1++을
+	1++/ncn+을/jco
+
+의미하나
+	의미/ncpa+하/xsva+어/ecx+나/px+아/ecx
+
+보다
+	보/px+다/ef
+
+.
+	./sf
+
+
+강남에서한우를비교적
+	강남에서한우를비교적/ncn
+
+저렴하게
+	저렴/ncps+하/xsms+게/ecs
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+대치정육식당이
+	대치/ncpa+정육/ncn+식당/ncn+이/jcc
+
+200g에
+	200g/ncn+에/jca
+
+32,000원
+	32,000/nnc+원/nbu
+
+이니까
+	이/ncn+이/jp+니까/ecs
+
+
+이렇게
+	이렇/pad+게/ecs
+
+따지면
+	뜨/pvg+어/ecx+지/px+면/ecs
+
+2천원
+	2/nnc+천/nnc+원/nbu
+
+정도만
+	정도/ncn+만/jxc
+
+차이나는
+	차/ncn+이/jp+나/ef+는/etm
+
+수준
+	수준/ncn
+
+..
+	./sf+./sf
+
+
+인테리어를
+	인테리어/ncn+를/jco
+
+따지면
+	뜨/pvg+어/ecx+지/px+면/ecs
+
+주변
+	주변/ncn
+
+고깃집들에
+	고깃집들/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+저렴한
+	저렴/ncn+한/ncn
+
+듯
+	듯/nbn
+
+
+와인차돌박이
+	와인/ncn+차돌/ncn+박/ncn+이/jcc
+
+110g
+	110g/ncn
+
+17,000원이라고
+	17,000/nnc+원/nbu+이/jp+라/ef+고/jcr
+
+써있는데
+	쓰/paa+어/ecx+있/px+는데/ecs
+
+
+벽에는
+	벽/ncn+에/jca+는/jxc
+
+숙주차돌박이
+	숙주/ncn+차돌/ncn+박/ncn+이/jcc
+
+120g
+	120g/ncn
+
+17,000원으로
+	17,000/nnc+원/nbu+으로/jca
+
+되어있다
+	되/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+메뉴가
+	메뉴/ncn+가/jcs
+
+두개인지
+	두/nnc+개/nbu+이/jp+ㄴ지/ecs
+
+바뀐건지는
+	바뀌/pvg+ㄴ/etm+것/nbn+이/jp+ㄴ지/ecs+는/jxc
+
+잘모르겠음~
+	잘모르/ncn+이/jp+겠/ep+음/etn+~/sd
+
+
+기본찬
+	기본/ncn+찬/ncn
+
+
+차돌박이를
+	차돌/ncn+박이/ncn+를/jco
+
+찍어먹는
+	찍어먹/ncn+는/jxc
+
+레몬간장소스
+	레몬간장/ncn+소스/ncn
+
+
+숙주차돌박이
+	숙주/ncn+차돌/ncn+박이/ncn
+
+
+국내산
+	국내/ncn+산/ncn
+
+특등급
+	특등급/ncn
+
+차돌박이라니까
+	차돌/ncn+박이/ncn+이/jp+라니까/ef
+
+1+급을
+	1+급/ncn+을/jco
+
+쓰는듯
+	쓰/paa+는/etm+듯/nbs
+
+
+불판위에
+	불판/ncn+위/ncn+에/jca
+
+소고기
+	소고/ncn+이/jp+기/etn
+
+지방으로
+	지방/ncn+으로/jca
+
+기름코팅을
+	기름/ncn+코팅/ncn+을/jco
+
+한후
+	하/pvg+ㄴ후/ef
+
+
+숙주를
+	숙주/ncn+를/jco
+
+수북하게
+	수북/ncps+하/xsms+게/ecs
+
+깔아주신다
+	깔/pvg+아/ecx+줄/px+시/ep+ㄴ다/ef
+
+
+차돌박이를
+	차돌/ncn+박이/ncn+를/jco
+
+구워서
+	굽/pvg+어서/ecs
+
+숙주와
+	숙주/ncn+와/jct
+
+함께
+	함께/mag
+
+먹는
+	먹/pvg+는/etm
+
+시스템
+	시스템/ncn
+
+
+떼깔좋은
+	떼깔좋/ncn+은/jxc
+
+차돌박이~
+	차돌/ncn+박/ncn+이/jcc+~/sd
+
+^^
+	^/sy+^/sy
+
+
+요렇게
+	요렇/pad+게/ecs
+
+소스에
+	소스/ncn+에/jca
+
+찍어먹으면
+	찍어먹으/ncn+이/jp+면/ecs
+
+된다~
+	되/paa+ㄴ다/ef+~/sd
+
+
+음.
+	음/ncn+./sf
+
+.
+	./sf
+
+
+얼마만에
+	얼마/ncn+만/ncn+에/jca
+
+먹어보는
+	먹/pvg+어/ecx+보/px+는/etm
+
+차돌박이인지
+	차돌/ncn+박이/ncn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+맛있다^^
+	맛있다/ncn+^/sy+^/sy
+
+
+숙주도
+	숙주/ncn+도/jxc
+
+익혀서
+	익히/pvg+어서/ecs
+
+먹으니
+	먹/pvg+으니/ecs
+
+좋다
+	좋/paa+다/ef
+
+
+차돌과
+	차돌/ncn+과/jct
+
+함께
+	함께/mag
+
+먹으니까
+	먹/pvg+으니까/ecs
+
+입가심이
+	입가/ncn+이/jp+시/ep+ㅁ/etn+이/jcs
+
+자연스레
+	자연스레/mag
+
+되어
+	되/pvg+어/ecx
+
+덜
+	덜/mag
+
+느끼한듯
+	느끼한듯/ncn
+
+하고
+	하/pvg+고/ecc
+
+
+포만감도
+	포만감/ncn+도/jxc
+
+들어
+	들/pvg+어/ecx
+
+좋다
+	좋/paa+다/ef
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+숙주가
+	숙주/ncn+가/jcs
+
+정력에
+	정력/ncn+에/jca
+
+안좋다는
+	안좋다/ncn+는/jxc
+
+속설이
+	속설/ncn+이/jcc
+
+있지만
+	있/paa+지만/ecs
+
+
+그렇게
+	그렇/pad+게/ecs
+
+따지면
+	뜨/pvg+어/ecx+지/px+면/ecs
+
+베트남
+	베트남/ncn
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+이미
+	이미/mag
+
+멸종
+	멸종/ncpa
+
+되었어야
+	되/pvg+었/ep+어야/ecs
+
+하므로
+	하/pvg+므로/ecs
+
+신경쓰지
+	신경쓰/pvg+지/ecx
+
+않기로
+	않/px+기/etn+로/jca
+
+...
+	.../se
+
+
+어느
+	어느/mmd
+
+정도
+	정도/ncn
+
+먹는
+	먹/pvg+는/etm
+
+중에
+	중/nbn+에/jca
+
+가져다
+	가/pvg+아/ecx+지/px+어다/ecs
+
+주신
+	주/px+시/ep+ㄴ/etm
+
+나물
+	나물/ncn
+
+..
+	./sf+./sf
+
+
+고추장에만
+	고추장/ncn+에/jca+만/jxc
+
+버무렸다고하는데
+	버무리/pvg+었/ep+다고/ecx+하/px+ㄴ데/ecs
+
+맛있었다~
+	맛있/paa+었/ep+다/ef+~/sd
+
+
+기름기
+	기름기/ncn
+
+많은
+	많/paa+은/etm
+
+차돌박이인데
+	차돌/ncn+박이/ncn+이/jp+ㄴ데/ecs
+
+
+3인분이나
+	3/nnc+이/jp+ㄴ/etm+분/nbn+이/jp+나/ecs
+
+먹는데도
+	먹/pvg+는데/ecs+도/jxc
+
+기름
+	기르/pvg+ㅁ/etn
+
+한방울
+	한/nnc+방울/nbu
+
+떨어지지
+	떨어지/pvg+지/ecx
+
+않는다
+	않/px+는다/ef
+
+
+서브하시는
+	서브/ncpa+하시/ncn+는/jxc
+
+아주머니가
+	아주머니/ncn+가/jcs
+
+좋은
+	좋/paa+은/etm
+
+부위를
+	부위/ncn+를/jco
+
+써서
+	쓰/pvg+어서/ecs
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+하시네
+	하/px+시/ep+네/ef
+
+..
+	./sf+./sf
+
+
+깍두기
+	깍두기/ncn
+
+볶음밥
+	볶음밥/ncn
+
+
+이름
+	이름/ncn
+
+그대로
+	그대로/mag
+
+깍두기를
+	깍두기/ncn+를/jco
+
+썰어넣고
+	썰어넣/ncn+고/jcj
+
+
+파절이와
+	파절이/ncn+와/jcj
+
+한우
+	한우/ncn
+
+등심까지
+	등심/ncn+까지/jxc
+
+넣어서
+	넣/pvg+어서/ecs
+
+볶았다
+	볶/pvg+아/ep+다/ef
+
+
+등심이
+	등심/ncn+이/jcc
+
+넉넉히
+	넉넉히/mag
+
+들어있어서
+	들/pvg+어/ecx+있/px+어서/ecs
+
+신기했는데
+	신기/ncps+하/xsms+었/ep+는데/ecs
+
+
+볶음밥에
+	볶음밥/ncn+에/jca
+
+들어간거라
+	들/pvg+어/ecx+가/px+ㄴ/etm+것/nbn+이/jp+라/ecs
+
+너무
+	너무/mag
+
+웰던으로
+	웰던/ncn+으로/jca
+
+구워져
+	굽/pvg+어/ecx+지/px+어/ecx
+
+등심
+	등심/ncn
+
+맛은
+	맛/ncn+은/jxc
+
+그냥
+	그냥/mag
+
+그럭저럭이고
+	그럭저럭/ncn+이고/jcj
+
+
+암튼
+	암튼/ncn
+
+기분은
+	기분/ncn+은/jxc
+
+좋았다^^
+	좋았다/ncn+^/sy+^/sy
+
+
+깍두기가
+	깍두기/ncn+가/jcs
+
+들어있어
+	들/pvg+어/ecx+있/px+어/ecx
+
+새콤한맛에
+	새콤한맛/ncn+에/jca
+
+느끼함이
+	느끼함/ncn+이/jcc
+
+덜하다
+	덜하/paa+다/ef
+
+.
+	./sf
+
+
+요거
+	요거/ncn
+
+별미네~
+	별미/ncn+네/jcm+~/sd
+
+
+된장라면도
+	된장/ncn+라면/jca+도/jxc
+
+괜찮다는데
+	괜찮/paa+다는데/ecs
+
+그건
+	그것/npd+은/jxc
+
+담번에
+	담번/ncn+에/jca
+
+먹어봐야겠다
+	먹/pvg+어/ecx+보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+이곳
+	이곳/npd
+
+점심메뉴를
+	점심/ncn+메뉴/ncn+를/jco
+
+하기때문에
+	하기때문/ncn+에/jca
+
+점심으로
+	점심/ncn+으로/jca
+
+먹으러와도
+	먹/pvg+으러/ecs+와도/jxc
+
+괜찮을듯~
+	괜찮/paa+을/etm+듯/nbs+~/sd
+
+
+뭉퉁이02-548-4922청담동
+	뭉퉁이02-548-4922청담동/ncn
+
+고센
+	고센/ncn
+
+맞은편
+	맞은편/ncn
+
+카페
+	카페/ncn
+
+74
+	74/nnc
+
+옆골목
+	옆골목/ncn
+
+
+(압구정동
+	(/sl+압구정/ncn+동/ncn
+
+디자이너스
+	디자이너스/ncn
+
+클럽
+	클럽/ncn
+
+골목으로
+	골목/ncn+으로/jca
+
+올라가서
+	오르/pvg+아/ecx+가/px+아/ecx
+
+카페
+	카페/ncn
+
+74에
+	74/nnc+에/jca
+
+붙어있는
+	붙/pvg+어/ecx+있/px+는/etm
+
+왼쪽
+	왼쪽/ncn
+
+골목
+	골목/ncn
+
+20m)
+	20m/ncn+)/sr

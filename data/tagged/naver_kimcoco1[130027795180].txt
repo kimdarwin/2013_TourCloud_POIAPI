@@ -1,0 +1,145 @@
+오늘
+	오늘/ncn
+
+처가집
+	처가집/ncn
+
+식구랑
+	식구/ncn+랑/jxc
+
+함께
+	함께/mag
+
+울산
+	울산/ncn
+
+정자항에
+	정자/ncn+항/ncn+에/jca
+
+대게
+	대/nbu+이/jp+게/ecs
+
+먹으러
+	먹/pvg+으러/ecs
+
+갔습니다
+	가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+대게철이라
+	대게철/ncn+이/jp+라/ecs
+
+좀
+	좀/mag
+
+싸다고
+	싸/paa+다/ef+고/jcr
+
+생각
+	생각/ncpa
+
+했는데
+	하/px+었/ep+는데/ecs
+
+꼭
+	꼭/mag
+
+그렇지도
+	그렇/pad+지/ecs+도/jxc
+
+않더군요
+	않/px+더군/ef+요/jxf
+
+...
+	.../se
+
+
+좀
+	좀/mag
+
+많이
+	많/paa+이/xsa
+
+비싼
+	비싸/paa+ㄴ/etm
+
+편이었습니다
+	편/nbn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+하여튼
+	하여튼/mag
+
+회하고
+	회/ncn+하고/jct
+
+대게하고
+	대/pvg+게/ecx+하/px+고/ecc
+
+실컷
+	실컷/mag
+
+먹고
+	먹/pvg+고/ecc
+
+방파제
+	방파제/ncn
+
+구경
+	구경/ncn
+
+하러
+	하/pvg+러/ecs
+
+갔습니다
+	가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+나름대로
+	나름/nbn+대로/jca
+
+이쁘게
+	이쁘/paa+게/ecs
+
+해
+	하/pvg+어/ecx
+
+놓았더군요
+	놓/px+아/ep+군/ef+요/jxf
+
+...
+	.../se
+
+
+오늘
+	오늘/ncn
+
+날씨도
+	날씨/ncn+도/jxc
+
+좋아
+	좋/paa+아/ecx
+
+파도가
+	파도/ncn+가/jcs
+
+더욱더
+	더욱더/mag
+
+빛나
+	빛/ncn+나/jcj
+
+보였습니다
+	보이/pvg+었/ep+습니다/ef
+
+.
+	./sf

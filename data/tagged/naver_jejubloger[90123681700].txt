@@ -1,0 +1,820 @@
+수제버거
+	수제버거/ncn
+
+제주도맛집
+	제주도맛집/ncn
+
+
+테리우스의
+	테리우스/ncn+의/jcm
+
+제주도맛집
+	제주도맛집/ncn
+
+탐방기
+	탐방/ncpa+기/ncn
+
+
+수제버거와
+	수제버거/ncn+와/jcj
+
+와인이
+	와인/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+제주도맛집
+	제주도맛집/ncn
+
+와인하우스
+	와인/ncn+하우스/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+평화로
+	평화/ncn+로/jca
+
+길을
+	길/ncn+을/jco
+
+지나가다보면
+	지나/pvg+아/ecx+가/px+아/ecx+보/px+면/ecs
+
+
+1950
+	1950/nnc
+
+와인하우스
+	와인/ncn+하우스/ncn
+
+휴게소를
+	휴게소/ncn+를/jco
+
+보시게
+	보/px+시/ep+게/ecs
+
+될
+	되/pvg+ㄹ/etm
+
+거에요
+	거/ncn+이/jp+에요/ef
+
+
+맛있는수제버거가
+	맛있는수제버거/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+제주도
+	제주/ncn+도/jxc
+
+맛집으로소개할까
+	맛집으로소개할까/ncn
+
+하는데요
+	하/pvg+ㄴ데요/ef
+
+
+흑돼지로
+	흑돼지/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+블랙버거와
+	블랙버거/ncn+와/jcj
+
+
+건강에
+	건강/ncps+에/jca
+
+좋은
+	좋/paa+은/etm
+
+웰빙
+	웰빙/ncn
+
+보리버거를
+	보리버거/ncn+를/jco
+
+맛보실
+	맛보/pvg+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이랍니다
+	곳/nbu+이/jp+랍니다/ef
+
+
+감귤와인도
+	감귤/ncn+와인/ncn+도/jxc
+
+함께
+	함께/mag
+
+맛볼
+	맛보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+잠깐의
+	잠깐/ncn+의/jcm
+
+여유를
+	여유/ncn+를/jco
+
+갖기엔
+	갖/pvg+기/etn+엔/jca
+
+정말
+	정말/mag
+
+좋은
+	좋/paa+은/etm
+
+곳이지요
+	곳/nbu+이/jp+지요/ef
+
+
+제주를
+	제주/ncn+를/jco
+
+여행하시는
+	여행/ncpa+하/xsva+시/ep+는/etm
+
+분들이라면
+	불/pvg+ㄴ/etm+들/nbn+이/jp+라면/ecs
+
+더욱
+	더욱/mag
+
+추천해주고
+	추천/ncpa+하/xsva+어/ecx+주/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+제주도
+	제주/ncn+도/jxc
+
+맛집이랍니다
+	맛집/ncn+이/jp+랍니다/ef
+
+
+수제버거를
+	수제버거/ncn+를/jco
+
+먹으며
+	먹/pvg+으며/ecc
+
+잠깐의
+	잠깐/ncn+의/jcm
+
+휴식을
+	휴식/ncpa+을/jco
+
+취하기에
+	취하/pvg+기/etn+에/jca
+
+좋지요
+	좋/paa+지요/ef
+
+
+올
+	오/px+ㄹ/etm
+
+가을
+	가/px+ㄹ/etm
+
+여행을
+	여행/ncpa+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+와인하우스에
+	와인/ncn+하우스/ncn+에/jca
+
+들려보시는
+	들리/pvg+어/ecx+보/px+시/ep+는/etm
+
+건
+	거/nbn+은/jxc
+
+어떠세요
+	어떠세요/ncn
+
+?
+	?/sf
+
+
+제주도
+	제주/ncn+도/jxc
+
+맛집
+	맛집/ncn
+
+1950
+	1950/nnc
+
+와인하우스에
+	와인/ncn+하우스/ncn+에/jca
+
+들려
+	들/pvg+려/ecs
+
+
+맛있는
+	맛있/paa+는/etm
+
+수제버거
+	수제버거/ncn
+
+먹고
+	먹/pvg+고/ecc
+
+왔습니다
+	오/pvg+아/ep+ㅂ니다/ef
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+찾아갔는데,
+	찾/pvg+아/ecx+가/px+아/ep+ㄴ데/ecs+,/sp
+
+여전히
+	여전히/mag
+
+변함없이
+	변함없이/mag
+
+맛있었답니다
+	맛있/paa+었/ep+답니다/ef
+
+
+제주도
+	제주/ncn+도/jxc
+
+맛집
+	맛집/ncn
+
+와인하우스에서는
+	와인/ncn+하우스/ncn+에서/jca+는/jxc
+
+감귤와인도
+	감귤/ncn+와인/ncn+도/jxc
+
+맛보실
+	맛보/pvg+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있는데요
+	있/paa+는데요/ef
+
+
+와인1950은제주의
+	와인1950은제주/ncn+의/jcm
+
+대표적인와인브랜드로
+	대표적인와인브랜드/ncn+로/jca
+
+
+제주에
+	제주/ncn+에/jca
+
+오면
+	오/px+면/ecs
+
+꼭
+	꼭/mag
+
+드셔보시길
+	드셔보시길/ncn
+
+추천해드립니다
+	추천/ncpa+해드/ncn+이/jp+리/ep+ㅂ니다/ef
+
+
+와인
+	와인/ncn
+
+1950은
+	1950/nnc+은/jxc
+
+누군가에게
+	누군가/npp+에게/jca
+
+선물해주
+	선물해주/ncn
+
+기에도
+	기/ncn+에/jca+도/jxc
+
+좋은데요
+	좋은데요/ncn
+
+
+소중한
+	소중/ncps+하/xsms+ㄴ/etm
+
+문구를
+	문구/ncn+를/jco
+
+조각해주시기도
+	조각/ncpa+하/xsva+어/ecx+주/px+시/ep+기/etn+도/jxc
+
+한답니다
+	한/nbn+답/xsmn+니다/ef
+
+
+제주도
+	제주/ncn+도/jxc
+
+맛집
+	맛집/ncn
+
+와인하우스에서
+	와인/ncn+하우스/ncn+에서/jca
+
+구입한
+	구입/ncpa+하/xsva+ㄴ/etm
+
+와인을
+	와인/ncn+을/jco
+
+여행
+	여행/ncpa
+
+선물로
+	선물/ncn+로/jca
+
+해주셔도
+	하/pvg+어/ecx+주/px+시/ep+어도/ecs
+
+좋을
+	좋/paa+을/etm
+
+듯
+	듯/nbn
+
+해요
+	하/pvg+어요/ef
+
+
+제주도
+	제주/ncn+도/jxc
+
+맛집
+	맛집/ncn
+
+와인하우스에는
+	와인/ncn+하우스/ncn+에/jca+는/jxc
+
+그동안
+	그동안/ncn
+
+다녀가신
+	다니/pvg+어/ecx+가/px+시/ep+ㄴ/etm
+
+분들의
+	분/ncn+들/xsncc+의/jcm
+
+
+아지자기한
+	아지자기한/ncn
+
+메모가
+	메모/ncpa+가/jcc
+
+남겨져
+	남기/pvg+어/ecx+지/px+어/ecx
+
+있었습니다
+	있/paa+었/ep+습니다/ef
+
+
+하나,
+	하나/nnc+,/sp
+
+하나
+	하나/nnc
+
+읽는
+	읽/pvg+는/etm
+
+재미도
+	재미/ncn+도/jxc
+
+있지요^^
+	있지요/ncn+^/sy+^/sy
+
+
+제주도
+	제주/ncn+도/jxc
+
+맛집
+	맛집/ncn
+
+와인하우스에서
+	와인/ncn+하우스/ncn+에서/jca
+
+맛보는
+	맛보/pvg+는/etm
+
+수제버거는
+	수제버거/ncn+는/jxc
+
+
+다녀가신
+	다니/pvg+어/ecx+가/px+시/ep+ㄴ/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+모두
+	모두/mag
+
+맛있다고
+	맛있/paa+다/ef+고/jcr
+
+하시면서
+	하시/ncn+면/ncn+서/jca
+
+
+다음에
+	다음/ncn+에/jca
+
+또
+	또/maj
+
+오고
+	오/px+고/ecc
+
+싶다는
+	싶/px+다/ef+는/etm
+
+메모를
+	메모/ncpa+를/jco
+
+많이
+	많/paa+이/xsa
+
+남기셨더라고요
+	남/pvg+기/etn+이/jp+셨/ep+더/ep+라고/ef+요/jxf
+
+
+저도
+	저/npp+도/jxc
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+제주도
+	제주/ncn+도/jxc
+
+맛집
+	맛집/ncn
+
+와인하우스에서
+	와인/ncn+하우스/ncn+에서/jca
+
+
+정말
+	정말/mag
+
+맛있게
+	맛있/paa+게/ecs
+
+수제버거를
+	수제버거/ncn+를/jco
+
+먹고
+	먹/pvg+고/ecc
+
+왔답니다
+	오/pvg+아/ep+답니다/ef
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+맛봐서
+	맛보/pvg+아/ecx
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+더욱
+	더욱/mag
+
+맛있게
+	맛있/paa+게/ecs
+
+느껴졌습니다
+	느끼/pvg+어/ecx+지/px+었/ep+습니다/ef
+
+
+제주도
+	제주/ncn+도/jxc
+
+맛집
+	맛집/ncn
+
+와인하우스에서
+	와인/ncn+하우스/ncn+에서/jca
+
+맛
+	맛/ncn
+
+본
+	보/px+ㄴ/etm
+
+보리버거는
+	보리버거/ncn+는/jxc
+
+
+웰빙버거로
+	웰빙버거/ncn+로/jca
+
+신선하면서도
+	신선/ncps+하/xsms+면서/ecs+도/jxc
+
+부드러웠는데요
+	부드럽/paa+었/ep+는데요/ef
+
+
+건강에도
+	건강/ncps+에/jca+도/jxc
+
+정말
+	정말/mag
+
+좋을
+	좋/paa+을/etm
+
+것
+	것/nbn
+
+같더라고요
+	같/paa+더/ep+라고/ef+요/jxf
+
+
+그리고
+	그리고/maj
+
+블랙버거는
+	블랙버거/ncn+는/jxc
+
+패티가
+	패티/ncn+가/jcs
+
+흑돼지로
+	흑돼지/ncn+로/jca
+
+만들어졌는데요
+	만들/pvg+어/ecx+지/px+었/ep+는데요/ef
+
+
+제주도에
+	제주/ncn+도/ncn+에/jca
+
+처음
+	처음/mag
+
+오신
+	오/px+시/ep+ㄴ/etm
+
+분들은
+	분/ncn+들/xsncc+은/jxc
+
+
+제주도
+	제주/ncn+도/jxc
+
+맛집
+	맛집/ncn
+
+와인하우스에
+	와인/ncn+하우스/ncn+에/jca
+
+들려
+	들리/pvg+어/ecx
+
+블랙버거를
+	블랙버거/ncn+를/jco
+
+맛보셔도
+	맛보/pvg+시/ep+어도/ecs
+
+좋을
+	좋/paa+을/etm
+
+듯
+	듯/nbn
+
+해요^^
+	해요/ncn+^/sy+^/sy
+
+
+제주도
+	제주/ncn+도/jxc
+
+맛집
+	맛집/ncn
+
+와인하우스에는
+	와인/ncn+하우스/ncn+에/jca+는/jxc
+
+야외테이블도
+	야외/ncn+테이블/ncn+도/jxc
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있어서
+	있/paa+어서/ecs
+
+
+선선한
+	선선/ncps+하/xsms+ㄴ/etm
+
+가을바람을
+	가을바람/ncn+을/jco
+
+맞으며
+	맞/pvg+으며/ecc
+
+이
+	이/mmd
+
+곳에서
+	곳/nbu+에서/jca
+
+
+수제버거를
+	수제버거/ncn+를/jco
+
+드셔도
+	들/pvg+시/ep+어도/ecs
+
+괜찮겠지요
+	괜찮/paa+겠/ep+지요/ef
+
+
+이른
+	이르/paa+ㄴ/etm
+
+아침
+	아침/ncn
+
+8시부터늦은저녁
+	8시부터늦은저녁/ncn
+
+8시까지
+	8/nnc+시/nbu+까지/jca
+
+
+제주도맛집
+	제주도맛집/ncn
+
+와인하우스에
+	와인/ncn+하우스/ncn+에/jca
+
+가면
+	가/px+면/ecs
+
+수제버거를
+	수제버거/ncn+를/jco
+
+맛보실
+	맛보/pvg+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있으니
+	있/paa+으니/ecc
+
+
+가시게
+	가/px+시/ep+게/ecs
+
+된다면
+	되/pvg+ㄴ다면/ecs
+
+시간을
+	시간/ncn+을/jco
+
+참고하세요^^
+	참고하세요/ncn+^/sy+^/sy
+
+
+제주도
+	제주/ncn+도/jxc
+
+맛집
+	맛집/ncn
+
+와인하우스에서
+	와인/ncn+하우스/ncn+에서/jca
+
+맛있는
+	맛있/paa+는/etm
+
+수제버거도
+	수제버거/ncn+도/jxc
+
+드시고
+	드/ncn+이/jp+시/ep+고/ecc
+
+
+여행
+	여행/ncpa
+
+선물로
+	선물/ncn+로/jca
+
+와인도
+	와인/ncn+도/jxc
+
+구입하고
+	구입/ncpa+하고/jcj
+
+
+이
+	이/mmd
+
+곳에서
+	곳/ncn+에서/jca
+
+좋은
+	좋/paa+은/etm
+
+추억을
+	추억/ncpa+을/jco
+
+남기고
+	남기/pvg+고/ecc
+
+오실
+	오/px+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있었으면
+	있/px+었/ep+으면/ecs
+
+해요^^
+	해요/ncn+^/sy+^/sy
+
+
+1950하우스휴게소
+	1950하우스휴게소/ncn
+
+
+제주도
+	제주/ncn+도/jxc
+
+제주시
+	제주/ncn+시/ncn
+
+애월읍
+	애월읍/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01714244",
+	"bl01714244",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"19897701",
+	"/sl+19897701/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"1950하우스휴게소",
+	title:"1950하우스휴게소",/ncn
+
+pointX:252277,pointY:93250}
+	pointX/f+:/sp+252277/nnc+,/sp+pointY/f+:/sp+93250/nnc+}/sr

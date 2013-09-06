@@ -1,0 +1,1324 @@
+위치
+	위치/ncn
+
+:충남
+	:충남/ncn
+
+보령시
+	보령시/ncn
+
+천북면
+	천북면/ncn
+
+장은리
+	장은리/ncn
+
+산206
+	산206/ncn
+
+
+가는
+	가/pvg+는/etm
+
+길
+	길/ncn
+
+:지하철3호선[남부터미널~광천]행
+	:지하철3호선[남부터미널~광천]행/ncn
+
+첫차09:20,10:50,17:10,18:40분
+	첫차09/ncn+:/sp+20/nnc+,/sp+10/nnc+:/sp+50/nnc+,/sp+17/nnc+:/sp+10/nnc+,/sp+18/nnc+:/sp+40/nnc+분/nbu
+
+
+소요시간2시간30분
+	소요시간2시간30분/ncn
+
+요금10400원
+	요금10400원/ncn
+
+문의521~8550
+	문의521/ncn+~/sd+8550/nnc
+
+
+지하철2호선
+	지하철2호선/ncn
+
+강변역[동서울터미널~광천]행
+	강변역[동서울터미널~광천]행/ncn
+
+첫차08:20,10:50,14:00,17:50분
+	첫차08/ncn+:/sp+20/nnc+,/sp+10/nnc+:/sp+50/nnc+,/sp+14/nnc+:/sp+00/nnc+,/sp+17/nnc+:/sp+50/nnc+분/nbu
+
+
+소요시간2시간50분
+	소요시간2시간50분/ncn
+
+요금10400원
+	요금10400원/ncn
+
+문의02]453~8641
+	문의02]453~8641/ncn
+
+1688~5979
+	1688/nnc+~/sd+5979/nnc
+
+
+광천
+	광천/ncn
+
+터미널에서
+	터미널/ncn+에서/jca
+
+천북[장은리]행
+	천북[장은리]행/ncn
+
+시내버스를
+	시내/ncn+버스/ncn+를/jco
+
+타시면
+	타/pvg+시/ep+면/ecs
+
+약40분
+	약40분/ncn
+
+소요됩니디
+	소요됩니/ncn+이/jp+디/ecs
+
+
+첫차,07:30,09:15,11:20,13:20,15:40,18:10,21:00분
+	첫차/ncn+,/sp+07/nnc+:/sp+30/nnc+,/sp+09/nnc+:/sp+15/nnc+,/sp+11/nnc+:/sp+20/nnc+,/sp+13/nnc+:/sp+20/nnc+,/sp+15/nnc+:/sp+40/nnc+,/sp+18/nnc+:/sp+10/nnc+,/sp+21/nnc+:/sp+00/nnc+분/nbu
+
+
+매월
+	매월/mag
+
+두
+	두/nnc
+
+번째
+	번/nbu+째/xsnu
+
+일요일은
+	일요일/ncn+은/jxc
+
+옥수
+	옥수/ncn
+
+산악회
+	산악회/ncn
+
+회원들이
+	회원/ncn+들/ncn+이/jcc
+
+모여
+	모이/pvg+어/ecx
+
+산행을
+	산행/ncn+을/jco
+
+가는
+	가/pvg+는/etm
+
+날이다
+	날/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이날은
+	이/nnc+날/nbu+은/jxc
+
+일
+	일/nnc
+
+년
+	년/nbu
+
+열두
+	열/nnc+두/nnc
+
+번
+	번/nbu
+
+
+항상
+	항상/mag
+
+기다려지는
+	기다리/pvg+어/ecx+지/px+는/etm
+
+날이다
+	날/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+신묘년
+	신묘년/ncn
+
+한해를
+	한/nnc+해/nbu+를/jco
+
+여는
+	열/pvg+는/etm
+
+1월
+	1/nnc+월/nbu
+
+첫째
+	첫째/nno
+
+산행의
+	산행/ncn+의/jcm
+
+목적지는
+	목적지/ncn+는/jxc
+
+충남
+	충남/ncn
+
+보령시
+	보령시/ncn
+
+오서산
+	오서산/ncn
+
+
+이었다
+	이/npd+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+해발
+	해발/ncn
+
+790m인
+	790m/ncn+이/jp+ㄴ/etm
+
+오소산
+	오소산/ncn
+
+입구를
+	입구/ncn+를/jco
+
+향해
+	향하/pvg+어/ecx
+
+가는
+	가/pvg+는/etm
+
+중,
+	중/nbn+,/sp
+
+들머리
+	들머리/ncn
+
+약
+	약/ncn
+
+500m
+	500m/ncn
+
+전방에서
+	전방/ncn+에서/jca
+
+빙판길을
+	빙판길/ncn+을/jco
+
+이유로
+	이유/ncn+로/jca
+
+
+차량
+	차량/ncn
+
+출입이
+	출입/ncpa+이/jcc
+
+통제되었고,
+	통제/ncpa+되/xsvn+었/ep+고/ecc+,/sp
+
+우리는
+	우리/npp+는/jxc
+
+그곳에서
+	그곳/ncn+에서/jca
+
+하차
+	하차/ncn
+
+후,
+	후/ncn+,/sp
+
+등산
+	등산/ncpa
+
+장비를
+	장비/ncpa+를/jco
+
+챙겨
+	챙기/pvg+어/ecx
+
+눈이적은
+	눈이적/ncn+은/jxc
+
+등산로를
+	등산로/ncn+를/jco
+
+따라
+	따르/pvg+아/ecs
+
+
+정상에
+	정상/ncn+에/jca
+
+도착하여,
+	도착/ncpa+하/xsva+어/ecs+,/sp
+
+가져간
+	가/pvg+아/ecx+지/px+어/ecx+가/px+ㄴ/etm
+
+컵라면을
+	컵라면/ncn+을/jco
+
+나누어
+	나누/pvg+어/ecx
+
+먹었다
+	먹/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+하산
+	하산/ncpa
+
+후
+	후/ncn
+
+점심
+	점심/ncn
+
+식사를
+	식사/ncpa+를/jco
+
+하기
+	하/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+버스를
+	버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+
+가는
+	가/pvg+는/etm
+
+도중
+	도중/ncn
+
+너무나
+	너무나/mag
+
+황당한
+	황당/ncps+하/xsms+ㄴ/etm
+
+일을
+	일/ncn+을/jco
+
+당해
+	당하/pvg+어/ecx
+
+보령시에
+	보령시/ncn+에/jca
+
+시정을
+	시정/ncn+을/jco
+
+요청하고자
+	요청/ncpa+하/xsva+고자/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+버스가
+	버스/ncn+가/jcs
+
+빙판이
+	빙판/ncn+이/jcc
+
+너무
+	너무/mag
+
+심해
+	심해/ncn
+
+
+움직일
+	움직이/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+없어,
+	없/paa+어/ef+,/sp
+
+산악회
+	산악회/ncn
+
+회원들이
+	회원/ncn+들/ncn+이/jcc
+
+손으로
+	손/ncn+으로/jca
+
+직접
+	직접/mag
+
+모래를
+	모래/ncn+를/jco
+
+날라
+	나르/pvg+아/ecx
+
+빙판위에
+	빙판/ncn+위/ncn+에/jca
+
+일일이
+	일/nnc+일/nbu+이/jcc
+
+뿌리는
+	뿌리/ncn+는/jxc
+
+작업을
+	작업/ncpa+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+
+후에야
+	후/ncn+에야/jca
+
+버스가
+	버스/ncn+가/jcs
+
+움직일
+	움직이/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+항상
+	항상/mag
+
+군
+	굴/pvg+ㄴ/etm
+
+발전에
+	발전/ncpa+에/jca
+
+수고가
+	수/nbn+이/jp+고/ecx+가/px+아/ecx
+
+많으십니다
+	많/paa+으시/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+다름이
+	다르/paa+ㅁ/etn+이/jcs
+
+아니오라,
+	아니오라,/ncn
+
+도로가
+	도로/ncn+가/jcs
+
+빙판이
+	빙판/ncn+이/jcc
+
+되었다면,
+	되/pvg+었/ep+다면/ecs+,/sp
+
+모든
+	모든/mma
+
+방법을
+	방법/ncn+을/jco
+
+
+다하여
+	다하/pvg+어/ecx
+
+도로위의
+	도로/ncn+위/ncn+의/jcm
+
+얼음을
+	얼음/ncn+을/jco
+
+제거하던지,
+	제거/ncpa+하/xsva+더/ep+ㄴ지/ecs+,/sp
+
+그것이
+	그것/npd+이/jcc
+
+불가능
+	불가능/ncps
+
+하다면,
+	하/pvg+다면/ecs+,/sp
+
+차량
+	차량/ncn
+
+통행을
+	통행/ncpa+을/jco
+
+강력히
+	강력히/mag
+
+막아야
+	막/pvg+아/ecx
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+안이한
+	안이/ncps+하/xsms+ㄴ/etm
+
+생각과
+	생각/ncpa+과/jcj
+
+행정으로
+	행정/ncn+으로/jca
+
+보령시를
+	보령시/ncn+를/jco
+
+찾는
+	찾/pvg+는/etm
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+생명을
+	생명/ncn+을/jco
+
+위험하게
+	위험/ncps+하/xsms+게/ecs
+
+한다면,
+	하/pvg+ㄴ다면/ecs+,/sp
+
+이는
+	이/npd+는/jxc
+
+보령
+	보령/ncn
+
+시가
+	시가/ncn
+
+
+추구하고자
+	추구/ncpa+하/xsva+고자/ecs
+
+하는
+	하/pvg+는/etm
+
+길이
+	길/ncn+이/jcc
+
+아닐
+	아니/paa+ㄹ/etm
+
+것입니다
+	것/nbn+이/jp+ㅂ니다/ef
+
+
+충청인의
+	충청인/ncn+의/jcm
+
+효
+	효/ncn
+
+사상은
+	사상/ncn+은/jxc
+
+항상
+	항상/mag
+
+살아
+	살/pvg+아/ecx
+
+숨쉬고
+	숨쉬/pvg+고/ecc
+
+있답니다
+	있/paa+답니다/ef
+
+
+서해
+	서/pvg+어/ecx+하/px+어/ecx
+
+굴을
+	굴/pvg+ㄹ/etm
+
+가리커
+	가리커/ncn
+
+바다의
+	바다/ncn+의/jcm
+
+우유라고
+	우유/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+단백질
+	단백질/ncn
+
+함량은
+	함량/ncn+은/jxc
+
+우유보다
+	우유/ncn+보다/jca
+
+많은10%에
+	많은10%/ncn+에/jca
+
+이른다고
+	이르/paa+ㄴ다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+특히
+	특히/mag
+
+타우린과
+	타우린/ncn+과/jcj
+
+아미노산이
+	아미노산/ncn+이/jcc
+
+풍부하며
+	풍부/ncps+하/xsms+며/ecc
+
+
+이중
+	이중/ncn
+
+타우린은
+	타우린은/ncn
+
+그
+	그/mmd
+
+어느
+	어느/mmd
+
+수산물보다
+	수산물/ncn+보다/jca
+
+많이
+	많/paa+이/xsa
+
+함유돼
+	함유/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/paa+습니다/ef
+
+
+굴에는
+	굴/ncn+에/jca+는/jxc
+
+각종
+	각종/ncn
+
+비타민과
+	비타민/ncn+과/jcj
+
+칼슘,철분
+	칼슘/ncn+,/sp+철분/ncn
+
+각종
+	각종/ncn
+
+미네랄이
+	미네랄/ncn+이/jcc
+
+풍부해
+	풍부/ncps+하/xsms+어/ecx
+
+영양의
+	영양/ncn+의/jcm
+
+집합처라
+	집합/ncpa+처/ncn+이/jp+라/ecs
+
+해도
+	하/pvg+어도/ecs
+
+허언은
+	허언/ncpa+은/jxc
+
+
+아닙니다
+	아니/paa+ㅂ니다/ef+./sf
+
+
+굴을
+	굴/pvg+ㄹ/etm
+
+많이
+	많/paa+이/xsa
+
+먹으면
+	먹/pvg+으면/ecs
+
+갈슘과
+	갈슘/ncn+과/jcj
+
+비타민이
+	비타민/ncn+이/jcc
+
+풍부해
+	풍부/ncps+하/xsms+어/ecx
+
+변비를
+	변비/ncn+를/jco
+
+막으며
+	막/pvg+으며/ecc
+
+피부를
+	피부/ncn+를/jco
+
+곱게해
+	곱/paa+게/ecx+하/px+어/ecs
+
+
+여성들의
+	여성/ncn+들/ncn+의/jcm
+
+미용식품으로
+	미용/ncn+식품/ncn+으로/jca
+
+인기가
+	인기/ncn+가/jcs
+
+좋다고
+	좋/paa+다/ef+고/jcr
+
+함
+	함/ncn
+
+
+옛
+	옛/mma
+
+말에
+	말/ncn+에/jca
+
+여름
+	여름/ncn
+
+철에는
+	철/ncn+에/jca+는/jxc
+
+굴을
+	굴/pvg+ㄹ/etm
+
+먹지말라는
+	먹/pvg+지/ecx+말/px+라/ef+는/etm
+
+이야기가
+	이야기/ncpa+가/jcc
+
+있으며
+	있/paa+으며/ecc
+
+
+이웃나라
+	이웃나라/ncn
+
+일본에서도
+	일/nnc+본/nbu+에서/jca+도/jxc
+
+벚꽃이
+	벚꽃/ncn+이/jcc
+
+지고나면
+	지/px+고/ecx+나/px+면/ecs
+
+굴을
+	굴/pvg+ㄹ/etm
+
+먹지말라는
+	먹/pvg+지/ecx+말/px+라/ef+는/etm
+
+속담도
+	속담/ncn+도/jxc
+
+있답니다
+	있/paa+답니다/ef
+
+
+6~8월에는
+	6/nnc+~/sd+8/nnc+월/nbu+에/jca+는/jxc
+
+산란기로
+	산란/ncn+기/ncn+로/jca
+
+독성분이
+	독성분/ncn+이/jcc
+
+나와
+	나/npp+와/jcj
+
+식중독의
+	식중독/ncn+의/jcm
+
+염려가
+	염려/ncpa+가/jcc
+
+있습니다
+	있/paa+습니다/ef
+
+
+동의보감에
+	동의보감/ncn+에/jca
+
+굴은
+	굴/pvg+ㄴ/etm
+
+바다
+	바/nbn+이/jp+다/ef
+
+어물
+	어물/paa+ㄹ/etm
+
+중에서
+	중/nbn+에서/jca
+
+가장
+	가장/mag
+
+귀한것이며
+	귀하/paa+ㄴ/etm+것/nbn+이/jp+며/ecc
+
+먹으면
+	먹/pvg+으면/ecs
+
+향기롭고
+	향기/ncpa+롭/xsmn+고/ecc
+
+피부를
+	피부/ncn+를/jco
+
+아름답게
+	아름답/paa+게/ecs
+
+하고
+	하/pvg+고/ecc
+
+
+안색을
+	안색/ncn+을/jco
+
+좋게한다고
+	좋/paa+게/ecx+하/px+ㄴ다/ef+고/jcr
+
+기록되어
+	기록/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/paa+습니다/ef
+
+
+특히
+	특히/mag
+
+고혈압과
+	고혈압/ncn+과/jcj
+
+뇌중풍,동맥경화
+	뇌중풍,동맥경화/ncn
+
+등
+	등/nbu
+
+성인병을
+	성인/ncn+병/ncn+을/jco
+
+예방하는
+	예방/ncpa+하/xsva+는/etm
+
+데는
+	데/nbn+는/jxc
+
+매우
+	매우/mag
+
+좋다고
+	좋/paa+다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+굴에는
+	굴/ncn+에/jca+는/jxc
+
+타우린과
+	타우린/ncn+과/jcj
+
+비타민이
+	비타민/ncn+이/jcc
+
+풍부하게
+	풍부/ncps+하/xsms+게/ecs
+
+함유되어
+	함유/ncpa+되/xsvn+어/ecx
+
+있어
+	있/px+어/ecx
+
+간장의
+	간장/ncn+의/jcm
+
+기능을
+	기능/ncn+을/jco
+
+개선하고
+	개선/ncpa+하고/jcj
+
+
+병후의
+	병후/ncn+의/jcm
+
+체력회복에도
+	체력/ncn+회복/ncpa+에/jca+도/jxc
+
+좋으며
+	좋/paa+으며/ecc
+
+서양에서는
+	서양/ncn+에서/jca+는/jxc
+
+정력을
+	정력/ncn+을/jco
+
+증진시키는
+	증진/ncpa+시키/xsva+는/etm
+
+음식으로
+	음식/ncn+으로/jca
+
+알려져
+	알리/pvg+어/ecx+지/px+어/ecx
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+굴
+	굴/pvg+ㄹ/etm
+
+싫어하는
+	싫/paa+어/ecx+하/px+는/etm
+
+사람
+	사람/ncn
+
+거의
+	거의/mag
+
+없죠
+	없/paa+죠/ef
+
+
+돈
+	돌/pvg+ㄴ/etm
+
+없어서
+	없/paa+어서/ecs
+
+못
+	못/mag
+
+먹는음식
+	먹는음식/ncn
+
+되었지요
+	되/nbu+이/jp+었/ep+지요/ef
+
+
+제철은11~1월이라지만
+	제철은11~1월이라/ncn+이/jp+지만/ecs
+
+추운
+	춥/paa+은/etm
+
+겨울에는
+	겨울/ncn+에/jca+는/jxc
+
+영양가득한
+	영양/ncn+가득/ncps+하/xsms+ㄴ/etm
+
+굴요리로
+	굴요리/ncn+로/jca
+
+몸보신
+	몸보신/ncn
+
+해보세요
+	해보/pvg+세요/ef
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc24/2011/01/12/37/03100223D117535E7CC3594663DD3003787_deogjang_logo.
+	net/blogucc24/2011/01/12/37/03100223D117535E7CC3594663DD3003787_deogjang_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'166.
+	'/sr+166./nnc
+
+21';
+	21/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'A0BE9DDAD1D3EBAF35E4D1CFE645544A37CE';
+	'A0BE9DDAD1D3EBAF35E4D1CFE645544A37CE/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V126a477440d2a9a4a14da411490c5df2652ef6199f95b618fd95454b8c2d1db5f013a411490c5df2652e';
+	'V126a477440d2a9a4a14da411490c5df2652ef6199f95b618fd95454b8c2d1db5f013a411490c5df2652e/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_08990
+	ugcPlayer_08990/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_08990'
+	VideoInfraUGCPlayer('ugcPlayer_08990'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_08990
+	ugcPlayer_08990/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr

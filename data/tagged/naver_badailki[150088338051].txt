@@ -1,0 +1,255 @@
+청와대
+	청와대/ncn
+
+"4대강
+	"/sl+4대강/ncn
+
+기술
+	기술/ncn
+
+수출할
+	수출/ncpa+하/xsva+ㄹ/etm
+
+것"
+	것/nbn+"/sr
+
+
+청와대가
+	청와대/ncn+가/jcs
+
+4대강
+	4대강/ncn
+
+사업과
+	사업/ncn+과/jcj
+
+관련한
+	관련/ncn+한/ncn
+
+기술을
+	기술/ncn+을/jco
+
+수출하는
+	수출/ncpa+하/xsva+는/etm
+
+방안에
+	방안/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+검토중이라고
+	검토/ncpa+중/xsnx+이/jp+라/ef+고/jcr
+
+밝혔습니다
+	밝히/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+박선규
+	박선규/ncn
+
+청와대
+	청와대/ncn
+
+대변인은
+	대변인/ncn+은/jxc
+
+정례브리핑에서
+	정례브리핑/ncpa+에서/jca
+
+4대강
+	4대강/ncn
+
+사업은
+	사업/ncn+은/jxc
+
+UN에서
+	UN/f+에서/jca
+
+기후변화에
+	기후변화/ncpa+에/jca
+
+대비한
+	대비/ncn+한/ncn
+
+의미있는
+	의미/ncpa+있/xsmn+는/etm
+
+
+녹색성장
+	녹색/ncn+성장/ncpa
+
+사업으로
+	사업/ncn+으로/jca
+
+인정한
+	인정/ncpa+하/xsva+ㄴ/etm
+
+바
+	바/nbn
+
+있다며
+	있/px+다며/ecs
+
+멋지게
+	멋지/paa+게/ecs
+
+성공시켜
+	성공/ncpa+시키/xsva+어/ecx
+
+세계
+	세계/ncn
+
+각국이
+	각국/ncn+이/jcc
+
+당면한
+	당면/ncn+한/ncn
+
+기후변화
+	기후변화/ncpa
+
+시장에
+	시장/ncn+에/jca
+
+
+노하우를
+	노하우/ncn+를/jco
+
+전수
+	절/pvg+ㄴ/etm+수/nbn
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+것이라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+말했습니다
+	말/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+박
+	박/nbu
+
+대변인은
+	대변인/ncn+은/jxc
+
+또,
+	뜨/pvg+어/ecs+,/sp
+
+이
+	이/mmd
+
+대통령이
+	대통령/ncr+이/jcc
+
+평소
+	평소/ncn
+
+이
+	이/mmd
+
+같은
+	같/paa+은/etm
+
+생각을
+	생각/ncpa+을/jco
+
+갖고
+	갖/pvg+고/ecc
+
+있었다며
+	있/px+었/ep+다며/ecs
+
+기획에서
+	기획/ncpa+에서/jca
+
+공정까지를
+	공정/ncn+까지를/jco
+
+포함해
+	포함/ncpa+해/ncn
+
+
+수출하는
+	수출/ncpa+하/xsva+는/etm
+
+방안에
+	방안/ncn+에/jca
+
+대해서
+	대하/pvg+어서/ecso
+
+고민하고
+	고민/ncpa+하고/jct
+
+연구를
+	연구/ncpa+를/jco
+
+진행중이라고
+	진행/ncpa+중/xsnx+이/jp+라/ef+고/jcr
+
+덧붙였습니다
+	덧붙이/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+(KTV
+	(/sl+KTV/f
+
+한국정책방송
+	한국정책방송/ncn
+
+케이블방송,
+	케이블방송/ncn+,/sp
+
+위성방송
+	위성방송/ncpa
+
+ch520
+	ch520/ncn
+
+www.
+	www/f+./sy
+
+ktv.
+	ktv/f+./sy
+
+go.
+	go/f+./sy
+
+kr
+	kr/f
+
+)저작권자
+	)/sr+저작권자/ncn
+
+한국정책방송원
+	한국정책방송원/ncn
+
+무단전재
+	무단/ncn+전재/ncn
+
+및
+	및/maj
+
+재배포
+	재배/ncpa+포/ncn
+
+금지
+	금지/ncn

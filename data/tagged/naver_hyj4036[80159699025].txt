@@ -1,0 +1,2189 @@
+오늘
+	오늘/ncn
+
+하루
+	하루/ncn
+
+정말
+	정말/mag
+
+여름
+	여름/ncn
+
+날씨였죠
+	날씨/ncn+이/jp+었/ep+죠/ef
+
+...
+	.../se
+
+
+날씨도
+	날씨/ncn+도/jxc
+
+너무
+	너무/mag
+
+좋고
+	좋/paa+고/ecc
+
+기분도
+	기분/ncn+도/jxc
+
+좋아
+	좋/paa+아/ecx
+
+두
+	두/nnc
+
+아들가
+	아들/ncn+가/jcs
+
+함께
+	함께/mag
+
+아파트
+	아파트/ncn
+
+단지안에서
+	단지/ncn+안/ncn+에서/jca
+
+즐거운
+	즐겁/paa+은/etm
+
+시간을
+	시간/ncn+을/jco
+
+보냈답니다
+	보내/pvg+었/ep+답니다/ef
+
+
+오늘
+	오늘/ncn
+
+처음
+	처음/mag
+
+아파트에
+	아파트/ncn+에/jca
+
+물을
+	물/ncn+을/jco
+
+흘러보내어
+	흘러보내/ncn+이/jp+어/ecs
+
+많은
+	많/paa+은/etm
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+신나는
+	신나/pvg+는/etm
+
+시간
+	시간/nbu
+
+보낼수
+	보내/pvg+ㄹ/etm+수/nbn
+
+있었답니다
+	있/paa+었/ep+답니다/ef
+
+
+보이나요
+	보이/pvg+나/ef+요/jxf
+
+?
+	?/sf
+
+
+정말
+	정말/mag
+
+시원해보이죠
+	시원/ncps+하/xsms+어/ecx+보이/px+죠/ef
+
+?
+	?/sf
+
+
+아이
+	아이/ii
+
+학교
+	학교/ncn
+
+보내고
+	보내/pvg+고/ecc
+
+12층에서
+	12/nnc+층/nbu+에서/jca
+
+내려다보며
+	내려다보/pvg+며/ecc
+
+찍은
+	찍/pvg+은/etm
+
+사진이예요
+	사진/ncn+이/jp+예요/ef
+
+
+흘러내리는
+	흐르/pvg+어/ecx+내리/px+는/etm
+
+물
+	물/ncn
+
+덕분에
+	덕분/ncn+에/jca
+
+더
+	더/mag
+
+시원해보이죠
+	시원/ncps+하/xsms+어/ecx+보이/px+죠/ef
+
+...
+	.../se
+
+
+이
+	이/mmd
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍으면서
+	찍/pvg+으면서/ecc
+
+오늘
+	오늘/ncn
+
+꼭
+	꼭/mag
+
+아이
+	아이/ncn
+
+둘이랑
+	둘/nnc+이/nnc+랑/jxc
+
+밖에서
+	밖/ncn+에서/jca
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍어야지
+	찍/pvg+어야지/ef
+
+....
+	.../se+./sf
+
+
+하고
+	하/pvg+고/ecc
+
+마음먹고
+	마음먹/pvg+고/ecc
+
+있었답니다
+	있/paa+었/ep+답니다/ef
+
+
+잠시
+	잠시/mag
+
+감상해보세요
+	감상/ncpa+하/xsva+어/ecx+보/px+세/ef+요/jxf
+
+...
+	.../se
+
+
+정말
+	정말/mag
+
+좋죠
+	좋/paa+죠/ef
+
+....
+	.../se+./sf
+
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+정말
+	정말/mag
+
+좋아해요
+	좋/paa+아/ecx+하/px+어요/ef
+
+
+저도
+	저/npp+도/jxc
+
+아이처럼
+	아이/ncn+처럼/jca
+
+기분이
+	기분/ncn+이/jcc
+
+좋아지네요
+	좋아지/pvg+네요/ef
+
+
+꽃도
+	꽃/ncn+도/jxc
+
+피고
+	피/ncn+이/jp+고/ecc
+
+물도
+	물/ncn+도/jxc
+
+흐르고
+	흐르/pvg+고/ecc
+
+...
+	.../se
+
+
+의자에
+	의자/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+커피한잔
+	커피/ncn+한잔/ncpa
+
+마시면서
+	마시/pvg+면서/ecc
+
+아줌마들의
+	아줌마/ncn+들/ncn+의/jcm
+
+수다떨기
+	수다/ncn+떨기/ncn
+
+...
+	.../se
+
+
+정말
+	정말/mag
+
+좋은
+	좋/paa+은/etm
+
+장소랍니다
+	장소/ncn+이/jp+랍니다/ef
+
+
+짜~잔
+	짜/pvg+아/ecs+~/sd+잔/nbu
+
+요
+	요/mmd
+
+두녀석이
+	두녀석/ncn+이/jcc
+
+사랑스러운
+	사랑/ncpa+스럽/xsmn+은/etm
+
+두
+	두/nnc
+
+아들이랍니다
+	아들/ncn+이/ncn+이/jp+랍니다/ef
+
+
+아들
+	아들/ncn
+
+둘이면
+	둘/nnc+이/jp+면/ecs
+
+하나는
+	하/pvg+어/ecx+나/px+는/etm
+
+딸
+	딸/ncn
+
+노릇을
+	노릇/nbn+을/jco
+
+한다고
+	하/px+ㄴ다/ef+고/jcr
+
+하죠
+	하/px+죠/ef
+
+...
+	.../se
+
+
+어른들
+	어른/ncn+들/ncn
+
+말씀
+	말씀/ncpa
+
+틀린거
+	틀린거/ncn
+
+하나도
+	하/pvg+어/ecx+나/px+아/ecs
+
+없어요
+	없/paa+어요/ef
+
+
+작은
+	작/paa+은/etm
+
+아이의
+	아이/ncn+의/jcm
+
+애교
+	애교/ncn
+
+장난
+	장난/ncn
+
+아니랍니다
+	아니/paa+랍니다/ef
+
+
+말썽꾸러기지만
+	말썽꾸러기/ncn+이/jp+지만/ecs
+
+항상
+	항상/mag
+
+서로를
+	서로/ncn+를/jco
+
+챙기는
+	챙기/pvg+는/etm
+
+사이좋은
+	사이좋/paa+은/etm
+
+형제
+	형제/ncr
+
+바로
+	바로/mag
+
+우리집
+	우리집/ncn
+
+두
+	두/nnc
+
+아들이랍니다
+	아들/ncn+이/ncn+이/jp+랍니다/ef
+
+
+요요
+	요요/ncn
+
+..
+	./sf+./sf
+
+
+우리
+	우리/npp
+
+둘째
+	둘째/nno
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍을
+	찍/pvg+을/etm
+
+때마다
+	때/ncn+마다/jxc
+
+같은
+	같/paa+은/etm
+
+포즈
+	포즈/ncn
+
+
+귀엽죠
+	귀엽/paa+죠/ef
+
+...
+	.../se
+
+
+내
+	내/npp
+
+눈에만
+	눈/ncn+에/jca+만/jxc
+
+그렇게
+	그렇/pad+게/ecs
+
+보이나
+	보이/ncn+나/jcj
+
+
+이쁘게
+	이쁘/paa+게/ecs
+
+봐주세요
+	보/pvg+아/ecx+주/px+세요/ef
+
+
+딸을
+	딸/ncn+을/jco
+
+간절히
+	간절히/mag
+
+바라는
+	바라/pvg+는/etm
+
+마음에
+	마음/ncn+에/jca
+
+..
+	./sf+./sf
+
+
+뒤늦게
+	뒤늦/paa+게/ecs
+
+낳은
+	낳/pvg+은/etm
+
+둘째
+	둘째/nno
+
+아들
+	아들/ncn
+
+
+아무
+	아무/mmd
+
+생각없이
+	생각없이/mag
+
+아이앞에서
+	아이/ncn+앞/ncn+에서/jca
+
+고추
+	고추/ncn
+
+안
+	안/mag
+
+달고
+	달/paa+고/ecc
+
+나왔으면
+	나/pvg+아/ecx+오/px+아/ep+면/ecs
+
+좋았을걸
+	좋았을걸/ncn
+
+...
+	.../se
+
+
+했다가
+	하/pvg+었/ep+다가/ecc
+
+
+어느날
+	어느날/npd
+
+우리
+	우리/npp
+
+둘째가
+	둘째/nno+가/jcc
+
+심각한
+	심각/ncps+하/xsms+ㄴ/etm
+
+표정으로
+	표정/ncn+으로/jca
+
+저에게하는말이
+	저에게하는말/ncn+이/jcc
+
+
+"
+	"/sl
+
+엄마
+	엄마/ncn
+
+내
+	내/npp
+
+고추가
+	고추/ncn+가/jcs
+
+그렇게
+	그렇/pad+게/ecs
+
+싫어요
+	싫/paa+어/ef+요/jxf
+
+??
+	?/sf+?/sf
+
+
+그래서
+	그래서/maj
+
+그날
+	그날/ncn
+
+바로
+	바로/mag
+
+저
+	저/npp
+
+반성했습니다
+	반성/ncpa+하/xsva+었/ep+습니다/ef
+
+
+아이들
+	아이/ncn+들/ncn
+
+앞에서는
+	앞/ncn+에서/jca+는/jxc
+
+말
+	말/ncn
+
+함부로
+	함부로/mag
+
+하면
+	하/pvg+면/ecs
+
+안된다는걸
+	안된다는걸/ncn
+
+...
+	.../se
+
+
+큰
+	크/paa+ㄴ/etm
+
+아들
+	아들/ncn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+포즈
+	포즈/ncn
+
+잡는동안
+	잡는동안/ncn
+
+우리
+	우리/npp
+
+둘째
+	둘째/nno
+
+뭔가
+	뭔가/ncn
+
+발견
+	발견/ncpa
+
+....
+	.../se+./sf
+
+
+뭘까
+	뭘까/ncn
+
+궁금하죠
+	궁금/ncps+하/xsms+죠/ef
+
+...
+	.../se
+
+
+6살
+	6/nnc+살/nbu
+
+꼬마
+	꼬마/ncn
+
+눈에
+	눈/ncn+에/jca
+
+포착된
+	포착/ncpa+되/xsvn+ㄴ/etm
+
+건
+	거/nbn+은/jxc
+
+
+바로바로
+	바로바/ncn+로/jca
+
+
+두
+	두/nnc
+
+아들
+	아들/ncn
+
+갑자기
+	갑자기/mag
+
+달팽이
+	달팽이/ncn
+
+관찰
+	관찰/ncpa
+
+삼매경에
+	삼매경/ncn+에/jca
+
+빠져
+	빠지/pvg+어/ecx
+
+버렸네요
+	버리/pvg+었/ep+네요/ef
+
+
+달팽이를직접
+	달팽이를직접/ncn
+
+처음
+	처음/mag
+
+본
+	보/px+ㄴ/etm
+
+우리
+	우리/npp
+
+둘째
+	둘째/nno
+
+흥분
+	흥분/ncpa
+
+....
+	.../se+./sf
+
+
+형아가
+	형아/ncn+가/jcs
+
+옆에
+	옆/ncn+에/jca
+
+있어서
+	있/px+어서/ecs
+
+자신
+	자신/ncn
+
+있게
+	있/px+게/ecs
+
+만져
+	만지/pvg+어/ecx
+
+보는
+	보/px+는/etm
+
+우리
+	우리/npp
+
+둘째
+	둘째/nno
+
+...
+	.../se
+
+
+이런
+	이런/mmd
+
+곳에
+	곳/nbn+에/jca
+
+달팽이가
+	달팽이/ncn+가/jcs
+
+있을거라곤
+	있을거라곤/ncn
+
+생각지도
+	생각/ncpa+지도/ncn
+
+못했는데
+	못하/px+었/ep+는데/ecs
+
+....
+	.../se+./sf
+
+
+오늘
+	오늘/ncn
+
+운
+	울/pvg+ㄴ/etm
+
+정~~말
+	정/ncn+~/sd+~/sd+말/nbu
+
+좋은
+	좋/paa+은/etm
+
+날이것
+	날이것/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+...
+	.../se
+
+
+아이들에게
+	아이/ncn+들/ncn+에게/jca
+
+달팽이도
+	달팽이/ncn+도/jxc
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+....
+	.../se+./sf
+
+
+그리고
+	그리고/maj
+
+달팽이가
+	달팽이/ncn+가/jcs
+
+똥누는
+	똥누/pvg+는/etm
+
+모습도
+	모습/ncn+도/jxc
+
+봤어요
+	보/pvg+아/ep+아/ef
+
+
+빨간
+	빨갛/paa+은/etm
+
+글씨로
+	글씨/ncn+로/jca
+
+미끄럼
+	미끄럼/ncn
+
+주의
+	주/nbu+의/jcm
+
+보이죠
+	보이/pvg+죠/ef
+
+?
+	?/sf
+
+
+작년
+	작년/ncn
+
+여름
+	여름/ncn
+
+아무생각없이
+	아무생각없/ncn+이/jcc
+
+앞만보고
+	앞/xp+만보/ncn+이/jp+고/ecc
+
+지나가다
+	지나/pvg+아/ecx+가/px+아/ecx
+
+물속에
+	물/ncn+속/xsnx+에/jca
+
+빠진
+	빠지/pvg+ㄴ/etm
+
+경험이
+	경험/ncpa+이/jcc
+
+있어요
+	있/paa+어요/ef
+
+
+그
+	그/mmd
+
+날
+	나/px+ㄹ/etm
+
+이후로
+	이후/ncn+로/jca
+
+작은
+	작/paa+은/etm
+
+아이
+	아이/ncn
+
+이곳에
+	이곳/npd+에/jca
+
+지나기만
+	지나/pvg+기/etn+만/jxc
+
+하면
+	하/pvg+면/ecs
+
+"
+	"/sl
+
+엄마
+	엄마/ncn
+
+여기
+	여기/mad
+
+빠졌잖아
+	빠지/pvg+었/ep+잖아/ef
+
+조심해"
+	조심/ncpa+하/xsva+어/ecs+"/sr
+
+헐~~
+	헐/pvg+ㄹ/etm+~/sd+~/sd
+
+
+6살
+	6/nnc+살/nbu
+
+아들한테
+	아들/ncn+한테/jca
+
+들을
+	들/pvg+ㄹ/etm
+
+말은
+	말/ncn+은/jxc
+
+아닌것
+	아니/paa+ㄴ/etm+것/nbn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+...
+	.../se
+
+
+한번
+	한/nnc+번/nbu
+
+실수가
+	실수/ncn+가/jcs
+
+...
+	.../se
+
+
+엄마
+	엄마/ncn
+
+체면
+	체면/ncn
+
+완전히
+	완전히/mag
+
+구겨졌네요
+	구기/pvg+어/ecx+지/px+었/ep+네요/ef
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/05/09/273/031043237133532E11C3992E13C668C3501_hyj4036_PC_DEFAULT_logo.
+	net/blogucc28/2012/05/09/273/031043237133532E11C3992E13C668C3501_hyj4036_PC_DEFAULT_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'6.
+	'/sr+6./nnc
+
+78';
+	78/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'88C107C085591B60E1873E18CECAAE499F65';
+	'88C107C085591B60E1873E18CECAAE499F65/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1226f0c0543365143e580dfa6debdbca80b10441ae08980c466f41ffe8f96f94bfa10dfa6debdbca80b1';
+	'V1226f0c0543365143e580dfa6debdbca80b10441ae08980c466f41ffe8f96f94bfa10dfa6debdbca80b1/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_04943
+	ugcPlayer_04943/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_04943'
+	VideoInfraUGCPlayer('ugcPlayer_04943'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_04943
+	ugcPlayer_04943/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/05/09/1634/031043237133532E11C3A92C13B671C3B01_hyj4036_PC_DEFAULT_logo.
+	net/blogucc28/2012/05/09/1634/031043237133532E11C3A92C13B671C3B01_hyj4036_PC_DEFAULT_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'11.
+	'/sr+11./nnc
+
+24';
+	24/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'86FE9501D03F5CA6342DE33E32078ACEDE3B';
+	'86FE9501D03F5CA6342DE33E32078ACEDE3B/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12190b9187e851fe04e7dee11d67f75bd088097c378597edb799963cea487e7d4b2fdee11d67f75bd088';
+	'V12190b9187e851fe04e7dee11d67f75bd088097c378597edb799963cea487e7d4b2fdee11d67f75bd088/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_01062
+	ugcPlayer_01062/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_01062'
+	VideoInfraUGCPlayer('ugcPlayer_01062'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_01062
+	ugcPlayer_01062/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+짧은
+	짧/paa+은/etm
+
+동영상이지만
+	동영상/ncn+이/jp+지만/ecs
+
+실제
+	실제/ncn
+
+모습
+	모습/ncn
+
+남기고
+	남/pvg+기/etn+이/jp+고/ecc
+
+싶어서
+	싶/px+어서/ecs
+
+....
+	.../se+./sf
+
+
+우리
+	우리/npp
+
+아들들한테
+	아들/ncn+들/ncn+한테/jca
+
+괴롭힘을
+	괴롭히/pvg+ㅁ/etn+을/jco
+
+당한
+	당하/pvg+ㄴ/etm
+
+달팽이랍니다
+	달팽이/ncn+이/jp+랍니다/ef
+
+
+달팽이야
+	달팽이/ncn+이/jp+야/ef
+
+정말
+	정말/mag
+
+미안해
+	미안/ncps+하/xsms+어/ecx
+
+.....
+	.../se+./sf+./sf
+
+
+하지만
+	하지만/maj
+
+우리
+	우리/npp
+
+아들들
+	아들/ncn+들/ncn
+
+오늘
+	오늘/ncn
+
+달팽이
+	달팽이/ncn
+
+한마리
+	한/nnc+마리/nbu
+
+때문에
+	때문/nbn+에/jca
+
+정말
+	정말/mag
+
+즐거운
+	즐겁/paa+은/etm
+
+시간
+	시간/nbu
+
+보냈어요
+	보내/pvg+었/ep+어요/ef
+
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+가족이랍니다
+	가족/ncn+이/ncn+이/jp+랍니다/ef
+
+
+엄마,
+	엄마/ncn+,/sp
+
+아빠
+	아빠/ncn
+
+,그리고
+	,/sp+그/npd+이/jp+리/ef+고/jcr
+
+아이
+	아이/ii
+
+...
+	.../se
+
+
+우리
+	우리/npp
+
+가족은
+	가족/ncn+은/jxc
+
+이런
+	이런/mmd
+
+모습
+	모습/ncn
+
+
+우리
+	우리/npp
+
+아들
+	아들/ncn
+
+6살이지만
+	6/nnc+살/nbu+이/jp+지만/ecs
+
+좀
+	좀/mag
+
+작죠
+	작/paa+죠/ef
+
+....
+	.../se+./sf
+
+
+요
+	요/mmd
+
+녀석
+	녀석/nbn
+
+...
+	.../se
+
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+포즈
+	포즈/ncn
+
+좀
+	좀/mag
+
+바꾸면
+	바꾸/pvg+면/ecs
+
+좋을
+	좋/paa+을/etm
+
+텐데
+	텐데/ncn
+
+....
+	.../se+./sf
+
+
+또
+	또/maj
+
+이
+	이/mmd
+
+포즈네요
+	포즈/ncn+이/jp+네/ef+요/jxf
+
+하지만
+	하지만/maj
+
+너무
+	너무/mag
+
+귀엽네요
+	귀엽/paa+네요/ef
+
+
+어~
+	어~/ncn
+
+웬일
+	웬일/ncn
+
+딱
+	딱/mag
+
+한장
+	한/nnc+장/nbu
+
+건진
+	건지/pvg+ㄴ/etm
+
+다른
+	다른/mma
+
+포즈의
+	포즈/ncn+의/jcm
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+...
+	.../se
+
+
+우리
+	우리/npp
+
+아들
+	아들/ncn
+
+뽀뽀해주는
+	뽀뽀/ncpa+하/xsva+어/ecx+주/px+는/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+너무
+	너무/mag
+
+좋아한답니다
+	좋/paa+아/ecx+하/px+ㄴ답니다/ef
+
+
+"엄마,
+	"/sl+엄마/ncn+,/sp
+
+뽀뽀"
+	뽀뽀/ncpa+"/sr
+
+하루에
+	하루/ncn+에/jca
+
+몇번씩
+	몇/nnc+번/nbu+씩/xsnu
+
+뽀뽀해주는
+	뽀뽀/ncpa+하/xsva+어/ecx+주/px+는/etm
+
+우리
+	우리/npp
+
+아들
+	아들/ncn
+
+
+큰
+	크/paa+ㄴ/etm
+
+아들
+	아들/ncn
+
+경우를
+	경우/ncn+를/jco
+
+생각하면
+	생각/ncpa+하/xsva+면/ecs
+
+뽀뽀
+	뽀뽀/ncpa
+
+받는
+	받/pvg+는/etm
+
+것도
+	것/nbn+도/jxc
+
+얼마남지
+	얼마/ncn+남지/ncn
+
+않은것
+	않/px+은/etm+것/nbn
+
+같네요
+	같/paa+네/ef+요/jxf
+
+....
+	.../se+./sf
+
+
+즐거운
+	즐겁/paa+은/etm
+
+한때를
+	하/pvg+ㄴ/etm+때/nbn+를/jco
+
+보낸
+	보내/pvg+ㄴ/etm
+
+우리
+	우리/npp
+
+작은
+	작/paa+은/etm
+
+아들
+	아들/ncn
+
+오늘
+	오늘/ncn
+
+정말
+	정말/mag
+
+피곤했는지
+	피곤/ncps+하/xsms+었/ep+는지/ecs
+
+일찍
+	일찍/mag
+
+잠자리에
+	잠자리/ncn+에/jca
+
+들었네요
+	들/pvg+었/ep+네/ef+요/jxf
+
+...
+	.../se
+
+
+아이들
+	아이/ncn+들/ncn
+
+덕분에
+	덕분/ncn+에/jca
+
+웃고
+	웃/pvg+고/ecc
+
+...
+	.../se
+
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+피로회복제랍니다
+	피로회복/ncpa+제/ncn+이/jp+랍니다/ef
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+달팽이
+	달팽이/ncn
+
+덕분에
+	덕분/ncn+에/jca
+
+아이들의
+	아이/ncn+들/ncn+의/jcm
+
+웃는
+	웃/pvg+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+좋았고
+	좋/paa+아/ep+고/ecc
+
+..
+	./sf+./sf
+
+
+몸은
+	몸/ncn+은/jxc
+
+피곤해도
+	피곤/ncps+해/ncn+도/jxc
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+하루를
+	하루/ncn+를/jco
+
+보낸것
+	보내/pvg+ㄴ/etm+것/nbn
+
+같아요
+	같/paa+아요/ef
+
+
+아파트
+	아파트/ncn
+
+내에서
+	내/npp+에서/jca
+
+즐거운
+	즐겁/paa+은/etm
+
+시간을
+	시간/ncn+을/jco
+
+보내고
+	보내/pvg+고/ecc
+
+몇장의
+	몇/nnc+장/nbu+의/jcm
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+정리해봤어요
+	정리/ncpa+하/xsva+어/ecx+보/px+아/ep+아/ef
+
+
+우리
+	우리/npp
+
+둘째
+	둘째/nno
+
+다음에는
+	다음/ncn+에/jca+는/jxc
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍을
+	찍/pvg+을/etm
+
+때
+	때/ncn
+
+포즈
+	포즈/ncn
+
+바껴야겠죠
+	바껴야겠죠/ncn
+
+....
+	.../se+./sf
+
+
+형아랑
+	형아랑/ncn
+
+달팽이
+	달팽이/ncn
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+놀고
+	놀/pvg+고/ecc
+
+....
+	.../se+./sf
+
+
+몇시간
+	몇/nnc+시간/nbu
+
+후
+	후/ncn
+
+6살
+	6/nnc+살/nbu
+
+조카와
+	조카/ncn+와/jct
+
+다시
+	다시/mag
+
+찾아갔더니
+	찾/pvg+아/ecx+가/px+아/ep+니/ecs
+
+...
+	.../se
+
+
+달팽이
+	달팽이/ncn
+
+..
+	./sf+./sf
+
+
+또
+	또/maj
+
+작은
+	작/paa+은/etm
+
+아들이
+	아들/ncn+이/jcc
+
+찾았어요
+	찾/pvg+아/ep+아/ef
+
+
+오늘
+	오늘/ncn
+
+하루
+	하루/ncn
+
+그
+	그/mmd
+
+달팽이
+	달팽이/ncn
+
+괴로운
+	괴롭/paa+은/etm
+
+하루를
+	하루/ncn+를/jco
+
+보낸것
+	보내/pvg+ㄴ/etm+것/nbn
+
+같네요
+	같/paa+네요/ef
+
+
+6살
+	6/nnc+살/nbu
+
+두
+	두/nnc
+
+꼬마들에게
+	꼬마/ncn+들/ncn+에게/jca
+
+시달리고
+	시달리/pvg+고/ecc
+
+그래도
+	그래도/maj
+
+집에
+	집/ncn+에/jca
+
+올때는
+	오/px+ㄹ/etm+때/nbn+는/jxc
+
+원래
+	원래/mag
+
+자리에
+	자리/ncn+에/jca
+
+두고
+	두/pvg+고/ecc
+
+오더라구요
+	오더/ncn+이/jp+라구/ef+요/jxf
+
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+가면
+	가/px+면/ecs
+
+죽는다고
+	죽/pvg+는다/ef+고/jcr
+
+놔두고
+	놔두/pvg+고/ecc
+
+가야된다네요
+	가야된다/ncn+이/jp+네요/ef
+
+
+귀여워
+	귀엽/paa+어/ecx
+
+.....
+	./sy+.../se+./sy
+
+.
+	./sf
+
+
+영아와
+	영아/ncn+와/jcj
+
+훈이의
+	훈이/ncn+의/jcm
+
+일상
+	일상/ncn
+
+귀여운
+	귀엽/paa+은/etm
+
+두
+	두/nnc
+
+아들의
+	아들/ncn+의/jcm
+
+하루
+	하루/ncn
+
+잘보셨나요
+	잘보셨나요/ncn
+
+?
+	?/sf

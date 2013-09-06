@@ -1,0 +1,445 @@
+경북
+	경북/ncn
+
+상주시
+	상주/ncn+시/ncn
+
+화북면
+	화북면/ncn
+
+용유리(우복동)
+	용유리(우복동)/ncn
+
+산신당
+	산신당/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+
+이곳은
+	이곳/npd+은/jxc
+
+속리산에
+	속리산/ncn+에/jca
+
+인접해있는
+	인접/ncps+하/xsms+어/ecx+있/px+는/etm
+
+청화산
+	청화/ncn+산/ncn
+
+자락에있는
+	자락에있/ncn+는/jxc
+
+동네다
+	동네/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+쌍용계곡이
+	쌍용계곡/ncn+이/jcc
+
+시작되는곳~
+	시작되는곳/ncn+~/sd
+
+
+너무맑고
+	너무맑고/ncn
+
+깨끗한
+	깨끗/ncps+하/xsms+ㄴ/etm
+
+계곡이
+	계곡/ncn+이/jcc
+
+인상적인곳이다
+	인상적인곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+계곡에서
+	계곡/ncn+에서/jca
+
+바라보면
+	바라/pvg+아/ecx+보/px+면/ecs
+
+문장대가
+	문장/ncn+대/ncn+가/jcs
+
+보이고~
+	보이/ncn+고/jcj+~/sd
+
+
+동네뒤로
+	동네/ncn+뒤/ncn+로/jca
+
+구비구비
+	구비/ncn+구비/ncn
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+원적사라는
+	원적사라/ncn+는/jxc
+
+천년고찰이있다
+	천년/ncn+고찰/ncn+이/ncn+있/xsmn+다/ef
+
+.
+	./sf
+
+
+원적사에는
+	원적사/ncn+에/jca+는/jxc
+
+조계종
+	조계종/ncn
+
+8대종정이셨던
+	8대종정이셨던/ncn
+
+서암스님의
+	서암스님/ncn+의/jcm
+
+부도가있다
+	부도가있다/ncn
+
+.
+	./sf
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+10년정도
+	10년정/ncn+도/jxc
+
+됐는지
+	되/pvg+었/ep+는지/ecs
+
+...
+	.../se
+
+
+오랫만에
+	오랫만/ncn+에/jca
+
+찾아갔다
+	찾/pvg+아/ecx+가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+몇년전에
+	몇/nnc+년/nbu+전/xsnx+에/jca
+
+속리산
+	속리산/ncn
+
+문장대를
+	문장/ncn+대/ncn+를/jco
+
+들렸다가
+	들리/pvg+었/ep+다가/ecs
+
+이마을앞을
+	이마을앞/ncn+을/jco
+
+지나서
+	지나/pvg+아/ecx
+
+문경으로
+	문/nbu+경/xsnu+으로/jca
+
+가다가
+	가/pvg+다가/ecc
+
+
+마을한켠에
+	마을한켠/ncn+에/jca
+
+우람하게
+	우람/ncps+하/xsms+게/ecs
+
+서있는
+	서/pvg+어/ecx+있/px+는/etm
+
+큰~미륵바위를보고
+	큰~미륵바위를보/ncn+이/jp+고/ecc
+
+동네로
+	동네/ncn+로/jca
+
+들어갔다
+	들/pvg+어/ecx+가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+이장님하고
+	이장/ncr+님/ncn+하고/jct
+
+이런저런
+	이런저런/mma
+
+애기를
+	애/ncn+이/jp+기/etn+를/jco
+
+하다가
+	하/pvg+다가/ecs
+
+바위가있는땅이
+	바위가있는땅/ncn+이/jcc
+
+매물로
+	매물/ncn+로/jca
+
+나왔단얘기에
+	나왔단얘/ncn+이/jp+기/etn+에/jca
+
+
+그땅을사서
+	그땅을사서/ncn
+
+기도터와
+	기도/ncn+터/ncn+와/jcj
+
+민박집을
+	민박집/ncn+을/jco
+
+겸할려고
+	겸할려/ncn+이/jp+고/ecc
+
+궁리를
+	궁리/ncpa+를/jco
+
+하다가
+	하/pvg+다가/ecs
+
+아내의
+	아내/ncn+의/jcm
+
+반대에
+	반대/ncn+에/jca
+
+포기했는데
+	포기/ncpa+하/xsva+었/ep+는데/ecs
+
+...
+	.../se
+
+
+이런~~~그걸
+	이런~~~그걸/ncn
+
+못잊어서
+	못잊어서/ncn
+
+다시찾아가서
+	다시찾아가서/ncn
+
+사진을
+	사진/ncn+을/jco
+
+찍었는데
+	찍/pvg+었/ep+는데/ecs
+
+미륵바위를
+	미륵바위/ncn+를/jco
+
+못찍었다
+	못찍었다/ncn
+
+.
+	./sf
+
+
+아쉽지만
+	아쉽/paa+지/ecx+말/px+ㄴ/etm
+
+다음에
+	다음/ncn+에/jca
+
+다시한번
+	다시한번/ncn
+
+가야지~
+	가/pvg+야지/ef+~/sd
+
+
+국어사전에는
+	국어사전/ncn+에/jca+는/jxc
+
+산신당이있는
+	산신당/ncn+이/ncn+있/xsmn+는/etm
+
+용유2리
+	용유2리/ncn
+
+병천(우복동)마을이
+	병천(우복동)마을/ncn+이/jcc
+
+이렇게
+	이렇/pad+게/ecs
+
+나와있다
+	나오/pvg+아/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+-우복동(
+	-우복동(/ncn
+
+)-
+	)/sr+-/sd
+
+
+병화(
+	병/ncn+화/xsnca+(/sl
+
+)가
+	)/sr+가/jcc
+
+침범(
+	침범(/ncn
+
+)하지
+	)하지/ncn
+
+못한다는
+	못하/px+ㄴ다/ef+는/etm
+
+신비(
+	신비(/ncn
+
+)한
+	)/sr+한/nnc
+
+동네
+	동네/ncn
+
+.
+	./sf
+
+
+경상북도(
+	경상북도(/ncn
+
+)
+	)/sr
+
+상주(
+	상주(/ncn
+
+)와
+	)/sr+와/jcj
+
+충청북도(
+	충청북도(/ncn
+
+)
+	)/sr
+
+보은(
+	보은(/ncn
+
+)
+	)/sr
+
+사이의
+	사이/ncn+의/jcm
+
+
+속리산에
+	속리산/ncn+에/jca
+
+있다는
+	있/px+다/ef+는/etm
+
+상상적(
+	상상/ncpa+적/xsncc+(/sl
+
+)인
+	)/sr+이/jp+ㄴ/etm
+
+동네
+	동네/ncn
+
+
+여기가
+	여기/npd+가/jcc
+
+산신당이있는
+	산신당/ncn+이/ncn+있/xsmn+는/etm
+
+동네다
+	동네/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이곳
+	이곳/npd
+
+산신당은
+	산신당/ncn+은/jxc
+
+동네에서
+	동네/ncn+에서/jca
+
+약간
+	약간/mag
+
+떨어져
+	떨어지/pvg+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+무구사용도
+	무구/ncps+사용/ncpa+도/jxc
+
+가능할것같다
+	가능/ncps+하/xsms+ㄹ/etm+것/nbn+같/xsmn+다/ef
+
+.
+	./sf
+
+
+다만
+	다만/mag
+
+여름에는
+	여름/ncn+에/jca+는/jxc
+
+워낙
+	워낙/mag
+
+많은
+	많/paa+은/etm
+
+피서객이
+	피서객/ncn+이/jcc
+
+몰리는곳이라
+	몰리는곳/ncn+이/jp+라/ecs
+
+자제하는게
+	자제/ncpa+하/xsva+는게/ecs
+
+어떨지
+	어떨지/ncn
+
+...
+	.../se

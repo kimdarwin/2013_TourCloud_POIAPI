@@ -1,0 +1,364 @@
+소리섬박물관
+	소리섬박물관/ncn
+
+전시물보고,
+	전시물/ncn+보고/ncn+,/sp
+
+듣고,
+	듣/pvg+고/ecc+,/sp
+
+만지고,
+	만지/pvg+고/ecc+,/sp
+
+직접
+	직접/mag
+
+연주하는
+	연주/ncpa+하/xsva+는/etm
+
+동안
+	동안/ncn
+
+세계
+	세계/ncn
+
+각국의
+	각국/ncn+의/jcm
+
+문화를
+	문화/ncn+를/jco
+
+체험하고
+	체험/ncpa+하고/jct
+
+다채로운
+	다채/ncn+로운/ncn
+
+청각경험을
+	청각/ncn+경험/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+체험형
+	체험/ncpa+형/ncn
+
+교육관광상품이다이곳에서는
+	교육관광상품이다이곳에서/ncn+는/jxc
+
+모두
+	모두/mag
+
+1600여점이
+	1600/nnc+여/xsnu+점/nbu+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있는데
+	있/px+는데/ecs
+
+세계
+	세계/ncn
+
+최초로
+	최초/ncn+로/jca
+
+소리를
+	소리/ncn+를/jco
+
+저장한
+	저장/ncpa+하/xsva+ㄴ/etm
+
+에디슨
+	에디슨/ncn
+
+틴포일
+	틴포일/ncn
+
+,
+	,/sp
+
+사망한
+	사망/ncpa+하/xsva+ㄴ/etm
+
+북한
+	북한/ncn
+
+김일성
+	김/nbn+이/jp+ㄹ/etm+성/nbs
+
+주석이
+	주석/ncn+이/jcc
+
+지시해
+	지시/ncpa+하/xsva+어/ecx
+
+제작했다는
+	제작/ncpa+하/xsva+었/ep+다/ef+는/etm
+
+옥류금
+	옥류금/ncn
+
+,
+	,/sp
+
+한국
+	한국/ncn
+
+전통
+	전통/ncn
+
+궁중악기인
+	궁중/ncn+악기/ncn+이/jp+ㄴ/etm
+
+편경과
+	편/nbu+경/xsnu+과/jcj
+
+편종,
+	편종,/ncn
+
+230여종의
+	230/nnc+여/xsnu+종/nbu+의/jcm
+
+조개
+	조/nnc+개/nbu
+
+5만여개로
+	5/nnc+만여/nnc+개/nbu+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+세계
+	세계/ncn
+
+최대
+	최대/ncn
+
+규모(높이
+	규모(높/ncn+이/jcc
+
+13m)의
+	13m)/ncn+의/jcm
+
+천연조개
+	천연/ncn+조개/ncn
+
+불가사리
+	불가사리/ncn
+
+고동을
+	고동/ncn+을/jco
+
+소재로한
+	소재로한/ncn
+
+모빌줄이
+	모빌/ncn+줄/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+마법의
+	마법/ncn+의/jcm
+
+하프,
+	하프/ncn+,/sp
+
+100여년
+	100/nnc+여/xsnu+년/nbu
+
+된
+	되/pvg+ㄴ/etm
+
+축음기
+	축음기/ncn
+
+등
+	등/nbu
+
+다양한
+	다양/ncn+한/ncn
+
+악기와
+	악기/ncn+와/jct
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+태아의
+	태아/ncn+의/jcm
+
+성장에서부터
+	성장/ncpa+에서/jca+부터/jxc
+
+탄생까지
+	탄생/ncpa+까지/jxc
+
+신비로운
+	신비/ncps+로운/ncn
+
+소리를
+	소리/ncn+를/jco
+
+영상물과
+	영상물/ncn+과/jct
+
+함께
+	함께/mag
+
+체험하는
+	체험/ncpa+하/xsva+는/etm
+
+공간을
+	공간/ncn+을/jco
+
+비롯
+	비롯/ncpa
+
+세계각국의
+	세계각국/ncn+의/jcm
+
+민속악기와
+	민속/ncn+악기/ncn+와/jcj
+
+'발로
+	'/sr+발/ncn+로/jca
+
+걸어다니며
+	걸어다니/pvg+며/ecc
+
+치는
+	치/pvg+는/etm
+
+피아노'
+	피아노/ncn+'/sr
+
+등
+	등/nbu
+
+이색악기를
+	이색/ncn+악기/ncn+를/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+체험장도
+	체험/ncpa+장/ncn+도/jxc
+
+갖추어져
+	갖추/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+소리섬박물관은
+	소리섬박물관/ncn+은/jxc
+
+세계의
+	세계/ncn+의/jcm
+
+소리
+	소리/ncn
+
+문화와
+	문화/ncn+와/jcj
+
+과학을
+	과학/ncn+을/jco
+
+체험할
+	체험/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+중문관광단지내
+	중문/ncn+관광단지/ncn+내/ncn
+
+지상
+	지상/ncn
+
+3층,
+	3/nnc+층/nbu+,/sp
+
+연면적
+	연면적/ncn
+
+4000
+	4000/nnc
+
+규모로
+	규모/ncn+로/jca
+
+일반적인
+	일반/ncn+적/ncn+이/jp+ㄴ/etm
+
+박물관
+	박물관/ncn
+
+형태에서
+	형태/ncn+에서/jca
+
+탈피해
+	탈피/ncpa+하/xsva+어/ecx
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+소리의
+	소리/ncn+의/jcm
+
+맛
+	맛/ncn
+
+을
+	을/ncn
+
+보고
+	보/px+고/ecc
+
+체험하도록
+	체험/ncpa+하/xsva+도록/ecs
+
+5개
+	5/nnc+개/nbu
+
+전시관으로
+	전시관/ncn+으로/jca
+
+구성되어
+	구성/ncn+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf

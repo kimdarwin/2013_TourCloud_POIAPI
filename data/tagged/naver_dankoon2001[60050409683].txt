@@ -1,0 +1,132 @@
+영평
+	영평/ncn
+
+염불당
+	염불/ncpa+당/ncn
+
+
+날씨
+	날씨/ncn
+
+좋은
+	좋/paa+은/etm
+
+3월
+	3/nnc+월/nbu
+
+중순에
+	중순/ncn+에/jca
+
+속
+	속/ncn
+
+내의에
+	내의/ncn+에/jca
+
+몇겹을
+	몇/nnc+겹/nbu+을/jco
+
+더
+	더/mag
+
+입어도
+	입/pvg+어도/ecs
+
+추워서
+	춥/paa+어서/ecs
+
+일
+	일/nnc
+
+하기
+	하/pvg+기/etn
+
+힘들더니
+	힘들/pvg+더니/ecs
+
+..
+	./sf+./sf
+
+
+일이
+	일/ncn+이/jcc
+
+끝
+	끝/ncn
+
+나가는
+	나/pvg+아/ecx+가/px+는/etm
+
+4월은
+	4/nnc+월/nbu+은/jxc
+
+때
+	때/pvg+어/ecx
+
+아닌
+	아니/paa+ㄴ/etm
+
+고온
+	고온/ncn
+
+현상이
+	현상/ncn+이/jcc
+
+와서
+	오/px+아/ecs
+
+마무리
+	마무리/ncpa
+
+작업에
+	작업/ncpa+에/jca
+
+머리
+	머리/ncn
+
+벚겨지는줄^^
+	벚겨지는줄^^/ncn
+
+알았네
+	알/pvg+아/ep+네/ef
+
+..
+	./sf+./sf
+
+
+가을이면
+	가을/ncn+이/jp+면/ecs
+
+구절초(들국화)가
+	구/nnc+절/nbu+초/xsnu+(/sl+들국화/ncn+)/sr+가/jcc
+
+워낙많아
+	워낙많아/ncn
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+곳인데
+	곳/ncn+이/jp+ㄴ데/ecs
+
+.
+	./sf
+
+
+새싹
+	새싹/ncn
+
+나는것만
+	나/px+는/etm+것/nbn+만/jxc
+
+보고나오니
+	보/pvg+고/ecx+나/px+아/ecx+오/px+니/ecs
+
+좀
+	좀/mag
+
+아쉽다
+	아쉽/paa+다/ef
+
+.
+	./sf

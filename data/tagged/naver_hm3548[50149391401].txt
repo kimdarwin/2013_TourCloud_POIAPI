@@ -1,0 +1,2659 @@
+홍콩
+	홍콩/ncn
+
+여행
+	여행/ncpa
+
+::
+	:/sp+:/sp
+
+홍콩
+	홍콩/ncn
+
+호텔
+	호텔/ncn
+
+리뷰
+	리뷰/ncpa
+
+
+르네상스하버뷰
+	르네상스하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩(Renaissance
+	홍콩(Renaissance/ncn
+
+Harbour
+	Harbour/f
+
+View
+	View/f
+
+Hotel
+	Hotel/f
+
+Hong
+	Hong/f
+
+Kong)
+	Kong/f+)/sr
+
+
+Junior
+	Junior/f
+
+Suite,
+	Suite/f+,/sp
+
+1
+	1/nnc
+
+King
+	King/f
+
+
+겁나게
+	겁나/pvg+게/ecs
+
+좋은
+	좋/paa+은/etm
+
+호텔들이
+	호텔/ncn+들/ncn+이/jcc
+
+많은
+	많/paa+은/etm
+
+홍콩,,
+	홍콩,,/ncn
+
+하지만
+	하/pvg+지만/ecs
+
+그
+	그/mmd
+
+요금도
+	요금/ncn+도/jxc
+
+만만치않게
+	만만치않/ncn+게/jca
+
+비싼
+	비싸/paa+ㄴ/etm
+
+홍콩,,
+	홍콩/ncn+,/sp+,/sp
+
+
+민박들도
+	민박/ncn+들/ncn+도/jxc
+
+많아서
+	많/paa+아/ecx
+
+저렴하게
+	저렴/ncps+하/xsms+게/ecs
+
+여행하고싶다면
+	여행/ncpa+하/xsva+고/ecx+싶/px+다면/ecs
+
+민박을
+	민박/ncn+을/jco
+
+선택해도
+	선택/ncpa+하/xsva+어도/ecs
+
+되겠지만~
+	되/pvg+겠/ep+지만/ecs+~/sd
+
+혼자나
+	혼자/ncn+나/jcj
+
+친구랑
+	친구/ncn+랑/jxc
+
+가는
+	가/pvg+는/etm
+
+여행도
+	여행/ncpa+도/jxc
+
+아니고
+	아니/paa+고/ecc
+
+민박은
+	민박/ncn+은/jxc
+
+사실
+	사실/mag
+
+좀
+	좀/mag
+
+NG.
+	NG/f+./sf
+
+
+괜찮은호텔에
+	괜찮은호텔/ncn+에/jca
+
+묵되
+	묵/pvg+되/ecs
+
+가장
+	가장/mag
+
+저렴한
+	저렴/ncn+한/ncn
+
+객실
+	객실/ncn
+
+패키지를
+	패키지/ncn+를/jco
+
+예약하여
+	예약/ncpa+하/xsva+어/ecx
+
+객실
+	객실/ncn
+
+업그레이드를
+	업그레이드/ncn+를/jco
+
+노렸었는데요,
+	노리/pvg+었었/ep+는데/ef+요/jxf+,/sp
+
+결과는
+	결과/ncn+는/jxc
+
+꽤
+	꽤/mag
+
+만족스러웠었어요
+	만족/ncpa+스럽/xsmn+었었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+가든뷰
+	가든뷰/ncn
+
+게스트룸으로
+	게스트/ncn+룸/ncn+으로/jca
+
+예약해서
+	예약/ncpa+하/xsva+어서/ecs
+
+주니어스윗
+	주니어스윗/ncn
+
+하버뷰로까지
+	하버뷰로까지/ncn
+
+업그레이드
+	업그레이드/ncn
+
+했으니
+	하/px+었/ep+으니/ecs
+
+...
+	.../se
+
+
+킥킥-
+	킥킥/ncn+-/sd
+
+
+만족하지
+	만족/ncpa+하/xsva+지/ecx
+
+않는다면
+	않/px+는다면/ecs
+
+욕심쟁이~
+	욕심쟁이/ncn+~/sd
+
+!!
+	!/sf+!/sf
+
+
+자~
+	자/ii+~/sd
+
+그럼
+	그렇/pad+ㅁ/etn
+
+홍콩에서
+	홍콩/ncn+에서/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+첫번째
+	첫/nno+번/nbu+째/xsnu
+
+호텔
+	호텔/ncn
+
+르네상스
+	르네상스/ncn
+
+하버뷰
+	하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩
+	홍콩/ncn
+
+둘러보러
+	두르/pvg+어/ecx+보/px+러/ecs
+
+가볼까요
+	가/pvg+아/ecx+보/px+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+작은
+	작/paa+은/etm
+
+사진은
+	사진/ncn+은/jxc
+
+클릭하시면
+	클릭/ncpa+하시/ncn+이/jp+면/ecs
+
+크게
+	크/paa+게/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+르네상스
+	르네상스/ncn
+
+하버뷰
+	하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩
+	홍콩/ncn
+
+로비프론트
+	로비/ncn+프론트/ncn
+
+
+르네상스
+	르네상스/ncn
+
+하버뷰
+	하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩은
+	홍콩/ncn+은/jxc
+
+빅토리아
+	빅토리아/ncn
+
+하버에
+	하버/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+5성급
+	5성급/ncn
+
+호텔로,
+	호텔/ncn+로/jca+,/sp
+
+홍콩
+	홍콩/ncn
+
+컨벤션
+	컨벤션/ncn
+
+센터와
+	센터/ncn+와/jct
+
+인접하며
+	인접/ncps+하/xsms+며/ecc
+
+
+도보
+	도보/ncpa
+
+2분거리에
+	2분거리/ncn+에/jca
+
+침사추이로
+	침사추이/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+스타페리
+	스타/ncn+페리/ncn
+
+완차이
+	완차/ncn+이/jcc
+
+선착장이
+	선착장/ncn+이/jcc
+
+있고,
+	있/px+고/ecc+,/sp
+
+MTR
+	MTR/f
+
+완차이역
+	완차이역/ncn
+
+도보
+	도보/ncpa
+
+가능거리에
+	가능/ncn+거리/ncn+에/jca
+
+위치하고
+	위치/ncn+하고/jct
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+홍콩
+	홍콩/ncn
+
+공항에서는
+	공항/ncn+에서/jca+는/jxc
+
+AEL을
+	AEL/f+을/jco
+
+타고
+	타/pvg+고/ecc
+
+홍콩역까지
+	홍콩역/ncn+까지/jxc
+
+이동하면
+	이동/ncpa+하/xsva+면/ecs
+
+홍콩역에
+	홍콩역/ncn+에/jca
+
+무료
+	무료/ncn
+
+셔틀이
+	셔틀/ncn+이/jcc
+
+있구요,
+	있구요,/ncn
+
+공항에서
+	공항/ncn+에서/jca
+
+바로
+	바로/mag
+
+호텔까지
+	호텔/ncn+까지/jxc
+
+오는
+	오/px+는/etm
+
+리무진도
+	리무진/ncn+도/jxc
+
+있어
+	있/paa+어/ecs
+
+
+어디로
+	어디/npd+로/jca
+
+가든
+	가/px+든/ecs
+
+이동하기에
+	이동/ncn+하기/ncn+에/jca
+
+불편함이
+	불편함/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+호텔이예요
+	호텔/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+우리는
+	우리/npp+는/jxc
+
+갈아타고
+	갈/pvg+아/ecx+타/px+고/ecc
+
+어쩌고
+	어쩌/paa+어/ef+고/jcr
+
+하는게
+	하/pvg+는게/ecs
+
+귀찮아서
+	귀찮/paa+아/ecx
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+오래걸리더라도
+	오래걸리더라/ncn+도/jxc
+
+공항
+	공항/ncn
+
+내
+	내/npp
+
+한국여행사에서
+	한국여행사/ncn+에서/jca
+
+티켓
+	티켓/ncn
+
+구입
+	구입/ncpa
+
+.
+	./sf
+
+
+두당
+	두/nnc+당/xsnu
+
+130홍콩달러에
+	130홍콩달러/ncn+에/jca
+
+리무진을
+	리무진/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+르네상스
+	르네상스/ncn
+
+하버뷰
+	하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩
+	홍콩/ncn
+
+바로
+	바로/mag
+
+앞까지
+	앞/ncn+까지/jxc
+
+편하게
+	편하/paa+게/ecs
+
+이동했어요
+	이동/ncpa+하/xsva+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+도착한게
+	도착/ncpa+한/ncn+게/jca
+
+3시쯤이었나
+	3/nnc+시/nbu+쯤/xsnx+이/jp+었/ep+나/ef
+
+...?
+	.../se+?/sf
+
+
+체크인하는
+	체크/ncpa+인하/ncpa+는/jxc
+
+사람도
+	사람/ncn+도/jxc
+
+별로
+	별로/mag
+
+없고
+	없/paa+고/ecc
+
+프론트가
+	프론트/ncn+가/jcs
+
+텅텅~
+	텅텅~/ncn
+
+비어
+	비/paa+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+기다리지않고
+	기다리/pvg+지/ecx+않/px+고/ecc
+
+체크인을
+	체크인/ncn+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었어요
+	있/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+왜인지는
+	왜인지/ncn+는/jxc
+
+모르겠는데
+	모르/pvg+겠/ep+는데/ecs
+
+밤엔
+	밤/ncn+엔/jca
+
+늘
+	늘/pvg+ㄹ/etm
+
+로비가
+	로비/ncn+가/jcs
+
+북적북적;;
+	북적북적/ncn+;/sy+;/sy
+
+
+조금
+	조금/mag
+
+느리긴했지만
+	느리긴했지만/ncn
+
+직원은
+	직원/ncn+은/jxc
+
+친절했고,
+	친절/ncps+하/xsms+었/ep+고/ecc+,/sp
+
+플래티늄(호텔
+	플래티늄(호텔/ncn
+
+티어)
+	티/ncn+이/jp+어/ef+)/sr
+
+기프트를
+	기프트/ncn+를/jco
+
+선택하고
+	선택/ncpa+하고/jct
+
+객실로
+	객실/ncn+로/jca
+
+고고씽~
+	고고씽/ncn+~/sd
+
+
+예약한
+	예약/ncpa+하/xsva+ㄴ/etm
+
+객실은
+	객실/ncn+은/jxc
+
+일반
+	일반/ncn
+
+게스트룸(가든뷰),
+	게스트룸(가든뷰),/ncn
+
+배정받은
+	배정/ncpa+받/xsva+은/etm
+
+객실은
+	객실/ncn+은/jxc
+
+주니어스윗(하버뷰)
+	주니어스윗(하버뷰/ncn+)/sr
+
+
+낮보다
+	낮/ncn+보다/jca
+
+밤이
+	밤/ncn+이/jcc
+
+아름다운
+	아름답/paa+은/etm
+
+홍콩에서
+	홍콩/ncn+에서/jca
+
+좋은
+	좋/paa+은/etm
+
+전망은
+	전망/ncn+은/jxc
+
+필수라고
+	피/pvg+ㄹ/etm+수/nbn+이/jp+라/ef+고/jcr
+
+생각하는
+	생각/ncpa+하/xsva+는/etm
+
+1인
+	1/nnc+이/jp+ㄴ/etm
+
+.
+	./sf
+
+
+호텔
+	호텔/ncn
+
+예약을
+	예약/ncpa+을/jco
+
+마치고,
+	마치/pvg+고/ecc+,/sp
+
+호텔로
+	호텔/ncn+로/jca
+
+진심
+	진심/ncn
+
+?
+	?/sf
+
+
+을
+	을/ncn
+
+담은
+	달/paa+ㅁ/etn+은/jxc
+
+메일
+	메/ncn+이/jp+ㄹ/etm
+
+한통을
+	하/pvg+ㄴ/etm+통/nbn+을/jco
+
+보냈습니다
+	보내/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+우선
+	우선/mag
+
+메리어트
+	메리어트/ncn
+
+플랫
+	플랫/ncn
+
+멤버임을
+	멤버/ncn+이/jp+ㅁ/etn+을/jco
+
+밝히고~
+	밝히/pvg+고/ecc+~/sd
+
+
+이번
+	이/nnc+번/nbu
+
+여행에
+	여행/ncpa+에/jca
+
+생일인
+	생일/ncn+이/jp+ㄴ/etm
+
+동행자가
+	동행/ncpa+자/ncn+가/jcs
+
+있다~
+	있/px+다/ef+~/sd
+
+홍콩의
+	홍콩/ncn+의/jcm
+
+아름다운
+	아름답/paa+은/etm
+
+야경을
+	야경/ncn+을/jco
+
+생일
+	생일/ncn
+
+선물로
+	선물/ncn+로/jca
+
+주고싶은데
+	주/px+고/ecx+싶/px+은/etm+데/nbn
+
+가능하다면
+	가능/ncps+하/xsms+다면/ecs
+
+하버뷰룸으로
+	하버뷰룸/ncn+으로/jca
+
+줄
+	주/px+ㄹ/etm
+
+수
+	수/nbn
+
+있겠니
+	있/px+겠/ep+니/ef
+
+?
+	?/sf
+
+
+최대한
+	최대한/mag
+
+정중하면서
+	정중/ncps+하/xsms+면서/ecc
+
+부탁하는
+	부탁/ncpa+하/xsva+는/etm
+
+어조로
+	어조/ncn+로/jca
+
+...
+	.../se
+
+
+어쩌고
+	어쩌/paa+어/ef+고/jcr
+
+저쩌고
+	저쩌/ncn+이/jp+고/ecc
+
+기타등등
+	기타/ncn+등/ncn+등/xsnx
+
+블라
+	블라/ncn
+
+블라~~
+	블라/ncn+~/sd+~/sd
+
+
+그에
+	그/npp+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+답은
+	답/ncn+은/jxc
+
+그냥
+	그냥/mag
+
+뭐~
+	뭐/npd+~/sd
+
+'그래~
+	'/sl+그렇/pad+어/ecs+~/sd
+
+체크인
+	체크인/ncn
+
+할
+	하/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+룸이
+	룸/ncn+이/jcc
+
+가능하면
+	가능/ncps+하/xsms+면/ecs
+
+최대한~
+	최대/ncn+한/ncn+~/sd
+
+주는걸로
+	주는걸/ncn+로/jca
+
+할께~'라는
+	하/px+ㄹ께/ef+~/sd+'/sr+라는/jcm
+
+일반적인
+	일반/ncn+적/ncn+이/jp+ㄴ/etm
+
+대답이었지만
+	대답/ncpa+이/jp+었/ep+지만/ecs
+
+...
+	.../se
+
+
+여행
+	여행/ncpa
+
+가는
+	가/pvg+는/etm
+
+날
+	나/px+ㄹ/etm
+
+예약사항을
+	예약/ncpa+사항/ncn+을/jco
+
+조회해보니
+	조회/ncpa+하/xsva+어/ecx+보/px+니/ecs
+
+땡큐
+	땡큐/ii
+
+베리
+	베리/ncn
+
+감사하게도
+	감사/ncpa+하/xsva+게/ecs+도/jxc
+
+이미~
+	이미~/ncn
+
+주니어스윗으로
+	주니어스윗/ncn+으로/jca
+
+변경되어
+	변경/ncpa+되/xsvn+어/ecx
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+잇힝~
+	잇힝/ncn+~/sd
+
+
+르네상스
+	르네상스/ncn
+
+하버뷰
+	하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩
+	홍콩/ncn
+
+주니어스윗(1721호)
+	주니어스윗/ncn+(/sl+1721/nnc+호/nbu+)/sr
+
+
+두둥~
+	두둥~/ncn
+
+여기가
+	여기/npd+가/jcc
+
+바로
+	바로/mag
+
+제가
+	저/npp+가/jcs
+
+묵었던주니어스윗
+	묵었던주니어스윗/ncn
+
+1721호
+	1721/nnc+호/nbu
+
+.
+	./sf
+
+
+근데
+	근데/ncn
+
+홈페이지
+	홈페이지/ncn
+
+상에
+	상/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+주니어스윗이랑
+	주니어스윗이랑/ncn
+
+좀
+	좀/mag
+
+많이
+	많/paa+이/xsa
+
+다르더라구요
+	다르/paa+더라구/ef+요/jxf
+
+!?
+	!/sf+?/sf
+
+
+;;
+	;/sy+;/sy
+
+어찌된
+	어찌되/pvd+ㄴ/etm
+
+영문인지는
+	영문/ncn+이/jp+ㄴ지/ecs+는/jxc
+
+모르겠지만
+	모르/pvg+겠/ep+지만/ecs
+
+주니어스윗이라고
+	주니어스윗/ncn+이/jp+라/ef+고/jcr
+
+믿을래요;;
+	믿을래요/ncn+;/sy+;/sy
+
+
+호텔
+	호텔/ncn
+
+객실
+	객실/ncn
+
+설명을
+	설명/ncpa+을/jco
+
+보니
+	보/px+니/ecs
+
+여기가
+	여기/npd+가/jcc
+
+진짜
+	진짜/ncn
+
+주니어스윗이었나
+	주니어스윗/ncn+이/jp+었/ep+나/ef
+
+?
+	?/sf
+
+
+싶지만
+	싶/px+지만/ecs
+
+...
+	.../se
+
+
+그래도
+	그래도/maj
+
+일단
+	일/nnc+단/nbu
+
+믿는걸로~
+	믿는걸/ncn+로/jca+~/sd
+
+
+-
+	-/sd
+
+객실크기
+	객실/ncn+크기/ncn
+
+:
+	:/sp
+
+48sqm/516sqft-
+	48sqm/516sqft-/ncn
+
+전망
+	전망/ncn
+
+:
+	:/sp
+
+빅토리아
+	빅토리/ncn+아/jcv
+
+하버뷰
+	하버뷰/ncn
+
+
+-
+	-/sd
+
+침대
+	침대/ncn
+
+타입
+	타입/ncn
+
+:
+	:/sp
+
+1
+	1/nnc
+
+King
+	King/f
+
++
+	+/ncn
+
+1
+	1/nnc
+
+Rollaway
+	Rollaway/f
+
+bed
+	bed/f
+
+
+객실
+	객실/ncn
+
+비품은
+	비품/ncn+은/jxc
+
+보이는게
+	보이/pvg+는게/ecs
+
+전부~
+	전부/ncn+~/sd
+
+!!
+	!/sf+!/sf
+
+
+책상
+	책상/ncn
+
++
+	+/ncn
+
+의자,
+	의자/ncn+,/sp
+
+쇼파,
+	쇼파/ncn+,/sp
+
+작은
+	작/paa+은/etm
+
+테이블
+	테이블/ncn
+
+,
+	,/sp
+
+위성
+	위성/ncn
+
++
+	+/ncn
+
+프리미엄
+	프리미엄/ncn
+
+유료
+	유료/ncn
+
+영화
+	영화/ncn
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+TV,
+	TV/f+,/sp
+
+무선
+	무선/ncn
+
++
+	+/ncn
+
+유선
+	유/ncn+선/jxc
+
+인터넷(유료),
+	인터넷/ncn+(/sl+유료/ncn+)/sr+,/sp
+
+
+2인용
+	2인용/ncn
+
+쇼파,
+	쇼파/ncn+,/sp
+
+개인안전금고,
+	개인/ncn+안전/ncn+금고/ncn+,/sp
+
+전화,
+	전화/ncpa+,/sp
+
+스탠드
+	스탠드/ncn
+
+등등
+	등등/nbn
+
+특이한게
+	특이/ncn+한/ncn+게/jca
+
+있다면
+	있/px+다면/ecs
+
+멀티어댑터가
+	멀티/ncn+어댑터/ncn+가/jcs
+
+2개
+	2/nnc+개/nbu
+
+준비되어
+	준비/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+JW메리어트
+	JW메리어트/ncn
+
+홍콩에도
+	홍콩/ncn+에/jca+도/jxc
+
+있었던걸로
+	있었던걸/ncn+로/jca
+
+보아
+	보/pvg+아/ecx
+
+메리어트
+	메리어트/ncn
+
+계열
+	계열/ncn
+
+홍콩에서는
+	홍콩에서/ncn+는/jxc
+
+센스있게
+	센스/ncn+있/xsmn+게/ecs
+
+객실마다
+	객실/ncn+마다/jxc
+
+멀티어댑터를
+	멀티/ncn+어댑터/ncn+를/jco
+
+준비해두나
+	준비/ncpa+하/xsva+어/ecx+두/px+나/ecs
+
+봐요
+	보/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+당연히
+	당연히/mag
+
+!
+	!/sf
+
+
+클럽
+	클럽/ncn
+
+라운지
+	라운지/ncn
+
+엑세스가
+	엑세스/ncn+가/jcs
+
+가능합니다
+	가능/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+르네상스
+	르네상스/ncn
+
+하버뷰
+	하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩
+	홍콩/ncn
+
+주니어스윗
+	주니어스윗/ncn
+
+욕실(1721호)
+	욕/ncn+실/xsncc+(/sl+1721/nnc+호/nbu+)/sr
+
+
+여기는
+	여기/npd+는/jxc
+
+욕실인데
+	욕실/ncn+이/jp+ㄴ데/ecs
+
+...
+	.../se
+
+
+여기도
+	여기/npd+도/jxc
+
+홈페이지에
+	홈페이지/ncn+에/jca
+
+나와
+	나/npp+와/jct
+
+있는
+	있/px+는/etm
+
+주니어스윗의
+	주니어스윗/ncn+의/jcm
+
+그
+	그/mmd
+
+욕실이
+	욕실/ncn+이/jcc
+
+아닙니다
+	아니/paa+ㅂ니다/ef+./sf
+
+.
+	./sf
+
+
+뭔가
+	뭔가/ncn
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+안좋은것
+	안좋은것/ncn
+
+같지만
+	같/paa+지만/ecs
+
+...
+	.../se
+
+
+그래도
+	그래도/maj
+
+욕조도
+	욕조/ncn+도/jxc
+
+있구,
+	있구,/ncn
+
+샤워룸도
+	샤워/ncpa+룸/ncn+도/jxc
+
+따로
+	따로/mag
+
+있고~
+	있/px+고/ecc+~/sd
+
+괜찮았어요
+	괜찮/paa+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+뭐-
+	뭐/npd+-/sd
+
+제일
+	제/npp+이/jp+ㄹ/etm
+
+저렴한
+	저렴/ncn+한/ncn
+
+객실
+	객실/ncn
+
+예약해서
+	예약/ncpa+해서/ncn
+
+이정도
+	이/nnc+정/nbu+도/jxc
+
+업그레이드
+	업그레이드/ncn
+
+됐으면
+	되/pvg+었/ep+으면/ecs
+
+됐지
+	되/pvg+었/ep+지/ef
+
+!!
+	!/sf+!/sf
+
+
+뭐
+	뭐/npd
+
+!!
+	!/sf+!/sf
+
+
+이런
+	이런/mmd
+
+생각
+	생각/ncpa
+
+?
+	?/sf
+
+
+하하-
+	하하/ii+-/sd
+
+
+물은
+	물/ncn+은/jxc
+
+아낌없이
+	아낌없이/mag
+
+팍팍
+	팍팍/mag
+
+주는
+	주/px+는/etm
+
+편이구요,
+	편이구요,/ncn
+
+모자르면
+	모자/ncn+르/ncn+이/jp+면/ecs
+
+라운지에서
+	라운지/ncn+에서/jca
+
+가져다
+	가/pvg+아/ecx+지/px+어다/ecs
+
+마셔도
+	마시/pvg+어도/ecs
+
+아무말도
+	아무말/ncn+도/jxc
+
+안하더라구요
+	안하/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+외쿡인들은
+	외쿡인들/ncn+은/jxc
+
+맥주나
+	맥주/ncn+나/jcj
+
+음료
+	음료/ncn
+
+같은것도
+	같/paa+은/etm+것/nbn+도/jxc
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+나가더라는
+	나/pvg+아/ecx+가/px+더/ep+라/ef+는/etm
+
+...
+	.../se
+
+
+욕실
+	욕실/ncn
+
+어메니티는
+	어메니티/ncn+는/jxc
+
+르네상스
+	르네상스/ncn
+
+뭐시깽이였는데
+	뭐시깽이/ncn+이/jp+었/ep+는데/ecs
+
+기억이
+	기억/ncpa+이/jcc
+
+안난다는;;;
+	안난다는/ncn+;/sy+;/sy+;/sy
+
+
+르네상스
+	르네상스/ncn
+
+하버뷰
+	하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩
+	홍콩/ncn
+
+주니어스윗
+	주니어스윗/ncn
+
+미니바(1721호)
+	미니바/ncn+(/sl+1721/nnc+호/nbu+)/sr
+
+
+미니바는
+	미니/ncn+바/ncn+는/jxc
+
+특별할게
+	특별할게/ncn
+
+없습니돠~
+	없습니돠/ncn+~/sd
+
+
+멀티어댑터가
+	멀티/ncn+어댑터/ncn+가/jcs
+
+미니바
+	미니/ncn+바/ncn
+
+서랍에
+	서랍/ncn+에/jca
+
+들어있구요,
+	들어있구요,/ncn
+
+유료
+	유료/ncn
+
+음료들이
+	음료/ncn+들/ncn+이/jcc
+
+가득
+	가득/mag
+
+!
+	!/sf
+
+
+무료
+	무료/ncn
+
+차와
+	차/ncn+와/jcj
+
+커피
+	커피/ncn
+
+그리고
+	그리고/maj
+
+커피포트정도가
+	커피포트/ncn+정도/ncn+가/jcs
+
+구비되어
+	구비/ncpa+되/xsvn+어/ecx
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+르네상스
+	르네상스/ncn
+
+하버뷰
+	하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩
+	홍콩/ncn
+
+주니어스윗
+	주니어스윗/ncn
+
+전망(1721호)
+	전망/ncn+(/sl+1721/nnc+호/nbu+)/sr
+
+
+역시
+	역시/mag
+
+홍콩
+	홍콩/ncn
+
+호텔은
+	호텔/ncn+은/jxc
+
+전망
+	전망/ncn
+
+!
+	!/sf
+
+
+이라는
+	이르/paa+어/ef+는/etm
+
+생각을
+	생각/ncpa+을/jco
+
+고수하게
+	고수/ncpa+하/xsva+게/ecs
+
+만들었던
+	만들/pvg+었/ep+던/etm
+
+전망이예요
+	전망/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+개인적으로
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+기똥차게
+	기똥차/paa+게/ecs
+
+환상적인
+	환상/ncn+적/ncn+이/jp+ㄴ/etm
+
+야경은
+	야경/ncn+은/jxc
+
+구룡반도쪽
+	구룡반도쪽/ncn
+
+호텔이라는
+	호텔/ncn+이/jp+라/ef+는/etm
+
+생각은
+	생각/ncpa+은/jxc
+
+하지만
+	하/pvg+지만/ecs
+
+...
+	.../se
+
+
+그쪽은
+	그쪽/npd+은/jxc
+
+호텔이
+	호텔/ncn+이/jcc
+
+너무
+	너무/mag
+
+비싸서;;
+	비싸서/ncn+;/sy+;/sy
+
+
+홍콩섬에서
+	홍콩섬/ncn+에서/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+구룡반도도
+	구룡반도/ncn+도/jxc
+
+멋었더라구요
+	멋었더라구요/ncn
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+특히나
+	특히/mag+나/jxc
+
+쇼파쪽
+	쇼파/ncn+쪽/ncn
+
+간이침대에
+	간이침대/ncn+에/jca
+
+누워서
+	눕/pvg+어서/ecs
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+야경이
+	야경/ncn+이/jcc
+
+어찌나
+	어찌/mag+나/jxc
+
+좋은지
+	좋/paa+은/etm+지/nbn
+
+정말
+	정말/mag
+
+2박3일
+	2박3/ncn+이/jp+ㄹ/etm
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+너무
+	너무/mag
+
+행복했었어요
+	행복/ncps+하/xsms+었었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+객실에서
+	객실/ncn+에서/jca
+
+찍은
+	찍/pvg+은/etm
+
+야경이
+	야경/ncn+이/jcc
+
+없네요
+	없/paa+네/ef+요/jxf
+
+?
+	?/sf
+
+
+하하-
+	하하/ii+-/sd
+
+
+르네상스
+	르네상스/ncn
+
+하버뷰
+	하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩클럽
+	홍콩클럽/ncn
+
+라운지
+	라운지/ncn
+
+
+-
+	-/sd
+
+이용시간
+	이용시간/ncn
+
+:
+	:/sp
+
+오전
+	오전/ncn
+
+6시
+	6/nnc+시/nbu
+
+~
+	~/sd
+
+자정
+	자정/ncn
+
+-
+	-/sd
+
+무료
+	무료/ncn
+
+조식
+	조식/ncpa
+
+제공
+	제공/ncpa
+
+:
+	:/sp
+
+주중
+	주중/ncn
+
+오전
+	오전/ncn
+
+6시~
+	6/nnc+시/nbu+~/sd
+
+오전
+	오전/ncn
+
+10시,
+	10/nnc+시/nbu+,/sp
+
+주말
+	주말/ncn
+
+및
+	및/maj
+
+휴일
+	휴일/ncn
+
+오전
+	오전/ncn
+
+6시~
+	6/nnc+시/nbu+~/sd
+
+오전
+	오전/ncn
+
+11시
+	11/nnc+시/nbu
+
+-
+	-/sd
+
+애프터눈
+	애프터/ncn+눈/ncn
+
+티
+	트/pvg+어/ecx
+
+:
+	:/sp
+
+오후
+	오후/ncn
+
+3시
+	3/nnc+시/nbu
+
+~
+	~/sd
+
+5시-
+	5/nnc+시/nbu+-/sd
+
+이브닝
+	이브닝/ncn
+
+칵테일
+	칵테일/ncn
+
+:
+	:/sp
+
+오후
+	오후/ncn
+
+5시
+	5/nnc+시/nbu
+
+30분
+	30/nnc+분/nbu
+
+~
+	~/sd
+
+저녁
+	저녁/ncn
+
+7시
+	7/nnc+시/nbu
+
+30분-
+	30/nnc+분/nbu+-/sd
+
+클럽
+	클럽/ncn
+
+라운지
+	라운지/ncn
+
+내
+	내/npp
+
+무선인터넷
+	무선/ncn+인터넷/ncn
+
+무료,
+	무료/ncps+,/sp
+
+42층
+	42/nnc+층/nbu
+
+인터넷,
+	인터넷/ncn+,/sp
+
+프린트
+	프린트/ncpa
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+컴퓨터
+	컴퓨터/ncn
+
+
+8월의
+	8/nnc+월/nbu+의/jcm
+
+홍콩은
+	홍콩/ncn+은/jxc
+
+워낙
+	워낙/mag
+
+덥고
+	덥/paa+고/ecc
+
+습해서
+	습하/paa+어서/ecs
+
+조금
+	조금/mag
+
+돌아다니다
+	돌아다니/pvg+다/ef
+
+들어와서
+	들/pvg+어/ecx+오/px+아/ecx
+
+라운지에서
+	라운지/ncn+에서/jca
+
+쉬고,
+	쉬/pvg+고/ecc+,/sp
+
+조금
+	조금/mag
+
+돌아댕기다
+	돌아댕기다/ncn
+
+들어와서
+	들/pvg+어/ecx+오/px+아/ecx
+
+쉬고~
+	쉬/ncpa+고/jcj+~/sd
+
+
+아주
+	아주/mag
+
+깨알같이
+	깨알/ncn+같이/jca
+
+라운지를
+	라운지/ncn+를/jco
+
+이용해줬습니다
+	이용/ncpa+하/xsva+어/ecx+주/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+애프터눈
+	애프터/ncn+눈/ncn
+
+티
+	트/pvg+어/ecx
+
+타임의
+	타임/ncn+의/jcm
+
+디저트류들이
+	디저트류들/ncn+이/jcc
+
+훌륭해서
+	훌륭/ncps+하/xsms+어서/ecs
+
+다른
+	다르/paa+ㄴ/etm
+
+호텔에
+	호텔/ncn+에/jca
+
+가서
+	가/pvg+서/ecs
+
+애프터눈
+	애프터/ncn+눈/ncn
+
+티
+	트/pvg+어/ecx
+
+타임을
+	타임/ncn+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+필요가
+	필요/ncps+가/jcc
+
+없었구요,
+	없었구요/ncn+,/sp
+
+
+칵테일
+	칵테일/ncn
+
+타임에
+	타/ncn+이/jp+ㅁ/etn+에/jca
+
+샴페인
+	샴페인/ncn
+
+무한
+	무한/ncps
+
+흡입으로
+	흡입/ncpa+으로/jca
+
+밖에
+	밖/ncn+에/jca
+
+나가서
+	나가/pvg+아/ecx
+
+술
+	술/ncn
+
+마실
+	마시/pvg+ㄹ/etm
+
+일
+	일/nnc
+
+없었어요;;;
+	없었어요/ncn+;/sy+;/sy+;/sy
+
+
+르네상스
+	르네상스/ncn
+
+하버뷰
+	하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩
+	홍콩/ncn
+
+클럽
+	클럽/ncn
+
+라운지
+	라운지/ncn
+
+전망
+	전망/ncn
+
+
+특히나
+	특히/mag+나/jxc
+
+전망이
+	전망/ncn+이/jcc
+
+기똥차게
+	기똥차/paa+게/ecs
+
+좋았는데
+	좋/paa+아/ep+ㄴ데/ecs
+
+...
+	.../se
+
+
+역시나
+	역시/mag+나/jxc
+
+제대로
+	제대로/mag
+
+된
+	되/pvg+ㄴ/etm
+
+야경
+	야경/ncn
+
+사진은
+	사진/ncn+은/jxc
+
+없어요
+	없/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+밝은
+	밝/paa+은/etm
+
+곳에서
+	곳/ncn+에서/jca
+
+야경
+	야경/ncn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍으려면
+	찍/pvg+으려면/ecs
+
+빛을
+	빛/ncn+을/jco
+
+가려야해서;;;
+	가려야해서/ncn+;/sy+;/sy+;/sy
+
+
+밤에
+	밤/ncn+에/jca
+
+야경
+	야경/ncn
+
+찍어보겠다고
+	찍/pvg+어/ecx+보/px+겠/ep+다/ef+고/jcr
+
+찍은
+	찍/pvg+은/etm
+
+사진에는
+	사진/ncn+에/jca+는/jxc
+
+창밖의
+	창밖/ncn+의/jcm
+
+풍경보다
+	풍경/ncn+보다/jca
+
+실내
+	실내/ncn
+
+풍경이
+	풍경/ncn+이/jcc
+
+더
+	더/mag
+
+잘
+	잘/mag
+
+나와있더라구요
+	나오/pvg+아/ecx+있/px+더라구/ef+요/jxf
+
+?
+	?/sf
+
+
+하하-
+	하하/ii+-/sd
+
+
+암튼
+	암튼/ncn
+
+!!
+	!/sf+!/sf
+
+
+전망
+	전망/ncn
+
+아주
+	아주/mag
+
+훌륭합니다
+	훌륭/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+르네상스
+	르네상스/ncn
+
+하버뷰
+	하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩
+	홍콩/ncn
+
+Dynasty
+	Dynasty/f
+
+Restaurant
+	Restaurant/f
+
+
+더불어
+	더불/pvg+어/ecx
+
+객실패키지에
+	객실/ncn+패키지/ncn+에/jca
+
+포함
+	포함/ncpa
+
+된
+	되/pvg+ㄴ/etm
+
+다이닝
+	다이닝/ncn
+
+크레딧으로
+	크레딧/ncn+으로/jca
+
+미슐랭
+	미슐랭/ncn
+
+1스타라고
+	1스타/ncn+이/jp+라/ef+고/jcr
+
+하는
+	하/pvg+는/etm
+
+
+차이니즈요리를선보이는다이너스티
+	차이니즈요리를선보이는다이너스티/ncn
+
+레스토랑에서
+	레스토랑/ncn+에서/jca
+
+저녁식사를
+	저녁식사/ncpa+를/jco
+
+했었는데요,
+	하/pvg+었었/ep+는데요/ef+,/sp
+
+
+사람이
+	사람/ncn+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+내부
+	내부/ncn
+
+사진은
+	사진/ncn+은/jxc
+
+못
+	못/mag
+
+찍었구요,
+	찍었구요,/ncn
+
+상해
+	상하/pvg+어/ecx
+
+힐튼의
+	힐튼/ncn+의/jcm
+
+레스토랑
+	레스토랑/ncn
+
+사전보다
+	사전/ncn+보다/jca
+
+분위기는
+	분위기/ncn+는/jxc
+
+별로였던것
+	별/ncn+로/jca+이/jp+었/ep+던/etm+것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+더불어
+	더불/pvg+어/ecx
+
+예약을
+	예약/ncpa+을/jco
+
+안하고
+	안/ncn+하고/jct
+
+가서일까요
+	가서/ncpa+이/jp+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+창가자리는
+	창가/ncn+자리/ncn+는/jxc
+
+꿈도
+	꿈/ncn+도/jxc
+
+못꿨;;;;
+	못꿨/ncn+;/sy+;/sy+;/sy+;/sy
+
+
+요리류와
+	요리/ncn+류/xsncc+와/jcj
+
+밥과
+	밥/ncn+과/jcj
+
+면을
+	면/ncn+을/jco
+
+주문하려고
+	주문/ncpa+하/xsva+려고/ecs
+
+하니
+	하/pvg+니/ecs
+
+밥의
+	밥/ncn+의/jcm
+
+양이
+	양/ncn+이/jcc
+
+아주
+	아주/mag
+
+많다며
+	많/paa+다며/ecs
+
+조언도
+	조언/ncpa+도/jxc
+
+해주고~
+	하/pvg+어/ecx+주/px+고/ecc+~/sd
+
+
+친절하고,
+	친절/ncps+하고/jct+,/sp
+
+음식도
+	음식/ncn+도/jxc
+
+맛있었으나
+	맛있/paa+었/ep+으나/ecs
+
+어딘지
+	어딘지/ncn
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없게
+	없/paa+게/ecs
+
+뭔가
+	뭔가/ncn
+
+좀
+	좀/mag
+
+마음이
+	마음/ncn+이/jcc
+
+불편한
+	불편/ncn+한/ncn
+
+느낌
+	느끼/pvg+ㅁ/etn
+
+?
+	?/sf
+
+
+음식은
+	음식/ncn+은/jxc
+
+깔끔하니
+	깔끔/ncps+하/xsms+니/ecs
+
+좋았어요
+	좋/paa+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+꽤
+	꽤/mag
+
+괜찮은
+	괜찮/paa+은/etm
+
+수영장과
+	수영장/ncn+과/jcj
+
+휘트니스
+	휘트니스/ncn
+
+센터가
+	센터/ncn+가/jcs
+
+있는걸로
+	있는걸/ncn+로/jca
+
+안내
+	알/pvg+ㄴ/etm+내/nbn
+
+받았으나~
+	받/pvg+아/ep+나/ecs+~/sd
+
+이용을
+	이용/ncpa+을/jco
+
+안해봐서
+	안하/pvg+어/ecx+보/px+아/ecx
+
+통과
+	통/nbn+과/jct
+
+!
+	!/sf
+
+
+이상으로
+	이상/ncn+으로/jca
+
+르네상스
+	르네상스/ncn
+
+하버뷰
+	하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩
+	홍콩/ncn
+
+리뷰를
+	리뷰/ncpa+를/jco
+
+마치며
+	마치/ncn+이/jp+며/ecc
+
+
+다음편은
+	다음/ncn+편/ncn+은/jxc
+
+마카오
+	마카오/ncn
+
+콘래드
+	콘래드/ncn
+
+호텔
+	호텔/ncn
+
+리뷰입니다
+	리뷰/ncpa+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+To
+	To/f
+
+be
+	be/f
+
+continued
+	continued/f
+
+
+르네상스
+	르네상스/ncn
+
+하버뷰
+	하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩(Renaissance
+	홍콩(Renaissance/ncn
+
+Hong
+	Hong/f
+
+Kong
+	Kong/f
+
+Harbour
+	Harbour/f
+
+View
+	View/f
+
+Hotel)
+	Hotel/f+)/sr
+
+
+주소
+	주소/ncn
+
+:
+	:/sp
+
+1
+	1/nnc
+
+Harbour
+	Harbour/f
+
+Road,
+	Road/f+,/sp
+
+Wanchai
+	Wanchai/f
+
+Hong
+	Hong/f
+
+Kong,
+	Kong/f+,/sp
+
+China
+	China/f
+
+TEL
+	TEL/f
+
+:
+	:/sp
+
+(852)
+	(/sl+852/nnc+)/sr
+
+2803
+	2803/nnc
+
+8888홈페이지
+	8888홈페이지/ncn
+
+:
+	:/sp
+
+르네상스
+	르네상스/ncn
+
+하버뷰
+	하버뷰/ncn
+
+호텔
+	호텔/ncn
+
+홍콩
+	홍콩/ncn
+
+홈페이지
+	홈페이지/ncn
+
+바로가기가는
+	바로가기가/ncn+는/jxc
+
+방법
+	방법/ncn
+
+:홈페이지
+	:/sp+홈페이지/ncn
+
+상세설명
+	상세/ncn+설명/ncpa
+
+바로가기
+	바로가/ncn+이/jp+기/etn

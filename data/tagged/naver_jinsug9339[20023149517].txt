@@ -1,0 +1,77 @@
+괴산
+	괴산/ncn
+
+원풍리
+	원풍리/ncn
+
+마애석불
+	마애/ncn+석불/ncn
+
+좌상
+	좌상/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+
+이곳은
+	이곳/npd+은/jxc
+
+허공이며
+	허공/ncn+이/jp+며/ecc
+
+제자님들이
+	제자/ncn+님/ncn+들/xsncc+이/jcc
+
+많이
+	많/paa+이/xsa
+
+찾아가는
+	찾/pvg+아/ecx+가/px+는/etm
+
+곳이고~~
+	곳/nbu+이고/jcj+~/sd+~/sd
+
+
+무구
+	무구/ncps
+
+사용
+	사용/ncpa
+
+가능하며
+	가능/ncps+하/xsms+며/ecc
+
+작은
+	작/paa+은/etm
+
+일도
+	일/ncn+도/jxc
+
+할수
+	하/pvg+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+깨끗이
+	깨끗/ncps+이/jcc
+
+청소를
+	청소/ncpa+를/jco
+
+해야한다
+	하/pvg+어야/ecx+하/px+ㄴ다/ef
+
+.
+	./sf

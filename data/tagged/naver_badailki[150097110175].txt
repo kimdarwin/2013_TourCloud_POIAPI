@@ -1,0 +1,253 @@
+[참고]
+	[/sl+참/pvg+고/ecc+]/sr
+
+낙동강사업
+	낙동강사업/ncn
+
+비산먼지
+	비산먼지/ncn
+
+발생
+	발생/ncpa
+
+최소화
+	최소화/ncn
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+
+부산지방국토관리청은
+	부산/ncps+지방국토관리청/ncn+은/jxc
+
+낙동강사업에
+	낙동강사업/ncn+에/jca
+
+따른
+	따르/pvg+ㄴ/etm
+
+국민피해
+	국민/ncn+피해/ncpa
+
+최소화를
+	최소화/ncn+를/jco
+
+위하여,
+	위하여/ncn+,/sp
+
+
+사업현장과
+	사업/ncn+현장/ncn+과/jcj
+
+준설토
+	준설/ncn+토/ncn
+
+운반로에
+	운반로/ncn+에/jca
+
+살수차와
+	살수차/ncn+와/jcj
+
+세륜시설을
+	세륜시설/ncn+을/jco
+
+
+골재적치장에는
+	골재적치장/ncn+에/jca+는/jxc
+
+비산먼지
+	비산먼지/ncn
+
+방지덮개를
+	방지/ncpa+덮개/ncn+를/jco
+
+설치
+	설치/ncpa
+
+운영하고
+	운영/ncpa+하고/jct
+
+있음
+	있/px+음/etn
+
+낙동강권역의
+	낙동강권역/ncn+의/jcm
+
+평소
+	평소/ncn
+
+일최대
+	일최대/ncn
+
+풍속이
+	풍속/ncn+이/jcc
+
+7m/sec
+	7m/sec/ncn
+
+정도이나,
+	정도/ncn+이나/jcj+,/sp
+
+
+최근
+	최근/mag
+
+2일간(11.
+	2/nnc+일/nbu+간/xsnu+(/sl+11./nnc
+
+8
+	8/nnc
+
+9일)
+	9/nnc+일/nbu+)/sr
+
+일최대
+	일최대/ncn
+
+풍속은
+	풍속/ncn+은/jxc
+
+20m/sec에
+	20m/sec/ncn+에/jca
+
+달하고
+	달/nbu+하고/jct
+
+있음(태풍기준
+	있/px+음/etn+(/sl+태풍/ncn+기준/ncpa
+
+17m/sec)
+	17m/sec)/ncn
+
+건조기시(가을
+	건조기시(가/ncn+이/jp+ㄹ/etm
+
+겨울철)
+	겨울철/ncn+)/sr
+
+비산먼지
+	비산먼지/ncn
+
+발생을
+	발생/ncpa+을/jco
+
+최대한
+	최대한/mag
+
+억제하기
+	억제/ncpa+하/xsva+기/etn
+
+위하여
+	위하여/ncn
+
+
+앞으로
+	앞/ncn+으로/jca
+
+살수차와
+	살수차/ncn+와/jcj
+
+세륜시설을
+	세륜시설/ncn+을/jco
+
+추가로
+	추가/ncpa+로/jca
+
+배치
+	배치/ncpa
+
+운영할
+	운영/ncpa+하/xsva+ㄹ/etm
+
+계획임
+	계획/ncpa+이/jp+ㅁ/etn
+
+보도내용
+	보도내용/ncn
+
+-
+	-/sd
+
+MBC
+	MBC/f
+
+9시뉴스(
+	9시뉴스(/ncn
+
+10.
+	10./nnc
+
+11.
+	11./nnc
+
+09)
+	09/nnc+)/sr
+
+
+-
+	-/sd
+
+사하라
+	사/pvg+아/ecx+하/px+라/ecs
+
+된
+	되/pvg+ㄴ/etm
+
+4대강
+	4대강/ncn
+
+낙동강
+	낙동강/ncn
+
+구간
+	구간/ncn
+
+황사보다
+	황사/ncn+보다/jca
+
+더해
+	더하/paa+어/ecs
+
+
+4대강살리기
+	4대강살리/ncn+이/jp+기/etn
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+4rivers.
+	4rivers./ncn
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+mltm.
+	mltm/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp

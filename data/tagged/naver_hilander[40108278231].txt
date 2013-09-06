@@ -1,0 +1,1156 @@
+뮤지컬
+	뮤지컬/ncn
+
+점프
+	점프/ncn
+
+(JUMP)
+	(/sl+JUMP/f+)/sr
+
+
+2006년
+	2006/nnc+년/nbu
+
+웨스트엔드
+	웨스트/ncn+엔드/ncn
+
+픽콕
+	픽콕/ncn
+
+전회
+	전회/ncn
+
+매진기록
+	매진/ncpa+기록/ncpa
+
+
+2006년
+	2006/nnc+년/nbu
+
+에딘버러
+	에딘버러/ncn
+
+프린지
+	프린지/ncn
+
+페스티벌
+	페스티벌/ncn
+
+2005-2006
+	2005/nnc+-2006/nnc
+
+판매순위
+	판매순위/ncn
+
+1위
+	1/nnc+위/nbu
+
+..
+	./sf+./sf
+
+
+2007년
+	2007/nnc+년/nbu
+
+영국,
+	영국,/ncn
+
+미국,
+	미국,/ncn
+
+아시아
+	아시아/ncn
+
+월드투어
+	월드/ncn+투어/ncn
+
+
+2007년
+	2007/nnc+년/nbu
+
+10월
+	10/nnc+월/nbu
+
+미국
+	미국/ncn
+
+뉴욕
+	뉴욕/ncn
+
+점프
+	점프/ncn
+
+전용극장
+	전용극장/ncn
+
+오픈
+	오픈/ncpa
+
+
+등등
+	등등/nbn
+
+..
+	./sf+./sf
+
+
+국내외에서
+	국내외/ncn+에서/jca
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+이력을
+	이력/ncn+을/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+뮤지컬
+	뮤지컬/ncn
+
+점프를
+	점프/ncn+를/jco
+
+이제서야
+	이제/mag+서야/jxc
+
+관람하게
+	관람/ncpa+하/xsva+게/ecs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+게다가
+	게다가/maj
+
+점프는
+	점프/ncn+는/jxc
+
+난타
+	난타/ncpa
+
+처럼
+	처럼/ncn
+
+대한민국에서
+	대한/ncn+민국/ncn+에서/jca
+
+만든창작물이기
+	만든창작물/ncn+이/jp+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+더
+	더/mag
+
+관심이
+	관심/ncn+이/jcc
+
+갔다
+	가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+종로
+	종/ncn+로/jca
+
+2가에
+	2가/ncn+에/jca
+
+점프
+	점프/ncn
+
+전용
+	전용/ncpa
+
+극장이있고
+	극장/ncn+이/ncn+있/xsmn+고/ecc
+
+2008년에
+	2008/nnc+년/nbu+에/jca
+
+부산에도점프
+	부산에도점프/ncn
+
+전용관이
+	전용/ncpa+관/ncn+이/jcc
+
+들어섰다
+	들어서/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+점프는
+	점프/ncn+는/jxc
+
+코믹
+	코믹/ncn
+
+마샬
+	마샬/ncn
+
+퍼포먼스
+	퍼포먼스/ncn
+
+뮤지컬이다
+	뮤지컬/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+게다가
+	게다가/maj
+
+넌버벌(non-verbal)
+	넌버벌(non-verbal)/ncn
+
+이라는
+	이르/paa+어/ef+는/etm
+
+수식어도
+	수식어/ncn+도/jxc
+
+붙는다
+	붙/pvg+는다/ef
+
+.
+	./sf
+
+
+일단
+	일단/mag
+
+넌버벌이라는
+	넌버벌/ncn+이/jp+라/ef+는/etm
+
+의미는
+	의미/ncpa+는/jxc
+
+글자
+	글자/ncn
+
+그대로
+	그대로/mag
+
+대사
+	대사/ncn
+
+없이
+	없이/mag
+
+진행이
+	진행/ncpa+이/jcc
+
+된다는
+	되/pvg+ㄴ다/ef+는/etm
+
+의미
+	의미/ncpa
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+국적과
+	국적/ncn+과/jcj
+
+나이에
+	나이/ncn+에/jca
+
+상관없이
+	상관없이/mag
+
+보고
+	보/px+고/ecc
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+(가끔씩
+	(/sl+가끔씩/mag
+
+우리말로
+	우리말/ncn+로/jca
+
+애드립을
+	애드립/ncn+을/jco
+
+하긴
+	하긴/mag
+
+하지만
+	하/pvg+지만/ecs
+
+대사를
+	대사/ncn+를/jco
+
+무시해도
+	무시/ncpa+하/xsva+어도/ecs
+
+보는데
+	보/px+ㄴ데/ecs
+
+전혀
+	전혀/mag
+
+지장이
+	지장/ncn+이/jcc
+
+없다
+	없/paa+다/ef
+
+.)
+	./sf+)/sr
+
+
+그래서
+	그래서/maj
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+관람객들
+	관람객/ncn+들/ncn
+
+중
+	중/nbn
+
+상당수가외국인들이었고
+	상당/ncn+수가/ncn+외국/ncn+이/jp+ㄴ/etm+들/nbn+이/jp+었/ep+고/ecc
+
+국내
+	국내/ncn
+
+관객들은
+	관객/ncn+들/ncn+은/jxc
+
+대부분
+	대부분/ncn
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+많았다
+	많/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+국적을
+	국적/ncn+을/jco
+
+초월하고,
+	초월/ncpa+하고/jct+,/sp
+
+나이를
+	나이/ncn+를/jco
+
+초월하는걸로
+	초월하는걸/ncn+로/jca
+
+봐서는
+	보/px+아/ecs
+
+누가
+	누구/npp+가/jcs
+
+봐도
+	보/px+아/ecs
+
+재미있는내용일거라는
+	재미있는내용/ncn+이/jp+ㄹ/etm+것/nbn+이/jp+라/ef+는/etm
+
+기대를
+	기대/ncpa+를/jco
+
+가지게
+	가/pvg+아/ecx+지/px+게/ecs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+(영화관에서는
+	(/sl+영화관/ncn+에서/jca+는/jxc
+
+그렇게
+	그렇/pad+게/ecs
+
+산만하던
+	산만/ncps+하/xsms+던/etm
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+점프
+	점프/ncn
+
+공연장에서는
+	공연장/ncn+에서/jca+는/jxc
+
+어찌나
+	어찌/mag+나/jxc
+
+조용하게
+	조용/ncps+하/xsms+게/ecs
+
+몰입을
+	몰입/ncpa+을/jco
+
+하는지
+	하/pvg+는지/ecs
+
+..
+	./sf+./sf
+
+
+아무래도
+	아무렇/pad+어도/ecs
+
+놀래서
+	놀래/pvg+어서/ecs
+
+입을
+	입/ncn+을/jco
+
+헤~
+	헤/pvg+어/ecs+~/sd
+
+벌리고
+	벌/pvg+ㄹ/etm+리/nbn+이/jp+고/ecc
+
+봐서
+	보/pvg+아/ecx
+
+그런가
+	그러/pvd+ㄴ가/ef
+
+..
+	./sf+./sf
+
+
+^^)
+	^/sy+^/sy+)/sr
+
+
+점프는
+	점프/ncn+는/jxc
+
+한국의
+	한국의/ncn
+
+전통
+	전통/ncn
+
+무예인
+	무예/ncn+이/jp+ㄴ/etm
+
+태권도와
+	태권도/ncn+와/jcj
+
+태껸을
+	태껸/ncn+을/jco
+
+중심으로한
+	중심/ncn+으로한/jca
+
+동양무술에
+	동양/ncn+무술/ncn+에/jca
+
+
+신체의
+	신체/ncn+의/jcm
+
+아름다움을
+	아름다움/ncn+을/jco
+
+극대화
+	극대화/ncpa
+
+한
+	한/nnc
+
+고난이도의
+	고난/ncn+이도/ncn+의/jcm
+
+아크로바틱
+	아크로바틱/ncn
+
+퍼포먼스로
+	퍼포먼스/ncn+로/jca
+
+공연이
+	공연/ncps+이/jcc
+
+이루어진다
+	이루/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+게다가
+	게다가/maj
+
+코믹적인
+	코믹/ncn+적/ncn+이/jp+ㄴ/etm
+
+요소를
+	요소/ncn+를/jco
+
+혼합하여
+	혼합/ncpa+하/xsva+어/ecx
+
+화려하면서도
+	화/ncn+이/jp+리/ep+어/ecx+하/px+면서/ecs+도/jxc
+
+흥미로운
+	흥미/ncn+로운/ncn
+
+마샬아츠(Martial
+	마샬아츠(Martial/ncn
+
+arts)를
+	arts/f+)/sr+를/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+^^
+	^/sy+^/sy
+
+
+배우
+	배우/ncn
+
+한명
+	한/nnc+명/nbu
+
+한명이
+	한/nnc+명/nbu+이/jcc
+
+고난이도
+	고난/ncn+이/jcs+도/jxc
+
+아크로바틱
+	아크로바틱/ncn
+
+무술을
+	무술/ncn+을/jco
+
+보여주는데
+	보이/pvg+어/ecx+주/px+ㄴ데/ecs
+
+계속
+	계속/mag
+
+탄성만
+	탄성/ncn+만/jxc
+
+..
+	./sf+./sf
+
+
+남자배우들
+	남자/ncn+배우/ncn+들/ncn
+
+..
+	./sf+./sf
+
+
+잔근육의
+	잔근육/ncn+의/jcm
+
+탄탄한
+	탄탄/ncps+하/xsms+ㄴ/etm
+
+몸매에
+	몸매/ncn+에/jca
+
+복근까지
+	복근/ncn+까지/jxc
+
+..
+	./sf+./sf
+
+
+몸이
+	몸/ncn+이/jcc
+
+완전
+	완전/ncps
+
+예술
+	예술/ncn
+
+..
+	./sf+./sf
+
+
+몸을
+	몸/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+그들의
+	그/npp+들/xsn+의/jcm
+
+연습량을
+	연습량/ncn+을/jco
+
+짐작
+	짐작/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+퍼포먼스만
+	퍼포먼스/ncn+만/jxc
+
+보여주는게
+	보이/pvg+어/ecx+주/px+는게/ecs
+
+아니라
+	아니/paa+라/ecs
+
+스토리가
+	스토리/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+공연이다
+	공연/ncps+이/jp+다/ef
+
+.
+	./sf
+
+
+할아버지
+	할아버지/ncn
+
+아빠
+	아빠/ncn
+
+엄마
+	엄마/ncn
+
+삼촌
+	삼촌/ncn
+
+딸
+	따/pvg+ㄹ/etm
+
+등등
+	등등/nbn
+
+으로
+	으/ncn+로/jca
+
+이루어진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+무술가족이라는
+	무술/ncn+가족/ncn+이/jp+라/ef+는/etm
+
+컨셉에
+	컨셉/ncn+에/jca
+
+손님이나
+	손님/ncn+이나/jcj
+
+도둑
+	도둑/ncn
+
+등의
+	등/nbu+의/jcm
+
+캐릭터를
+	캐릭터/ncn+를/jco
+
+투입해
+	투입/ncpa+해/ncn
+
+
+퍼포먼스와
+	퍼포먼스/ncn+와/jcj
+
+스토리
+	스토리/ncn
+
+그리고
+	그리고/maj
+
+코믹적
+	코믹/ncn+적/ncn
+
+요소를
+	요소/ncn+를/jco
+
+잘
+	잘/mag
+
+배합했다
+	배합/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+게다가
+	게다가/maj
+
+관객을
+	관객/ncn+을/jco
+
+무대로
+	무대/ncn+로/jca
+
+불러내어
+	부르/pvg+어/ecx+내/px+어/ecx
+
+벌이는
+	벌/nbu+이/jp+는/etm
+
+이벤트도있어
+	이벤트/ncn+도/ncn+있/xsmn+어/ecx
+
+재미있었다
+	재미있/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+웃으면서
+	웃/pvg+으면서/ecc
+
+감탄하고
+	감탄/ncpa+하고/jct
+
+박수치고
+	박수/ncpa+치/ncn+이/jp+고/ecc
+
+즐기다
+	즐기/pvg+다/ef
+
+보니
+	보/px+니/ecs
+
+어느새
+	어느새/mag
+
+공연이
+	공연/ncps+이/jcc
+
+짧게
+	짧/paa+게/ecs
+
+느껴졌다~
+	느끼/pvg+어/ecx+지/px+었/ep+다/ef+~/sd
+
+^^
+	^/sy+^/sy
+
+
+그날그날의
+	그날/ncn+그날/ncn+의/jcm
+
+출연진들을
+	출연진/ncn+들/ncn+을/jco
+
+따로
+	따로/mag
+
+표시해
+	표시/ncn+해/ncn
+
+준다
+	주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+몸을
+	몸/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+써서
+	쓰/pvg+어서/ecs
+
+체력소모가
+	체력소모/ncpa+가/jcc
+
+많은
+	많/paa+은/etm
+
+공연이라
+	공연/ncps+이/jp+라/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+같은
+	같/paa+은/etm
+
+배역에
+	배역/ncpa+에/jca
+
+더블캐스팅이
+	더블/ncn+캐스팅/ncn+이/jcc
+
+상당히
+	상당히/mag
+
+많았다
+	많/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+기억에
+	기억/nnc+에/jca
+
+남는
+	남/pvg+는/etm
+
+캐릭터
+	캐릭터/ncn
+
+몇몇만
+	몇/nnc+몇/nnc+만/jxc
+
+보자면~
+	보/nbu+이/jp+자면/ecs+~/sd
+
+
+날렵한
+	날렵/ncps+하/xsms+ㄴ/etm
+
+할아버지~
+	할아버지/ncn+~/sd
+
+
+안경을
+	안경/ncn+을/jco
+
+벗으면
+	벗/pvg+으면/ecs
+
+대단한
+	대/nbu+이/jp+단/etm+한/nbn
+
+퍼포먼스를
+	퍼포먼스/ncn+를/jco
+
+보여주던
+	보이/pvg+어/ecx+주/px+던/etm
+
+..
+	./sf+./sf
+
+
+마지막에
+	마지막/ncn+에/jca
+
+벽을
+	벽/ncn+을/jco
+
+차고
+	차/ncn+이/jp+고/ecc
+
+올라갈때는완전
+	올라갈때는완전/ncn
+
+충격
+	충격/ncn
+
+..
+	./sf+./sf
+
+
+노인역할의
+	노인/ncn+역할/ncn+의/jcm
+
+이분
+	이/nnc+분/nbu
+
+..
+	./sf+./sf
+
+
+극과
+	극/ncn+과/jcj
+
+극
+	극/ncn
+
+사이의
+	사이/ncn+의/jcm
+
+감초역할을
+	감초/ncn+역할/ncn+을/jco
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+어찌나
+	어찌/mag+나/jxc
+
+재미있던지
+	재미있/pvg+더/ep+ㄴ지/ecs
+
+^^
+	^/sy+^/sy
+
+
+시종일관
+	시종일관/mag
+
+고난도의
+	고난도/ncn+의/jcm
+
+동작들을
+	동작/ncpa+들/ncn+을/jco
+
+보여준다
+	보이/pvg+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+쉴새없이
+	쉴새없이/mag
+
+날라다니는
+	날라다니/ncn+는/jxc
+
+배우들
+	배우/ncn+들/ncn
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+인상적인
+	인상/ncn+적/ncn+이/jp+ㄴ/etm
+
+캐릭터
+	캐릭터/ncn
+
+중
+	중/nbn
+
+한분인
+	한/nnc+분/nbu+이/jp+ㄴ/etm
+
+노인
+	노인/ncn
+
+..
+	./sf+./sf
+
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+특히나
+	특히/mag+나/jxc
+
+좋아하던
+	좋/paa+아/ecx+하/px+던/etm
+
+캐릭터였다~
+	캐릭터/ncn+이/jp+었/ep+다/ef+~/sd
+
+
+공연명
+	공연명/ncn
+
+:
+	:/sp
+
+뮤지컬
+	뮤지컬/ncn
+
+점프
+	점프/ncn
+
+
+장소
+	장소/ncn
+
+:
+	:/sp
+
+IBK
+	IBK/f
+
+점프
+	점프/ncn
+
+서울
+	서울/ncn
+
+전용극장
+	전용극장/ncn
+
+B2
+	B2/ncn
+
+
+기간
+	기간/ncn
+
+:
+	:/sp
+
+2009년
+	2009/nnc+년/nbu
+
+1월
+	1/nnc+월/nbu
+
+1일
+	1/nnc+일/nbu
+
+~
+	~/sd
+
+오픈런
+	오픈/ncpa+런/ncn
+
+
+시간
+	시간/nbu
+
+:
+	:/sp
+
+월요일
+	월요일/ncn
+
+오후
+	오후/ncn
+
+8시/
+	8/nnc+시/nbu+//sp
+
+화~금
+	화/ncn+~/sd+금/ncn
+
+오후
+	오후/ncn
+
+4시,
+	4/nnc+시/nbu+,/sp
+
+오후
+	오후/ncn
+
+8시
+	8/nnc+시/nbu
+
+/
+	//sp
+
+토요일
+	토요일/ncn
+
+오후
+	오후/ncn
+
+1시,
+	1/nnc+시/nbu+,/sp
+
+오후
+	오후/ncn
+
+4시,
+	4/nnc+시/nbu+,/sp
+
+오후
+	오후/ncn
+
+8시/일,
+	8/nnc+시/nbu+//sp+일/nnc+,/sp
+
+공휴일
+	공휴일/ncn
+
+오후
+	오후/ncn
+
+3시,
+	3/nnc+시/nbu+,/sp
+
+오후
+	오후/ncn
+
+6시
+	6/nnc+시/nbu

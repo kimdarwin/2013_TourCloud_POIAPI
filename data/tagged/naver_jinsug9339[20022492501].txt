@@ -1,0 +1,236 @@
+감악산
+	감악산/ncn
+
+벼락바위
+	벼락/ncn+바위/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+
+(위)-고생스럽게
+	(/sl+위/ncn+)/sr+-/sd+고생/ncpa+스럽/xsmn+게/ecs
+
+올라갔다
+	오르/pvg+아/ecx+가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+별천지~~~
+	별천지/ncn+~/sd+~/sd+~/sd
+
+
+(위)-이곳
+	(/sl+위/ncn+)/sr+-/sd+이곳/npd
+
+절벽은
+	절벽/ncn+은/jxc
+
+발이
+	발/ncn+이/jcc
+
+저릴정도로
+	저릴정도/ncn+로/jca
+
+아슬아슬하다
+	아슬아슬하/paa+다/ef
+
+.
+	./sf
+
+
+(위)-산신각은
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+각/ncn+은/jxc
+
+넓고
+	넓/paa+고/ecc
+
+시원하다
+	시원/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+(위)-산신각
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+각/ncn
+
+위에있는허공
+	위에있는허공/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+.
+	./sf
+
+
+(위)-
+	(/sl+위/ncn+)/sr+-/sd
+
+용궁
+	용궁/ncn
+
+
+이곳은
+	이곳/npd+은/jxc
+
+용궁도
+	용궁/ncn+도/jxc
+
+대단하다
+	대단/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+감악산
+	감악산/ncn
+
+정상부근
+	정상/ncn+부근/ncn
+
+세군데서
+	세군데/ncn+서/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+용궁중에
+	용궁/ncn+중/ncn+에/jca
+
+한곳이란다
+	한곳이란다/ncn
+
+.
+	./sf
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+이곳을
+	이곳/npd+을/jco
+
+가보고
+	가/pvg+아/ecx+보/px+고/ecc
+
+느낀것은
+	느끼/pvg+ㄴ/etm+것/nbn+은/jxc
+
+이런곳에도
+	이런곳/ncn+에/jca+도/jxc
+
+사람이
+	사람/ncn+이/jcc
+
+기거하며
+	기거/ncpa+하/xsva+며/ecc
+
+생활할수
+	생활/ncpa+하/xsva+ㄹ/etm+수/nbn
+
+있구나
+	있/px+구나/ef
+
+...
+	.../se
+
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+보는
+	보/px+는/etm
+
+청정한곳이다
+	청정/ncpa+한곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그곳에서
+	그곳/ncn+에서/jca
+
+도량을
+	도량/ncn+을/jco
+
+일구고
+	일구/pvg+고/ecc
+
+기도하시는
+	기도/ncn+하시/ncn+는/jxc
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+밖으로
+	밖/ncn+으로/jca
+
+알려
+	알리/pvg+어/ecx
+
+지는것을
+	지/px+는/etm+것/nbn+을/jco
+
+원하지
+	원하/pvg+지/ecx
+
+않는다
+	않/px+는다/ef
+
+.
+	./sf
+
+
+여러번
+	여러/nnc+번/nbu
+
+부탁을
+	부탁/ncpa+을/jco
+
+하신다
+	하/px+시/ep+ㄴ다/ef
+
+조용하게
+	조용/ncps+하/xsms+게/ecs
+
+기도할수있게
+	기도/ncpa+하/xsva+ㄹ/etm+수/nbn+있/xsmn+게/ecs
+
+해달라고
+	해달라/ncn+이/jp+고/ecc
+
+.
+	./sf
+
+
+그분들
+	그분들/npp
+
+부듸
+	부듸/ncn
+
+좋은결과
+	좋은결/ncn+과/jcj
+
+있기를
+	있/px+기/etn+를/jco
+
+바랍니다
+	바라/pvg+ㅂ니다/ef
+
+.
+	./sf

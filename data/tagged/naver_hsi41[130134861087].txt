@@ -1,0 +1,5107 @@
+출처
+	출처/ncn
+
+www.
+	www/f+./sy
+
+이여사네
+	이여사네/ncn
+
+.
+	./sf
+
+
+com|이여사네
+	com|이/ncn+여사/ncr+네/jcm
+
+
+아파트
+	아파트/ncn
+
+'평수'
+	'평수'/ncn
+
+계산법
+	계산법/ncn
+
+
+평수
+	평수/ncn
+
+계산법
+	계산법/ncn
+
+
+1
+	1/nnc
+
+=0.
+	=/sy+0./nnc
+
+3025평
+	3025/nnc+평/nbu
+
+/
+	//sp
+
+1평=3.
+	1평=3./ncn
+
+305
+	305/nnc
+
+
+1.
+	1./nnc
+
+평수
+	평수/ncn
+
+
+x0.
+	x0./ncn
+
+3025
+	3025/nnc
+
+=
+	=/sy
+
+평수
+	평수/ncn
+
+
+예)
+	예/ii+)/sr
+
+85
+	85/nnc
+
+는
+	늘/pvg+ㄴ/etm
+
+85x0.
+	85x0./ncn
+
+3025=25.
+	3025=25./ncn
+
+7평이다
+	7/nnc+평/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+평수가
+	평수/ncn+가/jcs
+
+국민주택
+	국민주택/ncn
+
+규모
+	규모/ncn
+
+전용면적
+	전용/ncpa+면적/ncn
+
+기준
+	기준/ncpa
+
+평수이다
+	평수/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그러면
+	그러면/maj
+
+를
+	를/ncn
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+가로,
+	가로/ncn+,/sp
+
+세로의
+	세/nnc+로/jca+의/jcm
+
+크기로
+	크/paa+기/etn+로/jca
+
+환산해서
+	환산/ncpa+하/xsva+어서/ecs
+
+전체
+	전체/ncn
+
+크기를
+	크/paa+기/etn+를/jco
+
+알아볼려면
+	알아볼려/ncn+이/jp+면/ecs
+
+어떻게
+	어떻/pad+게/ecs
+
+할까
+	하/px+ㄹ까/ef
+
+.
+	./sf
+
+
+를
+	를/ncn
+
+제곱근으로
+	제곱/ncpa+근/ncn+으로/jca
+
+나누거나(85
+	나누거나(85/ncn
+
+=
+	=/sy
+
+9.
+	9./nnc
+
+21mx9.
+	21mx9./ncn
+
+21m),
+	21m),/ncn
+
+한쪽
+	하/pvg+ㄴ/etm+쪽/nbn
+
+면을
+	면/ncn+을/jco
+
+10m로
+	10m/ncn+로/jca
+
+잡고
+	잡/pvg+고/ecc
+
+계산하면
+	계산/ncpa+하/xsva+면/ecs
+
+가로x세로의
+	가로x세로/ncn+의/jcm
+
+크기를
+	크/paa+기/etn+를/jco
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+(85
+	(/sl+85/nnc
+
+=10mx8.
+	=10mx8./ncn
+
+5m)또한
+	5m)또한/ncn
+
+가로와
+	가로/ncn+와/jcj
+
+세로의
+	세/nnc+로/jca+의/jcm
+
+크기만
+	크/paa+기/etn+만/jxc
+
+알면
+	알/pvg+면/ecs
+
+바로
+	바로/mag
+
+몇
+	몇/nnc
+
+평인지
+	평/nbu+이/jp+ㄴ지/ecs
+
+계산이
+	계산/ncpa+이/jcc
+
+금방
+	금방/mag
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+즉,
+	즉,/ncn
+
+가로x세로해서
+	가로x세로해/ncn+서/jca
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+에다
+	에/pvg+어다/ecs
+
+0.
+	0./nnc
+
+3025만
+	3025/nnc+만/jxc
+
+곱하면
+	곱/ncpa+하/xsva+면/ecs
+
+되기
+	되/pvg+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+예)가로
+	예/ii+)/sr+가로/ncn
+
+10m,
+	10m,/ncn
+
+세로
+	세/nnc+로/jca
+
+8.5m일
+	8.5m/ncn+이/jp+ㄹ/etm
+
+경우,
+	경우/ncn+,/sp
+
+10x8.
+	10x8./ncn
+
+5=85
+	5=85/ncn
+
+85
+	85/nnc
+
+x0.
+	x0./ncn
+
+3025=25.
+	3025=25./ncn
+
+7평근사치로
+	7평근사치/ncn+로/jca
+
+쉽게
+	쉽/paa+게/ecs
+
+를
+	를/ncn
+
+평수로
+	평수/ncn+로/jca
+
+환산하려면
+	환산/ncpa+하/xsva+려면/ecs
+
+에
+	에/pvg+어/ecx
+
+3를
+	3/nnc+를/jco
+
+곱해서(
+	곱해서(/ncn
+
+x3)
+	x3)/ncn
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+수치에다
+	수치/ncn+에다/jca
+
+끝자리
+	끝자리/ncn
+
+바로
+	바로/mag
+
+앞에
+	앞/ncn+에/jca
+
+소수점을
+	소수점/ncn+을/jco
+
+찍으면
+	찍/pvg+으면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+예)85
+	예/ii+)/sr+85/nnc
+
+의
+	의/ncn
+
+경우
+	경우/ncn
+
+85x3=255인데
+	85x3=255인데/ncn
+
+끝자리
+	끝자리/ncn
+
+바로
+	바로/mag
+
+앞에
+	앞/ncn+에/jca
+
+소수점을
+	소수점/ncn+을/jco
+
+찍으면
+	찍/pvg+으면/ecs
+
+25.
+	25./nnc
+
+5평이
+	5/nnc+평/nbu+이/jcc
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+조금
+	조금/mag
+
+크게
+	크/paa+게/ecs
+
+생각하면
+	생각/ncpa+하/xsva+면/ecs
+
+실제
+	실제/ncn
+
+평수인
+	평수/ncn+이/jp+ㄴ/etm
+
+25.
+	25./nnc
+
+7평에
+	7/nnc+평/nbu+에/jca
+
+근접하게
+	근접/ncpa+하/xsva+게/ecs
+
+되는
+	되/pvg+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+2.
+	2./nnc
+
+평수
+	평수/ncn
+
+
+평수x3.
+	평수x3./ncn
+
+305
+	305/nnc
+
+=
+	=/sy
+
+
+예)33평의
+	예/ii+)/sr+33/nnc+평/nbu+의/jcm
+
+경우
+	경우/ncn
+
+33x3.
+	33x3./ncn
+
+305=109.
+	305=109./ncn
+
+065
+	065/nnc
+
+가
+	가/jcs
+
+되는
+	되/pvg+는/etm
+
+것이다.
+	것/nbn+이/jp+다/ef+./sf
+
+33평
+	33/nnc+평/nbu
+
+=
+	=/sy
+
+10m
+	10m/ncn
+
+x10.
+	x10./ncn
+
+9065m
+	9065m/ncn
+
+도
+	도/ncn
+
+가능하며,
+	가능/ncps+하/xsms+며/ecc+,/sp
+
+제곱근
+	제곱/ncpa+근/ncn
+
+계산으론
+	계산/ncpa+으론/jca
+
+10.
+	10./nnc
+
+44mx10.
+	44mx10./ncn
+
+44m가
+	44m/ncn+가/jcs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+보다
+	보다/mag
+
+쉽게
+	쉽/paa+게/ecs
+
+평수를
+	평수/ncn+를/jco
+
+로
+	로/ncn
+
+계산하려면
+	계산/ncpa+하/xsva+려면/ecs
+
+평수x3.
+	평수x3./ncn
+
+3을
+	3/nnc+을/jco
+
+하고
+	하/pvg+고/ecc
+
+조금
+	조금/mag
+
+크게
+	크/paa+게/ecs
+
+생각하면
+	생각/ncpa+하/xsva+면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+예)
+	예/ii+)/sr
+
+33평의
+	33/nnc+평/nbu+의/jcm
+
+경우
+	경우/ncn
+
+33x3.
+	33x3./ncn
+
+3
+	3/nnc
+
+=
+	=/sy
+
+108.9
+	108.9/nnc
+
+,
+	,/sp
+
+실제109.
+	실제109./ncn
+
+065
+	065/nnc
+
+
+3.
+	3./nnc
+
+1평의
+	1/nnc+평/nbu+의/jcm
+
+크기
+	크기/ncn
+
+
+1평의
+	1/nnc+평/nbu+의/jcm
+
+크기는
+	크/paa+기/etn+는/jxc
+
+3.305
+	3.305/nnc
+
+,
+	,/sp
+
+곧1.
+	곧1./ncn
+
+818mx1.
+	818mx1./ncn
+
+818m이다
+	818m/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+앞서
+	앞서/mag
+
+설명한
+	설명/ncpa+하/xsva+ㄴ/etm
+
+대로
+	대/nbu+로/jca
+
+1mx3.
+	1mx3./ncn
+
+305m,
+	305m,/ncn
+
+2mx1.
+	2mx1./ncn
+
+6525m
+	6525m/ncn
+
+등
+	등/nbu
+
+다양한
+	다양/ncn+한/ncn
+
+형태의
+	형태/ncn+의/jcm
+
+크기가
+	크/paa+기/etn+가/jcs
+
+1평이
+	1/nnc+평/nbu+이/jcc
+
+될것이다
+	되/pvg+ㄹ/etm+것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+전용면적의
+	전용/ncpa+면적/ncn+의/jcm
+
+공용면적
+	공용/ncpa+면적/ncn
+
+등의
+	등/nbu+의/jcm
+
+개념
+	개념/ncn
+
+
+전용면적이란
+	전용/ncpa+면적/ncn+이란/jcm
+
+
+집주인만
+	집주인/ncn+만/jxc
+
+전용으로
+	전용/ncpa+으로/jca
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+공간
+	공간/ncn
+
+즉
+	즉/mag
+
+현관문을
+	현관문/ncn+을/jco
+
+열고
+	열/pvg+고/ecc
+
+들어서는
+	들/pvg+어서/ecs+는/jxc
+
+순간부터
+	순간/ncn+부터/jxc
+
+집안내부를
+	집안/ncn+내부/ncn+를/jco
+
+말합니다,현관,거실,방,부엌,욕실,벽장
+	말/ncpa+하/xsva+ㅂ니다/ef+,/sp+현관/ncn+,/sp+거실/ncn+,/sp+방/ncn+,/sp+부엌/ncn+,/sp+욕실/ncn+,/sp+벽장/ncn
+
+등.
+	등/nbu+./sf
+
+그러나
+	그러나/maj
+
+베란다는
+	베란다/ncn+는/jxc
+
+서비스
+	서비스/ncpa
+
+면적이라하여
+	면적이라하/ncn+이/jp+어/ecs
+
+제외
+	제외/ncpa
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+전용면적
+	전용/ncpa+면적/ncn
+
+25.7평
+	25.7/nnc+평/nbu
+
+이하의
+	이하/ncn+의/jcm
+
+아파트를
+	아파트/ncn+를/jco
+
+국민주택
+	국민주택/ncn
+
+규모라하여
+	규모라하/ncn+이/jp+어/ecs
+
+분양시
+	분양/ncpa+시/ncn
+
+부가세를
+	부가세/ncn+를/jco
+
+면제해주는
+	면제/ncpa+하/xsva+어/ecx+주/px+는/etm
+
+등
+	등/nbu
+
+세제면에서
+	세제/ncn+면/ncn+에서/jca
+
+혜택을
+	혜택/ncn+을/jco
+
+주고
+	주/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+공급면적은
+	공급면적/ncn+은/jxc
+
+
+이
+	이/mmd
+
+전용면적에
+	전용/ncpa+면적/ncn+에/jca
+
+입주민들이
+	입주/ncpa+민/ncn+들/xsncc+이/jcc
+
+공동으로
+	공동/ncn+으로/jca
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+공용면적을
+	공용/ncpa+면적/ncn+을/jco
+
+합친
+	합치/pvg+ㄴ/etm
+
+것.
+	것/nbn+./sf
+
+계단실,복도,엘리베이트
+	계단실,복도,엘리베이트/ncn
+
+등이며,우리가
+	등/nbn+이/jp+며/ecc+,/sp+우리/npp+가/jcs
+
+보통
+	보통/mag
+
+부르는
+	부르/pvg+는/etm
+
+아파트의
+	아파트/ncn+의/jcm
+
+크기
+	크/paa+기/etn
+
+.
+	./sf
+
+
+32평
+	32/nnc+평/nbu
+
+아파트는
+	아파트/ncn+는/jxc
+
+전용면적이
+	전용/ncpa+면적/ncn+이/jcc
+
+25평쯤되고,
+	25평쯤되고,/ncn
+
+48평
+	48/nnc+평/nbu
+
+아파트는
+	아파트/ncn+는/jxc
+
+전용면적이
+	전용/ncpa+면적/ncn+이/jcc
+
+37평
+	37/nnc+평/nbu
+
+.
+	./sf
+
+
+소형빌라(다세대주택)같은
+	소형빌라(다세대주택)같/ncn+은/jxc
+
+경우에는
+	경우/ncn+에/jca+는/jxc
+
+광고시
+	광고/ncn+시/ncn
+
+지하
+	지하/ncn
+
+주차장을
+	주차장/ncn+을/jco
+
+공급면적에
+	공급면적/ncn+에/jca
+
+넣기도하는데
+	넣기도하는데/ncn
+
+그래야
+	그렇/pad+어야/ecs
+
+좀
+	좀/mag
+
+보이므로
+	보이/pvg+므로/ecs
+
+..
+	./sf+./sf
+
+
+발코니는
+	발코니/ncn+는/jxc
+
+전용면적
+	전용/ncpa+면적/ncn
+
+계산에서
+	계산/ncpa+에서/jca
+
+빠진다
+	빠지/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+면적을
+	면적/ncn+을/jco
+
+평
+	평/nbu
+
+단위로
+	단위/ncn+로/jca
+
+바꿔볼
+	바꾸/pvg+어/ecx+보/px+ㄹ/etm
+
+땐
+	때/pvg+ㄴ/etm
+
+0.
+	0./nnc
+
+3025
+	3025/nnc
+
+곱해
+	곱/ncpa+하/xsva+어/ecs
+
+
+계약일은
+	계약/ncpa+일/ncn+은/jxc
+
+당첨자
+	당첨자/ncn
+
+발표일로부터
+	발표/ncpa+일/ncn+로/jca+부터/jxc
+
+5일
+	5/nnc+일/nbu
+
+이후
+	이후/ncn
+
+
+전용면적,
+	전용/ncpa+면적/ncn+,/sp
+
+대지지분,
+	대지/ncn+지분/ncn+,/sp
+
+기준층
+	기준/ncpa+층/ncn
+
+.
+	./sf
+
+
+건설회사는
+	건설회사/ncn+는/jxc
+
+아파트를
+	아파트/ncn+를/jco
+
+분양할
+	분양/ncpa+하/xsva+ㄹ/etm
+
+때
+	때/ncn
+
+신문이나
+	신문/ncn+이나/jcj
+
+인터넷을
+	인터넷/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+입주자
+	입주자/ncn
+
+모집공고
+	모집공고/ncn
+
+(분양공고)라는
+	(/sl+분양/ncpa+공고/ncps+)/sr+라는/jcm
+
+것을
+	것/nbn+을/jco
+
+발표한다
+	발표/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+글씨가
+	글씨/ncn+가/jcs
+
+깨알
+	깨알/ncn
+
+같고,
+	같/paa+고/ecc+,/sp
+
+용어도
+	용어/ncn+도/jxc
+
+어려워
+	어렵/paa+어/ecx
+
+소비자
+	소비자/ncn
+
+대부분이
+	대부분/ncn+이/jcc
+
+대충
+	대충/mag
+
+봐도
+	보/px+아/ecs
+
+되겠지
+	되/pvg+겠/ep+지/ecs
+
+라며
+	라/ncn+이/jp+며/ecc
+
+어깨
+	어깨/ncn
+
+너머로
+	너머/ncn+로/jca
+
+흘려버리는
+	흘리/pvg+어/ecx+버리/px+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+하지만,
+	하/pvg+지/ecx+말/px+ㄴ/etm+,/sp
+
+분양공고는
+	분양/ncpa+공고/ncn+는/jxc
+
+지방자치단체의
+	지방자치단체/ncn+의/jcm
+
+승인을
+	승인/ncpa+을/jco
+
+받은
+	받/pvg+은/etm
+
+법적
+	법/ncn+적/xsncc
+
+공신력을
+	공신력/ncn+을/jco
+
+지닌
+	지니/pvg+ㄴ/etm
+
+분양
+	분양/ncpa
+
+알림사항
+	알림사항/ncn
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+통상
+	통상/mag
+
+분양공고는
+	분양/ncpa+공고/ncn+는/jxc
+
+청약접수
+	청약/ncn+접수/ncpa
+
+5~7일
+	5/nnc+~/sd+7/nnc+일/nbu
+
+이전에
+	이전/ncn+에/jca
+
+게재되며,
+	게재/ncpa+되/xsvn+며/ecc+,/sp
+
+청약방법,
+	청약/ncn+방법/ncn+,/sp
+
+계약금
+	계약금/ncn
+
+중도금
+	중도금/ncn
+
+납입일과
+	납입/ncpa+일/ncn+과/jcj
+
+입주일자
+	입주/ncpa+이/jp+ㄹ/etm+자/nbn
+
+등
+	등/nbu
+
+청약
+	청약/ncn
+
+및
+	및/maj
+
+계약에
+	계약/ncpa+에/jca
+
+관한
+	관하/pvg+ㄴ/etm
+
+중요
+	중요/ncps
+
+정보를
+	정보/ncn+를/jco
+
+담고
+	담/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+분양공고를
+	분양/ncpa+공고/ncn+를/jco
+
+알기
+	알/pvg+기/etn
+
+쉽게
+	쉽/paa+게/ecs
+
+보는
+	보/px+는/etm
+
+법을
+	법/ncn+을/jco
+
+소개한다
+	소개/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+민영주택과
+	민영주택/ncn+과/jcj
+
+국민주택
+	국민주택/ncn
+
+민영주택이란
+	민영주택/ncn+이란/jxc
+
+민간
+	민간/ncn
+
+건설업자가
+	건설업자/ncn+가/jcs
+
+건설하는
+	건설/ncpa+하/xsva+는/etm
+
+주택으로
+	주택/ncn+으로/jca
+
+청약예금이나
+	청약예금/ncn+이나/jcj
+
+청약부금
+	청약/ncn+부금/ncn
+
+통장을
+	통장/ncn+을/jco
+
+갖고
+	갖/pvg+고/ecc
+
+있어야
+	있/px+어야/ecs
+
+신청할
+	신청/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+국민주택이나
+	국민주택/ncn+이나/jcj
+
+중형
+	중형/ncn
+
+국민주택이라는
+	국민주택/ncn+이/jp+라/ef+는/etm
+
+말이
+	말/ncn+이/jcc
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+경우도
+	경우/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+국민주택기금을
+	국민주택기금/ncn+을/jco
+
+지원받아
+	지원/ncpa+받/xsva+아/ecx
+
+국가,
+	국/ncn+가/jcs+,/sp
+
+지방자치단체
+	지방자치단체/ncn
+
+및
+	및/maj
+
+대한주택공사나
+	대한/ncn+주택/ncn+공사/ncn+나/jcj
+
+민간사업자가
+	민간사업자/ncn+가/jcs
+
+공급하는
+	공급/ncpa+하/xsva+는/etm
+
+것.
+	것/nbn+./sf
+
+전용면적
+	전용/ncpa+면적/ncn
+
+85
+	85/nnc
+
+(25.
+	(/sl+25./nnc
+
+7평)
+	7/nnc+평/nbu+)/sr
+
+이하
+	이하/ncn
+
+주택에
+	주택/ncn+에/jca
+
+한하며
+	한하/pvg+며/ecc
+
+청약저축에
+	청약저축/ncn+에/jca
+
+가입해
+	가입/ncpa+하/xsva+어/ecx
+
+있어야
+	있/px+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+보통
+	보통/mag
+
+분양가가
+	분양가/ncn+가/jcs
+
+민영주택에
+	민영주택/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+싼
+	싸/paa+ㄴ/etm
+
+점이
+	점/nbu+이/jcc
+
+특징이다
+	특징/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+중형
+	중형/ncn
+
+국민주택은
+	국민주택/ncn+은/jxc
+
+민간
+	민간/ncn
+
+건설업체가
+	건설업체/ncn+가/jcs
+
+국민주택기금의
+	국민주택기금/ncn+의/jcm
+
+지원을
+	지원/ncpa+을/jco
+
+받아
+	받/pvg+아/ecx
+
+공급하는
+	공급/ncpa+하/xsva+는/etm
+
+주택으로
+	주택/ncn+으로/jca
+
+전용면적
+	전용/ncpa+면적/ncn
+
+60(18평)~85
+	60(18평)~85/ncn
+
+(25.
+	(/sl+25./nnc
+
+7평)에
+	7/nnc+평/nbu+)/sr+에/jca
+
+해당된다
+	해당/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+전용면적과
+	전용/ncpa+면적/ncn+과/jcj
+
+공용면적
+	공용/ncpa+면적/ncn
+
+우선
+	우선/mag
+
+제곱미터로
+	제곱미터/ncn+로/jca
+
+표시된
+	표시/ncpa+되/xsvn+ㄴ/etm
+
+면적
+	면적/ncn
+
+표시를
+	표시/ncn+를/jco
+
+평단위로
+	평단/ncn+위/ncn+로/jca
+
+바꾸려면
+	바꾸/pvg+려면/ecs
+
+0.
+	0./nnc
+
+3025를
+	3025/nnc+를/jco
+
+곱하면
+	곱/ncpa+하/xsva+면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+예컨대
+	예컨대/mag
+
+129.
+	129./nnc
+
+092
+	092/nnc
+
+에
+	에/pvg+어/ecx
+
+0.
+	0./nnc
+
+3025를
+	3025/nnc+를/jco
+
+곱하면
+	곱/ncpa+하/xsva+면/ecs
+
+39.
+	39./nnc
+
+050평형이
+	050평형/ncn+이/jcc
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+아파트
+	아파트/ncn
+
+공급면적은
+	공급면적/ncn+은/jxc
+
+전용면적과
+	전용/ncpa+면적/ncn+과/jcj
+
+주거공용면적을
+	주거/ncpa+공용/ncpa+면적/ncn+을/jco
+
+더한
+	더하/paa+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+입주자의
+	입주자/ncn+의/jcm
+
+실제
+	실제/ncn
+
+거주와
+	거주/ncpa+와/jct
+
+밀접한
+	밀접/ncps+하/xsms+ㄴ/etm
+
+공간만을
+	공간/ncn+만/ncn+을/jco
+
+나타낸
+	나타내/pvg+ㄴ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+전용면적은
+	전용/ncpa+면적/ncn+은/jxc
+
+벽으로
+	벽/ncn+으로/jca
+
+둘러싸인
+	둘러싸이/pvg+ㄴ/etm
+
+현관
+	현관/ncn
+
+거실
+	걸/pvg+시/ep+ㄹ/etm
+
+주방
+	주방/ncn
+
+욕실
+	욕실/ncn
+
+등
+	등/nbu
+
+실제
+	실제/ncn
+
+입주해서
+	입주/ncpa+해/ncn+서/jca
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+집
+	집/ncn
+
+내부
+	내부/ncn
+
+면적이다
+	면적/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+발코니는
+	발코니/ncn+는/jxc
+
+제외된다
+	제외/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+자신의
+	자신/ncn+의/jcm
+
+청약통장으로
+	청약/ncn+통장/ncn+으로/jca
+
+신청할
+	신청/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+아파트
+	아파트/ncn
+
+평형을
+	평형/ncpa+을/jco
+
+결정하는
+	결정/ncpa+하/xsva+는/etm
+
+기준이
+	기준/ncpa+이/jcc
+
+바로
+	바로/mag
+
+전용
+	전용/ncpa
+
+면적이다
+	면적/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+주거공용
+	주거/ncpa+공용/ncpa
+
+면적은
+	면적/ncn+은/jxc
+
+전용면적을
+	전용/ncpa+면적/ncn+을/jco
+
+제외한
+	제외/ncpa+하/xsva+ㄴ/etm
+
+2가구
+	2/nnc+가구/nbu
+
+이상이
+	이상/ncn+이/jcc
+
+공동으로
+	공동/ncn+으로/jca
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+계단
+	계단/ncn
+
+승강기
+	승강기/ncn
+
+복도
+	복/ncn+도/jxc
+
+등의
+	등/nbu+의/jcm
+
+면적을
+	면적/ncn+을/jco
+
+표시한다
+	표시/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+때문에
+	때문/nbn+에/jca
+
+전용면적이
+	전용/ncpa+면적/ncn+이/jcc
+
+작고,
+	작/paa+고/ecc+,/sp
+
+공용면적이
+	공용/ncpa+면적/ncn+이/jcc
+
+넓다면
+	넓/paa+다면/ecs
+
+실제
+	실제/ncn
+
+집값보다
+	집값/ncn+보다/jca
+
+분양가를
+	분양가/ncn+를/jco
+
+더
+	더/mag
+
+많이
+	많/paa+이/xsa
+
+낸다고
+	내/px+ㄴ다/ef+고/jcr
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+기타
+	기타/ncn
+
+공용면적은
+	공용/ncpa+면적/ncn+은/jxc
+
+지하주차장
+	지하주차장/ncn
+
+관리실
+	관리/ncn+이/jp+시/ep+ㄹ/etm
+
+등의
+	등/nbu+의/jcm
+
+면적을
+	면적/ncn+을/jco
+
+합한
+	합/ncpa+하/xsva+ㄴ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+대지지분이란
+	대지/ncn+지분/ncn+이란/jxc
+
+총
+	총/mma
+
+대지
+	대/nbu+이/jp+지/ecs
+
+면적을
+	면적/ncn+을/jco
+
+총
+	총/mma
+
+공급
+	공급/ncpa
+
+평형으로
+	평형/ncpa+으로/jca
+
+나눈
+	나누/pvg+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+가구별로
+	가구/ncn+별/ncn+로/jca
+
+갖게
+	갖/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+땅
+	땅/ncn
+
+면적
+	면적/ncn
+
+.
+	./sf
+
+
+입주
+	입주/ncpa
+
+후
+	후/ncn
+
+종합토지세
+	종합토지세/ncn
+
+산정
+	산정/ncn
+
+기준이
+	기준/ncpa+이/jcc
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+층
+	층/nbu
+
+분포
+	분포/ncpa
+
+및
+	및/maj
+
+분양가
+	분양가/ncn
+
+층은
+	층/nbu+은/jxc
+
+최상층,
+	최상층/ncn+,/sp
+
+기준층,
+	기준/ncpa+층/xsncc+,/sp
+
+1
+	1/nnc
+
+2층으로
+	2/nnc+층/nbu+으로/jca
+
+나눠져
+	나누/pvg+어/ecx+지/px+어/ecx
+
+있으며
+	있/px+으며/ecc
+
+옆에
+	옆/ncn+에/jca
+
+층별,
+	층/ncn+별/xsncc+,/sp
+
+평형별,
+	평형/ncpa+별/xsncc+,/sp
+
+세대
+	세/nnc+대/nbu
+
+수가
+	수/nbn+가/jcc
+
+적혀
+	적히/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+분양
+	분양/ncpa
+
+받고자
+	받/pvg+고자/ecx
+
+하는
+	하/pvg+는/etm
+
+평형이
+	평형/ncpa+이/jcc
+
+몇
+	몇/nnc
+
+층,
+	층/nbu+,/sp
+
+몇
+	몇/nnc
+
+평형인지
+	평형/ncpa+이/jp+ㄴ지/ecs
+
+확인할
+	확인/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+자료이다
+	자료/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+재개발
+	재개발/ncn
+
+재건축
+	재건축/ncn
+
+아파트는
+	아파트/ncn+는/jxc
+
+조합원이
+	조합원/ncr+이/jcc
+
+로열층을
+	로열/ncn+층/ncn+을/jco
+
+이미
+	이미/mag
+
+계약해
+	계약/ncpa+하/xsva+어/ecx
+
+좋은
+	좋/paa+은/etm
+
+평형이나
+	평형/ncpa+이나/jcj
+
+층수가
+	층수/ncn+가/jcs
+
+없는
+	없/paa+는/etm
+
+경우도
+	경우/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+기준층은
+	기준/ncpa+층/ncn+은/jxc
+
+4
+	4/nnc
+
+5층
+	5/nnc+층/nbu
+
+이상
+	이상/ncn
+
+15층
+	15/nnc+층/nbu
+
+이하인
+	이하/ncn+이/jp+ㄴ/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+분양가에
+	분양가/ncn+에/jca
+
+대해서도
+	대/pvg+어/ecx+하/px+어서/ecs+도/jxc
+
+반드시
+	반드시/mag
+
+체크해야
+	체크/ncpa+하/xsva+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+분양가
+	분양가/ncn
+
+항목은
+	항목/ncn+은/jxc
+
+계약금,
+	계약금/ncn+,/sp
+
+중도금,
+	중도금/ncn+,/sp
+
+잔금
+	잔금/ncn
+
+등으로
+	등/nbu+으로/jca
+
+구분되며,
+	구분/ncpa+되/xsvn+며/ecc+,/sp
+
+자금운용을
+	자금운용/ncpa+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+납부일정을
+	납부/ncpa+일정/ncn+을/jco
+
+확실히
+	확실히/mag
+
+알아둬야
+	알/pvg+아/ecx+두/px+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+제때
+	제때/ncn
+
+중도금을
+	중도금/ncn+을/jco
+
+내지
+	내/pvg+지/ecx
+
+않으면
+	않/px+으면/ecs
+
+연체료를
+	연체료/ncn+를/jco
+
+내야
+	내/pvg+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+분양가는
+	분양가/ncn+는/jxc
+
+층에
+	층/nbu+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+1
+	1/nnc
+
+2층,
+	2/nnc+층/nbu+,/sp
+
+최상층과
+	최상층/ncn+과/jcj
+
+기준층을
+	기준/ncpa+층/ncn+을/jco
+
+나눠
+	나누/pvg+어/ecx
+
+가격을
+	가격/ncn+을/jco
+
+표시한다
+	표시/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+분양가에는
+	분양가/ncn+에/jca+는/jxc
+
+취득세
+	취득세/ncn
+
+등록세
+	등록세/ncn
+
+소유권
+	소유권/ncn
+
+이전
+	이전/ncn
+
+등기비용이
+	등기/ncn+비용/ncn+이/jcc
+
+포함되지
+	포함/ncpa+되/xsvn+지/ecx
+
+않는다
+	않/px+는다/ef
+
+.
+	./sf
+
+
+일반적으로
+	일반/ncn+적/ncn+으로/jca
+
+계약금은
+	계약금/ncn+은/jxc
+
+10~20%이며,
+	10/nnc+~/sd+20/nnc+%/su+이/jp+며/ecc+,/sp
+
+중도금은
+	중도금/ncn+은/jxc
+
+4~8회로
+	4/nnc+~/sd+8/nnc+회/nbu+로/jca
+
+나눠서
+	나누/pvg+어서/ecs
+
+내도록
+	내/pvg+도록/ecs
+
+하고
+	하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+법적으로
+	법/ncn+적/xsncc+으로/jca
+
+중도금은
+	중도금/ncn+은/jxc
+
+분양가의
+	분양가/ncn+의/jcm
+
+60%
+	60/nnc+%/su
+
+범위
+	범위/ncn
+
+안에서
+	안/ncn+에서/jca
+
+건축공정이
+	건축/ncpa+공정/ncn+이/jcc
+
+50%
+	50/nnc+%/su
+
+달한
+	달하/pvg+ㄴ/etm
+
+시점을
+	시점/ncn+을/jco
+
+기준으로
+	기준/ncpa+으로/jca
+
+2회
+	2/nnc+회/nbu
+
+이상
+	이상/ncn
+
+나눠
+	나누/pvg+어/ecx
+
+납부한다
+	납부/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+계약조건도
+	계약조건/ncn+도/jxc
+
+확인해야
+	확인/ncpa+하/xsva+어야/ecs
+
+당첨자는
+	당첨자/ncn+는/jxc
+
+입주자
+	입주자/ncn
+
+모집공고에서
+	모집공고/ncn+에서/jca
+
+정하는
+	정하/pvg+는/etm
+
+날짜에
+	날짜/ncn+에/jca
+
+신문
+	신문/ncn
+
+또는
+	또는/maj
+
+분양사무실
+	분양/ncpa+사무/ncn+이/jp+시/ep+ㄹ/etm
+
+게시판에
+	게시판/ncn+에/jca
+
+발표된다
+	발표/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+계약일은
+	계약/ncpa+일/ncn+은/jxc
+
+당첨자
+	당첨자/ncn
+
+발표일로부터
+	발표/ncpa+일/ncn+로/jca+부터/jxc
+
+5일
+	5/nnc+이/jp+ㄹ/etm
+
+이후이다
+	이후/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+또,
+	뜨/pvg+어/ecs+,/sp
+
+계약조건
+	계약조건/ncn
+
+및
+	및/maj
+
+유의사항
+	유의사항/ncn
+
+등도
+	등/nbu+도/jxc
+
+반드시
+	반드시/mag
+
+확인해야
+	확인/ncpa+하/xsva+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+계약체결
+	계약체결/ncpa
+
+후
+	후/ncn
+
+당첨을
+	당첨/ncn+을/jco
+
+박탈
+	박탈/ncpa
+
+또는
+	또는/maj
+
+취소할
+	취소/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+조건이
+	조건/ncn+이/jcc
+
+제시되기
+	제시/ncpa+되/xsvn+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+아파트
+	아파트/ncn
+
+입주예정일
+	입주/ncpa+예정/ncn+이/jp+ㄹ/etm
+
+이전에
+	이전/ncn+에/jca
+
+시공회사에
+	시공회사/ncn+에/jca
+
+문제가
+	문제/ncn+가/jcs
+
+생길
+	생기/pvg+ㄹ/etm
+
+경우에
+	경우/ncn+에/jca
+
+대비해
+	대비/ncn+해/ncn
+
+연대보증인이나
+	연대보증인/ncn+이나/jcj
+
+보증회사가
+	보증/ncpa+회사/ncn+가/jcs
+
+어디인지도
+	어디/npd+이/jp+ㄴ지/ecs+도/jxc
+
+확인해야
+	확인/ncpa+하/xsva+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+임대면적
+	임대/ncpa+면적/ncn
+
+임대시
+	임대/ncpa+시/ncn
+
+임차인이
+	임차인/ncn+이/jcc
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+면적
+	면적/ncn
+
+
+전용면적
+	전용/ncpa+면적/ncn
+
+세대별
+	세대/ncn+별/ncn
+
+현관안쪽의
+	현관/ncn+안쪽/ncn+의/jcm
+
+면적(거실
+	면/ncn+적/xsncc+(/sl+걸/pvg+시/ep+ㄹ/etm
+
+침실
+	침실/ncn
+
+식당
+	식당/ncn
+
+욕실
+	욕실/ncn
+
+현관)주거공용면적
+	현관/ncn+)/sr+주거/ncpa+공용/ncpa+면적/ncn
+
+주거를
+	주거/ncpa+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+공동으로
+	공동/ncn+으로/jca
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+면적(계단
+	면/ncn+적/xsncc+(/sl+계단/ncn
+
+엘리베이터)공급면적=전용면적
+	엘리베이터/ncn+)/sr+공급/ncpa+면/ncn+적/xsncc+=/sy+전용/ncpa+면적/ncn
+
+주거공용면적
+	주거/ncpa+공용/ncpa+면적/ncn
+
+
+기타공용면적
+	기타/ncn+공용/ncpa+면적/ncn
+
+주거외
+	주거/ncpa+외/xsnx
+
+공동으로
+	공동/ncn+으로/jca
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+면적(관리사무소,경비실등)계약면적=공급면적
+	면/ncn+적/xsncc+(/sl+관리사무소/ncn+,/sp+경비/ncn+이/jp+시/ep+ㄹ/etm+등/nbn+)/sr+계약/ncpa+면/ncn+적/xsncc+=/sy+공급면적/ncn
+
+기타공용면적서비스면적
+	기타/ncn+공용/ncpa+면적/ncn+서비스/ncpa+면적/ncn
+
+공짜로
+	공짜/ncn+로/jca
+
+사용하도록
+	사용/ncpa+하/xsva+도록/ecs
+
+공급한
+	공급/ncpa+하/xsva+ㄴ/etm
+
+면적
+	면적/ncn
+
+
+아파트와
+	아파트/ncn+와/jcj
+
+관련해서
+	관련/ncn+해서/ncn
+
+일반인의
+	일반인/ncn+의/jcm
+
+이해가
+	이/nnc+해/nbu+가/jcc
+
+어려운
+	어렵/paa+은/etm
+
+부분이
+	부분/ncn+이/jcc
+
+좀있는데
+	좀/ncn+있/xsmn+는데/ecs
+
+정리를
+	정리/ncn+를/jco
+
+하면
+	하/pvg+면/ecs
+
+
+전용면적은
+	전용/ncpa+면적/ncn+은/jxc
+
+아파트에서
+	아파트/ncn+에서/jca
+
+발코니
+	발코니/ncn
+
+부분을
+	부분/ncn+을/jco
+
+제외한
+	제외/ncpa+하/xsva+ㄴ/etm
+
+면적이라고
+	면적/ncn+이/jp+라/ef+고/jcr
+
+보면
+	보/px+면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+거실침실주방식당욕실
+	거실/ncn+침실/ncn+주방/ncn+식당/ncn+욕실/ncn
+
+등의
+	등/nbu+의/jcm
+
+면적
+	면적/ncn
+
+.
+	./sf
+
+
+주거공용면적은
+	주거/ncpa+공용/ncpa+면적/ncn+은/jxc
+
+계단,
+	계단/ncn+,/sp
+
+복도,
+	복도/ncpa+,/sp
+
+엘리베이터
+	엘리베이터/ncn
+
+등을
+	등/nbu+을/jco
+
+세대수에
+	세대/ncn+수/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+배분한
+	배분/ncpa+하/xsva+ㄴ/etm
+
+것을
+	것/nbn+을/jco
+
+말하고,
+	말/ncn+하고/jct+,/sp
+
+지하주차장은
+	지하주차장/ncn+은/jxc
+
+기타
+	기타/ncn
+
+공용면적에
+	공용/ncpa+면적/ncn+에/jca
+
+포함
+	포함/ncpa
+
+.
+	./sf
+
+
+써비스
+	써비스/ncn
+
+면적은
+	면적/ncn+은/jxc
+
+발코니면적을
+	발코니/ncn+면적/ncn+을/jco
+
+뜻하고
+	뜻/ncn+하고/jct
+
+분양면적과는
+	분양/ncpa+면적/ncn+과/jct+는/jxc
+
+상관이
+	상관/ncn+이/jcc
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+분양면적
+	분양/ncpa+면적/ncn
+
+:
+	:/sp
+
+전용면적
+	전용/ncpa+면적/ncn
+
+주거공용면적
+	주거/ncpa+공용/ncpa+면적/ncn
+
+.
+	./sf
+
+
+(보통
+	(/sl+보통/mag
+
+몇평형이라고
+	몇평형/ncn+이/jp+라/ef+고/jcr
+
+부르는
+	부르/pvg+는/etm
+
+면적)계약면적
+	면적/ncn+)/sr+계약/ncpa+면적/ncn
+
+:
+	:/sp
+
+전용면적
+	전용/ncpa+면적/ncn
+
+주거공용면적
+	주거/ncpa+공용/ncpa+면적/ncn
+
+기타공용면적
+	기타/ncn+공용/ncpa+면적/ncn
+
+
+바닥면적
+	바닥/ncn+면적/ncn
+
+건축면적의
+	건축/ncpa+면적/ncn+의/jcm
+
+일상적으로
+	일상/ncn+적/ncn+으로/jca
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+면적건축연면적
+	면적/ncn+건축/ncpa+연면적/ncn
+
+바닥면적(보통
+	바닥면/ncn+적/xsncc+(/sl+보통/mag
+
+베란다제외)의
+	베란다/ncn+제외/ncpa+)/sr+의/jcm
+
+합계지상연면적
+	합계/ncpa+지상/ncn+연면적/ncn
+
+지상의
+	지상/ncn+의/jcm
+
+바닥면적의
+	바닥/ncn+면적/ncn+의/jcm
+
+합계건폐율
+	합계/ncpa+건폐율/ncn
+
+지상층
+	지상/ncn+층/ncn
+
+중
+	중/nbn
+
+가장
+	가장/mag
+
+넓은
+	넓/paa+은/etm
+
+층의
+	층/nbu+의/jcm
+
+바닥면적(발코니의
+	바닥면/ncn+적/xsncc+(/sl+발코니/ncn+의/jcm
+
+면적도
+	면적/ncn+도/jxc
+
+포함됨)의
+	포함/ncpa+되/xsvn+ㅁ/etn+)/sr+의/jcm
+
+대지면적에
+	대지/ncn+면적/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+비율용적율
+	비율/ncn+용적율/ncn
+
+건축연면적(대지에
+	건축연면적(대지/ncn+에/jca
+
+2이상의
+	2/nnc+이상/xsnu+의/jcm
+
+건축물이
+	건축물/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+경우에는
+	경우/ncn+에/jca+는/jxc
+
+이들
+	이/ncn+들/xsncc
+
+연면적
+	연면적/ncn
+
+합계)의
+	합계/ncpa+)/sr+의/jcm
+
+대지면적에
+	대지/ncn+면적/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+비율
+	비율/ncn
+
+
+임대면적이란
+	임대/ncpa+면적/ncn+이란/jxc
+
+임대할부분의
+	임대/ncpa+할부/ncpa+분/ncn+의/jcm
+
+면적을
+	면적/ncn+을/jco
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+전용면적은
+	전용/ncpa+면적/ncn+은/jxc
+
+실평수를
+	실평수/ncn+를/jco
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+일반적으로
+	일반/ncn+적/ncn+으로/jca
+
+분양할
+	분양/ncpa+하/xsva+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+전용면적과
+	전용/ncpa+면적/ncn+과/jcj
+
+공용면적을
+	공용/ncpa+면적/ncn+을/jco
+
+더해서
+	더하/paa+어서/ecs
+
+분양을
+	불/pvg+ㄴ/etm+양/nbn+을/jco
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+실질적으로
+	실질/ncn+적/ncn+으로/jca
+
+사용하는공간을
+	사용하는공간/ncn+을/jco
+
+전용면적이라고
+	전용/ncpa+면적/ncn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+전용률은
+	전용/ncpa+률/ncn+은/jxc
+
+분양면적대비
+	분양/ncpa+면적/ncn+대비/ncn
+
+전용면적을
+	전용/ncpa+면적/ncn+을/jco
+
+말하는
+	말/ncpa+하/xsva+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+분양평수
+	분양평수/ncn
+
+100평에
+	100/nnc+평/nbu+에/jca
+
+전용면적
+	전용/ncpa+면적/ncn
+
+70평인
+	70/nnc+평/nbu+이/jp+ㄴ/etm
+
+경우
+	경우/ncn
+
+전용율은
+	전용/ncpa+율/ncn+은/jxc
+
+70%가
+	70/nnc+%/su+가/jcc
+
+되는
+	되/pvg+는/etm
+
+것.
+	것/nbn+./sf
+
+그리고
+	그리고/maj
+
+용적율은
+	용적율/ncn+은/jxc
+
+땅대비
+	땅대비/ncn
+
+연면적으로
+	연면적/ncn+으로/jca
+
+용적률
+	용적률/ncn
+
+300%인
+	300/nnc+%/su+이/jp+ㄴ/etm
+
+경우
+	경우/ncn
+
+대지면적이
+	대지/ncn+면적/ncn+이/jcc
+
+500평이라면
+	500/nnc+평/nbu+이/jp+라면/ecs
+
+건물의
+	건물/ncn+의/jcm
+
+연면적을
+	연면적/ncn+을/jco
+
+1500평까지
+	1500/nnc+평/nbu+까지/jxc
+
+지을
+	지/nbn+이/jp+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+것을
+	것/nbn+을/jco
+
+말하는
+	말/ncpa+하/xsva+는/etm
+
+것.
+	것/nbn+./sf
+
+
+평과
+	평/nbu+과/jcj
+
+평형
+	평형/ncpa
+
+어떻게
+	어떻/pad+게/ecs
+
+다른가
+	다르/paa+ㄴ가/ef
+
+평과
+	평/nbu+과/jcj
+
+평형의
+	평형/ncpa+의/jcm
+
+개념을
+	개념/ncn+을/jco
+
+구별하지
+	구별/ncpa+하/xsva+지/ecx
+
+못해
+	못하/pvg+어/ecx
+
+혼란스러워
+	혼란/ncps+스럽/xsmn+어/ecx
+
+하는
+	하/pvg+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+종종
+	종종/mag
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+우선
+	우선/mag
+
+제곱미터(
+	제곱미터(/ncn
+
+)와
+	)/sr+와/jcj
+
+평(py)의
+	평(py)/ncn+의/jcm
+
+관계를
+	관계/ncn+를/jco
+
+살펴보자
+	살피/pvg+어/ecx+보/px+자/ecc
+
+.
+	./sf
+
+
+일반적으로
+	일반/ncn+적/ncn+으로/jca
+
+1평은
+	1/nnc+평/nbu+은/jxc
+
+가로
+	가로/mag
+
+세로
+	세/nnc+로/jca
+
+여섯
+	여섯/nnc
+
+자(
+	자(/ncn
+
+)의
+	)/sr+의/jcm
+
+면적으로
+	면적/ncn+으로/jca
+
+3.
+	3./nnc
+
+3058
+	3058/nnc
+
+(1
+	(/sl+1/nnc
+
+=0.
+	=/sy+0./nnc
+
+3025평)을
+	3025/nnc+평/nbu+)/sr+을/jco
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+하지만
+	하지만/maj
+
+평의
+	평/nbu+의/jcm
+
+개념은
+	개념/ncn+은/jxc
+
+이처럼
+	이/npd+처럼/jca
+
+순수한
+	순수/ncps+하/xsms+ㄴ/etm
+
+제곱미터의
+	제곱미터/ncn+의/jcm
+
+수치만으로
+	수치/ncn+만/ncn+으로/jca
+
+일치하지
+	일치/ncpa+하/xsva+지/ecx
+
+않는
+	않/px+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+왜냐하면
+	왜냐하면/maj
+
+평(
+	평(/ncn
+
+)대신
+	)/sr+대/nbu+이/jp+시/ep+ㄴ/etm
+
+평형(
+	평형(/ncn
+
+)이란
+	)/sr+이란/jxc
+
+말이
+	말/ncn+이/jcc
+
+실생활에서
+	실생활/ncn+에서/jca
+
+통용되는
+	통용/ncpa+되/xsvn+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많기
+	많/paa+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+실제로
+	실제로/mag
+
+평의
+	평/nbu+의/jcm
+
+개념도
+	개념/ncn+도/jxc
+
+실평수(전용면적),
+	실평수(전용면적),/ncn
+
+분양
+	분양/ncpa
+
+평수(분양
+	평수(분양/ncn
+
+면적)
+	면적/ncn+)/sr
+
+등
+	등/nbu
+
+여러가지로
+	여러/nnc+가지/nbu+로/jca
+
+사용된다
+	사용/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+따라서
+	따라서/maj
+
+평과
+	평/nbu+과/jcj
+
+평형에
+	평형/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+개념
+	개념/ncn
+
+구분을
+	구/nnc+분/nbu+을/jco
+
+위해서는
+	위하/pvg+어서/ecs+는/jxc
+
+면적에
+	면적/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+정확한
+	정확/ncps+하/xsms+ㄴ/etm
+
+이해를
+	이/nnc+해/nbu+를/jco
+
+선행해야
+	선행/ncn+해/ncn+이/jp+야/ef
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+모델하우스를
+	모델하우스/ncn+를/jco
+
+찾기
+	찾/pvg+기/etn
+
+전
+	전/nbn
+
+분양
+	분양/ncpa
+
+관련
+	관련/ncn
+
+안내
+	알/pvg+ㄴ/etm+내/nbn
+
+책자나
+	책자/ncn+나/jcj
+
+소개
+	소개/ncpa
+
+전단을
+	전단/ncn+을/jco
+
+살펴
+	살피/pvg+어/ecx
+
+전용
+	전용/ncpa
+
+면적과
+	면적/ncn+과/jcj
+
+분양
+	분양/ncpa
+
+면적(공급
+	면/ncn+적/xsncc+(/sl+공급/ncpa
+
+면적)확한
+	면적)확한/ncn
+
+차이를
+	차이/ncn+를/jco
+
+알고
+	알/pvg+고/ecx
+
+있는
+	있/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+분양
+	분양/ncpa
+
+광고나
+	광고/ncn+나/jcj
+
+모델하우스의
+	모델하우스/ncn+의/jcm
+
+안내
+	알/pvg+ㄴ/etm+내/nbn
+
+책자를
+	책자/ncn+를/jco
+
+보면
+	보/px+면/ecs
+
+분양
+	분양/ncpa
+
+면적(공급
+	면/ncn+적/xsncc+(/sl+공급/ncpa
+
+면적)
+	면적/ncn+)/sr
+
+00평형에
+	00평형/ncn+에/jca
+
+전용
+	전용/ncpa
+
+면적
+	면적/ncn
+
+00평,
+	00/nnc+평/nbu+,/sp
+
+서비스
+	서비스/ncpa
+
+면적
+	면적/ncn
+
+00평,
+	00/nnc+평/nbu+,/sp
+
+계약
+	계약/ncpa
+
+면적
+	면적/ncn
+
+00평이라고
+	00/nnc+평/nbu+이/jp+라/ef+고/jcr
+
+적혀
+	적히/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+전용
+	전용/ncpa
+
+면적은
+	면적/ncn+은/jxc
+
+순수한
+	순수/ncps+하/xsms+ㄴ/etm
+
+내부
+	내부/ncn
+
+면적만을
+	면적/ncn+만/ncn+을/jco
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+전용
+	전용/ncpa
+
+면적은
+	면적/ncn+은/jxc
+
+발코니를
+	발코니/ncn+를/jco
+
+뺀
+	빼/pvg+ㄴ/etm
+
+내부
+	내부/ncn
+
+공간,
+	공간/ncn+,/sp
+
+즉
+	즉/mag
+
+거실,
+	걸/pvg+시/ep+ㄹ/etm+,/sp
+
+주방,
+	주방/ncn+,/sp
+
+침실,
+	침실/ncn+,/sp
+
+욕실
+	욕실/ncn
+
+등
+	등/nbu
+
+각
+	각/mma
+
+가구가
+	가구/ncn+가/jcs
+
+독립적으로
+	독립/ncpa+적/ncn+으로/jca
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+공간이다
+	공간/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+다시
+	다시/mag
+
+말해
+	말/ncpa+하/xsva+어/ecx
+
+순수하게
+	순수/ncps+하/xsms+게/ecs
+
+내부
+	내부/ncn
+
+면적만을
+	면적/ncn+만/ncn+을/jco
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+'전용
+	'/sr+전용/ncpa
+
+면적'은
+	면적/ncn+'/sr+은/jxc
+
+청약통장을
+	청약/ncn+통장/ncn+을/jco
+
+갖고
+	갖/pvg+고/ecc
+
+아파트를
+	아파트/ncn+를/jco
+
+분양받을
+	분양/ncpa+받/xsva+을/etm
+
+경우
+	경우/ncn
+
+청약
+	청약/ncn
+
+신청
+	신청/ncpa
+
+가능
+	가능/ncpa
+
+여부를
+	여부/ncn+를/jco
+
+가늠하는
+	가늠/ncpa+하/xsva+는/etm
+
+기준이기도
+	기준/ncpa+이/jp+기/etn+도/jxc
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+예컨대
+	예컨대/mag
+
+청약부금이나
+	청약/ncn+부금/ncn+이나/jcj
+
+약저축
+	약저축/ncn
+
+가입자는
+	가입자/ncn+는/jxc
+
+국민주택
+	국민주택/ncn
+
+규모인
+	규모/ncn+이/jp+ㄴ/etm
+
+전용
+	전용/ncpa
+
+면적
+	면적/ncn
+
+25.7평
+	25.7/nnc+평/nbu
+
+이하의
+	이하/ncn+의/jcm
+
+주택에만
+	주택/ncn+에/jca+만/jxc
+
+청약
+	청약/ncn
+
+신청을
+	신청/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+아울러
+	아우르/pvg+어/ecx
+
+전용
+	전용/ncpa
+
+면적은
+	면적/ncn+은/jxc
+
+각종
+	각종/ncn
+
+세금
+	세금/ncn
+
+혜택이
+	혜택/ncn+이/jcc
+
+주어지는
+	주/px+어/ecx+지/px+는/etm
+
+기준이
+	기준/ncpa+이/jcc
+
+되기도
+	되/pvg+기/etn+도/jxc
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+집을
+	집/ncn+을/jco
+
+살때
+	사/pvg+ㄹ/etm+때/nbn
+
+국민주택기금의
+	국민주택기금/ncn+의/jcm
+
+지원을
+	지원/ncpa+을/jco
+
+받기
+	받/pvg+기/etn
+
+위해서는
+	위하/pvg+어서/ecs+는/jxc
+
+전용
+	전용/ncpa
+
+면적이
+	면적/ncn+이/jcc
+
+25.7평
+	25.7/nnc+평/nbu
+
+이하여야
+	이하/ncn+이/jp+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+은행의
+	은행/ncn+의/jcm
+
+장기담보대출을
+	장기/ncn+담보대출/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+연말에
+	연말/ncn+에/jca
+
+소득공제를
+	소득공제/ncpa+를/jco
+
+받으려
+	받/pvg+으려/ecx
+
+해도
+	하/pvg+어도/ecs
+
+전용
+	전용/ncpa
+
+면적
+	면적/ncn
+
+25.7평
+	25.7/nnc+평/nbu
+
+이하
+	이하/ncn
+
+주택을
+	주택/ncn+을/jco
+
+구입했을
+	구입/ncpa+하/xsva+었/ep+을/etm
+
+때만
+	때/ncn+만/jxc
+
+가능하다
+	가능/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+흔히
+	흔히/mag
+
+국민주택
+	국민주택/ncn
+
+규모인
+	규모/ncn+이/jp+ㄴ/etm
+
+25.
+	25./nnc
+
+7평의
+	7/nnc+평/nbu+의/jcm
+
+경우
+	경우/ncn
+
+분양
+	분양/ncpa
+
+면적(공급
+	면/ncn+적/xsncc+(/sl+공급/ncpa
+
+면적)은
+	면적/ncn+)/sr+은/jxc
+
+보통
+	보통/mag
+
+32~34평형으로
+	32~34평형/ncn+으로/jca
+
+표시하지만
+	표시/ncpa+하/xsva+지/ecx+말/px+ㄴ/etm
+
+실제
+	실제/ncn
+
+자신이
+	자신/npp+이/jcs
+
+거주로
+	거주/ncpa+로/jca
+
+활용할
+	활용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+공간,
+	공간/ncn+,/sp
+
+즉
+	즉/mag
+
+전용
+	전용/ncpa
+
+면적은
+	면적/ncn+은/jxc
+
+다
+	다/mag
+
+같은
+	같/paa+은/etm
+
+25.
+	25./nnc
+
+7평이다
+	7/nnc+평/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+따라서
+	따라서/maj
+
+32평이든
+	32/nnc+평/nbu+이/jp+든/ecs
+
+34평이든
+	34/nnc+평/nbu+이/jp+든/ecs
+
+분양가는
+	분양가/ncn+는/jxc
+
+비슷하게
+	비슷/ncps+하/xsms+게/ecs
+
+책정되게
+	책정/ncpa+되/xsvn+게/ecs
+
+마련이다
+	마련/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+그럼
+	그렇/pad+ㅁ/etn
+
+왜
+	왜/mag
+
+전용
+	전용/ncpa
+
+면적
+	면적/ncn
+
+25.
+	25./nnc
+
+7평이
+	7/nnc+평/nbu+이/jcc
+
+분양
+	분양/ncpa
+
+면적
+	면적/ncn
+
+32평형
+	32평형/ncn
+
+혹은
+	혹은/maj
+
+34평형이
+	34평형/ncn+이/jcc
+
+되는가
+	되/pvg+는가/ef
+
+?
+	?/sf
+
+
+분양
+	분양/ncpa
+
+면적은
+	면적/ncn+은/jxc
+
+분양가를
+	분양가/ncn+를/jco
+
+계산하는
+	계산/ncpa+하/xsva+는/etm
+
+기준이
+	기준/ncpa+이/jcc
+
+되는
+	되/pvg+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+일반적으로
+	일반/ncn+적/ncn+으로/jca
+
+말하는
+	말/ncpa+하/xsva+는/etm
+
+아파트의
+	아파트/ncn+의/jcm
+
+분양
+	분양/ncpa
+
+평수인데
+	평수/ncn+이/jp+ㄴ데/ecs
+
+이는
+	이/npd+는/jxc
+
+전용
+	전용/ncpa
+
+면적에
+	면적/ncn+에/jca
+
+'주거
+	'/sr+주거/ncpa
+
+공용
+	공용/ncpa
+
+면적'을
+	면적/ncn+'/sr+을/jco
+
+더한
+	더하/paa+ㄴ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+'주거
+	'/sr+주거/ncpa
+
+공용
+	공용/ncpa
+
+면적'이란
+	면적/ncn+'/sr+이란/jxc
+
+엘리베이터,
+	엘리베이터/ncn+,/sp
+
+계단,
+	계단/ncn+,/sp
+
+복도
+	복/ncn+도/jxc
+
+등
+	등/nbu
+
+아파트
+	아파트/ncn
+
+건물
+	건물/ncn
+
+안에서
+	안/ncn+에서/jca
+
+여러
+	여러/mma
+
+세대가
+	세/nnc+대/nbu+가/jcc
+
+같이
+	같/paa+이/xsa
+
+쓰는
+	쓰/pvg+는/etm
+
+공간을
+	공간/ncn+을/jco
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+공용
+	공용/ncpa
+
+면적에
+	면적/ncn+에/jca
+
+차이가
+	차이/ncn+가/jcs
+
+있으면
+	있/px+으면/ecs
+
+전용
+	전용/ncpa
+
+면적이
+	면적/ncn+이/jcc
+
+같아도
+	같/paa+아/ecs
+
+분양
+	분양/ncpa
+
+면적에
+	면적/ncn+에/jca
+
+차이가
+	차이/ncn+가/jcs
+
+난다
+	나/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+전용
+	전용/ncpa
+
+면적이
+	면적/ncn+이/jcc
+
+25.
+	25./nnc
+
+7평이라도
+	7/nnc+평/nbu+이라도/jxc
+
+어떤
+	어떤/mmd
+
+것은
+	것/nbn+은/jxc
+
+32평형이고
+	32평형/ncn+이/jp+고/ecc
+
+어떤
+	어떤/mmd
+
+것은
+	것/nbn+은/jxc
+
+34평형이
+	34평형/ncn+이/jcc
+
+되는
+	되/pvg+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+일반적으로
+	일반/ncn+적/ncn+으로/jca
+
+복도식
+	복도/ncn+식/ncn
+
+아파트가
+	아파트/ncn+가/jcs
+
+계단식
+	계단식/ncn
+
+아파트보다
+	아파트/ncn+보다/jca
+
+공유
+	공유/ncn
+
+면적이
+	면적/ncn+이/jcc
+
+넓다
+	넓/paa+다/ef
+
+.
+	./sf
+
+
+주상복합
+	주상/ncn+복합/ncpa
+
+아파트는
+	아파트/ncn+는/jxc
+
+일반
+	일반/ncn
+
+아파트에
+	아파트/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+공유
+	공유/ncn
+
+면적이
+	면적/ncn+이/jcc
+
+넓어
+	넓/paa+어/ecx
+
+같은
+	같/paa+은/etm
+
+평형이라도
+	평형/ncpa+이/jp+라/ecs+도/jxc
+
+전용
+	전용/ncpa
+
+면적이
+	면적/ncn+이/jcc
+
+훨씬
+	훨씬/mag
+
+작다
+	작/paa+다/ef
+
+.
+	./sf
+
+
+실수요자에게
+	실수요자/ncn+에게/jca
+
+인기
+	인기/ncn
+
+높은
+	높/paa+은/etm
+
+24평형의
+	24평형/ncn+의/jcm
+
+경우
+	경우/ncn
+
+전용
+	전용/ncpa
+
+면적이
+	면적/ncn+이/jcc
+
+60제곱미터
+	60제곱미터/ncn
+
+이하의
+	이하/ncn+의/jcm
+
+국민주택에
+	국민주택/ncn+에/jca
+
+해당된다
+	해당/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+대부분
+	대부분/ncn
+
+평형표시
+	평형/ncpa+표시/ncn
+
+옆에
+	옆/ncn+에/jca
+
+59.
+	59./nnc
+
+99제곱미터의
+	99제곱미터/ncn+의/jcm
+
+면적을
+	면적/ncn+을/jco
+
+같이
+	같/paa+이/xsa
+
+적어
+	적/pvg+어/ecx
+
+놓는다
+	놓/px+는다/ef
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+간혹
+	간혹/mag
+
+60제곱미터를
+	60제곱미터/ncn+를/jco
+
+넘으면서
+	넘/pvg+으면서/ecc
+
+24평형으로
+	24평형/ncn+으로/jca
+
+표시된
+	표시/ncpa+되/xsvn+ㄴ/etm
+
+경우가
+	경우/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+경우
+	경우/ncn
+
+60~80제곱미터
+	60~80제곱미터/ncn
+
+이하에
+	이하/ncn+에/jca
+
+해당하는
+	해당/ncpa+하/xsva+는/etm
+
+평형으로
+	평형/ncpa+으로/jca
+
+분류되므로
+	분류/ncpa+되/xsvn+므로/ecs
+
+유의해야
+	유의/ncpa+하/xsva+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+즉
+	즉/mag
+
+평형과
+	평형/ncpa+과/jcj
+
+관련이
+	관련/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+바로
+	바로/mag
+
+이
+	이/mmd
+
+분양
+	분양/ncpa
+
+면적이다
+	면적/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+평
+	평/nbu
+
+-
+	-/sd
+
+평형
+	평형/ncpa
+
+구분하면
+	구분/ncpa+하/xsva+면/ecs
+
+부동산
+	부동산/ncn
+
+초단
+	초/nbu+이/jp+단/etm
+
+평
+	평/nbu
+
+과
+	과/ncn
+
+평형
+	평형/ncpa
+
+을
+	을/ncn
+
+구분할
+	구분/ncpa+하/xsva+ㄹ/etm
+
+줄
+	줄/nbn
+
+알면
+	알/pvg+면/ecs
+
+부동산
+	부동산/ncn
+
+투자
+	투/nbn+이/jp+자/ecc
+
+1단
+	1/nnc+단/nbu
+
+
+분양
+	분양/ncpa
+
+안내문에
+	안내문/ncn+에/jca
+
+반드시
+	반드시/mag
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+게
+	것/nbn+이/jcs
+
+평
+	평/nbu
+
+과
+	과/ncn
+
+평형
+	평형/ncpa
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+두
+	두/nnc
+
+개념을
+	개념/ncn+을/jco
+
+구분하지
+	구분/ncpa+하/xsva+지/ecx
+
+못하는
+	못하/px+는/etm
+
+사람이
+	사람/ncn+이/jcc
+
+의외로
+	의외/ncn+로/jca
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+그러고도
+	그러/pvd+어/ef+고/jcr+도/jxc
+
+로열층을
+	로열/ncn+층/ncn+을/jco
+
+따지고
+	뜨/pvg+어/ecx+지/px+고/ecc
+
+프리미엄을
+	프리미엄/ncn+을/jco
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+천자문도
+	천자/ncn+문/ncn+도/jxc
+
+못
+	못/mag
+
+떼고
+	떼/pvg+고/ecc
+
+한시
+	한/nnc+시/nbu
+
+지으려는
+	지/px+려는/etm
+
+격이다
+	격/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+평(
+	평(/ncn
+
+)이란
+	)/sr+이란/jxc
+
+가로
+	가로/mag
+
+세로
+	세/nnc+로/jca
+
+여섯
+	여섯/nnc
+
+자(
+	자(/ncn
+
+)의
+	)/sr+의/jcm
+
+면적으로
+	면적/ncn+으로/jca
+
+1평은
+	1/nnc+평/nbu+은/jxc
+
+3.
+	3./nnc
+
+3058m
+	3058m/ncn
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+평형(
+	평형(/ncn
+
+)
+	)/sr
+
+은
+	은/ncn
+
+뜻은
+	뜻/ncn+은/jxc
+
+평과
+	평/nbu+과/jct
+
+같지만
+	같/paa+지만/ecs
+
+쓰이는
+	쓰이/pvg+는/etm
+
+문맥이
+	문맥/ncn+이/jcc
+
+다르다
+	다르/paa+다/ef
+
+.
+	./sf
+
+
+둘을
+	둘/nnc+을/jco
+
+가려
+	가리/pvg+어/ecx
+
+쓰려면
+	쓰/pvg+려면/ecs
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+면적
+	면적/ncn
+
+개념부터
+	개념/ncn+부터/jxc
+
+알아야
+	알/pvg+아/ecx
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+먼저,
+	먼저,/ncn
+
+전용면적
+	전용/ncpa+면적/ncn
+
+이라는
+	이르/paa+어/ef+는/etm
+
+게
+	것/nbn+이/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+현관,
+	현관/ncn+,/sp
+
+방,
+	방/ncn+,/sp
+
+거실,
+	거실/ncn+,/sp
+
+부엌
+	부엌/ncn
+
+등
+	등/nbu
+
+나만이
+	나/npp+만이/jcs
+
+쓸
+	쓰/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+집안
+	집안/ncn
+
+공간을
+	공간/ncn+을/jco
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+전용면적은
+	전용/ncpa+면적/ncn+은/jxc
+
+평(수)으로
+	평(수)/ncn+으로/jca
+
+잰다
+	재/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+계단,
+	계단/ncn+,/sp
+
+복도,
+	복도/ncpa+,/sp
+
+각
+	각/mma
+
+동(
+	동(/ncn
+
+)의
+	)/sr+의/jcm
+
+현관
+	현관/ncn
+
+등
+	등/nbu
+
+집을
+	집/ncn+을/jco
+
+드나들
+	드나들/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+반드시
+	반드시/mag
+
+거치게
+	거치/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+공용공간을
+	공용/ncpa+공간/ncn+을/jco
+
+공용면적
+	공용/ncpa+면적/ncn
+
+또는
+	또는/maj
+
+주거공용면적
+	주거/ncpa+공용/ncpa+면적/ncn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+둘을
+	둘/nnc+을/jco
+
+합친
+	합치/pvg+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+분양면적
+	분양/ncpa+면적/ncn
+
+또는
+	또는/maj
+
+공급면적
+	공급면적/ncn
+
+이며,
+	이/npd+이/jp+며/ecc+,/sp
+
+그
+	그/mmd
+
+척도가
+	척도/ncn+가/jcs
+
+평형
+	평형/ncpa
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+평형이
+	평형/ncpa+이/jcc
+
+같더라도
+	같/paa+더라도/ecs
+
+설계를
+	설계/ncpa+를/jco
+
+잘해
+	잘하/pvg+어/ecx
+
+공용면적의
+	공용/ncpa+면적/ncn+의/jcm
+
+비율이
+	비율/ncn+이/jcc
+
+줄면
+	줄/pvg+면/ecs
+
+나만의
+	나/npp+만의/jcm
+
+공간이
+	공간/ncn+이/jcc
+
+넓어진다
+	넓/paa+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+오피스텔의
+	오피스텔/ncn+의/jcm
+
+분양면적에는
+	분양/ncpa+면적/ncn+에/jca+는/jxc
+
+대개
+	대개/mag
+
+주차장
+	주차장/ncn
+
+면적이
+	면적/ncn+이/jcc
+
+포함된다
+	포함/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+관련
+	관련/ncn
+
+규정이
+	규정/ncn+이/jcc
+
+아파트처럼
+	아파트/ncn+처럼/jca
+
+엄격하지
+	엄격/ncps+하/xsms+지/ecx
+
+않은
+	않/px+은/etm
+
+점을
+	점/nbu+을/jco
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+공급업체들이
+	공급업체/ncn+들/ncn+이/jcc
+
+오피스텔을
+	오피스텔/ncn+을/jco
+
+넓게
+	넓/paa+게/ecs
+
+보이도록
+	보이/pvg+도록/ecs
+
+하려고
+	하/pvg+려고/ecs
+
+그렇게
+	그렇/pad+게/ecs
+
+계산한다
+	계산/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+이달
+	이/nnc+달/nbu
+
+초
+	초/nbu
+
+서울
+	서울/ncn
+
+용산구에서
+	용산구/ncn+에서/jca
+
+분양되는
+	분양/ncpa+되/xsvn+는/etm
+
+시티파크의
+	시티/ncn+파크/ncn+의/jcm
+
+경우
+	경우/ncn
+
+업체가
+	업체/ncn+가/jcs
+
+내세우는
+	내세우/pvg+는/etm
+
+평당
+	평당/ncn
+
+분양가는
+	분양가/ncn+는/jxc
+
+600만원선
+	600/nnc+만/nnc+원/nbu+선/jxc
+
+.
+	./sf
+
+
+하지만
+	하지만/maj
+
+아파트
+	아파트/ncn
+
+식으로
+	식/nbn+으로/jca
+
+주차장
+	주차장/ncn
+
+면적을
+	면적/ncn+을/jco
+
+제외하고
+	제외/ncpa+하고/jct
+
+따지면
+	뜨/pvg+어/ecx+지/px+면/ecs
+
+평당
+	평당/ncn
+
+1100만원선이다
+	1100만원선/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+오피스텔의
+	오피스텔/ncn+의/jcm
+
+전용률(분양면적에서
+	전용률(분양면적/ncn+에서/jca
+
+전용면적이
+	전용/ncpa+면적/ncn+이/jcc
+
+차지하는
+	차/pvg+지/ecx+하/px+는/etm
+
+비율)이
+	비율/ncn+)/sr+이/jcc
+
+45
+	45/nnc
+
+60%로
+	60/nnc+%/su+로/jca
+
+아파트(80
+	아파트(80/ncn
+
+85%)보다
+	85/nnc+%/su+)/sr+보다/jca
+
+낮은
+	낮/paa+은/etm
+
+것은
+	것/nbn+은/jxc
+
+이처럼
+	이처럼/mag
+
+분양면적
+	분양/ncpa+면적/ncn
+
+개념이
+	개념/ncn+이/jcc
+
+다르기
+	다르/paa+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+노인정
+	노인정/ncn
+
+관리사무소
+	관리사무소/ncn
+
+경비실
+	경비/ncn+이/jp+시/ep+ㄹ/etm
+
+등
+	등/nbu
+
+독립된
+	독립/ncpa+되/xsvn+ㄴ/etm
+
+주민공동시설
+	주민/ncn+공동/ncn+시설/ncpa
+
+공간은
+	공간/ncn+은/jxc
+
+기타면적
+	기타/ncn+면적/ncn
+
+또는
+	또는/maj
+
+기타공용면적
+	기타/ncn+공용/ncpa+면적/ncn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+아파트
+	아파트/ncn
+
+분양계약
+	분양/ncpa+계약/ncpa
+
+때
+	때/ncn
+
+쓰는
+	쓰/pvg+는/etm
+
+계약면적
+	계약/ncpa+면적/ncn
+
+은
+	은/ncn
+
+공급면적에
+	공급면적/ncn+에/jca
+
+기타면적과
+	기타/ncn+면적/ncn+과/jcj
+
+주차장면적
+	주차장/ncn+면적/ncn
+
+을
+	을/ncn
+
+더한
+	더하/paa+ㄴ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+주민공동시설이나
+	주민/ncn+공동/ncn+시설/ncpa+이나/jcj
+
+주차장은
+	주차장/ncn+은/jxc
+
+업체가
+	업체/ncn+가/jcs
+
+거저
+	거저/mag
+
+지어
+	지/px+어/ecx
+
+주는
+	주/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+아님을
+	아니/paa+ㅁ/etn+을/jco
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+발코니(베란다)처럼
+	발코니(베란다)/ncn+처럼/jca
+
+따로
+	따로/mag
+
+덧붙여주는
+	덧붙이/pvg+어/ecx+주/px+는/etm
+
+공간의
+	공간/ncn+의/jcm
+
+면적이
+	면적/ncn+이/jcc
+
+서비스면적
+	서비스/ncpa+면적/ncn
+
+이며
+	이/npd+이/jp+며/ecc
+
+전용면적과
+	전용/ncpa+면적/ncn+과/jcj
+
+서비스면적을
+	서비스/ncpa+면적/ncn+을/jco
+
+합쳐
+	합치/pvg+어/ecx
+
+내부면적
+	내부/ncn+면적/ncn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+내부면적이
+	내부/ncn+면적/ncn+이/jcc
+
+클수록
+	크/paa+ㄹ수록/ecs
+
+집이
+	집/ncn+이/jcc
+
+넓어
+	넓/paa+어/ecx
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+이상을
+	이상/ncn+을/jco
+
+요약하면
+	요약/ncpa+하/xsva+면/ecs
+
+다음과
+	다음/ncn+과/jct
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+아파트
+	아파트/ncn
+
+공급면적=전용면적
+	공급/ncpa+면/ncn+적/xsncc+=/sy+전용/ncpa+면적/ncn
+
+(주거)공용면적
+	(주거/ii+)/sr+공용/ncpa+면적/ncn
+
+아파트
+	아파트/ncn
+
+계약면적=공급면적
+	계약/ncpa+면/ncn+적/xsncc+=/sy+공급면적/ncn
+
+기타(공용)면적
+	기타(공용)면적/ncn
+
+주차장면적
+	주차장/ncn+면적/ncn
+
+오피스텔
+	오피스텔/ncn
+
+공급면적=전용면적
+	공급/ncpa+면/ncn+적/xsncc+=/sy+전용/ncpa+면적/ncn
+
+(주거)공용면적
+	(주거/ii+)/sr+공용/ncpa+면적/ncn
+
+주차장면적
+	주차장/ncn+면적/ncn
+
+내부면적=전용면적
+	내부/ncn+면/ncn+적/xsncc+=/sy+전용/ncpa+면적/ncn
+
+서비스면적
+	서비스/ncpa+면적/ncn
+
+
+이여사네
+	이/ncn+여사/ncr+네/jcm

@@ -1,0 +1,3701 @@
+순천만
+	순천만/ncn
+
+탐조선
+	탐조/ncpa+선/ncn
+
+-생태체험선
+	-/sd+생태/ncn+체험/ncpa+선/ncn
+
+선상투어
+	선상/ncn+투어/ncn
+
+체험
+	체험/ncpa
+
+/순천만자연생태공원
+	/순천만자연생태공원/ncn
+
+체험거리
+	체험/ncpa+거리/ncn
+
+
+순천만국제정원박람회를
+	순천만국제정원박람회/ncn+를/jco
+
+준비중인
+	준비/ncn+중/ncn+이/jp+ㄴ/etm
+
+순천으로의
+	순천으로/ncn+의/jcm
+
+1박2일여행
+	1박2일여행/ncn
+
+.
+	./sf
+
+
+순천만자연생태공원에서
+	순천만자연생태공원/ncn+에서/jca
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+체험거리
+	체험/ncpa+거리/ncn
+
+.
+	./sf
+
+
+용산전망대에서
+	용산전망대/ncn+에서/jca
+
+S자
+	S/f+자/ncn
+
+수로와
+	수로/ncn+와/jct
+
+함께
+	함께/mag
+
+낙조보기,
+	낙조/ncn+보/ncn+이/jp+기/etn+,/sp
+
+갈대열차타고
+	갈대/ncn+열차/ncn+타/ncn+이/jp+고/ecc
+
+순천만
+	순천만/ncn
+
+풍경
+	풍경/ncn
+
+감상하기,
+	감상/ncn+하기/ncn+,/sp
+
+2층버스로
+	2층버스/ncn+로/jca
+
+순천만의
+	순천만/ncn+의/jcm
+
+진가
+	지/px+ㄴ가/ef
+
+찾아가기,
+	찾/pvg+아/ecx+가/px+기/etn+,/sp
+
+천문대와
+	천문대/ncn+와/jcj
+
+자연생태관,
+	자연생태/ncn+관/ncn+,/sp
+
+순천만쉼터
+	순천만쉼터/ncn
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+하나더
+	하/pvg+어/ecx+나/px+더/ep+어/ecs
+
+순천만을
+	순천만/ncn+을/jco
+
+좀더
+	좀더/mag
+
+가까이
+	가까이/mag
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+생태체험선,
+	생태/ncn+체험/ncpa+선/ncn+,/sp
+
+탐조선
+	탐조/ncpa+선/ncn
+
+투어가
+	투어/ncn+가/jcs
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+순천만의
+	순천만/ncn+의/jcm
+
+수로를
+	수로/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+탐조선/선상투어
+	탐조/ncpa+선/jxc+//sp+선상/ncn+투어/ncn
+
+
+순천만자연생태공원
+	순천만자연생태공원/ncn
+
+입구에서
+	입구/ncn+에서/jca
+
+들어와
+	들/pvg+어/ecx+오/px+아/ecx
+
+갈대숲길을
+	갈대/ncn+숲길/ncn+을/jco
+
+걷는
+	걷/pvg+는/etm
+
+초입,
+	초입/ncpa+,/sp
+
+무진교
+	무진/ncn+교/ncn
+
+바로
+	바로/mag
+
+아래
+	아래/ncn
+
+매표소가
+	매표소/ncn+가/jcs
+
+위치하고
+	위치/ncn+하고/jct
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+승선장소도
+	승선/ncn+장소/ncn+도/jxc
+
+그곳입니다
+	그곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+왕복
+	왕복/ncpa
+
+6km가량의
+	6km가량/ncn+의/jcm
+
+대대포구에서
+	대대/ncn+포구/ncn+에서/jca
+
+S자
+	S/f+자/ncn
+
+갯골을
+	갯골/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+다시
+	다시/mag
+
+대대포구로
+	대대/ncn+포구/ncn+로/jca
+
+돌아오는
+	돌/pvg+아/ecx+오/px+는/etm
+
+코스입니다
+	코스/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+1일
+	1/nnc+일/nbu
+
+2대의
+	2/nnc+대/nbu+의/jcm
+
+배로
+	배/ncn+로/jca
+
+5~8회정도
+	5~8회정/ncn+도/jxc
+
+운행을
+	운행/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+승선요금은
+	승선/ncn+요금/ncn+은/jxc
+
+어른
+	어른/ncn
+
+4,000원,
+	4,000/nnc+원/nbu+,/sp
+
+청소년
+	청소년/ncn
+
+2,000원,
+	2,000/nnc+원/nbu+,/sp
+
+어린이
+	어린이/ncn
+
+1,500원이구요
+	1,500원이구요/ncn
+
+.
+	./sf
+
+
+매번
+	매번/mag
+
+매진을
+	매진/ncpa+을/jco
+
+하는
+	하/pvg+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+보아
+	보/pvg+아/ecx
+
+주말에는
+	주말/ncn+에/jca+는/jxc
+
+미리
+	미리/mag
+
+예약을
+	예약/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+순천만을
+	순천만/ncn+을/jco
+
+돌아보는
+	돌/pvg+아/ecx+보/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+나을듯
+	나/px+ㄹ/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이날
+	이/nnc+날/nbu
+
+우리
+	우리/npp
+
+일행도
+	일/nnc+행/nbu+도/jxc
+
+미리
+	미리/mag
+
+마지막
+	마지막/ncn
+
+시간대를
+	시간/ncn+대/ncn+를/jco
+
+예약을
+	예약/ncpa+을/jco
+
+해두고
+	하/pvg+어/ecx+두/px+고/ecc
+
+있었던
+	있/paa+었/ep+던/etm
+
+상태구요
+	상태구요/ncn
+
+.
+	./sf
+
+
+이전에
+	이전/ncn+에/jca
+
+순천만국제정원박람회
+	순천만국제정원박람회/ncn
+
+홍보관도
+	홍보관/ncr+도/jxc
+
+돌아보고
+	돌/pvg+아/ecx+보/px+고/ecc
+
+용산전망대까지
+	용산전망대까지/ncn
+
+올랐었습니다
+	오르/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+용산전망대에서
+	용산전망대/ncn+에서/jca
+
+푸른
+	푸르/paa+ㄴ/etm
+
+갈대군락와
+	갈대/ncn+군락/ncn+와/jcj
+
+순천만의
+	순천만/ncn+의/jcm
+
+아름다운에
+	아름다운/ncn+에/jca
+
+빠져서
+	빠지/pvg+어서/ecs
+
+시간가는줄
+	시간가는줄/ncn
+
+모르고
+	모르/pvg+고/ecc
+
+있었는데요
+	있/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그러다보니
+	그러/pvd+어다/ecx+보/px+니/ecs
+
+탐조선
+	탐조/ncpa+선/ncn
+
+투어
+	투/nbn+이/jp+어/ecs
+
+시간에
+	시간/nbu+에/jca
+
+촉박해져서
+	촉박/ncps+하/xsms+어/ecx+지/px+어서/ecs
+
+거의
+	거의/mag
+
+뛰다시피
+	뛰/pvg+다시피/ecs
+
+내려왔었던
+	내리/pvg+어/ecx+오/px+아/ep+던/etm
+
+날입니다
+	날/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+에코피아,
+	에코피아,/ncn
+
+나무로
+	나무/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+탐조선을
+	탐조/ncpa+선/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+해질녘
+	해질녘/ncn
+
+수로를
+	수로/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+천천히
+	천천히/mag
+
+달려가는
+	달리/pvg+어/ecx+가/px+는/etm
+
+생태체험은
+	생태/ncn+체험/ncpa+은/jxc
+
+특별한
+	특별/ncps+하/xsms+ㄴ/etm
+
+시간을
+	시간/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+주는데요
+	주/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+불그스럼
+	불그스럼/ncn
+
+물들어가는
+	물들/pvg+어/ecx+가/px+는/etm
+
+순천만의
+	순천만/ncn+의/jcm
+
+아름다운
+	아름답/paa+은/etm
+
+풍경과
+	풍경/ncn+과/jcj
+
+물속에서
+	물/ncn+속/xsnx+에서/jca
+
+팔닥이는
+	팔닥/ncn+이/jp+는/etm
+
+물고기들이
+	물고기/ncn+들/ncn+이/jcc
+
+반겨줍니다
+	반기/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+우아한
+	우아/ncn+한/ncn
+
+자태의
+	자태/ncn+의/jcm
+
+왜가리들은
+	왜가리들/ncn+은/jxc
+
+배가
+	배/ncn+가/jcs
+
+지나든말든
+	지나든말든/ncn
+
+그자리를
+	그자리/ncn+를/jco
+
+지키고
+	지키/pvg+고/ecc
+
+서
+	서/pvg+어/ecx
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+아스라하게
+	아스라하/paa+게/ecs
+
+펼쳐지는
+	펼치/pvg+어/ecx+지/px+는/etm
+
+섬그림자는
+	섬그림자/ncn+는/jxc
+
+한폭의
+	한/nnc+폭/nbu+의/jcm
+
+동양화
+	동양/ncn+화/ncn
+
+같은
+	같/paa+은/etm
+
+느낌을
+	느끼/pvg+ㅁ/etn+을/jco
+
+줍니다
+	주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+구불한
+	구불한/ncn
+
+물길을
+	물길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+함께
+	함께/mag
+
+가보시겠습니다
+	가/pvg+아/ecx+보/px+시겠/ep+습니다/ef
+
+.
+	./sf
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-마음이
+	여행/ncpa+이야기/ncpa+-/sd+마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+(여행일:
+	(/sl+여행/ncpa+이/jp+ㄹ/etm+:/sp
+
+2011.
+	2011./nnc
+
+08.
+	08./nnc
+
+27)
+	27/nnc+)/sr
+
+
+순천만자연생태공원
+	순천만자연생태공원/ncn
+
+매표소에서
+	매표소/ncn+에서/jca
+
+입장료
+	입장료/ncn
+
+내고
+	내/npp+이/jp+고/ecc
+
+일단
+	일단/mag
+
+안으로
+	안/ncn+으로/jca
+
+들어와야
+	들/pvg+어/ecx+오/px+아/ecx
+
+탐조선
+	탐조/ncpa+선/ncn
+
+투어를
+	투어/ncn+를/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+입구
+	입구/ncn
+
+출구가
+	출구/ncn+가/jcs
+
+생기면서
+	생기/pvg+면서/ecc
+
+빙둘러
+	빙둘러/ncn
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+좀
+	좀/mag
+
+번거롭긴
+	번거롭긴/ncn
+
+하지만
+	하/pvg+지만/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+들어가니
+	들/pvg+어/ecx+가/px+니/ecs
+
+잔디밭도
+	잔디밭/ncn+도/jxc
+
+보고
+	보/px+고/ecc
+
+시원하네요
+	시원/ncps+하/xsms+네/ef+요/jxf
+
+.
+	./sf
+
+
+앞으로
+	앞/ncn+으로/jca
+
+보이는
+	보이/pvg+는/etm
+
+건물이
+	건물/ncn+이/jcc
+
+생태관과
+	생태/ncn+관/ncn+과/jcj
+
+천문대가
+	천문대/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+건물입니다
+	건물/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+건물
+	건물/ncn
+
+앞을
+	앞/ncn+을/jco
+
+지나서
+	지나/pvg+아/ecx
+
+무진교까지
+	무진/ncn+교/ncn+까지/jxc
+
+걸어가셔야
+	걷/pvg+어/ecx+가/px+시/ep+어야/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+순천만자연생태공원
+	순천만자연생태공원/ncn
+
+관람시간은
+	관람/ncpa+시간/ncn+은/jxc
+
+09:00~
+	09/nnc+:/sp+00/nnc+~/sd
+
+22:00
+	22/nnc+:/sp+00/nnc
+
+매표시간은
+	매표/ncn+시간/ncn+은/jxc
+
+09:00~21:00시
+	09/nnc+:/sp+00/nnc+~/sd+21/nnc+:/sp+00/nnc+시/nbu
+
+까지구요
+	까지구요/ncn
+
+.
+	./sf
+
+
+매주
+	매주/mag
+
+월요일은
+	월요일/ncn+은/jxc
+
+공원
+	공원/ncn
+
+전체
+	전체/ncn
+
+휴관을
+	휴관/ncn+을/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+관람요금은
+	관람/ncpa+요금/ncn+은/jxc
+
+성인:
+	성/ncn+이/jp+ㄴ/etm+:/sp
+
+2,000원,
+	2,000/nnc+원/nbu+,/sp
+
+청소년
+	청소년/ncn
+
+군인
+	군/ncn+이/jp+ㄴ/etm
+
+1.
+	1./nnc
+
+500원,
+	500/nnc+원/nbu+,/sp
+
+어린이
+	어린이/ncn
+
+1.
+	1./nnc
+
+000원입니다
+	000/nnc+원/nbu+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+용산전망대를
+	용산전망대/ncn+를/jco
+
+먼저
+	먼저/mag
+
+들렀다
+	들르/pvg+었/ep+다/ef
+
+오는
+	오/px+는/etm
+
+길이라
+	길/ncn+이/jp+라/ecs
+
+사진은
+	사진/ncn+은/jxc
+
+무진교
+	무진/ncn+교/ncn
+
+위에서
+	위/ncn+에서/jca
+
+담았습니다
+	담/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+용산전망대까지
+	용산전망대까지/ncn
+
+왕복
+	왕복/ncpa
+
+1시간
+	1/nnc+시간/nbu
+
+30분여
+	30/nnc+분/nbu+여/xsnu
+
+.
+	./sf
+
+
+조금
+	조금/mag
+
+급하게
+	급하/paa+게/ecs
+
+움직여서
+	움직이/pvg+어서/ecs
+
+그보다
+	그/npp+보다/jca
+
+시간은
+	시간/nbu+은/jxc
+
+오래
+	오래/mag
+
+걸리진
+	걸리진/ncn
+
+않은거
+	않은거/ncn
+
+같은데
+	같/paa+은데/ecs
+
+
+용산전망대에서
+	용산전망대/ncn+에서/jca
+
+보는
+	보/px+는/etm
+
+순천만의
+	순천만/ncn+의/jcm
+
+모습에
+	모습/ncn+에/jca
+
+감탄하고
+	감탄/ncpa+하고/jct
+
+있다보니
+	있다보/ncn+이/jp+니/ecs
+
+내려가기
+	내리/pvg+어/ecx+가/px+기/etn
+
+싫더라구요
+	싫/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+이미
+	이미/mag
+
+예약된
+	예약/ncpa+되/xsvn+ㄴ/etm
+
+시간이
+	시간/ncn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+서둘러서
+	서두르/pvg+어서/ecs
+
+
+내려왔습니다
+	내리/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+급하다하면서도
+	급하/paa+어다/ecx+하/px+면서/ecs+도/jxc
+
+갈대숲길의
+	갈대/ncn+숲길/ncn+의/jcm
+
+멋진
+	멋지/paa+ㄴ/etm
+
+풍경앞에
+	풍경/ncn+앞/ncn+에/jca
+
+발걸음이
+	발걸음/ncn+이/jcc
+
+멈추는
+	멈추/pvg+는/etm
+
+건
+	거/nbn+은/jxc
+
+어쩔
+	어쩌/paa+ㄹ/etm
+
+수
+	수/nbn
+
+없었더라구요
+	없/paa+었/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+무진교
+	무진/ncn+교/ncn
+
+바로
+	바로/mag
+
+아래가
+	아래/ncn+가/jcs
+
+생태체험선
+	생태/ncn+체험/ncpa+선/ncn
+
+승선
+	승선/ncn
+
+장소입니다
+	장소/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+마지막
+	마지막/ncn
+
+시간대를
+	시간/ncn+대/ncn+를/jco
+
+예약해
+	예약/ncpa+하/xsva+어/ecx
+
+둔
+	두/pvg+ㄴ/etm
+
+상태였는데요
+	상태/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이미
+	이미/mag
+
+매진된
+	매진/ncpa+되/xsvn+ㄴ/etm
+
+상태
+	상태/ncn
+
+..
+	./sf+./sf
+
+
+전에도
+	전/nbn+에/jca+도/jxc
+
+한번
+	한/nnc+번/nbu
+
+타본
+	타/pvg+아/ecx+보/px+ㄴ/etm
+
+적이
+	적/ncn+이/jcc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+늦가을이었을
+	늦가을/ncn+이/jp+었/ep+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+그때도
+	그때/ncn+도/jxc
+
+주말이라
+	주말/ncn+이/jp+라/ecs
+
+승선표가
+	승선/ncn+표/ncn+가/jcs
+
+매진되어서
+	매진/ncpa+되/xsvn+어서/ecs
+
+예약을
+	예약/ncpa+을/jco
+
+해야겠구나
+	하/px+어야겠/ep+구나/ef
+
+싶었는데
+	싶/px+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+역시나
+	역시/mag+나/jxc
+
+오늘도
+	오늘/ncn+도/jxc
+
+매진입니다
+	매진/ncpa+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+운항시간표와
+	운항/ncn+시간표/ncn+와/jcj
+
+요금이
+	요금/ncn+이/jcc
+
+매표소에
+	매표소/ncn+에/jca
+
+있으니
+	있/px+으니/ecs
+
+확인하시고
+	확인/ncpa+하시/ncn+이/jp+고/ecc
+
+미리
+	미리/mag
+
+예약하시는
+	예약/ncpa+하시/ncn+는/jxc
+
+것이
+	것/nbn+이/jcc
+
+좋을듯
+	좋/paa+을/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+서둘러
+	서두르/pvg+어/ecx
+
+왔더니
+	오/px+아/ep+니/ecs
+
+그래도
+	그래도/maj
+
+조금
+	조금/mag
+
+여유가
+	여유/ncn+가/jcs
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+지금
+	지금/mag
+
+나가는
+	나/pvg+아/ecx+가/px+는/etm
+
+배는
+	배/ncn+는/jxc
+
+우리
+	우리/npp
+
+앞
+	앞/ncn
+
+시간대에
+	시간/ncn+대/ncn+에/jca
+
+출발하는
+	출발/ncpa+하/xsva+는/etm
+
+배더라구요
+	배/ncn+이/jp+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+먼저
+	먼저/mag
+
+나가있는
+	나가/pvg+아/ecx+있/px+는/etm
+
+목선이
+	목선/ncn+이/jcc
+
+들어오면
+	들/pvg+어/ecx+오/px+면/ecs
+
+그걸
+	그걸/ncn
+
+타고
+	타/pvg+고/ecc
+
+우리가
+	우리/npp+가/jcs
+
+나갈
+	나/pvg+아/ecx+가/px+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+두대가
+	두/nnc+대/nbu+가/jcc
+
+번갈아
+	번갈아/mag
+
+가면서
+	가/px+면서/ecc
+
+운항을
+	운항/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+배모양은
+	배모양/ncn+은/jxc
+
+좀
+	좀/mag
+
+다르지만
+	다르/paa+지/ecx+말/px+ㄴ/etm
+
+그곳에서
+	그곳/ncn+에서/jca
+
+보는
+	보/px+는/etm
+
+순천만의
+	순천만/ncn+의/jcm
+
+모습은
+	모습/ncn+은/jxc
+
+다르지
+	다르/paa+지/ecx
+
+않을
+	않/px+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+이
+	이/mmd
+
+배가
+	배/ncn+가/jcs
+
+우리가
+	우리/npp+가/jcs
+
+타고갈
+	타/pvg+고/ecx+가/px+ㄹ/etm
+
+에코피아입니다
+	에코피아입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+타면서
+	타/pvg+면서/ecc
+
+급하게
+	급하/paa+게/ecs
+
+탔더니
+	트/pvg+었/ep+더니/ecs
+
+좀
+	좀/mag
+
+흔들렸네요
+	흔들리/pvg+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+선장님이
+	선장/ncr+님/ncn+이/jcc
+
+자리를
+	자리/ncn+를/jco
+
+잡고
+	잡/pvg+고/ecc
+
+계시구요
+	계시구요/ncn
+
+.
+	./sf
+
+
+승선하는
+	승선하/ncn+는/jxc
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+속속
+	속속/mag
+
+배안으로
+	배안/ncpa+으로/jca
+
+들어갑니다
+	들/pvg+어/ecx+가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+에코피아에
+	에코피아/ncn+에/jca
+
+오르면
+	오르/pvg+면/ecs
+
+출발하면서
+	출발/ncpa+하/xsva+면서/ecc
+
+라디오처럼
+	라디오/ncn+처럼/jca
+
+생긴걸
+	생긴걸/ncn
+
+하나씩
+	하나씩/ncn
+
+나눠주십니다
+	나누/pvg+어/ecx+주/px+시/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+박물관에서
+	박물관/ncn+에서/jca
+
+보는
+	보/px+는/etm
+
+거랑
+	거랑/ncn
+
+비슷한가요
+	비슷/ncps+하/xsms+ㄴ가/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+설명을
+	설명/ncpa+을/jco
+
+해주시는
+	하/pvg+어/ecx+주/px+시/ep+는/etm
+
+해설사님과
+	해설사님/ncn+과/jcj
+
+배안에
+	배안/ncpa+에/jca
+
+흩어진
+	흩/pvg+어/ecx+지/px+ㄴ/etm
+
+승선객들
+	승선/ncn+객/ncn+들/xsncc
+
+..
+	./sf+./sf
+
+
+해설사님의
+	해설사님/ncn+의/jcm
+
+설명을
+	설명/ncpa+을/jco
+
+잘
+	잘/mag
+
+들으려면
+	들/pvg+려면/ecs
+
+
+어려움이
+	어려움/ncn+이/jcc
+
+있을텐데요
+	있/px+을텐데/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+이어폰을
+	이어폰/ncn+을/jco
+
+하나씩
+	하나씩/ncn
+
+꽂고
+	꽂/pvg+고/ecc
+
+ON을
+	ON/f+을/jco
+
+해두면
+	하/pvg+어/ecx+두/px+면/ecs
+
+설명이
+	설명/ncpa+이/jcc
+
+아주
+	아주/mag
+
+잘
+	잘/mag
+
+들려요
+	들리/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+순천만에
+	순천만/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+이야기는
+	이야기/ncpa+는/jxc
+
+귀에
+	귀/ncn+에/jca
+
+생생하게
+	생생하/paa+게/ecs
+
+들리고
+	들리/pvg+고/ecc
+
+눈은
+	눈/ncn+은/jxc
+
+순천만을
+	순천만/ncn+을/jco
+
+향해
+	향하/pvg+어/ecx
+
+있으니
+	있/px+으니/ecs
+
+더욱
+	더욱/mag
+
+가깝게
+	가깝/paa+게/ecs
+
+느껴집니다
+	느끼/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+조금씩
+	조금씩/ncn
+
+기울어가는
+	기울/pvg+어/ecx+가/px+는/etm
+
+해는
+	해/nbu+는/jxc
+
+붉은
+	붉/paa+은/etm
+
+기운을
+	기운/ncn+을/jco
+
+보이기도
+	보이/pvg+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+다시
+	다시/mag
+
+흐려지기도
+	흐리/pvg+어/ecx+지/px+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+오늘
+	오늘/ncn
+
+낙조는
+	낙조/ncn+는/jxc
+
+기대를
+	기대/ncpa+를/jco
+
+하지
+	하/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+더
+	더/mag
+
+낫겠다
+	낫/paa+겠/ep+다/ef
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+가끔씩
+	가끔씩/mag
+
+보여주는
+	보이/pvg+어/ecx+주/px+는/etm
+
+구름사이로
+	구름/ncn+사이/ncn+로/jca
+
+비친
+	비치/pvg+ㄴ/etm
+
+햇살이
+	햇살/ncn+이/jcc
+
+그나마
+	그나마/mag
+
+위안이
+	위안/ncpa+이/jcc
+
+되는
+	되/pvg+는/etm
+
+저녁이예요
+	저녁/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+탁한
+	탁하/paa+ㄴ/etm
+
+순천만의
+	순천만/ncn+의/jcm
+
+갯골사이로
+	갯골사이/ncn+로/jca
+
+하루해가
+	하루/ncn+해/ncn+가/jcs
+
+어둑하게
+	어둑하/paa+게/ecs
+
+내려
+	내리/pvg+어/ecx
+
+앉습니다
+	앉/pvg+습니다/ef
+
+.
+	./sf
+
+
+마음까지
+	마음/ncn+까지/jxc
+
+가라앉게
+	가라앉/pvg+게/ecs
+
+하는
+	하/pvg+는/etm
+
+이
+	이/mmd
+
+시간대에
+	시간/ncn+대/ncn+에/jca
+
+갯내음
+	갯내음/ncn
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+바람을
+	바람/ncn+을/jco
+
+온몸으로
+	온몸/ncn+으로/jca
+
+맞으면서
+	맞/pvg+으면서/ecc
+
+달려가봅니다
+	달리/pvg+어/ecx+가/px+아/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+순천만의
+	순천만/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+보려는
+	보/px+려는/etm
+
+마음으로
+	마음/ncn+으로/jca
+
+선실에
+	선실/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+있는
+	있/px+는/etm
+
+분은
+	분/nbu+은/jxc
+
+한분도
+	한/nnc+분/nbu+도/jxc
+
+없었습니다
+	없/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+내부는
+	내부/ncn+는/jxc
+
+텅비어있구요
+	텅비어있구요/ncn
+
+.
+	./sf
+
+
+배가장자리에
+	배가/ncpa+장자/ncn+리/ncn+에/jca
+
+모두들
+	모두/ncn+들/ncn
+
+자리를
+	자리/ncn+를/jco
+
+잡고
+	잡/pvg+고/ecc
+
+순천만의
+	순천만/ncn+의/jcm
+
+자연과
+	자연/ncn+과/jcj
+
+생명들과
+	생명/ncn+들/ncn+과/jct
+
+더
+	더/mag
+
+가까이
+	가까이/mag
+
+하고
+	하/pvg+고/ecc
+
+싶어합니다
+	싶/px+어/ecx+하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+추운
+	춥/paa+은/etm
+
+날이었다면
+	날/ncn+이/jp+었/ep+다면/ecs
+
+아마도
+	아마/mag+도/jxc
+
+일부는
+	일/nnc+부/nbu+는/jxc
+
+내부에서
+	내부/ncn+에서/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+분들도
+	불/pvg+ㄴ/etm+들/nbn+도/jxc
+
+있었을듯
+	있/px+었/ep+을/etm+듯/nbs
+
+한데요
+	한데/ncn+요/ncn
+
+.
+	./sf
+
+
+여름날
+	여름/ncn+날/ncn
+
+저녁무렵이라
+	저녁무렵/ncn+이/jp+라/ecs
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+공기가
+	공기/ncn+가/jcs
+
+더
+	더/mag
+
+그리운
+	그립/paa+은/etm
+
+때.
+	때/nbn+./sf
+
+
+저도
+	저/npp+도/jxc
+
+비릿한
+	비릿/ncps+하/xsms+ㄴ/etm
+
+물냄새
+	물냄새/ncn
+
+새소리
+	새소리/ncn
+
+들으려
+	들/pvg+려/ecx
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+밖에
+	밖/ncn+에/jca
+
+서
+	서/pvg+어/ecx
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+갈대숲을
+	갈대/ncn+숲/ncn+을/jco
+
+걷는
+	걷/pvg+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+조그마하게
+	조그마하/paa+게/ecs
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+지금
+	지금/mag
+
+바삐
+	바삐/mag
+
+걸음을
+	걸/pvg+ㅁ/etn+을/jco
+
+재촉하는
+	재촉/ncpa+하/xsva+는/etm
+
+건
+	거/nbn+은/jxc
+
+용산전망대에서
+	용산전망대/ncn+에서/jca
+
+낙조를
+	낙조/ncn+를/jco
+
+보기
+	보/px+기/etn
+
+위함일
+	위하/pvg+ㅁ/etn+이/jp+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+붉어야할
+	붉/paa+어야/ecx+하/px+ㄹ/etm
+
+서쪽하늘은
+	서쪽/ncn+하늘/ncn+은/jxc
+
+구름에
+	구름/ncn+에/jca
+
+뒤덮혀
+	뒤덮히/pvg+어/ecx
+
+무겁기만
+	무겁/paa+기/etn+만/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+뱃머리쪽과
+	뱃머리/ncn+쪽/ncn+과/jcj
+
+가장자리
+	가장/ncn+자리/ncn
+
+주변으로
+	주변/ncn+으로/jca
+
+일행분들이
+	일행/ncn+분/ncn+들/xsncc+이/jcc
+
+주욱
+	주욱/ncn
+
+늘어섰습니다
+	늘어서/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+어디가
+	어디/npd+가/jcc
+
+좀더
+	좀더/mag
+
+아름다운
+	아름답/paa+은/etm
+
+모습을
+	모습/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있으려나
+	있/px+으려/ecs+나/jxc
+
+..
+	./sf+./sf
+
+
+하면서
+	하/pvg+면서/ecc
+
+말이지요
+	말/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+귀에서는
+	귀/ncn+에서/jca+는/jxc
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+순천만의
+	순천만/ncn+의/jcm
+
+이곳저곳을
+	이곳저곳/npd+을/jco
+
+알려주시는
+	알리/pvg+어/ecx+주/px+시/ep+는/etm
+
+해설사님의
+	해설사님/ncn+의/jcm
+
+
+목소리가
+	목소리/ncn+가/jcs
+
+들립니다
+	들리/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+잔잔한
+	잔잔/ncn+한/ncn
+
+물길을
+	물길/ncn+을/jco
+
+따라가다보면
+	따르/pvg+아/ecx+가/px+아/ecx+보/px+면/ecs
+
+수면으로
+	수면/ncn+으로/jca
+
+팔닥이는
+	팔닥/ncn+이/jp+는/etm
+
+물고기를
+	물고기/ncn+를/jco
+
+보고는
+	보/px+고/ecs+는/jxc
+
+깜짝
+	깜짝/mag
+
+놀라게됩니다
+	놀라/pvg+게/ecx+되/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아무것도
+	아무것/npd+도/jxc
+
+없는줄
+	없/paa+는/etm+줄/nbn
+
+알고
+	알/pvg+고/ecx
+
+멍하니
+	멍하/paa+니/ecs
+
+바라보고
+	바라/pvg+아/ecx+보/px+고/ecc
+
+있다가
+	있/px+다가/ecs
+
+커다란
+	커다랗/paa+은/etm
+
+물고기가
+	물고기/ncn+가/jcs
+
+튀어
+	튀/pvg+어/ecx
+
+올라서
+	오르/pvg+아/ecx
+
+얼마나
+	얼마나/mag
+
+놀랐던지
+	놀라/pvg+아/ep+ㄴ지/ecs
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+물속에서
+	물/ncn+속/xsnx+에서/jca
+
+수영하지
+	수영/ncpa+하/xsva+지/ecx
+
+않고
+	않/px+고/ecc
+
+뛰어
+	뛰/pvg+어/ecx
+
+오르는
+	오르/pvg+는/etm
+
+건
+	거/nbn+은/jxc
+
+왜그런가요
+	왜그런가요/ncn
+
+.
+	./sf
+
+
+공기가
+	공기/ncn+가/jcs
+
+마시고
+	마시/pvg+고/ecc
+
+싶은건지
+	싶/px+은/etm+것/nbn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+아니면
+	아니/paa+면/ecs
+
+먹잇감을
+	먹잇감/ncn+을/jco
+
+찾아서
+	찾/pvg+아/ecx
+
+올라온
+	오르/pvg+아/ecx+오/px+ㄴ/etm
+
+건지
+	것/nbn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+뜰채만
+	뜨/pvg+ㄹ/etm+채/nbn+만/jxc
+
+있으면
+	있/px+으면/ecs
+
+고기한마리
+	고기/ncn+한마/ncn+이/jp+리/ef
+
+잡는거
+	잡는거/ncn
+
+어렵지
+	어렵/paa+지/ecx
+
+않을거
+	않을거/ncn
+
+같던데요
+	같던데요/ncn
+
+.
+	./sf
+
+
+생명들이
+	생명/ncn+들/ncn+이/jcc
+
+살기
+	살/pvg+기/etn
+
+좋은
+	좋/paa+은/etm
+
+곳이라
+	곳/ncn+이/jp+라/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+자유로움이
+	자유로/ncn+움/ncn+이/jcc
+
+넘치나
+	넘치/pvg+나/ecs
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+내려앉을
+	내려앉/pvg+을/etm
+
+듯,
+	듯/nbs+,/sp
+
+수면에
+	수면/ncn+에/jca
+
+닿을
+	닿/pvg+을/etm
+
+듯
+	듯/nbn
+
+날아오르는
+	날아오르/ncn+는/jxc
+
+새도
+	새/ncn+도/jxc
+
+보이구요
+	보이구요/ncn
+
+.
+	./sf
+
+
+잠시
+	잠시/mag
+
+구름뒤에서
+	구름/ncn+뒤/ncn+에서/jca
+
+빠져나온
+	빠지/pvg+어/ecx+나/px+아/ecx+오/px+ㄴ/etm
+
+태양은
+	태양/ncn+은/jxc
+
+주변을
+	주변/ncn+을/jco
+
+황금빛으로
+	황금빛/ncn+으로/jca
+
+물들입니다
+	물들이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+겨울의
+	겨울/ncn+의/jcm
+
+순천만이라면
+	순천만이라/ncn+이/jp+면/ecs
+
+철새들의
+	철새/ncn+들/ncn+의/jcm
+
+비상에
+	비상/ncn+에/jca
+
+감탄을
+	감탄/ncpa+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+탐조선에서
+	탐조/ncpa+선/ncn+에서/jca
+
+시간을
+	시간/ncn+을/jco
+
+보냈을텐데요
+	보내/pvg+었/ep+을텐데/ef+요/jxf
+
+.
+	./sf
+
+
+여름날은
+	여름/ncn+날/ncn+은/jxc
+
+조금
+	조금/mag
+
+밋밋하긴
+	밋밋하긴/ncn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+지금은
+	지금/ncn+은/jxc
+
+한켠으로
+	하/pvg+ㄴ/etm+켠/nbn+으로/jca
+
+보이는
+	보이/pvg+는/etm
+
+붉은
+	붉/paa+은/etm
+
+칠면초군락이
+	칠면초군락/ncn+이/jcc
+
+볼만한데요
+	볼만한데요/ncn
+
+.
+	./sf
+
+
+칠면초는
+	칠/nnc+면/nbu+초/xsnu+는/jxc
+
+한국
+	한국/ncn
+
+일본의
+	일/nnc+본/nbu+의/jcm
+
+바닷가에서
+	바닷가/ncn+에서/jca
+
+서식하는
+	서식/ncpa+하/xsva+는/etm
+
+한해살이풀로
+	한해살이풀/ncn+로/jca
+
+높이는
+	높이/pvg+는/etm
+
+15~50cm정도
+	15~50cm정/ncn+도/jxc
+
+된다고
+	되/pvg+ㄴ다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+늦가을에
+	늦가을/ncn+에/jca
+
+찾았을때는
+	찾/pvg+아/ep+ㄹ/etm+때/nbn+는/jxc
+
+붉은빛이
+	붉은빛/ncn+이/jcc
+
+없어서
+	없/paa+어서/ecs
+
+몰랐는데요
+	모르/pvg+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+칠면초가
+	칠/nnc+면/nbu+초/xsnu+가/jcc
+
+처음에는
+	처음/ncn+에/jca+는/jxc
+
+녹색이었다가
+	녹색/ncn+이/jp+었/ep+다가/ecs
+
+자색으로
+	자색/ncn+으로/jca
+
+변해서
+	변하/pvg+어서/ecs
+
+8~9월에
+	8/nnc+~/sd+9/nnc+월/nbu+에/jca
+
+녹색꽃을
+	녹색/ncn+꽃/ncn+을/jco
+
+피운다고
+	피우/pvg+ㄴ다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+10월까지
+	10/nnc+월/nbu+까지/jxc
+
+가장
+	가장/mag
+
+붉은
+	붉/paa+은/etm
+
+빛을
+	빛/ncn+을/jco
+
+띠다가
+	띠/pvg+다가/ecs
+
+마른다고
+	마르/pvg+ㄴ다/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+붉은
+	붉/paa+은/etm
+
+빛이
+	빛/ncn+이/jcc
+
+절정일때
+	절정/ncn+이/jp+ㄹ/etm+때/nbn
+
+철새들이
+	철새/ncn+들/ncn+이/jcc
+
+무리지어
+	무리지/ncn+이/jp+어/ecs
+
+날아오르는
+	날아오르/ncn+는/jxc
+
+
+장면은
+	장면/ncn+은/jxc
+
+상상만
+	상상/ncn+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+장관일
+	장관/ncr+이/jp+ㄹ/etm
+
+거
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+용산전망대에서는
+	용산전망대에서/ncn+는/jxc
+
+붉은
+	붉/paa+은/etm
+
+빛이
+	빛/ncn+이/jcc
+
+잘
+	잘/mag
+
+보였는데
+	보이/pvg+었/ep+는데/ecs
+
+그나마
+	그나마/mag
+
+생태체험선을
+	생태/ncn+체험/ncpa+선/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+보면
+	보/px+면/ecs
+
+입구밖에
+	입구/ncn+밖에/jxc
+
+보이지
+	보이/ncn+이/jp+지/ecs
+
+
+않아서
+	않/px+아/ecx
+
+그것도
+	그것/npd+도/jxc
+
+아쉬운
+	아쉽/paa+은/etm
+
+점입니다
+	점/nbu+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+우리
+	우리/npp
+
+앞에
+	앞/ncn+에/jca
+
+나갔던
+	나/pvg+아/ecx+가/px+아/ep+ㄴ/etm
+
+배가
+	배/ncn+가/jcs
+
+돌아오고
+	돌/pvg+아/ecx+오/px+고/ecc
+
+있는
+	있/px+는/etm
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+배모양이
+	배모양/ncn+이/jcc
+
+달라서인지
+	달라/ncn+서/jca+이/jp+ㄴ지/ecs
+
+분위기도
+	분위기/ncn+도/jxc
+
+달라보이네요
+	다르/paa+아/ecx+보이/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+서로
+	서로/mag
+
+지나는
+	지나/pvg+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+보면서
+	보/px+면서/ecc
+
+손도
+	손/ncn+도/jxc
+
+흔들고
+	흔들/pvg+고/ecc
+
+...
+	.../se
+
+
+대자연에선
+	대자연/ncn+에선/jca
+
+모르는
+	모르/pvg+는/etm
+
+사람들도
+	사람들/ncn+도/jxc
+
+같은
+	같/paa+은/etm
+
+공간에
+	공간/ncn+에/jca
+
+있다는
+	있/px+다/ef+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+모두
+	모두/mag
+
+친구가
+	친구/ncn+가/jcs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+순천만의
+	순천만/ncn+의/jcm
+
+그
+	그/mmd
+
+붉은
+	붉/paa+은/etm
+
+낙조를
+	낙조/ncn+를/jco
+
+본
+	보/px+ㄴ/etm
+
+적이
+	적/ncn+이/jcc
+
+있기에
+	있/px+기/etn+에/jca
+
+이런
+	이런/mmd
+
+빛으로는
+	빛/ncn+으로/jca+는/jxc
+
+만족을
+	만족/ncn+을/jco
+
+못하겠네요
+	못하/px+겠/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+이날
+	이/nnc+날/nbu
+
+아름다운
+	아름답/paa+은/etm
+
+낙조를
+	낙조/ncn+를/jco
+
+기대하면서
+	기대/pvg+어/ecx+하/px+면서/ecc
+
+용산전망대로
+	용산전망대/ncn+로/jca
+
+무거운
+	무겁/paa+은/etm
+
+삼각대
+	삼각대/ncn
+
+매고
+	매/pvg+고/ecc
+
+오르신
+	오르/pvg+시/ep+ㄴ/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+많을텐데
+	많/paa+을텐데/ecs
+
+참
+	참/mag
+
+아쉬운
+	아쉽/paa+은/etm
+
+저녁입니다
+	저녁/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+저녁내내
+	저녁/ncn+내/ncn+내/xsncc
+
+이렇게
+	이렇/pad+게/ecs
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+잠시
+	잠시/mag
+
+나왔다
+	나오/pvg+아/ep+다/ef+./sf
+
+사라지기를
+	사라지/pvg+기/etn+를/jco
+
+반복하면서
+	반복/ncpa+하/xsva+면서/ecc
+
+그나마
+	그나마/mag
+
+붉은
+	붉/paa+은/etm
+
+기운은
+	기운/ncn+은/jxc
+
+이정도가
+	이정도/ncn+가/jcs
+
+아니었나
+	아니/paa+었/ep+나/ef
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+멀리
+	멀리/mag
+
+화포해변쪽
+	화포해변쪽/ncn
+
+방향도
+	방향/ncn+도/jxc
+
+아스라하니
+	아스라하/paa+니/ecs
+
+보이구요
+	보이구요/ncn
+
+.
+	./sf
+
+
+날씨가
+	날씨/ncn+가/jcs
+
+좋은
+	좋/paa+은/etm
+
+때면
+	때/nbn+이/jp+면/ecs
+
+고흥의
+	고흥/ncn+의/jcm
+
+팔영산
+	팔영산/ncn
+
+봉우리도
+	봉우리/ncn+도/jxc
+
+보인다고
+	보이/pvg+ㄴ다/ef+고/jcr
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+오늘은
+	오늘/ncn+은/jxc
+
+그렇게
+	그렇/pad+게/ecs
+
+시야가
+	시야/ncn+가/jcs
+
+좋은
+	좋/paa+은/etm
+
+편은
+	편/nbn+은/jxc
+
+아닙니다
+	아니/paa+ㅂ니다/ef+./sf
+
+.
+	./sf
+
+
+S자수로가
+	S/f+자수/ncn+로/jca+가/jcc
+
+끝나는
+	끝나/pvg+는/etm
+
+즈음에서
+	즈음/ncpa+에서/jca
+
+다시
+	다시/mag
+
+뱃머리는
+	뱃머리/ncn+는/jxc
+
+돌아섭니다
+	돌아서/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+바다로
+	바다/ncn+로/jca
+
+나가고
+	나/pvg+아/ecx+가/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+마음이야
+	마음/ncn+이야/jxc
+
+목선이나
+	목선/ncn+이나/jcj
+
+우리가
+	우리/npp+가/jcs
+
+마찬가지이겠지만
+	마찬가지/ncn+이/jp+겠/ep+지만/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+순천만의
+	순천만/ncn+의/jcm
+
+가슴속까지
+	가슴/ncn+속/ncn+까지/jxc
+
+들어와본
+	들/pvg+어/ecx+오/px+아/ecx+보/px+ㄴ/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+만족하고
+	만족/ncn+하고/jct
+
+돌아서는
+	돌/pvg+아/ecs
+
+길.
+	길/paa+ㄹ/etm+./sf
+
+.
+	./sf
+
+
+용산전망대를
+	용산전망대/ncn+를/jco
+
+바라보니
+	바라/pvg+아/ecx+보/px+니/ecs
+
+빼곡하게
+	빼곡하/ncn+이/jp+게/ecs
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+둘러서
+	두르/pvg+어서/ecs
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+낙조를
+	낙조/ncn+를/jco
+
+담으려고
+	담/pvg+으려고/ecs
+
+한참이나
+	한참/ncn+이나/jcj
+
+기다렸던
+	기다리/pvg+었/ep+던/etm
+
+분들일
+	불/pvg+ㄴ/etm+들/nbn+이/jp+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+날씨가
+	날씨/ncn+가/jcs
+
+흐리다는걸
+	흐리다는걸/ncn
+
+알면서도
+	알/pvg+면서/ecs+도/jxc
+
+한순간을
+	한순간/ncn+을/jco
+
+위해서
+	위하/pvg+어서/ecs
+
+끝내
+	끝내/pvg+어/ecx
+
+발길이
+	발길/ncn+이/jcc
+
+돌아서지
+	돌아서/pvg+지/ecx
+
+않을
+	않/px+을/etm
+
+그
+	그/mmd
+
+맘이
+	말/px+ㅁ/etn+이/jcs
+
+이해가
+	이/nnc+해/nbu+가/jcc
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+혹여나
+	혹여/mag+나/jxc
+
+우리가
+	우리/npp+가/jcs
+
+보일까
+	보이/pvg+ㄹ까/ecs
+
+팔을
+	팔/ncn+을/jco
+
+들어
+	들/pvg+어/ecx
+
+손흔들어
+	손흔들어/ncn
+
+보았는데요
+	보/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+무덤덤
+	무덤/ncn+덤/ncn
+
+..
+	./sf+./sf
+
+
+그
+	그/mmd
+
+중
+	중/nbn
+
+몇분이
+	몇/nnc+분/nbu+이/jcc
+
+손을
+	손/ncn+을/jco
+
+흔들어
+	흔들/pvg+어/ecx
+
+주어서
+	주/px+어서/ecs
+
+무척이나
+	무척/mag+이나/jxc
+
+반가웠어요
+	반갑/paa+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+이렇게
+	이렇/pad+게/ecs
+
+순천만을
+	순천만/ncn+을/jco
+
+휘익
+	휘익/mag
+
+돌아보는
+	돌/pvg+아/ecx+보/px+는/etm
+
+생태체험선
+	생태/ncn+체험/ncpa+선/ncn
+
+투어는
+	투어/ncn+는/jxc
+
+마무리
+	마무리/ncpa
+
+되었습니다
+	되/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+가을이라면
+	가을/ncn+이/jp+라면/ecs
+
+은빛
+	은빛/ncn
+
+갈대숲이
+	갈대/ncn+숲/ncn+이/jcc
+
+펼쳐지고
+	펼치/pvg+어/ecx+지/px+고/ecc
+
+부드러운
+	부드럽/paa+은/etm
+
+곡선이
+	곡선/ncn+이/jcc
+
+매력인
+	매력/ncn+이/jp+ㄴ/etm
+
+수로를
+	수로/ncn+를/jco
+
+따라가면서
+	따르/pvg+아/ecx+가/px+면서/ecc
+
+보는
+	보/px+는/etm
+
+아름다움도
+	아름다움/ncn+도/jxc
+
+좋을테구요
+	좋을테구요/ncn
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+여름날에
+	여름/ncn+날/ncn+에/jca
+
+탐조선을
+	탐조/ncpa+선/ncn+을/jco
+
+타게
+	타/pvg+게/ecs
+
+되면
+	되/pvg+면/ecs
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+바람에
+	바라/pvg+ㅁ/etn+에/jca
+
+갯내음이
+	갯내음/ncn+이/jcc
+
+가득
+	가득/mag
+
+...
+	.../se
+
+
+그
+	그/mmd
+
+안에
+	안/ncn+에/jca
+
+품은
+	풀/pvg+ㅁ/etn+은/jxc
+
+바다냄새에
+	바다/ncn+냄새/ncn+에/jca
+
+마음도
+	마음/ncn+도/jxc
+
+설렙니다
+	설레/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+초록으로
+	초록/ncn+으로/jca
+
+넘실대는
+	넘실대/pvg+는/etm
+
+갈대숲은
+	갈대/ncn+숲/ncn+은/jxc
+
+이
+	이/mmd
+
+여름이
+	여름/ncn+이/jcc
+
+주는
+	주/px+는/etm
+
+선물입니다
+	선물/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+푹신해
+	푹신/ncps+하/xsms+어/ecx
+
+보이는
+	보이/pvg+는/etm
+
+갈대군락은
+	갈대/ncn+군락/ncn+은/jxc
+
+신이
+	신/ncn+이/jcc
+
+빚어놓은
+	빚/pvg+어/ecx+놓/px+은/etm
+
+듯놀라움을
+	듯놀라움/ncn+을/jco
+
+금할길
+	금할길/ncn
+
+없습니다
+	없/paa+습니다/ef
+
+.
+	./sf
+
+
+동글동글
+	동글동글/ncn
+
+자신의
+	자신/ncn+의/jcm
+
+영역을
+	영역/ncn+을/jco
+
+넓혀가는
+	넓히/pvg+어/ecx+가/px+는/etm
+
+갈대들은
+	갈대/ncn+들/ncn+은/jxc
+
+시간이
+	시간/ncn+이/jcc
+
+흐르고
+	흐르/pvg+고/ecc
+
+어느
+	어느/mmd
+
+순간
+	순간/ncn
+
+갈대숲으로
+	갈대/ncn+숲/ncn+으로/jca
+
+뒤덮힐
+	뒤덮히/pvg+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+안에서
+	안/ncn+에서/jca
+
+숨쉬는
+	숨쉬/pvg+는/etm
+
+많은
+	많/paa+은/etm
+
+생명들과
+	생명/ncn+들/ncn+과/jcj
+
+시기마다
+	시/nbu+이/jp+기/etn+마다/jxc
+
+찾아오는
+	찾/pvg+아/ecx+오/px+는/etm
+
+철새들의
+	철새/ncn+들/ncn+의/jcm
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+보금자리가
+	보금자리/ncn+가/jcs
+
+될
+	되/pvg+ㄹ/etm
+
+테구요
+	테구요/ncn
+
+.
+	./sf
+
+
+자연이
+	자연/ncn+이/jcc
+
+살아
+	살/pvg+아/ecx
+
+있음에
+	있/px+음/etn+에/jca
+
+우리가
+	우리/npp+가/jcs
+
+숨쉬는
+	숨쉬/pvg+는/etm
+
+것임을
+	것/nbn+이/jp+ㅁ/etn+을/jco
+
+순천만에서
+	순천만/ncn+에서/jca
+
+다시한번
+	다시한번/ncn
+
+깨닫게
+	깨닫/pvg+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+2013
+	2013/nnc
+
+순천만국제정원박람회를
+	순천만국제정원박람회/ncn+를/jco
+
+앞둔
+	앞두/pvg+ㄴ/etm
+
+순천
+	순천/ncn
+
+.
+	./sf
+
+
+큰
+	크/paa+ㄴ/etm
+
+행사를
+	행사/ncpa+를/jco
+
+앞두고
+	앞두/pvg+고/ecc
+
+설레는
+	설레/pvg+는/etm
+
+맘보다는
+	말/px+ㅁ/etn+보다/jca+는/jxc
+
+미래에
+	미래/ncn+에/jca
+
+안정된
+	안정/ncpa+되/xsvn+ㄴ/etm
+
+자연환경을만들고
+	자연환경을만들고/ncn
+
+가꾸고
+	가꾸/pvg+고/ecc
+
+지켜간다싶은
+	지켜간다싶/ncn+은/jxc
+
+생각에
+	생각/ncpa+에/jca
+
+기대감이
+	기대감/ncn+이/jcc
+
+더합니다
+	더하/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+순천만자연생태공원을
+	순천만자연생태공원/ncn+을/jco
+
+찾아서
+	찾/pvg+아/ecx
+
+체험할
+	체험/ncpa+하/xsva+ㄹ/etm
+
+거리를
+	거리/ncn+를/jco
+
+찾으신다면
+	찾/pvg+으시/ep+ㄴ다면/ecs
+
+생태체험선(선상투어)을
+	생태체험선(선상투어)/ncn+을/jco
+
+타보시는
+	타/pvg+아/ecx+보/px+시/ep+는/etm
+
+것도
+	것/nbn+도/jxc
+
+추천합니다
+	추천/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+살아숨쉬는
+	살아숨쉬/ncn+는/jxc
+
+순천만을
+	순천만/ncn+을/jco
+
+좀더
+	좀더/mag
+
+가까이에서
+	가까이/ncn+에서/jca
+
+만나는
+	만나/pvg+는/etm
+
+시간이
+	시간/ncn+이/jcc
+
+되실
+	되/pvg+시/ep+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+선상투어
+	선상/ncn+투어/ncn
+
+요금(왕복
+	요금(왕복/ncn
+
+약
+	약/ncn
+
+35분)
+	35/nnc+분/nbu+)/sr
+
+
+어른:
+	어른/ncn+:/sp
+
+4,000원,
+	4,000/nnc+원/nbu+,/sp
+
+청소년
+	청소년/ncn
+
+2.
+	2./nnc
+
+000원,
+	000/nnc+원/nbu+,/sp
+
+어린이
+	어린이/ncn
+
+1,500원
+	1,500/nnc+원/nbu
+
+
+운항시간표는
+	운항/ncn+시간표/ncn+는/jxc
+
+홈페이지에서
+	홈페이지/ncn+에서/jca
+
+확인가능합니다
+	확인/ncpa+가능/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+suncheonbay.
+	suncheonbay/f+./sy
+
+go.
+	go/f+./sy
+
+kr/tour/200702/ex_06
+	kr/tour/200702/ex_06/ncn
+
+.
+	./sf
+
+
+jsp
+	jsp/f
+
+
+2013순천만국제정원박람회
+	2013순천만국제정원박람회/ncn
+
+
+주제:
+	주제/ncn+:/sp
+
+지구의
+	지구/ncn+의/jcm
+
+정원
+	정원/ncn
+
+순천만
+	순천/ncn+만/jxc
+
+
+개최기간:
+	개최/ncpa+기간/ncn+:/sp
+
+2013
+	2013/nnc
+
+.
+	./sf
+
+
+4.20
+	4.20/nnc
+
+~
+	~/sd
+
+10.
+	10./nnc
+
+20(6개월)
+	20/ncn+(/sl+6/nnc+개월/nbu+)/sr
+
+
+장소:
+	장소/ncn+:/sp
+
+순천만
+	순천만/ncn
+
+일원
+	일원/ncn
+
+
+세계적인
+	세계/ncn+적/ncn+이/jp+ㄴ/etm
+
+생태정원
+	생태/ncn+정원/ncn
+
+조성,
+	조성/ncpa+,/sp
+
+세계정원,
+	세계/ncn+정원/ncn+,/sp
+
+참여정원,
+	참여/ncpa+정원/ncn+,/sp
+
+한방약초원,
+	한방약/ncn+초원/ncn+,/sp
+
+꽃의
+	꽃/ncn+의/jcm
+
+정원
+	정원/ncn
+
+등
+	등/nbn
+
+
+수목원,
+	수목원/ncn+,/sp
+
+국제습지센터,
+	국제/ncn+습지/ncn+센터/ncn+,/sp
+
+저류지
+	저류/ncn+이/jp+지/ecs
+
+조성
+	조성/ncpa
+
+등.
+	등/nbu+./sf
+
+.
+	./sf
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+suncheonbay.
+	suncheonbay/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+순천만자연생태공원
+	순천만자연생태공원/ncn
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+순천시
+	순천시/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01705812",
+	"bl01705812",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"12309000",
+	"/sl+12309000/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"순천만자연생태공원",
+	title:"순천만자연생태공원",/ncn
+
+pointX:356020,pointY:252795}
+	pointX/f+:/sp+356020/nnc+,/sp+pointY/f+:/sp+252795/nnc+}/sr

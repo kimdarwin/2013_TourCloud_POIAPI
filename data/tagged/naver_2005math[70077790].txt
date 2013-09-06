@@ -1,0 +1,731 @@
+천지
+	천지/ncn
+
+풍경
+	풍경/ncn
+
+
+내가
+	나/npp+가/jcs
+
+가진소형
+	가진소형/ncn
+
+디카로는
+	디카로/ncn+는/jxc
+
+천지를
+	천지/ncn+를/jco
+
+한
+	하/pvg+ㄴ/etm
+
+장면에
+	장면/ncn+에/jca
+
+담을
+	담/ncn+을/jco
+
+수
+	수/nbn
+
+없어
+	없/paa+어/ecx
+
+요렇게
+	요렇/pad+게/ecs
+
+세
+	세/nnc
+
+장을
+	장/nbu+을/jco
+
+짜깁기
+	짜깁/pvg+기/etn
+
+했으나
+	하/pvg+었/ep+으나/ecc
+
+
+동행한
+	동행/ncpa+하/xsva+ㄴ/etm
+
+젊은
+	젊/paa+은/etm
+
+친구(배승환씨)는
+	친구(배승환씨)/ncn+는/jxc
+
+천지를
+	천지/ncn+를/jco
+
+한
+	하/pvg+ㄴ/etm
+
+장면으로
+	장면/ncn+으로/jca
+
+카메라에
+	카메라/ncn+에/jca
+
+담는데
+	담/pvg+는데/ecs
+
+성공했다
+	성공/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+캐논
+	캐논/ncn
+
+EOS400D라던가
+	EOS400D라던/ncn+가/jcs
+
+?
+	?/sf
+
+
+부럽다
+	부럽/paa+다/ef
+
+.
+	./sf
+
+
+(아래
+	(/sl+아래/ncn
+
+사진)
+	사진/ncn+)/sr
+
+
+(나도
+	(/sl+나/npp+도/jxc
+
+백두산
+	백두산/ncn
+
+여행
+	여행/ncpa
+
+안
+	안/mag
+
+갔으면
+	가/px+아/ep+면/ecs
+
+그
+	그/mmd
+
+돈으로
+	돈/ncn+으로/jca
+
+좋은
+	좋/paa+은/etm
+
+카메라
+	카메라/ncn
+
+하나
+	하나/nnc
+
+장만하는
+	장만/ncpa+하/xsva+는/etm
+
+건데
+	것/nbn+이/jp+ㄴ데/ecs
+
+.....
+	.../se+./sf+./sf
+
+
+가만있자
+	가만있자/ii
+
+?
+	?/sf
+
+
+백두산에
+	백두산/ncn+에/jca
+
+안
+	안/mag
+
+갔더라면
+	가/px+아/ep+라면/ecs
+
+DSLR에
+	DSLR/f+에/jca
+
+대한욕심이
+	대한/ncn+욕심/ncn+이/jcc
+
+안생겼을테고
+	안생겼을테/ncn+이/jp+고/ecc
+
+그러면
+	그러면/maj
+
+여행비로
+	여행비/ncn+로/jca
+
+쓰려던
+	쓰/pvg+려던/etm
+
+돈을
+	돈/ncn+을/jco
+
+남겨
+	남기/pvg+어/ecx
+
+놓을
+	놓/px+을/etm
+
+필요가
+	필요/ncps+가/jcc
+
+없으니
+	없/paa+으니/ecs
+
+어딘가
+	어딘가/ncn
+
+여행을
+	여행/ncpa+을/jco
+
+갔을테고
+	갔을테/ncn+이/jp+고/ecc
+
+여행을
+	여행/ncpa+을/jco
+
+가서
+	가/pvg+서/ecs
+
+사진을
+	사진/ncn+을/jco
+
+찍다
+	찍/pvg+다/ef
+
+보면
+	보/px+면/ecs
+
+좋은
+	좋/paa+은/etm
+
+카메라에
+	카메라/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+욕심이
+	욕심/ncn+이/jcc
+
+생겼을테고
+	생겼을테/ncn+이/jp+고/ecc
+
+그리고
+	그리고/maj
+
+.....
+	.../se+./sf+./sf
+
+
+어휴,
+	어휴/ii+,/sp
+
+내가
+	나/npp+가/jcs
+
+더위
+	더위/ncn
+
+먹었나
+	먹/pvg+었/ep+나/ef
+
+?)
+	?/sf+)/sr
+
+
+일기가
+	일/pvg+기/etn+가/jcs
+
+좋지
+	좋/paa+지/ecx
+
+않아
+	않/px+아/ecx
+
+맑은
+	맑/paa+은/etm
+
+하늘과
+	하늘/ncn+과/jcj
+
+천지의
+	천지/ncn+의/jcm
+
+푸른
+	푸르/paa+ㄴ/etm
+
+물색깔은
+	물색깔/ncn+은/jxc
+
+기대
+	기대/ncpa
+
+난망
+	난망/ncpa
+
+.
+	./sf
+
+
+존재하지
+	존재/ncpa+하/xsva+지/ecx
+
+않고
+	않/px+고/ecc
+
+소문만
+	소문/ncn+만/jxc
+
+무성한
+	무성/ncn+한/ncn
+
+천지
+	천지/ncn
+
+괴물이
+	괴물/ncn+이/jcc
+
+보일리가
+	보이/pvg+ㄹ/etm+리/nbn+가/jcc
+
+없지
+	없/paa+지/ecx
+
+.
+	./sf
+
+
+(아래
+	(/sl+아래/ncn
+
+사진은첫
+	사진은첫/ncn
+
+번째
+	번/nbu+째/xsnu
+
+천지사진-세
+	천지/ncn+사진/ncn+-/sd+세/nnc
+
+장을
+	장/nbu+을/jco
+
+짜깁기
+	짜깁/pvg+기/etn
+
+한-중에서
+	한/nnc+-/sd+중/nbn+에서/jca
+
+가운데
+	가운데/ncn
+
+사진임)
+	사진/ncn+임/ncn+)/sr
+
+
+아쉬운
+	아쉽/paa+은/etm
+
+마음에
+	마음/ncn+에/jca
+
+4년
+	4/nnc+년/nbu
+
+전
+	전/nbn
+
+마누라가
+	마누라/ncn+가/jcs
+
+지프를
+	지프/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+천문봉에
+	천문/ncn+봉/ncn+에/jca
+
+올라서
+	오르/pvg+아/ecx
+
+찍었다는사진을
+	찍었다는사진/ncn+을/jco
+
+덧붙인다
+	덧붙이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+사진에서
+	사진/ncn+에서/jca
+
+보아
+	보/pvg+아/ecx
+
+왼쪽
+	왼쪽/ncn
+
+끝
+	끝/ncn
+
+능선
+	능선/ncn
+
+안부가
+	안부/ncpa+가/jcc
+
+서파종주
+	서파종주/ncn
+
+시작점인
+	시작/ncpa+점/ncn+이/jp+ㄴ/etm
+
+5호경계비가
+	5호경계비/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+추정된다
+	추정/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+어쩌다
+	어쩌다/ncn
+
+아주
+	아주/mag
+
+잠깐
+	잠깐/mag
+
+하늘이
+	하늘/ncn+이/jcc
+
+환해지면서
+	환해지/pvg+면서/ecc
+
+물빛이
+	물빛/ncn+이/jcc
+
+옥색과
+	옥색/ncn+과/jcj
+
+쪽빛을
+	쪽빛/ncn+을/jco
+
+띠기도
+	띠/ncn+이/jp+기/etn+도/jxc
+
+했지만
+	하/px+었/ep+지만/ecs
+
+구름
+	구름/ncn
+
+낀
+	끼/pvg+ㄴ/etm
+
+하늘은
+	하늘/ncn+은/jxc
+
+더
+	더/mag
+
+맑은
+	맑/paa+은/etm
+
+색을
+	색/ncn+을/jco
+
+허락하지
+	허락/ncpa+하/xsva+지/ecx
+
+않았다
+	않/px+아/ep+다/ef
+
+.
+	./sf
+
+
+깎아지른
+	깎아지른/ncn
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+절벽에도,
+	절벽/ncn+에/jca+도/jxc+,/sp
+
+금방이라도
+	금방/mag+이라도/jxc
+
+무너져내릴
+	무너지/pvg+어/ecx+내리/px+ㄹ/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+흙비탈길에도
+	흙비탈길/ncn+에/jca+도/jxc
+
+야생화는
+	야생/ncpa+화/ncn+는/jxc
+
+자기나름의
+	자기나름/ncn+의/jcm
+
+삶을
+	삶/ncn+을/jco
+
+지탱하고
+	지탱/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+백두산
+	백두산/ncn
+
+-
+	-/sd
+
+망땅히
+	망땅히/ncn
+
+야생화의
+	야생/ncpa+화/ncn+의/jcm
+
+천국이라
+	천국/ncn+이/jp+라/ecs
+
+이름붙여질
+	이름붙이/pvg+어/ecx+지/px+ㄹ/etm
+
+자격이
+	자격/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+때론
+	때론/ncn
+
+까마득한
+	까마득/ncps+하/xsms+ㄴ/etm
+
+절벽
+	절벽/ncn
+
+위
+	위/ncn
+
+고원을
+	고원/ncn+을/jco
+
+지나기도
+	지나/pvg+기/etn+도/jxc
+
+하고(청석봉
+	하고(청석봉/ncn
+
+정상
+	정상/ncn
+
+부근)
+	부근/ncn+)/sr
+
+
+한
+	하/pvg+ㄴ/etm
+
+차례
+	차례/nbu
+
+점프를
+	점프/ncn+를/jco
+
+하면
+	하/pvg+면/ecs
+
+천지로
+	천지/ncn+로/jca
+
+뛰어들
+	뛰어들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+것만
+	것/nbn+만/jxc
+
+같은
+	같/paa+은/etm
+
+가파른
+	가파르/paa+ㄴ/etm
+
+비탈길을
+	비탈길/ncn+을/jco
+
+내려가기도
+	내리/pvg+어/ecx+가/px+기/etn+도/jxc
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+(청석봉
+	(/sl+청석/ncn+봉/ncn
+
+정상을
+	정상/ncn+을/jco
+
+지나며)
+	지나/pvg+며/ecc+)/sr
+
+
+천지를
+	천지/ncn+를/jco
+
+내려다
+	내리/pvg+어다/ecs
+
+보며
+	보/px+며/ecc
+
+가파른
+	가파르/paa+ㄴ/etm
+
+능선길을
+	능선길/ncn+을/jco
+
+종주하는
+	종주하/ncn+는/jxc
+
+트레커들
+	트레커들/ncn
+
+...
+	.../se
+
+
+(차일봉
+	(/sl+차일/ncn+봉/ncn
+
+하산길)
+	하산/ncpa+길/ncn+)/sr
+
+
+소장백폭포(우리가
+	소장백폭포(우리/ncn+가/jcs
+
+그냥
+	그냥/mag
+
+붙인
+	붙이/pvg+ㄴ/etm
+
+이름
+	이름/ncn
+
+.
+	./sf
+
+
+실제이름은
+	실제/ncn+이름/ncn+은/jxc
+
+옥벽폭포)
+	옥벽폭포)/ncn
+
+.
+	./sf
+
+
+왼편
+	왼편/ncn
+
+능선
+	능선/ncn
+
+너머로
+	너머/ncn+로/jca
+
+장백폭포가
+	장백/ncn+폭포/ncn+가/jcs
+
+내려다
+	내리/pvg+어다/ecs
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+뒤에
+	뒤/ncn+에/jca
+
+보이는
+	보이/pvg+는/etm
+
+것은
+	것/nbn+은/jxc
+
+용문봉
+	용문봉/ncn
+
+.
+	./sf
+
+
+장백폭포
+	장백/ncn+폭포/ncn

@@ -1,0 +1,3095 @@
+레이크힐스
+	레이크/ncn+힐스/ncn
+
+부곡
+	부곡/ncn
+
+호텔
+	호텔/ncn
+
+리조트
+	리조트/ncn
+
+/
+	//sp
+
+부곡온천
+	부곡온천/ncn
+
+창녕호텔
+	창녕호텔/ncn
+
+
+경남여행
+	경남여행/ncn
+
+중
+	중/nbn
+
+창녕에서
+	창녕/ncn+에서/jca
+
+하루
+	하루/ncn
+
+묵은
+	묵/pvg+은/etm
+
+레이크힐스~
+	레이크/ncn+힐스/ncn+~/sd
+
+
+레이크힐스
+	레이크/ncn+힐스/ncn
+
+부곡
+	부곡/ncn
+
+리조트
+	리조트/ncn
+
+호텔
+	호텔/ncn
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+창원으로
+	창원/ncn+으로/jca
+
+난
+	나/px+ㄴ/etm
+
+여행,
+	여행/ncpa+,/sp
+
+아니
+	아니/ii
+
+경남여행라고
+	경남여행라/ncn+이/jp+고/ecc
+
+해야
+	하/pvg+어야/ecs
+
+하나요
+	하/pvg+어/ecx+나/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+창원,
+	창원,/ncn
+
+창녕,
+	창녕,/ncn
+
+함안
+	하/pvg+ㅁ/etn+안/xsnx
+
+지역을
+	지역/ncn+을/jco
+
+1박2일
+	1박2/ncn+이/jp+ㄹ/etm
+
+느긋하게
+	느긋/ncps+하/xsms+게/ecs
+
+돌았었는데요
+	돌/pvg+았었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+하루를
+	하루/ncn+를/jco
+
+묵었던
+	묵/pvg+었/ep+던/etm
+
+곳은
+	곳/ncn+은/jxc
+
+창녕
+	창녕/ncn
+
+부곡온천특구내에
+	부곡온천특구내/ncn+에/jca
+
+위치했던
+	위치/ncpa+하/xsva+었/ep+던/etm
+
+레이크힐즈
+	레이크힐즈/ncn
+
+부곡리조트였습니다
+	부곡리조트였습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+레이크힐스
+	레이크/ncn+힐스/ncn
+
+골프텔이라고도
+	골프/ncn+텔/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+함안쪽에
+	하/pvg+ㅁ/etn+안/xsnx+쪽/xsnx+에/jca
+
+골프코스가
+	골프코스/ncn+가/jcs
+
+있어서
+	있/px+어서/ecs
+
+골프여행을
+	골프/ncn+여행/ncpa+을/jco
+
+오시면서
+	오/px+시/ep+면서/ecc
+
+휴양을
+	휴양/ncpa+을/jco
+
+하시는
+	하/px+시/ep+는/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+묵으시기도
+	묵/pvg+으시/ep+기/etn+도/jxc
+
+하나
+	하나/nnc
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+부곡하와이
+	부곡하와/ncn+이/jcc
+
+하면
+	하/pvg+면/ecs
+
+예전에는
+	예전/ncn+에/jca+는/jxc
+
+신혼여행
+	신혼여행/ncpa
+
+코스로도
+	코스/ncn+로/jca+도/jxc
+
+많이
+	많/paa+이/xsa
+
+오던
+	오/px+던/etm
+
+곳이었던
+	곳/ncn+이/jp+었/ep+던/etm
+
+걸로
+	걸/ncn+로/jca
+
+기억하는데요
+	기억/ncpa+하/xsva+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+그때의
+	그때/ncn+의/jcm
+
+명성만큼은
+	명성/ncn+만큼/jca+은/jxc
+
+못하겠지만
+	못하/px+겠/ep+지만/ecs
+
+온천호텔을
+	온천/ncn+호텔/ncn+을/jco
+
+좋아하시는
+	좋/paa+아/ecx+하/px+시/ep+는/etm
+
+분들도
+	불/pvg+ㄴ/etm+들/nbn+도/jxc
+
+꽤
+	꽤/mag
+
+많을
+	많/paa+을/etm
+
+거란
+	거란/ncn
+
+생각이
+	생각/ncpa+이/jcc
+
+들어요
+	들/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+최고의
+	최고/ncn+의/jcm
+
+수질을
+	수질/ncn+을/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+온천수에
+	온천수/ncn+에/jca
+
+사우나를
+	사우나/ncn+를/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있으니
+	있/px+으니/ecs
+
+그것도
+	그것/npd+도/jxc
+
+장점이랄
+	장점이랄/ncn
+
+수
+	수/nbn
+
+있잖아요
+	있/px+잖아/ef+요/jxf
+
+.
+	./sf
+
+
+레이크힐스
+	레이크/ncn+힐스/ncn
+
+부곡
+	부곡/ncn
+
+리조트는
+	리조트/ncn+는/jxc
+
+덕암산
+	덕암산/ncn
+
+산자락에
+	산자락/ncn+에/jca
+
+자리하고
+	자리/ncn+하고/jct
+
+있어서
+	있/px+어서/ecs
+
+주변
+	주변/ncn
+
+자연과
+	자연/ncn+과/jct
+
+함께
+	함께/mag
+
+여행의
+	여행/ncpa+의/jcm
+
+피로를
+	피로/ncps+를/jco
+
+풀어줄
+	풀/pvg+어/ecx+주/px+ㄹ/etm
+
+온천호텔로
+	온천/ncn+호텔/ncn+로/jca
+
+괜찮은
+	괜찮/paa+은/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+부분적으로리모델링
+	부분적으로리모델링/ncn
+
+중이라고
+	중/nbn+이/jp+라/ef+고/jcr
+
+했던거
+	했던거/ncn
+
+같은데요
+	같은데요/ncn
+
+.
+	./sf
+
+
+좀더
+	좀더/mag
+
+나아진
+	나/pvg+아/ecx+지/px+ㄴ/etm
+
+모습으로
+	모습/ncn+으로/jca
+
+여행객들을
+	여행객/ncn+들/ncn+을/jco
+
+맞을
+	맞/pvg+을/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+묵었던
+	묵/pvg+었/ep+던/etm
+
+방,
+	방/ncn+,/sp
+
+자세한
+	자세/ncn+한/ncn
+
+정보는
+	정보/ncn+는/jxc
+
+잘
+	잘/mag
+
+기억이
+	기억/ncpa+이/jcc
+
+안나지만^^
+	안나지만^^/ncn
+
+25평형
+	25평형/ncn
+
+더블룸
+	더블룸/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+아침까지
+	아침/ncn+까지/jxc
+
+든든하게
+	든든/ncps+하/xsms+게/ecs
+
+먹고
+	먹/pvg+고/ecc
+
+나왔던
+	나/pvg+아/ecx+오/px+아/ep+ㄴ/etm
+
+곳인데요
+	곳인데요/ncn
+
+.
+	./sf
+
+
+깔끔한
+	깔끔/ncn+한/ncn
+
+내부에
+	내부/ncn+에/jca
+
+넉넉한
+	넉넉/ncps+하/xsms+ㄴ/etm
+
+공간에
+	공간/ncn+에/jca
+
+가족여행
+	가족/ncn+여행/ncpa
+
+숙박지로도
+	숙박/ncpa+지로/ncn+도/jxc
+
+괜찮단
+	괜찮/paa+단/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+듭니다
+	들/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-마음이
+	여행/ncpa+이야기/ncpa+-/sd+마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+(여행일:
+	(/sl+여행/ncpa+이/jp+ㄹ/etm+:/sp
+
+2012
+	2012/nnc
+
+.
+	./sf
+
+
+02
+	02/nnc
+
+.
+	./sf
+
+
+18)
+	18/nnc+)/sr
+
+
+저녁을
+	저녁/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+도착을
+	도착/ncpa+을/jco
+
+했을
+	하/px+었/ep+을/etm
+
+때는
+	때/ncn+는/jxc
+
+이미
+	이미/mag
+
+어두워져서
+	어둡/paa+어/ecx+지/px+어서/ecs
+
+사진으로
+	사진/ncn+으로/jca
+
+담지는
+	담/pvg+지/ef+는/etm
+
+못했구요
+	못했구요/ncn
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+들어가서
+	들/pvg+어/ecx+가/px+아/ecx
+
+객실로
+	객실/ncn+로/jca
+
+향했기에
+	향하/pvg+었/ep+기/etn+에/jca
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+부곡호텔
+	부곡호텔/ncn
+
+전경
+	전경/ncn
+
+사진은
+	사진/ncn+은/jxc
+
+아침에
+	아침/ncn+에/jca
+
+출발하기
+	출발/ncpa+하/xsva+기/etn
+
+전에
+	전/nbn+에/jca
+
+담은
+	담/pvg+은/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+레이크힐스
+	레이크/ncn+힐스/ncn
+
+부곡리조트는
+	부곡리조트/ncn+는/jxc
+
+동양
+	동양/ncn
+
+최고
+	최고/ncn
+
+수준의
+	수준/ncn+의/jcm
+
+78도
+	78/nnc+도/jxc
+
+유황온천수를
+	유황/ncn+온천수/ncn+를/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+곳이라고
+	곳/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+사우나는
+	사우나/ncn+는/jxc
+
+이용하지
+	이용/ncpa+하/xsva+지/ecx
+
+않았지만
+	않/px+아/ep+지/ecx+말/px+ㄴ/etm
+
+황토,
+	황토/ncn+,/sp
+
+맥반석,
+	맥반석/ncn+,/sp
+
+습식사우나
+	습식/ncn+사우나/ncn
+
+등이
+	등/nbu+이/jcc
+
+있다고
+	있/px+다/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+어르신들
+	어르/pvg+시/ep+ㄴ들/ecs
+
+뜨끈한
+	뜨끈한/ncn
+
+온천수에
+	온천수/ncn+에/jca
+
+몸
+	몰/pvg+ㅁ/etn
+
+담그고효능을
+	담그고효능/ncn+을/jco
+
+제대로
+	제대로/mag
+
+보실
+	보/px+시/ep+ㄹ/etm
+
+수있지
+	수/nbn+있/xsmn+지/ecx
+
+않을까
+	않/px+을까/ef
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+골프텔이라고
+	골프/ncn+텔/ncn+이/jp+라/ef+고/jcr
+
+적힌
+	적히/pvg+ㄴ/etm
+
+것처럼,레이크힐스
+	것/nbn+처럼/jca+,/sp+레이크/ncn+힐스/ncn
+
+경남
+	경남/ncn
+
+컨트리클럽이
+	컨트리/ncn+클럽/ncn+이/jcc
+
+함안쪽에
+	하/pvg+ㅁ/etn+안/xsnx+쪽/xsnx+에/jca
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그곳과의
+	그곳/ncn+과의/jcm
+
+접근성도
+	접근/ncpa+성/ncn+도/jxc
+
+좋아서
+	좋/paa+아/ecx
+
+골프를
+	골프/ncn+를/jco
+
+즐기시는
+	즐기/pvg+시/ep+는/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+이곳에서
+	이곳/npd+에서/jca
+
+편하게
+	편하/paa+게/ecs
+
+하루
+	하루/ncn
+
+보내시는
+	보내/pvg+시/ep+는/etm
+
+휴식공간이라고
+	휴식공간/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+골프
+	골프/ncn
+
+좋아하시는
+	좋/paa+아/ecx+하/px+시/ep+는/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+한번쯤
+	한번쯤/ncn
+
+찾아보셨을
+	찾/pvg+아/ecx+보/px+셨/ep+을/etm
+
+만한
+	만/nnc+한/nnc
+
+곳이지요
+	곳/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+로비로
+	로비/ncn+로/jca
+
+들어오니
+	들/pvg+어/ecx+오/px+니/ecs
+
+저녁에
+	저녁/ncn+에/jca
+
+늦게
+	늦/paa+게/ecs
+
+와서인지
+	와서/ncn+이/jp+ㄴ지/ecs
+
+조금은
+	조금/mag+은/jxc
+
+한산한
+	한산한/ncn
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+로비
+	로비/ncn
+
+공간도
+	공간/ncn+도/jxc
+
+테이블을
+	테이블/ncn+을/jco
+
+이곳저곳에
+	이곳저곳/npd+에/jca
+
+배치해서
+	배치/ncpa+하/xsva+어서/ecs
+
+편하게
+	편하/paa+게/ecs
+
+기다리고
+	기다리/pvg+고/ecc
+
+쉴
+	쉬/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+되어
+	되/pvg+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+조명도
+	조/nnc+명/nbu+도/jxc
+
+어둑하지
+	어둑하/paa+지/ecx
+
+않고
+	않/px+고/ecc
+
+밝아서인지
+	밝아서인지/ncn
+
+내부가
+	내부/ncn+가/jcs
+
+더
+	더/mag
+
+깔끔해
+	깔끔/ncps+하/xsms+어/ecx
+
+보이더라구요
+	보이/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+여자일행분들과
+	여자/ncn+일행/ncn+분/ncn+들/xsncc+과/jct
+
+묵은
+	묵/pvg+은/etm
+
+방인데요
+	방인데요/ncn
+
+.
+	./sf
+
+
+두곳은
+	두/nnc+곳/nbu+은/jxc
+
+같은
+	같/paa+은/etm
+
+구조인데
+	구/nnc+조/nbu+이/jp+ㄴ데/ecs
+
+뭔가
+	뭔가/ncn
+
+많이
+	많/paa+이/xsa
+
+달라보이지요
+	다르/paa+아/ecx+보이/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+테이블이
+	테이블/ncn+이/jcc
+
+들어가고
+	들/pvg+어/ecx+가/px+고/ecc
+
+아니고
+	아니/paa+고/ecc
+
+차이가
+	차이/ncn+가/jcs
+
+이렇게
+	이렇/pad+게/ecs
+
+나네요
+	나/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+원래
+	원래/mag
+
+2인기준의
+	2인기준/ncn+의/jcm
+
+룸이지만
+	룸/ncn+이/jp+지만/ecs
+
+우리가
+	우리/npp+가/jcs
+
+인원이
+	인원/ncn+이/jcc
+
+초과되니
+	초과/ncpa+되/xsvn+니/ecs
+
+..
+	./sf+./sf
+
+
+쇼파테이블
+	쇼파/ncn+테이블/ncn
+
+있는
+	있/px+는/etm
+
+곳보다는
+	곳/ncn+보다/jca+는/jxc
+
+뺀곳이
+	뺀곳/ncn+이/jcc
+
+더
+	더/mag
+
+나을듯
+	나/px+ㄹ/etm+듯/nbs
+
+하여
+	하/pvg+어/ecx
+
+윗쪽
+	윗쪽/ncn
+
+방을
+	방/ncn+을/jco
+
+선택했습니다
+	선택/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+단체로
+	단체/ncn+로/jca
+
+숙박을
+	숙박/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+쇼파를
+	쇼파/ncn+를/jco
+
+빼고
+	빼/pvg+고/ecc
+
+인원을
+	인원/ncn+을/jco
+
+좀더
+	좀더/mag
+
+늘여서
+	늘이/pvg+어서/ecs
+
+숙박을
+	숙박/ncpa+을/jco
+
+해도
+	하/pvg+어도/ecs
+
+되겠더라구요
+	되/pvg+겠/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+공간이
+	공간/ncn+이/jcc
+
+꽤
+	꽤/mag
+
+넓어서
+	넓/paa+어서/ecs
+
+한가족이
+	한가족/ncn+이/jcc
+
+묵어도
+	묵/pvg+어도/ecs
+
+충분할
+	충분/ncps+하/xsms+ㄹ/etm
+
+룸이었어요
+	룸/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+취사공간이
+	취사/ncn+공간/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+아니라서
+	아니/paa+라서/ecs
+
+공간이
+	공간/ncn+이/jcc
+
+널찍한데요
+	널찍/ncps+한데/ncn+요/ncn
+
+.
+	./sf
+
+
+숨겨둔공간배치도단순하게
+	숨겨둔공간배치도단순하/ncn+이/jp+게/ecs
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+한몫을
+	한몫/ncn+을/jco
+
+한거
+	한거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+객실은
+	객실/ncn+은/jxc
+
+꽤
+	꽤/mag
+
+크지요
+	크/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+나머지
+	나머지/ncn
+
+다른
+	다른/mma
+
+일행분들이
+	일행/ncn+분/ncn+들/xsncc+이/jcc
+
+하룻밤을
+	하룻밤/ncn+을/jco
+
+보낸
+	보내/pvg+ㄴ/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+넓은
+	넓/paa+은/etm
+
+거실이며
+	거실/ncn+이/jp+며/ecc
+
+무척이나
+	무척/mag+이나/jxc
+
+멋스러워서
+	멋/ncn+스럽/xsmn+어서/ecs
+
+부럽기만
+	부럽/paa+기/etn+만/jxc
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+이왕
+	이왕/mag
+
+하루묵는거
+	하루묵는거/ncn
+
+좋은
+	좋/paa+은/etm
+
+방에서
+	방/ncn+에서/jca
+
+쉬고
+	쉬/pvg+고/ecc
+
+싶은
+	싶/px+은/etm
+
+욕심이
+	욕심/ncn+이/jcc
+
+생기기도
+	생기/pvg+기/etn+도/jxc
+
+하니까요
+	하/px+니까/ef+요/jxf
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+전
+	전/nbn
+
+잠자는
+	잠자/pvg+는/etm
+
+곳은
+	곳/ncn+은/jxc
+
+깨끗하고
+	깨끗/ncps+하고/jct
+
+안전하면
+	안전/ncps+하/xsms+면/ecs
+
+그만이다라고
+	그만이/paa+다/ef+라고/jcr
+
+생각하는
+	생각/ncpa+하/xsva+는/etm
+
+사람이라
+	사람/ncn+이/jp+라/ecs
+
+그리
+	그리/mad
+
+신경을
+	신경/ncn+을/jco
+
+쓰지
+	쓰/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+부분이기도
+	부분/ncn+이/jp+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+약간은
+	약간/mag+은/jxc
+
+한식을
+	하/pvg+ㄴ/etm+식/nbn+을/jco
+
+겸한
+	겸하/pvg+ㄴ/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+구조들을
+	구조/ncpa+들/ncn+을/jco
+
+외국인
+	외국/ncn+이/jp+ㄴ/etm
+
+관광객들이
+	관광객/ncn+들/ncn+이/jcc
+
+무척
+	무척/mag
+
+좋아하신
+	좋/paa+아/ecx+하/px+시/ep+ㄴ/etm
+
+다고
+	다/ncn+이/jp+고/ecc
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+다시
+	다시/mag
+
+우리가
+	우리/npp+가/jcs
+
+묵은
+	묵/pvg+은/etm
+
+객실로
+	객실/ncn+로/jca
+
+돌아와서
+	돌/pvg+아/ecx+오/px+아/ecx
+
+...
+	.../se
+
+
+다른
+	다른/mma
+
+가구들이
+	가구/ncn+들/ncn+이/jcc
+
+없어서
+	없/paa+어서/ecs
+
+조금은
+	조금/mag+은/jxc
+
+휑해
+	휑하/paa+어/ecx
+
+보일
+	보이/pvg+ㄹ/etm
+
+정도이지만
+	정도/ncn+이/jp+지만/ecs
+
+시원시원한
+	시원시원하/paa+ㄴ/etm
+
+원룸형이지요
+	원룸형/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+티비
+	티비/ncn
+
+옆에
+	옆/ncn+에/jca
+
+미닫이
+	미닫이/ncn
+
+문이
+	문/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+화장실
+	화장실/ncn
+
+공간입니다
+	공간/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+여유
+	여유/ncn
+
+이불이랑
+	이불/ncn+이/jcs+랑/jxc
+
+가져다
+	가/pvg+아/ecx+지/px+어다/ecs
+
+놓은걸
+	놓은걸/ncn
+
+보면
+	보/px+면/ecs
+
+네명
+	네/nnc+명/nbu
+
+정도는
+	정도/ncn+는/jxc
+
+더
+	더/mag
+
+자도
+	자/pvg+아/ecs
+
+될
+	되/pvg+ㄹ/etm
+
+거
+	것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+바닥에
+	바닥/ncn+에/jca
+
+이불
+	이/nnc+불/nbu
+
+쫘악
+	쫘악/ncn
+
+펼치면
+	펼치/pvg+면/ecs
+
+럭셔리한
+	럭셔리한/ncn
+
+엠티
+	엠티/ncn
+
+분위기가
+	분위기/ncn+가/jcs
+
+날거
+	날거/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+더블
+	더블/ncn
+
+침대랑
+	침대/ncn+랑/jxc
+
+뽀송한
+	뽀송한/ncn
+
+이불에
+	이불/ncn+에/jca
+
+베개까지
+	베개/ncn+까지/jxc
+
+..
+	./sf+./sf
+
+
+호텔
+	호텔/ncn
+
+이불이
+	이불/ncn+이/jcc
+
+햇볕에서말린
+	햇볕에서말린/ncn
+
+듯이
+	듯/nbn+이/jcs
+
+바람냄새가
+	바람/ncn+냄새/ncn+가/jcs
+
+살짝
+	살짝/mag
+
+나는
+	나/npp+는/jxc
+
+그런느낌을
+	그런느낌/ncn+을/jco
+
+받을때가
+	받/pvg+을/etm+때/nbn+가/jcc
+
+개인적으론좋은데요
+	개인적으론좋은데요/ncn
+
+.
+	./sf
+
+
+어느
+	어느/mmd
+
+호텔이나
+	호텔/ncn+이나/jcj
+
+다
+	다/mag
+
+그렇지만은
+	그렇/pad+지만/ecs+은/jxc
+
+않지만요
+	않/px+지/ecs+만요/jxc
+
+.
+	./sf
+
+
+근데
+	근데/ncn
+
+레이크힐스에서는
+	레이크/ncn+힐스/ncn+에서/jca+는/jxc
+
+침대에
+	침대/ncn+에/jca
+
+눕지도
+	눕/pvg+지/ecs+도/jxc
+
+않았어요
+	않/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+왜냐구요
+	왜냐구요/ncn
+
+?
+	?/sf
+
+
+같이
+	같/paa+이/xsa
+
+간
+	가/px+ㄴ/etm
+
+언니들이
+	언니/ncn+들/ncn+이/jcc
+
+서로
+	서로/mag
+
+양보를
+	양보/ncpa+를/jco
+
+해서
+	하/pvg+어서/ecs
+
+누구도
+	누구/npp+도/jxc
+
+선뜻
+	선뜻/mag
+
+침대로
+	치/pvg+ㅁ/etn+대로/jca
+
+올라가지
+	오르/pvg+아/ecx+가/px+지/ecx
+
+않더라구요
+	않/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+뭐
+	뭐/npd
+
+대단한
+	대/nbu+이/jp+단/etm+한/nbn
+
+곳이라고
+	곳/ncn+이/jp+라/ef+고/jcr
+
+...
+	.../se
+
+
+그래서
+	그래서/maj
+
+결국은
+	결국/mag+은/jxc
+
+바닥에
+	바닥/ncn+에/jca
+
+이불을
+	이불/ncn+을/jco
+
+깔고
+	깔/pvg+고/ecc
+
+다같이
+	다같/ncn+이/jcc
+
+누워서
+	눕/pvg+어서/ecs
+
+자기로
+	자/nbn+이/jp+기/etn+로/jca
+
+한거죠
+	한거죠/ncn
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+덕분에
+	덕분/ncn+에/jca
+
+누워서
+	눕/pvg+어서/ecs
+
+또
+	또/maj
+
+수다를
+	수다/ncn+를/jco
+
+떠느라고
+	떨/pvg+느라고/ecs
+
+시간가는
+	시간/ncn+가/jcs+는/jxc
+
+줄
+	주/px+ㄹ/etm
+
+모르고
+	모르/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+이날도
+	이/nnc+날/nbu+도/jxc
+
+아마
+	아마/mag
+
+늦게
+	늦/paa+게/ecs
+
+잠이
+	잠/ncn+이/jcc
+
+들었을
+	들/pvg+었/ep+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+여행하느라
+	여행/ncpa+하/xsva+느라/ecs
+
+하루가
+	하루/ncn+가/jcs
+
+힘들었던
+	힘들/pvg+었/ep+던/etm
+
+날이라고
+	날/ncn+이/jp+라/ef+고/jcr
+
+해도
+	하/pvg+어도/ecs
+
+수다의
+	수다/ncn+의/jcm
+
+유혹을
+	유혹/ncpa+을/jco
+
+떨치지
+	떨치/pvg+지/ecx
+
+못하고
+	못하/px+고/ecc
+
+늘
+	늘/mag
+
+늦게
+	늦/paa+게/ecs
+
+잠들곤
+	잠들/pvg+곤/ecs
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+담에는
+	달/paa+ㅁ/etn+에/jca+는/jxc
+
+제발
+	제발/mag
+
+일찍
+	일찍/mag
+
+자고
+	자/nbn+이/jp+고/ecc
+
+일찍
+	일찍/mag
+
+일어나는
+	일어나/pvg+는/etm
+
+부지런한
+	부지런/ncps+한/ncn
+
+자세에
+	자세/ncn+에/jca
+
+임해볼려구요
+	임해볼려구요/ncn
+
+.
+	./sf
+
+
+숨겨진
+	숨기/pvg+어/ecx+지/px+ㄴ/etm
+
+공간
+	공간/ncn
+
+처럼
+	처럼/ncn
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+미받이
+	미받/ncn+이/jcc
+
+문을
+	문/ncn+을/jco
+
+드르륵하고
+	드르륵하/ncn+이/jp+고/ecc
+
+열면
+	열/pvg+면/ecs
+
+가운데
+	가운데/ncn
+
+세면대가
+	세면대/ncn+가/jcs
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+또
+	또/maj
+
+양쪽으로
+	양쪽/ncn+으로/jca
+
+공간이
+	공간/ncn+이/jcc
+
+나뉘어
+	나뉘/pvg+어/ecx
+
+집니다
+	지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+왼쪽은
+	왼쪽/ncn+은/jxc
+
+화장실
+	화장실/ncn
+
+공간이
+	공간/ncn+이/jcc
+
+있고,
+	있/px+고/ecc+,/sp
+
+오른쪽은
+	오르/pvg+ㄴ/etm+쪽/nbn+은/jxc
+
+욕조와
+	욕조/ncn+와/jcj
+
+샤워실
+	샤워실/ncn
+
+공간으로
+	공간/ncn+으로/jca
+
+나누어
+	나누/pvg+어/ecx
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+요즘
+	요즘/mag
+
+호텔
+	호텔/ncn
+
+욕실이
+	욕실/ncn+이/jcc
+
+이렇게
+	이렇/pad+게/ecs
+
+따로
+	따로/mag
+
+공간이
+	공간/ncn+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+곳을
+	곳/ncn+을/jco
+
+종종
+	종종/mag
+
+만나게
+	만나/pvg+게/ecs
+
+되는데요
+	되/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+여러사람이
+	여러/nnc+사람/nbu+이/jcc
+
+사용하기에는
+	사용/ncpa+하/xsva+기/etn+에/jca+는/jxc
+
+편하면서도
+	편하/paa+면서/ecs+도/jxc
+
+왠지
+	왠지/mag
+
+번거롭더라구요
+	번거/ncps+롭/xsmn+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+으레
+	으레/mag
+
+한
+	하/pvg+ㄴ/etm
+
+공간에서
+	공간/ncn+에서/jca
+
+다
+	다/mag
+
+씻는
+	씻/pvg+는/etm
+
+생활습관이
+	생활습관/ncn+이/jcc
+
+되어
+	되/pvg+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+그런거
+	그런거/ncn
+
+같은데요
+	같은데요/ncn
+
+.
+	./sf
+
+
+간단하게
+	간단/ncps+하/xsms+게/ecs
+
+씻을때
+	씻/pvg+을/etm+때/nbn
+
+세면대에서
+	세면대/ncn+에서/jca
+
+세수하고
+	세수/ncn+하고/jct
+
+머리
+	머리/ncn
+
+감으려고
+	감/pvg+으려고/ecs
+
+또
+	또/maj
+
+샤워실
+	샤워실/ncn
+
+들어가고
+	들/pvg+어/ecx+가/px+고/ecc
+
+..
+	./sf+./sf
+
+
+그렇게
+	그렇/pad+게/ecs
+
+되더라구요
+	되/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+아예
+	아예/mag
+
+샤워실에서
+	샤워실/ncn+에서/jca
+
+다
+	다/mag
+
+해결하는
+	해결/ncpa+하/xsva+는/etm
+
+것이
+	것/nbn+이/jcc
+
+더
+	더/mag
+
+편하지요
+	편하/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+온천수라는데
+	온천수라는데/ncn
+
+유황온천수를
+	유황/ncn+온천수/ncn+를/jco
+
+만끽해야겠지요
+	만끽/ncpa+하/xsva+어야겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+하나
+	하나/nnc
+
+제
+	저/npp+의/jcm
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+안들었던
+	안들었던/ncn
+
+건,
+	것/nbn+이/jp+ㄴ/etm+,/sp
+
+화장실
+	화장실/ncn
+
+간막이가
+	간막이/ncn+가/jcs
+
+유리인데요
+	유리인데요/ncn
+
+.
+	./sf
+
+
+안이
+	안/ncn+이/jcc
+
+훤히
+	훤히/mag
+
+보여서
+	보이/pvg+어서/ecs
+
+다른
+	다르/paa+ㄴ/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+세면대를
+	세면대/ncn+를/jco
+
+쓰고
+	쓰/pvg+고/ecc
+
+있으면
+	있/px+으면/ecs
+
+화장실
+	화장실/ncn
+
+사용을
+	사용/ncpa+을/jco
+
+못하겠더라구요
+	못하/px+겠/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+절간
+	절간/ncn
+
+해우소도
+	해우소/ncn+도/jxc
+
+아니고
+	아니/paa+고/ecc
+
+유리벽면은
+	유리/ncn+벽면/ncn+은/jxc
+
+좀
+	좀/mag
+
+비치지
+	비치/pvg+지/ecx
+
+않도록
+	않/px+도록/ecs
+
+조치를
+	조/nnc+치/nbu+를/jco
+
+해주면
+	하/pvg+어/ecx+주/px+면/ecs
+
+좋겠더라구요
+	좋/paa+겠/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+이곳에는
+	이곳/npd+에/jca+는/jxc
+
+78도
+	78/nnc+도/jxc
+
+뜨거운
+	뜨겁/paa+은/etm
+
+온천수가
+	온천수/ncn+가/jcs
+
+공급되다보니
+	공급되다보/ncn+이/jp+니/ecs
+
+물을
+	물/ncn+을/jco
+
+데우는
+	데우/pvg+는/etm
+
+시설이
+	시설/ncpa+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+식히는
+	식히/pvg+는/etm
+
+시설을
+	시설/ncpa+을/jco
+
+갖추고
+	갖추/pvg+고/ecc
+
+있데요
+	있/px+데/ef+요/jxf
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+자연의
+	자연/ncn+의/jcm
+
+혜택을
+	혜택/ncn+을/jco
+
+받는
+	받/pvg+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+또
+	또/maj
+
+있을까요
+	있/px+을까/ef+요/jxf
+
+.
+	./sf
+
+
+뭐
+	뭐/npd
+
+데우나
+	데우/pvg+나/ecs
+
+식히나
+	식히/pvg+나/ecs
+
+비슷한
+	비슷/ncps+하/xsms+ㄴ/etm
+
+상황이긴
+	상황이긴/ncn
+
+하겠다
+	하/px+겠/ep+다/ef
+
+싶으면서도
+	싶/px+으면/ecs+서도/jxc
+
+항상
+	항상/mag
+
+뜨거운
+	뜨겁/paa+은/etm
+
+온천수가
+	온천수/ncn+가/jcs
+
+흐른다고
+	흐르/pvg+ㄴ다/ef+고/jcr
+
+생각하니
+	생각/ncpa+하/xsva+니/ecs
+
+따뜻해지는
+	따뜻해지/pvg+는/etm
+
+공간입니다
+	공간/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+아침에
+	아침/ncn+에/jca
+
+일어나서
+	일어나/pvg+아/ecx
+
+창으로
+	창/ncn+으로/jca
+
+들어오는
+	들/pvg+어/ecx+오/px+는/etm
+
+빛이
+	빛/ncn+이/jcc
+
+이뻐서
+	이쁘/paa+어서/ecs
+
+담아보려고
+	담/pvg+아/ecx+보/px+려고/ecs
+
+한건데
+	하/pvg+ㄴ/etm+것/nbn+이/jp+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+가만히
+	가만히/mag
+
+보니
+	보/px+니/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+깔끔할
+	깔끔/ncps+하/xsms+ㄹ/etm
+
+수가요
+	수가/ncn+요/ncn
+
+.
+	./sf
+
+
+금방
+	금방/mag
+
+자고
+	자/pvg+고/ecc
+
+일어난
+	일어나/pvg+ㄴ/etm
+
+객실인데
+	객실/ncn+이/jp+ㄴ데/ecs
+
+이불을
+	이불/ncn+을/jco
+
+접어
+	접/pvg+어/ecx
+
+한곳에
+	한곳/ncn+에/jca
+
+모아두고
+	모으/pvg+아/ecx+두/px+고/ecc
+
+보니
+	보/px+니/ecs
+
+자고
+	자/pvg+고/ecc
+
+일어난거
+	일어난거/ncn
+
+맞아
+	맞/pvg+아/ecx
+
+할정도
+	할정/ncn+도/jxc
+
+아닌가요
+	아니/paa+ㄴ가/ef+요/jxf
+
+.
+	./sf
+
+
+머문
+	머물/pvg+ㄴ/etm
+
+자리도
+	자리/ncn+도/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+한결같이
+	한결같이/mag
+
+깔끔한
+	깔끔/ncps+하/xsms+ㄴ/etm
+
+여행자들입니다
+	여행자/ncn+들/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+베란다에서
+	베란다/ncn+에서/jca
+
+주변도
+	주변/ncn+도/jxc
+
+함
+	하/pvg+ㅁ/etn
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+앞쪽으로는
+	앞쪽/ncn+으로/jca+는/jxc
+
+다른
+	다른/mma
+
+부곡온천호텔들과
+	부곡온천호텔들/ncn+과/jcj
+
+주차장
+	주차장/ncn
+
+공간이라
+	공간/ncn+이/jp+라/ecs
+
+크게
+	크/paa+게/ecs
+
+전망이
+	전망/ncn+이/jcc
+
+좋지는
+	좋/paa+지/ecs+는/jxc
+
+않네요
+	않/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+멀리
+	멀리/mag
+
+빙둘러쳐진
+	빙둘러쳐진/ncn
+
+산자락이
+	산자락/ncn+이/jcc
+
+좋아
+	좋/paa+아/ecx
+
+보이는데
+	보이/pvg+ㄴ데/ecs
+
+아침
+	아침/ncn
+
+햇살이
+	햇살/ncn+이/jcc
+
+강해서
+	강하/paa+어서/ecs
+
+오래
+	오래/mag
+
+보긴
+	보긴/ncn
+
+힘들었어요
+	힘들/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+조식을
+	조식/ncpa+을/jco
+
+먹기
+	먹/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+식당으로
+	식당/ncn+으로/jca
+
+..
+	./sf+./sf
+
+
+공간이
+	공간/ncn+이/jcc
+
+무척
+	무척/mag
+
+넓어요
+	넓/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+돌잔치나
+	돌잔치/ncn+나/jcj
+
+결혼식
+	결혼식/ncn
+
+피로연
+	피로연/ncn
+
+같은걸
+	같은걸/ncn
+
+하지
+	하/pvg+지/ecx
+
+않을까
+	않/px+을까/ef
+
+싶은
+	싶/px+은/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+분위기의
+	분위기/ncn+의/jcm
+
+레스토랑인데요
+	레스토랑인데요/ncn
+
+.
+	./sf
+
+
+아침
+	아침/ncn
+
+메뉴는
+	메뉴/ncn+는/jxc
+
+우거지해장국
+	우거지/ncn+해장국/ncn
+
+..
+	./sf+./sf
+
+
+뭐크게
+	뭐크/ncn+이/jp+게/ecs
+
+기대를하지
+	기대를하/ncn+이/jp+지/ecs
+
+않고
+	않/px+고/ecc
+
+먹었는데
+	먹/pvg+었/ep+는데/ecs
+
+...
+	.../se
+
+
+오호
+	오/nnc+호/nbu
+
+국물이
+	국물/ncn+이/jcc
+
+진하니
+	진하/pvg+니/ecs
+
+맛이
+	맛/ncn+이/jcc
+
+괜찮습니다
+	괜찮/paa+습니다/ef
+
+.
+	./sf
+
+
+일행분들도
+	일행/ncn+분/ncn+들/xsncc+도/jxc
+
+만족하시는거
+	만족하시는거/ncn
+
+같구요
+	같구요/ncn
+
+.
+	./sf
+
+
+아침밥이라
+	아침/ncn+밥/ncn+이/jp+라/ecs
+
+조금만
+	조금/mag+만/jxc
+
+먹어야지
+	먹/pvg+어야지/ef
+
+했는데
+	하/px+었/ep+는데/ecs
+
+결국
+	결국/mag
+
+한그릇을
+	한/nnc+그릇/nbu+을/jco
+
+다
+	다/mag
+
+먹었습니다
+	먹/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+주변으로
+	주변/ncn+으로/jca
+
+나가서
+	나가/pvg+아/ecx
+
+먹는거
+	먹는거/ncn
+
+보다는
+	보/px+다/ef+는/etm
+
+미리
+	미리/mag
+
+인터넷으로
+	인터넷/ncn+으로/jca
+
+예약을
+	예약/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+가시면
+	가/px+시/ep+면/ecs
+
+드실
+	들/pvg+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+예약없이
+	예약/ncpa+없이/jca
+
+당일날
+	당일날/ncn
+
+가서
+	가/pvg+서/ecs
+
+아침
+	아침/ncn
+
+먹으려고
+	먹/pvg+으려고/ecs
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+하면
+	하/pvg+면/ecs
+
+안됩니다
+	안되/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+나창원으로
+	나창원/ncn+으로/jca
+
+떠난
+	떠나/pvg+ㄴ/etm
+
+여행,
+	여행/ncpa+,/sp
+
+하루를
+	하루/ncn+를/jco
+
+묵은
+	묵/pvg+은/etm
+
+곳은
+	곳/ncn+은/jxc
+
+창녕의
+	창녕/ncn+의/jcm
+
+부곡면에
+	부곡면/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+레이크힐스
+	레이크/ncn+힐스/ncn
+
+부곡
+	부곡/ncn
+
+리조크,
+	리조크,/ncn
+
+골프텔이었는데요
+	골프/ncn+텔/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+동양
+	동양/ncn
+
+최고의
+	최고/ncn+의/jcm
+
+수질을
+	수질/ncn+을/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+유황온천수가
+	유황/ncn+온천수/ncn+가/jcs
+
+자랑이라고
+	자랑/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+대대적인
+	대대적/ncn+이/jp+ㄴ/etm
+
+리노베이션을
+	리노베이션/ncn+을/jco
+
+거쳐서
+	거치/pvg+어서/ecs
+
+새로운
+	새롭/paa+은/etm
+
+모습으로
+	모습/ncn+으로/jca
+
+바뀐
+	바뀌/pvg+ㄴ/etm
+
+모습이라고
+	모습/ncn+이/jp+라/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+이후부분적으로
+	이후/ncn+부분/ncn+적/ncn+으로/jca
+
+리노베이션
+	리노베이션/ncn
+
+중이라
+	중/nbn+이/jp+라/ecs
+
+지금쯤이면
+	지금/ncn+쯤/xsnx+이/jp+면/ecs
+
+더
+	더/mag
+
+멋진
+	멋지/paa+ㄴ/etm
+
+내부로
+	내부/ncn+로/jca
+
+변모를
+	변모/ncpa+를/jco
+
+했을
+	하/px+었/ep+을/etm
+
+지도
+	지/nbn+도/jxc
+
+모르겠습니다
+	모르/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+각종
+	각종/ncn
+
+시설을
+	시설/ncpa+을/jco
+
+갖추고
+	갖추/pvg+고/ecc
+
+있어서
+	있/px+어서/ecs
+
+단체
+	단체/ncn
+
+행사장소로도
+	행사장/ncn+소/ncn+로/jca+도/jxc
+
+손색이
+	손색/ncn+이/jcc
+
+없을거
+	없을거/ncn
+
+같구요
+	같구요/ncn
+
+.
+	./sf
+
+
+내부가
+	내부/ncn+가/jcs
+
+깔끔하고
+	깔끔/ncn+하고/jct
+
+공간이
+	공간/ncn+이/jcc
+
+넉넉해서
+	넉넉/ncps+하/xsms+어서/ecs
+
+가족여행
+	가족/ncn+여행/ncpa
+
+숙박지로도
+	숙박/ncpa+지로/ncn+도/jxc
+
+추천을
+	추천/ncpa+을/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+양실과
+	양/ncn+실/xsncc+과/jcj
+
+한실이
+	한/ncn+실/xsncc+이/jcc
+
+서로
+	서로/mag
+
+분위기가
+	분위기/ncn+가/jcs
+
+달라서
+	다르/paa+아/ecx
+
+취향껏
+	취향껏/ncn
+
+선택하실
+	선택/ncpa+하/xsva+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+뜨끈한
+	뜨끈한/ncn
+
+온천여행
+	온천/ncn+여행/ncpa
+
+즐기기에
+	즐기/pvg+기/etn+에/jca
+
+적합한
+	적합/ncn+한/ncn
+
+호텔입니다
+	호텔/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+주변관광지로
+	주변/ncn+관광지/ncn+로/jca
+
+창녕
+	창녕/ncn
+
+우포늪,
+	우포늪,/ncn
+
+화앙산
+	화앙산/ncn
+
+국립공원,
+	국립공원/ncn+,/sp
+
+얼음골,
+	얼음/ncn+골/ncn+,/sp
+
+영산호국공원
+	영산호국공원/ncn
+
+등이
+	등/nbu+이/jcc
+
+있어
+	있/px+어/ecx
+
+경남지역
+	경남지역/ncn
+
+여행중에
+	여행/ncpa+중/ncn+에/jca
+
+묵어도
+	묵/pvg+어도/ecs
+
+좋겠습니다
+	좋/paa+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+우리
+	우리/npp
+
+일행도
+	일/nnc+행/nbu+도/jxc
+
+아침을
+	아침/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+출발한
+	출발/ncpa+하/xsva+ㄴ/etm
+
+곳이
+	곳/ncn+이/jcc
+
+우포늪이었거든요
+	우포늪이었거든요/ncn
+
+.
+	./sf
+
+
+창녕의
+	창녕/ncn+의/jcm
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+여행지이다보니
+	여행지이다보/ncn+이/jp+니/ecs
+
+빼놓을
+	빼/pvg+어/ecx+놓/px+을/etm
+
+수가
+	수/nbn+가/jcc
+
+없지요
+	없/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+서울-
+	서울-/ncn
+
+밀양-
+	밀/pvg+ㄹ/etm+양/nbn+-/sd
+
+부곡호텔(밀양에서
+	부곡호텔(밀양/ncn+에서/jca
+
+40분
+	40/nnc+분/nbu
+
+소요)
+	소요/ncpa+)/sr
+
+
+서울
+	서울/ncn
+
+-
+	-/sd
+
+경부고속도로-
+	경부고속도로/ncn+-/sd
+
+서대구IC-
+	서대구IC-/ncn
+
+구마고속도로-
+	구마고속도로-/ncn
+
+영산IC-
+	영산IC-/ncn
+
+레이크힐스
+	레이크/ncn+힐스/ncn
+
+부곡
+	부곡/ncn
+
+
+경남
+	경남/ncn
+
+창녕군
+	창녕군/ncn
+
+부곡면
+	부곡면/ncn
+
+거문리
+	거문리/ncn
+
+213-19
+	213/nnc+-19/nnc
+
+/
+	//sp
+
+055-536-5181
+	055/nnc+-536/nnc+-5181/nnc
+
+
+레이크힐스골프텔
+	레이크/ncn+힐스/ncn+골프/ncn+텔/ncn
+
+
+경상남도
+	경상/ncn+남/ncn+도/jxc
+
+창녕군
+	창녕군/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011025409",
+	"bl011025409",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"15914329",
+	"/sl+15914329/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"레이크힐스골프텔",
+	title/f+:/sp+"/sl+레이크/ncn+힐스/ncn+골프/ncn+텔/ncn+"/sr+,/sp
+
+pointX:449328,pointY:321997}
+	pointX/f+:/sp+449328/nnc+,/sp+pointY/f+:/sp+321997/nnc+}/sr

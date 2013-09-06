@@ -1,0 +1,950 @@
+바나나
+	바나나/ncn
+
+건포도
+	건포/ncn+도/jxc
+
+초콜릿
+	초콜릿/ncn
+
+우유
+	우유/ncn
+
+카페인
+	카페/ncn+이/jp+ㄴ/etm
+
+음료
+	음료/ncn
+
+등
+	등/nbu
+
+체육관에서
+	체육관/ncn+에서/jca
+
+힘들게
+	힘들/pvg+게/ecs
+
+운동을
+	운동/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+나면
+	나/px+면/ecs
+
+스포츠
+	스포츠/ncn
+
+음료를
+	음료/ncn+를/jco
+
+찾게
+	찾/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+몸에
+	몸/ncn+에/jca
+
+흡수가
+	흡수/ncpa+가/jcc
+
+빠르다는
+	빠르/paa+다/ef+는/etm
+
+기능성
+	기능성/ncn
+
+음료에
+	음료/ncn+에/jca
+
+손이
+	손/ncn+이/jcc
+
+가는데,
+	가/px+ㄴ데/ecs+,/sp
+
+건강에
+	건강/ncps+에/jca
+
+신경을
+	신경/ncn+을/jco
+
+쓰는
+	쓰/pvg+는/etm
+
+사람이라면
+	사람/ncn+이/jp+라면/ecs
+
+잠시
+	잠시/mag
+
+생각해볼
+	생각/ncpa+하/xsva+어/ecx+보/px+ㄹ/etm
+
+필요가
+	필요/ncps+가/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+어쨌든
+	어쨌든/mag
+
+스포츠
+	스포츠/ncn
+
+음료들은
+	음료/ncn+들/ncn+은/jxc
+
+평균
+	평균/ncpa
+
+45g에
+	45g/ncn+에/jca
+
+100칼로리에
+	100/nnc+칼로리/nbu+에/jca
+
+해당하는
+	해당/ncpa+하/xsva+는/etm
+
+열량을
+	열량/ncn+을/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있기
+	있/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+힘들게
+	힘들/pvg+게/ecs
+
+운동한
+	운동/ncn+한/ncn
+
+효과를
+	효과/ncn+를/jco
+
+반감할
+	반감/ncpa+하/xsva+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있기
+	있/px+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+미국
+	미국/ncn
+
+인터넷매체
+	인터넷/ncn+매체/ncn
+
+허핑턴포스트는
+	허핑턴포스트/ncn+는/jxc
+
+최근
+	최근/mag
+
+운동을
+	운동/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+난
+	나/px+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+스포츠
+	스포츠/ncn
+
+음료
+	음료/ncn
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+먹을
+	먹/pvg+을/etm
+
+만한
+	만/nnc+한/nnc
+
+음식이나
+	음식/ncn+이나/jcj
+
+음료를
+	음료/ncn+를/jco
+
+소개했다
+	소개/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+근육피로
+	근육/ncn+피/ncn+로/jca
+
+회복,
+	회복/ncpa+,/sp
+
+우유스포츠음료
+	우유/ncn+스포츠음료/ncn
+
+스포츠음료보다
+	스포츠음료/ncn+보다/jca
+
+시리얼+우유가
+	시리얼+우유/ncn+가/jcs
+
+낫다
+	낫/paa+다/ef
+
+바나나
+	바나나/ncn
+
+칼로리가
+	칼로리/ncn+가/jcs
+
+높고
+	높/paa+고/ecc
+
+칼륨이
+	칼륨/ncn+이/jcc
+
+풍부하므로
+	풍부/ncps+하/xsms+므로/ecs
+
+땀을
+	땀/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+흘리느라
+	흘리/pvg+느라/ecs
+
+전해질이
+	전해질/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+빠져나간
+	빠지/pvg+어/ecx+나/px+아/ecx+가/px+ㄴ/etm
+
+운동선수들에게
+	운동선수/ncn+들/ncn+에게/jca
+
+가장
+	가장/mag
+
+인기
+	인기/ncn
+
+있는
+	있/px+는/etm
+
+음식
+	음식/ncn
+
+중
+	중/nbn
+
+하나이다
+	하나/nnc+이/jp+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+항산화물질,
+	항산화물질,/ncn
+
+섬유질,
+	섬유질/ncn+,/sp
+
+비타민
+	비타민/ncn
+
+B도
+	B/f+도/jxc
+
+많이
+	많/paa+이/xsa
+
+들어
+	들/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+초콜릿
+	초콜릿/ncn
+
+우유
+	우유/ncn
+
+저지방
+	저지/ncn+방/ncn
+
+초콜릿
+	초콜릿/ncn
+
+우유는
+	우유/ncn+는/jxc
+
+스포츠음료보다
+	스포츠음료/ncn+보다/jca
+
+더
+	더/mag
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+메이요
+	메이/ncn+요/ncn
+
+클리닉의
+	클리닉/ncn+의/jcm
+
+연구에
+	연구/ncpa+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+저지방
+	저지/ncn+방/ncn
+
+우유에는
+	우유/ncn+에/jca+는/jxc
+
+운동
+	운동/ncn
+
+뒤
+	뒤/ncn
+
+회복에
+	회복/ncpa+에/jca
+
+필요한
+	필요/ncps+하/xsms+ㄴ/etm
+
+3가지를
+	3/nnc+가지/nbu+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있는데,
+	있/px+는데/ecs+,/sp
+
+젖당으로
+	젖당/ncn+으로/jca
+
+된
+	되/pvg+ㄴ/etm
+
+탄수화물,
+	탄수화물/ncn+,/sp
+
+칼륨과
+	칼륨/ncn+과/jcj
+
+나트륨의
+	나트륨/ncn+의/jcm
+
+전해질,
+	전하/pvg+어/ecx+지/px+ㄹ/etm+,/sp
+
+카세인과
+	카세인/ncn+과/jcj
+
+유장의
+	유장/ncpa+의/jcm
+
+단백질이
+	단백질/ncn+이/jcc
+
+그것이다
+	그것/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+코코넛
+	코코넛/ncn
+
+워터
+	워터/ncn
+
+코코넛
+	코코넛/ncn
+
+워터는
+	워터/ncn+는/jxc
+
+때때로
+	때때로/mag
+
+자연의
+	자연/ncn+의/jcm
+
+스포츠
+	스포츠/ncn
+
+음료
+	음료/ncn
+
+로
+	로/ncn
+
+선전되고
+	선전/ncpa+되/xsvn+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+다소
+	다소/mag
+
+과장되긴
+	과장되긴/ncn
+
+해도
+	하/pvg+어도/ecs
+
+칼륨
+	칼륨/ncn
+
+전해질이
+	전해질/ncn+이/jcc
+
+많고
+	많/paa+고/ecc
+
+칼로리는
+	칼로리/nbu+는/jxc
+
+낮아서
+	낮/paa+아/ecx
+
+권할
+	권하/pvg+ㄹ/etm
+
+만하다
+	만/nbs+하/xsms+다/ef
+
+.
+	./sf
+
+
+어쨌든
+	어쨌든/mag
+
+1시간
+	1/nnc+시간/nbu
+
+정도
+	정도/ncn
+
+운동하는
+	운동/ncpa+하/xsva+는/etm
+
+경우
+	경우/ncn
+
+전해질과
+	전해질/ncn+과/jcj
+
+당분,
+	당분/ncn+,/sp
+
+적당한
+	적당/ncps+하/xsms+ㄴ/etm
+
+칼로리를
+	칼로리/ncn+를/jco
+
+보충해야
+	보충/ncpa+하/xsva+어야/ecs
+
+하므로
+	하/pvg+므로/ecs
+
+자연
+	자연/ncn
+
+식품의
+	식품/ncn+의/jcm
+
+음료는
+	음료/ncn+는/jxc
+
+나쁘지
+	나쁘/paa+지/ecx
+
+않다
+	않/px+다/ef
+
+.
+	./sf
+
+
+건포도
+	건포/ncn+도/jxc
+
+최근에는
+	최근/ncn+에/jca+는/jxc
+
+스포츠
+	스포츠/ncn
+
+음료에
+	음료/ncn+에/jca
+
+더해서
+	더하/paa+어서/ecs
+
+당분,
+	당분/ncn+,/sp
+
+전해질,
+	전하/pvg+어/ecx+지/px+ㄹ/etm+,/sp
+
+열량이
+	열량/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+씹는
+	씹/pvg+는/etm
+
+음식도
+	음식/ncn+도/jxc
+
+권하고
+	권하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이때는
+	이때/ncn+는/jxc
+
+말린
+	말리/pvg+ㄴ/etm
+
+과일들을
+	과일/ncn+들/ncn+을/jco
+
+권한다
+	권하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+건포도뿐
+	건포도/ncn+뿐/jxc
+
+아니라
+	아니/paa+라/ecs
+
+무화과,
+	무화/ncn+과/jcj+,/sp
+
+배
+	배/ncn
+
+등
+	등/nbu
+
+탄수화물의
+	탄수화물/ncn+의/jcm
+
+함량이
+	함량/ncn+이/jcc
+
+높은
+	높/paa+은/etm
+
+것이면
+	것/nbn+이/jp+면/ecs
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+집에서
+	집/ncn+에서/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+음료
+	음료/ncn
+
+운동을
+	운동/ncn+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+아무래도
+	아무렇/pad+어도/ecs
+
+마실
+	마시/pvg+ㄹ/etm
+
+것을
+	것/nbn+을/jco
+
+찾는다
+	찾/pvg+는다/ef
+
+.
+	./sf
+
+
+따라서
+	따라서/maj
+
+스포츠
+	스포츠/ncn
+
+음료
+	음료/ncn
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+몸에
+	몸/ncn+에/jca
+
+좋고
+	좋/paa+고/ecc
+
+영양도
+	영양/ncn+도/jxc
+
+풍부한
+	풍부/ncps+하/xsms+ㄴ/etm
+
+음료를
+	음료/ncn+를/jco
+
+직접
+	직접/mag
+
+만들어
+	만들/pvg+어/ecx
+
+보자
+	보/px+자/ecc
+
+.
+	./sf
+
+
+스포츠
+	스포츠/ncn
+
+영양학자
+	영양학자/ncn
+
+바바라
+	바바라/ncn
+
+르윈이
+	르윈/ncn+이/jcc
+
+권하는
+	권하/pvg+는/etm
+
+방법은
+	방법/ncn+은/jxc
+
+다음과
+	다음/ncn+과/jct
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+물
+	물/pvg+ㄹ/etm
+
+3컵
+	3컵/ncn
+
+반에
+	반/ncn+에/jca
+
+오렌지
+	오렌지/ncn
+
+주스
+	주스/ncn
+
+4분의
+	4/nnc+분/nbu+의/jcm
+
+1컵,
+	1컵,/ncn
+
+메이플시럽
+	메이플시럽/ncn
+
+4분의
+	4/nnc+분/nbu+의/jcm
+
+1컵,
+	1컵,/ncn
+
+소금
+	소금/ncn
+
+1작은스푼을
+	1작은스푼/ncn+을/jco
+
+넣으면
+	넣/pvg+으면/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+밥
+	밥/ncn
+
+다소
+	다소/mag
+
+놀랍지만
+	놀랍/paa+지/ecx+말/px+ㄴ/etm
+
+꿀을
+	꿀/ncn+을/jco
+
+약간
+	약간/mag
+
+뿌린
+	뿌리/pvg+ㄴ/etm
+
+밥은
+	밥/ncn+은/jxc
+
+에너지를
+	에너지/ncn+를/jco
+
+제공하여
+	제공/ncpa+하/xsva+어/ecx
+
+원기를
+	원기/ncn+를/jco
+
+회복시키는
+	회복시/ncn+키/ncn+는/jxc
+
+간식이다
+	가/px+ㄴ/etm+식/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+카페인
+	카페/ncn+이/jp+ㄴ/etm
+
+지구력이
+	지구력/ncn+이/jcc
+
+필요한
+	필요/ncps+하/xsms+ㄴ/etm
+
+운동선수들과
+	운동선수/ncn+들/ncn+과/jct
+
+달리
+	달리/mag
+
+헬스클럽에
+	헬스클럽/ncn+에/jca
+
+가는
+	가/pvg+는/etm
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+스포츠
+	스포츠/ncn
+
+음료에
+	음료/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+전해질과
+	전해질/ncn+과/jcj
+
+탄수화물이
+	탄수화물/ncn+이/jcc
+
+그다지
+	그다지/mag
+
+필요하지
+	필요/ncps+하/xsms+지/ecx
+
+않다
+	않/px+다/ef
+
+.
+	./sf
+
+
+따라서
+	따라서/maj
+
+적절한
+	적절/ncps+하/xsms+ㄴ/etm
+
+강도로
+	강도/ncn+로/jca
+
+한
+	하/pvg+ㄴ/etm
+
+시간
+	시간/nbu
+
+정도
+	정도/ncn
+
+운동할
+	운동/ncpa+하/xsva+ㄹ/etm
+
+경우에는
+	경우/ncn+에/jca+는/jxc
+
+카페인
+	카페/ncn+이/jp+ㄴ/etm
+
+100mg
+	100mg/ncn
+
+정도
+	정도/ncn
+
+든
+	들/pvg+ㄴ/etm
+
+저칼로리
+	저칼로리/ncn
+
+음료,
+	음료/ncn+,/sp
+
+즉
+	즉/mag
+
+아이스커피나
+	아이스/ncn+커피/ncn+나/jcj
+
+아이스티
+	아이스/ncn+티/ncn
+
+정도만
+	정도/ncn+만/jxc
+
+마셔도
+	마시/pvg+어도/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+출처:코메디
+	출처/ncn+:/sp+코메디/ncn

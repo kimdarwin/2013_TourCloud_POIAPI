@@ -1,0 +1,540 @@
+영산강
+	영산강/ncn
+
+수생태
+	수생태/ncn
+
+건강성
+	건강성/ncn
+
+4대강
+	4대강/ncn
+
+중
+	중/nbn
+
+최악
+	최악/ncn
+
+
+영산강
+	영산강/ncn
+
+물고기
+	물고기/ncn
+
+10마리
+	10/nnc+마리/nbu
+
+중
+	중/nbn
+
+1마리는
+	1/nnc+마리/nbu+는/jxc
+
+외래어종
+	외래어/ncn+종/ncn
+
+
+서울=환경일보
+	서울=환경일보/ncn
+
+한종수
+	한종수/ncn
+
+기자
+	기/ncn+이/jp+자/ecc
+
+=
+	=/sy
+
+영산강
+	영산강/ncn
+
+물고기
+	물고기/ncn
+
+10마리
+	10/nnc+마리/nbu
+
+중
+	중/nbn
+
+1마리는
+	1/nnc+마리/nbu+는/jxc
+
+외래어종인
+	외래어/ncn+종/ncn+이/jp+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타나
+	나타나/pvg+아/ecx
+
+수생태계
+	수생태계/ncn
+
+건강성이
+	건강성/ncn+이/jcc
+
+매우
+	매우/mag
+
+나쁜
+	나쁘/paa+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타났다
+	나타나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+환경부는
+	환경부/ncn+는/jxc
+
+지난해
+	지난해/ncn
+
+두
+	두/nnc
+
+차례에
+	차례/nbu+에/jca
+
+걸쳐
+	걸치/pvg+어/ecx
+
+영산강
+	영산강/ncn
+
+본류
+	본류/ncn
+
+12개
+	12/nnc+개/nbu
+
+지점과
+	지점/ncn+과/jcj
+
+황룡강
+	황룡/ncn+강/ncn
+
+등
+	등/nbu
+
+16개
+	16/nnc+개/nbu
+
+지류의
+	지류/ncn+의/jcm
+
+24개
+	24/nnc+개/nbu
+
+지점
+	지점/ncn
+
+등
+	등/nbu
+
+총
+	총/mma
+
+36개
+	36/nnc+개/nbu
+
+지점에서
+	지점/ncn+에서/jca
+
+실시한
+	실시/ncpa+하/xsva+ㄴ/etm
+
+수생태계
+	수생태계/ncn
+
+건강성
+	건강성/ncn
+
+조사결과
+	조사결과/ncn
+
+어류
+	어류/ncn
+
+분야의
+	분야/ncn+의/jcm
+
+경우
+	경우/ncn
+
+타
+	타/pvg+아/ecx
+
+수계에
+	수계/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+종
+	종/nbu
+
+다양성이
+	다양성/ncn+이/jcc
+
+낮고
+	낮/paa+고/ecc
+
+외래어종이
+	외래어/ncn+종이/ncn
+
+광범위하게
+	광범위/ncps+하/xsms+게/ecs
+
+분포하는
+	분포/ncpa+하/xsva+는/etm
+
+등
+	등/nbu
+
+수생태계
+	수생태계/ncn
+
+건강성이
+	건강성/ncn+이/jcc
+
+매우
+	매우/mag
+
+나쁜
+	나쁘/paa+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+평가됐다고
+	평가/ncpa+되/xsvn+었/ep+다/ef+고/jcr
+
+3일
+	3/nnc+일/nbu
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+어류
+	어류/ncn
+
+분야
+	분야/ncn
+
+건강성
+	건강성/ncn
+
+조사는
+	조사/ncn+는/jxc
+
+조사지점의
+	조사지점/ncn+의/jcm
+
+종
+	종/nbu
+
+다양성,
+	다양성/ncn+,/sp
+
+개체수,
+	개체/ncn+수/ncn+,/sp
+
+생태적
+	생태/ncn+적/ncn
+
+특성
+	특성/ncn
+
+등
+	등/nbu
+
+8개
+	8/nnc+개/nbu
+
+항목을
+	항목/ncn+을/jco
+
+점수화해
+	점수/ncn+화해/ncpa
+
+4등급으로
+	4/nnc+등급/nbu+으로/jca
+
+건강성을
+	건강성/ncn+을/jco
+
+평가한
+	평가/ncpa+하/xsva+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+영산강은
+	영산강/ncn+은/jxc
+
+36개
+	36/nnc+개/nbu
+
+지점
+	지점/ncn
+
+중
+	중/nbn
+
+27개
+	27/nnc+개/nbu
+
+지점이
+	지점/ncn+이/jcc
+
+불량
+	불량/ncpa
+
+으로
+	으/ncn+로/jca
+
+평가됐다
+	평가/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+영산강
+	영산강/ncn
+
+수계(본류+지류)에
+	수계(본류+지류)/ncn+에/jca
+
+서식하는
+	서식/ncpa+하/xsva+는/etm
+
+어류는
+	어류/ncn+는/jxc
+
+총
+	총/ncn
+
+38종으로
+	38/nnc+종/nbu+으로/jca
+
+섬진강
+	섬진강/ncn
+
+수계
+	수계/ncn
+
+57종,
+	57/nnc+종/nbu+,/sp
+
+낙동강
+	낙동강/ncn
+
+수계
+	수계/ncn
+
+58종,
+	58/nnc+종/nbu+,/sp
+
+금강
+	금강/ncn
+
+수계
+	수계/ncn
+
+69종에
+	69/nnc+종/nbu+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+매우
+	매우/mag
+
+적었고
+	적/paa+었/ep+고/ecc
+
+총
+	총/mma
+
+64종의
+	64/nnc+종/nbu+의/jcm
+
+어류가
+	어류/ncn+가/jcs
+
+채집됐던
+	채집/ncpa+되/xsvn+었/ep+던/etm
+
+1988년
+	1988/nnc+년/nbu
+
+민간
+	민간/ncn
+
+조사결과와
+	조사결과/ncn+와/jct
+
+비교하면
+	비교/ncpa+하/xsva+면/ecs
+
+20년
+	20/nnc+년/nbu
+
+동안
+	동안/ncn
+
+종
+	종/nbu
+
+다양성이
+	다양성/ncn+이/jcc
+
+40%나
+	40/nnc+%/su+나/jcj
+
+감소한
+	감소/ncpa+하/xsva+ㄴ/etm
+
+셈이다
+	셈/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+본류구간에서는
+	본류/ncn+구간/ncn+에서/jca+는/jxc
+
+28종이
+	28/nnc+종/nbu+이/jcc
+
+출현해
+	출현/ncpa+하/xsva+어/ecx
+
+낙동강
+	낙동강/ncn
+
+본류
+	본류/ncn
+
+44종,
+	44/nnc+종/nbu+,/sp
+
+금강
+	금강/ncn
+
+본류
+	본류/ncn
+
+52종에
+	52/nnc+종/nbu+에/jca
+
+비해서도
+	비하/pvg+어서/ecs+도/jxc
+
+종
+	종/nbu
+
+다양성이
+	다양성/ncn+이/jcc
+
+가장
+	가장/mag
+
+낮았으며
+	낮/paa+아/ep+며/ecc
+
+상~하류간의
+	상/ncn+~/sd+하류/ncn+간/ncn+의/jcm
+
+종
+	종/nbu
+
+다양성도
+	다양성/ncn+도/jxc
+
+상류(담양군,
+	상류(담양군,/ncn
+
+광주시)
+	광주시/ncn+)/sr
+
+23종,
+	23/nnc+종/nbu+,/sp
+
+중류(나주시)
+	중류(나주시)/ncn
+
+17종,
+	17/nnc+종/nbu+,/sp
+
+하류(함평군,
+	하류(함평군,/ncn
+
+무안군)
+	무안/ncps+군/ncn+)/sr
+
+7종으로
+	7/nnc+종/nbu+으로/jca
+
+하류로
+	하류/ncn+로/jca
+
+갈수록
+	가/px+ㄹ수록/ecs
+
+종
+	종/nbu
+
+다양성과
+	다양성/ncn+과/jcj
+
+개체밀도가
+	개체/ncn+밀도/ncn+가/jcs
+
+낮아지는
+	낮/paa+아/ecx+지/px+는/etm
+
+등
+	등/nbu
+
+큰
+	크/paa+ㄴ/etm
+
+차이가
+	차이/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+평가됐다
+	평가/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+기사원문보기
+	기사/ncr+원문/ncn+보기/ncn

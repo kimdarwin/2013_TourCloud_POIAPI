@@ -1,0 +1,506 @@
+영산강
+	영산강/ncn
+
+사업
+	사업/ncn
+
+첫
+	첫/nno
+
+내일
+	내/npp+이/jp+ㄹ/etm
+
+첫
+	첫/nno
+
+준공식
+	준공식/ncn
+
+
+선도사업
+	선도/ncn+사업/ncn
+
+함평2지구
+	함평2지구/ncn
+
+생태하천
+	생태/ncn+하천/ncn
+
+사업
+	사업/ncn
+
+완성
+	완성/ncpa
+
+
+영산강
+	영산강/ncn
+
+살리기
+	사/pvg+ㄹ/etm+리/nbn+이/jp+기/etn
+
+사업의
+	사업/ncn+의/jcm
+
+선도사업인
+	선도/ncn+사업/ncn+이/jp+ㄴ/etm
+
+함평천
+	함평천/ncn
+
+2지구
+	2지구/ncn
+
+생태하천
+	생태/ncn+하천/ncn
+
+조성사업이
+	조성사업/ncn+이/jcc
+
+내일
+	내/npp+이/jp+ㄹ/etm
+
+첫
+	첫/nno
+
+준공식을
+	준공식/ncn+을/jco
+
+갖는다
+	갖/pvg+는다/ef
+
+.
+	./sf
+
+
+전남
+	전/xp+남/ncn
+
+함평군
+	함평군/ncn
+
+함평읍
+	함평읍/ncn
+
+기각리~엄다면
+	기각리~엄다/ncn+이/jp+면/ecs
+
+화양리
+	화양리/ncn
+
+일대의
+	일/nnc+대/nbu+의/jcm
+
+함평2지구는
+	함평2지구/ncn+는/jxc
+
+
+2006년
+	2006/nnc+년/nbu
+
+7월
+	7/nnc+월/nbu
+
+착공된
+	착공/ncpa+되/xsvn+ㄴ/etm
+
+4대강
+	4대강/ncn
+
+선도사업으로
+	선도/ncn+사업/ncn+으로/jca
+
+모두
+	모두/mag
+
+346억원이
+	346/nnc+억/nnc+원/nbu+이/jcc
+
+투입됐다
+	투입/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+홍수를
+	홍수/ncn+를/jco
+
+막기
+	막/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+하천변에
+	하천/ncn+변/ncn+에/jca
+
+물을
+	물/ncn+을/jco
+
+일시적으로
+	일시/ncn+적/ncn+으로/jca
+
+가두는
+	가/pvg+아/ecx+두/px+는/etm
+
+천변저류지
+	천변/ncpa+저류/ncn+이/jp+지/ecs
+
+설치와,
+	설치/ncpa+와/jcj+,/sp
+
+
+주민들이
+	주민/ncn+들/ncn+이/jcc
+
+강가에서
+	강가/ncn+에서/jca
+
+쉬고
+	쉬/pvg+고/ecc
+
+생태관찰을
+	생태/ncn+관찰/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+친수공간,
+	친수공간/ncn+,/sp
+
+
+휴식과
+	휴식/ncpa+과/jcj
+
+운동을
+	운동/ncn+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+자연학습장
+	자연학습장/ncn
+
+등이
+	등/nbu+이/jcc
+
+설치됐다
+	설치/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+제방
+	제방/ncn
+
+밖에
+	밖/ncn+에/jca
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+29만
+	29/nnc+만/jxc
+
+의
+	의/ncn
+
+천변저류지
+	천변/ncpa+저류/ncn+이/jp+지/ecs
+
+는
+	늘/pvg+ㄴ/etm
+
+그동안
+	그동안/ncn
+
+농경지
+	농경지/ncn
+
+등이
+	등/nbu+이/jcc
+
+있던
+	있/px+던/etm
+
+자리로
+	자리/ncn+로/jca
+
+
+60년
+	60/nnc+년/nbu
+
+빈도의
+	빈도/ncn+의/jcm
+
+홍수
+	홍수/ncn
+
+때
+	때/ncn
+
+물이
+	물/ncn+이/jcc
+
+잠기도록
+	잠기/pvg+도록/ecs
+
+설계된
+	설계/ncpa+되/xsvn+ㄴ/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+인공연못
+	인공/ncn+연못/ncn
+
+등이
+	등/nbu+이/jcc
+
+설치돼
+	설치/ncpa+되/xsvn+어/ecx
+
+평소엔
+	평소/ncn+엔/jca
+
+생태학습장으로
+	생태/ncn+학습장/ncn+으로/jca
+
+활용하게
+	활용/ncpa+하/xsva+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+함평은
+	함평/ncn+은/jxc
+
+나비축제로
+	나비/ncn+축제/ncn+로/jca
+
+국내외에
+	국내외/ncn+에/jca
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+생태관광도시로
+	생태관광/ncn+도시/ncn+로/jca
+
+영산강살리기
+	영산강살리/ncn+이/jp+기/etn
+
+사업에
+	사업/ncn+에/jca
+
+따라
+	따르/pvg+아/ecs
+
+
+나비축제와
+	나비/ncn+축제/ncn+와/jct
+
+연결되면
+	연결/ncpa+되/xsvn+면/ecs
+
+상당한
+	상당/ncn+한/ncn
+
+시너지
+	시너지/ncn
+
+효과가
+	효과/ncn+가/jcs
+
+있을
+	있/px+을/etm
+
+것으로
+	것/nbn+으로/jca
+
+함평군은
+	함평군/ncn+은/jxc
+
+내다보고
+	내다보/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+2일
+	2/nnc+일/nbu
+
+오후
+	오후/ncn
+
+2시
+	2/nnc+시/nbu
+
+열리는
+	열/nnc+리/nbu+는/jxc
+
+준공식에는
+	준공식/ncn+에/jca+는/jxc
+
+정종환
+	정종환/ncn
+
+국토해양부장관,
+	국토/ncn+해양/ncn+부장/ncr+관/ncn+,/sp
+
+안병호
+	안병호/ncn
+
+함평군수
+	함평군수/ncn
+
+등
+	등/nbn
+
+
+지역주민
+	지역주민/ncn
+
+600여
+	600/nnc+여/xsnu
+
+명이
+	명/nbu+이/jcc
+
+참석할
+	참석/ncpa+하/xsva+ㄹ/etm
+
+예정이다
+	예정/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+치수를
+	치수/ncn+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+직강화했던
+	직강화했던/ncn
+
+함평천이
+	함평천/ncn+이/jcc
+
+자연형으로
+	자연/ncn+형/ncn+으로/jca
+
+복원됐다
+	복원/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:
+	출처/ncn+:/sp
+
+뉴데일리
+	뉴데/ncn+이/jp+ㄹ/etm+리/nbn
+
+
+바로가기
+	바로가/ncn+이/jp+기/etn
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+newdaily.
+	newdaily/f+./sy
+
+co.
+	co/f+./sy
+
+kr/news/article.
+	kr/f+//sp+news/f+//sp+article/f+./sy
+
+html
+	html/f
+
+?
+	?/sf
+
+
+no=63920
+	no/f+=/sy+63920/nnc
+
+
+4대강살리기
+	4대강살리/ncn+이/jp+기/etn
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+4rivers.
+	4rivers./ncn
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+mltm.
+	mltm/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp

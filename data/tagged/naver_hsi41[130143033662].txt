@@ -1,0 +1,1221 @@
+쌀값
+	쌀값/ncn
+
+급등
+	급등/ncpa
+
+전력공급
+	전력공급/ncpa
+
+불안
+	불안/ncps
+
+"아사자
+	"/sl+아사자/ncn
+
+발생"
+	발생/ncpa+"/sr
+
+주장도계절요인
+	주장도계절요/ncn+이/jp+ㄴ/etm
+
+개혁
+	개혁/ncpa
+
+기대심리
+	기대심리/ncn
+
+재정부족
+	재정/ncn+부족/ncn
+
+등
+	등/nbu
+
+원인
+	원/nbu+이/jp+ㄴ/etm
+
+분석
+	분석/ncpa
+
+엇갈려(서울=연합뉴스)
+	엇갈려(서울=연합뉴스)/ncn
+
+이준삼
+	이준삼/ncn
+
+기자
+	기/ncn+이/jp+자/ecc
+
+=
+	=/sy
+
+북한
+	북한/ncn
+
+주요도시의
+	주요도시/ncn+의/jcm
+
+쌀값과
+	쌀값/ncn+과/jcj
+
+환율이
+	환율/ncn+이/jcc
+
+급상승하고
+	급상승/ncpa+하고/jct
+
+있고
+	있/px+고/ecc
+
+전력공급도
+	전력공급/ncpa+도/jxc
+
+원활하지
+	원활/ncps+하/xsms+지/ecx
+
+않아
+	않/px+아/ecx
+
+북한경제에
+	북한경제/ncn+에/jca
+
+`빨간불'이
+	`빨간불'/ncn+이/jcc
+
+켜진
+	크/paa+어/ecx+지/px+ㄴ/etm
+
+것
+	것/nbn
+
+아니냐는
+	아니/paa+냐/ef+는/etm
+
+관측이
+	관측/ncpa+이/jcc
+
+나오고
+	나/pvg+아/ecx+오/px+고/ecc
+
+있다.
+	있/px+다/ef+./sf
+
+22일
+	22/nnc+일/nbu
+
+대북매체인
+	대북/ncn+매체/ncn+이/jp+ㄴ/etm
+
+데일리NK가
+	데일리NK/ncn+가/jcs
+
+집계해
+	집계/ncpa+하/xsva+어/ecx
+
+공개하는
+	공개/ncpa+하/xsva+는/etm
+
+`북한
+	`북한/ncn
+
+장마당
+	장마/ncn+당/ncn
+
+동향'에
+	동향/ncpa+'/sr+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+평양,
+	평양,/ncn
+
+혜산,
+	혜산,/ncn
+
+신의주
+	신의/ncn+주/ncn
+
+등
+	등/nbu
+
+북한
+	북한/ncn
+
+주요도시
+	주요도시/ncn
+
+쌀가격이
+	쌀가격/ncn+이/jcc
+
+지난
+	지나/pvg+ㄴ/etm
+
+4월
+	4/nnc+월/nbu
+
+말부터
+	말/ncn+부터/jxc
+
+상승하기
+	상승/ncpa+하/xsva+기/etn
+
+시작해
+	시작/ncpa+해/ncn
+
+4개월째
+	4/nnc+개월/nbu+째/xsnu
+
+`고공행진'을
+	`/sl+고공/ncn+행진/ncpa+'/sr+을/jco
+
+이어가고
+	잇/pvg+어/ecx+가/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+4월25일
+	4월25/ncn+이/jp+ㄹ/etm
+
+2천600원이던
+	2/nnc+천/nnc+600/nnc+원/nbu+이/jp+던/etm
+
+평양의
+	평양/ncn+의/jcm
+
+쌀가격은
+	쌀가격/ncn+은/jxc
+
+6월5일
+	6월5/ncn+이/jp+ㄹ/etm
+
+3천원,
+	3/nnc+천/nnc+원/nbu+,/sp
+
+6월
+	6/nnc+월/nbu
+
+말
+	말/px+ㄹ/etm
+
+4천900원,
+	4/nnc+천/nnc+900/nnc+원/nbu+,/sp
+
+7월13일
+	7월13/ncn+이/jp+ㄹ/etm
+
+5천300원
+	5/nnc+천/nnc+300/nnc+원/nbu
+
+등으로
+	등/nbu+으로/jca
+
+급등했다.
+	급등/ncpa+하/xsva+었/ep+다/ef+./sf
+
+4월25일
+	4월25/ncn+이/jp+ㄹ/etm
+
+2천600원,
+	2/nnc+천/nnc+600/nnc+원/nbu+,/sp
+
+2천700원
+	2/nnc+천/nnc+700/nnc+원/nbu
+
+선이던
+	선/ncn+이/jp+던/etm
+
+신의주와
+	신의/ncn+주/ncn+와/jcj
+
+혜산의
+	혜산/ncn+의/jcm
+
+쌀가격은
+	쌀가격/ncn+은/jxc
+
+7월13일
+	7월13/ncn+이/jp+ㄹ/etm
+
+각각
+	각각/ncn
+
+4천300원,
+	4/nnc+천/nnc+300/nnc+원/nbu+,/sp
+
+5천원
+	5/nnc+천/nnc+원/nbu
+
+선까지
+	선/ncn+까지/jxc
+
+치솟았다
+	치솟/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+달러
+	다르/paa+아/ecx
+
+대비
+	대비/ncn
+
+북한
+	북한/ncn
+
+원화의
+	원화/ncn+의/jcm
+
+환율도
+	환율/ncn+도/jxc
+
+뛰고
+	뛰/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+3월
+	3/nnc+월/nbu
+
+초
+	초/nbu
+
+달러당
+	달러/ncn+당/ncn
+
+3천700원
+	3/nnc+천/nnc+700/nnc+원/nbu
+
+정도였던
+	정도/ncn+이/jp+었/ep+던/etm
+
+평양의
+	평양/ncn+의/jcm
+
+원화환율은
+	원화환율/ncn+은/jxc
+
+4월25일
+	4월25/ncn+이/jp+ㄹ/etm
+
+4천200원,
+	4/nnc+천/nnc+200/nnc+원/nbu+,/sp
+
+6월14일
+	6월14/ncn+이/jp+ㄹ/etm
+
+4천400원,
+	4/nnc+천/nnc+400/nnc+원/nbu+,/sp
+
+7월13일
+	7월13/ncn+이/jp+ㄹ/etm
+
+5천400원
+	5/nnc+천/nnc+400/nnc+원/nbu
+
+선으로
+	선/ncn+으로/jca
+
+급상승했다
+	급상승/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+같은
+	같/paa+은/etm
+
+쌀값과
+	쌀값/ncn+과/jcj
+
+환율은
+	환율/ncn+은/jxc
+
+5
+	5/nnc
+
+8월이라는
+	8/nnc+월/nbu+이/jp+라/ef+는/etm
+
+계절적
+	계절/ncn+적/ncn
+
+요인을
+	요인/ncn+을/jco
+
+감안해도
+	감안/ncpa+해/ncn+도/jxc
+
+이례적이다
+	이례/ncn+적/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+북한의
+	북한/ncn+의/jcm
+
+화폐개혁(2009년
+	화폐개혁(2009년/ncn
+
+11월30일)
+	11월30일)/ncn
+
+이후
+	이후/ncn
+
+최고치를
+	최고치/ncn+를/jco
+
+기록한
+	기록/ncpa+하/xsva+ㄴ/etm
+
+지난해
+	지난해/ncn
+
+말보다
+	말/ncn+보다/jca
+
+높은
+	높/paa+은/etm
+
+수준이기
+	수준/ncn+이/jp+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+전력수급도
+	전력/ncn+수급/ncn+도/jxc
+
+불안한
+	불안/ncps+하/xsms+ㄴ/etm
+
+상황이라는
+	상황/ncn+이/jp+라/ef+는/etm
+
+관측이
+	관측/ncpa+이/jcc
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+북한매체들은
+	북한매체들/ncn+은/jxc
+
+지난
+	지나/pvg+ㄴ/etm
+
+15일
+	15/nnc+일/nbu
+
+김정은
+	김정/ncn+은/jxc
+
+국방위원회
+	국방위원회/ncn
+
+제1위원장의
+	제1위원장/ncn+의/jcm
+
+경상유치원
+	경상/ncn+유치원/ncn
+
+현지지도
+	현지/ncn+이/jp+지/ecs+도/jxc
+
+소식을
+	소식/ncn+을/jco
+
+전하면서
+	전하/pvg+면서/ecc
+
+"저도
+	"/sl+저/npp+도/jxc
+
+모르게
+	모르/pvg+게/ecs
+
+냉온보장조건이
+	냉온보장조건/ncn+이/jcc
+
+원만하지
+	원만/ncps+하/xsms+지/ecx
+
+못하다고
+	못하/px+다/ef+고/jcr
+
+(김
+	(/sl+길/paa+ㅁ/etn
+
+1위원장에게)
+	1위원장에게)/ncn
+
+솔직히
+	솔직히/mag
+
+말했다"는
+	말/ncpa+하/xsva+었/ep+다/ef+"/sr+는/jxc
+
+이
+	이/mmd
+
+유치원
+	유치원/ncn
+
+원장의
+	원장/ncr+의/jcm
+
+고백을
+	고백/ncpa+을/jco
+
+소개했다
+	소개/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+"실내온도가
+	"/sl+실내온도/ncn+가/jcs
+
+선선하지
+	선선/ncps+하/xsms+지/ecx
+
+못하다"는
+	못하/px+다/ef+"/sr+는/jxc
+
+김
+	길/paa+ㅁ/etn
+
+1위원장의
+	1위원장/ncn+의/jcm
+
+지적에
+	지적/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+답변이었다
+	답변/ncpa+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+북한에서
+	북한/ncn+에서/jca
+
+일선
+	일선/ncn
+
+기관장이나
+	기관장/ncn+이나/jcj
+
+단체장이
+	단체장/ncn+이/jcc
+
+최고지도자에게
+	최고지도자/ncn+에게/jca
+
+어려움을
+	어려움/ncn+을/jco
+
+솔직히
+	솔직히/mag
+
+털어놓는
+	털/pvg+어/ecx+놓/px+는/etm
+
+것은
+	것/nbn+은/jxc
+
+이례적인
+	이례/ncn+적/ncn+이/jp+ㄴ/etm
+
+일이다
+	일/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+북한이
+	북한/ncn+이/jcc
+
+이를
+	이/npd+를/jco
+
+이례적으로
+	이례/ncn+적/ncn+으로/jca
+
+공개한
+	공개/ncpa+하/xsva+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+김
+	길/paa+ㅁ/etn
+
+1위원장의
+	1위원장/ncn+의/jcm
+
+포용력을
+	포용력/ncn+을/jco
+
+강조하기
+	강조/ncpa+하/xsva+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+보이지만
+	보이/pvg+지/ecx+말/px+ㄴ/etm
+
+현재
+	현재/ncn
+
+평양지역
+	평양지역/ncn
+
+전력수급이
+	전력/ncn+수급/ncn+이/jcc
+
+원활하지
+	원활/ncps+하/xsms+지/ecx
+
+못하다는
+	못하/px+다/ef+는/etm
+
+점도
+	점/nbu+도/jxc
+
+간접적으로
+	간접/ncn+적/ncn+으로/jca
+
+시인한
+	시/nbu+이/jp+ㄴ/etm+한/nbn
+
+셈이다
+	셈/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+대북
+	대북/ncn
+
+관련
+	관련/ncn
+
+단체들
+	단체/ncn+들/ncn
+
+사이에서는
+	사이/ncn+에서/jca+는/jxc
+
+지난
+	지나/pvg+ㄴ/etm
+
+4
+	4/nnc
+
+6월
+	6/nnc+월/nbu
+
+발생한
+	발생/ncpa+하/xsva+ㄴ/etm
+
+기록적인
+	기록/ncpa+적/ncn+이/jp+ㄴ/etm
+
+가뭄으로
+	가뭄/ncn+으로/jca
+
+식량상황이
+	식량/ncn+상황/ncn+이/jcc
+
+급격히
+	급격히/mag
+
+악화하고
+	악화/ncpa+하고/jct
+
+있다는
+	있/px+다/ef+는/etm
+
+분석도
+	분석/ncpa+도/jxc
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+대북인권단체인
+	대북/ncn+인권단체/ncn+이/jp+ㄴ/etm
+
+좋은벗들은
+	좋은벗들/ncn+은/jxc
+
+최근
+	최근/mag
+
+발간한
+	발갛/paa+은/etm+한/nbn
+
+자료에서
+	자료/ncn+에서/jca
+
+식량난
+	식량난/ncn
+
+악화로
+	악화/ncpa+로/jca
+
+황해남북도,
+	황해남북도,/ncn
+
+평안남도,
+	평안/ncn+남/ncn+도/jxc+,/sp
+
+강원도
+	강원/ncn+도/jxc
+
+지역에서
+	지역/ncn+에서/jca
+
+굶어
+	굶/pvg+어/ecx
+
+죽는
+	죽/pvg+는/etm
+
+농민이
+	농민/ncn+이/jcc
+
+지속적으로
+	지속/ncpa+적/ncn+으로/jca
+
+발생하고
+	발생/ncpa+하고/jct
+
+있다고
+	있/px+다/ef+고/jcr
+
+주장했다
+	주장/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+북한
+	북한/ncn
+
+경제지표가
+	경제지표/ncn+가/jcs
+
+나빠지는
+	나쁘/paa+아/ecx+지/px+는/etm
+
+배경에
+	배경/ncn+에/jca
+
+대해서는
+	대/pvg+어/ecx+하/px+어서/ecs+는/jxc
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+분석이
+	분석/ncpa+이/jcc
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+한
+	하/pvg+ㄴ/etm
+
+대북
+	대북/ncn
+
+전문가는
+	전문가/ncn+는/jxc
+
+쌀값
+	쌀값/ncn
+
+상승
+	상승/ncpa
+
+등에
+	등/nbu+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+"급상승
+	"/sl+급상승/ncpa
+
+추세에
+	추세/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+국제
+	국제/ncn
+
+곡물가격이
+	곡물가격/ncn+이/jcc
+
+영향을
+	영향/ncn+을/jco
+
+준
+	주/px+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+보인다"고
+	보이/pvg+ㄴ다/ef+"/sr+고/jcr
+
+분석했다
+	분석/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+데일리NK는
+	데일리NK/ncn+는/jxc
+
+"최근
+	"/sl+최근/ncn
+
+경제개혁에
+	경제개혁/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+새로운
+	새롭/paa+은/etm
+
+방침이
+	방침/ncn+이/jcc
+
+내려질
+	내리/pvg+어/ecx+지/px+ㄹ/etm
+
+것이란
+	것/nbn+이란/jxc
+
+소문이
+	소문/ncn+이/jcc
+
+돌면서
+	돌/pvg+면서/ecc
+
+쌀을
+	쌀/ncn+을/jco
+
+보유하고
+	보유/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+중개매매인들이
+	중개/ncpa+매매/ncpa+이/jp+ㄴ/etm+들/nbn+이/jcc
+
+쌀을
+	쌀/ncn+을/jco
+
+내놓지
+	내/pvg+어/ecx+놓/px+지/ecx
+
+않아
+	않/px+아/ecx
+
+상승한
+	상승/ncpa+하/xsva+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+보인다"며
+	보인다"며/ncn
+
+시장에서
+	시장/ncn+에서/jca
+
+위안화와
+	위안/ncpa+화/ncn+와/jcj
+
+달러화
+	달러/ncn+화/ncn
+
+결제가
+	결제/ncn+가/jcs
+
+확대되고
+	확대/ncpa+되/xsvn+고/ecc
+
+있는
+	있/px+는/etm
+
+것도
+	것/nbn+도/jxc
+
+물가상승을
+	물가상승/ncpa+을/jco
+
+부추기는
+	부추기/pvg+는/etm
+
+원인으로
+	원인/ncn+으로/jca
+
+거론했다
+	거론/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+일각에서는
+	일각/ncn+에서/jca+는/jxc
+
+북한이
+	북한/ncn+이/jcc
+
+작년
+	작년/ncn
+
+말부터
+	말/ncn+부터/jxc
+
+잇따라
+	잇따르/pvg+아/ecx
+
+열린
+	열리/pvg+ㄴ/etm
+
+각종
+	각종/ncn
+
+행사에
+	행사/ncpa+에/jca
+
+상당한
+	상당/ncn+한/ncn
+
+국고를
+	국고/ncn+를/jco
+
+쏟아부어
+	쏟아부/ncn+이/jp+어/ecs
+
+나타난
+	나타나/pvg+ㄴ/etm
+
+`부작용'이라는
+	`/sl+부작용/ncn+'/sr+이/jp+라/ecs+는/jxc
+
+분석도
+	분석/ncpa+도/jxc
+
+내놓는다
+	내/pvg+어/ecx+놓/px+는다/ef
+
+.
+	./sf
+
+
+북한은
+	북한/ncn+은/jxc
+
+지난해
+	지난해/ncn
+
+말
+	말/px+ㄹ/etm
+
+김정일
+	김정/ncn+이/jp+ㄹ/etm
+
+국방위원장
+	국방위원장/ncn
+
+장례식을
+	장례식/ncn+을/jco
+
+시작으로
+	시작/ncpa+으로/jca
+
+김
+	길/paa+ㅁ/etn
+
+위원장
+	위원장/ncr
+
+70회
+	70/nnc+회/nbu
+
+생일(2월16일),
+	생일(2월16일),/ncn
+
+김일성
+	김/nbn+이/jp+ㄹ/etm+성/nbs
+
+주석
+	주석/ncn
+
+100회
+	100/nnc+회/nbu
+
+생일(4월15일),
+	생일(4월15일),/ncn
+
+소년단
+	소년단/ncn
+
+창립
+	창립/ncpa
+
+66돌(6월3일)
+	66돌(6월3일)/ncn
+
+행사
+	행사/ncpa
+
+등을
+	등/nbu+을/jco
+
+대규모로
+	대규모/ncn+로/jca
+
+치렀다
+	치르/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+4월
+	4/nnc+월/nbu
+
+장거리
+	장거리/ncn
+
+로켓
+	로켓/ncn
+
+발사에는
+	발사/ncpa+에/jca+는/jxc
+
+수천만
+	수천만/nnc
+
+수억
+	수억/nnc
+
+달러가
+	달러/nbu+가/jcc
+
+들었다고
+	들/pvg+었/ep+다/ef+고/jcr
+
+일부
+	일/nnc+부/nbu
+
+전문가는
+	전문가/ncn+는/jxc
+
+추정한다
+	추정/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+임을출
+	임을출/ncn
+
+경남대
+	경남대/ncn
+
+극동문제연구소
+	극동문제/ncn+연구소/ncn
+
+연구교수는
+	연구/ncpa+교수/ncr+는/jxc
+
+"최근
+	"/sl+최근/ncn
+
+북한의
+	북한/ncn+의/jcm
+
+쌀값
+	쌀값/ncn
+
+상승
+	상승/ncpa
+
+등은
+	등/nbu+은/jxc
+
+일단
+	일단/mag
+
+계절적
+	계절/ncn+적/ncn
+
+요인이
+	요인/ncn+이/jcc
+
+가장
+	가장/mag
+
+크다고
+	크/paa+다/ef+고/jcr
+
+본다
+	보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+5
+	5/nnc
+
+8월은
+	8/nnc+월/nbu+은/jxc
+
+햇곡식이
+	햇곡식/ncn+이/jcc
+
+나오기
+	나/pvg+아/ecx+오/px+기/etn
+
+전이어서
+	전/nbn+이/jp+어서/ecs
+
+매년
+	매년/mag
+
+쌀값이
+	쌀값/ncn+이/jcc
+
+가장
+	가장/mag
+
+비쌀
+	비싸/paa+ㄹ/etm
+
+때"라면서도
+	때/ncn+"/sr+라면서/jca+도/jxc
+
+"북한이
+	"북한/ncn+이/jcc
+
+행사에
+	행사/ncpa+에/jca
+
+많은
+	많/paa+은/etm
+
+돈을
+	돈/ncn+을/jco
+
+쓴
+	쓰/pvg+ㄴ/etm
+
+것도
+	것/nbn+도/jxc
+
+다소
+	다소/mag
+
+영향을
+	영향/ncn+을/jco
+
+준
+	주/px+ㄴ/etm
+
+것
+	것/nbn
+
+같다"고
+	같/paa+다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+jslee@yna.
+	jslee/f+@/sy+yna/f+./sy
+
+co.
+	co/f+./sy
+
+kr
+	kr/f
+
+
+출처:연합뉴스
+	출처/ncn+:/sp+연합/ncpa+뉴스/ncn

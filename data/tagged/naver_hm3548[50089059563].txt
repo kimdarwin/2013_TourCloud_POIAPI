@@ -1,0 +1,1946 @@
+4.
+	4./nnc
+
+오사카
+	오사/ncn+카/ncn
+
+쿠라
+	크/paa+어라/ef
+
+시노콘자쿠칸(주택박물관)에서
+	시노콘자쿠칸(주택박물관)에서/ncn
+
+...
+	.../se
+
+
+오사카
+	오사/ncn+카/ncn
+
+쿠라
+	크/paa+어라/ef
+
+시노콘자쿠칸
+	시노콘자쿠칸/ncn
+
+관람
+	관람/ncpa
+
+전
+	전/mma
+
+
+옆의
+	옆/ncn+의/jcm
+
+아케이드
+	아케이드/ncn
+
+상가에서
+	상가/ncn+에서/jca
+
+도시락을
+	도시락/ncn+을/jco
+
+사서
+	사/pvg+아/ecx
+
+공원에
+	공원/ncn+에/jca
+
+가서
+	가/pvg+서/ecs
+
+점심을
+	점심/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+낮잠도
+	낮잠/ncn+도/jxc
+
+자고,
+	자고/ncn+,/sp
+
+
+딸기도
+	딸기/ncn+도/jxc
+
+사고,
+	사/pvg+고/ecc+,/sp
+
+토마토도
+	토마토/ncn+도/jxc
+
+사고,
+	사/pvg+고/ecc+,/sp
+
+클렌징폼도
+	클렌징폼/ncn+도/jxc
+
+사고,
+	사/pvg+고/ecc+,/sp
+
+왁스도
+	왁스/ncn+도/jxc
+
+사고
+	사/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+하마터면
+	하마터면/maj
+
+오사카
+	오사/ncn+카/ncn
+
+쿠라
+	크/paa+어라/ef
+
+시노콘자쿠칸(주택박물관)도
+	시노콘자쿠칸(주택박물관)/ncn+도/jxc
+
+보지도
+	보/px+지/ecs+도/jxc
+
+않고
+	않/px+고/ecc
+
+그냥
+	그냥/mag
+
+돌아갈뻔했어요
+	돌/pvg+아/ecx+가/px+ㄹ/etm+뻔/nbs+하/xsms+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+오늘
+	오늘/ncn
+
+덴진바시스시
+	덴진바시스시/ncn
+
+록초메역에
+	록초메역/ncn+에/jca
+
+온
+	오/px+ㄴ/etm
+
+목적을
+	목적/ncn+을/jco
+
+달성해야죠
+	달성/ncpa+하/xsva+어야죠/ef
+
+.
+	./sf
+
+
+오사카
+	오사/ncn+카/ncn
+
+쿠라
+	크/paa+어라/ef
+
+시노콘자쿠칸(주택박물관)에
+	시노콘자쿠칸(주택박물관)/ncn+에/jca
+
+들어가요
+	들/pvg+어/ecx+가/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+주택박물관은
+	주택/ncn+박물관/ncn+은/jxc
+
+빌딩건물에서
+	빌딩/ncn+건물/ncn+에서/jca
+
+8층이예요
+	8/nnc+층/nbu+이/jp+예요/ef
+
+.
+	./sf
+
+
+8층에
+	8/nnc+층/nbu+에/jca
+
+딱
+	딱/mag
+
+내리는
+	내리/pvg+는/etm
+
+순간
+	순간/ncn
+
+매표소
+	매표소/ncn
+
+?
+	?/sf
+
+
+가
+	가/jcs
+
+보여요
+	보이/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+전
+	전/nbn
+
+주유패스가
+	주유/ncpa+패스/ncpa+가/jcc
+
+있기때문에
+	있기때문/ncn+에/jca
+
+주유패스와
+	주유/ncpa+패스/ncpa+와/jcj
+
+쿠폰을
+	쿠폰/ncn+을/jco
+
+내면
+	내/pvg+면/ecs
+
+공짜예요
+	공짜/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+쿠폰으로
+	쿠폰/ncn+으로/jca
+
+티켓
+	티켓/ncn
+
+교환을
+	교환/ncpa+을/jco
+
+하고,
+	하/pvg+고/ecc+,/sp
+
+딸기,
+	딸기/ncn+,/sp
+
+토마토
+	토마토/ncn
+
+등의
+	등/nbu+의/jcm
+
+무거운(응
+	무거운(응/ncn
+
+?)
+	?/sf+)/sr
+
+
+짐을
+	지/px+ㅁ/etn+을/jco
+
+매표소에
+	매표소/ncn+에/jca
+
+맡겨요
+	맡기/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+느긋한
+	느긋/ncps+하/xsms+ㄴ/etm
+
+관람을
+	관람/ncpa+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+무거운
+	무겁/paa+은/etm
+
+짐은
+	지/px+ㅁ/etn+은/jxc
+
+내려두셔도
+	내리/pvg+어/ecx+두/px+시/ep+어도/ecs
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+랄까
+	랄까/ncn
+
+?
+	?/sf
+
+
+무거운
+	무겁/paa+은/etm
+
+짐은
+	지/px+ㅁ/etn+은/jxc
+
+관람에
+	관람/ncpa+에/jca
+
+방해되기때문에
+	방해되기때문/ncn+에/jca
+
+맡겨버렸어요
+	맡기/pvg+어/ecx+버리/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+이제
+	이제/mag
+
+매표소
+	매표소/ncn
+
+좌측의
+	좌측/ncn+의/jcm
+
+입구로
+	입구/ncn+로/jca
+
+들어가요
+	들/pvg+어/ecx+가/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+들어가자마자
+	들/pvg+어/ecx+가/px+자마자/ecs
+
+에스컬레이터를
+	에스컬레이터/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+올라가는데
+	올라가/pvg+ㄴ데/ecs
+
+
+벽면에는
+	벽면/ncn+에/jca+는/jxc
+
+에도시대의
+	에도시대/ncn+의/jcm
+
+오사카가
+	오사/ncn+카/ncn+가/jcs
+
+그려져있는것
+	그리/pvg+어/ecx+지/px+어/ecx+있/px+는/etm+것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+...
+	.../se
+
+
+에도시대의
+	에도시대/ncn+의/jcm
+
+오사카
+	오사/ncn+카/ncn
+
+마쯔리를
+	마쯔리/ncn+를/jco
+
+재현해
+	재현/ncpa+하/xsva+어/ecx
+
+놓은
+	놓/px+은/etm
+
+거리
+	거리/ncn
+
+입구로
+	입구/ncn+로/jca
+
+들어가서
+	들/pvg+어/ecx+가/px+아/ecx
+
+우측엔
+	우측/ncn+엔/jca
+
+기모노(
+	기모노(/ncn
+
+?
+	?/sf
+
+
+내가
+	나/npp+가/jcs
+
+생각하기엔
+	생각/ncpa+하/xsva+기/etn+엔/jca
+
+유카타인데
+	유카타/ncn+이/jp+ㄴ데/ecs
+
+..)
+	./sf+./sf+)/sr
+
+
+를
+	를/ncn
+
+체험할
+	체험/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는곳이
+	있는곳/ncn+이/jcc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+못
+	못/mag
+
+찾겠다면
+	찾/pvg+겠/ep+다면/ecs
+
+?
+	?/sf
+
+
+안내원에게
+	안내원/ncr+에게/jca
+
+기모노
+	기모노/ncn
+
+..
+	./sf+./sf
+
+
+라고
+	라/ncn+이/jp+고/ecc
+
+하면
+	하/pvg+면/ecs
+
+알아서
+	알/pvg+아/ecx
+
+안내해주세요
+	안내/ncpa+하/xsva+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+전에
+	전/nbn+에/jca
+
+어느분의
+	어느분/ncn+의/jcm
+
+여행기를
+	여행기/ncn+를/jco
+
+읽다
+	읽/pvg+다/ef
+
+주택박물관에
+	주택/ncn+박물관/ncn+에/jca
+
+오면
+	오/px+면/ecs
+
+기모노체험을
+	기모노/ncn+체험/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다는
+	있/px+다/ef+는/etm
+
+사실을
+	사실/ncn+을/jco
+
+알게되어
+	알/pvg+게/ecx+되/px+어/ecx
+
+왔기때문에
+	왔기때문/ncn+에/jca
+
+!
+	!/sf
+
+
+기모노
+	기모노/ncn
+
+체험을
+	체험/ncpa+을/jco
+
+해봤어요
+	하/pvg+어/ecx+보/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+근데
+	근데/ncn
+
+!
+	!/sf
+
+
+암만
+	알/pvg+ㅁ/etn+만/jxc
+
+생각해도
+	생각/ncpa+해/ncn+도/jxc
+
+저건
+	저/npp+이/jp+건/ecc
+
+기모노가
+	기모노/ncn+가/jcs
+
+아니고
+	아니/paa+고/ecc
+
+유카타인데
+	유카타/ncn+이/jp+ㄴ데/ecs
+
+...
+	.../se
+
+
+유카타는
+	유카타/ncn+는/jxc
+
+홑겹으로
+	홑겹/ncn+으로/jca
+
+면으로
+	면/ncn+으로/jca
+
+만들어진것이고
+	만들/pvg+어/ecx+지/px+ㄴ/etm+것/nbn+이/jp+고/ecc
+
+기모노는
+	기모노/ncn+는/jxc
+
+여러겹으로
+	여러/nnc+겹/nbu+으로/jca
+
+실크로
+	실크/ncn+로/jca
+
+만들어진거
+	만들어진거/ncn
+
+아닌가요
+	아니/paa+ㄴ가/ef+요/jxf
+
+?
+	?/sf
+
+
+유카타
+	유카타/ncn
+
+체험이라고
+	체험/ncpa+이/jp+라/ef+고/jcr
+
+하는게
+	하/pvg+는게/ecs
+
+맞을
+	맞/pvg+을/etm
+
+듯;;
+	듯/ncn+;/sy+;/sy
+
+
+암튼
+	암튼/ncn
+
+!
+	!/sf
+
+
+유카타를
+	유카타/ncn+를/jco
+
+제대로
+	제대로/mag
+
+입어보고자
+	입/pvg+어/ecx+보/px+고자/ecs
+
+안내원에게
+	안내원/ncr+에게/jca
+
+도와달라고
+	도와달라/ncn+이/jp+고/ecc
+
+부탁했더니
+	부탁/ncpa+하/xsva+었/ep+더니/ecs
+
+친절히
+	친절히/mag
+
+도와줬어요
+	돕/pvg+어/ecx+주/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+근데
+	근데/ncn
+
+엄청
+	엄청/mag
+
+조심스러워하며
+	조심/ncpa+스럽/xsmn+어/ecx+하/px+며/ecc
+
+쫙쫙
+	쫙쫙/ncn
+
+쪼여가며
+	쪼이/pvg+어/ecx+가/px+며/ecc
+
+입혀주셨는데
+	입히/pvg+어/ecx+주/px+셨/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+너무
+	너무/mag
+
+조심스러워하셔서
+	조심/ncpa+스럽/xsmn+어/ecx+하/px+시/ep+어서/ecs
+
+제대로
+	제대로/mag
+
+입혀주시진
+	입혀주시진/ncn
+
+않으신듯
+	않/px+으시/ep+ㄴ/etm+듯/nbs
+
+..
+	./sf+./sf
+
+
+;;
+	;/sy+;/sy
+
+
+...
+	.../se
+
+
+핑크색을
+	핑크색/ncn+을/jco
+
+좋아하기때문에
+	좋아하기때문/ncn+에/jca
+
+핑크색
+	핑크색/ncn
+
+유카타를
+	유카타/ncn+를/jco
+
+입었구요
+	입었구요/ncn
+
+!
+	!/sf
+
+
+단아한
+	단아/ncps+하/xsms+ㄴ/etm
+
+모습으로
+	모습/ncn+으로/jca
+
+분명
+	분명/ncps
+
+사진을
+	사진/ncn+을/jco
+
+찍었는데
+	찍/pvg+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+내가
+	나/npp+가/jcs
+
+원하던
+	원하/pvg+던/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+모습이
+	모습/ncn+이/jcc
+
+아니얏
+	아니얏/ncn
+
+!!
+	!/sf+!/sf
+
+
+얼굴이
+	얼굴/ncn+이/jcc
+
+좀
+	좀/mag
+
+많이
+	많/paa+이/xsa
+
+거시기하게
+	거시/ncn+기하/ncn+이/jp+게/ecs
+
+나와서
+	나오/pvg+아/ecx
+
+지웠어요
+	집/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+웃긴
+	웃기/pvg+ㄴ/etm
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+좋아하는데
+	좋/paa+아/ecx+하/px+는/etm+데/nbn
+
+..
+	./sf+./sf
+
+
+이건
+	이/npd+이/jp+건/ecc
+
+좀
+	좀/mag
+
+너무
+	너무/mag
+
+심해서
+	심해/ncn+서/jca
+
+
+...
+	.../se
+
+
+유카타를
+	유카타/ncn+를/jco
+
+입고
+	입/pvg+고/ecc
+
+에도시대의
+	에도시대/ncn+의/jcm
+
+마쯔리오사카
+	마쯔리오사카/ncn
+
+거리를
+	거리/ncn+를/jco
+
+거닐
+	거닐/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는데요,
+	있/px+는데/ef+요/jxf+,/sp
+
+유카타를
+	유카타/ncn+를/jco
+
+입으면
+	입/pvg+으면/ecs
+
+총총
+	총총/mag
+
+걸음으로
+	걸/pvg+ㅁ/etn+으로/jca
+
+걸어야해서
+	걷/pvg+어야/ecx+하/px+어서/ecs
+
+전
+	전/nbn
+
+사진만
+	사진/ncn+만/jxc
+
+찍고
+	찍/pvg+고/ecc
+
+벗었어요
+	벗/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+흐흐
+	흐흐/mag
+
+
+에도시대의
+	에도시대/ncn+의/jcm
+
+오사카를
+	오사/ncn+카/ncn+를/jco
+
+느끼러
+	느끼/pvg+러/ecs
+
+출발
+	출발/ncpa
+
+!
+	!/sf
+
+
+...
+	.../se
+
+
+마쯔리
+	마쯔리/ncn
+
+제등
+	제등/ncn
+
+
+...
+	.../se
+
+
+마쯔리가
+	마쯔리/ncn+가/jcs
+
+되면
+	되/pvg+면/ecs
+
+상가앞에는
+	상가/ncn+앞/ncn+에/jca+는/jxc
+
+장사
+	장사/ncpa
+
+도구와
+	도구/ncn+와/jcj
+
+일상
+	일상/ncn
+
+잡화로
+	잡화/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+사자와
+	사자/ncn+와/jcj
+
+호테이상
+	호테이상/ncn
+
+등
+	등/nbu
+
+모조품을
+	모조품/ncn+을/jco
+
+장식했다고
+	장식/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+하는데요,
+	하/pvg+ㄴ데요/ef+,/sp
+
+
+잡화상에는
+	잡화상/ncn+에/jca+는/jxc
+
+사자의
+	사자/ncn+의/jcm
+
+모습이
+	모습/ncn+이/jcc
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+신혼
+	신혼/ncn
+
+살림으로
+	살리/pvg+ㅁ/etn+으로/jca
+
+만들어져있어요
+	만들/pvg+어/ecx+지/px+어/ecx+있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+텐진마쯔리를
+	텐진마쯔리/ncn+를/jco
+
+장식하는
+	장식/ncpa+하/xsva+는/etm
+
+배
+	배/ncn
+
+모양의
+	모양/ncn+의/jcm
+
+수레
+	수레/ncn
+
+텐진마루
+	텐진마루/ncn
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+현란호화스러운
+	현란/ncn+호화/ncn+스럽/xsmn+은/etm
+
+모습의
+	모습/ncn+의/jcm
+
+세부에는
+	세부/ncn+에/jca+는/jxc
+
+여러가지
+	여러/nnc+가지/nbu
+
+동물들이
+	동물/ncn+들/ncn+이/jcc
+
+숨어있어요
+	숨/pvg+어/ecx+있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+사진에
+	사진/ncn+에/jca
+
+저의
+	저/npp+의/jcm
+
+모습도
+	모습/ncn+도/jxc
+
+얼핏
+	얼핏/mag
+
+나왔는데
+	나/pvg+아/ecx+오/px+아/ep+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+혹
+	혹/mag
+
+찾으셨나요
+	찾/pvg+으셨/ep+나/ef+요/jxf
+
+?
+	?/sf
+
+
+찾으신
+	찾/pvg+으시/ep+ㄴ/etm
+
+분
+	분/nbu
+
+손
+	손/ncn
+
+!!
+	!/sf+!/sf
+
+
+선물은
+	선물/ncn+은/jxc
+
+없구요,
+	없구요,/ncn
+
+저의
+	저/npp+의/jcm
+
+사랑을
+	사랑/ncn+을/jco
+
+무한대로
+	무한대/ncpa+로/jca
+
+드리겠습미닷
+	드리겠습미닷/ncn
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+...
+	.../se
+
+
+...
+	.../se
+
+
+사당
+	사당/ncn
+
+위에
+	위/ncn+에/jca
+
+재현해
+	재현/ncpa+하/xsva+어/ecx
+
+놓은
+	놓/px+은/etm
+
+매미허물
+	매미/ncn+허물/ncn
+
+?
+	?/sf
+
+
+흐흐흐
+	흐흐흐/ncn
+
+
+정말
+	정말/mag
+
+정교해요
+	정교/ncps+하/xsms+어/ef+요/jxf
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+사당에서
+	사당/ncn+에서/jca
+
+보이는
+	보이/pvg+는/etm
+
+골목길
+	골목길/ncn
+
+
+...
+	.../se
+
+
+어미개와
+	어미/ncn+개/ncn+와/jcj
+
+강아지가
+	강아지/ncn+가/jcs
+
+서로
+	서로/mag
+
+바라보며
+	바라/pvg+아/ecx+보/px+며/ecc
+
+있길래
+	있/px+길래/ecs
+
+가서
+	가/pvg+서/ecs
+
+봤더니
+	보/px+아/ep+니/ef
+
+..
+	./sf+./sf
+
+
+서로
+	서로/mag
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+굉장히
+	굉장히/mag
+
+애틋해보여요
+	애틋/ncps+하/xsms+어/ecx+보이/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+특히나
+	특히/mag+나/jxc
+
+어미개가
+	어미/ncn+개/ncn+가/jcs
+
+새끼개를
+	새끼/ncn+개/ncn+를/jco
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+눈빛이
+	눈빛/ncn+이/jcc
+
+사랑스럽고
+	사랑/ncpa+스럽/xsmn+고/ecc
+
+애틋한
+	애틋/ncps+하/xsms+ㄴ/etm
+
+느낌
+	느끼/pvg+ㅁ/etn
+
+?
+	?/sf
+
+
+흐흐
+	흐흐/mag
+
+
+마음이
+	마음/ncn+이/jcc
+
+지잉~해져서
+	지잉~해져서/ncn
+
+한참을
+	한참/ncn+을/jco
+
+옆에서
+	옆/ncn+에서/jca
+
+봤어요
+	보/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+...
+	.../se
+
+
+...
+	.../se
+
+
+...
+	.../se
+
+
+...
+	.../se
+
+
+에도시대의
+	에도시대/ncn+의/jcm
+
+오사카
+	오사/ncn+카/ncn
+
+마쯔리를
+	마쯔리/ncn+를/jco
+
+재현해
+	재현/ncpa+하/xsva+어/ecx
+
+놓은
+	놓/px+은/etm
+
+거리에서는
+	거리/ncn+에서/jca+는/jxc
+
+30분
+	30/nnc+분/nbu
+
+단위로
+	단위/ncn+로/jca
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+뜨고,
+	뜨/pvg+고/ecc+,/sp
+
+지고,
+	지/px+고/ecc+,/sp
+
+불꽃놀이도
+	불꽃놀이/ncpa+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+변하니
+	변하/pvg+니/ecs
+
+느긋하게
+	느긋/ncps+하/xsms+게/ecs
+
+구경해요
+	구경/ncpa+하/xsva+어/ef+요/jxf
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+...
+	.../se
+
+
+덴진마쯔리
+	덴진마쯔/ncn+이/jp+리/ef
+
+
+타이쇼시대의
+	타이쇼시대/ncn+의/jcm
+
+텐진마쯔리의
+	텐진마쯔리/ncn+의/jcm
+
+나룻터
+	나룻/ncn+터/ncn
+
+풍경을
+	풍경/ncn+을/jco
+
+재현
+	재현/ncpa
+
+
+...
+	.../se
+
+
+쯔텐각과
+	쯔텐각/ncn+과/jcj
+
+에펠탑
+	에펠탑/ncn
+
+
+메이지시대
+	메이지/ncn+시대/ncn
+
+말기에
+	말/px+기/etn+에/jca
+
+완성도니
+	완성도/ncn+이/jp+니/ecs
+
+초대
+	초대/ncn
+
+쯔텐각과
+	쯔텐각/ncn+과/jcj
+
+에펠탑이예요
+	에펠탑이예요/ncn
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+오사카시
+	오사카시/ncn
+
+파노라마지도
+	파노라마/ncn+지도/ncn
+
+
+다이오사카시대의
+	다이오사카시대/ncn+의/jcm
+
+도시
+	도시/ncn
+
+지도가
+	지도/ncn+가/jcs
+
+거대한
+	거대/ncps+하/xsms+ㄴ/etm
+
+바닥에
+	바닥/ncn+에/jca
+
+빛을
+	빛/ncn+을/jco
+
+내며
+	내/pvg+며/ecc
+
+떠올라요
+	떠오르/pvg+아/ef+요/jxf
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+...
+	.../se
+
+
+이
+	이/mmd
+
+모형은
+	모형/ncn+은/jxc
+
+..
+	./sf+./sf
+
+
+목이
+	목/ncn+이/jcc
+
+잘려서
+	잘리/pvg+어서/ecs
+
+올려져있는듯해서
+	올리/pvg+어/ecx+지/px+어/ecx+있/px+는/etm+듯/nbs+하/xsms+어서/ecs
+
+살짝
+	살짝/mag
+
+오싹했던
+	오싹/ncps+하/xsms+었/ep+던/etm
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+...
+	.../se
+
+
+주택박물관을
+	주택/ncn+박물관/ncn+을/jco
+
+동선을
+	동선/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+관람을
+	관람/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+나오면
+	나/pvg+아/ecx+오/px+면/ecs
+
+기념품
+	기념품/ncn
+
+가게가
+	가게/ncn+가/jcs
+
+있고,
+	있/px+고/ecc+,/sp
+
+기념품가게
+	기념품/ncn+가게/ncn
+
+옆에는
+	옆/ncn+에/jca+는/jxc
+
+매표소가
+	매표소/ncn+가/jcs
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+기념품가게의
+	기념품/ncn+가게/ncn+의/jcm
+
+귀염둥이들을
+	귀염둥이/ncn+들/ncn+을/jco
+
+살짝
+	살짝/mag
+
+살까
+	사/pvg+ㄹ까/ecs
+
+망설였지만
+	망설이/pvg+었/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+집에
+	집/ncn+에/jca
+
+가면
+	가/px+면/ecs
+
+어딘가를
+	어딘가/ncn+를/jco
+
+헤메고
+	헤메/ncn+이/jp+고/ecc
+
+뒹굴거리게
+	뒹굴/pvg+ㄹ/etm+것/nbn+이/jp+리/ep+게/ecs
+
+될것같아서
+	되/pvg+ㄹ/etm+것/nbn+같/xsmn+아/ecx
+
+상큼하게
+	상큼/ncps+하/xsms+게/ecs
+
+접엇어요
+	접엇어요/ncn
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+오사카
+	오사/ncn+카/ncn
+
+쿠라
+	크/paa+어라/ef
+
+시노콘자쿠칸(주택박물관)에서
+	시노콘자쿠칸(주택박물관)/ncn+에서/jca
+
+유카타체험도
+	유카타체험/ncn+도/jxc
+
+하고,
+	하/pvg+고/ecc+,/sp
+
+에도시대의
+	에도시대/ncn+의/jcm
+
+오사카
+	오사/ncn+카/ncn
+
+마쯔리도
+	마쯔리/ncn+도/jxc
+
+구경하고,
+	구경/ncn+하고/jct+,/sp
+
+여러
+	여러/mma
+
+모형들을
+	모형/ncn+들/ncn+을/jco
+
+재미나게
+	재미나/pvg+게/ecs
+
+구경했어요
+	구경/ncpa+하/xsva+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+즐거웠어요
+	즐겁/paa+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+현재의
+	현재/ncn+의/jcm
+
+일본의
+	일/nnc+본/nbu+의/jcm
+
+마쯔리는
+	마쯔리/ncn+는/jxc
+
+어떤가
+	어떤/ncn+가/jcs
+
+궁금해져요
+	궁금해지/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+언젠가
+	언젠가/mag
+
+마쯔리
+	마쯔리/ncn
+
+할
+	하/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+마쯔리를
+	마쯔리/ncn+를/jco
+
+보기
+	보/px+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+여행을
+	여행/ncpa+을/jco
+
+오고싶어요
+	오/pvg+고/ecx+싶/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+...
+	.../se
+
+
+오사카
+	오사/ncn+카/ncn
+
+쿠라
+	크/paa+어라/ef
+
+시노콘자쿠칸(주택박물관)
+	시노콘자쿠칸/ncn+(/sl+주택/ncn+박물관/ncn+)/sr
+
+
+훌쩍
+	훌쩍/mag
+
+걸으며
+	걸/pvg+며/ecc
+
+체험하는
+	체험/ncpa+하/xsva+는/etm
+
+오사카의
+	오사/ncn+카/ncn+의/jcm
+
+거리
+	거리/nbn
+
+
+에도시대의
+	에도시대/ncn+의/jcm
+
+텐포때,
+	텐포때,/ncn
+
+오사카의
+	오사/ncn+카/ncn+의/jcm
+
+상점가를
+	상점가/ncn+를/jco
+
+실물
+	실물/ncn
+
+그대로
+	그대로/mag
+
+복원했습니다
+	복원/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+기와
+	기/ncn+와/jcj
+
+지붕을
+	지붕/ncn+을/jco
+
+이은
+	이/npd+은/jxc
+
+큰
+	크/paa+ㄴ/etm
+
+가게,
+	가게/ncn+,/sp
+
+작은
+	작/paa+은/etm
+
+가게,
+	가게/ncn+,/sp
+
+유달리
+	유달리/mag
+
+높은
+	높/paa+은/etm
+
+화재
+	화재/ncn
+
+감시대,
+	감시대/ncn+,/sp
+
+상점가
+	상점/ncn+가/jcs
+
+입구의
+	입구/ncn+의/jcm
+
+일각대문을
+	일각대문/ncn+을/jco
+
+들어서면,
+	들어서/pvg+면/ecs+,/sp
+
+목욕탕과
+	목욕탕/ncn+과/jcj
+
+집회소가
+	집회/ncpa+소/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+오사카의
+	오사/ncn+카/ncn+의/jcm
+
+거리,
+	거리/nbn+,/sp
+
+
+골목길을
+	골목길/ncn+을/jco
+
+지나면
+	지나/pvg+면/ecs
+
+연립주택도
+	연립주택/ncn+도/jxc
+
+있는,
+	있/px+는/etm+,/sp
+
+에도시대의
+	에도시대/ncn+의/jcm
+
+거리를
+	거리/ncn+를/jco
+
+자유롭게
+	자유/ncn+롭/xsmn+게/ecs
+
+산책할
+	산책/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+가는
+	가/pvg+는/etm
+
+방법:
+	방법/ncn+:/sp
+
+텐진바시스시
+	텐진바시스시/ncn
+
+록초메역
+	록초메역/ncn
+
+3번출구에서
+	3번출구/ncn+에서/jca
+
+바로
+	바로/mag
+
+.
+	./sf
+
+
+전화번호:
+	전화번호/ncn+:/sp
+
+06-6242-1170
+	06/nnc+-6242/nnc+-1170/nnc
+
+
+to
+	to/f
+
+be
+	be/f
+
+continued
+	continued/f
+
+
+...
+	.../se
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+airbusan.
+	airbusan/f+./sy
+
+com
+	com/f
+
+
+...
+	.../se
+
+
+2010
+	2010/nnc
+
+간사이
+	간사/ncr+이/jcc
+
+다른
+	다르/paa+ㄴ/etm
+
+글
+	글/ncn
+
+보러가기
+	보러가/ncn+이/jp+기/etn
+
+
+1.
+	1./nnc
+
+너
+	너/npp
+
+지금
+	지금/mag
+
+어디에
+	어디/npd+에/jca
+
+있니
+	있/px+니/ef
+
+?
+	?/sf
+
+
+2.
+	2./nnc
+
+드디어
+	드디어/mag
+
+오사카
+	오사/ncn+카/ncn
+
+도착
+	도착/ncpa
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+...
+	.../se
+
+
+3.
+	3./nnc
+
+쇼핑이라고하기엔
+	쇼핑/ncpa+이라/jca+이/jp+고/ecx+하/px+기/etn+엔/jca
+
+소소한
+	소소한/ncn
+
+그러나
+	그러나/maj
+
+쇼핑이겠지
+	쇼핑/ncpa+이/jp+겠/ep+지/ef
+
+...?
+	.../se+?/sf

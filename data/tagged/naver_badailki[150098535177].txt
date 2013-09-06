@@ -1,0 +1,423 @@
+어제서울
+	어제서울/ncn
+
+여의도
+	여의/ncn+도/jxc
+
+국회의사당
+	국회의사당/ncn
+
+앞
+	앞/ncn
+
+광장에
+	광장/ncn+에/jca
+
+경남
+	경남/ncn
+
+창녕의
+	창녕/ncn+의/jcm
+
+주민
+	주민/ncn
+
+500여명이
+	500/nnc+여/xsnu+명/nbu+이/jcc
+
+상경했습니다
+	상경/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+지역주민들의
+	지역주민/ncn+들/ncn+의/jcm
+
+염원인
+	염원/ncpa+이/jp+ㄴ/etm
+
+낙동강
+	낙동강/ncn
+
+살리기
+	사/pvg+ㄹ/etm+리/nbn+이/jp+기/etn
+
+사업
+	사업/ncn
+
+예산의
+	예산/ncpa+의/jcm
+
+원안
+	원안/ncn
+
+통과와
+	통과/ncpa+와/jcj
+
+정상
+	정상/ncn
+
+추진을
+	추진/ncpa+을/jco
+
+요청했습니다
+	요청/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+겨울
+	겨울/ncn
+
+추위에도
+	추위/ncn+에/jca+도/jxc
+
+아랑곳
+	아랑곳/ncpa
+
+않고
+	않/px+고/ecc
+
+지방에서
+	지방/ncn+에서/jca
+
+상경한
+	상경/ncpa+하/xsva+ㄴ/etm
+
+지역주민들이
+	지역주민/ncn+들/ncn+이/jcc
+
+서울
+	서울/ncn
+
+여의도에
+	여의/ncn+도/ncn+에/jca
+
+모였습니다
+	모이/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+국회의사당
+	국회의사당/ncn
+
+앞
+	앞/ncn
+
+광장에서
+	광장/ncn+에서/jca
+
+경남
+	경남/ncn
+
+창녕의
+	창녕/ncn+의/jcm
+
+화왕산포럼
+	화왕/ncn+산포/ncpa+럼/ncn
+
+회원
+	회원/ncn
+
+500여명이
+	500/nnc+여/xsnu+명/nbu+이/jcc
+
+모여,
+	모/nbu+여/xsnu+,/sp
+
+
+낙동강
+	낙동강/ncn
+
+살리기
+	사/pvg+ㄹ/etm+리/nbn+이/jp+기/etn
+
+사업에
+	사업/ncn+에/jca
+
+찬성하는
+	찬성/ncpa+하/xsva+는/etm
+
+집회를
+	집회/ncpa+를/jco
+
+열었습니다
+	열/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+집회에
+	집회/ncpa+에/jca
+
+참석한
+	참석/ncpa+하/xsva+ㄴ/etm
+
+지역
+	지역/ncn
+
+주민들은
+	주민/ncn+들/ncn+은/jxc
+
+
+낙동강
+	낙동강/ncn
+
+살리기
+	사/pvg+ㄹ/etm+리/nbn+이/jp+기/etn
+
+사업은
+	사업/ncn+은/jxc
+
+물
+	물/pvg+ㄹ/etm
+
+부족
+	부족/ncn
+
+현상을
+	현상/ncn+을/jco
+
+해소하고
+	해소/ncpa+하고/jct
+
+홍수
+	홍수/ncn
+
+피해를
+	피해/ncpa+를/jco
+
+예방하는
+	예방/ncpa+하/xsva+는/etm
+
+사업인
+	사업/ncn+이/jp+ㄴ/etm
+
+만큼,
+	만큼/nbn+,/sp
+
+
+정부
+	정부/ncn
+
+예산의
+	예산/ncpa+의/jcm
+
+원안
+	원안/ncn
+
+통과와
+	통과/ncpa+와/jct
+
+조속한
+	조속/ncps+하/xsms+ㄴ/etm
+
+사업
+	사업/ncn
+
+진행을
+	진행/ncpa+을/jco
+
+요구했습니다
+	요구/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이와
+	이/npd+와/jct
+
+함께
+	함께/mag
+
+경남도가
+	경남도/ncn+가/jcs
+
+낙동강
+	낙동강/ncn
+
+살리기
+	사/pvg+ㄹ/etm+리/nbn+이/jp+기/etn
+
+사업
+	사업/ncn
+
+시행을
+	시행/ncpa+을/jco
+
+지연시키고
+	지연/ncpa+시키/xsva+고/ecc
+
+있다면서,
+	있/paa+다면서/ecs+,/sp
+
+
+경남권역
+	경남권역/ncn
+
+낙동강
+	낙동강/ncn
+
+사업의
+	사업/ncn+의/jcm
+
+즉각적인
+	즉각/ncn+적/ncn+이/jp+ㄴ/etm
+
+정상화를
+	정상/ncn+화/ncn+를/jco
+
+요구했습니다
+	요구/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이와
+	이/npd+와/jct
+
+함께
+	함께/mag
+
+환경단체나
+	환경단체/ncn+나/jcj
+
+정치권에서,
+	정치권/ncn+에서/jca+,/sp
+
+4대강
+	4대강/ncn
+
+살리기
+	사/pvg+ㄹ/etm+리/nbn+이/jp+기/etn
+
+사업을
+	사업/ncn+을/jco
+
+
+더는
+	더/mag+는/jxc
+
+정치적으로
+	정치/ncpa+적/ncn+으로/jca
+
+이용하지
+	이용/ncpa+하/xsva+지/ecx
+
+말아달라고
+	말아달라/ncn+이/jp+고/ecc
+
+밝혔습니다
+	밝히/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+지역주민들은
+	지역주민/ncn+들/ncn+은/jxc
+
+백년대계의
+	백년대계/ncn+의/jcm
+
+국책사업인
+	국책사업/ncn+이/jp+ㄴ/etm
+
+4대강
+	4대강/ncn
+
+살리기는
+	살리/pvg+기/etn+는/jxc
+
+주민들의
+	주민/ncn+들/ncn+의/jcm
+
+염원이라며,
+	염원/ncpa+이라/jca+이/jp+며/ecc+,/sp
+
+
+예산안의
+	예산안/ncn+의/jcm
+
+원안
+	원안/ncn
+
+통과와
+	통과/ncpa+와/jcj
+
+사업의
+	사업/ncn+의/jcm
+
+정상
+	정상/ncn
+
+진행을
+	진행/ncpa+을/jco
+
+거듭
+	거듭/mag
+
+촉구했습니다
+	촉구/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+출처
+	출처/ncn
+
+:
+	:/sp
+
+KTV
+	KTV/f
+
+한국정책방송
+	한국정책방송/ncn
+
+
+4대강살리기
+	4대강살리/ncn+이/jp+기/etn
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+4rivers.
+	4rivers./ncn
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+mltm.
+	mltm/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp

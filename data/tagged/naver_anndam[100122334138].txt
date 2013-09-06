@@ -1,0 +1,3867 @@
+[서울/청계천나들이]모전교,
+	[서울/청계천나들이]모전교,/ncn
+
+광통교,
+	광통교,/ncn
+
+광교
+	광교/ncn
+
+...
+	.../se
+
+
+이야기가
+	이야기/ncpa+가/jcc
+
+있는
+	있/px+는/etm
+
+청계천
+	청계/ncn+천/ncn
+
+
+빌딩
+	빌딩/ncn
+
+숲속
+	숲속/ncn
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+한줄기짙은
+	한줄기짙/ncn+은/jxc
+
+물길
+	물길/ncn
+
+있어~
+	있/paa+어/ecs+~/sd
+
+
+청계천따라
+	청계/ncn+천/ncn+따라/jxc
+
+걷는
+	걷/pvg+는/etm
+
+길엔
+	길/ncn+엔/jca
+
+다리마다
+	다리/ncn+마다/jxc
+
+이야기가
+	이야기/ncpa+가/jcc
+
+담겨
+	담기/pvg+어/ecx
+
+있었습니다
+	있/paa+었/ep+습니다/ef
+
+
+=
+	=/sy
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-
+	여행/ncpa+이야기/ncpa+-/sd
+
+마음이
+	마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳=
+	이곳/ncn+=/sy
+
+
+서울시티투어로
+	서울시티투어/ncn+로/jca
+
+두번째
+	두/nnc+번/nbu+째/xsnu
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+곳은
+	곳/ncn+은/jxc
+
+청계천입니다
+	청계/ncn+천/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+도심을
+	돌/pvg+시/ep+ㅁ/etn+을/jco
+
+가르며
+	가르/pvg+며/ecc
+
+오랫동안
+	오랫동안/ncn
+
+서울사람들의
+	서울사람/ncn+들/ncn+의/jcm
+
+생활과
+	생활/ncpa+과/jct
+
+함께
+	함께/mag
+
+해온
+	하/pvg+어/ecx+오/px+ㄴ/etm
+
+청계천
+	청계/ncn+천/ncn
+
+.
+	./sf
+
+
+한때는
+	하/pvg+ㄴ/etm+때/nbn+는/jxc
+
+하수구로
+	하수구/ncn+로/jca
+
+전락하였고
+	전락/ncpa+하/xsva+었/ep+고/ecc
+
+한때는
+	하/pvg+ㄴ/etm+때/nbn+는/jxc
+
+고가도로
+	고가도로/ncn
+
+건설로
+	건설/ncpa+로/jca
+
+뒷켠에
+	뒷켠/ncn+에/jca
+
+묻혀진
+	묻히/pvg+어/ecx+지/px+ㄴ/etm
+
+곳이지도
+	곳/ncn+이/jp+지/ecs+도/jxc
+
+했지요
+	하/px+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+청계천
+	청계/ncn+천/ncn
+
+복원사업으로
+	복원사업/ncpa+으로/jca
+
+지금의
+	지금/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+유지하고
+	유지/ncn+하고/jct
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+첨에는
+	첨/ncn+에/jca+는/jxc
+
+이렇다
+	이렇/pad+다/ef
+
+저렇다
+	저렇/pad+다/ef
+
+입방아도
+	입방아/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+오른
+	오르/pvg+ㄴ/etm
+
+곳이지만
+	곳/ncn+이/jp+지만/ecs
+
+지금은
+	지금/ncn+은/jxc
+
+서울
+	서울/ncn
+
+시민들의
+	시민/ncn+들/ncn+의/jcm
+
+휴식처로
+	휴식처/ncn+로/jca
+
+새로워진
+	새롭/paa+어/ecx+지/px+ㄴ/etm
+
+예전의
+	예전/ncn+의/jcm
+
+모습으로
+	모습/ncn+으로/jca
+
+돌아가려고
+	돌/pvg+아/ecx+가/px+려고/ecs
+
+애쓰는
+	애쓰/pvg+는/etm
+
+현재를
+	현재/ncn+를/jco
+
+보기위해
+	보기/ncn+위해/ncn
+
+서울
+	서울/ncn
+
+관광지로
+	관광지/ncn+로/jca
+
+많이
+	많/paa+이/xsa
+
+찾는
+	찾/pvg+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+되었어요
+	되/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+바꾸었다
+	바꾸/pvg+었/ep+다/ef
+
+저렇게
+	저렇/pad+게/ecs
+
+바꾸었다
+	바꾸/pvg+었/ep+다/ef
+
+사람달라질
+	사람/ncn+달라/ncn+질/ncn
+
+때마다
+	때/ncn+마다/jxc
+
+역사를
+	역사/ncn+를/jco
+
+뒤집어
+	뒤집/pvg+어/ecx
+
+엎는그런
+	엎는그런/ncn
+
+대상이
+	대상/ncn+이/jcc
+
+되지
+	되/pvg+지/ecx
+
+않기를
+	않/px+기/etn+를/jco
+
+바라면서
+	바라/pvg+면서/ecc
+
+깨끗한
+	깨끗/ncps+하/xsms+ㄴ/etm
+
+물이
+	물/ncn+이/jcc
+
+흐르고
+	흐르/pvg+고/ecc
+
+도심속의자연과
+	도심속의자연/ncn+과/jct
+
+가까이
+	가까이/mag
+
+할
+	하/pvg+ㄹ/etm
+
+수있는
+	수/nbn+있/xsmn+는/etm
+
+공간,
+	공간/ncn+,/sp
+
+
+문화예술공간으로
+	문화예술공간/ncn+으로/jca
+
+오래도록
+	오래도록/mag
+
+유지되길
+	유지되길/ncn
+
+바라는
+	바라/pvg+는/etm
+
+맘도
+	말/px+ㅁ/etn+도/jxc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+청계천이어떤
+	청계천이어떤/ncn
+
+모습으로든과거와
+	모습으로든과거/ncn+와/jcj
+
+현실사이에서
+	현실/ncn+사이/ncn+에서/jca
+
+몸앓이를
+	몸앓이/ncn+를/jco
+
+하지
+	하/pvg+지/ecx
+
+않길
+	않길/ncn
+
+바라구요
+	바/nbn+이/jp+라구/ef+요/jxf
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+좀더
+	좀더/mag
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+시선으로
+	시선/ncn+으로/jca
+
+보려고
+	보/px+려고/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+청계천의
+	청계/ncn+천/ncn+의/jcm
+
+원래
+	원래/mag
+
+이름은
+	이름/ncn+은/jxc
+
+개천(
+	개천(/ncn
+
+)이라고
+	)/sr+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+조선
+	조선/ncpa
+
+초
+	초/nbu
+
+도성
+	도성/ncn
+
+건립과
+	건립/ncpa+과/jcj
+
+배수물길을
+	배수/ncn+물길/ncn+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+개천정비사업을
+	개천/ncn+정비사업/ncn+을/jco
+
+진행했는데요
+	진행/ncpa+하/xsva+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+태종때
+	태종때/ncn
+
+자연천
+	자연/ncn+천/ncn
+
+정비를
+	정비/ncpa+를/jco
+
+하면서
+	하/pvg+면서/ecc
+
+둑을
+	둑/ncn+을/jco
+
+쌓아
+	쌓/pvg+아/ecx
+
+하천의
+	하천/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+만들고,
+	만들/pvg+고/ecc+,/sp
+
+세종
+	세/nnc+종/nbu
+
+때
+	때/ncn
+
+지천과
+	지천/ncpa+과/jcj
+
+세천에
+	세/nnc+천/nnc+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+추가
+	추/ncn+가/jcs
+
+정비를
+	정비/ncpa+를/jco
+
+했다고
+	하/px+었/ep+다/ef+고/jcr
+
+하고요
+	하/px+고요/ef
+
+.
+	./sf
+
+
+청계천을
+	청계/ncn+천/ncn+을/jco
+
+처음으로
+	처음/ncn+으로/jca
+
+생활하천으로
+	생활/ncpa+하천/ncn+으로/jca
+
+규정했데요
+	규정/ncpa+하/xsva+었/ep+데/ef+요/jxf
+
+.
+	./sf
+
+
+1760년과
+	1760/nnc+년/nbu+과/jcj
+
+1773년때
+	1773/nnc+년/nbu+때/xsnx
+
+다시
+	다시/mag
+
+개천정비사업을
+	개천/ncn+정비사업/ncn+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+개천의
+	개천/ncn+의/jcm
+
+폭을
+	폭/nbu+을/jco
+
+넓히고
+	넓히/pvg+고/ecc
+
+양쪽에
+	양쪽/ncn+에/jca
+
+돌을
+	돌/pvg+ㄹ/etm
+
+쌓고
+	쌓/pvg+고/ecc
+
+수로를
+	수로/ncn+를/jco
+
+직선으로
+	직선/ncn+으로/jca
+
+만들었고,
+	만들/pvg+었/ep+고/ecc+,/sp
+
+일제강점기
+	일제강점기/ncn
+
+초에는
+	초/nbu+에/jca+는/jxc
+
+관리부족으로
+	관리/ncn+부족/ncn+으로/jca
+
+지난
+	지나/pvg+ㄴ/etm
+
+500년
+	500/nnc+년/nbu
+
+서울과
+	서울/ncn+과/jct
+
+함께한
+	함께하/pvg+ㄴ/etm
+
+청계천이
+	청계/ncn+천/ncn+이/jcc
+
+하수구로
+	하수구/ncn+로/jca
+
+전락하는
+	전락/ncpa+하/xsva+는/etm
+
+신세가
+	신세/ncn+가/jcs
+
+되었다고
+	되/pvg+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+광복후
+	광복/ncpa+후/ncn
+
+전란
+	전란/ncn
+
+이후에도
+	이후/ncn+에/jca+도/jxc
+
+더러운
+	더럽/paa+은/etm
+
+물이
+	물/ncn+이/jcc
+
+흐르는
+	흐르/pvg+는/etm
+
+곳이었구요
+	곳이었구요/ncn
+
+.
+	./sf
+
+
+1967년
+	1967/nnc+년/nbu
+
+청계고가도로
+	청계/ncn+고가도로/ncn
+
+건설하였다
+	건설/ncpa+하/xsva+었/ep+다/ef
+
+2003년에는
+	2003/nnc+년/nbu+에/jca+는/jxc
+
+다시
+	다시/mag
+
+청계천
+	청계/ncn+천/ncn
+
+복원사업을
+	복원사업/ncpa+을/jco
+
+시작해
+	시작/ncpa+하/xsva+어/ecx
+
+2005년도에
+	2005/nnc+년도/nbu+에/jca
+
+마무리되었습니다
+	마무리/ncpa+되/xsvn+었/ep+습니다/ef
+
+.
+	./sf
+
+
+물이
+	물/ncn+이/jcc
+
+흐르는
+	흐르/pvg+는/etm
+
+것은
+	것/nbn+은/jxc
+
+자연스러우나
+	자연/ncn+스럽/xsmn+으나/ecs
+
+그
+	그/mmd
+
+물을
+	물/ncn+을/jco
+
+탁하게
+	탁하/paa+게/ecs
+
+하고
+	하/pvg+고/ecc
+
+물길을
+	물길/ncn+을/jco
+
+막고
+	막/pvg+고/ecc
+
+트는
+	트/pvg+는/etm
+
+것은
+	것/nbn+은/jxc
+
+인간이
+	인간/ncn+이/jcc
+
+하는
+	하/pvg+는/etm
+
+일인데
+	일/ncn+이/jp+ㄴ데/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+험난한
+	험난/ncps+하/xsms+ㄴ/etm
+
+시간을
+	시간/ncn+을/jco
+
+보내게
+	보내/pvg+게/ecs
+
+했었네요
+	하/px+었었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+이날은
+	이/nnc+날/nbu+은/jxc
+
+남산에서
+	남산/ncn+에서/jca
+
+출발한
+	출발/ncpa+하/xsva+ㄴ/etm
+
+버스가
+	버스/ncn+가/jcs
+
+경복궁
+	경복궁/ncn
+
+앞을
+	앞/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+청와대
+	청와대/ncn
+
+있는
+	있/px+는/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+크게
+	크/paa+게/ecs
+
+돌아서
+	돌/pvg+아/ecx
+
+청계광장에
+	청계/ncn+광장/ncn+에/jca
+
+우리를
+	우리/npp+를/jco
+
+내려주었어요
+	내리/pvg+어/ecx+주/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+버스창으로
+	버스/ncn+창/ncn+으로/jca
+
+보이는
+	보이/pvg+는/etm
+
+광화문은
+	광화/ncpa+문/ncn+은/jxc
+
+하얗게
+	하얗/paa+게/ecs
+
+보이는
+	보이/pvg+는/etm
+
+벽돌건물이
+	벽돌건물/ncn+이/jcc
+
+왠지
+	왠지/mag
+
+친근감이
+	친근감/ncn+이/jcc
+
+안가는
+	알/pvg+ㄴ가/ef+는/etm
+
+것이
+	것/nbn+이/jcc
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+지나다
+	지나/pvg+아/ecx
+
+보니
+	보/px+니/ecs
+
+광화문
+	광화/ncpa+문/ncn
+
+현판이
+	현판/ncn+이/jcc
+
+
+금이
+	금/ncn+이/jcc
+
+쫙가
+	쫙/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+눈으로
+	눈/ncn+으로/jca
+
+확인
+	확인/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있겠더군요
+	있/px+겠/ep+더군/ef+요/jxf
+
+.
+	./sf
+
+
+미세한
+	미세/ncps+하/xsms+ㄴ/etm
+
+금도
+	금/ncn+도/jxc
+
+아니고
+	아니/paa+고/ecc
+
+저
+	저/mmd
+
+정도라면
+	정도/ncn+이/jp+라면/ecs
+
+문제가
+	문제/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+것이겠다
+	것/nbn+이/jp+겠/ep+다/ef
+
+싶었어요
+	싶/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이후에다시
+	이후에다시/ncn
+
+현판을
+	현판/ncn+을/jco
+
+제작한다는
+	제작/ncpa+하/xsva+ㄴ다/ef+는/etm
+
+얘기를
+	얘/ncn+이/jp+기/etn+를/jco
+
+들었었는데요
+	들/pvg+었었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+원인이
+	원인/ncn+이/jcc
+
+무엇인지파악하고
+	무엇인지파악하/ncn+이/jp+고/ecc
+
+다시
+	다시/mag
+
+만들어야지
+	만들/pvg+어야지/ef
+
+이러다억울하게도
+	이러다억울하/ncn+게도/jca
+
+
+귀한
+	귀하/paa+ㄴ/etm
+
+소나무만
+	소나무/ncn+만/jxc
+
+자꾸
+	자꾸/mag
+
+잘리는건
+	잘리는건/ncn
+
+아닌지
+	아니/paa+ㄴ지/ecs
+
+모르겠어요
+	모르/pvg+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+울
+	울/pvg+ㄹ/etm
+
+조카는
+	조카/ncn+는/jxc
+
+이
+	이/mmd
+
+조형물을
+	조형물/ncn+을/jco
+
+볼때마다
+	보/px+ㄹ/etm+때/nbn+마다/jxc
+
+아이스크림이라고
+	아이스크림/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+조형물에도
+	조형물/ncn+에/jca+도/jxc
+
+많은
+	많/paa+은/etm
+
+뜻을
+	뜻/ncn+을/jco
+
+품고
+	품/pvg+고/ecc
+
+있던데
+	있/px+더/ep+ㄴ데/ecs
+
+듣고
+	듣/pvg+고/ecc
+
+잊어버렸네요
+	잊/pvg+어/ecx+버리/px+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+조화와
+	조화/ncn+와/jcj
+
+어우러짐을
+	어우러지/pvg+ㅁ/etn+을/jco
+
+상징한거
+	상징한거/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+이곳이
+	이곳/npd+이/jcc
+
+청계천의
+	청계/ncn+천/ncn+의/jcm
+
+시작점이라고
+	시작/ncpa+점/ncn+이/jp+라/ef+고/jcr
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+광장과
+	광장/ncn+과/jcj
+
+수변공간으로
+	수변공간/ncn+으로/jca
+
+구성되어
+	구성/ncn+되/xsvn+어/ecx
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+걸어가면
+	걷/pvg+어/ecx+가/px+면/ecs
+
+바닥에서도
+	바닥/ncn+에서/jca+도/jxc
+
+물가에서도
+	물가/ncn+에서/jca+도/jxc
+
+숨은
+	숨/ncn+은/jxc
+
+뜻,
+	뜻/ncn+,/sp
+
+전달하고자
+	전달/ncpa+하/xsva+고자/ecs
+
+하는
+	하/pvg+는/etm
+
+의미를
+	의미/ncpa+를/jco
+
+품고
+	품/pvg+고/ecc
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+여기서도
+	여기/npd+서/jca+도/jxc
+
+환한
+	환/ncps+하/xsms+ㄴ/etm
+
+미소로
+	미소/ncn+로/jca
+
+반겨주는
+	반기/pvg+어/ecx+주/px+는/etm
+
+해치
+	해치/ncn
+
+.
+	./sf
+
+
+이전에
+	이전/ncn+에/jca
+
+실크로드와
+	실크로드/ncn+와/jcj
+
+둔황전
+	둔황전/ncn
+
+전시회
+	전시회/ncn
+
+갔을때
+	가/px+아/ep+ㄹ/etm+때/nbn
+
+해치라는
+	해치/pvg+라/ef+는/etm
+
+동물을
+	동물/ncn+을/jco
+
+보았는데요
+	보/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+모습과는
+	모습/ncn+과/jct+는/jxc
+
+너무나도
+	너무나/mag+도/jxc
+
+달라서
+	달라/nbu+서/jca
+
+
+물어봤더니
+	묻/pvg+어/ecx+보/px+아/ep+니/ecs
+
+종류가
+	종류/ncn+가/jcs
+
+몇가지가
+	몇/nnc+가지/nbu+가/jcc
+
+있다고
+	있/px+다/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+같은
+	같/paa+은/etm
+
+이름을
+	이름/ncn+을/jco
+
+갖고
+	갖/pvg+고/ecc
+
+생김새가
+	생김새/ncn+가/jcs
+
+이리
+	이리/mad
+
+다른
+	다르/paa+ㄴ/etm
+
+동물이
+	동물/ncn+이/jcc
+
+있다니
+	있/px+다니/ecs
+
+...
+	.../se
+
+
+내가
+	나/npp+가/jcs
+
+봤던
+	보/px+아/ep+ㄴ/etm
+
+그
+	그/mmd
+
+뿔달린
+	뿔달린/ncn
+
+해치의
+	해치/ncn+의/jcm
+
+어릴적
+	어리/paa+ㄹ/etm+적/nbn
+
+모습이
+	모습/ncn+이/jcc
+
+이렇게
+	이렇/pad+게/ecs
+
+귀여웠을까
+	귀엽/paa+었/ep+을까/ef
+
+생각해
+	생각/ncpa+하/xsva+어/ecx
+
+봤습니다
+	보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+닮은거
+	닮은거/ncn
+
+같지
+	같/paa+지/ecx
+
+않단
+	않/px+단/etm
+
+말이지요
+	말/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+점심때
+	점심/ncn+때/ncn
+
+즈음인데도
+	즈음/ncpa+이/jp+ㄴ데/ecs+도/jxc
+
+빌딩
+	빌딩/ncn
+
+숲
+	숲/ncn
+
+사이에서는
+	사이/ncn+에서/jca+는/jxc
+
+저녁무렵같은
+	저녁무렵/ncn+같/xsmn+은/etm
+
+분위기가
+	분위기/ncn+가/jcs
+
+났습니다
+	나/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+길을
+	길/ncn+을/jco
+
+가다
+	가/pvg+아/ecx
+
+아래를
+	아래/ncn+를/jco
+
+보면
+	보/px+면/ecs
+
+물줄기같
+	물줄기같/ncn
+
+은
+	은/ncn
+
+길이
+	길/ncn+이/jcc
+
+보일
+	보이/pvg+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+곳에는
+	곳/ncn+에/jca+는/jxc
+
+청계천
+	청계/ncn+천/ncn
+
+위
+	위/ncn
+
+다리의
+	다리/ncn+의/jcm
+
+이름을
+	이름/ncn+을/jco
+
+하나하나
+	하/pvg+어/ecx+나/px+아/ecx+하/px+어/ecx+나/px+아/ecx
+
+다
+	다/mag
+
+적어두었어요
+	적/pvg+어/ecx+두/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+여름이면
+	여름/ncn+이/jp+면/ecs
+
+실제
+	실제/ncn
+
+물이
+	물/ncn+이/jcc
+
+흘러도
+	흐르/pvg+어도/ecs
+
+참
+	참/mag
+
+이쁘겠다
+	이쁘/paa+겠/ep+다/ef
+
+싶은
+	싶/px+은/etm
+
+얕은
+	얕/paa+은/etm
+
+홈이
+	홈/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+물길이
+	물길/ncn+이/jcc
+
+구불하게
+	구불하/ncn+이/jp+게/ecs
+
+이어져
+	잇/pvg+어/ecx+지/px+어/ecx
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+한켠에는
+	하/pvg+ㄴ/etm+켠/nbn+에/jca+는/jxc
+
+청계천
+	청계/ncn+천/ncn
+
+추억만들기라고
+	추억/ncpa+만들기/ncn+이/jp+라/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+사진을
+	사진/ncn+을/jco
+
+담아서
+	담/pvg+아/ecx
+
+포토엽서를
+	포토/ncn+엽서/ncn+를/jco
+
+보내는
+	보내/pvg+는/etm
+
+스크린이
+	스크린/ncn+이/jcc
+
+있더군요
+	있/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+무심히
+	무심히/mag
+
+쳐다봤다가
+	쳐다보/pvg+아/ep+다가/ecs
+
+안에
+	안/ncn+에/jca
+
+내
+	내/pvg+어/ecx
+
+얼굴이
+	얼굴/ncn+이/jcc
+
+보여서
+	보이/pvg+어서/ecs
+
+깜짝
+	깜짝/mag
+
+놀랐어요
+	놀라/pvg+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+앞에
+	앞/ncn+에/jca
+
+카메가
+	카메/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+줄도
+	줄/nbn+도/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+근처에서뭔가하고
+	근처에서뭔가/ncn+하고/jcj
+
+
+서성였거든요
+	서성이/pvg+었/ep+거든/ef+요/jxf
+
+.
+	./sf
+
+
+청계천을
+	청계/ncn+천/ncn+을/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+담은
+	달/paa+ㅁ/etn+은/jxc
+
+사진을
+	사진/ncn+을/jco
+
+나중에집에서
+	나중에집/ncn+에서/jca
+
+확인하면
+	확인/ncpa+하/xsva+면/ecs
+
+기분이
+	기분/ncn+이/jcc
+
+좋을거
+	좋을거/ncn
+
+같지요
+	같/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+수변공간의
+	수변공간/ncn+의/jcm
+
+폭포입니다
+	폭포/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+날이
+	날/ncn+이/jcc
+
+좀
+	좀/mag
+
+풀렸다고
+	풀리/pvg+었/ep+다/ef+고/jcr
+
+하지만
+	하/pvg+지만/ecs
+
+공기는
+	공기/nbu+는/jxc
+
+꽤
+	꽤/mag
+
+차가운
+	차갑/paa+은/etm
+
+날이었는데요
+	날/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그걸
+	그걸/ncn
+
+대변해주듯
+	대변/ncpa+하/xsva+어/ecx+주/px+듯/ecs
+
+물길이
+	물길/ncn+이/jcc
+
+스쳐간
+	스치/pvg+어/ecx+가/px+ㄴ/etm
+
+가장자리에는
+	가장자리/ncn+에는/jca
+
+
+하연
+	하연/ncn
+
+얼음이
+	얼음/ncn+이/jcc
+
+얼었어요
+	얼/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+폭포
+	폭포/ncn
+
+옆에도
+	옆/ncn+에/jca+도/jxc
+
+그렇구요
+	그렇구요/ncn
+
+.
+	./sf
+
+
+하루
+	하루/ncn
+
+6만5천톤의
+	6/nnc+만/nnc+5/nnc+천/nnc+톤/nbu+의/jcm
+
+물을
+	물/ncn+을/jco
+
+떨어뜨리며
+	떨어뜨리/pvg+며/ecc
+
+청계천의
+	청계/ncn+천/ncn+의/jcm
+
+물줄기를
+	물줄기/ncn+를/jco
+
+만들어내고
+	만들/pvg+어/ecx+내/px+어/ef+고/jcr
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+겨울임에도
+	겨울/ncn+이/jp+ㅁ/etn+에/jca+도/jxc
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+물줄기를
+	물줄기/ncn+를/jco
+
+보니
+	보/px+니/ecs
+
+그
+	그/mmd
+
+시원함이
+	시원/ncn+함/ncn+이/jcc
+
+느껴지네요
+	느끼/pvg+어/ecx+지/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+눈으로는
+	눈/ncn+으로/jca+는/jxc
+
+시원한데
+	시원/ncn+한데/ncn
+
+몸은
+	몸/ncn+은/jxc
+
+으슬으슬
+	으슬으슬/ncn
+
+...
+	.../se
+
+
+이런
+	이런/mmd
+
+모습은
+	모습/ncn+은/jxc
+
+역시
+	역시/mag
+
+여름이
+	여름/ncn+이/jcc
+
+딱인거
+	딱인거/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+모전교에
+	모전교/ncn+에/jca
+
+닿기
+	닿/pvg+기/etn
+
+전
+	전/nbn
+
+수변공간
+	수변공간/ncn
+
+아랫쪽을
+	아랫쪽/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+8개의
+	8/nnc+개/nbu+의/jcm
+
+어긋난
+	어긋나/pvg+ㄴ/etm
+
+모양의
+	모양/ncn+의/jcm
+
+돌(팔석담)이
+	돌(팔석담)/ncn+이/jcc
+
+놓여있는
+	놓이/pvg+어/ecx+있/px+는/etm
+
+것을
+	것/nbn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+8개도를
+	8개도/ncn+를/jco
+
+상징하는
+	상징/ncpa+하/xsva+는/etm
+
+돌로
+	돌/ncn+로/jca
+
+각
+	각/mma
+
+도에서
+	도/ncn+에서/jca
+
+가져왔다고
+	가/pvg+아/ecx+지/px+어/ecx+오/px+아/ep+다/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+수로
+	수/nbn+로/jca
+
+가운데
+	가운데/ncn
+
+있는
+	있/px+는/etm
+
+현무암은
+	현무암/ncn+은/jxc
+
+제주도를
+	제주/ncn+도/ncn+를/jco
+
+상징하는
+	상징/ncpa+하/xsva+는/etm
+
+것이구요
+	것이구요/ncn
+
+.
+	./sf
+
+
+만남과
+	만나/pvg+ㅁ/etn+과/jcj
+
+화합,
+	화합/ncpa+,/sp
+
+평화와
+	평화/ncn+와/jcj
+
+통일의
+	통일/ncpa+의/jcm
+
+염원을
+	염원/ncpa+을/jco
+
+담았다고
+	담/pvg+아/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+동전던지는
+	동전던지/ncn+는/jxc
+
+것을
+	것/nbn+을/jco
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+이들을
+	이/ncn+들/xsncc+을/jco
+
+위해서
+	위하/pvg+어서/ecs
+
+조그만
+	조그맣/paa+은/etm
+
+공간도
+	공간/ncn+도/jxc
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+복원된
+	복원/ncpa+되/xsvn+ㄴ/etm
+
+청계천의
+	청계/ncn+천/ncn+의/jcm
+
+길이는
+	길/ncn+이/jp+는/etm
+
+청계광장에서
+	청계/ncn+광장/ncn+에서/jca
+
+신답철교까지
+	신답철교까지/ncn
+
+5.
+	5./nnc
+
+84km이며
+	84km/ncn+이/jp+며/ecc
+
+이어서
+	이/npd+이/jp+어서/ecs
+
+서울숲까지의
+	서울숲까지/ncn+의/jcm
+
+5.
+	5./nnc
+
+46km입니다
+	46km입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+구간
+	구간/ncn
+
+중
+	중/nbn
+
+광통교를
+	광통교/ncn+를/jco
+
+비롯하여
+	비롯/ncpa+하/xsva+어/ecx
+
+총
+	총/mma
+
+22개의
+	22/nnc+개/nbu+의/jcm
+
+다리가
+	다리/ncn+가/jcs
+
+놓여져
+	놓이/pvg+어/ecx+지/px+어/ecx
+
+있으며
+	있/px+으며/ecc
+
+터널분수
+	터널/ncn+분수/ncn
+
+등
+	등/nbu
+
+9개의
+	9/nnc+개/nbu+의/jcm
+
+분수가
+	불/pvg+ㄴ/etm+수/nbn+가/jcc
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+청계천
+	청계/ncn+천/ncn
+
+8경이라고
+	8/nnc+경/xsnu+이/jp+라/ef+고/jcr
+
+하면
+	하/pvg+면/ecs
+
+청계광장을
+	청계/ncn+광장/ncn+을/jco
+
+비롯하여
+	비롯/ncpa+하/xsva+어/ecx
+
+광통교,
+	광통교,/ncn
+
+정조반차도,
+	정조반차도,/ncn
+
+패턴천변,
+	패턴/ncn+천변/ncpa+,/sp
+
+빨래터,
+	빨래터/ncn+,/sp
+
+소망의
+	소망/ncpa+의/jcm
+
+벽,
+	벽/ncn+,/sp
+
+하늘물터,
+	하늘물터,/ncn
+
+버들습지입니다
+	버들/ncn+습지/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+방금
+	방금/mag
+
+지나온
+	지나/pvg+아/ecx+오/px+ㄴ/etm
+
+다리가
+	다리/ncn+가/jcs
+
+청계천의
+	청계/ncn+천/ncn+의/jcm
+
+첫번째
+	첫/nno+번/nbu+째/xsnu
+
+다리인
+	다리/ncn+이/jp+ㄴ/etm
+
+모전교입니다
+	모전교입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+청계천에서
+	청계/ncn+천/ncn+에서/jca
+
+가장
+	가장/mag
+
+짧은
+	짧/paa+은/etm
+
+다리라고
+	다리/ncn+이/jp+라/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+1412년
+	1412/nnc+년/nbu
+
+태종
+	태종/ncn
+
+12년에
+	12/nnc+년/nbu+에/jca
+
+돌다리로
+	돌다리/ncn+로/jca
+
+만들어졌으며
+	만들/pvg+어/ecx+지/px+었/ep+으며/ecc
+
+당시에는
+	당시/ncn+에/jca+는/jxc
+
+신화방동입구교라
+	신화/ncn+방동/ncn+입구/ncn+교/ncn+이/jp+라/ecs
+
+불렀다고
+	부르/pvg+었/ep+다/ef+고/jcr
+
+사료에
+	사료/ncn+에/jca
+
+나와
+	나/npp+와/jct
+
+있데요
+	있/px+데/ef+요/jxf
+
+.
+	./sf
+
+
+모전교라는
+	모전교라/ncn+는/jxc
+
+이름은
+	이름/ncn+은/jxc
+
+영조
+	영조/ncn
+
+때
+	때/ncn
+
+만들어진
+	만들/pvg+어/ecx+지/px+ㄴ/etm
+
+도성지도에
+	도성/ncn+지도/ncn+에/jca
+
+처음
+	처음/mag
+
+나옵니다
+	나/pvg+아/ecx+오/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+과일을
+	과일/ncn+을/jco
+
+팔던
+	팔/pvg+던/etm
+
+모전이
+	모/ncn+전/xsnx+이/jcc
+
+있었던
+	있/paa+었/ep+던/etm
+
+곳이라
+	곳/ncn+이/jp+라/ecs
+
+하여
+	하/pvg+어/ecx
+
+모전교라
+	모전교/ncn+이/jp+라/ecs
+
+불렀고
+	부르/pvg+었/ep+고/ecc
+
+
+모교(
+	모교(/ncn
+
+),
+	)/sr+,/sp
+
+모퉁이가게다리,
+	모퉁이/ncn+가게/ncn+다리/ncn+,/sp
+
+한자로
+	하/pvg+ㄴ/etm+자/nbn+로/jca
+
+우전(
+	우/ncn+전/xsnx+(/sl
+
+)다리라고도
+	)/sr+다리/ncn+이/jp+라/ef+고/jcr+도/jxc
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+모전교를
+	모전교/ncn+를/jco
+
+지나
+	지나/pvg+아/ecx
+
+걷다보면
+	걷다보/ncn+이/jp+면/ecs
+
+수로가
+	수/nbn+로/jca+가/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+다리를
+	다리/ncn+를/jco
+
+만나게
+	만나/pvg+게/ecs
+
+되는데요
+	되/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+도성의
+	도성/ncn+의/jcm
+
+중심
+	중심/ncn
+
+통로였던
+	통로/ncn+이/jp+었/ep+던/etm
+
+광통교입니다
+	광통교입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+교각에
+	교각/ncn+에/jca
+
+새겨진
+	새기/pvg+어/ecx+지/px+ㄴ/etm
+
+글자들이며
+	글자/ncn+들이/ncn+이/jp+며/ecc
+
+문양이
+	문양/ncn+이/jcc
+
+아름다운
+	아름답/paa+은/etm
+
+다리였어요
+	다리/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+광통교는
+	광통교/ncn+는/jxc
+
+종로구
+	종로구/ncn
+
+서린동과
+	서린동/ncn+과/jcj
+
+중구
+	중구/ncn
+
+다동
+	다동/ncn
+
+사이에
+	사이/ncn+에/jca
+
+놓여
+	놓이/pvg+어/ecx
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+조선시대
+	조선시대/ncn
+
+광통방에
+	광통방/ncn+에/jca
+
+있던큰
+	있던큰/ncn
+
+다리여서
+	다리/ncn+이/jp+어서/ecs
+
+대광통교라
+	대광통교/ncn+이/jp+라/ecs
+
+불리기도
+	불리/pvg+기/etn+도/jxc
+
+했다고
+	하/px+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+지금은
+	지금/ncn+은/jxc
+
+종로
+	종/ncn+로/jca
+
+네거리와
+	네거리/ncn+와/jcj
+
+남대문을
+	남대/ncn+문/ncn+을/jco
+
+잇는
+	잇/pvg+는/etm
+
+중심
+	중심/ncn
+
+도로
+	도/ncn+로/jca
+
+역할을
+	역할/ncn+을/jco
+
+하지만
+	하/pvg+지만/ecs
+
+조선시대에는
+	조선시대/ncn+에/jca+는/jxc
+
+시전이
+	시전/ncn+이/jcc
+
+열리던
+	열리/pvg+던/etm
+
+서울
+	서울/ncn
+
+상업의
+	상업/ncpa+의/jcm
+
+중심가였데요
+	중심가/ncn+이/jp+었/ep+데요/ef
+
+.
+	./sf
+
+
+그런만큼
+	그러/pvd+ㄴ/etm+만큼/nbn
+
+다리도
+	다리/ncn+도/jxc
+
+가장
+	가장/mag
+
+규모가
+	규모/ncn+가/jcs
+
+컸겠지요
+	크/paa+었겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+광통교에서는
+	광통교에서/ncn+는/jxc
+
+매년
+	매년/mag
+
+정월대보름이
+	정월/ncn+대보름/ncn+이/jcc
+
+되면
+	되/pvg+면/ecs
+
+답교놀이가
+	답교/ncpa+놀이/ncn+가/jcs
+
+열렸다고
+	열리/pvg+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+옛날이었다면
+	옛날/ncn+이/jp+었/ep+다면/ecs
+
+지난
+	지나/pvg+ㄴ/etm
+
+정월대보름날
+	정월/ncn+대보름날/ncn
+
+북적였을
+	북적였/ncn+을/jco
+
+곳이지요
+	곳/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+다리를
+	다리/ncn+를/jco
+
+밟으면
+	밟/pvg+으면/ecs
+
+다릿병을
+	다릿병/ncn+을/jco
+
+앓지
+	앓/pvg+지/ecx
+
+않는다고
+	않/px+는다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+도성의
+	도성/ncn+의/jcm
+
+남녀노소가
+	남녀노소/ncn+가/jcs
+
+넘쳐났었다고
+	넘치/pvg+어/ecx+나/px+아/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+복원
+	복원/ncpa
+
+발굴조사를
+	발굴조사/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+위치는
+	위치/ncn+는/jxc
+
+차량
+	차량/ncn
+
+흐름을
+	흐르/pvg+ㅁ/etn+을/jco
+
+고려해
+	고/pvg+려/ecx+하/px+어/ecx
+
+본래
+	본래/ncn
+
+자리보다
+	자리/ncn+보다/jca
+
+상류로
+	상류/ncn+로/jca
+
+155m정도
+	155m정/ncn+도/jxc
+
+옮겨
+	옮기/pvg+어/ecx
+
+놓은
+	놓/px+은/etm
+
+것이라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+문양이
+	문양/ncn+이/jcc
+
+정교하고
+	정교/ncn+하고/jct
+
+섬세함이
+	섬세/ncn+함/ncn+이/jcc
+
+시선을
+	시선/ncn+을/jco
+
+끌었었는데요
+	끌/pvg+었었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+다리는
+	다리/ncn+는/jxc
+
+조선의
+	조선/ncpa+의/jcm
+
+세번째
+	세/nnc+번/nbu+째/xsnu
+
+왕인
+	왕/ncr+이/jp+ㄴ/etm
+
+태종
+	태종/ncn
+
+이방원의
+	이방/ncn+원/ncn+의/jcm
+
+명으로
+	명/nbu+으로/jca
+
+태조
+	태조/ncn
+
+이성계의
+	이성/ncn+계/ncn+의/jcm
+
+계비였던
+	계비/ncn+이/jp+었/ep+던/etm
+
+
+신덕왕후의
+	신덕왕후/ncn+의/jcm
+
+묘에
+	묘/ncn+에/jca
+
+있던
+	있/px+던/etm
+
+신장석으로
+	신장/ncn+석/ncn+으로/jca
+
+만들어졌다고
+	만들/pvg+어/ecx+지/px+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+광통교의
+	광통교/ncn+의/jcm
+
+기초에
+	기초/ncn+에/jca
+
+이
+	이/mmd
+
+신장석을
+	신장/ncn+석/ncn+을/jco
+
+놓게
+	놓/px+게/ecs
+
+해
+	하/pvg+어/ecx
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+밟고
+	밟/pvg+고/ecc
+
+다니게
+	다니/pvg+게/ecs
+
+했다고
+	하/pvg+었/ep+다고/ecs
+
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+둘사이가
+	둘/nnc+사/nnc+이/nnc+가/jcs
+
+어땠을지는
+	어떻/pad+었/ep+을/etm+지/nbn+는/jxc
+
+짐작이
+	짐작/ncpa+이/jcc
+
+되는
+	되/pvg+는/etm
+
+부분이지요
+	부분/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+태조가
+	태조/ncn+가/jcs
+
+계비를
+	계비/ncn+를/jco
+
+사랑하여
+	사랑/ncpa+하/xsva+어/ecx
+
+그의
+	그/npp+의/jcm
+
+아들
+	아들/ncn
+
+이방석에게
+	이방/ncn+석/ncn+에게/jca
+
+왕위를
+	왕위/ncn+를/jco
+
+물러주려하자
+	무르/paa+어/ecx+주/px+려/ecx+하/px+자/ecc
+
+
+난을
+	난/ncn+을/jco
+
+일으켜
+	일으키/pvg+어/ecx
+
+정권을
+	정권/ncn+을/jco
+
+장악하고
+	장악하/ncn+이/jp+고/ecc
+
+죽은
+	죽/pvg+은/etm
+
+신덕왕후를
+	신덕왕후/ncn+를/jco
+
+후궁으로
+	후궁/ncn+으로/jca
+
+격하시키고
+	격하/pvg+어/ecx+시키/px+고/ecc
+
+묘를
+	묘/ncn+를/jco
+
+이전하면서
+	이전/ncpa+하/xsva+면서/ecc
+
+버려진
+	버리/px+어/ecx+지/px+ㄴ/etm
+
+신장석을
+	신장/ncn+석/ncn+을/jco
+
+
+비로
+	비/ncn+로/jca
+
+무너진
+	무너지/pvg+ㄴ/etm
+
+청계천
+	청계/ncn+천/ncn
+
+교각에
+	교각/ncn+에/jca
+
+거꾸로
+	거꾸로/mag
+
+세웠다고
+	세우/pvg+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+중간중간
+	중간/ncn+중간/ncn
+
+거꾸로
+	거꾸로/mag
+
+세워진
+	세우/pvg+어/ecx+지/px+ㄴ/etm
+
+모습을
+	모습/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었어요
+	있/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+구름무늬와
+	구름무늬/ncn+와/jcj
+
+당초무늬,
+	당초/ncn+무늬/ncn+,/sp
+
+그리고
+	그리고/maj
+
+가운데
+	가운데/ncn
+
+두
+	두/nnc
+
+손을
+	손/ncn+을/jco
+
+합장하고
+	합장/ncpa+하고/jct
+
+머리에
+	머리/ncn+에/jca
+
+관을
+	관/ncn+을/jco
+
+쓴
+	쓰/pvg+ㄴ/etm
+
+신장상을
+	신장/ncn+상/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+보면
+	보/px+면/ecs
+
+이전에
+	이전/ncn+에/jca
+
+사용되었던
+	사용/ncpa+되/xsvn+었/ep+던/etm
+
+돌과
+	돌/ncn+과/jct
+
+새로이
+	새로이/mag
+
+세운
+	세우/pvg+ㄴ/etm
+
+부분이
+	부분/ncn+이/jcc
+
+확연이
+	확연/ncps+이/jcc
+
+보일
+	보이/pvg+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+발굴조사를
+	발굴조사/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+확인된
+	확인/ncpa+되/xsvn+ㄴ/etm
+
+부분과
+	부분/ncn+과/jcj
+
+창덕궁,
+	창덕궁/ncn+,/sp
+
+탑골공원에
+	탑골공원/ncn+에/jca
+
+흩어져
+	흩어지/pvg+어/ecx
+
+있던
+	있/px+던/etm
+
+부분을
+	부분/ncn+을/jco
+
+찾아내
+	찾/pvg+아/ecx+내/px+어/ecx
+
+복원이
+	복원/ncpa+이/jcc
+
+이뤄졌다고
+	이루/pvg+어/ecx+지/px+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+신덕왕후의
+	신덕왕후/ncn+의/jcm
+
+넋이
+	넋/ncn+이/jcc
+
+것든
+	것/nbn+든/jxc
+
+다리라고
+	다리/ncn+이/jp+라/ef+고/jcr
+
+해야겠지요
+	하/px+어야겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+이곳에서
+	이곳/npd+에서/jca
+
+조금더
+	조금더/ncn
+
+걸어오면
+	걷/pvg+어/ecx+오/px+면/ecs
+
+더
+	더/mag
+
+번화한
+	번화/ncps+하/xsms+ㄴ/etm
+
+곳이라고
+	곳/ncn+이/jp+라/ef+고/jcr
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+광교가
+	광교/ncn+가/jcs
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+주황색의
+	주황색/ncn+의/jcm
+
+다리
+	다리/ncn
+
+난간이
+	난간/ncn+이/jcc
+
+눈에
+	눈/ncn+에/jca
+
+띄는데요
+	띄/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+광교라는
+	광교라/ncn+는/jxc
+
+이름은
+	이름/ncn+은/jxc
+
+광통방에
+	광통방/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+크고
+	크/paa+어/ef+고/jcr
+
+넓은
+	넓/paa+은/etm
+
+다리라는
+	다리/pvg+라/ef+는/etm
+
+의미로
+	의미/ncpa+로/jca
+
+조선시대
+	조선시대/ncn
+
+궁궐에서
+	궁궐/ncn+에서/jca
+
+숭례문으로
+	숭례문/ncn+으로/jca
+
+
+연결되는
+	연결/ncpa+되/xsvn+는/etm
+
+큰길이었으니
+	큰길/ncn+이/jp+었/ep+으니/ecs
+
+도심
+	돌/pvg+시/ep+ㅁ/etn
+
+한복판이라고
+	한복판/ncn+이/jp+라/ef+고/jcr
+
+할수
+	하/pvg+ㄹ/etm+수/nbn
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+광교와
+	광교/ncn+와/jcj
+
+삼일교
+	삼일/ncn+교/ncn
+
+사이에
+	사이/ncn+에/jca
+
+정조반차도가
+	정조반차도/ncn+가/jcs
+
+있는데
+	있/px+는데/ecs
+
+그것을
+	그것/npd+을/jco
+
+보기전에
+	보기/ncn+전/ncn+에/jca
+
+
+배가
+	배/ncn+가/jcs
+
+꼬르륵하는
+	꼬르륵하/ncn+는/jxc
+
+시간이라
+	시간/ncn+이/jp+라/ecs
+
+광교를
+	광교/ncn+를/jco
+
+지나서
+	지나/pvg+아/ecx
+
+바로
+	바로/mag
+
+계단을
+	계단/ncn+을/jco
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+올라왔답니다
+	오르/pvg+아/ecx+오/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+시간이
+	시간/ncn+이/jcc
+
+좀더
+	좀더/mag
+
+넉넉하다면
+	넉넉/ncps+하/xsms+다면/ecs
+
+역사가
+	역사/ncn+가/jcs
+
+깃든
+	깃들/pvg+ㄴ/etm
+
+9개의
+	9/nnc+개/nbu+의/jcm
+
+다리는
+	다리/ncn+는/jxc
+
+다
+	다/mag
+
+둘러보아도
+	두르/pvg+어/ecx+보/px+아/ecs
+
+좋을거
+	좋을거/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+모전교,
+	모전교,/ncn
+
+광통교,
+	광통교,/ncn
+
+광교,
+	광교,/ncn
+
+장통교,
+	장통교,/ncn
+
+삼일교,
+	삼일/ncn+교/ncn+,/sp
+
+수표교,
+	수표/ncn+교/ncn+,/sp
+
+관수교,
+	관수/ncn+교/ncn+,/sp
+
+세운교,
+	세운교,/ncn
+
+100사람이
+	100/nnc+사람/nbu+이/jcc
+
+모여야
+	모이/pvg+어야/ecs
+
+넘을
+	넘/pvg+을/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+백고개라는
+	백/nnc+고개/nbu+라는/jcm
+
+배오개다리까지
+	배오개다리까/ncn+이/jp+지/ef
+
+.
+	./sf
+
+
+다동
+	다동/ncn
+
+무교동
+	무교동/ncn
+
+음식문화거리로
+	음식/ncn+문화/ncn+거리/ncn+로/jca
+
+들어왔는데요
+	들/pvg+어/ecx+오/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+점심시간대라
+	점심시간대/ncn+이/jp+라/ecs
+
+사람이
+	사람/ncn+이/jcc
+
+쏟아지고
+	쏟/pvg+아/ecx+지/px+고/ecc
+
+있었어요
+	있/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+먹거리
+	먹거리/ncn
+
+골목에서도
+	골목/ncn+에서/jca+도/jxc
+
+갈등을
+	가/px+ㄹ/etm+등/nbn+을/jco
+
+하는
+	하/pvg+는/etm
+
+직장인들이
+	직장/ncn+이/jp+ㄴ/etm+들/nbn+이/jcc
+
+많을테지요
+	많을테/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+또
+	또/maj
+
+무얼먹나
+	무얼/ncn+먹/ncn+나/jcj
+
+하면서요
+	하면서요/ncn
+
+.
+	./sf
+
+
+무교동은
+	무교동/ncn+은/jxc
+
+낙지음식으로
+	낙지/ncn+음식/ncn+으로/jca
+
+유명하잖아요
+	유명/ncps+하/xsms+잖아/ef+요/jxf
+
+.
+	./sf
+
+
+첨
+	첨/ncn
+
+찾는
+	찾/pvg+는/etm
+
+이들이라면
+	이/ncn+들/xsncc+이/jp+라면/ecs
+
+낙지로
+	낙지/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+음식을
+	음식/ncn+을/jco
+
+먹는
+	먹/pvg+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋겠구요
+	좋겠구요/ncn
+
+.
+	./sf
+
+
+여러번
+	여러/nnc+번/nbu
+
+들렀던
+	들르/pvg+었/ep+던/etm
+
+곳이라면
+	곳/ncn+이/jp+라면/ecs
+
+색다른
+	색다르/paa+ㄴ/etm
+
+메뉴를
+	메뉴/ncn+를/jco
+
+찾아보는
+	찾/pvg+아/ecx+보/px+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋겠지요
+	좋/paa+겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+우리는
+	우리/npp+는/jxc
+
+코다리를
+	코다리/ncn+를/jco
+
+전문으로
+	전문/ncn+으로/jca
+
+하는
+	하/pvg+는/etm
+
+음식점에
+	음식/ncn+점/ncn+에/jca
+
+들어갔는데요
+	들/pvg+어/ecx+가/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+단체로
+	단체/ncn+로/jca
+
+와서
+	오/px+아/ecs
+
+쉽게할
+	쉽/paa+게/ecx+하/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+것을
+	것/nbn+을/jco
+
+찾았던지
+	찾/pvg+아/ep+ㄴ지/ecs
+
+메뉴는
+	메뉴/ncn+는/jxc
+
+낙지와
+	낙지/ncn+와/jcj
+
+삼겹살을
+	삼겹살/ncn+을/jco
+
+함께
+	함께/mag
+
+
+두루치기한
+	두루치기/ncn+한/ncn
+
+덮밥형식이었어요
+	덮밥/ncn+형식/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+낙지볶음인가
+	낙지볶음인/ncn+가/jcs
+
+했더니
+	하/px+었/ep+더니/ecs
+
+지금은
+	지금/mag+은/jxc
+
+귀하디
+	귀하/paa+디/ecs
+
+귀한삽겹살이
+	귀한삽겹살/ncn+이/jcc
+
+...
+	.../se
+
+
+김과
+	길/paa+ㅁ/etn+과/jcj
+
+참기름을
+	참기름/ncn+을/jco
+
+두르고
+	두르/pvg+고/ecc
+
+함께
+	함께/mag
+
+비벼먹으니
+	비벼먹으/ncn+이/jp+니/ecs
+
+이거도
+	이거/npd+도/jxc
+
+색다르구요
+	색다르구요/ncn
+
+.
+	./sf
+
+
+각각
+	각각/mag
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+끓인
+	끓이/pvg+ㄴ/etm
+
+된장찌개를
+	된장찌개/ncn+를/jco
+
+하나씩주니
+	하나씩/ncn+주/ncn+이/jp+니/ecs
+
+쬐금
+	쬐금/ncn
+
+풍성해
+	풍성/ncn+해/ncn
+
+진거
+	진거/ncn
+
+같았어요
+	같/paa+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+음식값은
+	음식/ncn+값/ncn+은/jxc
+
+8,000원에서
+	8,000/nnc+원/nbu+에서/jca
+
+10,000원이
+	10,000/nnc+원/nbu+이/jcc
+
+넘어가는
+	넘/pvg+어/ecx+가/px+는/etm
+
+가격이었는데요
+	가격/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+일반적인
+	일반/ncn+적/ncn+이/jp+ㄴ/etm
+
+직장부근의
+	직장/ncn+부근/ncn+의/jcm
+
+음식점
+	음식/ncn+점/ncn
+
+치고는
+	치/pvg+고/ecs+는/jxc
+
+전반적으로
+	전반/ncn+적/ncn+으로/jca
+
+높은
+	높/paa+은/etm
+
+편이었어요
+	편/nbn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+관광객들이
+	관광객/ncn+들/ncn+이/jcc
+
+많고
+	많/paa+고/ecc
+
+땅이
+	땅/ncn+이/jcc
+
+비싼지역이라
+	비싼지역/ncn+이/jp+라/ecs
+
+그런가요
+	그러/pvd+ㄴ가/ef+요/jxf
+
+.
+	./sf
+
+
+짐작일
+	짐작/ncpa+이/jp+ㄹ/etm
+
+뿐이지만요
+	뿐/nbn+이/jp+지/ecs+만요/jxc
+
+.
+	./sf
+
+
+여튼
+	여튼/ncn
+
+배불리
+	배불리/mag
+
+먹고
+	먹/pvg+고/ecc
+
+느긋하게
+	느긋/ncps+하/xsms+게/ecs
+
+커피도
+	커피/ncn+도/jxc
+
+한잔하면서
+	한잔/ncpa+하/xsva+면서/ecc
+
+오랜만에
+	오랜만/ncn+에/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+지인들과
+	지/nbn+이/jp+ㄴ/etm+들/nbn+과/jcj
+
+수다도
+	수다/ncn+도/jxc
+
+좀
+	좀/mag
+
+떨구요
+	떨구요/ncn
+
+.
+	./sf
+
+
+그렇게
+	그렇/pad+게/ecs
+
+시간을
+	시간/ncn+을/jco
+
+보내고
+	보내/pvg+고/ecc
+
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+시간동안은
+	시간/ncn+동안/ncn+은/jxc
+
+광화문을
+	광화/ncpa+문/ncn+을/jco
+
+둘러보기로
+	두르/pvg+어/ecx+보/px+기/etn+로/jca
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+청계천은
+	청계/ncn+천/ncn+은/jxc
+
+인왕산과
+	인왕/ncn+산/ncn+과/jcj
+
+백악산의
+	백악산/ncn+의/jcm
+
+남쪽
+	남쪽/ncn
+
+기슭과
+	기슭/ncn+과/jcj
+
+남산
+	남산/ncn
+
+북쪽
+	북쪽/ncn
+
+기슭에서
+	기슭/ncn+에서/jca
+
+발원해
+	발원/ncpa+하/xsva+어/ecx
+
+서울을
+	서울/ncn+을/jco
+
+서에서
+	서/ncn+에서/jca
+
+동으로
+	동/nbu+으로/jca
+
+관통하며
+	관통/ncpa+하/xsva+며/ecc
+
+동대문을
+	동/nbu+대/xsnu+문/nbu+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+중랑천과
+	중랑천/ncn+과/jct
+
+만난
+	만나/pvg+ㄴ/etm
+
+후
+	후/ncn
+
+한강으로
+	한강/ncn+으로/jca
+
+흘러갑니다
+	흐르/pvg+어/ecx+가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+총
+	총/mma
+
+길이
+	길/ncn+이/jcc
+
+8.
+	8./nnc
+
+14km의
+	14km/ncn+의/jcm
+
+자연하천이자
+	자연/ncn+하천/ncn+이/jp+자/ecc
+
+인공하천이기도
+	인공/ncn+하천/ncn+이/jp+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+조선시대
+	조선시대/ncn
+
+양반가와
+	양반가/ncn+와/jcj
+
+주요
+	주요/ncps
+
+관청이
+	관청/ncn+이/jcc
+
+있었던
+	있/paa+었/ep+던/etm
+
+북촌과
+	북촌/ncn+과/jcj
+
+상대적인
+	상대/ncn+적/ncn+이/jp+ㄴ/etm
+
+서민과
+	서민/ncn+과/jcj
+
+가난한
+	가/pvg+아/ecx+나/px+ㄴ/etm+한/nbn
+
+선비들이
+	선비/ncn+들/ncn+이/jcc
+
+주로
+	주로/mag
+
+터를
+	터/nbn+를/jco
+
+잡았떤
+	잡았떤/ncn
+
+남촌이
+	남촌/ncn+이/jcc
+
+청계천을
+	청계/ncn+천/ncn+을/jco
+
+기준을
+	기준/ncpa+을/jco
+
+나눠졌고,
+	나누/pvg+어/ecx+지/px+었/ep+고/ecc+,/sp
+
+종로와
+	종/ncn+로/jca+와/jcj
+
+을지로
+	을지/ncn+로/jca
+
+등
+	등/nbu
+
+도성의
+	도성/ncn+의/jcm
+
+주요
+	주요/ncps
+
+간선도로가
+	간선도로/ncn+가/jcs
+
+청계천을
+	청계/ncn+천/ncn+을/jco
+
+기준으로
+	기준/ncpa+으로/jca
+
+설계되었습니다
+	설계/ncpa+되/xsvn+었/ep+습니다/ef
+
+.
+	./sf
+
+
+600년의
+	600/nnc+년/nbu+의/jcm
+
+장구한
+	장구/ncn+한/ncn
+
+세월동안
+	세월/ncn+동안/ncn
+
+한양,
+	하/pvg+ㄴ/etm+양/nbn+,/sp
+
+경성,
+	경성/ncpa+,/sp
+
+서울
+	서울/ncn
+
+사람들과
+	사람들/ncn+과/jct
+
+함께
+	함께/mag
+
+세월을
+	세/nnc+월/nbu+을/jco
+
+겪어온
+	겪/pvg+어/ecx+오/px+ㄴ/etm
+
+청계천,
+	청계/ncn+천/ncn+,/sp
+
+이제는
+	이제/mag+는/jxc
+
+이전의
+	이전/ncn+의/jcm
+
+모습과는
+	모습/ncn+과/jct+는/jxc
+
+많이
+	많/paa+이/xsa
+
+달라졌겠지만
+	다르/paa+아/ecx+지/px+었겠/ep+지만/ecs
+
+그
+	그/mmd
+
+시대의
+	시대/ncn+의/jcm
+
+사람들과
+	사람들/ncn+과/jct
+
+끈끈한
+	끈끈하/paa+ㄴ/etm
+
+삶을
+	삶/ncn+을/jco
+
+함께
+	함께/mag
+
+했던
+	하/px+었/ep+던/etm
+
+곳이기에
+	곳/ncn+이/jp+기/etn+에/jca
+
+지금도
+	지금/mag+도/jxc
+
+우리와
+	우리/npp+와/jct
+
+함께
+	함께/mag
+
+면면히
+	면면히/mag
+
+숨쉬고
+	숨쉬/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+앞으로도
+	앞/ncn+으로/jca+도/jxc
+
+시민들의
+	시민/ncn+들/ncn+의/jcm
+
+휴식처로서
+	휴식처/ncn+로서/jca
+
+그리고
+	그리고/maj
+
+도심속의
+	도심/ncn+속/ncn+의/jcm
+
+살아있는
+	살/pvg+아/ecx+있/px+는/etm
+
+생태공간으로써
+	생태/ncn+공간/ncn+으로써/jca
+
+즐거움의
+	즐거움/ncn+의/jcm
+
+공간이
+	공간/ncn+이/jcc
+
+되길
+	되길/ncn
+
+바래봅니다
+	바래/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+청계광장
+	청계/ncn+광장/ncn
+
+
+서울
+	서울/ncn
+
+종로구
+	종로구/ncn
+
+서린동
+	서린동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01454534",
+	"bl01454534",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"13543936",
+	"/sl+13543936/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"청계광장",
+	title/f+:/sp+"/sl+청계/ncn+광장/ncn+"/sr+,/sp
+
+pointX:310137,pointY:552365}
+	pointX/f+:/sp+310137/nnc+,/sp+pointY/f+:/sp+552365/nnc+}/sr

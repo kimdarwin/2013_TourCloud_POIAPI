@@ -1,0 +1,809 @@
+#1
+	#1/ncn
+
+.
+	./sf
+
+
+노트북
+	노트북/ncn
+
+..
+	./sf+./sf
+
+
+맥주
+	맥주/ncn
+
+..
+	./sf+./sf
+
+
+그리고
+	그리고/maj
+
+AS
+	AS/f
+
+
+집에서
+	집/ncn+에서/jca
+
+맥주를
+	맥주/ncn+를/jco
+
+마시다가
+	마시/pvg+다가/ecs
+
+키보드에
+	키보드/ncn+에/jca
+
+맥주를
+	맥주/ncn+를/jco
+
+쏟았다
+	쏟/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+맥주가
+	맥주/ncn+가/jcs
+
+아깝다는
+	아깝/paa+다/ef+는/etm
+
+생각과
+	생각/ncpa+과/jct
+
+동시에
+	동시에/mag
+
+큰일났다는
+	큰일나/pvg+아/ep+다/ef+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+양쪽
+	양쪽/ncn
+
+뇌에서
+	뇌/ncn+에서/jca
+
+번쩍였다
+	번쩍이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+얼른
+	얼른/mag
+
+수건으로
+	수건/ncn+으로/jca
+
+닦아내고
+	닦/pvg+아/ecx+내/px+고/ecc
+
+노트북을
+	노트북/ncn+을/jco
+
+뒤집어
+	뒤집/pvg+어/ecx
+
+놓았다
+	놓/px+아/ep+다/ef
+
+..
+	./sf+./sf
+
+
+예전에
+	예전/ncn+에/jca
+
+쓰던노트북(씽크패드)은
+	쓰던노트북(씽크패드)/ncn+은/jxc
+
+방수
+	방수/ncn
+
+기능이
+	기능/ncn+이/jcc
+
+있어서
+	있/paa+어서/ecs
+
+
+액체가
+	액체/ncn+가/jcs
+
+밑으로빠져나가는
+	밑으로빠져나가/ncn+는/jxc
+
+구조라
+	구조/ncpa+라/ncn
+
+
+오히려
+	오히려/mag
+
+물을
+	물/ncn+을/jco
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+부어서
+	붓/pvg+어서/ecs
+
+맥주를
+	맥주/ncn+를/jco
+
+흘러내리게
+	흐르/pvg+어/ecx+내리/px+게/ecs
+
+하면
+	하/pvg+면/ecs
+
+괜찮았는데
+	괜찮/paa+아/ep+ㄴ데/ecs
+
+
+지금
+	지금/mag
+
+노트북은
+	노트북/ncn+은/jxc
+
+넷북이라
+	넷북이라/ncn
+
+걱정이
+	걱정/ncpa+이/jcc
+
+되었다
+	되/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+한참후에
+	한참/ncn+후/ncn+에/jca
+
+켜보니
+	크/paa+어/ecx+보/px+니/ecs
+
+역시나
+	역시/mag+나/jxc
+
+키보드가
+	키보드/ncn+가/jcs
+
+어이없이
+	어이/ncn+없이/jca
+
+동작한다
+	동작/ncpa+하/xsva+ㄴ다/ef
+
+-.
+	-/sd+./sy
+
+-;;;;
+	-/sd+;/sy+;/sy+;/sy+;/sy
+
+
+아침일찍
+	아침일찍/ncn
+
+AS센터에
+	AS/f+센터/ncn+에/jca
+
+갔는데
+	가/px+아/ep+ㄴ데/ecs
+
+(요즘은
+	(/sl+요즘/mag+은/jxc
+
+인터넷으로
+	인터넷/ncn+으로/jca
+
+예약을
+	예약/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어서
+	있/px+어서/ecs
+
+시간
+	시간/nbu
+
+낭비가
+	낭비/ncpa+가/jcc
+
+적다)
+	적/paa+다/ef+)/sr
+
+
+다행히
+	다행히/mag
+
+요즘은이
+	요즘/ncn+은/ncn+이/jcc
+
+브랜드의노트북도
+	브랜드의노트북도/ncn
+
+키보드랑
+	키보드/ncn+랑/jxc
+
+기판
+	기판/ncn
+
+사이에
+	사이/ncn+에/jca
+
+칸막이를
+	칸막이/ncn+를/jco
+
+해놔서
+	해놔/ncn+서/jca
+
+
+키보드만
+	키보드/ncn+만/jxc
+
+교체하면
+	교체/ncpa+하/xsva+면/ecs
+
+된단다
+	되/pvg+ㄴ단다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+접수할때
+	접수/ncpa+하/xsva+ㄹ/etm+때/nbn
+
+음료수
+	음료수/ncn
+
+엎질렀다는
+	엎질렀다/ncn+는/jxc
+
+이야기를
+	이야기/ncpa+를/jco
+
+안해서
+	안하/pvg+어서/ecs
+
+기록이
+	기록/ncpa+이/jcc
+
+남지
+	남/pvg+지/ecx
+
+않아
+	않/paa+아/ecs
+
+
+무상으로
+	무상/ncn+으로/jca
+
+부품을
+	부풀/pvg+ㅁ/etn+을/jco
+
+교체해
+	교체/ncpa+하/xsva+어/ecx
+
+줬다
+	주/px+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+AS받으실
+	AS/f+받/xsva+으시/ep+ㄹ/etm
+
+일
+	일/nnc
+
+있으시면
+	있/paa+으시/ep+면/ecs
+
+
+접수하실때
+	접수/ncpa+하/xsva+시/ep+ㄹ/etm+때/nbn
+
+사연을
+	사연/ncn+을/jco
+
+솔직히
+	솔직히/mag
+
+말히지
+	말히지/ncn
+
+마시고
+	마시/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+AS기사랑
+	AS/f+기사/ncr+랑/jxc
+
+상의하세요
+	상의/ncpa+하/xsva+세/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+#2
+	#2/ncn
+
+.
+	./sf
+
+
+밀감
+	밀감/ncn
+
+
+과일을
+	과일/ncn+을/jco
+
+좋아하지만
+	좋/paa+아/ecx+하/px+지만/ecs
+
+도통
+	도통/mag
+
+챙겨먹기가
+	챙겨먹기/ncn+가/jcs
+
+힘들어서
+	힘들/pvg+어서/ecs
+
+
+인터넷으로
+	인터넷/ncn+으로/jca
+
+뭔가
+	뭔가/ncn
+
+주문한김에
+	주문/ncpa+하/xsva+ㄴ/etm+김/nbn+에/jca
+
+밀감을
+	밀/pvg+ㄹ/etm+감/nbn+을/jco
+
+함께
+	함께/mag
+
+주문했다
+	주문/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+택배가
+	택배/ncn+가/jcs
+
+도착했는데
+	도착/ncpa+하/xsva+었/ep+는데/ecs
+
+생각보다
+	생각/ncpa+보다/jca
+
+큰
+	크/paa+ㄴ/etm
+
+박스에
+	박스/ncn+에/jca
+
+담겨왔다
+	담기/pvg+어/ecx+오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+열어보니
+	열/pvg+어/ecx+보/px+니/ecs
+
+아놔
+	아놔/ncn
+
+..
+	./sf+./sf
+
+
+-.-;;
+	-/sd+./sf+-/sd+;/sy+;/sy
+
+
+귤이
+	귤/ncn+이/jcc
+
+박스에
+	박스/ncn+에/jca
+
+가득
+	가득/mag
+
+들어있다
+	들/pvg+어/ecx+있/px+다/ef
+
+...
+	.../se
+
+
+10kg
+	10kg/ncn
+
+라네
+	라/ncn+이/jp+네/ef
+
+..
+	./sf+./sf
+
+
+T_T
+	T_T/ncn
+
+
+아무
+	아무/mmd
+
+생각없이
+	생각없이/mag
+
+주문했나보다
+	주문했나보/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+냉장고에도
+	냉장고/ncn+에/jca+도/jxc
+
+다
+	다/mag
+
+안들어가서
+	안들어가서/ncn
+
+베란다에
+	베란다/ncn+에/jca
+
+골고루
+	골고루/mag
+
+분산해
+	분산/ncn+해/ncn
+
+놓았다
+	놓/px+아/ep+다/ef
+
+..
+	./sf+./sf
+
+
+이걸
+	이걸/ncn
+
+언제
+	언제/npd
+
+다
+	다/mag
+
+먹나
+	먹/pvg+나/ef
+
+...
+	.../se
+
+
+흑.
+	흑/ncn+./sf
+
+.
+	./sf
+
+
+(혹시
+	(/sl+혹시/mag
+
+밀감
+	밀/pvg+ㄹ/etm+감/nbn
+
+장기
+	장기/ncn
+
+보관법
+	보관/ncn+법/ncn
+
+아시는분
+	알/pvg+시/ep+는/etm+분/nbn
+
+있으면
+	있/px+으면/ecs
+
+알려주세요
+	알리/pvg+어/ecx+주/px+세/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+)
+	)/sr
+
+
+#3
+	#3/ncn
+
+.
+	./sf
+
+
+서로이웃
+	서로/ncn+이웃/ncpa
+
+
+내
+	내/npp
+
+블로그를
+	블로그/ncn+를/jco
+
+들어오셔서
+	들/pvg+어/ecx+오/px+시/ep+어서/ecs
+
+이웃신청이야
+	이웃/ncpa+신청/ncpa+이야/jxc
+
+가끔
+	가끔/mag
+
+하시지만
+	하/px+시/ep+지만/ecs
+
+서로이웃
+	서로/ncn+이웃/ncpa
+
+신청하시는
+	신청/ncpa+하시/ncn+는/jxc
+
+분들은
+	불/pvg+ㄴ들/ecs+은/jxc
+
+많지
+	많/paa+지/ecx
+
+않다
+	않/px+다/ef
+
+..
+	./sf+./sf
+
+
+자주오시고
+	자주/ncn+오/ncn+이/jp+시/ep+고/ecc
+
+아는
+	알/pvg+는/etm
+
+분들이야
+	불/pvg+ㄴ/etm+들/nbn+이/jp+야/ef
+
+감사하지만
+	감사/ncpa+하/xsva+지만/ecs
+
+
+개중에는
+	개중/ncn+에/jca+는/jxc
+
+덧글도
+	덧글도/ncn
+
+한번도
+	한/nnc+번/nbu+도/jxc
+
+남기지
+	남기/pvg+지/ecx
+
+않으신
+	않/px+으시/ep+ㄴ/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+대부분이다
+	대부분/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+정말
+	정말/mag
+
+죄송스럽지만
+	죄송/ncps+스럽/xsmn+지/ecx+말/px+ㄴ/etm
+
+그런분들께는
+	그런분들께/ncn+는/jxc
+
+서로이웃은
+	서로/ncn+이웃/ncpa+은/jxc
+
+정중히
+	정중히/mag
+
+거절한다
+	거절/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+아무리
+	아무리/mag
+
+인터넷이지만
+	인터넷/ncn+이/jp+지만/ecs
+
+왠지
+	왠지/mag
+
+서로이웃은
+	서로/ncn+이웃/ncpa+은/jxc
+
+친분이
+	치/pvg+ㄴ/etm+분/nbn+이/jcc
+
+있어야
+	있/px+어야/ecs
+
+할것
+	하/pvg+ㄹ/etm+것/nbn
+
+같기에
+	같/paa+기/etn+에/jca
+
+..
+	./sf+./sf
+
+
+다음기회로
+	다음/ncn+기회/ncn+로/jca
+
+미룬다
+	미루/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+거절을
+	거절/ncpa+을/jco
+
+해도
+	하/pvg+어도/ecs
+
+벌써
+	벌써/mag
+
+세번째나
+	세/nnc+번/nbu+째/xsnu+나/jcj
+
+서로
+	서로/mag
+
+이웃을
+	이웃/ncpa+을/jco
+
+신청하시는
+	신청/ncpa+하/xsva+시/ep+는/etm
+
+분이
+	분/nbu+이/jcc
+
+계시다
+	계시/paa+다/ef
+
+..
+	./sf+./sf
+
+
+얼굴도
+	얼굴/ncn+도/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+덧글이나
+	덧글/ncn+이나/jcj
+
+공감도
+	공감/ncpa+도/jxc
+
+안남기기고
+	안남기기/ncn+이/jp+고/ecc
+
+활동(
+	활동(/ncn
+
+?)
+	?/sf+)/sr
+
+
+도
+	도/ncn
+
+안하시는것
+	안하/pvg+시/ep+는/etm+것/nbn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+..
+	./sf+./sf
+
+
+왜
+	왜/mag
+
+그러시는지
+	그러/pvd+시/ep+는지/ecs
+
+모르겠다
+	모르/pvg+겠/ep+다/ef
+
+.
+	./sf
+
+
+(남자라고
+	(/sl+남자/ncn+이/jp+라/ef+고/jcr
+
+그런건
+	그런건/ncn
+
+절대
+	절대/mag
+
+아니다
+	아니/paa+다/ef+./sf
+
+-.
+	-/sd+./sy
+
+-;;)
+	-/sd+;/sy+;/sy+)/sr

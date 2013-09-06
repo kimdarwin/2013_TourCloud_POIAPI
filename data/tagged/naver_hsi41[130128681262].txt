@@ -1,0 +1,531 @@
+-
+	-/sd
+
+부동산써브,전국
+	부동산써브,전국/ncn
+
+아파트
+	아파트/ncn
+
+평균
+	평균/ncpa
+
+2020만원
+	2020/nnc+만/nnc+원/nbu
+
+상승-
+	상승/ncpa+-/sd
+
+서울
+	서울/ncn
+
+2억6248만원,수도권
+	2/nnc+억/nnc+6248/nnc+만/nnc+원/nbu+,/sp+수도권/ncn
+
+1억8697만원
+	1/nnc+억/nnc+8697/nnc+만/nnc+원/nbu
+
+기록
+	기록/ncpa
+
+-
+	-/sd
+
+"정부
+	"/sl+정부/ncn
+
+대책
+	대책/ncn
+
+실효성
+	실효성/ncn
+
+없어,올해
+	없/paa+어/ef+,/sp+올해/ncn
+
+전세난
+	전세/ncn+난/ncn
+
+우려"작년
+	우려/ncpa+"/sr+작년/ncn
+
+1월
+	1/nnc+월/nbu
+
+정부의
+	정부/ncn+의/jcm
+
+1
+	1/nnc
+
+13
+	13/nnc
+
+전월세
+	전/xp+월세/ncn
+
+안정
+	안정/ncpa
+
+대책
+	대책/ncn
+
+이후
+	이후/ncn
+
+전국
+	전국/ncn
+
+평균
+	평균/ncpa
+
+아파트
+	아파트/ncn
+
+전세가격은
+	전세가격/ncn+은/jxc
+
+오히려
+	오히려/mag
+
+오른
+	오르/pvg+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타났다
+	나타나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+12일
+	12/nnc+일/nbu
+
+부동산정보업체
+	부동산/ncn+정보업체/ncn
+
+부동산써브에
+	부동산써브/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+정부
+	정부/ncn
+
+대책
+	대책/ncn
+
+이후
+	이후/ncn
+
+전국
+	전국/ncn
+
+아파트
+	아파트/ncn
+
+평균
+	평균/ncpa
+
+전세가격은
+	전세가격/ncn+은/jxc
+
+2020만원
+	2020/nnc+만/nnc+원/nbu
+
+오른
+	오르/pvg+ㄴ/etm
+
+1억5315만원으로
+	1/nnc+억/nnc+5315/nnc+만/nnc+원/nbu+으로/jca
+
+조사됐다
+	조사/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+(시세
+	(/sl+시/nbu+이/jp+세/ef
+
+기준일
+	기준/ncpa+이/jp+ㄹ/etm
+
+2011년
+	2011/nnc+년/nbu
+
+1월13일,
+	1월13일,/ncn
+
+2012년
+	2012/nnc+년/nbu
+
+1월12일)
+	1월12일)/ncn
+
+.
+	./sf
+
+
+서울은
+	서울/ncn+은/jxc
+
+1
+	1/nnc
+
+13
+	13/nnc
+
+대책
+	대책/ncn
+
+당시
+	당시/ncn
+
+전세가격이
+	전세가격/ncn+이/jcc
+
+2억3025만원이었으나
+	2/nnc+억/nnc+3025/nnc+만/nnc+원/nbu+이/jp+었/ep+으나/ecs
+
+현재는
+	현재/ncn+는/jxc
+
+2억6248만원으로,
+	2/nnc+억/nnc+6248/nnc+만/nnc+원/nbu+으로/jca+,/sp
+
+전국에서
+	전국/ncn+에서/jca
+
+전셋값이
+	전셋값/ncn+이/jcc
+
+가장
+	가장/mag
+
+많이
+	많/paa+이/xsa
+
+올랐다
+	오르/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+수도권은
+	수도권/ncn+은/jxc
+
+같은
+	같/paa+은/etm
+
+기간
+	기간/ncn
+
+2284만원
+	2284/nnc+만/nnc+원/nbu
+
+오른
+	오르/pvg+ㄴ/etm
+
+1억8697만원이었다
+	1/nnc+억/nnc+8697/nnc+만/nnc+원/nbu+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+지방에서는
+	지방/ncn+에서/jca+는/jxc
+
+부산이
+	부산/ncps+이/jcc
+
+같은
+	같/paa+은/etm
+
+기간
+	기간/ncn
+
+2309만원
+	2309/nnc+만/nnc+원/nbu
+
+오른
+	오르/pvg+ㄴ/etm
+
+1억4778만원으로
+	1/nnc+억/nnc+4778/nnc+만/nnc+원/nbu+으로/jca
+
+상승폭이
+	상승폭/ncn+이/jcc
+
+가장
+	가장/mag
+
+컸다
+	크/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+부동산써브는
+	부동산써브/ncn+는/jxc
+
+작년
+	작년/ncn
+
+정부는
+	정부/ncn+는/jxc
+
+1
+	1/nnc
+
+13
+	13/nnc
+
+대책과
+	대책/ncn+과/jcj
+
+2
+	2/nnc
+
+11
+	11/nnc
+
+대책
+	대책/ncn
+
+등
+	등/nbu
+
+전월세
+	전/xp+월세/ncn
+
+관련
+	관련/ncn
+
+정책을
+	정책/ncn+을/jco
+
+4건이나
+	4/nnc+건/nbu+이나/jcj
+
+내놨지만
+	내놨지만/ncn
+
+서민들의
+	서민/ncn+들/ncn+의/jcm
+
+전월세
+	전/xp+월세/ncn
+
+시장
+	시장/ncn
+
+안정에는
+	안정/ncpa+에/jca+는/jxc
+
+실효를
+	실효/ncn+를/jco
+
+거두지
+	거두/pvg+지/ecx
+
+못했다고
+	못하/px+었/ep+다/ef+고/jcr
+
+지적했다
+	지적/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+박정욱
+	박정욱/ncn
+
+부동산써브
+	부동산써브/ncn
+
+연구원은
+	연구/ncpa+원/ncn+은/jxc
+
+"정부가
+	"/sl+정부/ncn+가/jcs
+
+공공
+	공공/ncn
+
+임대주택
+	임대주택/ncn
+
+건설
+	건설/ncpa
+
+등
+	등/nbu
+
+직접적인
+	직접/ncn+적/ncn+이/jp+ㄴ/etm
+
+공급보다
+	공급/ncpa+보다/jca
+
+민간
+	민간/ncn
+
+임대시장을
+	임대/ncpa+시장/ncn+을/jco
+
+활성화하고
+	활성화/ncn+하고/jct
+
+주거비
+	주거비/ncn
+
+지원
+	지원/ncpa
+
+등
+	등/nbu
+
+간접적인
+	간접/ncn+적/ncn+이/jp+ㄴ/etm
+
+공급책을
+	공급/ncpa+책/ncn+을/jco
+
+썼기
+	쓰/pvg+었/ep+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+전세
+	전세/ncn
+
+시장에
+	시장/ncn+에/jca
+
+즉각적인
+	즉각/ncn+적/ncn+이/jp+ㄴ/etm
+
+효과가
+	효과/ncn+가/jcs
+
+없었다"고
+	없/paa+었/ep+다/ef+"/sr+고/jcr
+
+분석했다
+	분석/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+작년
+	작년/ncn
+
+1월
+	1/nnc+월/nbu
+
+13일
+	13/nnc+일/nbu
+
+이후
+	이후/ncn
+
+평균
+	평균/ncpa
+
+전세가격
+	전세가격/ncn
+
+추이(출처:
+	추이(출처:/ncn
+
+부동산써브)
+	부동산써브/ncn+)/sr
+
+
+박
+	박/nbu
+
+연구원은
+	연구/ncpa+원/ncn+은/jxc
+
+"올해는
+	"/sl+올해/ncn+는/jxc
+
+아파트
+	아파트/ncn
+
+입주
+	입주/ncpa
+
+물량이
+	물량/ncn+이/jcc
+
+작년보다
+	작년/ncn+보다/jca
+
+줄어들고,
+	줄어들/pvg+고/ecc+,/sp
+
+작년
+	작년/ncn
+
+전세난
+	전세/ncn+난/ncn
+
+불씨가
+	불씨/ncn+가/jcs
+
+여전히
+	여전히/mag
+
+남아
+	남/pvg+아/ecx
+
+있어
+	있/px+어/ecx
+
+설
+	서/pvg+ㄹ/etm
+
+이후
+	이후/ncn
+
+전세난이
+	전세/ncn+난/ncn+이/jcc
+
+되살아날까
+	되살/pvg+아/ecx+나/px+ㄹ까/ecs
+
+우려되는
+	우/ncn+이/jp+리/ep+어/ecx+되/px+는/etm
+
+상황"이라고
+	상황/ncn+"/sr+이/jp+라/ef+고/jcr
+
+덧붙였다
+	덧붙이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:이데일리
+	출처:이데일리/ncn
+
+류의성
+	류의성/ncn
+
+기자
+	기자/ncr

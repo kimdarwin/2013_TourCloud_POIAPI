@@ -1,0 +1,47 @@
+보통
+	보통/mag
+
+고속
+	고속/ncn
+
+버스
+	버스/ncn
+
+터미널을
+	터미널/ncn+을/jco
+
+가기
+	가/px+기/etn
+
+위하여
+	위하/pvg+어/ecx
+
+이곳에서
+	이곳/npd+에서/jca
+
+하차하여
+	하차/ncpa+하/xsva+어/ecx
+
+102번을
+	102/nnc+번/nbu+을/jco
+
+기다린다
+	기다리/pvg+ㄴ다/ef
+
+이곳은
+	이곳/npd+은/jxc
+
+유성근처인
+	유성/ncn+근처/ncn+이/jp+ㄴ/etm
+
+리베라
+	리베라/ncn
+
+호텔
+	호텔/ncn
+
+앞이다
+	앞/ncn+이/jp+다/ef
+
+.
+	./sf

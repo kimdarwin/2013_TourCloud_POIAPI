@@ -1,0 +1,1582 @@
+삼척해양레일바이크
+	삼척해양레일바이크/ncn
+
+용화정거장
+	용화/ncn+정거장/ncn
+
+
+#1
+	#1/ncn
+
+.
+	./sf
+
+
+비상한
+	비상/ncn+한/ncn
+
+나의
+	나/npp+의/jcm
+
+잔머리
+	잔머/ncn+이/jp+리/ef
+
+
+레일바이크를
+	레일/ncn+바이크/ncn+를/jco
+
+타기로
+	타/pvg+기/etn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+하늘도
+	하늘/ncn+도/jxc
+
+무심하시지
+	무심/ncps+하시/ncn+이/jp+지/ef
+
+..
+	./sf+./sf
+
+
+비를
+	비/ncn+를/jco
+
+쉴새없이
+	쉴새없이/mag
+
+뿌려주신다
+	뿌리/pvg+어/ecx+주/px+시/ep+ㄴ다/ef
+
+.
+	./sf
+
+
+"레일바이크는
+	"/sl+레일/ncn+바이크/ncn+는/jxc
+
+지붕이
+	지붕/ncn+이/jcc
+
+있어도
+	있/px+어도/ecs
+
+비와도
+	비/ncn+와/jct+도/jxc
+
+상관없어요
+	상관/ncn+없/xsmn+어/ef+요/jxf
+
+."
+	./sf+"/sl
+
+
+누군가의
+	누군가/npp+의/jcm
+
+말에
+	말/ncn+에/jca
+
+다행이다
+	다행/ncps+이/jp+다/ef
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+오히려
+	오히려/mag
+
+비오는
+	비/paa+오/ef+는/etm
+
+날이라
+	날/ncn+이/jp+라/ecs
+
+더
+	더/mag
+
+운치있고
+	운치/ncn+있/xsmn+고/ecc
+
+좋을
+	좋/paa+을/etm
+
+거라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+스스로를
+	스스로/npp+를/jco
+
+위로해본다
+	위로/ncpa+하/xsva+어/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+비보다
+	비/ncn+보다/jca
+
+더
+	더/mag
+
+걱정되는
+	걱정/ncpa+되/xsvn+는/etm
+
+게
+	것/nbn+이/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+페달을
+	페달/ncn+을/jco
+
+열심히
+	열심히/mag
+
+비벼줘야할텐데,
+	비비/pvg+어/ecx+주/px+어야/ecx+하/px+ㄹ텐데/ecs+,/sp
+
+나의
+	나/npp+의/jcm
+
+가녀린(
+	가녀린(/ncn
+
+?)
+	?/sf+)/sr
+
+
+허벅지가
+	허벅지/ncn+가/jcs
+
+터지진
+	터/nbn+이/jp+지/ecx+지/px+ㄴ/etm
+
+않을까
+	않/px+을까/ef
+
+?
+	?/sf
+
+
+주변을
+	주변/ncn+을/jco
+
+샅샅이
+	샅샅이/mag
+
+빛의
+	빛/ncn+의/jcm
+
+속도로
+	속도/ncn+로/jca
+
+훑었더니
+	훑/pvg+었/ep+더니/ecs
+
+한
+	하/pvg+ㄴ/etm
+
+남자가
+	남자/ncn+가/jcs
+
+아우라를
+	아우/ncn+라/ncn+를/jco
+
+뿜어내며
+	뿜/pvg+어/ecx+내/px+며/ecc
+
+서
+	서/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+여행때
+	여행/ncpa+때/ncn
+
+송천떡마을에서
+	송천떡마을/ncn+에서/jca
+
+떡메를
+	떡메/ncn+를/jco
+
+너무나도
+	너무나/mag+도/jxc
+
+가볍게
+	가볍/paa+게/ecs
+
+쳐대던
+	치/pvg+어/ecx+대/px+던/etm
+
+바로
+	바/nbn+로/jca
+
+그
+	그/mmd
+
+분.
+	분/nbn+./sf
+
+
+옆으로
+	옆/ncn+으로/jca
+
+슬쩍다가가
+	슬쩍다가/ncn+가/jcs
+
+"찜
+	"/sl+찌/pvg+ㅁ/etn
+
+!"
+	!/sf+"/sl
+
+
+하고
+	하/pvg+고/ecc
+
+외쳤더니
+	외치/pvg+었/ep+더니/ecs
+
+그분이
+	그분/npp+이/jcs
+
+씨익
+	씨익/mag
+
+웃으며
+	웃/pvg+으며/ecc
+
+투정을
+	투정/ncpa+을/jco
+
+하신다
+	하/px+시/ep+ㄴ다/ef
+
+.
+	./sf
+
+
+"이럴때만
+	"이럴때/ncn+만/jxc
+
+찾아~"
+	찾/pvg+아/ecs+~/sd+"/sl
+
+
+"아니예요~
+	"/sl+아니/paa+예요/ef+~/sd
+
+계속
+	계속/mag
+
+붙어다녔는데요
+	붙어다녔는데요/ncn
+
+."
+	./sf+"/sl
+
+
+좀
+	좀/mag
+
+미안한
+	미안/ncps+하/xsms+ㄴ/etm
+
+마음에
+	마음/ncn+에/jca
+
+변명을
+	변명/ncpa+을/jco
+
+해보지만
+	하/pvg+어/ecx+보/px+지/ecx+말/px+ㄴ/etm
+
+그
+	그/mmd
+
+말을
+	말/ncn+을/jco
+
+믿지도
+	믿/pvg+지/ecs+도/jxc
+
+않는
+	않/px+는/etm
+
+눈치다
+	눈치/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+어쨌든난
+	어쨌든난/ncn
+
+이제
+	이제/mag
+
+든든해졌으니
+	든든/ncps+하/xsms+어/ecx+지/px+었/ep+으니/ecs
+
+그걸로
+	그걸로/ncn
+
+된거다
+	된거/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+잔머리
+	잔머리/ncn
+
+하나는
+	하/pvg+어/ecx+나/px+는/etm
+
+타고났나보다
+	타고났나보/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+하하;;
+	하하/ncn+;/sy+;/sy
+
+
+출발
+	출발/ncpa
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+해송이
+	해송/ncn+이/jcc
+
+뒤덮인
+	뒤덮이/pvg+ㄴ/etm
+
+운치있는
+	운치/ncn+있/xsmn+는/etm
+
+길에서부터
+	길/ncn+에서/jca+부터/jxc
+
+시작이다
+	시작/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+#2
+	#2/ncn
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+사람은줄을
+	사람은/ncn+줄/ncn+을/jco
+
+잘
+	잘/mag
+
+서야해
+	서/pvg+어야/ecx+하/px+어/ecx
+
+.
+	./sf
+
+
+용화에서
+	용화/ncn+에서/jca
+
+궁촌까지
+	궁촌까지/ncn
+
+가는
+	가/pvg+는/etm
+
+코스
+	코스/ncn
+
+.
+	./sf
+
+
+궁촌에서
+	궁촌/ncn+에서/jca
+
+출발해도
+	출발/ncpa+하/xsva+어도/ecs
+
+되지만,
+	되/pvg+지/ecx+말/px+ㄴ/etm+,/sp
+
+내리막길이
+	내리막길/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+용화에서
+	용화/ncn+에서/jca
+
+출발하는
+	출발/ncpa+하/xsva+는/etm
+
+것이더
+	것/nbn+이/jp+더/ep+어/ecs
+
+수월하다
+	수월/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+물론,
+	물론/ncn+,/sp
+
+출발전에
+	출발/ncpa+전/ncn+에/jca
+
+골라둔
+	고르/pvg+아/ecx+두/px+ㄴ/etm
+
+든든한
+	든든/ncps+하/xsms+ㄴ/etm
+
+남정네가
+	남정네/ncn+가/jcs
+
+있어
+	있/px+어/ecx
+
+어느
+	어느/mmd
+
+길이든
+	길/ncn+이/jp+든/ecs
+
+상관없을
+	상관/ncn+없/xsmn+을/etm
+
+것
+	것/nbn
+
+같지만
+	같/paa+지/ecx+말/px+ㄴ/etm
+
+말이다
+	말/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+중간
+	중간/ncn
+
+초곡휴게소까지
+	초곡휴게소까지/ncn
+
+가는동안
+	가는동안/ncn
+
+페달에
+	페달/ncn+에/jca
+
+발도
+	발/ncn+도/jxc
+
+대지
+	대/pvg+지/ecx
+
+않았다
+	않/px+아/ep+다/ef
+
+.
+	./sf
+
+
+뒤에서
+	뒤/ncn+에서/jca
+
+묵묵히
+	묵묵히/mag
+
+열심히
+	열심히/mag
+
+다리를
+	다리/ncn+를/jco
+
+움직여준
+	움직이/pvg+어/ecx+주/px+ㄴ/etm
+
+그분이
+	그분/npp+이/jcs
+
+있어서기도하지만
+	있어서기도하/ncn+이/jp+지만/ecs
+
+더
+	더/mag
+
+큰
+	크/paa+ㄴ/etm
+
+이유는
+	이유/ncn+는/jxc
+
+바로
+	바로/mag
+
+앞
+	앞/ncn
+
+줌마들
+	줌마들/ncn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+세월아~
+	세월아~/ncn
+
+네월아~
+	네월아~/ncn
+
+앞서가는
+	앞서/pvg+어/ecx+가/px+는/etm
+
+줌마들께서
+	줌마들께서/ncn
+
+어찌나
+	어찌/mag+나/jxc
+
+유유자적이시던지
+	유유자적/ncpa+이/jp+시/ep+던/etm+지/nbn
+
+...
+	.../se
+
+
+뒤에서
+	뒤/ncn+에서/jca
+
+답답해하던
+	답답/ncps+하/xsms+어/ecx+하/px+던/etm
+
+우리는
+	우리/npp+는/jxc
+
+고장나서구실도
+	고장나서구실/ncn+도/jxc
+
+잘
+	잘/mag
+
+못하는
+	못하/px+는/etm
+
+경적도
+	경적/ncn+도/jxc
+
+울려보고,
+	울리/pvg+어/ecx+보/px+고/ecc+,/sp
+
+소심한
+	소심/ncn+한/ncn
+
+볼륨에
+	볼륨/ncn+에/jca
+
+들리지도
+	들리/pvg+지/ecs+도/jxc
+
+않았겠지만
+	않/px+았겠/ep+지만/ecs
+
+소리도
+	소리/ncn+도/jxc
+
+쳐본다
+	치/pvg+어/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+"앞에
+	"/sl+앞/ncn+에/jca
+
+가서
+	가/pvg+서/ecs
+
+페달
+	페달/ncn
+
+좀
+	좀/mag
+
+밟아주고
+	밟/pvg+아/ecx+주/px+고/ecc
+
+올까
+	오/px+ㄹ까/ef
+
+?"
+	?/sf+"/sl
+
+
+출발
+	출발/ncpa
+
+전
+	전/nbn
+
+'위험하니
+	'/sr+위험/ncps+하/xsms+니/ecs
+
+도중에
+	도중/ncn+에/jca
+
+절대로멈추지
+	절대로멈추지/ncn
+
+말라
+	말/px+라/ef
+
+.'
+	./sf+'/sl
+
+
+는
+	늘/pvg+ㄴ/etm
+
+교관의
+	교관/ncr+의/jcm
+
+말씀이
+	말씀/ncpa+이/jcc
+
+없었다면
+	없/paa+었/ep+다면/ecs
+
+분명히
+	분명히/mag
+
+내렸을거다
+	내렸을거/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+기차길이
+	기차/ncn+길/ncn+이/jcc
+
+한줄인
+	하/pvg+ㄴ/etm+줄/nbn+이/jp+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+이렇게나
+	이렇/pad+게/ecs+나/jxc
+
+원망스러웠던
+	원망/ncpa+스럽/xsmn+었/ep+던/etm
+
+적이
+	적/ncn+이/jcc
+
+있었던가
+	있/px+었/ep+던가/ef
+
+!.
+	!/sf+./sf
+
+
+"아~
+	"/sl+아/ii+~/sd
+
+추월하고싶어
+	추월/ncpa+하/xsva+고/ecx+싶/px+어/ecx
+
+.
+	./sf
+
+
+답답해
+	답답/ncps+하/xsms+어/ecx
+
+."
+	./sf+"/sl
+
+
+같이
+	같/paa+이/xsa
+
+탑승한
+	탑승/ncpa+하/xsva+ㄴ/etm
+
+일행들이
+	일행/ncn+들/ncn+이/jcc
+
+저마다
+	저/npp+마다/jxc
+
+속을
+	속/ncn+을/jco
+
+태우며
+	태우/pvg+며/ecc
+
+한마디씩
+	한마디씩/ncn
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+"중간에
+	"/sl+중간/ncn+에/jca
+
+휴게소에서
+	휴게소/ncn+에서/jca
+
+내리면
+	내리/pvg+면/ecs
+
+저
+	저/mmd
+
+아줌마들보다
+	아줌마/ncn+들/ncn+보다/jca
+
+먼저
+	먼저/mag
+
+타자
+	타/pvg+자/ecc
+
+."
+	./sf+"/sl
+
+
+그렇게
+	그렇/pad+게/ecs
+
+다짐을
+	다지/pvg+ㅁ/etn+을/jco
+
+하며
+	하/pvg+며/ecc
+
+속도를
+	속도/ncn+를/jco
+
+포기하는
+	포기/ncpa+하/xsva+는/etm
+
+수
+	수/nbn
+
+밖에
+	밖/ncn+에/jca
+
+..
+	./sf+./sf
+
+
+다시
+	다시/mag
+
+한
+	하/pvg+ㄴ/etm
+
+번
+	번/nbu
+
+깨닫지만
+	깨닫/pvg+지만/ecs
+
+역시
+	역시/mag
+
+사람은
+	사람/ncn+은/jxc
+
+어디서건
+	어디/npd+서건/jxc
+
+줄을
+	줄/nbn+을/jco
+
+잘
+	잘/mag
+
+서야
+	서/pvg+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+구간에는
+	구간/ncn+에/jca+는/jxc
+
+축제,
+	축제/ncn+,/sp
+
+신비,
+	신비/ncps+,/sp
+
+황영조기념관
+	황영조기념관/ncn
+
+3개의
+	3/nnc+개/nbu+의/jcm
+
+주제를
+	주제/ncn+를/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+터널이
+	터널/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+터널속에서
+	터널/ncn+속/ncn+에서/jca
+
+펼쳐지는아름다운
+	펼쳐지는아름다운/ncn
+
+레이저쇼
+	레이저/ncn+쇼/ncpa
+
+
+초곡휴게소
+	초곡휴게소/ncn
+
+
+TIP
+	TIP/f
+
+
+소재지
+	소재지/ncn
+
+
+궁촌정거장
+	궁촌정거장/ncn
+
+:
+	:/sp
+
+강원도
+	강원/ncn+도/jxc
+
+삼척시
+	삼척시/ncn
+
+근덕면
+	근덕면/ncn
+
+궁촌리
+	궁촌리/ncn
+
+146-10번지
+	146-10번지/ncn
+
+
+용화정거장
+	용화/ncn+정거장/ncn
+
+:
+	:/sp
+
+강원도
+	강원/ncn+도/jxc
+
+삼척시
+	삼척시/ncn
+
+근덕면
+	근덕면/ncn
+
+용화리
+	용화/ncn+이/jp+리/ef
+
+14-6번지
+	14-6번지/ncn
+
+
+운행코스
+	운행/ncpa+코스/ncn
+
+
+궁촌역
+	궁촌역/ncn
+
+초곡휴게소
+	초곡휴게소/ncn
+
+용화역
+	용화/ncn+역/ncn
+
+/
+	//sp
+
+용화역
+	용화/ncn+역/ncn
+
+초곡휴게소
+	초곡휴게소/ncn
+
+궁촌역
+	궁촌역/ncn
+
+
+운행요금(편도)
+	운행요금/ncn+(/sl+편도/ncn+)/sr
+
+
+주간
+	주간/nbu
+
+2인승
+	2인승/ncn
+
+20,000원
+	20,000/nnc+원/nbu
+
+/
+	//sp
+
+4인승
+	4인승/ncn
+
+30,000원
+	30,000/nnc+원/nbu
+
+
+야간
+	야간/ncn
+
+2인승
+	2인승/ncn
+
+22,000원
+	22,000/nnc+원/nbu
+
+/
+	//sp
+
+4인승
+	4인승/ncn
+
+33,000원
+	33,000/nnc+원/nbu
+
+
+단체
+	단체/ncn
+
+2인승
+	2인승/ncn
+
+10대이상,
+	10/nnc+대/nbu+이상/xsnu+,/sp
+
+4인승
+	4인승/ncn
+
+8대이상
+	8/nnc+대/nbu+이상/xsnu
+
+동시
+	동시/ncn
+
+이용자
+	이용자/ncn
+
+10%할인
+	10%할/ncn+이/jp+ㄴ/etm
+
+
+주말
+	주말/ncn
+
+단체
+	단체/ncn
+
+예약불가
+	예약/ncpa+불가/ncn
+
+
+운행시간
+	운행/ncpa+시간/ncn
+
+
+구분
+	구분/ncpa
+
+
+레일바이크
+	레일/ncn+바이크/ncn
+
+
+(궁촌역출발)
+	(궁촌역출발/ncn+)/sr
+
+
+회송버스
+	회송/ncpa+버스/ncn
+
+
+(용화역출발)
+	(용화역출발/ncn+)/sr
+
+
+레일바이크
+	레일/ncn+바이크/ncn
+
+
+(용화역출발)
+	(용화역출발/ncn+)/sr
+
+
+회송버스
+	회송/ncpa+버스/ncn
+
+
+(궁촌역출발)
+	(궁촌역출발/ncn+)/sr
+
+
+1회차
+	1회차/ncn
+
+
+08:30
+	08/nnc+:/sp+30/nnc
+
+
+10:00
+	10/nnc+:/sp+00/nnc
+
+
+08:50
+	08/nnc+:/sp+50/nnc
+
+
+10:20
+	10/nnc+:/sp+20/nnc
+
+
+2회차
+	2회차/ncn
+
+
+10:40
+	10/nnc+:/sp+40/nnc
+
+
+12:10
+	12/nnc+:/sp+10/nnc
+
+
+10:20
+	10/nnc+:/sp+20/nnc
+
+
+11:50
+	11/nnc+:/sp+50/nnc
+
+
+3회차
+	3회차/ncn
+
+
+12:10
+	12/nnc+:/sp+10/nnc
+
+
+13:40
+	13/nnc+:/sp+40/nnc
+
+
+12:30
+	12/nnc+:/sp+30/nnc
+
+
+14:00
+	14/nnc+:/sp+00/nnc
+
+
+4회차
+	4회차/ncn
+
+
+14:30
+	14/nnc+:/sp+30/nnc
+
+
+16:00
+	16/nnc+:/sp+00/nnc
+
+
+14:10
+	14/nnc+:/sp+10/nnc
+
+
+15:40
+	15/nnc+:/sp+40/nnc
+
+
+5회차
+	5회차/ncn
+
+
+16:00
+	16/nnc+:/sp+00/nnc
+
+
+17:30
+	17/nnc+:/sp+30/nnc
+
+
+16:20
+	16/nnc+:/sp+20/nnc
+
+
+17:50
+	17/nnc+:/sp+50/nnc
+
+
+6회차
+	6회차/ncn
+
+
+18:10
+	18/nnc+:/sp+10/nnc
+
+
+19:40
+	19/nnc+:/sp+40/nnc
+
+
+17:50
+	17/nnc+:/sp+50/nnc
+
+
+19:20
+	19/nnc+:/sp+20/nnc
+
+
+동절기에는
+	동절기/ncn+에/jca+는/jxc
+
+야간운행이
+	야간/ncn+운행/ncpa+이/jcc
+
+잠정적으로
+	잠정/ncn+적/ncn+으로/jca
+
+중단됩니다
+	중단/ncpa+되/xsvn+ㅂ니다/ef
+
+.
+	./sf
+
+
+이용시간은
+	이용시간/ncn+은/jxc
+
+상황에
+	상황/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+변경
+	변경/ncpa
+
+운영
+	운영/ncpa
+
+될
+	되/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있으므로
+	있/px+으므로/ecs
+
+예매
+	예매/ncpa
+
+또는
+	또는/maj
+
+방문전
+	방문/ncpa+전/ncn
+
+확인요망
+	확인요망/ncn
+
+
+인터넷예약만
+	인터넷/ncn+예약/ncpa+만/jxc
+
+가능
+	가능/ncn
+
+
+가는방법
+	가는방법/ncn
+
+
+1.
+	1./nnc
+
+자가용이용시
+	자가용/ncn+이용/ncpa+시/ncn
+
+
+-궁촌정거장
+	-궁촌정거장/ncn
+
+:
+	:/sp
+
+호법
+	호법/ncn
+
+JC
+	JC/f
+
+-
+	-/sd
+
+여주
+	여주/ncn
+
+-
+	-/sd
+
+문막
+	문막/ncn
+
+-
+	-/sd
+
+만종분기점
+	만종분기점/ncn
+
+-
+	-/sd
+
+원주
+	원주/ncn
+
+-
+	-/sd
+
+새말
+	새/pvg+어/ecx+말/px+ㄹ/etm
+
+-
+	-/sd
+
+강릉
+	강릉/ncn
+
+-
+	-/sd
+
+옥계동해
+	옥계동해/ncn
+
+-
+	-/sd
+
+삼척
+	삼/nnc+척/nbu
+
+-
+	-/sd
+
+7번국도
+	7번국도/ncn
+
+-
+	-/sd
+
+궁촌정거장
+	궁촌정거장/ncn
+
+
+-용화정거장
+	-/sd+용화/ncn+정거장/ncn
+
+:
+	:/sp
+
+호법
+	호법/ncn
+
+JC
+	JC/f
+
+-
+	-/sd
+
+여주
+	여주/ncn
+
+-
+	-/sd
+
+문막
+	문막/ncn
+
+-
+	-/sd
+
+만종분기점
+	만종분기점/ncn
+
+-
+	-/sd
+
+원주
+	원주/ncn
+
+-
+	-/sd
+
+새말
+	새/pvg+어/ecx+말/px+ㄹ/etm
+
+-
+	-/sd
+
+강릉
+	강릉/ncn
+
+-
+	-/sd
+
+옥계동해
+	옥계동해/ncn
+
+-
+	-/sd
+
+삼척
+	삼/nnc+척/nbu
+
+-
+	-/sd
+
+7번국도
+	7번국도/ncn
+
+-
+	-/sd
+
+용화정거장
+	용화/ncn+정거장/ncn
+
+
+2.
+	2./nnc
+
+대중교통이용시
+	대중교통/ncn+이용/ncpa+시/ncn
+
+
+-궁촌정거장
+	-궁촌정거장/ncn
+
+:
+	:/sp
+
+삼척종합터미널
+	삼척종합터미널/ncn
+
+앞
+	앞/ncn
+
+버스
+	버스/ncn
+
+정류장-궁촌
+	정류장-궁촌/ncn
+
+버스정류장
+	버스정류장/ncn
+
+
+(24번-18개정류장,
+	(24번-18개정류장,/ncn
+
+23번-20개정류장)
+	23번-20개정류장/ncn+)/sr
+
+
+-용화정거장
+	-/sd+용화/ncn+정거장/ncn
+
+:
+	:/sp
+
+삼척종합터미널
+	삼척종합터미널/ncn
+
+앞
+	앞/ncn
+
+버스
+	버스/ncn
+
+정류장-용화
+	정류장/ncn+-/sd+용화/ncn
+
+버스정류장
+	버스정류장/ncn
+
+
+(24번-23개정류장)
+	(24번-23개정류장/ncn+)/sr
+
+
+문의
+	문의/ncn
+
+
+-홈페이지
+	-/sd+홈페이지/ncn
+
+|
+	|/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+oceanrailbike.
+	oceanrailbike/f+./sy
+
+com
+	com/f
+
+
+-전화
+	-/sd+전화/ncpa
+
+|
+	|/ncn
+
+033)576-0656(09시부터
+	033)576-0656(09시부터/ncn
+
+18시까지
+	18/nnc+시/nbu+까지/jxc
+
+통화가능)
+	통화/ncn+가능/ncn+)/sr
+
+
+글이
+	글/ncn+이/jcc
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+드시나요
+	들/pvg+시/ep+나/ef+요/jxf
+
+?
+	?/sf
+
+
+그렇다면
+	그렇다면/maj
+
+추천
+	추천/ncpa
+
+꾸욱
+	꾸욱/ncn
+
+눌러주세요
+	누르/pvg+어/ecx+주/px+세/ef+요/jxf
+
+.
+	./sf

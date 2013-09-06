@@ -1,0 +1,771 @@
+여행
+	여행/ncpa
+
+중
+	중/nbn
+
+가정식
+	가정/ncn+식/ncn
+
+아침식사를
+	아침식사/ncpa+를/jco
+
+원한다면
+	원한/ncn+다면/ncn
+
+
+토
+	트/pvg+어/ecx
+
+호
+	호/nbu
+
+지
+	지/nbn
+
+
+토호지
+	토호/ncn+이/jp+지/ecs
+
+가정식
+	가정/ncn+식/ncn
+
+백반
+	백반/ncn
+
+
+여행은
+	여행/ncpa+은/jxc
+
+즐겁기도
+	즐겁/paa+기/etn+도/jxc
+
+하지만
+	하지만/maj
+
+여행의
+	여행/ncpa+의/jcm
+
+종류에
+	종류/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+살짝
+	살짝/mag
+
+다르긴
+	다르긴/ncn
+
+해도
+	하/pvg+어도/ecs
+
+이리저리
+	이리저리/mad
+
+다니길
+	다니길/ncn
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+분이라면
+	분/nbn+이/jp+라면/ecs
+
+평소보다
+	평소/ncn+보다/jca
+
+더
+	더/mag
+
+많은
+	많/paa+은/etm
+
+에너지를
+	에너지/ncn+를/jco
+
+사용하게
+	사용/ncpa+하/xsva+게/ecs
+
+되지요
+	되/pvg+지/ef+요/jxf
+
+.
+	./sf
+
+
+이럴
+	이럴/ncn
+
+때는
+	때/ncn+는/jxc
+
+무엇보다도
+	무엇/npd+보다/jca+도/jxc
+
+여행
+	여행/ncpa
+
+중
+	중/nbn
+
+식사가
+	식사/ncpa+가/jcc
+
+엄청
+	엄청/mag
+
+중요할
+	중요/ncps+하/xsms+ㄹ/etm
+
+텐데요
+	텐데요/ncn
+
+.
+	./sf
+
+
+광주
+	광주/ncn
+
+혹은
+	혹은/maj
+
+나주에서라면
+	나주에서라/ncn+이/jp+면/ecs
+
+걱정
+	걱정/ncpa
+
+없겠습니다
+	없/paa+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+토호지가
+	토호/ncn+이/jp+지/ecx+가/px+아/ecx
+
+있으니까요
+	있/px+으니까/ef+요/jxf
+
+!
+	!/sf
+
+
+집에서
+	집/ncn+에서/jca
+
+편안하게
+	편안/ncps+하/xsms+게/ecs
+
+먹는
+	먹/pvg+는/etm
+
+음식
+	음식/ncn
+
+그대로의
+	그/npp+대로/jca+의/jcm
+
+가정식
+	가정/ncn+식/ncn
+
+백반으로
+	백반/ncn+으로/jca
+
+전날의
+	전날/ncn+의/jcm
+
+여독을
+	여독/ncn+을/jco
+
+다독여주는
+	다독여주/ncn+는/jxc
+
+식사를
+	식사/ncpa+를/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+토호지/
+	토호/ncn+이/jp+지/ef+//sp
+
+오리요리
+	오리/ncn+요리/ncn
+
+전문점
+	전문점/ncn
+
+
+토호지는
+	토호지/ncn+는/jxc
+
+원래
+	원래/mag
+
+오리요리
+	오리/ncn+요리/ncn
+
+전문점이라지요
+	전문/ncn+점/ncn+이라/jca+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+그치만
+	그치/ncn+만/jxc
+
+이른
+	이르/paa+ㄴ/etm
+
+아침에는
+	아침/ncn+에/jca+는/jxc
+
+인근
+	인근/ncn
+
+주민들을
+	주민/ncn+들/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+가정식
+	가정/ncn+식/ncn
+
+백반을
+	백반/ncn+을/jco
+
+제공하고
+	제공/ncpa+하고/jct
+
+있었는데요
+	있/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+아침식사로
+	아침식사/ncpa+로/jca
+
+아침에만
+	아침/ncn+에/jca+만/jxc
+
+제공되고
+	제공/ncpa+되/xsvn+고/ecc
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+음식들이
+	음식/ncn+들/ncn+이/jcc
+
+대체로
+	대체로/mag
+
+정갈하고,
+	정갈/ncps+하고/jct+,/sp
+
+간이
+	간/ncn+이/jcc
+
+적절히
+	적절히/mag
+
+잘
+	잘/mag
+
+되어
+	되/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+찬들은
+	차/pvg+ㄴ/etm+들/nbn+은/jxc
+
+식사
+	식사/ncpa
+
+때
+	때/ncn
+
+입맛을
+	입맛/ncn+을/jco
+
+돋워주더라고요
+	돋우/pvg+어/ecx+주/px+더/ep+라고/ef+요/jxf
+
+.
+	./sf
+
+
+기본
+	기본/ncn
+
+찬들입니다
+	차/pvg+ㄴ/etm+들/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+국으로는
+	국/ncn+으로/jca+는/jxc
+
+미역국이
+	미역국/ncn+이/jcc
+
+나왔는데요
+	나/pvg+아/ecx+오/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+미역국을
+	미역국/ncn+을/jco
+
+먹으니
+	먹/pvg+으니/ecs
+
+전날의
+	전날/ncn+의/jcm
+
+피로가
+	피로/ncps+가/jcc
+
+다
+	다/mag
+
+가시는
+	가/px+시/ep+는/etm
+
+듯
+	듯/nbn
+
+했어요
+	하/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+밥도
+	밥/ncn+도/jxc
+
+술술
+	술술/mag
+
+잘
+	잘/mag
+
+넘어가고
+	넘/pvg+어/ecx+가/px+고/ecc
+
+말이죠
+	말/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+와우
+	와우/ncn
+
+!
+	!/sf
+
+
+오늘의
+	오늘/ncn+의/jcm
+
+메인
+	메/ncn+이/jp+ㄴ/etm
+
+!
+	!/sf
+
+
+굴비입니다
+	굴비/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+와하하하하
+	오/pvg+아/ecx+하/px+어/ecx+하/px+어/ecx+하/px+어/ecx+하/px+어/ecx
+
+!
+	!/sf
+
+
+여행별은
+	여행/ncpa+별/ncn+은/jxc
+
+생선을
+	생선/ncn+을/jco
+
+무지하게
+	무/ncn+이/jp+지/ecx+하/px+게/ecs
+
+좋아하지
+	좋/paa+아/ecx+하/px+지/ecx
+
+말입니다
+	말/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+인원
+	인원/ncn
+
+수
+	수/nbn
+
+별로
+	별로/mag
+
+한마리씩
+	한/nnc+마리/nbu+씩/xsnu
+
+먹도록
+	먹/pvg+도록/ecs
+
+나왔네요
+	나/pvg+아/ecx+오/px+아/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+더
+	더/mag
+
+먹고
+	먹/pvg+고/ecc
+
+싶었지만
+	싶/px+었/ep+지/ecx+말/px+ㄴ/etm
+
+아침부터
+	아침/ncn+부터/jxc
+
+더
+	더/mag
+
+달라고
+	다르/paa+아/ef+고/jcr
+
+말할
+	말/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+없었던
+	없/paa+었/ep+던/etm
+
+소심한
+	소심/ncn+한/ncn
+
+여행별
+	여행/ncpa+별/ncn
+
+맛났는데
+	맛나/paa+아/ep+ㄴ데/ecs
+
+.
+	./sf
+
+
+더
+	더/mag
+
+먹고
+	먹/pvg+고/ecc
+
+싶었는데
+	싶/px+었/ep+는데/ecs
+
+뒤늦게
+	뒤늦/paa+게/ecs
+
+막이래
+	막/ncn+이/jp+래/ef
+
+.
+	./sf
+
+
+찾아가고
+	찾/pvg+아/ecx+가/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+분을
+	분/nbu+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+센쓰
+	센쓰/ncn
+
+!
+	!/sf
+
+
+건강하고
+	건강/ncps+하고/jct
+
+맛있게
+	맛있/paa+게/ecs
+
+아침식사를
+	아침식사/ncpa+를/jco
+
+해서
+	하/pvg+어서/ecs
+
+기분이
+	기분/ncn+이/jcc
+
+매우
+	매우/mag
+
+좋은
+	좋/paa+은/etm
+
+하루의
+	하루/ncn+의/jcm
+
+시작이었답니다
+	시작/ncpa+이/jp+었/ep+답니다/ef
+
+.
+	./sf
+
+
+아침식사를
+	아침식사/ncpa+를/jco
+
+제대로
+	제대로/mag
+
+한
+	하/pvg+ㄴ/etm
+
+날은
+	날/ncn+은/jxc
+
+유난히
+	유난히/mag
+
+컨디션이
+	컨디션/ncn+이/jcc
+
+좋아서
+	좋/paa+아/ecx
+
+여행이
+	여행/ncpa+이/jcc
+
+더
+	더/mag
+
+행복해지는
+	행복/ncps+하/xsms+어/ecx+지/px+는/etm
+
+건
+	거/nbn+은/jxc
+
+여행별만
+	여행/ncpa+별/ncn+만/jxc
+
+그런
+	그러/pvd+ㄴ/etm
+
+걸까요^^
+	걸까요^^/ncn
+
+?!
+	?/sf+!/sf
+
+
+헤헤
+	헤헤/mag
+
+
+토호지
+	토호/ncn+이/jp+지/ecs
+
+
+주소
+	주소/ncn
+
+.
+	./sf
+
+
+광주광역시
+	광주광역시/ncn
+
+광산구
+	광산구/ncn
+
+쌍암동
+	쌍암동/ncn
+
+694-27
+	694/nnc+-27/nnc
+
+
+전화
+	전화/ncpa
+
+.
+	./sf
+
+
+062.
+	062./nnc
+
+953.
+	953./nnc
+
+1819
+	1819/nnc
+
+
+토호지
+	토호/ncn+이/jp+지/ecs
+
+
+광주
+	광주/ncn
+
+광산구
+	광산구/ncn
+
+쌍암동
+	쌍암동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011355403",
+	"bl011355403",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"20455560",
+	"/sl+20455560/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"토호지",
+	title/f+:/sp+"/sl+토호/ncn+이/jp+지/ef+"/sr+,/sp
+
+pointX:295409,pointY:291445}
+	pointX/f+:/sp+295409/nnc+,/sp+pointY/f+:/sp+291445/nnc+}/sr
+
+
+::
+	:/sp+:/sp
+
+The
+	The/f
+
+Travelgrapher,
+	Travelgrapher/f+,/sp
+
+홍유진의
+	홍유진/ncn+의/jcm
+
+여행블로그
+	여행블로그/ncn
+
+
+여행,
+	여행/ncpa+,/sp
+
+국내여행,
+	국내여행/ncn+,/sp
+
+해외여행,
+	해외여행/ncpa+,/sp
+
+배낭여행,
+	배낭여행/ncpa+,/sp
+
+캠핑,
+	캠핑/ncn+,/sp
+
+초보캠핑
+	초보/ncn+캠핑/ncn
+
+
+맛집,
+	맛집,/ncn
+
+카페,
+	카페/ncn+,/sp
+
+브런치,
+	브런치,/ncn
+
+커피,
+	커피/ncn+,/sp
+
+홍차
+	홍차/ncn
+
+
+여러분의
+	여러/nnc+분/nbu+의/jcm
+
+덧글,
+	덧글,/ncn
+
+공감에
+	공감/ncpa+에/jca
+
+힘이
+	힘/ncn+이/jcc
+
+나는
+	나/npp+는/jxc
+
+여행별이랍니다^^
+	여행별이랍니다^^/ncn
+
+!
+	!/sf

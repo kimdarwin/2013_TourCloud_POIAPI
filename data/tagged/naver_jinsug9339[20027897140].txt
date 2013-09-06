@@ -1,0 +1,229 @@
+삼각산
+	삼각/ncn+산/ncn
+
+보현봉
+	보현봉/ncn
+
+가는길
+	가는길/ncn
+
+허공기도터
+	허공/ncn+기도/ncn+터/ncn
+
+
+(위)-어느분이
+	(위)-어느분/ncn+이/jcc
+
+자리를
+	자리/ncn+를/jco
+
+잡고
+	잡/pvg+고/ecc
+
+기도를
+	기도/ncn+를/jco
+
+하던
+	하/pvg+던/etm
+
+흔적이
+	흔적/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+아주
+	아주/mag
+
+조용하고
+	조용/ncn+하고/jct
+
+괜찮은
+	괜찮/paa+은/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-물이
+	(/sl+위/ncn+)/sr+-/sd+물/ncn+이/jcc
+
+흐르는
+	흐르/pvg+는/etm
+
+계곡옆에
+	계곡/ncn+옆/ncn+에/jca
+
+자리
+	자리/ncn
+
+잡았는데
+	잡/pvg+었/ep+는데/ecs
+
+접근하기가
+	접근/ncpa+하기/ncn+가/jcc
+
+
+굉장히
+	굉장히/mag
+
+까다로운
+	까다롭/paa+은/etm
+
+곳이었다
+	곳/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+(위)-이곳을
+	(/sl+위/ncn+)/sr+-/sd+이곳/npd+을/jco
+
+어떻게
+	어떻/pad+게/ecs
+
+내려가나
+	내리/pvg+어/ecx+가/px+아/ecx+나/px+아/ecx
+
+...
+	.../se
+
+
+여길
+	여기/pvg+ㄹ/etm
+
+내려가야
+	내리/pvg+어/ecx+가/px+아/ecx
+
+위에
+	위/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+허공
+	허공/ncn
+
+기도터를
+	기도/ncn+터/ncn+를/jco
+
+갈수
+	가/px+ㄹ/etm+수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+(위)-보현봉
+	(위)-보현봉/ncn
+
+가는길에
+	가는길/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+약수터~~누군가
+	약수터/ncn+~/sd+~/sd+누군가/npp
+
+옥수도
+	옥수/ncn+도/jxc
+
+올린다
+	올리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+사진에서
+	사진/ncn+에서/jca
+
+보듯이
+	보/px+듯이/ecs
+
+예전에
+	예전/ncn+에/jca
+
+꽤나
+	끄/pvg+어/ecx+나/px+아/ecx
+
+큰
+	크/paa+ㄴ/etm
+
+암자가
+	암자/ncn+가/jcs
+
+있었던듯
+	있/px+었/ep+던/etm+듯/nbs
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+약수
+	약수/ncn
+
+물맛이
+	물맛/ncn+이/jcc
+
+달다
+	달/paa+다/ef
+
+.
+	./sf
+
+
+(위)-보현
+	(위)-보현/ncn
+
+산신각에서
+	산신/ncn+각/ncn+에서/jca
+
+5분거리에
+	5분거리/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+허공
+	허공/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+.
+	./sf
+
+
+미륵님
+	미륵님/ncn
+
+아래에
+	아래/ncn+에/jca
+
+제단을
+	제단/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+놓았다
+	놓/px+아/ep+다/ef
+
+.
+	./sf

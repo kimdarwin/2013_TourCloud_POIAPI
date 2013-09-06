@@ -1,0 +1,546 @@
+로봇
+	로봇/ncn
+
+
+아침에
+	아침/ncn+에/jca
+
+눈을
+	눈/ncn+을/jco
+
+뜨서
+	뜨/pvg+어서/ecs
+
+가장
+	가장/mag
+
+먼저
+	먼저/mag
+
+접하는
+	접하/pvg+는/etm
+
+대화
+	대화/ncn
+
+상대가
+	상대/ncn+가/jcs
+
+컴퓨터이고
+	컴퓨터/ncn+이고/jcj
+
+
+저녁에
+	저녁/ncn+에/jca
+
+잠들기
+	잠들/pvg+기/etn
+
+전에
+	전/nbn+에/jca
+
+나에게
+	나/npp+에게/jca
+
+인사를
+	인사/ncn+를/jco
+
+하며
+	하/pvg+며/ecc
+
+
+잘
+	잘/mag
+
+자라고
+	자/nbn+이/jp+라/ef+고/jcr
+
+해
+	하/pvg+어/ecx
+
+주는
+	주/px+는/etm
+
+매개체도
+	매개체/ncn+도/jxc
+
+컴퓨터예욤
+	컴퓨터예욤/ncn
+
+.
+	./sf
+
+
+요즘은
+	요즘/ncn+은/jxc
+
+전화
+	전화/ncpa
+
+보다가도
+	보/px+다가/ecs+도/jxc
+
+네이트온으로
+	네이트온/ncn+으로/jca
+
+목소리
+	목소리/ncn
+
+없이,
+	없/paa+이/xsam+,/sp
+
+
+또닥이는
+	또닥/ncn+이/jp+는/etm
+
+키보드
+	키보드/ncn
+
+음만
+	음/ncn+만/jxc
+
+들으며
+	들/pvg+며/ecc
+
+대화를
+	대화/ncn+를/jco
+
+하고,
+	하/pvg+고/ecc+,/sp
+
+
+얼굴
+	얼굴/ncn
+
+없이
+	없이/mag
+
+블로그를
+	블로그/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+서로의
+	서로/ncn+의/jcm
+
+상태를
+	상태/ncn+를/jco
+
+확인하며
+	확인/ncpa+하/xsva+며/ecc
+
+
+잘
+	잘/mag
+
+지내라고
+	지내/pvg+라/ef+고/jcr
+
+안부를
+	안부/ncpa+를/jco
+
+묻지욤
+	묻지욤/ncn
+
+.
+	./sf
+
+
+점점
+	점점/mag
+
+갈수록
+	가/px+ㄹ수록/ecs
+
+말을
+	말/ncn+을/jco
+
+아끼고,
+	아끼/pvg+고/ecc+,/sp
+
+어휘력
+	어휘력/ncn
+
+조차
+	조차/ncpa
+
+상실하며,
+	상실/ncpa+하/xsva+며/ecc+,/sp
+
+
+목소리가
+	목소리/ncn+가/jcs
+
+잠겨들
+	잠겨들/ncn
+
+정도예욤
+	정도예욤/ncn
+
+.
+	./sf
+
+
+오늘
+	오늘/ncn
+
+아침
+	아침/ncn
+
+눈을
+	눈/ncn+을/jco
+
+뜨서
+	뜨/pvg+어서/ecs
+
+컴퓨터를
+	컴퓨터/ncn+를/jco
+
+대하며
+	대/pvg+어/ecx+하/px+며/ecc
+
+가만
+	가/pvg+아/ecx+말/px+ㄴ/etm
+
+생각해
+	생각/ncpa+해/ncn
+
+봤어욤
+	봤어욤/ncn
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+하루에
+	하루/ncn+에/jca
+
+몇마디를
+	몇/nnc+마디/nbu+를/jco
+
+하지
+	하/pvg+지/ecx
+
+??
+	?/sf+?/sf
+
+
+내가
+	나/npp+가/jcs
+
+누구와
+	누구/npp+와/jcj
+
+대화를
+	대화/ncn+를/jco
+
+가장
+	가장/mag
+
+많이
+	많/paa+이/xsa
+
+하지
+	하/pvg+지/ecx
+
+??
+	?/sf+?/sf
+
+
+내가
+	나/npp+가/jcs
+
+누구랑
+	누구/npp+랑/jxc
+
+가장
+	가장/mag
+
+많은
+	많/paa+은/etm
+
+시간을
+	시간/ncn+을/jco
+
+보내지
+	보내/pvg+지/ecx
+
+??
+	?/sf+?/sf
+
+
+전
+	전/nbn
+
+하루에
+	하루/ncn+에/jca
+
+10마디
+	10/nnc+마디/nbu
+
+정도를
+	정도/ncn+를/jco
+
+해욤
+	해욤/ncn
+
+.
+	./sf
+
+
+네이트온으로
+	네이트온/ncn+으로/jca
+
+안부인사도
+	안부/ncpa+인사/ncn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+잡담도
+	잡담/ncpa+도/jxc
+
+하구욤
+	하구욤/ncn
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+컴퓨터와
+	컴퓨터/ncn+와/jct
+
+가장
+	가장/mag
+
+많은
+	많/paa+은/etm
+
+시간을
+	시간/ncn+을/jco
+
+보내욤
+	보내욤/ncn
+
+.
+	./sf
+
+
+컴퓨터가
+	컴퓨터/ncn+가/jcs
+
+아니
+	알/pvg+니/ecs
+
+인터넷이
+	인터넷/ncn+이/jcc
+
+하루라도
+	하루/ncn+이/jp+라/ecs+도/jxc
+
+안
+	안/mag
+
+된다면
+	되/paa+ㄴ다면/ecs
+
+
+답답한
+	답답/ncps+하/xsms+ㄴ/etm
+
+실어증에
+	실어증/ncn+에/jca
+
+빠져든
+	빠지/pvg+어/ecs+든/jxc
+
+사람처럼
+	사람/ncn+처럼/jca
+
+되겠지욤
+	되겠지욤/ncn
+
+.
+	./sf
+
+
+저
+	저/mmd
+
+로봇처럼
+	로봇/ncn+처럼/jca
+
+
+하루종일
+	하루종일/ncn
+
+computer를
+	computer/f+를/jco
+
+등에
+	등/nbu+에/jca
+
+지고
+	지/px+고/ecc
+
+사는
+	사/pvg+는/etm
+
+제
+	저/npp+의/jcm
+
+모습
+	모습/ncn
+
+....
+	.../se+./sf
+
+
+바로
+	바로/mag
+
+제
+	저/npp+의/jcm
+
+모습이더라구욤
+	모습이더라구욤/ncn
+
+.
+	./sf
+
+
+여러분들은
+	여러분들/ncn+은/jxc
+
+어떠세욤
+	어떠세욤/ncn
+
+??
+	?/sf+?/sf
+
+
+하루라도
+	하루/ncn+이/jp+라/ecs+도/jxc
+
+핸드폰이
+	핸드폰/ncn+이/jcc
+
+안
+	안/mag
+
+된다면
+	되/pvg+ㄴ다면/ecs
+
+??
+	?/sf+?/sf
+
+
+하루라도
+	하루/ncn+이/jp+라/ecs+도/jxc
+
+인터넷이
+	인터넷/ncn+이/jcc
+
+안
+	안/mag
+
+된다면
+	되/pvg+ㄴ다면/ecs
+
+??
+	?/sf+?/sf
+
+
+가끔은
+	가끔/mag+은/jxc
+
+그런
+	그런/mmd
+
+문명과
+	문명/ncn+과/jcj
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+시간을
+	시간/ncn+을/jco
+
+보내
+	보내/pvg+어/ecx
+
+보고
+	보/px+고/ecc
+
+싶지
+	싶/px+지/ecx
+
+않나욤
+	않나욤/ncn
+
+??
+	?/sf+?/sf
+
+
+오늘
+	오늘/ncn
+
+잠깐
+	잠깐/mag
+
+동안
+	동안/ncn
+
+이런
+	이런/mmd
+
+문명의
+	문명/ncn+의/jcm
+
+혜택을
+	혜택/ncn+을/jco
+
+벗으나
+	벗/pvg+으나/ecs
+
+보려해욤
+	보려해욤/ncn
+
+.
+	./sf
+
+
+얼마후
+	얼마/ncn+후/ncn
+
+다시
+	다시/mag
+
+돌아
+	돌/pvg+아/ecx
+
+오게
+	오/px+게/ecs
+
+될지
+	되/pvg+ㄹ지/ecs
+
+저도
+	저/npp+도/jxc
+
+궁금하네욤
+	궁금하네욤/ncn
+
+....
+	.../se+./sf
+
+
+^^
+	^/sy+^/sy

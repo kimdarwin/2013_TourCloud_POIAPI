@@ -1,0 +1,336 @@
+게임
+	게임/ncn
+
+요령:
+	요령/ncn+:/sp
+
+1.
+	1./nnc
+
+세
+	세/nnc
+
+장의
+	장/nbu+의/jcm
+
+카드를
+	카드/ncn+를/jco
+
+선택했을
+	선택/ncpa+하/xsva+었/ep+을/etm
+
+때,
+	때/ncn+,/sp
+
+모두
+	모두/mag
+
+같거나
+	같/paa+거나/ecc
+
+모두
+	모두/mag
+
+다른
+	다르/paa+ㄴ/etm
+
+것을
+	것/nbn+을/jco
+
+세
+	세/nnc
+
+가지
+	가지/nbu
+
+이상
+	이상/ncn
+
+포함하고
+	포함/ncpa+하고/jct
+
+있어야한다
+	있/px+어야/ecx+하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+1)세
+	1/nnc+)/sr+세/nnc
+
+장이
+	장/nbu+이/jcc
+
+모두
+	모두/mag
+
+같은
+	같/paa+은/etm
+
+색일
+	색/ncn+이/jp+ㄹ/etm
+
+경우
+	경우/ncn
+
+-서로
+	-/sd+서로/ncn
+
+다른
+	다른/mma
+
+모양(혹은
+	모양(혹은/ncn
+
+셋
+	셋/nnc
+
+모두
+	모두/mag
+
+같은
+	같/paa+은/etm
+
+모양),
+	모양/ncn+)/sr+,/sp
+
+서로
+	서로/mag
+
+다른
+	다른/mma
+
+갯수,서로
+	갯수/ncn+,/sp+서로/ncn
+
+다른
+	다른/mma
+
+상황(공백,
+	상황(공백,/ncn
+
+빗금,
+	빗금/ncn+,/sp
+
+채우기)
+	채우/pvg+기/etn+)/sr
+
+2)세
+	2/nnc+)/sr+세/nnc
+
+장이
+	장/nbu+이/jcc
+
+모두
+	모두/mag
+
+다른
+	다른/mma
+
+색일
+	색/ncn+이/jp+ㄹ/etm
+
+경우
+	경우/ncn
+
+-
+	-/sd
+
+각
+	각/mma
+
+카드의개수가
+	카드의개수/ncn+가/jcs
+
+같거나,
+	같/paa+거나/ecc+,/sp
+
+개수가
+	개수/ncn+가/jcs
+
+모두
+	모두/mag
+
+다르거나(1,2,3),서로
+	다르거나(1,2,3),서/ncn+로/jca
+
+같은
+	같/paa+은/etm
+
+모양의
+	모양/ncn+의/jcm
+
+그림이거나,
+	그림/ncn+이/jp+거나/ecc+,/sp
+
+서로
+	서로/mag
+
+다른
+	다른/mma
+
+모양의
+	모양/ncn+의/jcm
+
+그림
+	그리/pvg+ㅁ/etn
+
+.
+	./sf
+
+
+3)같은
+	3)같/ncn+은/jxc
+
+모양,
+	모양/ncn+,/sp
+
+같은
+	같/paa+은/etm
+
+색,
+	색/ncn+,/sp
+
+같은
+	같/paa+은/etm
+
+개수,
+	개수/ncpa+,/sp
+
+같은
+	같/paa+은/etm
+
+상황이
+	상황/ncn+이/jcc
+
+두
+	두/nnc
+
+개인
+	개/nbu+이/jp+ㄴ/etm
+
+경우는
+	경우/ncn+는/jxc
+
+어떤
+	어떤/mmd
+
+경우라도
+	경우/ncn+이/jp+라/ecs+도/jxc
+
+셑이
+	셑/ncn+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없다.2
+	없다.2/ncn
+
+.
+	./sf
+
+
+정해진
+	정하/pvg+어/ecx+지/px+ㄴ/etm
+
+시간(1분~3분)에
+	시/nbu+간/xsnu+(/sl+1/nnc+분/nbu+~/sd+3/nnc+분/nbu+)/sr+에/jca
+
+SET을
+	SET/f+을/jco
+
+많이
+	많/paa+이/xsa
+
+찾는
+	찾/pvg+는/etm
+
+사람이
+	사람/ncn+이/jcc
+
+이기는
+	이기/pvg+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+문제
+	문제/ncn
+
+및
+	및/maj
+
+정답*
+	정답*/ncn
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+setgame.
+	setgame/f+./sy
+
+com/
+	com/f+//sp
+
+에
+	에/pvg+어/ecx
+
+접속하여
+	접속/ncpa+하/xsva+어/ecx
+
+좌측
+	좌측/ncn
+
+상단의
+	상단/ncn+의/jcm
+
+SetTriology
+	SetTriology/f
+
+에서
+	에/pvg+어서/ecs
+
+Daily
+	Daily/f
+
+Puzzle을
+	Puzzle/f+을/jco
+
+클릭하면
+	클릭/ncpa+하/xsva+면/ecs
+
+매일
+	매일/mag
+
+제시되는한
+	제시/ncpa+되/xsvn+는/etm+한/nbn
+
+편의
+	편/nbu+의/jcm
+
+문제를
+	문제/ncn+를/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf

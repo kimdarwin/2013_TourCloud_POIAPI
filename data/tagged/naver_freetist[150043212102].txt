@@ -1,0 +1,326 @@
+1차
+	1/nnc+차/nbu
+
+하이드파크
+	하이드파크/ncn
+
+갔다가
+	가/px+아/ep+다가/ecs
+
+2차로
+	2/nnc+차/nbu+로/jca
+
+차와
+	차/ncn+와/jcj
+
+와인과
+	와인/ncn+과/jcj
+
+이야기를
+	이야기/ncpa+를/jco
+
+나눈
+	나누/pvg+ㄴ/etm
+
+
+Lucy
+	Lucy/f
+
+in
+	in/f
+
+the
+	the/f
+
+sky
+	sky/f
+
+with
+	with/f
+
+diamonds
+	diamonds/f
+
+스케치입니다~
+	스케치/ncpa+이/jp+ㅂ니다/ef+~/sd
+
+
+창가쪽
+	창가/ncn+쪽/ncn
+
+아기자기한
+	아기자기/ncn+한/ncn
+
+화분입니다~
+	화분/ncn+이/jp+ㅂ니다/ef+~/sd
+
+
+촛불이
+	촛불/ncn+이/jcc
+
+무척
+	무척/mag
+
+밝습니다
+	밝/paa+습니다/ef
+
+..
+	./sf+./sf
+
+
+커피가루가
+	커피/ncn+가루/ncn+가/jcs
+
+담긴
+	담기/pvg+ㄴ/etm
+
+...
+	.../se
+
+
+내부
+	내부/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+쪽
+	쪽/nbn
+
+벽면을
+	벽면/ncn+을/jco
+
+차지한
+	차/pvg+지/ecx+하/px+ㄴ/etm
+
+조명~
+	조명/ncpa+~/sd
+
+
+와인잔을
+	와인/ncn+잔/ncn+을/jco
+
+가만히
+	가만히/mag
+
+들여다
+	들이/px+어다/ecs
+
+봅니다
+	보/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+커피도
+	커피/ncn+도/jxc
+
+마시고~
+	마시/pvg+고/ecc+~/sd
+
+와인도
+	와인/ncn+도/jxc
+
+마시고~
+	마시/pvg+고/ecc+~/sd
+
+
+여기서
+	여기/npd+서/jca
+
+주문한
+	주문/ncn+한/ncn
+
+와인
+	와인/ncn
+
+..
+	./sf+./sf
+
+
+알마비바
+	알마비바/ncn
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+것과
+	것/nbn+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+같이
+	같/paa+이/xsa
+
+비워준
+	비우/pvg+어/ecx+주/px+ㄴ/etm
+
+...
+	.../se
+
+
+안주
+	안주/ncn
+
+..
+	./sf+./sf
+
+
+라이브연주~
+	라이브연주/ncpa+~/sd
+
+멋진
+	멋지/paa+ㄴ/etm
+
+연주가
+	연주/ncpa+가/jcc
+
+계속
+	계속/mag
+
+되고
+	되/pvg+고/ecc
+
+...
+	.../se
+
+
+이야기는
+	이야기/ncpa+는/jxc
+
+음악에
+	음악/ncn+에/jca
+
+묻히고
+	묻히/pvg+고/ecc
+
+...
+	.../se
+
+
+라이브
+	라이브/ncn
+
+음악을
+	음악/ncn+을/jco
+
+듣고자
+	듣/pvg+고자/ecx
+
+한다면
+	하/pvg+ㄴ다면/ecs
+
+모를까
+	모르/pvg+ㄹ까/ecs
+
+대화하기에는
+	대화/ncn+하기/ncn+에/jca+는/jxc
+
+힘든
+	힘들/pvg+ㄴ/etm
+
+...
+	.../se
+
+
+안주
+	안주/ncn
+
+..
+	./sf+./sf
+
+
+요건
+	요건/ncn
+
+하이드파크에서
+	하이드파크/ncn+에서/jca
+
+찍은
+	찍/pvg+은/etm
+
+촛불
+	촛불/ncn
+
+...
+	.../se
+
+
+14일을
+	14/nnc+일/nbu+을/jco
+
+딱
+	딱/mag
+
+넘길
+	넘기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있게
+	있/px+게/ecs
+
+해
+	하/pvg+어/ecx
+
+준~
+	주/px+ㄴ/etm+~/sd
+
+가본
+	가/pvg+아/ecx+보/px+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+의미를
+	의미/ncpa+를/jco
+
+삼아야할
+	삼/pvg+아/ecx+하/px+ㄹ/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+상당히
+	상당히/mag
+
+특색(
+	특색(/ncn
+
+?!)
+	?/sf+!/sf+)/sr
+
+
+있는
+	있/px+는/etm
+
+곳이었습니다
+	곳/ncn+이/jp+었/ep+습니다/ef
+
+..
+	./sf+./sf
+
+
+위치
+	위치/ncn
+
+:
+	:/sp
+
+분당구
+	분당구/ncn
+
+정자동
+	정자/ncn+동/ncn
+
+168-1
+	168/nnc+-1/nnc
+
+대림아크로텔
+	대림아크로텔/ncn
+
+1층
+	1/nnc+층/nbu

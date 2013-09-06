@@ -1,0 +1,519 @@
+인왕산
+	인왕/ncn+산/ncn
+
+장군당(장군바위)기도터
+	장군당/ncn+(/sl+장군/ncr+바위/ncn+)/sr+기도/ncn+터/ncn
+
+
+(위)-저기
+	(/sl+위/ncn+)/sr+-/sd+저/npp+이/jp+기/etn
+
+장군바위아래
+	장군/ncr+바위/ncn+아래/ncn
+
+기도터가있다
+	기도터가있다/ncn
+
+.
+	./sf
+
+
+(위)-국사당
+	(/sl+위/ncn+)/sr+-/sd+국사/ncn+당/ncn
+
+마당에서
+	마당/ncn+에서/jca
+
+우측
+	우측/ncn
+
+계단으로
+	계단/ncn+으로/jca
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+용궁이
+	용궁/ncn+이/jcc
+
+나오고
+	나/pvg+아/ecx+오/px+고/ecc
+
+...
+	.../se
+
+
+용궁에서
+	용궁/ncn+에서/jca
+
+우측으로해서
+	우측으로해서/ncn
+
+계속
+	계속/mag
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+기도터가
+	기도/ncn+터/ncn+가/jcs
+
+나온다~
+	나/pvg+아/ecx+오/px+ㄴ다/ef+~/sd
+
+
+기도터에서
+	기도/ncn+터/ncn+에서/jca
+
+오른쪽으로가면
+	오른쪽으로가/ncn+이/jp+면/ecs
+
+장군바위아래
+	장군/ncr+바위/ncn+아래/ncn
+
+기도터가
+	기도/ncn+터/ncn+가/jcs
+
+나온다~
+	나/pvg+아/ecx+오/px+ㄴ다/ef+~/sd
+
+
+(위)-장군바위
+	(/sl+위/ncn+)/sr+-/sd+장군/ncr+바위/ncn
+
+.
+	./sf
+
+
+(위)-장군바위아래
+	(/sl+위/ncn+)/sr+-/sd+장군/ncr+바위/ncn+아래/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+.
+	./sf
+
+
+(위)-장군바위아래
+	(/sl+위/ncn+)/sr+-/sd+장군/ncr+바위/ncn+아래/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+.
+	./sf
+
+
+(위)-장군바위아래
+	(/sl+위/ncn+)/sr+-/sd+장군/ncr+바위/ncn+아래/ncn
+
+다른
+	다른/mma
+
+기도터
+	기도/ncn+터/ncn
+
+.
+	./sf
+
+
+(위)-장군바위아래
+	(/sl+위/ncn+)/sr+-/sd+장군/ncr+바위/ncn+아래/ncn
+
+다른
+	다른/mma
+
+기도터
+	기도/ncn+터/ncn
+
+.
+	./sf
+
+
+(위)-저기
+	(/sl+위/ncn+)/sr+-/sd+저/npp+이/jp+기/etn
+
+장군바위
+	장군/ncr+바위/ncn
+
+정상에도
+	정상/ncn+에/jca+도/jxc
+
+기도터가있다
+	기도터가있다/ncn
+
+.
+	./sf
+
+
+(위)-장군바위
+	(/sl+위/ncn+)/sr+-/sd+장군/ncr+바위/ncn
+
+정상에있는
+	정상에있/ncn+는/jxc
+
+기도터
+	기도/ncn+터/ncn
+
+.
+	./sf
+
+
+(위)-장군바위
+	(/sl+위/ncn+)/sr+-/sd+장군/ncr+바위/ncn
+
+정상에있는
+	정상에있/ncn+는/jxc
+
+기도터
+	기도/ncn+터/ncn
+
+.
+	./sf
+
+
+저런곳에
+	저런곳/ncn+에/jca
+
+이름을
+	이름/ncn+을/jco
+
+적어놓으면
+	적/pvg+어/ecx+놓/px+으면/ecs
+
+복을
+	복/ncn+을/jco
+
+받는다고
+	받/pvg+는다/ef+고/jcr
+
+생각하는지
+	생각/ncpa+하/xsva+는지/ecs
+
+...
+	.../se
+
+
+제발
+	제발/mag
+
+....
+	.../se+./sf
+
+
+(위)-장군바위
+	(/sl+위/ncn+)/sr+-/sd+장군/ncr+바위/ncn
+
+아래있는
+	아래/ncn+있/xsmn+는/etm
+
+미륵~
+	미륵/ncn+~/sd
+
+
+여기서도
+	여기/npd+서/jca+도/jxc
+
+기도를
+	기도/ncn+를/jco
+
+많이하는데
+	많이하는데/ncn
+
+...
+	.../se
+
+
+왜이렇게
+	왜이렇/ncn+게/jca
+
+해야하는지
+	하/pvg+어야/ecx+하/px+는지/ecs
+
+도무지
+	도무지/mag
+
+이해를
+	이/nnc+해/nbu+를/jco
+
+할수없어요~~
+	하/pvg+ㄹ/etm+수/nbn+없/xsmn+어요/ef+~/sd+~/sd
+
+
+(위)-비둘기(장군바위아래)
+	(위)-비둘기(장군바위아래)/ncn
+
+.
+	./sf
+
+
+여기는
+	여기/npd+는/jxc
+
+먹을게
+	먹을/ncn+게/jca
+
+많아서
+	많/paa+아/ecx
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+비둘기가많다
+	비둘기가많다/ncn
+
+.
+	./sf
+
+
+사람을봐도
+	사람을봐/ncn+도/jxc
+
+도망도
+	도망/ncpa+도/jxc
+
+않간다
+	않간다/ncn
+
+.
+	./sf
+
+
+언젠가
+	언젠가/mag
+
+신문에서
+	신문/ncn+에서/jca
+
+봤는데
+	보/px+아/ep+ㄴ데/ecs
+
+저런비들기를
+	저런비들기/ncn+를/jco
+
+닭둘기라고
+	닭둘기/ncn+이/jp+라/ef+고/jcr
+
+한단다
+	하/px+ㄴ단다/ef
+
+.
+	./sf
+
+
+살이쪄서
+	살이쪄서/ncn
+
+닭처럼크고~사람을봐도
+	닭처럼크고~사람을봐/ncn+도/jxc
+
+도망도
+	도망/ncpa+도/jxc
+
+않가고
+	않가/ncn+이/jp+고/ecc
+
+....
+	.../se+./sf
+
+
+이런현상이
+	이런현상/ncn+이/jcc
+
+좋은건지~
+	좋/paa+은/etm+것/nbn+이/jp+ㄴ지/ecs+~/sd
+
+??
+	?/sf+?/sf
+
+
+나쁜건지~
+	나쁘/paa+ㄴ/etm+것/nbn+이/jp+ㄴ지/ecs+~/sd
+
+??
+	?/sf+?/sf
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+이곳역시
+	이곳역시/ncn
+
+인왕산을
+	인왕/ncn+산/ncn+을/jco
+
+자주
+	자주/mag
+
+찾는분들은
+	찾는분들/ncn+은/jxc
+
+많이
+	많/paa+이/xsa
+
+가보셨을
+	가/pvg+아/ecx+보/px+셨/ep+을/etm
+
+거라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+생각됩니다~
+	생각/ncpa+되/xsvn+ㅂ니다/ef+~/sd
+
+
+국사당에서
+	국사/ncn+당/ncn+에서/jca
+
+위를보면
+	위를보/ncn+이/jp+면/ecs
+
+맨위에
+	맨위/ncn+에/jca
+
+사진같이
+	사진/ncn+같이/jca
+
+큰~바위가
+	크/paa+ㄴ/etm+~/sd+바위/ncn+가/jcs
+
+두개가
+	두/nnc+개/nbu+가/jcc
+
+보이는데~
+	보이/pvg+ㄴ데/ecs+~/sd
+
+
+좌측바위
+	좌측/ncn+바위/ncn
+
+아래에도
+	아래/ncn+에/jca+도/jxc
+
+기도터가
+	기도/ncn+터/ncn+가/jcs
+
+있고~
+	있/paa+고/ecc+~/sd
+
+
+그옆
+	그옆/ncn
+
+우측으로
+	우측/ncn+으로/jca
+
+돌아가면
+	돌/pvg+아/ecx+가/px+면/ecs
+
+장군바위아래
+	장군/ncr+바위/ncn+아래/ncn
+
+기도터가
+	기도/ncn+터/ncn+가/jcs
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+관리하는
+	관리/ncpa+하/xsva+는/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+계셔서
+	계시/paa+어서/ecs
+
+깨끗하게
+	깨끗/ncps+하/xsms+게/ecs
+
+청소가
+	청소/ncpa+가/jcc
+
+되어있습니다
+	되/pvg+어/ecx+있/px+습니다/ef
+
+.
+	./sf
+
+
+밤에
+	밤/ncn+에/jca
+
+기도하기도
+	기도/ncn+하기/ncn+도/jxc
+
+무섭지않고
+	무섭/paa+지/ecx+않/px+고/ecc
+
+괜찮습니다
+	괜찮/paa+습니다/ef
+
+.
+	./sf
+
+
+둘러보면서
+	두르/pvg+어/ecx+보/px+면서/ecc
+
+아쉬웠던건
+	아쉬웠던건/ncn
+
+정상에까지
+	정상/ncn+에/jca+까지/jxc
+
+올라가서
+	오르/pvg+아/ecx+가/px+아/ecx
+
+기도를
+	기도/ncn+를/jco
+
+해야하는지
+	하/pvg+어야/ecx+하/px+는지/ecs
+
+...??
+	.../se+?/sf+?/sf
+
+
+꼭~저렇게
+	꼭~저렇게/ncn
+
+이름까지
+	이름/ncn+까지/jxc
+
+써놔야
+	써놔야/ncn
+
+하는지
+	하/pvg+는지/ecs
+
+...??
+	.../se+?/sf+?/sf
+
+
+깊이
+	깊이/mag
+
+생각을
+	생각/ncpa+을/jco
+
+해야하지
+	하/pvg+어야/ecx+하/px+지/ecx
+
+않을까
+	않/px+을까/ef
+
+걱정이
+	걱정/ncpa+이/jcc
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf

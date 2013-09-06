@@ -1,0 +1,397 @@
+아침고요수목원
+	아침/ncn+고요/ncps+수목원/ncn
+
+
+늘
+	늘/mag
+
+가보고
+	가/pvg+아/ecx+보/px+고/ecc
+
+싶었던
+	싶/px+었/ep+던/etm
+
+곳인데
+	곳/nbu+이/jp+ㄴ데/ecs
+
+
+회사
+	회사/ncn
+
+워크샵
+	워크샵/ncn
+
+때문에
+	때문/nbn+에/jca
+
+근처에
+	근처/ncn+에/jca
+
+갔다가
+	가/px+아/ep+다가/ecs
+
+돌아오는
+	돌/pvg+아/ecx+오/px+는/etm
+
+길에
+	길/ncn+에/jca
+
+잠깐
+	잠깐/mag
+
+들렀다
+	들르/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+돌아다니다
+	돌아다니/pvg+다/ef
+
+보면
+	보/px+면/ecs
+
+꽃이
+	꽃/ncn+이/jcc
+
+참
+	참/mag
+
+많다
+	많/paa+다/ef
+
+
+처음
+	처음/mag
+
+보는
+	보/px+는/etm
+
+꽃들도
+	꽃/ncn+들/xsncc+도/jxc
+
+너무
+	너무/mag
+
+많고
+	많/paa+고/ecc
+
+..
+	./sf+./sf
+
+
+대부분
+	대부분/ncn
+
+작은
+	작/paa+은/etm
+
+팻말에
+	팻말/ncn+에/jca
+
+이름이
+	이름/ncn+이/jcc
+
+써있다
+	쓰/pvg+어/ecx+있/px+다/ef
+
+..
+	./sf+./sf
+
+
+송화가루가
+	송화가루/ncn+가/jcs
+
+많이
+	많/paa+이/xsa
+
+날렸는데
+	날/pvg+리/ep+었/ep+는데/ecs
+
+
+저렇게
+	저렇/pad+게/ecs
+
+뿌옇게
+	뿌옇/paa+게/ecs
+
+날리는건
+	날리는건/ncn
+
+처음봤다
+	처음봤다/ncn
+
+
+돌담위에
+	돌담/ncn+위/ncn+에/jca
+
+있던
+	있/px+던/etm
+
+다람쥐
+	다람쥐/ncn
+
+
+한동안
+	한동안/ncn
+
+머물길래
+	머물/pvg+길래/ecs
+
+사진을
+	사진/ncn+을/jco
+
+찍으려
+	찍/pvg+으려/ecx
+
+했더니
+	하/pvg+었더/ep+니/ef
+
+
+이내
+	이내/mag
+
+쏙
+	쏙/mag
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+숨어버린다
+	숨/pvg+어/ecx+버리/px+ㄴ다/ef
+
+
+뻥
+	뻥/ncn
+
+뚫린
+	뚫리/pvg+ㄴ/etm
+
+마루위에서
+	마루/ncn+위/ncn+에서/jca
+
+쉬고
+	쉬/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+사람들
+	사람들/ncn
+
+..
+	./sf+./sf
+
+
+한쪽에
+	하/pvg+ㄴ/etm+쪽/nbn+에/jca
+
+앉아있는
+	앉/pvg+아/ecx+있/px+는/etm
+
+커플티의
+	커플/ncn+티/ncn+의/jcm
+
+연인들이
+	연인/ncn+들/ncn+이/jcc
+
+다정해
+	다정/ncps+하/xsms+어/ecx
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+본
+	보/px+ㄴ/etm
+
+커플티중
+	커플/ncn+티/ncn+중/xsnx
+
+가장
+	가장/mag
+
+괜찮아
+	괜찮/paa+아/ecx
+
+보이는듯
+	보이/pvg+는/etm+듯/nbs
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+중간에
+	중간/ncn+에/jca
+
+이런
+	이런/mmd
+
+정자도
+	정자/ncn+도/jxc
+
+있고
+	있/px+고/ecc
+
+..
+	./sf+./sf
+
+
+호수가
+	호수/ncn+가/jcs
+
+넓어서
+	넓/paa+어서/ecs
+
+시원해
+	시원/ncps+하/xsms+어/ecx
+
+보인다
+	보/nbu+이/jp+ㄴ다/ef
+
+
+이름이
+	이름/ncn+이/jcc
+
+이뻐
+	이쁘/paa+어/ecx
+
+늘
+	늘/mag
+
+궁금했던
+	궁금/ncps+하/xsms+었/ep+던/etm
+
+꽃
+	꽃/ncn
+
+
+아이리스
+	아이리스/ncn
+
+
+이렇게
+	이렇/pad+게/ecs
+
+전망을
+	전망/ncn+을/jco
+
+즐기기
+	즐기/pvg+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+공간도
+	공간/ncn+도/jxc
+
+있어
+	있/paa+어/ecs
+
+
+위에서도
+	위/ncn+에서/jca+도/jxc
+
+풍경들을
+	풍경/ncn+들/ncn+을/jco
+
+바라볼
+	바라/pvg+아/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+좋다
+	좋/paa+다/ef
+
+
+계수나무
+	계수나무/ncn
+
+
+역시
+	역시/mag
+
+실제로
+	실제로/mag
+
+본건
+	본/ncn+건/xsnx
+
+처음이다
+	처음/ncn+이/jp+다/ef
+
+
+푸른
+	푸르/paa+ㄴ/etm
+
+엽서를
+	엽서/ncn+를/jco
+
+붙여놓은듯
+	붙이/pvg+어/ecx+놓/px+은/etm+듯/nbs
+
+가지에
+	가지/nbu+에/jca
+
+붙어있는
+	붙/pvg+어/ecx+있/px+는/etm
+
+나뭇잎이
+	나뭇잎/ncn+이/jcc
+
+특이하다
+	특이/ncps+하/xsms+다/ef
+
+..
+	./sf+./sf
+
+
+분재원도
+	분재/ncn+원/ncn+도/jxc
+
+있고
+	있/paa+고/ecc
+
+
+카메라
+	카메라/ncn
+
+들고
+	들/pvg+고/ecc
+
+나가
+	나/npp+가/jcs
+
+꽃을
+	꽃/ncn+을/jco
+
+찍기도
+	찍기/ncn+도/jxc
+
+
+산책하기도
+	산책/ncpa+하/xsva+기/etn+도/jxc
+
+참
+	참/mag
+
+좋은곳
+	좋은곳/ncn
+
+..
+	./sf+./sf

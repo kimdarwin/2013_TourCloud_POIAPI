@@ -1,0 +1,235 @@
+[참고]낙동강
+	[참고]낙동강/ncn
+
+폐기물은
+	폐기물/ncn+은/jxc
+
+관련법령에
+	관련법령/ncn+에/jca
+
+따라
+	따르/pvg+아/ecs
+
+
+적법하게
+	적법하/ncn+이/jp+게/ecs
+
+처리중
+	처리/ncpa+중/ncn
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+
+금번
+	금번/ncn
+
+보도내용은
+	보도내용/ncn+은/jxc
+
+지난
+	지나/pvg+ㄴ/etm
+
+11월26일
+	11월26/ncn+이/jp+ㄹ/etm
+
+이미
+	이미/mag
+
+보도자료를
+	보도자료/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+밝힌바
+	밝히/pvg+ㄴ/etm+바/nbn
+
+있음
+	있/paa+음/etn
+
+
+금번,
+	금번/ncn+,/sp
+
+보도된
+	보도/ncpa+되/xsvn+ㄴ/etm
+
+내용은
+	내용/ncn+은/jxc
+
+지난
+	지나/pvg+ㄴ/etm
+
+11월
+	11/nnc+월/nbu
+
+26일,
+	26/nnc+일/nbu+,/sp
+
+12월
+	12/nnc+월/nbu
+
+7일에
+	7/nnc+일/nbu+에/jca
+
+폐기물조사결과
+	폐기물/ncn+조사결과/ncn
+
+중간발표과정에서
+	중간발표/ncpa+과정/ncn+에서/jca
+
+
+일부
+	일/nnc+부/nbu
+
+중금속이
+	중금속/ncn+이/jcc
+
+일부
+	일/nnc+부/nbu
+
+포함되었다는
+	포함/ncpa+되/xsvn+었/ep+다/ef+는/etm
+
+내용으로
+	내용/ncn+으로/jca
+
+이미
+	이미/mag
+
+보도자료를
+	보도자료/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+배포한바
+	배포/ncpa+하/xsva+ㄴ/etm+바/nbn
+
+있음
+	있/px+음/etn
+
+우리청은
+	우리/ncn+청/ncn+은/jxc
+
+보도자료에서
+	보도자료/ncn+에서/jca
+
+밝힌바와
+	밝히/pvg+ㄴ/etm+바/nbn+와/jct
+
+같이
+	같/paa+이/xsa
+
+중금속이
+	중금속/ncn+이/jcc
+
+포함된
+	포함/ncpa+되/xsvn+ㄴ/etm
+
+폐기물에
+	폐기물/ncn+에/jca
+
+대해서는
+	대해/ncn+서는/jxc
+
+
+관련법령에
+	관련법령/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+폐기물처리
+	폐기물처리/ncn
+
+전문업체에게
+	전문업체/ncn+에게/jca
+
+위탁하여
+	위탁/ncpa+하/xsva+어/ecx
+
+적법하게
+	적법하/ncn+이/jp+게/ecs
+
+처리중에
+	처리/ncpa+중/ncn+에/jca
+
+있음
+	있/px+음/etn
+
+기사내용(12.
+	기사/ncr+내/ncn+용/xsncc+(/sl+12./nnc
+
+16
+	16/nnc
+
+한겨레신문)
+	한겨레신문/ncn+)/sr
+
+
+낙동강
+	낙동강/ncn
+
+8공구
+	8공구/ncn
+
+강변공원
+	강변/ncn+공원/ncn
+
+예정지역에도
+	예정/ncn+지역/ncn+에/jca+도/jxc
+
+중금속에
+	중금속/ncn+에/jca
+
+오염된폐기물
+	오염된폐기물/ncn
+
+추가확인
+	추가/ncpa+확인/ncpa
+
+
+4대강살리기
+	4대강살리/ncn+이/jp+기/etn
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+4rivers.
+	4rivers./ncn
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+mltm.
+	mltm/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp

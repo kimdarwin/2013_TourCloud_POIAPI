@@ -1,0 +1,384 @@
+칭다오
+	칭다오/ncn
+
+여행
+	여행/ncpa
+
+무사히
+	무사히/mag
+
+잘
+	잘/mag
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+주말에
+	주말/ncn+에/jca
+
+도착했는데,
+	도착/ncpa+하/xsva+었/ep+는데/ecs+,/sp
+
+감기에
+	감/pvg+기/etn+에/jca
+
+걸리는
+	걸리/pvg+는/etm
+
+바람에
+	바라/pvg+ㅁ/etn+에/jca
+
+좀
+	좀/mag
+
+정신
+	정신/ncn
+
+없었네요
+	없/paa+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+환절기
+	환절기/ncn
+
+감기
+	감/pvg+기/etn
+
+조심하세요~~~
+	조심/ncpa+하/xsva+세/ef+요/jxf+~/sd+~/sd+~/sd
+
+전
+	전/nbn
+
+아마
+	아마/mag
+
+배
+	배/pvg+어/ecx
+
+갑판
+	갑판/ncn
+
+위에서
+	위/ncn+에서/jca
+
+사진을
+	사진/ncn+을/jco
+
+너무
+	너무/mag
+
+열심히
+	열심히/mag
+
+찍어서
+	찍/pvg+어서/ecs
+
+그런
+	그러/pvd+ㄴ/etm
+
+게
+	것/nbn+이/jcs
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+싶네요
+	싶/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여행은
+	여행/ncpa+은/jxc
+
+워낙
+	워낙/mag
+
+목적이
+	목적/ncn+이/jcc
+
+뚜렷(
+	뚜렷(/ncn
+
+?)
+	?/sf+)/sr
+
+
+했기
+	하/px+었/ep+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+여행기는
+	여행기/ncn+는/jxc
+
+포스팅
+	포스팅/ncn
+
+하나로
+	하나/nnc+로/jca
+
+정리가
+	정리/ncn+가/jcs
+
+가능합니다
+	가능/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+아침
+	아침/ncn
+
+먹고
+	먹/pvg+고/ecc
+
+칭다오
+	칭다/ncn+이/jp+오/ef
+
+
+점심
+	점심/ncn
+
+먹고
+	먹/pvg+고/ecc
+
+칭다오
+	칭다/ncn+이/jp+오/ef
+
+
+저녁
+	저녁/ncn
+
+먹고
+	먹/pvg+고/ecc
+
+칭다오
+	칭다/ncn+이/jp+오/ef
+
+
+식당에서
+	식당/ncn+에서/jca
+
+칭다오
+	칭다/ncn+이/jp+오/ef
+
+
+호텔에서
+	호텔/ncn+에서/jca
+
+칭다오
+	칭다/ncn+이/jp+오/ef
+
+
+페리에서
+	페리/ncn+에서/jca
+
+칭다오
+	칭다/ncn+이/jp+오/ef
+
+
+그러다
+	그러/pvd+어다/ecs
+
+가끔은
+	가끔/mag+은/jxc
+
+라오산
+	라오/ncn+산/ncn
+
+맥주
+	맥주/ncn
+
+
+의외로
+	의외/ncn+로/jca
+
+라오산
+	라오/ncn+산/ncn
+
+맥주도
+	맥주/ncn+도/jxc
+
+맛있더군요
+	맛있/paa+더군/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+중국에서도
+	중국에서/ncn+도/jxc
+
+한번
+	한/nnc+번/nbu
+
+포스팅
+	포스팅/ncn
+
+했지만
+	하/px+었/ep+지만/ecs
+
+아직까지도
+	아직/mag+까지/jxc+도/jxc
+
+중국은
+	중국/ncn+은/jxc
+
+자유여행
+	자유/ncn+여행/ncpa
+
+하기가
+	하/pvg+기/etn+가/jcs
+
+그렇게
+	그렇/pad+게/ecs
+
+쉬운
+	쉽/paa+은/etm
+
+나라는
+	나라/ncn+는/jxc
+
+아닌
+	아니/paa+ㄴ/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+언어
+	언어/ncn
+
+면에서
+	면/ncn+에서/jca
+
+정보도
+	정보/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+부족하고요
+	부족/ncps+하/xsms+고요/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+부족하지만
+	부족/ncps+하/xsms+지/ecx+말/px+ㄴ/etm
+
+제가
+	저/npp+가/jcs
+
+많이
+	많/paa+이/xsa
+
+올려야겠습니다~
+	올리/pvg+어야겠/ep+습니다/ef+~/sd
+
+
+조금
+	조금/mag
+
+힘들기도
+	힘들/pvg+기/etn+도/jxc
+
+했지만
+	하/px+었/ep+지만/ecs
+
+그래도
+	그래도/maj
+
+좋은
+	좋/paa+은/etm
+
+분들과
+	불/pvg+ㄴ/etm+들/nbn+과/jct
+
+함께여서
+	하/pvg+ㅁ/etn+께/jca+이/jp+어서/ecs
+
+즐거운
+	즐겁/paa+은/etm
+
+여행이었습니다
+	여행/ncpa+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그럼
+	그렇/pad+ㅁ/etn
+
+그
+	그/mmd
+
+동안
+	동안/ncn
+
+밀린
+	밀리/pvg+ㄴ/etm
+
+여행기
+	여행기/ncn
+
+부지런히
+	부지런히/mag
+
+포스팅
+	포스팅/ncn
+
+하도록
+	하/pvg+도록/ecs
+
+하겠습니다
+	하/px+겠/ep+습니다/ef
+
+^^
+	^/sy+^/sy
+
+
+즐거운
+	즐겁/paa+은/etm
+
+한
+	한/nnc
+
+주
+	주/nbu
+
+되세요~
+	되/nbu+이/jp+세요/ef+~/sd

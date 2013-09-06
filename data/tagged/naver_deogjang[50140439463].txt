@@ -1,0 +1,995 @@
+위
+	위/ncn
+
+치
+	치/nbu
+
+:
+	:/sp
+
+고양시
+	고양시/ncn
+
+호수공원
+	호수공원/ncn
+
+장미원
+	장미/ncn+원/ncn
+
+주변문의전화.
+	주변/ncn+문의전화/ncpa+./sf
+
+031]908~7750~4
+	031/nnc+]/sr+908/nnc+~/sd+7750/nnc+~/sd+4/nnc
+
+
+가
+	가/jcs
+
+는
+	늘/pvg+ㄴ/etm
+
+길
+	길/ncn
+
+:
+	:/sp
+
+지하철
+	지하철/ncn
+
+3호선
+	3/nnc+호/nbu+선/jxc
+
+[대화]행
+	[/sl+대화/ncpa+]/sr+행/nbu
+
+정발산역
+	정발산/ncn+역/ncn
+
+하차
+	하차/ncn
+
+1번출구
+	1번출구/ncn
+
+호수공원
+	호수공원/ncn
+
+방향
+	방향/ncn
+
+도보10분
+	도보10분/ncn
+
+
+버스~일산동구청[정발산역]하차
+	버스~일산동구청[정발산역]하차/ncn
+
+호수공원
+	호수공원/ncn
+
+방향
+	방향/ncn
+
+도보10분거리
+	도보10분거/ncn+이/jp+리/ef
+
+
+3300[인천공항]
+	3300[인천공항]/ncn
+
+33.
+	33./nnc
+
+150[김포공항]
+	150[김포공항]/ncn
+
+호수공원
+	호수공원/ncn
+
+하차
+	하차/ncn
+
+도보5분
+	도보5분/ncn
+
+거리
+	거리/nbn
+
+
+기
+	기/ncn
+
+차
+	차/ncn
+
+:
+	:/sp
+
+지하철1호선승차
+	지하철/ncn+1호선/ncn+승차/ncpa
+
+종로3가
+	종로3/ncn+가/jcs
+
+3호선[대화행]환승
+	3호선[대화행]환승/ncn
+
+정발산역
+	정발산/ncn+역/ncn
+
+하차
+	하차/ncn
+
+1번출구
+	1번출구/ncn
+
+호수공원방향
+	호수공원/ncn+방향/ncn
+
+
+자가용
+	자가용/ncn
+
+.
+	./sf
+
+
+수도권~강변북로~자유로~킨텍스I.
+	수도권~강변북로~자유로~킨텍스I./ncn
+
+C꽃박람회
+	C꽃박람회/ncn
+
+임시주차장
+	임시/ncn+주차장/ncn
+
+
+고속도로:중부
+	고속도로/ncn+:/sp+중부/ncn
+
+.
+	./sf
+
+
+경부고속도로~88올림픽대로~행주대교~자유로~킨텍스I.
+	경부고속도로~88올림픽대로~행주대교~자유로~킨텍스I./ncn
+
+C꽃박람회
+	C꽃박람회/ncn
+
+임시주차장
+	임시/ncn+주차장/ncn
+
+
+주차장
+	주차장/ncn
+
+안내
+	안내/ncpa
+
+
+꽃박람회
+	꽃박람회/ncn
+
+임시
+	임시/ncn
+
+주차장에
+	주차장/ncn+에/jca
+
+주차를
+	주차/ncn+를/jco
+
+하신
+	하/px+시/ep+ㄴ/etm
+
+후
+	후/ncn
+
+셔틀버스를
+	셔틀버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+행사장으로
+	행사장/ncn+으로/jca
+
+오시면됩니다
+	오시면됩니/ncn+이/jp+다/ef
+
+
+임시
+	임시/ncn
+
+주차장
+	주차장/ncn
+
+주차요금
+	주차요금/ncn
+
+및
+	및/maj
+
+셔틀버스
+	셔틀버스/ncn
+
+이용요금은
+	이용요금/ncn+은/jxc
+
+무료입니다[대중교통
+	무료입니다[대중교통/ncn
+
+이용시
+	이용/ncpa+시/ncn
+
+입장료에서1000원]공제
+	입장료에서1000원/ncn+]/sr+공제/ncpa
+
+
+2012
+	2012/nnc
+
+.
+	./sf
+
+
+고양국제
+	고양/ncpa+국제/ncn
+
+꽃
+	꽃/ncn
+
+박람회
+	박람회/ncn
+
+
+행사기간:2012.
+	행사기간/ncn+:/sp+2012./nnc
+
+4.
+	4./nnc
+
+26[목]~5.
+	26[목]~5./ncn
+
+13[일]18일간
+	13/ncn+[/sl+일/nbu+]/sr+18/nnc+일/nbu+간/xsnu
+
+
+꽃보다
+	꽃/ncn+보다/jca
+
+아름다운
+	아름답/paa+은/etm
+
+사람들의도시
+	사람들/ncn+의도/ncpa+시/ncn
+
+고양
+	고양/ncpa
+
+국제꽃박람회는
+	국제꽃박람회/ncn+는/jxc
+
+호수공원의
+	호수공원/ncn+의/jcm
+
+서쪽광장과
+	서쪽/ncn+광장/ncn+과/jct
+
+연결되어
+	연결/ncpa+되/xsvn+어/ecx
+
+있으며
+	있/paa+으며/ecc
+
+
+우리주변
+	우리주변/ncn
+
+산책코스중
+	산책/ncpa+코스/ncn+중/ncn
+
+1위로
+	1/nnc+위/nbu+로/jca
+
+성정
+	성정/ncn
+
+될만큼
+	되/pvg+ㄹ/etm+만큼/nbn
+
+세계적인
+	세계/ncn+적/ncn+이/jp+ㄴ/etm
+
+수준의
+	수준/ncn+의/jcm
+
+인공
+	인공/ncn
+
+생태공원으로
+	생태/ncn+공원/ncn+으로/jca
+
+산책코스와
+	산책/ncpa+코스/ncn+와/jcj
+
+자전거
+	자전거/ncn
+
+도로
+	도로/mag
+
+
+넑은
+	넑/ncn+은/jxc
+
+호수
+	호수/ncn
+
+꽃과
+	꽃/ncn+과/jcj
+
+나무들이
+	나무/ncn+들/ncn+이/jcc
+
+어우러져
+	어우러지/pvg+어/ecx
+
+아름다운
+	아름답/paa+은/etm
+
+경관을
+	경관/ncn+을/jco
+
+연출하고
+	연출/ncpa+하고/jct
+
+있으며
+	있/px+으며/ecc
+
+이곳에
+	이곳/npd+에/jca
+
+오면
+	오/px+면/ecs
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+문화행사를
+	문화행사/ncpa+를/jco
+
+
+만나
+	만나/pvg+아/ecx
+
+볼수있다
+	보/pvg+ㄹ/etm+수/nbn+있/xsmn+다/ef
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/05/04/119/031033237191537E09C3B93373B57C53BC4_deogjang_PC_DEFAULT_logo.
+	net/blogucc28/2012/05/04/119/031033237191537E09C3B93373B57C53BC4_deogjang_PC_DEFAULT_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'625.
+	'/sr+625./nnc
+
+59';
+	59/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'5E38EAA34EDA90E5B7B109A50CB4C302D8F9';
+	'5E38EAA34EDA90E5B7B109A50CB4C302D8F9/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V129cb65cdf7200da2d9f6f850d20745d59cdd718b645fa9eb66dbb74d273ca42577a6f850d20745d59cd';
+	'V129cb65cdf7200da2d9f6f850d20745d59cdd718b645fa9eb66dbb74d273ca42577a6f850d20745d59cd/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'MUSIC';
+	'/sl+MUSIC/f+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_01973
+	ugcPlayer_01973/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_01973'
+	VideoInfraUGCPlayer('ugcPlayer_01973'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_01973
+	ugcPlayer_01973/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/05/04/1051/031033237191538E71C3C96753E55FF3247_deogjang_PC_DEFAULT_logo.
+	net/blogucc28/2012/05/04/1051/031033237191538E71C3C96753E55FF3247_deogjang_PC_DEFAULT_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'727.
+	'/sr+727./nnc
+
+57';
+	57/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'E1E5F4D54E9311B901FA345B3C40F46EB947';
+	'E1E5F4D54E9311B901FA345B3C40F46EB947/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1251f68608e9a401f5bc216fddaa4e7ce478ea3ed39dd7ede2d0d0ed1e9ac241c572216fddaa4e7ce478';
+	'V1251f68608e9a401f5bc216fddaa4e7ce478ea3ed39dd7ede2d0d0ed1e9ac241c572216fddaa4e7ce478/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_01242
+	ugcPlayer_01242/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_01242'
+	VideoInfraUGCPlayer('ugcPlayer_01242'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_01242
+	ugcPlayer_01242/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr

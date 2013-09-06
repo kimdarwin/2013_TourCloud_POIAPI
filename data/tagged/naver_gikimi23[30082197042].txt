@@ -1,0 +1,705 @@
+제주공항에
+	제주/ncn+공항/ncn+에/jca
+
+도착해서
+	도착/ncpa+하/xsva+어서/ecs
+
+부산한
+	부산/ncps+하/xsms+ㄴ/etm
+
+공항을
+	공항/ncn+을/jco
+
+벗어나서
+	벗/pvg+어/ecx+나/px+아/ecx
+
+버스를
+	버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+가는길,
+	가는길/ncn+,/sp
+
+
+안개가
+	안개/ncn+가/jcs
+
+적당히
+	적당히/mag
+
+내려앉은
+	내려앉/pvg+은/etm
+
+스치는
+	스치/pvg+는/etm
+
+풍경이
+	풍경/ncn+이/jcc
+
+마음을
+	마음/ncn+을/jco
+
+아주
+	아주/mag
+
+설레게
+	설레/pvg+게/ecs
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+제주에
+	제주/ncn+에/jca
+
+도착해서
+	도착/ncpa+하/xsva+어서/ecs
+
+첫
+	첫/nno
+
+목적지,
+	목적지/ncn+,/sp
+
+풍림리조트
+	풍림/ncn+리조트/ncn
+
+.
+	./sf
+
+
+제주와의
+	제주/ncn+와의/jcj
+
+첫
+	첫/nno
+
+만남,
+	만나/pvg+ㅁ/etn+,/sp
+
+제가
+	저/npp+가/jcs
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+이웃분과의
+	이웃/ncpa+분/ncn+과의/jcm
+
+만남
+	만나/pvg+ㅁ/etn
+
+만큼이나,
+	만큼/nbn+이나/jcj+,/sp
+
+
+풍림리조트와의
+	풍림/ncn+리조트/ncn+와의/jcj
+
+만남이
+	만나/pvg+ㅁ/etn+이/jcs
+
+주는
+	주/px+는/etm
+
+설레임은
+	설레이/pvg+ㅁ/etn+은/jxc
+
+마음을
+	마음/ncn+을/jco
+
+참
+	참/mag
+
+기분좋게
+	기분좋/paa+게/ecs
+
+~
+	~/sd
+
+살짝
+	살짝/mag
+
+흥분되게
+	흥분/ncpa+되/xsvn+게/ecs
+
+간지럽혔습니다
+	간지럽히/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+여행의
+	여행/ncpa+의/jcm
+
+절반이상이
+	절반/ncn+이상/ncn+이/jcc
+
+풍림에서
+	풍림/ncn+에서/jca
+
+이뤄졌다고
+	이루/pvg+어/ecx+지/px+었/ep+다/ef+고/jcr
+
+해도
+	하/pvg+어도/ecs
+
+될것
+	되/pvg+ㄹ/etm+것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+바닷가
+	바닷가/ncn
+
+우체국
+	우체국/ncn
+
+가족분들과의
+	가족/ncn+분/ncn+들/xsncc+과의/jcm
+
+만남,
+	만나/pvg+ㅁ/etn+,/sp
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+잠자리,
+	잠자리/ncn+,/sp
+
+맛있는
+	맛있/paa+는/etm
+
+식사,
+	식사/ncpa+,/sp
+
+맛있는
+	맛있/paa+는/etm
+
+커피,
+	커피/ncn+,/sp
+
+멋진
+	멋지/paa+ㄴ/etm
+
+바다풍경
+	바다/ncn+풍경/ncn
+
+.
+	./sf
+
+
+제
+	저/npp+의/jcm
+
+마음속에
+	마음속/ncn+에/jca
+
+선물을
+	선물/ncn+을/jco
+
+가득가득
+	가득가득/mag
+
+안겨주었습니다
+	안기/pvg+어/ecx+주/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+객실에서
+	객실/ncn+에서/jca
+
+본
+	보/px+ㄴ/etm
+
+낮과
+	낮/ncn+과/jcj
+
+밤,
+	밤/ncn+,/sp
+
+몇장의
+	몇/nnc+장/nbu+의/jcm
+
+사진으로
+	사진/ncn+으로/jca
+
+담아봤습니다
+	담/pvg+아/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+묵었던
+	묵/pvg+었/ep+던/etm
+
+숙소는
+	숙소/ncn+는/jxc
+
+2층
+	2/nnc+층/nbu
+
+이었는데요
+	이/npd+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+첫째날
+	첫째/nno+날/nbu
+
+밤에
+	밤/ncn+에/jca
+
+비가
+	비/ncn+가/jcs
+
+그치고
+	그치/pvg+고/ecc
+
+난뒤,
+	난/ncn+뒤/xsncc+,/sp
+
+별이
+	별/ncn+이/jcc
+
+보일까
+	보이/pvg+ㄹ까/ecs
+
+베란다에
+	베란다/ncn+에/jca
+
+나가서
+	나가/pvg+아/ecx
+
+사진을
+	사진/ncn+을/jco
+
+찍어보았습니다
+	찍/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+어두운
+	어둡/paa+은/etm
+
+바다,
+	바/nbn+이/jp+다/ef+,/sp
+
+어두운
+	어둡/paa+은/etm
+
+하늘,
+	하늘/ncn+,/sp
+
+그
+	그/mmd
+
+속에
+	속/ncn+에/jca
+
+섬처럼
+	서/pvg+ㅁ/etn+처럼/jca
+
+떠있는
+	뜨/pvg+어/ecx+있/px+는/etm
+
+풍림의
+	풍림/ncn+의/jcm
+
+멋진
+	멋지/paa+ㄴ/etm
+
+정원
+	정원/ncn
+
+^^
+	^/sy+^/sy
+
+
+제가
+	저/npp+가/jcs
+
+조금만
+	조금/mag+만/jxc
+
+부지런
+	부지런/ncps
+
+했다면,
+	하/px+었/ep+다면/ecs+,/sp
+
+정원에
+	정원/ncn+에/jca
+
+나가서
+	나가/pvg+아/ecx
+
+하늘도
+	하늘/ncn+도/jxc
+
+찍었을텐데
+	찍/pvg+었/ep+을텐데/ef
+
+..
+	./sf+./sf
+
+
+아쉽게도
+	아쉽/paa+게/ecs+도/jxc
+
+객실에서는
+	객실/ncn+에서/jca+는/jxc
+
+천정때문에
+	천정때문/ncn+에/jca
+
+난간에
+	난간/ncn+에/jca
+
+놓고
+	놓/px+고/ecc
+
+찍을수
+	찍/pvg+을/etm+수/nbn
+
+
+없더라구요
+	없/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+하지만,
+	하/pvg+지/ecx+말/px+ㄴ/etm+,/sp
+
+바다향과
+	바다/ncn+향/ncn+과/jct
+
+함께
+	함께/mag
+
+전해지는
+	전하/pvg+어/ecx+지/px+는/etm
+
+시원한
+	시원/ncn+한/ncn
+
+바람덕분에
+	바람/ncn+덕분/ncn+에/jca
+
+기분만은
+	기분/ncn+만은/jxc
+
+아주
+	아주/mag
+
+상쾌했습니다
+	상쾌/ncps+하/xsms+었/ep+습니다/ef
+
+.
+	./sf
+
+
+다음번에는
+	다음번/ncn+에/jca+는/jxc
+
+꼭
+	꼭/mag
+
+이
+	이/mmd
+
+길을
+	길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+풍림
+	풍림/ncn
+
+주점으로
+	주점/ncn+으로/jca
+
+가서
+	가/pvg+서/ecs
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+맥주를
+	맥주/ncn+를/jco
+
+마시며
+	마시/pvg+며/ecc
+
+밤의
+	밤/ncn+의/jcm
+
+바다를
+	바다/ncn+를/jco
+
+한없이
+	한없이/mag
+
+바라봐야겠습니다
+	바라/pvg+아/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+꼭
+	꼭/mag
+
+!
+	!/sf
+
+
+어묵도
+	어묵/ncn+도/jxc
+
+먹어보구요
+	먹어보구요/ncn
+
+!
+	!/sf
+
+
+다음날
+	다음날/ncn
+
+아침
+	아침/ncn
+
+씻고
+	씻/pvg+고/ecc
+
+나오니
+	나/pvg+아/ecx+오/px+니/ecs
+
+창을
+	창/ncn+을/jco
+
+통해서
+	통하/pvg+어서/ecs
+
+보이는
+	보이/pvg+는/etm
+
+멋진
+	멋지/paa+ㄴ/etm
+
+햇님이
+	햇님/ncn+이/jcc
+
+저를
+	저/npp+를/jco
+
+반겨주더라구요
+	반기/pvg+어/ecx+주/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+아.
+	아/ii+./sf
+
+..
+	./sf+./sf
+
+
+객실에서
+	객실/ncn+에서/jca
+
+보는
+	보/px+는/etm
+
+일출이란~
+	일출/ncpa+이란/jxc+~/sd
+
+!
+	!/sf
+
+
+올해는
+	올해/ncn+는/jxc
+
+일부러
+	일부러/mag
+
+일출을
+	일출/ncpa+을/jco
+
+보러
+	보/px+러/ecs
+
+무박으로
+	무박/ncn+으로/jca
+
+울산
+	울산/ncn
+
+간절곶도
+	간절/ncps+곶/ncn+도/jxc
+
+다녀왔었고,
+	다니/pvg+어/ecx+오/px+아/ep+고/ecc+,/sp
+
+동해
+	동해/ncn
+
+추암에도
+	추암/ncn+에/jca+도/jxc
+
+다녀왔었지만
+	다니/pvg+어/ecx+오/px+아/ep+지만/ecs
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+머리도
+	머리/ncn+도/jxc
+
+덜
+	덜/mag
+
+말린상태에서
+	말린상태/ncn+에서/jca
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+옷차림으로
+	옷차림/ncn+으로/jca
+
+객실에서
+	객실/ncn+에서/jca
+
+보는
+	보/px+는/etm
+
+일출은
+	일출/ncpa+은/jxc
+
+아주
+	아주/mag
+
+색다른
+	색다르/paa+ㄴ/etm
+
+느낌이네요
+	느낌/ncn+이/jp+네/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+풍림의
+	풍림/ncn+의/jcm
+
+낮과
+	낮/ncn+과/jcj
+
+밤.
+	밤/ncn+./sf
+
+
+객실에서
+	객실/ncn+에서/jca
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+풍경일
+	풍경/ncn+이/jp+ㄹ/etm
+
+뿐인데도,
+	뿐/nbn+이/jp+ㄴ데/ecs+도/jxc+,/sp
+
+너무
+	너무/mag
+
+멋진것
+	멋지/paa+ㄴ/etm+것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+하지만,
+	하/pvg+지/ecx+말/px+ㄴ/etm+,/sp
+
+풍림엔
+	풍림/ncn+엔/jca
+
+더
+	더/mag
+
+멋진것들이
+	멋진것들/ncn+이/jcc
+
+존재하고
+	존재/ncn+하고/jct
+
+있다는
+	있/px+다/ef+는/etm
+
+사실을
+	사실/ncn+을/jco
+
+머지
+	머지/ncpa
+
+않아
+	않/px+아/ecx
+
+알게되었다는
+	알/pvg+게/ecx+되/px+었/ep+다/ef+는/etm
+
+것
+	것/nbn
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+커밍순~
+	커밍순~/ncn
+
+!
+	!/sf

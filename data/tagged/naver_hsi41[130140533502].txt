@@ -1,0 +1,491 @@
+5
+	5/nnc
+
+10대책
+	10대/ncn+책/ncn
+
+이후5
+	이후5/ncn
+
+10대책
+	10대/ncn+책/ncn
+
+이후
+	이후/ncn
+
+강남권
+	강남권/ncn
+
+재건축
+	재건축/ncn
+
+아파트
+	아파트/ncn
+
+10채
+	10/nnc+채/nbu
+
+중
+	중/nbn
+
+4채는
+	4/nnc+채/nbu+는/jxc
+
+집값이
+	집값/ncn+이/jcc
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타났다
+	나타나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+부동산정보업체
+	부동산/ncn+정보업체/ncn
+
+부동산1번지에
+	부동산1번지/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+5
+	5/nnc
+
+10대책
+	10대/ncn+책/ncn
+
+이후
+	이후/ncn
+
+강남
+	강남/ncn
+
+4개구(강남,
+	4개구(강남,/ncn
+
+서초,
+	서초,/ncn
+
+송파,
+	송파,/ncn
+
+강동)
+	강동)/ncn
+
+재건축
+	재건축/ncn
+
+아파트
+	아파트/ncn
+
+38.
+	38./nnc
+
+2%가
+	2/nnc+%/su+가/jcc
+
+하락세를
+	하락세/ncn+를/jco
+
+보였다
+	보이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+강남
+	강남/ncn
+
+4개구
+	4개구/ncn
+
+아파트
+	아파트/ncn
+
+총가구는
+	총가구/ncn+는/jxc
+
+8만3309가구로
+	8/nnc+만/nnc+3309/nnc+가구/nbu+로/jca
+
+이
+	이/mmd
+
+중
+	중/nbn
+
+3만1817가구가
+	3/nnc+만/nnc+1817/nnc+가구/nbu+가/jcc
+
+가격이
+	가격/ncn+이/jcc
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+셈이다.5
+	셈이다.5/ncn
+
+10대책
+	10대/ncn+책/ncn
+
+이전
+	이전/ncn
+
+강남
+	강남/ncn
+
+4개구
+	4개구/ncn
+
+아파트는
+	아파트/ncn+는/jxc
+
+투기지역
+	투기/ncpa+지역/ncn
+
+해제
+	해제/ncpa
+
+기대심리에
+	기대심리/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+가격
+	가격/ncn
+
+상승세를
+	상승세/ncn+를/jco
+
+보이거나
+	보이/pvg+거나/ecc
+
+하락세가
+	하락세/ncn+가/jcs
+
+둔화됐지만
+	둔화/ncpa+되/xsvn+었/ep+지만/ecs
+
+기대에
+	기대/ncpa+에/jca
+
+못
+	못/mag
+
+미치는
+	미치/pvg+는/etm
+
+대책으로
+	대책/ncn+으로/jca
+
+하락
+	하락/ncpa
+
+분위기가
+	분위기/ncn+가/jcs
+
+짙어졌다
+	짙/paa+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+송파구는
+	송파구/ncn+는/jxc
+
+재건축아파트
+	재건축/ncn+아파트/ncn
+
+1만9246가구
+	1/nnc+만/nnc+9246/nnc+가구/nbu
+
+중
+	중/nbn
+
+절반이
+	절반/ncn+이/jcc
+
+넘는
+	넘/pvg+는/etm
+
+1만136가구의
+	1/nnc+만/nnc+136/nnc+가구/nbu+의/jcm
+
+가격이
+	가격/ncn+이/jcc
+
+하락했다
+	하락/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+강동구도
+	강동구/ncn+도/jxc
+
+2만304가구
+	2/nnc+만/nnc+304/nnc+가구/nbu
+
+중
+	중/nbn
+
+절반에
+	절반/ncn+에/jca
+
+가까운
+	가깝/paa+은/etm
+
+9764가구가
+	9764/nnc+가구/nbu+가/jcc
+
+가격이
+	가격/ncn+이/jcc
+
+떨어졌으며
+	떨/pvg+어/ecx+지/px+었/ep+으며/ecc
+
+강남구는
+	강남/ncn+구/ncn+는/jxc
+
+2만3534가구
+	2/nnc+만/nnc+3534/nnc+가구/nbu
+
+중
+	중/nbn
+
+40%인
+	40/nnc+%/su+이/jp+ㄴ/etm
+
+9405가구의
+	9405/nnc+가구/nbu+의/jcm
+
+집값이
+	집값/ncn+이/jcc
+
+하락했다
+	하락/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+서초구는
+	서초구/ncn+는/jxc
+
+2만225가구
+	2/nnc+만/nnc+225/nnc+가구/nbu
+
+중
+	중/nbn
+
+12.
+	12./nnc
+
+4%인
+	4/nnc+%/su+이/jp+ㄴ/etm
+
+2512가구가
+	2512/nnc+가구/nbu+가/jcc
+
+내려
+	내리/pvg+어/ecx
+
+다른
+	다르/paa+ㄴ/etm
+
+지역보다
+	지역/ncn+보다/jca
+
+침체가
+	침체/ncpa+가/jcc
+
+덜했다
+	덜하/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+부동산시장의
+	부동산/ncn+시장/ncn+의/jcm
+
+바로미터
+	바로미터/ncn
+
+격인
+	격/nbn+이/jp+ㄴ/etm
+
+강남
+	강남/ncn
+
+4개구
+	4개구/ncn
+
+재건축
+	재건축/ncn
+
+아파트값은
+	아파트/ncn+값/ncn+은/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+달
+	달/nbu
+
+새
+	새/mma
+
+1.17%
+	1.17/nnc+%/su
+
+떨어져
+	떨어지/pvg+어/ecx
+
+서울
+	서울/ncn
+
+평균
+	평균/ncpa
+
+하락률의
+	하락/ncpa+률/ncn+의/jcm
+
+3배를
+	3/nnc+배/nbu+를/jco
+
+기록했다
+	기록/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+송파구가
+	송파구/ncn+가/jcs
+
+1.92%
+	1.92/nnc+%/su
+
+떨어져
+	떨어지/pvg+어/ecx
+
+낙폭이
+	낙폭/ncn+이/jcc
+
+가장
+	가장/mag
+
+컸고
+	크/paa+었/ep+고/ecc
+
+이어
+	이/npd+이/jp+어/ecs
+
+강남구(-1.
+	강남구(-1./ncn
+
+37%),
+	37/nnc+%/su+)/sr+,/sp
+
+강동구(-1.
+	강동구(-1./ncn
+
+19%),
+	19/nnc+%/su+)/sr+,/sp
+
+서초구(-0.
+	서초구(-0./ncn
+
+22%)
+	22/nnc+%/su+)/sr
+
+순으로
+	순/ncn+으로/jca
+
+하락했다
+	하락/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+채훈식
+	채훈식/ncn
+
+부동산1번지
+	부동산1번지/ncn
+
+실장은
+	실장/ncr+은/jxc
+
+"대내외적인
+	"/sl+대내외/ncn+적/ncn+이/jp+ㄴ/etm
+
+경기
+	경기/ncn
+
+악화로
+	악화/ncpa+로/jca
+
+부동산시장이
+	부동산/ncn+시장/ncn+이/jcc
+
+더욱
+	더욱/mag
+
+위축된
+	위축/ncpa+되/xsvn+ㄴ/etm
+
+데다
+	데/nbn+이/jp+다/ef
+
+여름
+	여름/ncn
+
+비수기에
+	비수/ncn+이/jp+기/etn+에/jca
+
+접어들어
+	접어들/pvg+어/ecx
+
+당분간
+	당분간/mag
+
+약보합세를
+	약보합세/ncn+를/jco
+
+지속할
+	지속/ncpa+하/xsva+ㄹ/etm
+
+것으로
+	것/nbn+으로/jca
+
+전망된다"고
+	전망/ncn+되/xsvn+ㄴ다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+[김지영
+	[김지영/ncn
+
+기자]출처:매일경제
+	기자/ncr+]/sr+출처/ncn+:/sp+매일/ncn+경제/ncn

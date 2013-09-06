@@ -1,0 +1,689 @@
+오늘
+	오늘/ncn
+
+청계천을
+	청계/ncn+천/ncn+을/jco
+
+걷다가
+	걷/pvg+다가/ecs
+
+관심
+	관심/ncn
+
+가는
+	가/pvg+는/etm
+
+박람회
+	박람회/ncn
+
+홍보물을
+	홍보물/ncn+을/jco
+
+발견했어요
+	발견/ncpa+하/xsva+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+'여행'이라는
+	'/sr+여행/ncpa+'/sr+이/jp+라/ef+는/etm
+
+글자만
+	글자/ncn+만/jxc
+
+들어가도
+	들/pvg+어/ecx+가/px+아/ecs
+
+눈
+	눈/ncn
+
+뒤집히는
+	뒤집히/pvg+는/etm
+
+저,
+	저/mmd+,/sp
+
+아니나다를까
+	아니나다를까/ii
+
+한눈에
+	한눈/ncn+에/jca
+
+쏙
+	쏙/mag
+
+들어오더군요
+	들/pvg+어/ecx+오/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+같이
+	같/paa+이/xsa
+
+있던
+	있/px+던/etm
+
+동생한테
+	동생/ncn+한테/jca
+
+"저게
+	"/sl+저/npp+이/jp+게/ecs
+
+뭐야
+	뭐/npd+이/jp+야/ef
+
+?"
+	?/sf+"/sl
+
+
+라고
+	라/ncn+이/jp+고/ecc
+
+물었더니
+	묻/pvg+었/ep+더니/ecs
+
+매년
+	매년/mag
+
+하는
+	하/pvg+는/etm
+
+여행
+	여행/ncpa
+
+관련
+	관련/ncn
+
+박람회라고
+	박람회/ncn+이/jp+라/ef+고/jcr
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+왜
+	왜/mag
+
+저는
+	저/npp+는/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+있었을까요
+	있/px+었/ep+을까/ef+요/jxf
+
+?
+	?/sf
+
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+집에
+	집/ncn+에/jca
+
+가서
+	가/pvg+서/ecs
+
+찾아봐야겠다
+	찾/pvg+아/ecx+보/px+아/ep+다/ef
+
+생각하고는
+	생각/ncpa+하고/jct+는/jxc
+
+잊어버릴까봐
+	잊어버릴까봐/ncn
+
+사진을
+	사진/ncn+을/jco
+
+찍어놓았어요
+	찍/pvg+어/ecx+놓/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+찍어놓길
+	찍어놓길/ncn
+
+잘했나봐요
+	잘했나봐요/ncn
+
+.
+	./sf
+
+
+깜빡
+	깜빡/mag
+
+하고
+	하/pvg+고/ecc
+
+있다가
+	있/px+다가/ecs
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+정리하면서
+	정리/ncpa+하/xsva+면서/ecc
+
+발견했지
+	발견/ncpa+하/xsva+었/ep+지/ecs
+
+뭐예요
+	뭐/npd+이/jp+예요/ef
+
+.
+	./sf
+
+
+혹시
+	혹시/mag
+
+모르시는
+	모르/pvg+시/ep+는/etm
+
+분들을
+	불/pvg+ㄴ/etm+들/nbn+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+정보를
+	정보/ncn+를/jco
+
+공유할께요
+	공유/ncpa+하/xsva+ㄹ께/ef+요/jxf
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+박람회는
+	박람회/ncn+는/jxc
+
+'나의
+	'/sr+나/npp+의/jcm
+
+여행
+	여행/ncpa
+
+다이어리'라는
+	다이어/ncn+이/jp+리/ef+'/sr+라는/jcm
+
+주제로
+	주제/ncn+로/jca
+
+열려요
+	열리/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+매년
+	매년/mag
+
+주제가
+	주제/ncn+가/jcs
+
+다른
+	다르/paa+ㄴ/etm
+
+것
+	것/nbn
+
+같더라구요
+	같/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+기간
+	기간/ncn
+
+:
+	:/sp
+
+2011년
+	2011/nnc+년/nbu
+
+2월
+	2/nnc+월/nbu
+
+24일
+	24/nnc+일/nbu
+
+목요일
+	목요일/ncn
+
+~
+	~/sd
+
+27일
+	27/nnc+일/nbu
+
+일요일
+	일요일/ncn
+
+
+장소
+	장소/ncn
+
+:
+	:/sp
+
+서울
+	서울/ncn
+
+코엑스
+	코엑스/ncn
+
+3층
+	3/nnc+층/nbu
+
+Hall
+	Hall/f
+
+C,D1
+	C,D1/ncn
+
+
+주최
+	주최/ncpa
+
+:
+	:/sp
+
+문화체육관광부
+	문화체육관/ncn+광부/ncn
+
+
+주관
+	주관/ncn
+
+:
+	:/sp
+
+한국관광협회중앙회
+	한국관광/ncn+협회/ncn+중앙회/ncn
+
+
+박람회
+	박람회/ncn
+
+부스는
+	부스/ncn+는/jxc
+
+위의
+	위/ncn+의/jcm
+
+그림과
+	그림/ncn+과/jct
+
+같이
+	같/paa+이/xsa
+
+꾸며질
+	꾸미/pvg+어/ecx+지/px+ㄹ/etm
+
+예정이예요
+	예정/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+사진은
+	사진/ncn+은/jxc
+
+홈페이지에서
+	홈페이지/ncn+에서/jca
+
+슬쩍했어요
+	슬쩍/ncpa+하/xsva+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+naenara.
+	naenara/f+./sy
+
+or.
+	or/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+제일
+	제일/mag
+
+중요한
+	중요/ncps+하/xsms+ㄴ/etm
+
+건
+	거/nbn+은/jxc
+
+입장료죠
+	입장료/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+입장료는
+	입장료/ncn+는/jxc
+
+2,000원인데,
+	2,000/nnc+원/nbu+이/jp+ㄴ데/ecs+,/sp
+
+무료로
+	무료/ncn+로/jca
+
+입장할
+	입장/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+방법이
+	방법/ncn+이/jcc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+홈페이지에
+	홈페이지/ncn+에/jca
+
+들어가서
+	들/pvg+어/ecx+가/px+아/ecx
+
+방문객마당
+	방문객/ncn+마당/ncn
+
+사전등록안내를
+	사전/ncn+등록/ncpa+안내/ncpa+를/jco
+
+클릭한
+	클릭/ncpa+하/xsva+ㄴ/etm
+
+다음,
+	다음/ncn+,/sp
+
+시키는대로
+	시키/pvg+ㄴ대로/ecs
+
+하시면
+	하/px+시/ep+면/ecs
+
+사전등록이
+	사전/ncn+등록/ncpa+이/jcc
+
+돼요
+	되/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+모든
+	모든/mma
+
+과정이
+	과정/ncn+이/jcc
+
+완료되면
+	완료/ncpa+되/xsvn+면/ecs
+
+아래와
+	아래/ncn+와/jct
+
+같은
+	같/paa+은/etm
+
+그림이
+	그림/ncn+이/jcc
+
+나와요
+	나/pvg+아/ecx+오/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+초청장인데요,
+	초청장인데요/ncn+,/sp
+
+
+이
+	이/mmd
+
+그림을
+	그림/ncn+을/jco
+
+인쇄해서
+	인쇄/ncpa+하/xsva+어서/ecs
+
+가져가면
+	가/pvg+아/ecx+지/px+어/ecx+가/px+면/ecs
+
+무료로
+	무료/ncn+로/jca
+
+입장을
+	입장/ncpa+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+포스터나
+	포스터/ncn+나/jcj
+
+각종
+	각종/ncn
+
+홍보물
+	홍보물/ncn
+
+하단의
+	하단/ncn+의/jcm
+
+바코드를
+	바코드/ncn+를/jco
+
+스마트폰으로
+	스마트폰/ncn+으로/jca
+
+스캔해서
+	스캔/ncn+해서/ncn
+
+폰으로
+	폰/ncn+으로/jca
+
+초청장을
+	초청장/ncn+을/jco
+
+받아가는
+	받/pvg+아/ecx+가/px+는/etm
+
+방법도
+	방법/ncn+도/jxc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+350여개의
+	350/nnc+여/xsnu+개/nbu+의/jcm
+
+여행관련
+	여행/ncpa+관련/ncn
+
+업체가
+	업체/ncn+가/jcs
+
+참가하여
+	참가/ncpa+하/xsva+어/ecx
+
+구석구석
+	구석구석/mag
+
+숨겨진
+	숨기/pvg+어/ecx+지/px+ㄴ/etm
+
+여행정보를
+	여행정보/ncn+를/jco
+
+찾을
+	찾/pvg+을/etm
+
+수가
+	수/nbn+가/jcc
+
+있구요,
+	있구요/ncn+,/sp
+
+
+여행작가와
+	여행/ncpa+작가/ncr+와/jct
+
+함께
+	함께/mag
+
+여행
+	여행/ncpa
+
+계획을
+	계획/ncpa+을/jco
+
+세우는
+	세우/pvg+는/etm
+
+프로그램도
+	프로그램/ncn+도/jxc
+
+있다고
+	있/px+다/ef+고/jcr
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+봄방학을
+	봄방학/ncn+을/jco
+
+맞아
+	맞/pvg+아/ecx
+
+아이와
+	아이/ncn+와/jct
+
+함께
+	함께/mag
+
+가족여행을
+	가족/ncn+여행/ncpa+을/jco
+
+계획하고
+	계획하/ncn+이/jp+고/ecc
+
+있는
+	있/px+는/etm
+
+분들을
+	불/pvg+ㄴ/etm+들/nbn+을/jco
+
+위해서도
+	위하/pvg+어서/ecs+도/jxc
+
+좋은
+	좋/paa+은/etm
+
+박람회가
+	박람회/ncn+가/jcs
+
+될
+	되/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
++자세한
+	+자세한/ncn
+
+정보는
+	정보/ncn+는/jxc
+
+홈페이지에서
+	홈페이지/ncn+에서/jca
+
+확인해보세요
+	확인/ncpa+하/xsva+어/ecx+보/px+세/ef+요/jxf
+
+.
+	./sf
+
+
++
+	+/ncn

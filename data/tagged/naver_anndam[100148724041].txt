@@ -1,0 +1,4737 @@
+서울랜드
+	서울랜드/ncn
+
+눈썰매장
+	눈썰매장/ncn
+
+가는길
+	가는길/ncn
+
+/서울근교
+	//sp+서울근교/ncn
+
+눈썰매장
+	눈썰매장/ncn
+
+/
+	//sp
+
+서울랜드
+	서울랜드/ncn
+
+자유이용권
+	자유/ncn+이용권/ncn
+
+
+과천
+	과천/ncn
+
+서울랜드
+	서울랜드/ncn
+
+눈썰매장으로
+	눈썰매장/ncn+으로/jca
+
+휴일나들이를
+	휴일/ncn+나들이/ncpa+를/jco
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+서울근교
+	서울근교/ncn
+
+눈썰매장
+	눈썰매장/ncn
+
+중
+	중/nbn
+
+어디로
+	어디/npd+로/jca
+
+갈까하다
+	갈까하다/ncn
+
+자유입장권을
+	자유/ncn+입장권/ncn+을/jco
+
+저렴하게
+	저렴/ncps+하/xsms+게/ecs
+
+구매하게
+	구매/ncpa+하/xsva+게/ecs
+
+되어서
+	되/pvg+어서/ecs
+
+온가족
+	온가족/ncn
+
+눈썰매장
+	눈썰매장/ncn
+
+나이들이를
+	나이/ncn+들이/ncn+를/jco
+
+하게
+	하/pvg+게/ecs
+
+되었는데요
+	되/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+무료입장
+	무료입장/ncn
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+카드혜택도
+	카드/ncn+혜택/ncn+도/jxc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+전
+	전/nbn
+
+자유이용권
+	자유/ncn+이용권/ncn
+
+구매를국민카드
+	구매를국민카드/ncn
+
+결재로
+	결재/ncpa+로/jca
+
+50%
+	50/nnc+%/su
+
+할인을
+	할인/ncpa+을/jco
+
+받아서
+	받/pvg+아/ecx
+
+이용했습니다
+	이용/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+놀이기구도
+	놀이기구/ncn+도/jxc
+
+실컷
+	실컷/mag
+
+타고
+	타/pvg+고/ecc
+
+눈썰매장까지
+	눈썰매장/ncn+까지/jxc
+
+대부분의
+	대부분/ncn+의/jcm
+
+시설을
+	시설/ncpa+을/jco
+
+무료로
+	무료/ncn+로/jca
+
+이용하니
+	이용/ncpa+하/xsva+니/ecs
+
+할인적용카드를
+	할인/ncpa+적용/ncpa+카드/ncn+를/jco
+
+적극
+	적극/ncn
+
+활용해서
+	활용/ncpa+해서/ncn
+
+자유이용권을
+	자유/ncn+이용권/ncn+을/jco
+
+구매하는
+	구매/ncpa+하/xsva+는/etm
+
+것이
+	것/nbn+이/jcc
+
+더
+	더/mag
+
+저렴하겠더라구요
+	저렴/ncps+하/xsms+겠/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+서울랜드
+	서울랜드/ncn
+
+눈썰매장은
+	눈썰매장/ncn+은/jxc
+
+유아용,
+	유아/ncn+용/xsncc+,/sp
+
+성인용,
+	성인용/ncn+,/sp
+
+눈썰매
+	눈썰매/ncn
+
+놀이터,
+	놀이터/ncn+,/sp
+
+전통눈썰매장도
+	전통/ncn+눈썰매장/ncn+도/jxc
+
+있었는데요
+	있/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+휴일에는
+	휴일/ncn+에/jca+는/jxc
+
+많은
+	많/paa+은/etm
+
+인파로
+	인파/ncn+로/jca
+
+인해
+	인하/pvg+어/ecx
+
+실컷
+	실컷/mag
+
+탄다는
+	타/pvg+ㄴ다/ef+는/etm
+
+건
+	거/nbn+은/jxc
+
+어느정도
+	어느정도/ncn
+
+포기를
+	포/ncn+이/jp+기/etn+를/jco
+
+해야할
+	하/pvg+어야/ecx+하/px+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^(입장권,빅5이용객:
+	^^(입장권,빅5이용객:/ncn
+
+눈썰매장
+	눈썰매장/ncn
+
+가격:3,000원)
+	가격/ncn+:/sp+3,000/nnc+원/nbu+)/sr
+
+
+과천
+	과천/ncn
+
+서울랜드
+	서울랜드/ncn
+
+눈썰매장
+	눈썰매장/ncn
+
+
+경주로
+	경주/ncpa+로/jca
+
+내려가기로
+	내리/pvg+어/ecx+가/px+기/etn+로/jca
+
+한
+	하/pvg+ㄴ/etm
+
+주였는데
+	주/nbu+이/jp+었/ep+는데/ecs
+
+계획이
+	계획/ncpa+이/jcc
+
+급변경되어
+	급변/ncpa+경/ncn+되/xsvn+어/ecx
+
+미뤄지고
+	미루/pvg+어/ecx+지/px+고/ecc
+
+결국
+	결국/mag
+
+그날은
+	그날/ncn+은/jxc
+
+서울가족들과의
+	서울가족들과/ncn+의/jcm
+
+눈썰매장
+	눈썰매장/ncn
+
+나들이를
+	나들이/ncpa+를/jco
+
+갔었습니다
+	가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+이전에
+	이전/ncn+에/jca
+
+형부네
+	형부/ncn+이/jp+네/ef
+
+회사에서
+	회사/ncn+에서/jca
+
+저렴한
+	저렴/ncn+한/ncn
+
+자격으로
+	자격/ncn+으로/jca
+
+서울랜드
+	서울랜드/ncn
+
+자유이용권을
+	자유/ncn+이용권/ncn+을/jco
+
+판매해서
+	판매/ncpa+하/xsva+어서/ecs
+
+사둔
+	사/pvg+아/ecx+두/px+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+있었는데요
+	있/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그때는
+	그때/ncn+는/jxc
+
+난
+	나/px+ㄴ/etm
+
+안갈거라고
+	안갈거라/ncn+이/jp+고/ecc
+
+내몫까지
+	내몫까/ncn+이/jp+지/ecs
+
+신청을
+	신청/ncpa+을/jco
+
+못했는데
+	못하/px+었/ep+는데/ecs
+
+이럴줄
+	이럴줄/ncn
+
+알았음
+	알/pvg+아/ep+ㅁ/etn
+
+사놓으라고
+	사/pvg+아/ecx+놓/px+으라/ef+고/jcr
+
+할걸
+	할걸/ncn
+
+...
+	.../se
+
+
+눈썰매장
+	눈썰매장/ncn
+
+놀이를
+	놀이/ncn+를/jco
+
+가자고
+	가/px+자/ef+고/jcr
+
+조카들이
+	조카/ncn+들/ncn+이/jcc
+
+언제부터
+	언제/npd+부터/jxc
+
+성화여서
+	성화/ncn+이/jp+어서/ecs
+
+빈주에
+	빈주/ncn+에/jca
+
+가게
+	가/px+게/ecs
+
+되었습니다
+	되/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+서울대공원으로는
+	서울대공원/ncn+으로/jca+는/jxc
+
+몇번
+	몇/nnc+번/nbu
+
+간듯
+	가/px+ㄴ/etm+듯/nbs
+
+한데
+	하/pvg+ㄴ데/ecs
+
+서울랜드는
+	서울랜드/ncn+는/jxc
+
+이번이
+	이/nnc+번/nbu+이/jcc
+
+첨이라
+	첨/ncn+이/jp+라/ecs
+
+저도
+	저/npp+도/jxc
+
+아이가
+	아이/ncn+가/jcs
+
+되어서
+	되/pvg+어서/ecs
+
+살짝
+	살짝/mag
+
+설렜구요
+	설렜구요/ncn
+
+.
+	./sf
+
+
+눈썰매
+	눈썰매/ncn
+
+실컷
+	실컷/mag
+
+타보나
+	타/pvg+아/ecx+보/px+나/ecs
+
+하눈
+	하눈/ncn
+
+기대도
+	기대/pvg+어도/ecs
+
+좀
+	좀/mag
+
+가졌었어요
+	가/pvg+아/ecx+지/px+었었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+서울랜드
+	서울랜드/ncn
+
+동문쪽
+	동문/ncn+쪽/ncn
+
+주차장에
+	주차장/ncn+에/jca
+
+주차를
+	주차/ncn+를/jco
+
+하고
+	하/pvg+고/ecc
+
+매표소에서
+	매표소/ncn+에서/jca
+
+표를
+	표/ncn+를/jco
+
+구매하려고
+	구매/ncpa+하/xsva+려고/ecs
+
+보니
+	보/px+니/ecs
+
+입장료만
+	입장료/ncn+만/jxc
+
+17,000원인가
+	17,000/nnc+원/nbu+이/jp+ㄴ가/ef
+
+그렇구요
+	그렇구요/ncn
+
+.
+	./sf
+
+
+자유이용권은
+	자유/ncn+이용권/ncn+은/jxc
+
+31,000원
+	31,000/nnc+원/nbu
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+제휴카드
+	제휴/ncpa+카드/ncn
+
+혜택으로
+	혜택/ncn+으로/jca
+
+비씨카드
+	비씨카드/ncn
+
+종류는
+	종류/ncn+는/jxc
+
+무료입장이
+	무료입장/ncn+이/jcc
+
+가능했구요
+	가능했구요/ncn
+
+.
+	./sf
+
+
+비씨카드가
+	비씨카드/ncn+가/jcs
+
+없어서
+	없/paa+어서/ecs
+
+안타까움이
+	안타깝/paa+음/etn+이/jcs
+
+..
+	./sf+./sf
+
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+입장료를
+	입장료/ncn+를/jco
+
+다
+	다/mag
+
+내긴
+	내긴/ncn
+
+아깝고
+	아깝/paa+고/ecc
+
+..
+	./sf+./sf
+
+
+하여
+	하/pvg+어/ecx
+
+자유이용권으로
+	자유/ncn+이용권/ncn+으로/jca
+
+국민카드
+	국민카드/ncn
+
+50%할인을
+	50%할인/ncn+을/jco
+
+하기에
+	하/pvg+기/etn+에/jca
+
+그걸로
+	그걸/ncn+로/jca
+
+한장
+	한/nnc+장/nbu
+
+구매했습니다
+	구매/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+다른
+	다른/mma
+
+식구들은
+	식구/ncn+들/ncn+은/jxc
+
+미리
+	미리/mag
+
+예약해둔
+	예약/ncpa+하/xsva+어/ecx+두/px+ㄴ/etm
+
+걸로
+	걸/ncn+로/jca
+
+찾았구요
+	찾았구요/ncn
+
+.
+	./sf
+
+
+자유이용권에
+	자유/ncn+이용권/ncn+에/jca
+
+아깝지
+	아깝/paa+지/ecx
+
+않게
+	않/px+게/ecs
+
+놀이기구도
+	놀이기구/ncn+도/jxc
+
+타고
+	타/pvg+고/ecc
+
+눈썰매장도
+	눈썰매장/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+이용해야
+	이용/ncpa+하/xsva+어야/ecs
+
+할텐데
+	하/pvg+ㄹ텐데/ecs
+
+하면서
+	하/pvg+면서/ecc
+
+일단
+	일단/mag
+
+입장을
+	입장/ncpa+을/jco
+
+했구요
+	했구요/ncn
+
+.
+	./sf
+
+
+일단
+	일단/mag
+
+눈썰매장부터
+	눈썰매장/ncn+부터/jxc
+
+들어가보겠습니다
+	들/pvg+어/ecx+가/px+아/ecx+보/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+동문에서는
+	동문/ncn+에서/jca+는/jxc
+
+거리가
+	거리/ncn+가/jcs
+
+꽤
+	끄/pvg+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+후문쪽에
+	후문/ncn+쪽/ncn+에/jca
+
+만차여서
+	만/nnc+차/nbu+이/jp+어서/ecs
+
+어쩔
+	어쩌/paa+ㄹ/etm
+
+수
+	수/nbn
+
+없이
+	없이/mag
+
+더
+	더/mag
+
+안으로
+	안/ncn+으로/jca
+
+들어왔어요
+	들/pvg+어/ecx+오/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+눈썰매장
+	눈썰매장/ncn
+
+입장료는
+	입장료/ncn+는/jxc
+
+자유이용권
+	자유/ncn+이용권/ncn
+
+가진분은
+	가/pvg+아/ecx+지/px+ㄴ/etm+분/nbn+은/jxc
+
+무료구요
+	무료구요/ncn
+
+.
+	./sf
+
+
+입장권만
+	입장권/ncn+만/jxc
+
+구매하신
+	구매/ncpa+하/xsva+시/ep+ㄴ/etm
+
+분은
+	분/nbu+은/jxc
+
+계층구분없이
+	계층구분/ncpa+없이/jca
+
+3,000원입니다
+	3,000/nnc+원/nbu+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-마음이
+	여행/ncpa+이야기/ncpa+-/sd+마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+동문에서는
+	동문/ncn+에서/jca+는/jxc
+
+놀이기구
+	놀이기구/ncn
+
+있는
+	있/px+는/etm
+
+곳을
+	곳/ncn+을/jco
+
+가로질러서
+	가로지르/pvg+어서/ecs
+
+눈썰매장까지
+	눈썰매장/ncn+까지/jxc
+
+걸어가야
+	걷/pvg+어/ecx+가/px+아/ecx
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+눈썰매장만
+	눈썰매장/ncn+만/jxc
+
+이용하실
+	이용/ncpa+하/xsva+시/ep+ㄹ/etm
+
+분들이라면
+	불/pvg+ㄴ/etm+들/nbn+이/jp+라면/ecs
+
+동문쪽보다는
+	동문/ncn+쪽/ncn+보다/jca+는/jxc
+
+후문이
+	후문/ncn+이/jcc
+
+더
+	더/mag
+
+가깝구요
+	가깝구요/ncn
+
+.
+	./sf
+
+
+삼천리동산
+	삼천리/ncn+동산/ncn
+
+공간
+	공간/ncn
+
+안쪽이
+	알/pvg+ㄴ/etm+쪽/nbn+이/jcc
+
+겨울에는
+	겨울/ncn+에/jca+는/jxc
+
+눈썰매장으로
+	눈썰매장/ncn+으로/jca
+
+이용되고
+	이용/ncpa+되/xsvn+고/ecc
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+우리는
+	우리/npp+는/jxc
+
+동문에서
+	동문/ncn+에서/jca
+
+주차하고
+	주차/ncn+하고/jct
+
+가로질러서
+	가로지르/pvg+어서/ecs
+
+귀신동굴
+	귀신/ncn+동굴/ncn
+
+옆
+	옆/ncn
+
+산타
+	산타/ncn
+
+눈썰매장
+	눈썰매장/ncn
+
+글씨를
+	글씨/ncn+를/jco
+
+보고
+	보/px+고/ecc
+
+따라가고
+	따르/pvg+아/ecx+가/px+고/ecc
+
+있는
+	있/px+는/etm
+
+중입니다
+	중/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+자유이용권자인지
+	자유/ncn+이용권/ncn+자/ncn+이/jp+ㄴ지/ecs
+
+입장권자인지
+	입장권/ncn+자/ncn+이/jp+ㄴ지/ecs
+
+확인을
+	확인/ncpa+을/jco
+
+거칩니다
+	거칠/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+연간회원,
+	연간/ncn+회원/ncn+,/sp
+
+자유이용권을
+	자유/ncn+이용권/ncn+을/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+팔목티를
+	팔목/ncn+티/ncn+를/jco
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+입장하면
+	입장/ncpa+하/xsva+면/ecs
+
+무료이용이구요
+	무료이용이구요/ncn
+
+.
+	./sf
+
+
+그외
+	그외/mmd
+
+입장권
+	입장권/ncn
+
+가진
+	가지/pvg+ㄴ/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+눈썰매장
+	눈썰매장/ncn
+
+가격을
+	가격/ncn+을/jco
+
+따로
+	따로/mag
+
+지불해야
+	지불/ncpa+하/xsva+어야/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+가족분들은
+	가족/ncn+분/ncn+들/xsncc+은/jxc
+
+거의
+	거의/mag
+
+눈썰매장으로
+	눈썰매장/ncn+으로/jca
+
+향하고
+	향하/pvg+고/ecc
+
+있었구요
+	있었구요/ncn
+
+.
+	./sf
+
+
+아이들은
+	아이/ncn+들/ncn+은/jxc
+
+놀이기구를
+	놀이기구/ncn+를/jco
+
+타려고
+	타/pvg+려고/ecs
+
+이곳저곳
+	이곳저곳/npd
+
+줄이
+	줄/nbn+이/jcc
+
+짧은
+	짧/paa+은/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+찾아다니더라구요
+	찾아다니/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+짐작은
+	짐작/ncpa+은/jxc
+
+했지만
+	하/px+었/ep+지만/ecs
+
+역시나
+	역시/mag+나/jxc
+
+일요일이라
+	일요일/ncn+이/jp+라/ecs
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+무척이나
+	무척/mag+이나/jxc
+
+붐비고
+	붐비/paa+고/ecc
+
+있었어요
+	있/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+눈썰매장이
+	눈썰매장/ncn+이/jcc
+
+보이네요
+	보이/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+입구에서
+	입구/ncn+에서/jca
+
+부터
+	부터/ncn
+
+빨간
+	빨갛/paa+은/etm
+
+썰매를
+	썰매/ncn+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+이리저리
+	이리저리/mad
+
+다니는
+	다니/pvg+는/etm
+
+사람들로
+	사람들/ncn+로/jca
+
+붐빕니다
+	붐비/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+앞쪽은
+	앞쪽/ncn+은/jxc
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+별로
+	별로/mag
+
+없다
+	없/paa+다/ef
+
+싶은데
+	싶/px+은/etm+데/nbn
+
+썰매장으로
+	썰매/ncn+장/ncn+으로/jca
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+줄이
+	줄/nbn+이/jcc
+
+꽤나
+	끄/pvg+어/ecx+나/px+아/ecx
+
+길어요
+	길/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+썰매장
+	썰매/ncn+장/ncn
+
+앞쪽에
+	앞쪽/ncn+에/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+빨간
+	빨갛/paa+은/etm
+
+썰매들이
+	썰매/ncn+들/ncn+이/jcc
+
+가득
+	가득/mag
+
+쌓여있는데요
+	쌓이/pvg+어/ecx+있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+타실
+	타/pvg+시/ep+ㄹ/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+하나씩
+	하나씩/ncn
+
+들고
+	들/pvg+고/ecc
+
+줄을
+	줄/nbn+을/jco
+
+지어서
+	지/px+어서/ecs
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+전
+	전/nbn
+
+일단
+	일/nnc+단/nbu
+
+사진부터
+	사진/ncn+부터/jxc
+
+몇장
+	몇/nnc+장/nbu
+
+찍고
+	찍/pvg+고/ecc
+
+시작해볼까
+	시작/ncpa+하/xsva+어/ecx+보/px+ㄹ까/ecs
+
+싶어서
+	싶/px+어서/ecs
+
+기웃거렸고,
+	기웃거리/pvg+었/ep+고/ecc+,/sp
+
+다른
+	다른/mma
+
+식구들
+	식구/ncn+들/ncn
+
+썰매하나씩
+	썰매/ncn+하나씩/ncn
+
+들고
+	들/pvg+고/ecc
+
+줄을
+	줄/nbn+을/jco
+
+서는
+	서/pvg+는/etm
+
+대열에
+	대열/ncn+에/jca
+
+합류를
+	합류/ncpa+를/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아
+	아/ii
+
+눈썰매장은
+	눈썰매장/ncn+은/jxc
+
+일반용과
+	일반용/ncn+과/jcj
+
+유아용이
+	유아/ncn+용/ncn+이/jcc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+일반용은
+	일반용/ncn+은/jxc
+
+혼자서도
+	혼자/ncn+서/jca+도/jxc
+
+탈
+	타/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+분들,
+	불/pvg+ㄴ/etm+들/nbn+,/sp
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+타는
+	타/pvg+는/etm
+
+슬로프구요
+	슬로프구요/ncn
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+옆에
+	옆/ncn+에/jca
+
+약간
+	약간/mag
+
+기울기가
+	기울/pvg+기/etn+가/jcs
+
+완만한
+	완만/ncps+하/xsms+ㄴ/etm
+
+슬로프는
+	슬로프/ncn+는/jxc
+
+유아용인데
+	유아/ncn+용/ncn+이/jp+ㄴ데/ecs
+
+부모님과
+	부모님/ncn+과/jcj
+
+동반해서
+	동반/ncn+해서/ncn
+
+눈썰매를
+	눈썰매/ncn+를/jco
+
+타는
+	타/pvg+는/etm
+
+슬로프입니다
+	슬로프입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+어느정도
+	어느정도/ncn
+
+타봤다
+	타/pvg+아/ecx+보/px+아/ep+다/ef
+
+하는
+	하/pvg+는/etm
+
+아이들은
+	아이/ncn+들/ncn+은/jxc
+
+다들
+	다들/ncn
+
+경사가
+	경사/ncr+가/jcc
+
+있는
+	있/px+는/etm
+
+일반용으로
+	일반용/ncn+으로/jca
+
+줄을
+	줄/nbn+을/jco
+
+서지요
+	서/pvg+지/ef+요/jxf
+
+.
+	./sf
+
+
+왼쪽
+	왼쪽/ncn
+
+일반용,
+	일반용/ncn+,/sp
+
+오른쪽
+	오르/pvg+ㄴ/etm+쪽/nbn
+
+유아용
+	유아/ncn+용/ncn
+
+.
+	./sf
+
+
+일반용도
+	일반용/ncn+도/jxc
+
+슬로프
+	슬로프/ncn
+
+양쪽으로
+	양쪽/ncn+으로/jca
+
+줄을
+	줄/nbn+을/jco
+
+지어서
+	지/px+어서/ecs
+
+올라가기
+	오르/pvg+아/ecx+가/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+기다리는
+	기다리/pvg+는/etm
+
+시간이
+	시간/ncn+이/jcc
+
+만만치
+	만/nnc+만/nnc+치/nbu
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+보고는
+	보/px+고/ecs+는/jxc
+
+전
+	전/nbn
+
+그
+	그/mmd
+
+옆에
+	옆/ncn+에/jca
+
+서서
+	서/pvg+어서/ecs
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+분들과
+	불/pvg+ㄴ/etm+들/nbn+과/jcj
+
+슬로프
+	슬로프/ncn
+
+사진을
+	사진/ncn+을/jco
+
+좀
+	좀/mag
+
+담아보려고
+	담/pvg+아/ecx+보/px+려고/ecs
+
+서
+	서/pvg+어/ecx
+
+있었는데요
+	있/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+속도가
+	속도/ncn+가/jcs
+
+꽤
+	꽤/mag
+
+있다보니
+	있다보니/ncn
+
+무엇보다
+	무엇/npd+보다/jca
+
+안전이
+	알/pvg+ㄴ/etm+전/nbn+이/jcc
+
+최고
+	최고/ncn
+
+우선되어야
+	우선/ncpa+되/xsvn+어야/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그러다보니
+	그러/pvd+어다/ecx+보/px+니/ecs
+
+진행하는
+	진행/ncpa+하/xsva+어/ecs+는/jxc
+
+분들
+	불/pvg+ㄴ들/ecs
+
+계속
+	계속/mag
+
+긴장된
+	긴장/ncpa+되/xsvn+ㄴ/etm
+
+방송멘트를
+	방송멘트/ncn+를/jco
+
+하고
+	하/pvg+고/ecc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+앞에도
+	앞/ncn+에/jca+도/jxc
+
+안전요원이
+	안전/ncn+요원/ncn+이/jcc
+
+서서
+	서/pvg+어서/ecs
+
+깃발이
+	깃발/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+부분까지
+	부분/ncn+까지/jxc
+
+오면
+	오/px+면/ecs
+
+속도를
+	속도/ncn+를/jco
+
+줄이라고
+	줄/nbn+이/jp+라/ef+고/jcr
+
+조절을
+	조/nnc+절/nbu+을/jco
+
+해주고
+	하/pvg+어/ecx+주/px+고/ecc
+
+있었어요
+	있/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+뭐
+	뭐/npd
+
+속도를
+	속도/ncn+를/jco
+
+줄이는건
+	줄이는건/ncn
+
+그렇다치고
+	그렇다치/pvg+고/ecc
+
+썰매가
+	썰매/ncn+가/jcs
+
+가는걸
+	가는걸/ncn
+
+맘대로
+	말/px+ㅁ/etn+대로/jca
+
+제어할
+	제/npp+이/jp+어/ecx+하/px+ㄹ/etm
+
+수
+	수/nbn
+
+없기
+	없/paa+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+미리미리
+	미리미리/mag
+
+예방
+	예방/ncpa
+
+...
+	.../se
+
+
+지나치게
+	지나치/pvg+게/ecs
+
+속도를
+	속도/ncn+를/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+건
+	거/nbn+은/jxc
+
+주의를
+	주의/ncn+를/jco
+
+해야겠더라구요
+	하/px+어야겠/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+아이들과
+	아이/ncn+들/ncn+과/jcj
+
+어른들이
+	어른/ncn+들/ncn+이/jcc
+
+같이
+	같/paa+이/xsa
+
+타는
+	타/pvg+는/etm
+
+슬로프이다보니
+	슬로프이다보/ncn+이/jp+니/ecs
+
+부딪히는
+	부딪히/pvg+는/etm
+
+사고가
+	사/pvg+고/ecx+가/px+아/ecx
+
+많아서
+	많/paa+아/ecx
+
+조심스러웠습니다
+	조심/ncpa+스럽/xsmn+었/ep+습니다/ef
+
+.
+	./sf
+
+
+오랜
+	오랜/mma
+
+기다림끝에
+	기다림/ncn+끝/ncn+에/jca
+
+슬로프를
+	슬로프/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+거라
+	것/nbn+이/jp+라/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+다들
+	다들/ncn
+
+표정은
+	표정/ncn+은/jxc
+
+무척이나
+	무척/mag+이나/jxc
+
+밝아요
+	밝/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+몇분을
+	몇/nnc+분/nbu+을/jco
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+달려도
+	달리/pvg+어도/ecs
+
+아주
+	아주/mag
+
+좋을텐데
+	좋/paa+을텐데/ecs
+
+슬로프가
+	슬로프/ncn+가/jcs
+
+넘
+	널/pvg+ㅁ/etn
+
+짧게
+	짧/paa+게/ecs
+
+느껴질
+	느끼/pvg+어/ecx+지/px+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+10분기다리고
+	10분기다리/ncn+이/jp+고/ecc
+
+금방
+	금방/mag
+
+내려온다고
+	내리/pvg+어/ecx+오/px+ㄴ다/ef+고/jcr
+
+하기도
+	하/pvg+기/etn+도/jxc
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+이곳에
+	이곳/npd+에/jca
+
+서
+	서/pvg+어/ecx
+
+있자니
+	있/px+자니/ecs
+
+슬로프
+	슬로프/ncn
+
+안쪽이
+	알/pvg+ㄴ/etm+쪽/nbn+이/jcc
+
+아님에도
+	아니/paa+ㅁ/etn+에/jca+도/jxc
+
+또
+	또/maj
+
+안전에
+	알/pvg+ㄴ/etm+전/nbn+에/jca
+
+문제가
+	문제/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+싶었는지
+	싶/px+었/ep+는지/ecs
+
+나가라고
+	나/pvg+아/ecx+가/px+라/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+또
+	또/maj
+
+쫓겨나서
+	쫓기/pvg+어/ecx+나/px+아/ecx
+
+반대편
+	반대편/ncn
+
+이동하는
+	이동/ncpa+하/xsva+는/etm
+
+길
+	길/ncn
+
+쪽으로
+	쪽/ncn+으로/jca
+
+가보기로
+	가/pvg+아/ecx+보/px+기/etn+로/jca
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+앞쪽으로
+	앞쪽/ncn+으로/jca
+
+지나오다
+	지나/pvg+아/ecx+오/px+다/ef
+
+정면에서
+	정면/ncn+에서/jca
+
+함
+	하/pvg+ㅁ/etn
+
+바라보았는데요
+	바라/pvg+아/ecx+보/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+보니
+	보/px+니/ecs
+
+표정들이
+	표정/ncn+들/ncn+이/jcc
+
+눈에
+	눈/ncn+에/jca
+
+들어옵니다
+	들/pvg+어/ecx+오/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+가만
+	가/pvg+아/ecx+말/px+ㄴ/etm
+
+보면
+	보/px+면/ecs
+
+아이들보다
+	아이/ncn+들/ncn+보다/jca
+
+어른들의
+	어른/ncn+들/ncn+의/jcm
+
+표정이
+	표정/ncn+이/jcc
+
+더
+	더/mag
+
+신났어요
+	신나/pvg+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+속도를
+	속도/ncn+를/jco
+
+제어하지
+	제/npp+이/jp+어/ecx+하/px+지/ecx
+
+못하고
+	못하/px+고/ecc
+
+제
+	저/npp+의/jcm
+
+앞까지
+	앞/ncn+까지/jxc
+
+썰매가
+	썰매/ncn+가/jcs
+
+미끄러져
+	미끄러지/pvg+어/ecx
+
+내려오더라구요
+	내리/pvg+어/ecx+오/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+아이를
+	아이/ncn+를/jco
+
+하나씩
+	하나씩/ncn
+
+안고
+	안/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+키를
+	키/ncn+를/jco
+
+보면
+	보/px+면/ecs
+
+유아용을
+	유아/ncn+용/ncn+을/jco
+
+이용해야
+	이용/ncpa+하/xsva+어야/ecs
+
+더
+	더/mag
+
+맞는거
+	맞는거/ncn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+아무래도
+	아무렇/pad+어도/ecs
+
+슬로프의
+	슬로프/ncn+의/jcm
+
+길이나
+	길/ncn+이나/jcj
+
+각도나
+	각도/ncn+나/jcj
+
+이곳이
+	이곳/npd+이/jcc
+
+더
+	더/mag
+
+신나는
+	신나/pvg+는/etm
+
+눈썰매를
+	눈썰매/ncn+를/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을테니
+	있/px+을테니/ecs
+
+이곳을
+	이곳/npd+을/jco
+
+이용하시나
+	이용/ncpa+하시/ncn+이/jp+나/ecs
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+일반용
+	일반용/ncn
+
+슬로프
+	슬로프/ncn
+
+양쪽으로
+	양쪽/ncn+으로/jca
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+길이
+	길/ncn+이/jcc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이쪽으로도
+	이쪽/ncn+으로/jca+도/jxc
+
+슬로프
+	슬로프/ncn
+
+윗쪽으로
+	윗쪽/ncn+으로/jca
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+줄을
+	줄/nbn+을/jco
+
+길게
+	길/paa+게/ecs
+
+섰습니다
+	서/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+저도
+	저/npp+도/jxc
+
+따라
+	따르/pvg+아/ecx
+
+올라가면서
+	오르/pvg+아/ecx+가/px+면서/ecc
+
+중간정도에서
+	중간/ncn+정도/ncn+에서/jca
+
+멈춰서
+	멈추/pvg+어서/ecs
+
+사진을담아보았는데요
+	사진을담아보았는데요/ncn
+
+.
+	./sf
+
+
+좀더
+	좀더/mag
+
+가까이
+	가까이/mag
+
+눈썰매를
+	눈썰매/ncn+를/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+분들의
+	불/pvg+ㄴ/etm+들/nbn+의/jcm
+
+표정이
+	표정/ncn+이/jcc
+
+보이네요
+	보이/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+생각보다
+	생각/ncpa+보다/jca
+
+속도가
+	속도/ncn+가/jcs
+
+꽤
+	끄/pvg+어/ecx
+
+빠릅니다
+	빠르/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+보는
+	보/px+는/etm
+
+저도
+	저/npp+도/jxc
+
+그렇게
+	그렇/pad+게/ecs
+
+느껴지니
+	느끼/pvg+어/ecx+지/px+니/ecs
+
+아마도
+	아마/mag+도/jxc
+
+타는
+	타/pvg+는/etm
+
+사람은
+	사람/ncn+은/jxc
+
+소리
+	소리/ncn
+
+지를만큼
+	지르/pvg+ㄹ/etm+만큼/nbn
+
+빠른
+	빠르/paa+ㄴ/etm
+
+속도를
+	속도/ncn+를/jco
+
+체감하면서
+	체감하/ncn+이/jp+면서/ecc
+
+스릴만점일
+	스릴/ncn+만점/ncn+이/jp+ㄹ/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그나저나조카들은
+	그나저나조카들/ncn+은/jxc
+
+언제
+	언제/mag
+
+내려오나
+	내리/pvg+어/ecx+오/px+나/ecs
+
+..
+	./sf+./sf
+
+
+인상착의가같은
+	인상착의가같/ncn+은/jxc
+
+아이들
+	아이/ncn+들/ncn
+
+찾느라고
+	찾/pvg+느라고/ecs
+
+한참을
+	한참/ncn+을/jco
+
+기다렸습니다
+	기다리/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+아이들마다
+	아이/ncn+들/ncn+마다/jxc
+
+뚫어져라
+	뚫/pvg+어/ecx+지/px+어라/ef
+
+보지만
+	보/pvg+지/ecx+말/px+ㄴ/etm
+
+조카가
+	조카/ncn+가/jcs
+
+눈에
+	눈/ncn+에/jca
+
+들어오지
+	들/pvg+어/ecx+오/px+지/ecx
+
+않네요
+	않/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+신나게
+	신나/pvg+게/ecs
+
+소리지르고
+	소리지르/pvg+고/ecc
+
+질주하는
+	질주/ncpa+하/xsva+는/etm
+
+이들만이
+	이/ncn+들/xsncc+만이/jcc
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+슬로프에서
+	슬로프/ncn+에서/jca
+
+내려오다
+	내리/pvg+어/ecx+오/px+다/ef
+
+갑자기
+	갑자기/mag
+
+기도하는
+	기도/ncpa+하/xsva+는/etm
+
+건
+	거/nbn+은/jxc
+
+아니구요
+	아니구요/ncn
+
+.
+	./sf
+
+
+표정을
+	표정/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+알겠지만
+	알/pvg+겠/ep+지만/ecs
+
+이
+	이/mmd
+
+분과
+	분/nbu+과/jct
+
+부딪혀서
+	부딪히/pvg+어서/ecs
+
+넘어진
+	넘/pvg+어/ecx+지/px+ㄴ/etm
+
+아이입니다
+	아이/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+무릅까지
+	무릅/ncn+까지/jxc
+
+꿇고
+	꿇/pvg+고/ecc
+
+펑펑
+	펑펑/mag
+
+울고
+	울/pvg+고/ecc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+심하게
+	심하/paa+게/ecs
+
+넘어져서
+	넘/pvg+어/ecx+지/px+어서/ecs
+
+어디
+	어디/mad
+
+아픈것은
+	아프/paa+ㄴ/etm+것/nbn+은/jxc
+
+아니구요
+	아니구요/ncn
+
+.
+	./sf
+
+
+신나게
+	신나/pvg+게/ecs
+
+타지
+	타/pvg+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+억울한듯
+	억울/ncps+하/xsms+ㄴ/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+옆에
+	옆/ncn+에/jca
+
+아줌마는
+	아줌마/ncn+는/jxc
+
+어쩔줄
+	어쩌/paa+ㄹ/etm+줄/nbn
+
+몰라하고
+	모르/pvg+아/ecx+하/px+어/ef+고/jcr
+
+아이는
+	아이/ncn+는/jxc
+
+울고
+	울/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+아이엄마가
+	아이/ncn+엄마/ncn+가/jcs
+
+썰매를
+	썰매/ncn+를/jco
+
+두고
+	두/pvg+고/ecc
+
+올라와서
+	오르/pvg+아/ecx+오/px+아/ecx
+
+아이를
+	아이/ncn+를/jco
+
+달래
+	달래/pvg+어/ecx
+
+내려가더군요
+	내리/pvg+어/ecx+가/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+양쪽으로
+	양쪽/ncn+으로/jca
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+올라가보니
+	오르/pvg+아/ecx+가/px+아/ecx+보/px+니/ecs
+
+기다리는
+	기다리/pvg+는/etm
+
+시간이
+	시간/ncn+이/jcc
+
+꽤
+	꽤/mag
+
+길어지고
+	길/paa+어/ecx+지/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+길게
+	길/paa+게/ecs
+
+줄을
+	줄/nbn+을/jco
+
+서
+	서/pvg+어/ecx
+
+있고
+	있/px+고/ecc
+
+출발선에도
+	출발/ncpa+선/ncn+에/jca+도/jxc
+
+세줄정도
+	세줄정/ncn+도/jxc
+
+대기하고
+	대/nbu+이/jp+기/etn+하고/jct
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+그래서인지
+	그래서/ncn+이/jp+ㄴ지/ecs
+
+아무리
+	아무리/mag
+
+기다려도
+	기다리/pvg+어도/ecs
+
+형부언니랑
+	형부/ncn+언니/ncn+랑/jxc
+
+조카들이
+	조카/ncn+들/ncn+이/jcc
+
+내려오질
+	내려오질/ncn
+
+않아요
+	않/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+내가
+	나/npp+가/jcs
+
+못본
+	못본/ncn
+
+사이에
+	사이/ncn+에/jca
+
+내려갔나
+	내리/pvg+어/ecx+가/px+아/ep+나/ef
+
+싶기도
+	싶/px+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+어찌된건지
+	어찌되/pvd+ㄴ/etm+것/nbn+이/jp+ㄴ지/ecs
+
+모르겠더라구요
+	모르/pvg+겠/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+계속
+	계속/mag
+
+여기
+	여기/mad
+
+서
+	서/pvg+어/ecx
+
+있을수도
+	있/px+을/etm+수/nbn+도/jxc
+
+없고
+	없/paa+고/ecc
+
+해서
+	하/pvg+어서/ecs
+
+...
+	.../se
+
+
+눈치를
+	눈치/ncn+를/jco
+
+보고
+	보/px+고/ecc
+
+있는
+	있/px+는/etm
+
+중입니다
+	중/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+혹여
+	혹여/mag
+
+줄서는
+	줄/nbn+서/jca+는/jxc
+
+이들에게
+	이/ncn+들/xsncc+에게/jca
+
+방해는
+	방해/ncpa+는/jxc
+
+되지
+	되/pvg+지/ecx
+
+않나
+	않/px+나/ef
+
+싶어서요
+	싶/px+어서/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+새치기
+	새치기/ncpa
+
+하는
+	하/pvg+는/etm
+
+건
+	거/nbn+은/jxc
+
+아니니
+	아니/paa+니/ecs
+
+걱정안해도
+	걱정/ncpa+안해/ncn+도/jxc
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+한참을
+	한참/ncn+을/jco
+
+출발하는
+	출발/ncpa+하/xsva+는/etm
+
+이들을
+	이/ncn+들/xsncc+을/jco
+
+바라보고
+	바라/pvg+아/ecx+보/px+고/ecc
+
+있다가
+	있/px+다가/ecs
+
+조카랑
+	조카/ncn+랑/jxc
+
+인상착의가
+	인상착의/ncn+가/jcs
+
+비슷한
+	비슷/ncps+하/xsms+ㄴ/etm
+
+아이가
+	아이/ncn+가/jcs
+
+휑하니
+	휑하/paa+니/ecs
+
+내려가는걸
+	내려가는걸/ncn
+
+봐서
+	보/pvg+아/ecx
+
+그애인줄
+	그애인줄/ncn
+
+알고
+	알/pvg+고/ecx
+
+열심히
+	열심히/mag
+
+담았었거든요
+	담/pvg+았었/ep+거든/ef+요/jxf
+
+.
+	./sf
+
+
+그리고도
+	그리고/maj+도/jxc
+
+한참을
+	한참/ncn+을/jco
+
+서서
+	서/pvg+어서/ecs
+
+신나게
+	신나/pvg+게/ecs
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+아이들을
+	아이/ncn+들/ncn+을/jco
+
+구경하고
+	구경/ncn+하고/jct
+
+있었는데요
+	있/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+갑자기
+	갑자기/mag
+
+앞에서
+	앞/ncn+에서/jca
+
+한아이가
+	한아이/ncn+가/jcs
+
+내려오면서
+	내리/pvg+어/ecx+오/px+면서/ecc
+
+이렇게
+	이렇/pad+게/ecs
+
+앞으로
+	앞/ncn+으로/jca
+
+꼬꾸라지면서
+	꼬꾸라지/pvg+면서/ecc
+
+넘어지는
+	넘/pvg+어/ecx+지/px+는/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+얼마나
+	얼마나/mag
+
+놀랐는지
+	놀라/pvg+아/ep+는지/ecs
+
+...
+	.../se
+
+
+소리가
+	소리/ncn+가/jcs
+
+절로
+	절/ncn+로/jca
+
+나오더라구요
+	나/pvg+아/ecx+오/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+아래에서
+	아래/ncn+에서/jca
+
+안전요원이
+	안전/ncn+요원/ncn+이/jcc
+
+급히
+	급히/mag
+
+올라왔는데
+	오르/pvg+아/ecx+오/px+아/ep+ㄴ데/ecs
+
+그전에
+	그전/ncn+에/jca
+
+아이가
+	아이/ncn+가/jcs
+
+벌떡
+	벌떡/mag
+
+일어나서
+	일어나/pvg+아/ecx
+
+걸어가긴
+	걸어가긴/ncn
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+얼굴에
+	얼굴/ncn+에/jca
+
+눈을
+	눈/ncn+을/jco
+
+잔뜩
+	잔뜩/mag
+
+묻히고는
+	묻히/pvg+고/ecs+는/jxc
+
+...
+	.../se
+
+
+크게
+	크/paa+게/ecs
+
+다치치는
+	다치치/ncn+는/jxc
+
+않은듯
+	않/px+은/etm+듯/nbs
+
+직원과
+	직원/ncn+과/jct
+
+손잡고
+	손잡/pvg+고/ecc
+
+내려가는
+	내리/pvg+어/ecx+가/px+는/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+보니
+	보/px+니/ecs
+
+안심이
+	안심/ncn+이/jcc
+
+되긴했는데
+	되긴했는데/ncn
+
+...
+	.../se
+
+
+얼굴이
+	얼굴/ncn+이/jcc
+
+상하지
+	상하/pvg+지/ecx
+
+않았을지
+	않/px+아/ep+ㄹ지/ecs
+
+걱정스럽기는
+	걱정/ncpa+스럽/xsmn+기/etn+는/jxc
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+어른들
+	어른/ncn+들/ncn
+
+없이도
+	없이/mag+도/jxc
+
+아이들끼리
+	아이/ncn+들/ncn+끼리/jxc
+
+부지런히
+	부지런히/mag
+
+슬로프로
+	슬로프/ncn+로/jca
+
+올라가고
+	오르/pvg+아/ecx+가/px+고/ecc
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+아이들은
+	아이/ncn+들/ncn+은/jxc
+
+기다리는
+	기다리/pvg+는/etm
+
+시간
+	시간/nbu
+
+그런건
+	그런건/ncn
+
+별로
+	별로/mag
+
+방해요소가
+	방해/ncpa+요소/ncn+가/jcs
+
+안되나
+	안되/paa+나/ecs
+
+봐요
+	보/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+잠깐
+	잠깐/mag
+
+신나게
+	신나/pvg+게/ecs
+
+내려와도
+	내리/pvg+어/ecx+오/px+아/ecs
+
+기꺼이
+	기꺼이/mag
+
+기다릴
+	기다리/pvg+ㄹ/etm
+
+줄
+	주/px+ㄹ/etm
+
+아는거
+	아는거/ncn
+
+같기도
+	같/paa+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+...
+	.../se
+
+
+되레
+	되레/mag
+
+어른들은
+	어른/ncn+들/ncn+은/jxc
+
+몇십분
+	몇/nnc+십/nnc+분/nbu
+
+기다리고
+	기다리/pvg+고/ecc
+
+눈깜짝사이에
+	눈깜짝사이/ncn+에/jca
+
+내려온다고
+	내리/pvg+어/ecx+오/px+ㄴ다/ef+고/jcr
+
+시간으로
+	시간/nbu+으로/jca
+
+환산해서
+	환산/ncpa+하/xsva+어서/ecs
+
+가치를
+	가치/ncn+를/jco
+
+이야기
+	이야기/ncpa
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+소리를
+	소리/ncn+를/jco
+
+들으면서
+	들/pvg+면서/ecc
+
+앞쪽으로
+	앞쪽/ncn+으로/jca
+
+내려와서
+	내리/pvg+어/ecx+오/px+아/ecx
+
+기다려야겠다
+	기다리/pvg+어야겠/ep+다/ef
+
+싶어서
+	싶/px+어서/ecs
+
+가보니
+	가/pvg+아/ecx+보/px+니/ecs
+
+...
+	.../se
+
+
+때마침
+	때마침/mag
+
+그때야
+	그때/ncn+이/jp+야/ef
+
+식구들이
+	식구/ncn+들/ncn+이/jcc
+
+타고
+	타/pvg+고/ecc
+
+내려오더라구요
+	내리/pvg+어/ecx+오/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+몇번
+	몇/nnc+번/nbu
+
+탄거냐고
+	타/pvg+ㄴ/etm+것/nbn+이/jp+냐/ef+고/jcr
+
+했더니
+	하/px+었/ep+더니/ecs
+
+이번이
+	이/nnc+번/nbu+이/jcc
+
+첨탄거라고
+	첨탄거/ncn+이/jp+라/ef+고/jcr
+
+하는
+	하/pvg+는/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+헉.
+	헉./ncn
+
+.
+	./sf
+
+
+난
+	나/px+ㄴ/etm
+
+그래도
+	그래도/maj
+
+두세번은
+	두/nnc+세/nnc+번/nbu+은/jxc
+
+탔을
+	트/pvg+었/ep+을/etm
+
+줄
+	줄/nbn
+
+알고
+	알/pvg+고/ecx
+
+나고
+	나/px+고/ecc
+
+함
+	하/pvg+ㅁ/etn
+
+끼어볼까
+	끼/pvg+어/ecx+보/px+ㄹ까/ecs
+
+했더니
+	하/px+었/ep+더니/ecs
+
+..
+	./sf+./sf
+
+
+올라가서도
+	오르/pvg+아/ecx+가/px+아/ecs
+
+한참이나
+	한참/ncn+이나/jcj
+
+기다려서
+	기다리/pvg+어서/ecs
+
+탔다고
+	트/pvg+었/ep+다/ef+고/jcr
+
+더이상
+	더이상/mag
+
+못타겠다고
+	못타/ncn+이/jp+겠/ep+다/ef+고/jcr
+
+한번
+	한/nnc+번/nbu
+
+타고는
+	타/pvg+아/ef+고/jcr+는/jxc
+
+포기를
+	포/ncn+이/jp+기/etn+를/jco
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+이런이런
+	이런이런/ncn
+
+..
+	./sf+./sf
+
+
+휴일날
+	휴일/ncn+날/ncn
+
+이용하니
+	이용/ncpa+하/xsva+니/ecs
+
+이런
+	이런/mmd
+
+단점이
+	단점/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+주중에
+	주중/ncn+에/jca
+
+눈썰매장을
+	눈썰매장/ncn+을/jco
+
+가서
+	가/pvg+서/ecs
+
+실컷
+	실컷/mag
+
+지치도록
+	지치/pvg+도록/ecs
+
+타봐야
+	타/pvg+아/ecx+보/px+아/ecx
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+말입니다
+	말/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+그래서
+	그래서/maj
+
+차선책으로
+	차선책/ncn+으로/jca
+
+옆에
+	옆/ncn+에/jca
+
+눈썰매놀이터가
+	눈썰매/ncn+놀이터/ncn+가/jcs
+
+있기에
+	있/px+기/etn+에/jca
+
+그곳으로
+	그곳/ncn+으로/jca
+
+이동해
+	이동/ncn+해/ncn
+
+보기로
+	보/px+기/etn+로/jca
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+여긴
+	여기/pvg+ㄴ/etm
+
+슬로프
+	슬로프/ncn
+
+옆으로
+	옆/ncn+으로/jca
+
+평지에
+	평지/ncn+에/jca
+
+눈을
+	눈/ncn+을/jco
+
+쌓아놓고
+	쌓/pvg+아/ecx+놓/px+고/ecc
+
+눈썰매기구로
+	눈썰매/ncn+기구/ncn+로/jca
+
+놀수
+	놀/pvg+ㄹ/etm+수/nbn
+
+있도록
+	있/px+도록/ecs
+
+해
+	하/pvg+어/ecx
+
+두었는데요
+	두/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+말이
+	말/ncn+이/jcc
+
+놀이터이지
+	놀이터/ncn+이/jp+지/ecs
+
+부모님들
+	부모님/ncn+들/ncn
+
+중노동장소라고
+	중노동/ncn+장소/ncn+이/jp+라/ef+고/jcr
+
+해야지요
+	하/px+어야지/ef+요/jxf
+
+.
+	./sf
+
+
+아이들
+	아이/ncn+들/ncn
+
+썰매
+	썰매/ncn
+
+끌어주느라고
+	끌/pvg+어/ecx+주/px+느라고/ecs
+
+헥헥
+	헥헥/ncn
+
+많이
+	많/paa+이/xsa
+
+뛰어야
+	뛰/pvg+어야/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+여기도
+	여기/npd+도/jxc
+
+조금
+	조금/mag
+
+경사를
+	경사/ncr+를/jco
+
+둬서
+	두/pvg+어서/ecs
+
+뛰어서라도
+	뛰/pvg+어서/ecs+라도/jxc
+
+잘
+	잘/mag
+
+끌려올
+	끌리/pvg+어/ecx+오/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+구조면
+	구조면/ncn
+
+좀
+	좀/mag
+
+수월할텐데
+	수월/ncps+하/xsms+ㄹ텐데/ecs
+
+평편한
+	평편한/ncn
+
+곳에서
+	곳/ncn+에서/jca
+
+썰매를
+	썰매/ncn+를/jco
+
+끌려니
+	끌/pvg+려니/ecs
+
+잘
+	잘/mag
+
+당겨와야지
+	당기/pvg+어/ecx+오/px+아/ecs
+
+말입니다
+	말/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+아이들은
+	아이/ncn+들/ncn+은/jxc
+
+속도가
+	속도/ncn+가/jcs
+
+안나서
+	안나/ncn+서/jca
+
+덜
+	덜/mag
+
+신나고
+	신나/pvg+고/ecc
+
+어른들은
+	어른/ncn+들/ncn+은/jxc
+
+뛰어다녀야하니
+	뛰어다니/pvg+어야/ecx+하/px+니/ecs
+
+숨차고
+	숨차/paa+고/ecc
+
+힘들구요
+	힘들구요/ncn
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+그래도
+	그래도/maj
+
+조카들은
+	조카/ncn+들/ncn+은/jxc
+
+마냥
+	마냥/mag
+
+좋답니다
+	좋/paa+답니다/ef
+
+.
+	./sf
+
+
+놀이방법은
+	놀이/ncn+방법/ncn+은/jxc
+
+아이들
+	아이/ncn+들/ncn
+
+머리속에서
+	머리속/ncn+에서/jca
+
+다
+	다/mag
+
+나옵니다
+	나/pvg+아/ecx+오/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+가장자리쪽이
+	가장/ncn+자리/ncn+쪽/ncn+이/jcc
+
+조금
+	조금/mag
+
+경사가
+	경사/ncr+가/jcc
+
+있으니
+	있/px+으니/ecs
+
+그곳에서
+	그곳/ncn+에서/jca
+
+보드를
+	보드/ncn+를/jco
+
+타듯이
+	타/pvg+듯이/ecs
+
+썰매를
+	썰매/ncn+를/jco
+
+타는
+	타/pvg+는/etm
+
+재미에
+	재미/ncn+에/jca
+
+빠졌습니다
+	빠지/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+예준이는
+	예준/ncn+이/jp+는/etm
+
+보드를
+	보드/ncn+를/jco
+
+배우고
+	배우/pvg+고/ecc
+
+싶은지
+	싶/px+은/etm+지/nbn
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+보드를
+	보드/ncn+를/jco
+
+탄다고
+	타/pvg+ㄴ다/ef+고/jcr
+
+포즈를
+	포즈/ncn+를/jco
+
+취하고
+	취하/pvg+고/ecc
+
+조금
+	조금/mag
+
+미끄러져
+	미끄러지/pvg+어/ecx
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+그냥
+	그냥/mag
+
+좋은가
+	좋/paa+은가/ef
+
+보더라구요
+	보/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+그러다
+	그러/pvd+어다/ecs
+
+한번
+	한/nnc+번/nbu
+
+엉덩방아를
+	엉덩방아/ncn+를/jco
+
+찧었는데
+	찧/pvg+었/ep+는데/ecs
+
+얼마나
+	얼마나/mag
+
+아픈지는
+	아프/paa+ㄴ지/ecs+는/jxc
+
+모르겠지만
+	모르/pvg+겠/ep+지만/ecs
+
+서럽게도
+	서럽/paa+게/ecs+도/jxc
+
+울더라구요
+	울/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+보드
+	보드/ncn
+
+배우면
+	배우/pvg+면/ecs
+
+이것보다
+	이것/npd+보다/jca
+
+더
+	더/mag
+
+많이
+	많/paa+이/xsa
+
+넘어져야하는데
+	넘/pvg+어/ecx+지/px+어야/ecx+하/px+ㄴ데/ecs
+
+이걸로
+	이걸/ncn+로/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+울면
+	울/pvg+면/ecs
+
+어떻게
+	어떻/pad+게/ecs
+
+배우냐고
+	배우/ncn+이/jp+냐/ef+고/jcr
+
+했더니
+	하/px+었/ep+더니/ecs
+
+그래도
+	그래도/maj
+
+엉덩이가
+	엉덩이/ncn+가/jcs
+
+아프다고
+	아프/paa+다/ef+고/jcr
+
+....
+	.../se+./sf
+
+
+앙앙
+	앙앙/mag
+
+...
+	.../se
+
+
+썰매끄는
+	썰매끄/ncn+는/jxc
+
+것도
+	것/nbn+도/jxc
+
+지루해지니
+	지루/ncps+하/xsms+어/ecx+지/px+니/ecs
+
+한쪽에서는
+	하/pvg+ㄴ/etm+쪽/nbn+에서/jca+는/jxc
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+이글루를
+	이글루/ncn+를/jco
+
+만들고
+	만들/pvg+고/ecc
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+눈덩이를
+	눈덩이/ncn+를/jco
+
+어디서
+	어디/npd+서/jca
+
+구했는지
+	구하/pvg+었/ep+는지/ecs
+
+...
+	.../se
+
+
+나란히
+	나란히/mag
+
+모아서
+	모으/pvg+아/ecx
+
+탑을
+	탑/ncn+을/jco
+
+쌓듯이
+	쌓/pvg+듯이/ecs
+
+하고
+	하/pvg+고/ecc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+어른들은
+	어른/ncn+들/ncn+은/jxc
+
+옆에서
+	옆/ncn+에서/jca
+
+이제
+	이제/mag
+
+그만
+	그/npp+만/jxc
+
+가자
+	가/px+자/ecc
+
+하고
+	하/pvg+고/ecc
+
+있고
+	있/px+고/ecc
+
+아이들은
+	아이/ncn+들/ncn+은/jxc
+
+이것만
+	이것/npd+만/jxc
+
+하고
+	하/pvg+고/ecc
+
+가요
+	가/px+아/ef+요/jxf
+
+...
+	.../se
+
+
+미루고
+	미루/pvg+고/ecc
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+작은
+	작/paa+은/etm
+
+아이가
+	아이/ncn+가/jcs
+
+들어갈만한
+	들/pvg+어/ecx+가/px+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+이글루가
+	이글루/ncn+가/jcs
+
+과연
+	과연/mag
+
+나올지
+	나/pvg+아/ecx+오/px+ㄹ지/ecs
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+가끔
+	가끔/mag
+
+부모님이
+	부모님/ncn+이/jcc
+
+아이
+	아이/ncn
+
+셋을
+	셋/nnc+을/jco
+
+한꺼번에
+	한꺼번에/mag
+
+끄는걸
+	끄는걸/ncn
+
+보고
+	보/px+고/ecc
+
+안쓰러웠는데
+	안쓰러웠는데/ncn
+
+이렇게
+	이렇/pad+게/ecs
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+부모님을
+	부모님/ncn+을/jco
+
+끌어주기도
+	끌/pvg+어/ecx+주/px+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+하나는
+	하/pvg+어/ecx+나/px+는/etm
+
+당기고
+	당기/ncn+이/jp+고/ecc
+
+하나는
+	하나/nnc+는/jxc
+
+밀고
+	밀/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+참
+	참/ii
+
+보기
+	보/px+기/etn
+
+좋지요
+	좋/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+가는
+	가/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+있음
+	있/px+음/etn
+
+오는
+	오/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+있고
+	있/px+고/ecc
+
+...
+	.../se
+
+
+엄마
+	엄마/ncn
+
+아빠를
+	아빠/ncn+를/jco
+
+끌어주는
+	끌/pvg+어/ecx+주/px+는/etm
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+기특해
+	기특/ncps+하/xsms+어/ecx
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+놀이공원에서도
+	놀이공원/ncn+에서/jca+도/jxc
+
+쉴
+	쉬/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+이가
+	이/npd+가/jcc
+
+있었으니
+	있/px+었/ep+으니/ecs
+
+...
+	.../se
+
+
+이
+	이/mmd
+
+아이는
+	아이/ncn+는/jxc
+
+핸드폰을
+	핸드폰/ncn+을/jco
+
+꺼내서
+	꺼내/pvg+어서/ecs
+
+어디론가
+	어디론/ncn+가/jcs
+
+마구
+	마구/mag
+
+눌러대고
+	누르/pvg+어/ecx+대/px+어/ef+고/jcr
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그리곤
+	그리/pvg+곤/ecs
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+소리로
+	소리/ncn+로/jca
+
+옹알옹알~~
+	옹알옹알~~/ncn
+
+"그일
+	"/sl+그/npd+이/jp+ㄹ/etm
+
+처리했어
+	처리/ncpa+하/xsva+었/ep+어/ef
+
+?"
+	?/sf+"/sl
+
+
+뭐
+	뭐/npd
+
+그러는
+	그러/pvd+는/etm
+
+것처럼요
+	것처럼요/ncn
+
+.
+	./sf
+
+
+장난감
+	장난감/ncn
+
+핸드폰을
+	핸드폰/ncn+을/jco
+
+꺼내서
+	꺼내/pvg+어서/ecs
+
+기분좋게
+	기분좋/paa+게/ecs
+
+눌러대더니
+	누르/pvg+어/ecx+대/px+더니/ecs
+
+뭐라고뭐라고
+	뭐라고뭐/ncn+이/jp+라/ef+고/jcr
+
+소리를
+	소리/ncn+를/jco
+
+지르고
+	지르/pvg+고/ecc
+
+한바탕
+	한바탕/mag
+
+웃고
+	웃/pvg+고/ecc
+
+...
+	.../se
+
+
+그러더라구요
+	그러/pvd+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+요즘
+	요즘/mag
+
+한참
+	한참/mag
+
+전화기에
+	전화기/ncn+에/jca
+
+관심을
+	관심/ncn+을/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+있는
+	있/px+는/etm
+
+아이인가
+	아이/ncn+이/jp+ㄴ가/ef
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+눈썰매장은
+	눈썰매장/ncn+은/jxc
+
+그렇다치고
+	그렇다치/pvg+고/ecc
+
+그럼
+	그렇/pad+ㅁ/etn
+
+전통썰매를
+	전통/ncn+썰매/ncn+를/jco
+
+함
+	하/pvg+ㅁ/etn
+
+타러가볼까
+	타러가볼까/ncn
+
+하고
+	하/pvg+고/ecc
+
+찾아갔는데요
+	찾/pvg+아/ecx+가/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이곳또한
+	이곳또한/ncn
+
+만만치
+	만/nnc+만/nnc+치/nbu
+
+않더라구요
+	않/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+강물이
+	강물/ncn+이/jcc
+
+꽝꽝
+	꽝꽝/mag
+
+얼어서
+	얼/pvg+어서/ecs
+
+신나게
+	신나/pvg+게/ecs
+
+타면
+	타/pvg+면/ecs
+
+좋을거
+	좋을거/ncn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+오른쪽으로
+	오르/pvg+ㄴ/etm+쪽/nbn+으로/jca
+
+가면
+	가/px+면/ecs
+
+길게
+	길/paa+게/ecs
+
+줄을
+	줄/nbn+을/jco
+
+지어
+	지/px+어/ecx
+
+서
+	서/pvg+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+무슨
+	무슨/mmd
+
+줄인가
+	줄/nbn+이/jp+ㄴ가/ef
+
+했더니
+	하/px+었/ep+더니/ecs
+
+지금
+	지금/mag
+
+타고
+	타/pvg+고/ecc
+
+계신분들이
+	계신/ncpa+분/ncn+들/xsncc+이/jcc
+
+타기
+	타/pvg+기/etn
+
+싫어서
+	싫/paa+어서/ecs
+
+나오면
+	나/pvg+아/ecx+오/px+면/ecs
+
+그
+	그/mmd
+
+썰매를
+	썰매/ncn+를/jco
+
+받아서
+	받/pvg+아/ecx
+
+다음분들이
+	다음/ncn+분/ncn+들/xsncc+이/jcc
+
+들어가고
+	들/pvg+어/ecx+가/px+고/ecc
+
+..
+	./sf+./sf
+
+
+또
+	또/maj
+
+기다리고
+	기다리/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+시스템이더라구요
+	시스템/ncn+이/jp+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+좁은
+	좁/paa+은/etm
+
+공간에
+	공간/ncn+에/jca
+
+다
+	다/mag
+
+들어갈
+	들/pvg+어/ecx+가/px+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+없는
+	없/paa+는/etm
+
+일이긴
+	일이긴/ncn
+
+하지만
+	하/pvg+지만/ecs
+
+이분들이
+	이분/ncpa+들/xsncc+이/jcc
+
+언제
+	언제/mag
+
+그만탈
+	그만탈/ncn
+
+줄
+	줄/nbn
+
+알고
+	알/pvg+고/ecx
+
+하염없이
+	하염없/paa+이/xsam
+
+기다린단
+	기다리/pvg+ㄴ단/etm
+
+말인가요
+	말/ncn+이/jp+ㄴ가/ef+요/jxf
+
+.
+	./sf
+
+
+몇분
+	몇/nnc+분/nbu
+
+서서
+	서/pvg+어서/ecs
+
+기다리다
+	기다리/pvg+다/ef
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+없고
+	없/paa+고/ecc
+
+..
+	./sf+./sf
+
+
+이
+	이/mmd
+
+기다림이
+	기다리/pvg+ㅁ/etn+이/jcs
+
+언제까지
+	언제/npd+까지/jxc
+
+될지
+	되/pvg+ㄹ지/ecs
+
+예측도
+	예측/ncpa+도/jxc
+
+안되니
+	안되/paa+니/ecs
+
+결국
+	결국/mag
+
+포기하고
+	포/ncn+이/jp+기/etn+하고/jct
+
+놀이기구를
+	놀이기구/ncn+를/jco
+
+타러
+	타/pvg+러/ecs
+
+가기로
+	가/px+기/etn+로/jca
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+곳은
+	곳/ncn+은/jxc
+
+개인썰매를
+	개인/ncn+썰매/ncn+를/jco
+
+가져왔음
+	가/pvg+아/ecx+지/px+어/ecx+오/px+아/ep+ㅁ/etn
+
+더
+	더/mag
+
+편할뻔
+	편하/paa+ㄹ/etm+뻔/nbs
+
+했나요
+	하/px+었/ep+나/ef+요/jxf
+
+.
+	./sf
+
+
+썰매없는
+	썰매/ncn+없/xsmn+는/etm
+
+아이가
+	아이/ncn+가/jcs
+
+아빠의
+	아빠/ncn+의/jcm
+
+손을
+	손/ncn+을/jco
+
+잡고
+	잡/pvg+고/ecc
+
+쪼그리고
+	쪼그리/pvg+고/ecc
+
+얼음을
+	얼음/ncn+을/jco
+
+지치는
+	지치/pvg+는/etm
+
+모습도
+	모습/ncn+도/jxc
+
+보이네요
+	보이/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+여튼
+	여튼/ncn
+
+주말휴일은
+	주말/ncn+휴일/ncn+은/jxc
+
+어디에든
+	어디/npd+에/jca+든/jxc
+
+사람들로
+	사람들/ncn+로/jca
+
+넘쳐납니다
+	넘치/pvg+어/ecx+나/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+올겨울
+	올겨울/ncn
+
+눈썰매는
+	눈썰매/ncn+는/jxc
+
+실컷
+	실컷/mag
+
+타봐야지
+	타/pvg+아/ecx+보/px+아/ecs
+
+했었는데
+	하/px+었었/ep+는데/ecs
+
+서울랜드에서도
+	서울랜드/ncn+에서/jca+도/jxc
+
+실패를
+	실패/ncn+를/jco
+
+하게
+	하/pvg+게/ecs
+
+되었네요
+	되/pvg+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+휴일에는
+	휴일/ncn+에/jca+는/jxc
+
+아무래도
+	아무렇/pad+어도/ecs
+
+맘껏
+	맘껏/mag
+
+탄다는건
+	탄다는건/ncn
+
+불가능한거
+	불가능한거/ncn
+
+같구요
+	같구요/ncn
+
+.
+	./sf
+
+
+주중에나
+	주중/ncn+에/jca+나/jxc
+
+서울근교
+	서울근교/ncn
+
+서울시내눈썰매장을
+	서울시내/ncn+눈썰매장/ncn+을/jco
+
+찾아봐야할
+	찾/pvg+아/ecx+보/px+아/ecx+하/px+ㄹ/etm
+
+거
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+서울랜드는
+	서울랜드/ncn+는/jxc
+
+서울과도
+	서울/ncn+과/jct+도/jxc
+
+가깝고
+	가깝/paa+고/ecc
+
+무료입장이나
+	무료입장/ncn+이나/jcj
+
+제휴카드
+	제휴/ncpa+카드/ncn
+
+할인혜택이
+	할인혜택/ncn+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+저렴하게
+	저렴/ncps+하/xsms+게/ecs
+
+이용가능하다는
+	이용가능/ncps+하/xsms+다/ef+는/etm
+
+것이
+	것/nbn+이/jcc
+
+장점이구요
+	장점이구요/ncn
+
+.
+	./sf
+
+
+주말보다는
+	주말/ncn+보다/jca+는/jxc
+
+이왕이면
+	이왕/ncn+이/jp+면/ecs
+
+주중으로
+	주중/ncn+으로/jca
+
+이용하면
+	이용/ncpa+하/xsva+면/ecs
+
+더
+	더/mag
+
+여유있게
+	여유/ncn+있/xsmn+게/ecs
+
+겨울체험프로그램을
+	겨울/ncn+체험/ncpa+프로그램/ncn+을/jco
+
+맘껏
+	맘껏/mag
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아이들에게는
+	아이/ncn+들/ncn+에게/jca+는/jxc
+
+눈썰매장만큼
+	눈썰매장/ncn+만큼/jca
+
+신나는
+	신나/pvg+는/etm
+
+겨울
+	겨울/ncn
+
+보내기도
+	보내/pvg+기/etn+도/jxc
+
+좋은
+	좋/paa+은/etm
+
+장소가
+	장소/ncn+가/jcs
+
+없는
+	없/paa+는/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+이용시간안내:
+	이용시간/ncn+안내/ncpa+:/sp
+
+02-509-6000
+	02/nnc+-509/nnc+-6000/nnc
+
+대부분
+	대부분/ncn
+
+09:00~18:00
+	09/nnc+:/sp+00/nnc+~/sd+18/nnc+:/sp+00/nnc
+
+/주말
+	//sp+주말/ncn
+
+야간개장
+	야간/ncn+개장/ncn
+
+
+-지하철
+	-/sd+지하철/ncn
+
+4호선
+	4/nnc+호/nbu+선/jxc
+
+대공원/서울랜드역
+	대공원/ncn+//sp+서울랜드/ncn+역/ncn
+
+2번출구
+	2번출구/ncn
+
+
+-서울쪽에서
+	-서울쪽/ncn+에서/jca
+
+반포
+	반포/ncpa
+
+서초IC-
+	서초IC-/ncn
+
+양재IC-양재대로(과천방향)-
+	양재IC-양재대로(과천방향)-/ncn
+
+선바위검문소
+	선바위검문소/ncn
+
+삼거리에서
+	삼거리/ncn+에서/jca
+
+좌회전-
+	좌회전/ncpa+-/sd
+
+경마공원
+	경마/ncn+공원/ncn
+
+-서울랜드
+	-/sd+서울랜드/ncn
+
+국립현대미술관
+	국립현대미술관/ncn
+
+방향-서울랜드주차장
+	방향/ncn+-/sd+서울랜드/ncn+주차장/ncn
+
+
+-지방에서
+	-/sd+지방/ncn+에서/jca
+
+서울요금소
+	서울요금소/ncn
+
+지나서-
+	지나/pvg+아/ecs+-/sd
+
+양재IC-양재대로(과천방향)-
+	양재IC-양재대로(과천방향)-/ncn
+
+선바위검문소
+	선바위검문소/ncn
+
+삼거리에서
+	삼거리/ncn+에서/jca
+
+좌회전-
+	좌회전/ncpa+-/sd
+
+경마공원
+	경마/ncn+공원/ncn
+
+-서울랜드
+	-/sd+서울랜드/ncn
+
+국립현대미술관
+	국립현대미술관/ncn
+
+방향-서울랜드주차장
+	방향/ncn+-/sd+서울랜드/ncn+주차장/ncn
+
+
+경기도
+	경기/ncn+도/jxc
+
+과천시
+	과천시/ncn
+
+막계동
+	막계동/ncn
+
+서울랜드
+	서울랜드/ncn
+
+
+02-509-6000
+	02/nnc+-509/nnc+-6000/nnc
+
+
+서울랜드눈썰매장
+	서울랜드/ncn+눈썰매장/ncn
+
+
+경기도
+	경기/ncn+도/jxc
+
+과천시
+	과천시/ncn
+
+막계동
+	막계동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01918604",
+	"bl01918604",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"13473356",
+	"/sl+13473356/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"서울랜드눈썰매장",
+	title/f+:/sp+"/sl+서울랜드/ncn+눈썰매장/ncn+"/sr+,/sp
+
+pointX:313144,pointY:537408}
+	pointX/f+:/sp+313144/nnc+,/sp+pointY/f+:/sp+537408/nnc+}/sr

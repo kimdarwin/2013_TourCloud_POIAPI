@@ -1,0 +1,509 @@
+저수지
+	저수지/ncn
+
+축조의
+	축조/ncpa+의/jcm
+
+공사단계
+	공사/ncn+단계/ncn
+
+
+공사
+	공사/ncn
+
+단계-시공
+	단계/ncn+-/sd+시공/ncn
+
+계획
+	계획/ncpa
+
+사전
+	사전/ncn
+
+수립-저수지
+	수립/ncpa+-/sd+저수지/ncn
+
+제방
+	제방/ncn
+
+단면
+	단면/ncn
+
+그림
+	그리/pvg+ㅁ/etn
+
+설명-제당의
+	설명/ncpa+-/sd+제당/ncpa+의/jcm
+
+상굴
+	상굴/ncn
+
+작업,
+	작업/ncpa+,/sp
+
+견고한
+	견고/ncn+한/ncn
+
+암반이
+	암반/ncn+이/jcc
+
+나올
+	나/pvg+아/ecx+오/px+ㄹ/etm
+
+때까지
+	때/ncn+까지/jxc
+
+파야
+	파/pvg+아/ecx
+
+함.-암반
+	하/pvg+ㅁ/etn+./sf+-/sd+암반/ncn
+
+노출
+	노출/ncpa
+
+후
+	후/ncn
+
+지질
+	지질/ncn
+
+관계
+	관계/ncn
+
+전문
+	전문/ncn
+
+기술자에
+	기술자/ncn+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+제당의
+	제당/ncpa+의/jcm
+
+기초암으로써
+	기초/ncn+암/ncn+으로써/jca
+
+적합성
+	적합성/ncn
+
+여부에
+	여부/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+감정을
+	감정/ncn+을/jco
+
+받음
+	받/pvg+음/etn
+
+.
+	./sf
+
+
+-상굴
+	-상굴/ncn
+
+작업
+	작업/ncpa
+
+후
+	후/ncn
+
+점토를
+	점토/ncn+를/jco
+
+넣음
+	넣/pvg+음/etn
+
+.
+	./sf
+
+
+-물이
+	-/sd+물/ncn+이/jcc
+
+고이지
+	고이/pvg+지/ecx
+
+않게
+	않/px+게/ecs
+
+배수
+	배수/ncn
+
+작업을
+	작업/ncpa+을/jco
+
+하는
+	하/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+중요함
+	중요/ncps+하/xsms+ㅁ/etn
+
+.
+	./sf
+
+
+-저수지
+	-/sd+저수지/ncn
+
+계량에
+	계량/ncpa+에/jca
+
+있어
+	있/px+어/ecx
+
+중심
+	중심/ncn
+
+점토의
+	점토/ncn+의/jcm
+
+중요성-수시로
+	중요성/ncn+-/sd+수시/ncn+로/jca
+
+현장
+	현장/ncn
+
+시험을
+	시험/ncpa+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+적절한
+	적절/ncps+하/xsms+ㄴ/etm
+
+시공
+	시공/ncn
+
+조절을
+	조/nnc+절/nbu+을/jco
+
+해야
+	하/pvg+어야/ecs
+
+함.
+	하/pvg+ㅁ/etn+./sy
+
+-여러가지
+	-/sd+여러/nnc+가지/nbu
+
+현장
+	현장/ncn
+
+시험-현장
+	시험/ncpa+-/sd+현장/ncn
+
+시험한
+	시험/ncpa+하/xsva+ㄴ/etm
+
+것을
+	것/nbn+을/jco
+
+시험실로
+	시험/ncpa+실/ncn+로/jca
+
+송부해
+	송부해/ncn
+
+전반적인
+	전반/ncn+적/ncn+이/jp+ㄴ/etm
+
+시험을
+	시험/ncpa+을/jco
+
+해
+	하/pvg+어/ecx
+
+실제
+	실제/ncn
+
+공사
+	공사/ncn
+
+시공에
+	시공/ncn+에/jca
+
+부합시킴
+	부합/ncpa+시키/xsva+ㅁ/etn
+
+.
+	./sf
+
+
+-현대식
+	-/sd+현대/ncn+식/ncn
+
+방법에
+	방법/ncn+에/jca
+
+의한
+	의하/pvg+ㄴ/etm
+
+현장
+	현장/ncn
+
+시공은
+	시공/ncn+은/jxc
+
+중기에
+	중기/ncn+에/jca
+
+의한
+	의하/pvg+ㄴ/etm
+
+시공-통관
+	시공/ncpa+-/sd+통관/ncpa
+
+작업시
+	작업/ncpa+시/ncn
+
+중요한
+	중요/ncps+하/xsms+ㄴ/etm
+
+점은
+	점/nbu+은/jxc
+
+충분한
+	충분/ncn+한/ncn
+
+도고-콘크리트
+	도/ncn+이/jp+고/ecc+-/sd+콘크리트/ncn
+
+작업시
+	작업/ncpa+시/ncn
+
+자갈과
+	자갈/ncn+과/jcj
+
+모래를
+	모래/ncn+를/jco
+
+깨끗이
+	깨끗/ncps+이/jcc
+
+씻어야
+	씻/pvg+어야/ecs
+
+?
+	?/sf
+
+
+여러
+	여러/mma
+
+가지
+	가지/nbu
+
+크기가
+	크/paa+기/etn+가/jcs
+
+적당한
+	적당/ncps+하/xsms+ㄴ/etm
+
+비율로
+	비율/ncn+로/jca
+
+배합되어
+	배합/ncpa+되/xsvn+어/ecx
+
+있어야
+	있/px+어야/ecs
+
+함.-전
+	하/pvg+ㅁ/etn+./sf+-/sd+전/nbn
+
+재료의
+	재료/ncn+의/jcm
+
+균일한
+	균/ncn+이/jp+ㄹ/etm+한/nbn
+
+혼합,
+	혼합/ncpa+,/sp
+
+규정된
+	규정/ncpa+되/xsvn+ㄴ/etm
+
+물과
+	물/ncn+과/jcj
+
+시멘트의
+	시멘트/ncn+의/jcm
+
+비율,
+	비율/ncn+,/sp
+
+콘트리트를
+	콘트리트/ncn+를/jco
+
+넣은
+	넣/pvg+은/etm
+
+후
+	후/ncn
+
+골고루
+	골고루/mag
+
+잘
+	잘/mag
+
+다져서
+	다지/pvg+어서/ecs
+
+울퉁불퉁
+	울퉁불퉁/mag
+
+하지
+	하/pvg+지/ecx
+
+않도록
+	않/px+도록/ecs
+
+해야
+	하/pvg+어야/ecs
+
+함.
+	하/pvg+ㅁ/etn+./sy
+
+-곡선의
+	-/sd+곡선/ncn+의/jcm
+
+설치는
+	설치/pvg+는/etm
+
+피해야
+	피하/pvg+어야/ecs
+
+하며
+	하/pvg+며/ecc
+
+공사
+	공사/ncn
+
+전
+	전/nbn
+
+모형
+	모형/ncn
+
+시험을
+	시험/ncpa+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+수리
+	수리/ncn
+
+작용을
+	작용/ncpa+을/jco
+
+잘
+	잘/mag
+
+파악해야
+	파악/ncpa+하/xsva+어야/ecs
+
+함.
+	하/pvg+ㅁ/etn+./sy
+
+-설계상
+	-/sd+설계상/ncn
+
+의문점은
+	의문점/ncn+은/jxc
+
+사전에
+	사전/ncn+에/jca
+
+모형
+	모형/ncn
+
+시험을
+	시험/ncpa+을/jco
+
+통해서
+	통하/pvg+어서/ecs
+
+정확한
+	정확/ncps+하/xsms+ㄴ/etm
+
+수리
+	수리/ncn
+
+현상
+	현상/ncn
+
+파악하고
+	파악/ncpa+하고/jct
+
+이를
+	이/npd+를/jco
+
+적용시켜야
+	적용/ncpa+시키/xsva+어야/ecs
+
+함.-배수
+	하/pvg+ㅁ/etn+./sf+-/sd+배수/ncn
+
+처리시
+	처리/ncpa+시/ncn
+
+유의사항-잔디는
+	유의사항/ncn+-/sd+잔디/ncn+는/jxc
+
+제방
+	제방/ncn
+
+경사면을
+	경사면/ncn+을/jco
+
+보호
+	보호/ncpa
+
+하기
+	하/pvg+기/etn
+
+?
+	?/sf
+
+
+입히는
+	입히/pvg+는/etm
+
+것임
+	것/nbn+이/jp+ㅁ/etn
+
+.
+	./sf
+
+
+-공사의
+	-/sd+공사/ncn+의/jcm
+
+최종정리,
+	최종/ncn+정리/ncpa+,/sp
+
+저수지
+	저수지/ncn
+
+완료
+	완료/ncpa
+
+
+출처:저수지
+	출처/ncn+:/sp+저수지/ncn
+
+축조
+	축조/ncpa

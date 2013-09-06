@@ -1,0 +1,649 @@
+정읍시
+	정읍시/ncn
+
+망제동
+	망제동/ncn
+
+천곡리
+	천곡리/ncn
+
+천곡사지
+	천곡사지/ncn
+
+칠층석탑
+	칠층석탑/ncn
+
+.
+	./sf
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+참.
+	차/pvg+ㅁ/etn+./sy
+
+!!
+	!/sf+!/sf
+
+
+쓸쓸한
+	쓸쓸/ncps+하/xsms+ㄴ/etm
+
+늦가을을
+	늦가을/ncn+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+했던
+	하/px+었/ep+던/etm
+
+곳이었다
+	곳/ncn+이/jp+었/ep+다/ef
+
+....
+	.../se+./sf
+
+
+예전에는
+	예전/ncn+에/jca+는/jxc
+
+영화를
+	영화/ncn+를/jco
+
+누리던
+	누리/paa+던/etm
+
+곳이었을텐데
+	곳/ncn+이/jp+었/ep+을텐데/ef
+
+....
+	.../se+./sf
+
+
+지금은~~~~
+	지금/mag+은/jxc+~/sd+~/sd+~/sd+~/sd
+
+
+아무것도
+	아무것/npd+도/jxc
+
+없고
+	없/paa+고/ecc
+
+...
+	.../se
+
+
+석탑만~~~덩그러니
+	석탑만~~~덩그러/ncn+이/jp+니/ecs
+
+...
+	.../se
+
+
+그래도
+	그래도/maj
+
+정읍이어서
+	정읍/ncn+이/jp+어서/ecs
+
+그런지~~~
+	그러/pvd+ㄴ지/ecs+~/sd+~/sd+~/sd
+
+
+아직도
+	아직/mag+도/jxc
+
+주변에
+	주변/ncn+에/jca
+
+단풍은
+	단풍/ncn+은/jxc
+
+너무
+	너무/mag
+
+아름다웠다
+	아름답/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+종목
+	종목/ncn
+
+
+보물
+	보물/ncn
+
+309호
+	309/nnc+호/nbu
+
+
+명칭
+	명칭/ncn
+
+
+천곡사지칠층석탑(
+	천곡사지칠층석탑(/ncn
+
+)
+	)/sr
+
+
+분류
+	분류/ncpa
+
+
+석탑
+	석탑/ncn
+
+
+수량
+	수량/ncn
+
+
+1기
+	1/nnc+기/nbu
+
+
+지정일
+	지정/ncpa+일/ncn
+
+
+1963.
+	1963./nnc
+
+01.
+	01./nnc
+
+21
+	21/nnc
+
+
+소재지
+	소재지/ncn
+
+
+전북
+	전/xp+북/ncn
+
+정읍시
+	정읍시/ncn
+
+망제동
+	망제동/ncn
+
+산10
+	산10/ncn
+
+
+시대
+	시대/ncn
+
+
+고려시대
+	고려시대/ncn
+
+
+소유자
+	소유자/ncn
+
+
+국유
+	국유/ncn
+
+
+관리자
+	관리자/ncn
+
+
+정읍시
+	정읍시/ncn
+
+
+속칭
+	속칭/ncpa
+
+천곡사지라고
+	천곡사지/ncn+이/jp+라/ef+고/jcr
+
+일컫는
+	일컫/pvg+는/etm
+
+망제동의
+	망제동/ncn+의/jcm
+
+서쪽
+	서쪽/ncn
+
+산기슭에
+	산기슭/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+탑으로
+	탑/ncn+으로/jca
+
+낮은
+	낮/paa+은/etm
+
+단층기단(
+	단층기단(/ncn
+
+)
+	)/sr
+
+위에
+	위/ncn+에/jca
+
+7층탑신(
+	7층탑신(/ncn
+
+)을
+	)/sr+을/jco
+
+올린
+	올리/pvg+ㄴ/etm
+
+석탑이다
+	석탑/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+석탑은
+	석탑/ncn+은/jxc
+
+매우
+	매우/mag
+
+가늘고
+	가늘/paa+고/ecc
+
+긴,
+	길/paa+ㄴ/etm+,/sp
+
+높이
+	높이/mag
+
+9.9m의
+	9.9m/ncn+의/jcm
+
+탑으로,
+	탑/ncn+으로/jca+,/sp
+
+탑신부의
+	탑신/ncn+부/ncn+의/jcm
+
+1층
+	1/nnc+층/nbu
+
+몸돌은
+	몸돌/ncn+은/jxc
+
+널돌
+	널돌/ncn
+
+4장으로
+	4/nnc+장/nbu+으로/jca
+
+짜여
+	짜/ncn+이/jp+어/ecs
+
+있고,
+	있/px+고/ecc+,/sp
+
+2
+	2/nnc
+
+3층
+	3/nnc+층/nbu
+
+몸돌은
+	몸돌/ncn+은/jxc
+
+2개의
+	2/nnc+개/nbu+의/jcm
+
+돌로,
+	돌/ncn+로/jca+,/sp
+
+4층
+	4/nnc+층/nbu
+
+이상은
+	이상/ncn+은/jxc
+
+1개의
+	1/nnc+개/nbu+의/jcm
+
+돌로
+	돌/ncn+로/jca
+
+만들었다
+	만들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+각
+	각/mma
+
+층
+	층/nbu
+
+몸돌
+	몸돌/ncn
+
+모서리에는
+	모서리/ncn+에/jca+는/jxc
+
+엷은
+	엷/paa+은/etm
+
+기둥
+	기둥/ncn
+
+모양이
+	모양/ncn+이/jcc
+
+새겨져
+	새기/pvg+어/ecx+지/px+어/ecx
+
+있는데,
+	있/px+는데/ecs+,/sp
+
+특히
+	특히/mag
+
+1층
+	1/nnc+층/nbu
+
+몸돌이
+	몸돌/ncn+이/jcc
+
+매우
+	매우/mag
+
+높고
+	높/paa+고/ecc
+
+2층
+	2/nnc+층/nbu
+
+이상의
+	이상/ncn+의/jcm
+
+몸돌부터는
+	몸돌부터/ncn+는/jxc
+
+체감률이
+	체감/ncn+률/ncn+이/jcc
+
+적어서
+	적/paa+어서/ecs
+
+탑
+	탑/ncn
+
+전체가
+	전체/ncn+가/jcs
+
+높아
+	높/paa+아/ecx
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+지붕돌은
+	지붕/ncn+돌/ncn+은/jxc
+
+좁고
+	좁/paa+고/ecc
+
+두꺼워
+	두껍/paa+어/ecx
+
+둔중한
+	둔중/ncps+하/xsms+ㄴ/etm
+
+느낌을
+	느끼/pvg+ㅁ/etn+을/jco
+
+주는데,
+	주/px+ㄴ데/ecs+,/sp
+
+밑면에는
+	밑면/ncn+에/jca+는/jxc
+
+연꽃조각이
+	연꽃/ncn+조각/ncn+이/jcc
+
+장식되어
+	장식/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이처럼
+	이/npd+처럼/jca
+
+지붕돌
+	지붕/ncn+돌/ncn
+
+밑면에
+	밑면/ncn+에/jca
+
+연화문을
+	연화문/ncn+을/jco
+
+조각하는
+	조각/ncpa+하/xsva+는/etm
+
+것은
+	것/nbn+은/jxc
+
+통일신라시대에
+	통일신라시대/ncn+에/jca
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+남원
+	남원/ncn
+
+실상사
+	실상사/ncn
+
+백장암삼층석탑에서
+	백장암삼층석탑/ncn+에서/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는데,
+	있/px+는데/ecs+,/sp
+
+고려시대에도
+	고려시대/ncn+에/jca+도/jxc
+
+흔히
+	흔히/mag
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+양식은
+	양식/ncn+은/jxc
+
+아니다
+	아니/paa+다/ef+./sf
+
+.
+	./sf
+
+
+탑의
+	탑/ncn+의/jcm
+
+상륜부는
+	상륜부/ncn+는/jxc
+
+모두
+	모두/mag
+
+없어지고
+	없/paa+어/ecx+지/px+고/ecc
+
+7층
+	7/nnc+층/nbu
+
+지붕돌
+	지붕/ncn+돌/ncn
+
+위에
+	위/ncn+에/jca
+
+노반(
+	노반(/ncn
+
+)만이
+	)/sr+만/nnc+이/jcc
+
+남아
+	남/pvg+아/ecx
+
+있을
+	있/px+을/etm
+
+뿐이다
+	뿐/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+석탑은
+	석탑/ncn+은/jxc
+
+지붕돌의
+	지붕/ncn+돌/ncn+의/jcm
+
+양식이
+	양식/ncn+이/jcc
+
+특이한
+	특이/ncn+한/ncn
+
+이형석탑(
+	이형석탑(/ncn
+
+)으로
+	)/sr+으로/jca
+
+이러한
+	이러하/pad+ㄴ/etm
+
+양식의
+	양식/ncn+의/jcm
+
+석탑을
+	석탑/ncn+을/jco
+
+연구하는데
+	연구/ncpa+하/xsva+ㄴ데/ecs
+
+있어
+	있/px+어/ecx
+
+중요한
+	중요/ncps+하/xsms+ㄴ/etm
+
+자료가
+	자료/ncn+가/jcs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+전체적으로
+	전체/ncn+적/ncn+으로/jca
+
+간략화
+	간략화/ncpa
+
+된
+	되/pvg+ㄴ/etm
+
+조각수법이나
+	조각수법/ncn+이나/jcj
+
+안정감이
+	안정감/ncn+이/jcc
+
+결여된
+	결여/ncpa+되/xsvn+ㄴ/etm
+
+점
+	점/nbu
+
+등으로
+	등/nbu+으로/jca
+
+보아
+	보/pvg+아/ecx
+
+고려
+	고려/ncpa
+
+중엽
+	중엽/ncn
+
+이후에
+	이후/ncn+에/jca
+
+건립된
+	건립/ncpa+되/xsvn+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+추정된다
+	추정/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf

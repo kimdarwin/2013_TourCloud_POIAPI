@@ -1,0 +1,826 @@
+가습기
+	가습기/ncn
+
+올바른
+	올바르/paa+ㄴ/etm
+
+사용법
+	사용법/ncn
+
+
+가습기
+	가습기/ncn
+
+사용법
+	사용법/ncn
+
+
+겨울철
+	겨울철/ncn
+
+정말
+	정말/mag
+
+건조하죠
+	건조/ncpa+하/xsva+죠/ef
+
+
+자다보면
+	자/pvg+아/ecx+보/px+면/ecs
+
+목도
+	목/ncn+도/jxc
+
+따갑고
+	따갑/paa+고/ecc
+
+입술도
+	입술/ncn+도/jxc
+
+바짝바짝
+	바짝바짝/mag
+
+마르고
+	마르/pvg+고/ecc
+
+입술이
+	입술/ncn+이/jcc
+
+갈라져
+	갈라지/pvg+어/ecx
+
+피가나는
+	피/ncn+가/jcs+나/jxc+는/jxc
+
+경우도
+	경우/ncn+도/jxc
+
+많은것
+	많/paa+은/etm+것/nbn
+
+같아요
+	같/paa+아요/ef
+
+
+코감기때
+	코감기때/ncn
+
+절실히
+	절실히/mag
+
+필요한
+	필요/ncps+하/xsms+ㄴ/etm
+
+가습기
+	가습기/ncn
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+가습기
+	가습기/ncn
+
+구입해서
+	구입/ncpa+해서/ncn
+
+사용할때는
+	사용/ncpa+하/xsva+ㄹ/etm+때/nbn+는/jxc
+
+좋은
+	좋/paa+은/etm
+
+데
+	데/nbn
+
+청소,
+	청소/ncpa+,/sp
+
+관리가
+	관리/ncn+가/jcs
+
+정말
+	정말/mag
+
+귀찮으면서
+	귀찮/paa+으면서/ecc
+
+힘든죠
+	힘든죠/ncn
+
+..
+	./sf+./sf
+
+
+지금처럼
+	지금/ncn+처럼/jca
+
+추운
+	춥/paa+은/etm
+
+겨울
+	겨울/ncn
+
+
+많은
+	많/paa+은/etm
+
+시간을
+	시간/ncn+을/jco
+
+실내에서
+	실내/ncn+에서/jca
+
+보내게
+	보내/pvg+게/ecs
+
+되는데요
+	되/pvg+ㄴ데/ef+요/jxf
+
+,
+	,/sp
+
+
+차고
+	차/ncn+이/jp+고/ecc
+
+건조한
+	건조/ncpa+하/xsva+ㄴ/etm
+
+날씨
+	날씨/ncn
+
+때문에
+	때문/nbn+에/jca
+
+실내
+	실내/ncn
+
+습도
+	습/ncn+도/jxc
+
+조절을
+	조/nnc+절/nbu+을/jco
+
+의해
+	의하/pvg+어/ecs
+
+가습기를
+	가습기/ncn+를/jco
+
+사용하게
+	사용/ncpa+하/xsva+게/ecs
+
+되는데요
+	되/paa+ㄴ데요/ef
+
+
+가습기를
+	가습기/ncn+를/jco
+
+잘못
+	잘못/mag
+
+사용하면
+	사용/ncpa+하/xsva+면/ecs
+
+감기나
+	감/pvg+기/etn+나/jcj
+
+기관지과민증
+	기관지/ncn+과민/ncpa+증/ncn
+
+같은
+	같/paa+은/etm
+
+호흡기
+	호흡기/ncn
+
+질병과
+	질병/ncn+과/jcj
+
+
+피부
+	피부/ncn
+
+질환을
+	질환/ncn+을/jco
+
+일으킬
+	일으키/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+올바른
+	올바르/paa+ㄴ/etm
+
+가습기
+	가습기/ncn
+
+사용법으로
+	사용법/ncn+으로/jca
+
+가족의
+	가족/ncn+의/jcm
+
+건강한
+	건강/ncps+하/xsms+ㄴ/etm
+
+겨울
+	겨울/ncn
+
+보내세요
+	보내/pvg+세요/ef
+
+
+가습기와
+	가습기/ncn+와/jcj
+
+코의
+	코/ncn+의/jcm
+
+거리는
+	것/nbn+이/jp+리/ef+는/etm
+
+최소한
+	최소한/ncn
+
+2~3m이상
+	2~3m이상/ncn
+
+유지해야
+	유/ncn+이/jp+지/ecx+하/px+어야/ecs
+
+한다고
+	하/px+ㄴ다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+머리맡에
+	머리맡/ncn+에/jca
+
+가습기를
+	가습기/ncn+를/jco
+
+두고
+	두/nnc+이/jp+고/ecc
+
+자면
+	자/nbn+이/jp+면/ecs
+
+
+긁고
+	긁/pvg+고/ecc
+
+차가운
+	차갑/paa+은/etm
+
+수분
+	수분/ncn
+
+입자가
+	입자/ncn+가/jcs
+
+바로
+	바로/mag
+
+호흡기로
+	호흡기/ncn+로/jca
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+기관지
+	기관지/ncn
+
+점막을
+	점막/ncn+을/jco
+
+자극함으로써
+	자극/ncpa+함/ncn+으로써/jca
+
+
+호흡기
+	호흡기/ncn
+
+질병을
+	질병/ncn+을/jco
+
+유발할
+	유발/ncpa+하/xsva+ㄹ/etm
+
+수있다고
+	수/nbn+있/xsmn+다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+기관지가
+	기관지/ncn+가/jcs
+
+예민한
+	예민/ncn+한/ncn
+
+어린
+	어리/paa+ㄴ/etm
+
+아이들에게는
+	아이/ncn+들/ncn+에게/jca+는/jxc
+
+찬
+	차/pvg+ㄴ/etm
+
+습기가
+	습기/ncn+가/jcs
+
+오히려
+	오히려/mag
+
+증상을
+	증상/ncn+을/jco
+
+악화시킬
+	악화/ncpa+시키/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있으므로
+	있/px+으므로/ecs
+
+주의요망~~
+	주의/ncn+요망/ncpa+~/sd+~/sd
+
+
+실내가
+	실내/ncn+가/jcs
+
+축축하게
+	축축하/paa+게/ecs
+
+느껴진
+	느끼/pvg+어/ecx+지/px+ㄴ/etm
+
+정도로
+	정도/ncn+로/jca
+
+가습기를
+	가습기/ncn+를/jco
+
+종일
+	종일/mag
+
+켜
+	크/paa+어/ecx
+
+두는것도
+	두/pvg+는/etm+것/nbn+도/jxc
+
+피해야한다고
+	피하/pvg+어야/ecx+하/px+ㄴ다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+실내가
+	실내/ncn+가/jcs
+
+너무
+	너무/mag
+
+습하면
+	습하/paa+면/ecs
+
+곰팡이가
+	곰팡이/ncn+가/jcs
+
+번식하기
+	번식/ncpa+하/xsva+기/etn
+
+쉽고
+	쉽/paa+고/ecc
+
+
+불쾌지수가
+	불쾌지수/ncn+가/jcs
+
+높아지며
+	높/paa+아/ecx+지/px+며/ecc
+
+체온을
+	체온/ncn+을/jco
+
+빼앗아
+	빼앗/pvg+아/ecx
+
+감기에
+	감/pvg+기/etn+에/jca
+
+걸리기
+	것/nbn+이/jp+ㄹ/etm+리/nbn+이/jp+기/etn
+
+쉽다고
+	쉽/paa+다/ef+고/jcr
+
+해요
+	하/pvg+어요/ef
+
+
+한
+	하/pvg+ㄴ/etm
+
+번에
+	번/nbu+에/jca
+
+세
+	세/nnc
+
+시간
+	시간/nbu
+
+이내로
+	이내/ncn+로/jca
+
+조절하는
+	조절/ncpa+하/xsva+는/etm
+
+것이
+	것/nbn+이/jcc
+
+좋고,
+	좋/paa+고/ecc+,/sp
+
+
+가습기를
+	가습기/ncn+를/jco
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+도중
+	도중/ncn
+
+자주
+	자주/mag
+
+환기를
+	환기/ncpa+를/jco
+
+시켜
+	시키/pvg+어/ecx
+
+적정한
+	적정/ncps+하/xsms+ㄴ/etm
+
+습도를
+	습도/ncn+를/jco
+
+유지해야
+	유/ncn+이/jp+지/ecx+하/px+어야/ecs
+
+한다고
+	하/px+ㄴ다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+수돗믈은
+	수돗믈/ncn+은/jxc
+
+그릇에
+	그릇/nbu+에/jca
+
+담아
+	담/pvg+아/ecx
+
+하루
+	하루/ncn
+
+정도
+	정도/ncn
+
+묵혀서
+	묵히/pvg+어서/ecs
+
+불순물을
+	불순물/ncn+을/jco
+
+가라
+	가/px+아/ecs
+
+앉힌
+	앉히/pvg+ㄴ/etm
+
+다음
+	다음/ncn
+
+사용하고
+	사용/ncpa+하고/jct
+
+,
+	,/sp
+
+
+아기가
+	아기/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+집은
+	집/ncn+은/jxc
+
+물을
+	물/ncn+을/jco
+
+끓였다가
+	끓이/pvg+었/ep+다가/ecs
+
+식혀서
+	식히/pvg+어서/ecs
+
+쓰면
+	쓰/pvg+면/ecs
+
+좋다가
+	좋/paa+다가/ecs
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+물은
+	물/ncn+은/jxc
+
+방치하거나
+	방치/ncpa+하/xsva+거나/ecc
+
+2~3일만
+	2/nnc+~/sd+3/nnc+일/nbu+만/jxc
+
+세척을
+	세/nnc+척/nbu+을/jco
+
+걸러도
+	거르/pvg+어도/ecs
+
+세균
+	세균/ncn
+
+수가
+	수/nbn+가/jcc
+
+급격히
+	급격히/mag
+
+늘어나므로
+	늘/pvg+어/ecx+나/px+므로/ecs
+
+,
+	,/sp
+
+
+물은
+	물/pvg+ㄴ/etm
+
+하루만
+	하루/ncn+만/jxc
+
+사용하고
+	사용/ncpa+하고/jct
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+물은
+	물/pvg+ㄴ/etm
+
+버리는
+	버리/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+좋습니다
+	좋/paa+습니다/ef
+
+
+물통은
+	물/pvg+ㄹ/etm+통/nbn+은/jxc
+
+베이킹소다나
+	베이킹소다/ncn+나/jcj
+
+연성세제를
+	연성세제/ncn+를/jco
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+매일
+	매일/mag
+
+혹은
+	혹은/maj
+
+최소
+	최소/ncn
+
+이틀에
+	이틀/ncn+에/jca
+
+한
+	하/pvg+ㄴ/etm
+
+번은
+	번/nbu+은/jxc
+
+청소하고
+	청소/ncpa+하고/jct
+
+,
+	,/sp
+
+
+본체은
+	본체/ncn+은/jxc
+
+미지근한
+	미지근하/paa+ㄴ/etm
+
+물을
+	물/ncn+을/jco
+
+적신
+	적시/pvg+ㄴ/etm
+
+헝겊으로
+	헝겊/ncn+으로/jca
+
+부드럽게
+	부드럽/paa+게/ecs
+
+닦아
+	닦/pvg+아/ecx
+
+주는게
+	주/px+는게/ecs
+
+좋다고
+	좋/paa+다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+비눗물물이나
+	비눗물/ncn+물/ncn+이나/jcj
+
+세제로
+	세제/ncn+로/jca
+
+씻는
+	씻/pvg+는/etm
+
+것은
+	것/nbn+은/jxc
+
+금물,
+	금물/ncn+,/sp
+
+
+자칫
+	자칫/mag
+
+남아
+	남/pvg+아/ecx
+
+있는
+	있/px+는/etm
+
+세제찌꺼기가
+	세제/ncn+찌꺼기/ncn+가/jcs
+
+수증기에
+	수증기/ncn+에/jca
+
+섞여
+	섞이/pvg+어/ecx
+
+나와
+	나와/ncn
+
+
+실내
+	실내/ncn
+
+공기를
+	공기/ncn+를/jco
+
+오염시키는
+	오염/ncpa+시키/xsva+는/etm
+
+원인이
+	원인/ncn+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있기
+	있/px+기/etn
+
+때문이라
+	때문/nbn+이/jp+라/ecs
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+가습기가
+	가습기/ncn+가/jcs
+
+없거나
+	없/paa+거나/ecc
+
+관리하기
+	관리/ncpa+하/xsva+기/etn
+
+힘들다
+	힘들/pvg+다/ef
+
+그럼
+	그렇/pad+ㅁ/etn
+
+실내에
+	실내/ncn+에/jca
+
+젖은
+	젖/pvg+은/etm
+
+빨래
+	빨래/ncpa
+
+널어놓아도
+	널/pvg+어/ecx+놓/px+아/ecs
+
+실내
+	실내/ncn
+
+습도
+	습/ncn+도/jxc
+
+조절은
+	조/nnc+절/nbu+은/jxc
+
+가능하답니다
+	가능/ncpa+하/xsva+답니다/ef
+
+
+가습기
+	가습기/ncn
+
+올바르게
+	올바르/paa+게/ecs
+
+사용하고
+	사용/ncpa+하고/jct
+
+올
+	오/px+ㄹ/etm
+
+겨울
+	겨울/ncn
+
+건강하게
+	건강/ncps+하/xsms+게/ecs
+
+보내세요
+	보내/pvg+세/ef+요/jxf
+
+...
+	.../se

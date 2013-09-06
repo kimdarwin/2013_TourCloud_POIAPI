@@ -1,0 +1,676 @@
+위치
+	위치/ncn
+
+:
+	:/sp
+
+경기도
+	경기/ncn+도/jxc
+
+포천시
+	포천시/ncn
+
+포천동
+	포천동/ncn
+
+신북면과
+	신/xp+북면/ncpa+과/jcj
+
+동두천시에
+	동두천시/ncn+에/jca
+
+걸쳐있는산
+	걸쳐있는산/ncn
+
+
+가는길
+	가는길/ncn
+
+:
+	:/sp
+
+서울지하철1/4호선
+	서울지하철1/4호선/ncn
+
+창동역1번출구
+	창동역1번출구/ncn
+
+나와서
+	나오/pvg+아/ecx
+
+창동역
+	창동역/ncn
+
+버스정류장까지
+	버스정류장/ncn+까지/jca
+
+
+약150m걷기
+	약150m걷기/ncn
+
+좌석버스138~3을
+	좌석버스138~3/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+대진대
+	대진/ncn+대/ncn
+
+.
+	./sf
+
+
+학사마을입구
+	학사/ncr+마을/ncn+입구/ncn
+
+버스정류장에서
+	버스/ncn+정류장/ncn+에서/jca
+
+하차
+	하차/ncn
+
+
+뉴산수산악회
+	뉴산수산악회/ncn
+
+
+포천에
+	포천/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+왕방산은
+	왕방산/ncn+은/jxc
+
+서울에서
+	서울/ncn+에서/jca
+
+그리멀지않는곳에
+	그리멀지않는곳/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+산으로
+	산/ncn+으로/jca
+
+산세는
+	산세/ncn+는/jxc
+
+전형적인
+	전형/ncn+적/ncn+이/jp+ㄴ/etm
+
+육산으로
+	육산/ncn+으로/jca
+
+
+등산로
+	등산로/ncn
+
+암릉구간이
+	암릉구간/ncn+이/jcc
+
+없는것이
+	없/paa+는/etm+것/nbn+이/jcc
+
+특징이다
+	특징/ncn+이/jp+다/ef
+
+왕방산
+	왕방산/ncn
+
+계곡은
+	계곡/ncn+은/jxc
+
+폭이넓고
+	폭이넓고/ncn
+
+물이
+	물/ncn+이/jcc
+
+맑으며
+	맑/paa+으며/ecc
+
+수량이
+	수량/ncn+이/jcc
+
+풍부하여
+	풍부/ncps+하/xsms+어/ecs
+
+
+여름철에는
+	여름철/ncn+에/jca+는/jxc
+
+피서지로
+	피서지/ncn+로/jca
+
+유명하며
+	유명/ncps+하/xsms+며/ecc
+
+주의할점은
+	주의할점/ncn+은/jxc
+
+깊이울
+	깊이/ncn+울/ncn
+
+계곡
+	계곡/ncn
+
+코스는
+	코스/ncn+는/jxc
+
+계곡을
+	계곡/ncn+을/jco
+
+건너
+	건너/pvg+어/ecx
+
+산행을
+	산행/ncn+을/jco
+
+함으로
+	함/ncn+으로/jca
+
+
+비가
+	비/ncn+가/jcs
+
+올때면
+	오/px+ㄹ/etm+때/nbn+이/jp+면/ecs
+
+계곡물이
+	계곡/ncn+물/ncn+이/jcc
+
+불어나서
+	불/pvg+어/ecx+나/px+아/ecx
+
+위험이
+	위험/ncn+이/jcc
+
+있으므로
+	있/px+으므로/ecs
+
+조심하여야합니다
+	조심/ncpa+하/xsva+어야/ecx+하/px+ㅂ니다/ef
+
+
+산높이737.
+	산높이737./ncn
+
+2m이며
+	2m/ncn+이/jp+며/ecc
+
+천보산맥의
+	천보산맥/ncn+의/jcm
+
+북쪽
+	북쪽/ncn
+
+끝에
+	끝/ncn+에/jca
+
+자리잡고있다
+	자리잡/pvg+고/ecx+있/px+다/ef
+
+산
+	사/pvg+ㄴ/etm
+
+이름과
+	이름/ncn+과/jcj
+
+관련하여
+	관련하/ncn+이/jp+어/ecs
+
+두가지
+	두/nnc+가지/nbu
+
+전설이
+	전설/ncn+이/jcc
+
+전한다
+	전하/pvg+ㄴ다/ef
+
+
+하나는
+	하/pvg+어/ecx+나/px+는/etm
+
+872년
+	872/nnc+년/nbu
+
+도선국사가
+	도선국사/ncn+가/jcs
+
+이
+	이/mmd
+
+산에
+	산/ncn+에/jca
+
+머물고
+	머물/pvg+고/ecc
+
+있을
+	있/px+을/etm
+
+때
+	때/ncn
+
+국왕이
+	국왕/ncr+이/jcc
+
+친히
+	친히/mag
+
+행차하여
+	행차/ncpa+하/xsva+어/ecx
+
+격려하였다
+	격려/ncpa+하/xsva+었/ep+다/ef
+
+해서
+	하/pvg+어서/ecs
+
+붙여졌다
+	붙이/pvg+어/ecx+지/px+었/ep+다/ef
+
+
+는
+	늘/pvg+ㄴ/etm
+
+이야기고
+	이야기/ncpa+이/jp+고/ecc
+
+다른
+	다른/mma
+
+하나는
+	하/pvg+어/ecx+나/px+는/etm
+
+왕위에서
+	왕위/ncn+에서/jca
+
+물러난
+	무르/pvg+어/ecx+나/px+ㄴ/etm
+
+태조
+	태조/ncn
+
+이성계가
+	이성/ncn+계/ncn+가/jcs
+
+한양으로
+	하/pvg+ㄴ/etm+양/nbn+으로/jca
+
+돌아가는도중에
+	돌아가는도중/ncn+에/jca
+
+왕자들의
+	왕자/ncr+들/ncn+의/jcm
+
+골육
+	골육/ncn
+
+
+상쟁
+	상쟁/ncn
+
+소식을
+	소식/ncn+을/jco
+
+듣고
+	듣/pvg+고/ecc
+
+마음을
+	마음/ncn+을/jco
+
+달래기위해
+	달래기위해/ncn
+
+이
+	이/mmd
+
+산의
+	산/ncn+의/jcm
+
+왕방사
+	왕방사/ncn
+
+[지금의보덕사]에
+	[지금의보덕사]/ncn+에/jca
+
+며칠동안
+	며칠/ncn+동안/ncn
+
+머물렀다
+	머무르/pvg+었/ep+다/ef
+
+해서
+	하/pvg+어서/ecs
+
+
+붙여졌
+	붙여졌/ncn
+
+다는
+	달/paa+는/etm
+
+이야기다
+	이야기/ncpa+이/jp+다/ef
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2011/08/23/1425/03103323118F534E8FC3E93953F56EF3641_deogjang_PC_DEFAULT_logo.
+	net/blogucc28/2011/08/23/1425/03103323118F534E8FC3E93953F56EF3641_deogjang_PC_DEFAULT_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'406.
+	'/sr+406./nnc
+
+56';
+	56/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'8DC49C9C9F83A7D90FCA92B3E8799DCE9E7A';
+	'8DC49C9C9F83A7D90FCA92B3E8799DCE9E7A/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V128a614d5040ea54056de77b8bf50c0666271ca6299d9dfaf997c39b74362c386ce1e77b8bf50c066627';
+	'V128a614d5040ea54056de77b8bf50c0666271ca6299d9dfaf997c39b74362c386ce1e77b8bf50c066627/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_04936
+	ugcPlayer_04936/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_04936'
+	VideoInfraUGCPlayer('ugcPlayer_04936'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_04936
+	ugcPlayer_04936/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+뉴산수산악회동영상
+	뉴산수산악회동영상/ncn

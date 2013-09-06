@@ -1,0 +1,322 @@
+종
+	종/nbu
+
+목:
+	목/ncn+:/sp
+
+명승
+	명승/ncn
+
+제50호
+	제50호/ncn
+
+명
+	명/nbu
+
+칭
+	칭/ncn
+
+:
+	:/sp
+
+영월청령포(
+	영월청령포(/ncn
+
+)
+	)/sr
+
+분
+	분/nbu
+
+류
+	류/ncn
+
+:
+	:/sp
+
+자연유산
+	자연/ncn+유산/ncn
+
+/
+	//sp
+
+명승/
+	명승/ncn+//sp
+
+자연경관/
+	자연경관/ncn+//sp
+
+지형지질경관
+	지형/ncn+지질/ncn+경관/ncn
+
+수량/면적
+	수량/ncn+//sp+면적/ncn
+
+:
+	:/sp
+
+204,241
+	204,241/nnc
+
+(지정구역)
+	(/sl+지정/ncpa+구역/ncn+)/sr
+
+지
+	지/nbn
+
+정
+	정/mag
+
+일
+	일/nnc
+
+:
+	:/sp
+
+2008.
+	2008./nnc
+
+12.
+	12./nnc
+
+26
+	26/nnc
+
+소
+	소/ncn
+
+재
+	재/pvg+어/ecx
+
+지
+	지/nbn
+
+:
+	:/sp
+
+강원
+	강원/ncn
+
+영월군
+	영월군/ncn
+
+남면
+	남면/ncpa
+
+광천리
+	광천리/ncn
+
+산67-1번지
+	산67-1번지/ncn
+
+등소
+	등소/ncpa
+
+유
+	유/ncn
+
+자
+	자/ii
+
+:
+	:/sp
+
+국유
+	국유/ncn
+
+관
+	관/nbu
+
+리
+	리/nbu
+
+자
+	자/ii
+
+:
+	:/sp
+
+강원
+	강원/ncn
+
+영월군
+	영월군/ncn
+
+
+영월
+	영월/ncn
+
+청령포는
+	청령포/ncn+는/jxc
+
+어린
+	어리/paa+ㄴ/etm
+
+나이에
+	나이/ncn+에/jca
+
+세조에게
+	세/nnc+조/nbu+에게/jca
+
+왕위를
+	왕위/ncn+를/jco
+
+빼앗긴
+	빼앗기/pvg+ㄴ/etm
+
+단종의
+	단종/ncn+의/jcm
+
+유배지로
+	유배/ncpa+지로/ncn
+
+서쪽은
+	서쪽/ncn+은/jxc
+
+육육봉의
+	육/nnc+육/nnc+봉/nbu+의/jcm
+
+험준한
+	험준/ncps+하/xsms+ㄴ/etm
+
+암벽이
+	암벽/ncn+이/jcc
+
+솟아
+	솟/pvg+아/ecx
+
+있고
+	있/px+고/ecc
+
+삼면이
+	삼면/ncn+이/jcc
+
+강으로
+	강/ncn+으로/jca
+
+둘러싸여
+	둘러싸이/pvg+어/ecx
+
+섬과
+	서/pvg+ㅁ/etn+과/jct
+
+같이
+	같/paa+이/xsa
+
+형성된
+	형성/ncpa+되/xsvn+ㄴ/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+한양을
+	하/pvg+ㄴ/etm+양/nbn+을/jco
+
+바라보며
+	바라/pvg+아/ecx+보/px+며/ecc
+
+시름에
+	시름/ncpa+에/jca
+
+잠겼다고
+	잠기/pvg+었/ep+다/ef+고/jcr
+
+전하는
+	전하/pvg+는/etm
+
+노산대,
+	노산/ncpa+대/ncn+,/sp
+
+망향탑
+	망향/ncpa+탑/ncn
+
+돌무더기
+	돌무더기/ncn
+
+등
+	등/nbu
+
+슬픈
+	슬프/paa+ㄴ/etm
+
+역사가
+	역사/ncn+가/jcs
+
+남아
+	남/pvg+아/ecx
+
+있는
+	있/px+는/etm
+
+유서
+	유/ncn+서/jca
+
+깊은
+	깊/paa+은/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+천연기념물인
+	천연기념물/ncn+이/jp+ㄴ/etm
+
+관음송
+	관음송/ncn
+
+을
+	을/ncn
+
+비롯하여
+	비롯/ncpa+하/xsva+어/ecx
+
+단종의
+	단종/ncn+의/jcm
+
+어가
+	어가/ncn
+
+주변에
+	주변/ncn+에/jca
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+크고
+	크/paa+어/ef+고/jcr
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+소나무림이
+	소나무/ncn+이/jp+리/ep+ㅁ/etn+이/jcs
+
+270
+	270/nnc
+
+돌아흐르는
+	돌아흐르/ncn+는/jxc
+
+서강과
+	서강/ncn+과/jct
+
+어우러져
+	어우러지/pvg+어/ecx
+
+자연
+	자연/ncn
+
+경관이
+	경관/ncn+이/jcc
+
+뛰어난
+	뛰/pvg+어/ecx+나/px+ㄴ/etm
+
+명승지이다
+	명승지/ncn+이/jp+다/ef
+
+.
+	./sf

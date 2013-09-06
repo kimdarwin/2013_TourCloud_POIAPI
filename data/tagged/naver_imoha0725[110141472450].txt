@@ -1,0 +1,3144 @@
+여수세계박람회의
+	여수/ncn+세계박람회/ncn+의/jcm
+
+하이라이트
+	하이라이트/ncn
+
+
+빅오
+	빅오/ncn
+
+쇼
+	쇼/ncpa
+
+
+(Big-O
+	(/sl+Big/f+-/sd+O/f
+
+Show)
+	Show/f+)/sr
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/06/27/109/031013238132539E9BC3298773DA59836C9_imoha0725_480P_01_16x9_logo.
+	net/blogucc28/2012/06/27/109/031013238132539E9BC3298773DA59836C9_imoha0725_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'31.
+	'/sr+31./nnc
+
+149';
+	149/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'097223C4703D4634705ED17992F61B7A1ADA';
+	'097223C4703D4634705ED17992F61B7A1ADA/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12130a6a050ef2a9356cb995449fd9f6019612c81707b3f5a718fd8ee6c3952d8b0db995449fd9f60196';
+	'V12130a6a050ef2a9356cb995449fd9f6019612c81707b3f5a718fd8ee6c3952d8b0db995449fd9f60196/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_04359
+	ugcPlayer_04359/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_04359'
+	VideoInfraUGCPlayer('ugcPlayer_04359'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_04359
+	ugcPlayer_04359/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+여수
+	여수/ncn
+
+세계박람회/
+	세계박람회/ncn+//sp
+
+빅오
+	빅오/ncn
+
+쇼Big-O
+	쇼Big-O/ncn
+
+Show
+	Show/f
+
+-
+	-/sd
+
+INTRO
+	INTRO/f
+
+
+박람회장
+	박람회/ncn+장/ncn
+
+여수
+	여수/ncn
+
+앞바다의
+	앞바다/ncn+의/jcm
+
+방파제를
+	방파제/ncn+를/jco
+
+육지와
+	육지/ncn+와/jct
+
+연결해
+	연결/ncpa+하/xsva+어/ecx
+
+만든,
+	만들/pvg+ㄴ/etm+,/sp
+
+해상문화공간
+	해상/ncn+문화공간/ncn
+
+'빅오(Big-O)'
+	'빅오/ncn+(/sl+Big/f+-/sd+O/f+)/sr+'/sl
+
+
+빅오(Big-O)의
+	빅오(Big-O)/ncn+의/jcm
+
+'O'는
+	'/sr+O/f+'/sr+는/jxc
+
+바다를
+	바다/ncn+를/jco
+
+뜻하는
+	뜻/ncpa+하/xsva+는/etm
+
+영어
+	영어/ncn
+
+'오션(Ocean)'의
+	'오션(Ocean)'/ncn+의/jcm
+
+이니셜이자
+	이니셜/ncn+이/jp+자/ecc
+
+미래로의
+	미래/ncn+로/jca+의/jcm
+
+시작을
+	시작/ncpa+을/jco
+
+의미하는
+	의미/ncpa+하/xsva+는/etm
+
+영어
+	영어/ncn
+
+'ZERO(0)'의
+	'/sr+ZERO/f+(/sl+0/nnc+)/sr+'/sr+의/jcm
+
+뜻을
+	뜻/ncn+을/jco
+
+담고
+	담/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+빅오쇼는
+	빅오쇼/ncn+는/jxc
+
+레이저,
+	레이저/ncn+,/sp
+
+화염,
+	화염/ncn+,/sp
+
+안개
+	안개/ncn
+
+등
+	등/nbu
+
+각종
+	각종/ncn
+
+연출효과를
+	연출효과/ncn+를/jco
+
+내는
+	내/npp+는/jxc
+
+멀티워터스크린
+	멀티/ncn+워터/ncn+스크린/ncn
+
+'디오(The-O)'와
+	'디오(The-O)'/ncn+와/jcj
+
+초대형
+	초대/ncn+형/ncn
+
+해상분수
+	해상/ncn+분수/ncn
+
+'라군'이
+	'/sr+라/ncn+이/jp+군/ef+'/sr+이/jcc
+
+연출하는
+	연출/ncpa+하/xsva+는/etm
+
+광경이
+	광경/ncn+이/jcc
+
+장관을
+	장관/ncr+을/jco
+
+이룬다죠
+	이룬다/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+빅오
+	빅오/ncn
+
+해상
+	해상/ncn
+
+한가운데
+	한가운데/ncn
+
+위치한
+	위치/ncn+한/ncn
+
+'디오'는
+	'/sr+디/ncn+이/jp+오/ef+'/sr+는/jxc
+
+직경이
+	직경/ncn+이/jcc
+
+41m로
+	41m/ncn+로/jca
+
+타원형
+	타원형/ncn
+
+주축대가
+	주축/ncn+대/ncn+가/jcs
+
+받치고
+	받치/pvg+고/ecc
+
+있어
+	있/px+어/ecx
+
+전체
+	전체/ncn
+
+높이는
+	높이/pvg+는/etm
+
+47m에
+	47m/ncn+에/jca
+
+이른다고해요
+	이른다고해요/ncn
+
+.
+	./sf
+
+
+디오
+	디/ncn+이/jp+오/ef
+
+안에는
+	안/ncn+에/jca+는/jxc
+
+워터스크린
+	워터/ncn+스크린/ncn
+
+장치가
+	장치/ncpa+가/jcc
+
+설치돼
+	설치/ncpa+되/xsvn+어/ecx
+
+얇은
+	얇/paa+은/etm
+
+물
+	물/ncn
+
+막
+	막/mag
+
+위로
+	위/ncn+로/jca
+
+마치
+	마치/mag
+
+영화와도
+	영화/ncn+와/jct+도/jxc
+
+같은
+	같/paa+은/etm
+
+영상이
+	영상/ncn+이/jcc
+
+투영된다고
+	투영/ncn+되/xsvn+ㄴ다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+상상만으로도
+	상상/ncn+만/ncn+으로/jca+도/jxc
+
+그
+	그/mmd
+
+규모가
+	규모/ncn+가/jcs
+
+엄청납니다
+	엄청나/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+주변
+	주변/ncn
+
+테두리에는
+	테두리/ncn+에/jca+는/jxc
+
+움직이는
+	움직이/pvg+는/etm
+
+분수,
+	분수/ncn+,/sp
+
+안개,
+	안개/ncn+,/sp
+
+화염,
+	화염/ncn+,/sp
+
+조명,
+	조/nnc+명/nbu+,/sp
+
+레이저
+	레이저/ncn
+
+등이
+	등/nbu+이/jcc
+
+설치돼
+	설치/ncpa+되/xsvn+어/ecx
+
+영상과
+	영상/ncn+과/jct
+
+함께
+	함께/mag
+
+각종
+	각종/ncn
+
+멀티미디어
+	멀티미디어/ncn
+
+효과를
+	효과/ncn+를/jco
+
+연출한다고
+	연출/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+디오는
+	디오/ncn+는/jxc
+
+세계적인
+	세계/ncn+적/ncn+이/jp+ㄴ/etm
+
+무대미술가인
+	무대미술가/ncn+이/jp+ㄴ/etm
+
+영국의
+	영국/ncn+의/jcm
+
+마크피셔가
+	마크/ncpa+피/ncn+이/jp+시/ep+어/ecx+가/px+아/ecx
+
+설계했고,
+	설계/ncpa+하/xsva+었/ep+고/ecc+,/sp
+
+디오에서
+	디오/ncn+에서/jca
+
+펼쳐지는
+	펼치/pvg+어/ecx+지/px+는/etm
+
+각종
+	각종/ncn
+
+멀티미디어쇼의
+	멀티미디어/ncn+쇼/ncpa+의/jcm
+
+기획
+	기획/ncpa
+
+연출은
+	연출/ncpa+은/jxc
+
+프랑스
+	프랑스/ncn
+
+월드컵
+	월드컵/ncn
+
+개
+	개/nbu
+
+폐막식,
+	폐막식/ncn+,/sp
+
+에펠탑
+	에펠탑/ncn
+
+뉴밀레니엄
+	뉴밀레니엄/ncn
+
+쇼
+	쇼/ncpa
+
+등을
+	등/nbu+을/jco
+
+연출한
+	연출/ncpa+하/xsva+ㄴ/etm
+
+ECA2에서
+	ECA2/ncn+에서/jca
+
+맡았다고
+	맡/pvg+아/ep+다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+실로
+	실로/mag
+
+그
+	그/mmd
+
+내용은
+	내용/ncn+은/jxc
+
+세계적이라
+	세계/ncn+적/ncn+이/jp+라/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+만
+	만/nnc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+디오에는
+	디오/ncn+에/jca+는/jxc
+
+조명
+	조/nnc+명/nbu
+
+56개,
+	56/nnc+개/nbu+,/sp
+
+레이저
+	레이저/ncn
+
+5개,
+	5/nnc+개/nbu+,/sp
+
+워터젯
+	워터젯/ncn
+
+24개,
+	24/nnc+개/nbu+,/sp
+
+화염
+	화염/ncn
+
+24개,
+	24/nnc+개/nbu+,/sp
+
+영상프로젝터
+	영상/ncn+프로젝터/ncn
+
+6대가
+	6/nnc+대/nbu+가/jcc
+
+설치돼
+	설치/ncpa+되/xsvn+어/ecx
+
+각종
+	각종/ncn
+
+멀티미디어
+	멀티미디어/ncn
+
+효과를
+	효과/ncn+를/jco
+
+연출한다고
+	연출/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+디오
+	디/ncn+이/jp+오/ef
+
+전면(관람석)에는
+	전/ncn+면/xsncc+(/sl+관람석/ncn+)/sr+에/jca+는/jxc
+
+초대형
+	초대/ncn+형/ncn
+
+해상분수가
+	해상/ncn+분수/ncn+가/jcs
+
+설치됐는데
+	설치/ncpa+되/xsvn+었/ep+는데/ecs
+
+총
+	총/mma
+
+길이
+	길/ncn+이/jcc
+
+120m에
+	120m/ncn+에/jca
+
+최대
+	최대/ncn
+
+70m까지
+	70m까지/ncn
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+분수
+	분수/ncn
+
+노즐
+	노즐/ncn
+
+346개와
+	346/nnc+개/nbu+와/jcj
+
+빅오
+	빅오/ncn
+
+앞바다
+	앞바다/ncn
+
+전체를
+	전체/ncn+를/jco
+
+안개로
+	안개/ncn+로/jca
+
+덮는
+	덮/pvg+는/etm
+
+연출
+	연출/ncpa
+
+시설이
+	시설/ncpa+이/jcc
+
+함께
+	함께/mag
+
+설치됐다고
+	설치/ncpa+되/xsvn+었/ep+다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+아름다운
+	아름답/paa+은/etm
+
+쇼가
+	쇼/ncpa+가/jcc
+
+보기도
+	보/px+기/etn+도/jxc
+
+전부터
+	전/nbn+부터/jxc
+
+여행별의
+	여행/ncpa+별/ncn+의/jcm
+
+마음을
+	마음/ncn+을/jco
+
+설레게
+	설레/pvg+게/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+해상분수는
+	해상/ncn+분수/ncn+는/jxc
+
+라스베이거스의
+	라스베이거스/ncn+의/jcm
+
+벨라지오
+	벨라지오/ncn
+
+호텔
+	호텔/ncn
+
+분수쇼,
+	분수/ncn+쇼/ncpa+,/sp
+
+미라지
+	미라지/ncn
+
+호텔
+	호텔/ncn
+
+화산
+	화산/ncn
+
+분수쇼,
+	분수/ncn+쇼/ncpa+,/sp
+
+두바이
+	두/nnc+바/nbu+이/jcc
+
+버즈칼리파
+	버즈칼리파/ncn
+
+분수쇼
+	분수/ncn+쇼/ncpa
+
+등을
+	등/nbu+을/jco
+
+기획
+	기획/ncpa
+
+연출
+	연출/ncpa
+
+제작한
+	제작/ncpa+하/xsva+ㄴ/etm
+
+미국
+	미국/ncn
+
+WET사에서
+	WET사/ncn+에서/jca
+
+맡았다고
+	맡/pvg+아/ep+다/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+두바이
+	두/nnc+바/nbu+이/jcc
+
+버즈칼리파
+	버즈칼리파/ncn
+
+분수쇼만
+	분수/ncn+쇼/ncpa+만/jxc
+
+보지
+	보/pvg+지/ecx
+
+못했고
+	못하/px+었/ep+고/ecc
+
+라스베이거스의
+	라스베이거스/ncn+의/jcm
+
+벨라지오
+	벨라지오/ncn
+
+호텔
+	호텔/ncn
+
+분수쇼,
+	분수/ncn+쇼/ncpa+,/sp
+
+미라지
+	미라지/ncn
+
+호텔
+	호텔/ncn
+
+화산
+	화산/ncn
+
+분수쇼를
+	분수/ncn+쇼/ncpa+를/jco
+
+여러
+	여러/mma
+
+차례
+	차례/nbu
+
+보아왔던
+	보/pvg+아/ecx+오/px+아/ep+ㄴ/etm
+
+여행별은
+	여행/ncpa+별/ncn+은/jxc
+
+벌써
+	벌써/mag
+
+여수를
+	여수/ncn+를/jco
+
+가기
+	가/px+기/etn
+
+전부터
+	전/nbn+부터/jxc
+
+빅오쇼는
+	빅오쇼/ncn+는/jxc
+
+무조건
+	무조건/mag
+
+봐야겠다며
+	보/px+아/ep+다며/ecs
+
+각오를
+	각오/ncpa+를/jco
+
+단단히
+	단단히/mag
+
+하였더랬습니다
+	하였더랬습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+즘
+	즘/ncn
+
+되면
+	되/pvg+면/ecs
+
+여수
+	여수/ncn
+
+세계박람회,
+	세계박람회/ncn+,/sp
+
+빅오
+	빅오/ncn
+
+쇼Big-O
+	쇼Big-O/ncn
+
+Show를
+	Show/f+를/jco
+
+안
+	안/mag
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없겠지요^^
+	없겠지요^^/ncn
+
+?!
+	?/sf+!/sf
+
+
+앞서
+	앞서/mag
+
+인트로
+	인트/ncn+로/jca
+
+부분을
+	부분/ncn+을/jco
+
+맛보기로
+	맛보/pvg+기/etn+로/jca
+
+엮어
+	엮/pvg+어/ecx
+
+두었지만,
+	두/pvg+었/ep+지만/ecs+,/sp
+
+본격적인
+	본격/ncn+적/ncn+이/jp+ㄴ/etm
+
+기승전결이
+	기승전결/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+빅오
+	빅오/ncn
+
+쇼Big-O
+	쇼Big-O/ncn
+
+Show는
+	Show/f+는/jxc
+
+'자연을
+	'/sr+자연/ncn+을/jco
+
+살피고
+	살피/pvg+고/ecc
+
+보호하자'는
+	보호/ncpa+하자/ncn+'/sr+는/jxc
+
+주제로
+	주제/ncn+로/jca
+
+이루어져
+	이루/pvg+어/ecx+지/px+어/ecx
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+여행별은
+	여행/ncpa+별/ncn+은/jxc
+
+정중앙에
+	정중앙/ncn+에/jca
+
+자리를
+	자리/ncn+를/jco
+
+잡았습니다
+	잡/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+물론,
+	물론/ncn+,/sp
+
+반드시
+	반드시/mag
+
+내가
+	나/npp+가/jcs
+
+전에
+	전/nbn+에/jca
+
+경험한
+	경험/ncpa+하/xsva+ㄴ/etm
+
+분수쇼
+	분수/ncn+쇼/ncpa
+
+이상인가를
+	이상/ncn+인가/ncpa+를/jco
+
+확인하기
+	확인/ncpa+하/xsva+기/etn
+
+위함이었습니다
+	위하/pvg+ㅁ/etn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+여수
+	여수/ncn
+
+밤바다에서
+	밤바다/ncn+에서/jca
+
+그
+	그/mmd
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+막을
+	막/ncn+을/jco
+
+올린
+	올리/pvg+ㄴ/etm
+
+여수
+	여수/ncn
+
+세계박람회/
+	세계박람회/ncn+//sp
+
+빅오
+	빅오/ncn
+
+쇼Big-O
+	쇼Big-O/ncn
+
+Show
+	Show/f
+
+우리
+	우리/npp
+
+함께
+	함께/mag
+
+감상해
+	감상/ncn+해/ncn
+
+볼까나요^^
+	볼까나요^^/ncn
+
+?!
+	?/sf+!/sf
+
+
+실제로
+	실제로/mag
+
+보면
+	보/px+면/ecs
+
+정말
+	정말/mag
+
+환상이
+	환상/ncn+이/jcc
+
+따로
+	따로/mag
+
+없겠지만,
+	없/paa+겠/ep+지만/ecs+,/sp
+
+아쉬운
+	아쉽/paa+은/etm
+
+분들을
+	불/pvg+ㄴ/etm+들/nbn+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+살짝
+	살짝/mag
+
+올려봅니다~
+	올리/pvg+어/ecx+보/px+ㅂ니다/ef+~/sd
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/06/27/1528/03101323814253BE0CC3599E73EB7A23A03_imoha0725_480P_01_16x9_logo.
+	net/blogucc28/2012/06/27/1528/03101323814253BE0CC3599E73EB7A23A03_imoha0725_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'129.
+	'/sr+129./nnc
+
+219';
+	219/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'3AE6DA43AEEE0CDADD72343B1734C0A7D68A';
+	'3AE6DA43AEEE0CDADD72343B1734C0A7D68A/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1221c0801e00df92a6f4d006be3ea8d5e1b84bd2dfebb188935784f7cc6d008d9557d006be3ea8d5e1b8';
+	'V1221c0801e00df92a6f4d006be3ea8d5e1b84bd2dfebb188935784f7cc6d008d9557d006be3ea8d5e1b8/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_03628
+	ugcPlayer_03628/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_03628'
+	VideoInfraUGCPlayer('ugcPlayer_03628'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_03628
+	ugcPlayer_03628/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+여수
+	여수/ncn
+
+세계박람회/
+	세계박람회/ncn+//sp
+
+빅오
+	빅오/ncn
+
+쇼Big-O
+	쇼Big-O/ncn
+
+Show
+	Show/f
+
+-
+	-/sd
+
+기
+	기/nbu
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/06/27/667/03101323814253BE0CC3899A737B9D23D05_imoha0725_480P_01_16x9_logo.
+	net/blogucc28/2012/06/27/667/03101323814253BE0CC3899A737B9D23D05_imoha0725_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'239.
+	'/sr+239./nnc
+
+439';
+	439/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'8BD1A82AB0007966403E3A9302DE2F91B9AA';
+	'8BD1A82AB0007966403E3A9302DE2F91B9AA/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1298623d514405b7563a0911b1a8bfa391d4100137530401e748baecf67121d942ff0911b1a8bfa391d4';
+	'V1298623d514405b7563a0911b1a8bfa391d4100137530401e748baecf67121d942ff0911b1a8bfa391d4/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_01390
+	ugcPlayer_01390/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_01390'
+	VideoInfraUGCPlayer('ugcPlayer_01390'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_01390
+	ugcPlayer_01390/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+여수
+	여수/ncn
+
+세계박람회/
+	세계박람회/ncn+//sp
+
+빅오
+	빅오/ncn
+
+쇼Big-O
+	쇼Big-O/ncn
+
+Show
+	Show/f
+
+-
+	-/sd
+
+승
+	승/nbu
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/06/27/1411/03101323814253BE1CC3B901733B1123D05_imoha0725_480P_01_16x9_logo.
+	net/blogucc28/2012/06/27/1411/03101323814253BE1CC3B901733B1123D05_imoha0725_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'166.
+	'/sr+166./nnc
+
+669';
+	669/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'75685E57DBE5607727919F990E5B960569CF';
+	'75685E57DBE5607727919F990E5B960569CF/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V122d70aafee78aec730b9d6a553fbf3dd2bfb88d8ad690cf44bdcea7bc7afe56ed269d6a553fbf3dd2bf';
+	'V122d70aafee78aec730b9d6a553fbf3dd2bfb88d8ad690cf44bdcea7bc7afe56ed269d6a553fbf3dd2bf/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_01298
+	ugcPlayer_01298/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_01298'
+	VideoInfraUGCPlayer('ugcPlayer_01298'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_01298
+	ugcPlayer_01298/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+여수
+	여수/ncn
+
+세계박람회/
+	세계박람회/ncn+//sp
+
+빅오
+	빅오/ncn
+
+쇼Big-O
+	쇼Big-O/ncn
+
+Show
+	Show/f
+
+-
+	-/sd
+
+전
+	전/mma
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/06/27/353/03101323814253BE1CC3E900732B3123401_imoha0725_480P_01_16x9_logo.
+	net/blogucc28/2012/06/27/353/03101323814253BE1CC3E900732B3123401_imoha0725_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'270.
+	'/sr+270./nnc
+
+79';
+	79/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'6BECCACF528DFEEC38848A3F74CCEEB6DF10';
+	'6BECCACF528DFEEC38848A3F74CCEEB6DF10/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V124e564062e7b10c7f6c8f87f4746d9591e1a04f77e63de487a96749b1e7fbbb19808f87f4746d9591e1';
+	'V124e564062e7b10c7f6c8f87f4746d9591e1a04f77e63de487a96749b1e7fbbb19808f87f4746d9591e1/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_02672
+	ugcPlayer_02672/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_02672'
+	VideoInfraUGCPlayer('ugcPlayer_02672'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_02672
+	ugcPlayer_02672/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+여수
+	여수/ncn
+
+세계박람회/
+	세계박람회/ncn+//sp
+
+빅오
+	빅오/ncn
+
+쇼Big-O
+	쇼Big-O/ncn
+
+Show
+	Show/f
+
+-
+	-/sd
+
+결
+	결/nbu
+
+
+불기둥이
+	불기둥/ncn+이/jcc
+
+나오면서
+	나/pvg+아/ecx+오/px+면서/ecc
+
+인류가
+	인류/ncn+가/jcs
+
+저지른
+	저지르/pvg+ㄴ/etm
+
+바다의
+	바다/ncn+의/jcm
+
+파괴가
+	파괴/ncn+가/jcs
+
+형상화되고,
+	형상화/ncn+되/xsvn+고/ecc+,/sp
+
+이어
+	이/npd+이/jp+어/ecs
+
+그래도
+	그래도/maj
+
+희망을
+	희망/ncn+을/jco
+
+갖고
+	갖/pvg+고/ecc
+
+평화롭고
+	평화/ncn+롭/xsmn+고/ecc
+
+아름다운
+	아름답/paa+은/etm
+
+바다를
+	바다/ncn+를/jco
+
+되찾아야
+	되찾/pvg+아/ecx
+
+한다는
+	하/px+ㄴ다/ef+는/etm
+
+메시지는
+	메시지/ncn+는/jxc
+
+여수
+	여수/ncn
+
+엑스포
+	엑스포/ncn
+
+주제를
+	주제/ncn+를/jco
+
+대변합니다
+	대변/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+즐거운
+	즐겁/paa+은/etm
+
+시간을
+	시간/ncn+을/jco
+
+모두
+	모두/mag
+
+보내고,
+	보내/pvg+고/ecc+,/sp
+
+마지막으로
+	마지막/ncn+으로/jca
+
+관람한
+	관람/ncpa+하/xsva+ㄴ/etm
+
+빅오쇼는
+	빅오쇼/ncn+는/jxc
+
+정말이지
+	정말/ncn+이/jp+지/ecs
+
+너무나
+	너무나/mag
+
+환상적이고
+	환상/ncn+적/ncn+이/jp+고/ecc
+
+아름다웠습니다
+	아름답/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+미국
+	미국/ncn
+
+라스베이거스의
+	라스베이거스/ncn+의/jcm
+
+그
+	그/mmd
+
+것에
+	것/nbn+에/jca
+
+비할
+	비하/pvg+ㄹ/etm
+
+바가
+	바/nbn+가/jcc
+
+아니더라는
+	아니/paa+더/ep+라/ecs+는/jxc
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+!
+	!/sf
+
+
+올
+	오/px+ㄹ/etm
+
+여름
+	여름/ncn
+
+휴가철
+	휴가철/ncn
+
+여행
+	여행/ncpa
+
+계획
+	계획/ncpa
+
+있나요
+	있/px+나/ef+요/jxf
+
+?
+	?/sf
+
+
+그렇다면
+	그렇다면/maj
+
+여수세계박람회는
+	여수/ncn+세계박람회/ncn+는/jxc
+
+어떨까요
+	어떨까요/ncn
+
+?
+	?/sf
+
+
+하루에
+	하루/ncn+에/jca
+
+모두
+	모두/mag
+
+둘러보기엔
+	두르/pvg+어/ecx+보/px+기/etn+엔/jca
+
+정말
+	정말/mag
+
+역부족이리만큼
+	역부족/ncn+이리/ncn+만큼/jxc
+
+볼거리도,
+	볼거리/ncn+도/jxc+,/sp
+
+체험거리도
+	체험/ncpa+거리/ncn+도/jxc
+
+다양한데요
+	다양/ncn+한데/ncn+요/ncn
+
+.
+	./sf
+
+
+우리
+	우리/npp
+
+아이들에게
+	아이/ncn+들/ncn+에게/jca
+
+환경의
+	환경/ncn+의/jcm
+
+중요성도
+	중요성/ncn+도/jxc
+
+알려주고,
+	알리/pvg+어/ecx+주/px+고/ecc+,/sp
+
+세계를
+	세계/ncn+를/jco
+
+보여주며
+	보이/pvg+어/ecx+주/px+며/ecc
+
+무럭무럭
+	무럭무럭/mag
+
+큰
+	크/paa+ㄴ/etm
+
+사람이
+	사람/ncn+이/jcc
+
+되도록
+	되/pvg+도록/ecs
+
+알찬
+	알차/paa+ㄴ/etm
+
+여름휴가
+	여름/ncn+휴가/ncn
+
+일정으로
+	일정/ncn+으로/jca
+
+제격이
+	제격/ncn+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같아요^^
+	같아요^^/ncn
+
+!
+	!/sf
+
+
+2012
+	2012/nnc
+
+여수
+	여수/ncn
+
+세계박람회
+	세계박람회/ncn
+
+
+일정
+	일정/ncn
+
+:
+	:/sp
+
+2012
+	2012/nnc
+
+.
+	./sf
+
+
+5.
+	5./nnc
+
+12
+	12/nnc
+
+.
+	./sf
+
+
+-
+	-/sd
+
+8.
+	8./nnc
+
+12
+	12/nnc
+
+.
+	./sf
+
+
+장소
+	장소/ncn
+
+:
+	:/sp
+
+전남
+	전/xp+남/ncn
+
+여수시
+	여수/ncn+시/ncn
+
+여수
+	여수/ncn
+
+신항
+	신/xp+항/ncn
+
+일대
+	일대/ncn
+
+
+문의
+	문/ncn+의/jcm
+
+:
+	:/sp
+
+1577
+	1577/nnc
+
+-
+	-/sd
+
+2012
+	2012/nnc
+
+
+관람시간
+	관람/ncpa+시간/ncn
+
+:
+	:/sp
+
+평일
+	평/nbu+이/jp+ㄹ/etm
+
+09.00
+	09.00/nnc
+
+-
+	-/sd
+
+23.
+	23./nnc
+
+00,
+	00/nnc+,/sp
+
+주말
+	주말/ncn
+
+08.00
+	08.00/nnc
+
+-
+	-/sd
+
+23.00
+	23.00/nnc
+
+
+빅오쇼
+	빅오쇼/ncn
+
+관람시간
+	관람/ncpa+시간/ncn
+
+:
+	:/sp
+
+매일
+	매일/mag
+
+밤
+	밤/ncn
+
+8.50
+	8.50/nnc
+
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+expo2012
+	expo2012/ncn
+
+.
+	./sf
+
+
+kr
+	kr/f
+
+
+여수세계박람회
+	여수/ncn+세계박람회/ncn
+
+주제관
+	주제/ncn+관/ncn
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+여수시
+	여수/ncn+시/ncn
+
+한려동
+	한려동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011297787",
+	"bl011297787",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"21529718",
+	"/sl+21529718/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"여수세계박람회
+	title/f+:/sp+"/sl+여수/ncn+세계박람회/ncn
+
+주제관",
+	주제/ncn+관/ncn+"/sr+,/sp
+
+pointX:377367,pointY:239000}
+	pointX/f+:/sp+377367/nnc+,/sp+pointY/f+:/sp+239000/nnc+}/sr
+
+
+::
+	:/sp+:/sp
+
+The
+	The/f
+
+Travelgrapher,
+	Travelgrapher/f+,/sp
+
+홍유진의
+	홍유진/ncn+의/jcm
+
+여행블로그
+	여행블로그/ncn
+
+
+여행,
+	여행/ncpa+,/sp
+
+국내여행,
+	국내여행/ncn+,/sp
+
+해외여행,
+	해외여행/ncpa+,/sp
+
+배낭여행,
+	배낭여행/ncpa+,/sp
+
+캠핑,
+	캠핑/ncn+,/sp
+
+초보캠핑
+	초보/ncn+캠핑/ncn
+
+
+맛집,
+	맛집,/ncn
+
+카페,
+	카페/ncn+,/sp
+
+브런치,
+	브런치,/ncn
+
+커피,
+	커피/ncn+,/sp
+
+홍차
+	홍차/ncn
+
+
+여러분의
+	여러/nnc+분/nbu+의/jcm
+
+덧글,
+	덧글,/ncn
+
+공감에
+	공감/ncpa+에/jca
+
+힘이
+	힘/ncn+이/jcc
+
+나는
+	나/npp+는/jxc
+
+여행별이랍니다^^
+	여행별이랍니다^^/ncn
+
+!
+	!/sf

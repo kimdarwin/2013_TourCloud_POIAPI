@@ -1,0 +1,465 @@
+가평
+	가평/ncn
+
+별바라기펜션으로
+	별바라기펜션/ncn+으로/jca
+
+놀러갔을
+	놀러갔/ncn+을/jco
+
+때
+	때/ncn
+
+일행들과
+	일행/ncn+들/ncn+과/jcj
+
+점심을
+	점심/ncn+을/jco
+
+먹은
+	먹/pvg+은/etm
+
+곳.
+	곳/ncn+./sf
+
+.
+	./sf
+
+
+가평군
+	가평군/ncn
+
+하면
+	하/pvg+면/ecs
+
+신상리에
+	신상/ncn+리/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+소희네묵집
+	소희네묵집/ncn
+
+입니다~
+	입/pvg+니다/ef+~/sd
+
+
+가평군
+	가평군/ncn
+
+하면
+	하/pvg+면/ecs
+
+신상리에
+	신상/ncn+리/ncn+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+별바라기펜션
+	별바라기펜션/ncn
+
+가는
+	가/pvg+는/etm
+
+도로변
+	도로변/ncn
+
+왼편에
+	왼편/ncn+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+별바라기펜션에서
+	별바라기펜션/ncn+에서/jca
+
+10분
+	10/nnc+분/nbu
+
+정도
+	정도/ncn
+
+거리
+	것/nbn+이/jp+리/ef
+
+.
+	./sf
+
+
+실내모습입니다
+	실내/ncn+모습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+좌식테이블들로
+	좌식/ncpa+테이블/ncn+들/ncn+로/jca
+
+철푸덕
+	철푸덕/ncn
+
+앉는
+	앉/pvg+는/etm
+
+자리예요
+	자리/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+근처에서는
+	근처/ncn+에서/jca+는/jxc
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+맛집이래요
+	맛집이래요/ncn
+
+.
+	./sf
+
+
+저희
+	저희/npp
+
+일행들이
+	일행/ncn+들/ncn+이/jcc
+
+들어가니
+	들/pvg+어/ecx+가/px+니/ecs
+
+바로
+	바로/mag
+
+꽉
+	꽉/mag
+
+찼네요
+	차/pvg+아/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+오른편
+	오르/pvg+ㄴ/etm+편/nbn
+
+주방쪽에
+	주방/ncn+쪽/ncn+에/jca
+
+메뉴판이
+	메뉴판/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+매일
+	매일/mag
+
+도토리묵을
+	도토리묵/ncn+을/jco
+
+쑨다고
+	쑤/pvg+ㄴ다/ef+고/jcr
+
+하네요~
+	하/pvg+네요/ef+~/sd
+
+
+막걸리
+	막걸리/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+주전자
+	주전자/ncn
+
+주문했습니다
+	주문/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+잣막걸리더라구요
+	잣막걸리더라구요/ncn
+
+.
+	./sf
+
+
+달달하니
+	달달하/ncn+이/jp+니/ecs
+
+좋더군요
+	좋/paa+더군/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+반찬들
+	반찬/ncn+들/ncn
+
+..
+	./sf+./sf
+
+
+쭈욱
+	쭈욱/mag
+
+....
+	.../se+./sf
+
+
+다
+	다/mag
+
+괜찮더군요~
+	괜찮/paa+더군/ef+요/jxf+~/sd
+
+
+일행들
+	일행/ncn+들/ncn
+
+대부분
+	대부분/ncn
+
+다
+	다/mag
+
+묵밥을
+	묵밥/ncn+을/jco
+
+주문했어요
+	주문/ncpa+하/xsva+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+도토리묵밥(7,000원)입니다
+	도토리묵밥(7,000원)입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+밥은
+	밥/ncn+은/jxc
+
+보리가
+	보리/ncn+가/jcs
+
+섞인
+	섞이/pvg+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+그릇으로
+	그릇/nbu+으로/jca
+
+따로
+	따로/mag
+
+나오고
+	나/pvg+아/ecx+오/px+고/ecc
+
+...
+	.../se
+
+
+이이서
+	이/nnc+이/nnc+서/jca
+
+묵밥그릇이
+	묵밥그릇/ncn+이/jcc
+
+나와줍니다
+	나오/pvg+아/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+맛을
+	맛/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+밍밍하면서도
+	밍밍하면서/ncn+도/jxc
+
+고소한
+	고소/ncn+한/ncn
+
+뒷맛이
+	뒷맛/ncn+이/jcc
+
+일품입니다
+	일품/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+찾으시는
+	찾/pvg+으시/ep+는/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+좋아할만한
+	좋/paa+아/ecx+하/px+ㄹ/etm+만/nbs+하/xsms+ㄴ/etm
+
+묵밥이었어요~~
+	묵밥/ncn+이/jp+었/ep+어요/ef+~/sd+~/sd
+
+
+여기까지
+	여기/npd+까지/jxc
+
+....
+	.../se+./sf
+
+
+별바라기펜션을
+	별바라기펜션/ncn+을/jco
+
+가게
+	가/px+게/ecs
+
+된다면
+	되/pvg+ㄴ다면/ecs
+
+식사를
+	식사/ncpa+를/jco
+
+해결하러
+	해결/ncpa+하/xsva+러/ecs
+
+들리기
+	들리/pvg+기/etn
+
+좋은
+	좋/paa+은/etm
+
+..
+	./sf+./sf
+
+
+맛있는
+	맛있/paa+는/etm
+
+묵밥집
+	묵밥집/ncn
+
+....
+	.../se+./sf
+
+
+소희네묵집
+	소희네묵집/ncn
+
+이었습니다~
+	이/ncn+이/jp+었/ep+습니다/ef+~/sd
+
+
+위치
+	위치/ncn
+
+:
+	:/sp
+
+경기도
+	경기/ncn+도/jxc
+
+가평군
+	가평군/ncn
+
+하면
+	하/pvg+면/ecs
+
+신상리
+	신상/ncn+리/ncn
+
+191-1번지
+	191-1번지/ncn
+
+
+전화번호
+	전화번호/ncn
+
+:
+	:/sp
+
+031-585-5321
+	031/nnc+-585/nnc+-5321/nnc
+
+
+소희네묵집
+	소희네묵집/ncn
+
+
+경기도
+	경기/ncn+도/jxc
+
+가평군
+	가평군/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011181185",
+	"bl011181185",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"13542773",
+	"/sl+13542773/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"소희네묵집",
+	title:"소희네묵집",/ncn
+
+pointX:344155,pointY:584589}
+	pointX/f+:/sp+344155/nnc+,/sp+pointY/f+:/sp+584589/nnc+}/sr

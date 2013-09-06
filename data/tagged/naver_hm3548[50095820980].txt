@@ -1,0 +1,415 @@
+벌써
+	벌써/mag
+
+가을인가
+	가을/ncn+이/jp+ㄴ가/ef
+
+?
+	?/sf
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+출근
+	출근/ncpa
+
+준비하려고
+	준비/ncpa+하/xsva+려고/ecs
+
+샤워를
+	샤워/ncpa+를/jco
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+너무
+	너무/mag
+
+추운거예요
+	추운거예요/ncn
+
+.
+	./sf
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+따끈
+	따끈/ncps
+
+따끈한
+	따끈/ncps+하/xsms+ㄴ/etm
+
+물로
+	물/ncn+로/jca
+
+샤워를
+	샤워/ncpa+를/jco
+
+했어요
+	하/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+아침(
+	아침(/ncn
+
+?)
+	?/sf+)/sr
+
+
+저녁으로
+	저녁/ncn+으로/jca
+
+서늘한
+	서늘/ncps+하/xsms+ㄴ/etm
+
+바람이
+	바람/ncn+이/jcc
+
+불어오는것이
+	불/pvg+어/ecx+오/px+는/etm+것/nbn+이/jcc
+
+가을이란
+	가을/ncn+이란/jxc
+
+느낌이예요
+	느낌/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+올해는
+	올해/ncn+는/jxc
+
+9월에도
+	9/nnc+월/nbu+에/jca+도/jxc
+
+많이
+	많/paa+이/xsa
+
+덥다더니
+	덥다더/ncn+이/jp+니/ecs
+
+..
+	./sf+./sf
+
+
+9월은
+	9/nnc+월/nbu+은/jxc
+
+역시
+	역시/mag
+
+가을은
+	가을/ncn+은/jxc
+
+가을이예요
+	가을/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+가을이
+	가을/ncn+이/jcc
+
+오니
+	오/px+니/ecs
+
+또훌쩍
+	또훌쩍/ncn
+
+떠나고
+	떠나/pvg+고/ecc
+
+싶어져요
+	싶/px+어/ecx+지/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+출근하는길에
+	출근하는길/ncn+에/jca
+
+지하철역을
+	지하철역/ncn+을/jco
+
+통과하는
+	통과/ncpa+하/xsva+는/etm
+
+기차를
+	기차/ncn+를/jco
+
+보면서도
+	보/px+면서/ecs+도/jxc
+
+마음이
+	마음/ncn+이/jcc
+
+설레네요
+	설레/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+두근두근두근
+	두근두근두근/ncn
+
+
+근.데
+	근.데/ncn
+
+.
+	./sf
+
+
+기차와
+	기차/ncn+와/jcj
+
+지하철과
+	지하철/ncn+과/jcj
+
+그닥
+	그닥/ncn
+
+차이도
+	차/ncn+이/jcs+도/jxc
+
+없는데
+	없/paa+는데/ecs
+
+지하철은
+	지하철/ncn+은/jxc
+
+왜
+	왜/mag
+
+설레지
+	설레/pvg+지/ecx
+
+않을까요
+	않/px+을까/ef+요/jxf
+
+?
+	?/sf
+
+
+요즘
+	요즘/mag
+
+2시에
+	2/nnc+시/nbu+에/jca
+
+출근해서
+	출근/ncpa+하/xsva+어서/ecs
+
+6시에
+	6/nnc+시/nbu+에/jca
+
+퇴근하는데
+	퇴근/ncpa+하/xsva+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+어제는
+	어제/ncn+는/jxc
+
+회사다닐때도
+	회사다닐때/ncn+도/jxc
+
+잘
+	잘/mag
+
+겪지
+	겪/pvg+지/ecx
+
+않았던
+	않/px+아/ep+ㄴ/etm
+
+지옥철을
+	지옥철/ncn+을/jco
+
+경험했어요
+	경험/ncpa+하/xsva+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+지옥철을
+	지옥철/ncn+을/jco
+
+경험하지
+	경험/ncpa+하/xsva+지/ecx
+
+않기위해
+	않기위해/ncn
+
+신도림역을피하려고
+	신도림역을피하려/ncn+이/jp+고/ecc
+
+남구로역에서
+	남구로역/ncn+에서/jca
+
+지하철을
+	지하철/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+가산디지털단지에서
+	가산/ncn+디지털/ncn+단지/ncn+에서/jca
+
+1호선을
+	1호선/ncn+을/jco
+
+갈아타는데
+	갈/pvg+아/ecx+타/px+ㄴ데/ecs
+
+...
+	.../se
+
+
+사람이
+	사람/ncn+이/jcc
+
+어찌나
+	어찌/mag+나/jxc
+
+많아주시는지
+	많/paa+아/ecx+주/px+시/ep+는지/ecs
+
+뒤로타기
+	뒤로타/ncn+이/jp+기/etn
+
+신공으로
+	신공/ncn+으로/jca
+
+사람들을
+	사람들/ncn+을/jco
+
+밀어가며
+	밀/pvg+어/ecx+가/px+며/ecc
+
+탔어요
+	트/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+지하철
+	지하철/ncn
+
+무섭
+	무섭/ncn
+
+....
+	.../se+./sf
+
+
+;;;;
+	;/sy+;/sy+;/sy+;/sy
+
+
+그래도
+	그래도/maj
+
+그
+	그/mmd
+
+지옥철
+	지옥철/ncn
+
+안에서
+	안/ncn+에서/jca
+
+의왕역을
+	의왕역/ncn+을/jco
+
+지나며
+	지나/pvg+며/ecc
+
+철도박물관이란걸
+	철도박물관이란걸/ncn
+
+발견했어요
+	발견/ncpa+하/xsva+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+으하하하하
+	으하하하하/ncn
+
+
+전
+	전/nbn
+
+설레임이
+	설레이/pvg+ㅁ/etn+이/jcs
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+기차가
+	기차/ncn+가/jcs
+
+좋다는
+	좋/paa+다/ef+는/etm
+
+...
+	.../se
+
+
+내일은
+	내일/ncn+은/jxc
+
+아침
+	아침/ncn
+
+일찍
+	일찍/mag
+
+출발해서
+	출발/ncpa+해서/ncn
+
+철도박물관에
+	철도/ncn+박물관/ncn+에/jca
+
+들렀다
+	들르/pvg+었/ep+다/ef
+
+출근해야겠어용
+	출근해야겠어용/ncn
+
+.
+	./sf
+
+
+히히
+	히히/mag
+
+
+오늘도
+	오늘/ncn+도/jxc
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+하루들되세요
+	하루/ncn+들/ncn+되/xsvn+세/ef+요/jxf
+
+.
+	./sf

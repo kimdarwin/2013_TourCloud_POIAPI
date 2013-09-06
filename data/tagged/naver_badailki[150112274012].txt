@@ -1,0 +1,559 @@
+낙동강
+	낙동강/ncn
+
+하류
+	하류/ncn
+
+농경지
+	농경지/ncn
+
+침수는
+	침수/ncpa+는/jxc
+
+없어
+	없/paa+어/ecs
+
+
+장마와
+	장마/ncn+와/jcj
+
+태풍
+	태풍/ncn
+
+메아리로
+	메아리/ncn+로/jca
+
+제방
+	제방/ncn
+
+일부가
+	일/nnc+부/nbu+가/jcc
+
+쓸려
+	쓸리/pvg+어/ecx
+
+내려간
+	내리/pvg+어/ecx+가/px+ㄴ/etm
+
+상주
+	상주/ncn
+
+보
+	보/nbu
+
+하류가
+	하류/ncn+가/jcs
+
+더
+	더/mag
+
+이상의
+	이상/ncn+의/jcm
+
+피해는
+	피하/pvg+어/ef+는/etm
+
+없는
+	없/paa+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+확인됐다
+	확인/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+상주보
+	상주/ncn+보/ncn
+
+하류의
+	하류/ncn+의/jcm
+
+좌안
+	좌/ncn+안/xsnx
+
+제방은
+	제방/ncn+은/jxc
+
+25일
+	25/nnc+일/nbu
+
+수십m
+	수십m/ncn
+
+가량이
+	가량/nbu+이/jcc
+
+급류에
+	급류/ncn+에/jca
+
+깎여
+	깎이/pvg+어/ecx
+
+부분적으로
+	부분/ncn+적/ncn+으로/jca
+
+무너져
+	무너지/pvg+어/ecx
+
+내렸다
+	내리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+피해를
+	피해/ncpa+를/jco
+
+입은
+	입/pvg+은/etm
+
+구간은
+	구간/ncn+은/jxc
+
+제방
+	제방/ncn
+
+침식을
+	침식/ncpa+을/jco
+
+막기
+	막/pvg+기/etn
+
+위한
+	위하/pvg+ㄴ/etm
+
+호안(제방보호
+	호/nbu+안/xsnx+(/sl+제방/ncn+보호/ncpa
+
+시설)공사를
+	시설/ncpa+)/sr+공사/ncn+를/jco
+
+하는
+	하/pvg+는/etm
+
+중이었다
+	중/nbn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+6월
+	6/nnc+월/nbu
+
+폭우로
+	폭우/ncn+로/jca
+
+물이
+	물/ncn+이/jcc
+
+둔치
+	둔치/ncn
+
+위까지
+	위/ncn+까지/jxc
+
+차
+	차/pvg+아/ecx
+
+오르며
+	오르/pvg+며/ecc
+
+아랫쪽부터
+	아랫쪽/ncn+부터/jxc
+
+침식돼
+	침식/ncpa+되/xsvn+어/ecx
+
+내려앉은
+	내려앉/pvg+은/etm
+
+것으로
+	것/nbn+으로/jca
+
+부산지방국토관리청은
+	부산/ncps+지방국토관리청/ncn+은/jxc
+
+판단하고
+	판단/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+구간의
+	구간/ncn+의/jcm
+
+제방
+	제방/ncn
+
+너머엔
+	너머/ncn+엔/jca
+
+그동안
+	그동안/ncn
+
+저지대
+	저지대/ncn
+
+농경지로
+	농경지/ncn+로/jca
+
+상습침수구역이었으나,
+	상습/ncn+침수/ncpa+구역/ncn+이/jp+었/ep+으나/ecs+,/sp
+
+4대강
+	4대강/ncn
+
+사업의
+	사업/ncn+의/jcm
+
+농경지
+	농경지/ncn
+
+리모델링
+	리모델링/ncn
+
+공사로
+	공사/ncn+로/jca
+
+이미
+	이미/mag
+
+성토돼
+	성토/ncpa+되/xsvn+어/ecx
+
+침수피해는
+	침수/ncpa+피해/ncpa+는/jxc
+
+없는
+	없/paa+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+파악됐다
+	파악/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+제방과
+	제방/ncn+과/jcj
+
+농경지의
+	농경지/ncn+의/jcm
+
+높이가
+	높이/ncn+가/jcs
+
+거의
+	거의/mag
+
+비슷한
+	비슷/ncps+하/xsms+ㄴ/etm
+
+구간으로
+	구간/ncn+으로/jca
+
+붕괴와
+	붕괴/ncpa+와/jcj
+
+범람우려는
+	범람/ncpa+우려/ncpa+는/jxc
+
+없는
+	없/paa+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+부산지방국토관리청
+	부산/ncps+지방국토관리청/ncn
+
+관계자는
+	관계자/ncn+는/jxc
+
+피해를
+	피해/ncpa+를/jco
+
+입어
+	입/pvg+어/ecx
+
+안타깝다
+	안타깝/paa+다/ef
+
+.
+	./sf
+
+
+그동안
+	그동안/ncn
+
+제방
+	제방/ncn
+
+보호를
+	보호/ncpa+를/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+준비공사를
+	준비/ncn+공사/ncn+를/jco
+
+하는
+	하/pvg+는/etm
+
+중이었으나
+	중/nbn+이/jp+었/ep+으나/ecs
+
+갑작스럽게
+	갑작/ncps+스럽/xsmn+게/ecs
+
+6월
+	6/nnc+월/nbu
+
+태풍
+	태풍/ncn
+
+폭우로
+	폭우/ncn+로/jca
+
+피해를
+	피해/ncpa+를/jco
+
+입게
+	입/pvg+게/ecs
+
+됐다
+	되/pvg+었/ep+다/ef
+
+며
+	며/ncn
+
+보와
+	보/ncn+와/jct
+
+가까운
+	가깝/paa+은/etm
+
+곳엔
+	곳/ncn+엔/jca
+
+옹벽
+	옹벽/ncn
+
+같은
+	같/paa+은/etm
+
+강한
+	강하/paa+ㄴ/etm
+
+시설로
+	시설/ncpa+로/jca
+
+보강
+	보강/ncpa
+
+공사하도록
+	공사/ncpa+하/xsva+도록/ecs
+
+시공사와
+	시공사/ncn+와/jct
+
+검토하겠다
+	검토/ncpa+하/xsva+겠/ep+다/ef
+
+고
+	고/mma
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+한편
+	한/nnc+편/nbu
+
+이번
+	이/nnc+번/nbu
+
+유례없는
+	유례없/paa+는/etm
+
+태풍
+	태풍/ncn
+
+장마
+	장마/ncn
+
+비에도
+	비/ncn+에/jca+도/jxc
+
+낙동강엔
+	낙동강엔/ncn
+
+큰
+	크/paa+ㄴ/etm
+
+피해가
+	피하/pvg+어/ecx+가/px+아/ecx
+
+없는
+	없/paa+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+파악됐다
+	파악/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+현재
+	현재/mag
+
+노후된
+	노후/ncn+되/xsvn+ㄴ/etm
+
+왜관철교의
+	왜관철교/ncn+의/jcm
+
+교각이
+	교각/ncn+이/jcc
+
+유실된
+	유실/ncpa+되/xsvn+ㄴ/etm
+
+것과
+	것/nbn+과/jcj
+
+상주보
+	상주/ncn+보/ncn
+
+하류
+	하류/ncn
+
+제방
+	제방/ncn
+
+침식이
+	침식/ncpa+이/jcc
+
+낙동강
+	낙동강/ncn
+
+사업구간의
+	사업구간/ncn+의/jcm
+
+피해로
+	피해/ncpa+로/jca
+
+추정된다
+	추정/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+출처
+	출처/ncn
+
+:
+	:/sp
+
+뉴데일리바로가기
+	뉴데일리바로가/ncn+이/jp+기/etn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+newdaily.
+	newdaily/f+./sy
+
+co.
+	co/f+./sy
+
+kr
+	kr/f
+
+
+4대강살리기추진본부
+	4대강살리기추진본부/ncn
+
+(본부장
+	(/sl+본부장/ncn
+
+심명필
+	심명필/ncn
+
+http://twitter.
+	http/f+:/sp+//sp+//sp+twitter/f+./sy
+
+com/mpshim)
+	com/f+//sp+mpshim/f+)/sr
+
+
+4대강살리기
+	4대강살리/ncn+이/jp+기/etn
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+4rivers.
+	4rivers./ncn
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+mltm.
+	mltm/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp

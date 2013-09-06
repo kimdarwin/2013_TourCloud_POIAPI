@@ -1,0 +1,418 @@
+오늘
+	오늘/ncn
+
+오후
+	오후/ncn
+
+대학로
+	대학/ncn+로/jca
+
+동숭아트홀에서
+	동숭아트홀/ncn+에서/jca
+
+Press
+	Press/f
+
+call공연이
+	call공연/ncn+이/jcc
+
+있어다녀
+	있어다녀/ncn
+
+오면서
+	오/px+면서/ecc
+
+...
+	.../se
+
+
+10분
+	10/nnc+분/nbu
+
+늦게
+	늦/paa+게/ecs
+
+갔기에
+	가/px+아/ep+기/etn+에/jca
+
+뒷문으로
+	뒷문/ncn+으로/jca
+
+들갔더니
+	들갔더니/ncn
+
+방송사
+	방송사/ncn
+
+촬영장비들로
+	촬영장/ncn+비/ncn+들/xsncc+로/jca
+
+앞도
+	앞/ncn+도/jxc
+
+안
+	안/mag
+
+보이는
+	보이/pvg+는/etm
+
+...
+	.../se
+
+
+.
+	./sf
+
+
+앞쪽
+	앞쪽/ncn
+
+6줄
+	6줄/ncn
+
+정도까지가
+	정도/ncn+까지/jca+가/jcc
+
+사진기자들
+	사진기자/ncn+들/ncn
+
+자리이고
+	자리/ncn+이/jp+고/ecc
+
+그
+	그/mmd
+
+뒤로는
+	뒤/ncn+로는/jca
+
+
+방송사
+	방송사/ncn
+
+비디오
+	비디오/ncn
+
+촬영
+	촬영/ncpa
+
+자리로
+	자리/ncn+로/jca
+
+마련이
+	마련/nbn+이/jcc
+
+되는데
+	되/pvg+ㄴ데/ecs
+
+...
+	.../se
+
+
+이게
+	이/npd+이/jp+게/ecs
+
+왠일
+	왠일/ncn
+
+...
+	.../se
+
+
+뒷쪽에
+	뒷쪽/ncn+에/jca
+
+갔더니
+	가/px+아/ep+니/ecs
+
+완전
+	완전/ncps
+
+난감이였다죵
+	난감이였다죵/ncn
+
+...
+	.../se
+
+
+K모사와
+	K/f+모사/ncn+와/jcj
+
+M모사
+	M/f+모사/ncn
+
+비디오카메라
+	비디오카메라/ncn
+
+장비
+	장비/ncpa
+
+사이에
+	사이/ncn+에/jca
+
+껴서
+	끼/pvg+어서/ecs
+
+겨우
+	겨우/mag
+
+몇
+	몇/nnc
+
+컷
+	컷/nbu
+
+찍었으나
+	찍/pvg+었/ep+으나/ecc
+
+
+뒷쪽인지라
+	뒷쪽인지/ncn+이/jp+라/ecs
+
+잘
+	잘/mag
+
+잡힐리가요
+	잡힐리가요/ncn
+
+...
+	.../se
+
+
+.
+	./sf
+
+
+서서
+	서/pvg+어서/ecs
+
+찍다가
+	찍/pvg+다가/ecs
+
+나중에
+	나중/ncn+에/jca
+
+포기하고
+	포/ncn+이/jp+기/etn+하고/jct
+
+그냥
+	그냥/mag
+
+앉아서
+	앉/pvg+아/ecx
+
+관람하며
+	관람/ncpa+하/xsva+며/ecc
+
+비평이나
+	비평/ncpa+이나/jcj
+
+...
+	.../se
+
+
+연극열전
+	연극/ncn+열전/ncn
+
+그
+	그/mmd
+
+일곱번째
+	일곱/nnc+번/nbu+째/xsnu
+
+이야기
+	이야기/ncpa
+
+"쉐이프"
+	"쉐이프"/ncn
+
+이
+	이/mmd
+
+공연
+	공연/ncpa
+
+볼만했어요
+	보/px+ㄹ/etm+만/nbs+하/xsms+었/ep+어/ef+요/jxf
+
+...
+	.../se
+
+
+많은
+	많/paa+은/etm
+
+이야기거리를
+	이야기거리/ncn+를/jco
+
+제공해주는
+	제공/ncpa+하/xsva+어/ecx+주/px+는/etm
+
+연극이라는
+	연극/ncn+이/jp+라/ef+는/etm
+
+생각이지요
+	생각/ncpa+이/jp+지/ef+요/jxf
+
+...
+	.../se
+
+
+연극
+	연극/ncn
+
+속
+	속/ncn
+
+논픽션의
+	논픽션/ncn+의/jcm
+
+장르~~~연극
+	장르/ncn+~/sd+~/sd+~/sd+연극/ncn
+
+"썸걸즈"를
+	"썸걸즈"/ncn+를/jco
+
+보신
+	보/px+시/ep+ㄴ/etm
+
+분이라면,
+	분/nbn+이라/jca+이/jp+면/ecs+,/sp
+
+
+아~~~반전이
+	아/ii+~/sd+~/sd+~/sd+반전/ncpa+이/jcc
+
+비슷하네
+	비슷/ncps+하/xsms+네/ef
+
+하며
+	하/pvg+며/ecc
+
+조금
+	조금/mag
+
+가볍게
+	가볍/paa+게/ecs
+
+생각할
+	생각/ncpa+하/xsva+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있지만,
+	있/paa+지만/ecs+,/sp
+
+
+결코
+	결코/mag
+
+가벼운
+	가볍/paa+은/etm
+
+주제는
+	주제/ncn+는/jxc
+
+아니였어요
+	아니/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+현대인들의
+	현대/ncn+이/jp+ㄴ/etm+들/nbn+의/jcm
+
+몰개성과
+	몰개성/ncpa+과/jcj
+
+무관심에
+	무관심/ncps+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+고발적인
+	고발/ncpa+적/ncn+이/jp+ㄴ/etm
+
+극이라고
+	극/ncn+이/jp+라/ef+고/jcr
+
+해야할까요
+	하/pvg+어야/ecx+하/px+ㄹ까/ef+요/jxf
+
+??
+	?/sf+?/sf
+
+
+자연주의적
+	자연/ncn+주의/ncn+적/ncn
+
+예술에
+	예술/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+나름의
+	나름/nbn+의/jcm
+
+방향성을
+	방향/ncn+성/ncn+을/jco
+
+제시해
+	제시/ncpa+하/xsva+어/ecx
+
+주지만,
+	주지/ncpa+만/jxc+,/sp
+
+
+결국
+	결국/mag
+
+그녀도
+	그녀/npp+도/jxc
+
+자연주의적인
+	자연/ncn+주의/ncn+적/ncn+이/jp+ㄴ/etm
+
+것에서
+	것/nbn+에서/jca
+
+벗어나
+	벗/pvg+어/ecs+나/jxc
+
+
+의도한
+	의도/ncpa+하/xsva+ㄴ/etm
+
+대로
+	대/nbu+로/jca
+
+그를
+	그/npp+를/jco
+
+변태시킨
+	변태시킨/ncn
+
+것이
+	것/nbn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+하는
+	하/pvg+는/etm
+
+
+회의적이기도
+	회의/ncn+적/ncn+이/jp+기/etn+도/jxc
+
+했던
+	하/px+었/ep+던/etm
+
+극이였어요
+	극이/ncn+이/jp+었/ep+어/ef+요/jxf
+
+...
+	.../se

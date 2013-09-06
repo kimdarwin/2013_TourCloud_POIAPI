@@ -1,0 +1,908 @@
+2012
+	2012/nnc
+
+장흥
+	장흥/ncn
+
+정남진
+	정남진/ncn
+
+물축제
+	물축제/ncn
+
+
+생생
+	생생/ncn
+
+동영상
+	동영상/ncn
+
+!
+	!/sf
+
+
+꺄아아악
+	꺄아아악/ncn
+
+!
+	!/sf
+
+
+신나는
+	신나/pvg+는/etm
+
+물놀이
+	물놀이/ncpa
+
+!
+	!/sf
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/07/28/604/03100323813C53CE0EC3995173D955F3743_imoha0725_480P_01_16x9_logo.
+	net/blogucc28/2012/07/28/604/03100323813C53CE0EC3995173D955F3743_imoha0725_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'17.
+	'/sr+17./nnc
+
+48';
+	48/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'25D2687B529BA33541469B09557FB349DE0B';
+	'25D2687B529BA33541469B09557FB349DE0B/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1277860172019b91b3948e493cb00cd38c1d680019c677a57f7adc42f3ac9bd0a91c8e493cb00cd38c1d';
+	'V1277860172019b91b3948e493cb00cd38c1d680019c677a57f7adc42f3ac9bd0a91c8e493cb00cd38c1d/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_04182
+	ugcPlayer_04182/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_04182'
+	VideoInfraUGCPlayer('ugcPlayer_04182'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_04182
+	ugcPlayer_04182/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+워터
+	워터/ncn
+
+슬라이드
+	슬라이드/ncn
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/07/28/342/E31403138F3C13C30E239D7973A82D43143_imoha0725_480P_01_16x9_logo.
+	net/blogucc28/2012/07/28/342/E31403138F3C13C30E239D7973A82D43143_imoha0725_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'30.
+	'/sr+30./nnc
+
+53';
+	53/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'949E5EA62115FECE009C3658B5EF8B6914FE';
+	'949E5EA62115FECE009C3658B5EF8B6914FE/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12693fcee078299fd019df761b7235fa8d24aa5d45b67729f3893d052f22d40ad3fcdf761b7235fa8d24';
+	'V12693fcee078299fd019df761b7235fa8d24aa5d45b67729f3893d052f22d40ad3fcdf761b7235fa8d24/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_00710
+	ugcPlayer_00710/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_00710'
+	VideoInfraUGCPlayer('ugcPlayer_00710'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_00710
+	ugcPlayer_00710/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+여유만만
+	여유/ncn+만/jxc+만/jxc
+
+배타기2012
+	배타기2012/ncn
+
+대한민국
+	대한/ncn+민국/ncn
+
+정남진
+	정남진/ncn
+
+물축제기간
+	물축제기간/ncn
+
+.
+	./sf
+
+
+2012
+	2012/nnc
+
+.
+	./sf
+
+
+7.
+	7./nnc
+
+27(금)-8.
+	27(금)-8./ncn
+
+2(목)장소
+	2(목)장소/ncn
+
+.
+	./sf
+
+
+전남
+	전/xp+남/ncn
+
+장흥군
+	장흥군/ncn
+
+장흥읍
+	장흥읍/ncn
+
+탐진강과
+	탐진강/ncn+과/jcj
+
+편백숲
+	편백/ncn+숲/ncn
+
+우드랜드
+	우드랜드/ncn
+
+일원전화
+	일원/ncn+전화/ncpa
+
+.
+	./sf
+
+
+061.
+	061./nnc
+
+860.
+	860./nnc
+
+0380홈페이지
+	0380홈페/ncn+이/jp+지/ef
+
+.
+	./sf
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+jhwater.
+	jhwater/f+./sy
+
+kr
+	kr/f
+
+
+찾아가기
+	찾/pvg+아/ecx+가/px+기/etn
+
+.
+	./sf
+
+
+승용차호남고속도로-문흥IC-29국도-장흥-정남진물축제서해안고속도로-목포광양간
+	승용차호남고속도로-문흥IC-29국도-장흥-정남진물축제서해안고속도로-목포광양간/ncn
+
+고속도로-장흥IC-정남진물축제대중교통KTX-서울
+	고속도로-장흥IC-정남진물축제대중교통KTX-서울/ncn
+
+광주
+	광주/ncn
+
+혹은
+	혹은/maj
+
+나주에서
+	나주/ncn+에서/jca
+
+하차
+	하차/ncn
+
+후
+	후/ncn
+
+시외버스
+	시외버스/ncn
+
+갈아타고
+	갈/pvg+아/ecx+타/px+고/ecc
+
+광주
+	광주/ncn
+
+혹은
+	혹은/maj
+
+나주
+	나주/ncn
+
+장흥버스
+	장흥버스/ncn
+
+-
+	-/sd
+
+서울
+	서울/ncn
+
+장흥(일6회),
+	장흥(일6회),/ncn
+
+부산
+	부산/ncps
+
+장흥(일6회),
+	장흥(일6회),/ncn
+
+광주
+	광주/ncn
+
+장흥(일32회)
+	장흥/ncn+(/sl+일/nnc+32/nnc+회/nbu+)/sr
+
+
+정남진
+	정남진/ncn
+
+물축제
+	물축제/ncn
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장흥군
+	장흥군/ncn
+
+장흥읍
+	장흥읍/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011385659",
+	"bl011385659",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"정남진
+	title:"정남진/ncn
+
+물축제",
+	물축제",/ncn
+
+pointX:299838,pointY:231838}
+	pointX/f+:/sp+299838/nnc+,/sp+pointY/f+:/sp+231838/nnc+}/sr
+
+
+정남진
+	정남진/ncn
+
+물축제
+	물축제/ncn
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장흥군
+	장흥군/ncn
+
+장흥읍
+	장흥읍/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011385830",
+	"bl011385830",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"13116667",
+	"/sl+13116667/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"정남진
+	title:"정남진/ncn
+
+물축제",
+	물축제",/ncn
+
+pointX:299837,pointY:231843}
+	pointX/f+:/sp+299837/nnc+,/sp+pointY/f+:/sp+231843/nnc+}/sr

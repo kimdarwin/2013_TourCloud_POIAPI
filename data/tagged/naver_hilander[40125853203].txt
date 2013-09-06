@@ -1,0 +1,128 @@
+그냥
+	그냥/mag
+
+바다만
+	바다/ncn+만/jxc
+
+있어도
+	있/px+어도/ecs
+
+충분했을텐데
+	충분/ncps+하/xsms+었/ep+을텐데/ecs
+
+
+해변
+	해변/ncn
+
+모래위엔
+	모래/ncn+위/ncn+엔/jca
+
+눈이
+	눈/ncn+이/jcc
+
+가득
+	가득/mag
+
+내려
+	내/nbn+이/jp+려/ecs
+
+
+마치
+	마치/mag
+
+남극에
+	남극/ncn+에/jca
+
+온
+	오/px+ㄴ/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+느낌이었다
+	느낌/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+하늘은
+	하늘/ncn+은/jxc
+
+너무도
+	너무/mag+도/jxc
+
+파랬고
+	파랗/paa+아/ep+고/ecc
+
+
+해변은
+	해변/ncn+은/jxc
+
+너무도
+	너무/mag+도/jxc
+
+하얬으며
+	하얗/paa+아/ep+며/ecc
+
+
+시원했던
+	시원/ncps+하/xsms+었/ep+던/etm
+
+바람
+	바라/pvg+ㅁ/etn
+
+아래로
+	아래/ncn+로/jca
+
+
+두개의
+	두/nnc+개/nbu+의/jcm
+
+발자국이
+	발자국/ncn+이/jcc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+이제는
+	이제/mag+는/jxc
+
+녹아내렸을
+	녹/pvg+아/ecx+내리/px+었/ep+을/etm
+
+눈처럼
+	눈/ncn+처럼/jca
+
+
+발자국도
+	발자국/ncn+도/jxc
+
+다
+	다/mag
+
+사라져
+	사라지/pvg+어/ecx
+
+버렸을까
+	버리/px+었/ep+을까/ef
+
+..
+	./sf+./sf
+
+
+-
+	-/sd
+
+어느
+	어느/mmd
+
+겨울,
+	겨울/ncn+,/sp
+
+동해
+	동해/ncn

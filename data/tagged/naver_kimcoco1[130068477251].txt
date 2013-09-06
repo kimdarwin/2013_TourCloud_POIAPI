@@ -1,0 +1,1052 @@
+NDSL
+	NDSL/f
+
+게임중
+	게임/ncn+중/ncn
+
+그래픽의
+	그래픽/ncn+의/jcm
+
+묘미를
+	묘미/ncn+를/jco
+
+최대한
+	최대한/mag
+
+잘
+	잘/mag
+
+구현한
+	구현/ncpa+하/xsva+ㄴ/etm
+
+작품이
+	작품/ncn+이/jcc
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+환상수호전에
+	환상/ncn+수호/ncpa+전/ncn+에/jca
+
+대해서는
+	대/pvg+어/ecx+하/px+어서/ecs+는/jxc
+
+잘
+	잘/mag
+
+모르지만
+	모르/pvg+지만/ecs
+
+
+108명의
+	108/nnc+명/nbu+의/jcm
+
+인물을
+	인물/ncn+을/jco
+
+찾아
+	찾/pvg+아/ecx
+
+공동으로
+	공동/ncn+으로/jca
+
+힘을
+	힘/ncn+을/jco
+
+모아
+	모으/pvg+아/ecx
+
+클리어
+	크/paa+ㄹ/etm+리/nbn+이/jp+어/ecs
+
+한다는
+	하/px+ㄴ다/ef+는/etm
+
+정도는
+	정도/ncn+는/jxc
+
+알고
+	알/pvg+고/ecx
+
+잇씁니다
+	잇씁니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+"환상수호전
+	"/sl+환상/ncn+수호/ncpa+전/ncn
+
+:
+	:/sp
+
+티어크라이스"
+	티어크라이스"/ncn
+
+에서는
+	에/pvg+어서/ecs+는/jxc
+
+그래픽에
+	그래픽/ncn+에/jca
+
+아주
+	아주/mag
+
+충실하였고
+	충실/ncps+하/xsms+었/ep+고/ecc
+
+성우들의
+	성우/ncn+들/ncn+의/jcm
+
+목소리
+	목소리/ncn
+
+또한
+	또한/maj
+
+잘
+	잘/mag
+
+만들어진듯
+	만들/pvg+어/ecx+지/px+ㄴ/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+108명의
+	108/nnc+명/nbu+의/jcm
+
+동료를
+	동료/ncn+를/jco
+
+모두
+	모두/mag
+
+모으고
+	모으/pvg+고/ecc
+
+틀리어
+	틀리/pvg+어/ecx
+
+하는대는
+	하는대/ncn+는/jxc
+
+대략
+	대략/mag
+
+50
+	50/nnc
+
+시간
+	시간/nbu
+
+정도가
+	정도/ncn+가/jcs
+
+걸린다고
+	걸리/pvg+ㄴ다/ef+고/jcr
+
+하고
+	하/pvg+고/ecc
+
+노멀
+	노멀/ncn
+
+모드로
+	모드/ncn+로/jca
+
+하면
+	하/pvg+면/ecs
+
+30시간
+	30/nnc+시간/nbu
+
+정도
+	정도/ncn
+
+걸린다고
+	걸리/pvg+ㄴ다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+보통
+	보통/mag
+
+턴
+	털/pvg+ㄴ/etm
+
+방식의
+	방식/ncn+의/jcm
+
+게임은
+	게임/ncn+은/jxc
+
+전투를
+	절/pvg+ㄴ/etm+투/nbn+를/jco
+
+할때
+	하/pvg+ㄹ/etm+때/nbn
+
+상당히
+	상당히/mag
+
+답답한
+	답답/ncps+하/xsms+ㄴ/etm
+
+면이
+	면/ncn+이/jcc
+
+있는데
+	있/px+는데/ecs
+
+반해
+	반하/pvg+어/ecx
+
+환상수호전
+	환상/ncn+수호/ncpa+전/ncn
+
+:
+	:/sp
+
+티어크라이스
+	티어크라이스/ncn
+
+같은
+	같/paa+은/etm
+
+경우는
+	경우/ncn+는/jxc
+
+기껏해봐야
+	기껏해봐야/ncn
+
+5텀이
+	5텀/ncn+이/jcc
+
+넘지
+	넘/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+빨리
+	빨리/mag
+
+전투를
+	절/pvg+ㄴ/etm+투/nbn+를/jco
+
+진행할수
+	진행/ncpa+하/xsva+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+방식으로
+	방식/ncn+으로/jca
+
+구현해
+	구현/ncpa+하/xsva+어/ecx
+
+내었습니다
+	내/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+쉽게
+	쉽/paa+게/ecs
+
+질리지
+	질리/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+엔딩을
+	엔딩/ncn+을/jco
+
+보기
+	보/px+기/etn
+
+위하여
+	위하/pvg+어/ecx
+
+끝까지
+	끝/ncn+까지/jxc
+
+매달리는
+	매달리/pvg+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많습니다
+	많/paa+습니다/ef
+
+.
+	./sf
+
+
+보통
+	보통/mag
+
+닌텐도에서
+	닌텐도/ncn+에서/jca
+
+보여지는
+	보이/pvg+어/ecx+지/px+는/etm
+
+타이틀
+	타이틀/ncn
+
+화면과는
+	화면/ncn+과/jct+는/jxc
+
+사뭇
+	사뭇/mag
+
+틀립니다
+	틀리/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+좀더
+	좀더/mag
+
+환타지
+	환타지/ncn
+
+소설
+	소설/ncn
+
+같은
+	같/paa+은/etm
+
+느낌이라고
+	느낌/ncn+이/jp+라/ef+고/jcr
+
+해야
+	하/pvg+어야/ecs
+
+할까요
+	하/px+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+처음에
+	처음/ncn+에/jca
+
+시작하면
+	시작/ncpa+하/xsva+면/ecs
+
+동영상이
+	동영상/ncn+이/jcc
+
+보여집니다
+	보이/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+동영상이
+	동영상/ncn+이/jcc
+
+끝나고
+	끝나/pvg+고/ecc
+
+나면
+	나/px+면/ecs
+
+게임을
+	게임/ncn+을/jco
+
+시작할수
+	시작/ncpa+하/xsva+ㄹ/etm+수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+닌텐도
+	닌텐/ncn+도/jxc
+
+아래와
+	아래/ncn+와/jcj
+
+윗
+	윗/mma
+
+부분이
+	부분/ncn+이/jcc
+
+잘
+	잘/mag
+
+맞아
+	맞/pvg+아/ecx
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+숲이
+	숲/ncn+이/jcc
+
+울창하네요
+	울창/ncps+하/xsms+네요/ef
+
+
+이름을
+	이름/ncn+을/jco
+
+씁니다
+	쓰/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+이름은
+	이름/ncn+은/jxc
+
+게임
+	게임/ncn
+
+진행
+	진행/ncpa
+
+중
+	중/nbn
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+불리기
+	불리/pvg+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+이름을
+	이름/ncn+을/jco
+
+잘
+	잘/mag
+
+지어
+	지/px+어/ecx
+
+주면
+	주/px+면/ecs
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+자
+	자/ii
+
+이제
+	이제/mag
+
+게임을
+	게임/ncn+을/jco
+
+시작하였습니다
+	시작/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+자기방에
+	자기/ncn+방/ncn+에/jca
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+친구들이
+	친구/ncn+들/ncn+이/jcc
+
+일어나라고
+	일어나/pvg+라/ef+고/jcr
+
+깨우로
+	깨우/ncn+로/jca
+
+옵니다
+	오/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그러면서
+	그러/pvd+면서/ecc
+
+하나둘씩
+	하나/nnc+둘/nnc+씩/xsnu
+
+캐릭터를
+	캐릭터/ncn+를/jco
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+이런
+	이런/mmd
+
+인물들이
+	인물들/ncn+이/jcc
+
+처음에
+	처음/ncn+에/jca
+
+등장한다는
+	등장/ncpa+하/xsva+ㄴ다/ef+는/etm
+
+암시를
+	암시/ncpa+를/jco
+
+줍니다
+	주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+친구들과
+	친구/ncn+들/ncn+과/jcj
+
+이야기를
+	이야기/ncpa+를/jco
+
+한후
+	하/px+ㄴ후/ef
+
+광장으로
+	광장/ncn+으로/jca
+
+나와서
+	나오/pvg+아/ecx
+
+현재
+	현재/mag
+
+진행하고
+	진행/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+상황에
+	상황/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+이야기
+	이야기/ncpa
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아무래도
+	아무렇/pad+어도/ecs
+
+롤플레잉
+	롤플레잉/ncn
+
+이다보니
+	이다보니/ncn
+
+말을
+	말/ncn+을/jco
+
+엄청
+	엄청/mag
+
+많이
+	많/paa+이/xsa
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+무기를
+	무기/ncn+를/jco
+
+받고
+	받/pvg+고/ecc
+
+전투나갈
+	전투나갈/ncn
+
+채비를
+	채비/ncpa+를/jco
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+털토끼를
+	털토끼/ncn+를/jco
+
+잡아오라고
+	잡/pvg+어/ecx+오/px+라/ef+고/jcr
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+처음이라
+	처음/ncn+이/jp+라/ecs
+
+아주
+	아주/mag
+
+약한
+	약하/paa+ㄴ/etm
+
+몬스터를
+	몬스터/ncn+를/jco
+
+잡는가
+	잡/pvg+는가/ecs
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+몬스터와는
+	몬스터/ncn+와/jct+는/jxc
+
+이런
+	이런/mmd
+
+방식으로
+	방식/ncn+으로/jca
+
+싸웁니다
+	싸우/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+턴
+	털/pvg+ㄴ/etm
+
+방식으로
+	방식/ncn+으로/jca
+
+운영이
+	운영/ncpa+이/jcc
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+비교적
+	비교/ncpa+적/ncn
+
+몬스터와
+	몬스터/ncn+와/jct
+
+싸우는
+	싸우/pvg+는/etm
+
+방식은
+	방식/ncn+은/jxc
+
+쉽고
+	쉽/paa+고/ecc
+
+빨리
+	빨리/mag
+
+끝납니다
+	끝나/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+필드를
+	필드/ncn+를/jco
+
+돌아다니다가
+	돌아다니/pvg+다가/ecs
+
+몹이
+	몹/ncn+이/jcc
+
+나오면
+	나/pvg+아/ecx+오/px+면/ecs
+
+전투를
+	절/pvg+ㄴ/etm+투/nbn+를/jco
+
+하는
+	하/pvg+는/etm
+
+방식입니다
+	방식/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+소개
+	소개/ncpa
+
+해
+	하/pvg+어/ecx
+
+드릴
+	드리/pvg+ㄹ/etm
+
+부분은
+	부분/ncn+은/jxc
+
+여기까지입니다
+	여기/npd+까지/jca+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그래픽이
+	그래픽/ncn+이/jcc
+
+생각보다
+	생각/ncpa+보다/jca
+
+좋고
+	좋/paa+고/ecc
+
+게임
+	게임/ncn
+
+방식도
+	방식/ncn+도/jxc
+
+기존의
+	기존/ncpa+의/jcm
+
+게임에
+	게임/ncn+에/jca
+
+비하여
+	비하/pvg+어/ecx
+
+속도감도
+	속도감/ncn+도/jxc
+
+있고
+	있/px+고/ecc
+
+..
+	./sf+./sf
+
+
+여러가지로
+	여러/nnc+가지/nbu+로/jca
+
+장점이
+	장점/ncn+이/jcc
+
+많은
+	많/paa+은/etm
+
+게임인듯
+	게임/ncn+이/jp+ㄴ/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+좀더
+	좀더/mag
+
+자세한
+	자세/ncn+한/ncn
+
+사항을
+	사항/ncn+을/jco
+
+알기
+	알/pvg+기/etn
+
+원하시면
+	원하/pvg+시/ep+면/ecs
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+konami-korea.
+	konami/f+-/sd+korea/f+./sy
+
+kr/gamepage/tierkreis/chara.
+	kr/f+//sp+gamepage/f+//sp+tierkreis/f+//sp+chara/f+./sy
+
+html
+	html/f
+
+=
+	=/sy
+
+이
+	이/mmd
+
+사이트로
+	사이트/ncn+로/jca
+
+가서
+	가/pvg+서/ecs
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+알아보시면
+	알/pvg+아/ecx+보/px+시/ep+면/ecs
+
+될듯
+	되/pvg+ㄹ/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+인물들이
+	인물들/ncn+이/jcc
+
+잘
+	잘/mag
+
+소개
+	소개/ncpa
+
+되어
+	되/pvg+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+게임은
+	게임/ncn+은/jxc
+
+RPG에
+	RPG/f+에/jca
+
+처음
+	처음/mag
+
+입문하시는
+	입문/ncpa+하시/ncn+는/jxc
+
+분들에게
+	불/pvg+ㄴ/etm+들/nbn+에게/jca
+
+좋은
+	좋/paa+은/etm
+
+교과서가
+	교과서/ncn+가/jcs
+
+될듯
+	되/pvg+ㄹ/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+게임을
+	게임/ncn+을/jco
+
+영화화하여
+	영화/ncn+화/xsnca+하/xsva+어/ecx
+
+진행하고
+	진행/ncpa+하고/jct
+
+전투를
+	절/pvg+ㄴ/etm+투/nbn+를/jco
+
+하고
+	하/pvg+고/ecc
+
+몰입도가
+	몰입/ncpa+도/ncn+가/jcs
+
+엄청날듯
+	엄청나/paa+ㄹ/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+10살
+	10/nnc+살/nbu
+
+이상은
+	이상/ncn+은/jxc
+
+되어야
+	되/pvg+어야/ecs
+
+게임을
+	게임/ncn+을/jco
+
+진행
+	진행/ncpa
+
+할수
+	하/pvg+ㄹ/etm+수/nbn
+
+있을듯
+	있/px+을/etm+듯/nbs
+
+하네요
+	하/pvg+네요/ef
+
+
+하여튼
+	하여튼/mag
+
+오랫만에
+	오랫만/ncn+에/jca
+
+좋은
+	좋/paa+은/etm
+
+게임을
+	게임/ncn+을/jco
+
+소개
+	소개/ncpa
+
+해
+	하/pvg+어/ecx
+
+드리는
+	드리/pvg+는/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+"환상수호전
+	"/sl+환상/ncn+수호/ncpa+전/ncn
+
+:
+	:/sp
+
+티어크라이스"
+	티어크라이스"/ncn
+
+였습니다
+	였습니/ncn+이/jp+다/ef
+
+.
+	./sf

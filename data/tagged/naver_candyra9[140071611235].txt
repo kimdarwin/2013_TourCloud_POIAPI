@@ -1,0 +1,44 @@
+아삭아삭
+	아삭아삭/ncn
+
+그냥
+	그냥/mag
+
+먹어도
+	먹/pvg+어도/ecs
+
+맛있는
+	맛있/paa+는/etm
+
+"매실통조림"
+	"/sl+매실/ncn+통조림/ncn+"/sr
+
+
+아래
+	아래/ncn
+
+주소에
+	주소/ncn+에/jca
+
+레시피
+	레시피/ncn
+
+있어욤
+	있어욤/ncn
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/candyra9/140052529645
+	com/candyra9/ncn+//sp+140052529645/nnc

@@ -1,0 +1,993 @@
+출처
+	출처/ncn
+
+슈퍼맘
+	슈퍼/ncn+맘/ncn
+
+후레지아|후레지아
+	후레지아|후레지/ncn+아/jcv
+
+
+유기농
+	유기/ncn+농/ncn
+
+아기과자/쌀과자
+	아기/ncn+과자/ncn+//sp+쌀과자/ncn
+
+-
+	-/sd
+
+작은텃밭
+	작은텃밭/ncn
+
+
+유기농
+	유기/ncn+농/ncn
+
+아기과자/쌀과자/아이간식/천사선물세트10명
+	아기과자/쌀과자/아이간식/천사선물세트10명/ncn
+
+무료이벤트
+	무료/ncn+이벤트/ncn
+
+-
+	-/sd
+
+작은텃밭
+	작은텃밭/ncn
+
+맘스블로그
+	맘스블로그/ncn
+
+
+안녕하세요
+	안녕/ncps+하/xsms+세/ef+요/jxf
+
+"맘스블로그"
+	"맘스블로그"/ncn
+
+스탭
+	스탭/ncn
+
+슈퍼맘후레지아예요
+	슈퍼맘후레지아/ncn+이/jp+예요/ef
+
+
+유기농
+	유기/ncn+농/ncn
+
+아기과자
+	아기/ncn+과/ncn+이/jp+자/ecc
+
+작은텃밭에서쌀과자
+	작은텃밭에서쌀과/ncn+이/jp+자/ecc
+
+천사선물세트를
+	천사/ncn+선물/ncn+세트/ncn+를/jco
+
+맘스블로그와
+	맘스블로그/ncn+와/jct
+
+함께
+	함께/mag
+
+10명
+	10/nnc+명/nbu
+
+무료이벤트
+	무료/ncn+이벤트/ncn
+
+진행합니다
+	진행/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+우리아이들의
+	우리/ncn+아이/ncn+들/ncn+의/jcm
+
+안전한
+	안전/ncn+한/ncn
+
+먹거리~
+	먹거리/ncn+~/sd
+
+마니마니
+	마니/ncn+마니/ncn
+
+신청해주세요^^
+	신청해주세요/ncn+^/sy+^/sy
+
+
+[유기농
+	[/sl+유기/ncn+농/ncn
+
+아기과자/쌀과자
+	아기/ncn+과자/ncn+//sp+쌀과자/ncn
+
+-
+	-/sd
+
+작은텃밭
+	작은텃밭/ncn
+
+
+유기농
+	유기/ncn+농/ncn
+
+아기과자/쌀과자/아이간식/천사선물세트
+	아기/ncn+과자/ncn+//sp+쌀과자/ncn+//sp+아이/ncn+간식/ncn+//sp+천사/ncn+선물/ncn+세트/ncn
+
+10명
+	10/nnc+명/nbu
+
+무료이벤트
+	무료/ncn+이벤트/ncn
+
+-
+	-/sd
+
+작은텃밭
+	작은텃밭/ncn
+
+맘스블로그
+	맘스블로그/ncn
+
+
+천사선물세트
+	천사/ncn+선물/ncn+세트/ncn
+
+35,000원
+	35,000/nnc+원/nbu
+
+5명
+	5/nnc+명/nbu
+
+/
+	//sp
+
+30,000
+	30,000/nnc
+
+~35,000원
+	~/sd+35,000/nnc+원/nbu
+
+상당
+	상당/ncn
+
+필요제품
+	필요/ncps+제품/ncn
+
+선택
+	선택/ncpa
+
+5명
+	5/nnc+명/nbu
+
+
+기간
+	기간/ncn
+
+:
+	:/sp
+
+7월
+	7/nnc+월/nbu
+
+23일(월)
+	23일(월)/ncn
+
+~
+	~/sd
+
+8월
+	8/nnc+월/nbu
+
+1일(수)
+	1일/ncn+(/sl+수/nbn+)/sr
+
+
+발표
+	발표/ncpa
+
+:
+	:/sp
+
+8월
+	8/nnc+월/nbu
+
+3일(금)예정
+	3일/ncn+(/sl+금/ncn+)/sr+예정/ncn
+
+
+블로그이벤트
+	블로그이벤트/ncn
+
+미션
+	미션/ncn
+
+
+이벤트
+	이벤트/ncn
+
+참여는
+	참여/ncpa+는/jxc
+
+맘스블로그카페에
+	맘스블로그카페/ncn+에/jca
+
+댓글주세요
+	댓글주세요/ncn
+
+!!
+	!/sf+!/sf
+
+
+본
+	보/px+ㄴ/etm
+
+이벤트
+	이벤트/ncn
+
+페이지를
+	페이지/ncn+를/jco
+
+본인블로그에
+	본인블로그/ncn+에/jca
+
+스크랩
+	스크랩/ncpa
+
+후
+	후/ncn
+
+맘스블로그카페에덧글로
+	맘스블로그카페에덧글/ncn+로/jca
+
+URL
+	URL/f
+
+남겨주세요
+	남기/pvg+어/ecx+주/px+세요/ef
+
+
+(전체공개
+	(/sl+전체/ncn+공개/ncpa
+
+필수/본문스크랩삭제/메모
+	피/pvg+ㄹ/etm+수/nbn+//sp+본문/ncn+스크랩/ncpa+삭제/ncpa+//sp+메모/ncpa
+
+X)
+	X/f+)/sr
+
+
+회원수
+	회원수/ncn
+
+5000명
+	5000/nnc+명/nbu
+
+이상
+	이상/ncn
+
+카페3곳이상
+	카페3곳이상/ncn
+
+스크랩
+	스크랩/ncpa
+
+후맘스블로그카페에덧글로
+	후맘스블로그카페에덧글/ncn+로/jca
+
+URL
+	URL/f
+
+남겨주세요
+	남기/pvg+어/ecx+주/px+세요/ef
+
+
+(전체공개
+	(/sl+전체/ncn+공개/ncpa
+
+필수/스크랩
+	피/pvg+ㄹ/etm+수/nbn+//sp+스크랩/ncpa
+
+많으면
+	많/paa+으면/ecs
+
+가산점)
+	가산/ncn+점/ncn+)/sr
+
+
+작은텃밭
+	작은텃밭/ncn
+
+쇼핑몰(www.
+	쇼핑몰(www./ncn
+
+smallgarden.
+	smallgarden/f+./sy
+
+co.
+	co/f+./sy
+
+kr)가입
+	kr/f+)/sr+가입/ncpa
+
+후
+	후/ncn
+
+아이디
+	아이/ncn+이/jp+디/ecs
+
+남겨주세요
+	남기/pvg+어/ecx+주/px+세요/ef
+
+
+스탭후레지아블로그에
+	스탭후레지아블로그/ncn+에/jca
+
+비밀덧글로
+	비밀덧글/ncn+로/jca
+
+주소3종(이름/연락처/주소우편번호)
+	주소3종(이름/연락처/주소우편번호)/ncn
+
+정확히
+	정확히/mag
+
+기재해주세요-
+	기재/ncpa+하/xsva+어/ecx+주/px+세/ef+요/jxf+-/sd
+
+배송시
+	배송/ncn+시/ncn
+
+참고
+	참고/ncpa
+
+
+(이벤트
+	(/sl+이벤트/ncn
+
+신청후
+	신청/ncpa+후/ncn
+
+비밀덧글
+	비밀덧글/ncn
+
+남기시지
+	남/pvg+기/etn+이/jp+시/ep+지/ecs
+
+않으시면
+	않/px+으시/ep+면/ecs
+
+이벤트
+	이벤트/ncn
+
+당첨자
+	당첨자/ncn
+
+제외됩니다)
+	제외/ncpa+되/xsvn+ㅂ니다/ef+)/sr
+
+
+맘스블로그카페에
+	맘스블로그카페/ncn+에/jca
+
+자주
+	자주/mag
+
+들러
+	들르/pvg+어/ecx
+
+흔적을
+	흔적/ncn+을/jco
+
+남겨주세요(당첨확률이
+	남겨주세요(당첨확률/ncn+이/jcc
+
+높아지겠죠
+	높/paa+아/ecx+지/px+겠/ep+죠/ef
+
+?)
+	?/sf+)/sr
+
+
+유기농
+	유기/ncn+농/ncn
+
+아기과자/쌀과자/천사선물세트
+	아기/ncn+과자/ncn+//sp+쌀과자/ncn+//sp+천사/ncn+선물/ncn+세트/ncn
+
+-
+	-/sd
+
+작은텃밭
+	작은텃밭/ncn
+
+
+잘
+	잘/mag
+
+먹는
+	먹/pvg+는/etm
+
+간식과
+	간식/ncn+과/jct
+
+좋은
+	좋/paa+은/etm
+
+간식에는
+	가/px+ㄴ/etm+식/nbn+에/jca+는/jxc
+
+차이가
+	차이/ncn+가/jcs
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+아이의
+	아이/ncn+의/jcm
+
+첫
+	첫/nno
+
+이유식이
+	이유/ncn+식/ncn+이/jcc
+
+평생의
+	평생/ncn+의/jcm
+
+식습관을
+	식습관/ncn+을/jco
+
+좌우하듯
+	좌우/ncpa+하/xsva+듯/ecs
+
+잘
+	잘/mag
+
+먹는
+	먹/pvg+는/etm
+
+것도
+	것/nbn+도/jxc
+
+중요하지만
+	중요/ncps+하/xsms+지/ecx+말/px+ㄴ/etm
+
+천연원료를
+	천연/ncn+원료/ncn+를/jco
+
+사용하였는지
+	사용/ncpa+하/xsva+었/ep+는지/ecc
+
+
+소금,설탕,
+	소금/ncn+,/sp+설탕/ncn+,/sp
+
+방부제,
+	방부제/ncn+,/sp
+
+합성원료를
+	합성/ncpa+원료/ncn+를/jco
+
+사용하지
+	사용/ncpa+하/xsva+지/ecx
+
+않았는지
+	않/px+아/ep+는지/ecs
+
+등을
+	등/nbu+을/jco
+
+꼼꼼하게
+	꼼꼼하/paa+게/ecs
+
+따져보는
+	뜨/pvg+어/ecx+지/px+어/ecx+보/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+현명한
+	현명/ncps+하/xsms+ㄴ/etm
+
+엄마의
+	엄마/ncn+의/jcm
+
+책임이자
+	책임/ncn+이자/ncn
+
+
+아이들의
+	아이/ncn+들/ncn+의/jcm
+
+건강한
+	건강/ncps+하/xsms+ㄴ/etm
+
+식습관을
+	식습관/ncn+을/jco
+
+길러주는
+	기르/pvg+어/ecx+주/px+는/etm
+
+방법이지요^^
+	방법이지요/ncn+^/sy+^/sy
+
+
+식물
+	식물/ncn
+
+첨가물이
+	첨가물/ncn+이/jcc
+
+전혀
+	전혀/mag
+
+없고,
+	없/paa+고/ecc+,/sp
+
+소금
+	소금/ncn
+
+설탕도
+	설탕/ncn+도/jxc
+
+전혀
+	전혀/mag
+
+첨가하지
+	첨가/ncpa+하/xsva+지/ecx
+
+않은
+	않/px+은/etm
+
+건강한
+	건강/ncps+한/ncn
+
+유기농산물로
+	유기농산물/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+과자로서
+	과자/ncn+로서/jca
+
+
+영양과
+	영양/ncn+과/jcj
+
+건강
+	건강/ncps
+
+모두를
+	모두/ncn+를/jco
+
+챙길
+	챙기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+최고의
+	최고/ncn+의/jcm
+
+천연
+	천연/ncn
+
+간식이랍니다
+	가/px+ㄴ/etm+식/nbn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+유기농
+	유기/ncn+농/ncn
+
+아기과자/쌀과자
+	아기/ncn+과자/ncn+//sp+쌀과자/ncn
+
+-
+	-/sd
+
+작은텃밭에
+	작은텃밭/ncn+에/jca
+
+믿을수
+	믿/pvg+을/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+포장과정
+	포장/ncpa+과정/ncn
+
+
+우리
+	우리/npp
+
+아기가
+	아기/ncn+가/jcs
+
+먹을
+	먹/pvg+을/etm
+
+먹거리입니다
+	먹거리/ncn+이/jp+ㅂ니다/ef
+
+^^
+	^/sy+^/sy
+
+
+포장부터
+	포장/ncpa+부터/jxc
+
+안전하게
+	안전/ncps+하/xsms+게/ecs
+
+꼼꼼하게
+	꼼꼼하/paa+게/ecs
+
+수작업을
+	수작업/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+안전을
+	알/pvg+ㄴ/etm+전/nbn+을/jco
+
+또한번
+	또한번/npd
+
+생각하였답니다
+	생각/ncpa+하/xsva+었/ep+답니다/ef
+
+.
+	./sf
+
+
+유기농
+	유기/ncn+농/ncn
+
+아기과자/쌀과자
+	아기/ncn+과자/ncn+//sp+쌀과자/ncn
+
+및
+	및/maj
+
+작은텃밭
+	작은텃밭/ncn
+
+쇼핑몰에
+	쇼핑/ncpa+몰/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+다양한
+	다양/ncn+한/ncn
+
+제품들
+	제품/ncn+들/ncn
+
+
+위
+	위/ncn
+
+이미지에
+	이미지/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+저작권은
+	저작권/ncn+은/jxc
+
+작은텃밭에
+	작은텃밭/ncn+에/jca
+
+있습니다
+	있/paa+습니다/ef
+
+
+[유기농
+	[/sl+유기/ncn+농/ncn
+
+아기과자/쌀과자
+	아기/ncn+과자/ncn+//sp+쌀과자/ncn
+
+-
+	-/sd
+
+작은텃밭]
+	작은텃밭/ncn+]/sr
+
+
+유기농
+	유기/ncn+농/ncn
+
+아기과자/쌀과자/아이간식/천사선물세트
+	아기/ncn+과자/ncn+//sp+쌀과자/ncn+//sp+아이/ncn+간식/ncn+//sp+천사/ncn+선물/ncn+세트/ncn
+
+10명
+	10/nnc+명/nbu
+
+무료이벤트
+	무료/ncn+이벤트/ncn
+
+-
+	-/sd
+
+작은텃밭
+	작은텃밭/ncn
+
+맘스블로그
+	맘스블로그/ncn
+
+
+블로그이벤트
+	블로그이벤트/ncn
+
+당첨자미션
+	당첨자/ncn+미션/ncn
+
+
+이벤트
+	이벤트/ncn
+
+당첨되신
+	당첨/ncn+되/xsvn+시/ep+ㄴ/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+스탭
+	스탭/ncn
+
+후레지아
+	후레지아/ncn
+
+블로그
+	블로그/ncn
+
+비밀덧글에
+	비밀덧글/ncn+에/jca
+
+남겨진
+	남기/pvg+어/ecx+지/px+ㄴ/etm
+
+주소로
+	주소/ncn+로/jca
+
+확인하겠습니다
+	확인/ncpa+하/xsva+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+(당첨되신
+	(/sl+당첨/ncn+되/xsvn+시/ep+ㄴ/etm
+
+후
+	후/ncn
+
+안부글이나
+	안부/ncpa+글/ncn+이나/jcj
+
+쪽지
+	쪽지/ncn
+
+안남기셔도
+	안남기셔/ncn+도/jxc
+
+됩니다)
+	되/paa+ㅂ니다/ef+)/sr
+
+
+제품을
+	제품/ncn+을/jco
+
+받으시고
+	받/pvg+으시/ep+고/ecc
+
+일주일안에
+	일주일/ncn+안/ncn+에/jca
+
+본인블로그/작은텃밭쇼핑몰
+	본인블로그/작은텃밭쇼핑몰/ncn
+
+/맘스블로그
+	/맘스블로그/ncn
+
+카페에
+	카페/ncn+에/jca
+
+후기를
+	후/ncn+이/jp+기/etn+를/jco
+
+올려주세요
+	올리/pvg+어/ecx+주/px+세요/ef
+
+
+후기
+	후/ncn+이/jp+기/etn
+
+작성시에작은텃밭
+	작성시에작은텃밭/ncn
+
+쇼핑몰와
+	쇼핑/ncpa+몰/ncn+와/jcj
+
+맘스블로그카페
+	맘스블로그카페/ncn
+
+배너를
+	배너/ncn+를/jco
+
+달고
+	달/paa+고/ecc
+
+링크
+	링크/ncpa
+
+걸어주세요
+	걸/pvg+어/ecx+주/px+세요/ef
+
+
+후기
+	후/ncn+이/jp+기/etn
+
+필수
+	피/pvg+ㄹ/etm+수/nbn
+
+-
+	-/sd
+
+이벤트
+	이벤트/ncn
+
+상품만
+	상품/ncn+만/jxc
+
+받으시고
+	받/pvg+으시/ep+고/ecc
+
+후기
+	후/ncn+이/jp+기/etn
+
+안남기시면
+	안남기/ncn+이/jp+시/ep+면/ecs
+
+
+다음
+	다음/ncn
+
+이벤트에서
+	이벤트/ncn+에서/jca
+
+제외되며
+	제외/ncpa+되/xsvn+며/ecc
+
+해당상품에
+	해당/ncpa+상품/ncn+에/jca
+
+대한금액을
+	대한/ncn+금액/ncn+을/jco
+
+지불하셔야
+	지불/ncpa+하/xsva+시/ep+어야/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이벤트후기에
+	이벤트/ncn+후/ncn+이/jp+기/etn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+권리는
+	권리/ncn+는/jxc
+
+작성자
+	작성자/ncn
+
+본인과
+	본인/ncn+과/jcj
+
+해당업체에
+	해당업체/ncn+에/jca
+
+공동으로
+	공동/ncn+으로/jca
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+유기농
+	유기/ncn+농/ncn
+
+아기과자/쌀과자
+	아기/ncn+과자/ncn+//sp+쌀과자/ncn
+
+-
+	-/sd
+
+작은텃밭
+	작은텃밭/ncn
+
+바로가기
+	바로가/ncn+이/jp+기/etn
+
+
+맘스블로그카페
+	맘스블로그카페/ncn
+
+이벤트에
+	이벤트/ncn+에/jca
+
+많은분들의참여를
+	많은분들의참여/ncn+를/jco
+
+부탁드립니다(__)
+	부탁드립니다(__/ncn+)/sr
+
+
+응원스크랩
+	응원/ncpa+스크랩/ncpa
+
+해주시는
+	하/pvg+어/ecx+주/px+시/ep+는/etm
+
+분들에게도
+	불/pvg+ㄴ/etm+들/nbn+에게/jca+도/jxc
+
+다음번에
+	다음번/ncn+에/jca
+
+더
+	더/mag
+
+좋은
+	좋/paa+은/etm
+
+이벤트로
+	이벤트/ncn+로/jca
+
+답할께염
+	답할께염/ncn
+
+
+블로그포토샵
+	블로그포토샵/ncn
+
+노하우
+	노하우/ncn
+
+맘스블로그
+	맘스블로그/ncn
+
+바로가기
+	바로가/ncn+이/jp+기/etn

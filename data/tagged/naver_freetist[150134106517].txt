@@ -1,0 +1,521 @@
+와인과
+	와인/ncn+과/jct
+
+함께
+	함께/mag
+
+파스타를
+	파스타/ncn+를/jco
+
+먹고
+	먹/pvg+고/ecc
+
+싶을
+	싶/px+을/etm
+
+때.
+	때/ncn+./sf
+
+..
+	./sf+./sf
+
+
+부담없이
+	부담없이/mag
+
+찾기
+	찾/pvg+기/etn
+
+좋은
+	좋/paa+은/etm
+
+....
+	.../se+./sf
+
+
+바로
+	바로/mag
+
+생각나는
+	생각나/pvg+는/etm
+
+곳.
+	곳/ncn+./sf
+
+..
+	./sf+./sf
+
+
+수내역
+	수내역/ncn
+
+알리오
+	알/pvg+ㄹ/etm+리/nbn+이/jp+오/ef
+
+입니다~
+	입/pvg+니다/ef+~/sd
+
+
+수내역
+	수내역/ncn
+
+로데오거리(정자동
+	로데오거리(정자동/ncn
+
+방향)
+	방향/ncn+)/sr
+
+끝쯤에
+	끝/ncn+쯤/xsnx+에/jca
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+베스피아
+	베스피/ncn+아/jcv
+
+24시
+	24/nnc+시/nbu
+
+사우나건물
+	사우나/ncn+건물/ncn
+
+1층이요
+	1층이요/ncn
+
+..
+	./sf+./sf
+
+
+가게
+	가/px+게/ecs
+
+앞에
+	앞/ncn+에/jca
+
+안내되어
+	안내/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+메뉴안내판
+	메뉴/ncn+안내판/ncn
+
+...
+	.../se
+
+
+런치가
+	런치/ncn+가/jcs
+
+실속있네요~
+	실속/ncn+있/xsmn+네요/ef+~/sd
+
+
+실내모습입니다
+	실내/ncn+모습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+함께한
+	함께하/pvg+ㄴ/etm
+
+와인들~
+	와인/ncn+들/xsncc+~/sd
+
+오랜만에
+	오랜만/ncn+에/jca
+
+반갑습니다~
+	반갑/paa+습니다/ef+~/sd
+
+쨘~
+	쨘/ncn+~/sd
+
+
+알리오
+	알/pvg+ㄹ/etm+리/nbn+이/jp+오/ef
+
+메뉴안내입니다~
+	메뉴/ncn+안내/ncpa+이/jp+ㅂ니다/ef+~/sd
+
+
+세팅
+	세팅/ncn
+
+...
+	.../se
+
+
+식전빵
+	식전/ncn+빵/ncn
+
+...
+	.../se
+
+
+피클
+	피클/ncn
+
+...
+	.../se
+
+
+맨먼저
+	맨먼저/ncn
+
+주문한
+	주문/ncn+한/ncn
+
+해산물샐러드
+	해산물/ncn+샐러드/ncn
+
+....
+	.../se+./sf
+
+
+신선해서
+	신선/ncn+해서/ncn
+
+아주
+	아주/mag
+
+마음에
+	마음/ncn+에/jca
+
+들었습니다
+	들/pvg+었/ep+습니다/ef
+
+...
+	.../se
+
+
+볼로네제
+	볼로네제/ncn
+
+파스타
+	파스타/ncn
+
+.....
+	.../se+./sf+./sf
+
+
+좋았어요
+	좋/paa+아/ep+아/ef+요/jxf
+
+...
+	.../se
+
+
+와인과
+	와인/ncn+과/jct
+
+함께
+	함께/mag
+
+일행들과
+	일행/ncn+들/ncn+과/jct
+
+같이
+	같/paa+이/xsa
+
+나눠먹어봤죠
+	나눠먹어봤죠/ncn
+
+...
+	.../se
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+맛봤던
+	맛보/pvg+아/ep+ㄴ/etm
+
+까르보나라
+	까르보나/ncn+이/jp+라/ecs
+
+...
+	.../se
+
+
+느끼한
+	느끼한/ncn
+
+크림소스가
+	크림/ncn+소스/ncn+가/jcs
+
+담백하고
+	담백/ncn+하고/jct
+
+좋았습니다~
+	좋/paa+아/ep+ㅂ니다/ef+~/sd
+
+
+봉골레파스타
+	봉골레파스타/ncn
+
+...
+	.../se
+
+
+요새는
+	요새/mag+는/jxc
+
+입맛이
+	입맛/ncn+이/jcc
+
+바뀌는건지
+	바뀌/pvg+는/etm+것/nbn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+갈끔한
+	갈끔한/ncn
+
+오일소스가
+	오일/ncn+소스/ncn+가/jcs
+
+갈수록
+	가/px+ㄹ수록/ecs
+
+땡기는
+	땡기/ncn+는/jxc
+
+..
+	./sf+./sf
+
+
+그
+	그/mmd
+
+전에는
+	전/nbn+에/jca+는/jxc
+
+거의크림소스파스타만
+	거의/ncpa+크림/ncn+소스/ncn+파스타/ncn+만/jxc
+
+먹었는데
+	먹/pvg+었/ep+는데/ecs
+
+....
+	.../se+./sf
+
+
+와인이
+	와인/ncn+이/jcc
+
+남아서
+	남/pvg+아/ecx
+
+추가로
+	추가/ncpa+로/jca
+
+주문한
+	주문/ncn+한/ncn
+
+시저샐러드
+	시저샐러드/ncn
+
+...
+	.../se
+
+
+그란치오
+	그란치오/ncn
+
+쁘리띠(꽃게튀김)
+	쁘리띠(꽃게튀김)/ncn
+
+...
+	.../se
+
+
+정말
+	정말/mag
+
+별미인
+	별미/ncn+이/jp+ㄴ/etm
+
+요리죠
+	요리/ncn+이/jp+죠/ef
+
+....
+	.../se+./sf
+
+
+가면
+	가/px+면/ecs
+
+꼭
+	꼭/mag
+
+주문해서
+	주문/ncn+해/ncn+서/jca
+
+먹게
+	먹/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+...
+	.../se
+
+
+와인코키지
+	와인코키/ncn+이/jp+지/ecs
+
+부담없이
+	부담없이/mag
+
+BYOB
+	BYOB/f
+
+해서
+	하/pvg+어서/ecs
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있고,
+	있/paa+고/ecc+,/sp
+
+
+다양한
+	다양/ncn+한/ncn
+
+파스타
+	파스타/ncn
+
+등
+	등/nbu
+
+맛도
+	맛/ncn+도/jxc
+
+무난하게
+	무난/ncps+하/xsms+게/ecs
+
+다
+	다/mag
+
+좋은
+	좋/paa+은/etm
+
+편인
+	편/nbn+이/jp+ㄴ/etm
+
+파스타전문점
+	파스타/ncn+전문/ncn+점/ncn
+
+...
+	.../se
+
+
+수내역
+	수내역/ncn
+
+알리오
+	알/pvg+ㄹ/etm+리/nbn+이/jp+오/ef
+
+였습니다~
+	였습니/ncn+이/jp+다/ef+~/sd
+
+
+위치
+	위치/ncn
+
+:
+	:/sp
+
+분당구
+	분당구/ncn
+
+수내동
+	수내동/ncn
+
+다운타운
+	다운타운/ncn
+
+빌딩
+	빌딩/ncn
+
+1층
+	1/nnc+층/nbu
+
+(로얄팰리스
+	(로얄팰리스/ncn
+
+옆
+	옆/ncn
+
+건물)
+	건물/ncn+)/sr
+
+
+전화번호
+	전화번호/ncn
+
+:
+	:/sp
+
+031-623-6088
+	031/nnc+-623/nnc+-6088/nnc
+
+
+알리오
+	알/pvg+ㄹ/etm+리/nbn+이/jp+오/ef
+
+수내점
+	수/nbu+내/xsnu+점/nbu
+
+
+경기도
+	경기/ncn+도/jxc
+
+성남시
+	성남시/ncn
+
+분당구
+	분당구/ncn
+
+수내1동
+	수내1동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011041533",
+	"bl011041533",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"12017305",
+	"/sl+12017305/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"알리오
+	title/f+:/sp+"/sl+알/pvg+ㄹ/etm+리/nbn+이/jp+오/ef
+
+수내점",
+	수/nbu+내/xsnu+점/nbu+"/sr+,/sp
+
+pointX:321592,pointY:531002}
+	pointX/f+:/sp+321592/nnc+,/sp+pointY/f+:/sp+531002/nnc+}/sr

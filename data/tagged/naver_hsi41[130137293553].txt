@@ -1,0 +1,814 @@
+4대강
+	4대강/ncn
+
+사업,
+	사업/ncn+,/sp
+
+보금자리
+	보금자리/ncn
+
+사업
+	사업/ncn
+
+등
+	등/nbu
+
+정부정책에
+	정부정책/ncn+에/jca
+
+공공기관
+	공공기관/ncn
+
+동원한
+	동원/ncn+한/ncn
+
+탓
+	탓/ncpa
+
+사실상의
+	사실상/ncn+의/jcm
+
+나랏빚
+	나랏빚/ncn
+
+으로
+	으/ncn+로/jca
+
+평가되는
+	평가/ncpa+되/xsvn+는/etm
+
+공공기관
+	공공기관/ncn
+
+부채가
+	부채/ncn+가/jcs
+
+지난해
+	지난해/ncn
+
+60조원
+	60/nnc+조/nnc+원/nbu
+
+이상
+	이상/ncn
+
+급증하며
+	급증/ncpa+하/xsva+며/ecc
+
+사상
+	사상/ncn
+
+처음
+	처음/mag
+
+국가부채
+	국가/ncn+부채/ncn
+
+규모를
+	규모/ncn+를/jco
+
+앞질렀다
+	앞지르/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+정부와
+	정부/ncn+와/jcj
+
+공공기관을
+	공공기관/ncn+을/jco
+
+합친
+	합치/pvg+ㄴ/etm
+
+채무규모(약
+	채무규모(약/ncn
+
+884조원)는
+	884/nnc+조/nnc+원/nbu+)/sr+는/jxc
+
+작년
+	작년/ncn
+
+국내총생산(GDP)의
+	국내총생산(GDP)/ncn+의/jcm
+
+71.
+	71./nnc
+
+6%에
+	6/nnc+%/su+에/jca
+
+달한다
+	달하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+국제신용평가사들은
+	국제신용평가사들/ncn+은/jxc
+
+우리나라의
+	우리나라/ncn+의/jcm
+
+최대
+	최대/ncn
+
+위험요소로
+	위험요소/ncn+로/jca
+
+공공기관
+	공공기관/ncn
+
+부채
+	부채/ncn
+
+증가를
+	증가/ncpa+를/jco
+
+주목했다.
+	주목/ncpa+하/xsva+었/ep+다/ef+./sf
+
+30일
+	30/nnc+이/jp+ㄹ/etm
+
+기획재정부가
+	기획/ncpa+재정/ncn+부/ncn+가/jcs
+
+발표한
+	발표/ncpa+하/xsva+ㄴ/etm
+
+2011년
+	2011/nnc+년/nbu
+
+공공기관
+	공공기관/ncn
+
+경영공시
+	경영/ncpa+공시/ncn
+
+에
+	에/pvg+어/ecx
+
+따르면
+	따르/pvg+면/ecs
+
+286개
+	286/nnc+개/nbu
+
+공공기관의
+	공공기관/ncn+의/jcm
+
+작년
+	작년/ncn
+
+말
+	말/px+ㄹ/etm
+
+현재
+	현재/ncn
+
+부채(463조5,000억원)는
+	부채(463조5,000억원)/ncn+는/jxc
+
+2010년보다
+	2010/nnc+년/nbu+보다/jca
+
+61조8,000억원(15.
+	61조8,000억원(15./ncn
+
+4%)
+	4/nnc+%/su+)/sr
+
+급증하며
+	급증/ncpa+하/xsva+며/ecc
+
+처음으로
+	처음/ncn+으로/jca
+
+국가부채(중앙
+	국가부채(중앙/ncn
+
+및
+	및/maj
+
+지방정부
+	지방/ncn+정부/ncn
+
+합계
+	합계/ncpa
+
+420조7,000억원)를
+	420/nnc+조/nnc+7,000/nnc+억/nnc+원/nbu+)/sr+를/jco
+
+넘어섰다
+	넘어서/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+정부는
+	정부/ncn+는/jxc
+
+GDP
+	GDP/f
+
+대비
+	대비/ncn
+
+국가부채
+	국가/ncn+부채/ncn
+
+비율(작년
+	비율(작년/ncn
+
+말
+	말/px+ㄹ/etm
+
+현재
+	현재/ncn
+
+34.
+	34./nnc
+
+0%)이
+	0/nnc+%/su+)/sr+이/jcc
+
+경제협력개발기구(OECD)
+	경제협력개발기구(OECD)/ncn
+
+국가들과
+	국가/ncn+들/ncn+과/jct
+
+비교해
+	비교/ncpa+하/xsva+어/ecx
+
+매우
+	매우/mag
+
+양호한
+	양호/ncn+한/ncn
+
+편이라는
+	편/nbn+이/jp+라/ef+는/etm
+
+입장이지만,
+	입장/ncpa+이/jp+지만/ecs+,/sp
+
+정부와
+	정부/ncn+와/jcj
+
+공공기관을
+	공공기관/ncn+을/jco
+
+합친
+	합치/pvg+ㄴ/etm
+
+부채규모의
+	부채규모/ncn+의/jcm
+
+GDP
+	GDP/f
+
+대비
+	대비/ncn
+
+비율(71.
+	비율(71./ncn
+
+6%)은
+	6/nnc+%/su+)/sr+은/jxc
+
+OECD가
+	OECD/f+가/jcc
+
+권하는
+	권하/pvg+는/etm
+
+적정
+	적정/ncps
+
+국가부채
+	국가/ncn+부채/ncn
+
+비율(50%)을
+	비율(50%)/ncn+을/jco
+
+훨씬
+	훨씬/mag
+
+웃돈다.
+	웃돌/pvg+ㄴ다/ef+./sf
+
+2007년
+	2007/nnc+년/nbu
+
+약
+	약/ncn
+
+249조원에
+	249/nnc+조/nnc+원/nbu+에/jca
+
+머물던
+	머물/pvg+던/etm
+
+공공기관
+	공공기관/ncn
+
+부채가
+	부채/ncn+가/jcs
+
+이명박
+	이명/ncn+박/ncn
+
+정부
+	정부/ncn
+
+4년간
+	4/nnc+년/nbu+간/xsnu
+
+86%(약
+	86/nnc+%/su+(/sl+약/ncn
+
+214조원)나
+	214/nnc+조/nnc+원/nbu+)/sr+나/jcj
+
+급증한
+	급증/ncpa+하/xsva+ㄴ/etm
+
+데는
+	데/nbn+는/jxc
+
+각종
+	각종/ncn
+
+정부정책에
+	정부정책/ncn+에/jca
+
+공공기관이
+	공공기관/ncn+이/jcc
+
+대거
+	대거/mag
+
+동원됐기
+	동원/ncpa+되/xsvn+었/ep+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+지난해만
+	지난해/ncn+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+예금보험공사
+	예금/ncpa+보험/ncn+공사/ncn
+
+부채가
+	부채/ncn+가/jcs
+
+부실
+	불/pvg+시/ep+ㄹ/etm
+
+저축은행
+	저축/ncpa+은행/ncn
+
+지원
+	지원/ncpa
+
+탓에
+	탓/ncpa+에/jca
+
+13조3,000억원
+	13/nnc+조/nnc+3,000/nnc+억/nnc+원/nbu
+
+급증했고,
+	급증/ncpa+하/xsva+었/ep+고/ecc+,/sp
+
+정부
+	정부/ncn
+
+물가정책에
+	물가정책/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+전기
+	전기/ncn
+
+가스
+	가스/ncn
+
+요금을
+	요금/ncn+을/jco
+
+동결한
+	동결/ncpa+하/xsva+ㄴ/etm
+
+한전과
+	하/pvg+ㄴ/etm+전/nbn+과/jcj
+
+가스공사도
+	가스/ncn+공사/ncn+도/jxc
+
+부채가
+	부채/ncn+가/jcs
+
+각각
+	각각/mag
+
+10조4,000억원,
+	10/nnc+조/nnc+4,000/nnc+억/nnc+원/nbu+,/sp
+
+5조7,000억원
+	5/nnc+조/nnc+7,000/nnc+억/nnc+원/nbu
+
+늘었다
+	늘/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+보금자리
+	보금자리/ncn
+
+사업을
+	사업/ncn+을/jco
+
+벌인
+	벌/nbu+이/jp+ㄴ/etm
+
+LH는
+	LH/f+는/jxc
+
+9조원,
+	9/nnc+조/nnc+원/nbu+,/sp
+
+4대강
+	4대강/ncn
+
+사업
+	사업/ncn
+
+주무인
+	주무/ncpa+이/jp+ㄴ/etm
+
+수자원공사는
+	수자원/ncn+공사/ncn+는/jxc
+
+4조5,000억원
+	4/nnc+조/nnc+5,000/nnc+억/nnc+원/nbu
+
+빚을
+	빚/ncn+을/jco
+
+늘렸다
+	늘리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+예보와
+	예보/ncpa+와/jcj
+
+한전
+	하/pvg+ㄴ/etm+전/nbn
+
+등의
+	등/nbu+의/jcm
+
+대규모
+	대규모/ncn
+
+적자
+	적/paa+자/ecc
+
+탓에
+	탓/ncpa+에/jca
+
+작년
+	작년/ncn
+
+공공기관들의
+	공공기관/ncn+들/ncn+의/jcm
+
+당기실적도
+	당기/ncn+이/jp+시/ep+ㄹ/etm+적/nbn+도/jxc
+
+8조4,000억원
+	8/nnc+조/nnc+4,000/nnc+억/nnc+원/nbu
+
+순손실을
+	순손실/ncn+을/jco
+
+기록했다
+	기록/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+국제신용평가사
+	국제신용평가사/ncn
+
+무디스는
+	무디스/ncn+는/jxc
+
+이달
+	이/nnc+달/nbu
+
+초
+	초/nbu
+
+2007년
+	2007/nnc+년/nbu
+
+이후
+	이후/ncn
+
+한국의
+	한국의/ncn
+
+공공부채
+	공공/ncn+부채/ncn
+
+증가는
+	증/ncn+가/jcs+는/jxc
+
+우려스럽다
+	우/ncn+이/jp+리/ep+어/ecx+스럽/px+다/ef
+
+면서
+	면/ncn+서/jca
+
+정부
+	정부/ncn
+
+지원
+	지원/ncpa
+
+가능성을
+	가능성/ncn+을/jco
+
+배제한
+	배제/ncpa+하/xsva+ㄴ/etm
+
+한전
+	하/pvg+ㄴ/etm+전/nbn
+
+등
+	등/nbu
+
+대표
+	대표/ncpa
+
+공기업들의
+	공기업/ncn+들/ncn+의/jcm
+
+신용등급을
+	신용등급/ncn+을/jco
+
+투기등급
+	투기/ncpa+등급/ncn
+
+수준으로
+	수준/ncn+으로/jca
+
+평가했다
+	평가/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이처럼
+	이/npd+처럼/jca
+
+공공기관의
+	공공기관/ncn+의/jcm
+
+빚이
+	빚/ncn+이/jcc
+
+급증하는
+	급증/ncpa+하/xsva+는/etm
+
+와중에도
+	와중/ncn+에/jca+도/jxc
+
+지난해
+	지난해/ncn
+
+공공기관
+	공공기관/ncn
+
+직원의
+	직원/ncn+의/jcm
+
+평균
+	평균/ncpa
+
+보수는
+	보수/ncn+는/jxc
+
+1년
+	1/nnc+년/nbu
+
+전보다
+	전/nbn+보다/jca
+
+3.2%
+	3.2/nnc+%/su
+
+증가한
+	증가/ncpa+하/xsva+ㄴ/etm
+
+6,000만원으로
+	6,000/nnc+만/nnc+원/nbu+으로/jca
+
+집계돼
+	집계/ncpa+되/xsvn+어/ecx
+
+처음
+	처음/mag
+
+6,000만원대로
+	6,000/nnc+만/nnc+원/nbu+대로/jca
+
+올라서는
+	오르/pvg+아/ecs
+
+등
+	등/nbu
+
+도덕적
+	도덕/ncn+적/ncn
+
+해이
+	해/nbu+이/jcc
+
+현상도
+	현상/ncn+도/jxc
+
+나타나고
+	나타나/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+전문가들은
+	전문가/ncn+들/ncn+은/jxc
+
+국가부채
+	국가/ncn+부채/ncn
+
+비율
+	비율/ncn
+
+산정시
+	산정/ncn+시/ncn
+
+공공기관
+	공공기관/ncn
+
+부채를
+	부채/ncn+를/jco
+
+제외하면서
+	제외/ncpa+하/xsva+면서/ecc
+
+우리나라의
+	우리나라/ncn+의/jcm
+
+재정건전성이
+	재정/ncn+건전성/ncn+이/jcc
+
+문제가
+	문제/ncn+가/jcs
+
+없다고
+	없/paa+다/ef+고/jcr
+
+강변해
+	강변/ncn+해/ncn
+
+온
+	오/px+ㄴ/etm
+
+정부의
+	정부/ncn+의/jcm
+
+주장이
+	주장/ncpa+이/jcc
+
+점점
+	점점/mag
+
+더
+	더/mag
+
+설득력을
+	설득력/ncn+을/jco
+
+잃고
+	잃/pvg+고/ecc
+
+있다고
+	있/px+다/ef+고/jcr
+
+비판했다
+	비판/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이와
+	이/npd+와/jct
+
+관련
+	관련/ncn
+
+김철주
+	김철/ncn+주/ncn
+
+재정부
+	재정/ncn+부/ncn
+
+공공정책국장은
+	공공정책/ncn+국장/ncr+은/jxc
+
+앞으로
+	앞/ncn+으로/jca
+
+공기업들도
+	공기업/ncn+들/ncn+도/jxc
+
+자체
+	자체/ncn
+
+부채
+	부채/ncn
+
+등
+	등/nbu
+
+리스크
+	리스크/ncn
+
+요인을
+	요인/ncn+을/jco
+
+점검하고
+	점검/ncpa+하고/jct
+
+재무구조
+	재무구조/ncn
+
+개선
+	개/nbu+선/jxc
+
+등을
+	등/nbu+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+신용등급
+	신용등급/ncn
+
+관리도
+	관리/ncn+도/jxc
+
+강화하겠다
+	강화/ncpa+하/xsva+겠/ep+다/ef
+
+고
+	고/mma
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:한국일보
+	출처:한국일보/ncn

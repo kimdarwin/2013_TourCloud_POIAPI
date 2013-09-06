@@ -1,0 +1,697 @@
+4.11
+	4.11/nnc
+
+총선
+	총선/ncn
+
+서귀포시
+	서귀포시/ncn
+
+선거구에
+	선거구/ncn+에/jca
+
+출마한
+	출마/ncpa+하/xsva+ㄴ/etm
+
+예비후보들은
+	예비/ncpa+후보/ncr+들/ncn+은/jxc
+
+산남
+	산남/ncn
+
+.
+	./sf
+
+
+산북
+	산북/ncn
+
+균형발전
+	균형발전/ncpa
+
+방안에
+	방안/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+공통적으로
+	공통/ncpa+적/ncn+으로/jca
+
+신공항
+	신공항/ncn
+
+산남지역
+	산남지역/ncn
+
+유치를
+	유치/ncn+를/jco
+
+제시했다
+	제시/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+민.
+	밀/pvg+ㄴ/etm+./sf
+
+군복합형
+	군복합형/ncn
+
+관광미항
+	관광/ncpa+미항/ncn
+
+건설과
+	건설/ncpa+과/jcj
+
+한.미
+	한.미/ncn
+
+FTA(자유무역협정)
+	FTA/f+(/sl+자유무역협정/ncpa+)/sr
+
+등
+	등/nbu
+
+제주
+	제주/ncn
+
+주요
+	주요/ncps
+
+현안에
+	현안/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+뚜렷한
+	뚜렷/ncps+하/xsms+ㄴ/etm
+
+입장차를
+	입장/ncpa+차/ncn+를/jco
+
+보였다
+	보이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+산남
+	산남/ncn
+
+.
+	./sf
+
+
+산북
+	산북/ncn
+
+균형발전
+	균형발전/ncpa
+
+방안과
+	방안/ncn+과/jcj
+
+관련해
+	관련/ncn+해/ncn
+
+새누리당
+	새누리당/ncn
+
+강지용
+	강지용/ncn
+
+예비후보는
+	예비/ncpa+후보/ncr+는/jxc
+
+신공항은
+	신공항/ncn+은/jxc
+
+쇼핑
+	쇼핑/ncpa
+
+및
+	및/maj
+
+관광수입을
+	관광수입/ncn+을/jco
+
+극대화
+	극대화/ncpa
+
+시킬
+	시키/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+중요한
+	중요/ncps+한/ncn
+
+인프라이므로
+	인프라이므/ncn+로/jca
+
+필히
+	필히/mag
+
+산남에
+	산남/ncn+에/jca
+
+유치해
+	유치/ncn+해/ncn
+
+서귀포시의
+	서귀포시/ncn+의/jcm
+
+침체된
+	침체/ncpa+되/xsvn+ㄴ/etm
+
+경제를
+	경제/ncn+를/jco
+
+활성화해야
+	활성화해/ncpa+이/jp+야/ef
+
+한다
+	하/px+ㄴ다/ef
+
+며
+	며/ncn
+
+아울러
+	아우르/pvg+어/ecx
+
+인구
+	인구/ncn
+
+유입을
+	유입/ncpa+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+대학
+	대학/ncn
+
+유치를
+	유치/ncn+를/jco
+
+추진하겠다
+	추진/ncpa+하/xsva+겠/ep+다/ef
+
+고
+	고/mma
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+민주통합당
+	민주/ncn+통합/ncpa+당/ncn
+
+김재윤
+	김재윤/ncn
+
+예비후보는
+	예비/ncpa+후보/ncr+는/jxc
+
+서귀포의
+	서귀포/ncn+의/jcm
+
+교육
+	교육/ncpa
+
+.
+	./sf
+
+
+문화
+	문화/ncn
+
+.
+	./sf
+
+
+복지
+	복지/ncn
+
+.
+	./sf
+
+
+의료
+	의료/ncn
+
+인프라가
+	인프라/ncn+가/jcs
+
+열악하기
+	열악/ncps+하/xsms+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+가장
+	가장/mag
+
+시급한
+	시급/ncn+한/ncn
+
+것이
+	것/nbn+이/jcc
+
+신공항
+	신공항/ncn
+
+유치이고,
+	유치/ncn+이/jp+고/ecc+,/sp
+
+여기에
+	여기/npd+에/jca
+
+영어교육도시
+	영어/ncn+교육도시/ncn
+
+등
+	등/nbu
+
+국제자유도시
+	국제/ncn+자유/ncn+도시/ncn
+
+핵심프로젝트
+	핵심/ncn+프로젝트/ncn
+
+사업의
+	사업/ncn+의/jcm
+
+원활한
+	원활/ncn+한/ncn
+
+추진과
+	추진/ncpa+과/jcj
+
+중문관광단지
+	중문/ncn+관광단지/ncn
+
+활성화가
+	활성화/ncn+가/jcs
+
+필요하다
+	필요/ncps+하/xsms+다/ef
+
+고
+	고/mma
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+무소속
+	무소속/ncn
+
+문대림
+	문대/pvg+리/ep+ㅁ/etn
+
+예비후보는
+	예비/ncpa+후보/ncr+는/jxc
+
+서귀포시
+	서귀포시/ncn
+
+지역경제
+	지역경제/ncn
+
+활성와
+	활성/ncn+와/jcj
+
+제주시
+	제주/ncn+시/ncn
+
+집중
+	집중/ncpa
+
+현상
+	현상/ncn
+
+탈피를
+	탈피/ncpa+를/jco
+
+위해서
+	위하/pvg+어서/ecs
+
+신공항
+	신공항/ncn
+
+산남지역
+	산남지역/ncn
+
+유치가
+	유치/ncn+가/jcs
+
+국가정책으로
+	국가정책/ncn+으로/jca
+
+추진돼야
+	추진/ncpa+되/xsvn+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+며
+	며/ncn
+
+이와
+	이/npd+와/jct
+
+함께
+	함께/mag
+
+제주도
+	제주/ncn+도/jxc
+
+차원의
+	차원/ncn+의/jcm
+
+균형발전
+	균형발전/ncpa
+
+지표가
+	지표/ncn+가/jcs
+
+마련돼야
+	마련/ncpa+되/xsvn+어야/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+민.
+	밀/pvg+ㄴ/etm+./sf
+
+군복합형
+	군복합형/ncn
+
+관광미항
+	관광/ncpa+미항/ncn
+
+건설에
+	건설/ncpa+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+강지용
+	강지용/ncn
+
+후보는
+	후보/ncr+는/jxc
+
+국가안보와
+	국가안보/ncn+와/jcj
+
+지역경제
+	지역경제/ncn
+
+활성화라는
+	활성화/ncn+라는/jcm
+
+두
+	두/nnc
+
+가지
+	가지/nbu
+
+목적을
+	목적/ncn+을/jco
+
+충족하기
+	충족/ncpa+하/xsva+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+국책사업으로
+	국책사업/ncn+으로/jca
+
+추진돼야
+	추진/ncpa+되/xsvn+어야/ecs
+
+한다는
+	하/px+ㄴ다/ef+는/etm
+
+입장을
+	입장/ncpa+을/jco
+
+밝혔고,
+	밝히/pvg+었/ep+고/ecc+,/sp
+
+김재윤
+	김재윤/ncn
+
+후보와
+	후보/ncr+와/jct
+
+문대림
+	문대/pvg+리/ep+ㅁ/etn
+
+후보는
+	후보/ncr+는/jxc
+
+물리적
+	물리/ncn+적/ncn
+
+충돌이
+	충돌/ncpa+이/jcc
+
+현실화되고
+	현실/ncn+화/ncn+되/xsvn+고/ecc
+
+있는
+	있/px+는/etm
+
+만큼
+	만큼/nbn
+
+갈등해결
+	갈등해결/ncpa
+
+방안을
+	방안/ncn+을/jco
+
+마련하는
+	마련/ncpa+하/xsva+는/etm
+
+것과
+	것/nbn+과/jct
+
+함께
+	함께/mag
+
+공사의
+	공사/ncn+의/jcm
+
+즉각
+	즉각/ncn
+
+중단과
+	중단/ncpa+과/jcj
+
+사업의
+	사업/ncn+의/jcm
+
+재검토가
+	재검토/ncpa+가/jcc
+
+필요하다는
+	필요/ncps+하/xsms+다/ef+는/etm
+
+입장을
+	입장/ncpa+을/jco
+
+피력했다
+	피력/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+아울러
+	아우르/pvg+어/ecx
+
+감귤산업발전
+	감귤/ncn+산업/ncn+발전/ncpa
+
+방안에
+	방안/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+강지용
+	강지용/ncn
+
+후보와
+	후보/ncr+와/jct
+
+문대림
+	문대/pvg+리/ep+ㅁ/etn
+
+후보는
+	후보/ncr+는/jxc
+
+산.관이
+	산.관/ncn+이/jcc
+
+참여하는
+	참여/ncpa+하/xsva+는/etm
+
+감귤산업클러스터
+	감귤/ncn+산업/ncn+클러스터/ncn
+
+구축을,
+	구/nnc+축/nbu+을/jco+,/sp
+
+김재윤
+	김재윤/ncn
+
+후보는
+	후보/ncr+는/jxc
+
+공공유형의
+	공공/ncn+유형/ncn+의/jcm
+
+수출전용선과장
+	수출/ncpa+전용선/ncn+과장/ncpa
+
+건립을
+	건립/ncpa+을/jco
+
+각각
+	각각/mag
+
+제시했다
+	제시/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+한.미
+	한.미/ncn
+
+FTA와
+	FTA/f+와/jcj
+
+관련해서는
+	관련/ncn+해서/ncn+는/jxc
+
+강지용
+	강지용/ncn
+
+후보가
+	후보/ncr+가/jcc
+
+활용방안
+	활용방안/ncn
+
+마련이
+	마련/nbn+이/jcc
+
+필요하다며
+	필요/ncps+하/xsms+다며/ecs
+
+찬성
+	찬성/ncpa
+
+입장을
+	입장/ncpa+을/jco
+
+밝혔고,
+	밝히/pvg+었/ep+고/ecc+,/sp
+
+김재윤
+	김재윤/ncn
+
+후보와
+	후보/ncr+와/jct
+
+문대림
+	문대/pvg+리/ep+ㅁ/etn
+
+후보는
+	후보/ncr+는/jxc
+
+경제적
+	경제/ncn+적/ncn
+
+피해가
+	피하/pvg+어/ecx+가/px+아/ecx
+
+우려되는
+	우/ncn+이/jp+리/ep+어/ecx+되/px+는/etm
+
+만큼
+	만큼/nbn
+
+즉각
+	즉각/mag
+
+중단해야
+	중단/ncpa+하/xsva+어야/ecs
+
+한다는
+	하/px+ㄴ다/ef+는/etm
+
+입장을
+	입장/ncpa+을/jco
+
+표명했다
+	표명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+고경호
+	고경호/ncn
+
+기자
+	기/ncn+이/jp+자/ecc
+
+uni@jejunews.
+	uni/f+@/sy+jejunews/f+./sy
+
+com
+	com/f
+
+
+출처:제주일보
+	출처/ncn+:/sp+제주/ncn+일보/ncn

@@ -1,0 +1,818 @@
+출처
+	출처/ncn
+
+일상을즐기며|푸른느티나무
+	일상을즐기며|푸른느티나무/ncn
+
+
+[주산지/청송여행]
+	[주산지/청송여행]/ncn
+
+주산지
+	주산지/ncn
+
+출사여행
+	출사/ncpa+여행/ncpa
+
+
+무박으로
+	무박/ncn+으로/jca
+
+떠나는
+	떠나/pvg+는/etm
+
+특별한
+	특별/ncps+하/xsms+ㄴ/etm
+
+여행
+	여행/ncpa
+
+
+주산지와
+	주산지/ncn+와/jcj
+
+주왕산을
+	주왕산/ncn+을/jco
+
+향해
+	향하/pvg+어/ecx
+
+늦은
+	늦/paa+은/etm
+
+저녁
+	저녁/ncn
+
+광화문에서
+	광화/ncpa+문/ncn+에서/jca
+
+출발했습니다
+	출발/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여행
+	여행/ncpa
+
+중
+	중/nbn
+
+주산지
+	주산지/ncn
+
+새벽출사가
+	새벽/ncn+출사/ncpa+가/jcc
+
+있어
+	있/paa+어/ecs
+
+
+보온병에
+	보온병/ncn+에/jca
+
+따듯한
+	뜨/pvg+어/ecx+듯하/px+ㄴ/etm
+
+물과
+	물/ncn+과/jcj
+
+간단한
+	가/px+ㄴ단/etm+한/nbn
+
+간식거리
+	간식거리/ncn
+
+
+담요,
+	담요/ncn+,/sp
+
+두꺼운
+	두껍/paa+은/etm
+
+의복,
+	의복/ncn+,/sp
+
+장갑,
+	장갑/ncn+,/sp
+
+목도리로
+	목도리/ncn+로/jca
+
+단도리를
+	단도리/ncpa+를/jco
+
+하고
+	하/pvg+고/ecc
+
+떠났습니다
+	뜨/pvg+어/ecx+나/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+평소
+	평소/ncn
+
+여행은
+	여행/ncpa+은/jxc
+
+새벽
+	새벽/ncn
+
+출발인데
+	출발/ncpa+이/jp+ㄴ데/ecs
+
+
+이번
+	이/nnc+번/nbu
+
+무박여행은
+	무박여행/ncn+은/jxc
+
+생활에
+	생활/ncpa+에/jca
+
+또
+	또/maj
+
+다른
+	다르/paa+ㄴ/etm
+
+느낌을
+	느끼/pvg+ㅁ/etn+을/jco
+
+받기
+	받/pvg+기/etn
+
+위함도
+	위하/pvg+ㅁ/etn+도/jxc
+
+있고
+	있/paa+고/ecc
+
+
+뭔가
+	뭔가/ncn
+
+저
+	저/mmd
+
+자신에게
+	자신/ncn+에게/jca
+
+특별한
+	특별/ncps+하/xsms+ㄴ/etm
+
+여행이
+	여행/ncpa+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같아
+	같/paa+아/ecx
+
+계획을
+	계획/ncpa+을/jco
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+고속도로를
+	고속도로/ncn+를/jco
+
+씽씽
+	씽씽/mag
+
+달려
+	달/paa+려/ecs
+
+
+주산지에
+	주산지/ncn+에/jca
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+시간은
+	시간/nbu+은/jxc
+
+새벽4시30분경
+	새벽4시30분경/ncn
+
+
+5시부터
+	5/nnc+시/nbu+부터/jxc
+
+7시까지
+	7/nnc+시/nbu+까지/jxc
+
+새벽
+	새벽/ncn
+
+촬영인데
+	촬영/ncpa+이/jp+ㄴ데/ecs
+
+
+버스에서
+	버스/ncn+에서/jca
+
+밖을
+	밖/ncn+을/jco
+
+나가보니
+	나가/pvg+아/ecx+보/px+니/ecs
+
+...
+	.../se
+
+
+어찌나
+	어찌/mag+나/jxc
+
+춥던지
+	춥/paa+던/etm+지/nbn
+
+
+한
+	하/pvg+ㄴ/etm
+
+겨울
+	겨울/ncn
+
+기온이였습니다
+	기온/ncn+이/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+주산지
+	주산지/ncn
+
+입구
+	입구/ncn
+
+주차장에서
+	주차장/ncn+에서/jca
+
+올려다
+	올리/pvg+어다/ecs
+
+본
+	보/px+ㄴ/etm
+
+하늘에
+	하늘/ncn+에/jca
+
+떠
+	뜨/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+별들이
+	별/ncn+들/xsncc+이/jcc
+
+어찌나
+	어찌/mag+나/jxc
+
+많던지
+	많/paa+던/etm+지/nbn
+
+
+도시에서
+	도시/ncn+에서/jca
+
+잘
+	잘/mag
+
+안보이던
+	안보/ncn+이/jp+던/etm
+
+별들이
+	별/ncn+들/xsncc+이/jcc
+
+총총하게
+	총총하/ncn+이/jp+게/ecs
+
+떠
+	뜨/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+모습에
+	모습/ncn+에/jca
+
+
+새벽녘
+	새벽녘/ncn
+
+추위를
+	추위/ncn+를/jco
+
+잠시
+	잠시/mag
+
+잊을
+	잊/pvg+을/etm
+
+수
+	수/nbn
+
+있었답니다
+	있/px+었/ep+답니다/ef
+
+.
+	./sf
+
+
+추위에
+	추위/ncn+에/jca
+
+떨며
+	떨/pvg+며/ecc
+
+1시간
+	1/nnc+시간/nbu
+
+이상을
+	이상/ncn+을/jco
+
+기다려
+	기다리/pvg+어/ecx
+
+담은
+	담/pvg+은/etm
+
+것이랍니다
+	것/nbn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+주차장에서
+	주차장/ncn+에서/jca
+
+10여분
+	10/nnc+여/xsnu+분/nbu
+
+걸어
+	걷/pvg+어/ecx
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+주산지가
+	주산지/ncn+가/jcs
+
+나옵니다
+	나/pvg+아/ecx+오/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이곳을
+	이곳/npd+을/jco
+
+몇
+	몇/nnc
+
+번
+	번/nbu
+
+와
+	오/pvg+아/ecx
+
+보신분들은
+	보신/ncpa+분/ncn+들/xsncc+은/jxc
+
+벌써
+	벌써/mag
+
+
+삼각대를
+	삼각대/ncn+를/jco
+
+설치해
+	설치/ncpa+하/xsva+어/ecx
+
+놓고
+	놓/pvg+고/ecc
+
+
+날이
+	날/ncn+이/jcc
+
+밝기를
+	밝/paa+기/etn+를/jco
+
+기다리고
+	기다리/pvg+고/ecc
+
+계셨습니다
+	계시/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+주산지를
+	주산지/ncn+를/jco
+
+처음으로
+	처음/ncn+으로/jca
+
+알게된
+	알/pvg+게/ecx+되/px+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+
+봄,
+	보/px+ㅁ/etn+,/sp
+
+여름,
+	여름/ncn+,/sp
+
+가을,
+	가/px+ㄹ/etm+,/sp
+
+겨울
+	겨울/ncn
+
+그리고
+	그리고/maj
+
+봄이라는
+	보/px+ㅁ/etn+이/jp+라/ef+는/etm
+
+영화를
+	영화/ncn+를/jco
+
+본
+	보/px+ㄴ/etm
+
+이후랍니다
+	이후/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+영화도
+	영화/ncn+도/jxc
+
+그렇지만,
+	그렇/pad+지만/ecs+,/sp
+
+주산지의
+	주산지/ncn+의/jcm
+
+사계절이
+	사계절/ncn+이/jcc
+
+너무도
+	너무/mag+도/jxc
+
+아름다워
+	아름답/paa+어/ecs
+
+
+몇번이라
+	몇/nnc+번/nbu+이/jp+라/ecs
+
+오려고
+	오/px+려고/ecs
+
+계획하다
+	계획하/ncn+이/jp+다/ef
+
+무산된
+	무산/ncpa+되/xsvn+ㄴ/etm
+
+곳이라
+	곳/ncn+이/jp+라/ecs
+
+더욱
+	더욱/mag
+
+와
+	오/pvg+아/ecx
+
+보고
+	보/px+고/ecc
+
+싶었던
+	싶/px+었/ep+던/etm
+
+곳이랍니다
+	곳/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+영화의
+	영화/ncn+의/jcm
+
+배경이
+	배경/ncn+이/jcc
+
+되었던
+	되/pvg+었/ep+던/etm
+
+사찰
+	사찰/ncn
+
+세트장이
+	세트/ncn+장/ncn+이/jcc
+
+기억으론
+	기억/nnc+으론/jca
+
+지난해
+	지난해/ncn
+
+철거된
+	철거/ncpa+되/xsvn+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+알고
+	알/pvg+고/ecx
+
+있는데
+	있/paa+는데/ecs
+
+
+그
+	그/mmd
+
+사찰
+	사찰/ncn
+
+세트장이
+	세트/ncn+장/ncn+이/jcc
+
+아직도
+	아직/mag+도/jxc
+
+기억에
+	기억/nnc+에/jca
+
+생생하네요
+	생생하/paa+네요/ef
+
+
+새벽안개와
+	새벽/ncn+안개/ncn+와/jct
+
+함께
+	함께/mag
+
+주산지
+	주산지/ncn
+
+호수속에
+	호수/ncn+속/ncn+에/jca
+
+비친
+	비치/pvg+ㄴ/etm
+
+왕버들의
+	왕버들/ncn+의/jcm
+
+멋진
+	멋지/paa+ㄴ/etm
+
+광경이랍니다
+	광경/ncn+이/jp+랍니다/ef
+
+.
+	./sf
+
+
+산등성과
+	산등/ncn+성/ncn+과/jcj
+
+골짜기의
+	골짜기/ncn+의/jcm
+
+모습이
+	모습/ncn+이/jcc
+
+마치
+	마치/mag
+
+장구처럼
+	장구/ncn+처럼/jca
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+새벽녘
+	새벽녘/ncn
+
+주산지
+	주산지/ncn
+
+뚝방에서는
+	뚝방에서/ncn+는/jxc
+
+왕버들
+	왕버들/ncn
+
+나무가
+	나무/ncn+가/jcs
+
+보이지
+	보이/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+답니다
+	달/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+조망대
+	조망/ncn+대/ncn
+
+쪽으로
+	쪽/ncn+으로/jca
+
+가야된답니다
+	가/pvg+아/ecx+되/px+ㄴ답니다/ef
+
+.
+	./sf
+
+
+전날
+	전날/ncn
+
+자정을
+	자정/ncn+을/jco
+
+1시간
+	1/nnc+시간/nbu
+
+앞두고
+	앞두/pvg+고/ecc
+
+출발하여
+	출발/ncpa+하/xsva+어/ecs
+
+
+새벽녘에
+	새벽녘/ncn+에/jca
+
+주산지를
+	주산지/ncn+를/jco
+
+담고
+	담/ncn+고/jcj
+
+
+다시
+	다시/mag
+
+주왕산을
+	주왕산/ncn+을/jco
+
+향해
+	향하/pvg+어/ecx
+
+내려왔습니다
+	내리/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여행은
+	여행/ncpa+은/jxc
+
+대신증권의
+	대신/ncn+증권/ncn+의/jcm
+
+고~고~씽
+	고~고~씽/ncn
+
+!
+	!/sf
+
+
+투어라는
+	투어/ncn+라는/jcm
+
+
+특별한
+	특별/ncps+하/xsms+ㄴ/etm
+
+여행을
+	여행/ncpa+을/jco
+
+준비해
+	준비/ncn+해/ncn
+
+주셨습니다
+	주/px+셨/ep+습니다/ef
+
+.
+	./sf
+
+
+주산지는
+	주산지/ncn+는/jxc
+
+300년된
+	300년된/ncn
+
+왕버들
+	왕버들/ncn
+
+나무가
+	나무/ncn+가/jcs
+
+있는데
+	있/paa+는데/ecs
+
+
+늦가을에
+	늦가을/ncn+에/jca
+
+본
+	보/px+ㄴ/etm
+
+왕버들
+	왕버들/ncn
+
+나무에
+	나무/ncn+에/jca
+
+나뭇잎을
+	나뭇잎/ncn+을/jco
+
+하나
+	하/pvg+나/ecs
+
+없어도
+	없/paa+어도/ecs
+
+그
+	그/mmd
+
+자체로도
+	자체/ncn+로도/jca
+
+
+감탄사가
+	감탄사/ncn+가/jcs
+
+절로
+	절/ncn+로/jca
+
+나올정도
+	나올정/ncn+도/jxc
+
+멋있었답니다
+	멋있/paa+었/ep+답니다/ef
+
+.
+	./sf

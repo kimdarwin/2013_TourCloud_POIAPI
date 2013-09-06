@@ -1,0 +1,324 @@
+가야산가는길=강남
+	가야산가는길=강남/ncn
+
+고속버스
+	고속버스/ncn
+
+터미널
+	터미널/ncn
+
+에서-
+	에/pvg+어서/ecs+-/sd
+
+동대구
+	동/nbu+대/xsnu+구/nbu
+
+가는고속버스를
+	가는고속버스/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+동대구
+	동/nbu+대/xsnu+구/nbu
+
+역에서
+	역/ncn+에서/jca
+
+내려
+	내/nbn+이/jp+려/ecs
+
+
+지하철1호선
+	지하철/ncn+1호선/ncn
+
+성당
+	성당/ncn
+
+못
+	못/mag
+
+역에
+	역/ncn+에/jca
+
+하차
+	하차/ncn
+
+3번출구
+	3번출구/ncn
+
+서부
+	서부/ncn
+
+정류장에서-해인사행을
+	정류장에서-해인사행/ncn+을/jco
+
+타시고
+	타/nbu+이/jp+시/ep+고/ecc
+
+
+해인사
+	해인사/ncn
+
+입구에서
+	입구/ncn+에서/jca
+
+하차
+	하차/ncn
+
+
+주
+	주/nbu
+
+소
+	소/ncn
+
+:
+	:/sp
+
+경남
+	경남/ncn
+
+합천군
+	합천군/ncn
+
+가야면
+	가야/ncn+이/jp+면/ecs
+
+치인리
+	치/nbu+이/jp+ㄴ/etm+리/nbn
+
+10번지
+	10번지/ncn
+
+문의
+	문/ncn+의/jcm
+
+[055]934-3000
+	[/sl+055/nnc+]/sr+934/nnc+-3000/nnc
+
+
+바위틈
+	바위/ncn+틈/ncn
+
+에서
+	에/pvg+어서/ecs
+
+잘아나는
+	잘/paa+아/ecx+나/px+는/etm
+
+소나무
+	소나무/ncn
+
+
+가야산에서
+	가야산/ncn+에서/jca
+
+바라본
+	바라/pvg+아/ecx+보/px+ㄴ/etm
+
+주변산야
+	주변/ncn+산야/ncn
+
+[주변에
+	[/sl+주변/ncn+에/jca
+
+가볼만한곳
+	가볼만한곳/ncn
+
+오대산-해발.
+	오대/ncn+산/ncn+-/sd+해발/ncn+./sf
+
+1133m
+	1133m/ncn
+
+
+이곳은정상에
+	이곳은정상/ncn+에/jca
+
+올라
+	오르/pvg+아/ecx
+
+가기전에
+	가/px+기/etn+전/xsnx+에/jca
+
+이마에
+	이마/ncn+에/jca
+
+흘린땀방울를
+	흘린땀방울/ncn+를/jco
+
+씻고가는곳
+	씻고가는곳/ncn
+
+
+이곳은
+	이곳/npd+은/jxc
+
+바위가
+	바위/ncn+가/jcs
+
+서로
+	서로/mag
+
+어우려져
+	업/pvg+으려/ecx+지/px+어/ecx
+
+일대장관을
+	일대/ncn+장관/ncr+을/jco
+
+이루고
+	이루/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+부려오는
+	부리/pvg+어/ecx+오/px+는/etm
+
+바람은
+	바라/pvg+ㅁ/etn+은/jxc
+
+등산인의
+	등산/ncpa+인/ncn+의/jcm
+
+가슴을
+	가슴/ncn+을/jco
+
+
+시원
+	시원/ncn
+
+하게
+	하/pvg+게/ecs
+
+해준다
+	하/pvg+어/ecx+줄/px+ㄴ다/ef
+
+
+정상
+	정상/ncn
+
+에서
+	에/pvg+어서/ecs
+
+뻗어나간
+	뻗어나/pvg+아/ecx+가/px+ㄴ/etm
+
+능선이
+	능선/ncn+이/jcc
+
+매우
+	매우/mag
+
+아름다워
+	아름답/paa+어/ecx
+
+등산인
+	등산/ncpa+이/jp+ㄴ/etm
+
+들의
+	들/ncn+의/jcm
+
+마음을
+	마음/ncn+을/jco
+
+설래게한다
+	설래/ncn+이/jp+게/ecx+하/px+ㄴ다/ef
+
+
+등산
+	등산/ncpa
+
+코스는
+	코스/ncn+는/jxc
+
+여러갈래가
+	여러갈래/ncn+가/jcs
+
+있으나
+	있/px+으나/ecs
+
+해인사에서
+	해인사/ncn+에서/jca
+
+용탑서원
+	용탑서원/ncn
+
+정상에
+	정상/ncn+에/jca
+
+이르는
+	이르/paa+는/etm
+
+코스가
+	코스/ncn+가/jcs
+
+대표적이다
+	대표/ncr+적/ncn+이/jp+다/ef
+
+
+가야산
+	가야산/ncn
+
+은
+	은/ncn
+
+조선8경의
+	조선8경/ncn+의/jcm
+
+하나이며12대
+	하나이며12대/ncn
+
+명산이다
+	명산/ncn+이/jp+다/ef
+
+
+가야산
+	가야산/ncn
+
+은
+	은/ncn
+
+산세가
+	산세/ncn+가/jcs
+
+부드럽고
+	부드럽/paa+고/ecc
+
+바위
+	바위/ncn
+
+능선이
+	능선/ncn+이/jcc
+
+절경을
+	절경/ncn+을/jco
+
+이루는곳이다
+	이루는곳/ncn+이/jp+다/ef
+
+
+이곳은
+	이곳/npd+은/jxc
+
+금성
+	금성/ncn
+
+암이
+	알/pvg+ㅁ/etn+이/jcs
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+보이며
+	보이/pvg+며/ecc
+
+단풍이
+	단풍/ncn+이/jcc
+
+아름답다
+	아름답/paa+다/ef

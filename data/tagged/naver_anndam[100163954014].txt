@@ -1,0 +1,4501 @@
+경기도
+	경기/ncn+도/jxc
+
+이색여행
+	이색/ncn+여행/ncpa
+
+/
+	//sp
+
+포천여행
+	포천여행/ncn
+
+가평여행
+	가평여행/ncn
+
+/
+	//sp
+
+막걸리여행
+	막걸리/ncn+여행/ncpa
+
+/
+	//sp
+
+포천
+	포천/ncn
+
+배상면주가
+	배상면주/ncn+가/jcs
+
+산사원,
+	산사/ncn+원/ncn+,/sp
+
+우리술
+	우리/ncn+술/ncn
+
+가평잣막걸리
+	가평잣막걸리/ncn
+
+
+물좋은
+	물좋/ncn+은/jxc
+
+고장에서
+	고장/ncn+에서/jca
+
+맛있는
+	맛있/paa+는/etm
+
+막걸리
+	막걸리/ncn
+
+여행
+	여행/ncpa
+
+어떤가요~
+	어떤가요/ncn+~/sd
+
+
+"우리의
+	"/sl+우리/npp+의/jcm
+
+술
+	술/ncn
+
+막걸리,
+	막걸리/ncn+,/sp
+
+세계속의
+	세계/ncn+속/ncn+의/jcm
+
+막걸리
+	막걸리/ncn
+
+!!
+	!/sf+!/sf
+
+
+대학생
+	대학생/ncn
+
+서포터즈와
+	서포터즈/ncn+와/jct
+
+함께한
+	함께하/pvg+ㄴ/etm
+
+양조장
+	양조장/ncn
+
+방문
+	방문/ncpa
+
+및
+	및/maj
+
+체험
+	체험/ncpa
+
+여행"
+	여행/ncpa+"/sr
+
+
+포천
+	포천/ncn
+
+배상면주가
+	배상면주/ncn+가/jcs
+
+산사원이동갈비가평
+	산사원이동갈비가평/ncn
+
+우리술
+	우리/ncn+술/ncn
+
+
+막걸리여행
+	막걸리/ncn+여행/ncpa
+
+..
+	./sf+./sf
+
+
+테마가
+	테마/ncn+가/jcs
+
+재밌지요
+	재밌지요/ncn
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+경기도
+	경기/ncn+도/jxc
+
+여행지를
+	여행지/ncn+를/jco
+
+찾아가는
+	찾/pvg+아/ecx+가/px+는/etm
+
+여행이
+	여행/ncpa+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+우리의
+	우리/npp+의/jcm
+
+술
+	술/ncn
+
+막걸리
+	막걸리/ncn
+
+양조장을
+	양조장/ncn+을/jco
+
+찾았는데요
+	찾/pvg+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여행은
+	여행/ncpa+은/jxc
+
+농림수산식품부,
+	농림/ncn+수산식품/ncn+부/ncn+,/sp
+
+한국농수산식품유통공사가
+	한국농수산식품유통공사/ncn+가/jcs
+
+주최하고
+	주최/ncpa+하고/jct
+
+한국전통주진흥협회에서
+	한국전통주진흥협회/ncn+에서/jca
+
+주관한
+	주관/ncn+한/ncn
+
+당일여행인데요
+	당일여행인데요/ncn
+
+.
+	./sf
+
+
+글로벌
+	글로벌/ncn
+
+막걸리
+	막걸리/ncn
+
+UCC공모전을
+	UCC/f+공모전/ncn+을/jco
+
+위해서
+	위하/pvg+어서/ecs
+
+대학생
+	대학생/ncn
+
+서포터즈들과
+	서포터즈들/ncn+과/jcj
+
+양조장을
+	양조장/ncn+을/jco
+
+탐방하고
+	탐방/ncpa+하고/jct
+
+체험하는
+	체험/ncpa+하/xsva+는/etm
+
+목적이
+	목적/ncn+이/jcc
+
+있었어요
+	있/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+전
+	전/nbn
+
+대학생이
+	대학생/ncn+이/jcc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+주로주로닷컴과의
+	주로주로닷컴과/ncn+의/jcm
+
+인연으로
+	인연/ncn+으로/jca
+
+막걸리를
+	막걸리/ncn+를/jco
+
+사랑하는
+	사랑/ncpa+하/xsva+는/etm
+
+그
+	그/mmd
+
+맘
+	말/px+ㅁ/etn
+
+하나로
+	하나/nnc+로/jca
+
+함께
+	함께/mag
+
+했었습니다
+	하/px+었었/ep+습니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+포천
+	포천/ncn
+
+배상면주가의
+	배상면주가/ncn+의/jcm
+
+산사원,
+	산사/ncn+원/ncn+,/sp
+
+가평의
+	가평/ncn+의/jcm
+
+우리술
+	우리/ncn+술/ncn
+
+양조장에
+	양조장/ncn+에/jca
+
+들러서
+	들르/pvg+어서/ecs
+
+기분좋고
+	기분좋/paa+고/ecc
+
+맛있는
+	맛있/paa+는/etm
+
+여행을
+	여행/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+왔답니다
+	오/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+경기도
+	경기/ncn+도/jxc
+
+막걸리여행
+	막걸리/ncn+여행/ncpa
+
+/
+	//sp
+
+포천
+	포천/ncn
+
+가평
+	가평/ncn
+
+여행
+	여행/ncpa
+
+
+우리의
+	우리/npp+의/jcm
+
+술
+	술/ncn
+
+막걸리를
+	막걸리/ncn+를/jco
+
+만나러가는
+	만나러가/ncn+는/jxc
+
+경기도
+	경기/ncn+도/jxc
+
+당일
+	당/ncn+이/jp+ㄹ/etm
+
+이색여행
+	이색/ncn+여행/ncpa
+
+.
+	./sf
+
+
+한
+	하/pvg+ㄴ/etm
+
+지역의
+	지역/ncn+의/jcm
+
+여행지,
+	여행지/ncn+,/sp
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+관광지를
+	관광지/ncn+를/jco
+
+찾아가는
+	찾/pvg+아/ecx+가/px+는/etm
+
+여행을
+	여행/ncpa+을/jco
+
+다니다
+	다니/pvg+다/ef
+
+이렇게
+	이렇/pad+게/ecs
+
+확실한
+	확실/ncps+하/xsms+ㄴ/etm
+
+테마가
+	테마/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+여행길도
+	여행길/ncn+도/jxc
+
+재밌는거
+	재밌는거/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+막걸리여행,
+	막걸리/ncn+여행/ncpa+,/sp
+
+먹걸리기행
+	먹걸리기행/ncn
+
+..
+	./sf+./sf
+
+
+재밌는
+	재밌/ncn+는/jxc
+
+테마가
+	테마/ncn+가/jcs
+
+아닌가요
+	아니/paa+ㄴ가/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+우리땅에서
+	우리땅/ncn+에서/jca
+
+나는
+	나/npp+는/jxc
+
+수많은
+	수많/paa+은/etm
+
+전통주들을이
+	전통주/ncn+들을이/ncn
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이유없이
+	이유/ncn+없이/jca
+
+생긴
+	생기/pvg+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+없듯이
+	없/paa+듯이/ecs
+
+그
+	그/mmd
+
+지역마다
+	지역/ncn+마다/jxc
+
+대표하는
+	대표/ncpa+하/xsva+는/etm
+
+지역의
+	지역/ncn+의/jcm
+
+술은
+	술/ncn+은/jxc
+
+그
+	그/mmd
+
+지역을
+	지역/ncn+을/jco
+
+대변하는
+	대변/ncpa+하/xsva+는/etm
+
+생활문화가
+	생활문화/ncn+가/jcs
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+점에서
+	점/nbu+에서/jca
+
+지역
+	지역/ncn
+
+술을
+	술/ncn+을/jco
+
+만나러
+	만나/pvg+러/ecs
+
+가는
+	가/pvg+는/etm
+
+길은
+	길/ncn+은/jxc
+
+관광지를
+	관광지/ncn+를/jco
+
+찾는
+	찾/pvg+는/etm
+
+것보다
+	것/nbn+보다/jca
+
+그
+	그/mmd
+
+지역을
+	지역/ncn+을/jco
+
+이해하는데
+	이해/ncpa+하/xsva+ㄴ데/ecs
+
+도움이
+	도움/ncn+이/jcc
+
+되지
+	되/pvg+지/ecx
+
+않을까
+	않/px+을까/ef
+
+하는
+	하/pvg+는/etm
+
+생각도
+	생각/ncpa+도/jxc
+
+하게
+	하/pvg+게/ecs
+
+되구요
+	되구요/ncn
+
+.
+	./sf
+
+
+물좋은
+	물좋/ncn+은/jxc
+
+지방에
+	지방/ncn+에/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+술하나
+	술하/ncn+나/jcj
+
+정도는
+	정도/ncn+는/jxc
+
+꼭
+	꼭/mag
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+지역술이
+	지역/ncn+술/ncn+이/jcc
+
+아니라고
+	아니/paa+라/ef+고/jcr
+
+해도
+	하/pvg+어도/ecs
+
+집집마다
+	집집/ncn+마다/jxc
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+전통적인
+	전통/ncn+적/ncn+이/jp+ㄴ/etm
+
+가양주도
+	가양주/ncn+도/jxc
+
+있기
+	있/px+기/etn
+
+마련이기구요
+	마련이기구요/ncn
+
+.
+	./sf
+
+
+포천과
+	포천/ncn+과/jcj
+
+가평도
+	가평/ncn+도/jxc
+
+물좋은
+	물좋은/ncn
+
+지역으로
+	지역/ncn+으로/jca
+
+유명하지요
+	유명/ncps+하/xsms+지/ef+요/jxf
+
+.
+	./sf
+
+
+포천의
+	포천/ncn+의/jcm
+
+배상면주가는
+	배상면주가/ncn+는/jxc
+
+백운계곡의
+	백운계곡/ncn+의/jcm
+
+맑은
+	맑/paa+은/etm
+
+심층수를
+	심층/ncn+수/ncn+를/jco
+
+이용해서
+	이용/ncpa+하/xsva+어서/ecs
+
+술을
+	술/ncn+을/jco
+
+담그구요
+	담그구요/ncn
+
+.
+	./sf
+
+
+가평
+	가평/ncn
+
+우리술의
+	우리/ncn+술/ncn+의/jcm
+
+경우는
+	경우/ncn+는/jxc
+
+청정지역으로
+	청정/ncpa+지역/ncn+으로/jca
+
+소문난
+	소문나/pvg+ㄴ/etm
+
+지역인만큼
+	지역/ncn+이/jp+ㄴ/etm+만큼/nbn
+
+지하
+	지하/ncn
+
+250m
+	250m/ncn
+
+천연
+	천연/ncn
+
+암반수로
+	암반/ncn+수/ncn+로/jca
+
+막걸리를
+	막걸리/ncn+를/jco
+
+빚는다고
+	빚/pvg+는다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+배상면주가가
+	배상면주가/ncn+가/jcs
+
+우리의
+	우리/npp+의/jcm
+
+전통주를
+	전통주/ncn+를/jco
+
+살려가면서
+	살리/pvg+어/ecx+가/px+면서/ecc
+
+소비자들에게
+	소비자/ncn+들/ncn+에게/jca
+
+사랑받는
+	사랑/ncpa+받/xsva+는/etm
+
+맛을
+	맛/ncn+을/jco
+
+찾아간다면,
+	찾/pvg+아/ecx+가/px+ㄴ다면/ecs+,/sp
+
+우리술은
+	우리/ncn+술/ncn+은/jxc
+
+막걸리의
+	막걸리/ncn+의/jcm
+
+세계화를
+	세계/ncn+화/ncn+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+표준화된
+	표준화/ncn+되/xsvn+ㄴ/etm
+
+막걸리를
+	막걸리/ncn+를/jco
+
+생산하고
+	생산/ncpa+하고/jct
+
+전파하는데
+	전파/ncpa+하/xsva+ㄴ데/ecs
+
+노력하고
+	노력/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+하겠습니다
+	하/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+당일
+	당/ncn+이/jp+ㄹ/etm
+
+일정으로
+	일정/ncn+으로/jca
+
+재기발랄한
+	재기발랄/ncps+하/xsms+ㄴ/etm
+
+대학생들과
+	대학생/ncn+들/ncn+과/jct
+
+함께한
+	함께하/pvg+ㄴ/etm
+
+시간,
+	시간/nbu+,/sp
+
+하루를
+	하루/ncn+를/jco
+
+총정리해보구요
+	총정리해보구요/ncn
+
+.
+	./sf
+
+
+전통술박물관
+	전통술박물관/ncn
+
+산사원의
+	산사/ncn+원/ncn+의/jcm
+
+모습이
+	모습/ncn+이/jcc
+
+인상적이라
+	인상/ncn+적/ncn+이/jp+라/ecs
+
+그곳은
+	그곳/ncn+은/jxc
+
+좀더
+	좀더/mag
+
+상세하게
+	상세/ncps+하/xsms+게/ecs
+
+보여드리도록
+	보이/pvg+어/ecx+드리/px+도록/ecs
+
+하겠습니다
+	하/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-마음이
+	여행/ncpa+이야기/ncpa+-/sd+마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+(여행일:
+	(/sl+여행/ncpa+이/jp+ㄹ/etm+:/sp
+
+2012
+	2012/nnc
+
+.
+	./sf
+
+
+08
+	08/nnc
+
+.
+	./sf
+
+
+03)
+	03/nnc+)/sr
+
+
+더운날은
+	더운날/ncn+은/jxc
+
+계속되었지만,
+	계속/ncpa+되/xsvn+었/ep+지만/ecs+,/sp
+
+덕분에
+	덕분/ncn+에/jca
+
+하늘은
+	하늘/ncn+은/jxc
+
+참
+	참/mag
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+연일입니다
+	연일입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+포천으로
+	포천/ncn+으로/jca
+
+향하는
+	향하/pvg+는/etm
+
+길
+	길/ncn
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+창밖으로
+	창밖/ncn+으로/jca
+
+푸른하늘과
+	푸른하늘/ncn+과/jcj
+
+뭉게구름이
+	뭉게구름/ncn+이/jcc
+
+지루함을
+	지루/ncn+함/ncn+을/jco
+
+달래주었어요
+	달래/pvg+어/ecx+주/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+생각보다
+	생각/ncpa+보다/jca
+
+포천에서도
+	포천에서/ncn+도/jxc
+
+안으로
+	안/ncn+으로/jca
+
+들어가야하는
+	들/pvg+어/ecx+가/px+아/ecx+하/px+는/etm
+
+지라
+	지/nbn+이/jp+라/ecs
+
+시간이
+	시간/ncn+이/jcc
+
+꽤
+	꽤/mag
+
+걸렸어요
+	걸리/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+휴가철이다보니
+	휴가철이다보/ncn+이/jp+니/ecs
+
+더
+	더/mag
+
+걸린듯
+	걸리/pvg+ㄴ/etm+듯/nbs
+
+하기도
+	하/pvg+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+양재동
+	양재/ncn+동/ncn
+
+at센터에서
+	at/f+센터/ncn+에서/jca
+
+출발해서
+	출발/ncpa+하/xsva+어서/ecs
+
+2시간이
+	2/nnc+시간/nbu+이/jcc
+
+훨씬
+	훨씬/mag
+
+넘어서
+	넘/pvg+어서/ecs
+
+도착을
+	도착/ncpa+을/jco
+
+했구요
+	했구요/ncn
+
+.
+	./sf
+
+
+우선
+	우선/mag
+
+전통술박물관인
+	전통술박물관/ncn+이/jp+ㄴ/etm
+
+산사원에
+	산사/ncn+원/ncn+에/jca
+
+들렀어요
+	들르/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+배상면주가에서
+	배상면주가/ncn+에서/jca
+
+운영하는
+	운영/ncpa+하/xsva+는/etm
+
+곳이구요
+	곳이구요/ncn
+
+.
+	./sf
+
+
+그저
+	그저/mag
+
+술양조장이라는
+	술양조장/ncn+이/jp+라/ef+는/etm
+
+이미지가
+	이미지/ncn+가/jcs
+
+아니라
+	아니/paa+라/ecs
+
+우리의
+	우리/npp+의/jcm
+
+전통술박물관,
+	전통술박물관,/ncn
+
+산사정원에서의
+	산사/ncn+정원/ncn+에서/jca+의/jcm
+
+술익은
+	술익/ncn+은/jxc
+
+독도
+	독/ncn+도/jxc
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있구요
+	있구요/ncn
+
+..
+	./sf+./sf
+
+
+문화공간으로써의
+	문화공간/ncn+으로써/jca+의/jcm
+
+변모라
+	변모/ncpa+이/jp+라/ecs
+
+새로운
+	새롭/paa+은/etm
+
+느낌을
+	느끼/pvg+ㅁ/etn+을/jco
+
+주었어요
+	주/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+박물관
+	박물관/ncn
+
+내부와
+	내부/ncn+와/jct
+
+아름다웠던
+	아름답/paa+었/ep+던/etm
+
+산사정원의
+	산사/ncn+정원/ncn+의/jcm
+
+모습
+	모습/ncn
+
+다시
+	다시/mag
+
+보여드릴게요
+	보여드릴게요/ncn
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+도착해서
+	도착/ncpa+하/xsva+어서/ecs
+
+우선
+	우선/mag
+
+가양주만들기
+	가양주만들기/ncn
+
+체험을
+	체험/ncpa+을/jco
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+미리
+	미리/mag
+
+예약을
+	예약/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+오면
+	오/px+면/ecs
+
+체험이
+	체험/ncpa+이/jcc
+
+가능한거
+	가능한거/ncn
+
+같은데요
+	같은데요/ncn
+
+.
+	./sf
+
+
+술빚기
+	술빚기/ncn
+
+체험은
+	체험/ncpa+은/jxc
+
+농촌체험마을에서
+	농촌/ncn+체험/ncpa+마을/ncn+에서/jca
+
+이미
+	이미/mag
+
+해본
+	하/pvg+어/ecx+보/px+ㄴ/etm
+
+적도
+	적/nbn+도/jxc
+
+있기는
+	있/px+기/etn+는/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+집에와서
+	집에와/ncn+서/jca
+
+걸러
+	거르/pvg+어/ecx
+
+먹어보기도
+	먹/pvg+어/ecx+보/px+기/etn+도/jxc
+
+했구요
+	했구요/ncn
+
+.
+	./sf
+
+
+이리
+	이리/mad
+
+양을
+	양/ncn+을/jco
+
+정해놓고
+	정하/pvg+어/ecx+놓/px+고/ecc
+
+담기만
+	담/pvg+기/etn+만/jxc
+
+하면
+	하/pvg+면/ecs
+
+되니까
+	되/pvg+니까/ecs
+
+아주
+	아주/mag
+
+편해요
+	편하/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+가양주에
+	가양주/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+정보도
+	정보/ncn+도/jxc
+
+얻고
+	얻/pvg+고/ecc
+
+직접
+	직접/mag
+
+내가
+	나/npp+가/jcs
+
+손으로
+	손/ncn+으로/jca
+
+조물조물
+	조물조물/ncn
+
+해서
+	하/pvg+어서/ecs
+
+빚은
+	빚/ncn+은/jxc
+
+술이라
+	술/ncn+이/jp+라/ecs
+
+일주일
+	일/nnc+주일/nbu
+
+후에
+	후/ncn+에/jca
+
+내가
+	나/npp+가/jcs
+
+빚은
+	빚/ncn+은/jxc
+
+술의
+	술/ncn+의/jcm
+
+맛이
+	맛/ncn+이/jcc
+
+어떨지
+	어떨지/ncn
+
+무지
+	무지/ncn
+
+궁금해지기도
+	궁금해지/pvg+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+요즘
+	요즘/mag
+
+날씨가
+	날씨/ncn+가/jcs
+
+더워서
+	덥/paa+어서/ecs
+
+적정
+	적정/ncps
+
+온도를
+	온도/ncn+를/jco
+
+유지해
+	유지/ncn+해/ncn
+
+주지
+	주/px+지/ecx
+
+못할
+	못하/px+ㄹ/etm
+
+거
+	것/nbn
+
+같아서
+	같/paa+아/ecx
+
+걱정스럽긴
+	걱정스럽긴/ncn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+그리곤
+	그리/pvg+곤/ecs
+
+산사정원으로
+	산사/ncn+정원/ncn+으로/jca
+
+나갔는데요
+	나/pvg+아/ecx+가/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+더운날이었지만
+	더운날/ncn+이/jp+었/ep+지만/ecs
+
+정원의
+	정원/ncn+의/jcm
+
+아름다움에
+	아름다움/ncn+에/jca
+
+잠시
+	잠시/mag
+
+더위도
+	더위/ncn+도/jxc
+
+잊게
+	잊/pvg+게/ecs
+
+만들었던
+	만들/pvg+었/ep+던/etm
+
+곳이예요
+	곳/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+커다란
+	커다랗/paa+은/etm
+
+술독에서
+	술독/ncn+에서/jca
+
+술익어가는
+	술익어가/ncn+는/jxc
+
+냄새가
+	냄새/ncn+가/jcs
+
+솔솔
+	솔솔/mag
+
+...
+	.../se
+
+
+진한
+	지/px+ㄴ/etm+한/nbn
+
+술향에
+	술향/ncn+에/jca
+
+200년이
+	200/nnc+년/nbu+이/jcc
+
+된
+	되/pvg+ㄴ/etm
+
+산사나무도
+	산사/ncn+나무/ncn+도/jxc
+
+함께
+	함께/mag
+
+하는
+	하/pvg+는/etm
+
+정원이었는데요
+	정원/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이날
+	이/nnc+날/nbu
+
+푸른
+	푸르/paa+ㄴ/etm
+
+하늘과
+	하늘/ncn+과/jcj
+
+4천여평에
+	4/nnc+천여/nnc+평/nbu+에/jca
+
+자리한
+	자리/ncn+한/ncn
+
+세월랑,
+	세/nnc+월/nbu+랑/jxc+,/sp
+
+부안당,
+	부안당,/ncn
+
+우곡루
+	우곡루/ncn
+
+등한옥건물이
+	등한옥건물/ncn+이/jcc
+
+어우러져서
+	어우러지/pvg+어서/ecs
+
+참
+	참/mag
+
+아름다운
+	아름답/paa+은/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+싶었어요
+	싶/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+단순히
+	단순히/mag
+
+술독이
+	술독/ncn+이/jcc
+
+살고
+	살/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+곳이란
+	곳/ncn+이란/jxc
+
+느낌보다는
+	느끼/pvg+ㅁ/etn+보다/jca+는/jxc
+
+왠지
+	왠지/mag
+
+그
+	그/mmd
+
+술이
+	술/ncn+이/jcc
+
+익어가는
+	익/pvg+어/ecx+가/px+는/etm
+
+공간을
+	공간/ncn+을/jco
+
+함께하고
+	함께하/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+기분좋은
+	기분좋/paa+은/etm
+
+느낌을
+	느끼/pvg+ㅁ/etn+을/jco
+
+받을
+	받/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이었어요
+	곳/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+우곡루에서
+	우곡루/ncn+에서/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+산사정원은
+	산사/ncn+정원/ncn+은/jxc
+
+정말
+	정말/mag
+
+자연이
+	자연/ncn+이/jcc
+
+만들어
+	만들/pvg+어/ecx
+
+놓은
+	놓/px+은/etm
+
+그림속
+	그림/ncn+속/ncn
+
+풍경을
+	풍경/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+주었어요
+	주/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+그곳에서
+	그곳/ncn+에서/jca
+
+그냥
+	그냥/mag
+
+갈
+	가/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없다
+	없/paa+다/ef
+
+하고는
+	하/px+어/ef+고/jcr+는/jxc
+
+대학생
+	대학생/ncn
+
+서포터즈들이
+	서포터즈들/ncn+이/jcc
+
+귀여운
+	귀엽/paa+은/etm
+
+표정으로
+	표정/ncn+으로/jca
+
+기념사진을
+	기념사진/ncn+을/jco
+
+담고
+	담/pvg+고/ecc
+
+있네요
+	있/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+전
+	전/nbn
+
+뒤에서
+	뒤/ncn+에서/jca
+
+몰카를
+	몰카/ncn+를/jco
+
+한
+	하/pvg+ㄴ/etm
+
+격이
+	격/nbn+이/jcc
+
+되었나요
+	되/pvg+었/ep+나/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+보고만
+	보/pvg+고/ecx+말/px+ㄴ/etm
+
+있어도
+	있/px+어도/ecs
+
+즐거움을
+	즐거움/ncn+을/jco
+
+주는
+	주/px+는/etm
+
+젊은들이었어요
+	젊/paa+은/etm+들/nbn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+나도
+	나/npp+도/jxc
+
+저런
+	저런/mmd
+
+때가
+	때/ncn+가/jcs
+
+있었나
+	있/px+었/ep+나/ef
+
+싶은
+	싶/px+은/etm
+
+생각을
+	생각/ncpa+을/jco
+
+하게
+	하/pvg+게/ecs
+
+만들더군요
+	만들/pvg+더군/ef+요/jxf
+
+.
+	./sf
+
+
+저
+	저/mmd
+
+웃음
+	웃음/ncn
+
+속에
+	속/ncn+에/jca
+
+행복바이러스가
+	행복/ncps+바이러스/ncn+가/jcs
+
+퐁퐁
+	퐁퐁/ncn
+
+솟아나는거
+	솟아나는거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+다시
+	다시/mag
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+전통술박물관
+	전통술박물관/ncn
+
+안으로
+	안/ncn+으로/jca
+
+들어와서
+	들/pvg+어/ecx+오/px+아/ecx
+
+박물관
+	박물관/ncn
+
+내부를
+	내부/ncn+를/jco
+
+돌아보구요
+	돌아보구요/ncn
+
+.
+	./sf
+
+
+1층
+	1/nnc+층/nbu
+
+전시관이
+	전시관/ncn+이/jcc
+
+있고
+	있/px+고/ecc
+
+아랫층에는
+	아랫층/ncn+에/jca+는/jxc
+
+시음할
+	시음/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+공간이
+	공간/ncn+이/jcc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+이곳이
+	이곳/npd+이/jcc
+
+가장
+	가장/mag
+
+인기가
+	인기/ncn+가/jcs
+
+좋은
+	좋/paa+은/etm
+
+곳이었지요
+	곳/ncn+이/jp+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+막걸리,
+	막걸리/ncn+,/sp
+
+우리술을
+	우리/ncn+술/ncn+을/jco
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+학생들이다보니
+	학생들이다보/ncn+이/jp+니/ecs
+
+전통주만
+	전통주/ncn+만/jxc
+
+보면
+	보/px+면/ecs
+
+함성을
+	함성/ncn+을/jco
+
+지르더라구요
+	지르/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+배상면주가에서
+	배상면주가/ncn+에서/jca
+
+빚은
+	빚/ncn+은/jxc
+
+술들을
+	술/ncn+들/xsncc+을/jco
+
+맛볼
+	맛보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있으니
+	있/px+으니/ecs
+
+술좋아하는
+	술좋아하/ncn+는/jxc
+
+분들에게는
+	불/pvg+ㄴ/etm+들/nbn+에게/jca+는/jxc
+
+이만한
+	이/nnc+만/nnc+한/nnc
+
+공간이
+	공간/ncn+이/jcc
+
+없지요
+	없/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+저도
+	저/npp+도/jxc
+
+느린마을막걸리랑
+	느린마을막걸리랑/ncn
+
+새로운
+	새롭/paa+은/etm
+
+맛의
+	맛/ncn+의/jcm
+
+산사춘을
+	산사/ncn+춘/ncn+을/jco
+
+한잔씩
+	한잔씩/ncn
+
+했는데요
+	하/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+오호
+	오/nnc+호/nbu
+
+..
+	./sf+./sf
+
+
+맛있다는
+	맛있/paa+다/ef+는/etm
+
+소리가
+	소리/ncn+가/jcs
+
+절로
+	절/ncn+로/jca
+
+나오더라구요
+	나/pvg+아/ecx+오/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+주량만
+	주량/ncn+만/jxc
+
+되면
+	되/pvg+면/ecs
+
+시음가능한
+	시음/ncpa+가능/ncps+하/xsms+ㄴ/etm
+
+모든
+	모든/mma
+
+술을
+	술/ncn+을/jco
+
+맛보고
+	맛보/pvg+고/ecc
+
+싶었는데
+	싶/px+었/ep+는데/ecs
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+다시
+	다시/mag
+
+함
+	하/pvg+ㅁ/etn
+
+가야겠어요
+	가/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+산사원
+	산사/ncn+원/ncn
+
+내부에서
+	내부/ncn+에서/jca
+
+기념사진을
+	기념사진/ncn+을/jco
+
+담는
+	담/pvg+는/etm
+
+친구들입니다
+	친구/ncn+들/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+다들
+	다들/ncn
+
+작은
+	작/paa+은/etm
+
+시음잔을
+	시음/ncpa+잔/ncn+을/jco
+
+들고는
+	들/pvg+고/ecs+는/jxc
+
+만족스러운
+	만족/ncpa+스럽/xsmn+은/etm
+
+표정을
+	표정/ncn+을/jco
+
+짓고
+	짓/pvg+고/ecc
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+좋은
+	좋/paa+은/etm
+
+술에
+	술/ncn+에/jca
+
+기분이
+	기분/ncn+이/jcc
+
+좋아진
+	좋/paa+아/ecx+지/px+ㄴ/etm
+
+덕일까요
+	덕/ncn+이/jp+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+기본적으로
+	기본/ncn+적/ncn+으로/jca
+
+웃음이
+	웃음/ncn+이/jcc
+
+많은
+	많/paa+은/etm
+
+때이기
+	때/nbn+이/jp+기/etn
+
+때문일까요
+	때문/nbn+이/jp+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+미소가
+	미소/ncn+가/jcs
+
+끊이지
+	끊이/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+대학생들이예요
+	대학생/ncn+들이/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+즐거운
+	즐겁/paa+은/etm
+
+기분으로
+	기분/ncn+으로/jca
+
+우리의
+	우리/npp+의/jcm
+
+전통술을
+	전통/ncn+술/ncn+을/jco
+
+알리는
+	알리/pvg+는/etm
+
+일에도
+	일/ncn+에/jca+도/jxc
+
+열심히
+	열심히/mag
+
+해줄거
+	해줄거/ncn
+
+같아서
+	같/paa+아/ecx
+
+든든합니다
+	든든/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+좀
+	좀/mag
+
+늦은
+	늦/paa+은/etm
+
+점심을
+	점심/ncn+을/jco
+
+먹기
+	먹/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+다시
+	다시/mag
+
+이동으로
+	이/nnc+동/nbu+으로/jca
+
+출발
+	출발/ncpa
+
+....
+	.../se+./sf
+
+
+포천에
+	포천/ncn+에/jca
+
+왔으니
+	오/px+아/ep+니/ecs
+
+이동갈비는
+	이동/ncn+갈비/ncn+는/jxc
+
+먹어줘야
+	먹/pvg+어/ecx+주/px+어야/ecs
+
+하기에
+	하/pvg+기/etn+에/jca
+
+늦은
+	늦/paa+은/etm
+
+시간이었지만
+	시간/ncn+이/jp+었/ep+지만/ecs
+
+참고
+	참/pvg+고/ecc
+
+달려갑니다
+	달리/pvg+어/ecx+가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+창밖으로는
+	창밖/ncn+으로/jca+는/jxc
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+이렇게
+	이렇/pad+게/ecs
+
+하늘이
+	하늘/ncn+이/jcc
+
+참
+	참/mag
+
+이뻐요
+	이쁘/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+풍차가든에서
+	풍차/ncn+가든/ncn+에서/jca
+
+이동갈비를
+	이동/ncn+갈비/ncn+를/jco
+
+먹으며
+	먹/pvg+으며/ecc
+
+설정
+	설정/ncpa
+
+사진을
+	사진/ncn+을/jco
+
+담고
+	담/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+학생들을
+	학생/ncn+들/ncn+을/jco
+
+담아봤습니다
+	담/pvg+아/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+앞쪽에서
+	앞쪽/ncn+에서/jca
+
+찍었음
+	찍/pvg+었/ep+음/etn
+
+재밌었을텐데
+	재밌었을텐데/ncn
+
+...
+	.../se
+
+
+창가에
+	창가/ncn+에/jca
+
+앉았더니
+	앉/pvg+아/ep+니/ecs
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+백운계곡을
+	백운계곡/ncn+을/jco
+
+끼고
+	끼/pvg+고/ecc
+
+자리한
+	자리/ncn+한/ncn
+
+이동갈비집이었는데요
+	이동/ncn+갈비/ncn+집/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+전통이
+	전통/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+곳이라
+	곳/ncn+이/jp+라/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+찾은이들이
+	찾은이들/ncn+이/jcc
+
+무척
+	무척/mag
+
+많더라구요
+	많/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+갈비도
+	갈비/ncn+도/jxc
+
+갈비지만
+	갈비/ncn+이/jp+지만/ecs
+
+이동막걸리도
+	이동/ncn+막걸리/ncn+도/jxc
+
+한잔
+	한/nnc+잔/nbu
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+무엇보다
+	무엇/npd+보다/jca
+
+창밖으로
+	창밖/ncn+으로/jca
+
+보면
+	보/px+면/ecs
+
+계곡에
+	계곡/ncn+에/jca
+
+풍덩
+	풍덩/mag
+
+몸을
+	몸/ncn+을/jco
+
+담그고
+	담그/pvg+고/ecc
+
+물놀이하는
+	물놀이/ncpa+하/xsva+는/etm
+
+사람들을
+	사람들/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+덩달아
+	덩달/pvg+아/ecx
+
+들어가고
+	들/pvg+어/ecx+가/px+아/ef+고/jcr
+
+싶더라구요
+	싶/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+이동갈비맛도
+	이동/ncn+갈비/ncn+맛/ncn+도/jxc
+
+보고
+	보/px+고/ecc
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+계곡에서
+	계곡/ncn+에서/jca
+
+물놀이
+	물놀이/ncpa
+
+한판도
+	한/nnc+판/nbu+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+피서지로
+	피서지/ncn+로/jca
+
+이만한
+	이/nnc+만/nnc+한/nnc
+
+곳이
+	곳/ncn+이/jcc
+
+또
+	또/maj
+
+있을까요
+	있/px+을까/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+점심을
+	점심/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+얼른
+	얼른/mag
+
+계꼭에
+	계꼭/ncn+에/jca
+
+발을
+	발/ncn+을/jco
+
+담그고
+	담그/pvg+고/ecc
+
+싶어서
+	싶/px+어서/ecs
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+이동갈비는
+	이동/ncn+갈비/ncn+는/jxc
+
+먹는둥
+	먹/pvg+는/etm+둥/nbn
+
+마는둥
+	말/px+는/etm+둥/nbn
+
+..
+	./sf+./sf
+
+
+그러면서
+	그러/pvd+면서/ecc
+
+먹을건
+	먹을건/ncn
+
+다
+	다/mag
+
+먹었지만요
+	먹/pvg+었/ep+지/ecs+만요/jxc
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+그리고
+	그리고/maj
+
+비빔냉면까지
+	비빔/ncn+냉면/ncn+까지/jxc
+
+한그릇
+	한/nnc+그릇/nbu
+
+다
+	다/mag
+
+먹었어요
+	먹/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+면발이
+	면발/ncn+이/jcc
+
+쫄깃한
+	쫄깃한/ncn
+
+것이
+	것/nbn+이/jcc
+
+양념도
+	양념/ncn+도/jxc
+
+매콤하니
+	매콤하/ncn+이/jp+니/ecs
+
+..
+	./sf+./sf
+
+
+냉면맛이
+	냉면/ncn+맛/ncn+이/jcc
+
+더
+	더/mag
+
+좋았던거
+	좋았던거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+옆에
+	옆/ncn+에/jca
+
+계곡이
+	계곡/ncn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+준비하고
+	준비/ncn+하고/jct
+
+오면
+	오/px+면/ecs
+
+그냥
+	그냥/mag
+
+뛰어들면
+	뛰어들/pvg+면/ecs
+
+되겠더라구요
+	되/pvg+겠/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+햇볕이
+	햇볕/ncn+이/jcc
+
+강해서
+	강하/paa+어서/ecs
+
+파라솔을
+	파라솔/ncn+을/jco
+
+선점하는
+	선점/ncpa+하/xsva+는/etm
+
+것이
+	것/nbn+이/jcc
+
+관건이긴
+	관건이긴/ncn
+
+하겠어요
+	하/px+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+아이들
+	아이/ncn+들/ncn
+
+물놀이하는
+	물놀이/ncpa+하/xsva+는/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+보니
+	보/px+니/ecs
+
+그냥
+	그냥/mag
+
+좋아서
+	좋/paa+아/ecx
+
+..
+	./sf+./sf
+
+
+한참을
+	한참/ncn+을/jco
+
+지켜
+	지키/pvg+어/ecx
+
+보았답니다
+	보/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+담에는
+	달/paa+ㅁ/etn+에/jca+는/jxc
+
+물놀이
+	물놀이/ncpa
+
+준비를
+	준비/ncn+를/jco
+
+충분히하고
+	충분히하/ncn+이/jp+고/ecc
+
+백운계곡을
+	백운계곡/ncn+을/jco
+
+찾아야겠어요
+	찾/pvg+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+이동주조의
+	이동/ncn+주조/ncpa+의/jcm
+
+모습
+	모습/ncn
+
+..
+	./sf+./sf
+
+
+잠시
+	잠시/mag
+
+눈으로만
+	눈/ncn+으로/jca+만/jxc
+
+보고
+	보/px+고/ecc
+
+지납니다
+	지나/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+이날은
+	이/nnc+날/nbu+은/jxc
+
+쉬는
+	쉬/pvg+는/etm
+
+날이라
+	날/ncn+이/jp+라/ecs
+
+아쉽게도
+	아쉽/paa+게/ecs+도/jxc
+
+방문을
+	방문/ncpa+을/jco
+
+해보지
+	하/pvg+어/ecx+보/px+지/ecx
+
+못했는데요
+	못하/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이동주조는50년
+	이동주조는50년/ncn
+
+전통의
+	전통/ncn+의/jcm
+
+이동막걸리라는
+	이동/ncn+막걸리/ncn+라는/jcm
+
+브랜드로
+	브랜드/ncn+로/jca
+
+잘
+	잘/mag
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+곳이기도
+	곳/ncn+이/jp+기/etn+도/jxc
+
+하지요
+	하/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+남성적인
+	남성/ncn+적/ncn+이/jp+ㄴ/etm
+
+묵직한
+	묵직/ncps+하/xsms+ㄴ/etm
+
+맛을
+	맛/ncn+을/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+이동막걸리
+	이동/ncn+막걸리/ncn
+
+..
+	./sf+./sf
+
+
+이후에는
+	이후/ncn+에/jca+는/jxc
+
+전통술과
+	전통/ncn+술/ncn+과/jct
+
+접목한
+	접목/ncpa+하/xsva+ㄴ/etm
+
+테마파크로
+	테마/ncn+파크/ncn+로/jca
+
+변신을
+	변신/ncpa+을/jco
+
+도모하고
+	도모/ncpa+하고/jct
+
+있다고
+	있/px+다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+이후에
+	이후/ncn+에/jca
+
+어떤
+	어떤/mmd
+
+모습으로
+	모습/ncn+으로/jca
+
+좀더
+	좀더/mag
+
+친숙한
+	친숙/ncn+한/ncn
+
+장소로
+	장소/ncn+로/jca
+
+만나게
+	만나/pvg+게/ecs
+
+될지
+	되/pvg+ㄹ지/ecs
+
+기대가
+	기대/pvg+어/ecx+가/px+아/ecx
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+경기도의
+	경기/ncn+도/ncn+의/jcm
+
+하늘은
+	하늘/ncn+은/jxc
+
+여전히
+	여전히/mag
+
+푸르르기만
+	푸르르/ncn+이/jp+기/etn+만/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+시원해
+	시원/ncps+하/xsms+어/ecx
+
+보이는데
+	보이/pvg+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+열기를
+	열/pvg+기/etn+를/jco
+
+잔뜩
+	잔뜩/mag
+
+품은
+	풀/pvg+ㅁ/etn+은/jxc
+
+공기속에
+	공기/ncn+속/ncn+에/jca
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+하늘을
+	하늘/ncn+을/jco
+
+보여주네요
+	보이/pvg+어/ecx+주/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/08/04/470/03101323810F531E1FC3596073352253DC9_anndam_480P_01_16x9_logo.
+	net/blogucc28/2012/08/04/470/03101323810F531E1FC3596073352253DC9_anndam_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'56.
+	'/sr+56./nnc
+
+71';
+	71/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'7849F40EC3789F6A8C38185158158FA1F14E';
+	'7849F40EC3789F6A8C38185158158FA1F14E/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1239940be84217fbee18231e17f531b10e297f8d6ae1d118adfa58a19c644bc3dcbc231e17f531b10e29';
+	'V1239940be84217fbee18231e17f531b10e297f8d6ae1d118adfa58a19c644bc3dcbc231e17f531b10e29/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_04731
+	ugcPlayer_04731/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_04731'
+	VideoInfraUGCPlayer('ugcPlayer_04731'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_04731
+	ugcPlayer_04731/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+달리는
+	달리/pvg+는/etm
+
+동안
+	동안/ncn
+
+창밖으로
+	창밖/ncn+으로/jca
+
+흐르는
+	흐르/pvg+는/etm
+
+경기도의
+	경기/ncn+도/ncn+의/jcm
+
+푸른
+	푸르/paa+ㄴ/etm
+
+하늘
+	하늘/ncn
+
+..
+	./sf+./sf
+
+
+함
+	하/pvg+ㅁ/etn
+
+보실까요
+	보/px+시/ep+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+가평의
+	가평/ncn+의/jcm
+
+(주)우리술입니다
+	(주)/sr+우리/ncn+술/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+막걸리의
+	막걸리/ncn+의/jcm
+
+세계화를
+	세계/ncn+화/ncn+를/jco
+
+추구하는
+	추구/ncpa+하/xsva+는/etm
+
+우리술은
+	우리/ncn+술/ncn+은/jxc
+
+대표적으로
+	대표/ncpa+적/ncn+으로/jca
+
+가평잣막걸리가
+	가평잣막걸리/ncn+가/jcs
+
+알려져
+	알리/pvg+어/ecx+지/px+어/ecx
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+가평에
+	가평/ncn+에/jca
+
+오면
+	오/px+면/ecs
+
+한번
+	한/nnc+번/nbu
+
+맛을
+	맛/ncn+을/jco
+
+보게
+	보/px+게/ecs
+
+되는
+	되/pvg+는/etm
+
+먹걸리인데요
+	먹걸리인데요/ncn
+
+.
+	./sf
+
+
+구수한
+	구수/ncn+한/ncn
+
+잣향이
+	잣향/ncn+이/jcc
+
+나는
+	나/px+는/etm
+
+생막걸리라
+	생막걸리/ncn+이/jp+라/ecs
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+많지요
+	많/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+우리술의
+	우리/ncn+술/ncn+의/jcm
+
+막걸리를
+	막걸리/ncn+를/jco
+
+소개하면서
+	소개/ncpa+하/xsva+면서/ecc
+
+간단하게
+	간단/ncps+하/xsms+게/ecs
+
+시음도
+	시/paa+ㅁ/etn+도/jxc
+
+했었는데요
+	하/px+었었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+가양주로
+	가양주/ncn+로/jca
+
+이어온
+	잇/pvg+어/ecx+오/px+ㄴ/etm
+
+전통술은
+	전통/ncn+술/ncn+은/jxc
+
+집집마다
+	집집/ncn+마다/jxc
+
+장맛이
+	장맛/ncn+이/jcc
+
+다르듯
+	다르/paa+듯/ecs
+
+술맛도
+	술맛/ncn+도/jxc
+
+다양하기
+	다양/ncps+하/xsms+기/etn
+
+마련이었지요
+	마련/nbn+이/jp+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+만들때마다
+	만들/pvg+ㄹ/etm+때/nbn+마다/jxc
+
+조금씩
+	조금씩/ncn
+
+맛이
+	맛/ncn+이/jcc
+
+달라지기도
+	다르/paa+아/ecx+지/px+기/etn+도/jxc
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+그렇다보니
+	그렇다보/ncn+이/jp+니/ecs
+
+대중화하기보다는
+	대중화/ncn+하기/ncn+보다/jca+는/jxc
+
+지인들과
+	지/nbn+이/jp+ㄴ/etm+들/nbn+과/jct
+
+나누고
+	나누/pvg+고/ecc
+
+대접하는
+	대접/ncpa+하/xsva+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+여겨졌으니
+	여기/pvg+어/ecx+지/px+었/ep+으니/ecs
+
+...
+	.../se
+
+
+그래서
+	그래서/maj
+
+표준화되고
+	표준화/ncn+되/xsvn+고/ecc
+
+과학적인
+	과학/ncn+적/ncn+이/jp+ㄴ/etm
+
+품질을
+	품질/ncn+을/jco
+
+유지하는
+	유/ncn+이/jp+지/ecx+하/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+세계화를
+	세계/ncn+화/ncn+를/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+기본이
+	기본/ncn+이/jcc
+
+되지
+	되/pvg+지/ecx
+
+않았겠어요
+	않/px+았겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+우리술은
+	우리/ncn+술/ncn+은/jxc
+
+표준화된
+	표준화/ncn+되/xsvn+ㄴ/etm
+
+맛으로
+	맛/ncn+으로/jca
+
+세계로
+	세계/ncn+로/jca
+
+나아가는
+	나/pvg+아/ecx+가/px+는/etm
+
+길에
+	길/ncn+에/jca
+
+꾸준하게
+	꾸준/ncps+하/xsms+게/ecs
+
+노력하는
+	노력/ncpa+하/xsva+는/etm
+
+곳이란
+	곳/ncn+이란/jxc
+
+생각이
+	생각/ncpa+이/jcc
+
+들었구요
+	들었구요/ncn
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+대기업
+	대기업/ncn
+
+oem으로
+	oem/f+으로/jca
+
+일본으로
+	일/nnc+본/nbu+으로/jca
+
+수출하는
+	수출/ncpa+하/xsva+는/etm
+
+제품들도
+	제품/ncn+들/ncn+도/jxc
+
+많더라구요
+	많/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+맛본
+	맛보/pvg+ㄴ/etm
+
+건
+	거/nbn+은/jxc
+
+3도의
+	3/nnc+도/nbu+의/jcm
+
+캔막걸리인데요
+	캔막걸리인데요/ncn
+
+.
+	./sf
+
+
+자몽맛,
+	자몽/ncn+맛/ncn+,/sp
+
+복숭아맛이
+	복숭아/ncn+맛/ncn+이/jcc
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+탄산이
+	탄산/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+쥬스를
+	쥬스/ncn+를/jco
+
+마시는듯
+	마시/pvg+는/etm+듯/nbs
+
+하기도
+	하/pvg+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+일본사람들은
+	일본사람/ncn+들/ncn+은/jxc
+
+이런
+	이런/mmd
+
+맛을
+	맛/ncn+을/jco
+
+좋아하는구나
+	좋/paa+아/ecx+하/px+는구나/ef
+
+싶었습니다
+	싶/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+여성들에게
+	여성/ncn+들/ncn+에게/jca
+
+인기가
+	인기/ncn+가/jcs
+
+좋을
+	좋/paa+을/etm
+
+듯.
+	듯/nbs+./sf
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+그리고
+	그리고/maj
+
+또하나
+	뜨/pvg+어/ecx+하/px+어/ecx+나/px+아/ecx
+
+..
+	./sf+./sf
+
+
+주시락도
+	주시락/ncn+도/jxc
+
+잘
+	잘/mag
+
+알려져
+	알리/pvg+어/ecx+지/px+어/ecx
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+맛을
+	맛/ncn+을/jco
+
+본거
+	본거/ncn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+기억이
+	기억/ncpa+이/jcc
+
+가물가물
+	가물가물/mag
+
+..
+	./sf+./sf
+
+
+다시
+	다시/mag
+
+마셔봐야할
+	마시/pvg+어/ecx+보/px+아/ecx+하/px+ㄹ/etm
+
+거
+	것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+우리술의
+	우리/ncn+술/ncn+의/jcm
+
+세계화를
+	세계/ncn+화/ncn+를/jco
+
+이념으로
+	이념/ncn+으로/jca
+
+하는
+	하/pvg+는/etm
+
+곳이니
+	곳/ncn+이/jp+니/ecs
+
+국내산
+	국내/ncn+산/ncn
+
+100%만을
+	100/nnc+%/su+만을/jco
+
+고집하는
+	고집/ncpa+하/xsva+는/etm
+
+것도
+	것/nbn+도/jxc
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+듭니다
+	들/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+우리술에서
+	우리/ncn+술/ncn+에서/jca
+
+생산하는
+	생산/ncpa+하/xsva+는/etm
+
+모든
+	모든/mma
+
+막걸리는
+	막걸리/pvg+는/etm
+
+100%
+	100/nnc+%/su
+
+엄선한
+	엄선/ncpa+하/xsva+ㄴ/etm
+
+우리쌀만
+	우리/ncn+쌀/ncn+만/jxc
+
+사용하여
+	사용/ncpa+하/xsva+어/ecx
+
+빚고
+	빚/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+주시락에
+	주시락/ncn+에/jca
+
+참가한
+	참가/ncpa+하/xsva+ㄴ/etm
+
+사과,
+	사과/ncn+,/sp
+
+배,
+	배/ncn+,/sp
+
+배,
+	배/ncn+,/sp
+
+복분자
+	복분자/ncn
+
+그리고
+	그리고/maj
+
+가평잣막걸리에
+	가평잣막걸리/ncn+에/jca
+
+첨가된
+	첨가/ncpa+되/xsvn+ㄴ/etm
+
+잣도
+	잣/ncn+도/jxc
+
+국내산만을
+	국내산/ncn+만/ncn+을/jco
+
+사용한다고
+	사용/ncpa+하/xsva+ㄴ다/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+좀
+	좀/mag
+
+늦게
+	늦/paa+게/ecs
+
+찾아서
+	찾/pvg+아/ecx
+
+아쉽게도
+	아쉽/paa+게/ecs+도/jxc
+
+생동감
+	생동감/ncn
+
+있게
+	있/px+게/ecs
+
+돌아가는
+	돌/pvg+아/ecx+가/px+는/etm
+
+공장
+	공장/ncn
+
+내부를
+	내부/ncn+를/jco
+
+보지는
+	보/px+지/ecs+는/jxc
+
+못했어요
+	못하/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+레일
+	레/ncn+이/jp+ㄹ/etm
+
+위에
+	위/ncn+에/jca
+
+돌아가는
+	돌/pvg+아/ecx+가/px+는/etm
+
+막걸리병을
+	막걸리/ncn+병/ncn+을/jco
+
+보았다면
+	보/px+아/ep+다면/ecs
+
+더
+	더/mag
+
+실감나게
+	실감나/pvg+게/ecs
+
+공정을
+	공정/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었을텐데
+	있/px+었/ep+을텐데/ecs
+
+말예요
+	말/px+예요/ef
+
+.
+	./sf
+
+
+어딜가면
+	어딜가/ncn+이/jp+면/ecs
+
+공장내부는
+	공장/ncn+내부/ncn+는/jxc
+
+담지
+	담/pvg+지/ecx
+
+못하게
+	못하/px+게/ecs
+
+하는
+	하/pvg+는/etm
+
+곳도
+	곳/ncn+도/jxc
+
+많은데
+	많/paa+은/etm+데/nbn
+
+..
+	./sf+./sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+것도
+	것/nbn+도/jxc
+
+없구요
+	없구요/ncn
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+자유롭게
+	자유/ncn+롭/xsmn+게/ecs
+
+사진도
+	사진/ncn+도/jxc
+
+담고
+	담/pvg+고/ecc
+
+막걸리도
+	막걸리/ncn+도/jxc
+
+실컷
+	실컷/mag
+
+구경하구요
+	구경/ncn+하구/ncn+요/ncn
+
+.
+	./sf
+
+
+막걸리로
+	막걸리/ncn+로/jca
+
+즐거운
+	즐겁/paa+은/etm
+
+시간,
+	시간/nbu+,/sp
+
+주시락은
+	주시락/ncn+은/jxc
+
+그저
+	그저/mag
+
+상표명이
+	상표/ncn+명/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+우리술
+	우리/ncn+술/ncn
+
+막걸리
+	막걸리/ncn
+
+문화를
+	문화/ncn+를/jco
+
+말해주는
+	말/ncpa+하/xsva+어/ecx+주/px+는/etm
+
+문구인듯
+	문구/ncn+이/jp+ㄴ/etm+듯/nbs
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+포천과
+	포천/ncn+과/jcj
+
+가평으로
+	가평/ncn+으로/jca
+
+떠난
+	떠나/pvg+ㄴ/etm
+
+막걸리여행을
+	막걸리/ncn+여행/ncpa+을/jco
+
+마감하면서
+	마감/ncpa+하/xsva+면서/ecc
+
+대학생
+	대학생/ncn
+
+서포터즈들이
+	서포터즈들/ncn+이/jcc
+
+다시
+	다시/mag
+
+뭉쳤습니다
+	뭉치/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+가만히
+	가만히/mag
+
+서서
+	서/pvg+어서/ecs
+
+사진을
+	사진/ncn+을/jco
+
+담으니
+	담/pvg+으니/ecs
+
+뭔가
+	뭔가/ncn
+
+밋밋했던지
+	밋밋하/paa+었/ep+던/etm+지/nbn
+
+..
+	./sf+./sf
+
+
+기념사진
+	기념사진/ncn
+
+이후에는
+	이후/ncn+에/jca+는/jxc
+
+술에
+	술/ncn+에/jca
+
+취한
+	취하/pvg+ㄴ/etm
+
+설정으로
+	설정/ncpa+으로/jca
+
+사진을
+	사진/ncn+을/jco
+
+담아서
+	담/pvg+아/ecx
+
+또한번
+	또한번/npd
+
+큰
+	크/paa+ㄴ/etm
+
+웃음을
+	웃음/ncn+을/jco
+
+주었어요
+	주/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+경기도
+	경기/ncn+도/jxc
+
+지역
+	지역/ncn
+
+막걸리여행을
+	막걸리/ncn+여행/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+보니
+	보/px+니/ecs
+
+다른
+	다른/mma
+
+지역의
+	지역/ncn+의/jcm
+
+양조장을
+	양조장/ncn+을/jco
+
+찾아가는
+	찾/pvg+아/ecx+가/px+는/etm
+
+여행도
+	여행/ncpa+도/jxc
+
+꾸준하게
+	꾸준/ncps+하/xsms+게/ecs
+
+있었음
+	있/px+었/ep+음/etn
+
+하는
+	하/pvg+는/etm
+
+바람도
+	바라/pvg+ㅁ/etn+도/jxc
+
+생깁니다
+	생기/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+막걸리,
+	막걸리/ncn+,/sp
+
+전통주는
+	전통주/ncn+는/jxc
+
+우리네
+	우리/npp+이/jp+네/ef
+
+삶,
+	삶/ncn+,/sp
+
+인생사와
+	인생사/ncn+와/jct
+
+연관된
+	연관/ncpa+되/xsvn+ㄴ/etm
+
+문화라
+	문화/ncn+이/jp+라/ecs
+
+해당
+	해당/ncpa
+
+지역의
+	지역/ncn+의/jcm
+
+생활상,
+	생활상/ncn+,/sp
+
+지리적인
+	지리/ncn+적/ncn+이/jp+ㄴ/etm
+
+조건,
+	조건/ncn+,/sp
+
+농산물도
+	농산물/ncn+도/jxc
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+기본이
+	기본/ncn+이/jcc
+
+되는
+	되/pvg+는/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+여행지
+	여행지/ncn
+
+몇곳과
+	몇/nnc+곳/nbu+과/jcj
+
+지역
+	지역/ncn
+
+막걸리를
+	막걸리/ncn+를/jco
+
+만나는
+	만나/pvg+는/etm
+
+테마를
+	테마/ncn+를/jco
+
+잡아가는
+	잡/pvg+어/ecx+가/px+는/etm
+
+여행도
+	여행/ncpa+도/jxc
+
+재밌겠다
+	재밌겠다/ncn
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+여행은
+	여행/ncpa+은/jxc
+
+글로벌
+	글로벌/ncn
+
+막걸리
+	막걸리/ncn
+
+UCC
+	UCC/f
+
+공모전
+	공모전/ncn
+
+홍보를위한
+	홍보를위한/ncn
+
+대학생
+	대학생/ncn
+
+서포터즈들에게
+	서포터즈들에/ncn+이/jp+게/ecs
+
+좋은
+	좋/paa+은/etm
+
+주제,
+	주제/ncn+,/sp
+
+소재를
+	소재/ncn+를/jco
+
+만나는
+	만나/pvg+는/etm
+
+계기가
+	계기/ncn+가/jcs
+
+되었길
+	되었길/ncn
+
+바라구요
+	바/nbn+이/jp+라구/ef+요/jxf
+
+.
+	./sf
+
+
+우리의
+	우리/npp+의/jcm
+
+술을
+	술/ncn+을/jco
+
+널리
+	널리/mag
+
+알리는데
+	알리/pvg+ㄴ데/ecs
+
+한몫을
+	한몫/ncn+을/jco
+
+해주길
+	해주길/ncn
+
+바래봅니다
+	바래/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+우리가
+	우리/npp+가/jcs
+
+먼저
+	먼저/mag
+
+우리의
+	우리/npp+의/jcm
+
+것을
+	것/nbn+을/jco
+
+사랑한다면
+	사랑/ncpa+하/xsva+ㄴ다면/ecs
+
+자연스럽게
+	자연/ncn+스럽/xsmn+게/ecs
+
+세계에서도
+	세계/ncn+에서/jca+도/jxc
+
+알아주는
+	알/pvg+아/ecx+주/px+는/etm
+
+맛이
+	맛/ncn+이/jcc
+
+되지
+	되/pvg+지/ecx
+
+않을까
+	않/px+을까/ef
+
+기대를
+	기대/ncpa+를/jco
+
+해보게
+	하/pvg+어/ecx+보/px+게/ecs
+
+되구요
+	되구요/ncn
+
+.
+	./sf
+
+
+막걸리에
+	막걸리/ncn+에/jca
+
+관심있는
+	관심/ncn+있/xsmn+는/etm
+
+분,
+	분/nbu+,/sp
+
+누구나
+	누구/npp+나/jcj
+
+도전해
+	도전/ncn+해/ncn
+
+보실
+	보/px+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있으니
+	있/px+으니/ecs
+
+참신한
+	참신/ncps+하/xsms+ㄴ/etm
+
+UCC로
+	UCC/f+로/jca
+
+푸짐한
+	푸짐/ncps+하/xsms+ㄴ/etm
+
+상금을
+	상금/ncn+을/jco
+
+거머쥐는
+	거머쥐/pvg+는/etm
+
+행운도
+	행운/ncn+도/jxc
+
+얻으시길
+	얻으시길/ncn
+
+바랍니다
+	바라/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+나도
+	나/npp+도/jxc
+
+살짝
+	살짝/mag
+
+도전을
+	도전/ncn+을/jco
+
+해볼까
+	하/pvg+어/ecx+보/px+ㄹ까/ecs
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+공모전
+	공모전/ncn
+
+관련
+	관련/ncn
+
+및
+	및/maj
+
+우리술이
+	우리/ncn+술/ncn+이/jcc
+
+가는길
+	가는길/ncn
+
+..
+	./sf+./sf
+
+
+그곳이
+	그곳/ncn+이/jcc
+
+궁금하다면
+	궁금/ncps+하/xsms+다면/ecs
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+jurojuro.
+	jurojuro/f+./sy
+
+com/
+	com/f+//sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+makgeolli.
+	makgeolli/f+./sy
+
+or.
+	or/f+./sy
+
+kr
+	kr/f
+
+
+주로주로닷컴과
+	주로주로닷컴/ncn+과/jct
+
+함께한
+	함께하/pvg+ㄴ/etm
+
+막걸리여행
+	막걸리/ncn+여행/ncpa
+
+...
+	.../se
+
+
+다음엔
+	다음/ncn+엔/jca
+
+포천에서
+	포천/ncn+에서/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+산사원을
+	산사/ncn+원/ncn+을/jco
+
+좀더
+	좀더/mag
+
+상세하게
+	상세/ncps+하/xsms+게/ecs
+
+소개해
+	소개/ncpa+하/xsva+어/ecx
+
+드리겠습니다
+	드리/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+우리술
+	우리/ncn+술/ncn
+
+
+경기도
+	경기/ncn+도/jxc
+
+가평군
+	가평군/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011403888",
+	"bl011403888",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"12756429",
+	"/sl+12756429/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"우리술",
+	title/f+:/sp+"/sl+우리/ncn+술/ncn+"/sr+,/sp
+
+pointX:345835,pointY:585574}
+	pointX/f+:/sp+345835/nnc+,/sp+pointY/f+:/sp+585574/nnc+}/sr

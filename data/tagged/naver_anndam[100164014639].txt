@@ -1,0 +1,3692 @@
+서울
+	서울/ncn
+
+올림픽공원
+	올림픽공원/ncn
+
+올림픽핸드볼경기장
+	올림픽/ncn+핸드볼/ncn+경기장/ncn
+
+/
+	//sp
+
+2012런던올림픽
+	2012런던올림픽/ncn
+
+핸드볼
+	핸드볼/ncn
+
+국민응원전
+	국민/ncn+응원/ncpa+전/ncn
+
+/
+	//sp
+
+여자핸드볼
+	여자/ncn+핸드볼/ncn
+
+스웨덴
+	스웨덴/ncn
+
+전
+	전/mma
+
+
+더위도
+	더위/ncn+도/jxc
+
+피하고
+	피하/pvg+고/ecc
+
+힘모아
+	힘모아/ncn
+
+핸드볼
+	핸드볼/ncn
+
+응원하고
+	응원/ncpa+하고/jct
+
+왔어요~~
+	오/pvg+아/ep+아/ef+~/sd+~/sd
+
+
+서울
+	서울/ncn
+
+올림픽공원
+	올림픽공원/ncn
+
+-
+	-/sd
+
+핸드볼
+	핸드볼/ncn
+
+국민응원전
+	국민/ncn+응원/ncpa+전/ncn
+
+
+얼떨결에
+	얼떨결에/mag
+
+따라나선
+	따르/pvg+아/ecx+나서/px+ㄴ/etm
+
+핸드볼
+	핸드볼/ncn
+
+국민응원전
+	국민/ncn+응원/ncpa+전/ncn
+
+...
+	.../se
+
+
+형부의
+	형부/ncn+의/jcm
+
+지인이행사가
+	지인/ncn+이행/ncpa+사가/ncn
+
+있다는
+	있/px+다/ef+는/etm
+
+소식을
+	소식/ncn+을/jco
+
+전해주어서
+	전하/pvg+어/ecx+주/px+어서/ecs
+
+휴일에
+	휴일/ncn+에/jca
+
+오랜만에
+	오랜만/ncn+에/jca
+
+나들이
+	나들이/ncpa
+
+겸
+	겸/nbn
+
+올림픽공원으로
+	올림픽공원/ncn+으로/jca
+
+갔는데요
+	가/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+핸드볼경기장에서
+	핸드볼/ncn+경기장/ncn+에서/jca
+
+2012
+	2012/nnc
+
+런던올림픽
+	런던올림픽/ncn
+
+핸드볼
+	핸드볼/ncn
+
+경기
+	경기/ncn
+
+응원전이
+	응원/ncpa+전/ncn+이/jcc
+
+있다고
+	있/px+다/ef+고/jcr
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+이날
+	이/nnc+날/nbu
+
+경기는
+	경기/ncn+는/jxc
+
+오후
+	오후/ncn
+
+5시30분부터
+	5시30분부터/ncn
+
+있었던
+	있/paa+었/ep+던/etm
+
+여자핸드볼
+	여자/ncn+핸드볼/ncn
+
+예선
+	예선/ncn
+
+B조스웨덴전이었는데요
+	B조스웨덴전/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+에어컨도
+	에어컨/ncn+도/jxc
+
+켜지
+	켜/pvg+지/ecx
+
+않은
+	않/px+은/etm
+
+집에
+	집/ncn+에/jca
+
+있으면
+	있/px+으면/ecs
+
+무더위에
+	무더위/ncn+에/jca
+
+지칠
+	지치/pvg+ㄹ/etm
+
+것도
+	것/nbn+도/jxc
+
+같아서
+	같/paa+아/ecx
+
+겸사
+	겸사/ncpa
+
+응원하러
+	응원/ncpa+하/xsva+러/ecs
+
+나갔지요
+	나/pvg+아/ecx+가/px+아/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+조금
+	조금/mag
+
+이르게
+	이르/pvg+게/ecs
+
+갔더니
+	가/px+아/ep+니/ecs
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+찾지는
+	찾/pvg+지/ecs+는/jxc
+
+않았는데요
+	않/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+시간이
+	시간/ncn+이/jcc
+
+지날수록
+	지나/pvg+ㄹ수록/ecs
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+모여
+	모이/pvg+어/ecx
+
+들더라구요
+	들/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+포스터를
+	포스터/ncn+를/jco
+
+보니
+	보/px+니/ecs
+
+대한핸드볼협회
+	대한/ncn+핸드볼/ncn+협회/ncn
+
+홈페이지에서
+	홈페이지/ncn+에서/jca
+
+온라인
+	온라인/ncn
+
+예약을
+	예약/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+오면
+	오/px+면/ecs
+
+된다고
+	되/pvg+ㄴ다/ef+고/jcr
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+응원
+	응원/ncpa
+
+일정도
+	일정/ncn+도/jxc
+
+있으니
+	있/px+으니/ecs
+
+보고
+	보/px+고/ecc
+
+참가하면
+	참가/ncpa+하/xsva+면/ecs
+
+될거
+	될거/ncn
+
+같은데요
+	같은데요/ncn
+
+.
+	./sf
+
+
+월요일
+	월요일/ncn
+
+경기로
+	경기/ncn+로/jca
+
+일정이
+	일정/ncn+이/jcc
+
+끝나더라구요
+	끝나/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+7월말부터
+	7/nnc+월/nbu+말/xsnu+부터/jxc
+
+신청을
+	신청/ncpa+을/jco
+
+받았다고
+	받/pvg+아/ep+다/ef+고/jcr
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+소개로
+	소개/ncpa+로/jca
+
+정보를
+	정보/ncn+를/jco
+
+알지
+	알/pvg+지/ecx
+
+못했으면
+	못하/px+었/ep+으면/ecs
+
+아예
+	아예/mag
+
+모르고
+	모르/pvg+고/ecc
+
+지났겠지요
+	지나/pvg+아/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+초대가수로
+	초대/ncn+가수/ncn+로/jca
+
+박완규
+	박완규/ncn
+
+씨도
+	쓰/pvg+어도/ecs
+
+온다고
+	오/px+ㄴ다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+잔뜩
+	잔뜩/mag
+
+기대를
+	기대/ncpa+를/jco
+
+했는데
+	하/px+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+슬프게도
+	슬프/paa+게/ecs+도/jxc
+
+직접
+	직접/mag
+
+부르는
+	부르/pvg+는/etm
+
+노래는
+	노래/ncn+는/jxc
+
+듣지도
+	듣/pvg+지/ecs+도/jxc
+
+못했다는
+	못하/px+었/ep+다/ef+는/etm
+
+것,
+	것/nbn+,/sp
+
+같이
+	같/paa+이/xsa
+
+응원을
+	응원/ncpa+을/jco
+
+했을
+	하/px+었/ep+을/etm
+
+뿐입니다
+	뿐/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+휴일
+	휴일/ncn
+
+잠깐
+	잠깐/mag
+
+나들이도
+	나들이/ncpa+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+곳에서
+	곳/ncn+에서/jca
+
+다같이
+	다같/ncn+이/jcc
+
+함성을
+	함성/ncn+을/jco
+
+지르면
+	지르/pvg+면/ecs
+
+응원도
+	응원도/ncn
+
+하고
+	하/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+기분좋게
+	기분좋/paa+게/ecs
+
+우리나라가
+	우리나라/ncn+가/jcs
+
+이겨서
+	이기/pvg+어서/ecs
+
+마무리도
+	마무리/ncpa+도/jxc
+
+깔끔했어요
+	깔끔/ncps+하/xsms+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-
+	여행/ncpa+이야기/ncpa+-/sd
+
+마음이
+	마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+(여행일:
+	(/sl+여행/ncpa+이/jp+ㄹ/etm+:/sp
+
+2012
+	2012/nnc
+
+.
+	./sf
+
+
+08
+	08/nnc
+
+.
+	./sf
+
+
+05)
+	05/nnc+)/sr
+
+
+핸드볼
+	핸드볼/ncn
+
+경기장으로
+	경기장/ncn+으로/jca
+
+찾아들어가서
+	찾아들/pvg+어/ecx+가/px+아/ecx
+
+...
+	.../se
+
+
+주차를
+	주차/ncn+를/jco
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+입구에보니
+	입구에보니/ncn
+
+국민응원전
+	국민/ncn+응원/ncpa+전/ncn
+
+플랭카드와
+	플랭카드/ncn+와/jcj
+
+포스터가
+	포스터/ncn+가/jcs
+
+붙어
+	붙/pvg+어/ecx
+
+있네요
+	있/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+일정을
+	일정/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+7월
+	7/nnc+월/nbu
+
+말부터
+	말/ncn+부터/jxc
+
+응원전을
+	응원/ncpa+전/ncn+을/jco
+
+했더라구요
+	하/px+었/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+아예
+	아예/mag
+
+하는
+	하/pvg+는/etm
+
+줄도
+	줄/nbn+도/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+지났을텐데
+	지나/pvg+아/ep+ㄹ텐데/ef
+
+..
+	./sf+./sf
+
+
+이래서
+	이렇/pad+어서/ecs
+
+정보가
+	정보/ncn+가/jcs
+
+재산인데
+	재산/ncn+이/jp+ㄴ데/ecs
+
+말입니다
+	말/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+온라인
+	온라인/ncn
+
+예약하고
+	예약/ncpa+하고/jct
+
+오면
+	오/px+면/ecs
+
+확인하고
+	확인/ncpa+하고/jct
+
+응원
+	응원/ncpa
+
+티셔츠도
+	티셔츠/ncn+도/jxc
+
+주구요
+	주구/ncn+요/ncn
+
+.
+	./sf
+
+
+응원
+	응원/ncpa
+
+막대랑
+	막대/ncn+랑/jxc
+
+부채
+	부채/ncn
+
+뭐
+	뭐/npd
+
+그런것들도
+	그런것들/ncn+도/jxc
+
+받아요
+	받/pvg+아/ef+요/jxf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+안에서는
+	안/ncn+에서/jca+는/jxc
+
+간단한
+	가/px+ㄴ단/etm+한/nbn
+
+음료나
+	음료/ncn+나/jcj
+
+팝콘같은
+	팝콘/ncn+같/xsmn+은/etm
+
+간식
+	가/px+ㄴ/etm+식/nbn
+
+등도
+	등/nbu+도/jxc
+
+무료로
+	무료/ncn+로/jca
+
+줍니다
+	주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+첨엔
+	첨/ncn+엔/jca
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+별로
+	별로/mag
+
+없네
+	없/paa+네/ef
+
+..
+	./sf+./sf
+
+
+했더니
+	하/px+었/ep+더니/ecs
+
+..
+	./sf+./sf
+
+
+시간이
+	시간/ncn+이/jcc
+
+지날수록
+	지나/pvg+ㄹ수록/ecs
+
+붉은
+	붉/paa+은/etm
+
+티셔츠를
+	티셔츠/ncn+를/jco
+
+입고
+	입/pvg+고/ecc
+
+자리를
+	자리/ncn+를/jco
+
+잡더라구요
+	잡/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+가족단위로
+	가족단위/ncn+로/jca
+
+오신
+	오/px+시/ep+ㄴ/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+많구요
+	많구요/ncn
+
+.
+	./sf
+
+
+서포터즈도
+	서포터즈/ncn+도/jxc
+
+참가를
+	참가/ncpa+를/jco
+
+했더라구요
+	하/px+었/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+무대에서는
+	무대/ncn+에서/jca+는/jxc
+
+응원단들이
+	응원단/ncn+들/ncn+이/jcc
+
+앞서서
+	앞서/pvg+어서/ecs
+
+응원
+	응원/ncpa
+
+열기를
+	열/pvg+기/etn+를/jco
+
+끌어
+	끌/pvg+어/ecx
+
+가고
+	가/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+같이
+	같/paa+이/xsa
+
+응원
+	응원/ncpa
+
+안하면
+	안하/ncn+이/jp+면/ecs
+
+혼날거
+	혼날거/ncn
+
+같더라구요
+	같/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+응원
+	응원/ncpa
+
+열심히
+	열심히/mag
+
+하면
+	하/pvg+면/ecs
+
+선물도
+	선물/ncn+도/jxc
+
+나눠줍니다
+	나누/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+핸드볼
+	핸드볼/ncn
+
+공은
+	공/npp+은/jxc
+
+탐나던데
+	탐나/pvg+던/etm+데/nbn
+
+..
+	./sf+./sf
+
+
+응원할
+	응원/ncpa+하/xsva+ㄹ/etm
+
+열정이
+	열정/ncn+이/jcc
+
+미미했던지
+	미미/ncps+하/xsms+었/ep+던/etm+지/nbn
+
+..
+	./sf+./sf
+
+
+하나
+	하나/nnc
+
+받아오지
+	받/pvg+아/ecx+오/px+지/ecx
+
+못했네요
+	못하/px+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+아쉽
+	아쉽/ncn
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+뮤직비디오처럼
+	뮤직비디오/ncn+처럼/jca
+
+..
+	./sf+./sf
+
+
+박완규
+	박완규/ncn
+
+씨의
+	씨/ncn+의/jcm
+
+응원가가
+	응원가/ncn+가/jcs
+
+흘러나오는데요
+	흐르/pvg+어/ecx+나/px+아/ecx+오/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+박완규
+	박완규/ncn
+
+팬이
+	팬/ncn+이/jcc
+
+따로
+	따로/mag
+
+모였나
+	모이/pvg+었/ep+나/ef
+
+..
+	./sf+./sf
+
+
+어찌나
+	어찌/mag+나/jxc
+
+소리를
+	소리/ncn+를/jco
+
+지르는지
+	지르/pvg+는지/ecs
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+전
+	전/nbn
+
+혼자
+	혼자/mag
+
+"어
+	"어/ncn
+
+...
+	.../se
+
+
+박완규
+	박완규/ncn
+
+씨
+	쓰/pvg+어/ecx
+
+초대는
+	초대/ncn+는/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+끝나는
+	끝나/pvg+는/etm
+
+건가
+	것/nbn+이/jp+ㄴ가/ef
+
+.."
+	./sf+./sf+"/sl
+
+
+싶더라구요
+	싶/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+경기가
+	경기/ncn+가/jcs
+
+시작될
+	시작/ncpa+되/xsvn+ㄹ/etm
+
+시간이
+	시간/ncn+이/jcc
+
+되었는데
+	되/pvg+었/ep+는데/ecs
+
+초대가수의
+	초대/ncn+가수/ncn+의/jcm
+
+노래공연은
+	노래/ncn+공연/ncpa+은/jxc
+
+없더라구요
+	없/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+드디어
+	드디어/mag
+
+경기
+	경기/ncn
+
+시작입니다
+	시작/ncpa+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+우리나라
+	우리나라/ncn
+
+여자
+	여자/ncn
+
+선수들이
+	선수/ncn+들/ncn+이/jcc
+
+입장을
+	입장/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+보이자
+	보이/pvg+자/ecc
+
+...
+	.../se
+
+
+경기장
+	경기장/ncn
+
+안은
+	안/mag+은/jxc
+
+함성으로
+	함성/ncn+으로/jca
+
+가득합니다
+	가득/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+막대풍선을
+	막대/ncn+풍선/ncn+을/jco
+
+두드리는
+	두드리/pvg+는/etm
+
+소리로
+	소리/ncn+로/jca
+
+머리
+	머리/ncn
+
+속까지
+	속/ncn+까지/jxc
+
+징징
+	징징/mag
+
+거릴
+	것/nbn+이/jp+리/ep+ㄹ/etm
+
+지경이었어요
+	지경/nbn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+선수들
+	선수/ncn+들/ncn
+
+한명
+	한/nnc+명/nbu
+
+한명
+	한/nnc+명/nbu
+
+이름을
+	이름/ncn+을/jco
+
+불러가면서
+	부르/pvg+어/ecx+가/px+면서/ecc
+
+소개를
+	소개/ncpa+를/jco
+
+해주네요
+	하/pvg+어/ecx+주/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+근데
+	근데/ncn
+
+우리나라
+	우리나라/ncn
+
+정규방송에서
+	정규방송/ncpa+에서/jca
+
+보여주지
+	보이/pvg+어/ecx+주/px+지/ecx
+
+않았던지
+	않/px+아/ep+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+예선전이라
+	예선전/ncn+이/jp+라/ecs
+
+그런가
+	그러/pvd+ㄴ가/ef
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+BBC방송을
+	BBC방송/ncn+을/jco
+
+틀어
+	틀/pvg+어/ecx
+
+놓아서
+	놓/px+아/ecx
+
+전문가의
+	전문가/ncn+의/jcm
+
+중계를
+	중계/ncpa+를/jco
+
+자세하게
+	자세/ncps+하/xsms+게/ecs
+
+듣지못해
+	듣/pvg+지/ecx+못하/px+어/ecx
+
+아쉬웠어요
+	아쉽/paa+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+전반전
+	전반전/ncn
+
+30분
+	30/nnc+분/nbu
+
+시작되고
+	시작/ncpa+되/xsvn+고/ecc
+
+두
+	두/nnc
+
+나라가
+	나라/ncn+가/jcs
+
+아주
+	아주/mag
+
+쟁쟁합니다
+	쟁쟁/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+한점씩
+	한/nnc+점/nbu+씩/xsnu
+
+사이좋게
+	사이좋/paa+게/ecs
+
+주고받으면서
+	주/px+고/ecx+받/px+으면서/ecc
+
+점수를
+	점수/ncn+를/jco
+
+올리고
+	올리/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+중인데요
+	중인데요/ncn
+
+.
+	./sf
+
+
+응원단들이
+	응원단/ncn+들/ncn+이/jcc
+
+이끌어
+	이끌/pvg+어/ecx
+
+주어서인지
+	주어/ncn+서/jca+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+한시도
+	한/nnc+시/nbu+도/jxc
+
+잠잠하지
+	잠잠/ncps+하/xsms+지/ecx
+
+않고
+	않/px+고/ecc
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+함성과
+	함성/ncn+과/jcj
+
+노래를
+	노래/ncn+를/jco
+
+부르면서
+	부르/pvg+면서/ecc
+
+열정적인
+	열정/ncn+적/ncn+이/jp+ㄴ/etm
+
+응원을
+	응원/ncpa+을/jco
+
+펼치더라구요
+	펼치/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+좌석에
+	좌석/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+있다가
+	있/px+다가/ecs
+
+관중석의
+	관중석/ncn+의/jcm
+
+표정이
+	표정/ncn+이/jcc
+
+궁금해서
+	궁금/ncps+하/xsms+어서/ecs
+
+2층
+	2/nnc+층/nbu
+
+앞쪽으로
+	앞쪽/ncn+으로/jca
+
+와서
+	오/px+아/ecs
+
+바라봤어요
+	바라/pvg+아/ecx+보/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+아주
+	아주/mag
+
+많은
+	많/paa+은/etm
+
+인원은
+	인원/ncn+은/jxc
+
+아니지만
+	아니/paa+지만/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+삼삼오오
+	삼/nnc+삼/nnc+오/nnc+오/nnc
+
+모여있는
+	모이/pvg+어/ecx+있/px+는/etm
+
+대단한
+	대/nbu+이/jp+단/etm+한/nbn
+
+국민성이
+	국민성/ncn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+싶어요
+	싶/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+한골
+	한골/ncn
+
+한골에
+	한골/ncn+에/jca
+
+끊이지
+	끊이/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+함성을
+	함성/ncn+을/jco
+
+질러주고
+	지르/pvg+어/ecx+주/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+그러고보면
+	그러/pvd+고/ecx+보/px+면/ecs
+
+스포츠의
+	스포츠/ncn+의/jcm
+
+힘은
+	힘/ncn+은/jxc
+
+참
+	참/mag
+
+대단하다
+	대단/ncps+하/xsms+어다/ecs
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+런던올림픽
+	런던올림픽/ncn
+
+덕에
+	덕/ncn+에/jca
+
+요즘
+	요즘/mag
+
+새벽잠을
+	새벽/ncn+잠/ncn+을/jco
+
+설치는
+	설치/pvg+는/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+많을텐데요
+	많/paa+을텐데/ef+요/jxf
+
+.
+	./sf
+
+
+그럼에도
+	그러/pvd+ㅁ/etn+에/jca+도/jxc
+
+불구하고
+	불구/ncps+하고/jct
+
+한골
+	한골/ncn
+
+한골에
+	한골/ncn+에/jca
+
+열광하고
+	열광/ncpa+하고/jct
+
+메달에
+	메달/ncn+에/jca
+
+기분이
+	기분/ncn+이/jcc
+
+업되는
+	업/pvg+되/ecs+는/jxc
+
+요즘입니다
+	요즘/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+골골~
+	골골~/ncn
+
+을
+	을/ncn
+
+외치면서
+	외치/pvg+면서/ecc
+
+선수들의
+	선수/ncn+들/ncn+의/jcm
+
+행동을
+	행동/ncpa+을/jco
+
+하나하나
+	하/pvg+어/ecx+나/px+아/ecx+하/px+어/ecx+나/px+아/ecx
+
+주시하며
+	주시하/ncn+이/jp+며/ecc
+
+연신
+	연신/mag
+
+막대풍성을
+	막대/ncn+풍성/ncn+을/jco
+
+쟁쟁
+	쟁쟁/ncpa
+
+부딪히고
+	부딪히/pvg+고/ecc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+외국인들도
+	외국/ncn+이/jp+ㄴ들/ecs+도/jxc
+
+잠시
+	잠시/mag
+
+구경을
+	구경/ncn+을/jco
+
+왔네요
+	오/px+아/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+경기장
+	경기장/ncn
+
+안이
+	안/ncn+이/jcc
+
+웅성웅성해서
+	웅성/ncn+웅성/ncn+해/ncn+서/jca
+
+잠깐
+	잠깐/mag
+
+들어와
+	들/pvg+어/ecx+오/px+아/ecx
+
+본듯도
+	보/px+ㄴ/etm+듯/nbs+도/jxc
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+서서
+	서/pvg+어서/ecs
+
+구경을
+	구경/ncn+을/jco
+
+하다가
+	하/pvg+다가/ecs
+
+나가더라구요
+	나/pvg+아/ecx+가/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+핸드볼이
+	핸드볼/ncn+이/jcc
+
+비인기종목이라
+	비인기종목/ncn+이/jp+라/ecs
+
+상대적으로
+	상대/ncn+적/ncn+으로/jca
+
+관심이
+	관심/ncn+이/jcc
+
+덜한
+	덜하/paa+ㄴ/etm
+
+부분도
+	부분/ncn+도/jxc
+
+있을텐데요
+	있/px+을텐데/ef+요/jxf
+
+.
+	./sf
+
+
+영화의
+	영화/ncn+의/jcm
+
+영향도
+	영향/ncn+도/jxc
+
+있고
+	있/px+고/ecc
+
+워낙
+	워낙/mag
+
+선수들이
+	선수/ncn+들/ncn+이/jcc
+
+열심히
+	열심히/mag
+
+하다보니
+	하/pvg+어다/ecx+보/px+니/ecs
+
+점점
+	점점/mag
+
+인기종목으로
+	인기종목/ncn+으로/jca
+
+부상을
+	부상/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+제가
+	저/npp+가/jcs
+
+이렇게
+	이렇/pad+게/ecs
+
+응원을
+	응원/ncpa+을/jco
+
+나온걸
+	나온걸/ncn
+
+보면
+	보/px+면/ecs
+
+인기종목이
+	인기종목/ncn+이/jcc
+
+된게
+	되/pvg+ㄴ게/ecs
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+하는
+	하/pvg+는/etm
+
+생각도
+	생각/ncpa+도/jxc
+
+하게
+	하/pvg+게/ecs
+
+되구요
+	되구요/ncn
+
+.
+	./sf
+
+
+경기
+	경기/ncn
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+이
+	이/mmd
+
+막대풍선
+	막대/ncn+풍선/ncn
+
+때문에
+	때문/nbn+에/jca
+
+얼마나
+	얼마나/mag
+
+징징한지
+	징징한지/ncn
+
+...
+	.../se
+
+
+끝나고
+	끝나/pvg+고/ecc
+
+나와서도
+	나/pvg+아/ecx+오/px+아/ecs
+
+저녁내내
+	저녁/ncn+내/ncn+내/xsncc
+
+쟁쟁
+	쟁쟁/ncpa
+
+소리가
+	소리/ncn+가/jcs
+
+귓가를
+	귓가/ncn+를/jco
+
+어지럽히더라구요
+	어지럽히/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+첨에는
+	첨/ncn+에/jca+는/jxc
+
+시끄럽다고
+	시끄럽/paa+다/ef+고/jcr
+
+그만
+	그/npp+만/jxc
+
+쳐라했다가
+	쳐라했다/ncn+가/jcs
+
+경기가
+	경기/ncn+가/jcs
+
+시작되고
+	시작/ncpa+되/xsvn+고/ecc
+
+한골한골
+	한골/ncn+한골/ncn
+
+이겨나가다보니
+	이기/pvg+어/ecx+나/px+아/ecx+가/px+아/ecx+보/px+니/ecs
+
+저도
+	저/npp+도/jxc
+
+모르게
+	모르/pvg+게/ecs
+
+신나게
+	신나/pvg+게/ecs
+
+치고
+	치/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+거
+	것/nbn
+
+있죠
+	있/px+죠/ef
+
+.
+	./sf
+
+
+대한민국
+	대한/ncn+민국/ncn
+
+짝짝~짝~짝짝
+	짝짝~짝~짝짝/ncn
+
+
+중간
+	중간/ncn
+
+중간
+	중간/ncn
+
+응원전은
+	응원/ncpa+전/ncn+은/jxc
+
+이어집니다
+	잇/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+밋밋하게
+	밋밋하/paa+게/ecs
+
+시간을
+	시간/ncn+을/jco
+
+보낼
+	보내/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+짜투리
+	짜투리/ncn
+
+시간인데요
+	시간인데요/ncn
+
+.
+	./sf
+
+
+이끌어
+	이끌/pvg+어/ecx
+
+주는
+	주/px+는/etm
+
+서포터즈들이
+	서포터즈들/ncn+이/jcc
+
+있으니
+	있/px+으니/ecs
+
+더
+	더/mag
+
+신나더라구요
+	신나/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/08/05/152/03101323810F537E83C3B98473446CD3008_anndam_480P_01_16x9_logo.
+	net/blogucc28/2012/08/05/152/03101323810F537E83C3B98473446CD3008_anndam_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'47.
+	'/sr+47./nnc
+
+479';
+	479/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'AC3DC67A75F4F7311944BB16F34AC9175D92';
+	'AC3DC67A75F4F7311944BB16F34AC9175D92/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12754b50be03bb0e1e82231e17f531b10e297f8d6ae1d118adfa4cbbc95fbd57145e231e17f531b10e29';
+	'V12754b50be03bb0e1e82231e17f531b10e297f8d6ae1d118adfa4cbbc95fbd57145e231e17f531b10e29/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_07134
+	ugcPlayer_07134/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_07134'
+	VideoInfraUGCPlayer('ugcPlayer_07134'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_07134
+	ugcPlayer_07134/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+함성과
+	함성/ncn+과/jct
+
+함께
+	함께/mag
+
+보는
+	보/px+는/etm
+
+전반전
+	전반전/ncn
+
+끝날
+	끝나/pvg+ㄹ/etm
+
+즈음의응원전의
+	즈음의응원전/ncn+의/jcm
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+전반전
+	전반전/ncn
+
+16:
+	16/nnc+:/sp
+
+13
+	13/nnc
+
+우리나라
+	우리나라/ncn
+
+선수가
+	서/pvg+ㄴ/etm+수/nbn+가/jcc
+
+열심히
+	열심히/mag
+
+해준덕에
+	해준덕/ncn+에/jca
+
+이기고
+	이/npd+이/jp+기/etn+이/jp+고/ecc
+
+있는
+	있/px+는/etm
+
+중입니다
+	중/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+휴식시간
+	휴식시간/ncn
+
+중에
+	중/nbn+에/jca
+
+초대가수로
+	초대/ncn+가수/ncn+로/jca
+
+온다고
+	오/px+ㄴ다/ef+고/jcr
+
+하던
+	하/pvg+던/etm
+
+박완규
+	박완규/ncn
+
+씨가
+	쓰/pvg+어/ecx+가/px+아/ecx
+
+무대에
+	무대/ncn+에/jca
+
+올라왔어요
+	오르/pvg+아/ecx+오/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+응원전을
+	응원/ncpa+전/ncn+을/jco
+
+함께해서
+	함께하/pvg+어서/ecs
+
+기쁘다
+	기쁘/paa+다/ef
+
+..
+	./sf+./sf
+
+
+열심히
+	열심히/mag
+
+응원해
+	응원/ncpa+하/xsva+어/ecx
+
+달라
+	다르/paa+아/ecx
+
+..
+	./sf+./sf
+
+
+뭐
+	뭐/npd
+
+그런
+	그러/pvd+ㄴ/etm
+
+이야기를
+	이야기/ncpa+를/jco
+
+했구요
+	했구요/ncn
+
+.
+	./sf
+
+
+노래를
+	노래/ncn+를/jco
+
+한곡
+	한/nnc+곡/nbu
+
+들을
+	들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있나
+	있/px+나/ef
+
+기대를
+	기대/ncpa+를/jco
+
+했는데
+	하/px+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+에고고
+	에고/ncn+이/jp+고/ecc
+
+..
+	./sf+./sf
+
+
+노래는
+	노래/ncn+는/jxc
+
+하지
+	하/pvg+지/ecx
+
+않더라구요
+	않/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+맨
+	맨/mma
+
+앞자리에
+	앞자리/ncn+에/jca
+
+앉아서
+	앉/pvg+아/ecx
+
+후반전
+	후반/ncn+전/ncn
+
+내내
+	내/pvg+어/ecx+내/px+어/ecx
+
+같이
+	같/paa+이/xsa
+
+응원을
+	응원/ncpa+을/jco
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+팬들은
+	패/pvg+ㄴ들/ecs+은/jxc
+
+앞자리까지
+	앞자리/ncn+까지/jxc
+
+가서
+	가/pvg+서/ecs
+
+기념사진을
+	기념사진/ncn+을/jco
+
+담아오고
+	담/pvg+아/ecx+오/px+고/ecc
+
+그러더라구요
+	그러/pvd+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+지금
+	지금/mag
+
+생각해도
+	생각/ncpa+해/ncn+도/jxc
+
+직접
+	직접/mag
+
+부르는
+	부르/pvg+는/etm
+
+노래를
+	노래/ncn+를/jco
+
+듣지
+	듣/pvg+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+아쉽기만
+	아쉽/paa+기/etn+만/jxc
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+소개하는
+	소개/ncpa+하/xsva+는/etm
+
+말을
+	말/ncn+을/jco
+
+잘
+	잘/mag
+
+듣지
+	듣/pvg+지/ecx
+
+못해서
+	못하/px+어서/ecs
+
+...
+	.../se
+
+
+아이들로
+	아이/ncn+들/ncn+로/jca
+
+구성된
+	구성/ncn+되/xsvn+ㄴ/etm
+
+치어팀이라고
+	치어/ncn+팀/ncn+이/jp+라/ef+고/jcr
+
+해야할까요
+	하/pvg+어야/ecx+하/px+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+다섯여섯살
+	다섯/nnc+여섯/nnc+살/nbu
+
+정도
+	정도/ncn
+
+보이는
+	보이/pvg+는/etm
+
+아이가
+	아이/ncn+가/jcs
+
+중심이
+	중심/ncn+이/jcc
+
+되어서
+	되/pvg+어서/ecs
+
+귀여운
+	귀엽/paa+은/etm
+
+응원춤을
+	응원/ncpa+춤/ncn+을/jco
+
+춰보였는데요
+	추/pvg+어/ecx+보이/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+얼마나
+	얼마나/mag
+
+귀여운지
+	귀엽/paa+은/etm+지/nbn
+
+..
+	./sf+./sf
+
+
+다들
+	다들/ncn
+
+관심을
+	관심/ncn+을/jco
+
+독차지
+	독차지/ncpa
+
+했지요
+	하/px+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+펼치는
+	펼치/pvg+는/etm
+
+응원전을
+	응원/ncpa+전/ncn+을/jco
+
+보면서
+	보/px+면서/ecc
+
+잠시
+	잠시/mag
+
+흥분된
+	흥분/ncpa+되/xsvn+ㄴ/etm
+
+맘을
+	말/px+ㅁ/etn+을/jco
+
+가라앉히고
+	가라앉히/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/08/05/1420/03101323810F537E83C3C989739476D3D05_anndam_480P_01_16x9_logo.
+	net/blogucc28/2012/08/05/1420/03101323810F537E83C3C989739476D3D05_anndam_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'165.
+	'/sr+165./nnc
+
+3';
+	3/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'832FA32ED58AFD54E5007E48F7778B839E76';
+	'832FA32ED58AFD54E5007E48F7778B839E76/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12655150508029854b502780974b2e7a6b6b0345a385a957f7a250210b6a7abfe5962780974b2e7a6b6b';
+	'V12655150508029854b502780974b2e7a6b6b0345a385a957f7a250210b6a7abfe5962780974b2e7a6b6b/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_08275
+	ugcPlayer_08275/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_08275'
+	VideoInfraUGCPlayer('ugcPlayer_08275'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_08275
+	ugcPlayer_08275/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+아이들로
+	아이/ncn+들/ncn+로/jca
+
+구성된
+	구성/ncn+되/xsvn+ㄴ/etm
+
+치어팀의
+	치어/ncn+팀/ncn+의/jcm
+
+응원
+	응원/ncpa
+
+모습입니다
+	모습/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+위에
+	위/ncn+에/jca
+
+페이스페인팅
+	페이스/ncn+페인팅/ncn
+
+하던데
+	하/pvg+던/etm+데/nbn
+
+..
+	./sf+./sf
+
+
+하고
+	하/pvg+고/ecc
+
+조카에게
+	조카/ncn+에게/jca
+
+전해주었더니
+	전하/pvg+어/ecx+주/px+었/ep+더니/ecs
+
+둘다
+	둘다/ncn
+
+쪼르르
+	쪼르르/mag
+
+달려가서는
+	달리/pvg+어/ecx+가/px+아/ef+는/etm
+
+얼굴이며
+	얼굴/ncn+이/jp+며/ecc
+
+손등에
+	손등/ncn+에/jca
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+문양을
+	문양/ncn+을/jco
+
+그려왔더라구요
+	그리/pvg+어/ecx+오/px+아/ep+라구/ef+요/jxf
+
+.
+	./sf
+
+
+예준이는
+	예준/ncn+이/jp+는/etm
+
+이쁜걸
+	이쁜걸/ncn
+
+무지
+	무지/ncn
+
+좋아하다보니
+	좋/paa+아/ecx+하/px+어다/ecx+보/px+니/ecs
+
+유독
+	유독/mag
+
+페이스페인팅에
+	페이스/ncn+페인팅/ncn+에/jca
+
+욕심을
+	욕심/ncn+을/jco
+
+내더라구요
+	내/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+볼이며
+	볼/ncn+이/jp+며/ecc
+
+양손등에
+	양손/ncn+등/ncn+에/jca
+
+다
+	다/mag
+
+그림을
+	그림/ncn+을/jco
+
+그려왔어요
+	그리/pvg+어/ecx+오/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+손등에
+	손등/ncn+에/jca
+
+그림이
+	그림/ncn+이/jcc
+
+꽤
+	꽤/mag
+
+이뻤는데
+	이쁘/paa+었/ep+는데/ecs
+
+미처
+	미처/mag
+
+사진으로
+	사진/ncn+으로/jca
+
+담지
+	담/pvg+지/ecx
+
+못했네요
+	못하/px+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+슬러시
+	슬러/ncn+시/ncn
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+음료도
+	음료/ncn+도/jxc
+
+몇번이나
+	몇/nnc+번/nbu+이나/jcj
+
+가져다먹고
+	가져다먹고/ncn
+
+팝콘,
+	팝콘/ncn+,/sp
+
+아이스크림도
+	아이스크림/ncn+도/jxc
+
+갖다먹고
+	갖다먹고/ncn
+
+..
+	./sf+./sf
+
+
+아이들에게는
+	아이/ncn+들/ncn+에게/jca+는/jxc
+
+재미난
+	재미나/pvg+ㄴ/etm
+
+구경도
+	구경/ncn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+신나는
+	신나/pvg+는/etm
+
+응원도
+	응원도/ncn
+
+하고
+	하/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+런던올림픽덕에
+	런던올림픽덕/ncn+에/jca
+
+재미난
+	재미나/pvg+ㄴ/etm
+
+체험을
+	체험/ncpa+을/jco
+
+했을
+	하/px+었/ep+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+후반전
+	후반/ncn+전/ncn
+
+경기도
+	경기/ncn+도/jxc
+
+한골씩
+	한골씩/ncn
+
+건네주면서
+	건네/pvg+어/ecx+주/px+면서/ecc
+
+차근차근
+	차근차근/mag
+
+점수를
+	점수/ncn+를/jco
+
+올렸구요
+	올렸구요/ncn
+
+.
+	./sf
+
+
+20초
+	20/nnc+초/nbu
+
+10초
+	10/nnc+초/nbu
+
+..
+	./sf+./sf
+
+
+하면서
+	하/pvg+면서/ecc
+
+시간을
+	시간/ncn+을/jco
+
+꼽다보니
+	꼽다보/ncn+이/jp+니/ecs
+
+후반전
+	후반/ncn+전/ncn
+
+경기도
+	경기/ncn+도/jxc
+
+끝이
+	끝/ncn+이/jcc
+
+났습니다
+	나/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+32
+	32/nnc
+
+:
+	:/sp
+
+28
+	28/nnc
+
+스웨덴
+	스웨덴/ncn
+
+전은
+	전/nbn+은/jxc
+
+우리나라
+	우리나라/ncn
+
+선수들의
+	선수/ncn+들/ncn+의/jcm
+
+승리로
+	승리/ncpa+로/jca
+
+끝이
+	끝/ncn+이/jcc
+
+났습니다
+	나/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+스웨덴
+	스웨덴/ncn
+
+선수들도
+	선수/ncn+들/ncn+도/jxc
+
+참
+	참/mag
+
+잘한다
+	잘하/pvg+ㄴ다/ef
+
+싶었는데
+	싶/px+었/ep+는데/ecs
+
+...
+	.../se
+
+
+그보다
+	그/npp+보다/jca
+
+한수위인
+	하/pvg+ㄴ/etm+수/nbn+위/xsnx+이/jp+ㄴ/etm
+
+우리나라
+	우리나라/ncn
+
+선수들이네요
+	선수/ncn+들이/ncn+이/jp+네/ef+요/jxf
+
+.
+	./sf
+
+
+개인적으로는
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca+는/jxc
+
+스포츠
+	스포츠/ncn
+
+경기에
+	경기/ncn+에/jca
+
+그리
+	그리/mad
+
+열광하는
+	열광/ncpa+하/xsva+는/etm
+
+편이
+	편/nbn+이/jcc
+
+아니다보니
+	아니다/ncn+보/ncn+이/jp+니/ecs
+
+...
+	.../se
+
+
+이렇게
+	이렇/pad+게/ecs
+
+올림픽
+	올림픽/ncn
+
+때에만
+	때/ncn+에/jca+만/jxc
+
+잠시
+	잠시/mag
+
+관심을
+	관심/ncn+을/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+그러거든요
+	그러/pvd+거든/ef+요/jxf
+
+.
+	./sf
+
+
+핸드볼경기에
+	핸드볼/ncn+경기/ncn+에/jca
+
+유독
+	유독/mag
+
+관심을
+	관심/ncn+을/jco
+
+가지는
+	가/pvg+아/ecx+지/px+는/etm
+
+것도
+	것/nbn+도/jxc
+
+아니라서
+	아니/paa+라서/ecs
+
+무덤덤하지만
+	무덤덤하/ncn+이/jp+지만/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+잠시
+	잠시/mag
+
+같이
+	같/paa+이/xsa
+
+응원하니
+	응원/ncpa+하/xsva+니/ecs
+
+재밌기도
+	재밌기/ncn+도/jxc
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+서울
+	서울/ncn
+
+올림픽공원
+	올림픽공원/ncn
+
+SK올림픽핸드볼경기장에서
+	SK/f+올림픽/ncn+핸드볼/ncn+경기장/ncn+에서/jca
+
+핸드볼
+	핸드볼/ncn
+
+국가대표
+	국가대표/ncn
+
+선수들의
+	선수/ncn+들/ncn+의/jcm
+
+선전을
+	서/pvg+ㄴ/etm+전/nbn+을/jco
+
+기원하면서
+	기원/ncpa+하/xsva+면서/ecc
+
+함께해
+	함께하/pvg+어/ecx
+
+본
+	보/px+ㄴ/etm
+
+국민응원전
+	국민/ncn+응원/ncpa+전/ncn
+
+.
+	./sf
+
+
+8월
+	8/nnc+월/nbu
+
+6일에는
+	6/nnc+일/nbu+에/jca+는/jxc
+
+덴마크전이
+	덴마크전/ncn+이/jcc
+
+남았는데요
+	남/pvg+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+경기에서도
+	경기/ncn+에서/jca+도/jxc
+
+좋은
+	좋/paa+은/etm
+
+결과를
+	결과/ncn+를/jco
+
+기대하면서
+	기대/pvg+어/ecx+하/px+면서/ecc
+
+신나는
+	신나/pvg+는/etm
+
+함성과
+	함성/ncn+과/jct
+
+함께한
+	함께하/pvg+ㄴ/etm
+
+시간이었습니다
+	시간/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+집에서
+	집/ncn+에서/jca
+
+보면
+	보/px+면/ecs
+
+되지
+	되/pvg+지/ecx
+
+...
+	.../se
+
+
+왜
+	왜/mag
+
+굳이
+	굳이/mag
+
+나가서
+	나가/pvg+아/ecx
+
+응원을
+	응원/ncpa+을/jco
+
+하는거야
+	하/px+는거야/ef
+
+라는
+	라/ncn+는/jxc
+
+생각을
+	생각/ncpa+을/jco
+
+종종
+	종종/mag
+
+했었는데요
+	하/px+었었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+직접
+	직접/mag
+
+그
+	그/mmd
+
+현장속에
+	현장/ncn+속/ncn+에/jca
+
+있어보니
+	있/px+어/ecx+보/px+니/ecs
+
+왜
+	왜/mag
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+알것도
+	알/pvg+ㄹ/etm+것/nbn+도/jxc
+
+같더라구요
+	같/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+한가지를
+	한/nnc+가지/nbu+를/jco
+
+향한
+	향하/pvg+ㄴ/etm
+
+같은
+	같/paa+은/etm
+
+소망으로
+	소망/ncpa+으로/jca
+
+한자리에서
+	한/nnc+자리/nbu+에서/jca
+
+소리를
+	소리/ncn+를/jco
+
+합치는
+	합치/pvg+는/etm
+
+일.
+	일/nnc+./sf
+
+.
+	./sf
+
+
+이때만큼은
+	이때/ncn+만큼/jca+은/jxc
+
+너와
+	너/npp+와/jcj
+
+내가
+	나/npp+가/jcs
+
+아니라
+	아니/paa+라/ecs
+
+우리가되더라구요
+	우리가/ncn+되/xsvn+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+한마음을
+	한마음/ncn+을/jco
+
+모아서
+	모으/pvg+아/ecx
+
+기원을
+	기원/ncn+을/jco
+
+하면
+	하/pvg+면/ecs
+
+이곳에서
+	이곳/npd+에서/jca
+
+런던까지
+	런던까지/ncn
+
+런던이
+	런던/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+지구
+	지구/ncn
+
+어디라고
+	어디/npd+이/jp+라/ef+고/jcr
+
+해도
+	하/pvg+어도/ecs
+
+뜻이
+	뜻/ncn+이/jcc
+
+전해지지
+	전하/pvg+어/ecx+지/px+지/ecx
+
+않을까
+	않/px+을까/ef
+
+싶더라구요
+	싶/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+다른
+	다른/mma
+
+경기도
+	경기/ncn+도/jxc
+
+함께
+	함께/mag
+
+모여서
+	모이/pvg+어서/ecs
+
+응원하는
+	응원/ncpa+하/xsva+는/etm
+
+시간이
+	시간/ncn+이/jcc
+
+있다면
+	있/px+다면/ecs
+
+열대야도
+	열대야/ncn+도/jxc
+
+잊을
+	잊/pvg+을/etm
+
+겸
+	겸/nbn
+
+참가해보시는
+	참가/ncpa+하/xsva+어/ecx+보/px+시/ep+는/etm
+
+것도
+	것/nbn+도/jxc
+
+잼있을
+	잼/ncn+있/xsmn+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+국가대표
+	국가대표/ncn
+
+선수들에게
+	선수/ncn+들/ncn+에게/jca
+
+힘을
+	힘/ncn+을/jco
+
+모아
+	모으/pvg+아/ecx
+
+전할
+	전하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+뜻깊은
+	뜻깊/paa+은/etm
+
+시간이
+	시간/ncn+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+올림픽공원
+	올림픽공원/ncn
+
+SK올림픽핸드볼경기장
+	SK/f+올림픽/ncn+핸드볼/ncn+경기장/ncn
+
+
+서울
+	서울/ncn
+
+송파구
+	송파구/ncn
+
+방이동
+	방이동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011405615",
+	"bl011405615",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"13413154",
+	"/sl+13413154/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"올림픽공원
+	title/f+:/sp+"/sl+올림픽공원/ncn
+
+SK올림픽핸드볼경기장",
+	SK/f+올림픽/ncn+핸드볼/ncn+경기장/ncn+"/sr+,/sp
+
+pointX:322568,pointY:546788}
+	pointX/f+:/sp+322568/nnc+,/sp+pointY/f+:/sp+546788/nnc+}/sr

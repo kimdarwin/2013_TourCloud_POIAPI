@@ -1,0 +1,981 @@
+논현동
+	논현/ncn+동/ncn
+
+새마을식당
+	새마을식당/ncn
+
+앞을
+	앞/ncn+을/jco
+
+지나다
+	지나/pvg+아/ecx
+
+보면2층에
+	보면2층/ncn+에/jca
+
+호프집이
+	호프/ncn+집/ncn+이/jcc
+
+하나
+	하/pvg+나/ecs
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+씨베리안
+	씨베리안/ncn
+
+호프
+	호프/ncn
+
+
+한글
+	한글/ncn
+
+간판
+	간판/ncn
+
+밑에
+	밑/ncn+에/jca
+
+'서울에서
+	'서울/ncn+에서/jca
+
+생맥주가
+	생맥주/ncn+가/jcs
+
+가장
+	가장/mag
+
+맛있는
+	맛있/paa+는/etm
+
+집'
+	집/ncn+'/sr
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+씌여
+	씌/ncn+이/jp+어/ecs
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+동네가
+	동네/ncn+가/jcs
+
+술집은
+	술집/ncn+은/jxc
+
+많지만
+	많/paa+지/ecx+말/px+ㄴ/etm
+
+호프집은
+	호프/ncn+집/ncn+은/jxc
+
+많지도않고
+	많/paa+지도/ecx+않/px+고/ecc
+
+..
+	./sf+./sf
+
+
+맥주맛도
+	맥주/ncn+맛/ncn+도/jxc
+
+그냥
+	그냥/mag
+
+저냥이기
+	저냥/ncn+이/jp+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+요런
+	요런/ii
+
+간판을
+	간판/ncn+을/jco
+
+봐도
+	보/px+아/ecs
+
+설마
+	설마/mag
+
+..
+	./sf+./sf
+
+
+이런
+	이런/mmd
+
+생각만
+	생각/ncpa+만/jxc
+
+들더군요~
+	들/pvg+더군/ef+요/jxf+~/sd
+
+
+어느날
+	어느날/npd
+
+맥주가
+	맥주/ncn+가/jcs
+
+땡기길래
+	땡기길래/ncn
+
+속는셈치고
+	속/pvg+는/etm+셈/nbn+치고/jxc
+
+한번
+	한/nnc+번/nbu
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+봤습니다
+	보/px+아/ep+ㅂ니다/ef
+
+^^
+	^/sy+^/sy
+
+
+결론부터
+	결론/ncn+부터/jxc
+
+이야기를
+	이야기/ncpa+를/jco
+
+하자면
+	하/pvg+자면/ecs
+
+..
+	./sf+./sf
+
+
+진작
+	진작/mag
+
+올껄
+	올껄/ncn
+
+..
+	./sf+./sf
+
+
+하는
+	하/pvg+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+심플한
+	심플한/ncn
+
+내부
+	내부/ncn
+
+분위기
+	분위기/ncn
+
+..
+	./sf+./sf
+
+
+원래는
+	원래/mag+는/jxc
+
+더
+	더/mag
+
+밝은데
+	밝/paa+은/etm+데/nbn
+
+사람들
+	사람들/ncn
+
+모자이크
+	모자이크/ncn
+
+하기
+	하/pvg+기/etn
+
+귀찮아서
+	귀찮/paa+아/ecx
+
+약간
+	약간/mag
+
+어둡게
+	어둡/paa+게/ecs
+
+찍었다는
+	찍/pvg+었/ep+다/ef+는/etm
+
+..
+	./sf+./sf
+
+
+;;;
+	;/sy+;/sy+;/sy
+
+
+카스
+	카스/ncn
+
+생맥주를
+	생맥주/ncn+를/jco
+
+취급하는군요
+	취급/ncpa+하/xsva+는군/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+바
+	바/nbn
+
+왼쪽에
+	왼쪽/ncn+에/jca
+
+특이한게
+	특이/ncn+한/ncn+게/jca
+
+하나
+	하/pvg+나/ecs
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+생맥주
+	생맥주/ncn
+
+냉장고가
+	냉장고/ncn+가/jcs
+
+따로
+	따로/mag
+
+갖추어져
+	갖추/pvg+어/ecx+지/px+어/ecx
+
+있네요
+	있/px+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+이름이
+	이름/ncn+이/jcc
+
+씨베리안호프인
+	씨베리안호프/ncn+이/jp+ㄴ/etm
+
+이유가
+	이유/ncn+가/jcs
+
+있었군요
+	있/px+었/ep+군/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+냉장고에
+	냉장고/ncn+에/jca
+
+써있는
+	쓰/pvg+어/ecx+있/px+는/etm
+
+설명에
+	설명/ncpa+에/jca
+
+의하면
+	의하/pvg+면/ecs
+
+
+러시아
+	러시/ncn+아/jcv
+
+우랄산맥
+	우랄산맥/ncn
+
+세비르지방에서
+	세비르지방/ncn+에서/jca
+
+먹는
+	먹/pvg+는/etm
+
+추운환경
+	추운환경/ncn
+
+속의
+	속/ncn+의/jcm
+
+저온숙성
+	저온/ncn+숙성/ncpa
+
+맥주를
+	맥주/ncn+를/jco
+
+그대로
+	그대로/mag
+
+재현했다는
+	재현/ncpa+하/xsva+었/ep+다/ef+는/etm
+
+...
+	.../se
+
+
+러시아에서맥주
+	러시아에서맥주/ncn
+
+안먹어
+	안먹어/ncn
+
+봐서
+	보/pvg+아/ecx
+
+모르겠지만
+	모르/pvg+겠/ep+지/ecx+말/px+ㄴ/etm
+
+암튼
+	암튼/ncn
+
+신경
+	신경/ncn
+
+썼다는
+	쓰/pvg+었/ep+다/ef+는/etm
+
+뜻~
+	뜻/ncn+~/sd
+
+;;
+	;/sy+;/sy
+
+
+무난한
+	무난/ncps+하/xsms+ㄴ/etm
+
+맥주가격~
+	맥주/ncn+가격/ncn+~/sd
+
+
+안주
+	안주/ncn
+
+가격도
+	가격/ncn+도/jxc
+
+뭐
+	뭐/npd
+
+이동네
+	이/nnc+동/nbu+네/jcm
+
+치고는
+	치/pvg+고/ecs+는/jxc
+
+괜찮은
+	괜찮/paa+은/etm
+
+편입니다
+	편/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+배도
+	배/ncn+도/jxc
+
+부르고
+	부르/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+이날
+	이/nnc+날/nbu
+
+맥주를
+	맥주/ncn+를/jco
+
+마시는게
+	마시/pvg+는게/ecs
+
+목적이였기
+	목적/ncn+이/ncn+이/jp+었/ep+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+
+안주는
+	안주/ncn+는/jxc
+
+제일
+	제일/mag
+
+싸고
+	쓰/pvg+어/ef+고/jcr
+
+배
+	배/pvg+어/ecx
+
+안부를것
+	안부를것/ncn
+
+같은
+	같/paa+은/etm
+
+북어땅
+	북어/ncn+땅/ncn
+
+구이
+	구/ncn+이/jcc
+
+주문~
+	주문/ncn+~/sd
+
+
+생맥주
+	생맥주/ncn
+
+500cc
+	500cc/ncn
+
+
+보기만해도
+	보기만해/ncn+도/jxc
+
+시원합니다
+	시원/ncps+하/xsms+ㅂ니다/ef
+
+^^
+	^/sy+^/sy
+
+
+오.
+	오/ii+./sf
+
+.
+	./sf
+
+
+여기
+	여기/mad
+
+맥주맛있네요~
+	맥주/ncn+맛/ncn+있/xsmn+네요/ef+~/sd
+
+
+서울에서
+	서울/ncn+에서/jca
+
+제일
+	제일/mag
+
+맛있는집
+	맛있는집/ncn
+
+인건
+	인/ncn+건/xsnx
+
+잘
+	잘/mag
+
+모르겠지만
+	모르/pvg+겠/ep+지만/ecs
+
+
+한모금
+	한/nnc+모금/nbu
+
+마셔보니
+	마시/pvg+어/ecx+보/px+니/ecs
+
+다르긴
+	다르긴/ncn
+
+다른것
+	다르/paa+ㄴ/etm+것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+^^
+	^/sy+^/sy
+
+
+기본안주
+	기본안/ncn+주/ncn
+
+
+쌀새우칩(
+	쌀새우칩(/ncn
+
+?)
+	?/sf+)/sr
+
+
+비슷한
+	비슷/ncps+하/xsms+ㄴ/etm
+
+과자
+	과자/ncn
+
+
+(요런
+	(/sl+요런/ii
+
+스타일
+	스타/ncn+이/jp+ㄹ/etm
+
+과자는
+	과자/ncn+는/jxc
+
+혀에
+	혀/ncn+에/jca
+
+가만히
+	가만히/mag
+
+대고
+	대/nbu+이/jp+고/ecc
+
+있으면
+	있/px+으면/ecs
+
+혀를
+	혀/ncn+를/jco
+
+꼬집는듯한
+	꼬집/pvg+는/etm+듯/nbs+하/xsms+ㄴ/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+재미있죠
+	재미있/pvg+죠/ef
+
+..
+	./sf+./sf
+
+
+)
+	)/sr
+
+
+북어땅구이
+	북어땅구/ncn+이/jcc
+
+
+사진으로
+	사진/ncn+으로/jca
+
+크기를
+	크/paa+기/etn+를/jco
+
+설명하긴
+	설명하긴/ncn
+
+힘들지만
+	힘들/pvg+지만/ecs
+
+상당히
+	상당히/mag
+
+큽니다
+	크/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+요게
+	요/ncn+이/jp+게/ecs
+
+하나에
+	하나/nnc+에/jca
+
+7천원이라니
+	7/nnc+천/nnc+원/nbu+이/jp+라니/ecs
+
+..
+	./sf+./sf
+
+
+착하네요~
+	착하/paa+네요/ef+~/sd
+
+
+가위랑
+	가위/ncn+랑/jxc
+
+크기를
+	크/paa+기/etn+를/jco
+
+비교해
+	비교/ncpa+하/xsva+어/ecx
+
+보면
+	보/px+면/ecs
+
+짐작
+	짐작/ncpa
+
+가실것
+	가/px+시/ep+ㄹ/etm+것/nbn
+
+같네요~~
+	같/paa+네요/ef+~/sd+~/sd
+
+
+소스도
+	소스/ncn+도/jxc
+
+세종류입니다
+	세종류/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+간장+마요네즈,
+	간장+마요네즈,/ncn
+
+고추장
+	고추장/ncn
+
+소스는
+	소스/ncn+는/jxc
+
+일반적이고
+	일반/ncn+적/ncn+이/jp+고/ecc
+
+..
+	./sf+./sf
+
+
+요건
+	요건/ncn
+
+...
+	.../se
+
+
+을지로
+	을지/ncn+로/jca
+
+만선호프
+	만선호프/ncn
+
+스타일의
+	스타일/ncn+의/jcm
+
+톡쏘는
+	톡쏘/pvg+는/etm
+
+매운맛
+	매운맛/ncn
+
+소스
+	소스/ncn
+
+
+라면스프
+	라면/ncn+스프/ncn
+
+맛
+	맛/ncn
+
+비슷한
+	비슷/ncps+하/xsms+ㄴ/etm
+
+느낌입니다
+	느낌/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+개인적으로는
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca+는/jxc
+
+요게
+	요/ncn+이/jp+게/ecs
+
+왠지
+	왠지/mag
+
+계속
+	계속/mag
+
+손이가네요~
+	손이가/ncn+이/jp+네요/ef+~/sd
+
+
+가위와
+	가위/ncn+와/jcj
+
+손을
+	손/ncn+을/jco
+
+이용해서
+	이용/ncpa+하/xsva+어서/ecs
+
+잘
+	잘/mag
+
+찢어야합니다
+	찢/pvg+어야/ecx+하/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+북어가
+	북어/ncn+가/jcs
+
+커서반만
+	커서/ncn+반/ncn+만/jxc
+
+찢어
+	찢/pvg+어/ecx
+
+먹고
+	먹/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+나머지는
+	나머지/ncn+는/jxc
+
+나중에
+	나중/ncn+에/jca
+
+찢었다는;;
+	찢었다는/ncn+;/sy+;/sy
+
+
+너무
+	너무/mag
+
+딱딱하지도
+	딱딱하/paa+지/ecs+도/jxc
+
+부드럽지도
+	부드럽/paa+지/ecs+도/jxc
+
+않은
+	않/px+은/etm
+
+딱
+	딱/mag
+
+중간~
+	중간/ncn+~/sd
+
+
+간은따로되어있지
+	간은따로되어있지/ncn
+
+않으므로
+	않/px+으므로/ecs
+
+소스랑
+	소스/ncn+랑/jxc
+
+먹어야합니다
+	먹/pvg+어야/ecx+하/px+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+여름에
+	여름/ncn+에/jca
+
+바다에도
+	바다/ncn+에/jca+도/jxc
+
+못가보고
+	못가보/ncn+이/jp+고/ecc
+
+...
+	.../se
+
+
+맥주의
+	맥주/ncn+의/jcm
+
+바다에나
+	바다/ncn+에/jca+나/jxc
+
+풍덩~
+	풍덩~/ncn
+
+T_T
+	T_T/ncn
+
+
+씨베리안호프
+	씨베리안호프/ncn
+
+
+위치:
+	위치/ncn+:/sp
+
+논현역
+	논현역/ncn
+
+2번출구
+	2번출구/ncn
+
+또는
+	또는/maj
+
+신논현역
+	신/xp+논현역/ncn
+
+3번출구로
+	3번출구/ncn+로/jca
+
+나와서
+	나오/pvg+아/ecx
+
+직진
+	직진/ncpa
+
+..
+	./sf+./sf
+
+
+SC제일은행과
+	SC/f+제일/ncn+은행/ncn+과/jcj
+
+정관장
+	정관/ncpa+장/ncn
+
+사이
+	사이/ncn
+
+골목으로
+	골목/ncn+으로/jca
+
+30m정도
+	30m정/ncn+도/jxc
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+새마을
+	새/ncn+이/jp+마/ef+ㄹ/etm
+
+식당
+	식당/ncn
+
+2층에
+	2/nnc+층/nbu+에/jca
+
+있음
+	있/paa+음/etn
+
+
+그냥
+	그냥/mag
+
+가지
+	가지/nbu
+
+마시고
+	마시/pvg+고/ecc
+
+위의
+	위/ncn+의/jcm
+
+View
+	View/f
+
+on도
+	on/f+도/jxc
+
+클릭해
+	클릭/ncpa+하/xsva+어/ecx
+
+주세요~
+	주세/ncn+요/ncn+~/sd
+
+
+그리고
+	그리고/maj
+
+덧글과
+	덧글/ncn+과/jcj
+
+공감을
+	공감/ncpa+을/jco
+
+남겨
+	남기/pvg+어/ecx
+
+주시면
+	주/px+시/ep+면/ecs
+
+제가
+	저/npp+가/jcs
+
+앞으로
+	앞/ncn+으로/jca
+
+포스팅하는데
+	포스팅하는데/ncn
+
+큰
+	크/paa+ㄴ/etm
+
+힘이
+	힘/ncn+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+^^
+	^/sy+^/sy

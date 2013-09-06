@@ -1,0 +1,465 @@
+올
+	오/px+ㄹ/etm
+
+여름
+	여름/ncn
+
+휴가,
+	휴가/ncn+,/sp
+
+해수욕장
+	해수욕장/ncn
+
+말고
+	말/px+고/ecc
+
+강수욕장
+	강수욕장/ncn
+
+어떠세요
+	어떠세요/ncn
+
+?
+	?/sf
+
+
+청송
+	청송/ncn
+
+강수욕장을
+	강수욕장/ncn+을/jco
+
+소개합니다
+	소개/ncpa+하/xsva+ㅂ니다/ef
+
+!
+	!/sf
+
+
+안녕하세요
+	안녕/ncps+하/xsms+세/ef+요/jxf
+
+청Song이에요
+	청Song/ncn+이/jp+에요/ef
+
+!
+	!/sf
+
+
+아
+	아/ii
+
+요즘
+	요즘/mag
+
+날씨가
+	날씨/ncn+가/jcs
+
+장마철임을
+	장마철/ncn+이/jp+ㅁ/etn+을/jco
+
+한껏
+	한껏/mag
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+매일
+	매일/mag
+
+비가
+	비/ncn+가/jcs
+
+오고있습니다T_T
+	오고있습니다T_T/ncn
+
+
+하.지
+	하.지/ncn
+
+.
+	./sf
+
+
+만
+	말/px+ㄴ/etm
+
+!!!!!
+	!/sf+!/sf+!/sf+!/sf+!/sf
+
+!!
+	!/sf+!/sf
+
+
+이
+	이/mmd
+
+지긋지긋한
+	지긋지긋하/paa+ㄴ/etm
+
+장마가
+	장마/ncn+가/jcs
+
+지나가면
+	지나/pvg+아/ecx+가/px+면/ecs
+
+드디어
+	드디어/mag
+
+여름
+	여름/ncn
+
+휴가시즌이
+	휴가/ncn+시즌/ncn+이/jcc
+
+다가오는데요
+	다가오/pvg+ㄴ데/ef+요/jxf
+
+!
+	!/sf
+
+
+이웃님들
+	이웃/ncpa+님/ncn+들/xsncc
+
+모두
+	모두/mag
+
+여름
+	여름/ncn
+
+휴가계획
+	휴가/ncn+계획/ncpa
+
+세우고
+	세우/pvg+고/ecc
+
+계시나요
+	계시/paa+나/ef+요/jxf
+
+?
+	?/sf
+
+
+청Song이는
+	청Song/ncn+이/jp+는/etm
+
+여름휴가지로
+	여름/ncn+휴가/ncn+지로/ncn
+
+바다도
+	바다/ncn+도/jxc
+
+좋지만,
+	좋/paa+지/ecx+말/px+ㄴ/etm+,/sp
+
+강수욕장을
+	강수욕장/ncn+을/jco
+
+추천해
+	추천/ncpa+하/xsva+어/ecx
+
+드리고
+	드리/pvg+고/ecc
+
+싶어요
+	싶/px+어/ef+요/jxf
+
+!
+	!/sf
+
+
+해수욕장은
+	해수욕장/ncn+은/jxc
+
+많이
+	많/paa+이/xsa
+
+들어봤는데,
+	들/pvg+어/ecx+보/px+아/ep+ㄴ데/ecs+,/sp
+
+대체
+	대체/mag
+
+강수욕장이
+	강수욕장/ncn+이/jcc
+
+뭔가
+	뭔가/ncn
+
+싶으신분들
+	싶으신분들/ncn
+
+많으실텐데요
+	많/paa+으시/ep+ㄹ텐데요/ef
+
+
+요
+	요/mmd
+
+위에
+	위/ncn+에/jca
+
+보이는
+	보이/pvg+는/etm
+
+사진이
+	사진/ncn+이/jcc
+
+바로
+	바로/mag
+
+청송군
+	청송군/ncn
+
+현비암의
+	현비암/ncn+의/jcm
+
+강수욕장입니다
+	강수욕장입니/ncn+이/jp+다/ef
+
+^
+	^/sy
+
+^
+	^/sy
+
+
+참
+	참/mag
+
+시원해
+	시원/ncps+하/xsms+어/ecx
+
+보이죠
+	보이/pvg+죠/ef
+
+?
+	?/sf
+
+
+강수욕장이란
+	강수욕장이란/ncn
+
+?
+	?/sf
+
+
+강수욕장이란
+	강수욕장이란/ncn
+
+해수욕장같은
+	해수욕장/ncn+같/xsmn+은/etm
+
+설비를
+	설비/ncpa+를/jco
+
+강에
+	강/ncn+에/jca
+
+설치한
+	설치/ncpa+하/xsva+ㄴ/etm
+
+것으로서
+	것/nbn+으로서/jca
+
+
+청송군
+	청송군/ncn
+
+현비암의
+	현비암/ncn+의/jcm
+
+강수욕장은
+	강수욕장/ncn+은/jxc
+
+
+수질검사결과
+	수질검사/ncn+결과/ncn
+
+1급수로
+	1/nnc+급/xsnu+수/nbu+로/jca
+
+판정이
+	판정/ncpa+이/jcc
+
+된
+	되/pvg+ㄴ/etm
+
+
+양질의
+	양질/ncn+의/jcm
+
+하천수로서
+	하천/ncn+수/ncn+로서/jca
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+피부나
+	피부/ncn+나/jcj
+
+인체에
+	인체/ncn+에/jca
+
+무해한
+	무해/ncps+하/xsms+ㄴ/etm
+
+우리들의
+	우리들/npp+의/jcm
+
+놀이터입니다
+	놀이터/ncn+이/jp+ㅂ니다/ef
+
+
+청송군
+	청송군/ncn
+
+현비암의
+	현비암/ncn+의/jcm
+
+강수욕장은
+	강수욕장/ncn+은/jxc
+
+월막교
+	월막교/ncn
+
+부근
+	부근/ncn
+
+강변에
+	강변/ncn+에/jca
+
+길이
+	길/ncn+이/jcc
+
+90m,
+	90m,/ncn
+
+폭
+	폭/nbu
+
+50m,
+	50m,/ncn
+
+수심
+	수/nbn+이/jp+시/ep+ㅁ/etn
+
+50-80cm의
+	50-80cm/ncn+의/jcm
+
+규모로
+	규모/ncn+로/jca
+
+조성되어있습니다
+	조성/ncpa+되/xsvn+어/ecx+있/px+습니다/ef
+
+.
+	./sf
+
+
+화장실과
+	화장실/ncn+과/jcj
+
+탈의실은
+	탈의실/ncn+은/jxc
+
+물론이구요,
+	물론이구요,/ncn
+
+인공암벽과
+	인공/ncn+암벽/ncn+과/jcj
+
+미끄럼틀,
+	미끄럼틀/ncn+,/sp
+
+시소,
+	시소/ncn+,/sp
+
+튜브등의
+	튜브/ncn+등/ncn+의/jcm
+
+놀이터도
+	놀이터/ncn+도/jxc
+
+구성되어있으며
+	구성/ncn+되/xsvn+어/ecx+있/px+으며/ecc
+
+
+만일의
+	만/nnc+일/nbu+의/jcm
+
+사고에
+	사고/ncn+에/jca
+
+대비하여
+	대비/ncpa+하/xsva+어/ecx
+
+안전요원
+	안전/ncn+요원/ncn
+
+상시대비는
+	상시/ncn+대비/ncn+는/jxc
+
+물론,
+	물론/ncn+,/sp
+
+구명장비도
+	구명장비/ncn+도/jxc
+
+완벽히
+	완벽히/mag
+
+갖추고
+	갖추/pvg+고/ecc
+
+있답니다
+	있/paa+답니다/ef
+
+
+올여름
+	올여름/ncn
+
+피서지,
+	피서/ncn+이/jp+지/ef+,/sp
+
+청송의
+	청송/ncn+의/jcm
+
+강수욕장
+	강수욕장/ncn
+
+어떠신가요
+	어떠/ncn+이/jp+시/ep+ㄴ가/ef+요/jxf
+
+?
+	?/sf
+
+
+해수욕장처럼
+	해수욕장/ncn+처럼/jca
+
+너무
+	너무/mag
+
+깊지
+	깊/paa+지/ecx
+
+않아
+	않/px+아/ecx
+
+아이들
+	아이/ncn+들/ncn
+
+놀기에도
+	놀/pvg+기/etn+에/jca+도/jxc
+
+딱이에요
+	딱/ncn+이/jp+에요/ef

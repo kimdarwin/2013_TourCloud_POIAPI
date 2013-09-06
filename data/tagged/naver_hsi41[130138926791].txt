@@ -1,0 +1,1009 @@
+아파트
+	아파트/ncn
+
+경매
+	경매/ncn
+
+물건이
+	물건/ncn+이/jcc
+
+쏟아지고
+	쏟/pvg+아/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+은행에서
+	은행/ncn+에서/jca
+
+돈을
+	돈/ncn+을/jco
+
+빌려
+	빌리/pvg+어/ecx
+
+아파트를
+	아파트/ncn+를/jco
+
+샀지만
+	사/pvg+아/ep+지만/ecs
+
+가격
+	가격/ncn
+
+하락에다
+	하락/ncpa+에다/jca
+
+거래마저
+	거래/ncpa+마저/jxc
+
+실종돼
+	실종/ncpa+되/xsvn+어/ecx
+
+더
+	더/mag
+
+이상
+	이상/ncn
+
+이자를
+	이자/ncn+를/jco
+
+감당하지
+	감당/ncpa+하/xsva+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+물량이
+	물량/ncn+이/jcc
+
+늘어나다
+	늘/pvg+어/ecx+나/px+아/ecx
+
+보니
+	보/px+니/ecs
+
+낙찰
+	낙찰/ncn
+
+가격과
+	가격/ncn+과/jcj
+
+물량도
+	물량/ncn+도/jxc
+
+갈수록
+	가/px+ㄹ수록/ecs
+
+떨어지고
+	떨어지/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+서울중앙지법
+	서울중앙지법/ncn
+
+통계를
+	통계/ncn+를/jco
+
+보면
+	보/px+면/ecs
+
+전체
+	전체/ncn
+
+부동산
+	부동산/ncn
+
+임의경매
+	임의/ncn+경매/ncn
+
+접수는
+	접수/ncpa+는/jxc
+
+지난해
+	지난해/ncn
+
+1~4월
+	1/nnc+~/sd+4/nnc+월/nbu
+
+674건에서
+	674/nnc+건/nbu+에서/jca
+
+올해
+	올해/ncn
+
+같은
+	같/paa+은/etm
+
+기간
+	기간/ncn
+
+759건으로
+	759/nnc+건/nbu+으로/jca
+
+12.6%
+	12.6/nnc+%/su
+
+증가했다
+	증가/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+부동산
+	부동산/ncn
+
+임의경매는
+	임의/ncn+경매/ncn+는/jxc
+
+부동산을
+	부동산/ncn+을/jco
+
+담보로
+	담보/ncpa+로/jca
+
+돈을
+	돈/ncn+을/jco
+
+빌린
+	빌리/pvg+ㄴ/etm
+
+채무자가
+	채무자/ncn+가/jcs
+
+이를
+	이/npd+를/jco
+
+갚지
+	갚/pvg+지/ecx
+
+않을
+	않/px+을/etm
+
+때
+	때/ncn
+
+채권자가
+	채권자/ncn+가/jcs
+
+담보
+	담보/ncpa
+
+부동산을
+	부동산/ncn+을/jco
+
+경매에
+	경매/ncn+에/jca
+
+부치는
+	부치/pvg+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+금융권에서
+	금융권/ncn+에서/jca
+
+아파트
+	아파트/ncn
+
+담보대출을
+	담보대출/ncn+을/jco
+
+받아
+	받/pvg+아/ecx
+
+아파트를
+	아파트/ncn+를/jco
+
+사고
+	사/pvg+고/ecc
+
+이후
+	이후/ncn
+
+대출
+	대출/ncpa
+
+원리금을
+	원리금/ncn+을/jco
+
+갚지
+	갚/pvg+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+경우가
+	경우/ncn+가/jcs
+
+해당된다
+	해당/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+수도권
+	수도권/ncn
+
+아파트
+	아파트/ncn
+
+최초
+	최초/ncn
+
+경매
+	경매/ncn
+
+진행
+	진행/ncpa
+
+사건들의
+	사건/ncn+들/ncn+의/jcm
+
+금융권
+	금융권/ncn
+
+청구금액은
+	청구/ncpa+금액/ncn+은/jxc
+
+지난
+	지나/pvg+ㄴ/etm
+
+3월
+	3/nnc+월/nbu
+
+2025억원으로
+	2025/nnc+억/nnc+원/nbu+으로/jca
+
+2008년
+	2008/nnc+년/nbu
+
+이후
+	이후/ncn
+
+최고치를
+	최고치/ncn+를/jco
+
+기록했다
+	기록/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+그만큼
+	그/npp+만큼/jxc
+
+빌린
+	빌리/pvg+ㄴ/etm
+
+돈을
+	돈/ncn+을/jco
+
+갚지
+	갚/pvg+지/ecx
+
+못해
+	못하/pvg+어/ecx
+
+경매에
+	경매/ncn+에/jca
+
+부쳐진
+	부치/pvg+어/ecx+지/px+ㄴ/etm
+
+아파트가
+	아파트/ncn+가/jcs
+
+많다는
+	많/paa+다/ef+는/etm
+
+의미다
+	의미/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+금액은
+	금액/ncn+은/jxc
+
+지난
+	지나/pvg+ㄴ/etm
+
+4월에도
+	4/nnc+월/nbu+에/jca+도/jxc
+
+1972억원을
+	1972/nnc+억/nnc+원/nbu+을/jco
+
+기록해
+	기록/ncpa+하/xsva+어/ecx
+
+여전히
+	여전히/mag
+
+높은
+	높/paa+은/etm
+
+수준을
+	수준/ncn+을/jco
+
+유지했다
+	유/ncn+이/jp+지/ecx+하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+부동산
+	부동산/ncn
+
+경매전문업체
+	경매/ncn+전문업체/ncn
+
+지지옥션의
+	지지옥션/ncn+의/jcm
+
+통계를
+	통계/ncn+를/jco
+
+분석한
+	분석/ncpa+하/xsva+ㄴ/etm
+
+결과
+	결과/ncn
+
+올
+	오/px+ㄹ/etm
+
+1~4월
+	1/nnc+~/sd+4/nnc+월/nbu
+
+서울중앙지법에서
+	서울중앙지법/ncn+에서/jca
+
+경매가
+	경매/ncn+가/jcs
+
+진행된
+	진행/ncpa+되/xsvn+ㄴ/etm
+
+아파트와
+	아파트/ncn+와/jcj
+
+주상복합아파트는
+	주상/ncn+복합/ncpa+아파트/ncn+는/jxc
+
+모두
+	모두/mag
+
+569건으로
+	569/nnc+건/nbu+으로/jca
+
+지난해
+	지난해/ncn
+
+같은
+	같/paa+은/etm
+
+기간(555건)보다
+	기/ncn+간/xsncc+(/sl+555/nnc+건/nbu+)/sr+보다/jca
+
+2.
+	2./nnc
+
+5%가량
+	5/nnc+%/su+가량/xsnu
+
+늘었다
+	늘/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+반면
+	반면/ncn
+
+낙찰건수는
+	낙찰/ncn+건수/ncn+는/jxc
+
+225건에서
+	225/nnc+건/nbu+에서/jca
+
+206건으로
+	206/nnc+건/nbu+으로/jca
+
+오히려
+	오히려/mag
+
+19건(8.
+	19/nnc+건/xsnx+(/sl+8./nnc
+
+4%)
+	4/nnc+%/su+)/sr
+
+줄었다
+	줄/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+올
+	오/px+ㄹ/etm
+
+1월
+	1/nnc+월/nbu
+
+43%로
+	43/nnc+%/su+로/jca
+
+시작한
+	시작/ncpa+하/xsva+ㄴ/etm
+
+낙찰률은
+	낙찰/ncn+률/ncn+은/jxc
+
+지속적으로
+	지속/ncpa+적/ncn+으로/jca
+
+떨어져
+	떨어지/pvg+어/ecx
+
+5월
+	5/nnc+월/nbu
+
+현재
+	현재/ncn
+
+30%대
+	30/nnc+%/su+대/xsnu
+
+초반을
+	초반/ncn+을/jco
+
+기록
+	기록/ncpa
+
+중이다
+	중/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+경매시장에
+	경매시장/ncn+에/jca
+
+100건의
+	100/nnc+건/nbu+의/jcm
+
+물량이
+	물량/ncn+이/jcc
+
+나오면
+	나/pvg+아/ecx+오/px+면/ecs
+
+30건밖에
+	30/nnc+건/nbu+밖에/jxc
+
+거래가
+	거래/ncpa+가/jcc
+
+성사되지
+	성사/ncpa+되/xsvn+지/ecx
+
+않는다는
+	않/px+는다/ef+는/etm
+
+뜻이다
+	뜻/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+낙찰가율과
+	낙찰가/ncn+율/ncn+과/jcj
+
+평균
+	평균/ncpa
+
+응찰률을
+	응찰/ncpa+률/ncn+을/jco
+
+봐도
+	보/px+아/ecs
+
+경매
+	경매/ncn
+
+아파트에
+	아파트/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+관심이
+	관심/ncn+이/jcc
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+확인된다
+	확인/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+앞으로도
+	앞/ncn+으로/jca+도/jxc
+
+집값이
+	집값/ncn+이/jcc
+
+오르지
+	오르/pvg+지/ecx
+
+않을
+	않/px+을/etm
+
+것으로
+	것/nbn+으로/jca
+
+생각하는
+	생각/ncpa+하/xsva+는/etm
+
+사람이
+	사람/ncn+이/jcc
+
+많기
+	많/paa+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+지난해
+	지난해/ncn
+
+1~4월
+	1/nnc+~/sd+4/nnc+월/nbu
+
+서울중앙지법
+	서울중앙지법/ncn
+
+경매
+	경매/ncn
+
+법정에
+	법정/ncn+에/jca
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+아파트의
+	아파트/ncn+의/jcm
+
+낙찰가율은
+	낙찰가/ncn+율/ncn+은/jxc
+
+월평균
+	월평균/ncn
+
+84.
+	84./nnc
+
+6~86.
+	6/nnc+~/sd+86./nnc
+
+4%
+	4/nnc+%/su
+
+수준이다
+	수준/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+낙찰가율은
+	낙찰가/ncn+율/ncn+은/jxc
+
+감정가
+	감정/ncn+가/jcs
+
+대비
+	대비/ncn
+
+실제
+	실제/ncn
+
+낙찰가격의
+	낙찰/ncn+가격/ncn+의/jcm
+
+비율을
+	비율/ncn+을/jco
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+낙찰가율은
+	낙찰가/ncn+율/ncn+은/jxc
+
+지난해
+	지난해/ncn
+
+7월(77.
+	7월(77./ncn
+
+8%)
+	8/nnc+%/su+)/sr
+
+80%
+	80/nnc+%/su
+
+밑으로
+	밑/ncn+으로/jca
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+좀처럼
+	좀처럼/mag
+
+회복되지
+	회복/ncpa+되/xsvn+지/ecx
+
+않고
+	않/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+올해
+	올해/ncn
+
+1~4월
+	1/nnc+~/sd+4/nnc+월/nbu
+
+월평균
+	월평균/ncn
+
+낙찰가율도
+	낙찰가/ncn+율/ncn+도/jxc
+
+77.
+	77./nnc
+
+3~80.
+	3/nnc+~/sd+80./nnc
+
+4%를
+	4/nnc+%/su+를/jco
+
+보였다
+	보이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+대부분의
+	대부분/ncn+의/jcm
+
+아파트가
+	아파트/ncn+가/jcs
+
+감정가의
+	감정가/ncr+의/jcm
+
+80%에
+	80/nnc+%/su+에/jca
+
+못
+	못/mag
+
+미치는
+	미치/pvg+는/etm
+
+가격에
+	가격/ncn+에/jca
+
+낙찰된
+	낙찰/ncn+되/xsvn+ㄴ/etm
+
+셈이다
+	셈/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+낙찰가율은
+	낙찰가/ncn+율/ncn+은/jxc
+
+부동산시장의
+	부동산/ncn+시장/ncn+의/jcm
+
+경기지표를
+	경기지표/ncn+를/jco
+
+반영하는
+	반영/ncpa+하/xsva+는/etm
+
+수치로
+	수치/ncn+로/jca
+
+이용된다
+	이용/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+경매시장
+	경매시장/ncn
+
+참가자들의
+	참가자/ncn+들/ncn+의/jcm
+
+경쟁률을
+	경쟁률/ncn+을/jco
+
+나타내는
+	나타내/pvg+는/etm
+
+평균
+	평균/ncpa
+
+응찰자
+	응찰/ncpa+자/ncn
+
+수도
+	수/nbn+도/jxc
+
+줄어들었다
+	줄어들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+지난해
+	지난해/ncn
+
+1월
+	1/nnc+월/nbu
+
+8.
+	8./nnc
+
+3명이었던
+	3/nnc+명/nbu+이/jp+었/ep+던/etm
+
+평균
+	평균/ncpa
+
+응찰자
+	응찰/ncpa+자/ncn
+
+수는
+	수/nbn+는/jxc
+
+이후
+	이후/ncn
+
+급락해
+	급락/ncn+해/ncn
+
+12월
+	12/nnc+월/nbu
+
+4.
+	4./nnc
+
+0명으로
+	0/nnc+명/nbu+으로/jca
+
+절반
+	절반/ncn
+
+이하로
+	이하/ncn+로/jca
+
+떨어졌다
+	떨/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+올해
+	올해/ncn
+
+1~4월에도
+	1/nnc+~/sd+4/nnc+월/nbu+에/jca+도/jxc
+
+4.
+	4./nnc
+
+2~5.
+	2/nnc+~/sd+5./nnc
+
+3명에
+	3/nnc+명/nbu+에/jca
+
+불과했다
+	불과/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+경매물건
+	경매/ncn+물건/ncn
+
+1건당
+	1/nnc+건/nbu+당/xsnu
+
+4~5명밖에
+	4/nnc+~/sd+5/nnc+명/nbu+밖에/jxc
+
+응찰하지
+	응찰/ncpa+하/xsva+지/ecx
+
+않는다는
+	않/px+는다/ef+는/etm
+
+얘기다
+	얘/ncn+이/jp+기/etn+이/jp+다/ef
+
+.
+	./sf
+
+
+지지옥션
+	지지옥션/ncn
+
+경매자문센터
+	경매/ncn+자문/ncpa+센터/ncn
+
+하유정
+	하유정/ncn
+
+연구원은
+	연구/ncpa+원/ncn+은/jxc
+
+"경매로
+	"/sl+경매/ncn+로/jca
+
+싸게
+	싸/paa+게/ecs
+
+산다
+	사/pvg+ㄴ다/ef
+
+해도
+	하/pvg+어도/ecs
+
+일반
+	일반/ncn
+
+시장에서
+	시장/ncn+에서/jca
+
+되팔아야
+	되팔/pvg+아/ecx
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+아파트값
+	아파트/ncn+값/ncn
+
+하락세가
+	하락세/ncn+가/jcs
+
+당분간
+	당분간/mag
+
+이어질
+	잇/pvg+어/ecx+지/px+ㄹ/etm
+
+것이라는
+	것/nbn+이/jp+라/ef+는/etm
+
+전망
+	전망/ncn
+
+때문에
+	때문/nbn+에/jca
+
+수요자들의
+	수요자/ncn+들/ncn+의/jcm
+
+관심이
+	관심/ncn+이/jcc
+
+떨어지고
+	떨어지/pvg+고/ecc
+
+있다"고
+	있/px+다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+유정인
+	유정/ncps+이/jp+ㄴ/etm
+
+기자
+	기/ncn+이/jp+자/ecc
+
+jeongin@kyunghyang.
+	jeongin/f+@/sy+kyunghyang/f+./sy
+
+com
+	com/f
+
+출처:경향신문
+	출처/ncn+:/sp+경향/ncn+신문/ncn

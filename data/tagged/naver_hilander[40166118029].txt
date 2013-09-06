@@ -1,0 +1,984 @@
+영화
+	영화/ncn
+
+토탈리콜한마디로
+	토탈/ncn+리콜/ncn+한마디/ncn+로/jca
+
+실망이다
+	실망/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+심지어
+	심지어/mag
+
+중간에
+	중간/ncn+에/jca
+
+졸았다
+	졸/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+아니
+	아니/ii
+
+잠시
+	잠시/mag
+
+잤다
+	자/pvg+아/ep+다/ef
+
+...
+	.../se
+
+
+(사실
+	(/sl+사/pvg+시/ep+ㄹ/etm
+
+리메이크라
+	리메이크/ncn+이/jp+라/ecs
+
+크게
+	크/paa+게/ecs
+
+기대를
+	기대/ncpa+를/jco
+
+안했는데도
+	안하/pvg+었/ep+는데/ecs+도/jxc
+
+이렇다;;;;)후배의
+	이렇다;;;;)후배/ncn+의/jcm
+
+말을
+	말/ncn+을/jco
+
+빌면'원작을
+	빌/pvg+면/ecs+'/sr+원작/ncn+을/jco
+
+알면
+	알/pvg+면/ecs
+
+통곡할
+	통곡/ncpa+하/xsva+ㄹ/etm
+
+영화
+	영화/ncn
+
+.
+	./sf
+
+
+원작을
+	원작/ncn+을/jco
+
+모르면
+	모르/pvg+면/ecs
+
+그냥
+	그냥/mag
+
+지루한
+	지루/ncps+하/xsms+ㄴ/etm
+
+액션영화
+	액션영화/ncn
+
+.'
+	./sf+'/sl
+
+
+나
+	나/npp
+
+역시
+	역시/mag
+
+딱
+	딱/mag
+
+공감이상하리만치
+	공감이상하리만치/ncn
+
+대부분의
+	대부분/ncn+의/jcm
+
+영화에서콜린
+	영화에서콜린/ncn
+
+파렐은
+	파렐/ncn+은/jxc
+
+존재감이
+	존재/ncn+감/ncn+이/jcc
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+이번
+	이/nnc+번/nbu
+
+토탈리콜에서는
+	토탈/ncn+리콜/ncn+에서/jca+는/jxc
+
+배경에
+	배경/ncn+에/jca
+
+묻혀버리는
+	묻히/pvg+어/ecx+버리/px+는/etm
+
+느낌이다
+	느낌/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+전작과
+	전작/ncn+과/jct
+
+달리
+	달리/mag
+
+배경이
+	배경/ncn+이/jcc
+
+너무
+	너무/mag
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+탓도
+	탓/ncpa+도/jxc
+
+있겠다
+	있/px+겠/ep+다/ef
+
+.
+	./sf
+
+
+배경팀
+	배경/ncn+팀/ncn
+
+정말
+	정말/mag
+
+열심히
+	열심히/mag
+
+했다는
+	하/px+었/ep+다/ef+는/etm
+
+생각은
+	생각/ncpa+은/jxc
+
+든다
+	들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+당연히
+	당연히/mag
+
+기술적인
+	기술/ncn+적/ncn+이/jp+ㄴ/etm
+
+진보는
+	진보/ncpa+는/jxc
+
+크다
+	크/paa+다/ef
+
+.
+	./sf
+
+
+하지만이걸
+	하지만이걸/ncn
+
+제대로
+	제대로/mag
+
+살리지
+	살리/pvg+지/ecx
+
+못했다
+	못하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+(그런데
+	(/sl+그런데/maj
+
+이상한건
+	이상/ncn+한/ncn+건/xsnx
+
+후반부
+	후반부/ncn
+
+부터는
+	부터/ncn+는/jxc
+
+왠지
+	왠지/mag
+
+TV
+	TV/f
+
+시리즈
+	시리즈/ncn
+
+같은
+	같/paa+은/etm
+
+어색한
+	어색/ncn+한/ncn
+
+특수효과장면이몇몇
+	특수효과장면이몇몇/ncn
+
+보이더라)스포일러가
+	보이더라)스포일러/ncn+가/jcs
+
+튀어나올
+	튀/pvg+어/ecx+나/px+아/ecx+오/px+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있으니
+	있/px+으니/ecs
+
+지금
+	지금/mag
+
+부터는
+	부터/ncn+는/jxc
+
+조심하시라
+	조심/ncpa+하시/ncn+이/jp+라/ef
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+몇몇
+	몇/nnc+몇/nnc
+
+액션
+	액션/ncn
+
+장면이나
+	장면/ncn+이나/jcj
+
+배경들은블레이드러너,
+	배경들은블레이드러너,/ncn
+
+마이너리티
+	마이너리티/ncn
+
+리포트
+	리포트/ncpa
+
+등
+	등/nbu
+
+예전영화들을
+	예전/ncn+영화/ncn+들/ncn+을/jco
+
+연상
+	연상/ncn
+
+시킨다
+	시키/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+특히토탈리콜에서
+	특히토탈리콜/ncn+에서/jca
+
+공을
+	공/ncn+을/jco
+
+들였다는
+	들이/px+었/ep+다/ef+는/etm
+
+액션
+	액션/ncn
+
+장면
+	장면/ncn
+
+중
+	중/nbn
+
+하나인
+	하나/nnc+이/jp+ㄴ/etm
+
+호버카
+	호버카/ncn
+
+신은마이너리티
+	신은마이너리티/ncn
+
+리포트나
+	리포트/ncpa+나/jcj
+
+제5원소에
+	제5원소/ncn+에/jca
+
+나왔던
+	나/pvg+아/ecx+오/px+아/ep+ㄴ/etm
+
+호버카
+	호버카/ncn
+
+장면을닮기도
+	장면을닮기/ncn+도/jxc
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+문제는마이너리티
+	문제는마이너리티/ncn
+
+리포트나
+	리포트/ncpa+나/jcj
+
+제5원소를
+	제5원소/ncn+를/jco
+
+뛰어넘지
+	뛰어넘/pvg+지/ecx
+
+못했다는
+	못하/px+었/ep+다/ef+는/etm
+
+것.간간히
+	것.간간히/ncn
+
+등장하는
+	등장/ncpa+하/xsva+는/etm
+
+원작
+	원작/ncn
+
+토탈리콜의
+	토탈/ncn+리콜/ncn+의/jcm
+
+주요
+	주요/ncps
+
+장면에
+	장면/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+리메이크도
+	리메이크/ncn+도/jxc
+
+실패했다
+	실패/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+원작
+	원작/ncn
+
+토탈리콜의
+	토탈/ncn+리콜/ncn+의/jcm
+
+가장
+	가장/mag
+
+충격적인
+	충격/ncn+적/ncn+이/jp+ㄴ/etm
+
+시퀀스
+	시퀀스/ncn
+
+중
+	중/nbn
+
+하나인
+	하나/nnc+이/jp+ㄴ/etm
+
+출입국
+	출입국/ncn
+
+관리소
+	관리소/ncn
+
+신에서주인공이
+	신에서주인공/ncn+이/jcc
+
+여성
+	여성/ncn
+
+가면을
+	가면/ncn+을/jco
+
+쓰고변장했다가
+	쓰고변장했다/ncn+가/jcs
+
+이게
+	이/npd+이/jp+게/ecs
+
+들통나는
+	들통나/pvg+는/etm
+
+장면을
+	장면/ncn+을/jco
+
+..
+	./sf+./sf
+
+
+가면이
+	가면/ncn+이/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+홀로그램으로
+	홀로그램/ncn+으로/jca
+
+처리했는데
+	처리/ncpa+하/xsva+었/ep+는데/ecs
+
+이
+	이/mmd
+
+장면의
+	장면/ncn+의/jcm
+
+충격이
+	충격/ncn+이/jcc
+
+몹시
+	몹시/mag
+
+약하기만하다
+	약하기만하다/ncn
+
+그나마
+	그/npp+나마/jxc
+
+원작에서
+	원작/ncn+에서/jca
+
+보여준
+	보이/pvg+어/ecx+주/px+ㄴ/etm
+
+여자
+	여자/ncn
+
+가면을
+	가면/ncn+을/jco
+
+닮은
+	닮/pvg+은/etm
+
+여성이
+	여성/ncn+이/jcc
+
+나와
+	나/npp+와/jct
+
+똑같은
+	똑같/paa+은/etm
+
+대사인
+	대사/ncn+이/jp+ㄴ/etm
+
+'2
+	'/sr+2/nnc
+
+weeks'를
+	weeks/f+'/sr+를/jco
+
+말하긴
+	말하긴/ncn
+
+하는데주의력이
+	하는데주의력/ncn+이/jcc
+
+약한
+	약하/paa+ㄴ/etm
+
+사람은그냥
+	사람은그냥/ncn
+
+지나칠수도
+	지나치/pvg+ㄹ/etm+수/nbn+도/jxc
+
+있을만큼
+	있/px+을/etm+만큼/nbn
+
+특별하게
+	특별/ncps+하/xsms+게/ecs
+
+느끼지
+	느끼/pvg+지/ecx
+
+못하겠다
+	못하/px+겠/ep+다/ef
+
+.
+	./sf
+
+
+가장
+	가장/mag
+
+큰
+	크/paa+ㄴ/etm
+
+문제는
+	문제/ncn+는/jxc
+
+다소
+	다소/mag
+
+변경된
+	변경/ncpa+되/xsvn+ㄴ/etm
+
+영화
+	영화/ncn
+
+스토리
+	스토리/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+스토리도
+	스토리/ncn+도/jxc
+
+스토리지만이렇게
+	스토리지만이렇게/ncn
+
+긴박감이
+	긴박감/ncn+이/jcc
+
+없게
+	없/paa+게/ecs
+
+만들수도
+	만들/pvg+ㄹ/etm+수/nbn+도/jxc
+
+있는건지;;;게다가악역으로
+	있는건지;;;게다가악역/ncn+으로/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+수상
+	수상/ncpa
+
+코하겐이
+	코하겐/ncn+이/jcc
+
+마지막부분에무술의
+	마지막부분에무술/ncn+의/jcm
+
+달인으로
+	달인/ncn+으로/jca
+
+나오는게
+	나/pvg+아/ecx+오/px+는게/ecs
+
+..
+	./sf+./sf
+
+
+영B급영화를
+	영B급영화/ncn+를/jco
+
+보는것
+	보/px+는/etm+것/nbn
+
+같았다
+	같/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+영화의
+	영화/ncn+의/jcm
+
+보너스랄까
+	보너스랄까/ncn
+
+..
+	./sf+./sf
+
+
+영화
+	영화/ncn
+
+도중에
+	도중/ncn+에/jca
+
+간간히
+	간간히/mag
+
+한글이보인다
+	한글이보/ncn+이/jp+ㄴ다/ef
+
+.
+	./sf
+
+
+위
+	위/ncn
+
+사진처럼
+	사진/ncn+처럼/jca
+
+마지막에
+	마지막/ncn+에/jca
+
+'리콜'이라는
+	'/sr+리콜/ncn+'/sr+이/jp+라/ef+는/etm
+
+간판이
+	간판/ncn+이/jcc
+
+크게
+	크/paa+게/ecs
+
+보이기도
+	보이/pvg+기/etn+도/jxc
+
+하고(사실
+	하고(사/ncn+이/jp+시/ep+ㄹ/etm
+
+이미
+	이미/mag
+
+영화
+	영화/ncn
+
+초반에
+	초반/ncn+에/jca
+
+'리콜'이라는
+	'/sr+리콜/ncn+'/sr+이/jp+라/ef+는/etm
+
+간판이
+	간판/ncn+이/jcc
+
+슬쩍
+	슬쩍/mag
+
+지나가기도
+	지나/pvg+아/ecx+가/px+기/etn+도/jxc
+
+한다
+	하/px+ㄴ다/ef
+
+.)
+	./sf+)/sr
+
+
+영화
+	영화/ncn
+
+중간에
+	중간/ncn+에/jca
+
+콜린
+	콜린/ncn
+
+파렐이
+	파렐/ncn+이/jcc
+
+대화하는
+	대화/ncpa+하/xsva+는/etm
+
+장면
+	장면/ncn
+
+뒤로
+	뒤/ncn+로/jca
+
+경찰차
+	경찰/ncn+차/ncn
+
+지붕
+	지붕/ncn
+
+위에'이십오'라는
+	위/ncn+에/jca+'/sr+이/nnc+십/nnc+오/nnc+'/sr+라는/jcm
+
+글자가
+	글자/ncn+가/jcs
+
+크게
+	크/paa+게/ecs
+
+보이기도
+	보이/pvg+기/etn+도/jxc
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+(사실
+	(/sl+사/pvg+시/ep+ㄹ/etm
+
+이
+	이/mmd
+
+경찰차는
+	경찰/ncn+차/ncn+는/jxc
+
+내
+	내/npp
+
+기억에
+	기억/nnc+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+2075번
+	2075/nnc+번/nbu
+
+이었는데
+	이/npd+이/jp+었/ep+는데/ecs
+
+이거
+	이거/npd
+
+내가
+	나/npp+가/jcs
+
+잘
+	잘/mag
+
+못
+	못/mag
+
+본건가;;;;
+	본건가;;;;/ncn
+
+잘
+	잘/mag
+
+못
+	못/mag
+
+본게
+	보/px+ㄴ게/ecs
+
+아니라면
+	아니/paa+라면/ecs
+
+옥의
+	옥/ncn+의/jcm
+
+티;;)
+	티;;)/ncn
+
+*
+	*/sy
+
+*
+	*/sy
+
+*
+	*/sy
+
+*
+	*/sy
+
+*
+	*/sy
+
+*
+	*/sy
+
+*
+	*/sy
+
+다수의
+	다수/ncn+의/jcm
+
+헐리우드
+	헐리우드/ncn
+
+액션/SF영화를
+	액션/ncn+//sp+SF/f+영화/ncn+를/jco
+
+조합해놓은
+	조합/ncpa+하/xsva+어/ecx+놓/px+은/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+느낌
+	느끼/pvg+ㅁ/etn
+
+..
+	./sf+./sf
+
+
+감독은
+	감독/ncpa+은/jxc
+
+자기가
+	자기/npp+가/jcs
+
+무슨
+	무슨/mmd
+
+영화를
+	영화/ncn+를/jco
+
+리메이크
+	리메이크/ncn
+
+하고
+	하/pvg+고/ecc
+
+있는건지
+	있/px+는/etm+것/nbn+이/jp+ㄴ지/ecs
+
+잘
+	잘/mag
+
+모르겠는것
+	모르/pvg+겠/ep+는/etm+것/nbn
+
+같았다
+	같/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+특수효과등
+	특수효과/ncn+등/ncn
+
+기술적인면에서는
+	기술적인면에서/ncn+는/jxc
+
+점수를
+	점수/ncn+를/jco
+
+주고
+	주/px+고/ecc
+
+싶은데
+	싶/px+은/etm+데/nbn
+
+..
+	./sf+./sf
+
+
+내가
+	나/npp+가/jcs
+
+보기엔
+	보/px+기/etn+엔/jca
+
+특수효과
+	특수효과/ncn
+
+팀이
+	팀/ncn+이/jcc
+
+영화를
+	영화/ncn+를/jco
+
+잘
+	잘/mag
+
+못
+	못/mag
+
+만난것
+	만나/pvg+ㄴ/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+토탈리콜
+	토탈/ncn+리콜/ncn
+
+말고
+	말/px+고/ecc
+
+다른
+	다르/paa+ㄴ/etm
+
+시나리오를
+	시나리오/ncn+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+영화를
+	영화/ncn+를/jco
+
+만들었으면
+	만들/pvg+었/ep+으면/ecs
+
+더
+	더/mag
+
+좋았을지도
+	좋/paa+아/ep+ㄹ지/ecs+도/jxc
+
+모르겠다
+	모르/pvg+겠/ep+다/ef
+
+.
+	./sf

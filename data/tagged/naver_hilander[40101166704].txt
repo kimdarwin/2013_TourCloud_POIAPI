@@ -1,0 +1,918 @@
+대치동
+	대치/ncpa+동/ncn
+
+여수
+	여수/ncn
+
+동촌
+	동촌/ncn
+
+
+요즘
+	요즘/mag
+
+제철인
+	제철/ncn+이/jp+ㄴ/etm
+
+새조개를
+	새조개/ncn+를/jco
+
+먹으러
+	먹/pvg+으러/ecs
+
+들렀다
+	들르/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+대치점
+	대치/ncpa+점/ncn
+
+사장님이
+	사장님/ncn+이/jcc
+
+여수에
+	여수/ncn+에/jca
+
+동촌이라는
+	동촌/ncn+이/jp+라/ef+는/etm
+
+상호를
+	상호/ncn+를/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+곳과
+	곳/ncn+과/jcj
+
+형제지간이라고
+	형제지간/ncn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+논현동에
+	논현/ncn+동/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+여수동촌은
+	여수동촌/ncn+은/jxc
+
+친구분(
+	친구분(/ncn
+
+?)
+	?/sf+)/sr
+
+
+이
+	이/mmd
+
+하신다고
+	하/px+시/ep+ㄴ다/ef+고/jcr
+
+..
+	./sf+./sf
+
+
+주
+	주/nbu
+
+식재료를
+	식재료/ncn+를/jco
+
+비롯한
+	비롯/ncpa+하/xsva+ㄴ/etm
+
+대부분의
+	대부분/ncn+의/jcm
+
+재료를
+	재료/ncn+를/jco
+
+여수에서
+	여수/ncn+에서/jca
+
+공수해
+	공수해/ncn
+
+온다고
+	오/px+ㄴ다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+기본
+	기본/ncn
+
+상차림
+	상차림/ncn
+
+
+내가
+	나/npp+가/jcs
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+3종세트
+	3종세트/ncn
+
+문어,
+	문어/ncn+,/sp
+
+굴,
+	굴/pvg+ㄹ/etm+,/sp
+
+홍어~
+	홍어/ncn+~/sd
+
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+동치미에
+	동치미/ncn+에/jca
+
+
+멸치젓(
+	멸치젓(/ncn
+
+..
+	./sf+./sf
+
+
+인지갈치속젓인지
+	인지갈치속젓/ncn+이/jp+ㄴ지/ecs
+
+..)
+	./sf+./sf+)/sr
+
+
+,
+	,/sp
+
+호박전
+	호박/ncn+전/ncn
+
+등등
+	등등/nbn
+
+
+여수
+	여수/ncn
+
+돌산
+	돌산/ncn
+
+갓김치
+	갓김치/ncn
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+요거
+	요거/ncn
+
+하나만
+	하나/nnc+만/jxc
+
+있어도
+	있/px+어도/ecs
+
+밥
+	밥/ncn
+
+한그릇
+	한/nnc+그릇/nbu
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+^^
+	^/sy+^/sy
+
+
+메뉴판
+	메뉴판/ncn
+
+
+겨울에는
+	겨울/ncn+에/jca+는/jxc
+
+새조개,
+	새조개,/ncn
+
+여름에는
+	여름/ncn+에/jca+는/jxc
+
+하모가
+	하모/ncn+가/jcs
+
+주
+	주/nbu
+
+메뉴인듯
+	메뉴/ncn+이/jp+ㄴ/etm+듯/nbs
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+활어
+	활어/ncn
+
+사시미,
+	사시/ncn+미/ncn+,/sp
+
+해물모듬,
+	해물모듬,/ncn
+
+서대회
+	서대회/ncn
+
+무침,
+	무침/ncn+,/sp
+
+그리고
+	그리고/maj
+
+기타
+	기타/ncn
+
+해산물도
+	해산물/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+주문을
+	주문/ncn+을/jco
+
+마치고
+	마치/pvg+고/ecc
+
+시원~한
+	시원/ncps+~/sd+한/nnc
+
+맥주
+	맥주/ncn
+
+한잔^^
+	한잔/ncn+^/sy+^/sy
+
+
+지인이
+	지인/ncn+이/jcc
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+오신
+	오/px+시/ep+ㄴ/etm
+
+화이트와인
+	화이트/ncn+와인/ncn
+
+
+샤도
+	샤/ncn+도/jxc
+
+몽페라
+	몽페라/ncn
+
+블랑
+	블랑/ncn
+
+2007
+	2007/nnc
+
+
+Chateau
+	Chateau/f
+
+Mont-PeratBlanc
+	Mont/f+-/sd+PeratBlanc/f
+
+2007
+	2007/nnc
+
+
+쇼비뇽
+	쇼비뇽/ncn
+
+블랑(Sauvignon
+	블랑(Sauvignon/ncn
+
+Blanc)
+	Blanc/f+)/sr
+
+특유의
+	특유/ncps+의/jcm
+
+과일향이
+	과일/ncn+향/ncn+이/jcc
+
+입안을
+	입안/ncpa+을/jco
+
+기분
+	기분/ncn
+
+좋게
+	좋/paa+게/ecs
+
+하는
+	하/pvg+는/etm
+
+와인~
+	와인/ncn+~/sd
+
+
+단정한
+	단정/ncps+하/xsms+ㄴ/etm
+
+클라우디베이
+	클라우디베/ncn+이/jcc
+
+느낌이랄까
+	느낌이랄까/ncn
+
+..
+	./sf+./sf
+
+
+육수
+	육수/ncn
+
+끓이고
+	끓이/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+시금치,
+	시금치/ncn+,/sp
+
+팽이버섯
+	팽이버섯/ncn
+
+등
+	등/nbu
+
+야채
+	야채/ncn
+
+먼저
+	먼저/mag
+
+듬뿍
+	듬뿍/mag
+
+넣어주고
+	넣어주/pvg+고/ecc
+
+
+새조개
+	새조개/ncn
+
+
+새조개를
+	새조개/ncn+를/jco
+
+시키면
+	시키/pvg+면/ecs
+
+가리비(위쪽)가
+	가리비(위쪽)/ncn+가/jcs
+
+함께
+	함께/mag
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+조개의
+	조개/ncn+의/jcm
+
+다리가
+	다리/ncn+가/jcs
+
+새의
+	새/ncn+의/jcm
+
+부리
+	부/ncn+이/jp+리/ef
+
+모양을
+	모양/ncn+을/jco
+
+닮아서
+	닮/pvg+아/ecx
+
+새조개라고
+	새조개/ncn+이/jp+라/ef+고/jcr
+
+불린다
+	불리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+일본에서는
+	일/nnc+본/nbu+에서/jca+는/jxc
+
+주로
+	주로/mag
+
+초밥으로
+	초밥/ncn+으로/jca
+
+먹지만
+	먹/pvg+지/ecx+말/px+ㄴ/etm
+
+여수
+	여수/ncn
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+샤브샤브로
+	샤브샤브/ncn+로/jca
+
+먹는다고
+	먹/pvg+는다/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+새조개는
+	새조개/ncn+는/jxc
+
+양식이
+	양식/ncn+이/jcc
+
+없기
+	없/paa+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+100%
+	100/nnc+%/su
+
+자연산이란다
+	자연산이란다/ncn
+
+.
+	./sf
+
+
+새조개를
+	새조개/ncn+를/jco
+
+머릿수대로
+	머릿수/ncn+대로/jca
+
+투하하여
+	트/pvg+어/ecx+하/px+어/ecx+하/px+어/ecx
+
+살짝
+	살짝/mag
+
+익힌다
+	익히/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+익혀서
+	익히/pvg+어서/ecs
+
+꺼내
+	꺼내/pvg+어/ecx
+
+놓으니
+	놓/pvg+으니/ecc
+
+
+좀더
+	좀더/mag
+
+새의
+	새/ncn+의/jcm
+
+부리
+	부리/ncn
+
+모양처럼
+	모양/ncn+처럼/jca
+
+보이는듯~
+	보이/pvg+는/etm+듯/nbs+~/sd
+
+
+초장에
+	초장/ncn+에/jca
+
+찍어
+	찍/pvg+어/ecx
+
+야채와
+	야채/ncn+와/jct
+
+함께
+	함께/mag
+
+먹으면
+	먹/pvg+으면/ecs
+
+야들야들하니
+	야들야들하니/ncn
+
+기가
+	기/ncn+가/jcs
+
+막히다
+	막히/pvg+다/ef
+
+^^
+	^/sy+^/sy
+
+
+가리비도
+	가리/ncn+비/ncn+도/jxc
+
+부드러워
+	부드럽/paa+어/ecx
+
+샤르르
+	샤르르/ncn
+
+녹는다
+	녹/pvg+는다/ef
+
+
+기본찬으로
+	기본/ncn+찬/ncn+으로/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+홍어가
+	홍어/ncn+가/jcs
+
+맛있어서
+	맛있/paa+어서/ecs
+
+
+조금더
+	조금더/ncn
+
+달라고
+	다르/paa+아/ef+고/jcr
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+고춧가루
+	고춧가루/ncn
+
+섞은
+	섞/pvg+은/etm
+
+소금장에
+	소금/ncn+장/ncn+에/jca
+
+살짝
+	살짝/mag
+
+찍어
+	찍/pvg+어/ecx
+
+먹으면
+	먹/pvg+으면/ecs
+
+굿~
+	굿/ncn+~/sd
+
+
+막걸리가
+	막걸리/ncn+가/jcs
+
+무지
+	무/ncn+이/jp+지/ecs
+
+땡겼으나
+	땡겼으/ncn+이/jp+나/ecs
+
+아쉽게도
+	아쉽/paa+게/ecs+도/jxc
+
+..
+	./sf+./sf
+
+
+맥주로
+	맥주/ncn+로/jca
+
+..
+	./sf+./sf
+
+
+-.-;;
+	-/sd+./sf+-/sd+;/sy+;/sy
+
+
+아뭏든
+	아뭏든/ncn
+
+다행히
+	다행히/mag
+
+일행중에
+	일행/ncn+중/ncn+에/jca
+
+홍어
+	홍어/ncn
+
+못드시는
+	못드시/ncn+는/jxc
+
+분이
+	분/nbu+이/jcc
+
+계셔서
+	계/ncn+이/jp+시/ep+어서/ecs
+
+
+감사한
+	감사/ncpa+하/xsva+ㄴ/etm
+
+마음으로
+	마음/ncn+으로/jca
+
+스스슥
+	스스슥/ncn
+
+..
+	./sf+./sf
+
+
+서대회무침도
+	서대회무침/ncn+도/jxc
+
+주문해
+	주문/ncn+해/ncn
+
+봤다
+	보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+서대회무침도
+	서대회무침/ncn+도/jxc
+
+여수의
+	여수/ncn+의/jcm
+
+유명한
+	유명/ncn+한/ncn
+
+음식
+	음식/ncn
+
+중
+	중/nbn
+
+하나이다
+	하나/nnc+이/jp+다/ef
+
+.
+	./sf
+
+
+예전에
+	예전/ncn+에/jca
+
+여수
+	여수/ncn
+
+삼학집에서
+	삼학집/ncn+에서/jca
+
+막걸리와
+	막걸리/ncn+와/jct
+
+함께
+	함께/mag
+
+먹던
+	먹/pvg+던/etm
+
+서대회무침이
+	서대회무침/ncn+이/jcc
+
+맛있었는데
+	맛있/paa+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+언제
+	언제/mag
+
+다시
+	다시/mag
+
+가게
+	가/px+게/ecs
+
+될지
+	되/pvg+ㄹ지/ecs
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+함께
+	함께/mag
+
+가신
+	가/px+시/ep+ㄴ/etm
+
+일행분이
+	일행/ncn+분/ncn+이/jcc
+
+여수에서
+	여수/ncn+에서/jca
+
+잠시
+	잠시/mag
+
+계셨던
+	계시/paa+었/ep+던/etm
+
+분인데
+	분/nbn+이/jp+ㄴ데/ecs
+
+
+서울에서
+	서울/ncn+에서/jca
+
+먹었던
+	먹/pvg+었/ep+던/etm
+
+서대회
+	서대회/ncn
+
+무침중에서
+	무침/ncn+중/ncn+에서/jca
+
+가장
+	가장/mag
+
+여수맛이랑
+	여수/ncn+맛/ncn+이/jcs+랑/jxc
+
+같다고
+	같/paa+다/ef+고/jcr
+
+하시네
+	하/px+시/ep+네/ef
+
+..
+	./sf+./sf
+
+
+서대회무침은
+	서대회무침/ncn+은/jxc
+
+원래
+	원래/mag
+
+막걸리
+	막걸리/ncn
+
+식초로
+	식초/ncn+로/jca
+
+만들어야
+	만들/pvg+어야/ecs
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+
+이곳
+	이곳/npd
+
+여수동촌에서는
+	여수동촌에서/ncn+는/jxc
+
+당연히(
+	당연히(/ncn
+
+!)
+	!/sf+)/sr
+
+
+막걸리
+	막걸리/ncn
+
+식초를
+	식초/ncn+를/jco
+
+쓴다고
+	쓰/pvg+ㄴ다/ef+고/jcr
+
+..
+	./sf+./sf
+
+
+여수동촌
+	여수동촌/ncn
+
+대치점
+	대치/ncpa+점/ncn
+
+
+02-556-0530
+	02/nnc+-556/nnc+-0530/nnc
+
+
+강남구
+	강남/ncn+구/ncn
+
+대치동
+	대치/ncpa+동/ncn
+
+903-18번지
+	903-18번지/ncn
+
+
+(
+	(/sl
+
+포스코사거리에서
+	포스코사거리에서/ncn
+
+은마아파트
+	은마/ncn+아파트/ncn
+
+방향으로
+	방향/ncn+으로/jca
+
+포스코
+	포스코/ncn
+
+더샵아파트
+	더샵아파트/ncn
+
+뒷편)
+	뒷편/ncn+)/sr

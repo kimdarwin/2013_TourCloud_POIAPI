@@ -1,0 +1,4166 @@
+웰컴투동막골
+	웰컴투동막골/ncn
+
+세트장
+	세트/ncn+장/ncn
+
+/
+	//sp
+
+평창여행지
+	평창여행지/ncn
+
+가볼만한곳
+	가볼만한곳/ncn
+
+/
+	//sp
+
+평창
+	평창/ncn
+
+영화세트장
+	영화/ncn+세트/ncn+장/ncn
+
+
+산바람이
+	산바람/ncn+이/jcc
+
+필름처럼
+	필름/ncn+처럼/jca
+
+돌아가는
+	돌/pvg+아/ecx+가/px+는/etm
+
+영화세트장에서
+	영화/ncn+세트/ncn+장/ncn+에서/jca
+
+...
+	.../se
+
+
+미탄면
+	미탄/ncn+면/ncn
+
+율치리에있는
+	율치리에있/ncn+는/jxc
+
+웰컴투동막골
+	웰컴투동막골/ncn
+
+영화세트장.
+	영화/ncn+세트/ncn+장/ncn+./sf
+
+1950년대
+	1950/nnc+년대/nbu
+
+산골마을
+	산골/ncn+마을/ncn
+
+재현해
+	재현/ncpa+하/xsva+어/ecx
+
+놓은
+	놓/px+은/etm
+
+영화세트장입니다
+	영화/ncn+세트/ncn+장/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+6.
+	6./nnc
+
+25전쟁
+	25전쟁/ncn
+
+당시의
+	당시/ncn+의/jcm
+
+이야기를
+	이야기/ncpa+를/jco
+
+동화속
+	동화/ncn+속/ncn
+
+이야기처럼
+	이야기/ncpa+처럼/jca
+
+맘아프게
+	맘아프/ncn+이/jp+게/ecs
+
+또는
+	또는/maj
+
+익살스럽게
+	익살/ncpa+스럽/xsmn+게/ecs
+
+표현했던
+	표현/ncpa+하/xsva+었/ep+던/etm
+
+영화이지요
+	영화/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+배우들의
+	배우/ncn+들/ncn+의/jcm
+
+연기가
+	연기/ncn+가/jcs
+
+참
+	참/mag
+
+인상적이었던
+	인상/ncn+적/ncn+이/jp+었/ep+던/etm
+
+영화인데요
+	영화인데요/ncn
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+영화의
+	영화/ncn+의/jcm
+
+배경이
+	배경/ncn+이/jcc
+
+고스란히
+	고스란히/mag
+
+남겨져
+	남기/pvg+어/ecx+지/px+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+팝콘이
+	팝콘/ncn+이/jcc
+
+하늘에서
+	하늘/ncn+에서/jca
+
+쏟아지던
+	쏟/pvg+아/ecx+지/px+던/etm
+
+헛간도
+	헛간/ncn+도/jxc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+스미스가
+	스미스/ncn+가/jcs
+
+타고왔던
+	타/pvg+고/ecx+오/px+아/ep+ㄴ/etm
+
+비행기도
+	비행기/ncn+도/jxc
+
+뒷편에
+	뒷편/ncn+에/jca
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+산속
+	산속/ncn
+
+영화세트장은
+	영화/ncn+세트/ncn+장/ncn+은/jxc
+
+저녁무렵이라
+	저녁무렵/ncn+이/jp+라/ecs
+
+좀
+	좀/mag
+
+을씨년스러워
+	을씨년/ncps+스럽/xsmn+어/ecx
+
+보이기는
+	보이/pvg+기/etn+는/jxc
+
+했지만
+	하/px+었/ep+지만/ecs
+
+영화의
+	영화/ncn+의/jcm
+
+장면을
+	장면/ncn+을/jco
+
+떠올리며
+	떠올리/pvg+며/ecc
+
+흐뭇한
+	흐뭇/ncps+하/xsms+ㄴ/etm
+
+미소를
+	미소/ncn+를/jco
+
+짓게
+	짓/pvg+게/ecs
+
+했던
+	하/px+었/ep+던/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+평창의
+	평창/ncn+의/jcm
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+여행지가
+	여행지/ncn+가/jcs
+
+되었지요
+	되/pvg+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+평창
+	평창/ncn
+
+-
+	-/sd
+
+웰컴투동막골
+	웰컴투동막골/ncn
+
+영화세트장
+	영화/ncn+세트/ncn+장/ncn
+
+
+마을로
+	마을/ncn+로/jca
+
+접어드는
+	접어들/pvg+는/etm
+
+길은
+	길/ncn+은/jxc
+
+여느
+	여느/mma
+
+관광지처럼
+	관광지/ncn+처럼/jca
+
+넓은
+	넓/paa+은/etm
+
+길은
+	길/ncn+은/jxc
+
+아니더라구요
+	아니/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+율치리
+	율치리/ncn
+
+마을을
+	마을/ncn+을/jco
+
+지나서
+	지나/pvg+아/ecx
+
+세트장으로
+	세트/ncn+장/ncn+으로/jca
+
+들어가는데요
+	들/pvg+어/ecx+가/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+마을
+	마을/ncn
+
+담벼락에
+	담벼락/ncn+에/jca
+
+낙서처럼
+	낙서/ncn+처럼/jca
+
+그려진
+	그리/pvg+어/ecx+지/px+ㄴ/etm
+
+웰컴투동막골
+	웰컴투동막골/ncn
+
+관련
+	관련/ncn
+
+벽화가
+	벽화/ncn+가/jcs
+
+귀엽더라구요
+	귀엽/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+창밖으로만
+	창밖/ncn+으로/jca+만/jxc
+
+보면서
+	보/px+면서/ecc
+
+..
+	./sf+./sf
+
+
+무지
+	무지/ncn
+
+아쉬워했습니다
+	아쉽/paa+어/ecx+하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+마을에서도
+	마을/ncn+에서/jca+도/jxc
+
+차로
+	차/ncn+로/jca
+
+5분이상
+	5/nnc+분/nbu+이상/xsnu
+
+더
+	더/mag
+
+올라왔으니
+	오르/pvg+아/ecx+오/px+아/ep+니/ecs
+
+걸어서
+	걷/pvg+어서/ecs
+
+가기는
+	가/px+기/etn+는/jxc
+
+조금
+	조금/mag
+
+부담스러운
+	부담/ncpa+스럽/xsmn+은/etm
+
+거리라
+	거리/ncn+이/jp+라/ecs
+
+아쉬움만
+	아쉬움/ncn+만/jxc
+
+가진채
+	가/pvg+아/ecx+지/px+ㄴ/etm+채/nbn
+
+세트장
+	세트/ncn+장/ncn
+
+주차장으로
+	주차장/ncn+으로/jca
+
+갔습니다
+	가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+율치리는
+	율치리/ncn+는/jxc
+
+밤이
+	밤/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+나서
+	나/px+서/ecs
+
+밤
+	밤/ncn
+
+자를
+	자/nbn+를/jco
+
+쓰는
+	쓰/pvg+는/etm
+
+마을
+	마을/ncn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+가을에
+	가을/ncn+에/jca
+
+오면
+	오/px+면/ecs
+
+밤이
+	밤/ncn+이/jcc
+
+주렁주렁
+	주렁주렁/mag
+
+달린
+	달리/pvg+ㄴ/etm
+
+나무들을
+	나무/ncn+들/ncn+을/jco
+
+봤을려나
+	봤을려/ncn+이/jp+나/ecs
+
+..
+	./sf+./sf
+
+
+지금은
+	지금/ncn+은/jxc
+
+전혀
+	전혀/mag
+
+알
+	알/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+없더라구요
+	없/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+촬영한
+	촬영/ncpa+하/xsva+ㄴ/etm
+
+영화는
+	영화/ncn+는/jxc
+
+워낙
+	워낙/mag
+
+많이들
+	많이들/ncn
+
+보셔서
+	보/px+시/ep+어서/ecs
+
+아실테구요
+	아실테구요/ncn
+
+.
+	./sf
+
+
+전
+	전/nbn
+
+영화관이
+	영화관/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+한참
+	한참/mag
+
+지난뒤
+	지난/ncn+뒤/ncn
+
+티비에서
+	티비/ncn+에서/jca
+
+보긴
+	보긴/ncn
+
+했는데요
+	하/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+전쟁상황이라기보다는
+	전쟁상황/ncn+이/jp+라기/etn+보다/jca+는/jxc
+
+왠지
+	왠지/mag
+
+동화
+	동화/ncn
+
+속이야기처럼
+	속이야/ncn+이/jp+기/etn+처럼/jca
+
+정겹게
+	정겹/paa+게/ecs
+
+보이더라구요
+	보이/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+전체적인
+	전체/ncn+적/ncn+이/jp+ㄴ/etm
+
+스토리도
+	스토리/ncn+도/jxc
+
+그렇지만
+	그렇/pad+지만/ecs
+
+강원도
+	강원/ncn+도/jxc
+
+산간마을의
+	산간마을/ncn+의/jcm
+
+풍경과
+	풍경/ncn+과/jcj
+
+사람과
+	사람/ncn+과/jcj
+
+사람사이의
+	사람/ncn+사이/ncn+의/jcm
+
+뿌리깊은
+	뿌리깊/paa+은/etm
+
+교감이
+	교감/ncpa+이/jcc
+
+전해질때는
+	전하/pvg+어/ecx+지/px+ㄹ/etm+때/nbn+는/jxc
+
+따뜻해지기도
+	따뜻해지/pvg+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+말투와
+	말투/ncn+와/jcj
+
+행동에
+	행동/ncpa+에/jca
+
+피식
+	피식/mag
+
+웃음이
+	웃음/ncn+이/jcc
+
+나기도
+	나/npp+이/jp+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+...
+	.../se
+
+
+세트장을
+	세트/ncn+장/ncn+을/jco
+
+돌아보니
+	돌/pvg+아/ecx+보/px+니/ecs
+
+그
+	그/mmd
+
+장면들이
+	장면/ncn+들/ncn+이/jcc
+
+어렴풋이
+	어렴풋이/mag
+
+떠오르는
+	떠오르/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+새로웠습니다
+	새롭/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+평창여행할때마다
+	평창여행할때마다/ncn
+
+한번
+	한/nnc+번/nbu
+
+가봐야지하면서도
+	가봐야지하면서/ncn+도/jxc
+
+지금까지
+	지금/mag+까지/jxc
+
+가보지
+	가/pvg+아/ecx+보/px+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+장소이기도
+	장소/ncn+이/jp+기/etn+도/jxc
+
+했는데요
+	하/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+결국
+	결국/mag
+
+와보기는
+	오/pvg+아/ecx+보/px+기/etn+는/jxc
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+해질무렵
+	하/pvg+어/ecx+지/px+ㄹ/etm+무렵/nbn
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+산바람이
+	산바람/ncn+이/jcc
+
+불어주던
+	불/pvg+어/ecx+주/px+던/etm
+
+곳,
+	곳/ncn+,/sp
+
+어둑한하늘로붉은
+	어둑한하늘로붉/ncn+은/jxc
+
+구름이
+	구름/ncn+이/jcc
+
+피어오르던
+	피어오르/pvg+던/etm
+
+그
+	그/mmd
+
+시간으로
+	시간/nbu+으로/jca
+
+가보겠습니다
+	가/pvg+아/ecx+보/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기
+	여행/ncpa+이야기/ncpa
+
+-
+	-/sd
+
+마음이
+	마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+(여행일:
+	(/sl+여행/ncpa+이/jp+ㄹ/etm+:/sp
+
+2012
+	2012/nnc
+
+.
+	./sf
+
+
+08
+	08/nnc
+
+.
+	./sf
+
+
+01)
+	01/nnc+)/sr
+
+
+주차장
+	주차장/ncn
+
+한켠에
+	하/pvg+ㄴ/etm+켠/nbn+에/jca
+
+이런
+	이런/mmd
+
+곳이
+	곳/ncn+이/jcc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+동막바람
+	동막바람/ncn
+
+굴.
+	굴/pvg+ㄹ/etm+./sf
+
+..
+	./sf+./sf
+
+
+옛
+	옛/mma
+
+석탄광
+	석탄/ncn+광/ncn
+
+입구라고
+	입구/ncn+이/jp+라/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+얼마나
+	얼마나/mag
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+기운이
+	기운/ncn+이/jcc
+
+스며나오는지
+	스미/pvg+어/ecx+나/px+아/ecx+오/px+는지/ecs
+
+...
+	.../se
+
+
+신기함
+	신기/ncps+하/xsms+ㅁ/etn
+
+그
+	그/mmd
+
+자체입니다
+	자체/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+얼음골이
+	얼음/ncn+골/ncn+이/jcc
+
+따로
+	따로/mag
+
+없어요
+	없/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+첨엔
+	첨/ncn+엔/jca
+
+바람굴인것만
+	바람/ncn+굴/ncn+이/jp+ㄴ/etm+것/nbn+만/jxc
+
+보고는
+	보/px+고/ecs+는/jxc
+
+앞쪽으로
+	앞쪽/ncn+으로/jca
+
+다가가서
+	다가가/pvg+아/ecx
+
+어.
+	어./ncn
+
+.
+	./sf
+
+
+왜
+	왜/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+시원하지
+	시원/ncps+하/xsms+지/ecx
+
+?
+	?/sf
+
+
+하면서
+	하/pvg+면서/ecc
+
+감탄을
+	감탄/ncpa+을/jco
+
+했지요
+	하/px+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+여기
+	여기/mad
+
+동굴이
+	동굴/ncn+이/jcc
+
+있었나봐
+	있었나봐/ncn
+
+.
+	./sf
+
+
+하면서
+	하/pvg+면서/ecc
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+저기
+	저기/mad
+
+석탄광
+	석탄/ncn+광/ncn
+
+입구라고
+	입구/ncn+이/jp+라/ef+고/jcr
+
+되어
+	되/pvg+어/ecx
+
+있는데도
+	있/px+는데/ecs+도/jxc
+
+읽을
+	읽/pvg+을/etm
+
+줄도
+	줄/nbn+도/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+감탄만
+	감탄/ncpa+만/jxc
+
+한거죠
+	한거/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+근데
+	근데/ncn
+
+석탄광은
+	석탄/ncn+광/ncn+은/jxc
+
+다
+	다/mag
+
+이렇게
+	이렇/pad+게/ecs
+
+시원한건가요
+	시원/ncps+하/xsms+ㄴ/etm+것/nbn+이/jp+ㄴ가/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+아니면
+	아니/paa+면/ecs
+
+이곳의
+	이곳/npd+의/jcm
+
+지형적인
+	지형/ncn+적/ncn+이/jp+ㄴ/etm
+
+조건이
+	조건/ncn+이/jcc
+
+맞아
+	맞/pvg+아/ecx
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+것인지
+	것/nbn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+겨울엔
+	겨울/ncn+엔/jca
+
+아마도
+	아마/mag+도/jxc
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+기운이
+	기운/ncn+이/jcc
+
+스며나오려나요
+	스미/pvg+어/ecx+나/px+아/ecx+오/px+려/ecx+나/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+지하의
+	지하/ncn+의/jcm
+
+서늘하고
+	서늘/ncps+하고/jct
+
+습한
+	습하/paa+ㄴ/etm
+
+기운이
+	기운/ncn+이/jcc
+
+쉼없이
+	쉼없이/mag
+
+스며나오니
+	스미/pvg+어/ecx+나/px+아/ecx+오/px+니/ecs
+
+여기선
+	여기/npd+선/jxc
+
+여름은
+	여름/ncn+은/jxc
+
+존재하지
+	존재/ncpa+하/xsva+지/ecx
+
+않을
+	않/px+을/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+두팔
+	두/nnc+팔/nnc
+
+벌려
+	벌리/pvg+어/ecx
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+공기를
+	공기/ncn+를/jco
+
+만끽하고
+	만끽/ncpa+하고/jct
+
+계시네요
+	계시/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+바람굴에서
+	바람/ncn+굴/ncn+에서/jca
+
+왼편으로
+	왼편/ncn+으로/jca
+
+웰컴투동막골로
+	웰컴투동막골/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+길안내판을
+	길안내판/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+여기선
+	여기/npd+선/jxc
+
+분명
+	분명/ncps
+
+150m라고
+	150m라/ncn+이/jp+고/ecc
+
+되어
+	되/pvg+어/ecx
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+그건
+	그것/npd+은/jxc
+
+직선거리일까요
+	직선거리/ncn+이/jp+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+걸어가다보면
+	걷/pvg+어/ecx+가/px+아/ecx+보/px+면/ecs
+
+분명
+	분명/ncps
+
+그
+	그/mmd
+
+숫자와는
+	숫자/ncn+와/jct+는/jxc
+
+다르다는
+	다르/paa+다/ef+는/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+알게
+	알/pvg+게/ecs
+
+될겁니다
+	되/pvg+ㄹ/etm+것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+이날
+	이/nnc+날/nbu
+
+하루종일
+	하루종일/ncn
+
+참
+	참/mag
+
+덥다고
+	덥/paa+다/ef+고/jcr
+
+땀꽤나
+	땀꽤/ncn+이/jp+나/ecs
+
+흘리고
+	흘리/pvg+고/ecc
+
+다녔는데
+	다니/pvg+었/ep+는데/ecs
+
+산골이라
+	산골/ncn+이/jp+라/ecs
+
+그런가요
+	그러/pvd+ㄴ가/ef+요/jxf
+
+.
+	./sf
+
+
+확실히
+	확실히/mag
+
+기온차이가
+	기온차이/ncn+가/jcs
+
+납니다,
+	나/px+ㅂ니다/ef+,/sp
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+바람이
+	바람/ncn+이/jcc
+
+불어서
+	불/pvg+어서/ecs
+
+시원하다
+	시원/ncps+하/xsms+어다/ecs
+
+소리를
+	소리/ncn+를/jco
+
+몇번이나
+	몇/nnc+번/nbu+이/jp+나/ecs
+
+하고는
+	하/px+어/ef+고/jcr+는/jxc
+
+올라갔어요
+	오르/pvg+아/ecx+가/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+코너를
+	코너/ncn+를/jco
+
+돌아서
+	돌/pvg+아/ecx
+
+가는데
+	가/px+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+헉~
+	헉~/ncn
+
+귀곡산장이
+	귀곡산장/ncn+이/jcc
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+점점
+	점점/mag
+
+어둑해지는
+	어둑하/paa+어/ecx+지/px+는/etm
+
+시간이라
+	시간/ncn+이/jp+라/ecs
+
+좀만
+	좀/mag+만/jxc
+
+더
+	더/mag
+
+늦게
+	늦/paa+게/ecs
+
+왔음
+	오/px+아/ep+ㅁ/etn
+
+혼자
+	혼자/mag
+
+걸어가다가
+	걷/pvg+어/ecx+가/px+아/ecx+가/px+아/ecx
+
+경악을
+	경악/ncpa+을/jco
+
+했을
+	하/px+었/ep+을/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+이건
+	이/npd+이/jp+건/ecc
+
+원래
+	원래/mag
+
+여기
+	여기/mad
+
+있던건
+	있던건/ncn
+
+아니구요
+	아니구요/ncn
+
+.
+	./sf
+
+
+전에
+	전/nbn+에/jca
+
+티비프로그램으로
+	티비프로그램/ncn+으로/jca
+
+공포체험할
+	공포/ncn+체험/ncpa+하/xsva+ㄹ/etm
+
+때
+	때/ncn
+
+사용했던
+	사용/ncpa+하/xsva+었/ep+던/etm
+
+건데
+	것/nbn+이/jp+ㄴ데/ecs
+
+사용후에
+	사용/ncpa+후/ncn+에/jca
+
+이곳에다
+	이곳/npd+에다/jca
+
+옮겨
+	옮기/pvg+어/ecx
+
+놓은
+	놓/px+은/etm
+
+거라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+가까이
+	가까이/mag
+
+가보지는
+	가/pvg+아/ecx+보/px+지/ecs+는/jxc
+
+못하고
+	못하/px+고/ecc
+
+그냥
+	그냥/mag
+
+지나쳐걸었습니다
+	지나쳐걸었습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+흙길을
+	흙길/ncn+을/jco
+
+또
+	또/maj
+
+그렇게
+	그렇/pad+게/ecs
+
+조금
+	조금/mag
+
+오르다보면
+	오르다보/ncn+이/jp+면/ecs
+
+간이화장실도
+	간이/ncn+화장실/ncn+도/jxc
+
+보이구요
+	보이구요/ncn
+
+.
+	./sf
+
+
+고쿨,
+	고쿨,/ncn
+
+고쿠리를
+	고쿠리/ncn+를/jco
+
+형상화한
+	형상화/ncn+한/ncn
+
+조각이
+	조각/ncn+이/jcc
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+다왔구나
+	다왔구/ncn+이/jp+나/ecs
+
+하고는
+	하/px+어/ef+고/jcr+는/jxc
+
+걸음에
+	걸/pvg+ㅁ/etn+에/jca
+
+힘이
+	힘/ncn+이/jcc
+
+들어가는데요
+	들/pvg+어/ecx+가/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+생각보다
+	생각/ncpa+보다/jca
+
+넓은
+	넓/paa+은/etm
+
+가상마을이
+	가상/ncn+마을/ncn+이/jcc
+
+드러나더라구요
+	드러나/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+포스팅으로
+	포스팅/ncn+으로/jca
+
+보면서
+	보/px+면서/ecc
+
+아주
+	아주/mag
+
+아담한
+	아담/ncps+하/xsms+ㄴ/etm
+
+공간이
+	공간/ncn+이/jcc
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+상상을
+	상상/ncn+을/jco
+
+했었는데요
+	하/px+었었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+마을이라고
+	마을/ncn+이/jp+라/ef+고/jcr
+
+하기는
+	하/pvg+기/etn+는/jxc
+
+많이
+	많/paa+이/xsa
+
+작지만
+	작/paa+지/ecx+말/px+ㄴ/etm
+
+제가
+	저/npp+가/jcs
+
+상상했던
+	상상/ncpa+하/xsva+었/ep+던/etm
+
+세트장보다는
+	세트/ncn+장/ncn+보다/jca+는/jxc
+
+너른
+	너르/paa+ㄴ/etm
+
+마당이라
+	마당/ncn+이/jp+라/ecs
+
+좋더라구요
+	좋/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+가족단위
+	가족단위/ncn
+
+여행객들도
+	여행객/ncn+들/ncn+도/jxc
+
+보이네요
+	보이/pvg+네/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+마을을
+	마을/ncn+을/jco
+
+중심축이
+	중심축/ncn+이/jcc
+
+되는
+	되/pvg+는/etm
+
+큰
+	크/paa+ㄴ/etm
+
+나무도
+	나무/ncn+도/jxc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+저
+	저/mmd
+
+나무는
+	나무/ncn+는/jxc
+
+아무래도
+	아무렇/pad+어도/ecs
+
+만들어
+	만들/pvg+어/ecx
+
+놓은
+	놓/px+은/etm
+
+듯
+	듯/nbn
+
+하지요
+	하/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+실제
+	실제/ncn
+
+500년된
+	500년된/ncn
+
+나무라면
+	나무/ncn+이/jp+라면/ecs
+
+저렇게
+	저렇/pad+게/ecs
+
+내버려두진
+	내버려두진/ncn
+
+않았을듯
+	않/px+아/ep+ㄹ/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+영화에서는
+	영화/ncn+에서/jca+는/jxc
+
+참
+	참/mag
+
+멋진
+	멋지/paa+ㄴ/etm
+
+나무도
+	나무/ncn+도/jxc
+
+기억에
+	기억/nnc+에/jca
+
+남아
+	남/pvg+아/ecx
+
+있는데
+	있/px+는데/ecs
+
+...
+	.../se
+
+
+실상은
+	실상/mag+은/jxc
+
+많이
+	많/paa+이/xsa
+
+다르더라구요
+	다르/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+자꾸만
+	자꾸/mag+만/jxc
+
+어두워지고
+	어둡/paa+어/ecx+지/px+고/ecc
+
+있어서
+	있/px+어서/ecs
+
+조금더
+	조금더/ncn
+
+일찍
+	일찍/mag
+
+들렀음
+	들르/pvg+었/ep+음/etn
+
+좋았을걸
+	좋았을걸/ncn
+
+싶기도
+	싶/px+기/etn+도/jxc
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+아랫쪽보다는
+	아랫쪽/ncn+보다/jca+는/jxc
+
+훨씬
+	훨씬/mag
+
+시원해서
+	시원/ncps+하/xsms+어서/ecs
+
+우선
+	우선/mag
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+들었어요
+	들/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+기념사진
+	기념사진/ncn
+
+촬영할
+	촬영/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+판넬이
+	판넬/ncn+이/jcc
+
+역시나
+	역시/mag+나/jxc
+
+있네요
+	있/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+위와
+	위/ncn+와/jcj
+
+아래
+	아래/ncn
+
+사진의
+	사진/ncn+의/jcm
+
+차이를
+	차이/ncn+를/jco
+
+아시겠어요
+	알/pvg+시겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+실제
+	실제/ncn
+
+인물이
+	인물/ncn+이/jcc
+
+들어간
+	들/pvg+어/ecx+가/px+ㄴ/etm
+
+곳이
+	곳/ncn+이/jcc
+
+있답니다
+	있/px+답니다/ef
+
+.
+	./sf
+
+
+실제
+	실제/ncn
+
+사진처럼
+	사진/ncn+처럼/jca
+
+재밌게도
+	재밌게/ncn+도/jxc
+
+스며들었네요
+	스며들/pvg+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+각
+	각/mma
+
+촬영장소마다
+	촬영장/ncn+소/ncn+마다/jxc
+
+어떤
+	어떤/mmd
+
+장면이
+	장면/ncn+이/jcc
+
+촬영되었고
+	촬영/ncpa+되/xsvn+었/ep+고/ecc
+
+누구의
+	누구/npp+의/jcm
+
+집인지
+	집/ncn+이/jp+ㄴ지/ecs
+
+영화속
+	영화/ncn+속/ncn
+
+주인공들과
+	주인공/ncn+들/ncn+과/jcj
+
+연관해서
+	연관/ncpa+해서/ncn
+
+소개를
+	소개/ncpa+를/jco
+
+해놓고
+	하/pvg+어/ecx+놓/px+고/ecc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+..
+	./sf+./sf
+
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+장면이
+	장면/ncn+이/jcc
+
+이곳에서
+	이곳/npd+에서/jca
+
+찍은
+	찍/pvg+은/etm
+
+거구나
+	거구/ncn+이/jp+나/ecs
+
+알게
+	알/pvg+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+마당
+	마당/ncn
+
+윗쪽에
+	윗쪽/ncn+에/jca
+
+있던
+	있/px+던/etm
+
+집이
+	집/ncn+이/jcc
+
+촌장집입니다
+	촌장/ncr+집/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+영화
+	영화/ncn
+
+이야기의
+	이야기/ncpa+의/jcm
+
+대부분이
+	대부분/ncn+이/jcc
+
+이곳에서
+	이곳/npd+에서/jca
+
+전개가
+	전개/ncpa+가/jcc
+
+되지요
+	되/pvg+지/ef+요/jxf
+
+.
+	./sf
+
+
+아래
+	아래/ncn
+
+안내판
+	안내판/ncn
+
+사진에도
+	사진/ncn+에/jca+도/jxc
+
+보이듯이
+	보이/pvg+듯이/ecs
+
+가운데
+	가운데/ncn
+
+동막골
+	동막골/ncn
+
+사람들을
+	사람들/ncn+을/jco
+
+가운데
+	가운데/ncn
+
+두고
+	두/nnc+이/jp+고/ecc
+
+국군과
+	국군/ncn+과/jcj
+
+인민군이
+	인민군/ncn+이/jcc
+
+대치하고
+	대치/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+장면이지요
+	장면/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+티격태격
+	티격태격/mag
+
+하면서
+	하/pvg+면서/ecc
+
+마음이
+	마음/ncn+이/jcc
+
+동화되는
+	동화/ncn+되/xsvn+는/etm
+
+시간을
+	시간/ncn+을/jco
+
+가지게
+	가/pvg+아/ecx+지/px+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+장소를
+	장소/ncn+를/jco
+
+보면
+	보/px+면/ecs
+
+바로
+	바로/mag
+
+영화의
+	영화/ncn+의/jcm
+
+장면들이
+	장면/ncn+들/ncn+이/jcc
+
+생각이
+	생각/ncpa+이/jcc
+
+나서
+	나/px+서/ecs
+
+..
+	./sf+./sf
+
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+여기였구나
+	여기/npd+이/jp+었/ep+구나/ef
+
+..
+	./sf+./sf
+
+
+싶은
+	싶/px+은/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+바로
+	바로/mag
+
+올겁니다
+	오/px+ㄹ/etm+것/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+영상으로
+	영상/ncn+으로/jca
+
+많이
+	많/paa+이/xsa
+
+미화가
+	미화/ncn+가/jcs
+
+되긴
+	되긴/ncn
+
+했지만,
+	하/px+었/ep+지만/ecs+,/sp
+
+배경은
+	배경/ncn+은/jxc
+
+같은
+	같/paa+은/etm
+
+곳이니
+	곳/ncn+이/jp+니/ecs
+
+서로
+	서로/mag
+
+오버랩
+	오버랩/ncpa
+
+시켜보는
+	시키/pvg+어/ecx+보/px+는/etm
+
+재미가
+	재미/ncn+가/jcs
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+동막골
+	동막골/ncn
+
+의상체험
+	의상/ncn+체험/ncpa
+
+장소가
+	장소/ncn+가/jcs
+
+있긴
+	있긴/ncn
+
+한데요
+	한데/ncn+요/ncn
+
+.
+	./sf
+
+
+텅비었더라구요
+	텅비/pvg+었/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+총구를
+	총구/ncn+를/jco
+
+호기심어린
+	호기심어리/pvg+ㄴ/etm
+
+눈으로
+	눈/ncn+으로/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+강혜정씨
+	강혜정씨/ncn
+
+표정이
+	표정/ncn+이/jcc
+
+넘
+	널/pvg+ㅁ/etn
+
+천진하지요
+	천진/ncpa+하/xsva+지/ef+요/jxf
+
+.
+	./sf
+
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+그늘이
+	그늘/ncn+이/jcc
+
+있으면
+	있/px+으면/ecs
+
+이
+	이/mmd
+
+평상
+	평상/ncn
+
+위에
+	위/ncn+에/jca
+
+앉아서
+	앉/pvg+아/ecx
+
+한숨
+	한숨/ncn
+
+자고
+	자/nbn+이/jp+고/ecc
+
+가면
+	가/px+면/ecs
+
+아주
+	아주/mag
+
+좋을듯
+	좋/paa+을/etm+듯/nbs
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+앉아도
+	앉/pvg+아/ecs
+
+될까
+	되/pvg+ㄹ까/ecs
+
+싶게
+	싶/px+게/ecs
+
+좀
+	좀/mag
+
+낡아
+	낡/paa+아/ecx
+
+보여서
+	보이/pvg+어서/ecs
+
+그렇긴
+	그렇긴/ncn
+
+하지만요
+	하/pvg+지/ecs+만요/jxc
+
+.
+	./sf
+
+
+의상이
+	의상/ncn+이/jcc
+
+있었다면
+	있/px+었/ep+다면/ecs
+
+한번씩
+	한번씩/ncn
+
+입어보고
+	입/pvg+어/ecx+보/px+고/ecc
+
+설정
+	설정/ncpa
+
+샷을
+	샷/ncn+을/jco
+
+담아도
+	담/pvg+아/ecs
+
+잼있을거
+	잼있을거/ncn
+
+같은데요
+	같은데요/ncn
+
+.
+	./sf
+
+
+체험시간이
+	체험/ncpa+시간/ncn+이/jcc
+
+지나서
+	지나/pvg+아/ecx
+
+의상들이
+	의상/ncn+들/ncn+이/jcc
+
+없는건지
+	없/paa+는/etm+것/nbn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+아쉽게도
+	아쉽/paa+게/ecs+도/jxc
+
+옷구경은
+	옷구경/ncn+은/jxc
+
+하지
+	하/pvg+지/ecx
+
+못했어요
+	못하/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+화전민들의
+	화전민/ncn+들/ncn+의/jcm
+
+생활공간을
+	생활공간/ncn+을/jco
+
+재현해
+	재현/ncpa+하/xsva+어/ecx
+
+놓은
+	놓/px+은/etm
+
+거라
+	것/nbn+이/jp+라/ef
+
+..
+	./sf+./sf
+
+
+방안을
+	방안/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+전통적인
+	전통/ncn+적/ncn+이/jp+ㄴ/etm
+
+한국식
+	한국식/ncn
+
+벽난로라고
+	벽난로/ncn+이/jp+라/ef+고/jcr
+
+해야하나요
+	하/pvg+어야/ecx+하/px+나/ef+요/jxf
+
+.
+	./sf
+
+
+고쿨이
+	고쿨/ncn+이/jcc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+벽
+	벽/ncn
+
+귀퉁이에
+	귀퉁이/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+벽난로
+	벽난로/ncn
+
+같은
+	같/paa+은/etm
+
+건데요
+	건데요/ncn
+
+.
+	./sf
+
+
+방안의
+	방안/ncn+의/jcm
+
+훈기도
+	훈기/ncn+도/jxc
+
+주고
+	주/px+고/ecc
+
+꽤
+	꽤/mag
+
+쓸모있는
+	쓸모있/pvg+는/etm
+
+존재가
+	존재/ncn+가/jcs
+
+아니었을까
+	아니/paa+었/ep+을까/ef
+
+싶더라구요
+	싶/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+추운
+	춥/paa+은/etm
+
+산촌에서는
+	산촌/ncn+에서/jca+는/jxc
+
+꼭
+	꼭/mag
+
+필요한
+	필요/ncps+하/xsms+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+아니었을까
+	아니/paa+었/ep+을까/ef
+
+싶은
+	싶/px+은/etm
+
+것이
+	것/nbn+이/jcc
+
+..
+	./sf+./sf
+
+
+이건
+	이/npd+이/jp+건/ecc
+
+이전에
+	이전/ncn+에/jca
+
+삼척
+	삼/nnc+척/nbu
+
+너와마을에
+	너와/ncn+마을/ncn+에/jca
+
+갔을때
+	가/px+아/ep+ㄹ/etm+때/nbn
+
+방안에
+	방안/ncn+에/jca
+
+있는걸
+	있는걸/ncn
+
+본적이
+	보/px+ㄴ/etm+적/nbn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+구면이긴
+	구면이긴/ncn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+김선생의
+	김선생/ncn+의/jcm
+
+집과
+	집/ncn+과/jcj
+
+스미스가
+	스미스/ncn+가/jcs
+
+머물던
+	머물/pvg+던/etm
+
+집이
+	집/ncn+이/jcc
+
+있네요
+	있/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+김선생은
+	김선생/ncn+은/jxc
+
+미
+	미/ncn
+
+전투기
+	전투기/ncn
+
+조종사
+	조종사/ncr
+
+스미스가
+	스미스/ncn+가/jcs
+
+동막골에
+	동막골/ncn+에/jca
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+후
+	후/ncn
+
+서툰
+	서툴/paa+ㄴ/etm
+
+영어로
+	영어/ncn+로/jca
+
+대화를
+	대화/ncn+를/jco
+
+시도하던
+	시도/ncpa+하/xsva+던/etm
+
+모습이
+	모습/ncn+이/jcc
+
+생각이
+	생각/ncpa+이/jcc
+
+나지요
+	나/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+정규화된
+	정규/ncn+화/ncn+되/xsvn+ㄴ/etm
+
+질문과
+	질문/ncpa+과/jcj
+
+대답이
+	대답/ncpa+이/jcc
+
+나오지
+	나오/pvg+지/ecx
+
+않아서
+	않/px+아/ecx
+
+당황해
+	당황/ncn+해/ncn
+
+하던
+	하/pvg+던/etm
+
+모습이
+	모습/ncn+이/jcc
+
+...
+	.../se
+
+
+대화가
+	대화/ncn+가/jcs
+
+그리
+	그리/mad
+
+숫자처럼
+	숫자/ncn+처럼/jca
+
+떨어지던가요
+	떨/pvg+어/ecx+지/px+더/ep+ㄴ가/ef+요/jxf
+
+어디
+	어디/mad
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+하우
+	하우/ncn
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+유.
+	유/ncn+./sf
+
+.
+	./sf
+
+
+하면
+	하/pvg+면/ecs
+
+바로
+	바로/mag
+
+파인
+	파/ncn+이/jp+ㄴ/etm
+
+땡큐
+	땡큐/ii
+
+앤드
+	앤드/ncn
+
+유.
+	유/ncn+./sf
+
+.
+	./sf
+
+
+해야하는데
+	하/pvg+어야/ecx+하/px+ㄴ데/ecs
+
+...
+	.../se
+
+
+그럼
+	그렇/pad+ㅁ/etn
+
+다시
+	다시/mag
+
+아임
+	아/ncn+이/jp+ㅁ/etn
+
+파인
+	파/ncn+이/jp+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+이런식으로
+	이런식/ncn+으로/jca
+
+나와야
+	나오/pvg+아/ecx
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+예상과
+	예상/ncpa+과/jct
+
+달랐던
+	다르/paa+아/ep+ㄴ/etm
+
+것이지요
+	것/nbn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+젤
+	젤/ncn
+
+안쪽으로
+	알/pvg+ㄴ/etm+쪽/nbn+으로/jca
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+영화에서
+	영화/ncn+에서/jca
+
+봤던
+	보/px+아/ep+ㄴ/etm
+
+비행기도
+	비행기/ncn+도/jxc
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+스미스가
+	스미스/ncn+가/jcs
+
+타고
+	타/pvg+고/ecc
+
+왔던
+	오/px+아/ep+ㄴ/etm
+
+전투기예요
+	전투기/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+낡을대로
+	낡을대/ncn+로/jca
+
+낡아서
+	낡/paa+아/ecx
+
+날았던
+	날/pvg+아/ep+ㄴ/etm
+
+때가
+	때/ncn+가/jcs
+
+있으려나
+	있/px+으려/ecx+나/px+아/ecx
+
+싶기는
+	싶/px+기/etn+는/jxc
+
+한데요
+	한데/ncn+요/ncn
+
+.
+	./sf
+
+
+연합군
+	연합군/ncn
+
+미
+	미/ncn
+
+조종사가
+	조종사/ncr+가/jcc
+
+타고
+	타/pvg+고/ecc
+
+와서
+	오/px+아/ecs
+
+불시착한
+	불시착/ncpa+하/xsva+ㄴ/etm
+
+장면이
+	장면/ncn+이/jcc
+
+나왔었지요
+	나/pvg+아/ecx+오/px+아/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+무전
+	무전/ncn
+
+교신을
+	교신/ncn+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+구조요망
+	구조/ncpa+요망/ncpa
+
+!!
+	!/sf+!/sf
+
+
+을
+	을/ncn
+
+외쳤던
+	외치/pvg+었/ep+던/etm
+
+게
+	것/nbn+이/jcs
+
+생각이
+	생각/ncpa+이/jcc
+
+납니다
+	나/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+어둑해지면서
+	어둑하/paa+어/ecx+지/px+면서/ecc
+
+하늘이
+	하늘/ncn+이/jcc
+
+점점
+	점점/mag
+
+붉어지더라구요
+	붉/paa+어/ecx+지/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+흰구름이
+	흰구름/ncn+이/jcc
+
+주홍빛으로
+	주홍빛/ncn+으로/jca
+
+물들기
+	물들/pvg+기/etn
+
+시작하더라구요
+	시작/ncpa+하/xsva+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+아고
+	아/ncn+이/jp+고/ecc
+
+..
+	./sf+./sf
+
+
+나구
+	나구/ncn
+
+색칠을
+	색칠/ncpa+을/jco
+
+해
+	하/pvg+어/ecx
+
+놓은거
+	놓은거/ncn
+
+같다
+	같/paa+다/ef
+
+하면서
+	하/pvg+면서/ecc
+
+바라보게
+	바라/pvg+아/ecx+보/px+게/ecs
+
+되던
+	되/pvg+던/etm
+
+구름
+	구름/ncn
+
+..
+	./sf+./sf
+
+
+실상은
+	실상/mag+은/jxc
+
+이것보다
+	이것/npd+보다/jca
+
+훨씬
+	훨씬/mag
+
+붉었는데
+	붉/paa+었/ep+는데/ecs
+
+말예요
+	말/px+예요/ef
+
+.
+	./sf
+
+
+자연이
+	자연/ncn+이/jcc
+
+만들어
+	만들/pvg+어/ecx
+
+내는
+	내/npp+는/jxc
+
+빛은
+	빛/ncn+은/jxc
+
+참
+	참/mag
+
+신비롭습니다
+	신비/ncps+롭/xsmn+습니다/ef
+
+.
+	./sf
+
+
+나와지붕이
+	나와/ncn+지붕/ncn+이/jcc
+
+독특하지요
+	독특/ncps+하/xsms+지/ef+요/jxf
+
+.
+	./sf
+
+
+삼척너와마을에서
+	삼척너와마을/ncn+에서/jca
+
+보고
+	보/px+고/ecc
+
+오랜만에
+	오랜만/ncn+에/jca
+
+다시
+	다시/mag
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+나무를
+	나무/ncn+를/jco
+
+네모난
+	네모나/pvg+ㄴ/etm
+
+판모양으로
+	판모양/ncn+으로/jca
+
+쪼개서
+	쪼개/pvg+어서/ecs
+
+올린
+	올리/pvg+ㄴ/etm
+
+지붕인데요
+	지붕인데요/ncn
+
+.
+	./sf
+
+
+너와집고
+	너와/ncn+집/ncn+고/jcj
+
+있고
+	있/px+고/ecc
+
+나무
+	나무/ncn
+
+껍질을
+	껍질/ncn+을/jco
+
+올린
+	올리/pvg+ㄴ/etm
+
+굴피집도
+	굴피집/ncn+도/jxc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+추운
+	춥/paa+은/etm
+
+산촌에서는보온과
+	산촌에서는보온/ncn+과/jcj
+
+통풍에
+	통풍/ncpa+에/jca
+
+효과적인
+	효과/ncn+적/ncn+이/jp+ㄴ/etm
+
+지붕이라고
+	지붕/ncn+이/jp+라/ef+고/jcr
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+집들이
+	집들이/ncpa
+
+어둑한
+	어둑하/paa+ㄴ/etm
+
+빛이라
+	빛/ncn+이/jp+라/ecs
+
+해질무렵에
+	하/pvg+어/ecx+지/px+ㄹ/etm+무렵/nbn+에/jca
+
+더
+	더/mag
+
+짙은
+	짙/paa+은/etm
+
+색으로
+	색/ncn+으로/jca
+
+다가옵니다
+	다가오/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+집앞에
+	집앞/ncn+에/jca
+
+장식용으로
+	장식용/ncn+으로/jca
+
+둔
+	두/pvg+ㄴ/etm
+
+건지
+	것/nbn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+모양이
+	모양/ncn+이/jcc
+
+독특하지요
+	독특/ncps+하/xsms+지/ef+요/jxf
+
+.
+	./sf
+
+
+고쿠리를
+	고쿠리/ncn+를/jco
+
+상징적으로
+	상징/ncpa+적/ncn+으로/jca
+
+표현한거
+	표현한거/ncn
+
+같은데요
+	같은데요/ncn
+
+.
+	./sf
+
+
+입구쪽에도
+	입구/ncn+쪽/ncn+에/jca+도/jxc
+
+여러개가
+	여러/nnc+개/nbu+가/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+방안이
+	방안/ncn+이/jcc
+
+어두워서
+	어둡/paa+어서/ecs
+
+실제
+	실제/ncn
+
+모습을
+	모습/ncn+을/jco
+
+담았는데
+	담/pvg+아/ep+ㄴ데/ecs
+
+넘
+	널/pvg+ㅁ/etn
+
+흔들렸더라구요
+	흔들리/pvg+었/ep+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+고쿨,
+	고쿨,/ncn
+
+고쿠리,
+	고쿠리,/ncn
+
+코굴,
+	코굴,/ncn
+
+코클
+	코클/ncn
+
+등으로
+	등/nbu+으로/jca
+
+불리는데요
+	불리/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+옆에서
+	옆/ncn+에서/jca
+
+보면
+	보/px+면/ecs
+
+사람의
+	사람/ncn+의/jcm
+
+코와
+	코/ncn+와/jct
+
+닮은
+	닮/pvg+은/etm
+
+형태입니다
+	형태/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+아마도
+	아마/mag+도/jxc
+
+이런
+	이런/mmd
+
+형태로
+	형태/ncn+로/jca
+
+익살스럽게
+	익살/ncpa+스럽/xsmn+게/ecs
+
+표현한
+	표현/ncpa+하/xsva+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+싶어요
+	싶/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+전등을
+	전등/ncn+을/jco
+
+밝히면
+	밝히/pvg+면/ecs
+
+저녁에
+	저녁/ncn+에/jca
+
+꽤
+	꽤/mag
+
+무서우려나요
+	무섭/paa+으려/ecx+나/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+재밌는
+	재밌/ncn+는/jxc
+
+표정을
+	표정/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을듯
+	있/px+을/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+오래
+	오래/mag
+
+있지도
+	있/px+지/ecs+도/jxc
+
+않았는데
+	않/px+아/ep+ㄴ데/ecs
+
+사위가
+	사위/ncn+가/jcs
+
+어둑해지고
+	어둑하/paa+어/ecx+지/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+점점
+	점점/mag
+
+온도도
+	온도/ncn+도/jxc
+
+낮아지구요
+	낮아지구요/ncn
+
+.
+	./sf
+
+
+주변에
+	주변/ncn+에/jca
+
+물소리가
+	물소리/ncn+가/jcs
+
+아주
+	아주/mag
+
+신나게
+	신나/pvg+게/ecs
+
+들려요
+	들리/pvg+어/ef+요/jxf
+
+.
+	./sf
+
+
+어디에
+	어디/npd+에/jca
+
+계곡이
+	계곡/ncn+이/jcc
+
+있나
+	있/px+나/ef
+
+싶었는데
+	싶/px+었/ep+는데/ecs
+
+주변을
+	주변/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+계곡물인지
+	계곡/ncn+물/ncn+이/jp+ㄴ지/ecs
+
+인공적으로
+	인공/ncn+적/ncn+으로/jca
+
+만들어놓은
+	만들/pvg+어/ecx+놓/px+은/etm
+
+수로인지
+	수로/ncn+이/jp+ㄴ지/ecs
+
+아래로
+	아래/ncn+로/jca
+
+물이
+	물/ncn+이/jcc
+
+흐르긴
+	흐르긴/ncn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+황톳물이
+	황톳물/ncn+이/jcc
+
+붉게
+	붉/paa+게/ecs
+
+흐르더라구요
+	흐르/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+이건
+	이/npd+이/jp+건/ecc
+
+어디서
+	어디/npd+서/jca
+
+오는건가
+	오/px+는/etm+것/nbn+이/jp+ㄴ가/ef
+
+잠시
+	잠시/mag
+
+궁금해
+	궁금/ncps+하/xsms+어/ecx
+
+하면서
+	하/pvg+면서/ecc
+
+...
+	.../se
+
+
+천천히
+	천천히/mag
+
+걸으며
+	걸/pvg+며/ecc
+
+산책하기
+	산책/ncpa+하/xsva+기/etn
+
+...
+	.../se
+
+
+배모양의
+	배모양/ncn+의/jcm
+
+그네도
+	그네/ncn+도/jxc
+
+보여서
+	보이/pvg+어서/ecs
+
+그곳에
+	그곳/ncn+에/jca
+
+서서
+	서/pvg+어서/ecs
+
+사진도
+	사진/ncn+도/jxc
+
+담구요
+	담구요/ncn
+
+.
+	./sf
+
+
+물소리를
+	물소리/ncn+를/jco
+
+듣고
+	듣/pvg+고/ecc
+
+있으니
+	있/px+으니/ecs
+
+소리가
+	소리/ncn+가/jcs
+
+온도를
+	온도/ncn+를/jco
+
+더
+	더/mag
+
+낮춰
+	낮추/pvg+어/ecx
+
+주는
+	주/px+는/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+느낌이었어요
+	느낌/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'300';
+	'/sl+300/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'225';
+	'/sl+225/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/08/11/147/031013239141531E25C3891723D06133BC9_anndam_480P_01_16x9_logo.
+	net/blogucc28/2012/08/11/147/031013239141531E25C3891723D06133BC9_anndam_480P_01_16x9_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'31.
+	'/sr+31./nnc
+
+25';
+	25/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'10364A2CAB0F1F630C71977D5A4B782B3374';
+	'10364A2CAB0F1F630C71977D5A4B782B3374/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1283e3d843e0e8f11ef8edd625709f435ba8acea2a593af09df9b6ec4dab28ae6564edd625709f435ba8';
+	'V1283e3d843e0e8f11ef8edd625709f435ba8acea2a593af09df9b6ec4dab28ae6564edd625709f435ba8/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_00106
+	ugcPlayer_00106/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_00106'
+	VideoInfraUGCPlayer('ugcPlayer_00106'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_00106
+	ugcPlayer_00106/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+배모양
+	배모양/ncn
+
+그네를
+	그네/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+놀면서
+	놀/pvg+면서/ecc
+
+...
+	.../se
+
+
+스산해진다
+	스산/ncps+하/xsms+어/ecx+지/px+ㄴ다/ef
+
+싶은
+	싶/px+은/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+정도여서
+	정도/ncn+이/jp+어서/ecs
+
+이제
+	이제/mag
+
+철수할
+	철수/ncpa+하/xsva+ㄹ/etm
+
+시간
+	시간/nbu
+
+!
+	!/sf
+
+
+담엔
+	달/paa+ㅁ/etn+엔/jca
+
+낮에
+	낮/ncn+에/jca
+
+다시
+	다시/mag
+
+함
+	하/pvg+ㅁ/etn
+
+와보고
+	오/pvg+아/ecx+보/px+고/ecc
+
+싶기도
+	싶/px+기/etn+도/jxc
+
+한데요
+	한데/ncn+요/ncn
+
+.
+	./sf
+
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+매번
+	매번/mag
+
+가보고싶은곳으로
+	가보고싶은곳/ncn+으로/jca
+
+뽑지는
+	뽑/pvg+지/ef+는/etm
+
+못할거
+	못할거/ncn
+
+같구요
+	같구요/ncn
+
+.
+	./sf
+
+
+이미
+	이미/mag
+
+많이
+	많/paa+이/xsa
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+곳이다보니
+	곳이다보/ncn+이/jp+니/ecs
+
+한번은
+	한/nnc+번/nbu+은/jxc
+
+가보면
+	가/pvg+아/ecx+보/px+면/ecs
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+모습이구나
+	모습/ncn+이/jp+구나/ef
+
+하고
+	하/pvg+고/ecc
+
+실감있는
+	실감/ncpa+있/xsmn+는/etm
+
+영화현장을
+	영화/ncn+현장/ncn+을/jco
+
+보실
+	보/px+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+늦게
+	늦/paa+게/ecs
+
+찾아서
+	찾/pvg+아/ecx
+
+보지
+	보/pvg+지/ecx
+
+못한건지
+	못하/px+ㄴ/etm+것/nbn+이/jp+ㄴ지/ecs
+
+모르겠는데요
+	모르/pvg+겠/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이왕이면
+	이왕/ncn+이/jp+면/ecs
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+체험거리도
+	체험/ncpa+거리/ncn+도/jxc
+
+함께하면
+	함께하/pvg+면/ecs
+
+가족여행객들에게
+	가족/ncn+여행객/ncn+들/ncn+에게/jca
+
+호응이
+	호응/ncpa+이/jcc
+
+좋을
+	좋/paa+을/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+한켠에
+	하/pvg+ㄴ/etm+켠/nbn+에/jca
+
+스트레스
+	스트레스/ncn
+
+해소
+	해소/ncpa
+
+방법으로
+	방법/ncn+으로/jca
+
+깡통을
+	깡통/ncn+을/jco
+
+치는
+	치/pvg+는/etm
+
+공간이
+	공간/ncn+이/jcc
+
+있긴
+	있긴/ncn
+
+한데
+	하/pvg+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+그렇게
+	그렇/pad+게/ecs
+
+무방비상태의
+	무방비상태/ncn+의/jcm
+
+체험거리가
+	체험/ncpa+거리/ncn+가/jcs
+
+아니라
+	아니/paa+라/ecs
+
+영화의
+	영화/ncn+의/jcm
+
+한장면을
+	한장면/ncn+을/jco
+
+연출해
+	연출/ncpa+하/xsva+어/ecx
+
+본다거나
+	본다거/ncn+나/jcj
+
+영화장면을
+	영화/ncn+장면/ncn+을/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+사진찍는
+	사진찍/pvg+는/etm
+
+곳이나
+	곳/ncn+이/jp+나/ef
+
+..
+	./sf+./sf
+
+
+뭐
+	뭐/npd
+
+여러형태의
+	여러형태/ncn+의/jcm
+
+볼거리
+	보/px+ㄹ/etm+것/nbn+이/jp+리/ef
+
+체험거리가
+	체험/ncpa+거리/ncn+가/jcs
+
+있어야
+	있/px+어야/ecs
+
+꾸준하게
+	꾸준/ncps+하/xsms+게/ecs
+
+인기있는
+	인기/ncn+있/xsmn+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+되지
+	되/pvg+지/ecx
+
+않을까
+	않/px+을까/ef
+
+싶더라구요
+	싶/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+가을날
+	가을날/ncn
+
+찾으면
+	찾/pvg+으면/ecs
+
+주변이
+	주변/ncn+이/jcc
+
+참
+	참/mag
+
+이쁠거
+	이쁠거/ncn
+
+같단
+	같/paa+단/etm
+
+생각을
+	생각/ncpa+을/jco
+
+해봅니다
+	하/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+미탄면
+	미탄/ncn+면/ncn
+
+율치리
+	율치리/ncn
+
+033-332-2976
+	033/nnc+-332/nnc+-2976/nnc
+
+
+멧둔재
+	멧둔재/ncn
+
+터널
+	터널/ncn
+
+지나
+	지나/pvg+아/ecx
+
+창리삼거리에서
+	창리삼거리/ncn+에서/jca
+
+우회전
+	우회전/ncn
+
+영월방향-
+	영월방향-/ncn
+
+동막골마을(율치리)
+	동막골마을(율치/ncn+이/jp+리/ef+)/sr
+
+
+영화[웰컴투동막골]세트장
+	영화[웰컴투동막골/ncn+]/sr+세트/ncn+장/ncn
+
+
+강원도
+	강원/ncn+도/jxc
+
+영월군
+	영월군/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011421977",
+	"bl011421977",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"15779070",
+	"/sl+15779070/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"영화[웰컴투동막골]세트장",
+	title:"영화[웰컴투동막골]세트장",/ncn
+
+pointX:440624,pointY:524657}
+	pointX/f+:/sp+440624/nnc+,/sp+pointY/f+:/sp+524657/nnc+}/sr

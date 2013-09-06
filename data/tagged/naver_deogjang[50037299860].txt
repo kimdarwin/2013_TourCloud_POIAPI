@@ -1,0 +1,470 @@
+삼악산
+	삼악/ncn+산/ncn
+
+가는
+	가/pvg+는/etm
+
+길
+	길/ncn
+
+:청량리
+	:/sp+청량/ncn+리/ncn
+
+춘천
+	춘천/ncn
+
+행
+	행/nbu
+
+기차
+	기차/ncn
+
+강촌역
+	강촌/ncn+역/ncn
+
+강촌교
+	강촌/ncn+교/ncn
+
+건너
+	건너/pvg+어/ecx
+
+등정강촌역
+	등정/ncn+강촌/ncn+역/ncn
+
+에서
+	에/pvg+어서/ecs
+
+버스를
+	버스/ncn+를/jco
+
+갈아타고
+	갈아타/pvg+고/ecc
+
+
+등선
+	등선/ncn
+
+폭포나
+	폭포/ncn+나/jcj
+
+의암댐
+	의암댐/ncn
+
+앞에서
+	앞/ncn+에서/jca
+
+내리면됨니다
+	내리면됨니/ncn+이/jp+다/ef
+
+
+등산
+	등산/ncpa
+
+코스:등선폭포-흥국사-정상-상원사-의암댐=
+	코스:등선폭포-흥국사-정상-상원사-의암댐=/ncn
+
+삼악산
+	삼악/ncn+산/ncn
+
+높이654m
+	높이654m/ncn
+
+소요시간3시간30분
+	소요시간3시간30분/ncn
+
+
+청량리
+	청량/ncn+리/ncn
+
+에서
+	에/pvg+어서/ecs
+
+경춘선
+	경춘선/ncn
+
+을
+	을/ncn
+
+타고
+	타/pvg+고/ecc
+
+강촌역에
+	강촌/ncn+역/ncn+에/jca
+
+내리면
+	내리/pvg+면/ecs
+
+다리
+	다리/ncn
+
+건너엔
+	건너엔/ncn
+
+삼악산이
+	삼악/ncn+산/ncn+이/jcc
+
+보이고
+	보이/pvg+고/ecc
+
+강촌역
+	강촌/ncn+역/ncn
+
+주변에는
+	주변/ncn+에는/jca
+
+
+학생들이m
+	학생들이m/ncn
+
+.
+	./sf
+
+
+t
+	t/f
+
+할수
+	하/pvg+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+최적의
+	최적/ncpa+의/jcm
+
+장소같다
+	장소/ncn+같/xsmn+다/ef
+
+
+의암댐에
+	의암댐/ncn+에/jca
+
+물이차면
+	물이차/ncn+이/jp+면/ecs
+
+붕어섬이
+	붕어/ncn+섬/ncn+이/jcc
+
+보이지않고
+	보이/pvg+지/ecx+않/px+고/ecc
+
+댐에
+	대/px+ㅁ/etn+에/jca
+
+물이적으면
+	물이적으/ncn+이/jp+면/ecs
+
+섬모양이
+	섬모양/ncn+이/jcc
+
+붕어같다하여
+	붕어같다하/ncn+이/jp+어/ecs
+
+붕어
+	붕어/ncn
+
+섬
+	서/pvg+ㅁ/etn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+하였다
+	하/pvg+었/ep+다/ef
+
+
+삼악산
+	삼악/ncn+산/ncn
+
+비선폭포
+	비선폭포/ncn
+
+
+삼악산
+	삼악/ncn+산/ncn
+
+은
+	은/ncn
+
+춘천에서도
+	춘천에서/ncn+도/jxc
+
+경치좋고
+	경치좋/paa+고/ecc
+
+볼것많은
+	볼것많/ncn+은/jxc
+
+관광지로
+	관광지/ncn+로/jca
+
+손꼽히는곳
+	손꼽히는곳/ncn
+
+
+삼악산
+	삼악/ncn+산/ncn
+
+등산로
+	등산로/ncn
+
+
+등산
+	등산/ncpa
+
+노
+	노/ncn
+
+주변에는
+	주변/ncn+에/jca+는/jxc
+
+소나무숲과
+	소나무숲/ncn+과/jcj
+
+잡목이
+	잡목/ncn+이/jcc
+
+어우러져
+	어우러지/pvg+어/ecx
+
+제법
+	제법/mag
+
+재미난
+	재미나/pvg+ㄴ/etm
+
+산행을
+	산행/ncn+을/jco
+
+줄길수있다
+	줄길수있다/ncn
+
+
+주봉
+	주봉/ncn
+
+이
+	이/mmd
+
+셋
+	셋/nnc
+
+이라해서
+	이르/pvg+어/ecx+하/px+어서/ecs
+
+삼악
+	삼악/ncn
+
+이라하는데
+	이르/pvg+어/ecx+하/px+ㄴ데/ecs
+
+악자를
+	악자/ncn+를/jco
+
+붙이는
+	붙이/pvg+는/etm
+
+산
+	사/pvg+ㄴ/etm
+
+답게
+	답/ncn+게/jca
+
+제법
+	제법/mag
+
+험하고
+	헐/pvg+ㅁ/etn+하고/jct
+
+거칠다
+	거칠/paa+다/ef
+
+
+삼악산
+	삼악/ncn+산/ncn
+
+은
+	은/ncn
+
+갖가지
+	갖가지/mma
+
+모양을
+	모양/ncn+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+크고
+	크/paa+어/ef+고/jcr
+
+작은
+	작/paa+은/etm
+
+바위가
+	바위/ncn+가/jcs
+
+많다
+	많/paa+다/ef
+
+주
+	주/nbu
+
+능선
+	능선/ncn
+
+은
+	은/ncn
+
+바위로
+	바위/ncn+로/jca
+
+되어있다
+	되/nbu+이/jp+어/ecx+있/px+다/ef
+
+
+강촌역에서
+	강촌/ncn+역/ncn+에서/jca
+
+춘천가는버스를이용
+	춘천가는버스를이용/ncn
+
+의암댐
+	의암댐/ncn
+
+입구나
+	입구/ncn+나/jcj
+
+매표소
+	매표소/ncn
+
+입구에서
+	입구/ncn+에서/jca
+
+내리시면됨니다
+	내리시면됨니/ncn+이/jp+다/ef
+
+
+삼악산
+	삼악/ncn+산/ncn
+
+등산노중에
+	등산/ncpa+노/ncn+중/xsnx+에/jca
+
+강촌에서
+	강촌/ncn+에서/jca
+
+강촌대교를건너
+	강촌대교를건너/ncn
+
+약20-30분걸르면
+	약20-30분걸르/ncn+이/jp+면/ecs
+
+등선
+	등선/ncn
+
+봉으로
+	봉/ncn+으로/jca
+
+오르는
+	오르/pvg+는/etm
+
+길이
+	길/ncn+이/jcc
+
+하나있다
+	하/pvg+어/ecx+나/px+아/ecx+있/px+다/ef
+
+
+삼악산
+	삼악/ncn+산/ncn
+
+정상
+	정상/ncn
+
+
+상원사
+	상원사/ncn
+
+는.
+	늘/pvg+ㄴ/etm+./sf
+
+창건연대를
+	창건연대/ncn+를/jco
+
+알수없으나
+	알/pvg+ㄹ/etm+수/nbn+없/xsmn+으나/ecs
+
+신라시대의
+	신라시대/ncn+의/jcm
+
+고찰이라
+	고찰/ncn+이/jp+라/ecs
+
+하며
+	하/pvg+며/ecc
+
+최근에
+	최근/ncn+에/jca
+
+개축한것으로
+	개축/ncpa+하/xsva+ㄴ/etm+것/nbn+으로/jca
+
+제법
+	제법/mag
+
+규모
+	규모/ncn
+
+있는
+	있/px+는/etm
+
+절이다
+	절이/pvg+다/ef
+
+
+삼악산
+	삼악/ncn+산/ncn
+
+정상
+	정상/ncn
+
+을
+	을/ncn
+
+올라가려면
+	오르/pvg+아/ecx+가/px+려면/ecs
+
+구름다리와
+	구름/ncn+다리/ncn+와/jct
+
+가파른
+	가파르/paa+ㄴ/etm
+
+계단길을
+	계단/ncn+길/ncn+을/jco
+
+내려가야
+	내리/pvg+어/ecx+가/px+아/ecx
+
+하지만
+	하/pvg+지만/ecs
+
+중간에
+	중간/ncn+에/jca
+
+
+선녀
+	선녀/ncn
+
+탕
+	탕/nbu
+
+등이
+	등/nbu+이/jcc
+
+있어
+	있/px+어/ecx
+
+심심치않다
+	심심치않다/ncn

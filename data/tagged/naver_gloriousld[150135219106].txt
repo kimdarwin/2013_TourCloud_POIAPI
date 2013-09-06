@@ -1,0 +1,1381 @@
+[대마도여행/일본여행]
+	[대마도여행/일본여행]/ncn
+
+남국의
+	남국/ncn+의/jcm
+
+바다,
+	바/nbn+이/jp+다/ef+,/sp
+
+대마도
+	대마/ncn+도/jxc
+
+그린파크
+	그린/ncn+파크/ncn
+
+해수욕장
+	해수욕장/ncn
+
+(쓰시마여행)
+	(쓰시마여행/ncn+)/sr
+
+
+Nearest
+	Nearest/f
+
+Japan,
+	Japan/f+,/sp
+
+Tsushima
+	Tsushima/f
+
+Island
+	Island/f
+
+
+남국의
+	남국/ncn+의/jcm
+
+바다
+	바/nbn+이/jp+다/ef
+
+그린파크
+	그린/ncn+파크/ncn
+
+해수욕장
+	해수욕장/ncn
+
+
+대마도에서의
+	대마/ncn+도/ncn+에서/jca+의/jcm
+
+추억을
+	추억/ncpa+을/jco
+
+정리하는
+	정리/ncpa+하/xsva+는/etm
+
+중.
+	중/nbn+./sf
+
+
+시선은
+	시선/ncn+은/jxc
+
+자꾸만
+	자꾸/mag+만/jxc
+
+몇
+	몇/nnc
+
+장의
+	장/nbu+의/jcm
+
+사진에서
+	사진/ncn+에서/jca
+
+떠나지
+	떠나/pvg+지/ecx
+
+못한다
+	못하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+가기
+	가/px+기/etn
+
+전까진,
+	전까진,/ncn
+
+그런
+	그러/pvd+ㄴ/etm
+
+곳이
+	곳/ncn+이/jcc
+
+있는지도
+	있/px+는지/ecs+도/jxc
+
+몰랐던
+	모르/pvg+아/ep+ㄴ/etm
+
+곳.
+	곳/nbu+./sf
+
+
+이즈하라에서
+	이즈하라/ncn+에서/jca
+
+조금
+	조금/mag
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+그린파크
+	그린/ncn+파크/ncn
+
+해수욕장
+	해수욕장/ncn
+
+.
+	./sf
+
+
+그곳에서
+	그곳/ncn+에서/jca
+
+우린
+	우/ncn+이/jp+리/ep+ㄴ/etm
+
+너무
+	너무/mag
+
+행복해
+	행복/ncps+하/xsms+어/ecx
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+왜.
+	왜/ii+./sf
+
+..
+	./sf+./sf
+
+
+왜일까
+	왜/ncn+이/jp+ㄹ까/ef
+
+?
+	?/sf
+
+
+복잡한
+	복잡/ncps+하/xsms+ㄴ/etm
+
+해안선
+	해안선/ncn
+
+사이로
+	사이/ncn+로/jca
+
+자리잡은
+	자리잡/pvg+은/etm
+
+해수욕장
+	해수욕장/ncn
+
+.
+	./sf
+
+
+바닷물
+	바닷물/ncn
+
+색이
+	색/ncn+이/jcc
+
+아름답긴
+	아름답긴/ncn
+
+하지만
+	하/pvg+지만/ecs
+
+그리
+	그리/mad
+
+대단한
+	대/nbu+이/jp+단/etm+한/nbn
+
+곳은
+	곳/ncn+은/jxc
+
+아니다
+	아니/paa+다/ef+./sf
+
+.
+	./sf
+
+
+생각해보면,
+	생각/ncpa+하/xsva+어/ecx+보/px+면/ecs+,/sp
+
+우리나라에도
+	우리나라/ncn+에/jca+도/jxc
+
+이보다
+	이/npd+보다/jca
+
+아름다운
+	아름답/paa+은/etm
+
+바다는
+	바다/ncn+는/jxc
+
+얼마든지
+	얼마/ncn+이/jp+든지/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+여행의
+	여행/ncpa+의/jcm
+
+마지막
+	마지막/ncn
+
+날,
+	나/px+ㄹ/etm+,/sp
+
+이틀
+	이틀/ncn
+
+동안
+	동안/ncn
+
+꾸물꾸물
+	꾸물꾸물/ncn
+
+했던
+	하/px+었/ep+던/etm
+
+것과는
+	것/nbn+과/jct+는/jxc
+
+달리
+	달리/mag
+
+아침부터
+	아침/ncn+부터/jxc
+
+화창하게
+	화창/ncps+하/xsms+게/ecs
+
+갠
+	개/pvg+ㄴ/etm
+
+완연한
+	완연/ncps+하/xsms+ㄴ/etm
+
+봄
+	보/px+ㅁ/etn
+
+날씨다
+	날씨/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이틀
+	이틀/ncn
+
+동안
+	동안/ncn
+
+내린
+	내리/pvg+ㄴ/etm
+
+비
+	비/ncn
+
+때문에
+	때문/nbn+에/jca
+
+공기는
+	공기/nbu+는/jxc
+
+더
+	더/mag
+
+깨끗하다
+	깨끗/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+백사장의
+	백/nnc+사/nnc+장/nbu+의/jcm
+
+모래는
+	모래/ncn+는/jxc
+
+따스하고,
+	따스/ncps+하고/jct+,/sp
+
+바닷바람은
+	바닷바람/ncn+은/jxc
+
+시원하다
+	시원/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+점심으로
+	점심/ncn+으로/jca
+
+모스버거를
+	모스버거/ncn+를/jco
+
+먹은터라,
+	먹/pvg+은/etm+터/nbn+이/jp+라/ef+,/sp
+
+나른한
+	나르/pvg+ㄴ/etm+한/nbn
+
+졸음이
+	졸/pvg+ㅁ/etn+이/jcs
+
+밀려온다
+	밀리/pvg+어/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+저마다
+	저/npp+마다/jxc
+
+편한
+	편하/paa+ㄴ/etm
+
+자세로
+	자세/ncn+로/jca
+
+널부러진다
+	널부러진다/ncn
+
+.
+	./sf
+
+
+우리
+	우리/npp
+
+사이를
+	사이/ncn+를/jco
+
+흐르던
+	흐르/pvg+던/etm
+
+약간의
+	약간/ncn+의/jcm
+
+서먹함은어느새
+	서먹함은어느새/ncn
+
+찾아
+	찾/pvg+아/ecx
+
+볼
+	보/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+모든
+	모든/mma
+
+것은
+	것/nbn+은/jxc
+
+어제보다
+	어제/ncn+보다/jca
+
+좋았다
+	좋/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+어쩌면
+	어쩌면/mag
+
+우리,
+	우리/npp+,/sp
+
+우리가
+	우리/npp+가/jcs
+
+느끼는건
+	느끼는건/ncn
+
+속도가
+	속도/ncn+가/jcs
+
+아니라,
+	아니/paa+라/ef+,/sp
+
+가속도
+	가속/ncn+도/jxc
+
+일지
+	일/pvg+지/ecx
+
+모른다
+	모르/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+우리의
+	우리/npp+의/jcm
+
+감각과
+	감각/ncpa+과/jct
+
+뇌는
+	뇌/pvg+는/etm
+
+절대적인
+	절대/ncn+적/ncn+이/jp+ㄴ/etm
+
+수치를
+	수치/ncn+를/jco
+
+측정하지
+	측정/ncpa+하/xsva+지/ecx
+
+못한다
+	못하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+상대적인
+	상대/ncn+적/ncn+이/jp+ㄴ/etm
+
+변화만을
+	변화/ncpa+만/ncn+을/jco
+
+인지할
+	인지/ncpa+하/xsva+ㄹ/etm
+
+뿐.
+	뿐/nbn+./sf
+
+..
+	./sf+./sf
+
+
+그토록
+	그토록/mag
+
+기다려왔던
+	기다리/pvg+어/ecx+오/px+아/ep+ㄴ/etm
+
+대마도의
+	대마/ncn+도/ncn+의/jcm
+
+맑은
+	맑/paa+은/etm
+
+봄날
+	봄날/ncn
+
+.
+	./sf
+
+
+그뿐이다
+	그/npp+뿐/xsnx+이/jp+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+하나에도
+	하나/nnc+에/jca+도/jxc
+
+마냥
+	마냥/mag
+
+행복했다
+	행복/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+만약
+	만약/mag
+
+지난
+	지나/pvg+ㄴ/etm
+
+이틀동안
+	이틀/ncn+동안/ncn
+
+맑은
+	맑/paa+은/etm
+
+날씨가
+	날씨/ncn+가/jcs
+
+계속되었다면,
+	계속/ncpa+되/xsvn+었/ep+다면/ecs+,/sp
+
+
+우린
+	우/ncn+이/jp+리/ep+ㄴ/etm
+
+이
+	이/mmd
+
+곳에서
+	곳/ncn+에서/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+표정을
+	표정/ncn+을/jco
+
+지을
+	지/px+ㄹ/etm
+
+수
+	수/nbn
+
+있었을까
+	있/px+었/ep+을까/ef
+
+?
+	?/sf
+
+
+오르막
+	오르막/ncn
+
+길
+	길/paa+ㄹ/etm
+
+뒤에는
+	뒤/ncn+에/jca+는/jxc
+
+언제나
+	언제나/mag
+
+내리막
+	내리막/ncn
+
+길이
+	길/ncn+이/jcc
+
+있듯,
+	있/paa+듯/ecs+,/sp
+
+
+실망스런
+	실망/ncpa+스런/jcm
+
+것이
+	것/nbn+이/jcc
+
+있다면,
+	있/px+다면/ecs+,/sp
+
+또
+	또/maj
+
+기대
+	기대/ncpa
+
+이상인
+	이상/ncn+이/jp+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+한걸음
+	한/nnc+걸음/nbu
+
+물러서서
+	물러서/pvg+어서/ecs
+
+보면
+	보/px+면/ecs
+
+그
+	그/mmd
+
+덧셈과
+	덧셈/ncpa+과/jcj
+
+뺄셈은
+	빼/pvg+ㄹ/etm+셈/nbn+은/jxc
+
+항상
+	항상/mag
+
+어디선가
+	어디선/ncn+가/jcs
+
+묘한
+	묘하/paa+ㄴ/etm
+
+균형을
+	균형/ncn+을/jco
+
+이룬다
+	이루/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+여행이
+	여행/ncpa+이/jcc
+
+그렇고
+	그렇/pad+고/ecc
+
+인생이
+	인생/ncn+이/jcc
+
+그렇다
+	그렇/pad+다/ef
+
+.
+	./sf
+
+
+조바심
+	조바심/ncn
+
+내거나
+	내/npp+이/jp+거나/ecc
+
+실망할
+	실망/ncpa+하/xsva+ㄹ/etm
+
+필요는
+	필요/ncps+는/jxc
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+인생의
+	인생/ncn+의/jcm
+
+그래프,
+	그래프/ncn+,/sp
+
+그그래프의
+	그그래프/ncn+의/jcm
+
+시간축을
+	시간/ncn+축/ncn+을/jco
+
+조금
+	조금/mag
+
+축소해보면
+	축소/ncpa+하/xsva+어/ecx+보/px+면/ecs
+
+
+어제,
+	어제/ncn+,/sp
+
+오늘의그
+	오늘의그/ncn
+
+작은
+	작/paa+은/etm
+
+오르내림은
+	오르내리/pvg+ㅁ/etn+은/jxc
+
+잘
+	잘/mag
+
+보이지
+	보이/pvg+지/ecx
+
+않게된다
+	않/px+게/ecx+되/px+ㄴ다/ef
+
+.
+	./sf
+
+
+어쩌면
+	어쩌면/mag
+
+우리,
+	우리/npp+,/sp
+
+우리가
+	우리/npp+가/jcs
+
+가진
+	가지/pvg+ㄴ/etm
+
+것들,
+	것들,/ncn
+
+감사할
+	감사/ncpa+하/xsva+ㄹ/etm
+
+것들의
+	것들/ncn+의/jcm
+
+합은
+	합/ncn+은/jxc
+
+인지하지
+	인지/ncpa+하/xsva+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+채,
+	채/nbn+,/sp
+
+
+일희일비하며
+	일희일비/ncpa+하/xsva+며/ecc
+
+살고있는
+	살/pvg+고/ecx+있/px+는/etm
+
+건
+	거/nbn+은/jxc
+
+아닐까
+	아니/paa+ㄹ까/ef
+
+?
+	?/sf
+
+
+하나의
+	하나/nnc+의/jcm
+
+잃고
+	잃/pvg+고/ecc
+
+얻음
+	얻/pvg+음/etn
+
+보다,
+	보/px+다/ef+,/sp
+
+이미
+	이미/mag
+
+가진
+	가지/pvg+ㄴ/etm
+
+백
+	백/nnc
+
+가지를
+	가지/nbu+를/jco
+
+헤어려
+	헤어려/ncn
+
+본다면
+	보/px+ㄴ다면/ecs
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+행복하지
+	행복/ncps+하/xsms+지/ecx
+
+않을까
+	않/px+을까/ef
+
+?
+	?/sf
+
+
+여행길에서
+	여행길/ncn+에서/jca
+
+행복의
+	행복/ncps+의/jcm
+
+기술을
+	기술/ncn+을/jco
+
+생각하다
+	생각/ncpa+하/xsva+어다/ecs
+
+...
+	.../se
+
+
+따스한
+	따스/ncps+하/xsms+ㄴ/etm
+
+햇살은
+	햇살/ncn+은/jxc
+
+우리를
+	우리/npp+를/jco
+
+무장해제시켜버린다
+	무장해제/ncpa+시키/xsva+어/ecx+버리/px+ㄴ다/ef
+
+.
+	./sf
+
+
+저마다의
+	저마다/ncn+의/jcm
+
+방식으로봄과
+	방식으로봄/ncn+과/jct
+
+만나고
+	만나/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+한
+	하/pvg+ㄴ/etm
+
+명,
+	명/nbu+,/sp
+
+두
+	두/nnc
+
+명,
+	명/nbu+,/sp
+
+세
+	세/nnc
+
+명,
+	명/nbu+,/sp
+
+,,,
+	,/sp+,/sp+,/sp
+
+여덟
+	여덟/nnc
+
+명,
+	명/nbu+,/sp
+
+
+나머지
+	나머지/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+명은
+	명/nbu+은/jxc
+
+?
+	?/sf
+
+
+저기,
+	저/npp+이/jp+기/etn+,/sp
+
+나머지
+	나머지/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+분,
+	분/nbu+,/sp
+
+가장
+	가장/mag
+
+적극적으로
+	적극/ncn+적/ncn+으로/jca
+
+봄을
+	보/px+ㅁ/etn+을/jco
+
+만나고
+	만나/pvg+고/ecc
+
+계신
+	계시/paa+ㄴ/etm
+
+분이
+	분/nbu+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+남들이
+	남/ncn+들/xsncc+이/jcc
+
+노숙자라고
+	노숙/ncn+자/ncn+이/jp+라/ef+고/jcr
+
+놀리면
+	놀리/pvg+면/ecs
+
+어떠하랴~
+	어떠하/pad+랴/ef+~/sd
+
+
+이
+	이/mmd
+
+해변은
+	해변/ncn+은/jxc
+
+온전히
+	온전히/mag
+
+우리들의
+	우리들/npp+의/jcm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+한적한
+	한적/ncps+하/xsms+ㄴ/etm
+
+분위기가
+	분위기/ncn+가/jcs
+
+참
+	참/mag
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+햇살
+	햇살/ncn
+
+참
+	참/mag
+
+따스하다
+	따스/ncps+하/xsms+다/ef
+
+
+하늘을
+	하늘/ncn+을/jco
+
+향해
+	향하/pvg+어/ecx
+
+하이킥도
+	하이킥/ncn+도/jxc
+
+날려보고
+	날리/pvg+어/ecx+보/px+고/ecc
+
+...
+	.../se
+
+
+그러다
+	그러/pvd+어다/ecs
+
+심심해지면(
+	심심/ncps+해지/ncpa+면/xsncc+(/sl
+
+?)
+	?/sf+)/sr
+
+
+사진도
+	사진/ncn+도/jxc
+
+찍어보고
+	찍/pvg+어/ecx+보/px+고/ecc
+
+...
+	.../se
+
+
+햇살
+	햇살/ncn
+
+좋은
+	좋/paa+은/etm
+
+기념으로
+	기념/ncpa+으로/jca
+
+긴급
+	긴급/ncps
+
+제작한
+	제작/ncpa+하/xsva+ㄴ/etm
+
+청춘
+	청춘/ncn
+
+드라마
+	드라마/ncn
+
+12
+	12/nnc
+
+
+"불가사리"
+	"/sl+불가사리/ncn+"/sr
+
+
+해변을
+	해변/ncn+을/jco
+
+방황하던
+	방황/ncpa+하/xsva+던/etm
+
+남자,
+	남자/ncn+,/sp
+
+혼자있는
+	혼자/ncn+있/xsmn+는/etm
+
+여자를
+	여자/ncn+를/jco
+
+발견하고
+	발견/ncpa+하고/jct
+
+다가간다
+	다가가/pvg+ㄴ다/ef
+
+
+"이거
+	"/sl+이거/npd
+
+줄게요"
+	줄/pvg+게/ef+요/jxf+"/sr
+
+
+"네
+	"/sl+네/ii
+
+?"
+	?/sf+"/sl
+
+
+"자연산이에요",
+	"/sl+자연/ncn+산/ncn+이/jp+에요/ef+"/sr+,/sp
+
+"답례로
+	"/sl+답례/ncpa+로/jca
+
+트위터
+	트위터/ncn
+
+아이디라도;;"
+	아이디라도/ncn+;/sy+;/sy+"/sl
+
+
+".
+	"/sl+./sy
+
+..
+	./sf+./sf
+
+
+..."
+	.../se+"/sl
+
+
+"이거
+	"/sl+이거/npd
+
+가져가야죠
+	가/pvg+아/ecx+지/px+어/ecx+가/px+아/ef
+
+!
+	!/sf
+
+
+요딴거
+	요딴거/ncn
+
+필요없어요"
+	필요/ncps+없/xsmn+어요/ef+"/sr
+
+
+남자는
+	남자/ncn+는/jxc
+
+못들은
+	못/ncn+들/xsncc+은/jxc
+
+척
+	척/mag
+
+자리를
+	자리/ncn+를/jco
+
+피한다
+	피하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+다시
+	다시/mag
+
+햇살을
+	햇살/ncn+을/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+여자
+	여자/ncn
+
+
+한편,
+	한/nnc+편/nbu+,/sp
+
+남자는
+	남자/ncn+는/jxc
+
+...
+	.../se
+
+
+불가사리가
+	불가사리/ncn+가/jcs
+
+조금
+	조금/mag
+
+작았나;;;
+	작았나/ncn+;/sy+;/sy+;/sy
+
+
+더
+	더/mag
+
+큰
+	크/paa+ㄴ/etm
+
+불가사리를
+	불가사리/ncn+를/jco
+
+찾아
+	찾/pvg+아/ecx
+
+다시
+	다시/mag
+
+방황하는
+	방황/ncpa+하/xsva+는/etm
+
+남자
+	남자/ncn
+
+.
+	./sf
+
+
+THE
+	THE/f
+
+END
+	END/f
+
+
+대마도에서의
+	대마/ncn+도/ncn+에서/jca+의/jcm
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+이야기는
+	이야기/ncpa+는/jxc
+
+
+To
+	To/f
+
+be
+	be/f
+
+continued.
+	continued/f+./sy
+
+..
+	./sf+./sf
+
+
+~~~
+	~/sd+~/sd+~/sd
+
+
+구독료는
+	구독료/ncn+는/jxc
+
+저렴하게
+	저렴/ncps+하/xsms+게/ecs
+
+공감
+	공감/ncpa
+
+한
+	한/nnc
+
+개와
+	개/nbu+와/jcj
+
+덧글
+	덧글/ncn
+
+한개
+	한/nnc+개/nbu
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+포스팅은
+	포스팅은/ncn
+
+여러분이
+	여러/nnc+분/nbu+이/jcc
+
+납부하신
+	납부/ncpa+하/xsva+시/ep+ㄴ/etm
+
+구독료로
+	구독료/ncn+로/jca
+
+제작되었습니다
+	제작/ncpa+되/xsvn+었/ep+습니다/ef
+
+
+2012년에도
+	2012/nnc+년/nbu+에/jca+도/jxc
+
+성실납세
+	성실/ncps+납세/ncpa
+
+감사합니다
+	감사/ncpa+하/xsva+ㅂ니다/ef
+
+^^
+	^/sy+^/sy
+
+
+[대마도여행/일본여행]
+	[대마도여행/일본여행]/ncn
+
+남국의
+	남국/ncn+의/jcm
+
+바다,
+	바/nbn+이/jp+다/ef+,/sp
+
+대마도
+	대마/ncn+도/jxc
+
+그린파크
+	그린/ncn+파크/ncn
+
+해수욕장
+	해수욕장/ncn
+
+(쓰시마여행)
+	(쓰시마여행/ncn+)/sr
+
+
+[대마도여행/일본여행]
+	[대마도여행/일본여행]/ncn
+
+대마도여행
+	대마도여행/ncn
+
+혹은
+	혹은/maj
+
+엠티,
+	엠티,/ncn
+
+그
+	그/mmd
+
+2박3일간의
+	2박3일간/ncn+의/jcm
+
+순간들
+	순간/ncn+들/ncn
+
+(쓰시마여행,히타카츠,이즈하라)
+	(쓰시마여행,히타카츠/ncn+,/sp+이즈하라/ncn+)/sr

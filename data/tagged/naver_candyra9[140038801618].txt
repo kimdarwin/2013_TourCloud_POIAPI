@@ -1,0 +1,142 @@
+"웰컴투
+	"웰컴투/ncn
+
+동막골
+	동막골/ncn
+
+영화
+	영화/ncn
+
+촬영지"
+	촬영지/ncn+"/sl
+
+
+일년전
+	일년/ncn+전/ncn
+
+남편과
+	남편/ncn+과/jct
+
+함께
+	함께/mag
+
+다녀왔던
+	다니/pvg+어/ecx+오/px+아/ep+ㄴ/etm
+
+곳이였으나,
+	곳이/ncn+이/jp+었/ep+으나/ecc+,/sp
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+오랜
+	오랜/mma
+
+학교
+	학교/ncn
+
+친구들과
+	친구/ncn+들/ncn+과/jcj
+
+
+네명이
+	네/nnc+명/nbu+이/jcc
+
+함께
+	함께/mag
+
+다녀와서
+	다니/pvg+어/ecx+오/px+아/ecx
+
+더욱
+	더욱/mag
+
+즐거웠어욤
+	즐거웠어욤/ncn
+
+.
+	./sf
+
+
+저는
+	저/npp+는/jxc
+
+네명과
+	네/nnc+명/nbu+과/jct
+
+꾸준히
+	꾸준히/mag
+
+자주
+	자주/mag
+
+만나고
+	만나/pvg+고/ecc
+
+지내왔으나
+	지내/pvg+어/ecx+오/px+아/ep+나/ecc
+
+
+다른
+	다른/mma
+
+세명은
+	세/nnc+명/nbu+은/jxc
+
+제
+	저/npp+의/jcm
+
+결혼식
+	결혼식/ncn
+
+때
+	때/ncn
+
+보고
+	보/px+고/ecc
+
+3년만에
+	3/nnc+년/nbu+만에/jca
+
+처음
+	처음/mag
+
+만난
+	만나/pvg+ㄴ/etm
+
+얼굴들이라
+	얼굴/ncn+들이/ncn+라/ncn
+
+
+너무나
+	너무나/mag
+
+반가워했고
+	반갑/paa+어/ecx+하/px+었/ep+고/ecc
+
+
+그래서
+	그래서/maj
+
+더
+	더/mag
+
+즐겁고
+	즐겁/paa+고/ecc
+
+뜻깊은
+	뜻깊/paa+은/etm
+
+여행이
+	여행/ncpa+이/jcc
+
+되었죵
+	되었죵/ncn
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy

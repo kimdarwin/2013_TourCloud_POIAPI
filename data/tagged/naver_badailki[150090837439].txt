@@ -1,0 +1,76 @@
+경기도
+	경기/ncn+도/jxc
+
+여주군
+	여주군/ncn
+
+여주읍
+	여주읍/ncn
+
+하리에
+	하리/ncn+에/jca
+
+위치하고
+	위치/ncn+하고/jct
+
+있는
+	있/px+는/etm
+
+5공구
+	5공/ncn+구/ncn
+
+왕대리섬
+	왕대리섬/ncn
+
+공사현장
+	공사현장/ncn
+
+.
+	./sf
+
+
+사유지는
+	사유지/ncn+는/jxc
+
+보상처리가
+	보상/ncpa+처리/ncpa+가/jcc
+
+되지
+	되/pvg+지/ecx
+
+않아
+	않/px+아/ecx
+
+공사진행이
+	공사진행/ncpa+이/jcc
+
+되지
+	되/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+국유지
+	국유지/ncn
+
+기준으로
+	기준/ncpa+으로/jca
+
+부분적으로
+	부분/ncn+적/ncn+으로/jca
+
+
+기초
+	기초/ncn
+
+작업만
+	작업/ncpa+만/jxc
+
+되어있는
+	되/pvg+어/ecx+있/px+는/etm
+
+상황이다
+	상황/ncn+이/jp+다/ef
+
+.
+	./sf

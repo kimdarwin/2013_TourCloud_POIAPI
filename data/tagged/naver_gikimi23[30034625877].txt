@@ -1,0 +1,1229 @@
+남해군
+	남해/ncn+군/ncn
+
+
+경상남도
+	경상/ncn+남도/ncn
+
+
+기간
+	기간/ncn
+
+2008.
+	2008./nnc
+
+8.
+	8./nnc
+
+7~
+	7/nnc+~/sd
+
+2008.
+	2008./nnc
+
+8.
+	8./nnc
+
+9(2박
+	9(2박/ncn
+
+3일)
+	3/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+여자끼리
+	여자/ncn+끼리/jxc
+
+떠나는
+	떠나/pvg+는/etm
+
+여행
+	여행/ncpa
+
+
+2박3일의
+	2박3일/ncn+의/jcm
+
+달콤한
+	달콤한/ncn
+
+휴가길
+	휴가/ncn+길/ncn
+
+
+함께
+	함께/mag
+
+동행할
+	동행/ncpa+하/xsva+ㄹ/etm
+
+친구집에서
+	친구/ncn+집/ncn+에서/jca
+
+하루를
+	하루/ncn+를/jco
+
+자고
+	자/pvg+고/ecc
+
+아침일찍
+	아침일찍/ncn
+
+남해로
+	남해/ncn+로/jca
+
+출발을
+	출발/ncpa+을/jco
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+첫번째
+	첫/nno+번/nbu+째/xsnu
+
+목적지는
+	목적지/ncn+는/jxc
+
+진주
+	진주/ncpa
+
+!
+	!/sf
+
+
+남해보다
+	남해/ncn+보다/jca
+
+서울이나
+	서울/ncn+이나/jcj
+
+부산
+	부산/ncps
+
+등지에서
+	등지/nbn+에서/jca
+
+오는
+	오/px+는/etm
+
+교통편이
+	교통편/ncn+이/jcc
+
+대체로
+	대체로/mag
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+작년
+	작년/ncn
+
+혼자
+	혼자/mag
+
+남해여행할때도
+	남해/ncn+여행/ncpa+하/xsva+ㄹ/etm+때/nbn+도/jxc
+
+남해에서
+	남해/ncn+에서/jca
+
+서울로
+	서울/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+버스가
+	버스/ncn+가/jcs
+
+일찍
+	일찍/mag
+
+끊겨서
+	끊기/pvg+어서/ecs
+
+진주까지
+	진주/ncpa+까지/jxc
+
+버스를
+	버스/ncn+를/jco
+
+타고가서
+	타/pvg+고/ecx+가/px+아/ecx
+
+서울로
+	서울/ncn+로/jca
+
+왔더랬죠
+	왔더랬죠/ncn
+
+.
+	./sf
+
+
+이번엔
+	이/nnc+번/nbu+엔/jca
+
+부산에서
+	부산/ncps+에서/jca
+
+오는
+	오/px+는/etm
+
+언니를
+	언니/ncn+를/jco
+
+진주에서
+	진주/ncpa+에서/jca
+
+픽업하고
+	픽업/ncn+하고/jct
+
+남해대교를
+	남해대교/ncn+를/jco
+
+건너서
+	건너/pvg+어서/ecs
+
+남해로
+	남해/ncn+로/jca
+
+들어가기로
+	들/pvg+어/ecx+가/px+기/etn+로/jca
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+아침8시반경
+	아침8시반경/ncn
+
+안성에서
+	알/pvg+ㄴ/etm+성/nbs+에서/jca
+
+출발
+	출발/ncpa
+
+!!
+	!/sf+!/sf
+
+
+중부고속도로를
+	중부고속도로/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+달린지
+	달리/pvg+ㄴ지/ecs
+
+30분도
+	30/nnc+분/nbu+도/jxc
+
+안되어서
+	안되/paa+어서/ecs
+
+배고픔을
+	배고프/paa+ㅁ/etn+을/jco
+
+느끼고
+	느끼/pvg+고/ecc
+
+일단
+	일단/mag
+
+휴게소로
+	휴게소/ncn+로/jca
+
+고고
+	고/ncn+이/jp+고/ecc
+
+;;;
+	;/sy+;/sy+;/sy
+
+
+라면과
+	라면/ncn+과/jcj
+
+가락국수로
+	가락국수/ncn+로/jca
+
+아침을먹고
+	아침을먹고/ncn
+
+라디오를
+	라디오/ncn+를/jco
+
+들으며
+	들/pvg+며/ecc
+
+수다를
+	수다/ncn+를/jco
+
+한껏
+	한껏/mag
+
+떨면서
+	떨/pvg+면서/ecc
+
+진주로
+	진주/ncpa+로/jca
+
+향했습니다
+	향하/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+중간에
+	중간/ncn+에/jca
+
+덕유산휴게소에서
+	덕유산휴게소/ncn+에서/jca
+
+아이스크림도
+	아이스크림/ncn+도/jxc
+
+먹어줬구요
+	먹어줬구요/ncn
+
+;;
+	;/sy+;/sy
+
+
+4시간만에
+	4/nnc+시간/nbu+만에/jca
+
+진주도착
+	진주/ncpa+도착/ncpa
+
+!
+	!/sf
+
+
+언니를
+	언니/ncn+를/jco
+
+태우고
+	태우/pvg+고/ecc
+
+본격적인
+	본격/ncn+적/ncn+이/jp+ㄴ/etm
+
+네
+	네/npp
+
+여자의
+	여자/ncn+의/jcm
+
+남해여행을
+	남해/ncn+여행/ncpa+을/jco
+
+시작
+	시작/ncpa
+
+!!
+	!/sf+!/sf
+
+
+남해의
+	남해/ncn+의/jcm
+
+처음목적지는
+	처음/ncn+목적지/ncn+는/jxc
+
+남해대교와
+	남해대교/ncn+와/jcj
+
+충렬사
+	충렬사/ncn
+
+
+진주에서
+	진주/ncpa+에서/jca
+
+남해로
+	남해/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+길은
+	길/ncn+은/jxc
+
+사천으로해서
+	사천으로해서/ncn
+
+창선
+	창/ncn+선/jxc
+
+삼천포
+	삼천포/ncn
+
+대교를
+	대교/ncn+를/jco
+
+건너는
+	건너/pvg+는/etm
+
+길과
+	길/nbu+과/jcj
+
+
+남해대교를
+	남해대교/ncn+를/jco
+
+건너
+	건너/pvg+어/ecx
+
+가는길이
+	가는길/ncn+이/jcc
+
+있는데
+	있/px+는데/ecs
+
+저희는
+	저희/npp+는/jxc
+
+충렬사를
+	충렬사/ncn+를/jco
+
+가기위해
+	가기위해/ncn
+
+남해대교를
+	남해대교/ncn+를/jco
+
+택했더랬습니다
+	택했더랬습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+남해대교를
+	남해대교/ncn+를/jco
+
+향해
+	향하/pvg+어/ecx
+
+열~심히~~~
+	열/pvg+ㄹ/etm+~/sd+심/ncn+히/xsas+~/sd+~/sd+~/sd
+
+달려가는데
+	달리/pvg+어/ecx+가/px+ㄴ데/ecs
+
+!!
+	!/sf+!/sf
+
+
+또
+	또/maj
+
+배가고프다고
+	배가고프/ncn+이/jp+다/ef+고/jcr
+
+여기저기서
+	여기저기/npd+서/jca
+
+;;
+	;/sy+;/sy
+
+
+그래서
+	그래서/maj
+
+하동쯤을
+	하동쯤/ncn+을/jco
+
+지나다가
+	지나/pvg+아/ecx+가/px+아/ecx
+
+재첩국을
+	재첩국/ncn+을/jco
+
+먹으러
+	먹/pvg+으러/ecs
+
+들어갔습니다
+	들/pvg+어/ecx+가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+작년에
+	작년/ncn+에/jca
+
+혼자
+	혼자/mag
+
+하동을
+	하동/ncn+을/jco
+
+왔을때
+	오/px+아/ep+ㄹ/etm+때/nbn
+
+재첩국을
+	재첩국/ncn+을/jco
+
+먹어보지
+	먹/pvg+어/ecx+보/px+지/ecx
+
+못한게
+	못하/px+ㄴ게/ecs
+
+참
+	참/mag
+
+아쉬웠는데
+	아쉽/paa+었/ep+는데/ecs
+
+!
+	!/sf
+
+
+재첩국
+	재첩국/ncn
+
+!
+	!/sf
+
+
+제법
+	제법/mag
+
+맛있더랬습니다~
+	맛있더랬습니다~/ncn
+
+자극적이지
+	자극/ncpa+적/ncn+이/jp+지/ecs
+
+않고
+	않/px+고/ecc
+
+궁물
+	궁물/ncn
+
+시원하고~
+	시원/ncn+하고/jcj+~/sd
+
+
+개인적으로
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+남해로
+	남해/ncn+로/jca
+
+들어오는
+	들/pvg+어/ecx+오/px+는/etm
+
+길을
+	길/ncn+을/jco
+
+추천해달라면
+	추천해달라/ncn+이/jp+면/ecs
+
+남해대교로
+	남해대교/ncn+로/jca
+
+오는
+	오/px+는/etm
+
+길을
+	길/ncn+을/jco
+
+추천하고
+	추천/ncpa+하고/jct
+
+싶네요
+	싶/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+푸른
+	푸르/paa+ㄴ/etm
+
+나무터널이
+	나무/ncn+터널/ncn+이/jcc
+
+아주
+	아주/mag
+
+멋지거든요~
+	멋지/paa+거든요/ecs+~/sd
+
+
+저희는
+	저희/npp+는/jxc
+
+들어올땐
+	들어올땐/ncn
+
+남해대교로
+	남해대교/ncn+로/jca
+
+들어오고
+	들/pvg+어/ecx+오/px+고/ecc
+
+나갈땐
+	나갈땐/ncn
+
+삼천포대교로
+	삼천포대교/ncn+로/jca
+
+나갔습니다~
+	나/pvg+아/ecx+가/px+아/ep+ㅂ니다/ef+~/sd
+
+
+오후
+	오후/ncn
+
+2시반쯤
+	2시반쯤/ncn
+
+되어서
+	되/pvg+어서/ecs
+
+드디어
+	드디어/mag
+
+남해대교로
+	남해대교/ncn+로/jca
+
+들어섰습니다
+	들어서/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+푸른
+	푸르/paa+ㄴ/etm
+
+바다와
+	바다/ncn+와/jcj
+
+푸른하늘
+	푸른하늘/ncn
+
+그리도
+	그리도/mag
+
+무지하게
+	무/ncn+이/jp+지/ecx+하/px+게/ecs
+
+뜨거운
+	뜨겁/paa+은/etm
+
+햇볕과
+	햇볕/ncn+과/jct
+
+.
+	./sf
+
+
+남해대교
+	남해대교/ncn
+
+!!
+	!/sf+!/sf
+
+
+익어버릴것
+	익/pvg+어/ecx+버리/px+ㄹ/etm+것/nbn
+
+같은
+	같/paa+은/etm
+
+날씨였지만
+	날씨/ncn+이/jp+었/ep+지만/ecs
+
+서울에서
+	서울에서/ncn
+
+안성으로
+	알/pvg+ㄴ/etm+성/nbs+으로/jca
+
+안성에서
+	알/pvg+ㄴ/etm+성/nbs+에서/jca
+
+진주를
+	진주/ncpa+를/jco
+
+거쳐
+	거치/pvg+어/ecx
+
+남해까지
+	남해/ncn+까지/jxc
+
+와있다는
+	오/pvg+아/ecx+있/px+다는/etm
+
+
+그
+	그/mmd
+
+사실
+	사실/ncn
+
+.
+	./sf
+
+
+뿌듯하고
+	뿌듯/ncps+하고/jct
+
+마냥
+	마냥/mag
+
+설레임~
+	설레이/pvg+ㅁ/etn+~/sd
+
+
+섬이었던
+	서/pvg+ㅁ/etn+이/jp+었/ep+던/etm
+
+남해도와
+	남해/ncn+도/ncn+와/jcj
+
+육지를
+	육지/ncn+를/jco
+
+이어준
+	잇/pvg+어/ecx+주/px+ㄴ/etm
+
+남해대교
+	남해대교/ncn
+
+!
+	!/sf
+
+
+그로인해
+	그로인해/ncn
+
+보물섬이라
+	보물섬/ncn+이/jp+라/ecs
+
+불리는
+	불리/pvg+는/etm
+
+남해도가
+	남해/ncn+도/ncn+가/jcs
+
+더욱
+	더욱/mag
+
+발전할수
+	발전/ncpa+하/xsva+ㄹ/etm+수/nbn
+
+있었던
+	있/paa+었/ep+던/etm
+
+것이겠죠~
+	것/nbn+이/jp+겠/ep+죠/ef+~/sd
+
+
+남해대교를
+	남해대교/ncn+를/jco
+
+건너
+	건너/pvg+어/ecx
+
+조금지나
+	조금지/ncn+나/jcj
+
+우측으로
+	우측/ncn+으로/jca
+
+충렬사와
+	충렬사/ncn+와/jcj
+
+거북선으로
+	거북/ncn+선/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+길이
+	길/ncn+이/jcc
+
+있어요~
+	있/paa+어요/ef+~/sd
+
+
+높이
+	높이/mag
+
+올라가야
+	오르/pvg+아/ecx+가/px+아/ecx
+
+할것만
+	하/pvg+ㄹ/etm+것/nbn+만/jxc
+
+같았는데
+	같/paa+아/ep+ㄴ데/ecs
+
+.
+	./sf
+
+
+바다
+	바/nbn+이/jp+다/ef
+
+가까이
+	가까이/mag
+
+내려가니
+	내리/pvg+어/ecx+가/px+니/ecs
+
+충렬사가
+	충렬사/ncn+가/jcs
+
+있었고
+	있/px+었/ep+고/ecc
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+앞엔
+	앞/ncn+엔/jca
+
+실물크기의
+	실물크기/ncn+의/jcm
+
+거북선이
+	거북/ncn+선/ncn+이/jcc
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+남해대교의
+	남해대교/ncn+의/jcm
+
+모습도
+	모습/ncn+도/jxc
+
+잘볼수
+	잘볼수/ncn
+
+있고요
+	있/px+고요/ef
+
+!
+	!/sf
+
+
+실물크기의
+	실물크기/ncn+의/jcm
+
+거북선
+	거북/ncn+선/ncn
+
+입장료는
+	입장료/ncn+는/jxc
+
+1000원이고
+	1000/nnc+원/nbu+이/jp+고/ecc
+
+.
+	./sf
+
+
+어른들은
+	어른/ncn+들/ncn+은/jxc
+
+그냥그런
+	그냥그런/ncn
+
+반응들이지만
+	반응/ncpa+들/xsncc+이/jp+지만/ecs
+
+.
+	./sf
+
+
+아이들에게는
+	아이/ncn+들/ncn+에게/jca+는/jxc
+
+인기가
+	인기/ncn+가/jcs
+
+좋은듯
+	좋/paa+은/etm+듯/nbs
+
+하네요~
+	하/pvg+네요/ef+~/sd
+
+
+실물크기라고
+	실물크기/ncn+이/jp+라/ef+고/jcr
+
+친구들에게
+	친구/ncn+들/ncn+에게/jca
+
+말했더니
+	말/ncpa+하/xsva+었/ep+더니/ecs
+
+아니라고
+	아니/paa+라/ef+고/jcr
+
+하길래
+	하/pvg+길래/ecs
+
+입장료
+	입장료/ncn
+
+받으시는
+	받/pvg+으시/ep+는/etm
+
+아저씨께
+	아저씨/ncn+께/jca
+
+확인도
+	확인/ncpa+도/jxc
+
+해드렸다는
+	해드/ncn+이/jp+리/ep+었/ep+다는/etm
+
+
+실물크기
+	실물크기/ncn
+
+맞습니다~~
+	맞/pvg+습니다/ef+~/sd+~/sd
+
+
+거북선을
+	거북/ncn+선/ncn+을/jco
+
+나와
+	나/npp+와/jct
+
+충렬사로
+	충렬사/ncn+로/jca
+
+향했습니다
+	향하/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+가까이에
+	가까이/ncn+에/jca
+
+있어서
+	있/px+어서/ecs
+
+근처에
+	근처/ncn+에/jca
+
+차를
+	차/ncn+를/jco
+
+세워두고
+	세우/pvg+어/ecx+두/px+고/ecc
+
+거북선을
+	거북/ncn+선/ncn+을/jco
+
+들러
+	들르/pvg+어/ecx
+
+충렬사로
+	충렬사/ncn+로/jca
+
+걸어가면
+	걷/pvg+어/ecx+가/px+면/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+충렬사는
+	충렬사/ncn+는/jxc
+
+따로
+	따로/mag
+
+입장료가
+	입장료/ncn+가/jcs
+
+없더라구요
+	없/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+충렬사는
+	충렬사/ncn+는/jxc
+
+조선시대에
+	조선시대/ncn+에/jca
+
+이순신
+	이순신/ncn
+
+장군의
+	장군/ncr+의/jcm
+
+위패를
+	위패/ncn+를/jco
+
+모시기
+	몰/pvg+시/ep+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+세운
+	세우/pvg+ㄴ/etm
+
+사당이라고
+	사당/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이순신
+	이순신/ncn
+
+장군이
+	장군/ncr+이/jcc
+
+순국하고
+	순국/ncpa+하고/jct
+
+처음
+	처음/mag
+
+이곳에
+	이곳/npd+에/jca
+
+유해를
+	유해/ncn+를/jco
+
+안치하였다가
+	안치/ncpa+하/xsva+었/ep+다가/ecs
+
+충남
+	충남/ncn
+
+아산의
+	아산/ncn+의/jcm
+
+현충사로
+	현충사/ncn+로/jca
+
+이장했습니다
+	이장했습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+지금
+	지금/mag
+
+이
+	이/mmd
+
+충렬사엔
+	충렬사엔/ncn
+
+가묘가
+	가묘/ncn+가/jcs
+
+남아있어서
+	남/pvg+아/ecx+있/px+어서/ecs
+
+왠지
+	왠지/mag
+
+좀
+	좀/mag
+
+신기하더라구요
+	신기/ncps+하/xsms+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+무엇보다
+	무엇/npd+보다/jca
+
+참
+	참/mag
+
+조용해서
+	조용/ncn+해서/ncn
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+푸르러서
+	푸르/paa+어서/ecs
+
+또
+	또/maj
+
+좋았더랬습니다
+	좋았더랬습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+바다도
+	바다/ncn+도/jxc
+
+나무도
+	나무/ncn+도/jxc
+
+하늘도
+	하늘/ncn+도/jxc
+
+온통
+	온통/mag
+
+푸르러서
+	푸르/paa+어서/ecs
+
+말이죠
+	말/ncn+이/jp+죠/ef
+
+.
+	./sf
+
+
+왠지
+	왠지/mag
+
+엄숙해져서
+	엄숙/ncps+하/xsms+어/ecx+지/px+어서/ecs
+
+사진을
+	사진/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+찍지는
+	찍/pvg+지/ecs+는/jxc
+
+않았습니다
+	않/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+매미소리만
+	매미소리/ncn+만/jxc
+
+요란하고
+	요란/ncps+하고/jct
+
+다른곳에
+	다른곳/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+관광객들의
+	관광객/ncn+들/ncn+의/jcm
+
+발걸음이
+	발걸음/ncn+이/jcc
+
+조금
+	조금/mag
+
+뜸한
+	뜸/ncpa+하/xsva+ㄴ/etm
+
+충렬사
+	충렬사/ncn
+
+
+여전히
+	여전히/mag
+
+우리에게
+	우리/npp+에게/jca
+
+이순신
+	이순신/ncn
+
+장군님은
+	장군/ncr+님/ncn+은/jxc
+
+영웅이시니
+	영웅/ncn+이/jp+시/ep+니/ecs
+
+조용히
+	조용히/mag
+
+그분을
+	그분/npp+을/jco
+
+배우러
+	배우/pvg+러/ecs
+
+다녀오면
+	다니/pvg+어/ecx+오/px+면/ecs
+
+좋겠습니다
+	좋/paa+겠/ep+습니다/ef
+
+.
+	./sf

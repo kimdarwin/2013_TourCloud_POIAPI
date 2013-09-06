@@ -1,0 +1,2384 @@
+[서울]
+	[서울]/ncn
+
+청와대에서도
+	청와대에서/ncn+도/jxc
+
+먹는
+	먹/pvg+는/etm
+
+물이라고요
+	물/ncn+이/jp+라고/ef+요/jxf
+
+?
+	?/sf
+
+
+아리수가
+	아리수/ncn+가/jcs
+
+이렇게
+	이렇/pad+게/ecs
+
+깨끗해
+	깨끗/ncps+하/xsms+어/ecx
+
+진
+	지/px+ㄴ/etm
+
+줄은
+	줄/nbn+은/jxc
+
+몰랐네요
+	모르/pvg+아/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+주말
+	주말/ncn
+
+오전
+	오전/ncn
+
+10시,
+	10/nnc+시/nbu+,/sp
+
+서울
+	서울/ncn
+
+뚝도아리수정수센터
+	뚝도아리수정수센터/ncn
+
+.
+	./sf
+
+
+뚝도아리수정수센터
+	뚝도아리수정수센터/ncn
+
+견학
+	견학/ncpa
+
+프로그램에
+	프로그램/ncn+에/jca
+
+참여한
+	참여/ncpa+하/xsva+ㄴ/etm
+
+학생과
+	학생/ncn+과/jcj
+
+주부들은
+	주부/ncn+들/ncn+은/jxc
+
+아리수의
+	아리수/ncn+의/jcm
+
+정수과정을
+	정수/ncn+과정/ncn+을/jco
+
+유심히
+	유심히/mag
+
+살펴보고
+	살피/pvg+어/ecx+보/px+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+그중
+	그중/mag
+
+몇몇
+	몇/nnc+몇/nnc
+
+주부들은
+	주부/ncn+들/ncn+은/jxc
+
+평소수돗물에
+	평소/ncn+수돗물/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+가졌던
+	가/pvg+아/ecx+지/px+었/ep+던/etm
+
+궁금증을
+	궁금증/ncn+을/jco
+
+하나
+	하나/nnc
+
+둘
+	둘/nnc
+
+묻기
+	묻/pvg+기/etn
+
+시작했다
+	시작/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+그들은
+	그/npp+들/xsn+은/jxc
+
+하수처리에서부터
+	하수처리/ncn+에서/jca+부터/jxc
+
+집까지
+	집/ncn+까지/jxc
+
+오는
+	오/px+는/etm
+
+과정에
+	과정/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+조금이라도
+	조금/ncn+이/jp+라/ecs+도/jxc
+
+많은
+	많/paa+은/etm
+
+정보를
+	정보/ncn+를/jco
+
+얻길
+	얻길/ncn
+
+원했다
+	원하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이들이
+	이/ncn+들/xsncc+이/jcc
+
+가장
+	가장/mag
+
+궁금해
+	궁금/ncps+하/xsms+어/ecx
+
+하던
+	하/pvg+던/etm
+
+것은
+	것/nbn+은/jxc
+
+바로
+	바로/mag
+
+수돗물이
+	수돗물/ncn+이/jcc
+
+정말
+	정말/mag
+
+깨끗한지
+	깨끗/ncps+한지/ncn
+
+여부였다
+	여부/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+미국,
+	미국,/ncn
+
+일본보다
+	일/nnc+본/nbu+보다/jca
+
+많은
+	많/paa+은/etm
+
+항목
+	항목/ncn
+
+점검,
+	점검/ncpa+,/sp
+
+깨끗한
+	깨끗/ncps+하/xsms+ㄴ/etm
+
+물
+	물/pvg+ㄹ/etm
+
+자신
+	자/nbn+이/jp+시/ep+ㄴ/etm
+
+이곳에선
+	이곳/npd+에/jca+선/jxc
+
+팔당호의
+	팔/nnc+당/xsnu+호/nbu+의/jcm
+
+물을
+	물/ncn+을/jco
+
+끌어와
+	끌/pvg+어/ecx+오/px+아/ecx
+
+정수한
+	정수/ncn+한/ncn
+
+뒤,
+	뒤/ncn+,/sp
+
+서울
+	서울/ncn
+
+종로구와
+	종로구/ncn+와/jcj
+
+중구,
+	중구/ncn+,/sp
+
+용산구,
+	용산구/ncn+,/sp
+
+마포구,
+	마포구/ncn+,/sp
+
+성동구,
+	성동구/ncn+,/sp
+
+서대문구,
+	서대문구/ncn+,/sp
+
+성북구로
+	성북구/ncn+로/jca
+
+보내고
+	보내/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+정수
+	정수/ncn
+
+과정을
+	과정/ncn+을/jco
+
+보면,
+	보/px+면/ecs+,/sp
+
+혼화지라는
+	혼/ncn+화/xsnca+이/jp+지/ef+라는/jcr
+
+곳에서
+	곳/ncn+에서/jca
+
+물속의
+	물/ncn+속/xsnx+의/jcm
+
+작은
+	작/paa+은/etm
+
+알갱이를
+	알갱이/ncn+를/jco
+
+빨리
+	빨리/mag
+
+가라앉히기
+	가라앉히/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+물에
+	물/ncn+에/jca
+
+약품을
+	약품/ncn+을/jco
+
+섞는다
+	섞/pvg+는다/ef
+
+.
+	./sf
+
+
+이후
+	이후/ncn
+
+침전지에서
+	침전지/ncn+에서/jca
+
+알갱이를
+	알갱이/ncn+를/jco
+
+가라앉히고
+	가라앉히/pvg+고/ecc
+
+맑은
+	맑/paa+은/etm
+
+물만을
+	물/ncn+만을/jco
+
+여과지로
+	여과/ncpa+지로/ncn
+
+보낸다
+	보내/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+이곳에선
+	이곳/npd+에/jca+선/jxc
+
+모래
+	모/ncn+이/jp+래/ef
+
+자갈층에
+	자갈/ncn+층/ncn+에/jca
+
+물을
+	물/ncn+을/jco
+
+통과시켜
+	통과/ncpa+시키/xsva+어/ecx
+
+미세
+	밀/pvg+세/ef
+
+찌꺼기를
+	찌꺼기/ncn+를/jco
+
+걸러낸다
+	거르/pvg+어/ecx+내/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이제
+	이제/mag
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+것은
+	것/nbn+은/jxc
+
+소독이다
+	소독/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+물속의
+	물/ncn+속/xsnx+의/jcm
+
+각종
+	각종/ncn
+
+세균을
+	세균/ncn+을/jco
+
+소독하기
+	소독/ncpa+하/xsva+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+염소를
+	염소/ncn+를/jco
+
+넣는다
+	넣/pvg+는다/ef
+
+.
+	./sf
+
+
+아리수의
+	아리수/ncn+의/jcm
+
+정수
+	정수/ncn
+
+처리
+	처리/ncpa
+
+과정특히
+	과정특히/ncn
+
+이곳에선
+	이곳/npd+에/jca+선/jxc
+
+대장균,
+	대장균/ncn+,/sp
+
+납,
+	납/ncn+,/sp
+
+불소,
+	불소/ncn+,/sp
+
+비소,
+	비소/ncpa+,/sp
+
+페놀
+	페놀/ncn
+
+등을
+	등/nbu+을/jco
+
+검사하는
+	검사/ncpa+하/xsva+는/etm
+
+법정
+	법정/ncn
+
+검사항목
+	검사/ncpa+항목/ncn
+
+57개
+	57/nnc+개/nbu
+
+이외에
+	이외/ncn+에/jca
+
+녹농균,
+	녹농균,/ncn
+
+레지오넬라,
+	레지오넬라,/ncn
+
+바이러스,
+	바이러스/ncn+,/sp
+
+살모넬라
+	살모넬라/ncn
+
+등
+	등/nbu
+
+감시항목
+	감시/ncpa+항목/ncn
+
+98개를
+	98/nnc+개/nbu+를/jco
+
+따로
+	따로/mag
+
+선정해
+	선정/ncpa+하/xsva+어/ecx
+
+수질을
+	수질/ncn+을/jco
+
+검사하고
+	검사/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이곳의
+	이곳/npd+의/jcm
+
+한
+	하/pvg+ㄴ/etm
+
+관계자는
+	관계자/ncn+는/jxc
+
+법적
+	법/ncn+적/xsncc
+
+기준에
+	기준/ncpa+에/jca
+
+어긋나는
+	어긋나/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+없을
+	없/paa+을/etm
+
+뿐더러
+	뿐/nbn+더러/jca
+
+안전을
+	알/pvg+ㄴ/etm+전/nbn+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+추가로
+	추가/ncpa+로/jca
+
+더
+	더/mag
+
+검사하고
+	검사/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+며
+	며/ncn
+
+아리수의
+	아리수/ncn+의/jcm
+
+세계적인
+	세계/ncn+적/ncn+이/jp+ㄴ/etm
+
+순위를
+	순위/ncn+를/jco
+
+매기기는
+	매기/pvg+기/etn+는/jxc
+
+어렵지만
+	어렵/paa+지/ecx+말/px+ㄴ/etm
+
+선진국과
+	선진국/ncn+과/jcj
+
+비교해서도
+	비교/ncpa+해서/ncn+도/jxc
+
+부족한
+	부족/ncn+한/ncn
+
+것이
+	것/nbn+이/jcc
+
+없을
+	없/paa+을/etm
+
+것
+	것/nbn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+서울시는
+	서울시/ncn+는/jxc
+
+세계보건기구의
+	세계/ncn+보건기구/ncn+의/jcm
+
+관리수준에
+	관리수준/ncn+에/jca
+
+연동해
+	연동/ncpa+하/xsva+어/ecx
+
+현재
+	현재/mag
+
+155개
+	155/nnc+개/nbu
+
+항목을
+	항목/ncn+을/jco
+
+점검하고
+	점검/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+일본에선
+	일본에/ncn+선/ncn
+
+122항목,
+	122항목,/ncn
+
+미국에선
+	미국에선/ncn
+
+102항목을
+	102항목/ncn+을/jco
+
+관리하고
+	관리/ncn+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+참고로,
+	참고/ncpa+로/jca+,/sp
+
+2009년
+	2009/nnc+년/nbu
+
+12월의
+	12/nnc+월/nbu+의/jcm
+
+상수도
+	상수/ncn+도/jxc
+
+사업본부의
+	사업본부/ncn+의/jcm
+
+검사현황에
+	검사/ncpa+현황/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+기준치를
+	기준/ncpa+치/ncn+를/jco
+
+초과하는
+	초과/ncpa+하/xsva+는/etm
+
+항목은
+	항목/ncn+은/jxc
+
+하나도
+	하/pvg+어/ecx+나/px+아/ecs
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+뚝도아리수정수센터의
+	뚝도아리수정수센터/ncn+의/jcm
+
+침전지
+	침전지/ncn
+
+.
+	./sf
+
+
+시민들이
+	시민/ncn+들/ncn+이/jcc
+
+수돗물을
+	수돗물/ncn+을/jco
+
+꺼리는
+	꺼리/pvg+는/etm
+
+이유뚝도아리수정수센터를
+	이유뚝도아리수정수센터/ncn+를/jco
+
+방문한
+	방문/ncpa+하/xsva+ㄴ/etm
+
+주부
+	주부/ncn
+
+유민정씨(40
+	유민정씨(40/ncn
+
+여)는
+	여/ncn+)/sr+는/jxc
+
+철저한
+	철저/ncps+하/xsms+ㄴ/etm
+
+관리
+	관리/ncpa
+
+상태를
+	상태/ncn+를/jco
+
+보며
+	보/px+며/ecc
+
+더욱더
+	더욱더/mag
+
+아리수에
+	아리수/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+신뢰가
+	신뢰/ncpa+가/jcc
+
+간다고
+	가/px+ㄴ다/ef+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+아리수는
+	아리수/ncn+는/jxc
+
+믿음이
+	믿음/ncn+이/jcc
+
+가고
+	가/px+고/ecc
+
+수질이
+	수질/ncn+이/jcc
+
+좋아졌다고
+	좋/paa+아/ecx+지/px+었/ep+다/ef+고/jcr
+
+생각해요
+	생각/ncpa+하/xsva+어/ef+요/jxf
+
+.
+	./sf
+
+
+냄새가
+	냄새/ncn+가/jcs
+
+줄어서
+	줄/pvg+어서/ecs
+
+몇
+	몇/nnc
+
+년
+	년/nbu
+
+전부터
+	전/nbn+부터/jxc
+
+아리수를
+	아리수/ncn+를/jco
+
+먹고
+	먹/pvg+고/ecc
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+모든
+	모든/mma
+
+시민들이
+	시민/ncn+들/ncn+이/jcc
+
+아리수에
+	아리수/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+만족을
+	만족/ncn+을/jco
+
+하는
+	하/pvg+는/etm
+
+것은
+	것/nbn+은/jxc
+
+아니었다
+	아니/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+정수기를
+	정수/ncn+이/jp+기/etn+를/jco
+
+이용하거나
+	이용/ncpa+하/xsva+거나/ecc
+
+물을
+	물/ncn+을/jco
+
+사먹는다는
+	사먹는다/ncn+는/jxc
+
+시민들도
+	시민/ncn+들/ncn+도/jxc
+
+다수
+	다수/ncn
+
+찾을
+	찾/pvg+을/etm
+
+수
+	수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+공원에서
+	공원/ncn+에서/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+대학생
+	대학생/ncn
+
+손종완씨(25
+	손종완씨(25/ncn
+
+남)는
+	나/pvg+ㅁ/etn+)/sr+는/jxc
+
+염소
+	염소/ncn
+
+냄새를
+	냄새/ncn+를/jco
+
+지적했다
+	지적/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+아리수가
+	아리수/ncn+가/jcs
+
+깨끗해진
+	깨끗해지/pvg+ㄴ/etm
+
+건
+	거/nbn+은/jxc
+
+알겠는데
+	알/pvg+겠/ep+는데/ecs
+
+염소
+	염소/ncn
+
+냄새가
+	냄새/ncn+가/jcs
+
+너무
+	너무/mag
+
+독해서
+	독하/paa+어서/ecs
+
+못
+	못/mag
+
+먹겠어요
+	먹/pvg+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+공원에서
+	공원/ncn+에서/jca
+
+운동을
+	운동/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+난
+	나/px+ㄴ/etm
+
+후에
+	후/ncn+에/jca
+
+물을
+	물/ncn+을/jco
+
+먹고
+	먹/pvg+고/ecc
+
+싶어도
+	싶/px+어도/ecs
+
+염소
+	염소/ncn
+
+냄새
+	냄새/ncn
+
+때문에
+	때문/nbn+에/jca
+
+사먹을
+	사먹/ncn+을/jco
+
+수밖에
+	수/nbn+밖에/jxc
+
+없어요
+	없/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+왠지
+	왠지/mag
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+안
+	안/mag
+
+좋다는
+	좋/paa+다/ef+는/etm
+
+의견도
+	의견/ncn+도/jxc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+대학생
+	대학생/ncn
+
+정욱씨(26
+	정욱씨(26/ncn
+
+남)는
+	나/pvg+ㅁ/etn+)/sr+는/jxc
+
+아직도
+	아직/mag+도/jxc
+
+수돗물은
+	수돗물/ncn+은/jxc
+
+그냥
+	그냥/mag
+
+먹기는
+	먹/pvg+기/etn+는/jxc
+
+힘들지
+	힘들/pvg+지/ecx
+
+않느냐고
+	않/px+느냐/ef+고/jcr
+
+답했다
+	답/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+아직
+	아직/mag
+
+신뢰가
+	신뢰/ncpa+가/jcc
+
+안가요
+	알/pvg+ㄴ가/ef+요/jxf
+
+.
+	./sf
+
+
+예전부터
+	예전/ncn+부터/jxc
+
+정수기를
+	정수/ncn+이/jp+기/etn+를/jco
+
+사용해
+	사용/ncpa+하/xsva+어/ecx
+
+와서
+	오/px+아/ecs
+
+계속
+	계속/mag
+
+사용해야
+	사용/ncpa+하/xsva+어야/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같다는
+	같/paa+다/ef+는/etm
+
+생각도
+	생각/ncpa+도/jxc
+
+들고요
+	들/pvg+고요/ef
+
+.
+	./sf
+
+
+서울시
+	서울시/ncn
+
+상수도사업본부가
+	상수도사업/ncn+본부/ncn+가/jcs
+
+지난해
+	지난해/ncn
+
+10월부터
+	10/nnc+월/nbu+부터/jxc
+
+두
+	두/nnc
+
+달
+	달/nbu
+
+동안
+	동안/ncn
+
+서울시민
+	서울시민/ncn
+
+2000명을
+	2000/nnc+명/nbu+을/jco
+
+대상으로
+	대상/ncn+으로/jca
+
+실시한
+	실시/ncpa+하/xsva+ㄴ/etm
+
+조사에
+	조사/ncn+에/jca
+
+따르면,
+	따르/pvg+면/ecs+,/sp
+
+아리수에
+	아리수/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+알고
+	알/pvg+고/ecx
+
+있다는
+	있/px+다/ef+는/etm
+
+대답은
+	대답/ncpa+은/jxc
+
+전체의
+	전체/ncn+의/jcm
+
+84.
+	84./nnc
+
+2%였지만,
+	2%였지만,/ncn
+
+아리수
+	아리수/ncn
+
+음용률은
+	음용률/ncn+은/jxc
+
+52.
+	52./nnc
+
+1%에
+	1/nnc+%/su+에/jca
+
+불과했다
+	불과/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+이유에는
+	이유/ncn+에/jca+는/jxc
+
+막연한
+	막연/ncps+하/xsms+ㄴ/etm
+
+불안감
+	불안감/ncn
+
+때문
+	때문/nbn
+
+이라는
+	이르/paa+어/ef+는/etm
+
+대답이
+	대답/ncpa+이/jcc
+
+29.
+	29./nnc
+
+6%로
+	6/nnc+%/su+로/jca
+
+가장
+	가장/mag
+
+많았다
+	많/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+물탱크나
+	물탱크/ncn+나/jcj
+
+낡은
+	낡/paa+은/etm
+
+수도관에
+	수도관/ncn+에/jca
+
+문제가
+	문제/ncn+가/jcs
+
+있을
+	있/px+을/etm
+
+것
+	것/nbn
+
+같아서
+	같/paa+아/ecx
+
+(28.
+	(/sl+28./nnc
+
+3%),
+	3/nnc+%/su+)/sr+,/sp
+
+냄새
+	냄새/ncn
+
+등
+	등/nbu
+
+물맛이
+	물맛/ncn+이/jcc
+
+없어서
+	없/paa+어서/ecs
+
+(17.
+	(/sl+17./nnc
+
+4%)
+	4/nnc+%/su+)/sr
+
+등의
+	등/nbu+의/jcm
+
+대답이
+	대답/ncpa+이/jcc
+
+그
+	그/mmd
+
+뒤를
+	뒤/ncn+를/jco
+
+이었다
+	이/npd+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+서울시
+	서울시/ncn
+
+상수도
+	상수/ncn+도/jxc
+
+사업본부
+	사업본부/ncn
+
+홍보과
+	홍보/ncpa+과/jcj
+
+이영세
+	이영세/ncn
+
+담당관은
+	담당관/ncn+은/jxc
+
+홍보를
+	홍보/ncpa+를/jco
+
+더욱
+	더욱/mag
+
+강화하겠다고
+	강화/ncpa+하/xsva+겠/ep+다/ef+고/jcr
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+막연한
+	막연/ncps+하/xsms+ㄴ/etm
+
+불안
+	불안/ncps
+
+없애는
+	없애/pvg+는/etm
+
+홍보
+	홍보/ncpa
+
+강화할
+	강화/ncpa+하/xsva+ㄹ/etm
+
+것
+	것/nbn
+
+아직도
+	아직/mag+도/jxc
+
+아리수를
+	아리수/ncn+를/jco
+
+믿지
+	믿/pvg+지/ecx
+
+못하는
+	못하/px+는/etm
+
+이들이
+	이/ncn+들/xsncc+이/jcc
+
+많은
+	많/paa+은/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+서울시
+	서울시/ncn
+
+상수도
+	상수/ncn+도/jxc
+
+사업본부
+	사업본부/ncn
+
+홍보과
+	홍보/ncpa+과/jcj
+
+이영세
+	이영세/ncn
+
+담당관은
+	담당관/ncn+은/jxc
+
+그래도
+	그래도/maj
+
+지금은
+	지금/ncn+은/jxc
+
+인식이
+	일/pvg+ㄴ/etm+식/nbn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+좋아진
+	좋/paa+아/ecx+지/px+ㄴ/etm
+
+상태
+	상태/ncn
+
+라고
+	라/ncn+이/jp+고/ecc
+
+설명했다
+	설명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+서울시는
+	서울시/ncn+는/jxc
+
+인식이
+	일/pvg+ㄴ/etm+식/nbn+이/jcc
+
+좋아진
+	좋/paa+아/ecx+지/px+ㄴ/etm
+
+근거에
+	근거/ncn+에/jca
+
+대해서
+	대하/pvg+어서/ecso
+
+노후
+	노후/ncn
+
+상수도관
+	상수도관/ncn
+
+교체
+	교체/ncpa
+
+등
+	등/nbu
+
+수질개선
+	수질개선/ncn
+
+사업과
+	사업/ncn+과/jcj
+
+무료
+	무료/ncn
+
+수질검사
+	수질검사/ncn
+
+실시,
+	실시/ncpa+,/sp
+
+TV
+	TV/f
+
+등
+	등/nbu
+
+언론매체를
+	언론매체/ncn+를/jco
+
+통한
+	통하/pvg+ㄴ/etm
+
+적극적인
+	적극/ncn+적/ncn+이/jp+ㄴ/etm
+
+홍보
+	홍보/ncpa
+
+등을
+	등/nbu+을/jco
+
+들었다
+	들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+그는
+	그/npp+는/jxc
+
+서울시의
+	서울시/ncn+의/jcm
+
+모든
+	모든/mma
+
+관공서와
+	관공서/ncn+와/jcj
+
+학교는
+	학교/ncn+는/jxc
+
+정수기를
+	정수/ncn+이/jp+기/etn+를/jco
+
+떼고,
+	뜨/pvg+어/ef+고/jcr+,/sp
+
+아리수
+	아리수/ncn
+
+음수대로
+	음수/ncn+대로/jca
+
+변경했고,
+	변경/ncpa+하/xsva+었/ep+고/ecc+,/sp
+
+청와대에서도
+	청와대에서/ncn+도/jxc
+
+생수
+	생수/ncn
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+아리수를
+	아리수/ncn+를/jco
+
+사용한다
+	사용/ncpa+하/xsva+ㄴ다/ef
+
+며
+	며/ncn
+
+정부
+	정부/ncn
+
+기관
+	기관/ncn
+
+회의
+	회의/ncn
+
+때에도
+	때/ncn+에/jca+도/jxc
+
+아리수를
+	아리수/ncn+를/jco
+
+사용하고
+	사용/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+고
+	고/mma
+
+설명했다
+	설명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+담당관은
+	담당관/ncn+은/jxc
+
+시민들의
+	시민/ncn+들/ncn+의/jcm
+
+불신을
+	불신/ncpa+을/jco
+
+없애기
+	없애/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+홍보를
+	홍보/ncpa+를/jco
+
+강화하고
+	강화/ncpa+하고/jct
+
+있다고
+	있/px+다/ef+고/jcr
+
+설명했다
+	설명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+우선
+	우선/mag
+
+서울특별시
+	서울특별시/ncn
+
+상수도사업본부
+	상수도사업/ncn+본부/ncn
+
+인터넷
+	인터넷/ncn
+
+홈페이지에서
+	홈페이지/ncn+에서/jca
+
+실시간으로
+	실시간/ncn+으로/jca
+
+아리수
+	아리수/ncn
+
+수질정보를
+	수질/ncn+정보/ncn+를/jco
+
+공개하는
+	공개/ncpa+하/xsva+는/etm
+
+서울워터나우
+	서울워터나우/ncn
+
+서비스를
+	서비스/ncpa+를/jco
+
+실시하고
+	실시/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+휴대전화에도
+	휴대전화/ncpa+에/jca+도/jxc
+
+같은
+	같/paa+은/etm
+
+서비스를
+	서비스/ncpa+를/jco
+
+제공하고
+	제공/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+인터넷으로
+	인터넷/ncn+으로/jca
+
+수질을
+	수질/ncn+을/jco
+
+공개하는
+	공개/ncpa+하/xsva+는/etm
+
+실시간
+	실시간/ncn
+
+수질정보
+	수질/ncn+정보/ncn
+
+서울워터나우
+	서울워터나우/ncn
+
+서비스
+	서비스/ncpa
+
+
+의심스러우면
+	의심/ncpa+스럽/xsmn+으면/ecs
+
+수질검사
+	수질검사/ncn
+
+신청하세요
+	신청/ncpa+하/xsva+세/ef+요/jxf
+
+또한
+	또한/maj
+
+서울시는
+	서울시/ncn+는/jxc
+
+2008년부터
+	2008/nnc+년/nbu+부터/jxc
+
+아리수
+	아리수/ncn
+
+품질
+	품질/ncn
+
+확인제를
+	확인/ncpa+제/ncn+를/jco
+
+실시하고
+	실시/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+서울시
+	서울시/ncn
+
+전
+	전/nbn
+
+가구를
+	가구/ncn+를/jco
+
+대상으로
+	대상/ncn+으로/jca
+
+수질검사원들이
+	수질검사/ncn+원/ncn+들/xsncc+이/jcc
+
+각
+	각/mma
+
+가정을
+	가정/ncn+을/jco
+
+직접
+	직접/mag
+
+방문해수도꼭지
+	방문해수도꼭지/ncn
+
+수질검사
+	수질검사/ncn
+
+뿐
+	뿐/nbn
+
+아니라,
+	아니/paa+라/ef+,/sp
+
+옥내배관이나
+	옥내/ncn+배관/ncn+이나/jcj
+
+물탱크
+	물탱크/ncn
+
+관리
+	관리/ncpa
+
+상태까지
+	상태/ncn+까지/jxc
+
+종합
+	종합/ncpa
+
+진단하고
+	진단/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+2008년
+	2008/nnc+년/nbu
+
+68만여가구,
+	68/nnc+만여/nnc+가구/nbu+,/sp
+
+20009년에는
+	20009/nnc+년/nbu+에/jca+는/jxc
+
+95만여가구의
+	95/nnc+만여/nnc+가구/nbu+의/jcm
+
+수질검사를
+	수질검사/ncn+를/jco
+
+마쳤다
+	마치/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+담당관은
+	담당관/ncn+은/jxc
+
+올해까지
+	올해/ncn+까지/jxc
+
+260만
+	260/nnc+만/jxc
+
+서울시
+	서울시/ncn
+
+전
+	전/nbn
+
+가구에
+	가구/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+무료
+	무료/ncn
+
+수질검사를
+	수질검사/ncn+를/jco
+
+실시할
+	실시/ncpa+하/xsva+ㄹ/etm
+
+계획이다
+	계획/ncpa+이/jp+다/ef
+
+."
+	./sf+"/sl
+
+
+라고말했다
+	라고말했다/ncn
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+수질을
+	수질/ncn+을/jco
+
+의심하는
+	의심/ncpa+하/xsva+는/etm
+
+이들을
+	이/ncn+들/xsncc+을/jco
+
+위해선
+	위하/pvg+어선/ecs
+
+다시
+	다시/mag
+
+수질검사를
+	수질검사/ncn+를/jco
+
+해주고
+	하/pvg+어/ecx+주/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+120
+	120/nnc
+
+다산콜센터로
+	다산콜센터/ncn+로/jca
+
+전화를
+	전화/ncpa+를/jco
+
+하거나
+	하/pvg+거나/ecc
+
+가까운
+	가깝/paa+은/etm
+
+수도사업소로
+	수도사업/ncn+소/ncn+로/jca
+
+연락하면
+	연락/ncpa+하/xsva+면/ecs
+
+서울시의
+	서울시/ncn+의/jcm
+
+수질검사원이
+	수질검사/ncn+원/ncn+이/jcc
+
+찾아가
+	찾/pvg+아/ecx+가/px+아/ecx
+
+신속하고
+	신속/ncn+하고/jct
+
+정확하게
+	정확/ncps+하/xsms+게/ecs
+
+수질을
+	수질/ncn+을/jco
+
+검사해준다
+	검사/ncpa+하/xsva+어/ecx+주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+만약
+	만약/mag
+
+가정의
+	가정/ncn+의/jcm
+
+수도관이
+	수도관/ncn+이/jcc
+
+낡은
+	낡/paa+은/etm
+
+경우엔
+	경우/ncn+엔/jca
+
+서민주택에
+	서민/ncn+주택/ncn+에/jca
+
+한해
+	한/nnc+해/nbu
+
+공사비의
+	공사/ncn+비/ncn+의/jcm
+
+50~80%,
+	50/nnc+~/sd+80/nnc+%/su+,/sp
+
+최대
+	최대/ncn
+
+200만원까지
+	200/nnc+만/nnc+원/nbu+까지/jxc
+
+시예산으로
+	시예산/ncn+으로/jca
+
+무상지원해주기도
+	무상지원/ncpa+하/xsva+어/ecx+주/px+기/etn+도/jxc
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이밖에도
+	이/npd+밖에/jxc+도/jxc
+
+서울시는
+	서울시/ncn+는/jxc
+
+서울시내
+	서울시내/ncn
+
+초
+	초/nbu
+
+중
+	중/nbn
+
+고
+	고/mma
+
+및
+	및/maj
+
+공공기관의
+	공공기관/ncn+의/jcm
+
+음수대를
+	음수/ncn+대/ncn+를/jco
+
+새로운
+	새롭/paa+은/etm
+
+디자인으로
+	디자인/ncpa+으로/jca
+
+개선해
+	개선/ncpa+하/xsva+어/ecx
+
+보급하는
+	보급/ncpa+하/xsva+는/etm
+
+한편,
+	한/nnc+편/nbu+,/sp
+
+아파트
+	아파트/ncn
+
+주민
+	주민/ncn
+
+전체가
+	전체/ncn+가/jcs
+
+수돗물을
+	수돗물/ncn+을/jco
+
+직접
+	직접/mag
+
+마시는
+	마시/pvg+는/etm
+
+아리수
+	아리수/ncn
+
+아파트
+	아파트/ncn
+
+를
+	를/ncn
+
+선정할
+	선정/ncpa+하/xsva+ㄹ/etm
+
+예정이라고
+	예정/ncn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+염소
+	염소/ncn
+
+냄새
+	냄새/ncn
+
+줄이는
+	줄/nbn+이/jp+는/etm
+
+고도정수처리
+	고도/ncn+정수처리/ncpa
+
+시스템
+	시스템/ncn
+
+도입수돗물의
+	도입/ncpa+수돗물/ncn+의/jcm
+
+염소
+	염소/ncn
+
+냄새를
+	냄새/ncn+를/jco
+
+줄이기
+	줄/nbn+이/jp+기/etn
+
+위해서도
+	위하/pvg+어서/ecs+도/jxc
+
+방안을
+	방안/ncn+을/jco
+
+마련했다
+	마련/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+담당관은
+	담당관/ncn+은/jxc
+
+많은
+	많/paa+은/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+염소냄새가
+	염소/ncn+냄새/ncn+가/jcs
+
+안
+	알/pvg+ㄴ/etm
+
+나기를
+	나/npp+이/jp+기/etn+를/jco
+
+바라지만,
+	바라/pvg+지/ecx+말/px+ㄴ/etm+,/sp
+
+염소가
+	염소/ncn+가/jcs
+
+없으면
+	없/paa+으면/ecs
+
+세균
+	세균/ncn
+
+증식
+	증식/ncpa
+
+문제가
+	문제/ncn+가/jcs
+
+발생하므로
+	발생/ncpa+하/xsva+므로/ecs
+
+염소를
+	염소/ncn+를/jco
+
+완전히
+	완전히/mag
+
+없앨
+	없애/pvg+ㄹ/etm
+
+수는
+	수/nbn+는/jxc
+
+없다
+	없/paa+다/ef
+
+며
+	며/ncn
+
+염소
+	염소/ncn
+
+냄새를
+	냄새/ncn+를/jco
+
+줄이는
+	줄/nbn+이/jp+는/etm
+
+고도정수처리
+	고도/ncn+정수처리/ncpa
+
+시스템을
+	시스템/ncn+을/jco
+
+도입하고
+	도입/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+고
+	고/mma
+
+설명했다
+	설명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+고도정수처리
+	고도/ncn+정수처리/ncpa
+
+시스템이란
+	시스템/ncn+이란/jxc
+
+입상활성탄과
+	입상/ncpa+활성탄/ncn+과/jcj
+
+오전으로
+	오전/ncn+으로/jca
+
+물을
+	물/ncn+을/jco
+
+소독해
+	소독/ncpa+하/xsva+어/ecx
+
+염소
+	염소/ncn
+
+냄새를
+	냄새/ncn+를/jco
+
+줄이는
+	줄/nbn+이/jp+는/etm
+
+것을
+	것/nbn+을/jco
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+올해
+	올해/ncn
+
+5월
+	5/nnc+월/nbu
+
+서울
+	서울/ncn
+
+시내
+	시내/ncn
+
+정수장
+	정수장/ncn
+
+6곳
+	6/nnc+곳/nbu
+
+중에
+	중/nbn+에/jca
+
+처음으로
+	처음/ncn+으로/jca
+
+영등포
+	영등/ncn+포/ncn
+
+정수센터에
+	정수/ncn+센터/ncn+에/jca
+
+도입하고,
+	도입/ncpa+하고/jct+,/sp
+
+2012년까지는
+	2012/nnc+년/nbu+까지/jxc+는/jxc
+
+모든
+	모든/mma
+
+정수장에
+	정수장/ncn+에/jca
+
+도입할
+	도입/ncpa+하/xsva+ㄹ/etm
+
+예정이라고
+	예정/ncn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+아리수는
+	아리수/ncn+는/jxc
+
+불안감
+	불안감/ncn
+
+해소와
+	해소/ncpa+와/jcj
+
+고품질을
+	고품질/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+시민들에게
+	시민/ncn+들/ncn+에게/jca
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+다가가고
+	다가가/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+끊임없는
+	끊임없/paa+는/etm
+
+연구와
+	연구/ncpa+와/jcj
+
+홍보는
+	홍보/ncpa+는/jxc
+
+시민들의
+	시민/ncn+들/ncn+의/jcm
+
+아리수에
+	아리수/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+신뢰도를
+	신뢰도/ncn+를/jco
+
+높여줄
+	높이/pvg+어/ecx+주/px+ㄹ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+누구나
+	누구/npp+나/jcj
+
+마음
+	마음/ncn
+
+편히
+	편히/mag
+
+아리수를
+	아리수/ncn+를/jco
+
+마실
+	마시/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+날을
+	날/ncn+을/jco
+
+기대해
+	기대/pvg+어/ecx+하/px+어/ecx
+
+본다
+	보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+정책기자
+	정책/ncn+기/ncn+이/jp+자/ecc
+
+전승현(대학생)
+	전승현(대학생)/ncn
+
+miromee@hanmail.
+	miromee/f+@/sy+hanmail/f+./sy
+
+net
+	net/f
+
+
+출처
+	출처/ncn
+
+:
+	:/sp
+
+대한민국
+	대한/ncn+민국/ncn
+
+정책포털
+	정책포털/ncn

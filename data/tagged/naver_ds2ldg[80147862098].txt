@@ -1,0 +1,701 @@
+동피랑
+	동피랑/ncn
+
+벽화마을
+	벽화/ncn+마을/ncn
+
+
+점심으로
+	점심/ncn+으로/jca
+
+맛난
+	맛나/paa+ㄴ/etm
+
+굴요리를
+	굴요리/ncn+를/jco
+
+먹고는
+	먹/pvg+고는/ecc
+
+
+항구근처에
+	항구/ncn+근처/ncn+에/jca
+
+있는
+	있/paa+는/etm
+
+
+벽화로
+	벽화/ncn+로/jca
+
+유명해진
+	유명해지/pvg+ㄴ/etm
+
+동피랑
+	동피랑/ncn
+
+마을로
+	마을/ncn+로/jca
+
+가
+	가/jcs
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+동피랑은
+	동피랑/ncn+은/jxc
+
+주민들이
+	주민/ncn+들/ncn+이/jcc
+
+살고
+	살/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+곳에
+	곳/nbn+에/jca
+
+
+벽화를
+	벽화/ncn+를/jco
+
+그려서
+	그리/pvg+어서/ecs
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+찾는
+	찾/pvg+는/etm
+
+곳으로
+	곳/nbu+으로/jca
+
+
+통영의
+	통영/ncn+의/jcm
+
+또하나의
+	또하나/npd+의/jcm
+
+명물이
+	명물/ncn+이/jcc
+
+된듯
+	되/pvg+ㄴ/etm+듯/nbs
+
+싶네요
+	싶/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+마침
+	마침/mag
+
+드라마
+	드라마/ncn
+
+촬영(빠담빠담)을
+	촬영(빠담빠담)/ncn+을/jco
+
+한다
+	하/px+ㄴ다/ef
+
+하더군요
+	하/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+드라마
+	드라마/ncn
+
+세트장까지
+	세트/ncn+장/ncn+까지/jxc
+
+만들어
+	만들/pvg+어/ecx
+
+져
+	지/px+어/ecx
+
+있다는
+	있/px+다/ef+는/etm
+
+...
+	.../se
+
+
+이정표에
+	이정표/ncn+에/jca
+
+나타나
+	나타나/pvg+아/ecx
+
+있는
+	있/px+는/etm
+
+길을따라
+	길을/ncn+따라/jxc
+
+마을
+	마을/ncn
+
+어귀로
+	어귀/ncn+로/jca
+
+들어가니
+	들어가/pvg+니/ef
+
+
+물메기
+	물메/ncn+이/jp+기/etn
+
+말려
+	말리/pvg+어/ecx
+
+놓은자리에
+	놓은자리/ncn+에/jca
+
+무표정한
+	무표/ncn+정한/ncn
+
+개한미라가
+	개한미라/ncn+가/jcc
+
+
+멀뚱히
+	멀뚱히/mag
+
+반겨
+	반기/pvg+어/ecx
+
+주네요~
+	주/nbu+이/jp+네요/ef+~/sd
+
+
+워낙
+	워낙/mag
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+찾으니
+	찾/pvg+으니/ecc
+
+
+여러
+	여러/mma
+
+안내판도
+	안내판/ncn+도/jxc
+
+설치되어
+	설치/ncpa+되/xsvn+어/ecx
+
+있서
+	있서/ncn
+
+찾기
+	찾/pvg+기/etn
+
+편하고
+	편하/paa+고/ecc
+
+
+실제
+	실제/ncn
+
+주민들이
+	주민/ncn+들/ncn+이/jcc
+
+살고
+	살/pvg+고/ecc
+
+있으니
+	있/px+으니/ecs
+
+피해
+	피하/pvg+어/ecx
+
+주지
+	주/px+지/ecx
+
+말라는
+	말/nbu+라는/jcm
+
+
+경고문도
+	경고문/ncn+도/jxc
+
+있네요
+	있/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+항구에서
+	항구/ncn+에서/jca
+
+바라다
+	바라/pvg+아/ecx
+
+보이는
+	보이/pvg+는/etm
+
+동피랑
+	동피랑/ncn
+
+마을은
+	마을/ncn+은/jxc
+
+
+아주
+	아주/mag
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+옛집들이
+	옛집/ncn+들/ncn+이/jcc
+
+중턱에
+	중턱/ncn+에/jca
+
+자리하고
+	자리/ncn+하고/jct
+
+있는
+	있/paa+는/etm
+
+
+전통의
+	전통/ncn+의/jcm
+
+항구마을
+	항구/ncn+이/jp+마/ef+ㄹ/etm
+
+이더군요
+	이/npd+이/jp+더군/ef+요/jxf
+
+.
+	./sf
+
+
+마을의
+	마을/ncn+의/jcm
+
+골목골목이
+	골목/ncn+골목/ncn+이/jcc
+
+꼭
+	꼭/mag
+
+고향의
+	고향/ncn+의/jcm
+
+마을
+	마을/ncn
+
+같아서
+	같/paa+아서/ecs
+
+
+낯설지가
+	낯설/paa+지/ecx+가/px+아/ecx
+
+않고
+	않/px+고/ecc
+
+정겹더군요~
+	정겹/paa+더군/ef+요/jxf+~/sd
+
+
+높은곳에
+	높은곳/ncn+에/jca
+
+있어서
+	있/px+어서/ecs
+
+통영항
+	통영항/ncn
+
+이
+	이/mmd
+
+한눈에
+	한눈/ncn+에/jca
+
+
+바라다
+	바라/pvg+아/ecx
+
+보이네요
+	보이/ncn+이/jp+네요/ef
+
+
+통영이
+	통영/ncn+이/jcc
+
+항구
+	항구/ncn
+
+도시임을
+	도시/ncn+이/jp+ㅁ/etn+을/jco
+
+알리는
+	알리/pvg+는/etm
+
+배를
+	배/ncn+를/jco
+
+묘사한
+	묘사/ncn+한/ncn
+
+
+벽화가
+	벽화/ncn+가/jcs
+
+인상적
+	인상/ncn+적/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+사진을
+	사진/ncn+을/jco
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+분들이라면
+	분/ncn+들/xsncc+이라/jca+이/jp+면/ecs
+
+
+한번쯤
+	한번쯤/ncn
+
+다녀
+	다니/pvg+어/ecx
+
+갔을
+	가/px+아/ep+ㄹ/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+벽화감상
+	벽화/ncn+감상/ncn
+
+^^
+	^/sy+^/sy
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+동심을
+	동심/ncn+을/jco
+
+그린
+	그리/pvg+ㄴ/etm
+
+벽화도
+	벽화/ncn+도/jxc
+
+있어서
+	있/px+어서/ecs
+
+아이들이
+	아이/ncn+들이/ncn
+
+
+아주
+	아주/mag
+
+좋아라
+	좋/paa+아/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아름다운
+	아름답/paa+은/etm
+
+항구도시
+	항구도시/ncn
+
+통영을
+	통영/ncn+을/jco
+
+멋지게
+	멋지/paa+게/ecs
+
+만들어준
+	만들/pvg+어/ecx+줄/px+ㄴ/etm
+
+
+벽화들을
+	벽화/ncn+들/ncn+을/jco
+
+구경하러
+	구경/ncpa+하/xsva+러/ecs
+
+평일인데도
+	평일/ncn+이/jp+ㄴ데/ecs+도/jxc
+
+
+정말
+	정말/mag
+
+많은
+	많/paa+은/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+찾아오더군요
+	찾/pvg+아/ecx+오/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+아름다움을
+	아름다움/ncn+을/jco
+
+간직한
+	간직/ncpa+하/xsva+ㄴ/etm
+
+동피랑
+	동피랑/ncn
+
+마을이
+	마을/ncn+이/jcc
+
+
+오래도록
+	오래도록/mag
+
+보존이
+	보존/ncpa+이/jcc
+
+되었으면
+	되/pvg+었/ep+으면/ecs
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+쉬엄쉬엄
+	쉬엄쉬엄/mag
+
+둘러보는데
+	두르/pvg+어/ecx+보/px+ㄴ데/ecs
+
+1시간반정도가
+	1시간반정도/ncn+가/jcc
+
+
+걸리는듯
+	걸리/pvg+는/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이날의
+	이/nnc+날/nbu+의/jcm
+
+날씨가
+	날씨/ncn+가/jcs
+
+제법
+	제법/mag
+
+바람도
+	바라/pvg+ㅁ/etn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+불고
+	불/nbu+고/jcj
+
+
+꽤
+	꽤/mag
+
+추워
+	춥/paa+어/ecx
+
+지는게
+	지/px+는게/ecs
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+남녁이
+	남녁/ncn+이/jcc
+
+아니네요~
+	아니/paa+네요/ef+~/sd
+
+
+동해안에는
+	동해/ncn+안/ncn+에/jca+는/jxc
+
+폭설이
+	폭설/ncn+이/jcc
+
+내린다고
+	내리/pvg+ㄴ다/ef+고/jcr
+
+그러고
+	그러고/ii
+
+
+서해안에도
+	서해안/ncn+에/jca+도/jxc
+
+내릴것이라
+	내리/pvg+ㄹ/etm+것/nbn+이/jp+라/ecs
+
+그러니
+	그러/pvd+니/ef
+
+
+눈을
+	눈/ncn+을/jco
+
+피해서는
+	피하/pvg+어서/ecs+는/jxc
+
+잘온
+	잘온/ncn
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+다시보기
+	다시보/ncn+이/jp+기/etn
+
+
+[가족여행]
+	[/sl+가족여행/ncpa+]/sr
+
+통영나들이
+	통영나들/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+첫번째~
+	첫/nno+번/nbu+째/xsnu+~/sd
+
+금강산도
+	금강/ncn+산/ncn+도/jxc
+
+식후경
+	식후/ncn+경/ncn
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+노란잠수함
+	노란잠수함/ncn

@@ -1,0 +1,831 @@
+수도권
+	수도권/ncn
+
+공공택지내
+	공공/ncn+택지/ncn+내/ncn
+
+전용면적
+	전용/ncpa+면적/ncn
+
+85
+	85/nnc
+
+이하
+	이하/ncn
+
+주택이
+	주택/ncn+이/jcc
+
+1년으로
+	1/nnc+년/nbu+으로/jca
+
+단축되고,
+	단축/ncpa+되/xsvn+고/ecc+,/sp
+
+그린벨트
+	그린벨트/ncn
+
+보금자리주택지구의
+	보금자리/ncn+주택지구/ncn+의/jcm
+
+주택
+	주택/ncn
+
+전매제한은
+	전매/ncn+제한/ncpa+은/jxc
+
+5~10년에서
+	5/nnc+~/sd+10/nnc+년/nbu+에서/jca
+
+2~8년으로
+	2/nnc+~/sd+8/nnc+년/nbu+으로/jca
+
+완화된다
+	완화/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+국토해양부는
+	국토/ncn+해양/ncn+부/ncn+는/jxc
+
+5.
+	5./nnc
+
+10부동산
+	10부동산/ncn
+
+대책의
+	대책/ncn+의/jcm
+
+일환으로
+	일환/ncn+으로/jca
+
+이와
+	이/npd+와/jct
+
+같은
+	같/paa+은/etm
+
+내용의
+	내용/ncn+의/jcm
+
+주택법
+	주택/ncn+법/ncn
+
+시행령
+	시행령/ncn
+
+개정안이
+	개정안/ncn+이/jcc
+
+국무회의를
+	국무/ncn+회의/ncn+를/jco
+
+통과해
+	통과/ncpa+하/xsva+어/ecx
+
+이달
+	이/nnc+달/nbu
+
+27일부터
+	27/nnc+일/nbu+부터/jxc
+
+시행된다고
+	시행/ncpa+되/xsvn+ㄴ다/ef+고/jcr
+
+17일
+	17/nnc+일/nbu
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+개정안에
+	개정안/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+수도권내
+	수도권/ncn+내/ncn
+
+일반
+	일반/ncn
+
+공공택지의
+	공공/ncn+택지/ncn+의/jcm
+
+전용
+	전용/ncpa
+
+85
+	85/nnc
+
+이하
+	이하/ncn
+
+공공아파트는
+	공공/ncn+아파트/ncn+는/jxc
+
+주택
+	주택/ncn
+
+전매제한
+	전매/ncn+제한/ncpa
+
+기간이
+	기간/ncn+이/jcc
+
+현행
+	현행/ncpa
+
+3년에서
+	3/nnc+년/nbu+에서/jca
+
+1년으로
+	1/nnc+년/nbu+으로/jca
+
+줄어든다
+	줄어들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+서울
+	서울/ncn
+
+강남
+	강남/ncn
+
+서초,
+	서초,/ncn
+
+하남
+	하/pvg+어/ecx+나/px+ㅁ/etn
+
+미사,
+	미사/ncn+,/sp
+
+위례신도시
+	위례신도시/ncn
+
+등
+	등/nbu
+
+수도권
+	수도권/ncn
+
+개발제한구역
+	개발제한구역/ncn
+
+해제
+	해제/ncpa
+
+공공택지내
+	공공/ncn+택지/ncn+내/ncn
+
+보금자리주택(전용
+	보금자리주택(전용/ncn
+
+85
+	85/nnc
+
+이하)은
+	이하/ncn+)/sr+은/jxc
+
+분양가
+	분양가/ncn
+
+대비
+	대비/ncn
+
+인근
+	인근/ncn
+
+시세비율을
+	시세/ncn+비율/ncn+을/jco
+
+세분화해
+	세분/ncpa+화해/ncpa
+
+종전
+	종전/ncn
+
+5~10년에서
+	5/nnc+~/sd+10/nnc+년/nbu+에서/jca
+
+2~8년으로
+	2/nnc+~/sd+8/nnc+년/nbu+으로/jca
+
+단축했다
+	단축/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+주택법
+	주택/ncn+법/ncn
+
+시행령
+	시행령/ncn
+
+개정안
+	개정안/ncn
+
+국무회의
+	국무회의/ncpa
+
+통과
+	통/nbn+과/jcj
+
+주택사업자가
+	주택/ncn+사업자/ncn+가/jcs
+
+미분양
+	미분양/ncpa
+
+우려
+	우려/ncpa
+
+등
+	등/nbu
+
+시장
+	시장/ncn
+
+여건을
+	여건/ncn+을/jco
+
+감안해
+	감안/ncpa+하/xsva+어/ecx
+
+아파트
+	아파트/ncn
+
+단지를
+	단지/ncn+를/jco
+
+분할
+	분하/paa+ㄹ/etm
+
+건설
+	건설/ncpa
+
+공급하는
+	공급/ncpa+하/xsva+는/etm
+
+것도
+	것/nbn+도/jxc
+
+가능해진다
+	가능/ncps+하/xsms+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+개정안은
+	개정안/ncn+은/jxc
+
+2개
+	2/nnc+개/nbu
+
+이상의
+	이상/ncn+의/jcm
+
+공구로
+	공구/ncn+로/jca
+
+분할해
+	분할/ncpa+하/xsva+어/ecx
+
+건설
+	건설/ncpa
+
+공급할
+	공급/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+주택단지의
+	주택단지/ncn+의/jcm
+
+범위를
+	범위/ncn+를/jco
+
+'1000가구
+	'/sr+1000/nnc+가구/nbu
+
+이상
+	이상/ncn
+
+또는
+	또는/maj
+
+대지면적
+	대지/ncn+면적/ncn
+
+5만
+	5/nnc+만/jxc
+
+이상'으로
+	이상/ncps+'/sr+으로/jca
+
+정하고
+	정하/pvg+고/ecc
+
+지역
+	지역/ncn
+
+여건을
+	여건/ncn+을/jco
+
+고려해
+	고/pvg+려/ecx+하/px+어/ecx
+
+해당
+	해당/ncpa
+
+지자체가
+	지자체/ncn+가/jcs
+
+조례로
+	조례/ncn+로/jca
+
+10%
+	10/nnc+%/su
+
+범위내에서
+	범위/ncn+내/ncn+에서/jca
+
+완화해줄
+	완화/ncpa+하/xsva+어/ecx+주/px+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+다만
+	다만/mag
+
+공구는
+	공구/ncn+는/jxc
+
+300가구
+	300/nnc+가구/nbu
+
+이상으로
+	이상/ncn+으로/jca
+
+하되
+	하/pvg+되/ecs
+
+입주민의
+	입주/ncpa+민/ncn+의/jcm
+
+안전을
+	알/pvg+ㄴ/etm+전/nbn+을/jco
+
+확보하고
+	확보/ncpa+하고/jct
+
+공사가
+	공사/ncn+가/jcs
+
+원활하게
+	원활/ncps+하/xsms+게/ecs
+
+진행될
+	진행/ncpa+되/xsvn+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+공구간에
+	공구/ncn+간/ncn+에/jca
+
+6m
+	6m/ncn
+
+이상의
+	이상/ncn+의/jcm
+
+도로나
+	도/ncn+로/jca+나/jxc
+
+부설주차장,
+	부설/ncpa+주차장/ncn+,/sp
+
+녹지,
+	녹지/ncn+,/sp
+
+옹벽
+	옹벽/ncn
+
+또는
+	또는/maj
+
+축대
+	축대/ncn
+
+등을
+	등/nbu+을/jco
+
+설치하도록
+	설치/ncpa+하/xsva+도록/ecs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+때
+	때/ncn
+
+분할된
+	분할/ncpa+되/xsvn+ㄴ/etm
+
+공구중
+	공구/ncn+중/ncn
+
+최초에
+	최초/ncn+에/jca
+
+착공하는
+	착공/ncpa+하/xsva+는/etm
+
+공구는
+	공구/ncn+는/jxc
+
+사업승인일로부터
+	사업승인/ncpa+일/ncn+로/jca+부터/jxc
+
+2년
+	2/nnc+년/nbu
+
+내에,
+	내/npp+에/jca+,/sp
+
+나머지
+	나머지/ncn
+
+분할
+	분하/paa+ㄹ/etm
+
+공구도
+	공구/ncn+도/jxc
+
+최초
+	최초/ncn
+
+착공이후
+	착공/ncpa+이후/ncn
+
+2년내에
+	2/nnc+년/nbu+내/xsnu+에/jca
+
+사업에
+	사업/ncn+에/jca
+
+착수해야
+	착수/ncpa+하/xsva+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+가구수
+	가구/ncn+수/ncn
+
+증가
+	증/ncn+가/jcs
+
+리모델링을
+	리모델링/ncn+을/jco
+
+할
+	하/pvg+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+리모델링
+	리모델링/ncn
+
+전후의
+	전후/ncpa+의/jcm
+
+대지와
+	대/pvg+지/ecx+오/px+아/ecx
+
+건축물의
+	건축물/ncn+의/jcm
+
+권리변동
+	권리/ncn+변동/ncpa
+
+명세,
+	명세/ncps+,/sp
+
+조합원의
+	조합원/ncr+의/jcm
+
+비용분담,
+	비용분담/ncpa+,/sp
+
+사업비,
+	사업/ncn+비/ncn+,/sp
+
+조합원이
+	조합원/ncr+이/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+사람에
+	사람/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+분양계획
+	분양계획/ncpa
+
+등이
+	등/nbu+이/jcc
+
+담긴
+	담기/pvg+ㄴ/etm
+
+권리변동계획을
+	권리/ncn+변동/ncpa+계획/ncpa+을/jco
+
+수립해야
+	수립/ncpa+하/xsva+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+리모델링으로
+	리모델링/ncn+으로/jca
+
+가구수가
+	가구/ncn+수/ncn+가/jcs
+
+20가구
+	20/nnc+가구/nbu
+
+이상
+	이상/ncn
+
+증가할
+	증가/ncpa+하/xsva+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+사업계획승인을
+	사업계획/ncpa+승인/ncpa+을/jco
+
+받도록
+	받/pvg+도록/ecs
+
+하고
+	하/pvg+고/ecc
+
+이
+	이/mmd
+
+때
+	때/ncn
+
+리모델링
+	리모델링/ncn
+
+주택조합은
+	주택조합/ncpa+은/jxc
+
+설립인가
+	설립인가/ncpa
+
+이후
+	이후/ncn
+
+2년
+	2/nnc+년/nbu
+
+이내에
+	이내/ncn+에/jca
+
+사업승인을
+	사업승인/ncpa+을/jco
+
+신청하도록
+	신청/ncpa+하/xsva+도록/ecs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+가구수가
+	가구/ncn+수/ncn+가/jcs
+
+100가구
+	100/nnc+가구/nbu
+
+이상
+	이상/ncn
+
+늘어나는
+	늘/pvg+어/ecx+나/px+는/etm
+
+리모델링
+	리모델링/ncn
+
+사업은
+	사업/ncn+은/jxc
+
+간선시설을
+	간선/ncpa+시설/ncpa+을/jco
+
+의무적으로
+	의무/ncn+적/ncn+으로/jca
+
+설치해야
+	설치/ncpa+하/xsva+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+개정안은
+	개정안/ncn+은/jxc
+
+이와
+	이/npd+와/jct
+
+함께
+	함께/mag
+
+단독주택을
+	단독주택/ncn+을/jco
+
+20가구
+	20/nnc+가구/nbu
+
+이상
+	이상/ncn
+
+건축하면
+	건축/ncpa+하/xsva+면/ecs
+
+현재는
+	현재/ncn+는/jxc
+
+사업승인을
+	사업승인/ncpa+을/jco
+
+받아야
+	받/pvg+아/ecx
+
+했지만
+	하/px+었/ep+지만/ecs
+
+앞으로는
+	앞/ncn+으로/jca+는/jxc
+
+블록형
+	블록/ncn+형/ncn
+
+단독주택용지내
+	단독주택용지/ncn+내/ncn
+
+단독주택에
+	단독주택/ncn+에/jca
+
+대해서는
+	대/pvg+어/ecx+하/px+어서/ecs+는/jxc
+
+30가구
+	30/nnc+가구/nbu
+
+이상으로
+	이상/ncn+으로/jca
+
+사업승인
+	사업승인/ncpa
+
+기준이
+	기준/ncpa+이/jcc
+
+완화된다
+	완화/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+이에
+	이/npd+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+블록형
+	블록/ncn+형/ncn
+
+단독주택지내
+	단독주택지/ncn+내/ncn
+
+30가구
+	30/nnc+가구/nbu
+
+미만의
+	미만/ncpa+의/jcm
+
+주택은
+	주택/ncn+은/jxc
+
+복잡한
+	복잡/ncps+하/xsms+ㄴ/etm
+
+주택건설기준과
+	주택건설/ncpa+기준/ncpa+과/jcj
+
+청약경쟁
+	청약/ncn+경쟁/ncpa
+
+등을
+	등/nbu+을/jco
+
+적용받지
+	적용/ncpa+받/xsva+지/ecx
+
+않고
+	않/px+고/ecc
+
+건축허가만으로
+	건축허가/ncpa+만/ncn+으로/jca
+
+건설할
+	건설/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있게
+	있/px+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+
+출처:야후부동산
+	출처:야후부동산/ncn

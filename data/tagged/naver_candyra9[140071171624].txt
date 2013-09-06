@@ -1,0 +1,254 @@
+작년
+	작년/ncn
+
+겨울
+	겨울/ncn
+
+공연도
+	공연/ncps+도/jxc
+
+좋았지만
+	좋/paa+아/ep+지만/ecs
+
+오늘공연도
+	오늘/ncn+공연/ncpa+도/jxc
+
+훌륭했어요
+	훌륭/ncps+하/xsms+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+비록
+	비록/mag
+
+객석을
+	객석/ncn+을/jco
+
+다
+	다/mag
+
+채우지
+	채우/pvg+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+공연이여서
+	공연/ncpa+이/ncn+이/jp+어서/ecs
+
+
+박수
+	박수/ncpa
+
+갈채를
+	가/px+ㄹ/etm+채/nbn+를/jco
+
+많이
+	많/paa+이/xsa
+
+받지는
+	받/pvg+지/ecs+는/jxc
+
+못
+	못/mag
+
+했지만요
+	하/px+었/ep+지/ecs+만요/jxc
+
+.
+	./sf
+
+
+기자단과
+	기자단/ncn+과/jcj
+
+동호인
+	동호인/ncn
+
+초정으로만
+	초정으로/ncn+만/jxc
+
+이루어져서
+	이루/pvg+어/ecx+지/px+어서/ecs
+
+
+VIP석
+	VIP/f+석/ncn
+
+60석
+	60/nnc+석/nbu
+
+정도가
+	정도/ncn+가/jcs
+
+전체
+	전체/ncn
+
+관람
+	관람/ncpa
+
+인원이였네요
+	인원/ncn+이/ncn+이/jp+었/ep+네/ef+요/jxf
+
+....
+	.../se+./sf
+
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+작년에
+	작년/ncn+에/jca
+
+못
+	못/mag
+
+찍은
+	찍/pvg+은/etm
+
+사진을
+	사진/ncn+을/jco
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+맘껏
+	맘껏/mag
+
+찍을
+	찍/pvg+을/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+좋았어요
+	좋/paa+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+"사랑"을
+	"/sl+사랑/ncpa+"/sr+을/jco
+
+모티브로
+	모티브/ncn+로/jca
+
+하고
+	하/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+공연
+	공연/ncpa
+
+
+사랑을
+	사랑/ncn+을/jco
+
+하려거던
+	하려거/ncn+이/jp+던/etm
+
+
+상대방의
+	상대방/ncn+의/jcm
+
+전부를
+	전부/ncn+를/jco
+
+사랑
+	사랑/ncn
+
+할
+	하/pvg+ㄹ/etm
+
+줄
+	줄/nbn
+
+알아야
+	알/pvg+아/ecx
+
+한다는
+	하/px+ㄴ다/ef+는/etm
+
+것이지요
+	것/nbn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+반쪽인
+	반쪽/ncn+이/jp+ㄴ/etm
+
+장점만
+	장점/ncn+만/jxc
+
+사랑하는
+	사랑/ncpa+하/xsva+는/etm
+
+것이
+	것/nbn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+...
+	.../se
+
+
+내가
+	나/npp+가/jcs
+
+싫어
+	싫/paa+어/ecx
+
+하더라도
+	하/pvg+더라도/ecs
+
+상대방이
+	상대방/ncn+이/jcc
+
+커피를
+	커피/ncn+를/jco
+
+좋아하면
+	좋/paa+아/ecx+하/px+면/ecs
+
+
+함께
+	함께/mag
+
+커피를
+	커피/ncn+를/jco
+
+마셔
+	마시/pvg+어/ecx
+
+줄
+	주/px+ㄹ/etm
+
+줄
+	줄/nbn
+
+알아야
+	알/pvg+아/ecx
+
+하는
+	하/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+사랑이다라는
+	사랑/ncn+이/jp+다/ef+라는/jcr
+
+...
+	.../se

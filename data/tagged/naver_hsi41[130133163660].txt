@@ -1,0 +1,453 @@
+서울
+	서울/ncn
+
+동대문구청이
+	동대문구청/ncn+이/jcc
+
+건축허가시
+	건축허가/ncpa+시/ncn
+
+상추,
+	상추/ncn+,/sp
+
+배추
+	배추/ncn
+
+등을
+	등/nbu+을/jco
+
+심을
+	심/ncn+을/jco
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+텃밭설치를
+	텃밭/ncn+설치/ncpa+를/jco
+
+의무화해
+	의무화해/ncpa
+
+눈길을
+	눈길/ncn+을/jco
+
+끌고
+	끌/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+동대문구청은
+	동대문구청/ncn+은/jxc
+
+건축허가시
+	건축허가/ncpa+시/ncn
+
+대지면적
+	대지/ncn+면적/ncn
+
+200
+	200/nnc
+
+이상
+	이상/ncn
+
+건축물을
+	건축물/ncn+을/jco
+
+지을
+	지/px+ㄹ/etm
+
+때
+	때/ncn
+
+조경시설에
+	조경시설/ncpa+에/jca
+
+텃밭을
+	텃밭/ncn+을/jco
+
+의무적으로
+	의무/ncn+적/ncn+으로/jca
+
+설치해야한다고
+	설치/ncpa+하/xsva+어야/ecx+하/px+ㄴ다/ef+고/jcr
+
+6일
+	6/nnc+일/nbu
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이에
+	이/npd+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+앞으로
+	앞/ncn+으로/jca
+
+동대문구에서
+	동대문구/ncn+에서/jca
+
+기준에
+	기준/ncpa+에/jca
+
+해당하는
+	해당/ncpa+하/xsva+는/etm
+
+건축물의
+	건축물/ncn+의/jcm
+
+건축허가
+	건축허가/ncpa
+
+또는
+	또는/maj
+
+건축심의를
+	건축/ncpa+심의/ncpa+를/jco
+
+신청할
+	신청/ncpa+하/xsva+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+조경시설에
+	조경시설/ncpa+에/jca
+
+텃밭설치
+	텃밭/ncn+설치/ncpa
+
+계획이
+	계획/ncpa+이/jcc
+
+포함돼야
+	포함/ncpa+되/xsvn+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+전국
+	전국/ncn
+
+지자체를
+	지자체/ncn+를/jco
+
+통털어
+	통털어/mag
+
+최초다
+	최초/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+현재
+	현재/mag
+
+서울시
+	서울시/ncn
+
+건축조례에
+	건축/ncpa+조례/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+대지면적
+	대지/ncn+면적/ncn
+
+200
+	200/nnc
+
+이상
+	이상/ncn
+
+대지에
+	대지/ncn+에/jca
+
+건축물을
+	건축물/ncn+을/jco
+
+지을
+	지/px+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+대지면적의
+	대지/ncn+면적/ncn+의/jcm
+
+5
+	5/nnc
+
+30%이상을
+	30/nnc+%/su+이상/xsnu+을/jco
+
+조경면적으로
+	조경/ncpa+면적/ncn+으로/jca
+
+확보해야한다
+	확보/ncpa+하/xsva+어야/ecx+하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+의자
+	의자/ncn
+
+등도
+	등/nbu+도/jxc
+
+조경면적으로
+	조경/ncpa+면적/ncn+으로/jca
+
+인정해주고
+	인정/ncpa+하/xsva+어/ecx+주/px+고/ecc
+
+있어
+	있/px+어/ecx
+
+텃밭을
+	텃밭/ncn+을/jco
+
+설치한
+	설치/ncpa+하/xsva+ㄴ/etm
+
+곳은
+	곳/ncn+은/jxc
+
+사실상
+	사실상/ncn
+
+전무하다
+	전무/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+동대문구청
+	동대문구청/ncn
+
+관계자는
+	관계자/ncn+는/jxc
+
+"건축인허가나
+	"/sl+건축/ncpa+인허가/ncn+나/jcj
+
+건축심의
+	건축/ncpa+심/ncn+의/jcm
+
+조건에
+	조건/ncn+에/jca
+
+조경면적
+	조경/ncpa+면적/ncn
+
+텃밭
+	텃밭/ncn
+
+설치를
+	설치/ncpa+를/jco
+
+의무화했다"며
+	의무화했다"며/ncn
+
+"나무
+	"/sl+나무/ncn
+
+등
+	등/nbu
+
+식재면적이
+	식재/ncpa+면적/ncn+이/jcc
+
+포함된
+	포함/ncpa+되/xsvn+ㄴ/etm
+
+조경면적의
+	조경/ncpa+면적/ncn+의/jcm
+
+40%
+	40/nnc+%/su
+
+이상을
+	이상/ncn+을/jco
+
+텃밭으로
+	텃밭/ncn+으로/jca
+
+만들어야
+	만들/pvg+어야/ecs
+
+한다"고
+	하/px+ㄴ다/ef+"/sr+고/jcr
+
+설명했다
+	설명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이어
+	이/npd+이/jp+어/ecs
+
+"서울
+	"서울/ncn
+
+25개
+	25/nnc+개/nbu
+
+지자체중
+	지자체/ncn+중/ncn
+
+녹지비율이
+	녹지/ncn+비율/ncn+이/jcc
+
+가장
+	가장/mag
+
+작고
+	작/paa+고/ecc
+
+서울시에서도
+	서울시에서/ncn+도/jxc
+
+텃밭활성화를
+	텃밭/ncn+활성화/ncn+를/jco
+
+권장하고
+	권장/ncpa+하고/jct
+
+있어
+	있/px+어/ecx
+
+이번에
+	이/nnc+번/nbu+에/jca
+
+의무사항으로
+	의무사항/ncn+으로/jca
+
+못박았다"고
+	못박/pvg+아/ep+다/ef+"/sr+고/jcr
+
+덧붙였다
+	덧붙이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+조경면적
+	조경/ncpa+면적/ncn
+
+확보비율이
+	확보/ncpa+비율/ncn+이/jcc
+
+15%가
+	15/nnc+%/su+가/jcc
+
+적용되는
+	적용/ncpa+되/xsvn+는/etm
+
+대지면적
+	대지/ncn+면적/ncn
+
+2000
+	2000/nnc
+
+의
+	의/ncn
+
+경우
+	경우/ncn
+
+120
+	120/nnc
+
+이상을
+	이상/ncn+을/jco
+
+텃밭으로
+	텃밭/ncn+으로/jca
+
+설치해야
+	설치/ncpa+하/xsva+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+구청은
+	구청/ncn+은/jxc
+
+건축사협회는
+	건축사/ncr+협회/ncn+는/jxc
+
+물론
+	물론/mag
+
+동대문구
+	동대문구/ncn
+
+홈페이지,
+	홈페이지/ncn+,/sp
+
+반상회보
+	반상회보/ncn
+
+등을
+	등/nbu+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+텃밭설치
+	텃밭/ncn+설치/ncpa
+
+의무화를
+	의무화/ncn+를/jco
+
+적극
+	적극/ncn
+
+알릴
+	알리/pvg+ㄹ/etm
+
+예정이다
+	예정/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+출처:파이낸셜
+	출처/ncn+:/sp+파이낸셜/ncn

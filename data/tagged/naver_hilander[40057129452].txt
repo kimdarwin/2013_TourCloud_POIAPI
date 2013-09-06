@@ -1,0 +1,331 @@
+신사동
+	신사/ncr+동/ncn
+
+가로수길
+	가로수/ncn+길/ncn
+
+초입의
+	초입/ncpa+의/jcm
+
+
+김북순
+	김북순/ncn
+
+큰남비집
+	큰남비집/ncn
+
+
+늘
+	늘/mag
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+북적거리는
+	북적거리/pvg+는/etm
+
+곳
+	곳/nbu
+
+
+점심시간엔
+	점심/ncn+시간/ncn+엔/jca
+
+늘
+	늘/pvg+ㄹ/etm
+
+줄서있는
+	줄서있/ncn+는/jxc
+
+모습을
+	모습/ncn+을/jco
+
+볼수있다
+	보/px+ㄹ/etm+수/nbn+있/xsmn+다/ef
+
+.
+	./sf
+
+
+한쪽벽에
+	한쪽/ncn+벽/ncn+에/jca
+
+빽빽히
+	빽빽히/ncn
+
+붙어있는
+	붙/pvg+어/ecx+있/px+는/etm
+
+냄비뚜껑이
+	냄비/ncn+뚜껑/ncn+이/jcc
+
+특이하다
+	특이/ncps+하/xsms+다/ef
+
+
+자세히
+	자세히/mag
+
+보면
+	보/px+면/ecs
+
+연예인들
+	연예/ncn+이/jp+ㄴ들/ecs
+
+사인이
+	사인/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+메뉴는
+	메뉴/ncn+는/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+사진과
+	사진/ncn+과/jcj
+
+함께~
+	함/ncn+께/jca+~/sd
+
+
+초란
+	초/nbu+란/jcm
+
+뚝배기탕도
+	뚝배기/ncn+탕/ncn+도/jxc
+
+이집의
+	이집/ncpa+의/jcm
+
+인기메뉴
+	인기/ncn+메뉴/ncn
+
+
+계란탕이
+	계란/ncn+탕/ncn+이/jcc
+
+뭐이리
+	뭐/npd+이/jp+리/ef
+
+비싼가
+	비싸/paa+ㄴ가/ef
+
+..
+	./sf+./sf
+
+
+할수도
+	하/pvg+ㄹ/etm+수/nbn+도/jxc
+
+있지만
+	있/paa+지만/ecs
+
+
+내용물과
+	내용/ncn+물/ncn+과/jcj
+
+양을
+	양/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+이해할만하다
+	이해/ncpa+하/xsva+ㄹ/etm+만/nbs+하/xsms+다/ef
+
+
+그러나
+	그러나/maj
+
+오늘
+	오늘/ncn
+
+주문한
+	주문/ncn+한/ncn
+
+메뉴는목살듬뿍김치찌개와
+	메뉴는목살듬뿍김치찌개/ncn+와/jcj
+
+해물순두부찌개~
+	해물/ncn+순두부/ncn+찌개/ncn+~/sd
+
+
+테이블
+	테이블/ncn
+
+번호
+	번호/ncn
+
+
+여긴6번
+	여긴6번/ncn
+
+?
+	?/sf
+
+
+아님
+	아니/paa+ㅁ/etn
+
+청단석
+	청단석/ncn
+
+?
+	?/sf
+
+
+기본찬
+	기본/ncn+찬/ncn
+
+
+목살듬뿍
+	목살듬뿍/ncn
+
+김치찌개
+	김치/ncn+찌개/ncn
+
+
+1인분
+	1/nnc+이/jp+ㄴ/etm+분/nbn
+
+치고
+	치/pvg+고/ecc
+
+양이
+	양/ncn+이/jcc
+
+많은편
+	많은/ncn+편/ncn
+
+
+(물론
+	(/sl+물론/mag
+
+다
+	다/mag
+
+먹을순
+	먹을순/ncn
+
+있다~
+	있/px+다/ef+~/sd
+
+)
+	)/sr
+
+
+여러명이
+	여러/nnc+명/nbu+이/jcc
+
+가면
+	가/px+면/ecs
+
+몇
+	몇/nnc
+
+종류
+	종류/ncn
+
+시켜
+	시키/pvg+어/ecx
+
+나눠먹는게
+	나눠먹는게/ncn
+
+좋을듯
+	좋/paa+을/etm+듯/nbs
+
+
+이름처럼
+	이름/ncn+처럼/jca
+
+큼직한
+	큼직/ncps+하/xsms+ㄴ/etm
+
+목살이~
+	목살/ncn+이/jcc+~/sd
+
+
+해물
+	해물/ncn
+
+순두부
+	순두부/ncn
+
+찌개
+	찌개/ncn
+
+
+김치찌개랑
+	김치/ncn+찌개/ncn+랑/jxc
+
+함께
+	함께/mag
+
+먹어서
+	먹/pvg+어서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+요건
+	요건/ncn
+
+평범한편~
+	평범/ncn+한편/ncn+~/sd
+
+
+김북순
+	김북순/ncn
+
+큰남비집
+	큰남비집/ncn
+
+
+02-543-9024
+	02/nnc+-543/nnc+-9024/nnc
+
+
+서울시
+	서울시/ncn
+
+강남구
+	강남/ncn+구/ncn
+
+신사동
+	신사/ncr+동/ncn
+
+536-8
+	536/nnc+-8/nnc
+
+우림빌딩
+	우림빌딩/ncn
+
+1층
+	1/nnc+층/nbu
+
+
+(가로수길,
+	(/sl+가로수/ncn+길/ncn+,/sp
+
+신사동
+	신사/ncr+동/ncn
+
+방향으로
+	방향/ncn+으로/jca
+
+들어가서
+	들/pvg+어/ecx+가/px+아/ecx
+
+바로
+	바로/mag
+
+왼쪽
+	왼쪽/ncn
+
+골목)
+	골목/ncn+)/sr

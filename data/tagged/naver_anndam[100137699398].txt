@@ -1,0 +1,6192 @@
+경주테디베어박물관
+	경주테디베어박물관/ncn
+
+-경주가볼만한곳,
+	-경주가볼만한곳,/ncn
+
+가을나들이
+	가을/ncn+나들이/ncpa
+
+추천/경주
+	추천/ncpa+//sp+경주/ncpa
+
+가족여행지
+	가족/ncn+여행지/ncn
+
+/테디베어박물관
+	/테디베어박물관/ncn
+
+
+경주
+	경주/ncpa
+
+보문관광단지
+	보문관광단지/ncn
+
+내
+	내/npp
+
+현대호텔우측
+	현대/ncn+호텔/ncn+우측/ncn
+
+드림센터에
+	드림/ncn+센터/ncn+에/jca
+
+경주테디베어박물관이
+	경주테디베어박물관/ncn+이/jcc
+
+개관을
+	개관/ncn+을/jco
+
+하였습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+4월
+	4/nnc+월/nbu
+
+개관해서
+	개관/ncn+해/ncn+서/jca
+
+아직
+	아직/mag
+
+생소한
+	생소/ncps+하/xsms+ㄴ/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+많을텐데요
+	많/paa+을텐데/ef+요/jxf
+
+.
+	./sf
+
+
+"잃어버린세계를
+	"잃어버린세계/ncn+를/jco
+
+찾아서"라는
+	찾/pvg+아서/ecs+"/sr+라는/jcm
+
+테마로
+	테마/ncn+로/jca
+
+경주에
+	경주/ncpa+에/jca
+
+살던
+	살/pvg+던/etm
+
+공룡의세계를
+	공룡의세계/ncn+를/jco
+
+탐험하고,
+	탐험/ncpa+하고/jct+,/sp
+
+다시
+	다시/mag
+
+해저탐험
+	해저/ncn+탐험/ncpa
+
+그리고
+	그리고/maj
+
+신라시대로의
+	신라시대/ncn+로/jca+의/jcm
+
+여행을
+	여행/ncpa+을/jco
+
+하게
+	하/pvg+게/ecs
+
+되는
+	되/pvg+는/etm
+
+스토리입니다
+	스토리/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이외
+	이외/ncn
+
+아트갤러리,
+	아트/ncn+갤러리/ncn+,/sp
+
+3D영화,
+	3D영화,/ncn
+
+피라미드
+	피라미드/ncn
+
+형태의
+	형태/ncn+의/jcm
+
+유리벽으로
+	유리/ncn+벽/ncn+으로/jca
+
+된
+	되/pvg+ㄴ/etm
+
+라운지
+	라운지/ncn
+
+공간도
+	공간/ncn+도/jxc
+
+아주
+	아주/mag
+
+독특했었습니다
+	독특/ncps+하/xsms+었었/ep+습니다/ef
+
+.
+	./sf
+
+
+런닝맨
+	런닝맨/ncn
+
+촬영을
+	촬영/ncpa+을/jco
+
+했다고도
+	하/px+었/ep+다/ef+고/jcr+도/jxc
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+경주세계문화엑스장과
+	경주/ncpa+세계/ncn+문화/ncn+엑스/ncn+장/ncn+과/jct
+
+가까워
+	가깝/paa+어/ecx
+
+함께
+	함께/mag
+
+돌아봐도
+	돌/pvg+아/ecx+보/px+아/ecs
+
+좋을
+	좋/paa+을/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+(입장료
+	(/sl+입장료/ncn
+
+성인9,000원)
+	성인9/ncn+,/sp+000/nnc+원/nbu+)/sr
+
+
+잃어버린
+	잃/pvg+어/ecx+버리/px+ㄴ/etm
+
+세계를
+	세계/ncn+를/jco
+
+찾아서
+	찾/pvg+아서/ecs
+
+
+타임머신
+	타임머신/ncn
+
+타고
+	타/pvg+고/ecc
+
+경주로~경주테디베어박물관
+	경주로~경주테디베어박물관/ncn
+
+
+경주시
+	경주시/ncn
+
+북군동
+	북군동/ncn
+
+보문단지
+	보문단지/ncn
+
+드림센트
+	드림센트/ncn
+
+내에
+	내/npp+에/jca
+
+경주테디베어박물관이
+	경주테디베어박물관/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+으레
+	으레/mag
+
+제주도에
+	제주/ncn+도/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+박물관을
+	박물관/ncn+을/jco
+
+떠올릴텐데요
+	떠올리/pvg+ㄹ텐데/ef+요/jxf
+
+.
+	./sf
+
+
+테디베어뮤지움은
+	테디베어뮤지움/ncn+은/jxc
+
+전국에
+	전국/ncn+에/jca
+
+5섯군데가
+	5섯군데/ncn+가/jcs
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+제주,
+	제주/ncn+,/sp
+
+남산,
+	남산,/ncn
+
+헤이리,
+	헤이리,/ncn
+
+설악
+	설악/ncn
+
+그리고
+	그리고/maj
+
+경주가
+	경주/ncpa+가/jcc
+
+그
+	그/mmd
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+휴가때
+	휴가/ncn+때/ncn
+
+보문을
+	보문/ncn+을/jco
+
+지나면서
+	지나/pvg+면서/ecc
+
+새로
+	새로/mag
+
+생겼다는
+	생기/pvg+었/ep+다/ef+는/etm
+
+건
+	거/nbn+은/jxc
+
+알았지만
+	알/pvg+아/ep+지만/ecs
+
+들어가볼
+	들/pvg+어/ecx+가/px+아/ecx+보/px+ㄹ/etm
+
+생각을
+	생각/ncpa+을/jco
+
+못했는데
+	못하/px+었/ep+는데/ecs
+
+이번
+	이/nnc+번/nbu
+
+경주여행길에
+	경주/ncpa+여행길/ncn+에/jca
+
+동생과
+	동생/ncn+과/jct
+
+함께
+	함께/mag
+
+들러보았습니다
+	들르/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+인형보러
+	인형/ncn+보/ncn+이/jp+러/ecs
+
+간다고
+	가/px+ㄴ다/ef+고/jcr
+
+했더니
+	하/px+었/ep+더니/ecs
+
+시큰둥하더니
+	시큰둥/ncps+하/xsms+더니/ecs
+
+이날
+	이/nnc+날/nbu
+
+저보다
+	저/npp+보다/jca
+
+더
+	더/mag
+
+재밌게
+	재밌/ncn+게/jca
+
+구경하는
+	구경/ncpa+하/xsva+는/etm
+
+듯
+	듯/nbn
+
+보이더라구요
+	보이/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+테디베어를
+	테디베어/ncn+를/jco
+
+본적이나
+	보/px+ㄴ/etm+적/nbn+이/jp+나/ecs
+
+있었는지
+	있/px+었/ep+는지/ecs
+
+..
+	./sf+./sf
+
+
+(소만
+	(/sl+소/ncn+만/jxc
+
+키울
+	키우/pvg+ㄹ/etm
+
+줄
+	줄/nbn
+
+알았지
+	알/pvg+아/ep+지/ecs
+
+)
+	)/sr
+
+
+경주시내에서
+	경주시내/ncn+에서/jca
+
+보문으로
+	보문/ncn+으로/jca
+
+들어와
+	들/pvg+어/ecx+오/px+아/ecx
+
+현대호텔
+	현대/ncn+호텔/ncn
+
+주변으로
+	주변/ncn+으로/jca
+
+오시면
+	오/px+시/ep+면/ecs
+
+이정표가
+	이정표/ncn+가/jcs
+
+잘
+	잘/mag
+
+되어
+	되/pvg+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+찾기
+	찾/pvg+기/etn
+
+쉽습니다
+	쉽/paa+습니다/ef
+
+.
+	./sf
+
+
+박물관
+	박물관/ncn
+
+앞쪽에
+	앞쪽/ncn+에/jca
+
+너른
+	너르/paa+ㄴ/etm
+
+주차장이
+	주차장/ncn+이/jcc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+길
+	길/ncn
+
+건너서
+	건너/pvg+어서/ecs
+
+입구에
+	입구/ncn+에/jca
+
+들어서면
+	들어서/pvg+면/ecs
+
+커다란
+	커다랗/paa+은/etm
+
+테디베어가
+	테디베어/ncn+가/jcs
+
+반겨줍니다
+	반기/pvg+어/ecx+주/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이날도
+	이/nnc+날/nbu+도/jxc
+
+어린이집에서
+	어린이/ncn+집/ncn+에서/jca
+
+놀러온
+	놀러오/pvg+ㄴ/etm
+
+아이들
+	아이/ncn+들/ncn
+
+한무리가
+	한무리/ncn+가/jcs
+
+단체사진을
+	단체/ncn+사진/ncn+을/jco
+
+찍는다고
+	찍/pvg+는다/ef+고/jcr
+
+곰주변에
+	곰주변/ncn+에/jca
+
+모여앉는
+	모여앉/ncn+는/jxc
+
+모습을
+	모습/ncn+을/jco
+
+봤는데요
+	보/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+아이들은
+	아이/ncn+들/ncn+은/jxc
+
+사진보다는
+	사진/ncn+보다/jca+는/jxc
+
+곰인형과
+	곰인형/ncn+과/jct
+
+좀더
+	좀더/mag
+
+가까이
+	가까이/mag
+
+하고
+	하/pvg+고/ecc
+
+싶어서
+	싶/px+어서/ecs
+
+왁자지껄하더라구요
+	왁자지껄하/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+역시
+	역시/mag
+
+인형은
+	인형/ncn+은/jxc
+
+아이들의
+	아이/ncn+들/ncn+의/jcm
+
+영원한
+	영원/ncps+하/xsms+ㄴ/etm
+
+장난감인가
+	장난감/ncn+이/jp+ㄴ가/ef
+
+보다
+	보다/mag
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+가족나들이
+	가족나들이/ncn
+
+코스로
+	코스/ncn+로/jca
+
+가을날
+	가을날/ncn
+
+경주여행길에
+	경주/ncpa+여행길/ncn+에/jca
+
+들리면
+	들리/pvg+면/ecs
+
+무척
+	무척/mag
+
+즐거운
+	즐겁/paa+은/etm
+
+체험을
+	체험/ncpa+을/jco
+
+하실
+	하/px+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+박물관내
+	박물관/ncn+내/ncn
+
+테디베어는
+	테디베어/ncn+는/jxc
+
+그냥
+	그냥/mag
+
+유리관안에
+	유리관/ncn+안/ncn+에/jca
+
+갖혀
+	갖혀/ncn
+
+가만히
+	가만히/mag
+
+있는
+	있/px+는/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+작품으로서가
+	작품/ncn+으로서/jca+가/jcc
+
+아니라
+	아니/paa+라/ecs
+
+테디베어들이
+	테디베어들/ncn+이/jcc
+
+펼치는
+	펼치/pvg+는/etm
+
+이야기속으로
+	이야기속/ncn+으로/jca
+
+빠져들어가는
+	빠져들어가/ncn+는/jxc
+
+느낌을
+	느끼/pvg+ㅁ/etn+을/jco
+
+받았습니다
+	받/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+인형들의
+	인형/ncn+들/ncn+의/jcm
+
+움직임이
+	움직이/pvg+ㅁ/etn+이/jcs
+
+있고
+	있/px+고/ecc
+
+효과음까지
+	효과/ncn+음/ncn+까지/jxc
+
+가세해서
+	가세/ncn+해/ncn+서/jca
+
+보는
+	보/px+는/etm
+
+즐거움을
+	즐거움/ncn+을/jco
+
+더해주었어요
+	더하/paa+어/ecx+주/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+살아있는
+	살/pvg+아/ecx+있/px+는/etm
+
+박물관이라
+	박물관/ncn+이/jp+라/ecs
+
+아이들에게도
+	아이/ncn+들/ncn+에게/jca+도/jxc
+
+흥미로운
+	흥미/ncn+로운/ncn
+
+공간이
+	공간/ncn+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+내부가
+	내부/ncn+가/jcs
+
+어떻게
+	어떻/pad+게/ecs
+
+꾸며져
+	꾸미/pvg+어/ecx+지/px+어/ecx
+
+있는지
+	있/px+는지/ecs
+
+경주테디베어박물관으로
+	경주테디베어박물관/ncn+으로/jca
+
+함께
+	함께/mag
+
+가보시겠습니다
+	가/pvg+아/ecx+보/px+시겠/ep+습니다/ef
+
+.
+	./sf
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-마음이
+	여행/ncpa+이야기/ncpa+-/sd+마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+(여행일:
+	(/sl+여행/ncpa+이/jp+ㄹ/etm+:/sp
+
+2011.
+	2011./nnc
+
+09.
+	09./nnc
+
+08)
+	08/nnc+)/sr
+
+
+테디베어
+	테디베/ncn+이/jp+어/ecs
+
+입구입니다
+	입구/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+커다란
+	커다랗/paa+은/etm
+
+곰인형을
+	곰인형/ncn+을/jco
+
+보고
+	보/px+고/ecc
+
+성큼
+	성큼/mag
+
+걸어가고
+	걷/pvg+어/ecx+가/px+고/ecc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+우르르
+	우르르/mag
+
+몰려
+	몰리/pvg+어/ecx
+
+오더군요
+	오/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+단체사진을
+	단체/ncn+사진/ncn+을/jco
+
+찍겠다고
+	찍/pvg+겠/ep+다/ef+고/jcr
+
+앉히기는
+	앉히/pvg+기/etn+는/jxc
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+아이들은
+	아이/ncn+들/ncn+은/jxc
+
+이미
+	이미/mag
+
+테디베어에
+	테디베어/ncn+에/jca
+
+시선이
+	시선/ncn+이/jcc
+
+고정된
+	고정/ncpa+되/xsvn+ㄴ/etm
+
+상태
+	상태/ncn
+
+..
+	./sf+./sf
+
+
+만지고곁에
+	만지고곁/ncn+에/jca
+
+앉으려고
+	앉/pvg+으려고/ecs
+
+티격태격입니다
+	티격태격입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+아이들
+	아이/ncn+들/ncn
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+모습만
+	모습/ncn+만/jxc
+
+봐도
+	보/px+아/ecs
+
+즐거우니
+	즐겁/paa+으니/ecs
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+지금은
+	지금/ncn+은/jxc
+
+여기서
+	여기/npd+서/jca
+
+기념사진도
+	기념사진/ncn+도/jxc
+
+못찍겠구나
+	못찍겠구/ncn+나/jcj
+
+싶어서
+	싶/px+어서/ecs
+
+포기하고
+	포/ncn+이/jp+기/etn+하고/jct
+
+안으로
+	안/ncn+으로/jca
+
+들어갑니다
+	들/pvg+어/ecx+가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+이곳에서
+	이곳/npd+에서/jca
+
+런닝맨
+	런닝맨/ncn
+
+촬영을
+	촬영/ncpa+을/jco
+
+했었다고
+	하/px+었었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+입구에서
+	입구/ncn+에서/jca
+
+부터
+	부터/ncn
+
+구석구석
+	구석구석/mag
+
+돌아보면서
+	돌/pvg+아/ecx+보/px+면서/ecc
+
+이쁘게
+	이쁘/paa+게/ecs
+
+촬영해서
+	촬영/ncpa+해서/ncn
+
+
+이후에
+	이후/ncn+에/jca
+
+찾는
+	찾/pvg+는/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+더
+	더/mag
+
+많아졌다고
+	많/paa+아/ecx+지/px+었/ep+다/ef+고/jcr
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+일단
+	일단/mag
+
+매스컴을
+	매스컴/ncn+을/jco
+
+한번
+	한/nnc+번/nbu
+
+탔다면
+	트/pvg+었/ep+다면/ecs
+
+그
+	그/mmd
+
+존재는
+	존재/ncn+는/jxc
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+거겠지요
+	거/ncn+이/jp+겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+테디베어의유래에
+	테디베어의유래/ncn+에/jca
+
+관한
+	관하/pvg+ㄴ/etm
+
+이야기는
+	이야기/ncpa+는/jxc
+
+아실텐데요
+	알/pvg+시/ep+ㄹ텐데/ef+요/jxf
+
+.
+	./sf
+
+
+저도
+	저/npp+도/jxc
+
+첨
+	첨/ncn
+
+테디베어를
+	테디베어/ncn+를/jco
+
+접한
+	접하/pvg+ㄴ/etm
+
+곳은
+	곳/ncn+은/jxc
+
+제주도의
+	제주/ncn+도/ncn+의/jcm
+
+테지움이었습니다
+	테지움이었습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+같은
+	같/paa+은/etm
+
+곳에서
+	곳/ncn+에서/jca
+
+운영하는
+	운영/ncpa+하/xsva+는/etm
+
+것인가
+	것/nbn+이/jp+ㄴ가/ef
+
+했더니
+	하/px+었/ep+더니/ecs
+
+다르다고
+	다르/paa+다/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+경주에도
+	경주/ncpa+에/jca+도/jxc
+
+박물관
+	박물관/ncn
+
+부근에
+	부근/ncn+에/jca
+
+테지움이
+	테지움/ncn+이/jcc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그곳은
+	그곳/ncn+은/jxc
+
+가보지
+	가/pvg+아/ecx+보/px+지/ecx
+
+않아서
+	않/px+아/ecx
+
+모르겠지만
+	모르/pvg+겠/ep+지만/ecs
+
+
+움직이는
+	움직이/pvg+는/etm
+
+테디베어를
+	테디베어/ncn+를/jco
+
+보려고
+	보/px+려고/ecs
+
+찾으시는
+	찾/pvg+으시/ep+는/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+많다고
+	많/paa+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+테디베어의
+	테디베어/ncn+의/jcm
+
+탄생
+	탄생/ncpa
+
+...
+	.../se
+
+
+이야기
+	이야기/ncpa
+
+1902년
+	1902/nnc+년/nbu
+
+미국의
+	미국/ncn+의/jcm
+
+테오도르
+	테오도르/ncn
+
+루즈벨트
+	루즈/ncn+벨트/ncn
+
+대통령이
+	대통령/ncr+이/jcc
+
+미시시피로
+	미시시피/ncn+로/jca
+
+사냥을
+	사/nnc+냥/nbu+을/jco
+
+갔으나
+	가/px+아/ep+나/ecs
+
+곰을
+	곰/ncn+을/jco
+
+한마리도
+	한/nnc+마리/nbu+도/jxc
+
+사냥하지
+	사냥/ncpa+하/xsva+지/ecx
+
+못했다고
+	못하/px+었/ep+다/ef+고/jcr
+
+하지요
+	하/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+그러자
+	그러자/maj
+
+보좌관들이
+	보좌관/ncr+들/ncn+이/jcc
+
+새끼
+	새끼/ncn
+
+곰
+	곰/ncn
+
+한마리를
+	한/nnc+마리/nbu+를/jco
+
+잡아
+	잡/pvg+어/ecx
+
+나무에
+	나무/ncn+에/jca
+
+묶어놓은
+	묶/pvg+어/ecx+놓/px+은/etm
+
+후
+	후/ncn
+
+대통령에게
+	대통령/ncr+에게/jca
+
+그
+	그/mmd
+
+새끼곰을
+	새끼/ncn+곰/ncn+을/jco
+
+쏘라고
+	쏘/pvg+라/ef+고/jcr
+
+하자
+	하/pvg+자/ecc
+
+루즈벨트
+	루즈/ncn+벨트/ncn
+
+대통령은
+	대통령/ncr+은/jxc
+
+그것을
+	그것/npd+을/jco
+
+거절했따고
+	거절했따/ncn+이/jp+고/ecc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+사건을
+	사건/ncn+을/jco
+
+"미시시피강의
+	"미시시피강/ncn+의/jcm
+
+풍경"이라는
+	풍경/ncn+"/sr+이/jp+라/ef+는/etm
+
+그림으로
+	그리/pvg+ㅁ/etn+으로/jca
+
+삽화를
+	삽화/ncn+를/jco
+
+그려
+	그리/pvg+어/ecx
+
+워싱턴
+	워싱턴/ncn
+
+포스트지에
+	포스트지/ncn+에/jca
+
+게재했다고
+	게재/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+삽화는
+	삽화/ncn+는/jxc
+
+대중적인
+	대중/ncn+적/ncn+이/jp+ㄴ/etm
+
+반향을
+	반향/ncn+을/jco
+
+일으켰고
+	일으키/pvg+었/ep+고/ecc
+
+모리스
+	모리스/ncn
+
+미첨이
+	미첨/ncn+이/jcc
+
+영감을
+	영감/ncn+을/jco
+
+얻어
+	얻/pvg+어/ecx
+
+곰
+	곰/ncn
+
+인형을
+	인형/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+브루클린에
+	브루클린/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+자신의
+	자신/ncn+의/jcm
+
+가게에서
+	가게/ncn+에서/jca
+
+팔아야겠다고
+	팔/pvg+아/ep+다/ef+고/jcr
+
+생각했답니다
+	생각/ncpa+하/xsva+었/ep+답니다/ef
+
+.
+	./sf
+
+
+모리스는
+	모리스/ncn+는/jxc
+
+루즈벨트
+	루즈/ncn+벨트/ncn
+
+대통령에게
+	대통령/ncr+에게/jca
+
+허락을
+	허락/ncpa+을/jco
+
+받은
+	받/pvg+은/etm
+
+다음
+	다음/ncn
+
+그의
+	그/npp+의/jcm
+
+별명인
+	별명/ncn+이/jp+ㄴ/etm
+
+테디를
+	테디/ncn+를/jco
+
+본따
+	본뜨/pvg+어/ecx
+
+인형의
+	인형/ncn+의/jcm
+
+이름을
+	이름/ncn+을/jco
+
+"테디베어"라고
+	"테디베어"라/ncn+이/jp+고/ecc
+
+지으면서
+	지/nbn+이/jp+면서/ecc
+
+테디베어가
+	테디베/ncn+이/jp+어/ecx+가/px+아/ecs
+
+
+탄생하게
+	탄생/ncpa+하/xsva+게/ecs
+
+되었습니다
+	되/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+경주테디베어박물관의
+	경주테디베어박물관/ncn+의/jcm
+
+테마는
+	트/pvg+어/ecx+말/px+는/etm
+
+"잃어버린
+	"/sl+잃/pvg+어/ecx+버리/px+ㄴ/etm
+
+세계를
+	세계/ncn+를/jco
+
+찾아서"입니다
+	찾/pvg+아서/ecs+"/sr+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+천재
+	천재/ncn
+
+과학자
+	과학자/ncn
+
+로버트
+	로버트/ncn
+
+그랜트
+	그랜트/ncn
+
+박사가
+	박사/ncr+가/jcc
+
+타임머신을
+	타임머신/ncn+을/jco
+
+개발하고
+	개발/ncn+하고/jct
+
+그
+	그/mmd
+
+첫번째
+	첫/nno+번/nbu+째/xsnu
+
+목적지는
+	목적지/ncn+는/jxc
+
+1억7천만년
+	1/nnc+억/nnc+7/nnc+천/nnc+만/nnc+년/nbu
+
+전
+	전/nbn
+
+공룡시대
+	공룡시대/ncn
+
+경주입니다
+	경주/ncpa+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그랜드
+	그랜드/ncn
+
+박사
+	박사/ncr
+
+가족이
+	가족/ncn+이/jcc
+
+타임머신을
+	타임머신/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+과거
+	과거/ncn
+
+경주로
+	경주/ncpa+로/jca
+
+모험을
+	모험/ncpa+을/jco
+
+떠나는
+	떠나/pvg+는/etm
+
+내용
+	내용/ncn
+
+.
+	./sf
+
+
+공룡세계,
+	공룡/ncn+세계/ncn+,/sp
+
+해저세계,
+	해저/ncn+세계/ncn+,/sp
+
+신라시대로의
+	신라시대/ncn+로/jca+의/jcm
+
+여행이
+	여행/ncpa+이/jcc
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+형태로
+	형태/ncn+로/jca
+
+전시되고
+	전시/ncpa+되/xsvn+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+테디베어가
+	테디베어/ncn+가/jcs
+
+보여주는
+	보이/pvg+어/ecx+주/px+는/etm
+
+경주의
+	경주/ncpa+의/jcm
+
+공룡시대,
+	공룡시대/ncn+,/sp
+
+그리고
+	그리고/maj
+
+신라시대의
+	신라시대/ncn+의/jcm
+
+모습들
+	모습/ncn+들/ncn
+
+..
+	./sf+./sf
+
+
+앙증맞은
+	앙증맞/pvg+은/etm
+
+동작과
+	동작/ncpa+과/jcj
+
+움직임으로
+	움직이/pvg+ㅁ/etn+으로/jca
+
+신라의
+	신/xp+라/ncn+의/jcm
+
+문화와
+	문화/ncn+와/jcj
+
+역사를
+	역사/ncn+를/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+공간으로
+	공간/ncn+으로/jca
+
+꾸며져
+	꾸미/pvg+어/ecx+지/px+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+이야기를
+	이야기/ncpa+를/jco
+
+이끌어갈
+	이끌/pvg+어/ecx+가/px+ㄹ/etm
+
+주인공들을
+	주인공/ncn+들/ncn+을/jco
+
+이렇게
+	이렇/pad+게/ecs
+
+한벽면에
+	한벽면/ncn+에/jca
+
+전시하고
+	전시/ncn+하고/jct
+
+이야기의
+	이야기/ncpa+의/jcm
+
+시작을
+	시작/ncpa+을/jco
+
+알려주고
+	알리/pvg+어/ecx+주/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+스토리텔링
+	스토리텔링/ncn
+
+공간이외
+	공간/ncn+이외/ncn
+
+테디베어의
+	테디베어/ncn+의/jcm
+
+역사를
+	역사/ncn+를/jco
+
+보여주는
+	보이/pvg+어/ecx+주/px+는/etm
+
+테디베어박물관,
+	테디베어박물관,/ncn
+
+아트
+	아트/ncn
+
+갤러리,
+	갤러리/ncn+,/sp
+
+3D극장,
+	3D극장,/ncn
+
+테디베어샵이
+	테디베어샵/ncn+이/jcc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+출구라운지에는
+	출구/ncn+라운지/ncn+에/jca+는/jxc
+
+MBC드라마
+	MBC/f+드라마/ncn
+
+"궁"에
+	"/sl+궁/ncn+"/sr+에/jca
+
+출연했던
+	출연/ncpa+하/xsva+었/ep+던/etm
+
+베어와
+	베/pvg+어/ecx+오/px+아/ecx
+
+선덕여왕
+	선덕/ncn+여왕/ncr
+
+테디베어를
+	테디베어/ncn+를/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+자
+	자/ii
+
+이제
+	이제/mag
+
+시간여행을
+	시간여행/ncn+을/jco
+
+떠나볼
+	떠나/pvg+아/ecx+보/px+ㄹ/etm
+
+시간입니다
+	시간/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+타임머신은
+	타임머신/ncn+은/jxc
+
+완성이
+	완성/ncpa+이/jcc
+
+되었구요
+	되었구요/ncn
+
+.
+	./sf
+
+
+온가족이
+	온가족/ncn+이/jcc
+
+타임머신을
+	타임머신/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+과거로의
+	과거/ncn+로/jca+의/jcm
+
+시간을
+	시간/ncn+을/jco
+
+떠나볼까요
+	떠나/pvg+아/ecx+보/px+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+경주지역의
+	경주지역/ncn+의/jcm
+
+공룡시대를
+	공룡시대/ncn+를/jco
+
+궁금해하던
+	궁금/ncps+하/xsms+어/ecx+하/px+던/etm
+
+박사의
+	박사/ncr+의/jcm
+
+부인을
+	부인/ncn+을/jco
+
+따라서
+	따라서/maj
+
+옛
+	옛/mma
+
+경주의
+	경주/ncpa+의/jcm
+
+공룡세계로
+	공룡/ncn+세계/ncn+로/jca
+
+떠납니다
+	뜨/pvg+어/ecx+나/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+일반적인
+	일반/ncn+적/ncn+이/jp+ㄴ/etm
+
+공룡박물관내에서
+	공룡/ncn+박물관/ncn+내/ncn+에서/jca
+
+어두컴컴한
+	어두컴컴하/paa+ㄴ/etm
+
+실내에서
+	실내/ncn+에서/jca
+
+조명으로만
+	조/nnc+명/nbu+으로/jca+만/jxc
+
+공룡을
+	공룡/ncn+을/jco
+
+비추던
+	비추/pvg+던/etm
+
+내부와는
+	내부/ncn+와/jct+는/jxc
+
+좀
+	좀/mag
+
+다릅니다
+	다르/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+음향효과와
+	음향효과/ncn+와/jcj
+
+움직임이
+	움직이/pvg+ㅁ/etn+이/jcs
+
+섬세하구요
+	섬세/ncn+하구/ncn+요/ncn
+
+.
+	./sf
+
+
+조명도
+	조/nnc+명/nbu+도/jxc
+
+밝게
+	밝/paa+게/ecs
+
+해서
+	하/pvg+어서/ecs
+
+테디베어들이
+	테디베어들/ncn+이/jcc
+
+공룡과
+	공룡/ncn+과/jct
+
+함께하는
+	함께하/pvg+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+잘
+	잘/mag
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+공룡과
+	공룡/ncn+과/jcj
+
+테디베어들의
+	테디베어들/ncn+의/jcm
+
+한판승부
+	한판승부/ncpa
+
+...
+	.../se
+
+
+몸동작,
+	몸동작,/ncn
+
+모습이
+	모습/ncn+이/jcc
+
+하나도
+	하/pvg+어/ecx+나/px+아/ecs
+
+같은
+	같/paa+은/etm
+
+것이
+	것/nbn+이/jcc
+
+없는
+	없/paa+는/etm
+
+인형을
+	인형/ncn+을/jco
+
+보고는
+	보/px+고/ecs+는/jxc
+
+감탄을
+	감탄/ncpa+을/jco
+
+하게
+	하/pvg+게/ecs
+
+되는데요
+	되/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+꼬리치는
+	꼬리/ncn+치/ncn+는/jxc
+
+공룡꼬리에
+	공룡/ncn+꼬리/ncn+에/jca
+
+달려있는
+	달리/pvg+어/ecx+있/px+는/etm
+
+인형이
+	인형/ncn+이/jcc
+
+정말
+	정말/mag
+
+귀여워요
+	귀엽/paa+어/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+여유있게
+	여유/ncn+있/xsmn+게/ecs
+
+캠핑을
+	캠핑/ncn+을/jco
+
+하는
+	하/pvg+는/etm
+
+테디베어도
+	테디베/ncn+이/jp+어도/ecs
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+공룡들의
+	공룡/ncn+들/ncn+의/jcm
+
+울부짖음
+	울부짖/pvg+음/etn
+
+움직임을
+	움직이/pvg+ㅁ/etn+을/jco
+
+보는
+	보/px+는/etm
+
+재미도
+	재미/ncn+도/jxc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+박물관이라고
+	박물관/ncn+이/jp+라/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+유리관
+	유리관/ncn
+
+안에만
+	안/ncn+에/jca+만/jxc
+
+있는
+	있/px+는/etm
+
+것을
+	것/nbn+을/jco
+
+생각하게
+	생각/ncpa+하/xsva+게/ecs
+
+되는데요
+	되/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이렇게오픈해서
+	이렇게오픈해/ncn+서/jca
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+관람하기
+	관람/ncpa+하/xsva+기/etn
+
+참
+	참/mag
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+오픈된
+	오픈/ncpa+되/xsvn+ㄴ/etm
+
+전시관이라"만지지
+	전시관이라"만지지/ncn
+
+마세요"이런
+	마세요"이런/ncn
+
+경고문이
+	경고문/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+공룡은
+	공룡/ncn+은/jxc
+
+매우
+	매우/mag
+
+사나우니
+	사납/paa+으니/ecs
+
+주의하라고
+	주의/ncpa+하/xsva+라/ef+고/jcr
+
+적혀있어서
+	적히/pvg+어/ecx+있/px+어서/ecs
+
+재밌었습니다
+	재밌었습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+아이들은
+	아이/ncn+들/ncn+은/jxc
+
+이
+	이/mmd
+
+글귀를
+	글귀/ncn+를/jco
+
+보면
+	보/px+면/ecs
+
+공룡이
+	공룡/ncn+이/jcc
+
+살아있다고
+	살/pvg+아/ecx+있/px+다/ef+고/jcr
+
+느낄까요
+	느끼/pvg+ㄹ까/ef+요/jxf
+
+...
+	.../se
+
+
+동생은
+	동생/ncn+은/jxc
+
+이런
+	이런/mmd
+
+공간을
+	공간/ncn+을/jco
+
+첨
+	첨/ncn
+
+접해서
+	접하/pvg+어서/ecs
+
+아이처럼
+	아이/ncn+처럼/jca
+
+신기해
+	신기/ncps+하/xsms+어/ecx
+
+하면서도
+	하/pvg+면서/ecs+도/jxc
+
+한참보다가
+	한참/ncn+보다/jca+가/jcc
+
+하는
+	하/pvg+는/etm
+
+말이
+	말/ncn+이/jcc
+
+...
+	.../se
+
+
+"하나도
+	"/sl+하나/nnc+도/jxc
+
+노는
+	놀/pvg+는/etm
+
+녀석이
+	녀석/nbn+이/jcc
+
+없네~"라고
+	없/paa+네/ef+~/sd+"/sr+라고/jxc
+
+칭찬을
+	칭찬/ncpa+을/jco
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+이
+	이/mmd
+
+박물관의
+	박물관/ncn+의/jcm
+
+또하나의
+	또하나/npd+의/jcm
+
+특징이라면
+	특징/ncn+이/jp+라면/ecs
+
+공룡관이
+	공룡/ncn+관/ncn+이/jcc
+
+끝나면
+	끝나/pvg+면/ecs
+
+그
+	그/mmd
+
+지점에
+	지점/ncn+에/jca
+
+이곳에
+	이곳/npd+에/jca
+
+있는
+	있/px+는/etm
+
+공룡에
+	공룡/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+지식을
+	지식/ncn+을/jco
+
+얻을
+	얻/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+공간을
+	공간/ncn+을/jco
+
+마련해두었어요
+	마련/ncpa+하/xsva+어/ecx+두/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+공룡모형
+	공룡/ncn+모형/ncn
+
+전시와
+	전시/ncn+와/jcj
+
+정보를
+	정보/ncn+를/jco
+
+적어둔
+	적/pvg+어/ecx+두/px+ㄴ/etm
+
+판넬이
+	판넬/ncn+이/jcc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+아이들은
+	아이/ncn+들/ncn+은/jxc
+
+그것을
+	그것/npd+을/jco
+
+보면서
+	보/px+면서/ecc
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+종류의
+	종류/ncn+의/jcm
+
+공룡을
+	공룡/ncn+을/jco
+
+만나게
+	만나/pvg+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+공룡세계를
+	공룡/ncn+세계/ncn+를/jco
+
+탐험하던
+	탐험/ncpa+하/xsva+던/etm
+
+타임머신은
+	타임머신/ncn+은/jxc
+
+갑자기
+	갑자기/mag
+
+기계가
+	기계/ncn+가/jcs
+
+오작동이
+	오작/ncpa+동/ncn+이/jcc
+
+되어서
+	되/pvg+어서/ecs
+
+신라시대로의
+	신라시대/ncn+로/jca+의/jcm
+
+여행을
+	여행/ncpa+을/jco
+
+하지
+	하/pvg+지/ecx
+
+못하고
+	못하/px+고/ecs
+
+
+해저세계로
+	해저/ncn+세계/ncn+로/jca
+
+빠져들게
+	빠져들/ncn+게/jca
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+2층에서
+	2/nnc+층/nbu+에서/jca
+
+1층으로
+	1/nnc+층/nbu+으로/jca
+
+내려가는
+	내리/pvg+어/ecx+가/px+는/etm
+
+길은
+	길/ncn+은/jxc
+
+해저세계로
+	해저/ncn+세계/ncn+로/jca
+
+빠져드는
+	빠져드/ncn+는/jxc
+
+느낌을
+	느끼/pvg+ㅁ/etn+을/jco
+
+살려서
+	살리/pvg+어서/ecs
+
+천장이
+	천/nnc+장/nbu+이/jcc
+
+있는
+	있/px+는/etm
+
+계단으로
+	계단/ncn+으로/jca
+
+만들었습니다
+	만들/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+아래로
+	아래/ncn+로/jca
+
+내려가면
+	내리/pvg+어/ecx+가/px+면/ecs
+
+언더더씨
+	언더더씨/ncn
+
+...
+	.../se
+
+
+노래가
+	노래/ncn+가/jcs
+
+나올
+	나/pvg+아/ecx+오/px+ㄹ/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+해저관의
+	해저/ncn+관/ncn+의/jcm
+
+시작은
+	시작/ncpa+은/jxc
+
+남극과
+	남극/ncn+과/jcj
+
+북극의
+	북극/ncn+의/jcm
+
+세상으로
+	세상/ncn+으로/jca
+
+펼쳐집니다
+	펼치/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+가보기
+	가/pvg+아/ecx+보/px+기/etn
+
+힘든
+	힘들/pvg+ㄴ/etm
+
+바닷속으로의
+	바닷속/ncn+으로/jca+의/jcm
+
+탐험,
+	탐험/ncpa+,/sp
+
+인어공주가
+	인어공주/ncn+가/jcs
+
+노래하는
+	노랗/paa+아/ecx+하/px+는/etm
+
+열대바다를
+	열대바다/ncn+를/jco
+
+지나
+	지나/pvg+아/ecx
+
+토끼와
+	토끼/ncn+와/jct
+
+자라가
+	자르/pvg+아/ecx+가/px+아/ecx
+
+등장하는
+	등장/ncpa+하/xsva+는/etm
+
+용궁까지
+	용궁/ncn+까지/jxc
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+헤저관입니다
+	헤저관입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+북극곰과
+	북극/ncn+곰/ncn+과/jcj
+
+펭귄이
+	펭귄/ncn+이/jcc
+
+만들어내는
+	만들/pvg+어/ecx+내/px+는/etm
+
+동작과
+	동작/ncpa+과/jcj
+
+상황이
+	상황/ncn+이/jcc
+
+넘
+	널/pvg+ㅁ/etn
+
+재밌게
+	재밌/ncn+게/jca
+
+그려져
+	그리/pvg+어/ecx+지/px+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+타임머신이
+	타임머신/ncn+이/jcc
+
+빙벽에
+	빙벽/ncn+에/jca
+
+꽂혀
+	꽂히/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+모습도
+	모습/ncn+도/jxc
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+비상착륙한
+	비상착륙/ncpa+하/xsva+ㄴ/etm
+
+흔적이지요
+	흔적/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+장면은
+	장면/ncn+은/jxc
+
+...
+	.../se
+
+
+눈치
+	눈치/ncn
+
+채셨지요
+	채/nbn+이/jp+셨/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+용궁의
+	용궁/ncn+의/jcm
+
+토끼와
+	토끼/ncn+와/jcj
+
+거북이입니다
+	거북이/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+테디베어들이
+	테디베어들/ncn+이/jcc
+
+각기
+	각기/mag
+
+분장을
+	분장/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+용궁장면을
+	용궁/ncn+장면/ncn+을/jco
+
+재현해
+	재현/ncpa+하/xsva+어/ecx
+
+놓아서
+	놓/pvg+아서/ecs
+
+
+정말
+	정말/mag
+
+귀엽더라구요
+	귀엽/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+가족나들이
+	가족나들이/ncn
+
+객이라면
+	객/ncn+이/jp+라면/ecs
+
+부모임이
+	부모/ncn+이/jp+ㅁ/etn+이/jcs
+
+이런
+	이런/mmd
+
+장면을
+	장면/ncn+을/jco
+
+보면서
+	보/px+면서/ecc
+
+아이들에게
+	아이/ncn+들/ncn+에게/jca
+
+별주부전
+	별주/ncn+부전/ncpa
+
+설명도
+	설명/ncpa+도/jxc
+
+곁들일
+	곁들이/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어서
+	있/px+어서/ecs
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+음악과
+	음악/ncn+과/jcj
+
+인형들의
+	인형/ncn+들/ncn+의/jcm
+
+동작이
+	동작/ncpa+이/jcc
+
+살아
+	살/pvg+아/ecx
+
+있어서
+	있/px+어서/ecs
+
+귀엽다는
+	귀엽/paa+다/ef+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+절로
+	절/ncn+로/jca
+
+듭니다
+	들/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+해저관
+	해저/ncn+관/ncn
+
+
+인어공주
+	인어공주/ncn
+
+이야기가
+	이야기/ncpa+가/jcc
+
+있고
+	있/px+고/ecc
+
+마지막
+	마지막/ncn
+
+부분에는
+	부분/ncn+에/jca+는/jxc
+
+인어공주가
+	인어공주/ncn+가/jcs
+
+이렇게
+	이렇/pad+게/ecs
+
+슬픈
+	슬프/paa+ㄴ/etm
+
+표정으로
+	표정/ncn+으로/jca
+
+앉아
+	앉/pvg+아/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+슬픈
+	슬프/paa+ㄴ/etm
+
+사랑이야기를
+	사랑/ncn+이야기/ncpa+를/jco
+
+안은
+	안/mag+은/jxc
+
+인어공주의
+	인어공주/ncn+의/jcm
+
+눈에는
+	눈/ncn+에/jca+는/jxc
+
+닭똥같은
+	닭똥/ncn+같/xsmn+은/etm
+
+눈물이
+	눈물/ncn+이/jcc
+
+뚝뚝
+	뚝뚝/mag
+
+떨어지고
+	떨어지/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+인어공주는
+	인어공주/ncn+는/jxc
+
+테디베어로
+	테디베어/ncn+로/jca
+
+표현을
+	표현/ncpa+을/jco
+
+해도
+	하/pvg+어도/ecs
+
+참
+	참/mag
+
+이쁘네요
+	이쁘/paa+네/ef+요/jxf
+
+.
+	./sf
+
+
+아리따운
+	아리땁/paa+은/etm
+
+공주의
+	공주/ncr+의/jcm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+살아
+	살/pvg+아/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+동생도
+	동생/ncn+도/jxc
+
+넘
+	널/pvg+ㅁ/etn
+
+슬퍼보인다고
+	슬프/paa+어/ecx+보이/px+ㄴ다/ef+고/jcr
+
+안쓰러워하네요
+	안쓰러워하/ncn+이/jp+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+이제
+	이제/mag
+
+타임머신은원래
+	타임머신은원래/ncn
+
+괘도를
+	괘도/ncn+를/jco
+
+따라신라시대로의
+	따라신라시대로/ncn+의/jcm
+
+여행
+	여행/ncpa
+
+.
+	./sf
+
+
+신라
+	신/xp+라/ncn
+
+초대
+	초대/ncn
+
+왕인
+	왕/ncr+이/jp+ㄴ/etm
+
+박혁거세의
+	박혁거세/ncn+의/jcm
+
+탄생신화부터
+	탄생신화/ncn+부터/jxc
+
+황룡사,
+	황룡사,/ncn
+
+첨성대,
+	첨성대,/ncn
+
+불국사,
+	불국사,/ncn
+
+석굴암,
+	석굴암/ncn+,/sp
+
+안압지,
+	안압지/ncn+,/sp
+
+포석등
+	포석/ncn+등/ncn
+
+등
+	등/nbu
+
+유적지
+	유적지/ncn
+
+여행과
+	여행/ncpa+과/jcj
+
+
+선덕여왕,
+	선덕/ncn+여왕/ncr+,/sp
+
+원효대사,
+	원효대사/ncn+,/sp
+
+장보고
+	장보/ncn+이/jp+고/ecc
+
+등
+	등/nbu
+
+역사적인
+	역사/ncn+적/ncn+이/jp+ㄴ/etm
+
+인물까지
+	인물/ncn+까지/jxc
+
+만나
+	만나/pvg+아/ecx
+
+볼
+	보/pvg+ㄹ/etm
+
+수있는
+	수/nbn+있/xsmn+는/etm
+
+신라시대로의
+	신라시대/ncn+로/jca+의/jcm
+
+역사여행이시작됩니다
+	역사여행이시작됩니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+곳곳에
+	곳곳/ncn+에/jca
+
+숨은
+	숨/pvg+은/etm
+
+아기공룡과
+	아기공룡/ncn+과/jcj
+
+박사의
+	박사/ncr+의/jcm
+
+아들인
+	아들/ncn+이/jp+ㄴ/etm
+
+마이클을
+	마이클/ncn+을/jco
+
+찾는
+	찾/pvg+는/etm
+
+재미도
+	재미/ncn+도/jxc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+입구에서부터
+	입구/ncn+에서/jca+부터/jxc
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+들리는
+	들리/pvg+는/etm
+
+목탁소리
+	목탁소리/ncn
+
+...
+	.../se
+
+
+에밀레
+	에밀레/ncn
+
+종소리
+	종소리/ncn
+
+...
+	.../se
+
+
+신라의
+	신/xp+라/ncn+의/jcm
+
+세가지
+	세/nnc+가지/nbu
+
+보물을
+	보물/ncn+을/jco
+
+설명해
+	설명/ncpa+하/xsva+어/ecx
+
+놓은
+	놓/px+은/etm
+
+공간입니다
+	공간/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그중
+	그중/mag
+
+진평왕이
+	진평왕/ncn+이/jcc
+
+하늘에서
+	하늘/ncn+에서/jca
+
+받았다는
+	받/pvg+아/ep+다/ef+는/etm
+
+허리띠와
+	허리띠/ncn+와/jcj
+
+선덕여왕대에
+	선덕/ncn+여왕/ncr+대/ncn+에/jca
+
+만들어진
+	만들/pvg+어/ecx+지/px+ㄴ/etm
+
+황룡사구층목탑을
+	황룡사구층목탑/ncn+을/jco
+
+재현해
+	재현/ncpa+하/xsva+어/ecx
+
+놓았습니다
+	놓/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+진평왕의
+	진평왕/ncn+의/jcm
+
+옥대는
+	옥대/ncn+는/jxc
+
+진평왕과
+	진평왕/ncn+과/jcj
+
+그
+	그/mmd
+
+후손들의
+	후손/ncn+들/ncn+의/jcm
+
+권위를
+	권위/ncn+를/jco
+
+장업하는데
+	장업하는데/ncn
+
+유리하게
+	유리/ncpa+하/xsva+게/ecs
+
+작용하였구요
+	작용하였구요/ncn
+
+.
+	./sf
+
+
+황룡사구층목탑은
+	황룡사구층목탑/ncn+은/jxc
+
+선덕여왕이
+	선덕/ncn+여왕/ncr+이/jcc
+
+여자인
+	여자/ncn+이/jp+ㄴ/etm
+
+관계로
+	관계/ncn+로/jca
+
+
+왕의
+	왕/ncr+의/jcm
+
+권위가
+	권위/ncn+가/jcs
+
+서지
+	서/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+주변국들의
+	주변국/ncn+들/ncn+의/jcm
+
+업신여김을
+	업신여기/pvg+ㅁ/etn+을/jco
+
+받게
+	받/pvg+게/ecs
+
+되자
+	되/pvg+자/ecc
+
+승려였던
+	승려/ncn+이/jp+었/ep+던/etm
+
+자장이
+	자장/ncn+이/jcc
+
+왕실의권위를
+	왕실의권위/ncn+를/jco
+
+회복하고
+	회복/ncpa+하고/jct
+
+선덕여왕의
+	선덕/ncn+여왕/ncr+의/jcm
+
+즉위를
+	즉위/ncpa+를/jco
+
+합리화시키기
+	합리/ncn+화시/ncn+키/ncn+이/jp+기/etn
+
+위해
+	위하/pvg+어/ecs
+
+
+만든
+	만들/pvg+ㄴ/etm
+
+것이라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이후
+	이후/ncn
+
+불타
+	불타/pvg+아/ecx
+
+없어지고
+	없/paa+어/ecx+지/px+고/ecc
+
+지금은
+	지금/mag+은/jxc
+
+그
+	그/mmd
+
+모습을
+	모습/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없지요
+	없/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+테디베어들이
+	테디베어들/ncn+이/jcc
+
+재현하는
+	재현/ncpa+하/xsva+는/etm
+
+모습처럼
+	모습/ncn+처럼/jca
+
+다시
+	다시/mag
+
+그
+	그/mmd
+
+자리에
+	자리/ncn+에/jca
+
+우뚝
+	우뚝/mag
+
+서는
+	서/pvg+는/etm
+
+날이
+	날/ncn+이/jcc
+
+있었음
+	있/px+었/ep+음/etn
+
+좋겠다
+	좋/paa+겠/ep+다/ef
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+원효대사의
+	원효대사/ncn+의/jcm
+
+이야기를
+	이야기/ncpa+를/jco
+
+엿볼
+	엿보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+모습이며,
+	모습/ncn+이/jp+며/ecc+,/sp
+
+안압지에서
+	안압지/ncn+에서/jca
+
+유흥을
+	유흥/ncpa+을/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+임금의
+	임금/ncn+의/jcm
+
+모습도
+	모습/ncn+도/jxc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+에밀레종을
+	에밀레종/ncn+을/jco
+
+만드는
+	만들/pvg+는/etm
+
+과정을
+	과정/ncn+을/jco
+
+재현해
+	재현/ncpa+하/xsva+어/ecx
+
+놓은
+	놓/px+은/etm
+
+곳,
+	곳/ncn+,/sp
+
+신라와
+	신/xp+라/ncn+와/jcj
+
+백제의
+	백제/ncn+의/jcm
+
+싸움을
+	싸우/pvg+ㅁ/etn+을/jco
+
+재현해
+	재현/ncpa+하/xsva+어/ecx
+
+놓은
+	놓/px+은/etm
+
+인형도
+	인형/ncn+도/jxc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+각기
+	각기/mag
+
+섬세한
+	섬세/ncn+한/ncn
+
+표현이며
+	표현/ncpa+이/jp+며/ecc
+
+동작들이
+	동작/ncpa+들/xsncc+이/jcc
+
+인형이라고
+	인형/ncn+이/jp+라/ef+고/jcr
+
+보기
+	보/px+기/etn
+
+힘들
+	힘들/pvg+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+이쁘기만
+	이쁘/paa+기/etn+만/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+이곳은
+	이곳/npd+은/jxc
+
+보시다시피
+	보/px+시/ep+다시피/ecs
+
+석굴암입니다
+	석굴암/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+앞에
+	앞/ncn+에/jca
+
+종이를
+	종이/ncn+를/jco
+
+들고
+	들/pvg+고/ecc
+
+설계를
+	설계/ncpa+를/jco
+
+하는
+	하/pvg+는/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+분이
+	분/nbu+이/jcc
+
+김대성
+	김대성/ncn
+
+.
+	./sf
+
+
+김대성이
+	김대성/ncn+이/jcc
+
+불국사를
+	불국사/ncn+를/jco
+
+중창할때
+	중창/ncpa+하/xsva+ㄹ/etm+때/nbn
+
+왕명에
+	왕명/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+착공한
+	착공/ncpa+하/xsva+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+되어
+	되/pvg+어/ecx
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+그는
+	그/npp+는/jxc
+
+현세의
+	현세/ncn+의/jcm
+
+부모를
+	부모/ncn+를/jco
+
+위하여
+	위하/pvg+어/ecx
+
+불국사를
+	불국사/ncn+를/jco
+
+세우는
+	세우/pvg+는/etm
+
+한편
+	한편/maj
+
+
+전세(
+	전세(/ncn
+
+)의
+	)/sr+의/jcm
+
+부모를
+	부모/ncn+를/jco
+
+위해서는
+	위하/pvg+어서/ecs+는/jxc
+
+석굴암을
+	석굴암/ncn+을/jco
+
+세웠다고
+	세우/pvg+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+안압지와
+	안압지/ncn+와/jcj
+
+포석정에서
+	포석/ncn+정/ncn+에서/jca
+
+연회를
+	연회/ncn+를/jco
+
+펼치는
+	펼치/pvg+는/etm
+
+신라의
+	신/xp+라/ncn+의/jcm
+
+임금
+	임금/ncn
+
+..
+	./sf+./sf
+
+
+내일은
+	내일/ncn+은/jxc
+
+어떤
+	어떤/mmd
+
+상황이
+	상황/ncn+이/jcc
+
+닥칠지
+	닥치/pvg+ㄹ지/ecs
+
+모르는
+	모르/pvg+는/etm
+
+상황이지만
+	상황/ncn+이/jp+지만/ecs
+
+지금은
+	지금/ncn+은/jxc
+
+니나노
+	니나노/ncn
+
+..
+	./sf+./sf
+
+
+흥겨운
+	흥겹/paa+은/etm
+
+자리입니다
+	자리/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+흥청망청
+	흥청망청/mag
+
+..
+	./sf+./sf
+
+
+배위에서
+	배/ncn+위/xsnx+에서/jca
+
+춤추는
+	춤추/pvg+는/etm
+
+베어들이
+	베어/ncn+들/ncn+이/jcc
+
+정말
+	정말/mag
+
+귀엽지
+	귀엽/paa+지/ecx
+
+않나요
+	않/px+나/ef+요/jxf
+
+.
+	./sf
+
+
+한복을
+	한복/ncn+을/jco
+
+입혀놓으니
+	입히/pvg+어/ecx+놓/px+으니/ecs
+
+훨씬
+	훨씬/mag
+
+이쁜거
+	이쁜거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+신라시대로의
+	신라시대/ncn+로/jca+의/jcm
+
+여행이
+	여행/ncpa+이/jcc
+
+끝나는
+	끝나/pvg+는/etm
+
+즈음에
+	즈음/ncpa+에/jca
+
+자리한
+	자리/ncn+한/ncn
+
+트릭아트공간입니다
+	트릭/ncn+아트/ncn+공간/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+한작품밖에
+	한작품밖/ncn+에/jca
+
+없어서
+	없/paa+어서/ecs
+
+좀
+	좀/mag
+
+아쉽더라구요
+	아쉽/paa+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+공룡이
+	공룡/ncn+이/jcc
+
+신라시대로
+	신라시대/ncn+로/jca
+
+뛰쳐들어오는
+	뛰쳐들어오/ncn+는/jxc
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+그림인데요
+	그림인데요/ncn
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+앞에서
+	앞/ncn+에서/jca
+
+사진을
+	사진/ncn+을/jco
+
+담으면
+	담/pvg+으면/ecs
+
+재밌는
+	재밌/ncn+는/jxc
+
+상황이
+	상황/ncn+이/jcc
+
+될거
+	될거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+벽면
+	벽면/ncn
+
+가득
+	가득/mag
+
+인형들이
+	인형/ncn+들/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+이곳은
+	이곳/npd+은/jxc
+
+테디베어
+	테디베/ncn+이/jp+어/ecs
+
+박물관입니다
+	박물관/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+100여년의
+	100/nnc+여/xsnu+년/nbu+의/jcm
+
+역사를
+	역사/ncn+를/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+감상할
+	감상/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+엔틱
+	엔틱/ncn
+
+소장품들을
+	소장품/ncn+들/ncn+을/jco
+
+전시하고
+	전시/ncn+하고/jct
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+손때가
+	손때/ncn+가/jcs
+
+묻고
+	묻/pvg+고/ecc
+
+털이
+	털/ncn+이/jcc
+
+다
+	다/mag
+
+빠진
+	빠지/pvg+ㄴ/etm
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+인형들이
+	인형/ncn+들/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+여기
+	여기/mad
+
+전시된
+	전시/ncpa+되/xsvn+ㄴ/etm
+
+인형은
+	인형/ncn+은/jxc
+
+경매장에
+	경매장/ncn+에/jca
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+어렵게
+	어렵/paa+게/ecs
+
+구한
+	구하/pvg+ㄴ/etm
+
+거라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+1905년도
+	1905/nnc+년/nbu+도/jxc
+
+검은
+	걸/pvg+ㅁ/etn+은/jxc
+
+곰인형은
+	곰인형/ncn+은/jxc
+
+3천만원이
+	3/nnc+천/nnc+만/nnc+원/nbu+이/jcc
+
+넘는
+	넘/pvg+는/etm
+
+가격이더라구요
+	가격/ncn+이/jp+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+역사
+	역사/ncn
+
+있는제품은
+	있는제품/ncn+은/jxc
+
+시간이
+	시간/ncn+이/jcc
+
+지나고
+	지/nbn+이/jp+나/ef+고/jcr
+
+낡아도
+	낡/paa+아/ecs
+
+그
+	그/mmd
+
+가치는
+	가치/ncn+는/jxc
+
+더
+	더/mag
+
+높아진다는
+	높/paa+아/ecx+지/px+ㄴ다/ef+는/etm
+
+걸보여주는코너였습니다
+	걸보여주는코너였습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+못난이
+	못난이/ncn
+
+테디들도
+	테디들/ncn+도/jxc
+
+비싸다고
+	비싸/paa+다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+달리
+	달리/mag
+
+보이던
+	보이/pvg+던/etm
+
+곳.
+	곳/ncn+./sf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+길목은
+	길목/ncn+은/jxc
+
+아트갤러리
+	아트/ncn+갤러리/ncn
+
+코너
+	코너/ncn
+
+...
+	.../se
+
+
+다비드상,
+	다비/ncn+드/ncn+상/xsncc+,/sp
+
+비너스상,
+	비너스상,/ncn
+
+베르사유
+	베르사유/ncn
+
+궁전의
+	궁전/ncn+의/jcm
+
+마리
+	마리/nbu
+
+앙투아네트
+	앙투아네트/ncn
+
+작품까지
+	작품/ncn+까지/jxc
+
+...
+	.../se
+
+
+전
+	전/nbn
+
+세계적으로
+	세계/ncn+적/ncn+으로/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+에술작품이
+	에술작품/ncn+이/jcc
+
+테디베어로
+	테디베어/ncn+로/jca
+
+재탄생한
+	재탄생/ncpa+하/xsva+ㄴ/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+작품들
+	작품/ncn+들/ncn
+
+얼굴이
+	얼굴/ncn+이/jcc
+
+다
+	다/mag
+
+곰얼굴이라
+	곰얼굴/ncn+이/jp+라/ecs
+
+어울리는
+	어울리/pvg+는/etm
+
+듯
+	듯/nbn
+
+재밌더라구요
+	재밌더라구요/ncn
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+실제
+	실제/ncn
+
+인형으로
+	인형/ncn+으로/jca
+
+만들어도
+	만들/pvg+어도/ecs
+
+재밌을거
+	재밌을거/ncn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+조각작품도
+	조각/ncn+작품/ncn+도/jxc
+
+작가들이
+	작가/ncr+들/ncn+이/jcc
+
+직접
+	직접/mag
+
+만든
+	만들/pvg+ㄴ/etm
+
+거라고
+	것/nbn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+조각하는
+	조각/ncpa+하/xsva+는/etm
+
+사람도
+	사람/ncn+도/jxc
+
+즐거웠을
+	즐겁/paa+었/ep+을/etm
+
+작업이
+	작업/ncpa+이/jcc
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+생각되었습니다
+	생각/ncpa+되/xsvn+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+공간은
+	공간/ncn+은/jxc
+
+출구라운지가
+	출구/ncn+라운지/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+피라미드
+	피라미드/ncn
+
+유리관
+	유리관/ncn
+
+바로
+	바로/mag
+
+옆
+	옆/ncn
+
+야외인데요
+	야외인데요/ncn
+
+.
+	./sf
+
+
+연못처럼
+	연못/ncn+처럼/jca
+
+물이
+	물/ncn+이/jcc
+
+고여있고
+	고이/pvg+어/ecx+있/px+고/ecc
+
+인형모형들이
+	인형/ncn+모형/ncn+들/ncn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+포토존으로
+	포토존/ncn+으로/jca
+
+이용해도
+	이용/ncpa+하/xsva+어도/ecs
+
+좋을
+	좋/paa+을/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+여름이면
+	여름/ncn+이/jp+면/ecs
+
+시원함을
+	시원/ncps+하/xsms+ㅁ/etn+을/jco
+
+줄
+	주/px+ㄹ/etm
+
+공간이
+	공간/ncn+이/jcc
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+싶어요
+	싶/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+박물관
+	박물관/ncn
+
+내에서
+	내/npp+에서/jca
+
+상영하는
+	상영/ncpa+하/xsva+는/etm
+
+3D영화가
+	3D영화/ncn+가/jcs
+
+있다고
+	있/px+다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+그것도
+	그것/npd+도/jxc
+
+챙겨보기로
+	챙기/pvg+어/ecx+보/px+기/etn+로/jca
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+매
+	매/pvg+어/ecx
+
+30분마다
+	30/nnc+분/nbu+마다/jxc
+
+상영을
+	상영/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+주말에
+	주말/ncn+에/jca
+
+관람객이
+	관람객/ncn+이/jcc
+
+많을
+	많/paa+을/etm
+
+경우는
+	경우/ncn+는/jxc
+
+더
+	더/mag
+
+좁은
+	좁/paa+은/etm
+
+간격으로
+	가/px+ㄴ/etm+격/nbn+으로/jca
+
+상영하여
+	상영/ncpa+하/xsva+어/ecx
+
+탄력성을
+	탄력성/ncn+을/jco
+
+보이고
+	보이/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+어떤
+	어떤/mmd
+
+내용일지
+	내용/ncn+이/jp+ㄹ지/ecs
+
+기대를
+	기대/ncpa+를/jco
+
+하면서
+	하/pvg+면서/ecc
+
+..
+	./sf+./sf
+
+
+'새미의
+	'새미/ncn+의/jcm
+
+어드벤처'를
+	어드벤처'/ncn+를/jco
+
+만든
+	만들/pvg+ㄴ/etm
+
+언웨이브
+	언웨이브/ncn
+
+픽쳐스에서
+	픽쳐스/ncn+에서/jca
+
+제작한
+	제작/ncpa+하/xsva+ㄴ/etm
+
+panda
+	panda/f
+
+vision
+	vision/f
+
+3D를
+	3D/ncn+를/jco
+
+국내
+	국내/ncn
+
+최초로
+	최초/ncn+로/jca
+
+상영하고
+	상영/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+판다와
+	판/nbn+답/xsmn+어/ecx
+
+함께
+	함께/mag
+
+떠나는
+	떠나/pvg+는/etm
+
+모험의
+	모험/ncpa+의/jcm
+
+세계를
+	세계/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+자연의
+	자연/ncn+의/jcm
+
+소중함,
+	소중/ncps+하/xsms+ㅁ/etn+,/sp
+
+환경파괴의
+	환경파괴/ncpa+의/jcm
+
+영향등
+	영향/ncn+등/ncn
+
+교훈적인
+	교훈/ncn+적/ncn+이/jp+ㄴ/etm
+
+내용을
+	내용/ncn+을/jco
+
+담고
+	담/pvg+고/ecc
+
+있다고
+	있/px+다/ef+고/jcr
+
+소개를
+	소개/ncpa+를/jco
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이날
+	이/nnc+날/nbu
+
+제가
+	저/npp+가/jcs
+
+본
+	보/px+ㄴ/etm
+
+느낌은
+	느끼/pvg+ㅁ/etn+은/jxc
+
+...
+	.../se
+
+
+글쎄요
+	글쎄요/ii
+
+..
+	./sf+./sf
+
+
+10여의
+	10/nnc+여/xsnu+의/jcm
+
+시간에
+	시간/nbu+에/jca
+
+많은
+	많/paa+은/etm
+
+것을
+	것/nbn+을/jco
+
+담기는
+	담/pvg+기/etn+는/jxc
+
+무리이긴
+	무리이긴/ncn
+
+하겠지요
+	하/px+겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+차가운
+	차갑/paa+은/etm
+
+북극에서
+	북극/ncn+에서/jca
+
+깊은
+	깊/paa+은/etm
+
+바닷속을
+	바닷속/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+정글까지
+	정글/ncn+까지/jxc
+
+넘어가는
+	넘/pvg+어/ecx+가/px+는/etm
+
+3D영상인데요
+	3D영상인데요/ncn
+
+.
+	./sf
+
+
+뭔가
+	뭔가/ncn
+
+조금
+	조금/mag
+
+아쉬운듯한
+	아쉽/paa+은/etm+듯/nbs+하/xsms+ㄴ/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+더
+	더/mag
+
+남습니다
+	남/pvg+습니다/ef
+
+.
+	./sf
+
+
+흥미진지함,
+	흥미/ncn+진지/ncn+함/ncn+,/sp
+
+스토리
+	스토리/ncn
+
+등이
+	등/nbu+이/jcc
+
+조금
+	조금/mag
+
+약하다
+	약하/paa+어다/ecs
+
+싶은
+	싶/px+은/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들었어요
+	들/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+요즘
+	요즘/mag
+
+웬만한
+	웬만하/paa+ㄴ/etm
+
+곳에서
+	곳/ncn+에서/jca
+
+3D영상을
+	3D영상/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+보아온
+	보/pvg+아/ecx+오/px+ㄴ/etm
+
+관람객이라면
+	관람객/ncn+이라/jca+이/jp+면/ecs
+
+
+많이
+	많/paa+이/xsa
+
+아쉬워하지
+	아쉽/paa+어/ecx+하/px+지/ecx
+
+않을까
+	않/px+을까/ef
+
+싶더라구요
+	싶/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+긴
+	길/paa+ㄴ/etm
+
+줄거리를
+	줄거리/ncn+를/jco
+
+줄이다보니
+	줄이다보/ncn+이/jp+니/ecs
+
+아무래도
+	아무렇/pad+어도/ecs
+
+뭔가허전하단
+	뭔가/ncn+허전/ncps+하단/ncn
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+더
+	더/mag
+
+강한듯
+	강하/paa+ㄴ/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이왕이면
+	이왕/ncn+이/jp+면/ecs
+
+박물관에서이야기하고자
+	박물관에서이야기하고/ncn+이/jp+자/ecc
+
+하는
+	하/pvg+는/etm
+
+테디베어
+	테디베/ncn+이/jp+어/ecs
+
+모험이야기나,
+	모험/ncpa+이야기/ncpa+나/jcj+,/sp
+
+신라시대로의스토리델링이
+	신라시대로의스토리델링/ncn+이/jcc
+
+내용이
+	내용/ncn+이/jcc
+
+되면
+	되/pvg+면/ecs
+
+더
+	더/mag
+
+
+재밌지
+	재밌지/ncn
+
+않을까
+	않/px+을까/ef
+
+하는
+	하/pvg+는/etm
+
+생각도
+	생각/ncpa+도/jxc
+
+해보았습니다
+	하/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+관람하다
+	관람/ncpa+하/xsva+어다/ecs
+
+혹여
+	혹여/mag
+
+쉬고
+	쉬/pvg+고/ecc
+
+싶다면
+	싶/px+다면/ecs
+
+이런
+	이런/mmd
+
+곳이
+	곳/ncn+이/jcc
+
+반갑지요
+	반갑/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+박물관내부에서는
+	박물관/ncn+내부/ncn+에서/jca+는/jxc
+
+음식물을
+	음식/ncn+물/ncn+을/jco
+
+먹을
+	먹/pvg+을/etm
+
+수도
+	수/nbn+도/jxc
+
+없구요
+	없구요/ncn
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+이곳이
+	이곳/npd+이/jcc
+
+소중한
+	소중/ncps+하/xsms+ㄴ/etm
+
+공간이
+	공간/ncn+이/jcc
+
+되기도
+	되/pvg+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+휴식,
+	휴식/ncpa+,/sp
+
+쉼을
+	쉬/pvg+ㅁ/etn+을/jco
+
+취하고
+	취하/pvg+고/ecc
+
+싶을때
+	싶/px+을/etm+때/nbn
+
+...
+	.../se
+
+
+날
+	나/px+ㄹ/etm
+
+좋은
+	좋/paa+은/etm
+
+날도
+	날/ncn+도/jxc
+
+좋지만
+	좋/paa+지만/ecs
+
+비오는
+	비/paa+오/ef+는/etm
+
+날이라면
+	날/ncn+이/jp+라면/ecs
+
+카페에
+	카페/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+있는
+	있/px+는/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+들거
+	들거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+옆으로는
+	옆/ncn+으로/jca+는/jxc
+
+테디베어샵이
+	테디베어샵/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+박물관에서만
+	박물관/ncn+에서/jca+만/jxc
+
+구입할
+	구입/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+오리지널
+	오리지널/ncn
+
+테디베어뮤지엄
+	테디베어뮤지엄/ncn
+
+정품으로
+	정품/ncn+으로/jca
+
+
+이
+	이/mmd
+
+제품을
+	제품/ncn+을/jco
+
+좋아하시는
+	좋/paa+아/ecx+하/px+시/ep+는/etm
+
+분들이라면
+	불/pvg+ㄴ/etm+들/nbn+이/jp+라면/ecs
+
+그냥
+	그냥/mag
+
+지나치기
+	지나치/pvg+기/etn
+
+쉽지
+	쉽/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+공간이지요
+	공간/ncn+이/jp+지/ef+요/jxf
+
+.
+	./sf
+
+
+저도
+	저/npp+도/jxc
+
+혹여
+	혹여/mag
+
+눈이
+	눈/ncn+이/jcc
+
+돌아갈까봐
+	돌아갈까봐/ncn
+
+입구에서
+	입구/ncn+에서/jca
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+원피스를
+	원피스/ncn+를/jco
+
+입은
+	입/pvg+은/etm
+
+인형만
+	인형/ncn+만/jxc
+
+보고
+	보/px+고/ecc
+
+얼른
+	얼른/mag
+
+돌아섰습니다
+	돌아서/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+보이는
+	보이/pvg+는/etm
+
+것마다
+	것/nbn+마다/jxc
+
+정말
+	정말/mag
+
+이뻐요
+	이쁘/paa+어/ef+요/jxf
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+이곳은
+	이곳/npd+은/jxc
+
+다시
+	다시/mag
+
+2층으로
+	2/nnc+층/nbu+으로/jca
+
+이동을
+	이/nnc+동/nbu+을/jco
+
+해서
+	하/pvg+어서/ecs
+
+출구쪽
+	출구/ncn+쪽/ncn
+
+라운지
+	라운지/ncn
+
+공간인데요
+	공간인데요/ncn
+
+.
+	./sf
+
+
+유리로
+	유리/ncn+로/jca
+
+된
+	되/pvg+ㄴ/etm
+
+피라미드
+	피라미드/ncn
+
+건물의
+	건물/ncn+의/jcm
+
+2층공간입니다
+	2층공간입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이곳에는
+	이곳/npd+에/jca+는/jxc
+
+선덕여왕
+	선덕/ncn+여왕/ncr
+
+인형과
+	인형/ncn+과/jcj
+
+옛날
+	옛날/ncn
+
+MBC드라마
+	MBC/f+드라마/ncn
+
+"궁"에
+	"/sl+궁/ncn+"/sr+에/jca
+
+출연했던
+	출연/ncpa+하/xsva+었/ep+던/etm
+
+인형들이
+	인형/ncn+들이/ncn
+
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+드라마를
+	드라마/ncn+를/jco
+
+본
+	보/px+ㄴ/etm
+
+분들이라면
+	불/pvg+ㄴ/etm+들/nbn+이/jp+라면/ecs
+
+방송
+	방송/ncpa
+
+끝날때마다
+	끝나/pvg+ㄹ/etm+때/nbn+마다/jxc
+
+주인공
+	주인공/ncn
+
+캐릭터로
+	캐릭터/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+테디베어들을
+	테디베어들/ncn+을/jco
+
+기억하실
+	기억/ncpa+하/xsva+시/ep+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+어쩜
+	어쩌/paa+ㅁ/etn
+
+옷이며
+	옷/ncn+이/jp+며/ecc
+
+포즈까지
+	포즈/ncn+까지/jxc
+
+똑같이
+	똑같이/mag
+
+만들었을까
+	만들/pvg+었/ep+을까/ef
+
+감탄을
+	감탄/ncpa+을/jco
+
+했었지요
+	하/px+었었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+그
+	그/mmd
+
+캐릭터
+	캐릭터/ncn
+
+인형들이
+	인형/ncn+들/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+규모가
+	규모/ncn+가/jcs
+
+그리
+	그리/mad
+
+크지는
+	크/paa+어/ecx+지/px+는/etm
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+이외에
+	이외/ncn+에/jca
+
+각
+	각/mma
+
+작가들이
+	작가/ncr+들/ncn+이/jcc
+
+작품들로
+	작품/ncn+들/ncn+로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+전통적인
+	전통/ncn+적/ncn+이/jp+ㄴ/etm
+
+모습의
+	모습/ncn+의/jcm
+
+테디베어들
+	테디베어들/ncn
+
+작품들이
+	작품/ncn+들/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+라운지
+	라운지/ncn
+
+공간은
+	공간/ncn+은/jxc
+
+그냥
+	그냥/mag
+
+유리벽으로만
+	유리/ncn+벽/ncn+으로/jca+만/jxc
+
+되어
+	되/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+날씨에
+	날씨/ncn+에/jca
+
+따라서
+	따라서/maj
+
+커텐을
+	커텐/ncn+을/jco
+
+펼쳤다
+	펼치/pvg+었/ep+다/ef
+
+접었다
+	접/pvg+었/ep+다/ef
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳이더군요
+	곳/ncn+이/jp+더군/ef+요/jxf
+
+.
+	./sf
+
+
+작동하는
+	작동/ncpa+하/xsva+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+보면서
+	보/px+면서/ecc
+
+와.
+	오/px+아/ef+./sf
+
+..
+	./sf+./sf
+
+
+하고는
+	하/px+어/ef+고/jcr+는/jxc
+
+놀랐는데요
+	놀라/pvg+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+햇볕이
+	햇볕/ncn+이/jcc
+
+강한날은
+	강한날/ncn+은/jxc
+
+펼쳤다가
+	펼치/pvg+었/ep+다가/ecs
+
+비가오는
+	비가/ncn+오/ncn+는/jxc
+
+날이나
+	날/ncn+이나/jcj
+
+하늘이
+	하늘/ncn+이/jcc
+
+좋을때,
+	좋/paa+을/etm+때/nbn+,/sp
+
+
+밤하늘의
+	밤하늘/ncn+의/jcm
+
+별까지
+	별/ncn+까지/jxc
+
+감상하기
+	감상/ncn+하기/ncn
+
+좋은
+	좋/paa+은/etm
+
+구조이더라구요
+	구/nnc+조/nbu+이/jp+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+비오는날
+	비오는날/ncn
+
+비가
+	비/ncn+가/jcs
+
+흐르는
+	흐르/pvg+는/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+정말
+	정말/mag
+
+이쁘겠다
+	이쁘/paa+겠/ep+다/ef
+
+싶었던
+	싶/px+었/ep+던/etm
+
+곳.
+	곳/ncn+./sf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+넓은
+	넓/paa+은/etm
+
+공간을
+	공간/ncn+을/jco
+
+전시관만으로
+	전시관/ncn+만/ncn+으로/jca
+
+이용하기
+	이용/ncpa+하/xsva+기/etn
+
+넘
+	널/pvg+ㅁ/etn
+
+아쉽다는
+	아쉽/paa+다/ef+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들
+	들/pvg+ㄹ/etm
+
+정도였습니다
+	정도/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+아랫쪽에
+	아랫쪽/ncn+에/jca
+
+보시면
+	보/px+시/ep+면/ecs
+
+벽면에
+	벽면/ncn+에/jca
+
+무언가를
+	무언가/npd+를/jco
+
+소개하는
+	소개/ncpa+하/xsva+는/etm
+
+코너가
+	코너/ncn+가/jcs
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+국내
+	국내/ncn
+
+테디베어
+	테디베/ncn+이/jp+어/ecs
+
+박물관을
+	박물관/ncn+을/jco
+
+소개하고
+	소개/ncpa+하고/jct
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+제주테디베어박물관은
+	제주테디베어박물관/ncn+은/jxc
+
+베어
+	베/pvg+어/ecx
+
+100년사와
+	100년사/ncn+와/jcj
+
+인류의
+	인류/ncn+의/jcm
+
+100년사를
+	100년사/ncn+를/jco
+
+동시
+	동시/ncn
+
+체험할
+	체험/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+박물관으로
+	박물관/ncn+으로/jca
+
+세계최고가
+	세계/ncn+최고/ncn+가/jcs
+
+루이비통베어를
+	루이비통베어/ncn+를/jco
+
+비롯하여
+	비롯/ncpa+하/xsva+어/ecs
+
+
+120K베어도
+	120K베어/ncn+도/jxc
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+움직이는베어들이
+	움직이는베어들/ncn+이/jcc
+
+보여주는
+	보이/pvg+어/ecx+주/px+는/etm
+
+인류의
+	인류/ncn+의/jcm
+
+100년사를볼
+	100년사를볼/ncn
+
+수있는
+	수/nbn+있/xsmn+는/etm
+
+테마파크형
+	테마/ncn+파크/ncn+형/ncn
+
+박물관입니다
+	박물관/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+남산테디베어박물관은
+	남산테디베어박물관/ncn+은/jxc
+
+현재의
+	현재/ncn+의/jcm
+
+서울이
+	서울/ncn+이/jcc
+
+있기까지
+	있/px+기/etn+까지/jxc
+
+어떻게
+	어떻/pad+게/ecs
+
+변화하며
+	변화/ncpa+하/xsva+며/ecc
+
+발전하여
+	발전/ncpa+하/xsva+어/ecx
+
+왔는지를
+	오/px+아/ep+는/etm+지/nbn+를/jco
+
+테디베어를
+	테디베어/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+있다고
+	있/px+다/ef+고/jcr
+
+하고요
+	하/px+고요/ef
+
+.
+	./sf
+
+
+헤이리에
+	헤이리/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+박물관은
+	박물관/ncn+은/jxc
+
+예술마을
+	예술/ncn+마을/ncn
+
+헤이리에
+	헤이리/ncn+에/jca
+
+맞춰
+	맞추/pvg+어/ecx
+
+테디베어와
+	테디베어/ncn+와/jcj
+
+예술과의
+	예술/ncn+과의/jcm
+
+만남을
+	만나/pvg+ㅁ/etn+을/jco
+
+주제로
+	주제/ncn+로/jca
+
+아트갤러리를
+	아트/ncn+갤러리/ncn+를/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+설악테디베어박물관은
+	설악테디베어박물관/ncn+은/jxc
+
+행운의
+	행운/ncn+의/jcm
+
+테디베어를
+	테디베어/ncn+를/jco
+
+되찾기
+	되찾/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+전세계를
+	전세계/ncn+를/jco
+
+탐험하는
+	탐험/ncpa+하/xsva+는/etm
+
+스토리로
+	스토리/ncn+로/jca
+
+구성되어
+	구성/ncn+되/xsvn+어/ecx
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+각
+	각/mma
+
+지역마다
+	지역/ncn+마다/jxc
+
+테마를
+	테마/ncn+를/jco
+
+달리하여
+	달리하/pvg+어/ecx
+
+보는
+	보/px+는/etm
+
+재미를
+	재미/ncn+를/jco
+
+더했다고
+	더하/paa+었/ep+다/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+작품들이
+	작품/ncn+들/ncn+이/jcc
+
+다르다고
+	다르/paa+다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+다
+	다/mag
+
+챙겨보고
+	챙기/pvg+어/ecx+보/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+생각도
+	생각/ncpa+도/jxc
+
+듭니다
+	들/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+이곳이
+	이곳/npd+이/jcc
+
+출구입니다
+	출구/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+멋지죠
+	멋지/paa+죠/ef
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+제가
+	저/npp+가/jcs
+
+말을
+	말/ncn+을/jco
+
+안해도
+	안하/pvg+어도/ecs
+
+적혀
+	적히/pvg+어/ecx
+
+있었군요
+	있/px+었/ep+군/ef+요/jxf
+
+.
+	./sf
+
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+봐도
+	보/px+아/ecs
+
+이
+	이/mmd
+
+건물이
+	건물/ncn+이/jcc
+
+먼저
+	먼저/mag
+
+눈에
+	눈/ncn+에/jca
+
+들어오는데요
+	들/pvg+어/ecx+오/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+박물관
+	박물관/ncn
+
+1층2층을
+	1층2층/ncn+을/jco
+
+오르내리면서
+	오르내리/pvg+면서/ecc
+
+공간이
+	공간/ncn+이/jcc
+
+이어져
+	잇/pvg+어/ecx+지/px+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+100년이
+	100/nnc+년/nbu+이/jcc
+
+넘는역사를
+	넘는역사/ncn+를/jco
+
+가진
+	가지/pvg+ㄴ/etm
+
+Teddy
+	Teddy/f
+
+Bear의
+	Bear/f+의/jcm
+
+역사,
+	역사/ncn+,/sp
+
+그리고
+	그리고/maj
+
+서울의
+	서울/ncn+의/jcm
+
+역사와
+	역사/ncn+와/jcj
+
+현재의
+	현재/ncn+의/jcm
+
+모습,
+	모습/ncn+,/sp
+
+예술로
+	예술/ncn+로/jca
+
+승화한
+	승화/ncpa+하/xsva+ㄴ/etm
+
+아트갤러리,
+	아트/ncn+갤러리/ncn+,/sp
+
+세계여행을
+	세계여행/ncn+을/jco
+
+통해,
+	통하/pvg+어/ecs+,/sp
+
+또는
+	또는/maj
+
+천년의
+	천/nnc+년/nbu+의/jcm
+
+고도
+	고/ncn+도/jxc
+
+경주의
+	경주/ncpa+의/jcm
+
+역사를
+	역사/ncn+를/jco
+
+되살려
+	되살리/pvg+어/ecx
+
+보는
+	보/px+는/etm
+
+신라의
+	신/xp+라/ncn+의/jcm
+
+역사로
+	역사/ncn+로/jca
+
+떠난
+	떠나/pvg+ㄴ/etm
+
+여행
+	여행/ncpa
+
+등
+	등/nbu
+
+다양한
+	다양/ncn+한/ncn
+
+테마를
+	테마/ncn+를/jco
+
+Teddy
+	Teddy/f
+
+Bear와
+	Bear/f+와/jct
+
+접목하여
+	접목/ncpa+하/xsva+어/ecx
+
+보여주는
+	보이/pvg+어/ecx+주/px+는/etm
+
+볼거리,
+	보/px+ㄹ/etm+것/nbn+이/jp+리/ef+,/sp
+
+알거리까지
+	알/pvg+ㄹ/etm+거리/nbn+까지/jxc
+
+제공하는
+	제공/ncpa+하/xsva+는/etm
+
+대한민국
+	대한/ncn+민국/ncn
+
+최대의
+	최대/ncn+의/jcm
+
+테마
+	테마/ncn
+
+박물관
+	박물관/ncn
+
+브랜드입니다
+	브랜드/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+경주에서
+	경주/ncpa+에서/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+Teddy
+	Teddy/f
+
+Bear는
+	Bear/f+는/jxc
+
+수억년
+	수억/nnc+년/nbu
+
+전
+	전/nbn
+
+경주의
+	경주/ncpa+의/jcm
+
+공룡세계탐험을
+	공룡/ncn+세계/ncn+탐험/ncpa+을/jco
+
+시작으로
+	시작/ncpa+으로/jca
+
+해저세계와
+	해저/ncn+세계/ncn+와/jcj
+
+신라로
+	신/xp+라/ncn+로/jca
+
+떠나는
+	떠나/pvg+는/etm
+
+여행을
+	여행/ncpa+을/jco
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+직접
+	직접/mag
+
+손으로
+	손/ncn+으로/jca
+
+만든
+	만들/pvg+ㄴ/etm
+
+인형들에
+	인형/ncn+들/ncn+에/jca
+
+각
+	각/mma
+
+장면에
+	장면/ncn+에/jca
+
+맞춘
+	맞추/pvg+ㄴ/etm
+
+의상까지
+	의상/ncn+까지/jxc
+
+세심한
+	세심/ncps+하/xsms+ㄴ/etm
+
+손길이
+	손길/ncn+이/jcc
+
+느껴집니다
+	느끼/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+정지된
+	정지/ncpa+되/xsvn+ㄴ/etm
+
+인형이
+	인형/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+모터
+	모터/ncn
+
+구동으로
+	구/nnc+동/nbu+으로/jca
+
+움직임을
+	움직이/pvg+ㅁ/etn+을/jco
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+살아있는
+	살/pvg+아/ecx+있/px+는/etm
+
+듯
+	듯/nbn
+
+장면이
+	장면/ncn+이/jcc
+
+재밌어서
+	재밌어서/ncn
+
+아이들도
+	아이/ncn+들/ncn+도/jxc
+
+무척
+	무척/mag
+
+즐거워할
+	즐겁/paa+어/ecx+하/px+ㄹ/etm
+
+공간입니다
+	공간/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+아날로드적인
+	아날로드적/ncn+이/jp+ㄴ/etm
+
+정서도
+	정/ncn+서/jca+도/jxc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+장면마다
+	장면/ncn+마다/jxc
+
+이야기를
+	이야기/ncpa+를/jco
+
+부여하여
+	부/ncn+이/jp+어/ecx+하/px+어/ecx
+
+재밌는
+	재밌/ncn+는/jxc
+
+관람이
+	관람/ncpa+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+가을날
+	가을날/ncn
+
+경주여행길이라면,
+	경주/ncpa+여행길/ncn+이/jp+라면/ecs+,/sp
+
+혹은
+	혹은/maj
+
+경주세계문화엑스포와
+	경주/ncpa+세계/ncn+문화/ncn+엑스포/ncn+와/jct
+
+함께
+	함께/mag
+
+나들이
+	나들이/ncpa
+
+하기에도
+	하/pvg+기/etn+에/jca+도/jxc
+
+좋은
+	좋/paa+은/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+연인의
+	연인/ncn+의/jcm
+
+손을
+	손/ncn+을/jco
+
+잡고,
+	잡/pvg+고/ecc+,/sp
+
+아이의손잡고
+	아이의손잡고/ncn
+
+함
+	하/pvg+ㅁ/etn
+
+들러보세요~~^^
+	들르/pvg+어/ecx+보/px+세요/ef+~/sd+~/sd+^/sy+^/sy
+
+
+관람안내
+	관람/ncpa+안내/ncpa
+
+
+관람료:
+	관람료/ncn+:/sp
+
+성인
+	성/ncn+이/jp+ㄴ/etm
+
+9,000원,
+	9,000/nnc+원/nbu+,/sp
+
+청소년
+	청소년/ncn
+
+7,000원,
+	7,000/nnc+원/nbu+,/sp
+
+어린이
+	어린이/ncn
+
+6,000원
+	6,000/nnc+원/nbu
+
+
+운영시간:
+	운영/ncpa+시간/ncn+:/sp
+
+09:30~19:30(입장마감:18:30)
+	09:30~19:30(입장마감:18:30)/ncn
+
+-
+	-/sd
+
+만
+	말/px+ㄴ/etm
+
+36개월까지는
+	36/nnc+개월/nbu+까지/jxc+는/jxc
+
+무료입장
+	무료입장/ncn
+
+
+자가용:
+	자가용/ncn+:/sp
+
+경주IC-
+	경주IC-/ncn
+
+서라벌대로-
+	서라벌대로-/ncn
+
+보문로-
+	보문로-/ncn
+
+경주테디베어박물관(드림센터)
+	경주테디베어박물관/ncn+(/sl+드림/ncn+센터/ncn+)/sr
+
+
+신경주역:
+	신경/ncn+주역/ncn+:/sp
+
+오른쪽
+	오르/pvg+ㄴ/etm+쪽/nbn
+
+버스승강장
+	버스/ncn+승강장/ncn
+
+좌석버스
+	좌석/ncn+버스/ncn
+
+700번
+	700/nnc+번/nbu
+
+버스
+	버스/ncn
+
+-
+	-/sd
+
+보문단지(현대호텔
+	보문단지(현대호텔/ncn
+
+하차)
+	하차/ncn+)/sr
+
+
+경주고속버스터미널:
+	경주/ncpa+고속버스터미널/ncn+:/sp
+
+터미널
+	터미널/ncn
+
+맞은편
+	맞은편/ncn
+
+버스
+	버스/ncn
+
+승강장
+	승강장/ncn
+
+10번버스-
+	10번버스-/ncn
+
+보문단지
+	보문단지/ncn
+
+
+경상북도
+	경상/ncn+북/ncn+도/jxc
+
+경주시
+	경주시/ncn
+
+북군동
+	북군동/ncn
+
+116
+	116/nnc
+
+드림센터
+	드림/ncn+센터/ncn
+
+내
+	내/nbn
+
+
+(현대호텔
+	(/sl+현대/ncn+호텔/ncn
+
+우측
+	우측/ncn
+
+서라벌광장
+	서라벌광장/ncn
+
+뒤)
+	뒤/ncn+)/sr
+
+
+054-742-7400
+	054/nnc+-742/nnc+-7400/nnc
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+teddybearmuseum.
+	teddybearmuseum/f+./sy
+
+com
+	com/f
+
+
+경주테디베어박물관
+	경주테디베어박물관/ncn
+
+
+경상북도
+	경상/ncn+북/ncn+도/jxc
+
+경주시
+	경주시/ncn
+
+신평동
+	신/xp+평동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01704248",
+	"bl01704248",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"19851578",
+	"/sl+19851578/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"경주테디베어박물관",
+	title:"경주테디베어박물관",/ncn
+
+pointX:516136,pointY:361210}
+	pointX/f+:/sp+516136/nnc+,/sp+pointY/f+:/sp+361210/nnc+}/sr

@@ -1,0 +1,475 @@
+어제
+	어제/ncn
+
+올림픽공원
+	올림픽공원/ncn
+
+나갔다가
+	나/pvg+아/ecx+가/px+아/ep+다가/ecs
+
+귀엽고
+	귀엽/paa+고/ecc
+
+반가운
+	반갑/paa+은/etm
+
+새를
+	새/ncn+를/jco
+
+만났더랬오욤
+	만났더랬오욤/ncn
+
+.
+	./sf
+
+
+빠알가니
+	빠알가/ncn+이/jp+니/ecs
+
+익어서
+	익/pvg+어서/ecs
+
+고운빛을
+	고운빛/ncn+을/jco
+
+담고
+	담/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+산수유를
+	산수유/ncn+를/jco
+
+
+맛나게
+	맛나/paa+게/ecs
+
+먹던
+	먹/pvg+던/etm
+
+새.
+	새/mma+./sf
+
+..
+	./sf+./sf
+
+
+참새
+	참새/ncn
+
+보다가는
+	보/px+다가/ecs+는/jxc
+
+커
+	크/paa+어/ecx
+
+보였는데,
+	보이/pvg+었/ep+는데/ecs+,/sp
+
+참새인지
+	참새/ncn+이/jp+ㄴ지/ecs
+
+아닌지는
+	아니/paa+ㄴ지/ecs+는/jxc
+
+모르겠구요
+	모르겠구요/ncn
+
+.
+	./sf
+
+
+우는
+	울/pvg+는/etm
+
+소리도
+	소리/ncn+도/jxc
+
+'삐비빅~~~'하며
+	'삐비빅~~~'하/ncn+이/jp+며/ecc
+
+피리소리를
+	피리소리/ncn+를/jco
+
+내던
+	내/pvg+던/etm
+
+귀여운
+	귀엽/paa+은/etm
+
+새였죵
+	새였죵/ncn
+
+...
+	.../se
+
+
+이
+	이/mmd
+
+귀엽고
+	귀엽/paa+고/ecc
+
+반가운손님을
+	반가운손님/ncn+을/jco
+
+만났기에
+	만나/pvg+아/ep+기/etn+에/jca
+
+
+어제의
+	어제/ncn+의/jcm
+
+올림픽
+	올림픽/ncn
+
+공원
+	공원/ncn
+
+나들이가
+	나들이/ncpa+가/jcc
+
+더
+	더/mag
+
+상쾌하고
+	상쾌/ncps+하고/jct
+
+즐거웠나봐요
+	즐거웠나봐요/ncn
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+그
+	그/mmd
+
+상쾌함으로
+	상쾌/ncps+하/xsms+ㅁ/etn+으로/jca
+
+오늘까지
+	오늘/ncn+까지/jxc
+
+잘
+	잘/mag
+
+지냈던
+	지내/pvg+었/ep+던/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+오늘
+	오늘/ncn
+
+하루
+	하루/ncn
+
+어떠셨어요
+	어떠셨어요/ncn
+
+??
+	?/sf+?/sf
+
+
+즐겁고
+	즐겁/paa+고/ecc
+
+유쾌하게
+	유쾌/ncps+하/xsms+게/ecs
+
+잘
+	잘/mag
+
+보내셨는지요
+	보내/pvg+셨/ep+는지/ef+요/jxf
+
+...
+	.../se
+
+
+고향길
+	고향/ncn+길/ncn
+
+다녀오시는
+	다니/pvg+어/ecx+오/px+시/ep+는/etm
+
+분들께서는
+	불/pvg+ㄴ/etm+들/nbn+께서/jcs+는/jxc
+
+잘
+	잘/mag
+
+다녀
+	다니/pvg+어/ecx
+
+오셨는지요
+	오/px+셨/ep+는지/ef+요/jxf
+
+??
+	?/sf+?/sf
+
+
+고향길
+	고향/ncn+길/ncn
+
+다녀
+	다니/pvg+어/ecx
+
+오시는
+	오/px+시/ep+는/etm
+
+분들로
+	분/ncn+들/xsncc+로/jca
+
+
+서울의
+	서울/ncn+의/jcm
+
+오후는
+	오후/ncn+는/jxc
+
+차가
+	차/ncn+가/jcs
+
+많이
+	많/paa+이/xsa
+
+밀려서
+	밀리/pvg+어서/ecs
+
+도로
+	도/ncn+로/jca
+
+사정이
+	사정/ncn+이/jcc
+
+좀
+	좀/mag
+
+안
+	알/pvg+ㄴ/etm
+
+좋긴
+	좋긴/ncn
+
+했어요
+	하/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+오후에
+	오후/ncn+에/jca
+
+잠시
+	잠시/mag
+
+나갔다가
+	나/pvg+아/ecx+가/px+아/ep+다가/ecs
+
+도로에서
+	도로/ncn+에서/jca
+
+시간을
+	시간/ncn+을/jco
+
+다
+	다/mag
+
+낭비하기도
+	낭비/ncpa+하/xsva+기/etn+도/jxc
+
+했으니까요
+	하/px+었/ep+으니까/ef+요/jxf
+
+.
+	./sf
+
+
+사진을
+	사진/ncn+을/jco
+
+찍으려고
+	찍/pvg+으려고/ecs
+
+사진기
+	사진/ncn+기/ncn
+
+들고
+	들/pvg+고/ecc
+
+나갔으나,
+	나/pvg+아/ecx+가/px+아/ep+나/ecc+,/sp
+
+
+길을
+	길/ncn+을/jco
+
+잘
+	잘/mag
+
+못
+	못/mag
+
+들어서
+	들/pvg+어서/ecs
+
+길을
+	길/ncn+을/jco
+
+헤매이고,
+	헤매이/pvg+고/ecc+,/sp
+
+귀성객들의
+	귀성객/ncn+들/ncn+의/jcm
+
+차들로
+	차/ncn+들/xsncc+로/jca
+
+밀려서
+	밀리/pvg+어서/ecs
+
+헤매이고
+	헤매이/pvg+고/ecc
+
+...
+	.../se
+
+
+그러다가
+	그러/pvd+다가/ecs
+
+어둑해져서
+	어둑하/paa+어/ecx+지/px+어서/ecs
+
+찍지도
+	찍/pvg+지/ecs+도/jxc
+
+못
+	못/mag
+
+하고
+	하/pvg+고/ecc
+
+
+차
+	차/ncn
+
+안에서
+	안/ncn+에서/jca
+
+광각으로
+	광각/ncn+으로/jca
+
+셀카만
+	셀카/ncn+만/jxc
+
+찍다가
+	찍/pvg+다가/ecs
+
+들어
+	들/pvg+어/ecx
+
+왔지요
+	오/px+아/ep+지/ef+요/jxf
+
+...
+	.../se
+
+
+^^;;;
+	^/sy+^/sy+;/sy+;/sy+;/sy
+
+
+그렇게
+	그렇/pad+게/ecs
+
+하루를
+	하루/ncn+를/jco
+
+보냈지만,
+	보내/pvg+었/ep+지만/ecs+,/sp
+
+
+그래도
+	그래도/maj
+
+오늘이
+	오늘/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+즐거웠고,
+	즐겁/paa+었/ep+고/ecc+,/sp
+
+
+그
+	그/mmd
+
+오늘로
+	오늘/ncn+로/jca
+
+인해
+	인하/pvg+어/ecx
+
+내일도
+	내일/ncn+도/jxc
+
+멋지게
+	멋지/paa+게/ecs
+
+펼쳐
+	펼치/pvg+어/ecx
+
+질
+	지/px+ㄹ/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+내일을
+	내일/ncn+을/jco
+
+멋지고
+	멋지/paa+고/ecc
+
+귀하게
+	귀하/paa+게/ecs
+
+여기며
+	여기/npd+이/jp+며/ecc
+
+화사하게
+	화사/ncps+하/xsms+게/ecs
+
+보내세요
+	보내/pvg+세/ef+요/jxf
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy

@@ -1,0 +1,3279 @@
+삼청동감고당길
+	삼청동감고당길/ncn
+
+/서울
+	/서울/ncn
+
+데이트코스
+	데이트/ncpa+코스/ncn
+
+
+인사동
+	인사/ncn+동/ncn
+
+거리
+	거리/ncn
+
+지나
+	지나/pvg+아/ecx
+
+감고당길,
+	감고당길,/ncn
+
+풍문여고에서
+	풍문/ncn+여고/ncn+에서/jca
+
+정독도서관까지
+	정독/ncpa+도서관/ncn+까지/jca
+
+
+인사동에서
+	인사/ncn+동/ncn+에서/jca
+
+만나서
+	만나/pvg+아/ecx
+
+걷다가
+	걷/pvg+다가/ecs
+
+풍문여고
+	풍문/ncn+여/ncn+이/jp+고/ecc
+
+방향으로
+	방향/ncn+으로/jca
+
+가다보면
+	가/pvg+아/ecx+보/px+면/ecs
+
+그
+	그/mmd
+
+옆골목에
+	옆골목/ncn+에/jca
+
+삼청동으로
+	삼청동/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+감고당길
+	감고당길/ncn
+
+이란
+	이/nnc+란/jcm
+
+플랭카드가
+	플랭카드/ncn+가/jcs
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+삼청동에
+	삼청동/ncn+에/jca
+
+이런
+	이런/mmd
+
+이름의
+	이름/ncn+의/jcm
+
+길이있었던가
+	길이/ncn+있/xsmn+었/ep+던가/ef
+
+생소한
+	생소/ncps+하/xsms+ㄴ/etm
+
+걸음으로
+	걸/pvg+ㅁ/etn+으로/jca
+
+가보았는데요
+	가/pvg+아/ecx+보/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+부근에
+	부근/ncn+에/jca
+
+여학교가
+	여학교/ncn+가/jcs
+
+3개나,
+	3/nnc+개/nbu+나/jcj+,/sp
+
+이
+	이/mmd
+
+길은
+	길/paa+ㄴ/etm
+
+여성들의
+	여성/ncn+들/ncn+의/jcm
+
+힘이
+	힘/ncn+이/jcc
+
+느껴지는
+	느끼/pvg+어/ecx+지/px+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+하는
+	하/pvg+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들기도
+	들/pvg+기/etn+도/jxc
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+자그마한
+	자그마하/paa+ㄴ/etm
+
+골목길에
+	골목길/ncn+에/jca
+
+카페,
+	카페/ncn+,/sp
+
+먹거리가게,
+	먹거리/ncn+가게/ncn+,/sp
+
+갤러리가
+	갤러리/ncn+가/jcs
+
+이어지면서
+	잇/pvg+어/ecx+지/px+면서/ecc
+
+아트선재센터와
+	아트선재센터/ncn+와/jcj
+
+정독도서관앞까지
+	정독/ncpa+도서관/ncn+앞/ncn+까지/jxc
+
+가
+	가/jcs
+
+닿았습니다
+	닿/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리
+	그리/mad
+
+길지
+	길/paa+지/ecx
+
+않은길
+	않은길/ncn
+
+.
+	./sf
+
+
+인현왕후,
+	인현왕후,/ncn
+
+명성황후의
+	명성/ncn+황후/ncr+의/jcm
+
+흔적이
+	흔적/ncn+이/jcc
+
+있을
+	있/px+을/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+그
+	그/mmd
+
+길을
+	길/ncn+을/jco
+
+걸어보았습니다
+	걷/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+삼청동
+	삼청동/ncn
+
+감고당길에서
+	감고당길/ncn+에서/jca
+
+
+인사동에서
+	인사/ncn+동/ncn+에서/jca
+
+도로만
+	도/ncn+로/jca+만/jxc
+
+지나면
+	지나/pvg+면/ecs
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+길.
+	길/ncn+./sf
+
+인사동길을
+	인사동/ncn+길/ncn+을/jco
+
+걷고
+	걷/pvg+고/ecc
+
+경복궁
+	경복궁/ncn
+
+옆길로
+	옆길/ncn+로/jca
+
+돌아서
+	돌/pvg+아/ecx
+
+걷다가
+	걷/pvg+다가/ecs
+
+빙둘러
+	빙둘러/ncn
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+길에
+	길/ncn+에/jca
+
+걷게
+	걷/pvg+게/ecs
+
+된
+	되/pvg+ㄴ/etm
+
+길이었는데요
+	길/ncn+이/jp+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+감고당길
+	감고당길/ncn
+
+진입로에서
+	진입로/ncn+에서/jca
+
+반대편으로
+	반대편/ncn+으로/jca
+
+걸어
+	걷/pvg+어/ecx
+
+내려온
+	내리/pvg+어/ecx+오/px+ㄴ/etm
+
+길이었지요
+	길/ncn+이/jp+었/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+길이
+	길/ncn+이/jcc
+
+있어나
+	있/px+어/ecx+나/px+아/ecx
+
+싶게
+	싶/px+게/ecs
+
+생소하게
+	생소/ncps+하/xsms+게/ecs
+
+느껴졌었는데요
+	느끼/pvg+어/ecx+지/px+었었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+가만히
+	가만히/mag
+
+보니
+	보/px+니/ecs
+
+이웃블로거님들의
+	이웃블로거님들/ncn+의/jcm
+
+삼청동
+	삼청동/ncn
+
+나들이길
+	나들이/ncpa+길/ncn
+
+이야기에서
+	이야기/ncpa+에서/jca
+
+본듯도
+	보/px+ㄴ/etm+듯/nbs+도/jxc
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+인사동쪽에서보면
+	인사동쪽에서보/ncn+이/jp+면/ecs
+
+풍문여고방향으로
+	풍문/ncn+여고/ncn+방향/ncn+으로/jca
+
+도로만
+	도/ncn+로/jca+만/jxc
+
+건너면
+	건너/pvg+면/ecs
+
+바로
+	바로/mag
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+길이라
+	길/ncn+이/jp+라/ecs
+
+찾기는
+	찾/pvg+기/etn+는/jxc
+
+아주
+	아주/mag
+
+쉽습니다
+	쉽/paa+습니다/ef
+
+.
+	./sf
+
+
+안국역에서
+	안국역/ncn+에서/jca
+
+내려도
+	내리/pvg+어도/ecs
+
+그렇구요
+	그렇구요/ncn
+
+.
+	./sf
+
+
+"삼청동감고당길"
+	"삼청동감고당길"/ncn
+
+.
+	./sf
+
+
+이름에
+	이름/ncn+에/jca
+
+뭔가
+	뭔가/ncn
+
+사연이
+	사연/ncn+이/jcc
+
+있을
+	있/px+을/etm
+
+듯
+	듯/nbn
+
+하다는
+	하/px+다/ef+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들어서
+	들/pvg+어서/ecs
+
+찾아
+	찾/pvg+아/ecx
+
+보았는데요
+	보/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+감고당은
+	감고/ncn+당/ncn+은/jxc
+
+원래
+	원래/mag
+
+숙종이
+	숙종/ncn+이/jcc
+
+인현왕후의
+	인현왕후/ncn+의/jcm
+
+친정을
+	친정/ncn+을/jco
+
+위해서
+	위하/pvg+어서/ecs
+
+지어준
+	지/px+어/ecx+주/px+ㄴ/etm
+
+집이라고
+	집/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그곳에서
+	그곳/ncn+에서/jca
+
+대대로
+	대/nbu+대로/jca
+
+민씨
+	민씨/ncn
+
+집안이
+	집안/ncn+이/jcc
+
+살았고
+	살/pvg+아/ep+고/ecc
+
+인현왕후가
+	인현왕후/ncn+가/jcs
+
+폐위되고도
+	폐위/ncpa+되/xsvn+고/ecs+도/jxc
+
+이곳에서
+	이곳/npd+에서/jca
+
+거처했다고
+	거처/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+후손인
+	후손/ncn+이/jp+ㄴ/etm
+
+명성왕후
+	명성/ncn+왕후/ncr
+
+.
+	./sf
+
+
+명성황후는
+	명성/ncn+황후/ncr+는/jxc
+
+감고당에서
+	감고/ncn+당/ncn+에서/jca
+
+8년을
+	8/nnc+년/nbu+을/jco
+
+살았고
+	살/pvg+아/ep+고/ecc
+
+왕비에
+	왕비/ncn+에/jca
+
+책봉되었다고
+	책봉/ncpa+되/xsvn+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+감고당이란
+	감고/ncn+당/ncn+이란/jxc
+
+이름은
+	이름/ncn+은/jxc
+
+명성황후가
+	명성/ncn+황후/ncr+가/jcc
+
+인현왕후를
+	인현왕후/ncn+를/jco
+
+생각하며
+	생각/ncpa+하/xsva+며/ecc
+
+지은
+	지/px+ㄴ/etm
+
+이름이라고
+	이름/ncn+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+감고당길에는
+	감고당길/ncn+에/jca+는/jxc
+
+그
+	그/mmd
+
+감고당은
+	감고/ncn+당/ncn+은/jxc
+
+없었습니다
+	없/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+덕성여고에
+	덕성/ncn+여고/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+것을
+	것/nbn+을/jco
+
+쌍문동
+	쌍문동/ncn
+
+덕성여대를
+	덕성/ncn+여대/ncn+를/jco
+
+거쳐
+	거치/pvg+어/ecx
+
+여주군
+	여주군/ncn
+
+명성황후
+	명성/ncn+황후/ncr
+
+생가
+	생/npp+가/jcs
+
+옆으로
+	옆/ncn+으로/jca
+
+이전했다고
+	이전/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+감고당은
+	감고/ncn+당/ncn+은/jxc
+
+자리를
+	자리/ncn+를/jco
+
+옮겼지만
+	옮기/pvg+었/ep+지만/ecs
+
+그
+	그/mmd
+
+길위에
+	길/ncn+위/xsnx+에/jca
+
+역사는
+	역사/ncn+는/jxc
+
+그대로
+	그대로/mag
+
+남아서현대인들의
+	남아/ncn+서현/ncn+대/ncn+이/jp+ㄴ/etm+들/nbn+의/jcm
+
+발길을
+	발길/ncn+을/jco
+
+허락하고
+	허락/ncpa+하고/jct
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+길은
+	길/paa+ㄴ/etm
+
+생각보다
+	생각/ncpa+보다/jca
+
+짧은길인데요
+	짧은길인데요/ncn
+
+.
+	./sf
+
+
+초입은
+	초입/ncpa+은/jxc
+
+높은
+	높/paa+은/etm
+
+돌담이
+	돌담/ncn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+고즈넉함도
+	고즈넉/ncps+하/xsms+ㅁ/etn+도/jxc
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+덕성여중고를
+	덕성/ncn+여중/ncn+고/ncn+를/jco
+
+지나
+	지나/pvg+아/ecx
+
+좀더
+	좀더/mag
+
+걸어가면
+	걷/pvg+어/ecx+가/px+면/ecs
+
+아기자기한
+	아기자기/ncn+한/ncn
+
+건물이며
+	건물/ncn+이/jp+며/ecc
+
+카페,레스토랑,
+	카페/ncn+,/sp+레스토랑/ncn+,/sp
+
+분식집등
+	분식/ncpa+집/ncn+등/xsnx
+
+연인들의
+	연인/ncn+들/ncn+의/jcm
+
+데이트코스로
+	데이트/ncpa+코스/ncn+로/jca
+
+좋겠다
+	좋/paa+겠/ep+다/ef
+
+싶은
+	싶/px+은/etm
+
+분위기로
+	분위기/ncn+로/jca
+
+변합니다
+	변하/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+서울
+	서울/ncn
+
+데이트코스
+	데이트/ncpa+코스/ncn
+
+어디가있을까
+	어디가있을까/ncn
+
+찾으신다면
+	찾/pvg+으시/ep+ㄴ다면/ecs
+
+인사동에서
+	인사/ncn+동/ncn+에서/jca
+
+감고당,
+	감고/ncn+당/ncn+,/sp
+
+삼청동
+	삼청동/ncn
+
+구석구석
+	구석구석/mag
+
+걸어보는
+	걷/pvg+어/ecx+보/px+는/etm
+
+데이트는
+	데이트/ncpa+는/jxc
+
+어떨까
+	어떨까/ncn
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-마음이
+	여행/ncpa+이야기/ncpa+-/sd+마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+(여행일:
+	(/sl+여행/ncpa+이/jp+ㄹ/etm+:/sp
+
+2012.
+	2012./nnc
+
+01
+	01/nnc
+
+.)
+	./sf+)/sr
+
+
+인사동에서
+	인사/ncn+동/ncn+에서/jca
+
+안국동방향으로
+	안국동방향/ncn+으로/jca
+
+걷다보면
+	걷다보/ncn+이/jp+면/ecs
+
+정면으로
+	정면/ncn+으로/jca
+
+풍문여고가
+	풍문/ncn+여고/ncn+가/jcs
+
+보이지요
+	보이/pvg+지/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+앞에
+	앞/ncn+에/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+플랭카드가
+	플랭카드/ncn+가/jcs
+
+걸려
+	걸리/pvg+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+그런길이
+	그런길/ncn+이/jcc
+
+있구나
+	있/px+구나/ef
+
+하고
+	하/pvg+고/ecc
+
+알았습니다
+	알/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+이날
+	이/nnc+날/nbu
+
+이길로
+	이/nnc+길/nbu+로/jca
+
+바로
+	바로/mag
+
+접어든
+	접/pvg+어/ecs+든/jxc
+
+것은
+	것/nbn+은/jxc
+
+아니구요
+	아니구요/ncn
+
+.
+	./sf
+
+
+왼쪽으로
+	왼쪽/ncn+으로/jca
+
+한바퀴
+	한/nnc+바퀴/nbu
+
+휘
+	휘/mag
+
+돌아서
+	돌/pvg+아/ecx
+
+뒷편에서
+	뒷편/ncn+에서/jca
+
+걸어내려오면서
+	걷/pvg+어/ecx+내리/px+어/ecx+오/px+면서/ecc
+
+사진으로
+	사진/ncn+으로/jca
+
+담았었는데
+	담/pvg+았었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+이해하기
+	이해/ncpa+하/xsva+기/etn
+
+좋도록
+	좋/paa+도록/ecs
+
+사진을
+	사진/ncn+을/jco
+
+앞쪽부터
+	앞쪽/ncn+부터/jxc
+
+걸어가면서
+	걷/pvg+어/ecx+가/px+면서/ecc
+
+보는
+	보/px+는/etm
+
+듯이
+	듯/nbn+이/jcs
+
+배열을
+	배열/ncpa+을/jco
+
+해보았습니다
+	하/pvg+어/ecx+보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+매주
+	매주/mag
+
+토
+	트/pvg+어/ecx
+
+일요일은
+	일요일/ncn+은/jxc
+
+차없는
+	차/ncn+없/xsmn+는/etm
+
+거리를
+	거리/ncn+를/jco
+
+시행하고
+	시행/ncpa+하고/jct
+
+있네요
+	있/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+길
+	길/ncn
+
+걸어보시면
+	걷/pvg+어/ecx+보/px+시/ep+면/ecs
+
+아시겠지만
+	알/pvg+시겠/ep+지만/ecs
+
+그리
+	그리/mad
+
+넓지도
+	넓/paa+지/ecs+도/jxc
+
+길지도않은
+	길/paa+지도/ecx+않/px+은/etm
+
+길이라
+	길/ncn+이/jp+라/ecs
+
+아예
+	아예/mag
+
+차가
+	차/ncn+가/jcs
+
+안다니게
+	안다니/ncn+이/jp+게/ecs
+
+하면
+	하/pvg+면/ecs
+
+어떨까
+	어떨까/ncn
+
+싶은
+	싶/px+은/etm
+
+생각도
+	생각/ncpa+도/jxc
+
+들더라구요
+	들/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+걷는
+	걷/pvg+는/etm
+
+사람들을
+	사람들/ncn+을/jco
+
+위해서
+	위하/pvg+어서/ecs
+
+차는
+	차/ncn+는/jxc
+
+좀
+	좀/mag
+
+돌아서
+	돌/pvg+아/ecx
+
+가도
+	가/px+아/ecs
+
+되겠다
+	되/pvg+겠/ep+다/ef
+
+싶었어요
+	싶/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+풍문여고에서
+	풍문/ncn+여고/ncn+에서/jca
+
+덕성여중고로
+	덕성/ncn+여중/ncn+고/ncn+로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+돌담길은데이트하는
+	돌담길은데이트하/ncn+는/jxc
+
+연인들의
+	연인/ncn+들/ncn+의/jcm
+
+뒷모습에서
+	뒷모습/ncn+에서/jca
+
+여유로움이
+	여유/ncn+롭/xsmn+음/etn+이/jcs
+
+넘칩니다
+	넘치/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+북적이지
+	북/ncn+적/xsncc+이/jp+지/ecs
+
+않아서좋구요
+	않아서좋구요/ncn
+
+.
+	./sf
+
+
+여름날
+	여름/ncn+날/ncn
+
+담너머로
+	담너머/ncn+로/jca
+
+푸른
+	푸르/paa+ㄴ/etm
+
+가지들이
+	가지/ncn+들/ncn+이/jcc
+
+넘어오면
+	넘/pvg+어/ecx+오/px+면/ecs
+
+참
+	참/mag
+
+고즈넉한
+	고즈넉/ncps+하/xsms+ㄴ/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+만들어주겠다
+	만들/pvg+어/ecx+주/px+겠/ep+다/ef
+
+싶은
+	싶/px+은/etm
+
+길이었어요
+	길/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+길을
+	길/ncn+을/jco
+
+가다
+	가/pvg+아/ecx
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+옹기종기
+	옹기종기/mag
+
+빙둘러
+	빙둘러/ncn
+
+모여
+	모이/pvg+어/ecx
+
+서있는
+	서/pvg+어/ecx+있/px+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+보이기에
+	보이/pvg+기/etn+에/jca
+
+뭐길래
+	뭐/npd+이/jp+길래/ecs
+
+..
+	./sf+./sf
+
+
+하는
+	하/pvg+는/etm
+
+호기심이
+	호/nbu+이/jp+기/etn+이/jp+시/ep+ㅁ/etn+이/jcs
+
+생겼어요
+	생기/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+초등학교
+	초등학교/ncn
+
+근처
+	근처/ncn
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+병아리
+	병아리/ncn
+
+구경하고
+	구경/ncn+하고/jcj
+
+사려고모였던
+	사려/ncpa+고모/ncn+이/jp+었/ep+던/etm
+
+모습과
+	모습/ncn+과/jct
+
+아주
+	아주/mag
+
+흡사한
+	흡사/ncps+하/xsms+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+....
+	.../se+./sf
+
+
+^^
+	^/sy+^/sy
+
+그래서
+	그래서/maj
+
+저도
+	저/npp+도/jxc
+
+그틈으로
+	그틈/ncn+으로/jca
+
+들어가봤더니
+	들/pvg+어/ecx+가/px+아/ecx+보/px+아/ep+니/ecs
+
+..
+	./sf+./sf
+
+
+병아리랑
+	병아리/ncn+랑/jxc
+
+그리
+	그리/mad
+
+다르지
+	다르/paa+지/ecx
+
+않는
+	않/px+는/etm
+
+호기심
+	호/nbu+이/jp+기/etn+이/jp+시/ep+ㅁ/etn
+
+대상,
+	대상/ncn+,/sp
+
+달고나
+	달/paa+고/ecx+나/px+아/ecx
+
+아저씨가
+	아저씨/ncn+가/jcs
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+만드는
+	만들/pvg+는/etm
+
+모습을
+	모습/ncn+을/jco
+
+보려고
+	보/px+려고/ecs
+
+모두들
+	모두/ncn+들/ncn
+
+고개를
+	고개/ncn+를/jco
+
+숙이고
+	숙이/pvg+고/ecc
+
+몰려있었나
+	몰리/pvg+어/ecx+있/px+었/ep+나/ef
+
+봐요
+	보/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+오후의
+	오후/ncn+의/jcm
+
+햇살이
+	햇살/ncn+이/jcc
+
+한쪽
+	하/pvg+ㄴ/etm+쪽/nbn
+
+담을
+	담/ncn+을/jco
+
+넘어
+	넘/pvg+어/ecx
+
+다른쪽
+	다르/paa+ㄴ/etm+쪽/nbn
+
+돌담에
+	돌담/ncn+에/jca
+
+내려앉았습니다
+	내려앉/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+앞족에
+	앞/xp+족/ncn+에/jca
+
+덕성여중고
+	덕성/ncn+여중/ncn+고/jcj
+
+입구가
+	입구/ncn+가/jcs
+
+보이구요
+	보이구요/ncn
+
+.
+	./sf
+
+
+여학교들이
+	여학교/ncn+들/ncn+이/jcc
+
+많아서인지
+	많아서/ncn+이/jp+ㄴ지/ecs
+
+여학생들의
+	여학생/ncn+들/ncn+의/jcm
+
+재잘거림은
+	재잘거리/pvg+ㅁ/etn+은/jxc
+
+물론이고
+	물론/ncn+이/jp+고/ecc
+
+그
+	그/mmd
+
+웃음을
+	웃음/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+온
+	오/px+ㄴ/etm
+
+남학생들의
+	남학생/ncn+들/ncn+의/jcm
+
+모습도
+	모습/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+보이는듯
+	보이/pvg+는/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+아직은
+	아직/mag+은/jxc
+
+수업시간인가요
+	수업시간/ncn+이/jp+ㄴ가/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+요즘
+	요즘/mag
+
+아이들
+	아이/ncn+들/ncn
+
+몇시에
+	몇/nnc+시/nbu+에/jca
+
+수업이
+	수업/ncpa+이/jcc
+
+끝나는지도
+	끝나/pvg+는지/ecs+도/jxc
+
+모르겠네요
+	모르/pvg+겠/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+돌담길은
+	돌담/ncn+길/ncn+은/jxc
+
+호젓했다
+	호젓/ncps+하/xsms+었/ep+다/ef
+
+하면,
+	하/pvg+면/ecs+,/sp
+
+그
+	그/mmd
+
+담부터는
+	달/paa+ㅁ/etn+부터/jxc+는/jxc
+
+분위기가
+	분위기/ncn+가/jcs
+
+좀
+	좀/mag
+
+달라집니다
+	다르/paa+아/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+카페거리를
+	카페/ncn+거리/ncn+를/jco
+
+걷는
+	걷/pvg+는/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+드는데요
+	들/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+외관이
+	외관/ncn+이/jcc
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+카페들,
+	카페/ncn+들/xsncc+,/sp
+
+음식점,
+	음식/ncn+점/ncn+,/sp
+
+분식집들
+	분식/ncpa+집/ncn+들/xsncc
+
+..
+	./sf+./sf
+
+
+여학생들이
+	여학생/ncn+들/ncn+이/jcc
+
+출출할
+	출출/ncps+하/xsms+ㄹ/etm
+
+때
+	때/ncn
+
+자주
+	자주/mag
+
+찾을만한
+	찾/pvg+을/etm+만/nbs+하/xsms+ㄴ/etm
+
+자그마한
+	자그마하/paa+ㄴ/etm
+
+분식집들도
+	분식/ncpa+집/ncn+들/xsncc+도/jxc
+
+꽤
+	꽤/mag
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+길은
+	길/paa+ㄴ/etm
+
+외길이라
+	외길/ncn+이/jp+라/ecs
+
+차들이
+	차/ncn+들/xsncc+이/jcc
+
+많이
+	많/paa+이/xsa
+
+들어오지는
+	들/pvg+어/ecx+오/px+지/ecs+는/jxc
+
+않는다
+	않/px+는다/ef
+
+싶은데
+	싶/px+은/etm+데/nbn
+
+한번씩
+	한번씩/ncn
+
+몰려서
+	몰리/pvg+어서/ecs
+
+지나가곤
+	지나/pvg+아/ecx+가/px+곤/ecs
+
+하더라구요
+	하/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+차만
+	차/ncn+만/jxc
+
+지나지
+	지나/pvg+지/ecx
+
+않아도
+	않/px+아/ecs
+
+훨씬
+	훨씬/mag
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+감고당길이
+	감고당길/ncn+이/jcc
+
+될듯
+	되/pvg+ㄹ/etm+듯/nbs
+
+한데
+	하/pvg+ㄴ데/ecs
+
+말입니다
+	말/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+초입에
+	초입/ncpa+에/jca
+
+있던
+	있/px+던/etm
+
+카페인데
+	카페/ncn+이/jp+ㄴ데/ecs
+
+이쁘게
+	이쁘/paa+게/ecs
+
+꾸며놓은
+	꾸미/pvg+어/ecx+놓/px+은/etm
+
+차림표며
+	차림표/ncn+이/jp+며/ecc
+
+외부
+	외부/ncn
+
+인테리어가
+	인테리어/ncn+가/jcs
+
+이뻐서
+	이쁘/paa+어서/ecs
+
+담았습니다
+	담/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+아이스크림
+	아이스크림/ncn
+
+잔뜩
+	잔뜩/mag
+
+올린
+	올리/pvg+ㄴ/etm
+
+와플을
+	와플/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+먹고
+	먹/pvg+고/ecc
+
+싶단
+	싶/px+단/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+저절로
+	저절로/mag
+
+들었지만
+	들/pvg+었/ep+지만/ecs
+
+저녁시간이
+	저녁/ncn+시간/ncn+이/jcc
+
+코앞이라
+	코앞/ncn+이/jp+라/ecs
+
+맘대로
+	말/px+ㅁ/etn+대로/jca
+
+먹을
+	먹/pvg+을/etm
+
+수는
+	수/nbn+는/jxc
+
+없겠더군요
+	없/paa+겠/ep+더군/ef+요/jxf
+
+.
+	./sf
+
+
+점심먹고
+	점심/ncn+먹/ncn+고/jcj
+
+나른한
+	나르/pvg+ㄴ/etm+한/nbn
+
+오후에
+	오후/ncn+에/jca
+
+삼청동길을
+	삼청동/ncn+길/ncn+을/jco
+
+걷다
+	걷/pvg+다/ef
+
+이런
+	이런/mmd
+
+카페를
+	카페/ncn+를/jco
+
+만나면
+	만나/pvg+면/ecs
+
+출출한
+	출출/ncps+하/xsms+ㄴ/etm
+
+기운을
+	기운/ncn+을/jco
+
+감싸기에
+	감싸/pvg+기/etn+에/jca
+
+그만일
+	그만이/paa+ㄹ/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+샤르르
+	샤르르/ncn
+
+녹는
+	녹/pvg+는/etm
+
+아이스크림
+	아이스크림/ncn
+
+입안에
+	입안/ncpa+에/jca
+
+물고
+	물/pvg+고/ecc
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+햇살
+	햇살/ncn
+
+들어오는
+	들/pvg+어/ecx+오/px+는/etm
+
+창가에
+	창가/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+있는
+	있/px+는/etm
+
+상상을
+	상상/ncn+을/jco
+
+하니
+	하/pvg+니/ecs
+
+저절로
+	저절로/mag
+
+미소가
+	미소/ncn+가/jcs
+
+번지네요
+	벌/pvg+ㄴ/etm+지/nbn+이/jp+네/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+보기만
+	보/px+기/etn+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+이뻐서
+	이쁘/paa+어서/ecs
+
+눈을
+	눈/ncn+을/jco
+
+뗄수
+	떼/pvg+ㄹ/etm+수/nbn
+
+없는
+	없/paa+는/etm
+
+액세서리
+	액세서리/ncn
+
+가게도
+	가게/ncn+도/jxc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+가게가
+	가게/ncn+가/jcs
+
+풍기는
+	풍기/pvg+는/etm
+
+분위기가
+	분위기/ncn+가/jcs
+
+이름과
+	이름/ncn+과/jcj
+
+어쩜
+	어쩌/paa+ㅁ/etn
+
+저리
+	저리/mad
+
+잘
+	잘/mag
+
+맞아
+	맞/pvg+아/ecx
+
+떨어지는지
+	떨어지/pvg+는지/ecs
+
+...
+	.../se
+
+
+쇼핑을
+	쇼핑/ncpa+을/jco
+
+하고
+	하/pvg+고/ecc
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+연인의
+	연인/ncn+의/jcm
+
+모습이
+	모습/ncn+이/jcc
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리
+	그리/mad
+
+관심있는
+	관심/ncn+있/xsmn+는/etm
+
+대상이
+	대상/ncn+이/jcc
+
+아님에도
+	아니/paa+ㅁ/etn+에/jca+도/jxc
+
+진열된
+	진열/ncpa+되/xsvn+ㄴ/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+보면
+	보/px+면/ecs
+
+갖고
+	갖/pvg+고/ecc
+
+싶단
+	싶/px+단/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들기도
+	들/pvg+기/etn+도/jxc
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+인사동길을
+	인사동/ncn+길/ncn+을/jco
+
+걷다
+	걷/pvg+다/ef
+
+이
+	이/mmd
+
+가게를
+	가게/ncn+를/jco
+
+또
+	또/maj
+
+만난거
+	만난거/ncn
+
+있죠
+	있/px+죠/ef
+
+...
+	.../se
+
+
+어.
+	어./ncn
+
+.
+	./sf
+
+
+우리가좀전에
+	우리가/ncn+좀/ncn+전/xsnx+에/jca
+
+어디서
+	어디/npd+서/jca
+
+본듯
+	보/px+ㄴ/etm+듯/nbs
+
+한데
+	하/pvg+ㄴ데/ecs
+
+...
+	.../se
+
+
+하면서
+	하/pvg+면서/ecc
+
+기억을
+	기억/nnc+을/jco
+
+떠올려
+	떠올리/pvg+어/ecx
+
+보기도
+	보/px+기/etn+도/jxc
+
+했었습니다
+	하/px+었었/ep+습니다/ef
+
+.
+	./sf
+
+
+갤러리와
+	갤러리/ncn+와/jcj
+
+민들레영토도
+	민들레/ncn+영토/ncn+도/jxc
+
+보이구요
+	보이구요/ncn
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+영토에
+	영토/ncn+에/jca
+
+사는
+	사/pvg+는/etm
+
+송아지가
+	송아지/ncn+가/jcs
+
+손님을
+	손님/ncn+을/jco
+
+맞이하고
+	맞이/ncpa+하고/jct
+
+있네요
+	있/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+골목길
+	골목길/ncn
+
+옆으로
+	옆/ncn+으로/jca
+
+빠져보지는
+	빠지/pvg+어/ecx+보/px+지/ecs+는/jxc
+
+못했는데
+	못하/px+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+오히려
+	오히려/mag
+
+옆길이
+	옆길/ncn+이/jcc
+
+한산하고
+	한산하/ncn+이/jp+고/ecc
+
+..
+	./sf+./sf
+
+
+아트선재센터로
+	아트선재센터/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+길은
+	길/ncn+은/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+붐비기
+	붐비/paa+기/etn
+
+시작했습니다
+	시작/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+차가
+	차/ncn+가/jcs
+
+몇대
+	몇/nnc+대/nbu
+
+들어오면
+	들/pvg+어/ecx+오/px+면/ecs
+
+사람과
+	사람/ncn+과/jcj
+
+차들이
+	차/ncn+들/xsncc+이/jcc
+
+섞여서
+	섞이/pvg+어서/ecs
+
+복잡해지더라구요
+	복잡해지/ncn+이/jp+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+일방통행길임에도
+	일방통행/ncn+길/ncn+이/jp+ㅁ/etn+에/jca+도/jxc
+
+길이
+	길/ncn+이/jcc
+
+좁고
+	좁/paa+고/ecc
+
+걷는
+	걷/pvg+는/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+많다보니
+	많다보/ncn+이/jp+니/ecs
+
+아무래도
+	아무렇/pad+어도/ecs
+
+이런
+	이런/mmd
+
+풍경이
+	풍경/ncn+이/jcc
+
+되는
+	되/pvg+는/etm
+
+듯한데요
+	듯한데요/ncn
+
+.
+	./sf
+
+
+주말만이라도
+	주말/ncn+만/jxc+이라도/jxc
+
+사람들만
+	사람들/ncn+만/jxc
+
+걷는
+	걷/pvg+는/etm
+
+길로
+	길/ncn+로/jca
+
+변한다니
+	변하/pvg+ㄴ다니/ef
+
+다행이긴
+	다행이긴/ncn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+좀더
+	좀더/mag
+
+안쪽으로
+	알/pvg+ㄴ/etm+쪽/nbn+으로/jca
+
+들어오니
+	들/pvg+어/ecx+오/px+니/ecs
+
+분식집들이
+	분식/ncpa+집들이/ncpa
+
+많이
+	많/paa+이/xsa
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+길거리에서
+	길거리/ncn+에서/jca
+
+서서
+	서/pvg+어서/ecs
+
+먹는
+	먹/pvg+는/etm
+
+재미도
+	재미/ncn+도/jxc
+
+있긴
+	있긴/ncn
+
+하지요
+	하/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+여학생들이
+	여학생/ncn+들/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+찾을
+	찾/pvg+을/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+호떡집,
+	호떡/ncn+집/ncn+,/sp
+
+떡볶이집,
+	떡볶이/ncn+집/ncn+,/sp
+
+어묵집
+	어묵/ncn+집/ncn
+
+들이
+	들/nbn+이/jcc
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+인사동에서도
+	인사/ncn+동/ncn+에서/jca+도/jxc
+
+호떡이
+	호떡/ncn+이/jcc
+
+잘
+	잘/mag
+
+팔리더니
+	팔리/pvg+더니/ecs
+
+삼청동에서도
+	삼청동/ncn+에서/jca+도/jxc
+
+호떡이
+	호떡/ncn+이/jcc
+
+기다리고
+	기다리/pvg+고/ecc
+
+있었네요
+	있/px+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+먹어보지
+	먹/pvg+어/ecx+보/px+지/ecx
+
+않아서
+	않/px+아/ecx
+
+맛은
+	맛/ncn+은/jxc
+
+모르겠는데
+	모르/pvg+겠/ep+는데/ecs
+
+...
+	.../se
+
+
+담에는
+	달/paa+ㅁ/etn+에/jca+는/jxc
+
+위를
+	위/ncn+를/jco
+
+비워와서
+	비우/pvg+어/ecx+오/px+아/ecx
+
+분식집
+	분식/ncpa+집/ncn
+
+음식투어를
+	음식/ncn+투어/ncn+를/jco
+
+함
+	하/pvg+ㅁ/etn
+
+해봐도
+	하/pvg+어/ecx+보/px+아/ecs
+
+재밌을거
+	재밌을거/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+가게
+	가/px+게/ecs
+
+유리창
+	유리/ncn+창/ncn
+
+너머로
+	너머/ncn+로/jca
+
+글귀가
+	글귀/ncn+가/jcs
+
+재밌어서
+	재밌어서/ncn
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+두
+	두/nnc
+
+연예인을
+	연예인/ncn+을/jco
+
+특별히
+	특별히/mag
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+분이신가
+	분/nbn+이/jp+시/ep+ㄴ가/ef
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+걷다
+	걷/pvg+다/ef
+
+오른쪽으로
+	오르/pvg+ㄴ/etm+쪽/nbn+으로/jca
+
+골목을
+	골목/ncn+을/jco
+
+보면
+	보/px+면/ecs
+
+북촌
+	북촌/ncn
+
+한옥마을의
+	한옥/ncn+마을/ncn+의/jcm
+
+한
+	하/pvg+ㄴ/etm
+
+골목인가
+	골목/ncn+이/jp+ㄴ가/ef
+
+싶은
+	싶/px+은/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+들기도
+	들/pvg+기/etn+도/jxc
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+한옥건물이
+	한옥/ncn+건물/ncn+이/jcc
+
+보여서
+	보이/pvg+어서/ecs
+
+그런듯
+	그러/pvd+ㄴ/etm+듯/nbs
+
+한데요
+	한데/ncn+요/ncn
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+골목
+	골목/ncn
+
+사이로
+	사이/ncn+로/jca
+
+먹을
+	먹/pvg+을/etm
+
+곳도
+	곳/ncn+도/jxc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+라땡은
+	라땡/ncn+은/jxc
+
+가본
+	가/pvg+아/ecx+보/px+ㄴ/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+일부러
+	일부러/mag
+
+찾는
+	찾/pvg+는/etm
+
+곳이라고
+	곳/ncn+이/jp+라/ef+고/jcr
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+가보지
+	가/pvg+아/ecx+보/px+지/ecx
+
+않아서
+	않/px+아/ecx
+
+그
+	그/mmd
+
+맛을
+	맛/ncn+을/jco
+
+모르겠습니다
+	모르/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+여학교
+	여학교/ncn
+
+주변이라는
+	주변/ncn+이/jp+라/ef+는/etm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+들게
+	들/pvg+게/ecs
+
+구석구석
+	구석구석/mag
+
+먹거리도
+	먹거리/ncn+도/jxc
+
+많구요
+	많구요/ncn
+
+.
+	./sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+분위기는
+	분위기/ncn+는/jxc
+
+어른들도
+	어른/ncn+들/ncn+도/jxc
+
+학창시절,
+	학창시절/ncn+,/sp
+
+옛날
+	옛날/ncn
+
+생각을
+	생각/ncpa+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+찾을만
+	찾/pvg+을/etm+만/nbs
+
+한곳이
+	한곳/ncn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+연인들도
+	연인/ncn+들/ncn+도/jxc
+
+카페를
+	카페/ncn+를/jco
+
+찾아서
+	찾/pvg+아/ecx
+
+소박한
+	소박/ncps+하/xsms+ㄴ/etm
+
+데이트를
+	데이트/ncpa+를/jco
+
+하기도
+	하/pvg+기/etn+도/jxc
+
+좋겠구요
+	좋겠구요/ncn
+
+.
+	./sf
+
+
+가게나
+	가게/ncn+나/jcj
+
+카페에
+	카페/ncn+에/jca
+
+들리지
+	들리/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+천천히
+	천천히/mag
+
+걷기만
+	걷/pvg+기/etn+만/jxc
+
+했더니
+	하/px+었/ep+더니/ecs
+
+어느새
+	어느새/mag
+
+길마지막
+	길마지막/ncn
+
+즈음이
+	즈음/ncpa+이/jcc
+
+되었어요
+	되/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+아래
+	아래/ncn
+
+왼쪽
+	왼쪽/ncn
+
+건물이
+	건물/ncn+이/jcc
+
+아트선재센터
+	아트선재센터/ncn
+
+건물입니다
+	건물/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+뭔지
+	뭔지/ncn
+
+모르겠지만
+	모르/pvg+겠/ep+지/ecx+말/px+ㄴ/etm
+
+세라믹스
+	세라믹스/ncn
+
+코뮌
+	코뮌/ncn
+
+전시를
+	전시/ncn+를/jco
+
+하고
+	하/pvg+고/ecc
+
+있나
+	있/px+나/ef
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+시간을
+	시간/ncn+을/jco
+
+넉넉하게
+	넉넉/ncps+하/xsms+게/ecs
+
+잡아서
+	잡/pvg+어서/ecs
+
+전시작품도
+	전시작품/ncn+도/jxc
+
+감상하고
+	감상/ncn+하고/jct
+
+둘러볼
+	두르/pvg+어/ecx+보/px+ㄹ/etm
+
+곳,
+	곳/ncn+,/sp
+
+먹을
+	먹/pvg+을/etm
+
+거리
+	거리/ncn
+
+하나씩이라도
+	하나씩/ncn+이/jp+라/ecs+도/jxc
+
+정해서
+	정하/pvg+어서/ecs
+
+걸으면
+	걸/pvg+면/ecs
+
+더
+	더/mag
+
+알찬
+	알차/paa+ㄴ/etm
+
+시간을
+	시간/ncn+을/jco
+
+보낼
+	보내/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있겠습니다
+	있/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+이날은
+	이/nnc+날/nbu+은/jxc
+
+지나다가
+	지나/pvg+아/ecx+가/px+아/ecx
+
+우연히
+	우연히/mag
+
+만난
+	만나/pvg+ㄴ/etm
+
+길이라
+	길/ncn+이/jp+라/ecs
+
+이런
+	이런/mmd
+
+길도
+	길/ncn+도/jxc
+
+있구나
+	있/px+구나/ef
+
+하고
+	하/pvg+고/ecc
+
+첨
+	첨/ncn
+
+대면한
+	대면/ncpa+하/xsva+ㄴ/etm
+
+것이었구요
+	것이었구요/ncn
+
+.
+	./sf
+
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+날
+	날/ncn
+
+다시
+	다시/mag
+
+찾아봐야지
+	찾/pvg+아/ecx+보/px+아/ecs
+
+하고
+	하/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+아트선재센터
+	아트선재센터/ncn
+
+앞으로
+	앞/ncn+으로/jca
+
+정독도서관이
+	정독/ncpa+도서관/ncn+이/jcc
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+짧다는
+	짧/paa+다/ef+는/etm
+
+짧은
+	짧/paa+은/etm
+
+삼청동
+	삼청동/ncn
+
+감고당길을
+	감고당길/ncn+을/jco
+
+걸어
+	걷/pvg+어/ecx
+
+보았습니다
+	보/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+길이
+	길/ncn+이/jcc
+
+알려지기
+	알리/pvg+어/ecx+지/px+기/etn
+
+전이었다면
+	전/nbn+이/jp+었/ep+다면/ecs
+
+여학생들이
+	여학생/ncn+들/ncn+이/jcc
+
+주로
+	주로/mag
+
+오고갔을
+	오/pvg+고/ecx+가/px+아/ep+ㄹ/etm
+
+길이었을듯
+	길/ncn+이/jp+었/ep+을/etm+듯/nbs
+
+한데요
+	한데/ncn+요/ncn
+
+.
+	./sf
+
+
+학교를
+	학교/ncn+를/jco
+
+오가거나
+	오가/pvg+거나/ecc
+
+미술관,
+	미술관/ncn+,/sp
+
+도서관을
+	도서관/ncn+을/jco
+
+출입하는
+	출입/ncpa+하/xsva+는/etm
+
+아이들,
+	아이/ncn+들/xsncc+,/sp
+
+분식집에
+	분식/ncpa+집/ncn+에/jca
+
+모여서
+	모이/pvg+어서/ecs
+
+수다삼매경에
+	수다/ncn+삼매경/ncn+에/jca
+
+빠져있는
+	빠지/pvg+어/ecx+있/px+는/etm
+
+학생들의
+	학생/ncn+들/ncn+의/jcm
+
+모습이
+	모습/ncn+이/jcc
+
+그려지는
+	그리/pvg+어/ecx+지/px+는/etm
+
+곳이었습니다
+	곳/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+지금은
+	지금/ncn+은/jxc
+
+갤러리나
+	갤러리/ncn+나/jcj
+
+카페들도
+	카페/ncn+들/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+있어서
+	있/px+어서/ecs
+
+이
+	이/mmd
+
+길을
+	길/ncn+을/jco
+
+찾는
+	찾/pvg+는/etm
+
+분들도
+	불/pvg+ㄴ/etm+들/nbn+도/jxc
+
+많아졌을
+	많/paa+아/ecx+지/px+었/ep+을/etm
+
+텐데요
+	텐데요/ncn
+
+.
+	./sf
+
+
+삼청동과
+	삼청동/ncn+과/jcj
+
+북촌으로
+	북촌/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+길,
+	길/ncn+,/sp
+
+경복궁으로
+	경복궁/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+길이라
+	길/ncn+이/jp+라/ecs
+
+연계헤서
+	연계헤서/ncn
+
+데이트코스로
+	데이트/ncpa+코스/ncn+로/jca
+
+잡아서
+	잡/pvg+어서/ecs
+
+좋을
+	좋/paa+을/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+길
+	길/paa+ㄹ/etm
+
+이름에서
+	이름/ncn+에서/jca
+
+느껴지듯
+	느끼/pvg+어/ecx+지/px+듯/ecs
+
+역사의한켠에
+	역사의한켠/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+감고당은
+	감고/ncn+당/ncn+은/jxc
+
+자리를
+	자리/ncn+를/jco
+
+떠났지만
+	뜨/pvg+어/ecx+나/px+아/ep+지만/ecs
+
+그
+	그/mmd
+
+길은
+	길/paa+ㄴ/etm
+
+현대의
+	현대/ncn+의/jcm
+
+예술과
+	예술/ncn+과/jcj
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+함께하는
+	함께하/pvg+는/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+변화하였습니다
+	변화/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+인현왕후,
+	인현왕후,/ncn
+
+명성황후의
+	명성/ncn+황후/ncr+의/jcm
+
+흔적이
+	흔적/ncn+이/jcc
+
+있던
+	있/px+던/etm
+
+자리에
+	자리/ncn+에/jca
+
+여학교가
+	여학교/ncn+가/jcs
+
+자리하고
+	자리/ncn+하고/jct
+
+그들이
+	그/npp+들/xsn+이/jcs
+
+살았던
+	살/pvg+아/ep+ㄴ/etm
+
+곳은
+	곳/ncn+은/jxc
+
+터로만
+	터/nbn+로/jca+만/jxc
+
+남았지만
+	남/pvg+아/ep+지만/ecs
+
+그
+	그/mmd
+
+길을
+	길/ncn+을/jco
+
+오가는
+	오가/pvg+는/etm
+
+이들은
+	이/ncn+들/xsncc+은/jxc
+
+과거에서
+	과거/ncn+에서/jca
+
+현재까지
+	현재/ncn+까지/jxc
+
+이어지고
+	잇/pvg+어/ecx+지/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+그녀들을
+	그녀들/ncn+을/jco
+
+기억나는
+	기억나/pvg+는/etm
+
+길이
+	길/ncn+이/jcc
+
+아니라고
+	아니/paa+라/ef+고/jcr
+
+해도
+	하/pvg+어도/ecs
+
+감고당길
+	감고당길/ncn
+
+위에서는
+	위/ncn+에서/jca+는/jxc
+
+역사와
+	역사/ncn+와/jct
+
+함께하는
+	함께하/pvg+는/etm
+
+시간이니
+	시간/ncn+이/jp+니/ecs
+
+의미있는
+	의미/ncpa+있/xsmn+는/etm
+
+것이
+	것/nbn+이/jcc
+
+아닐까요
+	아니/paa+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+덕성여고
+	덕성/ncn+여/ncn+이/jp+고/ecc
+
+안에
+	안/ncn+에/jca
+
+감고당터를
+	감고당터/ncn+를/jco
+
+알리는
+	알리/pvg+는/etm
+
+표지석도
+	표지석/ncn+도/jxc
+
+있다고
+	있/px+다/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+담에는
+	달/paa+ㅁ/etn+에/jca+는/jxc
+
+기회되면
+	기회/ncn+되/xsvn+면/ecs
+
+함
+	하/pvg+ㅁ/etn
+
+확인하고
+	확인/ncpa+하고/jct
+
+싶네요
+	싶/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+20대
+	20/nnc+대/nbu
+
+연인들의
+	연인/ncn+들/ncn+의/jcm
+
+데이트코스로,
+	데이트/ncpa+코스/ncn+로/jca+,/sp
+
+분식집을
+	분식/ncpa+집/ncn+을/jco
+
+찾는
+	찾/pvg+는/etm
+
+이들에게도
+	이/ncn+들/xsncc+에게/jca+도/jxc
+
+반가운
+	반갑/paa+은/etm
+
+길이
+	길/ncn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+감고당길
+	감고당길/ncn
+
+가는길
+	가는길/ncn
+
+
+3호선
+	3/nnc+호/nbu+선/jxc
+
+안국역
+	안국역/ncn
+
+1번출구,
+	1번출구,/ncn
+
+인사동길
+	인사동/ncn+길/ncn
+
+안국역방향
+	안국역방향/ncn
+
+.
+	./sf
+
+
+풍문여고
+	풍문/ncn+여/ncn+이/jp+고/ecc
+
+정문옆길
+	정문/ncn+옆길/ncn
+
+
+감고당길
+	감고당길/ncn
+
+
+서울
+	서울/ncn
+
+종로구
+	종로구/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01945415",
+	"bl01945415",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"13543814",
+	"/sl+13543814/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"감고당길",
+	title:"감고당길",/ncn
+
+pointX:310345,pointY:553249}
+	pointX/f+:/sp+310345/nnc+,/sp+pointY/f+:/sp+553249/nnc+}/sr

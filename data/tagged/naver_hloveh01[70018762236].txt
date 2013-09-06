@@ -1,0 +1,636 @@
+학교
+	학교/ncn
+
+엄마들하고
+	엄마/ncn+들/ncn+하고/jct
+
+목동CGV에서
+	목동CGV/ncn+에서/jca
+
+영화를
+	영화/ncn+를/jco
+
+봤다
+	보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+서른
+	서른/nnc
+
+세
+	세/nnc
+
+살.
+	살/nbu+./sf
+
+남편을
+	남편/ncn+을/jco
+
+잃은
+	잃/pvg+은/etm
+
+그녀는
+	그녀/npp+는/jxc
+
+아들
+	아들/ncn
+
+준과
+	준/ncn+과/jcj
+
+남편의
+	남편/ncn+의/jcm
+
+고향인
+	고향/ncn+이/jp+ㄴ/etm
+
+밀양으로
+	밀/pvg+ㄹ/etm+양/nbn+으로/jca
+
+가고
+	가/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이미
+	이미/mag
+
+그녀는
+	그녀/npp+는/jxc
+
+너무
+	너무/mag
+
+많은
+	많/paa+은/etm
+
+것을
+	것/nbn+을/jco
+
+잃었다
+	잃/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+피아니스트의
+	피아니스트/ncn+의/jcm
+
+희망도
+	희망/ncn+도/jxc
+
+남편에
+	남편/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+꿈도
+	꿈/ncn+도/jxc
+
+...
+	.../se
+
+
+이
+	이/mmd
+
+작은
+	작/paa+은/etm
+
+도시에서
+	도시/ncn+에서/jca
+
+그
+	그/mmd
+
+만큼
+	만큼/nbn
+
+작은
+	작/paa+은/etm
+
+피아노
+	피아노/ncn
+
+학원을
+	학원/ncn+을/jco
+
+연
+	열/pvg+ㄴ/etm
+
+후,
+	후/ncn+,/sp
+
+그녀는
+	그녀/npp+는/jxc
+
+새
+	새/mma
+
+시작을
+	시작/ncpa+을/jco
+
+기약한다
+	기약/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+관객은
+	관객/ncn+은/jxc
+
+이내
+	이내/mag
+
+곧
+	곧/maj
+
+연약한
+	연약/ncps+하/xsms+ㄴ/etm
+
+애벌레처럼
+	애벌레/ncn+처럼/jca
+
+웅크린
+	웅크리/pvg+ㄴ/etm
+
+그녀의
+	그녀/npp+의/jcm
+
+등에서
+	등/nbu+에서/jca
+
+새어
+	새/ncn+이/jp+어/ecs
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+울음소리를
+	울음소리/ncn+를/jco
+
+듣게
+	듣/pvg+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+그녀가
+	그녀/npp+가/jcs
+
+던지는
+	던지/pvg+는/etm
+
+질문에
+	질문/ncpa+에/jca
+
+부딪히게
+	부딪히/pvg+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+당신이라면
+	당신/npp+이/jp+라면/ecs
+
+이래도
+	이렇/pad+어도/ecs
+
+살겠어요
+	살/pvg+겠/ep+어/ef+요/jxf
+
+?...
+	?/sf+.../se
+
+
+삶의
+	삶/ncn+의/jcm
+
+의미를
+	의미/ncpa+를/jco
+
+찾아
+	찾/pvg+아/ecx
+
+헤매는
+	헤매/pvg+는/etm
+
+그녀의
+	그녀/npp+의/jcm
+
+모습에서
+	모습/ncn+에서/jca
+
+우리는
+	우리/npp+는/jxc
+
+새로운
+	새롭/paa+은/etm
+
+전도연을
+	전도/ncn+연/ncn+을/jco
+
+목격하게
+	목격/ncpa+하/xsva+게/ecs
+
+될
+	되/pvg+ㄹ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+시크릿
+	시크릿/ncn
+
+선샤인,
+	선샤인,/ncn
+
+이
+	이/mmd
+
+영화는
+	영화/ncn+는/jxc
+
+전도연
+	전도/ncn+연/ncn
+
+연기
+	연기/ncn
+
+인생의
+	인생/ncn+의/jcm
+
+새
+	새/mma
+
+출발점이다
+	출발점/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+밀양
+	밀/pvg+ㄹ/etm+양/nbn
+
+외곽
+	외곽/ncn
+
+5km.
+	5km./ncn
+
+..
+	./sf+./sf
+
+
+그는
+	그/npp+는/jxc
+
+신애(전도연)를
+	신애(전도연)/ncn+를/jco
+
+처음
+	처음/mag
+
+만난다
+	만나/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+고장으로
+	고장/ncn+으로/jca
+
+서버린
+	서/pvg+어/ecx+버리/px+ㄴ/etm
+
+그녀의
+	그녀/npp+의/jcm
+
+차가
+	차/ncn+가/jcs
+
+카센터
+	카센터/ncn
+
+사장인
+	사/nnc+장/nbu+이/jp+ㄴ/etm
+
+그를
+	그/npp+를/jco
+
+불렀던
+	부르/pvg+었/ep+던/etm
+
+것.
+	것/nbn+./sf
+
+그리고
+	그리고/maj
+
+이
+	이/mmd
+
+낯선
+	낯설/paa+ㄴ/etm
+
+여자는
+	여자/ncn+는/jxc
+
+자신의
+	자신/ncn+의/jcm
+
+목소리처럼
+	목소리/ncn+처럼/jca
+
+잊혀지지
+	잊히/pvg+어/ecx+지/px+지/ecx
+
+않는
+	않/px+는/etm
+
+삶의
+	삶/ncn+의/jcm
+
+일부가
+	일/nnc+부/nbu+가/jcc
+
+되어버린다
+	되/pvg+어/ecx+버리/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그는
+	그/npp+는/jxc
+
+밀양과
+	밀/pvg+ㄹ/etm+양/nbn+과/jct
+
+닮아
+	닮/pvg+아/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+특별할
+	특별/ncps+하/xsms+ㄹ/etm
+
+것이
+	것/nbn+이/jcc
+
+없는
+	없/paa+는/etm
+
+그
+	그/mmd
+
+만큼의
+	만큼/nbn+의/jcm
+
+욕심과
+	욕심/ncn+과/jcj
+
+그
+	그/mmd
+
+만큼의
+	만큼/nbn+의/jcm
+
+속물성과
+	속물/ncn+성/ncn+과/jct
+
+또
+	또/maj
+
+그
+	그/mmd
+
+만큼의
+	만큼/nbn+의/jcm
+
+순진함이
+	순진/ncps+하/xsms+ㅁ/etn+이/jcs
+
+배어
+	배/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+남자
+	남자/ncn
+
+.
+	./sf
+
+
+마을잔치나
+	마을/ncn+잔치/ncpa+나/jcj
+
+동네
+	동네/ncn
+
+상가집에
+	상가/ncn+집/ncn+에/jca
+
+가면
+	가/px+면/ecs
+
+어김없이
+	어김없이/mag
+
+나타나는
+	나타나/pvg+는/etm
+
+그
+	그/mmd
+
+누구처럼
+	누구/npp+처럼/jca
+
+그는
+	그/npp+는/jxc
+
+신애의
+	신/xp+애/ncn+의/jcm
+
+삶에
+	삶/ncn+에/jca
+
+스며든다
+	스며들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+그는
+	그/npp+는/jxc
+
+언제나
+	언제나/mag
+
+그녀의
+	그녀/npp+의/jcm
+
+곁에
+	곁/ncn+에/jca
+
+서
+	서/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+한
+	하/pvg+ㄴ/etm
+
+번쯤은
+	번/nbu+쯤/xsnx+은/jxc
+
+그녀가
+	그녀/npp+가/jcs
+
+자신의
+	자신/ncn+의/jcm
+
+눈을
+	눈/ncn+을/jco
+
+바라봐주길
+	바라봐주길/ncn
+
+기다리며
+	기다리/pvg+며/ecc
+
+...
+	.../se
+
+
+그리고
+	그리고/maj
+
+송강호,
+	송강호,/ncn
+
+그의
+	그/npp+의/jcm
+
+새로운
+	새롭/paa+은/etm
+
+도전을
+	도전/ncn+을/jco
+
+우린
+	우/ncn+이/jp+리/ep+ㄴ/etm
+
+기대하게
+	기대/pvg+어/ecx+하/px+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+그처럼
+	그/npp+처럼/jca
+
+평범하지
+	평범/ncps+하/xsms+지/ecx
+
+않은
+	않/px+은/etm
+
+여자를
+	여자/ncn+를/jco
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+남자,
+	남자/ncn+,/sp
+
+그처럼
+	그/npp+처럼/jca
+
+아파하는
+	아프/paa+아/ecx+하/px+는/etm
+
+여자의
+	여자/ncn+의/jcm
+
+곁을
+	곁/ncn+을/jco
+
+지키고
+	지키/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+이
+	이/mmd
+
+남자의
+	남자/ncn+의/jcm
+
+시선과
+	시선/ncn+과/jcj
+
+사랑을
+	사랑/ncn+을/jco
+
+그는
+	그/npp+는/jxc
+
+어떻게
+	어떻/pad+게/ecs
+
+표현할까
+	표현/ncpa+하/xsva+ㄹ까/ef
+
+?
+	?/sf

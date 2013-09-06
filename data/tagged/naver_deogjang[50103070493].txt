@@ -1,0 +1,1138 @@
+위치
+	위치/ncn
+
+:
+	:/sp
+
+충남
+	충남/ncn
+
+보령시
+	보령시/ncn
+
+청라면
+	청/ncn+라면/jca
+
+장현리
+	장현리/ncn
+
+산52~2번지
+	산52~2번지/ncn
+
+문의041]936~5465
+	문의041/ncn+]/sr+936/nnc+~/sd+5465/nnc
+
+
+가는
+	가/pvg+는/etm
+
+길
+	길/ncn
+
+:
+	:/sp
+
+서울역에서~1일16회[05:20~20:40]운행하는
+	서울역에서~1일16회[05:20~20:40]운행하/ncn+는/jxc
+
+장항선
+	장항선/ncn
+
+열차이용
+	열차/ncn+이용/ncpa
+
+광천
+	광천/ncn
+
+역
+	역/ncn
+
+하차
+	하차/ncn
+
+
+광천역에서
+	광천역/ncn+에서/jca
+
+정암사아래
+	정암사아래/ncn
+
+상담아을로가는
+	상담아을로가/ncn+는/jxc
+
+군내버스가
+	군내/ncn+버스/ncn+가/jcs
+
+1일6회[07:20,9:20,11:0013:50,17:00,18:30]운행
+	1일6회/ncn+[/sl+07/nnc+:/sp+20/nnc+,/sp+9/nnc+:/sp+20/nnc+,/sp+11/nnc+:/sp+0013/nnc+:/sp+50/nnc+,/sp+17/nnc+:/sp+00/nnc+,/sp+18/nnc+:/sp+30/nnc+]/sr+운행/ncpa
+
+
+버스
+	버스/ncn
+
+:
+	:/sp
+
+강변역
+	강변/ncn+역/ncn
+
+동서울터미널~광천
+	동서울터미널~광천/ncn
+
+행[첫차08:20~막차17:50,]소요시간2시간50분
+	행[첫차08:20~막차17:50,]소요시간2시간50분/ncn
+
+요금10400
+	요금10400/ncn
+
+
+문의02,453~8641
+	문의02,453~8641/ncn
+
+1668~5979
+	1668/nnc+~/sd+5979/nnc
+
+
+광천버스터미널에서~상담
+	광천버스터미널에서~상담/ncn
+
+마을이나
+	마을/ncn+이나/jcj
+
+성연리
+	성연리/ncn
+
+행
+	행/nbu
+
+시내버스
+	시내/ncn+버스/ncn
+
+하루3/4회
+	하루3/4회/ncn
+
+운행[광천택시041,641,2000]
+	운행[광천택시041/ncn+,/sp+641,200/nnc+0/nnc+]/sr
+
+
+오서산
+	오서산/ncn
+
+높이는
+	높이/pvg+는/etm
+
+791m로
+	791m/ncn+로/jca
+
+금북정맥의
+	금북정맥/ncn+의/jcm
+
+최고봉이다,예로부터
+	최고봉/ncn+이/jp+다/ef+,/sp+예/npp+로/jca+부터/jxc
+
+까마귀와
+	까마귀/ncn+와/jcj
+
+까치가
+	까치/ncn+가/jcs
+
+많이
+	많/paa+이/xsa
+
+살아
+	살/pvg+아/ecx
+
+까마귀
+	까마귀/ncn
+
+
+보금자리[
+	보금자리[/ncn
+
+]라고하는데
+	]/sr+라/ncn+이/jp+고/ecx+하/px+ㄴ데/ecs
+
+추운
+	춥/paa+은/etm
+
+날씨에
+	날씨/ncn+에/jca
+
+눈마저
+	눈/ncn+마저/jxc
+
+많이
+	많/paa+이/xsa
+
+쌓여
+	쌓이/pvg+어/ecx
+
+먹을것을
+	먹/pvg+을/etm+것/nbn+을/jco
+
+찾지못해
+	찾/pvg+지/ecx+못하/px+어/ecx
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+해외
+	해외/ncn
+
+
+원정을
+	원정/ncn+을/jco
+
+떠난나
+	떠난나/ncn
+
+봅니다
+	보/pvg+ㅂ니다/ef
+
+
+겨울철
+	겨울철/ncn
+
+산행
+	산행/ncn
+
+날씨로는
+	날씨/ncn+로/jca+는/jxc
+
+매우
+	매우/mag
+
+쾌청하며
+	쾌청/ncps+하/xsms+며/ecc
+
+능선에서
+	능선/ncn+에서/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+파노라마는
+	파노라마/ncn+는/jxc
+
+장관이다
+	장관/ncr+이/jp+다/ef
+
+주능선
+	주능선/ncn
+
+오른쪽
+	오른쪽/ncn
+
+
+멀리로
+	멀/paa+ㄹ/etm+리/nbn+로/jca
+
+광덕산에서
+	광덕산/ncn+에서/jca
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+금북정맥이
+	금북정맥/ncn+이/jcc
+
+한눈에
+	한눈/ncn+에/jca
+
+보이고
+	보이/pvg+고/ecc
+
+저
+	저/mmd
+
+멀리
+	멀리/mag
+
+눈덮힌
+	눈덮힌/ncn
+
+성연리
+	성연리/ncn
+
+저수지가
+	저수지/ncn+가/jcc
+
+
+눈에
+	눈/ncn+에/jca
+
+드러온다
+	드러온다/ncn
+
+
+오서산은
+	오서산/ncn+은/jxc
+
+충남
+	충남/ncn
+
+홍성군과
+	홍성군/ncn+과/jcj
+
+보령시
+	보령시/ncn
+
+경계에
+	경계/ncn+에/jca
+
+솟아있으며
+	솟/pvg+아/ecx+있/px+으며/ecc
+
+충남권에서는
+	충남권에서/ncn+는/jxc
+
+높은
+	높/paa+은/etm
+
+산에
+	산/ncn+에/jca
+
+속한다
+	속하/pvg+ㄴ다/ef
+
+오서산
+	오서산/ncn
+
+
+동쪽으로는
+	동쪽/ncn+으로/jca+는/jxc
+
+자연휴양림이
+	자연/ncn+휴양림/ncn+이/jcc
+
+들어서
+	들/pvg+어서/ecs
+
+있으며
+	있/px+으며/ecc
+
+북쪽의
+	북쪽/ncn+의/jcm
+
+홍성군
+	홍성군/ncn
+
+권역에는
+	권역/ncn+에/jca+는/jxc
+
+정암사
+	정암사/ncn
+
+내원사
+	내원사/ncn
+
+등
+	등/nbu
+
+사찰이
+	사찰/ncn+이/jcc
+
+
+자리잡고있다
+	자리잡/pvg+고/ecx+있/px+다/ef
+
+
+오서산은
+	오서산/ncn+은/jxc
+
+장항선
+	장항선/ncn
+
+광천역에서
+	광천역/ncn+에서/jca
+
+4km의
+	4km/ncn+의/jcm
+
+거리에
+	거리/ncn+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+열차를
+	열차/ncn+를/jco
+
+이용한
+	이용/ncpa+하/xsva+ㄴ/etm
+
+산행지로
+	산행/ncn+지로/ncn
+
+인기가
+	인기/ncn+가/jcs
+
+매우
+	매우/mag
+
+높다
+	높/paa+다/ef
+
+
+금북정맥의
+	금북정맥/ncn+의/jcm
+
+최고봉
+	최고봉/ncn
+
+그안에
+	그/npp+안/xsnx+에/jca
+
+정암사가
+	정암사/ncn+가/jcs
+
+자리하고
+	자리/ncn+하고/jct
+
+있어
+	있/px+어/ecx
+
+참배객이
+	참배/ncpa+객/ncn+이/jcc
+
+끊이지
+	끊이/pvg+지/ecx
+
+않는다고
+	않/px+는다/ef+고/jcr
+
+한다
+	하/pvg+ㄴ다/ef
+
+
+오서산의
+	오서산/ncn+의/jcm
+
+최고
+	최고/ncn
+
+백미는
+	백미/ncn+는/jxc
+
+7부
+	7/nnc+부/nbu
+
+능선만
+	능선/ncn+만/jxc
+
+오르면
+	오르/pvg+면/ecs
+
+서해바다를
+	서해바다/ncn+를/jco
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+상쾌함과
+	상쾌/ncps+함/ncn+과/jcj
+
+후련함이
+	후련/ncps+하/xsms+ㅁ/etn+이/jcs
+
+교차한다
+	교차/ncpa+하/xsva+ㄴ다/ef
+
+
+정상까지는
+	정상/ncn+까지/jxc+는/jxc
+
+구간
+	구간/ncn
+
+구간
+	구간/ncn
+
+가파르면서
+	가파르/paa+면서/ecc
+
+바윗길이
+	바윗길/ncn+이/jcc
+
+자리해
+	자리/ncn+해/ncn
+
+약1시간넘게
+	약1시간넘게/ncn
+
+산행
+	산행/ncn
+
+기분을
+	기분/ncn+을/jco
+
+만끽할수있어
+	만끽/ncpa+하/xsva+ㄹ/etm+수/nbn+있/xsmn+어/ecs
+
+
+산악인들의
+	산악/ncn+이/jp+ㄴ/etm+들/nbn+의/jcm
+
+인기가
+	인기/ncn+가/jcs
+
+높다
+	높/paa+다/ef
+
+
+오서산의
+	오서산/ncn+의/jcm
+
+처녀
+	처녀/ncn
+
+바위
+	바위/ncn
+
+전설를
+	전설/ncn+를/jco
+
+아시나요
+	아시/ncn+이/jp+나요/ef
+
+
+옛날
+	옛날/ncn
+
+가난하나
+	가난/ncps+하/xsms+어/ecx+나/px+아/ecx
+
+효심이
+	효심/ncn+이/jcc
+
+지극한
+	지극/ncps+하/xsms+ㄴ/etm
+
+어느
+	어느/mmd
+
+처녀가
+	처녀/ncn+가/jcs
+
+중풍에
+	중풍/ncn+에/jca
+
+시달리는
+	시달리/pvg+는/etm
+
+어머니의
+	어머니/ncn+의/jcm
+
+병을
+	병/nbu+을/jco
+
+고치고자
+	고치/pvg+고자/ecx
+
+산삼을
+	산삼/ncn+을/jco
+
+
+캐러
+	캐/pvg+러/ecs
+
+오서산에
+	오서산/ncn+에/jca
+
+올랐다
+	오르/pvg+아/ep+다/ef
+
+사무친
+	사무치/pvg+ㄴ/etm
+
+정성의
+	정성/ncn+의/jcm
+
+덕이었던지
+	덕/ncn+이/jp+었/ep+던/etm+지/nbn
+
+천년
+	천/nnc+년/nbu
+
+산삼을
+	산삼/ncn+을/jco
+
+캐게
+	캐/pvg+게/ecs
+
+되었는데
+	되/pvg+었/ep+는데/ecs
+
+그만
+	그/npp+만/jxc
+
+오서산의
+	오서산/ncn+의/jcm
+
+
+노염을
+	노염/ncn+을/jco
+
+사
+	사/pvg+아/ecx
+
+산삼은
+	산삼/ncn+은/jxc
+
+커녕
+	커녕/ncn
+
+목숨마저
+	목숨/ncn+마저/jxc
+
+빼앗기게
+	빼앗기/pvg+게/ecs
+
+되었다
+	되/pvg+었/ep+다/ef
+
+어머니에게
+	어머니/ncn+에게/jca
+
+산삼을
+	산삼/ncn+을/jco
+
+달여드린뒤
+	달여드린뒤/ncn
+
+다시
+	다시/mag
+
+오겠
+	오겠/ncn
+
+
+다는
+	다/mag+는/jxc
+
+간곡한
+	간곡/ncps+하/xsms+ㄴ/etm
+
+청이
+	청/ncn+이/jcc
+
+받아들여져
+	받/pvg+아/ecx+들이/px+어/ecx+지/px+어/ecx
+
+산삼을
+	산삼/ncn+을/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+집에
+	집/ncn+에/jca
+
+내려온
+	내리/pvg+어/ecx+오/px+ㄴ/etm
+
+효녀는그
+	효녀는그/ncn
+
+산삼으로
+	산삼/ncn+으로/jca
+
+어머니의
+	어머니/ncn+의/jcm
+
+
+병을
+	병/nbu+을/jco
+
+낫게하고
+	낫/paa+게/ecx+하/px+고/ecc
+
+약속대로
+	약속/ncpa+대로/jca
+
+오서산을
+	오서산/ncn+을/jco
+
+다시
+	다시/mag
+
+찾아
+	찾/pvg+아/ecx
+
+갔는데
+	가/px+아/ep+ㄴ데/ecs
+
+무정한
+	무정/ncps+하/xsms+ㄴ/etm
+
+산신은
+	산신/ncn+은/jxc
+
+그
+	그/mmd
+
+효녀를
+	효녀/ncn+를/jco
+
+산삼
+	산삼/ncn
+
+켄
+	켄/ncn
+
+자리에
+	자리/ncn+에/jca
+
+
+바위로
+	바위/ncn+로/jca
+
+만들어
+	만들/pvg+어/ecx
+
+버렸다
+	버리/px+었/ep+다/ef
+
+그
+	그/mmd
+
+바위가
+	바위/ncn+가/jcs
+
+정암사에서
+	정암사/ncn+에서/jca
+
+올려다
+	올리/pvg+어다/ecs
+
+보이는
+	보이/pvg+는/etm
+
+처녀바위인
+	처녀/ncn+바위/ncn+이/jp+ㄴ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+
+충청도
+	충청/ncn+도/jxc
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+이
+	이/mmd
+
+산이
+	산/ncn+이/jcc
+
+옛부터
+	옛부터/ncn
+
+선골풍의
+	선골풍/ncn+의/jcm
+
+도인을
+	도인/ncn+을/jco
+
+많이
+	많/paa+이/xsa
+
+배출해
+	배출/ncpa+하/xsva+어/ecx
+
+신령한
+	신령/ncpa+하/xsva+ㄴ/etm
+
+산
+	사/pvg+ㄴ/etm
+
+혹은
+	혹은/maj
+
+기가센
+	기가센/ncn
+
+산으로
+	산/ncn+으로/jca
+
+
+여기고
+	여기/npd+이/jp+고/ecc
+
+있다
+	있/px+다/ef
+
+이런
+	이런/mmd
+
+믿음을
+	믿음/ncn+을/jco
+
+굳게한
+	굳/paa+게/ecx+하/px+ㄴ/etm
+
+사람이
+	사람/ncn+이/jcc
+
+바로
+	바로/mag
+
+조선
+	조선/ncpa
+
+중기의
+	중기/ncn+의/jcm
+
+기인으로
+	기인/ncn+으로/jca
+
+통했던
+	통하/pvg+었/ep+던/etm
+
+토정
+	토정/ncn
+
+이지함이다
+	이지/ncn+함/ncn+이/jp+다/ef
+
+
+이
+	이/mmd
+
+산자락에
+	산자락/ncn+에/jca
+
+토정의
+	토정/ncn+의/jcm
+
+생가가
+	생가/ncn+가/jcs
+
+있었고
+	있/px+었/ep+고/ecc
+
+보령에는
+	보령/ncn+에/jca+는/jxc
+
+그의
+	그/npp+의/jcm
+
+무덤이
+	무덤/ncn+이/jcc
+
+남아있다
+	남아/ncn+있/xsmn+다/ef
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc24/2011/01/16/1059/03100223D15853CE59C3991453755BF3A48_deogjang_logo.
+	net/blogucc24/2011/01/16/1059/03100223D15853CE59C3991453755BF3A48_deogjang_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'196.
+	'/sr+196./nnc
+
+3';
+	3/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'2D69D3F77353F89B45E321BBC4B8C8B7DAB5';
+	'2D69D3F77353F89B45E321BBC4B8C8B7DAB5/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V124598a093c81c0b2da9a81b03812845f8f5204b8f2258329c640faeb5385d7c6d2ba81b03812845f8f5';
+	'V124598a093c81c0b2da9a81b03812845f8f5204b8f2258329c640faeb5385d7c6d2ba81b03812845f8f5/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_09673
+	ugcPlayer_09673/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_09673'
+	VideoInfraUGCPlayer('ugcPlayer_09673'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_09673
+	ugcPlayer_09673/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr

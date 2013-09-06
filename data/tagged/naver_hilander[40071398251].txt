@@ -1,0 +1,553 @@
+파르미
+	파르미/ncn
+
+이탈리아노
+	이탈리아노/ncn
+
+신촌점
+	신촌점/ncn
+
+
+신촌에서이미
+	신촌에서이미/ncn
+
+유명한
+	유명/ncn+한/ncn
+
+집
+	집/ncn
+
+같은데
+	같/paa+은데/ecs
+
+
+처음
+	처음/mag
+
+방문했다~
+	방문/ncpa+하/xsva+었/ep+다/ef+~/sd
+
+
+입구가
+	입구/ncn+가/jcs
+
+살짝
+	살짝/mag
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+느낌이지만
+	느낌/ncn+이/jp+지만/ecs
+
+실내는
+	실내/ncn+는/jxc
+
+전혀
+	전혀/mag
+
+그렇지
+	그렇/pad+지/ecx
+
+않다
+	않/paa+다/ef
+
+
+파르미(Parmi)는
+	파르미(Parmi)/ncn+는/jxc
+
+파마산
+	파마/ncpa+산/ncn
+
+치즈의
+	치즈/ncn+의/jcm
+
+원래
+	원래/mag
+
+이름인'파르미자노
+	이름인'파르미자노/ncn
+
+레자노'에서
+	레자노'/ncn+에서/jca
+
+따온
+	뜨/pvg+어/ecx+오/px+ㄴ/etm
+
+말이다
+	말/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+메뉴판
+	메뉴판/ncn
+
+
+분위기
+	분위기/ncn
+
+있는
+	있/px+는/etm
+
+실내에
+	실내/ncn+에/jca
+
+맞춰
+	맞추/pvg+어/ecx
+
+가격대도
+	가격대/ncn+도/jxc
+
+아주
+	아주/mag
+
+저렴하진
+	저렴/ncps+하/xsms+어/ecx+지/px+ㄴ/etm
+
+않다
+	않/paa+다/ef
+
+
+이정도
+	이/nnc+정/nbu+도/jxc
+
+분위기에
+	분위기/ncn+에/jca
+
+맛까지
+	맛/ncn+까지/jxc
+
+있다면
+	있/px+다면/ecs
+
+이정도
+	이/nnc+정/nbu+도/jxc
+
+가격은
+	가격/ncn+은/jxc
+
+이해해
+	이해/ncpa+하/xsva+어/ecx
+
+주리라
+	주/px+리라/ef
+
+다짐
+	다짐/ncpa
+
+하고
+	하/pvg+고/ecc
+
+주문
+	주문/ncn
+
+..
+	./sf+./sf
+
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+크림파스타를
+	크림/ncn+파스타/ncn+를/jco
+
+잘
+	잘/mag
+
+한다고
+	하/px+ㄴ다/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+들렸으니
+	들/pvg+리/ep+었/ep+으니/ecc
+
+
+까르보나라
+	까르보나라/ncn
+
+주문~
+	주문/ncn+~/sd
+
+
+간만에
+	간만/ncn+에/jca
+
+이탈리아
+	이탈리아/ncn
+
+피자도
+	피자/ncn+도/jxc
+
+맛보고
+	맛보/pvg+고/ecc
+
+싶어서
+	싶/px+어서/ecs
+
+뭘
+	뭐/npd+을/jco
+
+고를까하다가
+	고를까하/ncn+이/jp+다가/ecs
+
+..
+	./sf+./sf
+
+
+이집
+	이집/ncpa
+
+내공을
+	내공/ncn+을/jco
+
+보기위해
+	보기/ncn+위해/ncn
+
+제일
+	제일/mag
+
+기본인
+	기본/ncn+이/jp+ㄴ/etm
+
+마르게리타
+	마르게리타/ncn
+
+주문~
+	주문/ncpa+~/sd
+
+^^
+	^/sy+^/sy
+
+
+식전빵도
+	식전/ncn+빵/ncn+도/jxc
+
+맛있다^^
+	맛있다/ncn+^/sy+^/sy
+
+
+평범해
+	평범/ncps+하/xsms+어/ecx
+
+보이지만
+	보이/pvg+지만/ecs
+
+직접
+	직접/mag
+
+만든
+	만들/pvg+ㄴ/etm
+
+빵이란다
+	빵이란다/ncn
+
+
+올리브
+	올리브/ncn
+
+오일에
+	오/nnc+일/nbu+에/jca
+
+발사믹
+	발사믹/ncn
+
+..
+	./sf+./sf
+
+
+까르보나라
+	까르보나/ncn+이/jp+라/ecs
+
+
+오~
+	오/nnc+~/sd
+
+맛있다
+	맛있/paa+다/ef
+
+
+면도
+	면/nbu+도/jxc
+
+괜찮고
+	괜찮/paa+고/ecc
+
+뭐니뭐니해도
+	뭐니뭐니해도/mag
+
+크림소스가
+	크림/ncn+소스/ncn+가/jcs
+
+굿이다
+	굿/ncn+이/jp+다/ef
+
+^^
+	^/sy+^/sy
+
+
+왜
+	왜/mag
+
+이런집을
+	이런집/ncn+을/jco
+
+이제야
+	이제야/mag
+
+알았을까
+	알/pvg+아/ep+ㄹ까/ecs
+
+T_T
+	T_T/ncn
+
+
+(하긴
+	(/sl+하긴/mag
+
+신촌에서
+	신/xp+촌/ncn+에서/jca
+
+밥먹은게
+	밥먹/pvg+은게/ecs
+
+거의
+	거의/mag
+
+10년만인듯
+	10년만인듯/ncn
+
+-.
+	-/sd+./sy
+
+-;;)
+	-/sd+;/sy+;/sy+)/sr
+
+
+피클
+	피클/ncn
+
+
+싱싱하니
+	싱싱/ncps+하/xsms+니/ecs
+
+직접
+	직접/mag
+
+만들어
+	만들/pvg+어/ecx
+
+내는듯
+	내/pvg+는/etm+듯/nbs
+
+
+마르게리타
+	마르게리타/ncn
+
+피자
+	피자/ncn
+
+
+화덕에
+	화덕/ncn+에/jca
+
+구웠는지
+	굽/pvg+었/ep+는지/ecs
+
+그을린
+	그을리/pvg+ㄴ/etm
+
+자국까지
+	자국/ncn+까지/jxc
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+송송
+	송송/mag
+
+올려져
+	올리/pvg+어/ecx+지/px+어/ecx
+
+있는
+	있/px+는/etm
+
+치즈도
+	치즈/ncn+도/jxc
+
+맛난다
+	맛나/paa+ㄴ다/ef
+
+
+디져트까지
+	디져트까지/ncn
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+
+크림
+	크림/ncn
+
+파스타
+	파스타/ncn
+
+잘하는곳을
+	잘하는곳/ncn+을/jco
+
+또
+	또/maj
+
+한군데
+	하/pvg+ㄴ/etm+군데/nbn
+
+알아서
+	알/pvg+아/ecx
+
+기분이
+	기분/ncn+이/jcc
+
+좋다
+	좋/paa+다/ef
+
+
+(더많이
+	(더많/ncn+이/jcc
+
+생겨야
+	생기/pvg+어야/ecs
+
+할텐데
+	하/pvg+ㄹ텐데/ecs
+
+..
+	./sf+./sf
+
+
+)
+	)/sr
+
+
+파스타도
+	파스타/ncn+도/jxc
+
+맛있고
+	맛있/paa+고/ecc
+
+피자도
+	피자/ncn+도/jxc
+
+맛있다^^
+	맛있다/ncn+^/sy+^/sy
+
+
+신촌에서
+	신/xp+촌/ncn+에서/jca
+
+파스타나
+	파스타/ncn+나/jcj
+
+피자를
+	피자/ncn+를/jco
+
+먹고싶을때
+	먹/pvg+고/ecx+싶/px+을/etm+때/nbn
+
+가끔
+	가끔/mag
+
+들러야겠다
+	들르/pvg+어야겠/ep+다/ef
+
+.
+	./sf
+
+
+담번엔
+	담번엔/ncn
+
+다른
+	다른/mma
+
+종류를
+	종류/ncn+를/jco
+
+먹어봐야지~
+	먹/pvg+어/ecx+보/px+아/ecs+~/sd
+
+
+인상
+	인상/ncn
+
+좋으신
+	좋/paa+으시/ep+ㄴ/etm
+
+사장님덕에
+	사장님/ncn+덕/ncn+에/jca
+
+나올때
+	나/pvg+아/ecx+오/px+ㄹ/etm+때/nbn
+
+기분까지
+	기분/ncn+까지/jxc
+
+좋아지는곳
+	좋아지는곳/ncn
+
+..
+	./sf+./sf
+
+
+파르미이탈리아노
+	파르미이탈리아노/ncn
+
+
+02-365-1080
+	02/nnc+-365/nnc+-1080/nnc
+
+
+서울시
+	서울시/ncn
+
+서대문구
+	서대문구/ncn
+
+창천동
+	창천동/ncn
+
+31-36
+	31/nnc+-36/nnc
+
+
+신촌역
+	신촌역/ncn
+
+3번출구에서
+	3번출구/ncn+에서/jca
+
+연대방향으로
+	연대/ncn+방향/ncn+으로/jca
+
+가다가
+	가/pvg+아/ecx+가/px+아/ecx
+
+파스쿠치
+	파스쿠치/ncn
+
+지나서
+	지나/pvg+아/ecx
+
+오른쪽에
+	오르/pvg+ㄴ/etm+쪽/nbn+에/jca
+
+위치
+	위치/ncn

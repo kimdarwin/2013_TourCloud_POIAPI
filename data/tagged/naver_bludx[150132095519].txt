@@ -1,0 +1,982 @@
+[충남
+	[충남/ncn
+
+아산
+	아산/ncn
+
+재래시장
+	재래시장/ncn
+
+추천
+	추천/ncpa
+
+가게]
+	가/px+게/ecs+]/sr
+
+호
+	호/nbu
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+호
+	호/nbu
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+호
+	호/nbu
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+삼색호떡으로
+	삼색/ncn+호떡/ncn+으로/jca
+
+겨울나기
+	겨울나/pvg+기/etn
+
+
+삼색호떡집
+	삼색/ncn+호떡/ncn+집/ncn
+
+.
+	./sf
+
+
+온양재래시장
+	온양재래시장/ncn
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+NEX-C3
+	NEX-C3/ncn
+
+
+온양재래시장엔
+	온양재래시장엔/ncn
+
+먹거리도
+	먹거리/ncn+도/jxc
+
+많고
+	많/paa+고/ecc
+
+볼거리도
+	볼거리/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+있는
+	있/px+는/etm
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+온양재래시장에서
+	온양재래시장/ncn+에서/jca
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+가장
+	가장/mag
+
+많고
+	많/paa+고/ecc
+
+인기있는
+	인기/ncn+있/xsmn+는/etm
+
+가게를
+	가게/ncn+를/jco
+
+발견했습니다
+	발견/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+두둥
+	두둥/ncn
+
+!
+	!/sf
+
+
+~
+	~/sd
+
+
+바로
+	바로/mag
+
+바로
+	바로/mag
+
+삼색호떡집입니다
+	삼색/ncn+호떡/ncn+집/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+온양에선
+	오/px+ㄴ/etm+양/nbn+에/jca+선/jxc
+
+꽤
+	꽤/mag
+
+유명하다고
+	유명/ncps+하/xsms+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+삼색호떡집은
+	삼색/ncn+호떡/ncn+집/ncn+은/jxc
+
+복분자,
+	복분자,/ncn
+
+시금치,
+	시금치/ncn+,/sp
+
+흑임자로
+	흑임자로/ncn
+
+세종류입니다
+	세종류/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+속엔
+	속/ncn+엔/jca
+
+호떡소스와
+	호떡/ncn+소스/ncn+와/jct
+
+씹는
+	씹/pvg+는/etm
+
+맛이
+	맛/ncn+이/jcc
+
+더한
+	더하/paa+ㄴ/etm
+
+해바라기
+	해바라기/ncn
+
+씨가
+	쓰/pvg+어/ecx+가/px+아/ecx
+
+들어있어요
+	들어있/paa+어요/ef
+
+
+많이
+	많/paa+이/xsa
+
+달지도
+	달/paa+ㄹ지/ecs+도/jxc
+
+또
+	또/maj
+
+안달지도
+	안달/ncpa+지도/ncn
+
+적당히
+	적당히/mag
+
+달달하면서
+	달달하/ncn+이/jp+면서/ecc
+
+고소합니다
+	고소/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+쌀로
+	쌀/ncn+로/jca
+
+만들어서
+	만들/pvg+어서/ecs
+
+식어도
+	식/pvg+어도/ecs
+
+맛있습니다
+	맛있/paa+습니다/ef
+
+.
+	./sf
+
+
+쫄깃쫄깃하고
+	쫄깃쫄깃하/ncn+이/jp+고/ecc
+
+맛나더라고요
+	맛나/paa+더/ep+라고/ef+요/jxf
+
+
+삼색호떡집
+	삼색/ncn+호떡/ncn+집/ncn
+
+.
+	./sf
+
+
+온양재래시장
+	온양재래시장/ncn
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+A550
+	A550/ncn
+
+
+제가
+	저/npp+가/jcs
+
+기다리면서
+	기다리/pvg+면서/ecc
+
+호떡을
+	호떡/ncn+을/jco
+
+계속
+	계속/mag
+
+지켜봤는데요
+	지키/pvg+어/ecx+보/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+색감부터
+	색감/ncn+부터/jxc
+
+식감을
+	식감/ncn+을/jco
+
+자극하고
+	자극/ncpa+하고/jct
+
+미리
+	미리/mag
+
+만드시는
+	만들/pvg+시/ep+는/etm
+
+법이
+	법/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+주문받으면
+	주문/ncpa+받/xsva+으면/ecs
+
+그때
+	그때/npd
+
+만드시더라고요
+	만들/pvg+시/ep+더/ep+라고/ef+요/jxf
+
+.
+	./sf
+
+
+조금이라도
+	조금/ncn+이/jp+라/ecs+도/jxc
+
+더
+	더/mag
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+호떡을
+	호떡/ncn+을/jco
+
+주기위한
+	주기/ncn+위한/ncn
+
+주인의
+	주인/ncn+의/jcm
+
+작은
+	작/paa+은/etm
+
+배려
+	배/ncn+이/jp+려/ecs
+
+아닐까요
+	아니/paa+ㄹ까/ef+요/jxf
+
+.
+	./sf
+
+
+좀
+	좀/mag
+
+기다려야하는
+	기다리/pvg+어야/ecx+하/px+는/etm
+
+번거로움은
+	번거/ncps+롭/xsmn+음/etn+은/jxc
+
+있겠지만,,,,
+	있/px+겠/ep+지만/ecs+,/sp+,/sp+,/sp+,/sp
+
+뭐
+	뭐/npd
+
+맛만
+	맛/ncn+만/jxc
+
+있다면
+	있/px+다면/ecs
+
+기다리는
+	기다리/pvg+는/etm
+
+것
+	것/nbn
+
+쯤이야
+	쯤/ncn+이야/jcv
+
+
+삼색호떡의
+	삼색/ncn+호떡/ncn+의/jcm
+
+비밀은
+	비밀/ncn+은/jxc
+
+색에만
+	색/ncn+에/jca+만/jxc
+
+있을게
+	있을/ncn+게/jca
+
+아니었습니다
+	아니/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+일반
+	일반/ncn
+
+호떡을
+	호떡/ncn+을/jco
+
+먹으면
+	먹/pvg+으면/ecs
+
+한입
+	한입/ncn
+
+베어
+	베/pvg+어/ecx
+
+물면
+	물/pvg+면/ecs
+
+줄줄
+	줄줄/mag
+
+흐르기
+	흐르/pvg+기/etn
+
+일수인데
+	일/pvg+ㄹ/etm+수/nbn+이/jp+ㄴ데/ecs
+
+반해
+	반해/ncn
+
+
+돌아다니면서
+	돌아다니/pvg+면서/ecc
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있게
+	있/px+게/ecs
+
+내용물이
+	내용/ncn+물/ncn+이/jcc
+
+흐르지
+	흐르/pvg+지/ecx
+
+않았습니다
+	않/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+저도
+	저/npp+도/jxc
+
+호떡
+	호떡/ncn
+
+먹으면서
+	먹/pvg+으면서/ecc
+
+옷에도
+	옷/ncn+에/jca+도/jxc
+
+흘리고
+	흘리/pvg+고/ecc
+
+입천장이
+	입천장/ncn+이/jcc
+
+홀라당
+	홀라당/ncn
+
+데여본
+	데/nbn+이/jp+어/ecx+보/px+ㄴ/etm
+
+경험이
+	경험/ncpa+이/jcc
+
+많아서
+	많/paa+아서/ecs
+
+
+요
+	요/mmd
+
+녀석
+	녀석/nbn
+
+매력
+	매력/ncn
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+추운날씨에
+	추운날씨/ncn+에/jca
+
+시장
+	시장/ncn
+
+돌아다니면서
+	돌아다니/pvg+면서/ecc
+
+다
+	다/mag
+
+먹은
+	먹/pvg+은/etm
+
+것
+	것/nbn
+
+같아요
+	같/paa+아요/ef
+
+
+현이는
+	현/ncn+이/jp+는/etm
+
+세가지
+	세/nnc+가지/nbu
+
+맛이
+	맛/ncn+이/jcc
+
+궁금해서
+	궁금/ncps+하/xsms+어서/ecs
+
+색색별로
+	색색/ncn+별/ncn+로/jca
+
+시식하였답니다
+	시식/ncpa+하/xsva+었/ep+답니다/ef
+
+.
+	./sf
+
+
+아직도
+	아직/mag+도/jxc
+
+생각이
+	생각/ncpa+이/jcc
+
+나는데요
+	나/px+ㄴ데/ef+요/jxf
+
+_
+	_/ncn
+
+
+쫄깃쫄깃
+	쫄깃쫄깃/ncn
+
+고소하고
+	고소/ncn+하고/jct
+
+달달한
+	달달한/ncn
+
+호떡
+	호떡/ncn
+
++_+
+	+_+/ncn
+
+
+삼색호떡집
+	삼색/ncn+호떡/ncn+집/ncn
+
+.
+	./sf
+
+
+온양재래시장
+	온양재래시장/ncn
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+NEX-C3
+	NEX-C3/ncn
+
+
+삼색호떡집은
+	삼색/ncn+호떡/ncn+집/ncn+은/jxc
+
+튀김과
+	튀김/ncn+과/jcj
+
+떡볶이
+	떡볶이/ncn
+
+어묵도
+	어묵/ncn+도/jxc
+
+같이
+	같/paa+이/xsa
+
+하더라고요
+	하/px+더/ep+라고/ef+요/jxf
+
+.
+	./sf
+
+
+얼마나
+	얼마나/mag
+
+인기가
+	인기/ncn+가/jcs
+
+많은지
+	많/paa+은/etm+지/nbn
+
+튀김도
+	튀기/pvg+ㅁ/etn+도/jxc
+
+금방
+	금방/mag
+
+다
+	다/mag
+
+팔렸습니다
+	팔리/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+튀겨주는
+	튀기/pvg+어/ecx+주/px+는/etm
+
+주는
+	주/px+는/etm
+
+센스~
+	센스/ncn+~/sd
+
+^_^b
+	^_/ncn+^/sy+b/f
+
+
+삼색호떡집
+	삼색/ncn+호떡/ncn+집/ncn
+
+.
+	./sf
+
+
+온양재래시장
+	온양재래시장/ncn
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+A550
+	A550/ncn
+
+
+새우튀김,
+	새우/ncn+튀김/ncn+,/sp
+
+김말이,
+	김/ncn+말/xsncc+이/jcc+,/sp
+
+고추튀김,
+	고추/ncn+튀김/ncn+,/sp
+
+고구마튀김
+	고구마/ncn+튀김/ncn
+
+
+시장인심만큼
+	시장/ncn+인심/ncn+만큼/jxc
+
+상상도
+	상상/ncn+도/jxc
+
+못할
+	못하/px+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+튀김크기도
+	튀김/ncn+크기/ncn+도/jxc
+
+어마어마하네요~
+	어마어마/ncps+하/xsms+네요/ef+~/sd
+
+
+무척이나
+	무척/mag+이나/jxc
+
+생각나는데요
+	생각나/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+삼색호떡집
+	삼색/ncn+호떡/ncn+집/ncn
+
+.
+	./sf
+
+
+온양재래시장
+	온양재래시장/ncn
+
+.
+	./sf
+
+
+SONY
+	SONY/f
+
+A550
+	A550/ncn
+
+
+위
+	위/ncn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+중에
+	중/nbn+에/jca
+
+아저씨께서
+	아저씨/ncn+께서/jcs
+
+따끈따끈하게갓
+	따끈따끈하게갓/ncn
+
+만들려고
+	만들/pvg+려고/ecs
+
+기름
+	기르/pvg+ㅁ/etn
+
+속에
+	속/ncn+에/jca
+
+넣는
+	넣/pvg+는/etm
+
+장면
+	장면/ncn
+
+포착하셨나요
+	포착/ncpa+하/xsva+셨/ep+나/ef+요/jxf
+
+?
+	?/sf
+
+
+짜쟌~
+	짜쟌~/ncn
+
+오징어야채튀김
+	오징어/ncn+야채/ncn+튀김/ncn
+
+왕건이
+	왕/ncr+건/xsnx+이/jcc
+
+등장
+	등장/ncpa
+
+...
+	.../se
+
+
+튀김옷을
+	튀김옷/ncn+을/jco
+
+입은
+	입/ncn+은/jxc
+
+당신
+	당신/npp
+
+,,
+	,/sp+,/sp
+
+완성되었군요
+	완성/ncpa+되/xsvn+었/ep+군요/ef
+
+
+집게
+	집/ncn+게/jca
+
+길이와
+	길이/ncn+와/jcj
+
+오징어튀김
+	오징어/ncn+튀김/ncn
+
+길이가
+	길이/ncn+가/jcs
+
+같아요
+	같/paa+아/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+크기
+	크/paa+기/etn
+
+짐작
+	짐작/ncpa
+
+가시죠
+	가/px+시/ep+죠/ef
+
+?
+	?/sf
+
+
+쫄깃하고
+	쫄깃하/ncn+이/jp+고/ecc
+
+고소한
+	고소/ncn+한/ncn
+
+건강만점
+	건강/ncps+만점/ncn
+
+삼색호떡과
+	삼색/ncn+호떡/ncn+과/jcj
+
+
+한
+	하/pvg+ㄴ/etm
+
+개만
+	개/nbu+만/jxc
+
+먹어도
+	먹/pvg+어도/ecs
+
+배부를
+	배부르/paa+ㄹ/etm
+
+것
+	것/nbn
+
+같은
+	같/paa+은/etm
+
+크기를
+	크/paa+기/etn+를/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+튀김에
+	튀김/ncn+에/jca
+
+도전하러
+	도전/ncpa+하/xsva+러/ecs
+
+
+이번주말
+	이번/ncn+주말/ncn
+
+가족,
+	가족/ncn+,/sp
+
+커플,
+	커플/ncn+,/sp
+
+친구와
+	친구/ncn+와/jct
+
+함께
+	함께/mag
+
+
+온양재래시장구경어떠세요
+	온양재래시장구경어떠세요/ncn
+
+.
+	./sf
+
+
+이상천안에서
+	이상/ncn+천/ncn+안/xsnx+에서/jca
+
+서식하는
+	서식/ncpa+하/xsva+는/etm
+
+현이였습니다
+	현이였습니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+온양재래시장
+	온양재래/ncn+시장/ncr
+
+
+충청남도
+	충청남/ncn+도/jxc
+
+아산시
+	아산시/ncn
+
+온양2동
+	온양2동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01984292",
+	"bl01984292",/ncn
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"온양재래시장",
+	title:"온양재래시장",/ncn
+
+pointX:311109,pointY:465043}
+	pointX/f+:/sp+311109/nnc+,/sp+pointY/f+:/sp+465043/nnc+}/sr

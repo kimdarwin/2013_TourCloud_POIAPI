@@ -1,0 +1,2643 @@
+대치동
+	대치/ncpa+동/ncn
+
+태백산
+	태백산/ncn
+
+시골풍경
+	시골/ncn+풍경/ncn
+
+
+이
+	이/mmd
+
+동네
+	동네/ncn
+
+사는
+	사/pvg+는/etm
+
+지인이
+	지인/ncn+이/jcc
+
+긴급히
+	긴급히/mag
+
+불러서
+	부르/pvg+어서/ecs
+
+달려간
+	달리/pvg+어/ecx+가/px+ㄴ/etm
+
+곳~
+	곳/nbu+~/sd
+
+
+(고기
+	(/sl+고/ncn+이/jp+기/etn
+
+먹는
+	먹/pvg+는/etm
+
+일에
+	일/ncn+에/jca
+
+어찌
+	어찌/mag
+
+빠질수가
+	빠지/pvg+ㄹ/etm+수/nbn+가/jcc
+
+있으랴
+	있/px+으랴/ef
+
+...
+	.../se
+
+
+)
+	)/sr
+
+
+어딘지
+	어딘지/ncn
+
+모르고
+	모르/pvg+고/ecc
+
+그냥
+	그냥/mag
+
+불러서
+	부르/pvg+어서/ecs
+
+갔었는데
+	가/px+아/ep+ㄴ데/ecs
+
+.
+	./sf
+
+
+알고보니
+	알/pvg+고/ecx+보/px+니/ecs
+
+몇년
+	몇/nnc+년/nbu
+
+전부터
+	전/nbn+부터/jxc
+
+꾸준히
+	꾸준히/mag
+
+인기를
+	인기/ncn+를/jco
+
+얻고있는
+	얻/pvg+고/ecx+있/px+는/etm
+
+'정육식당'
+	'/sr+정육/ncn+식당/ncn+'/sr
+
+스타일의
+	스타일/ncn+의/jcm
+
+고깃집이었다
+	고깃집/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+정육식당은
+	정육/ncn+식당/ncn+은/jxc
+
+정육점과
+	정육점/ncn+과/jcj
+
+고깃집이
+	고깃집/ncn+이/jcc
+
+붙어
+	붙/pvg+어/ecx
+
+있어
+	있/px+어/ecx
+
+정육코너에서
+	정육/ncn+코너/ncn+에서/jca
+
+원하는
+	원하/pvg+는/etm
+
+부위를
+	부위/ncn+를/jco
+
+직접
+	직접/mag
+
+골라
+	고르/pvg+아/ecx
+
+구입하고
+	구입/ncpa+하고/jcj
+
+
+옆에
+	옆/ncn+에/jca
+
+고기
+	고/ncn+이/jp+기/etn
+
+굽는
+	굽/pvg+는/etm
+
+곳에서
+	곳/ncn+에서/jca
+
+구워
+	굽/pvg+어/ecx
+
+먹으면
+	먹/pvg+으면/ecs
+
+되는
+	되/pvg+는/etm
+
+시스템~
+	시스템/ncn+~/sd
+
+
+정육점으로
+	정육점/ncn+으로/jca
+
+운영하던
+	운영/ncpa+하/xsva+던/etm
+
+곳이
+	곳/ncn+이/jcc
+
+몇년
+	몇/nnc+년/nbu
+
+전
+	전/nbn
+
+부터
+	부터/ncn
+
+정육식당으로
+	정육/ncn+식당/ncn+으로/jca
+
+바뀌었기
+	바뀌/pvg+었/ep+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+
+실내에
+	실내/ncn+에/jca
+
+테이블이
+	테이블/ncn+이/jcc
+
+그리
+	그리/mad
+
+많지는
+	많/paa+지/ecs+는/jxc
+
+않다
+	않/px+다/ef
+
+.
+	./sf
+
+
+한쪽에는
+	하/pvg+ㄴ/etm+쪽/nbn+에/jca+는/jxc
+
+다양한
+	다양/ncn+한/ncn
+
+부위의
+	부위/ncn+의/jcm
+
+고기들이
+	고기/ncn+들/ncn+이/jcc
+
+포장되어
+	포장/ncpa+되/xsvn+어/ecx
+
+진열
+	진열/ncpa
+
+대기중~
+	대기/ncn+중/ncn+~/sd
+
+
+이곳에서
+	이곳/npd+에서/jca
+
+구입해
+	구입/ncpa+하/xsva+어/ecx
+
+먹어도
+	먹/pvg+어도/ecs
+
+되고
+	되/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+(당연히)고기를
+	(/sl+당연/ncps+히/xsas+)/sr+고기/npd+를/jco
+
+구입해서
+	구입/ncpa+하/xsva+어서/ecs
+
+가는것도
+	가/px+는/etm+것/nbn+도/jxc
+
+가능하다
+	가능/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+고기를
+	고/ncn+이/jp+기/etn+를/jco
+
+구입해서
+	구입/ncpa+하/xsva+어서/ecs
+
+구워
+	굽/pvg+어/ecx
+
+먹을때는
+	먹/pvg+을/etm+때/nbn+는/jxc
+
+상차림비
+	상차림/ncn+비/ncn
+
+7,000원을
+	7,000/nnc+원/nbu+을/jco
+
+받는다
+	받/pvg+는다/ef
+
+.
+	./sf
+
+
+세팅비를
+	세팅/ncn+비/ncn+를/jco
+
+내면
+	내/pvg+면/ecs
+
+차돌박이,
+	차돌/ncn+박/ncn+이/jcc+,/sp
+
+간천엽을
+	간천엽/ncn+을/jco
+
+주고
+	주/px+고/ecc
+
+한우를
+	한우/ncn+를/jco
+
+먹을
+	먹/pvg+을/etm
+
+경우엔
+	경우/ncn+엔/jca
+
+삼겹살까지
+	삼겹살/ncn+까지/jxc
+
+서비스로
+	서비스/ncpa+로/jca
+
+들어가기
+	들/pvg+어/ecx+가/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+
+세팅비가
+	세팅/ncn+비/ncn+가/jcs
+
+아깝다는생각이
+	아깝다는생각/ncn+이/jcc
+
+들지는
+	들/pvg+ㄹ지/ecs+는/jxc
+
+않는다
+	않/px+는다/ef
+
+.
+	./sf
+
+
+꽃등심
+	꽃등/ncn+심/ncn
+
+가격이
+	가격/ncn+이/jcc
+
+100g에
+	100g/ncn+에/jca
+
+13,000원
+	13,000/nnc+원/nbu
+
+
+강남권
+	강남권/ncn
+
+정육식당의
+	정육/ncn+식당/ncn+의/jcm
+
+대명사라고
+	대명사/ncn+이/jp+라/ef+고/jcr
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+대치정육식당이
+	대치/ncpa+정육/ncn+식당/ncn+이/jcc
+
+요즘
+	요즘/mag
+
+등심
+	등심/ncn
+
+1++이
+	1++/ncn+이/jcc
+
+200g에
+	200g/ncn+에/jca
+
+35,000원인걸
+	35,000원인걸/ncn
+
+감안하면
+	감안/ncpa+하/xsva+면/ecs
+
+상당히
+	상당히/mag
+
+착한
+	착하/paa+ㄴ/etm
+
+가격
+	가격/ncn
+
+..
+	./sf+./sf
+
+
+7,000원의
+	7,000/nnc+원/nbu+의/jcm
+
+세팅비를
+	세팅/ncn+비/ncn+를/jco
+
+생각하더라도
+	생각/ncpa+하/xsva+더라도/ecs
+
+너무너무
+	너무너무/mag
+
+좋은
+	좋/paa+은/etm
+
+가격이다
+	가격/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+게다가
+	게다가/maj
+
+이곳은
+	이곳/npd+은/jxc
+
+1+
+	1+/ncn
+
+이상의
+	이상/ncn+의/jcm
+
+한우만
+	한우/ncn+만/jxc
+
+쓴단다
+	쓰/pvg+ㄴ단다/ef
+
+.
+	./sf
+
+
+대치동
+	대치/ncpa+동/ncn
+
+사시는
+	사/nnc+시/nbu+는/jxc
+
+분들
+	불/pvg+ㄴ들/ecs
+
+상당히
+	상당히/mag
+
+부럽다는
+	부럽/paa+다/ef+는/etm
+
+..
+	./sf+./sf
+
+
+T_T
+	T_T/ncn
+
+
+대치정육식당은
+	대치/ncpa+정육/ncn+식당/ncn+은/jxc
+
+1++인데
+	1++/ncn+이/jp+ㄴ데/ecs
+
+혹시
+	혹시/mag
+
+이곳은
+	이곳/npd+은/jxc
+
+1+라서
+	1+라서/ncn
+
+그런것
+	그러/pvd+ㄴ/etm+것/nbn
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+하는
+	하/pvg+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들었지만
+	들/pvg+었/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+포장된
+	포장/ncpa+되/xsvn+ㄴ/etm
+
+1++
+	1++/ncn
+
+등급의
+	등급/ncn+의/jcm
+
+등심
+	등심/ncn
+
+가격을
+	가격/ncn+을/jco
+
+보니
+	보/px+니/ecs
+
+괜한
+	괜하/paa+ㄴ/etm
+
+의구심이었다
+	의구심/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+테이블
+	테이블/ncn
+
+세팅
+	세팅/ncn
+
+
+이곳은
+	이곳/npd+은/jxc
+
+소고기
+	소고/ncn+이/jp+기/etn
+
+무국이
+	무국/ncn+이/jcc
+
+기본으로
+	기본/ncn+으로/jca
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+오랜시간
+	오랜시간/ncn
+
+푹
+	푹/mag
+
+끓여내어
+	끓이/pvg+어/ecx+내/px+어/ecx
+
+맛있다는
+	맛있/paa+다/ef+는/etm
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+조금
+	조금/mag
+
+아쉬웠던건
+	아쉬웠던건/ncn
+
+기본으로
+	기본/ncn+으로/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+소금장이
+	소금/ncn+장/ncn+이/jcc
+
+소금에
+	소금/ncn+에/jca
+
+참기름을
+	참기름/ncn+을/jco
+
+섞은
+	섞/pvg+은/etm
+
+기름장이었다는것
+	기름/ncn+장/ncn+이/jp+었/ep+다/ef+는/etm+것/nbn
+
+..
+	./sf+./sf
+
+
+원래
+	원래/mag
+
+한우는
+	한우/ncn+는/jxc
+
+그냥
+	그냥/mag
+
+소금에만
+	소금/ncn+에/jca+만/jxc
+
+찍어
+	찍/pvg+어/ecx
+
+먹어야
+	먹/pvg+어야/ecs
+
+제일
+	제일/mag
+
+맛있는데
+	맛있/paa+는데/ecs
+
+기름장이
+	기름/ncn+장/ncn+이/jcc
+
+나오다니
+	나/pvg+아/ecx+오/px+다니/ecs
+
+조금
+	조금/mag
+
+의아했다
+	의아/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+이곳
+	이곳/npd
+
+사장님
+	사장님/ncn
+
+및
+	및/maj
+
+스텝
+	스텝/ncn
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+고기를
+	고/ncn+이/jp+기/etn+를/jco
+
+잘
+	잘/mag
+
+아시고
+	알/pvg+시/ep+고/ecc
+
+자부심이
+	자부심/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+분이었기에
+	분/nbn+이/jp+었/ep+기/etn+에/jca
+
+잘몰라서
+	잘몰라서/ncn
+
+그랬을것
+	그렇/pad+었/ep+을/etm+것/nbn
+
+같지는
+	같/paa+지/ecs+는/jxc
+
+않고
+	않/px+고/ecc
+
+
+아마
+	아마/mag
+
+손님들의
+	손님/ncn+들/ncn+의/jcm
+
+취향
+	취향/ncn
+
+때문에
+	때문/nbn+에/jca
+
+기름장을
+	기름/ncn+장/ncn+을/jco
+
+기본으로
+	기본/ncn+으로/jca
+
+내
+	내/npp
+
+놓는것
+	놓/px+는/etm+것/nbn
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+생각된다
+	생각/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+(이렇게
+	(/sl+이렇/pad+게/ecs
+
+나오더라도
+	나/pvg+아/ecx+오/px+더라도/ecs
+
+어차피
+	어차피/mag
+
+따로
+	따로/mag
+
+소금을
+	소금/ncn+을/jco
+
+달라고
+	다르/paa+아/ef+고/jcr
+
+하면
+	하/pvg+면/ecs
+
+되니
+	되/pvg+니/ecs
+
+큰
+	크/paa+ㄴ/etm
+
+흠도
+	흠/ncn+도/jxc
+
+아니다
+	아니/paa+다/ef+./sf
+
+.)
+	./sf+)/sr
+
+
+내
+	내/npp
+
+블로그
+	블로그/ncn
+
+오시는
+	오/px+시/ep+는/etm
+
+분들이야
+	불/pvg+ㄴ/etm+들/nbn+이/jp+야/ef
+
+대부분
+	대부분/ncn
+
+고기테리언이실테니
+	고기테리언/ncn+이/jp+시/ep+ㄹ테니/ecs
+
+
+당연히
+	당연히/mag
+
+소금만으로
+	소금/ncn+만/ncn+으로/jca
+
+먹는게
+	먹/pvg+는게/ecs
+
+제일
+	제일/mag
+
+맛있다는건
+	맛있다는건/ncn
+
+아시리라
+	알/pvg+시/ep+리라/ef
+
+..
+	./sf+./sf
+
+
+혹시
+	혹시/mag
+
+방문했을때
+	방문/ncpa+하/xsva+었/ep+을/etm+때/nbn
+
+이렇게
+	이렇/pad+게/ecs
+
+세팅이
+	세팅/ncn+이/jcc
+
+되면
+	되/pvg+면/ecs
+
+..
+	./sf+./sf
+
+
+꼭
+	꼭/mag
+
+소금만
+	소금/ncn+만/jxc
+
+따로
+	따로/mag
+
+달라고
+	다르/paa+아/ef+고/jcr
+
+하시길
+	하시/ncn+길/ncn
+
+^^
+	^/sy+^/sy
+
+
+특이한
+	특이/ncn+한/ncn
+
+색감의
+	색감/ncn+의/jcm
+
+소금이
+	소금/ncn+이/jcc
+
+있길래
+	있/px+길래/ecs
+
+혹시
+	혹시/mag
+
+기호에
+	기호/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+소금만
+	소금/ncn+만/jxc
+
+찍어
+	찍/pvg+어/ecx
+
+먹으라고
+	먹/pvg+으라/ef+고/jcr
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+줄
+	줄/nbn
+
+알았는데
+	알/pvg+아/ep+ㄴ데/ecs
+
+
+알고보니
+	알/pvg+고/ecx+보/px+니/ecs
+
+고기
+	고/ncn+이/jp+기/etn
+
+구울때위에살짝
+	구울때위에살짝/ncn
+
+뿌릴
+	뿌리/pvg+ㄹ/etm
+
+용도로쓰는
+	용도로쓰/ncn+는/jxc
+
+소금이란다
+	소금이란다/ncn
+
+.
+	./sf
+
+
+색깔이
+	색깔/ncn+이/jcc
+
+특이해서
+	특이/ncn+해서/ncn
+
+천일염인지
+	천일염/ncn+이/jp+ㄴ지/ecs
+
+몰어봤는데
+	몰/pvg+아/ecx+보/px+아/ep+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+알고보니
+	알/pvg+고/ecx+보/px+니/ecs
+
+그냥
+	그냥/mag
+
+굵은
+	굵/paa+은/etm
+
+소금에
+	소금/ncn+에/jca
+
+후추를
+	후추/ncn+를/jco
+
+섞은
+	섞/pvg+은/etm
+
+것이란다
+	것이란다/ncn
+
+.
+	./sf
+
+
+아뭏든
+	아뭏든/ncn
+
+..
+	./sf+./sf
+
+
+나는
+	나/npp+는/jxc
+
+기름
+	기르/pvg+ㅁ/etn
+
+소금장
+	소금/ncn+장/ncn
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+그냥
+	그냥/mag
+
+이
+	이/mmd
+
+소금에
+	소금/ncn+에/jca
+
+찍어
+	찍/pvg+어/ecx
+
+먹었다~
+	먹/pvg+었/ep+다/ef+~/sd
+
+
+간천엽은
+	간천엽/ncn+은/jxc
+
+기본으로
+	기본/ncn+으로/jca
+
+제공된다
+	제공/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+고기가
+	고/ncn+이/jp+기/etn+가/jcs
+
+싱싱해야만
+	싱싱/ncps+하/xsms+어야/ecs+만/jxc
+
+나올
+	나/pvg+아/ecx+오/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는게
+	있/px+는게/ecs
+
+간천엽이기에
+	간천엽/ncn+이/jp+기/etn+에/jca
+
+..
+	./sf+./sf
+
+
+이런게
+	이런/ncn+게/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+고깃집은
+	고깃집/ncn+은/jxc
+
+일단
+	일단/mag
+
+안심할
+	안심/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이곳의
+	이곳/npd+의/jcm
+
+좋은점
+	좋은점/ncn
+
+또
+	또/maj
+
+하나는
+	하/pvg+어/ecx+나/px+는/etm
+
+불.
+	불/ncn+./sf
+
+.
+	./sf
+
+
+가스불도
+	가스/ncn+불/ncn+도/jxc
+
+아닌
+	아니/paa+ㄴ/etm
+
+열탄도
+	열/nnc+탄/nbu+도/jxc
+
+아닌
+	아니/paa+ㄴ/etm
+
+오리지널
+	오리지널/ncn
+
+숯불을
+	숯불/ncn+을/jco
+
+사용한다
+	사용/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+정육식당에서
+	정육/ncn+식당/ncn+에서/jca
+
+숯불을
+	숯불/ncn+을/jco
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+많지
+	많/paa+지/ecx
+
+않은데
+	않/px+은/etm+데/nbn
+
+일단
+	일/nnc+단/nbu
+
+불만
+	불/ncn+만/jxc
+
+봐도
+	보/px+아/ecs
+
+합격점
+	합격/ncpa+점/ncn
+
+..
+	./sf+./sf
+
+
+기본으로
+	기본/ncn+으로/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+차돌박이
+	차돌/ncn+박이/ncn
+
+
+세팅비를
+	세팅/ncn+비/ncn+를/jco
+
+내면
+	내/pvg+면/ecs
+
+차돌박이를
+	차돌/ncn+박이/ncn+를/jco
+
+서비스로
+	서비스/ncpa+로/jca
+
+준다~
+	줄/pvg+ㄴ다/ef+~/sd
+
+
+보통
+	보통/mag
+
+고기
+	고/ncn+이/jp+기/etn
+
+먹으러
+	먹/pvg+으러/ecs
+
+갈때
+	가/px+ㄹ/etm+때/nbn
+
+고기테리언들의
+	고기테리언들/ncn+의/jcm
+
+코스
+	코스/ncn
+
+중
+	중/nbn
+
+하나는
+	하나/nnc+는/jxc
+
+
+차돌박이로
+	차돌/ncn+박이/ncn+로/jca
+
+처음
+	처음/mag
+
+입가심을
+	입가/ncn+이/jp+시/ep+ㅁ/etn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+등심으로
+	등심/ncn+으로/jca
+
+넘어가는건데
+	넘/pvg+어/ecx+가/px+는/etm+것/nbn+이/jp+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+오.
+	오/ii+./sf
+
+.
+	./sf
+
+
+여긴
+	여기/pvg+ㄴ/etm
+
+그냥
+	그냥/mag
+
+나오다니
+	나/pvg+아/ecx+오/px+다니/ecs
+
+일단
+	일단/mag
+
+만족~
+	만족/ncn+~/sd
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+차돌박이
+	차돌/ncn+박/ncn+이/jcc
+
+보다
+	보다/mag
+
+더
+	더/mag
+
+반가웠던건
+	반가웠던건/ncn
+
+불판
+	불/pvg+ㄹ/etm+판/nbn
+
+!
+	!/sf
+
+
+숯불을
+	숯불/ncn+을/jco
+
+사용해도
+	사용/ncpa+하/xsva+어도/ecs
+
+판으로된
+	판으로된/ncn
+
+불판을
+	불/pvg+ㄹ/etm+판/nbn+을/jco
+
+쓴다면
+	쓰/pvg+ㄴ다면/ecs
+
+숯
+	숯/ncn
+
+향이
+	향/ncn+이/jcc
+
+잘
+	잘/mag
+
+베이지
+	베이/pvg+지/ecx
+
+않아
+	않/px+아/ecx
+
+아쉬울
+	아쉽/paa+을/etm
+
+수
+	수/nbn
+
+있는데
+	있/paa+는데/ecs
+
+
+이곳은
+	이곳/npd+은/jxc
+
+석쇠를
+	석쇠/ncn+를/jco
+
+사용한다
+	사용/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+손님이
+	손님/ncn+이/jcc
+
+붐비지
+	붐비/paa+지/ecx
+
+않을때는
+	않/px+을/etm+때/nbn+는/jxc
+
+알아서
+	알/pvg+아/ecx
+
+고기를
+	고/ncn+이/jp+기/etn+를/jco
+
+다
+	다/mag
+
+구워주기
+	굽/pvg+어/ecx+주/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+좋다~
+	좋/paa+다/ef+~/sd
+
+
+(왠만한
+	(왠만한/ncn
+
+분들
+	불/pvg+ㄴ들/ecs
+
+보다는
+	보/px+다/ef+는/etm
+
+구기를
+	구/ncn+이/jp+기/etn+를/jco
+
+잘
+	잘/mag
+
+구우신다는
+	굽/pvg+으시/ep+ㄴ다/ef+는/etm
+
+...
+	.../se
+
+
+당연한건가
+	당연/ncps+하/xsms+ㄴ/etm+것/nbn+이/jp+ㄴ가/ef
+
+..
+	./sf+./sf
+
+
+)
+	)/sr
+
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+사진속의
+	사진/ncn+속/ncn+의/jcm
+
+차돌박이는내
+	차돌/ncn+박/ncn+이/jp+는/etm+내/nbn
+
+실수
+	실수/ncn
+
+..
+	./sf+./sf
+
+
+이런저런
+	이런저런/mma
+
+이야기
+	이야기/ncpa
+
+하다가
+	하/pvg+다가/ecs
+
+집어
+	집/pvg+어/ecx
+
+먹을
+	먹/pvg+을/etm
+
+타이밍을
+	타이밍/ncn+을/jco
+
+놓쳐
+	놓치/pvg+어/ecx
+
+살짝
+	살짝/mag
+
+탔다
+	트/pvg+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+서비스로
+	서비스/ncpa+로/jca
+
+주신
+	주/px+시/ep+ㄴ/etm
+
+육사시미
+	육사시미/ncn
+
+
+보통
+	보통/mag
+
+육사시미는
+	육사시미/ncn+는/jxc
+
+우둔살을
+	우둔/ncps+살/ncn+을/jco
+
+사용하는데
+	사용/ncpa+하/xsva+ㄴ데/ecs
+
+이건
+	이/npd+이/jp+건/ecc
+
+우둔살보다
+	우둔/ncps+살/ncn+보다/jca
+
+좋은
+	좋/paa+은/etm
+
+부위
+	부위/ncn
+
+같아서
+	같/paa+아/ecx
+
+물어봤더니
+	물/pvg+어/ecx+보/px+아/ep+니/ef
+
+
+우둔살이
+	우둔/ncps+살/ncn+이/jcc
+
+아니고
+	아니/paa+고/ecc
+
+조금
+	조금/mag
+
+더
+	더/mag
+
+좋은
+	좋/paa+은/etm
+
+부위라고
+	부위/ncn+이/jp+라/ef+고/jcr
+
+하신다
+	하/px+시/ep+ㄴ다/ef
+
+.
+	./sf
+
+
+뭐라고
+	뭐/npd+이/jp+라/ef+고/jcr
+
+이야기
+	이야기/ncpa
+
+해
+	하/pvg+어/ecx
+
+주신것
+	주/px+시/ep+ㄴ/etm+것/nbn
+
+같았는데
+	같/paa+아/ep+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+가물가물
+	가물가물/mag
+
+...
+	.../se
+
+
+캬~
+	크/paa+어/ecs+~/sd
+
+
+등심
+	등심/ncn
+
+나와주시고~
+	나와/ncn+주시/ncn+고/jcj+~/sd
+
+
+마블링
+	마블링/ncn
+
+좋은
+	좋/paa+은/etm
+
+1++
+	1++/ncn
+
+등심~
+	등심/ncn+~/sd
+
+
+고기를
+	고/ncn+이/jp+기/etn+를/jco
+
+구우실때
+	굽/pvg+으시/ep+ㄹ/etm+때/nbn
+
+..
+	./sf+./sf
+
+
+후추를
+	후추/ncn+를/jco
+
+섞은굵은
+	섞은굵/ncn+은/jxc
+
+소금을
+	소금/ncn+을/jco
+
+솔솔
+	솔솔/mag
+
+뿌려주신다
+	뿌리/pvg+어/ecx+주/px+시/ep+ㄴ다/ef
+
+.
+	./sf
+
+
+보통
+	보통/mag
+
+등심을
+	등심/ncn+을/jco
+
+주문하면
+	주문/ncpa+하/xsva+면/ecs
+
+얇게
+	얇/paa+게/ecs
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많은데
+	많/paa+은데/ecs
+
+
+두툼하게
+	두툼/ncps+하/xsms+게/ecs
+
+내와서
+	내/pvg+어/ecx+오/px+아/ecx
+
+정말
+	정말/mag
+
+좋았다는
+	좋/paa+아/ep+다/ef+는/etm
+
+..
+	./sf+./sf
+
+
+술불에
+	술불/ncn+에/jca
+
+불판만
+	불/pvg+ㄹ/etm+판/nbn+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+만족
+	만족/ncn
+
+스러웠는데,
+	스럽/px+었/ep+는데/ecs+,/sp
+
+고기
+	고/ncn+이/jp+기/etn
+
+두께를
+	두께/ncn+를/jco
+
+보고
+	보고/ncn
+
+
+이곳
+	이곳/npd
+
+사장님은
+	사장님/ncn+은/jxc
+
+정말
+	정말/mag
+
+고기를
+	고/ncn+이/jp+기/etn+를/jco
+
+드실줄
+	들/pvg+시/ep+ㄹ/etm+줄/nbn
+
+아는구나
+	알/pvg+는구나/ef
+
+하는
+	하/pvg+는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+몰캉몰캉
+	몰캉몰캉/ncn
+
+났다
+	나/px+아/ep+다/ef
+
+..
+	./sf+./sf
+
+
+혹시나
+	혹시/mag+나/jxc
+
+해서
+	하/pvg+어서/ecs
+
+첫
+	첫/nno
+
+피스는
+	피스/ncn+는/jxc
+
+기름장에
+	기름/ncn+장/ncn+에/jca
+
+찍어
+	찍/pvg+어/ecx
+
+먹어
+	먹/pvg+어/ecx
+
+봤는데
+	보/px+아/ep+ㄴ데/ecs
+
+역시
+	역시/mag
+
+..
+	./sf+./sf
+
+
+참기름이
+	참기름/ncn+이/jcc
+
+한우를
+	한우/ncn+를/jco
+
+코팅해서
+	코팅/ncn+해서/ncn
+
+숯불향과
+	숯불/ncn+향/ncn+과/jcj
+
+한우
+	한우/ncn
+
+본연의
+	본연/ncn+의/jcm
+
+맛을
+	맛/ncn+을/jco
+
+해치는것
+	해치/pvg+는/etm+것/nbn
+
+같았다
+	같/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+게다가
+	게다가/maj
+
+소금의
+	소금/ncn+의/jcm
+
+짭짤함까지
+	짭짤/ncps+하/xsms+ㅁ/etn+까지/jxc
+
+제대로
+	제대로/mag
+
+베어나지
+	베/pvg+어/ecx+나/px+지/ecx
+
+않아
+	않/px+아/ecx
+
+그냥
+	그냥/mag
+
+식감으로만
+	식감으로/ncn+만/jxc
+
+먹게
+	먹/pvg+게/ecs
+
+될뿐
+	되/pvg+ㄹ/etm+뿐/nbn
+
+..
+	./sf+./sf
+
+
+반드시
+	반드시/mag
+
+소금에만
+	소금/ncn+에/jca+만/jxc
+
+찍어
+	찍/pvg+어/ecx
+
+드시길~
+	드시길~/ncn
+
+^^
+	^/sy+^/sy
+
+
+(사실
+	(/sl+사/pvg+시/ep+ㄹ/etm
+
+나는
+	나/npp+는/jxc
+
+깨도
+	깨/pvg+어도/ecs
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+타입이
+	타입/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+다음번에
+	다음번/ncn+에/jca
+
+가게
+	가/px+게/ecs
+
+되면
+	되/pvg+면/ecs
+
+순수한
+	순수/ncps+하/xsms+ㄴ/etm
+
+소금만
+	소금/ncn+만/jxc
+
+요청할듯~)
+	요청/ncpa+하/xsva+ㄹ/etm+듯/nbs+~/sd+)/sr
+
+
+살치살
+	살치살/ncn
+
+
+살치살은
+	살치살/ncn+은/jxc
+
+보는
+	보/px+는/etm
+
+것
+	것/nbn
+
+처럼
+	처럼/ncn
+
+마블링이
+	마블링/ncn+이/jcc
+
+예술인
+	예술/ncn+이/jp+ㄴ/etm
+
+부위
+	부위/ncn
+
+
+마블링이
+	마블링/ncn+이/jcc
+
+많다는
+	많/paa+다/ef+는/etm
+
+것은
+	것/nbn+은/jxc
+
+그만큼
+	그/npp+만큼/jxc
+
+기름기가
+	기름기/ncn+가/jcs
+
+많고
+	많/paa+고/ecc
+
+씹는
+	씹/pvg+는/etm
+
+맛
+	맛/ncn
+
+보다는
+	보/px+다/ef+는/etm
+
+부드럽다는
+	부드럽/paa+다/ef+는/etm
+
+의미이기도
+	의미이기/ncn+도/jxc
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+살치살은
+	살치살/ncn+은/jxc
+
+입안에서
+	입안/ncpa+에서/jca
+
+샤르르
+	샤르르/ncn
+
+녹는
+	녹/pvg+는/etm
+
+맛이
+	맛/ncn+이/jcc
+
+제맛~
+	제/xp+맛/ncn+~/sd
+
+^^
+	^/sy+^/sy
+
+
+제비추리
+	제비/ncn+추/ncn+이/jp+리/ef
+
+
+안심
+	안심/ncn
+
+
+평소
+	평소/ncn
+
+같으면
+	같/paa+으면/ecs
+
+정육식당에서
+	정육/ncn+식당/ncn+에서/jca
+
+안심을
+	안심/ncn+을/jco
+
+주문해
+	주문/ncn+해/ncn
+
+먹을일이
+	먹을일/ncn+이/jcc
+
+많지는
+	많/paa+지/ecs+는/jxc
+
+않지만
+	않/paa+지만/ecs
+
+
+이
+	이/mmd
+
+곳은
+	곳/ncn+은/jxc
+
+숯불에
+	숯불/ncn+에/jca
+
+석쇠를
+	석쇠/ncn+를/jco
+
+사용하는
+	사용/ncpa+하/xsva+는/etm
+
+곳이기
+	곳/ncn+이/jp+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+
+숯불에
+	숯불/ncn+에/jca
+
+구운
+	굽/pvg+은/etm
+
+안심
+	안심/ncn
+
+스테이크를
+	스테이크/ncn+를/jco
+
+먹는
+	먹/pvg+는/etm
+
+기분을
+	기분/ncn+을/jco
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있을것
+	있/px+을/etm+것/nbn
+
+같았다
+	같/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+부드러운
+	부드럽/paa+은/etm
+
+안심의
+	안심/ncn+의/jcm
+
+사진은
+	사진/ncn+은/jxc
+
+여기까지
+	여기/npd+까지/jxc
+
+..
+	./sf+./sf
+
+
+미디움레어를
+	미디움레어/ncn+를/jco
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+나로서는
+	나/npp+로서/jca+는/jxc
+
+더
+	더/mag
+
+익기
+	익/pvg+기/etn
+
+전에
+	전/nbn+에/jca
+
+빨리
+	빨리/mag
+
+먹느라
+	먹/pvg+느라/ecs
+
+
+사진찍을
+	사진찍/pvg+을/etm
+
+겨를이
+	겨를/ncn+이/jcc
+
+없어
+	없/paa+어/ecx
+
+더이상의
+	더이상/ncn+의/jcm
+
+사진이
+	사진/ncn+이/jcc
+
+없다
+	없/paa+다/ef
+
+...
+	.../se
+
+
+치마살
+	치마/ncn+살/ncn
+
+
+한우의
+	한우/ncn+의/jcm
+
+향연이
+	향연/ncn+이/jcc
+
+끝났는데
+	끝나/pvg+아/ep+ㄴ데/ecs
+
+삼겹살이
+	삼겹살/ncn+이/jcc
+
+나왔다
+	나오/pvg+아/ep+다/ef+./sf
+
+.
+	./sf
+
+
+알고보니
+	알/pvg+고/ecx+보/px+니/ecs
+
+한우를
+	한우/ncn+를/jco
+
+먹고
+	먹/pvg+고/ecc
+
+나면
+	나/px+면/ecs
+
+서비스로
+	서비스/ncpa+로/jca
+
+삼겹살을
+	삼겹살/ncn+을/jco
+
+준다
+	주/px+ㄴ다/ef
+
+.
+	./sf
+
+
+한우의
+	한우/ncn+의/jcm
+
+퀄리티도
+	퀄리티/ncn+도/jxc
+
+좋았지만
+	좋/paa+아/ep+지만/ecs
+
+
+삼겹살의
+	삼겹살/ncn+의/jcm
+
+퀄리티
+	퀄리티/ncn
+
+역시
+	역시/mag
+
+정말
+	정말/mag
+
+최고
+	최고/ncn
+
+!!
+	!/sf+!/sf
+
+
+숯불,
+	숯불/ncn+,/sp
+
+그리고
+	그리고/maj
+
+석쇠에
+	석쇠/ncn+에/jca
+
+구우면
+	굽/pvg+으면/ecs
+
+삼겹살
+	삼겹살/ncn
+
+역시
+	역시/mag
+
+상당히
+	상당히/mag
+
+풍미가
+	풍미/ncn+가/jcs
+
+좋아지고
+	좋/paa+아/ecx+지/px+고/ecc
+
+맛이
+	맛/ncn+이/jcc
+
+배가
+	배/pvg+어/ecx+가/px+아/ecx
+
+되는데
+	되/pvg+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+삼겹살의
+	삼겹살/ncn+의/jcm
+
+퀄리티가
+	퀄리티/ncn+가/jcs
+
+좋으니
+	좋/paa+으니/ecs
+
+강남쪽의
+	강남/ncn+쪽/ncn+의/jcm
+
+유명한
+	유명/ncn+한/ncn
+
+흑돼지
+	흑돼지/ncn
+
+오겹살집이
+	오겹살집/ncn+이/jcc
+
+부럽지
+	부럽/paa+지/ecx
+
+않았다
+	않/px+아/ep+다/ef
+
+.
+	./sf
+
+
+아쉬운점이라면
+	아쉬운점이라/ncn+이/jp+면/ecs
+
+오후
+	오후/ncn
+
+9시
+	9/nnc+시/nbu
+
+이전에는
+	이전/ncn+에/jca+는/jxc
+
+삼겹살은
+	삼겹살/ncn+은/jxc
+
+주문을
+	주문/ncn+을/jco
+
+받지
+	받/pvg+지/ecx
+
+않는다
+	않/px+는다/ef
+
+.
+	./sf
+
+
+아무래도
+	아무렇/pad+어도/ecs
+
+삼겹살은
+	삼겹살/ncn+은/jxc
+
+마진이
+	마진/ncn+이/jcc
+
+잘
+	잘/mag
+
+남지
+	남/pvg+지/ecx
+
+않기에
+	않/px+기/etn+에/jca
+
+그런
+	그러/pvd+ㄴ/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+한우가
+	한우/ncn+가/jcs
+
+워낙
+	워낙/mag
+
+착한
+	착하/paa+ㄴ/etm
+
+가격이기
+	가격/ncn+이/jp+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+
+그냥
+	그냥/mag
+
+한우
+	한우/ncn
+
+드시고
+	들/pvg+시/ep+고/ecc
+
+삼겹살은
+	삼겹살/ncn+은/jxc
+
+서비스로드시는게
+	서비스로드시는게/ncn
+
+나을
+	나/npp+을/jco
+
+듯~
+	듯/nbs+~/sd
+
+
+(아니면
+	(/sl+아니/paa+면/ecs
+
+9시
+	9/nnc+시/nbu
+
+이후에
+	이후/ncn+에/jca
+
+드시길
+	드시길/ncn
+
+..
+	./sf+./sf
+
+
+^^)
+	^/sy+^/sy+)/sr
+
+
+강남권임을
+	강남권/ncn+이/jp+ㅁ/etn+을/jco
+
+감안하지
+	감안/ncpa+하/xsva+지/ecx
+
+않더라도
+	않/px+더라도/ecs
+
+착한
+	착하/paa+ㄴ/etm
+
+가격의
+	가격/ncn+의/jcm
+
+질
+	지/px+ㄹ/etm
+
+좋은한우를
+	좋은한우/ncn+를/jco
+
+즐
+	즐/ncn
+
+길
+	길/paa+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳
+	곳/nbu
+
+
+서비스로
+	서비스/ncpa+로/jca
+
+내오는
+	내/pvg+어/ecx+오/px+는/etm
+
+차돌박이와
+	차돌/ncn+박이/ncn+와/jcj
+
+삼겹살마저
+	삼겹살/ncn+마저/jxc
+
+기가
+	기/ncn+가/jcs
+
+막혀
+	막히/pvg+어/ecx
+
+즐거움이
+	즐거움/ncn+이/jcc
+
+배가
+	배/pvg+어/ecx+가/px+아/ecx
+
+되는
+	되/pvg+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+촬영
+	촬영/ncpa
+
+:
+	:/sp
+
+펜탁스
+	펜탁스/ncn
+
+K-r
+	K/f+-/sd+r/f
+
+
+렌즈
+	렌즈/ncn
+
+:
+	:/sp
+
+35mm
+	35mm/ncn
+
+2.8
+	2.8/nnc
+
+Macro
+	Macro/f
+
+Limited
+	Limited/f
+
+
+태백산
+	태백산/ncn
+
+시골풍경
+	시골/ncn+풍경/ncn
+
+
+전화
+	전화/ncpa
+
+:
+	:/sp
+
+02
+	02/nnc
+
+-
+	-/sd
+
+501
+	501/nnc
+
+-
+	-/sd
+
+2485
+	2485/nnc
+
+
+주소
+	주소/ncn
+
+:
+	:/sp
+
+서울시
+	서울시/ncn
+
+강남구
+	강남/ncn+구/ncn
+
+대치동
+	대치/ncpa+동/ncn
+
+623
+	623/nnc
+
+남서울종합상가
+	남서울종합상/ncn+가/jcs
+
+1층
+	1/nnc+층/nbu
+
+
+위치
+	위치/ncn
+
+:
+	:/sp
+
+지하철
+	지하철/ncn
+
+3호선
+	3/nnc+호/nbu+선/jxc
+
+대치역
+	대치/ncpa+역/ncn
+
+1번출구나와서
+	1번출구나와서/ncn
+
+150m
+	150m/ncn
+
+직진,
+	직진/ncpa+,/sp
+
+남서울종합상가
+	남서울종합상/ncn+가/jcs
+
+내
+	내/nbn
+
+
+(대치동
+	(/sl+대치/ncpa+동/ncn
+
+청실아파트
+	청실아파트/ncn
+
+11동
+	11/nnc+동/nbu
+
+건너편
+	건너편/ncn
+
+방면)
+	방면/ncn+)/sr
+
+
+서울특별시
+	서울특별시/ncn
+
+강남구
+	강남/ncn+구/ncn
+
+대치동
+	대치/ncpa+동/ncn
+
+623
+	623/nnc
+
+
+서울
+	서울/ncn
+
+강남구
+	강남/ncn+구/ncn
+
+대치1동
+	대치1동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01528155",
+	"bl01528155",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"서울특별시
+	title:"서울특별시/ncn
+
+강남구
+	강남/ncn+구/ncn
+
+대치동
+	대치/ncpa+동/ncn
+
+623",
+	623/nnc+"/sr+,/sp
+
+pointX:317116,pointY:543904}
+	pointX/f+:/sp+317116/nnc+,/sp+pointY/f+:/sp+543904/nnc+}/sr
+
+
+제
+	저/npp+의/jcm
+
+이야기가
+	이야기/ncpa+가/jcc
+
+흥미로우셨다면
+	흥미/ncn+로우/ncn+이/jp+셨/ep+다면/ecs
+
+오픈캐스트를
+	오픈캐스트/ncn+를/jco
+
+구독해주세요~
+	구독/ncpa+하/xsva+어/ecx+주/px+세요/ef+~/sd
+
+
+매주
+	매주/mag
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+맛집과
+	맛집/ncn+과/jcj
+
+카페,
+	카페/ncn+,/sp
+
+요즘
+	요즘/mag
+
+뜨고
+	뜨/pvg+고/ecc
+
+있는핫플레이스에
+	있는핫플레이스/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+정보를보실
+	정보를보/ncn+이/jp+시/ep+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다^^
+	있습니다/ncn+^/sy+^/sy
+
+
+http://opencast.
+	http/f+:/sp+//sp+//sp+opencast/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/jj494
+	com/jj494/ncn
+
+
+네이버
+	네이버/ncn
+
+TOP에
+	TOP/f+에/jca
+
+떴네요~^^
+	뜨/paa+었/ep+네요/ef+~/sd+^/sy+^/sy

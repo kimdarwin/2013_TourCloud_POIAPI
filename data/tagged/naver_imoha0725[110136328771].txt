@@ -1,0 +1,312 @@
+서울
+	서울/ncn
+
+시립미술관
+	시립/ncn+미술관/ncn
+
+
+정원에
+	정원/ncn+에/jca
+
+찾아
+	찾/pvg+아/ecx
+
+온
+	오/px+ㄴ/etm
+
+봄빛
+	봄빛/ncn
+
+물결
+	물결/ncn
+
+
+가지는
+	가지/nbu+는/jxc
+
+아직
+	아직/mag
+
+앙상한데
+	앙상/ncps+한데/ncn
+
+...
+	.../se
+
+
+햇살은
+	햇살/ncn+은/jxc
+
+더없이
+	더없이/mag
+
+좋은
+	좋/paa+은/etm
+
+4월의
+	4/nnc+월/nbu+의/jcm
+
+어느
+	어느/mmd
+
+봄날입니다
+	봄날/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+예쁘게
+	예쁘/paa+게/ecs
+
+심어놓은
+	심/pvg+어/ecx+놓/px+은/etm
+
+꽃들이
+	꽃/ncn+들/xsncc+이/jcc
+
+고개를
+	고개/ncn+를/jco
+
+내밀고
+	내밀/pvg+고/ecc
+
+마음껏
+	마음껏/mag
+
+햇님과
+	햇님/ncn+과/jcj
+
+이야기
+	이야기/ncpa
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+예쁘게
+	예쁘/paa+게/ecs
+
+차려입은
+	차려입/ncn+은/jxc
+
+봄처녀의
+	봄처녀/ncn+의/jcm
+
+정원
+	정원/ncn
+
+산책길,
+	산책길/ncn+,/sp
+
+혼자
+	혼자/mag
+
+나누기
+	나누/pvg+기/etn
+
+아까워
+	아깝/paa+어/ecx
+
+친구에게
+	친구/ncn+에게/jca
+
+전화를
+	전화/ncpa+를/jco
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+다정히
+	다정히/mag
+
+나누어
+	나누/pvg+어/ecx
+
+잡은
+	잡/pvg+은/etm
+
+손,
+	손/ncn+,/sp
+
+같은
+	같/paa+은/etm
+
+곳을
+	곳/ncn+을/jco
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+시선이
+	시선/ncn+이/jcc
+
+어여쁜
+	어여쁘/paa+ㄴ/etm
+
+봄날의
+	봄날/ncn+의/jcm
+
+커플
+	커플/ncn
+
+
+정원을
+	정원/ncn+을/jco
+
+뛰어다니다
+	뛰어다니/pvg+다/ef
+
+엄마,
+	엄마/ncn+,/sp
+
+아빠를
+	아빠/ncn+를/jco
+
+잠시
+	잠시/mag
+
+놓친
+	놓치/pvg+ㄴ/etm
+
+아이들
+	아이/ncn+들/ncn
+
+
+그냥
+	그냥/mag
+
+정원을
+	정원/ncn+을/jco
+
+산책하는
+	산책/ncpa+하/xsva+는/etm
+
+것만으로도
+	것/nbn+만으로도/jca
+
+
+충분히
+	충분히/mag
+
+행복한
+	행복/ncps+하/xsms+ㄴ/etm
+
+4월의
+	4/nnc+월/nbu+의/jcm
+
+어느
+	어느/mmd
+
+봄
+	보/px+ㅁ/etn
+
+이야기
+	이야기/ncpa
+
+.
+	./sf
+
+
+우리
+	우리/npp
+
+함께산책할까요
+	함께산책할까요/ncn
+
+?
+	?/sf
+
+
+Photo
+	Photo/f
+
+by
+	by/f
+
+Eujinn.
+	Eujinn/f+./sy
+
+H
+	H/f
+
+
+Cannon
+	Cannon/f
+
+60D,
+	60D,/ncn
+
+16-35mm
+	16-35mm/ncn
+
+
+@서울
+	@서울/ncn
+
+서울시립미술관
+	서울시립미술관/ncn
+
+
+-
+	-/sd
+
+여러분의
+	여러/nnc+분/nbu+의/jcm
+
+공감,
+	공감/ncpa+,/sp
+
+덧글에
+	덧글/ncn+에/jca
+
+힘이
+	힘/ncn+이/jcc
+
+나는
+	나/px+는/etm
+
+여행별입니다
+	여행/ncpa+별/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+-
+	-/sd
+
+공감
+	공감/ncpa
+
+꾸욱
+	꾸욱/ncn
+
+눌러주기
+	누르/pvg+어/ecx+주/px+기/etn
+
+.
+	./sf
+
+
+-
+	-/sd
+
+덧글
+	덧글/ncn
+
+한줄
+	하/pvg+ㄴ/etm+줄/nbn
+
+선물하기
+	선물/ncn+하기/ncn
+
+.
+	./sf

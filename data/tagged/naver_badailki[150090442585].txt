@@ -1,0 +1,195 @@
+[4대강
+	[/sl+4대강/ncn
+
+솔루션(하)]
+	솔루션(하)]/ncn
+
+박준영
+	박준영/ncn
+
+전남지사
+	전남지사/ncn
+
+영산강
+	영산강/ncn
+
+상류
+	상류/ncn
+
+용수
+	용수/ncn
+
+고갈
+	고갈/ncpa
+
+보
+	보/nbu
+
+설치는
+	설치/pvg+는/etm
+
+현실적
+	현실/ncn+적/ncn
+
+대안
+	대안/ncn
+
+
+박준영
+	박준영/ncn
+
+전남지사는
+	전남지사/ncn+는/jxc
+
+19일
+	19/nnc+일/nbu
+
+영산강
+	영산강/ncn
+
+살리기
+	사/pvg+ㄹ/etm+리/nbn+이/jp+기/etn
+
+사업을
+	사업/ncn+을/jco
+
+정부의
+	정부/ncn+의/jcm
+
+대운하와
+	대운하/ncn+와/jcj
+
+연결
+	연결/ncpa
+
+짓는
+	짓/pvg+는/etm
+
+4대강
+	4대강/ncn
+
+사업으로
+	사업/ncn+으로/jca
+
+봐서는
+	보/px+아/ecs
+
+안
+	안/mag
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+며
+	며/ncn
+
+강변에
+	강변/ncn+에/jca
+
+삶터를
+	삶터/ncn+를/jco
+
+둔
+	두/pvg+ㄴ/etm
+
+주민들이
+	주민/ncn+들/ncn+이/jcc
+
+수질개선
+	수질개선/ncn
+
+등을
+	등/nbu+을/jco
+
+간절히
+	간절히/mag
+
+바라는
+	바라/pvg+는/etm
+
+만큼
+	만큼/nbn
+
+그런
+	그러/pvd+ㄴ/etm
+
+목적에
+	목적/ncn+에/jca
+
+맞게
+	맞/pvg+게/ecc
+
+
+개발을
+	개발/ncn+을/jco
+
+서둘러야
+	서두르/pvg+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+고
+	고/mma
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+[출처
+	[/sl+출처/ncn
+
+:
+	:/sp
+
+서울신문
+	서울신문/ncn
+
+무안
+	무안/ncpa
+
+최치봉기자
+	최치봉기/ncn+이/jp+자/ecc
+
+cbchoi@seoul.
+	cbchoi/f+@/sy+seoul/f+./sy
+
+co.
+	co/f+./sy
+
+kr]
+	kr/f+]/sr
+
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+seoul.
+	seoul/f+./sy
+
+co.
+	co/f+./sy
+
+kr//news/newsView.
+	kr/f+//sp+//sp+news/f+//sp+newsView/f+./sy
+
+php
+	php/f
+
+?
+	?/sf
+
+
+code=seoulid=20100720010007keyword
+	code=seoulid=20100720010007keyword/ncn

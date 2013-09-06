@@ -1,0 +1,769 @@
+헤럴드경제=최남주
+	헤럴드경제=최남주/ncn
+
+기자
+	기/ncn+이/jp+자/ecc
+
+서울
+	서울/ncn
+
+수도권에
+	수도권/ncn+에/jca
+
+이어
+	이/npd+이/jp+어/ecs
+
+지방
+	지방/ncn
+
+대도시도
+	대도시/ncn+도/jxc
+
+소형
+	소형/ncn
+
+아파트
+	아파트/ncn
+
+분양
+	분양/ncpa
+
+열기로
+	열/pvg+기/etn+로/jca
+
+후끈
+	후끈/mag
+
+달아
+	달/paa+아/ecx
+
+오르고
+	오르/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+지방
+	지방/ncn
+
+대도시에
+	대도시/ncn+에/jca
+
+건설되는
+	건설/ncpa+되/xsvn+는/etm
+
+소형
+	소형/ncn
+
+아파트의
+	아파트/ncn+의/jcm
+
+입지
+	입/pvg+지/ecx
+
+여건이
+	여건/ncn+이/jcc
+
+양호한
+	양호/ncn+한/ncn
+
+데다
+	데/nbn+이/jp+다/ef
+
+건설사
+	건설사/ncn
+
+역시
+	역시/mag
+
+불황
+	불황/ncn
+
+타개를
+	타개/ncpa+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+서울
+	서울/ncn
+
+수도권에서
+	수도권/ncn+에서/jca
+
+인기
+	인기/ncn
+
+상한가를
+	상한가/ncn+를/jco
+
+치는
+	치/pvg+는/etm
+
+작은
+	작/paa+은/etm
+
+아파트로
+	아파트/ncn+로/jca
+
+승부수를
+	승부/ncpa+수/ncn+를/jco
+
+띄우는
+	띄우/pvg+는/etm
+
+등
+	등/nbu
+
+총력전을
+	총력전/ncn+을/jco
+
+펼치고
+	펼치/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+LH는
+	LH/f+는/jxc
+
+세종시와
+	세종시/ncn+와/jcj
+
+15
+	15/nnc
+
+정도
+	정도/ncn
+
+떨어진
+	떨/pvg+어/ecx+지/px+ㄴ/etm
+
+대전광역시
+	대전/ncn+광역시/ncn
+
+유성구
+	유성/ncn+구/ncn
+
+지곡동
+	지곡동/ncn
+
+노은3지구에
+	노은3지구/ncn+에/jca
+
+'노은3지구
+	'노은3지구/ncn
+
+휴먼시아(B-1블록)'을
+	휴먼시아(B-1블록)'/ncn+을/jco
+
+6월에
+	6/nnc+월/nbu+에/jca
+
+분양한다
+	분양/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+총
+	총/mma
+
+527가구를
+	527/nnc+가구/nbu+를/jco
+
+분양하는
+	분양/ncpa+하/xsva+는/etm
+
+'노은3지구
+	'노은3지구/ncn
+
+휴먼시아(B-1블록)'는
+	휴먼시아(B-1블록)'/ncn+는/jxc
+
+모두
+	모두/mag
+
+전용면적
+	전용/ncpa+면적/ncn
+
+51~84
+	51/nnc+~/sd+84/nnc
+
+짜리
+	짜/pvg+리/ef
+
+소형으로
+	소형/ncn+으로/jca
+
+편성했다
+	편성/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+현대건설도
+	현대건설/ncn+도/jxc
+
+광구광역시
+	광구광역시/ncn
+
+서구
+	서구/ncn
+
+화정동
+	화정/ncn+동/ncn
+
+주공아파트를
+	주공아파트/ncn+를/jco
+
+재건축한
+	재건축/ncn+한/ncn
+
+'화정
+	'/sr+화정/ncn
+
+힐스테이트'를
+	힐스테이트'/ncn+를/jco
+
+7월
+	7/nnc+월/nbu
+
+분양할
+	분양/ncpa+하/xsva+ㄹ/etm
+
+예정이다
+	예정/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+아파트는
+	아파트/ncn+는/jxc
+
+지하
+	지하/ncn
+
+2층,
+	2/nnc+층/nbu+,/sp
+
+지상
+	지상/ncn
+
+33층
+	33/nnc+층/nbu
+
+35개동
+	35/nnc+개동/nbu
+
+전용면적
+	전용/ncpa+면적/ncn
+
+59~101
+	59/nnc+~/sd+101/nnc
+
+으로
+	으로/ncn
+
+총
+	총/mma
+
+3726가구다
+	3726/nnc+가구/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+이중
+	이중/ncn
+
+일반분양하는
+	일반/ncn+분양/ncpa+하/xsva+는/etm
+
+959가구는
+	959/nnc+가구/nbu+는/jxc
+
+84
+	84/nnc
+
+으로
+	으/ncn+로/jca
+
+사이즈가
+	사이즈/ncn+가/jcs
+
+작다
+	작/paa+다/ef
+
+.
+	./sf
+
+
+GS건설은
+	GS건설/ncn+은/jxc
+
+대구광역시
+	대구/ncn+광역시/ncn
+
+중구
+	중구/ncn
+
+대신동
+	대신/ncn+동/ncn
+
+1748번지
+	1748번지/ncn
+
+일대를
+	일/nnc+대/nbu+를/jco
+
+재개발한
+	재개발/ncn+한/ncn
+
+'대신
+	'/sr+대/nbu+이/jp+시/ep+ㄴ/etm
+
+센트럴자이'를
+	센트럴/ncn+자/ncn+이/jcc+'/sr+를/jco
+
+6월
+	6/nnc+월/nbu
+
+공급한다
+	공급/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+59~96
+	59/nnc+~/sd+96/nnc
+
+1147가구
+	1147/nnc+가구/nbu
+
+중
+	중/nbn
+
+일반분양은
+	일반/ncn+분양/ncpa+은/jxc
+
+890가구다
+	890/nnc+가구/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+GS건설이
+	GS건설/ncn+이/jcc
+
+분양하는
+	분양/ncpa+하/xsva+는/etm
+
+아파트
+	아파트/ncn
+
+전가구를
+	전/xp+가구/ncn+를/jco
+
+100
+	100/nnc
+
+이하
+	이하/ncn
+
+소형으로
+	소형/ncn+으로/jca
+
+공급하기는
+	공급/ncpa+하/xsva+기/etn+는/jxc
+
+이례적이라는
+	이례/ncn+적/ncn+이/jp+라/ef+는/etm
+
+게
+	것/nbn+이/jcs
+
+업계의
+	업계/ncn+의/jcm
+
+중론이다
+	중론/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+쌍용건설
+	쌍용건설/ncn
+
+역시
+	역시/mag
+
+울산광역시
+	울산광역시/ncn
+
+화봉동
+	화봉동/ncn
+
+1463번지에
+	1463번지/ncn+에/jca
+
+'화봉지구
+	'화봉지구/ncn
+
+쌍용
+	쌍/ncn+용/xsncc
+
+예가'
+	예/npp+가/jcs+'/sr
+
+487가구를
+	487/nnc+가구/nbu+를/jco
+
+분양한다
+	분양/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+아파트도
+	아파트/ncn+도/jxc
+
+전체
+	전체/ncn
+
+가구를
+	가구/ncn+를/jco
+
+요즘
+	요즘/mag
+
+주목받는
+	주목/ncpa+받/xsva+는/etm
+
+전용면적
+	전용/ncpa+면적/ncn
+
+84
+	84/nnc
+
+짜리
+	짜/pvg+리/ef
+
+단일
+	단/nbu+이/jp+ㄹ/etm
+
+주택형으로
+	주택/ncn+형/ncn+으로/jca
+
+꾸몄다
+	꾸미/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+쌍용건설
+	쌍용건설/ncn
+
+측은
+	측은/ncps
+
+요즘
+	요즘/mag
+
+인기
+	인기/ncn
+
+높은
+	높/paa+은/etm
+
+중소형
+	중소형/ncn
+
+아파트인데다
+	아파트/ncn+이/jp+ㄴ/etm+데/nbn+이/jp+다/ef
+
+현대자동차
+	현대/ncn+자동차/ncn
+
+울산공장
+	울산공장/ncn
+
+등이
+	등/nbu+이/jcc
+
+들어선
+	들어서/pvg+ㄴ/etm
+
+효문산업단지가
+	효문산업단지/ncn+가/jcs
+
+자동차로
+	자동차/ncn+로/jca
+
+10분
+	10/nnc+분/nbu
+
+거리여서
+	거리/ncn+이/jp+어서/ecs
+
+100%
+	100/nnc+%/su
+
+분양을
+	불/pvg+ㄴ/etm+양/nbn+을/jco
+
+자신하고
+	자신/ncn+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+동문건설은
+	동문/ncn+건설/ncpa+은/jxc
+
+부산광역시
+	부산/ncps+광역시/ncn
+
+북구
+	북구/ncn
+
+만덕동
+	만덕동/ncn
+
+만덕
+	만덕/ncn
+
+주공아파트를
+	주공아파트/ncn+를/jco
+
+재건축한
+	재건축/ncn+한/ncn
+
+'백양산
+	'백양산/ncn
+
+동문굿모닝힐(3160가구)'를
+	동문굿모닝힐(3160가구)'/ncn+를/jco
+
+분양한다
+	분양/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+백양산
+	백양산/ncn
+
+동문굿모닝힐은
+	동문굿모닝힐/ncn+은/jxc
+
+일반분양하는
+	일반/ncn+분양/ncpa+하/xsva+는/etm
+
+1960가구중
+	1960/nnc+가구/nbu+중/xsnx
+
+880%를
+	880/nnc+%/su+를/jco
+
+전용면적
+	전용/ncpa+면적/ncn
+
+84
+	84/nnc
+
+짜리
+	짜/pvg+리/ef
+
+소형
+	소형/ncn
+
+아파트로
+	아파트/ncn+로/jca
+
+채웠다
+	채우/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+모아주택산업도
+	모아주택산업/ncn+도/jxc
+
+광주광역시
+	광주광역시/ncn
+
+광산구
+	광산구/ncn
+
+선암동
+	선암동/ncn
+
+선운
+	선운/ncn
+
+택지개발지구
+	택지개발지구/ncn
+
+6블록에
+	6블록/ncn+에/jca
+
+'어등산
+	'어등산/ncn
+
+모아엘가'
+	모아엘가'/ncn
+
+404가구를
+	404/nnc+가구/nbu+를/jco
+
+공급하면서
+	공급/ncpa+하/xsva+면서/ecc
+
+전용면적을
+	전용/ncpa+면적/ncn+을/jco
+
+모두
+	모두/mag
+
+79~84
+	79/nnc+~/sd+84/nnc
+
+로
+	로/ncn
+
+작게
+	작/paa+게/ecs
+
+책정했다
+	책정/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+건설업계
+	건설업계/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+관계자는
+	관계자/ncn+는/jxc
+
+"서울
+	"서울/ncn
+
+수도권에
+	수도권/ncn+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+지방의
+	지방/ncn+의/jcm
+
+분양시장이
+	분양/ncpa+시장/ncn+이/jcc
+
+활기를
+	활기/ncn+를/jco
+
+띄고
+	뜨/pvg+어/ef+고/jcr
+
+있다"며
+	있다"며/ncn
+
+"각
+	"/sl+각/mma
+
+건설사들이
+	건설사들/ncn+이/jcc
+
+지방
+	지방/ncn
+
+분양시장을
+	분양/ncpa+시장/ncn+을/jco
+
+효과적으로
+	효과/ncn+적/ncn+으로/jca
+
+공략하기
+	공략/ncpa+하/xsva+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+가격이
+	가격/ncn+이/jcc
+
+저렴하면서
+	저렴/ncps+하/xsms+면서/ecc
+
+쓰임새가
+	쓰임새/ncn+가/jcs
+
+많은
+	많/paa+은/etm
+
+확장형
+	확장/ncpa+형/ncn
+
+소형
+	소형/ncn
+
+아파트로
+	아파트/ncn+로/jca
+
+승부하는
+	승부/ncpa+하/xsva+는/etm
+
+사례가
+	사례/ncn+가/jcs
+
+늘어나고
+	늘/pvg+어/ecx+나/px+고/ecc
+
+있다"고
+	있/px+다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:헤럴드경제
+	출처:헤럴드경제/ncn

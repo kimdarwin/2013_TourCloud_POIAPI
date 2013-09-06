@@ -1,0 +1,589 @@
+신사동
+	신사/ncr+동/ncn
+
+가로수길
+	가로수/ncn+길/ncn
+
+끝자락에
+	끝자락/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+한잔의
+	한/nnc+잔/nbu+의/jcm
+
+추억
+	추억/ncpa
+
+
+가로수길의다른
+	가로수길의다른/ncn
+
+술집,
+	술집/ncn+,/sp
+
+음식점과는
+	음식/ncn+점/ncn+과/jct+는/jxc
+
+전혀
+	전혀/mag
+
+동떨어진
+	동떨어지/paa+ㄴ/etm
+
+외관이지만
+	외관/ncn+이/jp+지만/ecs
+
+늘
+	늘/mag
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+꽤
+	끄/pvg+어/ecx
+
+많습니다
+	많/paa+습니다/ef
+
+.
+	./sf
+
+
+뭐
+	뭐/npd
+
+항간에
+	항간/ncn+에/jca
+
+물이
+	물/ncn+이/jcc
+
+좋다는소문도
+	좋다는소문/ncn+도/jxc
+
+있긴한데
+	있긴한데/ncn
+
+제가
+	저/npp+가/jcs
+
+가던때만
+	가/px+던/etm+때/nbn+만/jxc
+
+늘
+	늘/mag
+
+평범했던지
+	평범/ncps+하/xsms+었/ep+던/etm+지/nbn
+
+...
+	.../se
+
+
+그런건
+	그런건/ncn
+
+잘
+	잘/mag
+
+모르겠고
+	모르/pvg+겠/ep+고/ecc
+
+..
+	./sf+./sf
+
+
+(아
+	(/sl+아/ii
+
+제가
+	저/npp+가/jcs
+
+물을
+	물/ncn+을/jco
+
+흐리는건가요
+	흐리/paa+는/etm+것/nbn+이/jp+ㄴ가/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+^^;;)
+	^/sy+^/sy+;/sy+;/sy+)/sr
+
+
+메뉴판
+	메뉴판/ncn
+
+
+이곳을
+	이곳/npd+을/jco
+
+오는
+	오/px+는/etm
+
+이유는
+	이유/ncn+는/jxc
+
+주로
+	주로/mag
+
+고추튀김과
+	고추/ncn+튀김/ncn+과/jcj
+
+후라이드치킨에
+	후라이드치킨/ncn+에/jca
+
+맥주
+	맥주/ncn
+
+한잔
+	한/nnc+잔/nbu
+
+하기
+	하/pvg+기/etn
+
+위해서
+	위하/pvg+어서/ecs
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+다른
+	다른/mma
+
+메뉴는
+	메뉴/ncn+는/jxc
+
+한번도
+	한/nnc+번/nbu+도/jxc
+
+안먹어봤음
+	안먹어봤음/ncn
+
+..
+	./sf+./sf
+
+
+술도
+	술/ncn+도/jxc
+
+다양하게
+	다양/ncps+하/xsms+게/ecs
+
+있지만생맥주만
+	있지만생맥주/ncn+만/jxc
+
+먹어봐서
+	먹/pvg+어/ecx+보/px+아/ecx
+
+..
+	./sf+./sf
+
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+이곳
+	이곳/npd
+
+맥주도
+	맥주/ncn+도/jxc
+
+괜찮은
+	괜찮/paa+은/etm
+
+편입니다
+	편/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+맥주
+	맥주/ncn
+
+맛있다는
+	맛있/paa+다/ef+는/etm
+
+집
+	집/ncn
+
+맥주보다야
+	맥주/ncn+보다/jca+이/jp+야/ef
+
+덜하지만
+	덜하/paa+지/ecx+말/px+ㄴ/etm
+
+일반
+	일반/ncn
+
+호프집
+	호프/ncn+집/ncn
+
+중에서는
+	중/nbn+에서/jca+는/jxc
+
+나은편이라고
+	나/px+ㄴ/etm+편/nbn+이/jp+라/ef+고/jcr
+
+생각합니다
+	생각/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+고추튀김
+	고추/ncn+튀김/ncn
+
+부터
+	부터/ncn
+
+주문~
+	주문/ncn+~/sd
+
+
+커다란
+	커다랗/paa+은/etm
+
+고추튀김이
+	고추/ncn+튀김/ncn+이/jcc
+
+수북히
+	수북/ncps+히/xsas
+
+쌓여
+	쌓이/pvg+어/ecx
+
+나옵니다
+	나/pvg+아/ecx+오/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+일반
+	일반/ncn
+
+튀김집
+	튀김/ncn+집/ncn
+
+고추튀김과
+	고추/ncn+튀김/ncn+과/jcj
+
+별
+	별/mma
+
+차이
+	차/ncn+이/jcc
+
+없어보이는
+	없/paa+어/ecx+보이/px+는/etm
+
+형태인데
+	형태/ncn+이/jp+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+속이
+	속/ncn+이/jcc
+
+튼실하니
+	튼실하/ncn+이/jp+니/ecs
+
+맛있습니다
+	맛있/paa+습니다/ef
+
+..
+	./sf+./sf
+
+
+맥주랑
+	맥주/ncn+랑/jxc
+
+먹으면
+	먹/pvg+으면/ecs
+
+아주
+	아주/mag
+
+그만이죠
+	그만이/paa+죠/ef
+
+^^
+	^/sy+^/sy
+
+
+후라이드
+	후라이드/ncn
+
+치킨
+	치킨/ncn
+
+
+(옆에
+	(/sl+옆/ncn+에/jca
+
+고추튀김은
+	고추/ncn+튀김/ncn+은/jxc
+
+접시
+	접시/ncn
+
+줄이려고
+	줄/nbn+이/jp+려고/ecs
+
+먹다가
+	먹/pvg+다가/ecs
+
+덜어
+	덜/pvg+어/ecx
+
+놓은것;;)
+	놓은것/ncn+;/sy+;/sy+)/sr
+
+
+후라이드
+	후라이드/ncn
+
+튀김
+	튀기/pvg+ㅁ/etn
+
+색깔이
+	색깔/ncn+이/jcc
+
+진한편인데
+	진하/paa+ㄴ/etm+편/nbn+이/jp+ㄴ데/ecs
+
+튀김옷에
+	튀김옷/ncn+에/jca
+
+이것저것
+	이것저것/npd
+
+넣어서
+	넣/pvg+어서/ecs
+
+그렇다는군요
+	그렇/pad+다는군/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+고추도
+	고추/ncn+도/jxc
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+있어서
+	있/px+어서/ecs
+
+느끼하지
+	느끼하지/ncn
+
+않고
+	않/px+고/ecc
+
+괜찮습니다
+	괜찮/paa+습니다/ef
+
+..
+	./sf+./sf
+
+
+간단히
+	간단히/mag
+
+치킨이나
+	치킨/ncn+이나/jcj
+
+고추튀김에
+	고추/ncn+튀김/ncn+에/jca
+
+맥주
+	맥주/ncn
+
+한잔
+	한/nnc+잔/nbu
+
+하고
+	하/pvg+고/ecc
+
+싶을때
+	싶/px+을/etm+때/nbn
+
+들르면
+	들르/pvg+면/ecs
+
+좋은
+	좋/paa+은/etm
+
+곳
+	곳/ncn
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+사람이
+	사람/ncn+이/jcc
+
+많다는게
+	많다는게/ncn
+
+흠이긴
+	흠이긴/ncn
+
+한데
+	하/pvg+ㄴ데/ecs
+
+그렇다고
+	그렇/pad+다/ef+고/jcr
+
+텅텅
+	텅텅/mag
+
+빈
+	비/paa+ㄴ/etm
+
+집이
+	집/ncn+이/jcc
+
+괜찮을리는
+	괜찮/paa+을/etm+리/nbn+는/jxc
+
+없으니
+	없/paa+으니/ecs
+
+감수는
+	감수/ncn+는/jxc
+
+해야할
+	하/pvg+어야/ecx+하/px+ㄹ/etm
+
+듯.
+	듯/nbs+./sf
+
+.
+	./sf
+
+
+한잔의
+	한/nnc+잔/nbu+의/jcm
+
+추억
+	추억/ncpa
+
+
+전화번호
+	전화번호/ncn
+
+:
+	:/sp
+
+02-541-0969
+	02/nnc+-541/nnc+-0969/nnc
+
+주소
+	주소/ncn
+
+:
+	:/sp
+
+서울특별시
+	서울특별시/ncn
+
+강남구
+	강남/ncn+구/ncn
+
+신사동
+	신사/ncr+동/ncn
+
+549-9
+	549/nnc+-9/nnc
+
+
+신사동
+	신사/ncr+동/ncn
+
+가로수길
+	가로수/ncn+길/ncn
+
+현대고등학교
+	현대/ncn+고등학교/ncn
+
+방면으로
+	방면/ncn+으로/jca
+
+들어와
+	들/pvg+어/ecx+오/px+아/ecx
+
+왼쪽
+	왼쪽/ncn
+
+첫번째
+	첫/nno+번/nbu+째/xsnu
+
+골목
+	골목/ncn
+
+40m
+	40m/ncn
+
+
+한잔의
+	한/nnc+잔/nbu+의/jcm
+
+추억
+	추억/ncpa
+
+
+서울
+	서울/ncn
+
+강남구
+	강남/ncn+구/ncn
+
+신사동
+	신사/ncr+동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01367991",
+	"bl01367991",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"한잔의
+	title/f+:/sp+"/sl+한/nnc+잔/nbu+의/jcm
+
+추억",
+	추억/ncpa+"/sr+,/sp
+
+pointX:313854,pointY:547291}
+	pointX/f+:/sp+313854/nnc+,/sp+pointY/f+:/sp+547291/nnc+}/sr

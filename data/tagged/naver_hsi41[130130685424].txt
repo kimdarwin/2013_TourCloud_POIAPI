@@ -1,0 +1,906 @@
+분양가
+	분양가/ncn
+
+상한제를
+	상한제/ncn+를/jco
+
+피해
+	피하/pvg+어/ecx
+
+쏟아낸
+	쏟/pvg+아/ecx+내/px+ㄴ/etm
+
+밀어내기
+	밀/pvg+어/ecx+내/px+기/etn
+
+아파트가
+	아파트/ncn+가/jcs
+
+최근
+	최근/mag
+
+경매시장에
+	경매시장/ncn+에/jca
+
+속속
+	속속/mag
+
+등장하면서
+	등장/ncpa+하/xsva+면서/ecc
+
+금융권의
+	금융권/ncn+의/jcm
+
+우려도
+	우려/ncpa+도/jxc
+
+커지고
+	크/paa+어/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+부동산
+	부동산/ncn
+
+시장
+	시장/ncn
+
+침체로
+	침체/ncpa+로/jca
+
+집값
+	집값/ncn
+
+상승에
+	상승/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+기대감이
+	기대감/ncn+이/jcc
+
+사라지고
+	사라지/pvg+고/ecc
+
+경매
+	경매/ncn
+
+낙찰가율이
+	낙찰가/ncn+율/ncn+이/jcc
+
+낮아지면서
+	낮/paa+아/ecx+지/px+면서/ecc
+
+은행
+	은행/ncn
+
+등
+	등/nbu
+
+채권자가
+	채권자/ncn+가/jcs
+
+대출
+	대출/ncpa
+
+원금조차
+	원금/ncn+조차/jxc
+
+받지
+	받/pvg+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+채
+	채/nbn
+
+사실상
+	사실상/ncn
+
+돈을
+	돈/ncn+을/jco
+
+떼이는
+	떼/ncn+이/jp+는/etm
+
+경매
+	경매/ncn
+
+미회수액이
+	미회수액/ncn+이/jcc
+
+점차
+	점차/mag
+
+늘고
+	늘/pvg+고/ecc
+
+있기
+	있/px+기/etn
+
+때문이다.
+	때문/nbn+이/jp+다/ef+./sf
+
+6일
+	6/nnc+일/nbu
+
+금융권에
+	금융권/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+지난해
+	지난해/ncn
+
+12월
+	12/nnc+월/nbu
+
+말
+	말/px+ㄹ/etm
+
+기준
+	기준/ncpa
+
+국민
+	국민/ncn
+
+신한
+	시/paa+ㄴ/etm+한/nbn
+
+우리
+	우리/npp
+
+하나
+	하나/nnc
+
+기업은행,
+	기업/ncn+은행/ncn+,/sp
+
+농협
+	농협/ncn
+
+등
+	등/nbu
+
+6개
+	6/nnc+개/nbu
+
+시중은행에서
+	시중은행/ncn+에서/jca
+
+올해
+	올해/ncn
+
+만기가
+	만/nnc+기/nbu+가/jcc
+
+돌아오는
+	돌/pvg+아/ecx+오/px+는/etm
+
+일시상환
+	일시/ncn+상환/ncpa
+
+주택담보대출
+	주택/ncn+담보대출/ncn
+
+잔액은
+	잔액/ncn+은/jxc
+
+44조2040억원에
+	44/nnc+조/nnc+2040/nnc+억/nnc+원/nbu+에/jca
+
+달하는
+	달하/pvg+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+집계됐다
+	집계/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+이는
+	이/npd+는/jxc
+
+6개
+	6/nnc+개/nbu
+
+은행의
+	은행/ncn+의/jcm
+
+전체
+	전체/ncn
+
+주택담보대출
+	주택/ncn+담보대출/ncn
+
+잔액
+	잔액/ncn
+
+246조9597억원의
+	246/nnc+조/nnc+9597/nnc+억/nnc+원/nbu+의/jcm
+
+18%에
+	18/nnc+%/su+에/jca
+
+해당하는
+	해당/ncpa+하/xsva+는/etm
+
+수치다
+	수치/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+은행별로는
+	은행/ncn+별/ncn+로/jca+는/jxc
+
+국민은행의
+	국민/ncn+은행/ncn+의/jcm
+
+일시상환
+	일시/ncn+상환/ncpa
+
+주택담보대출
+	주택/ncn+담보대출/ncn
+
+잔액이
+	잔액/ncn+이/jcc
+
+10조2735억원으로
+	10/nnc+조/nnc+2735/nnc+억/nnc+원/nbu+으로/jca
+
+가장
+	가장/mag
+
+많았고
+	많/paa+아/ep+고/ecc
+
+우리은행
+	우리/ncn+은행/ncn
+
+9조4709억원,
+	9/nnc+조/nnc+4709/nnc+억/nnc+원/nbu+,/sp
+
+농협
+	농협/ncn
+
+7조4000억원,
+	7/nnc+조/nnc+4000/nnc+억/nnc+원/nbu+,/sp
+
+신한은행
+	신한은행/ncn
+
+6조5000억원,
+	6/nnc+조/nnc+5000/nnc+억/nnc+원/nbu+,/sp
+
+하나은행
+	하나은행/ncn
+
+5조9132억원,
+	5/nnc+조/nnc+9132/nnc+억/nnc+원/nbu+,/sp
+
+기업은행
+	기업/ncn+은행/ncn
+
+4조6464억원
+	4/nnc+조/nnc+6464/nnc+억/nnc+원/nbu
+
+순이다
+	순/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+원금상환
+	원금상환/ncpa
+
+시기가
+	시/nbu+이/jp+기/etn+가/jcs
+
+도래하면서
+	도래/ncpa+하/xsva+면서/ecc
+
+금융권은
+	금융권/ncn+은/jxc
+
+촉각을
+	촉각/ncn+을/jco
+
+곤두세우고
+	곤두세우/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+시중은행
+	시중은행/ncn
+
+관계자는
+	관계자/ncn+는/jxc
+
+올해
+	올해/ncn
+
+만기가
+	만/nnc+기/nbu+가/jcc
+
+돌아오는
+	돌/pvg+아/ecx+오/px+는/etm
+
+주택담보대출의
+	주택/ncn+담보대출/ncn+의/jcm
+
+일부는
+	일/nnc+부/nbu+는/jxc
+
+심사를
+	심사/ncn+를/jco
+
+거쳐
+	거치/pvg+어/ecx
+
+큰
+	크/paa+ㄴ/etm
+
+문제가
+	문제/ncn+가/jcs
+
+없으면
+	없/paa+으면/ecs
+
+내년으로
+	내년/ncn+으로/jca
+
+만기를
+	만/nnc+기/nbu+를/jco
+
+연장할
+	연장/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+면서도
+	면/ncn+서/jca+도/jxc
+
+하지만
+	하지만/maj
+
+가계의
+	가계/ncn+의/jcm
+
+부채상환능력이
+	부채상환/ncn+능력/ncn+이/jcc
+
+점점
+	점점/mag
+
+떨어지고
+	떨어지/pvg+고/ecc
+
+있어
+	있/px+어/ecx
+
+만기
+	만/nnc+기/nbu
+
+연장이
+	연장/ncn+이/jcc
+
+오히려
+	오히려/mag
+
+은행의
+	은행/ncn+의/jcm
+
+리스크를
+	리스크/ncn+를/jco
+
+키우는
+	키우/pvg+는/etm
+
+요인일
+	요인/ncn+이/jp+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+고
+	고/mma
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+주택담보대출에
+	주택/ncn+담보대출/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+만기연장이
+	만기/ncpa+연장/ncn+이/jcc
+
+가능하다면
+	가능/ncps+하/xsms+다면/ecs
+
+최악의
+	최악/ncn+의/jcm
+
+상황은
+	상황/ncn+은/jxc
+
+피할
+	피하/pvg+ㄹ/etm
+
+듯
+	듯/nbn
+
+보이지만
+	보이/pvg+지/ecx+말/px+ㄴ/etm
+
+그럴
+	그렇/pad+을/etm
+
+형편이
+	형편/ncn+이/jcc
+
+아니다
+	아니/paa+다/ef+./sf
+
+.
+	./sf
+
+
+금융당국은
+	금융당국/ncn+은/jxc
+
+가계대출이
+	가계대출/ncpa+이/jcc
+
+지나치게
+	지나치/pvg+게/ecs
+
+많다고
+	많/paa+다/ef+고/jcr
+
+보고
+	보/px+고/ecc
+
+증가를
+	증가/ncpa+를/jco
+
+억제하는
+	억제/ncpa+하/xsva+는/etm
+
+정책을
+	정책/ncn+을/jco
+
+펴고
+	피/pvg+어/ef+고/jcr
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+최악의
+	최악/ncn+의/jcm
+
+경우
+	경우/ncn
+
+은행은
+	은행/ncn+은/jxc
+
+경매를
+	경매/ncn+를/jco
+
+통해서라도
+	통하/pvg+어서/ecs+라도/jxc
+
+대출금
+	대출금/ncn
+
+회수에
+	회수/ncpa+에/jca
+
+나서야
+	나/px+아/ecs
+
+할
+	하/pvg+ㄹ/etm
+
+형편이지만
+	형편/ncn+이/jp+지만/ecs
+
+일정
+	일정/ncn
+
+부분은
+	부분/ncn+은/jxc
+
+대출
+	대출/ncpa
+
+원금
+	원금/ncn
+
+손해가
+	손해/ncn+가/jcs
+
+불가피한
+	불가피/ncps+하/xsms+ㄴ/etm
+
+실정이다
+	실정/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+주택담보대출의
+	주택/ncn+담보대출/ncn+의/jcm
+
+부실채권
+	부실채권/ncn
+
+비율은
+	비율/ncn+은/jxc
+
+지난해
+	지난해/ncn
+
+9월
+	9/nnc+월/nbu
+
+말
+	말/px+ㄹ/etm
+
+기준
+	기준/ncpa
+
+국민은행이
+	국민/ncn+은행/ncn+이/jcc
+
+1.
+	1./nnc
+
+01%를
+	01/nnc+%/su+를/jco
+
+기록하며
+	기록/ncpa+하/xsva+며/ecc
+
+은행권
+	은행권/ncn
+
+처음으로
+	처음/ncn+으로/jca
+
+1%대를
+	1/nnc+%/su+대/xsnu+를/jco
+
+넘었다
+	넘/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+기업은행과
+	기업/ncn+은행/ncn+과/jcj
+
+농협도
+	농협/ncn+도/jxc
+
+각각
+	각각/mag
+
+0.
+	0./nnc
+
+72%와
+	72/nnc+%/su+와/jcj
+
+0.
+	0./nnc
+
+66%의
+	66/nnc+%/su+의/jcm
+
+부실채권
+	부실채권/ncn
+
+비율을
+	비율/ncn+을/jco
+
+기록했다
+	기록/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+금융권의
+	금융권/ncn+의/jcm
+
+주택담보대출
+	주택/ncn+담보대출/ncn
+
+손실은
+	손실/ncpa+은/jxc
+
+이미
+	이미/mag
+
+현실화한
+	현실화/ncn+한/ncn
+
+상태다
+	상태/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+지지옥션에
+	지지옥션/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+지난해
+	지난해/ncn
+
+수도권
+	수도권/ncn
+
+아파트를
+	아파트/ncn+를/jco
+
+담보로
+	담보/ncpa+로/jca
+
+빌려
+	빌리/pvg+어/ecx
+
+준
+	주/px+ㄴ/etm
+
+돈
+	돌/pvg+ㄴ/etm
+
+가운데
+	가운데/ncn
+
+경매로
+	경매/ncn+로/jca
+
+회수되지
+	회수/ncpa+되/xsvn+지/ecx
+
+못한
+	못하/px+ㄴ/etm
+
+돈이
+	돈/ncn+이/jcc
+
+총
+	총/ncn
+
+3680억원에
+	3680/nnc+억/nnc+원/nbu+에/jca
+
+이르고
+	이르/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+경매
+	경매/ncn
+
+미회수
+	미회수/ncn
+
+금액은
+	금액/ncn+은/jxc
+
+경매청구금액과
+	경매/ncn+청구/ncpa+금액/ncn+과/jcj
+
+낙찰금액을
+	낙찰/ncn+금액/ncn+을/jco
+
+단순
+	단순/ncps
+
+비교한
+	비교/ncpa+하/xsva+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+2008년엔
+	2008/nnc+년/nbu+엔/jca
+
+1540억원,
+	1540/nnc+억/nnc+원/nbu+,/sp
+
+2009년
+	2009/nnc+년/nbu
+
+3700억원,
+	3700/nnc+억/nnc+원/nbu+,/sp
+
+2010년
+	2010/nnc+년/nbu
+
+3850억원으로
+	3850/nnc+억/nnc+원/nbu+으로/jca
+
+최근
+	최근/mag
+
+3년간
+	3/nnc+년/nbu+간/xsnu
+
+매년
+	매년/ncn
+
+3500억원
+	3500/nnc+억/nnc+원/nbu
+
+이상을
+	이상/ncn+을/jco
+
+웃돌며
+	웃돌/pvg+며/ecc
+
+4년
+	4/nnc+년/nbu
+
+누적금액이
+	누적/ncpa+금액/ncn+이/jcc
+
+총
+	총/ncn
+
+1조2770억원에
+	1/nnc+조/nnc+2770/nnc+억/nnc+원/nbu+에/jca
+
+달한다
+	달하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+경매
+	경매/ncn
+
+미회수
+	미회수/ncn
+
+금액
+	금액/ncn
+
+가운데
+	가운데/ncn
+
+금융권의
+	금융권/ncn+의/jcm
+
+미회수
+	미회수/ncn
+
+금액은
+	금액/ncn+은/jxc
+
+지난해
+	지난해/ncn
+
+2310억원으로
+	2310/nnc+억/nnc+원/nbu+으로/jca
+
+전체
+	전체/ncn
+
+채권자
+	채권자/ncn
+
+미회수
+	미회수/ncn
+
+금액의
+	금액/ncn+의/jcm
+
+63%에
+	63/nnc+%/su+에/jca
+
+달했다
+	달하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+금융권의
+	금융권/ncn+의/jcm
+
+경매
+	경매/ncn
+
+미회수
+	미회수/ncn
+
+금액은
+	금액/ncn+은/jxc
+
+2008년
+	2008/nnc+년/nbu
+
+634억원,
+	634/nnc+억/nnc+원/nbu+,/sp
+
+2009년
+	2009/nnc+년/nbu
+
+1850억원,
+	1850/nnc+억/nnc+원/nbu+,/sp
+
+2010년
+	2010/nnc+년/nbu
+
+2350억원으로
+	2350/nnc+억/nnc+원/nbu+으로/jca
+
+매년
+	매년/mag
+
+증가하는
+	증가/ncpa+하/xsva+는/etm
+
+추세다
+	추세/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+출처:세계일보
+	출처/ncn+:/sp+세계/ncn+일보/ncn

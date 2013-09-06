@@ -1,0 +1,341 @@
+불곡산
+	불곡산/ncn
+
+가는
+	가/pvg+는/etm
+
+길
+	길/ncn
+
+:
+	:/sp
+
+서울
+	서울/ncn
+
+지하철
+	지하철/ncn
+
+인천에서-소요산
+	인천에서-소요산/ncn
+
+단이는1호선을
+	단이는1호선/ncn+을/jco
+
+타시고
+	타/pvg+시/ep+고/ecc
+
+양주역에서
+	양주/ncn+역/ncn+에서/jca
+
+내리신다음
+	내리신다음/ncn
+
+
+길을건너
+	길을건너/ncn
+
+소요산
+	소요/ncpa+산/ncn
+
+방향으로
+	방향/ncn+으로/jca
+
+가는시내버스39-
+	가는시내버스39-/ncn
+
+6번을
+	6/nnc+번/nbu+을/jco
+
+타시고
+	타/pvg+시/ep+고/ecc
+
+한정거장
+	한정/ncpa+거장/ncn
+
+가신다음
+	가신/ncn+다음/ncn
+
+
+양주시청
+	양주/ncn+시청/ncpa
+
+앞
+	앞/ncn
+
+하차
+	하차/ncn
+
+등산을
+	등산/ncpa+을/jco
+
+하시던지
+	하/px+시/ep+던/etm+지/nbn
+
+양주
+	양주/ncn
+
+전철역에서
+	전철역/ncn+에서/jca
+
+도보로약20분정도면
+	도보로약20분정도/ncn+이/jp+면/ecs
+
+양주
+	양주/ncn
+
+
+시청앞에
+	시청/ncn+앞/ncn+에/jca
+
+도착할수있읍니다
+	도착할수있읍니다/ncn
+
+코스-양주시청
+	코스/ncn+-/sd+양주/ncn+시청/ncpa
+
+뒤편을지나
+	뒤편을지/ncn+나/jcj
+
+불곡산
+	불곡산/ncn
+
+주
+	주/nbu
+
+등산로을
+	등산로/ncn+이/jp+ㄹ/etm
+
+타라
+	타/nbu+이/jp+라/ecs
+
+
+임꺽정
+	임꺽정/ncn
+
+봉에서
+	봉/ncn+에서/jca
+
+하산하시게
+	하산/ncpa+하시/ncn+이/jp+게/ecs
+
+되면
+	되/pvg+면/ecs
+
+소요시간
+	소요시간/ncn
+
+약3시간
+	약3시간/ncn
+
+산높이468.
+	산높이468./ncn
+
+7m
+	7m/ncn
+
+
+양주시청001
+	양주시청001/ncn
+
+
+불곡산은
+	불곡산/ncn+은/jxc
+
+옛날에
+	옛날/ncn+에/jca
+
+회양목이
+	회양목/ncn+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+겨울이되면
+	겨울/ncn+이/ncn+되/xsvn+면/ecs
+
+빨갛게
+	빨갛/paa+게/ecs
+
+물든다하여
+	물든다하/ncn+이/jp+어/ecs
+
+붙여진
+	붙이/pvg+어/ecx+지/px+ㄴ/etm
+
+이름이다
+	이름/ncn+이/jp+다/ef
+
+
+산의규모는
+	산의규모/ncn+는/jxc
+
+작으나
+	작/paa+으나/ecs
+
+암산이며특히
+	암산이며특히/ncn
+
+정상
+	정상/ncn
+
+부에는
+	부/ncn+에/jca+는/jxc
+
+바위가
+	바위/ncn+가/jcs
+
+많아
+	많/paa+아/ecx
+
+산이제법
+	산이제법/ncn
+
+헙해
+	헙해/ncn
+
+오밀조밀
+	오밀조밀/mag
+
+
+한
+	하/pvg+ㄴ/etm
+
+산세를
+	산세/ncn+를/jco
+
+오르는
+	오르/pvg+는/etm
+
+재미가있다
+	재미가있다/ncn
+
+
+정상
+	정상/ncn
+
+으로
+	으/ncn+로/jca
+
+가는길은
+	가는길/ncn+은/jxc
+
+험한편이나
+	험하/paa+ㄴ/etm+편/nbn+이/jp+나/ecs
+
+정상에
+	정상/ncn+에/jca
+
+오르면
+	오르/pvg+면/ecs
+
+사방이
+	사방/ncn+이/jcc
+
+탁트여
+	탁트이/pvg+어/ecx
+
+양주시와
+	양주/ncn+시/ncn+와/jcj
+
+의정부시를
+	의정부시/ncn+를/jco
+
+한눈에볼수있다
+	한눈에볼수있다/ncn
+
+
+불곡산
+	불곡산/ncn
+
+은
+	은/ncn
+
+정상으로
+	정상/ncn+으로/jca
+
+갈수록
+	가/px+ㄹ수록/ecs
+
+계곡
+	계곡/ncn
+
+층층이
+	층층/ncn+이/jcc
+
+깍아놓은듯한
+	깍/pvg+아/ecx+놓/px+은/etm+듯/nbs+하/xsms+ㄴ/etm
+
+암반이
+	암반/ncn+이/jcc
+
+위험한이
+	위험/ncn+한/ncn+이/jcc
+
+서로
+	서로/mag
+
+양보하며
+	양보/ncpa+하/xsva+며/ecc
+
+등산을하여야한다
+	등산을하/ncn+이/jp+어야/ecx+하/px+ㄴ다/ef
+
+
+정상
+	정상/ncn
+
+에서
+	에/pvg+어서/ecs
+
+서쪽
+	서쪽/ncn
+
+능선을
+	능선/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+가다보면
+	가/pvg+아/ecx+보/px+면/ecs
+
+암봉위에
+	암봉위/ncn+에/jca
+
+얹힌
+	얹히/pvg+ㄴ/etm
+
+바위틈으로
+	바위/ncn+틈/ncn+으로/jca
+
+빠져나가기도하고
+	빠져나가기도하/ncn+이/jp+고/ecc
+
+밧줄을잡고
+	밧줄을잡고/ncn
+
+가기도한다
+	가기도한다/ncn
+
+
+불곡산
+	불곡산/ncn
+
+에서
+	에/pvg+어서/ecs
+
+임꺽정봉
+	임꺽정봉/ncn
+
+을
+	을/ncn
+
+등산하기위해서는
+	등산/ncpa+하기/ncn+위해/ncn+서/jca+는/jxc
+
+암벽을
+	암벽/ncn+을/jco
+
+내려가야한다
+	내/nbn+이/jp+려/ecx+가/px+아/ecx+하/px+ㄴ다/ef

@@ -1,0 +1,687 @@
+옥이아토피
+	옥이아토피/ncn
+
+피부염
+	피부염/ncn
+
+유발
+	유발/ncpa
+
+물질
+	물질/ncn
+
+등
+	등/nbu
+
+신체에
+	신체/ncn+에/jca
+
+해로운
+	해롭/paa+은/etm
+
+중금속
+	중금속/ncn
+
+성분이
+	성분/ncn+이/jcc
+
+적어
+	적/pvg+어/ecx
+
+쾌적하고
+	쾌적/ncps+하고/jct
+
+안전한
+	안전/ncps+하/xsms+ㄴ/etm
+
+생활공간이라는
+	생활공간/ncn+이/jp+라/ef+는/etm
+
+사실이
+	사실/ncn+이/jcc
+
+입증됐다
+	입증/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+전남도
+	전남도/ncn
+
+보건환경연구원(원장
+	보건환경연구원(원장/ncn
+
+정선호)은
+	정선호)/ncn+은/jxc
+
+22일
+	22/nnc+일/nbu
+
+이같은
+	이같은/mma
+
+내용을
+	내용/ncn+을/jco
+
+골자로
+	골자/ncn+로/jca
+
+한
+	하/pvg+ㄴ/etm
+
+'행복마을의
+	'/sr+행복/ncps+마을/ncn+의/jcm
+
+한옥
+	한옥/ncn
+
+실내
+	실내/ncn
+
+공기질
+	공기/ncn+질/ncn
+
+특성
+	특성/ncn
+
+연구조사'
+	연구조사/ncpa+'/sr
+
+결과를
+	결과/ncn+를/jco
+
+발표했다
+	발표/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+지난해
+	지난해/ncn
+
+실시된
+	실시/ncpa+되/xsvn+ㄴ/etm
+
+이
+	이/mmd
+
+조사는전남지역
+	조사는전남지역/ncn
+
+행복마을
+	행복/ncps+마을/ncn
+
+한옥
+	한옥/ncn
+
+중
+	중/nbn
+
+도시
+	도시/ncn
+
+인근인
+	인근/ncn+이/jp+ㄴ/etm
+
+여수
+	여수/ncn
+
+상관과
+	상관/ncn+과/jcj
+
+무안
+	무안/ncpa
+
+약실,
+	약/ncn+실/xsncc+,/sp
+
+농촌인
+	농촌/ncn+이/jp+ㄴ/etm
+
+화순
+	화/ncn+순/xsncc
+
+야사와
+	야사/ncn+와/jcj
+
+영암
+	영암/ncn
+
+동계,
+	동계/ncn+,/sp
+
+관광지
+	관광지/ncn
+
+주변인
+	주변/ncn+이/jp+ㄴ/etm
+
+순천
+	순천/ncn
+
+안풍,
+	안풍,/ncn
+
+해남
+	하/pvg+어/ecx+나/px+ㅁ/etn
+
+매정
+	매정/ncps
+
+등
+	등/nbu
+
+6곳을
+	6/nnc+곳/nbu+을/jco
+
+선정해
+	선정/ncpa+하/xsva+어/ecx
+
+생활공간인
+	생활공간/ncn+이/jp+ㄴ/etm
+
+실내의
+	실내/ncn+의/jcm
+
+온
+	오/px+ㄴ/etm
+
+습도,
+	습도/ncn+,/sp
+
+총휘발성유기화합물,
+	총휘발성유기화합물,/ncn
+
+폼알데하이드,
+	폼알데하이드,/ncn
+
+중금속을
+	중금속/ncn+을/jco
+
+조사하는
+	조사/ncpa+하/xsva+는/etm
+
+방식으로
+	방식/ncn+으로/jca
+
+진행됐다
+	진행/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+전남도가
+	전남도/ncn+가/jcs
+
+집중
+	집중/ncpa
+
+육성중인
+	육성/ncn+중/ncn+이/jp+ㄴ/etm
+
+행복마을
+	행복/ncps+마을/ncn
+
+한옥에
+	한옥/ncn+에/jca
+
+외국인
+	외국/ncn+이/jp+ㄴ/etm
+
+관광객들의
+	관광객/ncn+들/ncn+의/jcm
+
+발길이
+	발길/ncn+이/jcc
+
+이어지고
+	잇/pvg+어/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+News1
+	News1/ncn
+
+
+한옥
+	한옥/ncn
+
+내
+	내/npp
+
+외부의
+	외부/ncn+의/jcm
+
+온
+	오/px+ㄴ/etm
+
+습도를
+	습도/ncn+를/jco
+
+24시간
+	24/nnc+시간/nbu
+
+조사한
+	조/nnc+사/nnc+한/nnc
+
+결과,
+	결과/ncn+,/sp
+
+외부
+	외부/ncn
+
+온도가
+	온도/ncn+가/jcs
+
+6
+	6/nnc
+
+25
+	25/nnc
+
+일
+	일/nnc
+
+때
+	때/ncn
+
+내부온도는
+	내부/ncn+온도/ncn+는/jxc
+
+15
+	15/nnc
+
+20
+	20/nnc
+
+였고
+	였고/ncn
+
+외부
+	외부/ncn
+
+습도가
+	습도/ncn+가/jcs
+
+28
+	28/nnc
+
+94%일
+	94/nnc+%/su+이/jp+ㄹ/etm
+
+때
+	때/ncn
+
+내부
+	내부/ncn
+
+습도는
+	습도/ncn+는/jxc
+
+45
+	45/nnc
+
+57%로
+	57/nnc+%/su+로/jca
+
+정온성과
+	정온/ncps+성/ncn+과/jcj
+
+항습성이
+	항습성/ncn+이/jcc
+
+뛰어난
+	뛰/pvg+어/ecx+나/px+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+확인됐다
+	확인/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+새집증후군과
+	새집/ncn+증후군/ncn+과/jcj
+
+아토피
+	아토/ncn+피/ncn
+
+피부염의
+	피부염/ncn+의/jcm
+
+원인
+	원/nbu+이/jp+ㄴ/etm
+
+물질로
+	물질/ncn+로/jca
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+폼알데하이드는
+	폼알데하이드/ncn+는/jxc
+
+허용
+	허용/ncpa
+
+기준이
+	기준/ncpa+이/jcc
+
+100
+	100/nnc
+
+/
+	//sp
+
+인데
+	일/pvg+ㄴ데/ecs
+
+한옥에서는
+	한옥/ncn+에서/jca+는/jxc
+
+19.6
+	19.6/nnc
+
+29.6
+	29.6/nnc
+
+/
+	//sp
+
+로
+	로/ncn
+
+일반
+	일반/ncn
+
+아파트(105.
+	아파트(105./ncn
+
+9
+	9/nnc
+
+/
+	//sp
+
+)나
+	)/sr+나/jcj
+
+양옥(44.
+	양옥(44./ncn
+
+1
+	1/nnc
+
+/
+	//sp
+
+)에
+	)/sr+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+매우
+	매우/mag
+
+낮았다
+	낮/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+호흡기와
+	호흡기/ncn+와/jcj
+
+신경계통에
+	신경/ncn+계통/ncn+에/jca
+
+영향을
+	영향/ncn+을/jco
+
+주는
+	주/px+는/etm
+
+총휘발성유기화합물도
+	총휘발성유기화합물/ncn+도/jxc
+
+86.8
+	86.8/nnc
+
+/
+	//sp
+
+로
+	로/ncn
+
+아파트(412.
+	아파트(412./ncn
+
+3
+	3/nnc
+
+/
+	//sp
+
+)와
+	)/sr+와/jcj
+
+양옥(155.
+	양옥(155./ncn
+
+7
+	7/nnc
+
+/
+	//sp
+
+)에
+	)/sr+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+훨씬
+	훨씬/mag
+
+낮게
+	낮/paa+게/ecs
+
+검출됐고
+	검출/ncpa+되/xsvn+었/ep+고/ecc
+
+실내
+	실내/ncn
+
+공기질도
+	공기/ncn+질/ncn+도/jxc
+
+권고
+	권/nbu+고/jcj
+
+기준(500
+	기준(500/ncn
+
+/
+	//sp
+
+)의
+	)/sr+의/jcm
+
+1/6
+	1/nnc+//sp+6/nnc
+
+수준이었다
+	수준/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+체내에
+	체내/ncn+에/jca
+
+축적돼
+	축적/ncpa+되/xsvn+어/ecx
+
+잘
+	잘/mag
+
+배출되지
+	배출/ncpa+되/xsvn+지/ecx
+
+않고
+	않/px+고/ecc
+
+장기간
+	장기간/ncn
+
+체류하면서
+	체류/ncpa+하/xsva+면서/ecc
+
+어린이의
+	어린이/ncn+의/jcm
+
+지능에
+	지능/ncn+에/jca
+
+악영향을
+	악영향/ncn+을/jco
+
+끼치고
+	끼치/pvg+고/ecc
+
+신체에
+	신체/ncn+에/jca
+
+부작용을
+	부작용/ncn+을/jco
+
+일으키는
+	일으키/pvg+는/etm
+
+중금속인
+	중금속/ncn+이/jp+ㄴ/etm
+
+납은
+	납/ncn+은/jxc
+
+전혀
+	전혀/mag
+
+검출되지
+	검출/ncpa+되/xsvn+지/ecx
+
+않아
+	않/px+아/ecx
+
+안전한
+	안전/ncps+하/xsms+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+확인됐다
+	확인/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+박종수
+	박종수/ncn
+
+전남도
+	전남도/ncn
+
+보건환경연구원
+	보건환경/ncn+연구원/ncr
+
+환경조사과장은
+	환경/ncn+조사/ncn+과장/ncr+은/jxc
+
+"한옥은
+	"/sl+한옥/ncn+은/jxc
+
+우리의
+	우리/npp+의/jcm
+
+전통과
+	전통/ncn+과/jcj
+
+문화가
+	문화/ncn+가/jcs
+
+살아
+	살/pvg+아/ecx
+
+숨쉬며
+	숨쉬/pvg+며/ecc
+
+아토피피부염
+	아토피피부염/ncn
+
+유발물질
+	유발/ncpa+물질/ncn
+
+등이
+	등/nbu+이/jcc
+
+적은
+	적/paa+은/etm
+
+친환경적
+	친환경적/ncn
+
+삶의
+	삶/ncn+의/jcm
+
+공간"이라며
+	공간/ncn+"/sr+이/jp+라며/ecs
+
+"전통문화를
+	"/sl+전통문화/ncn+를/jco
+
+가족과
+	가족/ncn+과/jct
+
+함께
+	함께/mag
+
+체험하면
+	체험/ncpa+하/xsva+면/ecs
+
+건강증진은
+	건강증진/ncpa+은/jxc
+
+절로
+	절/ncn+로/jca
+
+된다"고
+	되/pvg+ㄴ다/ef+"/sr+고/jcr
+
+강조했다
+	강조/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:머니투데이
+	출처/ncn+:/sp+머니/ncn+투데이/ncn

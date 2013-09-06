@@ -1,0 +1,752 @@
+홍대
+	홍대/ncps
+
+YOGI
+	YOGI/f
+
+!
+	!/sf
+
+
+[요기]
+	[/sl+요기/ncn+]/sr
+
+
+홍대는
+	홍대/ncps+는/jxc
+
+구경거리들이
+	구경/ncn+거리/ncn+들/ncn+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+참
+	참/mag
+
+좋아라
+	좋/paa+아/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+구경거리뿐만
+	구경/ncn+거리/ncn+뿐/jxc+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+먹거리들도
+	먹거리/ncn+들/ncn+도/jxc
+
+많지요
+	많/paa+지/ef+요/jxf
+
+^0^
+	^0/ncn+^/sy
+
+
+주말에
+	주말/ncn+에/jca
+
+북촌한옥만을을
+	북촌한옥만을/ncn+을/jco
+
+돌아보고
+	돌/pvg+아/ecx+보/px+고/ecc
+
+홍대로
+	홍/ncn+대로/jca
+
+향했습니다
+	향하/pvg+었/ep+습니다/ef
+
+!
+	!/sf
+
+
+미리
+	미리/mag
+
+알아둔
+	알/pvg+아/ecx+두/px+ㄴ/etm
+
+국수집
+	국수/ncn+집/ncn
+
+요기를
+	요/ncn+이/jp+기/etn+를/jco
+
+찾아서
+	찾/pvg+아/ecx
+
+말이죠
+	말/ncn+이/jp+죠/ef
+
+!
+	!/sf
+
+
+요기를
+	요/ncn+이/jp+기/etn+를/jco
+
+가려면
+	가/px+려면/ecs
+
+홍대정문에서
+	홍대/ncps+정문/ncn+에서/jca
+
+극동방송국
+	극동/ncn+방송국/ncn
+
+방향으로
+	방향/ncn+으로/jca
+
+가다보면
+	가/pvg+아/ecx+보/px+면/ecs
+
+
+삼거리포차
+	삼거리포차/ncn
+
+지나서있어요
+	지나/pvg+아/ecx+있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+저는
+	저/npp+는/jxc
+
+극동방송국이
+	극동/ncn+방송국/ncn+이/jcc
+
+어디야
+	어디/npd+이/jp+야/ef
+
+하며
+	하/pvg+며/ecc
+
+
+두리번
+	두리번/ncn
+
+거리던
+	것/nbn+이/jp+리/ef+던/etm
+
+순간
+	순간/ncn
+
+나타나더군요
+	나타나/pvg+더군/ef+요/jxf
+
+.
+	./sf
+
+
+제법
+	제법/mag
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+국수집이라
+	국수/ncn+집/ncn+이/jp+라/ecs
+
+줄을
+	줄/nbn+을/jco
+
+서서
+	서/pvg+어서/ecs
+
+기다려
+	기다리/pvg+어/ecx
+
+먹네요
+	먹/pvg+네/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+10분
+	10/nnc+분/nbu
+
+정도
+	정도/ncn
+
+줄을
+	줄/nbn+을/jco
+
+서서
+	서/pvg+어서/ecs
+
+기다리고
+	기다리/pvg+고/ecc
+
+드디어
+	드디어/mag
+
+안으로
+	안/ncn+으로/jca
+
+들어갔습니다
+	들/pvg+어/ecx+가/px+아/ep+ㅂ니다/ef
+
+!!!
+	!/sf+!/sf+!/sf
+
+
+실내에
+	실내/ncn+에/jca
+
+테이블은
+	테이블/ncn+은/jxc
+
+많지
+	많/paa+지/ecx
+
+않았지만
+	않/px+아/ep+지/ecx+말/px+ㄴ/etm
+
+사람은
+	사람/ncn+은/jxc
+
+상당히
+	상당히/mag
+
+많은듯
+	많/paa+은/etm+듯/nbs
+
+보이네요
+	보이/pvg+네/ef+요/jxf
+
+^^;
+	^/sy+^/sy+;/sy
+
+
+가게
+	가/px+게/ecs
+
+규모와는
+	규모/ncn+와/jct+는/jxc
+
+다르게
+	다르/paa+게/ecs
+
+일하시는
+	일/ncpa+하/xsva+시/ep+는/etm
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+7분
+	7/nnc+분/nbu
+
+정도는
+	정도/ncn+는/jxc
+
+되어보이십니다
+	되/pvg+어/ecx+보이/px+시/ep+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+좀
+	좀/mag
+
+정신없는
+	정신/ncn+없/xsmn+는/etm
+
+분위기
+	분위기/ncn
+
+?
+	?/sf
+
+
+^^
+	^/sy+^/sy
+
+작은
+	작/paa+은/etm
+
+가게의
+	가게/ncn+의/jcm
+
+매력이라고
+	매력/ncn+이/jp+라/ef+고/jcr
+
+긍정적으로
+	긍정/ncpa+적/ncn+으로/jca
+
+생각을
+	생각/ncpa+을/jco
+
+하면
+	하/pvg+면/ecs
+
+됩니다
+	되/paa+ㅂ니다/ef
+
+
+납작만두
+	납작/ncps+만두/ncn
+
+!!
+	!/sf+!/sf
+
+
+제일
+	제일/mag
+
+매력적인
+	매력/ncn+적/ncn+이/jp+ㄴ/etm
+
+메뉴라고
+	메뉴/ncn+이/jp+라/ef+고/jcr
+
+생각합니다
+	생각/ncpa+하/xsva+ㅂ니다/ef
+
+
+느끼하지
+	느끼하/ncn+이/jp+지/ecs
+
+않고
+	않/px+고/ecc
+
+국수와
+	국수/ncn+와/jct
+
+제법
+	제법/mag
+
+잘
+	잘/mag
+
+어울리는
+	어울리/pvg+는/etm
+
+메뉴더라구요
+	메뉴/ncn+이/jp+더라구/ef+요/jxf
+
+!
+	!/sf
+
+
+테이블에
+	테이블/ncn+에/jca
+
+납작메뉴를
+	납작/ncps+메뉴/ncn+를/jco
+
+시키지
+	시키/pvg+지/ecx
+
+않은
+	않/px+은/etm
+
+사람은
+	사람/ncn+은/jxc
+
+없는듯
+	없/paa+는/etm+듯/nbs
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+꿀꺽
+	꿀꺽/mag
+
+!
+	!/sf
+
+
+김치말이
+	김치/ncn+말/ncn+이/jcc
+
+국수
+	국수/ncn
+
+
+빈속의
+	빈/ncn+속/xsnx+의/jcm
+
+저에겐
+	저/npp+에겐/jca
+
+조금
+	조금/mag
+
+자극적이었던
+	자극/ncpa+적/ncn+이/jp+었/ep+던/etm
+
+김치말이국수
+	김치말이국수/ncn
+
+!
+	!/sf
+
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+국물과
+	국물/ncn+과/jcj
+
+쫄깃한
+	쫄깃한/ncn
+
+면이
+	면/ncn+이/jcc
+
+맛있더라구요
+	맛있/paa+더라구/ef+요/jxf
+
+!
+	!/sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+사실
+	사실/mag
+
+더
+	더/mag
+
+맛있는
+	맛있/paa+는/etm
+
+국수집을
+	국수/ncn+집/ncn+을/jco
+
+알고있기에
+	알/pvg+고/ecx+있/px+기/etn+에/jca
+
+
+요기의
+	요기/ncn+의/jcm
+
+국물맛은
+	국물/ncn+맛/ncn+은/jxc
+
+아쉬움이남습니다
+	아쉬움이남습니/ncn+이/jp+다/ef
+
+^^
+	^/sy+^/sy
+
+
+뭔가
+	뭔가/ncn
+
+자극적이고
+	자극/ncpa+적/ncn+이/jp+고/ecc
+
+매운것을
+	맵/paa+은/etm+것/nbn+을/jco
+
+드시고
+	들/pvg+시/ep+고/ecc
+
+싶다면
+	싶/paa+다면/ecs
+
+
+추천합니다요
+	추천/ncpa+하/xsva+ㅂ니다/ef+요/jxf
+
+.
+	./sf
+
+
+비빔국수
+	비빔/ncn+국수/ncn
+
+
+국수의
+	국수/ncn+의/jcm
+
+면이
+	면/ncn+이/jcc
+
+소면이
+	소면/ncn+이/jcc
+
+아니어서
+	아니/paa+어서/ecs
+
+
+국수가
+	국수/ncn+가/jcs
+
+조금더
+	조금더/ncn
+
+특별해
+	특별/ncps+하/xsms+어/ecx
+
+보이는
+	보이/pvg+는/etm
+
+듯합니다
+	듯/nbs+하/xsms+ㅂ니다/ef
+
+
+고추장
+	고추장/ncn
+
+양념이
+	양념/ncn+이/jcc
+
+맛있더라구요
+	맛있/paa+더라구/ef+요/jxf
+
+!
+	!/sf
+
+
+주방
+	주방/ncn
+
+바로
+	바로/mag
+
+코앞에서
+	코앞/ncn+에서/jca
+
+먹은관계로
+	먹은관계/ncn+로/jca
+
+국수뽑고
+	국수뽑고/ncn
+
+삶고
+	삶/ncn+고/jcj
+
+
+만드는
+	만들/pvg+는/etm
+
+과정을
+	과정/ncn+을/jco
+
+봤는데
+	보/px+아/ep+ㄴ데/ecs
+
+.
+	./sf
+
+
+손놀림이
+	손놀림/ncn+이/jcc
+
+빠른듯하면서도
+	빠르/paa+ㄴ/etm+듯/nbs+하/xsms+면서/ecs+도/jxc
+
+;;
+	;/sy+;/sy
+
+
+제법
+	제법/mag
+
+시간이
+	시간/ncn+이/jcc
+
+걸리는
+	걸리/pvg+는/etm
+
+
+옆테이블의
+	옆/xp+테이블/ncn+의/jcm
+
+길다란
+	길다랗/paa+은/etm
+
+떡의
+	떡/ncn+의/jcm
+
+유혹에
+	유혹/ncpa+에/jca
+
+넘어가서
+	넘/pvg+어/ecx+가/px+아/ecs
+
+
+가래떡꼬치를
+	가래떡꼬치/ncn+를/jco
+
+시켰습니다
+	시키/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+한개에
+	한/nnc+개/nbu+에/jca
+
+700원인데
+	700/nnc+원/nbu+이/jp+ㄴ데/ecs
+
+쫄깃한게
+	쫄깃한/ncn+게/jca
+
+맛있어요
+	맛있/paa+어/ef+요/jxf
+
+!
+	!/sf
+
+
+독산동의
+	독산/ncn+동/ncn+의/jcm
+
+마리오에
+	마리오/ncn+에/jca
+
+비하면
+	비하/pvg+면/ecs
+
+역시나
+	역시/mag+나/jxc
+
+궁물맛은
+	궁물맛/ncn+은/jxc
+
+좀
+	좀/mag
+
+덜하지만
+	덜하/paa+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+떡볶이도
+	떡볶이/ncn+도/jxc
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+떡볶이는
+	떡볶이/ncn+는/jxc
+
+매주
+	매주/mag
+
+수요일만
+	수요일/ncn+만/jxc
+
+한다네요
+	한다네요/ncn
+
+.....
+	./sy+.../se+./sy
+
+.
+	./sf
+
+
+왜.
+	왜/ii+./sf
+
+.
+	./sf
+
+
+일까요
+	일/pvg+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+열무국수
+	열무국수/ncn
+
+요기국수
+	요기/ncn+국수/ncn
+
+등등
+	등등/nbn
+
+국수의
+	국수/ncn+의/jcm
+
+종류가
+	종류/ncn+가/jcs
+
+많습니다
+	많/paa+습니다/ef
+
+.
+	./sf
+
+
+한번쯤
+	한번쯤/ncn
+
+줄서서
+	줄서/ncn+서/jca
+
+먹어볼만해요
+	먹/pvg+어/ecx+보/px+ㄹ/etm+만/nbs+하/xsms+어/ef+요/jxf
+
+^^
+	^/sy+^/sy
+
+
+집으로
+	집/ncn+으로/jca
+
+돌아가다
+	돌/pvg+아/ecx+가/px+아/ecx
+
+보니
+	보/px+니/ecs
+
+홍대역
+	홍대/ncps+역/ncn
+
+근처에
+	근처/ncn+에/jca
+
+요기가
+	요/ncn+이/jp+기/etn+가/jcs
+
+또
+	또/maj
+
+있더라구요
+	있/px+더라구/ef+요/jxf
+
+!
+	!/sf
+
+
+체인점인가봐요~
+	체인점인가봐요/ncn+~/sd
+
+
+080607
+	080607/nnc
+
+
+홍대
+	홍대/ncps

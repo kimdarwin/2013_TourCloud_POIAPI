@@ -1,0 +1,763 @@
+느티나무,
+	느티나무/ncn+,/sp
+
+팽나무,
+	팽나무/ncn+,/sp
+
+푸조나무,
+	푸조나무,/ncn
+
+벚나무320여
+	벚나무320여/ncn
+
+그루의
+	그루/nbu+의/jcm
+
+노거수
+	노거수/ncn
+
+사이로
+	사이/ncn+로/jca
+
+물
+	물/pvg+ㄹ/etm
+
+흐르듯
+	흐르/pvg+듯/ecs
+
+길은
+	길/ncn+은/jxc
+
+흐르고
+	흐르/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+길에
+	길/ncn+에/jca
+
+발을
+	발/ncn+을/jco
+
+디디고
+	디디/pvg+고/ecc
+
+길의
+	길/ncn+의/jcm
+
+끝을
+	끝/ncn+을/jco
+
+가늠해
+	가늠/ncpa+하/xsva+어/ecx
+
+본다
+	보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+하늘거리는
+	하늘거리/pvg+는/etm
+
+수목의
+	수목/ncn+의/jcm
+
+향연,
+	향연/ncn+,/sp
+
+가늠될
+	가늠/ncpa+되/xsvn+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+아름다운
+	아름답/paa+은/etm
+
+길,
+	길/ncn+,/sp
+
+끝까지
+	끝/ncn+까지/jxc
+
+걸어가
+	걷/pvg+어/ecx+가/px+아/ecx
+
+봐야겠다는
+	보/px+아/ep+다/ef+는/etm
+
+생각뿐이다
+	생각/ncpa+뿐/xsnx+이/jp+다/ef
+
+.
+	./sf
+
+
+귀엽고
+	귀엽/paa+고/ecc
+
+앙증스러운
+	앙증/ncps+스럽/xsmn+은/etm
+
+잎들이
+	잎/ncn+들/xsncc+이/jcc
+
+총총히
+	총총히/mag
+
+달렸다
+	달리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+수많은
+	수많/paa+은/etm
+
+잎사귀들의
+	잎사귀/ncn+들/ncn+의/jcm
+
+축제는
+	축제/ncn+는/jxc
+
+이제
+	이제/mag
+
+막
+	막/mag
+
+시작되었다
+	시작/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+작은
+	작/paa+은/etm
+
+생명들이
+	생명/ncn+들/ncn+이/jcc
+
+지구의
+	지구/ncn+의/jcm
+
+온도를
+	온도/ncn+를/jco
+
+조금씩
+	조금씩/ncn
+
+낮춰준다고
+	낮추/pvg+어/ecx+주/px+ㄴ다/ef+고/jcr
+
+어디
+	어디/mad
+
+지구뿐일까
+	지구/ncn+뿐/xsnx+이/jp+ㄹ까/ef
+
+?
+	?/sf
+
+
+머릿속까지
+	머릿속/ncn+까지/jxc
+
+시원해지는걸
+	시원해지는걸/ncn
+
+
+연두빛
+	연두빛/ncn
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+숲길을
+	숲길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+하늘
+	하늘/ncn
+
+빛
+	빛/ncn
+
+할아버지의
+	할아버지/ncn+의/jcm
+
+능숙한
+	능숙/ncn+한/ncn
+
+주행
+	주행/ncpa
+
+.
+	./sf
+
+
+낭만,
+	낭만/ncn+,/sp
+
+여유,
+	여유/ncn+,/sp
+
+자유,
+	자유/ncn+,/sp
+
+아름다움
+	아름다움/ncn
+
+이
+	이/mmd
+
+모든
+	모든/mma
+
+감정이
+	감정/ncn+이/jcc
+
+한꺼번에
+	한꺼번에/mag
+
+뒤섞인
+	뒤섞이/pvg+ㄴ/etm
+
+부러움
+	부러움/ncn
+
+.
+	./sf
+
+
+길의
+	길/ncn+의/jcm
+
+끝은
+	끝/ncn+은/jxc
+
+또
+	또/maj
+
+다른
+	다른/mma
+
+길의
+	길/ncn+의/jcm
+
+시작이다
+	시작/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+딱딱한
+	딱딱하/paa+ㄴ/etm
+
+아스팔트
+	아스팔트/ncn
+
+길을
+	길/ncn+을/jco
+
+거대한
+	거대/ncps+하/xsms+ㄴ/etm
+
+푸르름으로
+	푸르름/ncn+으로/jca
+
+가득메운
+	가득메운/ncn
+
+메타세콰이어
+	메타세콰/ncn+이/jp+어/ef
+
+.
+	./sf
+
+
+빼꼼히
+	빼꼼히/ncn
+
+드러난
+	드러나/pvg+ㄴ/etm
+
+하늘길
+	하늘/ncn+길/ncn
+
+따라
+	따르/pvg+아/ecx
+
+걷는
+	걷/pvg+는/etm
+
+연인의
+	연인/ncn+의/jcm
+
+길.
+	길/nbu+./sf
+
+
+머리칼
+	머리칼/ncn
+
+쭈뼛쭈뼛하게
+	쭈뼛쭈뼛하/ncn+이/jp+게/ecs
+
+만드는
+	만들/pvg+는/etm
+
+직선의
+	직선/ncn+의/jcm
+
+길.초록빛
+	길.초록빛/ncn
+
+자전거
+	자전거/ncn
+
+골라
+	고르/pvg+아/ecx
+
+타고
+	타/pvg+고/ecc
+
+구불구불
+	구불구불/mag
+
+신나게
+	신나/pvg+게/ecs
+
+달려볼까
+	달리/pvg+어/ecx+보/px+ㄹ까/ef
+
+?
+	?/sf
+
+
+직립으로
+	직립/ncpa+으로/jca
+
+서있는
+	서/pvg+어/ecx+있/px+는/etm
+
+시원스러운
+	시원/ncps+스럽/xsmn+은/etm
+
+메타세콰이어
+	메타세콰/ncn+이/jp+어/ecs
+
+길엔
+	길/ncn+엔/jca
+
+낭만이
+	낭만/ncn+이/jcc
+
+가득하다
+	가득/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+[여행지
+	[/sl+여행지/ncn
+
+이야기]대나무로
+	이야기/ncpa+]/sr+대나무/ncn+로/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+담양에
+	담양/ncn+에/jca
+
+가시면
+	가/px+시/ep+면/ecs
+
+꼭
+	꼭/mag
+
+걸어봐야
+	걷/pvg+어/ecx+보/px+아/ecx
+
+할
+	하/pvg+ㄹ/etm
+
+길이
+	길/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+하나는
+	하/pvg+어/ecx+나/px+는/etm
+
+조상
+	조상/ncn
+
+대대로
+	대/nbu+대로/jca
+
+가꿔온
+	가꾸/pvg+어/ecx+오/px+ㄴ/etm
+
+관방제림이고
+	관방제림/ncn+이/jp+고/ecc
+
+다른
+	다른/mma
+
+하나는
+	하/pvg+어/ecx+나/px+는/etm
+
+거대한
+	거대/ncps+하/xsms+ㄴ/etm
+
+메타세콰이어가
+	메타세콰이어/ncn+가/jcs
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+길입니다
+	길/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+두
+	두/nnc
+
+길은
+	길/ncn+은/jxc
+
+서로
+	서로/mag
+
+가까이
+	가까이/mag
+
+접해
+	접하/pvg+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+한두
+	한/nnc+두/nnc
+
+시간의
+	시간/nbu+의/jcm
+
+여유를
+	여유/ncn+를/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+천천히
+	천천히/mag
+
+산책하시길
+	산책/ncpa+하시/ncn+길/ncn
+
+권해드립니다
+	권하/pvg+어/ecx+드리/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+길의
+	길/ncn+의/jcm
+
+시작은
+	시작/ncpa+은/jxc
+
+대체로
+	대체로/mag
+
+죽림원에서
+	죽림원/ncn+에서/jca
+
+시작합니다
+	시작/ncpa+하/xsva+ㅂ니다/ef
+
+.
+	./sf
+
+
+죽림원
+	죽림원/ncn
+
+건너편관방제림에
+	건너편관방제림/ncn+에/jca
+
+들어서면
+	들어서/pvg+면/ecs
+
+부드러운
+	부드럽/paa+은/etm
+
+흙길이
+	흙길/ncn+이/jcc
+
+거대한
+	거대/ncps+하/xsms+ㄴ/etm
+
+노거수
+	노거수/ncn
+
+사이로
+	사이/ncn+로/jca
+
+흐르듯
+	흐르/pvg+듯/ecs
+
+펼져집니다
+	펼져집니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+천천히
+	천천히/mag
+
+30분정도를
+	30분정도/ncn+를/jco
+
+걸으면
+	걸/pvg+면/ecs
+
+길
+	길/paa+ㄹ/etm
+
+끝에
+	끝/ncn+에/jca
+
+다다르고
+	다다르/pvg+고/ecc
+
+길
+	길/paa+ㄹ/etm
+
+건너
+	건너/pvg+어/ecx
+
+메타세콰이어
+	메타세콰/ncn+이/jp+어/ecs
+
+길과
+	길/ncn+과/jct
+
+만납니다
+	만나/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+최근들어
+	최근들어/mag
+
+메타세콰이어
+	메타세콰/ncn+이/jp+어/ecs
+
+길에
+	길/ncn+에/jca
+
+관광객을
+	관광객/ncn+을/jco
+
+위하여
+	위하/pvg+어/ecx
+
+자동차를
+	자동차/ncn+를/jco
+
+통제하는
+	통제/ncpa+하/xsva+는/etm
+
+구간이
+	구간/ncn+이/jcc
+
+생겼습니다
+	생기/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+현대식
+	현대/ncn+식/ncn
+
+화장실과
+	화장실/ncn+과/jcj
+
+무엇보다
+	무엇/npd+보다/jca
+
+저렴한
+	저렴/ncn+한/ncn
+
+가격에
+	가격/ncn+에/jca
+
+자전거를
+	자전거/ncn+를/jco
+
+빌려
+	빌리/pvg+어/ecx
+
+신나게
+	신나/pvg+게/ecs
+
+달려
+	달리/pvg+어/ecx
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+최근엔
+	최근/ncn+엔/jca
+
+이곳의
+	이곳/npd+의/jcm
+
+찹쌀
+	찹쌀/ncn
+
+도넛
+	도넛/ncn
+
+가게가
+	가게/ncn+가/jcs
+
+유명세를
+	유명세/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+달콤하고
+	달콤/ncn+하고/jct
+
+쫀득한
+	쫀득한/ncn
+
+찹쌀
+	찹쌀/ncn
+
+도넛을
+	도넛/ncn+을/jco
+
+한입
+	한입/ncn
+
+베어물고
+	베어/ncn+물/ncn+고/jcj
+
+신나게
+	신나/pvg+게/ecs
+
+달려보는
+	달리/pvg+어/ecx+보/px+는/etm
+
+것은
+	것/nbn+은/jxc
+
+어떨까요
+	어떨까요/ncn
+
+?
+	?/sf
+
+
+죽녹원
+	죽녹원/ncn
+
+보기(클릭)
+	보/px+기/etn+(/sl+클릭/ncpa+)/sr
+
+관방제림
+	관방제림/ncn
+
+보기(클릭)
+	보/px+기/etn+(/sl+클릭/ncpa+)/sr
+
+메타세콰이어
+	메타세콰/ncn+이/jp+어/ecs
+
+가로수길
+	가로수/ncn+길/ncn
+
+보기(클릭)
+	보/nbu+이/jp+기/etn+(/sl+클릭/ncpa+)/sr
+
+
+한국관광공사
+	한국관광/ncn+공사/ncn
+
+사진기자
+	사진/ncn+기/ncn+이/jp+자/ecc
+
+김지호
+	김지호/ncn
+
+
+출처
+	출처/ncn
+
+:
+	:/sp
+
+그린투데이
+	그린/ncn+투데이/ncn

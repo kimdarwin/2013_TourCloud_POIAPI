@@ -1,0 +1,4379 @@
+The
+	The/f
+
+Puli
+	Puli/f
+
+Hotel
+	Hotel/f
+
+and
+	and/f
+
+Spa,
+	Spa/f+,/sp
+
+Shanghai
+	Shanghai/f
+
+
+:
+	:/sp
+
+상하이
+	상하/ncn+이/jcc
+
+한복판에
+	한복판/ncn+에/jca
+
+숨어
+	숨/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+도심형
+	도심/ncn+형/ncn
+
+럭셔리리조트
+	럭셔리리조트/ncn
+
+
+복잡한
+	복잡/ncps+하/xsms+ㄴ/etm
+
+도시의
+	도시/ncn+의/jcm
+
+한가운데로
+	한가운데/ncn+로/jca
+
+도시
+	도시/ncn
+
+탈출
+	탈출/ncpa
+
+여행을
+	여행/ncpa+을/jco
+
+떠난다
+	뜨/pvg+어/ecx+나/px+ㄴ다/ef
+
+.
+	./sf
+
+
+도시에서
+	도시/ncn+에서/jca
+
+가장
+	가장/mag
+
+번화한
+	번화/ncps+하/xsms+ㄴ/etm
+
+심장부에서
+	심장부/ncn+에서/jca
+
+가장
+	가장/mag
+
+조용한
+	조용/ncn+한/ncn
+
+휴식을
+	휴식/ncpa+을/jco
+
+즐긴다니,
+	즐기/pvg+ㄴ다니/ef+,/sp
+
+참으로
+	차/pvg+ㅁ/etn+으로/jca
+
+역설적이다
+	역설/ncn+적/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+그만큼
+	그/npp+만큼/jxc
+
+매력적이기도
+	매력/ncn+적/ncn+이/jp+기/etn+도/jxc
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+이러한
+	이러하/pad+ㄴ/etm
+
+역설의
+	역설/ncn+의/jcm
+
+행복을
+	행복/ncps+을/jco
+
+추구하는
+	추구/ncpa+하/xsva+는/etm
+
+여행자들을
+	여행자/ncn+들/ncn+을/jco
+
+위하여,
+	위하/pvg+어/ecs+,/sp
+
+도심
+	도/ncn+이/jp+시/ep+ㅁ/etn
+
+속
+	속/ncn
+
+완벽한
+	완벽/ncps+하/xsms+ㄴ/etm
+
+휴양을
+	휴양/ncpa+을/jco
+
+제안하는
+	제안/ncpa+하/xsva+는/etm
+
+도심형
+	도심/ncn+형/ncn
+
+리조트(urban
+	리조트(urban/ncn
+
+resort)
+	resort/f+)/sr
+
+가
+	가/jcs
+
+생겨났다
+	생기/pvg+어/ecx+나/px+아/ep+다/ef
+
+.
+	./sf
+
+
+도시가
+	도시/ncn+가/jcs
+
+제공하는
+	제공/ncpa+하/xsva+는/etm
+
+다양한
+	다양/ncn+한/ncn
+
+쾌락을
+	쾌락/ncn+을/jco
+
+편리하게
+	편리/ncps+하/xsms+게/ecs
+
+즐기면서도,
+	즐기/pvg+면서/ecs+도/jxc+,/sp
+
+잠자리와
+	잠자리/ncn+와/jcj
+
+휴식만큼은
+	휴식/ncpa+만큼/jca+은/jxc
+
+휴양지에
+	휴양지/ncn+에/jca
+
+온
+	오/px+ㄴ/etm
+
+듯
+	듯/nbn
+
+안락하고
+	안락/ncps+하고/jct
+
+편안하게
+	편안/ncps+하/xsms+게/ecs
+
+경험하는
+	경험/ncpa+하/xsva+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+오늘은중국
+	오늘은중국/ncn
+
+최초의
+	최초/ncn+의/jcm
+
+럭셔리
+	럭셔리/ncn
+
+도심형
+	도심/ncn+형/ncn
+
+리조트이자
+	리조트/ncn+이/jp+자/ecc
+
+세계적인
+	세계/ncn+적/ncn+이/jp+ㄴ/etm
+
+디자인
+	디자인/ncpa
+
+호텔,
+	호텔/ncn+,/sp
+
+상하이의
+	상하/ncn+이/ncn+의/jcm
+
+더
+	더/mag
+
+푸리
+	푸/pvg+리/ef
+
+호텔스파(The
+	호텔스파(The/ncn
+
+Puli
+	Puli/f
+
+Hotel
+	Hotel/f
+
+and
+	and/f
+
+Spa)
+	Spa/f+)/sr
+
+로
+	로/ncn
+
+떠나
+	떠나/pvg+아/ecx
+
+본다
+	보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+Luxury
+	Luxury/f
+
+Urban
+	Urban/f
+
+Resort:
+	Resort/f+:/sp
+
+머무는
+	머물/pvg+는/etm
+
+이의
+	이/nnc+의/jcm
+
+품격까지
+	품격/ncn+까지/jxc
+
+높여주는
+	높이/pvg+어/ecx+주/px+는/etm
+
+5성급
+	5성급/ncn
+
+호텔
+	호텔/ncn
+
+
+상하이
+	상하/ncn+이/jcc
+
+푸리
+	푸/pvg+리/ef
+
+호텔은
+	호텔/ncn+은/jxc
+
+럭셔리
+	럭셔리/ncn
+
+호텔
+	호텔/ncn
+
+업계에서
+	업계/ncn+에서/jca
+
+잔뼈가
+	잔뼈/ncn+가/jcs
+
+굵은
+	굵/paa+은/etm
+
+전문가들이
+	전문가/ncn+들/ncn+이/jcc
+
+힘을
+	힘/ncn+을/jco
+
+합쳐
+	합치/pvg+어/ecx
+
+만든
+	만들/pvg+ㄴ/etm
+
+Urban
+	Urban/f
+
+Resort
+	Resort/f
+
+Concepts
+	Concepts/f
+
+그룹이
+	그룹/ncn+이/jcc
+
+만든
+	만들/pvg+ㄴ/etm
+
+5성급
+	5성급/ncn
+
+호텔로,
+	호텔/ncn+로/jca+,/sp
+
+최상급의
+	최상급/ncn+의/jcm
+
+시설과
+	시설/ncpa+과/jcj
+
+서비스를
+	서비스/ncpa+를/jco
+
+자랑한다
+	자랑/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+푸리
+	푸/pvg+리/ef
+
+호텔이
+	호텔/ncn+이/jcc
+
+매력적인
+	매력/ncn+적/ncn+이/jp+ㄴ/etm
+
+첫
+	첫/nno
+
+번째
+	번/nbu+째/xsnu
+
+이유는
+	이유/ncn+는/jxc
+
+특유의감각적인
+	특유의감각적/ncn+이/jp+ㄴ/etm
+
+디자인
+	디자인/ncpa
+
+.
+	./sf
+
+
+아시아의
+	아시아/ncn+의/jcm
+
+전통적
+	전통/ncn+적/ncn
+
+요소에
+	요소/ncn+에/jca
+
+뿌리를
+	뿌리/ncn+를/jco
+
+둔
+	두/pvg+ㄴ/etm
+
+우아하고
+	우아/ncn+하고/jct
+
+현대적인
+	현대/ncn+적/ncn+이/jp+ㄴ/etm
+
+디자인으로
+	디자인/ncpa+으로/jca
+
+호텔을
+	호텔/ncn+을/jco
+
+장식했다
+	장식/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+쿠메
+	쿠메/ncn
+
+세케이(kume
+	세케이(kume/ncn
+
+sekkei)와
+	sekkei/f+)/sr+와/jcj
+
+라얀
+	라얀/ncn
+
+디자인
+	디자인/ncpa
+
+그룹(Layan
+	그룹(Layan/ncn
+
+Design
+	Design/f
+
+Group)이
+	Group/f+)/sr+이/jcc
+
+함께
+	함께/mag
+
+인테리어에
+	인테리어/ncn+에/jca
+
+참여한
+	참여/ncpa+하/xsva+ㄴ/etm
+
+상하이
+	상하/ncn+이/jcc
+
+푸리
+	푸/pvg+리/ef
+
+호텔은세계
+	호텔은세계/ncn
+
+럭셔리
+	럭셔리/ncn
+
+호텔
+	호텔/ncn
+
+연맹
+	연맹/ncpa
+
+LHW(The
+	LHW/f+(/sl+The/f
+
+Leading
+	Leading/f
+
+Hotels
+	Hotels/f
+
+of
+	of/f
+
+the
+	the/f
+
+World)의
+	World/f+)/sr+의/jcm
+
+멤버이자,
+	멤버/ncn+이/jp+자/ecc+,/sp
+
+상하이의
+	상하/ncn+이/ncn+의/jcm
+
+부티크
+	부티크/ncn
+
+호텔
+	호텔/ncn
+
+워터하우스(The
+	워터하우스(The/ncn
+
+Waterhouse
+	Waterhouse/f
+
+at
+	at/f
+
+South
+	South/f
+
+Bund)와
+	Bund/f+)/sr+와/jcj
+
+더불어중국에서
+	더불어중국에서/ncn
+
+단
+	단/mma
+
+두
+	두/nnc
+
+곳뿐인
+	곳/ncn+뿐/xsnx+이/jp+ㄴ/etm
+
+Design
+	Design/f
+
+Hotels의
+	Hotels/f+의/jcm
+
+회원이기도
+	회원/ncn+이/jp+기/etn+도/jxc
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+위치도
+	위치/ncn+도/jxc
+
+완벽하다
+	완벽/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+푸리
+	푸/pvg+리/ef
+
+호텔은
+	호텔/ncn+은/jxc
+
+상하이의
+	상하/ncn+이/ncn+의/jcm
+
+비즈니스,
+	비즈니스/ncn+,/sp
+
+쇼핑,
+	쇼핑/ncpa+,/sp
+
+엔터테인먼트
+	엔터테인먼트/ncn
+
+중심지징안
+	중심지/ncn+징/ncn+안/xsnx
+
+구역(JingAn
+	구역(JingAn/ncn
+
+District)에
+	District/f+)/sr+에/jca
+
+자리하고
+	자리/ncn+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+상하이의
+	상하/ncn+이/ncn+의/jcm
+
+청담동이라
+	청담동/ncn+이/jp+라/ecs
+
+불리는
+	불리/pvg+는/etm
+
+난징시루(West
+	난징시루(West/ncn
+
+Nanjing
+	Nanjing/f
+
+Road),
+	Road/f+)/sr+,/sp
+
+프랑스풍
+	프랑스풍/ncn
+
+거리
+	거리/ncn
+
+풍경이
+	풍경/ncn+이/jcc
+
+매력적인
+	매력/ncn+적/ncn+이/jp+ㄴ/etm
+
+프랑스
+	프랑스/ncn
+
+조계지(French
+	조계지(French/ncn
+
+Concession)
+	Concession/f+)/sr
+
+등상하이의
+	등상하이/ncn+의/jcm
+
+주요
+	주요/ncps
+
+여행지와의
+	여행지/ncn+와의/jcj
+
+접근성이
+	접근/ncpa+성/ncn+이/jcc
+
+빼어나다는
+	빼/pvg+어/ecx+나/px+다/ef+는/etm
+
+점도
+	점/nbu+도/jxc
+
+매력포인트
+	매력/ncn+포인트/ncn
+
+.
+	./sf
+
+
+상하이
+	상하/ncn+이/jcc
+
+홍차오
+	홍차/ncn+이/jp+오/ef
+
+국제공항에서는
+	국제공항/ncn+에서/jca+는/jxc
+
+차로
+	차/ncn+로/jca
+
+약
+	약/ncn
+
+20여
+	20/nnc+여/xsnu
+
+분,
+	분/nbu+,/sp
+
+상하이
+	상하/ncn+이/jcc
+
+푸동
+	푸동/ncn
+
+국제공항에서는
+	국제공항/ncn+에서/jca+는/jxc
+
+차로
+	차/ncn+로/jca
+
+약
+	약/ncn
+
+45분
+	45/nnc+분/nbu
+
+소요된다
+	소요/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+ExteriorLobby
+	ExteriorLobby/f
+
+
+푸리
+	푸/pvg+리/ef
+
+호텔은
+	호텔/ncn+은/jxc
+
+상하이
+	상하/ncn+이/jcc
+
+시내
+	시내/ncn
+
+한복판에
+	한복판/ncn+에/jca
+
+위치했지만
+	위치/ncpa+하/xsva+었/ep+지만/ecs
+
+입구는
+	입구/ncn+는/jxc
+
+좀처럼
+	좀처럼/mag
+
+찾기가
+	찾/pvg+기/etn+가/jcs
+
+어렵다
+	어렵/paa+다/ef
+
+.
+	./sf
+
+
+빌딩
+	빌딩/ncn
+
+숲
+	숲/ncn
+
+한가운데에
+	한가운데/ncn+에/jca
+
+일부러
+	일부러/mag
+
+호텔을
+	호텔/ncn+을/jco
+
+감추어둔
+	감추/pvg+어/ecx+두/px+ㄴ/etm
+
+듯,
+	듯/nbs+,/sp
+
+신경
+	신경/ncn
+
+쓰고
+	쓰/pvg+고/ecc
+
+보지
+	보/pvg+지/ecx
+
+않는
+	않/px+는/etm
+
+한
+	한/nnc
+
+호텔
+	호텔/ncn
+
+출입구가
+	출입구/ncn+가/jcs
+
+눈에
+	눈/ncn+에/jca
+
+잘
+	잘/mag
+
+띄지
+	띄/pvg+지/ecx
+
+않는다
+	않/px+는다/ef
+
+.
+	./sf
+
+
+입구부터
+	입구/ncn+부터/jxc
+
+이어진
+	잇/pvg+어/ecx+지/px+ㄴ/etm
+
+대나무
+	대나무/ncn
+
+사잇길을
+	사잇길/ncn+을/jco
+
+지나면
+	지나/pvg+면/ecs
+
+모던하고
+	모던/ncpa+하고/jct
+
+투명한
+	투명/ncps+하/xsms+ㄴ/etm
+
+외관의
+	외관/ncn+의/jcm
+
+호텔이
+	호텔/ncn+이/jcc
+
+불쑥
+	불쑥/mag
+
+등장한다
+	등장/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+유리창문과
+	유리창문/ncn+과/jcj
+
+벽으로
+	벽/ncn+으로/jca
+
+이루어진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+호텔은
+	호텔/ncn+은/jxc
+
+대나무숲과
+	대나무숲/ncn+과/jcj
+
+연못으로
+	연못/ncn+으로/jca
+
+둘러싸여
+	둘러싸이/pvg+어/ecx
+
+있어
+	있/px+어/ecx
+
+더욱
+	더욱/mag
+
+신비롭다
+	신비/ncps+롭/xsmn+다/ef
+
+.
+	./sf
+
+
+호텔
+	호텔/ncn
+
+로비에
+	로비/ncn+에/jca
+
+들어서면
+	들어서/pvg+면/ecs
+
+블랙과
+	블랙/ncn+과/jcj
+
+우드톤,
+	우드톤,/ncn
+
+높은
+	높/paa+은/etm
+
+천장과
+	천/nnc+장/nbu+과/jcj
+
+통유리,
+	통유리,/ncn
+
+길다란
+	길다랗/paa+은/etm
+
+직선
+	직선/ncn
+
+장식으로
+	장식/ncpa+으로/jca
+
+모던하게
+	모던/ncpa+하/xsva+게/ecs
+
+연출된
+	연출/ncpa+되/xsvn+ㄴ/etm
+
+분위기에
+	분위기/ncn+에/jca
+
+먼저
+	먼저/mag
+
+압도된다
+	압도/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+바쁘고
+	바쁘/paa+고/ecc
+
+복잡한
+	복잡/ncps+하/xsms+ㄴ/etm
+
+상하이
+	상하/ncn+이/jcc
+
+한복판에
+	한복판/ncn+에/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+조용하면서도
+	조용/ncps+하/xsms+면서/ecs+도/jxc
+
+고급스러운
+	고급/ncn+스럽/xsmn+은/etm
+
+곳이
+	곳/ncn+이/jcc
+
+다
+	다/mag
+
+있었나
+	있/px+었/ep+나/ef
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+로비에서
+	로비/ncn+에서/jca
+
+가장
+	가장/mag
+
+시선을
+	시선/ncn+을/jco
+
+압도하는
+	압도/ncpa+하/xsva+는/etm
+
+것은무려
+	것은무려/ncn
+
+32m
+	32m/ncn
+
+길이의
+	길이/ncn+의/jcm
+
+롱바(Long
+	롱바(Long/ncn
+
+Bar)
+	Bar/f+)/sr
+
+.
+	./sf
+
+
+통유리
+	통유리/ncn
+
+벽면을
+	벽면/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+길게
+	길/paa+게/ecs
+
+놓인
+	놓이/pvg+ㄴ/etm
+
+이
+	이/mmd
+
+나무
+	나무/ncn
+
+테이블은
+	테이블/ncn+은/jxc
+
+푸리
+	푸/pvg+리/ef
+
+호텔의
+	호텔/ncn+의/jcm
+
+체크인
+	체크인/ncn
+
+데스크이자
+	데스크/ncn+이/jp+자/ecc
+
+조식
+	조식/ncpa
+
+뷔페가
+	뷔페/ncn+가/jcs
+
+차려지는
+	차리/pvg+어/ecx+지/px+는/etm
+
+테이블이며,
+	테이블/ncn+이/jp+며/ecc+,/sp
+
+칵테일과
+	칵테일/ncn+과/jcj
+
+와인을
+	와인/ncn+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+바(bar)이기도
+	바(bar)/ncn+이/jp+기/etn+도/jxc
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+여러
+	여러/mma
+
+개의
+	개/nbu+의/jcm
+
+나무를
+	나무/ncn+를/jco
+
+이어
+	이/npd+이/jp+어/ecs
+
+붙여
+	붙이/pvg+어/ecx
+
+기다란
+	기다랗/paa+은/etm
+
+나무
+	나무/ncn
+
+테이블을
+	테이블/ncn+을/jco
+
+가공한
+	가공/ncn+한/ncn
+
+게
+	것/nbn+이/jcs
+
+아니라,
+	아니/paa+라/ef+,/sp
+
+32m의
+	32m/ncn+의/jcm
+
+테이블이
+	테이블/ncn+이/jcc
+
+하나의
+	하나/nnc+의/jcm
+
+통나무로
+	통나무/ncn+로/jca
+
+이루어져
+	이루/pvg+어/ecx+지/px+어/ecx
+
+있다는
+	있/px+다/ef+는/etm
+
+사실이
+	사실/ncn+이/jcc
+
+놀라움을
+	놀라움/ncn+을/jco
+
+자아낸다
+	자/pvg+아/ecx+내/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+혁신적인
+	혁신/ncpa+적/ncn+이/jp+ㄴ/etm
+
+아이디어의
+	아이디어/ncn+의/jcm
+
+롱바는
+	롱바/ncn+는/jxc
+
+푸리
+	푸/pvg+리/ef
+
+호텔만의
+	호텔/ncn+만/ncn+의/jcm
+
+독특한
+	독특/ncps+하/xsms+ㄴ/etm
+
+매력을
+	매력/ncn+을/jco
+
+보여주는
+	보이/pvg+어/ecx+주/px+는/etm
+
+시작에
+	시작/ncpa+에/jca
+
+불과하다
+	불과/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+로비의
+	로비/ncn+의/jcm
+
+또
+	또/maj
+
+다른
+	다르/paa+ㄴ/etm
+
+포인트는
+	포인트/nbu+는/jxc
+
+도서관
+	도서관/ncn
+
+.
+	./sf
+
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+느낌의
+	느낌/ncn+의/jcm
+
+벽난로와
+	벽난로/ncn+와/jcj
+
+천장까지
+	천/nnc+장/nbu+까지/jxc
+
+닿아
+	닿/pvg+아/ecx
+
+있는
+	있/px+는/etm
+
+책장과
+	책장/ncn+과/jct
+
+안락한
+	안락/ncps+하/xsms+ㄴ/etm
+
+소파,
+	소파/ncn+,/sp
+
+그곳에
+	그곳/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+책을
+	책/ncn+을/jco
+
+읽거나
+	읽/pvg+거나/ecc
+
+사색을
+	사색/ncn+을/jco
+
+즐기는
+	즐기/pvg+는/etm
+
+투숙객이
+	투숙객/ncn+이/jcc
+
+어우러져
+	어우러지/pvg+어/ecx
+
+지적인
+	지적/ncn+이/jp+ㄴ/etm
+
+분위기를
+	분위기/ncn+를/jco
+
+풍긴다
+	풍기/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+푸리
+	푸/pvg+리/ef
+
+호텔에서는
+	호텔/ncn+에서/jca+는/jxc
+
+어디서든
+	어디/npd+서/jca+든/jxc
+
+무료
+	무료/ncn
+
+와이파이를
+	와이/ncn+파이/ncn+를/jco
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있으므로,
+	있/px+으므로/ecs+,/sp
+
+객실이
+	객실/ncn+이/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+공간에서
+	공간/ncn+에서/jca
+
+노트북이나
+	노트북/ncn+이나/jcj
+
+태블릿PC
+	태블릿PC/ncn
+
+등을
+	등/nbu+을/jco
+
+이용코자
+	이용/ncpa+코/ncn+이/jp+자/ecc
+
+한다면
+	하/pvg+ㄴ다면/ecs
+
+조용하고
+	조용/ncn+하고/jct
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+도서관이
+	도서관/ncn+이/jcc
+
+딱이다
+	딱/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+푸리
+	푸/pvg+리/ef
+
+호텔은아름다움을
+	호텔은아름다움/ncn+을/jco
+
+보다
+	보다/mag
+
+디테일하게,
+	디테일하게,/ncn
+
+가까이에서
+	가까이/ncn+에서/jca
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+인테리어를
+	인테리어/ncn+를/jco
+
+추구한다
+	추구/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+호텔
+	호텔/ncn
+
+구석구석에서
+	구석/ncn+구석/ncn+에서/jca
+
+많은
+	많/paa+은/etm
+
+디자인
+	디자인/ncpa
+
+아이템과
+	아이템/ncn+과/jcj
+
+역사적이고
+	역사/ncn+적/ncn+이/jp+고/ecc
+
+문화적인
+	문화/ncn+적/ncn+이/jp+ㄴ/etm
+
+가치를
+	가치/ncn+를/jco
+
+지닌
+	지니/pvg+ㄴ/etm
+
+유적들을
+	유적/ncn+들/ncn+을/jco
+
+찾아볼
+	찾/pvg+아/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+세밀하게
+	세밀/ncps+하/xsms+게/ecs
+
+들여다볼수록
+	들여다보/pvg+ㄹ수록/ecs
+
+보석
+	보석/ncn
+
+같은
+	같/paa+은/etm
+
+요소들로
+	요소/ncn+들/ncn+로/jca
+
+가득
+	가득/mag
+
+채워져
+	채우/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+로비는
+	로비/ncn+는/jxc
+
+푸리
+	푸/pvg+리/ef
+
+호텔의
+	호텔/ncn+의/jcm
+
+이러한
+	이러하/pad+ㄴ/etm
+
+인테리어
+	인테리/ncn+이/jp+어/ecs
+
+디자인이
+	디자인/ncpa+이/jcc
+
+가장
+	가장/mag
+
+잘
+	잘/mag
+
+드러난
+	드러나/pvg+ㄴ/etm
+
+공간이다
+	공간/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+호텔
+	호텔/ncn
+
+로비
+	로비/ncn
+
+라운지
+	라운지/ncn
+
+등
+	등/nbu
+
+공공장소에
+	공공장소/ncn+에/jca
+
+의도적으로
+	의도/ncpa+적/ncn+으로/jca
+
+비치돼
+	비치/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+중국
+	중국/ncn
+
+만화소설
+	만화/ncn+소설/ncn
+
+컬렉션,
+	컬렉션,/ncn
+
+커피
+	커피/ncn
+
+테이블
+	테이블/ncn
+
+위에
+	위/ncn+에/jca
+
+놓여
+	놓이/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+한
+	한/nnc
+
+쌍의
+	쌍/ncn+의/jcm
+
+사자상,
+	사자/ncn+상/xsncc+,/sp
+
+켜켜이
+	켜켜이/mag
+
+쌓인
+	쌓이/pvg+ㄴ/etm
+
+세월의
+	세/nnc+월/nbu+의/jcm
+
+흔적이
+	흔적/ncn+이/jcc
+
+느껴지는
+	느끼/pvg+어/ecx+지/px+는/etm
+
+장식장
+	장식장/ncn
+
+등
+	등/nbu
+
+중국
+	중국/ncn
+
+전통적인
+	전통/ncn+적/ncn+이/jp+ㄴ/etm
+
+요소를
+	요소/ncn+를/jco
+
+곳곳에서
+	곳곳/ncn+에서/jca
+
+발견할
+	발견/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있어
+	있/px+어/ecx
+
+흥미롭다
+	흥미/ncn+롭/xsmn+다/ef
+
+.
+	./sf
+
+
+GrandDeluxe
+	GrandDeluxe/f
+
+Room
+	Room/f
+
+
+:
+	:/sp
+
+지극히
+	지극히/mag
+
+현대적이면서도
+	현대/ncn+적/ncn+이/jp+면서/ecs+도/jxc
+
+전통적인
+	전통/ncn+적/ncn+이/jp+ㄴ/etm
+
+객실
+	객실/ncn
+
+디자인
+	디자인/ncpa
+
+
+로비의
+	로비/ncn+의/jcm
+
+압도적인
+	압도/ncpa+적/ncn+이/jp+ㄴ/etm
+
+분위기를
+	분위기/ncn+를/jco
+
+만끽했다면,
+	만끽/ncpa+하/xsva+었/ep+다면/ecs+,/sp
+
+이제
+	이제/mag
+
+객실로
+	객실/ncn+로/jca
+
+들어갈
+	들/pvg+어/ecx+가/px+ㄹ/etm
+
+차례다
+	차례/nbu+이/jp+다/ef
+
+.
+	./sf
+
+
+푸리
+	푸/pvg+리/ef
+
+호텔은
+	호텔/ncn+은/jxc
+
+26층
+	26/nnc+층/nbu
+
+규모에
+	규모/ncn+에/jca
+
+일반
+	일반/ncn
+
+객실
+	객실/ncn
+
+193개
+	193/nnc+개/nbu
+
+스위트룸
+	스위트룸/ncn
+
+36개
+	36/nnc+개/nbu
+
+등총
+	등총/ncn
+
+229개의
+	229/nnc+개/nbu+의/jcm
+
+룸을
+	룸/ncn+을/jco
+
+보유하고
+	보유/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+다른
+	다른/mma
+
+공간과
+	공간/ncn+과/jcj
+
+마찬가지로
+	마찬가지/ncn+로/jca
+
+전체적으로
+	전체/ncn+적/ncn+으로/jca
+
+블랙
+	블랙/ncn
+
+톤과
+	톤/ncn+과/jcj
+
+다크
+	다크/ncn
+
+오리엔탈
+	오리엔탈/ncn
+
+가구로
+	가구/ncn+로/jca
+
+장식되었으며,
+	장식/ncpa+되/xsvn+었/ep+으며/ecc+,/sp
+
+최신식
+	최신/ncn+식/ncn
+
+시설과
+	시설/ncpa+과/jct
+
+함께
+	함께/mag
+
+지극히
+	지극히/mag
+
+고급스럽게
+	고급/ncn+스럽/xsmn+게/ecs
+
+꾸며져
+	꾸미/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그러면서도
+	그러/pvd+면서/ecs+도/jxc
+
+라운지,
+	라운지/ncn+,/sp
+
+화병,
+	화병/ncn+,/sp
+
+욕실
+	욕실/ncn
+
+등에
+	등/nbu+에/jca
+
+전통적인
+	전통/ncn+적/ncn+이/jp+ㄴ/etm
+
+요소를
+	요소/ncn+를/jco
+
+살짝
+	살짝/mag
+
+가미해
+	가미/ncpa+하/xsva+어/ecx
+
+전통적이면서도
+	전통적이면/ncn+서/jca+도/jxc
+
+현대적인
+	현대/ncn+적/ncn+이/jp+ㄴ/etm
+
+디자인
+	디자인/ncpa
+
+컨셉을
+	컨셉/ncn+을/jco
+
+객실에서도
+	객실/ncn+에서/jca+도/jxc
+
+유지했다
+	유/ncn+이/jp+지/ecx+하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+전체적으로는
+	전체/ncn+적/ncn+으로/jca+는/jxc
+
+남성적이며
+	남성/ncn+적/ncn+이/jp+며/ecc
+
+미니멀한
+	미니멀한/ncn
+
+분위기지만,
+	분위기/ncn+이/jp+지만/ecs+,/sp
+
+디테일은
+	디테일/ncn+은/jxc
+
+지극히
+	지극히/mag
+
+여성스럽고
+	여성/ncn+스럽/xsmn+고/ecc
+
+섬세하다
+	섬세/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+먼저
+	먼저/mag
+
+욕실이
+	욕실/ncn+이/jcc
+
+마음에
+	마음/ncn+에/jca
+
+든다
+	들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+욕조가
+	욕조/ncn+가/jcs
+
+커다란
+	커다랗/paa+은/etm
+
+창문
+	창문/ncn
+
+옆에
+	옆/ncn+에/jca
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있어,
+	있/px+어/ecs+,/sp
+
+목욕을
+	목욕/ncpa+을/jco
+
+하면서
+	하/pvg+면서/ecc
+
+반짝반짝
+	반짝반짝/mag
+
+빛나는
+	빛/ncn+나/jxc+는/jxc
+
+상하이의
+	상하/ncn+이/ncn+의/jcm
+
+도심
+	도/ncn+이/jp+시/ep+ㅁ/etn
+
+풍경을
+	풍경/ncn+을/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+내려다볼
+	내려다보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+세면대와
+	세면대/ncn+와/jcj
+
+화장대의
+	화장/ncn+대/ncn+의/jcm
+
+조명은
+	조/nnc+명/nbu+은/jxc
+
+밝기를
+	밝/paa+기/etn+를/jco
+
+조절할
+	조절/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+김서림
+	김/nbn+서/jca+이/jp+리/ep+ㅁ/etn
+
+방지
+	방지/ncpa
+
+거울을
+	거울/ncn+을/jco
+
+사용했다는
+	사용/ncpa+하/xsva+었/ep+다/ef+는/etm
+
+점도
+	점/nbu+도/jxc
+
+욕실
+	욕실/ncn
+
+인테리어의
+	인테리어/ncn+의/jcm
+
+디테일이
+	디테일/ncn+이/jcc
+
+빛나는
+	빛나/pvg+는/etm
+
+지점이다
+	지점/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+평면
+	평면/ncn
+
+LCD
+	LCD/f
+
+TV를
+	TV/f+를/jco
+
+회전시킬
+	회전/ncpa+시키/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있어서
+	있/px+어서/ecs
+
+침실은
+	침실/ncn+은/jxc
+
+물론
+	물론/mag
+
+욕실에서도
+	욕실/ncn+에서/jca+도/jxc
+
+TV를
+	TV/f+를/jco
+
+감상할
+	감상/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다는
+	있/px+다/ef+는/etm
+
+점도
+	점/nbu+도/jxc
+
+독특하다
+	독특/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+무료로
+	무료/ncn+로/jca
+
+이용
+	이용/ncpa
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+네스프레소
+	네스프레소/ncn
+
+캡슐
+	캡슐/ncn
+
+커피도
+	커피/ncn+도/jxc
+
+투숙객을
+	투숙객/ncn+을/jco
+
+행복하게
+	행복/ncps+하/xsms+게/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이른
+	이르/paa+ㄴ/etm
+
+아침
+	아침/ncn
+
+잠에서
+	자/pvg+ㅁ/etn+에서/jca
+
+깨어나
+	깨/pvg+어/ecx+나/px+아/ecx
+
+네스프레소
+	네스프레소/ncn
+
+캡슐
+	캡슐/ncn
+
+커피를
+	커피/ncn+를/jco
+
+내려
+	내리/pvg+어/ecx
+
+마시면,
+	마시/pvg+면/ecs+,/sp
+
+객실은
+	객실/ncn+은/jxc
+
+이내
+	이내/mag
+
+고품격
+	고품격/ncn
+
+카페로
+	카페/ncn+로/jca
+
+돌변한다
+	돌변/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+객실
+	객실/ncn
+
+내
+	내/npp
+
+미니바를
+	미니/ncn+바/ncn+를/jco
+
+무료로
+	무료/ncn+로/jca
+
+제공하는데,
+	제공/ncpa+하/xsva+ㄴ데/ecs+,/sp
+
+비우면
+	비우/pvg+면/ecs
+
+또
+	또/maj
+
+채워주는
+	채우/pvg+어/ecx+주/px+는/etm
+
+후한
+	후하/paa+ㄴ/etm
+
+서비스도
+	서비스/ncpa+도/jxc
+
+만족스럽다
+	만족/ncpa+스럽/xsmn+다/ef
+
+.
+	./sf
+
+
+비즈니스
+	비즈니스/ncn
+
+여행객을
+	여행객/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+객실
+	객실/ncn
+
+서비스도
+	서비스/ncpa+도/jxc
+
+완벽하다
+	완벽/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+객실
+	객실/ncn
+
+내에서
+	내/npp+에서/jca
+
+초고속
+	초고속/ncn
+
+유무선
+	유무선/ncn
+
+인터넷을
+	인터넷/ncn+을/jco
+
+무료로
+	무료/ncn+로/jca
+
+사용할
+	사용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+다양한
+	다양/ncn+한/ncn
+
+케이블선과
+	케이블/ncn+선/ncn+과/jcj
+
+여행용
+	여행/ncpa+용/ncn
+
+멀티
+	멀티/ncn
+
+플러그
+	플러그/ncn
+
+등이
+	등/nbu+이/jcc
+
+들어
+	들/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+테크놀로지
+	테크놀로지/ncn
+
+키트
+	키트/ncn
+
+가
+	가/jcs
+
+다용도
+	다용도/ncn
+
+테이블에
+	테이블/ncn+에/jca
+
+예쁘게
+	예쁘/paa+게/ecs
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있어
+	있/px+어/ecx
+
+객실
+	객실/ncn
+
+내에서
+	내/npp+에서/jca
+
+개인
+	개/nbu+이/jp+ㄴ/etm
+
+사무를
+	사무/ncn+를/jco
+
+보기에
+	보/px+기/etn+에/jca
+
+아주
+	아주/mag
+
+편리하다
+	편리/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+창
+	창/ncn
+
+밖으로
+	밖/ncn+으로/jca
+
+보이는
+	보이/pvg+는/etm
+
+상하이의
+	상하/ncn+이/ncn+의/jcm
+
+스카이라인,
+	스카이라인/ncn+,/sp
+
+Deluxe
+	Deluxe/f
+
+King
+	King/f
+
+
+45
+	45/nnc
+
+(액
+	(/sl+액/ncn
+
+13.
+	13./nnc
+
+6평)
+	6/nnc+평/nbu+)/sr
+
+규모
+	규모/ncn
+
+객실로,창
+	객실/ncn+로/jca+,/sp+창/ncn
+
+밖으로
+	밖/ncn+으로/jca
+
+생동감
+	생동감/ncn
+
+넘치는
+	넘치/pvg+는/etm
+
+상하이
+	상하/ncn+이/jcc
+
+스카이라인을
+	스카이라인/ncn+을/jco
+
+조망할
+	조망/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+침실과
+	침실/ncn+과/jcj
+
+욕실이
+	욕실/ncn+이/jcc
+
+완벽히
+	완벽히/mag
+
+분리되어
+	분리/ncpa+되/xsvn+어/ecx
+
+있지
+	있/px+지/ecx
+
+않은
+	않/px+은/etm
+
+개방형
+	개방형/ncn
+
+공간으로
+	공간/ncn+으로/jca
+
+이루어져
+	이루/pvg+어/ecx+지/px+어/ecx
+
+있으나,
+	있/px+으나/ecs+,/sp
+
+천장에서
+	천/nnc+장/nbu+에서/jca
+
+바닥까지
+	바닥/ncn+까지/jxc
+
+이르는
+	이르/paa+는/etm
+
+실크
+	실크/ncn
+
+파티션
+	파티/ncn+션/ncn
+
+스크린(미닫이
+	스크린(미닫/ncn+이/jcc
+
+형태)을
+	형태/ncn+)/sr+을/jco
+
+닫으면
+	닫/pvg+으면/ecs
+
+공간이
+	공간/ncn+이/jcc
+
+분리돼
+	분리/ncpa+되/xsvn+어/ecx
+
+프라이빗한
+	프라이빗한/ncn
+
+분위기를
+	분위기/ncn+를/jco
+
+연출할
+	연출/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+300천수
+	300/nnc+천/nnc+수/nbu
+
+수입
+	수입/ncpa
+
+면사로
+	면사/ncn+로/jca
+
+만들고
+	만들/pvg+고/ecc
+
+새틴으로
+	새틴/ncn+으로/jca
+
+마감
+	마감/ncpa
+
+처리한
+	처리/ncpa+하/xsva+ㄴ/etm
+
+고급
+	고급/ncn
+
+시트와
+	시트/ncn+와/jcj
+
+옆
+	옆/ncn
+
+사람의
+	사람/ncn+의/jcm
+
+뒤척임이
+	뒤척이/pvg+ㅁ/etn+이/jcs
+
+느껴지지
+	느끼/pvg+어/ecx+지/px+지/ecx
+
+않아
+	않/px+아/ecx
+
+숙면을
+	숙면/ncpa+을/jco
+
+취할
+	취하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+특수
+	특수/ncps
+
+매트리스를
+	매트리스/ncn+를/jco
+
+사용한
+	사용/ncpa+하/xsva+ㄴ/etm
+
+최고급
+	최고급/ncn
+
+침구는
+	침구/ncn+는/jxc
+
+달콤한
+	달콤한/ncn
+
+숙면을
+	숙면/ncpa+을/jco
+
+선물한다
+	선물/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+Deluxe
+	Deluxe/f
+
+King
+	King/f
+
+|기준인원:
+	|기준인원:/ncn
+
+2인(최대
+	2인(최대/ncn
+
+3인)
+	3/nnc+이/jp+ㄴ/etm+)/sr
+
+/
+	//sp
+
+침대타입:
+	침대/ncn+타입/ncn+:/sp
+
+킹사이즈
+	킹사이즈/ncn
+
+1개객실
+	1개객실/ncn
+
+편의설비:
+	편의/ncn+설비/ncpa+:/sp
+
+네스프레소
+	네스프레소/ncn
+
+커피
+	커피/ncn
+
+머신,
+	멀/paa+시/ep+ㄴ/etm+,/sp
+
+유무선
+	유무선/ncn
+
+인터넷
+	인터넷/ncn
+
+무료
+	무료/ncn
+
+이용,
+	이용/ncpa+,/sp
+
+평면
+	평면/ncn
+
+LCD
+	LCD/f
+
+TV,
+	TV/f+,/sp
+
+보스
+	보스/ncn
+
+웨이브
+	웨이브/ncn
+
+뮤직
+	뮤직/ncn
+
+시스템,
+	시스템/ncn+,/sp
+
+DVD
+	DVD/f
+
+플레이어,
+	플레이/ncn+이/jp+어/ef+,/sp
+
+안전금고,
+	안전/ncn+금고/ncn+,/sp
+
+다용도
+	다용도/ncn
+
+테이블(책상이나
+	테이블(책상/ncn+이나/jcj
+
+식탁으로
+	식탁/ncn+으로/jca
+
+이용
+	이용/ncpa
+
+가능),
+	가능/ncps+)/sr+,/sp
+
+더블
+	더블/ncn
+
+세면대,
+	세면대/ncn+,/sp
+
+별도로
+	별도/ncn+로/jca
+
+분리된
+	분리/ncpa+되/xsvn+ㄴ/etm
+
+레인포레스트
+	레인/ncn+포레스트/ncn
+
+샤워
+	샤워/ncpa
+
+시설
+	시설/ncpa
+
+및
+	및/maj
+
+화장실,
+	화장실/ncn+,/sp
+
+욕조에서
+	욕조/ncn+에서/jca
+
+상하이
+	상하/ncn+이/jcc
+
+스카이라인과
+	스카이라인/ncn+과/jcj
+
+JingAn
+	JingAn/f
+
+Park
+	Park/f
+
+조망
+	조망/ncn
+
+가능,
+	가능/ncps+,/sp
+
+최고급
+	최고급/ncn
+
+침구,
+	침구/ncn+,/sp
+
+다양한
+	다양/ncn+한/ncn
+
+종류의
+	종류/ncn+의/jcm
+
+세면용품
+	세면/ncpa+용품/ncn
+
+등체크인
+	등체크/ncn+이/jp+ㄴ/etm
+
+시간
+	시간/nbu
+
+오후
+	오후/ncn
+
+2시,
+	2/nnc+시/nbu+,/sp
+
+체크아웃
+	체크아웃/ncpa
+
+시간
+	시간/nbu
+
+낮
+	낮/ncn
+
+12시
+	12/nnc+시/nbu
+
+
+최신
+	최신/ncn
+
+서비스와
+	서비스/ncpa+와/jcj
+
+설비로
+	설비/ncpa+로/jca
+
+무장한
+	무장/ncn+한/ncn
+
+시크한
+	시크한/ncn
+
+휴식처,
+	휴식처/ncn+,/sp
+
+Grand
+	Grand/f
+
+King
+	King/f
+
+
+47
+	47/nnc
+
+(약
+	(/sl+약/ncn
+
+14.
+	14./nnc
+
+2평)
+	2/nnc+평/nbu+)/sr
+
+규모의스튜디오
+	규모의스튜디오/ncn
+
+컨셉
+	컨셉/ncn
+
+객실로,JinAn
+	객실/ncn+로/jca+,/sp+JinAn/f
+
+Park의
+	Park/f+의/jcm
+
+푸르른
+	푸르른/ncn
+
+풍광을
+	풍광/ncn+을/jco
+
+조망할
+	조망/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+침실과
+	침실/ncn+과/jcj
+
+욕실이
+	욕실/ncn+이/jcc
+
+완벽히
+	완벽히/mag
+
+분리되어
+	분리/ncpa+되/xsvn+어/ecx
+
+있지
+	있/px+지/ecx
+
+않은
+	않/px+은/etm
+
+개방형
+	개방형/ncn
+
+공간으로
+	공간/ncn+으로/jca
+
+되어
+	되/pvg+어/ecx
+
+있으나,
+	있/px+으나/ecs+,/sp
+
+천장에서
+	천/nnc+장/nbu+에서/jca
+
+바닥까지
+	바닥/ncn+까지/jxc
+
+이르는
+	이르/paa+는/etm
+
+실크
+	실크/ncn
+
+파티션
+	파티/ncn+션/ncn
+
+스크린(미닫이
+	스크린(미닫/ncn+이/jcc
+
+형태)을
+	형태/ncn+)/sr+을/jco
+
+닫으면
+	닫/pvg+으면/ecs
+
+공간이
+	공간/ncn+이/jcc
+
+분리돼
+	분리/ncpa+되/xsvn+어/ecx
+
+프라이빗한
+	프라이빗한/ncn
+
+분위기를
+	분위기/ncn+를/jco
+
+연출할
+	연출/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+딜럭스룸과
+	딜럭스룸/ncn+과/jcj
+
+마찬가지로
+	마찬가지/ncn+로/jca
+
+수입
+	수입/ncpa
+
+300천수
+	300/nnc+천/nnc+수/nbu
+
+리넨으로
+	리넨/ncn+으로/jca
+
+제작한
+	제작/ncpa+하/xsva+ㄴ/etm
+
+시트와
+	시트/ncn+와/jcj
+
+최고급
+	최고급/ncn
+
+매트리스를
+	매트리스/ncn+를/jco
+
+보유해
+	보유/ncpa+하/xsva+어/ecx
+
+안락한
+	안락/ncps+하/xsms+ㄴ/etm
+
+하룻밤을
+	하룻밤/ncn+을/jco
+
+보낼
+	보내/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+Grand
+	Grand/f
+
+King
+	King/f
+
+|기준인원:
+	|기준인원:/ncn
+
+2인(최대
+	2인(최대/ncn
+
+3인)
+	3/nnc+이/jp+ㄴ/etm+)/sr
+
+/
+	//sp
+
+침대타입:
+	침대/ncn+타입/ncn+:/sp
+
+킹사이즈
+	킹사이즈/ncn
+
+1개객실
+	1개객실/ncn
+
+편의설비:
+	편의/ncn+설비/ncpa+:/sp
+
+JingAn
+	JingAn/f
+
+Park
+	Park/f
+
+전망,
+	전망/ncn+,/sp
+
+스튜디오
+	스튜디오/ncn
+
+컨셉,
+	컨셉,/ncn
+
+파티션
+	파티/ncn+션/ncn
+
+스크린으로
+	스크린/ncn+으로/jca
+
+침실과
+	침실/ncn+과/jcj
+
+욕실
+	욕실/ncn
+
+분리
+	불/pvg+ㄴ/etm+리/nbn
+
+가능,
+	가능/ncps+,/sp
+
+창가에
+	창가/ncn+에/jca
+
+데이베드형
+	데이/ncn+베드/ncn+형/ncn
+
+소파와
+	소파/ncn+와/jcj
+
+커피테이블
+	커피/ncn+테이블/ncn
+
+비치,
+	비치/ncpa+,/sp
+
+미니바
+	미니/ncn+바/ncn
+
+무료
+	무료/ncn
+
+이용,
+	이용/ncpa+,/sp
+
+네스프레소
+	네스프레소/ncn
+
+커피
+	커피/ncn
+
+머신,
+	멀/paa+시/ep+ㄴ/etm+,/sp
+
+유무선
+	유무선/ncn
+
+인터넷
+	인터넷/ncn
+
+무료
+	무료/ncn
+
+이용,
+	이용/ncpa+,/sp
+
+32인치
+	32/nnc+인치/nbu
+
+LCD
+	LCD/f
+
+TVDVD
+	TVDVD/f
+
+플레이어,
+	플레이/ncn+이/jp+어/ef+,/sp
+
+보스
+	보스/ncn
+
+웨이브
+	웨이브/ncn
+
+뮤직
+	뮤직/ncn
+
+시스템(MP3
+	시스템(MP3/ncn
+
+도킹
+	도킹/ncn
+
+가능),
+	가능/ncps+)/sr+,/sp
+
+DVD
+	DVD/f
+
+플레이어,
+	플레이/ncn+이/jp+어/ef+,/sp
+
+더블
+	더블/ncn
+
+세면대,
+	세면대/ncn+,/sp
+
+창가
+	창/ncn+가/jcs
+
+옆
+	옆/ncn
+
+욕조,
+	욕조/ncn+,/sp
+
+별도로
+	별도/ncn+로/jca
+
+분리된
+	분리/ncpa+되/xsvn+ㄴ/etm
+
+레인포레스트
+	레인/ncn+포레스트/ncn
+
+샤워
+	샤워/ncpa
+
+시설
+	시설/ncpa
+
+및
+	및/maj
+
+화장실,
+	화장실/ncn+,/sp
+
+안전금고,
+	안전/ncn+금고/ncn+,/sp
+
+다용도
+	다용도/ncn
+
+테이블(책상이나
+	테이블(책상/ncn+이나/jcj
+
+식탁으로
+	식탁/ncn+으로/jca
+
+이용
+	이용/ncpa
+
+가능),
+	가능/ncps+)/sr+,/sp
+
+최고급
+	최고급/ncn
+
+침구
+	침구/ncn
+
+등체크인
+	등체크/ncn+이/jp+ㄴ/etm
+
+시간
+	시간/nbu
+
+오후
+	오후/ncn
+
+2시,
+	2/nnc+시/nbu+,/sp
+
+체크아웃
+	체크아웃/ncpa
+
+시간
+	시간/nbu
+
+낮
+	낮/ncn
+
+12시
+	12/nnc+시/nbu
+
+
+RestaurantBar:
+	RestaurantBar/f+:/sp
+
+맛도
+	맛/ncn+도/jxc
+
+분위기도
+	분위기/ncn+도/jxc
+
+만족스러운
+	만족/ncpa+스럽/xsmn+은/etm
+
+레스토랑과
+	레스토랑/ncn+과/jcj
+
+바
+	바/nbn
+
+
+푸리
+	푸/pvg+리/ef
+
+호텔
+	호텔/ncn
+
+2층의징안레스토랑(Jing'An
+	2층의징안레스토랑(Jing'An/ncn
+
+Restaurant)은
+	Restaurant/f+)/sr+은/jxc
+
+통유리
+	통유리/ncn
+
+너머로
+	너머/ncn+로/jca
+
+환상적인
+	환상/ncn+적/ncn+이/jp+ㄴ/etm
+
+공원
+	공원/ncn
+
+전망을
+	전망/ncn+을/jco
+
+감상하며
+	감상/ncpa+하/xsva+며/ecc
+
+최고의
+	최고/ncn+의/jcm
+
+맛과
+	맛/ncn+과/jcj
+
+서비스를
+	서비스/ncpa+를/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+120석
+	120/nnc+석/nbu
+
+규모의
+	규모/ncn+의/jcm
+
+푸리
+	푸/pvg+리/ef
+
+호텔의
+	호텔/ncn+의/jcm
+
+대표
+	대표/ncpa
+
+레스토랑이다
+	레스토랑/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+쉐프
+	쉐프/ncn
+
+데인
+	데/nbn+이/jp+ㄴ/etm
+
+클라우스턴이
+	클라우스턴/ncn+이/jcc
+
+아침,
+	아침/ncn+,/sp
+
+점심,
+	점심/ncn+,/sp
+
+저녁,
+	저녁/ncn+,/sp
+
+계절에
+	계절/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+각각
+	각각/mag
+
+다른
+	다르/paa+ㄴ/etm
+
+메뉴를
+	메뉴/ncn+를/jco
+
+고객에게
+	고객/ncn+에게/jca
+
+선보이며,
+	선보이/pvg+며/ecc+,/sp
+
+아시안
+	아시안/ncn
+
+요소가
+	요소/ncn+가/jcs
+
+가미된
+	가미/ncpa+되/xsvn+ㄴ/etm
+
+인터내셔널
+	인터내셔널/ncn
+
+메뉴를
+	메뉴/ncn+를/jco
+
+맛볼
+	맛보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+저녁식사
+	저녁식사/ncpa
+
+때는
+	때/ncn+는/jxc
+
+스마트
+	스마트/ncps
+
+캐주얼
+	캐주얼/ncn
+
+드레스
+	드레스/ncn
+
+코드를
+	코드/ncn+를/jco
+
+지키도록
+	지키/pvg+도록/ecs
+
+하자
+	하/pvg+자/ecc
+
+.
+	./sf
+
+
+한편,
+	한/nnc+편/nbu+,/sp
+
+푸리
+	푸/pvg+리/ef
+
+호텔의
+	호텔/ncn+의/jcm
+
+아침식사는
+	아침식사/ncpa+는/jxc
+
+4가지
+	4/nnc+가지/nbu
+
+옵션이
+	옵션/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+징안
+	징/ncn+안/xsnx
+
+레스토랑에서
+	레스토랑/ncn+에서/jca
+
+알라카르트
+	알라카르트/ncn
+
+또는
+	또는/maj
+
+뷔페를
+	뷔페/ncn+를/jco
+
+즐기거나,
+	즐기/pvg+거나/ecc+,/sp
+
+롱바에서
+	롱바/ncn+에서/jca
+
+유럽식
+	유럽식/ncn
+
+아침식사를
+	아침식사/ncpa+를/jco
+
+맛보거나,
+	맛보/pvg+거나/ecc+,/sp
+
+객실에서
+	객실/ncn+에서/jca
+
+편하게
+	편하/paa+게/ecs
+
+아침식사를
+	아침식사/ncpa+를/jco
+
+주문해
+	주문/ncn+해/ncn
+
+먹거나,
+	먹/pvg+거나/ecc+,/sp
+
+이동하면서
+	이동/ncpa+하/xsva+면서/ecc
+
+먹을
+	먹/pvg+을/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+테이크아웃도
+	테이크아웃/ncn+도/jxc
+
+가능하다
+	가능/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+32m
+	32m/ncn
+
+길이의
+	길이/ncn+의/jcm
+
+목재
+	목재/ncn
+
+바를
+	바/nbn+를/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+1층의롱바(Long
+	1층의롱바(Long/ncn
+
+Bar)는
+	Bar/f+)/sr+는/jxc
+
+상하이에서
+	상하/ncn+이/ncn+에서/jca
+
+가장
+	가장/mag
+
+많은
+	많/paa+은/etm
+
+종류의
+	종류/ncn+의/jcm
+
+와인,
+	와인/ncn+,/sp
+
+샴페인
+	샴페인/ncn
+
+셀렉션을
+	셀렉션/ncn+을/jco
+
+잔으로
+	잔/nbu+으로/jca
+
+즐겨볼
+	즐기/pvg+어/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+곳
+	곳/ncn
+
+중
+	중/nbn
+
+하나
+	하나/nnc
+
+.
+	./sf
+
+
+1층
+	1/nnc+층/nbu
+
+전체를
+	전체/ncn+를/jco
+
+관통하며
+	관통/ncpa+하/xsva+며/ecc
+
+길게
+	길/paa+게/ecs
+
+놓인
+	놓이/pvg+ㄴ/etm
+
+테이블에서
+	테이블/ncn+에서/jca
+
+독특한
+	독특/ncps+하/xsms+ㄴ/etm
+
+분위기를
+	분위기/ncn+를/jco
+
+만끽하면서,
+	만끽/ncpa+하/xsva+면서/ecc+,/sp
+
+창밖의
+	창밖/ncn+의/jcm
+
+소담한
+	소담/ncps+하/xsms+ㄴ/etm
+
+정원을
+	정원/ncn+을/jco
+
+감상할
+	감상/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+롱바는
+	롱바/ncn+는/jxc
+
+아침에는
+	아침/ncn+에/jca+는/jxc
+
+조식이
+	조식/ncpa+이/jcc
+
+제공되고
+	제공/ncpa+되/xsvn+고/ecc
+
+밤에는
+	밤/ncn+에/jca+는/jxc
+
+바로
+	바로/mag
+
+변하는
+	변하/pvg+는/etm
+
+등
+	등/nbu
+
+시시각각
+	시시각각/mag
+
+공간의
+	공간/ncn+의/jcm
+
+용도가
+	용도/ncn+가/jcs
+
+바뀌는
+	바뀌/pvg+는/etm
+
+카멜레온
+	카멜레온/ncn
+
+같은
+	같/paa+은/etm
+
+공간이다
+	공간/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+안락한
+	안락/ncps+하/xsms+ㄴ/etm
+
+소파와
+	소파/ncn+와/jct
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+의자로
+	의자/ncn+로/jca
+
+장식된가든테라스(Garden
+	장식된가든테라스(Garden/ncn
+
+Terrace)는
+	Terrace/f+)/sr+는/jxc
+
+아름다운
+	아름답/paa+은/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+감상하며
+	감상/ncpa+하/xsva+며/ecc
+
+쉬어가기
+	쉬/pvg+어/ecx+가/px+기/etn
+
+좋은
+	좋/paa+은/etm
+
+곳으로,
+	곳/ncn+으로/jca+,/sp
+
+푹신한
+	푹신/ncps+하/xsms+ㄴ/etm
+
+소파와
+	소파/ncn+와/jct
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+의자에
+	의자/ncn+에/jca
+
+앉아
+	앉/pvg+아/ecx
+
+산들한
+	산들한/ncn
+
+바깥
+	바깥/ncn
+
+바람과
+	바람/ncn+과/jcj
+
+라이브
+	라이브/ncn
+
+공연을
+	공연/ncps+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+싱그러운
+	싱그럽/paa+은/etm
+
+분위기의
+	분위기/ncn+의/jcm
+
+가든테라스에서는
+	가든/ncn+테라스/ncn+에서/jca+는/jxc
+
+점심식사와
+	점심식사/ncpa+와/jcj
+
+애프터눈
+	애프터/ncn+눈/ncn
+
+티를
+	티/ncn+를/jco
+
+제공하며,
+	제공/ncpa+하/xsva+며/ecc+,/sp
+
+밤에는
+	밤/ncn+에/jca+는/jxc
+
+조명이
+	조/nnc+명/nbu+이/jcc
+
+밝혀져
+	밝혀지/pvg+어/ecx
+
+로맨틱한
+	로맨틱/ncps+하/xsms+ㄴ/etm
+
+스팟으로
+	스팟/ncn+으로/jca
+
+변신한다
+	변신/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+SpaFacilities:
+	SpaFacilities/f+:/sp
+
+중국
+	중국/ncn
+
+최초의
+	최초/ncn+의/jcm
+
+아난타라
+	아난타라/ncn
+
+스파
+	스파/ncn
+
+등
+	등/nbu
+
+럭셔리한
+	럭셔리한/ncn
+
+부대시설
+	부대시설/ncpa
+
+
+호텔
+	호텔/ncn
+
+3층은
+	3/nnc+층/nbu+은/jxc
+
+최고급
+	최고급/ncn
+
+스파와
+	스파/ncn+와/jcj
+
+웰빙
+	웰빙/ncn
+
+휴식을
+	휴식/ncpa+을/jco
+
+제공하는
+	제공/ncpa+하/xsva+는/etm
+
+영역이다
+	영역/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+호텔
+	호텔/ncn
+
+내에
+	내/npp+에/jca
+
+자리한아난타라
+	자리한아난타라/ncn
+
+스파(Anantara
+	스파(Anantara/ncn
+
+Spa)는
+	Spa/f+)/sr+는/jxc
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+수상
+	수상/ncpa
+
+경력을
+	경력/ncpa+을/jco
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+아난타라
+	아난타/ncn+이/jp+라/ecs
+
+스파
+	스파/ncn
+
+그룹에서
+	그룹/ncn+에서/jca
+
+운영하는
+	운영/ncpa+하/xsva+는/etm
+
+럭셔리
+	럭셔리/ncn
+
+스파로,
+	스파로,/ncn
+
+인도와
+	인도/ncn+와/jcj
+
+태국
+	태국/ncn
+
+및
+	및/maj
+
+중국
+	중국/ncn
+
+스타일의
+	스타일/ncn+의/jcm
+
+트리트먼트를
+	트리트먼트/ncn+를/jco
+
+제공한다
+	제공/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+상하이
+	상하/ncn+이/jcc
+
+최초로
+	최초/ncn+로/jca
+
+입점한
+	입점한/ncn
+
+아난타라
+	아난타라/ncn
+
+스파로도
+	스파로/ncn+도/jxc
+
+유명한
+	유명/ncn+한/ncn
+
+이
+	이/mmd
+
+곳에서는
+	곳/ncn+에서/jca+는/jxc
+
+차를
+	차/ncn+를/jco
+
+테마로
+	테마/ncn+로/jca
+
+한
+	하/pvg+ㄴ/etm
+
+웰빙
+	웰빙/ncn
+
+트리트먼트를
+	트리트먼트/ncn+를/jco
+
+선보이는데,
+	선보이/pvg+ㄴ데/ecs+,/sp
+
+스팀룸과
+	스팀/ncn+룸/ncn+과/jcj
+
+사우나룸이
+	사우나/ncn+룸/ncn+이/jcc
+
+완비된
+	완비/ncpa+되/xsvn+ㄴ/etm
+
+스위트
+	스위트/ncn
+
+트리트먼트
+	트리트먼트/ncn
+
+룸이
+	룸/ncn+이/jcc
+
+5개
+	5/nnc+개/nbu
+
+있으며
+	있/px+으며/ecc
+
+개별
+	개별/ncn
+
+또는
+	또는/maj
+
+커플로
+	커플/ncn+로/jca
+
+이용
+	이용/ncpa
+
+가능하다
+	가능/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+푸리
+	푸/pvg+리/ef
+
+호텔을
+	호텔/ncn+을/jco
+
+이용한다면
+	이용/ncpa+하/xsva+ㄴ다면/ecs
+
+꼭
+	꼭/mag
+
+해야할
+	하/pvg+어야/ecx+하/px+ㄹ/etm
+
+일.
+	일/nnc+./sf
+
+최신
+	최신/ncn
+
+시설을
+	시설/ncpa+을/jco
+
+갖춘
+	갖추/pvg+ㄴ/etm
+
+피트니스클럽에서
+	피트/ncn+니스/ncn+클럽/ncn+에서/jca
+
+신나게
+	신나/pvg+게/ecs
+
+운동을
+	운동/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+사우나과
+	사우나/ncn+과/jcj
+
+스팀룸,
+	스팀/ncn+룸/ncn+,/sp
+
+자쿠지풀에서
+	자쿠지풀/ncn+에서/jca
+
+몸을
+	몸/ncn+을/jco
+
+푼
+	풀/pvg+ㄴ/etm
+
+후호텔
+	후호텔/ncn
+
+내의
+	내/npp+의/jcm
+
+인피니티
+	인피니티/ncn
+
+풀장에서
+	풀장/ncn+에서/jca
+
+피로를
+	피로/ncps+를/jco
+
+녹이는
+	녹이/pvg+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+직사각형으로
+	직사각형/ncn+으로/jca
+
+이루어진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+25m
+	25m/ncn
+
+길이의
+	길이/ncn+의/jcm
+
+풀장과
+	풀장/ncn+과/jcj
+
+직사각형
+	직사각형/ncn
+
+창문이
+	창문/ncn+이/jcc
+
+모던하게
+	모던/ncpa+하/xsva+게/ecs
+
+조화된
+	조화/ncn+되/xsvn+ㄴ/etm
+
+감각적인
+	감각/ncpa+적/ncn+이/jp+ㄴ/etm
+
+디자인
+	디자인/ncpa
+
+속을
+	속/ncn+을/jco
+
+시원하게
+	시원/ncps+하/xsms+게/ecs
+
+유영하는
+	유영하/ncn+는/jxc
+
+기분이
+	기분/ncn+이/jcc
+
+색다르다
+	색다르/paa+다/ef
+
+.
+	./sf
+
+
+수영
+	수영/ncn
+
+후에
+	후/ncn+에/jca
+
+폭신한
+	폭신한/ncn
+
+풀베드에
+	풀베드/ncn+에/jca
+
+누워서
+	눕/pvg+어서/ecs
+
+창
+	창/ncn
+
+밖으로
+	밖/ncn+으로/jca
+
+내다
+	내/pvg+어다/ecs
+
+보이는
+	보이/pvg+는/etm
+
+징안공원(JingAn
+	징안공원(JingAn/ncn
+
+Park)을
+	Park/f+)/sr+을/jco
+
+바라보면
+	바라/pvg+아/ecx+보/px+면/ecs
+
+스트레스가
+	스트레스/ncn+가/jcs
+
+가볍게
+	가볍/paa+게/ecs
+
+풀리는
+	풀리/pvg+는/etm
+
+듯하다
+	듯하/paa+다/ef
+
+.
+	./sf
+
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+도시
+	도시/ncn
+
+상하이에서의
+	상하/ncn+이/ncn+에서/jca+의/jcm
+
+럭셔리한
+	럭셔리한/ncn
+
+휴양
+	휴양/ncpa
+
+
+동양의
+	동양/ncn+의/jcm
+
+파리
+	파리/ncn
+
+라는
+	라/ncn+는/jxc
+
+낭만적인
+	낭만/ncn+적/ncn+이/jp+ㄴ/etm
+
+애칭으로
+	애칭/ncn+으로/jca
+
+불리는
+	불리/pvg+는/etm
+
+상하이는
+	상하/ncn+이/jp+는/etm
+
+특유의
+	특유/ncps+의/jcm
+
+색감,
+	색감/ncn+,/sp
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+야경,
+	야경/ncn+,/sp
+
+전통적이면서도
+	전통적이면/ncn+서/jca+도/jxc
+
+미래적인
+	미래/ncn+적/ncn+이/jp+ㄴ/etm
+
+도시
+	도시/ncn
+
+풍경,
+	풍경/ncn+,/sp
+
+생기
+	생기/ncn
+
+넘치는
+	넘치/pvg+는/etm
+
+예술계,
+	예술계/ncn+,/sp
+
+중국
+	중국/ncn
+
+최고
+	최고/ncn
+
+수준의
+	수준/ncn+의/jcm
+
+쇼핑
+	쇼핑/ncpa
+
+플레이스
+	플레이스/ncn
+
+등
+	등/nbu
+
+여행자들의
+	여행자/ncn+들/ncn+의/jcm
+
+오감을
+	오가/pvg+ㅁ/etn+을/jco
+
+즐겁게
+	즐겁/paa+게/ecs
+
+해주는
+	하/pvg+어/ecx+주/px+는/etm
+
+요소로
+	요소/ncn+로/jca
+
+가득하다
+	가득/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+상하이는
+	상하/ncn+이/jp+는/etm
+
+비행기로
+	비행기/ncn+로/jca
+
+2시간이면
+	2/nnc+시간/nbu+이/jp+면/ecs
+
+갈
+	가/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+가까운
+	가깝/paa+은/etm
+
+도시이기에,
+	도시/ncn+이/jp+기/etn+에/jca+,/sp
+
+활동적이면서도
+	활동/ncpa+적/ncn+이/jp+면서/ecs+도/jxc
+
+스타일리쉬한
+	스타일/ncn+리쉬/ncn+한/ncn
+
+휴가를
+	휴가/ncn+를/jco
+
+즐기기에
+	즐기/pvg+기/etn+에/jca
+
+딱
+	딱/mag
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+친구와
+	친구/ncn+와/jct
+
+함께
+	함께/mag
+
+떠나는
+	떠나/pvg+는/etm
+
+주말여행으로도
+	주말여행/ncn+으로/jca+도/jxc
+
+완벽하고,
+	완벽/ncps+하고/jct+,/sp
+
+연인과
+	연인/ncn+과/jct
+
+함께
+	함께/mag
+
+하는
+	하/pvg+는/etm
+
+로맨틱
+	로맨틱/ncps
+
+여행에도
+	여행/ncpa+에/jca+도/jxc
+
+적합하다
+	적합/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+복닥복닥
+	복닥복닥/ncn
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+상하이를
+	상하/ncn+이를/jco
+
+오감으로
+	오가/pvg+ㅁ/etn+으로/jca
+
+즐긴
+	즐기/pvg+ㄴ/etm
+
+후도심
+	후도/ncn+이/jp+시/ep+ㅁ/etn
+
+속의
+	속/ncn+의/jcm
+
+럭셔리
+	럭셔리/ncn
+
+리조트
+	리조트/ncn
+
+푸리
+	푸/pvg+리/ef
+
+호텔에서
+	호텔/ncn+에서/jca
+
+최고의
+	최고/ncn+의/jcm
+
+휴식을
+	휴식/ncpa+을/jco
+
+누려보자
+	누리/pvg+어/ecx+보/px+자/ecc
+
+.
+	./sf
+
+
+이보다
+	이/npd+보다/jca
+
+더
+	더/mag
+
+완벽한
+	완벽/ncps+하/xsms+ㄴ/etm
+
+상하이
+	상하/ncn+이/jcc
+
+여행은
+	여행/ncpa+은/jxc
+
+없을
+	없/paa+을/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+식상한
+	식상/ncpa+하/xsva+ㄴ/etm
+
+패키지
+	패키지/ncn
+
+여행에서
+	여행/ncpa+에서/jca
+
+벗어나고
+	벗/pvg+어/ecx+나/px+고/ecc
+
+싶나요
+	싶/px+나/ef+요/jxf
+
+?
+	?/sf
+
+
+여행도
+	여행/ncpa+도/jxc
+
+스타일
+	스타/ncn+이/jp+ㄹ/etm
+
+있게
+	있/px+게/ecs
+
+!
+	!/sf
+
+
+더욱
+	더욱/mag
+
+특별하게
+	특별/ncps+하/xsms+게/ecs
+
+!
+	!/sf
+
+
+당신이
+	당신/npp+이/jcs
+
+꿈꿔온
+	꿈꾸/pvg+어/ecx+오/px+ㄴ/etm
+
+여행을
+	여행/ncpa+을/jco
+
+선사하는에바종홈페이지에서
+	선사하는에바종홈페이지/ncn+에서/jca
+
+
+에바종이
+	에바/ncn+종이/ncn
+
+엄선한
+	엄선/ncpa+하/xsva+ㄴ/etm
+
+호텔
+	호텔/ncn
+
+상품을
+	상품/ncn+을/jco
+
+지금
+	지금/mag
+
+바로
+	바로/mag
+
+만나보세요
+	만나/pvg+아/ecx+보/px+세/ef+요/jxf
+
+!
+	!/sf
+
+
+Find
+	Find/f
+
+your
+	your/f
+
+dream
+	dream/f
+
+travel
+	travel/f
+
+in
+	in/f
+
+style.
+	style/f+./sy
+
+에바종
+	에바/ncn+종/ncn
+
+홈페이지
+	홈페이지/ncn
+
+바로가기
+	바로가/ncn+이/jp+기/etn

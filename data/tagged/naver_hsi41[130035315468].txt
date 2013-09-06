@@ -1,0 +1,597 @@
+이명박
+	이명/ncn+박/ncn
+
+대통령이
+	대통령/ncr+이/jcc
+
+서울시장으로
+	서울시장/ncn+으로/jca
+
+재직하던
+	재직/ncpa+하/xsva+던/etm
+
+2002
+	2002/nnc
+
+2007년
+	2007/nnc+년/nbu
+
+사이
+	사이/ncn
+
+무더기로
+	무더기/ncn+로/jca
+
+지정된
+	지정/ncpa+되/xsvn+ㄴ/etm
+
+뉴타운에
+	뉴타운/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+종합
+	종합/ncpa
+
+재검토
+	재검토/ncpa
+
+내용이
+	내용/ncn+이/jcc
+
+이르면
+	이르/pvg+면/ecs
+
+11월
+	11/nnc+월/nbu
+
+발표된다
+	발표/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+서울시는
+	서울시/ncn+는/jxc
+
+지난
+	지나/pvg+ㄴ/etm
+
+5월
+	5/nnc+월/nbu
+
+뉴타운
+	뉴타운/ncn
+
+검증을
+	검증/ncpa+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+출범한
+	출범/ncpa+하/xsva+ㄴ/etm
+
+'서울시
+	'서울시/ncn
+
+주거환경개선정책
+	주거환경/ncn+개선정책/ncn
+
+자문위원회'
+	자문위원회/ncn+'/sr
+
+활동
+	활동/ncpa
+
+내용과
+	내용/ncn+과/jcj
+
+여기서
+	여기/npd+서/jca
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+결과를
+	결과/ncn+를/jco
+
+11월께
+	11/nnc+월/nbu+께/jca
+
+발표하고
+	발표/ncpa+하고/jct
+
+연말까지
+	연말/ncn+까지/jxc
+
+종합대책을
+	종합대책/ncn+을/jco
+
+마련할
+	마련/ncpa+하/xsva+ㄹ/etm
+
+계획이라고
+	계획/ncpa+이/jp+라/ef+고/jcr
+
+15일
+	15/nnc+일/nbu
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+시는
+	시/nbu+는/jxc
+
+여기서
+	여기/npd+서/jca
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+결과를
+	결과/ncn+를/jco
+
+토대로
+	토대/ncn+로/jca
+
+뉴타운,
+	뉴타운,/ncn
+
+재개발
+	재개발/ncn
+
+재건축사업
+	재건축/ncn+사업/ncn
+
+종합점검
+	종합점검/ncn
+
+주거환경
+	주거환경/ncn
+
+개선정책
+	개선정책/ncn
+
+보완방향
+	보완/ncpa+방향/ncn
+
+구체적인
+	구체/ncn+적/ncn+이/jp+ㄴ/etm
+
+개선
+	개/nbu+선/jxc
+
+실행방안
+	실행방안/ncn
+
+등
+	등/nbu
+
+마련할
+	마련/ncpa+하/xsva+ㄹ/etm
+
+계획이다
+	계획/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+서울시는
+	서울시/ncn+는/jxc
+
+이를
+	이/npd+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+뉴타운
+	뉴타운/ncn
+
+및
+	및/maj
+
+재개발,
+	재개발/ncn+,/sp
+
+재건축
+	재건축/ncn
+
+등
+	등/nbu
+
+도시재정비사업의
+	도시/ncn+재정비/ncpa+사업/ncn+의/jcm
+
+종합적인
+	종합/ncpa+적/ncn+이/jp+ㄴ/etm
+
+점검은
+	점검/ncpa+은/jxc
+
+물론
+	물론/mag
+
+뉴타운
+	뉴타운/ncn
+
+추가지정과
+	추가지정/ncpa+과/jct
+
+관련된
+	관련/ncpa+되/xsvn+ㄴ/etm
+
+논란을
+	논란/ncpa+을/jco
+
+해소시킬
+	해소/ncpa+시키/xsva+ㄹ/etm
+
+방침이다
+	방침/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+일명
+	일/nnc+명/nbu
+
+'뉴타운
+	'뉴타운/ncn
+
+자문단'은
+	자문/ncpa+단/ncn+'/sr+은/jxc
+
+뉴타운
+	뉴타운/ncn
+
+추가
+	추/ncn+가/jcs
+
+지정
+	지정/ncpa
+
+문제가
+	문제/ncn+가/jcs
+
+선거
+	선거/ncpa
+
+쟁점화
+	쟁점/ncn+화/ncn
+
+된
+	되/pvg+ㄴ/etm
+
+지난
+	지나/pvg+ㄴ/etm
+
+4월
+	4/nnc+월/nbu
+
+총선이후
+	총선이후/ncn
+
+출범해
+	출범/ncpa+해/ncn
+
+6월부터
+	6/nnc+월/nbu+부터/jxc
+
+본격적인
+	본격/ncn+적/ncn+이/jp+ㄴ/etm
+
+활동을
+	활동/ncpa+을/jco
+
+벌였다
+	벌이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+'주거환경개선정책
+	'/sr+주거환경/ncn+개선정책/ncn
+
+자문위원회'는
+	자문위원회/ncn+'/sr+는/jxc
+
+위원장을
+	위원장/ncr+을/jco
+
+맡은
+	맡/pvg+은/etm
+
+하성규
+	하성규/ncn
+
+중앙대
+	중앙/ncn+대/ncn
+
+교수
+	교수/ncr
+
+등
+	등/nbu
+
+15명의
+	15/nnc+명/nbu+의/jcm
+
+외부인사와
+	외부인사/ncn+와/jcj
+
+서울시
+	서울시/ncn
+
+국장급
+	국장/ncr+급/ncn
+
+인사
+	인사/ncn
+
+3명으로
+	3/nnc+명/nbu+으로/jca
+
+구성돼
+	구성/ncn+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+뉴타운,
+	뉴타운,/ncn
+
+재개발
+	재개발/ncn
+
+재건축사업을
+	재건축/ncn+사업/ncn+을/jco
+
+종합적으로
+	종합/ncpa+적/ncn+으로/jca
+
+점검하고
+	점검/ncpa+하고/jct
+
+실질적인
+	실질/ncn+적/ncn+이/jp+ㄴ/etm
+
+보완
+	보완/ncpa
+
+실행방안을
+	실행방안/ncn+을/jco
+
+마련하는
+	마련/ncpa+하/xsva+는/etm
+
+실무추진단(TFT)은
+	실무추진단(TFT)/ncn+은/jxc
+
+성과분석팀(뉴타운사업1담당관),
+	성과분석팀(뉴타운사업1담당관),/ncn
+
+부동산경제분석팀(주택정책과장),
+	부동산경제분석팀(주택정책과장),/ncn
+
+제도분석팀(주거정비과장)
+	제도분석팀(주거정비과장)/ncn
+
+등
+	등/nbu
+
+3개
+	3/nnc+개/nbu
+
+팀으로
+	팀/ncn+으로/jca
+
+나뉘어
+	나뉘/pvg+어/ecx
+
+활동하고
+	활동/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+국,
+	국/ncn+,/sp
+
+과장급
+	과장/ncpa+급/ncn
+
+인사도
+	인사/ncn+도/jxc
+
+참여하고
+	참여/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.'
+	./sf+'/sl
+
+
+뉴타운
+	뉴타운/ncn
+
+자문단'과
+	자문/ncpa+단/ncn+'/sr+과/jcj
+
+'실무추진단'은
+	'/sr+실무/ncn+추진/ncpa+단/ncn+'/sr+은/jxc
+
+9월과
+	9/nnc+월/nbu+과/jcj
+
+10월
+	10/nnc+월/nbu
+
+2,
+	2/nnc+,/sp
+
+3차
+	3/nnc+차/nbu
+
+자문위원회
+	자문위원회/ncn
+
+회의를
+	회의/ncn+를/jco
+
+거쳐
+	거치/pvg+어/ecx
+
+11월
+	11/nnc+월/nbu
+
+중
+	중/nbn
+
+종합적인
+	종합/ncpa+적/ncn+이/jp+ㄴ/etm
+
+대책을
+	대책/ncn+을/jco
+
+마련,
+	마련/ncpa+,/sp
+
+공청회를
+	공청회/ncn+를/jco
+
+가질
+	가/pvg+아/ecx+지/px+ㄹ/etm
+
+계획이다
+	계획/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+김효수
+	김효수/ncn
+
+주택국장은
+	주택/ncn+국장/ncr+은/jxc
+
+"자문단
+	"/sl+자문/ncpa+단/ncn
+
+활동은
+	활동/ncpa+은/jxc
+
+뉴타운,
+	뉴타운,/ncn
+
+재개발
+	재개발/ncn
+
+재건축의
+	재건축/ncn+의/jcm
+
+물량적인
+	물량/ncn+적/ncn+이/jp+ㄴ/etm
+
+내용뿐
+	내용/ncn+뿐/jxc
+
+아니라
+	아니/paa+라/ecs
+
+인문
+	인문/ncn
+
+사회적
+	사회/ncn+적/ncn
+
+부분까지
+	부분/ncn+까지/jxc
+
+냉정하게
+	냉정/ncps+하/xsms+게/ecs
+
+살펴보자는
+	살피/pvg+어/ecx+보/px+자/ef+는/etm
+
+오세훈
+	오세/ncn+훈/ncn
+
+시장의
+	시장/ncn+의/jcm
+
+아이디어에서
+	아이디어/ncn+에서/jca
+
+시작됐다"며
+	시작됐다"며/ncn
+
+"성과나
+	"/sl+성/ncn+과/jct+나/jxc
+
+비난받을
+	비난/ncpa+받/xsva+을/etm
+
+것이
+	것/nbn+이/jcc
+
+있었는지를
+	있/px+었/ep+는/etm+지/nbn+를/jco
+
+점검해서
+	점검/ncpa+하/xsva+어서/ecs
+
+분야별로
+	분야별/ncn+로/jca
+
+결과물을
+	결과/ncn+물/ncn+을/jco
+
+내기
+	내/npp+이/jp+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+노력하고
+	노력/ncpa+하고/jct
+
+있다"고
+	있/px+다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:아시아경제
+	출처:아시아경제/ncn

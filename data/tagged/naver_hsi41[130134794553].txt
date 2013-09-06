@@ -1,0 +1,2119 @@
+아파트
+	아파트/ncn
+
+개성시대1세대,
+	개성시대1세대,/ncn
+
+수영장
+	수영장/ncn
+
+공부방
+	공부방/ncn
+
+등
+	등/nbu
+
+특화시설
+	특화/ncn+시설/ncpa
+
+도입2세대,
+	도입2세대,/ncn
+
+조경
+	조경/ncpa
+
+등
+	등/nbu
+
+단지
+	단지/mag
+
+디자인에도
+	디자인/ncpa+에/jca+도/jxc
+
+초점3세대,
+	초점3세대,/ncn
+
+입주자가
+	입주자/ncn+가/jcs
+
+직접
+	직접/mag
+
+선택
+	선택/ncpa
+
+'맞춤형'으로대기업
+	'맞춤형'으로대기업/ncn
+
+과장인
+	과장/ncpa+이/jp+ㄴ/etm
+
+유성욱
+	유성욱/ncn
+
+씨(35)는
+	씨(35)/ncn+는/jxc
+
+매일
+	매일/mag
+
+아침
+	아침/ncn
+
+눈을
+	눈/ncn+을/jco
+
+뜨면
+	뜨/pvg+면/ecs
+
+어김없이
+	어김없이/mag
+
+아파트
+	아파트/ncn
+
+단지
+	단지/ncn
+
+안에
+	안/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+피트니스센터로
+	피트/ncn+니스/ncn+센터/ncn+로/jca
+
+향한다
+	향하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+러닝머신을
+	러닝/ncn+머신/ncn+을/jco
+
+달리거나
+	달리/pvg+거나/ecc
+
+수영을
+	수영/ncn+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+샤워를
+	샤워/ncpa+를/jco
+
+마치고
+	마치/pvg+고/ecc
+
+상쾌하게
+	상쾌/ncps+하/xsms+게/ecs
+
+출근길을
+	출근길/ncn+을/jco
+
+나선다
+	나서/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+퇴근길에는
+	퇴근길/ncn+에/jca+는/jxc
+
+단지
+	단지/mag
+
+내
+	내/npp
+
+독서실에
+	독서실/ncn+에/jca
+
+들러
+	들르/pvg+어/ecx
+
+중국어와
+	중국어/ncn+와/jcj
+
+일본어
+	일본어/ncn
+
+등
+	등/nbu
+
+외국어
+	외국어/ncn
+
+공부에
+	공부/ncpa+에/jca
+
+열심이다
+	열심/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+주말엔
+	주말/ncn+엔/jca
+
+울창한
+	울창/ncn+한/ncn
+
+소나무가
+	소나무/ncn+가/jcs
+
+있는
+	있/px+는/etm
+
+단지
+	단지/ncn
+
+내
+	내/npp
+
+공원을
+	공원/ncn+을/jco
+
+산책하며
+	산책/ncpa+하/xsva+며/ecc
+
+피로를
+	피로/ncps+를/jco
+
+푼다
+	풀/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+유씨는
+	유씨/ncn+는/jxc
+
+"운동시설뿐만
+	"/sl+운동시설/ncpa+뿐/jxc+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+문화시설까지
+	문화시설/ncn+까지/jxc
+
+갖춰
+	갖추/pvg+어/ecx
+
+아파트
+	아파트/ncn
+
+단지
+	단지/ncn
+
+안에서
+	안/ncn+에서/jca
+
+대부분의
+	대부분/ncn+의/jcm
+
+니즈가
+	니즈/ncn+가/jcs
+
+해결
+	해결/ncpa
+
+가능하다"고
+	가능/ncps+하/xsms+다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+커뮤니티
+	커뮤니티/ncn
+
+시설
+	시설/ncpa
+
+특화를
+	특화/ncn+를/jco
+
+통한
+	통하/pvg+ㄴ/etm
+
+차별화
+	차별화/ncn
+
+경쟁이
+	경쟁/ncpa+이/jcc
+
+갈수록
+	가/px+ㄹ수록/ecs
+
+치열해지고
+	치열/ncps+해/ncn+이/jp+지/ef+고/jcr
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+커뮤니티
+	커뮤니티/ncn
+
+시설이
+	시설/ncpa+이/jcc
+
+잘
+	잘/mag
+
+갖춰진
+	갖추/pvg+어/ecx+지/px+ㄴ/etm
+
+단지는
+	단지/ncn+는/jxc
+
+주거
+	주거/ncpa
+
+만족도가
+	만족도/ncn+가/jcs
+
+높아
+	높/paa+아/ecx
+
+수요가
+	수요/ncn+가/jcs
+
+많다
+	많/paa+다/ef
+
+보니
+	보/px+니/ecs
+
+집값
+	집값/ncn
+
+상승은
+	상승/ncpa+은/jxc
+
+물론
+	물론/mag
+
+환금성도
+	환금/ncn+성/ncn+도/jxc
+
+좋기
+	좋/paa+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+여기에
+	여기/npd+에/jca
+
+집의
+	집/ncn+의/jcm
+
+목적이
+	목적/ncn+이/jcc
+
+거주보다
+	거주/ncpa+보다/jca
+
+투자에
+	투자/ncpa+에/jca
+
+있을
+	있/px+을/etm
+
+때
+	때/ncn
+
+커뮤니티
+	커뮤니티/ncn
+
+시설은
+	시설/ncpa+은/jxc
+
+관리비만
+	관리비/ncn+만/jxc
+
+많이
+	많/paa+이/xsa
+
+나오게
+	나/pvg+아/ecx+오/px+게/ecs
+
+하는
+	하/pvg+는/etm
+
+귀찮은
+	귀찮/paa+은/etm
+
+요소였지만
+	요소/ncn+이/jp+었/ep+지만/ecs
+
+실수요자
+	실수요/ncn+이/jp+자/ecc
+
+중심의
+	중심/ncn+의/jcm
+
+시대에
+	시대/ncn+에/jca
+
+접어들면서
+	접어들/pvg+면서/ecc
+
+중요성이
+	중요성/ncn+이/jcc
+
+커지는
+	크/paa+어/ecx+지/px+는/etm
+
+추세다
+	추세/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+조은상
+	조은상/ncn
+
+닥터아파트
+	닥터/ncn+아파트/ncn
+
+리서치팀장은
+	리서치/ncn+팀장/ncr+은/jxc
+
+"그동안
+	"/sl+그동안/ncn
+
+입지와
+	입/pvg+지/ecx+오/px+아/ecx
+
+브랜드가
+	브랜드/ncn+가/jcs
+
+아파트
+	아파트/ncn
+
+단지의
+	단지/ncn+의/jcm
+
+가치를
+	가치/ncn+를/jco
+
+결정했다면
+	결정/ncpa+하/xsva+었/ep+다면/ecs
+
+최근엔
+	최근/ncn+엔/jca
+
+커뮤니티가
+	커뮤니티/ncn+가/jcs
+
+제3의
+	제3/ncn+의/jcm
+
+가치기준으로
+	가치기준/ncn+으로/jca
+
+떠오르고
+	떠오르/pvg+고/ecc
+
+있다"며
+	있다"며/ncn
+
+"앞으로는
+	"/sl+앞/ncn+으로/jca+는/jxc
+
+가구별
+	가구/ncn+별/ncn
+
+취향을
+	취향/ncn+을/jco
+
+고려한
+	고/pvg+려/ecx+하/px+ㄴ/etm
+
+맞춤형
+	맞춤/ncn+형/ncn
+
+커뮤니티
+	커뮤니티/ncn
+
+서비스를
+	서비스/ncpa+를/jco
+
+제공하는
+	제공/ncpa+하/xsva+는/etm
+
+단계로
+	단계/ncn+로/jca
+
+발전할
+	발전/ncpa+하/xsva+ㄹ/etm
+
+것"이라고
+	것/nbn+"/sr+이/jp+라/ef+고/jcr
+
+예상했다
+	예상/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+호텔급
+	호텔/ncn+급/ncn
+
+시설
+	시설/ncpa
+
+도입한
+	도입/ncpa+하/xsva+ㄴ/etm
+
+1세대2000년대
+	1세대2000년대/ncn
+
+초반까지만
+	초반/ncn+까지/jxc+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+아파트
+	아파트/ncn
+
+커뮤니티
+	커뮤니티/ncn
+
+시설은
+	시설/ncpa+은/jxc
+
+경로당이
+	경로당/ncn+이/jcc
+
+전부였다
+	전부/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+최근엔
+	최근/ncn+엔/jca
+
+수영장과
+	수영장/ncn+과/jcj
+
+헬스장
+	헬스/ncn+장/ncn
+
+등
+	등/nbu
+
+운동시설뿐만
+	운동시설/ncpa+뿐/jxc+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+공부방과
+	공부방/ncn+과/jcj
+
+소극장
+	소극장/ncn
+
+등
+	등/nbu
+
+문화시설까지
+	문화시설/ncn+까지/jxc
+
+갖춰
+	갖추/pvg+어/ecx
+
+일상생활을
+	일상생활/ncpa+을/jco
+
+아파트
+	아파트/ncn
+
+단지
+	단지/ncn
+
+안에서
+	안/ncn+에서/jca
+
+보내는
+	보내/pvg+는/etm
+
+'원스톱
+	'/sr+원스톱/ncn
+
+리빙'이
+	리빙'/ncn+이/jcc
+
+대세다
+	대세/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+대형
+	대형/ncn
+
+커뮤니티의
+	커뮤니티/ncn+의/jcm
+
+원조로
+	원조/ncpa+로/jca
+
+꼽히는
+	꼽히/pvg+는/etm
+
+삼성물산의
+	삼성/ncn+물산/ncn+의/jcm
+
+'반포
+	'/sr+반포/ncpa
+
+래미안
+	래미안/ncn
+
+퍼스티지'는
+	퍼스티지'/ncn+는/jxc
+
+스포츠시설
+	스포츠시설/ncpa
+
+규모가
+	규모/ncn+가/jcs
+
+3300
+	3300/nnc
+
+(옛
+	(/sl+옛/mma
+
+1000평)에
+	1000/nnc+평/nbu+)/sr+에/jca
+
+이른다
+	이르/paa+ㄴ다/ef
+
+.
+	./sf
+
+
+신라호텔
+	신라호텔/ncn
+
+피트니스클럽
+	피트/ncn+니스/ncn+클럽/ncn
+
+트레이너들이
+	트레이너/ncn+들/ncn+이/jcc
+
+직접
+	직접/mag
+
+고른
+	고르/pvg+ㄴ/etm
+
+60여개
+	60/nnc+여/xsnu+개/nbu
+
+운동기구가
+	운동기구/ncn+가/jcs
+
+설치돼
+	설치/ncpa+되/xsvn+어/ecx
+
+호텔
+	호텔/ncn
+
+못지않은
+	못지않/paa+은/etm
+
+시설을
+	시설/ncpa+을/jco
+
+자랑한다
+	자랑/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+GS건설의
+	GS건설/ncn+의/jcm
+
+커뮤니티
+	커뮤니티/ncn
+
+공간인
+	공간/ncn+이/jp+ㄴ/etm
+
+'자이안센터'는
+	'자이안센터'/ncn+는/jxc
+
+아파트의
+	아파트/ncn+의/jcm
+
+단점으로
+	단점/ncn+으로/jca
+
+꼽혀온
+	꼽히/pvg+어/ecx+오/px+ㄴ/etm
+
+입주민들
+	입주/ncpa+민/ncn+들/xsncc
+
+간
+	가/px+ㄴ/etm
+
+부족한
+	부족/ncn+한/ncn
+
+소통을
+	소통/ncpa+을/jco
+
+늘리는
+	늘/pvg+ㄹ/etm+리/nbn+는/jxc
+
+데
+	데/nbn
+
+초점을
+	초점/ncn+을/jco
+
+맞추고
+	맞추/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+자이안센터에서
+	자이안센터/ncn+에서/jca
+
+만난
+	만나/pvg+ㄴ/etm
+
+주민들은
+	주민/ncn+들/ncn+은/jxc
+
+골프,
+	골프/ncn+,/sp
+
+풍선아트,
+	풍선/ncn+아트/ncn+,/sp
+
+산악회
+	산악회/ncn
+
+등
+	등/nbu
+
+취미에
+	취미/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+동호회를
+	동호회/ncn+를/jco
+
+꾸린다
+	꾸리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+현재
+	현재/mag
+
+100여개가
+	100/nnc+여/xsnu+개/nbu+가/jcc
+
+넘는
+	넘/pvg+는/etm
+
+동호회가
+	동호회/ncn+가/jcs
+
+활동
+	활동/ncpa
+
+중이다
+	중/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+커뮤니티
+	커뮤니티/ncn
+
+시설을
+	시설/ncpa+을/jco
+
+동별로
+	동/ncn+별/xsncc+로/jca
+
+분산
+	분산/ncn
+
+배치해
+	배치/ncpa+해/ncn
+
+주민들의
+	주민/ncn+들/ncn+의/jcm
+
+신체활동을
+	신체활동/ncpa+을/jco
+
+늘리면서
+	늘/pvg+ㄹ/etm+리/nbn+이/jp+면서/ecc
+
+이웃
+	이웃/ncpa
+
+간
+	가/px+ㄴ/etm
+
+만남을
+	만나/pvg+ㅁ/etn+을/jco
+
+가질
+	가/pvg+아/ecx+지/px+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+하고
+	하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+제사
+	제사/nno
+
+등
+	등/nbu
+
+각종
+	각종/ncn
+
+행사로
+	행사/ncpa+로/jca
+
+방문한
+	방문/ncpa+하/xsva+ㄴ/etm
+
+입주민
+	입주/ncpa+민/ncn
+
+친인척들을
+	친인척/ncn+들/ncn+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+호텔급
+	호텔/ncn+급/ncn
+
+게스트룸을
+	게스트/ncn+룸/ncn+을/jco
+
+마련해
+	마련/ncpa+하/xsva+어/ecx
+
+제공한다
+	제공/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+지방에서도
+	지방/ncn+에서/jca+도/jxc
+
+커뮤니티
+	커뮤니티/ncn
+
+고급화가
+	고급/ncn+화/ncn+가/jcs
+
+한창이다
+	한창/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+부산에
+	부산/ncps+에/jca
+
+들어선
+	들어서/pvg+ㄴ/etm
+
+포스코건설
+	포스코건설/ncn
+
+'더
+	'/sl+더/mag
+
+샵
+	샵/ncn
+
+센트럴스타'는
+	센트럴/ncn+스타/ncn+'/sr+는/jxc
+
+각
+	각/mma
+
+동마다
+	동/nbu+마다/jxc
+
+스카이라운지를
+	스카이/ncn+라운지/ncn+를/jco
+
+마련했다
+	마련/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+30층에
+	30/nnc+층/nbu+에/jca
+
+마련된
+	마련/ncpa+되/xsvn+ㄴ/etm
+
+스카이라운지에서는
+	스카이/ncn+라운지/ncn+에서/jca+는/jxc
+
+부산
+	부산/ncps
+
+도심
+	도/ncn+이/jp+시/ep+ㅁ/etn
+
+조망이
+	조망/ncn+이/jcc
+
+가능하다
+	가능/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+인테리어도
+	인테리어/ncn+도/jxc
+
+특급
+	특급/ncn
+
+호텔
+	호텔/ncn
+
+수준으로
+	수준/ncn+으로/jca
+
+가족
+	가족/ncn
+
+모임도
+	모이/pvg+ㅁ/etn+도/jxc
+
+열
+	열/nnc
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+도심속
+	도심/ncn+속/ncn
+
+전원생활
+	전원/ncn+생활/ncpa
+
+2세대2세대
+	2세대2세대/ncn
+
+커뮤니티는
+	커뮤니티/ncn+는/jxc
+
+고급스러운
+	고급/ncn+스럽/xsmn+은/etm
+
+시설은
+	시설/ncpa+은/jxc
+
+물론이고
+	물론/ncn+이/jp+고/ecc
+
+조경
+	조경/ncpa
+
+등
+	등/nbu
+
+단지
+	단지/ncn
+
+디자인에
+	디자인/ncpa+에/jca
+
+초점을
+	초점/ncn+을/jco
+
+맞췄다
+	맞추/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+한화건설이
+	한화/ncn+건설/ncpa+이/jcc
+
+김포
+	김포/ncn
+
+풍무동에서
+	풍무동/ncn+에서/jca
+
+분양
+	분양/ncpa
+
+중인
+	중/nbn+이/jp+ㄴ/etm
+
+'한화꿈에그린월드
+	'한화꿈에그린월드/ncn
+
+유로메트로'는
+	유로메트로'/ncn+는/jxc
+
+단지
+	단지/mag
+
+전체를
+	전체/ncn+를/jco
+
+프랑스
+	프랑스/ncn
+
+대저택풍으로
+	대저택/ncn+풍/ncn+으로/jca
+
+꾸민다
+	꾸미/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+미국과
+	미국/ncn+과/jcj
+
+중동
+	중동/ncn
+
+부호들이
+	부호/ncn+들/ncn+이/jcc
+
+선호하는
+	선호/ncpa+하/xsva+는/etm
+
+고급
+	고급/ncn
+
+주택을
+	주택/ncn+을/jco
+
+지은
+	지/px+ㄴ/etm
+
+바세니안
+	바세니안/ncn
+
+라고니사(
+	라고니사(/ncn
+
+)가
+	)/sr+가/jcc
+
+디자인에
+	디자인/ncpa+에/jca
+
+참여했다
+	참여/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+삼성물산도
+	삼성/ncn+물산/ncn+도/jxc
+
+'숲속의
+	'/sr+숲속/ncn+의/jcm
+
+래미안'을
+	래미안'/ncn+을/jco
+
+컨셉트로
+	컨셉트/ncn+로/jca
+
+조경
+	조경/ncpa
+
+특화
+	특화/ncn
+
+프로그램을
+	프로그램/ncn+을/jco
+
+진행하고
+	진행/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+올해
+	올해/ncn
+
+입주하는
+	입주/ncpa+하/xsva+는/etm
+
+단지에는
+	단지/ncn+에/jca+는/jxc
+
+수목
+	수목/ncn
+
+안내판에
+	안내판/ncn+에/jca
+
+QR코드를
+	QR/f+코드/ncn+를/jco
+
+추가해
+	추가/ncpa+하/xsva+어/ecx
+
+수목에
+	수목/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+자세한
+	자세/ncn+한/ncn
+
+정보를
+	정보/ncn+를/jco
+
+제공하는
+	제공/ncpa+하/xsva+는/etm
+
+'래미안
+	'래미안/ncn
+
+나무
+	나무/ncn
+
+이야기'를
+	이야기/ncpa+'/sr+를/jco
+
+선보인다
+	선보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+서비스는
+	서비스/ncpa+는/jxc
+
+스마트폰
+	스마트폰/ncn
+
+등
+	등/nbu
+
+모바일
+	모바/ncn+이/jp+ㄹ/etm
+
+기기를
+	기/ncn+이/jp+기/etn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+수목의
+	수목/ncn+의/jcm
+
+어원,
+	어원/ncn+,/sp
+
+용도,
+	용도/ncn+,/sp
+
+명소,
+	명소/ncn+,/sp
+
+사계
+	사계/ncn
+
+등을
+	등/nbu+을/jco
+
+이야기
+	이야기/ncpa
+
+형식으로
+	형식/ncn+으로/jca
+
+엮어
+	엮/pvg+어/ecx
+
+소개하는
+	소개/ncpa+하/xsva+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+어린이와
+	어린이/ncn+와/jcj
+
+청소년을
+	청소년/ncn+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+자연학습
+	자연학습/ncpa
+
+교육용
+	교육용/ncn
+
+콘텐츠로도
+	콘텐츠로/ncn+도/jxc
+
+활용가치가
+	활용/ncpa+가치/ncn+가/jcs
+
+높다고
+	높/paa+다/ef+고/jcr
+
+회사
+	회사/ncn
+
+측은
+	측은/ncps
+
+설명했다
+	설명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+고양시
+	고양시/ncn
+
+식사지구
+	식사/ncpa+지구/ncn
+
+일산자이
+	일산/ncn+자/ncn+이/jcc
+
+위시티는
+	위시/ncpa+티/ncn+는/jxc
+
+그루당
+	그루/ncn+당/ncn
+
+수천만원짜리
+	수천만/nnc+원/nbu+짜리/xsnu
+
+명품
+	명품/ncn
+
+소나무
+	소나무/ncn
+
+2200여그루를
+	2200/nnc+여/xsnu+그루/nbu+를/jco
+
+심었다
+	심/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+1500그루는
+	1500/nnc+그루/nbu+는/jxc
+
+수령이
+	수령/ncpa+이/jcc
+
+100년을
+	100/nnc+년/nbu+을/jco
+
+넘는
+	넘/pvg+는/etm
+
+대적송이다
+	대적/ncn+송이/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+고급
+	고급/ncn
+
+소나무를
+	소나무/ncn+를/jco
+
+심은
+	실/pvg+ㅁ/etn+은/jxc
+
+탓에
+	탓/ncpa+에/jca
+
+단지
+	단지/mag
+
+조경비용은
+	조경/ncpa+비용/ncn+은/jxc
+
+사업승인
+	사업승인/ncpa
+
+때
+	때/ncn
+
+계획한
+	계획/ncpa+하/xsva+ㄴ/etm
+
+300억원보다
+	300/nnc+억/nnc+원/nbu+보다/jca
+
+두
+	두/nnc
+
+배나
+	배/ncn+나/jcj
+
+늘어난
+	늘/pvg+어/ecx+나/px+ㄴ/etm
+
+600억원이
+	600/nnc+억/nnc+원/nbu+이/jcc
+
+들었다
+	들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+GS건설
+	GS건설/ncn
+
+관계자는
+	관계자/ncn+는/jxc
+
+"1000가구
+	"/sl+1000/nnc+가구/nbu
+
+규모의
+	규모/ncn+의/jcm
+
+단지
+	단지/ncn
+
+조경비가
+	조경/ncpa+비/ncn+가/jcs
+
+60억원인
+	60/nnc+억/nnc+원/nbu+이/jp+ㄴ/etm
+
+것을
+	것/nbn+을/jco
+
+감안하면
+	감안/ncpa+하/xsva+면/ecs
+
+4683가구인
+	4683/nnc+가구/nbu+이/jp+ㄴ/etm
+
+위시티의
+	위시/ncpa+티/ncn+의/jcm
+
+조경비용은
+	조경/ncpa+비용/ncn+은/jxc
+
+아파트
+	아파트/ncn
+
+중
+	중/nbn
+
+최고
+	최고/ncn
+
+수준"이라고
+	수준/ncn+"/sr+이/jp+라/ef+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+맞춤형
+	맞춤/ncn+형/ncn
+
+커뮤니티
+	커뮤니티/ncn
+
+도입한
+	도입/ncpa+하/xsva+ㄴ/etm
+
+3세대최근
+	3세대최근/ncn
+
+분양하는
+	분양/ncpa+하/xsva+는/etm
+
+아파트는
+	아파트/ncn+는/jxc
+
+입주자들의
+	입주자/ncn+들/ncn+의/jcm
+
+생활패턴을
+	생활패턴/ncn+을/jco
+
+고려한
+	고/pvg+려/ecx+하/px+ㄴ/etm
+
+맞춤형
+	맞춤/ncn+형/ncn
+
+커뮤니티
+	커뮤니티/ncn
+
+시설이
+	시설/ncpa+이/jcc
+
+특징이다
+	특징/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+삼성물산은
+	삼성/ncn+물산/ncn+은/jxc
+
+이달
+	이/nnc+달/nbu
+
+분양하는
+	분양/ncpa+하/xsva+는/etm
+
+'래미안
+	'래미안/ncn
+
+한강신도시
+	한강신도시/ncn
+
+2차'
+	2/nnc+차/nbu+'/sr
+
+아파트
+	아파트/ncn
+
+커뮤니티를
+	커뮤니티/ncn+를/jco
+
+입주자가
+	입주자/ncn+가/jcs
+
+직접
+	직접/mag
+
+선택할
+	선택/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+전체
+	전체/ncn
+
+커뮤티니
+	커뮤티니/ncn
+
+시설
+	시설/ncpa
+
+3060
+	3060/nnc
+
+가운데
+	가운데/ncn
+
+약
+	약/ncn
+
+100
+	100/nnc
+
+의
+	의/ncn
+
+멀티룸을
+	멀티/ncn+룸/ncn+을/jco
+
+영화관람실
+	영화관람/ncn+실/ncn
+
+인터넷카페
+	인터넷/ncn+카페/ncn
+
+악기연주실
+	악기/ncn+연주/ncpa+이/jp+시/ep+ㄹ/etm
+
+노래방
+	노래/ncn+방/ncn
+
+중에서
+	중/nbn+에서/jca
+
+인터넷
+	인터넷/ncn
+
+투표를
+	투표/ncpa+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+선정키로
+	선정/ncpa+키/ncn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+피트니스센터와
+	피트/ncn+니스/ncn+센터/ncn+와/jcj
+
+사우나
+	사우나/ncn
+
+도서관
+	도서관/ncn
+
+등은
+	등/nbu+은/jxc
+
+기본으로
+	기본/ncn+으로/jca
+
+설치된다
+	설치/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+단지는
+	단지/ncn+는/jxc
+
+조경
+	조경/ncpa
+
+식수도
+	식수/ncn+도/jxc
+
+고객들이
+	고객/ncn+들/ncn+이/jcc
+
+선택할
+	선택/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+5268명이
+	5268/nnc+명/nbu+이/jcc
+
+참여한
+	참여/ncpa+하/xsva+ㄴ/etm
+
+조경
+	조경/ncpa
+
+식수
+	식수/ncn
+
+투표에서는
+	투표/ncpa+에서/jca+는/jxc
+
+왕벚나무(36.
+	왕벚나무(36./ncn
+
+4%)와
+	4/nnc+%/su+)/sr+와/jcj
+
+느티나무(34.
+	느티나무(34./ncn
+
+9%)가
+	9/nnc+%/su+)/sr+가/jcc
+
+1,2위를
+	1/nnc+,/sp+2/nnc+위/nbu+를/jco
+
+차지했다
+	차/pvg+지/ecx+하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+롯데건설은
+	롯데건설/ncn+은/jxc
+
+최근
+	최근/mag
+
+늘고
+	늘/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+재택
+	재택/ncn
+
+근무자들을
+	근무자/ncn+들/ncn+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+단지
+	단지/mag
+
+내에서
+	내/npp+에서/jca
+
+무선인터넷과
+	무선/ncn+인터넷/ncn+과/jcj
+
+와이파이
+	와이/ncn+파/ncn+이/jcc
+
+서비스를
+	서비스/ncpa+를/jco
+
+사용할
+	사용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+'스마트
+	'/sr+스마트/ncps
+
+커뮤니티
+	커뮤니티/ncn
+
+시스템'을
+	시스템/ncn+'/sr+을/jco
+
+도입했다
+	도입/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+커뮤니티센터에
+	커뮤니티/ncn+센터/ncn+에/jca
+
+독립된
+	독립/ncpa+되/xsvn+ㄴ/etm
+
+업무
+	업무/ncn
+
+공간을
+	공간/ncn+을/jco
+
+마련한
+	마련/ncpa+하/xsva+ㄴ/etm
+
+'스마트
+	'/sr+스마트/ncps
+
+홈오피스'와
+	홈오피스'/ncn+와/jcj
+
+야외에서도
+	야외/ncn+에서/jca+도/jxc
+
+정보통신망을
+	정보통신망/ncn+을/jco
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+'스마트
+	'/sr+스마트/ncps
+
+가든'으로
+	가/px+든/ecs+'/sr+으로/jca
+
+구성됐다
+	구성/ncn+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+기존
+	기존/ncpa
+
+재택근무는
+	재택근무/ncn+는/jxc
+
+자택에서
+	자택/ncn+에서/jca
+
+업무를
+	업무/ncn+를/jco
+
+하게
+	하/pvg+게/ecs
+
+돼
+	되/pvg+어/ecx
+
+집중력과
+	집중력/ncn+과/jcj
+
+업무효율이
+	업무효율/ncn+이/jcc
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+단점이
+	단점/ncn+이/jcc
+
+있었던
+	있/paa+었/ep+던/etm
+
+만큼
+	만큼/nbn
+
+효용도가
+	효용/ncn+도/ncn+가/jcs
+
+높을
+	높/paa+을/etm
+
+것으로
+	것/nbn+으로/jca
+
+회사
+	회사/ncn
+
+측은
+	측은/ncps
+
+예상했다
+	예상/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+중견
+	중견/ncn
+
+건설사들도
+	건설사들/ncn+도/jxc
+
+특화된
+	특화/ncn+되/xsvn+ㄴ/etm
+
+커뮤니티
+	커뮤니티/ncn
+
+시설을
+	시설/ncpa+을/jco
+
+갖춰
+	갖추/pvg+어/ecx
+
+눈길을
+	눈길/ncn+을/jco
+
+끈다
+	끌/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+반도건설이
+	반도/ncn+건설/ncpa+이/jcc
+
+최근
+	최근/mag
+
+분양한
+	분양/ncpa+하/xsva+ㄴ/etm
+
+양산
+	양산/ncn
+
+반도유보라
+	반도/ncn+유보/ncpa+이/jp+라/ecs
+
+4차는
+	4/nnc+차/nbu+는/jxc
+
+양산시
+	양산/ncn+시/ncn
+
+최초로
+	최초/ncn+로/jca
+
+단지
+	단지/mag
+
+안에
+	안/ncn+에/jca
+
+영어마을이
+	영어/ncn+마을/ncn+이/jcc
+
+조성된다
+	조성/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+영어교육
+	영어교육/ncpa
+
+전문업체인
+	전문업체/ncn+이/jp+ㄴ/etm
+
+YBM이
+	YBM/f+이/jcc
+
+운영하는
+	운영/ncpa+하/xsva+는/etm
+
+영어마을은
+	영어/ncn+마을/ncn+은/jxc
+
+전문
+	전문/ncn
+
+프로그램과
+	프로그램/ncn+과/jcj
+
+원어민
+	원어/ncn+민/ncn
+
+강사를
+	강사/ncr+를/jco
+
+초빙해
+	초빙/ncpa+하/xsva+어/ecx
+
+학생들은
+	학생/ncn+들/ncn+은/jxc
+
+물론
+	물론/mag
+
+주부
+	주부/ncn
+
+등
+	등/nbu
+
+성인들도
+	성/ncn+이/jp+ㄴ들/ecs+도/jxc
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+김보형
+	김보형/ncn
+
+기자
+	기/ncn+이/jp+자/ecc
+
+kph21c@hankyung.
+	kph21c@hankyung./ncn
+
+com
+	com/f
+
+[Real
+	[/sl+Real/f
+
+Estate]
+	Estate/f+]/sr
+
+홈
+	홈/ncn
+
+오피스
+	오피스/ncn
+
+사우나
+	사우나/ncn
+
+커뮤니티
+	커뮤니티/ncn
+
+보고
+	보/px+고/ecc
+
+집
+	집/ncn
+
+고를까
+	고르/pvg+ㄹ까/ecs
+
+[Real
+	[/sl+Real/f
+
+Estate]
+	Estate/f+]/sr
+
+가족수
+	가족/ncn+수/ncn
+
+따라
+	따르/pvg+아/ecx
+
+내맘대로
+	내/pvg+어/ecx+말/px+ㅁ/etn+대로/jca
+
+방
+	방/ncn
+
+줄이고
+	줄/nbn+이/jp+고/ecc
+
+늘리고
+	늘/pvg+ㄹ/etm+리/nbn+이/jp+고/ecc
+
+'평면특화
+	'/sr+평면/ncn+특화/ncn
+
+전쟁'
+	전쟁/ncpa+'/sr
+
+[Real
+	[/sl+Real/f
+
+Estate]
+	Estate/f+]/sr
+
+생애주기
+	생애/ncn+주/ncn+이/jp+기/etn
+
+맞춘
+	맞추/pvg+ㄴ/etm
+
+대우
+	대우/ncpa
+
+'마이
+	'/sr+마/nbu+이/jcc
+
+프리미엄'
+	프리미엄/ncn+'/sr
+
+벽산
+	벽산/ncn
+
+'셀프디자인'
+	'셀프디자인'/ncn
+
+[Real
+	[/sl+Real/f
+
+Estate]
+	Estate/f+]/sr
+
+정동개발
+	정동/ncn+개발/ncpa
+
+'아트뷰',
+	'아트뷰',/ncn
+
+인천
+	인천/ncn
+
+예술회관역세권에
+	예술회관/ncn+역세권/ncn+에/jca
+
+도시형
+	도시/ncn+형/ncn
+
+주택
+	주택/ncn
+
+[Real
+	[/sl+Real/f
+
+Estate]
+	Estate/f+]/sr
+
+송브라더스
+	송브라더스/ncn
+
+'이문
+	'/sr+이/nnc+문/nbu
+
+웰츠
+	웰츠/ncn
+
+타워'
+	타워/ncn+'/sr
+
+이문종합시장,
+	이문/ncn+종합/ncpa+시장/ncr+,/sp
+
+주상복합상가로
+	주상/ncn+복합/ncpa+상가/ncn+로/jca
+
+변신출처:한국경제
+	변신/ncpa+출처/ncn+:/sp+한국경제/ncn

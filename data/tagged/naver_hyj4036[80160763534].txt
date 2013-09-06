@@ -1,0 +1,858 @@
+곰
+	곰/ncn
+
+사냥을
+	사/nnc+냥/nbu+을/jco
+
+떠나자-
+	떠나/pvg+자/ecc+-/sd
+
+동화구연
+	동화구연/ncn
+
+
+6살
+	6/nnc+살/nbu
+
+둘째
+	둘째/nno
+
+아들이랑
+	아들/ncn+이/jcs+랑/jxc
+
+곰
+	곰/ncn
+
+사냥을
+	사/nnc+냥/nbu+을/jco
+
+떠나자
+	떠나/pvg+자/ecc
+
+책을
+	책/ncn+을/jco
+
+읽었어요
+	읽/pvg+었/ep+어요/ef
+
+
+자꾸
+	자꾸/mag
+
+곰
+	곰/ncn
+
+사냥을
+	사/nnc+냥/nbu+을/jco
+
+떠나자를
+	떠나자/ncn+를/jco
+
+읽어
+	읽/pvg+어/ecx
+
+달라고
+	다르/paa+아/ef+고/jcr
+
+해서
+	하/pvg+어서/ecs
+
+동화구연에
+	동화구연/ncn+에/jca
+
+도전해봤네요
+	도전/ncpa+하/xsva+어/ecx+보/px+아/ep+네요/ef
+
+
+동영상을
+	동영상/ncn+을/jco
+
+찍으면서
+	찍/pvg+으면서/ecc
+
+동화구연
+	동화구연/ncn
+
+생각보다
+	생각/ncpa+보다/jca
+
+힘들고
+	힘들/pvg+고/ecc
+
+어색했지만
+	어색/ncps+하/xsms+었/ep+지만/ecs
+
+아들이
+	아들/ncn+이/jcc
+
+너무
+	너무/mag
+
+좋아해서
+	좋/paa+아/ecx+하/px+어서/ecs
+
+저도
+	저/npp+도/jxc
+
+기분이
+	기분/ncn+이/jcc
+
+좋아요
+	좋/paa+아요/ef
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/05/24/1810/03100323711753EE10C3793573551C533C4_hyj4036_PC_DEFAULT_logo.
+	net/blogucc28/2012/05/24/1810/03100323711753EE10C3793573551C533C4_hyj4036_PC_DEFAULT_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'290.
+	'/sr+290./nnc
+
+339';
+	339/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'328184CEF933A2CCC720C60834304C872615';
+	'328184CEF933A2CCC720C60834304C872615/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V1237150803c1b061dc14798456cb283a8028702272dd9b08867384385bad141a2067798456cb283a8028';
+	'V1237150803c1b061dc14798456cb283a8028702272dd9b08867384385bad141a2067798456cb283a8028/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_00819
+	ugcPlayer_00819/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_00819'
+	VideoInfraUGCPlayer('ugcPlayer_00819'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_00819
+	ugcPlayer_00819/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+곰
+	곰/ncn
+
+사냥을
+	사/nnc+냥/nbu+을/jco
+
+떠나자
+	떠나/pvg+자/ecc
+
+동화구연
+	동화구연/ncn
+
+동화구연이라고
+	동화구연/ncn+이/jp+라/ef+고/jcr
+
+말하기
+	말하기/ncn
+
+부끄러운
+	부끄럽/paa+은/etm
+
+실력
+	실력/ncn
+
+..
+	./sf+./sf
+
+
+그냥
+	그냥/mag
+
+책
+	책/ncn
+
+읽어주는
+	읽/pvg+어/ecx+주/px+는/etm
+
+거예요
+	거/ncn+이/jp+예요/ef
+
+
+곰사냥을
+	곰사냥/ncn+을/jco
+
+떠나자
+	떠나/pvg+자/ecc
+
+책은
+	책/ncn+은/jxc
+
+반복적이
+	반복/ncpa+적/ncn+이/jcc
+
+표현이
+	표현/ncpa+이/jcc
+
+많다는
+	많/paa+다/ef+는/etm
+
+특징이
+	특징/ncn+이/jcc
+
+있어요
+	있/paa+어요/ef
+
+
+곰
+	곰/ncn
+
+잡으러
+	잡/pvg+으러/ecs
+
+간단다
+	가/px+ㄴ단다/ef
+
+.
+	./sf
+
+
+큰
+	크/paa+ㄴ/etm
+
+곰
+	곰/ncn
+
+잡으러
+	잡/pvg+으러/ecs
+
+간단다
+	가/px+ㄴ단다/ef
+
+.
+	./sf
+
+
+정말
+	정말/mag
+
+날씨도
+	날씨/ncn+도/jxc
+
+좋구나
+	좋/paa+구나/ef
+
+!
+	!/sf
+
+
+우린
+	우/ncn+이/jp+리/ep+ㄴ/etm
+
+하나도
+	하나/nnc+도/jxc
+
+안
+	안/mag
+
+무서워
+	무섭/paa+어/ecs
+
+
+곰
+	곰/ncn
+
+사냥을
+	사/nnc+냥/nbu+을/jco
+
+떠나자
+	떠나/pvg+자/ecc
+
+책에
+	책/ncn+에/jca
+
+위에
+	위/ncn+에/jca
+
+부분이
+	부분/ncn+이/jcc
+
+6번이
+	6/nnc+번/nbu+이/jcc
+
+나와요
+	나와/ncn+요/ncn
+
+
+딱딱한
+	딱딱하/paa+ㄴ/etm
+
+느낌보다는
+	느끼/pvg+ㅁ/etn+보다/jca+는/jxc
+
+노래로
+	노래/ncn+로/jca
+
+만들어
+	만들/pvg+어/ecx
+
+아이에게
+	아이/ncn+에게/jca
+
+들어주니
+	들/pvg+어/ecx+주/px+니/ecs
+
+더
+	더/mag
+
+좋아하더라구요
+	좋아하/pvg+더라구/ef+요/jxf
+
+
+그리고
+	그리고/maj
+
+사각
+	사각/ncn
+
+서걱
+	서걱/ncn
+
+!
+	!/sf
+
+
+사각
+	사각/ncn
+
+서걱
+	서걱/ncn
+
+!
+	!/sf
+
+
+사각
+	사각/ncn
+
+서걱
+	서걱/ncn
+
+!
+	!/sf
+
+
+덤벙
+	덤벙/ncn
+
+텀벙
+	텀벙/ncn
+
+!
+	!/sf
+
+
+,
+	,/sp
+
+덤벙
+	덤벙/ncn
+
+텀벙
+	텀벙/ncn
+
+!
+	!/sf
+
+
+,
+	,/sp
+
+덤벙
+	덤벙/ncn
+
+텀벙
+	텀벙/ncn
+
+!
+	!/sf
+
+
+처벅철벅
+	처벅철벅/ncn
+
+!
+	!/sf
+
+
+처벅
+	처벅/ncn
+
+철벅
+	철벅/ncn
+
+!
+	!/sf
+
+
+처벅
+	처벅/ncn
+
+철벅
+	철벅/ncn
+
+!
+	!/sf
+
+
+바스락
+	바스락/mag
+
+부시럭
+	부시럭/ncn
+
+!
+	!/sf
+
+
+바스락
+	바스락/mag
+
+부시럭
+	부시럭/ncn
+
+!
+	!/sf
+
+
+바스락
+	바스락/mag
+
+부시럭
+	부시럭/ncn
+
+!
+	!/sf
+
+
+휭
+	휭/mag
+
+휘잉
+	휘잉/ncn
+
+!
+	!/sf
+
+
+휭
+	휭/mag
+
+휘잉
+	휘잉/ncn
+
+!
+	!/sf
+
+
+휭
+	휭/mag
+
+휘잉
+	휘잉/ncn
+
+!
+	!/sf
+
+
+살금
+	살금/mag
+
+!
+	!/sf
+
+
+살금
+	살금/mag
+
+!
+	!/sf
+
+
+살금
+	살금/mag
+
+!
+	!/sf
+
+
+목소리의
+	목소리/ncn+의/jcm
+
+크기를
+	크/paa+기/etn+를/jco
+
+다르게
+	다르/paa+게/ecs
+
+하면서
+	하/pvg+면서/ecc
+
+아이들에게
+	아이/ncn+들/ncn+에게/jca
+
+읽어주면
+	읽/pvg+어/ecx+주/px+면/ecs
+
+더
+	더/mag
+
+효과적인것
+	효과/ncn+적/ncn+이/jp+ㄴ/etm+것/nbn
+
+같아요
+	같/paa+아요/ef
+
+
+반복적인
+	반복/ncpa+적/ncn+이/jp+ㄴ/etm
+
+표현들이
+	표현/ncpa+들/xsncc+이/jcc
+
+아이가
+	아이/ncn+가/jcs
+
+좋아하더라구요
+	좋아하/pvg+더라구/ef+요/jxf
+
+
+곰
+	곰/ncn
+
+사냥을
+	사/nnc+냥/nbu+을/jco
+
+떠나자
+	떠나/pvg+자/ecc
+
+책은
+	책/ncn+은/jxc
+
+2학년
+	2/nnc+학년/nbu
+
+권장도서
+	권장도서/ncn
+
+목록에
+	목록/ncn+에/jca
+
+들어
+	들/pvg+어/ecx
+
+있었던
+	있/paa+었/ep+던/etm
+
+책이랍니다
+	책/ncn+이/jp+랍니다/ef
+
+
+리듬감,
+	리듬/ncn+감/ncn+,/sp
+
+반복적인
+	반복/ncpa+적/ncn+이/jp+ㄴ/etm
+
+표현의
+	표현/ncpa+의/jcm
+
+재미
+	재미/ncn
+
+때문에
+	때문/nbn+에/jca
+
+6살
+	6/nnc+살/nbu
+
+아이도
+	아이/ncn+도/jxc
+
+좋아해요
+	좋/paa+아/ecx+하/px+어요/ef

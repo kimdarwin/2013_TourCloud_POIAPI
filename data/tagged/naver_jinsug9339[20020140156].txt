@@ -1,0 +1,571 @@
+금정산
+	금정산/ncn
+
+무당골
+	무당/ncn+골/ncn
+
+용굴암
+	용굴/ncn+암/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+
+(위)-용바위
+	(/sl+위/nbu+)/sr+-/sd+용바위/ncn
+
+
+(위)-굴법당
+	(위)-굴법당/ncn
+
+.
+	./sf
+
+
+바위사이에
+	바위/ncn+사이/ncn+에/jca
+
+법당을
+	법당/ncn+을/jco
+
+만들었다
+	만들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+구들까지
+	구들/ncn+까지/jxc
+
+놓아서
+	놓/px+아/ecx
+
+불을때면
+	불/pvg+ㄹ/etm+때/nbn+이/jp+면/ecs
+
+따뜻하다
+	따뜻/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+(위)-산신당
+	(/sl+위/nbu+)/sr+-/sd+산신당/ncn
+
+
+(위)-좌측이
+	(/sl+위/ncn+)/sr+-/sd+좌측/ncn+이/jcc
+
+장군당,우측이
+	장군/ncr+당/ncn+,/sp+우측/ncn+이/jcc
+
+산신당
+	산신당/ncn
+
+.
+	./sf
+
+
+(위)-장군당
+	(/sl+위/nbu+)/sr+-/sd+장군/ncr+당/ncn
+
+
+(위)-
+	(/sl+위/ncn+)/sr+-/sd
+
+용바위
+	용바위/ncn
+
+
+(위)-용굴암
+	(/sl+위/ncn+)/sr+-/sd+용굴/ncn+암/ncn
+
+뒤
+	뒤/ncn
+
+허공
+	허공/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+
+(위)-용굴암
+	(/sl+위/ncn+)/sr+-/sd+용굴/ncn+암/ncn
+
+바로뒤에
+	바로뒤/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+허공기도터
+	허공/ncn+기도/ncn+터/ncn
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+이곳은
+	이곳/npd+은/jxc
+
+용굴암으로
+	용굴/ncn+암/ncn+으로/jca
+
+않들어
+	않들어/ncn
+
+가고
+	가/px+고/ecc
+
+바로
+	바로/mag
+
+위로
+	위/ncn+로/jca
+
+조금더가면
+	조금더가/ncn+이/jp+면/ecs
+
+
+좌측에
+	좌측/ncn+에/jca
+
+있는데맑고
+	있는데맑고/ncn
+
+깨끗해서
+	깨끗/ncps+해/ncn+서/jca
+
+참
+	참/mag
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+이곳
+	이곳/npd
+
+무당골
+	무당/ncn+골/ncn
+
+용굴암은
+	용굴/ncn+암/ncn+은/jxc
+
+아주
+	아주/mag
+
+오래전부터
+	오래전/ncn+부터/jxc
+
+무속인들이많이
+	무속인들이많/ncn+이/jcc
+
+
+찾는
+	찾/pvg+는/etm
+
+곳이며
+	곳/ncn+이/jp+며/ecc
+
+지금도
+	지금/mag+도/jxc
+
+곳곳에는
+	곳곳/ncn+에/jca+는/jxc
+
+허공에
+	허공/ncn+에/jca
+
+기도터들이
+	기도/ncn+터/ncn+들/xsncc+이/jcc
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+금정산에
+	금정산/ncn+에/jca
+
+이곳저곳
+	이곳저곳/npd
+
+여러곳을
+	여러/nnc+곳/nbu+을/jco
+
+다녀
+	다니/pvg+어/ecx
+
+봤지만
+	보/px+아/ep+지만/ecs
+
+그래도
+	그래도/maj
+
+용굴암
+	용굴/ncn+암/ncn
+
+
+근처
+	근처/ncn
+
+무당골이
+	무당/ncn+골/ncn+이/jcc
+
+제일
+	제일/mag
+
+낳은것같다
+	낳/pvg+은/etm+것/nbn+같/xsmn+다/ef
+
+.
+	./sf
+
+
+여름이
+	여름/ncn+이/jcc
+
+아닌데도
+	아니/paa+ㄴ데/ecs+도/jxc
+
+하늘이
+	하늘/ncn+이/jcc
+
+않보일
+	않보/ncn+이/jp+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+소나무가
+	소나무/ncn+가/jcc
+
+
+울창하고
+	울창/ncn+하고/jct
+
+여름에는
+	여름/ncn+에/jca+는/jxc
+
+하늘구경을
+	하늘/ncn+구경/ncn+을/jco
+
+할수없을
+	하/pvg+ㄹ/etm+수/nbn+없/xsmn+을/etm
+
+정도이다
+	정도/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+도량으로서
+	도량/ncn+으로서/jca
+
+갖추어야
+	갖추/pvg+어야/ecs
+
+될
+	되/pvg+ㄹ/etm
+
+조건들을
+	조건/ncn+들/ncn+을/jco
+
+다~갖춘것같다
+	다~갖춘것같다/ncn
+
+.
+	./sf
+
+
+물좋고,미륵도많고,명기서린
+	물좋고,미륵도많고,명기서린/ncn
+
+조선
+	조선/ncpa
+
+소나무가
+	소나무/ncn+가/jcs
+
+가득한게
+	가득/ncps+한/ncn+게/jca
+
+정말
+	정말/mag
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+제자님들에게
+	제자/ncn+님/ncn+들/xsncc+에게/jca
+
+권해보고
+	권하/pvg+어/ecx+보/px+고/ecc
+
+싶은곳입니다
+	싶은곳입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이번에도
+	이/nnc+번/nbu+에/jca+도/jxc
+
+금정산에
+	금정산/ncn+에/jca
+
+굿당,기도터를
+	굿당,기도터/ncn+를/jco
+
+이곳저곳
+	이곳저곳/npd
+
+들렸다가
+	들리/pvg+었/ep+다가/ecs
+
+결국은
+	결국/mag+은/jxc
+
+용굴암으로
+	용굴/ncn+암/ncn+으로/jca
+
+가고
+	가/px+고/ecc
+
+말았다
+	말/px+아/ep+다/ef
+
+.
+	./sf
+
+
+주차장에서
+	주차장/ncn+에서/jca
+
+걸어서
+	걷/pvg+어서/ecs
+
+10분,숙식을
+	10/nnc+분/nbu+,/sp+숙식/ncpa+을/jco
+
+하기에는
+	하/pvg+기/etn+에/jca+는/jxc
+
+부적합,텐트가
+	부적합/ncpa+,/sp+텐트/ncn+가/jcs
+
+있으면
+	있/px+으면/ecs
+
+사용가능
+	사용/ncpa+가능/ncpa
+
+.
+	./sf
+
+
+*또한
+	*/sy+뜨/pvg+어/ecx+하/px+ㄴ/etm
+
+금정산에는
+	금정산/ncn+에/jca+는/jxc
+
+여러곳에
+	여러/nnc+곳/nbu+에/jca
+
+부산지역의
+	부산/ncps+지역/ncn+의/jcm
+
+제자님들이
+	제자/ncn+님/ncn+들/xsncc+이/jcc
+
+만들어놓은
+	만들/pvg+어/ecx+놓/px+은/etm
+
+허공도량이
+	허공/ncn+도량/ncn+이/jcc
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+청소도구며
+	청소/ncpa+도구/ncn+이/jp+며/ecc
+
+여러가지
+	여러/nnc+가지/nbu
+
+필요한것들을
+	필요한것들/ncn+을/jco
+
+갖추어
+	갖추/pvg+어/ecx
+
+놓기도
+	놓/px+기/etn+도/jxc
+
+하였을뿐
+	하/px+었/ep+을/etm+뿐/nbn
+
+아니라
+	아니/paa+라/ecs
+
+
+청소와
+	청소/ncpa+와/jcj
+
+관리가
+	관리/ncn+가/jcs
+
+너무
+	너무/mag
+
+잘되어
+	잘되/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+모든
+	모든/mma
+
+분들이
+	불/pvg+ㄴ/etm+들/nbn+이/jcc
+
+감사하는
+	감사/ncpa+하/xsva+는/etm
+
+마음을
+	마음/ncn+을/jco
+
+가져야
+	가/pvg+아/ecx+지/px+어야/ecs
+
+되겠고,내집같이
+	되/pvg+겠/ep+고/ecc+,/sp+내집/ncn+같이/jca
+
+깨끗하게
+	깨끗/ncps+하/xsms+게/ecs
+
+했으면
+	하/px+었/ep+으면/ecs
+
+좋겠습니다
+	좋/paa+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+카메라
+	카메라/ncn
+
+모드
+	모드/ncn
+
+조정을
+	조정/ncn+을/jco
+
+잘
+	잘/mag
+
+못해서
+	못하/px+어서/ecs
+
+사진이
+	사진/ncn+이/jcc
+
+흐립니다
+	흐리/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+바로
+	바로/mag
+
+옆으로
+	옆/ncn+으로/jca
+
+등산로가
+	등산로/ncn+가/jcs
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+여름에는
+	여름/ncn+에/jca+는/jxc
+
+지나가는
+	지나/pvg+아/ecx+가/px+는/etm
+
+사람도
+	사람/nbu+도/jxc
+
+
+안에
+	안/ncn+에/jca
+
+뭐가있는지
+	뭐가있는지/ncn
+
+모를정도로
+	모를정도/ncn+로/jca
+
+밖에서
+	밖/ncn+에서/jca
+
+보면
+	보/px+면/ecs
+
+비밀스럽다
+	비밀/ncn+스럽/xsmn+다/ef
+
+.
+	./sf
+
+
+흡사
+	흡사/mag
+
+중국영화에
+	중국영화/ncn+에/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+비밀정원
+	비밀/ncn+정원/ncn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf

@@ -1,0 +1,264 @@
+울산광역시
+	울산광역시/ncn
+
+
+울산광역시
+	울산광역시/ncn
+
+
+기간
+	기간/ncn
+
+2008.
+	2008./nnc
+
+4.
+	4./nnc
+
+6
+	6/nnc
+
+~
+	~/sd
+
+2008.
+	2008./nnc
+
+4.
+	4./nnc
+
+6
+	6/nnc
+
+(1일)
+	(/sl+1/nnc+일/nbu+)/sr
+
+
+컨셉
+	컨셉/ncn
+
+나
+	나/npp
+
+홀로
+	홀로/mag
+
+떠나는
+	떠나/pvg+는/etm
+
+여행
+	여행/ncpa
+
+
+언양
+	얼/pvg+ㄴ/etm+양/nbn
+
+작천정에
+	작천정/ncn+에/jca
+
+다녀
+	다니/pvg+어/ecx
+
+왔습니다
+	오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+벚꽃이
+	벚꽃/ncn+이/jcc
+
+아주아주
+	아주아주/ncn
+
+화려하더군요
+	화/ncn+이/jp+리/ep+어/ecx+하/px+더군/ef+요/jxf
+
+...
+	.../se
+
+
+나이가
+	나이/ncn+가/jcs
+
+들어서
+	들/pvg+어서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+벚꽃이
+	벚꽃/ncn+이/jcc
+
+이쁘면
+	이쁘/paa+면/ecs
+
+가슴이
+	가슴/ncn+이/jcc
+
+설랩니다
+	설랩니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+단
+	단/mma
+
+벚꽃은
+	벚꽃/ncn+은/jxc
+
+아주
+	아주/mag
+
+웅장하고
+	웅장/ncn+하고/jct
+
+이쁘지만
+	이쁘/paa+지/ecx+말/px+ㄴ/etm
+
+거리에
+	거리/ncn+에/jca
+
+노점상
+	노점상/ncn
+
+때문에
+	때문/nbn+에/jca
+
+좀
+	좀/mag
+
+그렇더군요
+	그렇/pad+더군/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+이
+	이/mmd
+
+이쁜
+	이쁘/paa+ㄴ/etm
+
+거리를
+	거리/ncn+를/jco
+
+노점상으로
+	노점상/ncn+으로/jca
+
+가득
+	가득/mag
+
+채우니
+	채우/pvg+니/ecs
+
+좀
+	좀/mag
+
+그러한게
+	그러/pvd+어/ecx+하/px+ㄴ게/ecs
+
+....
+	.../se+./sf
+
+
+상업적으로
+	상업/ncpa+적/ncn+으로/jca
+
+너무
+	너무/mag
+
+이용이
+	이용/ncpa+이/jcc
+
+안
+	안/mag
+
+되었으면
+	되/pvg+었/ep+으면/ecs
+
+하는
+	하/pvg+는/etm
+
+바램도
+	바래/pvg+ㅁ/etn+도/jxc
+
+잇었습니다
+	잇/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+중간중간에
+	중간/ncn+중간/ncn+에/jca
+
+노점상
+	노점상/ncn
+
+말고도
+	말/px+고/ecs+도/jxc
+
+이런
+	이런/mmd
+
+풍경은
+	풍경/ncn+은/jxc
+
+좋더군요
+	좋/paa+더군/ef+요/jxf
+
+...
+	.../se
+
+
+글쓰는
+	글쓰/pvg+는/etm
+
+할아버지
+	할아버지/ncn
+
+평소
+	평소/ncn
+
+보지
+	보/pvg+지/ecx
+
+못하였던
+	못하/px+었/ep+던/etm
+
+번데기
+	벌/pvg+ㄴ/etm+데/nbn+이/jp+기/etn
+
+...
+	.../se
+
+
+그림
+	그리/pvg+ㅁ/etn
+
+그려주는
+	그리/pvg+어/ecx+주/px+는/etm
+
+화가들
+	화가/ncr+들/ncn
+
+....
+	.../se+./sf
+
+
+좀
+	좀/mag
+
+낭만적이지
+	낭만/ncn+적/ncn+이/jp+지/ecs
+
+않나요
+	않/px+나/ef+요/jxf
+
+???
+	?/sf+?/sf+?/sf

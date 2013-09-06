@@ -1,0 +1,372 @@
+월출산
+	월출/ncpa+산/ncn
+
+가는
+	가/pvg+는/etm
+
+길:서울
+	길:서울/ncn
+
+지하철3;7호선
+	지하철3;7호선/ncn
+
+강남[호남선]
+	강남[호남선]/ncn
+
+터미널에서-광주행
+	터미널에서-광주행/ncn
+
+광주
+	광주/ncn
+
+시외버스
+	시외버스/ncn
+
+터미널에서
+	터미널/ncn+에서/jca
+
+
+영암행
+	영암행/ncn
+
+를
+	를/ncn
+
+이용해
+	이용/ncpa+해/ncn
+
+영암에가서
+	영암에가서/ncn
+
+천왕사
+	천왕사/ncn
+
+까지는
+	끄/pvg+어/ecx+지/px+는/etm
+
+군내
+	군내/ncn
+
+버스
+	버스/ncn
+
+이용
+	이용/ncpa
+
+등산
+	등산/ncpa
+
+
+등
+	등/nbu
+
+산코스;천왕사입구-천왕사-구름다리-천왕봉-구정봉-미왕재-도갑사=
+	산코스;천왕사입구-천왕사-구름다리-천왕봉-구정봉-미왕재-도갑사/ncn+=/sy
+
+
+산
+	사/pvg+ㄴ/etm
+
+높이809m소요시간
+	높이809m소요시간/ncn
+
+약5시간
+	약5시간/ncn
+
+
+문
+	물/pvg+ㄴ/etm
+
+의
+	의/ncn
+
+:
+	:/sp
+
+월출산
+	월출/ncpa+산/ncn
+
+국립공원
+	국립공원/ncn
+
+사무소
+	사무소/ncn
+
+[061]473-5210
+	[/sl+061/nnc+]/sr+473/nnc+-5210/nnc
+
+
+자연의
+	자연/ncn+의/jcm
+
+차원을
+	차원/ncn+을/jco
+
+넘어선
+	넘어서/pvg+ㄴ/etm
+
+예술품
+	예술품/ncn
+
+같으며
+	같/paa+으며/ecc
+
+자연으로만
+	자연/ncn+으로/jca+만/jxc
+
+바라본다면
+	바라/pvg+아/ecx+보/px+ㄴ다면/ecs
+
+결코
+	결코/mag
+
+그
+	그/mmd
+
+내면의
+	내면/ncn+의/jcm
+
+경이로세계를
+	경이로세계/ncn+를/jco
+
+볼수없다
+	보/pvg+ㄹ/etm+수/nbn+없/xsmn+다/ef
+
+
+월출산
+	월출/ncpa+산/ncn
+
+구름다리
+	구름/ncn+다리/ncn
+
+위에올라
+	위에올라/ncn
+
+앞을보면
+	앞을보/ncn+이/jp+면/ecs
+
+구름위에
+	구름/ncn+위/ncn+에/jca
+
+서
+	서/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+느낌을
+	느끼/pvg+ㅁ/etn+을/jco
+
+받고
+	받/pvg+고/ecc
+
+서유기에
+	서유/ncpa+이/jp+기/etn+에/jca
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+손오공이된
+	손오공이된/ncn
+
+
+착각을
+	착각/ncpa+을/jco
+
+같게
+	같/paa+게/ecs
+
+만든다
+	만들/pvg+ㄴ다/ef
+
+
+월출산
+	월출/ncpa+산/ncn
+
+을
+	을/ncn
+
+중국인들은
+	중국인/ncn+들/ncn+은/jxc
+
+꽃
+	꽃/ncn
+
+비단처럼
+	비단/ncn+처럼/jca
+
+아름답다
+	아름답/paa+다/ef
+
+하여
+	하/pvg+어/ecx
+
+화개산이라
+	화개산/ncn+이/jp+라/ecs
+
+불렀다
+	부르/pvg+었/ep+다/ef
+
+
+이곳
+	이곳/npd
+
+월출산
+	월출/ncpa+산/ncn
+
+바위는
+	바위/ncn+는/jxc
+
+임신한
+	임신/ncpa+하/xsva+ㄴ/etm
+
+아낙내가
+	아낙/ncn+내/ncn+가/jcs
+
+멀리떠난
+	멀리떠난/ncn
+
+남편을
+	남편/ncn+을/jco
+
+기다리고
+	기다리/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+형상을
+	형상/ncpa+을/jco
+
+하고있다
+	하/pvg+고/ecx+있/px+다/ef
+
+
+옛
+	옛/mma
+
+전설에따르면
+	전설에따르/ncn+이/jp+면/ecs
+
+왕적발이세수를
+	왕적발이세수/ncn+를/jco
+
+하다가
+	하/pvg+다가/ecs
+
+대야에
+	대야/ncn+에/jca
+
+비친산에
+	비친산/ncn+에/jca
+
+감탄하여
+	감탄/ncpa+하/xsva+어/ecx
+
+신하들을
+	신하/ncn+들/ncn+을/jco
+
+시켜
+	시키/pvg+어/ecx
+
+찾도록
+	찾/pvg+도록/ecs
+
+
+하였다는
+	하/px+었/ep+다/ef+는/etm
+
+전설
+	전설/ncn
+
+
+월출산국립공원은
+	월출산국립공원/ncn+은/jxc
+
+한국에서
+	한국/ncn+에서/jca
+
+제일규모가
+	제일/ncn+규모/ncn+가/jcs
+
+작은
+	작/paa+은/etm
+
+공립공원이다
+	공립/ncn+공원/ncn+이/jp+다/ef
+
+
+월
+	월/nbu
+
+
+월출산은
+	월출/ncpa+산/ncn+은/jxc
+
+전국
+	전국/ncn
+
+산중에
+	사/pvg+ㄴ/etm+중/nbn+에/jca
+
+철계단이
+	철계단/ncn+이/jcc
+
+많기로
+	많/paa+기/etn+로/jca
+
+유명하다
+	유명/ncps+하/xsms+다/ef
+
+
+영암
+	영암/ncn
+
+월출산은
+	월출/ncpa+산/ncn+은/jxc
+
+12대
+	12/nnc+대/nbu
+
+기암
+	기암/ncn
+
+절벽으로
+	절벽/ncn+으로/jca
+
+이루어졌다
+	이루/pvg+어/ecx+지/px+었/ep+다/ef
+
+
+천황봉으로
+	천황/ncn+봉/ncn+으로/jca
+
+오르는
+	오르/pvg+는/etm
+
+산줄기
+	산줄기/ncn
+
+에는
+	에/pvg+는/etm
+
+거대한
+	거대/ncps+하/xsms+ㄴ/etm
+
+고인돌
+	고인돌/ncn
+
+바위가있다
+	바위가있다/ncn
+
+고인돌
+	고인돌/ncn
+
+바위는
+	바위/ncn+는/jxc
+
+영암지역에
+	영암지역/ncn+에/jca
+
+분포되어있다
+	분포/ncpa+되/xsvn+어/ecx+있/px+다/ef

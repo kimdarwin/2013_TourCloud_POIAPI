@@ -1,0 +1,729 @@
+기분
+	기분/ncn
+
+우울할
+	우울/ncps+하/xsms+ㄹ/etm
+
+때
+	때/ncn
+
+작은
+	작/paa+은/etm
+
+초콜릿
+	초콜릿/ncn
+
+하나
+	하나/nnc
+
+먹으면
+	먹/pvg+으면/ecs
+
+금세
+	금세/mag
+
+기분이
+	기분/ncn+이/jcc
+
+풀린다
+	풀리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+초콜릿은
+	초콜릿/ncn+은/jxc
+
+따뜻하게
+	따뜻/ncps+하/xsms+게/ecs
+
+녹여서
+	녹이/pvg+어서/ecs
+
+차로
+	차/ncn+로/jca
+
+만들어
+	만들/pvg+어/ecx
+
+먹기도
+	먹/pvg+기/etn+도/jxc
+
+하고,
+	하/pvg+고/ecc+,/sp
+
+케잌이나
+	케잌/ncn+이나/jcj
+
+빵의
+	빵/ncn+의/jcm
+
+장식으로도
+	장식/ncpa+으로/jca+도/jxc
+
+쓰인다
+	쓰이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+누구에게나
+	누구/npp+에게/jca+나/jxc
+
+사랑받는
+	사랑/ncpa+받/xsva+는/etm
+
+음식,
+	음식/ncn+,/sp
+
+초콜릿을
+	초콜릿/ncn+을/jco
+
+맛있게
+	맛있/paa+게/ecs
+
+먹는
+	먹/pvg+는/etm
+
+법에
+	법/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+알아보자
+	알/pvg+아/ecx+보/px+자/ecc
+
+.
+	./sf
+
+
+알고
+	알/pvg+고/ecx
+
+보면
+	보/px+면/ecs
+
+'오감'이
+	'/sl+오가/pvg+ㅁ/etn+'/sr+이/jcc
+
+필요한
+	필요/ncps+하/xsms+ㄴ/etm
+
+음식우선,
+	음식/ncn+우선/ncpa+,/sp
+
+초콜릿을
+	초콜릿/ncn+을/jco
+
+먹기
+	먹/pvg+기/etn
+
+전에
+	전/nbn+에/jca
+
+생수로
+	생수/ncn+로/jca
+
+입가심을
+	입가/ncn+이/jp+시/ep+ㅁ/etn+을/jco
+
+해줘야
+	하/pvg+어/ecx+주/px+어야/ecs
+
+강렬한
+	강렬/ncn+한/ncn
+
+맛을
+	맛/ncn+을/jco
+
+잘
+	잘/mag
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+눈으로
+	눈/ncn+으로/jca
+
+보기에
+	보/px+기/etn+에/jca
+
+초콜릿은
+	초콜릿/ncn+은/jxc
+
+매끈하고
+	매끈하/paa+고/ecc
+
+윤이
+	윤/ncn+이/jcc
+
+나며
+	나/px+며/ecc
+
+약간
+	약간/mag
+
+짙은
+	짙/paa+은/etm
+
+갈색이어야
+	갈색/ncn+이/jp+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+너무
+	너무/mag
+
+단
+	달/paa+ㄴ/etm
+
+냄새가
+	냄새/ncn+가/jcs
+
+나는
+	나/px+는/etm
+
+것은
+	것/nbn+은/jxc
+
+좋지
+	좋/paa+지/ecx
+
+않다
+	않/px+다/ef
+
+.
+	./sf
+
+
+입
+	입/ncn
+
+속에
+	속/ncn+에/jca
+
+초콜릿을
+	초콜릿/ncn+을/jco
+
+넣었을
+	넣/pvg+었/ep+을/etm
+
+때
+	때/ncn
+
+큰
+	크/paa+ㄴ/etm
+
+소리가
+	소리/ncn+가/jcs
+
+나지
+	나/pvg+지/ecx
+
+않으면서
+	않/px+으면서/ecc
+
+부스러져야
+	부스러지/pvg+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+카카오
+	카카오/ncn
+
+버터를
+	버터/ncn+를/jco
+
+많이
+	많/paa+이/xsa
+
+함유한
+	함유/ncpa+하/xsva+ㄴ/etm
+
+초콜릿은
+	초콜릿/ncn+은/jxc
+
+손에
+	손/ncn+에/jca
+
+쥐었을
+	쥐/pvg+었/ep+을/etm
+
+때
+	때/ncn
+
+빠르게
+	빠르/paa+게/ecs
+
+녹는다
+	녹/pvg+는다/ef
+
+.
+	./sf
+
+
+또,
+	뜨/pvg+어/ecs+,/sp
+
+초콜릿은
+	초콜릿/ncn+은/jxc
+
+입안에서
+	입안/ncpa+에서/jca
+
+거친
+	거칠/paa+ㄴ/etm
+
+느낌
+	느끼/pvg+ㅁ/etn
+
+없이
+	없이/mag
+
+부드러워야
+	부드럽/paa+어야/ecs
+
+하며
+	하/pvg+며/ecc
+
+순간적으로
+	순간/ncn+적/ncn+으로/jca
+
+녹아야
+	녹/pvg+아/ecx
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그때,
+	그때/ncn+,/sp
+
+여러
+	여러/mma
+
+종류의
+	종류/ncn+의/jcm
+
+향을
+	향/ncn+을/jco
+
+낼
+	내/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+기본적인
+	기본/ncn+적/ncn+이/jp+ㄴ/etm
+
+초콜릿의
+	초콜릿/ncn+의/jcm
+
+맛은
+	맛/ncn+은/jxc
+
+'신맛'과
+	'/sr+신맛/ncn+'/sr+과/jcj
+
+'쓴맛'이
+	'/sr+쓴맛/ncn+'/sr+이/jcc
+
+섞여있다
+	섞이/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+[조선닷컴]사진-조선일보DB
+	[조선닷컴]사진-조선일보DB/ncn
+
+
+따뜻한
+	따뜻/ncn+한/ncn
+
+발효차와는
+	발효/ncpa+차/ncn+와/jct+는/jxc
+
+궁합
+	궁합/ncn
+
+안
+	알/pvg+ㄴ/etm
+
+맞아초콜릿의
+	맞아초콜릿/ncn+의/jcm
+
+향을
+	향/ncn+을/jco
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+사람은
+	사람/ncn+은/jxc
+
+음료보다는
+	음료/ncn+보다/jca+는/jxc
+
+오로지
+	오로지/mag
+
+물만
+	물/ncn+만/jxc
+
+같이
+	같/paa+이/xsa
+
+먹는다
+	먹/pvg+는다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+커피는
+	커피/ncn+는/jxc
+
+카카오와
+	카카오/ncn+와/jcj
+
+동일한
+	동/nbu+이/jp+ㄹ/etm+한/nbn
+
+지역에서
+	지역/ncn+에서/jca
+
+재배되고
+	재배/ncpa+되/xsvn+고/ecc
+
+볶아야
+	볶/pvg+아/ecx
+
+제
+	저/npp+의/jcm
+
+맛을
+	맛/ncn+을/jco
+
+내기
+	내/npp+이/jp+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+궁합이
+	궁합/ncn+이/jcc
+
+잘
+	잘/mag
+
+맞다
+	맞/pvg+다/ef
+
+.
+	./sf
+
+
+초콜릿
+	초콜릿/ncn
+
+한
+	한/nnc
+
+조각에
+	조각/ncn+에/jca
+
+커피
+	커피/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+모금이
+	모금/nbu+이/jcc
+
+가장
+	가장/mag
+
+이상적이다
+	이상/ncn+적/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+발효차는
+	발효/ncpa+차/ncn+는/jxc
+
+오히려
+	오히려/mag
+
+초콜릿의
+	초콜릿/ncn+의/jcm
+
+맛을
+	맛/ncn+을/jco
+
+죽인다
+	죽/ncn+이/jp+ㄴ다/ef
+
+.
+	./sf
+
+
+샴페인도
+	샴페인/ncn+도/jxc
+
+차갑게
+	차갑/paa+게/ecs
+
+마시기
+	마시/pvg+기/etn
+
+때문에,
+	때문/nbn+에/jca+,/sp
+
+차가운
+	차갑/paa+은/etm
+
+맛과
+	맛/ncn+과/jcj
+
+신맛이
+	신맛/ncn+이/jcc
+
+혀를
+	혀/ncn+를/jco
+
+마비시킬
+	마비/ncpa+시키/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+대신,
+	대/nbu+이/jp+시/ep+ㄴ/etm+,/sp
+
+상온
+	상온/ncn
+
+상태의
+	상태/ncn+의/jcm
+
+샴페인이나
+	샴페인/ncn+이나/jcj
+
+포도주,
+	포도주/ncn+,/sp
+
+위스키는
+	위스키/ncn+는/jxc
+
+초콜릿과
+	초콜릿/ncn+과/jct
+
+잘
+	잘/mag
+
+어울린다
+	어울리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+냉장고에
+	냉장고/ncn+에/jca
+
+오래
+	오래/mag
+
+두면
+	두/pvg+면/ecs
+
+냄새,
+	냄새/ncn+,/sp
+
+맛
+	맛/ncn
+
+변해열과
+	변해열/ncn+과/jcj
+
+습기는
+	습기/ncn+는/jxc
+
+초콜릿
+	초콜릿/ncn
+
+표면에
+	표면/ncn+에/jca
+
+막을
+	막/ncn+을/jco
+
+형성할
+	형성/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있기
+	있/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+외관이나
+	외관/ncn+이나/jcj
+
+맛에
+	맛/ncn+에/jca
+
+영향을
+	영향/ncn+을/jco
+
+끼친다
+	끼치/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+적당한
+	적당/ncps+하/xsms+ㄴ/etm
+
+보관
+	보관/ncpa
+
+온도와
+	온도/ncn+와/jcj
+
+습도는
+	습도/ncn+는/jxc
+
+10~15도,
+	10/nnc+~/sd+15/nnc+도/jxc+,/sp
+
+60~70%이다
+	60/nnc+~/sd+70/nnc+%/su+이/jp+다/ef
+
+.
+	./sf
+
+
+초콜릿은
+	초콜릿/ncn+은/jxc
+
+주변의
+	주변/ncn+의/jcm
+
+냄새를
+	냄새/ncn+를/jco
+
+쉽게
+	쉽/paa+게/ecs
+
+흡수하기
+	흡수/ncpa+하/xsva+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+밀폐
+	밀폐/ncpa
+
+용기에
+	용기/ncn+에/jca
+
+꼭
+	꼭/mag
+
+담아서
+	담/pvg+아/ecx
+
+보관한다
+	보관/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+냉장고에
+	냉장고/ncn+에/jca
+
+바로
+	바로/mag
+
+넣어두면
+	넣/pvg+어/ecx+두/px+면/ecs
+
+음식물
+	음식/ncn+물/ncn
+
+냄새가
+	냄새/ncn+가/jcs
+
+밸
+	배/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+출처:헬스조선
+	출처/ncn+:/sp+헬스/ncn+조선/ncpa

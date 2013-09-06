@@ -1,0 +1,358 @@
+앙코르
+	앙코르/ncn
+
+톰
+	톰/ncn
+
+어느
+	어느/mmd
+
+길목에서
+	길목/ncn+에서/jca
+
+...
+	.../se
+
+
+코끼리
+	코끼리/ncn
+
+테라스를
+	테라스/ncn+를/jco
+
+가려고
+	가/pvg+려고/ecs
+
+
+어딘가를
+	어딘가/ncn+를/jco
+
+분명
+	분명/ncps
+
+나왔는데
+	나/pvg+아/ecx+오/px+아/ep+ㄴ데/ecs
+
+
+그
+	그/mmd
+
+다음부터는
+	다음/ncn+부터/jxc+는/jxc
+
+그냥
+	그냥/mag
+
+길을
+	길/ncn+을/jco
+
+잃었는지
+	잃/pvg+었/ep+는지/ecc
+
+
+내
+	내/npp
+
+마음대로
+	마음/ncn+대로/jca
+
+걷고
+	걷/pvg+고/ecc
+
+있지
+	있/px+지/ecx
+
+않겠어요
+	않/px+겠/ep+어/ef+요/jxf
+
+?
+	?/sf
+
+
+지도를
+	지도/ncn+를/jco
+
+보며
+	보/px+며/ecc
+
+따라가는
+	따르/pvg+아/ecx+가/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+따분해져서
+	따분/ncps+하/xsms+어/ecx+지/px+어서/ecs
+
+
+이내
+	이내/mag
+
+마음대로
+	마음/ncn+대로/jca
+
+걸음
+	걸/pvg+ㅁ/etn
+
+닿는
+	닿/pvg+는/etm
+
+대로
+	대/nbu+로/jca
+
+걸어가다보니
+	걸/pvg+어/ecx+가/px+아/ecx+보/px+니/ef
+
+
+내
+	내/npp
+
+눈에
+	눈/ncn+에/jca
+
+닿는
+	닿/pvg+는/etm
+
+풍경이
+	풍경/ncn+이/jcc
+
+그렇게
+	그렇/pad+게/ecs
+
+아름다울
+	아름답/paa+을/etm
+
+수
+	수/nbn
+
+없습니다
+	없/paa+습니다/ef
+
+.
+	./sf
+
+
+인생도
+	인생/ncn+도/jxc
+
+그런
+	그러/pvd+ㄴ/etm
+
+것일
+	것/nbn+이/jp+ㄹ/etm
+
+테지요
+	테/ncn+이/jp+지/ef+요/jxf
+
+...
+	.../se
+
+
+가고자
+	가/px+고자/ecs
+
+했던
+	하/px+었/ep+던/etm
+
+길이
+	길/ncn+이/jcc
+
+분명
+	분명/ncps
+
+있었을
+	있/px+었/ep+을/etm
+
+터인데
+	터/nbn+이/jp+ㄴ데/ecs
+
+
+마치
+	마치/mag
+
+길을
+	길/ncn+을/jco
+
+잃은
+	잃/pvg+은/etm
+
+것
+	것/nbn
+
+처럼
+	처럼/ncn
+
+그렇게
+	그렇/pad+게/ecs
+
+닿은
+	닿/pvg+은/etm
+
+곳이
+	곳/ncn+이/jcc
+
+...
+	.../se
+
+
+생각지도
+	생각/ncpa+지도/ncn
+
+않게
+	않/px+게/ecs
+
+내
+	내/npp
+
+인생에
+	인생/ncn+에/jca
+
+오아시스가
+	오아시스/ncn+가/jcs
+
+되어
+	되/pvg+어/ecx
+
+주는
+	주/px+는/etm
+
+그런
+	그러/pvd+ㄴ/etm
+
+것.
+	것/nbn+./sf
+
+..
+	./sf+./sf
+
+
+그래서,
+	그렇/pad+어서/ecs+,/sp
+
+
+인생은
+	인생/ncn+은/jxc
+
+살
+	사/pvg+ㄹ/etm
+
+만한
+	만/nnc+한/nnc
+
+가
+	가/jcs
+
+봅니다
+	보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+Angkor
+	Angkor/f
+
+Tom
+	Tom/f
+
+/
+	//sp
+
+Cambodia
+	Cambodia/f
+
+
+Canon
+	Canon/f
+
+400D
+	400D/ncn
+
+24-70mm
+	24-70mm/ncn
+
+
+Photo
+	Photo/f
+
+by
+	by/f
+
+Eujinn.
+	Eujinn/f+./sy
+
+H
+	H/f
+
+
+::
+	:/sp+:/sp
+
+The
+	The/f
+
+Travelgrapher,
+	Travelgrapher/f+,/sp
+
+홍유진의
+	홍유진/ncn+의/jcm
+
+여행블로그
+	여행블로그/ncn
+
+
+여행,
+	여행/ncpa+,/sp
+
+국내여행,
+	국내여행/ncn+,/sp
+
+해외여행,
+	해외여행/ncpa+,/sp
+
+배낭여행,
+	배낭여행/ncpa+,/sp
+
+캠핑,
+	캠핑/ncn+,/sp
+
+초보캠핑
+	초보/ncn+캠핑/ncn
+
+
+맛집,
+	맛집,/ncn
+
+카페,
+	카페/ncn+,/sp
+
+브런치,
+	브런치,/ncn
+
+커피,
+	커피/ncn+,/sp
+
+홍차
+	홍차/ncn
+
+
+여러분의
+	여러/nnc+분/nbu+의/jcm
+
+덧글,
+	덧글,/ncn
+
+공감에
+	공감/ncpa+에/jca
+
+힘이
+	힘/ncn+이/jcc
+
+나는
+	나/npp+는/jxc
+
+여행별이랍니다^^
+	여행별이랍니다^^/ncn
+
+!
+	!/sf

@@ -1,0 +1,462 @@
+주
+	주/nbu
+
+소
+	소/ncn
+
+:
+	:/sp
+
+경기도
+	경기/ncn+도/jxc
+
+파주시
+	파주시/ncn
+
+탄현면
+	탄현면/ncn
+
+성동리659번지
+	성동리659번지/ncn
+
+문의
+	문/ncn+의/jcm
+
+031]945-3171,3173,2390
+	031/nnc+]/sr+945/nnc+-3171/nnc+,/sp+3173/nnc+,/sp+2390/nnc
+
+
+가는
+	가/pvg+는/etm
+
+길
+	길/ncn
+
+:
+	:/sp
+
+서울지하철
+	서울지하철/ncn
+
+2호선6호선
+	2호선6호선/ncn
+
+합정역2번
+	합정역2번/ncn
+
+출구
+	출구/ncn
+
+좌석버스200번[30분간격으로운행]타시면
+	좌석버스200번[30분간격으로운행/ncn+]/sr+타/nbu+이/jp+시/ep+면/ecs
+
+
+통일동산
+	통일/ncpa+동산/ncn
+
+주차장에
+	주차장/ncn+에/jca
+
+오십니다
+	오/px+시/ep+ㅂ니다/ef
+
+통일
+	통/nbn+이/jp+ㄹ/etm
+
+동산주차장에서-통일전망대까지
+	동산/ncn+주차장/ncn+에서/jca+-/sd+통일전망대/ncn+까지/jxc
+
+셔틀버스를
+	셔틀버스/ncn+를/jco
+
+무료운행
+	무료/ncps+운행/ncpa
+
+함
+	함/ncn
+
+
+자가용
+	자가용/ncn
+
+운행시:
+	운행/ncpa+시/xsna+:/sp
+
+서울
+	서울/ncn
+
+강변북로
+	강변북로/ncn
+
+-통일로-자유로-통일전망대
+	-/sd+통일로/ncn+-/sd+자유/ncn+로/jca+-/sd+통일전망대/ncn
+
+우측입구[안내판]
+	우측입구[안내판]/ncn
+
+통일
+	통/nbn+이/jp+ㄹ/etm
+
+주차장에
+	주차장/ncn+에/jca
+
+
+주차하고
+	주차/ncn+하고/jct
+
+셔틀버스를
+	셔틀버스/ncn+를/jco
+
+이용하시면
+	이용/ncpa+하시/ncn+이/jp+면/ecs
+
+됨니다
+	됨니/ncn+이/jp+다/ef
+
+
+통일전망대는
+	통일전망대/ncn+는/jxc
+
+해발118m인
+	해발118m/ncn+이/jp+ㄴ/etm
+
+오두산
+	오두산/ncn
+
+정상에
+	정상/ncn+에/jca
+
+위치해
+	위치/ncn+해/ncn
+
+있으며,삼국시대
+	있/px+으며/ecc+,/sp+삼국시대/ncn
+
+고구려와
+	고구/ncn+이/jp+리/ep+어/ecx+오/px+아/ecx
+
+백제가
+	백제/ncn+가/jcs
+
+세력
+	세력/ncn
+
+확장을
+	확장/ncpa+을/jco
+
+
+위해
+	위하/pvg+어/ecx
+
+치열한
+	치열/ncps+하/xsms+ㄴ/etm
+
+격전을
+	격전/ncpa+을/jco
+
+벌였던
+	벌이/pvg+었/ep+던/etm
+
+관미성터로
+	관미성터/ncn+로/jca
+
+역사적인
+	역사/ncn+적/ncn+이/jp+ㄴ/etm
+
+군사
+	군사/ncn
+
+요충지이며,지금은
+	요충지/ncn+이/jp+며/ecc+,/sp+지금/ncn+은/jxc
+
+서부전선의
+	서부전선/ncn+의/jcm
+
+최전방
+	최전방/ncn
+
+지
+	지/nbn
+
+
+역으로서
+	역/ncn+으로서/jca
+
+임진강을
+	임진/ncn+강/ncn+을/jco
+
+경계로
+	경계/ncn+로/jca
+
+남북이
+	남북/ncn+이/jcc
+
+마주
+	마주/mag
+
+보고
+	보/px+고/ecc
+
+있는
+	있/px+는/etm
+
+안타까운
+	안타깝/paa+은/etm
+
+분단의
+	분단/ncn+의/jcm
+
+현장입니다
+	현장/ncn+이/jp+ㅂ니다/ef
+
+
+통일기원북
+	통일/ncpa+기원/ncn+북/ncn
+
+.
+	./sf
+
+
+관람객
+	관람객/ncn
+
+타북
+	타/xp+북/ncn
+
+가능함
+	가능/ncn+함/ncn
+
+
+통일
+	통/nbn+이/jp+ㄹ/etm
+
+전망대에서
+	전망대/ncn+에서/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+북한땅
+	북한땅/ncn
+
+북한이
+	북한/ncn+이/jcc
+
+자랑하는
+	자랑/ncpa+하/xsva+는/etm
+
+선전마을이
+	선전/ncpa+마을/ncn+이/jcc
+
+눈앞에
+	눈앞/ncn+에/jca
+
+보인다
+	보/nbu+이/jp+ㄴ다/ef
+
+
+자유로를
+	자유로/ncn+를/jco
+
+지나면
+	지나/pvg+면/ecs
+
+임진각
+	임진각/ncn
+
+.
+	./sf
+
+
+임진각을
+	임진각/ncn+을/jco
+
+지나면
+	지나/pvg+면/ecs
+
+자유의다리
+	자유의다리/ncn
+
+,통일대교가
+	,/sp+통일/ncpa+대교/ncn+가/jcs
+
+나오는데
+	나/pvg+아/ecx+오/px+ㄴ데/ecs
+
+현재는
+	현재/ncn+는/jxc
+
+남북한
+	남북한/ncn
+
+
+정치적인
+	정치/ncpa+적/ncn+이/jp+ㄴ/etm
+
+이유로
+	이유/ncn+로/jca
+
+단절
+	단절/ncpa
+
+되고있읍
+	되고있읍/ncn
+
+
+민족독립운동가
+	민족독립운동가/ncn
+
+고당
+	고당/ncn
+
+조만식
+	조만식/ncn
+
+선생
+	선생/ncr
+
+동상
+	동상/ncn
+
+
+통일
+	통/nbn+이/jp+ㄹ/etm
+
+전망대
+	전망대/ncn
+
+드려가는
+	드리/pvg+어/ecx+가/px+는/etm
+
+입구
+	입구/ncn
+
+
+영상실300석
+	영상실300석/ncn
+
+영화
+	영화/ncn
+
+상영
+	상영/ncpa
+
+북한
+	북한/ncn
+
+공훈배우
+	공훈/ncn+배우/ncn
+
+공연영상
+	공연/ncps+영상/ncn
+
+상영
+	상영/ncpa
+
+/북한
+	/북한/ncn
+
+춤
+	추/pvg+ㅁ/etn
+
+민요
+	민요/ncn
+
+.
+	./sf
+
+
+서커스
+	서커스/ncn
+
+등
+	등/nbu
+
+다채로
+	다채/ncn+로/jca
+
+영상
+	영상/ncn
+
+
+통일노력의
+	통일/ncpa+노력/ncpa+의/jcm
+
+발자취
+	발자취/ncn
+
+등
+	등/nbu
+
+패널전시
+	패널/ncn+전시/ncn
+
+
+2층
+	2/nnc+층/nbu
+
+통일지형도에
+	통일/ncpa+지형도/ncn+에/jca
+
+의한
+	의하/pvg+ㄴ/etm
+
+남북교류경로
+	남북교류/ncn+경/ncn+로/jca
+
+검색
+	검색/ncpa
+
+[일본인
+	[/sl+일본인/ncn
+
+관광객들]
+	관광객/ncn+들/ncn+]/sr
+
+
+북한도자기
+	북한도자/ncn+이/jp+기/etn
+
+진열
+	진열/ncpa
+
+
+관광객들이
+	관광객/ncn+들/ncn+이/jcc
+
+구경을
+	구경/ncn+을/jco
+
+끝내고
+	끝내/pvg+고/ecc
+
+통일
+	통/nbn+이/jp+ㄹ/etm
+
+주차장으로
+	주차장/ncn+으로/jca
+
+이동하기위해
+	이동/ncn+하기/ncn+위해/ncn
+
+셔틀버스에
+	셔틀버스/ncn+에/jca
+
+오르고있다
+	오르/pvg+고/ecx+있/px+다/ef
+
+
+북한에서
+	북한/ncn+에서/jca
+
+사용하고있는
+	사용/ncpa+하/xsva+고/ecx+있/px+는/etm
+
+각종
+	각종/ncn
+
+술과
+	술/ncn+과/jcj
+
+담배
+	담배/ncn

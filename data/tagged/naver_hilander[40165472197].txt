@@ -1,0 +1,1587 @@
+부산
+	부산/ncps
+
+보수동
+	보수/ncn+동/ncn
+
+책방골목부산
+	책방/ncn+골목/ncn+부산/ncps
+
+여행을
+	여행/ncpa+을/jco
+
+가면
+	가/px+면/ecs
+
+가끔씩
+	가끔씩/mag
+
+들르는
+	들르/pvg+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+바로
+	바로/mag
+
+보수동
+	보수/ncn+동/ncn
+
+책방
+	책방/ncn
+
+골목이다
+	골목/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+책을
+	책/ncn+을/jco
+
+워낙
+	워낙/mag
+
+좋아해서이기도
+	좋아해서/ncn+이/jp+기/etn+도/jxc
+
+하지만
+	하지만/maj
+
+서울에서는
+	서울에서/ncn+는/jxc
+
+많은
+	많/paa+은/etm
+
+중고
+	중고/ncn
+
+서점가가
+	서점가/ncn+가/jcs
+
+이제는
+	이제/mag+는/jxc
+
+너무나
+	너무나/mag
+
+깔끔히
+	깔끔히/mag
+
+정비된
+	정비/ncpa+되/xsvn+ㄴ/etm
+
+탓에이제는
+	탓에이제/ncn+는/jxc
+
+다른곳에서
+	다른곳/ncn+에서/jca
+
+흔하게
+	흔하/paa+게/ecs
+
+보기
+	보/px+기/etn
+
+힘든
+	힘들/pvg+ㄴ/etm
+
+분위기를
+	분위기/ncn+를/jco
+
+유지하고
+	유지/ncn+하고/jct
+
+있는
+	있/px+는/etm
+
+곳이기
+	곳/ncn+이/jp+기/etn
+
+때문에도
+	때문/nbn+에/jca+도/jxc
+
+그렇다
+	그렇/pad+다/ef
+
+.
+	./sf
+
+
+게다가
+	게다가/maj
+
+가끔
+	가끔/mag
+
+운이
+	운/ncn+이/jcc
+
+좋으면
+	좋/paa+으면/ecs
+
+좋은
+	좋/paa+은/etm
+
+책을
+	책/ncn+을/jco
+
+저렴한
+	저렴/ncn+한/ncn
+
+가격에
+	가격/ncn+에/jca
+
+구입할
+	구입/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+도
+	도/ncn
+
+있다
+	있/px+다/ef
+
+^^햇살
+	^/sy+^/sy+햇살/ncn
+
+좋은날,
+	좋은날,/ncn
+
+보수동
+	보수/ncn+동/ncn
+
+책방골목
+	책방/ncn+골목/ncn
+
+산책~보수동
+	산책/ncpa+~/sd+보수/ncn+동/ncn
+
+책방골목
+	책방/ncn+골목/ncn
+
+입구~보수동
+	입구/ncn+~/sd+보수/ncn+동/ncn
+
+책방골목은
+	책방/ncn+골목/ncn+은/jxc
+
+이미
+	이미/mag
+
+50년이나
+	50/nnc+년/nbu+이나/jcj
+
+되는
+	되/pvg+는/etm
+
+역사를
+	역사/ncn+를/jco
+
+지니고
+	지/nbn+이/jp+니/ef+고/jcr
+
+있는
+	있/px+는/etm
+
+곳이다.
+	곳/ncn+이/jp+다/ef+./sf
+
+6.
+	6./nnc
+
+25
+	25/nnc
+
+전쟁
+	전쟁/ncpa
+
+이후
+	이후/ncn
+
+부산이
+	부산/ncps+이/jcc
+
+임시수도가
+	임시/ncn+수도/ncn+가/jcs
+
+되었을때
+	되/pvg+었/ep+을/etm+때/nbn
+
+이북에서
+	이북/ncn+에서/jca
+
+피난
+	피나/pvg+ㄴ/etm
+
+온
+	오/px+ㄴ/etm
+
+손징린씨
+	손징린씨/ncn
+
+부부(구,
+	부부(구,/ncn
+
+보문서점)가
+	보문서점)/ncn+가/jcs
+
+보수동
+	보수/ncn+동/ncn
+
+사거리
+	사거리/ncn
+
+입구(현재
+	입구(현재/ncn
+
+글방쉼터)
+	글방/ncn+쉼터/ncn+)/sr
+
+골목안
+	골목/ncn+안/ncn
+
+목조
+	목조/ncpa
+
+건물
+	건물/ncn
+
+처마
+	처마/ncn
+
+밑에서
+	밑/ncn+에서/jca
+
+박스를
+	박스/ncn+를/jco
+
+깔고미군부대에서
+	깔고미군부대/ncn+에서/jca
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+헌잡지,
+	헌잡지,/ncn
+
+만화
+	만화/ncn
+
+고물상으로
+	고물상/ncn+으로/jca
+
+부터
+	부터/ncn
+
+수집한
+	수집/ncpa+하/xsva+ㄴ/etm
+
+각종
+	각종/ncn
+
+헌책
+	헌책/ncn
+
+등으로
+	등/nbu+으로/jca
+
+노점을
+	노점/ncn+을/jco
+
+시작한
+	시작/ncpa+하/xsva+ㄴ/etm
+
+것이지금의
+	것이지금/ncn+의/jcm
+
+보수동
+	보수/ncn+동/ncn
+
+책방골목이
+	책방/ncn+골목/ncn+이/jcc
+
+되었단다
+	되/pvg+었/ep+단다/ef
+
+.
+	./sf
+
+
+지금은
+	지금/ncn+은/jxc
+
+중고서적들을
+	중고/ncn+서적/ncn+들/ncn+을/jco
+
+40~70%까지
+	40/nnc+~/sd+70/nnc+%/su+까지/jxc
+
+싸게
+	싸/paa+게/ecs
+
+살
+	사/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+실속있는
+	실속/ncn+있/xsmn+는/etm
+
+공간
+	공간/ncn
+
+.
+	./sf
+
+
+다
+	다/mag
+
+보고
+	보/px+고/ecc
+
+난
+	나/px+ㄴ/etm
+
+책을
+	책/ncn+을/jco
+
+중고로
+	중고/ncn+로/jca
+
+되
+	되/nbu
+
+팔수도
+	팔/pvg+ㄹ/etm+수/nbn+도/jxc
+
+있으니
+	있/px+으니/ecs
+
+책을
+	책/ncn+을/jco
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+자주
+	자주/mag
+
+들러볼만
+	들르/pvg+어/ecx+보/px+ㄹ/etm+만/nbs
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+초중고
+	초중고/ncn
+
+참고서를
+	참고서/ncn+를/jco
+
+비롯해
+	비롯/ncpa+하/xsva+어/ecx
+
+교과서,
+	교과서/ncn+,/sp
+
+아동도서,
+	아동도서/ncn+,/sp
+
+소설류,
+	소설류/ncn+,/sp
+
+교양서적,
+	교양서적/ncn+,/sp
+
+사전,
+	사전/ncn+,/sp
+
+기술서적,
+	기술서적/ncn+,/sp
+
+공무원
+	공무원/ncn
+
+교재,
+	교재/ncn+,/sp
+
+만화,
+	만화/ncpa+,/sp
+
+잡지,
+	잡/pvg+지/ef+,/sp
+
+고서,
+	고서/ncn+,/sp
+
+외국
+	외국/ncn
+
+도서
+	도/ncn+서/jca
+
+등
+	등/nbu
+
+다양한
+	다양/ncn+한/ncn
+
+책들이
+	책/ncn+들/xsncc+이/jcc
+
+구비되어
+	구비/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+게다가
+	게다가/maj
+
+새
+	새/mma
+
+책을
+	책/ncn+을/jco
+
+저렴하게
+	저렴/ncps+하/xsms+게/ecs
+
+구입할
+	구입/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+새책방들도
+	새책방들/ncn+도/jxc
+
+많이
+	많/paa+이/xsa
+
+들어섰단다
+	들어서/pvg+었/ep+단다/ef
+
+.
+	./sf
+
+
+오랜된
+	오랜된/ncn
+
+만큼
+	만큼/nbn
+
+다양한
+	다양/ncn+한/ncn
+
+책들이
+	책/ncn+들/xsncc+이/jcc
+
+많이
+	많/paa+이/xsa
+
+있고
+	있/px+고/ecc
+
+굳이
+	굳이/mag
+
+책을
+	책/ncn+을/jco
+
+사지
+	사/pvg+지/ecx
+
+않더라도
+	않/px+더라도/ecs
+
+그냥
+	그냥/mag
+
+둘러보는
+	두르/pvg+어/ecx+보/px+는/etm
+
+것
+	것/nbn
+
+만으로도
+	만/nnc+으로/jca+도/jxc
+
+소소한
+	소소한/ncn
+
+즐거움을
+	즐거움/ncn+을/jco
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+지나가다가
+	지나/pvg+아/ecx+가/px+아/ecx+가/px+아/ecx
+
+한번쯤
+	한번쯤/ncn
+
+읽어본
+	읽/pvg+어/ecx+보/px+ㄴ/etm
+
+책들이
+	책/ncn+들/xsncc+이/jcc
+
+보이면
+	보이/pvg+면/ecs
+
+어찌나
+	어찌/mag+나/jxc
+
+반가운지
+	반갑/paa+은/etm+지/nbn
+
+^^무심한듯
+	^/sy+^/sy+무심/ncps+하/xsms+ㄴ/etm+듯/nbs
+
+쌓아놓은
+	쌓/pvg+아/ecx+놓/px+은/etm
+
+책들로
+	책/ncn+들/xsncc+로/jca
+
+둘러쌓인
+	둘러쌓이/pvg+ㄴ/etm
+
+옛스런
+	옛스런/ncn
+
+분위기의
+	분위기/ncn+의/jcm
+
+책방
+	책방/ncn
+
+근처에이제는
+	근처/ncn+에이/ncn+제/ncn+는/jxc
+
+현대적인
+	현대/ncn+적/ncn+이/jp+ㄴ/etm
+
+인테리어의
+	인테리어/ncn+의/jcm
+
+서점도
+	서점/ncn+도/jxc
+
+함께
+	함께/mag
+
+공존하고
+	공존/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+몇해
+	몇/nnc+해/nbu
+
+전까지는
+	전/nbn+까지/jxc+는/jxc
+
+없던
+	없/paa+던/etm
+
+풍경
+	풍경/ncn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+..
+	./sf+./sf
+
+
+이
+	이/mmd
+
+곳도
+	곳/ncn+도/jxc
+
+조금씩
+	조금씩/ncn
+
+변화하는
+	변화/ncpa+하/xsva+는/etm
+
+모양
+	모양/ncn
+
+.
+	./sf
+
+
+한때
+	하/pvg+ㄴ/etm+때/nbn
+
+대한민국
+	대한/ncn+민국/ncn
+
+고등학생이면
+	고등학생/ncn+이/jp+면/ecs
+
+한번쯤은
+	한번쯤/ncn+은/jxc
+
+만져(
+	만져(/ncn
+
+!)
+	!/sf+)/sr
+
+
+봤을
+	보/px+아/ep+ㄹ/etm
+
+수학의
+	수학/ncn+의/jcm
+
+정석
+	정석/ncn
+
+요즘에도
+	요즘/ncn+에/jca+도/jxc
+
+이
+	이/mmd
+
+책이
+	책/ncn+이/jcc
+
+바이블
+	바이블/ncn
+
+취급을
+	취급/ncpa+을/jco
+
+받는지는
+	받/pvg+는지/ecs+는/jxc
+
+모르겠지만
+	모르/pvg+겠/ep+지만/ecs
+
+..
+	./sf+./sf
+
+
+어릴때
+	어리/paa+ㄹ/etm+때/nbn
+
+즐겨
+	즐기/pvg+어/ecx
+
+읽던
+	읽/pvg+던/etm
+
+영웅문이
+	영웅/ncn+문/ncn+이/jcc
+
+보이길래
+	보이/pvg+길래/ecs
+
+살까
+	사/pvg+ㄹ까/ecs
+
+말까
+	말/px+ㄹ까/ecs
+
+잠시
+	잠시/mag
+
+망설이기도
+	망설이/pvg+기/etn+도/jxc
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+한때는
+	하/pvg+ㄴ/etm+때/nbn+는/jxc
+
+김용
+	김/ncn+용/xsncc
+
+소설을
+	소설/ncn+을/jco
+
+탐닉하여
+	탐닉/ncpa+하/xsva+어/ecx
+
+사조영웅전,
+	사조/ncn+영웅전/ncn+,/sp
+
+신조협려,
+	신조협려,/ncn
+
+의천도룡기,
+	의천도룡기,/ncn
+
+소오강호
+	소오강호/ncn
+
+등등
+	등등/nbn
+
+너무
+	너무/mag
+
+재미있게
+	재미있/pvg+게/ecs
+
+읽었었는데~김용
+	읽/pvg+었었/ep+는데/ecs+~/sd+김/ncn+용/xsncc
+
+소설은
+	소설/ncn+은/jxc
+
+그냥
+	그냥/mag
+
+무협지랑
+	무협지랑/ncn
+
+다르다고
+	다르/paa+다/ef+고/jcr
+
+친구에게
+	친구/ncn+에게/jca
+
+열변을
+	열변/ncn+을/jco
+
+토하기도
+	트/pvg+어/ecx+하/px+기/etn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+(진짜
+	(/sl+진짜/ncn
+
+다른
+	다른/mma
+
+무협지는
+	무협지/ncn+는/jxc
+
+하나도
+	하/pvg+어/ecx+나/px+아/ecs
+
+관심
+	관심/ncn
+
+없었는데
+	없/paa+었/ep+는데/ecs
+
+김용
+	김/ncn+용/xsncc
+
+소설만
+	소설/ncn+만/jxc
+
+좋아했었으니~)오래된
+	좋아했었으니~)오래된/ncn
+
+외국
+	외국/ncn
+
+잡지들도
+	잡지/ncn+들/ncn+도/jxc
+
+보이는데
+	보이/pvg+ㄴ데/ecs
+
+..
+	./sf+./sf
+
+
+앗.
+	앗/ii+./sf
+
+.
+	./sf
+
+
+맨
+	맨/mma
+
+아래
+	아래/ncn
+
+일본판
+	일본판/ncn
+
+스크린에
+	스크린/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+언니는
+	언니/ncn+는/jxc
+
+제니퍼
+	제/xp+니퍼/ncn
+
+코넬리
+	코넬리/ncn
+
+아니신가
+	아니/paa+시/ep+ㄴ가/ef
+
+...
+	.../se
+
+
+중고서적
+	중고/ncn+서적/ncn
+
+하면
+	하/pvg+면/ecs
+
+만화책을
+	만화책/ncn+을/jco
+
+빼
+	빼/pvg+어/ecx
+
+놓을
+	놓/px+을/etm
+
+수
+	수/nbn
+
+없다
+	없/paa+다/ef
+
+^^한쪽에는
+	^/sy+^/sy+하/px+ㄴ/etm+쪽/nbn+에/jca+는/jxc
+
+일본
+	일/nnc+본/nbu
+
+만화만
+	만화/ncn+만/jxc
+
+따로
+	따로/mag
+
+파는
+	팔/pvg+는/etm
+
+곳도
+	곳/ncn+도/jxc
+
+있더라
+	있/px+더/ep+라/ef
+
+..
+	./sf+./sf
+
+
+아.
+	아/ii+./sf
+
+.
+	./sf
+
+
+미야자키
+	미야자키/ncn
+
+하아오의
+	하아오/ncn+의/jcm
+
+만화들이
+	만화/ncn+들/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+보여
+	보이/pvg+어/ecx
+
+반갑네~책들
+	반갑/paa+네/ef+~/sd+책/ncn+들/xsncc
+
+구경하느라
+	구경/ncpa+하/xsva+느라/ecs
+
+시간
+	시간/nbu
+
+가는
+	가/pvg+는/etm
+
+줄도
+	줄/nbn+도/jxc
+
+모르고
+	모르/pvg+고/ecc
+
+있었더니
+	있/px+었/ep+더니/ecs
+
+커피
+	커피/ncn
+
+한잔이
+	한/nnc+잔/nbu+이/jcc
+
+그리워지는
+	그립/paa+어/ecx+지/px+는/etm
+
+시점
+	시점/ncn
+
+.
+	./sf
+
+
+원래
+	원래/mag
+
+책과
+	책/ncn+과/jcj
+
+커피는
+	커피/ncn+는/jxc
+
+궁합이
+	궁합/ncn+이/jcc
+
+잘
+	잘/mag
+
+맞지
+	맞/pvg+지/ecx
+
+않던가~
+	않/px+더/ep+ㄴ가/ef+~/sd
+
+^^달콤해서
+	^/sy+^/sy+달콤/ncn+해/ncn+서/jca
+
+더욱
+	더욱/mag
+
+좋은
+	좋/paa+은/etm
+
+빙그레
+	빙그레/mag
+
+아카페라
+	아카페라/ncn
+
+카라멜
+	카라멜/ncn
+
+마끼아또~
+	마끼아또~/ncn
+
+!
+	!/sf
+
+
+굳게
+	굳/paa+게/ecs
+
+내린
+	내리/pvg+ㄴ/etm
+
+셔터에는
+	셔터/ncn+에/jca+는/jxc
+
+멋진
+	멋지/paa+ㄴ/etm
+
+벽화가
+	벽화/ncn+가/jcs
+
+그려져
+	그리/pvg+어/ecx+지/px+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+운치를
+	운치/ncn+를/jco
+
+더한다
+	더하/paa+ㄴ다/ef
+
+.
+	./sf
+
+
+이름만
+	이름/ncn+만/jxc
+
+써
+	쓰/pvg+어/ecx
+
+놓고
+	놓/px+고/ecc
+
+손떼가
+	손떼/pvg+어/ecx+가/px+아/ecx
+
+안
+	안/mag
+
+묻은
+	묻/pvg+은/etm
+
+이
+	이/mmd
+
+참고서들의
+	참고서/ncn+들/ncn+의/jcm
+
+주인공들은
+	주인공/ncn+들/ncn+은/jxc
+
+지금쯤
+	지금쯤/mag
+
+뭘
+	뭐/npd+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있을런지
+	있을런지/ncn
+
+..
+	./sf+./sf
+
+
+^^하긴
+	^^하긴/ncn
+
+나도
+	나/npp+도/jxc
+
+사놓고
+	사/pvg+아/ecx+놓/px+고/ecc
+
+안풀어본
+	안풀어본/ncn
+
+문제집
+	문제/ncn+집/ncn
+
+하며,
+	하/pvg+며/ecc+,/sp
+
+어떤건
+	어떤건/ncn
+
+맨
+	맨/mma
+
+앞부분만
+	앞부분/ncn+만/jxc
+
+꺼멓게
+	꺼멓/paa+게/ecs
+
+손떼가
+	손떼/pvg+어/ecx+가/px+아/ecx
+
+묻은
+	묻/pvg+은/etm
+
+책들도
+	책/ncn+들/xsncc+도/jxc
+
+있었지
+	있/px+었/ep+지/ef
+
+..
+	./sf+./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+지나고
+	지/nbn+이/jp+나/ef+고/jcr
+
+보면
+	보/px+면/ecs
+
+큰
+	크/paa+ㄴ/etm
+
+상관은
+	상관/ncn+은/jxc
+
+없는
+	없/paa+는/etm
+
+것
+	것/nbn
+
+같기도
+	같/paa+기/etn+도/jxc
+
+하고;;;;;
+	하고;;;;;/ncn
+
+;보수동
+	;/sy+보수/ncn+동/ncn
+
+책방골목
+	책방/ncn+골목/ncn
+
+중간쯤에
+	중간쯤/ncn+에/jca
+
+오른쪽으로
+	오르/pvg+ㄴ/etm+쪽/nbn+으로/jca
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+오르막길이
+	오르막길/ncn+이/jcc
+
+있는데이곳이
+	있는데이곳/ncn+이/jcc
+
+바로요즘에
+	바로요즘/ncn+에/jca
+
+부쩍
+	부쩍/mag
+
+유명해진
+	유명해지/pvg+ㄴ/etm
+
+장소인
+	장소/ncn+이/jp+ㄴ/etm
+
+보수동
+	보수/ncn+동/ncn
+
+벽화마을이다
+	벽화/ncn+마을/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+계단을
+	계단/ncn+을/jco
+
+오르면서
+	오르/pvg+면서/ecc
+
+좌우를
+	좌우/ncpa+를/jco
+
+둘러보면제법
+	둘러보면제법/ncn
+
+세련된
+	세련/ncpa+되/xsvn+ㄴ/etm
+
+벽화들이
+	벽화/ncn+들/ncn+이/jcc
+
+그려져
+	그리/pvg+어/ecx+지/px+어/ecx
+
+있고동네
+	있고동네/ncn
+
+대문도
+	대문/ncn+도/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+색깔별로
+	색깔/ncn+별/ncn+로/jca
+
+칠해져
+	칠하/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+게다가
+	게다가/maj
+
+어떤
+	어떤/mmd
+
+벽화들은
+	벽화/ncn+들/ncn+은/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+하나의
+	하나/nnc+의/jcm
+
+동화를
+	동화/ncn+를/jco
+
+이루기도
+	이루/pvg+기/etn+도/jxc
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+동화에는
+	동화/ncn+에/jca+는/jxc
+
+순서대로
+	순서/ncn+대로/jca
+
+번호가
+	번호/ncn+가/jcs
+
+붙어
+	붙/pvg+어/ecx
+
+있으니
+	있/px+으니/ecs
+
+1번부터
+	1/nnc+번/nbu+부터/jxc
+
+찾아
+	찾/pvg+아/ecx
+
+보는
+	보/px+는/etm
+
+재미가
+	재미/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+^^미로
+	^/sy+^/sy+미/ncn+로/jca
+
+같은
+	같/paa+은/etm
+
+골목이
+	골목/ncn+이/jcc
+
+아니고
+	아니/paa+고/ecc
+
+직선으로
+	직선/ncn+으로/jca
+
+쭉~
+	쭉~/ncn
+
+올라갔다
+	오르/pvg+아/ecx+가/px+아/ep+다/ef
+
+내려오면
+	내리/pvg+어/ecx+오/px+면/ecs
+
+되니책방골목
+	되니책방골목/ncn
+
+가는
+	가/pvg+는/etm
+
+김에
+	김/nbn+에/jca
+
+보수동
+	보수/ncn+동/ncn
+
+벽화마을도
+	벽화/ncn+마을/ncn+도/jxc
+
+재미삼아
+	재미삼아/ncn
+
+한번
+	한/nnc+번/nbu
+
+오르내리는
+	오르내리/pvg+는/etm
+
+것도
+	것/nbn+도/jxc
+
+괜찮을
+	괜찮/paa+을/etm
+
+듯
+	듯/nbn
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+먼지
+	멀/paa+ㄴ지/ecs
+
+쌓인
+	쌓이/pvg+ㄴ/etm
+
+책들이
+	책/ncn+들/xsncc+이/jcc
+
+지내온
+	지내/pvg+어/ecx+오/px+ㄴ/etm
+
+시간
+	시간/nbu
+
+만큼나를
+	만큼나/ncn+를/jco
+
+몇
+	몇/nnc
+
+걸음
+	걸/pvg+ㅁ/etn
+
+어린
+	어리/paa+ㄴ/etm
+
+시절로
+	시절/ncn+로/jca
+
+되돌려
+	되돌리/pvg+어/ecx
+
+놓는
+	놓/px+는/etm
+
+공간,부산
+	공간/ncn+,/sp+부산/ncps
+
+보수동
+	보수/ncn+동/ncn
+
+책방골목,
+	책방/ncn+골목/ncn+,/sp
+
+벽화마을*
+	벽화마을*/ncn
+
+보수동
+	보수/ncn+동/ncn
+
+책방골목,
+	책방/ncn+골목/ncn+,/sp
+
+벽화마을
+	벽화/ncn+이/jp+마/ef+ㄹ/etm
+
+찾아가는
+	찾/pvg+아/ecx+가/px+는/etm
+
+방법
+	방법/ncn
+
+*버스이용시
+	*/sy+버스/ncn+이용/ncpa+시/ncn
+
+-
+	-/sd
+
+부산역에서
+	부산/ncps+역/ncn+에서/jca
+
+부평동
+	부평동/ncn
+
+보수동
+	보수/ncn+동/ncn
+
+방면
+	방면/ncn
+
+59번,
+	59/nnc+번/nbu+,/sp
+
+60번,
+	60/nnc+번/nbu+,/sp
+
+81번
+	81/nnc+번/nbu
+
+버스(배차시간
+	버스(배차시간/ncn
+
+3~5분)등을
+	3/nnc+~/sd+5/nnc+분/nbu+)/sr+등/nbu+을/jco
+
+타고
+	타/pvg+고/ecc
+
+부평동이나
+	부평동/ncn+이나/jcj
+
+보수동
+	보수/ncn+동/ncn
+
+정류소에서
+	정류소/ncn+에서/jca
+
+하차지하철
+	하차/ncn+지하철/ncn
+
+이용시
+	이용/ncpa+시/ncn
+
+-지하철
+	-/sd+지하철/ncn
+
+자갈치역에서
+	자갈치/ncn+역/ncn+에서/jca
+
+하차
+	하차/ncn
+
+3번
+	3/nnc+번/nbu
+
+출구로
+	출구/ncn+로/jca
+
+나와
+	나/npp+와/jct
+
+극장가쪽으로
+	극장가/ncn+쪽/ncn+으로/jca
+
+올라와
+	오르/pvg+아/ecx+오/px+아/ecx
+
+국제시장을
+	국제/ncn+시장/ncn+을/jco
+
+지난뒤
+	지난/ncn+뒤/ncn
+
+대청로
+	대청/ncn+로/jca
+
+네골목에서
+	네골목/ncn+에서/jca
+
+보수동방면
+	보수/ncn+동방/ncn+면/ncn
+
+.
+	./sf
+
+
+보수동
+	보수/ncn+동/ncn
+
+책방골목
+	책방/ncn+골목/ncn
+
+
+부산
+	부산/ncps
+
+중구
+	중구/ncn
+
+신창동3가
+	신창동3/ncn+가/jcc
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl011425777",
+	"bl011425777",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"20593572",
+	"/sl+20593572/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"보수동
+	title/f+:/sp+"/sl+보수/ncn+동/ncn
+
+책방골목",
+	책방/ncn+골목/ncn+"/sr+,/sp
+
+pointX:494025,pointY:278596}
+	pointX/f+:/sp+494025/nnc+,/sp+pointY/f+:/sp+278596/nnc+}/sr

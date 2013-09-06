@@ -1,0 +1,362 @@
+시화호
+	시화호/ncn
+
+...
+	.../se
+
+
+말도
+	말/ncn+도/jxc
+
+많고
+	많/paa+고/ecc
+
+탈도
+	탈/ncn+도/jxc
+
+많았던
+	많/paa+아/ep+ㄴ/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+개구리반찬도
+	개구리/ncn+반찬/ncn+도/jxc
+
+아닌데
+	아니/paa+ㄴ데/ecs
+
+죽었니
+	죽/pvg+었/ep+니/ef
+
+?
+	?/sf
+
+
+살았니
+	살/pvg+아/ep+니/ef
+
+?
+	?/sf
+
+
+엄청
+	엄청/mag
+
+물어봐야했던
+	묻/pvg+어/ecx+보/px+아/ecx+하/px+었/ep+던/etm
+
+곳.
+	곳/nbu+./sf
+
+
+그
+	그/mmd
+
+시화호에
+	시화호/ncn+에/jca
+
+갈대습지공원이
+	갈대/ncn+습지/ncn+공원/ncn+이/jcc
+
+개장했다는
+	개장/ncpa+하/xsva+었/ep+다/ef+는/etm
+
+소식을
+	소식/ncn+을/jco
+
+들은
+	들/pvg+ㄴ/etm
+
+친구와손잡고
+	친구와손잡고/ncn
+
+길을
+	길/ncn+을/jco
+
+나섰다
+	나서/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+아직은
+	아직/mag+은/jxc
+
+많이
+	많/paa+이/xsa
+
+알려지지도
+	알리/pvg+어/ecx+지/px+지/ecs+도/jxc
+
+않았지만
+	않/px+아/ep+지만/ecs
+
+대중교통이
+	대중교통/ncn+이/jcc
+
+닿지않아접근하기가
+	닿지않아접근하/ncn+이/jp+기/etn+가/jcs
+
+어렵다는
+	어렵/paa+다/ef+는/etm
+
+단점이
+	단점/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+일단
+	일단/mag
+
+도착하고나면
+	도착/ncpa+하/xsva+고/ecx+나/px+면/ecs
+
+와,
+	오/px+아/ecs+,/sp
+
+하는
+	하/pvg+는/etm
+
+탄성과
+	탄성/ncn+과/jct
+
+함께
+	함께/mag
+
+시작되는
+	시작/ncpa+되/xsvn+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+지금도
+	지금/ncn+도/jxc
+
+영역을
+	영역/ncn+을/jco
+
+넓혀가며
+	넓히/pvg+어/ecx+가/px+며/ecc
+
+공원조성이
+	공원조성/ncn+이/jcc
+
+한창인데
+	한창/ncn+이/jp+ㄴ데/ecs
+
+둘레를
+	둘레/ncn+를/jco
+
+돌아보는
+	돌/pvg+아/ecx+보/px+는/etm
+
+자전거길도
+	자전거/ncn+길/ncn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+갈대습지공원안으로는
+	갈대/ncn+습지/ncn+공원/ncn+안/ncn+으로/jca+는/jxc
+
+자전거가
+	자전거/ncn+가/jcs
+
+들어갈
+	들/pvg+어/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+그건
+	그것/npd+은/jxc
+
+정말
+	정말/mag
+
+잘한
+	자/pvg+ㄹ/etm+한/nbn
+
+일인듯
+	일/ncn+이/jp+ㄴ/etm+듯/nbs
+
+^___^
+	^___/ncn+^/sy
+
+
+습지로
+	습지/ncn+로/jca
+
+들어서기전
+	들어서/pvg+기/etn+전/xsnx
+
+환경생태관에
+	환경/ncn+생태/ncn+관/ncn+에/jca
+
+먼저
+	먼저/mag
+
+들러야
+	들르/pvg+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+자연과
+	자연/ncn+과/jcj
+
+습지를
+	습지/ncn+를/jco
+
+이해하는
+	이해/ncpa+하/xsva+는/etm
+
+폭이
+	폭/nbu+이/jcc
+
+한결
+	한결/mag
+
+넓어진다
+	넓/paa+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+시화호의
+	시화호/ncn+의/jcm
+
+과거와
+	과거/ncn+와/jcj
+
+현재를
+	현재/ncn+를/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+알아볼
+	알/pvg+아/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+잘
+	잘/mag
+
+보여주고
+	보이/pvg+어/ecx+주/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+현재
+	현재/mag
+
+그곳에서
+	그곳/ncn+에서/jca
+
+살아가가고
+	살/pvg+아/ecx+가/px+아/ecx+가/px+고/ecc
+
+있는
+	있/px+는/etm
+
+생물의
+	생물/ncn+의/jcm
+
+분포
+	분포/ncpa
+
+상황을
+	상황/ncn+을/jco
+
+제대로
+	제대로/mag
+
+알고
+	알/pvg+고/ecx
+
+돌아보는
+	돌/pvg+아/ecx+보/px+는/etm
+
+게
+	것/nbn+이/jcs
+
+더
+	더/mag
+
+좋은
+	좋/paa+은/etm
+
+일이다
+	일/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+환경생태관
+	환경/ncn+생태/ncn+관/ncn
+
+전망대
+	전망대/ncn
+
+위에서
+	위/ncn+에서/jca
+
+내려다
+	내리/pvg+어다/ecs
+
+본
+	보/px+ㄴ/etm
+
+풍경
+	풍경/ncn
+
+...
+	.../se

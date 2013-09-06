@@ -1,0 +1,472 @@
+서울
+	서울/ncn
+
+지하철7호선
+	지하철7호선/ncn
+
+수락산
+	수락/ncpa+산/ncn
+
+역
+	역/ncn
+
+1/3출구
+	1/3출구/ncn
+
+
+등산코스
+	등산코스/ncn
+
+:
+	:/sp
+
+1번출구
+	1번출구/ncn
+
+수락산
+	수락/ncpa+산/ncn
+
+관리사무소-덕성여대
+	관리사무소/ncn+-/sd+덕성/ncn+여대/ncn
+
+생활관-시립양노원-약수터-계곡삼거리
+	생활관/ncn+-/sd+시립/ncn+양노원/ncn+-/sd+약수터/ncn+-/sd+계곡/ncn+삼거리/ncn
+
+
+깔딱고개-바위오름길-철
+	깔딱고개-바위오름길-철/ncn
+
+난간지대-정상
+	난간/ncn+지대/ncn+-/sd+정상/ncn
+
+
+수락산
+	수락/ncpa+산/ncn
+
+은
+	은/ncn
+
+도봉산
+	도봉산/ncn
+
+과
+	고/pvg+아/ecx
+
+마주하며
+	마주/ncps+하/xsms+며/ecc
+
+불암산
+	불암산/ncn
+
+북방에
+	북방/ncn+에/jca
+
+위치한다
+	위치/ncpa+하/xsva+ㄴ다/ef
+
+
+의정부시와
+	의정부시/ncn+와/jcj
+
+서울시
+	서울시/ncn
+
+그리고
+	그리고/maj
+
+남양주시의
+	남양주시/ncn+의/jcm
+
+경계를
+	경계/ncn+를/jco
+
+하고있다
+	하/pvg+고/ecx+있/px+다/ef
+
+
+사암으로
+	사암/ncn+으로/jca
+
+만
+	말/px+ㄴ/etm
+
+되어있는
+	되/pvg+어/ecx+있/px+는/etm
+
+산이어서
+	산/ncn+이/jp+어서/ecs
+
+나무는
+	나무/ncn+는/jxc
+
+울창하지
+	울창/ncps+하/xsms+지/ecx
+
+않으나
+	않/paa+으나/ecc
+
+
+산
+	사/pvg+ㄴ/etm
+
+중에는
+	중/nbn+에/jca+는/jxc
+
+세
+	세/nnc
+
+연못이있어사람들의
+	연못이있어사람들/ncn+의/jcm
+
+좋은
+	좋/paa+은/etm
+
+휴식처를
+	휴식처/ncn+를/jco
+
+제공하고있다
+	제공/ncpa+하/xsva+고/ecx+있/px+다/ef
+
+
+수락산
+	수락/ncpa+산/ncn
+
+이라는
+	이르/paa+어/ef+는/etm
+
+이름의
+	이름/ncn+의/jcm
+
+유래는
+	유래/ncpa+는/jxc
+
+물이떨어지는
+	물이떨어지/ncn+는/jxc
+
+산
+	사/pvg+ㄴ/etm
+
+이라는데서
+	이르/paa+어/ef+는/etm+데/nbn+서/jca
+
+기인했다는
+	기인/ncpa+하/xsva+었/ep+다/ef+는/etm
+
+이야기가있다
+	이야기가있다/ncn
+
+
+이성계
+	이성/ncn+계/ncn
+
+는
+	늘/pvg+ㄴ/etm
+
+수락산의
+	수락/ncpa+산/ncn+의/jcm
+
+모든봉우리가
+	모든봉우리/ncn+가/jcs
+
+서울을
+	서울/ncn+을/jco
+
+향하여
+	향하/pvg+어/ecx
+
+고개를
+	고개/ncn+를/jco
+
+숙이고있다고
+	숙이/pvg+고/ecx+있/px+다/ef+고/jcr
+
+하면서
+	하/pvg+면서/ecc
+
+서울의
+	서울/ncn+의/jcm
+
+
+수호산이라
+	수호/ncpa+산/ncn+이/jp+라/ecs
+
+했다고
+	하/px+었/ep+다/ef+고/jcr
+
+전해진다
+	전하/pvg+어/ecx+지/px+ㄴ다/ef
+
+
+수락산의
+	수락/ncpa+산/ncn+의/jcm
+
+수호신
+	수호신/ncn
+
+철모바위
+	철모/ncn+바위/ncn
+
+
+수락산은
+	수락/ncpa+산/ncn+은/jxc
+
+불암산의
+	불암산/ncn+의/jcm
+
+북방에
+	북방/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+산으로
+	산/ncn+으로/jca
+
+왜적의
+	왜적/ncn+의/jcm
+
+침략을
+	침략/ncpa+을/jco
+
+막기위해
+	막기위해/ncn
+
+항상머리에철모를
+	항상머리에철모/ncn+를/jco
+
+쓰고
+	쓰/paa+고/ecc
+
+
+있다고
+	있/px+다/ef+고/jcr
+
+전해진다
+	전하/pvg+어/ecx+지/px+ㄴ다/ef
+
+
+수락산의
+	수락/ncpa+산/ncn+의/jcm
+
+진실바위
+	진실/ncps+바위/ncn
+
+뚱뚱한
+	뚱뚱하/paa+ㄴ/etm
+
+사람은
+	사람/ncn+은/jxc
+
+돌아가세요
+	돌/pvg+아/ecx+가/px+세/ef+요/jxf
+
+실제로
+	실제로/mag
+
+얼마전에
+	얼마/ncn+전/ncn+에/jca
+
+엉덩이큰아주머니가
+	엉덩이큰아주머니/ncn+가/jcs
+
+이곳을
+	이곳/npd+을/jco
+
+
+통과
+	통/nbn+과/jcj
+
+하던중
+	하/pvg+던/etm+중/nbn
+
+끼어서
+	끼/nbu+이/jp+어서/ecs
+
+고생좀
+	고생/ncpa+좀/ncn
+
+했다나봐
+	했다나봐/ncn
+
+
+한
+	한/nnc
+
+해가
+	하/pvg+어/ecx+가/px+아/ecx
+
+끝날
+	끝나/pvg+ㄹ/etm
+
+때마다
+	때/ncn+마다/jxc
+
+헌된
+	헌된/ncn
+
+미련과
+	미련/ncn+과/jcj
+
+쓸쓸함이
+	쓸쓸/ncps+하/xsms+ㅁ/etn+이/jcs
+
+깃드는
+	깃들/pvg+는/etm
+
+것은
+	것/nbn+은/jxc
+
+어찌
+	어찌/mag
+
+할
+	하/pvg+ㄹ/etm
+
+수가
+	수/nbn+가/jcc
+
+없는
+	없/paa+는/etm
+
+모양입니다
+	모양/ncn+이/jp+ㅂ니다/ef
+
+
+인간이란
+	인간/ncn+이란/jxc
+
+늘
+	늘/mag
+
+지나온
+	지나/pvg+아/ecx+오/px+ㄴ/etm
+
+세월에
+	세/nnc+월/nbu+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+뉘우침과
+	뉘우침/ncn+과/jcj
+
+미래에
+	미래/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+설렘으로
+	설레/pvg+ㅁ/etn+으로/jca
+
+살아가기
+	살/pvg+아/ecx+가/px+기/etn
+
+때문이겠지요
+	때문/nbn+이/jp+겠/ep+지요/ef
+
+
+수락산
+	수락/ncpa+산/ncn
+
+의
+	의/ncn
+
+종바위
+	종바위/ncn
+
+
+수락산
+	수락/ncpa+산/ncn
+
+코끼리바위
+	코끼리/ncn+바위/ncn
+
+
+수락산
+	수락/ncpa+산/ncn
+
+물개바위
+	물개바위/ncn
+
+
+길은
+	길/paa+ㄴ/etm
+
+떠나기
+	떠나/pvg+기/etn
+
+위해서
+	위하/pvg+어서/ecs
+
+존재하는
+	존재/ncpa+하/xsva+는/etm
+
+것이
+	것/nbn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+돌아오기
+	돌/pvg+아/ecx+오/px+기/etn
+
+위해서
+	위하/pvg+어서/ecs
+
+존재합니다
+	존재/ncpa+하/xsva+ㅂ니다/ef
+
+
+수락산
+	수락/ncpa+산/ncn
+
+독수리바위
+	독수리/ncn+바위/ncn
+
+
+말과
+	말/ncn+과/jcj
+
+화살
+	화살/ncn
+
+을
+	을/ncn
+
+가벼이
+	가벼이/mag
+
+던지지
+	던지/pvg+지/ecx
+
+마세
+	말/px+세/ef
+
+요
+	요/mmd
+
+
+한번
+	한/nnc+번/nbu
+
+사람
+	사람/ncn
+
+귀에
+	귀/ncn+에/jca
+
+박히면
+	박히/pvg+면/ecs
+
+힘으로는
+	힘/ncn+으로/jca+는/jxc
+
+빼낼
+	빼/pvg+어/ecx+내/px+ㄹ/etm
+
+수
+	수/nbn
+
+없습니다
+	없/paa+습니다/ef

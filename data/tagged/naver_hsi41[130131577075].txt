@@ -1,0 +1,561 @@
+경기
+	경기/ncn
+
+안양시
+	안양시/ncn
+
+동안구
+	동안/ncn+구/ncn
+
+호계동에
+	호계동/ncn+에/jca
+
+사는
+	사/pvg+는/etm
+
+최우림
+	최우림/ncn
+
+씨(27)는
+	씨(27)/ncn+는/jxc
+
+대학
+	대학/ncn
+
+졸업
+	졸업/ncpa
+
+후
+	후/ncn
+
+6개월째
+	6/nnc+개월/nbu+째/xsnu
+
+'백수'다
+	'백수'다/ncn
+
+.
+	./sf
+
+
+졸업
+	졸업/ncpa
+
+후
+	후/ncn
+
+3개월까진
+	3개월까진/ncn
+
+여기저기
+	여기저기/mad
+
+취직자리를
+	취직자리/ncn+를/jco
+
+알아봤지만
+	알/pvg+아/ecx+보/px+아/ep+지만/ecs
+
+변변한
+	변변/ncps+하/xsms+ㄴ/etm
+
+면접
+	면접/ncpa
+
+기회조차
+	기회/ncn+조차/jxc
+
+잡지
+	잡/pvg+지/ecx
+
+못하자
+	못하/px+자/ecc
+
+구직활동을
+	구직/ncn+활동/ncpa+을/jco
+
+포기했다
+	포기/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+청년실업
+	청년/ncn+실업/ncn
+
+문제가
+	문제/ncn+가/jcs
+
+갈수록
+	가/px+ㄹ수록/ecs
+
+심각해지는
+	심각/ncps+하/xsms+어/ecx+지/px+는/etm
+
+가운데
+	가운데/ncn
+
+20대
+	20/nnc+대/nbu
+
+'쉬었음'
+	'/sl+쉬/pvg+었/ep+음/etn+'/sr
+
+인구가
+	인구/ncn+가/jcs
+
+관련
+	관련/ncn
+
+통계
+	통계/ncn
+
+작성을
+	작성/ncpa+을/jco
+
+시작한
+	시작/ncpa+하/xsva+ㄴ/etm
+
+2003년
+	2003/nnc+년/nbu
+
+1월
+	1/nnc+월/nbu
+
+이후
+	이후/ncn
+
+최대치로
+	최대치/ncn+로/jca
+
+증가했다
+	증가/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+20대
+	20/nnc+대/nbu
+
+중
+	중/nbn
+
+취업
+	취업/ncpa
+
+경험이
+	경험/ncpa+이/jcc
+
+전무한
+	전무/ncps+하/xsms+ㄴ/etm
+
+'취업
+	'/sr+취업/ncpa
+
+무경험
+	무경험/ncn
+
+실업자'도
+	실업자/ncn+'/sr+도/jxc
+
+지난해
+	지난해/ncn
+
+같은
+	같/paa+은/etm
+
+달보다
+	달/nbu+보다/jca
+
+24.1%
+	24.1/nnc+%/su
+
+급증한
+	급증/ncpa+하/xsva+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타나
+	나타나/pvg+아/ecx
+
+청년실업이
+	청년/ncn+실업/ncn+이/jcc
+
+고착화되는
+	고착/ncpa+화/ncn+되/xsvn+는/etm
+
+양상이다
+	양상/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+16일
+	16/nnc+일/nbu
+
+통계청에
+	통계/ncn+청/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+올
+	오/px+ㄹ/etm
+
+1월
+	1/nnc+월/nbu
+
+비경제활동인구
+	비경제/ncn+활동인구/ncn
+
+중
+	중/nbn
+
+20대
+	20/nnc+대/nbu
+
+'쉬었음'
+	'/sl+쉬/pvg+었/ep+음/etn+'/sr
+
+인구는
+	인구/ncn+는/jxc
+
+33만7000명으로
+	33/nnc+만/nnc+7000/nnc+명/nbu+으로/jca
+
+지난해
+	지난해/ncn
+
+같은
+	같/paa+은/etm
+
+달보다
+	달/nbu+보다/jca
+
+27.3%
+	27.3/nnc+%/su
+
+증가했다
+	증가/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+고용통계상
+	고용/ncpa+통계상/ncn
+
+15세
+	15/nnc+세/nnc
+
+이상
+	이상/ncn
+
+인구는
+	인구/ncn+는/jxc
+
+경제활동인구(취업자
+	경제활동인구(취업자/ncn
+
+및
+	및/maj
+
+실업자)와
+	실업자/ncn+)/sr+와/jct
+
+비경제활동인구로
+	비경제/ncn+활동인구/ncn+로/jca
+
+나뉜다
+	나뉘/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+비경제활동의
+	비경제/ncn+활동/ncpa+의/jcm
+
+이유는
+	이유/ncn+는/jxc
+
+육아,
+	육아/ncpa+,/sp
+
+가사,
+	가사/ncn+,/sp
+
+재학,
+	재학/ncpa+,/sp
+
+장애,
+	장애/ncn+,/sp
+
+취업준비
+	취업/ncpa+준비/ncpa
+
+등
+	등/nbu
+
+다양한데
+	다양/ncn+한데/ncn
+
+'쉬었음'은
+	'/sl+쉬/pvg+었/ep+음/etn+'/sr+은/jxc
+
+특별한
+	특별/ncps+하/xsms+ㄴ/etm
+
+이유
+	이유/ncn
+
+없이
+	없이/mag
+
+구직활동을
+	구직/ncn+활동/ncpa+을/jco
+
+하지
+	하/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+일자리를
+	일자리/ncn+를/jco
+
+구할
+	구하/pvg+ㄹ/etm
+
+의사가
+	의사/ncr+가/jcc
+
+없는
+	없/paa+는/etm
+
+사람을
+	사람/ncn+을/jco
+
+뜻한다
+	뜻/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+통상적으로
+	통상/ncn+적/ncn+으로/jca
+
+'쉬었음'은
+	'/sl+쉬/pvg+었/ep+음/etn+'/sr+은/jxc
+
+은퇴한
+	은퇴/ncpa+하/xsva+ㄴ/etm
+
+50대
+	50/nnc+대/nbu
+
+이상이
+	이상/ncn+이/jcc
+
+대부분을
+	대부분/ncn+을/jco
+
+차지하는
+	차/pvg+지/ecx+하/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+정상이지만,
+	정상/ncn+이/jp+지만/ecs+,/sp
+
+올
+	오/px+ㄹ/etm
+
+1월에는
+	1/nnc+월/nbu+에/jca+는/jxc
+
+이례적으로
+	이례/ncn+적/ncn+으로/jca
+
+20대
+	20/nnc+대/nbu
+
+'쉬었음'
+	'/sl+쉬/pvg+었/ep+음/etn+'/sr
+
+인구가
+	인구/ncn+가/jcs
+
+급증했다
+	급증/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+때문에
+	때문/nbn+에/jca
+
+전체
+	전체/ncn
+
+'쉬었음'에서
+	'/sl+쉬/pvg+었/ep+음/etn+'/sr+에서/jca
+
+50대
+	50/nnc+대/nbu
+
+이상
+	이상/ncn
+
+비중은
+	비중/ncn+은/jxc
+
+60.
+	60./nnc
+
+2%(2011년
+	2/nnc+%/su+(/sl+2011/nnc+년/nbu
+
+1월)
+	1/nnc+월/nbu+)/sr
+
+57.
+	57./nnc
+
+6%(올
+	6/nnc+%/su+(/sl+오/pvg+ㄹ/etm
+
+1월)로
+	1/nnc+월/nbu+)/sr+로/jca
+
+줄어든
+	줄/pvg+어/ecs+든/jxc
+
+반면에
+	반면/ncn+에/jca
+
+20대
+	20/nnc+대/nbu
+
+비중은
+	비중/ncn+은/jxc
+
+14.1%
+	14.1/nnc+%/su
+
+16.
+	16./nnc
+
+7%로
+	7/nnc+%/su+로/jca
+
+늘었다.
+	늘/pvg+었/ep+다/ef+./sf
+
+20대
+	20/nnc+대/nbu
+
+장기
+	장기/ncn
+
+실업자도
+	실업자/ncn+도/jxc
+
+늘어나고
+	늘/pvg+어/ecx+나/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+1월
+	1/nnc+월/nbu
+
+15
+	15/nnc
+
+29세
+	29/nnc+세/nnc
+
+청년실업률은
+	청년/ncn+실업률/ncn+은/jxc
+
+8%로
+	8/nnc+%/su+로/jca
+
+전년
+	전년/ncn
+
+동월
+	동월/ncn
+
+대비
+	대비/ncn
+
+0.
+	0./nnc
+
+5%포인트
+	5%포인트/ncn
+
+줄었지만,
+	줄/pvg+었/ep+지만/ecs+,/sp
+
+20대
+	20/nnc+대/nbu
+
+중
+	중/nbn
+
+취업
+	취업/ncpa
+
+경험이
+	경험/ncpa+이/jcc
+
+없는
+	없/paa+는/etm
+
+실업자는
+	실업자/ncn+는/jxc
+
+3만9000명으로
+	3/nnc+만/nnc+9000/nnc+명/nbu+으로/jca
+
+전년
+	전년/ncn
+
+같은
+	같/paa+은/etm
+
+달보다
+	달/nbu+보다/jca
+
+24.1%
+	24.1/nnc+%/su
+
+늘었다
+	늘/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:동아일보
+	출처/ncn+:/sp+동아/ncn+일보/ncn

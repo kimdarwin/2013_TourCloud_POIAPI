@@ -1,0 +1,1207 @@
+뮤지컬
+	뮤지컬/ncn
+
+오프OFF
+	오프OFF/ncn
+
+
+공연
+	공연/ncpa
+
+오픈
+	오픈/ncpa
+
+한지
+	하/pvg+ㄴ지/ecs
+
+얼마
+	얼마/ncn
+
+안되서
+	안되서/ncn
+
+방문~
+	방문/ncpa+~/sd
+
+
+청담아트홀은
+	청담아트홀/ncn+은/jxc
+
+처음
+	처음/mag
+
+가봤는데
+	가/pvg+아/ecx+보/px+아/ep+ㄴ데/ecs
+
+작은
+	작/paa+은/etm
+
+콘서트홀
+	콘서트홀/ncn
+
+같은
+	같/paa+은/etm
+
+세련된
+	세련/ncpa+되/xsvn+ㄴ/etm
+
+분위기의
+	분위기/ncn+의/jcm
+
+공연장이
+	공연장/ncn+이/jcc
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+들었다
+	들/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+오늘의
+	오늘/ncn+의/jcm
+
+출연진은
+	출연진/ncn+은/jxc
+
+오성원,
+	오성/ncn+원/ncn+,/sp
+
+김정현,
+	김정현,/ncn
+
+황서인~
+	황/ncn+서/jca+이/jp+ㄴ/etm+~/sd
+
+
+영재,
+	영재/ncn+,/sp
+
+도영,
+	도영/ncpa+,/sp
+
+재이
+	재/ncn+이/jcc
+
+..
+	./sf+./sf
+
+
+세
+	세/nnc
+
+인물만으로
+	인물/ncn+만/ncn+으로/jca
+
+진행되는
+	진행/ncpa+되/xsvn+는/etm
+
+뮤지컬이다
+	뮤지컬/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+시놉시스는
+	시놉시스/ncn+는/jxc
+
+이렇다
+	이렇/pad+다/ef
+
+..
+	./sf+./sf
+
+
+재이(작곡가)의
+	재이(작곡가)/ncn+의/jcm
+
+작업실에
+	작업실/ncn+에/jca
+
+영재(뮤지컬
+	영재(뮤지컬/ncn
+
+연출가)가
+	연출가/ncr+)/sr+가/jcc
+
+갑자기
+	갑자기/mag
+
+일을
+	일/ncn+을/jco
+
+그만둬버린
+	그만두/pvg+어/ecx+버리/px+ㄴ/etm
+
+작곡자를
+	작곡자/ncn+를/jco
+
+대신해
+	대신/ncn+해/ncn
+
+재이에게
+	재/ncn+이에게/jca
+
+함께
+	함께/mag
+
+작업을
+	작업/ncpa+을/jco
+
+하자며
+	하자/ncn+이/jp+며/ecc
+
+찾아온다
+	찾/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+영재와
+	영재/ncn+와/jcj
+
+재이는
+	재/ncn+이/jp+는/etm
+
+이혼한
+	이혼/ncpa+하/xsva+ㄴ/etm
+
+사이
+	사이/ncn
+
+.
+	./sf
+
+
+여기에
+	여기/npd+에/jca
+
+영재의
+	영재/ncn+의/jcm
+
+새
+	새/mma
+
+애인
+	애/ncn+이/jp+ㄴ/etm
+
+도영(음악감독)이
+	도영(음악감독)/ncn+이/jcc
+
+합류하게
+	합류/ncpa+하/xsva+게/ecs
+
+되고
+	되/pvg+고/ecc
+
+공연이
+	공연/ncps+이/jcc
+
+얼마
+	얼마/ncn
+
+남지
+	남/pvg+지/ecx
+
+않은
+	않/px+은/etm
+
+시점에서
+	시점/ncn+에서/jca
+
+미묘한
+	미묘/ncn+한/ncn
+
+관계의
+	관계/ncn+의/jcm
+
+세
+	세/nnc
+
+사람은
+	사람/ncn+은/jxc
+
+함께
+	함께/mag
+
+뮤지컬을
+	뮤지컬/ncn+을/jco
+
+만들어가기
+	만들/pvg+어/ecx+가/px+기/etn
+
+시작하는데
+	시작/ncpa+하/xsva+ㄴ데/ecs
+
+...
+	.../se
+
+
+즉,
+	즉,/ncn
+
+무대
+	무대/ncn
+
+뒤에서
+	뒤/ncn+에서/jca
+
+뮤지컬을
+	뮤지컬/ncn+을/jco
+
+만드는
+	만들/pvg+는/etm
+
+사람들의
+	사람/ncn+들/xsn+의/jcm
+
+이야기
+	이야기/ncpa
+
+..
+	./sf+./sf
+
+
+더블캐스팅이니
+	더블/ncn+캐스팅/ncn+이/jp+니/ecs
+
+혹시
+	혹시/mag
+
+공연
+	공연/ncpa
+
+보실
+	보/px+시/ep+ㄹ/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+참고~
+	참/pvg+고/ecc+~/sd
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+뮤지컬
+	뮤지컬/ncn
+
+오프의
+	오프/ncn+의/jcm
+
+원제는
+	원제/ncn+는/jxc
+
+어쿠스틱
+	어쿠스틱/ncn
+
+리얼리즘
+	리얼리즘/ncn
+
+뮤지컬
+	뮤지컬/ncn
+
+오프OFF
+	오프OFF/ncn
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+어쿠스틱
+	어쿠스틱/ncn
+
+기타와
+	기타/ncn+와/jcj
+
+피아노를
+	피아노/ncn+를/jco
+
+라이브로
+	라이브/ncn+로/jca
+
+연주하는
+	연주/ncpa+하/xsva+는/etm
+
+반주에
+	반주/ncpa+에/jca
+
+맞춰
+	맞추/pvg+어/ecx
+
+뮤지컬
+	뮤지컬/ncn
+
+넘버들이
+	넘버/ncn+들/ncn+이/jcc
+
+진행된다
+	진행/ncpa+되/xsvn+ㄴ다/ef
+
+..
+	./sf+./sf
+
+
+무대
+	무대/ncn
+
+뒤에
+	뒤/ncn+에/jca
+
+피아노와
+	피아노/ncn+와/jcj
+
+기타
+	기타/ncn
+
+연주자들이
+	연주자/ncn+들/ncn+이/jcc
+
+가려져있고출연자들이
+	가려져있고출연자들/ncn+이/jcc
+
+연주를
+	연주/ncpa+를/jco
+
+하는게
+	하/pvg+는게/ecs
+
+아니라
+	아니/paa+라/ecs
+
+전문
+	전문/ncn
+
+연주자들이
+	연주자/ncn+들/ncn+이/jcc
+
+연주를
+	연주/ncpa+를/jco
+
+하고연기자들은
+	하고연기자들/ncn+은/jxc
+
+연주하는
+	연주/ncpa+하/xsva+는/etm
+
+연기만하며
+	연기만하/ncn+이/jp+며/ecc
+
+노래를
+	노래/ncn+를/jco
+
+부른다
+	부르/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+배우들이
+	배우/ncn+들/ncn+이/jcc
+
+뮤지컬
+	뮤지컬/ncn
+
+넘버를
+	넘버/ncn+를/jco
+
+부를때
+	부르/pvg+ㄹ/etm+때/nbn
+
+어쿠스틱
+	어쿠스틱/ncn
+
+사운드가
+	사운드/ncn+가/jcs
+
+연주자들
+	연주자/ncn+들/ncn
+
+뒤쪽에서
+	뒤쪽/ncn+에서/jca
+
+들리기
+	들리/pvg+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+
+배우들의
+	배우/ncn+들/ncn+의/jcm
+
+연기-악기를연주하는-와
+	연기-악기를연주하는-/ncn+와/jcj
+
+싱크가
+	싱크/ncn+가/jcs
+
+맞지
+	맞/pvg+지/ecx
+
+않아
+	않/px+아/ecx
+
+극에
+	극/ncn+에/jca
+
+몰입하는데
+	몰입/ncpa+하/xsva+ㄴ데/ecs
+
+약간
+	약간/mag
+
+어려움이
+	어려움/ncn+이/jcc
+
+있었으나
+	있/px+었/ep+으나/ecs
+
+..
+	./sf+./sf
+
+
+전문
+	전문/ncn
+
+연주자들이
+	연주자/ncn+들/ncn+이/jcc
+
+연주를
+	연주/ncpa+를/jco
+
+해주기
+	하/pvg+어/ecx+주/px+기/etn
+
+때문에몇몇
+	때문에몇몇/ncn
+
+다른
+	다른/mma
+
+뮤지컬에서배우들이
+	뮤지컬에서배우들/ncn+이/jcc
+
+직접연주
+	직접/ncn+연주/ncpa
+
+하는
+	하/pvg+는/etm
+
+것보다
+	것/nbn+보다/jca
+
+
+훨씬
+	훨씬/mag
+
+좋은
+	좋/paa+은/etm
+
+퀄리티의
+	퀄리티/ncn+의/jcm
+
+사운드를
+	사운드/ncn+를/jco
+
+들을
+	들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는점은
+	있는점/ncn+은/jxc
+
+큰
+	크/paa+ㄴ/etm
+
+장점이다
+	장점/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+공연
+	공연/ncpa
+
+시작하자마자
+	시작/ncpa+하/xsva+자마자/ecs
+
+느껴지는
+	느끼/pvg+어/ecx+지/px+는/etm
+
+진지한
+	진지/ncn+한/ncn
+
+분위기
+	분위기/ncn
+
+..
+	./sf+./sf
+
+
+재이와
+	재/ncn+이와/jcj
+
+영재가
+	영재/ncn+가/jcs
+
+이혼한
+	이혼/ncpa+하/xsva+ㄴ/etm
+
+사이라는
+	사/nnc+이/jp+라/ef+는/etm
+
+설정
+	설정/ncpa
+
+때문인지
+	때문/nbn+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+둘사이에는
+	둘/nnc+사/nnc+이/nnc+에/jca+는/jxc
+
+초반부터
+	초반/ncn+부터/jxc
+
+냉랭한
+	냉랭/ncps+하/xsms+ㄴ/etm
+
+긴장이
+	긴장/ncn+이/jcc
+
+감돌았다
+	감돌/pvg+아/ep+다/ef
+
+..
+	./sf+./sf
+
+
+도영이
+	도영/ncn+이/jcc
+
+등장하면서
+	등장/ncpa+하/xsva+면서/ecc
+
+이런
+	이런/mmd
+
+분위기는
+	분위기/ncn+는/jxc
+
+해소가
+	해소/ncpa+가/jcc
+
+되지만초반에는
+	되지만초반/ncn+에/jca+는/jxc
+
+심각한
+	심각/ncps+하/xsms+ㄴ/etm
+
+연극을
+	연극/ncn+을/jco
+
+보는듯한
+	보/px+는/etm+듯/nbs+하/xsms+ㄴ/etm
+
+느낌
+	느끼/pvg+ㅁ/etn
+
+..
+	./sf+./sf
+
+
+다행히
+	다행히/mag
+
+뮤지컬
+	뮤지컬/ncn
+
+넘버가
+	넘버/ncn+가/jcs
+
+너무
+	너무/mag
+
+좋아서
+	좋/paa+아/ecx
+
+이런
+	이런/mmd
+
+냉랭한
+	냉랭/ncps+하/xsms+ㄴ/etm
+
+분위기를
+	분위기/ncn+를/jco
+
+깨주는
+	깨/pvg+어/ecx+주/px+는/etm
+
+역할을
+	역할/ncn+을/jco
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+안무나
+	안무/ncn+나/jcj
+
+크게
+	크/paa+게/ecs
+
+터지는
+	트/pvg+어/ecx+지/px+는/etm
+
+웃음
+	웃음/ncn
+
+등으로
+	등/nbu+으로/jca
+
+꾸며진
+	꾸미/pvg+어/ecx+지/px+ㄴ/etm
+
+기존의
+	기존/ncpa+의/jcm
+
+뮤지컬과는
+	뮤지컬/ncn+과/jct+는/jxc
+
+달리소박한
+	달리소박한/ncn
+
+웃음에
+	웃음/ncn+에/jca
+
+어쿠스틱
+	어쿠스틱/ncn
+
+기타와
+	기타/ncn+와/jcj
+
+피아노
+	피아노/ncn
+
+등
+	등/nbu
+
+아날로그적
+	아날로그/ncn+적/ncn
+
+사운드와
+	사운드/ncn+와/jcj
+
+뮤지컬
+	뮤지컬/ncn
+
+넘버로만
+	넘버/ncn+로/jca+만/jxc
+
+이루어진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+뮤지컬
+	뮤지컬/ncn
+
+..
+	./sf+./sf
+
+
+덕분에
+	덕분/ncn+에/jca
+
+세
+	세/nnc
+
+등장인물
+	등장인물/ncn
+
+간의
+	간/ncn+의/jcm
+
+관계나
+	관계/ncn+나/jcj
+
+갈등
+	가/px+ㄹ/etm+등/nbn
+
+등
+	등/nbu
+
+스토리에
+	스토리/ncn+에/jca
+
+더
+	더/mag
+
+집중
+	집중/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었던것
+	있/px+었/ep+던/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+뮤지컬에서
+	뮤지컬/ncn+에서/jca
+
+많은
+	많/paa+은/etm
+
+경력을
+	경력/ncpa+을/jco
+
+쌓은
+	쌓/pvg+은/etm
+
+오성원
+	오성/ncn+원/ncn
+
+..
+	./sf+./sf
+
+
+오픈
+	오픈/ncpa
+
+초기라
+	초/nbu+이/jp+기/etn+이/jp+라/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+대사
+	대사/ncn
+
+톤이
+	톤/ncn+이/jcc
+
+뮤지컬
+	뮤지컬/ncn
+
+배우보다는
+	배우/ncn+보다/jca+는/jxc
+
+연극배우의
+	연극/ncn+배우/ncn+의/jcm
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+더
+	더/mag
+
+풍겼다
+	풍기/pvg+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+툭툭
+	툭툭/mag
+
+던지는
+	던지/pvg+는/etm
+
+썰렁한
+	썰렁/ncps+하/xsms+ㄴ/etm
+
+유머
+	유머/ncn
+
+덕에
+	덕/ncn+에/jca
+
+살짝
+	살짝/mag
+
+긴장된
+	긴장/ncpa+되/xsvn+ㄴ/etm
+
+분위기를
+	분위기/ncn+를/jco
+
+풀어주는
+	풀/pvg+어/ecx+주/px+는/etm
+
+역할을
+	역할/ncn+을/jco
+
+했던
+	하/px+었/ep+던/etm
+
+...
+	.../se
+
+
+(물론
+	(/sl+물론/mag
+
+애드립이
+	애드립/ncn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+대본에
+	대본/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+유머였겠지
+	유머/ncn+이/jp+었겠/ep+지/ef
+
+..
+	./sf+./sf
+
+
+^^)
+	^/sy+^/sy+)/sr
+
+
+프로필에
+	프로필/ncn+에/jca
+
+나와
+	나/npp+와/jct
+
+있는것처럼
+	있/paa+는/etm+것/nbn+처럼/jca
+
+
+이미
+	이미/mag
+
+어릴때부터
+	어리/paa+ㄹ/etm+때/nbn+부터/jxc
+
+꾸준히
+	꾸준히/mag
+
+각종
+	각종/ncn
+
+음악
+	음악/ncn
+
+대회에서
+	대회/ncn+에서/jca
+
+수상도
+	수상/ncpa+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+앨범도
+	앨범/ncn+도/jxc
+
+낸
+	내/pvg+ㄴ/etm
+
+경력이
+	경력/ncpa+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+
+연륜이
+	연륜/ncn+이/jcc
+
+묻어나는
+	묻/pvg+어/ecx+나/px+는/etm
+
+가창이랄까
+	가창이랄까/ncn
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+가운데
+	가운데/ncn
+
+있는
+	있/px+는/etm
+
+배우가
+	배우/ncn+가/jcs
+
+도영
+	도영/ncn
+
+역의
+	역/ncn+의/jcm
+
+김정현
+	김정현/ncn
+
+..
+	./sf+./sf
+
+
+톡톡
+	톡톡/mag
+
+튀는
+	트/pvg+어/ef+는/etm
+
+연기와
+	연기/ncn+와/jct
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+목소리가
+	목소리/ncn+가/jcs
+
+인상적이었다
+	인상/ncn+적/ncn+이/jp+었/ep+다/ef
+
+..
+	./sf+./sf
+
+
+부러질것
+	부르/pvg+어/ecx+지/px+ㄹ/etm+것/nbn
+
+같이
+	같/paa+이/xsa
+
+말랐던데
+	마르/pvg+아/ep+ㄴ데/ecs
+
+어찌
+	어찌/mag
+
+그런
+	그러/pvd+ㄴ/etm
+
+소리가
+	소리/ncn+가/jcs
+
+나오는지
+	나/pvg+아/ecx+오/px+는지/ecs
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+내가
+	나/npp+가/jcs
+
+관람했을때의
+	관람/ncpa+하/xsva+었/ep+을/etm+때/nbn+의/jcm
+
+캐스팅은
+	캐스팅/ncn+은/jxc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+..
+	./sf+./sf
+
+
+사진이
+	사진/ncn+이/jcc
+
+너무
+	너무/mag
+
+없어
+	없/paa+어/ecx
+
+한장
+	한/nnc+장/nbu
+
+더~^^;;
+	더/ncn+~/sd+^/sy+^/sy+;/sy+;/sy
+
+
+공연명
+	공연명/ncn
+
+:
+	:/sp
+
+어쿠스틱
+	어쿠스틱/ncn
+
+리얼리즘
+	리얼리즘/ncn
+
+뮤지컬
+	뮤지컬/ncn
+
+오프
+	오프/ncn
+
+
+장르
+	장르/ncn
+
+:
+	:/sp
+
+뮤지컬
+	뮤지컬/ncn
+
+
+공연일정
+	공연일정/ncn
+
+:
+	:/sp
+
+2009년
+	2009/nnc+년/nbu
+
+11월
+	11/nnc+월/nbu
+
+20일
+	20/nnc+일/nbu
+
+~
+	~/sd
+
+2009년
+	2009/nnc+년/nbu
+
+1월
+	1/nnc+월/nbu
+
+3일공연시간
+	3일공연시간/ncn
+
+:
+	:/sp
+
+월~금
+	월/nbu+~/sd+금/ncn
+
+8시/
+	8/nnc+시/nbu+//sp
+
+토,
+	트/pvg+어/ecs+,/sp
+
+공휴일
+	공휴일/ncn
+
+4시,
+	4/nnc+시/nbu+,/sp
+
+7시
+	7/nnc+시/nbu
+
+/
+	//sp
+
+일
+	일/nnc
+
+4시공연장소
+	4시공연장소/ncn
+
+:
+	:/sp
+
+KS
+	KS/f
+
+청담아트홀관람시간
+	청담아트홀관람시간/ncn
+
+:
+	:/sp
+
+90분
+	90/nnc+분/nbu
+
+(인터미션없음)
+	(인터미션없음/ncn+)/sr
+
+
+제
+	저/npp+의/jcm
+
+블로그
+	블로그/ncn
+
+주소가
+	주소/ncn+가/jcs
+
+포함되지
+	포함/ncpa+되/xsvn+지/ecx
+
+않은
+	않/px+은/etm
+
+사진들은
+	사/pvg+아/ecx+지/px+ㄴ들/ecs+은/jxc
+
+쇼크리에이티브뮤지컬인사이드
+	쇼크리에이티브뮤지컬인사이드/ncn
+
+제공입니다
+	제공/ncpa+이/jp+ㅂ니다/ef
+
+.
+	./sf

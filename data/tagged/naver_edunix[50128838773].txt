@@ -1,0 +1,424 @@
+신분당선
+	신분/ncn+당선/ncpa
+
+개통으로
+	개통/ncpa+으로/jca
+
+접근성이
+	접근/ncpa+성/ncn+이/jcc
+
+좋아진
+	좋/paa+아/ecx+지/px+ㄴ/etm
+
+청계산에
+	청계/ncn+산/ncn+에/jca
+
+올랐습니다
+	오르/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+손이
+	손/ncn+이/jcc
+
+시려워
+	시려워/ncn
+
+사진을
+	사진/ncn+을/jco
+
+제대로
+	제대로/mag
+
+찍지도
+	찍/pvg+지/ecs+도/jxc
+
+않았는데
+	않/px+아/ep+ㄴ데/ecs
+
+^^*
+	^/sy+^/sy+*/sy
+
+
+몇장의
+	몇/nnc+장/nbu+의/jcm
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+올려봅니다
+	올리/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+닉을
+	닉/ncn+을/jco
+
+아는
+	알/pvg+는/etm
+
+분들만
+	불/pvg+ㄴ/etm+들/nbn+만/jxc
+
+설명을
+	설명/ncpa+을/jco
+
+붙입니다
+	붙이/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^*
+	^/sy+^/sy+*/sy
+
+
+인사나누고
+	인사나누/ncn+이/jp+고/ecc
+
+설명하시는
+	설명/ncpa+하시/ncn+는/jxc
+
+라벤더
+	라벤더/ncn
+
+대장님
+	대장/ncr+님/ncn
+
+.
+	./sf
+
+
+에튜더님은
+	에튜더님/ncn+은/jxc
+
+뒤에서
+	뒤/ncn+에서/jca
+
+모하세요
+	모하세요/ncn
+
+?
+	?/sf
+
+
+굴렁쇠님과
+	굴렁쇠/ncn+님/ncn+과/jcj
+
+가이바비님
+	가이바비님/ncn
+
+
+라피스님과
+	라피스님/ncn+과/jcj
+
+패트릭님(맞죠
+	패트릭님(맞죠/ncn
+
+?)
+	?/sf+)/sr
+
+
+하늘구름님과
+	하늘/ncn+구름/ncn+님/ncn+과/jcj
+
+성냥팔이
+	성냥팔이/ncn
+
+아줌마인
+	아줌마/ncn+이/jp+ㄴ/etm
+
+별밤님
+	별밤님/ncn
+
+
+노송
+	노송/ncn
+
+대장님
+	대장/ncr+님/ncn
+
+
+오랫만에
+	오랫만/ncn+에/jca
+
+본
+	보/px+ㄴ/etm
+
+행수님의
+	행수님/ncn+의/jcm
+
+표정이
+	표정/ncn+이/jcc
+
+재밌습니다
+	재밌습니/ncn+이/jp+다/ef
+
+^^*
+	^/sy+^/sy+*/sy
+
+
+미소짓는
+	미소/ncn+짓/ncn+는/jxc
+
+청춘발랄님
+	청춘/ncn+발랄/ncps+님/ncn
+
+
+라임님과
+	라임/ncn+님/ncn+과/jcj
+
+리앙님
+	리앙님/ncn
+
+그리고
+	그리고/maj
+
+...
+	.../se
+
+
+??
+	?/sf+?/sf
+
+
+라벤더
+	라벤더/ncn
+
+대장님과
+	대장/ncr+님/ncn+과/jcj
+
+에튜더님
+	에튜더님/ncn
+
+
+에튜더님과
+	에튜더님/ncn+과/jct
+
+고만고만한
+	고만고만하/paa+ㄴ/etm
+
+키의
+	키/ncn+의/jcm
+
+하늘구름님별밤님
+	하늘구름님별밤님/ncn
+
+
+저도
+	저/npp+도/jxc
+
+한컷
+	한/nnc+컷/nbu
+
+찍어보고
+	찍/pvg+어/ecx+보/px+고/ecc
+
+...
+	.../se
+
+
+^^*
+	^/sy+^/sy+*/sy
+
+
+꽃창포님(맞죠
+	꽃창포님(맞죠/ncn
+
+?)
+	?/sf+)/sr
+
+
+과
+	고/pvg+아/ecx
+
+굴렁쇠님
+	굴렁쇠/ncn+님/ncn
+
+
+미투님과
+	미투님/ncn+과/jcj
+
+행수님
+	행수님/ncn
+
+
+GPS
+	GPS/f
+
+트랙
+	트랙/ncn
+
+데이터를
+	데이터/ncn+를/jco
+
+올립니다
+	올리/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+위성
+	위성/ncn
+
+이미지입니다
+	이미지입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+구글어스에서
+	구글어스/ncn+에서/jca
+
+본
+	보/px+ㄴ/etm
+
+3D
+	3D/ncn
+
+이미지입니다
+	이미지입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+네이버
+	네이버/ncn
+
+맵에
+	맵/ncn+에/jca
+
+트랙을
+	트랙/ncn+을/jco
+
+입힌
+	입히/pvg+ㄴ/etm
+
+이미지입니다
+	이미지입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이날
+	이/nnc+날/nbu
+
+약
+	약/ncn
+
+9
+	9/nnc
+
+km
+	km/f
+
+정도
+	정도/ncn
+
+걸었습니다
+	걷/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+원터골에서
+	원터골/ncn+에서/jca
+
+트랙을
+	트랙/ncn+을/jco
+
+기록하지
+	기록/ncpa+하/xsva+지/ecx
+
+않고
+	않/px+고/ecc
+
+좀
+	좀/mag
+
+늦게
+	늦/paa+게/ecs
+
+GPS를
+	GPS/f+를/jco
+
+켜는
+	크/paa+어/ef+는/etm
+
+바람에
+	바라/pvg+ㅁ/etn+에/jca
+
+일부
+	일/nnc+부/nbu
+
+들머리
+	들머리/ncn
+
+구간이
+	구간/ncn+이/jcc
+
+누락되었네요
+	누락/ncpa+되/xsvn+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+쌀쌀한
+	쌀쌀하/paa+ㄴ/etm
+
+날씨였음에도
+	날씨/ncn+이/jp+었/ep+음/etn+에/jca+도/jxc
+
+함께
+	함께/mag
+
+하신
+	하/px+시/ep+ㄴ/etm
+
+모든
+	모든/mma
+
+분들
+	불/pvg+ㄴ들/ecs
+
+수고
+	수/nbn+이/jp+고/ecc
+
+많으셨습니다
+	많/paa+으셨/ep+습니다/ef
+
+.
+	./sf
+
+
+다음에
+	다음/ncn+에/jca
+
+또
+	또/maj
+
+좋은
+	좋/paa+은/etm
+
+산행길에서
+	산행/ncn+길/ncn+에서/jca
+
+뵙도록
+	뵙도록/ncn
+
+하겠습니다
+	하/px+겠/ep+습니다/ef
+
+.
+	./sf

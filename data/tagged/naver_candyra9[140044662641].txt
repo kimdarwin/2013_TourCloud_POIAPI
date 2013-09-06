@@ -1,0 +1,653 @@
+"과일로
+	"/sl+과일/ncn+로/jca
+
+맛
+	맛/ncn
+
+낸
+	내/pvg+ㄴ/etm
+
+드레싱"
+	드레싱/ncn+"/sl
+
+
+재료
+	재료/ncn
+
+:
+	:/sp
+
+야채(양상치,
+	야채(양상치,/ncn
+
+오이,
+	오/nnc+이/jcc+,/sp
+
+치커리,
+	치커리,/ncn
+
+피망
+	피망/ncn
+
+등),
+	등/nbu+)/sr+,/sp
+
+삶은
+	삶/ncn+은/jxc
+
+달걀,
+	달걀/ncn+,/sp
+
+양파,
+	양파/ncn+,/sp
+
+체리토마토,
+	체리/ncn+토마토/ncn+,/sp
+
+베이컨
+	베이컨/ncn
+
+
+소스
+	소스/ncn
+
+:
+	:/sp
+
+배
+	배/ncn
+
+한쪽(1/4개),
+	한/nnc+쪽/xsnx+(/sl+1/nnc+//sp+4/nnc+개/nbu+)/sr+,/sp
+
+양파
+	양파/ncn
+
+조금(배나
+	조금(배/ncn+나/jcj
+
+과일양의
+	과일/ncn+양/ncn+의/jcm
+
+1/4정도),
+	1/nnc+//sp+4/nnc+정/nbu+도/jxc+)/sr+,/sp
+
+올리브유
+	올리브유/ncn
+
+2큰술,
+	2큰술,/ncn
+
+식초
+	식초/ncn
+
+2큰술,
+	2큰술/ncn+,/sp
+
+
+설탕
+	설탕/ncn
+
+2큰술,
+	2큰술,/ncn
+
+소금
+	소금/ncn
+
+1/2작은술,
+	1/2작은술,/ncn
+
+레몬즙
+	레몬/ncn+즙/ncn
+
+1큰술,
+	1큰술,/ncn
+
+양겨자
+	양/xp+겨/ncn+이/jp+자/ecc
+
+1/2작은술
+	1/2작은술/ncn
+
+
+-
+	-/sd
+
+배가
+	배/ncn+가/jcs
+
+아닌
+	아니/paa+ㄴ/etm
+
+딸기,
+	딸기/ncn+,/sp
+
+키위,
+	키위/ncn+,/sp
+
+사과,
+	사과/ncn+,/sp
+
+파인애플
+	파인애플/ncn
+
+무엇으로던
+	무엇/npd+으로/jca+이/jp+던/etm
+
+대체
+	대체/mag
+
+가능하니
+	가능/ncps+하/xsms+니/ecs
+
+제철
+	제철/ncn
+
+과일리면
+	과/ncn+이/jp+ㄹ/etm+리/nbn+이/jp+면/ecs
+
+더
+	더/mag
+
+좋겟지요
+	좋겟지요/ncn
+
+.
+	./sf
+
+
+-
+	-/sd
+
+
+양상추는
+	양상추/ncn+는/jxc
+
+얼음물이나
+	얼음/ncn+물/ncn+이나/jcj
+
+냉수에
+	냉수/ncn+에/jca
+
+씻어
+	씻/pvg+어/ecx
+
+큼직하게
+	큼직/ncps+하/xsms+게/ecs
+
+찢어
+	찢/pvg+어/ecx
+
+두고,
+	두/nbu+고/jcj+,/sp
+
+
+치커리도
+	치커리/ncn+도/jxc
+
+뜯어
+	뜯/pvg+어/ecx
+
+두세요
+	두/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+오이는
+	오/nnc+이/jp+는/etm
+
+껍질
+	껍질/ncn
+
+부분의
+	부분/ncn+의/jcm
+
+오돌한
+	오돌한/ncn
+
+부분을
+	부분/ncn+을/jco
+
+대충
+	대충/mag
+
+벗긴
+	벗기/pvg+ㄴ/etm
+
+후
+	후/ii
+
+
+반
+	반/ncn
+
+갈라
+	갈/pvg+라/ecs
+
+어슷
+	어슷/ncn
+
+썰기
+	썰/pvg+기/etn
+
+(반달모양)
+	(/sl+반달모양/ncn+)/sr
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+양상추
+	양상추/ncn
+
+위에
+	위/ncn+에/jca
+
+치커리와
+	치커리/ncn+와/jcj
+
+오이
+	오/nnc+이/jcc
+
+올리고,
+	올리/pvg+고/ecc+,/sp
+
+
+피망과
+	피망/ncn+과/jcj
+
+양파도
+	양파/ncn+도/jxc
+
+가늘게
+	가늘/paa+게/ecs
+
+썰어
+	썰/pvg+어/ecx
+
+올리세요
+	올리/pvg+세/ef+요/jxf
+
+.
+	./sf
+
+
+체리토마토는
+	체리/ncn+토마토/ncn+는/jxc
+
+그린에
+	그린/ncn+에/jca
+
+포인트
+	포인트/nbu
+
+색을
+	색/ncn+을/jco
+
+내기
+	내/npp+이/jp+기/etn
+
+위해
+	위하/pvg+어/ecs
+
+
+조금만
+	조금/mag+만/jxc
+
+썰어
+	썰/pvg+어/ecx
+
+올려
+	올리/pvg+어/ecx
+
+보시면
+	보/px+시/ep+면/ecs
+
+좋을
+	좋/paa+을/etm
+
+듯
+	듯/nbn
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+베이컨은
+	베이컨/ncn+은/jxc
+
+미리
+	미리/mag
+
+불에
+	불/ncn+에/jca
+
+바삭하게
+	바삭하/ncn+이/jp+게/ecs
+
+구워
+	굽/paa+어/ecs
+
+
+식혀
+	식히/pvg+어/ecx
+
+두면
+	두/pvg+면/ecs
+
+사용하기
+	사용/ncpa+하/xsva+기/etn
+
+좋아요
+	좋/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+샐러드의
+	샐러드/ncn+의/jcm
+
+생생함을
+	생생하/paa+ㅁ/etn+을/jco
+
+살리기
+	사/pvg+ㄹ/etm+리/nbn+이/jp+기/etn
+
+위해
+	위하/pvg+어/ecs
+
+
+식은
+	식/nbn+은/jxc
+
+베이컨을
+	베이컨/ncn+을/jco
+
+잘게
+	잘/paa+게/ecs
+
+썰어
+	썰/pvg+어/ecx
+
+올리구요
+	올리구요/ncn
+
+.
+	./sf
+
+
+삶은
+	삶/ncn+은/jxc
+
+달걀은
+	달걀/ncn+은/jxc
+
+흰자만
+	희/paa+ㄴ/etm+자/nbn+만/jxc
+
+얇게
+	얇/paa+게/ecs
+
+썰어
+	썰/pvg+어/ecx
+
+올려
+	올리/pvg+어/ecx
+
+주세요
+	주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+야채만
+	야채/ncn+만/jxc
+
+씹히는
+	씹히/pvg+는/etm
+
+것
+	것/nbn
+
+보다가
+	보/px+다가/ecs
+
+단백질도
+	단백질/ncn+도/jxc
+
+함께
+	함께/mag
+
+씹혀야
+	씹히/pvg+어야/ecs
+
+
+더
+	더/mag
+
+즐거움이
+	즐거움/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+듯
+	듯/nbn
+
+하다는
+	하/px+다/ef+는/etm
+
+제
+	저/npp+의/jcm
+
+생각이지요
+	생각/ncpa+이/jp+지/ef+요/jxf
+
+...
+	.../se
+
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+소스
+	소스/ncn
+
+재료는
+	재료/ncn+는/jxc
+
+모두
+	모두/mag
+
+믹서기에
+	믹서/ncn+이/jp+기/etn+에/jca
+
+담아
+	담/pvg+아/ecx
+
+가볍게
+	가볍/paa+게/ecs
+
+갈아
+	갈/pvg+아/ecx
+
+준
+	주/px+ㄴ/etm
+
+후,
+	후/ii+,/sp
+
+
+먹기
+	먹/pvg+기/etn
+
+전에
+	전/nbn+에/jca
+
+야채
+	야채/ncn
+
+위에
+	위/ncn+에/jca
+
+드레싱
+	드레싱/ncn
+
+해서
+	하/pvg+어서/ecs
+
+내세요
+	내/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+미리
+	미리/mag
+
+뿌려
+	뿌리/pvg+어/ecx
+
+두면
+	두/pvg+면/ecs
+
+물이
+	물/ncn+이/jcc
+
+생겨
+	생기/pvg+어/ecx
+
+맛
+	맛/ncn
+
+없어요
+	없/paa+어/ef+요/jxf
+
+.
+	./sf
+
+
+먹기
+	먹/pvg+기/etn
+
+바로
+	바로/mag
+
+전에
+	전/nbn+에/jca
+
+뿌려서
+	뿌리/pvg+어서/ecs
+
+먹어야
+	먹/ncn+어야/jxc
+
+
+맛도
+	맛/ncn+도/jxc
+
+더
+	더/mag
+
+새콤달콤하고
+	새콤달콤하/ncn+이/jp+고/ecc
+
+물이
+	물/ncn+이/jcc
+
+안
+	안/mag
+
+생겨
+	생기/pvg+어/ecx
+
+좋아효~^^
+	좋아효/ncn+~/sd+^/sy+^/sy
+
+
+아,
+	아/ii+,/sp
+
+삶은
+	삶/ncn+은/jxc
+
+달걀의
+	달걀/ncn+의/jcm
+
+노른자도
+	노른자/ncn+도/jxc
+
+이때
+	이때/ncn
+
+뿌려
+	뿌리/pvg+어/ecx
+
+주세요
+	주/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+체에
+	체/ncn+에/jca
+
+받쳐
+	받치/pvg+어/ecx
+
+샐러드
+	샐러드/ncn
+
+위에
+	위/ncn+에/jca
+
+내리기만
+	내리/pvg+기/etn+만/jxc
+
+하면
+	하/pvg+면/ecs
+
+예쁜
+	예쁘/paa+ㄴ/etm
+
+노랑이
+	노랑/ncn+이/jcc
+
+솔솔~~~
+	솔솔/ncn+~/sd+~/sd+~/sd
+
+
+샐러드를
+	샐러드/ncn+를/jco
+
+더
+	더/mag
+
+맛깔스러워
+	맛깔스러워/ncn
+
+보이게
+	보이/pvg+게/ecs
+
+한다죵
+	한다죵/ncn
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy

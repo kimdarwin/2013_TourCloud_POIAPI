@@ -1,0 +1,1172 @@
+도림천
+	도림/ncn+천/ncn
+
+하류부
+	하류/ncn+부/ncn
+
+(신정교~신도림교)
+	(신정교~신도림교/ncn+)/sr
+
+
+도림천
+	도림/ncn+천/ncn
+
+상류부
+	상류/ncn+부/ncn
+
+(봉천
+	(/sl+봉천/ncn
+
+합류부~봉림교)
+	합류부~봉림교/ncn+)/sr
+
+
+도림천현황
+	도림천현황/ncn
+
+
+도림천이
+	도림/ncn+천/ncn+이/jcc
+
+사시사철
+	사시사철/ncn
+
+물이
+	물/ncn+이/jcc
+
+흐르는
+	흐르/pvg+는/etm
+
+친환경
+	친환경/ncn
+
+생태하천으로
+	생태/ncn+하천/ncn+으로/jca
+
+되살아난다
+	되살/pvg+아/ecx+나/px+ㄴ다/ef
+
+.
+	./sf
+
+
+서울시는
+	서울시/ncn+는/jxc
+
+흐르는
+	흐르/pvg+는/etm
+
+물이
+	물/ncn+이/jcc
+
+없어
+	없/paa+어/ecx
+
+버려진
+	버리/px+어/ecx+지/px+ㄴ/etm
+
+하천이나
+	하천/ncn+이나/jcj
+
+다름없었던
+	다름없/paa+었/ep+던/etm
+
+도림천을
+	도림/ncn+천/ncn+을/jco
+
+
+동
+	동/nbu
+
+식물이
+	식물/ncn+이/jcc
+
+살아
+	살/pvg+아/ecx
+
+숨쉬는
+	숨쉬/pvg+는/etm
+
+생태하천으로
+	생태/ncn+하천/ncn+으로/jca
+
+탈바꿈
+	탈바꿈/ncpa
+
+시킨다
+	시키/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+도림천은
+	도림/ncn+천/ncn+은/jxc
+
+지난
+	지나/pvg+ㄴ/etm
+
+80년대
+	80/nnc+년대/nbu
+
+지하철
+	지하철/ncn
+
+2호선이
+	2호선/ncn+이/jcc
+
+하천
+	하천/ncn
+
+상부를
+	상부/ncn+를/jco
+
+통과하고,
+	통과/ncpa+하고/jcj+,/sp
+
+
+90년대
+	90/nnc+년대/nbu
+
+이후
+	이후/ncn
+
+신도림역~신림역까지
+	신/xp+도림/ncn+역/ncn+~/sd+신림/ncn+역/ncn+까지/jxc
+
+도림천
+	도림/ncn+천/ncn
+
+주변이
+	주변/ncn+이/jcc
+
+복개돼
+	복개/ncpa+되/xsvn+어/ecx
+
+하천이
+	하천/ncn+이/jcc
+
+그늘지고
+	그늘지/pvg+고/ecc
+
+음산했다
+	음산/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+이에
+	이/npd+에/jca
+
+시민들의
+	시민/ncn+들/ncn+의/jcm
+
+발길도
+	발길/ncn+도/jxc
+
+뜸해
+	뜸/ncpa+하/xsva+어/ecx
+
+적막감마저
+	적막감/ncn+마저/jxc
+
+흐르고
+	흐르/pvg+고/ecc
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+이러한
+	이러하/pad+ㄴ/etm
+
+하천을
+	하천/ncn+을/jco
+
+시민들에게
+	시민/ncn+들/ncn+에게/jca
+
+돌려주기
+	돌리/pvg+어/ecx+주/px+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+서울시는
+	서울시/ncn+는/jxc
+
+총
+	총/mma
+
+335억원을
+	335/nnc+억/nnc+원/nbu+을/jco
+
+투입,
+	투입/ncpa+,/sp
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+2008년부터
+	2008/nnc+년/nbu+부터/jxc
+
+본격적인
+	본격/ncn+적/ncn+이/jp+ㄴ/etm
+
+생태하천
+	생태/ncn+하천/ncn
+
+복원
+	복원/ncpa
+
+사업을
+	사업/ncn+을/jco
+
+시작했고
+	시작/ncpa+하/xsva+었/ep+고/ecc
+
+5월
+	5/nnc+월/nbu
+
+말
+	말/px+ㄹ/etm
+
+도림천은
+	도림/ncn+천은/ncn
+
+
+맑은
+	맑/paa+은/etm
+
+물이
+	물/ncn+이/jcc
+
+흐르는
+	흐르/pvg+는/etm
+
+생태하천으로
+	생태/ncn+하천/ncn+으로/jca
+
+재탄생한다
+	재탄생/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+생태하천으로
+	생태/ncn+하천/ncn+으로/jca
+
+새롭게
+	새롭/paa+게/ecs
+
+재단장한
+	재단장/ncpa+하/xsva+ㄴ/etm
+
+도림천은
+	도림/ncn+천/ncn+은/jxc
+
+총11km로
+	총11km/ncn+로/jca
+
+도림천
+	도림/ncn+천/ncn
+
+전
+	전/nbn
+
+구간에
+	구간/ncn+에/jca
+
+
+자전거도로와
+	자전거/ncn+도로/ncn+와/jcj
+
+산책로가
+	산책로/ncn+가/jcs
+
+생겨
+	생기/pvg+어/ecx
+
+시민들에게
+	시민/ncn+들/ncn+에게/jca
+
+휴식과
+	휴식/ncpa+과/jcj
+
+문화
+	문화/ncn
+
+공간을
+	공간/ncn+을/jco
+
+제공한다
+	제공/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+구로
+	구/ncn+로/jca
+
+영등포
+	영등/ncn+포/ncn
+
+구간은
+	구간/ncn+은/jxc
+
+신도림역
+	신/xp+도림/ncn+역/ncn
+
+주변
+	주변/ncn
+
+민간공사와
+	민간공사/ncn+와/jct
+
+연계해
+	연계/ncpa+하/xsva+어/ecx
+
+특화
+	특화/ncn
+
+공원을
+	공원/ncn+을/jco
+
+만들고,
+	만들/pvg+고/ecc+,/sp
+
+
+문화
+	문화/ncn
+
+공연
+	공연/ncpa
+
+등을
+	등/nbu+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+야외무대도
+	야외무대/ncn+도/jxc
+
+설치해
+	설치/ncpa+하/xsva+어/ecx
+
+시민들이
+	시민/ncn+들/ncn+이/jcc
+
+가족단위로
+	가족단위/ncn+로/jca
+
+나와
+	나와/ncn
+
+
+도심
+	돌/pvg+시/ep+ㅁ/etn
+
+속에서
+	속/ncn+에서/jca
+
+편히
+	편히/mag
+
+쉴
+	쉬/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+소중한
+	소중/ncn+한/ncn
+
+휴식공간을
+	휴식공간/ncn+을/jco
+
+만든다
+	만들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+관악구간에는
+	관악구/ncn+간/ncn+에/jca+는/jxc
+
+벤치
+	벤치/ncn
+
+및
+	및/maj
+
+분수를
+	분수/ncn+를/jco
+
+만들어
+	만들/pvg+어/ecx
+
+주민들이
+	주민/ncn+들/ncn+이/jcc
+
+산책하다
+	산책/ncpa+하/xsva+어다/ecs
+
+쉴
+	쉬/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+휴식
+	휴식/ncpa
+
+공간을
+	공간/ncn+을/jco
+
+제공하고
+	제공/ncpa+하고/jcj
+
+
+동작
+	동작/ncpa
+
+구간은
+	구간/ncn+은/jxc
+
+소규모
+	소규모/ncn
+
+계류시설을
+	계류/ncpa+시설/ncpa+을/jco
+
+설치해
+	설치/ncpa+하/xsva+어/ecx
+
+물과
+	물/ncn+과/jct
+
+접할
+	접하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+환경을
+	환경/ncn+을/jco
+
+조성한다
+	조성/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+기존의
+	기존/ncpa+의/jcm
+
+도림천은
+	도림/ncn+천/ncn+은/jxc
+
+주변에
+	주변/ncn+에/jca
+
+지하철시설과
+	지하철/ncn+시설/ncpa+과/jcj
+
+복개구조물
+	복개/ncpa+구조물/ncn
+
+등이
+	등/nbu+이/jcc
+
+있어
+	있/px+어/ecx
+
+시민들의
+	시민/ncn+들/ncn+의/jcm
+
+접근이
+	접근/ncpa+이/jcc
+
+불편했다
+	불편/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+이에
+	이/npd+에/jca
+
+교량
+	교량/ncn
+
+변으로
+	변/ncn+으로/jca
+
+진입로
+	진입로/ncn
+
+18개소를
+	18/nnc+개소/nbu+를/jco
+
+추가로
+	추가/ncpa+로/jca
+
+설치하는
+	설치/ncpa+하/xsva+는/etm
+
+등
+	등/nbu
+
+기존
+	기존/ncpa
+
+진입로를
+	진입로/ncn+를/jco
+
+대폭
+	대폭/mag
+
+개선했다
+	개선/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+시민
+	시민/ncn
+
+편의를
+	편의/ncn+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+산책로와
+	산책로/ncn+와/jcj
+
+자전거
+	자전거/ncn
+
+도로를
+	도로/ncn+를/jco
+
+분리했고,
+	분리/ncpa+하/xsva+었/ep+고/ecc+,/sp
+
+반
+	반/ncn
+
+복개구간에는
+	복개/ncpa+구간/ncn+에/jca+는/jxc
+
+조명을
+	조/nnc+명/nbu+을/jco
+
+설치해
+	설치/ncpa+해/ncn
+
+
+하천을
+	하천/ncn+을/jco
+
+이용하는
+	이용/ncpa+하/xsva+는/etm
+
+시민들이
+	시민/ncn+들/ncn+이/jcc
+
+편리하게
+	편리/ncps+하/xsms+게/ecs
+
+이용할
+	이용/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+정비했다
+	정비/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+여울과
+	여울/ncn+과/jcj
+
+소,
+	소/ncn+,/sp
+
+징검다리를
+	징검다리/ncn+를/jco
+
+만들고
+	만들/pvg+고/ecc
+
+초화류를
+	초화/ncpa+류/xsncc+를/jco
+
+식재해
+	식재/ncpa+하/xsva+어/ecx
+
+식물과
+	식물/ncn+과/jcj
+
+곤충이
+	곤충/ncn+이/jcc
+
+살아갈
+	살/pvg+아/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+환경으로
+	환경/ncn+으로/jca
+
+조성한다
+	조성/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+이와
+	이/npd+와/jct
+
+함께
+	함께/mag
+
+벽천분수와
+	벽천분수/ncn+와/jcj
+
+물놀이장을
+	물놀이/ncpa+장/ncn+을/jco
+
+만들어
+	만들/pvg+어/ecx
+
+도림천을
+	도림/ncn+천/ncn+을/jco
+
+문화와
+	문화/ncn+와/jcj
+
+낭만이
+	낭만/ncn+이/jcc
+
+흐르는
+	흐르/pvg+는/etm
+
+문화
+	문화/ncn
+
+공간으로
+	공간/ncn+으로/jca
+
+조성,
+	조성/ncpa+,/sp
+
+
+온
+	오/px+ㄴ/etm
+
+가족이
+	가족/ncn+이/jcc
+
+멀리가지
+	멀리가/ncn+이/jp+지/ecs
+
+않고도
+	않/px+고/ecs+도/jxc
+
+수변문화를
+	수변/ncn+문화/ncn+를/jco
+
+만끽할
+	만끽/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+환경으로
+	환경/ncn+으로/jca
+
+만든다
+	만들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+도림천에
+	도림/ncn+천/ncn+에/jca
+
+맑은
+	맑/paa+은/etm
+
+물이
+	물/ncn+이/jcc
+
+흐르게
+	흐르/pvg+게/ecs
+
+되면
+	되/pvg+면/ecs
+
+영등포
+	영등/ncn+포/ncn
+
+관악
+	관악/ncn
+
+구로
+	구/ncn+로/jca
+
+동작구
+	동작구/ncn
+
+등에
+	등/nbu+에/jca
+
+사는
+	사/pvg+는/etm
+
+200만
+	200/nnc+만/jxc
+
+시민들이
+	시민/ncn+들이/ncn
+
+
+내
+	내/npp
+
+집
+	집/ncn
+
+앞에
+	앞/ncn+에/jca
+
+휴식공간을
+	휴식공간/ncn+을/jco
+
+갖게
+	갖/pvg+게/ecs
+
+돼
+	되/pvg+어/ecx
+
+시민들의
+	시민/ncn+들/ncn+의/jcm
+
+삶의
+	삶/ncn+의/jcm
+
+질이
+	질/nbu+이/jcc
+
+높아지고,
+	높아지/pvg+고/ecc+,/sp
+
+
+도시
+	도시/ncn
+
+속
+	속/ncn
+
+열섬화
+	열섬화/ncn
+
+현상도
+	현상/ncn+도/jxc
+
+완화돼
+	완화/ncpa+되/xsvn+어/ecx
+
+촉촉하고
+	촉촉하/paa+어/ef+고/jcr
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+도시로
+	도시/ncn+로/jca
+
+변화하는
+	변화/ncpa+하/xsva+는/etm
+
+효과를
+	효과/ncn+를/jco
+
+거둘
+	거두/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+도림천은
+	도림/ncn+천/ncn+은/jxc
+
+관악산
+	관악/ncn+산/ncn
+
+계곡에서
+	계곡/ncn+에서/jca
+
+도림천
+	도림/ncn+천/ncn
+
+안양천
+	안양천/ncn
+
+한강으로
+	한강/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+물길로
+	물길/ncn+로/jca
+
+도림천이
+	도림/ncn+천/ncn+이/jcc
+
+복원되면
+	복원/ncpa+되/xsvn+면/ecs
+
+
+도림천과
+	도림/ncn+천/ncn+과/jcj
+
+관악산을
+	관악/ncn+산/ncn+을/jco
+
+잇는
+	잇/pvg+는/etm
+
+녹지축이
+	녹지/ncn+축/ncn+이/jcc
+
+연결돼
+	연결/ncpa+되/xsvn+어/ecx
+
+도심
+	돌/pvg+시/ep+ㅁ/etn
+
+속
+	속/ncn
+
+새로운
+	새롭/paa+은/etm
+
+수변공간이
+	수변공간/ncn+이/jcc
+
+탄생된다
+	탄생/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+2012년
+	2012/nnc+년/nbu
+
+완성되는
+	완성/ncpa+되/xsvn+는/etm
+
+안양천
+	안양천/ncn
+
+뱃길과
+	뱃길/ncn+과/jct
+
+연결되면
+	연결/ncpa+되/xsvn+면/ecs
+
+이
+	이/mmd
+
+지역은
+	지역/ncn+은/jxc
+
+도심
+	돌/pvg+시/ep+ㅁ/etn
+
+속
+	속/ncn
+
+수변문화공간으로
+	수변/ncn+문화공간/ncn+으로/jca
+
+변모할
+	변모/ncpa+하/xsva+ㄹ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+도림천에
+	도림/ncn+천/ncn+에/jca
+
+공급되는
+	공급/ncpa+되/xsvn+는/etm
+
+물은
+	물/ncn+은/jxc
+
+한강물과
+	한강물/ncn+과/jcj
+
+관악산
+	관악/ncn+산/ncn
+
+계곡에서
+	계곡/ncn+에서/jca
+
+흘러내리는
+	흐르/pvg+어/ecx+내리/px+는/etm
+
+계곡수,
+	계곡/ncn+수/ncn+,/sp
+
+
+지하철에서
+	지하철/ncn+에서/jca
+
+발생되는
+	발생/ncpa+되/xsvn+는/etm
+
+유출
+	유출/ncpa
+
+지하수를
+	지하수/ncn+를/jco
+
+활용
+	활용/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+예정이다
+	예정/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+한강으로부터
+	한강으로부터/ncn
+
+30,000톤의
+	30,000/nnc+톤/nbu+의/jcm
+
+물을
+	물/ncn+을/jco
+
+가져와
+	가/pvg+아/ecx+지/px+어/ecx+오/px+아/ecx
+
+구로
+	구/ncn+로/jca
+
+디지털단지역
+	디지털/ncn+단지/ncn+역/ncn
+
+주변에
+	주변/ncn+에/jca
+
+16,000톤,
+	16,000/nnc+톤/nbu+,/sp
+
+
+관악구
+	관악구/ncn
+
+동방1교
+	동방1교/ncn
+
+주변에
+	주변/ncn+에/jca
+
+14,000톤의
+	14,000/nnc+톤/nbu+의/jcm
+
+물을
+	물/ncn+을/jco
+
+흘려
+	흘리/pvg+어/ecx
+
+보낸다
+	보내/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+서울시
+	서울시/ncn
+
+물관리국은
+	물관리/ncn+국/ncn+은/jxc
+
+건천인
+	건천/ncn+이/jp+ㄴ/etm
+
+도림천에
+	도림/ncn+천/ncn+에/jca
+
+물이
+	물/ncn+이/jcc
+
+흐르게
+	흐르/pvg+게/ecs
+
+되면
+	되/pvg+면/ecs
+
+휴식과
+	휴식/ncpa+과/jcj
+
+여가를
+	여가/ncn+를/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/paa+는/etm
+
+
+하천,
+	하천/ncn+,/sp
+
+사람과
+	사람/ncn+과/jcj
+
+동
+	동/nbu
+
+식물이
+	식물/ncn+이/jcc
+
+함께
+	함께/mag
+
+공생할
+	공생/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+하천으로
+	하천/ncn+으로/jca
+
+탈바꿈
+	탈바꿈/ncpa
+
+하게
+	하/pvg+게/ecs
+
+될
+	되/pvg+ㄹ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+[윤한나
+	[윤한/ncn+나/jcj
+
+그린리포터
+	그린/ncn+리포터/ncn
+
+/
+	//sp
+
+녹색뉴스포털
+	녹색뉴스포털/ncn
+
+그린투데이
+	그린/ncn+투데이/ncn
+
+http://giti.
+	http/f+:/sp+//sp+//sp+giti/f+./sy
+
+kr
+	kr/f
+
+배포/전재
+	배포/ncpa+//sp+전재/ncn
+
+환영]
+	환영/ncpa+]/sr
+
+
+출처
+	출처/ncn
+
+:
+	:/sp
+
+그린투데이
+	그린/ncn+투데이/ncn

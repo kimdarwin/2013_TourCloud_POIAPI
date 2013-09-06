@@ -1,0 +1,775 @@
+계룡산
+	계룡/ncn+산/ncn
+
+동학사입구쪽
+	동학사/ncn+입구/ncn+쪽/ncn
+
+등산을
+	등산/ncpa+을/jco
+
+마치고
+	마치/pvg+고/ecc
+
+저녁식사할
+	저녁식사/ncpa+하/xsva+ㄹ/etm
+
+곳을
+	곳/ncn+을/jco
+
+찾았습니다
+	찾/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+동학사입구쪽
+	동학사/ncn+입구/ncn+쪽/ncn
+
+음식점이
+	음식/ncn+점/ncn+이/jcc
+
+여러
+	여러/mma
+
+군데가
+	군데/nbn+가/jcc
+
+있는데,
+	있/px+는데/ecs+,/sp
+
+어딜
+	어딜/ncn
+
+가야할지
+	가/pvg+아/ecx+하/px+ㄹ지/ecs
+
+모르겠더군요
+	모르/pvg+겠/ep+더군/ef+요/jxf
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+친구들이랑
+	친구/ncn+들이/ncn+랑/jxc
+
+이건
+	이/npd+이/jp+건/ecc
+
+그렇고
+	그렇/pad+고/ecc
+
+저건
+	저/npp+이/jp+건/ecc
+
+싫고
+	싫/paa+고/ecc
+
+요런
+	요런/ii
+
+얘기를
+	얘/ncn+이/jp+기/etn+를/jco
+
+하다가
+	하/pvg+다가/ecc
+
+
+닭도리탕이
+	닭도리탕/ncn+이/jcc
+
+땡긴다고
+	땡긴다/ncn+이/jp+고/ecc
+
+해서
+	하/pvg+어서/ecs
+
+숙소
+	숙소/ncn
+
+근처
+	근처/ncn
+
+큰
+	크/paa+ㄴ/etm
+
+길
+	길/ncn
+
+뒷편에
+	뒷편/ncn+에/jca
+
+숨어있는
+	숨/pvg+어/ecx+있/px+는/etm
+
+촌동네식당에
+	촌동네식당/ncn+에/jca
+
+갔습니다
+	가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+결론은
+	결론/ncn+은/jxc
+
+탁월한
+	탁월/ncps+하/xsms+ㄴ/etm
+
+선택이었습니다
+	선택/ncpa+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+식당
+	식당/ncn
+
+입구입니다
+	입구/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+요
+	요/mmd
+
+건물이
+	건물/ncn+이/jcc
+
+동학사입구
+	동학사/ncn+입구/ncn
+
+큰
+	크/paa+ㄴ/etm
+
+길에서
+	길/ncn+에서/jca
+
+보면
+	보/px+면/ecs
+
+전혀
+	전혀/mag
+
+안
+	안/mag
+
+보입니다
+	보이/pvg+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+잘
+	잘/mag
+
+찾아야되죠
+	찾/pvg+아/ecx+되/px+죠/ef
+
+..
+	./sf+./sf
+
+
+내부로
+	내부/ncn+로/jca
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+조그마한
+	조그마하/paa+ㄴ/etm
+
+정원
+	정원/ncn
+
+같은
+	같/paa+은/etm
+
+곳이
+	곳/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+플랑으로
+	플랑/ncn+으로/jca
+
+되어
+	되/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+차림상
+	차림/ncn+상/ncn
+
+전체입니다
+	전체/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+가격은
+	가격/ncn+은/jxc
+
+착한
+	착하/paa+ㄴ/etm
+
+편입니다
+	편/nbn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+맨
+	맨/mma
+
+처음
+	처음/mag
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+두부보쌈입니다
+	두부/ncn+보쌈/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+수육과
+	수육/ncn+과/jcj
+
+두부와
+	두부/ncn+와/jct
+
+볶은
+	볶/pvg+은/etm
+
+김치를
+	김치/ncn+를/jco
+
+같이
+	같/paa+이/xsa
+
+싸먹는건데,
+	싸먹는건데,/ncn
+
+맛이
+	맛/ncn+이/jcc
+
+죽이더라고요
+	죽이/pvg+더/ep+라고/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+약간
+	약간/mag
+
+먼저
+	먼저/mag
+
+먹어버리기는
+	먹/pvg+어/ecx+버리/px+기/etn+는/jxc
+
+했지만,
+	하/px+었/ep+지만/ecs+,/sp
+
+도토리묵무침을
+	도토리묵/ncn+무침/ncn+을/jco
+
+빼놓을
+	빼/pvg+어/ecx+놓/px+을/etm
+
+수
+	수/nbn
+
+없죠
+	없/paa+죠/ef
+
+..
+	./sf+./sf
+
+
+맛있습니다
+	맛있/paa+습니다/ef
+
+..
+	./sf+./sf
+
+
+밑반찬들이
+	밑반찬/ncn+들/ncn+이/jcc
+
+상당히
+	상당히/mag
+
+정갈합니다
+	정갈/ncps+하/xsms+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+식당쥔장님께서
+	식당쥔장님께/ncn+서/jca
+
+꽤나
+	끄/pvg+어/ecx+나/px+아/ecx
+
+신경을
+	신경/ncn+을/jco
+
+쓰시더군요
+	쓰/pvg+시/ep+더군/ef+요/jxf
+
+..
+	./sf+./sf
+
+
+모두
+	모두/mag
+
+다
+	다/mag
+
+맛도
+	맛/ncn+도/jxc
+
+있구요
+	있구요/ncn
+
+..
+	./sf+./sf
+
+
+기대
+	기대/ncpa
+
+이상이었습니다
+	이상/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+술안주
+	술안주/ncn
+
+주메뉴인
+	주메뉴/ncn+이/jp+ㄴ/etm
+
+닭도리탕입니다
+	닭도리탕입니/ncn+이/jp+다/ef
+
+...
+	.../se
+
+
+재료도
+	재료/ncn+도/jxc
+
+신선하고
+	신선/ncn+하고/jcj
+
+깻잎과
+	깻잎/ncn+과/jcj
+
+닭고기가
+	닭고기/ncn+가/jcs
+
+어우러져
+	어우러지/pvg+어/ecx
+
+술안주로
+	술안주/ncn+로/jca
+
+정말
+	정말/mag
+
+짱~
+	짱~/ncn
+
+이었습니다
+	이/npd+이/jp+었/ep+습니다/ef
+
+..
+	./sf+./sf
+
+
+닭도리탕
+	닭도리탕/ncn
+
+이제
+	이제/mag
+
+다
+	다/mag
+
+익어서
+	익/pvg+어서/ecs
+
+먹기
+	먹/pvg+기/etn
+
+직전입니다
+	직전/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+다
+	다/mag
+
+익은
+	익/pvg+은/etm
+
+고기사진이
+	고기/ncn+사진/ncn+이/jcc
+
+이거
+	이거/npd
+
+밖에
+	밖/ncn+에/jca
+
+없습니다
+	없/paa+습니다/ef
+
+..
+	./sf+./sf
+
+
+먹기
+	먹/pvg+기/etn
+
+바빠서
+	바쁘/paa+아/ecx
+
+...
+	.../se
+
+
+닭도리탕과
+	닭도리탕/ncn+과/jct
+
+같이
+	같/paa+이/xsa
+
+시킨
+	시키/pvg+ㄴ/etm
+
+두부버섯전골입니다
+	두부/ncn+버섯/ncn+전골/ncn+이/jp+ㅂ니다/ef
+
+..
+	./sf+./sf
+
+
+요것도
+	요것/npd+도/jxc
+
+버섯
+	버섯/ncn
+
+.
+	./sf
+
+
+두부
+	두/nnc+부/nbu
+
+.
+	./sf
+
+
+김치
+	김치/ncn
+
+등이
+	등/nbu+이/jcc
+
+어우러져
+	어우러지/pvg+어/ecx
+
+아주
+	아주/mag
+
+맛있었습니다
+	맛있/paa+었/ep+습니다/ef
+
+..
+	./sf+./sf
+
+
+요
+	요/mmd
+
+녀석은
+	녀석/nbn+은/jxc
+
+소주도
+	소주/ncn+도/jxc
+
+아니고
+	아니/paa+고/ecc
+
+맥주도
+	맥주/ncn+도/jxc
+
+아닙니다
+	아니/paa+ㅂ니다/ef+./sf
+
+..
+	./sf+./sf
+
+
+절묘한
+	절묘/ncps+하/xsms+ㄴ/etm
+
+배합이
+	배합/ncpa+이/jcc
+
+들어간
+	들/pvg+어/ecx+가/px+ㄴ/etm
+
+녀석이죠
+	녀석/nbn+이/jp+죠/ef
+
+..
+	./sf+./sf
+
+
+무심코
+	무심코/mag
+
+찾아간
+	찾/pvg+아/ecx+가/px+ㄴ/etm
+
+집.
+	집/ncn+./sf
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+정말
+	정말/mag
+
+기대
+	기대/ncpa
+
+이상이었다는
+	이상/ncn+이/jp+었/ep+다/ef+는/etm
+
+..
+	./sf+./sf
+
+
+친구들과
+	친구/ncn+들/ncn+과/jcj
+
+이런
+	이런/mmd
+
+저런
+	저런/mmd
+
+이야기꽃을
+	이야기꽃/ncn+을/jco
+
+피우는데
+	피우/pvg+ㄴ데/ecs
+
+술
+	술/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+잔
+	잔/nbu
+
+안
+	안/mag
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없고
+	없/paa+고/ecc
+
+..
+	./sf+./sf
+
+
+거기에
+	거기/npd+에/jca
+
+기대
+	기대/ncpa
+
+이상의
+	이상/ncn+의/jcm
+
+식사와
+	식사/ncpa+와/jcj
+
+안주까지
+	안주/ncn+까지/jxc
+
+..
+	./sf+./sf
+
+
+정말
+	정말/mag
+
+시간가는
+	시간/ncn+가/jcs+는/jxc
+
+줄
+	주/px+ㄹ/etm
+
+모르고
+	모르/pvg+고/ecc
+
+한
+	하/pvg+ㄴ/etm
+
+잔
+	잔/nbu
+
+또
+	또/maj
+
+한
+	하/pvg+ㄴ/etm
+
+잔.
+	잔/nbu+./sf
+
+..
+	./sf+./sf
+
+
+그러면서
+	그러/pvd+면서/ecc
+
+살아가는
+	살/pvg+아/ecx+가/px+는/etm
+
+이런저런
+	이런저런/mma
+
+이야기들
+	이야기/ncpa+들/ncn
+
+..
+	./sf+./sf
+
+
+오랜만에
+	오랜만/ncn+에/jca
+
+계룡산에서
+	계룡/ncn+산/ncn+에서/jca
+
+친구들과
+	친구/ncn+들/ncn+과/jct
+
+잊지못할
+	잊/pvg+지/ecx+못하/px+ㄹ/etm
+
+추억을
+	추억/ncpa+을/jco
+
+간직하게
+	간직/ncpa+하/xsva+게/ecs
+
+한
+	하/pvg+ㄴ/etm
+
+소중한
+	소중/ncps+하/xsms+ㄴ/etm
+
+맛집이었습니다
+	맛집이었습니/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+위치
+	위치/ncn
+
+:
+	:/sp
+
+계룡산국립공원
+	계룡산국립공원/ncn
+
+동학사입구
+	동학사/ncn+입구/ncn
+
+쪽큰
+	쪽큰/ncn
+
+길
+	길/paa+ㄹ/etm
+
+오른편
+	오르/pvg+ㄴ/etm+편/nbn
+
+자연사박물관입구
+	자연사박물관/ncn+입구/ncn
+
+쪽에서
+	쪽/nbn+에서/jca
+
+보이는
+	보이/pvg+는/etm
+
+장원(음식점)
+	장원(음식점)/ncn
+
+뒷
+	뒷/mma
+
+편.
+	편/nbn+./sf
+
+
+전화
+	전화/ncpa
+
+:
+	:/sp
+
+042-825-4110
+	042/nnc+-825/nnc+-4110/nnc

@@ -1,0 +1,118 @@
+대전
+	대전/ncn
+
+엑스포
+	엑스포/ncn
+
+과학공원을
+	과학/ncn+공원/ncn+을/jco
+
+다녀
+	다니/pvg+어/ecx
+
+왔습니다
+	오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+늘
+	늘/mag
+
+대전에
+	대전/ncn+에/jca
+
+있으면서도
+	있/px+으면/ecs+서도/jxc
+
+한번도
+	한/nnc+번/nbu+도/jxc
+
+가보지
+	가/pvg+아/ecx+보/px+지/ecx
+
+못하였던
+	못하/px+었/ep+던/etm
+
+곳.
+	곳/ncn+./sf
+
+...
+	.../se
+
+
+바로
+	바로/mag
+
+대전
+	대전/ncn
+
+엑스포입니다
+	엑스포/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+@
+	@/sy
+
+.
+	./sf
+
+
+@
+	@/sy
+
+엑스포
+	엑스포/ncn
+
+생각보다
+	생각/ncpa+보다/jca
+
+좋더군요
+	좋/paa+더군/ef+요/jxf
+
+....
+	.../se+./sf
+
+
+시간만
+	시간/nbu+만/jxc
+
+더
+	더/mag
+
+있고
+	있/px+고/ecc
+
+좀
+	좀/mag
+
+더
+	더/mag
+
+알고
+	알/pvg+고/ecx
+
+왔더라면
+	오/px+아/ep+라면/ecs
+
+더
+	더/mag
+
+좋은
+	좋/paa+은/etm
+
+시간이
+	시간/ncn+이/jcc
+
+됐을듯
+	되/pvg+었/ep+을/etm+듯/nbs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf

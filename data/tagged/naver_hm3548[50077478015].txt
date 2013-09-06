@@ -1,0 +1,999 @@
+김장
+	김장/ncpa
+
+준비를
+	준비/ncn+를/jco
+
+하느라
+	하/pvg+느라/ecs
+
+장날
+	장날/ncn
+
+재래시장에
+	재래시장/ncn+에/jca
+
+갔다가
+	가/px+아/ep+다가/ecs
+
+잡아
+	잡/pvg+어/ecx
+
+온
+	오/px+ㄴ/etm
+
+돼지목살
+	돼지목살/ncn
+
+녀석을
+	녀석/nbn+을/jco
+
+어떻게
+	어떻/pad+게/ecs
+
+먹을까
+	먹/pvg+을까/ef
+
+생각하다
+	생각/ncpa+하/xsva+어다/ecs
+
+대충대충
+	대충대충/ncpa
+
+양념을
+	양념/ncn+을/jco
+
+발라
+	바르/pvg+아/ecx
+
+굽기로
+	굽/pvg+기/etn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+(물론
+	(/sl+물론/mag
+
+보쌈용
+	보쌈/ncn+용/ncn
+
+고기는
+	고/pvg+기/etn+는/jxc
+
+남겨놓고
+	남기/pvg+어/ecx+놓/px+고/ecc
+
+..)
+	./sf+./sf+)/sr
+
+
+뭐
+	뭐/npd
+
+그냥
+	그냥/mag
+
+구워도
+	굽/pvg+어도/ecs
+
+잘먹지만
+	잘먹지만/ncn
+
+게으름뱅이
+	게으름뱅이/ncn
+
+냥이는
+	냥/nbu+이/jp+는/etm
+
+계속
+	계속/mag
+
+구워대는것도
+	굽/pvg+어/ecx+대/px+는/etm+것/nbn+도/jxc
+
+귀찮아
+	귀찮/paa+아/ecx
+
+오븐냄비(응
+	오븐냄비(응/ncn
+
+?)
+	?/sf+)/sr
+
+
+에
+	에/pvg+어/ecx
+
+구워서
+	굽/pvg+어서/ecs
+
+먹기위해
+	먹기/ncn+위해/ncn
+
+양념을
+	양념/ncn+을/jco
+
+발랐다
+	바르/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+대충대충
+	대충대충/ncpa
+
+요리
+	요리/ncn
+
+요이땅~
+	요이땅~/ncn
+
+!!
+	!/sf+!/sf
+
+
+준비물
+	준비/ncn+물/ncn
+
+:
+	:/sp
+
+돼지목살
+	돼지목살/ncn
+
+(1kg),
+	(1kg),/ncn
+
+매실주
+	매실주/ncn
+
+1/3컵(매실주를
+	1/3컵(매실주/ncn+를/jco
+
+넣든
+	넣/pvg+든/ecs
+
+소주를
+	소주/ncn+를/jco
+
+넣든
+	넣/pvg+든/ecs
+
+돼지를
+	돼지/ncn+를/jco
+
+취하게만
+	취하/pvg+게/ecs+만/jxc
+
+하면
+	하/pvg+면/ecs
+
+됨.),
+	되/pvg+ㅁ/etn+./sf+)/sr+,/sp
+
+허브솔트
+	허브솔트/ncn
+
+4t스푼,
+	4t스푼,/ncn
+
+마늘
+	마늘/ncn
+
+2T스푼,
+	2T스푼,/ncn
+
+청국장가루
+	청국장/ncn+가루/ncn
+
+1t스푼,
+	1t스푼/ncn+,/sp
+
+
+홈쇼핑에서
+	홈쇼핑/ncn+에서/jca
+
+잡아
+	잡/pvg+어/ecx
+
+온
+	오/px+ㄴ/etm
+
+오븐냄비(
+	오븐냄비(/ncn
+
+?)
+	?/sf+)/sr
+
+
+-
+	-/sd
+
+일반
+	일반/ncn
+
+오븐이나
+	오븐/ncn+이나/jcj
+
+그냥
+	그냥/mag
+
+후라이팬에
+	후라이팬/ncn+에/jca
+
+구워도
+	굽/pvg+어도/ecs
+
+상관
+	상관/ncn
+
+없을
+	없/paa+을/etm
+
+것
+	것/nbn
+
+같지만
+	같/paa+지/ecx+말/px+ㄴ/etm
+
+.....
+	./sy+.../se+./sy
+
+.
+	./sf
+
+
+1.
+	1./nnc
+
+매실주
+	매실주/ncn
+
+1/3컵을
+	1/3컵/ncn+을/jco
+
+넣는다
+	넣/pvg+는다/ef
+
+.
+	./sf
+
+
+(집에서
+	(/sl+집/ncn+에서/jca
+
+담근
+	담그/pvg+ㄴ/etm
+
+매실주라
+	매실주/ncn+이/jp+라/ecs
+
+술을
+	술/ncn+을/jco
+
+좋아하는(응
+	좋아하는(응/ncn
+
+?)
+	?/sf+)/sr
+
+
+나는
+	나/npp+는/jxc
+
+매실음료같이
+	매실/ncn+음료/ncn+같이/jca
+
+느껴진다
+	느끼/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+)
+	)/sr
+
+
+2.
+	2./nnc
+
+허브솔트
+	허브솔트/ncn
+
+4t스푼을
+	4t스푼/ncn+을/jco
+
+넣는다
+	넣/pvg+는다/ef
+
+.
+	./sf
+
+
+(허브솔트는
+	(허브솔트/ncn+는/jxc
+
+아무마트에서
+	아무마트/ncn+에서/jca
+
+다
+	다/mag
+
+구입할
+	구입/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.)
+	./sf+)/sr
+
+
+3.
+	3./nnc
+
+청국장가루를
+	청국장/ncn+가루/ncn+를/jco
+
+1t
+	1t/ncn
+
+스푼
+	스푼/ncn
+
+넣는다
+	넣/pvg+는다/ef
+
+.
+	./sf
+
+
+(혹시
+	(/sl+혹시/mag
+
+매실주만으로
+	매실주/ncn+만/ncn+으로/jca
+
+돼지를
+	돼지/ncn+를/jco
+
+취하게
+	취하/pvg+게/ecs
+
+만들지
+	만들/pvg+지/ecx
+
+못할까봐
+	못할까봐/ncn
+
+새로운
+	새롭/paa+은/etm
+
+시도를
+	시도/ncn+를/jco
+
+해보았다
+	하/pvg+어/ecx+보/px+아/ep+다/ef
+
+.
+	./sf
+
+
+된장대신
+	된장/ncn+대/ncn+이/jp+시/ep+ㄴ/etm
+
+집에서
+	집/ncn+에서/jca
+
+잘
+	잘/mag
+
+먹지않는
+	먹/pvg+지/ecx+않/px+는/etm
+
+청국장가루를
+	청국장/ncn+가루/ncn+를/jco
+
+!)
+	!/sf+)/sr
+
+
+4.
+	4./nnc
+
+다진(응
+	다진(응/ncn
+
+?)
+	?/sf+)/sr
+
+
+갈은
+	갈/pvg+ㄴ/etm
+
+마늘을
+	마늘/ncn+을/jco
+
+넣는다
+	넣/pvg+는다/ef
+
+.
+	./sf
+
+
+(위의
+	(/sl+위/ncn+의/jcm
+
+사진처럼
+	사진/ncn+처럼/jca
+
+곱게
+	곱/paa+게/ecs
+
+갈리지
+	가/px+ㄹ/etm+리/nbn+이/jp+지/ecs
+
+않은
+	않/px+은/etm
+
+다진
+	다지/pvg+ㄴ/etm
+
+마늘을
+	마늘/ncn+을/jco
+
+써도
+	쓰/pvg+어도/ecs
+
+괜찮지만
+	괜찮/paa+지/ecx+말/px+ㄴ/etm
+
+우리집엔
+	우리집/ncn+엔/jca
+
+도깨비
+	도깨비/ncn
+
+방망이가
+	방망이/ncn+가/jcs
+
+있으니까~
+	있/px+으니까/ecs+~/sd
+
+?
+	?/sf
+
+
+후훗~
+	후훗~/ncn
+
+?)
+	?/sf+)/sr
+
+
+5.
+	5./nnc
+
+(1,2,3,4)번을
+	(/sl+1/nnc+,/sp+2/nnc+,/sp+3/nnc+,/sp+4/nnc+)/sr+번/nbu+을/jco
+
+잘
+	잘/mag
+
+섞는다
+	섞/pvg+는다/ef
+
+.
+	./sf
+
+
+대충대충
+	대충대충/ncpa
+
+섞어도
+	섞/pvg+어도/ecs
+
+다
+	다/mag
+
+섞인다
+	섞이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+6.
+	6./nnc
+
+굵게
+	굵/paa+게/ecs
+
+썰어달라고
+	썰어달라/ncn+이/jp+고/ecc
+
+해서
+	하/pvg+어서/ecs
+
+잡아온
+	잡/pvg+어/ecx+오/px+ㄴ/etm
+
+돼지목살
+	돼지목살/ncn
+
+녀석에게
+	녀석/nbn+에게/jca
+
+상큼하게
+	상큼/ncps+하/xsms+게/ecs
+
+양념으로
+	양념/ncn+으로/jca
+
+마사지를
+	마사지/ncpa+를/jco
+
+시켜주고
+	시키/pvg+어/ecx+주/px+고/ecc
+
+20분동안
+	20/nnc+분/nbu+동안/xsnu
+
+휴식을
+	휴식/ncpa+을/jco
+
+취하게
+	취하/pvg+게/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+(빨리
+	(/sl+빨리/mag
+
+먹고
+	먹/pvg+고/ecc
+
+싶은
+	싶/px+은/etm
+
+사람은
+	사람/ncn+은/jxc
+
+그냥
+	그냥/mag
+
+먹어도
+	먹/pvg+어도/ecs
+
+상관없다
+	상관/ncn+없/xsmn+다/ef
+
+.
+	./sf
+
+
+다만
+	다만/mag
+
+!
+	!/sf
+
+
+간이
+	간/ncn+이/jcc
+
+덜
+	덜/mag
+
+베었을뿐
+	베/pvg+었/ep+을/etm+뿐/nbn
+
+!)
+	!/sf+)/sr
+
+
+7.
+	7./nnc
+
+오븐냄비(
+	오븐냄비(/ncn
+
+?)
+	?/sf+)/sr
+
+
+에
+	에/pvg+어/ecx
+
+물을
+	물/ncn+을/jco
+
+한컵정도
+	한컵정/ncn+도/jxc
+
+채운다
+	채우/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+(피그오일이
+	(/sl+피그/ncn+오일/ncn+이/jcc
+
+떨어질
+	떨/pvg+어/ecx+지/px+ㄹ/etm
+
+때
+	때/ncn
+
+타는
+	타/pvg+는/etm
+
+것을
+	것/nbn+을/jco
+
+막기
+	막/pvg+기/etn
+
+위함
+	위하/pvg+ㅁ/etn
+
+.)
+	./sf+)/sr
+
+
+8.
+	8./nnc
+
+양념을
+	양념/ncn+을/jco
+
+바르고
+	바르/pvg+고/ecc
+
+휴식
+	휴식/ncpa
+
+중이던
+	중/nbn+이/jp+던/etm
+
+돼지녀석을
+	돼지/ncn+녀석/ncn+을/jco
+
+구울
+	굽/pvg+을/etm
+
+준비를
+	준비/ncn+를/jco
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+9.
+	9./nnc
+
+돼지녀석들이불한증막을
+	돼지녀석들이불한증막/ncn+을/jco
+
+하다
+	하/pvg+어다/ecs
+
+싸우지
+	싸우/pvg+지/ecx
+
+않게
+	않/px+게/ecs
+
+냄비에
+	냄비/ncn+에/jca
+
+맞게
+	맞/pvg+게/ecs
+
+자리
+	자리/ncn
+
+배치를
+	배치/ncpa+를/jco
+
+잘한다
+	잘하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+10
+	10/nnc
+
+.
+	./sf
+
+
+뚜껑을
+	뚜껑/ncn+을/jco
+
+덮어
+	덮/pvg+어/ecx
+
+후끈
+	후끈/mag
+
+후끈
+	후끈/mag
+
+달아오르게
+	달아오르/pvg+게/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+(불을
+	(/sl+불/ncn+을/jco
+
+너무
+	너무/mag
+
+쎄게하면
+	쎄게하/ncn+이/jp+면/ecs
+
+까맣게
+	까맣/paa+게/ecs
+
+타서
+	타/pvg+아/ecx
+
+못먹을
+	못먹/ncn+을/jco
+
+수
+	수/nbn
+
+있으니
+	있/px+으니/ecs
+
+약불로
+	약불/ncn+로/jca
+
+익힌다
+	익히/pvg+ㄴ다/ef
+
+.)
+	./sf+)/sr
+
+
+성격
+	성격/ncn
+
+급한
+	급하/paa+ㄴ/etm
+
+사람은
+	사람/ncn+은/jxc
+
+괜히
+	괜히/mag
+
+먹어보지도
+	먹/pvg+어/ecx+보/px+지/ecs+도/jxc
+
+못하고
+	못하/px+고/ecc
+
+버리는
+	버리/px+는/etm
+
+수가
+	수/nbn+가/jcc
+
+있으니
+	있/px+으니/ecs
+
+조심
+	졸/pvg+시/ep+ㅁ/etn
+
+조심
+	졸/pvg+시/ep+ㅁ/etn
+
+!
+	!/sf
+
+
+11
+	11/nnc
+
+.
+	./sf
+
+
+잘
+	잘/mag
+
+익었나
+	익/pvg+었/ep+나/ef
+
+잘라본다
+	자르/pvg+아/ecx+보/px+ㄴ다/ef
+
+.
+	./sf
+
+
+(배가
+	(/sl+배/ncn+가/jcs
+
+고파서
+	고프/paa+아/ecx
+
+분노의
+	분노/ncpa+의/jcm
+
+가위질
+	가위질/ncpa
+
+중
+	중/nbn
+
+!)
+	!/sf+)/sr
+
+
+12
+	12/nnc
+
+.
+	./sf
+
+
+노릇노릇
+	노릇노릇/ncn
+
+잘
+	잘/mag
+
+익은
+	익/pvg+은/etm
+
+돼지녀석들
+	돼지/ncn+녀석/ncn+들/ncn
+
+!
+	!/sf
+
+
+잇힝~
+	잇힝~/ncn
+
+나의
+	나/npp+의/jcm
+
+사랑
+	사랑/ncn
+
+꼬기
+	꼬/pvg+기/etn
+
+꼬기
+	꼬/pvg+기/etn
+
+!!
+	!/sf+!/sf
+
+
+13
+	13/nnc
+
+.
+	./sf
+
+
+먹기
+	먹/pvg+기/etn
+
+좋은
+	좋/paa+은/etm
+
+크기로
+	크/paa+기/etn+로/jca
+
+썰어서
+	썰/pvg+어서/ecs
+
+쌈
+	싸/paa+ㅁ/etn
+
+싸먹으면Good~
+	싸먹으면Good~/ncn
+
+!!
+	!/sf+!/sf
+
+
+빨리
+	빨리/mag
+
+먹고싶은
+	먹/pvg+고/ecx+싶/px+은/etm
+
+마음에
+	마음/ncn+에/jca
+
+사진이
+	사진/ncn+이/jcc
+
+흔들려
+	흔들리/pvg+어/ecx
+
+찍힌
+	찍히/pvg+ㄴ/etm
+
+것도
+	것/nbn+도/jxc
+
+확인
+	확인/ncpa
+
+못했다;;
+	못했다/ncn+;/sy+;/sy
+
+
+쌈
+	싸/paa+ㅁ/etn
+
+싼
+	싸/paa+ㄴ/etm
+
+사진도
+	사진/ncn+도/jxc
+
+한장
+	한/nnc+장/nbu
+
+찍었어야했는데
+	찍/pvg+었/ep+어야/ecx+하/px+었/ep+는데/ecs
+
+!!!!!
+	!/sf+!/sf+!/sf+!/sf+!/sf
+
+!
+	!/sf
+
+
+난
+	나/px+ㄴ/etm
+
+역시
+	역시/mag
+
+고기에
+	고/ncn+이/jp+기/etn+에/jca
+
+약한
+	약하/paa+ㄴ/etm
+
+인간;
+	인/nbu+간/xsnu+;/sy

@@ -1,0 +1,1051 @@
+아파트
+	아파트/ncn
+
+116
+	116/nnc
+
+149
+	149/nnc
+
+3년새
+	3년새/ncn
+
+3770만원
+	3770/nnc+만/nnc+원/nbu
+
+소형주택
+	소형/ncn+주택/ncn
+
+선호
+	선호/ncpa
+
+현상이
+	현상/ncn+이/jcc
+
+뚜렷해지면서
+	뚜렷/ncps+하/xsms+어/ecx+지/px+면서/ecc
+
+소형
+	소형/ncn
+
+아파트에서
+	아파트/ncn+에서/jca
+
+중대형
+	중대/ncn+형/ncn
+
+아파트로
+	아파트/ncn+로/jca
+
+갈아타는
+	갈/pvg+아/ecx+타/px+는/etm
+
+비용은
+	비용/ncn+은/jxc
+
+다소
+	다소/mag
+
+줄었지만
+	줄/pvg+었/ep+지만/ecs
+
+50
+	50/nnc
+
+대
+	대/nbu
+
+주택에서
+	주택/ncn+에서/jca
+
+83
+	83/nnc
+
+대로
+	대/nbu+로/jca
+
+옮기는
+	옮기/pvg+는/etm
+
+데
+	데/nbn
+
+드는
+	들/pvg+는/etm
+
+비용은
+	비용/ncn+은/jxc
+
+오히려
+	오히려/mag
+
+늘어난
+	늘/pvg+어/ecx+나/px+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타났다
+	나타나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+건설산업연구원은
+	건설산업/ncn+연구원/ncr+은/jxc
+
+'수도권
+	'/sr+수도권/ncn
+
+아파트의
+	아파트/ncn+의/jcm
+
+규모
+	규모/ncn
+
+상향
+	상향/ncpa
+
+및
+	및/maj
+
+신규
+	신규/ncn
+
+아파트로의
+	아파트/ncn+로/jca+의/jcm
+
+이동
+	이/nnc+동/nbu
+
+어려워'
+	어렵/paa+어/ef+'/sr
+
+보고서에서
+	보고서/ncn+에서/jca
+
+서울
+	서울/ncn
+
+수도권
+	수도권/ncn
+
+50
+	50/nnc
+
+아파트에서
+	아파트/ncn+에서/jca
+
+83
+	83/nnc
+
+아파트로
+	아파트/ncn+로/jca
+
+갈아탈
+	갈/pvg+아/ecx+타/px+ㄹ/etm
+
+때
+	때/ncn
+
+드는
+	들/pvg+는/etm
+
+비용은
+	비용/ncn+은/jxc
+
+지난해
+	지난해/ncn
+
+기준으로
+	기준/ncpa+으로/jca
+
+1억590만원이라고
+	1/nnc+억/nnc+590/nnc+만/nnc+원/nbu+이/jp+라/ef+고/jcr
+
+분석했다
+	분석/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+비용은
+	비용/ncn+은/jxc
+
+2008년
+	2008/nnc+년/nbu
+
+1억240만원에
+	1/nnc+억/nnc+240/nnc+만/nnc+원/nbu+에/jca
+
+비해
+	비하/pvg+어/ecx
+
+3.4%
+	3.4/nnc+%/su
+
+늘어난
+	늘/pvg+어/ecx+나/px+ㄴ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+반면
+	반면/ncn
+
+중대형으로
+	중대/ncn+형/ncn+으로/jca
+
+갈아타기
+	갈/pvg+아/ecx+타/px+기/etn
+
+비용은
+	비용/ncn+은/jxc
+
+오히려
+	오히려/mag
+
+감소했다
+	감소/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+83
+	83/nnc
+
+에서
+	에/pvg+어서/ecs
+
+116
+	116/nnc
+
+로
+	로/ncn
+
+넓혀
+	넓히/pvg+어/ecx
+
+가는
+	가/pvg+는/etm
+
+비용은
+	비용/ncn+은/jxc
+
+2008년
+	2008/nnc+년/nbu
+
+1억5890만원에서
+	1/nnc+억/nnc+5890/nnc+만/nnc+원/nbu+에서/jca
+
+지난해
+	지난해/ncn
+
+1억4820만원으로
+	1/nnc+억/nnc+4820/nnc+만/nnc+원/nbu+으로/jca
+
+1070만원(6.
+	1070만원(6./ncn
+
+7%)
+	7/nnc+%/su+)/sr
+
+줄었고,
+	줄/pvg+었/ep+고/ecc+,/sp
+
+116
+	116/nnc
+
+에서
+	에/pvg+어서/ecs
+
+149
+	149/nnc
+
+로
+	로/ncn
+
+갈아타는
+	갈/pvg+아/ecx+타/px+는/etm
+
+비용은
+	비용/ncn+은/jxc
+
+같은
+	같/paa+은/etm
+
+기간
+	기간/ncn
+
+2억3220만원에서
+	2/nnc+억/nnc+3220/nnc+만/nnc+원/nbu+에서/jca
+
+1억9550만원으로
+	1/nnc+억/nnc+9550/nnc+만/nnc+원/nbu+으로/jca
+
+3770만원(18%)이나
+	3770만원(18%)/ncn+이나/jcj
+
+감소했다
+	감소/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+가족
+	가족/ncn
+
+구성원
+	구성/ncn+원/ncn
+
+변화
+	변화/ncpa
+
+등
+	등/nbu
+
+필요에
+	필요/ncps+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+넓은
+	넓/paa+은/etm
+
+면적으로
+	면적/ncn+으로/jca
+
+갈아타고
+	갈/pvg+아/ecx+타/px+고/ecc
+
+싶은
+	싶/px+은/etm
+
+수요자라면
+	수요자/ncn+이/jp+라면/ecs
+
+중대형
+	중대/ncn+형/ncn
+
+인기가
+	인기/ncn+가/jcs
+
+시들한
+	시들/pvg+ㄹ/etm+한/nbn
+
+지금이
+	지금/ncn+이/jcc
+
+오히려
+	오히려/mag
+
+좋은
+	좋/paa+은/etm
+
+기회가
+	기회/ncn+가/jcs
+
+될
+	되/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다는
+	있/px+다/ef+는/etm
+
+의미로
+	의미/ncpa+로/jca
+
+해석할
+	해석/ncpa+하/xsva+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+하지만
+	하지만/maj
+
+주택
+	주택/ncn
+
+가격
+	가격/ncn
+
+상승에
+	상승/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+기대가
+	기대/ncpa+가/jcc
+
+사라진
+	사라지/pvg+ㄴ/etm
+
+상황에서
+	상황/ncn+에서/jca
+
+수억
+	수억/nnc
+
+원을
+	원/nbu+을/jco
+
+부담하면서
+	부담/ncpa+하/xsva+면서/ecc
+
+넓은
+	넓/paa+은/etm
+
+집으로
+	집/ncn+으로/jca
+
+갈아타는
+	갈/pvg+아/ecx+타/px+는/etm
+
+것은
+	것/nbn+은/jxc
+
+현실적으로
+	현실/ncn+적/ncn+으로/jca
+
+어렵다는
+	어렵/paa+다/ef+는/etm
+
+분석이다
+	분석/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+재건축
+	재건축/ncn
+
+관련
+	관련/ncn
+
+규제
+	규제/ncpa
+
+강화로
+	강화/ncpa+로/jca
+
+노후
+	노후/ncn
+
+아파트
+	아파트/ncn
+
+가치가
+	가치/ncn+가/jcs
+
+떨어지면서
+	떨어지/pvg+면서/ecc
+
+기존
+	기존/ncpa
+
+아파트를
+	아파트/ncn+를/jco
+
+팔고
+	팔/pvg+고/ecc
+
+새
+	새/mma
+
+아파트를
+	아파트/ncn+를/jco
+
+사는
+	사/pvg+는/etm
+
+것도
+	것/nbn+도/jxc
+
+힘들어졌다
+	힘들/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+2009년만
+	2009/nnc+년/nbu+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+116
+	116/nnc
+
+와
+	오/pvg+아/ecx
+
+149
+	149/nnc
+
+헌
+	헌/mma
+
+아파트를
+	아파트/ncn+를/jco
+
+팔고
+	팔/pvg+고/ecc
+
+같은
+	같/paa+은/etm
+
+면적의
+	면적/ncn+의/jcm
+
+새
+	새/mma
+
+아파트를
+	아파트/ncn+를/jco
+
+사면
+	사/pvg+면/ecs
+
+평균
+	평균/ncpa
+
+1855만원과
+	1855/nnc+만/nnc+원/nbu+과/jcj
+
+7020만원을
+	7020/nnc+만/nnc+원/nbu+을/jco
+
+남길
+	남기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+2010년에는
+	2010/nnc+년/nbu+에/jca+는/jxc
+
+116
+	116/nnc
+
+를
+	를/ncn
+
+새
+	새/mma
+
+아파트로
+	아파트/ncn+로/jca
+
+바꿀
+	바꾸/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+630만원을
+	630/nnc+만/nnc+원/nbu+을/jco
+
+더
+	더/mag
+
+내야
+	내/pvg+어야/ecs
+
+했고,
+	하/px+었/ep+고/ecc+,/sp
+
+2011년
+	2011/nnc+년/nbu
+
+149
+	149/nnc
+
+새
+	새/mma
+
+아파트로
+	아파트/ncn+로/jca
+
+옮길
+	옮기/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+4500만원을
+	4500/nnc+만/nnc+원/nbu+을/jco
+
+지불해야
+	지불/ncpa+하/xsva+어야/ecs
+
+하는
+	하/pvg+는/etm
+
+것으로
+	것/nbn+으로/jca
+
+나타났다
+	나타나/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+기존
+	기존/ncpa
+
+주택을
+	주택/ncn+을/jco
+
+팔아
+	팔/pvg+아/ecx
+
+신규
+	신규/ncn
+
+분양을
+	불/pvg+ㄴ/etm+양/nbn+을/jco
+
+받기가
+	받/pvg+기/etn+가/jcs
+
+힘들어졌다는
+	힘들/pvg+어/ecx+지/px+었/ep+다/ef+는/etm
+
+의미다
+	의미/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+또
+	또/maj
+
+이
+	이/mmd
+
+보고서는
+	보/px+고서/ecs+는/jxc
+
+3년
+	3/nnc+년/nbu
+
+전
+	전/nbn
+
+수도권
+	수도권/ncn
+
+아파트를
+	아파트/ncn+를/jco
+
+구입한
+	구입/ncpa+하/xsva+ㄴ/etm
+
+소비자는
+	소비자/ncn+는/jxc
+
+평균적으로
+	평균/ncpa+적/ncn+으로/jca
+
+손해를
+	손해/ncn+를/jco
+
+봤다는
+	보/px+아/ep+다/ef+는/etm
+
+연구
+	연구/ncpa
+
+결과도
+	결과/ncn+도/jxc
+
+내놨다
+	내놨다/ncn
+
+.
+	./sf
+
+
+지난해
+	지난해/ncn
+
+기준으로
+	기준/ncpa+으로/jca
+
+3년
+	3/nnc+년/nbu
+
+전
+	전/nbn
+
+아파트를
+	아파트/ncn+를/jco
+
+샀다면
+	사/pvg+아/ep+다면/ecs
+
+83
+	83/nnc
+
+는
+	늘/pvg+ㄴ/etm
+
+591만원을
+	591/nnc+만/nnc+원/nbu+을/jco
+
+남겼지만,
+	남기/pvg+었/ep+지만/ecs+,/sp
+
+116
+	116/nnc
+
+와
+	오/pvg+아/ecx
+
+149
+	149/nnc
+
+는
+	늘/pvg+ㄴ/etm
+
+174만원과
+	174/nnc+만/nnc+원/nbu+과/jcj
+
+2615만원을
+	2615/nnc+만/nnc+원/nbu+을/jco
+
+손해봤다
+	손해보/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+아파트
+	아파트/ncn
+
+구매
+	구매/ncpa
+
+과정에
+	과정/ncn+에/jca
+
+붙는
+	붙/pvg+는/etm
+
+취득
+	취득/ncpa
+
+등록세
+	등록세/ncn
+
+등
+	등/nbu
+
+세금과
+	세금/ncn+과/jcj
+
+대출이자
+	대출이자/ncn
+
+등
+	등/nbu
+
+금융비용을
+	금융비용/ncn+을/jco
+
+제외한
+	제외/ncpa+하/xsva+ㄴ/etm
+
+분석치란
+	분석/ncpa+치/ncn+란/jcm
+
+점을
+	점/nbu+을/jco
+
+고려하면
+	고/pvg+려/ecx+하/px+면/ecs
+
+3년
+	3/nnc+년/nbu
+
+전에
+	전/nbn+에/jca
+
+어떤
+	어떤/mmd
+
+크기의
+	크/paa+기/etn+의/jcm
+
+아파트를
+	아파트/ncn+를/jco
+
+수도권에서
+	수도권/ncn+에서/jca
+
+구매했든지간에
+	구매했든지간/ncn+에/jca
+
+손해를
+	손해/ncn+를/jco
+
+입었다는
+	입/pvg+었/ep+다/ef+는/etm
+
+게
+	것/nbn+이/jcs
+
+건설산업연구원의
+	건설산업/ncn+연구원/ncr+의/jcm
+
+설명이다
+	설명/ncpa+이/jp+다/ef
+
+.
+	./sf
+
+
+2008년만
+	2008/nnc+년/nbu+만/jxc
+
+해도
+	하/pvg+어도/ecs
+
+3년
+	3/nnc+년/nbu
+
+전(2005년)에
+	전(2005년)/ncn+에/jca
+
+집을
+	집/ncn+을/jco
+
+산
+	사/pvg+ㄴ/etm
+
+경우
+	경우/ncn
+
+83
+	83/nnc
+
+8926만원,
+	8926/nnc+만/nnc+원/nbu+,/sp
+
+116
+	116/nnc
+
+1억3078만원,
+	1/nnc+억/nnc+3078/nnc+만/nnc+원/nbu+,/sp
+
+149
+	149/nnc
+
+1억8591만원의
+	1/nnc+억/nnc+8591/nnc+만/nnc+원/nbu+의/jcm
+
+차익을
+	차익/ncn+을/jco
+
+얻었다
+	얻/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+엄근용
+	엄근용/ncn
+
+건설산업연구원
+	건설산업/ncn+연구원/ncr
+
+연구원은
+	연구/ncpa+원/ncn+은/jxc
+
+"금융비용과
+	"/sl+금융비용/ncn+과/jcj
+
+세금까지
+	세금/ncn+까지/jxc
+
+고려하면
+	고/pvg+려/ecx+하/px+면/ecs
+
+3년
+	3/nnc+년/nbu
+
+전
+	전/nbn
+
+수도권에
+	수도권/ncn+에/jca
+
+집을
+	집/ncn+을/jco
+
+산
+	사/pvg+ㄴ/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+사실상
+	사실상/ncn
+
+모두
+	모두/mag
+
+손해를
+	손해/ncn+를/jco
+
+본
+	보/px+ㄴ/etm
+
+상황"이라고
+	상황/ncn+"/sr+이/jp+라/ef+고/jcr
+
+지적했다
+	지적/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+그는
+	그/npp+는/jxc
+
+"평형을
+	"/sl+평형/ncpa+을/jco
+
+넓혀
+	넓히/pvg+어/ecx
+
+가는
+	가/pvg+는/etm
+
+데
+	데/nbn
+
+드는
+	들/pvg+는/etm
+
+비용이
+	비용/ncn+이/jcc
+
+다소
+	다소/mag
+
+줄어들긴
+	줄어들긴/ncn
+
+했지만
+	하/px+었/ep+지만/ecs
+
+여전히
+	여전히/mag
+
+높은
+	높/paa+은/etm
+
+수준이고,
+	수준/ncn+이/jp+고/ecc+,/sp
+
+집을
+	집/ncn+을/jco
+
+교체해서
+	교체/ncpa+하/xsva+어서/ecs
+
+얻을
+	얻/pvg+을/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+기대수익이
+	기대수익/ncn+이/jcc
+
+낮아
+	낮/paa+아/ecx
+
+수요자들이
+	수요자/ncn+들/ncn+이/jcc
+
+주택
+	주택/ncn
+
+구매
+	구매/ncpa
+
+결정을
+	결정/ncn+을/jco
+
+내리지
+	내리/pvg+지/ecx
+
+못하고
+	못하/px+고/ecc
+
+있다"고
+	있/px+다/ef+"/sr+고/jcr
+
+덧붙였다
+	덧붙이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+[이은아
+	[이은/ncn+아/jcv
+
+기자]
+	기/ncn+이/jp+자/ecc+]/sr
+
+출처:매일경제
+	출처/ncn+:/sp+매일/ncn+경제/ncn

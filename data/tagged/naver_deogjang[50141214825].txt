@@ -1,0 +1,896 @@
+위치
+	위치/ncn
+
+:
+	:/sp
+
+충남
+	충남/ncn
+
+부여군
+	부여/ncpa+이/jp+군/ef
+
+규암면
+	규암/ncn+면/ncn
+
+백제문로455[합정리575번지]문의041]830~3400
+	백제문로455[합정리575번지]문의041/ncn+]/sr+830/nnc+~/sd+3400/nnc
+
+
+공주시
+	공주/ncr+시/ncn
+
+웅진동57번지
+	웅진동57번지/ncn
+
+[송산리
+	[송산리/ncn
+
+무령왕릉]
+	무령왕릉]/ncn
+
+문의041]840~2548
+	문의041/ncn+]/sr+840/nnc+~/sd+2548/nnc
+
+
+가는길
+	가는길/ncn
+
+:
+	:/sp
+
+서울
+	서울/ncn
+
+지하철3호선
+	지하철3호선/ncn
+
+남부터미널역하차[남부터미널~부여]행
+	남부터미널역하차[남부터미널~부여]행/ncn
+
+첫차06:30:막차18:30
+	첫차06:30:막차18/ncn+:/sp+30/nnc
+
+
+1일19회운행
+	1일19회운행/ncn
+
+2시간소요
+	2시간소요/ncn
+
+요금19000원
+	요금19000원/ncn
+
+[남부터미널~공주]행
+	[/sl+남부/ncn+터미널/ncn+~/sd+공주/ncr+]/sr+행/nbu
+
+첫차06:30:막차20:30
+	첫차06:30:막차20/ncn+:/sp+30/nnc
+
+
+1일20회운행
+	1일20회운행/ncn
+
+1시간30분소요
+	1시간30분소요/ncn
+
+요금8600원
+	요금8600원/ncn
+
+
+내고향
+	내고/ncpa+향/ncn
+
+부여
+	부/ncn+이/jp+어/ecs
+
+그리운
+	그립/paa+은/etm
+
+사람들
+	사람들/ncn
+
+지금은어디서
+	지금/ncn+은어/ncn+디/ncn+서/jca
+
+무엇을
+	무엇/npd+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있을까
+	있을까/ncn
+
+
+고향
+	고향/ncn
+
+산천은
+	산천/ncn+은/jxc
+
+변하지
+	변하/pvg+지/ecx
+
+않는데
+	않/px+는데/ecs
+
+우리들
+	우리들/npp
+
+주변만
+	주변/ncn+만/jxc
+
+변하는것
+	변하/pvg+는/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+
+그리운
+	그립/paa+은/etm
+
+사람들
+	사람들/ncn
+
+보고
+	보/px+고/ecc
+
+싶구나
+	싶/paa+구나/ef
+
+
+백제의
+	백제/ncn+의/jcm
+
+사찰
+	사찰/ncn
+
+능사[
+	능사[/ncn
+
+]
+	]/sr
+
+
+능사는
+	능사/ncn+는/jxc
+
+성왕의
+	성왕/ncn+의/jcm
+
+명복을
+	명복/ncn+을/jco
+
+빌기위한
+	빌기위한/ncn
+
+백제
+	백제/ncn
+
+왕실
+	왕실/ncn
+
+사찰로
+	사찰/ncn+로/jca
+
+부여군
+	부여/ncpa+이/jp+군/ef
+
+능산리에서
+	능산리/ncn+에서/jca
+
+발굴된
+	발굴/ncpa+되/xsvn+ㄴ/etm
+
+규모와
+	규모/ncn+와/jct
+
+동일하게
+	동일/ncps+하/xsms+게/ecc
+
+
+재현하였다고
+	재현/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+함
+	함/ncn
+
+
+백제의
+	백제/ncn+의/jcm
+
+궁궐
+	궁궐/ncn
+
+사비궁
+	사비궁/ncn
+
+
+우리나라
+	우리나라/ncn
+
+삼국시대
+	삼국시대/ncn
+
+중
+	중/nbn
+
+왕궁의
+	왕궁/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+최초로
+	최초/ncn+로/jca
+
+재현한
+	재현/ncpa+하/xsva+ㄴ/etm
+
+사비궁은
+	사비궁/ncn+은/jxc
+
+백제역사문화의
+	백제역사문화/ncn+의/jcm
+
+절정을
+	절정/ncn+을/jco
+
+이룬
+	이루/pvg+ㄴ/etm
+
+
+사비시대의
+	사비시대/ncn+의/jcm
+
+왕궁으로
+	왕궁/ncn+으로/jca
+
+백제의
+	백제/ncn+의/jcm
+
+대표적
+	대표/ncpa+적/ncn
+
+건축양식을
+	건축양식/ncn+을/jco
+
+보여주고있다
+	보여주/pvg+고/ecx+있/px+다/ef
+
+
+무령왕릉은
+	무령왕릉/ncn+은/jxc
+
+삼국시대
+	삼국시대/ncn
+
+왕릉중에서
+	왕릉/ncn+중/ncn+에서/jca
+
+유일하게
+	유일/ncps+하/xsms+게/ecs
+
+주인공이
+	주인공/ncn+이/jcc
+
+밝혀진
+	밝히/pvg+어/ecx+지/px+ㄴ/etm
+
+무덤으로
+	무덤/ncn+으로/jca
+
+백제25대
+	백제25대/ncn
+
+무령왕과
+	무령왕/ncn+과/jcj
+
+왕비의
+	왕비/ncn+의/jcm
+
+
+합장릉이다
+	합장릉이다/ncn
+
+묘실전체를
+	묘실/ncn+전체/ncn+를/jco
+
+벽돌로
+	벽돌/ncn+로/jca
+
+쌓은
+	쌓/pvg+은/etm
+
+무덤으로
+	무덤/ncn+으로/jca
+
+입구
+	입구/ncn
+
+통로와
+	통로/ncn+와/jct
+
+관련된
+	관련/ncpa+되/xsvn+ㄴ/etm
+
+연도와
+	연도/ncn+와/jcj
+
+시신을
+	시신/ncn+을/jco
+
+안치하는
+	안치/ncpa+하/xsva+는/etm
+
+현실의
+	현실/ncn+의/jcm
+
+
+두
+	두/nnc
+
+부분으로
+	부분/ncn+으로/jca
+
+만들어
+	만들/pvg+어/ecx
+
+졌다
+	지/pvg+었/ep+다/ef
+
+
+무령왕릉에서
+	무령왕릉/ncn+에서/jca
+
+출토된
+	출토/ncpa+되/xsvn+ㄴ/etm
+
+유물은
+	유물/ncn+은/jxc
+
+108종4600여점에
+	108종4600여점/ncn+에/jca
+
+이르고
+	이르/pvg+고/ecc
+
+있으며
+	있/px+으며/ecc
+
+이중
+	이중/ncn
+
+국보로
+	국보/ncn+로/jca
+
+지정된
+	지정/ncpa+되/xsvn+ㄴ/etm
+
+것은12종22점이다
+	것은12종22점/ncn+이/jp+다/ef
+
+
+이왕릉에서
+	이왕릉/ncn+에서/jca
+
+금제관장식
+	금제/ncpa+관장/ncr+식/ncn
+
+귀걸이
+	귀걸이/ncn
+
+목거리
+	목거리/ncn
+
+팔찌
+	팔찌/ncn
+
+등의
+	등/nbu+의/jcm
+
+각종
+	각종/ncn
+
+장신구를
+	장신구/ncn+를/jco
+
+포함하여
+	포함/ncpa+하/xsva+어/ecx
+
+청동거울
+	청동/ncn+거울/ncn
+
+두침
+	두침/ncn
+
+족침
+	족치/pvg+ㅁ/etn
+
+등도
+	등/nbn+도/jxc
+
+
+출토
+	출토/ncpa
+
+되었다
+	되/px+었/ep+다/ef
+
+
+백제문화단지는
+	백제문화/ncn+단지/ncn+는/jxc
+
+찬란했던
+	찬란/ncpa+하/xsva+었/ep+던/etm
+
+백제역사문화의
+	백제역사문화/ncn+의/jcm
+
+우수성을
+	우수성/ncn+을/jco
+
+세계에
+	세계/ncn+에/jca
+
+알리고자
+	알리고/ncn+이/jp+자/ecc
+
+1994년부터
+	1994/nnc+년/nbu+부터/jxc
+
+2010년까지
+	2010/nnc+년/nbu+까지/jca
+
+
+총17년간의
+	총17년간/ncn+의/jcm
+
+역사적인
+	역사/ncn+적/ncn+이/jp+ㄴ/etm
+
+대장정
+	대장정/ncn
+
+끝에
+	끝/ncn+에/jca
+
+백제의
+	백제/ncn+의/jcm
+
+역사와
+	역사/ncn+와/jcj
+
+문화를
+	문화/ncn+를/jco
+
+한눈에
+	한눈/ncn+에/jca
+
+볼수있는
+	보/px+ㄹ/etm+수/nbn+있/xsmn+는/etm
+
+백제역사관
+	백제역사관/ncn
+
+등
+	등/nbu
+
+1400년
+	1400/nnc+년/nbu
+
+
+전
+	전/nbn
+
+문화대국
+	문화/ncn+대국/ncn
+
+이었던
+	이/npd+이/jp+었/ep+던/etm
+
+백제의
+	백제/ncn+의/jcm
+
+모습을
+	모습/ncn+을/jco
+
+보여주고있다
+	보여주/pvg+고/ecx+있/px+다/ef
+
+
+궁남지[
+	궁남지[/ncn
+
+]
+	]/sr
+
+
+이
+	이/mmd
+
+연못은
+	연못/ncn+은/jxc
+
+신라
+	신/xp+라/ncn
+
+선화공주와
+	선화/ncn+공주/ncr+와/jct
+
+결혼한
+	결혼/ncpa+하/xsva+ㄴ/etm
+
+무왕의
+	무왕/ncn+의/jcm
+
+서동요
+	서동요/ncn
+
+전설이
+	전설/ncn+이/jcc
+
+깃든
+	깃들/pvg+ㄴ/etm
+
+곳이다
+	곳/nbu+이/jp+다/ef
+
+
+삼국사기에
+	삼국사/ncn+이/jp+기/etn+에/jca
+
+백제무왕35년[634]궁의
+	백제무왕35년[634]궁/ncn+의/jcm
+
+남쪽에
+	남쪽/ncn+에/jca
+
+못을파고
+	못을파/ncn+이/jp+고/ecc
+
+이십여리
+	이/nnc+십여/nnc+리/nbu
+
+밖에서
+	밖/ncn+에서/jca
+
+물을
+	물/ncn+을/jco
+
+끌어다가
+	끌/pvg+어다/ecx+가/px+아/ecx
+
+채우고
+	채우/pvg+고/ecc
+
+
+주의에는
+	주의/ncn+에/jca+는/jxc
+
+버드나무를
+	버드나무/ncn+를/jco
+
+심었다고
+	심/pvg+었/ep+다/ef+고/jcr
+
+함
+	함/ncn
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'186';
+	'/sl+186/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc28/2012/05/15/1247/03100323711453FE36C35900530506F3B49_deogjang_PC_DEFAULT_logo.
+	net/blogucc28/2012/05/15/1247/03100323711453FE36C35900530506F3B49_deogjang_PC_DEFAULT_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'470.
+	'/sr+470./nnc
+
+55';
+	55/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'8D00207FAD0095378D8FDEE11D67F75BD088';
+	'8D00207FAD0095378D8FDEE11D67F75BD088/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V12925ac286680e6491f2ed51fd7a4a9ac4e99332defeb4d3c118fd944a0708607b5ded51fd7a4a9ac4e9';
+	'V12925ac286680e6491f2ed51fd7a4a9ac4e99332defeb4d3c118fd944a0708607b5ded51fd7a4a9ac4e9/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'MUSIC';
+	'/sl+MUSIC/f+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_01149
+	ugcPlayer_01149/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_01149'
+	VideoInfraUGCPlayer('ugcPlayer_01149'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_01149
+	ugcPlayer_01149/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+:
+	:/sp

@@ -1,0 +1,2230 @@
+국회의장
+	국회의장/ncr
+
+청와대
+	청와대/ncn
+
+수석
+	수석/ncr
+
+국정원
+	국정/ncn+원/ncn
+
+차장
+	차장/ncr
+
+개인정보
+	개인정보/ncn
+
+유출우리
+	유출/ncpa+우리/ncn
+
+나라
+	나/npp+이/jp+라/ecs
+
+전체
+	전체/ncn
+
+성인인구와
+	성인/ncn+인구/ncn+와/jct
+
+맞먹는
+	맞먹/pvg+는/etm
+
+1천1백여만명
+	1/nnc+천/nnc+1/nnc+백여/nnc+만/nnc+명/nbu
+
+분의
+	분/nbu+의/jcm
+
+개인
+	개/nbu+이/jp+ㄴ/etm
+
+정보가
+	정보/ncn+가/jcs
+
+고스란히
+	고스란히/mag
+
+담긴
+	담기/pvg+ㄴ/etm
+
+CD가
+	CD/f+가/jcc
+
+서울
+	서울/ncn
+
+강남의
+	강남/ncn+의/jcm
+
+유흥가
+	유흥가/ncn
+
+골목길에
+	골목길/ncn+에/jca
+
+버려진
+	버리/px+어/ecx+지/px+ㄴ/etm
+
+채
+	채/nbn
+
+발견돼
+	발견/ncpa+되/xsvn+어/ecx
+
+충격을
+	충격/ncn+을/jco
+
+주고
+	주/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+문제의
+	문제/ncn+의/jcm
+
+CD
+	CD/f
+
+안에는
+	안/ncn+에/jca+는/jxc
+
+청와대
+	청와대/ncn
+
+수석
+	수석/ncr
+
+비서관과
+	비서관/ncr+과/jcj
+
+장관은
+	장관/ncr+은/jxc
+
+물론
+	물론/mag
+
+국회의장과
+	국회의장/ncr+과/jcj
+
+국회의원,
+	국회의원/ncr+,/sp
+
+경찰청장과
+	경찰청장/ncr+과/jcj
+
+언론인
+	언론/ncn+이/jp+ㄴ/etm
+
+등
+	등/nbu
+
+국내
+	국내/ncn
+
+주요인사들의
+	주요인사/ncn+들/ncn+의/jcm
+
+주민번호,
+	주민/ncn+번호/ncn+,/sp
+
+집
+	집/ncn
+
+주소,
+	주소/ncn+,/sp
+
+전화번호
+	전화번호/ncn
+
+등
+	등/nbu
+
+구체적인
+	구체/ncn+적/ncn+이/jp+ㄴ/etm
+
+개인정보가
+	개인정보/ncn+가/jcs
+
+대부분
+	대부분/ncn
+
+담겨져
+	담겨지/pvg+어/ecx
+
+있어
+	있/px+어/ecx
+
+파문이
+	파문/ncn+이/jcc
+
+확산될
+	확산/ncpa+되/xsvn+ㄹ/etm
+
+전망이다
+	전망/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+개인정보가
+	개인정보/ncn+가/jcs
+
+담긴
+	담기/pvg+ㄴ/etm
+
+CD와
+	CD/f+와/jct
+
+함께
+	함께/mag
+
+샘플로
+	샘플/ncn+로/jca
+
+보이는
+	보이/pvg+는/etm
+
+CD도
+	CD/f+도/jxc
+
+함께
+	함께/mag
+
+발견돼
+	발견/ncpa+되/xsvn+어/ecx
+
+이같은
+	이같은/mma
+
+개인정보가
+	개인정보/ncn+가/jcs
+
+사고
+	사/pvg+고/ecc
+
+팔리는
+	팔리/pvg+는/etm
+
+것
+	것/nbn
+
+아니냐는
+	아니/paa+냐/ef+는/etm
+
+우려를
+	우려/ncpa+를/jco
+
+낳고
+	낳/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+"영화인줄
+	"/sl+영화/ncn+이/jp+ㄴ/etm+줄/nbn
+
+알았는데"
+	알/pvg+아/ep+ㄴ데/ecs+"/sr
+
+CD서
+	CD/f+서/jca
+
+1천1백만명
+	1/nnc+천/nnc+1/nnc+백/nnc+만/nnc+명/nbu
+
+개인정보
+	개인정보/ncn
+
+회사원
+	회사/ncn+원/ncn
+
+A씨는
+	A/f+씨/ncn+는/jxc
+
+최근
+	최근/mag
+
+강남의
+	강남/ncn+의/jcm
+
+한
+	한/nnc
+
+술집에서
+	술집/ncn+에서/jca
+
+술을
+	술/ncn+을/jco
+
+마신
+	마시/pvg+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+귀가하다가
+	귀가/ncpa+하/xsva+다가/ecs
+
+골목길
+	골목길/ncn
+
+쓰레기
+	쓰레기/ncn
+
+더미
+	더미/ncn
+
+위에서
+	위/ncn+에서/jca
+
+CD를
+	CD/f+를/jco
+
+우연히
+	우연히/mag
+
+발견했다
+	발견/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+'영화'가
+	'/sr+영화/ncn+'/sr+가/jcc
+
+담긴
+	담기/pvg+ㄴ/etm
+
+CD인줄
+	CD/f+이/jp+ㄴ/etm+줄/nbn
+
+알고
+	알/pvg+고/ecx
+
+주워온
+	줍/pvg+어/ecx+오/px+ㄴ/etm
+
+A씨는
+	A/f+씨/ncn+는/jxc
+
+그러나
+	그러나/maj
+
+집으로
+	집/ncn+으로/jca
+
+돌아와
+	돌/pvg+아/ecx+오/px+아/ecx
+
+CD
+	CD/f
+
+내용을
+	내용/ncn+을/jco
+
+열어보고
+	열/pvg+어/ecx+보/px+고/ecc
+
+입을
+	입/ncn+을/jco
+
+다물지
+	다물/pvg+지/ecx
+
+못했다
+	못하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+문제의
+	문제/ncn+의/jcm
+
+CD안에는
+	CD/f+안/ncn+에/jca+는/jxc
+
+무려
+	무려/mag
+
+1천만명이
+	1/nnc+천/nnc+만/nnc+명/nbu+이/jcc
+
+넘는
+	넘/pvg+는/etm
+
+개인정보가
+	개인정보/ncn+가/jcs
+
+끝없이
+	끝없이/mag
+
+들어
+	들/pvg+어/ecx
+
+있었기
+	있/px+었/ep+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+자신의
+	자신/ncn+의/jcm
+
+개인정보도
+	개인정보/ncn+도/jxc
+
+고스란히
+	고스란히/mag
+
+담겨
+	담기/pvg+어/ecx
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+주민번호를
+	주민/ncn+번호/ncn+를/jco
+
+포함해
+	포함/ncpa+하/xsva+어/ecx
+
+이름과
+	이름/ncn+과/jcj
+
+집
+	집/ncn
+
+주소,일반
+	주소/ncn+,/sp+일반/ncn
+
+전화번호와
+	전화번호/ncn+와/jcj
+
+휴대전화
+	휴대전화/ncpa
+
+번호에
+	번호/ncn+에/jca
+
+직장
+	직장/ncn
+
+주소,
+	주소/ncn+,/sp
+
+이메일
+	이메/ncn+이/jp+ㄹ/etm
+
+주소까지
+	주소/ncn+까지/jxc
+
+포함돼
+	포함/ncpa+되/xsvn+어/ecx
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+A씨는
+	A/f+씨/ncn+는/jxc
+
+"강남역에서
+	"/sl+강남역/ncn+에서/jca
+
+친구들과
+	친구/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+술을
+	술/ncn+을/jco
+
+먹다
+	먹/pvg+다/ef
+
+쓰레기
+	쓰레기/ncn
+
+더미에
+	더미/ncn+에/jca
+
+섞여
+	섞이/pvg+어/ecx
+
+있던
+	있/px+던/etm
+
+CD안에
+	CD/f+안/ncn+에/jca
+
+이렇게
+	이렇/pad+게/ecs
+
+충격적인
+	충격/ncn+적/ncn+이/jp+ㄴ/etm
+
+내용이
+	내용/ncn+이/jcc
+
+담겨
+	담기/pvg+어/ecx
+
+있을
+	있/px+을/etm
+
+줄은
+	줄/nbn+은/jxc
+
+꿈에도
+	꿈/ncn+에/jca+도/jxc
+
+몰랐다"며
+	몰랐다"며/ncn
+
+"CD를
+	"/sl+CD/f+를/jco
+
+확인한
+	확/ncn+이/jp+ㄴ/etm+한/nbn
+
+하는
+	하/pvg+는/etm
+
+순간
+	순간/ncn
+
+너무
+	너무/mag
+
+놀랐다"고
+	놀라/pvg+아/ep+다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+A씨는
+	A/f+씨/ncn+는/jxc
+
+이어
+	이/npd+이/jp+어/ecs
+
+"CD는
+	"/sl+CD/f+는/jxc
+
+총
+	총/mma
+
+두장이며,
+	두/nnc+장/nbu+이/jp+며/ecc+,/sp
+
+한장에는
+	한/nnc+장/nbu+에/jca+는/jxc
+
+개인정보가
+	개인정보/ncn+가/jcs
+
+담겨
+	담기/pvg+어/ecx
+
+있었고
+	있/px+었/ep+고/ecc
+
+샘플로
+	샘플/ncn+로/jca
+
+보이는
+	보이/pvg+는/etm
+
+CD도
+	CD/f+도/jxc
+
+함께
+	함께/mag
+
+있었다"며
+	있었다"며/ncn
+
+"내
+	"/sl+내/npp
+
+개인정보가
+	개인정보/ncn+가/jcs
+
+쓰레기
+	쓰레기/ncn
+
+취급을
+	취급/ncpa+을/jco
+
+당하는
+	당하/pvg+는/etm
+
+것
+	것/nbn
+
+같아
+	같/paa+아/ecx
+
+제보를
+	제보/ncpa+를/jco
+
+하게
+	하/pvg+게/ecs
+
+됐다"고
+	되/pvg+었/ep+다/ef+"/sr+고/jcr
+
+설명했다
+	설명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+10대부터
+	10/nnc+대/nbu+부터/jxc
+
+60대까지
+	60/nnc+대/nbu+까지/jxc
+
+개인정보
+	개인정보/ncn
+
+'싹쓸이'CBS
+	'싹쓸이'CBS/ncn
+
+노컷뉴스가
+	노컷뉴스/ncn+가/jcs
+
+단독
+	단독/ncn
+
+입수한
+	입수/ncpa+하/xsva+ㄴ/etm
+
+문제의
+	문제/ncn+의/jcm
+
+CD를
+	CD/f+를/jco
+
+열면
+	열/pvg+면/ecs
+
+'B
+	'/sr+B/f
+
+정유회사
+	정유회사/ncn
+
+고객명단'이라는
+	고객/ncn+명단/ncn+'/sr+이/jp+라/ef+는/etm
+
+꾸러미(파일
+	꾸러미(파/ncn+이/jp+ㄹ/etm
+
+폴더)가
+	폴더)/ncn+가/jcs
+
+생성돼
+	생성/ncpa+되/xsvn+어/ecx
+
+있고,
+	있/px+고/ecc+,/sp
+
+꾸러미
+	꾸러미/nbu
+
+안에는
+	안/ncn+에/jca+는/jxc
+
+총
+	총/mma
+
+76개의
+	76/nnc+개/nbu+의/jcm
+
+엑셀
+	엑셀/ncn
+
+파일이
+	파일/ncn+이/jcc
+
+출생
+	출생/ncpa
+
+연도별로
+	연도/ncn+별/ncn+로/jca
+
+정리돼
+	정리/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이들
+	이/ncn+들/xsncc
+
+파일에는
+	파일/ncn+에/jca+는/jxc
+
+1940년생부터
+	1940/nnc+년생/nbu+부터/jxc
+
+1992년생까지
+	1992/nnc+년생/nbu+까지/jxc
+
+총
+	총/mma
+
+1천
+	1/nnc+천/nnc
+
+119만
+	119/ncn+만/jxc
+
+2297명의
+	2297/nnc+명/nbu+의/jcm
+
+주민번호와
+	주민/ncn+번호/ncn+와/jcj
+
+이름은
+	이름/ncn+은/jxc
+
+물론
+	물론/mag
+
+집주소와
+	집주/ncn+소/ncn+와/jcj
+
+일반
+	일반/ncn
+
+전화번호,휴대전화
+	전화번호/ncn+,/sp+휴대전화/ncpa
+
+번호,
+	번호/ncn+,/sp
+
+회사주소,
+	회사/ncn+주소/ncn+,/sp
+
+이메일
+	이메/ncn+이/jp+ㄹ/etm
+
+등
+	등/nbu
+
+개인정보가
+	개인정보/ncn+가/jcs
+
+대거
+	대거/mag
+
+망라돼
+	망라/ncpa+되/xsvn+어/ecx
+
+있으며
+	있/px+으며/ecc
+
+각각의
+	각각/ncn+의/jcm
+
+파일은
+	파일/ncn+은/jxc
+
+주민번호
+	주민/ncn+번호/ncn
+
+순으로
+	순/ncn+으로/jca
+
+개인정보를
+	개인정보/ncn+를/jco
+
+정리해
+	정리/ncpa+하/xsva+어/ecx
+
+놓았다
+	놓/px+아/ep+다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+일부
+	일/nnc+부/nbu
+
+파일의
+	파일/ncn+의/jcm
+
+말미에는
+	말미/ncn+에/jca+는/jxc
+
+개인정보
+	개인정보/ncn
+
+뿐만
+	뿐/nbn+만/jxc
+
+아니라
+	아니/paa+라/ecs
+
+법인의
+	법인/ncn+의/jcm
+
+정보도
+	정보/ncn+도/jxc
+
+포함돼
+	포함/ncpa+되/xsvn+어/ecx
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+지역적으로도
+	지역/ncn+적/ncn+으로/jca+도/jxc
+
+서울,경기는
+	서울,경기/ncn+는/jxc
+
+물론
+	물론/mag
+
+영호남과
+	영호남/ncn+과/jcj
+
+제주까지
+	제주/ncn+까지/jxc
+
+전국
+	전국/ncn
+
+16개
+	16/nnc+개/nbu
+
+시도에
+	시도/ncn+에/jca
+
+거주하는
+	거주/ncpa+하/xsva+는/etm
+
+개인정보를
+	개인정보/ncn+를/jco
+
+담고
+	담/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+외부
+	외부/ncn
+
+링크로
+	링크/ncpa+로/jca
+
+첨부된
+	첨부/ncpa+되/xsvn+ㄴ/etm
+
+음악,
+	음악/ncn+,/sp
+
+동영상은재생이
+	동영상은재생/ncn+이/jcc
+
+지원되지
+	지원/ncpa+되/xsvn+지/ecx
+
+않습니다
+	않/px+습니다/ef
+
+.
+	./sf
+
+
+경찰청장,
+	경찰청장/ncr+,/sp
+
+장관,
+	장관/ncr+,/sp
+
+국회의원
+	국회의원/ncr
+
+등
+	등/nbu
+
+개인정보
+	개인정보/ncn
+
+고스란히
+	고스란히/mag
+
+노출더욱
+	노출더욱/ncn
+
+충격적인
+	충격/ncn+적/ncn+이/jp+ㄴ/etm
+
+것은
+	것/nbn+은/jxc
+
+CD안에
+	CD/f+안/ncn+에/jca
+
+국내
+	국내/ncn
+
+주요인사들이
+	주요인사/ncn+들/ncn+이/jcc
+
+대거
+	대거/mag
+
+망라돼
+	망라/ncpa+되/xsvn+어/ecx
+
+있다는
+	있/px+다/ef+는/etm
+
+점.김형오
+	점.김형오/ncn
+
+국회의장을
+	국회의장/ncr+을/jco
+
+비롯해
+	비롯/ncpa+하/xsva+어/ecx
+
+청와대
+	청와대/ncn
+
+정동기
+	정동/ncn+기/ncn
+
+민정수석,정진곤
+	민정수석/ncn+,/sp+정진/ncpa+곤/ncn
+
+교육과학문화수석의
+	교육/ncpa+과학문화/ncn+수석/ncr+의/jcm
+
+개인정보가
+	개인정보/ncn+가/jcs
+
+노출돼
+	노출/ncpa+되/xsvn+어/ecx
+
+있고
+	있/px+고/ecc
+
+원세훈
+	원세훈/ncn
+
+행정안전부장관과
+	행정/ncn+안전/ncps+부장/ncr+관/ncn+과/jcj
+
+이상희
+	이상희/ncn
+
+국방장관
+	국방장관/ncn
+
+등
+	등/nbu
+
+내각
+	내각/ncn
+
+구성원들의
+	구성/ncn+원/ncn+들/xsncc+의/jcm
+
+개인정보도
+	개인정보/ncn+도/jxc
+
+담겨져
+	담겨지/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+김회선
+	김회선/ncn
+
+국가정보원
+	국가정보/ncn+원/ncn
+
+2차장과
+	2차장/ncn+과/jcj
+
+어청수
+	어청수/ncn
+
+경찰청장
+	경찰청장/ncr
+
+등
+	등/nbu
+
+'정보'를
+	'/sr+정보/ncn+'/sr+를/jco
+
+다루는
+	다루/pvg+는/etm
+
+인사들의
+	인사/ncn+들/ncn+의/jcm
+
+개인정보도
+	개인정보/ncn+도/jxc
+
+뚫렸다
+	뚫리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이밖에
+	이/npd+밖에/jxc
+
+한나라당
+	한나라당/ncn
+
+나경원
+	나경원/ncn
+
+의원과
+	의원/ncr+과/jcj
+
+고승덕
+	고승/ncn+덕/ncn
+
+의원,
+	의원/ncr+,/sp
+
+민주노동당
+	민주/ncn+노동당/ncn
+
+곽정숙
+	곽정숙/ncn
+
+의원
+	의원/ncr
+
+등
+	등/nbu
+
+여야
+	여/ncn+이/jp+야/ef
+
+정치인들의
+	정치인/ncn+들/ncn+의/jcm
+
+개인정보는
+	개인정보/ncn+는/jxc
+
+분석을
+	분석/ncpa+을/jco
+
+다하지
+	다하/pvg+지/ecx
+
+못할
+	못하/px+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+차고
+	차/ncn+이/jp+고/ecc
+
+넘쳤다
+	넘치/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이와
+	이/npd+와/jct
+
+관련해
+	관련/ncn+해/ncn
+
+나경원
+	나경원/ncn
+
+의원은
+	의원/ncr+은/jxc
+
+어떻게
+	어떻/pad+게/ecs
+
+이런
+	이런/mmd
+
+일이
+	일/ncn+이/jcc
+
+일어날
+	일어나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는지
+	있/px+는지/ecs
+
+이해할
+	이해/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+없다
+	없/paa+다/ef
+
+며
+	며/ncn
+
+정보화
+	정보화/ncpa
+
+사회의
+	사회/ncn+의/jcm
+
+폐해다
+	폐해/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+하루속히
+	하루속히/mag
+
+진상이
+	진상/ncn+이/jcc
+
+밝혀져야
+	밝히/pvg+어/ecx+지/px+어야/ecs
+
+한다
+	하/px+ㄴ다/ef
+
+고
+	고/mma
+
+개탄했다
+	개탄/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+폴더명이
+	폴더명이/ncn
+
+'B
+	'/sr+B/f
+
+정유회사
+	정유회사/ncn
+
+고객정보'
+	고객정보/ncn+'/sr
+
+해당
+	해당/ncpa
+
+기업,
+	기업/ncn+,/sp
+
+대조작업
+	대조작업/ncpa
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+해당
+	해당/ncpa
+
+업체는
+	업체/ncn+는/jxc
+
+고객
+	고객/ncn
+
+정보가
+	정보/ncn+가/jcs
+
+맞는지
+	맞/pvg+는지/ecs
+
+여부를
+	여부/ncn+를/jco
+
+가리기
+	가리/pvg+기/etn
+
+위해
+	위하/pvg+어/ecx
+
+확인작업에
+	확인작업/ncpa+에/jca
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+등
+	등/nbu
+
+사태
+	사태/ncn
+
+파악에
+	파악/ncpa+에/jca
+
+안간힘을
+	안간힘/ncn+을/jco
+
+쓰고
+	쓰/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+B
+	B/f
+
+정유회사는
+	정유회사/ncn+는/jxc
+
+4일
+	4/nnc+이/jp+ㄹ/etm
+
+자체보유하고
+	자체보유/ncn+하고/jct
+
+있는
+	있/px+는/etm
+
+고객
+	고객/ncn
+
+정보와
+	정보/ncn+와/jcj
+
+CD안의
+	CD/f+안/ncn+의/jcm
+
+개인정보를
+	개인정보/ncn+를/jco
+
+대조하는
+	대조/ncpa+하/xsva+는/etm
+
+작업에
+	작업/ncpa+에/jca
+
+들어갔다
+	들/pvg+어/ecx+가/px+아/ep+다/ef
+
+.
+	./sf
+
+
+B사
+	B사/ncn
+
+관계자는
+	관계자/ncn+는/jxc
+
+"데이터베이스를
+	"/sl+데이터베이스/ncn+를/jco
+
+정확하게
+	정확/ncps+하/xsms+게/ecs
+
+대조할
+	대조/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+시간이
+	시간/ncn+이/jcc
+
+필요하다
+	필요/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+24시간
+	24/nnc+시간/nbu
+
+정도면
+	정도/ncn+이/jp+면/ecs
+
+작업이
+	작업/ncpa+이/jcc
+
+끝날
+	끝나/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같다"고
+	같/paa+다/ef+"/sr+고/jcr
+
+밝혔다
+	밝히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+관계자는
+	관계자/ncn+는/jxc
+
+이어
+	이/npd+이/jp+어/ecs
+
+"현재까지
+	"/sl+현재/ncn+까지/jxc
+
+고객정보가
+	고객정보/ncn+가/jcs
+
+유출됐다는
+	유출/ncpa+되/xsvn+었/ep+다/ef+는/etm
+
+신고는
+	신/pvg+고/ecs+는/jxc
+
+없었으며
+	없/paa+었/ep+으며/ecc
+
+돈을
+	돈/ncn+을/jco
+
+노린
+	노리/pvg+ㄴ/etm
+
+협박이나
+	협박/ncpa+이나/jcj
+
+피해
+	피하/pvg+어/ecx
+
+사례도
+	사례/ncn+도/jxc
+
+없었다"고
+	없/paa+었/ep+다/ef+"/sr+고/jcr
+
+밝힌
+	밝히/pvg+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+"아마도
+	"/sl+아마/mag+도/jxc
+
+시중에
+	시중/ncn+에/jca
+
+돌아다니는
+	돌아다니/pvg+는/etm
+
+개인정보를
+	개인정보/ncn+를/jco
+
+짜깁기한
+	짜깁기한/ncn
+
+CD가
+	CD/f+가/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+하는
+	하/pvg+는/etm
+
+추측이
+	추측/ncpa+이/jcc
+
+든다"고
+	들/pvg+ㄴ다/ef+"/sr+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+그러면서
+	그러/pvd+면서/ecc
+
+"현재
+	"/sl+현재/ncn
+
+시중에
+	시중/ncn+에/jca
+
+개인정보가
+	개인정보/ncn+가/jcs
+
+담긴
+	담기/pvg+ㄴ/etm
+
+CD가
+	CD/f+가/jcc
+
+40-50만원
+	40/nnc+-50/nnc+만/nnc+원/nbu
+
+선에서
+	선/ncn+에서/jca
+
+거래되고
+	거래/ncpa+되/xsvn+고/ecc
+
+있다는
+	있/px+다/ef+는/etm
+
+소리를
+	소리/ncn+를/jco
+
+들은
+	들/pvg+ㄴ/etm
+
+적이
+	적/ncn+이/jcc
+
+있다"며
+	있다"며/ncn
+
+"정확한
+	"/sl+정확/ncps+하/xsms+ㄴ/etm
+
+사정은
+	사정/ncn+은/jxc
+
+5일
+	5/nnc+이/jp+ㄹ/etm
+
+오후가
+	오후/ncn+가/jcs
+
+돼야
+	되/pvg+어야/ecs
+
+파악할
+	파악/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있을
+	있/px+을/etm
+
+것
+	것/nbn
+
+같다
+	같/paa+다/ef
+
+"고
+	"/sr+고/jcr
+
+덧붙였다
+	덧붙이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+국정원
+	국정/ncn+원/ncn
+
+차장
+	차장/ncr
+
+경찰청장도
+	경찰청장/ncr+도/jxc
+
+개인정보
+	개인정보/ncn
+
+유출에
+	유출/ncpa+에/jca
+
+'속수무책'
+	'/sl+속수무책/ncn+'/sr
+
+
+'의문의
+	'/sr+의문/ncps+의/jcm
+
+CD'에는
+	CD/f+'/sr+에/jca+는/jxc
+
+국내
+	국내/ncn
+
+고위인사들의
+	고위인사/ncn+들/ncn+의/jcm
+
+개인정보도
+	개인정보/ncn+도/jxc
+
+수두룩했다
+	수두룩/ncps+하/xsms+었/ep+다/ef
+
+.
+	./sf
+
+
+우선
+	우선/mag
+
+입법부
+	입법부/ncn
+
+수장인
+	수장/ncn+이/jp+ㄴ/etm
+
+김형오
+	김형오/ncn
+
+국회의장
+	국회의장/ncr
+
+.
+	./sf
+
+
+김형오
+	김형오/ncn
+
+의장은
+	의장/ncr+은/jxc
+
+주민번호가
+	주민/ncn+번호/ncn+가/jcs
+
+고스란히
+	고스란히/mag
+
+유출됐다
+	유출/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+1947년
+	1947/nnc+년/nbu
+
+11월
+	11/nnc+월/nbu
+
+30일
+	30/nnc+일/nbu
+
+출생한
+	출생/ncpa+하/xsva+ㄴ/etm
+
+김
+	길/paa+ㅁ/etn
+
+의장의
+	의장/ncr+의/jcm
+
+주민번호
+	주민/ncn+번호/ncn
+
+뒷자리까지
+	뒷자리/ncn+까지/jxc
+
+노출돼
+	노출/ncpa+되/xsvn+어/ecx
+
+있었다
+	있/px+었/ep+다/ef
+
+.
+	./sf
+
+
+주소는
+	주소/ncn+는/jxc
+
+서울
+	서울/ncn
+
+여의도
+	여의/ncn+도/jxc
+
+국회의원
+	국회의원/ncr
+
+회관
+	회관/ncn
+
+341호로
+	341/nnc+호/nbu+로/jca
+
+돼있었던게
+	되/pvg+어/ecx+있/px+었/ep+더/ep+ㄴ게/ecs
+
+그나마
+	그나마/mag
+
+다행이었다
+	다행/ncps+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+청와대
+	청와대/ncn
+
+정동기
+	정동/ncn+기/ncn
+
+민정수석의
+	민정수석/ncn+의/jcm
+
+경우는
+	경우/ncn+는/jxc
+
+주민번호는
+	주민/ncn+번호/ncn+는/jxc
+
+물론
+	물론/mag
+
+현재
+	현재/mag
+
+살고
+	살/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+강남의
+	강남/ncn+의/jcm
+
+아파트
+	아파트/ncn
+
+동
+	동/nbu
+
+호수까지
+	호수/ncn+까지/jxc
+
+그대로
+	그대로/mag
+
+유출됐고
+	유출/ncpa+되/xsvn+었/ep+고/ecc
+
+자택
+	자택/ncn
+
+전화번호도
+	전화번호/ncn+도/jxc
+
+고스란히
+	고스란히/mag
+
+노출돼
+	노출/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+정진곤
+	정진/ncpa+곤/ncn
+
+교육과학문화수석도
+	교육/ncpa+과학문화/ncn+수석/ncr+도/jxc
+
+주민번호,
+	주민/ncn+번호/ncn+,/sp
+
+아파트
+	아파트/ncn
+
+동
+	동/nbu
+
+호수,
+	호수/ncn+,/sp
+
+자택
+	자택/ncn
+
+전화번호가
+	전화번호/ncn+가/jcs
+
+드러나
+	드러나/pvg+아/ecx
+
+있다
+	있/px+다/ef
+
+.'
+	./sf+'/sl
+
+
+정보'를
+	정보/ncn+'/sr+를/jco
+
+다루는
+	다루/pvg+는/etm
+
+국가정보원
+	국가정보/ncn+원/ncn
+
+차장과
+	차장/ncr+과/jcj
+
+경찰청장의
+	경찰청장/ncr+의/jcm
+
+개인정보도
+	개인정보/ncn+도/jxc
+
+뚫렸다
+	뚫리/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+김회선
+	김회선/ncn
+
+국정원
+	국정/ncn+원/ncn
+
+2차장은
+	2차장/ncn+은/jxc
+
+주민번호와
+	주민/ncn+번호/ncn+와/jct
+
+함께
+	함께/mag
+
+강남
+	강남/ncn
+
+아파트의
+	아파트/ncn+의/jcm
+
+주소와
+	주소/ncn+와/jcj
+
+자택전호번호가
+	자택전호번호/ncn+가/jcs
+
+유출돼
+	유출/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+어청수
+	어청수/ncn
+
+경찰청장은
+	경찰청장/ncr+은/jxc
+
+공관에
+	공관/ncn+에/jca
+
+들어오기
+	들/pvg+어/ecx+오/px+기/etn
+
+전까지
+	전/nbn+까지/jxc
+
+살던
+	살/pvg+던/etm
+
+서울
+	서울/ncn
+
+송파구의
+	송파구/ncn+의/jcm
+
+개인
+	개/nbu+이/jp+ㄴ/etm
+
+아파트
+	아파트/ncn
+
+주소와
+	주소/ncn+와/jcj
+
+전화번호가
+	전화번호/ncn+가/jcs
+
+노출돼
+	노출/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+상태다
+	상태/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+이들의
+	이/ncn+들/xsncc+의/jcm
+
+주민번호도
+	주민/ncn+번호/ncn+도/jxc
+
+그대로
+	그대로/mag
+
+각각
+	각각/mag
+
+유출됐다
+	유출/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+원세훈
+	원세훈/ncn
+
+행정안전부
+	행정/ncn+안전/ncn+부/ncn
+
+장관과
+	장관/ncr+과/jcj
+
+이상희
+	이상희/ncn
+
+국방장관은
+	국방장관/ncn+은/jxc
+
+주민번호와
+	주민/ncn+번호/ncn+와/jct
+
+함께
+	함께/mag
+
+집주소,일반
+	집주/ncn+소/ncn+,/sp+일반/ncn
+
+전화번호가
+	전화번호/ncn+가/jcs
+
+CD안에
+	CD/f+안/ncn+에/jca
+
+포함돼
+	포함/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+한나라당
+	한나라당/ncn
+
+나경원
+	나경원/ncn
+
+의원은
+	의원/ncr+은/jxc
+
+주민번호,
+	주민/ncn+번호/ncn+,/sp
+
+아파트와
+	아파트/ncn+와/jcj
+
+전
+	전/nbn
+
+직장
+	직장/ncn
+
+주소,
+	주소/ncn+,/sp
+
+자택
+	자택/ncn
+
+전화번호
+	전화번호/ncn
+
+등이
+	등/nbu+이/jcc
+
+노출됐고
+	노출/ncpa+되/xsvn+었/ep+고/ecc
+
+한나라당
+	한나라당/ncn
+
+고승덕,민주노동당
+	고승/ncn+덕/ncn+,/sp+민주/ncn+노동당/ncn
+
+곽정숙
+	곽정숙/ncn
+
+의원도
+	의원/ncr+도/jxc
+
+주민번호
+	주민/ncn+번호/ncn
+
+등이
+	등/nbu+이/jcc
+
+유출됐다
+	유출/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+일반인들의
+	일반/ncn+이/jp+ㄴ/etm+들/nbn+의/jcm
+
+개인정보는
+	개인정보/ncn+는/jxc
+
+더욱
+	더욱/mag
+
+구체적이어서
+	구체/ncn+적/ncn+이/jp+어서/ecs
+
+주민번호,자택
+	주민/ncn+번호/ncn+,/sp+자택/ncn
+
+주소외에
+	주소/ncn+외/xsnx+에/jca
+
+휴대전화
+	휴대전화/ncpa
+
+번호와
+	번호/ncn+와/jcj
+
+이메일
+	이메/ncn+이/jp+ㄹ/etm
+
+주소까지
+	주소/ncn+까지/jxc
+
+나와
+	나/npp+와/jct
+
+있는
+	있/px+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+대부분이다
+	대부분/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이처럼
+	이/npd+처럼/jca
+
+방대한
+	방대/ncps+하/xsms+ㄴ/etm
+
+개인정보를
+	개인정보/ncn+를/jco
+
+담고
+	담/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+CD가
+	CD/f+가/jcc
+
+시중에
+	시중/ncn+에/jca
+
+유통된다면
+	유통/ncpa+되/xsvn+ㄴ다면/ecs
+
+그
+	그/mmd
+
+피해는
+	피하/pvg+어/ecs+는/jxc
+
+상당할
+	상당/ncps+하/xsms+ㄹ/etm
+
+것으로
+	것/nbn+으로/jca
+
+예상된다
+	예상/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+한국
+	한국/ncn
+
+성인인구
+	성인/ncn+인구/ncn
+
+대부분의
+	대부분/ncn+의/jcm
+
+개인정보를
+	개인정보/ncn+를/jco
+
+담고
+	담/pvg+고/ecc
+
+있는데다
+	있/px+는/etm+데/nbn+이/jp+다/ef
+
+그
+	그/mmd
+
+내용도
+	내용/ncn+도/jxc
+
+상당히
+	상당히/mag
+
+구체적이어서
+	구체/ncn+적/ncn+이/jp+어서/ecs
+
+금융사기
+	금융사/ncn+이/jp+기/etn
+
+등에
+	등/nbu+에/jca
+
+악용될
+	악용/ncpa+되/xsvn+ㄹ/etm
+
+경우
+	경우/ncn
+
+엄청난
+	엄청나/paa+ㄴ/etm
+
+피해를
+	피해/ncpa+를/jco
+
+몰고
+	몰/pvg+고/ecc
+
+올
+	오/px+ㄹ/etm
+
+것으로
+	것/nbn+으로/jca
+
+보인다
+	보이/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+여기에
+	여기/npd+에/jca
+
+단순
+	단순/ncps
+
+정보를
+	정보/ncn+를/jco
+
+결합시켜
+	결합/ncpa+시키/xsva+어/ecx
+
+가공할
+	가공/ncpa+하/xsva+ㄹ/etm
+
+경우
+	경우/ncn
+
+결혼여부와
+	결혼여부/ncn+와/jct
+
+배우자
+	배우/pvg+자/ecc
+
+정보까지
+	정보/ncn+까지/jxc
+
+2차
+	2/nnc+차/nbu
+
+생산할
+	생산/ncpa+하/xsva+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있어
+	있/px+어/ecx
+
+그
+	그/mmd
+
+피해는
+	피하/pvg+어/ef+는/etm
+
+현재로서는
+	현재/ncn+로서/jca+는/jxc
+
+가늠하기
+	가늠/ncpa+하/xsva+기/etn
+
+어렵다
+	어렵/paa+다/ef
+
+.
+	./sf
+
+
+출처:노컷뉴스
+	출처:노컷뉴스/ncn
+
+차성민
+	차성민/ncn
+
+기자anointing@cbs.
+	기자anointing@cbs./ncn
+
+co.
+	co/f+./sy
+
+kr
+	kr/f

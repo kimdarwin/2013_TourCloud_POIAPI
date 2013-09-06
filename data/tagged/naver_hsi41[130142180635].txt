@@ -1,0 +1,417 @@
+장기간
+	장기간/ncn
+
+부동산
+	부동산/ncn
+
+경기침체
+	경기침체/ncpa
+
+여파로
+	여파/ncn+로/jca
+
+경기도
+	경기/ncn+도/jxc
+
+고양
+	고양/ncpa
+
+파주지역에
+	파주지역/ncn+에/jca
+
+'반값
+	'/sr+반값/ncn
+
+아파트'가
+	아파트/ncn+'/sr+가/jcc
+
+속출하고
+	속출/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+10일
+	10/nnc+일/nbu
+
+고양
+	고양/ncpa
+
+파주지역
+	파주지역/ncn
+
+부동산
+	부동산/ncn
+
+업계에
+	업계/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+두
+	두/nnc
+
+지역
+	지역/ncn
+
+아파트
+	아파트/ncn
+
+가격은
+	가격/ncn+은/jxc
+
+부동산
+	부동산/ncn
+
+거래가
+	거래/ncpa+가/jcc
+
+가장
+	가장/mag
+
+활발했던
+	활발/ncps+하/xsms+었/ep+던/etm
+
+2007년
+	2007/nnc+년/nbu
+
+대비
+	대비/ncn
+
+60%
+	60/nnc+%/su
+
+수준에
+	수준/ncn+에/jca
+
+머물고
+	머물/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+일산신도시
+	일산신도시/ncn
+
+157
+	157/nnc
+
+평형
+	평형/ncpa
+
+매매가는
+	매매가/ncn+는/jxc
+
+2007년
+	2007/nnc+년/nbu
+
+8억5000~9억원에서
+	8/nnc+억/nnc+5000/nnc+~/sd+9/nnc+억/nnc+원/nbu+에서/jca
+
+4억5000~5억5000만원으로
+	4/nnc+억/nnc+5000/nnc+~/sd+5/nnc+억/nnc+5000/nnc+만/nnc+원/nbu+으로/jca
+
+떨어졌다
+	떨/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+파주
+	파주/ncn
+
+교하지구
+	교하지구/ncn
+
+145
+	145/nnc
+
+평형도
+	평형/ncpa+도/jxc
+
+5년
+	5/nnc+년/nbu
+
+만에
+	만/nnc+에/jca
+
+5억원
+	5/nnc+억/nnc+원/nbu
+
+선에서
+	선/ncn+에서/jca
+
+3억원
+	3/nnc+억/nnc+원/nbu
+
+선으로
+	선/ncn+으로/jca
+
+추락했다
+	추락/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+신규
+	신규/ncn
+
+아파트는
+	아파트/ncn+는/jxc
+
+분양가
+	분양가/ncn
+
+이하로
+	이하/ncn+로/jca
+
+떨어지며
+	떨어지/pvg+며/ecc
+
+입주까지
+	입주/ncpa+까지/jxc
+
+저조해
+	저조/ncn+해/ncn
+
+'이중고'에
+	'/sr+이중고/ncn+'/sr+에/jca
+
+시달리는
+	시달리/pvg+는/etm
+
+모습이다
+	모습/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+고양
+	고양/ncpa
+
+덕이지구의
+	덕이지구/ncn+의/jcm
+
+한
+	하/pvg+ㄴ/etm
+
+아파트단지는
+	아파트/ncn+단지/ncn+는/jxc
+
+지난해
+	지난해/ncn
+
+3월
+	3/nnc+월/nbu
+
+입주가
+	입주가/ncn
+
+시작됐으나
+	시작/ncpa+되/xsvn+었/ep+으나/ecs
+
+지금까지
+	지금/mag+까지/jxc
+
+입주율은
+	입주/ncpa+율/ncn+은/jxc
+
+37%에
+	37/nnc+%/su+에/jca
+
+머물러
+	머무르/pvg+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+2010년
+	2010/nnc+년/nbu
+
+9월
+	9/nnc+월/nbu
+
+입주가
+	입주가/ncn
+
+시작된
+	시작/ncpa+되/xsvn+ㄴ/etm
+
+식사지구도
+	식사/ncpa+지구/ncn+도/jxc
+
+상황은
+	상황/ncn+은/jxc
+
+비슷하다
+	비슷/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+대형
+	대형/ncn
+
+아파트를
+	아파트/ncn+를/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+상당수가
+	상당수/ncn+가/jcs
+
+빈
+	비/paa+ㄴ/etm
+
+집으로
+	집/ncn+으로/jca
+
+남아있다
+	남/pvg+아/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+이에
+	이/npd+에/jca
+
+건설업체들은
+	건설업체/ncn+들/ncn+은/jxc
+
+미분양
+	미분양/ncpa
+
+물량
+	물량/ncn
+
+가격을
+	가격/ncn+을/jco
+
+10~15%
+	10/nnc+~/sd+15/nnc+%/su
+
+깎아주거나
+	깎/pvg+아/ecx+주/px+거나/ecc
+
+잔금의
+	잔금/ncn+의/jcm
+
+납부
+	납부/ncpa
+
+시기를
+	시/nbu+이/jp+기/etn+를/jco
+
+일정기간
+	일정기간/ncn
+
+유예하는
+	유예/ncpa+하/xsva+는/etm
+
+등
+	등/nbu
+
+자구책
+	자구책/ncn
+
+마련에
+	마련/nbn+에/jca
+
+사활을
+	사활/ncn+을/jco
+
+걸고
+	걸/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+하지만
+	하지만/maj
+
+고양
+	고양/ncpa
+
+파주지역에는
+	파주지역/ncn+에/jca+는/jxc
+
+운정지구,
+	운정지구,/ncn
+
+삼송지구
+	삼송지구/ncn
+
+등
+	등/nbu
+
+앞으로도
+	앞/ncn+으로/jca+도/jxc
+
+아파트
+	아파트/ncn
+
+공급이
+	공급/ncpa+이/jcc
+
+계속
+	계속/mag
+
+이뤄질
+	이루/pvg+어/ecx+지/px+ㄹ/etm
+
+예정이어서
+	예정/ncn+이/jp+어서/ecs
+
+당장
+	당장/mag
+
+상황이
+	상황/ncn+이/jcc
+
+호전되기는
+	호전/ncpa+되/xsvn+기/etn+는/jxc
+
+어려울
+	어렵/paa+을/etm
+
+것으로
+	것/nbn+으로/jca
+
+보는
+	보/px+는/etm
+
+시각이
+	시각/ncn+이/jcc
+
+우세하다
+	우세/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+출처:매일경제
+	출처/ncn+:/sp+매일/ncn+경제/ncn

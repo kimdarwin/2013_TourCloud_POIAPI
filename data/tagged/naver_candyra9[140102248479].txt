@@ -1,0 +1,351 @@
+어제
+	어제/ncn
+
+풍물시장
+	풍물/ncn+시장/ncn
+
+대보름
+	대보름/ncn
+
+행사
+	행사/ncpa
+
+본다고
+	보/px+ㄴ다/ef+고/jcr
+
+신설동까지
+	신설/ncpa+동/ncn+까지/jxc
+
+나갔다
+	나가/pvg+아/ep+다/ef
+
+돌아오는길에
+	돌아오는길/ncn+에/jca
+
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+김에
+	김/nbn+에/jca
+
+동해바다로
+	동해/ncn+바다/ncn+로/jca
+
+가서
+	가/pvg+서/ecs
+
+일출까지
+	일출/ncpa+까지/jxc
+
+보고
+	보/px+고/ecc
+
+오자고
+	오/px+자/ef+고/jcr
+
+하여
+	하/pvg+어/ecx
+
+달려
+	달리/pvg+어/ecx
+
+봤어요
+	보/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+하필
+	하필/mag
+
+컨디션이
+	컨디션/ncn+이/jcc
+
+꽝인지라,
+	꽝/ncn+이/jp+ㄴ/etm+지/nbn+이/jp+라/ef+,/sp
+
+만남의
+	만남/ncn+의/jcm
+
+광장에서
+	광장/ncn+에서/jca
+
+돈까스와
+	돈까스/ncn+와/jcj
+
+우동
+	우동/ncn
+
+한그릇
+	한/nnc+그릇/nbu
+
+먹고
+	먹/pvg+고/ecc
+
+왔네요
+	오/px+아/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+돈까스는
+	돈까스/ncn+는/jxc
+
+맛이
+	맛/ncn+이/jcc
+
+별로
+	별로/mag
+
+였는데,
+	였는데/ncn+,/sp
+
+
+우동은
+	우동/ncn+은/jxc
+
+역시
+	역시/mag
+
+고속도로
+	고속도로/ncn
+
+휴게소에서
+	휴게소/ncn+에서/jca
+
+먹는
+	먹/pvg+는/etm
+
+맛이
+	맛/ncn+이/jcc
+
+최고인거
+	최고인거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+후루룩~~~~소리내며
+	후루룩~~~~소리내/ncn+이/jp+며/ecc
+
+면발을
+	면발/ncn+을/jco
+
+들이키면
+	들이키/pvg+면/ecs
+
+쫄깃한
+	쫄깃한/ncn
+
+면발과
+	면발/ncn+과/jct
+
+시원하면서
+	시원/ncps+하/xsms+면서/ecc
+
+얼큰하던
+	얼큰하/ncn+이/jp+던/etm
+
+국물
+	국물/ncn
+
+맛.
+	맛/ncn+./sf
+
+...
+	.../se
+
+
+우동
+	우동/ncn
+
+한그릇으로
+	한/nnc+그릇/nbu+으로/jca
+
+여행
+	여행/ncpa
+
+분위기
+	분위기/ncn
+
+다
+	다/mag
+
+내고
+	내/pvg+고/ecc
+
+그냥
+	그냥/mag
+
+돌아
+	돌/pvg+아/ecx
+
+왔네요
+	오/px+아/ep+네/ef+요/jxf
+
+...
+	.../se
+
+
+지금도
+	지금/ncn+도/jxc
+
+몸이
+	몸/ncn+이/jcc
+
+영
+	영/mag
+
+찌푸둥하고
+	찌푸둥하/ncn+이/jp+고/ecc
+
+어슬어슬
+	어슬어슬/ncn
+
+어스러지는
+	어스러지/ncn+는/jxc
+
+듯
+	듯/nbn
+
+나른해요
+	나른/ncps+하/xsms+어/ef+요/jxf
+
+...
+	.../se
+
+
+겨울내
+	겨울/ncn+내/ncn
+
+독한
+	독하/paa+ㄴ/etm
+
+감기
+	감/pvg+기/etn
+
+한
+	하/pvg+ㄴ/etm
+
+번
+	번/nbu
+
+안
+	알/pvg+ㄴ/etm
+
+걸리고
+	것/nbn+이/jp+ㄹ/etm+리/nbn+이/jp+고/ecc
+
+잘
+	잘/mag
+
+넘어간다
+	넘/pvg+어/ecx+가/px+ㄴ다/ef
+
+했더니
+	하/pvg+었더/ep+니/ef
+
+
+봄맞기
+	봄맞기/ncn
+
+전
+	전/nbn
+
+몸살이네요
+	몸살/ncn+이/jp+네/ef+요/jxf
+
+....
+	.../se+./sf
+
+
+풍물시장
+	풍물/ncn+시장/ncn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+더
+	더/mag
+
+보여드려야하고
+	보이/pvg+어/ecx+드리/px+어야/ecx+하/px+고/ecc
+
+북청사자놀이도
+	북청사자놀이도/ncn
+
+가
+	가/jcs
+
+봤어야
+	보/px+아/ep+아/ecs
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+....
+	.../se+./sf
+
+
+오늘
+	오늘/ncn
+
+하루
+	하루/ncn
+
+그냥
+	그냥/mag
+
+푹~~~쉬어야
+	푹~~~쉬/ncn+이/jp+어야/ecs
+
+할까봐요
+	할까봐요/ncn
+
+....
+	.../se+./sf
+
+
+다들
+	다들/ncn
+
+즐거운
+	즐겁/paa+은/etm
+
+보름
+	보름/ncn
+
+보내세요~~~그럼
+	보내세요~~~그럼/ncn
+
+이불
+	이/nnc+불/nbu
+
+속에서
+	속/ncn+에서/jca
+
+번데기
+	벌/pvg+ㄴ/etm+데/nbn+이/jp+기/etn
+
+놀이
+	놀/ncn+이/jcc
+
+해야겠어요
+	하/px+어야겠/ep+어/ef+요/jxf
+
+....
+	.../se+./sf
+
+
+;;
+	;/sy+;/sy

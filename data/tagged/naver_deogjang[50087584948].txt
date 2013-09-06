@@ -1,0 +1,952 @@
+위
+	위/ncn
+
+치
+	치/nbu
+
+:
+	:/sp
+
+서울
+	서울/ncn
+
+도봉구
+	도봉구/ncn
+
+경기도
+	경기/ncn+도/jxc
+
+남양주시,의정부시의
+	남양주시/ncn+,/sp+의정부시/ncn+의/jcm
+
+접경
+	접경/ncpa
+
+지대에
+	지대/ncn+에/jca
+
+있는산[주봉:자운봉739.
+	있는산[주봉:자운봉739./ncn
+
+5m]
+	5m/ncn+]/sr
+
+
+가는
+	가/pvg+는/etm
+
+길
+	길/ncn
+
+:
+	:/sp
+
+서울
+	서울/ncn
+
+지하철1호선[도봉산,망월사]역
+	지하철1호선[도봉산,망월사]역/ncn
+
+하차
+	하차/ncn
+
+관리사무소
+	관리사무소/ncn
+
+02]954~2566
+	02/nnc+]/sr+954/nnc+~/sd+2566/nnc
+
+
+도봉산[
+	도봉산[/ncn
+
+]
+	]/sr
+
+
+북한산[
+	북한산[/ncn
+
+]과
+	]/sr+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+서울의
+	서울/ncn+의/jcm
+
+명산으로
+	명산/ncn+으로/jca
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+도봉산은
+	도봉산/ncn+은/jxc
+
+화강암의
+	화강암/ncn+의/jcm
+
+우람한
+	우람/ncps+하/xsms+ㄴ/etm
+
+기암괴석[
+	기암괴석[/ncn
+
+]
+	]/sr
+
+
+들로
+	들/ncn+로/jca
+
+그
+	그/mmd
+
+경관이
+	경관/ncn+이/jcc
+
+수려하며
+	수/nbn+이/jp+리/ep+어/ecx+하/px+며/ecc
+
+최고봉인
+	최고봉/ncn+이/jp+ㄴ/etm
+
+자운봉[
+	자운봉[/ncn
+
+]739.
+	]/sr+739./nnc
+
+5m만장봉[
+	5m만장봉[/ncn
+
+]718m선인봉[
+	]718m선인봉[/ncn
+
+]708m
+	]708m/ncn
+
+
+등
+	등/nbu
+
+셰봉이
+	셰봉/ncn+이/jcc
+
+도봉산을
+	도봉산/ncn+을/jco
+
+대표하는
+	대표/ncpa+하/xsva+는/etm
+
+봉우리
+	봉우리/ncn
+
+들이다
+	들이/ncn+이/jp+다/ef
+
+
+도봉산
+	도봉산/ncn
+
+최고봉인
+	최고봉/ncn+이/jp+ㄴ/etm
+
+자운봉과
+	자운봉/ncn+과/jcj
+
+그
+	그/mmd
+
+왼편의
+	왼편/ncn+의/jcm
+
+만장봉
+	만장/ncn+봉/ncn
+
+선인봉
+	선인/ncn+봉/ncn
+
+은
+	은/ncn
+
+도봉산
+	도봉산/ncn
+
+줄기의
+	줄기/ncn+의/jcm
+
+주요
+	주요/ncps
+
+봉우리로서
+	봉우리/ncn+로서/jca
+
+자운봉과
+	자운봉/ncn+과/jcj
+
+
+만장봉은
+	만장/ncn+봉/ncn+은/jxc
+
+포대능선과
+	포대/ncn+능선/ncn+과/jcj
+
+도봉능선을
+	도봉능선/ncn+을/jco
+
+서로
+	서로/mag
+
+이어주는
+	잇/pvg+어/ecx+주/px+는/etm
+
+역할을
+	역할/ncn+을/jco
+
+하고있다
+	하/pvg+고/ecx+있/px+다/ef
+
+
+산중에는
+	사/pvg+ㄴ/etm+중/nbn+에/jca+는/jxc
+
+인근60여개
+	인근60여개/ncn
+
+사찰
+	사찰/ncn
+
+중
+	중/nbn
+
+제일오래된
+	제일오래된/ncn
+
+건축물인
+	건축물/ncn+이/jp+ㄴ/etm
+
+천축사
+	천축사/ncn
+
+를
+	를/ncn
+
+비롯하여
+	비롯/ncpa+하/xsva+어/ecx
+
+망월사
+	망월사/ncn
+
+쌍룡사
+	쌍룡사/ncn
+
+등
+	등/nbu
+
+명찰이
+	명찰/ncn+이/jcc
+
+많아
+	많/paa+아/ecs
+
+
+연중
+	열/pvg+ㄴ/etm+중/nbn
+
+참례객
+	참례/ncpa+객/ncn
+
+.
+	./sf
+
+
+관광객이
+	관광객/ncn+이/jcc
+
+찾는다
+	찾/pvg+는다/ef
+
+특히
+	특히/mag
+
+동쪽으로
+	동쪽/ncn+으로/jca
+
+서울과
+	서울/ncn+과/jcj
+
+의정부
+	의정/ncn+부/ncn
+
+간의
+	간/ncn+의/jcm
+
+국도,
+	국도/ncn+,/sp
+
+서쪽으로
+	서쪽/ncn+으로/jca
+
+구파발
+	구파/ncn+발/ncn
+
+과
+	고/pvg+아/ecx
+
+송추의
+	송추/ncn+의/jcm
+
+간선
+	간선/ncpa
+
+
+국도가
+	국도/ncn+가/jcs
+
+통하여
+	통하/pvg+어/ecx
+
+교통이
+	교통/ncn+이/jcc
+
+편리하다
+	편리/ncps+하/xsms+다/ef
+
+
+도봉산
+	도봉산/ncn
+
+기암괴석
+	기암/ncn+괴석/ncn
+
+
+도봉산
+	도봉산/ncn
+
+국립공원의
+	국립공원/ncn+의/jcm
+
+수련한
+	수련/ncn+한/ncn
+
+경관은
+	경관/ncn+은/jxc
+
+산의
+	산/ncn+의/jcm
+
+대부분을
+	대부분/ncn+을/jco
+
+이루고있는
+	이루/pvg+고/ecx+있/px+는/etm
+
+화강암이
+	화강암/ncn+이/jcc
+
+빚어내는
+	빚/pvg+어/ecx+내/px+는/etm
+
+마술입니다
+	마술/ncn+이/jp+ㅂ니다/ef
+
+우리나라
+	우리나라/ncn
+
+
+전체
+	전체/ncn
+
+암석의30%나
+	암석의30%/ncn+나/jcj
+
+되는
+	되/pvg+는/etm
+
+화강암은1억5천
+	화강암은1억5천/ncn
+
+만년
+	만/nnc+년/nbu
+
+전
+	전/nbn
+
+공룡이
+	공룡/ncn+이/jcc
+
+살던
+	살/pvg+던/etm
+
+중생대
+	중생/ncn+대/ncn
+
+지각운동때,땅속에서
+	지각/ncn+운동/ncn+때/ncn+,/sp+땅속/ncn+에서/jca
+
+마그마가
+	마그마/ncn+가/jcs
+
+서
+	서/mma
+
+
+서히
+	서/ncn+히/xsas
+
+굳으면서
+	굳/paa+으면서/ecc
+
+만들어진것이다
+	만들/pvg+어/ecx+지/px+ㄴ/etm+것/nbn+이/jp+다/ef
+
+
+오랜
+	오랜/mma
+
+셰월을
+	셰월/ncn+을/jco
+
+거치며
+	거치/pvg+며/ecc
+
+비바람에
+	비바람/ncn+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+기묘하게
+	기묘/ncps+하/xsms+게/ecs
+
+형성된
+	형성/ncpa+되/xsvn+ㄴ/etm
+
+크고작은
+	크고작/ncn+은/jxc
+
+암봉,암석들은
+	암봉,암석들/ncn+은/jxc
+
+저마다의
+	저마다/ncn+의/jcm
+
+특색을
+	특색/ncn+을/jco
+
+자랑
+	자랑/ncn
+
+
+하고
+	하/pvg+고/ecc
+
+있어
+	있/px+어/ecx
+
+산행의
+	산행/ncn+의/jcm
+
+즐거움을
+	즐거움/ncn+을/jco
+
+더해주고,감탄을
+	더하/paa+어/ecx+주/px+고/ecc+,/sp+감탄/ncpa+을/jco
+
+자아냅니다
+	자/pvg+아/ecx+내/px+ㅂ니다/ef
+
+
+한북정맥은
+	한북정맥/ncn+은/jxc
+
+한반도
+	한/nnc+반/nbu+도/jxc
+
+13정맥의
+	13정맥/ncn+의/jcm
+
+하나로서
+	하나/nnc+로서/jca
+
+백두대간의
+	백/nnc+두/nnc+대/nbu+간/xsnu+의/jcm
+
+추가령에서
+	추가령/ncn+에서/jca
+
+서남쪽으로
+	서남쪽/ncn+으로/jca
+
+뻗어
+	뻗/pvg+어/ecx
+
+한강과
+	한강/ncn+과/jcj
+
+임진강이
+	임진/ncn+강/ncn+이/jcc
+
+만나
+	만나/ncn
+
+
+는
+	늘/pvg+ㄴ/etm
+
+하구에
+	하구/ncn+에/jca
+
+이르는
+	이르/paa+는/etm
+
+산줄기를
+	산줄기/ncn+를/jco
+
+말합니다
+	말/ncpa+하/xsva+ㅂ니다/ef
+
+
+만장봉은
+	만장/ncn+봉/ncn+은/jxc
+
+실제높이는718m이나
+	실제높이는718m/ncn+이나/jcj
+
+옛날
+	옛날/ncn
+
+어르신들이
+	어르/pvg+시/ep+ㄴ/etm+들/nbn+이/jcc
+
+보기에는
+	보/px+기/etn+에/jca+는/jxc
+
+만장이나
+	만/nnc+장/nbu+이나/jcj
+
+되어
+	되/pvg+어/ecx
+
+보인다하여
+	보인다하/ncn+이/jp+어/ecs
+
+만장봉[
+	만장봉[/ncn
+
+]
+	]/sr
+
+
+이라
+	이르/pvg+어/ecx
+
+이름
+	이름/ncn
+
+지었답니다
+	지/nbn+이/jp+었/ep+답니다/ef
+
+
+멀리보이는
+	멀리보/ncn+이/jp+는/etm
+
+북한산국립공원
+	북한산국립공원/ncn
+
+주봉
+	주봉/ncn
+
+.
+	./sf
+
+
+백운대
+	백운대/ncn
+
+높이836.
+	높이836./ncn
+
+5m
+	5m/ncn
+
+인수봉
+	인수/ncn+봉/ncn
+
+810.
+	810./nnc
+
+5m
+	5m/ncn
+
+
+대원사[
+	대원사[/ncn
+
+]
+	]/sr
+
+
+도봉산
+	도봉산/ncn
+
+대원사는1965년대한불교
+	대원사는1965년대한불교/ncn
+
+조계종
+	조계종/ncn
+
+제25교구
+	제25교구/ncn
+
+사찰로
+	사찰/ncn+로/jca
+
+지정되었다
+	지정/ncpa+되/xsvn+었/ep+다/ef
+
+
+{
+	{/sl
+
+var
+	var/f
+
+layout
+	layout/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+width
+	width/f
+
+=
+	=/sy
+
+'210';
+	'/sl+210/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+height
+	height/f
+
+=
+	=/sy
+
+'171';
+	'/sl+171/nnc+'/sr+;/sy
+
+
+layout.
+	layout/f+./sy
+
+coverImage
+	coverImage/f
+
+=
+	=/sy
+
+'http://image.
+	'/sr+http/f+:/sp+//sp+//sp+image/f+./sy
+
+nmv.
+	nmv/f+./sy
+
+naver.
+	naver/f+./sy
+
+net/blogucc18/2010/05/03/554/03100223811553AE52C3C998736585532C2_deogjang_logo.
+	net/blogucc18/2010/05/03/554/03100223811553AE52C3C998736585532C2_deogjang_logo./ncn
+
+jpg';
+	jpg/f+'/sl+;/sy
+
+
+layout.
+	layout/f+./sy
+
+playtime
+	playtime/f
+
+=
+	=/sy
+
+'159.
+	'/sr+159./nnc
+
+25';
+	25/nnc+'/sr+;/sy
+
+
+var
+	var/f
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+vid
+	vid/f
+
+=
+	=/sy
+
+'66F17FC3B224E1BE74C20F4FEEAC53F68A5A';
+	'66F17FC3B224E1BE74C20F4FEEAC53F68A5A/ncn+'/sl+;/sy
+
+
+qsParam.
+	qsParam/f+./sy
+
+inKey
+	inKey/f
+
+=
+	=/sy
+
+'V123f520de742db2dd6737e48f7778b839e76fc9f160b8723653be1a912c14ee15f137e48f7778b839e76';
+	'V123f520de742db2dd6737e48f7778b839e76fc9f160b8723653be1a912c14ee15f137e48f7778b839e76/ncn+'/sl+;/sy
+
+
+var
+	var/f
+
+bean
+	bean/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+bean.
+	bean/f+./sy
+
+layout
+	layout/f
+
+=
+	=/sy
+
+layout;
+	layout/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+qsParam
+	qsParam/f
+
+=
+	=/sy
+
+qsParam;
+	qsParam/f+;/sy
+
+
+var
+	var/f
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorCode
+	errorCode/f
+
+=
+	=/sy
+
+0;
+	0/ncn+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+errorMessage
+	errorMessage/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+suspendPost.
+	suspendPost/f+./sy
+
+owner
+	owner/f
+
+=
+	=/sy
+
+false;
+	false/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+suspendPost
+	suspendPost/f
+
+=
+	=/sy
+
+suspendPost;
+	suspendPost/f+;/sy
+
+
+var
+	var/f
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+{};
+	{/sl+}/sr+;/sy
+
+
+copyrightInfo.
+	copyrightInfo/f+./sy
+
+ownerName
+	ownerName/f
+
+=
+	=/sy
+
+'';
+	'/sl+'/sl+;/sy
+
+
+bean.
+	bean/f+./sy
+
+copyrightInfo
+	copyrightInfo/f
+
+=
+	=/sy
+
+copyrightInfo;
+	copyrightInfo/f+;/sy
+
+
+bean.
+	bean/f+./sy
+
+player
+	player/f
+
+=
+	=/sy
+
+'oem';
+	'/sl+oem/f+'/sl+;/sy
+
+
+var
+	var/f
+
+ugcPlayer_03607
+	ugcPlayer_03607/ncn
+
+=
+	=/sy
+
+new
+	new/f
+
+VideoInfraUGCPlayer('ugcPlayer_03607'
+	VideoInfraUGCPlayer('ugcPlayer_03607'/ncn
+
+,bean);
+	,/sp+bean/f+)/sr+;/sy
+
+
+ugcPlayer_03607
+	ugcPlayer_03607/ncn
+
+.
+	./sf
+
+
+drawPlayLayer();
+	drawPlayLayer/f+(/sl+)/sr+;/sy
+
+
+}
+	}/sr
+
+
+오늘의
+	오늘/ncn+의/jcm
+
+등산코스:망월사
+	등산코스:망월사/ncn
+
+역
+	역/ncn
+
+출발~매표소~상원사입고~다락능선~Y자형
+	출발~매표소~상원사입고~다락능선~Y자형/ncn
+
+능선[연약자
+	능선[연약자/ncn
+
+선택]~신선대[회
+	선택]~신선대[회/ncn
+
+규]~마당바위~구조대대피소~도봉서원~도봉산국립공원
+	규]~마당바위~구조대대피소~도봉서원~도봉산국립공원/ncn
+
+관리사무소~도봉산
+	관리사무소~도봉산/ncn
+
+역
+	역/ncn
+
+소요시간3시간40분
+	소요시간3시간40분/ncn

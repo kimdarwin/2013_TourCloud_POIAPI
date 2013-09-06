@@ -1,0 +1,1080 @@
+삼척시
+	삼척시/ncn
+
+가곡면
+	가곡/ncn+면/ncn
+
+동활리
+	동활리/ncn
+
+용화사(대림굿당)기도터
+	용화사(대림굿당/ncn+)/sr+기도/ncn+터/ncn
+
+
+삼척시
+	삼척시/ncn
+
+호산면
+	호산/ncn+면/ncn
+
+해망산
+	해망산/ncn
+
+성황당을
+	성황당/ncn+을/jco
+
+보고
+	보/px+고/ecc
+
+태백으로
+	태백/ncn+으로/jca
+
+오던중
+	오/px+던/etm+중/nbn
+
+덕풍계곡을
+	덕풍계곡/ncn+을/jco
+
+지나서
+	지나/pvg+아/ecs
+
+
+동활리
+	동활리/ncn
+
+동활계곡이
+	동활계곡/ncn+이/jcc
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+몇년전
+	몇/nnc+년/nbu+전/xsnx
+
+큰
+	크/paa+ㄴ/etm
+
+물난리를
+	물난리/ncn+를/jco
+
+만났을때
+	만나/pvg+아/ep+ㄹ/etm+때/nbn
+
+여기를
+	여기/npd+를/jco
+
+지나던
+	지나/pvg+던/etm
+
+애기를
+	애/ncn+이/jp+기/etn+를/jco
+
+하면서
+	하/pvg+면서/ecc
+
+오는데
+	오/pvg+ㄴ데/ecs
+
+
+오른쪽에
+	오르/pvg+ㄴ/etm+쪽/nbn+에/jca
+
+간판이
+	간판/ncn+이/jcc
+
+...
+	.../se
+
+
+차를돌려
+	차를돌려/ncn
+
+용화사
+	용화사/ncn
+
+간판아래로
+	간판/ncn+아래/ncn+로/jca
+
+들어섰는데
+	들어서/pvg+었/ep+는데/ecs
+
+처음부터
+	처음/ncn+부터/jxc
+
+가파른
+	가파르/paa+ㄴ/etm
+
+언덕길이다
+	언덕/ncn+길/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+순간
+	순간/ncn
+
+급하게
+	급하/paa+게/ecs
+
+긴장이되면서
+	긴장/ncn+이/ncn+되/xsvn+면서/ecc
+
+혈압이
+	혈압/ncn+이/jcc
+
+상승한다
+	상승/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+이런
+	이런/mmd
+
+후회해도
+	후회/ncpa+해/ncn+도/jxc
+
+소용없다
+	소용/ncn+없/xsmn+다/ef
+
+차돌릴데도없고~중간에
+	차돌릴데도없고~중간/ncn+에/jca
+
+차가서면
+	차/pvg+아/ecx+가/px+아/ep+면/ecs
+
+출발도
+	출발/ncpa+도/jxc
+
+않되니
+	않되/ncn+이/jp+니/ef
+
+
+어쨌든
+	어쨌든/mag
+
+끝까지
+	끝/ncn+까지/jxc
+
+올라가봐야지~
+	오르/pvg+아/ecx+가/px+아/ecx+보/px+아/ecs+~/sd
+
+
+혼자면
+	혼자/ncn+이/jp+면/ecs
+
+괜찮은데
+	괜찮/paa+은/etm+데/nbn
+
+아내를
+	아내/ncn+를/jco
+
+옆에
+	옆/ncn+에/jca
+
+태웠으니
+	태우/pvg+었/ep+으니/ecs
+
+더더욱이
+	더더욱/ncn+이/jcc
+
+긴장된다
+	긴장/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+길을
+	길/paa+ㄹ/etm
+
+포장을
+	포장/ncpa+을/jco
+
+잘해놔서
+	잘해놔/ncn+서/jca
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+아님
+	아니/paa+ㅁ/etn
+
+내차에
+	내차/ncn+에/jca
+
+짐이많아서
+	짐이많아서/ncn
+
+차가
+	차/ncn+가/jcs
+
+무거워서
+	무겁/paa+어서/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+
+뒷바퀴가
+	뒷바퀴/ncn+가/jcs
+
+헛돌지않고
+	헛돌지않고/ncn
+
+잘올라간다
+	잘올라간다/ncn
+
+.
+	./sf
+
+
+이런길을
+	이런길/ncn+을/jco
+
+오르고나면
+	오르/pvg+고/ecx+나/px+면/ecs
+
+꼭
+	꼭/mag
+
+후회하며
+	후회/ncpa+하/xsva+며/ecc
+
+다짐을
+	다지/pvg+ㅁ/etn+을/jco
+
+하곤한다
+	하곤한다/ncn
+
+.
+	./sf
+
+
+다음엔
+	다음/ncn+엔/jca
+
+절대
+	절대/mag
+
+이런길
+	이런길/ncn
+
+않오른다
+	않오른다/ncn
+
+...!!
+	.../se+!/sf+!/sf
+
+
+그래놓고
+	그렇/pad+어/ecx+놓/px+고/ecc
+
+또한다
+	뜨/pvg+어/ecx+하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+(위)-용화사입구
+	(위)-용화사입구/ncn
+
+.
+	./sf
+
+
+여기서
+	여기/npd+서/jca
+
+좁고
+	좁/paa+고/ecc
+
+가파른
+	가파르/paa+ㄴ/etm
+
+고갯길로
+	고갯길/ncn+로/jca
+
+1km를
+	1km/ncn+를/jco
+
+올라간다
+	오르/pvg+아/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+(위)-선황님
+	(위)-선황님/ncn
+
+.
+	./sf
+
+
+굿당을
+	굿당/ncn+을/jco
+
+새로짖는곳
+	새로짖는곳/ncn
+
+입구에
+	입구/ncn+에/jca
+
+두분이
+	두/nnc+분/nbu+이/jcc
+
+서있다
+	서/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+(위)-용화사
+	(위)-용화사/ncn
+
+.
+	./sf
+
+
+더이상
+	더이상/mag
+
+자신이
+	자신/npp+이/jcs
+
+없어서
+	없/paa+어서/ecs
+
+선황님옆에다가
+	선황님옆에다/ncn+가/jcs
+
+차를세우고
+	차를세우/ncn+이/jp+고/ecc
+
+걸어서
+	걷/pvg+어서/ecs
+
+올라왔다
+	오르/pvg+아/ecx+오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+여기가
+	여기/npd+가/jcc
+
+무릉도원이다
+	무릉도원/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-대웅전
+	(/sl+위/ncn+)/sr+-/sd+대웅전/ncn
+
+.
+	./sf
+
+
+(위)-대웅전
+	(/sl+위/ncn+)/sr+-/sd+대웅전/ncn
+
+.
+	./sf
+
+
+대웅전
+	대웅전/ncn
+
+가는길이
+	가는길/ncn+이/jcc
+
+너무나
+	너무나/mag
+
+예쁘고
+	예쁘/paa+고/ecc
+
+깔끔하게
+	깔끔/ncps+하/xsms+게/ecs
+
+가꾸어져있다
+	가꾸/pvg+어/ecx+지/px+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+(위)-대웅전
+	(/sl+위/ncn+)/sr+-/sd+대웅전/ncn
+
+.
+	./sf
+
+
+(위)-산신각
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+각/ncn
+
+.
+	./sf
+
+
+(위)-산신님
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+님/ncn
+
+.
+	./sf
+
+
+(위)-산신님
+	(/sl+위/ncn+)/sr+-/sd+산신/ncn+님/ncn
+
+.
+	./sf
+
+
+(위)-용왕당
+	(/sl+위/ncn+)/sr+-/sd+용왕/ncr+당/ncn
+
+.
+	./sf
+
+
+(위)-용왕당
+	(/sl+위/ncn+)/sr+-/sd+용왕/ncr+당/ncn
+
+.
+	./sf
+
+
+(위)-용왕당
+	(/sl+위/ncn+)/sr+-/sd+용왕/ncr+당/ncn
+
+.
+	./sf
+
+
+(위)-용왕당
+	(/sl+위/ncn+)/sr+-/sd+용왕/ncr+당/ncn
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+이곳의
+	이곳/npd+의/jcm
+
+백미는
+	백미/ncn+는/jxc
+
+용왕당이
+	용왕/ncr+당/ncn+이/jcc
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+사진에서
+	사진/ncn+에서/jca
+
+보듯이
+	보/px+듯이/ecs
+
+천정에서
+	천정/ncn+에서/jca
+
+떨어지는
+	떨/pvg+어/ecx+지/px+는/etm
+
+맑은
+	맑/paa+은/etm
+
+석간수가
+	석간수/ncn+가/jcs
+
+용왕님앞
+	용왕님/ncn+앞/ncn
+
+에
+	에/pvg+어/ecx
+
+옥수로
+	옥수/ncn+로/jca
+
+떨어지는데
+	떨어지/pvg+ㄴ데/ecs
+
+
+너무나
+	너무나/mag
+
+맑은물이
+	맑은물/ncn+이/jcc
+
+사람의
+	사람/ncn+의/jcm
+
+마음까지
+	마음/ncn+까지/jxc
+
+정화하는것같다
+	정화/ncpa+하/xsva+는/etm+것/nbn+같/xsmn+다/ef
+
+.
+	./sf
+
+
+(위)-기도터
+	(/sl+위/ncn+)/sr+-/sd+기도/ncn+터/ncn
+
+.
+	./sf
+
+
+요사채
+	요사/ncpa+채/ncn
+
+아래있는
+	아래/ncn+있/xsmn+는/etm
+
+기도터
+	기도/ncn+터/ncn
+
+.
+	./sf
+
+
+(위)-요사채
+	(/sl+위/ncn+)/sr+-/sd+요사/ncps+채/ncn
+
+.
+	./sf
+
+
+이렇게
+	이렇/pad+게/ecs
+
+깊은곳에
+	깊은곳/ncn+에/jca
+
+있는데도
+	있/px+는데/ecs+도/jxc
+
+전기가
+	전기/ncn+가/jcs
+
+들어온다
+	들/pvg+어/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+(위)-공사중인
+	(/sl+위/ncn+)/sr+-/sd+공사/ncn+중/ncn+이/jp+ㄴ/etm
+
+굿당
+	굿당/ncn
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+여기는
+	여기/npd+는/jxc
+
+이름을
+	이름/ncn+을/jco
+
+대림굿당
+	대림굿당/ncn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+지었나보다
+	지었나보/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+입구에
+	입구/ncn+에/jca
+
+대림굿당이라고
+	대림굿당/ncn+이/jp+라/ef+고/jcr
+
+간판이있다
+	간판/ncn+이/ncn+있/xsmn+다/ef
+
+.
+	./sf
+
+
+집짖는
+	집짖/ncn+는/jxc
+
+솜씨가
+	솜씨/ncn+가/jcs
+
+대단하다
+	대단/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+아내가보고
+	아내/ncn+가보/ncn+이/jp+고/ecc
+
+뭘안다고
+	뭘안다/ncn+이/jp+고/ecc
+
+고개를
+	고개/ncn+를/jco
+
+끄떡~끄떡
+	끄떡~끄떡/ncn
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+희한한
+	희한/ncps+하/xsms+ㄴ/etm
+
+재료와
+	재료/ncn+와/jcj
+
+방법으로
+	방법/ncn+으로/jca
+
+집을짖는다는
+	집을짖는다/ncn+는/jxc
+
+생각이겠지~
+	생각/ncpa+이/jp+겠/ep+지/ecs+~/sd
+
+
+(위)-돌탑
+	(/sl+위/ncn+)/sr+-/sd+돌탑/ncn
+
+.
+	./sf
+
+
+새로짖는
+	새로짖/ncn+는/jxc
+
+굿당옆에
+	굿당옆/ncn+에/jca
+
+돌탑이
+	돌탑/ncn+이/jcc
+
+소박하다
+	소박/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+(위)-굿당옆
+	(위)-굿당옆/ncn
+
+정자
+	정자/ncn
+
+.
+	./sf
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+어제
+	어제/ncn
+
+생각을하면
+	생각을하/ncn+이/jp+면/ecs
+
+아직도
+	아직/mag+도/jxc
+
+가슴이
+	가슴/ncn+이/jcc
+
+두근거린다
+	두근거리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+오르면
+	오르/pvg+면/ecs
+
+오를수록
+	오르/pvg+ㄹ수록/ecs
+
+점점
+	점점/mag
+
+가파른
+	가파르/paa+ㄴ/etm
+
+오르막이
+	오르막/ncn+이/jcc
+
+극도의
+	극도/ncn+의/jcm
+
+긴장감을
+	긴장감/ncn+을/jco
+
+느끼게
+	느끼/pvg+게/ecs
+
+했던곳
+	했던곳/ncn
+
+...
+	.../se
+
+
+그런데
+	그런데/maj
+
+다음에
+	다음/ncn+에/jca
+
+다시한번가서
+	다시한번가서/ncn
+
+찬찬히
+	찬찬히/mag
+
+주변을
+	주변/ncn+을/jco
+
+둘러보고
+	두르/pvg+어/ecx+보/px+고/ecc
+
+싶어진다
+	싶/px+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+어제는
+	어제/ncn+는/jxc
+
+아내때문에
+	아내때문/ncn+에/jca
+
+급하게
+	급하/paa+게/ecs
+
+둘러보고
+	두르/pvg+어/ecx+보/px+고/ecc
+
+사진만
+	사진/ncn+만/jxc
+
+찍고와서
+	찍/pvg+고/ecx+오/px+아/ecx
+
+그런가~
+	그러/pvd+ㄴ가/ef+~/sd
+
+??
+	?/sf+?/sf
+
+
+-무릉도원-
+	-/sd+무릉도원/ncn+-/sd
+
+
+아마도
+	아마/mag+도/jxc
+
+옛어른들이
+	옛어른들/ncn+이/jcc
+
+이런곳을두고
+	이런곳을두/ncn+이/jp+고/ecc
+
+하신말이
+	하신말/ncn+이/jcc
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+...
+	.../se
+
+
+주인을
+	주인/ncn+을/jco
+
+만나뵙진
+	만나뵙진/ncn
+
+못했지만
+	못하/px+었/ep+지만/ecs
+
+대단히
+	대단히/mag
+
+부지런하시고
+	부지런/ncps+하시/ncn+이/jp+고/ecc
+
+정갈하시며
+	정갈/ncps+하시/ncn+이/jp+며/ecc
+
+솜씨가
+	솜씨/ncn+가/jcs
+
+있는분일것
+	있/px+는/etm+분/nbn+이/jp+ㄹ/etm+것/nbn
+
+같은
+	같/paa+은/etm
+
+...
+	.../se
+
+
+도량을
+	도량/ncn+을/jco
+
+가꾸어놓은
+	가꾸/pvg+어/ecx+놓/px+은/etm
+
+솜씨가
+	솜씨/ncn+가/jcs
+
+얼마나
+	얼마나/mag
+
+정갈한지~
+	정갈/ncps+한지/ncn+~/sd
+
+
+과수원을
+	과수원/ncn+을/jco
+
+하셨는지~
+	하/px+셨/ep+는지/ecs+~/sd
+
+??
+	?/sf+?/sf
+
+
+지금도
+	지금/ncn+도/jxc
+
+과수원인지
+	과수원/ncn+이/jp+ㄴ지/ecs
+
+...
+	.../se
+
+
+온갖
+	온갖/mma
+
+과일나무가
+	과일/ncn+나무/ncn+가/jcs
+
+다있고~보기드문
+	다있고~보기드문/ncn
+
+오미자도
+	오미자/ncn+도/jxc
+
+주렁주렁~
+	주렁주렁/ncn+~/sd
+
+
+이런곳을
+	이런곳/ncn+을/jco
+
+보는재미에
+	보는재미/ncn+에/jca
+
+내가
+	나/npp+가/jcs
+
+이러고
+	이르/paa+어/ef+고/jcr
+
+다니는지
+	다니/pvg+는지/ecs
+
+...
+	.../se
+
+
+-복두산-
+	-복두산/ncn+-/sd
+
+
+복두산은
+	복두산/ncn+은/jxc
+
+백두대간
+	백/nnc+두/nnc+대/nbu+간/xsnu
+
+매봉산(1303m)
+	매봉산(1303m)/ncn
+
+에서
+	에/pvg+어서/ecs
+
+갈래치는
+	갈래/ncn+치/ncn+는/jxc
+
+낙동정맥의
+	낙동정맥/ncn+의/jcm
+
+최고봉
+	최고봉/ncn
+
+백병산(1259.
+	백병산(1259./ncn
+
+3m)을
+	3m)/ncn+을/jco
+
+어미로
+	어미/ncn+로/jca
+
+
+그
+	그/mmd
+
+동쪽
+	동쪽/ncn
+
+5킬로미터에
+	5/nnc+킬로미터/nbu+에/jca
+
+암골미를
+	암골미/ncn+를/jco
+
+뽐내며
+	뽐내/pvg+며/ecc
+
+솟아있다
+	솟/pvg+아/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+복숭아나무가
+	복숭아나무/ncn+가/jcs
+
+유별나게
+	유별나/paa+게/ecs
+
+많아
+	많/paa+아/ecs
+
+
+복두산
+	복두산/ncn
+
+또는
+	또는/maj
+
+복동아리
+	복동아리/ncn
+
+라
+	라/ncn
+
+하고,
+	하/pvg+고/ecc+,/sp
+
+마을이름도
+	마을/ncn+이름/ncn+도/jxc
+
+도화리가
+	도화리/ncn+가/jcs
+
+와전되어
+	와전/ncn+되/xsvn+어/ecx
+
+동활리로
+	동활리/ncn+로/jca
+
+부르고
+	부르/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+복두산과
+	복두산/ncn+과/jcj
+
+치암산(835m)을
+	치암산(835m)/ncn+을/jco
+
+가르는
+	가르/pvg+는/etm
+
+도화천도
+	도화천/ncn+도/jxc
+
+여기서
+	여기/npd+서/jca
+
+기인했다
+	기인/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf

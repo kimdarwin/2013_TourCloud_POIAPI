@@ -1,0 +1,805 @@
+'2011
+	'/sr+2011/nnc
+
+금강
+	금강/ncn
+
+전국마라톤
+	전국/ncn+마라톤/ncn
+
+대회'가
+	대회/mma+'/sr+가/jcc
+
+5월
+	5/nnc+월/nbu
+
+29일
+	29/nnc+일/nbu
+
+충남
+	충남/ncn
+
+연기군
+	연기/ncn+이/jp+군/ef
+
+금강수변공원에서
+	금강/ncn+수변/ncn+공원/ncn+에서/jca
+
+펼쳐졌습니다
+	펼치/pvg+어/ecx+지/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+금강전국마라톤대회
+	금강/ncn+전국/ncn+마라톤대회/ncn
+
+참가자들이
+	참가자/ncn+들/ncn+이/jcc
+
+금강
+	금강/ncn
+
+행복
+	행복/ncps
+
+1공구
+	1공구/ncn
+
+용수천보행교를
+	용수천보행교/ncn+를/jco
+
+건너는
+	건너/pvg+는/etm
+
+모습
+	모습/ncn
+
+
+마라톤
+	마라톤/ncn
+
+참가자들이
+	참가자/ncn+들/ncn+이/jcc
+
+남면제
+	남면/ncpa+제/ncn
+
+수변공원
+	수변/ncn+공원/ncn
+
+자전거도로를
+	자전거/ncn+도로/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+달리고
+	달리/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+4대강살리기
+	4대강살리/ncn+이/jp+기/etn
+
+금남보
+	금남보/ncn
+
+현장을
+	현장/ncn+을/jco
+
+출발해
+	출발/ncpa+하/xsva+어/ecx
+
+금강2교
+	금강2교/ncn
+
+세종시
+	세종시/ncn
+
+첫마을
+	첫/nno+마/nbu+이/jp+ㄹ/etm
+
+아파트
+	아파트/ncn
+
+인근을
+	인근/ncn+을/jco
+
+지나
+	지나/pvg+아/ecx
+
+아름다운
+	아름답/paa+은/etm
+
+수변공원을
+	수변/ncn+공원/ncn+을/jco
+
+달리는
+	달리/pvg+는/etm
+
+코스로
+	코스/ncn+로/jca
+
+진행된
+	진행/ncpa+되/xsvn+ㄴ/etm
+
+이날
+	이/nnc+날/nbu
+
+대회에서는,
+	대회/ncn+에서/jca+는/jxc+,/sp
+
+몬주익의
+	몬주익/ncn+의/jcm
+
+영웅
+	영웅/ncn
+
+황영조
+	황영조/ncn
+
+선수를
+	서/pvg+ㄴ/etm+수/nbn+를/jco
+
+비롯해
+	비롯/ncpa+하/xsva+어/ecx
+
+시민과
+	시민/ncn+과/jcj
+
+자원봉사자
+	자원봉사자/ncn
+
+등
+	등/nbu
+
+총
+	총/mma
+
+5000여명이
+	5000/nnc+여/xsnu+명/nbu+이/jcc
+
+참가한
+	참가/ncpa+하/xsva+ㄴ/etm
+
+가운데
+	가운데/ncn
+
+성대하게
+	성대/ncps+하/xsms+게/ecs
+
+펼쳐졌습니다
+	펼치/pvg+어/ecx+지/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+참가자들은
+	참가자/ncn+들/ncn+은/jxc
+
+금강살리기
+	금강살리/ncn+이/jp+기/etn
+
+사업으로
+	사업/ncn+으로/jca
+
+새롭게
+	새롭/paa+게/ecs
+
+태어난
+	태어나/pvg+ㄴ/etm
+
+금강의
+	금강/ncn+의/jcm
+
+아름다운
+	아름답/paa+은/etm
+
+모습과
+	모습/ncn+과/jct
+
+함께
+	함께/mag
+
+금강을
+	금강/ncn+을/jco
+
+유유히
+	유유히/mag
+
+떠다니는
+	떠다니/pvg+는/etm
+
+돛단배를
+	돛단배/ncn+를/jco
+
+형상화한
+	형상화/ncn+한/ncn
+
+금강2교와
+	금강2교/ncn+와/jcj
+
+첫마을
+	첫/nno+마/nbu+이/jp+ㄹ/etm
+
+아파트가
+	아파트/ncn+가/jcs
+
+어우러진
+	어우러지/pvg+ㄴ/etm
+
+수려한
+	수/nbn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+경관에
+	경관/ncn+에/jca
+
+감탄을
+	감탄/ncpa+을/jco
+
+자아냈습니다
+	자/pvg+아/ecx+내/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+미호천
+	미호천/ncn
+
+보행교를
+	보행/ncpa+교/ncn+를/jco
+
+건너고
+	건너/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+마라톤
+	마라톤/ncn
+
+참가자들
+	참가자/ncn+들/ncn
+
+
+합강습지
+	합강습지/ncn
+
+옆
+	옆/ncn
+
+산책로를
+	산책로/ncn+를/jco
+
+달리고
+	달리/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+마라톤
+	마라톤/ncn
+
+참가자들
+	참가자/ncn+들/ncn
+
+
+황영조
+	황영조/ncn
+
+선수는
+	서/pvg+ㄴ/etm+수/nbn+는/jxc
+
+참가자들과
+	참가자/ncn+들/ncn+과/jct
+
+함께
+	함께/mag
+
+5km
+	5km/ncn
+
+하프코스를
+	하프/ncn+코스/ncn+를/jco
+
+완주했는데요
+	완주/ncpa+하/xsva+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+코스는
+	코스/ncn+는/jxc
+
+금강8경
+	금강8경/ncn
+
+중
+	중/nbn
+
+제7경인
+	제7경/ncn+이/jp+ㄴ/etm
+
+금남보
+	금남보/ncn
+
+공원에서
+	공원/ncn+에서/jca
+
+출발하여
+	출발/ncpa+하/xsva+어/ecx
+
+독락정을
+	독락정/ncn+을/jco
+
+거쳐
+	거치/pvg+어/ecx
+
+정부청사가
+	정부/ncn+청사/ncn+가/jcs
+
+건립
+	건립/ncpa
+
+중인
+	중/nbn+이/jp+ㄴ/etm
+
+중앙호수공원,
+	중앙/ncn+호수공원/ncn+,/sp
+
+합강정으로
+	합강정/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+아름다운
+	아름답/paa+은/etm
+
+주변
+	주변/ncn
+
+환경과
+	환경/ncn+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+황영조
+	황영조/ncn
+
+선수와
+	서/pvg+ㄴ/etm+수/nbn+와/jct
+
+함께
+	함께/mag
+
+뛰는
+	뛰/pvg+는/etm
+
+기분은
+	기분/ncn+은/jxc
+
+대회
+	대회/mma
+
+참가자들만이
+	참가자/ncn+들/ncn+만이/jcc
+
+알
+	알/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같은데요
+	같은데요/ncn
+
+.
+	./sf
+
+
+참가자들은
+	참가자/ncn+들/ncn+은/jxc
+
+새로운
+	새롭/paa+은/etm
+
+모습으로
+	모습/ncn+으로/jca
+
+탈바꿈한
+	탈바꿈/ncpa+하/xsva+ㄴ/etm
+
+금강
+	금강/ncn
+
+변을
+	변/ncn+을/jco
+
+뛰면서
+	뛰/pvg+면서/ecc
+
+건강도
+	건강/ncps+도/jxc
+
+챙기고
+	챙기/pvg+고/ecc
+
+우리나라
+	우리나라/ncn
+
+양대
+	양대/ncn
+
+국책사업인
+	국책사업/ncn+이/jp+ㄴ/etm
+
+세종시와
+	세종시/ncn+와/jcj
+
+4대강
+	4대강/ncn
+
+살리기
+	사/pvg+ㄹ/etm+리/nbn+이/jp+기/etn
+
+사업으로
+	사업/ncn+으로/jca
+
+아름답게
+	아름답/paa+게/ecs
+
+변한
+	변하/pvg+ㄴ/etm
+
+강을
+	강/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+좋은
+	좋/paa+은/etm
+
+기회였다고
+	기회/ncn+이/jp+었/ep+다/ef+고/jcr
+
+입을
+	입/ncn+을/jco
+
+모았습니다
+	모으/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+심명필
+	심명필/ncn
+
+4대강살리기추진본부장의
+	4대강살리기추진본부장/ncn+의/jcm
+
+축사
+	축사/ncn
+
+
+대회에
+	대회/ncn+에/jca
+
+앞서
+	앞서/mag
+
+심명필
+	심명필/ncn
+
+4대강살리기추진본부장은
+	4대강살리기추진본부장은/ncn
+
+"되살아난
+	"/sl+되살/pvg+아/ecx+나/px+ㄴ/etm
+
+금강에서
+	금강/ncn+에서/jca
+
+마라톤대회를
+	마라톤대회/ncn+를/jco
+
+열어
+	열/pvg+어/ecx
+
+기쁘다"며
+	기쁘다"며/ncn
+
+"앞으로
+	"/sl+앞/ncn+으로/jca
+
+4대강
+	4대강/ncn
+
+전체가
+	전체/ncn+가/jcs
+
+이렇게
+	이렇/pad+게/ecs
+
+아름다운
+	아름답/paa+은/etm
+
+강으로
+	강/ncn+으로/jca
+
+다시
+	다시/mag
+
+태어나
+	태어나/pvg+아/ecx
+
+시민들의
+	시민/ncn+들/ncn+의/jcm
+
+휴식장소와
+	휴식/ncpa+장소/ncn+와/jcj
+
+레저
+	레저/ncn
+
+중심으로
+	중심/ncn+으로/jca
+
+자리
+	자리/ncn
+
+잡을
+	잡/pvg+을/etm
+
+것"이라고
+	것/nbn+"/sr+이/jp+라/ef+고/jcr
+
+밝혔습니다
+	밝히/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+심
+	실/pvg+ㅁ/etn
+
+본부장이
+	본부장/ncn+이/jcc
+
+밝힌
+	밝히/pvg+ㄴ/etm
+
+것처럼
+	것/nbn+처럼/jca
+
+이번
+	이/nnc+번/nbu
+
+대회를
+	대회/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+변화하고
+	변화/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+4대강의
+	4대강/ncn+의/jcm
+
+아름다운
+	아름답/paa+은/etm
+
+모습을
+	모습/ncn+을/jco
+
+체험할
+	체험/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+자리가
+	자리/ncn+가/jcs
+
+되었는데요
+	되/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+앞으로
+	앞/ncn+으로/jca
+
+펼쳐질
+	펼치/pvg+어/ecx+지/px+ㄹ/etm
+
+꿈과
+	꿈/ncn+과/jcj
+
+희망이
+	희망/ncn+이/jcc
+
+가득한
+	가득/ncps+하/xsms+ㄴ/etm
+
+4대강의
+	4대강/ncn+의/jcm
+
+모습이
+	모습/ncn+이/jcc
+
+벌써부터
+	벌써/mag+부터/jxc
+
+기대되고,
+	기대/pvg+어/ecx+되/px+고/ecc+,/sp
+
+대한민국의
+	대한/ncn+민국/ncn+의/jcm
+
+푸른
+	푸르/paa+ㄴ/etm
+
+꿈이
+	꿈/ncn+이/jcc
+
+4대강살리기를
+	4대강살리/ncn+이/jp+기/etn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+하루빨리
+	하루빨리/mag
+
+실현되었으면
+	실현/ncpa+되/xsvn+었/ep+으면/ecs
+
+하는
+	하/pvg+는/etm
+
+바램입니다
+	바램/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+다음대회에는
+	다음/ncn+대회/ncn+에/jca+는/jxc
+
+지금보다
+	지금/ncn+보다/jca
+
+더
+	더/mag
+
+많은
+	많/paa+은/etm
+
+인원이
+	인원/ncn+이/jcc
+
+더
+	더/mag
+
+아름다운
+	아름답/paa+은/etm
+
+금강을
+	금강/ncn+을/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+힘차게
+	힘차/paa+게/ecs
+
+달렸으면
+	달리/pvg+었/ep+으면/ecs
+
+하고,
+	하/pvg+고/ecc+,/sp
+
+영원히
+	영원히/mag
+
+흐르는
+	흐르/pvg+는/etm
+
+강물처럼
+	강물/ncn+처럼/jca
+
+마라톤
+	마라톤/ncn
+
+대회도
+	대회/ncn+도/jxc
+
+영원히
+	영원히/mag
+
+이어졌으면
+	잇/pvg+어/ecx+지/px+었/ep+으면/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+4대강살리기
+	4대강살리/ncn+이/jp+기/etn
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+4rivers.
+	4rivers./ncn
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+mltm.
+	mltm/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp

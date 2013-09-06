@@ -1,0 +1,713 @@
+-
+	-/sd
+
+까사미아
+	까사미/ncn+아/jcv
+
+등
+	등/nbu
+
+올들어
+	올들어/mag
+
+일부제품
+	일부/ncn+제품/ncn
+
+2
+	2/nnc
+
+4%
+	4/nnc+%/su
+
+인상-
+	인상/ncn+-/sd
+
+원자재가
+	원자재/ncn+가/jcs
+
+상승
+	상승/ncpa
+
+여파
+	여파/ncn
+
+..
+	./sf+./sf
+
+
+판매부진
+	판매부진/ncpa
+
+악순환
+	악순환/ncn
+
+우려[이데일리
+	우려[이데일리/ncn
+
+이윤정
+	이윤/ncn+정/ncn
+
+기자]
+	기/ncn+이/jp+자/ecc+]/sr
+
+불황을
+	불황/ncn+을/jco
+
+겪고
+	겪/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+가구업체들이
+	가구업체/ncn+들/ncn+이/jcc
+
+가격을
+	가격/ncn+을/jco
+
+올리는
+	올리/pvg+는/etm
+
+강수를
+	강수/ncn+를/jco
+
+두고
+	두/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+가격이라도
+	가격/ncn+이/jp+라/ecs+도/jxc
+
+올려
+	올리/pvg+어/ecx
+
+일부
+	일/nnc+부/nbu
+
+수익을
+	수익/ncpa+을/jco
+
+보전하려는
+	보전/ncpa+하/xsva+려는/etm
+
+고육책이다
+	고육책/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+5일
+	5/nnc+일/nbu
+
+가구업계에
+	가구/ncn+업계/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+중견
+	중견/ncn
+
+가구업체
+	가구업체/ncn
+
+까사미아는
+	까사미아/ncn+는/jxc
+
+이달부터
+	이/nnc+달/nbu+부터/jxc
+
+일부
+	일/nnc+부/nbu
+
+가구
+	가구/ncn
+
+제품의
+	제품/ncn+의/jcm
+
+가격을
+	가격/ncn+을/jco
+
+인상했다
+	인상/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+한샘이
+	한샘/ncn+이/jcc
+
+지난
+	지나/pvg+ㄴ/etm
+
+4월
+	4/nnc+월/nbu
+
+제품
+	제품/ncn
+
+가격을
+	가격/ncn+을/jco
+
+2
+	2/nnc
+
+5%
+	5/nnc+%/su
+
+가량
+	가량/nbu
+
+올렸고,
+	올리/pvg+었/ep+고/ecc+,/sp
+
+리바트
+	리바트/ncn
+
+역시
+	역시/mag
+
+연초
+	연초/ncn
+
+일부
+	일/nnc+부/nbu
+
+제품가격을
+	제품가격/ncn+을/jco
+
+3
+	3/nnc
+
+4%
+	4/nnc+%/su
+
+인상했다
+	인상/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+가구업계
+	가구/ncn+업계/ncn
+
+전반적으로
+	전반/ncn+적/ncn+으로/jca
+
+가격
+	가격/ncn
+
+인상
+	인상/ncn
+
+흐름이
+	흐르/pvg+ㅁ/etn+이/jcs
+
+나타나고
+	나타나/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+것.
+	것/nbn+./sf
+
+가구업체들은
+	가구업체/ncn+들/ncn+은/jxc
+
+올들어
+	올들어/mag
+
+부동산
+	부동산/ncn
+
+경기
+	경기/ncn
+
+침체로
+	침체/ncpa+로/jca
+
+이사
+	이/nnc+사/nnc
+
+수요가
+	수요/ncn+가/jcs
+
+격감하고,
+	격감/ncpa+하고/jct+,/sp
+
+윤달마저
+	윤달마저/ncn
+
+겹치면서
+	겹치/pvg+면서/ecc
+
+극심한
+	극심/ncn+한/ncn
+
+판매
+	판매/ncpa
+
+부진에
+	부진/ncpa+에/jca
+
+시달리고
+	시달리/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+게다가
+	게다가/maj
+
+원자재
+	원자재/ncn
+
+가격마저
+	가격/ncn+마저/jxc
+
+오르면서
+	오르/pvg+면서/ecc
+
+경영을
+	경영/ncpa+을/jco
+
+압박하고
+	압박/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+올들어
+	올들어/mag
+
+원목
+	원목/ncn
+
+등
+	등/nbu
+
+원자재
+	원자재/ncn
+
+가격이
+	가격/ncn+이/jcc
+
+지난해
+	지난해/ncn
+
+같은
+	같/paa+은/etm
+
+기간보다
+	기간/ncn+보다/jca
+
+10%
+	10/nnc+%/su
+
+가량
+	가량/nbu
+
+인상됐고,
+	인상/ncn+되/xsvn+었/ep+고/ecc+,/sp
+
+지난해
+	지난해/ncn
+
+시행된
+	시행/ncpa+되/xsvn+ㄴ/etm
+
+파티클보드에
+	파티클보드/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+친환경
+	친환경/ncn
+
+규제도
+	규제/ncpa+도/jxc
+
+올해부터
+	올해/ncn+부터/jxc
+
+본격적으로
+	본격/ncn+적/ncn+으로/jca
+
+영향을
+	영향/ncn+을/jco
+
+미치기
+	미치/pvg+기/etn
+
+시작했다
+	시작/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+업계
+	업계/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+관계자는
+	관계자/ncn+는/jxc
+
+과거
+	과거/ncn
+
+사용하던
+	사용/ncpa+하/xsva+던/etm
+
+E2
+	E2/ncn
+
+등급의
+	등급/ncn+의/jcm
+
+파티클보드를
+	파티클보드/ncn+를/jco
+
+친환경
+	친환경/ncn
+
+기준에
+	기준/ncpa+에/jca
+
+맞춰
+	맞추/pvg+어/ecx
+
+E0
+	E0/ncn
+
+등급으로
+	등급/ncn+으로/jca
+
+바꾸는
+	바꾸/pvg+는/etm
+
+데에도
+	데/nbn+에/jca+도/jxc
+
+10%
+	10/nnc+%/su
+
+이상의
+	이상/ncn+의/jcm
+
+원가
+	원/nbu+가/jcc
+
+인상요인이
+	인상요인/ncn+이/jcc
+
+발생한다
+	발생/ncpa+하/xsva+ㄴ다/ef
+
+며
+	며/ncn
+
+원자재
+	원자재/ncn
+
+가격이
+	가격/ncn+이/jcc
+
+올라도
+	오르/pvg+아/ecs
+
+판매가
+	판매/ncpa+가/jcc
+
+잘
+	잘/mag
+
+되면
+	되/pvg+면/ecs
+
+박리다매
+	박리다매/ncn
+
+전략을
+	전략/ncn+을/jco
+
+택할
+	택하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있지만
+	있/px+지만/ecs
+
+지금같은
+	지금/ncn+같/xsmn+은/etm
+
+침체기에는
+	침체기/ncn+에/jca+는/jxc
+
+가격을
+	가격/ncn+을/jco
+
+올리는
+	올리/pvg+는/etm
+
+수밖에
+	수/nbn+밖에/jxc
+
+없다
+	없/paa+다/ef
+
+고
+	고/mma
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+가격을
+	가격/ncn+을/jco
+
+내린다고
+	내리/pvg+ㄴ다/ef+고/jcr
+
+더
+	더/mag
+
+팔리고
+	팔리/pvg+고/ecc
+
+올린다고
+	올리/pvg+ㄴ다/ef+고/jcr
+
+안
+	알/pvg+ㄴ/etm
+
+팔리는
+	팔리/pvg+는/etm
+
+상황이
+	상황/ncn+이/jcc
+
+아닌만큼,
+	아니/paa+ㄴ/etm+만큼/nbn+,/sp
+
+가격을
+	가격/ncn+을/jco
+
+현실화해
+	현실/ncn+화해/ncpa
+
+수익을
+	수익/ncpa+을/jco
+
+보전하겠다는
+	보전/ncpa+하/xsva+겠/ep+다/ef+는/etm
+
+전략이다
+	전략/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+가구제품도
+	가구/ncn+제품/ncn+도/jxc
+
+인지도와
+	인지도/ncn+와/jcj
+
+고객
+	고객/ncn
+
+충성도가
+	충성/ncn+도/ncn+가/jcs
+
+높은
+	높/paa+은/etm
+
+제품은
+	제품/ncn+은/jxc
+
+업황이
+	업황/ncn+이/jcc
+
+부진해도
+	부진/ncpa+하/xsva+어도/ecs
+
+일정
+	일정/ncn
+
+정도
+	정도/ncn
+
+수요가
+	수요/ncn+가/jcs
+
+있기
+	있/px+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+가격을
+	가격/ncn+을/jco
+
+올리는
+	올리/pvg+는/etm
+
+게
+	것/nbn+이/jcs
+
+반드시
+	반드시/mag
+
+독이
+	독/ncn+이/jcc
+
+되지는
+	되/pvg+지/ecs+는/jxc
+
+않는다
+	않/px+는다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+관계자는
+	관계자/ncn+는/jxc
+
+보루네오가
+	보루/ncn+네오/ncn+가/jcs
+
+올들어
+	올들어/mag
+
+반값가구를
+	반값/ncn+가구/ncn+를/jco
+
+내세우면서
+	내세우/pvg+면서/ecc
+
+판매량은
+	판매량/ncn+은/jxc
+
+늘렸을지
+	늘리/pvg+었/ep+을/etm+지/nbn
+
+몰라도
+	모르/pvg+아/ecs
+
+매출도
+	매출도/ncn
+
+줄어들고
+	줄어들/pvg+고/ecc
+
+수익도
+	수익/ncpa+도/jxc
+
+적자로
+	적자/ncn+로/jca
+
+돌아서지
+	돌아서/pvg+지/ecx
+
+않았느냐
+	않/px+아/ep+느냐/ecs
+
+면서
+	면/ncn+서/jca
+
+저가
+	저가/ncn
+
+전략이
+	전략/ncn+이/jcc
+
+성공할지
+	성공/ncpa+하/xsva+ㄹ지/ecs
+
+여부도
+	여부/ncn+도/jxc
+
+불투명할
+	불투명/ncps+하/xsms+ㄹ/etm
+
+뿐더러
+	뿐/nbn+더러/jca
+
+실패할
+	실패/ncpa+하/xsva+ㄹ/etm
+
+경우엔
+	경우/ncn+엔/jca
+
+저가
+	저가/ncn
+
+브랜드로
+	브랜드/ncn+로/jca
+
+전락할
+	전락/ncpa+하/xsva+ㄹ/etm
+
+위험이
+	위험/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+할인판매도
+	할인판매/ncn+도/jxc
+
+쉽지
+	쉽/paa+지/ecx
+
+않다
+	않/px+다/ef
+
+고
+	고/mma
+
+덧붙였다
+	덧붙이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+출처:이데일리
+	출처:이데/ncn+이/jp+ㄹ/etm+리/nbn

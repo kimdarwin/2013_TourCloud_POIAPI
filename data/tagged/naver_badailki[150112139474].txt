@@ -1,0 +1,255 @@
+낙동강
+	낙동강/ncn
+
+구왜관철교
+	구왜관철교/ncn
+
+교각유실
+	교각/ncn+유/ncn+이/jp+시/ep+ㄹ/etm
+
+국토관리청
+	국토/ncn+관리/ncn+청/ncn
+
+신속한
+	신속/ncn+한/ncn
+
+복구를
+	복구/ncpa+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+원인파악중
+	원인/ncn+파악/ncpa+중/ncn
+
+
+11
+	11/nnc
+
+.
+	./sf
+
+
+6.
+	6./nnc
+
+25
+	25/nnc
+
+05:15분경
+	05/nnc+:/sp+15/nnc+분/nbu+경/xsnu
+
+경북
+	경북/ncn
+
+칠곡군
+	칠곡군/ncn
+
+약목면에
+	약목면/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+낙동강
+	낙동강/ncn
+
+구왜관철교의
+	구왜관철교/ncn+의/jcm
+
+교각1기가
+	교각1기/ncn+가/jcs
+
+유실되는
+	유실/ncpa+되/xsvn+는/etm
+
+사고가
+	사/pvg+고/ecx+가/px+아/ecx
+
+발생하였습니다
+	발생/ncpa+하/xsva+었/ep+습니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+다리는
+	다리/ncn+는/jxc
+
+1905년에
+	1905/nnc+년/nbu+에/jca
+
+건립되어
+	건립/ncpa+되/xsvn+어/ecx
+
+현재는
+	현재/ncn+는/jxc
+
+주민들
+	주민/ncn+들/ncn
+
+통행용으로만
+	통행/ncpa+용/ncn+으로/jca+만/jxc
+
+사용되어왔습니다
+	사용/ncpa+되/xsvn+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+국토해양부는
+	국토/ncn+해양/ncn+부/ncn+는/jxc
+
+이번
+	이/nnc+번/nbu
+
+사고는
+	사/pvg+아/ef+고/jcr+는/jxc
+
+22일부터
+	22/nnc+일/nbu+부터/jxc
+
+내린
+	내리/pvg+ㄴ/etm
+
+비의
+	비/ncn+의/jcm
+
+영향으로유속이
+	영향으로유속/ncn+이/jcc
+
+빨라져서
+	빠르/paa+아/ecx+지/px+어서/ecs
+
+발생된
+	발생/ncpa+되/xsvn+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+보여
+	보이/pvg+어/ecx
+
+진다고
+	지/px+ㄴ다/ef+고/jcr
+
+밝혔습니다
+	밝히/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+앞으로
+	앞/ncn+으로/jca
+
+물이
+	물/ncn+이/jcc
+
+빠지면
+	빠지/pvg+면/ecs
+
+관계전문가의
+	관계/ncn+전문가/ncn+의/jcm
+
+안전진단과
+	안전진단/ncpa+과/jcj
+
+신속한
+	신속/ncn+한/ncn
+
+복구방안
+	복구/ncpa+방안/ncn
+
+등을
+	등/nbu+을/jco
+
+마련할
+	마련/ncpa+하/xsva+ㄹ/etm
+
+계획이라고
+	계획/ncpa+이/jp+라/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+첨부파일
+	첨부/ncpa+파일/ncn
+
+:
+	:/sp
+
+110625(참고)_구왜관철교_교각유실_보도참고(부산청)
+	110625(참고)_구왜관철교_교각유실_보도참고(부산청)/ncn
+
+.
+	./sf
+
+
+hwp
+	hwp/f
+
+
+4대강살리기추진본부
+	4대강살리기추진본부/ncn
+
+(본부장
+	(/sl+본부장/ncn
+
+심명필
+	심명필/ncn
+
+http://twitter.
+	http/f+:/sp+//sp+//sp+twitter/f+./sy
+
+com/mpshim)
+	com/f+//sp+mpshim/f+)/sr
+
+
+4대강살리기
+	4대강살리/ncn+이/jp+기/etn
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+4rivers.
+	4rivers./ncn
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+홈페이지:
+	홈페이지/ncn+:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+mltm.
+	mltm/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp

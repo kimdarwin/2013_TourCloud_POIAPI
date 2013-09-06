@@ -1,0 +1,262 @@
+할아버지,
+	할아버지/ncn+,/sp
+
+아버지,
+	아버지/ncn+,/sp
+
+손자
+	손자/ncn
+
+3대가
+	3/nnc+대/nbu+가/jcc
+
+고스톱을
+	고스톱/ncn+을/jco
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+손자가
+	손자/ncn+가/jcs
+
+돈을
+	돈/ncn+을/jco
+
+잃었다
+	잃/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+손자가
+	손자/ncn+가/jcs
+
+자기
+	자기/npp
+
+아버지에게
+	아버지/ncn+에게/jca
+
+물었다
+	묻/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+"아버지,
+	"/sl+아버지/ncn+,/sp
+
+돈
+	돌/pvg+ㄴ/etm
+
+얼마
+	얼마/ncn
+
+땄어요
+	뜨/pvg+었/ep+어/ef+요/jxf
+
+?"
+	?/sf+"/sl
+
+
+아버지가
+	아버지/ncn+가/jcs
+
+손자에게
+	손자/ncn+에게/jca
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+"임마,
+	"/sl+임마/ii+,/sp
+
+아버지가
+	아버지/ncn+가/jcs
+
+언제
+	언제/mag
+
+고스톱에서
+	고스톱/ncn+에서/jca
+
+돈
+	돌/pvg+ㄴ/etm
+
+따는
+	따/pvg+는/etm
+
+것
+	것/nbn
+
+봤냐
+	보/px+아/ep+냐/ef
+
+?"
+	?/sf+"/sl
+
+
+손자가
+	손자/ncn+가/jcs
+
+할아버지에게
+	할아버지/ncn+에게/jca
+
+물었다
+	묻/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+"그러면
+	"/sl+그러/pvd+면/ecs
+
+할아버지가
+	할아버지/ncn+가/jcs
+
+땄군요
+	뜨/pvg+었/ep+군/ef+요/jxf
+
+?"
+	?/sf+"/sl
+
+
+할아버지가
+	할아버지/ncn+가/jcs
+
+손자에게
+	손자/ncn+에게/jca
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+"모르겠다
+	"/sl+모르/pvg+겠/ep+다/ef
+
+.
+	./sf
+
+
+나는
+	나/npp+는/jxc
+
+본전이나
+	보/px+ㄴ/etm+전/nbn+이/jp+나/ecs
+
+했는가
+	하/px+었/ep+는가/ef
+
+?"
+	?/sf+"/sl
+
+
+손자는
+	손자/ncn+는/jxc
+
+돌아서서
+	돌아서/pvg+어서/ecs
+
+혼잣말로
+	혼잣말/ncpa+로/jca
+
+투덜댔다
+	투덜댔다/ncn
+
+.
+	./sf
+
+
+"그러면
+	"/sl+그러/pvd+면/ecs
+
+어떤
+	어떤/mmd
+
+개새끼가
+	개새끼/ncn+가/jcs
+
+내
+	내/pvg+어/ecx
+
+돈을
+	돈/ncn+을/jco
+
+따갔지
+	뜨/pvg+어/ecx+가/px+아/ep+지/ef
+
+?!"
+	?/sf+!/sf+"/sl
+
+
+(손자는
+	(/sl+손자/ncn+는/jxc
+
+분명히
+	분명히/mag
+
+돈을
+	돈/ncn+을/jco
+
+잃었는데
+	잃/pvg+었/ep+는데/ecs
+
+아무도
+	아무/npd+도/jxc
+
+돈을
+	돈/ncn+을/jco
+
+딴
+	따/pvg+ㄴ/etm
+
+사람이
+	사람/ncn+이/jcc
+
+없다니
+	없/paa+다니/ecs
+
+귀신
+	귀/ncn+이/jp+시/ep+ㄴ/etm
+
+곡할
+	곡/ncpa+하/xsva+ㄹ/etm
+
+노릇이다
+	노릇/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+고스톱은
+	고스톱/ncn+은/jxc
+
+혼자서
+	혼자/ncn+서/jca
+
+거울보고
+	거울/ncn+보고/ncn
+
+쳐도
+	치/pvg+어도/ecs
+
+본전이
+	보/px+ㄴ/etm+전/nbn+이/jcc
+
+안맞는다)
+	안맞는다/ncn+)/sr

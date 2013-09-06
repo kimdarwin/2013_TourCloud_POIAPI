@@ -1,0 +1,606 @@
+위
+	위/ncn
+
+치
+	치/nbu
+
+:
+	:/sp
+
+제주특별자치도
+	제주/ncn+특별/ncps+자치/ncn+도/jxc
+
+서귀포시
+	서귀포시/ncn
+
+남성1로147
+	남성1로147/ncn
+
+문의
+	문/ncn+의/jcm
+
+:
+	:/sp
+
+064:733~1528
+	064/nnc+:/sp+733/nnc+~/sd+1528/nnc
+
+
+시외버스
+	시외버스/ncn
+
+:제주시~서귀포시,15~20분
+	:제주시~서귀포시,15~20분/ncn
+
+간격운행[서귀포시내버스1번,20분
+	간격운행[서귀포시내버스1번,20분/ncn
+
+간격]운행
+	간격/ncn+]/sr+운행/ncpa
+
+
+시내버스:064]760~3111,3112
+	시내버스/ncn+:/sp+064/nnc+]/sr+760/nnc+~/sd+3111/nnc+,/sp+3112/nnc
+
+
+공항리무진:제주시~서귀포시,600번,18분
+	공항리무진:제주시~서귀포시,600번,18분/ncn
+
+간격운행[리무진문의:064]713~7000]
+	간격운행/ncn+[/sl+리무진/ncn+문의/ncn+:/sp+064/nnc+]/sr+713/nnc+~/sd+7000/nnc+]/sr
+
+
+입장료:
+	입장료/ncn+:/sp
+
+어른2000
+	어른2000/ncn
+
+군경/청소년1000원
+	군경/청소년1000원/ncn
+
+
+제주도는
+	제주/ncn+도/jxc+는/jxc
+
+이제
+	이제/mag
+
+누구나
+	누구/npp+나/jxc
+
+쉽게
+	쉽/paa+게/ecs
+
+다녀올수있는
+	다니/pvg+어/ecx+오/px+ㄹ/etm+수/nbn+있/xsmn+는/etm
+
+주말
+	주말/ncn
+
+여행지처럼
+	여행지/ncn+처럼/jca
+
+되었다
+	되/pvg+었/ep+다/ef
+
+어떤이는
+	어떤이/ncn+는/jxc
+
+제주여행은
+	제주/ncn+여행/ncpa+은/jxc
+
+더
+	더/mag
+
+
+이상
+	이상/ncn
+
+독특하지
+	독특/ncps+하/xsms+지/ecx
+
+않다고도
+	않/px+다/ef+고/jcr+도/jxc
+
+말합니다
+	말/ncpa+하/xsva+ㅂ니다/ef
+
+그러나
+	그러나/maj
+
+제주도는
+	제주/ncn+도/jxc+는/jxc
+
+아직도
+	아직/mag+도/jxc
+
+볼거리가
+	볼거리/ncn+가/jcs
+
+무궁무진
+	무궁무진/ncn
+
+하다고
+	하/px+다/ef+고/jcr
+
+봅니다
+	보/pvg+ㅂ니다/ef
+
+
+천지연폭포[
+	천지연폭포[/ncn
+
+]
+	]/sr
+
+
+기암절벽에서
+	기암/ncn+절벽/ncn+에서/jca
+
+우뢰와같은
+	우뢰와같/ncn+은/jxc
+
+소리를내며쏟아져
+	소리를내며쏟아져/ncn
+
+내리는
+	내리/pvg+는/etm
+
+하얀
+	하얗/paa+은/etm
+
+물기둥이
+	물기둥/ncn+이/jcc
+
+바로
+	바로/mag
+
+천지연폭포
+	천지연폭포/ncn
+
+하늘과
+	하늘/ncn+과/jcj
+
+
+땅이만나서
+	땅이만나/ncn+서/jca
+
+이룬
+	이루/pvg+ㄴ/etm
+
+연못이라하여
+	연못이라하/ncn+이/jp+어/ecs
+
+천지연이라
+	천지/ncn+연/ncn+이/jp+라/ecs
+
+부른다고
+	부르/pvg+ㄴ다/ef+고/jcr
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+천지연
+	천지/ncn+연/ncn
+
+폭포는
+	폭포/ncn+는/jxc
+
+높이22m,폭12m에
+	높이22m,폭12m/ncn+에/jca
+
+이르는
+	이르/paa+는/etm
+
+폭포가
+	폭포/ncn+가/jcs
+
+절벽아래로
+	절벽/ncn+아래/ncn+로/jca
+
+웅장한
+	웅장/ncn+한/ncn
+
+소리를
+	소리/ncn+를/jco
+
+내며
+	내/pvg+며/ecc
+
+세차게
+	세차/paa+게/ecs
+
+떨어지
+	떨어/ncn+이/jp+지/ecs
+
+
+는
+	늘/pvg+ㄴ/etm
+
+모습이
+	모습/ncn+이/jcc
+
+장관이며
+	장관/ncr+이/jp+며/ecc
+
+천지연폭포
+	천지연폭포/ncn
+
+계곡에는
+	계곡/ncn+에/jca+는/jxc
+
+천연기념물
+	천연기념물/ncn
+
+제163호
+	제163호/ncn
+
+담달수나무가
+	담달수나무/ncn+가/jcs
+
+자생하고있다고함
+	자생/ncpa+하/xsva+고/ecx+있/px+다고/ecx+하/px+ㅁ/etn
+
+
+천지연폭포는
+	천지연폭포/ncn+는/jxc
+
+천연기념물
+	천연기념물/ncn
+
+제379호
+	제379호/ncn
+
+난대림
+	난대림/ncn
+
+지대가
+	지대/ncn+가/jcs
+
+자생하고있으며
+	자생/ncpa+하/xsva+고/ecx+있/px+으며/ecc
+
+특히
+	특히/mag
+
+밤에만
+	밤/ncn+에/jca+만/jxc
+
+주로
+	주로/mag
+
+활동하는
+	활동/ncpa+하/xsva+는/etm
+
+
+천연기념물
+	천연기념물/ncn
+
+제258호인
+	제258호/ncn+이/jp+ㄴ/etm
+
+무태장어가
+	무태장어/ncn+가/jcs
+
+서식하고
+	서식/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+유명하다
+	유명/ncps+하/xsms+다/ef
+
+
+김녕미로공원
+	김녕미로공원/ncn
+
+
+미로공원은
+	미로/ncn+공원/ncn+은/jxc
+
+제주대에서
+	제주/ncn+대/ncn+에서/jca
+
+퇴직한
+	퇴직/ncpa+하/xsva+ㄴ/etm
+
+미국인
+	미국인/ncn
+
+교수와
+	교수/ncr+와/jcj
+
+미로
+	미/ncn+로/jca
+
+디자이너
+	디자이너/ncn
+
+애드린
+	애드린/ncn
+
+피셔가
+	피/ncn+이/jp+시/ep+어/ecx+가/px+아/ecx
+
+노력해
+	노력/ncpa+하/xsva+어/ecx
+
+조성한
+	조성/ncpa+하/xsva+ㄴ/etm
+
+미
+	미/ncn
+
+
+로
+	로/ncn
+
+공원입니다
+	공원/ncn+이/jp+ㅂ니다/ef
+
+
+미로공원에
+	미로/ncn+공원/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+상록수랠란디
+	상록수랠란디/ncn
+
+나무는
+	나무/ncn+는/jxc
+
+1년에1m이상
+	1년에1m이상/ncn
+
+자라는
+	자라/pvg+는/etm
+
+나무로
+	나무/ncn+로/jca
+
+만들어
+	만들/pvg+어/ecx
+
+지었으며
+	지/px+었/ep+으며/ecc
+
+조랑말이
+	조랑말/ncn+이/jcc
+
+
+나
+	나/npp
+
+고인돌,배
+	고인돌/ncn+,/sp+배/ncn
+
+문양
+	문양/ncn
+
+같은
+	같/paa+은/etm
+
+제주도
+	제주/ncn+도/jxc
+
+역사나
+	역사/ncn+나/jcj
+
+상징을
+	상징/ncpa+을/jco
+
+담은
+	달/paa+ㅁ/etn+은/jxc
+
+것들로
+	것들/ncn+로/jca
+
+디자인
+	디자인/ncpa
+
+되었다고합니다
+	되/nbu+이/jp+었/ep+다고/ecx+하/px+ㅂ니다/ef
+
+
+꼬불꼬불한
+	꼬불꼬불하/paa+ㄴ/etm
+
+미로를
+	미로/ncn+를/jco
+
+빠져나오면
+	빠지/pvg+어/ecx+나/px+아/ecx+오/px+면/ecs
+
+계단위로
+	계단/ncn+위/ncn+로/jca
+
+올라가
+	오르/pvg+아/ecx+가/px+아/ecx
+
+종을
+	종/ncn+을/jco
+
+울릴수
+	울리/pvg+ㄹ/etm+수/nbn
+
+있는데
+	있/px+는데/ecs
+
+일행이
+	일/nnc+행/nbu+이/jcc
+
+많다면
+	많/paa+다면/ecs
+
+짝을
+	짝/ncn+을/jco
+
+나뉘
+	나뉘/ncn
+
+
+어느쪽이
+	어느쪽/ncn+이/jcc
+
+먼져
+	먼져/ncn
+
+도착하는지
+	도착/ncpa+하/xsva+는지/ecs
+
+게임을하는것도
+	게임을하는것/ncn+도/jxc
+
+즐거울
+	즐겁/paa+을/etm
+
+듯
+	듯/nbn
+
+합니다
+	하/pvg+ㅂ니다/ef
+
+
+공원입구에서
+	공원/ncn+입구/ncn+에서/jca
+
+지도를
+	지도/ncn+를/jco
+
+놓아주지만지도
+	놓/px+아/ecx+주/px+지/ecx+말/px+ㄴ지/ecs+도/jxc
+
+없이
+	없이/mag
+
+미로를
+	미로/ncn+를/jco
+
+헤매보는
+	헤매/pvg+어/ecx+보/px+는/etm
+
+것도
+	것/nbn+도/jxc
+
+더
+	더/mag
+
+재미있을수도
+	재미있/pvg+을/etm+수/nbn+도/jxc
+
+있습니다
+	있/paa+습니다/ef
+
+
+어린이
+	어린이/ncn
+
+청소년
+	청소년/ncn
+
+들과
+	들/ncn+과/jcj
+
+제주에
+	제주/ncn+에/jca
+
+가신다면
+	가/px+시/ep+ㄴ다면/ecs
+
+한번즘
+	한번즘/ncn
+
+김녕미로공원에
+	김녕미로공원/ncn+에/jca
+
+가시어
+	가/px+시/ep+어/ecs
+
+즐거운
+	즐겁/paa+은/etm
+
+길찾기를
+	길찾기/ncn+를/jco
+
+권하고
+	권하/pvg+고/ecc
+
+
+십습니다
+	십습니/ncn+이/jp+다/ef
+
+
+여행을
+	여행/ncpa+을/jco
+
+떠날때는
+	뜨/pvg+어/ecx+나/px+ㄹ/etm+때/nbn+는/jxc
+
+항상
+	항상/mag
+
+두근두근
+	두근두근/ncpa
+
+설레는
+	설레/pvg+는/etm
+
+마음과
+	마음/ncn+과/jct
+
+막연한
+	막연/ncps+하/xsms+ㄴ/etm
+
+두려움이
+	두려움/ncn+이/jcc
+
+교차된다
+	교차/ncpa+되/xsvn+ㄴ다/ef
+
+이러한
+	이러하/pad+ㄴ/etm
+
+긴장감은
+	긴장감/ncn+은/jxc
+
+곧
+	곧/maj
+
+
+짜릿한
+	짜릿하/paa+ㄴ/etm
+
+쾌감으로
+	크/paa+어/ecx+가/px+ㅁ/etn+으로/jca
+
+이어지니
+	잇/pvg+어/ecx+지/px+니/ecs
+
+이게바로
+	이게바/ncn+로/jca
+
+여행의
+	여행/ncpa+의/jcm
+
+즐거움
+	즐거움/ncn
+
+중
+	중/nbn
+
+하나가
+	하나/nnc+가/jcs
+
+아닐까
+	아니/paa+ㄹ까/ecs
+
+생각한다
+	생각/ncpa+하/xsva+ㄴ다/ef

@@ -1,0 +1,541 @@
+충북
+	충북/ncn
+
+괴산군
+	괴산군/ncn
+
+늘고개
+	늘고개/ncn
+
+백두대간
+	백/nnc+두/nnc+대/nbu+간/xsnu
+
+성황당
+	성황당/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+7월4일
+	7월4/ncn+이/jp+ㄹ/etm
+
+상주시
+	상주/ncn+시/ncn
+
+화북면을
+	화북면/ncn+을/jco
+
+가다가
+	가/pvg+아/ecx+가/px+아/ecx
+
+눈에띈
+	눈에띈/ncn
+
+백두대간
+	백/nnc+두/nnc+대/nbu+간/xsnu
+
+성황당이다
+	성황당/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+예전에도
+	예전/ncn+에/jca+도/jxc
+
+이곳을
+	이곳/npd+을/jco
+
+세번정도
+	세번정/ncn+도/jxc
+
+지나간
+	지나/pvg+아/ecx+가/px+ㄴ/etm
+
+기억이
+	기억/ncpa+이/jcc
+
+있는데
+	있/px+는데/ecs
+
+그때는
+	그때/ncn+는/jxc
+
+왜
+	왜/mag
+
+못봤는지
+	못봤는지/ncn
+
+...
+	.../se
+
+
+(위)-백두대간
+	(/sl+위/ncn+)/sr+-/sd+백/nnc+두/nnc+대/nbu+간/xsnu
+
+안내석
+	안내석/ncn
+
+.
+	./sf
+
+
+(위)-성황당전경
+	(/sl+위/ncn+)/sr+-/sd+성황당/ncn+전경/ncn
+
+.
+	./sf
+
+
+정면에
+	정면/ncn+에/jca
+
+보이는곳이
+	보이는곳/ncn+이/jcc
+
+성황당이고,오른쪽이
+	성황당/ncn+이/jp+고/ecc+,/sp+오른쪽/ncn+이/jcc
+
+선황님과
+	선황님/ncn+과/jcj
+
+여러가지
+	여러/nnc+가지/nbu
+
+비품을
+	비품/ncn+을/jco
+
+넣어두는
+	넣/pvg+어/ecx+두/px+는/etm
+
+창고같다
+	창고/ncn+같/xsmn+다/ef
+
+.
+	./sf
+
+
+(위)-성황당
+	(/sl+위/ncn+)/sr+-/sd+성황당/ncn
+
+.
+	./sf
+
+
+(위)-성황당
+	(/sl+위/ncn+)/sr+-/sd+성황당/ncn
+
+.
+	./sf
+
+
+(위)-성황당
+	(/sl+위/ncn+)/sr+-/sd+성황당/ncn
+
+.
+	./sf
+
+
+(위)-성황당
+	(/sl+위/ncn+)/sr+-/sd+성황당/ncn
+
+.
+	./sf
+
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+많이
+	많/paa+이/xsa
+
+찾지는
+	찾/pvg+지/ef+는/etm
+
+않은것같다
+	않/px+은/etm+것/nbn+같/xsmn+다/ef
+
+.
+	./sf
+
+
+주변에
+	주변/ncn+에/jca
+
+풀도
+	풀/ncn+도/jxc
+
+무성하고
+	무성/ncn+하고/jct
+
+...
+	.../se
+
+
+물론
+	물론/mag
+
+많이
+	많/paa+이/xsa
+
+알려지지도
+	알리/pvg+어/ecx+지/px+지/ecs+도/jxc
+
+않은곳이다
+	않은곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-성황당내부
+	(/sl+위/ncn+)/sr+-/sd+성황당/ncn+내부/ncn
+
+.
+	./sf
+
+
+특별한
+	특별/ncps+하/xsms+ㄴ/etm
+
+시설은없다
+	시설/ncpa+은/ncn+없/xsmn+다/ef
+
+.
+	./sf
+
+
+제단도없고~환도없이
+	제단/ncn+도/ncn+없/xsmn+고/ecc+~/sd+환도/ncn+없이/jca
+
+텅비어있다
+	텅비/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+당연히
+	당연히/mag
+
+문도
+	문/ncn+도/jxc
+
+열려있다
+	열리/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+단지
+	단지/mag
+
+왼쪽구석에
+	왼쪽/ncn+구석/ncn+에/jca
+
+어떤
+	어떤/mmd
+
+기도객이
+	기도/ncn+객/ncn+이/jcc
+
+올려놓은
+	올리/pvg+어/ecx+놓/px+은/etm
+
+선황필이
+	선황필/ncn+이/jcc
+
+예단으로
+	예단/ncn+으로/jca
+
+올려져있다
+	올리/pvg+어/ecx+지/px+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+입구
+	입구/ncn
+
+선황님
+	선황님/ncn
+
+옆에있는
+	옆에있/ncn+는/jxc
+
+창고에다가
+	창고/ncn+에다가/jca
+
+보관하지
+	보관/ncpa+하/xsva+지/ecx
+
+않았을까
+	않/px+아/ep+ㄹ까/ecs
+
+싶다
+	싶/px+다/ef
+
+.
+	./sf
+
+
+(위)-선황목
+	(위)-선황목/ncn
+
+.
+	./sf
+
+
+아마도
+	아마/mag+도/jxc
+
+왼쪽
+	왼쪽/ncn
+
+백두대간
+	백/nnc+두/nnc+대/nbu+간/xsnu
+
+표지석뒤에
+	표지석/ncn+뒤/ncn+에/jca
+
+있는분이
+	있/px+는/etm+분/nbn+이/jcc
+
+선황목이
+	선황목/ncn+이/jcc
+
+아닐까~
+	아니/paa+ㄹ까/ef+~/sd
+
+??
+	?/sf+?/sf
+
+
+그옆에
+	그옆/ncn+에/jca
+
+창고는
+	창고/ncn+는/jxc
+
+문이
+	문/ncn+이/jcc
+
+잠겨있다
+	잠기/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+(위)-도로옆에
+	(/sl+위/ncn+)/sr+-/sd+도로/ncn+옆/ncn+에/jca
+
+안내문에
+	안내문/ncn+에/jca
+
+낙동강과
+	낙동강/ncn+과/jcj
+
+한강의
+	한강/ncn+의/jcm
+
+분수령이
+	분수령/ncn+이/jcc
+
+표시되어있다
+	표시/ncpa+되/xsvn+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+(위)-선황님
+	(위)-선황님/ncn
+
+.
+	./sf
+
+
+(위)-선황님
+	(위)-선황님/ncn
+
+.
+	./sf
+
+
+성황당을
+	성황당/ncn+을/jco
+
+짖기전에는
+	짖/pvg+기/etn+전/xsnx+에/jca+는/jxc
+
+여기
+	여기/mad
+
+조그만
+	조그맣/paa+은/etm
+
+집이
+	집/ncn+이/jcc
+
+성황당이었을까~
+	성황당/ncn+이/jp+었/ep+을까/ef+~/sd
+
+??
+	?/sf+?/sf
+
+
+지금은
+	지금/ncn+은/jxc
+
+성황당은
+	성황당/ncn+은/jxc
+
+열려있고
+	열리/pvg+어/ecx+있/px+고/ecc
+
+여기
+	여기/mad
+
+조그만
+	조그맣/paa+은/etm
+
+집은
+	집/ncn+은/jxc
+
+자물솨가
+	자물솨/ncn+가/jcs
+
+잠겨있다
+	잠기/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf
+
+
+(위)-성황당
+	(/sl+위/ncn+)/sr+-/sd+성황당/ncn
+
+유래비
+	유래/ncpa+비/ncn
+
+.
+	./sf
+
+
+(위)-성황당유래
+	(/sl+위/ncn+)/sr+-/sd+성황당/ncn+유/ncn+이/jp+래/ef
+
+.
+	./sf
+
+
+(위)-백두대간(늘고개)
+	(위)-백두대간(늘고개)/ncn
+
+유래비
+	유래/ncpa+비/ncn
+
+.
+	./sf
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+늘고개
+	늘고개/ncn
+
+백두대간
+	백/nnc+두/nnc+대/nbu+간/xsnu
+
+성황당은
+	성황당/ncn+은/jxc
+
+충청도와
+	충청도/ncn+와/jcj
+
+경상도의
+	경상/ncn+도/ncn+의/jcm
+
+경계지역에
+	경계/ncn+지역/ncn+에/jca
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+낮에도
+	낮/ncn+에/jca+도/jxc
+
+주변에
+	주변/ncn+에/jca
+
+인가가
+	인가/ncpa+가/jcc
+
+없어서
+	없/paa+어서/ecs
+
+기도하기
+	기도/ncn+하기/ncn
+
+제격이고~
+	제격/ncn+이고/jcj+~/sd
+
+
+밤에는무구를
+	밤에는무구/ncn+를/jco
+
+사용한여
+	사용한여/ncn
+
+기도하기에너무좋은곳이다
+	기도하기에너무좋은곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+늘재를
+	늘재/ncn+를/jco
+
+기준으로
+	기준/ncpa+으로/jca
+
+경상도로
+	경상/ncn+도/ncn+로/jca
+
+흐르는물은
+	흐르는물/ncn+은/jxc
+
+낙동강으로가고
+	낙동강으로가/ncn+고/jcj
+
+
+충청도로
+	충청도/ncn+로/jca
+
+흐르는물은
+	흐르는물/ncn+은/jxc
+
+한강으로
+	한강/ncn+으로/jca
+
+간다고~
+	갈/pvg+ㄴ다고/ecs+~/sd

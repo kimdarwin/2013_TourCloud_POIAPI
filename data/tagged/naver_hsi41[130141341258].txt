@@ -1,0 +1,3849 @@
+쇼핑관광
+	쇼핑/ncpa+관광/ncpa
+
+1번지
+	1번지/ncn
+
+명동,
+	명동,/ncn
+
+서울의
+	서울/ncn+의/jcm
+
+랜드마크
+	랜드마크/ncn
+
+남산
+	남산/ncn
+
+!
+	!/sf
+
+
+서울에서
+	서울/ncn+에서/jca
+
+빼놓을
+	빼/pvg+어/ecx+놓/px+을/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+관광지이자
+	관광지/ncn+이/jp+자/ecc
+
+번화가인
+	번화가/ncn+이/jp+ㄴ/etm
+
+이
+	이/mmd
+
+두
+	두/nnc
+
+곳은
+	곳/ncn+은/jxc
+
+지하철
+	지하철/ncn
+
+4호선
+	4/nnc+호/nbu+선/jxc
+
+명동역을
+	명동역/ncn+을/jco
+
+사이에
+	사이/ncn+에/jca
+
+두고
+	두/pvg+고/ecc
+
+반짝이고
+	반짝이/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+명동
+	명동/ncn
+
+가두에
+	가두/ncn+에/jca
+
+나열된
+	나열/ncpa+되/xsvn+ㄴ/etm
+
+가판대
+	가판/ncpa+대/ncn
+
+위에서는
+	위/ncn+에서/jca+는/jxc
+
+트렌디한쇼핑품목들이
+	트렌디한쇼핑품목들/ncn+이/jcc
+
+햇살을
+	햇살/ncn+을/jco
+
+받아
+	받/pvg+아/ecx
+
+빛나고,
+	빛나/pvg+고/ecc+,/sp
+
+남산
+	남산/ncn
+
+산책로에
+	산책로/ncn+에/jca
+
+우거진
+	우거/ncpa+진/ncn
+
+나무들
+	나무/ncn+들/ncn
+
+사이로는
+	사이/ncn+로/jca+는/jxc
+
+햇빛이
+	햇빛/ncn+이/jcc
+
+스며든다
+	스며들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+잔디처럼
+	잔디/ncn+처럼/jca
+
+촘촘히
+	촘촘히/mag
+
+들어
+	들/pvg+어/ecx
+
+찬
+	차/pvg+ㄴ/etm
+
+사람들
+	사람들/ncn
+
+사이를
+	사이/ncn+를/jco
+
+걷는
+	걷/pvg+는/etm
+
+동안,
+	동안/ncn+,/sp
+
+대화
+	대화/ncn
+
+중이던
+	중/nbn+이/jp+던/etm
+
+친구가
+	친구/ncn+가/jcs
+
+사라져
+	사라지/pvg+어/ecx
+
+버리는
+	버리/px+는/etm
+
+황당
+	황당/ncps
+
+시츄에이션
+	시츄에이션/ncn
+
+만발한
+	만발/ncps+하/xsms+ㄴ/etm
+
+명동거리와
+	명동거리/ncn+와/jcj
+
+연인끼리
+	연인/ncn+끼리/jxc
+
+두
+	두/nnc
+
+손
+	손/ncn
+
+꼭
+	꼭/mag
+
+맞잡고
+	맞잡/pvg+고/ecc
+
+있어도
+	있/px+어도/ecs
+
+땀
+	따/pvg+ㅁ/etn
+
+한방울
+	한/nnc+방울/nbu
+
+흘릴
+	흘리/pvg+ㄹ/etm
+
+틈
+	트/pvg+ㅁ/etn
+
+없는
+	없/paa+는/etm
+
+시원한
+	시원/ncps+하/xsms+ㄴ/etm
+
+남산길은
+	남산길/ncn+은/jxc
+
+두
+	두/nnc
+
+가지
+	가지/nbu
+
+다른
+	다른/mma
+
+매력으로
+	매력/ncn+으로/jca
+
+마주하고
+	마주/ncn+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+거기에
+	거기/npd+에/jca
+
+밤과
+	밤/ncn+과/jcj
+
+낮의
+	낮/ncn+의/jcm
+
+다른
+	다른/mma
+
+분위기를
+	분위기/ncn+를/jco
+
+또
+	또/maj
+
+선사하니,
+	선사/ncpa+하/xsva+니/ecs+,/sp
+
+그야말로
+	그야말로/mag
+
+일석이조,
+	일석이조/ncn+,/sp
+
+아니
+	아니/mag
+
+이석사조인
+	이석사조/ncn+이/jp+ㄴ/etm
+
+셈이다
+	셈/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+주변의
+	주변/ncn+의/jcm
+
+놓칠
+	놓치/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+문화공간과
+	문화공간/ncn+과/jcj
+
+때
+	때/ncn
+
+마다
+	마다/ncpa
+
+펼쳐지는
+	펼치/pvg+어/ecx+지/px+는/etm
+
+색다른
+	색다르/paa+ㄴ/etm
+
+행사들까지,
+	행사/ncpa+들/ncn+까지/jxc+,/sp
+
+외국인에게는
+	외국인/ncn+에게/jca+는/jxc
+
+물론
+	물론/mag
+
+우리나라
+	우리나라/ncn
+
+사람들에게도
+	사람들/ncn+에게/jca+도/jxc
+
+충분한
+	충분/ncn+한/ncn
+
+즐거움을
+	즐거움/ncn+을/jco
+
+선사한다
+	선사/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+쇼핑천국,
+	쇼핑/ncpa+천국/ncn+,/sp
+
+예술문화와
+	예술문화/ncn+와/jct
+
+만나다
+	만나/pvg+아/ecx
+
+명동
+	명동/ncn
+
+거리
+	거리/nbn
+
+
+분명
+	분명/ncps
+
+다른
+	다른/mma
+
+번화가와
+	번화가/ncn+와/jct
+
+비슷한
+	비슷/ncps+하/xsms+ㄴ/etm
+
+넓이의
+	넓이/ncn+의/jcm
+
+길일텐데,
+	길/ncn+이/jp+ㄹ텐데/ef+,/sp
+
+명동
+	명동/ncn
+
+거리는
+	거리/ncn+는/jxc
+
+늘
+	늘/mag
+
+더욱
+	더욱/mag
+
+좁게
+	좁/paa+게/ecs
+
+느껴진다
+	느끼/pvg+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+많은
+	많/paa+은/etm
+
+사람
+	사람/ncn
+
+때문일까,
+	때문/nbn+이/jp+ㄹ까/ef+,/sp
+
+중앙과
+	중앙/ncn+과/jcj
+
+양
+	양/ncn
+
+옆에
+	옆/ncn+에/jca
+
+나열되어
+	나열/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+간판이
+	간판/ncn+이/jcc
+
+그렇게
+	그렇/pad+게/ecs
+
+만드는
+	만들/pvg+는/etm
+
+것일까
+	것/nbn+이/jp+ㄹ까/ef
+
+?
+	?/sf
+
+
+거리를
+	거리/ncn+를/jco
+
+걷고
+	걷/pvg+고/ecc
+
+있자면
+	있/px+자면/ecs
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+언어들이
+	언어/ncn+들/ncn+이/jcc
+
+한국어보다
+	한국어/ncn+보다/jca
+
+더
+	더/mag
+
+자주
+	자주/mag
+
+귀에
+	귀/ncn+에/jca
+
+들린다
+	들리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+일본어,
+	일본어/ncn+,/sp
+
+중국어,
+	중국어/ncn+,/sp
+
+영어,
+	영어/ncn+,/sp
+
+힌두어
+	힌두/ncn+이/jp+어/ecs
+
+등등등
+	등등/nbn+등/xsnx
+
+.
+	./sf
+
+
+계절과
+	계절/ncn+과/jcj
+
+유행에
+	유행/ncpa+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+끊임없이
+	끊임없이/mag
+
+변경되는
+	변경/ncpa+되/xsvn+는/etm
+
+가판대의
+	가판/ncpa+대/ncn+의/jcm
+
+제품들과
+	제품/ncn+들/ncn+과/jcj
+
+먹을거리들을
+	먹을거리들/ncn+을/jco
+
+기준으로,
+	기준/ncpa+으로/jca+,/sp
+
+그
+	그/mmd
+
+앞에
+	앞/ncn+에/jca
+
+모여
+	모이/pvg+어/ecx
+
+흥정하는
+	흥정/ncpa+하/xsva+는/etm
+
+사람들,
+	사람들/ncn+,/sp
+
+두리번
+	두리번/ncn
+
+거리는
+	것/nbn+이/jp+리/ef+는/etm
+
+외국인,
+	외국/ncn+이/jp+ㄴ/etm+,/sp
+
+왁자지껄
+	왁자지껄/mag
+
+즐기는
+	즐기/pvg+는/etm
+
+한국인,
+	한국인/ncn+,/sp
+
+길
+	길/paa+ㄹ/etm
+
+어귀에
+	어귀/ncn+에/jca
+
+자리
+	자리/ncn
+
+잡고
+	잡/pvg+고/ecc
+
+앉은
+	앉/pvg+은/etm
+
+사람들,
+	사람들/ncn+,/sp
+
+밀리오레
+	밀리오레/ncn
+
+앞
+	앞/ncn
+
+공연을
+	공연/ncps+을/jco
+
+관람하는
+	관람/ncpa+하/xsva+는/etm
+
+사람들까지
+	사람들/ncn+까지/jxc
+
+그야말로
+	그야말로/mag
+
+인산인해다
+	인산인해/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+낮
+	낮/ncn
+
+동안
+	동안/ncn
+
+넘칠
+	넘치/pvg+ㄹ/etm
+
+듯
+	듯/nbn
+
+줄
+	주/px+ㄹ/etm
+
+지은
+	지/px+ㄴ/etm
+
+사람
+	사람/ncn
+
+풍경
+	풍경/ncn
+
+속에서
+	속/ncn+에서/jca
+
+방향감각을
+	방향감각/ncn+을/jco
+
+상실하게
+	상실/ncpa+하/xsva+게/ecs
+
+되고,
+	되/pvg+고/ecc+,/sp
+
+밤
+	밤/ncn
+
+시간엔
+	시간/nbu+엔/jca
+
+화려한
+	화/ncn+이/jp+리/ep+어/ecx+하/px+ㄴ/etm
+
+불빛에
+	불빛/ncn+에/jca
+
+시간개념을
+	시간개념/ncn+을/jco
+
+놓아버리게
+	놓/px+아/ecx+버리/px+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+익사이팅
+	익사이팅/ncn
+
+!
+	!/sf
+
+
+신나는
+	신나/pvg+는/etm
+
+명동은
+	명동/ncn+은/jxc
+
+70년대
+	70/nnc+년대/nbu
+
+서울의
+	서울/ncn+의/jcm
+
+문화
+	문화/ncn
+
+일번지였고,
+	일번지였고,/ncn
+
+지금까지
+	지금/ncn+까지/jxc
+
+국내외
+	국내외/ncn
+
+사람들을
+	사람들/ncn+을/jco
+
+불러
+	부르/pvg+어/ecx
+
+모으는
+	모으/pvg+는/etm
+
+쇼핑의
+	쇼핑/ncpa+의/jcm
+
+메카이다
+	메카/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+근래에
+	근래/ncn+에/jca
+
+이
+	이/mmd
+
+거리에도
+	거리/ncn+에/jca+도/jxc
+
+예술문화의
+	예술문화/ncn+의/jcm
+
+바람이
+	바람/ncn+이/jcc
+
+일어,
+	일/pvg+어/ecs+,/sp
+
+곳곳에서
+	곳곳/ncn+에서/jca
+
+캐리커쳐
+	캐리커쳐/ncn
+
+작가들과
+	작가/ncr+들/ncn+과/jcj
+
+생활예술품들을
+	생활/ncpa+예술품/ncn+들/ncn+을/jco
+
+어렵지
+	어렵/paa+지/ecx
+
+않게
+	않/px+게/ecs
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+계속
+	계속/mag
+
+변하며
+	변하/pvg+며/ecc
+
+늘
+	늘/mag
+
+새로운
+	새롭/paa+은/etm
+
+거리,
+	것/nbn+이/jp+리/ef+,/sp
+
+명동
+	명동/ncn
+
+특유의
+	특유/ncps+의/jcm
+
+그
+	그/mmd
+
+풍경
+	풍경/ncn
+
+속으로
+	속/ncn+으로/jca
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+보자
+	보/px+자/ecc
+
+.
+	./sf
+
+
+중구
+	중구/ncn
+
+명동2가
+	명동2가/ncn
+
+/
+	//sp
+
+지하철
+	지하철/ncn
+
+4호선
+	4/nnc+호/nbu+선/jxc
+
+명동역
+	명동역/ncn
+
+5~10번
+	5/nnc+~/sd+10/nnc+번/nbu
+
+출구역사를
+	출구/ncn+역사/ncn+를/jco
+
+품은
+	풀/pvg+ㅁ/etn+은/jxc
+
+현대판
+	현대판/ncn
+
+극장
+	극장/ncn
+
+예술
+	예술/ncn
+
+명동예술극장
+	명동예술극장/ncn
+
+
+해방
+	해방/ncpa
+
+이후
+	이후/ncn
+
+다양한
+	다양/ncn+한/ncn
+
+장르의
+	장르/ncn+의/jcm
+
+예술공연이
+	예술공연/ncn+이/jcc
+
+펼쳐지던
+	펼치/pvg+어/ecx+지/px+던/etm
+
+극장으로
+	극장/ncn+으로/jca
+
+1970년대
+	1970/nnc+년대/nbu
+
+중반까지
+	중반/ncn+까지/jxc
+
+운영되다가
+	운영/ncpa+되/xsvn+다가/ecs
+
+문을
+	문/ncn+을/jco
+
+닫았다
+	닫/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+34년이
+	34/nnc+년/nbu+이/jcc
+
+흐른
+	흐르/pvg+ㄴ/etm
+
+2009년에
+	2009/nnc+년/nbu+에/jca
+
+새로운
+	새롭/paa+은/etm
+
+모습을
+	모습/ncn+을/jco
+
+갖춘
+	갖추/pvg+ㄴ/etm
+
+연극전문극장으로
+	연극/ncn+전문/ncn+극장/ncn+으로/jca
+
+복원되었다
+	복원/ncpa+되/xsvn+었/ep+다/ef
+
+.
+	./sf
+
+
+건물
+	건물/ncn
+
+외관은
+	외관/ncn+은/jxc
+
+옛
+	옛/mma
+
+모습을
+	모습/ncn+을/jco
+
+유지하고
+	유지/ncn+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+지하
+	지하/ncn
+
+2층,
+	2/nnc+층/nbu+,/sp
+
+지상
+	지상/ncn
+
+5층
+	5/nnc+층/nbu
+
+규모의
+	규모/ncn+의/jcm
+
+건물
+	건물/ncn
+
+안에는
+	안/ncn+에/jca+는/jxc
+
+매표소와
+	매표소/ncn+와/jcj
+
+물품보관소를
+	물품/ncn+보관소/ncn+를/jco
+
+비롯한
+	비롯/ncpa+하/xsva+ㄴ/etm
+
+각종
+	각종/ncn
+
+편의시설과
+	편의시설/ncpa+과/jcj
+
+558석을
+	558/nnc+석/nbu+을/jco
+
+보유한
+	보유/ncpa+하/xsva+ㄴ/etm
+
+공연관이
+	공연/ncps+관/ncn+이/jcc
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+메인
+	메/ncn+이/jp+ㄴ/etm
+
+연극
+	연극/ncn
+
+공연과
+	공연/ncps+과/jct
+
+함께
+	함께/mag
+
+낭독회와
+	낭독/ncpa+회/ncn+와/jcj
+
+연극교실
+	연극/ncn+교/ncn+이/jp+시/ep+ㄹ/etm
+
+등이
+	등/nbu+이/jcc
+
+진행된다
+	진행/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+현재
+	현재/mag
+
+1층과
+	1/nnc+층/nbu+과/jcj
+
+2층
+	2/nnc+층/nbu
+
+복도에는
+	복도/ncn+에/jca+는/jxc
+
+지금까지의
+	지금까지/ncn+의/jcm
+
+연극공연
+	연극/ncn+공연/ncpa
+
+관련
+	관련/ncn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+전시가
+	전시/ncn+가/jcs
+
+펼쳐지고
+	펼치/pvg+어/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+중구
+	중구/ncn
+
+명동1가
+	명동1/ncn+가/jcs
+
+54
+	54/nnc
+
+/
+	//sp
+
+1644-2003
+	1644/nnc+-2003/nnc
+
+/
+	//sp
+
+www.
+	www/f+./sy
+
+mdtheater.
+	mdtheater/f+./sy
+
+or.
+	or/f+./sy
+
+kr
+	kr/f
+
+/
+	//sp
+
+http://blog.
+	http/f+:/sp+//sp+//sp+blog/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/mdtheater
+	com/f+//sp+mdtheater/f
+
+현재상영작
+	현재상영작/ncn
+
+그을린사랑
+	그을린사랑/ncn
+
+6.
+	6./nnc
+
+5~7.
+	5/nnc+~/sd+7./nnc
+
+1
+	1/nnc
+
+/
+	//sp
+
+평일
+	평/nbu+이/jp+ㄹ/etm
+
+19:30
+	19/nnc+:/sp+30/nnc
+
+주말,
+	주말/ncn+,/sp
+
+공휴일
+	공휴일/ncn
+
+15:00
+	15/nnc+:/sp+00/nnc
+
+월요일
+	월요일/ncn
+
+휴관
+	휴관/ncn
+
+/
+	//sp
+
+R석
+	R/f+석/ncn
+
+5만원
+	5/nnc+만/nnc+원/nbu
+
+S석
+	S/f+석/ncn
+
+3만5000원
+	3/nnc+만/nnc+5000/nnc+원/nbu
+
+A석
+	A/f+석/ncn
+
+2만원
+	2/nnc+만/nnc+원/nbu
+
+/
+	//sp
+
+175분
+	175/nnc+분/nbu
+
+상영
+	상영/ncpa
+
+15분
+	15/nnc+분/nbu
+
+인터미션
+	인터미션/ncn
+
+/
+	//sp
+
+15세
+	15/nnc+세/nnc
+
+이상
+	이상/ncn
+
+관람가그
+	관람가그/ncn
+
+곳에
+	곳/nbn+에/jca
+
+있는
+	있/px+는/etm
+
+것
+	것/nbn
+
+하나만으로도
+	하나/nnc+만/nnc+으로/jca+도/jxc
+
+명동성당
+	명동성당/ncn
+
+
+1898년에
+	1898/nnc+년/nbu+에/jca
+
+완공되고
+	완공/ncpa+되/xsvn+고/ecc
+
+1977년에
+	1977/nnc+년/nbu+에/jca
+
+사적
+	사적/ncn
+
+제258호로
+	제258호/ncn+로/jca
+
+지정된
+	지정/ncpa+되/xsvn+ㄴ/etm
+
+명동성당은
+	명동성당/ncn+은/jxc
+
+우리나라
+	우리나라/ncn
+
+최초의
+	최초/ncn+의/jcm
+
+고딕양식
+	고딕양식/ncn
+
+건축물로
+	건축물/ncn+로/jca
+
+알려져
+	알리/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+웅장함은
+	웅장/ncn+함/ncn+은/jxc
+
+바라만
+	바라/pvg+아/ecx+말/px+ㄴ/etm
+
+보고
+	보/px+고/ecc
+
+있어도
+	있/px+어도/ecs
+
+그대로
+	그대로/mag
+
+느낄
+	느끼/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+건물
+	건물/ncn
+
+꼭대기의
+	꼭대기/ncn+의/jcm
+
+종탑은
+	종탑/ncn+은/jxc
+
+고딕
+	고딕/ncn
+
+스타일의
+	스타일/ncn+의/jcm
+
+상징이라고
+	상징/ncpa+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+내부의
+	내부/ncn+의/jcm
+
+모습
+	모습/ncn
+
+역시
+	역시/mag
+
+놓칠
+	놓치/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+예의를
+	예의/ncn+를/jco
+
+갖추고
+	갖추/pvg+고/ecc
+
+조용하고
+	조용/ncn+하고/jct
+
+경건하게
+	경건/ncps+하/xsms+게/ecs
+
+내부모습을
+	내부/ncn+모습/ncn+을/jco
+
+살펴보면
+	살피/pvg+어/ecx+보/px+면/ecs
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+유리창을
+	유리/ncn+창/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+햇살은
+	햇살/ncn+은/jxc
+
+왠지
+	왠지/mag
+
+더
+	더/mag
+
+따뜻하게
+	따뜻/ncps+하/xsms+게/ecs
+
+반짝거린다
+	반짝거리/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+성당
+	성당/ncn
+
+건물
+	건물/ncn
+
+앞
+	앞/ncn
+
+주차
+	주차/ncn
+
+광장은
+	광장/ncn+은/jxc
+
+성당을
+	성당/ncn+을/jco
+
+배경으로
+	배경/ncn+으로/jca
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+촬영하기에
+	촬영/ncpa+하/xsva+기/etn+에/jca
+
+적합하다
+	적합/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+은은한
+	은은/ncps+하/xsms+ㄴ/etm
+
+조명이
+	조/nnc+명/nbu+이/jcc
+
+불을
+	불/ncn+을/jco
+
+밝히는
+	밝히/pvg+는/etm
+
+밤의
+	밤/ncn+의/jcm
+
+모습도
+	모습/ncn+도/jxc
+
+아름답다
+	아름답/paa+다/ef
+
+.
+	./sf
+
+
+명동거리의
+	명동거리/ncn+의/jcm
+
+복잡함이
+	복잡/ncn+함/ncn+이/jcc
+
+다소
+	다소/mag
+
+힘에
+	힘/ncn+에/jca
+
+부칠
+	부치/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+잠시나마
+	잠시/mag+나마/jxc
+
+한가로운
+	한가/ncps+로운/ncn
+
+여유를
+	여유/ncn+를/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+열린
+	열리/pvg+ㄴ/etm
+
+공간이다
+	공간/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+중구
+	중구/ncn
+
+명동2가
+	명동2/ncn+가/jcs
+
+1
+	1/nnc
+
+/
+	//sp
+
+02)774-1784
+	02/nnc+)/sr+774/nnc+-1784/nnc
+
+/
+	//sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+mdsd.
+	mdsd/f+./sy
+
+or.
+	or/f+./sy
+
+kr
+	kr/f
+
+소극장
+	소극장/ncn
+
+since
+	since/f
+
+1975
+	1975/nnc
+
+삼일로
+	삼/nnc+일/nbu+로/jca
+
+창고극장
+	창고/ncn+극장/ncn
+
+
+명동성당
+	명동성당/ncn
+
+뒷편
+	뒷편/ncn
+
+삼일로에
+	삼일로/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+오래된
+	오래/paa+어/ecx+되/px+ㄴ/etm
+
+극장이다
+	극장/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+낮은
+	낮/ncn+은/jxc
+
+오르막길
+	오르막길/ncn
+
+옆
+	옆/ncn
+
+좁은
+	좁/paa+은/etm
+
+골목으로
+	골목/ncn+으로/jca
+
+들어가면
+	들/pvg+어/ecx+가/px+면/ecs
+
+극장
+	극장/ncn
+
+입구가
+	입구/ncn+가/jcs
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+외관이
+	외관/ncn+이/jcc
+
+이름
+	이름/ncn
+
+그대로
+	그대로/mag
+
+작은
+	작/paa+은/etm
+
+창고같다
+	창고/ncn+같/xsmn+다/ef
+
+.
+	./sf
+
+
+흥행에
+	흥행/ncpa+에/jca
+
+구애받지
+	구애/ncpa+받/xsva+지/ecx
+
+않고
+	않/px+고/ecc
+
+작품성과
+	작품/ncn+성/ncn+과/jcj
+
+예술성으로
+	예술성/ncn+으로/jca
+
+승부하는
+	승부/ncpa+하/xsva+는/etm
+
+명품
+	명품/ncn
+
+연극이
+	연극/ncn+이/jcc
+
+역사
+	역사/ncn
+
+속에서
+	속/ncn+에서/jca
+
+수없이
+	수없이/mag
+
+펼쳐졌다
+	펼치/pvg+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+외부
+	외부/ncn
+
+벽면과
+	벽면/ncn+과/jcj
+
+내부
+	내부/ncn
+
+시설은
+	시설/ncpa+은/jxc
+
+시대에
+	시대/ncn+에/jca
+
+맞춰
+	맞추/pvg+어/ecx
+
+조금씩
+	조금씩/ncn
+
+변했지만
+	변하/pvg+었/ep+지만/ecs
+
+그
+	그/mmd
+
+본래의
+	본래/ncn+의/jcm
+
+지향점은
+	지향점/ncn+은/jxc
+
+그대로이다
+	그/npp+대로/jca+이/jp+다/ef
+
+.
+	./sf
+
+
+공연이
+	공연/ncps+이/jcc
+
+있을
+	있/px+을/etm
+
+경우에만
+	경우/ncn+에/jca+만/jxc
+
+문이
+	문/ncn+이/jcc
+
+열리니
+	열/nnc+리/nbu+이/jp+니/ecs
+
+전화로
+	전화/ncpa+로/jca
+
+확인
+	확인/ncpa
+
+후
+	후/ncn
+
+방문하는
+	방문/ncpa+하/xsva+는/etm
+
+것이
+	것/nbn+이/jcc
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+물론
+	물론/mag
+
+지나는
+	지나/pvg+는/etm
+
+길에
+	길/ncn+에/jca
+
+잠시
+	잠시/mag
+
+들러
+	들르/pvg+어/ecx
+
+옛
+	옛/mma
+
+풍경의
+	풍경/ncn+의/jcm
+
+향수에
+	향수/ncn+에/jca
+
+젖어봐도
+	젖/pvg+어/ecx+보/px+아/ecs
+
+좋을
+	좋/paa+을/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+간판과
+	간판/ncn+과/jcj
+
+건물
+	건물/ncn
+
+자체
+	자체/ncn
+
+만으로
+	만/nnc+으로/jca
+
+아련한
+	아련/ncps+하/xsms+ㄴ/etm
+
+옛
+	옛/mma
+
+생각이
+	생각/ncpa+이/jcc
+
+떠오르는
+	떠오르/pvg+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+중구
+	중구/ncn
+
+저동1가
+	저동1/ncn+가/jcs
+
+1-20
+	1/nnc+-20/nnc
+
+/
+	//sp
+
+02)319-8020
+	02/nnc+)/sr+319/nnc+-8020/nnc
+
+/
+	//sp
+
+http://cafe.
+	http/f+:/sp+//sp+//sp+cafe/f+./sy
+
+naver.
+	naver/f+./sy
+
+com/samilro
+	com/f+//sp+samilro/f
+
+종교예술
+	종교/ncn+예술/ncn
+
+그
+	그/mmd
+
+이상
+	이상/ncn
+
+평화화랑
+	평화/ncn+화랑/ncn
+
+
+2001년부터
+	2001/nnc+년/nbu+부터/jxc
+
+가톨릭
+	가톨릭/ncn
+
+서울대교구
+	서울대교구/ncn
+
+부설기관으로
+	부설기관/ncn+으로/jca
+
+운영되고
+	운영/ncpa+되/xsvn+고/ecc
+
+있는
+	있/px+는/etm
+
+갤러리이다
+	갤러리/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+총
+	총/mma
+
+2개관으로
+	2개관/ncn+으로/jca
+
+다양한
+	다양/ncps+하/xsms+ㄴ/etm
+
+분야의
+	분야/ncn+의/jcm
+
+가톨릭
+	가톨릭/ncn
+
+관련
+	관련/ncn
+
+예술작품들을
+	예술작품/ncn+들/ncn+을/jco
+
+만나볼
+	만나/pvg+아/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+전시관
+	전시관/ncn
+
+옆에
+	옆/ncn+에/jca
+
+마련된
+	마련/ncpa+되/xsvn+ㄴ/etm
+
+아트숍에서는
+	아트/ncn+숍/ncn+에서/jca+는/jxc
+
+화랑의
+	화/ncn+랑/jca+의/jcm
+
+소장품을
+	소장품/ncn+을/jco
+
+상설
+	상설/ncpa
+
+전시하며
+	전/xp+시하/ncn+이/jp+며/ecc
+
+전시작가들의
+	전시/ncpa+작가/ncr+들/ncn+의/jcm
+
+작품
+	작품/ncn
+
+및
+	및/maj
+
+서적을
+	서적/ncn+을/jco
+
+판매하고
+	판매/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+누구나
+	누구/npp+나/jcj
+
+무료로
+	무료/ncn+로/jca
+
+관람이
+	관람/ncpa+이/jcc
+
+가능하다
+	가능/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+가톨릭의
+	가톨릭/ncn+의/jcm
+
+역사와
+	역사/ncn+와/jcj
+
+현대를
+	현대/ncn+를/jco
+
+예술작품을
+	예술작품/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+두루
+	두루/mag
+
+살펴보기에
+	살피/pvg+어/ecx+보/px+기/etn+에/jca
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+중구
+	중구/ncn
+
+명동2가
+	명동2/ncn+가/jcs
+
+1
+	1/nnc
+
+가톨릭회관1층
+	가톨릭회관1층/ncn
+
+/
+	//sp
+
+02)727-2336~7
+	02/nnc+)/sr+727/nnc+-2336/nnc+~/sd+7/nnc
+
+/
+	//sp
+
+http://gallery.
+	http/f+:/sp+//sp+//sp+gallery/f+./sy
+
+catholic.
+	catholic/f+./sy
+
+or.
+	or/f+./sy
+
+kr
+	kr/f
+
+호텔
+	호텔/ncn
+
+안
+	안/mag
+
+열린
+	열리/pvg+ㄴ/etm
+
+예술공간
+	예술공간/ncn
+
+세종갤러리
+	세종갤러/ncn+이/jp+리/ef
+
+
+1961년부터
+	1961/nnc+년/nbu+부터/jxc
+
+운영을
+	운영/ncpa+을/jco
+
+시작한
+	시작/ncpa+하/xsva+ㄴ/etm
+
+갤러리로
+	갤러리/ncn+로/jca
+
+1995년에
+	1995/nnc+년/nbu+에/jca
+
+지금의
+	지금/ncn+의/jcm
+
+세종호텔
+	세종호텔/ncn
+
+1층
+	1/nnc+층/nbu
+
+로비에
+	로비/ncn+에/jca
+
+자리하기
+	자리/ncn+하기/ncn
+
+시작했다
+	시작/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+기획
+	기획/ncpa
+
+및
+	및/maj
+
+대관을
+	대관/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+장르불문
+	장르/ncn+불문/ncn
+
+미술작품을
+	미술작품/ncn+을/jco
+
+전시하고
+	전시/ncn+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+호텔
+	호텔/ncn
+
+방문객을
+	방문객/ncn+을/jco
+
+포함한
+	포함/ncpa+하/xsva+ㄴ/etm
+
+모두에게
+	모두/ncn+에게/jca
+
+무료로
+	무료/ncn+로/jca
+
+오픈하고
+	오픈/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+입구부터
+	입구/ncn+부터/jxc
+
+시작되는
+	시작/ncpa+되/xsvn+는/etm
+
+1관과
+	1/nnc+관/nbu+과/jct
+
+안
+	알/pvg+ㄴ/etm
+
+쪽으로
+	쪽/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+2관으로
+	2/nnc+관/nbu+으로/jca
+
+구성되어
+	구성/ncn+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+갤러리를
+	갤러리/ncn+를/jco
+
+통하면
+	통하/pvg+면/ecs
+
+세종호텔에서
+	세종호텔/ncn+에서/jca
+
+소장하고
+	소장/ncpa+하고/jct
+
+있는
+	있/px+는/etm
+
+미술품을
+	미술품/ncn+을/jco
+
+대여할
+	대/nbu+이/jp+어/ecx+하/px+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+중구
+	중구/ncn
+
+충무로2가
+	충무로2/ncn+가/jcs
+
+61-3
+	61/nnc+-3/nnc
+
+세종호텔
+	세종호텔/ncn
+
+1층
+	1/nnc+층/nbu
+
+/
+	//sp
+
+02)3705-9021
+	02/nnc+)/sr+3705/nnc+-9021/nnc
+
+/
+	//sp
+
+09:00~18:00
+	09/nnc+:/sp+00/nnc+~/sd+18/nnc+:/sp+00/nnc
+
+/
+	//sp
+
+www.
+	www/f+./sy
+
+sejonggallery.
+	sejonggallery/f+./sy
+
+co.
+	co/f+./sy
+
+kr
+	kr/f
+
+낮의
+	낮/ncn+의/jcm
+
+푸르름,
+	푸르름,/ncn
+
+밤의
+	밤/ncn+의/jcm
+
+반짝임
+	반짝이/pvg+ㅁ/etn
+
+남산공원
+	남산공원/ncn
+
+회현지구
+	회현지구/ncn
+
+
+지하철
+	지하철/ncn
+
+4호선
+	4/nnc+호/nbu+선/jxc
+
+명동역
+	명동역/ncn
+
+3번출구로
+	3번출구/ncn+로/jca
+
+나와
+	나/npp+와/jct
+
+숭의여자대학교
+	숭의여자대학교/ncn
+
+방면으로
+	방면/ncn+으로/jca
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+남산의
+	남산/ncn+의/jcm
+
+유명한
+	유명/ncn+한/ncn
+
+왕돈까스
+	왕돈까스/ncn
+
+거리와
+	거리/ncn+와/jcj
+
+케이블카
+	케이블카/ncn
+
+탑승지가
+	탑승/ncpa+지가/ncn
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+위로
+	위/ncn+로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+산책로를
+	산책로/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+걸으면
+	걸/pvg+면/ecs
+
+남산공원의
+	남산공원/ncn+의/jcm
+
+회현지구를
+	회현지구/ncn+를/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+케이블카를
+	케이블카/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+서울
+	서울/ncn
+
+어느
+	어느/mmd
+
+곳에서나
+	곳/ncn+에서/jca+나/jxc
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+남산
+	남산/ncn
+
+N타워로
+	N/f+타워/ncn+로/jca
+
+올라갔다가,
+	오르/pvg+아/ecx+가/px+아/ep+다가/ecs+,/sp
+
+잘
+	잘/mag
+
+조성된
+	조성/ncpa+되/xsvn+ㄴ/etm
+
+숲
+	숲/ncn
+
+속
+	속/ncn
+
+계단을
+	계단/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+내려와
+	내리/pvg+어/ecx+오/px+아/ecx
+
+공원에
+	공원/ncn+에/jca
+
+들르는
+	들르/pvg+는/etm
+
+것도
+	것/nbn+도/jxc
+
+나쁘지
+	나쁘/paa+지/ecx
+
+않은
+	않/px+은/etm
+
+방법이다
+	방법/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+중앙
+	중앙/ncn
+
+화단
+	화단/ncn
+
+끝부근에
+	끝부근/ncn+에/jca
+
+마련된
+	마련/ncpa+되/xsvn+ㄴ/etm
+
+분수는
+	불/pvg+ㄴ/etm+수/nbn+는/jxc
+
+겨울을
+	겨울/ncn+을/jco
+
+제외한
+	제외/ncpa+하/xsva+ㄴ/etm
+
+기간
+	기간/ncn
+
+동안
+	동안/ncn
+
+정해진
+	정하/pvg+어/ecx+지/px+ㄴ/etm
+
+시간에
+	시간/nbu+에/jca
+
+맞춰
+	맞추/pvg+어/ecx
+
+운영된다
+	운영/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+회현지구는
+	회현지구/ncn+는/jxc
+
+남산의
+	남산/ncn+의/jcm
+
+여러
+	여러/mma
+
+구역
+	구역/ncn
+
+중
+	중/nbn
+
+가장
+	가장/mag
+
+넓은
+	넓/paa+은/etm
+
+공간으로
+	공간/ncn+으로/jca
+
+걷기,
+	걷/pvg+기/etn+,/sp
+
+달리기,
+	달리/pvg+기/etn+,/sp
+
+마라톤
+	마라톤/ncn
+
+등
+	등/nbu
+
+시민
+	시민/ncn
+
+체육
+	체육/ncn
+
+행사가
+	행사/ncpa+가/jcc
+
+진행되기도
+	진행/ncpa+되/xsvn+기/etn+도/jxc
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+밤이
+	밤/ncn+이/jcc
+
+되면
+	되/pvg+면/ecs
+
+환한
+	환/ncps+하/xsms+ㄴ/etm
+
+불빛이
+	불빛/ncn+이/jcc
+
+비춰주니
+	비추/pvg+어/ecx+주/px+니/ecs
+
+또
+	또/maj
+
+다른
+	다르/paa+ㄴ/etm
+
+낭만을
+	낭만/ncn+을/jco
+
+즐기기에
+	즐기/pvg+기/etn+에/jca
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+선선한
+	선선/ncps+하/xsms+ㄴ/etm
+
+바람도
+	바라/pvg+ㅁ/etn+도/jxc
+
+불고,
+	불/pvg+고/ecc+,/sp
+
+해도
+	하/pvg+어도/ecs
+
+길어진
+	길/paa+어/ecx+지/px+ㄴ/etm
+
+요즘은
+	요즘/ncn+은/jxc
+
+해질
+	하/pvg+어/ecx+지/px+ㄹ/etm
+
+무렵
+	무렵/nbn
+
+방문하는
+	방문/ncpa+하/xsva+는/etm
+
+것이
+	것/nbn+이/jcc
+
+여러모로
+	여러모로/mag
+
+진리일
+	지/px+ㄴ/etm+리/nbn+이/jp+ㄹ/etm
+
+듯
+	듯/nbn
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+낮과
+	낮/ncn+과/jcj
+
+밤을
+	밤/ncn+을/jco
+
+모두
+	모두/mag
+
+확인할
+	확인/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있기
+	있/px+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+남산공원
+	남산공원/ncn
+
+-
+	-/sd
+
+중구
+	중구/ncn
+
+회현동
+	회현동/ncn
+
+1가
+	1/nnc+가/jcs
+
+100-177
+	100/nnc+-177/nnc
+
+/
+	//sp
+
+02)3783-5900
+	02/nnc+)/sr+3783/nnc+-5900/nnc
+
+/
+	//sp
+
+http://parks.
+	http/f+:/sp+//sp+//sp+parks/f+./sy
+
+seoul.
+	seoul/f+./sy
+
+go.
+	go/f+./sy
+
+kr/namsan
+	kr/f+//sp+namsan/f
+
+케이블카
+	케이블카/ncn
+
+-
+	-/sd
+
+중구
+	중구/ncn
+
+회현동
+	회현동/ncn
+
+1가
+	1/nnc+가/jcs
+
+산1-19
+	산1-19/ncn
+
+/
+	//sp
+
+주간
+	주간/nbu
+
+02)753-2403
+	02/nnc+)/sr+753/nnc+-2403/nnc
+
+야간
+	야간/ncn
+
+02)757-308
+	02/nnc+)/sr+757/nnc+-308/nnc
+
+/
+	//sp
+
+www.
+	www/f+./sy
+
+cablecar.
+	cablecar/f+./sy
+
+co.
+	co/f+./sy
+
+kr
+	kr/f
+
+/
+	//sp
+
+운영시간
+	운영/ncpa+시간/ncn
+
+10:00~23:00
+	10/nnc+:/sp+00/nnc+~/sd+23/nnc+:/sp+00/nnc
+
+(금,토요일,
+	(/sl+금/ncn+,/sp+토요일/ncn+,/sp
+
+휴일
+	휴일/ncn
+
+전날은
+	전날/ncn+은/jxc
+
+상황에
+	상황/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+1시간
+	1/nnc+시간/nbu
+
+연장운행)
+	연장/ncpa+운행/ncpa+)/sr
+
+/
+	//sp
+
+대인왕복
+	대인/ncn+왕복/ncpa
+
+8000원
+	8000/nnc+원/nbu
+
+편도6000원
+	편도6000원/ncn
+
+소인왕복
+	소인/ncn+왕복/ncpa
+
+5000원
+	5000/nnc+원/nbu
+
+편도3500원분수
+	편도3500원분수/ncn
+
+가동
+	가동/ncpa
+
+기간
+	기간/ncn
+
+5.1~9
+	5.1/nnc+~/sd+9/nnc
+
+.
+	./sf
+
+
+30
+	30/nnc
+
+시간
+	시간/nbu
+
+12:30~17:30
+	12/nnc+:/sp+30/nnc+~/sd+17/nnc+:/sp+30/nnc
+
+매
+	매/pvg+어/ecx
+
+시간
+	시간/nbu
+
+30분씩
+	30/nnc+분/nbu+씩/xsnu
+
+6회이제,
+	6회이제,/ncn
+
+이곳에서
+	이곳/npd+에서/jca
+
+프러포즈~
+	프러포즈~/ncn
+
+!
+	!/sf
+
+
+남산성곽
+	남산성곽/ncn
+
+회현자락
+	회현자락/ncn
+
+
+조선시대와
+	조선시대/ncn+와/jcj
+
+일제
+	일제/ncn
+
+강점기를
+	강점기/ncn+를/jco
+
+지나면서
+	지나/pvg+면서/ecc
+
+소실되었던
+	소실/ncpa+되/xsvn+었/ep+던/etm
+
+남산성곽
+	남산성곽/ncn
+
+회현자락이
+	회현자락/ncn+이/jcc
+
+새로운
+	새롭/paa+은/etm
+
+모습으로
+	모습/ncn+으로/jca
+
+단장했다
+	단장/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+6월
+	6/nnc+월/nbu
+
+9일부터
+	9/nnc+일/nbu+부터/jxc
+
+일반인에게
+	일반인/ncn+에게/jca
+
+공개된
+	공개/ncpa+되/xsvn+ㄴ/etm
+
+이
+	이/mmd
+
+곳은
+	곳/ncn+은/jxc
+
+남대문
+	남대/ncn+문/ncn
+
+힐튼호텔
+	힐튼호텔/ncn
+
+앞부터
+	앞/ncn+부터/jxc
+
+남산분수대
+	남산분수대/ncn
+
+앞
+	앞/ncn
+
+잔디광장까지
+	잔디광장/ncn+까지/jxc
+
+연결되어
+	연결/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+잔디광장에는
+	잔디광장/ncn+에/jca+는/jxc
+
+성곽
+	성곽/ncn
+
+추정선에
+	추정/ncpa+선/ncn+에/jca
+
+위치하던
+	위치/ncpa+하/xsva+던/etm
+
+성재
+	성재/ncn
+
+이시영선생과
+	이시영선생/ncn+과/jcj
+
+백범
+	백/nnc+범/nbu
+
+김구선생의
+	김구선생/ncn+의/jcm
+
+동상이
+	동상/ncn+이/jcc
+
+세워져
+	세우/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+성곽
+	성곽/ncn
+
+끝자락에서
+	끝자락/ncn+에서/jca
+
+맞이하는
+	맞이/ncpa+하/xsva+는/etm
+
+서울
+	서울/ncn
+
+풍경이
+	풍경/ncn+이/jcc
+
+새롭다
+	새롭/paa+다/ef
+
+.
+	./sf
+
+
+아직
+	아직/mag
+
+손때
+	손때/ncn
+
+묻지
+	묻/pvg+지/ecx
+
+않은
+	않/px+은/etm
+
+뽀얀
+	뽀얗/paa+은/etm
+
+성곽과
+	성곽/ncn+과/jcj
+
+그
+	그/mmd
+
+아래로
+	아래/ncn+로/jca
+
+펼쳐진
+	펼치/pvg+어/ecx+지/px+ㄴ/etm
+
+너른
+	너르/paa+ㄴ/etm
+
+잔디,
+	잔디/ncn+,/sp
+
+그리고
+	그리고/maj
+
+숲과
+	숲/ncn+과/jcj
+
+공원까지
+	공원/ncn+까지/jxc
+
+시민들의
+	시민/ncn+들/ncn+의/jcm
+
+새로운
+	새롭/paa+은/etm
+
+도심
+	도/ncn+이/jp+시/ep+ㅁ/etn
+
+속
+	속/ncn
+
+휴식공간으로
+	휴식공간/ncn+으로/jca
+
+손색이
+	손색/ncn+이/jcc
+
+없다
+	없/paa+다/ef
+
+.
+	./sf
+
+
+일몰
+	일/nnc+몰/nbu
+
+전후
+	전후/ncpa
+
+15분
+	15/nnc+분/nbu
+
+경에
+	경/ncn+에/jca
+
+성곽길을
+	성곽/ncn+길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+세워진
+	세우/pvg+어/ecx+지/px+ㄴ/etm
+
+가로등에
+	가로등/ncn+에/jca
+
+불이
+	불/ncn+이/jcc
+
+켜진다
+	크/paa+어/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+그때가
+	그때/ncn+가/jcs
+
+서울의
+	서울/ncn+의/jcm
+
+또
+	또/maj
+
+다른
+	다른/mma
+
+하나의
+	하나/nnc+의/jcm
+
+야경을
+	야경/ncn+을/jco
+
+감상하기에
+	감상/ncn+하기/ncn+에/jca
+
+좋은
+	좋/paa+은/etm
+
+시간이다
+	시간/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+남산N타워를
+	남산N타워/ncn+를/jco
+
+등지고
+	등지/nbn+이/jp+고/ecc
+
+하늘을
+	하늘/ncn+을/jco
+
+바라보면
+	바라/pvg+아/ecx+보/px+면/ecs
+
+일몰도
+	일/nnc+몰/nbu+도/jxc
+
+감상할
+	감상/ncpa+하/xsva+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+연인에게
+	연인/ncn+에게/jca
+
+사랑
+	사랑/ncn
+
+고백하기에
+	고백/ncpa+하/xsva+기/etn+에/jca
+
+더없이
+	더없이/mag
+
+좋은
+	좋/paa+은/etm
+
+공간과
+	공간/ncn+과/jcj
+
+시간이
+	시간/ncn+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+중구
+	중구/ncn
+
+회현동
+	회현동/ncn
+
+1가
+	1/nnc+가/jcs
+
+/
+	//sp
+
+공원조성과02)2115-7461~2과학부터
+	공원조성과02)2115-7461~2과학부터/ncn
+
+예술까지
+	예술/ncn+까지/jxc
+
+서울특별시
+	서울특별시/ncn
+
+과학전시관
+	과학/ncn+전시관/ncn
+
+남산분관서울시에서
+	남산분관서울시/ncn+에서/jca
+
+운영하는
+	운영/ncpa+하/xsva+는/etm
+
+과학전시관으로
+	과학/ncn+전시관/ncn+으로/jca
+
+서울대
+	서울대/ncn
+
+부근
+	부근/ncn
+
+본관을
+	본관/ncn+을/jco
+
+두고
+	두/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+남산공원
+	남산공원/ncn
+
+회현지구에
+	회현지구/ncn+에/jca
+
+위치하고
+	위치/ncn+하고/jct
+
+있으며
+	있/px+으며/ecc
+
+수학체험관과
+	수학/ncn+체험/ncpa+관/ncn+과/jcj
+
+탐구학습관,
+	탐구학습/ncn+관/ncn+,/sp
+
+지구촌민속교육박물관을
+	지구촌/ncn+민속/ncn+교육/ncpa+박물관/ncn+을/jco
+
+운영하고
+	운영/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+수학체험관에서는
+	수학/ncn+체험/ncpa+관/ncn+에서/jca+는/jxc
+
+수와
+	수/nbn+와/jcj
+
+퍼즐,
+	퍼즐/ncn+,/sp
+
+입체의
+	입체/ncn+의/jcm
+
+세계로
+	세계/ncn+로/jca
+
+구분되는
+	구분/ncpa+되/xsvn+는/etm
+
+체험장을
+	체험/ncpa+장/ncn+을/jco
+
+만날
+	만나/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+탐구학습관에는
+	탐구학습/ncn+관/ncn+에/jca+는/jxc
+
+무한히
+	무한히/mag
+
+반사되는
+	반사/ncpa+되/xsvn+는/etm
+
+빛의
+	빛/ncn+의/jcm
+
+원리와
+	원리/ncn+와/jcj
+
+가속도,
+	가속도/ncn+,/sp
+
+운동법칙,
+	운동법칙/ncn+,/sp
+
+관성
+	관성/ncn
+
+등을
+	등/nbu+을/jco
+
+배워볼
+	배우/pvg+어/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+다양한
+	다양/ncn+한/ncn
+
+장치가
+	장치/ncpa+가/jcc
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+서울특별시교육연구정보원이
+	서울특별시교육연구정보원/ncn+이/jcc
+
+관리하는
+	관리/ncpa+하/xsva+는/etm
+
+지구촌민속교육박물관에는
+	지구촌/ncn+민속/ncn+교육/ncpa+박물관/ncn+에/jca+는/jxc
+
+종교,
+	종교/ncn+,/sp
+
+문화,
+	문화/ncn+,/sp
+
+의식주를
+	의식주/ncn+를/jco
+
+살펴볼
+	살피/pvg+어/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+각종
+	각종/ncn
+
+유물이
+	유물/ncn+이/jcc
+
+상설
+	상설/ncpa
+
+전시되고
+	전시/ncpa+되/xsvn+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+특별
+	특별/ncps
+
+기획전을
+	기획전/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+개인
+	개/nbu+이/jp+ㄴ/etm
+
+소장
+	소장/ncpa
+
+민속품과
+	민속/ncn+품/ncn+과/jcj
+
+역사
+	역사/ncn
+
+예술품도
+	예술품/ncn+도/jxc
+
+전시된다
+	전시/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+중구
+	중구/ncn
+
+소월길
+	소월길/ncn
+
+113
+	113/nnc
+
+(회현동1가
+	(회현동1/ncn+가/jcs
+
+100-177)
+	100/nnc+-177/nnc+)/sr
+
+/
+	//sp
+
+02)311-1276
+	02/nnc+)/sr+311/nnc+-1276/nnc
+
+/
+	//sp
+
+10:00~17:00
+	10/nnc+:/sp+00/nnc+~/sd+17/nnc+:/sp+00/nnc
+
+/
+	//sp
+
+월요일,
+	월요일/ncn+,/sp
+
+공휴일
+	공휴일/ncn
+
+휴무
+	휴무/ncpa
+
+/
+	//sp
+
+무료관람www.
+	무료관람www./ncn
+
+ssp.
+	ssp/f+./sy
+
+re.
+	re/f+./sy
+
+kr
+	kr/f
+
+멀리서도
+	멀/paa+ㄹ/etm+리/nbn+서/jca+도/jxc
+
+가까이서도
+	가까이/mag+서도/jxc
+
+반짝이는
+	반짝이/pvg+는/etm
+
+공간
+	공간/ncn
+
+남산N타워서울의
+	남산N타워서울/ncn+의/jcm
+
+대표
+	대표/ncpa
+
+랜드마크인
+	랜드마크/ncn+이/jp+ㄴ/etm
+
+남산N타워는
+	남산N타워/ncn+는/jxc
+
+1975년
+	1975/nnc+년/nbu
+
+3사의
+	3/nnc+사/nnc+의/jcm
+
+민영방송국이
+	민영방송/ncpa+국/ncn+이/jcc
+
+준공하고
+	준공/ncpa+하고/jct
+
+1981년에
+	1981/nnc+년/nbu+에/jca
+
+일반인에게
+	일반인/ncn+에게/jca
+
+공개되기
+	공개/ncpa+되/xsvn+기/etn
+
+시작하였다
+	시작/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+N타워라는
+	N/f+타워/ncn+라는/jcm
+
+이름을
+	이름/ncn+을/jco
+
+가지고
+	가/pvg+아/ecx+지/px+고/ecc
+
+2005년부터
+	2005/nnc+년/nbu+부터/jxc
+
+지금의
+	지금/ncn+의/jcm
+
+모습으로
+	모습/ncn+으로/jca
+
+운영되고
+	운영/ncpa+되/xsvn+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+타워
+	타워/ncn
+
+지하층에는
+	지하층/ncn+에/jca+는/jxc
+
+쇼핑공간과
+	쇼핑/ncpa+공간/ncn+과/jcj
+
+레스토랑,
+	레스토랑/ncn+,/sp
+
+테디베어뮤지엄
+	테디베어뮤지엄/ncn
+
+등이
+	등/nbu+이/jcc
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+1초에
+	1/nnc+초/nbu+에/jca
+
+40m로
+	40m/ncn+로/jca
+
+이동하는
+	이동/ncpa+하/xsva+는/etm
+
+초고속
+	초고속/ncn
+
+엘리베이터를
+	엘리베이터/ncn+를/jco
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+전망대에
+	전망대/ncn+에/jca
+
+오를
+	오르/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+동그란
+	동그랗/paa+은/etm
+
+구조의
+	구/nnc+조/nbu+의/jcm
+
+전망대에서
+	전망대/ncn+에서/jca
+
+동서남북으로
+	동서남북/ncn+으로/jca
+
+펼쳐진
+	펼치/pvg+어/ecx+지/px+ㄴ/etm
+
+전경을
+	전경/ncn+을/jco
+
+감상할
+	감상/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+전망대
+	전망대/ncn
+
+아래층에는
+	아래층/ncn+에/jca+는/jxc
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+전망
+	전망/ncn
+
+좋은
+	좋/paa+은/etm
+
+화장실은
+	화장실/ncn+은/jxc
+
+N타워에서
+	N/f+타워/ncn+에서/jca
+
+꼭
+	꼭/mag
+
+들려야
+	들리/pvg+어야/ecs
+
+하는
+	하/pvg+는/etm
+
+명소이다
+	명소/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+타워
+	타워/ncn
+
+부근에는
+	부근/ncn+에/jca+는/jxc
+
+대한민국의
+	대한/ncn+민국/ncn+의/jcm
+
+모든
+	모든/mma
+
+연인들의
+	연인/ncn+들/ncn+의/jcm
+
+애정전선
+	애정/ncn+전선/ncn
+
+이상무
+	이상/ncn+무/ncn
+
+열쇠가
+	열쇠/ncn+가/jcs
+
+걸려진
+	걸리/pvg+어/ecx+지/px+ㄴ/etm
+
+관망대와
+	관망/ncpa+대/ncn+와/jcj
+
+타워만큼
+	타워/ncn+만큼/jxc
+
+야간
+	야간/ncn
+
+조명이
+	조/nnc+명/nbu+이/jcc
+
+멋진
+	멋지/paa+ㄴ/etm
+
+팔각정,
+	팔각/ncn+정/ncn+,/sp
+
+조선시대
+	조선시대/ncn
+
+흔적이
+	흔적/ncn+이/jcc
+
+고스란히
+	고스란히/mag
+
+남은
+	나/pvg+ㅁ/etn+은/jxc
+
+성곽이
+	성곽/ncn+이/jcc
+
+자리한다
+	자리한다/ncn
+
+.
+	./sf
+
+
+중구와
+	중구/ncn+와/jcj
+
+용산구
+	용산구/ncn
+
+곳곳으로
+	곳곳/ncn+으로/jca
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+산책로가
+	산책로/ncn+가/jcs
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+일반차량은
+	일반차량/ncn+은/jxc
+
+진입이
+	진입/ncpa+이/jcc
+
+금지되어
+	금지/ncpa+되/xsvn+어/ecx
+
+있으니,
+	있/px+으니/ecs+,/sp
+
+남산순환버스를
+	남산순환버스/ncn+를/jco
+
+이용하는
+	이용/ncpa+하/xsva+는/etm
+
+것이
+	것/nbn+이/jcc
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+용산구
+	용산구/ncn
+
+용산동2가
+	용산동2/ncn+가/jcs
+
+1-3
+	1/nnc+-3/nnc
+
+/
+	//sp
+
+02)3455-9277
+	02/nnc+)/sr+3455/nnc+-9277/nnc
+
+/
+	//sp
+
+www.
+	www/f+./sy
+
+nseoultower.
+	nseoultower/f+./sy
+
+co.
+	co/f+./sy
+
+kr
+	kr/f
+
+일~목요일
+	일/nnc+~/sd+목요일/ncn
+
+10:00~23:00
+	10/nnc+:/sp+00/nnc+~/sd+23/nnc+:/sp+00/nnc
+
+금,
+	금/ncn+,/sp
+
+토요일
+	토요일/ncn
+
+10:00~24:00
+	10/nnc+:/sp+00/nnc+~/sd+24/nnc+:/sp+00/nnc
+
+/
+	//sp
+
+전망대
+	전망대/ncn
+
+성인9000원
+	성인9000원/ncn
+
+청소년7000원
+	청소년7000원/ncn
+
+어린이5000원남산
+	어린이5000원남산/ncn
+
+순환버스
+	순환/ncpa+버스/ncn
+
+02번
+	02/nnc+번/nbu
+
+08:00~24:00
+	08/nnc+:/sp+00/nnc+~/sd+24/nnc+:/sp+00/nnc
+
+5~8분
+	5/nnc+~/sd+8/nnc+분/nbu
+
+간격N서울타워-남산도서관-교육연구정보원-남산산책로입구B코스-서울애니메이션센터,숭의여대-퇴계로3가한옥마을-대한극장(충무로역2번출구)-퇴계로5가-동대입구역(6번출구)-국립극장-남산북측순환로입구-N서울타워03번
+	간격N서울타워-남산도서관-교육연구정보원-남산산책로입구B코스-서울애니메이션센터,숭의여대-퇴계로3가한옥마을-대한극장(충무로역2번출구)-퇴계로5가-동대입구역(6번출구)-국립극장-남산북측순환로입구-N서울타워03번/ncn
+
+08:00~23:30
+	08/nnc+:/sp+00/nnc+~/sd+23/nnc+:/sp+30/nnc
+
+8~10분
+	8/nnc+~/sd+10/nnc+분/nbu
+
+간격N서울타워-남산도서관-백범광장-남대문시장액세서리전문상가-남대문시장-남산3호터널-용산한신아파트-해방촌-이태원역(4번출구)-해밀턴호텔-이태원소방파출소-한남동주민센터-한강진역(2번출구)-버티고개-송도병원
+	간격N서울타워-남산도서관-백범광장-남대문시장액세서리전문상가-남대문시장-남산3호터널-용산한신아파트-해방촌-이태원역(4번출구)-해밀턴호텔-이태원소방파출소-한남동주민센터-한강진역(2번출구)-버티고개-송도병원/ncn
+
+앞-약수역(7번출구)-동대입구역(6번출구)-남산북측순환로입구-N서울타워05번
+	앞-약수역(7번출구)-동대입구역(6번출구)-남산북측순환로입구-N서울타워05번/ncn
+
+7:30~23:50
+	7/nnc+:/sp+30/nnc+~/sd+23/nnc+:/sp+50/nnc
+
+18분
+	18/nnc+분/nbu
+
+간격N서울타워-남산도서관-백범광장-남대문시장액세서리전문상가-남대문시장-명동입구-퇴계로3가한옥마을-대한극장(충무로역2번출구)-퇴계로5가-퇴계로6가-광희동사거리-충무아트홀,중부소방서-신당동떡볶이타운-신당동,청구역-약수역-동대입구역
+	간격N서울타워-남산도서관-백범광장-남대문시장액세서리전문상가-남대문시장-명동입구-퇴계로3가한옥마을-대한극장(충무로역2번출구)-퇴계로5가-퇴계로6가-광희동사거리-충무아트홀,중부소방서-신당동떡볶이타운-신당동,청구역-약수역-동대입구역/ncn
+
+(6번출구),장충동-국립극장-남산북측순환로입구-N서울타워[글
+	(6번출구),장충동-국립극장-남산북측순환로입구-N서울타워[글/ncn
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+김애진
+	김애진/ncn
+
+(사진가)]
+	(/sl+사진가/ncr+)/sr+]/sr
+
+
+출처:매일경제
+	출처/ncn+:/sp+매일/ncn+경제/ncn

@@ -1,0 +1,751 @@
+동서식품
+	동서/ncn+식품/ncn
+
+제공A씨는
+	제공A씨/ncn+는/jxc
+
+하루에
+	하루/ncn+에/jca
+
+아메리카노
+	아메리카노/ncn
+
+2잔은
+	2/nnc+잔/nbu+은/jxc
+
+필수로
+	피/pvg+ㄹ/etm+수/nbn+로/jca
+
+마시는
+	마시/pvg+는/etm
+
+커피마니아다
+	커피/ncn+마니/ncn+이/jp+아다/ecs
+
+.
+	./sf
+
+
+하루라도
+	하루/ncn+이/jp+라/ecs+도/jxc
+
+안마시면
+	안마/ncn+이/jp+시/ep+면/ecs
+
+안절부절
+	안절부절/mag
+
+못하는
+	못하/px+는/etm
+
+그녀를
+	그녀/npp+를/jco
+
+보고
+	보/px+고/ecc
+
+주위에서는
+	주위/ncn+에서/jca+는/jxc
+
+커피중독이
+	커피/ncn+중독/ncpa+이/jcc
+
+아닌지
+	아니/paa+ㄴ지/ecs
+
+걱정이
+	걱정/ncpa+이/jcc
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+커피는
+	커피/ncn+는/jxc
+
+적정량
+	적정량/ncn
+
+섭취하면
+	섭취/ncpa+하/xsva+면/ecs
+
+많은
+	많/paa+은/etm
+
+장점을
+	장점/ncn+을/jco
+
+갖고
+	갖/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+커피의
+	커피/ncn+의/jcm
+
+장점을
+	장점/ncn+을/jco
+
+소개한다
+	소개/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+지구력
+	지구력/ncn
+
+향상커피는
+	향상/ncpa+커피/ncn+는/jxc
+
+지구력을
+	지구력/ncn+을/jco
+
+향상시킨다
+	향상/ncpa+시키/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+보통
+	보통/mag
+
+운동할
+	운동/ncpa+하/xsva+ㄹ/etm
+
+때
+	때/ncn
+
+에너지는
+	에너지/ncn+는/jxc
+
+글리코겐으로
+	글리코겐/ncn+으로/jca
+
+보급되고
+	보급/ncpa+되/xsvn+고/ecc
+
+글리코겐이
+	글리코겐/ncn+이/jcc
+
+없어지면
+	없/paa+어/ecx+지/px+면/ecs
+
+지방이
+	지방/ncn+이/jcc
+
+에너지로
+	에너지/ncn+로/jca
+
+변한다
+	변하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+그런데
+	그런데/maj
+
+카페인은
+	카페인/ncn+은/jxc
+
+글리코겐보다
+	글리코겐/ncn+보다/jca
+
+먼저
+	먼저/mag
+
+피하
+	피하/pvg+어/ecx
+
+지방을
+	지방/ncn+을/jco
+
+에너지로
+	에너지/ncn+로/jca
+
+변환시키는
+	변환/ncpa+시키/xsva+는/etm
+
+작용이
+	작용/ncpa+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+마라톤
+	마라톤/ncn
+
+선수가
+	서/pvg+ㄴ/etm+수/nbn+가/jcc
+
+달리는
+	달리/pvg+는/etm
+
+도중
+	도중/ncn
+
+마시는
+	마시/pvg+는/etm
+
+음료에
+	음료/ncn+에/jca
+
+카페인
+	카페/ncn+이/jp+ㄴ/etm
+
+음료가
+	음료/ncn+가/jcs
+
+많은
+	많/paa+은/etm
+
+것인
+	것/nbn+이/jp+ㄴ/etm
+
+이
+	이/mmd
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+숙취방지숙취의
+	숙취/ncn+방지/ncpa+숙취/ncn+의/jcm
+
+원인은
+	원인/ncn+은/jxc
+
+알코올이
+	알코올/ncn+이/jcc
+
+체내에서
+	체내/ncn+에서/jca
+
+분해되어
+	분하/paa+어/ecx+되/px+어/ecx
+
+아세트알데히드라는
+	아세트알데히드라/ncn+는/jxc
+
+물질로
+	물질/ncn+로/jca
+
+변하기
+	변하/pvg+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+일어나는
+	일어나/pvg+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+카페인은
+	카페인/ncn+은/jxc
+
+간
+	가/px+ㄴ/etm
+
+기능을
+	기능/ncn+을/jco
+
+활발하게
+	활발/ncps+하/xsms+게/ecs
+
+하여
+	하/pvg+어/ecx
+
+아세트알데히드의
+	아세트알데히드/ncn+의/jcm
+
+분해를
+	분해/ncpa+를/jco
+
+촉진시키고
+	촉진/ncpa+시키/xsva+고/ecc
+
+신장의
+	신장/ncn+의/jcm
+
+작용을
+	작용/ncpa+을/jco
+
+활발하게
+	활발/ncps+하/xsms+게/ecs
+
+하여
+	하/pvg+어/ecx
+
+배설을
+	배설/ncpa+을/jco
+
+재촉한다
+	재촉/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+가능하면
+	가능/ncps+하/xsms+면/ecs
+
+술을
+	술/ncn+을/jco
+
+마신
+	마시/pvg+ㄴ/etm
+
+뒤에
+	뒤/ncn+에/jca
+
+한
+	하/pvg+ㄴ/etm
+
+잔의
+	잔/nbu+의/jcm
+
+물과
+	물/ncn+과/jcj
+
+커피를
+	커피/ncn+를/jco
+
+마셔
+	마시/pvg+어/ecx
+
+두는
+	두/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+다이어트
+	다이어트/ncpa
+
+효과카페인은
+	효과/ncn+카페인/ncn+은/jxc
+
+몸의
+	몸/ncn+의/jcm
+
+에너지
+	에너지/ncn
+
+소비량을
+	소비량/ncn+을/jco
+
+향상시킨다
+	향상/ncpa+시키/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+커피
+	커피/ncn
+
+한
+	하/pvg+ㄴ/etm
+
+잔은
+	잔/nbu+은/jxc
+
+지방을
+	지방/ncn+을/jco
+
+분해하고
+	분하/paa+어/ecx+하/px+고/ecc
+
+이뇨
+	이뇨/ncpa
+
+작용에
+	작용/ncpa+에/jca
+
+증가시켜,
+	증가/ncpa+시키/xsva+어/ecs+,/sp
+
+혈액
+	혈액/ncn
+
+순환을
+	순환/ncpa+을/jco
+
+원활하게
+	원활/ncps+하/xsms+게/ecs
+
+하고
+	하/pvg+고/ecc
+
+노폐물을
+	노폐물/ncn+을/jco
+
+몸
+	몰/pvg+ㅁ/etn
+
+밖으로
+	밖/ncn+으로/jca
+
+배출해
+	배출/ncpa+하/xsva+어/ecx
+
+주기도
+	주/px+기/etn+도/jxc
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+혈관을
+	혈관/ncn+을/jco
+
+수축시키는
+	수축시/ncn+키/ncn+는/jxc
+
+작용을
+	작용/ncpa+을/jco
+
+하기
+	하/pvg+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+신진대사를
+	신진대사/ncpa+를/jco
+
+증가시켜
+	증가/ncpa+시키/xsva+어/ecx
+
+다이어트
+	다이어트/ncpa
+
+효과가
+	효과/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+커피
+	커피/ncn
+
+칼로리는
+	칼로리/nbu+는/jxc
+
+얼마
+	얼마/ncn
+
+?
+	?/sf
+
+
+커피를
+	커피/ncn+를/jco
+
+블랙으로
+	블랙/ncn+으로/jca
+
+마실
+	마시/pvg+ㄹ/etm
+
+경우
+	경우/ncn
+
+355
+	355/nnc
+
+기준으로
+	기준/ncpa+으로/jca
+
+불과
+	불/ncn+과/jcj
+
+5
+	5/nnc
+
+밖에
+	밖/ncn+에/jca
+
+되지
+	되/pvg+지/ecx
+
+않는다
+	않/px+는다/ef
+
+.
+	./sf
+
+
+문제는
+	문제/ncn+는/jxc
+
+커피에
+	커피/ncn+에/jca
+
+우유에서
+	우유/ncn+에서/jca
+
+뽑아낸
+	뽑/pvg+어/ecx+내/px+ㄴ/etm
+
+휘핑
+	휘핑/ncn
+
+크림이나
+	크림/ncn+이나/jcj
+
+시럽,
+	시럽/ncn+,/sp
+
+카라멜,
+	카라멜,/ncn
+
+바닐라
+	바닐라/ncn
+
+등
+	등/nbu
+
+각종
+	각종/ncn
+
+당(
+	당(/ncn
+
+)성분을
+	)/sr+성분/ncn+을/jco
+
+넣어서
+	넣/pvg+어서/ecs
+
+먹을
+	먹/pvg+을/etm
+
+때다
+	때/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+각종
+	각종/ncn
+
+첨가물이
+	첨가물/ncn+이/jcc
+
+하나씩
+	하나씩/ncn
+
+더해질
+	더하/paa+어/ecx+지/px+ㄹ/etm
+
+때마다
+	때/ncn+마다/jxc
+
+커피의
+	커피/ncn+의/jcm
+
+열량은
+	열량/ncn+은/jxc
+
+기하급수적으로
+	기하급수/ncn+적/ncn+으로/jca
+
+높아진다
+	높/paa+아/ecx+지/px+ㄴ다/ef
+
+.
+	./sf
+
+
+블랙커피에
+	블랙커피/ncn+에/jca
+
+인공감미료와
+	인공감미료/ncn+와/jcj
+
+크림
+	크림/ncn
+
+등이
+	등/nbu+이/jcc
+
+가미되면
+	가미/ncpa+되/xsvn+면/ecs
+
+230
+	230/nnc
+
+,
+	,/sp
+
+인공감미료
+	인공감미료/ncn
+
+대신
+	대/nbu+이/jp+시/ep+ㄴ/etm
+
+시럽이나
+	시럽/ncn+이나/jcj
+
+설탕을
+	설탕/ncn+을/jco
+
+쓰면
+	쓰/pvg+면/ecs
+
+310
+	310/nnc
+
+가
+	가/jcs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+여기에
+	여기/npd+에/jca
+
+우유에서
+	우유/ncn+에서/jca
+
+뽑아낸
+	뽑/pvg+어/ecx+내/px+ㄴ/etm
+
+생크림인
+	생크림/ncn+이/jp+ㄴ/etm
+
+휘핑
+	휘핑/ncn
+
+크림을
+	크림/ncn+을/jco
+
+가미하면
+	가미/ncpa+하/xsva+면/ecs
+
+400
+	400/nnc
+
+로
+	로/ncn
+
+훌쩍
+	훌쩍/mag
+
+뛴다
+	뛰/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+곱창전골
+	곱창/ncn+전골/ncn
+
+1인분을
+	1/nnc+이/jp+ㄴ/etm+분/nbn+을/jco
+
+훌쩍
+	훌쩍/mag
+
+넘어서는
+	넘/pvg+어서/ecs+는/jxc
+
+열량이다
+	열량/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+운동으로
+	운동/ncn+으로/jca
+
+빼려면
+	빼/pvg+려면/ecs
+
+걷기를
+	걷/pvg+기/etn+를/jco
+
+2시간
+	2/nnc+시간/nbu
+
+이상
+	이상/ncn
+
+해야
+	하/pvg+어야/ecs
+
+하는
+	하/pvg+는/etm
+
+칼로리다
+	칼로리/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+/
+	//sp
+
+김정은
+	김정은/ncn
+
+헬스조선
+	헬스/ncn+조선/ncpa
+
+인턴기자
+	인턴/ncn+기자/ncr
+
+
+출처:헬스조선
+	출처/ncn+:/sp+헬스/ncn+조선/ncpa

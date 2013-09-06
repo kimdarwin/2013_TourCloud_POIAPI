@@ -1,0 +1,780 @@
+한큐
+	한큐/ncn
+
+우메다역
+	우메다역/ncn
+
+(
+	(/sl
+
+)
+	)/sr
+
+
+오사카에서
+	오사/ncn+카/ncn+에서/jca
+
+교토까지
+	교토까지/ncn
+
+40km
+	40km/ncn
+
+정도
+	정도/ncn
+
+되기
+	되/pvg+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+오사카
+	오사/ncn+카/ncn
+
+여행을
+	여행/ncpa+을/jco
+
+한다면
+	하/pvg+ㄴ다면/ecs
+
+하루
+	하루/ncn
+
+정도는
+	정도/ncn+는/jxc
+
+교토에
+	교토/ncn+에/jca
+
+다녀올만하다
+	다니/pvg+어/ecx+오/px+ㄹ/etm+만/nbs+하/xsms+다/ef
+
+.
+	./sf
+
+
+오사카에서
+	오사/ncn+카/ncn+에서/jca
+
+교토로
+	교토/ncn+로/jca
+
+가는
+	가/pvg+는/etm
+
+방법은
+	방법/ncn+은/jxc
+
+다양하겠지만
+	다양/ncpa+하/xsva+겠/ep+지만/ecs
+
+
+가장
+	가장/mag
+
+저렴하게
+	저렴/ncps+하/xsms+게/ecs
+
+갈
+	가/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+방법은
+	방법/ncn+은/jxc
+
+아무래도
+	아무렇/pad+어도/ecs
+
+한큐
+	한큐/ncn
+
+우메다역에서
+	우메다역/ncn+에서/jca
+
+출발하는
+	출발/ncpa+하/xsva+는/etm
+
+한큐전철인듯
+	한큐전철인듯/ncn
+
+.
+	./sf
+
+
+사실
+	사실/mag
+
+제일
+	제일/mag
+
+바른건
+	바른건/ncn
+
+오사카역에서
+	오사카역/ncn+에서/jca
+
+JR
+	JR/f
+
+열차를
+	열차/ncn+를/jco
+
+타는건데
+	타/pvg+는/etm+것/nbn+이/jp+ㄴ데/ecs
+
+이건
+	이/npd+이/jp+건/ecc
+
+종류에
+	종류/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+30~43분만에
+	30/nnc+~/sd+43/nnc+분/nbu+만에/jca
+
+도착하지만
+	도착/ncpa+하/xsva+지/ecx+말/px+ㄴ/etm
+
+540엔
+	540/nnc+엔/nbu
+
+.
+	./sf
+
+
+반면에
+	반면/ncn+에/jca
+
+한큐전철을
+	한큐전철/ncn+을/jco
+
+타면요금은
+	타면/ncn+요금/ncn+은/jxc
+
+390엔이고40~60분만에
+	390엔이고40~60분만/ncn+에/jca
+
+도착하니
+	도착/ncpa+하/xsva+니/ecs
+
+내
+	내/npp
+
+생각엔
+	생각/ncpa+엔/jca
+
+시간은
+	시간/nbu+은/jxc
+
+별
+	별/mma
+
+차이
+	차/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+듯
+	듯/nbn
+
+
+오사카에서
+	오사/ncn+카/ncn+에서/jca
+
+교토행
+	교토행/ncn
+
+한큐전철은
+	한큐전철은/ncn
+
+요금은
+	요금/ncn+은/jxc
+
+390엔으로모두
+	390엔으로모두/ncn
+
+같지만
+	같/paa+지만/ecs
+
+
+특급,
+	특급/ncn+,/sp
+
+통근특급,
+	통근/ncpa+특급/ncn+,/sp
+
+쾌속급행,
+	쾌속/ncn+급행/ncpa+,/sp
+
+쾌속,
+	쾌속/ncn+,/sp
+
+준급,
+	준급,/ncn
+
+보통
+	보통/mag
+
+등종류에
+	등종류/ncn+에/jca
+
+따라40~60분의
+	따라40~60분/ncn+의/jcm
+
+시간이
+	시간/ncn+이/jcc
+
+소요된다
+	소요/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+당연히
+	당연히/mag
+
+시간을
+	시간/ncn+을/jco
+
+잘
+	잘/mag
+
+맞춰서
+	맞추/pvg+어서/ecs
+
+특급이나
+	특급/ncn+이나/jcj
+
+통근특급
+	통근/ncpa+특급/ncn
+
+같은걸
+	같은걸/ncn
+
+타는게
+	타/pvg+는게/ecs
+
+좋다~^^
+	좋/paa+다/ef+~/sd+^/sy+^/sy
+
+
+전철이라
+	전철/ncn+이/jp+라/ecs
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+요런
+	요런/ii
+
+스타일의
+	스타일/ncn+의/jcm
+
+표
+	표/nbu
+
+
+시간표
+	시간표/ncn
+
+안봤는데
+	안봤는데/ncn
+
+운이
+	운/ncn+이/jcc
+
+좋아특급열차를
+	좋아특급열차/ncn+를/jco
+
+탈
+	타/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었다는~
+	있/paa+었/ep+다는/etm+~/sd
+
+
+주의할점은
+	주의할점/ncn+은/jxc
+
+한큐전철은
+	한큐전철/ncn+은/jxc
+
+교토역이
+	교토역/ncn+이/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+카와라마치역(
+	카와라마치역(/ncn
+
+)역으로
+	)/sr+역/ncn+으로/jca
+
+가야한다
+	가/pvg+아/ecx+하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+교토라고
+	교토/ncn+이/jp+라/ef+고/jcr
+
+써있지
+	쓰/pvg+어/ecx+있/px+지/ecx
+
+않다고
+	않/px+다/ef+고/jcr
+
+걱정할
+	걱정/ncpa+하/xsva+ㄹ/etm
+
+필요
+	필요/ncps
+
+없음
+	없/paa+음/etn
+
+..
+	./sf+./sf
+
+
+우리나라도
+	우리나라/ncn+도/jxc
+
+인천갈때
+	인천갈때/ncn
+
+인천역도
+	인천역/ncn+도/jxc
+
+있지만
+	있/px+지/ecx+말/px+ㄴ/etm
+
+주안역에서
+	주안/ncn+역/ncn+에서/jca
+
+내리기도
+	내리/pvg+기/etn+도/jxc
+
+하지
+	하/pvg+지/ecx
+
+않나
+	않/px+나/ef
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+출발~~
+	출발/ncpa+~/sd+~/sd
+
+
+문가에
+	문가/ncn+에/jca
+
+앞뒤로
+	앞뒤/ncn+로/jca
+
+마주보는
+	마주/ncn+보/ncn+는/jxc
+
+구조의
+	구/nnc+조/nbu+의/jcm
+
+좌석도
+	좌석/ncn+도/jxc
+
+있고
+	있/px+고/ecc
+
+나머지는
+	나머지/ncn+는/jxc
+
+주로
+	주로/mag
+
+한방향~
+	한방/ncn+향/ncn+~/sd
+
+
+몇시간
+	몇/nnc+시간/nbu
+
+정도
+	정도/ncn
+
+걸리면야
+	것/nbn+이/jp+ㄹ/etm+리/nbn+이/jp+면야/ecs
+
+'에키벤'을
+	'에키벤'/ncn+을/jco
+
+사서
+	사/pvg+아/ecx
+
+먹으며
+	먹/pvg+으며/ecc
+
+가겠지만
+	가/px+겠/ep+지/ecx+말/px+ㄴ/etm
+
+달랑
+	달/nbu+랑/jxc
+
+40분이기에
+	40/nnc+분/nbu+이/jp+기/etn+에/jca
+
+그냥
+	그냥/mag
+
+녹차만~
+	녹차/ncn+만/jxc+~/sd
+
+^^
+	^/sy+^/sy
+
+
+앗.
+	앗/ii+./sf
+
+.
+	./sf
+
+
+모르고
+	모르/pvg+고/ecc
+
+샀는데
+	사/pvg+아/ep+ㄴ데/ecs
+
+사
+	사/pvg+아/ecx
+
+놓고
+	놓/px+고/ecc
+
+보니
+	보/px+니/ecs
+
+교토산
+	교토산/ncn
+
+녹차
+	녹차/ncn
+
+
+이름
+	이름/ncn
+
+모를
+	모르/pvg+ㄹ/etm
+
+전철역~
+	전철역/ncn+~/sd
+
+무척
+	무척/mag
+
+한가해
+	한가/ncps+하/xsms+어/ecx
+
+보이던
+	보이/pvg+던/etm
+
+모습
+	모습/ncn
+
+..
+	./sf+./sf
+
+
+우리나라와
+	우리나라/ncn+와/jct
+
+비슷한
+	비슷/ncps+하/xsms+ㄴ/etm
+
+풍경의
+	풍경/ncn+의/jcm
+
+논밭~
+	논밭/ncn+~/sd
+
+
+하지만전혀
+	하지만전혀/ncn
+
+다른
+	다른/mma
+
+모습의
+	모습/ncn+의/jcm
+
+집들을
+	집/ncn+들/xsncc+을/jco
+
+보니
+	보/px+니/ecs
+
+신기하다
+	신기/ncps+하/xsms+다/ef
+
+.
+	./sf
+
+
+한큐
+	한큐/ncn
+
+가와라마치역
+	가와라마치역/ncn
+
+도착~
+	도착/ncpa+~/sd
+
+
+참고로
+	참고/ncpa+로/jca
+
+특이하게
+	특이/ncps+하/xsms+게/ecs
+
+화장실이
+	화장실/ncn+이/jcc
+
+플랫폼
+	플랫폼/ncn
+
+한쪽
+	하/pvg+ㄴ/etm+쪽/nbn
+
+끝에
+	끝/ncn+에/jca
+
+있으니
+	있/paa+으니/ecc
+
+
+화장실
+	화장실/ncn
+
+가실분을은
+	가/px+시/ep+ㄹ/etm+분/nbn+을/jco+은/jxc
+
+나가시기
+	나/pvg+아/ecx+가/px+시/ep+기/etn
+
+전에
+	전/nbn+에/jca
+
+다녀오시고~
+	다니/pvg+어/ecx+오/px+시/ep+고/ecc+~/sd
+
+
+이런
+	이런/mmd
+
+당일치기
+	당일치기/ncn
+
+여행때늘
+	여행때늘/ncn
+
+확인을
+	확인/ncpa+을/jco
+
+해야하는건
+	해야하는건/ncn
+
+
+돌아가는
+	돌/pvg+아/ecx+가/px+는/etm
+
+차편의
+	차편/ncn+의/jcm
+
+시간표
+	시간표/ncn
+
+.
+	./sf
+
+
+도착했다고
+	도착/ncpa+하/xsva+었/ep+다/ef+고/jcr
+
+룰루랄라
+	룰루랄라/ncn
+
+그냥
+	그냥/mag
+
+지나치면
+	지나치/pvg+면/ecs
+
+혹시라도
+	혹시/mag+라도/jxc
+
+돌아갈때
+	돌/pvg+아/ecx+가/px+ㄹ/etm+때/nbn
+
+난감할
+	난감/ncps+하/xsms+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+아이폰이나
+	아이폰/ncn+이나/jcj
+
+카메라로
+	카메라/ncn+로/jca
+
+시간표를
+	시간표/ncn+를/jco
+
+미리
+	미리/mag
+
+찍어두면
+	찍/pvg+어/ecx+두/px+면/ecs
+
+
+여행중에
+	여행/ncpa+중/ncn+에/jca
+
+혹시
+	혹시/mag
+
+원래
+	원래/mag
+
+계획보다
+	계획/ncpa+보다/jca
+
+빨리
+	빨리/mag
+
+또는
+	또는/maj
+
+늦게
+	늦/paa+게/ecs
+
+돌아갈때
+	돌/pvg+아/ecx+가/px+ㄹ/etm+때/nbn
+
+유용하게
+	유용/ncpa+하/xsva+게/ecs
+
+쓸
+	쓰/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+평일이나
+	평일/ncn+이나/jcj
+
+휴일에도
+	휴일/ncn+에/jca+도/jxc
+
+늦게까지
+	늦/paa+게/ecs+까지/jxc
+
+차는
+	차/ncn+는/jxc
+
+있는데
+	있/paa+는데/ecs
+
+
+특급은
+	특급/ncn+은/jxc
+
+생각보다
+	생각/ncpa+보다/jca
+
+일찍
+	일찍/mag
+
+줄어든다
+	줄어들/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+출구
+	출구/ncn
+
+안내도
+	안내도/ncn
+
+확인
+	확인/ncpa
+
+
+나는
+	나/npp+는/jxc
+
+기온
+	기온/ncn
+
+방면으로
+	방면/ncn+으로/jca
+
+나가
+	나/npp+가/jcs
+
+기요미즈테라로
+	기요미즈테라/ncn+로/jca
+
+갈
+	가/pvg+ㄹ/etm
+
+생각이므로
+	생각/ncpa+이/jp+므로/ecs
+
+1B
+	1B/ncn
+
+출구로~~
+	출구/ncn+로/jca+~/sd+~/sd
+
+^^
+	^/sy+^/sy

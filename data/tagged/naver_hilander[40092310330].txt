@@ -1,0 +1,651 @@
+약수역
+	약수/ncn+역/ncn
+
+우성갈비
+	우성/ncn+갈비/ncn
+
+
+연탄돼지갈비로
+	연탄/ncn+돼지갈비/ncn+로/jca
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+집
+	집/ncn
+
+
+이미
+	이미/mag
+
+20년이나
+	20/nnc+년/nbu+이나/jcj
+
+된
+	되/pvg+ㄴ/etm
+
+유명한
+	유명/ncn+한/ncn
+
+집이다~
+	집/ncn+이/jp+다/ef+~/sd
+
+
+본관은
+	본관/npp+은/jxc
+
+이미
+	이미/mag
+
+대기가
+	대/nbu+이/jp+기/etn+가/jcs
+
+길어서
+	길/paa+어서/ecs
+
+
+건너편
+	건너편/ncn
+
+별관으로
+	별관/ncn+으로/jca
+
+이동~
+	이동/ncn+~/sd
+
+
+늘
+	늘/mag
+
+줄을
+	줄/nbn+을/jco
+
+서야
+	서/pvg+어야/ecs
+
+하는
+	하/pvg+는/etm
+
+분위기라
+	분위기/ncn+라/ncn
+
+
+이
+	이/mmd
+
+날도
+	날/ncn+도/jxc
+
+줄
+	주/px+ㄹ/etm
+
+서서
+	서/pvg+어서/ecs
+
+입성
+	입성/ncn
+
+
+한
+	하/pvg+ㄴ/etm
+
+켠에는
+	켠/nbn+에/jca+는/jxc
+
+돼지갈비를
+	돼지갈비/ncn+를/jco
+
+굽는
+	굽/pvg+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+여기서
+	여기/npd+서/jca
+
+초벌로
+	초벌/ncpa+로/jca
+
+한번
+	한/nnc+번/nbu
+
+구워서
+	굽/pvg+어서/ecs
+
+테이블로
+	테이블/ncn+로/jca
+
+이동된다
+	이동/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+심플한
+	심플한/ncn
+
+메뉴
+	메뉴/ncn
+
+
+가격대
+	가격대/ncn
+
+성능비가
+	성능비/ncn+가/jcs
+
+유명한
+	유명/ncn+한/ncn
+
+집답게
+	집/ncn+답/xsmn+게/ecc
+
+
+돼지갈비
+	돼지갈비/ncn
+
+가격이
+	가격/ncn+이/jcc
+
+착한
+	착하/paa+ㄴ/etm
+
+편이다
+	편/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+유일한
+	유일한/mag
+
+반찬
+	반찬/ncn
+
+부추
+	부추/ncn
+
+무침
+	무침/ncn
+
+
+뼈가
+	뼈/ncn+가/jcs
+
+붙어있는
+	붙/pvg+어/ecx+있/px+는/etm
+
+진짜
+	진짜/ncn
+
+돼지갈비
+	돼지갈비/ncn
+
+
+연탄
+	연탄/ncn
+
+불에
+	불/ncn+에/jca
+
+구워내는
+	굽/pvg+어/ecx+내/px+는/etm
+
+시스템이다
+	시스템/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+추억의
+	추억/ncpa+의/jcm
+
+연탄
+	연탄/ncn
+
+
+어린
+	어리/paa+ㄴ/etm
+
+시절,
+	시절/ncn+,/sp
+
+눈사람
+	눈사람/ncn
+
+만들려면
+	만들/pvg+려면/ecs
+
+이
+	이/mmd
+
+녀석이
+	녀석/nbn+이/jcc
+
+꼭
+	꼭/mag
+
+필요했는데
+	필요/ncps+하/xsms+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+요즘
+	요즘/mag
+
+아이들은
+	아이/ncn+들/ncn+은/jxc
+
+뭘
+	뭐/npd+을/jco
+
+넣고
+	넣/pvg+고/ecc
+
+뭉치는지
+	뭉치/pvg+는지/ecs
+
+궁금하다
+	궁금/ncps+하/xsms+다/ef
+
+..
+	./sf+./sf
+
+
+역시
+	역시/mag
+
+가격대
+	가격대/ncn
+
+성능비
+	성능비/ncn
+
+굿이다
+	굿/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+많이
+	많/paa+이/xsa
+
+달달하지
+	달달하지/ncn
+
+않고
+	않/px+고/ecc
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+요렇게
+	요렇/pad+게/ecs
+
+쌈에도
+	싸/paa+ㅁ/etn+에/jca+도/jxc
+
+넣어
+	넣/pvg+어/ecx
+
+먹고~~
+	먹/ncn+고/jcj+~/sd+~/sd
+
+
+메뉴에서
+	메뉴/ncn+에서/jca
+
+껍데기를
+	껍데기/ncn+를/jco
+
+보고
+	보/px+고/ecc
+
+그냥
+	그냥/mag
+
+넘어갈
+	넘/pvg+어/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+없어
+	없/paa+어/ecs
+
+
+돼지
+	돼지/ncn
+
+껍데기
+	껍데기/ncn
+
+주문
+	주문/ncn
+
+
+통으로
+	통/nbn+으로/jca
+
+먼저
+	먼저/mag
+
+굽고
+	굽/pvg+고/ecc
+
+(이미
+	(/sl+이미/mag
+
+초벌구이
+	초벌/ncpa+구/ncn+이/jcc
+
+해서
+	하/pvg+어서/ecs
+
+내온
+	내/pvg+어/ecx+오/px+ㄴ/etm
+
+것이긴
+	것이긴/ncn
+
+하지만)
+	하/pvg+지만/ecs+)/sr
+
+
+나중에
+	나중/ncn+에/jca
+
+잘라
+	자르/pvg+아/ecx
+
+주신다는~
+	주/nbu+이/jp+시/ep+ㄴ다는/etm+~/sd
+
+
+돼지껍데기
+	돼지/ncn+껍데기/ncn
+
+찍어먹는
+	찍어먹/ncn+는/jxc
+
+
+와사비장
+	와사/ncn+비장/ncr
+
+
+굿~
+	굿/ncn+~/sd
+
+
+역시
+	역시/mag
+
+껍데기는
+	껍데기/ncn+는/jxc
+
+연탄
+	연탄/ncn
+
+불에
+	불/ncn+에/jca
+
+구워야
+	굽/pvg+어야/ecs
+
+제
+	저/npp+의/jcm
+
+맛
+	맛/ncn
+
+!
+	!/sf
+
+
+이미
+	이미/mag
+
+유명한
+	유명/ncps+하/xsms+ㄴ/etm
+
+집이라
+	집/ncn+이/jp+라/ecs
+
+줄도
+	줄/nbn+도/jxc
+
+길고
+	길고/ncn
+
+
+사람이
+	사람/ncn+이/jcc
+
+많아서
+	많/paa+아/ecx
+
+그런지
+	그러/pvd+ㄴ지/ecs
+
+
+친절한
+	친절/ncps+하/xsms+ㄴ/etm
+
+서비스는
+	서비스/ncpa+는/jxc
+
+기대하긴
+	기대하긴/ncn
+
+힘들지만
+	힘들/pvg+지만/ecs
+
+
+부담없이
+	부담없이/mag
+
+들르기는
+	들르/pvg+기/etn+는/jxc
+
+좋은
+	좋/paa+은/etm
+
+곳~
+	곳/nbu+~/sd
+
+
+우성갈비
+	우성/ncn+갈비/ncn
+
+
+약수역
+	약수/ncn+역/ncn
+
+3호선
+	3/nnc+호/nbu+선/jxc
+
+5번,
+	5/nnc+번/nbu+,/sp
+
+6호선
+	6/nnc+호/nbu+선/jxc
+
+7번출구
+	7번출구/ncn
+
+
+서울시
+	서울시/ncn
+
+중구
+	중구/ncn
+
+신당3동
+	신당3동/ncn
+
+372-4002-2231-6722
+	372/nnc+-4002/nnc+-2231/nnc+-6722/nnc
+
+
+우성갈비
+	우성/ncn+갈비/ncn
+
+
+서울
+	서울/ncn
+
+중구
+	중구/ncn
+
+신당3동
+	신당3동/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01149333",
+	"bl01149333",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"",
+	"/sl+"/sl+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"우성갈비",
+	title/f+:/sp+"/sl+우성/ncn+갈비/ncn+"/sr+,/sp
+
+pointX:312791,pointY:550635}
+	pointX/f+:/sp+312791/nnc+,/sp+pointY/f+:/sp+550635/nnc+}/sr
+
+
+*****
+	*/sy+*/sy+*/sy+*/sy+*/sy
+
+
+아래
+	아래/ncn
+
+손가락을
+	손가락/ncn+을/jco
+
+누르면
+	누르/pvg+면/ecs
+
+더
+	더/mag
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+이
+	이/mmd
+
+글을
+	글/ncn+을/jco
+
+보게
+	보/px+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+가지
+	가지/nbu
+
+마시고
+	마시/pvg+고/ecc
+
+위의
+	위/ncn+의/jcm
+
+View
+	View/f
+
+on도
+	on/f+도/jxc
+
+클릭해
+	클릭/ncpa+하/xsva+어/ecx
+
+주세요~
+	주세/ncn+요/ncn+~/sd
+
+
+그리고
+	그리고/maj
+
+덧글과
+	덧글/ncn+과/jcj
+
+공감을
+	공감/ncpa+을/jco
+
+남겨
+	남기/pvg+어/ecx
+
+주시면
+	주/px+시/ep+면/ecs
+
+제가
+	저/npp+가/jcs
+
+앞으로
+	앞/ncn+으로/jca
+
+포스팅하는데
+	포스팅하는데/ncn
+
+큰
+	크/paa+ㄴ/etm
+
+힘이
+	힘/ncn+이/jcc
+
+될
+	되/pvg+ㄹ/etm
+
+것
+	것/nbn
+
+같습니다
+	같/paa+습니다/ef
+
+^^
+	^/sy+^/sy

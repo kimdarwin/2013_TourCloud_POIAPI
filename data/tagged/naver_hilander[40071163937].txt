@@ -1,0 +1,470 @@
+미국식
+	미국식/ncn
+
+수제버거
+	수제버거/ncn
+
+전문점
+	전문/ncn+점/ncn
+
+스모키살룬(Smokey
+	스모키살룬(Smokey/ncn
+
+Saloon)
+	Saloon/f+)/sr
+
+
+이태원
+	이태/ncn+원/ncn
+
+스모키살룬이
+	스모키살룬/ncn+이/jcc
+
+워낙
+	워낙/mag
+
+유명해서
+	유명/ncn+해서/ncn
+
+이태원에만
+	이태/ncn+원/ncn+에/jca+만/jxc
+
+있는줄
+	있/px+는/etm+줄/nbn
+
+알았는데알고보니
+	알았는데알고보니/ncn
+
+순화동,
+	순화/ncpa+동/ncn+,/sp
+
+이촌동,
+	이촌동,/ncn
+
+압구정동,
+	압구정/ncn+동/ncn+,/sp
+
+삼성동,
+	삼성/ncn+동/ncn+,/sp
+
+서울역에도
+	서울역/ncn+에/jca+도/jxc
+
+분점이
+	분점/ncpa+이/jcc
+
+있었네
+	있/px+었/ep+네/ef
+
+..
+	./sf+./sf
+
+
+주말에
+	주말/ncn+에/jca
+
+회사에서
+	회사/ncn+에서/jca
+
+일하던차에
+	일/ncpa+하/xsva+던/etm+차/nbn+에/jca
+
+후배가
+	후배/ncn+가/jcs
+
+찾아와서
+	찾/pvg+아/ecx+오/px+아/ecs
+
+
+회사
+	회사/ncn
+
+앞
+	앞/ncn
+
+스모키살룬
+	스모키살룬/ncn
+
+순화점
+	순화/ncpa+점/ncn
+
+방문~
+	방문/ncpa+~/sd
+
+
+미국
+	미국/ncn
+
+캐주얼
+	캐주얼/ncn
+
+바를
+	바/nbn+를/jco
+
+연상시키는
+	연상/ncpa+시키/xsva+는/etm
+
+분위기
+	분위기/ncn
+
+..
+	./sf+./sf
+
+
+최근에
+	최근/ncn+에/jca
+
+생겨서인지
+	생겨서인지/ncn
+
+라마다호텔에
+	라마다호텔/ncn+에/jca
+
+붙어있어서인지
+	붙어있어/ncn+서/jca+이/jp+ㄴ지/ecs
+
+
+허름한
+	허름/ncn+한/ncn
+
+분위기는
+	분위기/ncn+는/jxc
+
+아니고
+	아니/paa+고/ecc
+
+..
+	./sf+./sf
+
+
+^^;
+	^/sy+^/sy+;/sy
+
+
+메뉴판
+	메뉴판/ncn
+
+
+'볼케이노'나
+	'볼케이노'/ncn+나/jcj
+
+'빅아일랜더',
+	'빅아일랜더',/ncn
+
+'엠뷸런스'등이유명하다고
+	'엠뷸런스'등이유명하/ncn+이/jp+다/ef+고/jcr
+
+들었는데
+	들/pvg+었/ep+는데/ecs
+
+..
+	./sf+./sf
+
+
+첨
+	첨/ncn
+
+가본거라
+	가/pvg+아/ecx+보/px+ㄴ/etm+것/nbn+이/jp+라/ecs
+
+왠지
+	왠지/mag
+
+클래식할것
+	클래식할것/ncn
+
+같은
+	같/paa+은/etm
+
+'스모키'
+	'스모키'/ncn
+
+주문~
+	주문/ncn+~/sd
+
+
+'Platter
+	'/sr+Platter/f
+
+추가'를
+	추/ncn+가/jcs+'/sr+를/jco
+
+하면
+	하/pvg+면/ecs
+
+프렌치프라이와
+	프렌치/ncn+프라이/ncpa+와/jcj
+
+코울슬로가
+	코울슬로/ncn+가/jcs
+
+함께
+	함께/mag
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+음료
+	음료/ncn
+
+
+생맥주도
+	생맥주/ncn+도/jxc
+
+판다~
+	팔/pvg+ㄴ다/ef+~/sd
+
+
+더운
+	덥/paa+은/etm
+
+여름
+	여름/ncn
+
+낮에
+	낮/ncn+에/jca
+
+감자튀김에
+	감자튀김/ncn+에/jca
+
+맥주만
+	맥주/ncn+만/jxc
+
+마셔도
+	마시/pvg+어도/ecs
+
+좋을듯^^
+	좋을듯/ncn+^/sy+^/sy
+
+
+후배가
+	후배/ncn+가/jcs
+
+주문한
+	주문/ncn+한/ncn
+
+핑크
+	핑크/ncn
+
+레모네이드
+	레모네이드/ncn
+
+
+병은
+	병/nbu+은/jxc
+
+이쁘다만
+	이쁘다만/ncn
+
+..
+	./sf+./sf
+
+
+너무
+	너무/mag
+
+비싸다
+	비싸/paa+다/ef
+
+-.-;;
+	-/sd+./sf+-/sd+;/sy+;/sy
+
+
+내가
+	나/npp+가/jcs
+
+시킨
+	시키/pvg+ㄴ/etm
+
+자몽쥬스
+	자몽/ncn+쥬스/ncn
+
+
+얘도
+	얘/ncn+도/jxc
+
+비싸긴
+	비싸긴/ncn
+
+마찬가지
+	마찬가지/ncn
+
+..
+	./sf+./sf
+
+
+그냥
+	그냥/mag
+
+콜라마실걸
+	콜라/ncn+마실/ncn+걸/ncn
+
+그랬나
+	그렇/pad+었/ep+나/ef
+
+T_T
+	T_T/ncn
+
+
+스모키
+	스모키/ncn
+
++
+	+/ncn
+
+플래터
+	플래터/ncn
+
+
+두툼한
+	두툼/ncps+하/xsms+ㄴ/etm
+
+패티에
+	패티/ncn+에/jca
+
+
+베이컨이
+	베이컨/ncn+이/jcc
+
+두장
+	두/nnc+장/nbu
+
+올라간다~
+	오르/pvg+아/ecx+가/px+ㄴ다/ef+~/sd
+
+
+코울슬로
+	코울슬/ncn+로/jca
+
+
+(사실
+	(/sl+사실/mag
+
+내가
+	나/npp+가/jcs
+
+제일
+	제일/mag
+
+좋아하는
+	좋/paa+아/ecx+하/px+는/etm
+
+코울슬로는
+	코울슬로/ncn+는/jxc
+
+KFC
+	KFC/f
+
+코울슬로
+	코울슬/ncn+로/jca
+
+..
+	./sf+./sf
+
+
+)
+	)/sr
+
+
+두툼한
+	두툼/ncps+하/xsms+ㄴ/etm
+
+패티~^^
+	패티/ncn+~/sd+^/sy+^/sy
+
+
+스모키살룬의
+	스모키살룬/ncn+의/jcm
+
+패티는
+	패티/ncn+는/jxc
+
+좋은
+	좋/paa+은/etm
+
+품질의
+	품질/ncn+의/jcm
+
+호주산
+	호주/ncn+산/ncn
+
+쇠고기
+	쇠고기/ncn
+
+목등심(Ground
+	목등심(Ground/ncn
+
+Chuck)
+	Chuck/f+)/sr
+
+부위만
+	부위/ncn+만/jxc
+
+쓴단다~
+	쓸/pvg+ㄴ단다/ef+~/sd
+
+
+감자튀김
+	감자튀김/ncn
+
+참
+	참/mag
+
+맛있다~
+	맛있/paa+다/ef+~/sd
+
+
+감자튀김
+	감자튀김/ncn
+
+추가
+	추/ncn+가/jcs
+
+주문~
+	주문/ncn+~/sd
+
+
+일만
+	일/ncn+만/jxc
+
+없었으면
+	없/paa+었/ep+으면/ecs
+
+맥주를
+	맥주/ncn+를/jco
+
+마셨으리라
+	마시/pvg+었/ep+으리라/ef
+
+-.-;;
+	-/sd+./sf+-/sd+;/sy+;/sy
+
+
+스모키살룬
+	스모키살룬/ncn
+
+라마다점02-775-3357
+	라마다점02/ncn+-/sd+775/nnc+-3357/nnc
+
+
+서울시
+	서울시/ncn
+
+중구
+	중구/ncn
+
+순화동,
+	순화/ncpa+동/ncn+,/sp
+
+라마다호텔앤스위트
+	라마다호텔앤스위트/ncn
+
+1층에
+	1/nnc+층/nbu+에/jca
+
+위치
+	위치/ncn

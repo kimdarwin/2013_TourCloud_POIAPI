@@ -1,0 +1,854 @@
+오천항
+	오천항/ncn
+
+갑오징어,쭈꾸미
+	갑오징어,쭈꾸미/ncn
+
+잡으러
+	잡/pvg+으러/ecs
+
+...
+	.../se
+
+
+물때
+	물/pvg+ㄹ/etm+때/nbn
+
+:
+	:/sp
+
+13물
+	13/nnc+물/nbu
+
+
+기상
+	기상/ncn
+
+:
+	:/sp
+
+맑음
+	맑음/ncn
+
+북동풍에
+	북동/ncn+풍/ncn+에/jca
+
+올해들어
+	올해들어/ncn
+
+제일
+	제/npp+이/jp+ㄹ/etm
+
+추운날
+	추운날/ncn
+
+
+파고
+	파/ncn+이/jp+고/ecc
+
+:
+	:/sp
+
+0.5m
+	0.5m/ncn
+
+
+출항지보트:
+	출항지보트:/ncn
+
+오천항
+	오천항/ncn
+
+시실리호
+	시실리호/ncn
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+원래는
+	원래/mag+는/jxc
+
+농어
+	농어/ncn
+
+출조를
+	출조/ncn+를/jco
+
+계획하고
+	계획하/ncn+이/jp+고/ecc
+
+휴가를
+	휴가/ncn+를/jco
+
+썼는데
+	쓰/paa+었/ep+는데/ecs
+
+
+전날에
+	전날/ncn+에/jca
+
+일정의
+	일정/ncn+의/jcm
+
+변경으로
+	변경/ncpa+으로/jca
+
+인하여
+	인하/ncpa+여/ncn
+
+
+다른
+	다른/mma
+
+낚시를
+	낚시/ncpa+를/jco
+
+하기로
+	하/pvg+기/etn+로/jca
+
+급변경
+	급변/ncpa+경/ncn
+
+..
+	./sf+./sf
+
+
+갑오징어를
+	갑오징어/ncn+를/jco
+
+잡아보기로
+	잡/pvg+어/ecx+보/px+기/etn+로/jca
+
+하고
+	하/pvg+고/ecc
+
+오천항
+	오천항/ncn
+
+배를
+	배/ncn+를/jco
+
+예약하려
+	예약/ncpa+하/xsva+려/ecs
+
+하지만
+	하지만/maj
+
+
+이미
+	이미/mag
+
+예약이
+	예약/ncpa+이/jcc
+
+꽉
+	꽉/mag
+
+찬
+	차/pvg+ㄴ/etm
+
+배들
+	배/ncn+들/xsncc
+
+뿐.
+	뿐/nbn+./sf
+
+..
+	./sf+./sf
+
+
+씨빙이님이
+	씨빙이님/ncn+이/jcc
+
+운영하는
+	운영/ncpa+하/xsva+는/etm
+
+시실리호에
+	시실리호/ncn+에/jca
+
+연락이
+	연락/ncpa+이/jcc
+
+온다
+	오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+취소하여
+	취소/ncpa+하/xsva+어/ecx
+
+자리가
+	자리/ncn+가/jcs
+
+비었다고
+	비/paa+었/ep+다/ef+고/jcr
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+
+3시간
+	3/nnc+시간/nbu
+
+정도
+	정도/ncn
+
+잠을자고
+	잠을자/ncn+이/jp+고/ecc
+
+일어나서
+	일어나/pvg+아/ecx
+
+도착한
+	도착/ncpa+하/xsva+ㄴ/etm
+
+오천항
+	오천항/ncn
+
+.
+	./sf
+
+
+평일인데도
+	평일/ncn+이/jp+ㄴ데/ecs+도/jxc
+
+불구하고
+	불구/ncps+하고/jct
+
+항구주변에는
+	항구/ncn+주변/ncn+에/jca+는/jxc
+
+주차하기도
+	주차/ncn+하기/ncn+도/jxc
+
+
+힘들
+	힘들/pvg+ㄹ/etm
+
+정도로
+	정도/ncn+로/jca
+
+많은
+	많/paa+은/etm
+
+사람들이
+	사람/ncn+들/xsn+이/jcs
+
+찾아
+	찾/pvg+아/ecx
+
+온다
+	오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+주말인지
+	주말/ncn+이/jp+ㄴ지/ecs
+
+평일인지
+	평일/ncn+이/jp+ㄴ지/ecs
+
+헷갈릴
+	헷갈리/pvg+ㄹ/etm
+
+정도이다
+	정도/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+늘
+	늘/mag
+
+갑오징어,쭈꾸미가
+	갑오징어,쭈꾸미/ncn+가/jcs
+
+나오는
+	나/pvg+아/ecx+오/px+는/etm
+
+이
+	이/mmd
+
+시즌에는
+	시즌/ncn+에는/jca
+
+
+불야성을
+	불야성/ncn+을/jco
+
+이루는
+	이루/pvg+는/etm
+
+오천항이다
+	오천항/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+시실리호에
+	시실리호/ncn+에/jca
+
+오르고
+	오르/pvg+고/ecc
+
+유명
+	유명/ncn
+
+블로거이신
+	블로거/ncn+이/jp+시/ep+ㄴ/etm
+
+
+씨빙이님이랑
+	씨빙이님이랑/ncn
+
+첫
+	첫/nno
+
+인사도
+	인사/ncn+도/jxc
+
+나눈다
+	나누/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+맑은
+	맑/paa+은/etm
+
+하늘에는
+	하늘/ncn+에/jca+는/jxc
+
+여명이
+	여명/ncn+이/jcc
+
+밝아오고
+	밝/paa+아/ecx+오/px+고/ecc
+
+시실리호는
+	시실리호/ncn+는/jxc
+
+
+오천항을
+	오천항/ncn+을/jco
+
+서서히
+	서서히/mag
+
+빠져
+	빠지/pvg+어/ecx
+
+나와서
+	나오/pvg+아/ecx
+
+가까운
+	가깝/paa+은/etm
+
+주변의
+	주변/ncn+의/jcm
+
+
+포인트로
+	포인트/ncn+로/jca
+
+이동을
+	이/nnc+동/nbu+을/jco
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+전날까지
+	전날/ncn+까지/jxc
+
+기상이
+	기상/ncn+이/jcc
+
+좋지
+	좋/paa+지/ecx
+
+않아서
+	않/px+아/ecx
+
+고생도
+	고생/ncpa+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+
+조과도
+	조/ncn+과/jct+도/jxc
+
+형편이
+	형편/ncn+이/jcc
+
+없었다고하는데
+	없/paa+었/ep+다고/ecx+하/px+ㄴ데/ecs
+
+
+오늘은
+	오늘/ncn+은/jxc
+
+그나마
+	그나마/mag
+
+좀
+	좀/mag
+
+나은편이라고
+	나/px+ㄴ/etm+편/nbn+이/jp+라/ef+고/jcr
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+올들어서
+	올들어서/ncn
+
+가장
+	가장/mag
+
+춥다고
+	춥/paa+다/ef+고/jcr
+
+하는
+	하/pvg+는/etm
+
+날.
+	날/ncn+./sf
+
+.
+	./sf
+
+
+불행히도
+	불행히/mag+도/jxc
+
+바다를
+	바다/ncn+를/jco
+
+찾는다
+	찾/pvg+는다/ef
+
+..
+	./sf+./sf
+
+
+온도계에서는
+	온도계/ncn+에서/jca+는/jxc
+
+1~2도를
+	1/nnc+~/sd+2/nnc+도/nbu+를/jco
+
+왔다갔다
+	왔다갔다/mag
+
+하던데
+	하/pvg+던데/ecs
+
+
+전날
+	전날/ncn
+
+바람의
+	바람/ncn+의/jcm
+
+여파가
+	여파/ncn+가/jcs
+
+조금
+	조금/mag
+
+남아
+	남/pvg+아/ecx
+
+있는
+	있/px+는/etm
+
+바다는
+	바다/ncn+는/jxc
+
+
+체감온도가
+	체감온도/ncn+가/jcs
+
+더
+	더/mag
+
+떨어져서
+	떨어지/pvg+어서/ecs
+
+옷깃안으로
+	옷깃/ncn+안/ncn+으로/jca
+
+
+찬바람이
+	찬바람/ncn+이/jcc
+
+스며들어
+	스며들/pvg+어/ecx
+
+온다
+	오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+손도
+	손/ncn+도/jxc
+
+시리고
+	시/nbu+이/jp+리/ef+고/jcr
+
+....
+	.../se+./sf
+
+
+씨빙이님의
+	씨빙이님/ncn+의/jcm
+
+즐거운
+	즐겁/paa+은/etm
+
+입담으로
+	입담/ncn+으로/jca
+
+
+모두가
+	모두/ncn+가/jcs
+
+즐겁게낚시를
+	즐겁게낚시/ncn+를/jco
+
+할수가
+	하/pvg+ㄹ/etm+수/nbn+가/jcc
+
+있다
+	있/px+다/ef
+
+..
+	./sf+./sf
+
+
+간만의
+	간만/ncn+의/jcm
+
+선상
+	선상/ncn
+
+갑오징어/쭈꾸미의
+	갑오징어/쭈꾸미/ncn+의/jcm
+
+
+감각을
+	감각/ncpa+을/jco
+
+서서히
+	서서히/mag
+
+익혀
+	익히/pvg+어/ecx
+
+나간다
+	나/pvg+아/ecx+가/px+ㄴ다/ef
+
+.
+	./sf
+
+
+아직
+	아직/mag
+
+갑오징어가
+	갑오징어/ncn+가/jcs
+
+싸이즈가
+	싸이즈/ncn+가/jcs
+
+작은편
+	작/paa+은/etm+편/nbn
+
+...
+	.../se
+
+
+그럭저럭
+	그럭저럭/mag
+
+잡을만
+	잡/ncn+을/jco+만/jxc
+
+하다는
+	하/px+다/ef+는/etm
+
+생각
+	생각/ncpa
+
+..
+	./sf+./sf
+
+
+1년에
+	1/nnc+년/nbu+에/jca
+
+한번정도
+	한번정/ncn+도/jxc
+
+오천항에서
+	오천항/ncn+에서/jca
+
+갑오징어
+	갑오징어/ncn
+
+선상낚시를
+	선상/ncn+낚시/ncpa+를/jco
+
+하는것
+	하/pvg+는/etm+것/nbn
+
+같은데
+	같/paa+은데/ecs
+
+
+작년처럼
+	작년/ncn+처럼/jca
+
+아들이랑
+	아들/ncn+이/jcs+랑/jxc
+
+같이
+	같/paa+이/xsa
+
+왔면
+	왔면/ncn
+
+좋으련만
+	좋/paa+으련만/ef
+
+..
+	./sf+./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+적당히
+	적당히/mag
+
+잡은것
+	잡/pvg+은/etm+것/nbn
+
+같으니
+	같/paa+으니/ecs
+
+돌아
+	돌/pvg+아/ecx
+
+가야지
+	가/px+아/ecs
+
+...
+	.../se
+
+
+가까운데로
+	가깝/paa+은/etm+데/nbn+로/jca
+
+나가니
+	나/pvg+아/ecx+가/px+니/ecs
+
+철수도
+	철수/ncpa+도/jxc
+
+금방이라서
+	금방/ncn+이/jp+라서/ecs
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+하루
+	하루/ncn
+
+수고를
+	수고/ncps+를/jco
+
+해주신
+	하/pvg+어/ecx+주/px+시/ep+ㄴ/etm
+
+시실리호
+	시실리호/ncn
+
+선장님이신
+	선장/ncr+님/ncn+이/jp+시/ep+ㄴ/etm
+
+씨빙이님
+	씨빙이님/ncn
+
+.
+	./sf
+
+
+오늘
+	오늘/ncn
+
+첨
+	첨/ncn
+
+뵈었는데
+	뵈/pvg+었/ep+는데/ecs
+
+참
+	참/mag
+
+편안하게
+	편안/ncps+하/xsms+게/ecs
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+주시고
+	주시/ncn+고/jcj
+
+
+즐겁게
+	즐겁/paa+게/ecs
+
+낚시
+	낚시/ncpa
+
+할수
+	하/pvg+ㄹ/etm+수/nbn
+
+있도록
+	있/px+도록/ecs
+
+배려해
+	배/pvg+려/ecx+하/px+어/ecx
+
+주시는
+	주/px+시/ep+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+
+인상적이었다는~
+	인상/ncn+적/ncn+이/jp+었/ep+다는/etm+~/sd
+
+
+인사를
+	인사/ncn+를/jco
+
+나누고는
+	나누/pvg+고/ecs+는/jxc
+
+집으로
+	집/ncn+으로/jca
+
+Back
+	Back/f
+
+!!
+	!/sf+!/sf
+
+
+길이
+	길/ncn+이/jcc
+
+안막히니
+	안막히/ncn+이/jp+니/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+좋은걸
+	좋은걸/ncn
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+잡아온
+	잡/pvg+어/ecx+오/px+ㄴ/etm
+
+갑오징어와
+	갑오징어/ncn+와/jcj
+
+쭈꾸미는
+	쭈꾸미/ncn+는/jxc
+
+
+잠시나마
+	잠시/mag+나마/jxc
+
+식구들
+	식구/ncn+들/ncn
+
+입을
+	입/ncn+을/jco
+
+즐겁게
+	즐겁/paa+게/ecs
+
+해
+	하/pvg+어/ecx
+
+준다
+	주/px+ㄴ다/ef
+
+...
+	.../se
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+.
+	./sf
+
+
+노란잠수함
+	노란잠수함/ncn

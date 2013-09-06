@@ -1,0 +1,2713 @@
+오사카
+	오사/ncn+카/ncn
+
+호텔
+	호텔/ncn
+
+리뷰
+	리뷰/ncpa
+
+::
+	:/sp+:/sp
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+(HYATT
+	(/sl+HYATT/f
+
+REGENCY
+	REGENCY/f
+
+OSAKA)
+	OSAKA/f+)/sr
+
+
+호텔명
+	호텔/ncn+명/ncn
+
+:
+	:/sp
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+(HYATT
+	(/sl+HYATT/f
+
+REGENCY
+	REGENCY/f
+
+OSAKA)
+	OSAKA/f+)/sr
+
+
+호텔
+	호텔/ncn
+
+주소
+	주소/ncn
+
+:
+	:/sp
+
+1-13-11
+	1/nnc+-13/nnc+-11/nnc
+
+Nanko-Kita,
+	Nanko/f+-/sd+Kita/f+,/sp
+
+Suminoe-Ku,
+	Suminoe/f+-/sd+Ku/f+,/sp
+
+Osaka,
+	Osaka/f+,/sp
+
+Japan
+	Japan/f
+
+559-0034
+	559/nnc+-0034/nnc
+
+
+등급
+	등급/nbu
+
+:
+	:/sp
+
+
+체크인
+	체크인/ncn
+
+/
+	//sp
+
+체크아웃
+	체크아웃/ncpa
+
+시간
+	시간/nbu
+
+:
+	:/sp
+
+14:00
+	14/nnc+:/sp+00/nnc
+
+/
+	//sp
+
+12:00
+	12/nnc+:/sp+00/nnc
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+hyattregencyosaka.
+	hyattregencyosaka/f+./sy
+
+com/
+	com/f+//sp
+
+
+가는
+	가/pvg+는/etm
+
+방법
+	방법/ncn
+
+:
+	:/sp
+
+전차이용
+	전차/ncn+이용/ncpa
+
+
+지하철
+	지하철/ncn
+
+츄오선
+	츄오선/ncn
+
+'코스모스퀘어역'
+	'코스모스퀘어역'/ncn
+
+하차
+	하차/ncn
+
+,
+	,/sp
+
+무료
+	무료/ncn
+
+셔틀
+	셔틀/ncn
+
+버스로
+	버스/ncn+로/jca
+
+약
+	약/ncn
+
+5
+	5/nnc
+
+분
+	분/nbu
+
+(15
+	(/sl+15/nnc
+
+분
+	분/nbu
+
+간격
+	가/px+ㄴ/etm+격/nbn
+
+8:00
+	8/nnc+:/sp+00/nnc
+
+~
+	~/sd
+
+20:45)
+	20/nnc+:/sp+45/nnc+)/sr
+
+
+뉴트램
+	뉴트/ncn+램/ncn
+
+난코포트타운선
+	난코포트타운선/ncn
+
+'나카후토'역
+	'나카후토'역/ncn
+
+하차
+	하차/ncn
+
+도보
+	도보/ncpa
+
+3분
+	3/nnc+분/nbu
+
+
+공항리무진버스
+	공항/ncn+리무진버스/ncn
+
+이용
+	이용/ncpa
+
+:
+	:/sp
+
+약40분
+	약40분/ncn
+
+소요(승차요금
+	소요(승차요금/ncn
+
+:
+	:/sp
+
+성인
+	성인/ncn
+
+.
+	./sf
+
+
+편도
+	편/nbn+도/jxc
+
+1,500엔)
+	1,500/nnc+엔/jca+)/sr
+
+
+호텔
+	호텔/ncn
+
+정보
+	정보/ncn
+
+:
+	:/sp
+
+일본의
+	일/nnc+본/nbu+의/jcm
+
+자연미를
+	자연미/ncn+를/jco
+
+최대한
+	최대한/mag
+
+살린
+	살리/pvg+ㄴ/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+쏟아지는
+	쏟/pvg+아/ecx+지/px+는/etm
+
+햇살과
+	햇살/ncn+과/jct
+
+맑게
+	맑/paa+게/ecs
+
+흐르는
+	흐르/pvg+는/etm
+
+물소리로
+	물소리/ncn+로/jca
+
+몸과
+	몸/ncn+과/jcj
+
+마음을
+	마음/ncn+을/jco
+
+일상에서
+	일상/ncn+에서/jca
+
+해방
+	해방/ncpa
+
+시킬
+	시키/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+총
+	총/mma
+
+500개의
+	500/nnc+개/nbu+의/jcm
+
+객실이
+	객실/ncn+이/jcc
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+내부
+	내부/ncn
+
+인테리어는
+	인테리어/ncn+는/jxc
+
+아늑하고
+	아늑/ncps+하고/jct
+
+드라마틱한
+	드라마틱/ncn+한/ncn
+
+분위기를
+	분위기/ncn+를/jco
+
+연출한다
+	연출/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+호텔
+	호텔/ncn
+
+내의
+	내/npp+의/jcm
+
+문화공간인
+	문화공간/ncn+이/jp+ㄴ/etm
+
+미술관에는
+	미술관/ncn+에/jca+는/jxc
+
+약
+	약/ncn
+
+2,500점의
+	2,500/nnc+점/nbu+의/jcm
+
+오리지날
+	오리/pvg+지/ecx+나/px+ㄹ/etm
+
+작품들이
+	작품/ncn+들/ncn+이/jcc
+
+전시되어
+	전시/ncpa+되/xsvn+어/ecx
+
+있는데,
+	있/px+는데/ecs+,/sp
+
+다양한
+	다양/ncn+한/ncn
+
+지식
+	지식/ncn
+
+공간을
+	공간/ncn+을/jco
+
+창출하는
+	창출/ncpa+하/xsva+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+지금까지의
+	지금까지/ncn+의/jcm
+
+호텔의
+	호텔/ncn+의/jcm
+
+이미지와는
+	이미지/ncn+와/jct+는/jxc
+
+달리
+	달리/mag
+
+시설,
+	시설/ncpa+,/sp
+
+인테리어,
+	인테리/ncn+이/jp+어/ef+,/sp
+
+서비스
+	서비스/ncpa
+
+등에서
+	등/nbu+에서/jca
+
+다양하고
+	다양/ncn+하고/jct
+
+차별화된
+	차별화/ncn+되/xsvn+ㄴ/etm
+
+모습을
+	모습/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+[출처
+	[/sl+출처/ncn
+
+:
+	:/sp
+
+하나투어
+	하나투어/ncn
+
+호텔정보]
+	호텔/ncn+정보/ncn+]/sr
+
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카는
+	오사/ncn+카/ncn+는/jxc
+
+이번하나투어
+	이번하나투/ncn+이/jp+어/ecs
+
+간사이
+	간사/ncr+이/jcc
+
+원정대
+	원정대/ncn
+
+3박
+	3/nnc+박/nbu
+
+4일
+	4/nnc+일/nbu
+
+여행
+	여행/ncpa
+
+중
+	중/nbn
+
+1박을
+	1/nnc+박/nbu+을/jco
+
+했던
+	하/px+었/ep+던/etm
+
+호텔이예요
+	호텔/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+아침
+	아침/ncn
+
+일찍
+	일찍/mag
+
+고베
+	고베/ncn
+
+호텔
+	호텔/ncn
+
+체크아웃
+	체크아웃/ncpa
+
+후
+	후/ncn
+
+우메다(JR오사카)역
+	우메다(JR오사카)역/ncn
+
+코인락커에
+	코인락커/ncn+에/jca
+
+짐을
+	지/px+ㅁ/etn+을/jco
+
+넣어두고,
+	넣/pvg+어/ecx+두/px+고/ecc+,/sp
+
+하루종일
+	하루종일/ncn
+
+교토를
+	교토/ncn+를/jco
+
+쏘다니다
+	쏘다니/pvg+다/ef
+
+오사카로
+	오사/ncn+카/ncn+로/jca
+
+돌아와
+	돌/pvg+아/ecx+오/px+아/ecx
+
+밤
+	밤/ncn
+
+늦게
+	늦/paa+게/ecs
+
+체크인해서
+	체크인/ncn+해서/ncn
+
+
+다음날
+	다음날/ncn
+
+반쪽짜리
+	반쪽짜리/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+일정(
+	일정(/ncn
+
+?
+	?/sf
+
+
+쇼핑)을
+	쇼핑/ncpa+)/sr+을/jco
+
+위해
+	위하/pvg+어/ecx
+
+아침
+	아침/ncn
+
+일찍
+	일찍/mag
+
+체크아웃을
+	체크아웃/ncpa+을/jco
+
+한터라
+	하/pvg+ㄴ/etm+터/nbn+이/jp+라/ecs
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카에서는
+	오사/ncn+카/ncn+에서/jca+는/jxc
+
+잠만
+	자/pvg+ㅁ/etn+만/jxc
+
+자고
+	자/nbn+이/jp+고/ecc
+
+나왔어요
+	나/pvg+아/ecx+오/px+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+우메다역에서
+	우메다역/ncn+에서/jca
+
+출발하는
+	출발/ncpa+하/xsva+는/etm
+
+마지막
+	마지막/ncn
+
+셔틀을
+	셔틀/ncn+을/jco
+
+타기위해
+	타기위해/ncn
+
+교토에서
+	교토/ncn+에서/jca
+
+부랴부랴
+	부랴부랴/mag
+
+서둘러서
+	서두르/pvg+어서/ecs
+
+우메다역으로
+	우메다역/ncn+으로/jca
+
+갔지만
+	가/px+아/ep+지만/ecs
+
+마지막
+	마지막/ncn
+
+셔틀은
+	셔틀/ncn+은/jxc
+
+못타고
+	못타/ncn+이/jp+고/ecc
+
+T_T
+	T_T/ncn
+
+
+무거운
+	무겁/paa+은/etm
+
+짐을
+	지/px+ㅁ/etn+을/jco
+
+끌고
+	끌/pvg+고/ecc
+
+니시우메다역에서
+	니시우메다역/ncn+에서/jca
+
+지하철
+	지하철/ncn
+
+요츠바시선을
+	요츠바시선/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+스미노에공원역으로,
+	스미노에공원역으로,/ncn
+
+스미노에공원역에서
+	스미노에공원역/ncn+에서/jca
+
+뉴트램
+	뉴트/ncn+램/ncn
+
+난코포트타운선
+	난코포트타운선/ncn
+
+나카후토로
+	나카후토/ncn+로/jca
+
+이동,
+	이동/ncn+,/sp
+
+
+나카후토역에서
+	나카후토역/ncn+에서/jca
+
+하얏트리젠시
+	하얏트리젠시/ncn
+
+오사카로
+	오사/ncn+카/ncn+로/jca
+
+가는데
+	가/px+ㄴ데/ecs
+
+에스컬레이터가
+	에스컬레이터/ncn+가/jcs
+
+제대로
+	제대로/mag
+
+안되어
+	안되/paa+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+짐을
+	지/px+ㅁ/etn+을/jco
+
+들고
+	들/pvg+고/ecc
+
+계단을
+	계단/ncn+을/jco
+
+오르내리느라
+	오르내리/pvg+느라/ecs
+
+진정으로
+	진정/ncn+으로/jca
+
+힘들었던
+	힘들/pvg+었/ep+던/etm
+
+기억이
+	기억/ncpa+이/jcc
+
+나네요
+	나/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+짐이
+	지/px+ㅁ/etn+이/jcs
+
+있다면
+	있/px+다면/ecs
+
+어지간하면
+	어지간/ncps+하/xsms+면/ecs
+
+셔틀을
+	셔틀/ncn+을/jco
+
+이용하는게
+	이용/ncpa+하/xsva+는게/ecs
+
+좋을것
+	좋/paa+을/etm+것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+무료셔틀
+	무료셔틀/ncn
+
+강추
+	강추/ncn
+
+!
+	!/sf
+
+
+(신체건강하셔서
+	(/sl+신체건강/ncpa+하/xsva+시/ep+어서/ecs
+
+무거운
+	무겁/paa+은/etm
+
+짐따위야
+	짐/ncn+따위/xsncc+이/jp+야/ef
+
+뭐
+	뭐/npd
+
+손가락으로도
+	손가락/ncn+으로/jca+도/jxc
+
+든다~하시는
+	들/pvg+ㄴ다/ef+~/sd+하시/ncn+는/jxc
+
+분은
+	분/nbu+은/jxc
+
+문제없어요
+	문제/ncn+없/xsmn+어/ef+요/jxf
+
+.
+	./sf
+
+
+)
+	)/sr
+
+
+자~
+	자/ii+~/sd
+
+그럼
+	그렇/pad+ㅁ/etn
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+둘러보실까요
+	두르/pvg+어/ecx+보/px+시/ep+ㄹ까/ef+요/jxf
+
+?
+	?/sf
+
+
+작은
+	작/paa+은/etm
+
+사진들은
+	사/pvg+아/ecx+지/px+ㄴ들/ecs+은/jxc
+
+클릭하시면
+	클릭/ncpa+하시/ncn+이/jp+면/ecs
+
+크게
+	크/paa+게/ecs
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카프론트로비
+	오사카프론트로비/ncn
+
+등
+	등/nbn
+
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+프론트와
+	프론트/ncn+와/jcj
+
+주변
+	주변/ncn
+
+모습이예요
+	모습/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+처음
+	처음/mag
+
+호텔로
+	호텔/ncn+로/jca
+
+올
+	오/px+ㄹ/etm
+
+때
+	때/ncn
+
+나카후토역에서
+	나카후토역/ncn+에서/jca
+
+내려서
+	내리/pvg+어서/ecs
+
+왔더니
+	오/px+아/ep+니/ecs
+
+정문이
+	정문/ncn+이/jcc
+
+아닌
+	아니/paa+ㄴ/etm
+
+서쪽입구
+	서쪽/ncn+입구/ncn
+
+?
+	?/sf
+
+
+로
+	로/ncn
+
+들어와서
+	들/pvg+어/ecx+오/px+아/ecx
+
+객실
+	객실/ncn
+
+엘레베이터
+	엘레베이터/ncn
+
+타는곳에서
+	타는곳/ncn+에서/jca
+
+프론트
+	프론트/ncn
+
+쪽으로
+	쪽/ncn+으로/jca
+
+이동했던것
+	이동/ncpa+하/xsva+었/ep+던/etm+것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+워낙
+	워낙/mag
+
+늦은시간(밤
+	늦은시간(밤/ncn
+
+11시가
+	11/nnc+시/nbu+가/jcc
+
+넘어서)에
+	넘/pvg+어서/ecs+)/sr+에/jca
+
+도착한터라
+	도착/ncpa+하/xsva+ㄴ/etm+터/nbn+이/jp+라/ecs
+
+겁나게
+	겁나/pvg+게/ecs
+
+피곤해서
+	피곤/ncps+하/xsms+어서/ecs
+
+사진은
+	사진/ncn+은/jxc
+
+다음날
+	다음날/ncn
+
+아침
+	아침/ncn
+
+식사를
+	식사/ncpa+를/jco
+
+하고
+	하/pvg+고/ecc
+
+어슬렁거리며
+	어슬렁거리/pvg+며/ecc
+
+찍은
+	찍/pvg+은/etm
+
+사진인데요,
+	사진인데요/ncn+,/sp
+
+
+처음
+	처음/mag
+
+도착했을땐
+	도착했을땐/ncn
+
+뭐가
+	뭐/npd+가/jcc
+
+이렇게
+	이렇/pad+게/ecs
+
+복잡해
+	복잡/ncps+하/xsms+어/ecx
+
+?
+	?/sf
+
+
+싶었는데
+	싶/px+었/ep+는데/ecs
+
+아침에
+	아침/ncn+에/jca
+
+다시
+	다시/mag
+
+나와보니
+	나오/pvg+아/ecx+보/px+니/ecs
+
+전혀
+	전혀/mag
+
+복잡하지
+	복잡/ncps+하/xsms+지/ecx
+
+않더라구요
+	않/px+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+체크인
+	체크인/ncn
+
+후잠만
+	후잠만/ncn
+
+자고,
+	자/nbn+이/jp+고/ecc+,/sp
+
+아침식사,
+	아침식사/ncpa+,/sp
+
+체크아웃
+	체크아웃/ncpa
+
+딱
+	딱/mag
+
+요정도만
+	요정/ncn+도/jxc+만/jxc
+
+해봐서여긴
+	해봐서여긴/ncn
+
+어떻고,
+	어떻/pad+고/ecc+,/sp
+
+뭐하다~
+	뭐하/paa+다/ef+~/sd
+
+라는
+	라/ncn+는/jxc
+
+평가를
+	평가/ncpa+를/jco
+
+하기가
+	하/pvg+기/etn+가/jcs
+
+참
+	참/mag
+
+애매하긴
+	애매하긴/ncn
+
+하지만
+	하/pvg+지만/ecs
+
+...
+	.../se
+
+
+호텔에
+	호텔/ncn+에/jca
+
+들어갔을때의
+	들/pvg+어/ecx+가/px+아/ep+ㄹ/etm+때/nbn+의/jcm
+
+느낌이라던가
+	느끼/pvg+ㅁ/etn+이라/jca+이/jp+던가/ef
+
+호텔의
+	호텔/ncn+의/jcm
+
+규모,
+	규모/ncn+,/sp
+
+분위기,
+	분위기/ncn+,/sp
+
+호텔
+	호텔/ncn
+
+직원들의
+	직원/ncn+들/ncn+의/jcm
+
+표정,
+	표정/ncn+,/sp
+
+아침식사등을
+	아침식사/ncpa+등/ncn+을/jco
+
+봤을때'역시
+	봤을때'역시/ncn
+
+5성급
+	5성급/ncn
+
+호텔'이었어요
+	호텔/ncn+'/sr+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+게스트룸(트윈)
+	게스트룸/ncn+(/sl+트윈/ncn+)/sr
+
+
+우리가
+	우리/npp+가/jcs
+
+잠만
+	자/pvg+ㅁ/etn+만/jxc
+
+자고
+	자/nbn+이/jp+고/ecc
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카의
+	오사/ncn+카/ncn+의/jcm
+
+게스트룸
+	게스트/ncn+룸/ncn
+
+중
+	중/nbn
+
+트윈룸이예요
+	트윈룸/ncn+이/jp+예요/ef
+
+.
+	./sf
+
+
+룸
+	룸/ncn
+
+사이즈는
+	사이즈/ncn+는/jxc
+
+약30.0
+	약30.0/ncn
+
+m
+	m/f
+
+,
+	,/sp
+
+전망은
+	전망/ncn+은/jxc
+
+WTC
+	WTC/f
+
+코스모
+	코스/ncn+모/ncn
+
+타워,
+	타워/ncn+,/sp
+
+트윈이니
+	트윈/ncn+이/jp+니/ecs
+
+당연히
+	당연히/mag
+
+싱글사이즈
+	싱글/ncn+사이즈/ncn
+
+침대
+	침대/ncn
+
+두개,
+	두/nnc+개/nbu+,/sp
+
+미니바,
+	미니/ncn+바/ncn+,/sp
+
+무선인터넷(무료),
+	무선인터넷(무료),/ncn
+
+티테이블에
+	티테이블/ncn+에/jca
+
+의자두개,
+	의자/ncn+두개/ncn+,/sp
+
+
+TV,
+	TV/f+,/sp
+
+알람시계등
+	알람/ncn+시계/ncn+등/ncn
+
+없는거빼곤
+	없는거빼/ncn+이/jp+곤/ecs
+
+다
+	다/mag
+
+있구요
+	있구요/ncn
+
+...
+	.../se
+
+
+딱
+	딱/mag
+
+잠만
+	자/pvg+ㅁ/etn+만/jxc
+
+자고
+	자/nbn+이/jp+고/ecc
+
+나온터라
+	나오/pvg+ㄴ/etm+터/nbn+이/jp+라/ecs
+
+자세히
+	자세히/mag
+
+둘러보지
+	두르/pvg+어/ecx+보/px+지/ecx
+
+않아서
+	않/px+아/ecx
+
+홈페이지를
+	홈페이지/ncn+를/jco
+
+구석
+	구석/ncn
+
+구석
+	구석/ncn
+
+살펴봐도
+	살피/pvg+어/ecx+보/px+아/ecs
+
+룸에
+	룸/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+자세한
+	자세/ncn+한/ncn
+
+설명이
+	설명/ncpa+이/jcc
+
+없어서
+	없/paa+어서/ecs
+
+홈페이지
+	홈페이지/ncn
+
+공식가격이라던가
+	공식가격/ncn+이라/jca+이/jp+던가/ef
+
+
+등등의
+	등등/nbn+의/jcm
+
+기타
+	기타/ncn
+
+설명은
+	설명/ncpa+은/jxc
+
+못하겠어요
+	못하/px+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+사진에
+	사진/ncn+에/jca
+
+보이는것이
+	보이/pvg+는/etm+것/nbn+이/jcc
+
+전부
+	전부/mag
+
+?
+	?/sf
+
+
+;
+	;/sy
+
+심지어
+	심지어/mag
+
+전
+	전/nbn
+
+커피나
+	커피/ncn+나/jcj
+
+녹차
+	녹차/ncn
+
+티백이
+	티백/ncn+이/jcc
+
+있었는지도
+	있/px+었/ep+는지/ecs+도/jxc
+
+기억이
+	기억/ncpa+이/jcc
+
+안납니다
+	안납니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+침대가
+	침대/ncn+가/jcs
+
+눅눅하지
+	눅눅하/paa+지/ecx
+
+않고
+	않/px+고/ecc
+
+편했다는
+	편하/paa+었/ep+다/ef+는/etm
+
+정도,
+	정도/ncn+,/sp
+
+실내
+	실내/ncn
+
+공기가
+	공기/ncn+가/jcs
+
+쾌적하고
+	쾌적/ncps+하고/jct
+
+에어컨이
+	에어컨/ncn+이/jcc
+
+빵빵하게
+	빵빵하/ncn+이/jp+게/ecs
+
+잘나왔다는
+	잘나/paa+아/ecx+오/px+아/ep+다/ef+는/etm
+
+정도,
+	정도/ncn+,/sp
+
+요정도만
+	요정/ncn+도/jxc+만/jxc
+
+기억나요
+	기억나/pvg+아/ef+요/jxf
+
+.
+	./sf
+
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+게스트룸(트윈)
+	게스트룸(트윈)/ncn
+
+옷장
+	옷장/ncn
+
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+게스트룸(트윈)욕실
+	게스트룸(트윈)욕실/ncn
+
+겸
+	겸/nbn
+
+화장실
+	화장실/ncn
+
+
+객실문을열면
+	객실문을열면/ncn
+
+우측으로
+	우측/ncn+으로/jca
+
+옷장과
+	옷장/ncn+과/jcj
+
+좌측으로욕실
+	좌측으로욕실/ncn
+
+겸
+	겸/nbn
+
+화장실이
+	화장실/ncn+이/jcc
+
+있는데요,
+	있/px+는데/ef+요/jxf+,/sp
+
+옷장의
+	옷장/ncn+의/jcm
+
+문은
+	문/ncn+은/jxc
+
+전면
+	전면/ncn
+
+거울이라
+	거울/ncn+이/jp+라/ecs
+
+방이
+	방/ncn+이/jcc
+
+더
+	더/mag
+
+넓어
+	넓/paa+어/ecx
+
+보이더라구요
+	보이/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+옷장
+	옷장/ncn
+
+안엔
+	안/ncn+엔/jca
+
+개인
+	개/nbu+이/jp+ㄴ/etm
+
+금고와
+	금고/ncn+와/jcj
+
+두개의
+	두/nnc+개/nbu+의/jcm
+
+슬리퍼,
+	슬리퍼/ncn+,/sp
+
+여분의
+	여분/ncn+의/jcm
+
+화장지,
+	화장지/ncn+,/sp
+
+넉넉한
+	넉넉/ncps+하/xsms+ㄴ/etm
+
+옷걸이가
+	옷걸이/ncn+가/jcs
+
+준비되어
+	준비/ncpa+되/xsvn+어/ecx
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+욕실
+	욕실/ncn
+
+겸
+	겸/nbn
+
+화장실에는
+	화장실/ncn+에/jca+는/jxc
+
+세면대,
+	세면대/ncn+,/sp
+
+욕조,좌변기,
+	욕조/ncn+,/sp+좌변/ncn+기/ncn+,/sp
+
+목욕,
+	목욕/ncpa+,/sp
+
+페이스,
+	페이스/ncn+,/sp
+
+워시용
+	워시용/ncn
+
+타월,
+	타월/ncn+,/sp
+
+샴푸,
+	샴푸/ncn+,/sp
+
+린스,
+	린스,/ncn
+
+바디
+	바/nbn+이/jp+디/ecs
+
+솝,바디
+	솝,바디/ncn
+
+밀크,
+	밀크/ncn+,/sp
+
+칫솔,
+	칫솔/ncn+,/sp
+
+헤어브러시,
+	헤어브러시,/ncn
+
+면도기,
+	면도기/ncn+,/sp
+
+화장솜,
+	화장/ncn+솜/ncn+,/sp
+
+면봉,
+	면봉/ncn+,/sp
+
+
+헤어
+	헤/pvg+어/ecx
+
+드리이기
+	드리/ncn+이/jp+기/etn
+
+등
+	등/nbu
+
+샤워부스빼곤
+	샤워부스빼/ncn+이/jp+곤/ecs
+
+다
+	다/mag
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+디럭스룸엔
+	디럭스룸엔/ncn
+
+샤워부스가
+	샤워/ncpa+부스/ncn+가/jcs
+
+개별적으로
+	개별/ncn+적/ncn+으로/jca
+
+있고,
+	있/px+고/ecc+,/sp
+
+일반
+	일반/ncn
+
+게스트룸에서는
+	게스트/ncn+룸/ncn+에서/jca+는/jxc
+
+샤워커튼이
+	샤워/ncpa+커튼/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+욕조겸
+	욕조겸/ncn
+
+샤워부스가
+	샤워/ncpa+부스/ncn+가/jcs
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+약간의
+	약간/ncn+의/jcm
+
+특이사항은
+	특이/ncn+사항/ncn+은/jxc
+
+문이
+	문/ncn+이/jcc
+
+미닫이라는거
+	미닫이라는거/ncn
+
+?
+	?/sf
+
+
+WTC
+	WTC/f
+
+코스모
+	코스/ncn+모/ncn
+
+타워
+	타워/ncn
+
+바로
+	바로/mag
+
+옆이라
+	옆/ncn+이/jp+라/ecs
+
+전에
+	전/nbn+에/jca
+
+WTC
+	WTC/f
+
+전망대에서
+	전망대/ncn+에서/jca
+
+본
+	보/px+ㄴ/etm
+
+야경을
+	야경/ncn+을/jco
+
+생각하고
+	생각/ncpa+하고/jct
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카도
+	오사/ncn+카/ncn+도/jxc
+
+야경이
+	야경/ncn+이/jcc
+
+좋을꺼란
+	좋을꺼란/ncn
+
+기대를
+	기대/ncpa+를/jco
+
+한데다~
+	한데/ncn+이/jp+다/ef+~/sd
+
+
+배정
+	배정/ncpa
+
+받은
+	받/pvg+은/etm
+
+객실이
+	객실/ncn+이/jcc
+
+9층이라건물들에
+	9층이라건물들/ncn+에/jca
+
+가려
+	가리/pvg+어/ecx
+
+좋은
+	좋/paa+은/etm
+
+야경은
+	야경/ncn+은/jxc
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+없었어요
+	없/paa+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+바로
+	바로/mag
+
+앞
+	앞/ncn
+
+건물
+	건물/ncn
+
+너머
+	너머/ncn
+
+살짝
+	살짝/mag
+
+보이더라구요
+	보이/pvg+더라구/ef+요/jxf
+
+.
+	./sf
+
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+THE
+	THE/f
+
+BAY
+	BAY/f
+
+LOUNGE
+	LOUNGE/f
+
+
+간사이
+	간사/ncr+이/jcc
+
+여행
+	여행/ncpa
+
+와서
+	오/px+아/ecs
+
+마지막
+	마지막/ncn
+
+밤인데여행내내
+	밤인데여행내내/ncn
+
+그럴싸한
+	그럴싸하/paa+ㄴ/etm
+
+야경한번
+	야경한번/ncn
+
+못본터라
+	못본터라/ncn
+
+혹시호텔
+	혹시호텔/ncn
+
+탑층에
+	탑/ncn+층/xsncc+에/jca
+
+있는
+	있/px+는/etm
+
+라운지에
+	라운지/ncn+에/jca
+
+올라가면
+	오르/pvg+아/ecx+가/px+면/ecs
+
+더
+	더/mag
+
+멋진야경을
+	멋진야경/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있지
+	있/px+지/ecx
+
+않을까
+	않/px+을까/ef
+
+?
+	?/sf
+
+
+해서
+	하/pvg+어서/ecs
+
+라운지에
+	라운지/ncn+에/jca
+
+올라갔는데(야경사진만
+	올라갔는데(야경사진만/ncn
+
+찍으려고;)역시
+	찍으려고;)역시/ncn
+
+코앞에
+	코앞/ncn+에/jca
+
+있는WTC
+	있는WTC/ncn
+
+타워가
+	타워/ncn+가/jcs
+
+전망을
+	전망/ncn+을/jco
+
+가리더군요
+	가리/pvg+더군/ef+요/jxf
+
+.
+	./sf
+
+
+역시
+	역시/mag
+
+야경
+	야경/ncn
+
+사진은
+	사진/ncn+은/jxc
+
+전망대에서
+	전망대/ncn+에서/jca
+
+?
+	?/sf
+
+
+사진으로
+	사진/ncn+으로/jca
+
+찍기엔
+	찍/pvg+기/etn+엔/jca
+
+앞에
+	앞/ncn+에/jca
+
+큰
+	크/paa+ㄴ/etm
+
+건물이
+	건물/ncn+이/jcc
+
+있어서
+	있/px+어서/ecs
+
+가리지만
+	가리/pvg+지만/ecs
+
+그냥
+	그냥/mag
+
+눈으로
+	눈/ncn+으로/jca
+
+볼
+	보/pvg+ㄹ/etm
+
+때는
+	때/ncn+는/jxc
+
+오사카
+	오사/ncn+카/ncn
+
+항만지역의
+	항만/ncn+지역/ncn+의/jcm
+
+멋진
+	멋지/paa+ㄴ/etm
+
+야경을
+	야경/ncn+을/jco
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+라운지
+	라운지/ncn
+
+문
+	물/pvg+ㄴ/etm
+
+닫기
+	닫/pvg+기/etn
+
+1~20분
+	1/nnc+~/sd+20/nnc+분/nbu
+
+전에
+	전/nbn+에/jca
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+사진만
+	사진/ncn+만/jxc
+
+찍고
+	찍/pvg+고/ecc
+
+나와서
+	나오/pvg+아/ecx
+
+어떤
+	어떤/mmd
+
+메뉴,
+	메뉴/ncn+,/sp
+
+어떤
+	어떤/mmd
+
+주류가
+	주류/ncn+가/jcs
+
+있는진
+	있는진/ncn
+
+잘
+	잘/mag
+
+모르겠어요
+	모르/pvg+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+휴-
+	휴-/ncn
+
+정말
+	정말/mag
+
+긴
+	길/paa+ㄴ/etm
+
+하루였다는
+	하루/ncn+이/jp+었/ep+다/ef+는/etm
+
+.
+	./sf
+
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+The
+	The/f
+
+Cafe
+	Cafe/f
+
+
+체크인
+	체크인/ncn
+
+할
+	하/pvg+ㄹ/etm
+
+때
+	때/ncn
+
+받은
+	받/pvg+은/etm
+
+조식쿠폰으로
+	조식/ncpa+쿠폰/ncn+으로/jca
+
+이용한
+	이용/ncpa+하/xsva+ㄴ/etm
+
+The
+	The/f
+
+cafe.
+	cafe/f+./sf
+
+
+5성호텔답게
+	5성호텔답게/ncn
+
+갈끔하고
+	갈끔하/ncn+이/jp+고/ecc
+
+맛있는
+	맛있/paa+는/etm
+
+음식에
+	음식/ncn+에/jca
+
+친절함
+	친절/ncps+하/xsms+ㅁ/etn
+
+.
+	./sf
+
+
+독특한
+	독특/ncps+하/xsms+ㄴ/etm
+
+망고
+	망/ncn+고/jcj
+
+스무디와
+	스무디/ncn+와/jcj
+
+요거트들이
+	요거트들/ncn+이/jcc
+
+각각
+	각각/mag
+
+아기자기한
+	아기자기/ncn+한/ncn
+
+병에
+	병/nbu+에/jca
+
+담겨져있어
+	담겨지/pvg+어/ecx+있/px+어/ecx
+
+인상적이었어요
+	인상/ncn+적/ncn+이/jp+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+무료
+	무료/ncn
+
+셔틀))
+	셔틀/ncn+)/sr+)/sr
+
+
+JR
+	JR/f
+
+오사카역(사쿠라바시
+	오사카역(사쿠라바시/ncn
+
+출구)과
+	출구/ncn+)/sr+과/jcj
+
+호텔
+	호텔/ncn
+
+간
+	가/px+ㄴ/etm
+
+무료
+	무료/ncn
+
+셔틀
+	셔틀/ncn
+
+버스
+	버스/ncn
+
+(한신
+	(한신/ncn
+
+고속
+	고속/ncn
+
+도로
+	도/ncn+로/jca
+
+편도
+	편/nbn+도/jxc
+
+약
+	약/ncn
+
+25
+	25/nnc
+
+분
+	분/nbu
+
+30
+	30/nnc
+
+분
+	분/nbu
+
+간격)
+	간격/ncn+)/sr
+
+
+코스모스퀘어
+	코스모스퀘/ncn+이/jp+어/ecs
+
+역
+	역/mag
+
+및
+	및/maj
+
+호텔간
+	호텔/ncn+간/ncn
+
+무료
+	무료/ncn
+
+셔틀
+	셔틀/ncn
+
+버스
+	버스/ncn
+
+(편도
+	(/sl+편/nbu+도/jxc
+
+약
+	약/ncn
+
+5
+	5/nnc
+
+분
+	분/nbu
+
+15
+	15/nnc
+
+분
+	분/nbu
+
+간격)
+	간격/ncn+)/sr
+
+
+난바
+	나/px+ㄴ/etm+바/nbn
+
+OCAT
+	OCAT/f
+
+과
+	과/ncn
+
+호텔
+	호텔/ncn
+
+간
+	가/px+ㄴ/etm
+
+무료
+	무료/ncn
+
+셔틀
+	셔틀/ncn
+
+버스
+	버스/ncn
+
+(토,
+	(/sl+트/pvg+어/ecs+,/sp
+
+일,
+	일/nnc+,/sp
+
+공휴일에만
+	공휴일/ncn+에/jca+만/jxc
+
+편도
+	편/nbn+도/jxc
+
+약
+	약/ncn
+
+30
+	30/nnc
+
+분)
+	분/nbu+)/sr
+
+/2011.
+	//sp+2011./nnc
+
+07.
+	07./nnc
+
+25~09.
+	25/nnc+~/sd+09./nnc
+
+02까지
+	02/nnc+까지/jxc
+
+평일
+	평/nbu+이/jp+ㄹ/etm
+
+임시운행((16:15
+	임시운행((16:15/ncn
+
+~
+	~/sd
+
+마지막편)
+	마지막/ncn+편/ncn+)/sr
+
+
+우메다(JR오사카)역
+	우메다(JR오사카)역/ncn
+
+셔틀버스
+	셔틀버스/ncn
+
+타는
+	타/pvg+는/etm
+
+곳
+	곳/ncn
+
+난바
+	나/px+ㄴ/etm+바/nbn
+
+OCAT셔틀버스
+	OCAT/f+셔틀버스/ncn
+
+타는
+	타/pvg+는/etm
+
+곳
+	곳/nbu
+
+
+코스모스퀘어역셔틀버스
+	코스모스퀘어역셔틀버스/ncn
+
+타는
+	타/pvg+는/etm
+
+곳
+	곳/nbu
+
+
+당시에는
+	당시/ncn+에/jca+는/jxc
+
+고베에서
+	고베/ncn+에서/jca
+
+우메다,
+	우메다,/ncn
+
+우메다에서
+	우메다/ncn+에서/jca
+
+교토로
+	교토/ncn+로/jca
+
+가서
+	가/pvg+서/ecs
+
+하루종일
+	하루종일/ncn
+
+교토에서
+	교토/ncn+에서/jca
+
+시간을
+	시간/ncn+을/jco
+
+보낸
+	보내/pvg+ㄴ/etm
+
+후
+	후/ncn
+
+마지막
+	마지막/ncn
+
+셔틀을
+	셔틀/ncn+을/jco
+
+놓치고
+	놓치/pvg+고/ecc
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카로
+	오사/ncn+카/ncn+로/jca
+
+이동할때는
+	이동/ncpa+하/xsva+ㄹ/etm+때/nbn+는/jxc
+
+
+몸도
+	몸/ncn+도/jxc
+
+고단하고
+	고단/ncn+하고/jct
+
+지쳐서
+	지치/pvg+어서/ecs
+
+아-
+	아/ii+-/sd
+
+호텔
+	호텔/ncn
+
+위치
+	위치/ncn
+
+정말
+	정말/mag
+
+안좋다
+	안좋다/ncn
+
+!
+	!/sf
+
+
+라고
+	라/ncn+이/jp+고/ecc
+
+생각했었는데요,
+	생각/ncpa+하/xsva+었었/ep+는데요/ef+,/sp
+
+
+일주일정도
+	일주일/ncn+정도/ncn
+
+지나
+	지나/pvg+아/ecx
+
+생각하니
+	생각/ncpa+하/xsva+니/ecs
+
+간사이
+	간사/ncr+이/jcc
+
+국제공항에서
+	국제공항/ncn+에서/jca
+
+바로
+	바로/mag
+
+호텔로
+	호텔/ncn+로/jca
+
+가서
+	가/pvg+서/ecs
+
+체크인을
+	체크인/ncn+을/jco
+
+하고
+	하/pvg+고/ecc
+
+우메다역으로
+	우메다역/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+혹은
+	혹은/maj
+
+남바역으로
+	남바역/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+셔틀을
+	셔틀/ncn+을/jco
+
+타고
+	타/pvg+고/ecc
+
+나가
+	나/ncn+가/jcc
+
+
+간사이
+	간사/ncr+이/jcc
+
+여행을
+	여행/ncpa+을/jco
+
+시작한다면
+	시작/ncpa+하/xsva+ㄴ다면/ecs
+
+호텔이
+	호텔/ncn+이/jcc
+
+남바나
+	남바/ncn+나/jcj
+
+우메다가
+	우메다/ncn+가/jcs
+
+아닌
+	아니/paa+ㄴ/etm
+
+오사카
+	오사/ncn+카/ncn
+
+항만지역에
+	항만/ncn+지역/ncn+에/jca
+
+있어도
+	있/px+어도/ecs
+
+문제없겠다
+	문제/ncn+없/xsmn+겠/ep+다/ef
+
+싶어요
+	싶/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+개인적으로
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+루즈한
+	루즈/ncn+한/ncn
+
+여행을
+	여행/ncpa+을/jco
+
+즐기는터라
+	즐기/pvg+는/etm+터/nbn+이/jp+라/ecs
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+오사카
+	오사/ncn+카/ncn
+
+클럽
+	클럽/ncn
+
+룸에
+	룸/ncn+에/jca
+
+머물면서
+	머물/pvg+면서/ecc
+
+쉬엄
+	쉬엄/ncn
+
+쉬엄
+	쉬엄/ncn
+
+여행하고,
+	여행/ncpa+하고/jct+,/sp
+
+라운지에서
+	라운지/ncn+에서/jca
+
+해피아워도
+	해피/ncpa+아워/ncn+도/jxc
+
+즐기고하면
+	즐기/pvg+고/ecx+하/px+면/ecs
+
+
+좋을것
+	좋/paa+을/etm+것/nbn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+비즈니스센터나
+	비즈니스/ncn+센터/ncn+나/jcj
+
+기타
+	기타/ncn
+
+레스토랑
+	레스토랑/ncn
+
+연회장은
+	연회장/ncn+은/jxc
+
+안둘러봐서
+	안둘러봐서/ncn
+
+패스하구요,
+	패스/ncpa+하구/ncn+요/ncn+,/sp
+
+
+이상대충대충
+	이상/ncn+대충대충/ncpa
+
+둘러본
+	두르/pvg+어/ecx+보/px+ㄴ/etm
+
+오사카
+	오사/ncn+카/ncn
+
+하얏트
+	하얏트/ncn
+
+리젠시
+	리젠시/ncn
+
+리뷰를
+	리뷰/ncpa+를/jco
+
+마칩니다
+	마치/pvg+ㅂ니다/ef
+
+
+다음편은
+	다음/ncn+편/ncn+은/jxc
+
+윙버스
+	윙버스/ncn
+
+맛집타베로그
+	맛집타베로그/ncn
+
+맛집
+	맛집/ncn
+
+'비프테키
+	'비프테키/ncn
+
+카와무라요쇼쿠노
+	카와무라요쇼쿠노/ncn
+
+아사히'
+	아사히/ncn+'/sr
+
+편입니다
+	편/nbn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+:)
+	:/sp+)/sr
+
+
+이번
+	이/nnc+번/nbu
+
+'간사이
+	'/sr+간사/ncr+이/jcc
+
+원정대'
+	원정대/ncn+'/sr
+
+여행은
+	여행/ncpa+은/jxc
+
+하나투어와
+	하나투어/ncn+와/jcj
+
+JNTO(일본정부관광국)의
+	JNTO/f+(/sl+일본정부/ncn+관광국/ncn+)/sr+의/jcm
+
+협찬
+	협찬/ncpa
+
+지원을
+	지원/ncpa+을/jco
+
+받아
+	받/pvg+아/ecx
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf

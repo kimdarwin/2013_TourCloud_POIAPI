@@ -1,0 +1,1391 @@
+창경궁
+	창경궁/ncn
+
+옆
+	옆/ncn
+
+국립
+	국립/ncn
+
+서울
+	서울/ncn
+
+과학관에서
+	과학관/ncn+에서/jca
+
+진행되는
+	진행/ncpa+되/xsvn+는/etm
+
+뉴욕자연사박물관
+	뉴욕자연사박물관/ncn
+
+기후변화체험전을
+	기후변화/ncpa+체험/ncpa+전/ncn+을/jco
+
+
+지지난
+	지/px+지/ecx+나/px+ㄴ/etm
+
+토욜(18일)장마
+	토욜(18일)장마/ncn
+
+비속을
+	비속/ncpa+을/jco
+
+뚫고
+	뚫/pvg+고/ecc
+
+다녀왔습니다
+	다니/pvg+어/ecx+오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+장마철이라고는
+	장마철/ncn+이/jp+라/ef+고/jcr+는/jxc
+
+하지만느듯없이오는
+	하지만느듯없이오/ncn+는/jxc
+
+통에
+	통/nbn+에/jca
+
+속수무책
+	속수무책/ncn
+
+당한
+	당하/pvg+ㄴ/etm
+
+일도
+	일/ncn+도/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+두번이
+	두/nnc+번/nbu+이/jcc
+
+아닌데다
+	아니/paa+ㄴ/etm+데/nbn+이/jp+다/ef
+
+
+갑자기
+	갑자기/mag
+
+쏟아
+	쏟/pvg+아/ecx
+
+붓는
+	붓/pvg+는/etm
+
+장대비도
+	장대비/ncn+도/jxc
+
+올해
+	올해/ncn
+
+유난한거
+	유난한거/ncn
+
+같아
+	같/paa+아/ecs
+
+
+기후변화에
+	기후변화/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+체험,때마침
+	체험,때마침/ncn
+
+적당한
+	적당/ncps+하/xsms+ㄴ/etm
+
+시기가
+	시/nbu+이/jp+기/etn+가/jcs
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+싶었습니다
+	싶/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+성인
+	성/ncn+이/jp+ㄴ/etm
+
+10000원,
+	10000/nnc+원/nbu+,/sp
+
+초중고
+	초중고/ncn
+
+9000원인데
+	9000/nnc+원/nbu+이/jp+ㄴ데/ecs
+
+
+아빠
+	아빠/ncn
+
+1만명
+	1/nnc+만/nnc+명/nbu
+
+무료
+	무료/ncn
+
+이벤트
+	이벤트/ncn
+
+로
+	로/ncn
+
+아빠는
+	아빠/ncn+는/jxc
+
+무료
+	무료/ncn
+
+입장했고
+	입장/ncpa+하/xsva+었/ep+고/ecc
+
+
+스카우트
+	스카우트/ncpa
+
+단원증
+	단원증/ncn
+
+가져가면
+	가/pvg+아/ecx+지/px+어/ecx+가/px+면/ecs
+
+본인외
+	본/ncn+이/jp+ㄴ/etm+외/nbn
+
+1인까지
+	1/nnc+인/nbu+까지/jxc
+
+2000원
+	2000/nnc+원/nbu
+
+추가
+	추/ncn+가/jcs
+
+할인
+	할/nbu+이/jp+ㄴ/etm
+
+되어
+	되/pvg+어/ecs
+
+
+4인
+	4/nnc+이/jp+ㄴ/etm
+
+가족
+	가족/ncn
+
+,
+	,/sp
+
+22000원에
+	22000/nnc+원/nbu+에/jca
+
+입장할수
+	입장/ncpa+하/xsva+ㄹ/etm+수/nbn
+
+있었어요
+	있/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이번
+	이/nnc+번/nbu
+
+행사는
+	행사/ncpa+는/jxc
+
+KB국민은행과
+	KB/f+국민/ncn+은행/ncn+과/jct
+
+함께
+	함께/mag
+
+하는
+	하/pvg+는/etm
+
+프로그램으로
+	프로그램/ncn+으로/jca
+
+예약한지라
+	예약/ncpa+한지/ncn+라/ncn
+
+
+'좋은
+	'/sl+좋/paa+은/etm
+
+세상
+	세상/ncn
+
+바라기'선생님들과의
+	바라/pvg+기/etn+'/sr+선생님들/ncn+과의/jcm
+
+집결
+	집결/ncpa
+
+장소로
+	장소/ncn+로/jca
+
+먼저
+	먼저/mag
+
+갔습니다
+	가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+도슨트가
+	도슨트/ncn+가/jcs
+
+있어서
+	있/px+어서/ecs
+
+바라기
+	바라/pvg+기/etn
+
+선생님의
+	선생님/ncr+의/jcm
+
+소중한
+	소중/ncps+하/xsms+ㄴ/etm
+
+지식들을
+	지식/ncn+들/ncn+을/jco
+
+나눌
+	나누/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+저희는
+	저희/npp+는/jxc
+
+좋은
+	좋/paa+은/etm
+
+세상
+	세상/ncn
+
+바라기
+	바라/pvg+기/etn
+
+선생님들
+	선생님들/ncn
+
+중에서
+	중/nbn+에서/jca
+
+바퀴벌레선생님의
+	바퀴벌레/ncn+선생님/ncr+의/jcm
+
+열강을
+	열강/ncn+을/jco
+
+들을
+	들/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있었어요
+	있/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+열강
+	열강/ncn
+
+못지않게아이들도열공하는
+	못지않게아이들도열공하/ncn+는/jxc
+
+모습들이죠
+	모습/ncn+들이/ncn+이/jp+죠/ef
+
+?
+	?/sf
+
+
+[오래된
+	[/sl+오래/paa+어/ecx+되/px+ㄴ/etm
+
+공기방울]
+	공기방울/ncn+]/sr
+
+
+이
+	이/mmd
+
+세상의
+	세상/ncn+의/jcm
+
+모든
+	모든/mma
+
+얼음은
+	얼음/ncn+은/jxc
+
+마치
+	마치/mag
+
+타임캡슐과도
+	타임캡슐/ncn+과/jct+도/jxc
+
+같이
+	같/paa+이/xsa
+
+그것이
+	그것/npd+이/jcc
+
+생겨나던
+	생기/pvg+어/ecx+나/px+던/etm
+
+때의
+	때/ncn+의/jcm
+
+공기를
+	공기/ncn+를/jco
+
+간직하고
+	간직/ncpa+하고/jct
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+오늘날
+	오늘/ncn+날/ncn
+
+과학자들은
+	과학자/ncn+들/ncn+은/jxc
+
+빙핵
+	빙핵/ncn
+
+안에
+	안/ncn+에/jca
+
+층층이
+	층층/ncn+이/jcc
+
+쌓인
+	쌓이/pvg+ㄴ/etm
+
+공기방울들이
+	공기방울/ncn+들/ncn+이/jcc
+
+각기
+	각기/mag
+
+언제
+	언제/mag
+
+형성된
+	형성/ncpa+되/xsvn+ㄴ/etm
+
+것인지
+	것/nbn+이/jp+ㄴ지/ecs
+
+알
+	알/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다고
+	있/px+다/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+그것을
+	그것/npd+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+과거의
+	과거/ncn+의/jcm
+
+어떤
+	어떤/mmd
+
+시기에
+	시/nbu+이/jp+기/etn+에/jca
+
+대기
+	대/nbu+이/jp+기/etn
+
+중의
+	중/nbn+의/jcm
+
+이산화탄소가
+	이산화탄소/ncn+가/jcs
+
+얼마나
+	얼마나/mag
+
+들어
+	들/pvg+어/ecx
+
+있었는지
+	있/paa+었/ep+는지/ecc
+
+
+시간이
+	시간/ncn+이/jcc
+
+지날수록
+	지나/pvg+ㄹ수록/ecs
+
+이산화탄소
+	이산화탄소/ncn
+
+농도가
+	농도/ncn+가/jcs
+
+어떻게
+	어떻/pad+게/ecs
+
+변해왔는지도
+	변하/pvg+어/ecx+오/px+아/ep+는지/ecs+도/jxc
+
+알
+	알/pvg+ㄹ/etm
+
+수있다고
+	수/nbn+있/xsmn+다/ef+고/jcr
+
+해요
+	하/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+[붕괴는
+	[/sl+붕괴/ncpa+는/jxc
+
+이미
+	이미/mag
+
+시작되었다]
+	시작/ncpa+되/xsvn+었/ep+다/ef+]/sr
+
+
+얼음으로
+	얼음/ncn+으로/jca
+
+뒤덮인
+	뒤덮이/pvg+ㄴ/etm
+
+남극
+	남극/ncn
+
+대륙과
+	대륙/ncn+과/jcj
+
+북극
+	북극/ncn
+
+지방의
+	지방/ncn+의/jcm
+
+그린란드
+	그린란드/ncn
+
+섬
+	서/pvg+ㅁ/etn
+
+주위에서
+	주위/ncn+에서/jca
+
+
+녹지
+	녹/pvg+지/ecx
+
+않은
+	않/px+은/etm
+
+채
+	채/nbn
+
+바다에
+	바다/ncn+에/jca
+
+떠
+	뜨/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+거대한
+	거대/ncps+하/xsms+ㄴ/etm
+
+얼음
+	얼음/ncn
+
+덩어리를
+	덩어리/ncn+를/jco
+
+빙붕이라고
+	빙붕/ncn+이/jp+라/ef+고/jcr
+
+부르는데
+	부르/pvg+ㄴ데/ecs
+
+
+이
+	이/mmd
+
+얼음들이
+	얼음/ncn+들/ncn+이/jcc
+
+전부
+	전부/mag
+
+녹더라도
+	녹/pvg+더라도/ecs
+
+바닷물의
+	바닷물/ncn+의/jcm
+
+높이가
+	높이/ncn+가/jcs
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+것에는
+	것/nbn+에/jca+는/jxc
+
+직접적으로
+	직접/ncn+적/ncn+으로/jca
+
+영향을
+	영향/ncn+을/jco
+
+미치지
+	미치/pvg+지/ecx
+
+않는다고
+	않/px+는다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+왜냐
+	왜냐/ncn
+
+?
+	?/sf
+
+
+이
+	이/mmd
+
+얼음
+	얼음/ncn
+
+덩어리들은
+	덩어리/ncn+들/ncn+은/jxc
+
+
+이미
+	이미/mag
+
+바다에
+	바다/ncn+에/jca
+
+속해
+	속하/pvg+어/ecx
+
+있기
+	있/px+기/etn
+
+때문이라네요
+	때문/nbn+이라/jca+이/jp+네/ef+요/jxf
+
+.
+	./sf
+
+
+['술에
+	[/sl+'/sl+술/ncn+에/jca
+
+취한
+	취하/pvg+ㄴ/etm
+
+'
+	'/sr
+
+나무]
+	나무/ncn+]/sr
+
+
+술에
+	술/ncn+에/jca
+
+취한
+	취하/pvg+ㄴ/etm
+
+것처럼
+	것/nbn+처럼/jca
+
+이상한
+	이상/ncn+한/ncn
+
+각도로
+	각도/ncn+로/jca
+
+자라고
+	자/nbn+이/jp+라/ef+고/jcr
+
+있는
+	있/px+는/etm
+
+나무들은
+	나무/ncn+들/ncn+은/jxc
+
+북극
+	북극/ncn
+
+지방의
+	지방/ncn+의/jcm
+
+변화를
+	변화/ncpa+를/jco
+
+나타내는
+	나타내/pvg+는/etm
+
+하나의
+	하나/nnc+의/jcm
+
+상징으로
+	상징/ncpa+으로/jca
+
+
+땅
+	땅/ncn
+
+밑의
+	밑/ncn+의/jcm
+
+영구동토층이
+	영구/ncn+동토/ncn+층/ncn+이/jcc
+
+녹으면
+	녹/pvg+으면/ecs
+
+그
+	그/mmd
+
+위에
+	위/ncn+에/jca
+
+나무가
+	나무/ncn+가/jcs
+
+자라고
+	자/nbn+이/jp+라/ef+고/jcr
+
+있는
+	있/px+는/etm
+
+얼지
+	얼/pvg+지/ecx
+
+않은
+	않/px+은/etm
+
+토양이
+	토양/ncn+이/jcc
+
+울퉁불퉁하게
+	울퉁불퉁하/paa+게/ecs
+
+밑으로
+	밑/ncn+으로/jca
+
+꺼지면서
+	꺼지/pvg+면서/ecc
+
+
+나무들이
+	나무/ncn+들/ncn+이/jcc
+
+쓰러질듯이
+	쓰러지/pvg+ㄹ/etm+듯/nbs+이/jcc
+
+기울게
+	기울/pvg+게/ecs
+
+됩니다
+	되/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+영구동토층이
+	영구/ncn+동토/ncn+층/ncn+이/jcc
+
+얼어
+	얼/pvg+어/ecx
+
+있지
+	있/px+지/ecx
+
+않으면
+	않/px+으면/ecs
+
+물은
+	물/ncn+은/jxc
+
+빠르게
+	빠르/paa+게/ecs
+
+흙을
+	흙/ncn+을/jco
+
+통과해
+	통과/ncpa+하/xsva+어/ecx
+
+빠져나가
+	빠지/pvg+어/ecx+나/px+아/ecx+가/px+아/ecs
+
+
+여러
+	여러/mma
+
+지역들이
+	지역/ncn+들/ncn+이/jcc
+
+메마르고
+	메마르/pvg+고/ecc
+
+건조해
+	건조/ncpa+하/xsva+어/ecx
+
+질
+	지/px+ㄹ/etm
+
+것이라네요
+	것/nbn+이라/jca+이/jp+네/ef+요/jxf
+
+.
+	./sf
+
+
+[
+	[/sl
+
+빙하가
+	빙하/ncn+가/jcs
+
+녹고
+	녹/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+]
+	]/sr
+
+
+빙하가
+	빙하/ncn+가/jcs
+
+녹으면
+	녹/pvg+으면/ecs
+
+남극,
+	남극/ncn+,/sp
+
+북극에
+	북극/ncn+에/jca
+
+사는
+	사/pvg+는/etm
+
+곰이나
+	곰/ncn+이나/jcj
+
+펭귄은
+	펭귄/ncn+은/jxc
+
+살
+	사/pvg+ㄹ/etm
+
+곳이
+	곳/ncn+이/jcc
+
+없어진대요
+	없어진대요/ncn
+
+.
+	./sf
+
+
+녹고
+	녹/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+빙하로
+	빙하/ncn+로/jca
+
+멸종위기에
+	멸종위기/ncn+에/jca
+
+처한
+	처하/pvg+ㄴ/etm
+
+극지
+	극지/ncn
+
+동물들과
+	동물/ncn+들/ncn+과/jcj
+
+지구에
+	지구/ncn+에/jca
+
+처한
+	처하/pvg+ㄴ/etm
+
+위기를
+	위/ncn+이/jp+기/etn+를/jco
+
+함께
+	함께/mag
+
+느껴
+	느끼/pvg+어/ecx
+
+볼
+	보/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+시간이었습니다
+	시간/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+[산호초의
+	[/sl+산호/ncn+초/ncn+의/jcm
+
+위기]
+	위기/ncn+]/sr
+
+
+물고기의
+	물고기/ncn+의/jcm
+
+씨를
+	씨/ncn+를/jco
+
+말리는
+	말/px+리/ef+는/etm
+
+둥
+	둥/nbn
+
+바다
+	바다/ncn
+
+생태계를
+	생태계/ncn+를/jco
+
+파괴하는
+	파괴/ncpa+하/xsva+는/etm
+
+고기잡이,
+	고기잡이/ncn+,/sp
+
+그리고
+	그리고/maj
+
+바다로
+	바다/ncn+로/jca
+
+흘러들어
+	흘러들/pvg+어/ecx
+
+오는
+	오/ncn+는/jxc
+
+
+마구잡이
+	마구잡이/ncn
+
+개발의
+	개발/ncn+의/jcm
+
+쓰레기들
+	쓰레기/ncn+들/ncn
+
+때문에산호초는
+	때문에산호초/ncn+는/jxc
+
+병들고
+	병들/pvg+고/ecc
+
+약해졌다죠
+	약해졌다죠/ncn
+
+?
+	?/sf
+
+
+지난
+	지나/pvg+ㄴ/etm
+
+수십년
+	수십/nnc+년/nbu
+
+동안
+	동안/ncn
+
+전
+	전/nbn
+
+세계
+	세계/ncn
+
+산호초의
+	산호/ncn+초/ncn+의/jcm
+
+20퍼센트가
+	20퍼센트/ncn+가/jcs
+
+파괴되었고
+	파괴/ncn+되/xsvn+었/ep+고/ecc
+
+
+50퍼센트가
+	50퍼센트/ncn+가/jcs
+
+죽음의
+	죽음/ncn+의/jcm
+
+위기에
+	위/ncn+이/jp+기/etn+에/jca
+
+처해있다고
+	처하/pvg+어/ecx+있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+산호는
+	산호/ncn+는/jxc
+
+수많은
+	수많/paa+은/etm
+
+작은
+	작/paa+은/etm
+
+생명체들이
+	생명체/ncn+들/ncn+이/jcc
+
+모여서
+	모이/pvg+어서/ecs
+
+이루어진
+	이루/pvg+어/ecx+지/px+ㄴ/etm
+
+것인데
+	것/nbn+이/jp+ㄴ데/ecs
+
+바닷물의
+	바닷물/ncn+의/jcm
+
+온도가
+	온도/ncn+가/jcs
+
+높아져서
+	높/paa+아/ecx+지/px+어서/ecs
+
+스트레스를
+	스트레스/ncn+를/jco
+
+받고
+	받/pvg+고/ecc
+
+있고
+	있/paa+고/ecc
+
+
+산호와
+	산호/ncn+와/jct
+
+더불어
+	더불/pvg+어/ecx
+
+공생하는
+	공생/ncpa+하/xsva+는/etm
+
+조류들도
+	조류/ncn+들/ncn+도/jxc
+
+떨어져나가는
+	떨어지/pvg+어/ecx+나/px+아/ecx+가/px+는/etm
+
+바람에
+	바라/pvg+ㅁ/etn+에/jca
+
+산호초는
+	산호/ncn+초/ncn+는/jxc
+
+빛깔이
+	빛깔/ncn+이/jcc
+
+바래고
+	바래/pvg+고/ecc
+
+
+영양을
+	영양/ncn+을/jco
+
+섭취하지
+	섭취/ncpa+하/xsva+지/ecx
+
+못해
+	못하/pvg+어/ecx
+
+병이
+	병/nbu+이/jcc
+
+들고
+	들/pvg+고/ecc
+
+있다고
+	있/px+다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+이외에도
+	이외/ncn+에/jca+도/jxc
+
+많은
+	많/paa+은/etm
+
+볼거리와
+	볼거리/ncn+와/jct
+
+유익한
+	유익/ncps+하/xsms+ㄴ/etm
+
+내용들도
+	내용/ncn+들/ncn+도/jxc
+
+가득합니다
+	가득/ncps+하/xsms+ㅂ니다/ef
+
+.
+	./sf
+
+
+2층에서는
+	2/nnc+층/nbu+에서/jca+는/jxc
+
+위기에
+	위/ncn+이/jp+기/etn+에/jca
+
+처한
+	처하/pvg+ㄴ/etm
+
+지구를
+	지구/ncn+를/jco
+
+지킬
+	지키/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+생활습관은
+	생활습관/ncn+은/jxc
+
+무엇인지
+	무엇/npd+이/jp+ㄴ지/ecs
+
+알아보고
+	알아보/pvg+고/ecc
+
+
+집에서나
+	집/ncn+에서/jca+나/jxc
+
+학교에서
+	학교/ncn+에서/jca
+
+그리고
+	그리고/maj
+
+밖에서
+	밖/ncn+에서/jca
+
+쉽게
+	쉽/paa+게/ecs
+
+실천
+	실천/ncpa
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+습관에
+	습관/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+배워
+	배우/pvg+어/ecx
+
+볼수
+	보/px+ㄹ/etm+수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+좋은
+	좋/paa+은/etm
+
+세상
+	세상/ncn
+
+바라기
+	바라/pvg+기/etn
+
+선생님들과
+	선생님들/ncn+과/jct
+
+함께
+	함께/mag
+
+해
+	하/pvg+어/ecx
+
+본
+	보/px+ㄴ/etm
+
+시간을
+	시간/nbu+을/jco
+
+
+되세겨
+	되세겨/ncn
+
+보며
+	보/px+며/ecc
+
+'골든벨'도
+	'/sr+골든/ncn+벨/ncn+'/sr+도/jxc
+
+해보았답니다
+	하/pvg+어/ecx+보/px+아/ep+답니다/ef
+
+.
+	./sf
+
+
+건강한
+	건강/ncps+하/xsms+ㄴ/etm
+
+지구와
+	지구/ncn+와/jcj
+
+나를
+	나/npp+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+녹색
+	녹색/ncn
+
+자전거
+	자전거/ncn
+
+여행을
+	여행/ncpa+을/jco
+
+해볼
+	하/pvg+어/ecx+보/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+녹색
+	녹색/ncn
+
+에너지관도
+	에너지/ncn+관/ncn+도/jxc
+
+있어
+	있/paa+어/ecs
+
+
+동화
+	동화/ncn
+
+속
+	속/ncn
+
+그린웨이에서
+	그린/ncn+웨이/ncn+에서/jca
+
+자전거를
+	자전거/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+다니며
+	다니/pvg+며/ecc
+
+미래의
+	미래/ncn+의/jcm
+
+에너지에
+	에너지/ncn+에/jca
+
+대해
+	대/pvg+어/ecx+하/px+어/ecx
+
+알아보고
+	알아보/pvg+고/ecc
+
+
+산소만들기,
+	산소/ncn+만들기/ncn+,/sp
+
+나무심기등의
+	나무/ncn+심기/ncn+등/ncn+의/jcm
+
+재미있는
+	재미있/pvg+는/etm
+
+녹색
+	녹색/ncn
+
+여행을
+	여행/ncpa+을/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있어요
+	있/px+어/ef+요/jxf
+
+.
+	./sf
+
+
+이날풍부한
+	이날풍부한/ncn
+
+체험과
+	체험/ncpa+과/jct
+
+유익한
+	유익/ncps+하/xsms+ㄴ/etm
+
+지식만큼이나받아
+	지식만큼이나받아/ncn
+
+온
+	오/px+ㄴ/etm
+
+선물도
+	선물/ncn+도/jxc
+
+푸짐했어요
+	푸짐/ncps+하/xsms+었/ep+어/ef+요/jxf
+
+.
+	./sf

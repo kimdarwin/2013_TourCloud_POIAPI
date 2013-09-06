@@ -1,0 +1,445 @@
+장성
+	장성/ncn
+
+백양사
+	백양사/ncn
+
+(
+	(/sl
+
+)
+	)/sr
+
+
+전라남도
+	전라/ncn+남/ncn+도/jxc
+
+장성군
+	장성/ncn+군/ncn
+
+북하면(
+	북하면(/ncn
+
+)
+	)/sr
+
+약수리(
+	약수리(/ncn
+
+)
+	)/sr
+
+백암산(
+	백암산(/ncn
+
+)에
+	)/sr+에/jca
+
+있는
+	있/px+는/etm
+
+절로
+	절/ncn+로/jca
+
+.
+	./sf
+
+
+처음에는
+	처음/ncn+에/jca+는/jxc
+
+백암사라고
+	백암사/ncn+이/jp+라/ef+고/jcr
+
+하였으나
+	하/px+었/ep+으나/ecs
+
+.
+	./sf
+
+
+631년(무왕
+	631년(무왕/ncn
+
+32)
+	32/nnc+)/sr
+
+승려
+	승려/ncn
+
+여환(
+	여환(/ncn
+
+)이
+	)/sr+이/jcc
+
+창건하고,
+	창건/ncpa+하고/jcj+,/sp
+
+
+고려시대인
+	고려시대/ncn+이/jp+ㄴ/etm
+
+1034년(덕종
+	1034년(덕종/ncn
+
+3)
+	3/nnc+)/sr
+
+중연(
+	중연(/ncn
+
+)이
+	)/sr+이/jcc
+
+중창한
+	중창/ncpa+하/xsva+ㄴ/etm
+
+후
+	후/ncn
+
+정토사(
+	정토사(/ncn
+
+)라
+	)/sr+라/ncn
+
+개칭하였다
+	개칭/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+1574년(선조
+	1574년(선조/ncn
+
+7)
+	7/nnc+)/sr
+
+환양(
+	환양(/ncn
+
+)이
+	)/sr+이/jcc
+
+백양사라
+	백양사/ncn+이/jp+라/ecs
+
+이름하였다
+	이름하/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+당시
+	당시/ncn
+
+환양선사가
+	환양선사/ncn+가/jcs
+
+절에
+	절/ncn+에/jca
+
+머물면서
+	머물/pvg+면서/ecc
+
+염불을
+	염불/ncpa+을/jco
+
+하자
+	하/pvg+자/ecc
+
+흰
+	희/paa+ㄴ/etm
+
+양들이
+	양/ncn+들/xsncc+이/jcc
+
+몰려오는
+	몰리/pvg+어/ecx+오/px+는/etm
+
+일이
+	일/ncn+이/jcc
+
+자주
+	자주/mag
+
+일어나자
+	일어나/pvg+자/ecc
+
+
+이를
+	이/npd+를/jco
+
+보고
+	보/px+고/ecc
+
+사찰이름을
+	사찰/ncn+이름/ncn+을/jco
+
+백양사라고
+	백양사/ncn+이/jp+라/ef+고/jcr
+
+부르게
+	부르/pvg+게/ecs
+
+되었다고
+	되/pvg+었/ep+다/ef+고/jcr
+
+전한다
+	전하/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+석가모니의
+	석가모니/ncn+의/jcm
+
+진신사리(
+	진신사리(/ncn
+
+)가
+	)/sr+가/jcc
+
+안치되어
+	안치/ncpa+되/xsvn+어/ecx
+
+있는
+	있/px+는/etm
+
+9층탑이
+	9층탑/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+백양사
+	백양사/ncn
+
+쌍계루(
+	쌍계루(/ncn
+
+)
+	)/sr
+
+
+사천왕문(
+	사천왕문(/ncn
+
+)
+	)/sr
+
+
+백양사의
+	백양사/ncn+의/jcm
+
+정문인
+	정문/ncn+이/jp+ㄴ/etm
+
+사천왕문은
+	사천왕/ncn+문/ncn+은/jxc
+
+1917년
+	1917/nnc+년/nbu
+
+송만암에
+	송만암/ncn+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+절이
+	절/ncn+이/jcc
+
+크게
+	크/paa+게/ecs
+
+다시
+	다시/mag
+
+지어질
+	지/px+어/ecx+지/px+ㄹ/etm
+
+때
+	때/ncn
+
+5년에
+	5/nnc+년/nbu+에/jca
+
+걸쳐
+	걸치/pvg+어/ecx
+
+지어졌다
+	지/px+어/ecx+지/px+었/ep+다/ef
+
+.
+	./sf
+
+
+앞면
+	앞면/ncn
+
+5칸
+	5/nnc+칸/nbu
+
+옆면
+	옆면/ncn
+
+2칸
+	2/nnc+칸/nbu
+
+규모의
+	규모/ncn+의/jcm
+
+건물로,
+	건물/ncn+로/jca+,/sp
+
+지붕
+	지붕/ncn
+
+옆면이
+	옆면/ncn+이/jcc
+
+사람
+	사람/ncn
+
+인(
+	인(/ncn
+
+)자
+	)/sr+자/nbn
+
+모양의
+	모양/ncn+의/jcm
+
+맞배지붕집이다
+	맞배지붕집/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+가운데
+	가운데/ncn
+
+칸은
+	칸/nbu+은/jxc
+
+문으로
+	문/ncn+으로/jca
+
+사용하며,
+	사용/ncpa+하/xsva+며/ecc+,/sp
+
+문의
+	문/ncn+의/jcm
+
+양
+	양/ncn
+
+옆칸에는
+	옆/xp+칸/ncn+에/jca+는/jxc
+
+사천왕상이
+	사천왕/ncn+상/ncn+이/jcc
+
+모셔져
+	모시/pvg+어/ecx+지/px+어/ecx
+
+있는데,
+	있/paa+는데/ecs+,/sp
+
+
+사천왕은
+	사천왕/ncn+은/jxc
+
+불국토의
+	불국토/ncn+의/jcm
+
+사방을
+	사방/ncn+을/jco
+
+보호하며
+	보호/ncpa+하/xsva+며/ecc
+
+국가를
+	국가/ncn+를/jco
+
+수호하는
+	수호/ncpa+하/xsva+는/etm
+
+신을
+	신/ncn+을/jco
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+문의
+	문/ncn+의/jcm
+
+오른쪽에는
+	오르/pvg+ㄴ/etm+쪽/nbn+에/jca+는/jxc
+
+지국천왕과
+	지국/ncn+천왕/ncn+과/jcj
+
+증장천왕,
+	증장/ncpa+천왕/ncn+,/sp
+
+왼쪽에는
+	왼쪽/ncn+에/jca+는/jxc
+
+광목천왕과
+	광목/ncn+천왕/ncn+과/jcj
+
+다문천왕이
+	다문천왕/ncn+이/jcc
+
+모셔져
+	모시/pvg+어/ecx+지/px+어/ecx
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+밖에서
+	밖/ncn+에서/jca
+
+보면
+	보/px+면/ecs
+
+고불총림백양사(위),
+	고불총림백양사(위),/ncn
+
+안에서
+	안/ncn+에서/jca
+
+보면
+	보/px+면/ecs
+
+사천왕문(아래)
+	사천왕문/ncn+(/sl+아래/ncn+)/sr
+
+
+극락보전(
+	극락/ncn+보/ncn+전/xsnx+(/sl
+
+)
+	)/sr
+
+산신도
+	산신/ncn+도/jxc

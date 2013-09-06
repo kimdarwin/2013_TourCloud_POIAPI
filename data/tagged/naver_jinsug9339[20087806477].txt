@@ -1,0 +1,431 @@
+충남
+	충남/ncn
+
+아산시
+	아산시/ncn
+
+영인산
+	영인산/ncn
+
+어금니바위
+	어금니/ncn+바위/ncn
+
+기도터
+	기도/ncn+터/ncn
+
+
+영인산
+	영인산/ncn
+
+어금니바위는
+	어금니/ncn+바위/ncn+는/jxc
+
+아산시
+	아산시/ncn
+
+영인면
+	영인면/ncn
+
+수암사에서
+	수암사/ncn+에서/jca
+
+올라가는게
+	오르/pvg+아/ecx+가/px+는게/ecs
+
+쉽게
+	쉽/paa+게/ecs
+
+오를수있다
+	오르/pvg+ㄹ/etm+수/nbn+있/xsmn+다/ef
+
+.
+	./sf
+
+
+수암사
+	수암사/ncn
+
+산신각
+	산신/ncn+각/ncn
+
+옆으로
+	옆/ncn+으로/jca
+
+오르면
+	오르/pvg+면/ecs
+
+10분이면
+	10/nnc+분/nbu+이/jp+면/ecs
+
+넉넉히오를수있다
+	넉넉히오를수있다/ncn
+
+.
+	./sf
+
+
+(위)-어금니바위
+	(/sl+위/ncn+)/sr+-/sd+어금니/ncn+바위/ncn
+
+설명
+	설명/ncpa
+
+.
+	./sf
+
+
+(위)-어금니바위
+	(/sl+위/ncn+)/sr+-/sd+어금니/ncn+바위/ncn
+
+.
+	./sf
+
+
+수암사에서
+	수암사/ncn+에서/jca
+
+10분(사실은
+	10분(사실은/ncn
+
+10분도
+	10/nnc+분/nbu+도/jxc
+
+않걸린다
+	않걸린다/ncn
+
+.)
+	./sf+)/sr
+
+
+정도
+	정도/ncn
+
+오르면
+	오르/pvg+면/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+어금니바위가
+	어금니/ncn+바위/ncn+가/jcs
+
+나온다
+	나/pvg+아/ecx+오/px+ㄴ다/ef
+
+.
+	./sf
+
+
+(위)-어금니바위
+	(/sl+위/ncn+)/sr+-/sd+어금니/ncn+바위/ncn
+
+.
+	./sf
+
+
+어금니바위가
+	어금니/ncn+바위/ncn+가/jcs
+
+시작되는(아래에서부터)
+	시작되는(아래에서부터)/ncn
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+(위)-어금니바위
+	(/sl+위/ncn+)/sr+-/sd+어금니/ncn+바위/ncn
+
+.
+	./sf
+
+
+바위가
+	바위/ncn+가/jcs
+
+길게
+	길/paa+게/ecs
+
+늘어져
+	늘/pvg+어/ecx+지/px+어/ecx
+
+서있는
+	서/pvg+어/ecx+있/px+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+어금니처럼
+	어금니/ncn+처럼/jca
+
+생겼다고해서
+	생기/pvg+었/ep+다고/ecx+하/px+어서/ecs
+
+어금니바위라고
+	어금니/ncn+바위/ncn+이/jp+라/ef+고/jcr
+
+...
+	.../se
+
+
+(위)-어금니바위
+	(/sl+위/ncn+)/sr+-/sd+어금니/ncn+바위/ncn
+
+.
+	./sf
+
+
+(위)-어금니바위
+	(/sl+위/ncn+)/sr+-/sd+어금니/ncn+바위/ncn
+
+.
+	./sf
+
+
+(위)-어금니바위
+	(/sl+위/ncn+)/sr+-/sd+어금니/ncn+바위/ncn
+
+.
+	./sf
+
+
+중간에
+	중간/ncn+에/jca
+
+송곳니처럼
+	송곳니/ncn+처럼/jca
+
+우뚝솟은
+	우뚝솟/ncn+은/jxc
+
+바위가있다
+	바위가있다/ncn
+
+.
+	./sf
+
+
+(위)-어금니바위
+	(/sl+위/ncn+)/sr+-/sd+어금니/ncn+바위/ncn
+
+.
+	./sf
+
+
+송곳니처럼
+	송곳니/ncn+처럼/jca
+
+솟은
+	솟/pvg+은/etm
+
+바위아래
+	바위/ncn+아래/ncn
+
+제자님들이
+	제자/ncn+님/ncn+들/xsncc+이/jcc
+
+제물을놓고
+	제물을놓고/ncn
+
+기도를
+	기도/ncn+를/jco
+
+하기도한다
+	하기도한다/ncn
+
+.
+	./sf
+
+
+바위
+	바위/ncn
+
+중간에
+	중간/ncn+에/jca
+
+어느분이
+	어느분/ncn+이/jcc
+
+돌판에
+	돌/pvg+ㄹ/etm+판/nbn+에/jca
+
+글씨를
+	글씨/ncn+를/jco
+
+새겨서
+	새기/pvg+어서/ecs
+
+올려놓았다
+	올리/pvg+어/ecx+놓/px+아/ep+다/ef
+
+.
+	./sf
+
+
+(위)-어금니바위
+	(/sl+위/ncn+)/sr+-/sd+어금니/ncn+바위/ncn
+
+위.
+	위/nbu+./sf
+
+
+맨끝
+	맨끝/ncn
+
+위로해서
+	위로/ncpa+해서/ncn
+
+어금니바위
+	어금니/ncn+바위/ncn
+
+위로
+	위/ncn+로/jca
+
+올라갈수있다
+	오르/pvg+아/ecx+가/px+ㄹ/etm+수/nbn+있/xsmn+다/ef
+
+.
+	./sf
+
+
+(위)-어금니바위
+	(/sl+위/ncn+)/sr+-/sd+어금니/ncn+바위/ncn
+
+위.
+	위/nbu+./sf
+
+
+(위)-어금니바위
+	(/sl+위/ncn+)/sr+-/sd+어금니/ncn+바위/ncn
+
+맨끝(밑에서부터)
+	맨끝(밑에서부터)/ncn
+
+.
+	./sf
+
+
+-찬누리-
+	-찬누/ncn+이/jp+리/ef+-/sd
+
+
+이곳
+	이곳/npd
+
+어금니바위는
+	어금니/ncn+바위/ncn+는/jxc
+
+많은
+	많/paa+은/etm
+
+제자님들이
+	제자/ncn+님/ncn+들/xsncc+이/jcc
+
+찾는곳은
+	찾는곳/ncn+은/jxc
+
+아니지만
+	아니/paa+지/ecx+말/px+ㄴ/etm
+
+아산이
+	아산/ncn+이/jcc
+
+본향이거나
+	본향/ncn+이/jp+거나/ecc
+
+
+이곳을
+	이곳/npd+을/jco
+
+아는
+	알/pvg+는/etm
+
+제자님들이
+	제자/ncn+님/ncn+들/xsncc+이/jcc
+
+가끔
+	가끔/mag
+
+찾아서
+	찾/pvg+아/ecx
+
+인사드리고
+	인사드리/pvg+고/ecc
+
+기도하는
+	기도/ncpa+하/xsva+는/etm
+
+곳입니다
+	곳/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+아래에는
+	아래/ncn+에/jca+는/jxc
+
+수암사가있고~
+	수암사가있/ncn+고/jcj+~/sd
+
+
+윗쪽
+	윗쪽/ncn
+
+오른쪽
+	오르/pvg+ㄴ/etm+쪽/nbn
+
+아래에는
+	아래/ncn+에/jca+는/jxc
+
+영인산
+	영인산/ncn
+
+할배굿당이
+	할배굿당/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+영인산
+	영인산/ncn
+
+어금니바위에
+	어금니/ncn+바위/ncn+에/jca
+
+오르려면
+	오르/pvg+려면/ecs
+
+수암사
+	수암사/ncn
+
+산신각
+	산신/ncn+각/ncn
+
+옆으로
+	옆/ncn+으로/jca
+
+오르면
+	오르/pvg+면/ecs
+
+10분
+	10/nnc+분/nbu
+
+이내에
+	이내/ncn+에/jca
+
+오를수
+	오르/pvg+ㄹ/etm+수/nbn
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf

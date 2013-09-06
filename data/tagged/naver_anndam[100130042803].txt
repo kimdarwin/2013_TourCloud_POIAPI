@@ -1,0 +1,4390 @@
+석굴암
+	석굴암/ncn
+
+-
+	-/sd
+
+경주여행
+	경주/ncpa+여행/ncpa
+
+필수코스,
+	필수/ncn+코스/ncn+,/sp
+
+석굴암
+	석굴암/ncn
+
+
+경주시
+	경주시/ncn
+
+진현동,
+	진현동,/ncn
+
+구불한
+	구불한/ncn
+
+토함산
+	토함산/ncn
+
+고갯길을
+	고갯길/ncn+을/jco
+
+오르면
+	오르/pvg+면/ecs
+
+석굴암에
+	석굴암/ncn+에/jca
+
+닿습니다
+	닿/pvg+습니다/ef
+
+.
+	./sf
+
+
+석굴암에서는
+	석굴암/ncn+에서/jca+는/jxc
+
+석굴암
+	석굴암/ncn
+
+본존불상을
+	본존불상/ncn+을/jco
+
+보고
+	보/px+고/ecc
+
+담고
+	담/pvg+고/ecc
+
+싶은
+	싶/px+은/etm
+
+맘이
+	말/px+ㅁ/etn+이/jcs
+
+컸는데
+	크/paa+었/ep+는데/ecs
+
+사진을
+	사진/ncn+을/jco
+
+찍을
+	찍/pvg+을/etm
+
+수가
+	수/nbn+가/jcc
+
+없어서
+	없/paa+어서/ecs
+
+무척
+	무척/mag
+
+아쉬웠습니다
+	아쉽/paa+었/ep+습니다/ef
+
+.
+	./sf
+
+
+보호막을
+	보호/ncpa+막/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+보는
+	보/px+는/etm
+
+것도
+	것/nbn+도/jxc
+
+아쉬웠건만
+	아쉽/paa+었/ep+건/ecs+만/jxc
+
+석굴암본존불상
+	석굴암/ncn+본존불상/ncn
+
+사진까지
+	사진/ncn+까지/jxc
+
+담지를
+	담/pvg+지를/ecs
+
+못해
+	못하/pvg+어/ecx
+
+뭔가
+	뭔가/ncn
+
+허전함
+	허전/ncps+하/xsms+ㅁ/etn
+
+.
+	./sf
+
+
+토함산
+	토함산/ncn
+
+중턱에
+	중턱/ncn+에/jca
+
+백색의
+	백색/ncn+의/jcm
+
+화강암을
+	화강암/ncn+을/jco
+
+이용
+	이용/ncpa
+
+인위적으로
+	인위/ncn+적/ncn+으로/jca
+
+석굴을
+	석굴/ncn+을/jco
+
+만들고
+	만들/pvg+고/ecc
+
+내부엔
+	내부/ncn+엔/jca
+
+본존불인
+	본존불/ncn+이/jp+ㄴ/etm
+
+석가여래불상을
+	석가여래불상/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+보살상,
+	보살상/ncn+,/sp
+
+제자상,
+	제자/ncn+상/xsncc+,/sp
+
+역사상,
+	역사상/ncn+,/sp
+
+천왕상
+	천왕/ncn+상/ncn
+
+등
+	등/nbu
+
+불상을
+	불상/ncn+을/jco
+
+조각해
+	조각/ncn+해/ncn
+
+놓은
+	놓/px+은/etm
+
+곳.
+	곳/ncn+./sf
+
+국보이자
+	국보/ncn+이/jp+자/ecc
+
+유네스코
+	유네스코/ncn
+
+세계문화유산으로
+	세계문화유산/ncn+으로/jca
+
+등록된
+	등록/ncpa+되/xsvn+ㄴ/etm
+
+석굴,
+	석굴/ncn+,/sp
+
+석굴암에대하여
+	석굴암에대하/ncn+이/jp+어/ecs
+
+별
+	별/mma
+
+할말이
+	할말/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+그날의풍경을
+	그날의풍경/ncn+을/jco
+
+따라갑니다
+	따르/pvg+아/ecx+가/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+석굴암
+	석굴암/ncn
+
+본존불의
+	본존불/ncn+의/jcm
+
+고요한
+	고요/ncps+하/xsms+ㄴ/etm
+
+얼굴도아이들의
+	얼굴도아이들/ncn+의/jcm
+
+재잘거림에
+	재잘거리/pvg+ㅁ/etn+에/jca
+
+미소짓고
+	미소짓/pvg+고/ecc
+
+
+신라
+	신/xp+라/ncn
+
+천년의
+	천/nnc+년/nbu+의/jcm
+
+역사가
+	역사/ncn+가/jcs
+
+빚은
+	빚/pvg+은/etm
+
+작품,
+	작품/ncn+,/sp
+
+마음에
+	마음/ncn+에/jca
+
+닿기는더
+	닿기는더/ncn
+
+힘드네요
+	힘들/pvg+네요/ef
+
+
+경주여행
+	경주/ncpa+여행/ncpa
+
+하면
+	하/pvg+면/ecs
+
+으레
+	으레/mag
+
+들리는
+	들리/pvg+는/etm
+
+필수코스가
+	필수/ncn+코스/ncn+가/jcs
+
+있지요
+	있/px+지/ef+요/jxf
+
+.
+	./sf
+
+
+첨성대,
+	첨성대,/ncn
+
+천마총,안압지,
+	천마/ncn+총/ncn+,/sp+안압지/ncn+,/sp
+
+불국사,
+	불국사,/ncn
+
+석굴암,
+	석굴암/ncn+,/sp
+
+보문단지,
+	보문단지,/ncn
+
+..
+	./sf+./sf
+
+
+등
+	등/nbu
+
+그리고
+	그리고/maj
+
+경주를
+	경주/ncpa+를/jco
+
+떠올리면
+	뜨/pvg+어/ecx+오/px+ㄹ/etm+리/nbn+이/jp+면/ecs
+
+수학여행을
+	수학여행/ncn+을/jco
+
+다녀온
+	다니/pvg+어/ecx+오/px+ㄴ/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+각인되기도
+	각인/ncn+되기/ncn+도/jxc
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+경주에
+	경주/ncpa+에/jca
+
+사는
+	사/pvg+는/etm
+
+우리는
+	우리/npp+는/jxc
+
+오히려
+	오히려/mag
+
+과천,
+	과천,/ncn
+
+설악산
+	설악/ncn+산/ncn
+
+..
+	./sf+./sf
+
+
+등
+	등/nbu
+
+다른
+	다른/mma
+
+지역으로
+	지역/ncn+으로/jca
+
+수학여행을
+	수학여행/ncn+을/jco
+
+다니곤
+	다니/pvg+곤/ecs
+
+했었는데요
+	하/px+었었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그래도
+	그래도/maj
+
+소풍은
+	소풍/ncpa+은/jxc
+
+늘
+	늘/mag
+
+아까운
+	아깝/paa+은/etm
+
+릉을
+	릉/ncn+을/jco
+
+찾아가거나
+	찾/pvg+아/ecx+가/px+거나/ecc
+
+했었기에
+	하/px+었었/ep+기/etn+에/jca
+
+경주
+	경주/ncpa
+
+왠만한
+	왠만한/ncn
+
+곳
+	곳/ncn
+
+다
+	다/mag
+
+가보지
+	가/pvg+아/ecx+보/px+지/ecx
+
+않았을까
+	않/px+아/ep+ㄹ까/ecs
+
+싶었는데
+	싶/px+었/ep+는데/ecs
+
+...
+	.../se
+
+
+이번
+	이/nnc+번/nbu
+
+경주여행에서
+	경주/ncpa+여행/ncpa+에서/jca
+
+석굴암을
+	석굴암/ncn+을/jco
+
+가보고는
+	가/pvg+아/ecx+보/px+고/ecs+는/jxc
+
+이곳은
+	이곳/npd+은/jxc
+
+첨이구나라는
+	첨/ncn+이/jp+구나/ef+라는/etm
+
+생각이
+	생각/ncpa+이/jcc
+
+들었어요
+	들/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+어릴때
+	어리/paa+ㄹ/etm+때/nbn
+
+와봤던거
+	와봤던거/ncn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+길이
+	길/ncn+이/jcc
+
+너무
+	너무/mag
+
+생소한
+	생소/ncps+하/xsms+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+아무래도
+	아무렇/pad+어도/ecs
+
+기억에서
+	기억/nnc+에서/jca
+
+사라졌거나
+	사라지/pvg+었/ep+거나/ecc
+
+와보지
+	오/pvg+아/ecx+보/px+지/ecx
+
+않았던
+	않/px+아/ep+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+석굴암에
+	석굴암/ncn+에/jca
+
+대하여
+	대/pvg+어/ecx+하/px+어/ecx
+
+많이
+	많/paa+이/xsa
+
+들었지만
+	들/pvg+었/ep+지만/ecs
+
+정작
+	정작/mag
+
+본존불은
+	본존불/ncn+은/jxc
+
+모습은
+	모습/ncn+은/jxc
+
+교과서
+	교과서/ncn
+
+속
+	속/ncn
+
+사진으로만
+	사진/ncn+으로/jca+만/jxc
+
+기억되는
+	기억/nnc+되/nbu+는/jxc
+
+걸로
+	걸/ncn+로/jca
+
+보아서
+	보/pvg+아/ecx
+
+첫방문이다
+	첫방문이다/ncn
+
+생각하고
+	생각/ncpa+하고/jct
+
+길을
+	길/ncn+을/jco
+
+따라갔습니다
+	따르/pvg+아/ecx+가/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+석굴암으로
+	석굴암/ncn+으로/jca
+
+가는
+	가/pvg+는/etm
+
+토함산
+	토함산/ncn
+
+자락길은
+	자락/ncn+길/ncn+은/jxc
+
+구불구불한
+	구불구불하/paa+ㄴ/etm
+
+도로가
+	도로/ncn+가/jcs
+
+계속되었습니다
+	계속/ncpa+되/xsvn+었/ep+습니다/ef
+
+.
+	./sf
+
+
+집중하고
+	집중/ncpa+하고/jct
+
+있으면
+	있/px+으면/ecs
+
+멀미하기
+	멀미/ncn+하기/ncn
+
+딱
+	딱/mag
+
+좋은
+	좋/paa+은/etm
+
+길.
+	길/ncn+./sf
+
+그저
+	그저/mag
+
+눈감고
+	눈감/pvg+고/ecc
+
+도착하기를
+	도착/ncpa+하/xsva+기/etn+를/jco
+
+기다리는
+	기다리/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+상책이다
+	상책/ncn+이/jp+다/ef
+
+싶더군요
+	싶/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+주차장에
+	주차장/ncn+에/jca
+
+내려서니
+	내려서/pvg+니/ecs
+
+이날도
+	이/nnc+날/nbu+도/jxc
+
+안개가
+	안개/ncn+가/jcs
+
+자욱
+	자욱/ncn
+
+...
+	.../se
+
+
+도대체
+	도대체/mag
+
+요즘
+	요즘/mag
+
+날씨에서
+	날씨/ncn+에서/jca
+
+안개가
+	안개/ncn+가/jcs
+
+빠지면
+	빠지/pvg+면/ecs
+
+뭔가
+	뭔가/ncn
+
+허전한건가요
+	허전/ncps+하/xsms+ㄴ/etm+것/nbn+이/jp+ㄴ가/ef+요/jxf
+
+.
+	./sf
+
+
+분위기는
+	분위기/ncn+는/jxc
+
+좋은데
+	좋/paa+은/etm+데/nbn
+
+안개도
+	안개/ncn+도/jxc
+
+이제
+	이제/mag
+
+식상해지려고
+	식상/ncpa+하/xsva+어/ecx+지/px+려고/ecs
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+석굴암
+	석굴암/ncn
+
+매표소에서
+	매표소/ncn+에서/jca
+
+안쪽까지
+	알/pvg+ㄴ/etm+쪽/nbn+까지/jxc
+
+걸어들어가는
+	걸어들어가/ncn+는/jxc
+
+길은
+	길/ncn+은/jxc
+
+참
+	참/mag
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+들었어요
+	들/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+우거진
+	우거/ncpa+진/ncn
+
+나무가
+	나무/ncn+가/jcs
+
+만들어
+	만들/pvg+어/ecx
+
+주는
+	주/px+는/etm
+
+그림자아래로
+	그림자/ncn+아래/ncn+로/jca
+
+흙길을
+	흙길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+구불하게
+	구불하/ncn+이/jp+게/ecs
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+길이
+	길/ncn+이/jcc
+
+참
+	참/mag
+
+좋았는데요
+	좋/paa+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+막상
+	막상/mag
+
+석굴암
+	석굴암/ncn
+
+앞마당으로
+	앞마당/ncn+으로/jca
+
+들어서니
+	들어서/pvg+니/ecs
+
+수학여행
+	수학여행/ncn
+
+온
+	오/px+ㄴ/etm
+
+아이들
+	아이/ncn+들/ncn
+
+천국입니다
+	천국/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+시끌시끌
+	시끌시끌/ncn
+
+...
+	.../se
+
+
+석굴암에
+	석굴암/ncn+에/jca
+
+수학여행단이
+	수학여행/ncn+단/ncn+이/jcc
+
+없으면
+	없/paa+으면/ecs
+
+절간이겠구나
+	절간/ncn+이/jp+겠/ep+구나/ef
+
+싶더군요
+	싶/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+줄을
+	줄/nbn+을/jco
+
+서서
+	서/pvg+어서/ecs
+
+석굴암
+	석굴암/ncn
+
+본존불
+	본존불/ncn
+
+관람하는
+	관람/ncpa+하/xsva+는/etm
+
+아이들
+	아이/ncn+들/ncn
+
+틈을
+	틈/ncn+을/jco
+
+헤집고
+	헤집고/ncn
+
+들어갔는데요
+	들/pvg+어/ecx+가/px+아/ep+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+보호창
+	보호/ncpa+창/ncn
+
+안에
+	안/ncn+에/jca
+
+있다는
+	있/px+다/ef+는/etm
+
+이야기는
+	이야기/ncpa+는/jxc
+
+들어서
+	들/pvg+어서/ecs
+
+그리고
+	그리고/maj
+
+사진으로
+	사진/ncn+으로/jca
+
+담은걸
+	담은걸/ncn
+
+보았기에
+	보/px+아/ep+기/etn+에/jca
+
+알고
+	알/pvg+고/ecx
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+생각보다
+	생각/ncpa+보다/jca
+
+작은
+	작/paa+은/etm
+
+규모에
+	규모/ncn+에/jca
+
+안쪽으로
+	알/pvg+ㄴ/etm+쪽/nbn+으로/jca
+
+접금이
+	접금/ncn+이/jcc
+
+안되니
+	안되/paa+니/ecs
+
+위엄이
+	위엄/ncn+이/jcc
+
+덜한
+	덜하/paa+ㄴ/etm
+
+듯.
+	듯/nbs+./sf
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+사진촬영도
+	사진촬영/ncpa+도/jxc
+
+금지되어
+	금지/ncpa+되/xsvn+어/ecx
+
+있어서
+	있/px+어서/ecs
+
+그저
+	그저/mag
+
+멀뚱히
+	멀뚱히/mag
+
+바라만
+	바라/pvg+아/ecx+말/px+ㄴ/etm
+
+보았었어요
+	보/px+았었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+통일신라
+	통일신라/ncn
+
+찬란한
+	찬란/ncn+한/ncn
+
+불교문화의
+	불교문화/ncn+의/jcm
+
+결정체라고
+	결정체/ncn+이/jp+라/ef+고/jcr
+
+할
+	하/pvg+ㄹ/etm
+
+만한
+	만/nnc+한/nnc
+
+작품을
+	작품/ncn+을/jco
+
+앞에
+	앞/ncn+에/jca
+
+두고
+	두/pvg+고/ecc
+
+가까이
+	가까이/mag
+
+가보기는
+	가/pvg+아/ecx+보/px+기/etn+는/jxc
+
+커녕
+	커녕/ncn
+
+바라만
+	바/nbn+이/jp+라/ecs+만/jxc
+
+보고
+	보/px+고/ecc
+
+있으니
+	있/px+으니/ecs
+
+뭔가
+	뭔가/ncn
+
+허전한
+	허전/ncps+하/xsms+ㄴ/etm
+
+듯한
+	듯/nbn+하/pvg+ㄴ/etm
+
+느낌은
+	느끼/pvg+ㅁ/etn+은/jxc
+
+무엇인지
+	무엇/npd+이/jp+ㄴ지/ecs
+
+..
+	./sf+./sf
+
+
+^^
+	^/sy+^/sy
+
+
+경주여행에서
+	경주/ncpa+여행/ncpa+에서/jca
+
+빼놓을
+	빼/pvg+어/ecx+놓/px+을/etm
+
+수
+	수/nbn
+
+없는
+	없/paa+는/etm
+
+필수코스
+	필수/ncn+코스/ncn
+
+석굴암,
+	석굴암/ncn+,/sp
+
+그곳의
+	그곳/ncn+의/jcm
+
+어느날
+	어느날/npd
+
+분위기를
+	분위기/ncn+를/jco
+
+보시겠습니다
+	보/px+시겠/ep+습니다/ef
+
+.
+	./sf
+
+
+마리안의
+	마리/nbu+안/xsnx+의/jcm
+
+여행이야기-마음이
+	여행/ncpa+이야기/ncpa+-/sd+마음/ncn+이/jcc
+
+머무는
+	머물/pvg+는/etm
+
+이곳
+	이곳/npd
+
+
+(여행일:
+	(/sl+여행/ncpa+이/jp+ㄹ/etm+:/sp
+
+2011.
+	2011./nnc
+
+06.
+	06./nnc
+
+03)
+	03/nnc+)/sr
+
+
+석굴암
+	석굴암/ncn
+
+초입입니다
+	초입/ncpa+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+갑자기
+	갑자기/mag
+
+불어온
+	불/pvg+어/ecx+오/px+ㄴ/etm
+
+바람은
+	바라/pvg+ㅁ/etn+은/jxc
+
+안개를
+	안개/ncn+를/jco
+
+끌어안고
+	끌어안/pvg+고/ecc
+
+왔더군요
+	오/px+아/ep+군/ef+요/jxf
+
+.
+	./sf
+
+
+자욱한
+	자욱/ncn+한/ncn
+
+안개가
+	안개/ncn+가/jcs
+
+주변을
+	주변/ncn+을/jco
+
+감싸고
+	감싸/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+석굴암은
+	석굴암/ncn+은/jxc
+
+국보
+	국보/ncn
+
+제24호로
+	제24호/ncn+로/jca
+
+통일신라시대
+	통일신라시대/ncn
+
+경주
+	경주/ncpa
+
+토함산에
+	토함산/ncn+에/jca
+
+세워진
+	세우/pvg+어/ecx+지/px+ㄴ/etm
+
+한국의
+	한국의/ncn
+
+대표적인
+	대표/ncpa+적/ncn+이/jp+ㄴ/etm
+
+석굴사찰입니다
+	석굴/ncn+사찰/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+신라
+	신/xp+라/ncn
+
+경덕왕
+	경덕왕/ncn
+
+10년
+	10/nnc+년/nbu
+
+751년에
+	751/nnc+년/nbu+에/jca
+
+당시
+	당시/ncn
+
+재상이었던
+	재상/ncn+이/jp+었/ep+던/etm
+
+김대성이
+	김대성/ncn+이/jcc
+
+현세의
+	현세/ncn+의/jcm
+
+부모를
+	부모/ncn+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+불국사를
+	불국사/ncn+를/jco
+
+짓고,
+	짓/pvg+고/ecc+,/sp
+
+전세의
+	전세/ncn+의/jcm
+
+부모를
+	부모/ncn+를/jco
+
+위해
+	위하/pvg+어/ecx
+
+석불암을
+	석불/ncn+암/ncn+을/jco
+
+창건하였다고
+	창건/ncpa+하/xsva+었/ep+다고/ecs
+
+
+전해집니다
+	전하/pvg+어/ecx+지/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+창건이후혜공왕
+	창건이후혜공왕/ncn
+
+10년
+	10/nnc+년/nbu
+
+774년에
+	774/nnc+년/nbu+에/jca
+
+완성하였으며
+	완성/ncpa+하/xsva+었/ep+으며/ecc
+
+건립
+	건립/ncpa
+
+당시에는
+	당시/ncn+에/jca+는/jxc
+
+석불사라고
+	석불사/ncn+이/jp+라/ef+고/jcr
+
+하였답니다
+	하/px+었/ep+답니다/ef
+
+.
+	./sf
+
+
+경덕왕은
+	경덕왕/ncn+은/jxc
+
+신라
+	신/xp+라/ncn
+
+중기의
+	중기/ncn+의/jcm
+
+임금으로
+	임금/ncn+으로/jca
+
+
+그의
+	그/npp+의/jcm
+
+재위기간
+	재위기/ncn+간/ncn
+
+동안
+	동안/ncn
+
+신라의
+	신/xp+라/ncn+의/jcm
+
+불교예술이
+	불교예술/ncn+이/jcc
+
+전성기를
+	전성/ncpa+기/ncn+를/jco
+
+이루게
+	이루/pvg+게/ecs
+
+되는데요,
+	되/paa+ㄴ데요/ef+,/sp
+
+
+석굴암
+	석굴암/ncn
+
+외에도
+	외/nbn+에/jca+도/jxc
+
+불국사,
+	불국사,/ncn
+
+다보탑,
+	다보탑,/ncn
+
+석가탑,
+	석가탑,/ncn
+
+황룡사종
+	황룡/ncn+사종/ncn
+
+등
+	등/nbu
+
+많은
+	많/paa+은/etm
+
+문화재이
+	문화재/ncn+이/jcc
+
+이때
+	이때/ncn
+
+만들어졌습니다
+	만들/pvg+어/ecx+지/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+토함산
+	토함산/ncn
+
+중턱에
+	중턱/ncn+에/jca
+
+백색의
+	백색/ncn+의/jcm
+
+화강암을
+	화강암/ncn+을/jco
+
+이용해
+	이용/ncpa+하/xsva+어/ecx
+
+인위적으로
+	인위/ncn+적/ncn+으로/jca
+
+석굴을
+	석굴/ncn+을/jco
+
+만들고
+	만들/pvg+고/ecc
+
+내부공간에
+	내부공간/ncn+에/jca
+
+본존불인
+	본존불/ncn+이/jp+ㄴ/etm
+
+석가여래불상을
+	석가여래불상/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+
+주위
+	주위/ncn
+
+벽면에는
+	벽면/ncn+에/jca+는/jxc
+
+총
+	총/mma
+
+40구의
+	40/nnc+구/nbu+의/jcm
+
+불상을
+	불상/ncn+을/jco
+
+조각했으나
+	조각/ncpa+하/xsva+었/ep+으나/ecs
+
+지금은
+	지금/ncn+은/jxc
+
+38구만이
+	38/nnc+구/nnc+만/nnc+이/jcc
+
+남아있습니다
+	남/pvg+아/ecx+있/px+습니다/ef
+
+.
+	./sf
+
+
+석굴암
+	석굴암/ncn
+
+석굴은
+	석굴/ncn+은/jxc
+
+신라
+	신/xp+라/ncn
+
+불교예술의
+	불교예술/ncn+의/jcm
+
+전성기에
+	전성/ncpa+기/ncn+에/jca
+
+이룩한
+	이룩/ncn+한/ncn
+
+최고
+	최고/ncn
+
+걸작으로
+	것/nbn+이/jp+ㄹ/etm+작/nbn+으로/jca
+
+건축,
+	것/nbn+이/jp+ㄴ/etm+축/nbn+,/sp
+
+수리,
+	수/nbn+이/jp+리/ef+,/sp
+
+기하학,
+	기하학/ncn+,/sp
+
+종교,
+	종교/ncn+,/sp
+
+예술
+	예술/ncn
+
+등이
+	등/nbn+이/jcc
+
+
+유기적으로
+	유기/ncn+적/ncn+으로/jca
+
+결합되어
+	결합/ncpa+되/xsvn+어/ecx
+
+더욱
+	더욱/mag
+
+돋보이는
+	돋보이/pvg+는/etm
+
+작품으로
+	작품/ncn+으로/jca
+
+칭송을
+	칭송/ncpa+을/jco
+
+받는데요
+	받/pvg+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그
+	그/mmd
+
+모습을
+	모습/ncn+을/jco
+
+보러
+	보/px+러/ecs
+
+수학여행
+	수학여행/ncn
+
+온
+	오/px+ㄴ/etm
+
+아이들
+	아이/ncn+들/ncn
+
+꼬리잡고
+	꼬리/ncn+잡/ncn+고/jcj
+
+들어가
+	들/pvg+어/ecx+가/px+아/ecx
+
+보겠습니다
+	보/px+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+걸어나오는
+	걷/pvg+어/ecx+나/px+아/ecx+오/px+는/etm
+
+아이들,
+	아이/ncn+들/xsncc+,/sp
+
+줄지어
+	주/px+ㄹ/etm+지/nbn+이/jp+어/ecs
+
+걸어
+	걷/pvg+어/ecx
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+아이들
+	아이/ncn+들/ncn
+
+끊임없는
+	끊임없/paa+는/etm
+
+아이들의
+	아이/ncn+들/ncn+의/jcm
+
+목소리가
+	목소리/ncn+가/jcs
+
+이
+	이/mmd
+
+길을
+	길/ncn+을/jco
+
+걷는내내
+	걷는내내/ncn
+
+새소리를
+	새소리/ncn+를/jco
+
+대신해
+	대신/ncn+해/ncn
+
+주었어요
+	주/px+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+안개가
+	안개/ncn+가/jcs
+
+있나
+	있/px+나/ef
+
+하면
+	하/pvg+면/ecs
+
+따가운
+	따갑/paa+은/etm
+
+햇살이
+	햇살/ncn+이/jcc
+
+나오기도
+	나/pvg+아/ecx+오/px+기/etn+도/jxc
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+저렇게
+	저렇/pad+게/ecs
+
+안개속으로
+	안개/ncn+속/ncn+으로/jca
+
+빛내림을
+	빛내/pvg+리/ep+ㅁ/etn+을/jco
+
+만들기도
+	만들/pvg+기/etn+도/jxc
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+입구에서
+	입구/ncn+에서/jca
+
+부터
+	부터/ncn
+
+안쪽까지
+	알/pvg+ㄴ/etm+쪽/nbn+까지/jxc
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+이
+	이/mmd
+
+구불하게
+	구불하/ncn+이/jp+게/ecs
+
+이어지는
+	잇/pvg+어/ecx+지/px+는/etm
+
+단단단
+	단단/ncps+단/ncn
+
+흙길이
+	흙길/ncn+이/jcc
+
+참
+	참/mag
+
+맘에
+	말/px+ㅁ/etn+에/jca
+
+들었는데요
+	들/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+마치
+	마치/mag
+
+주왕산
+	주왕산/ncn
+
+폭포까지
+	폭포/ncn+까지/jxc
+
+이어지던
+	잇/pvg+어/ecx+지/px+던/etm
+
+그
+	그/mmd
+
+길과
+	길/ncn+과/jct
+
+닮았습니다
+	닮/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+좀더
+	좀더/mag
+
+작고
+	작/paa+고/ecc
+
+포근한
+	포근/ncn+한/ncn
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+드는
+	들/pvg+는/etm
+
+것은
+	것/nbn+은/jxc
+
+우거진
+	우거/ncpa+진/ncn
+
+나무들
+	나무/ncn+들/ncn
+
+때문인거
+	때문인거/ncn
+
+같아요
+	같/paa+아/ef+요/jxf
+
+.
+	./sf
+
+
+나무마다
+	나무/ncn+마다/jxc
+
+이름을
+	이름/ncn+을/jco
+
+달아
+	달/paa+아/ecx
+
+놓아서
+	놓/px+아/ecx
+
+나무관찰하며
+	나무/ncn+관찰/ncpa+하/xsva+며/ecc
+
+걷기도
+	걷/pvg+기/etn+도/jxc
+
+좋습니다
+	좋/paa+습니다/ef
+
+.
+	./sf
+
+
+석굴암으로
+	석굴암/ncn+으로/jca
+
+들어서면
+	들어서/pvg+면/ecs
+
+이렇게
+	이렇/pad+게/ecs
+
+너른
+	너르/paa+ㄴ/etm
+
+마당
+	마당/ncn
+
+공간이
+	공간/ncn+이/jcc
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+왼쪽
+	왼쪽/ncn
+
+올라가는
+	오르/pvg+아/ecx+가/px+는/etm
+
+길을
+	길/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+돌계단을
+	돌계단/ncn+을/jco
+
+오르면
+	오르/pvg+면/ecs
+
+석굴암
+	석굴암/ncn
+
+본존불이
+	본존불/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+가게
+	가/px+게/ecs
+
+되는데요
+	되/pvg+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+마당
+	마당/ncn
+
+가득
+	가득/mag
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+꽉
+	꽉/mag
+
+찼습니다
+	차/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+아이들
+	아이/ncn+들/ncn
+
+질서를
+	질서/ncn+를/jco
+
+강요하는
+	강요/ncpa+하/xsva+는/etm
+
+선생님들의
+	선생님들/ncn+의/jcm
+
+고함소리며
+	고함소리/ncn+이/jp+며/ecc
+
+아이들
+	아이/ncn+들/ncn
+
+재잘거림
+	재잘거리/pvg+ㅁ/etn
+
+..
+	./sf+./sf
+
+
+옛날
+	옛날/ncn
+
+우리도
+	우리/npp+도/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+여행을
+	여행/ncpa+을/jco
+
+다녔겠지
+	다니/pvg+었겠/ep+지/ecs
+
+싶은
+	싶/px+은/etm
+
+생각을하니
+	생각을하/ncn+이/jp+니/ef
+
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+참
+	참/mag
+
+불쌍해
+	불쌍/ncn+해/ncn
+
+보이는거
+	보이는거/ncn
+
+있죠
+	있/px+죠/ef
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+줄서서
+	줄서/ncn+서/jca
+
+뒤쳐지지
+	뒤쳐지/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+따라가는
+	따르/pvg+아/ecx+가/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+아이들에게는
+	아이/ncn+들/ncn+에게/jca+는/jxc
+
+가장
+	가장/mag
+
+큰
+	크/paa+ㄴ/etm
+
+과제처럼
+	과제/ncn+처럼/jca
+
+보였어요
+	보이/pvg+었/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+왁자지끌함
+	왁자지끌함/ncn
+
+속에서도
+	속/ncn+에서/jca+도/jxc
+
+교실에서
+	교실/ncn+에서/jca
+
+벗어난
+	벗/pvg+어/ecx+나/px+ㄴ/etm
+
+자유로움만으로
+	자유로/ncn+움/ncn+만으로/jca
+
+즐거웠음
+	즐겁/paa+었/ep+음/etn
+
+하는
+	하/pvg+는/etm
+
+바람입니다
+	바람/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+전각이
+	전각/ncn+이/jcc
+
+석굴암
+	석굴암/ncn
+
+본존불이
+	본존불/ncn+이/jcc
+
+있는
+	있/px+는/etm
+
+곳인데요
+	곳인데요/ncn
+
+.
+	./sf
+
+
+안타깝게도
+	안타깝/paa+게/ecs+도/jxc
+
+이렇게밖에
+	이렇/pad+게/ecs+밖에/jxc
+
+보여드리지
+	보이/pvg+어/ecx+드리/px+지/ecx
+
+못하네요
+	못하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+아니
+	아니/ii
+
+아무것도
+	아무것/npd+도/jxc
+
+보여드리지
+	보이/pvg+어/ecx+드리/px+지/ecx
+
+못했네요
+	못하/px+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+옆에
+	옆/ncn+에/jca
+
+인상쓰시고
+	인상쓰시/ncn+이/jp+고/ecc
+
+아저씨께서
+	아저씨/ncn+께서/jcs
+
+감시를
+	감시/ncpa+를/jco
+
+하세요
+	하/px+세/ef+요/jxf
+
+.
+	./sf
+
+
+사진
+	사/pvg+아/ecx+지/px+ㄴ/etm
+
+찍지말라고
+	찍/pvg+지/ecx+말/px+라/ef+고/jcr
+
+위압적인
+	위압/ncpa+적/ncn+이/jp+ㄴ/etm
+
+자세로
+	자세/ncn+로/jca
+
+한마디씩
+	한마디씩/ncn
+
+던져주시구요
+	던져주시구요/ncn
+
+.
+	./sf
+
+
+몰래
+	몰래/mag
+
+담아보려고
+	담/pvg+아/ecx+보/px+려고/ecs
+
+했지만
+	하/px+었/ep+지만/ecs
+
+그러면
+	그러면/maj
+
+또
+	또/maj
+
+뭐하랴
+	뭐하/paa+랴/ef
+
+싶어서
+	싶/px+어서/ecs
+
+포기했는데요
+	포기/ncpa+하/xsva+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+보호막까지
+	보호/ncpa+막/ncn+까지/jxc
+
+있는
+	있/px+는/etm
+
+상황에서
+	상황/ncn+에서/jca
+
+왜
+	왜/mag
+
+사진을
+	사진/ncn+을/jco
+
+못담게
+	못담/ncn+게/jca
+
+하는지
+	하/pvg+는지/ecs
+
+모르겠어요
+	모르/pvg+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+가까이
+	가까이/mag
+
+다가가서
+	다가가/pvg+아/ecx
+
+주변
+	주변/ncn
+
+불상도
+	불상/ncn+도/jxc
+
+보지
+	보/pvg+지/ecx
+
+못하고
+	못하/px+고/ecc
+
+그저
+	그저/mag
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+분위기만
+	분위기/ncn+만/jxc
+
+살짝
+	살짝/mag
+
+느끼고
+	느끼/pvg+고/ecc
+
+왔습니다
+	오/px+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+신도이신
+	신도/ncn+이/jp+시/ep+ㄴ/etm
+
+분들은
+	불/pvg+ㄴ/etm+들/nbn+은/jxc
+
+안으로
+	안/ncn+으로/jca
+
+들어가셔서
+	들/pvg+어/ecx+가/px+시/ep+어서/ecs
+
+절도
+	절/ncn+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+오시고
+	오/px+시/ep+고/ecc
+
+그러데요
+	그러/pvd+데/ef+요/jxf
+
+.
+	./sf
+
+
+일반인도
+	일반인/ncn+도/jxc
+
+들어갈
+	들/pvg+어/ecx+가/px+ㄹ/etm
+
+수
+	수/nbn
+
+있는지는
+	있/px+는지/ecs+는/jxc
+
+모르겠습니다
+	모르/pvg+겠/ep+습니다/ef
+
+.
+	./sf
+
+
+소중한
+	소중/ncps+하/xsms+ㄴ/etm
+
+우리의
+	우리/npp+의/jcm
+
+문화유산,
+	문화/ncn+유산/ncn+,/sp
+
+아니
+	아니/mag
+
+세계의
+	세계/ncn+의/jcm
+
+문화유산이
+	문화/ncn+유산/ncn+이/jcc
+
+되었으니
+	되/pvg+었/ep+으니/ecs
+
+더욱
+	더욱/mag
+
+잘
+	잘/mag
+
+보존해야함은
+	보존/ncpa+하/xsva+어야/ecx+하/px+ㅁ/etn+은/jxc
+
+알겠는데
+	알/pvg+겠/ep+는데/ecs
+
+현시대사람들에게도
+	현시대/ncn+사람들/ncn+에게/jca+도/jxc
+
+좀더
+	좀더/mag
+
+
+가까이
+	가까이/mag
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+본존불이었음
+	본존불/ncn+이/jp+었/ep+음/etn
+
+좋겠어요
+	좋/paa+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+아이들은
+	아이/ncn+들/ncn+은/jxc
+
+한줄로
+	하/pvg+ㄴ/etm+줄/nbn+로/jca
+
+서서
+	서/pvg+어서/ecs
+
+스치듯
+	스치/pvg+듯/ecs
+
+지나가며
+	지나/pvg+아/ecx+가/px+며/ecc
+
+보는
+	보/px+는/etm
+
+것이
+	것/nbn+이/jcc
+
+석국암
+	석국암/ncn
+
+본존불과의
+	본존불/ncn+과의/jcm
+
+대면이었습니다
+	대면/ncpa+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+본존불은
+	본존불/ncn+은/jxc
+
+물론
+	물론/mag
+
+주변
+	주변/ncn
+
+불상과
+	불상/ncn+과/jcj
+
+돔형의
+	돔형/ncn+의/jcm
+
+천장도
+	천/nnc+장/nbu+도/jxc
+
+보고
+	보/px+고/ecc
+
+싶었건만
+	싶/px+었/ep+건/ecs+만/jxc
+
+...
+	.../se
+
+
+직접
+	직접/mag
+
+보지
+	보/pvg+지/ecx
+
+못하게
+	못하/px+게/ecs
+
+한다면
+	하/pvg+ㄴ다면/ecs
+
+자료화면으로라도
+	자료화면/ncn+으로/jca+라도/jxc
+
+생생하게
+	생생하/paa+게/ecs
+
+내부를
+	내부/ncn+를/jco
+
+보여주면
+	보이/pvg+어/ecx+주/px+면/ecs
+
+감동이
+	감동/ncpa+이/jcc
+
+더할텐데
+	더하/paa+ㄹ텐데/ecs
+
+...
+	.../se
+
+
+몇초
+	몇/nnc+초/nbu
+
+스치듯
+	스치/pvg+듯/ecs
+
+지나는
+	지나/pvg+는/etm
+
+이들에게
+	이/ncn+들/xsncc+에게/jca
+
+
+석굴암
+	석굴암/ncn
+
+본존불이
+	본존불/ncn+이/jcc
+
+담은
+	달/paa+ㅁ/etn+은/jxc
+
+온화함과
+	온화/ncps+함/ncn+과/jcj
+
+신라미술의
+	신라미술/ncn+의/jcm
+
+함축
+	함축/ncpa
+
+..
+	./sf+./sf
+
+
+한치의
+	한/nnc+치/nbu+의/jcm
+
+오차도
+	오차/ncn+도/jxc
+
+없는
+	없/paa+는/etm
+
+조형미
+	조형미/ncn
+
+..
+	./sf+./sf
+
+
+뭐
+	뭐/npd
+
+그런
+	그러/pvd+ㄴ/etm
+
+설명이
+	설명/ncpa+이/jcc
+
+마음에
+	마음/ncn+에/jca
+
+와닿을리
+	와닿을리/ncn
+
+만무하다
+	만무/ncps+하/xsms+어다/ecs
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+어디선가
+	어디선/ncn+가/jcs
+
+보았었는데요
+	보/px+았었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+내부
+	내부/ncn
+
+구조를
+	구/nnc+조/nbu+를/jco
+
+보면
+	보/px+면/ecs
+
+그냥
+	그냥/mag
+
+아름답게만
+	아름답/paa+게/ecx+말/px+ㄴ/etm
+
+만든
+	만들/pvg+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+아니라
+	아니/paa+라/ecs
+
+치밀한
+	치미/pvg+ㄹ/etm+한/nbn
+
+계산과
+	계산/ncpa+과/jcj
+
+지식이
+	지식/ncn+이/jcc
+
+들어간
+	들/pvg+어/ecx+가/px+ㄴ/etm
+
+결과물이라고
+	결과/ncn+물/ncn+이/jp+라/ef+고/jcr
+
+하더군요
+	하/px+더군/ef+요/jxf
+
+.
+	./sf
+
+
+본존불과
+	본존불/ncn+과/jcj
+
+뒤의
+	뒤/ncn+의/jcm
+
+광배,
+	광배,/ncn
+
+그리고
+	그리고/maj
+
+예배를
+	예배/ncpa+를/jco
+
+하는
+	하/pvg+는/etm
+
+사람의
+	사람/ncn+의/jcm
+
+위치까지
+	위치/ncn+까지/jxc
+
+고려해서
+	고/pvg+려/ecx+하/px+어서/ecs
+
+만들었다고
+	만들/pvg+었/ep+다/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+당시
+	당시/ncn
+
+평균적인
+	평균/ncpa+적/ncn+이/jp+ㄴ/etm
+
+키로
+	키/ncn+로/jca
+
+생각하면
+	생각/ncpa+하/xsva+면/ecs
+
+약
+	약/ncn
+
+160cm정도의
+	160cm정도/ncn+의/jcm
+
+예배자가불상높이의세배정도의
+	예배자가불상높이의세배정도/ncn+의/jcm
+
+거리에
+	거리/ncn+에/jca
+
+떨어져서
+	떨어지/pvg+어서/ecs
+
+바라보면
+	바라/pvg+아/ecx+보/px+면/ecs
+
+불상의
+	불상/ncn+의/jcm
+
+머리가
+	머리/ncn+가/jcs
+
+광배
+	광배/ncn
+
+
+한가운데
+	한가운데/ncn
+
+들어가보인다고
+	들/pvg+어/ecx+가/px+아/ecx+보이/px+ㄴ다/ef+고/jcr
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+그런
+	그러/pvd+ㄴ/etm
+
+것도
+	것/nbn+도/jxc
+
+함
+	하/pvg+ㅁ/etn
+
+경험해
+	경험/ncpa+하/xsva+어/ecx
+
+보면
+	보/px+면/ecs
+
+좋을텐데
+	좋/paa+을텐데/ecs
+
+...
+	.../se
+
+
+본존불
+	본존불/ncn
+
+전각을
+	전각/ncn+을/jco
+
+지나서
+	지나/pvg+아/ecx
+
+내려오면
+	내리/pvg+어/ecx+오/px+면/ecs
+
+수광전이
+	수광전/ncn+이/jcc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+앞마당에는
+	앞마당/ncn+에/jca+는/jxc
+
+연등이
+	열/pvg+ㄴ/etm+등/nbn+이/jcc
+
+아직
+	아직/mag
+
+가득
+	가득/mag
+
+달려
+	달리/pvg+어/ecx
+
+있구요
+	있구요/ncn
+
+.
+	./sf
+
+
+한쪽에는
+	하/pvg+ㄴ/etm+쪽/nbn+에/jca+는/jxc
+
+불두화가
+	불두화/ncn+가/jcs
+
+탐스럽게
+	탐스럽/ncn+게/jca
+
+피어
+	피/pvg+어/ecx
+
+있었습니다
+	있/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+주변에는
+	주변/ncn+에/jca+는/jxc
+
+석굴암
+	석굴암/ncn
+
+석물군이
+	석물/ncn+군/ncn+이/jcc
+
+자리를
+	자리/ncn+를/jco
+
+하고
+	하/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+있었는데요
+	있/px+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+석굴암을
+	석굴암/ncn+을/jco
+
+수리할때
+	수리/ncpa+하/xsva+ㄹ/etm+때/nbn
+
+교체된
+	교체/ncpa+되/xsvn+ㄴ/etm
+
+구부재들과
+	구부/ncn+재/ncn+들/xsncc+과/jcj
+
+기타
+	기타/ncn
+
+주변
+	주변/ncn
+
+석물들이라고
+	석물/ncn+들이/ncn+이/jp+라/ef+고/jcr
+
+하는데
+	하/pvg+ㄴ데/ecs
+
+귀중한
+	귀중/ncps+하/xsms+ㄴ/etm
+
+유물이라고
+	유물/ncn+이/jp+라/ef+고/jcr
+
+하면서
+	하/pvg+면서/ecc
+
+
+그냥
+	그냥/mag
+
+방치된듯
+	방치/ncpa+되/xsvn+ㄴ/etm+듯/nbs
+
+보이는
+	보이/pvg+는/etm
+
+것이
+	것/nbn+이/jcc
+
+안타까워
+	안타깝/paa+어/ecx
+
+보이긴
+	보이/ncn+긴/ncn
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+본존불을
+	본존불/ncn+을/jco
+
+대하는
+	대/pvg+어/ecx+하/px+는/etm
+
+것과는
+	것/nbn+과/jct+는/jxc
+
+많이
+	많/paa+이/xsa
+
+다르지요
+	다르/paa+지/ef+요/jxf
+
+.
+	./sf
+
+
+딱히
+	딱히/mag
+
+그늘이
+	그늘/ncn+이/jcc
+
+없는
+	없/paa+는/etm
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+보니
+	보/px+니/ecs
+
+연들이
+	열/pvg+ㄴ/etm+들/nbn+이/jcc
+
+만들어
+	만들/pvg+어/ecx
+
+놓은
+	놓/px+은/etm
+
+그늘
+	그늘/ncn
+
+아래
+	아래/ncn
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+무리지어
+	무리지/ncn+이/jp+어/ecs
+
+앉았습니다
+	앉/pvg+아/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+한참
+	한참/mag
+
+석굴암에
+	석굴암/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+이야기를
+	이야기/ncpa+를/jco
+
+듣고
+	듣/pvg+고/ecc
+
+있는데요
+	있/px+는데/ef+요/jxf
+
+.
+	./sf
+
+
+사뭇
+	사뭇/mag
+
+진지해
+	진지/ncps+하/xsms+어/ecx
+
+보이는
+	보이/pvg+는/etm
+
+듯도
+	듯/mag+도/jxc
+
+하고
+	하/pvg+고/ecc
+
+앞에서
+	앞/ncn+에서/jca
+
+설명하시는
+	설명/ncpa+하/xsva+시/ep+는/etm
+
+선생님은
+	선생님/ncr+은/jxc
+
+한줄
+	하/pvg+ㄴ/etm+줄/nbn
+
+설명하고
+	설명/ncpa+하고/jcj
+
+
+"알겠어~"
+	"/sl+알/pvg+겠/ep+어/ef+~/sd+"/sl
+
+한줄
+	하/pvg+ㄴ/etm+줄/nbn
+
+설명하고
+	설명/ncpa+하고/jct
+
+"알겠어~"
+	"/sl+알/pvg+겠/ep+어/ef+~/sd+"/sl
+
+하며
+	하/pvg+며/ecc
+
+힘주어
+	힘주/pvg+어/ecx
+
+강요하시네요
+	강요/ncpa+하/xsva+시/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+조금만
+	조금/mag+만/jxc
+
+시간이
+	시간/ncn+이/jcc
+
+지나면
+	지나/pvg+면/ecs
+
+잊어버리겠지만
+	잊/pvg+어/ecx+버리/px+겠/ep+지/ecx+말/px+ㄴ/etm
+
+조금더
+	조금더/ncn
+
+시간이
+	시간/ncn+이/jcc
+
+흘러
+	흐르/pvg+어/ecx
+
+느긋하게
+	느긋/ncps+하/xsms+게/ecs
+
+다시
+	다시/mag
+
+온다면
+	오/px+ㄴ다면/ecs
+
+새로운
+	새롭/paa+은/etm
+
+곳인듯
+	곳/ncn+이/jp+ㄴ/etm+듯/nbs
+
+추억도
+	추억/ncpa+도/jxc
+
+떠올리는
+	떠올리/pvg+는/etm
+
+곳이
+	곳/ncn+이/jcc
+
+되지
+	되/pvg+지/ecx
+
+않겠어요
+	않/px+겠/ep+어/ef+요/jxf
+
+.
+	./sf
+
+
+이날은
+	이/nnc+날/nbu+은/jxc
+
+저도
+	저/npp+도/jxc
+
+석굴암에
+	석굴암/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+기억보다는
+	기억/nnc+보다/jca+는/jxc
+
+전국에서
+	전국/ncn+에서/jca
+
+모였을
+	모이/pvg+었/ep+을/etm
+
+아이들의
+	아이/ncn+들/ncn+의/jcm
+
+시끌함이
+	시끌함/ncn+이/jcc
+
+더
+	더/mag
+
+머릿속을
+	머릿속/ncn+을/jco
+
+울렸습니다
+	울리/pvg+었/ep+습니다/ef
+
+.
+	./sf
+
+
+요즘도
+	요즘/ncn+도/jxc
+
+이렇게
+	이렇/pad+게/ecs
+
+많은
+	많/paa+은/etm
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+한학년을
+	한/nnc+학년/nbu+을/jco
+
+구성하나요
+	구성/ncpa+하/xsva+어/ecx+나/px+아/ef+요/jxf
+
+...
+	.../se
+
+
+우리때나
+	우리/ncn+때/ncn+나/jcj
+
+가능하던
+	가능/ncps+하/xsms+던/etm
+
+모습인거
+	모습인거/ncn
+
+같은데
+	같/paa+은데/ecs
+
+
+단체사진
+	단체/ncn+사진/ncn
+
+찍는
+	찍/pvg+는/etm
+
+모습이
+	모습/ncn+이/jcc
+
+재밌어서
+	재밌어서/ncn
+
+우리도
+	우리/npp+도/jxc
+
+이곳에
+	이곳/npd+에/jca
+
+서서
+	서/pvg+어서/ecs
+
+구경을
+	구경/ncn+을/jco
+
+했습니다
+	하/px+었/ep+습니다/ef
+
+.
+	./sf
+
+
+교관차림의
+	교관/ncr+차림/ncn+의/jcm
+
+인솔선생님들이
+	인솔/ncn+선생님들/ncn+이/jcc
+
+조금
+	조금/mag
+
+거슬렸지만
+	거슬리/pvg+었/ep+지만/ecs
+
+우리
+	우리/npp
+
+어릴적
+	어리/paa+ㄹ/etm+적/nbn
+
+모습을
+	모습/ncn+을/jco
+
+보는거
+	보는거/ncn
+
+같아서
+	같/paa+아/ecx
+
+재밌더라구요
+	재밌더라구요/ncn
+
+.
+	./sf
+
+
+땡볕에
+	땡볕/ncn+에/jca
+
+앉아서
+	앉/pvg+아/ecx
+
+다
+	다/mag
+
+정리될때까지
+	정리/ncpa+되/xsvn+ㄹ/etm+때/nbn+까지/jxc
+
+인상쓰고
+	인상쓰/ncn+이/jp+고/ecc
+
+기다리는
+	기다리/pvg+는/etm
+
+아이들이
+	아이/ncn+들/ncn+이/jcc
+
+좀
+	좀/mag
+
+불쌍해
+	불쌍/ncps+하/xsms+어/ecx
+
+보이기도
+	보이/pvg+기/etn+도/jxc
+
+하구요
+	하구/ncn+요/ncn
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+
+석굴암
+	석굴암/ncn
+
+본존불을
+	본존불/ncn+을/jco
+
+보는데
+	보/px+ㄴ데/ecs
+
+몇초
+	몇/nnc+초/nbu
+
+걸리지
+	것/nbn+이/jp+ㄹ/etm+리/nbn+이/jp+지/ecs
+
+않았을거
+	않았을거/ncn
+
+같은데
+	같/paa+은/etm+데/nbn
+
+..
+	./sf+./sf
+
+
+설명듣고
+	설명듣고/ncn
+
+단체사진찍고
+	단체사진찍고/ncn
+
+하느라
+	하/pvg+느라/ecs
+
+시간을
+	시간/ncn+을/jco
+
+다
+	다/mag
+
+보냈을
+	보내/pvg+었/ep+을/etm
+
+겁니다
+	거/nbn+ㅂ니다/ef
+
+.
+	./sf
+
+
+두줄로
+	두줄/ncn+로/jca
+
+서서
+	서/pvg+어서/ecs
+
+나가는
+	나/pvg+아/ecx+가/px+는/etm
+
+아이들
+	아이/ncn+들/ncn
+
+틈에
+	틈/ncn+에/jca
+
+끼어서
+	끼/pvg+어서/ecs
+
+우리도
+	우리/npp+도/jxc
+
+천천히
+	천천히/mag
+
+발을
+	발/ncn+을/jco
+
+옮겨봅니다
+	옮기/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+뭔가
+	뭔가/ncn
+
+허전함이
+	허전/ncps+하/xsms+ㅁ/etn+이/jcs
+
+남는
+	남/pvg+는/etm
+
+..
+	./sf+./sf
+
+
+석굴암이
+	석굴암/ncn+이/jcc
+
+이런
+	이렇/pad+은/etm
+
+곳이었구나
+	곳/ncn+이/jp+었/ep+구나/ef
+
+..
+	./sf+./sf
+
+
+불교예술의
+	불교예술/ncn+의/jcm
+
+극치로
+	극치/ncn+로/jca
+
+그
+	그/mmd
+
+명성이
+	명성/ncn+이/jcc
+
+자자한
+	자자/ncps+하/xsms+ㄴ/etm
+
+석굴암인데
+	석굴암/ncn+이/jp+ㄴ데/ecs
+
+그
+	그/mmd
+
+느낌이
+	느끼/pvg+ㅁ/etn+이/jcs
+
+확
+	확/ncn
+
+와닿지
+	와닿지/ncn
+
+않는건
+	않는건/ncn
+
+
+왜그런가
+	왜그런/ncn+가/jcs
+
+싶은생각도
+	싶은생각/ncn+도/jxc
+
+들구요
+	들구요/ncn
+
+.
+	./sf
+
+
+한적한
+	한적/ncps+하/xsms+ㄴ/etm
+
+가운데
+	가운데/ncn
+
+본존불
+	본존불/ncn
+
+앞에
+	앞/ncn+에/jca
+
+서면
+	서/pvg+면/ecs
+
+좀
+	좀/mag
+
+달라지려나요
+	다르/paa+아/ecx+지/px+려/ecx+나/px+아/ef+요/jxf
+
+.
+	./sf
+
+
+들어올때의
+	들/pvg+어/ecx+오/px+ㄹ/etm+때/nbn+의/jcm
+
+그
+	그/mmd
+
+자욱하던
+	자욱/ncps+하/xsms+던/etm
+
+안개는
+	안개/ncn+는/jxc
+
+다
+	다/mag
+
+사라진
+	사라지/pvg+ㄴ/etm
+
+후였습니다
+	후/ncn+이/jp+었/ep+습니다/ef
+
+.
+	./sf
+
+
+경주의
+	경주/ncpa+의/jcm
+
+더위도
+	더위/ncn+도/jxc
+
+한더위
+	한더위/ncn
+
+하잖아요
+	하/px+잖아/ef+요/jxf
+
+.
+	./sf
+
+
+햇살이
+	햇살/ncn+이/jcc
+
+따갑다
+	따갑/paa+다/ef
+
+싶을
+	싶/px+을/etm
+
+만큼
+	만큼/nbn
+
+강한데요
+	강한데요/ncn
+
+.
+	./sf
+
+
+석굴암
+	석굴암/ncn
+
+내부를
+	내부/ncn+를/jco
+
+너무
+	너무/mag
+
+허무하게
+	허무/ncpa+하/xsva+게/ecs
+
+감상하는
+	감상/ncpa+하/xsva+는/etm
+
+바람에
+	바라/pvg+ㅁ/etn+에/jca
+
+시간이
+	시간/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+남았어요
+	남/pvg+아/ep+아/ef+요/jxf
+
+.
+	./sf
+
+
+^^
+	^/sy+^/sy
+
+천천히
+	천천히/mag
+
+주변을
+	주변/ncn+을/jco
+
+걷듯
+	걷/pvg+듯/ecs
+
+
+그렇게
+	그렇/pad+게/ecs
+
+석굴암
+	석굴암/ncn
+
+일주문을
+	일주문/ncn+을/jco
+
+나오고
+	나/pvg+아/ecx+오/px+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+매표소
+	매표소/ncn
+
+지나서
+	지나/pvg+아/ecx
+
+계단을
+	계단/ncn+을/jco
+
+내려오기
+	내리/pvg+어/ecx+오/px+기/etn
+
+전에
+	전/nbn+에/jca
+
+오른쪽에
+	오르/pvg+ㄴ/etm+쪽/nbn+에/jca
+
+있는
+	있/px+는/etm
+
+불국대종각입니다
+	불국대종각입니/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이곳에서는
+	이곳/npd+에서/jca+는/jxc
+
+1타1천
+	1타1천/ncn
+
+...
+	.../se
+
+
+^^
+	^/sy+^/sy
+
+한번
+	한/nnc+번/nbu
+
+타종을
+	타종/ncpa+을/jco
+
+하면
+	하/pvg+면/ecs
+
+1,000원이상
+	1,000/nnc+원/nbu+이상/xsnu
+
+금액을
+	금액/ncn+을/jco
+
+내야합니다
+	내/pvg+어야/ecx+하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+불우이웃성금으로
+	불우이웃/ncpa+성금/ncn+으로/jca
+
+쓰인다고
+	쓰이/pvg+ㄴ다/ef+고/jcr
+
+하네요
+	하/px+네/ef+요/jxf
+
+.
+	./sf
+
+
+그냥
+	그냥/mag
+
+구경하고
+	구경/ncn+하고/jct
+
+있었더니
+	있/px+었/ep+더니/ecs
+
+구경만
+	구경/ncn+만/jxc
+
+하지말고
+	하/pvg+지/ecx+말/px+고/ecc
+
+쳐보라고
+	치/pvg+어/ecx+보/px+라/ef+고/jcr
+
+하십니다
+	하/px+시/ep+ㅂ니다/ef
+
+.
+	./sf
+
+
+그래서
+	그래서/maj
+
+직접
+	직접/mag
+
+타종을
+	타종/ncpa+을/jco
+
+해보시는
+	하/pvg+어/ecx+보/px+시/ep+는/etm
+
+분도
+	분/nbu+도/jxc
+
+계셨는데요
+	계시/paa+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+흔들흔들하다
+	흔들흔들하다/ncn
+
+세게
+	세/nnc+이/jp+게/ecs
+
+치면
+	치/pvg+면/ecs
+
+주변이
+	주변/ncn+이/jcc
+
+다
+	다/mag
+
+울릴정도로
+	울릴정도로/ncn
+
+그
+	그/mmd
+
+진동이
+	진동/ncpa+이/jcc
+
+큽니다
+	크/paa+ㅂ니다/ef
+
+.
+	./sf
+
+
+울릴때마다
+	울리/pvg+ㄹ/etm+때/nbn+마다/jxc
+
+천원,,,2천원
+	천/nnc+원/nbu+,/sp+,/sp+,/sp+2/nnc+천/nnc+원/nbu
+
+..
+	./sf+./sf
+
+
+하면서
+	하/pvg+면서/ecc
+
+웃었는데요
+	웃/pvg+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+좋은
+	좋/paa+은/etm
+
+일하는거니
+	일/ncpa+하/xsva+는/etm+것/nbn+이/jp+니/ecs
+
+소원담아서
+	소원담아서/ncn
+
+타종을
+	타종/ncpa+을/jco
+
+해보는
+	하/pvg+어/ecx+보/px+는/etm
+
+것도
+	것/nbn+도/jxc
+
+좋겠지요
+	좋/paa+겠/ep+지/ef+요/jxf
+
+.
+	./sf
+
+
+대종각
+	대종/ncn+각/ncn
+
+위에서
+	위/ncn+에서/jca
+
+내려보니
+	내리/pvg+어/ecx+보/px+니/ecs
+
+주차장에
+	주차장/ncn+에/jca
+
+관광버스가
+	관광버스/ncn+가/jcs
+
+집합을
+	집합/ncpa+을/jco
+
+했네요
+	하/px+었/ep+네/ef+요/jxf
+
+.
+	./sf
+
+
+나가고
+	나/pvg+아/ecx+가/px+고/ecc
+
+들어오는
+	들/pvg+어/ecx+오/px+는/etm
+
+버스로
+	버스/ncn+로/jca
+
+만원입니다
+	만/nnc+원/nbu+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+그에
+	그/npp+에/jca
+
+따라서
+	따라서/maj
+
+줄지어
+	주/px+ㄹ/etm+지/nbn+이/jp+어/ecs
+
+이동하는
+	이동/ncpa+하/xsva+는/etm
+
+아이들의
+	아이/ncn+들/ncn+의/jcm
+
+모습도
+	모습/ncn+도/jxc
+
+끊이지
+	끊이/pvg+지/ecx
+
+않고
+	않/px+고/ecc
+
+보게
+	보/px+게/ecs
+
+되구요
+	되구요/ncn
+
+.
+	./sf
+
+
+산아래에서
+	산아래/ncn+에서/jca
+
+불어오는
+	불/pvg+어/ecx+오/px+는/etm
+
+시원한
+	시원/ncn+한/ncn
+
+바람덕에
+	바람/ncn+덕/ncn+에/jca
+
+대종각
+	대종/ncn+각/ncn
+
+위는
+	위/ncn+는/jxc
+
+서늘하기까지
+	서늘/ncps+하/xsms+기/etn+까지/jxc
+
+않데아래로
+	않데아래/ncn+로/jca
+
+내려오면
+	내리/pvg+어/ecx+오/px+면/ecs
+
+또
+	또/maj
+
+무지
+	무지/ncn
+
+덥구요
+	덥구요/ncn
+
+.
+	./sf
+
+
+경주
+	경주/ncpa
+
+토함산
+	토함산/ncn
+
+아래
+	아래/ncn
+
+석굴암
+	석굴암/ncn
+
+.
+	./sf
+
+
+화강암을
+	화강암/ncn+을/jco
+
+다듬어
+	다듬/pvg+어/ecx
+
+돔을
+	돌/pvg+ㅁ/etn+을/jco
+
+쌓은
+	쌓/pvg+은/etm
+
+위에
+	위/ncn+에/jca
+
+흙을
+	흙/ncn+을/jco
+
+덮어
+	덮/pvg+어/ecx
+
+마치
+	마치/mag
+
+천연
+	천연/ncn
+
+암석동굴을
+	암석/ncn+동굴/ncn+을/jco
+
+연상케하는
+	연상케하/ncn+는/jxc
+
+깊이
+	깊이/mag
+
+14.
+	14./nnc
+
+8m,
+	8m,/ncn
+
+높이
+	높이/mag
+
+9.3m의
+	9.3m/ncn+의/jcm
+
+석굴
+	석굴/ncn
+
+안에
+	안/ncn+에/jca
+
+순백의
+	순백/ncn+의/jcm
+
+불상이
+	불상/ncn+이/jcc
+
+모셔져
+	모시/pvg+어/ecx+지/px+어/ecx
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+본존불은
+	본존불/ncn+은/jxc
+
+높이
+	높이/mag
+
+1.
+	1./nnc
+
+58m의
+	58m/ncn+의/jcm
+
+좌대위에
+	좌대/ncn+위/ncn+에/jca
+
+3.
+	3./nnc
+
+26m의
+	26m/ncn+의/jcm
+
+거대한
+	거대/ncps+하/xsms+ㄴ/etm
+
+불상으로
+	불상/ncn+으로/jca
+
+조성되었는데요
+	조성/ncpa+되/xsvn+었/ep+는데/ef+요/jxf
+
+.
+	./sf
+
+
+그저
+	그저/mag
+
+미적인
+	미적/ncn+이/jp+ㄴ/etm
+
+감각뿐
+	감각/ncpa+뿐/jxc
+
+아니라
+	아니/paa+라/ecs
+
+고도의과학이
+	고도/ncn+의과학/ncn+이/jcc
+
+숨어있는
+	숨/pvg+어/ecx+있/px+는/etm
+
+아름답고
+	아름답/paa+고/ecc
+
+성스러운
+	성스럽/paa+은/etm
+
+공간입니다
+	공간/ncn+이/jp+ㅂ니다/ef
+
+.
+	./sf
+
+
+동해를
+	동해/ncn+를/jco
+
+바라보며
+	바라/pvg+아/ecx+보/px+며/ecc
+
+앉은
+	앉/pvg+은/etm
+
+본존은
+	본존/ncn+은/jxc
+
+반쯤
+	반쯤/ncn
+
+뜬
+	뜨/pvg+ㄴ/etm
+
+눈은
+	눈/ncn+은/jxc
+
+온화하고
+	온화/ncps+하고/jct
+
+자애로움이
+	자애/ncpa+롭/xsmn+음/etn+이/jcs
+
+넘치구요
+	넘치구요/ncn
+
+.
+	./sf
+
+
+아침해가
+	아침해/ncn+가/jcs
+
+솟아오르면
+	솟아오르/pvg+면/ecs
+
+석불상의얼굴에
+	석불/ncn+상의/ncn+얼굴/ncn+에/jca
+
+미소가
+	미소/ncn+가/jcs
+
+떠올라
+	떠오르/pvg+아/ecx
+
+신비감을
+	신비감/ncn+을/jco
+
+주고
+	주/px+고/ecc
+
+햇살이
+	햇살/ncn+이/jcc
+
+반사되어
+	반사/ncpa+되/xsvn+어/ecx
+
+석굴
+	석굴/ncn
+
+내부는
+	내부/ncn+는/jxc
+
+신비에
+	신비/ncps+에/jca
+
+젖게
+	젖/pvg+게/ecs
+
+된다고
+	되/pvg+ㄴ다/ef+고/jcr
+
+하는데요
+	하/px+ㄴ데/ef+요/jxf
+
+.
+	./sf
+
+
+이곳도
+	이곳/npd+도/jxc
+
+보호막이
+	보호/ncpa+막/ncn+이/jcc
+
+생기면서
+	생기/pvg+면서/ecc
+
+엣이야기가
+	엣이야/ncn+이/jp+기/etn+가/jcs
+
+된
+	되/pvg+ㄴ/etm
+
+것이
+	것/nbn+이/jcc
+
+아닌가
+	아니/paa+ㄴ가/ef
+
+합니다
+	하/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+그
+	그/mmd
+
+앞에서
+	앞/ncn+에서/jca
+
+바라보면
+	바라/pvg+아/ecx+보/px+면/ecs
+
+일출은
+	일출/ncpa+은/jxc
+
+감탄할만
+	감탄/ncpa+하/xsva+ㄹ/etm+만/nbs
+
+하다고
+	하/px+다/ef+고/jcr
+
+하니
+	하/pvg+니/ecs
+
+언제
+	언제/mag
+
+그모습을
+	그모습/ncn+을/jco
+
+한번
+	한/nnc+번/nbu
+
+보고
+	보/px+고/ecc
+
+싶습니다
+	싶/px+습니다/ef
+
+.
+	./sf
+
+
+신라미술의
+	신라미술/ncn+의/jcm
+
+최고
+	최고/ncn
+
+절정을
+	절정/ncn+을/jco
+
+이룬
+	이루/pvg+ㄴ/etm
+
+석조물로
+	석조/ncn+물/ncn+로/jca
+
+통일신라
+	통일신라/ncn
+
+미술의
+	미술/ncn+의/jcm
+
+특징인
+	특징/ncn+이/jp+ㄴ/etm
+
+조화미와
+	조화/ncn+미/ncn+와/jcj
+
+정제미가
+	정제/ncpa+미/ncn+가/jcs
+
+가장
+	가장/mag
+
+잘
+	잘/mag
+
+드러난
+	드러나/pvg+ㄴ/etm
+
+작품으로
+	작품/ncn+으로/jca
+
+꼽는데요
+	꼽/pvg+는데/ef+요/jxf
+
+.
+	./sf
+
+
+천년을
+	천/nnc+년/nbu+을/jco
+
+이어온
+	잇/pvg+어/ecx+오/px+ㄴ/etm
+
+그
+	그/mmd
+
+은근한
+	은근/ncn+한/ncn
+
+끈기가
+	끈기/ncn+가/jcs
+
+후세에게도
+	후세/ncn+에게/jca+도/jxc
+
+계속
+	계속/mag
+
+이어지길
+	이어지길/ncn
+
+바랍니다
+	바라/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+그리고
+	그리고/maj
+
+개인적으로
+	개/nbu+이/jp+ㄴ/etm+적/nbn+으로/jca
+
+석굴암
+	석굴암/ncn
+
+방문후
+	방문/ncpa+후/ncn
+
+아쉬운
+	아쉽/paa+은/etm
+
+부분이라면석굴암
+	부분이라면석굴암/ncn
+
+내부를
+	내부/ncn+를/jco
+
+가까이관람하지
+	가까이관람하/ncn+이/jp+지/ecs
+
+못할거라면
+	못하/px+ㄹ/etm+것/nbn+이/jp+라면/ecs
+
+시청각자료라도
+	시청각/ncn+자료/ncn+이/jp+라/ecs+도/jxc
+
+준비를
+	준비/ncn+를/jco
+
+해서
+	하/pvg+어서/ecs
+
+내부의
+	내부/ncn+의/jcm
+
+곳곳을
+	곳곳/ncn+을/jco
+
+생생하게
+	생생하/paa+게/ecs
+
+보여주면
+	보이/pvg+어/ecx+주/px+면/ecs
+
+좋을거
+	좋을거/ncn
+
+같습니다
+	같/paa+습니다/ef
+
+.
+	./sf
+
+
+보호막을
+	보호/ncpa+막/ncn+을/jco
+
+통해서
+	통하/pvg+어서/ecs
+
+멀리서
+	멀/paa+ㄹ/etm+리/nbn+서/jca
+
+보기만
+	보/px+기/etn+만/jxc
+
+하기에는
+	하/pvg+기/etn+에/jca+는/jxc
+
+너무
+	너무/mag
+
+아쉬움이
+	아쉬움/ncn+이/jcc
+
+많이
+	많/paa+이/xsa
+
+남았거든요
+	남/pvg+아/ep+거든/ef+요/jxf
+
+.
+	./sf
+
+
+불국사와
+	불국사/ncn+와/jct
+
+함께
+	함께/mag
+
+세계문화유산으로
+	세계문화유산/ncn+으로/jca
+
+등록된
+	등록/ncpa+되/xsvn+ㄴ/etm
+
+석굴암
+	석굴암/ncn
+
+.
+	./sf
+
+
+경주에서
+	경주/ncpa+에서/jca
+
+한번은
+	한/nnc+번/nbu+은/jxc
+
+들러보아야할
+	들르/pvg+어/ecx+보/px+아/ecx+하/px+ㄹ/etm
+
+필수코스이기에
+	필수/ncn+코스/ncn+이/jp+기/etn+에/jca
+
+기억에
+	기억/nnc+에/jca
+
+남을
+	남/ncn+을/jco
+
+곳이길
+	곳이길/ncn
+
+바래봅니다
+	바래/pvg+어/ecx+보/px+ㅂ니다/ef
+
+.
+	./sf
+
+
+경주시
+	경주시/ncn
+
+진현동
+	진현동/ncn
+
+891석굴암/국보
+	891석굴암/국보/ncn
+
+제
+	제/ncn
+
+
+석굴암
+	석굴암/ncn
+
+문화재
+	문화재/ncn
+
+관람료
+	관람료/ncn
+
+
+개인
+	개/nbu+이/jp+ㄴ/etm
+
+어른
+	어른/ncn
+
+4,000원,
+	4,000/nnc+원/nbu+,/sp
+
+청소년
+	청소년/ncn
+
+3,000원,
+	3,000/nnc+원/nbu+,/sp
+
+어린이
+	어린이/ncn
+
+2,000원
+	2,000/nnc+원/nbu
+
+
+주차료:
+	주차료/ncn+:/sp
+
+대형
+	대형/ncn
+
+4,000원,
+	4,000/nnc+원/nbu+,/sp
+
+일반
+	일반/ncn
+
+2,000원,
+	2,000/nnc+원/nbu+,/sp
+
+경차
+	경차/ncn
+
+1,000원
+	1,000/nnc+원/nbu
+
+
+석굴암
+	석굴암/ncn
+
+입장시간
+	입장/ncpa+시간/ncn
+
+
+봄가을
+	봄가/ncn+이/jp+ㄹ/etm
+
+2월~
+	2/nnc+월/nbu+~/sd
+
+3월중순,
+	3월중순,/ncn
+
+10월
+	10/nnc+월/nbu
+
+:07:00~17:30
+	:/sp+07/nnc+:/sp+00/nnc+~/sd+17/nnc+:/sp+30/nnc
+
+
+하절기
+	하절기/ncn
+
+3월중순~
+	3월중순~/ncn
+
+9월
+	9/nnc+월/nbu
+
+:
+	:/sp
+
+06:30~18:00
+	06/nnc+:/sp+30/nnc+~/sd+18/nnc+:/sp+00/nnc
+
+
+동절기
+	동절기/ncn
+
+11월~
+	11/nnc+월/nbu+~/sd
+
+1월
+	1/nnc+월/nbu
+
+:
+	:/sp
+
+17:00~17:00
+	17/nnc+:/sp+00/nnc+~/sd+17/nnc+:/sp+00/nnc
+
+
+석굴암석굴
+	석굴암/ncn+석굴/ncn
+
+
+경상북도
+	경상/ncn+북/ncn+도/jxc
+
+경주시
+	경주시/ncn
+
+
+{mapId:
+	{/sl+mapId/f+:/sp
+
+"bl01578962",
+	"bl01578962",/ncn
+
+placeId:
+	placeId/f+:/sp
+
+"15753687",
+	"/sl+15753687/nnc+"/sr+,/sp
+
+type:"1",
+	type/f+:/sp+"/sl+1/nnc+"/sr+,/sp
+
+title:"석굴암석굴",
+	title/f+:/sp+"/sl+석굴암/ncn+석굴/ncn+"/sr+,/sp
+
+pointX:516772,pointY:358019}
+	pointX/f+:/sp+516772/nnc+,/sp+pointY/f+:/sp+358019/nnc+}/sr

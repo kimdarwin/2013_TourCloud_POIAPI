@@ -1,0 +1,137 @@
+01
+	01/nnc
+
+
+02
+	02/nnc
+
+
+01
+	01/nnc
+
+호텔내부
+	호텔/ncn+내부/ncn
+
+
+02객실내부
+	02객실내부/ncn
+
+
+중국여행
+	중국여행/ncn
+
+둘째날,
+	둘째/nno+날/nbu+,/sp
+
+소주에서
+	소주/ncn+에서/jca
+
+하룻밤
+	하룻밤/ncn
+
+묵다
+	묵/pvg+다/ef
+
+.
+	./sf
+
+
+이날도
+	이/nnc+날/nbu+도/jxc
+
+룸
+	룸/ncn
+
+2개를
+	2/nnc+개/nbu+를/jco
+
+예약받았는데
+	예약/ncpa+받/xsva+아/ep+ㄴ데/ecs
+
+아니나
+	아니/paa+나/ecs
+
+다를까
+	다르/paa+ㄹ까/ecs
+
+하나의
+	하나/nnc+의/jcm
+
+룸은
+	룸/ncn+은/jxc
+
+난방자체가
+	난방/ncn+자체/ncn+가/jcs
+
+넘
+	널/pvg+ㅁ/etn
+
+약해서
+	약하/paa+어서/ecs
+
+춥다고
+	춥/paa+다고/ecs
+
+
+느껴질
+	느끼/pvg+어/ecx+지/px+ㄹ/etm
+
+정도였다
+	정도/ncn+이/jp+었/ep+다/ef
+
+.
+	./sf
+
+
+씻는거
+	씻는거/ncn
+
+따로
+	따로/mag
+
+하고
+	하/pvg+고/ecc
+
+취침시간에만
+	취침시간/ncn+에/jca+만/jxc
+
+한방에모여
+	한방에모/ncn+이/jp+어/ecs
+
+잤다
+	자/pvg+아/ep+다/ef
+
+.
+	./sf
+
+
+중국의
+	중국/ncn+의/jcm
+
+침대는
+	침대/ncn+는/jxc
+
+생각
+	생각/ncpa
+
+보다
+	보다/mag
+
+작아서
+	작/paa+아/ecx
+
+둘이
+	둘/nnc+이/jcc
+
+자기엔
+	자/nbn+이/jp+기/etn+엔/jca
+
+비좁았다
+	비좁/paa+었/ep+다/ef
+
+.
+	./sf
+
+
+episode2
+	episode2/ncn

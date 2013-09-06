@@ -1,0 +1,1298 @@
+위치
+	위치/ncn
+
+:
+	:/sp
+
+경기도
+	경기/ncn+도/jxc
+
+성남시
+	성남시/ncn
+
+,광주시,하남시[검단산
+	,광주시,하남시[검단산/ncn
+
+해발524.
+	해발524./ncn
+
+8m
+	8m/ncn
+
+청량산
+	청량/ncn+산/ncn
+
+해발481.
+	해발481./ncn
+
+2m]
+	2m/ncn+]/sr
+
+
+가는
+	가/pvg+는/etm
+
+길1:
+	길1:/ncn
+
+서울지하철5호선
+	서울지하철/ncn+5호선/ncn
+
+마천역1번
+	마천역1번/ncn
+
+출구
+	출구/ncn
+
+남한산성
+	남한산성/ncn
+
+입구까지[도보약15분]
+	입구까지[도보약15분/ncn+]/sr
+
+
+2:
+	2/nnc+:/sp
+
+:
+	:/sp
+
+:
+	:/sp
+
+8호선
+	8/nnc+호/nbu+선/jxc
+
+산성역하차,2번출구에서9번
+	산성역하차,2번출구에서9번/ncn
+
+버스로
+	버스/ncn+로/jca
+
+환승
+	환승/ncn
+
+
+3
+	3/nnc
+
+:
+	:/sp
+
+:
+	:/sp
+
+:
+	:/sp
+
+8호선
+	8/nnc+호/nbu+선/jxc
+
+남한산성역입구하차,1번출구
+	남한산성역입구하차,1번출구/ncn
+
+앞에서
+	앞/ncn+에서/jca
+
+모든버스[남한산성]입구갑니다
+	모든버스[남한산성]입구갑니/ncn+이/jp+다/ef
+
+
+버스66.
+	버스66./ncn
+
+36.
+	36./nnc
+
+36~1,30,30~1,916,720,720~1번
+	36/nnc+~/sd+1/nnc+,/sp+30/nnc+,/sp+30/nnc+~/sd+1,916,720,720/nnc+~/sd+1/nnc+번/nbu
+
+이용하시면
+	이용/ncpa+하시/ncn+이/jp+면/ecs
+
+됩니다
+	되/paa+ㅂ니다/ef
+
+
+마천동
+	마천/ncn+동/ncn
+
+남한산성입구
+	남한산성입구/ncn
+
+[만남의광장]
+	[/sl+만남의광장/ncn+]/sr
+
+
+남한산성은
+	남한산성/ncn+은/jxc
+
+북한산성과
+	북한산성/ncn+과/jct
+
+더불어
+	더불/pvg+어/ecx
+
+남북으로
+	남북/ncn+으로/jca
+
+서울을
+	서울/ncn+을/jco
+
+지키는
+	지키/pvg+는/etm
+
+요세로
+	요세/ncn+로/jca
+
+백제때부데
+	백제때부데/ncn
+
+성을쌓았던
+	성을쌓았던/ncn
+
+군사적
+	군사/ncn+적/ncn
+
+
+요충지였다
+	요충지/ncn+이/jp+었/ep+다/ef
+
+성곽을
+	성곽/ncn+을/jco
+
+따라
+	따르/pvg+아/ecx
+
+걷는길은
+	걷는길/ncn+은/jxc
+
+등산로라기보다는
+	등산로/ncn+이/jp+라기/etn+보다/jca+는/jxc
+
+산책로에
+	산책로/ncn+에/jca
+
+가까워
+	가깝/paa+어/ecx
+
+가벼운
+	가볍/paa+은/etm
+
+발거름을
+	발거름/ncn+을/jco
+
+하기좋
+	하기좋/ncn
+
+
+으며
+	으/ncn+이/jp+며/ecc
+
+주요
+	주요/ncps
+
+길목마다
+	길목/ncn+마다/jxc
+
+역사의
+	역사/ncn+의/jcm
+
+흔적이
+	흔적/ncn+이/jcc
+
+깃든
+	깃들/pvg+ㄴ/etm
+
+문화유적들을
+	문화유적/ncn+들/ncn+을/jco
+
+만나게
+	만나/pvg+게/ecs
+
+되니
+	되/pvg+니/ecs
+
+더욱
+	더욱/mag
+
+뜻깊다
+	뜻깊/paa+다/ef
+
+
+서울을
+	서울/ncn+을/jco
+
+지키는
+	지키/pvg+는/etm
+
+4대요세중
+	4대요세중/ncn
+
+하나인
+	하나/nnc+이/jp+ㄴ/etm
+
+남한산성은
+	남한산성/ncn+은/jxc
+
+높이7.
+	높이7./ncn
+
+3m
+	3m/ncn
+
+길이9.
+	길이9./ncn
+
+5km의
+	5km/ncn+의/jcm
+
+규모로서
+	규모/ncn+로서/jca
+
+성벽의
+	성벽/ncn+의/jcm
+
+주봉인
+	주봉/ncn+이/jp+ㄴ/etm
+
+
+청량산481.
+	청량산481./ncn
+
+2m을
+	2m/ncn+을/jco
+
+중심으로
+	중심/ncn+으로/jca
+
+동쪽
+	동쪽/ncn
+
+.
+	./sf
+
+
+남쪽으로
+	남쪽/ncn+으로/jca
+
+몇개의
+	몇/nnc+개/nbu+의/jcm
+
+봉우리를
+	봉우리/ncn+를/jco
+
+연결해쌓았다
+	연결해쌓았다/ncn
+
+
+남한산성
+	남한산성/ncn
+
+내부는
+	내부/ncn+는/jxc
+
+경사가
+	경사/ncr+가/jcc
+
+완만하고
+	완만/ncps+하고/jct
+
+.
+	./sf
+
+
+평균고도350m내외의
+	평균고도350m내외/ncn+의/jcm
+
+넑은
+	넑/ncn+은/jxc
+
+구릉성
+	구릉/ncn+성/ncn
+
+분지를
+	불/pvg+ㄴ/etm+지/nbn+를/jco
+
+이루고
+	이루/pvg+고/ecc
+
+있는데
+	있/px+는데/ecs
+
+사시
+	사시/mag
+
+
+사철
+	사철/mag
+
+물이
+	물/ncn+이/jcc
+
+마르지
+	마르/pvg+지/ecx
+
+않는다
+	않/px+는다/ef
+
+또한
+	또한/maj
+
+문과
+	문/ncn+과/jcj
+
+문루
+	문루/ncn
+
+.
+	./sf
+
+
+관아와
+	관아/ncn+와/jcj
+
+창고
+	창고/ncn
+
+.
+	./sf
+
+
+행궁
+	행궁/ncn
+
+등
+	등/nbu
+
+많은
+	많/paa+은/etm
+
+문화제가
+	문화제/ncn+가/jcs
+
+남아있다
+	남/pvg+아/ecx+있/px+다/ef
+
+남한산성
+	남한산성/ncn
+
+
+은
+	은/ncn
+
+우리나라
+	우리나라/ncn
+
+산성축성술의
+	산성/ncn+축성/ncpa+술/ncn+의/jcm
+
+전형을
+	전형/ncn+을/jco
+
+보여주는
+	보이/pvg+어/ecx+주/px+는/etm
+
+중요한
+	중요/ncps+한/ncn
+
+유적이자,민족자존의
+	유적/ncn+이/jp+자/ecc+,/sp+민족자존/ncpa+의/jcm
+
+역사를
+	역사/ncn+를/jco
+
+간직한
+	간직/ncpa+하/xsva+ㄴ/etm
+
+문화적
+	문화/ncn+적/ncn
+
+
+자긍심의
+	자긍심/ncn+의/jcm
+
+원천으로
+	원천/ncn+으로/jca
+
+최근
+	최근/mag
+
+들어
+	들/pvg+어/ecx
+
+새롭게
+	새롭/paa+게/ecs
+
+주목받고
+	주목/ncpa+받/xsva+고/ecc
+
+있다
+	있/paa+다/ef
+
+
+우익문[서문]
+	우익문[서문]/ncn
+
+사적제57호
+	사적제57호/ncn
+
+
+서문은
+	서문/ncn+은/jxc
+
+산성의
+	산성/ncn+의/jcm
+
+북동쪽
+	북동쪽/ncn
+
+모서리
+	모서리/ncn
+
+부분의
+	부분/ncn+의/jcm
+
+해발450m지점에
+	해발450m지점/ncn+에/jca
+
+위치하며
+	위치/ncpa+하/xsva+며/ecc
+
+안쪽에는
+	알/pvg+ㄴ/etm+쪽/nbn+에/jca+는/jxc
+
+2짝의
+	2/nnc+짝/nbu+의/jcm
+
+목재판문을
+	목재판문/ncn+을/jco
+
+설
+	설/ncn
+
+
+치하였다
+	치하/ncn+이/jp+었/ep+다/ef
+
+대문을
+	대문/ncn+을/jco
+
+지탱하는
+	지탱/ncpa+하/xsva+는/etm
+
+문지두리는
+	문지두리/ncn+는/jxc
+
+석재로
+	석재/ncn+로/jca
+
+위.
+	위/ncn+./sf
+
+아래에서
+	아래/ncn+에서/jca
+
+지탱하도록
+	지탱/ncpa+하/xsva+도록/ecs
+
+되어있고
+	되/pvg+어/ecx+있/px+고/ecc
+
+양측벽에는
+	양측/ncn+벽/ncn+에/jca+는/jxc
+
+장
+	장/nbu
+
+
+군목을
+	군목/ncn+을/jco
+
+끼워
+	끼우/pvg+어/ecx
+
+빗장을
+	빗장/ncn+을/jco
+
+지를
+	지르/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있도록
+	있/px+도록/ecs
+
+장방형
+	장방형/ncn
+
+홈을
+	홈/ncn+을/jco
+
+파놓았다
+	파/pvg+아/ecx+놓/px+아/ep+다/ef
+
+
+서쪽
+	서쪽/ncn
+
+사면의
+	사면/ncn+의/jcm
+
+경사가
+	경사/ncr+가/jcc
+
+급해
+	급하/paa+어/ecx
+
+이곳에서
+	이곳/npd+에서/jca
+
+물자를
+	물/pvg+ㄹ/etm+자/nbn+를/jco
+
+이송하기는
+	이송/ncpa+하/xsva+기/etn+는/jxc
+
+어렵지만
+	어렵/paa+지/ecx+말/px+ㄴ/etm
+
+광나루나
+	광나루/ncn+나/jcj
+
+송파나루
+	송파나루/ncn
+
+방면에서
+	방면/ncn+에서/jca
+
+
+산성으로
+	산성/ncn+으로/jca
+
+진입하는
+	진입/ncpa+하/xsva+는/etm
+
+가장빠른
+	가장빠른/ncn
+
+길이다
+	길/ncn+이/jp+다/ef
+
+서문은
+	서문/ncn+은/jxc
+
+산성의
+	산성/ncn+의/jcm
+
+초축시기부데
+	초축시기부데/ncn
+
+있었던
+	있/paa+었/ep+던/etm
+
+것으로
+	것/nbn+으로/jca
+
+보이는데
+	보이/pvg+ㄴ데/ecs
+
+정
+	정/mag
+
+
+조3년
+	조/nnc+3/nnc+년/nbu
+
+개축하여
+	개축/ncpa+하/xsva+어/ecx
+
+우익문이라
+	우익/ncn+문/ncn+이/jp+라/ecs
+
+칭하였다
+	칭하/pvg+었/ep+다/ef
+
+
+남한산성
+	남한산성/ncn
+
+전망대
+	전망대/ncn
+
+안개로
+	안개/ncn+로/jca
+
+인해
+	인하/pvg+어/ecx
+
+시야를
+	시야/ncn+를/jco
+
+확보하지
+	확보/ncpa+하/xsva+지/ecx
+
+못하고있습니다
+	못하/paa+고/ecx+있/px+습니다/ef
+
+
+산에는
+	산/ncn+에/jca+는/jxc
+
+신갈나무
+	신갈나무/ncn
+
+.
+	./sf
+
+
+물푸레
+	물푸레/ncn
+
+.
+	./sf
+
+
+단풍
+	단풍/ncn
+
+.
+	./sf
+
+
+국수
+	국수/ncn
+
+.
+	./sf
+
+
+떡갈
+	떡갈/ncn
+
+.
+	./sf
+
+
+잔
+	잔/nbu
+
+나무
+	나무/ncn
+
+등
+	등/nbu
+
+70~80년
+	70/nnc+~/sd+80/nnc+년/nbu
+
+된
+	되/pvg+ㄴ/etm
+
+나무들이
+	나무/ncn+들/ncn+이/jcc
+
+숲을이루고있다
+	숲을이루/ncn+이/jp+고/ecx+있/px+다/ef
+
+
+남한산성은
+	남한산성/ncn+은/jxc
+
+조선시대
+	조선시대/ncn
+
+뿐
+	뿐/nbn
+
+아니라
+	아니/paa+라/ecs
+
+삼국시대부터
+	삼국시대/ncn+부터/jxc
+
+천연의
+	천연/ncn+의/jcm
+
+요새로
+	요새/ncn+로/jca
+
+중요한
+	중요/ncps+하/xsms+ㄴ/etm
+
+역할을
+	역할/ncn+을/jco
+
+하던곳이다
+	하던곳이다/ncn
+
+백제의
+	백제/ncn+의/jcm
+
+
+시조인
+	시조/ncn+이/jp+ㄴ/etm
+
+온조의
+	온조/ncn+의/jcm
+
+왕성이었다는
+	왕성/ncn+이/jp+었/ep+다/ef+는/etm
+
+기록있고
+	기록/ncpa+있/xsmn+고/ecc
+
+나당전쟁이
+	나당/ncn+전쟁/ncpa+이/jcc
+
+한창이던
+	한창/ncn+이/jp+던/etm
+
+신라
+	신/xp+라/ncn
+
+문무왕12년에
+	문무왕12년/ncn+에/jca
+
+한산주에
+	한산주/ncn+에/jca
+
+쌓은
+	쌓/pvg+은/etm
+
+
+주장성이라는
+	주장/ncpa+성/ncn+이/jp+라/ef+는/etm
+
+기록도있다
+	기록/ncpa+도/ncn+있/xsmn+다/ef
+
+
+고려시대에는
+	고려시대/ncn+에/jca+는/jxc
+
+몽고의
+	몽고/ncn+의/jcm
+
+침입을
+	침입/ncpa+을/jco
+
+격퇴한
+	격퇴/ncpa+하/xsva+ㄴ/etm
+
+곳이기도하고
+	곳이기도하/ncn+이/jp+고/ecc
+
+일제강점기엔
+	일제강점기/ncn+엔/jca
+
+항일운동의
+	항일운동/ncpa+의/jcm
+
+거점이되기도
+	거점/ncn+이/ncn+되/xsvn+기/etn+도/jxc
+
+한
+	하/pvg+ㄴ/etm
+
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+남한산성은
+	남한산성/ncn+은/jxc
+
+주로
+	주로/mag
+
+병자호란으로
+	병자/ncn+호란/ncn+으로/jca
+
+기억되는
+	기억/nnc+되/nbu+는/jxc
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+조선인조14년에
+	조선인조14년/ncn+에/jca
+
+청나라가
+	청나라/ncn+가/jcs
+
+침략
+	침략/ncpa
+
+
+해오자
+	하/pvg+어/ecx+오/px+자/ecc
+
+왕은
+	왕/ncr+은/jxc
+
+이곳으로
+	이곳/npd+으로/jca
+
+피신하여
+	피신/ncpa+하/xsva+어/ecx
+
+항전하였으나
+	항전/ncpa+하/xsva+었/ep+으나/ecs
+
+왕자들이
+	왕자/ncr+들/ncn+이/jcc
+
+피신해
+	피신/ncpa+하/xsva+어/ecx
+
+있던
+	있/px+던/etm
+
+강화도가
+	강화/ncpa+도/ncn+가/jcs
+
+함락되고
+	함락/ncpa+되/xsvn+고/ecc
+
+패색이
+	패색/ncn+이/jcc
+
+
+짙어지자
+	짙/paa+어/ecx+지/px+자/ecc
+
+세자와
+	세/nnc+자/nbu+와/jct
+
+함께
+	함께/mag
+
+성문을
+	성문/ncn+을/jco
+
+열고
+	열/pvg+고/ecc
+
+삼전도에
+	삼전/ncn+도/ncn+에/jca
+
+나가
+	나/npp+가/jcs
+
+치욕적인
+	치욕/ncn+적/ncn+이/jp+ㄴ/etm
+
+항복을
+	항복/ncpa+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+장소이다
+	장소/ncn+이/jp+다/ef
+
+
+보호수
+	보호수/ncn
+
+
+수종:향나무
+	수종:향나무/ncn
+
+수령:300년
+	수령/ncpa+:/sp+300/nnc+년/nbu
+
+수고:4m
+	수고:4m/ncn
+
+
+남한산성
+	남한산성/ncn
+
+초입을
+	초입/ncpa+을/jco
+
+지나다보면
+	지나/pvg+아/ecx+보/px+면/ecs
+
+조용한
+	조용/ncn+한/ncn
+
+아침햇살를받고
+	아침햇살를받고/ncn
+
+스님의
+	스님/ncn+의/jcm
+
+독경소리가
+	독경/ncpa+소리/ncn+가/jcs
+
+울려온다
+	울/pvg+려/ecx+오/px+ㄴ다/ef
+
+
+남한산
+	남한산/ncn
+
+국청사[
+	국청사[/ncn
+
+]
+	]/sr
+
+
+인조삼년[1625]년
+	인조삼년[1625]년/ncn
+
+각성대사에
+	각성/ncn+대사/ncn+에/jca
+
+의하여
+	의하/pvg+어/ecx
+
+창건되었다
+	창건/ncpa+되/xsvn+었/ep+다/ef
+
+각성대사는
+	각성/ncn+대사/ncn+는/jxc
+
+인조대왕으르부터
+	인조대왕으르부터/ncn
+
+팔도총섭
+	팔도총섭/ncn
+
+총
+	총/mma
+
+
+절제
+	절제/ncpa
+
+중군주장으로
+	중군/ncn+주장/ncpa+으로/jca
+
+임명을받은후
+	임명을받은후/ncn
+
+전국
+	전국/ncn
+
+팔도에서
+	팔도/ncn+에서/jca
+
+승군을모아
+	승군을모아/ncn
+
+남한산에
+	남한산/ncn+에/jca
+
+성을축성하고
+	성을축성하/ncn+이/jp+고/ecc
+
+9개
+	9/nnc+개/nbu
+
+사찰
+	사찰/ncn
+
+
+을
+	을/ncn
+
+창건하였다
+	창건/ncpa+하/xsva+었/ep+다/ef
+
+
+수어장대와
+	수어장대/ncn+와/jcj
+
+청량당
+	청량/ncn+당/ncn
+
+입구[경기도
+	입구[경기/ncn+도/jxc
+
+유형문화재
+	유형문화재/ncn
+
+제1호]
+	제1호/ncn+]/sr
+
+
+수어장대[
+	수어장대[/ncn
+
+]
+	]/sr
+
+
+수어장대는
+	수어장대/ncn+는/jxc
+
+지휘와
+	지휘/ncpa+와/jcj
+
+관측을
+	관측/ncpa+을/jco
+
+위한
+	위하/pvg+ㄴ/etm
+
+군사적
+	군사/ncn+적/ncn
+
+목적에서
+	목적/ncn+에서/jca
+
+지은
+	지/px+ㄴ/etm
+
+누각이다
+	누각/ncn+이/jp+다/ef
+
+남한산성에있는
+	남한산성에있/ncn+는/jxc
+
+5개의
+	5/nnc+개/nbu+의/jcm
+
+장대중
+	장대/ncn+중/ncn
+
+
+유일하게
+	유일/ncps+하/xsms+게/ecs
+
+남아있으며,성안에
+	남/pvg+아/ecx+있/px+으며/ecc+,/sp+성안/ncn+에/jca
+
+남아있는
+	남/pvg+아/ecx+있/px+는/etm
+
+건물중
+	건물/ncn+중/ncn
+
+가장화려하고
+	가장/ncn+화/ncn+이/jp+리/ep+어/ecx+하/px+어/ef+고/jcr
+
+웅장하다
+	웅장/ncps+하/xsms+다/ef
+
+
+병자호란때
+	병자/ncn+호란/ncn+때/ncn
+
+인조가
+	인조/ncn+가/jcs
+
+군대를
+	군대/ncn+를/jco
+
+지휘하여
+	지휘/ncpa+하/xsva+어/ecx
+
+청나라
+	청나라/ncn
+
+태종의
+	태종/ncn+의/jcm
+
+군대와
+	군대/ncn+와/jcj
+
+45일간
+	45/nnc+이/jp+ㄹ/etm+간/nbn
+
+대항하고
+	대항/ncpa+하고/jct
+
+싸운
+	싸우/pvg+ㄴ/etm
+
+곳으로
+	곳/ncn+으로/jca
+
+기록
+	기록/ncpa
+
+
+남한산성
+	남한산성/ncn
+
+남문[지화문]은
+	남문[지화문]/ncn+은/jxc
+
+성남쪽에서
+	성나/pvg+ㅁ/etn+쪽/xsnx+에서/jca
+
+올나가는
+	올나가/ncn+는/jxc
+
+주출입문이다
+	주출입문/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+남한산성을
+	남한산성/ncn+을/jco
+
+새롭게
+	새롭/paa+게/ecs
+
+알리고자
+	알리고/ncn+이/jp+자/ecc
+
+하는
+	하/pvg+는/etm
+
+
+의미에서
+	의미/ncpa+에서/jca
+
+남문구간의
+	남문/ncn+구간/ncn+의/jcm
+
+옛터를
+	옛터/ncn+를/jco
+
+복원
+	복원/ncpa
+
+조성하였다
+	조성/ncpa+하/xsva+었/ep+다/ef
+
+그
+	그/mmd
+
+앞에
+	앞/ncn+에/jca
+
+서있는380여년
+	서있는380여년/ncn
+
+수령의
+	수령/ncpa+의/jcm
+
+느티나무가
+	느티나무/ncn+가/jcs
+
+조화를
+	조화/ncn+를/jco
+
+
+이뤄
+	이루/pvg+어/ecx
+
+고즈넉한
+	고즈넉/ncps+하/xsms+ㄴ/etm
+
+풍경을
+	풍경/ncn+을/jco
+
+이루고있다
+	이루/pvg+고/ecx+있/px+다/ef
+
+
+남한산성에서
+	남한산성/ncn+에서/jca
+
+흐르는
+	흐르/pvg+는/etm
+
+계곡을끼고
+	계곡을끼/ncn+이/jp+고/ecc
+
+조경시설과
+	조경시설/ncpa+과/jcj
+
+조형분수,놀이마당
+	조형/ncpa+분수/ncn+,/sp+놀이마당/ncn
+
+등
+	등/nbu
+
+아름다운
+	아름답/paa+은/etm
+
+주변환경과
+	주변환경/ncn+과/jcj
+
+어우
+	어우/ncn
+
+
+러진
+	러진/ncn
+
+유원시설이
+	유원시설/ncn+이/jcc
+
+잘꾸며져있다
+	잘꾸며져있다/ncn
+
+주변에는
+	주변/ncn+에/jca+는/jxc
+
+민속공에
+	민속/ncn+공/ncn+에/jca
+
+전시관
+	전시관/ncn
+
+,발지암
+	,발지암/ncn
+
+매점과
+	매점/ncn+과/jcj
+
+음식점
+	음식/ncn+점/ncn
+
+넓은
+	넓/paa+은/etm
+
+주차장과
+	주차장/ncn+과/jcj
+
+
+휴게시설이
+	휴게시설/ncn+이/jcc
+
+마련되어
+	마련/ncpa+되/xsvn+어/ecx
+
+가족나들이나
+	가족나들이/ncn+나/jcj
+
+친목모임
+	친목모임/ncn
+
+데이트
+	데이트/ncpa
+
+장소로
+	장소/ncn+로/jca
+
+누구에게나
+	누구/npp+에게/jca+나/jxc
+
+사랑을
+	사랑/ncn+을/jco
+
+받고있다
+	받/pvg+고/ecx+있/px+다/ef

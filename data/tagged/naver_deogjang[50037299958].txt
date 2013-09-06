@@ -1,0 +1,587 @@
+소요산
+	소요/ncpa+산/ncn
+
+가는
+	가/pvg+는/etm
+
+길
+	길/ncn
+
+:서울
+	:서울/ncn
+
+지하철
+	지하철/ncn
+
+인천출발-소요산
+	인천출발-소요산/ncn
+
+행
+	행/nbu
+
+1호선
+	1호선/ncn
+
+을
+	을/ncn
+
+타고종점에서
+	타고/ncpa+종점/ncn+에서/jca
+
+내리면됨니다
+	내리면됨니/ncn+이/jp+다/ef
+
+
+등산
+	등산/ncpa
+
+코스:매표소-자재암-중백운대-상백운대-나한대-의상대-구절터-일주문
+	코스:매표소-자재암-중백운대-상백운대/ncn+-/sd+나한/ncn+대/ncn+-/sd+의상/ncn+대/ncn+-/sd+구절/ncn+터/ncn+-/sd+일주문/ncn
+
+
+소요산
+	소요/ncpa+산/ncn
+
+높이586m소요시간약4시간
+	높이586m소요시간약4시간/ncn
+
+
+소요산
+	소요/ncpa+산/ncn
+
+은
+	은/ncn
+
+포천시의
+	포천시/ncn+의/jcm
+
+종현
+	종현/ncn
+
+산과
+	산/ncn+과/jcj
+
+남북으로
+	남북/ncn+으로/jca
+
+이어져
+	잇/pvg+어/ecx+지/px+어/ecx
+
+있으며
+	있/px+으며/ecc
+
+동두천
+	동두천/ncn
+
+동북쪽
+	동북쪽/ncn
+
+외각을둘러싸고
+	외각을둘러싸/ncn+이/jp+고/ecc
+
+있다
+	있/paa+다/ef
+
+
+지하철
+	지하철/ncn
+
+역사를
+	역사/ncn+를/jco
+
+한
+	하/pvg+ㄴ/etm
+
+몸에받고
+	몸에받고/ncn
+
+있는1호선
+	있는1호선/ncn
+
+인천을
+	인천/ncn+을/jco
+
+출발하여
+	출발/ncpa+하/xsva+어/ecx
+
+서울
+	서울/ncn
+
+중심부를
+	중심부/ncn+를/jco
+
+관통하고
+	관통/ncpa+하고/jcj
+
+
+마즈막
+	마즈막/ncn
+
+역사가
+	역사/ncn+가/jcs
+
+소요산역입니다
+	소요산역/ncn+이/jp+ㅂ니다/ef
+
+
+정상이
+	정상/ncn+이/jcc
+
+그리
+	그리/mad
+
+높은산은아니다
+	높은산은아니다/ncn
+
+그러나
+	그러나/maj
+
+한번쯤
+	한번쯤/ncn
+
+가본
+	가/pvg+아/ecx+보/px+ㄴ/etm
+
+사람이라면
+	사람/ncn+이/jp+라면/ecs
+
+이산을
+	이산/ncpa+을/jco
+
+왜
+	왜/mag
+
+경기의
+	경기/ncn+의/jcm
+
+소금강
+	소금/ncn+강/ncn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+하는지
+	하/pvg+는지/ecc
+
+
+이유를
+	이유/ncn+를/jco
+
+알수
+	알/pvg+ㄹ/etm+수/nbn
+
+있을만큼
+	있/px+을/etm+만큼/nbn
+
+아름다운
+	아름답/paa+은/etm
+
+산이다
+	산/ncn+이/jp+다/ef
+
+
+소요산
+	소요/ncpa+산/ncn
+
+등산로는
+	등산로/ncn+는/jxc
+
+소나무
+	소나무/ncn
+
+그늘이
+	그늘/ncn+이/jcc
+
+조화를
+	조화/ncn+를/jco
+
+이루기
+	이루/pvg+기/etn
+
+때문에
+	때문/nbn+에/jca
+
+여름철에도
+	여름철/ncn+에/jca+도/jxc
+
+등산하기에
+	등산/ncpa+하/xsva+기/etn+에/jca
+
+참조운
+	참조/ncpa+운/ncn
+
+곳이다
+	곳/nbu+이/jp+다/ef
+
+
+이곳을
+	이곳/npd+을/jco
+
+지나가면
+	지나/pvg+아/ecx+가/px+면/ecs
+
+상
+	상/ncn
+
+백운대와
+	백운대/ncn+와/jcj
+
+중
+	중/nbn
+
+백운대
+	백운대/ncn
+
+능선을
+	능선/ncn+을/jco
+
+오르게
+	오르/pvg+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+
+어느날
+	어느날/npd
+
+비가
+	비/ncn+가/jcs
+
+억수
+	억수/ncn
+
+로
+	로/ncn
+
+퍼붙는
+	퍼붙/ncn+는/jxc
+
+여름날밤에
+	여름날/ncn+밤/ncn+에/jca
+
+한아낙이
+	한아낙/ncn+이/jcc
+
+약초를
+	약초/ncn+를/jco
+
+캐다가
+	캐/pvg+다가/ecs
+
+길을
+	길/ncn+을/jco
+
+잃었다며
+	잃/pvg+었/ep+다며/ecs
+
+원효의
+	원효/ncn+의/jcm
+
+초당을
+	초당/ncn+을/jco
+
+찾아
+	찾/pvg+아/ecx
+
+들었다비
+	들었다비/ncn
+
+맞은
+	맞/pvg+은/etm
+
+여인의
+	여인/ncn+의/jcm
+
+자태에
+	자태/ncn+에/jca
+
+한번쯤
+	한번쯤/ncn
+
+눈
+	눈/ncn
+
+길이라도
+	길/ncn+이/jp+라/ecs+도/jxc
+
+줄법한데
+	주/px+ㄹ/etm+법/nbs+하/xsms+ㄴ데/ecs
+
+원효는
+	원효/ncn+는/jxc
+
+수도중이라며
+	수도/ncn+중이/ncn+이/jp+라며/ecs
+
+여인을
+	여인/ncn+을/jco
+
+거들떠
+	거들뜨/pvg+어/ecx
+
+보지도않았다그런데
+	보지도않았다그런데/ncn
+
+나중에
+	나중/ncn+에/jca
+
+알고본이
+	알고본/ncn+이/jcc
+
+이
+	이/mmd
+
+여인은
+	여인/ncn+은/jxc
+
+관세음
+	관세/ncn+음/ncn
+
+보살
+	보살/ncn
+
+이었다고
+	이/npd+이/jp+었/ep+다/ef+고/jcr
+
+한다
+	하/pvg+ㄴ다/ef
+
+
+소요산
+	소요/ncpa+산/ncn
+
+산신
+	산신/ncn
+
+재는
+	재/pvg+는/etm
+
+매년9월9일에
+	매년9월9일/ncn+에/jca
+
+생기와
+	생기/ncn+와/jct
+
+.
+	./sf
+
+
+복덕을
+	복덕/ncn+을/jco
+
+기리어
+	기리/pvg+어/ecx
+
+화주인
+	화주/ncn+이/jp+ㄴ/etm
+
+.
+	./sf
+
+
+화덕헌관
+	화덕헌관/ncn
+
+.
+	./sf
+
+
+축관등
+	축관/ncn+등/ncn
+
+총
+	총/mma
+
+사인을
+	사인/ncn+을/jco
+
+선택하여
+	선택/ncpa+하/xsva+어/ecx
+
+돼지를잡고
+	돼지를잡고/ncn
+
+신곡
+	신곡/ncn
+
+신과를
+	신/xp+과/ncn+를/jco
+
+차려놓고
+	차리/pvg+어/ecx+놓/px+고/ecc
+
+재사를
+	재사/ncn+를/jco
+
+지낸다
+	지내/pvg+ㄴ다/ef
+
+그
+	그/mmd
+
+어느시대부터
+	어느시대부터/ncn
+
+시작
+	시작/ncpa
+
+되었는
+	되/pvg+었/ep+는/etm
+
+지는
+	지/px+는/etm
+
+알수가
+	알/pvg+ㄹ/etm+수/nbn+가/jcc
+
+없다
+	없/paa+다/ef
+
+
+소요산
+	소요/ncpa+산/ncn
+
+의상대
+	의상/ncn+대/ncn
+
+는
+	늘/pvg+ㄴ/etm
+
+정상을말한다
+	정상을말한다/ncn
+
+
+계곡이
+	계곡/ncn+이/jcc
+
+깊어서
+	깊/paa+어서/ecs
+
+언재
+	언재/ncn
+
+와도
+	오/px+아/ecs
+
+좋은산이다
+	좋은산이다/ncn
+
+특히
+	특히/mag
+
+가을철이면
+	가을철/ncn+이/jp+면/ecs
+
+단풍이
+	단풍/ncn+이/jcc
+
+무척
+	무척/mag
+
+좋더라는
+	좋/paa+더/ep+라/ef+는/etm
+
+이야기가
+	이야기/ncpa+가/jcc
+
+입애서
+	입애서/ncn
+
+입으로
+	입/ncn+으로/jca
+
+
+전해져
+	전하/pvg+어/ecx+지/px+어/ecx
+
+소요산을
+	소요/ncpa+산/ncn+을/jco
+
+찾게된다
+	찾/pvg+게/ecx+되/px+ㄴ다/ef
+
+
+소요산
+	소요/ncpa+산/ncn
+
+은묘한
+	은묘한/ncn
+
+암봉과
+	암봉/ncn+과/jcj
+
+바위
+	바위/ncn
+
+능선
+	능선/ncn
+
+사이로
+	사이/ncn+로/jca
+
+골짝
+	골짝/ncn
+
+이는
+	이/npd+는/jxc
+
+협곡을
+	협곡/ncn+을/jco
+
+이루고있다
+	이루/pvg+고/ecx+있/px+다/ef
+
+
+천년을
+	천/nnc+년/nbu+을/jco
+
+넘게
+	넘/pvg+게/ecs
+
+이어온
+	잇/pvg+어/ecx+오/px+ㄴ/etm
+
+사찰과
+	사찰/ncn+과/jct
+
+수많은
+	수많/paa+은/etm
+
+유적
+	유적/ncn
+
+.
+	./sf
+
+
+명승지가
+	명승지/ncn+가/jcs
+
+합게
+	합/ncn+게/jca
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있으며
+	있/px+으며/ecc
+
+원효
+	원효/ncn
+
+대사에
+	대사/ncn+에/jca
+
+얽힌
+	얽히/pvg+ㄴ/etm
+
+
+이야기도
+	이야기/ncpa+도/jxc
+
+전해지고
+	전하/pvg+어/ecx+지/px+고/ecc
+
+있다
+	있/paa+다/ef

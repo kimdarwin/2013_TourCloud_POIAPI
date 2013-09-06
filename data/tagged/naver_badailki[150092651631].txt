@@ -1,0 +1,45 @@
+부여보
+	부여/ncpa+보/ncn
+
+인근
+	인근/ncn
+
+청양군
+	청양군/ncn
+
+청남면
+	청남면/ncn
+
+왕진리
+	왕진/ncpa+리/ncn
+
+마을에는
+	마을/ncn+에/jca+는/jxc
+
+고향을
+	고향/ncn+을/jco
+
+버리고
+	버리/px+고/ecc
+
+떠난
+	떠나/pvg+ㄴ/etm
+
+사람들로
+	사람들/ncn+로/jca
+
+인해
+	인하/paa+어/ecs
+
+
+폐가들이
+	폐가/ncpa+들/xsncc+이/jcc
+
+즐비하게
+	즐비/ncps+하/xsms+게/ecs
+
+널려있다
+	널리/pvg+어/ecx+있/px+다/ef
+
+.
+	./sf

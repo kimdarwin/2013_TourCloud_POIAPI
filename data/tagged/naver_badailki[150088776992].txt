@@ -1,0 +1,1023 @@
+기상청
+	기상/ncn+청/ncn
+
+연계,
+	연계/ncpa+,/sp
+
+전국
+	전국/ncn
+
+최초
+	최초/ncn
+
+비점오염
+	비점오염/ncn
+
+관리
+	관리/ncpa
+
+예보제
+	예보제/ncn
+
+시행
+	시행/ncpa
+
+
+경기도가
+	경기/ncn+도/ncn+가/jcs
+
+전국에서
+	전국/ncn+에서/jca
+
+처음으로
+	처음/ncn+으로/jca
+
+비점오염
+	비점오염/ncn
+
+관리
+	관리/ncpa
+
+예보제
+	예보제/ncn
+
+를
+	를/ncn
+
+실시,
+	실시/ncpa+,/sp
+
+
+강우
+	강우/ncn
+
+시
+	시/nbu
+
+불특정하게
+	불특정/ncpa+하/xsva+게/ecs
+
+하천에
+	하천/ncn+에/jca
+
+유입되는
+	유입/ncpa+되/xsvn+는/etm
+
+각종
+	각종/ncn
+
+수질오염물질의
+	수질/ncn+오염물질/ncn+의/jcm
+
+사전차단에
+	사전차단/ncpa+에/jca
+
+나섰다
+	나서/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+G뉴스플러스
+	G/f+뉴스/ncn+플러스/ncn
+
+황진환
+	황진환/ncn
+
+경기도가
+	경기/ncn+도/ncn+가/jcs
+
+전국에서
+	전국/ncn+에서/jca
+
+처음으로
+	처음/ncn+으로/jca
+
+비점오염
+	비점오염/ncn
+
+관리
+	관리/ncpa
+
+예보제
+	예보제/ncn
+
+를
+	를/ncn
+
+실시,
+	실시/ncpa+,/sp
+
+
+강우
+	강우/ncn
+
+시
+	시/nbu
+
+불특정하게
+	불특정/ncpa+하/xsva+게/ecs
+
+하천에
+	하천/ncn+에/jca
+
+유입되는
+	유입/ncpa+되/xsvn+는/etm
+
+각종
+	각종/ncn
+
+수질오염물질의
+	수질/ncn+오염물질/ncn+의/jcm
+
+사전차단에
+	사전차단/ncpa+에/jca
+
+나섰다
+	나서/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+비점오염원은
+	비점오염원/ncn+은/jxc
+
+공장폐수,
+	공장폐수/ncn+,/sp
+
+생활하수
+	생활하수/ncn
+
+등
+	등/nbu
+
+하수처리시설과
+	하수처리시설/ncn+과/jct
+
+같은
+	같/paa+은/etm
+
+고정된
+	고정/ncpa+되/xsvn+ㄴ/etm
+
+장소에서
+	장소/ncn+에서/jca
+
+처리가
+	처리/ncpa+가/jcc
+
+가능한
+	가능/ncn+한/ncn
+
+
+점오염원과
+	점오염원/ncn+과/jcj
+
+달리,
+	달/paa+ㄹ/etm+리/nbn+,/sp
+
+도로
+	도/ncn+로/jca
+
+위
+	위/ncn
+
+쓰레기나
+	쓰레기/ncn+나/jcj
+
+기름막,
+	기름/ncn+막/ncn+,/sp
+
+가축분뇨,
+	가축/ncn+분뇨/ncn+,/sp
+
+농업비료
+	농업/ncn+비료/ncn
+
+등을
+	등/nbu+을/jco
+
+말한다
+	말/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+경기도는
+	경기/ncn+도/jxc+는/jxc
+
+그동안
+	그동안/ncn
+
+하수도보급률
+	하수도/ncn+보급률/ncn
+
+증가와
+	증가/ncpa+와/jcj
+
+환경기초시설
+	환경기초시설/ncpa
+
+확충을
+	확충/ncpa+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+유출경로가
+	유출/ncpa+경로/ncn+가/jcs
+
+명확한
+	명확/ncps+하/xsms+ㄴ/etm
+
+오염원의
+	오염원/ncn+의/jcm
+
+
+처리효율을
+	처리/ncpa+효율/ncn+을/jco
+
+높임으로서
+	높이/pvg+ㅁ/etn+으로서/jca
+
+팔당상수원
+	팔당상수원/ncn
+
+수질을
+	수질/ncn+을/jco
+
+1급수로
+	1/nnc+급/xsnu+수/nbu+로/jca
+
+유지해
+	유지/ncn+해/ncn
+
+왔다
+	오/px+아/ep+다/ef
+
+.
+	./sf
+
+
+하지만
+	하지만/maj
+
+유출
+	유출/ncpa
+
+및
+	및/maj
+
+배출경로가
+	배출/ncpa+경로/ncn+가/jcs
+
+명확하지
+	명확/ncps+하/xsms+지/ecx
+
+않은
+	않/px+은/etm
+
+비점오염원은
+	비점오염원/ncn+은/jxc
+
+상대적으로
+	상대/ncn+적/ncn+으로/jca
+
+제거가
+	제거/ncpa+가/jcc
+
+어려워
+	어렵/paa+어/ecx
+
+갈수록
+	갈수록/mag
+
+
+오염부하량이
+	오염부하량/ncn+이/jcc
+
+증가하고
+	증가/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+초기
+	초/nbu+이/jp+기/etn
+
+강우가
+	강우/ncn+가/jcs
+
+12mm
+	12mm/ncn
+
+이상인
+	이상/ncn+이/jp+ㄴ/etm
+
+경우
+	경우/ncn
+
+전량
+	전량/ncn
+
+하천으로
+	하천/ncn+으로/jca
+
+유입돼
+	유입/ncpa+되/xsvn+어/ecs
+
+
+수질오염의
+	수질오염/ncpa+의/jcm
+
+주범이
+	주범/ncn+이/jcc
+
+되고
+	되/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+실제
+	실제/ncn
+
+지난
+	지나/pvg+ㄴ/etm
+
+2006년
+	2006/nnc+년/nbu
+
+환경부가
+	환경부/ncn+가/jcs
+
+발간한
+	발갛/paa+은/etm+한/nbn
+
+물환경관리기본계획에
+	물환경관리기본계획/ncn+에/jca
+
+따르면,
+	따르/pvg+면/ecs+,/sp
+
+
+현재
+	현재/mag
+
+한강수계
+	한강수계/ncn
+
+수질오염
+	수질오염/ncpa
+
+주
+	주/nbu
+
+원인
+	원/nbu+이/jp+ㄴ/etm
+
+42%가
+	42/nnc+%/su+가/jcc
+
+비점오염원이며,
+	비점오염원이며,/ncn
+
+오는
+	오/px+는/etm
+
+2015년이
+	2015/nnc+년/nbu+이/jcc
+
+되면
+	되/pvg+면/ecs
+
+70%로
+	70/nnc+%/su+로/jca
+
+
+증가할
+	증가/ncpa+하/xsva+ㄹ/etm
+
+것으로
+	것/nbn+으로/jca
+
+예상되고
+	예상/ncpa+되/xsvn+고/ecc
+
+있어
+	있/px+어/ecx
+
+비점오염원
+	비점오염원/ncn
+
+차단에
+	차단/ncpa+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+대책마련이
+	대책/ncn+마련/ncpa+이/jcc
+
+시급한
+	시급/ncn+한/ncn
+
+실정이다
+	실정/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+이에
+	이/npd+에/jca
+
+경기도는
+	경기/ncn+도/jxc+는/jxc
+
+장마와
+	장마/ncn+와/jcj
+
+집중호우가
+	집중호우/ncn+가/jcs
+
+시작되는
+	시작/ncpa+되/xsvn+는/etm
+
+6월부터
+	6/nnc+월/nbu+부터/jxc
+
+비점오염
+	비점오염/ncn
+
+관리
+	관리/ncpa
+
+예보제
+	예보제/ncn
+
+를
+	를/ncn
+
+실시하고
+	실시/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+예보제는
+	예보제/ncn+는/jxc
+
+기상청의
+	기상/ncn+청/ncn+의/jcm
+
+강우
+	강우/ncn
+
+확률
+	확률/ncn
+
+및
+	및/maj
+
+강우량
+	강우량/ncn
+
+예보를
+	예보/ncpa+를/jco
+
+도내
+	도내/ncn
+
+전
+	전/nbn
+
+시
+	시/nbu
+
+군
+	굴/pvg+ㄴ/etm
+
+담당자에
+	담당자/ncn+에/jca
+
+문자전송
+	문자/ncn+전송/ncpa
+
+및
+	및/maj
+
+
+행정정보시스템
+	행정정보시스템/ncn
+
+게시를
+	게시/ncpa+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+비점오염원의
+	비점오염원/ncn+의/jcm
+
+하천
+	하천/ncn
+
+유입을
+	유입/ncpa+을/jco
+
+최소화하는
+	최소/ncn+화/xsnca+하/xsva+는/etm
+
+방안이다
+	방안/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+6월부터
+	6/nnc+월/nbu+부터/jxc
+
+시행되고
+	시행/ncpa+되/xsvn+고/ecc
+
+있는
+	있/px+는/etm
+
+예보제는
+	예보제/ncn+는/jxc
+
+기상청
+	기상/ncn+청/ncn
+
+강우예보에
+	강우예보/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+시군
+	시/nbu+이/jp+군/ef
+
+담당자
+	담당자/ncn
+
+문자전송
+	문자/ncn+전송/ncpa
+
+시설점검
+	시설/ncpa+점검/ncpa
+
+
+현장조치
+	현장/ncn+조치/ncpa
+
+순으로
+	순/ncn+으로/jca
+
+시행된다
+	시행/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+광주시
+	광주시/ncn
+
+관계자가
+	관계자/ncn+가/jcs
+
+예보제를
+	예보제/ncn+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+전송된
+	전송/ncpa+되/xsvn+ㄴ/etm
+
+문자메세지(사진
+	문자메세지(사진/ncn
+
+위)
+	위/ncn+)/sr
+
+확인
+	확인/ncpa
+
+후
+	후/ii
+
+
+경안천
+	경안천/ncn
+
+인근
+	인근/ncn
+
+도로노면을
+	도로/ncn+노면/ncn+을/jco
+
+청소하고
+	청소/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+G뉴스플러스
+	G/f+뉴스/ncn+플러스/ncn
+
+황진환
+	황진환/ncn
+
+시행
+	시행/ncpa
+
+방법은
+	방법/ncn+은/jxc
+
+2단계로
+	2단계/ncn+로/jca
+
+진행된다
+	진행/ncpa+되/xsvn+ㄴ다/ef
+
+.
+	./sf
+
+
+1단계에선
+	1단계에선/ncn
+
+기상청의
+	기상/ncn+청/ncn+의/jcm
+
+강우예보가
+	강우예보/ncn+가/jcs
+
+7일전
+	7/nnc+이/jp+ㄹ/etm+전/nbn
+
+나오면
+	나/pvg+아/ecx+오/px+면/ecs
+
+소요기간이
+	소요/ncpa+기간/ncn+이/jcc
+
+
+5일
+	5/nnc+일/nbu
+
+이상인
+	이상/ncn+이/jp+ㄴ/etm
+
+환경기초시설
+	환경기초시설/ncpa
+
+청소
+	청소/ncpa
+
+준설
+	준설/ncn
+
+작업
+	작업/ncpa
+
+등을
+	등/nbu+을/jco
+
+실시한다
+	실시/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+2단계에선
+	2단계에선/ncn
+
+기상청
+	기상/ncn+청/ncn
+
+2일전
+	2/nnc+이/jp+ㄹ/etm+전/nbn
+
+강우예보를
+	강우예보/ncn+를/jco
+
+활용,
+	활용/ncpa+,/sp
+
+
+10mm이상
+	10mm이상/ncn
+
+예보
+	예보/ncpa
+
+시
+	시/nbu
+
+소요기간이
+	소요/ncpa+기간/ncn+이/jcc
+
+2일
+	2/nnc+일/nbu
+
+이내
+	이내/mma
+
+즉시
+	즉시/mag
+
+조치가
+	조/nnc+치/nbu+가/jcc
+
+가능한
+	가능/ncps+하/xsms+ㄴ/etm
+
+도로청소
+	도로/ncn+청소/ncpa
+
+등을
+	등/nbu+을/jco
+
+실시해
+	실시/ncpa+하/xsva+어/ecx
+
+비점오염원을
+	비점오염원/ncn+을/jco
+
+
+사전에
+	사전/ncn+에/jca
+
+처리하는
+	처리/ncpa+하/xsva+는/etm
+
+방식이다
+	방식/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+경기도
+	경기/ncn+도/jxc
+
+팔당수질개선본부
+	팔당수질개선본부/ncn
+
+변진원
+	변진원/ncn
+
+수질오염총량과장은
+	수질오염/ncpa+총량/ncn+과장/ncr+은/jxc
+
+현재까지
+	현재/ncn+까지/jxc
+
+비점오염원
+	비점오염원/ncn
+
+관리는
+	관리/ncn+는/jxc
+
+사후관리에
+	사후관리/ncpa+에/jca
+
+
+집중되어
+	집중/ncpa+되/xsvn+어/ecx
+
+있어
+	있/px+어/ecx
+
+발생원에
+	발생/ncpa+원/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+사전관리
+	사전/ncn+관리/ncpa
+
+필요성이
+	필요성/ncn+이/jcc
+
+높아지고
+	높/paa+아/ecx+지/px+고/ecc
+
+있다
+	있/px+다/ef
+
+며
+	며/ncn
+
+예보제
+	예보제/ncn
+
+시행으로
+	시행/ncpa+으로/jca
+
+
+환경기초시설
+	환경기초시설/ncpa
+
+및
+	및/maj
+
+비점오염저감시설의
+	비점오염저감시설/ncn+의/jcm
+
+처리효율
+	처리/ncpa+효율/ncn
+
+증대와
+	증대/ncpa+와/jcj
+
+도로청소
+	도로/ncn+청소/ncpa
+
+등
+	등/nbu
+
+비점오염원
+	비점오염원/ncn
+
+사전처리가
+	사전/ncn+처리/ncpa+가/jcc
+
+
+가능해져
+	가능/ncps+하/xsms+어/ecx+지/px+어/ecx
+
+하천
+	하천/ncn
+
+및
+	및/maj
+
+호수
+	호수/ncn
+
+수질개선에
+	수질개선/ncn+에/jca
+
+크게
+	크/paa+게/ecs
+
+기여할
+	기이/pvg+어/ecx+하/px+ㄹ/etm
+
+것
+	것/nbn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이어
+	이/npd+이/jp+어/ecs
+
+그는
+	그/npp+는/jxc
+
+앞으로
+	앞/ncn+으로/jca
+
+예보제의
+	예보제/ncn+의/jcm
+
+시행은
+	시행/ncpa+은/jxc
+
+물론,
+	물론/ncn+,/sp
+
+도정
+	도정/ncn
+
+방향에
+	방향/ncn+에/jca
+
+따라
+	따르/pvg+아/ecx
+
+도내
+	도내/ncn
+
+하천에
+	하천/ncn+에/jca
+
+인공습지와
+	인공/ncn+습지/ncn+와/jcj
+
+저류조를
+	저류조/ncn+를/jco
+
+
+설치하고
+	설치/ncpa+하고/jct
+
+노면청소차량을
+	노면/ncn+청소/ncpa+차량/ncn+을/jco
+
+구입해
+	구입/ncpa+하/xsva+어/ecx
+
+비점오염원의
+	비점오염원/ncn+의/jcm
+
+정화,
+	정화/ncpa+,/sp
+
+처리능력을
+	처리능력/ncn+을/jco
+
+강화해
+	강화/ncpa+하/xsva+어/ecx
+
+더
+	더/mag
+
+깨끗한
+	깨끗/ncps+하/xsms+ㄴ/etm
+
+하천
+	하천/ncn
+
+만들기에
+	만들기/ncn+에/jca
+
+
+노력해
+	노력/ncpa+하/xsva+어/ecx
+
+나갈
+	나/pvg+아/ecx+가/px+ㄹ/etm
+
+것
+	것/nbn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+덧붙였다
+	덧붙이/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+[데일리안
+	[/sl+데/nbn+이/jp+ㄹ/etm+리/nbn+안/xsnx
+
+정승도
+	정승/ncn+도/jxc
+
+넷포터
+	넷포터/ncn
+
+]
+	]/sr
+
+
+출처
+	출처/ncn
+
+:
+	:/sp
+
+그린투데이
+	그린/ncn+투데이/ncn

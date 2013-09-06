@@ -1,0 +1,1133 @@
+국회의원
+	국회의원/ncr
+
+공격설에
+	공격/ncpa+설/ncn+에/jca
+
+달성보
+	달성/ncpa+보/ncn
+
+현장
+	현장/ncn
+
+억울
+	억울/ncps
+
+
+지난해
+	지난해/ncn
+
+가을
+	가/px+ㄹ/etm
+
+공사중인
+	공사/ncn+중/ncn+이/jp+ㄴ/etm
+
+낙동강
+	낙동강/ncn
+
+달성보
+	달성/ncpa+보/ncn
+
+.
+	./sf
+
+
+열어
+	열/pvg+어/ecx
+
+둔
+	두/pvg+ㄴ/etm
+
+수문으로
+	수문/ncn+으로/jca
+
+엄청난
+	엄청나/paa+ㄴ/etm
+
+물살이
+	물살/ncn+이/jcc
+
+하류로
+	하류/ncn+로/jca
+
+빠져나가고
+	빠지/pvg+어/ecx+나/px+아/ecx+가/px+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+물
+	물/pvg+ㄹ/etm
+
+쏟아지는
+	쏟/pvg+아/ecx+지/px+는/etm
+
+수문
+	수문/ncn
+
+아래로
+	아래/ncn+로/jca
+
+기습
+	기습/ncn
+
+진입하는
+	진입/ncpa+하/xsva+는/etm
+
+걸
+	거/nbn+ㄹ/jco
+
+막았는데
+	막/pvg+아/ep+ㄴ데/ecs
+
+국회의원
+	국회의원/ncr
+
+공격했다니요
+	공격/ncpa+하/xsva+었/ep+다니/ef+요/jxf
+
+?
+	?/sf
+
+
+최근
+	최근/mag
+
+4대강
+	4대강/ncn
+
+달성보
+	달성/ncpa+보/ncn
+
+현장이
+	현장/ncn+이/jcc
+
+의원
+	의원/ncr
+
+보트
+	보트/ncn
+
+공격설에
+	공격/ncpa+설/ncn+에/jca
+
+발칵
+	발칵/mag
+
+뒤집혔다
+	뒤집히/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이와
+	이/npd+와/jct
+
+반대로
+	반대/ncn+로/jca
+
+현장에
+	현장/ncn+에/jca
+
+무단진입하던
+	무단/ncn+진입/ncpa+하/xsva+던/etm
+
+보트에
+	보트/ncn+에/jca
+
+탄
+	타/pvg+ㄴ/etm
+
+사람이
+	사람/ncn+이/jcc
+
+낫을
+	낫/paa+을/etm
+
+들고
+	들/pvg+고/ecc
+
+있었다는
+	있/px+었/ep+다/ef+는/etm
+
+주장도
+	주장/ncpa+도/jxc
+
+나왔다
+	나오/pvg+아/ep+다/ef+./sf
+
+.
+	./sf
+
+
+언론을
+	언론/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+내용은
+	내용/ncn+은/jxc
+
+이렇다
+	이렇/pad+다/ef
+
+.
+	./sf
+
+
+23일
+	23/nnc+일/nbu
+
+오전
+	오전/ncn
+
+10시
+	10/nnc+시/nbu
+
+대구
+	대구/ncn
+
+달성군
+	달성군/ncn
+
+논공읍
+	논공읍/ncn
+
+산업단지
+	산업단지/ncn
+
+인근
+	인근/ncn
+
+낙동강변
+	낙동강변/ncn
+
+달성보
+	달성/ncpa+보/ncn
+
+하류
+	하류/ncn
+
+3
+	3/nnc
+
+지점에서
+	지점/ncn+에서/jca
+
+김부겸
+	김부겸/ncn
+
+민주통합당
+	민주/ncn+통합/ncpa+당/ncn
+
+최고위원
+	최고위/ncn+원/ncn
+
+등
+	등/nbu
+
+일행
+	일/nnc+행/nbu
+
+8명이
+	8/nnc+명/nbu+이/jcc
+
+길이
+	길/ncn+이/jcc
+
+3m
+	3m/ncn
+
+가량의
+	가량/nbu+의/jcm
+
+소형
+	소형/ncn
+
+모터보트에
+	모터보트/ncn+에/jca
+
+올라탄
+	오르/pvg+아/ecx+타/px+ㄴ/etm
+
+뒤
+	뒤/ncn
+
+달성보를
+	달성/ncpa+보/ncn+를/jco
+
+향해
+	향하/pvg+어/ecx
+
+상류로
+	상류/ncn+로/jca
+
+향했다
+	향하/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+이들은
+	이/ncn+들/xsncc+은/jxc
+
+최근
+	최근/mag
+
+달성보
+	달성/ncpa+보/ncn
+
+하류에
+	하류/ncn+에/jca
+
+위치한
+	위치/ncn+한/ncn
+
+창녕함안보
+	창녕함안보/ncn
+
+주변에
+	주변/ncn+에/jca
+
+세굴(
+	세굴(/ncn
+
+물에
+	물/ncn+에/jca
+
+의해
+	의하/pvg+어/ecs
+
+강바닥이
+	강바닥/ncn+이/jcc
+
+깎이는
+	깎이/pvg+는/etm
+
+현상)
+	현상/ncn+)/sr
+
+현상이
+	현상/ncn+이/jcc
+
+나타난
+	나타나/pvg+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+조사되면서
+	조/nnc+사/nnc+되/nbu+이/jp+면서/ecc
+
+이곳에서도
+	이곳/npd+에서/jca+도/jxc
+
+같은
+	같/paa+은/etm
+
+현상이
+	현상/ncn+이/jcc
+
+났을
+	나/px+아/ep+ㄹ/etm
+
+가능성을
+	가능성/ncn+을/jco
+
+조사하러
+	조사/ncpa+하/xsva+러/ecs
+
+온
+	오/px+ㄴ/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+조사단이
+	조사단/ncn+이/jcc
+
+달성보
+	달성/ncpa+보/ncn
+
+하류
+	하류/ncn
+
+700m
+	700m/ncn
+
+지점에
+	지점/ncn+에/jca
+
+이르자
+	이르/pvg+자/ecc
+
+보
+	보/nbu
+
+바로
+	바로/mag
+
+앞에
+	앞/ncn+에/jca
+
+세워져
+	세우/pvg+어/ecx+지/px+어/ecx
+
+있던
+	있/px+던/etm
+
+길이
+	길/ncn+이/jcc
+
+10m의
+	10m/ncn+의/jcm
+
+바지선에
+	바지선/ncn+에/jca
+
+타고
+	타/pvg+고/ecc
+
+있던
+	있/px+던/etm
+
+작업인부
+	작업/ncpa+인부/ncn
+
+4명이
+	4/nnc+명/nbu+이/jcc
+
+"이곳에
+	"/sl+이곳/npd+에/jca
+
+들어오면
+	들/pvg+어/ecx+오/px+면/ecs
+
+안
+	안/mag
+
+된다"고
+	되/pvg+ㄴ다/ef+"/sr+고/jcr
+
+경고했다
+	경고/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+사실
+	사/pvg+시/ep+ㄹ/etm
+
+이곳은
+	이곳/npd+은/jxc
+
+수문으로
+	수문/ncn+으로/jca
+
+내려오는
+	내리/pvg+어/ecx+오/px+는/etm
+
+물살이
+	물살/ncn+이/jcc
+
+세서
+	세/paa+어서/ecs
+
+위험한
+	위험/ncn+한/ncn
+
+곳이다
+	곳/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+김의원
+	김의원/ncn
+
+일행이
+	일/nnc+행/nbu+이/jcc
+
+이를
+	이르/paa+ㄹ/etm
+
+무시하고
+	무시/ncpa+하고/jct
+
+달성보
+	달성/ncpa+보/ncn
+
+하류에서
+	하류/ncn+에서/jca
+
+수심을
+	수/nbn+이/jp+시/ep+ㅁ/etn+을/jco
+
+측정하자,
+	측정/ncpa+하/xsva+자/ecc+,/sp
+
+바지선과
+	바지선/ncn+과/jcj
+
+2인용
+	2인용/ncn
+
+모터보트
+	모터보트/ncn
+
+등에
+	등/nbu+에/jca
+
+탄
+	타/pvg+ㄴ/etm
+
+작업인부
+	작업/ncpa+인부/ncn
+
+6명이
+	6/nnc+명/nbu+이/jcc
+
+접근해
+	접근/ncpa+하/xsva+어/ecx
+
+조사를
+	조사/ncn+를/jco
+
+방해하기
+	방해/ncpa+하/xsva+기/etn
+
+시작했다는
+	시작/ncpa+하/xsva+었/ep+다/ef+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+그러나
+	그러나/maj
+
+달성보
+	달성/ncpa+보/ncn
+
+현장의
+	현장/ncn+의/jcm
+
+말은
+	말/ncn+은/jxc
+
+달랐다
+	다르/paa+아/ep+다/ef
+
+.
+	./sf
+
+
+공격하지도
+	공격/ncpa+하/xsva+지/ecs+도/jxc
+
+않고,
+	않/px+고/ecc+,/sp
+
+예정에
+	예정/ncn+에/jca
+
+없던
+	없/paa+던/etm
+
+수심측량을
+	수심/ncn+측량/ncpa+을/jco
+
+무단으로
+	무단/ncn+으로/jca
+
+했다는
+	하/px+었/ep+다/ef+는/etm
+
+것이다
+	것/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+달성보
+	달성/ncpa+보/ncn
+
+현장에
+	현장/ncn+에/jca
+
+따르면
+	따르/pvg+면/ecs
+
+23일
+	23/nnc+일/nbu
+
+10시
+	10/nnc+시/nbu
+
+김부겸,
+	김부겸,/ncn
+
+김진애
+	김진애/ncn
+
+의원
+	의원/ncr
+
+등
+	등/nbu
+
+일행은
+	일/nnc+행/nbu+은/jxc
+
+달성보
+	달성/ncpa+보/ncn
+
+현장사무소
+	현장/ncn+사무소/ncn
+
+상황실에서
+	상황실/ncn+에서/jca
+
+브리핑을
+	브리핑/ncpa+을/jco
+
+듣기로
+	듣/pvg+기/etn+로/jca
+
+했다
+	하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+황종수
+	황종수/ncn
+
+현대건설
+	현대건설/ncn
+
+현장소장은
+	현장/ncn+소장/ncr+은/jxc
+
+10시
+	10/nnc+시/nbu
+
+10분이
+	10/nnc+분/nbu+이/jcc
+
+돼도
+	되/pvg+어도/ecs
+
+오고있다고만
+	오/pvg+고/ecx+있/px+다/ef+고/jcr+만/jxc
+
+했지
+	하/px+었/ep+지/ecs
+
+도착하지
+	도착/ncpa+하/xsva+지/ecx
+
+않아
+	않/px+아/ecx
+
+상황실에서
+	상황실/ncn+에서/jca
+
+기다리고
+	기다리/pvg+고/ecc
+
+있었는데,
+	있/px+었/ep+는데/ecs+,/sp
+
+갑자기
+	갑자기/mag
+
+CCTV로
+	CCTV/f+로/jca
+
+현장
+	현장/ncn
+
+진입하는
+	진입/ncpa+하/xsva+는/etm
+
+것이
+	것/nbn+이/jcc
+
+확인됐어요
+	확인/ncpa+되/xsvn+었/ep+어/ef+요/jxf
+
+라고
+	라/ncn+이/jp+고/ecc
+
+말했다
+	말/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+즉
+	즉/mag
+
+일행
+	일/nnc+행/nbu
+
+일부는
+	일/nnc+부/nbu+는/jxc
+
+상황실에
+	상황실/ncn+에/jca
+
+오고
+	오/px+고/ecc
+
+김부겸
+	김부겸/ncn
+
+의원
+	의원/ncr
+
+일행은
+	일/nnc+행/nbu+은/jxc
+
+예고없이
+	예고/ncpa+없이/jca
+
+달성보
+	달성/ncpa+보/ncn
+
+하류로
+	하류/ncn+로/jca
+
+보트를
+	보트/ncn+를/jco
+
+타고
+	타/pvg+고/ecc
+
+기습
+	기습/ncn
+
+진입을
+	진입/ncpa+을/jco
+
+한
+	하/pvg+ㄴ/etm
+
+셈이다
+	셈/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+국회의원이
+	국회의원/ncr+이/jcc
+
+탄
+	타/pvg+ㄴ/etm
+
+보트를
+	보트/ncn+를/jco
+
+공격한
+	공격/ncpa+하/xsva+ㄴ/etm
+
+것으로
+	것/nbn+으로/jca
+
+알려진
+	알리/pvg+어/ecx+지/px+ㄴ/etm
+
+데
+	데/nbn
+
+대해서도
+	대/pvg+어/ecx+하/px+어서/ecs+도/jxc
+
+억울해했다
+	억울/ncps+하/xsms+어/ecx+하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+달성보
+	달성/ncpa+보/ncn
+
+현장의
+	현장/ncn+의/jcm
+
+또다른
+	또다른/mma
+
+관계자는
+	관계자/ncn+는/jxc
+
+보트타고
+	보트/ncn+타/ncn+이/jp+고/ecc
+
+위험한
+	위험/ncn+한/ncn
+
+수문
+	수문/ncn
+
+아래로
+	아래/ncn+로/jca
+
+누가
+	누구/npp+가/jcs
+
+갑자기
+	갑자기/mag
+
+다가오는데
+	다가오/pvg+ㄴ데/ecs
+
+국회의원이
+	국회의원/ncr+이/jcc
+
+탔는지
+	트/pvg+었/ep+는지/ecs
+
+누가
+	누구/npp+가/jcs
+
+탔는지
+	트/pvg+었/ep+는지/ecs
+
+어떻게
+	어떻/pad+게/ecs
+
+알겠냐
+	알/pvg+겠/ep+냐/ef
+
+.
+	./sf
+
+
+우리는
+	우리/npp+는/jxc
+
+위험한
+	위험/ncn+한/ncn
+
+곳에
+	곳/nbn+에/jca
+
+접근하는
+	접근/ncpa+하/xsva+는/etm
+
+것을
+	것/nbn+을/jco
+
+막았다
+	막/pvg+아/ep+다/ef
+
+고
+	고/mma
+
+해명했다
+	해명/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+관계자는
+	관계자/ncn+는/jxc
+
+또
+	또/maj
+
+의원
+	의원/ncr
+
+일행이
+	일/nnc+행/nbu+이/jcc
+
+탄
+	타/pvg+ㄴ/etm
+
+보트는
+	보트/ncn+는/jxc
+
+골재노조
+	골재/ncn+노조/ncn
+
+보트였으며,
+	보트/ncn+이/jp+었/ep+으며/ecc+,/sp
+
+보트에
+	보트/ncn+에/jca
+
+탄
+	타/pvg+ㄴ/etm
+
+사람
+	사람/ncn
+
+중에
+	중/nbn+에/jca
+
+낫을
+	낫/paa+을/etm
+
+들고
+	들/pvg+고/ecc
+
+있는
+	있/px+는/etm
+
+사람도
+	사람/ncn+도/jxc
+
+있었다
+	있/px+었/ep+다/ef
+
+고
+	고/mma
+
+주장했다
+	주장/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+관계자는
+	관계자/ncn+는/jxc
+
+이어
+	이/npd+이/jp+어/ecs
+
+낫을
+	낫/paa+을/etm
+
+왜
+	왜/mag
+
+갖고
+	갖/pvg+고/ecc
+
+탔는지
+	트/pvg+었/ep+는지/ecs
+
+모르겠다
+	모르/pvg+겠/ep+다/ef
+
+.
+	./sf
+
+
+낫이
+	낫/ncn+이/jcc
+
+아니길
+	아니길/ncn
+
+바란다
+	바라/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+사진을
+	사진/ncn+을/jco
+
+찍었어야
+	찍/pvg+었/ep+어야/ecs
+
+하는
+	하/pvg+는/etm
+
+것인데
+	것/nbn+이/jp+ㄴ데/ecs
+
+...
+	.../se
+
+
+라며
+	라/ncn+이/jp+며/ecc
+
+아쉬워했다
+	아쉽/paa+어/ecx+하/px+었/ep+다/ef
+
+.
+	./sf
+
+
+출처
+	출처/ncn
+
+:
+	:/sp
+
+뉴타임즈코리아
+	뉴타임즈코리/ncn+아/jcv
+
+
+바로가기
+	바로가/ncn+이/jp+기/etn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+newtimes.
+	newtimes/f+./sy
+
+co.
+	co/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+4대강살리기추진본부
+	4대강살리기추진본부/ncn
+
+(본부장
+	(/sl+본부장/ncn
+
+심명필
+	심명필/ncn
+
+http://twitter.
+	http/f+:/sp+//sp+//sp+twitter/f+./sy
+
+com/mpshim)
+	com/f+//sp+mpshim/f+)/sr
+
+
+4대강살리기
+	4대강살리/ncn+이/jp+기/etn
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+4rivers.
+	4rivers./ncn
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+국토해양부
+	국토/ncn+해양/ncn+부/ncn
+
+홈페이지
+	홈페이지/ncn
+
+:
+	:/sp
+
+http://www.
+	http/f+:/sp+//sp+//sp+www/f+./sy
+
+mltm.
+	mltm/f+./sy
+
+go.
+	go/f+./sy
+
+kr/
+	kr/f+//sp
+
+
+아
+	아/ii
+
+!
+	!/sf
+
+
+대한민국
+	대한/ncn+민국/ncn
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/pLuHHW
+	mp/f+//sp+pLuHHW/f
+
+
+자/전/거/
+	자/전/거//ncn
+
+새/물/결
+	새/mma+//sp+물/ncn+//sp+결/nbu
+
+남한강
+	남한강/ncn
+
+자전거길
+	자전거/ncn+길/ncn
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/qsMwHD
+	mp/f+//sp+qsMwHD/f
+
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/nKKoOu
+	mp/f+//sp+nKKoOu/f
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/qBL99F
+	mp/qBL99F/ncn
+
+http://j.
+	http/f+:/sp+//sp+//sp+j/f+./sy
+
+mp/q82lrW
+	mp/q82lrW/ncn

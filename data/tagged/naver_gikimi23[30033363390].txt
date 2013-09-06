@@ -1,0 +1,348 @@
+우리집
+	우리집/ncn
+
+근처
+	근처/ncn
+
+무슨
+	무슨/mmd
+
+방앗간
+	방앗간/ncn
+
+;
+	;/sy
+
+방앗간
+	방앗간/ncn
+
+맞나
+	맞/pvg+나/ef
+
+?
+	?/sf
+
+
+아무튼
+	아무튼/mag
+
+그
+	그/mmd
+
+앞에
+	앞/ncn+에/jca
+
+무언가
+	무언가/npd
+
+강렬한
+	강렬/ncn+한/ncn
+
+색상의
+	색상/ncn+의/jcm
+
+물체
+	물체/ncn
+
+..
+	./sf+./sf
+
+
+시선을
+	시선/ncn+을/jco
+
+잡아끄는
+	잡아끄/ncn+는/jxc
+
+그것
+	그것/npd
+
+!
+	!/sf
+
+
+바로
+	바로/mag
+
+붉은
+	붉/paa+은/etm
+
+고추
+	고추/ncn
+
+
+아이디어가
+	아이디어/ncn+가/jcs
+
+참
+	참/mag
+
+좋은것
+	좋/paa+은/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+.
+	./sf
+
+
+사람들
+	사람들/ncn
+
+다니고
+	다니/pvg+고/ecc
+
+차다니는
+	차/ncn+이/jp+다니/ef+는/etm
+
+길바닥인지라
+	길바닥/ncn+이/jp+ㄴ/etm+지/nbn+이/jp+라/ecs
+
+넓게
+	넓/paa+게/ecs
+
+펴놓고
+	피/pvg+어/ecx+놓/px+고/ecc
+
+말리기엔곤란하니깐
+	말리기엔곤란하니깐/ncn
+
+.
+	./sf
+
+
+어디서
+	어디/npd+서/jca
+
+이런
+	이런/mmd
+
+생각을
+	생각/ncpa+을/jco
+
+한건지
+	하/pvg+ㄴ/etm+것/nbn+이/jp+ㄴ지/ecs
+
+얼마전엔
+	얼마/ncn+전/ncn+엔/jca
+
+두개이던
+	두/nnc+개/nbu+이/jp+던/etm
+
+바구니가
+	바구니/ncn+가/jcs
+
+몇개로
+	몇/nnc+개/nbu+로/jca
+
+늘어서
+	늘/pvg+어서/ecs
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있다
+	있/paa+다/ef
+
+
+이걸
+	이걸/ncn
+
+보면어
+	보면어/ncn
+
+얼마나
+	얼마나/mag
+
+웃었던지
+	웃/pvg+었/ep+던/etm+지/nbn
+
+어떻게
+	어떻/pad+게/ecs
+
+보면
+	보/px+면/ecs
+
+징그럽기도
+	징그럽/paa+기/etn+도/jxc
+
+하지만
+	하지만/maj
+
+
+고추를
+	고추/ncn+를/jco
+
+보니
+	보/px+니/ecs
+
+돌아가신
+	돌/pvg+아/ecx+가/px+시/ep+ㄴ/etm
+
+친할머니가
+	친할머니/ncn+가/jcs
+
+생각난다
+	생각나/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+밭일에
+	밭일/ncpa+에/jca
+
+베테랑이신
+	베테랑/ncn+이/jp+시/ep+ㄴ/etm
+
+우리
+	우리/npp
+
+외할머니는
+	외할머니/ncn+는/jxc
+
+오이
+	오/nnc+이/jcc
+
+당근
+	당근/ncn
+
+호박
+	호박/ncn
+
+무
+	무/ncn
+
+배추
+	배추/ncn
+
+시금치
+	시금치/ncn
+
+케일
+	케일/ncn
+
+브로콜리
+	브로콜리/ncn
+
+상추
+	상추/ncn
+
+토마토
+	토마토/ncn
+
+고추
+	고추/ncn
+
+부추
+	부추/ncn
+
+미나리
+	미나리/ncn
+
+등등
+	등등/nbn
+
+
+많은것들을
+	많은것들/ncn+을/jco
+
+홀로
+	홀로/mag
+
+잘
+	잘/mag
+
+가꾸고
+	가꾸/pvg+고/ecc
+
+키우시는데
+	키우/pvg+시/ep+ㄴ데/ecs
+
+.
+	./sf
+
+
+반면
+	반면/ncn
+
+우리
+	우리/npp
+
+친할머니는
+	친할머니/ncn+는/jxc
+
+유일하게
+	유일/ncps+하/xsms+게/ecs
+
+잘
+	잘/mag
+
+키우시던게
+	키우/pvg+시/ep+더/ep+ㄴ게/ecs
+
+고추
+	고추/ncn
+
+!
+	!/sf
+
+
+집
+	집/ncn
+
+마당에
+	마당/ncn+에/jca
+
+골고루
+	골고루/mag
+
+키워도
+	키우/pvg+어도/ecs
+
+좋을
+	좋/paa+을/etm
+
+그곳에
+	그곳/ncn+에/jca
+
+온통
+	온통/mag
+
+고추만
+	고추/ncn+만/jxc
+
+심어놓으셨던
+	심/pvg+어/ecx+놓/px+으셨/ep+던/etm
+
+기억이
+	기억/ncpa+이/jcc
+
+새삼스레
+	새삼스레/mag
+
+난다
+	나/px+ㄴ다/ef
+
+.
+	./sf
+
+
+붉은
+	붉/paa+은/etm
+
+고추
+	고추/ncn
+
+잘
+	잘/mag
+
+말라야
+	마르/pvg+아/ecx
+
+할텐데
+	하/pvg+ㄹ텐데/ecs
+
+..
+	./sf+./sf

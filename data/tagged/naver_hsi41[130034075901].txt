@@ -1,0 +1,574 @@
+서귀포시
+	서귀포시/ncn
+
+삼매봉
+	삼매/ncn+봉/ncn
+
+앞바다에
+	앞바다/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+둘레
+	둘레/ncn
+
+약
+	약/ncn
+
+10m,
+	10m,/ncn
+
+높이
+	높이/mag
+
+20m의
+	20m/ncn+의/jcm
+
+기암으로
+	기암/ncn+으로/jca
+
+오랜
+	오래/paa+ㄴ/etm
+
+세월을
+	세/nnc+월/nbu+을/jco
+
+바람과
+	바람/ncn+과/jcj
+
+파도에
+	파도/ncn+에/jca
+
+씻기며
+	씻/pvg+기/etn+이/jp+며/ecc
+
+버티고
+	버티/pvg+고/ecc
+
+서
+	서/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+바위
+	바위/ncn
+
+.
+	./sf
+
+
+일명
+	일/nnc+명/nbu
+
+'장군석'이라
+	'/sr+장군/ncr+석/ncn+'/sr+이/jp+라/ecs
+
+불리워
+	불리우/pvg+어/ecx
+
+지기도
+	지/nbn+이/jp+기/etn+도/jxc
+
+한다
+	하/px+ㄴ다/ef
+
+.
+	./sf
+
+
+이는
+	이/npd+는/jxc
+
+고려말
+	고려말/ncn
+
+최영장군이
+	최영장군/ncn+이/jcc
+
+서귀포
+	서귀포/ncn
+
+앞바다
+	앞바다/ncn
+
+범섬에서
+	범섬/ncn+에서/jca
+
+원나라의
+	원나라/ncn+의/jcm
+
+잔류세력을
+	잔류/ncpa+세력/ncn+을/jco
+
+토벌할
+	토벌/ncpa+하/xsva+ㄹ/etm
+
+때
+	때/ncn
+
+외돌개를
+	외돌개/ncn+를/jco
+
+장대한
+	장대/ncn+한/ncn
+
+장수로
+	장수/ncpa+로/jca
+
+변장시킴으로써
+	변장/ncpa+시키/xsva+ㅁ/etn+으로써/jca
+
+범섬에
+	범섬/ncn+에/jca
+
+숨어
+	숨/pvg+어/ecx
+
+있던
+	있/px+던/etm
+
+적군이
+	적군/ncn+이/jcc
+
+이를
+	이/npd+를/jco
+
+보고
+	보/px+고/ecc
+
+겁에
+	겁/ncn+에/jca
+
+질려
+	질리/pvg+어/ecx
+
+모두
+	모두/mag
+
+자결했다는
+	자결/ncpa+하/xsva+었/ep+다/ef+는/etm
+
+전설에서
+	전설/ncn+에서/jca
+
+유래되고
+	유래/ncpa+되/xsvn+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+주위에는
+	주위/ncn+에/jca+는/jxc
+
+선녀바위
+	선녀/ncn+바위/ncn
+
+등
+	등/nbu
+
+기암괴석이
+	기암/ncn+괴석/ncn+이/jcc
+
+많고
+	많/paa+고/ecc
+
+바다에는
+	바다/ncn+에/jca+는/jxc
+
+범섬
+	범섬/ncn
+
+새섬
+	새/pvg+어서/ep+ㅁ/etn
+
+등의
+	등/nbu+의/jcm
+
+아름다운
+	아름답/paa+은/etm
+
+섬들이
+	섬/ncn+들/xsncc+이/jcc
+
+외돌개와
+	외돌개/ncn+와/jct
+
+함께
+	함께/mag
+
+멋있는
+	멋있/paa+는/etm
+
+풍광을
+	풍광/ncn+을/jco
+
+자랑한다
+	자랑/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+외돌개
+	외돌개/ncn
+
+일대는
+	일/nnc+대/nbu+는/jxc
+
+넓은
+	넓/paa+은/etm
+
+잔디밭이
+	잔디밭/ncn+이/jcc
+
+있어
+	있/px+어/ecx
+
+서귀포
+	서귀포/ncn
+
+시민의
+	시민/ncn+의/jcm
+
+좋은
+	좋/paa+은/etm
+
+휴식처로
+	휴식처/ncn+로/jca
+
+각광을
+	각광/ncn+을/jco
+
+받고
+	받/pvg+고/ecc
+
+있으며
+	있/px+으며/ecc
+
+한여름의
+	한여름/ncn+의/jcm
+
+뜨거운
+	뜨겁/paa+은/etm
+
+태양을
+	태양/ncn+을/jco
+
+충분히
+	충분히/mag
+
+피할수
+	피하/pvg+ㄹ/etm+수/nbn
+
+있는
+	있/px+는/etm
+
+피서지로도
+	피서지/ncn+로/jca+도/jxc
+
+인기가
+	인기/ncn+가/jcs
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+외돌개에서
+	외돌개/ncn+에서/jca
+
+바라보는
+	바라/pvg+아/ecx+보/px+는/etm
+
+범섬에
+	범섬/ncn+에/jca
+
+어리는
+	어리/paa+는/etm
+
+석양은
+	석양/ncn+은/jxc
+
+더없이
+	더없이/mag
+
+장관을
+	장관/ncr+을/jco
+
+연출한다
+	연출/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+외돌개는
+	외돌개/ncn+는/jxc
+
+사계절
+	사계절/ncn
+
+다양한
+	다양/ncn+한/ncn
+
+색의
+	색/ncn+의/jcm
+
+옷을
+	옷/ncn+을/jco
+
+갈아입는다또한
+	갈아입는다또한/ncn
+
+해안가를
+	해안가/ncn+를/jco
+
+따라
+	따르/pvg+아/ecx
+
+낚시를
+	낚시/ncpa+를/jco
+
+즐길
+	즐기/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있는
+	있/px+는/etm
+
+포인트가
+	포인트/ncn+가/jcs
+
+많아
+	많/paa+아/ecx
+
+태공에게
+	태공/ncn+에게/jca
+
+유혹의
+	유혹/ncpa+의/jcm
+
+손길이
+	손길/ncn+이/jcc
+
+잦은
+	잦/paa+은/etm
+
+곳이기도하다
+	곳이기도하/ncn+이/jp+다/ef
+
+.
+	./sf
+
+
+하지만
+	하/pvg+지만/ecs
+
+갑작스런
+	갑작스런/mma
+
+파도로
+	파도/ncn+로/jca
+
+인해
+	인하/pvg+어/ecx
+
+사고가
+	사/pvg+고/ecx+가/px+아/ecx
+
+빈번하게
+	빈번/ncps+하/xsms+게/ecs
+
+발생할수
+	발생/ncpa+하/xsva+ㄹ/etm+수/nbn
+
+있으므로
+	있/px+으므로/ecs
+
+각별히
+	각별히/mag
+
+주의를
+	주의/ncn+를/jco
+
+요하는곳이기도
+	요하는곳/ncn+이/jp+기/etn+도/jxc
+
+하다
+	하/px+다/ef
+
+.
+	./sf
+
+
+휴양과
+	휴양/ncpa+과/jcj
+
+레저를
+	레저/ncn+를/jco
+
+겸한
+	겸하/pvg+ㄴ/etm
+
+유원지로
+	유원지/ncn+로/jca
+
+이용객들의
+	이용객/ncn+들/ncn+의/jcm
+
+발길을
+	발길/ncn+을/jco
+
+붙들고
+	붙들/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+외돌개
+	외돌개/ncn
+
+내려
+	내리/pvg+어/ecx
+
+가는길외돌개
+	가는길외돌개/ncn
+
+들어가는
+	들/pvg+어/ecx+가/px+는/etm
+
+도로는
+	도/ncn+로/jca+는/jxc
+
+산책이나
+	산책/ncpa+이나/jcj
+
+운동코스로도
+	운동/ncn+코스/ncn+로/jca+도/jxc
+
+인기가
+	인기/ncn+가/jcs
+
+좋다
+	좋/paa+다/ef
+
+.
+	./sf
+
+
+서귀포시
+	서귀포시/ncn
+
+삼매봉
+	삼매/ncn+봉/ncn
+
+앞바다에
+	앞바다/ncn+에/jca
+
+있는
+	있/px+는/etm
+
+둘레
+	둘레/ncn
+
+약
+	약/ncn
+
+10m,
+	10m,/ncn
+
+높이
+	높이/mag
+
+20m의
+	20m/ncn+의/jcm
+
+기암으로
+	기암/ncn+으로/jca
+
+오랜
+	오래/paa+ㄴ/etm
+
+세월을
+	세/nnc+월/nbu+을/jco
+
+바람과
+	바람/ncn+과/jcj
+
+파도에
+	파도/ncn+에/jca
+
+씻기며
+	씻/pvg+기/etn+이/jp+며/ecc
+
+버티고
+	버티/pvg+고/ecc
+
+서
+	서/pvg+어/ecx
+
+있는
+	있/px+는/etm
+
+바위
+	바위/ncn
+
+.
+	./sf
+
+
+주위에는
+	주위/ncn+에/jca+는/jxc
+
+선녀바위
+	선녀/ncn+바위/ncn
+
+등
+	등/nbu
+
+기암괴석이
+	기암/ncn+괴석/ncn+이/jcc
+
+많고
+	많/paa+고/ecc
+
+바다에는
+	바다/ncn+에/jca+는/jxc
+
+범섬,
+	범섬,/ncn
+
+새섬
+	새/pvg+어서/ep+ㅁ/etn
+
+등의
+	등/nbu+의/jcm
+
+아름다운
+	아름답/paa+은/etm
+
+섬들이
+	섬/ncn+들/xsncc+이/jcc
+
+자리잡고
+	자리잡/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf

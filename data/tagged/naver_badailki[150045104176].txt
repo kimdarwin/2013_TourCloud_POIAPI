@@ -1,0 +1,567 @@
+합천다목적댐은
+	합천다목적댐/ncn+은/jxc
+
+높이
+	높이/mag
+
+96m,
+	96m,/ncn
+
+길이
+	길/ncn+이/jcc
+
+472m,
+	472m,/ncn
+
+체적
+	체적/ncn
+
+90만
+	90/nnc+만/jxc
+
+의
+	의/ncn
+
+콘크리트
+	콘크리트/ncn
+
+중력식
+	중력/ncn+식/ncn
+
+댐으로
+	대/px+ㅁ/etn+으로/jca
+
+유역면적
+	유역면적/ncn
+
+925k
+	925k/ncn
+
+,
+	,/sp
+
+저수용량
+	저수/ncpa+용량/ncn
+
+7억9천만
+	7/nnc+억/nnc+9/nnc+천/nnc+만/jxc
+
+입니다
+	일/pvg+ㅂ니다/ef
+
+.
+	./sf
+
+
+합천댐은기존의
+	합천댐은기존/ncn+의/jcm
+
+댐과는
+	대/px+ㅁ/etn+과/jct+는/jxc
+
+달리
+	달리/mag
+
+지형상의
+	지형상/ncn+의/jcm
+
+특성을
+	특성/ncn+을/jco
+
+고려하여
+	고/pvg+려/ecx+하/px+어/ecx
+
+자연낙차를
+	자연/ncn+낙차/ncn+를/jco
+
+최대한
+	최대한/mag
+
+효율적으로
+	효율/ncn+적/ncn+으로/jca
+
+활용하는
+	활용/ncpa+하/xsva+는/etm
+
+수로식
+	수로/ncn+식/ncn
+
+발전형식을
+	발전/ncpa+형식/ncn+을/jco
+
+취하고
+	취하/pvg+고/ecc
+
+있습니다
+	있/px+습니다/ef
+
+.
+	./sf
+
+
+일반
+	일반/ncn
+
+
+하천명
+	하천/ncn+명/ncn
+
+
+낙동강
+	낙동강/ncn
+
+제1지류
+	제1지류/ncn
+
+황강
+	황강/ncn
+
+
+위치
+	위치/ncn
+
+
+본댐지점
+	본댐지점/ncn
+
+좌
+	좌/ncn
+
+안
+	안/mag
+
+:
+	:/sp
+
+경남
+	경남/ncn
+
+합천군
+	합천군/ncn
+
+대병면
+	대병/ncn+면/ncn
+
+상천리
+	상천리/ncn
+
+.....
+	./sy+.../se+./sy
+
+.....
+	./sy+.../se+./sy
+
+..
+	./sf+./sf
+
+
+우
+	우/mag
+
+안
+	알/pvg+ㄴ/etm
+
+:
+	:/sp
+
+경남
+	경남/ncn
+
+합천군
+	합천군/ncn
+
+대병면
+	대병/ncn+면/ncn
+
+회양리
+	회양리/ncn
+
+
+유역면적
+	유역면적/ncn
+
+
+925
+	925/nnc
+
+
+총사업비
+	총사업비/ncn
+
+
+2,624억원
+	2,624/nnc+억/nnc+원/nbu
+
+
+연평균강우량
+	연평균/ncn+강우량/ncn
+
+
+1,249
+	1,249/nnc
+
+
+연평균유입량
+	연평균/ncn+유입량/ncn
+
+
+573.
+	573./nnc
+
+3백만
+	3/nnc+백/nnc+만/jxc
+
+
+사
+	사/pvg+아/ecx
+
+업
+	업/ncn
+
+기
+	기/ncn
+
+간
+	간/nbn
+
+
+1982
+	1982/nnc
+
+.
+	./sf
+
+
+4
+	4/nnc
+
+1989
+	1989/nnc
+
+.
+	./sf
+
+
+12
+	12/nnc
+
+
+본댐
+	본댐/ncn
+
+
+형식
+	형식/ncn
+
+
+콘크리트중력식
+	콘크리트/ncn+중력/ncn+식/ncn
+
+
+길이
+	길이/mag
+
+
+472m
+	472m/ncn
+
+
+높이
+	높이/mag
+
+
+96m
+	96m/ncn
+
+
+체적
+	체적/ncn
+
+
+89
+	89/nnc
+
+
+마루표고
+	마루/ncn+표/ncn+고/jcj
+
+
+EL
+	EL/f
+
+181.
+	181./nnc
+
+00m
+	00m/ncn
+
+
+저수지
+	저수지/ncn
+
+
+계획홍수위
+	계획/ncpa+홍수/ncn+위/ncn
+
+
+EL
+	EL/f
+
+179.
+	179./nnc
+
+00m
+	00m/ncn
+
+
+상시만수위
+	상시만/ncn+수위/ncr
+
+
+EL
+	EL/f
+
+176.
+	176./nnc
+
+00m
+	00m/ncn
+
+
+홍수기제한수위
+	홍수/ncn+기제/ncpa+하/xsva+ㄴ/etm+수/nbn+위/xsnx
+
+
+-
+	-/sd
+
+
+저수위
+	저수/ncpa+위/ncn
+
+
+EL
+	EL/f
+
+140.
+	140./nnc
+
+00m
+	00m/ncn
+
+
+총저수용량
+	총저수용량/ncn
+
+
+790
+	790/nnc
+
+
+유효저수용량
+	유효/ncn+저수/ncpa+용량/ncn
+
+
+560
+	560/nnc
+
+
+저수면적
+	저수/ncpa+면적/ncn
+
+
+25.0
+	25.0/nnc
+
+
+여수로
+	여수/ncn+로/jca
+
+
+계획방류량
+	계획방류량/ncn
+
+
+6,200(
+	6,200(/ncn
+
+/sec)
+	//sp+sec/f+)/sr
+
+
+문비
+	문비/ncn
+
+
+5문(13m
+	5문(13m/ncn
+
+13.
+	13./nnc
+
+5m)
+	5m/ncn+)/sr
+
+
+조정지댐
+	조정지댐/ncn
+
+
+형식
+	형식/ncn
+
+
+콘크리트
+	콘크리트/ncn
+
+및
+	및/maj
+
+석괴혼합식
+	석괴혼합식/ncn
+
+
+높이
+	높이/mag
+
+
+29m
+	29m/ncn
+
+
+길이
+	길이/mag
+
+
+275.
+	275./nnc
+
+5m
+	5m/ncn
+
+
+유효저수량
+	유효저수량/ncn
+
+
+17백만
+	17/nnc+백/nnc+만/jxc
+
+
+시
+	시/nbu
+
+설
+	서/pvg+ㄹ/etm
+
+용
+	용/ncn
+
+량
+	량/nbu
+
+
+0.
+	0./nnc
+
+12만kW
+	12만kW/ncn
+
+
+수차발전기
+	수차/ncn+발전기/ncn
+
+
+3상횡축PACKAGE(Tubular)
+	3상횡축PACKAGE/ncn+(/sl+Tubular/f+)/sr
+
+
+정
+	정/mag
+
+격
+	격/nbn
+
+낙
+	낙/ncn
+
+차
+	차/nbn
+
+
+7.3m
+	7.3m/ncn
+
+
+발전소
+	발전소/ncn
+
+
+형식
+	형식/ncn
+
+
+반지하
+	반지하/ncn
+
+콘크리트
+	콘크리트/ncn
+
+골고직
+	골고직/ncn
+
+
+수차발전기
+	수차/ncn+발전기/ncn
+
+
+3상종축
+	3상종축/ncn
+
+우산형(Francis)
+	우산형/ncn+(/sl+Francis/f+)/sr
+
+
+시
+	시/nbu
+
+설
+	서/pvg+ㄹ/etm
+
+용
+	용/ncn
+
+량
+	량/nbu
+
+
+10만kW
+	10만kW/ncn
+
+
+정
+	정/mag
+
+격
+	격/nbn
+
+낙
+	낙/ncn
+
+차
+	차/nbn
+
+
+95m
+	95m/ncn
+
+
+연간발전량
+	연간/ncn+발전량/ncn
+
+
+232.
+	232./nnc
+
+4백만kW
+	4백만kW/ncn

@@ -1,0 +1,492 @@
+신사동
+	신사/ncr+동/ncn
+
+가로수길
+	가로수/ncn+길/ncn
+
+'킹콩
+	'킹콩/ncn
+
+스테이크'
+	스테이크/ncn+'/sl
+
+
+최근에
+	최근/ncn+에/jca
+
+일본
+	일/nnc+본/nbu
+
+여행관련
+	여행/ncpa+관련/ncn
+
+포스팅만
+	포스팅/ncn+만/jxc
+
+하다가
+	하/pvg+다가/ecc
+
+
+국적을
+	국적/ncn+을/jco
+
+상실할
+	상실/ncpa+하/xsva+ㄹ/etm
+
+듯
+	듯/nbn
+
+싶어
+	싶/px+어/ecx
+
+급히
+	급히/mag
+
+올려보는
+	올리/pvg+어/ecx+보/px+는/etm
+
+포스트~
+	포스트/ncn+~/sd
+
+
+편안한
+	편안/ncps+하/xsms+ㄴ/etm
+
+실내
+	실내/ncn
+
+
+한쪽을
+	하/pvg+ㄴ/etm+쪽/nbn+을/jco
+
+보니
+	보/px+니/ecs
+
+사뽀로
+	사뽀/ncn+로/jca
+
+생맥주
+	생맥주/ncn
+
+기계가
+	기계/ncn+가/jcs
+
+있네
+	있/paa+네/ef
+
+
+오
+	오/ii
+
+그러고
+	그러/pvd+어/ef+고/jcr
+
+보니카운터쪽유리
+	보니카운터쪽유리/ncn
+
+냉장고에
+	냉장고/ncn+에/jca
+
+
+각종
+	각종/ncn
+
+사이즈의
+	사이즈/ncn+의/jcm
+
+사뽀로
+	사뽀/ncn+로/jca
+
+컵이
+	컵/ncn+이/jcc
+
+있다
+	있/paa+다/ef
+
+
+카페
+	카페/ncn
+
+스타일의
+	스타일/ncn+의/jcm
+
+심플한
+	심플한/ncn
+
+메뉴판
+	메뉴판/ncn
+
+
+식전빵
+	식전/ncn+빵/ncn
+
+
+쫄깃하다
+	쫄깃하/ncn+이/jp+다/ef
+
+..
+	./sf+./sf
+
+
+그냥
+	그냥/mag
+
+먹기엔
+	먹/pvg+기/etn+엔/jca
+
+좀
+	좀/mag
+
+심심하나
+	심심/ncps+하/xsms+어/ecx+나/px+아/ecx
+
+발사믹
+	발사믹/ncn
+
+소스나
+	소스/ncn+나/jcj
+
+
+나중에
+	나중/ncn+에/jca
+
+나온
+	나/pvg+아/ecx+오/px+ㄴ/etm
+
+크림소스에
+	크림/ncn+소스/ncn+에/jca
+
+찍어먹으니
+	찍어먹으니/ncn
+
+굿~
+	굿/ncn+~/sd
+
+
+신선한
+	신선/ncn+한/ncn
+
+피클
+	피클/ncn
+
+
+'구운야채와
+	'구운야채/ncn+와/jcj
+
+매쉬드
+	매쉬드/ncn
+
+포테이토를
+	포테이토/ncn+를/jco
+
+곁들인
+	곁들이/pvg+ㄴ/etm
+
+안심스테이크'
+	안심스테이크/ncn+'/sl
+
+
+난
+	나/px+ㄴ/etm
+
+원래
+	원래/mag
+
+소스뿌린
+	소스뿌린/ncn
+
+스테이크는
+	스테이크/ncn+는/jxc
+
+별로지만
+	별로/mag+지만/jxc
+
+
+간만에
+	간만/ncn+에/jca
+
+먹어보는
+	먹/pvg+어/ecx+보/px+는/etm
+
+소스뿌린
+	소스뿌린/ncn
+
+스테이크도
+	스테이크/ncn+도/jxc
+
+먹을만하네
+	먹/pvg+을/etm+만/nbs+하/xsms+네/ef
+
+..
+	./sf+./sf
+
+
+그래도
+	그래도/maj
+
+뭐
+	뭐/npd
+
+소스맛은
+	소스/ncn+맛/ncn+은/jxc
+
+소스맛
+	소스/ncn+맛/ncn
+
+^^;;
+	^/sy+^/sy+;/sy+;/sy
+
+
+부드러운
+	부드럽/paa+은/etm
+
+안심이니
+	안심/ncn+이/jp+니/ecs
+
+뭐
+	뭐/npd
+
+사르르
+	사르르/mag
+
+녹는건
+	녹는건/ncn
+
+당연하고~
+	당연/ncps+하고/jcj+~/sd
+
+
+'참깨와
+	'/sr+참깨/ncn+와/jcj
+
+두유로
+	두유/ncn+로/jca
+
+맛을
+	맛/ncn+을/jco
+
+낸
+	내/pvg+ㄴ/etm
+
+비프
+	비프/ncn
+
+크림
+	크림/ncn
+
+스파게티'
+	스파게티/ncn+'/sr
+
+
+오
+	오/nnc
+
+이거
+	이거/npd
+
+압권이다
+	압권/ncn+이/jp+다/ef
+
+
+고소하고
+	고소/ncn+하고/jct
+
+찐득한
+	찐득한/ncn
+
+크림소스의
+	크림/ncn+소스/ncn+의/jcm
+
+맛이
+	맛/ncn+이/jcc
+
+일품~
+	일품/ncn+~/sd
+
+
+면도
+	면/nbu+도/jxc
+
+괜찮은
+	괜찮/paa+은/etm
+
+듯
+	듯/nbn
+
+하고
+	하/pvg+고/ecc
+
+..
+	./sf+./sf
+
+
+크림
+	크림/ncn
+
+파스타
+	파스타/ncn
+
+맛있는곳
+	맛있는곳/ncn
+
+또
+	또/maj
+
+한군데
+	하/pvg+ㄴ/etm+군데/nbn
+
+발견
+	발견/ncpa
+
+^^
+	^/sy+^/sy
+
+
+가격도
+	가격/ncn+도/jxc
+
+이동네
+	이/nnc+동/nbu+네/jcm
+
+치고는
+	치/pvg+고/ecs+는/jxc
+
+싸다
+	싸/paa+다/ef
+
+
+런치
+	런치/ncn
+
+세트에는
+	세트/ncn+에/jca+는/jxc
+
+커피
+	커피/ncn
+
+등
+	등/nbu
+
+음료가
+	음료/ncn+가/jcs
+
+포함된다
+	포함/ncpa+되/xsvn+ㄴ다/ef
+
+
+가로수길
+	가로수/ncn+길/ncn
+
+치고
+	치/pvg+고/ecc
+
+가격대
+	가격대/ncn
+
+성능비가
+	성능비/ncn+가/jcs
+
+좋은
+	좋/paa+은/etm
+
+집인것
+	집/ncn+이/jp+ㄴ/etm+것/nbn
+
+같다
+	같/paa+다/ef
+
+
+스테이크나
+	스테이크/ncn+나/jcj
+
+파스타
+	파스타/ncn
+
+가격도
+	가격/ncn+도/jxc
+
+이정도면
+	이정도/ncn+이/jp+면/ecs
+
+싸고
+	쓰/pvg+어/ef+고/jcr
+
+맛도
+	맛/ncn+도/jxc
+
+괜찮은편
+	괜찮/paa+은/etm+편/nbn
+
+
+스테이크보다
+	스테이크보다/ncn
+
+파스타가
+	파스타/ncn+가/jcs
+
+더
+	더/mag
+
+인상적이었음~
+	인상/ncn+적/ncn+이/jp+었/ep+음/etn+~/sd
+
+^^
+	^/sy+^/sy
+
+
+킹콩
+	킹콩/ncn
+
+스테이크
+	스테이크/ncn
+
+
+02-6080-9141
+	02/nnc+-6080/nnc+-9141/nnc
+
+
+서울
+	서울/ncn
+
+강남구
+	강남/ncn+구/ncn
+
+신사동
+	신사/ncr+동/ncn
+
+550-1
+	550/nnc+-1/nnc
+
+
+가로수길,
+	가로수/ncn+길/ncn+,/sp
+
+압구정
+	압구정/ncn
+
+현대
+	현대/ncn
+
+고등학교
+	고등학교/ncn
+
+쪽으로
+	쪽/ncn+으로/jca
+
+들어와서
+	들/pvg+어/ecx+오/px+아/ecx
+
+구스띠모
+	구스띠모/ncn
+
+골목으로
+	골목/ncn+으로/jca
+
+좌회전해서
+	좌회전/ncpa+하/xsva+어서/ecs
+
+50미터
+	50/nnc+미터/nbu
+
+쯤직진
+	쯤직진/ncn

@@ -1,0 +1,990 @@
+레몬
+	레몬/ncn
+
+디톡스
+	디톡스/ncn
+
+다이어트,
+	다이어트/ncpa+,/sp
+
+바나나
+	바나나/ncn
+
+식초
+	식초/ncn
+
+다이어트,
+	다이어트/ncpa+,/sp
+
+고구마
+	고구마/ncn
+
+다이어트,
+	다이어트/ncpa+,/sp
+
+오이
+	오/nnc+이/jcc
+
+다이어트,
+	다이어트/ncpa+,/sp
+
+토마토
+	토마토/ncn
+
+다이어트,
+	다이어트/ncpa+,/sp
+
+상추
+	상추/ncn
+
+다이어트
+	다이어트/ncpa
+
+등
+	등/nbu
+
+매년
+	매년/mag
+
+유행하는
+	유행/ncpa+하/xsva+는/etm
+
+원푸드다이어트와
+	원푸드다이어트/ncn+와/jcj
+
+연예인
+	연예/ncn+이/jp+ㄴ/etm
+
+다이어트
+	다이어트/ncpa
+
+식단은
+	식단/ncn+은/jxc
+
+단기간
+	단기간/ncn
+
+다이어트를
+	다이어트/ncpa+를/jco
+
+노리는
+	노리/pvg+는/etm
+
+여성들에게
+	여성/ncn+들/ncn+에게/jca
+
+달콤한
+	달콤한/ncn
+
+유혹
+	유혹/ncpa
+
+이다
+	이/npd+이/jp+다/ef
+
+.
+	./sf
+
+
+특히
+	특히/mag
+
+연예인
+	연예/ncn+이/jp+ㄴ/etm
+
+다이어트
+	다이어트/ncpa
+
+식단과
+	식단/ncn+과/jcj
+
+연예인
+	연예/ncn+이/jp+ㄴ/etm
+
+샐러드
+	샐러드/ncn
+
+도시락은
+	도시락/ncn+은/jxc
+
+언론을
+	언론/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+보도돼
+	보도/ncpa+되/xsvn+어/ecx
+
+다이어트
+	다이어트/ncpa
+
+성공을
+	성공/ncpa+을/jco
+
+보장해주는
+	보장/ncpa+하/xsva+어/ecx+주/px+는/etm
+
+것처럼
+	것/nbn+처럼/jca
+
+보이며
+	보이/pvg+며/ecc
+
+실시간
+	실시간/ncn
+
+검색어에
+	검색어/ncn+에/jca
+
+오르는
+	오르/pvg+는/etm
+
+등
+	등/nbu
+
+뜨거운
+	뜨겁/paa+은/etm
+
+화제가
+	화제/ncn+가/jcs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+하지만
+	하지만/maj
+
+다이어트
+	다이어트/ncpa
+
+전문가들은
+	전문가/ncn+들/ncn+은/jxc
+
+원푸드다이어트와
+	원푸드다이어트/ncn+와/jcj
+
+연예인
+	연예/ncn+이/jp+ㄴ/etm
+
+다이어트
+	다이어트/ncpa
+
+식단에
+	식단/ncn+에/jca
+
+대한
+	대하/pvg+ㄴ/etm
+
+우려의
+	우려/ncpa+의/jcm
+
+목소리를
+	목소리/ncn+를/jco
+
+비췄다
+	비추/pvg+었/ep+다/ef
+
+.
+	./sf
+
+
+장기적으로
+	장기/ncn+적/ncn+으로/jca
+
+무리한
+	무리/ncn+한/ncn
+
+식이요법과
+	식이요법/ncn+과/jct
+
+굶는
+	굶/pvg+는/etm
+
+다이어트를
+	다이어트/ncpa+를/jco
+
+지속할
+	지속/ncpa+하/xsva+ㄹ/etm
+
+경우
+	경우/ncn
+
+건강상
+	건강/ncps+상/ncn
+
+심각한
+	심각/ncps+하/xsms+ㄴ/etm
+
+부작용을
+	부작용/ncn+을/jco
+
+초래할
+	초래/ncpa+하/xsva+ㄹ/etm
+
+수
+	수/nbn
+
+있기
+	있/px+기/etn
+
+때문이다
+	때문/nbn+이/jp+다/ef
+
+.
+	./sf
+
+
+20대
+	20/nnc+대/nbu
+
+여성들의
+	여성/ncn+들/ncn+의/jcm
+
+경우
+	경우/ncn
+
+무리한
+	무리/ncn+한/ncn
+
+다이어트로
+	다이어트/ncpa+로/jca
+
+인해
+	인하/pvg+어/ecx
+
+탈모를
+	탈모/ncpa+를/jco
+
+겪는
+	겪/pvg+는/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많다
+	많/paa+다/ef
+
+.
+	./sf
+
+
+대부분
+	대부분/ncn
+
+영양결핍인
+	영양결핍/ncpa+이/jp+ㄴ/etm
+
+경우가
+	경우/ncn+가/jcs
+
+많은데
+	많/paa+은/etm+데/nbn
+
+탄수화물은
+	탄수화물/ncn+은/jxc
+
+피하는
+	피하/pvg+는/etm
+
+저칼로리
+	저칼로리/ncn
+
+식품을
+	식품/ncn+을/jco
+
+섭취하다
+	섭취/ncpa+하/xsva+어다/ecs
+
+보면
+	보/px+면/ecs
+
+모발의
+	모발/ncn+의/jcm
+
+원료인
+	원료/ncn+이/jp+ㄴ/etm
+
+단백질이
+	단백질/ncn+이/jcc
+
+부족하게
+	부족/ncps+하/xsms+게/ecs
+
+돼
+	되/pvg+어/ecx
+
+머리카락을
+	머리카락/ncn+을/jco
+
+만들어내기가
+	만들/pvg+어/ecx+내/px+기/etn+가/jcs
+
+힘들어지게
+	힘들/pvg+어/ecx+지/px+게/ecs
+
+된다
+	되/pvg+ㄴ다/ef
+
+.
+	./sf
+
+
+또한
+	또한/maj
+
+영양소를
+	영양소/ncn+를/jco
+
+고려하지
+	고/pvg+려/ecx+하/px+지/ecx
+
+않은
+	않/px+은/etm
+
+무리한
+	무리/ncn+한/ncn
+
+다이어트
+	다이어트/ncpa
+
+식단은
+	식단/ncn+은/jxc
+
+몸
+	몰/pvg+ㅁ/etn
+
+속의
+	속/ncn+의/jcm
+
+영양불균형을
+	영양/ncn+불균형/ncpa+을/jco
+
+초래하고
+	초/nbu+이/jp+래/ef+하고/jcr
+
+영양결핍으로
+	영양결핍/ncpa+으로/jca
+
+인해
+	인하/pvg+어/ecx
+
+심하면
+	심하/paa+면/ecs
+
+무월경에
+	무월경/ncn+에/jca
+
+이를
+	이/npd+를/jco
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+또한,
+	뜨/pvg+어/ecx+하/px+ㄴ/etm+,/sp
+
+요요
+	요요/ncn
+
+현상
+	현상/ncn
+
+이외에도
+	이외/ncn+에/jca+도/jxc
+
+절식,
+	절식/ncpa+,/sp
+
+단식,
+	달/paa+ㄴ/etm+식/nbn+,/sp
+
+반식,
+	반식/ncn+,/sp
+
+굶기와
+	굶/pvg+기/etn+와/jct
+
+같은
+	같/paa+은/etm
+
+무리한
+	무리/ncn+한/ncn
+
+다이어트
+	다이어트/ncpa
+
+식단을
+	식단/ncn+을/jco
+
+시도하는
+	시도/ncpa+하/xsva+는/etm
+
+사람들은
+	사람/ncn+들/xsn+은/jxc
+
+탈모,
+	탈모/ncpa+,/sp
+
+요요
+	요요/ncn
+
+현상
+	현상/ncn
+
+이외에
+	이외/ncn+에/jca
+
+더
+	더/mag
+
+무서운
+	무섭/paa+은/etm
+
+다이어트
+	다이어트/ncpa
+
+부작용에
+	부작용/ncn+에/jca
+
+노출될
+	노출/ncpa+되/xsvn+ㄹ/etm
+
+위험이
+	위험/ncn+이/jcc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+소화불량,
+	소화불량/ncn+,/sp
+
+변비,
+	변비/ncn+,/sp
+
+등
+	등/nbu
+
+비교적
+	비교/ncpa+적/ncn
+
+약한
+	약하/paa+ㄴ/etm
+
+증상에서부터
+	증상/ncn+에서/jca+부터/jxc
+
+아주
+	아주/mag
+
+심각한
+	심각/ncps+하/xsms+ㄴ/etm
+
+경우에는
+	경우/ncn+에/jca+는/jxc
+
+골다공증,
+	골다공증/ncn+,/sp
+
+노화,
+	노화/ncpa+,/sp
+
+심장질환,
+	심장질환/ncn+,/sp
+
+뇌졸중
+	뇌졸중/ncn
+
+등
+	등/nbu
+
+생명에
+	생명/ncn+에/jca
+
+치명적인
+	치명/ncn+적/ncn+이/jp+ㄴ/etm
+
+영향을
+	영향/ncn+을/jco
+
+미치는
+	미치/pvg+는/etm
+
+부작용에
+	부작용/ncn+에/jca
+
+거릴
+	것/nbn+이/jp+리/ep+ㄹ/etm
+
+수도
+	수/nbn+도/jxc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+감비
+	감비/ncn
+
+다이어트(www.
+	다이어트(www./ncn
+
+ok44body.
+	ok44body./ncn
+
+com)
+	com/f+)/sr
+
+전문가들은
+	전문가/ncn+들/ncn+은/jxc
+
+일단
+	일단/mag
+
+탈모가
+	탈모/ncpa+가/jcc
+
+시작됐으면
+	시작/ncpa+되/xsvn+었/ep+으면/ecs
+
+콩,
+	콩/ncn+,/sp
+
+찹쌀,
+	찹쌀/ncn+,/sp
+
+두부,
+	두/nnc+부/nbu+,/sp
+
+생선
+	생선/ncn
+
+등
+	등/nbu
+
+동물성
+	동물성/ncn
+
+단백질을
+	단백질/ncn+을/jco
+
+풍부하게
+	풍부/ncps+하/xsms+게/ecs
+
+섭취하면서
+	섭취/ncpa+하/xsva+면서/ecc
+
+의사의
+	의사/ncr+의/jcm
+
+처방을
+	처방/ncpa+을/jco
+
+따라야
+	따르/pvg+아/ecx
+
+하지만
+	하/pvg+지만/ecs
+
+그보다
+	그/npp+보다/jca
+
+더
+	더/mag
+
+중요한
+	중요/ncps+하/xsms+ㄴ/etm
+
+건
+	거/nbn+은/jxc
+
+부작용
+	부작용/ncn
+
+없는
+	없/paa+는/etm
+
+건강한
+	건강/ncps+하/xsms+ㄴ/etm
+
+다이어트
+	다이어트/ncpa
+
+방법을
+	방법/ncn+을/jco
+
+선택하는
+	선택/ncpa+하/xsva+는/etm
+
+것
+	것/nbn
+
+이라고
+	이/npd+이/jp+라/ef+고/jcr
+
+강조했다
+	강조/ncpa+하/xsva+었/ep+다/ef
+
+.
+	./sf
+
+
+감비
+	감비/ncn
+
+다이어트에서는
+	다이어트/ncpa+에서/jca+는/jxc
+
+한방
+	한/nnc+방/nbu
+
+다이어트
+	다이어트/ncpa
+
+요법을
+	요법/ncn+을/jco
+
+통해
+	통하/pvg+어/ecs
+
+우리
+	우리/npp
+
+몸에
+	몸/ncn+에/jca
+
+쌓인
+	쌓이/pvg+ㄴ/etm
+
+노폐물을
+	노폐물/ncn+을/jco
+
+제거하고
+	제거/ncpa+하고/jct
+
+혈액
+	혈액/ncn
+
+순환을
+	순환/ncpa+을/jco
+
+촉진하면서
+	촉진/ncpa+하/xsva+면서/ecc
+
+인체의
+	인체/ncn+의/jcm
+
+효율을
+	효율/ncn+을/jco
+
+높여주는
+	높이/pvg+어/ecx+주/px+는/etm
+
+요법을
+	요법/ncn+을/jco
+
+시행하고
+	시행/ncpa+하고/jct
+
+있디
+	있/px+디/ecs
+
+.
+	./sf
+
+
+또,
+	뜨/pvg+어/ecs+,/sp
+
+단기간
+	단기간/ncn
+
+다이어트
+	다이어트/ncpa
+
+혹은
+	혹은/maj
+
+체지방감량,
+	체지방감량,/ncn
+
+셀룰라이트
+	셀룰라이트/ncn
+
+제거를
+	제거/ncpa+를/jco
+
+원하는
+	원하/pvg+는/etm
+
+사람들에게는
+	사람들/ncn+에게/jca+는/jxc
+
+지방분해침을
+	지방분/ncn+해침/ncn+을/jco
+
+이용한
+	이용/ncpa+하/xsva+ㄴ/etm
+
+한방
+	한/nnc+방/nbu
+
+요법을
+	요법/ncn+을/jco
+
+시행한다
+	시행/ncpa+하/xsva+ㄴ다/ef
+
+.
+	./sf
+
+
+지방분해침의
+	지방분/ncn+해침/ncn+의/jcm
+
+경우
+	경우/ncn
+
+해당부위의
+	해당/ncpa+부위/ncn+의/jcm
+
+체지방을
+	체지/ncn+방/ncn+을/jco
+
+녹여
+	녹이/pvg+어/ecx
+
+사라지게
+	사라지/pvg+게/ecs
+
+하면서도
+	하/pvg+면서/ecs+도/jxc
+
+부작용이
+	부작용/ncn+이/jcc
+
+전혀
+	전혀/mag
+
+없는
+	없/paa+는/etm
+
+천연해소법으로
+	천연/ncn+해소/ncpa+법/ncn+으로/jca
+
+주목
+	주목/ncpa
+
+받고
+	받/pvg+고/ecc
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+이
+	이/mmd
+
+밖에도
+	밖/ncn+에/jca+도/jxc
+
+사상의학에
+	사상의학/ncn+에/jca
+
+따른
+	따르/pvg+ㄴ/etm
+
+고객
+	고객/ncn
+
+체질별
+	체질/ncn+별/ncn
+
+맞춤
+	맞추/pvg+ㅁ/etn
+
+다이어트를
+	다이어트/ncpa+를/jco
+
+제공하고
+	제공/ncpa+하고/jct
+
+있으며,
+	있/px+으며/ecc+,/sp
+
+집에서
+	집/ncn+에서/jca
+
+살빼는
+	살빼/ncn+는/jxc
+
+법에서부터
+	법/ncn+에서/jca+부터/jxc
+
+각
+	각/mma
+
+부위별
+	부위/ncn+별/ncn
+
+운동과
+	운동/ncn+과/jcj
+
+체중
+	체중/ncn
+
+조절용
+	조절/ncpa+용/ncn
+
+다이어트
+	다이어트/ncpa
+
+식품,
+	식품/ncn+,/sp
+
+다이어트
+	다이어트/ncpa
+
+간식,
+	가/px+ㄴ/etm+식/nbn+,/sp
+
+칼로리표
+	칼로리/ncn+표/ncn
+
+등
+	등/nbu
+
+다이어트에
+	다이어트/ncpa+에/jca
+
+도움이
+	도움/ncn+이/jcc
+
+되는
+	되/pvg+는/etm
+
+다양한
+	다양/ncn+한/ncn
+
+정보를
+	정보/ncn+를/jco
+
+제공하고
+	제공/ncpa+하고/jct
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+자세한
+	자세/ncn+한/ncn
+
+사항은
+	사항/ncn+은/jxc
+
+감비
+	감비/ncn
+
+다이어트
+	다이어트/ncpa
+
+홈페이지와
+	홈페이지/ncn+와/jcj
+
+무료상담전화(080-850-2099)를
+	무료/ncps+상담/ncpa+전/ncn+화/xsnca+(/sl+080/nnc+-850/nnc+-2099/nnc+)/sr+를/jco
+
+통해
+	통하/pvg+어/ecs
+
+가격
+	가격/ncn
+
+및
+	및/maj
+
+기타
+	기타/ncn
+
+자세한
+	자세/ncn+한/ncn
+
+사항을
+	사항/ncn+을/jco
+
+상담문의
+	상담/ncpa+문/ncn+의/jcm
+
+할
+	하/pvg+ㄹ/etm
+
+수
+	수/nbn
+
+있다
+	있/px+다/ef
+
+.
+	./sf
+
+
+((위
+	(/sl+(/sl+위/ncn
+
+정보는
+	정보/ncn+는/jxc
+
+해당업체에서
+	해당업체/ncn+에서/jca
+
+제공한
+	제공/ncpa+하/xsva+ㄴ/etm
+
+정보입니다))기사
+	정보/ncn+이/jp+ㅂ니다/ef+)/sr+)/sr+기사/ncr
+
+제보
+	제보/ncpa
+
+및
+	및/maj
+
+보도자료
+	보도자료/ncn
+
+press@mydaily.
+	press/f+@/sy+mydaily/f+./sy
+
+co.
+	co/f+./sy
+
+kr
+	kr/f
+
+
+출처:마이데일리
+	출처:마이데/ncn+이/jp+ㄹ/etm+리/nbn
